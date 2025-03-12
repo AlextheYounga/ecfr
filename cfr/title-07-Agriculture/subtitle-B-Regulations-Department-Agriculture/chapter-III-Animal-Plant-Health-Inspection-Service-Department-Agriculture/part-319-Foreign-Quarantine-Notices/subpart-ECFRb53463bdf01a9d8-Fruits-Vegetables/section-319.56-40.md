@@ -1,5 +1,7 @@
 ##### § 319.56-40 Peppers from certain Central American countries. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh peppers (*Capsicum* spp.) may be imported into the United States from Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama only under the following conditions and in accordance with all other applicable provisions of this subpart:
 
 (a) For peppers of the species *Capsicum annuum, Capsicum frutescens, Capsicum baccatum,* and *Capsicum chinense* from areas free of Mediterranean fruit fly (Medfly), terms of entry are as follows:

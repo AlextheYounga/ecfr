@@ -1,5 +1,7 @@
 ##### § 319.56-77 Pitahaya from Ecuador. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh pitahaya (*Hylocereus* spp., *Acanthocereus* spp., *Cereus* spp., *Echinocereus* spp., *Escontria* spp., *Myrtillocactus* spp., and *Stenocereus* spp.) from Ecuador may be imported into the continental United States only under the conditions described in this section. These conditions are designed to prevent the introduction of the following quarantine pest: *Anastrepha fraterculus* (Wiedemann), South American fruit fly.
 
 (a) *General requirements.* The national plant protection organization (NPPO) of Ecuador must provide an operational workplan to APHIS that details activities that the NPPO of Ecuador will, subject to APHIS' approval of the workplan, carry out to meet the requirements of this section. The operational workplan must include and describe the specific requirements as set forth in this section.

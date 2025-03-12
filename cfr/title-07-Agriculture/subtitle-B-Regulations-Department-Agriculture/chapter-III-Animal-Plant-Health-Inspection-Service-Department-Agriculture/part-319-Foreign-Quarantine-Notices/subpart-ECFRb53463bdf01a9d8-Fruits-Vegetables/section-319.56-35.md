@@ -1,5 +1,7 @@
 ##### § 319.56-35 Persimmons from the Republic of Korea. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Persimmons (fruit) (*Disopyros khaki*) may be imported into the United States from the Republic of Korea only in accordance with this section and all other applicable provisions of this subpart.
 
 (a) The production site, which is an orchard, where the persimmons are grown must have been inspected at least once during the growing season and before harvest for the following pests: *Conogethes punctiferalis, Planococcus kraunhiae, Stathmopoda masinissa,* and *Tenuipalpus zhizhilashiviliae.*

@@ -1,5 +1,7 @@
 ##### § 319.56-64 Avocados from continental Spain. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh avocados (*Persea americana* P. Mill.) may be imported into the United States from continental Spain (excluding the Balearic Islands and Canary Islands) only under the conditions described in this section. These conditions are designed to prevent the introduction of the quarantine pest *Ceratitis capitata* (Wiedemann), the Mediterranean fruit fly.
 
 (a) *General requirements.* (1) The national plant protection organization (NPPO) of Spain must provide a workplan to APHIS that details the activities that the NPPO of Spain will, subject to APHIS' approval of the workplan, carry out to meet the requirements of this section. The NPPO of Spain must also establish a trust fund in accordance with § 319.56-6.

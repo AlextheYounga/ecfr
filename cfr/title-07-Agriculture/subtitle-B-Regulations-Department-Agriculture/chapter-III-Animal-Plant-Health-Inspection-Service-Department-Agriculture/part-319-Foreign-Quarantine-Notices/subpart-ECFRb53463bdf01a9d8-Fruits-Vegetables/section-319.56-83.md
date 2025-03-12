@@ -1,5 +1,7 @@
 ##### § 319.56-83 Tree tomatoes from Ecuador. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh tree tomatoes (*Solanum betaceum* Cavanilles) may be imported into the continental United States from Ecuador only under the conditions of this systems approach described in this section. These conditions are designed to prevent the introduction of the following quarantine pests: *Anastrepha fraterculus,* South American fruit fly; *Ceratitis capitata,* Mediterranean fruit fly; *Neoleucinodes elegantalis,* a moth; and the Tamarillo mosaic virus.
 
 (a) *General requirements* - (1) *Operational workplan.* The national plant protection organization (NPPO) of Ecuador must provide an operational workplan to APHIS that details the activities that the NPPO of Ecuador will carry out to meet the requirements of this section. The operational workplan must be approved by APHIS and include and describe specific requirements as set forth in this section. APHIS will be directly involved with the NPPO of Ecuador in monitoring and auditing implementation of the systems approach.

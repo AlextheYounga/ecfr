@@ -1,5 +1,7 @@
 ##### § 319.56-75 Andean blackberries and raspberries from Ecuador. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Andean blackberries (*Rubus glaucus* Benth) and raspberries (*Rubus idaeus* Linnaeus) may be imported into the continental United States from Ecuador under the conditions described in this section and other applicable provisions of this subpart. These conditions are designed to prevent the introduction of the following quarantine pests: *Anastrepha fraterculus,**Ceratitis capitata,* and *Copitarsia decolora.*
 
 (a) *General requirements.* (1) The national plant protection organization (NPPO) of Ecuador must provide an operational workplan to APHIS that details the systems approach to pest mitigations and other specific requirements that the NPPO of Ecuador will, subject to APHIS' approval of the workplan, carry out to meet the requirements of this section.

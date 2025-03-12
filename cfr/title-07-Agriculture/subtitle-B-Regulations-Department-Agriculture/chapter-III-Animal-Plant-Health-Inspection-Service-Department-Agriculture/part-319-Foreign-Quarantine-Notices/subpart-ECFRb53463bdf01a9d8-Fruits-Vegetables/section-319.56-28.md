@@ -1,5 +1,7 @@
 ##### § 319.56-28 Tomatoes from certain countries. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 (a) *Tomatoes (fruit) (Solanum lycopersicum) from Spain.* Pink or red tomatoes may be imported into the United States from Spain only in accordance with this section and all other applicable provisions of this subpart.5
 
 5 The surface area of a pink tomato is more than 30 percent but not more than 60 percent pink and/or red. The surface area of a red tomato is more than 60 percent pink and/or red. Green tomatoes from Spain, France, Morocco, and Western Sahara may be imported in accordance with §§ 319.56-3 and 319.56-4.

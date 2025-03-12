@@ -1,5 +1,7 @@
 ##### § 319.56-66 Potatoes from Mexico. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh potatoes (*Solanum tuberosum* L.) may be imported into the United States from Mexico only under the conditions described in this section. These conditions are designed to prevent the introduction of the following quarantine pests: *Copitarsia decolora* (Guenée), a moth; *Epicaerus cognatus* Sharp, potato weevil; *Globodera rostochiensis,* golden cyst nematode; *Nacobbus aberrans* (Thorne) Thorne & Allen, false root-knot nematode; *Ralstonia solanacearum* race 3 biovar 2 (Smith) Yabuuchi *et al.,* a bacterium that causes brown rot of potato; *Rosellinia bunodes* (Berk. & Broome) Sacc., a pathogenic fungus; *R. pepo* Pat., a pathogenic fungus; *Synchytrium endobioticum* (Schilb.) Percival, a pathogenic fungus that causes potato wart disease; and *Thecaphora solani* (Thirum. & M. O'Brien) Mordue, a pathogenic fungus that causes potato smut.
 
 (a) The national plant protection organization (NPPO) of Mexico must provide a bilateral workplan to APHIS that details the activities that the NPPO of Mexico will, subject to APHIS' approval of the workplan, carry out to meet the requirements of this section. The bilateral workplan must include and describe the quarantine pest survey intervals and other specific requirements as set forth in this section.

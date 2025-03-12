@@ -1,7 +1,5 @@
 ##### § 53.10 Claims not allowed. #####
 
-Link to an amendment published at 83 FR 40438, Aug. 15, 2018.
-
 (a) The Department will not allow claims arising under the terms of this part if the payee has not complied with all quarantine requirements.
 
 (b) Expenses for the care and feeding of animals held for destruction will not be paid by the Department, unless the payment of such expense is specifically authorized or approved by the Administrator.
@@ -44,21 +42,7 @@ Link to an amendment published at 83 FR 40438, Aug. 15, 2018.
 
 (Approved by the Office of Management and Budget under control number 0579-0192)
 
-(g) The Department will not allow claims arising out of the destruction of animals or eggs destroyed due to an outbreak of highly pathogenic avian influenza unless the owner of the animals or eggs and any party that enters into a contract with the owners to grow or care for the poultry or eggs, unless exempted under paragraph (g)(2) of this section, provide to APHIS a statement that at the time of detection of highly pathogenic avian influenza in the facility, the owner and contractor (if applicable), had in place and was following a biosecurity plan.
-
-(1) The biosecurity plan should include the following:
-
-(i) A biosecurity training program for premises/farm personnel;
-
-(ii) Biosecurity protocols for personnel;
-
-(iii) Procedures to control wild birds, rodents, and insects to reduce the risk of introduction or spread of HPAI;
-
-(iv) Measures taken to prevent HPAI introduction via vehicles and equipment;
-
-(v) Maintenance of a line of separation; and
-
-(vi) A clean water source for the facility.
+(g)(1) Except as provided in paragraph (g)(2) of this section, the Department will not allow claims arising out of the destruction of animals or eggs destroyed due to an outbreak of highly pathogenic avian influenza unless the owner of the animals or eggs and, if applicable, any party that enters into a contract with the owner to grow or care for the poultry or eggs, had in place, at the time of detection of highly pathogenic avian influenza, and was following a poultry biosecurity plan that meets the requirements of § 53.11(e).
 
 (2) Owners and contractors are exempted from the requirements of paragraph (g)(1) of this section if the facilities where the animals or eggs are raised or cared for falls under one of the following categories:
 
@@ -68,4 +52,4 @@ Link to an amendment published at 83 FR 40438, Aug. 15, 2018.
 
 (iii) Premises on which fewer than 30,000 meat turkeys are raised annually.
 
-[28 FR 5935, June 13, 1963, as amended at 45 FR 86411, Dec. 31, 1980; 56 FR 51974; 67 FR 17611, Apr. 11, 2002; 69 FR 27827, May 17, 2004; 81 FR 6750, Feb. 9, 2016]
+(Approved by the Office of Management and Budget under control number 0579-0440)[28 FR 5935, June 13, 1963, as amended at 45 FR 86411, Dec. 31, 1980; 56 FR 51974; 67 FR 17611, Apr. 11, 2002; 69 FR 27827, May 17, 2004; 81 FR 6750, Feb. 9, 2016; 83 FR 40438, Aug. 15, 2018]

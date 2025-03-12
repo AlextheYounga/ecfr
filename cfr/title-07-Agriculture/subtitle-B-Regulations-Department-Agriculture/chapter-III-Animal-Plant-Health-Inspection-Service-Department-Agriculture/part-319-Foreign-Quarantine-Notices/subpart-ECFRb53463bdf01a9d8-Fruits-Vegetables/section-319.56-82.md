@@ -1,5 +1,7 @@
 ##### § 319.56-82 Fresh cherimoya from Chile. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh cherimoya (*Annona cherimola*) fruit may be imported into the United States from Chile only under the following conditions and in accordance with all other applicable provisions of this subpart. These conditions are designed to prevent the introduction of the following quarantine pest: *Brevipalpus chilensis* mites.
 
 (a) *Commercial consignments.* The fresh cherimoya fruit may be imported in commercial consignments only.

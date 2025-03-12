@@ -1,5 +1,7 @@
 ##### § 319.56-62 Fresh beans, shelled or in pods, from Jordan. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh beans (*Phaseolus vulgaris* L.), shelled or in pods (French, green, snap, and string), may be imported into the continental United States from Jordan only under the conditions described in this section. These conditions are designed to prevent the introduction of the following quarantine pests: *Chrysodeixis chalcites, Helicoverpa armígera, Lampides boeticus Liriomyza huidobrensis, Maconellicoccus hirsutus, Phoma exigua* var. *diversispora,* and *Spodoptera littoralis.*
 
 (a) *Packinghouse requirements.* The beans must be packed in packing facilities that are approved and registered with Jordan's national plant protection organization (NPPO). Each shipping box must be marked with the identity of the packing facility.

@@ -1,5 +1,7 @@
 ##### § 319.56-54 French beans and runner beans from Kenya. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 French beans (*Phaseolus vulgaris* L.) and runner beans (*Phaseolus coccineus* L.) may be imported into the United States from Kenya only under the conditions described in this section. These conditions are designed to prevent the introduction of the following quarantine pests: *Bactrocera cucurbitae, Chrysodeixis chalcites, Dacus ciliatus, Helicoverpa armigera, Lampides boeticus, Liriomyza huidobrensis, Maconellicoccus hirsutus, Maruca vitrata, Spodoptera littoralis,* and *Thaumatotibia leucotreta.*
 
 (a) *Packinghouse requirements.* The beans must be packed in packing facilities that are approved and registered with Kenya's national plant protection organization (NPPO). Each shipping box must be marked with the identity of the packing facility.

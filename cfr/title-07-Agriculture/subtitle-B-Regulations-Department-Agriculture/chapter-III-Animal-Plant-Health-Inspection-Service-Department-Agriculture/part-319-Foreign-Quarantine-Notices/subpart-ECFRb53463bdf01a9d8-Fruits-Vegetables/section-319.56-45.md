@@ -1,5 +1,7 @@
 ##### § 319.56-45 Shelled garden peas from Kenya. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Garden peas (*Pisum sativum*) may be imported into the continental United States from Kenya only under the following conditions and in accordance with all other applicable provisions of this subpart:
 
 (a) The peas must be shelled from the pod.

@@ -1,5 +1,7 @@
 ##### § 319.56-33 Mangoes from the Philippines. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Mangoes (fruit) (*Mangifera indica*) may be imported into the United States from the Philippines only in accordance with this section and other applicable provisions of this subpart.
 
 (a) *Limitation of origin.* The mangoes must have been grown in an area that the Administrator has determined to be free of mango seed weevil (*Sternochetus mangiferae*) and mango pulp weevil (*Sternochetus frigidus*) in accordance with § 319.56-5 or be treated for mango seed weevil and mango pulp weevil in accordance with the requirements in paragraph (b) of this section. Mangoes from areas of the Philippines that are not free of mango seed weevil or that are not treated for mango seed weevil are eligible for importation into Hawaii and Guam only.

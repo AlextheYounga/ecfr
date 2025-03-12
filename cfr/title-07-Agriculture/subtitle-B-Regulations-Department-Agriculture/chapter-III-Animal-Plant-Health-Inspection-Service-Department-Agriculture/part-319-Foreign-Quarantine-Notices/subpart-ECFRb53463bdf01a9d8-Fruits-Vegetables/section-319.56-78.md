@@ -1,5 +1,7 @@
 ##### § 319.56-78 Hass avocados from Colombia. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh Hass variety (*Persea americana* P. Mill) avocados may be imported into the continental United States from Colombia only under the conditions described in this section. These conditions are designed to prevent the introduction of the following quarantine pests: *Heilipus lauri* Boheman, avocado seed weevil; *Heilipus trifasciatus,* avocado seed weevil; and *Stenoma catenifer,* avocado seed moth.
 
 (a) *General requirements* - (1) *Operational workplan.* The national plant protection organization (NPPO) of Colombia must provide an operational workplan to APHIS that details the activities that the NPPO of Colombia and places of production and packinghouses registered with the NPPO of Colombia will, subject to APHIS' approval of the workplan, carry out to meet the requirements of this section. The operational workplan must include and describe the specific requirements as set forth in this section. APHIS will be directly involved with the NPPO of Colombia in monitoring and auditing implementation of the regulatory requirements in this section, including implementation of the operational workplan.

@@ -1,5 +1,7 @@
 ##### § 319.56-71 Mangoes from Jamaica. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Mangoes (*Mangifera indica*) may be imported into the continental United States from Jamaica only under the following conditions:
 
 (a) *General requirements.* (1) The national plant protection organization (NPPO) of Jamaica must provide an operational workplan to APHIS that details the activities that the NPPO of Jamaica, subject to APHIS' approval of the workplan, will carry out to meet the requirements of this section.

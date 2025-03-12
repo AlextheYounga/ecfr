@@ -1,5 +1,7 @@
 ##### § 319.56-46 Mangoes from India. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Mangoes (*Mangifera indica*) may be imported into the continental United States from India only under the following conditions:
 
 (a) The mangoes must be treated with irradiation for plant pests of the class Insecta, except pupae and adults of the order Lepidoptera in accordance with part 305 of this chapter.

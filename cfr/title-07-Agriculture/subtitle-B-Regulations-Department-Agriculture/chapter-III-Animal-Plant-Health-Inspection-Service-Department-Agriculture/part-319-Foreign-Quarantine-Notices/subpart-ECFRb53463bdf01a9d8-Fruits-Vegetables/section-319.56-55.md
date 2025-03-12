@@ -1,5 +1,7 @@
 ##### § 319.56-55 Fresh pitaya from certain Central American countries. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh pitaya fruit (*Hylocereus* spp.) may be imported into the United States from Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama in accordance with the conditions described in this section. These conditions are designed to prevent the introduction of the following quarantine pests: *Anastrepha ludens, Ceratitis capitata, Dysmicoccus neobrevipes,* and *Planococcus minor.*
 
 (a) *Monitoring and oversight.* (1) The national plant protection organization (NPPO) of the exporting country must provide a workplan to APHIS that details the activities that the NPPO will, subject to APHIS approval, carry out to meet the requirements of this section. APHIS will be directly involved with the NPPO in the monitoring and auditing implementation of the systems approach.

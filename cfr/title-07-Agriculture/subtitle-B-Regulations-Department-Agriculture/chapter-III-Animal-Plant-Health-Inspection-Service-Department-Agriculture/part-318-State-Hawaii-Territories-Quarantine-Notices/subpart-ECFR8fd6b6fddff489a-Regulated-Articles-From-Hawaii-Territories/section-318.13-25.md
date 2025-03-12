@@ -1,5 +1,7 @@
 ##### § 318.13-25 Sweetpotatoes from Hawaii. #####
 
+Link to an amendment published at 83 FR 46638, Sept. 14, 2018.
+
 Sweetpotatoes may be moved interstate from Hawaii in accordance with this section only if the sweetpotatoes meet the conditions in paragraph (a) or paragraph (b) of this section or if the sweetpotatoes are fumigated with methyl bromide in accordance with part 305 of this chapter.
 
 (a) *Vapor heat treatment and inspection.* (1) The sweetpotatoes must be treated with vapor heat in accordance with part 305 of this chapter.

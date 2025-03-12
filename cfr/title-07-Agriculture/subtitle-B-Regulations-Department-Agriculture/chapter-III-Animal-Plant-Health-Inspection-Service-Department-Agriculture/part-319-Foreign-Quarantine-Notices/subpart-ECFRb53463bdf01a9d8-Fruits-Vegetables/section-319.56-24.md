@@ -1,5 +1,7 @@
 ##### § 319.56-24 Lettuce and peppers from Israel. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 (a) Lettuce may be imported into the United States from Israel without fumigation for leafminers, thrips, and *Sminthuris viridis* only in accordance with this section and all other applicable provisions of this subpart.
 
 (1) *Growing conditions.* (i) The lettuce must be grown in insect-proof houses covered with 50 mesh screens, double self-closing doors, and hard walks (no soil) between the beds;

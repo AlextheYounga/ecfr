@@ -1,5 +1,7 @@
 ##### § 319.56-60 Mangoes from Australia. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Mangoes (*Mangifera indica*) may be imported into the continental United States from Australia only under the following conditions:
 
 (a) The mangoes may be imported in commercial consignments only.

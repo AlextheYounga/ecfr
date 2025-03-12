@@ -1,5 +1,7 @@
 ##### § 319.56-31 Peppers from Spain. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Peppers (fruit) (*Capsicum* spp.) may be imported into the United States from Spain only under permit, and only in accordance with this section and all other applicable requirements of this subpart:
 
 (a) The peppers must be grown in the Alicante or Almeria Province of Spain in pest-proof greenhouses registered with, and inspected by, the Spanish Ministry of Agriculture, Fisheries, and Food (MAFF);

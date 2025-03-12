@@ -1,5 +1,7 @@
 ##### § 319.56-67 Cape gooseberry from Colombia. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Cape gooseberry (*Physalis peruviana*) may be imported into the United States from Colombia in accordance with the conditions described in this section. These conditions are designed to prevent the introduction of *Ceratitis capitata.*
 
 (a) *Workplan.* The national plant protection organization (NPPO) of Colombia must provide a bilateral workplan to APHIS that details the activities that the NPPO will, subject to APHIS' approval, carry out to meet the requirements of this section. APHIS will be directly involved with the NPPO in the monitoring and auditing implementation of the systems approach.

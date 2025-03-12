@@ -1,5 +1,7 @@
 ##### § 319.56-4 Approval of certain fruits and vegetables for importation. #####
 
+Link to an amendment published at 83 FR 46638, Sept. 14, 2018.
+
 (a) *Determination by the Administrator.* The Administrator has determined that the application of one or more of the designated phytosanitary measures cited in paragraph (b) of this section to certain imported fruits and vegetables mitigates the risk posed by those commodities, and that such fruits and vegetables may be imported into the United States subject to one or more of those measures, as provided in paragraphs (c) and (d) of this section. The name and origin of all fruits and vegetables authorized importation under this section, as well as the applicable requirements for their importation, may be found on the Internet at *http://www.aphis.usda.gov/import\_export/plants/manuals/ports/downloads/fv.pdf.* Commodities that require phytosanitary measures other than one or more of the designated phytosanitary measures cited in paragraph (b) of this section may only be imported in accordance with applicable requirements in § 319.56-3 and commodity-specific requirements contained elsewhere in this subpart.
 
 (b) *Designated phytosanitary measures.* (1) Fruits or vegetables are subject to inspection upon arrival in the United States and comply with all applicable provisions of § 319.56-3.

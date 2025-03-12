@@ -1,5 +1,7 @@
 ##### § 319.56-44 Untreated grapefruit, sweet oranges, and tangerines from Mexico for processing. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Untreated grapefruit (*Citrus paradisi*), sweet oranges (*Citrus sinensis*), and tangerines (*Citrus reticulata*) may be imported into the United States from Mexico for extracting juice if they originate from production sites in Mexico that are approved by APHIS because they meet the following conditions and any other conditions determined by the Administrator to be necessary to mitigate the pest risk that such fruits pose and in accordance with all other applicable provisions of this subpart:
 
 (a) *Application of sterile insect technique.* Production sites, and a surrounding 1.5 mile buffer area, must be administered under an APHIS-approved preventative release program using sterile insect technique for the Mexican fruit fly (*Anastrepha ludens*).

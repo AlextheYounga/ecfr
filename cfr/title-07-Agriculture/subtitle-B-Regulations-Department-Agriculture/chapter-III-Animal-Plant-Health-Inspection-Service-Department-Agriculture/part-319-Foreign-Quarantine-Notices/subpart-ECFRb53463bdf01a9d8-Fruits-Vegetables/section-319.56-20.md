@@ -1,5 +1,7 @@
 ##### § 319.56-20 Apples and pears from Australia (including Tasmania) and New Zealand. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Apples and pears from Australia (including Tasmania) and New Zealand may be imported only in accordance with this section and all other applicable provisions of this subpart.
 
 (a) *Inspection and treatment for pests of the family Tortricidae.* An inspector must take a biometrically designed sample from each lot of apples or pears that are offered for entry into the United States. If inspection of the sample discloses that pests of the family Tortricidae (fruit-leaf roller moths) are not present in the lot sampled, the fruit may be imported without treatment. If any such pests are found upon inspection, the lot must be treated with methyl bromide as prescribed in part 305 of this chapter.

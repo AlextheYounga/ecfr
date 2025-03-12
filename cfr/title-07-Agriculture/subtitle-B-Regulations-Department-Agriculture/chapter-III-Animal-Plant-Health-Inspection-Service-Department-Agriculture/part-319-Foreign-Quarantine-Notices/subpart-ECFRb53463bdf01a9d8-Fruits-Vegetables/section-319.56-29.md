@@ -1,5 +1,7 @@
 ##### § 319.56-29 Ya variety pears from China. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Ya variety pears may be imported into the United States from China only in accordance with this section and all other applicable provisions of this subpart.
 
 (a) *Growing and harvest conditions.* (1) The pears must have been grown by growers registered with the national plant protection organization (NPPO) of China in an APHIS-approved export growing area in the Hebei or Shandong Provinces.

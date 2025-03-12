@@ -1,5 +1,7 @@
 ##### § 319.56-74 Peppers from Ecuador. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh peppers (*Capsicum annum* L., *Capsicum baccatum* L., *Capsicum chinense* Jacq., *Capsicum frutescens* L., and *Capsicum pubescens* Ruiz & Pav.) from Ecuador may be imported into the continental United States only under the conditions described in this section. These conditions are designed to prevent the introduction of the following quarantine pests: Andean potato mottle virus; *Anastrepha fraterculus* (Wiedemann), South American fruit fly; *Ceratitis capitata* (Wiedemann), Mediterranean fruit fly; *Neoleucinodes elegantalis* (Guenée), a fruit boring moth; *Puccinia pampeana* Speg., a pathogenic fungus that causes pepper and green pepper rust; *Spodoptera litura* (Fabricius), a leaf-eating moth; *Thrips palmi* Karny, an arthropod; and *Tuta absoluta* (Meyrick) Povolny, South American tomato moth, tomato leaf miner.
 
 (a) *General requirements.* The national plant protection organization (NPPO) of Ecuador must provide an operational workplan to APHIS that details activities that the NPPO of Ecuador will, subject to APHIS' approval of the workplan, carry out to meet the requirements of this section. The operational workplan must include and describe the specific requirements as set forth in this section.

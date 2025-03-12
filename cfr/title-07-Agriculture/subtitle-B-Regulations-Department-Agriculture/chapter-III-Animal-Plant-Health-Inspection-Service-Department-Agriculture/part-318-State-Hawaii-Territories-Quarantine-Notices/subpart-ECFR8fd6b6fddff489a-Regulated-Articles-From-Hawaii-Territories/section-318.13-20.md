@@ -1,5 +1,7 @@
 ##### § 318.13-20 Sharwil avocados from Hawaii to the continental United States. #####
 
+Link to an amendment published at 83 FR 46638, Sept. 14, 2018.
+
 Commercial shipments of Sharwil avocados may be moved interstate from Hawaii to the continental United States without treatment under the following conditions:
 
 (a) *Registration.* Persons wishing to move Sharwil avocados in accordance with this section must register the avocados' place of production and the packinghouse that packs the avocados. A registration form may be obtained from local APHIS offices in Hawaii. Persons registering places of production or packinghouses must agree to allow inspectors access to the places of production and packinghouses as necessary to monitor compliance with this section.

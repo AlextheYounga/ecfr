@@ -1,5 +1,7 @@
 ##### § 319.56-43 Baby corn and baby carrots from Zambia. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 (a) Immature, dehusked “baby” sweet corn (*Zea mays* L.) measuring 10 to 25 millimeters (0.39 to 0.98 inches) in diameter and 60 to 105 millimeters (2.36 to 4.13 inches) in length may be imported into the continental United States from Zambia only under the following conditions and in accordance with all other applicable provisions of this subpart:
 
 (1) The production site, which is a field, where the corn has been grown must have been inspected at least once during the growing season and before harvest for the following pest: *Phomopsis jaczewskii.*

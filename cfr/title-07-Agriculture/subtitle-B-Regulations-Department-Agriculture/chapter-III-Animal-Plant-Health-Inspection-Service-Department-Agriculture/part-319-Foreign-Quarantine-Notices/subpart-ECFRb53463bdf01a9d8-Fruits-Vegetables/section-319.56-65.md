@@ -1,5 +1,7 @@
 ##### § 319.56-65 Jackfruit, pineapple, and starfruit from Malaysia. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh jackfruit (*Artocarpus heterophyllus* Lam.), pineapple (*Ananas comosus* (L.) Merr.), and starfruit (*Averrhoa carambola* L.) may be imported into the continental United States from Malaysia only under the conditions described in this section.
 
 (a) *General requirements for jackfruit, pineapple, and starfruit from Malaysia.* (1) Jackfruit, pineapple, and starfruit from Malaysia must be treated for plant pests with irradiation in accordance with part 305 of this chapter.

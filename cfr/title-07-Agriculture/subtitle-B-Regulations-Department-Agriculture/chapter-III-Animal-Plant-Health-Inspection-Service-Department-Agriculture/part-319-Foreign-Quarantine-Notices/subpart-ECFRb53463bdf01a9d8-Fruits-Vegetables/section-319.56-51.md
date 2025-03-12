@@ -1,5 +1,7 @@
 ##### § 319.56-51 Shepherd's purse with roots from the Republic of Korea. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Shepherd's purse (*Capsella bursa*-*pastoris* (L.) Medick) with roots from the Republic of Korea may be imported only under the following conditions:
 
 (a) The shepherd's purse with roots must be grown in a pest-free place of production that is registered with the national plant protection organization (NPPO) of the Republic of Korea. Fields must be certified free of the quarantine nematodes *Hemicycliophora koreana,**Paratylenchus pandus,**Rotylenchus orientalis,* and *Rotylenchus pini* by sampling and microscopic inspection of the samples by the NPPO of the Republic of Korea. The sampling and inspection protocol must be preapproved by APHIS.

@@ -1,5 +1,7 @@
 ##### § 319.56-81 Fresh mango from Vietnam. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh mango (*Mangifera indica* L.) fruit may be imported into the continental United States under the following conditions:
 
 (a) The fresh mango fruit may be imported in commercial consignments only.

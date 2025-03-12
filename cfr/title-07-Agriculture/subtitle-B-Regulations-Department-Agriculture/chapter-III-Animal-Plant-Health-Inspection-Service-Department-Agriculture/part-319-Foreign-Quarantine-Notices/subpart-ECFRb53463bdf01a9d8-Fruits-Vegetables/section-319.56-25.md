@@ -1,5 +1,7 @@
 ##### § 319.56-25 Papayas from Central America and South America. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Commercial consignments of the Solo type of papaya may be imported into the United States only in accordance with this section and all other applicable provisions of this subpart.
 
 (a) The papayas were grown and packed for shipment to the continental United States (including Alaska), Puerto Rico, and the U.S. Virgin Islands in one of the following locations:

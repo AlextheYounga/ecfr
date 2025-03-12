@@ -1,6 +1,6 @@
 ##### § 1.1402 Definitions. #####
 
-Link to an amendment published at 83 FR 44838, September 4, 2018.
+Link to an amendment published at 83 FR 44838, September 4, 2018.Link to an amendment published at 83 FR 46836, September 14, 2018.
 
 (a) The term *utility* means any person that is a local exchange carrier or an electric, gas, water, steam, or other public utility, and who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for any wire communications. Such term does not include any railroad, any person that is cooperatively organized, or any person owned by the Federal Government or any State.
 

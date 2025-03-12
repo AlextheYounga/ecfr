@@ -1,5 +1,7 @@
 ##### § 319.56-73 Peppers From Peru. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh peppers (*Capsicum annum* L., *Capsicum baccatum* L., *Capsicum chinense* Jacq., *Capsicum frutescens* L., and *Capsicum pubescens* Ruiz & Pav.) may be imported into the continental United States and its Territories only under the conditions described in this section. These conditions are designed to prevent the introduction of the following quarantine pests: *Anastrepha fraterculus* (Wiedemann), South American fruit fly; *Ceratitis capitata* (Wiedemann), Mediterranean fruit fly; *Neoleucinodes elegantalis* (Guenée), a fruit boring moth; and *Puccinia pampeana* Speg., a pathogenic fungus that causes pepper and green pepper rust.
 
 (a) *Operational workplan.* The national plant protection organization (NPPO) of Peru must provide an operational workplan to APHIS that details the activities that the NPPO of Peru will, subject to APHIS' approval of the workplan, carry out to meet the requirements of this section. The operational workplan must include and describe the quarantine pest survey intervals and other specific requirements as set forth in this section.

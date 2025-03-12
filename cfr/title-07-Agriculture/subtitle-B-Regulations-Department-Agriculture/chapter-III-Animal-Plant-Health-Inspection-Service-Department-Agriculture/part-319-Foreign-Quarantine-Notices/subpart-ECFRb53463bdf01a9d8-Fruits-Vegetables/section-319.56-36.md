@@ -1,5 +1,7 @@
 ##### § 319.56-36 Watermelon, squash, cucumber, and oriental melon from the Republic of Korea. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Watermelon (*Citrullus lanatus*), squash (*Cucurbita maxima*), cucumber (*Cucumis sativus*), and oriental melon (*Cucumis melo*) may be imported into the United States from the Republic of Korea only in accordance with this paragraph and all other applicable provisions of this subpart:
 
 (a) The fruit must be grown in pest-proof greenhouses registered with the Republic of Korea's national plant protection organization (NPPO).

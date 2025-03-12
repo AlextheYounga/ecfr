@@ -1,5 +1,7 @@
 ##### § 319.56-68 Female squash flowers from Israel. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Female squash flowers (*Cucurbita pepo* L.) may be imported into the continental United States from Israel only in accordance with this section and other applicable provisions of this subpart. These conditions are designed to prevent the introduction of the following quarantine pests: *Ceratitis capitata, Dacus ciliatus, Helicoverpa armigera,* and *Scirtothrips dorsalis.*
 
 (a) *Production site requirements.* (1) Production sites in which the female squash flowers are produced must be registered with the national plant protection organization (NPPO) of Israel. Initial approval of production sites must be completed jointly by the NPPO of Israel and APHIS.

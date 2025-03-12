@@ -1,5 +1,7 @@
 ##### § 318.13-16 Regulated articles allowed interstate movement subject to specified conditions. #####
 
+Link to an amendment published at 83 FR 46638, Sept. 14, 2018.
+
 (a) The following regulated articles may be moved interstate in accordance with § 318.13-3 and any additional requirements specified in paragraph (b) of this section.
 
 |State, territory, or district of origin|                    Common name                    |    Botanical name     |Plant part(s)|Additional  <br/>requirements|

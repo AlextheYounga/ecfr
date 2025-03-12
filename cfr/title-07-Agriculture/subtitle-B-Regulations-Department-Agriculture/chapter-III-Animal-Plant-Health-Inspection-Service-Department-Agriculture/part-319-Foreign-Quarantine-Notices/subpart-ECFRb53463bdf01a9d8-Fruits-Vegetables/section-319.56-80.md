@@ -1,5 +1,7 @@
 ##### § 319.56-80 Persimmons from New Zealand. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh persimmons (*Diospyros kaki* Thunb.) may be imported into the United States only under the conditions described in this section. These conditions are designed to prevent the introduction of the quarantine pests *Colletotrichum horii* B. Weir & P.R. Johnst., *Cnephasia jactatana* (Walker), *Cryptosporiopsis actinidiae* P.R. Johnst., M.A. Manning & X. Meier, *Ctenopseustis herana* (Felder and Rogenhofer), *Ctenopseustis obliquana* (Walker), *Epiphyas postvittana* (Walker), *Planotortrix excessana* (Walker), *Sperchia intractana* (Walker), and *Stathmopoda skelloni* (Butler).
 
 (a) *Operational workplan.* The national plant protection organization (NPPO) of New Zealand must provide an operational workplan to APHIS that details the activities that the NPPO of New Zealand will, subject to APHIS' approval of the workplan, carry out to meet the requirements of this section. The operational workplan must include and describe the quarantine pest survey intervals and other specific requirements as set forth in this section.

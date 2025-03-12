@@ -1,5 +1,7 @@
 ##### § 319.56-52 Tomatoes with stems from the Republic of Korea. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh tomatoes with stems (*Solanum lycopersicum* L.) (Synonym: *Lycopersicon esculentum* P. Mill.) may be imported into the United States from the Republic of Korea only under the conditions described in this section. These conditions are designed to prevent the introduction of the following quarantine pests: *Bactrocera depressa,**Heliocoverpa armigera,**Heliocoverpa assulta,**Mamestra brassicae,**Ostrinia furnacalis,**Scirtothrips dorsalis,* and *Thrips palmi.*
 
 (a) *Registered pest-exclusionary structures.* The tomatoes must be grown in pest-exclusionary structures that are registered with the national plant protection organization (NPPO) of the Republic of Korea and approved by the NPPO of the Republic of Korea and APHIS.

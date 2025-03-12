@@ -1,5 +1,7 @@
 ##### § 319.56-56 Fresh pomegranates from Chile. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh pomegranates (*Punica granatum*) may be imported into the continental United States from Chile under the following conditions:
 
 (a) *Production site registration.* The production site where the fruit is grown must be registered with the national plant protection organization (NPPO) of Chile. Harvested pomegranates must be placed in field cartons or containers that are marked to show the official registration number of the production site. Registration must be renewed annually.

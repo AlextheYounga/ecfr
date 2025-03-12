@@ -1,5 +1,7 @@
 ##### § 319.56-63 Fresh apricots from continental Spain. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh apricots (*Prunus armeniaca* L.) may be imported into the United States from continental Spain (excluding the Balearic Islands and Canary Islands) only under the conditions described in this section. These conditions are designed to prevent the introduction of the following quarantine pests: *Apiognomonia erythrostoma* (Pers.), a brown rot fungus; *Ceratitis capitata* Wiedemann, the Mediterranean fruit fly; *Cydia funebrana* (Treitschke), the plum fruit moth; and *Monilinia fructigena* Honey, the leaf scorch fungus.
 
 (a) *General requirements.* (1) The national plant protection organization (NPPO) of Spain must provide a bilateral workplan to APHIS that details the activities that the NPPO of Spain will, subject to APHIS' approval of the workplan, carry out to meet the requirements of this section. APHIS will be directly involved with the NPPO of Spain in monitoring and auditing implementation of the systems approach. The NPPO of Spain must also enter into a trust fund agreement with APHIS in accordance with § 319.56-6.

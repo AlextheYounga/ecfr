@@ -1,5 +1,7 @@
 ##### § 319.56-47 Certain fruits from Thailand. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Litchi (*Litchi chinensis*), longan (*Dimocarpus longan*), mango (*Mangifera indica*), mangosteen (*Garcinia mangoestana* L.), pineapple (*Ananas comosus*), and rambutan (*Nephelium lappaceum* L.) may be imported into the United States from Thailand only under the following conditions:
 
 (a) *Growing conditions.* Litchi, longan, mango, mangosteen, pineapple, and rambutan must be grown in a production area that is registered with and monitored by the national plant protection organization of Thailand.

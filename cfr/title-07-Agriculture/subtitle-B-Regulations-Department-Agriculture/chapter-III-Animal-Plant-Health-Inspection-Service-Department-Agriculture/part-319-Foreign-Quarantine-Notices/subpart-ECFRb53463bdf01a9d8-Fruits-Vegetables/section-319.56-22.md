@@ -1,5 +1,7 @@
 ##### § 319.56-22 Apples and pears from certain countries in Europe. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 (a) *Importations allowed.* The following fruits may be imported into the United States in accordance with this section and all other applicable provisions of this subpart:
 
 (1) Apples from Belgium, Denmark, France, Germany, Great Britain, Italy, the Netherlands, Northern Ireland, Norway, Portugal, the Republic of Ireland, Spain, Sweden, and Switzerland;

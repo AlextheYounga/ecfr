@@ -1,6 +1,6 @@
 ##### § 319.28 Notice of quarantine. #####
 
-Link to an amendment published at 83 FR 11856, Mar. 19, 2018.
+Link to an amendment published at 83 FR 46638, Sept. 14, 2018.
 
 (a)(1) To prevent the introduction into the United States of citrus canker disease *Xanthomonas campestris* pv. *citri* (Hasse) Dye, the importation of all fruits and peel of all genera, species, and varieties of the subfamilies *Aurantioideae, Rutoideae,* and *Toddalioideae* of the botanical family *Rutaceae* from eastern and southeastern Asia (including India, Myanmar, Sri Lanka, Thailand, Indochina, and the People's Republic of China); the Malay Archipelago; the Philippine Islands; Oceania (except Australia and Tasmania); Japan and adjacent islands; the Republic of Korea; Mauritius; Seychelles; Argentina; Brazil; and Paraguay is prohibited.
 
@@ -8,7 +8,7 @@ Link to an amendment published at 83 FR 11856, Mar. 19, 2018.
 
 (3) To prevent the introduction into the United States of the bacterial disease “Cancrosis B,” the importation of fruits and peel of all species and varieties of the genus *Citrus,* including those indicated in the previous paragraph, is prohibited from Argentina (except for the States of Catamarca, Jujuy, Salta, and Tucuman, which are considered free of Cancrosis B), Paraguay, and Uruguay.
 
-(4) Seeds and processed peel of fruits designated in this section are excluded from this prohibition. Such seeds, however, are subject to the requirements of §§ 319.37 through 319.37-27.
+(4) Seeds and processed peel of fruits designated in this section are excluded from this prohibition. Such seeds, however, are subject to the requirements of §§ 319.37-1 through 319.37-23.
 
 (b) *Unshu oranges from Japan.* The prohibition does not apply to Unshu oranges (*Citrus reticulata* Blanco var. *unshu,* Swingle [*Citrus unshiu* Marcovitch, Tanaka]), also known as Satsuma mandarin, grown in Japan and imported under permit into any area of the United States except for those areas specified in paragraph (b)(8) of this section: *Provided,* that each of the following safeguards is fully carried out:
 
@@ -30,7 +30,7 @@ Link to an amendment published at 83 FR 11856, Mar. 19, 2018.
 
 (ii) Each shipment of oranges handled in accordance with these procedures shall be accompanied by a certificate of the plant protection service of Japan certifying that the fruit is apparently free of citrus canker disease.
 
-(8) The Unshu oranges may be imported into the United States only through a port of entry identified in § 319.37-14 that is located in an area of the United States into which their importation is authorized. The following importation restrictions apply:
+(8) The Unshu oranges may be imported into the United States only through a Customs designated port of entry indicated in 19 CFR 101.3(b)(1) that is located in an area of the United States into which their importation is authorized. The following importation restrictions apply:
 
 (i) Unshu oranges from Honshu Island or Shikoku Island, Japan, that have been fumigated in accordance with part 305 of this chapter may be imported into any area of the United States except American Samoa, the Northern Mariana Islands, Puerto Rico, and the U.S. Virgin Islands.
 
@@ -64,4 +64,4 @@ Link to an amendment published at 83 FR 11856, Mar. 19, 2018.
 
 (j) The term *United States* means the States, District of Columbia, American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands of the United States.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0173, 0579-0314, 0579-0418, and 0579-0424)[32 FR 7959, June 2, 1967]Editorial Note:For Federal Register citations affecting § 319.28, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+Approved by the Office of Management and Budget under control numbers 0579-0173 and 0579-0314)[32 FR 7959, June 2, 1967]Editorial Note:For Federal Register citations affecting § 319.28, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

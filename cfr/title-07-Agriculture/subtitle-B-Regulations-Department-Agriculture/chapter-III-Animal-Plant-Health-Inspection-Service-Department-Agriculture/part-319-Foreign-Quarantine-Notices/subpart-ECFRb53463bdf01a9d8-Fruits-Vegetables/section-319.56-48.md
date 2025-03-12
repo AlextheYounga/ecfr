@@ -1,5 +1,7 @@
 ##### § 319.56-48 Conditions governing the entry of baby squash and baby courgettes from Zambia. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Baby squash (*Curcurbita maxima* Duchesne) and baby courgettes (C. pepo. L.) measuring 10 to 25 millimeters (0.39 to 0.98 inches) in diameter and 60 to 105 millimeters (2.36 to 4.13 inches) in length may be imported into the continental United States from Zambia only under the conditions described in this section. These conditions are designed to prevent the introduction of the following quarantine pests: *Aulacaspis tubercularis, Dacus bivitattus, Dacus ciliatus, Dacus frontalis, Dacus lounsburyii, Dacus punctatifrons, Dacus vertebratus, Diaphania indica, Helicoverpa armigera,* and *Spodoptera littoralis.*
 
 (a) *Approved greenhouses.* The baby squash and baby courgettes must be grown in Zambia in insect-proof, pest-free greenhouses approved jointly by the Zambian national plant protection organization (NPPO) and APHIS.

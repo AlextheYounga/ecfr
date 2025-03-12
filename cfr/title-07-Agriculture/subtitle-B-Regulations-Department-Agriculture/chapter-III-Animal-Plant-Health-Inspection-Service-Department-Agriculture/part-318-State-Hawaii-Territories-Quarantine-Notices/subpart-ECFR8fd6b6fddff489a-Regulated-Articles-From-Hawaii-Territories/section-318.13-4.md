@@ -1,5 +1,7 @@
 ##### § 318.13-4 Approval of certain fruits and vegetables for interstate movement. #####
 
+Link to an amendment published at 83 FR 46637, Sept. 14, 2018.
+
 (a) *Determination by the Administrator.* The Administrator has determined that the application of one or more of the designated phytosanitary measures cited in paragraph (b) of this section to certain fruits and vegetables mitigates the risk posed by those commodities, and that such articles may be moved interstate subject to one or more of those measures, as provided in paragraphs (c) and (d) of this section. The name and origin of all fruits and vegetables authorized movement under this section, as well as the applicable requirements for their movement, may be found on the Internet at *http://www.aphis.usda.gov/import\_export/plants/manuals/ports/downloads/hawaii.pdf* or *http://www.aphis.usda.gov/import\_export/plants/manuals/ports/downloads/puerto\_rico.pdf.* Fruits or vegetables that require phytosanitary measures other than one or more of the designated phytosanitary measures cited in paragraph (b) of this section may only be moved in accordance with applicable requirements in § 318.13-3 and regulated article-specific requirements contained elsewhere in this subpart.
 
 (b) *Designated phytosanitary measures.* (1) The fruits and vegetables are inspected in the State of origin or in the first State of arrival.

@@ -1,7 +1,5 @@
 ##### § 53.1 Definitions. #####
 
-Link to an amendment published at 83 FR 40438, Aug. 15, 2018.
-
 *Accredited veterinarian.* A veterinarian approved by the Administrator in accordance with part 161 of this chapter to perform functions specified in parts 1, 2, 3, and 11 of subchapter A of this chapter and subchapters B, C, and D of this chapter, and to perform functions required by cooperative State-Federal disease control and eradication programs.
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
@@ -40,8 +38,10 @@ Link to an amendment published at 83 FR 40438, Aug. 15, 2018.
 
 *Poultry.* Chickens, ducks, geese, swans, turkeys, pigeons, doves, pheasants, grouse, partridges, quail, guinea fowl, and pea fowl.
 
+*Poultry biosecurity plan.* A document utilized by an owner and/or contractor describing the management practices and principles that are used to prevent the introduction and spread of infectious diseases of poultry at a specific facility.
+
 *Secretary.* The Secretary of Agriculture of the United States, or any officer or employee of the Department to whom authority has been or may be delegated to act in the Secretary's stead.
 
 *State.* Each of the States of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, the Virgin Islands of the United States, or any other territory or possession of the United States.
 
-[61 FR 56882, Nov. 5, 1996, as amended at 67 FR 17610, Apr. 11, 2002; 69 FR 27827, May 17, 2004; 74 FR 18287, Apr. 22, 2009; 78 FR 19082, Mar. 29, 2013; 83 FR 15492, Apr. 11, 2018]
+[61 FR 56882, Nov. 5, 1996, as amended at 67 FR 17610, Apr. 11, 2002; 69 FR 27827, May 17, 2004; 74 FR 18287, Apr. 22, 2009; 78 FR 19082, Mar. 29, 2013; 83 FR 15492, Apr. 11, 2018; 83 FR 40438, Aug. 15, 2018]

@@ -1,5 +1,7 @@
 ##### § 318.13-22 Bananas from Hawaii. #####
 
+Link to an amendment published at 83 FR 46638, Sept. 14, 2018.
+
 (a) Green bananas (*Musa* spp.) of the cultivars “Williams,” “Valery,” “Grand Nain,” and standard and dwarf “Brazilian” may be moved interstate from Hawaii with certification in accordance with § 318.13-3 if the bananas meet the following conditions:3
 
 3 Bananas from Hawaii may also be moved to Alaska under § 318.13-16.

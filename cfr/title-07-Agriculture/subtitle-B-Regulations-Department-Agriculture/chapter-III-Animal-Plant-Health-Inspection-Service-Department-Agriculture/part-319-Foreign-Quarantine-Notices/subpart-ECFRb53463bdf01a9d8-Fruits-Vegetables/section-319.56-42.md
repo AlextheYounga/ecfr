@@ -1,5 +1,7 @@
 ##### § 319.56-42 Peppers from the Republic of Korea. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Peppers (*Capsicum annuum* L. var. *annuum*) from the Republic of Korea may be imported into the continental United States only under the following conditions and in accordance with all other applicable provisions of this subpart:
 
 (a) The peppers must be grown in the Republic of Korea in insect-proof greenhouses approved by and registered with the National Plant Quarantine Service (NPQS).

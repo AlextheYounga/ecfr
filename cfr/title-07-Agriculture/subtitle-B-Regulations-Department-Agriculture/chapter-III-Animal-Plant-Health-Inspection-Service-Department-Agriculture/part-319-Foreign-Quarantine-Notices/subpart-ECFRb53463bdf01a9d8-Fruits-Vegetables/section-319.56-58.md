@@ -1,5 +1,7 @@
 ##### § 319.56-58 Bananas from the Philippines. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Bananas (*Musa* spp., which include *M. acuminate* cultivars and *M. acuminate* × *M. balbisiana* hybrids) may be imported into the continental United States, Guam, Hawaii, and the Northern Mariana Islands from the Philippines only under the conditions described in this section.
 
 (a) *General requirements.* (1) The national plant protection organization (NPPO) of the Philippines must provide an operational workplan to APHIS that details the activities that the NPPO of the Philippines will, subject to APHIS' approval of the workplan, carry out to meet the requirements of this section.

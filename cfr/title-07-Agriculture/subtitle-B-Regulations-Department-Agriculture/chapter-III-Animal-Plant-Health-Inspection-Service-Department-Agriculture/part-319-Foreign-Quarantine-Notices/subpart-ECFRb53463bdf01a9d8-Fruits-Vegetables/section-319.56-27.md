@@ -1,5 +1,7 @@
 ##### § 319.56-27 Apples from Japan and the Republic of Korea. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Any variety of *Malus domestica* apples may be imported into the United States from Japan, and Fuji variety apples may be imported into the United States from the Republic of Korea, only in accordance with this section and all other applicable provisions of this subpart.
 
 (a) *Treatment and fumigation.* The apples must be cold treated and then fumigated, under the supervision of an APHIS inspector, either in Japan or the Republic of Korea, for the peach fruit moth (*Carposina niponensis*), the yellow peach moth (*Conogethes punctiferalis*), and the fruit tree spider mite (*Tetranychus viennensis*), in accordance with part 305 of this chapter.

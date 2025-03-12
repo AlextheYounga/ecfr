@@ -1,5 +1,7 @@
 ##### § 319.56-26 Melon and watermelon from certain countries in South America. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 (a) *Cantaloupe and watermelon from Ecuador.* Cantaloupe (*Cucumis melo*) and watermelon (fruit) (*Citrullus lanatus*) may be imported into the United States from Ecuador only in accordance with this paragraph and all other applicable provisions of this subpart:
 
 (1) The cantaloupe or watermelon may be imported in commercial consignments only.

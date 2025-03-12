@@ -1,5 +1,7 @@
 ##### § 318.13-24 Sweet potatoes from Puerto Rico. #####
 
+Link to an amendment published at 83 FR 46638, Sept. 14, 2018.
+
 Sweet potatoes from Puerto Rico may be moved interstate to Atlantic Coast ports north of and including Baltimore, MD, under limited permit if treated in accordance with part 305 of this chapter or if the following conditions are met:
 
 (a) The sweet potatoes must be certified by an inspector of Puerto Rico as having been grown under the following conditions:

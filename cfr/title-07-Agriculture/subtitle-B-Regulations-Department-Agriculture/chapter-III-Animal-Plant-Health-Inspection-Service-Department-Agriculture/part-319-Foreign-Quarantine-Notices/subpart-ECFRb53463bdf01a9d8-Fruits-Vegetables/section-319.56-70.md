@@ -1,5 +1,7 @@
 ##### § 319.56-70 Fresh litchi and longan from Vietnam. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Litchi (*Litchi chinensis* Sonn.) and longan (*Dimocarpus longan* Lour.) fruit may be imported into the continental United States from Vietnam only under the following conditions:
 
 (a) *Growing conditions.* Litchi fruit must be grown in orchards registered with and monitored by the national plant protection organization (NPPO) of Vietnam to ensure that the fruit are free of disease caused by *Phytophthora litchii.*

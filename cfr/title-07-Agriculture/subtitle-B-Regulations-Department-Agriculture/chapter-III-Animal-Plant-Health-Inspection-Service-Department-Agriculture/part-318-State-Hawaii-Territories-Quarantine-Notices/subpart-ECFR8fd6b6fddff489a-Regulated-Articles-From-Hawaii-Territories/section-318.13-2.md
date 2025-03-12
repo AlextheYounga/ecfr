@@ -1,5 +1,7 @@
 ##### § 318.13-2 Definitions. #####
 
+Link to an amendment published at 83 FR 46637, Sept. 14, 2018.
+
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service (APHIS), U.S. Department of Agriculture, or any other employee of APHIS to whom authority has been delegated to act in the Administrator's stead.
 
 *Animal and Plant Health Inspection Service.* The Animal and Plant Health Inspection Service (APHIS) of the U.S. Department of Agriculture.

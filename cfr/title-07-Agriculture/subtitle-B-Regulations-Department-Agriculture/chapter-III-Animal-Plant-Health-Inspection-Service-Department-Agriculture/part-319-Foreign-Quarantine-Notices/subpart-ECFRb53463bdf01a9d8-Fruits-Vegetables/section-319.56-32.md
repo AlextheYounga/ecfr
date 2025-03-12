@@ -1,5 +1,7 @@
 ##### § 319.56-32 Peppers from New Zealand. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Peppers (fruit) (*Capsicum* spp.) from New Zealand may be imported into the United States only in accordance with this section and all other applicable provisions of this subpart.
 
 (a) The peppers must be grown in New Zealand in insect-proof greenhouses approved by the New Zealand Ministry of Agriculture and Forestry (MAF).

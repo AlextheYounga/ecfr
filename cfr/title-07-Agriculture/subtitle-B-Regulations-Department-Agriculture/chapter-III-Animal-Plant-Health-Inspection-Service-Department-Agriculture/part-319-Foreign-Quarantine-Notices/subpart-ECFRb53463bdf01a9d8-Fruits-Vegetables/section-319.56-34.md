@@ -1,5 +1,7 @@
 ##### § 319.56-34 Clementines from Spain. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Clementines (*Citrus reticulata*) from Spain may only be imported into the United States in accordance with this section and all other applicable provisions of this subpart.
 
 (a) *Trust fund agreement.* Clementines from Spain may be imported only if the Government of Spain or its designated representative enters into a trust fund agreement with APHIS before each shipping season in accordance with § 319.56-6.

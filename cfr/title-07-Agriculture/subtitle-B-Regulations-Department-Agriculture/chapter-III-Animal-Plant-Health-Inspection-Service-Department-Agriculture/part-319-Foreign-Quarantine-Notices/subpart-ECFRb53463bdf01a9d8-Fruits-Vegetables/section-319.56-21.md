@@ -1,5 +1,7 @@
 ##### § 319.56-21 Okra from certain countries. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Okra from Brazil, Colombia, Ecuador, Guyana, Mexico, Peru, Suriname, Venezuela, and the West Indies may be imported into the United States in accordance with this section and all other applicable provisions of this subpart.
 
 (a) *Importations into pink bollworm generally infested or suppressive areas in the United States.* Okra may be imported into areas defined in § 301.52-2a as pink bollworm generally infested or suppressive areas, provided the okra is imported in accordance with the requirements of § 319.56-3. Upon entry into the United States, such okra is immediately subject to the requirements of Subpart - Pink Bollworm (§§ 301.52 through 301.52-10) of this chapter.

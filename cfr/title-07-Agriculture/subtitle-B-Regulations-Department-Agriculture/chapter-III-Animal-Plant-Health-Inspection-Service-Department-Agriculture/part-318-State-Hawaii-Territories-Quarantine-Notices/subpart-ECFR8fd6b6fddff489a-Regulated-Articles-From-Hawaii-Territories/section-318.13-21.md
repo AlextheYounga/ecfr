@@ -1,5 +1,7 @@
 ##### § 318.13-21 Avocados from Hawaii to Alaska. #####
 
+Link to an amendment published at 83 FR 46638, Sept. 14, 2018.
+
 Avocados may be moved interstate from Hawaii to Alaska without treatment only under the following conditions:
 
 (a) *Distribution and marking requirements.* The avocados may be moved interstate for distribution in Alaska only, the boxes of avocados must be clearly marked with the statement “Distribution limited to the State of Alaska” and the consignment must be identified in accordance with the requirements of § 318.13-3.

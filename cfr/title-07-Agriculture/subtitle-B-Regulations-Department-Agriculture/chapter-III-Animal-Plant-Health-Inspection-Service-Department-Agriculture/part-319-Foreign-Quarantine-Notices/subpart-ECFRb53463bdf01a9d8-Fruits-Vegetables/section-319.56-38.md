@@ -1,5 +1,7 @@
 ##### § 319.56-38 Citrus from Chile. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Clementines (*Citrus reticulata* Blanco var. Clementine), mandarins (*Citrus reticulata* Blanco), and tangerines (*Citrus reticulata* Blanco) may be imported into the United States from Chile, and grapefruit (*Citrus paradisi* Macfad.), lemons (*Citrus limon* (L.) Burm. f.), and sweet oranges (*Citrus sinensis* (L.) Osbeck) may be imported into the continental United States from Chile, in accordance with this section and all other applicable provisions of this subpart.
 
 (a) The fruit must be accompanied by a permit issued in accordance with § 319.56-3(b).

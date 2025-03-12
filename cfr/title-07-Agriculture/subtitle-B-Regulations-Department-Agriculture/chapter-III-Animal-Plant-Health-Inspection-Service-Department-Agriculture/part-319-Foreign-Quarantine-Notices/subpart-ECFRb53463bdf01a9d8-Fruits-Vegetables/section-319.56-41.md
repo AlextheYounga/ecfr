@@ -1,5 +1,7 @@
 ##### § 319.56-41 Citrus from Peru. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Grapefruit (*Citrus paradisi*), limes (*C. aurantiifolia*), mandarins or tangerines (*C. reticulata*), sweet oranges (*C. sinensis*), and tangelos (*Citrus tangelo*) may be imported into the continental United States from Peru under the following conditions:
 
 (a) The fruit must be accompanied by a permit issued in accordance with § 319.56-3(b).

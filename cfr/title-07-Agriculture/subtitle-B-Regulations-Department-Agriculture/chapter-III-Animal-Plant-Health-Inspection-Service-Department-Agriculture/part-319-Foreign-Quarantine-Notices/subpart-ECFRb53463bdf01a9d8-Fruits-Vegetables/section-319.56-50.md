@@ -1,5 +1,7 @@
 ##### § 319.56-50 Hass avocados from Peru. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh Hass variety avocados (*Persea americana* P. Mill.) may be imported into the continental United States from Peru only under the conditions described in this section. These conditions are designed to prevent the introduction of the following quarantine pests: *Anastrepha fraterculus* (Wiedemann), the South American fruit fly; *Ceratitis capitata* (Wiedemann), the Mediterranean fruit fly; *Coccus viridis* (Green), the green scale; *Ferrisia malvastra* (McDaniel), a mealybug; and *Stenoma catenifer* Walsingham, the avocado seed moth.
 
 (a) *General requirements.* (1) The national plant protection organization (NPPO) of Peru must provide a workplan to APHIS that details the activities that the NPPO of Peru will, subject to APHIS' approval of the workplan, carry out to meet the requirements of this section. The NPPO of Peru must also establish a trust fund in accordance with § 319.56-6.

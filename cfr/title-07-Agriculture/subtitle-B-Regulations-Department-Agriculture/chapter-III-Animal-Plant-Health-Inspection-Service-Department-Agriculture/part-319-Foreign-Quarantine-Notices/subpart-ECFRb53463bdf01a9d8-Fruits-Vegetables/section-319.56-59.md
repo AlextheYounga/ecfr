@@ -1,5 +1,7 @@
 ##### § 319.56-59 Fresh citrus fruit from Uruguay. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Sweet oranges (*Citrus sinensis* (L.) Osbeck), lemons (*C. limon* (L.) Burm. f.), mandarins (*C. reticulata* Blanco, *C. clementina* Hort. ex Tanaka, *C. deliciosa* Ten., and *C. unshiu* Marcow), *Citrus* hybrids, *Fortunella japonica* (Thunb.) Swingle, and *F. margarita* (Lour.) Swingle may be imported into the continental United States from Uruguay only under the conditions described in this section. These species are referred to collectively in this section as “citrus fruit.” These conditions are designed to prevent the introduction of the following quarantine pests: *Anastrepha fraterculus,**Ceratitis capitata,**Cryptoblabes gnidiella,**Elsinoë australis,**Gymnandrosoma aurantianum,* and *Xanthomonas citri* subsp. *citri.*
 
 (a) *Commercial consignments.* Citrus fruit from Uruguay may be imported in commercial consignments only.

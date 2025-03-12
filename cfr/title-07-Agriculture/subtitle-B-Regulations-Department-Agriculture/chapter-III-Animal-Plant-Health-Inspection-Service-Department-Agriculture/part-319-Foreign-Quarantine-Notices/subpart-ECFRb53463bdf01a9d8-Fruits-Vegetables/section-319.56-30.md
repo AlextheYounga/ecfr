@@ -1,5 +1,7 @@
 ##### § 319.56-30 Hass avocados from Mexico. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh Hass variety avocados (*Persea americana*) may be imported from Mexico into the United States in accordance with the requirements of § 319.56-3 of this subpart, and only under the following conditions:
 
 (a) *Shipping restrictions.* (1) The avocados may be imported in commercial consignments only;

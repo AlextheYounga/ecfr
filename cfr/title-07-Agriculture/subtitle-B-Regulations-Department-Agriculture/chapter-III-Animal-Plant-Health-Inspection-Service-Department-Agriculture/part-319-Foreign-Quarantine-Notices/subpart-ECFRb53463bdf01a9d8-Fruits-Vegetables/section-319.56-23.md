@@ -1,5 +1,7 @@
 ##### § 319.56-23 Apricots, nectarines, peaches, plumcot, and plums from Chile. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 (a) *Importations allowed.* Apricots, nectarines, peaches, plumcot, and plums may be imported into the United States from Chile in accordance with this section and all other applicable provisions of this subpart.3
 
 3 As provided in § 319.56-4, apricots, nectarines, peaches, plumcot, and plums from Chile may also be imported if treated in accordance with part 305 of this chapter and subject to other applicable regulations in this subpart.

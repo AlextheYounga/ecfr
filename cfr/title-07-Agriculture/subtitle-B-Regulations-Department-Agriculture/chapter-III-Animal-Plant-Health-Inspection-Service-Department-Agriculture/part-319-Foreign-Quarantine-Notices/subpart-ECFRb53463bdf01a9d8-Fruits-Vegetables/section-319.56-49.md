@@ -1,5 +1,7 @@
 ##### § 319.56-49 Eggplant from Israel. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Eggplant (*Solanum melongena* L.) may be imported into the continental United States from Israel only under the conditions described in this section. These conditions are designed to prevent the introduction of the following quarantine pests: *Ceratitis capitata, Eutetranychus orientalis, Helicoverpa armigera, Nipaecoccus viridis, Scirtothrips dorsalis,* and *Spodoptera littoralis.*
 
 (a) *Approved pest-exclusionary structures.* The eggplant must be grown in pest-exclusionary structures in approved production sites in the Arava Valley of Israel by growers registered with the Israeli national plant protection organization (NPPO). Initial approval of the production sites must be completed jointly by the Israeli NPPO and APHIS.

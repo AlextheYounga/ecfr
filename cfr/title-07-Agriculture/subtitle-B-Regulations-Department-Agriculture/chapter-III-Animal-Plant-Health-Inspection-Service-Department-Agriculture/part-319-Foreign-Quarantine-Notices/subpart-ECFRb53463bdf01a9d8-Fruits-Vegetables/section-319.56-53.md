@@ -1,5 +1,7 @@
 ##### § 319.56-53 Fresh kiwi and baby kiwi from Chile. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh kiwi (*Actinidia deliciosa* and *Actinidia chinensis*) may be imported into the United States from Chile, and fresh baby kiwi (*Actinidia arguta*) may be imported into the continental United States from Chile under the following conditions:
 
 (a) The national plant protection organization (NPPO) of Chile must provide a workplan to APHIS that details the activities that the NPPO of Chile will, subject to APHIS' approval of the workplan, carry out to meet the requirements of this section.

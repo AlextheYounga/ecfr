@@ -1,5 +1,7 @@
 ##### § 319.56-69 Fresh blueberries from Morocco. #####
 
+Link to an amendment published at 83 FR 46639, Sept. 14, 2018.
+
 Fresh fruit of highbush blueberry (*Vaccinium corymbosum* L.) and its hybrid varieties southern highbush blueberry [*V. corymbosum* × *angustifolium* (*V.* × *atlanticum*) and *V. corymbosum* × *virgatum*] may be imported into the continental United States from Morocco only under the conditions described in this section. These conditions are designed to prevent the introduction of the following quarantine pests: *Ceratitis capitata,* the Mediterranean fruit fly, and the fungus *Monilinia fructigena* Honey ex Whetzel.
 
 (a) The blueberries may be imported in commercial consignments only.

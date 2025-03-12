@@ -1,5 +1,7 @@
 ##### § 319.56-2 Definitions. #####
 
+Link to an amendment published at 83 FR 46638, Sept. 14, 2018.
+
 *Above ground parts.* Any plant parts, such as stems, leaves, fruit, or inflorescence (flowers), that grow solely above the soil surface.
 
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service, United States Department of Agriculture, or any other employee of the United States Department of Agriculture delegated to act in his or her stead.

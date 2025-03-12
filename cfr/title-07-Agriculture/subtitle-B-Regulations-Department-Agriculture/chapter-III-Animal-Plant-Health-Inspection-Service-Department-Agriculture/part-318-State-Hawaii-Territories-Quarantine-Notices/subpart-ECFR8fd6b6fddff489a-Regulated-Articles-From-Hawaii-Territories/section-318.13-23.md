@@ -1,5 +1,7 @@
 ##### § 318.13-23 Cut flowers from Hawaii. #####
 
+Link to an amendment published at 83 FR 46638, Sept. 14, 2018.
+
 (a) Except for cut blooms and leis of mauna loa and jade vine and except for cut blooms of gardenia not grown in accordance with paragraph (b) of this section, cut flowers may be moved interstate from Hawaii under limited permit, to a destination specified in the permit, directly from an establishment operated in accordance with the terms of a compliance agreement executed by the operator of the establishment, if the articles have not been exposed to infestation and they are not accompanied by any articles prohibited interstate movement under this subpart.
 
 (b) Cut blooms of gardenia may be moved interstate from Hawaii if grown and inspected in accordance with the provisions of this section.4
