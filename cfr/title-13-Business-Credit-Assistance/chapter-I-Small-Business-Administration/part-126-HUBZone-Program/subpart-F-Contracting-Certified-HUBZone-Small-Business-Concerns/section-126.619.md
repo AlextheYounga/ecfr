@@ -1,7 +1,5 @@
 ##### § 126.619 When must a certified HUBZone small business concern recertify its status for a HUBZone contract? #####
 
-Link to an amendment published at 85 FR 27660, May 11, 2020.
-
 (a) A concern that is a certified HUBZone small business concern at the time of initial offer (including a Multiple Award Contract) is generally considered a HUBZone small business concern throughout the life of that contract.
 
 (1) If a concern is a certified HUBZone small business concern at the time of initial offer for a HUBZone Multiple Award Contract, then it will be considered a certified HUBZone small business concern for each order issued against the contract, unless a contracting officer requests a new HUBZone certification in connection with a specific order (see paragraph (b)(4) of this section).
@@ -14,7 +12,7 @@ Link to an amendment published at 85 FR 27660, May 11, 2020.
 
 (5) Where a concern is decertified after the award of a HUBZone contract, the procuring agency may exercise options and still count the award as an award to a HUBZone small business concern, except where recertification is required or requested under this section, or where the concern has been found to be ineligible for award pursuant to a HUBZone status protest pursuant to § 126.803.
 
-(b) For the purposes of contracts (including Multiple Award Contracts) with durations of more than five years (including options), a contracting officer must request that a business concern recertify its status as a HUBZone small business concern no more than 120 days prior to the end of the fifth year of the contract, and no more than 120 days prior to exercising any option.
+(b) For the purposes of contracts (including Multiple Award Contracts) with durations of more than five years (including options), a contracting officer must request that a business concern recertify its status as a HUBZone small business concern no more than 120 days prior to the end of the fifth year of the contract, and no more than 120 days prior to exercising any option. If the business is unable to recertify its HUBZone status, the procuring agency may no longer be able to count the options or orders issued pursuant to the contract, from that point forward, towards its HUBZone goals.
 
 (1) If the concern cannot recertify that it qualifies as a HUBZone small business concern, the agency can no longer count the options or orders issued pursuant to the contract, from that point forward, towards its HUBZone goals. This means that if the concern either no longer meets the HUBZone eligibility requirements or no longer qualifies as small for the size standard corresponding to NAICS code assigned to the contract, the agency can no longer count the options or orders issued pursuant to the contract, from that point forward, towards its HUBZone goals.
 
@@ -26,4 +24,4 @@ Link to an amendment published at 85 FR 27660, May 11, 2020.
 
 (c) Except for Blanket Purchase Agreements under Federal Supply Schedule contracts, a concern's status will be determined at the time of submission of its initial response to a solicitation for an Agreement (including Blanket Purchase Agreements (BPAs), Basic Agreements, Basic Ordering Agreements, or any other Agreement that a contracting officer sets aside or reserves awards for certified HUBZone small business concerns) and each order issued pursuant to the Agreement.
 
-[84 FR 65249, Nov. 26, 2019, as amended at 85 FR 5304, Jan. 30, 2020]
+[84 FR 65249, Nov. 26, 2019, as amended at 85 FR 5304, Jan. 30, 2020; 85 FR 27660, May 11, 2020]

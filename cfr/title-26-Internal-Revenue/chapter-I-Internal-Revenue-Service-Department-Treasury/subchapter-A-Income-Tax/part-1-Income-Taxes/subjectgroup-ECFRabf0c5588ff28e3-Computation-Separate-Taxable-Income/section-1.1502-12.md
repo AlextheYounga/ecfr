@@ -1,5 +1,7 @@
 ##### § 1.1502-12 Separate taxable income. #####
 
+Link to an amendment published at 85 FR 43112, July 15, 2020.
+
 The separate taxable income of a member (including a case in which deductions exceed gross income) is computed in accordance with the provisions of the Code covering the determination of taxable income of separate corporations, subject to the following modifications:
 
 (a) Transactions between members and transactions with respect to stock, bonds, or other obligations of members shall be reflected according to the provisions of § 1.1502-13;

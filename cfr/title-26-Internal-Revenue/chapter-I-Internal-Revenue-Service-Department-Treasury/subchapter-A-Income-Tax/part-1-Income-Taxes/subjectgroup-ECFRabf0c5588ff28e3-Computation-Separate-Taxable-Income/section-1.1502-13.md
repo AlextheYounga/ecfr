@@ -1,5 +1,7 @@
 ##### § 1.1502-13 Intercompany transactions. #####
 
+Link to an amendment published at 85 FR 43112, July 15, 2020.
+
 (a) *In general* - (1) *Purpose.* This section provides rules for taking into account items of income, gain, deduction, and loss of members from intercompany transactions. The purpose of this section is to provide rules to clearly reflect the taxable income (and tax liability) of the group as a whole by preventing intercompany transactions from creating, accelerating, avoiding, or deferring consolidated taxable income (or consolidated tax liability).
 
 (2) *Separate entity and single entity treatment.* Under this section, the selling member (S) and the buying member (B) are treated as separate entities for some purposes but as divisions of a single corporation for other purposes. The *amount* and *location* of S's intercompany items and B's corresponding items are determined on a separate entity basis (separate entity treatment). For example, S determines its gain or loss from a sale of property to B on a separate entity basis, and B has a cost basis in the property. The *timing,* and the *character, source,* and other *attributes* of the intercompany items and corresponding items, although initially determined on a separate entity basis, are redetermined under this section to produce the effect of transactions between divisions of a single corporation (single entity treatment). For example, if S sells land to B at a gain and B sells the land to a nonmember, S does not take its gain into account until B's sale to the nonmember.

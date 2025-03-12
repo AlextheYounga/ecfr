@@ -1,11 +1,5 @@
-##### § 127.301 When may a contracting officer accept a concern's self-certification? #####
+##### § 127.301 When may a concern apply for certification? #####
 
-Link to an amendment published at 85 FR 27661, May 11, 2020.
+A concern may apply for WOSB or EDWOSB certification and submit the required information whenever it can represent that it meets the eligibility requirements, subject to the restrictions of § 127.306. All representations and supporting information contained in the application must be complete and accurate as of the date of submission. The application must be signed by an officer of the concern who is authorized to represent the concern.
 
-(a) *General.* (1) *Third-Party Certifications.* A contracting officer may accept a concern's self-certification in SAM (or any successor system) as accurate for a specific procurement reserved for award under this Part if the apparent successful offeror WOSB or EDWOSB provided the required documents, which are set forth in § 127.300(d), and there has been no protest or other credible information that calls into question the concern's eligibility as a EDWOSB or WOSB. An example of such credible evidence includes information that the concern was determined by SBA or an SBA-approved certifier not to qualify as an EDWOSB or WOSB.
-
-(2) *Non-Third Party Certification.* A contracting officer may accept a concern's self-certification in SAM (or any successor system) if the apparent successful offeror WOSB or EDWOSB has provided the required documents, which are set forth in § 127.300(e), and there has been no protest or other credible information that calls into question the concern's eligibility as an EDWOSB or WOSB.
-
-(b) *Referral to SBA.* When the contracting officer has information that calls into question the eligibility of a concern as an EDWOSB or WOSB or the concern fails to provide all of the required documents to verify its eligibility, the contracting officer shall refer the concern to SBA for verification of the concern's eligibility by filing an EDWOSB or WOSB status protest pursuant to subpart F of this part. If the apparent successful offeror WOSB or EDWOSB fails to submit any of the required documents, the contracting officer cannot award a WOSB or EDWOSB contract to that business concern.
-
-[75 FR 62282, Oct. 7, 2010, as amended at 77 FR 1861, Jan. 12, 2012; 78 FR 61146, Oct. 2, 2013]
+[85 FR 27661, May 11, 2020]

@@ -1,6 +1,6 @@
 ##### § 1.993-3 Definition of export property. #####
 
-(a) *General rule.* Under section 993(c), except as otherwise provided with respect to excluded property in paragraph (f) of this section and with respect to certain short supply property in paragraph (i) of this section, export property is property in the hands of any person (whether or not a DISC) -
+(a) *General rule.* Under section 993(c), except as otherwise provided with respect to excluded property in paragraph (f) of this section and with respect to certain short supply property in paragraph (i) of this section, export property is property in the hands of any person (whether or not a DISC)—
 
 (1) Manufactured, produced, grown, or extracted in the United States by any person or persons other than a DISC (see paragraph (c) of this section),
 
@@ -12,15 +12,15 @@
 
 (b) *Services.* For purposes of this section, services (including the written communication of services in any form) are not export property. Whether an item is property or services shall be determined on the basis of the facts and circumstances attending the development and disposition of the item. Thus, for example, the preparation of a map of a particular construction site would constitute services and not export property, but standard maps prepared for sale to customers generally would not constitute services and would be export property if the requirements of this section were otherwise met.
 
-(c) *Manufacture, production, growth, or extraction of property* - (1) *By a person other than a DISC.* Export property may be manufactured, produced, grown, or extracted in the United States by any person, provided that such person does not qualify (and is not treated) as a DISC. Property held by a DISC which was manufactured, produced, grown, or extracted by it at a time when it did not qualify (and was not treated) as a DISC is not export property of the DISC. Property which sustains further manufacture or production outside the United States prior to sale or lease by a person but after manufacture or production in the United States will not be considered as manufactured, produced, grown, or extracted in the United States by such person.
+(c) *Manufacture, production, growth, or extraction of property*—(1) *By a person other than a DISC.* Export property may be manufactured, produced, grown, or extracted in the United States by any person, provided that such person does not qualify (and is not treated) as a DISC. Property held by a DISC which was manufactured, produced, grown, or extracted by it at a time when it did not qualify (and was not treated) as a DISC is not export property of the DISC. Property which sustains further manufacture or production outside the United States prior to sale or lease by a person but after manufacture or production in the United States will not be considered as manufactured, produced, grown, or extracted in the United States by such person.
 
-(2) *Manufactured or produced* - (i) *In general.* For purposes of this section, property which is sold or leased by a person is considered to be manufactured or produced by such person if such property is manufactured or produced (within the meaning of either subdivision (ii), (iii), or (iv) of this subparagraph) by such person or by another person pursuant to a contract with such person. Except as provided in subdivision (iv) of this subparagraph, manufacture or production of property does not include assembly or packaging operations with respect to property.
+(2) *Manufactured or produced*—(i) *In general.* For purposes of this section, property which is sold or leased by a person is considered to be manufactured or produced by such person if such property is manufactured or produced (within the meaning of either subdivision (ii), (iii), or (iv) of this subparagraph) by such person or by another person pursuant to a contract with such person. Except as provided in subdivision (iv) of this subparagraph, manufacture or production of property does not include assembly or packaging operations with respect to property.
 
 (ii) *Substantial transformation.* Property is manufactured or produced by a person if such property is substantially transformed by such person. Examples of substantial transformation of property would include the conversion of woodpulp to paper, steel rods to screws and bolts, and the canning of fish.
 
 (iii) *Operations generally considered to constitute manufacturing.* Property is manufactured or produced by a person if the operations performed by such person in connection with such property are substantial in nature and are generally considered to constitute the manufacture or production of property.
 
-(iv) *Value added to property.* Property is manufactured or produced by a person if with respect to such property conversion costs (direct labor and factory burden including packaging or assembly) of such person account for 20 percent of more of -
+(iv) *Value added to property.* Property is manufactured or produced by a person if with respect to such property conversion costs (direct labor and factory burden including packaging or assembly) of such person account for 20 percent of more of—
 
 (*a*) The cost of goods sold or inventory amount of such person for such property is such property is sold or held for sale, or
 
@@ -28,11 +28,11 @@
 
 The value of parts provided pursuant to a services contract, as described in § 1.993-1 (d)(4)(v), is not taken into account in applying this subdivision.
 
-(d) *Primary purpose of which property is held* - (1) *In general* - (i) *General rule.* Under paragraph (a)(2) of this section, export property (*a*) must be held primarily for the purpose of sale or lease in the ordinary course of trade or business to a DISC, or to any other person, and (*b*) such sale or lease must be for direct use, consumption, or disposition outside the United States. Thus, property cannot qualify as export property unless it is sold or leased for direct use, consumption or disposition outside the United States. Property is sold or leased for direct use, consumption, or disposition outside the United States if such sale or lease satisfies the destination test described in subparagraph (2) of this paragraph, the proof of compliance requirements described in subparagraph (3) of this paragraph, and the use outside the United States test described in subparagraph (4) of this paragraph.
+(d) *Primary purpose of which property is held*—(1) *In general*—(i) *General rule.* Under paragraph (a)(2) of this section, export property (*a*) must be held primarily for the purpose of sale or lease in the ordinary course of trade or business to a DISC, or to any other person, and (*b*) such sale or lease must be for direct use, consumption, or disposition outside the United States. Thus, property cannot qualify as export property unless it is sold or leased for direct use, consumption or disposition outside the United States. Property is sold or leased for direct use, consumption, or disposition outside the United States if such sale or lease satisfies the destination test described in subparagraph (2) of this paragraph, the proof of compliance requirements described in subparagraph (3) of this paragraph, and the use outside the United States test described in subparagraph (4) of this paragraph.
 
 (ii) *Factors not taken into account.* In determining whether property which is sold or leased to a DISC is sold or leased for direct use consumption, or disposition outside the United States, the fact that the acquiring DISC holds the property in inventory or for lease prior to the time it sells or leases it for direct use, consumption, or disposition outside the United States will not affect the characterization of the property as export property. Export property need not be physically segregated from other property.
 
-(2) *Destination test.* (i) For purposes of subparagraph (1) of this paragraph the destination test in this subparagraph is satisfied with respect to property sold or leased by a seller or lessor only if it is delivered by such seller or lessor (or an agent of such seller or lessor) regardless of the F.O.B. point or the place at which title passes or risk of loss shifts from the seller or lessor -
+(2) *Destination test.* (i) For purposes of subparagraph (1) of this paragraph the destination test in this subparagraph is satisfied with respect to property sold or leased by a seller or lessor only if it is delivered by such seller or lessor (or an agent of such seller or lessor) regardless of the F.O.B. point or the place at which title passes or risk of loss shifts from the seller or lessor—
 
 (*a*) Within the United States to a carrier or freight forwarder for ultimate delivery outside the United States to a purchaser or lessee (or to a subsequent purchaser or sublessee),
 
@@ -52,7 +52,7 @@ The value of parts provided pursuant to a services contract, as described in § 
 
 (iv) If property is located outside the United States at the time it is purchased by a person or leased by a person as lessee, such property may be export property in the hands of such purchaser or lessee only if it is imported into the United States prior to its further sale or lease (including a sublease) outside the United States. Paragraphs (a)(3) and (e) of this section (relating to 50 percent foreign content test) are applicable in determining whether such property is export property. Thus, for example, if such property is not subjected to manufacturing or production (as defined in paragraph (c) of this section) within the United States after such importation, it does not qualify as export property.
 
-(3) *Proof of compliance with destination test* - (i) *Delivery outside the United States.* For purposes of subparagraph (2) of this paragraph (other than subdivision (i)(*c*) thereof), a seller or lessor shall establish ultimate delivery, use, or consumption of property outside the United States by providing -
+(3) *Proof of compliance with destination test*—(i) *Delivery outside the United States.* For purposes of subparagraph (2) of this paragraph (other than subdivision (i)(*c*) thereof), a seller or lessor shall establish ultimate delivery, use, or consumption of property outside the United States by providing—
 
 (*a*) A facsimile or carbon copy of the export bill of lading issued by the carrier who delivers the property,
 
@@ -74,7 +74,7 @@ The value of parts provided pursuant to a services contract, as described in § 
 
 (v) *Failure of proof.* If a seller or lessor fails to provide proof of compliance with the destination test as required by this subparagraph, the property sold or leased is not export property.
 
-(4) *Sales and leases of property for ultimate use in the United States* - (i) *In general.* For purposes of subparagraph (1) of this paragraph, the use test in this subparagraph is satisfied with respect to property which -
+(4) *Sales and leases of property for ultimate use in the United States*—(i) *In general.* For purposes of subparagraph (1) of this paragraph, the use test in this subparagraph is satisfied with respect to property which—
 
 (*a*) Under subdivisions (ii) through (iv) of this subparagraph is not sold for ultimate use in the United States or
 
@@ -100,23 +100,23 @@ For purposes of (b) of this subdivision, there is an agreement or understanding 
 
 (vii) *Component.* For purposes of this subparagraph, a component is property which is (or is reasonably expected to be) incorporated into a second product by the purchaser of such component by means of production, manufacture, or assembly.
 
-(e) *Foreign content of property* - (1) *The 50 percent test.* Under paragraph (a)(3) of this section, no more than 50 percent of the fair market value of export property may be attributable to the fair market value of articles which were imported into the United States. For purposes of this paragraph, articles imported into the United States are referred to as “foreign content”. The fair market value of the foreign content of export property is computed in accordance with subparagraph (4) of this paragraph. The fair market value of export property which is sold to a person who is not a related person with respect to the seller is the sale price for such property (not including interest finance or carrying charges, or similar charges)
+(e) *Foreign content of property*—(1) *The 50 percent test.* Under paragraph (a)(3) of this section, no more than 50 percent of the fair market value of export property may be attributable to the fair market value of articles which were imported into the United States. For purposes of this paragraph, articles imported into the United States are referred to as “foreign content”. The fair market value of the foreign content of export property is computed in accordance with subparagraph (4) of this paragraph. The fair market value of export property which is sold to a person who is not a related person with respect to the seller is the sale price for such property (not including interest finance or carrying charges, or similar charges)
 
 (2) *Application of 50 percent test.* The 50 percent test described in subparagraph (1) of this paragraph is applied on an item-by-item basis If, however, a person sells or leases a substantial volume of substantially identical export property in a taxable year and if all of such property contains substantially identical foreign content is substantially the same proportion, such person may determine the portion of foreign content contained in such property on an aggregate basis.
 
 (3) *Parts and services.* If, at the time property is sold or leased the seller or lessor agrees to furnish parts pursuant to a services contract (as provided in § 1.993-1(d)(4)(v)) and the price for the parts is not separately stated, the 50 percent test described in subparagraph (1) of this paragraph is applied on an aggregate basis to the property and parts. If the price for the parts is described in subparagraph (1) of this paragraph is applied separately to the property and to the parts.
 
-(4) *Computation of foreign content* - (i) *Valuation.* For purposes of applying the 50 percent test described in subparagraph (1) of this paragraph, it is necessary to determine the fair market value of all articles which constitute foreign content of the property being tested to determine if it is export property. The fair market value of such imported articles is determined as of the time such articles are imported into the United States. With respect to articles imported into the United States before July 1, 1980, the fair market value of such articles is their appraised value as determined under section 402 or 402a of the Tariff Act of 1930 (19 U.S.C. 1401a or 1402) in connection with their importation. With respect to articles imported into the United States on or after July 1, 1980, the fair market value of such articles is their appraised value as determined under section 402 of the Tariff Act of 1930 (19 U.S.C. 1401a) in connection with their importation. The appraised value of such articles is the full dutiable value of such articles, determined, however, without regard to any special provision in the United States tariff laws which would result in a lower dutiable value. Thus, an article which is imported into the United States is treated as entirely imported even if all or a portion of such article was originally manufactured, produced, grown, or extracted in the United States.
+(4) *Computation of foreign content*—(i) *Valuation.* For purposes of applying the 50 percent test described in subparagraph (1) of this paragraph, it is necessary to determine the fair market value of all articles which constitute foreign content of the property being tested to determine if it is export property. The fair market value of such imported articles is determined as of the time such articles are imported into the United States. With respect to articles imported into the United States before July 1, 1980, the fair market value of such articles is their appraised value as determined under section 402 or 402a of the Tariff Act of 1930 (19 U.S.C. 1401a or 1402) in connection with their importation. With respect to articles imported into the United States on or after July 1, 1980, the fair market value of such articles is their appraised value as determined under section 402 of the Tariff Act of 1930 (19 U.S.C. 1401a) in connection with their importation. The appraised value of such articles is the full dutiable value of such articles, determined, however, without regard to any special provision in the United States tariff laws which would result in a lower dutiable value. Thus, an article which is imported into the United States is treated as entirely imported even if all or a portion of such article was originally manufactured, produced, grown, or extracted in the United States.
 
 (ii) *Evidence of fair market value.* For purposes of subdivision (i) of this subparagraph, the fair market value of imported articles constituting foreign content may be evidenced by the customs invoice issued on the importation of such articles into the United States. If the holder of such articles is not the importer (or a related person with respect to the importer), the fair market value of such articles may be evidenced by a certificate based upon information contained in the customs invoice and furnished to the holder by the person from whom such articles (or property incorporating such articles) were purchased. If a customs invoice or certificate described in the preceding sentence is not available to a person purchasing property, such person shall establish that no more than 50 percent of the fair market value of such property is attributable to the fair market value of articles which were imported into the United States.
 
-(iii) *Interchangeable component articles* - (*a*) Where identical or similar component articles can be incorporated interchangeably into property and a person acquires some such component articles that are imported into the United States and other such component articles that are not imported into the United States, the determination whether imported component articles were incorporated in such property as is exported from the United States shall be made on a substitution basis as in the case of the rules relating to drawback accounts under the customs laws. See section 313(b) of the Tariff Act of 1930, as amended (19 U.S.C. 1313(b)).
+(iii) *Interchangeable component articles.* (*a*) Where identical or similar component articles can be incorporated interchangeably into property and a person acquires some such component articles that are imported into the United States and other such component articles that are not imported into the United States, the determination whether imported component articles were incorporated in such property as is exported from the United States shall be made on a substitution basis as in the case of the rules relating to drawback accounts under the customs laws. See section 313(b) of the Tariff Act of 1930, as amended (19 U.S.C. 1313(b)).
 
 (*b*) The provisions of (*a*) of this subdivision may be illustrated by the following example:
 
 Example.Assume that a manufacturer produces a total of 20,000 electronic devices. The manufacturer exports 5,000 of the devices and subsequently sells 11,000 of the devices to a DISC which exports the 11,000 devices. The major single component article in each device is a tube which represents 60 percent of the fair market value of the device at the time the device is sold by the manufacturer. The manufacturer imports 8,000 of the tubes and produces the remaining 12,000 tubes. For purposes of this subdivision, in accordance with the substitution principle used in the customs drawback laws, the 5,000 devices exported by the manufacturer are each treated as containing an imported tube because the devices were exported prior to the sale to the DISC. The remaining 3,000 imported tubes are treated as being contained in the first 3,000 devices purchased and exported by the DISC. Thus, since the 50 percent test is not met with respect to the first 3,000 devices purchased and exported by the DISC, those devices are not export property. The remaining 8,000 devices purchased and exported by the DISC are treated as containing tubes produced in United States, and those devices are export property (if they otherwise meet the requirements of this section).
 
-(f) *Excluded property* - (1) *In general.* Notwithstanding any other provision of this section, the following property is not export property -
+(f) *Excluded property*—(1) *In general.* Notwithstanding any other provision of this section, the following property is not export property—
 
 (i) Property described in subparagraph (2) of this paragraph (relating to property leased to a member of a controlled group),
 
@@ -126,7 +126,7 @@ Example.Assume that a manufacturer produces a total of 20,000 electronic devices
 
 (iv) Products described in paragraph (h) of this section (relating to certain export controlled products).
 
-(2) *Property leased to member of controlled group* - (i) *In general.* Property leased to a person (whether or not a DISC) which is a member of the same controlled group (as defined in § 1.993-1(k)) as the lessor constitutes export property for any period of time only if during the period -
+(2) *Property leased to member of controlled group*—(i) *In general.* Property leased to a person (whether or not a DISC) which is a member of the same controlled group (as defined in § 1.993-1(k)) as the lessor constitutes export property for any period of time only if during the period—
 
 (*a*) Such property is held for sublease, or is subleased, by such person to a third person for the ultimate use of such third person;
 
@@ -142,7 +142,7 @@ Example.Assume that a manufacturer produces a total of 20,000 electronic devices
 
 (3) *Intangible property.* Export property does not include any patent, invention, model, design, formula, or process, whether or not patented, or any copyright (other than films, tapes, records, or similar reproductions, for commercial or home use), goodwill, trademark, tradebrand, franchise, or other like property. Although a copyright such as a copyright on a book does not constitute export property, a copyrighted article (such as a book) if not accompanied by a right to reproduce it is export property if the requirements of this section are otherwise satisfied. However, a license of a master recording tape for reproduction outside the United States is not disqualified under this subparagraph from being export property.
 
-(g) *Depletable products* - (1) *In general.* Under section 993(c)(2)(C), a product or commodity which is a depletable product (as defined in subparagraph (2) of this paragraph) or contains a depletable product is not export property if -
+(g) *Depletable products*—(1) *In general.* Under section 993(c)(2)(C), a product or commodity which is a depletable product (as defined in subparagraph (2) of this paragraph) or contains a depletable product is not export property if—
 
 (i) It is a primary product from oil, gas, coal, or uranium (as described in subparagraph (3) of this paragraph), or
 
@@ -150,9 +150,9 @@ Example.Assume that a manufacturer produces a total of 20,000 electronic devices
 
 (2) *Definition of “depletable product”.* For purposes of this paragraph, the term “depletable product” means any product or commodity of a character with respect to which a deduction for depletion is allowable under section 613 or 613A. Thus, the term depletable product includes any mineral extracted from a mine, an oil or gas well, or any other natural deposit, whether or not the DISC or related supplier is allowed a deduction, or is eligible to take a deduction, for depletion with respect to the mineral in computing its taxable income. Thus, for example, iron ore purchased by a DISC from a broker is a depletable product in the hands of the DISC for purposes of this paragraph even though the DISC is not eligible to take a deduction for depletion under section 613 or 613A.
 
-(3) *Primary product from oil, gas, coal, or uranium.* A primary product from oil, gas, coal, or uranium is not export property. For purposes of this paragraph -
+(3) *Primary product from oil, gas, coal, or uranium.* A primary product from oil, gas, coal, or uranium is not export property. For purposes of this paragraph—
 
-(i) *Primary product from oil.* The term “primary product from oil” means crude oil and all products derived from the destructive distillation of crude oil, including -
+(i) *Primary product from oil.* The term “primary product from oil” means crude oil and all products derived from the destructive distillation of crude oil, including—
 
 (*a*) Volatile products,
 
@@ -168,7 +168,7 @@ Example.Assume that a manufacturer produces a total of 20,000 electronic devices
 
 For purposes of this paragraph, a product or commodity derived from shale oil which would be a primary product from oil if derived from crude oil is considered a primary product from oil.
 
-(ii) *Primary product from gas.* The term “primary product from gas” means all gas and associated hydrocarbon components from gas wells or oil wells, whether recovered at the lease or upon further processing, including -
+(ii) *Primary product from gas.* The term “primary product from gas” means all gas and associated hydrocarbon components from gas wells or oil wells, whether recovered at the lease or upon further processing, including—
 
 (*a*) Natural gas,
 
@@ -178,7 +178,7 @@ For purposes of this paragraph, a product or commodity derived from shale oil wh
 
 (*d*) Liquid products such as natural gasoline.
 
-(iii) *Primary product from coal.* The term “primary product from coal” means coal and all products recovered from the carbonization of coal including -
+(iii) *Primary product from coal.* The term “primary product from coal” means coal and all products recovered from the carbonization of coal including—
 
 (*a*) Coke,
 
@@ -190,7 +190,7 @@ For purposes of this paragraph, a product or commodity derived from shale oil wh
 
 (*e*) Coal tar.
 
-(iv) *Primary product from uranium.* The term “primary product from uranium” means uranium ore and uranium concentrates (known in the industry as “yellow cake”), and nuclear fuel materials derived from the refining of uranium ore and uranium concentrates, or produced in a nuclear reaction, including -
+(iv) *Primary product from uranium.* The term “primary product from uranium” means uranium ore and uranium concentrates (known in the industry as “yellow cake”), and nuclear fuel materials derived from the refining of uranium ore and uranium concentrates, or produced in a nuclear reaction, including—
 
 (*a*) Uranium hexafluoride,
 
@@ -208,15 +208,15 @@ For purposes of this paragraph, a product or commodity derived from shale oil wh
 
 (vi) *Petrochemicals.* For purposes of this paragraph, petrochemicals are not considered primary products from oil, gas, or coal.
 
-(4) *50-percent manufactured or processed product* - (i) *In general.* A product or commodity (other than a primary product from oil, gas, coal, or uranium) which is or contains a depletable product is not excluded from the term “export property” by reason of section 993(c)(2)(C) if it is a 50-percent manufactured or processed product. Such a product or commodity is a “50-percent manufactured or processed product” if, after the cutoff point of the depletable product, it is manufactured or processed (as defined in subdivision (ii) of this subparagraph) and either the cost test described in subdivision (iv) of this subparagraph or the fair market value test described in subdivision (v) of this subparagraph is satisfied. To determine cutoff point, see subdivisions (vi) and (vii) of this subparagraph.
+(4) *50-percent manufactured or processed product*—(i) *In general.* A product or commodity (other than a primary product from oil, gas, coal, or uranium) which is or contains a depletable product is not excluded from the term “export property” by reason of section 993(c)(2)(C) if it is a 50-percent manufactured or processed product. Such a product or commodity is a “50-percent manufactured or processed product” if, after the cutoff point of the depletable product, it is manufactured or processed (as defined in subdivision (ii) of this subparagraph) and either the cost test described in subdivision (iv) of this subparagraph or the fair market value test described in subdivision (v) of this subparagraph is satisfied. To determine cutoff point, see subdivisions (vi) and (vii) of this subparagraph.
 
 (ii) *Manufactured or processed.* A product is manufactured or processed if it is manufactured or produced within the meaning of paragraph (c)(2) of this section, except that for purposes of this subdivision the term manufacturing or processing does not include any excluded process (as defined in subdivision (iii) of this subparagraph) and the term conversion costs (as used in subdivision (iv) of such paragraph (c)(2)) does not include any costs attributable to any excluded process.
 
 (iii) *Excluded processes.* For purposes of this paragraph, excluded processes are extracting (*i.e.,* all processes which are applied before the cutoff point of the mineral to which such processes are applied), and handling, packing, packaging, grading, storing, and transporting.
 
-(iv) *Cost test.* A product or commodity will qualify as a 50-percent manufactured or processed product if -
+(iv) *Cost test.* A product or commodity will qualify as a 50-percent manufactured or processed product if—
 
-(*a*) Its manufacturing and processing costs (that is, the portion of the cost of goods sold or inventory amount of the product or commodity attributable to the aggregate cost of manufacturing or processing each mineral contained therein) equal or exceed -
+(*a*) Its manufacturing and processing costs (that is, the portion of the cost of goods sold or inventory amount of the product or commodity attributable to the aggregate cost of manufacturing or processing each mineral contained therein) equal or exceed—
 
 (*b*) An amount equal to either of the following:
 
@@ -224,7 +224,7 @@ For purposes of this paragraph, a product or commodity derived from shale oil wh
 
 (*2*) The aggregate of the cost at the cutoff point (see subdivisions (vi) and (vii) of this subparagraph) properly attributable to each mineral contained in such product or commodity. However, if this subdivision (*2*) is applied, then the amount in (*a*) of this subparagraph (iv) shall be decreased and the amount in this subdivision (*2*) shall be increased, by so much of the cost of goods sold or inventory amount of the product or commodity as is properly allocable to any process other than transportation applied after the cutoff point of such mineral which would be a mining process (within the meaning of § 1.613-4) were it applied before such point.
 
-(v) *Fair market value test.* A product or commodity will qualify as a 50-percent manufactured or processed product if -
+(v) *Fair market value test.* A product or commodity will qualify as a 50-percent manufactured or processed product if—
 
 (*a*) The excess of its fair market value on the date it is sold, exchanged, or otherwise disposed of (or, if not sold, exchanged, or otherwise disposed of, the last day of the DISC's taxable year) over the portion thereof properly allocable to excluded processes other than extracting is equal to or greater than
 
@@ -248,7 +248,7 @@ Example.An integrated manufacturer, X, on February 1, 1976, had gross income fro
 
 (viii) *Special rule for certain used products and scrap products.* If a product or commodity is a used 50-percent manufactured or processed product, or is recovered as scrap from a 50-percent manufactured or processed product, such product or commodity will be treated as a 50-percent manufactured or processed product.
 
-(ix) *Special rule for byproducts and waste products.* For purposes of applying the cost test or fair market value test of subdivision (iv) or (v) of this subparagraph if a depletable product is recovered from a manufacturing process as a byproduct or waste product, then the cost and fair market value at the cutoff point are each deemed to be the lesser of -
+(ix) *Special rule for byproducts and waste products.* For purposes of applying the cost test or fair market value test of subdivision (iv) or (v) of this subparagraph if a depletable product is recovered from a manufacturing process as a byproduct or waste product, then the cost and fair market value at the cutoff point are each deemed to be the lesser of—
 
 (*a*) The fair market value of the waste product or byproduct containing the depletable product, determined as of the date the byproduct or waste product is recovered, or
 
@@ -264,7 +264,7 @@ For purposes of (*b*) of this subdivision the cutoff point for the depletable pr
 
 (xi) *Application of 50-percent test.* The 50-percent test described in this subparagraph is applied on an item-by-item basis. If, however, a DISC sells a substantial volume of substantially identical products or commodities and if all or a group of such products or commodities contain substantially identical depletable products in substantially the same proportions and have cost or fair market value relationships (as the case may be) that are in substantially the same proportions, such DISC may apply the 50-percent test on an aggregate basis with respect to all such products or commodities, or group, as the case may be.
 
-(5) *Effective dates.* Except as provided in subparagraph (6) of this paragraph, section 993(c)(2)(C) applies -
+(5) *Effective dates.* Except as provided in subparagraph (6) of this paragraph, section 993(c)(2)(C) applies—
 
 (i) With respect to any product or commodity not owned by a DISC, to sales, exchanges, or other dispositions made after March 18, 1975, with respect to which the DISC derives gross receipts.
 
@@ -276,9 +276,9 @@ For purposes of this paragraph and subparagraph (6) of this paragraph, the date 
 
 (6) *Fixed contracts.* Section 1101(f) of the Tax Reform Act of 1976 provides an exception to the effective date rules in this paragraph and in paragraph (h) of this section. Section 1101(f)(2) of the Act provides that section 993(c)(2)(C) and (D) shall not apply to sales, exchanges, and other dispositions made after March 18, 1975, but before March 19, 1980, if they are made pursuant to a fixed contract. Section 1101(f)(2) also defines fixed contract. Under that definition, if the seller can vary the price of the product for unspecified cost increases (which could include tax cost increases), or if the quantity of products or commodities to be sold can be increased or decreased under the contract by the seller without penalty, the contract is not to be considered a fixed contract with respect to the amount over which the seller has discretion. For example, if a contract calls for a minimum delivery of *x* amount of a product but allows the seller to refuse to deliver goods beyond that minimum amount (or allows a renegotiation of the sales price of goods beyond that amount), then with respect to the amount above the minimum the contract is not a fixed quantity contract.
 
-(h) *Export controlled products* - (1) *In general.* An export controlled product is not export property. A product or commodity may be an export controlled product at one time but not an export controlled product at another time. For purposes of this paragraph, a product or commodity is an “export controlled product” at a particular time if at that time the export of such product or commodity is prohibited or curtailed under section 4(b) of the Export Administration Act of 1969 or section 7(a) of the Export Administration Act of 1979, to effectuate the policy relating to the protection of the domestic economy set forth in such Acts (paragraph (2)(A) of section 3 of the Export Administration Act of 1969 and paragraph (2)(C) of section 3 of the Export Administration Act of 1979). Such policy is to use export controls to the extent necessary “to protect the domestic economy from the excessive drain of scarce materials and to reduce the serious inflationary impact of foreign demand.”
+(h) *Export controlled products*—(1) *In general.* An export controlled product is not export property. A product or commodity may be an export controlled product at one time but not an export controlled product at another time. For purposes of this paragraph, a product or commodity is an “export controlled product” at a particular time if at that time the export of such product or commodity is prohibited or curtailed under section 4(b) of the Export Administration Act of 1969 or section 7(a) of the Export Administration Act of 1979, to effectuate the policy relating to the protection of the domestic economy set forth in such Acts (paragraph (2)(A) of section 3 of the Export Administration Act of 1969 and paragraph (2)(C) of section 3 of the Export Administration Act of 1979). Such policy is to use export controls to the extent necessary “to protect the domestic economy from the excessive drain of scarce materials and to reduce the serious inflationary impact of foreign demand.”
 
-(2) *Products considered export controlled products* - (i) *In general.* For purposes of this paragraph, an export controlled product is a product or commodity which is subject to short supply export controls under 15 CFR part 377. A product or commodity is considered an export controlled product for the duration of each control period which applies to such product or commodity. A control period of a product or commodity begins on and includes the initial control date (as defined in subdivision (ii) of this subparagraph) and ends on and includes the final control date (as defined in subdivision (iii) of this subparagraph).
+(2) *Products considered export controlled products*—(i) *In general.* For purposes of this paragraph, an export controlled product is a product or commodity which is subject to short supply export controls under 15 CFR part 377. A product or commodity is considered an export controlled product for the duration of each control period which applies to such product or commodity. A control period of a product or commodity begins on and includes the initial control date (as defined in subdivision (ii) of this subparagraph) and ends on and includes the final control date (as defined in subdivision (iii) of this subparagraph).
 
 (ii) *Initial control date.* The initial control date of a product or commodity which was subject to short supply export controls on March 19, 1975, is March 19, 1975. The initial control date of a product or commodity which is subject to short supply export controls after March 19, 1975, is the effective date stated in the regulations to 15 CFR part 377 which subjects such product or commodity to short supply export controls. If there is no effective date stated in such regulations, the initial control date of such product or commodity is the date on which such regulations are filed for publications in the Federal Register.
 
@@ -286,7 +286,7 @@ For purposes of this paragraph and subparagraph (6) of this paragraph, the date 
 
 (iv) *Expiration of Export Administration Act.* An initial control date and a final control date cannot occur after the expiration date of the Export Administration Act under the authority of which the short supply export controls were issued.
 
-(3) *Effective dates* - (i) *Products controlled on March 19, 1975.* Except as provided in paragraph (g)(6) of this section, if a product or commodity was subject to short supply export controls on March 19, 1975, this paragraph applies -
+(3) *Effective dates*—(i) *Products controlled on March 19, 1975.* Except as provided in paragraph (g)(6) of this section, if a product or commodity was subject to short supply export controls on March 19, 1975, this paragraph applies—
 
 (*a*) With respect to any such product or commodity not owned by a DISC, to sales, exchanges, other dispositions, or leases made after March 18, 1975, with respect to which the DISC derives gross receipts.
 

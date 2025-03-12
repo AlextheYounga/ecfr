@@ -1,5 +1,7 @@
 ##### § 2.34 Disclosures to prevent multiple enrollments. #####
 
+Link to an amendment published at 85 FR 43038, July 15, 2020.
+
 (a) *Restrictions on disclosure.* A part 2 program, as defined in § 2.11, may disclose patient records to a central registry or to any withdrawal management or maintenance treatment program not more than 200 miles away for the purpose of preventing the multiple enrollment of a patient only if:
 
 (1) The disclosure is made when:

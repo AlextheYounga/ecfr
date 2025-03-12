@@ -1,14 +1,12 @@
 ##### § 127.203 What are the rules governing the requirement that economically disadvantaged women must own EDWOSBs? #####
 
-Link to an amendment published at 85 FR 27660, May 11, 2020.
-
 (a) *General.* To qualify as an EDWOSB, the concern must be at least 51 percent owned by one or more women who are economically disadvantaged. A woman is economically disadvantaged if she can demonstrate that her ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same or similar line of business. SBA does not take into consideration community property laws when determining economic disadvantage when the woman has no direct, individual or separate ownership interest in the property.
 
 (b) *Limitation on personal net worth.* (1) In order to be considered economically disadvantaged, the woman's personal net worth must be less than $750,000, excluding her ownership interest in the concern and her equity interest in her primary personal residence.
 
 (2) Income received from an EDWOSB that is an S corporation, LLC or partnership will be excluded from net worth where the EDWOSB provides documentary evidence demonstrating that the income was reinvested in the business concern or the distribution was solely for the purposes of paying taxes arising in the normal course of operations of the business concern. Losses from the S corporation, LLC or partnership, however, are losses to the EDWOSB only, not losses to the individual, and cannot be used to reduce an individual's net worth.
 
-(3) Funds invested in an Individual Retirement Account (IRA) or other official retirement account that are unavailable until retirement age without a significant penalty will not be considered in determining a woman's net worth. In order to properly assess whether funds invested in a retirement account may be excluded from a woman's net worth, she must provide information about the terms and restrictions of the account to SBA and certify that the retirement account is legitimate.
+(3) Funds invested in an Individual Retirement Account (IRA) or other official retirement account will not be considered in determining an individual's net worth. In order to properly assess whether funds invested in a retirement account may be excluded from a woman's net worth, she must provide information about the terms and restrictions of the account to SBA and certify that the retirement account is legitimate.
 
 (c) *Factors to be considered.* (1) *General.* The personal financial condition of the woman claiming economic disadvantage, including her personal income for the past three years (including bonuses, and the value of company stock given in lieu of cash), her personal net worth and the fair market value of all of her assets, whether encumbered or not, will be considered in determining whether she is economically disadvantaged.
 
@@ -27,3 +25,5 @@ Link to an amendment published at 85 FR 27660, May 11, 2020.
 (1) To or on behalf of an immediate family member for that individual's education, medical expenses, or some other form of essential support; or
 
 (2) To an immediate family member in recognition of a special occasion, such as a birthday, graduation, anniversary, or retirement.
+
+[75 FR 62282, Oct. 7, 2010, as amended at 85 FR 27660, May 11, 2020]

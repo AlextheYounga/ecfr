@@ -12,7 +12,7 @@
 
 (4) *Owner ceases to exist.* The owner of the section 987 QBU ceases to exist (including in connection with a transaction described in section 381(a)).
 
-(c) *Transactions described in section 381(a)* - (1) *Liquidations.* Notwithstanding paragraph (b) of this section, a termination does not occur when the owner of a section 987 QBU ceases to exist in a liquidation described in section 332, except in the following cases:
+(c) *Transactions described in section 381(a)*—(1) *Liquidations.* Notwithstanding paragraph (b) of this section, a termination does not occur when the owner of a section 987 QBU ceases to exist in a liquidation described in section 332, except in the following cases:
 
 (i) The distributor is a domestic corporation and the distributee is a foreign corporation.
 
@@ -30,7 +30,7 @@
 
 (iv) The transferor and the acquiring corporation are foreign corporations and the functional currency of the acquiring corporation is the same as the functional currency of the transferor's section 987 QBU.
 
-(d) [Reserved]. For further guidance, see § 1.987-8T(d).
+(d) [Reserved] For further guidance, see § 1.987-8T(d).
 
 (e) *Effect of terminations.* A termination of a section 987 QBU as determined in this section is treated as a remittance of all the gross assets of the section 987 QBU to its owner immediately before the section 987 QBU terminates. Thus, except as otherwise provided in these regulations under section 987, a termination results in the recognition of any net unrecognized section 987 gain or loss of the section 987 QBU. See § 1.987-5(c)(3).
 

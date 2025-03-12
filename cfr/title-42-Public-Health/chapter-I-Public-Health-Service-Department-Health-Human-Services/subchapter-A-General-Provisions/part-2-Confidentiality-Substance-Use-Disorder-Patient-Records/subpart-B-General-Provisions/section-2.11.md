@@ -1,5 +1,7 @@
 ##### § 2.11 Definitions. #####
 
+Link to an amendment published at 85 FR 43036, July 15, 2020.
+
 For purposes of the regulations in this part:
 
 *Central registry* means an organization which obtains from two or more member programs patient identifying information about individuals applying for withdrawal management or maintenance treatment for the purpose of avoiding an individual's concurrent enrollment in more than one treatment program.

@@ -2,13 +2,13 @@
 
 (a) *Ordinary income or loss.* Section 987 gain or loss is ordinary income or loss for Federal income tax purposes.
 
-(b) *Character and source of section 987 gain or loss* - (1) *In general.* With respect to each section 987 QBU, the owner must determine the character and source of section 987 gain or loss in the year of a remittance under the rules of this paragraph (b) for all purposes of the Internal Revenue Code, including sections 904(d), 907, and 954.
+(b) *Character and source of section 987 gain or loss*—(1) *In general.* With respect to each section 987 QBU, the owner must determine the character and source of section 987 gain or loss in the year of a remittance under the rules of this paragraph (b) for all purposes of the Internal Revenue Code, including sections 904(d), 907, and 954.
 
 (2) *Method required to characterize and source section 987 gain or loss.* The owner must use the asset method set forth in § 1.861-9T(g) to characterize and source section 987 gain or loss. In applying the asset method, the owner must take into account only the assets of the section 987 QBU and must consistently determine the value of the assets on the basis of either the tax book value or the fair market value of the assets. The modified gross income method described in § 1.861-9T(j) cannot be used.
 
 (3) *Coordination with section 954.* Solely for purposes of determining the excess of foreign currency gains over foreign currency losses characterized as foreign personal holding company income under section 954(c)(1)(D), section 987 gain or loss that is characterized pursuant to paragraph (b)(2) of this section by reference to assets that give rise to subpart F income shall be treated as foreign currency gain or foreign currency loss attributable to section 988 transactions not directly related to the business needs of the controlled foreign corporation.
 
-(4) [Reserved]. For further guidance, see § 1.987-6T(b)(4).
+(4) [Reserved] For further guidance, see § 1.987-6T(b)(4).
 
 (c) *Examples.* The following examples illustrate the application of this section.
 

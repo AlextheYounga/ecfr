@@ -1,6 +1,6 @@
 ##### § 124.1015 What are the requirements for representing SDB status, and what are the penalties for misrepresentation? #####
 
-Link to an amendment published at 85 FR 27293, May 8, 2020.Link to an amendment published at 85 FR 27660, May 11, 2020.
+Link to an amendment published at 85 FR 27293, May 8, 2020.
 
 (a) *Presumption of Loss Based on the Total Amount Expended.* In every contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant which is set aside, reserved, or otherwise classified as intended for award to SDB concerns, there shall be a presumption of loss to the United States based on the total amount expended on the contract, subcontract, cooperative agreement, cooperative research and development agreement, or grant whenever it is established that a business concern other than a SDB willfully sought and received the award by misrepresentation.
 
@@ -28,7 +28,7 @@ Link to an amendment published at 85 FR 27293, May 8, 2020.Link to an amendment 
 
 (ii) Where a concern that is performing a contract acquires, is acquired by, or merges with another concern and contract novation is not required, the concern must, within 30 days of the transaction becoming final, recertify its SDB status to the procuring agency, or inform the procuring agency that it no longer qualifies as an SDB. If the contractor is not an SDB, the agency can no longer count the options or orders issued pursuant to the contract, from that point forward, towards its SDB goals. The agency and the contractor must immediately revise all applicable Federal contract databases for which they directly certify information to reflect the new status.
 
-(2) For the purposes of contracts (including Multiple Award Contracts) with durations of more than five years (including options), a contracting officer must request that a business concern recertify its SDB status no more than 120 days prior to the end of the fifth year of the contract, and no more than 120 days prior to exercising any option.
+(2) For the purposes of contracts (including Multiple Award Contracts) with durations of more than five years (including options), a contracting officer must request that a business concern recertify its SDB status no more than 120 days prior to the end of the fifth year of the contract, and no more than 120 days prior to exercising any option. If the business is unable to recertify its SDB status, the procuring agency may no longer be able to count the options or orders issued pursuant to the contract, from that point forward, towards its SDB goals.
 
 (3) A business concern that did not certify itself as an SDB, either initially or prior to an option being exercised, may recertify itself as an SDB for a subsequent option period if it meets the eligibility requirements at that time.
 
@@ -38,4 +38,4 @@ Link to an amendment published at 85 FR 27293, May 8, 2020.Link to an amendment 
 
 (6) A concern's status may be determined at the time of a response to a solicitation for an Agreement and each order issued pursuant to the Agreement.
 
-[78 FR 38818, June 28, 2013, as amended at 81 FR 31491, May 19, 2016; 84 FR 65662, Nov. 29, 2019]
+[78 FR 38818, June 28, 2013, as amended at 81 FR 31491, May 19, 2016; 84 FR 65662, Nov. 29, 2019; 85 FR 27660, May 11, 2020]

@@ -1,5 +1,7 @@
 ##### § 2.67 Orders authorizing the use of undercover agents and informants to investigate employees or agents of a part 2 program in connection with a criminal matter. #####
 
+Link to an amendment published at 85 FR 43039, July 15, 2020.
+
 (a) *Application.* A court order authorizing the placement of an undercover agent or informant in a part 2 program as an employee or patient may be applied for by any law enforcement or prosecutorial agency which has reason to believe that employees or agents of the part 2 program are engaged in criminal misconduct.
 
 (b) *Notice.* The part 2 program director must be given adequate notice of the application and an opportunity to appear and be heard (for the limited purpose of providing evidence on the statutory and regulatory criteria for the issuance of the court order in accordance with § 2.67(c)), unless the application asserts that:

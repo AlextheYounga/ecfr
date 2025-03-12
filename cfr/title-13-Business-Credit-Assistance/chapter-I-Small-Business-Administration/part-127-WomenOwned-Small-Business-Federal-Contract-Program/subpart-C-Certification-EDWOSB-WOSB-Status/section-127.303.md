@@ -1,25 +1,23 @@
-##### § 127.303 How will SBA select and identify approved certifiers? #####
+##### § 127.303 What must a concern submit for certification? #####
 
-Link to an amendment published at 85 FR 27661, May 11, 2020.
+(a)(1) *SBA certification.* (i) To be certified by SBA as a WOSB or EDWOSB, a concern must provide documents and information demonstrating that it meets the requirements set forth in part 127, subpart B. SBA maintains a list of the minimum required documents that can be found at *https://certify.sba.gov* or any successor system. A concern may submit additional documents and information to support its eligibility. The required documents must be provided to SBA during the application process electronically. This may include, but is not limited to, corporate records, business and personal financial records, including copies of signed Federal personal and business tax returns, and individual and business bank statements.
 
-(a) *General.* SBA may enter into written agreements to accept the EDWOSB or WOSB certification of a Federal agency, State government, or national certifying entity if SBA determines that the entity's certification process complies with SBA-approved certification standards and tracks the EDWOSB or WOSB eligibility requirements set forth in subpart B of this part. The written agreement will include a provision authorizing SBA to terminate the agreement if SBA subsequently determines that the entity's certification process does not comply with SBA-approved certification standards or is not based on the same EDWOSB or WOSB eligibility requirements as set forth in subpart B of this part.
+(ii) A concern that is certified by the 8(a) BD Program and is owned and controlled by one or more women may use documentation of its most recent annual review, or documentation of its 8(a) acceptance if it has not yet had an annual review, in support of its application for certification.
 
-(b) *Required certification standards.* In order for SBA to enter into an agreement to accept the EDWOSB or WOSB certification of a Federal agency, State government, or national certifying entity, the entity must establish the following:
+(iii) A concern that is certified through a program examination or status protest may use the positive determination from SBA as evidence for certification.
 
-(1) It will render fair and impartial EDWOSB or WOSB eligibility determinations.
+(2) *CVE certification.* (i) To be certified as a WOSB, a concern that is certified by the U.S. Department of Veterans Affairs Center for Verification and Evaluation may submit documentation of its most recent certification, along with documentation confirming that it is owned and controlled by one or more women, in support of its application for certification.
 
-(2) It will retain the documents submitted by the approved WOSB or EDWOSB for a period of six (6) years from the date of certification (initial and any recertification) and provide any such documents to SBA in response to a status protest or eligibility examination or agency investigation or audit.
+(ii) To be certified as an EDWOSB, a concern that is certified by the U.S. Department of Veterans Affairs Center for Verification and Evaluation may submit documentation of its most recent certification, along with documentation confirming that it is owned and controlled by one or more women who are economically disadvantaged in accordance with § 127.203(b)(3), in support of its application for certification.
 
-(3) Its certification process will require applicant concerns to pre-register in SAM (or any successor system)and submit sufficient information as determined by SBA to enable it to determine whether the concern qualifies as an EDWOSB or WOSB. This information must include documentation demonstrating whether the concern is:
+(3) *Third-Party Certifier certification.* A concern that is certified by a Third-Party Certifier must provide a current, valid certification from an entity designated as an SBA-approved certifier.
 
-(i) A small business concern under SBA's size standards for its primary industry classification;
+(b) In addition to the minimum required documents, SBA may request additional information from applicants in order to verify eligibility.
 
-(ii) At least 51 percent owned and controlled by one or more women who are United States citizens; and
+(c) After submitting the required documentation, an applicant must notify SBA of any changes that could affect its eligibility.
 
-(iii) In the case of a concern applying for EDWOSB certification, at least 51 percent owned and controlled by one or more women who are United States citizens and economically disadvantaged.
+(d) If a concern was decertified or previously denied certification, it must include with its application for certification a full explanation of why it was decertified or denied certification, and what, if any, changes have been made. If SBA is not satisfied with the explanation provided, SBA will decline to certify the concern.
 
-(4) It will not decline to accept a concern's application for EDWOSB or WOSB certification on the basis of race, color, national origin, religion, age, disability, sexual orientation, or marital or family status.
+(e) If the concern was decertified for failure to notify SBA of a material change affecting its eligibility pursuant to § 127.401, it must include with its application for certification a full explanation of why it failed to notify SBA of the material change. If SBA is not satisfied with the explanation provided, SBA will decline to certify the concern.
 
-(c) *List of SBA-approved certifiers.* SBA will maintain a list of approved certifiers, including certifiers from which SBA will accept DOT DBE certifications, on SBA's Internet Web site at *http://www.sba.gov/GC.* Any interested person may also obtain a copy of the list from the local SBA district office or SBA Area Office for Government Contracting.
-
-[75 FR 62282, Oct. 7, 2010, as amended at 78 FR 61147, Oct. 2, 2013]
+[85 FR 27661, May 11, 2020]

@@ -1,5 +1,7 @@
 ##### § 2.33 Disclosures permitted with written consent. #####
 
+Link to an amendment published at 85 FR 43037, July 15, 2020.
+
 (a) If a patient consents to a disclosure of their records under § 2.31, a part 2 program may disclose those records in accordance with that consent to any person or category of persons identified or generally designated in the consent, except that disclosures to central registries and in connection with criminal justice referrals must meet the requirements of §§ 2.34 and 2.35, respectively.
 
 (b) If a patient consents to a disclosure of their records under § 2.31 for payment and/or health care operations activities, a lawful holder who receives such records under the terms of the written consent may further disclose those records as may be necessary for its contractors, subcontractors, or legal representatives to carry out payment and/or health care operations on behalf of such lawful holder. Disclosures to contractors, subcontractors, and legal representatives to carry out other purposes such as substance use disorder patient diagnosis, treatment, or referral for treatment are not permitted under this section. In accordance with § 2.13(a), disclosures under this section must be limited to that information which is necessary to carry out the stated purpose of the disclosure.

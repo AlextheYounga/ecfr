@@ -1,7 +1,5 @@
 ##### § 622.182 Gear-restricted areas. #####
 
-Link to an amendment published at 85 FR 36171, June 15, 2020.
-
 (a) *Special management zones (SMZs).* (1) The SMZs consist of artificial reefs and surrounding areas as follows:
 
 (i) *Paradise Reef* is bounded on the north by 33°31.59′ N. lat.; on the south by 33°30.51′ N. lat.; on the east by 78°57.55′ W. long.; and on the west by 78°58.85′ W. long.
@@ -128,6 +126,8 @@ Link to an amendment published at 85 FR 36171, June 15, 2020.
 
 (b) *Longline prohibited areas.* A longline may not be used to fish in the EEZ for South Atlantic snapper-grouper south of 27°10′ N. lat. (due east of the entrance to St. Lucie Inlet, FL); or north of 27°10′ N. lat. where the charted depth is less than 50 fathoms (91.4 m), as shown on the latest edition of the largest scale NOAA chart of the location. A person aboard a vessel with a longline on board that fishes on a trip in the South Atlantic EEZ south of 27°10′ N. lat., or north of 27°10′ N. lat. where the charted depth is less than 50 fathoms (91.4 m), is limited on that trip to the bag limit for South Atlantic snapper-grouper for which a bag limit is specified in § 622.187(b), and to zero for all other South Atlantic snapper-grouper. For the purpose of this paragraph, a vessel is considered to have a longline on board when a power-operated longline hauler, a cable or monofilament of diameter and length suitable for use in the longline fishery, and gangions are on board. Removal of any one of these three elements constitutes removal of a longline.
 
-(c) *Powerhead prohibited area.* A powerhead may not be used in the EEZ off South Carolina to harvest South Atlantic snapper-grouper. The possession of a mutilated South Atlantic snapper-grouper in or from the EEZ off South Carolina, and a powerhead is *prima facie* evidence that such fish was harvested by a powerhead.
+(c) [Reserved]
 
 (d) *Sea bass pot prohibited area.* A sea bass pot may not be used in the South Atlantic EEZ south of 28°35.1′ N. lat. (due east of the NASA Vehicle Assembly Building, Cape Canaveral, FL). A sea bass pot deployed in the EEZ south of 28°35.1′ N. lat. may be disposed of in any appropriate manner by the Assistant Administrator or an authorized officer.
+
+[78 FR 22952, Apr. 17, 2013, as amended at 85 FR 36171, June 15, 2020]

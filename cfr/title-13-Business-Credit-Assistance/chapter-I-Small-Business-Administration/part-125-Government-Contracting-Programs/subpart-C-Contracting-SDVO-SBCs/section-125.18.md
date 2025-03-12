@@ -1,7 +1,5 @@
 ##### § 125.18 What requirements must an SDVO SBC meet to submit an offer on a contract? #####
 
-Link to an amendment published at 85 FR 27660, May 11, 2020.
-
 (a) *Representation of SDVO SBC status.* An SDVO SBC must submit the following representations with its initial offer (which includes price) on a specific contract:
 
 (1) It is an SDVO SBC;
@@ -101,6 +99,7 @@ Link to an amendment published at 85 FR 27660, May 11, 2020.
 (iii) Where there has been an SDVO SBC status protest on the solicitation or contract, *see* § 125.27(e) for the effect of the status determination on the contract award.
 
 (2) For the purposes of contracts (including Multiple Award Contracts) with durations of more than five years (including options), a contracting officer must request that a business concern recertify its SDVO SBC status no more than 120 days prior to the end of the fifth year of the contract, and no more than 120 days prior to exercising any option.
+If the business is unable to recertify its SDVO status, the procuring agency may no longer be able to count the options or orders issued pursuant to the contract, from that point forward, towards its SDVO goals.
 
 (3) A business concern that did not certify itself as an SDVO SBC, either initially or prior to an option being exercised, may recertify itself as an SDVO SBC for a subsequent option period if it meets the eligibility requirements at that time.
 
@@ -116,4 +115,4 @@ Link to an amendment published at 85 FR 27660, May 11, 2020.
 
 (2) SBA will find that a prime SDVO contractor is performing the primary and vital requirements of a contract or order and is not unduly reliant on one or more non-similarly situated subcontracts where the prime contractor can demonstrate that it, together with any similarly situated entity, will meet the limitations on subcontracting provisions set forth in § 125.6.
 
-[69 FR 25268, May 5, 2004, as amended at 70 FR 14527, Mar. 23, 2005; 78 FR 61143, Oct. 2, 2013; 81 FR 34264, May 31, 2016. Redesignated at 81 FR 48585, July 25, 2016, as amended at 81 FR 48590, July 25, 2016; 81 FR 94941, Dec. 27, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65664, Nov. 29, 2019]
+[69 FR 25268, May 5, 2004, as amended at 70 FR 14527, Mar. 23, 2005; 78 FR 61143, Oct. 2, 2013; 81 FR 34264, May 31, 2016. Redesignated at 81 FR 48585, July 25, 2016, as amended at 81 FR 48590, July 25, 2016; 81 FR 94941, Dec. 27, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65664, Nov. 29, 2019; 85 FR 27660, May 11, 2020]

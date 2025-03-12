@@ -1,5 +1,7 @@
 ##### § 2.52 Research. #####
 
+Link to an amendment published at 85 FR 43038, July 15, 2020.
+
 (a) Notwithstanding other provisions of this part, including paragraph (b)(2) of this section, patient identifying information may be disclosed by the part 2 program or other lawful holder of part 2 data, for the purpose of conducting scientific research if the individual designated as director or managing director, or individual otherwise vested with authority to act as chief executive officer or their designee makes a determination that the recipient of the patient identifying information:
 
 (1) If a HIPAA-covered entity or business associate, has obtained and documented authorization from the patient, or a waiver or alteration of authorization, consistent with the HIPAA Privacy Rule at 45 CFR 164.508 or 164.512(i), as applicable; or

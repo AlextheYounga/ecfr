@@ -22,14 +22,4 @@ I, [identify the certifying individual], certify that the financial statements o
 
 (5) The issuer liquidates or dissolves its business in accordance with state law.
 
-(c) Temporary relief from certain reporting requirements is provided as follows:
-
-(1) An issuer that is not able to meet a filing deadline for any report or form required to be filed by this section or § 227.203(a)(3) or (b) during the period from and including March 26, 2020, to May 31, 2020, due to circumstances relating to coronavirus disease 2019 (COVID-19) shall be deemed to have satisfied the filing deadline for such report or form if:
-
-(i) The issuer promptly discloses on its public website or through an intermediary's platform, or provides direct notification to its investors, that it is relying on this paragraph (c); and
-
-(ii) The issuer files such report or form with the Commission no later than 45 days after the original filing deadline of the report or form.
-
-(2) In any report or form filed pursuant to paragraph (c)(1)(ii) of this section, the issuer must disclose that it is relying on this paragraph (c) and state the reasons why, in good faith, it could not file such report or form on a timely basis.
-
-[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 45725, Oct. 2, 2017; 83 FR 47836, Sept. 21, 2018; 83 FR 52964, Oct. 19, 2018; 85 FR 17751, Mar. 31, 2020]Effective Date Note:At 85 FR 17751, Mar. 31, 2020, § 227.202 was amended by adding paragraph (c), effective from Mar. 30, 2020, through July 15, 2020
+[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 45725, Oct. 2, 2017; 83 FR 47836, Sept. 21, 2018; 83 FR 52964, Oct. 19, 2018; 85 FR 17751, Mar. 31, 2020]

@@ -1,5 +1,7 @@
 ##### § 1.6038A-2 Requirement of return. #####
 
+Link to an amendment published at 85 FR 43117, July 15, 2020.
+
 (a) *Forms required* - (1) *Form 5472.* Each reporting corporation as defined in § 1.6038A-1(c) (or members of an affiliated group filing together as described in § 1.6038A-1(k)) shall make a separate annual information return on Form 5472 with respect to each related party as defined in § 1.6038A-1(d) with which the reporting corporation (or any group member joining in a consolidated Form 5472) has had any reportable transaction during the taxable year. The information required by section 6038A and this section must be furnished even though it may not affect the amount of any tax due under the Code.
 
 (2) *Reportable transaction.* A reportable transaction is any transaction of the types listed in paragraphs (b)(3) and (4) of this section, and, in the case of a reporting corporation that is an applicable taxpayer, as defined under § 1.59A-2(b), any other arrangement that, to prevent avoidance of the purposes of section 59A, is identified on Form 5472 as a reportable transaction. However, except as the Secretary may prescribe otherwise for an applicable taxpayer, the transaction is not a reportable transaction if neither party to the transaction is a United States person as defined in section 7701(a)(30) (which, for purposes of section 6038A, includes an entity that is a reporting corporation as a result of being treated as a corporation under § 301.7701-2(c)(2)(vi) of this chapter) and the transaction -

@@ -1,5 +1,7 @@
 ##### § 2.12 Applicability. #####
 
+Link to an amendment published at 85 FR 43036, July 15, 2020.
+
 (a) *General* - (1) *Restrictions on disclosure.* The restrictions on disclosure in the regulations in this part apply to any information, whether or not recorded, which:
 
 (i) Would identify a patient as having or having had a substance use disorder either directly, by reference to publicly available information, or through verification of such identification by another person; and

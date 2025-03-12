@@ -1,5 +1,7 @@
 ##### § 1.962-1 Limitation of tax for individuals on amounts included in gross income under section 951(a). #####
 
+Link to an amendment published at 85 FR 43109, July 15, 2020.
+
 (a) *In general.* An individual United States shareholder may, in accordance with § 1.962-2, elect to have the provisions of section 962 apply for his taxable year. In such case -
 
 (1) The tax imposed under chapter 1 of the Internal Revenue Code on all amounts which are included in his gross income for such taxable year under section 951(a) shall (in lieu of the tax determined under section 1) be an amount equal to the tax which would be imposed under section 11 if such amounts were received by a domestic corporation (determined in accordance with paragraph (b)(1) of this section), and

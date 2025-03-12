@@ -140,7 +140,7 @@ Example 3.(i) *Facts.* USP, a domestic corporation, owns 100 percent of the stoc
 
 (ii) *Analysis.* In the section 351 exchange, CFC1 transferred specified United States property to CFC2 with an adjusted basis that was determined under paragraph (e)(6)(iii) of this section. Further, CFC2's adjusted basis in the specified United States property is determined under section 362(a) by reference, in whole or in part, to CFC1's adjusted basis in such property. Therefore, for purposes of applying section 956, pursuant to paragraph (e)(6)(v) of this section CFC2's adjusted basis in the specified United States property shall be no less than $30x. Paragraph (e)(6)(v) of this section would also apply if CFC2 subsequently transfers the specified United States property to another person related to CFC1 (within the meaning of section 954(d)(3)) if such related person's adjusted basis in the specified United States property is determined by reference, in whole or in part, to CFC2's adjusted basis in such property. See also § 1.956-1T(b)(4) if one of the principal purposes of CFC1's transfer of property to CFC2 was the avoidance of the application of section 956 with respect to CFC1.
 
-(f) [Reserved]. For further guidance, see § 1.956-1T(f).
+(f) [Reserved] For further guidance, see § 1.956-1T(f).
 
 (g) *Applicability dates.* (1) Paragraph (a)(1) of this section applies to taxable years of controlled foreign corporations ending on or after November 3, 2016, and to taxable years of United States shareholders in which or with which such taxable years end.
 

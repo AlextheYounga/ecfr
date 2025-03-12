@@ -1,7 +1,5 @@
 ##### § 127.503 When is a contracting officer authorized to restrict competition or award a sole source contract or order under this part? #####
 
-Link to an amendment published at 85 FR 27664, May 11, 2020.
-
 (a) *Competition restricted to EDWOSBs.* For requirements in industries designated by SBA as underrepresented pursuant to § 127.501, a contracting officer may restrict competition to EDWOSBs if the contracting officer has a reasonable expectation based on market research that:
 
 (1) Two or more EDWOSBs will submit offers for the contract; and
@@ -48,7 +46,7 @@ Link to an amendment published at 85 FR 27664, May 11, 2020.
 
 (iii) Where there has been a WOSB or EDWOSB status protest on the solicitation or contract, *see* § 127.604(f) for the effect of the status determination on the contract award.
 
-(2) For the purposes of contracts (including Multiple Award Contracts) with durations of more than five years (including options), a contracting officer must request that a business concern recertify its WOSB/EDWOSB status no more than 120 days prior to the end of the fifth year of the contract, and no more than 120 days prior to exercising any option.
+(2) For the purposes of contracts (including Multiple Award Contracts) with durations of more than five years (including options), a contracting officer must request that a business concern recertify its WOSB/EDWOSB status no more than 120 days prior to the end of the fifth year of the contract, and no more than 120 days prior to exercising any option. If the business is unable to recertify its WOSB/EDWOSB status, the procuring agency may no longer be able to count the options or orders issued pursuant to the contract, from that point forward, towards its women-owned small business goals.
 
 (3) A business concern that did not certify itself as a WOSB/EDWOSB, either initially or prior to an option being exercised, may recertify itself as a WOSB/EDWOSB for a subsequent option period if it meets the eligibility requirements at that time.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 85 FR 27664, May 11, 2020.
 
 (6) A concern's status may be determined at the time of a response to a solicitation for an Agreement and each order issued pursuant to the Agreement.
 
-[75 FR 62282, Oct. 7, 2010, as amended at 77 FR 1861, Jan. 12, 2012; 78 FR 26506, May 7, 2013; 78 FR 61147, Oct. 2, 2013; 79 FR 31849, June 3, 2014; 80 FR 55022, Sept. 14, 2015; 83 FR 12852, Mar. 26, 2018; 84 FR 65665, Nov. 29, 2019]
+[75 FR 62282, Oct. 7, 2010, as amended at 77 FR 1861, Jan. 12, 2012; 78 FR 26506, May 7, 2013; 78 FR 61147, Oct. 2, 2013; 79 FR 31849, June 3, 2014; 80 FR 55022, Sept. 14, 2015; 83 FR 12852, Mar. 26, 2018; 84 FR 65665, Nov. 29, 2019; 85 FR 27664, May 11, 2020]
