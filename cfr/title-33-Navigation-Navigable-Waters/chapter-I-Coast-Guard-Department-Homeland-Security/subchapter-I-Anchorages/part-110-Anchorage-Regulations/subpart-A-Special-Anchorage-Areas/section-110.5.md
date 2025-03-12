@@ -38,4 +38,4 @@ Note to paragraph (f):
 
 An ordinance of the Town of Yarmouth, Maine requires the approval of the Yarmouth Harbor Master for the location and type of moorings placed in these special anchorage areas. All anchoring in the areas are under the supervision of the Yarmouth Harbor Master or other such authority as may be designated by the authorities of the Town of Yarmouth, Maine. All moorings are to be so placed that no moored vessel will extend beyond the limit of the anchorage area.
 
-[CGFR 67-46, 32 FR 17728, Dec. 12, 1967]Editorial Note:For Federal Register citations affecting § 110.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[CGFR 67-46, 32 FR 17728, Dec. 12, 1967]Editorial Note:For Federal Register citations affecting § 110.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

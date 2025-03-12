@@ -1,7 +1,5 @@
 ##### § 212.3 Registration of claims for protection of eligible designs. #####
 
-Link to an amendment published at 83 FR 66630, December 27, 2018.
-
 (a) *Limitations.* Protection is not available for, and an application for registration will not be accepted for:
 
 (1) An otherwise eligible design made public prior to October 28, 1998;
@@ -22,7 +20,7 @@ Link to an amendment published at 83 FR 66630, December 27, 2018.
 
 (d) *Application form.* Registration must be made on Form D-VH. Forms are available from the Copyright Office and may be reprinted from the Copyright Office's website (*http://www.loc.gov/copyright/forms/formdvh.pdf*).
 
-(e) *Deposit material* - (1) *In General.* Identification of the design to be registered may be made in the form of drawings or photographs. No more than two drawings or photographs of the design may appear on a single sheet. Applicants may submit up to three 81/2″ × 11″ sheets containing drawings or photographs as part of the basic application fee. An additional fee shall be assessed for each page beyond the first three pages. No combinations of drawings and photographs may be submitted on a single sheet. The drawings or photographs that accompany the application must reveal those aspects of the design for which protection is claimed. The registration extends only to those aspects of the design which are adequately shown in the drawings or photographs.
+(e) *Deposit material*—(1) *In General.* Identification of the design to be registered may be made in the form of drawings or photographs. No more than two drawings or photographs of the design may appear on a single sheet. Applicants may submit up to three 81/2″ × 11″ sheets containing drawings or photographs as part of the basic application fee. An additional fee shall be assessed for each page beyond the first three pages. No combinations of drawings and photographs may be submitted on a single sheet. The drawings or photographs that accompany the application must reveal those aspects of the design for which protection is claimed. The registration extends only to those aspects of the design which are adequately shown in the drawings or photographs.
 
 (2) *Views.* The drawings or photographs submitted should contain a sufficient number of views to make an adequate disclosure of the appearance of the design, *i.e.*, front, rear, right and left sides, top and bottom. While not required, it is suggested that perspective views be submitted to show clearly the appearance and shape of the three dimensional designs.
 
@@ -34,13 +32,13 @@ Link to an amendment published at 83 FR 66630, December 27, 2018.
 
 (4) *Photographs.* High quality black and white or color photographs will be accepted provided that they are mounted on plain white 81/2″ × 11″ unlined paper and do not exceed two photographs per sheet. Photographs must be developed on double weight photographic paper and must be of sufficient quality so that all the details of the design are plainly visible and are capable of reproduction on the registration certificate, if issued.
 
-(f) *Multiple claims* - (1) *In general.* Claims for more than one design may be filed in one of two ways. If multiple designs are contained on a single make and model of a vessel (and therefore, the information in Space 1 of Form D-VH - the make and model of the vessel that embodies the design - is the same for each of the designs), a single application form may be used for all designs, provided that the information in spaces 3 through 9 is the same for each of the designs. If multiple designs are contained on more than one make and model of a vessel, or the information in spaces 3 through 9 is not the same for each of the multiple designs, then separate applications must be used for each design.
+(f) *Multiple claims*—(1) *In general.* Claims for more than one design may be filed in one of two ways. If multiple designs are contained on the same make and model of a vessel (and therefore, the information in Space 1 of Form D-VH—the make and model of the vessel that embodies the design—is the same for each design), one application form may be used to register all the designs, provided that the information in spaces 3 through 9 is the same for each design. If multiple designs are contained on more than one make and model of a vessel, or the information in spaces 3 through 9 is not the same for each of the multiple designs, then separate applications must be used for each design.
 
-(2) *Single application.* Where a single application for multiple designs is appropriate, a separate Form D-VH/CON must be used for each design beyond the first appearing on Form D-VH. Each Form D-VH/CON must be accompanied by deposit material identifying the design that is the subject of the Form D-VH/CON, and the deposit material must be attached to the Form D-VH/CON. The Form D-VH and all the Form D-VH/CONs for the single application must be submitted together.
+(2) *One application.* Where one application for multiple designs is appropriate, a separate Form D-VH/CON must be used for each design beyond the first appearing on Form D-VH. Each Form D-VH/CON must be accompanied by deposit material identifying the design that is the subject of the Form D-VH/CON, and the deposit material must be attached to the Form D-VH/CON. The Form D-VH and all the Form D-VH/CONs for the application must be submitted together.
 
 (3) *Multiple applications.* Where multiple applications for more than one design are required, a Form D-VH must be completed for each design. Deposit material identifying the design must accompany each application. Multiple applications may be filed separately.
 
-(4) *Fees.* The basic application fee prescribed in § 201.3(c) of this chapter applies to each design submitted, regardless of whether a single application or multiple applications are used.
+(4) *Fees.* The basic application fee prescribed in § 201.3(c) of this chapter applies to each design submitted, regardless of whether one application or multiple applications are used.
 
 (g) *Written declaration.* In lieu of the oath required by 17 U.S.C. 1312(a), the application shall contain a written declaration, as permitted by 17 U.S.C. 1312(b), signed by the applicant, or the applicant's duly authorized agent or representative. If the design has been made public with the design notice prescribed in 17 U.S.C. 1306, the written declaration shall also describe the exact form and position of the design notice. The written declaration shall read as follows:
 
@@ -74,4 +72,4 @@ The undersigned, as the applicant or the applicant's duly appointed agent or rep
 
 (j) *Publication of registration.* Publication of registrations of vessel designs shall be made on the Copyright Office website (*http://www.loc.gov/copyright/vessels*).
 
-[64 FR 36578, July 7, 1999, as amended at 72 FR 33692, June 19, 2007; 82 FR 9366, Feb. 6, 2017]
+[64 FR 36578, July 7, 1999, as amended at 72 FR 33692, June 19, 2007; 82 FR 9366, Feb. 6, 2017; 83 FR 66630, Dec. 27, 2018]

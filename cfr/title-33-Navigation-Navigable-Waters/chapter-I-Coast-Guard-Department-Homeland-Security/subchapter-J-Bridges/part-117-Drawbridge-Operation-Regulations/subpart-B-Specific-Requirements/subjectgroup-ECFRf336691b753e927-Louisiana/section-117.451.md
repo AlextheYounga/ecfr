@@ -10,4 +10,4 @@
 
 (e) The draw of the Louisiana highway bridge, mile 243.8 west of Harvey Canal Locks, shall open on signal when more than 50 feet vertical clearance is required, if at least four hours notice is given to the Louisiana Department of Highways, District Maintenance Engineer, at Lake Charles.
 
-[CGD 82-025, 49 FR 17452, Apr. 24, 1984]Editorial Note:For Federal Register citations affecting § 117.451, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[CGD 82-025, 49 FR 17452, Apr. 24, 1984]Editorial Note:For Federal Register citations affecting § 117.451, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

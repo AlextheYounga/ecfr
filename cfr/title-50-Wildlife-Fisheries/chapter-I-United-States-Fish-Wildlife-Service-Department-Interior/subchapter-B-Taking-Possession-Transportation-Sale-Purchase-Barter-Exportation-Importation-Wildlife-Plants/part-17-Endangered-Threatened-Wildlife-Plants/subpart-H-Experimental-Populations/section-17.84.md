@@ -1168,4 +1168,4 @@ The boundaries of the Experimental Population Area are delineated by U.S. 93 fro
 
 If any particular provision of this rule or the application of any particular provision to any entity or circumstance is held invalid, the remainder of this finding and rule and the application of such provisions to other entities or circumstances shall not be affected by such holding.
 
-[49 FR 35954, Sept. 13, 1984; 50 FR 30194, July 24, 1985]Editorial Note:For Federal Register citations affecting § 17.84, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[49 FR 35954, Sept. 13, 1984; 50 FR 30194, July 24, 1985]Editorial Note:For Federal Register citations affecting § 17.84, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

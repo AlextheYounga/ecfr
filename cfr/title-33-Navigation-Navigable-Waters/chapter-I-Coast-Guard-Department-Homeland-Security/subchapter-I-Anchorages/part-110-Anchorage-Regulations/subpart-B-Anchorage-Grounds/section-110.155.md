@@ -1,6 +1,6 @@
 ##### § 110.155 Port of New York. #####
 
-(a) *Long Island Sound* - (1) *Anchorage No. 1.* Southwest of a line between Neptune Island and Glen Island ranging from Aunt Phebe Rock Light and tangent to the north edge of Glen Island; southwest of a line tangent to the northeast edge of Glen Island and Goose Island breakwater; southwest of a line bearing southeasterly from the southwest end of Goose Island breakwater and on range with the south gable of the Casino on the northeast end of Glen Island; west of a line ranging from the east edge of Goose Island breakwater to the west edge of the north end of Hart Island; west of Hart Island; and northwest of a line extending from Hart Island Light to Locust Point; excluding from this area, however, (i) the waters northeast of a line ranging 303° from the southwest end of Hart Island; northwest of a line ranging from the water tank at the north end of Davids Island 207°40′ to the northwest end of City Island; and south of latitude 40°52′12″; and (ii) the waters west of Hunter Island; and south of a line ranging from the most southerly end of Glen Island tangent to the most northerly end of Hunter Island.
+(a) *Long Island Sound*—(1) *Anchorage No. 1.* Southwest of a line between Neptune Island and Glen Island ranging from Aunt Phebe Rock Light and tangent to the north edge of Glen Island; southwest of a line tangent to the northeast edge of Glen Island and Goose Island breakwater; southwest of a line bearing southeasterly from the southwest end of Goose Island breakwater and on range with the south gable of the Casino on the northeast end of Glen Island; west of a line ranging from the east edge of Goose Island breakwater to the west edge of the north end of Hart Island; west of Hart Island; and northwest of a line extending from Hart Island Light to Locust Point; excluding from this area, however, (i) the waters northeast of a line ranging 303° from the southwest end of Hart Island; northwest of a line ranging from the water tank at the north end of Davids Island 207°40′ to the northwest end of City Island; and south of latitude 40°52′12″; and (ii) the waters west of Hunter Island; and south of a line ranging from the most southerly end of Glen Island tangent to the most northerly end of Hunter Island.
 
 (i) Boats shall not anchor in this area in buoyed channels.
 
@@ -12,7 +12,7 @@ Special anchorage areas in this anchorage are described in § 110.60.
 
 (2) [Reserved]
 
-(b) *East River* - (1) *Anchorage No. 6.* On Hammond Flats north of a line bearing 260° from the head of the pier on Throgs Neck at the foot of Pennyfield Avenue to the north tower of Bronx-Whitestone Bridge at Old Ferry Point.
+(b) *East River*—(1) *Anchorage No. 6.* On Hammond Flats north of a line bearing 260° from the head of the pier on Throgs Neck at the foot of Pennyfield Avenue to the north tower of Bronx-Whitestone Bridge at Old Ferry Point.
 
 (2) [Reserved]
 
@@ -32,7 +32,7 @@ Special anchorage areas in this anchorage are described in § 110.60.
 
 (8) *Anchorage No. 14.* In Hallets Cove, east of a line from a point on shore 100 feet west of the southerly prolongation of 2d Street, Astoria, to Gibbs Point.
 
-(c) *Hudson River* - (1) *Anchorage No. 16.* North of a line on a range with the north side of the north pier of the Union Dry Dock and Repair Company Shipyard, Edgewater, New Jersey; west of a line ranging 25° from a point 120 yards east of the east end of said pier to a point (500 yards from the shore and 915 yards from the Fort Lee flagpole) on a line ranging approximately 100°22′ from the Fort Lee flagpole toward the square chimney on the Medical Center Building at 168th Street, Manhattan; and south of said line ranging between the Fort Lee flagpole and the square chimney on the Medical Center Building.
+(c) *Hudson River*—(1) *Anchorage No. 16.* North of a line on a range with the north side of the north pier of the Union Dry Dock and Repair Company Shipyard, Edgewater, New Jersey; west of a line ranging 25° from a point 120 yards east of the east end of said pier to a point (500 yards from the shore and 915 yards from the Fort Lee flagpole) on a line ranging approximately 100°22′ from the Fort Lee flagpole toward the square chimney on the Medical Center Building at 168th Street, Manhattan; and south of said line ranging between the Fort Lee flagpole and the square chimney on the Medical Center Building.
 
 (i) When the use of Anchorage No. 16 is required by naval vessels, the vessels anchored therein shall move when the Captain of the Port directs them.
 
@@ -54,7 +54,7 @@ Special anchorage areas in this anchorage are described in § 110.60.
 
 (ii) [Reserved]
 
-(5) *Anchorages No. 19 East and 19 West* - (i) *Anchorage No. 19 East.* All waters of the Hudson River bound by the following points: 40°49′42.6″ N, 073°57′14.7″ W; thence to 40°49′45.9″ N, 073°57′22.0″ W; thence to 40°49′52.0″ N, 073°57′22.0″ W; thence to 40°50′08.3″ N, 073°57′10.8″ W; thence to 40°50′55.4″ N, 073°56′59.7″ W; thence to 40°51′02.5″ N, 073°56′57.4″ W; thence to 40°51′00.8″ N, 073°56′49.4″ W; thence along the shoreline to the point of origin.
+(5) *Anchorages No. 19 East and 19 West*—(i) *Anchorage No. 19 East.* All waters of the Hudson River bound by the following points: 40°49′42.6″ N, 073°57′14.7″ W; thence to 40°49′45.9″ N, 073°57′22.0″ W; thence to 40°49′52.0″ N, 073°57′22.0″ W; thence to 40°50′08.3″ N, 073°57′10.8″ W; thence to 40°50′55.4″ N, 073°56′59.7″ W; thence to 40°51′02.5″ N, 073°56′57.4″ W; thence to 40°51′00.8″ N, 073°56′49.4″ W; thence along the shoreline to the point of origin.
 
 (ii) *Anchorage No. 19 West.* All waters of the Hudson River bound by the following points: 40°46′56.3″ N, 073°59′42.2″ W; thence to 40°47′36.9″ N, 073°59′11.7″ W; thence to 40°49′31.3″ N, 073°57′43.8″ W; thence to 40°49′40.2″ N, 073°57′37.6″ W; thence to 40°49′52.4″ N, 073°57′37.6″ W; thence to 40°49′57.7″ N, 073°57′47.3″ W; thence to 40°49′32.2″ N, 073°58′12.9″ W; thence to 40°49′00.7″ N, 073°58′33.1″ W; thence to 40°48′28.7″ N, 073°58′53.8″ W; thence to 40°47′38.2″ N, 073°59′31.2″ W; thence to 40°47′02.7″ N, 073°59′57.4″ W; thence to the point of origin.
 
@@ -82,7 +82,7 @@ Special anchorage areas in this anchorage are described in § 110.60.
 
 (ii) No vessel less than 20 meters in length may anchor in Anchorage 19-A without prior approval of the Captain of the Port, New York.
 
-(d) *Upper Bay* - (1) *Anchorage No. 20-A.* That area enclosed by coordinates starting at 40°42′02.5″ N., 74°02′25.5″ W.; to 40°42′06.5″ N., 74°02′19.5″ W.; to 40°42′05.0″ N., 74°01′58.4″ W.; to 40°41′54.5″ N., 74°01′59.2″ W.; thence to 40°41′53.0″ N., 74°02′23.0″ W.
+(d) *Upper Bay*—(1) *Anchorage No. 20-A.* That area enclosed by coordinates starting at 40°42′02.5″ N., 74°02′25.5″ W.; to 40°42′06.5″ N., 74°02′19.5″ W.; to 40°42′05.0″ N., 74°01′58.4″ W.; to 40°41′54.5″ N., 74°01′59.2″ W.; thence to 40°41′53.0″ N., 74°02′23.0″ W.
 
 (i) See 33 CFR 110.155 (d)(6), (d)(16), and (l).
 
@@ -186,7 +186,7 @@ Special anchorage areas in this anchorage are described in § 110.60.
 
 (x) No vessel may lighter in a “dead ship” status without prior approval from the Captain of the Port.
 
-(e) *Lower Bay* - (1) *Anchorage No. 25.* That area enclosed by coordinates starting at 40°35′58.2″ N., 74°02′18.4″ W.; to 40°36′12.0″ N., 74°01′29.0″ W.; to 40°36′03.0″ N., 74°00′52.5″ W., to 40°34′57.5″ N., 74°00′25.0″ W.; to 40°34′40.0″ N., 74°01′03.0″ W.; to 40°34′53.0″ N., 74°01′56.1″ W.; to 40°35′23.9″ N., 74°02′04.8″ W.; thence back to 40°35′58.2″ N., 74°02′18.4″ W.
+(e) *Lower Bay*—(1) *Anchorage No. 25.* That area enclosed by coordinates starting at 40°35′58.2″ N., 74°02′18.4″ W.; to 40°36′12.0″ N., 74°01′29.0″ W.; to 40°36′03.0″ N., 74°00′52.5″ W., to 40°34′57.5″ N., 74°00′25.0″ W.; to 40°34′40.0″ N., 74°01′03.0″ W.; to 40°34′53.0″ N., 74°01′56.1″ W.; to 40°35′23.9″ N., 74°02′04.8″ W.; thence back to 40°35′58.2″ N., 74°02′18.4″ W.
 
 (i) See 33 CFR 110.155(d)(16) and (l).
 
@@ -194,7 +194,7 @@ Special anchorage areas in this anchorage are described in § 110.60.
 
 (iii) No vessel may occupy this anchorage for a period of time in excess of 96 hours without prior approval of the Captain of the Port.
 
-(f) *Lower Bay, Raritan Bay, Sandy Hook Bay, and Atlantic Ocean.* (1) *Anchorage No. 26.* In Raritan and Sandy Hook Bays all waters bound by the following points: 40°30′06.74″ N., 074°10′04.96″ W.; thence to 40°28′59.44″ N., 074°05′00.00″ W.; thence to 40°28′44.94″ N., 074°05′00.00″ W.; thence to 40°29′05.02″ N., 074°07′30.56″ W.; thence to 40°29′17.49″ N., 074°10′16.50″ W.; thence to the point of origin (NAD 83).
+(f) *Lower Bay, Raritan Bay, Sandy Hook Bay, and Atlantic Ocean*—(1) *Anchorage No. 26.* In Raritan and Sandy Hook Bays all waters bound by the following points: 40°30′06.74″ N., 074°10′04.96″ W.; thence to 40°28′59.44″ N., 074°05′00.00″ W.; thence to 40°28′44.94″ N., 074°05′00.00″ W.; thence to 40°29′05.02″ N., 074°07′30.56″ W.; thence to 40°29′17.49″ N., 074°10′16.50″ W.; thence to the point of origin (NAD 83).
 
 (2) *Anchorage No. 27.* In the Atlantic Ocean all waters bound by the following points: 40°28′49.27″ N., 074°00′12.13″ W.; thence to 40°28′52.12″ N., 074°00′00.56″ W.; thence to 40°28′40.88″ N., 073°58′51.95″ W.; thence to 40°25′57.91″ N., 073°54′55.56″ W.; thence to 40°23′45.55″ N., 073°54′54.89″ W.; thence to 40°23′45.38″ N., 073°58′32.10″ W.; thence along the shoreline to the point of origin (NAD 83).
 
@@ -202,11 +202,11 @@ Special anchorage areas in this anchorage are described in § 110.60.
 
 (g)-(h) [Reserved]
 
-(i) *Arthur Kill* - (1) *Anchorage No. 41.* The passage between Pralls Island and Staten Island included between a line running 29° from the extreme northwest point of Pralls Island to a point on Staten Island and a line from the southern point of Pralls Island to the north side of the mouth of Neck Creek at Travis, Staten Island.
+(i) *Arthur Kill*—(1) *Anchorage No. 41.* The passage between Pralls Island and Staten Island included between a line running 29° from the extreme northwest point of Pralls Island to a point on Staten Island and a line from the southern point of Pralls Island to the north side of the mouth of Neck Creek at Travis, Staten Island.
 
 (2) *Anchorage No. 42.* East of lines ranging from the head of the Tottenville Shipyard Company pier at Tottenville, Staten Island, to the first pier of the Outerbridge Crossing west from the Staten Island shore, thence to Arthur Kill Light 10, thence to Arthur Kill Light 14, and thence to Arthur Kill Lighted Buoy 16; and south of a line from thence to Smoking Point.
 
-(j) *Raritan Bay* - (1) *Anchorage No. 44.* An area in Raritan Bay located at the junction of Arthur Kill and Raritan River, beginning at a point at latitude 40°30′07″, longitude 74°15′30″; thence to latitude 40°30′01″, longitude 74°15′30″; thence to latitude 40°29′27″, longitude 74°15′06″; thence to latitude 40°29′24″, longitude 74°15′01″; thence to latitude 40°29′15″, longitude 74°14′55″; thence to latitude 40°29′14″, longitude 74°15′25″; thence to latitude 40°29′48″, longitude 74°15′48″; and thence to the point of beginning.
+(j) *Raritan Bay*—(1) *Anchorage No. 44.* An area in Raritan Bay located at the junction of Arthur Kill and Raritan River, beginning at a point at latitude 40°30′07″, longitude 74°15′30″; thence to latitude 40°30′01″, longitude 74°15′30″; thence to latitude 40°29′27″, longitude 74°15′06″; thence to latitude 40°29′24″, longitude 74°15′01″; thence to latitude 40°29′15″, longitude 74°14′55″; thence to latitude 40°29′14″, longitude 74°15′25″; thence to latitude 40°29′48″, longitude 74°15′48″; and thence to the point of beginning.
 
 (i) The anchorage is restricted to deep-draft vessels except that barges may moor in that portion of the anchorage southerly of latitude 40°29′22″.
 
@@ -288,4 +288,4 @@ Note:
 
 The anchorage in this section are regulated under Title I, Ports and Waterways Safety Act of 1972 as stated in § 110.1a(a) of this part. The penalties for violating regulations under this Act are stated in § 110.1a(b) of this part.
 
-[CGFR 67-46, 32 FR 17728, Dec. 12, 1967]Editorial Note:For Federal Register citations affecting § 110.155, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[CGFR 67-46, 32 FR 17728, Dec. 12, 1967]Editorial Note:For Federal Register citations affecting § 110.155, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

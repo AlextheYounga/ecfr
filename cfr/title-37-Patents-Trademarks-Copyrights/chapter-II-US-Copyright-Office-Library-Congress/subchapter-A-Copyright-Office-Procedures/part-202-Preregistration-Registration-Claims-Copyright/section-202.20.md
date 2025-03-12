@@ -238,4 +238,4 @@ The number of sets of instructions and identifying material shall be the same as
 
 (e) *Use of copies and phonorecords deposited for the Library of Congress.* Copies and phonorecords deposited for the Library of Congress under 17 U.S.C. 407 and § 202.19 may be used to satisfy the deposit provisions of this section if they are accompanied by an application for registration of a claim to copyright in the work represented by the deposit, and either a registration fee or a deposit account number.
 
-[51 FR 6405, Feb. 24, 1986]Editorial Note:For Federal Register citations affecting § 202.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[51 FR 6405, Feb. 24, 1986]Editorial Note:For Federal Register citations affecting § 202.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

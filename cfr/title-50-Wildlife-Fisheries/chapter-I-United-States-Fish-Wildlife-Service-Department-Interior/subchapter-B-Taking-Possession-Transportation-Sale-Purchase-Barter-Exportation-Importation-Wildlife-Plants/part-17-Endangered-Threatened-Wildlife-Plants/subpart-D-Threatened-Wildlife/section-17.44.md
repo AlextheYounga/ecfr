@@ -390,4 +390,4 @@ A listing of all countries that have not designated either a Management Authorit
 
 (4) Take caused by any activities not listed in paragraph (bb)(2) and (bb)(3) of this section is prohibited.
 
-[40 FR 44415, Sept. 26, 1975]Editorial Note:For Federal Register citations affecting § 17.44, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[40 FR 44415, Sept. 26, 1975]Editorial Note:For Federal Register citations affecting § 17.44, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

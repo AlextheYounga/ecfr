@@ -8,11 +8,11 @@
 
 (ii) [Reserved]
 
-(2) *Bellingham Bay Anchorages* - (i) *General Anchorage.* The waters of Bellingham Bay within a circular area with a radius of 2,000 yards, having its center at latitude 48°44′14.39″, longitude 122°32′26.62″.
+(2) *Bellingham Bay Anchorages*—(i) *General Anchorage.* The waters of Bellingham Bay within a circular area with a radius of 2,000 yards, having its center at latitude 48°44′14.39″, longitude 122°32′26.62″.
 
 (ii) *Explosives Anchorage.* The waters of Bellingham Bay within a circular area with a radius of 1,000 yards, having its center at latitude 48°42′47.39″, longitude 122°33′41.62″.
 
-(3) *Port Townsend Anchorages.* (i) *Fair weather explosives anchorage area.* A circular area having a radius of 300 yards, whose center is at latitude 48°06′25.30″, longitude 122°43′50.60″.
+(3) *Port Townsend Anchorages*—(i) *Fair weather explosives anchorage area.* A circular area having a radius of 300 yards, whose center is at latitude 48°06′25.30″, longitude 122°43′50.60″.
 
 (ii) *Foul weather explosives anchorage area.* A circular area having a radius of 300 yards, whose center is at latitude 48°04′4.33″, longitude 122°44′56.60″.
 
@@ -22,7 +22,7 @@
 
 (6) *Thorndike Bay Emergency Explosives Anchorage.* All waters in a quadrilateral area bounded as follows: Beginning at latitude 47°47′59″ N, longitude 122°43′30″ W; thence 270°T to latitude 47°47′59″ N, longitude 122°44′30″ W; thence 180°T to latitude 47°47′30″ N, longitude 122°44′30″ W; thence 090°T to latitude 47°47′30″ N, longitude 122°43′30″ W, thence 000°T to point of origin.
 
-(7) *Elliott Bay Anchorages* - (i) *Smith Cove West General Anchorage.* All waters inside the area beginning at latitude 47°38′20.44″ N, longitude 122°24′48.56″ W; thence 207T to latitude 47°37′51.6″ N, longitude 122°25′10.5″ W; thence 124°T to latitude 47°36′56.2″ N, longitude 122°23′07″ W; thence 000°T to latitude 47°37′59.5″ N, longitude 122°23′07″ W; thence northwest along the shoreline to the point of origin.
+(7) *Elliott Bay Anchorages*—(i) *Smith Cove West General Anchorage.* All waters inside the area beginning at latitude 47°38′20.44″ N, longitude 122°24′48.56″ W; thence 207T to latitude 47°37′51.6″ N, longitude 122°25′10.5″ W; thence 124°T to latitude 47°36′56.2″ N, longitude 122°23′07″ W; thence 000°T to latitude 47°37′59.5″ N, longitude 122°23′07″ W; thence northwest along the shoreline to the point of origin.
 
 (ii) *Smith Cove East General Anchorage.* All waters inside the area beginning at latitude 47°37′36.2″ N, longitude 122°22′43″ W; thence 180°T to latitude 47°36′56.2″ N, longitude 122°22′43″ W; thence 090°T to latitude 47°36′56.2″ N, longitude 122°21′22.5″ W, thence northwest along the shoreline to the point of origin.
 
@@ -34,7 +34,7 @@
 
 (9) *Cherry Point General Anchorage.* The waters within a circular area with a radius of 1600 yards, having its center at latitude 48°48′29.39″ N, longitude 122°46'04.66” W.
 
-(10) *Anacortes General Anchorages.* (i) *Anacortes East (ANE) Anchorage.* The waters within a circular area with a radius of 600 yards, having its center at 48°31′27″ N., 122°33′45″ W.
+(10) *Anacortes General Anchorages*—(i) *Anacortes East (ANE) Anchorage.* The waters within a circular area with a radius of 600 yards, having its center at 48°31′27″ N., 122°33′45″ W.
 
 (ii) *Anacortes Center (ANC) Anchorage.* The waters within a circular area with a radius of 600 yards, having its center at 48°30′54″ N, 122°34′06″ W.
 
@@ -92,4 +92,4 @@ The city of Port Angeles will mark this area with signs on the shoreline visible
 
 (15) No vessel shall remain at anchor in any explosive anchorage unless there is on board such vessel a competent watchman or a tug in attendance.
 
-[CGFR 67-46, 32 FR 17728, Dec. 12, 1967]Editorial Note:For Federal Register citations affecting § 110.230, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[CGFR 67-46, 32 FR 17728, Dec. 12, 1967]Editorial Note:For Federal Register citations affecting § 110.230, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

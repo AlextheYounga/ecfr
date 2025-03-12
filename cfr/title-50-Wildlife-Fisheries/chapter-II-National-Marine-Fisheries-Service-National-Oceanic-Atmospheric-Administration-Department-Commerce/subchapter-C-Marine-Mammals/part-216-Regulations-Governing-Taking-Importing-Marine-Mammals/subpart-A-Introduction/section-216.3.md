@@ -218,4 +218,4 @@ In addition to definitions contained in the MMPA, and unless the context otherwi
 
 *Yellowfin tuna* means the species *Thunnus albacares* (synonomy: *Neothunnus macropterus*).
 
-[39 FR 1852, Jan. 15, 1974]Editorial Note:For Federal Register citations affecting § 216.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[39 FR 1852, Jan. 15, 1974]Editorial Note:For Federal Register citations affecting § 216.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

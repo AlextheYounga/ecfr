@@ -1158,7 +1158,7 @@ The map provided is for informational purposes only. Map follows:
 
 *Minnesota.* Areas of land, water, and airspace in Beltrami, Cook, Itasca, Koochiching, Lake, Lake of the Woods, Roseau, and St. Louis Counties, with boundaries (4th and 5th Principal meridians) identical to those of zones 1, 2, and 3, as delineated in § 17.40(d)(l).
 
-Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (b) *Birds.*
 
@@ -8958,7 +8958,7 @@ Critical Habitat Map Unit
 
 (ii) Map 1 of the critical habitat for Rota bridled white-eye follows:
 
-![](/graphics/er12se06.000.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+![](/graphics/er12se06.000.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (c) *Reptiles.*
 
@@ -18927,7 +18927,7 @@ Note:
 
 The map provided is for informational purposes only.
 
-![](/graphics/er26ja00.001.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+![](/graphics/er26ja00.001.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (f) *Clams and Snails.*
 

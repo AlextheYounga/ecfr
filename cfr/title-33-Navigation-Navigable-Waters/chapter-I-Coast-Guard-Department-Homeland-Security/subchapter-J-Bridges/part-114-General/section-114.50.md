@@ -2,4 +2,4 @@
 
 A District Commander's decision to deny a bridge permit application or an application for drawbridge operation regulations may be appealed to the Commandant, U.S. Coast Guard. The appeal must be submitted in writing to the Commandant (CG-BRG), Attn: Office of Bridge Programs, U.S. Coast Guard Stop 7418, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7418, within 60 days of the District Commander's decision. The Commandant will take action on the appeal within 90 days of its receipt.
 
-(5 U.S.C. 559; 14 U.S.C. 633; 33 U.S.C. 401, 491, 499, and 525; and 49 CFR 1.46(c) and (q))[CGD 80-099, 46 FR 38354, July 27, 1981]Editorial Note:For Federal Register citations affecting § 114.50, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(5 U.S.C. 559; 14 U.S.C. 633; 33 U.S.C. 401, 491, 499, and 525; and 49 CFR 1.46(c) and (q))[CGD 80-099, 46 FR 38354, July 27, 1981]Editorial Note:For Federal Register citations affecting § 114.50, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

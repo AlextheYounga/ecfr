@@ -19,4 +19,4 @@ Fireworks Display Table
 
 (c) *Effective dates.* This rule is in effect from one hour before the scheduled start of the event until thirty minutes after the last firework is exploded for each event listed in the Table. For those events listed without a specific time or date, an annual Federal Register document will be published indicating event dates and times.
 
-[CGD01-99-009, 64 FR 34544, June 28, 1999]Editorial Note:For Federal Register citations affecting § 100.114, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[CGD01-99-009, 64 FR 34544, June 28, 1999]Editorial Note:For Federal Register citations affecting § 100.114, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

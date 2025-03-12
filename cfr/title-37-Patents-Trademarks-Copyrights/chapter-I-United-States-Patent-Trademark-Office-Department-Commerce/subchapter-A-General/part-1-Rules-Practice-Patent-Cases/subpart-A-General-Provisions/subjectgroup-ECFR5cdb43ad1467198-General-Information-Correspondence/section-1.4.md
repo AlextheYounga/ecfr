@@ -48,4 +48,4 @@
 
 (h) *Ratification/confirmation/evidence of authenticity:* The Office may require ratification, confirmation (which includes submission of a duplicate document but with a proper signature), or evidence of authenticity of a signature, such as when the Office has reasonable doubt as to the authenticity (veracity) of the signature, e.g., where there are variations of a signature, or where the signature and the typed or printed name, do not clearly identify the person signing.
 
-(Pub. L. 94-131, 89 Stat. 685; 35 U.S.C. 6, Pub. L. 97-247)[24 FR 10332, Dec. 22, 1959]Editorial Note:For Federal Register citations affecting § 1.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Pub. L. 94-131, 89 Stat. 685; 35 U.S.C. 6, Pub. L. 97-247)[24 FR 10332, Dec. 22, 1959]Editorial Note:For Federal Register citations affecting § 1.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -80,8 +80,6 @@ Vessel Traffic Service guards VHF-FM Channel 13 (156.65 MHz) and Channel 14 (156
 
 (2) The geographic boundaries of each anchorage are contained in paragraph (e) of this section.
 
-Table 110.224(d)(1)
-
 |Anchorage No.|General location | Purpose  |Specific  <br/>regulations|
 |-------------|-----------------|----------|--------------------------|
 |      4      |San Francisco Bay| General  |       Notes a, b.        |
@@ -137,7 +135,7 @@ m. Any vessel anchoring in a “dead-ship” status shall have one assist tug of
 
 n. This temporary anchorage will be activated by VTS San Francisco when Anchorages 8 and 9 are at capacity and additional anchorage capacity in the vicinity of Alameda is required. VTS will notify a vessel that this temporary anchorage is activated and available for use when Anchorages 8 and 9 are full, and a vessel requests permission from VTS to anchor in Anchorage 8 or 9.
 
-(e) *Boundaries* - (1) *Anchorage No. 4.* Bounded by the west shore of San Francisco Bay and the following lines: Beginning on the shore southwest of Point San Quentin at latitude 37°56′28″ N., longitude 122°28′54″ W.; thence east-southeasterly to latitude 37°55′55″ N., longitude 122°26′49″ W., thence southwesterly to latitude 37°54′13″ N., longitude 122°27′24″ W., thence southeasterly to the shore of Tiburon Peninsula at Point Chauncey at latitude 37°53′40.5″ N., longitude 122°26′55″ W. When Explosives Anchorage No. 13 is activated by the Captain of the Port, it and the forbidden anchorage zone surrounding it are excluded from Anchorage No. 4.
+(e) *Boundaries*—(1) *Anchorage No. 4.* Bounded by the west shore of San Francisco Bay and the following lines: Beginning on the shore southwest of Point San Quentin at latitude 37°56′28″ N., longitude 122°28′54″ W.; thence east-southeasterly to latitude 37°55′55″ N., longitude 122°26′49″ W., thence southwesterly to latitude 37°54′13″ N., longitude 122°27′24″ W., thence southeasterly to the shore of Tiburon Peninsula at Point Chauncey at latitude 37°53′40.5″ N., longitude 122°26′55″ W. When Explosives Anchorage No. 13 is activated by the Captain of the Port, it and the forbidden anchorage zone surrounding it are excluded from Anchorage No. 4.
 
 (2) *Anchorage No. 5, Southampton Shoal.* In San Francisco Bay at Southampton Shoal bounded by a line connecting the following coordinates:
 
@@ -233,4 +231,4 @@ See § 110.224(e)(2) for a description of Anchorage No. 4.
 
 (22) *Anchorage No. 30.* The portion of the Old San Joaquin River Channel bounded on the west by the shore of Mandeville Point and the following lines: Beginning on the shore of Mandeville Point at latitude 38°04′01″ N., longitude 121°32′05″ W.; thence northeasterly to latitude 38°04′07.5″ N., longitude 121°31′58″ W.; thence southeasterly to latitude 38°03′47″ N., longitude 121°31′42.5″ W.; thence westerly to the shore of Mandeville Point at latitude 38°03′47.5″ N., longitude 121°31′56″ W.
 
-[CGD12 84-07, 51 FR 12315, Apr. 10, 1986]Editorial Note:For Federal Register citations affecting § 110.224, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[CGD12 84-07, 51 FR 12315, Apr. 10, 1986]Editorial Note:For Federal Register citations affecting § 110.224, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

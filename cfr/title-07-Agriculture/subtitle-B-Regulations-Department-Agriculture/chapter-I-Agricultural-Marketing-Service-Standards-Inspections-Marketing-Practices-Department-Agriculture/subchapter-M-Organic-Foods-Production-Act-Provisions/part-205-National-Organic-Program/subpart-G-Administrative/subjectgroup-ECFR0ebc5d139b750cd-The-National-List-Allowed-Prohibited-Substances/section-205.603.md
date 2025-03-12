@@ -1,14 +1,12 @@
 ##### § 205.603 Synthetic substances allowed for use in organic livestock production. #####
 
-Link to an amendment published at 83 FR 66572, Dec. 27, 2018.
-
 In accordance with restrictions specified in this section the following synthetic substances may be used in organic livestock production:
 
 (a) As disinfectants, sanitizer, and medical treatments as applicable.
 
 (1) Alcohols.
 
-(i) Ethanol-disinfectant and sanitizer only, prohibited as a feed additive.
+(i) Ethanol - disinfectant and sanitizer only, prohibited as a feed additive.
 
 (ii) Isopropanol-disinfectant only.
 
@@ -28,63 +26,77 @@ In accordance with restrictions specified in this section the following syntheti
 
 (ii) A meat withdrawal period of at least 42 days after administering to livestock intended for slaughter; and a milk discard period of at least 8 days after administering to dairy animals.
 
-(6) Chlorhexidine - Allowed for surgical procedures conducted by a veterinarian. Allowed for use as a teat dip when alternative germicidal agents and/or physical barriers have lost their effectiveness.
+(6) Activated charcoal (CAS # 7440-44-0) - must be from vegetative sources.
 
-(7) Chlorine materials - disinfecting and sanitizing facilities and equipment. Residual chlorine levels in the water shall not exceed the maximum residual disinfectant limit under the Safe Drinking Water Act.
+(7) Calcium borogluconate (CAS # 5743-34-0) - for treatment of milk fever only.
+
+(8) Calcium propionate (CAS # 4075-81-4) - for treatment of milk fever only.
+
+(9) Chlorhexidine (CAS # 55-56-1) - for medical procedures conducted under the supervision of a licensed veterinarian. Allowed for use as a teat dip when alternative germicidal agents and/or physical barriers have lost their effectiveness.
+
+(10) Chlorine materials - disinfecting and sanitizing facilities and equipment. Residual chlorine levels in the water shall not exceed the maximum residual disinfectant limit under the Safe Drinking Water Act.
 
 (i) Calcium hypochlorite.
 
 (ii) Chlorine dioxide.
 
-(iii) Sodium hypochlorite.
+(iii) Hypochlorous acid - generated from electrolyzed water.
 
-(8) Electrolytes - without antibiotics.
+(iv) Sodium hypochlorite
 
-(9) Flunixin (CAS #-38677-85-9) - in accordance with approved labeling; except that for use under 7 CFR part 205, the NOP requires a withdrawal period of at least two-times that required by the FDA.
+(11) Electrolytes - without antibiotics.
 
-(10) Glucose.
+(12) Flunixin (CAS #-38677-85-9) - in accordance with approved labeling; except that for use under 7 CFR part 205, the NOP requires a withdrawal period of at least two-times that required by the FDA.
 
-(11) Glycerin - Allowed as a livestock teat dip, must be produced through the hydrolysis of fats or oils.
+(13) Glucose.
 
-(12) Hydrogen peroxide.
+(14) Glycerin - allowed as a livestock teat dip, must be produced through the hydrolysis of fats or oils.
 
-(13) Iodine.
+(15) Hydrogen peroxide.
 
-(14) Magnesium hydroxide (CAS #-1309-42-8) - federal law restricts this drug to use by or on the lawful written or oral order of a licensed veterinarian, in full compliance with the AMDUCA and 21 CFR part 530 of the Food and Drug Administration regulations. Also, for use under 7 CFR part 205, the NOP requires use by or on the lawful written order of a licensed veterinarian.
+(16) Iodine.
 
-(15) Magnesium sulfate.
+(17) Kaolin pectin - for use as an adsorbent, antidiarrheal, and gut protectant.
 
-(16) Oxytocin - use in postparturition therapeutic applications.
+(18) Magnesium hydroxide (CAS #-1309-42-8) - federal law restricts this drug to use by or on the lawful written or oral order of a licensed veterinarian, in full compliance with the AMDUCA and 21 CFR part 530 of the Food and Drug Administration regulations. Also, for use under 7 CFR part 205, the NOP requires use by or on the lawful written order of a licensed veterinarian.
 
-(17) Parasiticides - Prohibited in slaughter stock, allowed in emergency treatment for dairy and breeder stock when organic system plan-approved preventive management does not prevent infestation. Milk or milk products from a treated animal cannot be labeled as provided for in subpart D of this part for 90 days following treatment. In breeder stock, treatment cannot occur during the last third of gestation if the progeny will be sold as organic and must not be used during the lactation period for breeding stock.
+(19) Magnesium sulfate.
 
-(i) Fenbendazole (CAS #43210-67-9) - only for use by or on the lawful written order of a licensed veterinarian.
+(20) Mineral oil - for treatment of intestinal compaction, prohibited for use as a dust suppressant.
 
-(ii) Ivermectin (CAS #70288-86-7).
+(21) Nutritive supplements - injectable supplements of trace minerals per paragraph (d)(2) of this section, vitamins per paragraph (d)(3), and electrolytes per paragraph (a)(11), with excipients per paragraph (f), in accordance with FDA and restricted to use by or on the order of a licensed veterinarian.
 
-(iii) Moxidectin (CAS #113507-06-5) - for control of internal parasites only.
+(22) Oxytocin - use in postparturition therapeutic applications.
 
-(18) Peroxyacetic/peracetic acid (CAS #-79-21-0) - for sanitizing facility and processing equipment.
+(23) Parasiticides - prohibited in slaughter stock, allowed in emergency treatment for dairy and breeder stock when organic system plan-approved preventive management does not prevent infestation. In breeder stock, treatment cannot occur during the last third of gestation if the progeny will be sold as organic and must not be used during the lactation period for breeding stock. Allowed for fiber bearing animals when used a minimum of 36 days prior to harvesting of fleece or wool that is to be sold, labeled, or represented as organic.
 
-(19) Phosphoric acid - allowed as an equipment cleaner, *Provided*, That, no direct contact with organically managed livestock or land occurs.
+(i) Fenbendazole (CAS #43210-67-9) - milk or milk products from a treated animal cannot be labeled as provided for in subpart D of this part for: 2 days following treatment of cattle; 36 days following treatment of goats, sheep, and other dairy species.
 
-(20) Poloxalene (CAS #-9003-11-6) - for use under 7 CFR part 205, the NOP requires that poloxalene only be used for the emergency treatment of bloat.
+(ii) Moxidectin (CAS #113507-06-5) - milk or milk products from a treated animal cannot be labeled as provided for in subpart D of this part for: 2 days following treatment of cattle; 36 days following treatment of goats, sheep, and other dairy species.
 
-(21) Tolazoline (CAS #-59-98-3) - federal law restricts this drug to use by or on the lawful written or oral order of a licensed veterinarian, in full compliance with the AMDUCA and 21 CFR part 530 of the Food and Drug Administration regulations. Also, for use under 7 CFR part 205, the NOP requires:
+(24) Peroxyacetic/peracetic acid (CAS #-79-21-0) - for sanitizing facility and processing equipment.
+
+(25) Phosphoric acid - allowed as an equipment cleaner, *Provided,* That, no direct contact with organically managed livestock or land occurs.
+
+(26) Poloxalene (CAS #-9003-11-6) - for use under 7 CFR part 205, the NOP requires that poloxalene only be used for the emergency treatment of bloat.
+
+(27) Propylene glycol (CAS #57-55-6) - only for treatment of ketosis in ruminants.
+
+(28) Sodium chlorite, acidified - allowed for use on organic livestock as a teat dip treatment only.
+
+(29) Tolazoline (CAS #59-98-3) - federal law restricts this drug to use by or on the lawful written or oral order of a licensed veterinarian, in full compliance with the AMDUCA and 21 CFR part 530 of the Food and Drug Administration regulations. Also, for use under 7 CFR part 205, the NOP requires:
 
 (i) Use by or on the lawful written order of a licensed veterinarian;
 
-(ii) Use only to reverse the effects of sedation and analgesia caused by Xylazine; and
+(ii) Use only to reverse the effects of sedation and analgesia caused by Xylazine; and,
 
 (iii) A meat withdrawal period of at least 8 days after administering to livestock intended for slaughter; and a milk discard period of at least 4 days after administering to dairy animals.
 
-(22) Xylazine (CAS #-7361-61-7) - federal law restricts this drug to use by or on the lawful written or oral order of a licensed veterinarian, in full compliance with the AMDUCA and 21 CFR part 530 of the Food and Drug Administration regulations. Also, for use under 7 CFR part 205, the NOP requires:
+(30) Xylazine (CAS #7361-61-7) - federal law restricts this drug to use by or on the lawful written or oral order of a licensed veterinarian, in full compliance with the AMDUCA and 21 CFR part 530 of the Food and Drug Administration regulations. Also, for use under 7 CFR part 205, the NOP requires:
 
-(i) Use by or on the lawful written order of a licensed veterinarian;
+(i) Use by or on the lawful written order of a licensed veterinarian; and,
 
-(ii) The existence of an emergency; and
-
-(iii) A meat withdrawal period of at least 8 days after administering to livestock intended for slaughter; and a milk discard period of at least 4 days after administering to dairy animals.
+(ii) A meat withdrawal period of at least 8 days after administering to livestock intended for slaughter; and a milk discard period of at least 4 days after administering to dairy animals.
 
 (b) As topical treatment, external parasiticide or local anesthetic as applicable.
 
@@ -94,21 +106,25 @@ In accordance with restrictions specified in this section the following syntheti
 
 (3) Iodine.
 
-(4) Lidocaine - as a local anesthetic. Use requires a withdrawal period of 90 days after administering to livestock intended for slaughter and 7 days after administering to dairy animals.
+(4) Lidocaine - as a local anesthetic. Use requires a withdrawal period of 8 days after administering to livestock intended for slaughter and 6 days after administering to dairy animals.
 
 (5) Lime, hydrated - as an external pest control, not permitted to cauterize physical alterations or deodorize animal wastes.
 
 (6) Mineral oil - for topical use and as a lubricant.
 
-(7) Procaine - as a local anesthetic, use requires a withdrawal period of 90 days after administering to livestock intended for slaughter and 7 days after administering to dairy animals.
+(7) Procaine - as a local anesthetic. Use requires a withdrawal period of 8 days after administering to livestock intended for slaughter and 6 days after administering to dairy animals.
 
-(8) Sucrose octanoate esters (CAS #s-42922-74-7; 58064-47-4) - in accordance with approved labeling.
+(8) Sodium chlorite, acidified - allowed for use on organic livestock as teat dip treatment only.
+
+(9) Sucrose octanoate esters (CAS #s-42922-74-7; 58064-47-4) - in accordance with approved labeling.
+
+(10) Zinc sulfate - for use in hoof and foot treatments only.
 
 (c) As feed supplements - None.
 
 (d) As feed additives.
 
-(1) DL-Methionine, DL-Methionine-hydroxy analog, and DL-Methionine-hydroxy analog calcium (CAS #'s 59-51-8, 583-91-5, 4857-44-7, and 922-50-9) - for use only in organic poultry production at the following maximum levels of synthetic methionine per ton of feed: Laying and broiler chickens - 2 pounds; turkeys and all other poultry - 3 pounds.
+(1) DL-Methionine, DL-Methionine - hydroxy analog, and DL-Methionine - hydroxy analog calcium (CAS #'s 59-51-8, 583-91-5, 4857-44-7, and 922-50-9) - for use only in organic poultry production at the following pounds of synthetic 100 percent methionine per ton of feed in the diet, maximum rates as averaged per ton of feed over the life of the flock: Laying chickens - 2 pounds; broiler chickens - 2.5 pounds; turkeys and all other poultry - 3 pounds.
 
 (2) Trace minerals, used for enrichment or fortification when FDA approved.
 
@@ -120,8 +136,8 @@ In accordance with restrictions specified in this section the following syntheti
 
 (2) [Reserved]
 
-(f) Excipients, only for use in the manufacture of drugs used to treat organic livestock when the excipient is: Identified by the FDA as Generally Recognized As Safe; Approved by the FDA as a food additive; or Included in the FDA review and approval of a New Animal Drug Application or New Drug Application.
+(f) Excipients - only for use in the manufacture of drugs and biologics used to treat organic livestock when the excipient is: (1) Identified by the FDA as Generally Recognized As Safe; (2) Approved by the FDA as a food additive; (3) Included in the FDA review and approval of a New Animal Drug Application or New Drug Application; or (4) Approved by APHIS for use in veterinary biologics.
 
 (g)-(z) [Reserved]
 
-[72 FR 70484, Dec. 12, 2007, as amended at 73 FR 54059, Sept. 18, 2008; 75 FR 51924, Aug. 24, 2010; 77 FR 28745, May 15, 2012; 77 FR 45907, Aug. 2, 2012; 77 FR 57989, Sept. 19, 2012; 80 FR 6429, Feb. 5, 2015; 82 FR 31243, July 6, 2017]
+[72 FR 70484, Dec. 12, 2007, as amended at 73 FR 54059, Sept. 18, 2008; 75 FR 51924, Aug. 24, 2010; 77 FR 28745, May 15, 2012; 77 FR 45907, Aug. 2, 2012; 77 FR 57989, Sept. 19, 2012; 80 FR 6429, Feb. 5, 2015; 82 FR 31243, July 6, 2017; 83 FR 66572, Dec. 27, 2018]

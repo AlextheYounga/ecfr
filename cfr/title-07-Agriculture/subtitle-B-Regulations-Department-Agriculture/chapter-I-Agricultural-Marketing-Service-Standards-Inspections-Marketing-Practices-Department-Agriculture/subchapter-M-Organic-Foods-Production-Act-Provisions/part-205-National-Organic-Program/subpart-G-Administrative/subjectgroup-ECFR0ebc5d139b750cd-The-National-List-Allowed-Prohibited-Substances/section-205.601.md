@@ -1,7 +1,5 @@
 ##### § 205.601 Synthetic substances allowed for use in organic crop production. #####
 
-Link to an amendment published at 83 FR 66571, Dec. 27, 2018.
-
 In accordance with restrictions specified in this section, the following synthetic substances may be used in organic crop production: *Provided,* That, use of such substances do not contribute to contamination of crops, soil, or water. Substances allowed by this section, except disinfectants and sanitizers in paragraph (a) and those substances in paragraphs (c), (j), (k), and (l) of this section, may only be used when the provisions set forth in § 205.206(a) through (d) prove insufficient to prevent or control the target pest.
 
 (a) As algicide, disinfectants, and sanitizer, including irrigation system cleaning systems.
@@ -18,7 +16,9 @@ In accordance with restrictions specified in this section, the following synthet
 
 (ii) Chlorine dioxide.
 
-(iii) Sodium hypochlorite.
+(iii) Hypochlorous acid - generated from electrolyzed water.
+
+(iv) Sodium hypochlorite.
 
 (3) Copper sulfate - for use as an algicide in aquatic rice systems, is limited to one application per field during any 24-month period. Application rates are limited to those which do not increase baseline soil test values for copper over a timeframe agreed upon by the producer and accredited certifying agent.
 
@@ -108,19 +108,23 @@ In accordance with restrictions specified in this section, the following synthet
 
 (4) Lignin sulfonate - chelating agent, dust suppressant.
 
-(5) Magnesium sulfate - allowed with a documented soil deficiency.
+(5) Magnesium oxide (CAS # 1309-48-4) - for use only to control the viscosity of a clay suspension agent for humates.
 
-(6) Micronutrients - not to be used as a defoliant, herbicide, or desiccant. Those made from nitrates or chlorides are not allowed. Soil deficiency must be documented by testing.
+(6) Magnesium sulfate - allowed with a documented soil deficiency.
+
+(7) Micronutrients - not to be used as a defoliant, herbicide, or desiccant. Those made from nitrates or chlorides are not allowed. Micronutrient deficiency must be documented by soil or tissue testing or other documented and verifiable method as approved by the certifying agent.
 
 (i) Soluble boron products.
 
 (ii) Sulfates, carbonates, oxides, or silicates of zinc, copper, iron, manganese, molybdenum, selenium, and cobalt.
 
-(7) Liquid fish products - can be pH adjusted with sulfuric, citric or phosphoric acid. The amount of acid used shall not exceed the minimum needed to lower the pH to 3.5.
+(8) Liquid fish products - can be pH adjusted with sulfuric, citric or phosphoric acid. The amount of acid used shall not exceed the minimum needed to lower the pH to 3.5.
 
-(8) Vitamins, B1, C, and E.
+(9) Vitamins, B1, C, and E.
 
-(9) Sulfurous acid (CAS # 7782-99-2) for on-farm generation of substance utilizing 99% purity elemental sulfur per paragraph (j)(2) of this section.
+(10) Squid byproducts - from food waste processing only. Can be pH adjusted with sulfuric, citric, or phosphoric acid. The amount of acid used shall not exceed the minimum needed to lower the pH to 3.5.
+
+(11) Sulfurous acid (CAS # 7782-99-2) for on-farm generation of substance utilizing 99% purity elemental sulfur per paragraph (j)(2) of this section.
 
 (k) As plant growth regulators. Ethylene gas - for regulation of pineapple flowering.
 
@@ -138,4 +142,4 @@ In accordance with restrictions specified in this section, the following synthet
 
 (p)-(z) [Reserved]
 
-[65 FR 80637, Dec. 21, 2000, as amended at 68 FR 61992, Oct. 31, 2003; 71 FR 53302 Sept. 11, 2006; 72 FR 69572, Dec. 10, 2007; 75 FR 38696, July 6, 2010; 75 FR 77524, Dec. 13, 2010; 77 FR 8092, Feb. 14, 2012; 77 FR 33298, June 6, 2012; 77 FR 45907, Aug. 2, 2012; 78 FR 31821, May 28, 2013; 79 FR 58663, Sept. 30, 2014; 80 FR 77234, Dec. 14, 2015; 82 FR 31243, July 6, 2017]
+[65 FR 80637, Dec. 21, 2000, as amended at 68 FR 61992, Oct. 31, 2003; 71 FR 53302 Sept. 11, 2006; 72 FR 69572, Dec. 10, 2007; 75 FR 38696, July 6, 2010; 75 FR 77524, Dec. 13, 2010; 77 FR 8092, Feb. 14, 2012; 77 FR 33298, June 6, 2012; 77 FR 45907, Aug. 2, 2012; 78 FR 31821, May 28, 2013; 79 FR 58663, Sept. 30, 2014; 80 FR 77234, Dec. 14, 2015; 82 FR 31243, July 6, 2017; 83 FR 66571, Dec. 27, 2018]

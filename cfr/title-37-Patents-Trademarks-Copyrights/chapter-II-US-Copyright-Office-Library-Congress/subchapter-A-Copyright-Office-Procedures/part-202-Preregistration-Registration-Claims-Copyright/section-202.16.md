@@ -1,7 +1,5 @@
 ##### § 202.16 Preregistration of copyrights. #####
 
-Link to an amendment published at 83 FR 66629, December 27, 2018.
-
 (a) *General.* This section prescribes rules pertaining to the preregistration of copyright claims in works eligible for preregistration under 17 U.S.C. 408(f).
 
 (b) *Definitions.* For the purposes of this section -
@@ -52,7 +50,7 @@ Link to an amendment published at 83 FR 66629, December 27, 2018.
 
 (3) *Application.* An application for preregistration must be submitted electronically on the Copyright Office website at: *http://www.copyright.gov.*
 
-(4) *Preregistration as a single work.* For the purpose of preregistration on a single application and upon payment of a single preregistration fee, all copyrightable elements that are otherwise recognizable as self-contained works, that are to be included and first published in a single unit of publication, and in which the copyright claimant is the same, shall be considered a single work eligible for preregistration.
+(4) *Unit of publication.* For the purpose of preregistration on one application and upon payment of one filing fee, all copyrightable elements that are otherwise recognizable as self-contained works, that are to be included and first published in the same unit of publication, and in which the copyright claimant is the same, shall be considered one work eligible for preregistration.
 
 (5) *Fee* - (i) *Amount.* The filing fee for preregistration is prescribed in § 201.3(c).
 
@@ -92,4 +90,4 @@ Link to an amendment published at 83 FR 66629, December 27, 2018.
 
 (14) *Petition for recognition of a new class of works.* At any time an interested party may petition the Register of Copyrights for a determination as to whether a particular class of works has had a history of copyright infringement prior to authorized release that would justify inclusion of that class of works among the classes of works eligible for preregistration.
 
-[70 FR 61906, Oct. 27, 2005, as amended at 71 FR 31092, June 1, 2006; 73 FR 37839, July 2, 2008; 78 FR 42875, July 18, 2013; 82 FR 9360, Feb. 6, 2017]
+[70 FR 61906, Oct. 27, 2005, as amended at 71 FR 31092, June 1, 2006; 73 FR 37839, July 2, 2008; 78 FR 42875, July 18, 2013; 82 FR 9360, Feb. 6, 2017; 83 FR 66629, Dec. 27, 2018]

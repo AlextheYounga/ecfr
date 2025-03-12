@@ -341,4 +341,4 @@ If the signals of that primary transmitter are carried on a part-time basis beca
 
 (m) *Satellite carriers not eligible.* Satellite carriers and satellite resale carriers are not eligible for the cable compulsory license based upon an interpretation of the whole of section 111 of title 17 of the United States Code.
 
-(17 U.S.C. 111, 702, 708)[43 FR 27832, June 27, 1978]Editorial Note:For Federal Register citations affecting § 201.17, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(17 U.S.C. 111, 702, 708)[43 FR 27832, June 27, 1978]Editorial Note:For Federal Register citations affecting § 201.17, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -44,4 +44,4 @@
 
 (j) The Commandant has redelegated to Coast Guard District Commanders the authority to redelegate in writing to the Coast Guard District Bridge Manager, with the reservation that this authority must not be further redelegated, the authority to issue temporary deviations from drawbridge operating regulations as the District Bridge Manager deems necessary.
 
-[CGD 95-057, 60 FR 34148, June 30, 1995]Editorial Note:For Federal Register citations affecting § 1.05-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[CGD 95-057, 60 FR 34148, June 30, 1995]Editorial Note:For Federal Register citations affecting § 1.05-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

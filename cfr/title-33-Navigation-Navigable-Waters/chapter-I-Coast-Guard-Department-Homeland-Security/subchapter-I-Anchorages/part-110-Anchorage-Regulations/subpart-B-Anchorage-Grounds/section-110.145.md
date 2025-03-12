@@ -1,6 +1,6 @@
 ##### § 110.145 Narragansett Bay, R.I. #####
 
-(a) *East Passage* - (1) *Anchorage A.* East of Conanicut Island, beginning at the easterly extremity of the Dumplings; extending 9° to a point at latitude 41°29′28″, longitude 71°21′05.5″; thence 356° for 5,350 feet; thence 24° for 5,700 feet; thence 12° for 1,100 feet; thence 311°30′ for 2,300 feet; thence 351° for 5,350 feet; thence 270° for 3,200 feet to the easterly side of Conanicut Island; thence generally along the easterly side of the island to a point on the easterly side of the island due west of the Dumplings; and thence due east to the point of beginning; excluding the approach of the Jamestown Ferry, a zone 900 feet wide to the southward of a line ranging 103° from a point, 300 feet north of the existing ferry landing toward the spire of Trinity Church, Newport.
+(a) *East Passage*—(1) *Anchorage A.* East of Conanicut Island, beginning at the easterly extremity of the Dumplings; extending 9° to a point at latitude 41°29′28″, longitude 71°21′05.5″; thence 356° for 5,350 feet; thence 24° for 5,700 feet; thence 12° for 1,100 feet; thence 311°30′ for 2,300 feet; thence 351° for 5,350 feet; thence 270° for 3,200 feet to the easterly side of Conanicut Island; thence generally along the easterly side of the island to a point on the easterly side of the island due west of the Dumplings; and thence due east to the point of beginning; excluding the approach of the Jamestown Ferry, a zone 900 feet wide to the southward of a line ranging 103° from a point, 300 feet north of the existing ferry landing toward the spire of Trinity Church, Newport.
 
 (i) That portion of the area to the northward of the approach of the Jamestown Ferry shall be restricted for the anchorage of vessels of the U.S. Navy. In that portion of the area to the southward of the approach of the Jamestown Ferry, the requirements of the Navy shall predominate.
 
@@ -26,7 +26,7 @@
 
 (iv) Temporary floats or buoys for marking anchors or moorings in place will be allowed in this area. Fixed mooring piles or stakes will not be allowed.
 
-(4) Anchorage D. West of Goat Island, an area bounded by the following coordinates:
+(4) *Anchorage D.* West of Goat Island, an area bounded by the following coordinates:
 
 Northeast Corner: 41°29.484′ N, 071°19.975′ WNorthwest Corner: 41°29.484′ N, 071°20.578′ WSouthwest Corner: 41°29.005′ N, 071°20.578′ WSoutheast Corner: 41°29.005′ N, 071°19.975′ W
 
@@ -54,7 +54,7 @@ Note to paragraph (a):
 
 (ii) Temporary floats or buoys for marking anchors or moorings in place will be allowed in this area. Fixed mooring piles or stakes will not be allowed.
 
-(b) *West Passage* - (1) *Anchorage H.* North of a line 1,000 yards long bearing 88° from Bonnet Point; west of a line bearing 3° from the eastern end of the last-described line; and south of a line ranging 302° through a point 200 yards south of the Kearny wharf toward the church spire at South Ferry, Boston Neck.
+(b) *West Passage*—(1) *Anchorage H.* North of a line 1,000 yards long bearing 88° from Bonnet Point; west of a line bearing 3° from the eastern end of the last-described line; and south of a line ranging 302° through a point 200 yards south of the Kearny wharf toward the church spire at South Ferry, Boston Neck.
 
 (i) Temporary floats or buoys for marking anchors or moorings in place will be allowed in this area. Fixed mooring piles or stakes will not be allowed.
 
@@ -82,7 +82,7 @@ Note to paragraph (a):
 
 (i) Temporary floats or buoys for marking anchors or moorings in place will be allowed in this area. Fixed mooring piles or stakes will not be allowed.
 
-(c) *Bristol Harbor* - (1) *Anchorage O.* South of the south line of Franklin Street extended westerly; west of a line bearing 164°30′ parallel to and 400 feet westerly from the State harbor line between Franklin and Constitution Streets, and of a line ranging 244° from a point on the north line of Constitution Street extended 400 feet beyond the State harbor line toward Usher Rock Buoy 3; and north of the north line of Union Street extended to the Popasquash Neck shore.
+(c) *Bristol Harbor*—(1) *Anchorage O.* South of the south line of Franklin Street extended westerly; west of a line bearing 164°30′ parallel to and 400 feet westerly from the State harbor line between Franklin and Constitution Streets, and of a line ranging 244° from a point on the north line of Constitution Street extended 400 feet beyond the State harbor line toward Usher Rock Buoy 3; and north of the north line of Union Street extended to the Popasquash Neck shore.
 
 (i) Temporary floats or buoys for marking anchors or moorings in place will be allowed in this area. Fixed mooring piles or stakes will not be allowed.
 
@@ -98,4 +98,4 @@ Note to paragraph (a):
 
 (6) Nothing in this section shall be construed as relieving the owner or person in charge of any vessel from the penalties of the law for obstructing navigation or for obstructing or interfering with range lights, or for not complying with the navigation laws in regard to lights, fog signals, or for otherwise violating the law.
 
-[CGFR 67-46, 32 FR 17728, Dec. 12, 1967]Editorial Note:For Federal Register citations affecting § 110.145, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[CGFR 67-46, 32 FR 17728, Dec. 12, 1967]Editorial Note:For Federal Register citations affecting § 110.145, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

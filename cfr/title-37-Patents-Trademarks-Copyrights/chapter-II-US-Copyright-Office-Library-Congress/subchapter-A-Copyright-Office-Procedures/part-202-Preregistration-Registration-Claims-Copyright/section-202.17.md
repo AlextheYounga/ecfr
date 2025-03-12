@@ -1,7 +1,5 @@
 ##### § 202.17 Renewals. #####
 
-Link to an amendment published at 83 FR 66629, December 27, 2018.
-
 (a) *General.* (1) This section concerns renewal for copyrights originally secured from January 1, 1964, through December 31, 1977, either by publication with the required copyright notice or by registration as an unpublished work. Renewal registration for these works is optional. As provided in Pub. L. No. 102-307, 106 Stat. 264, enacted June 26, 1992, renewal registration made during the last year of the original 28-year term of copyright differs in legal effect from renewal registration made during the 67-year extended renewal term. In the latter instance, the copyright is renewed automatically at the expiration of the original 28-year term. In the former instance, renewal by registration during the last year of the original 28-year term vested the renewal copyright in the statutory claimant living on the date of registration.
 
 (2) Works for which copyright was secured before 1964 are governed by the provisions of 17 U.S.C. 304(a) in effect prior to the 1992 date of enactment of Pub. L. No. 102-307. The copyrights in such works could have been renewed by registration only within the last calendar year of the original 28-year term of copyright protection. If renewal registration was not made during that period of time, copyright protection was lost when the original term of copyright expired and cannot be regained.
@@ -82,13 +80,13 @@ Link to an amendment published at 83 FR 66629, December 27, 2018.
 
 (g) *Application for renewal registration for a work registered in its original 28-year term.* (1) Each application for renewal registration shall be submitted on Form RE. All forms are available free of charge via the Internet by accessing the Copyright Office website at: *http://www.copyright.gov*. Copies of Form RE are also available free upon request. Requests should be mailed to the address specified in § 201.1(b) of this chapter.
 
-(2) (i) An application for renewal registration may be submitted by any eligible statutory renewal claimant as specified in paragraph (e) of this section or by the duly authorized agent of such claimant, or by the successor or assignee of such claimant as provided under paragraph (f) of this section or by the duly authorized agent of such successor or assignee.
+(2)(i) An application for renewal registration may be submitted by any eligible statutory renewal claimant as specified in paragraph (e) of this section or by the duly authorized agent of such claimant, or by the successor or assignee of such claimant as provided under paragraph (f) of this section or by the duly authorized agent of such successor or assignee.
 
 (ii) An application for renewal registration shall be accompanied by the required fee as set forth in 37 CFR 201.3. The application shall contain the information required by the form and its accompanying instructions, and shall include a certification. The certification shall consist of:
 
 (A) A designation of whether the applicant is the renewal claimant, or a successor or assignee, or the duly authorized agent of such claimant or of such successor or assignee (whose identity shall also be given);
 
-(B) The handwritten signature of such claimant, successor or assignee, or agent, accompanied by the typewritten or printed name of that person;
+(B) The typed, printed, or handwritten signature of such claimant, successor or assignee, or agent, accompanied by the typed or printed name of that person if the signature is handwritten;
 
 (C) A declaration that the statements made in the application are correct to the best of that person's knowledge; and
 
@@ -132,4 +130,4 @@ Link to an amendment published at 83 FR 66629, December 27, 2018.
 
 (iii) Identifying material including a reproduction of the greatest feasible portion of the copyrightable content of a work including a photocopy or photograph of the title page, title screen, record label or the like, as first published, and a photocopy or photograph showing the copyright notice content and location as first published. The Copyright Office may request deposit of additional material if the initial submission is inadequate for examination purposes.
 
-[72 FR 61803, Nov. 1, 2007, as amended at 73 FR 37839, July 2, 2008; 78 FR 42875, July 18, 2013; 82 FR 9360, Feb. 6, 2017]
+[72 FR 61803, Nov. 1, 2007, as amended at 73 FR 37839, July 2, 2008; 78 FR 42875, July 18, 2013; 82 FR 9360, Feb. 6, 2017; 83 FR 66629, Dec. 27, 2018]

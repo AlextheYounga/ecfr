@@ -154,4 +154,4 @@ Date: 4th of July weekend.
 
 Location: That portion of the St. Mary's River, Sault Ste. Marie, MI within a 1000 foot radius of Brady Park, located on the south shore of the river. These waters are enclosed by the Locks to the west and to the east from a line drawn from the pier light of the east center pier to the U.S. Coast Guard Base to the southeast.
 
-[CGD 09-88-01, 54 FR 29547, July 13, 1989]Editorial Note:For Federal Register citations affecting § 100.901, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[CGD 09-88-01, 54 FR 29547, July 13, 1989]Editorial Note:For Federal Register citations affecting § 100.901, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -128,4 +128,4 @@ Activities conducted within a designated anchorage (e.g. cargo transfer, tank cl
 
 (8) Nothing in this section relieves the owner or person in charge of any vessel from the penalties for obstructing or interfering with navigational aids or for failing to comply with the navigation laws for lights, day shapes, or fog signals and any other applicable laws and regulations.
 
-[CGD 77-028, 46 FR 49850, Oct. 8, 1981]Editorial Note:For Federal Register citations affecting § 110.195, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[CGD 77-028, 46 FR 49850, Oct. 8, 1981]Editorial Note:For Federal Register citations affecting § 110.195, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

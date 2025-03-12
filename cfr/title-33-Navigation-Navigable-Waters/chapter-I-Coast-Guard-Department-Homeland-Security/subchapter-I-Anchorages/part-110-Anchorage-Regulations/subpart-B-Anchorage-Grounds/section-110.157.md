@@ -181,4 +181,4 @@
 
 (7) Nothing in this section shall be construed as relieving any vessel or the owner or person-in-charge of any vessel, and all others concerned, of the duties and responsibilities imposed upon them to comply with the regulations governing the handling, loading or discharging of explosives entitled “Subchapter C - Hazardous Materials Regulations” (49 CFR Parts 171 through 177).
 
-[CGFR 67-46, 32 FR 17728, Dec. 12, 1967]Editorial Note:For Federal Register citations affecting § 110.157, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[CGFR 67-46, 32 FR 17728, Dec. 12, 1967]Editorial Note:For Federal Register citations affecting § 110.157, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

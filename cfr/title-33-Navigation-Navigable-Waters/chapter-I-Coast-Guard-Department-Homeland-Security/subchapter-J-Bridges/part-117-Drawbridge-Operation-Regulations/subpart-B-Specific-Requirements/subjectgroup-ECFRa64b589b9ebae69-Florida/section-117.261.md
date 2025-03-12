@@ -106,4 +106,4 @@
 
 (oo) - (ss) [Reserved]
 
-[CGD7-84-29, 50 FR 51248, Dec. 16, 1985]Editorial Note:For Federal Register citations affecting § 117.261, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[CGD7-84-29, 50 FR 51248, Dec. 16, 1985]Editorial Note:For Federal Register citations affecting § 117.261, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

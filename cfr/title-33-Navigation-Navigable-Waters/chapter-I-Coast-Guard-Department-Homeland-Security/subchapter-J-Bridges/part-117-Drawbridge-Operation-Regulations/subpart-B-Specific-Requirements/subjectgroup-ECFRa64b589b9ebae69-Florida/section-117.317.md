@@ -36,4 +36,4 @@
 
 (j) *Caloosahatchee River Bridge (SR 29), Mile 103, Labelle, Florida.* The Caloosahatchee River bridge (SR 29), mile 103, shall open on signal, except that from 7 a.m. to 9 a.m. and from 4 p.m. to 6 p.m., Monday through Friday, except Federal holidays, the bridge need not open. Exempt vessels shall be passed at any time.
 
-[CGD7 85-50, 51 FR 12319, Apr. 10, 1986]Editorial Note:For Federal Register citations affecting § 117.317, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[CGD7 85-50, 51 FR 12319, Apr. 10, 1986]Editorial Note:For Federal Register citations affecting § 117.317, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

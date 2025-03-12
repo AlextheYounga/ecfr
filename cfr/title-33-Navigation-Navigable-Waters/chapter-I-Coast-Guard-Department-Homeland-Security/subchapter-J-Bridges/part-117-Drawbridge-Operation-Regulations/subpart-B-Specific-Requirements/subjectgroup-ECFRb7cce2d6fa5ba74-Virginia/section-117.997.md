@@ -90,4 +90,4 @@
 
 (5) Shall open on signal at all other times.
 
-[CGD 82-025, 49 FR 17452, Apr. 24, 1984]Editorial Note:For Federal Register citations affecting § 117.997, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[CGD 82-025, 49 FR 17452, Apr. 24, 1984]Editorial Note:For Federal Register citations affecting § 117.997, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

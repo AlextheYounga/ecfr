@@ -1,7 +1,5 @@
 ##### § 205.602 Nonsynthetic substances prohibited for use in organic crop production. #####
 
-Link to an amendment published at 83 FR 66572, Dec. 27, 2018.
-
 The following nonsynthetic substances may not be used in organic crop production:
 
 (a) Ash from manure burning.
@@ -12,16 +10,16 @@ The following nonsynthetic substances may not be used in organic crop production
 
 (d) Lead salts.
 
-(e) Potassium chloride - unless derived from a mined source and applied in a manner that minimizes chloride accumulation in the soil.
+(e) Potassium chloride—unless derived from a mined source and applied in a manner that minimizes chloride accumulation in the soil.
 
-(f) Sodium fluoaluminate (mined).
+(f) Rotenone (CAS # 83-79-4).
 
-(g) Sodium nitrate - unless use is restricted to no more than 20% of the crop's total nitrogen requirement; use in spirulina production is unrestricted until October 21, 2005.
+(g) Sodium fluoaluminate (mined).
 
-(h) Strychnine.
+(h) Sodium nitrate—unless use is restricted to no more than 20% of the crop's total nitrogen requirement; use in spirulina production is unrestricted until October 21, 2005.
 
-(i) Tobacco dust (nicotine sulfate).
+(i) Strychnine.
 
-(j)-(z) [Reserved]
+(j) Tobacco dust (nicotine sulfate).
 
-[68 FR 61992, Oct. 31, 2003]
+[68 FR 61992, Oct. 31, 2003, as amended at 83 FR 66572, Dec. 27, 2018]

@@ -6,4 +6,4 @@
 
 (c) The materials approved for incorporation by reference in this part are:
 
-Federal Highway Administration (FHWA), 1200 New Jersey Avenue SE., Washington, DC 20590Standard Alphabets for Highways Signs, 1966. (Reprinted April 1984).[CGD 84-022, 51 FR 16313, May 2, 1986]Editorial Note:For Federal Register citations affecting § 118.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+Federal Highway Administration (FHWA), 1200 New Jersey Avenue SE., Washington, DC 20590Standard Alphabets for Highways Signs, 1966. (Reprinted April 1984).[CGD 84-022, 51 FR 16313, May 2, 1986]Editorial Note:For Federal Register citations affecting § 118.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

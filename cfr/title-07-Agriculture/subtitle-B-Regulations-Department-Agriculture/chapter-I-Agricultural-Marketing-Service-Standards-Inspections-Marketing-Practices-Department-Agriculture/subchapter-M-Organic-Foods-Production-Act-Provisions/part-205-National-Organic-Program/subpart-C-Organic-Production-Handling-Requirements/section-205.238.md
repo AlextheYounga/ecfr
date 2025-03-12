@@ -1,7 +1,5 @@
 ##### § 205.238 Livestock health care practice standard. #####
 
-Link to an amendment published at 83 FR 66571, Dec. 27, 2018.
-
 (a) The producer must establish and maintain preventive livestock health care practices, including:
 
 (1) Selection of species and types of livestock with regard to suitability for site-specific conditions and resistance to prevalent diseases and parasites;
@@ -20,7 +18,9 @@ Link to an amendment published at 83 FR 66571, Dec. 27, 2018.
 
 (1) Breeder stock, when used prior to the last third of gestation but not during lactation for progeny that are to be sold, labeled, or represented as organically produced; and
 
-(2) Dairy stock, when used a minimum of 90 days prior to the production of milk or milk products that are to be sold, labeled, or represented as organic.
+(2) Dairy animals, as allowed under § 205.603.
+
+(3) Fiber bearing animals, as allowed under § 205.603.
 
 (c) The producer of an organic livestock operation must not:
 
@@ -37,3 +37,5 @@ Link to an amendment published at 83 FR 66571, Dec. 27, 2018.
 (6) Administer animal drugs in violation of the Federal Food, Drug, and Cosmetic Act; or
 
 (7) Withhold medical treatment from a sick animal in an effort to preserve its organic status. All appropriate medications must be used to restore an animal to health when methods acceptable to organic production fail. Livestock treated with a prohibited substance must be clearly identified and shall not be sold, labeled, or represented as organically produced.
+
+[65 FR 80637, Dec. 21, 2000, as amended at 83 FR 66571, Dec. 27, 2018]

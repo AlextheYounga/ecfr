@@ -1,7 +1,5 @@
 ##### § 117.791 Hudson River. #####
 
-Link to an amendment published at 83 FR 66623, Dec. 27, 2018.
-
 (a) The draws of the bridges listed in this section shall open as soon as possible at any time for the passage of the following vessels:
 
 (1) Downbound vessels during a freshet of a height exceeding an elevation determined by the District Commander.
@@ -14,7 +12,7 @@ Link to an amendment published at 83 FR 66623, Dec. 27, 2018.
 
 (b) The draws of the bridges listed in this section shall not remain open for more than 15 minutes and may remain closed for up to 10 minutes to allow accumulated land traffic to pass.
 
-(c) The draw of the CSX Transportation bridge, mile 146.2 between Albany and Rensselaer, shall open on signal; except that, from December 16 through March 31, the draw shall open on signal if at least 24 hours notice is given.
+(c) The draw of the CSX Transportation Bridge, mile 146.2 between Albany and Rensselaer, shall open on signal; except that, from April 1 through December 15, from 11:00 p.m. to 7:00 a.m., the draw shall open on signal if at least 4 hours notice is given and from December 16 through March 31, the draw shall open on signal if at least 24 hours notice is given.
 
 (d) The draw of the state highway bridge, mile 150.2 between Troy and Menands, need not be opened for the passage of vessels.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 83 FR 66623, Dec. 27, 2018.
 
 (2) From December 16 through March 31, the draw need not open for the passage of vessel traffic.
 
-[CGD 82-025, 49 FR 17452, Apr. 24, 1984, as amended at 49 FR 43462, Oct. 29, 1984, CGD3 85-42, 50 FR 26713, June 28, 1985; USCG-1999-5832, 64 FR 34712, June 29, 1999; USCG-2001-10881, 71 FR 70312, Dec. 4, 2006; USCG-2013-0257, 78 FR 56609, Sept. 13, 2013]
+[CGD 82-025, 49 FR 17452, Apr. 24, 1984, as amended by CGD3 85-42, 49 FR 43462, Oct. 29, 1984, 50 FR 26713, June 28, 1985; USCG-1999-5832, 64 FR 34712, June 29, 1999; USCG-2001-10881, 71 FR 70312, Dec. 4, 2006; USCG-2013-0257, 78 FR 56609, Sept. 13, 2013; USCG-2017-0926, 83 FR 66621, Dec. 27, 2018]

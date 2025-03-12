@@ -1,7 +1,5 @@
 ##### § 212.8 Correction of errors in certificates of registration. #####
 
-Link to an amendment published at 83 FR 66630, December 27, 2018.
-
 (a) *General.* (1) This section prescribes conditions relating to the correction of clerical or typographical errors in a certificate of registration of a vessel design, under section 1319 of title 17 of the United States Code, as amended by Public Law 105-304.
 
 (2) For the purposes of this section, a *basic registration* means registration of a vessel design made under sections 1310 through 1314 of title 17 of the United States Code, as amended by Public Law 105-304.
@@ -36,9 +34,9 @@ Link to an amendment published at 83 FR 66630, December 27, 2018.
 
 (x) The certification shall consist of:
 
-(A) The handwritten signature of the owner of the registered design or of the duly authorized agent of such owner (who shall also be identified);
+(A) The typed, printed, or handwritten signature of the owner of the registered design or of the duly authorized agent of such owner (who shall also be identified);
 
-(B) The typed or printed name of the person whose signature appears, and the date of signature; and
+(B) The date of the signature and, if the signature is handwritten, the typed or printed name of the person whose signature appears; and
 
 (C) A statement that the person signing the application is the owner of the registered design or of the duly authorized agent of such owner, and that the statements made in the application are correct to the best of that person's knowledge.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 83 FR 66630, December 27, 2018.
 
 (d) *Fee.* The filing fee for an application to correct a certificate of registration of a vessel design is prescribed in § 201.3(c).
 
-[71 FR 46402, Aug. 14, 2006, as amended at 82 FR 9366, Feb. 6, 2017]
+[71 FR 46402, Aug. 14, 2006, as amended at 82 FR 9366, Feb. 6, 2017; 83 FR 66630, Dec. 27, 2018]

@@ -632,4 +632,4 @@ Native, and
 
 (3) All applicable provisions of 50 CFR parts 13, 14, 17, and 23 must be met.
 
-[40 FR 44415, Sept. 26, 1975]Editorial Note:For Federal Register citations affecting § 17.40, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[40 FR 44415, Sept. 26, 1975]Editorial Note:For Federal Register citations affecting § 17.40, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
