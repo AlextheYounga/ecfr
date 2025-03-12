@@ -1,7 +1,5 @@
 ##### § 414.904 Average sales price as the basis for payment. #####
 
-Link to an amendment published at 82 FR 53363, Nov. 15, 2017.
-
 (a) *Method of payment.* Payment for a drug furnished on or after January 1, 2005 is based on the lesser of -
 
 (1) The actual charge on the claim for program benefits; or
@@ -76,7 +74,7 @@ Link to an amendment published at 82 FR 53363, Nov. 15, 2017.
 
 (e) *Exceptions to the average sales price* - (1) *Vaccines.* The payment limits for hepatitis B vaccine furnished to individuals at high or intermediate risk of contracting hepatitis B (as determined by the Secretary), pneumococcal vaccine, and influenza vaccine and are calculated using 95 percent of the average wholesale price.
 
-(2) *Infusion drugs furnished through a covered item of durable medical equipment.* The payment limit for an infusion drug furnished through a covered item of durable medical equipment is calculated using 95 percent of the average wholesale price in effect on October 1, 2003 and is not updated in 2006.
+(2) *Infusion drugs furnished through a covered item of durable medical equipment.* The payment limit for an infusion drug furnished before January 1, 2017, through a covered item of durable medical equipment is calculated using 95 percent of the average wholesale price in effect on October 1, 2003.
 
 (3) *Blood and blood products.* In the case of blood and blood products (other than blood clotting factors), the payment limits are determined in the same manner as the payment limits were determined on October 1, 2003.
 
@@ -106,4 +104,4 @@ Link to an amendment published at 82 FR 53363, Nov. 15, 2017.
 
 (j) *Biosimilar biological products*. Effective January 1, 2016, the payment amount for a biosimilar biological drug product (as defined in § 414.902) for all NDCs assigned to such product is the sum of the average sales price of all NDCs assigned to the biosimilar biological products included within the same billing and payment code as determined under section 1847A(b)(6) of the Act and 6 percent of the amount determined under section 1847A(b)(4) of the Act for the reference drug product (as defined in § 414.902).
 
-[69 FR 66424, Nov. 15, 2004, as amended at 70 FR 70332, Nov. 21, 2005; 71 FR 69788, Dec. 1, 2006; 72 FR 66402, Nov. 27, 2007; 73 FR 69937, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 74 FR 62012, Nov. 25, 2009; 75 FR 73626, Nov. 29, 2010; 76 FR 73473, Nov. 28, 2011; 77 FR 69368, Nov. 16, 2012; 80 FR 71382, Nov. 16, 2015]
+[69 FR 66424, Nov. 15, 2004, as amended at 70 FR 70332, Nov. 21, 2005; 71 FR 69788, Dec. 1, 2006; 72 FR 66402, Nov. 27, 2007; 73 FR 69937, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 74 FR 62012, Nov. 25, 2009; 75 FR 73626, Nov. 29, 2010; 76 FR 73473, Nov. 28, 2011; 77 FR 69368, Nov. 16, 2012; 80 FR 71382, Nov. 16, 2015; 82 FR 53363, Nov. 15, 2017]

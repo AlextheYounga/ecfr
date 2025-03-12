@@ -1,7 +1,5 @@
 ##### § 40.3 What do the terms used in this part mean? #####
 
-Link to an amendment published at 82 FR 52243, Nov. 13, 2017.
-
 In this part, the terms listed in this section have the following meanings:
 
 *Adulterated specimen.* A specimen that has been altered, as evidenced by test results showing either a substance that is not a normal constituent for that type of specimen or showing an abnormal concentration of an endogenous substance.
@@ -16,7 +14,7 @@ In this part, the terms listed in this section have the following meanings:
 
 *Alcohol confirmation test.* A subsequent test using an EBT, following a screening test with a result of 0.02 or greater, that provides quantitative data about the alcohol concentration.
 
-*Alcohol screening device (ASD).* A breath or saliva device, other than an EBT, that is approved by the National Highway Traffic Safety Administration (NHTSA) and placed on a conforming products list (CPL) for such devices.
+*Alcohol screening device (ASD).* A breath or saliva device, other than an EBT, that is approved by the National Highway Traffic Safety Administration (NHTSA) and appears on ODAPC's Web page for “Approved Screening Devices to Measure Alcohol in Bodily Fluids” because it conforms to the model specifications from NHTSA.
 
 *Alcohol screening test.* An analytic procedure to determine whether an employee may have a prohibited concentration of alcohol in a breath or saliva specimen.
 
@@ -25,8 +23,6 @@ In this part, the terms listed in this section have the following meanings:
 *Alcohol use.* The drinking or swallowing of any beverage, liquid mixture or preparation (including any medication), containing alcohol.
 
 *Aliquot.* A fractional part of a specimen used for testing. It is taken as a sample representing the whole specimen.
-
-*Blind specimen or blind performance test specimen.* A specimen submitted to a laboratory for quality control testing purposes, with a fictitious identifier, so that the laboratory cannot distinguish it from an employee specimen.
 
 *Breath Alcohol Technician (BAT).* A person who instructs and assists employees in the alcohol testing process and operates an evidential breath testing device.
 
@@ -54,9 +50,9 @@ In this part, the terms listed in this section have the following meanings:
 
 *Dilute specimen.* A urine specimen with creatinine and specific gravity values that are lower than expected for human urine.
 
-*DOT, The Department, DOT agency.* These terms encompass all DOT agencies, including, but not limited to, the United States Coast Guard (USCG), the Federal Aviation Administration (FAA), the Federal Railroad Administration (FRA), the Federal Motor Carrier Safety Administration (FMCSA), the Federal Transit Administration (FTA), the National Highway Traffic Safety Administration (NHTSA), the Pipeline and Hazardous Materials Safety Administration (PHMSA), and the Office of the Secretary (OST). These terms include any designee of a DOT agency.
+*DOT, The Department, DOT Agency.* These terms encompass all DOT agencies, including, but not limited to, the Federal Aviation Administration (FAA), the Federal Railroad Administration (FRA), the Federal Motor Carrier Safety Administration (FMCSA), the Federal Transit Administration (FTA), the National Highway Traffic Safety Administration (NHTSA), the Pipeline and Hazardous Materials Safety Administration (PHMSA), and the Office of the Secretary (OST). For purposes of this part, the United States Coast Guard (USCG), in the Department of Homeland Security, is considered to be a DOT agency for drug testing purposes only since the USCG regulation does not incorporate Part 40 for its alcohol testing program. These terms include any designee of a DOT agency.
 
-*Drugs.* The drugs for which tests are required under this part and DOT agency regulations are marijuana, cocaine, amphetamines, phencyclidine (PCP), and opiates.
+*Drugs.* The drugs for which tests are required under this part and DOT agency regulations are marijuana, cocaine, amphetamines, phencyclidine (PCP), and opioids.
 
 *Employee.* Any person who is designated in a DOT agency regulation as subject to drug testing and/or alcohol testing. The term includes individuals currently performing safety-sensitive functions designated in DOT agency regulations and applicants for employment subject to pre-employment testing. For purposes of drug testing under this part, the term employee has the same meaning as the term “donor” as found on CCF and related guidance materials produced by the Department of Health and Human Services.
 
@@ -64,7 +60,7 @@ In this part, the terms listed in this section have the following meanings:
 
 *Error Correction Training.* Training provided to BATs, collectors, and screening test technicians (STTs) following an error that resulted in the cancellation of a drug or alcohol test. Error correction training must be provided in person or by a means that provides real-time observation and interaction between the instructor and trainee.
 
-*Evidential Breath Testing Device (EBT).* A device approved by NHTSA for the evidential testing of breath at the .02 and .04 alcohol concentrations, placed on NHTSA's Conforming Products List (CPL) for “Evidential Breath Measurement Devices” and identified on the CPL as conforming with the model specifications available from NHTSA's Traffic Safety Program.
+*Evidential Breath Testing Device (EBT).* A device that is approved by the National Highway Traffic Safety Administration (NHTSA) for the evidential testing of breath at the .02 and .04 alcohol concentrations, and appears on ODAPC's Web page for “Approved Evidential Breath Measurement Devices” because it conforms with the model specifications available from NHTSA.
 
 *HHS.* The Department of Health and Human Services or any designee of the Secretary, Department of Health and Human Services.
 
@@ -128,4 +124,4 @@ In this part, the terms listed in this section have the following meanings:
 
 *Verified test.* A drug test result or validity testing result from an HHS-certified laboratory that has undergone review and final determination by the MRO.
 
-[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41950, Aug. 9, 2001; 71 FR 49384, Aug. 23, 2006; 71 FR 55347, Sept. 22, 2006; 73 FR 35969, June 25, 2008; 75 FR 49861, Aug. 16, 2010; 76 FR 59577, Sept. 27, 2011; 80 FR 19553, Apr. 13, 2015; 81 FR 52365, Aug. 8, 2016]
+[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41950, Aug. 9, 2001; 71 FR 49384, Aug. 23, 2006; 71 FR 55347, Sept. 22, 2006; 73 FR 35969, June 25, 2008; 75 FR 49861, Aug. 16, 2010; 76 FR 59577, Sept. 27, 2011; 80 FR 19553, Apr. 13, 2015; 81 FR 52365, Aug. 8, 2016; 82 FR 52243, Nov. 13, 2017]

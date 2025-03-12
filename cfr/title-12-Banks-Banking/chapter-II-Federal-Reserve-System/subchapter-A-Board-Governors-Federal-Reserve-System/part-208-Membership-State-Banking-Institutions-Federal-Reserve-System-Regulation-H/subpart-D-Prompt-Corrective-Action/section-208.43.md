@@ -1,7 +1,5 @@
 ##### § 208.43 Capital measures and capital category definitions. #####
 
-Link to an amendment published at 79 FR 24540, May 1, 2014.Link to an amendment published at 80 FR 49102, Aug. 14, 2015.Link to an amendment published at 80 FR 70672, Nov. 16, 2015.
-
 (a) *Capital measures.* For purposes of section 38 and this subpart, the relevant capital measures are:
 
 (1) Total Risk-Based Capital Measure: The total risk-based capital ratio;
@@ -16,6 +14,8 @@ Link to an amendment published at 79 FR 24540, May 1, 2014.Link to an amendment 
 
 (ii) With respect to an advanced approaches bank, on January 1, 2018, and thereafter, the supplementary leverage ratio.
 
+(iii) With respect to any bank that is a subsidiary (as defined in § 217.2 of Regulation Q (12 CFR 217.2)) of a global systemically important BHC, on Jan. 1, 2018, and thereafter, the supplementary leverage ratio.
+
 (b) *Capital categories applicable to all member banks.* For purposes of section 38 and this subpart, a member bank is deemed to be:
 
 (1) “Well capitalized” if:
@@ -26,7 +26,11 @@ Link to an amendment published at 79 FR 24540, May 1, 2014.Link to an amendment 
 
 (iii) Common Equity Tier 1 Capital Measure: the bank has a common equity tier 1 risk-based capital ratio of 6.5 percent or greater;
 
-(iv) Leverage Measure: the bank has a leverage ratio of 5.0 or greater; and
+(iv) Leverage Measure:
+
+(A) The bank has a leverage ratio of 5.0 percent or greater; and
+
+(B) Beginning on Jan. 1, 2018, with respect to any bank that is a subsidiary of a global systemically important BHC under the definition of “subsidiary” in section 217.2 of Regulation Q (12 CFR 217.2), the bank has a supplementary leverage ratio of 6.0 percent or greater; and
 
 (v) The bank is not subject to any written agreement, order, capital directive, or prompt corrective action directive issued by the Board pursuant to section 8 of the FDI Act, the International Lending Supervision Act of 1983 (12 U.S.C. 3907), or section 38 of the FDI Act, or any regulation thereunder, to meet and maintain a specific capital level for any capital measure.
 
@@ -78,4 +82,4 @@ Link to an amendment published at 79 FR 24540, May 1, 2014.Link to an amendment 
 
 (2) *Unsafe or unsound practice.* The Board has determined, after notice and opportunity for hearing pursuant to 12 CFR 263.203, that, in the most recent examination of the bank, the bank received and has not corrected, a less-than-satisfactory rating for any of the categories of asset quality, management, earnings, liquidity, or sensitivity to market risk.
 
-[63 FR 37652, July 13, 1998, as amended by Reg. H, 78 FR 62283, Oct. 11, 2013; 80 FR 70672, Nov. 16, 2015]
+[63 FR 37652, July 13, 1998, as amended by Reg. H, 78 FR 62283, Oct. 11, 2013; 79 FR 24540, May 1, 2014; 80 FR 49102, Aug. 14, 2015; 80 FR 70672, Nov. 16, 2015]

@@ -1,7 +1,5 @@
 ##### § 414.1325 Data submission requirements. #####
 
-Link to an amendment published at 82 FR 53953, Nov. 16, 2017.
-
 (a) *Data submission performance categories.* MIPS eligible clinicians and groups must submit measures, objectives, and activities for the quality, improvement activities, and advancing care information performance categories.
 
 (b) *Data submission mechanisms for individual eligible clinicians.* An individual MIPS eligible clinician may elect to submit their MIPS data using:
@@ -24,13 +22,13 @@ Link to an amendment published at 82 FR 53953, Nov. 16, 2017.
 
 (3) A QCDR for the quality, improvement activities, or advancing care information performance categories;
 
-(4) A CMS Web Interface (for groups comprised of at least 25 MIPS eligible clinicians) for the quality, improvement activities, and advancing care information performance categories;
+(4) The CMS Web Interface (for groups consisting of 25 or more eligible clinicians) for the quality, improvement activities, and advancing care information performance categories.
 
 (5) Attestation for the improvement activities and advancing care information performance categories; or
 
-(6) A CMS-approved survey vendor for groups that elect to include the CAHPS for MIPS survey as a quality measure. Groups that elect to include the CAHPS for MIPS survey as a quality measure must select one of the above data submission mechanisms to submit their other quality information.
+(6) A CMS-approved survey vendor for groups that elect to include the CAHPS for MIPS survey as a quality measure. Groups that elect to include the CAHPS for MIPS survey as a quality measure must select at least one other data submission mechanism described in this section to submit their other quality information.
 
-(d) *Requirement to use only one submission mechanism per performance category.* Except as described in paragraph (c)(6) of this section, MIPS eligible clinicians and groups may elect to submit information via multiple mechanisms; however, they must use the same identifier for all performance categories and they may only use one submission mechanism per performance category.
+(d) *Report measures and activities, as applicable, via multiple data submission mechanisms for the quality, improvement activities, or advancing care information performance categories.* Beginning with the 2021 MIPS payment year, MIPS eligible clinicians, groups, and virtual groups may elect to submit measures and activities, as available, via multiple data submission mechanisms for a single performance category (specifically, the quality, improvement activities, or advancing care information performance category); provided, however, that the MIPS eligible clinician, group, or virtual group uses the same identifier for all performance categories and all submissions.
 
 (e) *No data submission requirements for the cost performance category and certain quality measures.* There are no data submission requirements for the cost performance category and for certain quality measures used to assess performance in the quality performance category. CMS will calculate performance on these measures using administrative claims data.
 
@@ -41,3 +39,5 @@ Link to an amendment published at 82 FR 53953, Nov. 16, 2017.
 (2) For Medicare Part B claims, data must be submitted on claims with dates of service during the performance period that must be processed no later than 60 days following the close of the performance period.
 
 (3) For the CMS Web Interface, data must be submitted during an 8-week period following the close of the performance period. The period must begin no earlier than January 2 and end no later than March 31.
+
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53953, Nov. 16, 2017]

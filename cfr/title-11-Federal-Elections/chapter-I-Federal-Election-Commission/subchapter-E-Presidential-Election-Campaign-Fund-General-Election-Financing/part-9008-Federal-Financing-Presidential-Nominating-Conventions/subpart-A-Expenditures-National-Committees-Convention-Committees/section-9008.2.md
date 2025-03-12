@@ -1,8 +1,6 @@
 ##### § 9008.2 Definitions. #####
 
-Link to an amendment published at 82 FR 60854, Dec. 26, 2017.
-
-(a) *Commission* means the Federal Election Commission, 999 E Street, NW., Washington, DC 20463.
+(a) *Commission* means the Federal Election Commission.
 
 (b) *Fund* means the Presidential Election Campaign Fund established by 26 U.S.C. 9006(a).
 
@@ -17,3 +15,5 @@ Link to an amendment published at 82 FR 60854, Dec. 26, 2017.
 (g) *Nominating convention* means a convention, caucus or other meeting which is held by a political party at the national level and which chooses the presidential nominee of the party through selection by delegates to that convention or through other similar means.
 
 (h) *Secretary* means the Secretary of the Treasury of the United States.
+
+[59 FR 33616, June 29, 1994, as amended at 82 FR 60854, Dec. 26, 2017]

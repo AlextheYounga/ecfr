@@ -1,17 +1,9 @@
-##### § 709.11 Treatment by conservator or liquidating agent of collateralized public funds. #####
+##### § 709.11 Prepayment fees to Federal Home Loan Bank. #####
 
-Link to an amendment published at 82 FR 50294, Oct. 30, 2017.
+The Board as conservator or liquidating agent of a federally-insured credit union in receipt of any extension of credit from a Federal Home Loan Bank will allow a claim for a prepayment fee by the Bank if:
 
-An agreement to provide for the lawful collateralization of funds of a federal, state, or local governmental entity or of any depositor or member referred to in section 207(k)(2)(A) of the Act will not be deemed to be invalid under sections 207(b)(9) and 208(a)(3) of the Act solely because such agreement was not executed contemporaneously with the acquisition of collateral or with any changes, increases, or substitutions in the collateral made in accordance with such agreement, provided the following conditions are met:
+(a) The claim is made pursuant to a written contract that provides for a prepayment fee but the prepayment fee allowed by the Board will not exceed the present value of the loss attributable to the difference between the contract rate of the secured borrowing and the reinvestment rate then available to the Bank; and
 
-(a) The agreement was undertaken in the ordinary course of business, not in contemplation of insolvency, and with no intent to hinder, delay or defraud the credit union or its creditors;
+(b) The indebtedness owed to the Bank is secured by sufficient collateral in which a perfected security interest in favor of the Bank exists or as to which the Bank's security interest is entitled to priority under section 306(d) of the Competitive Equality Banking Act of 1987, 12 U.S.C. 1430(e), or otherwise so that the aggregate of the outstanding principal on the advances secured by the collateral, the accrued but unpaid interest on the outstanding principal and the prepayment fee applicable to the advances can be paid in full from the amounts realized from the collateral. For purposes of this paragraph, the adequacy of the collateral will be determined as of the date the prepayment fees are due and payable under the terms of the written contract.
 
-(b) The secured obligation represents a bona fide and arm's length transaction;
-
-(c) The secured party or parties are not insiders or affiliates of the credit union;
-
-(d) The grant or creation of the security interest was for adequate consideration; and,
-
-(e) The security agreement evidencing the security interest is in writing, was approved by the credit union's board of directors, and has been continuously an official record of the credit union from the time of its execution.
-
-[65 FR 55443, Sept. 14, 2000]
+[66 FR 40575, Aug. 3, 2001. Redesignated at 82 FR 50294, Oct. 30, 2017]

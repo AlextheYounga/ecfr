@@ -1,41 +1,41 @@
-##### § 709.8 Administrative appeal of the initial determination. #####
+##### § 709.8 Expedited determination of creditor claims. #####
 
-Link to an amendment published at 82 FR 50294, Oct. 30, 2017.
+(a) *General.* The provisions of this section establish procedures under which claimants may request expedited relief in lieu of the procedures set forth in § 709.6 of this part. A claimant shall be entitled to expedited determination of a claim only upon a showing that there exists a legally valid and enforceable or perfected security interest in assets of the liquidated credit union and that irreparable injury will occur if the routine claims procedure is followed.
 
-(a) *General.* A claimant requesting an administrative appeal may request review pursuant to any of the procedures listed in paragraph (b) or (c) of this section. Any appeal of the initial determination must be in writing and must specify what type of appeal the claimant requests. The determination of whether to agree to a request for administrative appeal shall rest solely with the Board, which shall notify the claimant of its decision in writing. The 60 day period for filing a lawsuit in United States district court, provided for in § 709.7 of this part, shall be tolled from the date of claimant's request for an administrative appeal to the date of the Board's decision regarding that request.
+(b) *Filing of request for expedited relief.* All requests for expedited relief must be filed within 30 days from the date of mailing, by the liquidating agent, of the notice to the creditor concerned. The request shall be deemed to be filed when received by the Secretary of the Board, National Credit Union Administration, 1775 Duke Street, Alexandria, VA 22314-3428. A copy of the request must be simultaneously served upon the liquidating agent for the credit union concerned. There shall be no right of personal appearance before the Board in connection with any claim submitted under this paragraph.
 
-(b) *Hearing on the record.* Except as provided herein, any hearing requested pursuant to this section shall be conducted in accordance with the provisions of subpart A, part 747, of this chapter. The Board shall render a final decision with respect to such claim after consideration of the hearing record and recommended decision. The Board's determination shall be subject to judicial review under chapter 7 of title 5, United States Code. Any claimant seeking judicial review of the Board's final decision under this paragraph must file a petition in the court of appeals for the circuit in which the principal office of the credit union is located, or in the United States Court of Appeals for the District of Columbia Circuit, within 30 days of the date of the Board's final decision. If a claimant does not file a petition before the end of the 30-day period, the Board's decision shall be final, and the claimant shall have no further rights or remedies with respect to such claim.
+(c) *Content of request for expedited relief.* Any Request for Expedited Relief must contain the following:
 
-(1) *Burden of proof.* In any hearing on the record, the burden of proof to establish entitlement to any modification of the initial determination shall rest solely upon the claimant.
+(1) A clear and concise statement of the facts and issues on which the request is based;
 
-(2) *Order of procedure.* In any hearing on the record, at the time for opening arguments, counsel for the claimant shall argue first, and at the time for closing arguments, counsel for the claimant shall argue last.
+(2) A clear and concise statement describing the nature of any security interests in any assets of the credit union;
 
-(c) *Alternative dispute resolution.* Paragraphs (c) (1) and (2) of this section list alternatives for dispute resolution which may be available at the discretion of the Board. From time to time, the NCUA Board may authorize additional alternative dispute resolution processes.
+(3) A clear and concise statement of the probable, imminent and irreparable harm likely to occur if expedited relief is not granted;
 
-(1) *Appeal to the Board.* Pursuant to this paragraph (c)(1), the claimant may file an appeal with the NCUA Board within the time provided for in § 709.7. The appeal must be in writing and filed with the Secretary of the Board, National Credit Union Administration, 1775 Duke Street, Alexandria, VA 22314-3428. There shall be no personal appearance before the Board in connection with an appeal under this paragraph (c)(1).
+(4) An assessment of the likelihood of success on the merits of the underlying claim, including statutory citations and relevant documentation supporting the merits of the claim;
 
-(i) *Content of appeal.* Any appeal must include:
+(5) Any other relevant documentation that supports the request;
 
-(A) A statement of the facts on which the appeal is based;
+(6) Citations to applicable statutes, regulations, or other legal authority; and
 
-(B) A statement of the basis for the initial determination to which the claimant objects and the alleged error in such determination, including citations to applicable statutes and regulations;
+(7) A signed statement certifying that a copy of the request has been mailed or hand delivered to the liquidating agent on or before the day that the request was filed with the Board.
 
-(C) Any other evidence relied upon by the claimant which was not previously provided to the liquidating agent.
+(d) *Burden of proof.* The burden of proving entitlement to expedited relief rests at all times with the requester.
 
-(ii) *Procedures for review of the appeal.* (A) Within 60 days of the date of the Board's receipt of an appeal, pursuant to paragraph (c)(1) of this section, the Board may request in writing that the claimant submit supplemental evidence in support of its appeal. If additional evidence is requested, the claimant shall have 45 days from the date of issuance of such request to provide such additional information. Failure by the claimant to provide such additional information may, as determined solely by the Board, result in denial of the claimant's appeal.
+(e) *Additional information.* The Board may order the filing of additional information and or documentation in order to make its determination. Such filing shall be on a date certain, and failure to provide the additional documentation or information may constitute the sole grounds for denial of the request.
 
-(B) Within 60 days from the date of the Board's receipt of an appeal, pursuant to paragraph (c)(1) of this section, the claimant may amend or supplement the appeal in writing. In the event the claimant does amend or supplement the appeal, the provisions of paragraph (c)(1)(ii)(A) of this section, with respect to requests for additional information and responses to such requests, shall apply with equal force to any such amendment or supplement to an appeal.
+(f) *Decision.* Before the end of the 90-day period beginning on the date a request filed, the Board shall render its decision and provide it to the requester. The Board will determine whether to grant expedited review and allow or disallow the claim or whether such claim should be resolved pursuant to the claims process described in § 709.6 of this part.
 
-(iii) *Determination on appeal.* (A) Within 180 days from the date of receipt of an appeal by the Board, the Board shall issue a decision allowing or disallowing claimant's appeal.
+(1) *Expedited review denied.* A decision by the Board that expedited review is not appropriate shall be final and the claim shall be decided pursuant to the claims adjudication process set forth in § 709.6 of this part.
 
-(B) The decision by the Board on appeal shall be provided to the claimant in writing, stating the reasons for the decision, and shall constitute a final agency decision regarding the claimant's claim.
+(2) *Expedited review granted.* If expedited review is granted, the Board shall decide the claim. If the claim is disallowed, in whole or part, the decision shall contain a statement of each reason for the disallowance and the procedure for obtaining judicial review.
 
-(C) Failure by the Board to issue a decision on appeal of the claimant's claim within the 180-day period provided for under paragraph (c)(1)(iii)(A) of this section shall be deemed to be a denial of such appeal for the purposes of paragraph (c)(1)(iv) of this section.
+(g) *Period for filing or renewing suit.* Any claimant who files a request for expedited relief shall be permitted to file a suit, or to continue a suit filed before the appointment of the liquidating agent, seeking a determination of the claimant's rights with respect to its security interest after the earlier of:
 
-(iv) *Judicial review.* (A) For the purposes of seeking judicial review of actions taken pursuant to paragraph (c)(1) of this section, only a determination on appeal issued by the NCUA Board pursuant to this section shall constitute a final determination regarding a claim.
+(1) The end of the 90-day period beginning on the date of the filing of a request for expedited relief; or
 
-(B) A final determination by the Board is reviewable in accordance with the provisions of chapter 7, title 5, United States Code, by the United States Court of Appeals for the District of Columbia or the court of appeals for the Federal judicial circuit where the credit union's principal place of business is located. Any request for judicial review under this paragraph must be filed within 60 days of the date of the Board's final decision. If any claimant fails to file before the end of the 60-day period, the Board's decision shall be final, and the claimant shall have no further rights or remedies with respect to such claim.
+(2) The date the Board denies all or part of the claim.
 
-(2) The following additional procedures for dispute resolution may be made available at the sole discretion of the Board: mediation; nonbinding arbitration; and neutral fact finding.
+(h) *Statute of limitations.* If an action described in paragraph (g) of this section is not filed, or the motion to renew a previously filed suit is not made, before the end of the 30-day period beginning on the date on which such action or motion may be filed in accordance with paragraph (g) of this section, the claim shall be deemed to be disallowed as of the end of such period (other than any portion of such claim that was allowed by the Board). Such disallowance shall be final and the claimant shall have no further rights or remedies with respect to such claim.
 
-[56 FR 56925, Nov. 7, 1991, as amended at 59 FR 36041, July 15, 1994]
+[56 FR 56925, Nov. 7, 1991, as amended at 59 FR 36041, July 15, 1994; 75 FR 34621, June 18, 2010. Redesignated at 82 FR 50294, Oct. 30, 2017]

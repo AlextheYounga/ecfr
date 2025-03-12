@@ -14,6 +14,6 @@
 
 (1) *Cubera snapper.* No person may harvest more than two cubera snapper measuring 30 inches (76.2 cm), TL, or larger, per day in the South Atlantic EEZ off Florida and no more than two such cubera snapper in or from the South Atlantic EEZ off Florida may be possessed on board a vessel at any time.
 
-(2) *Red snapper.* Red snapper may only be harvested or possessed in or from the South Atlantic EEZ during the commercial and recreational seasons as specified in § 622.183(b)(9) and § 622.193(aa). Any red snapper caught in the South Atlantic EEZ during a time other than the specified commercial or recreational seasons specified in § 622.193(aa) must be released immediately with a minimum of harm. In addition, for a person on board a vessel for which a valid Federal commercial or charter vessel/headboat permit for South Atlantic snapper-grouper has been issued, the prohibition on the harvest or possession of red snapper applies in the South Atlantic, regardless of where such fish are harvested or possessed, *i.e.,* in state or Federal waters.
+(2) [Reserved]
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44464, July 24, 2013; 78 FR 78775, Dec. 27, 2013]Effective Date Note:At 82 FR 50842, Nov. 2, 2017, in § 622.181 paragraph (b)(2) was suspended and paragraph (c)(2) was added, effective Nov. 2, 2017 through Dec. 31, 2017.
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44464, July 24, 2013; 78 FR 78775, Dec. 27, 2013]

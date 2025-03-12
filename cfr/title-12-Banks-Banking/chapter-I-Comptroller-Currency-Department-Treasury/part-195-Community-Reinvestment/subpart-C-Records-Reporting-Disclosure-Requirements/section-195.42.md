@@ -1,7 +1,5 @@
 ##### § 195.42 Data collection, reporting, and disclosure. #####
 
-Link to an amendment published at 82 FR 55742, Nov. 24, 2017.
-
 (a) *Loan information required to be collected and maintained.* A savings association, except a small savings association, shall collect, and maintain in machine readable form (as prescribed by the appropriate Federal banking agency) until the completion of its next CRA examination, the following data for each small business or small farm loan originated or purchased by the savings association:
 
 (1) A unique number or alpha-numeric symbol that can be used to identify the relevant loan file;
@@ -28,7 +26,7 @@ Link to an amendment published at 82 FR 55742, Nov. 24, 2017.
 
 (3) *Home mortgage loans.* If the savings association is subject to reporting under part 1003 of this title, the location of each home mortgage loan application, origination, or purchase outside the MSAs in which the savings association has a home or branch office (or outside any MSA) in accordance with the requirements of part 1003 of this title.
 
-(c) *Optional data collection and maintenance* - (1) *Consumer loans.* A savings association may collect and maintain in machine readable form (as prescribed by the appropriate Federal banking agency) data for consumer loans originated or purchased by the savings association for consideration under the lending test. A savings association may maintain data for one or more of the following categories of consumer loans: Motor vehicle, credit card, home equity, other secured, and other unsecured. If the savings association maintains data for loans in a certain category, it shall maintain data for all loans originated or purchased within that category. The savings association shall maintain data separately for each category, including for each loan:
+(c) *Optional data collection and maintenance* - (1) *Consumer loans.* A savings association may collect and maintain in machine readable form (as prescribed by the appropriate Federal banking agency) data for consumer loans originated or purchased by the savings association for consideration under the lending test. A savings association may maintain data for one or more of the following categories of consumer loans: Motor vehicle, credit card, other secured, and other unsecured. If the savings association maintains data for loans in a certain category, it shall maintain data for all loans originated or purchased within that category. The savings association shall maintain data separately for each category, including for each loan:
 
 (i) A unique number or alpha-numeric symbol that can be used to identify the relevant loan file;
 
@@ -78,4 +76,4 @@ Link to an amendment published at 82 FR 55742, Nov. 24, 2017.
 
 (j) *Central data depositories.* The appropriate Federal banking agency makes the aggregate disclosure statements, described in paragraph (i) of this section, and the individual savings association CRA Disclosure Statements, described in paragraph (h) of this section, available to the public at central data depositories. The appropriate Federal banking agency publishes a list of the depositories at which the statements are available.
 
-[76 FR 49179, Aug. 9, 2011, as amended at 80 FR 81164, Dec. 29, 2015]
+[76 FR 49179, Aug. 9, 2011, as amended at 80 FR 81164, Dec. 29, 2015; 82 FR 55742, Nov. 24, 2017]

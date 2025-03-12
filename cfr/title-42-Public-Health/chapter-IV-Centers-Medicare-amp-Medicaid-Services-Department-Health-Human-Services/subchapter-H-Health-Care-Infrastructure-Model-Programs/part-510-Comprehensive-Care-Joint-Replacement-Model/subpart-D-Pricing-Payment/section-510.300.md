@@ -1,7 +1,5 @@
 ##### § 510.300 Determination of episode quality-adjusted target prices. #####
 
-Link to an amendment published at 82 FR 57104, Dec. 1, 2017.
-
 (a) *General.* CMS establishes episode quality-adjusted target prices for participant hospitals for each performance year of the model as specified in this section. Episode quality-adjusted target prices are established according to the following:
 
 (1) *MS-DRG and fracture status.* MS-DRG assigned at discharge for anchor hospitalization and present of hip fracture diagnosis for anchor hospitalization -
@@ -58,7 +56,7 @@ Link to an amendment published at 82 FR 57104, Dec. 1, 2017.
 
 (5) *Exception for high episode spending.* Episode payments are capped at 2 standard deviations above the mean regional episode payment for both the hospital-specific and regional components of the quality-adjusted target price.
 
-(6) *Exclusion of incentive programs and add-on payments under existing Medicare payment systems.* Certain incentive programs and add-on payments are excluded from historical episode payments by using the CMS Price (Payment) Standardization Detailed Methodology used for the Medicare spending per beneficiary measure in the Hospital Value-Based Purchasing Program.
+(6) *Exclusion of incentive programs and add-on payments under existing Medicare payment systems.* Certain incentive programs and add-on payments are excluded from historical episode payments by using, with certain modifications, the CMS Price (Payment) Standardization Detailed Methodology used for the Medicare spending per beneficiary measure in the Hospital Value-Based Purchasing Program.
 
 (7) *Communication of episode quality-adjusted target prices.* CMS communicates episode quality-adjusted target prices to participant hospitals before the performance period in which they apply.
 
@@ -92,4 +90,4 @@ Link to an amendment published at 82 FR 57104, Dec. 1, 2017.
 
 (ii) The minimum data necessary to achieve the goals of the CJR model, as determined by CMS, may be provided under this section for a participant hospital's baseline period and no less frequently than on a quarterly basis throughout the hospital's participation in the CJR model.
 
-[80 FR 73540, Nov. 24, 2015, as amended at 81 FR 11451, Mar. 4, 2016; 82 FR 613, Jan. 3, 2017]Editorial Note:At 82 FR 613, Jan. 3, 2017, § 510.300 was amended in part by redesignating paragraph (a)(5) as paragraph (a)(6); however, there was no paragraph (a)(5).
+[80 FR 73540, Nov. 24, 2015, as amended at 81 FR 11451, Mar. 4, 2016; 82 FR 613, Jan. 3, 2017; 82 FR 57104, Dec. 1, 2017]Editorial Note:At 82 FR 613, Jan. 3, 2017, § 510.300 was amended in part by redesignating paragraph (a)(5) as paragraph (a)(6); however, there was no paragraph (a)(5).

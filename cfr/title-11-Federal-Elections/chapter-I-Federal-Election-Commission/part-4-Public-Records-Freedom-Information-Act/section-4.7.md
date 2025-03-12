@@ -1,14 +1,12 @@
 ##### § 4.7 Requests for records. #####
 
-Link to an amendment published at 82 FR 60853, Dec. 26, 2017.
-
 (a) [Reserved]
 
-(b)(1) Requests for copies of records pursuant to the Freedom of Information Act shall be addressed to Chief FOIA Officer, Federal Election Commission, 999 E Street, NW., Washington, DC 20463. The request shall reasonably describe the records sought with sufficient specificity with respect to names, dates, and subject matter, to permit the records to be located. A requester will be promptly advised if the records cannot be located on the basis of the description given and that further identifying information must be provided before the request can be satisfied.
+(b)(1) Requests for copies of records pursuant to the Freedom of Information Act shall be addressed to Chief FOIA Officer, Federal Election Commission, at the street address identified in the definition of “Commission” in § 1.2. The request shall reasonably describe the records sought with sufficient specificity with respect to names, dates, and subject matter, to permit the records to be located. A requester will be promptly advised if the records cannot be located on the basis of the description given and that further identifying information must be provided before the request can be satisfied.
 
 (2) Requests for Commission records and copies thereof shall specify the preferred form or format (including electronic formats) of the response. The Commission shall accommodate requesters as to form or format if the record is readily available in that form or format. When requesters do not specify the form or format of the response, the Commission shall respond in the form or format in which the document is most accessible to the Commission.
 
-(c) The Commission shall determine within twenty working days after receipt of a request, or twenty working days after an appeal is granted, whether to comply with such request, unless in unusual circumstances the time is extended or subject to § 4.9(f)(3), which governs advance payments. In the event the time is extended, the requestor shall be notified of the reasons for the extension and the date on which a determination is expected to be made, but in no case shall the extended time exceed ten working days. An extension may be made if it is -
+(c) The Commission shall determine within twenty working days after receipt of a request, or twenty working days after an appeal is granted, whether to comply with such request, unless in unusual circumstances the time is extended or subject to § 4.9(f)(3), which governs advance payments. In the event the time is extended, the requestor shall be notified of the reasons for the extension and the date on which a determination is expected to be made, but in no case shall the extended time exceed ten working days. An extension may be made if it is—
 
 (1) Necessary to locate records or transfer them from physically separate facilities; or
 
@@ -38,4 +36,4 @@ Link to an amendment published at 82 FR 60853, Dec. 26, 2017.
 
 (i) The date of receipt of a request under this part shall be the date on which the FOIA Officer actually receives the request.
 
-[44 FR 33368, June 8, 1979, as amended at 45 FR 31292, May 13, 1980; 50 FR 50778, Dec. 12, 1985; 52 FR 39213, Oct. 21, 1987; 65 FR 9206, Feb. 24, 2000; 75 FR 31, Jan. 4, 2010]
+[44 FR 33368, June 8, 1979, as amended at 45 FR 31292, May 13, 1980; 50 FR 50778, Dec. 12, 1985; 52 FR 39213, Oct. 21, 1987; 65 FR 9206, Feb. 24, 2000; 75 FR 31, Jan. 4, 2010; 82 FR 60853, Dec. 26, 2017]

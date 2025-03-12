@@ -1,16 +1,14 @@
 ##### § 1690.1 Definitions. #####
 
-Link to an amendment published at 82 FR 60105, Dec. 19, 2017.
-
 As used in this chapter:
 
 *Account* or *individual account* means the account established for a participant in the Thrift Savings Plan under 5 U.S.C. 8439(a). The TSP offers four types of accounts: civilian participant accounts, uniformed services accounts, civilian beneficiary participant accounts, and uniformed services beneficiary participant accounts. Each type of account may contain a traditional balance, a Roth balance, or both.
 
 *Account balance* means the sum of the dollar balances for each source of contributions in each TSP Fund for an individual account. The dollar balance in each fund on a given day is the product of the total number of shares in that fund multiplied by the share price for the fund on that day.
 
-*Agency automatic (1%) contributions* means any contributions made under 5 U.S.C. 8432(c)(1) and (c)(3).
+*Agency Automatic (1%) Contributions* means any contributions made under 5 U.S.C. 8432(c)(1) and (c)(3). It also includes service automatic (1%) contributions made under 5 U.S.C. 8440e(e)(3)(A).
 
-*Agency matching contributions* means any contributions made under 5 U.S.C. 8432(c)(2).
+*Agency Matching Contributions* means any contributions made under 5 U.S.C. 8432(c)(2). It also includes service matching contributions under 5 U.S.C. 8440e(e)(3)(B).
 
 *Basic pay* means basic pay as defined in 5 U.S.C. 8331(3). For CSRS and FERS employees, it is the rate of pay used in computing any amount the individual is otherwise required to contribute to the Civil Service Retirement and Disability Fund as a condition of participating in the Civil Service Retirement System or the Federal Employees' Retirement System, as the case may be. For members of the uniformed services, it is basic pay payable under 37 U.S.C. 204 and compensation received under 37 U.S.C. chapter 206.
 
@@ -20,7 +18,11 @@ As used in this chapter:
 
 *Board* means the Federal Retirement Thrift Investment Board established under 5 U.S.C. 8472.
 
-*Bonus contributions* means contributions made by a participant from a bonus as defined in 37 U.S.C. chapter 5.
+*Bonus contributions* means contributions made by a participant from any part of any special or incentive pay that the participant receives under chapter 5 of title 37.
+
+*BRS* means the blended retirement system as established by the National Defense Authorization Act for FY 2016, Public Law 114-92, secs. 631-635 (2015).
+
+*BRS participant* means a TSP participant covered by BRS.
 
 *C Fund* means the Common Stock Index Investment Fund established under 5 U.S.C. 8438(b)(1)(C).
 
@@ -30,7 +32,7 @@ As used in this chapter:
 
 *Civilian beneficiary participant account* means a beneficiary participant account that is established with a death benefit payment from a TSP account to which contributions were made by or on behalf of a civilian employee.
 
-*Civilian employee* means a TSP participant covered by the Federal Employees' Retirement System, the Civil Service Retirement System, or equivalent retirement plan.
+*Civilian employee* or civilian participant means a TSP participant covered by the Federal Employees' Retirement System, the Civil Service Retirement System, or equivalent retirement plan.
 
 *Contribution allocation* means the participant's apportionment of his or her future contributions, loan payments, and transfers or rollovers from eligible employer plans or traditional IRAs among the TSP Funds.
 
@@ -50,9 +52,9 @@ As used in this chapter:
 
 *Employee contributions* means traditional contributions and Roth contributions. Employee contributions are made at the participant's election pursuant to § 1600.12 and are deducted from compensation paid to the employee.
 
-*Employer contributions* means agency automatic (1%) contributions under 5 U.S.C. 8432(c)(1) or 8432(c)(3), and agency matching contributions under 5 U.S.C. 8432(c)(2) or 5 U.S.C. 8440e(e).
+*Employer contributions* means Agency Automatic (1%) Contributions under 5 U.S.C. 8432(c)(1), 8432(c)(3), or 5 U.S.C. 8440e(e)(3)(A) and Agency Matching Contributions under 5 U.S.C. 8432(c)(2) or 5 U.S.C. 8440e(e)(3)(B).
 
-*Employing agency* means the organization (or the payroll office that services the organization) that employs an individual eligible to contribute to the TSP and that has authority to make personnel compensation decisions for the individual. It includes the uniformed services and their servicing payroll office(s).
+*Employing agency* means the organization (or the payroll office that services the organization) that employs an individual eligible to contribute to the TSP and that has authority to make personnel compensation decisions for the individual. It includes the employing service for members of the uniformed services.
 
 *Executive Director* means the Executive Director of the Federal Retirement Thrift Investment Board under 5 U.S.C. 8474.
 
@@ -75,6 +77,8 @@ As used in this chapter:
 *I Fund* means the International Stock Index Investment Fund established under 5 U.S.C. 8438(b)(1)(E).
 
 *In-service withdrawal request* means a properly completed withdrawal election for either an age-based in-service withdrawal or a financial hardship in-service withdrawal, on any form required by the TSP, together with the supporting documentation required by the application.
+
+*PEBD* means the pay entry base date (or pay entry basic date for some services), which is determined by each uniformed service and is used to calculate how much time in service a member has for the purpose of determining longevity pay rates.
 
 *Plan participant* or *participant* means any person with an account (other than a beneficiary participant account) in the Thrift Savings Plan or who would have an account (other than a beneficiary account) but for an employing agency error.
 
@@ -168,9 +172,9 @@ As used in this chapter:
 
 *TSP Web site* means the Internet location maintained by the Board, which contains information about the TSP and by which TSP participants may, among other things, access their accounts by computer. The TSP Web site address is *www.tsp.gov.*
 
-*Uniformed service member* means a member of the uniformed services on active duty or a member of the Ready Reserve in any pay status.
+*Uniformed service member* or uniformed services participant means a TSP participant who is a member of the uniformed services on active duty or a member of the Ready Reserve in any pay status.
 
-*Uniformed services* means the Army, Navy, Air Force, Marine Corps, Coast Guard, Public Health Service, and the National Oceanic and Atmospheric Administration.
+*Uniformed services* means the Army, Navy, Air Force, Marine Corps, Coast Guard, Public Health Service Commissioned Corps, and the National Oceanic and Atmospheric Administration Commissioned Officer Corps.
 
 *Uniformed services account* means a TSP account to which contributions have been made by or on behalf of a member of the uniformed services.
 
@@ -178,4 +182,4 @@ As used in this chapter:
 
 *Vested account balance* means that portion of an individual's account which is not subject to forfeiture under 5 U.S.C. 8432(g).
 
-[68 FR 35519, June 13, 2003, as amended at 70 FR 32218, June 1, 2005; 71 FR 50320, Aug. 25, 2006; 75 FR 78880, Dec. 17, 2010; 77 FR 26429, May 4, 2012; 78 FR 57784, Sept. 20, 2013]Editorial Note:At 77 FR 26429, May 4, 2012, § 1690.1 was amended by removing the definitions of “regular contributions” and “combat zone compensation”; however, the amendatory instruction could not be incorporated because the definitions were not found in the section.
+[68 FR 35519, June 13, 2003, as amended at 70 FR 32218, June 1, 2005; 71 FR 50320, Aug. 25, 2006; 75 FR 78880, Dec. 17, 2010; 77 FR 26429, May 4, 2012; 78 FR 57784, Sept. 20, 2013; 82 FR 60105, Dec. 19, 2017]Editorial Note:At 77 FR 26429, May 4, 2012, § 1690.1 was amended by removing the definitions of “regular contributions” and “combat zone compensation”; however, the amendatory instruction could not be incorporated because the definitions were not found in the section.

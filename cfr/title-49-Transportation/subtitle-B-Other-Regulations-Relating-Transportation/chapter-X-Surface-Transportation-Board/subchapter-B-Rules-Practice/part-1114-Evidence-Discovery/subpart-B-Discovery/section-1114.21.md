@@ -1,7 +1,5 @@
 ##### § 1114.21 Applicability; general provisions. #####
 
-Link to an amendment published at 82 FR 57381, Dec. 5, 2017.
-
 (a) *When discovery is available.* (1) Parties may obtain discovery under this subpart regarding any matter, not privileged, which is relevant to the subject matter involved in a proceeding other than an informal proceeding. For the purpose of this subchapter, informal proceedings are those not required to be determined on the record after hearing and include informal complaints and all proceedings assigned for initial disposition to employee boards under § 1011.5.
 
 (2) It is not grounds for objection that the information sought will be inadmissible as evidence if the information sought appears reasonably calculated to lead to the discovery of admissible evidence.
@@ -32,7 +30,7 @@ Link to an amendment published at 82 FR 57381, Dec. 5, 2017.
 
 If the motion for a protective order is denied in whole or in part, the Board may, on such terms and conditions as it deems just, enter an order requiring any party or person to provide or permit discovery. A protective order under this paragraph may only be sought after, or in conjunction with, an effort by any party to obtain relief under § 1114.24(a), § 1114.26(a), or § 1114.31.
 
-(d) *Sequence and timing of discovery.* Unless the Board upon motion, for the convenience of parties and witnesses and in the interest of justice, orders otherwise, methods of discovery may be used in any sequence and the fact that a party is conducting discovery, whether by deposition or otherwise, should not operate to delay any party's discovery.
+(d) *Sequence and timing of discovery.* Unless the Board upon motion, and subject to the requirements at 49 CFR 1111.2(f) and 1111.5(f) in stand-alone cost cases, for the convenience of parties and witnesses and in the interest of justice, orders otherwise, methods of discovery may be used in any sequence and the fact that a party is conducting discovery, whether by deposition or otherwise, should not operate to delay any party's discovery.
 
 (e) *Stipulations regarding discovery.* Unless otherwise ordered, a written stipulation entered into by all the parties and filed with the Board may:
 
@@ -40,6 +38,6 @@ If the motion for a protective order is denied in whole or in part, the Board ma
 
 (2) Modify the procedures provided by these rules for other methods of discovery.
 
-(f) *Service of discovery materials.* Unless otherwise ordered by the Board, depositions, interrogatories, requests for documents, requests for admissions, and answers and responses thereto, shall be served on other counsel and parties, but shall not be filed with the Board. Any such materials, or portions thereof, should be appended to the appropriate pleading when used to support or to reply to a motion, or when used as an evidentiary submission.
+(f) *Service of discovery materials.* Unless otherwise ordered by the Board, and subject to the requirements at 49 CFR 1111.2(f) and 1111.5(f) in stand-alone cost cases, depositions, interrogatories, requests for documents, requests for admissions, and answers and responses thereto, shall be served on other counsel and parties, but shall not be filed with the Board. Any such materials, or portions thereof, should be appended to the appropriate pleading when used to support or to reply to a motion, or when used as an evidentiary submission.
 
-[47 FR 49562, Nov. 1, 1982, as amended at 61 FR 52713, Oct. 8, 1996; 72 FR 51377, Sept. 7, 2007; 81 FR 8854, Feb. 23, 2016]
+[47 FR 49562, Nov. 1, 1982, as amended at 61 FR 52713, Oct. 8, 1996; 72 FR 51377, Sept. 7, 2007; 81 FR 8854, Feb. 23, 2016; 82 FR 57381, Dec. 5, 2017]

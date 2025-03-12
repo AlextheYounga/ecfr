@@ -1,7 +1,5 @@
 ##### § 1605.14 Misclassified retirement system coverage. #####
 
-Link to an amendment published at 82 FR 60104, Dec. 19, 2017.
-
 (a) If a CSRS participant is misclassified by an employing agency as a FERS participant, when the misclassification is corrected:
 
 (1) Employee contributions that exceed the applicable contribution percentage for the pay period(s) involved may remain in the participant's account. The participant may request the return of excess employee contributions made on or after January 1, 2000; those contributed before January 1, 2000, must remain in the participant's account. If the participant requests a refund of employee contributions, the employing agency must submit a negative adjustment record to remove these funds under the procedure described in § 1605.12.
@@ -32,4 +30,20 @@ Link to an amendment published at 82 FR 60104, Dec. 19, 2017.
 
 (e) The provisions of paragraph (c) of this section shall apply to any TSP contributions relating to a period for which an employee elects retroactive Nonappropriated Fund retirement coverage.
 
-[66 FR 44277, Aug. 22, 2001, as amended at 68 FR 35500, June 13, 2003; 68 FR 74451, Dec. 23, 2003; 70 FR 32212, June 1, 2005; 72 FR 53414, Sept. 19, 2007; 77 FR 26426, May 4, 2012]
+(f) If a BRS participant is misclassified by an employing agency as a non-BRS participant, when the misclassification is corrected:
+
+(1) The participant may not elect to have the contributions made while classified as non-BRS removed from his or her account;
+
+(2) The participant may, under the rules of § 1605.11, elect to make up contributions that he or she would have been eligible to make as a BRS participant during the period of misclassification;
+
+(3) The employing agency must, under the rules of § 1605.11, make Agency Automatic (1%) Contributions and Agency Matching Contributions on employee contributions that were made while the participant was misclassified; and
+
+(4) The employing agency must submit makeup employee contributions on current payment records and service makeup contributions may be submitted on either current or late payment records.
+
+(g) If a non-BRS participant is misclassified by an employing agency as a BRS participant, when the misclassification is corrected:
+
+(1) Employee contributions may remain in the participant's account. If the participant requests a refund of employee contributions, the employing agency must submit a negative adjustment record to remove these funds under the procedure described in § 1605.12.
+
+(2) The TSP will forfeit all agency contributions that were made to a non-BRS participant's account. An employing service may submit a negative adjustment record to request the return of an erroneous contribution that has been in the participant's account for less than one year.
+
+[66 FR 44277, Aug. 22, 2001, as amended at 68 FR 35500, June 13, 2003; 68 FR 74451, Dec. 23, 2003; 70 FR 32212, June 1, 2005; 72 FR 53414, Sept. 19, 2007; 77 FR 26426, May 4, 2012; 82 FR 60104, Dec. 19, 2017]

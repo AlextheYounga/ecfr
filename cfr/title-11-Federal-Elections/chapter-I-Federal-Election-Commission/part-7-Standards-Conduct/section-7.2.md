@@ -1,10 +1,8 @@
 ##### § 7.2 Definitions. #####
 
-Link to an amendment published at 82 FR 60853, Dec. 26, 2017.
-
 As used in this part:
 
-(a) *Commission* means the Federal Election Commission, 999 E Street NW., Washington, DC 20463.
+(a) *Commission* means the Federal Election Commission.
 
 (b) *Commissioner* means a member of the Federal Election Commission, in accordance with 52 U.S.C. 30106.
 
@@ -16,4 +14,4 @@ As used in this part:
 
 (f) *Inspector General* means the individual appointed by the Commission to administer the provisions of the Inspector General Act of 1978, as amended (5 U.S.C. appendix), and includes any designee of the Inspector General.
 
-[76 FR 70330, Nov. 14, 2011, as amended at 79 FR 77844, Dec. 29, 2014]
+[76 FR 70330, Nov. 14, 2011, as amended at 79 FR 77844, Dec. 29, 2014; 82 FR 60853, Dec. 26, 2017]

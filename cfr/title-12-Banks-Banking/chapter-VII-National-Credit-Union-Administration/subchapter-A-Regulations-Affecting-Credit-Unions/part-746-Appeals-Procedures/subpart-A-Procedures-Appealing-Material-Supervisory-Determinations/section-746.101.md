@@ -1,0 +1,7 @@
+##### § 746.101 Authority, purpose, and scope. #####
+
+(a) *Authority.* This subpart is issued pursuant to section 309 of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4806), which requires the NCUA Board to establish an independent intra-agency appeals process to review appeals of material supervisory determinations made by NCUA staff, and sections 120 and 209 of the Federal Credit Union Act (12 U.S.C. 1766, 1789).
+
+(b) *Purpose.* The purpose of this subpart is to establish an expeditious review process for insured credit unions to appeal material supervisory determinations made by NCUA staff to an independent supervisory panel and, if applicable, to the NCUA Board. This subpart is also intended to establish appropriate safeguards for protecting insured credit unions from retaliation by NCUA staff.
+
+(c) *Scope.* This subpart applies to the appeal of material supervisory determinations made by NCUA staff. This subpart does not apply to the appeal of determinations for which an independent right to appeal exists such as a decision to appoint a conservator or liquidating agent for an insured credit union or to take prompt corrective action pursuant to section 216 of the Federal Credit Union Act (12 U.S.C. 1790d) and part 702 of this chapter. This subpart also does not apply to enforcement-related actions and decisions, including determinations and the underlying facts and circumstances that form the basis of a pending enforcement action.

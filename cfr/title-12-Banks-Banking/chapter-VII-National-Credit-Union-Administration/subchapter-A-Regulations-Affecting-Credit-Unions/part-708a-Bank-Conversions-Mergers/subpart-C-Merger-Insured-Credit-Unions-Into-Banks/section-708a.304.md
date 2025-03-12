@@ -1,7 +1,5 @@
 ##### § 708a.304 Notice to NCUA and request to proceed with member vote. #####
 
-Link to an amendment published at 82 FR 50293, Oct. 30, 2017.
-
 (a) *NIMRA.* If a credit union's board of directors adopts a proposal to merge, it must, within 30 days of the adoption, provide the Regional Director with a Notice of its Intent to Merge and Request for NCUA Authorization (NIMRA) to conduct a member vote. The NIMRA must include the following:
 
 (1) The merger plan (as described below in paragraph (b) of this section);
@@ -78,4 +76,6 @@ Link to an amendment published at 82 FR 50293, Oct. 30, 2017.
 
 (2) NCUA's authorization to proceed with the member vote does not mean NCUA has approved of the merger proposal.
 
-(h) *Appeal of adverse decision.* If the Regional Director disapproves a merger proposal, the credit union may appeal the Regional Director's determination to the Board. The credit union must file the appeal within 30 days after receipt of the Regional Director's determination. The Board will act on the appeal within 120 days of receipt.
+(h) *Appeal of adverse decision.* If the Regional Director disapproves a merger proposal, the credit union may request reconsideration and/or file an appeal with the NCUA Board in accordance with the procedures set forth in subpart B to part 746 of this chapter.
+
+[75 FR 81387, Dec. 28, 2010, as amended at 82 FR 50293, Oct. 30, 2017]

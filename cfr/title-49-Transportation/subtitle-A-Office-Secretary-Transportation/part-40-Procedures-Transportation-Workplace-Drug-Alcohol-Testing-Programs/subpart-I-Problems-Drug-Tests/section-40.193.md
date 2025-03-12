@@ -1,7 +1,5 @@
 ##### § 40.193 What happens when an employee does not provide a sufficient amount of urine for a drug test? #####
 
-Link to an amendment published at 82 FR 52245, Nov. 13, 2017.
-
 (a) This section prescribes procedures for situations in which an employee does not provide a sufficient amount of urine to permit a drug test (*i.e.,* 45 mL of urine).
 
 (b) As the collector, you must do the following:
@@ -12,7 +10,7 @@ Link to an amendment published at 82 FR 52245, Nov. 13, 2017.
 
 (3) If the employee refuses to make the attempt to provide a new urine specimen or leaves the collection site before the collection process is complete, you must discontinue the collection, note the fact on the “Remarks” line of the CCF (Step 2), and immediately notify the DER. This is a refusal to test.
 
-(4) If the employee has not provided a sufficient specimen within three hours of the first unsuccessful attempt to provide the specimen, you must discontinue the collection, note the fact on the “Remarks” line of the CCF (Step 2), and immediately notify the DER.
+(4) If the employee has not provided a sufficient specimen within three hours of the first unsuccessful attempt to provide the specimen, you must discontinue the collection, note the fact on the “Remarks” line of the CCF (Step 2), and immediately notify the DER. You must also discard any specimen the employee previously provided to include any specimen that is “out of temperature range” or shows signs of tampering. In the remarks section of the CCF that you will distribute to the MRO and DER, note the fact that the employee provided an “out of temperature range specimen” or “specimen that shows signs of tampering” and that it was discarded because the employee did not provide a second sufficient specimen.
 
 (5) Send Copy 2 of the CCF to the MRO and Copy 4 to the DER. You must send or fax these copies to the MRO and DER within 24 hours or the next business day.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 82 FR 52245, Nov. 13, 2017.
 
 (i) As the employer, when you receive a report from the MRO indicating that a test is cancelled as provided in paragraph (d)(1) of this section, you take no further action with respect to the employee. The employee remains in the random testing pool.
 
-[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41953, Aug. 9, 2001; 75 FR 59108, Sept. 27, 2010]
+[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41953, Aug. 9, 2001; 75 FR 59108, Sept. 27, 2010; 82 FR 52245, Nov. 13, 2017]

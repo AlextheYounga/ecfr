@@ -1,5 +1,7 @@
 ##### § 32.26 Materiality. #####
 
-Link to an amendment published at 82 FR 20840, May 4, 2017.
+(a) Except as provided in paragraph (b) of this section, companies may abide by the materiality standards of GAAP when implementing this system of accounts.
 
-Companies shall follow this system of accounts in recording all financial and statistical data irrespective of an individual item's materiality under GAAP, unless a waiver has been granted under the provisions of § 32.18 of this subpart to do otherwise.
+(b) For companies that receive High-Cost Loop Support, or Connect America Fund Broadband Loop Support, materiality shall be determined consistent with the general materiality guidelines promulgated by the Auditing Standards Board.
+
+[82 FR 20840, May 4, 2017]

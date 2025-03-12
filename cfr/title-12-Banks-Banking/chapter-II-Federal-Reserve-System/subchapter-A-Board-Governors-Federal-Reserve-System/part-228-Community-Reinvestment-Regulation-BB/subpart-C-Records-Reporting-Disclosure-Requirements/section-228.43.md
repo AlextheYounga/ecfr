@@ -1,7 +1,5 @@
 ##### § 228.43 Content and availability of public file. #####
 
-Link to an amendment published at 82 FR 55743, Nov. 24, 2017.
-
 (a) *Information available to the public.* A bank shall maintain a public file that includes the following information:
 
 (1) All written comments received from the public for the current year and each of the prior two calendar years that specifically relate to the bank's performance in helping to meet community credit needs, and any response to the comments by the bank, if neither the comments nor the responses contain statements that reflect adversely on the good name or reputation of any persons other than the bank or publication of which would violate specific provisions of law;
@@ -18,7 +16,7 @@ Link to an amendment published at 82 FR 55743, Nov. 24, 2017.
 
 (7) Any other information the bank chooses.
 
-(b) *Additional information available to the public* - (1) *Banks other than small banks.* A bank, except a small bank or a bank that was a small bank during the prior calendar year, shall include in its public file the following information pertaining to the bank and its affiliates, if applicable, for each of the prior two calendar years:
+(b) *Additional information available to the public*—(1) *Banks other than small banks.* A bank, except a small bank or a bank that was a small bank during the prior calendar year, shall include in its public file the following information pertaining to the bank and its affiliates, if applicable, for each of the prior two calendar years:
 
 (i) If the bank has elected to have one or more categories of its consumer loans considered under the lending test, for each of these categories, the number and amount of loans:
 
@@ -30,7 +28,7 @@ Link to an amendment published at 82 FR 55743, Nov. 24, 2017.
 
 (ii) The bank's CRA Disclosure Statement. The bank shall place the statement in the public file within three business days of its receipt from the Board.
 
-(2) *Banks required to report Home Mortgage Disclosure Act (HMDA) data.* A bank required to report home mortgage loan data pursuant to part 1003 of this chapter shall include in its public file a copy of the HMDA Disclosure Statement provided by the Federal Financial Institutions Examination Council pertaining to the bank for each of the prior two calendar years. In addition, a bank that elected to have the Board consider the mortgage lending of an affiliate for any of these years shall include in its public file the affiliate's HMDA Disclosure Statement for those years. The bank shall place the statement(s) in the public file within three business days after its receipt.
+(2) *Banks required to report Home Mortgage Disclosure Act (HMDA) data.* A bank required to report home mortgage loan data pursuant part 1003 of this title shall include in its public file a written notice that the institution's HMDA Disclosure Statement may be obtained on the Consumer Financial Protection Bureau's (Bureau's) Web site at *www.consumerfinance.gov/hmda*. In addition, a bank that elected to have the Board consider the mortgage lending of an affiliate shall include in its public file the name of the affiliate and a written notice that the affiliate's HMDA Disclosure Statement may be obtained at the Bureau's Web site. The bank shall place the written notice(s) in the public file within three business days after receiving notification from the Federal Financial Institutions Examination Council of the availability of the disclosure statement(s).
 
 (3) *Small banks.* A small bank or a bank that was a small bank during the prior calendar year shall include in its public file:
 
@@ -56,4 +54,4 @@ Link to an amendment published at 82 FR 55743, Nov. 24, 2017.
 
 (e) *Updating.* Except as otherwise provided in this section, a bank shall ensure that the information required by this section is current as of April 1 of each year.
 
-[Reg. BB, 60 FR 22195, May 4, 1995, as amended at 80 FR 81164, Dec. 29, 2015]
+[Reg. BB, 60 FR 22195, May 4, 1995, as amended at 80 FR 81164, Dec. 29, 2015; 82 FR 55743, Nov. 24, 2017]

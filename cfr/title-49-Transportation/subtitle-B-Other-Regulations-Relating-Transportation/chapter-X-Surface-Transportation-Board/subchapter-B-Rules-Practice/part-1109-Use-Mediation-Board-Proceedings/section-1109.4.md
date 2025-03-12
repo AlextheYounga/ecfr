@@ -1,10 +1,8 @@
 ##### § 1109.4 Mandatory mediation in rate cases to be considered under the stand-alone cost methodology. #####
 
-Link to an amendment published at 82 FR 57379, Dec. 5, 2017.
+(a) *Mandatory use of mediation.* A shipper seeking rate relief from a railroad or railroads in a case involving the stand-alone cost methodology must engage in non-binding mediation of its dispute with the railroad upon submitting a pre-filing notice under 49 CFR part 1111.
 
-(a) *Mandatory use of mediation.* A shipper seeking rate relief from a railroad or railroads in a case involving the stand-alone cost methodology must engage in non-binding mediation of its dispute with the railroad upon filing a formal complaint under 49 CFR part 1111.
-
-(b) *Assignment of mediators.* Within 10 business days after the shipper files its formal complaint, the Board will assign one or more mediators to the case. Within 5 business days of the assignment to mediate, the mediator(s) shall contact the parties to discuss ground rules and the time and location of any meeting.
+(b) *Assignment of mediators.* Within 5 business days after the shipper submits its pre-filing notice, the Board will assign one or more mediators to the case. Within 5 business days of the assignment to mediate, the mediator(s) shall contact the parties to discuss ground rules and the time and location of any meeting.
 
 (c) *Party representatives.* At least one principal of each party, who has the authority to bind that party, shall participate in the mediation and be present at any session at which the mediator(s) requests that the principal be present.
 
@@ -14,4 +12,6 @@ Link to an amendment published at 82 FR 57379, Dec. 5, 2017.
 
 (f) *Mediation period.* The mediation shall be completed within 60 days of the appointment of the mediator(s). The mediation may be terminated prior to the end of the 60-day period only with the certification of the mediator(s) to the Board. Requests to extend mediation, or to re-engage it later, will be entertained on a case-by-case basis, but only if filed by all interested parties.
 
-(g) *Procedural schedule.* Absent a specific order from the Board, the onset of mediation will not affect the procedural schedule in stand alone cost rate cases set forth at 49 CFR 1111.8(a).
+(g) *Procedural schedule.* Absent a specific order from the Board granting an extension, the mediation will not affect the procedural schedule in stand-alone cost rate cases set forth at 49 CFR 1111.9(a).
+
+[78 FR 29083, May 17, 2013, as amended at 82 FR 57378, Dec. 5, 2017]

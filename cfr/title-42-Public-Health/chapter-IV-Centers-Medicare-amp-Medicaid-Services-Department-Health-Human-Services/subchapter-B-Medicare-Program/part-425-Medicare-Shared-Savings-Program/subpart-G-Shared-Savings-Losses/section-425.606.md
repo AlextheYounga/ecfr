@@ -1,6 +1,6 @@
 ##### § 425.606 Calculation of shared savings and losses under Track 2. #####
 
-Link to an amendment published at 82 FR 53370, Nov. 15, 2017.Link to an amendment published at 82 FR 60918, Dec. 26, 2017.
+Link to an amendment published at 82 FR 60918, Dec. 26, 2017.
 
 (a) *General rule.* For each performance year, CMS determines whether the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services are above or below the updated benchmark determined under § 425.602. In order to qualify for a shared savings payment under Track 2, or to be responsible for sharing losses with CMS, an ACO's average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services for the performance year must be below or above the updated benchmark, respectively, by at least the minimum savings or loss rate under paragraph (b) of this section.
 
@@ -31,6 +31,10 @@ Link to an amendment published at 82 FR 53370, Nov. 15, 2017.Link to an amendmen
 (i) These calculations will exclude indirect medical education (IME) and disproportionate share hospital (DSH) payments.
 
 (ii) These calculations will take into consideration individually beneficiary identifiable payments made under a demonstration, pilot or time limited program.
+
+(A) For performance years beginning before 2018, these calculations will take into consideration all individually beneficiary identifiable payments, including interim payments, made under a demonstration, pilot or time limited program.
+
+(B) For performance year 2018 and subsequent performance years, these calculations will take into consideration individually beneficiary identifiable final payments made under a demonstration, pilot or time limited program.
 
 (7) In order to qualify for a shared savings payment, the ACO's average per capita Medicare expenditures for the performance year must be below the applicable updated benchmark by at least the minimum savings rate established for the ACO under paragraph (b) of this section.
 
@@ -76,4 +80,4 @@ Link to an amendment published at 82 FR 53370, Nov. 15, 2017.Link to an amendmen
 
 (3) If an ACO has shared losses, the ACO must make payment in full to CMS within 90 days of receipt of notification.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32842, June 9, 2015; 81 FR 38017, June 10, 2016]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32842, June 9, 2015; 81 FR 38017, June 10, 2016; 82 FR 53370, Nov. 15, 2017]

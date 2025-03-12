@@ -1,10 +1,8 @@
 ##### § 1605.11 Makeup of missed or insufficient contributions. #####
 
-Link to an amendment published at 82 FR 60104, Dec. 19, 2017.
-
 (a) *Applicability.* This section applies whenever, as the result of an employing agency error, a participant does not receive all of the TSP contributions to which he or she is entitled. This includes situations in which an employing agency error prevents a participant from making an election to contribute to his or her TSP account, in which an employing agency fails to implement a contribution election properly submitted by a participant, in which an employing agency fails to make agency automatic (1%) contributions or agency matching contributions that it is required to make, or in which an employing agency otherwise erroneously contributes less to the TSP for a participant's account than it should have. The corrections required by this section must be made in accordance with this part and the procedures provided to employing agencies by the Board in bulletins or other guidance. It is the responsibility of the employing agency to determine whether it has made an error that entitles a participant to error correction under this section.
 
-(b) *Employer makeup contributions.* If an employing agency has failed to make agency automatic (1%) contributions that are required under 5 U.S.C. 8432(c)(1)(A), agency matching contributions that are required under section 8432(c)(2), or matching contributions that are authorized under 37 U.S.C. 211(d), the following rules apply:
+(b) *Employer makeup contributions.* If an employing agency has failed to make Agency Automatic (1%) Contributions that are required under 5 U.S.C. 8432(c)(1)(A) and 5 U.S.C. 8440e(e)(3)(A), or Agency Matching Contributions that are required under section 8432(c)(2) and 5 U.S.C. 8440e(e)(3)(B), the following rules apply:
 
 (1) The employing agency must promptly submit all missed contributions to the TSP record keeper on behalf of the affected participant. For each pay date involved, the employing agency must submit a separate payment record showing the “as of” date for the contributions.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 82 FR 60104, Dec. 19, 2017.
 
 (2) At its discretion, an employing agency may set a ceiling on the length of a schedule of employee makeup contributions. The ceiling may not, however, be less than twice the number of months it would take for the uniformed service member to earn basic pay equal to the dollar amount of the missed contribution.
 
-[68 FR 35498, June 13, 2003, as amended at 70 FR 32210, June 1, 2005; 77 FR 26425, May 4, 2012]
+[68 FR 35498, June 13, 2003, as amended at 70 FR 32210, June 1, 2005; 77 FR 26425, May 4, 2012; 82 FR 60104, Dec. 19, 2017]

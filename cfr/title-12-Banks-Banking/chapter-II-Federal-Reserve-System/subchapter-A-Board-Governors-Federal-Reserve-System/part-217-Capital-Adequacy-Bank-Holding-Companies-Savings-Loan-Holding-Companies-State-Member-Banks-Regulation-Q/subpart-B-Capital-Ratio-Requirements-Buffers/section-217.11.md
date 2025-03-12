@@ -1,7 +1,5 @@
 ##### § 217.11 Capital conservation buffer, countercyclical capital buffer amount, and GSIB surcharge. #####
 
-Link to an amendment published at 79 FR 24540, May 1, 2014.Link to an amendment published at 80 FR 49103, Aug. 14, 2015.
-
 (a) *Capital conservation buffer.* (1) *Composition of the capital conservation buffer.* The capital conservation buffer is composed solely of common equity tier 1 capital.
 
 (2) *Definitions.* For purposes of this section, the following definitions apply:
@@ -14,6 +12,10 @@ Link to an amendment published at 79 FR 24540, May 1, 2014.Link to an amendment 
 
 (iv) *Private sector credit exposure.* Private sector credit exposure means an exposure to a company or an individual that is not an exposure to a sovereign, the Bank for International Settlements, the European Central Bank, the European Commission, the International Monetary Fund, a MDB, a PSE, or a GSE.
 
+(v) *Maximum leverage payout ratio.* The maximum leverage payout ratio is the percentage of eligible retained income that a global systemically important BHC can pay out in the form of distributions and discretionary bonus payments during the current calendar quarter. The maximum leverage payout ratio is based on the global systemically important BHC's leverage buffer, calculated as of the last day of the previous calendar quarter, as set forth in Table 2 of this section.
+
+(vi) *Maximum leverage payout amount.* A global systemically important BHC's maximum leverage payout amount for the current calendar quarter is equal to the global systemically important BHC's eligible retained income, multiplied by the applicable maximum leverage payout ratio, as set forth in Table 2 of this section.
+
 (3) *Calculation of capital conservation buffer.* (i) A Board-regulated institution's capital conservation buffer is equal to the lowest of the following ratios, calculated as of the last day of the previous calendar quarter based on the Board-regulated institution's most recent Call Report, for a state member bank, or FR Y-9C, for a bank holding company or savings and loan holding company, as applicable:
 
 (A) The Board-regulated institution's common equity tier 1 capital ratio minus the Board-regulated institution's minimum common equity tier 1 capital ratio requirement under § 217.10;
@@ -24,29 +26,15 @@ Link to an amendment published at 79 FR 24540, May 1, 2014.Link to an amendment 
 
 (ii) Notwithstanding paragraphs (a)(3)(i)(A)-(C) of this section, if the Board-regulated institution's common equity tier 1, tier 1 or total capital ratio is less than or equal to the Board-regulated institution's minimum common equity tier 1, tier 1 or total capital ratio requirement under § 217.10, respectively, the Board-regulated institution's capital conservation buffer is zero.
 
-(4) *Limits on distributions and discretionary bonus payments.* (i) A Board-regulated institution shall not make distributions or discretionary bonus payments or create an obligation to make such distributions or payments during the current calendar quarter that, in the aggregate, exceed the maximum payout amount.
+(4) *Limits on distributions and discretionary bonus payments.* (i) A Board-regulated institution shall not make distributions or discretionary bonus payments or create an obligation to make such distributions or payments during the current calendar quarter that, in the aggregate, exceed the maximum payout amount or, as applicable, the maximum leverage payout amount.
 
-(ii) A Board-regulated institution with a capital conservation buffer that is greater than 2.5 percent plus 100 percent of its applicable countercyclical capital buffer in accordance with paragraph (b) of this section, and 100 percent of its applicable GSIB surcharge, in accordance with paragraph (c) of this section, is not subject to a maximum payout amount under this section.
+(ii) A Board-regulated institution that has a capital conservation buffer that is greater than 2.5 percent plus 100 percent of its applicable countercyclical capital buffer, in accordance with paragraph (b) of this section, and, if applicable, that has a leverage buffer that is greater than 2.0 percent, in accordance with paragraph (c) of this section, is not subject to a maximum payout amount or maximum leverage payout amount under this section.
 
 (iii) *Negative eligible retained income.* Except as provided in paragraph (a)(4)(iv) of this section, a Board-regulated institution may not make distributions or discretionary bonus payments during the current calendar quarter if the Board-regulated institution's:
 
 (A) Eligible retained income is negative; and
 
-(B) Capital conservation buffer was less than 2.5 percent as of the end of the previous calendar quarter.
-
-(iv) *Prior approval.* Notwithstanding the limitations in paragraphs (a)(4)(i) through (iii) of this section, the Board may permit a Board-regulated institution to make a distribution or discretionary bonus payment upon a request of the Board-regulated institution, if the Board determines that the distribution or discretionary bonus payment would not be contrary to the purposes of this section, or to the safety and soundness of the Board-regulated institution. In making such a determination, the Board will consider the nature and extent of the request and the particular circumstances giving rise to the request.
-
-Table 1 to § 217.11 - Calculation of Maximum Payout Amount
-
-|                                                                                                                                                                                                        Capital conservation buffer                                                                                                                                                                                                        |Maximum payout ratio  <br/>(as a percentage of  <br/>eligible retained income)|
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-|                                                                                                              Greater than 2.5 percent plus 100 percent of the Board-regulated institution's applicable countercyclical capital buffer amount and 100 percent of the Board-regulated institution's applicable GSIB surcharge                                                                                                               |                     No payout ratio limitation applies.                      |
-|Less than or equal to 2.5 percent plus 100 percent of the Board-regulated institution's applicable countercyclical capital buffer amount and 100 percent of the Board-regulated institution's applicable GSIB surcharge, and greater than 1.875 percent plus 75 percent of the Board-regulated institution's applicable countercyclical capital buffer amount and 75 percent of the Board-regulated institution's applicable GSIB surcharge|                                 60 percent.                                  |
-|Less than or equal to 1.875 percent plus 75 percent of the Board-regulated institution's applicable countercyclical capital buffer amount and 75 percent of the Board-regulated institution's applicable GSIB surcharge, and greater than 1.25 percent plus 50 percent of the Board-regulated institution's applicable countercyclical capital buffer amount and 50 percent of the Board-regulated institution's applicable GSIB surcharge |                                 40 percent.                                  |
-|Less than or equal to 1.25 percent plus 50 percent of the Board-regulated institution's applicable countercyclical capital buffer amount and 50 percent of the Board-regulated institution's applicable GSIB surcharge, and greater than 0.625 percent plus 25 percent of the Board-regulated institution's applicable countercyclical capital buffer amount and 25 percent of the Board-regulated institution's applicable GSIB surcharge |                                 20 percent.                                  |
-|                                                                                                          Less than or equal to 0.625 percent plus 25 percent of the Board-regulated institution's applicable countercyclical capital buffer amount and 25 percent of the Board-regulated institution's applicable GSIB surcharge                                                                                                          |                                  0 percent.                                  |
-
-(v) *Other limitations on distributions.* Additional limitations on distributions may apply to a Board-regulated institution under 12 CFR 225.4, 12 CFR 225.8, and 12 CFR 263.202.
+(B) Capital conservation buffer was less than 2.5 percent, or, if applicable, leverage buffer was less than 2.0 percent, as of the end of the previous calendar quarter.
 
 (b) *Countercyclical capital buffer amount.* (1) *General.* An advanced approaches Board-regulated institution must calculate a countercyclical capital buffer amount in accordance with the following paragraphs for purposes of determining its maximum payout ratio under Table 1 to § 217.11.
 
@@ -82,4 +70,22 @@ Table 1 to § 217.11 - Calculation of Maximum Payout Amount
 
 (c) *GSIB surcharge.* A global systemically important BHC must use its GSIB surcharge calculated in accordance with subpart H of this part for purposes of determining its maximum payout ratio under Table 1 to § 217.11.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 78295, Dec. 30, 2014; 80 FR 49103, Aug. 14, 2015]
+(d) *Leverage buffer* - (1) *General.* A global systemically important BHC is subject to the lower of the maximum payout amount as determined under paragraph (a)(2)(iii) of this section and the maximum leverage payout amount as determined under paragraph (a)(2)(vi) of this section.
+
+(2) *Composition of the leverage buffer.* The leverage buffer is composed solely of tier 1 capital.
+
+(3) *Calculation of the leverage buffer.* (i) A global systemically important BHC's leverage buffer is equal to the global systemically important BHC's supplementary leverage ratio minus 3 percent, calculated as of the last day of the previous calendar quarter based on the global systemically important BHC's most recent Consolidated Financial Statement for Bank Holding Companies (FR Y-9C).
+
+(ii) Notwithstanding paragraph (c)(3)(i) of this section, if the global systemically important BHC's supplementary leverage ratio is less than or equal to 3 percent, the global systemically important BHC's leverage buffer is zero.
+
+Table 2 to § 217.11 - Calculation of Maximum Leverage Payout Amount
+
+|                        Leverage buffer                        |Maximum leverage payout ratio  <br/>(as a percentage of eligible retained  <br/>income)|
+|---------------------------------------------------------------|---------------------------------------------------------------------------------------|
+|                   Greater than 2.0 percent                    |                          No payout ratio limitation applies.                          |
+|Less than or equal to 2.0 percent, and greater than 1.5 percent|                                      60 percent.                                      |
+|Less than or equal to 1.5 percent, and greater than 1.0 percent|                                      40 percent.                                      |
+|Less than or equal to 1.0 percent, and greater than 0.5 percent|                                      20 percent.                                      |
+|               Less than or equal to 0.5 percent               |                                      0 percent.                                       |
+
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 24540, May 1, 2014; 79 FR 78295, Dec. 30, 2014; 80 FR 49103, Aug. 14, 2015]

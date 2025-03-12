@@ -1,7 +1,5 @@
 ##### § 2560.503-1 Claims procedure. #####
 
-Link to an amendment published at 82 FR 56566, Nov. 29, 2017.
-
 (a) *Scope and purpose.* In accordance with the authority of sections 503 and 505 of the Employee Retirement Income Security Act of 1974 (ERISA or the Act), 29 U.S.C. 1133, 1135, this section sets forth minimum requirements for employee benefit plan procedures pertaining to claims for benefits by participants and beneficiaries (hereinafter referred to as claimants). Except as otherwise specifically provided in this section, these requirements apply to every employee benefit plan described in section 4(a) and not exempted under section 4(b) of the Act.
 
 (b) *Obligation to establish and maintain reasonable claims procedures.* Every employee benefit plan shall establish and maintain reasonable procedures governing the filing of benefit claims, notification of benefit determinations, and appeal of adverse benefit determinations (hereinafter collectively referred to as claims procedures). The claims procedures for a plan will be deemed to be reasonable only if -
@@ -286,9 +284,9 @@ Link to an amendment published at 82 FR 56566, Nov. 29, 2017.
 
 (2) This section shall apply to claims filed under a group health plan on or after the first day of the first plan year beginning on or after July 1, 2002, but in no event later than January 1, 2003.
 
-(3) Paragraphs (b)(7), (g)(1)(vii) and (viii), (j)(4)(ii), (j)(6) and (7), (l)(2), (m)(4)(ii), and (o) of this section shall apply to claims for disability benefits filed under a plan on or after January 1, 2018, in addition to the other paragraphs in this rule applicable to such claims.
+(3) Paragraphs (b)(7), (g)(1)(vii) and (viii), (j)(4)(ii), (j)(6) and (7), (l)(2), (m)(4)(ii), and (o) of this section shall apply to claims for disability benefits filed under a plan after April 1, 2018, in addition to the other paragraphs in this rule applicable to such claims.
 
-(4) With respect to claims for disability benefits filed under a plan from January 18, 2017 through December 31, 2017, this paragraph (p)(4) shall apply instead of paragraphs (g)(1)(vii), (g)(1)(viii), (h)(4), (j)(6) and (j)(7).
+(4) With respect to claims for disability benefits filed under a plan from January 18, 2017 through April 1, 2018, this paragraph (p)(4) shall apply instead of paragraphs (g)(1)(vii), (g)(1)(viii), (h)(4), (j)(6) and (j)(7).
 
 (i) In the case of a notification of benefit determination and a notification of benefit determination on review by a plan providing disability benefits, the notification shall set forth, in a manner calculated to be understood by the claimant -
 
@@ -298,4 +296,4 @@ Link to an amendment published at 82 FR 56566, Nov. 29, 2017.
 
 (ii) The claims procedures of a plan providing disability benefits will not, with respect to claims for such benefits, be deemed to provide a claimant with a reasonable opportunity for a full and fair review of a claim and adverse benefit determination unless the claims procedures comply with the requirements of paragraphs (h)(2)(ii) through (iv) and (h)(3)(i) through (v) of this section.
 
-[65 FR 70265, Nov. 21, 2000, as amended at 66 FR 35887, July 9, 2001; 81 FR 92341, Dec. 19, 2016]
+[65 FR 70265, Nov. 21, 2000, as amended at 66 FR 35887, July 9, 2001; 81 FR 92341, Dec. 19, 2016; 82 FR 56566, Nov. 29, 2017]

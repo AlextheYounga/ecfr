@@ -1,7 +1,5 @@
 ##### § 25.12 Definitions. #####
 
-Link to an amendment published at 82 FR 55742, Nov. 24, 2017.Link to an amendment published at 82 FR 61144, Dec. 27, 2017.
-
 For purposes of this part, the following definitions apply:
 
 (a) *Affiliate* means any company that controls, is controlled by, or is under common control with another company. The term “control” has the meaning given to that term in 12 U.S.C. 1841(a)(2), and a company is under common control with another company if both companies are directly or indirectly controlled by the same company.
@@ -26,7 +24,7 @@ For purposes of this part, the following definitions apply:
 
 (2) Community services targeted to low- or moderate-income individuals;
 
-(3) Activities that promote economic development by financing businesses or farms that meet the size eligibility standards of the Small Business Administration's Development Company or Small Business Investment Company programs (13 CFR 121.301) or have gross annual revenues of $1 million or less;
+(3) Activities that promote economic development by financing businesses or farms that meet the size eligibility standards of the Small Business Administration's Development Company or Small Business Investment Company programs (13 CFR 121.301) or have gross annual revenues of $1 million or less; or
 
 (4) Activities that revitalize or stabilize -
 
@@ -38,15 +36,7 @@ For purposes of this part, the following definitions apply:
 
 (A) Rates of poverty, unemployment, and population loss; or
 
-(B) Population size, density, and dispersion. Activities revitalize and stabilize geographies designated based on population size, density, and dispersion if they help to meet essential community needs, including needs of low- and moderate-income individuals; or
-
-(5) Loans, investments, and services that -
-
-(i) Support, enable or facilitate projects or activities that meet the “eligible uses” criteria described in Section 2301(c) of the Housing and Economic Recovery Act of 2008 (HERA), Public Law 110-289, 122 Stat. 2654, as amended, and are conducted in designated target areas identified in plans approved by the United States Department of Housing and Urban Development in accordance with the Neighborhood Stabilization Program (NSP);
-
-(ii) Are provided no later than two years after the last date funds appropriated for the NSP are required to be spent by grantees; and
-
-(iii) Benefit low-, moderate-, and middle-income individuals and geographies in the bank's assessment area(s) or areas outside the bank's assessment area(s) provided the bank has adequately addressed the community development needs of its assessment area(s).
+(B) Population size, density, and dispersion. Activities revitalize and stabilize geographies designated based on population size, density, and dispersion if they help to meet essential community needs, including needs of low- and moderate-income individuals.
 
 (h) *Community development loan* means a loan that:
 
@@ -54,7 +44,7 @@ For purposes of this part, the following definitions apply:
 
 (2) Except in the case of a wholesale or limited purpose bank:
 
-(i) Has not been reported or collected by the bank or an affiliate for consideration in the bank's assessment as a home mortgage, small business, small farm, or consumer loan, unless it is a multifamily dwelling loan (as described in appendix A to part 1003 of this title); and
+(i) Has not been reported or collected by the bank or an affiliate for consideration in the bank's assessment as a home mortgage, small business, small farm, or consumer loan, unless the loan is for a multifamily dwelling (as defined in § 1003.2(n) of this title); and
 
 (ii) Benefits the bank's assessment area(s) or a broader statewide or regional area that includes the bank's assessment area(s).
 
@@ -72,15 +62,13 @@ For purposes of this part, the following definitions apply:
 
 (2) *Credit card loan,* which is a line of credit for household, family, or other personal expenditures that is accessed by a borrower's use of a “credit card,” as this term is defined in § 1026.2 of this title;
 
-(3) *Home equity loan,* which is a consumer loan secured by a residence of the borrower;
+(3) *Other secured consumer loan,* which is a secured consumer loan that is not included in one of the other categories of consumer loans; and
 
-(4) *Other secured consumer loan,* which is a secured consumer loan that is not included in one of the other categories of consumer loans; and
-
-(5) *Other unsecured consumer loan,* which is an unsecured consumer loan that is not included in one of the other categories of consumer loans.
+(4) *Other unsecured consumer loan,* which is an unsecured consumer loan that is not included in one of the other categories of consumer loans.
 
 (k) *Geography* means a census tract delineated by the United States Bureau of the Census in the most recent decennial census.
 
-(l) *Home mortgage loan* means a “home improvement loan,” “home purchase loan,” or a “refinancing” as defined in § 1003.2 of this title.
+(l) *Home mortgage loan* means a closed-end mortgage loan or an open-end line of credit as these terms are defined under § 1003.2 of this title, and that is not an excluded transaction under § 1003.3(c)(1) through (10) and (13) of this title.
 
 (m) *Income level* includes:
 
@@ -112,7 +100,7 @@ For purposes of this part, the following definitions apply:
 
 (t) *Qualified investment* means a lawful investment, deposit, membership share, or grant that has as its primary purpose community development.
 
-(u) *Small bank* - (1) *Definition. Small bank* means a bank that, as of December 31 of either of the prior two calendar years, had assets of less than $1.226 billion. *Intermediate small bank* means a small bank with assets of at least $307 million as of December 31 of both of the prior two calendar years and less than $1.226 billion as of December 31 of either of the prior two calendar years.
+(u) *Small bank* - (1) *Definition. Small bank* means a bank that, as of December 31 of either of the prior two calendar years, had assets of less than $1.252 billion. *Intermediate small bank* means a small bank with assets of at least $313 million as of December 31 of both of the prior two calendar years and less than $1.252 billion as of December 31 of either of the prior two calendar years.
 
 (2) *Adjustment.* The dollar figures in paragraph (u)(1) of this section shall be adjusted annually and published by the OCC, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve-month period ending in November, with rounding to the nearest million.
 
@@ -122,4 +110,4 @@ For purposes of this part, the following definitions apply:
 
 (x) *Wholesale bank* means a bank that is not in the business of extending home mortgage, small business, small farm, or consumer loans to retail customers, and for which a designation as a wholesale bank is in effect, in accordance with § 25.25(b).
 
-[60 FR 22178, May 4, 1995, as amended at 60 FR 66050, Dec. 20, 1995; 61 FR 21363, May 10, 1996; 69 FR 41186, July 8, 2004; 70 FR 44266, Aug. 2, 2005; 71 FR 78336, Dec. 29, 2006; 72 FR 72573, Dec. 21, 2007; 73 FR 78154, Dec. 22, 2008; 74 FR 68663, Dec. 29, 2009; 75 FR 79285, Dec. 20, 2010; 75 FR 82218, Dec. 30, 2010; 76 FR 79530, Dec. 22, 2011; 77 FR 75523, Dec. 21, 2012; 78 FR 79284, Dec. 30, 2013; 79 FR 77853, Dec. 29, 2014; 80 FR 81164, Dec. 29, 2015; 82 FR 5355, Jan. 18, 2017]
+[60 FR 22178, May 4, 1995, as amended at 60 FR 66050, Dec. 20, 1995; 61 FR 21363, May 10, 1996; 69 FR 41186, July 8, 2004; 70 FR 44266, Aug. 2, 2005; 71 FR 78336, Dec. 29, 2006; 72 FR 72573, Dec. 21, 2007; 73 FR 78154, Dec. 22, 2008; 74 FR 68663, Dec. 29, 2009; 75 FR 79285, Dec. 20, 2010; 75 FR 82218, Dec. 30, 2010; 76 FR 79530, Dec. 22, 2011; 77 FR 75523, Dec. 21, 2012; 78 FR 79284, Dec. 30, 2013; 79 FR 77853, Dec. 29, 2014; 80 FR 81164, Dec. 29, 2015; 82 FR 5355, Jan. 18, 2017; 82 FR 55742, Nov. 24, 2017; 82 FR 61144, Dec. 27, 2017]

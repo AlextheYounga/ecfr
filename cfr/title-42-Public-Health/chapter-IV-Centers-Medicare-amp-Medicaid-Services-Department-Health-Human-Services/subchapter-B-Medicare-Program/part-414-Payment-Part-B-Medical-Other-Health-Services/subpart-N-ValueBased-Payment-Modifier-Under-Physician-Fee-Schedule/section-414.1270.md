@@ -1,10 +1,8 @@
 ##### § 414.1270 Determination and calculation of Value-Based Payment Modifier adjustments. #####
 
-Link to an amendment published at 82 FR 53363, Nov. 15, 2017.
-
 (a) For the CY 2015 payment adjustment period:
 
-(1) *Downward payment adjustments.* A downward payment adjustment will be applied to a group of physicians subject to the value-based payment modifier if -
+(1) *Downward payment adjustments.* A downward payment adjustment will be applied to a group of physicians subject to the value-based payment modifier if—
 
 (i) Such group neither self-nominates for the PQRS GPRO and reports at least one measure, nor elects the PQRS administrative claims option for CY 2013 as defined in § 414.90(h).
 
@@ -58,13 +56,15 @@ Link to an amendment published at 82 FR 53363, Nov. 15, 2017.
 
 (d) For the CY 2018 payment adjustment period:
 
-(1) A downward payment adjustment of −2.0 percent will be applied to a group with two to nine eligible professionals and a solo practitioner, a downward payment adjustment of −4.0 percent will be applied to a group with 10 or more eligible professionals, and a downward payment adjustment of −2.0 percent will be applied to a group or solo practitioner consisting of nonphysician eligible professionals subject to the value-based payment modifier if, during the applicable performance period as defined in § 414.1215, the following apply:
+(1) A downward payment adjustment of −1.0 percent will be applied to a solo practitioner, a group with two to nine eligible professionals, and a group consisting only of nonphysician eligible professionals subject to the value-based payment modifier and no physicians; and a downward payment adjustment of −2.0 percent will be applied to a group with 10 or more eligible professionals and at least one physician if, during the applicable performance period as defined in § 414.1215, the following apply:
 
-(i) Such group does not meet the criteria as a group to avoid the PQRS payment adjustment for CY 2018 as specified by CMS; and
+(i) For groups:
 
-(ii) Fifty percent of the eligible professionals in such group do not meet the criteria as individuals to avoid the PQRS payment adjustment for CY 2018 as specified by CMS; or
+(A) Such group does not meet the criteria as a group to avoid the PQRS payment adjustment for CY 2018 as specified by CMS; and
 
-(iii) Such solo practitioner does not meet the criteria as an individual to avoid the PQRS payment adjustment for CY 2018 as specified by CMS.
+(B) Fifty percent of the eligible professionals in such group do not meet the criteria as individuals to avoid the PQRS payment adjustment for CY 2018 as specified by CMS.
+
+(ii) For solo practitioners, such solo practitioner does not meet the criteria as an individual to avoid the PQRS payment adjustment for CY 2018 as specified by CMS.
 
 (2) For a group composed of 10 or more eligible professionals that is not included in paragraph (d)(1) of this section, the value-based payment modifier adjustment will be equal to the amount determined under § 414.1275(c)(4)(i).
 
@@ -74,4 +74,4 @@ Link to an amendment published at 82 FR 53363, Nov. 15, 2017.
 
 (5) If at least 50 percent of the eligible professionals in the group meet the criteria as individuals to avoid the PQRS payment adjustment for CY 2018 as specified by CMS, and all of those eligible professionals use a qualified clinical data registry and CMS is unable to receive quality performance data for them, the quality composite score for such group will be classified as “average” under § 414.1275(b)(1).
 
-[78 FR 74821, Dec. 10, 2013, as amended at 79 FR 68007, Nov. 13, 2014; 80 FR 71384, Nov. 16, 2015]
+[78 FR 74821, Dec. 10, 2013, as amended at 79 FR 68007, Nov. 13, 2014; 80 FR 71384, Nov. 16, 2015; 82 FR 53363, Nov. 15, 2017]

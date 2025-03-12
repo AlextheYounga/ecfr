@@ -1,7 +1,5 @@
 ##### § 425.204 Content of the application. #####
 
-Link to an amendment published at 82 FR 53369, Nov. 15, 2017.
-
 (a) *Accountability for beneficiaries.* As part of its application and participation agreement, the ACO must certify that the ACO, its ACO participants, and its ACO providers/suppliers have agreed to become accountable for the quality, cost, and overall care of the Medicare fee-for-service beneficiaries assigned to the ACO.
 
 (b) *Disclosure of prior participation.* (1) The ACO must disclose to CMS whether the ACO, its ACO participants, or its ACO providers/suppliers have participated in the Medicare Shared Savings Program under the same or a different name, or is related to or has an affiliation with another Shared Savings Program ACO.
@@ -10,7 +8,7 @@ Link to an amendment published at 82 FR 53369, Nov. 15, 2017.
 
 (3) If the ACO, ACO participant, or ACO provider/supplier was previously terminated from the Shared Savings Program, the ACO must identify the cause of termination and what safeguards are now in place to enable the ACO, ACO participant, or ACO provider/supplier to participate in the program for the full term of the participation agreement.
 
-(c) *Eligibility.* (1) As part of its application, and upon request thereafter, an ACO must submit to CMS the following supporting materials to demonstrate that the ACO satisfies the requirements set forth in this part:
+(c) *Eligibility.* (1) As part of its application, an ACO must certify that the ACO satisfies the requirements set forth in this part. Upon request, the ACO must submit the following supporting materials to demonstrate that it satisfies the requirements set forth in this part:
 
 (i) Documents (for example, ACO participant agreements, agreements with ACO providers/suppliers, employment contracts, and operating policies) sufficient to describe the ACO participants' and ACO providers'/suppliers' rights and obligations in and representation by the ACO, and how the opportunity to receive shared savings or other financial arrangements will encourage ACO participants and ACO providers/suppliers to adhere to the quality assurance and improvement program and evidence-based clinical guidelines.
 
@@ -68,23 +66,11 @@ Link to an amendment published at 82 FR 53369, Nov. 15, 2017.
 
 (ii) ACOs must also submit any other specific identifying information as required by CMS in the application process.
 
-(iii) If the ACO includes an FQHC or RHC as an ACO participant, it must also do the following:
-
-(A) Indicate the TINs, organizational NPIs, and other identifying information for its participant FQHCs or RHCs or both, as well as NPIs and other identifying information for the physicians that directly provide primary care services in the participant FQHCs or RHCs or both.
-
-(B) Submit any other specific identifying information for its participant FQHCs or RHCs or both as required by CMS in the application process.
-
-(iv) The ACO must certify the accuracy of this information.
+(iii) The ACO must certify the accuracy of this information.
 
 (6) As part of the application process and upon request by CMS, the ACO must submit documents demonstrating that its ACO participants, ACO providers/suppliers, and other individuals or entities performing functions or services related to ACO activities are required to comply with the requirements of the Shared Savings Program. The evidence to be submitted must include, without limitation, sample or form agreements and, in the case of ACO participant agreements, the first and signature page(s) of each executed ACO participant agreement. CMS may request all pages of an executed ACO participant agreement to confirm that it conforms to the sample form agreement submitted by the ACO. The ACO must certify that all of its ACO participant agreements comply with the requirements of this part.
 
-(d) *Distribution of savings.* As part of its application to participate in the Shared Savings Program, an ACO must describe the following:
-
-(1) How it plans to use shared savings payments, including the criteria it plans to employ for distributing shared savings among its ACO participants and ACO providers/suppliers.
-
-(2) How the proposed plan will achieve the specific goals of the Shared Savings Program.
-
-(3) How the proposed plan will achieve the general aims of better care for individuals, better health for populations, and lower growth in expenditures.
+(d) *Distribution of savings.* As part of its application to participate in the Shared Savings Program, an ACO must certify it has a mechanism and plan to receive and use payments for shared savings, including criteria for distributing shared savings among its ACO participants and ACO providers/suppliers.
 
 (e) *Selection of track and option for interim payment calculation.* (1) As part of its application, an ACO must specify the Track for which it is applying (as described in § 425.600).
 
@@ -126,4 +112,4 @@ Link to an amendment published at 82 FR 53369, Nov. 15, 2017.
 
 (ii) Documentation sufficient to demonstrate that the acquired entity's TIN was merged with or purchased by the ACO participant.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32837, June 9, 2015; 81 FR 80559, Nov. 15, 2016]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32837, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 82 FR 53369, Nov. 15, 2017]

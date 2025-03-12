@@ -42,8 +42,6 @@
 
 (11) *Longline bag limits.* Other provisions of this paragraph (b) notwithstanding, a person on a trip aboard a vessel for which the bag limits apply that has a longline on board is limited on that trip to the bag limit for South Atlantic snapper-grouper for which a bag limit is specified in this paragraph (b), and to zero for all other South Atlantic snapper-grouper. For the purposes of this paragraph (b)(11), a vessel is considered to have a longline on board when a power-operated longline hauler, a cable or monofilament of diameter and length suitable for use in the longline fishery, and gangions are on board. Removal of any one of these elements constitutes removal of a longline.
 
-(12) *Red snapper* - 1. See § 622.183(b)(9), and § 622.193(aa)(2) for details on the recreational fishing season.
-
 (c) *Possession limits.* (1) Provided each passenger is issued and has in possession a receipt issued on behalf of the vessel that verifies the duration of the trip -
 
 (i) A person aboard a charter vessel or headboat on a trip that spans more than 24 hours may possess no more than two daily bag limits of species other than red porgy.
@@ -52,4 +50,4 @@
 
 (2) A person aboard a vessel may not possess red porgy in or from the EEZ in excess of three per day or three per trip, whichever is more restrictive.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44465, July 24, 2013; 78 FR 78775, Dec. 27, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 80688, Dec. 28, 2015; 81 FR 45248, July 13, 2016; 82 FR 34594, July 25, 2017]Effective Date Note:At 82 FR 50842, Nov. 2, 2017, in § 622.187 paragraph (b)(9) was suspended and paragraph (b)(12) was added, effective Nov. 2, 2017 through Dec. 31, 2017.
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44465, July 24, 2013; 78 FR 78775, Dec. 27, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 80688, Dec. 28, 2015; 81 FR 45248, July 13, 2016; 82 FR 34594, July 25, 2017]

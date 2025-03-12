@@ -1,7 +1,5 @@
 ##### § 424.502 Definitions. #####
 
-Link to an amendment published at 82 FR 53368, Nov. 15, 2017.
-
 As used in this subpart, unless the context indicates otherwise -
 
 *Approve/Approval* means the enrolling provider or supplier has been determined to be eligible under Medicare rules and regulations to receive a Medicare billing number and be granted Medicare billing privileges.
@@ -40,7 +38,7 @@ As used in this subpart, unless the context indicates otherwise -
 
 (5) An exclusion or debarment from participation in a Federal or State health care program.
 
-*Institutional provider* means any provider or supplier that submits a paper Medicare enrollment application using the CMS-855A, CMS-855B (not including physician and nonphysician practitioner organizations), CMS-855S or associated Internet-based PECOS enrollment application.
+*Institutional provider* means any provider or supplier that submits a paper Medicare enrollment application using the CMS-855A, CMS-855B (not including physician and nonphysician practitioner organizations), CMS-855S, CMS-20134, or an associated Internet-based PECOS enrollment application.
 
 *Managing employee* means a general manager, business manager, administrator, director, or other individual that exercises operational or managerial control over, or who directly or indirectly conducts, the day-to-day operation of the provider or supplier, either under contract or through some other arrangement, whether or not the individual is a W-2 employee of the provider or supplier.
 
@@ -56,4 +54,4 @@ As used in this subpart, unless the context indicates otherwise -
 
 *Voluntary termination* means that a provider or supplier, including an individual physician or nonphysician practitioner, submits written confirmation to CMS of its decision to discontinue enrollment in the Medicare program.
 
-[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69939, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 75 FR 73628, Nov. 29, 2010; 76 FR 5962, Feb. 2, 2011; 79 FR 72531, Dec. 5, 2014]
+[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69939, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 75 FR 73628, Nov. 29, 2010; 76 FR 5962, Feb. 2, 2011; 79 FR 72531, Dec. 5, 2014; 82 FR 53368, Nov. 15, 2017]

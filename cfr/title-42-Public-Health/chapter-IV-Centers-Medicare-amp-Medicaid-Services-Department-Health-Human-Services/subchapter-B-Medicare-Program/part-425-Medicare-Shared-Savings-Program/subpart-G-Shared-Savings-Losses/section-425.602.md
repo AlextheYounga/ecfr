@@ -1,7 +1,5 @@
 ##### § 425.602 Establishing, adjusting, and updating the benchmark for an ACO's first agreement period. #####
 
-Link to an amendment published at 82 FR 53370, Nov. 15, 2017.
-
 (a) *Computing per capita Medicare Part A and Part B benchmark expenditures.* In computing an ACO's fixed historical benchmark that is adjusted for historical growth and beneficiary characteristics, including health status, CMS determines the per capita Parts A and B fee-for-service expenditures for beneficiaries that would have been assigned to the ACO in any of the 3 most recent years prior to the agreement period using the ACO participants' TINs identified at the start of the agreement period. CMS does all of the following:
 
 (1) Calculates the payment amounts included in Parts A and B fee-for-service claims using a 3-month claims run out with a completion factor.
@@ -9,6 +7,12 @@ Link to an amendment published at 82 FR 53370, Nov. 15, 2017.
 (i) This calculation excludes indirect medical education (IME) and disproportionate share hospital (DSH) payments.
 
 (ii) This calculation considers individually beneficiary identifiable payments made under a demonstration, pilot or time limited program.
+
+(A) For agreement periods beginning before 2018, this calculation considers all individually beneficiary identifiable payments, including interim payments, made under a demonstration, pilot or time limited program.
+
+(B) For agreement periods beginning in 2018 and subsequent years, this calculation considers individually beneficiary identifiable final payments made under a demonstration, pilot or time limited program.
+
+(C) For the 2018 performance year and subsequent performance years in agreement periods beginning in 2015, 2016 and 2017, the benchmark is adjusted to reflect only individually beneficiary identifiable final payments made under a demonstration, pilot or time limited program.
 
 (2) Makes separate expenditure calculations for each of the following populations of beneficiaries: ESRD, disabled, aged/dual eligible Medicare and Medicaid beneficiaries and aged/non-dual eligible Medicare and Medicaid beneficiaries.
 
@@ -100,4 +104,4 @@ Link to an amendment published at 82 FR 53370, Nov. 15, 2017.
 
 (D) Aged/non-dual eligible Medicare and Medicaid beneficiaries.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32842, June 9, 2015; 81 FR 38014, June 10, 2016]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32842, June 9, 2015; 81 FR 38014, June 10, 2016; 82 FR 53370, Nov. 15, 2017]

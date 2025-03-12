@@ -1,7 +1,5 @@
 ##### § 425.604 Calculation of savings under the one-sided model. #####
 
-Link to an amendment published at 82 FR 53370, Nov. 15, 2017.
-
 (a) *Savings determination.* For each performance year, CMS determines whether the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services are below the applicable updated benchmark determined under § 425.602.
 
 (1) *Newly assigned beneficiaries.* CMS uses an ACO's HCC prospective risk score to adjust the benchmark for changes in severity and case mix in this population.
@@ -32,6 +30,10 @@ Link to an amendment published at 82 FR 53370, Nov. 15, 2017.
 
 (ii) These calculations will take into consideration individually beneficiary identifiable payments made under a demonstration, pilot or time limited program.
 
+(A) For performance years beginning before 2018, these calculations will take into consideration all individually beneficiary identifiable payments, including interim payments, made under a demonstration, pilot or time limited program.
+
+(B) For performance year 2018 and subsequent performance years, these calculations will take into consideration individually beneficiary identifiable final payments made under a demonstration, pilot or time limited program.
+
 (7) In order to qualify for a shared savings payment, the ACO's average per capita Medicare expenditures for the performance year must be below the applicable updated benchmark by at least the minimum savings rate established for the ACO under paragraph (b) of this section.
 
 (b) *Minimum savings rate (MSR).* CMS uses a sliding scale, based on the number of beneficiaries assigned to the ACO under subpart E of this part, to establish the MSR for an ACO participating under the one-sided model. The MSR under the one-sided model for an ACO based on the number of assigned beneficiaries is as follows:
@@ -59,4 +61,4 @@ Link to an amendment published at 82 FR 53370, Nov. 15, 2017.
 
 (f) *Notification of savings.* CMS notifies an ACO in writing regarding whether the ACO qualifies for a shared savings payment, and if so, the amount of the payment due.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 81 FR 38016, June 10, 2016]
+[76 FR 67973, Nov. 2, 2011, as amended at 81 FR 38016, June 10, 2016; 82 FR 53370, Nov. 15, 2017]

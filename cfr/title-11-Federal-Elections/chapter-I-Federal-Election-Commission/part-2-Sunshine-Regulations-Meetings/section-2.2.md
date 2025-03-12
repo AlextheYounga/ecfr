@@ -1,8 +1,6 @@
 ##### § 2.2 Definitions. #####
 
-Link to an amendment published at 82 FR 60852, Dec. 26, 2017.
-
-(a) *Commission. Commission* means the Federal Election Commission, 999 E Street, NW., Washington, DC 20463.
+(a) *Commission. Commission* means the Federal Election Commission.
 
 (b) *Commissioner* or *Member. Commissioner* or *Member* means an individual appointed to the Federal Election Commission pursuant to 52 U.S.C. 30106(a), but does not include a proxy or other designated representative of a Commissioner.
 
@@ -12,4 +10,4 @@ Link to an amendment published at 82 FR 60852, Dec. 26, 2017.
 
 (2) The term *meeting* does not include the process of notation voting by circulated memorandum for the purpose of expediting consideration of routine matters. It also does not include deliberations to schedule a meeting, to take action to open or close a meeting, or to release or withhold information, or to change the subject matter of a meeting under 11 CFR 2.5, 2.6 and 2.7.
 
-[50 FR 39972, Oct. 1, 1985, as amended at 50 FR 50778, Dec. 12, 1985; 65 FR 9206, Feb. 24, 2000; 79 FR 77844, Dec. 29, 2014]
+[50 FR 39972, Oct. 1, 1985, as amended at 50 FR 50778, Dec. 12, 1985; 65 FR 9206, Feb. 24, 2000; 79 FR 77844, Dec. 29, 2014; 82 FR 60852, Dec. 26, 2017]

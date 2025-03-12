@@ -1,16 +1,14 @@
 ##### § 414.90 Physician Quality Reporting System (PQRS). #####
 
-Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
-
 (a) *Basis and scope.* This section implements the following provisions of the Act:
 
-(1) 1848(a) - Payment Based on Fee Schedule.
+(1) 1848(a)—Payment Based on Fee Schedule.
 
-(2) 1848(k) - Quality Reporting System.
+(2) 1848(k)—Quality Reporting System.
 
-(3) 1848(m) - Incentive Payments for Quality Reporting.
+(3) 1848(m)—Incentive Payments for Quality Reporting.
 
-(b) *Definitions.* As used in this section, unless otherwise indicated -
+(b) *Definitions.* As used in this section, unless otherwise indicated—
 
 *Administrative claims* means a reporting mechanism under which an eligible professional or group practice uses claims to report data on PQRS quality measures. Under this reporting mechanism, CMS analyzes claims data to determine which measures an eligible professional or group practice reports.
 
@@ -46,7 +44,7 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 (iv) The program requires successful completion of a qualified maintenance of certification program practice assessment.
 
-*Maintenance of Certification Program Practice Assessment* means an assessment of a physician's practice that -
+*Maintenance of Certification Program Practice Assessment* means an assessment of a physician's practice that—
 
 (i) Includes an initial assessment of an eligible professional's practice that is designed to demonstrate the physician's use of evidence-based medicine.
 
@@ -74,7 +72,7 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 *Reporting rate* means the percentage of patients that the eligible professional indicated a quality action was or was not performed divided by the total number of patients in the denominator of the measure.
 
-(c) *Incentive payments.* For 2007 to 2014, with respect to covered professional services furnished during a reporting period by an eligible professional, an eligible professional (or in the case of a group practice under paragraph (i) of this section, a group practice) may receive an incentive if -
+(c) *Incentive payments.* For 2007 to 2014, with respect to covered professional services furnished during a reporting period by an eligible professional, an eligible professional (or in the case of a group practice under paragraph (i) of this section, a group practice) may receive an incentive if—
 
 (1) There are any quality measures that have been established under the PQRS that are applicable to any such services furnished by such professional (or in the case of a group practice under paragraph (i) of this section, such group practice) for such reporting period; and
 
@@ -90,7 +88,7 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 (iv) For 2012, 2013, and 2014, 0.5 percent.
 
-(4) For purposes of this paragraph (c) -
+(4) For purposes of this paragraph (c)—
 
 (i) The eligible professional's (or, in the case of a group practice under paragraph (i) of this section, the group practice's) total estimated allowed charges for covered professional services furnished during a reporting period are determined based on claims processed in the National Claims History (NCH) no later than 2 months after the end of the applicable reporting period;
 
@@ -114,13 +112,13 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 (B) An alternative form and manner determined appropriate by the Secretary.
 
-(iii) The eligible professional, more frequently than is required to qualify for or maintain board certification status -
+(iii) The eligible professional, more frequently than is required to qualify for or maintain board certification status—
 
 (A) Participates in a maintenance of certification program for a year; and
 
 (B) Successfully completes a qualified maintenance of certification program practice assessment for such year.
 
-(2) In order for an eligible professional to receive the additional incentive payment, a Maintenance of Certification Program must submit to the Secretary, on behalf of the eligible professional, information -
+(2) In order for an eligible professional to receive the additional incentive payment, a Maintenance of Certification Program must submit to the Secretary, on behalf of the eligible professional, information—
 
 (i) In a form and manner specified by the Secretary, that the eligible professional has successfully met the requirements of paragraph (d)(1)(iii) of this section, which may be in the form of a structural measure.
 
@@ -148,7 +146,7 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 (h) *Satisfactory reporting requirements for the incentive payments.* In order to qualify to earn a PQRS incentive payment for a particular program year, an individual eligible professional, as identified by a unique TIN/NPI combination, must meet the criteria for satisfactory reporting specified by CMS under paragraph (h)(3) of (h)(5) of this section for such year by reporting on either individual PQRS quality measures or PQRS measures groups identified by CMS during a reporting period specified in paragraph (h)(1) of this section, using one of the reporting mechanisms specified in paragraph (h)(2) or (4) of this section, and using one of the reporting criteria specified in paragraph (h)(3) or (5) of this section.
 
-(1) *Reporting periods.* For purposes of this paragraph, the reporting period is -
+(1) *Reporting periods.* For purposes of this paragraph, the reporting period is—
 
 (i) The 12-month period from January 1 through December 31 of such program year.
 
@@ -176,13 +174,13 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 (3) *Satisfactory reporting criteria for individual eligible professionals for the 2014 PQRS incentive.* An individual eligible professional who wishes to qualify for the 2014 PQRS incentive must report information on PQRS quality measures data in one of the following manners:
 
-(i) *Via Claims.* For the 12-month 2014 PQRS incentive reporting period -
+(i) *Via Claims.* For the 12-month 2014 PQRS incentive reporting period—
 
 (A) Report at least 9 measures covering at least 3 National Quality Strategy domains, and report each measure for at least 50 percent of the Medicare Part B FFS patients seen during the reporting period to which the measure applies; or if less than 9 measures covering at least 3 National Quality Strategy domains apply to the eligible professional, report 1 to 8 measures covering 1 to 3 National Quality Strategy domains and report each measure for at least 50 percent of the Medicare Part B FFS patients seen during the reporting period to which the measure applies. For an eligible professional who reports fewer than 9 measures covering at least 3 NQS domains via the claims-based reporting mechanism, the eligible professional would be subject to the Measures Applicability Validation process, which would allow us to determine whether an eligible professional should have reported quality data codes for additional measures and/or covering additional National Quality Strategy domains. Measures with a 0 percent performance rate would not be counted.
 
 (B) [Reserved]
 
-(ii) *Via Qualified Registry.* (A) For the 12-month 2014 PQRS incentive reporting period -
+(ii) *Via Qualified Registry.* (A) For the 12-month 2014 PQRS incentive reporting period—
 
 (1) Report at least 9 measures covering at least 3 of the National Quality Strategy domains report each measure for at least 50 percent of the eligible professional's Medicare Part B FFS patients seen during the reporting period to which the measure applies; or, if less than 9 measures covering at least 3 NQS domains apply to the eligible professional, report 1 to 8 measures covering 1 to 3 National Quality Strategy domains for which there is Medicare patient data and report each measure for at least 50 percent of the eligible professional's Medicare Part B FFS patients seen during the reporting period to which the measure applies. For an eligible professional who reports fewer than 9 measures covering at least 3 NQS domains via the qualified registry-based reporting mechanism, the eligible professional will be subject to the Measures Applicability Validation process, which would allow us to determine whether an eligible professional should have reported on additional measures and/or measures covering additional National Quality Strategy domains. Measures with a 0 percent performance rate would not be counted.
 
@@ -264,7 +262,7 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 (3) *Satisfactory reporting criteria for individual eligible professionals for the 2016 PQRS payment adjustment.* An individual eligible professional who wishes to meet the criteria for satisfactory reporting for the 2016 PQRS payment adjustment must report information on PQRS quality measures identified by CMS in one of the following manners:
 
-(i) *Via Claims.* (A) For the 12-month 2016 PQRS payment adjustment reporting period -
+(i) *Via Claims.* (A) For the 12-month 2016 PQRS payment adjustment reporting period—
 
 (*1*)(*i*) Report at least 9 measures covering at least 3 National Quality Strategy domains and report each measure for at least 50 percent of the Medicare Part B FFS patients seen during the reporting period to which the measure applies; or if less than 9 measures covering at least 3 NQS domains apply to the eligible professional, report 1-8 measures covering 1-3 National Quality Strategy domains, and report each measure for at least 50 percent of the Medicare Part B FFS patients seen during the reporting period to which the measure applies. For an eligible professional who reports fewer than 9 measures covering at least 3 NQS domains via the claims-based reporting mechanism, the eligible professional would be subject to the Measures Applicability Validation process, which would allow us to determine whether an eligible professional should have reported quality data codes for additional measures and/or covering additional National Quality Strategy domains; or
 
@@ -272,7 +270,7 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 (*2*) Measures with a 0 percent performance rate would not be counted.
 
-(ii) *Via Qualified Registry.* (A) For the 12-month 2016 PQRS payment adjustment reporting period -
+(ii) *Via Qualified Registry.* (A) For the 12-month 2016 PQRS payment adjustment reporting period—
 
 (*1*)(*i*) Report at least 9 measures covering at least 3 of the National Quality Strategy domains; or if less than 9 measures covering at least 3 NQS domains apply to the eligible professional, report 1 to 8 measures covering 1 to 3 National Quality Strategy domains for which there is Medicare patient data, and report each measure for at least 50 percent of the eligible professional's Medicare Part B FFS patients seen during the reporting period to which the measure applies. For an eligible professional who reports fewer than 9 measures covering at least 3 NQS domains via the qualified registry-based reporting mechanism, the eligible professional would be subject to the Measures Applicability Validation process, which would allow us to determine whether an eligible professional should have reported on additional measures and/or measures covering additional National Quality Strategy domains; or
 
@@ -282,7 +280,7 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 (*2*) Measures with a 0 percent performance rate or measures groups containing a measure with a 0 percent performance rate will not be counted.
 
-(B) For the 6-month 2016 PQRS payment adjustment reporting period -
+(B) For the 6-month 2016 PQRS payment adjustment reporting period—
 
 (*1*) Report at least 1 measures group and report each measures group for at least 20 patients, a majority of which much be Medicare Part B FFS patients. Measures groups containing a measure with a 0 percent performance rate will not be counted.
 
@@ -292,13 +290,13 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 (4) *Satisfactory Reporting Criteria for Individual Eligible Professionals for the 2017 PQRS Payment Adjustment.* An individual eligible professional who wishes to meet the criteria for satisfactory reporting for the 2017 PQRS payment adjustment must report information on PQRS quality measures identified by CMS in one of the following manners:
 
-(i) *Via Claims.* (A) For the 12-month 2017 PQRS payment adjustment reporting period -
+(i) *Via Claims.* (A) For the 12-month 2017 PQRS payment adjustment reporting period—
 
 (*1*)(*i*) Report at least 9 measures, covering at least 3 of the NQS domains and report each measure for at least 50 percent of the eligible professional's Medicare Part B FFS patients seen during the reporting period to which the measure applies. Of the 9 measures reported, if the eligible professional sees at least 1 Medicare patient in a face-to-face encounter, the eligible professional must report on at least 1 measure contained in the cross-cutting measure set specified by CMS. If less than 9 measures apply to the eligible professional, report up to 8 measures and report each measure for at least 50 percent of the Medicare Part B FFS patients seen during the reporting period to which the measure applies. Measures with a 0 percent performance rate would not be counted.
 
 (*ii*) [Reserved]
 
-(ii) *Via Qualified Registry.* (A) For the 12-month 2017 PQRS payment adjustment reporting period -
+(ii) *Via Qualified Registry.* (A) For the 12-month 2017 PQRS payment adjustment reporting period—
 
 (*1*)(*i*) Report at least 9 measures, covering at least 3 of the NQS domains and report each measure for at least 50 percent of the eligible professional's Medicare Part B FFS patients seen during the reporting period to which the measure applies. Of the 9 measures reported, if the eligible professional sees at least 1 Medicare patient in a face-to-face encounter, the eligible professional must report on at least 1 measure contained in the cross-cutting measure set specified by CMS. If less than 9 measures apply to the eligible professional, report up to 8 measures and report each measure for at least 50 percent of the Medicare Part B FFS patients seen during the reporting period to which the measure applies.
 
@@ -336,7 +334,7 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 (B) For the 12-month 2016 PQRS payment adjustment reporting period, for a group practice of 100 or more eligible professionals, report on all measures included in the Web interface and populate data fields for the first 411 consecutively ranked and assigned beneficiaries in the order in which they appear in the group's sample for each module or preventive care measure. If the pool of eligible assigned beneficiaries is less than 411, then report on 100 percent of assigned beneficiaries. In addition, the group practice must also report all CAHPS for PQRS survey measures via certified survey vendor.
 
-(ii) *Via Qualified Registry.* (A) For the 12-month 2016 PQRS payment adjustment reporting period, for a group practice of 2 or more eligible professionals -
+(ii) *Via Qualified Registry.* (A) For the 12-month 2016 PQRS payment adjustment reporting period, for a group practice of 2 or more eligible professionals—
 
 (*1*) Report at least 9 measures, covering at least 3 of the National Quality Strategy domains and report each measure for at least 50 percent of the group practice's Medicare Part B FFS patients seen during the reporting period to which the measure applies; or If less than 9 measures covering at least 3 NQS domains apply to the eligible professional, then the group practices must report 1-8 measures for which there is Medicare patient data and report each measure for at least 50 percent of the group practice's Medicare Part B FFS patients seen during the reporting period to which the measure applies. For a group practice who reports fewer than 9 measures covering at least 3 NQS domains via the registry-based reporting mechanism, the group practice would be subject to the Measures Applicability Validation process, which would allow us to determine whether a group practice should have reported on additional measures. Measures with a 0 percent performance rate would not be counted; or
 
@@ -370,9 +368,9 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 (8) *Satisfactory reporting criteria for individual eligible professionals for the 2018 PQRS payment adjustment*. An individual eligible professional who wishes to meet the criteria for satisfactory reporting for the 2018 PQRS payment adjustment must report information on PQRS quality measures identified by CMS in one of the following manners:
 
-(i) *Via claims*. (A) For the 12-month 2018 PQRS payment adjustment reporting period -
+(i) *Via claims*. (A) For the 12-month 2018 PQRS payment adjustment reporting period—
 
-(*1*)(*i*) Report at least 9 measures, covering at least 3 of the NQS domains AND report each measure for at least 50 percent of the eligible professional's Medicare Part B FFS patients seen during the reporting period to which the measure applies. Of the measures reported, if the eligible professional sees at least 1 Medicare patient in a face-to-face encounter, the eligible professional will report on at least 1 measure contained in the proposed cross-cutting measure set. If less than 9 measures apply to the eligible professional, the eligible professional must report on each measure that is applicable, AND report each measure for at least 50 percent of the Medicare Part B FFS patients seen during the reporting period to which the measure applies. Measures with a 0 percent performance rate would not be counted.
+(*1*)(*i*) Report at least 6 measures and report each measure for at least 50 percent of the eligible professional's Medicare Part B Fee-for-Service patients seen during the reporting period to which the measure applies. If less than 6 measures apply to the eligible professional, the eligible professional must report on each measure that is applicable, and report each measure for at least 50 percent of the Medicare Part B Fee-for-Service patients seen during the reporting period to which the measure applies. Measures with a 0 percent performance rate will not be counted (unless they are inverse measures where a lower rate reflects better performance).
 
 (*ii*) [Reserved]
 
@@ -380,43 +378,43 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 (B) [Reserved]
 
-(ii) *Via qualified registry*. (A) For the 12-month 2018 PQRS payment adjustment reporting period -
+(ii) *Via qualified registry*. (A) For the 12-month 2018 PQRS payment adjustment reporting period—
 
-(*1*)(*i*) Report at least 9 measures, covering at least 3 of the NQS domains AND report each measure for at least 50 percent of the eligible professional's Medicare Part B FFS patients seen during the reporting period to which the measure applies. Of the measures reported, if the eligible professional sees at least 1 Medicare patient in a face-to-face encounter, the eligible professional will report on at least 1 measure contained in the proposed cross-cutting measure set. If less than 9 measures apply to the eligible professional, the eligible professional must report on each measure that is applicable to the eligible professional, AND report each measure for at least 50 percent of the Medicare Part B FFS patients seen during the reporting period to which the measure applies.
+(*1*)(*i*) Report at least 6 measures and report each measure for at least 50 percent of the eligible professional's Medicare Part B Fee-for-Service patients seen during the reporting period to which the measure applies. If less than 6 measures apply to the eligible professional, the eligible professional must report on each measure that is applicable, and report each measure for at least 50 percent of the Medicare Part B Fee-for-Service patients seen during the reporting period to which the measure applies.
 
 (*ii*) Report at least 1 measures group and report each measures group for at least 20 patients, a majority of which must be Medicare Part B FFS patients.
 
-(*2*) Measures with a 0 percent performance rate or measures groups containing a measure with a 0 percent performance rate will not be counted.
+(*2*) Measures with a 0 percent performance rate or measures groups containing a measure with a 0 percent performance rate will not be counted (unless they are inverse measures where a lower rate reflects better performance).
 
 (B) [Reserved]
 
-(iii) *Via EHR direct product*. For the 12-month 2018 PQRS payment adjustment reporting period, report 9 measures covering at least 3 of the NQS domains. If an eligible professional's direct EHR product or EHR data submission vendor product does not contain patient data for at least 9 measures covering at least 3 domains, then the eligible professional must report all of the measures for which there is Medicare patient data. An eligible professional must report on at least 1 measure for which there is Medicare patient data.
+(iii) *Via EHR direct product.* For the 12-month 2018 PQRS payment adjustment reporting period, report 6 measures. If an eligible professional's direct EHR product or EHR data submission vendor product does not contain patient data for at least 6 measures, then the eligible professional must report all of the measures for which there is Medicare patient data. An eligible professional must report on at least 1 measure for which there is Medicare patient data.
 
-(iv) *Via EHR data submission vendor*. For the 12-month 2018 PQRS payment adjustment reporting period, report 9 measures covering at least 3 of the NQS domains. If an eligible professional's direct EHR product or EHR data submission vendor product does not contain patient data for at least 9 measures covering at least 3 domains, then the eligible professional would be required to report all of the measures for which there is Medicare patient data. An eligible professional would be required to report on at least 1 measure for which there is Medicare patient data.
+(iv) *Via EHR data submission vendor.* For the 12-month 2018 PQRS payment adjustment reporting period, report at least 6 measures. If an eligible professional's direct EHR product or EHR data submission vendor product does not contain patient data for at least 6 measures, then the eligible professional must report all of the measures for which there is Medicare patient data. An eligible professional must report on at least 1 measure for which there is Medicare patient data.
 
 (9) *Satisfactory reporting criteria for group practices for the 2018 PQRS payment adjustment*. A group practice who wishes to meet the criteria for satisfactory reporting for the 2018 PQRS payment adjustment must report information on PQRS quality measures identified by CMS in one of the following manners:
 
 (i) *Via the GPRO web interface*. For the 12-month 2018 PQRS payment adjustment reporting period, for a group practice of 25 or more eligible professionals, report on all measures included in the web interface; AND populate data fields for the first 248 consecutively ranked and assigned beneficiaries in the order in which they appear in the group's sample for each module or preventive care measure. If the pool of eligible assigned beneficiaries is less than 248, then the group practice must report on 100 percent of assigned beneficiaries. In some instances, the sampling methodology will not be able to assign at least 248 patients on which a group practice may report, particularly those group practices on the smaller end of the range of 25-99 eligible professionals. If the group practice is assigned less than 248 Medicare beneficiaries, then the group practice must report on 100 percent of its assigned beneficiaries. A group practice must report on at least 1 measure for which there is Medicare patient data.
 
-(ii) *Via qualified registry*. For a group practice of 2 or more eligible professionals, for the 12-month 2018 PQRS payment adjustment reporting period, report at least 9 measures, covering at least 3 of the NQS domains. Of these measures, if a group practice sees at least 1 Medicare patient in a face-to-face encounter, the group practice would report on at least 1 measure in the cross-cutting measure set. If less than 9 measures covering at least 3 NQS domains apply to the group practice, the group practice would report on each measure that is applicable to the group practice, AND report each measure for at least 50 percent of the group's Medicare Part B FFS patients seen during the reporting period to which the measure applies. Measures with a 0 percent performance rate would not be counted.
+(ii) *Via qualified registry.* For a group practice of 2 or more eligible professionals, for the 12-month 2018 PQRS payment adjustment reporting period, report at least 6 measures and report each measure for at least 50 percent of the group practice's Medicare Part B Fee-for-Service patients seen during the reporting period to which the measure applies. If less than 6 measures apply to the group practice, the group practice must report on each measure that is applicable, and report each measure for at least 50 percent of the Medicare Part B Fee-for-Service patients seen during the reporting period to which the measure applies. Measures with a 0 percent performance rate would not be counted (unless they are inverse measures where a lower rate reflects better performance).
 
-(iii) *Via EHR direct product*. For a group practice of 2 or more eligible professionals, for the 12-month 2018 PQRS payment adjustment reporting period, report 9 measures covering at least 3 domains. If the group practice's direct EHR product or EHR data submission vendor product does not contain patient data for at least 9 measures covering at least 3 domains, then the group practice must report all of the measures for which there is Medicare patient data. A group practice must report on at least 1 measure for which there is Medicare patient data.
+(iii) *Via EHR direct product.* For a group practice of 2 or more eligible professionals, for the 12-month 2018 PQRS payment adjustment reporting period, report 6 measures. If the group practice's direct EHR product or EHR data submission vendor product does not contain patient data for at least 6 measures, then the group practice must report all of the measures for which there is Medicare patient data. A group practice must report on at least 1 measure for which there is Medicare patient data.
 
-(iv) *Via EHR data submission vendor*. For a group practice of 2 or more eligible professionals, for the 12-month 2018 PQRS payment adjustment reporting period, report 9 measures covering at least 3 domains. If the group practice's direct EHR product or EHR data submission vendor product does not contain patient data for at least 9 measures covering at least 3 domains, then the group practice must report all of the measures for which there is Medicare patient data. A group practice must report on at least 1 measure for which there is Medicare patient data.
+(iv) *Via EHR data submission vendor.* For a group practice of 2 or more eligible professionals, for the 12-month 2018 PQRS payment adjustment reporting period, report 6 measures. If the group practice's direct EHR product or EHR data submission vendor product does not contain patient data for at least 6 measures, then the group practice must report all of the measures for which there is Medicare patient data. A group practice must report on at least 1 measure for which there is Medicare patient data.
 
-(v) *Via a certified survey vendor in addition to a qualified registry*. For a group practice of 2 or more eligible professionals that elects to report via a certified survey vendor in addition to a qualified registry for the 12-month 2018 PQRS payment adjustment reporting period, the group practice must have all CAHPS for PQRS survey measures reported on its behalf via a CMS-certified survey vendor, and report at least 6 additional measures, outside of CAHPS for PQRS, covering at least 2 of the NQS domains using the qualified registry. If less than 6 measures apply to the group practice, the group practice must report on each measure that is applicable to the group practice. Of the additional measures that must be reported in conjunction with reporting the CAHPS for PQRS survey measures, if any eligible professional in the group practice sees at least 1 Medicare patient in a face-to-face encounter, the group practice must report on at least 1 measure in the cross-cutting measure set.
+(v) *Via a certified survey vendor in addition to a qualified registry.* For a group practice of 2 or more eligible professionals that elects to report via a certified survey vendor in addition to a qualified registry for the 12-month 2018 PQRS payment adjustment reporting period, the group practice must have all CAHPS for PQRS survey measures reported on its behalf via a CMS-certified survey vendor. In addition, the group practice must report at least 3 additional measures using the qualified registry and report each measure for at least 50 percent of the group practice's Medicare Part B Fee-for-Service patients seen during the reporting period to which the measure applies. If less than 3 measures apply to the group practice, the group practice must report on each measure that is applicable, and report each measure for at least 50 percent of the Medicare Part B Fee-for-Service patients seen during the reporting period to which the measure applies. Measures with a 0 percent performance rate would not be counted (unless they are inverse measures where a lower rate reflects better performance).
 
-(vi) *Via a certified survey vendor in addition to a direct EHR product or EHR data submission vendor*. For a group practice of 2 or more eligible professionals that elects to report via a certified survey vendor in addition to a direct EHR product or EHR data submission vendor for the 12-month 2018 PQRS payment adjustment reporting period, the group practice must have all CAHPS for PQRS survey measures reported on its behalf via a CMS-certified survey vendor, and report at least 6 additional measures, outside of CAHPS for PQRS, covering at least 2 of the NQS domains using the direct EHR product or EHR data submission vendor product. If less than 6 measures apply to the group practice, the group practice must report all of the measures for which there is patient data. Of the additional 6 measures that must be reported in conjunction with reporting the CAHPS for PQRS survey measures, a group practice would be required to report on at least 1 measure for which there is Medicare patient data.
+(vi) *Via a certified survey vendor in addition to a direct EHR product or EHR data submission vendor.* For a group practice of 2 or more eligible professionals that elects to report via a certified survey vendor in addition to a direct EHR product or EHR data submission vendor for the 12-month 2018 PQRS payment adjustment reporting period, the group practice must have all CAHPS for PQRS survey measures reported on its behalf via a CMS-certified survey vendor. In addition, the group practice must report at least 3 additional measures using the direct EHR product or EHR data submission vendor product. If less than 3 measures apply to the group practice, the group practice must report all of the measures for which there is patient data. Of the additional 3 measures that must be reported in conjunction with reporting the CAHPS for PQRS survey measures, a group practice must report on at least 1 measure for which there is Medicare patient data.
 
 (vii) *Via a certified survey vendor in addition to the GPRO web interface*. (A) For a group practice of 25 or more eligible professionals, for the 12-month 2018 PQRS payment adjustment reporting period, the group practice must have all CAHPS for PQRS survey measures reported on its behalf via a CMS-certified survey vendor. In addition, the group practice must report on all measures included in the GPRO web interface; AND populate data fields for the first 248 consecutively ranked and assigned beneficiaries in the order in which they appear in the group's sample for each module or preventive care measure. If the pool of eligible assigned beneficiaries is less than 248, then the group practice must report on 100 percent of assigned beneficiaries. A group practice will be required to report on at least 1 measure for which there is Medicare patient data.
 
 (B) [Reserved]
 
-(viii) If the CAHPS for PQRS survey is applicable to the practice, group practices comprised of 100 or more eligible professionals that register to participate in the GPRO must administer the CAHPS for PQRS survey, regardless of the GPRO reporting mechanism selected.
+(viii) If the CAHPS for PQRS survey is applicable to the practice, group practices comprised of 100 or more eligible professionals that register to participate in the GPRO may administer the CAHPS for PQRS survey, regardless of the GPRO reporting mechanism selected.
 
 (k) *Satisfactory participation requirements for the payment adjustments for individual eligible professionals and group practices.* In order to satisfy the requirements for the PQRS payment adjustment for a particular program year through participation in a qualified clinical data registry, an individual eligible professional, as identified by a unique TIN/NPI combination, or group practice must meet the criteria for satisfactory participation as specified in paragraph (k)(3) of this section for such year, by reporting on quality measures identified by a qualified clinical data registry during a reporting period specified in paragraph (k)(1) of this section, using the reporting mechanism specified in paragraph (k)(2) of this section.
 
-(1) Reporting period. For purposes of this paragraph, the reporting period is -
+(1) Reporting period. For purposes of this paragraph, the reporting period is—
 
 (i) The 12-month period from January 1 through December 31 that falls 2 years prior to the year in which the payment adjustment is applied.
 
@@ -424,9 +422,9 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 (2) *Reporting mechanism*. An individual eligible professional or group practice who wishes to meet the criteria for satisfactory participation in a qualified clinical data registry must use the qualified clinical data registry to report information on quality measures identified by the qualified clinical data registry.
 
-(3) Satisfactory participation criteria for individual eligible professionals for the 2016 PQRS payment adjustment. An individual eligible professional who wishes to meet the criteria for satisfactory participation in a qualified clinical data registry for the 2016 PQRS payment adjustment must report information on quality measures identified by the qualified clinical data registry in one of the following manners:
+(3) *Satisfactory participation criteria for individual eligible professionals for the 2016 PQRS payment adjustment.* Satisfactory participation criteria for individual eligible professionals for the 2016 PQRS payment adjustment. An individual eligible professional who wishes to meet the criteria for satisfactory participation in a qualified clinical data registry for the 2016 PQRS payment adjustment must report information on quality measures identified by the qualified clinical data registry in one of the following manners:
 
-(i) For the 12-month 2016 PQRS payment adjustment reporting period -
+(i) For the 12-month 2016 PQRS payment adjustment reporting period—
 
 (A) Report at least 9 measures available for reporting under a qualified clinical data registry covering at least 3 of the National Quality Strategy domains and report each measure for at least 50 percent of the eligible professional's patients; or
 
@@ -434,15 +432,15 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 (4) *Satisfactory participation criteria for individual eligible professionals for the 2017 PQRS payment adjustment.* An individual eligible professional who wishes to meet the criteria for satisfactory participation in a QCDR for the 2017 PQRS payment adjustment must report information on quality measures identified by the QCDR in one of the following manner:
 
-(i) For the 12-month 2017 PQRS payment adjustment reporting period, report at least 9 measures available for reporting under a QCDR covering at least 3 of the NQS domains, and report each measure for at least 50 percent of the eligible professional's patients. Of these measures, report on at least 2 outcome measures, or, if 2 outcomes measures are not available, report on at least 2 outcome measures and at least 1 of the following types of measures - resource use, patient experience of care, efficiency/appropriate use or patient safety.
+(i) For the 12-month 2017 PQRS payment adjustment reporting period, report at least 9 measures available for reporting under a QCDR covering at least 3 of the NQS domains, and report each measure for at least 50 percent of the eligible professional's patients. Of these measures, report on at least 2 outcome measures, or, if 2 outcomes measures are not available, report on at least 2 outcome measures and at least 1 of the following types of measures—resource use, patient experience of care, efficiency/appropriate use or patient safety.
 
 (ii) Section 414.90(k)(5) applies to individuals and group practices reporting using the secondary reporting period established under paragraph (j)(1)(ii) of this section for the 2017 PQRS payment adjustment.
 
 (5) *Satisfactory participation criteria for individual eligible professionals and group practices for the 2018 PQRS payment adjustment*. An individual eligible professional or group practice who wishes to meet the criteria for satisfactory participation in a QCDR for the 2018 PQRS payment adjustment must report information on quality measures identified by the QCDR in the following manner:
 
-(i) If a group practice does not report the CAHPS for PQRS survey measures, report at least 9 measures available for reporting under a QCDR covering at least 3 of the NQS domains, and report each measure for at least 50 percent of the eligible professional's patients. Of these measures, report on at least 3 outcome measures, or, if 3 outcomes measures are not available, report on at least 2 outcome measures and at least 1 of the following types of measures - resource use, patient experience of care, efficiency/appropriate use, or patient safety. If a group practice reports the CAHPS for PQRS survey measures, apply reduced criteria as follows: 6 QCDR measures covering 2 NQS domains; and, of the non-CAHPS for PQRS measures, 2 outcome measures or 1 outcome and 1 other specified type of measure, as applicable.
+(i) *Individual eligible professional.* For the applicable 12-month reporting period, report at least 6 measures available for reporting under a QCDR and report each measure for at least 50 percent of the eligible professional's patients seen during the reporting period to which the measure applies. If less than 6 measures apply to the eligible professional, the eligible professional must report on each measure that is applicable, and report each measure for at least 50 percent of the eligible professional's patients.
 
-(ii) [Reserved]
+(ii) *Group practices.* For the applicable 12-month reporting period, report at least 6 measures available for reporting under a QCDR and report each measure for at least 50 percent of the group practice's patients seen during the reporting period to which the measure applies. If less than 6 measures apply to the group practice, the group practice must report on each measure that is applicable, and report each measure for at least 50 percent of the group practice's patients. If a group practice reports the CAHPS for PQRS survey measures, apply reduced criteria as follows: 3 measures, as applicable.
 
 (l) *Requirements for group practices.* Under the PQRS, a group practice must meet all of the following requirements:
 
@@ -476,7 +474,7 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 (iii) CMS will only accept data that was previously submitted for the reporting periods for which the corresponding informal review period applies.
 
-(n) *Limitations on review.* Except as specified in paragraph (i) of this section, there is no administrative or judicial review under section 1869 or 1879 of the Act, or otherwise of -
+(n) *Limitations on review.* Except as specified in paragraph (i) of this section, there is no administrative or judicial review under section 1869 or 1879 of the Act, or otherwise of—
 
 (1) The determination of measures applicable to services furnished by eligible professionals under the PQRS;
 
@@ -486,4 +484,4 @@ Link to an amendment published at 82 FR 53362, Nov. 15, 2017.
 
 (o) *Public reporting of an eligible professional's or group practice's PQRS data.* For each program year, CMS will post on a public Web site, in an easily understandable format, a list of the names of eligible professionals (or in the case of reporting under paragraph (g) of this section, group practices) who satisfactorily submitted PQRS quality measures.
 
-[78 FR 74812, Dec. 10, 2013, as amended at 79 FR 68003, Nov. 13, 2014; 81 FR 34913, June 1, 2016; 81 FR 77537, Nov. 4, 2016; 81 FR 80554, Nov. 15, 2016]
+[78 FR 74812, Dec. 10, 2013, as amended at 79 FR 68003, Nov. 13, 2014; 81 FR 34913, June 1, 2016; 81 FR 77537, Nov. 4, 2016; 81 FR 80554, Nov. 15, 2016; 82 FR 53362, Nov. 15, 2017]

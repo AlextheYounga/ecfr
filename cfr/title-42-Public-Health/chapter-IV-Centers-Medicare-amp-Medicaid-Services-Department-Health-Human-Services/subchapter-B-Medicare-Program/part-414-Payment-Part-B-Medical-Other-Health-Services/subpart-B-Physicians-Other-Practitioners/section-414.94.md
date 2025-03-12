@@ -1,7 +1,5 @@
 ##### § 414.94 Appropriate use criteria for advanced diagnostic imaging services. #####
 
-Link to an amendment published at 82 FR 53363, Nov. 15, 2017.
-
 (a) *Basis and scope*. This section implements the following provisions of the Act:
 
 (1) Section 1834(q) - Recognizing Appropriate Use Criteria for Certain Imaging Services.
@@ -192,4 +190,20 @@ Link to an amendment published at 82 FR 53363, Nov. 15, 2017.
 
 (3) Ordering professionals who are granted a significant hardship exception to the Medicare EHR Incentive Program payment adjustment for that year under § 495.102(d)(4) of this chapter, except for those granted such an exception under § 495.102(d)(4)(iv)(C) of this chapter.
 
-[80 FR 71380, Nov. 16, 2015, as amended at 80 FR 80554, Nov. 15, 2016]
+(j) *Consulting.* Ordering Professionals must consult specified applicable AUC through qualified CDSMs for applicable imaging services furnished in an applicable setting, paid for under an applicable payment system and ordered on or after January 1, 2020.
+
+(k) *Reporting.* Furnishing Professionals must report the following information on Medicare claims for advanced diagnostic imaging services furnished in an applicable setting, paid for under an applicable payment system defined in paragraph (b) of this section, and ordered on or after January 1, 2020:
+
+(1) The qualified CDSM consulted by the ordering professional.
+
+(2) Information indicating:
+
+(i) Whether the service ordered would adhere to specified applicable AUC;
+
+(ii) Whether the service ordered would not adhere to specified applicable AUC; or
+
+(iii) Whether the specified applicable AUC consulted was not applicable to the service ordered.
+
+(3) The NPI of the ordering professional who consulted specified applicable AUC as required in paragraph (j) of this section, if different from the furnishing professional.
+
+[80 FR 71380, Nov. 16, 2015, as amended at 80 FR 80554, Nov. 15, 2016; 82 FR 53363, Nov. 15, 2017]

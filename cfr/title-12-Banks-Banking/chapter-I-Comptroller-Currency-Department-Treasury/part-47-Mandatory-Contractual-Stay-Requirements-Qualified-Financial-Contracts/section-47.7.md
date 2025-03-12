@@ -1,0 +1,5 @@
+##### § 47.7 Foreign bank multi-branch master agreements. #####
+
+(a) *Treatment of foreign bank multi-branch master agreements.* With respect to a Federal branch or agency of a global systemically important foreign banking organization, a foreign bank multi-branch master agreement that is a covered QFC solely because the master agreement permits agreements or transactions that are QFCs to be entered into at one or more Federal branches or agencies of the global systemically important foreign banking organization will be considered a covered QFC for purposes of this part only with respect to such agreements or transactions booked at such Federal branches or agencies.
+
+(b) *Definition of foreign bank multi-branch master agreements.* A *foreign bank multi-branch master agreement* means a master agreement that permits a Federal branch or agency and another place of business of a foreign bank that is outside the United States to enter transactions under the agreement.

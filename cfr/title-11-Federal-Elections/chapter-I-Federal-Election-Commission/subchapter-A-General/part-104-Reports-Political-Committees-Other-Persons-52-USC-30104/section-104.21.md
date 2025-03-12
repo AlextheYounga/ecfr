@@ -1,8 +1,6 @@
 ##### § 104.21 Reporting by inaugural committees. #####
 
-Link to an amendment published at 82 FR 60853, Dec. 26, 2017.
-
-(a) *Definitions* - (1) *Inaugural committee.* Inaugural committee means the committee appointed by the President-elect to be in charge of the Presidential inaugural ceremony and functions and activities connected with the inaugural ceremony.
+(a) *Definitions*—(1) *Inaugural committee.* Inaugural committee means the committee appointed by the President-elect to be in charge of the Presidential inaugural ceremony and functions and activities connected with the inaugural ceremony.
 
 (2) *Donation.* For purposes of this section, donation has the same meaning as in 11 CFR 300.2(e).
 
@@ -16,7 +14,7 @@ Link to an amendment published at 82 FR 60853, Dec. 26, 2017.
 
 (2) Upon receipt of the letter filed under this paragraph (b), the Commission will assign a FEC committee identification number to the inaugural committee. The inaugural committee must include this FEC committee identification number on all reports and supplements thereto required under paragraph (c) of this section, as well as on all communications with the Commission concerning the letter filed under this paragraph (b).
 
-(c) *Reporting requirements for inaugural committees* - (1) *Who must report.* The chairperson or other officer identified in the letter-filing required by paragraph (b) of this section must file a report and any supplements thereto as required by this paragraph (c). Such person must sign the report and any supplements thereto in accordance with 11 CFR 104.14(a). The signature on the report and any supplements thereto certifies that the contents are true, correct, and complete, to the best of knowledge of the chairperson or other officer identified in the letter-filing required by paragraph (b) of this section.
+(c) *Reporting requirements for inaugural committees*—(1) *Who must report.* The chairperson or other officer identified in the letter-filing required by paragraph (b) of this section must file a report and any supplements thereto as required by this paragraph (c). Such person must sign the report and any supplements thereto in accordance with 11 CFR 104.14(a). The signature on the report and any supplements thereto certifies that the contents are true, correct, and complete, to the best of knowledge of the chairperson or other officer identified in the letter-filing required by paragraph (b) of this section.
 
 (2) *When to file.* A report, and any supplements thereto, must be timely filed in accordance with 11 CFR 100.19 as follows:
 
@@ -26,7 +24,7 @@ Link to an amendment published at 82 FR 60853, Dec. 26, 2017.
 
 (B) Any supplement must be filed no later than the 90th day following the filing date of an original report, or if a supplement has already been filed, the filing date of the most recent supplement.
 
-(3) *Where to file.* All letters, reports, and any supplements thereto, as required under this section, shall be filed with the Federal Election Commission, 999 E Street, NW., Washington, DC 20463.
+(3) *Where to file.* All letters, reports, and any supplements thereto, as required under this section, shall be filed with the Federal Election Commission at the street address identified in the definition of “Commission” in § 1.2.
 
 (4) *How to file.* An inaugural committee must file its letter, report, and any supplements thereto, in original form; however, an inaugural committee may choose to file its reports in an electronic format that meets the requirements of 11 CFR 104.18.
 
@@ -70,4 +68,4 @@ Link to an amendment published at 82 FR 60853, Dec. 26, 2017.
 
 (d) *Recordkeeping.* All inaugural committees must maintain records in accordance with 11 CFR 104.14.
 
-[69 FR 59779, Oct. 6, 2004]
+[69 FR 59779, Oct. 6, 2004, as amended at 82 FR 60853, Dec. 26, 2017]

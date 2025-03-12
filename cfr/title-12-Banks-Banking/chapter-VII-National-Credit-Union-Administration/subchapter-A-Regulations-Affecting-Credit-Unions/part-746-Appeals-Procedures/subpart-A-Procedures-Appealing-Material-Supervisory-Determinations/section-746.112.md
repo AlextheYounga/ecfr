@@ -1,0 +1,7 @@
+##### § 746.112 Retaliation prohibited. #####
+
+(a) *Retaliation prohibited.* NCUA staff may not retaliate against an insured credit union making any type of appeal. Alleged acts of retaliation should be reported to the NCUA Office of Inspector General, which is authorized to receive and investigate complaints and other information regarding abuse in agency programs and operations.
+
+(b) *Submission of complaints.* Insured credit unions may submit complaints of suspected retaliation to the NCUA Office of Inspector General, 1775 Duke Street, Alexandria, VA 22314-3428. Complaints should include an explanation of the circumstances surrounding the complaint and evidence of any retaliation. Information submitted as part of a complaint shall be kept confidential.
+
+(c) *Disciplinary action.* Any retaliation by NCUA staff will subject the employee to appropriate disciplinary or remedial action by the appropriate supervisor. Such disciplinary or remedial action may include oral or written warning or admonishment, reprimand, suspension or separation from employment, change in assigned duties, or disqualification from a particular assignment, including prohibition from participating in any examination of the insured credit union that was the subject of the retaliation.

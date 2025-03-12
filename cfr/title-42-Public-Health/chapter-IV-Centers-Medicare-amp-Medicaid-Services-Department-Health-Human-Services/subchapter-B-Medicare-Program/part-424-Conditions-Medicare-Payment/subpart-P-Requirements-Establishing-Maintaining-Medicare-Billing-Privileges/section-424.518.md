@@ -1,7 +1,5 @@
 ##### § 424.518 Screening levels for Medicare providers and suppliers. #####
 
-Link to an amendment published at 82 FR 53368, Nov. 15, 2017.
-
 A Medicare contractor is required to screen all initial applications, including applications for a new practice location, and any applications received in response to a revalidation request based on a CMS assessment of risk and assignment to a level of “limited,” “moderate,” or “high.”
 
 (a) *Limited categorical risk* - (1) *Limited categorical risk: Provider and supplier categories.* CMS has designated the following providers and suppliers as “limited” categorical risk:
@@ -68,6 +66,8 @@ A Medicare contractor is required to screen all initial applications, including 
 
 (x) Revalidating DMEPOS suppliers.
 
+(xi) Revalidating MDPP suppliers.
+
 (2) *Moderate screening level: Screening requirements.* When CMS designates a provider or supplier as a “moderate” categorical level of risk, the Medicare contractor does all of the following:
 
 (i) Performs the “limited” screening requirements described in paragraph (a)(2) of this section.
@@ -79,6 +79,8 @@ A Medicare contractor is required to screen all initial applications, including 
 (i) Prospective (newly enrolling) home health agencies.
 
 (ii) Prospective (newly enrolling) DMEPOS suppliers.
+
+(iii) Prospective (newly enrolling) MDPP suppliers
 
 (2) *High screening level: Screening requirements.* When CMS designates a provider or supplier as a “high” categorical level of risk, the Medicare contractor does all of the following:
 
@@ -124,4 +126,4 @@ A Medicare contractor is required to screen all initial applications, including 
 
 (ii) Revoked under § 424.535(a)(1).
 
-[76 FR 5963, Feb. 2, 2011]
+[76 FR 5963, Feb. 2, 2011, as amended at 82 FR 53368, Nov. 15, 2017]

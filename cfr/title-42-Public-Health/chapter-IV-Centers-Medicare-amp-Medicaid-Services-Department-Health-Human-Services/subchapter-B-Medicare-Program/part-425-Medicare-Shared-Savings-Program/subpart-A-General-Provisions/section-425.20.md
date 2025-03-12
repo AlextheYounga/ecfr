@@ -1,7 +1,5 @@
 ##### § 425.20 Definitions. #####
 
-Link to an amendment published at 82 FR 53368, Nov. 15, 2017.
-
 As used in this part, unless otherwise indicated -
 
 *Accountable care organization* (ACO) means a legal entity that is recognized and authorized under applicable State, Federal, or Tribal law, is identified by a Taxpayer Identification Number (TIN), and is formed by one or more ACO participants(s) that is(are) defined at § 425.102(a) and may also include any other ACO participants described at § 425.102(b).
@@ -108,61 +106,15 @@ As used in this part, unless otherwise indicated -
 
 *Physician Quality Reporting System (PQRS)* means the quality reporting system established under section 1848(k) of the Act.
 
-*Primary care physician* means a physician included in an attestation by the ACO as provided under § 425.404 for services furnished in an FQHC or RHC, or a physician who has a primary care specialty designation of -
+*Primary care physician* means:
 
-(1) For performance years 2012 through 2015, internal medicine, general practice, family practice, or geriatric medicine; and
+(1) For performance years 2012 through 2015, a physician included in an attestation by the ACO as provided under § 425.404 for services furnished in an FQHC or RHC, or a physician who has a primary care specialty designation of internal medicine, general practice, family practice, or geriatric medicine;
 
-(2) For performance year 2016 and subsequent years, internal medicine, general practice, family practice, geriatric medicine, or pediatric medicine.
+(2) For performance years 2016 through 2018, a physician included in an attestation by the ACO as provided under § 425.404 for services furnished in an FQHC or RHC, or a physician who has a primary care specialty designation of internal medicine, general practice, family practice, geriatric medicine, or pediatric medicine; and
 
-*Primary care services* means the set of services identified by the following HCPCS codes:
+(3) For performance year 2019 and subsequent years, a physician who has a primary care specialty designation of internal medicine, general practice, family practice, geriatric medicine, or pediatric medicine.
 
-(1) For performance years 2012 through 2015 as follows:
-
-(i) 99201 through 99215.
-
-(ii)(A) 99304 through 99340 and 99341 through 99350.
-
-(B) G0402 (the code for the Welcome to Medicare visit).
-
-(C) G0438 and G0439 (codes for the annual wellness visits).
-
-(iii) Revenue center codes 0521, 0522, 0524, and 0525 submitted by FQHCs (for services furnished prior to January 1, 2011), or by RHCs.
-
-(2) For performance year 2016 as follows:
-
-(i) 99201 through 99215.
-
-(ii)(A) 99304 through 99340 and 99341 through 99350.
-
-(B) G0402 (the code for the Welcome to Medicare visit).
-
-(C) G0438 and G0439 (codes for the annual wellness visits).
-
-(iii) Revenue center codes 0521, 0522, 0524, and 0525 submitted by FQHCs (for services furnished prior to January 1, 2011), or by RHCs.
-
-(iv) 99495, 99496, and 99490.
-
-(v) G0463 for services furnished in ETA hospitals.
-
-(3) Additional codes designated by CMS as primary care services for purposes of the Shared Savings Program, including new HCPCS/CPT and revenue center codes and any subsequently modified or replacement codes for the HCPCS/CPT and revenue center codes identified in paragraphs (1) through (2) of this definition.
-
-(4) For performance years 2017 and subsequent years as follows:
-
-(i) 99201 through 99215.
-
-(ii) 99304-99318 (excluding claims including the POS 31 modifier) and 99319-99340.
-
-(iii) 99341 through 99350.
-
-(iv) 99495, 99496 and 99490.
-
-(v) G0402 (the code for the Welcome to Medicare visit).
-
-(vi) G0438 and G0439 (codes for the annual wellness visits).
-
-(vii) Revenue center codes 0521, 0522, 0524, 0525 submitted by FQHCs (for services furnished prior to January 1, 2011), or by RHCs.
-
-(viii) G0463 for services furnished in ETA hospitals.
+*Primary care services* means the set of services identified by the HCPCS and revenue center codes designated under § 425.400(c).
 
 *Quality measures* means the measures defined by the Secretary, under section 1899 of the Act, to assess the quality of care furnished by an ACO, such as measures of clinical processes and outcomes, patient and, where practicable, caregiver experience of care and utilization.
 
@@ -178,4 +130,4 @@ As used in this part, unless otherwise indicated -
 
 *Two-sided model* means a model under which the ACO may share savings with the Medicare program, if it meets the requirements for doing so, and is also liable for sharing any losses incurred under subpart G of this part.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32833, June 9, 2015; 80 FR 71385, Nov. 16, 2015; 81 FR 38013, June 10, 2016]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32833, June 9, 2015; 80 FR 71385, Nov. 16, 2015; 81 FR 38013, June 10, 2016; 82 FR 53368, Nov. 15, 2017]

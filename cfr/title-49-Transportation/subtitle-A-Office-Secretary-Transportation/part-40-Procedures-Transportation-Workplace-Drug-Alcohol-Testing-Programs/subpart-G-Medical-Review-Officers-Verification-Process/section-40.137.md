@@ -1,8 +1,6 @@
-##### § 40.137 On what basis does the MRO verify test results involving marijuana, cocaine, amphetamines, or PCP? #####
+##### § 40.137 On what basis does the MRO verify test results involving marijuana, cocaine, amphetamines, semi-synthetic opioids, or PCP? #####
 
-Link to an amendment published at 82 FR 52245, Nov. 13, 2017.
-
-(a) As the MRO, you must verify a confirmed positive test result for marijuana, cocaine, amphetamines, and/or PCP unless the employee presents a legitimate medical explanation for the presence of the drug(s)/metabolite(s) in his or her system.
+(a) As the MRO, you must verify a confirmed positive test result for marijuana, cocaine, amphetamines, semi-synthetic opioids (*i.e.,* hydrocodone, hydromorphone, oxycodone, and oxymorphone), and/or PCP unless the employee presents a legitimate medical explanation for the presence of the drug(s)/metabolite(s) in his or her system. In determining whether an employee's legally valid prescription consistent with the Controlled Substances Act for a substance in these categories constitutes a legitimate medical explanation, you must not question whether the prescribing physician should have prescribed the substance.
 
 (b) You must offer the employee an opportunity to present a legitimate medical explanation in all cases.
 
@@ -19,3 +17,5 @@ Link to an amendment published at 82 FR 52245, Nov. 13, 2017.
 (3) Use of the substance can form the basis of a legitimate medical explanation only if it is used consistently with its proper and intended medical purpose.
 
 (4) Even if you find that there is a legitimate medical explanation under this paragraph (e) and verify a test negative, you may have a responsibility to raise fitness-for-duty considerations with the employer (see § 40.327).
+
+[65 FR 79526, Dec. 19, 2000, as amended at 82 FR 52245, Nov. 13, 2017]

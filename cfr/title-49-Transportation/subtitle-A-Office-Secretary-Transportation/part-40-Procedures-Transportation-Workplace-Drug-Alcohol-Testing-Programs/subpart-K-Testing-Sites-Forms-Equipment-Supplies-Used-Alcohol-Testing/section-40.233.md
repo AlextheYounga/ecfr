@@ -1,8 +1,6 @@
 ##### § 40.233 What are the requirements for proper use and care of EBTs? #####
 
-Link to an amendment published at 82 FR 52246, Nov. 13, 2017.
-
-(a) As an EBT manufacturer, you must submit, for NHTSA approval, a quality assurance plan (QAP) for your EBT before NHTSA places the EBT on the CPL.
+(a) As an EBT manufacturer, you must submit, for NHTSA approval, a quality assurance plan (QAP) for your EBT before ODAPC places the EBT on its Web page for “Approved Evidential Breath Measurement Devices.”
 
 (1) Your QAP must specify the methods used to perform external calibration checks on the EBT, the tolerances within which the EBT is regarded as being in proper calibration, and the intervals at which these checks must be performed. In designating these intervals, your QAP must take into account factors like frequency of use, environmental conditions (*e.g.,* temperature, humidity, altitude) and type of operation (*e.g.,* stationary or mobile).
 
@@ -18,6 +16,8 @@ Link to an amendment published at 82 FR 52246, Nov. 13, 2017.
 
 (3) If an EBT fails an external check of calibration, you must take the EBT out of service. You may not use the EBT again for DOT alcohol testing until it is repaired and passes an external calibration check.
 
-(4) You must maintain records of the inspection, maintenance, and calibration of EBTs as provided in § 40.333(a)(2) .
+(4) You must maintain records of the inspection, maintenance, and calibration of EBTs as provided in § 40.333(a)(3).
 
 (5) You must ensure that inspection, maintenance, and calibration of the EBT are performed by its manufacturer or a maintenance representative certified either by the manufacturer or by a state health agency or other appropriate state agency.
+
+[65 FR 79526, Dec. 19, 2000, as amended at 82 FR 52246, Nov. 13, 2017]

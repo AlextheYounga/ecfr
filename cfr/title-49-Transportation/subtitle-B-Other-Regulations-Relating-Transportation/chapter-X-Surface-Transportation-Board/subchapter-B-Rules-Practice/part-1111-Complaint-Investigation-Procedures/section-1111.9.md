@@ -1,31 +1,29 @@
-##### § 1111.9 Procedural schedule in cases using simplified standards. #####
+##### § 1111.9 Procedural schedule in stand-alone cost cases. #####
 
-(a) *Procedural schedule.* Absent a specific order by the Board, the following general procedural schedules will apply in cases using the simplified standards:
+(a) *Procedural schedule.* Absent a specific order by the Board, the following general procedural schedule will apply in stand-alone cost cases after the pre-complaint period initiated by the pre-filing notice:
 
-(1) In cases relying upon the Simplified-SAC methodology:
+(1) Day 0 - Complaint filed, discovery period begins.
 
-Day 0 - Complaint filed (including complainant's disclosure).Day 10 - Mediation begins.Day 20 - Defendant's answer to complaint (including defendant's initial disclosure).Day 30 - Mediation ends; discovery begins.Day 140 - Defendant's second disclosure.Day 150 - Discovery closes.Day 220 - Opening evidence.Day 280 - Reply evidence.Day 310 - Rebuttal evidenceDay 320 - Technical conference (market dominance and merits).Day 330 - Final briefs.
+(2) Day 7 or before - Conference of the parties convened pursuant to § 1111.11(b).
 
-(2) In cases relying upon the Three-Benchmark method:
+(3) Day 20 - Defendant's answer to complaint due.
 
-Day 0 - Complaint filed (including complainant's disclosure).Day 10 - Mediation begins. (STB production of unmasked Waybill Sample.)Day 20 - Defendant's answer to complaint (including defendant's initial disclosure).Day 30 - Mediation ends; discovery begins.Day 60 - Discovery closes.Day 90 - Complainant's opening (initial tender of comparison group and opening evidence on market dominance). Defendant's opening (initial tender of comparison group).Day 95 - Technical conference on comparison group.Day 120 - Parties' final tenders on comparison group. Defendant's reply on market dominance.Day 150 - Parties' replies to final tenders. Complainant's rebuttal on market dominance.
+(4) Day 150 - Discovery completed.
 
-(b) *Defendant's second disclosure.* In cases using the Simplified-SAC methodology, the defendant must make the following disclosures to the complainant by Day 170 of the procedural schedule.
+(5) Day 210 - Complainant files opening evidence on absence of intermodal and intramodal competition, variable cost, and stand-alone cost issues.
 
-(1) Identification of all traffic that moved over the routes replicated by the SARR in the Test Year.
+(6) Day 270 - Defendant files reply evidence to complainant's opening evidence.
 
-(2) Information about those movements, in electronic format, aggregated by origin-destination pair and shipper, showing the origin, destination, volume, and total revenues from each movement.
+(7) Day 305 - Complainant files rebuttal evidence to defendant's reply evidence.
 
-(3) Total operating and equipment cost calculations for each of those movements, provided in electronic format.
+(8) Day 335 - Complainant and defendant file final briefs.
 
-(4) Revenue allocation for the on-SARR portion of each cross-over movement in the traffic group provided in electronic format.
+(9) Day 485 or before - The Board issues its decision.
 
-(5) Total trackage rights payments paid or received during the Test Year associated with the route replicated by the SARR.
+(b) *Staggered filings; final briefs.* (1) The parties may submit non-public (*e.g.,* confidential, highly confidential) versions of filings on the dates identified in the procedural schedule, and submit public versions of those filings within three business days thereafter.
 
-(6) All workpapers and documentation necessary to support the calculations.
+(2) Final briefs are limited to 30 pages, inclusive of exhibits.
 
-(c) *Conferences with parties.* The Board may convene a conference of the parties with Board staff to facilitate voluntary resolution of discovery disputes and to address technical issues that may arise.
+(c) *Conferences with parties.* (1) The Board will convene a technical conference of the parties with Board staff prior to the filing of any evidence in a stand-alone cost rate case, for the purpose of reaching agreement on the operating characteristics that are used in the variable cost calculations for the movements at issue. The parties should jointly propose a schedule for this technical conference.
 
-(d) *Complaint filed with a petition to revoke a class exemption.* If a complaint is filed simultaneously with a petition to revoke a class exemption, the Board will take no action on the complaint and the procedural schedule will be held in abeyance automatically until the petition to revoke is adjudicated.
-
-[72 FR 51376, Sept. 7, 2007]
+(2) In addition, the Board may convene a conference of the parties with Board staff, after discovery requests are served but before any motions to compel may be filed, to discuss discovery matters in stand-alone cost rate cases. The parties should jointly propose a schedule for this discovery conference.

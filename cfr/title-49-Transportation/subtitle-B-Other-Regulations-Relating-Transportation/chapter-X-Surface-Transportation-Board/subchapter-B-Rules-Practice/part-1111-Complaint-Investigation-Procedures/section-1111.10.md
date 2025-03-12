@@ -1,7 +1,73 @@
-##### § 1111.10 Meeting to discuss procedural matters. #####
+##### § 1111.10 Procedural schedule in cases using simplified standards. #####
 
-(a) *Generally.* In all complaint proceedings, other than those challenging the reasonableness of a rail rate based on stand-alone cost or the simplified standards, the parties shall meet, or discuss by telephone, discovery and procedural matters within 12 days after an answer to a complaint is filed. Within 19 days after an answer to a complaint is filed, the parties, either jointly or separately, shall file a report with the Board setting forth a proposed procedural schedule to govern future activities and deadlines in the case.
+(a) *Procedural schedule.* Absent a specific order by the Board, the following general procedural schedules will apply in cases using the simplified standards:
 
-(b) *Simplified standards complaints.* In complaints challenging the reasonableness of a rail rate based on the simplified standards, the parties shall meet, or discuss by telephone or through email, discovery and procedural matters within 7 days after the mediation period ends. The parties should inform the Board as soon as possible thereafter whether there are unresolved disputes that require Board intervention and, if so, the nature of such disputes.
+(1)(i) In cases relying upon the Simplified-SAC methodology:
 
-[72 FR 51376, Sept. 7, 2007, as amended at 78 FR 29084, May 17, 2013]
+(A) Day 0 - Complaint filed (including complainant's disclosure).
+
+(B) Day 10 - Mediation begins.
+
+(C) Day 20 - Defendant's answer to complaint (including defendant's initial disclosure).
+
+(D) Day 30 - Mediation ends; discovery begins.
+
+(E) Day 140 - Defendant's second disclosure.
+
+(F) Day 150 - Discovery closes.
+
+(G) Day 220 - Opening evidence.
+
+(H) Day 280 - Reply evidence.
+
+(I) Day 310 - Rebuttal evidence.
+
+(J) Day 320 - Technical conference (market dominance and merits).
+
+(K) Day 330 - Final briefs.
+
+(ii) In addition, the Board will appoint a liaison within 10 business days of the filing of the complaint.
+
+(2)(i) In cases relying upon the Three-Benchmark methodology:
+
+(A) Day 0 - Complaint filed (including complainant's disclosure).
+
+(B) Day 10 - Mediation begins. (STB production of unmasked Waybill Sample.)
+
+(C) Day 20 - Defendant's answer to complaint (including defendant's initial disclosure).
+
+(D) Day 30 - Mediation ends; discovery begins.
+
+(E) Day 60 - Discovery closes.
+
+(F) Day 90 - Complainant's opening (initial tender of comparison group and opening evidence on market dominance). Defendant's opening (initial tender of comparison group).
+
+(G) Day 95 - Technical conference on comparison group.
+
+(H) Day 120 - Parties' final tenders on comparison group. Defendant's reply on market dominance.
+
+(I) Day 150 - Parties' replies to final tenders. Complainant's rebuttal on market dominance.
+
+(ii) In addition, the Board will appoint a liaison within 10 business days of the filing of the complaint.
+
+(b) *Staggered filings; final briefs.* (1) The parties may submit non-public (*e.g.,* confidential, highly confidential) versions of filings on the dates identified in the procedural schedule, and submit public versions of those filings within three business days thereafter.
+
+(2) In cases relying upon the Simplified-SAC methodology, final briefs are limited to 30 pages, inclusive of exhibits.
+
+(c) *Defendant's second disclosure.* In cases using the Simplified-SAC methodology, the defendant must make the following disclosures to the complainant by Day 170 of the procedural schedule.
+
+(1) Identification of all traffic that moved over the routes replicated by the SARR in the Test Year.
+
+(2) Information about those movements, in electronic format, aggregated by origin-destination pair and shipper, showing the origin, destination, volume, and total revenues from each movement.
+
+(3) Total operating and equipment cost calculations for each of those movements, provided in electronic format.
+
+(4) Revenue allocation for the on-SARR portion of each cross-over movement in the traffic group provided in electronic format.
+
+(5) Total trackage rights payments paid or received during the Test Year associated with the route replicated by the SARR.
+
+(6) All workpapers and documentation necessary to support the calculations.
+
+(d) *Conferences with parties.* The Board may convene a conference of the parties with Board staff to facilitate voluntary resolution of discovery disputes and to address technical issues that may arise.
+
+(e) *Complaint filed with a petition to revoke a class exemption.* If a complaint is filed simultaneously with a petition to revoke a class exemption, the Board will take no action on the complaint and the procedural schedule will be held in abeyance automatically until the petition to revoke is adjudicated.

@@ -1,7 +1,5 @@
 ##### § 300.21 Definitions. #####
 
-Link to an amendment published at 82 FR 56178, Nov. 28, 2017.
-
 In addition to the terms defined in § 300.2, in the Act, the Convention for the Establishment of an Inter-American Tropical Tuna Commission (Convention), and the Convention for the Strengthening of the Inter-American Tropical Tuna Commission Established by the 1949 Convention between the United States of America and the Republic of Costa Rica (Antigua Convention), the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, in the Act, or in the Antigua Convention, the definition in this section shall apply.
 
 *Commercial* with respect to commercial fishing, means fishing in which the fish harvested, either in whole or in part, are intended to enter commerce through sale, barter or trade.
@@ -48,6 +46,8 @@ In addition to the terms defined in § 300.2, in the Act, the Convention for the
 
 *Regional Vessel Register (hereafter referred to as Vessel Register)* means the regional register of vessels authorized to fish for tuna and tuna-like species in the Convention Area, as established by the Inter-American Tropical Tuna Commission in June 2000.
 
+*Shark line* means a type of fishing gear used to target sharks and consisting of an individual hooked line or hooked lines attached to the floatline or directly to the floats of longline gear and deployed in the water column at depths shallower than the mainline.
+
 *South Pacific Tuna Treaty* means the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America (50 CFR part 300, subpart D).
 
 *Sustainable Fisheries Division (SFD)* means the Assistant Regional Administrator for the Sustainable Fisheries Division, West Coast Region, National Marine Fisheries Service, or a designee.
@@ -74,4 +74,4 @@ In addition to the terms defined in § 300.2, in the Act, the Convention for the
 
 *VMS unit,* sometimes known as a “mobile transmitting unit,” means a transceiver or communications device, including all hardware and software that is carried and operated on a vessel as part of a VMS.
 
-[61 FR 35550, July 5, 1996, as amended at 64 FR 29133, May 28, 1999; 64 FR 44430, Aug. 16, 1999; 69 FR 67277, Nov. 17, 2004; 70 FR 19010, Apr. 12, 2005; 74 FR 1618, Jan. 13, 2009; 74 FR 61050, Nov. 23, 2009; 76 FR 287, Jan. 4, 2011; 76 FR 68337, Nov. 4, 2011; 79 FR 19489, Apr. 9, 2014; 80 FR 38989, July 8, 2015; 80 FR 60538, Oct. 7, 2015; 81 FR 24504, Apr. 26, 2016; 81 FR 50403, Aug. 1, 2016; 81 FR 86969, Dec. 2, 2016; 82 FR 17385, Apr. 11, 2017]
+[61 FR 35550, July 5, 1996, as amended at 64 FR 29133, May 28, 1999; 64 FR 44430, Aug. 16, 1999; 69 FR 67277, Nov. 17, 2004; 70 FR 19010, Apr. 12, 2005; 74 FR 1618, Jan. 13, 2009; 74 FR 61050, Nov. 23, 2009; 76 FR 287, Jan. 4, 2011; 76 FR 68337, Nov. 4, 2011; 79 FR 19489, Apr. 9, 2014; 80 FR 38989, July 8, 2015; 80 FR 60538, Oct. 7, 2015; 81 FR 24504, Apr. 26, 2016; 81 FR 50403, Aug. 1, 2016; 81 FR 86969, Dec. 2, 2016; 82 FR 17385, Apr. 11, 2017; 82 FR 56178, Nov. 28, 2017]

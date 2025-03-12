@@ -1,7 +1,5 @@
 ##### § 414.510 Laboratory date of service for clinical laboratory and pathology specimens. #####
 
-Link to an amendment published at 82 FR 52636, Nov. 13, 2017.Link to republication published at 82 FR 59496, Dec. 14, 2017.
-
 The date of service for either a clinical laboratory test or the technical component of physician pathology service is as follows:
 
 (a) Except as provided under paragraph (b) of this section, the date of service of the test must be the date the specimen was collected.
@@ -38,4 +36,16 @@ The date of service for either a clinical laboratory test or the technical compo
 
 (4) For purposes of this section, “chemotherapy sensitivity test” means a test identified by the Secretary as a test that requires a fresh tissue sample to test the sensitivity of tumor cells to various chemotherapeutic agents. The Secretary identifies such tests through program instructions.
 
-[71 FR 69786, Dec. 1, 2006, as amended at 72 FR 66402, Nov. 27, 2007]
+(5) In the case of a molecular pathology test or a test designated by CMS as an ADLT under paragraph (1) of the definition of an advanced diagnostic laboratory test in § 414.502, the date of service of the test must be the date the test was performed only if -
+
+(i) The test was performed following a hospital outpatient's discharge from the hospital outpatient department;
+
+(ii) The specimen was collected from a hospital outpatient during an encounter (as both are defined in § 410.2 of this chapter);
+
+(iii) It was medically appropriate to have collected the sample from the hospital outpatient during the hospital outpatient encounter;
+
+(iv) The results of the test do not guide treatment provided during the hospital outpatient encounter; and
+
+(v) The test was reasonable and medically necessary for the treatment of an illness.
+
+[71 FR 69786, Dec. 1, 2006, as amended at 72 FR 66402, Nov. 27, 2007; 82 FR 52636, Nov. 13, 2017; 82 FR 59496, Dec. 14, 2017]

@@ -1,7 +1,5 @@
 ##### § 32.9000 Glossary of terms. #####
 
-Link to an amendment published at 82 FR 20843, May 4, 2017.
-
 When used in this system of accounts:
 
 *Accelerated depreciation* means a depreciation method or period of time, including the treatment given cost of removal and gross salvage, used in calculating depreciation deductions on income tax returns which is different from the depreciation method or period of time prescribed by this Commission for use in calculating depreciation expense recorded in a company's books of account.
@@ -58,9 +56,7 @@ An intrasystem does not include property, plant or equipment which are not solel
 
 *Minor items,* as applied to depreciable telecommunications plant, means any part or element of such plant, which when removed, (with or without replacement) does not initiate retirement accounting.
 
-*Original cost* or *cost*, as applied to telecommunications plant, rights of way and other intangible property, means the actual money cost of (or the current money value of any consideration other than money exchanged for) property at the time when it was first dedicated to use by a regulated telecommunications entity, whether the accounting company or by predecessors.
-
-For the application of this definition to property acquired from predecessors see § 32.2000(b)(1) of subpart C. Note also the definition of Cost in this section.
+*Original cost* or *cost,* as applied to telecommunications plant, rights of way and other intangible property, means the actual money cost of (or the current money value of any consideration other than money exchanged for) property at the time when it was purchased.
 
 *Plant retired* means plant which has been removed, sold, abandoned, destroyed, or otherwise withdrawn from service.
 
@@ -84,4 +80,4 @@ For the application of this definition to property acquired from predecessors se
 
 *Tangible property* means assets characterized by physical existence, such as land, buildings, equipment, furniture, fixtures and tools.
 
-[51 FR 43499, Dec. 2, 1986, as amended at 61 FR 50245, Sept. 25, 1996; 62 FR 39778, July 24, 1997; 62 FR 51064, Sept. 30, 1997; 64 FR 50008, Sept. 15, 1999; 67 FR 5700, Feb. 6, 2002]
+[51 FR 43499, Dec. 2, 1986, as amended at 61 FR 50245, Sept. 25, 1996; 62 FR 39778, July 24, 1997; 62 FR 51064, Sept. 30, 1997; 64 FR 50008, Sept. 15, 1999; 67 FR 5700, Feb. 6, 2002; 82 FR 20843, May 4, 2017]

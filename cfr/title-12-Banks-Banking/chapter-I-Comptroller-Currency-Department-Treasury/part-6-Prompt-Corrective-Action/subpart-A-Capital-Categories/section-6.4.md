@@ -1,7 +1,5 @@
 ##### § 6.4 Capital measures and capital category definition. #####
 
-Link to an amendment published at 79 FR 24539, May 1, 2014.
-
 (a) *Capital measures* - (1) *Capital measures applicable before January 1, 2015.* On or before December 31, 2014, for purposes of section 38 and this part, the relevant capital measures for all national banks and Federal savings associations are:
 
 (i) Total Risk-Based Capital Measure: the total risk-based capital ratio;
@@ -82,7 +80,11 @@ Link to an amendment published at 79 FR 24539, May 1, 2014.
 
 (iii) Common Equity Tier 1 Capital Measure: the national bank or Federal savings association has a common equity tier 1 risk-based capital ratio of 6.5 percent or greater;
 
-(iv) Leverage Ratio: the national bank or Federal savings association has a leverage ratio of 5.0 or greater; and
+(iv) Leverage Measure:
+
+(A) The national bank or Federal savings association has a leverage ratio of 5.0 percent or greater; and
+
+(B) With respect to a national bank or Federal savings association that is a subsidiary of a U.S. top-tier bank holding company that has more than $700 billion in total assets as reported on the company's most recent Consolidated Financial Statement for Bank Holding Companies (FR Y-9C) or more than $10 trillion in assets under custody as reported on the company's most recent Banking Organization Systemic Risk Report (Y-15), on Jan. 1, 2018 and thereafter, the national bank or Federal savings association has a supplementary leverage ratio of 6.0 percent or greater; and
 
 (v) The national bank or Federal savings association is not subject to any written agreement, order or capital directive, or prompt corrective action directive issued by the OCC pursuant to section 8 of the FDI Act, the International Lending Supervision Act of 1983 (12 U.S.C. 3907), the Home Owners' Loan Act (12 U.S.C. 1464(t)(6)(A)(ii)), or section 38 of the FDI Act, or any regulation thereunder, to meet and maintain a specific capital level for any capital measure.
 
@@ -165,3 +167,5 @@ Link to an amendment published at 79 FR 24539, May 1, 2014.
 (1) *Unsafe or unsound condition.* The OCC has determined, after notice and opportunity for hearing pursuant to subpart M of part 19 of this chapter with respect to national banks and § 165.8 of this chapter with respect to Federal savings associations, that the national bank or Federal savings association is in unsafe or unsound condition; or
 
 (2) *Unsafe or unsound practice.* The OCC has determined, after notice and opportunity for hearing pursuant to subpart M of part 19 of this chapter with respect to national banks and § 165.8 of this chapter with respect to Federal savings associations, that in the most recent examination of the national bank or Federal savings association, the national bank or Federal savings association received, and has not corrected a less-than-satisfactory rating for any of the categories of asset quality, management, earnings, or liquidity.
+
+[78 FR 62275, Oct. 11, 2013, as amended at 79 FR 24539, May 1, 2014]

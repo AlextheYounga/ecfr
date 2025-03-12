@@ -1,7 +1,5 @@
 ##### § 40.135 What does the MRO tell the employee at the beginning of the verification interview? #####
 
-Link to an amendment published at 82 FR 52245, Nov. 13, 2017.
-
 (a) As the MRO, you must tell the employee that the laboratory has determined that the employee's test result was positive, adulterated, substituted, or invalid, as applicable. You must also tell the employee of the drugs for which his or her specimen tested positive, or the basis for the finding of adulteration or substitution.
 
 (b) You must explain the verification interview process to the employee and inform the employee that your decision will be based on information the employee provides in the interview.
@@ -16,6 +14,6 @@ Link to an amendment published at 82 FR 52245, Nov. 13, 2017.
 
 (3) For purposes of this paragraph (d), the persons to whom this information may be provided include the employer, a SAP evaluating the employee as part of the return to duty process (see § 40.293(g)), DOT, another Federal safety agency (*e.g.,* the NTSB), or any state safety agency as required by state law.
 
-(e) You must also advise the employee that, after informing any third party about any medication the employee is using pursuant to a legally valid prescription under the Controlled Substances Act, you will allow 5 days for the employee to have the prescribing physician contact you to determine if the medication can be changed to one that does not make the employee medically unqualified or does not pose a significant safety risk. If, as an MRO, you receive such information from the prescribing physician, you must transmit this information to any third party to whom you previously provided information about the safety risks of the employee's other medication.
+(e) You must also advise the employee that, before informing any third party about any medication the employee is using pursuant to a legally valid prescription consistent with the Controlled Substances Act, you will allow 5 business days from the date you report the verified negative result for the employee to have the prescribing physician contact you to determine if the medication can be changed to one that does not make the employee medically unqualified or does not pose a significant safety risk. If, in your reasonable medical judgment, a medical qualification issue or a significant safety risk remains after you communicate with the employee's prescribing physician or after 5 business days, whichever is shorter, you must follow § 40.327. If, as the MRO, you receive information that eliminates the medical qualification issue or significant safety risk, you must transmit this information to any third party to whom you previously provided information under § 40.327.
 
-[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41952, Aug. 9, 2001]
+[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41952, Aug. 9, 2001; 82 FR 52245, Nov. 13, 2017]

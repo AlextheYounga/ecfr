@@ -1,6 +1,6 @@
 ##### § 635.71 Prohibitions. #####
 
-Link to an amendment published at 82 FR 16508, Apr. 4, 2017.Link to an amendment published at 82 FR 57551, Dec. 6, 2017.Link to an amendment published at 82 FR 61498, Dec. 28, 2017.
+Link to an amendment published at 82 FR 57551, Dec. 6, 2017.Link to an amendment published at 82 FR 61498, Dec. 28, 2017.
 
 In addition to the prohibitions specified in § 600.725 of this chapter, it is unlawful for any person subject to the jurisdiction of the United States to violate any provision of this part, ATCA, the Magnuson-Stevens Act, or any other rules promulgated under ATCA or the Magnuson-Stevens Act.
 
@@ -312,11 +312,17 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (20) Retain, possess, or land porbeagle sharks that were alive at the time of haulback as specified in §§ 635.21(c)(1)(iii), 635.22(a)(3), and 635.24 (a)(10).
 
-(21) - (23) [Reserved]
+(21) Fish for, retain, possess, or land sharks without a shark endorsement, as specified in § 635.4(b) and (c).
+
+(22) Except when fishing only with flies or artificial lures, fish for, retain, possess, or land sharks south of 41°43′ N. latitude without deploying non-offset, corrodible circle hooks when fishing at a registered recreational HMS fishing tournament that has awards or prizes for sharks, as specified in § 635.21(f) and (k).
+
+(23) Except when fishing only with flies or artificial lures, fish for, retain, possess, or land sharks south of 41°43′ N. latitude without deploying non-offset, corrodible circle hooks when issued an Atlantic HMS Angling permit or HMS Charter/Headboat permit with a shark endorsement, as specified in § 635.21(f) and (k).
 
 (24) Release sharks with more than 3 feet (91.4 cm) of trailing gear, as specified in § 635.21(c)(6).
 
 (25) Fail to follow the fleet communication and relocation protocol for dusky sharks as specified at § 635.21(c)(6), (d)(2), and (g)(5).
+
+(26) Deploy bottom longline gear without circle hooks, or have on board both bottom longline gear and non-circle hooks, as specified at § 635.21(d)(4).
 
 (e) *Swordfish.* It is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 

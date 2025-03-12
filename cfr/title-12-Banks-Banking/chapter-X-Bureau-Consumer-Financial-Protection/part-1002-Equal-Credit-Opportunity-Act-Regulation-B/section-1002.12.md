@@ -1,7 +1,5 @@
 ##### § 1002.12 Record retention. #####
 
-Link to an amendment published at 82 FR 45694, Oct. 2, 2017.
-
 (a) *Retention of prohibited information.* A creditor may retain in its files information that is prohibited by the Act or this part for use in evaluating applications, without violating the Act or this part, if the information was obtained:
 
 (1) From any source prior to March 23, 1977;
@@ -10,9 +8,9 @@ Link to an amendment published at 82 FR 45694, Oct. 2, 2017.
 
 (3) As required to monitor compliance with the Act and this part or other Federal or state statutes or regulations.
 
-(b) *Preservation of records* - (1) *Applications.* For 25 months (12 months for business credit, except as provided in paragraph (b)(5) of this section) after the date that a creditor notifies an applicant of action taken on an application or of incompleteness, the creditor shall retain in original form or a copy thereof:
+(b) *Preservation of records*—(1) *Applications.* For 25 months (12 months for business credit, except as provided in paragraph (b)(5) of this section) after the date that a creditor notifies an applicant of action taken on an application or of incompleteness, the creditor shall retain in original form or a copy thereof:
 
-(i) Any application that it receives, any information required to be obtained concerning characteristics of the applicant to monitor compliance with the Act and this part or other similar law, and any other written or recorded information used in evaluating the application and not returned to the applicant at the applicant's request;
+(i) Any application that it receives, any information required to be obtained concerning characteristics of the applicant to monitor compliance with the Act and this part or other similar law, any information obtained pursuant to § 1002.5(a)(4), and any other written or recorded information used in evaluating the application and not returned to the applicant at the applicant's request.
 
 (ii) A copy of the following documents if furnished to the applicant in written form (or, if furnished orally, any notation or memorandum made by the creditor):
 
@@ -43,3 +41,5 @@ Link to an amendment published at 82 FR 45694, Oct. 2, 2017.
 (ii) The list of criteria the creditor used to select potential recipients of the solicitation; and
 
 (iii) Any correspondence related to complaints (formal or informal) about the solicitation.
+
+[76 FR 79445, Dec. 21, 2011, as amended at 82 FR 45694, Oct. 2, 2017]

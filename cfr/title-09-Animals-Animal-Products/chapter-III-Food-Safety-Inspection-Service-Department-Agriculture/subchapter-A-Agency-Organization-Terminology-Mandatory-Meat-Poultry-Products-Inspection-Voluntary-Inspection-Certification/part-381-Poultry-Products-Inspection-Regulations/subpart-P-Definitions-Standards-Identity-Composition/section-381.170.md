@@ -1,14 +1,12 @@
 ##### § 381.170 Standards for kinds and classes, and for cuts of raw poultry. #####
 
-Link to an amendment published at 81 FR 21709, Apr. 13, 2016.
-
 (a) The following standards specify the various classes of the specified kinds of poultry and the requirements for each class:
 
-(1) *Chickens* - (i) *Rock Cornish game hen or Cornish game hen.* A “Rock Cornish game hen” or “Cornish game hen” is a young, immature chicken (less than 5 weeks of age), of either sex, with a ready-to-cook carcass weight of not more than 2 pounds.
+(1) *Chickens*—(i) *Rock Cornish game hen or Cornish game hen.* A “Rock Cornish game hen” or “Cornish game hen” is a young, immature chicken (less than 5 weeks of age), of either sex, with a ready-to-cook carcass weight of not more than 2 pounds.
 
 (ii) *Broiler or fryer.* A “broiler” or “fryer” is a young chicken (less than 10 weeks of age), of either sex, that is tender-meated with soft, pliable, smooth-textured skin and flexible breastbone cartilage.
 
-(iii) *Roaster or roasting chicken.* A “roaster” or “roasting chicken” is a young chicken (between 8 and 12 weeks of age), of either sex, with a ready-to-cook carcass weight of 5 pounds or more, that is tender-meated with soft, pliable, smooth-textured skin and breastbone cartilage that is somewhat less flexible than that of a broiler or fryer.
+(iii) *Roaster or roasting chicken.* A “roaster” or “roasting chicken” is a young chicken (less than 12 weeks of age), of either sex, with a ready-to-cook carcass weight of 5.5 pounds or more, that is tender-meated with soft, pliable, smooth-textured skin and breastbone cartilage that is somewhat less flexible than that of a broiler or fryer.
 
 (iv) *Capon.* A “capon” is a surgically neutered male chicken (less than 4 months of age) that is tender-meated with soft, pliable, smooth-textured skin.
 
@@ -16,7 +14,7 @@ Link to an amendment published at 81 FR 21709, Apr. 13, 2016.
 
 (vi) *Cock or rooster.* A “cock” or “rooster” is an adult male chicken with coarse skin, toughened and darkened meat, and a nonflexible breastbone tip.
 
-(2) *Turkeys* - (i) *Fryer-roaster turkey.* A “fryer-roaster turkey” is an immature turkey (less than 12 weeks of age), of either sex, that is tender-meated with soft, pliable, smooth-textured skin, and flexible breastbone cartilage.
+(2) *Turkeys*—(i) *Fryer-roaster turkey.* A “fryer-roaster turkey” is an immature turkey (less than 12 weeks of age), of either sex, that is tender-meated with soft, pliable, smooth-textured skin, and flexible breastbone cartilage.
 
 (ii) *Young turkey.* A “young turkey” is a turkey (less than 8 months of age), of either sex, that is tender-meated with soft, pliable, smooth-textured skin and breastbone cartilage that is less flexible than that of a fryer-roaster turkey.
 
@@ -24,17 +22,17 @@ Link to an amendment published at 81 FR 21709, Apr. 13, 2016.
 
 (iv) *Mature or old (hen or tom) turkey.* A “mature turkey” or “old turkey” is an adult turkey (more than 15 months of age), of either sex, with coarse skin and toughened flesh. Sex designation is optional.
 
-(3) *Ducks* - (i) *Duckling.* A “duckling” is a young duck (less than 8 weeks of age), of either sex, that is tender-meated and has a soft bill and soft windpipe.
+(3) *Ducks*—(i) *Duckling.* A “duckling” is a young duck (less than 8 weeks of age), of either sex, that is tender-meated and has a soft bill and soft windpipe.
 
 (ii) *Roaster duck.* A “roaster duck” is a young duck (less than 16 weeks of age), of either sex, that is tender-meated and has a bill that is not completely hardened and a windpipe that is easily dented.
 
 (iii) *Mature duck or old duck.* A “mature duck” or an “old duck” is an adult duck (more than 6 months of age), of either sex, with toughened flesh, a hardened bill, and a hardened windpipe.
 
-(4) *Geese* - (i) *Young goose.* A “young goose” is an immature goose, of either sex, that is tender-meated and has a windpipe that is easily dented.
+(4) *Geese*—(i) *Young goose.* A “young goose” is an immature goose, of either sex, that is tender-meated and has a windpipe that is easily dented.
 
 (ii) *Mature goose or old goose.* A “mature goose” or “old goose” is an adult goose, of either sex, that has toughened flesh and a hardened windpipe.
 
-(5) *Guineas* - (i) *Young guinea.* A “young guinea” is an immature guinea, of either sex, that is tender-meated and has a flexible breastbone cartilage.
+(5) *Guineas*—(i) *Young guinea.* A “young guinea” is an immature guinea, of either sex, that is tender-meated and has a flexible breastbone cartilage.
 
 (ii) *Mature guinea or old guinea.* A “mature guinea” or “old guinea” is an adult guinea, of either sex, that has toughened flesh and a non-flexible breastbone.
 
@@ -84,4 +82,4 @@ Link to an amendment published at 81 FR 21709, Apr. 13, 2016.
 
 (22) “Major portions” of eviscerated poultry carcasses are either carcasses from which parts may be missing, or the front or rear portions of transversely-split carcasses.
 
-[37 FR 9706, May 16, 1972, as amended at 39 FR 4569, Feb. 5, 1974; 63 FR 48960, Sept. 11, 1998; 76 FR 68064, Nov. 3, 2011]
+[37 FR 9706, May 16, 1972, as amended at 39 FR 4569, Feb. 5, 1974; 63 FR 48960, Sept. 11, 1998; 76 FR 68064, Nov. 3, 2011; 81 FR 21709, Apr. 13, 2016]

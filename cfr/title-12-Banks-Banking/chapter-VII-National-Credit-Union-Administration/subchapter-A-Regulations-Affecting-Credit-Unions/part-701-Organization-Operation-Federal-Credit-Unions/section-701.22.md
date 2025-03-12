@@ -1,7 +1,5 @@
 ##### § 701.22 Loan participations. #####
 
-Link to an amendment published at 82 FR 50291, Oct. 30, 2017.
-
 This section applies only to loan participations as defined in paragraph (a) of this section. It does not apply to the purchase of an investment interest in a pool of loans. This section establishes the requirements a federally insured credit union must satisfy to purchase a participation in a loan. This section applies only to a federally insured credit union's purchase of a loan participation where the borrower is not a member of that credit union and where a continuing contractual obligation between the seller and purchaser is contemplated. Generally, a federal credit union's purchase of all or part of a loan made to one of its own members, subject to a limited exception for certain well capitalized federal credit unions in § 701.23(b)(2), where no continuing contractual obligation between the seller and purchaser is contemplated, is governed by § 701.23 of this part. Federally insured, state-chartered credit unions are required by § 741.225 of this chapter to comply with the loan participation requirements of this section. This section does not apply to corporate credit unions, as that term is defined in § 704.2 of this chapter.
 
 (a) For purposes of this section, the following definitions apply:
@@ -68,7 +66,7 @@ This section applies only to loan participations as defined in paragraph (a) of 
 
 (iv) Establish a limit on the aggregate amount of loan participations that may be purchased with respect to a single borrower, or group of associated borrowers, not to exceed 15 percent of the federally insured credit union's net worth, unless waived by the appropriate regional director, and, in the case of a federally insured, state-chartered credit union, with prior written concurrence of the appropriate state supervisory authority.
 
-(c) To seek a waiver from any of the limitations in paragraph (b) of this section, a federally insured credit union must submit a written request to its regional director with a full and detailed explanation of why it is requesting the waiver. Within 45 days of receipt of a completed waiver request, including all necessary supporting documentation and, if appropriate, any written concurrence, the regional director will provide the federally insured credit union a written response. The regional director's decision will be based on safety and soundness and other considerations; however, the regional director will not grant a waiver to a federally insured, state-chartered credit union without the prior written concurrence of the appropriate state supervisory authority. A federally insured credit union may appeal any part of the waiver determination to the NCUA Board. Appeals must be submitted through the regional director within 60 days of the date of the determination.
+(c) To seek a waiver from any of the limitations in paragraph (b) of this section, a federally insured credit union must submit a written request to its regional director with a full and detailed explanation of why it is requesting the waiver. Within 45 calendar days of receipt of a completed waiver request, including all necessary supporting documentation and, if appropriate, any written concurrence, the regional director will provide the federally insured credit union a written response. The regional director's decision will be based on safety and soundness and other considerations; however, the regional director will not grant a waiver to a federally insured, State-chartered credit union without the prior written concurrence of the appropriate State supervisory authority. A federally insured credit union may request the regional director to reconsider a denied waiver request and/or file an appeal with the NCUA Board in accordance with the procedures set forth in subpart B to part 746 of this chapter.
 
 (d) A loan participation agreement must:
 
@@ -92,4 +90,4 @@ This section applies only to loan participations as defined in paragraph (a) of 
 
 (vi) Circumstances and conditions under which participants may replace the servicer.
 
-[78 FR 37956, June 25, 2013, as amended at 81 FR 13553, Mar. 14, 2016]
+[78 FR 37956, June 25, 2013, as amended at 81 FR 13553, Mar. 14, 2016; 82 FR 50291, Oct. 30, 2017]

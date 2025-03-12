@@ -1,7 +1,5 @@
 ##### § 414.1335 Data submission criteria for the quality performance category. #####
 
-Link to an amendment published at 82 FR 53953, Nov. 16, 2017.
-
 (a) *Criteria.* A MIPS eligible clinician or group must submit data on MIPS quality measures in one of the following manners, as applicable:
 
 (1) *Via claims, qualified registry, EHR or QCDR submission mechanism.* For the performance period -
@@ -10,9 +8,7 @@ Link to an amendment published at 82 FR 53953, Nov. 16, 2017.
 
 (ii) Subject to paragraph (a)(1)(i) of this section, MIPS eligible clinicians and groups can either select their measures from the complete MIPS final measure list or a subset of that list, MIPS specialty-specific measure sets, as designated by CMS.
 
-(2) *Via the CMS Web Interface - for groups only.* For the 12-month performance period-
-
-(i) For a group of 25 or more MIPS eligible clinicians, report on all measures included in the CMS Web Interface. The group must report on the first 248 consecutively ranked beneficiaries in the sample for each measure or module.
+(2) *Via the CMS Web Interface - for groups consisting of 25 or more eligible clinicians only.* (i) Report on all measures included in the CMS Web Interface. The group must report on the first 248 consecutively ranked beneficiaries in the sample for each measure or module.
 
 (ii) If the sample of eligible assigned beneficiaries is less than 248, then the group must report on 100 percent of assigned beneficiaries. In some instances, the sampling methodology will not be able to assign at least 248 patients on which a group may report, particularly those groups on the smaller end of the range of 25-99 MIPS eligible clinicians.
 
@@ -29,3 +25,5 @@ Link to an amendment published at 82 FR 53953, Nov. 16, 2017.
 (ii) [Reserved]
 
 (b) [Reserved]
+
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53953, Nov. 16, 2017]

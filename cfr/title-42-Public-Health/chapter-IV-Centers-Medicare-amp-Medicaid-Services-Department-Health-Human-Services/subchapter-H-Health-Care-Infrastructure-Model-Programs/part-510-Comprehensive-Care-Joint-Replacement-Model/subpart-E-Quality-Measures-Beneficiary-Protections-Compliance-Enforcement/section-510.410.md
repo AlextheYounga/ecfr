@@ -1,12 +1,10 @@
 ##### § 510.410 Compliance enforcement. #####
 
-Link to an amendment published at 82 FR 617, Jan. 3, 2017.This amendment was delayed until Oct. 1, 2017, at 82 FR 14464, Mar. 21, 2017.This amendment was further delayed until Jan. 1, 2018, at 82 FR 22895, May 19, 2017.Link to an amendment published at 82 FR 57104, Dec. 1, 2017.
-
 (a) *General.* Participant hospitals must comply with all of the requirements outlined in this part. Except as specifically noted in this part, the regulations under this part must not be construed to affect the payment, coverage, program integrity, or other requirements (such as those in parts 412 and 482 of this chapter) that apply to providers and suppliers under this chapter.
 
-(b) *Failure to comply.* (1) CMS may take one or more of the remedial actions set forth in paragraph (b)(2) of this section if a participant hospital or any of the participant hospital's CJR collaborators -
+(b) *Failure to comply.* (1) CMS may take one or more of the remedial actions set forth in paragraph (b)(2) of this section if a participant hospital or its related CJR collaborators, collaboration agents, or downstream collaboration agents—
 
-(i) Fails to comply with any applicable requirements of this part or is identified as noncompliant through monitoring by HHS (including CMS and OIG) of the CJR model, including but not limited to the following:
+(i) Fails to comply with any requirements of this part or is identified as noncompliant through monitoring by HHS (including CMS and OIG) of the CJR model, including but not limited to the following:
 
 (A) Avoiding potentially high cost patients.
 
@@ -18,9 +16,11 @@ Link to an amendment published at 82 FR 617, Jan. 3, 2017.This amendment was del
 
 (E) Failing to allow beneficiary choice of medically necessary options, including non-surgical options.
 
-(F) Failing to follow the requirements related to collaborator agreements;
+(F) Failing to follow the requirements related to sharing arrangements.
 
-(ii) Has signed a collaborator agreement with a CJR collaborator if the agreement is noncompliant with the requirements of this part;
+(G) Failing to participate in CJR model-related evaluation activities conducted by CMS or its contractors or both.
+
+(ii) Has signed a sharing arrangement, distribution arrangement, or downstream distribution arrangement that is noncompliant with the requirements of this part.
 
 (iii) Takes any action that threatens the health or safety of patients;
 
@@ -38,20 +38,22 @@ Link to an amendment published at 82 FR 617, Jan. 3, 2017.This amendment was del
 
 (2) Remedial actions include the following:
 
-(i) Issue a warning letter to the participant hospital.
+(i) Issuing a warning letter to the participant hospital.
 
-(ii) Require the participant hospital to develop a corrective action plan, commonly referred to as a CAP.
+(ii) Requiring the participant hospital to develop a corrective action plan, commonly referred to as a CAP.
 
-(iii) Reduce or eliminate a participant hospital's reconciliation payment.
+(iii) Reducing or eliminating a participant hospital's reconciliation payment.
 
-(iv) Require a participant hospital to terminate a collaborator agreement with a CJR collaborator and prohibit further engagement in the CJR model by that CJR collaborator.
+(iv) Requiring a participant hospital to terminate a sharing arrangement with a CJR collaborator and prohibiting further engagement in sharing arrangements with the participant hospital by that CJR collaborator.
 
-(v) Terminate the participant hospital's participation in the CJR model.
+(v) Terminating the participant hospital's participation in the CJR model. Where a participant is terminated from the CJR model, the participant hospital will remain liable for all negative NPRA generated from episodes of care that ended prior to termination.
 
-(3) CMS may add 25 percent to a repayment amount on a participant hospital's reconciliation report if all of the following criteria are satisfied:
+(3) CMS may add a 25 percent penalty to a repayment amount on the participant hospital's reconciliation report if all of the following conditions are met:
 
-(i) CMS has required a corrective action plan from a participant hospital.
+(i) CMS has required a corrective action plan from a participant hospital;
 
-(ii) The participant hospital is not due a positive reconciliation payment but instead owes a repayment amount to CMS.
+(ii) The participant hospital owes a repayment amount to CMS; and
 
-(iii) The participant hospital fails to timely comply with the corrective action plan or is noncompliant with the model's requirements.
+(iii) The participant hospital fails to timely comply with the corrective action plan or is noncompliant with the CJR model's requirements.
+
+[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 617, Jan. 3, 2017; 82 FR 57104, Dec. 1, 2017]

@@ -1,7 +1,5 @@
 ##### § 217.1 Purpose, applicability, reservations of authority, and timing. #####
 
-Link to an amendment published at 79 FR 24540, May 1, 2014.Link to an amendment published at 80 FR 49103, Aug. 14, 2015.
-
 (a) *Purpose.* This part establishes minimum capital requirements and overall capital adequacy standards for entities described in paragraph (c)(1) of this section. This part includes methodologies for calculating minimum capital requirements, public disclosure requirements related to the capital requirements, and transition provisions for the application of this part.
 
 (b) *Limitation of authority.* Nothing in this part shall be read to limit the authority of the Board to take action under other provisions of law, including action to address unsafe or unsound practices or conditions, deficient capital levels, or violations of law or regulation, under section 8 of the Federal Deposit Insurance Act, section 8 of the Bank Holding Company Act, or section 10 of the Home Owners' Loan Act.
@@ -82,6 +80,6 @@ Link to an amendment published at 79 FR 24540, May 1, 2014.Link to an amendment 
 
 (3) Beginning on January 1, 2016, and subject to the transition provisions in subpart G of this part, a Board-regulated institution is subject to limitations on distributions and discretionary bonus payments with respect to its capital conservation buffer, any applicable countercyclical capital buffer amount, and any applicable GSIB surcharge, in accordance with subpart B of this part.
 
-(4) This part shall not apply until January 1, 2015, to any Board-regulated institution that is not an advanced approaches Board-regulated institution or to any covered savings and loan holding company.
+(4) Beginning Jan. 1, 2018, a global systemically important BHC (as defined in § 217.2) is subject to limitations on distributions and discretionary bonus payments in accordance with the lower of the maximum payout amount as determined under § 217.11(a)(2)(iii) and the maximum leverage payout amount as determined under § 217.11(a)(2)(vi).
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 57744, Sept. 26, 2014; 80 FR 5670, Feb. 3, 2015; 80 FR 20157, Apr. 15, 2015; 80 FR 49103, Aug. 14, 2015]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 24540, May 1, 2014; 79 FR 57744, Sept. 26, 2014; 80 FR 5670, Feb. 3, 2015; 80 FR 20157, Apr. 15, 2015; 80 FR 49103, Aug. 14, 2015]

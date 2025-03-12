@@ -1,10 +1,8 @@
 ##### § 32.5999 General. #####
 
-Link to an amendment published at 82 FR 20842, May 4, 2017.
-
 (a) *Structure of the expense accounts.* (1) The expense section of the system of accounts shall be organized by expense group summary account, and subsidiary record category (if required).
 
-(2) The expense section of this system of accounts shall be comprised of four major expense groups - Plant Specific Operations, Plant Nonspecific Operations, Customer Operations and Corporate Operations. Expenses to be recorded in Plant Specific and Plant Nonspecific Operations Expense Groups generally reflect cost associated with the various kinds of equipment identified in the plant asset accounts. Expenses to be recorded in the Customer Operations and Corporate Operations accounts reflect the costs of, or are associated with, functions performed by people, irrespective of the organization in which any particular function is performed.
+(2) The expense section of this system of accounts shall be comprised of four major expense groups—Plant Specific Operations, Plant Nonspecific Operations, Customer Operations and Corporate Operations. Expenses to be recorded in Plant Specific and Plant Nonspecific Operations Expense Groups generally reflect cost associated with the various kinds of equipment identified in the plant asset accounts. Expenses to be recorded in the Customer Operations and Corporate Operations accounts reflect the costs of, or are associated with, functions performed by people, irrespective of the organization in which any particular function is performed.
 
 (3) Accounts shall be maintained as prescribed in this section subject to the conditions described in § 32.13 in subpart B. Subsidiary record categories may be required below the account level by this system of accounts or by Commission order.
 
@@ -24,69 +22,29 @@ Link to an amendment published at 82 FR 20842, May 4, 2017.
 
 (f) *Reimbursements.* Reimbursements of actual costs incurred in connection with joint operations or projects repairing plant due to damages by others, and obligations to make changes in telecommunications plant (such as highway relocations), shall be credited to the accounts originally charged.
 
-(g) Expense accounts to be maintained.
+(g) *Expense accounts to be maintained.*
 
-|                            Account title                             |Class A  <br/>account|Class B  <br/>account|
-|----------------------------------------------------------------------|---------------------|---------------------|
-|                      Income Statement Accounts                       |                     |                     |
-|                  Plant specific operations expense:                  |                     |                     |
-|                       Network support expense                        |                     |        6110         |
-|                        Motor vehicle expense                         |        6112         |                     |
-|                           Aircraft expense                           |        6113         |                     |
-|                Tools and other work equipment expense                |        6114         |                     |
-|                       General support expenses                       |                     |        6120         |
-|                      Land and building expenses                      |        6121         |                     |
-|                    Furniture and artworks expense                    |        6122         |                     |
-|                       Office equipment expense                       |        6123         |                     |
-|                  General purpose computers expense                   |        6124         |                     |
-|                   Central office switching expense                   |                     |        6210         |
-|                    Non-digital switching expense                     |        6211         |                     |
-|                 Digital electronic switching expense                 |        6212         |                     |
-|                       Operators system expense                       |        6220         |        6220         |
-|                 Central office transmission expenses                 |                     |        6230         |
-|                        Radio systems expense                         |        6231         |                     |
-|                      Circuit equipment expense                       |        6232         |                     |
-|             Information origination/termination expense              |                     |        6310         |
-|                      Station apparatus expense                       |        6311         |                     |
-|                Large private branch exchange expense                 |        6341         |                     |
-|             Public telephone terminal equipment expense              |        6351         |                     |
-|                   Other terminal equipment expense                   |        6362         |                     |
-|                  Cable and wire facilities expenses                  |                     |        6410         |
-|                            Poles expense                             |        6411         |                     |
-|                         Aerial cable expense                         |        6421         |                     |
-|                      Underground cable expense                       |        6422         |                     |
-|                         Buried cable expense                         |        6423         |                     |
-|                 Submarine and deep sea cable expense                 |        6424         |                     |
-|                 Intrabuilding network cable expense                  |        6426         |                     |
-|                         Aerial wire expense                          |        6431         |                     |
-|                       Conduit systems expense                        |        6441         |                     |
-|                Plant nonspecific operations expense:                 |                     |                     |
-|             Other property plant and equipment expenses              |                     |        6510         |
-|       Property held for future telecommunications use expense        |        6511         |                     |
-|                         Provisioning expense                         |        6512         |                     |
-|                     Network operations expenses                      |                     |        6530         |
-|                            Power expense                             |        6531         |                     |
-|                    Network administration expense                    |        6532         |                     |
-|                           Testing expense                            |        6533         |                     |
-|               Plant operations administration expense                |        6534         |                     |
-|                         Engineering expense                          |        6535         |                     |
-|                            Access expense                            |        6540         |        6540         |
-|                Depreciation and amortization expenses                |                     |        6560         |
-|      Depreciation expense - telecommunications plant in service      |        6561         |                     |
-|Depreciation expense - property held for future telecommunications use|        6562         |                     |
-|                   Amortization expense - tangible                    |        6563         |                     |
-|                  Amortization expense - intangible                   |        6564         |                     |
-|                     Amortization expense - other                     |        6565         |                     |
-|                     Customer operations expense:                     |                     |                     |
-|                              Marketing                               |                     |        6610         |
-|                     Product management and sales                     |        6611         |                     |
-|                         Product advertising                          |        6613         |                     |
-|                               Services                               |                     |        6620         |
-|                       Call completion services                       |        6621         |                     |
-|                           Number services                            |        6622         |                     |
-|                          Customer services                           |        6623         |                     |
-|                    Corporate operations expense:                     |                     |                     |
-|                      General and administrative                      |        6720         |        6720         |
-|             Provision for uncollectible notes receivable             |        6790         |        6790         |
+|               Account title                |    |
+|--------------------------------------------|----|
+|         Income Statement Accounts          |    |
+|     Plant specific operations expense:     |    |
+|          Network support expense           |6110|
+|          General support expenses          |6120|
+|      Central office switching expense      |6210|
+|          Operators system expense          |6220|
+|    Central office transmission expenses    |6230|
+|Information origination/termination expense |6310|
+|     Cable and wire facilities expenses     |6410|
+|   Plant nonspecific operations expense:    |    |
+|Other property plant and equipment expenses |6510|
+|        Network operations expenses         |6530|
+|               Access expense               |6540|
+|   Depreciation and amortization expenses   |6560|
+|        Customer operations expense:        |    |
+|                 Marketing                  |6610|
+|                  Services                  |6620|
+|       Corporate operations expense:        |    |
+|         General and administrative         |6720|
+|Provision for uncollectible notes receivable|6790|
 
-[51 FR 43499, Dec. 2, 1986, as amended at 52 FR 7580, Mar. 12, 1987; 64 FR 50008, Sept. 15, 1999; 65 FR 16335, Mar. 28, 2000; 67 FR 5694, Feb. 6, 2002; 69 FR 53651, Sept. 2, 2004]
+[51 FR 43499, Dec. 2, 1986, as amended at 52 FR 7580, Mar. 12, 1987; 64 FR 50008, Sept. 15, 1999; 65 FR 16335, Mar. 28, 2000; 67 FR 5694, Feb. 6, 2002; 69 FR 53651, Sept. 2, 2004; 82 FR 20842, May 4, 2017]

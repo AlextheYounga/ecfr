@@ -1,7 +1,5 @@
 ##### § 425.500 Measures to assess the quality of care furnished by an ACO. #####
 
-Link to an amendment published at 82 FR 53370, Nov. 15, 2017.
-
 (a) *General.* CMS establishes quality performance measures to assess the quality of care furnished by the ACO. If the ACO demonstrates to CMS that it has satisfied the quality performance requirements in this subpart, and the ACO meets all other applicable requirements, the ACO is eligible for shared savings.
 
 (b) *Selecting measures.* (1) CMS selects the measures designated to determine an ACO's success in promoting the aims of better care for individuals, better health for populations, and lower growth in expenditures.
@@ -18,10 +16,10 @@ Link to an amendment published at 82 FR 53370, Nov. 15, 2017.
 
 (1) In an audit, the ACO will provide beneficiary medical records data if requested by CMS.
 
-(2) If, at the conclusion of the audit process the overall audit match rate between the quality data reported and the medical records provided under paragraph (e)(1) of this section is less than 90 percent, absent unusual circumstances, CMS will adjust the ACO's overall quality score proportional to the ACO's audit performance.
+(2) If, at the conclusion of the audit process the overall audit match rate between the quality data reported and the medical records provided under paragraph (e)(1) of this section is less than 80 percent, absent unusual circumstances, CMS will adjust the ACO's overall quality score proportional to the ACO's audit performance.
 
 (3) If, at the conclusion of the audit process CMS determines there is an audit match rate of less than 90 percent, the ACO may be required to submit a CAP under § 425.216 for CMS approval.
 
 (f) Failure to report quality measure data accurately, completely, and timely (or to timely correct such data) may subject the ACO to termination or other sanctions, as described in §§ 425.216 and 425.218.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 81 FR 80559, Nov. 15, 2016]
+[76 FR 67973, Nov. 2, 2011, as amended at 81 FR 80559, Nov. 15, 2016; 82 FR 53370, Nov. 15, 2017]Editorial Note:At 82 FR 53370, Nov. 15, 2017, § 425.500 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.

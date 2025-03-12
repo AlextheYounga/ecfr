@@ -1,12 +1,10 @@
 ##### § 6.103 Definitions. #####
 
-Link to an amendment published at 82 FR 60853, Dec. 26, 2017.
-
-For purposes of this part, the term -
+For purposes of this part, the term—
 
 (a) *Auxiliary aids* means services, including attendant services, or devices that enable handicapped persons, including those with impaired sensory, manual, or speaking skills to have an equal opportunity to participate in, and enjoy the benefits of, programs or activities conducted by the Commission. For example, auxiliary aids useful for persons with impaired vision include readers, Brailled materials, audio recordings, and other similar services and devices. Auxiliary aids useful for persons with impaired hearing include telephone handset amplifiers, telephones compatible with hearing aids, telecommunication devices for deaf persons (TDD's), interpreters, notetakers, written materials, and other similar services and devices. Although auxiliary aids are explicitly required only by 11 CFR 6.160(a)(1), they may also be used to meet other requirements of this part.
 
-(b) *Commission* means the Federal Election Commission, 999 E Street, NW., Washington, DC 20463.
+(b) *Commission* means the Federal Election Commission.
 
 (c) *Complete complaint* means a written statement that contains the complainant's name and address and describes the Commission's actions in sufficient detail to inform the Commission of the nature and date of the alleged violation of section 504. It shall be signed by the complainant or by someone authorized to do so on his or her behalf. Complaints filed on behalf of classes or third parties shall describe or identify (by name, if possible) the alleged victims of discrimination.
 
@@ -14,7 +12,7 @@ For purposes of this part, the term -
 
 (e) *Handicapped person* means any person who has a physical or mental impairment that substantially limits one or more major life activities, has a record of such an impairment, or is regarded as having such an impairment. As used in this definition, the phrase:
 
-(1) *Physical or mental impairment* includes -
+(1) *Physical or mental impairment* includes—
 
 (i) Any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more of the following body systems: Neurological; musculoskeletal; special sense organs; respiratory, including speech organs; cardiovascular; reproductive; digestive; genitourinary; hemic and lymphatic; skin; and endocrine; or
 
@@ -24,7 +22,7 @@ For purposes of this part, the term -
 
 (3) *Has a record of such an impairment* means has a history of, or has been misclassified as having, a mental or physical impairment that substantially limits one or more major life activities.
 
-(4) *Is regarded as having an impairment* means -
+(4) *Is regarded as having an impairment* means—
 
 (i) Has a physical or mental impairment that does not substantially limit major life activities but is treated by the Commission as constituting such a limitation;
 
@@ -32,7 +30,7 @@ For purposes of this part, the term -
 
 (iii) Has none of the impairments defined in 11 CFR 6.103(e)(1) but is treated by the agency as having such an impairment.
 
-(f) *Qualified handicapped person* means -
+(f) *Qualified handicapped person* means—
 
 (1) With respect to any Commission program or activity under which a person is required to perform services or to achieve a level of accomplishment, a handicapped person who, with reasonable accommodation, meets the essential eligibility requirements and who can achieve the purpose of the program or activity; and
 
@@ -40,4 +38,4 @@ For purposes of this part, the term -
 
 (g) *Section 504* means section 504 of the Rehabilitation Act of 1973 (Pub. L. 93-112, 87 Stat. 394 (29 U.S.C. 794)), as amended by the Rehabilitation Act Amendments of 1974 (Pub. L. 93-516, 88 Stat. 1617), and the Rehabilitation, Comprehensive Services, and Developmental Disabilities Act of 1978 (Pub. L. 95-602, 92 Stat. 2955). As used in this part, section 504 applies only to programs or activities conducted by the Commission and not to any federally assisted programs or activities that it administers.
 
-[49 FR 33211, Aug. 22, 1984, as amended at 50 FR 50778, Dec. 12, 1985]
+[49 FR 33211, Aug. 22, 1984, as amended at 50 FR 50778, Dec. 12, 1985; 82 FR 60853, Dec. 26, 2017]

@@ -1,10 +1,8 @@
 ##### § 40.213 What training requirements must STTs and BATs meet? #####
 
-Link to an amendment published at 82 FR 52246, Nov. 13, 2017.
-
 To be permitted to act as a BAT or STT in the DOT alcohol testing program, you must meet each of the requirements of this section:
 
-(a) *Basic information.* You must be knowledgeable about the alcohol testing procedures in this part and the current DOT guidance. These documents and information are available from ODAPC (Department of Transportation, 1200 New Jersey Avenue, SE., Washington DC, 20590, 202-366-3784, or on the ODAPC web site, *http://www.dot.gov/ost/dapc*)).
+(a) You must be knowledgeable about the alcohol testing procedures in this part and the current DOT guidance. Procedures and guidance are available from ODAPC (Department of Transportation, 1200 New Jersey Avenue SE., Washington, DC 20590, 202-366-3784, or on the ODAPC Web site, *http://www.transportation.gov/odapc*). You must keep current on any changes to these materials. You must subscribe to the ODAPC list-serve at (*https://www.transportation.gov/odapc/get-odapc-email-updates*).
 
 (b) *Qualification training.* You must receive qualification training meeting the requirements of this paragraph (b).
 
@@ -24,13 +22,9 @@ To be permitted to act as a BAT or STT in the DOT alcohol testing program, you m
 
 (3) If you are an STT who will be using an ASD that indicates readings by changes, contrasts, or other readings in color, you must demonstrate as part of the mock test that you are able to discern changes, contrasts, or readings correctly.
 
-(d) *Schedule for qualification training and initial proficiency demonstration.* The following is the schedule for qualification training and the initial proficiency demonstration you must meet:
+(d) You must meet the requirements of paragraphs (b) and (c) of this section before you begin to perform STT or BAT functions.
 
-(1) If you became a BAT or STT before August 1, 2001, you were required to have met the requirements set forth in paragraphs (b) and (c) of this section, and you do not have to meet them again.
-
-(2) If you become a BAT or STT on or after August 1, 2001, you must meet the requirements of paragraphs (b) and (c) of this section before you begin to perform BAT or STT functions.
-
-(e) *Refresher training.* No less frequently than every five years from the date on which you satisfactorily complete the requirements of paragraphs (b) and (c) of this section, you must complete refresher training that meets all the requirements of paragraphs (b) and (c) of this section. If you are a BAT or STT who completed qualification training before January 1, 1998, you are not required to complete refresher training until January 1, 2003.
+(e) *Refresher training.* No less frequently than every five years from the date on which you satisfactorily complete the requirements of paragraphs (b) and (c) of this section, you must complete refresher training that meets all the requirements of paragraphs (b) and (c) of this section.
 
 (f) *Error Correction Training.* If you make a mistake in the alcohol testing process that causes a test to be cancelled (*i.e.,* a fatal or uncorrected flaw), you must undergo error correction training. This training must occur within 30 days of the date you are notified of the error that led to the need for retraining.
 
@@ -46,4 +40,4 @@ To be permitted to act as a BAT or STT in the DOT alcohol testing program, you m
 
 (2) Law enforcement officers who have been certified by state or local governments to conduct breath alcohol testing are deemed to be qualified as BATs. They are not required to also complete the training requirements of this section in order to act as BATs. In order for a test conducted by such an officer to be accepted under DOT alcohol testing requirements, the officer must have been certified by a state or local government to use the EBT or ASD that was used for the test.
 
-[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41954, Aug. 9, 2001; 75 FR 5244, Feb. 2, 2010]
+[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41954, Aug. 9, 2001; 75 FR 5244, Feb. 2, 2010; 82 FR 52246, Nov. 13, 2017]

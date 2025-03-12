@@ -1,7 +1,5 @@
 ##### § 228.42 Data collection, reporting, and disclosure. #####
 
-Link to an amendment published at 82 FR 55743, Nov. 24, 2017.
-
 (a) *Loan information required to be collected and maintained.* A bank, except a small bank, shall collect, and maintain in machine readable form (as prescribed by the Board) until the completion of its next CRA examination, the following data for each small business or small farm loan originated or purchased by the bank:
 
 (1) A unique number or alpha-numeric symbol that can be used to identify the relevant loan file;
@@ -28,7 +26,7 @@ Link to an amendment published at 82 FR 55743, Nov. 24, 2017.
 
 (3) *Home mortgage loans.* If the bank is subject to reporting under part 1003 of this chapter, the location of each home mortgage loan application, origination, or purchase outside the MSAs in which the bank has a home or branch office (or outside any MSA) in accordance with the requirements of part 1003 of this chapter.
 
-(c) *Optional data collection and maintenance* - (1) *Consumer loans.* A bank may collect and maintain in machine readable form (as prescribed by the Board) data for consumer loans originated or purchased by the bank for consideration under the lending test. A bank may maintain data for one or more of the following categories of consumer loans: motor vehicle, credit card, home equity, other secured, and other unsecured. If the bank maintains data for loans in a certain category, it shall maintain data for all loans originated or purchased within that category. The bank shall maintain data separately for each category, including for each loan:
+(c) *Optional data collection and maintenance*—(1) *Consumer loans.* A bank may collect and maintain in machine readable form (as prescribed by the Board) data for consumer loans originated or purchased by the bank for consideration under the lending test. A bank may maintain data for one or more of the following categories of consumer loans: motor vehicle, credit card, other secured, and other unsecured. If the bank maintains data for loans in a certain category, it shall maintain data for all loans originated or purchased within that category. The bank shall maintain data separately for each category, including for each loan:
 
 (i) A unique number or alpha-numeric symbol that can be used to identify the relevant loan file;
 
@@ -78,4 +76,4 @@ Link to an amendment published at 82 FR 55743, Nov. 24, 2017.
 
 (j) *Central data depositories.* The Board makes the aggregate disclosure statements, described in paragraph (i) of this section, and the individual bank CRA Disclosure Statements, described in paragraph (h) of this section, available to the public at central data depositories. The Board publishes a list of the depositories at which the statements are available.
 
-[Reg. BB, 60 FR 22195, May 4, 1995, as amended at 69 FR 41187, July 8, 2004; 80 FR 81164, Dec. 29, 2015]
+[Reg. BB, 60 FR 22195, May 4, 1995, as amended at 69 FR 41187, July 8, 2004; 80 FR 81164, Dec. 29, 2015; 82 FR 55743, Nov. 24, 2017]

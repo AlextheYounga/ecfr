@@ -1,7 +1,5 @@
 ##### § 32.4999 General. #####
 
-Link to an amendment published at 82 FR 20842, May 4, 2017.
-
 (a) *Purpose of revenue accounts.* The revenue accounts are intended to include the actual cash inflows (or equivalents) that have or will occur as a result of the company's ongoing major or central operations during the period. They will include the revenues which arise from furnishing regulated telecommunications services to others, from directory advertising, rentals of telecommunications assets and from providing other services which are directly associated with the provision of regulated telecommunications services.
 
 (b) *Deductions from revenue.* Corrections of overcharges, authorized refunds of overcollections previously credited to revenue, authorized refunds and adjustments on account of failure in service, and other corrections shall be charged to the revenue account previously credited with the amounts involved.
@@ -12,11 +10,11 @@ Link to an amendment published at 82 FR 20842, May 4, 2017.
 
 (e) *Contractual arrangements.* Charges and credits resulting from activities associated with the provisions of regulated telecommunications services shall be recorded in a manner consistent with the nature of the underlying contractual arrangements. The charges and credits resulting from expense sharing or apportionment arrangements associated with the provision of regulated telecommunications services shall be recorded in the detailed regulated accounts. Charges and credits resulting from revenue settlement agreements or other revenue pooling arrangements associated with the provision of regulated telecommunications services shall be included in the appropriate revenue accounts. Those charges and credits resulting from contractual revenue pooling and/or sharing agreements shall be recorded in each prescribed revenue account and prescribed subsidiary record categories thereof to the extent that each is separately identifiable in the settlement process. It is not intended that settlement amounts be allocated or generally spread to the individual revenue accounts where they are not separately identifiable in the settlement process. When the settlement amounts are not identifiable by a revenue account they shall be recorded in Account 5060, Other basic area revenue, 5105, Long distance message revenue, or 5200, Miscellaneous revenue, as appropriate.
 
-(f) *Subsidiary records - jurisdictional subdivisions and interconnection.* Subsidiary record categories shall be maintained in order that the company may separately report revenues derived from charges imposed under intrastate, interstate and international tariff filings. Class A carriers shall also maintain subsidiary record categories in order that the companies may separately report interconnection revenues derived from the following categories: Unbundled network element revenues, Resale revenues, Reciprocal compensation revenues, and Other interconnection revenues. Such subsidiary record categories shall be reported as required by part 43 of this Commission's Rules and Regulations.
+(f) *Subsidiary records—jurisdictional subdivisions and interconnection.* Subsidiary record categories shall be maintained in order that the company may separately report revenues derived from charges imposed under intrastate, interstate and international tariff filings. Such subsidiary record categories shall be reported as required by part 43 of this chapter.
 
 (g) *Structure of revenue accounts.* (1) The revenue section of the system of accounts shall be organized by revenue group summary account, account and subsidiary record category (if required).
 
-(2) The revenue section of this system of accounts shall be comprised of six major groups - Local Network Services Revenues, Network Access Services Revenues, Long Distance Network Services Revenues, Miscellaneous Revenues, Nonregulated revenues, and Uncollectible Revenues, which shall be considered as a revenue group for the purposes of the construction of the system.
+(2) The revenue section of this system of accounts shall be comprised of six major groups—Local Network Services Revenues, Network Access Services Revenues, Long Distance Network Services Revenues, Miscellaneous Revenues, Nonregulated revenues, and Uncollectible Revenues, which shall be considered as a revenue group for the purposes of the construction of the system.
 
 (3) Accounts shall be maintained as prescribed in this Section subject to the conditions described in section 32.13 of subpart B. In certain instances, subsidiary record categories may be required below the account level by this system of accounts or by Commission order.
 
@@ -36,25 +34,21 @@ Link to an amendment published at 82 FR 20842, May 4, 2017.
 
 (n) *Revenue accounts to be maintained.*
 
-|             Account title              |Class A  <br/>account|Class B  <br/>account|
-|----------------------------------------|---------------------|---------------------|
-|    Local network services revenues:    |                     |                     |
-|      Basic local service revenue       |                     |        5000         |
-|           Basic area revenue           |        5001         |                     |
-|          Private line revenue          |        5040         |                     |
-|        Other basic area revenue        |        5060         |                     |
-|    Network access service revenues:    |                     |                     |
-|            End user revenue            |        5081         |        5081         |
-|        Switched access revenue         |        5082         |        5082         |
-|         Special access revenue         |        5083         |        5083         |
-|Long distance network services revenues:|                     |                     |
-|     Long distance message revenue      |        5100         |        5100         |
-|        Miscellaneous revenues:         |                     |                     |
-|         Miscellaneous revenue          |        5200         |        5200         |
-|           Directory revenue            |        5230         |                     |
-|         Nonregulated revenues:         |                     |                     |
-|     Nonregulated operating revenue     |        5280         |        5280         |
-|        Uncollectible revenues:         |                     |                     |
-|         Uncollectible revenue          |        5300         |        5300         |
+|             Account title              |    |
+|----------------------------------------|----|
+|    Local network services revenues:    |    |
+|      Basic local service revenue       |    |
+|    Network access service revenues:    |    |
+|            End user revenue            |5081|
+|        Switched access revenue         |5082|
+|         Special access revenue         |5083|
+|Long distance network services revenues:|    |
+|     Long distance message revenue      |5100|
+|        Miscellaneous revenues:         |    |
+|         Miscellaneous revenue          |5200|
+|         Nonregulated revenues:         |    |
+|     Nonregulated operating revenue     |5280|
+|        Uncollectible revenues:         |    |
+|         Uncollectible revenue          |5300|
 
-[51 FR 43499, Dec. 2, 1986, as amended at 53 FR 49322, Dec. 7, 1988; 59 FR 46930, Sept. 13, 1994; 64 FR 50008, Sept. 15, 1999; 67 FR 5690, Feb. 6, 2002; 69 FR 53649, Sept. 2, 2004]
+[51 FR 43499, Dec. 2, 1986, as amended at 53 FR 49322, Dec. 7, 1988; 59 FR 46930, Sept. 13, 1994; 64 FR 50008, Sept. 15, 1999; 67 FR 5690, Feb. 6, 2002; 69 FR 53649, Sept. 2, 2004; 82 FR 20842, May 4, 2017]

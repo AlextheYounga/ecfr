@@ -1,6 +1,6 @@
 ##### § 425.502 Calculating the ACO quality performance score. #####
 
-Link to an amendment published at 82 FR 53370, Nov. 15, 2017.Link to an amendment published at 82 FR 60918, Dec. 26, 2017.
+Link to an amendment published at 82 FR 60918, Dec. 26, 2017.
 
 (a) *Establishing a quality performance standard.* CMS designates the quality performance standard in each performance year. The quality performance standard is the overall standard the ACO must meet in order to be eligible for shared savings.
 
@@ -12,7 +12,7 @@ Link to an amendment published at 82 FR 53370, Nov. 15, 2017.Link to an amendmen
 
 (4) A newly introduced measure is set at the level of complete and accurate reporting for the first two reporting periods, the measure is required. For subsequent reporting periods, the quality performance standard for the measure will be assessed according to the phase-in schedule for the measure.
 
-(5) CMS reserves the right to redesignate a measure as pay for reporting when the measure owner determines the measure no longer aligns with clinical practice or causes patient harm.
+(5) CMS reserves the right to redesignate a measure as pay for reporting when the measure owner determines the measure no longer aligns with clinical practice or causes patient harm, or when there is a determination under the Quality Payment Program that the measure has undergone a substantive change.
 
 (b) *Establishing a performance benchmark and minimum attainment level for measures.* (1) CMS designates a performance benchmark and minimum attainment level for each measure, and establishes a point scale for the measures.
 
@@ -76,4 +76,4 @@ Link to an amendment published at 82 FR 53370, Nov. 15, 2017.Link to an amendmen
 
 (v) If an ACO renews its participation agreement for a subsequent agreement period, quality improvement will be measured based on a comparison between performance in the first year of the new agreement period and performance in the third year of the previous agreement period.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 78 FR 74823, Dec. 10, 2013; 79 FR 68008, Nov. 13, 2014; 80 FR 71386, Nov. 16, 2015; 81 FR 80560, Nov. 15, 2016]
+[76 FR 67973, Nov. 2, 2011, as amended at 78 FR 74823, Dec. 10, 2013; 79 FR 68008, Nov. 13, 2014; 80 FR 71386, Nov. 16, 2015; 81 FR 80560, Nov. 15, 2016; 82 FR 53370, Nov. 15, 2017]

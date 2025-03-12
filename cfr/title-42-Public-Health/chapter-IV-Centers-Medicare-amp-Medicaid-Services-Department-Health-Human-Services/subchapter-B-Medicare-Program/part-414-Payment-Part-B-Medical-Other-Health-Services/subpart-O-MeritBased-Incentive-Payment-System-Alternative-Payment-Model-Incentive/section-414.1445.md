@@ -1,27 +1,21 @@
-##### § 414.1445 Identification of other payer advanced APMs. #####
+##### § 414.1445 Determination of other payer advanced APMs. #####
 
-Link to an amendment published at 82 FR 53964, Nov. 16, 2017.
+(a) *Determination of Medicaid APMs.* Beginning in 2018, and each year thereafter, at a time determined by CMS, a state, APM Entity, or eligible clinician may request, in a form and manner specified by CMS, that CMS determine whether a payment arrangement authorized under Title XIX is either a Medicaid APM or a Medicaid Medical Home Model that meets the Other Payer Advanced APM criteria as set forth in § 414.1420. A state must submit its request by April 1 of the year prior to the relevant QP Performance Period, and an APM Entity or eligible clinician must submit its request by November 1 of the year prior to the relevant QP Performance Period. CMS will not determine that a payment arrangement is a Medicaid APM or Medicaid Medical Home Model that meets the Other Payer Advanced APM criteria as set forth in § 414.1420 for a year after the relevant QP Performance Period.
 
-(a) *Identification of Medicaid APMs.* CMS will make an annual determination prior to the QP Performance Period to identify Medicaid Medical Home Models and Medicaid APMs.
+(b) *Determination of Other Payer Advanced APMs* - (1) *Payer Initiated Other Payer Advanced APM Determination Process.* Beginning in 2018, and each year thereafter, at a time determined by CMS, a payer with a Medicare Health Plan payment arrangement or a payment arrangement aligned with a CMS Multi-Payer Model may request, in a form and manner specified by CMS, that CMS determine whether a Medicare Health Plan payment arrangement or a payment arrangement aligned with a CMS Multi-Payer Model meets the Other Payer Advanced APM criteria as set forth in § 414.1420. A payer with a Medicare Health Plan payment arrangement must submit its requests by the annual Medicare Advantage bid deadline of the year prior to the relevant QP Performance Period. A payer with an arrangement aligned with a CMS Multi-Payer Model must submit its requests by June 30 of the year prior to the relevant QP Performance Period.
 
-(b) *Data used to calculate the Threshold Score under the All-Payer Combination Option.* To be assessed under the All-Payer Combination Option, APM Entities or eligible clinicians must submit the following information for each other payment arrangement in a manner and by a date specified by CMS:
+(2) *Eligible clinician initiated Other Payer Advanced APM determination process.* Except as provided by paragraph (a) of this section, at a time specified by CMS, an APM Entity or eligible clinician may request that CMS determine whether a payment arrangement meets the Other Payer Advanced APM criteria as set forth in § 414.1420 in a form and manner specified by CMS. An APM Entity or eligible clinician must submit requests by December 1 of the calendar year of the relevant QP Performance Period.
 
-(1) Payment arrangement information necessary to assess the other payer arrangement on all Other Payer Advanced APM criteria under § 414.1420;
+(c) *Information required for Other Payer Advanced APM determinations.* (1) In order to make an Other Payer Advanced APM determination as set forth in paragraphs (a) and (b) of this section, a payer, APM Entity, or eligible clinician must submit the information specified by CMS in a form and manner specified by CMS. If a payer, APM Entity, or eligible clinician fails to submit the information required, CMS will not make a determination as to whether a payment arrangement meets the Other Payer Advanced APM criteria as set forth in § 414.1420.
 
-(2) For each other payment arrangement, the amount of revenues for services furnished through the arrangement, the total revenues from the payer, the numbers of patients furnished any service through the arrangement, and the total numbers of patients furnished any service through the payer.
+(2) If an eligible clinician submits information showing that a payment arrangement requires that the eligible clinician must use CEHRT as defined in § 414.1305 to document and communicate clinical care, CMS will presume that the CEHRT criterion in § 414.1420(b) is satisfied for that payment arrangement.
 
-(3) An attestation from the payer that the submitted information is accurate.
+(3) If a payment arrangement has no outcome measure, the payer, APM Entity, or eligible clinician requesting a determination of whether a payment arrangement meets the Other Payer Advanced APM criteria must certify that there is no available or applicable outcome measure on the MIPS measure list.
 
-(c) *Requirement to submit adequate information.* (1) CMS makes a QP determination with respect to the individual eligible clinician under the All-Payer Combination Option if:
+(d) *Certification.* A payer, APM Entity, or eligible clinician that submits information pursuant to paragraph (c) of this section must certify that the information it submitted to CMS is true, accurate, and complete. Such certification must accompany the submission and be made at the time of submission. In the case of information submitted by a payer or an APM Entity, the certification must be made by an individual with the authority to bind the payer or the APM Entity.
 
-(i) The eligible clinician's Advanced APM Entity submits the information required under this section for CMS to assess the APM Entity group under the All-Payer Combination Option; or
+(e) *Timing of Other Payer Advanced APM determinations.* CMS makes Other Payer Advanced APM determinations prior to making QP determinations under § 414.1440.
 
-(ii) The eligible clinician submits adequate information under this section.
+(f) *Notification of Other Payer Advanced APM determinations.* CMS makes Other Payer Advanced APM determinations and notifies the requesting payer, APM Entity, or eligible clinician of such determinations as soon as practicable following the relevant submission deadline.
 
-(2) If neither the Advanced APM Entity nor the eligible clinician submits all of the information required under this section, then CMS does not make a QP assessment for such eligible clinician under the All-Payer Combination Option.
-
-(d) *Outcome measure.* An Other Payer Advanced APM must base payment on at least one outcome measure.
-
-(1) *Exception.* If an Other Payer Advanced APM has no outcome measure, the Advanced APM Entity must submit an attestation in a manner and by a date determined by CMS that there is no available or applicable outcome measure on the MIPS list of quality measures.
-
-(2) [Reserved]
+[82 FR 53964, Nov. 16, 2017]

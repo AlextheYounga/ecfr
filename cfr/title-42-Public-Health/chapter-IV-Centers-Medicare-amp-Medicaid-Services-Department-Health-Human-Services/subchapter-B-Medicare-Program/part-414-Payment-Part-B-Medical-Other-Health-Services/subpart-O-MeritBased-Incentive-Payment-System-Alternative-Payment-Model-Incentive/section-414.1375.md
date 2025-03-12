@@ -1,8 +1,6 @@
 ##### § 414.1375 Advancing care information performance category. #####
 
-Link to an amendment published at 82 FR 53955, Nov. 16, 2017.
-
-(a) *Final score.* Subject to CMS's authority to reweight performance category weights under section 1848(q)(5)(E)(ii) and (q)(5)(F) of the Act, performance in the advancing care information performance category will comprise 25 percent of a MIPS eligible clinician's final score for MIPS payment year 2019 and each MIPS payment year thereafter.
+(a) *Final score.* The advancing care information performance category comprises 25 percent of a MIPS eligible clinician's final score for the 2019 MIPS payment year and each MIPS payment year thereafter, unless a different scoring weight is assigned by CMS.
 
 (b) *Reporting for the advancing care information performance category:* To earn a performance category score for the advancing care information performance category for inclusion in the final score, a MIPS eligible clinician must:
 
@@ -12,7 +10,7 @@ Link to an amendment published at 82 FR 53955, Nov. 16, 2017.
 
 (i) Report the numerator (of at least one) and denominator, or yes/no statement as applicable, for each required measure; or
 
-(ii) Report a null value for each required measure that includes a null value as an acceptable result in the measure specification.
+(ii) May claim an exclusion for each measure that includes an option for an exclusion.
 
 (3) *Support information exchange and the prevention of health information blocking, and engage in activities related to supporting providers with the performance of CEHRT.* (i) Supporting providers with the performance of CEHRT (SPPC). To engage in activities related to supporting providers with the performance of CEHRT, the MIPS eligible clinician -
 
@@ -43,3 +41,5 @@ Link to an amendment published at 82 FR 53955, Nov. 16, 2017.
 (*4*) Implemented in a manner that allowed for the timely, secure, and trusted bi-directional exchange of structured electronic health information with other health care providers (as defined by 42 U.S.C. 300jj(3)), including unaffiliated providers, and with disparate certified EHR technology and health IT vendors.
 
 (C) Responded in good faith and in a timely manner to requests to retrieve or exchange electronic health information, including from patients, health care providers (as defined by 42 U.S.C. 300jj(3)), and other persons, regardless of the requestor's affiliation or technology vendor.
+
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53955, Nov. 16, 2017]

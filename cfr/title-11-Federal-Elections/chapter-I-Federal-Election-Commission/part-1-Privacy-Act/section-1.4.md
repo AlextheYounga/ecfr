@@ -1,8 +1,6 @@
 ##### § 1.4 Times, places, and requirements for identification of individuals making requests. #####
 
-Link to an amendment published at 82 FR 60852, Dec. 26, 2017.
-
-(a) After being informed by the Commission that a record system contains a record pertaining to him or her, an individual may request the Commission to disclose that record in the manner described in this section. Each request for the disclosure of a record or a copy of it shall be made at the Federal Election Commission, 999 E Street, NW., Washington, DC 20463 and to the system manager identified in the notice describing the systems of records, either in writing or in person. Requests may be made by specifically authorized agents or by parents or guardians of individuals.
+(a) After being informed by the Commission that a record system contains a record pertaining to him or her, an individual may request the Commission to disclose that record in the manner described in this section. Each request for the disclosure of a record or a copy of it shall be made at the Federal Election Commission at the street address identified in the definition of “Commission” in § 1.2, and to the system manager identified in the notice describing the systems of records, either in writing or in person. Requests may be made by specifically authorized agents or by parents or guardians of individuals.
 
 (b) Each individual requesting the disclosure of a record or copy of a record shall furnish the following information with his or her request:
 
@@ -18,4 +16,4 @@ Link to an amendment published at 82 FR 60852, Dec. 26, 2017.
 
 (2) If the request is made in person, the requestor shall submit proof of identification similar to that described in paragraph (c)(1) of this section, acceptable to the Commission. The individual may have a person of his or her own choosing accompany him or her when the record is disclosed.
 
-[41 FR 43064, Sept. 29, 1976, as amended at 50 FR 50778, Dec. 12, 1985]
+[41 FR 43064, Sept. 29, 1976, as amended at 50 FR 50778, Dec. 12, 1985; 82 FR 60852, Dec. 26, 2017]

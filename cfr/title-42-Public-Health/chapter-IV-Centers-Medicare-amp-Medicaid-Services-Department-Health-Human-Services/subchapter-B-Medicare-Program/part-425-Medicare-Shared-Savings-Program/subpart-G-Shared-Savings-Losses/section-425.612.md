@@ -1,7 +1,5 @@
 ##### § 425.612 Waivers of payment rules or other Medicare requirements. #####
 
-Link to an amendment published at 82 FR 53371, Nov. 15, 2017.
-
 (a) *General.* CMS may waive certain payment rules or other Medicare requirements as determined necessary to carry out the Shared Savings Program under this part.
 
 (1) *SNF 3-day rule.* For performance year 2017 and subsequent performance years, CMS waives the requirement in section 1861(i) of the Act for a 3-day inpatient hospital stay prior to a Medicare-covered post-hospital extended care service for eligible beneficiaries prospectively assigned to ACOs participating in Track 3, and as provided in paragraph (a)(1)(iv) of this section during a grace period for beneficiaries excluded from prospective assignment to a Track 3 ACO, who receive otherwise covered post-hospital extended care services furnished by an eligible SNF that has entered into a written agreement to partner with the ACO for purposes of this waiver. All other provisions of the statute and regulations regarding Medicare Part A post-hospital extended care services continue to apply.
@@ -16,11 +14,7 @@ Link to an amendment published at 82 FR 53371, Nov. 15, 2017.
 
 (*3*) A beneficiary evaluation and admission plan approved by the ACO medical director and the healthcare professional responsible for the ACO's quality improvement and assurance processes under § 425.112.
 
-(*4*) Any financial relationships between the ACO, SNF, and acute care hospitals.
-
 (B) A list of SNFs with whom the ACO will partner along with executed written SNF affiliate agreements between the ACO and each listed SNF.
-
-(C) Documentation demonstrating that each SNF included on the list provided under paragraph (a)(1)(i)(B) of this section has an overall rating of 3 or higher under the CMS 5-star Quality Rating System.
 
 (ii) In order to be eligible to receive covered SNF services under the waiver, a beneficiary must meet the following requirements:
 
@@ -122,4 +116,4 @@ Link to an amendment published at 82 FR 53371, Nov. 15, 2017.
 
 (3) ACOs must ensure compliance with all claims submission requirements, except those expressly waived under paragraph (a) of this section.
 
-[80 FR 32843, June 9, 2015, as amended at 81 FR 80561, Nov. 15, 2016]
+[80 FR 32843, June 9, 2015, as amended at 81 FR 80561, Nov. 15, 2016; 82 FR 53371, Nov. 15, 2017]

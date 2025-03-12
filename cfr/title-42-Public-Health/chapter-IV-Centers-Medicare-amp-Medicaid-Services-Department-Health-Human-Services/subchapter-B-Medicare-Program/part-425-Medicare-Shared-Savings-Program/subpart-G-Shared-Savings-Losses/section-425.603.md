@@ -1,7 +1,5 @@
 ##### § 425.603 Resetting, adjusting, and updating the benchmark for a subsequent agreement period. #####
 
-Link to an amendment published at 82 FR 53370, Nov. 15, 2017.
-
 (a) An ACO's benchmark is reset at the start of each subsequent agreement period.
 
 (b) For second agreement periods beginning in 2016, CMS establishes, adjusts, and updates the rebased historical benchmark in accordance with § 425.602(a) and (b) with the following modifications:
@@ -17,6 +15,12 @@ Link to an amendment published at 82 FR 53370, Nov. 15, 2017.
 (i) Excludes IME and DSH payments; and
 
 (ii) Considers individually beneficiary identifiable payments made under a demonstration, pilot or time limited program.
+
+(A) For agreement periods beginning before 2018, considers all individually beneficiary identifiable payments, including interim payments, made under a demonstration, pilot or time limited program.
+
+(B) For agreement periods beginning in 2018 and subsequent years, considers individually beneficiary identifiable final payments made under a demonstration, pilot or time limited program.
+
+(C) For the 2018 and 2019 performance years in agreement periods beginning in 2017, the benchmark is adjusted to reflect only individually beneficiary identifiable final payments made under a demonstration, pilot or time limited program.
 
 (2) Makes separate expenditure calculations for each of the following populations of beneficiaries:
 
@@ -154,6 +158,12 @@ Link to an amendment published at 82 FR 53370, Nov. 15, 2017.
 
 (ii) Considers individually beneficiary identifiable payments made under a demonstration, pilot or time limited program.
 
+(A) For agreement periods beginning before 2018, considers all individually beneficiary identifiable payments, including interim payments, made under a demonstration, pilot or time limited program.
+
+(B) For agreement periods beginning in 2018 and subsequent years, considers individually beneficiary identifiable final payments made under a demonstration, pilot or time limited program.
+
+(C) For the 2018 and 2019 performance years in agreement periods beginning in 2017, risk adjusted county fee-for-service expenditures are adjusted to reflect only individually beneficiary identifiable final payments made under a demonstration, pilot or time limited program.
+
 (3) Truncates a beneficiary's total annual Parts A and B fee-for-service per capita expenditures at the 99th percentile of national Medicare fee-for-service expenditures for assignable beneficiaries identified for the 12-month calendar year that corresponds to the relevant benchmark or performance year, in order to minimize variation from catastrophically large claims.
 
 (4) Adjusts fee-for-service expenditures for severity and case mix of assignable beneficiaries in the county using prospective CMS-HCC risk scores. The calculation is made according to the following populations of beneficiaries:
@@ -182,4 +192,4 @@ Link to an amendment published at 82 FR 53370, Nov. 15, 2017.
 
 (3) Weighting the aggregate expenditure values determined for each population of beneficiaries (according to Medicare enrollment type) under paragraph (f)(2) of this section by a weight reflecting the proportion of the ACO's overall beneficiary population in the applicable Medicare enrollment type for the relevant benchmark or performance year.
 
-[81 FR 38014, June 10, 2016]
+[81 FR 38014, June 10, 2016, as amended at 82 FR 53370, Nov. 15, 2017]

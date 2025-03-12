@@ -1,6 +1,6 @@
 ##### § 701.21 Loans to members and lines of credit to members. #####
 
-Link to an amendment published at 80 FR 66706, Oct. 29, 2015.Link to an amendment published at 82 FR 50291, Oct. 30, 2017.
+Link to an amendment published at 80 FR 66706, Oct. 29, 2015.
 
 (a) *Statement of scope and purpose.* Section 701.21 complements the provisions of section 107(5) of the Federal Credit Union Act (12 U.S.C. 1757(5)) authorizing Federal credit unions to make loans to members and issue lines of credit (including credit cards) to members. Section 107(5) of the Act contains limitations on matters such as loan maturity, rate of interest, security, and prepayment penalties. Section 701.21 interprets and implements those provisions. In addition, § 701.21 states the NCUA Board's intent concerning preemption of state laws, and expands the authority of Federal credit unions to enforce due-on-sale clauses in real property loans. Also, while § 701.21 generally applies to Federal credit unions only, certain provisions apply to loans made by federally insured, state-chartered credit unions as specified in § 741.203 of this chapter. Part 722 of this chapter sets forth requirements for appraisals for certain real estate secured loans made under § 701.21 and any other applicable lending authority. Finally, it is noted that § 701.21 does not apply to loans by Federal credit unions to other credit unions (although certain statutory limitations in section 107 of the Act apply), nor to loans to credit union organizations which are governed by section 107(5)(D) of the Act and part 712 of this chapter.
 
@@ -236,7 +236,7 @@ shall not be more favorable than the rates, terms and conditions for comparable 
 
 (iv) Other factors relevant to safety and soundness.
 
-(3) A regional director will provide a written determination on a waiver request within 45 calendar days after receipt of the request; however, the 45-day period will not begin until the requesting credit union has submitted all necessary information to the regional director. If the regional director does not provide a written determination within the 45-day period the request is deemed denied. A credit union may appeal any part of the determination to the NCUA Board. Appeals must be submitted through the regional director within 30 days of the date of the determination.
+(3) A regional director will provide a written determination on a waiver request within 45 calendar days after receipt of the request; however, the 45-day period will not begin until the requesting credit union has submitted all necessary information to the regional director. If the regional director does not provide a written determination within the 45-day period the request is deemed denied. A credit union may request the regional director to reconsider a denied waiver request and/or file an appeal with the NCUA Board in accordance with the procedures set forth in subpart B to part 746 of this chapter.
 
 (4) For purposes of paragraph (h) of this section:
 

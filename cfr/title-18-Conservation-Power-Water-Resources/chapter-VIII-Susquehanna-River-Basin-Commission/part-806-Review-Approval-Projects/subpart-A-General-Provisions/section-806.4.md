@@ -1,7 +1,5 @@
 ##### § 806.4 Projects requiring review and approval. #####
 
-Link to an amendment published at 82 FR 29390, June 29, 2017.
-
 (a) Except for activities relating to site evaluation, to aquifer testing under § 806.12 or to those activities authorized under § 806.34, no person shall undertake any of the following projects without prior review and approval by the Commission. The project sponsor shall submit an application in accordance with subpart B of this part and shall be subject to the applicable standards in subpart C of this part.
 
 (1) *Consumptive use of water.* Any consumptive use project described below shall require an application to be submitted in accordance with § 806.13, and shall be subject to the standards set forth in § 806.22, and, to the extent that it involves a withdrawal from groundwater or surface water, shall also be subject to the standards set forth in § 806.23. Except to the extent that they involve the diversion of the waters of the basin, public water supplies shall be exempt from the requirements of this section regarding consumptive use; provided, however, that nothing in this section shall be construed to exempt individual consumptive users connected to any such public water supply from the requirements of this section. Provided the commission determines that low flow augmentation projects sponsored by the commission's member states provide sufficient mitigation for agricultural water use to meet the standards set forth in § 806.22, and except as otherwise provided below, agricultural water use projects shall not be subject to the requirements of this paragraph (a)(1). Notwithstanding the foregoing, an agricultural water use project involving a diversion of the waters of the basin shall be subject to such requirements unless the property, or contiguous parcels of property, upon which the agricultural water use project occurs is located at least partially within the basin.
@@ -10,7 +8,13 @@ Link to an amendment published at 82 FR 29390, June 29, 2017.
 
 (ii) With respect to projects previously approved by the Commission for consumptive use, any project that will involve an increase in a consumptive use above that amount which was previously approved.
 
-(iii) With respect to projects that existed prior to January 23, 1971, any project that increases its consumptive use by an average of 20,000 gpd or more in any consecutive 30-day period above its pre-compact consumptive use.
+(iii) With respect to projects that existed prior to January 23, 1971, any project:
+
+(A) Registered in accordance with subpart E of this part that increases its consumptive use by any amount over the quantity determined under § 806.44;
+
+(B) Increasing its consumptive use to an average of 20,000 gpd or more in any consecutive 30-day period; or
+
+(C) That fails to register its consumptive use in accordance with subpart E of this part.
 
 (iv) Any project, regardless of when initiated, involving a consumptive use of an average of 20,000 gpd or more in any 30-day period, and undergoing a change of ownership, unless such project satisfies the requirements of paragraphs (b) or (c) of this section or the existing Commission approval for such project is transferred pursuant to § 806.6.
 
@@ -22,7 +26,13 @@ Link to an amendment published at 82 FR 29390, June 29, 2017.
 
 (iii) Any project which involves a withdrawal from a groundwater or surface water source and which is subject to the requirements of paragraph (a) of this section regarding consumptive use.
 
-(iv) With respect to groundwater projects in existence prior to July 13, 1978, and surface water projects in existence prior to November 11, 1995, any project that will increase its withdrawal from any source, or initiate a withdrawal from a new source, or combination of sources, by a consecutive 30-day average of 100,000 gpd or more, above that maximum consecutive 30-day amount which the project was withdrawing prior to the said applicable date.
+(iv) With respect to groundwater projects that existed prior to July 13, 1978, surface water projects that existed prior to November 11, 1995, or projects that existed prior to January 1, 2007, with multiple sources involving a withdrawal of a consecutive 30-day average of 100,000 gpd or more that did not require Commission review and approval, any project:
+
+(A) Registered in accordance with subpart E of this part that increases its withdrawal by any amount over the quantity determined under § 806.44;
+
+(B) Increasing its withdrawal individually or cumulatively from all sources to an average of 100,000 gpd or more in any consecutive 30-day period; or
+
+(C) That fails to register its withdrawals in accordance with subpart E of this part.
 
 (v) Any project, regardless of when initiated, involving a withdrawal of a consecutive 30-day average of 100,000 gpd or more, from either groundwater or surface water sources, or in combination from both, and undergoing a change of ownership, unless such project satisfies the requirements of paragraphs (b) or (c) of this section or the existing Commission approval for such project is transferred pursuant to § 806.6.
 

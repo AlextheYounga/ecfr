@@ -1,12 +1,10 @@
 ##### § 380.10 Royalty fees for the public performance of sound recordings and the making of ephemeral recordings. #####
 
-Link to an amendment published at 82 FR 55946, November 27, 2017.
+(a) *Royalty fees.* For the year 2018, Licensees must pay royalty fees for all Eligible Transmissions of sound recordings at the following rates:
 
-(a) *Royalty fees.* For the year 2017, Licensees must pay royalty fees for all Eligible Transmissions of sound recordings at the following rates:
+(1) *Commercial Webcasters:* $0.0023 per performance for subscription services and $0.0018 per performance for nonsubscription services.
 
-(1) *Commercial Webcasters:* $0.0022 per performance for subscription services and $0.0017 per performance for nonsubscription services.
-
-(2) *Noncommercial webcasters.* $500 per year for each channel or station and $0.0017 per performance for all digital audio transmissions in excess of 159,140 ATH in a month on a channel or station.
+(2) *Noncommercial webcasters.* $500 per year for each channel or station and $0.0018 per performance for all digital audio transmissions in excess of 159,140 ATH in a month on a channel or station.
 
 (b) *Minimum fee.* Licensees must pay the Collective a minimum fee of $500 each year for each channel or station. The Collective must apply the fee to the Licensee's account as credit towards any additional royalty fees that Licensees may incur in the same year. The fee is payable for each individual channel and each individual station maintained or operated by the Licensee and making Eligible Transmissions during each calendar year or part of a calendar year during which it is a Licensee. The maximum aggregate minimum fee in any calendar year that a Commercial Webcaster must pay is $50,000. The minimum fee is nonrefundable.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 82 FR 55946, November 27, 2017.
 
 (d) *Ephemeral recordings royalty fees.* The fee for all Ephemeral Recordings is part of the total fee payable under this section and constitutes 5% of it. All ephemeral recordings that a Licensee makes which are necessary and commercially reasonable for making noninteractive digital transmissions are included in the 5%.
 
-[81 FR 26409, May 2, 2016, as amended at 81 FR 87456, Dec. 5, 2016]
+[81 FR 26409, May 2, 2016, as amended at 81 FR 87456, Dec. 5, 2016; 82 FR 55946, Nov. 27, 2017]

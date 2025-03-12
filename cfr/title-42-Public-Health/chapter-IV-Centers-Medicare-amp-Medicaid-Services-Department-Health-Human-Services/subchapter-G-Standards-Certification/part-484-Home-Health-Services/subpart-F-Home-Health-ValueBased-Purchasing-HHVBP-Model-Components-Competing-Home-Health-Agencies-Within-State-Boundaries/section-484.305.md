@@ -1,10 +1,14 @@
 ##### § 484.305 Definitions. #####
 
-Link to an amendment published at 82 FR 51752, Nov. 7, 2017.
-
 As used in this subpart -
 
-*Applicable measure* means a measure for which the competing HHA has provided 20 home health episodes of care per year.
+*Applicable measure* means a measure for which a competing HHA has provided a minimum of -
+
+(1) Twenty home health episodes of care per year for the OASIS-based measures;
+
+(2) Twenty home health episodes of care per year for the claims-based measures; or
+
+(3) Forty completed surveys for the HHCAHPS measures.
 
 *Applicable percent* means a maximum upward or downward adjustment for a given performance year, not to exceed the following:
 
@@ -46,4 +50,4 @@ As used in this subpart -
 
 *Value-based purchasing* means measuring, reporting, and rewarding excellence in health care delivery that takes into consideration quality, efficiency, and alignment of incentives. Effective health care services and high performing health care providers may be rewarded with improved reputations through public reporting, enhanced payments through differential reimbursements, and increased market share through purchaser, payer, and/or consumer selection.
 
-[80 FR 68718, Nov. 5, 2015, as amended at 81 FR 76796, Nov. 3, 2016]
+[80 FR 68718, Nov. 5, 2015, as amended at 81 FR 76796, Nov. 3, 2016; 82 FR 51752, Nov. 7, 2017]

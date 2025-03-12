@@ -1,7 +1,5 @@
 ##### § 300.24 Prohibitions. #####
 
-Link to an amendment published at 82 FR 56178, Nov. 28, 2017.
-
 In addition to the prohibitions in § 300.4, it is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
 (a) Land any species of tuna during the closed season for that species in excess of the amount allowed by the Regional Administrator.
@@ -48,9 +46,9 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (v) Fail to maintain, submit, or ensure submission of a log that includes all the information required in § 300.22(a).
 
-(w) Set or attempt to set a purse seine on or around a whale shark (*Rhincodon typus*) in contravention of § 300.27(e).
+(w) Set or attempt to set a purse seine on or around a whale shark (*Rhincodon typus*) in contravention of § 300.27(g).
 
-(x) Fail to release a whale shark encircled in a purse seine net of a fishing vessel as required in § 300.27(f).
+(x) Fail to release a whale shark encircled in a purse seine net of a fishing vessel as required in § 300.27(h).
 
 (y) Fail to install, activate, or operate a VMS unit as required in § 300.26(c).
 
@@ -60,9 +58,9 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (bb) Fail to make a VMS unit installed under § 300.26 or the position data obtained from it available for inspection, as provided in § 300.26 (f) and (g).
 
-(cc) To retain on board, transship, store, land, sell, or offer for sale any part or whole carcass of a mobulid ray, as described in § 300.27(g).
+(cc) To retain on board, transship, store, land, sell, or offer for sale any part or whole carcass of a mobulid ray, as described in § 300.27(i).
 
-(dd) Fail to handle or release a mobulid ray as required in § 300.27(h).
+(dd) Fail to handle or release a mobulid ray as required in § 300.27(j).
 
 (ee) Fail to ensure characters of a unique code are marked indelibly on a FAD deployed or modified on or after January 1, 2017, in accordance with § 300.25(h).
 
@@ -71,5 +69,9 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 (gg) Use a commercial purse seine fishing vessel of the United States to retain on board, transship, store, or land any part or whole carcass of a silky shark (*Carcharhinus falciformis*) in contravention of § 300.27(e).
 
 (hh) Use a U.S. longline vessel to catch silky shark in contravention of § 300.27(f).
+
+(ii) Fail to handle or release a shark as required in § 300.27(k).
+
+(jj) Use a shark line in contravention of § 300.27(l).
 
 [61 FR 35550, July 5, 1996]Editorial Note:For Federal Register citations affecting § 300.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

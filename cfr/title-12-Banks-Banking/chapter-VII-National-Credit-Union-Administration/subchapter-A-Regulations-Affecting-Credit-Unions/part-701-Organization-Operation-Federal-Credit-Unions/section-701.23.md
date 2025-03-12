@@ -1,6 +1,6 @@
 ##### § 701.23 Purchase, sale, and pledge of eligible obligations. #####
 
-Link to an amendment published at 80 FR 66706, Oct. 29, 2015.Link to an amendment published at 82 FR 50291, Oct. 30, 2017.
+Link to an amendment published at 80 FR 66706, Oct. 29, 2015.
 
 This section governs a federal credit union's purchase, sale, or pledge of all or part of a loan to one of its own members, subject to a limited exception for certain well capitalized federal credit unions, where no continuing contractual obligation between the seller and purchaser is contemplated. For purchases of eligible obligations, except as described in paragraph (b)(2) of this section, the borrower must be a member of the purchasing federal credit union before the purchase is made. A federal credit union may not purchase a non-member loan to hold in its portfolio.
 
@@ -102,6 +102,6 @@ This section governs a federal credit union's purchase, sale, or pledge of all o
 
 (2) *Approval process.* A regional director will provide a written determination on a request for expanded authority within 60 calendar days after receipt of the request; however, the 60-day period will not begin until the requesting credit union has submitted all necessary information to the regional director. The regional director will inform the requesting credit union, in writing, of the date the request was received and of any additional documentation that the regional director requires in support of the request. If the regional director approves the request, the regional director will establish a limit on loan purchases as appropriate and subject to the limitations in this section. If the regional director does not notify the credit union of the action taken on its request within 60 calendar days of the receipt of the request or the receipt of additional requested supporting information, whichever occurs later, the credit union may purchase loans it requested under paragraph (b)(2) of this section.
 
-(3) *Appeal to NCUA Board.* A federal credit union may appeal any part of the determination made under this paragraph to the NCUA Board by submitting its appeal through the regional director within 30 days of the date of the determination.
+(3) *Appeal to NCUA Board.* A Federal credit union may request the regional director to reconsider a denied request for expanded authority and/or file an appeal with the NCUA Board in accordance with the procedures set forth in subpart B to part 746 of this chapter.
 
-[44 FR 27071, May 9, 1979, as amended at 46 FR 38680, July 29, 1981. Redesignated at 49 FR 30688, Aug. 1, 1984, and amended at 53 FR 4844, Feb. 18, 1988; 56 FR 15036, Apr. 15, 1991; 56 FR 35811, July 29, 1991; 60 FR 58504, Nov. 28, 1995; 63 FR 70998, Dec. 23, 1998; 72 FR 65442, Nov. 21, 2007; 77 FR 31990, May 31, 2012; 78 FR 37958, June 25, 2013]
+[44 FR 27071, May 9, 1979, as amended at 46 FR 38680, July 29, 1981. Redesignated at 49 FR 30688, Aug. 1, 1984, and amended at 53 FR 4844, Feb. 18, 1988; 56 FR 15036, Apr. 15, 1991; 56 FR 35811, July 29, 1991; 60 FR 58504, Nov. 28, 1995; 63 FR 70998, Dec. 23, 1998; 72 FR 65442, Nov. 21, 2007; 77 FR 31990, May 31, 2012; 78 FR 37958, June 25, 2013; 82 FR 50291, Oct. 30, 2017]

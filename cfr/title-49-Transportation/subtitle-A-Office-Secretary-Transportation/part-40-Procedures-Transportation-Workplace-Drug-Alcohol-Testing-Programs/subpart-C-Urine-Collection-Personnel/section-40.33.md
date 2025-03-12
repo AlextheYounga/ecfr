@@ -1,10 +1,8 @@
 ##### § 40.33 What training requirements must a collector meet? #####
 
-Link to an amendment published at 82 FR 52244, Nov. 13, 2017.
-
 To be permitted to act as a collector in the DOT drug testing program, you must meet each of the requirements of this section:
 
-(a) *Basic information.* You must be knowledgeable about this part, the current “DOT Urine Specimen Collection Procedures Guidelines,” and DOT agency regulations applicable to the employers for whom you perform collections, and you must keep current on any changes to these materials. The DOT Urine Specimen Collection Procedures Guidelines document is available from ODAPC (Department of Transportation, 1200 New Jersey Avenue, SE., Washington DC, 20590, 202-366-3784, or on the ODAPC web site (*http://www.dot.gov/ost/dapc*).
+(a) *Basic information.* You must be knowledgeable about this part, the current “DOT Urine Specimen Collection Procedures Guidelines,” and DOT agency regulations applicable to the employers for whom you perform collections. DOT agency regulations, the DOT Urine Specimen Collection Procedures Guidelines, and other materials are available from ODAPC (Department of Transportation, 1200 New Jersey Avenue SE., Washington DC, 20590, 202-366-3784, or on the ODAPC Web site (*https://www.transportation.gov/odapc*). You must keep current on any changes to these materials. You must subscribe to the ODAPC list-serve at: *https://www.transportation.gov/odapc/get-odapc-email-updates.*
 
 (b) *Qualification training.* You must receive qualification training meeting the requirements of this paragraph. Qualification training must provide instruction on the following subjects:
 
@@ -20,7 +18,7 @@ To be permitted to act as a collector in the DOT drug testing program, you must 
 
 (1) The five mock collections must include two uneventful collection scenarios, one insufficient quantity of urine scenario, one temperature out of range scenario, and one scenario in which the employee refuses to sign the CCF and initial the specimen bottle tamper-evident seal.
 
-(2) Another person must monitor and evaluate your performance, in person or by a means that provides real-time observation and interaction between the instructor and trainee, and attest in writing that the mock collections are “error-free.” This person must be a qualified collector who has demonstrated necessary knowledge, skills, and abilities by -
+(2) Another person must monitor and evaluate your performance, in person or by a means that provides real-time observation and interaction between the instructor and trainee, and attest in writing that the mock collections are “error-free.” This person must be a qualified collector who has demonstrated necessary knowledge, skills, and abilities by—
 
 (i) Regularly conducting DOT drug test collections for a period of at least a year;
 
@@ -28,13 +26,7 @@ To be permitted to act as a collector in the DOT drug testing program, you must 
 
 (iii) Successfully completing a “train the trainer” course.
 
-(d) *Schedule for qualification training and initial proficiency demonstration.* The following is the schedule for qualification training and the initial proficiency demonstration you must meet:
-
-(1) If you became a collector before August 1, 2001, and you have already met the requirements of paragraphs (b) and (c) of this section, you do not have to meet them again.
-
-(2) If you became a collector before August 1, 2001, and have yet to meet the requirements of paragraphs (b) and (c) of this section, you must do so no later than January 31, 2003.
-
-(3) If you become a collector on or after August 1, 2001, you must meet the requirements of paragraphs (b) and (c) of this section before you begin to perform collector functions.
+(d) You must meet the requirements of paragraphs (b) and (c) of this section before you begin to perform collector functions.
 
 (e) *Refresher training.* No less frequently than every five years from the date on which you satisfactorily complete the requirements of paragraphs (b) and (c) of this section, you must complete refresher training that meets all the requirements of paragraphs (b) and (c) of this section.
 
@@ -48,4 +40,4 @@ To be permitted to act as a collector in the DOT drug testing program, you must 
 
 (g) *Documentation.* You must maintain documentation showing that you currently meet all requirements of this section. You must provide this documentation on request to DOT agency representatives and to employers and C/TPAs who are using or negotiating to use your services.
 
-[65 FR 79526, Dec. 19, 2000; 66 FR 3885, Jan. 17, 2001, as amended at 66 FR 41950, Aug. 9, 2001]
+[65 FR 79526, Dec. 19, 2000; 66 FR 3885, Jan. 17, 2001, as amended at 66 FR 41950, Aug. 9, 2001; 82 FR 52244, Nov. 13, 2017]

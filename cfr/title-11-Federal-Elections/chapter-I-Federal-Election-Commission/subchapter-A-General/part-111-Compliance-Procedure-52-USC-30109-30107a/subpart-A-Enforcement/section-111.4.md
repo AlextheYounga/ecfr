@@ -1,8 +1,6 @@
 ##### § 111.4 Complaints (52 U.S.C. 30109(a)(1)). #####
 
-Link to an amendment published at 82 FR 60853, Dec. 26, 2017.
-
-(a) Any person who believes that a violation of any statute or regulation over which the Commission has jurisdiction has occurred or is about to occur may file a complaint in writing to the General Counsel, Federal Election Commission, 999 E Street, NW., Washington, DC 20463. If possible, three (3) copies should be submitted.
+(a) Any person who believes that a violation of any statute or regulation over which the Commission has jurisdiction has occurred or is about to occur may file a complaint in writing to the General Counsel of the Federal Election Commission at the street address identified in the definition of “Commission” in § 1.2. If possible, three (3) copies should be submitted.
 
 (b) A complaint shall comply with the following:
 
@@ -22,4 +20,4 @@ Link to an amendment published at 82 FR 60853, Dec. 26, 2017.
 
 (4) It should be accompanied by any documentation supporting the facts alleged if such documentation is known of, or available to, the complainant.
 
-[45 FR 15120, Mar. 7, 1980, as amended at 50 FR 50778, Dec. 12, 1985]
+[45 FR 15120, Mar. 7, 1980, as amended at 50 FR 50778, Dec. 12, 1985; 82 FR 60853, Dec. 26, 2017]

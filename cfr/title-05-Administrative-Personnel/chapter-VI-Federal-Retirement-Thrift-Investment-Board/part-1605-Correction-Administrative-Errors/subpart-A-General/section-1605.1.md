@@ -1,7 +1,5 @@
 ##### § 1605.1 Definitions. #####
 
-Link to an amendment published at 82 FR 60104, Dec. 19, 2017.
-
 (a) Definitions generally applicable to the Thrift Savings Plan are set forth at 5 CFR 1690.1.
 
 (b) As used in this part:
@@ -17,6 +15,8 @@ Link to an amendment published at 82 FR 60104, Dec. 19, 2017.
 (iii) The pay date of an erroneous contribution for which a negative adjustment is being made. However, if the erroneous contribution for which a negative adjustment is being made was a makeup or late contribution, the attributable pay date is the “as of” date of the erroneous makeup or late contribution.
 
 *Breakage* means the loss incurred or the gain realized on makeup or late contributions. It is the difference between the value of the shares of the applicable investment fund(s) that would have been purchased had the contribution been made on the “as of” date and the value of the shares of the same investment fund(s) on the date the contribution is posted to the account.
+
+*BRS participant* means any member of the Uniformed Services described in 5 U.S.C. 8440e(e)(1).
 
 *Error* means any act or omission by the Board, the TSP Record Keeper, or the participant's employing agency that is not in accordance with applicable statutes, regulations, or administrative procedures that are made available to employing agencies and/or TSP participants. It does not mean an act or omission caused by events that are beyond the control of the Board, the TSP Record Keeper, or the participant's employing agency.
 
@@ -38,6 +38,8 @@ Link to an amendment published at 82 FR 60104, Dec. 19, 2017.
 
 *Negative adjustment record* means a data record submitted by an employing agency to remove from a participant's TSP account money that the agency had previously submitted in error.
 
+*Non-BRS participant* means any member of the Uniformed Services not described in 5 U.S.C. 8440e(e)(1).
+
 *Pay date* means the date established by an employing agency for paying its employees or service members.
 
 *Payment record* means a data record submitted by an employing agency to report contributions or loan payments to a participant's TSP account.
@@ -50,4 +52,4 @@ Link to an amendment published at 82 FR 60104, Dec. 19, 2017.
 
 *Redesignation record* means a data record submitted by an employing agency to redesignate a contribution that the employing agency erroneously submitted to the wrong balance (traditional or Roth).
 
-[68 FR 35497, June 13, 2003, as amended at 70 FR 32209, June 1, 2005; 77 FR 26425, May 4, 2012]
+[68 FR 35497, June 13, 2003, as amended at 70 FR 32209, June 1, 2005; 77 FR 26425, May 4, 2012; 82 FR 60104, Dec. 19, 2017]

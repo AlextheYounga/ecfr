@@ -1,7 +1,5 @@
 ##### § 40.67 When and how is a directly observed collection conducted? #####
 
-Link to an amendment published at 82 FR 52244, Nov. 13, 2017.
-
 (a) As an employer, you must direct an immediate collection under direct observation with no advance notice to the employee, if:
 
 (1) The laboratory reported to the MRO that a specimen is invalid, and the MRO reported to you that there was not an adequate medical explanation for the result;
@@ -46,6 +44,6 @@ Link to an amendment published at 82 FR 52244, Nov. 13, 2017.
 
 (m) As the employee, if you decline to allow a directly observed collection required or permitted under this section to occur, this is a refusal to test.
 
-(n) As the collector, when you learn that a directly observed collection should have been collected but was not, you must inform the employer that it must direct the employee to have an immediate recollection under direct observation.
+(n) As a service agent, when you learn that a directly observed collection should have been collected but was not, you must inform the employer that it must direct the employee to have an immediate recollection under direct observation.
 
-[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41950, Aug. 9, 2001; 68 FR 31626, May 28, 2003; 69 FR 64867, Nov. 9, 2004; 73 FR 35970, June 25, 2008; 73 FR 50223, Aug. 26, 2008; 73 FR 62910, Oct. 22, 2008; 73 FR 70284, Nov. 20, 2008; 74 FR 37952, July 30, 2009]
+[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41950, Aug. 9, 2001; 68 FR 31626, May 28, 2003; 69 FR 64867, Nov. 9, 2004; 73 FR 35970, June 25, 2008; 73 FR 50223, Aug. 26, 2008; 73 FR 62910, Oct. 22, 2008; 73 FR 70284, Nov. 20, 2008; 74 FR 37952, July 30, 2009; 82 FR 52244, Nov. 13, 2017]

@@ -1,7 +1,5 @@
 ##### § 701.14 Change in official or senior executive officer in credit unions that are newly chartered or are in troubled condition. #####
 
-Link to an amendment published at 82 FR 50291, Oct. 30, 2017.
-
 (a) *Statement of scope and purpose.* Section 212 of the Federal Credit Union Act (12 U.S.C. 1790a) sets forth conditions under which a credit union must notify NCUA in writing of any proposed changes in its board of directors, committee members or senior executive staff. The regulation only applies in cases of newly chartered credit unions and credit unions in troubled condition.
 
 (b) *Definitions.* For the purposes of this section:
@@ -46,6 +44,6 @@ Link to an amendment published at 82 FR 50291, Oct. 30, 2017.
 
 (d) *Commencement of Service.* A proposed director, committee member, or senior executive officer may begin service after the end of the 30-day period or any other additional period as provided under paragraph (c)(3)(iii) of this section, unless the NCUA disapproves the notice before the end of the period.
 
-(e) *Notice of disapproval.* NCUA may disapprove the individual's serving as a director, committee member or senior executive officer if it finds that the competence, experience, character, or integrity of the individual with respect to whom a notice under this section is submitted indicates that it would not be in the best interests of the members of the credit union or of the public to permit the individual to be employed by, or associated with, the credit union. The Notice of Disapproval will advise the parties of their rights of appeal pursuant to 12 CFR part 747 subpart J, of NCUA's Regulations.
+(e) *Notice of disapproval.* NCUA may disapprove the individual serving as a director, committee member or senior executive officer if it finds that the competence, experience, character, or integrity of the individual with respect to whom a notice under this section is submitted indicates that it would not be in the best interests of the members of the credit union or of the public to permit the individual to be employed by, or associated with, the credit union. The Notice of Disapproval will advise the parties of their rights to request reconsideration from the Regional Director and/or file an appeal with the NCUA Board in accordance with the procedures set forth in subpart B to part 746 of this chapter.
 
-[55 FR 43086, Oct. 26, 1990, as amended at 59 FR 36042, July 15, 1994; 60 FR 31911, June 19, 1995; 64 FR 28717, May 27, 1999; 66 FR 65624, Dec. 20, 2001; 69 FR 62562, Oct. 27, 2004; 75 FR 34620, June 18, 2010; 78 FR 4029, Jan. 18, 2013; 78 FR 32544, May 31, 2013; 78 FR 77564, Dec. 26, 2013]
+[55 FR 43086, Oct. 26, 1990, as amended at 59 FR 36042, July 15, 1994; 60 FR 31911, June 19, 1995; 64 FR 28717, May 27, 1999; 66 FR 65624, Dec. 20, 2001; 69 FR 62562, Oct. 27, 2004; 75 FR 34620, June 18, 2010; 78 FR 4029, Jan. 18, 2013; 78 FR 32544, May 31, 2013; 78 FR 77564, Dec. 26, 2013; 82 FR 50291, Oct. 30, 2017]

@@ -1,16 +1,14 @@
 ##### § 32.2000 Instructions for telecommunications plant accounts. #####
 
-Link to an amendment published at 82 FR 20840, May 4, 2017.
-
 (a) *Purpose of telecommunications plant accounts.* (1) The telecommunications plant accounts (2001 to 2007 inclusive) are designed to show the investment in the company's tangible and intangible telecommunications plant which ordinarily has a service life of more than one year, including such plant whether used by the company or others in providing telecommunications service.
 
 (2) The telecommunications plant accounts shall not include the cost or other value of telecommunications plant contributed to the company. Contributions in the form of money or its equivalent toward the construction of telecommunications plant shall be credited to the accounts charged with the cost of such construction. Amounts of non-recurring reimbursements based on the cost of plant or equipment furnished in rendering service to a customer shall be credited to the accounts charged with the cost of the plant or equipment. Amounts received for construction which are ultimately to be repaid wholly or in part, shall be credited to Account 4300, Other long-term liabilities and deferred credits; when final determination has been made as to the amount to be returned, any unrefunded amounts shall be credited to the accounts charged with the cost of such construction. Amounts received for the construction of plant, the ownership of which rests with or will revert to others, shall be credited to the accounts charged with the cost of such construction. (Note also Account 7100, Other operating income and expense.)
 
 (3) When telecommunications plant ordinarily having a service life of more than one year is installed for temporary use in providing telecommunications service, it shall be accounted for in the same manner as plant having a service life of more than one year. This includes temporary installations of plant (such as poles, wire and cable) installed to maintain service during the progress of highway reconstruction or during interruptions due to storms or other casualties, equipment used for the training of operators, equipment used to provide intercepting positions in central offices to handle traffic for a short period following extensive system changes and similar installations of property used to provide telecommunications service.
 
-(4) The cost of the individual items of equipment, classifiable to Accounts 2112, Motor vehicles; 2113, Aircraft; 2114, Tools and other work equipment; 2122, Furniture; 2123, Office equipment; 2124, General purpose computers, costing $2,000 or less or having a life of less than one year shall be charged to the applicable expense accounts, except for personal computers falling within Account 2124. Personal computers classifiable to Account 2124, with a total cost for all components of $500 or less, shall be charged to the applicable Plant Specific Operations Expense accounts. The cost of tools and test equipment located in the central office, classifiable to central office asset accounts 2210-2232 costing $2,000 or less or having a life of less than one year shall be charged to the applicable Plant Specific Operations Expense accounts. If the aggregate investment in the items is relatively large at the time of acquisition, such amounts shall be maintained in an applicable material and supplies account until items are used.
+(4) [Reserved]
 
-(b) *Telecommunications plant acquired.* (1) Property, plant and equipment acquired from an entity, whether or not affiliated with the accounting company, shall be accounted for at original cost, except that property, plant and equipment acquired from a nonaffiliated entity shall be accounted for at acquisition cost if the purchase price is less than $100,000 for Class A companies or $25,000 for Class B companies.
+(b) *Telecommunications plant acquired.* (1) Property, plant and equipment acquired from an entity, whether or not affiliated with the accounting company, shall be accounted for at original cost, except that property, plant and equipment acquired from a nonaffiliated entity through an acquisition or merger may be accounted for at market value at the time of the acquisition or merger.
 
 (2) The accounting for property, plant and equipment to be recorded at original cost shall be as follows:
 
@@ -18,7 +16,7 @@ Link to an amendment published at 82 FR 20840, May 4, 2017.
 
 (ii) The original cost, estimated if not known, of telecommunications plant, governmental franchises and other similar rights acquired shall be charged to the applicable telecommunications plant accounts, Telecommunications Plant Under Construction, and Property Held For Future Telecommunications Use, as appropriate, and credited to Account 1439. When the actual original cost cannot be determined and estimates are used, the company shall be prepared to furnish the Commission with the particulars of such estimates.
 
-(iii) Accumulated Depreciation and amortization balances related to plant acquired shall be credited to Account 3100, Accumulated depreciation, or Account 3200, Accumulated depreciation - held for future telecommunications use, or Account 3410, Accumulated amortization - capitalized leases and debited to Account 1438. Accumulated amortization balances related to plant acquired which ultimately is recorded in Accounts 2005, Telecommunications plant adjustment, Account 2682, Leasehold improvements, or Account 2690, Intangibles shall be credited to these asset accounts, and debited to Account 1438.
+(iii) Accumulated Depreciation and amortization balances related to plant acquired shall be credited to Account 3100, Accumulated depreciation, or Account 3200, Accumulated depreciation—held for future telecommunications use, or Account 3400, Accumulated amortization—tangible and debited to Account 1438. Accumulated amortization balances related to plant acquired which ultimately is recorded in Accounts 2005, Telecommunications plant adjustment, Account 2682, Leasehold improvements, or Account 2690, Intangibles shall be credited to these asset accounts, and debited to Account 1438.
 
 (iv) Any amount remaining in Account 1438, applicable to the plant acquired, shall, upon completion of the entries provided in paragraphs (b)(2)(i) through (b)(2)(iii) of this section, be debited or credited, as applicable, to Account 2007, Goodwill, or to Account 2005, Telecommunications plant adjustment, as appropriate.
 
@@ -46,7 +44,7 @@ Link to an amendment published at 82 FR 20840, May 4, 2017.
 
 (ix) “Special machine service” includes the cost of labor expended, materials and supplies consumed and other expenses incurred in the maintenance, operation and use of special and other labor saving machines (other than transportation equipment (such as trenching equipment, cable plows and pole setting trucks. Also included are expenditures for rental, maintenance and operation of such machines owned by others. When a construction job requires the purchase of special machines, the cost thereof, less the appraised or salvage value at the time of release from the job, shall be included in the cost of construction.
 
-(x) Allowance for funds used during construction (“AFUDC”) provides for the cost of financing the construction of telecommunications plant. AFUDC shall be charged to Account 2003, Telecommunications plant under construction, and credited to Account 7300, Nonoperating income and expense. The rate for calculating AFUDC shall be determined as follows: If financing plans associate a specific new borrowing with an asset, the rate on that borrowing may be used for the asset; if no specific new borrowing is associated with an asset or if the average accumulated expenditures for the asset exceed the amounts of specific new borrowing associated with it, the capitalization rate to be applied to such excess shall be the weighted average of the rates applicable to other borrowings of the enterprise. The amount of interest cost capitalized in an accounting period shall not exceed the total amount of interest cost incurred by the company in that period.
+(x) Allowance for funds used during construction (“AFUDC”) provides for the cost of financing the construction of telecommunications plant. AFUDC shall be charged to Account 2003, Telecommunications plant under construction, and credited to Account 7300, Nonoperating income and expense. The rate for calculating AFUDC shall be determined in accordance with GAAP when implementing this system of accounts. The amount of interest cost capitalized in an accounting period shall not exceed the total amount of interest cost incurred by the company in that period.
 
 (xi) “Insurance” includes premiums paid specifically for protection against loss and damage in connection with the construction of telecommunications plant due to fire or other casualty, injury to or death of employees or others, damages to property of others, defalcations of employees and agents and the non-performance of contractual obligations of others.
 
@@ -110,7 +108,9 @@ Link to an amendment published at 82 FR 20840, May 4, 2017.
 
 (ii) The records supplemental to the continuing property records shall disclose such service designations, usage measurement criteria, apportionment factors, or other data as may be prescribed by the Commission in this part or other parts of its Rules and Regulations. Such data are subject to the same general controls and standards for auditability and support as are all other elements of the basic property records.
 
-(f) *Standard practices for establishing and maintaining continuing property records* - (1) *Accounting area.* (i) The continuing property record, as related to each primary plant account, shall be established and maintained by subaccounts for each accounting area. An accounting area is the smallest territory of the company for which accounting records of investment are maintained for all plant accounts within the area. Areas already established for administrative, accounting, valuation, or other purposes may be adopted for this purpose when appropriate. In no case shall the boundaries of accounting areas cross either State lines or boundaries prescribed by the Commission.
+(8) Notwithstanding any other provision of this part concerning continuing property records, carriers subject to price cap regulations set forth in part 61 of this chapter shall maintain property records necessary to track substantial assets and investments in an accurate, auditable manner that enables them to verify their accounting books, make such property information available to the Commission upon request, and ensure the maintenance of such data.
+
+(f) *Standard practices for establishing and maintaining continuing property records*—(1) *Accounting area.* (i) The continuing property record, as related to each primary plant account, shall be established and maintained by subaccounts for each accounting area. An accounting area is the smallest territory of the company for which accounting records of investment are maintained for all plant accounts within the area. Areas already established for administrative, accounting, valuation, or other purposes may be adopted for this purpose when appropriate. In no case shall the boundaries of accounting areas cross either State lines or boundaries prescribed by the Commission.
 
 (ii) In determining the limit of each area, consideration shall be given to the quantities of property, construction conditions, operating districts, county and township lines, taxing district boundaries, city limits, and other political or geographical limits, in order that the area adopted may have maximum adaptability, within the confines of practicability, for both the company's purpose and those of Federal, State, and municipal authorities.
 
@@ -118,7 +118,7 @@ Link to an amendment published at 82 FR 20840, May 4, 2017.
 
 (ii) When it is found necessary to revise this list because of the addition of units used in providing new types of service, or new units resulting from improvements in technology, or because of the grouping or elimination of units which no longer merit separate recognition as property record units, one copy of such changes shall be submitted to the Commission. Upon appropriate showing by the company, the Commission may specifically exempt the company from these filing requirements.
 
-(iii) The continuing property record shall reveal the description, location, date of placement, the essential details of construction, and the original cost (note also § 32.2000(f)(3) of this subpart) of the property record units. The continuing property record and other underlying records of construction costs shall be so maintained that, upon retirement of one or more retirement units or of minor items without replacement when not included in the costs of retirement units, the actual cost or a reasonably accurate estimate of the cost of the plant retired can be determined.
+(iii) The continuing property record shall reveal the description, location, date of placement, the essential details of construction, and the original cost (note also paragraph (f)(3) of this section) of the property record units. The continuing property records shall be compiled on the basis of original cost (or other book cost consistent with this system of accounts) and maintained in such manner as will provide for the verification of property record units by physical examination. The continuing property record and other underlying records of construction costs shall be so maintained that, upon retirement of one or more retirement units or of minor items without replacement when not included in the costs of retirement units, the actual cost or a reasonably accurate estimate of the cost of the plant retired can be determined.
 
 (3) *Methods of determining original cost of property record units.* The original cost of the property record units shall be determined by analyses of the construction costs incurred as shown by completion reports and other data, accumulated in the respective construction work orders or authorizations. Costs shall be allocated to and associated with the property record units to facilitate accounting for retirements. The original cost of property record units shall be determined by unit identification or averaging as described in paragraphs (f)(3) (i) and (ii) of this section.
 
@@ -150,7 +150,7 @@ Link to an amendment published at 82 FR 20840, May 4, 2017.
 
 (iv) If jointly owned regulated property is substantial in relation to the total of the same kind of regulated property owned wholly by the company, such jointly owned regulated property shall be appropriately segregated in the continuing property record.
 
-(g) *Depreciation accounting* - (1) *Computation of depreciation rates.* (i) Unless otherwise provided by the Commission, either through prior approval or upon prescription by the Commission, depreciation percentage rates shall be computed in conformity with a group plan of accounting for depreciation and shall be such that the loss in service value of the property, except for losses excluded under the definition of depreciation, may be distributed under the straight-line method during the service life of the property.
+(g) *Depreciation accounting*—(1) *Computation of depreciation rates.* (i) Unless otherwise provided by the Commission, either through prior approval or upon prescription by the Commission, depreciation percentage rates shall be computed in conformity with a group plan of accounting for depreciation and shall be such that the loss in service value of the property, except for losses excluded under the definition of depreciation, may be distributed under the straight-line method during the service life of the property.
 
 (ii) In the event any composite percentage rate becomes no longer applicable, revised composite percentage rates shall be computed in accordance with paragraph (g)(1)(i) of this section.
 
@@ -176,7 +176,7 @@ Link to an amendment published at 82 FR 20840, May 4, 2017.
 
 (C) The retirement is unusual such that similar retirements are not likely to recur in the future.
 
-(5) Upon direction or approval from this Commission, the company shall credit Account 3100, Accumulated Depreciation, and charge Account 1438, Deferred Maintenance, retirements and other deferred charges, with the unprovided-for loss in service value. Such amounts shall be distributed from Account 1438 to Account 6561, Depreciation expense - Telecommunications plant in service, or Account 6562, Depreciation expense - property held for future telecommunications use, over such period as this Commission may direct or approve.
+(5) Upon direction or approval from this Commission, the company shall credit Account 3100, Accumulated Depreciation, and charge Account 1438, Deferred Maintenance, retirements and other deferred charges, with the unprovided-for loss in service value. Such amounts shall be distributed from Account 1438 to Account 6561, Depreciation expense—Telecommunications plant in service, or Account 6562, Depreciation expense—property held for future telecommunications use, over such period as this Commission may direct or approve.
 
 (h) *Amortization accounting.* (1) Unless otherwise provided by this Commission, either through approval, or upon prescription by this Commission, amortization shall be computed on the straight-line method, i.e., equal annual amounts shall be applied. The cost of each type asset shall be amortized on the basis the estimated life of that asset and shall not be written off in the accounting period in which the asset is acquired. A reasonable estimate of the useful life may be based on the upper or lower limits even though a fixed existence is not determinable. However, the period of amortization shall not exceed forty years.
 
@@ -188,60 +188,32 @@ Link to an amendment published at 82 FR 20840, May 4, 2017.
 
 (i) [Reserved]
 
-(j) Plant Accounts to be Maintained by Class A and Class B telephone companies as indicated:
+(j) Plant accounts to be maintained by telephone companies as indicated:
 
-|                    Account title                     |Class A  <br/>account|Class B  <br/>account|
-|------------------------------------------------------|---------------------|---------------------|
-|                   Regulated plant                    |                     |                     |
-|            Property, plant and equipment:            |                     |                     |
-|         Telecommunications plant in service          |  <sup>1</sup> 2001  |  <sup>1</sup> 2001  |
-|   Property held for future telecommunications use    |        2002         |        2002         |
-|Telecommunications plant under construction-short term|        2003         |        2003         |
-|         Telecommunications plant adjustment          |        2005         |        2005         |
-|                  Nonoperating plant                  |        2006         |        2006         |
-|                       Goodwill                       |        2007         |        2007         |
-|      Telecommunications plant in service (TPIS)      |                     |                     |
-|            TPIS - General support assets:            |                     |                     |
-|               Land and support assets                |                     |        2110         |
-|                         Land                         |        2111         |                     |
-|                    Motor vehicles                    |        2112         |                     |
-|                       Aircraft                       |        2113         |                     |
-|            Tools and other work equipment            |        2114         |                     |
-|                      Buildings                       |        2121         |                     |
-|                      Furniture                       |        2122         |                     |
-|                   Office equipment                   |        2123         |                     |
-|              General purpose computers               |        2124         |                     |
-|            TPIS - Central Office assets:             |                     |                     |
-|              Central Office - switching              |                     |        2210         |
-|                Non-digital switching                 |        2211         |                     |
-|             Digital electronic switching             |        2212         |                     |
-|                   Operator systems                   |        2220         |        2220         |
-|            Central Office - transmission             |                     |        2230         |
-|                    Radio systems                     |        2231         |                     |
-|                  Circuit equipment                   |        2232         |                     |
-|  TPIS - Information origination/termination assets:  |                     |                     |
-|         Information origination termination          |                     |        2310         |
-|                  Station apparatus                   |        2311         |                     |
-|               Customer premises wiring               |        2321         |                     |
-|            Large private branch exchanges            |        2341         |                     |
-|         Public telephone terminal equipment          |        2351         |                     |
-|               Other terminal equipment               |        2362         |                     |
-|       TPIS - Cable and wire facilities assets:       |                     |                     |
-|              Cable and wire facilities               |                     |        2410         |
-|                        Poles                         |        2411         |                     |
-|                     Aerial cable                     |        2421         |                     |
-|                  Underground cable                   |        2422         |                     |
-|                     Buried cable                     |        2423         |                     |
-|             Submarine and deep sea cable             |        2424         |                     |
-|             Intrabuilding network cable              |        2426         |                     |
-|                     Aerial wire                      |        2431         |                     |
-|                   Conduit systems                    |        2441         |                     |
-|              TPIS - Amortizable assets:              |                     |                     |
-|             Amortizable tangible assets              |                     |        2680         |
-|                    Capital leases                    |        2681         |                     |
-|                Leasehold improvements                |        2682         |                     |
-|                     Intangibles                      |        2690         |        2690         |
+|                    Account title                     |                 |
+|------------------------------------------------------|-----------------|
+|                   Regulated plant                    |                 |
+|            Property, plant and equipment:            |                 |
+|         Telecommunications plant in service          |<sup>1</sup> 2001|
+|   Property held for future telecommunications use    |      2002       |
+|Telecommunications plant under construction-short term|      2003       |
+|         Telecommunications plant adjustment          |      2005       |
+|                  Nonoperating plant                  |      2006       |
+|                       Goodwill                       |      2007       |
+|      Telecommunications plant in service (TPIS)      |                 |
+|             TPIS—General support assets:             |                 |
+|               Land and support assets                |      2110       |
+|             TPIS—Central Office assets:              |                 |
+|               Central Office—switching               |      2210       |
+|                   Operator systems                   |      2220       |
+|             Central Office—transmission              |      2230       |
+|   TPIS—Information origination/termination assets:   |                 |
+|         Information origination termination          |      2310       |
+|        TPIS—Cable and wire facilities assets:        |                 |
+|              Cable and wire facilities               |      2410       |
+|               TPIS—Amortizable assets:               |                 |
+|             Amortizable tangible assets              |      2680       |
+|                     Intangibles                      |      2690       |
+|   <sup>1</sup> Balance sheet summary account only.   |                 |
 
-<sup>1</sup> Balance sheet summary account only.
-
-[51 FR 43499, Dec. 2, 1986, as amended at 52 FR 7580, Mar. 12, 1987; 53 FR 30059, Aug. 10, 1988; 59 FR 46930, Sept. 13, 1994; 60 FR 12138, Mar. 6, 1995; 62 FR 39451, July 23, 1997; 64 FR 50007, Sept. 15, 1999; 67 FR 5683, Feb. 6, 2002; 69 FR 53648, Sept. 2, 2004]
+[51 FR 43499, Dec. 2, 1986, as amended at 52 FR 7580, Mar. 12, 1987; 53 FR 30059, Aug. 10, 1988; 59 FR 46930, Sept. 13, 1994; 60 FR 12138, Mar. 6, 1995; 62 FR 39451, July 23, 1997; 64 FR 50007, Sept. 15, 1999; 67 FR 5683, Feb. 6, 2002; 69 FR 53648, Sept. 2, 2004; 82 FR 20840, May 4, 2017]

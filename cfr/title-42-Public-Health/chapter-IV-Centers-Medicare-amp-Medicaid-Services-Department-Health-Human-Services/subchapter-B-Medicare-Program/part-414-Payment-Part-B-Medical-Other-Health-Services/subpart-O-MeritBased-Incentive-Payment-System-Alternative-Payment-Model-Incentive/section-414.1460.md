@@ -1,19 +1,33 @@
 ##### § 414.1460 Monitoring and program integrity. #####
 
-Link to an amendment published at 82 FR 53965, Nov. 16, 2017.
+(a) *Vetting eligible clinicians.* Prior to payment of the APM Incentive Payment, CMS determines if eligible clinicians were in compliance with all Medicare conditions of participation and the terms of the relevant Advanced APMs in which they participated during the QP Performance Period. A determination under this provision is not binding for other purposes.
 
-(a) *Vetting eligible clinicians prior to payment of the APM Incentive Payment.* Prior to payment of the APM Incentive Payment, CMS determines if eligible clinicians were in compliance with all Medicare conditions of participation and the terms of the relevant Advanced APMs in which they participate during the QP Performance Period. For QPs not meeting these standards there may be a reduction or denial of the APM Incentive Payment. A determination under this provision is not binding for other purposes.
+(b) *Rescinding QP Determinations.* CMS may rescind a QP determination if:
 
-(b) *Termination by Advanced APMs.* CMS may reduce or deny an APM Incentive Payment to eligible clinicians who are terminated by APMs or whose Advanced APM Entities are terminated by APMs for non-compliance with all Medicare conditions of participation or the terms of the relevant Advanced APMS in which they participate during the QP Performance Periods.
+(1) Any of the information CMS relied on in making the QP determination was inaccurate or misleading.
 
-(c) *Information submitted for All-Payer Combination Option.* Information submitted by eligible clinicians or Advanced APM Entities to meet the requirements of the All-Payer Combination Option may be subject to audit by CMS. Eligible clinicians and Advanced APM Entities must maintain copies of any supporting documentation related to All-Payer Combination Option for at least 10 years and must attest to the accuracy and completeness of the data submitted.
+(2) The QP is terminated from an Advanced APM or Other Payer Advanced APM during the QP Performance Period or Incentive Payment Base Period; or
 
-(d) *Recoupment of APM Incentive Payment.* For any QPs who are terminated from an Advanced APM or found to be in violation of any Federal, State, or tribal statute, regulation, or other binding guidance during the QP Performance Period or Incentive Payment Base Period or terminated after these periods as a result of a violation occurring during either period, CMS may rescind such eligible clinicians' QP determinations and, if necessary, recoup part or all of any such eligible clinicians' APM Incentive Payment or deduct such amount from future payments to such individuals. CMS may reopen and recoup any payments that were made in error in accordance with procedures similar to those set forth at 42 CFR 405.980 and 42 CFR 405.370 through 405.379 or established under the relevant APM. The APM Incentive Payment will be recouped if an audit reveals a lack of support for attested statements provided by eligible clinicians and Advanced APM Entities.
+(3) The QP is found to be in violation of the terms of the relevant Advanced APM or any relevant Federal, State, or tribal statute or regulation during the QP Performance Period or Incentive Payment Base Period.
 
-(e) *Maintenance of records.* An Advanced APM Entity or eligible clinician that submits information to CMS under § 414.1445 for assessment under the All-Payer Combination Option must maintain such books contracts, records, documents, and other evidence for a period of 10 years from the final date of the QP Performance Period or from the date of completion of any audit, evaluation, or inspection, whichever is later, unless:
+(c) *Information submitted for All-Payer Combination Option.* Information submitted by payers, APM Entities, or eligible clinicians for purposes of the All-Payer Combination Option may be subject to audit by CMS.
 
-(1) CMS determines there is a special need to retain a particular record or group of records for a longer period and notifies the Advanced APM Entity of eligible clinician at least 30 days before the formal disposition date; or
+(d) *Reducing, denying, and recouping of APM Incentive Payments.* (1) CMS may reduce or deny an APM Incentive Payment to an eligible clinician.
 
-(2) There has been a termination, dispute, or allegation of fraud or similar fault against the Advanced APM Entity or eligible clinician, in which case the Advanced APM Entity or eligible clinician must retain records for an additional 6 years from the date of any resulting final resolution of the termination, dispute, or allegation of fraud or similar fault.
+(i) Who CMS determines is not in compliance with all Medicare conditions of participation and the terms of the relevant Advanced APM in which they participate during the QP Performance Period or Incentive Payment Base Period;
+
+(ii) Who is terminated by an APM or Advanced APM during the QP Performance Period or Incentive Payment Base Period; or
+
+(iii) Whose APM Entity is terminated by an APM or Advanced APM for non-compliance with any Medicare condition of participation or the terms of the relevant Advanced APM in which they participate during the QP Performance Period or Incentive Payment Base Period.
+
+(2) CMS may reopen, revise, and recoup an APM Incentive Payment that was made in error in accordance with procedures similar to those set forth at §§ 405.980 through § 405.986 and §§ 405.370 through 405.379 of this chapter or as established under the relevant APM.
+
+(e) *Maintenance of records.* (1) A payer that submits information to CMS under § 414.1445 for assessment under the All-Payer Combination Option must maintain such books, contracts, records, documents, and other evidence as necessary to enable the audit of an Other Payer Advanced APM determination. Such information and supporting documentation must be maintained for a period of 6 years after submission.
+
+(2) An APM Entity or eligible clinician that submits information to CMS under § 414.1445 for assessment under the All-Payer Combination Option or § 414.1440 for QP determinations must maintain such books, contracts, records, documents, and other evidence as necessary to enable the audit of an Other Payer Advanced APM determination, QP determinations, and the accuracy of APM Incentive Payments for a period of 6 years from the end of the QP Performance Period or from the date of completion of any audit, evaluation, or inspection, whichever is later.
+
+(3) A payer, APM Entity or eligible clinician that submits information to CMS under §§ 414.1440 or 414.1445 must provide such information and supporting documentation to CMS upon request.
 
 (f) *OIG authority.* None of the provisions of this part limit or restrict OIG's authority to audit, evaluate, investigate, or inspect the Advanced APM Entity, its eligible clinicians, and other individuals or entities performing functions or services related to its APM activities.
+
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53965, Nov. 16, 2017]

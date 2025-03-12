@@ -1,10 +1,8 @@
 ##### § 1603.3 Service requirements. #####
 
-Link to an amendment published at 82 FR 60104, Dec. 19, 2017.
+(a) Except as provided under paragraph (b) of this section, FERS employees will be vested in their Agency Automatic (1%) Contributions and attributable earnings upon separating from Government only if, as of their separation date, they have completed three years of civilian service.
 
-(a) Except as provided under paragraph (b) of this section, FERS employees will be vested in their agency automatic (1%) contributions and attributable earnings upon separating from Government only if, as of their separation date, they have completed three years of service.
-
-(b) FERS employees will be vested in their agency automatic (1%) contributions and attributable earnings upon separating from Government service if, as of their separation date, they have completed two years of service and they are serving in one of the following positions:
+(b) FERS employees will be vested in their Agency Automatic (1%) Contributions and attributable earnings upon separating from Government service if, as of their separation date, they have completed two years of civilian service and they are serving in one of the following positions:
 
 (1) A position in the Senior Executive Service as a non-career appointee (as defined in 5 U.S.C. 3132(a)(7));
 
@@ -16,4 +14,6 @@ Link to an amendment published at 82 FR 60104, Dec. 19, 2017.
 
 (5) A Member of Congress or a Congressional employee.
 
-[52 FR 29835, Aug. 12, 1987, as amended at 60 FR 24535, May 9, 1995; 62 FR 33969, June 23, 1997]
+(c) Uniformed service members who are covered by BRS will be vested in their Agency Automatic (1%) Contributions and attributable earnings upon separation from the uniformed services only if, as of their separation date, they have completed two years of military service.
+
+[52 FR 29835, Aug. 12, 1987, as amended at 60 FR 24535, May 9, 1995; 62 FR 33969, June 23, 1997; 82 FR 60104, Dec. 19, 2017]

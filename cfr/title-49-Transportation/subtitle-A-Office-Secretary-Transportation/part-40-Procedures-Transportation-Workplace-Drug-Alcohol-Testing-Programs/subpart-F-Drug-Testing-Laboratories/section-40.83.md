@@ -1,22 +1,26 @@
 ##### § 40.83 How do laboratories process incoming specimens? #####
 
-Link to an amendment published at 82 FR 52244, Nov. 13, 2017.
-
 As the laboratory, you must do the following when you receive a DOT specimen:
 
 (a) You are authorized to receive only Copy 1 of the CCF. You are not authorized to receive other copies of the CCF or any copies of the alcohol testing form.
 
 (b) You must comply with applicable provisions of the HHS Guidelines concerning accessioning and processing urine drug specimens.
 
-(c) You must inspect each specimen and CCF for the following “fatal flaws:”
+(c) You must inspect each specimen and CCF for the following “fatal flaws”:
 
-(1) The specimen ID numbers on the specimen bottle and the CCF do not match;
+(1) There is no CCF;
 
-(2) The specimen bottle seal is broken or shows evidence of tampering, unless a split specimen can be redesignated (see paragraph (h) of this section);
+(2) In cases where a specimen has been collected, there is no specimen submitted with the CCF;
 
-(3) The collector's printed name *and* signature are omitted from the CCF; and
+(3) There is no printed collector's name and no collector's signature;
 
-(4) There is an insufficient amount of urine in the primary bottle for analysis, unless the specimens can be redesignated (see paragraph (h) of this section).
+(4) Two separate collections are performed using one CCF;
+
+(5) The specimen ID numbers on the specimen bottle and the CCF do not match;
+
+(6) The specimen bottle seal is broken or shows evidence of tampering, unless a split specimen can be redesignated (see paragraph (h) of this section);
+
+(7) There is an insufficient amount of urine in the primary bottle for analysis, unless the specimens can be redesignated (see paragraph (h) of this section).
 
 (d) When you find a specimen meeting the criteria of paragraph (c) of this section, you must document your findings and stop the testing process. Report the result in accordance with § 40.97(a)(3) .
 
@@ -56,4 +60,4 @@ As the laboratory, you must do the following when you receive a DOT specimen:
 
 (i) A notation shall be made on Copy 1 of the CCF (Step 5a) and on any laboratory internal chain of custody documents, as appropriate, for any fatal or correctable flaw.
 
-[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41951, Aug. 9, 2001; 71 FR 49384, Aug. 23, 2006; 73 FR 35970, June 25, 2008; 75 FR 59107, Sept. 27, 2010]
+[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41951, Aug. 9, 2001; 71 FR 49384, Aug. 23, 2006; 73 FR 35970, June 25, 2008; 75 FR 59107, Sept. 27, 2010; 82 FR 52244, Nov 13, 2017]

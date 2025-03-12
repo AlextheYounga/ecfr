@@ -1,7 +1,5 @@
 ##### § 425.112 Required processes and patient-centeredness criteria. #####
 
-Link to an amendment published at 82 FR 53368, Nov. 15, 2017.
-
 (a) *General.* (1) An ACO must -
 
 (i) Promote evidence-based medicine and beneficiary engagement, internally report on quality and cost metrics, and coordinate care;
@@ -14,9 +12,9 @@ Link to an amendment published at 82 FR 53368, Nov. 15, 2017.
 
 (3) For each process specified in paragraphs (b)(1) through (4) of this section, the ACO must -
 
-(i) Explain how it will require ACO participants and ACO providers/suppliers to comply with and implement each process (and subelement thereof), including the remedial processes and penalties (including the potential for expulsion) applicable to ACO participants and ACO providers/suppliers for failure to comply with and implement the required process; and
+(i) Require ACO participants and ACO providers/suppliers to comply with and implement each process (and subelement thereof), including the remedial processes and penalties (including the potential for expulsion) applicable to ACO participants and ACO providers/suppliers for failure to comply with and implement the required process; and
 
-(ii) Explain how it will employ its internal assessments of cost and quality of care to improve continuously the ACO's care practices.
+(ii) Employ its internal assessments of cost and quality of care to improve continuously the ACO's care practices.
 
 (b) *Required processes.* The ACO must define, establish, implement, evaluate, and periodically update processes to accomplish the following:
 
@@ -46,13 +44,13 @@ Link to an amendment published at 82 FR 53368, Nov. 15, 2017.
 
 (i) Define its methods and processes established to coordinate care throughout an episode of care and during its transitions, such as discharge from a hospital or transfer of care from a primary care physician to a specialist (both inside and outside the ACO); and
 
-(ii) As part of its application, the ACO must:
+(ii) Have a written plan to:
 
-(A) Submit a description of its individualized care program, along with a sample individual care plan, and explain how this program is used to promote improved outcomes for, at a minimum, its high-risk and multiple chronic condition patients.
+(A) Implement an individualized care program that promotes improved outcomes for, at a minimum, the ACO's high-risk and multiple chronic condition patients.
 
-(B) Describe additional target populations that would benefit from individualized care plans. Individual care plans must take into account the community resources available to the individual.
+(B) Identify additional target populations that would benefit from individualized care plans. Individualized care plans must take into account the community resources available to the individual.
 
-(C) Describe how the ACO will encourage and promote use of enabling technologies for improving care coordination for beneficiaries. Enabling technologies may include one or more of the following:
+(C) Encourage and promote use of enabling technologies for improving care coordination for beneficiaries. Enabling technologies may include one or more of the following:
 
 (*1*) Electronic health records and other health IT tools.
 
@@ -62,6 +60,6 @@ Link to an amendment published at 82 FR 53368, Nov. 15, 2017.
 
 (*4*) Other electronic tools to engage beneficiaries in their care.
 
-(D) Describe how the ACO intends to partner with long-term and post-acute care providers, both inside and outside the ACO, to improve care coordination for their assigned beneficiaries.
+(D) Partner with long-term and post-acute care providers, both inside and outside the ACO, to improve care coordination for its assigned beneficiaries.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32835, June 9, 2015]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32835, June 9, 2015; 82 FR 53368, Nov. 15, 2017]

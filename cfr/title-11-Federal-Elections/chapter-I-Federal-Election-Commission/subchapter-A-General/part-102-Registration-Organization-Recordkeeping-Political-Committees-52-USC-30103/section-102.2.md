@@ -1,8 +1,6 @@
 ##### § 102.2 Statement of organization: Forms and committee identification number (52 U.S.C. 30103(b), (c)). #####
 
-Link to an amendment published at 82 FR 60853, Dec. 26, 2017.
-
-(a) *Forms.* (1) The Statement of Organization shall be filed in accordance with 11 CFR part 105 on Federal Election Commission Form 1, which may be obtained from the Federal Election Commission, 999 E Street, NW., Washington, DC 20463. The Statement shall be signed by the treasurer and shall include the following information:
+(a) *Forms.* (1) The Statement of Organization shall be filed in accordance with 11 CFR part 105 on Federal Election Commission Form 1, which may be obtained from the Federal Election Commission. The Statement shall be signed by the treasurer and shall include the following information:
 
 (i) The name, address, and type of committee;
 
@@ -38,4 +36,4 @@ Link to an amendment published at 82 FR 60853, Dec. 26, 2017.
 
 (c) *Committee identification number.* Upon receipt of a Statement of Organization under 11 CFR part 102 by the Commission, an identification number shall be assigned to the committee, receipt shall be acknowledged, and the political committee shall be notified of the number assigned. This identification number shall be entered by the political committee on all subsequent reports or statements filed under the Act, as well as on all communications concerning reports and statements.
 
-[45 FR 15104, Mar. 7, 1980, as amended at 50 FR 50778, Dec. 12, 1985; 54 FR 34109, Aug. 17, 1989; 54 FR 48580, Nov. 24, 1989; 58 FR 42173, Aug. 6, 1993; 65 FR 38422, June 21, 2000; 68 FR 3995, Jan. 27, 2003; 68 FR 64516, Nov. 14, 2003; 68 FR 67018, Dec. 1, 2003; 73 FR 79601, Dec. 30, 2008]
+[45 FR 15104, Mar. 7, 1980, as amended at 50 FR 50778, Dec. 12, 1985; 54 FR 34109, Aug. 17, 1989; 54 FR 48580, Nov. 24, 1989; 58 FR 42173, Aug. 6, 1993; 65 FR 38422, June 21, 2000; 68 FR 3995, Jan. 27, 2003; 68 FR 64516, Nov. 14, 2003; 68 FR 67018, Dec. 1, 2003; 73 FR 79601, Dec. 30, 2008; 82 FR 60853, Dec. 26, 2017]
