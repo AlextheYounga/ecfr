@@ -1,15 +1,9 @@
 ##### § 120.352 Use of proceeds. #####
 
-Link to an amendment published at 85 FR 80588, Dec. 14, 2020.
+Loan proceeds may be used for two purposes.
 
-Loan proceeds may be used for:
+(a) *Qualified employer securities.* A qualified employee trust may relend loan proceeds to the employer by purchasing qualified employer securities. The small business concern may use these funds for any general purpose under section 7(a) of the Act.
 
-(a) *Qualified employee trust.* A qualified employee trust may use loan proceeds for two purposes:
+(b) *Control of employer.* A qualified employee trust may use loan proceeds to purchase a controlling interest (51 percent) in the employer. Ownership and control must vest in the trust by the time the loan is repaid.
 
-(1) *Qualified employer securities.* A qualified employee trust may relend loan proceeds to the employer by purchasing qualified employer securities. The small business concern may use these funds for any general 7(a) purpose.
-
-(2) *Control of employer.* A qualified employee trust may use loan proceeds to purchase a controlling interest (51 percent) in the employer. Ownership and control must vest in the trust by the time the loan is repaid.
-
-(b) *Small business concern.* A small business concern may only use loan proceeds to make a loan to a qualified employee trust that results in the qualified employee trust owning at least 51 percent of the small business concern.
-
-[85 FR 7648, Feb. 10, 2020]
+[85 FR 80588, Dec. 14, 2020]

@@ -1,14 +1,12 @@
 ##### § 120.10 Definitions. #####
 
-Link to an amendment published at 85 FR 80588, Dec. 14, 2020.
-
 The following terms have the same meaning wherever they are used in this part. Defined terms are capitalized wherever they appear.
 
 *Acceptable Risk Rating* is an SBA-assigned Risk Rating, currently defined by SBA as “1”, “2” or “3” on a scale of 1 to 5, which represents an acceptable level of risk as determined by SBA, and which may be revised by SBA from time to time as published in the Federal Register through notice and comment.
 
 *Associate.* (1) An Associate of a Lender or CDC is:
 
-(i) An officer, director, key employee, or holder of 20 percent or more of the value of the Lender's or CDC's stock or debt instruments, or an Agent (as defined in § 103.1 of this chapter) involved in the loan process; or
+(i) An officer, director, key employee, or holder of 20 percent or more of the value of the Lender's or CDC's stock or debt instruments, or an agent involved in the loan process; or
 
 (ii) Any entity in which one or more individuals referred to in paragraphs (1)(i) of this definition or a Close Relative of any such individual owns or controls at least 20 percent.
 
@@ -82,4 +80,4 @@ The following terms have the same meaning wherever they are used in this part. D
 
 *SOPs* are SBA Standard Operating Procedures, as issued and revised by SBA from time to time. SOPs are publicly available on SBA's Web site at *http://www.sba.gov* in the online library.
 
-[61 FR 3235, Jan. 31, 1996, as amended at 64 FR 2117, Jan. 13, 1999; 68 FR 57980, Oct. 7, 2003; 72 FR 18360, Apr. 12, 2007; 73 FR 75510, Dec. 11, 2008; 76 FR 63545, Oct. 12, 2011; 85 FR 7647, Feb. 10, 2020; 85 FR 14780, Mar. 16, 2020]
+[61 FR 3235, Jan. 31, 1996, as amended at 64 FR 2117, Jan. 13, 1999; 68 FR 57980, Oct. 7, 2003; 72 FR 18360, Apr. 12, 2007; 73 FR 75510, Dec. 11, 2008; 76 FR 63545, Oct. 12, 2011; 85 FR 7647, Feb. 10, 2020; 85 FR 14780, Mar. 16, 2020; 85 FR 80588, Dec. 14, 2020]

@@ -1,14 +1,6 @@
 ##### § 103.1 Key definitions. #####
 
-Link to an amendment published at 85 FR 80587, Dec. 14, 2020.
-
-(a) *Agent* means an authorized representative, including an attorney, accountant, consultant, packager, lender service provider, or any other individual or entity representing an Applicant or Participant by conducting business with SBA. For purposes of SBA's business loan programs, the term Agent includes but is not limited to:
-
-(1) *Lender Service Provider:* an Agent who assists the Lender with originating, disbursing, servicing, liquidating, or litigating SBA loans. The Lender bears full responsibility for all aspects of its SBA loan operation, including, but not limited to, approvals, closings, disbursements, servicing actions, and due diligence. Lender Service Providers may only receive compensation from the Lender and such compensation may not be passed on to the Applicant or paid out of SBA-guaranteed loan proceeds.
-
-(2) *Packager:* An Agent who prepares the Applicant's application for financial assistance and is employed and compensated by the Applicant.
-
-(3) *Loan Broker (also known as Referral Agent):* an Agent who, on a specific transaction, either assists the Applicant in finding an SBA Lender that will be willing to make a loan to the Applicant or assists the SBA Lender in finding an Applicant. A Loan Broker may be employed and compensated by either the Applicant or the SBA Lender (but not both). Compensation paid to a Loan Broker by an SBA Lender may not be passed on to the Applicant and may not be paid out of SBA-guaranteed loan or debenture proceeds.
+(a) *Agent* means an authorized representative, including an attorney, accountant, consultant, packager, lender service provider, or any other person representing an Applicant or Participant by conducting business with SBA.
 
 (b) The term *conduct business with SBA* means:
 
@@ -24,6 +16,12 @@ Link to an amendment published at 85 FR 80587, Dec. 14, 2020.
 
 (c) *Applicant* means any person, firm, concern, corporation, partnership, cooperative or other business enterprise applying for any type of assistance from SBA.
 
-(d) *Participant* means a person or entity that is participating in any of the financial, investment, or business development programs authorized by the Small Business Act or Small Business Investment Act of 1958.
+(d) *Lender Service Provider* means an Agent who carries out lender functions in originating, disbursing, servicing, or liquidating a specific SBA business loan or loan portfolio for compensation from the lender. SBA determines whether or not one is a “Lender Service Provider” on a loan-by-loan basis.
 
-[61 FR 2681, Jan. 29, 1996, as amended at 85 FR 7647, Feb. 10, 2020]
+(e) *Packager* means an Agent who is employed and compensated by an Applicant or lender to prepare the Applicant's application for financial assistance from SBA. SBA determines whether or not one is a “Packager” on a loan-by-loan basis.
+
+(f) *Referral Agent* means a person or entity who identifies and refers an Applicant to a lender or a lender to an Applicant. The Referral Agent may be employed and compensated by either an Applicant or a lender.
+
+(g) *Participant* means a person or entity that is participating in any of the financial, investment, or business development programs authorized by the Small Business Act or Small Business Investment Act of 1958.
+
+[61 FR 2681, Jan. 29, 1996, as amended at 85 FR 7647, Feb. 10, 2020; 85 FR 80587, Dec. 14, 2020]

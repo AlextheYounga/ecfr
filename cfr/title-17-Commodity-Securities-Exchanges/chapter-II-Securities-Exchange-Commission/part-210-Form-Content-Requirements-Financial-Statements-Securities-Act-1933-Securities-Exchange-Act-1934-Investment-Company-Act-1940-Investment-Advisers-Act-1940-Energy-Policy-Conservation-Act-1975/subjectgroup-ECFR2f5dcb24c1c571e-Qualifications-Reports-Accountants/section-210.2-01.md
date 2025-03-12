@@ -1,6 +1,6 @@
 ##### § 210.2-01 Qualifications of accountants. #####
 
-Link to an amendment published at 85 FR 80541, Dec. 11, 2020.Preliminary Note to § 210.2-01
+Link to an amendment published at 85 FR 80541, Dec. 11, 2020.Link to a correction published at 86 FR 8686, Feb. 9, 2021.Preliminary Note to § 210.2-01
 
 1. Section 210.2-01 is designed to ensure that auditors are qualified and independent of their audit clients both in fact and in appearance. Accordingly, the rule sets forth restrictions on financial, employment, and business relationships between an accountant and an audit client and restrictions on an accountant providing certain non-audit services to an audit client.
 

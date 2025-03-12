@@ -1,7 +1,5 @@
 ##### § 702.242 Information necessary for a complete settlement application. #####
 
-Link to an amendment published at 85 FR 80613, Dec. 14, 2020.
-
 (a) The settlement application shall be a self-sufficient document which can be evaluated without further reference to the administrative file. The application shall be in the form of a stipulation signed by all parties and shall contain a brief summary of the facts of the case to include: a description of the incident, a description of the nature of the injury to include the degree of impairment and/or disability, a description of the medical care rendered to date of settlement, and a summary of compensation paid and the compensation rate or, where benefits have not been paid, the claimant's average weekly wage.
 
 (b) The settlement application shall contain the following:
