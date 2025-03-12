@@ -1,7 +1,5 @@
 ##### § 635.71 Prohibitions. #####
 
-Link to an amendment published at 82 FR 61498, Dec. 28, 2017.
-
 In addition to the prohibitions specified in § 600.725 of this chapter, it is unlawful for any person subject to the jurisdiction of the United States to violate any provision of this part, ATCA, the Magnuson-Stevens Act, or any other rules promulgated under ATCA or the Magnuson-Stevens Act.
 
 (a) *General.* It is unlawful for any person or vessel subject to the jurisdiction of the United States to:
@@ -230,7 +228,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (47) Depart on a fishing trip or deploy or fish with any fishing gear from a vessel with a pelagic longline on board without a minimum amount of IBQ allocation available for that vessel, as specified in § 635.15(b)(3), as applicable.
 
-(48) Depart on a fishing trip or deploy or fish with any fishing gear from a vessel with a pelagic longline on board without accounting for bluefin caught on a previous trip as specified in § 635.15(b)(4)(ii).
+(48) Depart on a fishing trip or deploy or fish with any fishing gear from a vessel with a pelagic longline on board without accounting for bluefin caught as specified in § 635.15(b)(4).
 
 (49) Lease bluefin quota allocation to or from the owner of a vessel not issued a valid Atlantic Tunas Longline permit or not an Atlantic Tunas Purse Seine participant as specified under § 635.15(c)(1).
 
@@ -246,7 +244,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (55) Fail to provide bluefin tuna landings and dead discard information as specified at § 635.15(b)(4)(iii).
 
-(56) Fish with or have pelagic longline gear on board if any trip level quota debt associated with the vessel from a preceding trip has not been settled, as specified at § 635.15(b)(5)(i).
+(56) Fish with or have pelagic longline gear on board if any quota debt associated with the permit from a preceding calendar year quarter has not been settled as specified in § 635.15(b)(5)(i).
 
 (57) Lease IBQ allocation during the period from 6 p.m. December 31 to 2 p.m. January 1 (Eastern Time) as specified at § 635.15(c)(3)(iv).
 
