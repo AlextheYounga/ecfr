@@ -22,6 +22,8 @@ The definitions in this section apply for all purposes of program administration
 
 *COC* means the FSA county committee.
 
+*Commodity certificate exchange* means the exchange, as provided for in § 1421.111, of commodities pledged as collateral for a marketing assistance loan at a rate determined by CCC in the form of a commodity certificate bearing a dollar denomination.
+
 *Crop* means with respect to a year, commodities harvested in that year. Therefore, the referenced crop year of a commodity means commodities that when planted were intended for harvest in that calendar year.
 
 *Current net worth ratio* means current assets minus current liabilities, divided by current liabilities, based on the financial statement provided in connection with a DMA application or a recertification for DMA status.
@@ -54,7 +56,7 @@ The definitions in this section apply for all purposes of program administration
 
 *MAL* means marketing assistance loan.
 
-*Market loan gain* is the loan rate, minus the repayment rate on loans repaid at a rate that is less than the loan rate. The total of all market loan gains received by a producer for an applicable crop year cannot exceed the producer's applicable payment limitation as specified in part 1400 of this chapter. A producer's adjusted gross income must also be below the limit as specified in part 1400 of this chapter to receive a market loan gain.
+*Market loan gain* is the loan rate, minus the repayment rate on loans repaid at a rate that is less than the loan rate. A producer's adjusted gross income must be below the limit as specified in part 1400 of this chapter to receive a market loan gain.
 
 *Medium grain rice* for the purposes of this part includes both short and medium grain rice as defined by the U.S. Standards for Rice.
 
@@ -100,4 +102,4 @@ The definitions in this section apply for all purposes of program administration
 
 *Wool* means the fiber sheared from a live sheep and includes, unless noted otherwise, graded and nongraded wool.
 
-[67 FR 63511, Oct. 11, 2002, as amended at 68 FR 37940, June 26, 2003; 70 FR 33799, June 10, 2005; 74 FR 15650, Apr. 7, 2009; 80 FR 120, 129, Jan. 2, 2015]
+[67 FR 63511, Oct. 11, 2002, as amended at 68 FR 37940, June 26, 2003; 70 FR 33799, June 10, 2005; 74 FR 15650, Apr. 7, 2009; 80 FR 120, 129, Jan. 2, 2015; 86 FR 70705, Dec. 13, 2021]

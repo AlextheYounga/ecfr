@@ -1,5 +1,7 @@
 ##### § 1003.65 Removal of a provider from the List. #####
 
+Link to an amendment published at 86 FR 70723, Dec. 13, 2021.
+
 (a) *Automatic removal.* If the Director determines that an attorney on the List is the subject of a final order of disbarment under § 1003.101(a)(1), or an order of suspension under § 1003.101(a)(2), then the Director shall:
 
 (1) Remove the name of the attorney from the List no later than at the next quarterly update; and

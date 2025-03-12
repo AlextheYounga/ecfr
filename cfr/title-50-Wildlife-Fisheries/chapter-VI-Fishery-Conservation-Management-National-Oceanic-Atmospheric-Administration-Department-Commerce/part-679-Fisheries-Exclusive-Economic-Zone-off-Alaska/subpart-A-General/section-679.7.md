@@ -383,9 +383,9 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (i) In excess of the pot limits specified in § 679.42(l)(5)(ii); or
 
-(ii) Without a pot tag attached to each pot in accordance with § 679.42(l)(4).
+(ii) [Reserved]
 
-(19) Deploy, conduct fishing with, or retain IFQ sablefish or IFQ halibut in the GOA from a pot with an attached pot tag that has a serial number assigned to another vessel or has been reported lost, stolen, or mutilated to NMFS in a request for a replacement pot tag as described in § 679.42(l)(3)(iii).
+(19) [Reserved]
 
 (20) Deploy longline pot gear to fish IFQ sablefish in the GOA without marking the gear in accordance with § 679.24(a).
 

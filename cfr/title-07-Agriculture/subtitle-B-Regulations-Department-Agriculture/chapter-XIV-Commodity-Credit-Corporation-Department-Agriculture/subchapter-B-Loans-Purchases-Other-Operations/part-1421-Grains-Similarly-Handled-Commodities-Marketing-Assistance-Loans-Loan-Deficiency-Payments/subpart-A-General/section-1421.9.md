@@ -14,6 +14,6 @@
 
 (e) Adjustments by the Secretary to establish loan rates for loan commodities, except rice, on a county basis will not be lower than 95 percent of the national average loan rate, if those loan rates do not result in an increase in outlays. Adjustments in this section will not result in an increase in the national average loan rate for any year.
 
-(f) For all crop years, premiums and discounts will not apply for all eligible loan commodities at loan disbursement, except for peanuts. However, premiums and discounts will apply if the eligible loan commodities are forfeited or delivered to CCC and any deficiency must be repaid to CCC.
+(f) For all crop years, premiums and discounts will not apply for all eligible loan commodities at loan disbursement, except for peanuts or additional commodities as determined by the Deputy Administrator on a crop year basis. However, premiums and discounts will apply if the eligible loan commodities are forfeited or delivered to CCC and any deficiency must be repaid to CCC.
 
-[67 FR 63511, Oct. 11, 2002, as amended at 74 FR 15651, Apr. 7, 2009; 80 FR 122, 129, Jan. 2, 2015]
+[67 FR 63511, Oct. 11, 2002, as amended at 74 FR 15651, Apr. 7, 2009; 80 FR 122, 129, Jan. 2, 2015; 86 FR 70705, Dec. 13, 2021]

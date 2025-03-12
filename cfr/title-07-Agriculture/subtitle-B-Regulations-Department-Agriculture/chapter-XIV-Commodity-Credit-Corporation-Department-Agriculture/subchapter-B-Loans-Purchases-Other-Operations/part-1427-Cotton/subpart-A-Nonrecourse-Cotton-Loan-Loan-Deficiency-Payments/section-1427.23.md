@@ -22,7 +22,7 @@
 
 (c) The LDP rate for a crop of upland cotton will be the amount by which the loan rate determined for a bale of such crop exceeds the adjusted world price, as determined by CCC under § 1427.25, in effect on the day the request is received by the FSA county office, loan servicing agent, or cotton commercial bank. In no case will the LDP rate for a bale exceed the value of the bale had it been pledged as collateral for a MAL.
 
-(d) The total amount of any LDPs that a person may receive is subject to AGI and payment limitation requirements specified in part 1400 of this chapter.
+(d) The total amount of any LDPs that a person may receive is subject to AGI provisions specified in part 1400 of this chapter.
 
 (e) If the producer enters into an agreement with CCC on or before the date of ginning a quantity of eligible upland cotton, and the producer has the beneficial interest in such quantity as specified under § 1427.5(c) on the date the cotton was ginned, and the producer meets all the other requirements in paragraph (a) of this section on or before the final date to apply for an LDP under § 1427.5, the LDP rate applicable to such cotton will be:
 
@@ -34,4 +34,4 @@
 
 (f) In the event that Thursday is a non-workday, such applications for loan deficiency payments will not be accepted beginning at 7 a.m. Eastern time the next workday until an announcement of the adjusted world price for the succeeding weekly period has been made under § 1427.25(e).
 
-[67 FR 64459, Oct. 18, 2002, as amended at 71 FR 32427, June 6, 2006; 73 FR 65722, Nov. 5, 2008; 80 FR 135, 139, Jan. 2, 2015]
+[67 FR 64459, Oct. 18, 2002, as amended at 71 FR 32427, June 6, 2006; 73 FR 65722, Nov. 5, 2008; 80 FR 135, 139, Jan. 2, 2015; 86 FR 70707, Dec. 13, 2021]

@@ -1,5 +1,7 @@
 ##### § 1001.1 Definitions. #####
 
+Link to an amendment published at 86 FR 70719, Dec. 13, 2021.
+
 As used in this chapter:
 
 (a) The terms defined in section 101 of the Immigration and Nationality Act (66 Stat. 163) shall have the meanings ascribed to them in that section and as supplemented, explained, and further defined in this chapter.

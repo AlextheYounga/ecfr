@@ -6,6 +6,6 @@
 
 (c) MALs and LDPs will not be available for any cotton produced on land owned or otherwise in the possession of the United States if such land is occupied without the consent of the United States.
 
-(d) Adjusted gross income (AGI) and payment limitation provisions specified in part 1400 of this chapter are applicable to MALs and LDPs.
+(d) Average adjusted income (AGI) and payment limitation provisions specified in part 1400 of this chapter are applicable to MALs and LDPs.
 
-[67 FR 64459, Oct. 18, 2002, as amended at 73 FR 65719, Nov. 5, 2008; 80 FR 132, Jan. 2, 2015]
+[67 FR 64459, Oct. 18, 2002, as amended at 73 FR 65719, Nov. 5, 2008; 80 FR 132, Jan. 2, 2015; 86 FR 70706, Dec. 13, 2021]

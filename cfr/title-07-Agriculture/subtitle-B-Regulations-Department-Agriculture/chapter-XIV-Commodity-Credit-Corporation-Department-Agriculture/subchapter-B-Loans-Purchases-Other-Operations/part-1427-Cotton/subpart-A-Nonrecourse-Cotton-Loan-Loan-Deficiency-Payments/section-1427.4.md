@@ -6,15 +6,15 @@
 
 (2) Comply with all provisions of this part; and
 
-(i) 7 CFR part 12 - Highly Erodible Land and Wetland Conservation:
+(i) 7 CFR part 12—Highly Erodible Land and Wetland Conservation:
 
-(ii) 7 CFR part 718 - Provisions Applicable to Multiple Programs;
+(ii) 7 CFR part 718—Provisions Applicable to Multiple Programs;
 
-(iii) 7 CFR part 1400 - Payment Limitation and Payment Eligibility;
+(iii) 7 CFR part 1400, subpart F—Average Adjusted Gross Income Limitation;
 
-(iv) 7 CFR part 1403 - Debt Settlement Policies and Procedures; and
+(iv) 7 CFR part 1403—Debt Settlement Policies and Procedures; and
 
-(v) 7 CFR part 1405 - Loans, Purchases and Other Operations; and
+(v) 7 CFR part 1405—Loans, Purchases and Other Operations; and
 
 (3) Have made an acreage certification with respect to all the cropland on the farm.
 
@@ -38,6 +38,6 @@
 
 (f) In case of death, incompetency, or disappearance of any producer who is entitled to the payment of any sum in settlement of a MAL or LDP, payment will, upon application to CCC, be made to the person(s) who would be entitled to the producer's payment under the regulations in part 707 of this title.
 
-(g) Adjusted gross income (AGI) and payment limitation provisions specified in part 1400 of this chapter apply to producer eligibility for MALs and LDPs.
+(g) Adjusted gross income (AGI) provisions specified in part 1400 of this chapter apply to producer eligibility for MALs and LDPs.
 
-[67 FR 64459, Oct. 18, 2002, as amended at 73 FR 65719, Nov. 5, 2008; 80 FR 132, 139, Jan. 2, 2015]
+[67 FR 64459, Oct. 18, 2002, as amended at 73 FR 65719, Nov. 5, 2008; 80 FR 132, 139, Jan. 2, 2015; 86 FR 70706, Dec. 13, 2021]

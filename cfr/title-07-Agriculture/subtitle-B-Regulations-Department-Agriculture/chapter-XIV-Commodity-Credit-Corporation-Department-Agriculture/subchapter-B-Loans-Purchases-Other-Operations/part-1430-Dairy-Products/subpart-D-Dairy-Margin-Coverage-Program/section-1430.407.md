@@ -4,7 +4,7 @@
 
 (1) A coverage level threshold for margins that, per cwt, is equal to one of the following: $4.50, $5, $5.50, $6, $6.50, $7, $7.50, $8, $8.50. $9, or $9.50; and
 
-(2) A percentage of coverage for the production history from 5 percent to 95 percent, in 5 percent increments.
+(2) A percentage of coverage for the production history and supplemental history from 5 percent to 95 percent, in 5 percent increments.
 
 (b) In the absence of any such election, the applicable coverage level provided, with no premium due, is catastrophic level coverage.
 
@@ -31,11 +31,19 @@ Table 1 to § 1430.407(e)
 |            9.00             |                                                       0.110                                                        |                                                          N/A                                                          |
 |            9.50             |                                                       0.150                                                        |                                                          N/A                                                          |
 
-(f) The annual premium due for a participating dairy operation is calculated by multiplying:
+(f) The annual premium due for a participating dairy operation is calculated:
 
-(1) The covered production history; and
+(1) For production history, by multiplying:
 
-(2) The premium per cwt of milk specified in paragraph (e) of this section for the coverage level elected in paragraph (d) of this section by the dairy operation.
+(i) The covered production history; and
+
+(ii) The premium per cwt of milk specified in paragraph (e) of this section for the coverage level elected in paragraph (d) of this section by the dairy operation; and
+
+(2) For supplemental production history, by multiplying:
+
+(i) The covered supplemental production history; and
+
+(ii) The premium per cwt of milk in paragraph (e) of this section for the coverage level elected in paragraph (d) of this section by the dairy operation.
 
 (g) In the case of a new dairy operation that first registers to participate in DMC for a calendar year after the start of the calendar year, the participating dairy operation is required to pay a pro-rated premium for that calendar year based on the portion of the calendar year for which the participating dairy operation is eligible, and for which it purchases the coverage.
 
@@ -50,3 +58,7 @@ Table 1 to § 1430.407(e)
 (l) The Deputy Administrator may waive the obligation to pay the premium, or refund the premium paid, of a participating dairy operation for a calendar year, for death, retirement, permanent dissolution of a participating dairy operation, or other circumstances determined by the Deputy Administrator. In these instances, the contract will be terminated immediately, except with respect to payments accrued to the benefit of the participating dairy operation under this subpart before such termination.
 
 (m) DMC administrative fees and premiums are required to be paid by a negotiable instrument satisfactory to FSA and made payable to CCC and either mailed to or provided in person to the administrative county office or other location designated by FSA.
+
+(n) The premium rate for supplemental pounds eligible under a multi-year lock in contract maintains the basic rate according to paragraph (e) of this section and will not receive the 25 percent premium discount rate.
+
+[84 FR 28176, June 18, 2019, as amended at 86 FR 70707, Dec. 13, 2021]

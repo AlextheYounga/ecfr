@@ -242,7 +242,7 @@
 
 (j) *Captioning quality obligation; standards.* (1)(i) Prior to the compliance date of paragraph (m) of this section, a video programming distributor shall exercise best efforts to obtain a certification from each video programmer from which the distributor obtains programming stating:
 
-(A) Tat the video programmer's programming satisfies the caption quality standards of paragraph (j)(2) of this section;
+(A) That the video programmer's programming satisfies the caption quality standards of paragraph (j)(2) of this section;
 
 (B) That in the ordinary course of business, the video programmer has adopted and follows the Best Practices set forth in paragraph (k)(1) of this section; or
 
@@ -434,4 +434,4 @@
 
 (5) Compliance with paragraphs (m)(1) through (4) of this section is not required until the Commission publishes a document in the Federal Register announcing the compliance date and revising this paragraph accordingly.
 
-[62 FR 48493, Sept. 16, 1997, as amended at 63 FR 55962, Oct. 20, 1998; 64 FR 33424, June 23, 1999; 65 FR 58477, Sept. 29, 2000; 69 FR 72047, Dec. 10, 2004; 74 FR 1604, Jan. 13, 2009; 74 FR 46703, Sept. 11, 2009; 75 FR 7369, Feb. 19, 2010; 77 FR 19515, Mar. 30, 2012; 77 FR 48104, Aug. 13, 2012; 79 FR 17926, Mar. 31, 2014; 79 FR 77916, Dec. 29, 2014; 81 FR 57485, Aug. 23, 2016; 86 FR 51013, Sept. 14, 2021]
+[62 FR 48493, Sept. 16, 1997, as amended at 63 FR 55962, Oct. 20, 1998; 64 FR 33424, June 23, 1999; 65 FR 58477, Sept. 29, 2000; 69 FR 72047, Dec. 10, 2004; 74 FR 1604, Jan. 13, 2009; 74 FR 46703, Sept. 11, 2009; 75 FR 7369, Feb. 19, 2010; 77 FR 19515, Mar. 30, 2012; 77 FR 48104, Aug. 13, 2012; 79 FR 17926, Mar. 31, 2014; 79 FR 77916, Dec. 29, 2014; 81 FR 57485, Aug. 23, 2016; 86 FR 51013, Sept. 14, 2021; 86 FR 70750, Dec. 13, 2021]

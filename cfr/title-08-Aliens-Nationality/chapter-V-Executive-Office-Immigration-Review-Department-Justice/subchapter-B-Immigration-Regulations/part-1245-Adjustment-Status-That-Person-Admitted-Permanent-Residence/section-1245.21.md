@@ -1,5 +1,7 @@
 ##### § 1245.21 Adjustment of status of certain nationals of Vietnam, Cambodia, and Laos (section 586 of Public Law 106-429). #####
 
+Link to an amendment published at 86 FR 70725, Dec. 13, 2021.
+
 (a) *Eligibility.* The Service may adjust the status to that of a lawful permanent resident, a native or citizen of Vietnam, Cambodia, or Laos who:
 
 (1) Was inspected and paroled into the United States before October 1, 1997;

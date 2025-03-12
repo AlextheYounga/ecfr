@@ -1,5 +1,7 @@
 ##### § 1240.33 Applications for asylum or withholding of deportation. #####
 
+Link to an amendment published at 86 FR 70724, Dec. 13, 2021.
+
 (a) If the alien expresses fear of persecution or harm upon return to his or her country of origin or to a country to which the alien may be deported after a determination of excludability from the United States pursuant to this subpart, and the alien has not been referred to the immigration judge by an asylum officer in accordance with § 1208.14(b) of this chapter, the immigration judge shall:
 
 (1) Advise the alien that he or she may apply for asylum in the United States or withholding of deportation to that other country; and

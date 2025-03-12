@@ -286,9 +286,7 @@
 
 (2) *General.* To use longline pot gear to fish for IFQ sablefish in the GOA, a vessel operator must:
 
-(i) Request and be issued pot tags from NMFS as specified in paragraph (l)(3);
-
-(ii) Use pot tags as specified in paragraph (l)(4);
+(i)-(ii) [Reserved]
 
 (iii) Deploy and retrieve longline pot gear as specified in paragraph (l)(5);
 
@@ -296,47 +294,9 @@
 
 (v) Comply with other requirements as specified in paragraph (l)(7).
 
-(3) *Pot tags.* (i) *Request for pot tags.* (A) The owner of a vessel that uses longline pot gear to fish for IFQ sablefish in the GOA must use pot tags issued by NMFS. A vessel owner may only receive pot tags from NMFS for each vessel that uses longline pot gear to fish for IFQ sablefish in the GOA by submitting a complete IFQ Sablefish Longline Pot Gear Vessel Registration and Request for Pot Gear Tags form according to form instructions. The form is located on the NMFS Alaska Region Web site at *alaskafisheries.noaa.gov.*
+(3)-(4) [Reserved]
 
-(B) The vessel owner must specify the number of requested pot tags for each vessel for each IFQ regulatory area in the GOA (up to the maximum number of pots specified in paragraph (l)(5)(ii) of this section) on the IFQ Sablefish Longline Pot Gear Vessel Registration and Request for Pot Gear Tags form.
-
-(ii) *Issuance of pot tags.* (A) Upon submission of a completed IFQ Sablefish Longline Pot Gear Vessel Registration and Request for Pot Gear Tags form, NMFS will assign each pot tag to the vessel specified on the form.
-
-(B) Each pot tag will be a unique color that is specific to the IFQ regulatory area in the GOA in which it must be deployed and imprinted with a unique serial number.
-
-(C) NMFS will send the pot tags to the vessel owner at the address provided on the IFQ Sablefish Longline Pot Gear Vessel Registration and Request for Pot Gear Tags form.
-
-(iii) *Request for pot tag replacement.* (A) The vessel owner may submit a request to NMFS to replace pot tags that are lost, stolen, or mutilated.
-
-(B) The vessel owner to whom the lost, stolen, or mutilated pot tag was issued must submit a complete IFQ Sablefish Request for Replacement of Longline Pot Gear Tags form according to form instructions. The form is located on the NMFS Alaska Region Web site at *alaskafisheries.noaa.gov.*
-
-(C) A complete form must be signed by the vessel owner and is a sworn affidavit to NMFS indicating the reason for the request for a replacement pot tag or pot tags and the number of replacement pot tags requested by IFQ regulatory area.
-
-(D) NMFS will review a request to replace a pot tag or tags and will issue the appropriate number of replacement pot tags. The total number of pot tags issued to a vessel owner for an IFQ regulatory area in the GOA cannot exceed the maximum number of pots authorized for use by a vessel in that IFQ regulatory area specified in paragraph (l)(5)(ii) of this section. The total number of pot tags issued to a vessel owner for an IFQ regulatory area in the GOA equals the sum of the number of pot tags issued for that IFQ regulatory area that have not been replaced plus the number of replacement pot tags issued for that IFQ regulatory area.
-
-(iv) *Annual vessel registration and pot tag assignment.* (A) The owner of a vessel that uses longline pot gear to fish for IFQ sablefish in the GOA must annually register the vessel with NMFS and specify the pot tags that NMFS will assign to the vessel. Pot tags must be assigned to only one vessel each year.
-
-(B) To register a vessel and assign pot tags, the vessel owner must annually submit a complete IFQ Sablefish Longline Pot Gear Vessel Registration and Request for Pot Gear Tags form to NMFS.
-
-(*1*) The vessel owner must specify the vessel to be registered on the IFQ Sablefish Longline Pot Gear Vessel Registration and Request for Pot Gear Tags form. The specified vessel must have a valid ADF&G vessel registration number.
-
-(*2*) The vessel owner must specify on the IFQ Sablefish Longline Pot Gear Vessel Registration and Request for Pot Gear Tags form either that the vessel owner is requesting that NMFS assign pot tags to a vessel to which the pot tags were previously assigned or that the vessel owner is requesting new pot tags from NMFS.
-
-(4) *Using pot tags.* (i) Each pot used to fish for IFQ sablefish in the GOA must be identified with a valid pot tag. A valid pot tag is:
-
-(A) Issued by NMFS according to paragraph (l)(3) of this section;
-
-(B) The color specific to the regulatory area in which it will be used; and
-
-(C) Inscribed with a legible unique serial number.
-
-(ii) A valid pot tag must be attached to each pot on board the vessel to which the pot tags are assigned before the vessel departs port to fish.
-
-(iii) A valid pot tag must be attached to a pot bridge or cross member such that the entire pot tag is visible and not obstructed.
-
-(5) *Restrictions on GOA longline pot gear deployment and retrieval* - (i) *General.*
-
-(A) A vessel operator must mark longline pot gear used to fish IFQ sablefish in the GOA as specified in § 679.24(a).
+(5) *Restrictions on GOA longline pot gear deployment and retrieval* - (i) *General.*(A) A vessel operator must mark longline pot gear used to fish IFQ sablefish in the GOA as specified in § 679.24(a).
 
 (B) A vessel operator must deploy and retrieve longline pot gear to fish IFQ sablefish in the GOA only during the sablefish fishing period specified in § 679.23(g)(1).
 
@@ -360,7 +320,7 @@
 
 (D) In the Western GOA regulatory area, a vessel operator must redeploy or remove from the fishing grounds all longline pot gear that is assigned to the vessel and deployed to fish IFQ sablefish within seven days of deploying the gear.
 
-(iv) *Longline pot gear used on multiple vessels.* Longline pot gear assigned to one vessel and deployed to fish IFQ sablefish in the GOA must be removed from the fishing grounds, returned to port, and must have only one set of the appropriate vessel-specific pot tags before being deployed by another vessel to fish IFQ sablefish in the GOA.
+(iv) *Longline pot gear used on multiple vessels.* Longline pot gear assigned to one vessel and deployed to fish IFQ sablefish in the GOA must be removed from the fishing grounds, and returned to port before being deployed by another vessel to fish IFQ sablefish in the GOA.
 
 (6) *Retention of halibut.* (i) A vessel operator who fishes for IFQ sablefish using longline pot gear must retain IFQ halibut if:
 
@@ -400,4 +360,4 @@
 
 (iii) Report pot gear information required when submitting a PNOL as described in § 679.5.
 
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.42, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 86 FR 28297, May 26, 2021, § 679.42 was amended by adding paragraph (h)(1)(iii), effective May 26, 2021 through Dec. 31, 2021.
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.42, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 86 FR 28297, May 26, 2021, § 679.42 was amended by adding paragraph (h)(1)(iii), effective May 26, 2021, through Dec. 31, 2021.

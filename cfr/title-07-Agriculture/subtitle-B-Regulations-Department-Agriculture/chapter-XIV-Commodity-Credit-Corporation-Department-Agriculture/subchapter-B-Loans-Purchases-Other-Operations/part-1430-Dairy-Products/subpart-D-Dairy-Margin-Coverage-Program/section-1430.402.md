@@ -98,6 +98,10 @@ The definitions in this section apply for all purposes of administering the DMC 
 
 *Socially disadvantaged farmer or rancher* means a farmer or rancher who is a member of a group whose members have been subject to racial, ethnic, or gender prejudice because of their identity as members of a group without regard to their individual qualities. Groups include: American Indians or Alaskan Natives, Asians or Asian Americans, Blacks or African Americans, Native Hawaiians or other Pacific Islanders, Hispanics, and women. For legal entities requesting to be considered Socially Disadvantaged, the majority interest must be held by socially disadvantaged individuals.
 
+*Supplemental Dairy Margin Coverage payment* means a payment made to a participating dairy operation under the DMC Program under the terms of this subpart.
+
+*Supplemental production history* means the production history determined for a participating dairy operation under this subpart when the participating dairy operation registers to participate in DMC through special enrollment or annual coverage election period.
+
 *United States* means, unless the context suggests otherwise, the 50 States of the United States of America, the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and any other territory or possession of the United States.
 
 *USDA* means the U.S. Department of Agriculture.
@@ -105,3 +109,5 @@ The definitions in this section apply for all purposes of administering the DMC 
 *Verifiable production records* means evidence that is used to substantiate the amount of production marketed and that can be verified by CCC through an independent source.
 
 *Veteran farmer or rancher* means a person who has served in the United States Army, Navy, Marine Corps, Air Force, and Coast Guard, including the reserve components, and who has not operated a farm or ranch; has operated a farm or ranch but not for more than 10 years total, since becoming a veteran; or has obtained status as a veteran during the most recent 10-year period. A legal entity or joint operation will be considered a veteran farmer or rancher entity, if all members meet this definition.
+
+[84 FR 28176, June 18, 2019, as amended at 86 FR 70707, Dec. 13, 2021]

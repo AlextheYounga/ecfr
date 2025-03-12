@@ -6,7 +6,7 @@
 
 (c) For the crop to be eligible, the crop, in addition to other standards that may apply, must be grown on land that is classified as “cropland” in FSA farm records or on land that FSA determines has been cropped in the last 3 years except that the land may also qualify if the land is committed to a crop rotation, normal for the locality, that includes harvesting the subject crop for grain. These rules are designed to assure, to the extent practicable, the available payment did not produce plantings that otherwise would not have occurred and the CCC may deny payments in any instance in which there is reason to believe that the planting was done for that purpose. To that end, if the commodity involved has not been previously grown by the producer or is not one which is not predominately produced locally, the producer must submit evidence of seed purchases for planting the commodities and other evidence deemed needed or appropriate by the COC in order to assure that the program goals are made and that the land was not planted to an eligible commodity simply to obtain a payment. Also, the land to be eligible must, for the year involved, be grazed and cannot, during the crop year, be harvested at any time for any purpose, except as determined by the Deputy Administrator to accommodate producers with a history of double-cropping when the crop to be harvested is not the crop for which a payment is to be made under this subpart. Land will be considered grazed only to the extent that the crop on the land is consumed in the field as live plants by livestock for the normal period of time for grazing in the area.
 
-(d)(1) A producer must, at the time the LDP agreement is signed, meet all other eligibility criteria for obtaining LDPs including AGI and payment limitation requirements as specified in part 1400 of this chapter.
+(d)(1) A producer must, at the time the LDP agreement is signed, meet all other eligibility criteria for obtaining LDPs including AGI requirements as specified in part 1400 of this chapter.
 
 (2) For producers of triticale who obtain a payment under this subpart the producer must enter into an agreement with CCC to forgo any harvesting of triticale on the acreage for which such a payment is made.
 
@@ -16,4 +16,4 @@
 
 (f) Producers who elect to graze their wheat, barley, oats, or triticale will not be eligible for an indemnity under the Federal Crop Insurance Program provisions of Chapter IV of this title or a payment under the Noninsured Crop Assistance Program authorized under part 1437 of this chapter.
 
-[66 FR 13404, Mar. 6, 2001. Redesignated and amended at 67 FR 63511, 63523, Oct. 11, 2002. Redesignated and amended at 74 FR 15656, Apr. 7, 2009; 80 FR 127, Jan. 2 2015]
+[66 FR 13404, Mar. 6, 2001. Redesignated and amended at 67 FR 63511, 63523, Oct. 11, 2002. Redesignated and amended at 74 FR 15656, Apr. 7, 2009; 80 FR 127, Jan. 2 2015; 86 FR 70706, Dec. 13, 2021]

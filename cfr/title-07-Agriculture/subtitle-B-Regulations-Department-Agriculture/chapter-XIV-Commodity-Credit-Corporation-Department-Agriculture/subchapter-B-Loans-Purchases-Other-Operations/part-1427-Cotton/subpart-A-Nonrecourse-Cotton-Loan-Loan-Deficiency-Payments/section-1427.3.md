@@ -10,6 +10,10 @@ The definitions in this section apply for all purposes of program administration
 
 *Classification* means the measurement results provided by the Agricultural Marketing Service (AMS) of color grade, leaf, staple, strength, extraneous matter and micronaire, and for upland cotton, length uniformity.
 
+*Commodity certificate exchange* means the exchange of commodities pledged as collateral for a marketing assistance loan at a rate determined by CCC in the form of a commodity certificate bearing a dollar denomination.
+
+*Commodity loan gain* means the difference between the loan principal amount and the adjusted world price (AWP)-value of a commodity certificate used to exchange the loan collateral.
+
 *Consumption* means the use of eligible cotton by a domestic user in the manufacture in the United States of cotton products.
 
 *Cooperative marketing association (CMA)* means a cooperative marketing association, approved as specified in part 1425 of this chapter, that has executed a Cotton Cooperative Loan Agreement.
@@ -33,6 +37,8 @@ The definitions in this section apply for all purposes of program administration
 (2) Is maintained by providers of electronic warehouse receipts; and
 
 (3) A producer may authorize CCC to use as the basis for the redemption and release of loan collateral.
+
+*Exchange rate* will be the effective AWP for cotton on the date the request to purchase a certificate is received by CCC.
 
 *Extra long staple (ELS) cotton* means any of the following varieties of cotton which is produced in the United States and is ginned on a roller gin:
 
@@ -74,6 +80,8 @@ The definitions in this section apply for all purposes of program administration
 
 (5) Providing loan, LDP, and accounting data to CCC for statistical purposes.
 
+*Market loan gain* means the loan rate, minus the repayment rate on upland cotton loans repaid at the AWP-value that is less than the loan rate. A producer's adjusted gross income must be below the limit as specified in part 1400 of this chapter to receive a market loan gain.
+
 *Transfer* means, depending on the context, the process for a producer or an authorized agent of the producer to:
 
 (1) Physically relocate cotton loan collateral from one CCC-approved warehouse to another CCC-approved warehouse,
@@ -82,10 +90,12 @@ The definitions in this section apply for all purposes of program administration
 
 (3) Do both of the above.
 
+*Turn-around loan* is a special designation for a loan that is requested, approved for disbursement, and immediately exchanged with a commodity certificate purchased the same day.
+
 *Upland cotton* means planted and stub cotton which is produced in the United States from other than pure strain varieties of the Barbadense species, any hybrid thereof, or any other variety of cotton in which one or more of these varieties predominate.
 
 *Warehouse receipt* means a receipt containing the required information specified in this part that may or may not be certificated for delivery for a futures-pricing contract, and is an electronic warehouse receipt record issued by such warehouse recorded in a central filing system or systems maintained in one or more locations that are approved by FSA to operate such system.
 
 *Wet cotton* means a bale of cotton that, at a gin, has 7.5 percent or more moisture, wet basis, at any point in the bale.
 
-[67 FR 64459, Oct. 18, 2002, as amended at 71 FR 51427, Aug. 30, 2006; 73 FR 30275, May 27, 2008; 73 FR 65719, Nov. 5, 2008;75 FR 50849, Aug. 18, 2010; 80 FR 132, 139, Jan. 2, 2015]
+[67 FR 64459, Oct. 18, 2002, as amended at 71 FR 51427, Aug. 30, 2006; 73 FR 30275, May 27, 2008; 73 FR 65719, Nov. 5, 2008;75 FR 50849, Aug. 18, 2010; 80 FR 132, 139, Jan. 2, 2015; 86 FR 70706, Dec. 13, 2021]

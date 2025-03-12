@@ -1,5 +1,7 @@
 ##### § 1003.8 Fees before the Board. #####
 
+Link to an amendment published at 86 FR 70721, Dec. 13, 2021.
+
 (a) *Appeals and motions before the Board* - (1) *When a fee is required.* Except as provided in paragraph (a)(2) of this section and 8 CFR 1208.4(d)(3), a filing fee prescribed in 8 CFR 1103.7, or a fee waiver request pursuant to paragraph (a)(3) of this section, is required in connection with the filing of an appeal, a motion to reopen, or a motion to reconsider before the Board.
 
 (2) *When a fee is not required.* A filing fee is not required in the following instances:

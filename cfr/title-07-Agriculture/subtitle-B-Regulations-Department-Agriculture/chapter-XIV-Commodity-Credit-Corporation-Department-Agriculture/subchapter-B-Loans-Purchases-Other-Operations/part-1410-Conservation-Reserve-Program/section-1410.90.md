@@ -4,7 +4,7 @@
 
 (b) CCC may enter into a Conservation Reserve Enhancement Program agreement with an eligible partner to cost-effectively assist in enrolling otherwise eligible land in CRP.
 
-(c) To enter into a Conservation Reserve Enhancement Program agreement with CCC, eligible partners must provide required matching funds. Such matching funds provided by the eligible partners may be cash, in-kind contributions, or technical assistance. The amount and type of matching funds must be specified in the Conservation Reserve Enhancement Program agreement. At least one-half of the matching funds must be provided as a direct payment to eligible participants. The amount of matching funds an eligible partner must contribute under a Conservation Reserve Enhancement Program agreement will be either:
+(c) To enter into a Conservation Reserve Enhancement Program agreement with CCC, eligible partners must provide required matching funds. Such matching funds provided by the eligible partners may be cash, in-kind contributions, or technical assistance. The amount and type of matching funds must be specified in the Conservation Reserve Enhancement Program agreement. The amount of matching funds an eligible partner must contribute under a Conservation Reserve Enhancement Program agreement will be either:
 
 (1) 30 percent of the total cost of the project, unless a different amount is determined by negotiation between CCC and the eligible partner with whom CCC is entering into the Conservation Reserve Enhancement Program agreement, if the majority of the matching funds to carry out the agreement are provided by one or more eligible partners that are not nongovernmental organizations; or
 
@@ -53,3 +53,5 @@
 (2) Determine annual rental payments so as to be consistent with similar Conservation Reserve Enhancement Program agreements, and to ensure regional consistency regarding such payments.
 
 (h) Notwithstanding § 1410.30, generally, enrollment under a Conservation Reserve Enhancement Program will be held on a continuous signup basis. However, the terms and conditions of the Conservation Reserve Enhancement Program agreement will determine the basis of enrollment.
+
+[ 84 FR 66819, Dec. 6, 2019, as amended at 86 FR 70705, Dec. 13, 2021]

@@ -1,5 +1,7 @@
 ##### § 1208.4 Filing the application. #####
 
+Link to an amendment published at 86 FR 70724, Dec. 13, 2021.
+
 Except as prohibited in paragraph (a) of this section, asylum applications shall be filed in accordance with paragraph (b) of this section.
 
 (a) *Prohibitions on filing.* Section 208(a)(2) of the Act prohibits certain aliens from filing for asylum on or after April 1, 1997, unless the alien can demonstrate to the satisfaction of the Attorney General that one of the exceptions in section 208(a)(2)(D) of the Act applies. Such prohibition applies only to asylum applications under section 208 of the Act and not to applications for withholding of removal under § 1208.16. If an applicant files an asylum application and it appears that one or more of the prohibitions contained in section 208(a)(2) of the Act apply, an asylum officer, in an interview, or an immigration judge, in a hearing, shall review the application and give the applicant the opportunity to present any relevant and useful information bearing on any prohibitions on filing to determine if the application should be rejected. For the purpose of making determinations under section 208(a)(2) of the Act, the following rules shall apply:

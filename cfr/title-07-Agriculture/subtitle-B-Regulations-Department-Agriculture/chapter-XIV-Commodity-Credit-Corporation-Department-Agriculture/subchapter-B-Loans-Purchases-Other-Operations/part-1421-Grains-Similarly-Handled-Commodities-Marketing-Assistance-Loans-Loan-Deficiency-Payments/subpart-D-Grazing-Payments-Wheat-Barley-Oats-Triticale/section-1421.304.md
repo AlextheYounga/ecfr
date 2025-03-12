@@ -12,12 +12,10 @@
 
 (3) In the case of a farm for which no payment yield is established for the loan commodity on the farm, an appropriate yield as determined by the COC.
 
-(d) No payment may be received or retained under this subpart to the extent that the payment, were they considered to be LDPs, would place that person over the per person per year payment limit that applies to LDPs. The producer agrees that the CCC may collect any payment considered to be an overpayment by reason of this subsection by withholding LDPs until the matter is resolved, by treating the LDP as being not payable to the extent that a grazing refund would otherwise be due, by setoff, or by any other means available to CCC.
+(d) Payments can be withheld until the actual grazed acreage is verified and justified in connection with any other reports filed with FSA with respect to the farm (or filed with some other person or agency) and until all other necessary information is obtained. CCC may require such other verification as it deems appropriate to assure that the program goals are met.
 
-(e) Payments can be withheld until the actual grazed acreage is verified and justified in connection with any other reports filed with FSA with respect to the farm (or filed with some other person or agency) and until all other necessary information is obtained. CCC may require such other verification as it deems appropriate to assure that the program goals are met.
+(e) To receive the payment, the eligible producer must submit a request for payment on an application form as prescribed by CCC or FSA. The application may be obtained from the county FSA office, or from the USDA or FSA web site in the Internet. The form must be submitted to the county by the close of business on or before March 31 of the calendar year following the year the crop is normally harvested.
 
-(f) To receive the payment, the eligible producer must submit a request for payment on an application form as prescribed by CCC or FSA. The application may be obtained from the county FSA office, or from the USDA or FSA web site in the Internet. The form must be submitted to the county by the close of business on or before March 31 of the calendar year following the year the crop is normally harvested.
+(f) The producer will be ineligible for payments under this subpart if any discrepancies between the reported acreage on the program form and other reports of acreage by the producer are not resolved by a date set by CCC.
 
-(g) The producer will be ineligible for payments under this subpart if any discrepancies between the reported acreage on the program form and other reports of acreage by the producer are not resolved by a date set by CCC.
-
-[66 FR 13404, Mar. 6, 2001. Redesignated and amended at 67 FR 63511, 63524, Oct. 11, 2002. Redesignated and amended at 74 FR 15656, Apr. 7, 2009; 80 FR 127, 130, Jan. 2, 2015]
+[66 FR 13404, Mar. 6, 2001. Redesignated and amended at 67 FR 63511, 63524, Oct. 11, 2002. Redesignated and amended at 74 FR 15656, Apr. 7, 2009; 80 FR 127, 130, Jan. 2, 2015; 86 FR 70706, Dec. 13, 2021]

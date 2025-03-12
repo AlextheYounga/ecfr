@@ -10,7 +10,7 @@
 
 (b) A commodity produced on land owned or otherwise in the possession of the United States that is occupied without the consent of the United States is not an eligible commodity.
 
-(c)(1) To be an eligible commodity, the commodity must be merchantable for food, feed, or other uses determined by CCC and must not contain mercurial compounds, toxin producing molds, or other substances poisonous to humans or animals. A commodity containing vomitoxin, aflatoxin, or Aspergillus mold may not be pledged for a MAL made under this part, except as provided by CCC in the MAL note and security agreement.
+(c)(1) To be an eligible commodity, the commodity must be merchantable for food, feed, or other uses determined by CCC and must not contain mercurial compounds, toxin producing molds, or other substances poisonous to humans or animals. A commodity containing vomitoxin, aflatoxin, or Aspergillus mold may not be pledged for a nonrecourse MAL made under this part, except as provided by CCC in the MAL note and security agreement.
 
 (2) The determination of eligibility for rice includes class, grade, grading factor, milling yields, and other quality factors and will be based upon the U.S. Standards for Rice as applied to rough rice whether or not such determinations are made on the basis of an official inspection.
 
@@ -32,4 +32,4 @@
 
 (f) A commodity that is purchased, substituted, or acquired by sale, gift, or exchange of an existing harvested, sheared, or slaughtered commodity, or through any other transaction is ineligible to be pledged as collateral for a MAL; in addition an LDP will not be made with respect to such commodities.
 
-[67 FR 63511, Oct. 11, 2002, as amended at 71 FR 32422, June 6, 2006; 74 FR 15651, Apr. 7, 2009; 75 FR 19193, Apr. 14, 2010; 80 FR 121, Jan. 2, 2015]
+[67 FR 63511, Oct. 11, 2002, as amended at 71 FR 32422, June 6, 2006; 74 FR 15651, Apr. 7, 2009; 75 FR 19193, Apr. 14, 2010; 80 FR 121, Jan. 2, 2015; 86 FR 70705, Dec. 13, 2021]

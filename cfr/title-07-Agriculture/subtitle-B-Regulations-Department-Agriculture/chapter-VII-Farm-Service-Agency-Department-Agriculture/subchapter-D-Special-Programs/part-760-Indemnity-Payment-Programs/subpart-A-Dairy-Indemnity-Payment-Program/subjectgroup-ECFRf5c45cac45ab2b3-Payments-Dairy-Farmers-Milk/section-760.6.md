@@ -18,8 +18,8 @@ The affected farmer shall furnish to the county committee complete and accurate 
 
 (h) To the extent that such information is available to the affected farmer, the name of any pesticide, chemical, or toxic substance used on the farm within 24 months prior to the application period, the use made of the pesticide, chemical, or toxic substance, the approximate date of such use, and the name of the manufacturer and the registration number, if any, on the label on the container of the pesticide, chemical, or toxic substance.
 
-(i) To the extent possible, the source of the pesticide, chemical, or toxic substance that caused the contamination of the whole milk, and the results of any laboratory tests on the feed supply.
+(i) To the extent possible, the source of the pesticide, chemical, or toxic substance that caused the contamination of the whole milk, the results of any laboratory tests on the feed supply, and the monthly milk testing results that detail the chemical residue levels.
 
 (j) Such other information as the county committee may request to enable the county committee or the Deputy Administrator to make the determinations required in this subpart.
 
-[43 FR 10535, Mar. 14, 1978, as amended by Amdt. 1, 44 FR 36360, June 22, 1979]
+[43 FR 10535, Mar. 14, 1978, as amended by Amdt. 1, 44 FR 36360, June 22, 1979; 86 FR 70703, Dec. 13, 2021]

@@ -6,25 +6,25 @@
 
 (2) Comply with all provisions of this part and, as applicable:
 
-(i) 7 CFR part 12 - Highly Erodible Land and Wetland Conservation;
+(i) 7 CFR part 12—Highly Erodible Land and Wetland Conservation;
 
-(ii) 7 CFR part 707 - Payments Due Persons Who Have Died, Disappeared, or Have Been Declared Incompetent;
+(ii) 7 CFR part 707—Payments Due Persons Who Have Died, Disappeared, or Have Been Declared Incompetent;
 
-(iii) 7 CFR part 718 - Provisions Applicable to Multiple Programs;
+(iii) 7 CFR part 718—Provisions Applicable to Multiple Programs;
 
-(iv) 7 CFR part 996 - Minimum Quality and Handling Standards for Domestic and Imported Peanuts Marketed in the United States;
+(iv) 7 CFR part 996—Minimum Quality and Handling Standards for Domestic and Imported Peanuts Marketed in the United States;
 
-(v) 7 CFR part 1400 - Payment Limitation & Payment Eligibility;
+(v) 7 CFR part 1400—Payment Limitation & Payment Eligibility;
 
-(vi) 7 CFR part 1402 - Policy for Certain Commodities Available for Sale;
+(vi) 7 CFR part 1402—Policy for Certain Commodities Available for Sale;
 
-(vii) 7 CFR part 1403 - Debt Settlement Policies and Procedures;
+(vii) 7 CFR part 1403—Debt Settlement Policies and Procedures;
 
-(viii) 7 CFR part 1405 - Loans, Purchases, and Other Operations;
+(viii) 7 CFR part 1405—Loans, Purchases, and Other Operations;
 
-(ix) 7 CFR part 1412 - Agriculture Risk Coverage, Price Loss Coverage, and Cotton Transition Assistance Programs; and
+(ix) 7 CFR part 1412—Agriculture Risk Coverage, Price Loss Coverage, and Cotton Transition Assistance Programs; and
 
-(x) 7 CFR part 1423 - Commodity Credit Corporation Approved Warehouses.
+(x) 7 CFR part 1423—Commodity Credit Corporation Approved Warehouses.
 
 (3) Have made an acreage certification with respect to all the cropland on the farm.
 
@@ -56,6 +56,4 @@
 
 (g) In case of the death, incompetency, or disappearance of any producer who is entitled to the payment of any sum in settlement of a MAL or LDP, payment will, upon proper application to the FSA county service center that disbursed the MAL or LDP, be made to the persons who would be entitled to such producer's payment under the regulations contained in part 707 of this title.
 
-(h) A producer must meet the requirements of actively engaged in farming, cash rent tenant, and member contribution as specified in part 1400 of this chapter to be eligible for LDPs and market loan gains.
-
-[67 FR 63511, Oct. 11, 2002, as amended at 74 FR 15650, Apr. 7, 2009; 75 FR 19193, Apr. 14, 2010; 80 FR 120, 129, Jan. 2, 2015]
+[67 FR 63511, Oct. 11, 2002, as amended at 74 FR 15650, Apr. 7, 2009; 75 FR 19193, Apr. 14, 2010; 80 FR 120, 129, Jan. 2, 2015; 86 FR 70705, Dec. 13, 2021]

@@ -6,7 +6,7 @@
 
 (3) The use of IFQ assigned to a crab harvesting cooperative and used within that cooperative is not a transfer of IFQ.
 
-(b) *Transfer applications* - (1) *Application.* An application is required to transfer any amount of QS, PQS, IFQ, or IPQ. A transfer application will not be approved until the necessary eligibility application has been submitted and approved by NMFS in accordance with paragraph (c) of this section. The Regional Administrator will not approve any transfers of QS, PQS, IFQ, or IPQ in any crab QS fishery from June 15 until either the date of the issuance of IFQ or IPQ for that crab QS fishery, or the date on which the State of Alaska announces that a crab QS fishery will not open for that crab fishing year.
+(b) *Transfer applications*—(1) *Application.* An application is required to transfer any amount of QS, PQS, IFQ, or IPQ. A transfer application will not be approved until the necessary eligibility application has been submitted and approved by NMFS in accordance with paragraph (c) of this section. The Regional Administrator will not approve any transfers of QS, PQS, IFQ, or IPQ in any crab QS fishery from June 15 until either the date of the issuance of IFQ or IPQ for that crab QS fishery, or the date on which the State of Alaska announces that a crab QS fishery will not open for that crab fishing year.
 
 (2) *Notification of application approval or disapproval.* Persons submitting any application for approval under § 680.41 will receive notification of the Regional Administrator's decision to approve or disapprove the application, and if applicable, the reason(s) for disapproval.
 
@@ -104,13 +104,13 @@
 
 (F) *Applicant certification.* (*1*) Printed name and signature of applicant and date signed;
 
-(*2*) Notary Public signature, date commission expires, and notary stamp or seal.
+(*2*) [Reserved]
 
 (G) Verification that the applicant applying for eligibility to receive crab QS/IFQ or PQS/IPQ by transfer has submitted an EDR, if required to do so under § 680.6;
 
 (H) A non-profit entity seeking approval to receive crab QS or IFQ by transfer on behalf of a ECC must first complete an Application to Become an ECCO under paragraph (j) of this section.
 
-(d) *Transfer of CVO, CPO, CVC, CPC QS or PQS* - (1) *General.* PQS or QS may be transferred, with approval of the Regional Administrator, to persons qualified to receive PQS or QS by transfer. However, the Regional Administrator will not approve a transfer of any type of PQS or QS that would cause a person to exceed the maximum amount of PQS or QS allowable under the use limits provided for in § 680.42, except as provided for under paragraph (f) of this section.
+(d) *Transfer of CVO, CPO, CVC, CPC QS or PQS*—(1) *General.* PQS or QS may be transferred, with approval of the Regional Administrator, to persons qualified to receive PQS or QS by transfer. However, the Regional Administrator will not approve a transfer of any type of PQS or QS that would cause a person to exceed the maximum amount of PQS or QS allowable under the use limits provided for in § 680.42, except as provided for under paragraph (f) of this section.
 
 (2) *CVO QS.* CVO QS may be transferred to any person eligible to receive CVO or CPO QS as defined under paragraph (c) of this section.
 
@@ -122,7 +122,7 @@
 
 (4) *CVC or CPC QS.* CVC or CPC QS may be transferred to any person eligible to receive CVC or CPC QS as defined under paragraph (c) of this section. CVC and CPC QS may only be used in the sector for which it is originally designated.
 
-(e) *Transfer of IFQ or IPQ by Lease* - (1) *IFQ derived from CVO or CPO QS.* IFQ derived from CVO or CPO QS may be transferred by lease until June 30, 2010. IFQ derived from CVO or CPO QS must be leased:
+(e) *Transfer of IFQ or IPQ by Lease*—(1) *IFQ derived from CVO or CPO QS.* IFQ derived from CVO or CPO QS may be transferred by lease until June 30, 2010. IFQ derived from CVO or CPO QS must be leased:
 
 (i) If the IFQ will be used on a vessel on which the QS holder has less than a 10 percent ownership interest; or
 
@@ -150,15 +150,15 @@
 
 (3) The Regional Administrator will approve, for 3 calendar years following the date of the death of an individual, an Application for transfer of crab QS/IFQ or PQS/IPQ from the surviving spouse or, in the absence of a surviving spouse, a beneficiary from the QS or PQS holder's immediate family designated pursuant to this section, to a person eligible to receive IFQ or IPQ under the provisions of this section, notwithstanding the limitations on transfers of IFQ and IPQ in this section and the use limitations under § 680.42.
 
-(h) *Applications for transfer* - (1) *Application for transfer of crab IFQ.* NMFS will process a request for transfer of crab individual fishing quota (IFQ) provided that a paper application is completed, with all information fields accurately filled in, and all required additional documentation is attached. The transferor's and the transferee's designated representatives must sign and date the application certifying that all information is true, correct, and complete. The transferor's designated representative must submit the paper application as indicated on the application.
+(h) *Applications for transfer*—(1) *Application for transfer of crab IFQ.* NMFS will process a request for transfer of crab individual fishing quota (IFQ) provided that a paper application is completed, with all information fields accurately filled in, and all required additional documentation is attached. The transferor's and the transferee's designated representatives must sign and date the application certifying that all information is true, correct, and complete. The transferor's designated representative must submit the paper application as indicated on the application.
 
-(2) *Application for transfer of crab IPQ* - (i) *Completed application.* NMFS will process a request for transfer of crab individual processor quota (IPQ) provided that a paper or electronic request form is completed, with all information fields accurately filled in, and all required additional documentation is attached.
+(2) *Application for transfer of crab IPQ*—(i) *Completed application.* NMFS will process a request for transfer of crab individual processor quota (IPQ) provided that a paper or electronic request form is completed, with all information fields accurately filled in, and all required additional documentation is attached.
 
-(ii) *Certification of transferor* - (A) *Non-electronic submittal.* The transferor's designated representative must sign and date the application certifying that all information is true, correct, and complete. The transferor's designated representative must submit the paper application as indicated on the application.
+(ii) *Certification of transferor*—(A) *Non-electronic submittal.* The transferor's designated representative must sign and date the application certifying that all information is true, correct, and complete. The transferor's designated representative must submit the paper application as indicated on the application.
 
 (B) *Electronic submittal.* The transferor's designated representative must log into the system and create a transfer request as indicated on the computer screen. By using the transferor's NMFS ID, password, and Transfer Key and submitting the transfer request, the designated representative certifies that all information is true, correct, and complete.
 
-(iii) *Certification of transferee* - (A) *Non-electronic submittal.* The transferee's designated representative must sign and date the application certifying that all information is true, correct, and complete.
+(iii) *Certification of transferee*—(A) *Non-electronic submittal.* The transferee's designated representative must sign and date the application certifying that all information is true, correct, and complete.
 
 (B) *Electronic submittal.* The transferee's designated representative must log into the system and accept the transfer request as indicated on the computer screen. By using the transferee's NMFS ID, password and Transfer Key and submitting the transfer request, the designated representative certifies that all information is true, correct, and complete.
 
@@ -168,7 +168,7 @@
 
 (1) The person applying to receive the QS, PQS, IFQ or IPQ meets the requirements of eligibility in paragraph (c) of this section;
 
-(2) The person applying for transfer and the person applying to receive QS or IFQ/IPQ have their original notarized signatures on the application;
+(2) The person applying for transfer and the person applying to receive QS or IFQ/IPQ have their signatures on the application;
 
 (3) No fines, civil penalties, or other payments due and owing, or outstanding permit sanctions, resulting from Federal fishery violations involving either party exist;
 
@@ -192,13 +192,13 @@
 
 (10) Other pertinent information requested on the application for transfer has been supplied to the satisfaction of the Regional Administrator.
 
-(11) The person applying to receive the CVC QS or IFQ or CPC QS or IFQ by transfer has submitted proof of at least one delivery of a crab species in any CR crab fishery in the 365 days prior to submission to NMFS of the Application for transfer of crab QS/IFQ or PQS/IPQ, except if eligible under the eligibility requirements in paragraph (c)(1)(vii)(B) of this section. Proof of this landing is -
+(11) The person applying to receive the CVC QS or IFQ or CPC QS or IFQ by transfer has submitted proof of at least one delivery of a crab species in any CR crab fishery in the 365 days prior to submission to NMFS of the Application for transfer of crab QS/IFQ or PQS/IPQ, except if eligible under the eligibility requirements in paragraph (c)(1)(vii)(B) of this section. Proof of this landing is—
 
 (i) Signature of the applicant on an ADF&G fish ticket; or
 
 (ii) An affidavit from the vessel owner attesting to that person's participation as a member of a fish harvesting crew on board a vessel during a landing of a crab QS species within the 365 days prior to submission of an Application for transfer of crab QS/IFQ or PQS/IPQ.
 
-(j) *Transfer of crab QS/IFQ to or from and ECCO* - (1) *Designation of an ECCO.* (i) The appropriate governing body of each ECC may designate a non-profit organization to serve as the ECCO for that ECC. To transfer and hold QS on the behalf of that ECC, this designation must be submitted by the non-profit organization in its Application to Become an ECCO.
+(j) *Transfer of crab QS/IFQ to or from and ECCO*—(1) *Designation of an ECCO.* (i) The appropriate governing body of each ECC may designate a non-profit organization to serve as the ECCO for that ECC. To transfer and hold QS on the behalf of that ECC, this designation must be submitted by the non-profit organization in its Application to Become an ECCO.
 
 (ii) If the non-profit entity is approved by NMFS to serve as the ECCO, then the appropriate governing body of the ECC must authorize the transfer of any QS from the ECCO.
 
@@ -216,7 +216,7 @@
 
 (2) *Application to become an ECCO.* Prior to initially receiving QS or IFQ by transfer on behalf of a specific ECC, a non-profit organization that intends to represent that ECC as a ECCO must submit an application to become an ECCO and have that application approved by the Regional Administrator. The Regional Administrator shall provide an application to become an ECCO to any person on request or on the Internet at *http://www.fakr.noaa.gov/.*
 
-(i) *Contents of application* - (A) *Applicant identification.* (*1*) Enter the name of the non-profit organization, taxpayer ID number, and NMFS Person ID, applicant's permanent business mailing address and any temporary business mailing address the applicant wishes to use, and the name of contact person, business telephone number, business facsimile number, and e-mail address (if available);
+(i) *Contents of application*—(A) *Applicant identification.* (*1*) Enter the name of the non-profit organization, taxpayer ID number, and NMFS Person ID, applicant's permanent business mailing address and any temporary business mailing address the applicant wishes to use, and the name of contact person, business telephone number, business facsimile number, and e-mail address (if available);
 
 (*2*) Name of community or communities represented by the non-profit organization; and
 
@@ -236,9 +236,9 @@
 
 (*7*) A statement describing the procedures that will be used to determine the distribution of IFQ to residents of the ECC represented by that non-profit organization, including procedures used to solicit requests from residents to lease IFQ and criteria used to determine the distribution of IFQ leases among qualified community residents and the relative weighting of those criteria.
 
-(C) *Applicant certification.* (*1*) Printed name of applicant or authorized agent, notarized signature, and date signed. If authorized agent, proof of authorization to act on behalf of the applicant must be provided with the application.
+(C) *Applicant certification.* (*1*) Printed name of applicant or authorized agent, signature, and date signed. If authorized agent, proof of authorization to act on behalf of the applicant must be provided with the application.
 
-(*2*) Notary Public signature and date when commission expires, and notary seal or stamp.
+(*2*) [Reserved]
 
 (ii) [Reserved]
 
@@ -318,17 +318,17 @@
 
 (F) Attach a copy of the terms of agreement for the transfer, the bill of sale for QS, or lease agreement for IFQ.
 
-(ix) *Notary information* - (A) *Certification of transferor.* (*1*) Printed name and signature of transferor or authorized agent and date signed. If authorized agent, proof of authorization to act on behalf of the transferor must be provided with the application.
+(ix) *Certification information*—(A) *Certification of transferor.* (*1*) Printed name and signature of transferor or authorized agent and date signed. If authorized agent, proof of authorization to act on behalf of the transferor must be provided with the application.
 
-(*2*) Notary Public signature, date commission expires, and notary stamp or seal.
+(*2*) [Reserved]
 
-(B) *Certification of transferee.* (*1*) Printed name and signature of transferor or authorized agent and date signed. If authorized agent, proof of authorization to act on behalf of the transferee must be provided with the application.
+(B) *Certification of transferee.* (*1*) Printed name and signature of transferee or authorized agent and date signed. If authorized agent, proof of authorization to act on behalf of the transferee must be provided with the application.
 
-(*2*) Notary Public signature, date commission expires, and notary stamp or seal.
+(*2*) [Reserved]
 
 (C) *Certification of authorized representative of community.* (*1*) Printed name, title and signature of authorized community representative, date signed, and printed name of community.
 
-(*2*) Notary Public signature, date commission expires, and notary stamp or seal;
+(*2*) [Reserved]
 
 (4) *Attachments to the application and other conditions to be met.* (i) Indicate whether the person applying to make or receive the QS, PQS, IFQ or IPQ transfer has submitted an EDR, if required to do so under § 680.6, and paid all fees, as required by § 680.44.
 
@@ -344,11 +344,11 @@
 
 (iii) An individual applying to receive IFQ from an ECCO is a permanent resident of the ECC in whose name the ECCO is holding QS.
 
-(l) *Eligible crab community right of first refusal (ROFR)* - (1) *Applicability* - (i) *Exempt Fisheries.* PQS and IPQ issued for the EBT, WBT, WAG, or WAI crab QS fisheries are exempt from ROFR provisions.
+(l) *Eligible crab community right of first refusal (ROFR)*—(1) *Applicability*—(i) *Exempt Fisheries.* PQS and IPQ issued for the EBT, WBT, WAG, or WAI crab QS fisheries are exempt from ROFR provisions.
 
 (ii) *Eligible Crab Communities (ECCs).* The ROFR extends to the ECCs, other than Adak, and their associated governing bodies. The ROFR may be exercised by the ECC entity representing that ECC.
 
-(2) *Community representation* - (i) *CDQ Communities.* ECC entity for purposes of exercise of ROFR for any ECC that is also a CDQ community shall be the CDQ group to which the ECC is a member.
+(2) *Community representation*—(i) *CDQ Communities.* ECC entity for purposes of exercise of ROFR for any ECC that is also a CDQ community shall be the CDQ group to which the ECC is a member.
 
 (ii) *Non-CDQ communities.* (A) Any ECC, other than Adak, that is a non-CDQ community may designate an ECC entity that will represent the community in the exercise of ROFR at least 30 days prior to the ending date for the initial application period for the crab QS program specified in the Federal Register.
 
@@ -358,8 +358,8 @@
 
 (D) The ECC ROFR is not assignable by the ECC entity.
 
-(3) *Restrictions on transfer of PQS or IPQ out of North Gulf of Alaska communities* - (i) *Applicability.* Any community in the Gulf of Alaska north of a line at 56°20′ N. lat.
+(3) *Restrictions on transfer of PQS or IPQ out of North Gulf of Alaska communities*—(i) *Applicability.* Any community in the Gulf of Alaska north of a line at 56°20′ N. lat.
 
 (ii) *Notification of PQS or IPQ transfer.* A PQS holder submitting an application to transfer PQS or IPQ for use in processing outside any community identified under paragraph (l)(3)(i) must notify the ECC entity designated by the City of Kodiak and Kodiak Island Borough under paragraph (l)(2) of this section 10 days prior to the intended transfer of PQS or IPQ for use outside the community. At the end of that time period, the application will be approved pending meeting the criteria set forth in paragraph (i) of this section.
 
-[70 FR 10241, Mar. 2, 2005, as amended at 71 FR 32864, June 7, 2006; 73 FR 29983, May 23, 2008; 74 FR 51520, Oct. 7, 2009; 80 FR 15898, Mar. 26, 2015; 81 FR 1561, Jan. 13, 2016; 81 FR 24518, Apr. 26, 2016]
+[70 FR 10241, Mar. 2, 2005, as amended at 71 FR 32864, June 7, 2006; 73 FR 29983, May 23, 2008; 74 FR 51520, Oct. 7, 2009; 80 FR 15898, Mar. 26, 2015; 81 FR 1561, Jan. 13, 2016; 81 FR 24518, Apr. 26, 2016; 86 FR 70754, Dec. 13, 2021]

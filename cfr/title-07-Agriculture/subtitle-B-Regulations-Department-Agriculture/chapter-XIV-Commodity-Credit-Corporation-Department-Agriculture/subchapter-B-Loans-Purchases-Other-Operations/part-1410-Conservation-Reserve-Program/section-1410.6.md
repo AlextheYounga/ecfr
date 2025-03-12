@@ -96,9 +96,7 @@
 
 (i) The land is, at the time of offer, enrolled in CRP under an approved Conservation Reserve Enhancement Program agreement that was in effect on December 20, 2018, and was initially approved before January 1, 2014, including any amended or successor Conservation Reserve Enhancement Program agreement; provided, that the CRP contract under which the land is enrolled is in the final year of the contract period, and the scheduled expiration date of the current CRP contract is before the effective starting date of the new CRP contract; or
 
-(ii) The land is such other land in the State that CCC determines is both otherwise eligible for CRP and appropriate for enrollment in CRP; and
-
-(iii) The land is enrolled in exchange for a 25 percent reduction to the annual rental payment that would otherwise be paid for such land were no such laws, ordinances, or regulations in effect;
+(ii) The land is such other land in the State that CCC determines is both otherwise eligible for CRP and appropriate for enrollment in CRP;
 
 (5) Land that is required to be used, or otherwise dedicated to mitigate actions undertaken, or planned to be undertaken, on other land, or to mitigate other actions taken by landowners or operators; or
 
@@ -109,3 +107,5 @@
 (ii) Riparian buffers; and
 
 (iii) Shelterbelts.
+
+[84 FR 66819, Dec. 6, 2019, as amended at 86 FR 70705, Dec. 13, 2021]

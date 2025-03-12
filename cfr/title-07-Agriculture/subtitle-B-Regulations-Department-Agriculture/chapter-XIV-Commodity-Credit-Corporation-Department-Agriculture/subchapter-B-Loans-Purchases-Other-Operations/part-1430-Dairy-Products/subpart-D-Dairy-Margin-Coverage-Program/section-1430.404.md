@@ -1,12 +1,14 @@
 ##### § 1430.404 Time and method of registration and annual election. #####
 
-(a) A dairy operation may register to participate in DMC by establishing a production history according to § 1430.405 on a form prescribed by CCC and also submitting a contract prescribed by CCC. Dairy operations may obtain a contract in person, by mail, or by facsimile from any county office. In addition, dairy operations may download a copy of the forms at *http://www.sc.egov.usda.gov.*
+(a) A dairy operation may register to participate in DMC by establishing a production history and, if eligible, supplemental production history, according to § 1430.405 on a form prescribed by CCC and also submitting a contract prescribed by CCC. Dairy operations may obtain a contract in person, by mail, or by facsimile from any FSA county office. In addition, dairy operations may download a copy of the forms at *https://www.sc.egov.usda.gov.*
 
 (b) A dairy operation must submit completed contracts and any other supporting documentation, during the annual election period established by the Deputy Administrator, to the administrative county FSA office serving the dairy operation. However, the production history must be established only once and approved by CCC before the contract is submitted and considered complete.
 
 (1) A new dairy operation that has been established after the most recent election period is required to submit a contract within the first 60 calendar days from the date of which the dairy operation first commercially markets milk and may elect coverage that begins the month and day the dairy operation has commercial marketings.
 
 (2) A new dairy operation that does not meet the 60-day requirement of paragraph (b)(1) of this section cannot enroll until the next annual election period for coverage for the following calendar year.
+
+(3) Dairy operations enrolling supplemental production must establish supplemental production history and apply for supplemental coverage during a special enrollment or coverage election period specified by the Deputy Administrator. Once supplemental production history is established, that history will be permanent and will include previously established production history and subject to coverage elections made by the dairy operation under the lock-in option according to § 1430.407(j) or made by the dairy operation in subsequent annual coverage year enrollments.
 
 (c) Annual contracts with coverage elections are to be submitted in time to be received at FSA by the close of business on the last day of the annual election period, established by the Deputy Administrator.
 
@@ -24,6 +26,8 @@
 
 (3) All participating producers in the participating dairy operation must agree to the coverage level threshold and coverage percentage elected by the operation on the contract. Producers in the participating dairy operation that elect not to participate may not submit a separate contract for coverage. All producers that share in risk of the dairy operations production must be indicated on the contract with their corresponding share in the dairy operation, however, a signature from the non-participating member will not be required for CCC approval.
 
+(4) During the 2021 special enrollment period only, for participating dairy operations that had a succession-in-interest occur from January 2, 2021, through the opening of special enrollment, for supplemental production history to be applicable to such successors, the predecessor must first establish supplemental production history. For successions-in-interest when the successor establishes supplemental production history before the predecessor, the successor's supplemental production history will be applicable for 2022.
+
 (f) By registering to participate or receive payment under DMC, all participating producers in the dairy operation must certify to the accuracy and truthfulness of the information in their applications and supporting documentation.
 
 (1) All participating producers who share in the risk of a dairy operation's production must sign and certify all submissions made under DMC that relate to the level of coverage and marketed production for the dairy operation.
@@ -31,3 +35,7 @@
 (2) All information provided is subject to verification by FSA. FSA may require a dairy operation to provide documentation that supports all verifiable records. Furnishing the information is voluntary; however, without such information DMC Program benefits will not be approved. Providing a false certification to the Federal Government may be punishable by imprisonment, fines, and other penalties or sanctions.
 
 (g) At the time the completed contract is submitted to FSA for the first program year in which the operation is to participate in DMC, the dairy operation must also submit a separate form, as prescribed by CCC, to establish the production history for the dairy operation. An established production history and a completed contract are both required to have a complete submission that is subject to approval by FSA. Production histories established for dairy operations under MPP-Dairy will be used in the DMC Program. A new production history will only be established for new dairy operations that did not participate in MPP-Dairy.
+
+(h) In addition to meeting requirements in paragraph (g) of this section, the dairy operation must submit a separate form as prescribed by CCC to establish the supplemental production history for the dairy operation. A supplemental production history and a completed contract are both required for a complete submission that is then subject to approval by FSA.
+
+[84 FR 28176, June 18, 2019, as amended at 86 FR 70707, Dec. 13, 2021]

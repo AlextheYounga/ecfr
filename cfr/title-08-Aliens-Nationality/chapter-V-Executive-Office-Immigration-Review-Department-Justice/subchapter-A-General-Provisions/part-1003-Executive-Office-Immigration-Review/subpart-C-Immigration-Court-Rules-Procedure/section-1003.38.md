@@ -1,5 +1,7 @@
 ##### § 1003.38 Appeals. #####
 
+Link to an amendment published at 86 FR 70723, Dec. 13, 2021.
+
 (a) Decisions of Immigration Judges may be appealed to the Board of Immigration Appeals as authorized by 8 CFR 3.1(b).
 
 (b) The Notice of Appeal to the Board of Immigration Appeals of Decision of Immigration Judge (Form EOIR-26) shall be filed directly with the Board of Immigration Appeals within 30 calendar days after the stating of an Immigration Judge's oral decision or the mailing of an Immigration Judge's written decision. If the final date for filing falls on a Saturday, Sunday, or legal holiday, this appeal time shall be extended to the next business day. A Notice of Appeal (Form EOIR-26) may not be filed by any party who has waived appeal.

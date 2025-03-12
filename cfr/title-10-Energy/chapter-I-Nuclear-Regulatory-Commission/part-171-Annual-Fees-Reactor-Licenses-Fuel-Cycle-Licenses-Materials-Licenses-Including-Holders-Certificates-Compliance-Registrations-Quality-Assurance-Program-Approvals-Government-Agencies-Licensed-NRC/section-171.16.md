@@ -205,6 +205,4 @@ Table 2 to Paragraph (d) - Schedule of Materials Annual Fees and Fees for Govern
 
 <sup>21</sup> Licensees paying fees under 4.A., 4.B. or 4.C. are not subject to paying fees under 3.N. licenses that authorize services for other licensees authorized on the same license.
 
-(e) The fee-relief adjustment allocated to annual fees includes the budgeted resources for the activities listed in paragraph (e)(1) of this section, plus the total budgeted resources for the activities included in paragraphs (e)(2) and (3) of this section, as reduced by the appropriations the NRC receives for these types of activities. If the NRC's appropriations for these types of activities are greater than the budgeted resources for the activities included in paragraphs (e)(2) and (3) of this section for a given fiscal year, a negative fee-relief adjustment (or annual fee reduction) will be allocated to annual fees. The activities comprising the FY 2020 fee-relief adjustment are as follows:
-
 [64 FR 31476, June 10, 1999; 64 FR 38816, July 20, 1999]Editorial Note:For Federal Register citations affecting § 171.16, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

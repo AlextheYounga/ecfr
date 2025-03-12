@@ -176,7 +176,7 @@ This section establishes limitations on using a vessel on which charter vessel a
 
 (iv) All interim permits will be non-transferable and will expire when NMFS takes final agency action on the application.
 
-(i) *Transfer of a charter halibut permit* - (1) *General.* A transfer of a charter halibut permit is valid only if it is approved by NMFS. NMFS will approve a transfer of a charter halibut permit if the permit to be transferred is a transferable permit issued under paragraph (d)(2) of this section, if a complete transfer application is submitted, and if the transfer application meets the standards for approval in paragraph (i)(2) of this section.
+(i) *Transfer of a charter halibut permit*—(1) *General.* A transfer of a charter halibut permit is valid only if it is approved by NMFS. NMFS will approve a transfer of a charter halibut permit if the permit to be transferred is a transferable permit issued under paragraph (d)(2) of this section, if a complete transfer application is submitted, and if the transfer application meets the standards for approval in paragraph (i)(2) of this section.
 
 (2) *Standards for approval of transfers.* NMFS will transfer a transferable charter halibut permit to a person designated by the charter halibut permit holder if, at the time of the transfer the following standards are met:
 
@@ -196,13 +196,13 @@ This section establishes limitations on using a vessel on which charter vessel a
 
 (3) For purposes of paragraph (i)(2) of this section, a U.S. business with a minimum of 75 percent U.S. ownership means a corporation, partnership, association, trust, joint venture, limited liability company, limited liability partnership, or any other entity where at least 75 percent of the interest in such entity, at each tier of ownership of such entity and in the aggregate, is owned and controlled by citizens of the United States.
 
-(4) *Application to transfer a charter halibut permit.* To be complete, a charter halibut permit transfer application must have notarized and dated signatures of the applicants, and the applicants must attest that, to the best of the applicants' knowledge, all statements in the application are true. An application to transfer a charter halibut permit will be made available by NMFS. Completed transfer applications may be submitted by mail or hand delivery at any time to the addresses listed on the application. Electronic or facsimile deliveries will not be accepted.
+(4) *Application to transfer a charter halibut permit.* To be complete, a charter halibut permit transfer application must have dated signatures of the applicants, and the applicants must attest that, to the best of the applicants' knowledge, all statements in the application are true. An application to transfer a charter halibut permit will be made available by NMFS. Completed transfer applications may be submitted by mail or hand delivery at any time to the addresses listed on the application. Electronic or facsimile deliveries will not be accepted.
 
 (5) *Denied transfer applications.* If NMFS does not approve a charter halibut permit transfer application, NMFS will inform the applicant of the basis for its disapproval.
 
 (6) *Transfer due to court order, operation of law or as part of a security agreement.* NMFS will transfer a charter halibut permit based on a court order, operation of law or a security agreement, if NMFS determines that a transfer application is complete and the transfer will not violate an eligibility criterion for transfers.
 
-(j) *Charter halibut permit limitations* - (1) *General.* A person may not own, hold, or control more than five (5) charter halibut permits except as provided by paragraph (j)(4) of this section. NMFS will not approve a transfer application that would result in the applicant that would receive the transferred permit holding more than five (5) charter halibut permits except as provided by paragraph (j)(6) of this section.
+(j) *Charter halibut permit limitations*—(1) *General.* A person may not own, hold, or control more than five (5) charter halibut permits except as provided by paragraph (j)(4) of this section. NMFS will not approve a transfer application that would result in the applicant that would receive the transferred permit holding more than five (5) charter halibut permits except as provided by paragraph (j)(6) of this section.
 
 (2) *Ten percent ownership criterion.* In determining whether two or more persons are the same person for purposes of paragraph (j)(1) of this section, NMFS will apply the definition of an “affiliation for the purpose of defining AFA entities” at § 679.2 of this title.
 
@@ -238,7 +238,7 @@ This section establishes limitations on using a vessel on which charter vessel a
 
 (iv) The person transferring its permits also is transferring its entire charter vessel fishing business, including all the assets of that business, to the designated person that would receive the transferred permits.
 
-(k) *Community charter halibut permit* - (1) *General.* A Community Quota Entity (CQE), as defined in § 679.2 of this title, representing an eligible community listed in paragraph (k)(2) of this section, may receive one or more community charter halibut permits. A community charter halibut permit issued to a CQE will be designated for area 2C or area 3A, will be non-transferable, and will have an angler endorsement of six (6).
+(k) *Community charter halibut permit*—(1) *General.* A Community Quota Entity (CQE), as defined in § 679.2 of this title, representing an eligible community listed in paragraph (k)(2) of this section, may receive one or more community charter halibut permits. A community charter halibut permit issued to a CQE will be designated for area 2C or area 3A, will be non-transferable, and will have an angler endorsement of six (6).
 
 (2) *Eligible communities.* Each community charter halibut permit issued to a CQE under paragraph (k)(1) of this section will specify the name of an eligible community on the permit. Only the following communities are eligible to receive community charter halibut permits:
 
@@ -274,4 +274,4 @@ This section establishes limitations on using a vessel on which charter vessel a
 
 (2) *Application procedure.* An applicant may apply for a military charter halibut permit at any time. To be complete, a military charter halibut permit application must be signed and dated by the applicant, and the applicant must attest that, to the best of the applicants' knowledge, all statements in the application are true and complete. An application for a military charter halibut permit will be made available by NMFS and may be submitted by mail, hand delivery, or facsimile at any time to the address(s) listed on the application. Electronic deliveries other than facsimile will not be accepted.
 
-[75 FR 600, Jan. 5, 2010, as amended at 75 FR 56909, Sept. 17, 2010; 78 FR 33650, June 4, 2013; 78 FR 75890, Dec. 12, 2013; 80 FR 35207, June 19, 2015; 84 FR 64026, Nov. 20, 2019]
+[75 FR 600, Jan. 5, 2010, as amended at 75 FR 56909, Sept. 17, 2010; 78 FR 33650, June 4, 2013; 78 FR 75890, Dec. 12, 2013; 80 FR 35207, June 19, 2015; 84 FR 64026, Nov. 20, 2019; 86 FR 70754, Dec. 13, 2021]

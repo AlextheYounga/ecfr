@@ -4,7 +4,7 @@
 
 (1) A completed Form CCC-846 indicating commodities for which it seeks approval;
 
-(2) A balance sheet, dated within the last year, prepared for the cooperative and accompanied by a letter from an independent Certified Public Accountant, certifying that the balance sheet was prepared in accordance with generally accepted accounting principles;
+(2) A current financial statement, dated within the last year, prepared for the cooperative and accompanied by a letter from an independent Certified Public Accountant, certifying that the financial statement was prepared in accordance with generally accepted accounting principles;
 
 (3) A copy of the articles of incorporation or articles of association and all marketing agreements for loan pools, together with a certification that this material is current;
 
@@ -28,7 +28,7 @@
 
 (iv) Quantity of each loan pool commodity delivered to the CMA for marketing and the portion of such commodities received from active members during the prior year.
 
-(2) The CMA's latest balance sheet. This balance sheet must be dated within the past year and be accompanied by a letter from an independent Certified Public Accountant certifying that the balance sheet was prepared in accordance with generally accepted accounting principles.
+(2) The CMA's latest financial statement. The financial statement must be dated within the past year and be accompanied by a letter from an independent Certified Public Accountant certifying that the financial statement was prepared in accordance with generally accepted accounting principles.
 
 (c) A CMA must furnish information to CCC within thirty calendar days relating to any:
 
@@ -44,4 +44,4 @@
 
 (d) CCC may require a CMA to submit a new initial application instead of a recertification application when it questions whether the CMA is operating according to documents previously submitted.
 
-[63 FR 17312, Apr. 9, 1998, as amended at 67 FR 64458, Oct. 18, 2002; 80 FR 130, Jan. 2, 2015]
+[63 FR 17312, Apr. 9, 1998, as amended at 67 FR 64458, Oct. 18, 2002; 80 FR 130, Jan. 2, 2015; 86 FR 70706, Dec. 13, 2021]

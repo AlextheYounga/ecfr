@@ -10,6 +10,6 @@
 
 (d) Producers who produced eligible loan commodities are eligible for MALs or LDPs.
 
-(e) Adjusted Gross Income (AGI) and payment limitation provisions specified in part 1400 of this chapter apply to this part.
+(e) Adjusted Gross Income (AGI) provisions specified in part 1400 of this chapter apply to this part.
 
-[67 FR 63511, Oct. 11, 2002, as amended at 71 FR 32422, June 6, 2006; 74 FR 15649, Apr. 7, 2009; 80 FR 119, Jan. 2, 2015]
+[67 FR 63511, Oct. 11, 2002, as amended at 71 FR 32422, June 6, 2006; 74 FR 15649, Apr. 7, 2009; 80 FR 119, Jan. 2, 2015; 86 FR 70705, Dec. 13, 2021]

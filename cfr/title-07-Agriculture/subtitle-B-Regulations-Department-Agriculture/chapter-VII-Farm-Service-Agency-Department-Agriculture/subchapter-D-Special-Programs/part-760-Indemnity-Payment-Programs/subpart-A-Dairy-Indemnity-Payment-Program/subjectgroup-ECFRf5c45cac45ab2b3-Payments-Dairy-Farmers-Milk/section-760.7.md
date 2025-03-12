@@ -1,23 +1,23 @@
-##### § 760.7 Other requirements for affected farmers. #####
+##### § 760.7 Conditions required for milk or cow indemnity. #####
 
-An indemnity payment for milk may be made under this subpart to an affected farmer only under the following conditions:
+(a) An indemnity payment for milk or cows (dairy cows including, but not limited to, bred and open heifers) may be made under this subpart to an affected farmer under the conditions in this section.
 
-(a) If the pesticide, chemical, or toxic substance, contaminating the milk was used by the affected farmer, he established each of the following:
+(b) If the pesticide, chemical, or toxic substance, in the contaminated milk was used by the affected farmer, the affected farmer must establish that each of the conditions in this section are met:
 
-(1) That the pesticide, chemical or toxic substance, when used, was registered (if applicable) and approved for use as provided in § 760.2(f);
+(1) That the pesticide, chemical, or toxic substance, when used, was registered (if applicable) and approved for use as provided in § 760.2(f);
 
-(2) That the contamination of his milk was not the result of his failure to use the pesticide, chemical, or toxic substance, according to the directions and limitations stated on the label;
+(2) That the contaminated milk was not the result of the affected farmer's failure to use the pesticide, chemical, or toxic substance, according to the directions and limitations stated on the label; and
 
-(3) That the contamination of his milk was not otherwise his fault.
+(3) That the contaminated milk was not otherwise the affected farmer's fault.
 
-(b) If the pesticide, chemical, or toxic substance contaminating the milk was not used by the affected farmer, he establishes each of the following:
+(c) If the violating substance in the contaminated milk was not used by the affected farmer, the affected farmer must establish that each of the conditions in this section are met:
 
-(1) He did not know or have reason to believe that any feed which he purchased and which contaminated his milk contained a harmful residue of a pesticide, a chemical, or a toxic substance or was contaminated by nuclear radiation or fallout.
+(1) The affected farmer did not know or have reason to believe that any purchased feed contained a violating substance;
 
-(2) None of the milk was produced by dairy cattle which he knew, or had reason to know at the time he acquired them, were contaminated with residues of pesticides, chemicals or toxic substances, or by nuclear radiation or fallout.
+(2) None of the milk was produced by dairy cattle that the affected farmer knew, or had reason to know at the time they were acquired, had elevated levels of a violating substance; and
 
-(3) The contamination of his milk was not otherwise his fault.
+(3) The contaminated milk was not otherwise the affected farmer's fault.
 
-(c) The affected farmer has adopted recommended practices for eliminating residues of pesticides, chemicals, or toxic substances or contamination from nuclear radiation or fallout from his milk as soon as practicable following the discovery of the initial contamination.
+(d) The affected farmer has adopted recommended practices and taken action to eliminate or reduce chemical residues of violating substances from the milk as soon as practicable following the initial discovery of the contaminated milk.
 
-[43 FR 10535, Mar. 14, 1978, as amended at 47 FR 24689, June 8, 1982]
+[86 FR 70703, Dec. 13, 2021]

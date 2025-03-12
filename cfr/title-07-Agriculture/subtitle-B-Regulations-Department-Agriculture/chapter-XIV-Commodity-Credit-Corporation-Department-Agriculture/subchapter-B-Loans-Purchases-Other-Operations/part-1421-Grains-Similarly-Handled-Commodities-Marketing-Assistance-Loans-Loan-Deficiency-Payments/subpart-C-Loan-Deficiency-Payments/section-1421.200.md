@@ -18,6 +18,6 @@
 
 (d) For unshorn pelts, the lamb must be owned for a period of not less than 30 days in advance of the application and sold for immediate slaughter or slaughtered for personal use. Producers must submit acceptable production evidence to CCC under § 1421.12 at the time of request. Producers who do not sell lambs for immediate slaughter are ineligible for a LDP.
 
-(e) AGI and payment limitation requirements apply as specified in part 1400 of this chapter.
+(e) AGI requirements apply as specified in part 1400 of this chapter.
 
-[67 FR 63511, Oct. 11, 2002, as amended at 71 FR 32425, June 6, 2006; 74 FR 15655, Apr. 7, 2009; 80 FR 126, 129, Jan. 2, 2015]
+[67 FR 63511, Oct. 11, 2002, as amended at 71 FR 32425, June 6, 2006; 74 FR 15655, Apr. 7, 2009; 80 FR 126, 129, Jan. 2, 2015; 86 FR 70706, Dec. 13, 2021]

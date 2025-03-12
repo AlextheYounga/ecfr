@@ -20,7 +20,7 @@
 
 (2) The person applying to receive the QS or IFQ meets the requirements of eligibility in paragraph (d) of this section.
 
-(3) The person applying for transfer and the person applying to receive the QS or IFQ have their notarized signatures on the Application for Transfer.
+(3) The person applying for transfer and the person applying to receive the QS or IFQ have their signatures on the Application for Transfer.
 
 (4) There are no fines, civil penalties, or other payments due and owing, or outstanding permit sanctions, resulting from Federal fishery violations involving either person.
 
@@ -246,7 +246,7 @@ QN = (QC × QSPN × RATE)/(SUMCDQ − [RATE × SUMTAC]) ([1 − RATE] × TACAVE)
 
 (C) A description of how the non-profit entity is qualified to manage QS on behalf of the eligible community, or communities, it is designated to represent, and a demonstration that the non-profit entity has the management, technical expertise, and ability to manage QS and IFQ; and
 
-(D) The name of the non-profit organization, taxpayer ID number, NMFS person number, permanent business mailing addresses, name of contact persons and additional contact information of the managing personnel for the non-profit entity, resumes of management personnel, name of community or communities represented by the CQE, name of contact for the governing body of each community represented, date, name and notarized signature of applicant, Notary Public signature and date when commission expires.
+(D) The name of the non-profit organization, taxpayer ID number, NMFS person number, permanent business mailing addresses, name of contact persons and additional contact information of the managing personnel for the non-profit entity, resumes of management personnel, name of community or communities represented by the CQE, name of contact for the governing body of each community represented, date, name and signature of applicant.
 
 (iv) A statement describing the procedures that will be used to determine the distribution of IFQ to eligible community residents and non-residents of the community represented by that CQE, including:
 
@@ -314,8 +314,6 @@ QN = (QC × QSPN × RATE)/(SUMCDQ − [RATE × SUMTAC]) ([1 − RATE] × TACAVE)
 
 (v) The signatures and printed names of the transferor and transferee, and date.
 
-(vi) The signature, seal, and commission expiration of a notary public.
-
 (4) *Restrictions.* (i) A temporary military transfer shall be valid only during the calendar year for which the associated IFQ is issued.
 
 (ii) A temporary military transfer will be issued only for the IFQ derived from the QS held by the applicant.
@@ -344,7 +342,7 @@ QN = (QC × QSPN × RATE)/(SUMCDQ − [RATE × SUMTAC]) ([1 − RATE] × TACAVE)
 
 (C) A description of how the non-profit entity is qualified to manage QS on behalf of charter fishery participants and a demonstration that the non-profit entity has the management, technical expertise, and ability to manage QS and RFQ;
 
-(D) The name of the non-profit organization, taxpayer ID number, NMFS person number, permanent business mailing addresses, name of contact persons and additional contact information of the managing personnel for the non-profit entity, resumes of management personnel, name and notarized signature of applicant, and Notary Public signature and date when commission expires; and
+(D) The name of the non-profit organization, taxpayer ID number, NMFS person number, permanent business mailing addresses, name of contact persons and additional contact information of the managing personnel for the non-profit entity, resumes of management personnel, name and signature of applicant; and
 
 (iv) A statement describing the procedures that will be used to determine the acquisition of funds to purchase QS.
 

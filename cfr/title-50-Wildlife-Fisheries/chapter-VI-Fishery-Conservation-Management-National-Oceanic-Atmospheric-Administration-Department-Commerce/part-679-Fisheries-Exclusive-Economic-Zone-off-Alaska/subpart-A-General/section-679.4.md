@@ -60,7 +60,7 @@
 
 (2) *Permit and logbook required by participant and fishery.* For the various types of permits issued, refer to § 679.5 for recordkeeping and reporting requirements. For subsistence and GAF permits, refer to § 300.65 of this title for recordkeeping and reporting requirements.
 
-(3) *Permit application.* (i) *Obtain and submit anapplication.* A person may obtain an application for a new permit or for renewal or revision of an existing permit for any of the permits under this section and must submit forms to NMFS as instructed in application instructions. With appropriate software, all permit applications may be completed online and printed from the Alaska Region website at *http://alaskafisheries.noaa.gov.*
+(3) *Permit application* - (i) *Obtain and submit an application.* A person may obtain an application for a new permit or for renewal or revision of an existing permit for any of the permits under this section and must submit forms to NMFS as instructed in application instructions. With appropriate software, all permit applications may be completed online and printed from the Alaska Region website at *http://alaskafisheries.noaa.gov.*
 
 (ii) *Deficient application.* Upon receipt of an incomplete or improperly completed permit application, the Program Administrator, RAM, will notify the applicant of the deficiency in the permit application. If the applicant fails to correct the deficiency, the permit will not be issued. No permit will be issued to an applicant until a complete application is received.
 
@@ -551,7 +551,7 @@
 
 (vi) A groundfish license or crab species license may be used on a vessel that is named on the license, that complies with the vessel designation, and that does not exceed the MLOA on the license.
 
-(6) *Application for a groundfish license or a crab species license.* (i) *General.* The Regional Administrator will issue a groundfish license or a crab species license to an applicant if a complete application is submitted by or on behalf of the applicant during the specified application period, and if that applicant meets all the criteria for eligibility in paragraph (k) of this section. An application that is postmarked or delivered after the ending date for the application period for the License Limitation Program specified in the Federal Register will be denied. An application form will be sent to the last known address of a person identified as an eligible applicant by the official LLP record. An application form may be requested from the Regional Administrator.
+(6) *Application for a groundfish license or a crab species license* - (i) *General.* The Regional Administrator will issue a groundfish license or a crab species license to an applicant if a complete application is submitted by or on behalf of the applicant during the specified application period, and if that applicant meets all the criteria for eligibility in paragraph (k) of this section. An application that is postmarked or delivered after the ending date for the application period for the License Limitation Program specified in the Federal Register will be denied. An application form will be sent to the last known address of a person identified as an eligible applicant by the official LLP record. An application form may be requested from the Regional Administrator.
 
 (ii) *Application period.* An application period of no less than 90 days will be specified by notification in the Federal Register and other information sources deemed appropriate by the Regional Administrator.
 
@@ -631,7 +631,7 @@
 
 (D) The transfer does not violate any other provision specified in this part.
 
-(iii) *Contents of application.* To be complete, an application for a groundfish license, Aleutian Island area endorsement as described under paragraph (k)(7)(viii)(A) of this section transfer, or a crab species license transfer must be legible, have notarized and dated signatures of the applicants, and the applicants must attest that, to the best of the applicant's knowledge, all statements in the application are true. An application to transfer will be provided by NMFS, or is available on the NMFS Alaska Region website at *http://alaskafisheries.noaa.gov.* The acceptable submittal methods will be specified on the application form.
+(iii) *Contents of application.* To be complete, an application for a groundfish license, Aleutian Island area endorsement as described under paragraph (k)(7)(viii)(A) of this section transfer, or a crab species license transfer must be legible, have dated signatures of the applicants, and the applicants must attest that, to the best of the applicant's knowledge, all statements in the application are true. An application to transfer will be provided by NMFS, or is available on the NMFS Alaska Region website at *http://alaskafisheries.noaa.gov.* The acceptable submittal methods will be specified on the application form.
 
 (iv) *Incomplete applications.* The Regional Administrator will return an incomplete transfer application to the applicant and identify any deficiencies if the Regional Administrator determines that the application does not meet all the criteria identified in paragraph (k)(7) of this section.
 
@@ -1426,7 +1426,7 @@ OCEAN PHOENIX (USCG documentation number 296779); or
 
 (iii) *Initial administrative determinations (IAD).* The Regional Administrator will prepare and send an IAD to the applicant following the expiration of the 30-day evidentiary period if the Regional Administrator determines that the information or evidence provided by the applicant fails to support the applicant's claims and is insufficient to establish that the vessel meets the requirements for an Amendment 80 replacement vessel or if the additional information, evidence, or revised application is not provided within the time period specified in the letter that notifies the applicant of his or her 30-day evidentiary period. The IAD will indicate the deficiencies in the application, including any deficiencies with the information, the evidence submitted in support of the information, or the revised application. An applicant who receives an IAD may appeal under the appeals procedures set out at § 679.43.
 
-(p) *Flatfish Exchange Application.* (1) *Completed application.* NMFS will process only completed Flatfish Exchange Applications submitted by CDQ groups or Amendment 80 cooperatives.
+(p) *Flatfish Exchange Application* - (1) *Completed application.* NMFS will process only completed Flatfish Exchange Applications submitted by CDQ groups or Amendment 80 cooperatives.
 
 (2) *Certification.* The designated representative must log into the Alaska Region Online application Web site and complete an exchange application form provided on the Web site. By using the NMFS ID, password, and Transfer Key and submitting the Flatfish Exchange Application, the designated representative certifies that all information submitted is true, correct, and complete.
 

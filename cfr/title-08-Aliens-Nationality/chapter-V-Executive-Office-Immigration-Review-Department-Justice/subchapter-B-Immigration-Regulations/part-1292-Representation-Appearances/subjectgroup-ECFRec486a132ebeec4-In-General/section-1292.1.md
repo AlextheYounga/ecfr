@@ -1,5 +1,7 @@
 ##### § 1292.1 Representation of others. #####
 
+Link to an amendment published at 86 FR 70725, Dec. 13, 2021.
+
 (a) A person entitled to representation may be represented by any of the following:
 
 (1) *Attorneys in the United States.* Any attorney as defined in § 1001.1(f) of this chapter and who, once the registration requirements in paragraph (f) of this section have taken effect, is registered to practice with the Executive Office for Immigration Review.

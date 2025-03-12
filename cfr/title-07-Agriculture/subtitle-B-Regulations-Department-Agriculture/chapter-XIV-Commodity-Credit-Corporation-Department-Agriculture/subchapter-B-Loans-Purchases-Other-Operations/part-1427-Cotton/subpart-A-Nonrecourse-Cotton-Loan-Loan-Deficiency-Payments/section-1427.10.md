@@ -32,6 +32,6 @@
 
 (1) At a commercial entity that is involved in the handling or storage of cotton in a county or area determined and announced by CCC as approved for outside storage of ELS loan collateral; and
 
-(2) The site is constructed so as to prevent the accumulation of water under such cotton.
+(2) The site is constructed in a manner to prevent the accumulation of water under such cotton.
 
-[67 FR 64459, Oct. 18, 2002, as amended at 68 FR 49328, Aug. 18, 2003; 69 FR 12056, Mar. 15, 2004; 71 FR 51427, Aug. 30, 2006; 73 FR 65720, Nov. 5, 2008; 80 FR 134, 139, Jan. 2, 2015]
+[67 FR 64459, Oct. 18, 2002, as amended at 68 FR 49328, Aug. 18, 2003; 69 FR 12056, Mar. 15, 2004; 71 FR 51427, Aug. 30, 2006; 73 FR 65720, Nov. 5, 2008; 80 FR 134, 139, Jan. 2, 2015; 86 FR 70706, Dec. 13, 2021]

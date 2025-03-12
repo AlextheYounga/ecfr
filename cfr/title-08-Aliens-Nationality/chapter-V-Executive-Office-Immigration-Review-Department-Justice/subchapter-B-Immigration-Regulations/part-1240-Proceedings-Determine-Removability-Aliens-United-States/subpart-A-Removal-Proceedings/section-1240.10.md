@@ -1,5 +1,7 @@
 ##### § 1240.10 Hearing. #####
 
+Link to an amendment published at 86 FR 70724, Dec. 13, 2021.
+
 (a) *Opening.* In a removal proceeding, the immigration judge shall:
 
 (1) Advise the respondent of his or her right to representation, at no expense to the government, by counsel of his or her own choice authorized to practice in the proceedings and require the respondent to state then and there whether he or she desires representation;

@@ -1,5 +1,7 @@
 ##### § 1003.64 Approval and denial of applications. #####
 
+Link to an amendment published at 86 FR 70723, Dec. 13, 2021.
+
 (a) *Authority.* The Director in his discretion shall have the authority to approve or deny an application to be included on the List of Pro Bono Legal Service Providers. The Director may request additional information from the applicant to determine whether the applicant qualifies to be included on the List.
 
 (b) *Decision.* The applicant shall be notified of the decision in writing. The written notice shall be served in accordance with the definition of “service” set forth in § 1003.13, at the address provided on the application unless the applicant subsequently provides a change of address pursuant to § 1003.66, or shall be transmitted to the applicant electronically.

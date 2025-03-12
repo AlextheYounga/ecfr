@@ -1,5 +1,7 @@
 ##### § 233.3 Definitions. #####
 
+Link to an amendment published at 86 FR 70748, Dec. 13, 2021.
+
 Terms used in this part are defined in DoD Dictionary of Military Terms (available at *http://www.jcs.mil/Doctrine*) and this section. These terms and their definitions are for the purpose of this part.
 
 *Eligible voter.* Any of the following:

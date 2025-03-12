@@ -16,7 +16,7 @@
 
 (2) For soybean meal, the Central Illinois soybean meal price delivered by rail as reported in the USDA AMS Market News-Monthly; and
 
-(3) For alfalfa hay, the average of the full month price received during the month by farmers in the United States for high-quality (premium and supreme) alfalfa hay and the alfalfa hay price (which was used to calculate the MPP hay price) for the same month as reported in the monthly Agricultural Prices report by USDA NASS will be used to calculate the hay price.
+(3) For alfalfa hay, the full month price received during the month by farmers in the United States for high quality (premium and supreme) alfalfa hay as reported in the monthly Agricultural Prices report by USDA NASS will be used to calculate the hay price.
 
 (d) The national average feed cost data for corn, soybean meal, and alfalfa hay used in the calculation of the national average feed cost to determine the actual dairy production margin for the relevant period, will be the data reported in the publication the following month. (For example, full month May prices will be available in the June publication, and those will be the prices used).
 
@@ -25,3 +25,5 @@
 (1) The average feed cost for that month, determined under paragraph (b) of this section; from
 
 (2) The all-milk price for that same month.
+
+[84 FR 28176, June 18, 2019, as amended at 86 FR 70708, Dec. 13, 2021]

@@ -1,5 +1,7 @@
 ##### § 1246.5 Hearing. #####
 
+Link to an amendment published at 86 FR 70725, Dec. 13, 2021.
+
 (a) *Service counsel.* The Government shall be represented at the hearing by a Service counsel who shall have authority to present evidence, and to interrogate, examine, and cross-examine the respondent and other witnesses. The Service counsel is authorized to appeal from a decision of the immigration judge pursuant to § 1246.7 and to move for reopening or reconsideration pursuant to § 1003.23 of this chapter.
 
 (b) *Opening.* The immigration judge shall advise the respondent of the nature of the proceeding and the legal authority under which it is conducted; advise the respondent of his or her right to representation, at no expense to the Government, by counsel or representative of his or her own choice qualified under part 1292 of this chapter and require him or her to state then and there whether he or she desires representation; advise the respondent that he or she will have a reasonable opportunity to examine and object to the evidence against him or her, to present evidence in his or her own behalf, and to cross-examine witnesses presented by the Government; place the respondent under oath; read the allegations in the notice to the respondent and explain them in nontechnical language, and enter the notice and respondent's answer, if any, as exhibits in the record.

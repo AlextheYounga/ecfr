@@ -1,5 +1,7 @@
 ##### § 1003.63 Applications. #####
 
+Link to an amendment published at 86 FR 70723, Dec. 13, 2021.
+
 (a) *Generally.* To be included on the List, any organization, pro bono referral service, or attorney that is eligible under § 1003.62 to apply to be included on the List must file an application with the Director. Applications must be received by the Director at least 60 days in advance of the quarterly update in order to be considered. The application must:
 
 (1) Establish by clear and convincing evidence that the applicant qualifies to be on the List pursuant to § 1003.61(c);

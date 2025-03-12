@@ -1,6 +1,6 @@
 ##### § 1427.11 Warehouse receipts. #####
 
-(a) Producers may obtain loans on eligible cotton represented by warehouse receipts only if the warehouse receipts meet the definition of a warehouse receipt and provide for delivery of the cotton to bearer or are properly assigned by endorsement in blank, so as to vest title in the holder of the receipt or are otherwise acceptable to CCC. The warehouse receipt must:
+(a) Producers may obtain loans on eligible cotton represented by electronic warehouse receipts only if the warehouse receipts meet the definition of a warehouse receipt and provide for delivery of the cotton to bearer or are properly assigned by endorsement in blank, so as to vest title in the holder of the receipt or are otherwise acceptable to CCC. The warehouse receipt must:
 
 (1) Contain the gin bale number;
 
@@ -30,4 +30,4 @@ Date.
 
 (f) The warehouse receipt must show the compression status of the bale; *i.e.,* flat, modified flat, standard, gin standard, standard density (short), gin universal, universal density (short), or warehouse universal density. The receipt must show if the compression charge has been paid, or if the warehouse claims no lien for such compression.
 
-[67 FR 64459, Oct. 18, 2002, as amended at 73 FR 65720, Nov. 5, 2008]
+[67 FR 64459, Oct. 18, 2002, as amended at 73 FR 65720, Nov. 5, 2008; 86 FR 70706, Dec. 13, 2021]

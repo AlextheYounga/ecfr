@@ -1,5 +1,7 @@
 ##### § 1240.13 Notice of decision. #####
 
+Link to an amendment published at 86 FR 70724, Dec. 13, 2021.
+
 (a) *Written decision.* A written decision shall be served upon the respondent and the Service counsel, together with the notice referred to in § 1003.3 of this chapter. Service by mail is complete upon mailing.
 
 (b) *Oral decision.* An oral decision shall be stated by the immigration judge in the presence of the respondent and the Service counsel, if any, at the conclusion of the hearing. A copy of the summary written order shall be furnished at the request of the respondent or the Service counsel.
