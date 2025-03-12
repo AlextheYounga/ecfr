@@ -1,20 +1,18 @@
 ##### § 414.94 Appropriate use criteria for advanced diagnostic imaging services. #####
 
-Link to an amendment published at 83 FR 60074, November 23, 2018.
-
 (a) *Basis and scope*. This section implements the following provisions of the Act:
 
-(1) Section 1834(q) - Recognizing Appropriate Use Criteria for Certain Imaging Services.
+(1) Section 1834(q)—Recognizing Appropriate Use Criteria for Certain Imaging Services.
 
-(2) Section 1834(q)(1) - Program Established.
+(2) Section 1834(q)(1)—Program Established.
 
-(3) Section 1834(q)(2) - Establishment of Applicable Appropriate Use Criteria.
+(3) Section 1834(q)(2)—Establishment of Applicable Appropriate Use Criteria.
 
-(b) *Definitions*. As used in this section unless otherwise indicated -
+(b) *Definitions*. As used in this section unless otherwise indicated—
 
 *Advanced diagnostic imaging service* means an imaging service as defined in section 1834(e)(1)(B) of the Act.
 
-*Applicable imaging service* means an advanced diagnostic imaging service (as defined in section 1834(e)(1)(B) of the Act) for which the Secretary determines -
+*Applicable imaging service* means an advanced diagnostic imaging service (as defined in section 1834(e)(1)(B) of the Act) for which the Secretary determines—
 
 (i) One or more applicable appropriate use criteria apply;
 
@@ -30,7 +28,7 @@ Link to an amendment published at 83 FR 60074, November 23, 2018.
 
 (iii) The ambulatory surgical center payment systems under section 1833(i) of the Act.
 
-*Applicable setting* means a physician's office, a hospital outpatient department (including an emergency department), an ambulatory surgical center, and any other provider-led outpatient setting determined appropriate by the Secretary.
+*Applicable setting* means a physician's office, a hospital outpatient department (including an emergency department), an ambulatory surgical center, an independent diagnostic testing facility, and any other provider-led outpatient setting determined appropriate by the Secretary.
 
 *Appropriate use criteria (AUC)* means criteria only developed or endorsed by national professional medical specialty societies or other provider-led entities, to assist ordering professionals and furnishing professionals in making the most appropriate treatment decision for a specific clinical condition for an individual. To the extent feasible, such criteria must be evidence-based. An AUC set is a collection of individual appropriate use criteria. An individual criterion is information presented in a manner that links: a specific clinical condition or presentation; one or more services; and, an assessment of the appropriateness of the service(s).
 
@@ -190,11 +188,19 @@ Link to an amendment published at 83 FR 60074, November 23, 2018.
 
 (2) For an inpatient and for which payment is made under Medicare Part A.
 
-(3) Ordering professionals who are granted a significant hardship exception to the Medicare EHR Incentive Program payment adjustment for that year under § 495.102(d)(4) of this chapter, except for those granted such an exception under § 495.102(d)(4)(iv)(C) of this chapter.
+(3) Significant hardships for ordering professionals who experience any of the following:
 
-(j) *Consulting.* Ordering Professionals must consult specified applicable AUC through qualified CDSMs for applicable imaging services furnished in an applicable setting, paid for under an applicable payment system and ordered on or after January 1, 2020.
+(i) Insufficient internet access.
 
-(k) *Reporting.* Furnishing Professionals must report the following information on Medicare claims for advanced diagnostic imaging services furnished in an applicable setting, paid for under an applicable payment system defined in paragraph (b) of this section, and ordered on or after January 1, 2020:
+(ii) EHR or CDSM vendor issues.
+
+(iii) Extreme and uncontrollable circumstances.
+
+(j) *Consulting.* (1) Except as specified in paragraphs (i) and (j)(2) of this section, ordering professionals must consult specified applicable AUC through qualified CDSMs for applicable imaging services furnished in an applicable setting, paid for under an applicable payment system, and ordered on or after January 1, 2020.
+
+(2) Ordering professionals may delegate the consultation with specified applicable AUC required under paragraph (j)(1) of this section to clinical staff acting under the direction of the ordering professional.
+
+(k) *Reporting.* The following information must be reported on Medicare claims for advanced diagnostic imaging services furnished in an applicable setting, paid for under an applicable payment system defined in paragraph (b) of this section, and ordered on or after January 1, 2020:
 
 (1) The qualified CDSM consulted by the ordering professional.
 
@@ -208,4 +214,4 @@ Link to an amendment published at 83 FR 60074, November 23, 2018.
 
 (3) The NPI of the ordering professional who consulted specified applicable AUC as required in paragraph (j) of this section, if different from the furnishing professional.
 
-[80 FR 71380, Nov. 16, 2015, as amended at 80 FR 80554, Nov. 15, 2016; 82 FR 53363, Nov. 15, 2017]
+[80 FR 71380, Nov. 16, 2015, as amended at 80 FR 80554, Nov. 15, 2016; 82 FR 53363, Nov. 15, 2017; 83 FR 60074, Nov. 23, 2018]

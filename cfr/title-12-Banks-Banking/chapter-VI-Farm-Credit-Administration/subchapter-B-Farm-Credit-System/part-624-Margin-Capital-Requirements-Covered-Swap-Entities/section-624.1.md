@@ -58,7 +58,7 @@
 
 (6) September 1, 2020 with respect to the requirements in § 624.3 for initial margin for any other covered swap entity with respect to non-cleared swaps and non-cleared security-based swaps entered into with any other counterparty.
 
-(7) For purposes of determining the date on which a non-cleared swap or a non-cleared security-based swap was entered into, a Covered Swap Entity will not take into account amendments to the non-cleared swap or the non-cleared security-based swap that were entered into solely to comply with the requirements of part 47, subpart I of part 252 or part 382 of Title 12, as applicable.
+(7) For purposes of determining the date on which a non-cleared swap or a non-cleared security-based swap was entered into, a Covered Swap Entity will not take into account amendments to the non-cleared swap or the non-cleared security-based swap that were entered into solely to comply with the requirements of part 47, subpart I of part 252 or part 382 of title 12, as applicable.
 
 (f) Once a covered swap entity must comply with the margin requirements for non-cleared swaps and non-cleared security-based swaps with respect to a particular counterparty based on the compliance dates in paragraph (e) of this section, the covered swap entity shall remain subject to the requirements of this part with respect to that counterparty.
 

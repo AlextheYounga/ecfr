@@ -1,16 +1,19 @@
 ##### § 414.1445 Determination of other payer advanced APMs. #####
 
-Link to an amendment published at 83 FR 60091, November 23, 2018.
-
 (a) *Determination of Medicaid APMs.* Beginning in 2018, and each year thereafter, at a time determined by CMS, a state, APM Entity, or eligible clinician may request, in a form and manner specified by CMS, that CMS determine whether a payment arrangement authorized under Title XIX is either a Medicaid APM or a Medicaid Medical Home Model that meets the Other Payer Advanced APM criteria as set forth in § 414.1420. A state must submit its request by April 1 of the year prior to the relevant QP Performance Period, and an APM Entity or eligible clinician must submit its request by November 1 of the year prior to the relevant QP Performance Period. CMS will not determine that a payment arrangement is a Medicaid APM or Medicaid Medical Home Model that meets the Other Payer Advanced APM criteria as set forth in § 414.1420 for a year after the relevant QP Performance Period.
 
-(b) *Determination of Other Payer Advanced APMs* - (1) *Payer Initiated Other Payer Advanced APM Determination Process.* Beginning in 2018, and each year thereafter, at a time determined by CMS, a payer with a Medicare Health Plan payment arrangement or a payment arrangement aligned with a CMS Multi-Payer Model may request, in a form and manner specified by CMS, that CMS determine whether a Medicare Health Plan payment arrangement or a payment arrangement aligned with a CMS Multi-Payer Model meets the Other Payer Advanced APM criteria as set forth in § 414.1420. A payer with a Medicare Health Plan payment arrangement must submit its requests by the annual Medicare Advantage bid deadline of the year prior to the relevant QP Performance Period. A payer with an arrangement aligned with a CMS Multi-Payer Model must submit its requests by June 30 of the year prior to the relevant QP Performance Period.
+(b) *Determination of Other Payer Advanced APMs*—
+(1) *Payer initiated Other Payer Advanced APM determination process.* Beginning in 2018, and each year thereafter, at a time determined by CMS a payer with a Medicare Health Plan payment arrangement may request, in a form and manner specified by CMS, that CMS determine whether a Medicare Health Plan payment arrangement meets the Other Payer Advanced APM criteria set forth in § 414.1420. A payer with a Medicare Health Plan payment arrangement must submit its requests by the annual Medicare Advantage bid deadline of the year prior to the relevant QP Performance Period. A Medicare Health Plan is a Medicare Advantage plan, a section 1876 cost plan, a PACE organization operated under section 1894, and any similar plan which provides Medicare benefits under demonstration or waiver authority (other than an APM as defined in section 1833(z)(3)(C) of the Act).
 
 (2) *Eligible clinician initiated Other Payer Advanced APM determination process.* Except as provided by paragraph (a) of this section, at a time specified by CMS, an APM Entity or eligible clinician may request that CMS determine whether a payment arrangement meets the Other Payer Advanced APM criteria as set forth in § 414.1420 in a form and manner specified by CMS. An APM Entity or eligible clinician must submit requests by December 1 of the calendar year of the relevant QP Performance Period.
 
 (c) *Information required for Other Payer Advanced APM determinations.* (1) In order to make an Other Payer Advanced APM determination as set forth in paragraphs (a) and (b) of this section, a payer, APM Entity, or eligible clinician must submit the information specified by CMS in a form and manner specified by CMS. If a payer, APM Entity, or eligible clinician fails to submit the information required, CMS will not make a determination as to whether a payment arrangement meets the Other Payer Advanced APM criteria as set forth in § 414.1420.
 
 (2) If an eligible clinician submits information showing that a payment arrangement requires that the eligible clinician must use CEHRT as defined in § 414.1305 to document and communicate clinical care, CMS will presume that the CEHRT criterion in § 414.1420(b) is satisfied for that payment arrangement.
+
+(i) Based on the submission by an eligible clinician or payer of evidence that CMS determines sufficiently demonstrates that CEHRT is used as specified in § 414.1420(b) by participants in the payment arrangement, CMS will consider the CEHRT criterion in § 414.1420(b) is satisfied for that payment arrangement.
+
+(ii) [Reserved]
 
 (3) If a payment arrangement has no outcome measure, the payer, APM Entity, or eligible clinician requesting a determination of whether a payment arrangement meets the Other Payer Advanced APM criteria must certify that there is no available or applicable outcome measure on the MIPS measure list.
 
@@ -20,4 +23,4 @@ Link to an amendment published at 83 FR 60091, November 23, 2018.
 
 (f) *Notification of Other Payer Advanced APM determinations.* CMS makes Other Payer Advanced APM determinations and notifies the requesting payer, APM Entity, or eligible clinician of such determinations as soon as practicable following the relevant submission deadline.
 
-[82 FR 53964, Nov. 16, 2017]
+[82 FR 53964, Nov. 16, 2017, as amended at 83 FR 60091, Nov. 23, 2018]

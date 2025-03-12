@@ -1,0 +1,11 @@
+##### § 1291.16 Conflicts of interest. #####
+
+(a) *Bank directors and employees.* (1) Each Bank's board of directors shall adopt a written policy providing that if a Bank director or employee, or such person's family member, has a financial interest in, or is a director, officer, or employee of an organization involved in, a project that is the subject of a pending or approved AHP application, the Bank director or employee shall not participate in or attempt to influence decisions by the Bank regarding the evaluation, approval, funding, monitoring, or any remedial process for such project.
+
+(2) If a Bank director or employee, or such person's family member, has a financial interest in, or is a director, officer, or employee of an organization involved in, an AHP project such that he or she is subject to the requirements in paragraph (a)(1) of this section, such person shall not participate in or attempt to influence decisions by the Bank regarding the evaluation, approval, funding, monitoring, or any remedial process for such project.
+
+(b) *Advisory Council members.* (1) Each Bank's board of directors shall adopt a written policy providing that if an Advisory Council member, or such person's family member, has a financial interest in, or is a director, officer, or employee of an organization involved in, a project that is the subject of a pending or approved AHP application, the Advisory Council member shall not participate in or attempt to influence decisions by the Bank regarding the approval for such project.
+
+(2) If an Advisory Council member, or such person's family member, has a financial interest in, or is a director, officer, or employee of an organization involved in, an AHP project such that he or she is subject to the requirements in paragraph (b)(1) of this section, such person shall not participate in or attempt to influence decisions by the Bank regarding the approval for such project.
+
+(c) *No delegation.* A Bank's board of directors shall not delegate to Bank officers or other Bank employees the responsibility to adopt the conflict of interest policies required by this section.

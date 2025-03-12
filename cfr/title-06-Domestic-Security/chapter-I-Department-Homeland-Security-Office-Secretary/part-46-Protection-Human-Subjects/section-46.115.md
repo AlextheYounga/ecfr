@@ -1,4 +1,4 @@
-##### § 46.115 IRB Records. #####
+##### § 46.115 IRB records. #####
 
 (a) An institution, or when appropriate an IRB, shall prepare and maintain adequate documentation of IRB activities, including the following:
 

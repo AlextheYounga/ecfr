@@ -1,7 +1,5 @@
 ##### § 615.5180 Bank interest rate risk management program. #####
 
-Link to an amendment published at 83 FR 27503, June 12, 2018.
-
 (a) The board of directors of each Farm Credit bank must develop, implement, and effectively oversee an interest rate risk management program tailored to the needs of the institution. The program must establish a risk management process that effectively identifies, measures, monitors, and controls interest rate risk. The board of directors of each Farm Credit bank must be knowledgeable of the nature and level of interest rate risk taken by the institution.
 
 (b) Senior management is responsible for ensuring that interest rate risk is properly managed on both a long-range and a day-to-day basis.
@@ -12,7 +10,7 @@ Link to an amendment published at 83 FR 27503, June 12, 2018.
 
 (2) Identify and analyze the causes of risks within its existing balance sheet structure;
 
-(3) Measure the potential effect of these risks on projected earnings and market values by conducting interest rate shock tests and simulations of multiple economic scenarios at least on a quarterly basis and by considering the effect of investments on interest rate risk based on the results of the stress testing required under § 615.5133(f)(4);
+(3) Measure the potential effect of these risks on projected earnings and market values by conducting interest rate shock tests and simulations of multiple economic scenarios at least on a quarterly basis and by considering the effect of investments on interest rate risk based on the results of the stress testing required under § 615.5133(h)(4);
 
 (4) Describe and implement actions needed to obtain its desired risk management objectives;
 
@@ -26,4 +24,4 @@ Link to an amendment published at 83 FR 27503, June 12, 2018.
 
 (d) At least quarterly, management of each Farm Credit bank must report to its board of directors, or a designated committee of the board, describing the nature and level of interest rate risk exposure. Any deviations from the board's policy on interest rate risk must be specifically identified in the report and approved by the board or designated committee of the board.
 
-[77 FR 66374, Nov. 5, 2012]
+[77 FR 66374, Nov. 5, 2012, as amended at 83 FR 27503, June 12, 2018]

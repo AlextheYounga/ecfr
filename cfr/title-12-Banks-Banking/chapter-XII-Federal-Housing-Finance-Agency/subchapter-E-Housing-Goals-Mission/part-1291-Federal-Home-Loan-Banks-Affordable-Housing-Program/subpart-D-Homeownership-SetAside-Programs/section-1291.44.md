@@ -1,0 +1,9 @@
+##### § 1291.44 Procedures for funding. #####
+
+(a) *Disbursement of AHP direct subsidies to members.* (1) A Bank may disburse AHP direct subsidies under its Homeownership Set-Aside Programs only to institutions that are members of the Bank at the time they request a draw-down of the subsidies.
+
+(2) If an institution with an approved application for AHP direct subsidy loses its membership in a Bank, the Bank may disburse AHP direct subsidies to a member of such Bank to which the institution has transferred its obligations under the approved AHP application, or the Bank may disburse AHP direct subsidies through another Bank to a member of that Bank that has assumed the institution's obligations under the approved AHP application.
+
+(b) *Reservation of Homeownership Set-Aside Program subsidies.* A Bank shall establish and implement policies for reservation of set-aside subsidies for households enrolled in the Bank's Homeownership Set-Aside Programs. The policies shall provide that set-aside subsidies be reserved no more than two years in advance of the Bank's time limit in its AHP Implementation Plan for draw-down and use of the subsidies by the household and the reservation of subsidies be made from the allocation for the Homeownership Set-Aside Programs for the year in which the Bank makes the reservation.
+
+(c) *Progress towards use of AHP direct subsidy.* A Bank shall establish and implement policies, including time limits, for determining whether progress is being made towards draw-down and use of the AHP direct subsidies by eligible households, and whether to cancel AHP application approvals for lack of such progress. If a Bank cancels any AHP application approvals due to lack of such progress, it shall make the AHP direct subsidies available for other applicants for AHP direct subsidies under the Homeownership Set-Aside Programs or for other AHP-eligible projects.

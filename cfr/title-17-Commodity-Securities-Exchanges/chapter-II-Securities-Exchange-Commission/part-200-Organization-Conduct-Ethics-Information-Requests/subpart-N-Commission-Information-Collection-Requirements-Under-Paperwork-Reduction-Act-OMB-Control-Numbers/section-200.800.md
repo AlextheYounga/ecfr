@@ -1,7 +1,5 @@
 ##### § 200.800 OMB control numbers assigned pursuant to the Paperwork Reduction Act. #####
 
-Link to an amendment published at 83 FR 29203, June 22, 2018.
-
 (a) *Purpose:* This subpart collects and displays the control numbers assigned to information collection requirements of the Commission by the Office of Management and Budget pursuant to the Paperwork Reduction Act of 1980, 44 U.S.C. 3500 *et seq.* This subpart displays current OMB control numbers for those information collection requirements of the Commission that are rules and regulations and codified in 17 CFR either in full text or incorporated by reference with the approval of the Director of the Office of the Federal Register.
 
 (b) *Display.*
@@ -286,6 +284,7 @@ Link to an amendment published at 83 FR 29203, June 22, 2018.
 |                   Rule 30b2-1                    |                     270.30b2-1                      |       3235-0220       |
 |                    Rule 30d-2                    |                      270.30d-2                      |       3235-0494       |
 |                    Rule 30e-1                    |                      270.30e-1                      |       3235-0025       |
+|                    Rule 30e-3                    |                      270.30e-3                      |       3235-0758       |
 |                    Rule 31a-1                    |                      270.31a-1                      |       3235-0178       |
 |                    Rule 31a-2                    |                      270.31a-2                      |       3235-0179       |
 |                    Rule 32a-4                    |                      270.32a-4                      |       3235-0530       |
@@ -332,4 +331,4 @@ Link to an amendment published at 83 FR 29203, June 22, 2018.
 |                     Form 7-R                     |                        279.7                        |       3235-0240       |
 |                    Form ADV-E                    |                        279.8                        |       3235-0361       |
 
-[67 FR 14634, Mar. 27, 2002, as amended at 70 FR 37611, June 29, 2005; 76 FR 46616, Aug. 3, 2011; 77 FR 18684, Mar. 28, 2012; 80 FR 6902, Feb. 9, 2015; 82 FR 82009, Nov. 18, 2016]
+[67 FR 14634, Mar. 27, 2002, as amended at 70 FR 37611, June 29, 2005; 76 FR 46616, Aug. 3, 2011; 77 FR 18684, Mar. 28, 2012; 80 FR 6902, Feb. 9, 2015; 82 FR 82009, Nov. 18, 2016; 83 FR 29203, June 22, 2018]

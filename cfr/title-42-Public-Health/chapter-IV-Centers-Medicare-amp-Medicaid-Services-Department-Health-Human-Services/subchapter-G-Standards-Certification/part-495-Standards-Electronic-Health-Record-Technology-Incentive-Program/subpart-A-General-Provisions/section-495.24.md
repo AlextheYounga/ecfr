@@ -1,7 +1,5 @@
 ##### § 495.24 Stage 3 meaningful use objectives and measures for EPs, eligible hospitals and CAHs for 2019 and subsequent years. #####
 
-Link to an amendment published at 83 FR 60096, Nov. 23, 2018.
-
 The criteria specified in paragraphs (c) and (d) of this section are optional for 2017 and 2018 for EPs, eligible hospitals, and CAHs that have successfully demonstrated meaningful use in a prior year. The criteria specified in paragraph (d) of this section are applicable for all EPs for 2019 and subsequent years, and for eligible hospitals and CAHs attesting to a State for the Medicaid Promoting Interoperability Program for 2019 and subsequent years. The criteria specified in paragraph (e) of this section are applicable for eligible hospitals and CAHs attesting to CMS for 2019 and subsequent years.
 
 (a) *Stage 3 criteria for EPs* - (1) *General rule regarding Stage 3 criteria for meaningful use for EPs.* Except as specified in paragraphs (a)(2) and (3) of this section, EPs must meet all objectives and associated measures of the Stage 3 criteria specified in paragraph (d) of this section to meet the definition of a meaningful EHR user.
@@ -296,21 +294,15 @@ The criteria specified in paragraphs (c) and (d) of this section are optional fo
 
 (B) *Measures.* In accordance with paragraph (a)(2) of this section, an EP must satisfy 2 out of the 3 following measures in paragraphs (d)(6)(i)(B)(*1*) through (*3*) of this section except those measures for which an EP qualifies for an exclusion under paragraph (a)(3) of this section.
 
-(*1*) During the EHR reporting period, more than 10 percent of all unique patients (or their authorized representatives) seen by the EP actively engage with the electronic health record made accessible by the provider and either of the following:
+(*1*) During the EHR reporting period, more than 5 percent of all unique patients (or their authorized representatives) seen by the EP actively engage with the electronic health record made accessible by the provider and do either of the following:
 
 (*i*) View, download or transmit to a third party their health information;
 
-(*ii*) their health information through the use of an API that can be used by applications chosen by the patient and configured to the API in the provider's CEHRT; or
+(*ii*) Access their health information through the use of an API that can be used by applications chosen by the patient and configured to the API in the provider's CEHRT; or
 
 (*iii*) A combination of paragraphs (d)(6)(i)(B)(*1*)(*i*) and (*ii*) of this section.
 
-(*iv*) For an EHR reporting period in 2017 and 2018, an EP may meet a threshold of 5 percent instead of 10 percent for the measure at paragraph (d)(6)(i)(B)(*1*) of this section.
-
-(*2*) During the EHR reporting period -
-
-(*i*) For an EHR reporting period in 2017 and 2018, for more than 5 percent of all unique patients seen by the EP during the EHR reporting period, a secure message was sent using the electronic messaging function of CEHRT to the patient (or their authorized representatives), or in response to a secure message sent by the patient; or
-
-(*ii*) For an EHR reporting period other than 2017 and 2018, for more than 25 percent of all unique patients seen by the EP during the EHR reporting period, a secure message was sent using the electronic messaging function of CEHRT to the patient (or their authorized representatives), or in response to a secure message sent by the patient.
+(*2*) A secure message was sent using the electronic messaging function of CEHRT to the patient (or their authorized representatives), or in response to a secure message sent by the patient, for more than 5 percent of all unique patients seen by the EP during the EHR reporting period.
 
 (*3*) Patient generated health data or data from a nonclinical setting is incorporated into the CEHRT for more than 5 percent of all unique patients seen by the EP during the EHR reporting period.
 
@@ -400,7 +392,7 @@ The criteria specified in paragraphs (c) and (d) of this section are optional fo
 
 (*1*) *Immunization registry reporting.* The EP is in active engagement with a public health agency to submit immunization data and receive immunization forecasts and histories from the public health immunization registry/immunization information system (IIS).
 
-(*2*) *Syndromic surveillance reporting.* The EP is in active engagement with a public health agency to submit syndromic surveillance data from an urgent care setting.
+(*2*) *Syndromic surveillance reporting.* The EP is in active engagement with a public health agency to submit syndromic surveillance data from an urgent care setting, or from any other setting from which ambulatory syndromic surveillance data are collected by the state or a local public health agency.
 
 (*3*) *Electronic case reporting.* The EP is in active engagement with a public health agency to submit case reporting of reportable conditions.
 
@@ -642,4 +634,4 @@ The criteria specified in paragraphs (c) and (d) of this section are optional fo
 
 (*3*) Operates in a jurisdiction where no public health agency has declared readiness to receive electronic reportable laboratory results from an eligible hospital or CAH as of 6 months prior to the start of the EHR reporting period.
 
-[81 FR 79884, Nov. 14, 2016, as amended at 82 FR 38517, August 14, 2017; 82 FR 46143, Oct. 4, 2017; 83 FR 41707, Aug. 17, 2018]
+[81 FR 79884, Nov. 14, 2016, as amended at 82 FR 38517, August 14, 2017; 82 FR 46143, Oct. 4, 2017; 83 FR 41707, Aug. 17, 2018; 83 FR 60096, Nov. 23, 2018]

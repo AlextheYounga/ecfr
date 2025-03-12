@@ -1,7 +1,5 @@
 ##### § 495.4 Definitions. #####
 
-Link to an amendment published at 83 FR 60096, Nov. 23, 2018.
-
 In this part, unless otherwise indicated -
 
 *Ambulatory surgical center-based EP* means an EP who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the codes used in the HIPAA standard transaction as an ASC setting in the calendar year that is 2 years before the payment adjustment year.
@@ -187,6 +185,12 @@ In this part, unless otherwise indicated -
 (A) For the EP first demonstrating he or she is a meaningful EHR user, any continuous 90-day period within CY 2020.
 
 (B) For the EP who has successfully demonstrated he or she is a meaningful EHR user in any prior year, any continuous 90-day period within CY 2020.
+
+(v) Under the Medicaid Promoting Interoperability Program, for the CY 2021 payment year:
+
+(A) For the EP first demonstrating he or she is a meaningful EHR user, any continuous 90-day period within CY 2021 that ends before October 31, 2021, or that ends before an earlier date in CY 2021 that is specified by the state and approved by CMS in the State Medicaid HIT plan described at § 495.332.
+
+(B) For the EP who has successfully demonstrated he or she is a meaningful EHR user in any prior year, any continuous 90-day period within CY 2021 that ends before October 31, 2021, or that ends before an earlier date in CY 2021 that is specified by the state and approved by CMS in the State Medicaid HIT plan described at § 495.332.
 
 (2) For an eligible hospital or CAH -
 
@@ -456,4 +460,4 @@ In this part, unless otherwise indicated -
 
 *Qualified EHR* has the same definition as this term is defined at 45 CFR 170.102.
 
-[75 FR 44565, July 28, 2010, as amended at 77 FR 54148, Sept. 4, 2012; 78 FR 75200, Dec. 10, 2013; 80 FR 62940, Oct. 16, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 34909, June 1, 2016; 81 FR 77555, Nov. 4, 2016; 81 FR 79882, Nov. 14, 2016; 82 FR 38516, Aug. 14, 2017; 82 FR 46143, Oct. 4, 2017; 83 FR 41706, Aug. 17, 2018]
+[75 FR 44565, July 28, 2010, as amended at 77 FR 54148, Sept. 4, 2012; 78 FR 75200, Dec. 10, 2013; 80 FR 62940, Oct. 16, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 34909, June 1, 2016; 81 FR 77555, Nov. 4, 2016; 81 FR 79882, Nov. 14, 2016; 82 FR 38516, Aug. 14, 2017; 82 FR 46143, Oct. 4, 2017; 83 FR 41706, Aug. 17, 2018; 83 FR 60096, Nov. 23, 2018]

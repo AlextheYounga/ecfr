@@ -1,10 +1,8 @@
 ##### § 210.26 Definitions. #####
 
-Link to an amendment published at 83 FR 61517, Nov. 30, 2018.Link to an amendment published at 83 FR 61522, Nov. 30, 2018.
-
 As used in this subpart, the following definitions apply:
 
-(a) *Article 4A* means article 4A of the Uniform Commercial Code as set forth in appendix B of this subpart.
+(a) *Article 4A* means Article 4A of the Uniform Commercial Code as set forth in appendix B of this subpart.
 
 (b) [Reserved]
 
@@ -16,7 +14,7 @@ As used in this subpart, the following definitions apply:
 
 (2) The term includes a Federal Reserve Bank when that Federal Reserve Bank is the beneficiary of a payment order.
 
-(e) *Fedwire* is the funds-transfer system owned and operated by the Federal Reserve Banks that is used primarily for the transmission and settlement of payment orders governed by this subpart. Fedwire does not include the system for making automated clearing house transfers.
+(e) *Fedwire Funds Service* and *Fedwire* means the funds-transfer system owned and operated by the Federal Reserve Banks that is used primarily for the transmission and settlement of payment orders governed by this subpart. Fedwire does not include the system for making automated clearing house transfers.
 
 (f) *Interdistrict transfer* means a funds transfer involving entries to accounts maintained at two Federal Reserve Banks.
 
@@ -30,4 +28,4 @@ As used in this subpart, the following definitions apply:
 
 (k) *Sender's Federal Reserve Bank* and *receiving bank's Federal Reserve Bank* mean the Federal Reserve Bank at which the sender or receiving bank, respectively, maintains or uses an account.
 
-[55 FR 40801, Oct. 5, 1990; 55 FR 47428, Nov. 13, 1990, as amended by Reg. J, 77 FR 21859, Apr. 12, 2012]
+[55 FR 40801, Oct. 5, 1990; 55 FR 47428, Nov. 13, 1990, as amended by Reg. J, 77 FR 21859, Apr. 12, 2012; 83 FR 61517, 61522, Nov. 30, 2018]

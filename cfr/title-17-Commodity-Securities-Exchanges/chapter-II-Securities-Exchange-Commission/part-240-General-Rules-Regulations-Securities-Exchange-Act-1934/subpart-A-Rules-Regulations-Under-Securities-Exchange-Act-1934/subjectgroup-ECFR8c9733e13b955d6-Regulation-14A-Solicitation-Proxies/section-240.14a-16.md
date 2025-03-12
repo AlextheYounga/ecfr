@@ -1,6 +1,6 @@
 ##### § 240.14a-16 Internet availability of proxy materials. #####
 
-Link to an amendment published at 83 FR 29204, June 22, 2018.
+Link to an amendment published at 85 FR 26101, May 1, 2020.
 
 (a)(1) A registrant shall furnish a proxy statement pursuant to § 240.14a-3(a), or an annual report to security holders pursuant to § 240.14a-3(b), to a security holder by sending the security holder a Notice of Internet Availability of Proxy Materials, as described in this section, 40 calendar days or more prior to the security holder meeting date, or if no meeting is to be held, 40 calendar days or more prior to the date the votes, consents or authorizations may be used to effect the corporate action, and complying with all other requirements of this section.
 
@@ -60,7 +60,7 @@ Link to an amendment published at 83 FR 29204, June 22, 2018.
 
 (ii) A copy of any notice of security holder meeting required under state law if that notice is not combined with the Notice of Internet Availability of Proxy Materials;
 
-(iii) In the case of an investment company registered under the Investment Company Act of 1940, the company's prospectus, a summary prospectus that satisfies the requirements of § 230.498(b) of this chapter, or a report that is required to be transmitted to stockholders by section 30(e) of the Investment Company Act (15 U.S.C. 80a-29(e)) and the rules thereunder; and
+(iii) In the case of an investment company registered under the Investment Company Act of 1940, the company's prospectus, a summary prospectus that satisfies the requirements of § 230.498(b) of this chapter, a Notice under § 270.30e-3 of this chapter, or a report that is required to be transmitted to stockholders by section 30(e) of the Investment Company Act (15 U.S.C. 80a-29(e)) and the rules thereunder; and
 
 (iv) An explanation of the reasons for a registrant's use of the rules detailed in this section and the process of receiving and reviewing the proxy materials and voting as detailed in this section.
 
@@ -146,4 +146,4 @@ Link to an amendment published at 83 FR 29204, June 22, 2018.
 
 (iii) Instructions on how to access the form of proxy pursuant to paragraph (d)(10) of this section.
 
-[72 FR 4168, Jan. 29, 2007, as amended at 72 FR 42238, Aug. 1, 2007; 72 FR 42238, Aug. 1, 2007; 73 FR 17814, Apr. 1, 2008; 75 FR 9081, Feb. 26, 2010]
+[72 FR 4168, Jan. 29, 2007, as amended at 72 FR 42238, Aug. 1, 2007; 72 FR 42238, Aug. 1, 2007; 73 FR 17814, Apr. 1, 2008; 75 FR 9081, Feb. 26, 2010; 83 FR 29204, June 22, 2018]

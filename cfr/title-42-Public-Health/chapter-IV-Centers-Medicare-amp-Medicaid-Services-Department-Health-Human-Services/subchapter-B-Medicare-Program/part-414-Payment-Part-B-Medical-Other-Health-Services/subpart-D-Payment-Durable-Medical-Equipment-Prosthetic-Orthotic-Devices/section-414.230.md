@@ -1,7 +1,5 @@
 ##### § 414.230 Determining a period of continuous use. #####
 
-Link to an amendment published at 83 FR 57072, Nov. 14, 2018.
-
 (a) *Scope.* This section sets forth the rules that apply in determining a period of continuous use for rental of durable medical equipment.
 
 (b) *Continuous use.* (1) A period of continuous use begins with the first month of medical need and lasts until a beneficiary's medical need for a particular item of durable medical equipment ends.
@@ -30,6 +28,6 @@ Link to an amendment published at 83 FR 57072, Nov. 14, 2018.
 
 (g) *New supplier.* If a beneficiary changes suppliers, a new period of continuous use does not begin.
 
-(h) *Oxygen equipment furnished after the 36-month rental period.* A new period of continuous use does not begin under any circumstance in the case of oxygen equipment furnished after the 36-month rental period in accordance with § 414.226(f) until the end of the reasonable useful lifetime established for such equipment in accordance with § 414.210(f).
+(h) *Oxygen equipment furnished after the 36-month rental period.* A new period of continuous use does not begin under any circumstance in the case of oxygen equipment furnished after the 36-month rental period in accordance with § 414.226(h) until the end of the reasonable useful lifetime established for such equipment in accordance with § 414.210(h).
 
-[56 FR 50823, Oct. 9, 1991, as amended at 57 FR 57111, Dec. 3, 1992; 71 FR 65935, Nov. 9, 2006; 73 FR 69937, Nov. 19, 2008]
+[56 FR 50823, Oct. 9, 1991, as amended at 57 FR 57111, Dec. 3, 1992; 71 FR 65935, Nov. 9, 2006; 73 FR 69937, Nov. 19, 2008; 83 FR 57072, Nov. 14, 2018]

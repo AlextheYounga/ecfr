@@ -1,7 +1,5 @@
 ##### § 414.423 Appeals process for breach of a DMEPOS competitive bidding program contract actions. #####
 
-Link to an amendment published at 83 FR 57073, Nov. 14, 2018.
-
 This section implements an appeals process for suppliers that CMS has determined are in breach of their Medicare DMEPOS Competitive Bidding Program contract and where CMS has issued a notice of breach of contract indicating its intent to take action(s) pursuant to § 414.422(g)(2).
 
 (a) *Breach of contract.* CMS may take one or more of the actions specified in § 414.422(g)(2) as a result of a supplier's breach of their DMEPOS Competitive Bidding Program contract.
@@ -102,7 +100,7 @@ This section implements an appeals process for suppliers that CMS has determined
 
 (7) Prepare a file of the record of the hearing which includes all evidence submitted as well as any relevant documents identified by the hearing officer and considered as part of the hearing; and
 
-(8) Comply with all applicable provisions of 42 U.S.C. Title 18 and related provisions of the Act, the applicable regulations issued by the Secretary, and manual instructions issued by CMS.
+(8) Comply with all applicable provisions of Title 18 and related provisions of the Act, the applicable regulations issued by the Secretary, and manual instructions issued by CMS.
 
 (j) *Hearing officer recommendation.* (1) The hearing officer will issue a written recommendation(s) to CMS within 30 days of the close of the hearing unless an extension has been granted by CMS because the hearing officer has demonstrated that an extension is needed due to the complexity of the matter or heavy workload. In situations where there is more than one breach of contract action presented at the hearing, the hearing officer will issue separate recommendations for each breach of contract action.
 
@@ -142,4 +140,4 @@ This section implements an appeals process for suppliers that CMS has determined
 
 (4) *Effect of other remedies allowed by law.* If CMS decides to impose other remedies under § 414.422(g)(2)(iv), the details of the remedies will be included in the notice of breach of contract, as specified in paragraph (b)(2) of this section.
 
-[81 FR 77967, Nov. 4, 2016]
+[81 FR 77967, Nov. 4, 2016, as amended at 83 FR 57073, Nov. 14, 2018]

@@ -10,18 +10,16 @@
 
 (4) Public financial disclosure by the individual is not necessary under the circumstances.
 
-(b) *Procedure.* (1) Requests for waivers must be submitted to the Office of Government Ethics, via the requester's agency, within 10 days after an employee learns that he will hold a position which requires reporting and that he will serve in that position for more than 60 days in any calendar year, or upon serving in such a position for more than 60 days, whichever is earlier.
+(b) *Procedure.* (1) Requests for waivers must be submitted to the Office of Government Ethics, via the requester's agency, within 10 days after an employee learns that the employee will hold a position which requires reporting and that the employee will serve in that position for more than 60 days in any calendar year, or upon serving in such a position for more than 60 days, whichever is earlier.
 
-(2) The request shall consist of:
+(2) The request must consist of:
 
-(i) A cover letter which identifies the individual and his position, states the approximate number of days in a calendar year which he expects to serve in that position, and requests a waiver of public reporting requirements under this section;
+(i) A cover letter which identifies the individual and the position, states the approximate number of days in a calendar year which the employee expects to serve in that position, and requests a waiver of public reporting requirements under this section;
 
-(ii) An enclosure which states the reasons for the individual's belief that the conditions of paragraphs (a) (1) through (4) of this section are met in the particular case; and
+(ii) An enclosure which states the reasons for the individual's belief that the conditions of paragraphs (a)(1) through (4) of this section are met in the particular case; and
 
-(iii) The report otherwise required by this subpart B, as a factual basis for the determination required by this section. The report shall bear the legend at the top of page 1: “CONFIDENTIAL: WAIVER REQUEST PENDING PURSUANT TO 5 CFR 2634.205.”
+(iii) The report otherwise required by this subpart, as a factual basis for the determination required by this section. The report must bear the legend: “CONFIDENTIAL: WAIVER REQUEST PENDING PURSUANT TO 5 CFR 2634.205.”
 
-(3) The agency in which the individual serves shall advise the Office of Government Ethics as to the justification for a waiver.
+(3) The agency in which the individual serves must advise the Office of Government Ethics as to the justification for a waiver.
 
-(4) In the event a waiver is granted, the report shall not be subject to the public disclosure requirements of § 2634.603; however, the waiver request cover letter shall be subject to those requirements. In the event that a waiver is not granted, the confidential legend shall be removed from the report, and the report shall be subject to public disclosure; however, the waiver request cover letter shall not then be subject to public disclosure.
-
-(Approved by the Office of Management and Budget under control number 3209-0004)[57 FR 11806, Apr. 7, 1992, as amended at 59 FR 34756, July 7, 1994]
+(4) In the event a waiver is granted, the report will not be subject to the public disclosure requirements of § 2634.603; however, the waiver request cover letter will be subject to those requirements. In the event that a waiver is not granted, the confidential legend will be removed from the report, and the report will be subject to public disclosure; however, the waiver request cover letter will not then be subject to public disclosure.

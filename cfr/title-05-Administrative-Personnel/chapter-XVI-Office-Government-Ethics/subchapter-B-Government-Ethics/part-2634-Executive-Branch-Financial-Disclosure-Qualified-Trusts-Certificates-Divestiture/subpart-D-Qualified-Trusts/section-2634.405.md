@@ -1,6 +1,6 @@
 ##### § 2634.405 Standards for becoming an independent trustee or other fiduciary. #####
 
-(a) *Eligible entities.* An interested party must select an entity that meets the requirements of this regulation to serve as an independent trustee or other fiduciary. The type of entity that is allowed to serve as an independent trustee is a financial institution, not more than 10 percent of which is owned or controlled by a single individual, which is:
+(a) *Eligible entities.* An interested party must select an entity that meets the requirements of this part to serve as an independent trustee or other fiduciary. The type of entity that is allowed to serve as an independent trustee is a financial institution, not more than 10 percent of which is owned or controlled by a single individual, which is:
 
 (1) A bank, as defined in 12 U.S.C. 1841(c); or
 
@@ -12,7 +12,7 @@ By the terms of paragraph (3)(A)(i) of section 102(f) of the Act, an individual 
 
 (b) *Orientation.* After the interested party selects a proposed trustee, that proposed trustee should contact the Office of Government Ethics for an orientation about the qualified trust program.
 
-(c) *Independence requirements.* The Director shall determine that a proposed trustee is independent if:
+(c) *Independence requirements.* The Director will determine that a proposed trustee is independent if:
 
 (1) The entity is independent of and unassociated with any interested party so that it cannot be controlled or influenced in the administration of the trust by any interested party;
 
@@ -28,9 +28,9 @@ By the terms of paragraph (3)(A)(i) of section 102(f) of the Act, an individual 
 
 (d) *Required documents.* In order to make this determination, the proposed trustee must submit the following documentation to the Director:
 
-(1) A letter describing its past and current contacts, including banking and client relationships, with the employee, spouse, or minor or dependent child; and
+(1) A letter describing its past and current contacts, including banking and client relationships, with the interested party, spouse, or minor or dependent child; and
 
-(2) The Certificate of Independence, which must be executed in the form prescribed in appendix A to this part.
+(2) A Certificate of Independence, which follows the model Certificate of Independence prepared by the Office of Government Ethics. Any variation from the model document must be approved by the Director.
 
 (e) *Determination.* If the Director determines that the current relationships, if any, between the interested party and the independent trustee do not violate the independence requirements, these relationships will be disclosed in an annex to the trust instrument. No additional relationships with the independent trustee may be established unless they are approved by the Director.
 

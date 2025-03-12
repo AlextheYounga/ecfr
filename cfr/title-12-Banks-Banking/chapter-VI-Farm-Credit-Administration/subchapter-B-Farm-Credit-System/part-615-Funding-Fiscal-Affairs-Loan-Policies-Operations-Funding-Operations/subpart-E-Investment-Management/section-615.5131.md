@@ -1,43 +1,35 @@
 ##### § 615.5131 Definitions. #####
 
-Link to an amendment published at 83 FR 27499, June 12, 2018.
-
 For purposes of this subpart, the following definitions apply:
 
-*Asset-backed securities (ABS)* mean investment securities that provide for ownership of a fractional undivided interest or collateral interests in specific assets of a trust that are sold and traded in the capital markets. For the purposes of this subpart, ABS exclude mortgage securities that are defined in this section.
+*Asset-backed securities (ABS)* mean investment securities that provide for ownership of a fractional undivided interest or collateral interests in specific assets of a trust that are sold and traded in the capital markets. For the purposes of this subpart, ABS exclude mortgage-backed securities that are defined in this section.
 
-*Eurodollar time deposit* means a non-negotiable deposit denominated in United States dollars and issued by an overseas branch of a United States bank or by a foreign bank outside the United States.
+*Asset class* means a group of securities that exhibit similar characteristics and behave similarly in the marketplace. Asset classes include, but are not limited to, money market instruments, municipal securities, corporate bond securities, MBS, ABS, and any other asset class as determined by FCA.
 
-*Final maturity* means the last date on which the remaining principal amount of a security is due and payable (matures) to the registered owner. It does not mean the call date, the expected average life, the duration, or the weighted average maturity.
+*Country risk classification (CRC)* as defined in § 628.2 of this chapter.
 
-*General obligations* of a State or political subdivision means:
+*Diversified investment fund (DIF)* means an investment company registered under section 8 of the Investment Company Act of 1940.
 
-(1) The full faith and credit obligations of a State, the District of Columbia, the Commonwealth of Puerto Rico, a territory or possession of the United States, or a political subdivision thereof that possesses general powers of taxation, including property taxation; or
-
-(2) An obligation that is unconditionally guaranteed by an obligor possessing general powers of taxation, including property taxation.
-
-*Government agency* means the United States Government or an agency, instrumentality, or corporation of the United States Government whose obligations are fully and explicitly insured or guaranteed as to the timely repayment of principal and interest by the full faith and credit of the United States Government.
-
-*Government-sponsored agency* means an agency, instrumentality, or corporation chartered or established to serve public purposes specified by the United States Congress but whose obligations are not fully and explicitly insured or guaranteed by the full faith and credit of the United States Government, including but not limited to any Government-sponsored enterprise.
-
-*Liquid investments* are assets that can be promptly converted into cash without significant loss to the investor. In the money market, a security is liquid if the spread between its bid and ask price is narrow and a reasonable amount can be sold at those prices.
+*Government-sponsored enterprise (GSE)* means an entity established or chartered by the United States Government to serve public purposes specified by the United States Congress but whose debt obligations are not explicitly guaranteed by the full faith and credit of the United States Government.
 
 *Loans* are defined by § 621.2(f) of this chapter and they are calculated quarterly (as of the last day of March, June, September, and December) by using the average daily balance of loans during the quarter.
 
 *Market risk* means the risk to the financial condition of your institution because the value of your holdings may decline if interest rates or market prices change. Exposure to market risk is measured by assessing the effect of changing rates and prices on either the earnings or economic value of an individual instrument, a portfolio, or the entire institution.
 
-*Mortgage securities* means securities that are either:
+*Mortgage-backed securities* (MBS) means securities that are either:
 
-(1) Pass-through securities or participation certificates that represent ownership of a fractional undivided interest in a specified pool of residential (excluding home equity loans), multifamily or commercial mortgages, or
+(1) Pass-through securities or participation certificates that represent ownership of a fractional undivided interest in a specified pool of residential (excluding home equity loans), multifamily or commercial mortgages; or
 
-(2) A multiclass security (including collateralized mortgage obligations and real estate mortgage investment conduits) that is backed by a pool of residential, multifamily or commercial real estate mortgages, pass-through mortgage securities, or other multiclass mortgage securities.
+(2) A multiclass security (including collateralized mortgage obligations and real estate mortgage investment conduits) that is backed by a pool of residential, multifamily or commercial real estate mortgages, pass through MBS, or other multiclass MBSs.
 
-*Nationally Recognized Statistical Rating Organization (NRSRO)* means a rating organization that the Securities and Exchange Commission recognizes as an NRSRO.
+*Obligor* means an issuer, guarantor, or other person or entity who has an obligation to pay a debt, including interest due, by a specified date or when payment is demanded.
 
-*Revenue bond* means an obligation of a municipal government that finances a specific project or enterprise but it is not a full faith and credit obligation. The obligor pays a portion of the revenue generated by the project or enterprise to the bondholders.
+*Resecuritization* as defined in § 628.2 of this chapter.
 
-*Weighted average life (WAL)* means the average time until the investor receives the principal on a security, weighted by the size of each principal payment and calculated under specified prepayment assumptions.
+*Sponsor* means a person or entity that initiates a transaction by selling or pledging to a specially created issuing entity, such as a trust, a group of financial assets that the sponsor either has originated itself or has purchased.
+
+*United States (U.S.) Government agency* means an instrumentality of the U.S. Government whose obligations are fully guaranteed as to the timely payment of principal and interest by the full faith and credit of the U.S. Government.
 
 *You* means a Farm Credit bank, association, or service corporation.
 
-[64 FR 28895, May 28, 1999, as amended at 70 FR 51589, Aug. 31, 2005; 77 FR 66370, Nov. 5, 2012]
+[64 FR 28895, May 28, 1999, as amended at 70 FR 51589, Aug. 31, 2005; 77 FR 66370, Nov. 5, 2012; 83 FR 27499, June 12, 2018]

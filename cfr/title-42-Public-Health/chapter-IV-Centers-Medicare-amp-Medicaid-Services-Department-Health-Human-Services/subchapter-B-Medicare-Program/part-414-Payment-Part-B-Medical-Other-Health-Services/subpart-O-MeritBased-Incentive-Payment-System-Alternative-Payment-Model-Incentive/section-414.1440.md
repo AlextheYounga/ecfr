@@ -1,7 +1,5 @@
 ##### § 414.1440 Qualifying APM participant determination: All-payer combination option. #####
 
-Link to an amendment published at 83 FR 60091, November 23, 2018.
-
 (a) *Payments excluded from calculations.* (1) These calculations include a combination of both Medicare payments for Part B covered professional services and all other payments for all other payers, except for payments made by:
 
 (i) The Secretary of Defense for the costs of Department of Defense health care programs;
@@ -26,11 +24,11 @@ Link to an amendment published at 83 FR 60091, November 23, 2018.
 
 (4) *Unique patients.* CMS may count a single patient in the numerator and/or denominator for multiple different payers.
 
-(d) *QP Determinations under the All-Payer Combination Option.* (1) CMS performs QP determinations following the QP Performance Period using payment amount and/or patient count information submitted from January 1 through each of the respective QP determination dates: March 31, June 30, and August 31. CMS will use data for the same time periods for the Medicare and other payer portions of Threshold Score calculations under the All-Payer Combination Option.
+(d) *QP Determinations under the All-Payer Combination Option.*(1) CMS performs QP determinations following the QP Performance Period using payment amount and/or patient count information submitted from January 1 through each of the respective QP determination dates: March 31, June 30, and August 31. CMS will use data for the same time periods for the Medicare and other payer portions of Threshold Score calculations under the All-Payer Combination Option. CMS will use the payment amount or patient count method, applying the more advantageous of the two for both the Medicare and other payer portions of the Threshold score calculation, regardless of the method used for the Medicare Threshold Score calculation.
 
-(2) An APM Entity may request that CMS make QP determinations at the APM Entity level, and an eligible clinician may request that CMS make QP determinations at the eligible clinician level. CMS makes QP determinations at either the APM Entity or eligible clinician level. Eligible clinicians assessed at the eligible clinician level under the Medicare Option at § 414.1425(b)(2) will be assessed at the eligible clinician level only under the All-Payer Combination Option.
+(2) An APM Entity may request that CMS make QP determinations at the APM Entity level, an eligible clinician may request that CMS make QP determinations at the eligible clinician level, and an eligible clinician or an APM Entity may request that CMS makes QP determinations at the TIN-level in instances where all clinicians who reassigned billing rights to the TIN are participating in a single APM Entity. CMS makes QP determinations at either the APM Entity, eligible clinician, or TIN level. Eligible clinicians assessed at the eligible clinician level under the Medicare Option at § 414.1425(b)(2) will be assessed at the eligible clinician level only under the All-Payer Combination Option. Eligible Clinicians may meet the Medicare and the All-Payer Combination Option thresholds using the payment amount method for both thresholds, the patient account method for both thresholds, or the payment amount method for one threshold and the patient account method for the other threshold.
 
-(3) CMS uses data at the same level for the Medicare and other payer portions of Threshold Score calculations under the All-Payer Combination Option. When QP determinations are made at the eligible clinician level, and if the Medicare Threshold Score for the APM Entity group is higher than when calculated for the eligible clinician, CMS makes QP determinations using a weighted Medicare Threshold Score that are factored into an All-Payer Combination Option Threshold Score.
+(3) CMS uses data at the same level for the Medicare and other payer portions of Threshold Score calculations under the All-Payer Combination Option. When QP determinations are made at the eligible clinician or, at the TIN level when all clinicians who have reassigned billing rights to the TIN are included in a single APM Entity; and if the Medicare Threshold score for the APM Entity group is higher than when calculated for the eligible clinician or TIN, CMS makes QP determinations using a weighted Medicare Threshold Score that is factored into an All-Payer Combination Option Threshold Score.
 
 (e) *Information used to calculate Threshold Scores under the All-Payer Combination Option.* (1) An APM Entity or eligible clinician may request as set forth in § 414.1445(b)(2) that CMS determine whether a payment arrangement in which they participate meets the Other Payer Advanced APM criteria and may demonstrate participation in an Other Payer Advanced APM determined as a result of a request made in § 414.1445(a)(1) or (b)(1) in a form and manner specified by CMS.
 
@@ -46,4 +44,4 @@ Link to an amendment published at 83 FR 60091, November 23, 2018.
 
 (g) *Notification of QP determination.* CMS notifies eligible clinicians determined to be QPs or Partial QPs for a year as soon as practicable after QP calculations are conducted.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53963, Nov. 16, 2017]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53963, Nov. 16, 2017; 83 FR 60091, Nov. 23, 2018]

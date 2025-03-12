@@ -8,11 +8,11 @@
 
 (3) The report of the dissolution of the trust and a list of the assets of the trust at the time of the dissolution, categorized as to the value of each asset;
 
-(4) In the case of a blind trust, the lists provided by the independent trustee of assets placed in the trust by an interested party which have been sold; and
+(4) In the case of a blind trust, the lists provided by the independent trustee of initial assets placed in the trust by an interested party which have been sold or whose value is reduced to less than $1,000; and
 
 (5) The Certificates of Independence and Compliance.
 
-(b) *Documents exempt from public disclosure requirements.* The following documents are exempt from the public disclosure requirements of § 2634.603 and also shall not be disclosed to any interested party:
+(b) *Documents exempt from public disclosure requirements.* The following documents are exempt from the public disclosure requirements of § 2634.603 and also may not be disclosed to any interested party:
 
 (1) Any document (and the information contained therein) filed under the requirements of § 2634.408(a) and (c); and
 

@@ -1,0 +1,5 @@
+##### § 1291.2 Compliance dates. #####
+
+(a) *General January 1, 2021 compliance date.* Except as provided in paragraph (b) of this section, from December 28, 2018 to December 31, 2020, a Bank shall comply with either prior part 1291 (in 12 CFR part 1291 (January 1, 2018 edition)) or this part 1291, and on and after January 1, 2021, a Bank shall comply with this part 1291.
+
+(b) *January 1, 2020 compliance date for owner-occupied retention agreements; exception for adoption of proxies.* From December 28, 2018 to December 31, 2019, a Bank shall comply with either prior § 1291.9(a)(7) (in 12 CFR part 1291 (January 1, 2018 edition)) or § 1291.15(a)(7), and on and after January 1, 2020, a Bank shall comply with § 1291.15(a)(7), except that a Bank shall comply with § 1291.15(a)(7)(ii)(B) on the date set forth in the FHFA guidance on proxies referenced therein.

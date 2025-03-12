@@ -1,12 +1,10 @@
 ##### § 414.402 Definitions. #####
 
-Link to an amendment published at 83 FR 57072, Nov. 14, 2018.
-
 For purposes of this subpart, the following definitions apply:
 
 *Affected party* means a contract supplier that has been notified that their DMEPOS CBP contract will be terminated for a breach of contract.
 
-*Bid* means an offer to furnish an item for a particular price and time period that includes, where appropriate, any services that are directly related to the furnishing of the item.
+*Bid* means an offer to furnish an item or items for a particular price and time period that includes, where appropriate, any services that are directly related to the furnishing of the item or items.
 
 *Bidding entity* means the entity whose legal business name is identified in the “Form A: Business Organization Information” section of the bid.
 
@@ -16,7 +14,7 @@ For purposes of this subpart, the following definitions apply:
 
 *Competitive bidding program* means a program established under this subpart within a designated CBA.
 
-*Composite bid* means the sum of a supplier's weighted bids for all items within a product category for purposes of allowing a comparison across bidding suppliers.
+*Composite bid* means the bid submitted by the supplier for the lead item in the product category.
 
 *Contract supplier* means an entity that is awarded a contract by CMS to furnish items under a competitive bidding program.
 
@@ -68,6 +66,8 @@ For purposes of this subpart, the following definitions apply:
 
 *Item weight* is a number assigned to an item based on its beneficiary utilization rate using national data when compared to other items in the same product category.
 
+*Lead item* is the item in a product category with multiple items with the highest total nationwide Medicare allowed charges of any item in the product category prior to each competition.
+
 *Mail order contract supplier* is a contract supplier that furnishes items through the mail to beneficiaries who maintain a permanent residence in a competitive bidding area.
 
 *Mail order item* means any item (for example, diabetic testing supplies) shipped or delivered to the beneficiary's home, regardless of the method of delivery.
@@ -114,4 +114,4 @@ For purposes of this subpart, the following definitions apply:
 
 *Weighted bid* means the item weight multiplied by the bid price submitted for that item.
 
-[72 FR 18084, Apr. 10, 2007, as amended at 74 FR 2880, Jan. 16, 2009; 74 FR 62009, Nov. 25, 2009; 75 FR 73622, Nov. 29, 2010; 76 FR 70314, Nov. 10, 2011; 81 FR 77966, Nov. 4, 2016; 83 FR 21925, May 11, 2018]
+[72 FR 18084, Apr. 10, 2007, as amended at 74 FR 2880, Jan. 16, 2009; 74 FR 62009, Nov. 25, 2009; 75 FR 73622, Nov. 29, 2010; 76 FR 70314, Nov. 10, 2011; 81 FR 77966, Nov. 4, 2016; 83 FR 21925, May 11, 2018; 83 FR 57072, Nov. 14, 2018]

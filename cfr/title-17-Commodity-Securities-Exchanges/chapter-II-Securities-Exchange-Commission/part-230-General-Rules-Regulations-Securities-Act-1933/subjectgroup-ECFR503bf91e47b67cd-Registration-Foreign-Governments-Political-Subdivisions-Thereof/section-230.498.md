@@ -1,6 +1,6 @@
 ##### § 230.498 Summary Prospectuses for open-end management investment companies. #####
 
-Link to an amendment published at 83 FR 29203, June 22, 2018.Link to an amendment published at 83 FR 29204, June 22, 2018.
+Link to an amendment published at 83 FR 29204, June 22, 2018.
 
 (a) *Definitions.* For purposes of this section:
 
@@ -32,11 +32,21 @@ Link to an amendment published at 83 FR 29203, June 22, 2018.Link to an amendmen
 
 (v) The following legend:
 
-Before you invest, you may want to review the Fund's prospectus, which contains more information about the Fund and its risks. You can find the Fund's prospectus and other information about the Fund online at [\_\_\_\_]. You can also get this information at no cost by calling [\_\_\_\_] or by sending an e-mail request to [\_\_\_\_].
+Before you invest, you may want to review the Fund's prospectus, which contains more information about the Fund and its risks. You can find the Fund's prospectus, reports to shareholders, and other information about the Fund online at [\_\_\_]. You can also get this information at no cost by calling [\_\_\_] or by sending an email request to [\_\_\_].
 
-(A) The legend must provide an Internet address, other than the address of the Commission's electronic filing system; toll free (or collect) telephone number; and e-mail address that investors can use to obtain the Statutory Prospectus and other information. The Internet Web site address must be specific enough to lead investors directly to the Statutory Prospectus and other materials that are required to be accessible under paragraph (e)(1) of this section, rather than to the home page or other section of the Web site on which the materials are posted. The Web site could be a central site with prominent links to each document. The legend may indicate, if applicable, that the Statutory Prospectus and other information are available from a financial intermediary (such as a broker-dealer or bank) through which shares of the Fund may be purchased or sold.
+(A) The legend must provide a website address, other than the address of the Commission's electronic filing system; toll free (or collect) telephone number; and email address that investors can use to obtain the Statutory Prospectus and other information. The website address must be specific enough to lead investors directly to the Statutory Prospectus and other materials that are required to be accessible under paragraph (e)(1) of this section, rather than to the home page or other section of the website on which the materials are posted. The website could be a central site with prominent links to each document. The legend may indicate, if applicable, that the Statutory Prospectus and other information are available from a financial intermediary (such as a broker-dealer or bank) through which shares of the Fund may be purchased or sold.
 
-(B) If a Fund incorporates any information by reference into the Summary Prospectus, the legend must identify the type of document (e.g., Statutory Prospectus) from which the information is incorporated and the date of the document. If a Fund incorporates by reference a part of a document, the legend must clearly identify the part by page, paragraph, caption, or otherwise. If information is incorporated from a source other than the Statutory Prospectus, the legend must explain that the incorporated information may be obtained, free of charge, in the same manner as the Statutory Prospectus. A Fund may modify the legend to include a statement to the effect that the Summary Prospectus is intended for use in connection with a defined contribution plan that meets the requirements for qualification under section 401(k) of the Internal Revenue Code (26 U.S.C. 401(k)), a tax-deferred arrangement under section 403(b) or 457 of the Internal Revenue Code (26 U.S.C. 403(b) or 457), or a variable contract as defined in section 817(d) of the Internal Revenue Code (26 U.S.C. 817(d)), as applicable, and is not intended for use by other investors.
+(B) If a Fund incorporates any information by reference into the Summary Prospectus, the legend must identify the type of document (*e.g.,* Statutory Prospectus) from which the information is incorporated and the date of the document. If a Fund incorporates by reference a part of a document, the legend must clearly identify the part by page, paragraph, caption, or otherwise. If information is incorporated from a source other than the Statutory Prospectus, the legend must explain that the incorporated information may be obtained, free of charge, in the same manner as the Statutory Prospectus. A Fund may modify the legend to include a statement to the effect that the Summary Prospectus is intended for use in connection with a defined contribution plan that meets the requirements for qualification under section 401(k) of the Internal Revenue Code (26 U.S.C. 401(k)), a tax-deferred arrangement under section 403(b) or 457 of the Internal Revenue Code (26 U.S.C. 403(b) or 457), or a variable contract as defined in section 817(d) of the Internal Revenue Code (26 U.S.C. 817(d)), as applicable, and is not intended for use by other investors.
+
+(vi) The Summary Prospectus may provide instructions describing how a shareholder can elect to receive prospectuses or other documents and communications by electronic delivery.
+
+(vii) A statement to the following effect, if applicable:
+
+Beginning on [date], as permitted by regulations adopted by the Securities and Exchange Commission, paper copies of the Fund's shareholder reports will no longer be sent by mail, unless you specifically request paper copies of the reports from the Fund [or from your financial intermediary, such as a broker-dealer or bank]. Instead, the reports will be made available on a website, and you will be notified by mail each time a report is posted and provided with a website link to access the report.
+
+If you already elected to receive shareholder reports electronically, you will not be affected by this change and you need not take any action. You may elect to receive shareholder reports and other communications from the Fund [or your financial intermediary] electronically by [insert instructions].
+
+You may elect to receive all future reports in paper free of charge. You can inform the Fund [or your financial intermediary] that you wish to continue receiving paper copies of your shareholder reports by [insert instructions]. Your election to receive reports in paper will apply to all funds held with [the fund complex/your financial intermediary].
 
 (2) *Contents of the Summary Prospectus.* Except as otherwise provided in this paragraph (b), provide the information required or permitted by Items 2 through 8 of Form N-1A, and only that information, in the order required by the form. A Summary Prospectus may omit the explanation and information required by Instruction 2(c) to Item 4(b)(2) of Form N-1A.
 
@@ -118,4 +128,4 @@ Before you invest, you may want to review the Fund's prospectus, which contains 
 
 (5) *Compliance with paragraph (f) not a condition to reliance on paragraphs (c) and (d).* Compliance with this paragraph (f) is not a condition to the ability to rely on paragraph (c) or (d) of this section with respect to a Fund, and failure to comply with paragraph (f) does not negate the ability to rely on paragraph (c) or (d).
 
-[74 FR 4585, Jan. 26, 2009, as amended at 75 FR 9081, Feb. 26, 2010]
+[74 FR 4585, Jan. 26, 2009, as amended at 75 FR 9081, Feb. 26, 2010; 83 FR 29204, June 22, 2018]

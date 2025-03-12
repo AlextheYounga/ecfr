@@ -1,8 +1,6 @@
 ##### § 210.3 General provisions. #####
 
-Link to an amendment published at 83 FR 61518, Nov. 30, 2018.
-
-(a) *General.* Each Reserve Bank shall receive and handle items in accordance with this subpart, and shall issue operating circulars governing the details of its handling of items and other matters deemed appropriate by the Reserve Bank. The circulars may, among other things, classify cash items and noncash items, require separate sorts and letters, provide different closing times for the receipt of different classes or types of items, provide for instructions by an administrative Reserve Bank to other Reserve Banks, set forth terms of services, and establish procedures for adjustments on a Reserve Bank's books, including amounts, waiver of expenses, and payment of compensation.
+(a) *General.* Each Reserve Bank shall receive and handle items in accordance with this subpart, and shall issue operating circulars governing the details of its handling of items and other matters deemed appropriate by the Reserve Bank. The circulars may, among other things, classify cash items and noncash items, require separate sorts and letters, provide different closing times for the receipt of different classes or types of items, provide for instructions by an Administrative Reserve Bank to other Reserve Banks, set forth terms of services, and establish procedures for adjustments on a Reserve Bank's books, including amounts, waiver of expenses, and payment of compensation. As deemed appropriate by the Reserve Bank, the circulars may also require the sender to provide warranties and indemnities that only items and any noncash items the Reserve Banks have agreed to handle will be sent to the Reserve Banks. The Reserve Banks may provide to a subsequent collecting bank and to the paying bank any warranties and indemnities provided by the sender pursuant to this paragraph (a).
 
 (b) *Binding effect.* This subpart, together with subparts C and D of part 229 and the operating circulars of the Reserve Banks, are binding on all parties interested in an item handled by any Reserve Bank.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 83 FR 61518, Nov. 30, 2018.
 
 (f) *Relation to other law.* The provisions of this subpart supersede any inconsistent provisions of the Uniform Commercial Code, of any other state law, or of part 229 of this title, but only to the extent of the inconsistency.
 
-[45 FR 68634, Oct. 16, 1980, as amended at 51 FR 21744, June 16, 1986; 53 FR 21984, June 13, 1988; Reg. J, 59 FR 22965, May 4, 1994; 62 FR 48171, Sept. 15, 1997; Reg. J, 69 FR 62558, Oct. 27, 2004; 77 FR 21858, Apr. 12, 2012]
+[45 FR 68634, Oct. 16, 1980, as amended at 51 FR 21744, June 16, 1986; 53 FR 21984, June 13, 1988; Reg. J, 59 FR 22965, May 4, 1994; 62 FR 48171, Sept. 15, 1997; Reg. J, 69 FR 62558, Oct. 27, 2004; 77 FR 21858, Apr. 12, 2012; 83 FR 61518, Nov. 30, 2018]

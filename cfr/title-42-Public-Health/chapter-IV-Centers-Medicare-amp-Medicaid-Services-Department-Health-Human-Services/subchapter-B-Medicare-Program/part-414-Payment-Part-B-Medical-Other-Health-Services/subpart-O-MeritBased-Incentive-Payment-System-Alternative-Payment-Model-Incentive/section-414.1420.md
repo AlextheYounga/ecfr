@@ -32,7 +32,7 @@ Link to an amendment published at 83 FR 60090, November 23, 2018.
 
 (3) To meet the quality measure use criterion, a payment arrangement must use an outcome measure if there is an applicable outcome measure on the MIPS quality measure list.
 
-(d) *Financial risk.* To be an Other Payer Advanced APM, a payment arrangement must meet either the financial risk standard under paragraph (d)(1) or (2) of this section and the nominal amount standard under paragraph (d)(3) or (4) of this section, make payment using a full capitation arrangement under paragraph (d)(6) of this section, or be a Medicaid Medical Home Model with criteria comparable to an expanded Medical Home Model under section 1115A(c) of the Act.
+(d) *Financial risk.* To be an Other Payer Advanced APM, except as described in paragraph (d)(7) of this section, a payment arrangement must meet either the financial risk standard under paragraph (d)(1) or (2) of this section and the nominal amount standard under paragraph (d)(3) or (4) of this section, or be a Medicaid Medical Home Model with criteria comparable to an expanded Medical Home Model under section 1115A(c) of the Act.
 
 (1) *Generally applicable financial risk standard.* Except for APM Entities to which paragraph (d)(2) of this section applies, to be an Other Payer Advanced APM, an APM Entity must, based on whether an APM Entity's actual expenditures for which the APM Entity is responsible under the payment arrangement exceed expected expenditures during a specified period of performance do one or more of the following:
 
@@ -54,7 +54,7 @@ Link to an amendment published at 83 FR 60090, November 23, 2018.
 
 (3) *Generally applicable nominal amount standard.* Except for payment arrangements described in paragraph (d)(2) of this section, the total amount an APM Entity potentially owes a payer or foregoes under a payment arrangement must be at least:
 
-(i) For the 2019 and 2020 QP Performance Periods, 8 percent of the total combined revenues from the payer to providers and other entities under the payment arrangement if financial risk is expressly defined in terms of revenue; or, 3 percent of the expected expenditures for which an APM Entity is responsible under the payment arrangement; or
+(i) For QP Performance Periods 2019 through 2024, 8 percent of the total combined revenues from the payer to providers and other entities under the payment arrangement if financial risk is expressly defined in terms of revenue; or, 3 percent of the expected expenditures for which an APM Entity is responsible under the payment arrangement.
 
 (ii) Except for risk arrangements described under paragraph (d)(2) of this section, the risk arrangement must have:
 
@@ -80,8 +80,8 @@ Link to an amendment published at 83 FR 60090, November 23, 2018.
 
 (6) *Expected expenditures.* For the purposes of this section, expected expenditures is defined as the Other Payer Advanced APM benchmark, except for episode payment models, for which it is defined as the episode target price.
 
-(7) *Capitation.* A capitation arrangement meets this Other Payer Advanced APM criterion. For purposes of paragraph (d)(3) of this section, a capitation arrangement means a payment arrangement in which a per capita or otherwise predetermined payment is made under the APM for all items and services for which payment is made through the APM furnished to a population of beneficiaries, and no settlement is performed for the purpose of reconciling or sharing losses incurred or savings earned by the APM Entity. Arrangements made directly between CMS and Medicare Advantage Organizations under the Medicare Advantage program (42 U.S.C. 422) are not considered capitation arrangements for purposes of this paragraph.
+(7) *Capitation.* A full capitation arrangement meets this Other Payer Advanced APM criterion. For purposes of paragraph (d)(3) of this section, a full capitation arrangement means a payment arrangement in which a per capita or otherwise predetermined payment is made under the payment arrangement for all items and services furnished to a population of beneficiaries during a fixed period of time, and no settlement is performed for the purpose of reconciling or sharing losses incurred or savings earned by the participant. Arrangements made directly between CMS and Medicare Advantage Organizations under the Medicare Advantage program (42 U.S.C. 422) are not considered capitation arrangements for purposes of this paragraph (c)(7).
 
 (8) *Medicaid Medical Home Model 50 eligible clinician limit.* Notwithstanding paragraphs (d)(2) and (4) of this section, beginning in the 2019 QP Performance Period, if an APM Entity participating in a Medicaid Medical Home Model is owned and operated by an organization with 50 or more eligible clinicians whose Medicare billing rights have been reassigned to the TIN(s) of the organization(s) or any of the organization's subsidiary entities, the requirements of paragraphs (d)(1) and (3) of this section apply.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53961, Nov. 16, 2017; 83 FR 23610, May 22, 2018]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53961, Nov. 16, 2017; 83 FR 23610, May 22, 2018; 83 FR 60090, Nov. 23, 2018]

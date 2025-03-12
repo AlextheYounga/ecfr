@@ -1,7 +1,5 @@
 ##### § 414.422 Terms of contracts. #####
 
-Link to an amendment published at 83 FR 57073, Nov. 14, 2018.
-
 (a) *Basic rule.* CMS specifies the terms and conditions of the contracts entered into with contract suppliers under this subpart. A contract supplier must comply with all terms of its contract, including any option exercised by CMS, for the full duration of the contract period.
 
 (b) *Recompeting competitive bidding contracts.* CMS recompetes competitive bidding contracts at least once every 3 years.
@@ -32,13 +30,13 @@ Link to an amendment published at 83 FR 57073, Nov. 14, 2018.
 
 (i) Every CBA, product category, and location of the company being sold must be transferred to the new qualified owner who meets all competitive bidding requirements; i.e. financial, accreditation and licensure;
 
-(iii) All CBAs and product categories in the original contract that are not explicitly transferred by CMS remain unchanged in that original contract for the duration of the contract period unless transferred by CMS pursuant to a subsequent CHOW;
+(ii) All CBAs and product categories in the original contract that are not explicitly transferred by CMS remain unchanged in that original contract for the duration of the contract period unless transferred by CMS pursuant to a subsequent CHOW;
 
-(iv) All requirements of paragraph (d)(2) of this section are met; and
+(iii) All requirements of paragraph (d)(2) of this section are met; and
 
-(v) The sale of the distinct company includes all of the contract supplier's assets associated with the CBA and/or product category(s); and
+(iv) The sale of the distinct company includes all of the contract supplier's assets associated with the CBA and/or product category(s); and
 
-(vi) CMS determines that transfer of part of the original contract will not result in disruption of service or harm to beneficiaries.
+(v) CMS determines that transfer of part of the original contract will not result in disruption of service or harm to beneficiaries.
 
 (e) *Furnishing of items.* Except as otherwise prohibited under section 1877 of the Act, or any other applicable law or regulation:
 
@@ -72,4 +70,4 @@ Link to an amendment published at 83 FR 57073, Nov. 14, 2018.
 
 (iv) Avail itself of other remedies allowed by law.
 
-[72 FR 18085, Apr. 10, 2007, as amended at 74 FR 2881, Jan. 16, 2009; 75 FR 73623, Nov. 29, 2010; 76 FR 70315, Nov. 10, 2011; 79 FR 66264, Nov. 6, 2014; 81 FR 77967, Nov. 4, 2016]
+[72 FR 18085, Apr. 10, 2007, as amended at 74 FR 2881, Jan. 16, 2009; 75 FR 73623, Nov. 29, 2010; 76 FR 70315, Nov. 10, 2011; 79 FR 66264, Nov. 6, 2014; 81 FR 77967, Nov. 4, 2016; 83 FR 57073, Nov. 14, 2018]

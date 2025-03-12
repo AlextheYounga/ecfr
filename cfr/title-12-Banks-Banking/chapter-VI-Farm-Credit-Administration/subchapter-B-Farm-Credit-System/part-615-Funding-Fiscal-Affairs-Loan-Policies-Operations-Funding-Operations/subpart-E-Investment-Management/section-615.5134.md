@@ -1,8 +1,6 @@
 ##### § 615.5134 Liquidity reserve. #####
 
-Link to an amendment published at 83 FR 27501, June 12, 2018.
-
-(a) *Liquidity policy* - (1) *Board responsibility.* The board of each Farm Credit bank must adopt a written liquidity policy. The liquidity policy must be compatible with the investment management policies that the bank's board adopts pursuant to § 615.5133 of this part. At least once every year, the bank's board must review its liquidity policy, assess the sufficiency of its liquidity policy, and make any revisions it deems necessary. The board of each Farm Credit bank must ensure that adequate internal controls are in place so that management complies with and carries out this liquidity policy.
+(a) *Liquidity policy*—(1) *Board responsibility.* The board of each Farm Credit bank must adopt a written liquidity policy. The liquidity policy must be compatible with the investment management policies that the bank's board adopts pursuant to § 615.5133 of this part. At least once every year, the bank's board must review its liquidity policy, assess the sufficiency of its liquidity policy, and make any revisions it deems necessary. The board of each Farm Credit bank must ensure that adequate internal controls are in place so that management complies with and carries out this liquidity policy.
 
 (2) *Policy content.* At a minimum, the liquidity policy of each Farm Credit bank must address:
 
@@ -24,22 +22,20 @@ Link to an amendment published at 83 FR 27501, June 12, 2018.
 
 (3) Days 31 through 90 with Level 1, Level 2, and Level 3 instruments.
 
-|Liquidity level|                                                                                       Instruments                                                                                       |              Discount  <br/>(multiply by)              |
-|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-|    Level 1    |                                                             • Cash, including cash due from traded but not yet settled debt                                                             |                      100 percent.                      |
-|               |                                                                          • Overnight money market investments                                                                           |                      100 percent.                      |
-|               |                                                  • Obligations of the United States with a final remaining maturity of 3 years or less                                                  |                      97 percent.                       |
-|               |                         • Government-sponsored agency senior debt securities that mature within 60 days, excluding securities issued by the Farm Credit System                          |                      95 percent.                       |
-|               |                                                       • Diversified investment funds comprised exclusively of Level 1 instruments                                                       |                       95 percent                       |
-|    Level 2    |                                                                            • Additional Level 1 investments                                                                             |     Discount for each Level 1 investment applies.      |
-|               |                                                 • Obligations of the United States with a final remaining maturity of more than 3 years                                                 |                      97 percent.                       |
-|               |             • Mortgage-backed securities that are explicitly backed by the full faith and credit of the United States as to the timely repayment of principal and interest              |                      95 percent.                       |
-|               |                                                   • Diversified investment funds comprised exclusively of Levels 1 and 2 instruments                                                    |                      95 percent.                       |
-|    Level 3    |                                                                       • Additional Level 1 or Level 2 investments                                                                       |Discount for each Level 1 or Level 2 investment applies.|
-|               |                   • Government-sponsored agency senior debt securities with maturities exceeding 60 days, excluding senior debt securities of the Farm Credit System                    |       93 percent for all instruments in Level 3.       |
-|               |• Government-sponsored agency mortgage-backed securities that the timely repayment of principal and interest are not explicitly backed by the full faith and credit of the United States.|                                                        |
-|               |                                                                   • Money market instruments maturing within 90 days.                                                                   |                                                        |
-|               |                                                 • Diversified investment funds comprised exclusively of levels 1, 2, and 3 instruments.                                                 |                                                        |
+|Liquidity level|   |                                                       Instruments                                                        |        Discount (multiply by)        |
+|---------------|---|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+|    Level 1    |   |                             • Cash, including cash due from traded but not yet settled debt                              |             100 percent              |
+|               |   |                                           • Overnight money market investment                                            |             100 percent              |
+|               |   |               • Obligations of U.S. Government agencies with a final remaining maturity of 3 years or less               |              97 percent              |
+|               |   |      • GSE senior debt securities that mature within 60 days, excluding securities issued by the Farm Credit System      |              95 percent              |
+|               |   |                       • Diversified investment funds comprised exclusively of Level 1 instruments                        |              95 percent              |
+|    Level 2    |   |              • Obligations of U.S. Government agencies with a final remaining maturity of more than 3 years              |              97 percent              |
+|               |   |     • MBS that are fully guaranteed by a U.S. Government agency as to the timely repayment of principal and interest     |              95 percent              |
+|               |   |                    • Diversified investment funds comprised exclusively of Levels 1 and 2 instruments                    |              95 percent              |
+|    Level 3    |   |• GSE senior debt securities with maturities exceeding 60 days, excluding senior debt securities of the Farm Credit System|93 percent for all Level 3 instruments|
+|               |   |              • MBS that are fully guaranteed by a GSE as to the timely repayment of principal and interest               |                                      |
+|               |   |                                    • Money market instruments maturing within 90 days                                    |                                      |
+|               |   |                  • Diversified investment funds comprised exclusively of levels 1, 2, and 3 instruments                  |                                      |
 
 (c) *Unencumbered.* All investments that a Farm Credit bank holds in its liquidity reserve and supplemental liquidity buffer in accordance with this section must be unencumbered. For the purpose of this section, an investment is unencumbered if it is free of lien, and it is not explicitly or implicitly pledged to secure, collateralize, or enhance the credit of any transaction. Additionally, an unencumbered investment held in the liquidity reserve cannot be used as a hedge against interest rate risk if liquidation of that particular investment would expose the bank to a material risk of loss.
 
@@ -65,4 +61,4 @@ Link to an amendment published at 83 FR 27501, June 12, 2018.
 
 (4) Establish a process for managing events that imperil the bank's liquidity, and assign appropriate personnel and implement executable action plans that carry out the CFP.
 
-[78 FR 23455, Apr. 18, 2013; 78 FR 26701, May 8, 2013]
+[78 FR 23455, Apr. 18, 2013; 78 FR 26701, May 8, 2013, as amended at 83 FR 27501, June 12, 2018]

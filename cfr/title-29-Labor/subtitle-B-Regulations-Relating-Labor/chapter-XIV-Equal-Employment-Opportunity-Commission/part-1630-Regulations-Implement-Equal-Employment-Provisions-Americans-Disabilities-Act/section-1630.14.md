@@ -1,7 +1,5 @@
 ##### § 1630.14 Medical examinations and inquiries specifically permitted. #####
 
-Link to an amendment published at 83 FR 65296, Dec. 20, 2018.
-
 (a) *Acceptable pre-employment inquiry.* A covered entity may make pre-employment inquiries into the ability of an applicant to perform job-related functions, and/or may ask an applicant to describe or to demonstrate how, with or without reasonable accommodation, the applicant will be able to perform job-related functions.
 
 (b) *Employment entrance examination.* A covered entity may require a medical examination (and/or inquiry) after making an offer of employment to a job applicant and before the applicant begins his or her employment duties, and may condition an offer of employment on the results of such examination (and/or inquiry), if all entering employees in the same job category are subjected to such an examination (and/or inquiry) regardless of disability.
@@ -50,15 +48,7 @@ Link to an amendment published at 83 FR 65296, Dec. 20, 2018.
 
 (C) Describes the restrictions on the disclosure of the employee's medical information, the employer representatives or other parties with whom the information will be shared, and the methods that the covered entity will use to ensure that medical information is not improperly disclosed (including whether it complies with the measures set forth in the HIPAA regulations codified at 45 CFR parts 160 and 164).
 
-(3) *Incentives offered for employee wellness programs.* The use of incentives (financial or in-kind) in an employee wellness program, whether in the form of a reward or penalty, will not render the program involuntary if the maximum allowable incentive available under the program (whether the program is a participatory program or a health-contingent program, or some combination of the two, as those terms are defined in regulations at 26 CFR 54.9802-1(f)(1)(ii) and (iii), 29 CFR 2590.702(f)(1)(ii) and (iii), and 45 CFR 146.121(f)(1)(ii) and (iii), respectively) does not exceed:
-
-(i) Thirty percent of the total cost of self-only coverage (including both the employee's and employer's contribution) of the group health plan in which the employee is enrolled when participation in the wellness program is limited to employees enrolled in the plan;
-
-(ii) Thirty percent of the total cost of self-only coverage under the covered entity's group health plan, where the covered entity offers only one group health plan and participation in a wellness program is offered to all employees regardless of whether they are enrolled in the plan;
-
-(iii) Thirty percent of the total cost of the lowest cost self-only coverage under a major medical group health plan where the covered entity offers more than one group health plan but participation in the wellness program is offered to employees whether or not they are enrolled in a particular plan; and
-
-(iv) Thirty percent of the cost of self-only coverage under the second lowest cost Silver Plan for a 40-year-old non-smoker on the state or federal health care Exchange in the location that the covered entity identifies as its principal place of business if the covered entity does not offer a group health plan or group health insurance coverage.
+(3) [Reserved]
 
 (4)(i) *Confidentiality.* Information obtained under paragraph (d) of this section regarding the medical condition or history of any employee shall be collected and maintained on separate forms and in separate medical files and be treated as a confidential medical record, except that:
 
@@ -78,4 +68,4 @@ Link to an amendment published at 83 FR 65296, Dec. 20, 2018.
 
 (6) The “safe harbor” provisions in § 1630.16(f) of this part applicable to health insurance, life insurance, and other benefit plans do not apply to wellness programs, even if such plans are part of a covered entity's health plan.
 
-[56 FR 35734, July 26, 1991, as amended at 81 FR 31139, May 17, 2016]
+[56 FR 35734, July 26, 1991, as amended at 81 FR 31139, May 17, 2016; 83 FR 65296, Dec. 20, 2018]

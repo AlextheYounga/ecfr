@@ -1,7 +1,5 @@
 ##### § 414.1370 APM scoring standard under MIPS. #####
 
-Link to an amendment published at 83 FR 60080, November 23, 2018.
-
 (a) *General.* The APM scoring standard is the MIPS scoring methodology applicable for MIPS eligible clinicians identified on the Participation List for the performance period of an APM Entity participating in a MIPS APM.
 
 (b) *Criteria for MIPS APMs.* MIPS APMs are those in which:
@@ -10,7 +8,7 @@ Link to an amendment published at 83 FR 60080, November 23, 2018.
 
 (2) The APM is designed such that APM Entities participating in the APM include at least one MIPS eligible clinician on a Participation List;
 
-(3) The APM bases payment on cost/utilization and quality measures; and
+(3) The APM bases payment on quality measures and cost/utilization; and
 
 (4) The APM is not either of the following:
 
@@ -40,7 +38,7 @@ Link to an amendment published at 83 FR 60080, November 23, 2018.
 
 (1) If a Shared Savings Program ACO does not report data on quality measures as required by the Shared Savings Program under § 425.508 of this chapter, each ACO participant TIN will be treated as a unique APM Entity for purposes of the APM scoring standard and the ACO participant TINs may report data for the MIPS quality performance category according to the MIPS submission and reporting requirements.
 
-(2) MIPS eligible clinicians who have elected to participate in a virtual group and who are also on a MIPS APM Participation List will be included in the assessment under MIPS for purposes of producing a virtual group score and under the APM scoring standard for purposes of producing an APM Entity score. The MIPS payment adjustment for these eligible clinicians is based solely on their APM Entity score.
+(2) MIPS eligible clinicians who participate in a group or have elected to participate in a virtual group and who are also on a MIPS APM Participation List will be included in the assessment under MIPS for purposes of producing a group or virtual group score and under the APM scoring standard for purposes of producing an APM Entity score. The MIPS payment adjustment for these eligible clinicians is based solely on their APM Entity score; if the APM Entity group is exempt from MIPS all eligible clinicians within that APM Entity group are also exempt from MIPS.
 
 (g) *MIPS performance category scoring under the APM scoring standard* - (1) *Quality* - (i)*MIPS APMs that require APM Entities to submit quality data using the CMS Web Interface.* (A) *Quality Performance Category Score.* The quality performance category score for a MIPS performance period is calculated for the APM Entity using the data submitted by the APM Entity according to the terms of the MIPS APM, including data on measures submitted through the CMS Web Interface and other measures specified by CMS through notice and comment rulemaking for the APM scoring standard.
 
@@ -68,17 +66,17 @@ Link to an amendment published at 83 FR 60080, November 23, 2018.
 
 (ii) [Reserved]
 
-(4) *Advancing care information.* (i) Each Shared Savings Program ACO participant TIN must report data on the Advancing Care Information (ACI) performance category separately from the ACO, as specified in § 414.1375(b)(2). The ACO participant TIN scores are weighted according to the number of MIPS eligible clinicians in each TIN as a proportion of the total number of MIPS eligible clinicians in the APM Entity group, and then aggregated to determine an APM Entity score for the ACI performance category.
+(4) *Promoting Interoperability.* (i) For the 2019 and 2020 MIPS payment years, each Shared Savings Program ACO participant TIN must report data on the Promoting Interoperability performance category separately from the ACO, as specified in § 414.1375(b)(2). The ACO participant TIN scores are weighted according to the number of MIPS eligible clinicians in each TIN as a proportion of the total number of MIPS eligible clinicians in the APM Entity group, and then aggregated to determine an APM Entity score for the ACI performance category.
 
-(ii) For APM Entities in MIPS APMs other than the Shared Savings Program, CMS uses one score for each MIPS eligible clinician in the APM Entity group to derive a single average APM Entity score for the ACI performance category. The score for each MIPS eligible clinician is the higher of either:
+(ii) For the 2019 and 2020 MIPS payment years, for APM Entities in MIPS APMs other than the Shared Savings Program, CMS uses one score for each MIPS eligible clinician in the APM Entity group to derive a single average APM Entity score for the Promoting Interoperability performance category. Beginning with the 2021 MIPS payment year, for APM Entities in MIPS APMs including the Shared Savings Program, CMS uses one score for each MIPS eligible clinician in the APM Entity group to derive a single average APM Entity score for the Promoting Interoperability performance category. The score for each MIPS eligible clinician is the higher of either:
 
-(A) A group score based on the measure data for the advancing care information performance category reported by a TIN for the MIPS eligible clinician according to the MIPS submission and reporting requirements for groups; or
+(A) A group score based on the measure data for the Promoting Interoperability performance category reported by a TIN for the MIPS eligible clinician according to MIPS submission and reporting requirements for groups; or
 
-(B) An individual score based on the measure data for the advancing care information performance category reported by the MIPS eligible clinician according to the MIPS submission and reporting requirements for individuals.
+(B) An individual score based on the measure data for the Promoting Interoperability performance category reported by the MIPS eligible clinician according to MIPS submission and reporting requirements for individuals.
 
-(iii) In the event that a participant TIN in the Shared Savings Program or individual MIPS eligible clinician participating in a MIPS APM besides the Shared Savings Program receives an exception under section 1848(o)(2)(D) of the Act from the advancing care information performance category reporting requirements, such participant TIN or eligible clinician will be assigned a null score when CMS calculates the APM Entity's advancing care information performance category score under the APM scoring standard.
+(iii) In the event that a MIPS eligible clinician participating in a MIPS APM receives an exception from the Promoting Interoperability performance category reporting requirements, such eligible clinician will be assigned a null score when CMS calculates the APM Entity's Promoting Interoperability performance category score under the APM scoring standard.
 
-(A) If all participant TINs or MIPS eligible clinicians in an APM Entity have been excepted from reporting the advancing care information performance category, the performance category weight will be reweighted to zero for the APM Entity for that MIPS performance period.
+(A) If all MIPS eligible clinicians in an APM Entity have been excepted from reporting the Promoting Interoperability performance category, the performance category weight will be reweighted to zero for the APM Entity for that MIPS performance period.
 
 (B) [Reserved]
 
@@ -94,7 +92,7 @@ Link to an amendment published at 83 FR 60080, November 23, 2018.
 
 (ii) For Other MIPS APMs, 25 percent for 2017, 20 percent beginning in 2018.
 
-(4) *Advancing care information.* (i) For MIPS APMs that require use of the CMS Web Interface: 30 percent.
+(4) *Promoting Interoperability.* (i) For MIPS APMs that require use of the CMS Web Interface: 30 percent.
 
 (ii) For Other MIPS APMs, 25 percent for 2017, 30 percent beginning in 2018.
 
@@ -102,11 +100,11 @@ Link to an amendment published at 83 FR 60080, November 23, 2018.
 
 (i) If CMS reweights the quality performance category to 0 percent:
 
-(A) In 2017, the improvement activities performance category is reweighted to 25 percent and the advancing care information performance category is reweighted to 75 percent; and
+(A) In 2017, the improvement activities performance category is reweighted to 25 percent and the Promoting Interoperability performance category is reweighted to 75 percent; and
 
-(B) Beginning in 2018, the advancing care information performance category is reweighted to 75 percent and the improvement activities performance category is reweighted to 25 percent.
+(B) Beginning in 2018, the Promoting Interoperability performance category is reweighted to 75 percent and the improvement activities performance category is reweighted to 25 percent.
 
-(ii) If CMS reweights the advancing care information performance category to 0 percent:
+(ii) If CMS reweights the Promoting Interoperability performance category to zero percent:
 
 (A) In 2017, the quality performance category is reweighted to 75 percent and the improvement activities performance category will remain at 25 percent.
 
@@ -114,4 +112,4 @@ Link to an amendment published at 83 FR 60080, November 23, 2018.
 
 (i) *Total APM Entity Score.* CMS scores each performance category and then multiplies each performance category score by the applicable performance category weight. CMS then calculates the sum of each weighted performance category score and then applies all applicable adjustments. APM Entities will receive MIPS bonuses applied to the final score as set forth in § 414.1380(b).
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53953, Nov. 16, 2017; 83 FR 23610, May 22, 2018]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53953, Nov. 16, 2017; 83 FR 23610, May 22, 2018; 83 FR 60080, Nov. 23, 2018]

@@ -1,18 +1,12 @@
 ##### § 419.46 Participation, data submission, and validation requirements under the Hospital Outpatient Quality Reporting (OQR) Program. #####
 
-Link to an amendment published at 83 FR 59179, November 21, 2018.
-
 (a) *Participation in the Hospital OQR Program.* To participate in the Hospital OQR Program, a hospital as defined in section 1886(d)(1)(B) of the Act and is paid under the OPPS must -
 
 (1) Register on the QualityNet website before beginning to report data;
 
 (2) Identify and register a QualityNet security administrator as part of the registration process under paragraph (a)(1) of this section; and
 
-(3) Complete and submit an online participation form available at the QualityNet.org Web site if this form has not been previously completed, if a hospital has previously withdrawn, or if the hospital acquires a new CMS Certification Number (CCN). For Hospital OQR Program purposes, hospitals that share the same CCN are required to complete a single online participation form. Once a hospital has submitted a participation form, it is considered to be an active Hospital OQR Program participant until such time as it submits a withdrawal form to CMS or no longer has an effective Medicare provider agreement. Deadlines for the participation form are described in paragraphs (a)(3)(i) and (ii) of this section, and are based on the date identified as a hospital's Medicare acceptance date.
-
-(i) If a hospital has a Medicare acceptance date before January 1 of the year prior to the affected annual payment update, the hospital must complete and submit to CMS a completed Hospital OQR Notice of Participation Form by July 31 of the calendar year prior to the affected annual payment update.
-
-(ii) If a hospital has a Medicare acceptance date on or after January 1 of the year prior to the affected annual payment update, the hospital must submit a completed participation form no later than 180 days from the date identified as its Medicare acceptance date.
+(3) Submit at least one data element.
 
 (b) *Withdrawal from the Hospital OQR Program.* A participating hospital may withdraw from the Hospital OQR Program by submitting to CMS a withdrawal form that can be found in the secure portion of the QualityNet website. The hospital may withdraw any time up to and including August 31 of the year prior to the affected annual payment updates. A withdrawn hospital will not be able to later sign up to participate in that payment update, is subject to a reduced annual payment update as specified under § 419.43(h), and is required to submit a new participation form in order to participate in any future year of the Hospital OQR Program.
 
@@ -72,4 +66,36 @@ Link to an amendment published at 83 FR 59179, November 21, 2018.
 
 (2) CMS approves an application for an entity to administer the OAS CAHPS Survey as a vendor on behalf of one or more hospital outpatient departments when the applicant has met the Minimum Survey Requirements and Rules of Participation that can be found on the official OAS CAHPS website, and agrees to comply with the current survey administration protocols that can be found on the official OAS CAHPS Survey website. An entity must be an approved OAS CAHPS Survey vendor in order to administer and submit OAS CAHPS Survey data to CMS on behalf of one or more hospital outpatient departments.
 
-[78 FR 75196, Dec. 10, 2013, as amended at 79 FR 67031, Nov. 10, 2014; 80 FR 70606, Nov. 13, 2015; 81 FR 79879, Nov. 14, 2016; 82 FR 52637, Nov. 13, 2017; 82 FR 59497, Dec. 14, 2017]
+(h) *Retention and removal of quality measures under the Hospital OQR Program* - (1) *General rule for the retention of quality measures.* Quality measures adopted for the Hospital OQR Program measure set for a previous payment determination year are retained for use in subsequent payment determination years, except when they are removed, suspended, or replaced as set forth in paragraphs (h)(2) and (3) of this section.
+
+(2) *Immediate measure removal.* For cases in which CMS believes that the continued use of a measure as specified raises patient safety concerns, CMS will immediately remove a quality measure from the Hospital OQR Program and will promptly notify hospitals and the public of the removal of the measure and the reasons for its removal through the Hospital OQR Program ListServ and the QualityNet website.
+
+(3) *Measure removal, suspension, or replacement through the rulemaking process.* Unless a measure raises specific safety concerns as set forth in paragraph (h)(2) of this section, CMS will use the regular rulemaking process to remove, suspend, or replace quality measures in the Hospital OQR Program to allow for public comment.
+
+(i) *Factors for consideration of removal of quality measures.* CMS will weigh whether to remove measures based on the following factors:
+
+(A) *Factor 1.* Measure performance among hospitals is so high and unvarying that meaningful distinctions and improvements in performance can no longer be made (“topped out” measures);
+
+(B) *Factor 2.* Performance or improvement on a measure does not result in better patient outcomes;
+
+(C) *Factor 3.* A measure does not align with current clinical guidelines or practice;
+
+(D) *Factor 4.* The availability of a more broadly applicable (across settings, populations, or conditions) measure for the topic;
+
+(E) *Factor 5.* The availability of a measure that is more proximal in time to desired patient outcomes for the particular topic;
+
+(F) *Factor 6.* The availability of a measure that is more strongly associated with desired patient outcomes for the particular topic;
+
+(G) *Factor 7.* Collection or public reporting of a measure leads to negative unintended consequences other than patient harm; and
+
+(H) *Factor 8.* The costs associated with a measure outweigh the benefit of its continued use in the program.
+
+(ii) *Criteria to determine topped-out measures.* For the purposes of the Hospital OQR Program, a measure is considered to be topped-out under paragraph (h)(3)(i)(A) of this section when it meets both of the following criteria:
+
+(A) Statistically indistinguishable performance at the 75th and 90th percentiles (defined as when the difference between the 75th and 90th percentiles for a hospital's measure is within two times the standard error of the full data set); and
+
+(B) A truncated coefficient of variation less than or equal to 0.10.
+
+(iii) *Application of measure removal factors.* The benefits of removing a measure from the Hospital OQR Program will be assessed on a case-by-case basis. Under this case-by-case approach, a measure will not be removed solely on the basis of meeting any specific factor.
+
+[78 FR 75196, Dec. 10, 2013, as amended at 79 FR 67031, Nov. 10, 2014; 80 FR 70606, Nov. 13, 2015; 81 FR 79879, Nov. 14, 2016; 82 FR 52637, Nov. 13, 2017; 82 FR 59497, Dec. 14, 2017; 83 FR 59179, Nov. 21, 2018]

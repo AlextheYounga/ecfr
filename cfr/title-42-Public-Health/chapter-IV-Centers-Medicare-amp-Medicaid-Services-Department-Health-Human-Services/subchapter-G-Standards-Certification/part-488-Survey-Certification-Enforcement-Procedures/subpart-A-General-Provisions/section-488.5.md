@@ -1,7 +1,5 @@
 ##### § 488.5 Application and re-application procedures for national accrediting organizations. #####
 
-Link to an amendment published at 83 FR 56631, Nov. 13, 2018.
-
 (a) *Information submitted with application.* A national accrediting organization applying to CMS for approval or re-approval of an accreditation program under § 488.4 must furnish CMS with all of the following information and materials to demonstrate that the program provides reasonable assurance that the entities accredited under the program meet or exceed the applicable Medicare conditions or requirements. This information must include the following:
 
 (1) Documentation that demonstrates the organization meets the definition of a “national accrediting organization” under § 488.1 as it relates to the accreditation program.
@@ -64,9 +62,11 @@ Link to an amendment published at 83 FR 56631, Nov. 13, 2018.
 
 (17) A statement that it will:
 
-(i) Provide written notification to CMS and to all providers or suppliers accredited under a CMS-approved accreditation program at least 90 calendar days in advance of the effective date of a decision by the organization to voluntarily terminate its CMS-approved accreditation program, including the implications for their deemed status in accordance with § 488.8(g)(2); and
+(i) Provide written notification to CMS and to all providers or suppliers accredited under a CMS-approved accreditation program at least 90 calendar days in advance of the effective date of a decision by the organization to voluntarily terminate its CMS-approved accreditation program, including the implications for their deemed status in accordance with § 488.8(g)(2);
 
-(ii) Adhere to the requirements for written notice to its accredited providers or suppliers at § 488.8(e) in the case of an involuntary termination.
+(ii) Adhere to the requirements for written notice to its accredited providers or suppliers at § 488.8(e) in the case of an involuntary termination; and
+
+(iii) Include a written statement that if a fully accredited and deemed facility in good standing provides written notification that they wish to voluntarily withdraw from the accrediting organization's CMS-approved accreditation program, the accrediting organization must continue the facility's current accreditation in full force and effect until the effective date of withdrawal identified by the facility or the expiration date of the term of accreditation, whichever comes first.
 
 (18) A statement that it will provide written notification to CMS of any proposed changes in the organization's CMS-approved accreditation program and that it agrees not to implement the proposed changes without prior written notice of continued program approval from CMS except as provided for at § 488.8(b)(2).
 
@@ -106,4 +106,4 @@ Link to an amendment published at 83 FR 56631, Nov. 13, 2018.
 
 (ii) *Disapproval.* If CMS does not approve the accrediting organization's accreditation program, the final notice describes, except in the case of a skilled nursing facility accreditation program, how the organization fails to provide reasonable assurance. In the case of an application for a skilled nursing facility accreditation program, disapproval may be based on the program's failure to provide reasonable assurance, or on CMS's decision to exercise its discretion in accordance with section 1865(a)(1)(B) of the Act. The final notice specifies the effective date of the decision.
 
-[80 FR 29835, May 22, 2015, as amended at 82 FR 38516, Aug. 14, 2017; 82 FR 46143, Oct. 4, 2017]
+[80 FR 29835, May 22, 2015, as amended at 82 FR 38516, Aug. 14, 2017; 82 FR 46143, Oct. 4, 2017; 83 FR 56631, Nov. 13, 2018]

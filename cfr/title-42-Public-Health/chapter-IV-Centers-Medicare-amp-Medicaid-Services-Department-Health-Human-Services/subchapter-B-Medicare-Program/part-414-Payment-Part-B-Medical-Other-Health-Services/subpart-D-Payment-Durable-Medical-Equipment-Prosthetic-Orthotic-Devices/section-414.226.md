@@ -1,7 +1,5 @@
 ##### § 414.226 Oxygen and oxygen equipment. #####
 
-Link to an amendment published at 83 FR 57071, Nov. 14, 2018.
-
 (a) *Payment rules* - (1) *Oxygen equipment.* Payment for rental of oxygen equipment is made based on a monthly fee schedule amount during the period of medical need, but for no longer than a period of continuous use of 36 months. A period of continuous use is determined under the provisions in § 414.230.
 
 (2) *Oxygen contents.* Payment for purchase of oxygen contents is made based on a monthly fee schedule amount until medical necessity ends.
@@ -32,7 +30,7 @@ Link to an amendment published at 83 FR 57071, Nov. 14, 2018.
 
 (5) For 2005 and 2006, the fee schedule amounts determined under paragraph (b)(4) of this section are reduced using the methodology described in section 1834(a)(21)(A) of the Act.
 
-(c) *Monthly fee schedule amount for items furnished for years after 2006.* (1) For 2007, national limited monthly payment rates are calculated and paid as the monthly fee schedule amounts for the following classes of items:
+(c) *Monthly fee schedule amount for items furnished from 2007 through 2018.*(1) For 2007, national limited monthly payment rates are calculated and paid as the monthly fee schedule amounts for the following classes of items:
 
 (i) Stationary oxygen equipment (including stationary concentrators) and oxygen contents (stationary and portable).
 
@@ -52,11 +50,11 @@ Link to an amendment published at 83 FR 57071, Nov. 14, 2018.
 
 (5) The national limited monthly payment rate for items described in paragraphs (c)(1)(iv) and (c)(1)(v) of this section is equal to 50 percent of the weighted average fee schedule amounts established under paragraph (b)(3) of this section for items described in paragraph (b)(1)(iii) of this section.
 
-(6) Beginning in 2008, CMS makes an annual adjustment to the national limited monthly payment rate for items described in paragraph (c)(1)(i) of this section to ensure that such payment rates do not result in expenditures for any year that are more or less than the expenditures that would have been made if such classes had not been established.
+(6) For 2008 through 2018, CMS makes an annual adjustment to the national limited monthly payment rate for items described in paragraph (c)(1)(i) of this section to ensure that such payment rates do not result in expenditures for any year that are more or less than the expenditures that would have been made if such classes had not been established.
 
-(d) *Application of monthly fee schedule amounts.* (1) The fee schedule amount for items described in paragraph (c)(1)(i) of this section is paid when the beneficiary rents stationary oxygen equipment.
+(d) *Application of monthly fee schedule amounts for items furnished from 2007 through 2018.*(1) The fee schedule amount for items described in paragraph (c)(1)(i) of this section is paid when the beneficiary rents stationary oxygen equipment.
 
-(2) Subject to the limitation set forth in paragraph (e)(2) of this section, the fee schedule amount for items described in paragraphs (c)(1)(ii) and (c)(1)(iii) of this section is paid when the beneficiary rents portable oxygen equipment.
+(2) Subject to the limitation set forth in paragraph (g)(2) of this section, the fee schedule amount for items described in paragraphs (c)(1)(ii) and (c)(1)(iii) of this section is paid when the beneficiary rents portable oxygen equipment.
 
 (3) The fee schedule amount for items described in paragraph (c)(1)(iv) of this section is paid when the beneficiary -
 
@@ -72,9 +70,59 @@ Link to an amendment published at 83 FR 57071, Nov. 14, 2018.
 
 (iii) Rents portable oxygen equipment described in paragraph (c)(1)(ii) of this section after the period of continuous use of 36 months described in paragraph (a)(1) of this section.
 
-(e) *Volume adjustments.* (1) The fee schedule amount for an item described in paragraph (c)(1)(i) of this section is adjusted as follows:
+(e) *Monthly fee schedule amount for items furnished for years after 2018.* (1) For 2019, national limited monthly payment rates are calculated and paid as the monthly fee schedule amounts for the following classes of items:
 
-(i) If the attending physician prescribes an oxygen flow rate exceeding four liters per minute, the fee schedule amount is increased by 50 percent, subject to the limit in paragraph (e)(2) of this section.
+(i) Stationary oxygen equipment (including stationary concentrators) and oxygen contents (stationary and portable).
+
+(ii) Portable gaseous equipment only.
+
+(iii) Portable liquid equipment only.
+
+(iv) Oxygen generating portable equipment only.
+
+(v) Stationary oxygen contents only.
+
+(vi) Portable oxygen contents only, except for portable liquid oxygen contents for prescribed flow rates greater than four liters per minute.
+
+(vii) Portable liquid oxygen contents only for prescribed flow rates of more than 4 liters per minute.
+
+(2) The monthly payment rate for items described in paragraphs (e)(1)(i), (ii), (iv), (v), and (vi) of this section are determined using the applicable methodologies contained in § 414.210(g).
+
+(3) The monthly payment rate for items described in paragraph (e)(1)(iii) of this section is determined initially based on the monthly payment rate for items described in paragraph (e)(1)(iv) of this section and is subsequently adjusted using the applicable methodologies contained in § 414.210(g).
+
+(4) The monthly payment rate for items described in paragraph (e)(1)(vii) of this section is determined initially based on 150 percent of the monthly payment rate for items described in paragraph (e)(1)(vi) of this section and is subsequently adjusted using the applicable methodologies contained in § 414.210(g).
+
+(5) Beginning in 2019, CMS makes an annual adjustment to the monthly payment rate for items described in paragraphs (e)(1)(i) through (e)(1)(vii) of this section to ensure that such payment rates do not result in expenditures for any year that are more or less than the expenditures that would have been made if such classes had not been established.
+
+(f) *Application of monthly fee schedule amounts for items furnished for years after 2018.* (1) The fee schedule amount for items described in paragraph (e)(1)(i) of this section is paid when the beneficiary rents stationary oxygen equipment.
+
+(2) Subject to the limitation set forth in paragraph (g)(2) of this section, the fee schedule amount for items described in paragraphs (e)(1)(ii), (iii), and (iv) of this section is paid when the beneficiary rents portable oxygen equipment.
+
+(3) The fee schedule amount for items described in paragraph (e)(1)(v) of this section is paid when the beneficiary -
+
+(i) Owns stationary oxygen equipment that requires delivery of gaseous or liquid oxygen contents; or
+
+(ii) Rents stationary oxygen equipment that requires delivery of gaseous or liquid oxygen contents after the period of continuous use of 36 months described in paragraph (a)(1) of this section.
+
+(4) The fee schedule amount for items described in paragraph (e)(1)(vi) of this section is paid when the beneficiary -
+
+(i) Owns portable oxygen equipment described in paragraphs (e)(1)(ii) or (e)(1)(iii) of this section; or Code of Federal Regulations/Title 42 - Public Health/Vol. 3/2017-10-0166
+
+(ii) Rents portable oxygen equipment described in paragraphs (e)(1)(ii) or (e)(1)(iii) of this section during the period of continuous use of 36 months described in paragraph (a)(1) of this section and does not rent stationary oxygen equipment; or
+
+(iii) Rents portable oxygen equipment described in paragraphs (e)(1)(ii) or (e)(1)(iii) of this section after the period of continuous use of 36 months described in paragraph (a)(1) of this section.
+
+(5) The fee schedule amount for items described in paragraph (e)(1)(vii) of this section is paid when the beneficiary has a prescribed flow rate of more than 4 liters per minute and -
+
+(i) Owns portable liquid oxygen equipment described in paragraph (e)(1)(iii) of this section; or Code of Federal Regulations/Title 42 - Public Health/Vol. 3/2017-10-0166
+
+(ii) Rents portable liquid oxygen equipment described in paragraph (e)(1)(iii) of this section during the period of continuous use of 36 months described in paragraph (a)(1) of this section and does not rent stationary oxygen equipment; or
+
+(iii) Rents portable liquid oxygen equipment described in paragraph (e)(1)(iii) of this section after the period of continuous use of 36 months described in paragraph (a)(1) of this section.
+
+(g) *Volume adjustments.* (1) The fee schedule amount for an item described in paragraph (c)(1)(i) of this section is adjusted as follows:
+
+(i) If the attending physician prescribes an oxygen flow rate exceeding four liters per minute, the fee schedule amount is increased by 50 percent, subject to the limit in paragraph (g)(2) of this section.
 
 (ii) If the attending physician prescribes an oxygen flow rate of less than one liter per minute, the fee schedule amount is decreased by 50 percent.
 
@@ -82,7 +130,7 @@ Link to an amendment published at 83 FR 57071, Nov. 14, 2018.
 
 (i) The sum of the monthly fee schedule amount for the items described in paragraphs (c)(1)(i) and (c)(1)(ii) or (c)(1)(iii) of this section; or
 
-(ii) The adjusted fee schedule amount described in paragraph (e)(1)(i) of this section.
+(ii) The adjusted fee schedule amount described in paragraph (g)(1)(i) of this section.
 
 (3) In establishing the volume adjustment for those beneficiaries whose physicians prescribe varying flow rates, the following rules apply:
 
@@ -92,7 +140,7 @@ Link to an amendment published at 83 FR 57071, Nov. 14, 2018.
 
 (iii) If the prescribed flow rate is different for nighttime use and daytime use, the average of the two flow rates is used.
 
-(f) *Furnishing oxygen and oxygen equipment after the 36-month rental cap.* (1) The supplier that furnishes oxygen equipment for the 36th continuous month during which payment is made under this section must -
+(h) *Furnishing oxygen and oxygen equipment after the 36-month rental cap.* (1) The supplier that furnishes oxygen equipment for the 36th continuous month during which payment is made under this section must -
 
 (i) Continue to furnish the equipment during any period of medical need for the remainder of the reasonable useful lifetime established for the equipment in accordance with § 414.210(f)(1); or
 
@@ -104,7 +152,7 @@ Link to an amendment published at 83 FR 57071, Nov. 14, 2018.
 
 (ii) Arrange for furnishing the oxygen contents with another supplier if the beneficiary relocates to an area that is outside the normal service area of the supplier that initially furnished the equipment.
 
-(g) *Additional supplier requirements for rentals that begin on or after January 1, 2007.* (1) The supplier that furnishes oxygen equipment for the first month during which payment is made under this section must continue to furnish the equipment for the entire 36-month period of continuous use, unless medical necessity ends or -
+(i) *Additional supplier requirements for rentals that begin on or after January 1, 2007.* (1) The supplier that furnishes oxygen equipment for the first month during which payment is made under this section must continue to furnish the equipment for the entire 36-month period of continuous use, unless medical necessity ends or -
 
 (i) The item becomes subject to a competitive acquisition program implemented in accordance with section 1847(a) of the Act;
 
@@ -126,4 +174,4 @@ Link to an amendment published at 83 FR 57071, Nov. 14, 2018.
 
 (3) Before furnishing oxygen equipment, the supplier must disclose to the beneficiary its intentions regarding whether it will accept assignment of all monthly rental claims for the duration of the rental period. A supplier's intentions could be expressed in the form of a written agreement between the supplier and the beneficiary.
 
-[57 FR 57690, Dec. 7, 1992, as amended at 71 FR 65933, Nov. 9, 2006; 73 FR 69936, Nov. 19, 2008; 78 FR 72253, Dec. 2, 2013]
+[57 FR 57690, Dec. 7, 1992, as amended at 71 FR 65933, Nov. 9, 2006; 73 FR 69936, Nov. 19, 2008; 78 FR 72253, Dec. 2, 2013; 83 FR 57071, Nov. 14, 2018]

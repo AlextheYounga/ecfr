@@ -1,5 +1,7 @@
 ##### § 104.3 Contents of reports (52 U.S.C. 30104(b), 30114). #####
 
+Link to an amendment published at 83 FR 66595, Dec. 27, 2018.
+
 (a) *Reporting of receipts.* Each report filed under § 104.1 shall disclose the total amount of receipts for the reporting period and for the calendar year (or for the election cycle, in the case of an authorized committee) and shall disclose the information set forth at paragraphs (a)(1) through (a)(4) of this section. The first report filed by a political committee shall also include all amounts received prior to becoming a political committee under § 100.5 of this chapter, even if such amounts were not received during the current reporting period.
 
 (1) *Cash on hand.* The amount of cash on hand at the beginning of the reporting period, including: currency; balance on deposit in banks, savings and loan institutions, and other depository institutions; traveler's checks owned by the committee; certificates of deposit, treasury bills and any other committee investments valued at cost.
@@ -304,4 +306,4 @@
 
 (k) *Reporting Election Cycle Activity Occurring Prior to January 1, 2001.* The aggregate of each category of receipt listed in paragraph (a)(3) of this section, except those in paragraphs (a)(3)(i)(A) and (B) of this section, and for each category of disbursement listed in paragraph (b)(2) of this section shall include amounts received or disbursed on or after the day after the last general election for the seat or office for which the candidate is running through December 31, 2000.
 
-[45 FR 15108, Mar. 7, 1980]Editorial Note:For Federal Register citations affecting § 104.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[45 FR 15108, Mar. 7, 1980]Editorial Note:For Federal Register citations affecting § 104.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

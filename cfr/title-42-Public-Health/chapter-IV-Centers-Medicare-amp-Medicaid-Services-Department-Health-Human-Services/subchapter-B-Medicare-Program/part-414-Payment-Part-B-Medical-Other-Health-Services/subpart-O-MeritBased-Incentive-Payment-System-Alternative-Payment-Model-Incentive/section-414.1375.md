@@ -1,18 +1,20 @@
-##### § 414.1375 Advancing care information performance category. #####
+##### § 414.1375 Promoting Interoperability (PI) performance category. #####
 
-Link to an amendment published at 83 FR 60080, November 23, 2018.
+(a) *Final score.* Unless a different scoring weight is assigned by CMS under sections 1848(o)(2)(D), 1848(q)(5)(E)(ii), or 1848(q)(5)(F) of the Act, performance in the Promoting Interoperability performance category comprises 25 percent of a MIPS eligible clinician's final score for each MIPS payment year.
 
-(a) *Final score.* The advancing care information performance category comprises 25 percent of a MIPS eligible clinician's final score for the 2019 MIPS payment year and each MIPS payment year thereafter, unless a different scoring weight is assigned by CMS.
-
-(b) *Reporting for the advancing care information performance category:* To earn a performance category score for the advancing care information performance category for inclusion in the final score, a MIPS eligible clinician must:
+(b) *Reporting for the Promoting Interoperability performance category.* To earn a performance category score for the Promoting Interoperability performance category for inclusion in the final score, a MIPS eligible clinician must:
 
 (1) *CEHRT.* Use CEHRT as defined at § 414.1305 for the performance period;
 
-(2) *Report MIPS - advancing care information objectives and measures.* Report on the objectives and associated measures as specified by CMS for the advancing care information performance category for the performance period as follows:
+(2) *Report MIPS - Promoting Interoperability objectives and measures.* Report on the objectives and associated measures as specified by CMS for the Promoting Interoperability performance category for the performance period as follows:
 
-(i) Report the numerator (of at least one) and denominator, or yes/no statement as applicable, for each required measure; or
+(i) For the 2019 and 2020 MIPS payment years: For each base score measure, as applicable, report the numerator (of at least one) and denominator, or yes/no statement, or claim an exclusion for each measure that includes an option for an exclusion; and
 
-(ii) May claim an exclusion for each measure that includes an option for an exclusion.
+(ii) For the 2021 and 2022 MIPS payment years:
+
+(A) Report that the MIPS eligible clinician completed the actions included in the Security Risk Analysis measure during the year in which the performance period occurs; and
+
+(B) For each required measure, as applicable, report the numerator (of at least one) and denominator, or yes/no statement, or an exclusion for each measure that includes an option for an exclusion.
 
 (3) *Support information exchange and the prevention of health information blocking, and engage in activities related to supporting providers with the performance of CEHRT.* (i) Supporting providers with the performance of CEHRT (SPPC). To engage in activities related to supporting providers with the performance of CEHRT, the MIPS eligible clinician -
 
@@ -44,4 +46,4 @@ Link to an amendment published at 83 FR 60080, November 23, 2018.
 
 (C) Responded in good faith and in a timely manner to requests to retrieve or exchange electronic health information, including from patients, health care providers (as defined by 42 U.S.C. 300jj(3)), and other persons, regardless of the requestor's affiliation or technology vendor.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53955, Nov. 16, 2017]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53955, Nov. 16, 2017; 83 FR 60080, Nov. 23, 2018]

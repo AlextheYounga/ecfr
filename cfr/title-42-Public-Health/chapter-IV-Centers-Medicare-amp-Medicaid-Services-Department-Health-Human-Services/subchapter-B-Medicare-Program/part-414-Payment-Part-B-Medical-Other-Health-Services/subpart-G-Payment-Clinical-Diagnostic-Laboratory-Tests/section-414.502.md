@@ -1,7 +1,5 @@
 ##### § 414.502 Definitions. #####
 
-Link to an amendment published at 83 FR 60074, November 23, 2018.
-
 For purposes of this subpart -
 
 *Actual list charge* means the publicly available rate on the first day the new advanced diagnostic laboratory test (ADLT) is obtainable by a patient who is covered by private insurance, or marketed to the public as a test a patient can receive, even if the test has not yet been performed on that date.
@@ -38,7 +36,11 @@ For purposes of this subpart -
 
 (2) Bills Medicare Part B under its own National Provider Identifier (NPI);
 
-(3) In a data collection period, receives more than 50 percent of its Medicare revenues, which includes fee-for-service payments under Medicare Parts A and B, Medicare Advantage payments under Medicare Part C, prescription drug payments under Medicare Part D, and any associated Medicare beneficiary deductible or coinsurance for services furnished during the data collection period from one or a combination of the following sources:
+(i) For hospital outreach laboratories - bills Medicare Part B on the CMS 1450 under bill type 14x;
+
+(ii) [Reserved]
+
+(3) In a data collection period, receives more than 50 percent of its Medicare revenues, which includes fee-for-service payments under Medicare Parts A and B, prescription drug payments under Medicare Part D, and any associated Medicare beneficiary deductible or coinsurance for services furnished during the data collection period from one or a combination of the following sources:
 
 (i) This subpart G.
 
@@ -110,4 +112,4 @@ For purposes of this subpart -
 
 *Taxpayer Identification Number* (TIN) means a Federal taxpayer identification number or employer identification number as defined by the IRS in 26 CFR 301.6109-1.
 
-[71 FR 69786, Dec. 1, 2006, as amended at 72 FR 66401, Nov. 27, 2007; 81 FR 41098, June 23, 2016]
+[71 FR 69786, Dec. 1, 2006, as amended at 72 FR 66401, Nov. 27, 2007; 81 FR 41098, June 23, 2016; 83 FR 60074, Nov. 23, 2018]

@@ -1,17 +1,21 @@
 ##### § 414.1330 Quality performance category. #####
 
-Link to an amendment published at 83 FR 60078, November 23, 2018.
+(a) For a MIPS payment year, CMS uses the following quality measures, as applicable, to assess performance in the quality performance category:
 
-(a) For purposes of assessing performance of MIPS eligible clinicians on the quality performance category, CMS will use:
+(1) Measures included in the MIPS final list of quality measures established by CMS through rulemaking;
 
-(1) Quality measures included in the MIPS final list of quality measures.
+(2) QCDR measures approved by CMS under § 414.1400;
 
-(2) Quality measures used by QCDRs.
+(3) Facility-based measures described in § 414.1380; and
 
-(b) Subject to CMS's authority to reweight performance category weights under section 1848(q)(5)(F) of the Act, performance in the quality performance category will comprise:
+(4) MIPS APM measures described in § 414.1370.
+
+(b) Unless a different scoring weight is assigned by CMS, performance in the quality performance category comprises:
 
 (1) 60 percent of a MIPS eligible clinician's final score for MIPS payment year 2019.
 
 (2) 50 percent of a MIPS eligible clinician's final score for MIPS payment year 2020.
 
-(3) 30 percent of a MIPS eligible clinician's final score for each MIPS payment year thereafter.
+(3) 45 percent of a MIPS eligible clinician's final score for MIPS payment year 2021.
+
+[83 FR 60078, Nov. 23, 2018]

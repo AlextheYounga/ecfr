@@ -1,7 +1,5 @@
 ##### § 416.164 Scope of ASC services. #####
 
-Link to an amendment published at 83 FR 59178, November 21, 2018.
-
 (a) *Included facility services.* ASC services for which payment is packaged into the ASC payment for a covered surgical procedure under § 416.166 include, but are not limited to -
 
 (1) Nursing, technician, and related services;
@@ -10,7 +8,7 @@ Link to an amendment published at 83 FR 59178, November 21, 2018.
 
 (3) Any laboratory testing performed under a Clinical Laboratory Improvement Amendments of 1988 (CLIA) certificate of waiver;
 
-(4) Drugs and biologicals for which separate payment is not allowed under the hospital outpatient prospective payment system (OPPS);
+(4) Drugs and biologicals for which separate payment is not allowed under the hospital outpatient prospective payment system (OPPS), with the exception of non-opioid pain management drugs that function as a supply when used in a surgical procedure;
 
 (5) Medical and surgical supplies not on pass-through status under subpart G of part 419 of this subchapter;
 
@@ -42,7 +40,9 @@ Link to an amendment published at 83 FR 59178, November 21, 2018.
 
 (4) Certain drugs and biologicals for which separate payment is allowed under the OPPS;
 
-(5) Certain radiology services and certain diagnostic tests for which separate payment is allowed under the OPPS.
+(5) Certain radiology services and certain diagnostic tests for which separate payment is allowed under the OPPS; and
+
+(6) Non-opioid pain management drugs that function as a supply when used in a surgical procedure.
 
 (c) *Excluded services.* ASC services do not include items and services outside the scope of ASC services for which payment may be made under part 414 of this subchapter in accordance with § 410.152, including, but not limited to -
 
@@ -62,4 +62,4 @@ Link to an amendment published at 83 FR 59178, November 21, 2018.
 
 (8) Nonimplantable prosthetic devices and DME.
 
-[72 FR 42545, Aug. 2, 2007, as amended at 79 FR 67030, Nov. 10, 2014; 80 FR 70604, Nov. 13, 2015]
+[72 FR 42545, Aug. 2, 2007, as amended at 79 FR 67030, Nov. 10, 2014; 80 FR 70604, Nov. 13, 2015; 83 FR 59178, Nov. 21, 2018]

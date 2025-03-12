@@ -1,7 +1,5 @@
 ##### § 228.12 Definitions. #####
 
-Link to an amendment published at 83 FR 66603, Dec. 27, 2018.
-
 For purposes of this part, the following definitions apply:
 
 (a) *Affiliate* means any company that controls, is controlled by, or is under common control with another company. The term “control” has the meaning given to that term in 12 U.S.C. 1841(a)(2), and a company is under common control with another company if both companies are directly or indirectly controlled by the same company.
@@ -102,7 +100,7 @@ For purposes of this part, the following definitions apply:
 
 (t) *Qualified investment* means a lawful investment, deposit, membership share, or grant that has as its primary purpose community development.
 
-(u) *Small bank* - (1) *Definition. Small bank* means a bank that, as of December 31 of either of the prior two calendar years, had assets of less than $1.252 billion. *Intermediate small bank* means a small bank with assets of at least $313 million as of December 31 of both of the prior two calendar years and less than $1.252 billion as of December 31 of either of the prior two calendar years.
+(u) *Small bank* - (1) *Definition.**Small bank* means a bank that, as of December 31 of either of the prior two calendar years, had assets of less than $1.284 billion. *Intermediate small bank* means a small bank with assets of at least $321 million as of December 31 of both of the prior two calendar years and less than $1.284 billion as of December 31 of either of the prior two calendar years.
 
 (2) *Adjustment.* The dollar figures in paragraph (u)(1) of this section shall be adjusted annually and published by the Board, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve-month period ending in November, with rounding to the nearest million.
 
@@ -112,4 +110,4 @@ For purposes of this part, the following definitions apply:
 
 (x) *Wholesale bank* means a bank that is not in the business of extending home mortgage, small business, small farm, or consumer loans to retail customers, and for which a designation as a wholesale bank is in effect, in accordance with § 228.25(b).
 
-[Reg. BB, 60 FR 22190, May 4, 1995]Editorial Note:For Federal Register citations affecting § 228.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[Reg. BB, 60 FR 22190, May 4, 1995]Editorial Note:For Federal Register citations affecting § 228.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

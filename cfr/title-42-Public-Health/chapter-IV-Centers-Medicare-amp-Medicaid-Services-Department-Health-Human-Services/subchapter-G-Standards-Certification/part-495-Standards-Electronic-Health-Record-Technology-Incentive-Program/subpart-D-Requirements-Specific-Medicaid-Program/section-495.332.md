@@ -1,12 +1,10 @@
 ##### § 495.332 State Medicaid health information technology (HIT) plan requirements. #####
 
-Link to an amendment published at 83 FR 60096, Nov. 23, 2018.
-
 Each State Medicaid HIT plan must include all of the following elements:
 
 (a) *State systems.* For State systems, interoperability, and the current and future visions:
 
-(1) A baseline assessment of the current HIT landscape environment in the State including the inventory of existing HIT in the State. The assessment must include a comprehensive -
+(1) A baseline assessment of the current HIT landscape environment in the State including the inventory of existing HIT in the State. The assessment must include a comprehensive—
 
 (i) Description of the HIT “as-is” landscape;
 
@@ -14,7 +12,7 @@ Each State Medicaid HIT plan must include all of the following elements:
 
 (iii) HIT roadmap and strategic plan for the next 5 years.
 
-(2) A description of how the State Medicaid HIT plan will be planned, designed, developed and implemented, including how it will be implemented in accordance with the Medicaid Information Technology Architecture (MITA) principles as described in the Medicaid Information Technology Framework 2.0. The MITA initiative -
+(2) A description of how the State Medicaid HIT plan will be planned, designed, developed and implemented, including how it will be implemented in accordance with the Medicaid Information Technology Architecture (MITA) principles as described in the Medicaid Information Technology Framework 2.0. The MITA initiative—
 
 (i) Establishes national guidelines for technologies and processes that enable improved program administration for the Medicaid enterprise;
 
@@ -22,7 +20,7 @@ Each State Medicaid HIT plan must include all of the following elements:
 
 (iii) Is important to the design and development of State EHR incentive payment systems.
 
-(3) A description of how intrastate systems, including the Medicaid Management Information System (MMIS) and other automated mechanized claims processing and information retrieval systems -
+(3) A description of how intrastate systems, including the Medicaid Management Information System (MMIS) and other automated mechanized claims processing and information retrieval systems—
 
 (i) Have been considered in developing a HIT solution; and
 
@@ -46,7 +44,7 @@ Each State Medicaid HIT plan must include all of the following elements:
 
 (i) Person centered goals and objectives and shared decision-making;
 
-(ii) Coordination of care across multiple service providers, funding sources, settings, and patient conditions -
+(ii) Coordination of care across multiple service providers, funding sources, settings, and patient conditions—
 
 (iii) Universal design to ensure access by people with disabilities and older Americans; and
 
@@ -128,7 +126,7 @@ Each State Medicaid HIT plan must include all of the following elements:
 
 (2) A description of the process in place, and a methodology for verifying such information, to address Federal laws and regulations designed to prevent fraud, waste, and abuse, including, but not limited to applicable provisions of Federal criminal law, the False Claims Act (32 U.S.C. 3729 *et seq.*), and the anti-kickback statute (section 1128B(b) of the Act).
 
-(f) *Optional - proposed alternatives.* A State may choose to propose any of the following, but they must be included as an element in the State Medicaid HIT Plan for review and approval:
+(f) *Optional—proposed alternatives.* A State may choose to propose any of the following, but they must be included as an element in the State Medicaid HIT Plan for review and approval:
 
 (1) An alternative methodology for measuring patient volume, consistent with § 495.306(g).
 
@@ -136,7 +134,13 @@ Each State Medicaid HIT plan must include all of the following elements:
 
 (ii) Any revised definition of meaningful use may not require additional functionality beyond that of certified EHR technology and conform with CMS guidance on Stage 1. See also § 495.316(d)(2).
 
-(g) *Optional - signed agreement.* At the State's option, the State may include a signed agreement indicating that the State does all of the following:
+(3) An alternative date within CY 2021 by which all “EHR reporting periods” (as defined under § 495.4) for the CY 2021 payment year for Medicaid EPs demonstrating they are meaningful EHR users must end. The alternative date selected by the state must be earlier than October 31, 2021, and must not be any earlier than the day prior to the attestation deadline for Medicaid EPs attesting to that state.
+
+(4) An alternative date within CY 2021 by which all clinical quality measure reporting periods for the CY 2021 payment year for Medicaid EPs demonstrating they are meaningful EHR users must end. The alternative date selected by the state must be earlier than October 31, 2021, and must not be any earlier than the day prior to the attestation deadline for Medicaid EPs attesting to that state.
+
+(5) For the CY 2019 payment year and beyond, a state-specific listing of which clinical quality measures selected by CMS are considered to be high priority measures for purposes of Medicaid EP clinical quality measure reporting.
+
+(g) *Optional—signed agreement.* At the State's option, the State may include a signed agreement indicating that the State does all of the following:
 
 (1) Designates CMS to conduct all audits and appeals of eligible hospitals' meaningful use attestations.
 
@@ -146,4 +150,4 @@ Each State Medicaid HIT plan must include all of the following elements:
 
 (4) Is liable for any FFP granted to the State to pay eligible hospitals that, upon audit (and any subsequent appeal) are determined not to have been meaningful EHR users.
 
-[75 FR 44565, July 28, 2010, as amended at 77 FR 54162, Sept. 4, 2012; 81 FR 27901, May 6, 2016]
+[75 FR 44565, July 28, 2010, as amended at 77 FR 54162, Sept. 4, 2012; 81 FR 27901, May 6, 2016; 83 FR 60096, Nov. 23, 2018]

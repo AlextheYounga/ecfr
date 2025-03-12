@@ -58,7 +58,7 @@
 
 (B) Where the agreement is subject by its terms to, or incorporates, any of the laws referenced in paragraph (2)(i)(A) of this definition; and
 
-(ii) The agreement may limit the right to accelerate, terminate, and close-out on a net basis all transactions under the agreement and to liquidate or set-off collateral promptly upon an event of default of the counterparty to the extent necessary for the counterparty to comply with the requirements of part 47, Subpart I of part 252 or part 382 of Title 12, as applicable;
+(ii) The agreement may limit the right to accelerate, terminate, and close-out on a net basis all transactions under the agreement and to liquidate or set-off collateral promptly upon an event of default of the counterparty to the extent necessary for the counterparty to comply with the requirements of part 47, subpart I of part 252 or part 382 of title 12, as applicable;
 
 (3) The agreement does not contain a walkaway clause (that is, a provision that permits a non-defaulting counterparty to make a lower payment than it otherwise would make under the agreement, or no payment at all, to a defaulter or the estate of a defaulter, even if the defaulter or the estate of the defaulter is a net creditor under the agreement); and
 

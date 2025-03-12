@@ -1,7 +1,5 @@
 ##### § 414.1305 Definitions. #####
 
-Link to an amendment published at 83 FR 60075, November 23, 2018.
-
 As used in this section, unless otherwise indicated -
 
 *Additional performance threshold* means the numerical threshold for a MIPS payment year against which the final scores of MIPS eligible clinicians are compared to determine the additional MIPS payment adjustment factors for exceptional performance.
@@ -22,7 +20,11 @@ As used in this section, unless otherwise indicated -
 
 (4) A demonstration required by Federal law.
 
-*Ambulatory Surgical Center (ASC)-based MIPS eligible clinician* means a MIPS eligible clinician who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the Place of Service (POS) codes used in the HIPAA standard transaction as an ambulatory surgical center setting based on claims for a period prior to the performance period as specified by CMS.
+*Ambulatory Surgical Center (ASC)-based MIPS eligible clinician* means:
+
+(1) For the 2019 and 2020 MIPS payment years, a MIPS eligible clinician who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the Place of Service (POS) codes used in the HIPAA standard transaction as an ambulatory surgical center setting based on claims for a period prior to the performance period as specified by CMS; and
+
+(2) Beginning with the 2021 MIPS payment year, a MIPS eligible clinician who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the POS codes used in the HIPAA standard transaction as an ambulatory surgical center setting based on claims for the MIPS determination period.
 
 *APM Entity* means an entity that participates in an APM or other payer arrangement through a direct agreement with CMS or an other payer or through Federal or State law or regulation.
 
@@ -174,6 +176,8 @@ As used in this section, unless otherwise indicated -
 
 *CMS Web Interface* means a web product developed by CMS that is used by groups that have elected to utilize the CMS Web Interface to submit data on the MIPS measures and activities.
 
+*Collection type* means a set of quality measures with comparable specifications and data completeness criteria, as applicable, including, but not limited to: electronic clinical quality measures (eCQMs); MIPS Clinical Quality Measures (MIPS CQMs), QCDR measures, Medicare Part B claims measures, CMS Web Interface measures, the CAHPS for MIPS survey, and administrative claims measures.
+
 *Covered professional services* has the meaning given by section 1848(k)(3)(A) of the Act.
 
 *Eligible clinician* means “eligible professional” as defined in section 1848(k)(3) of the Act, as identified by a unique TIN and NPI combination and, includes any of the following:
@@ -198,11 +202,21 @@ As used in this section, unless otherwise indicated -
 
 *Group* means a single TIN with two or more eligible clinicians (including at least one MIPS eligible clinician), as identified by their individual NPI, who have reassigned their billing rights to the TIN.
 
+*Health IT vendor* means an entity that supports the health IT requirements on behalf of a MIPS eligible clinician (including obtaining data from a MIPS eligible clinician's CEHRT).
+
 *Health Professional Shortage Areas (HPSA)* means areas as designated under section 332(a)(1)(A) of the Public Health Service Act.
 
-*High priority measure* means an outcome, appropriate use, patient safety, efficiency, patient experience, or care coordination quality measure.
+*High priority measure* means:
 
-*Hospital-based MIPS eligible clinician* means a MIPS eligible clinician who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the place of service codes used in the HIPAA standard transaction as an inpatient hospital, on-campus outpatient hospital, off campus-outpatient hospital, or emergency room setting based on claims for a period prior to the performance period as specified by CMS.
+(1) For the 2019 and 2020 MIPS payment years, an outcome (including intermediate-outcome and patient-reported outcome), appropriate use, patient safety, efficiency, patient experience, or care coordination quality measure.
+
+(2) Beginning with the 2021 MIPS payment year, an outcome (including intermediate-outcome and patient-reported outcome), appropriate use, patient safety, efficiency, patient experience, care coordination, or opioid-related quality measure.
+
+*Hospital-based MIPS eligible clinician* means:
+
+(1) For the 2019 and 2020 MIPS payment years, a MIPS eligible clinician who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the Place of Service (POS) codes used in the HIPAA standard transaction as an inpatient hospital, on-campus outpatient hospital, off campus-outpatient hospital, or emergency room setting based on claims for a period prior to the performance period as specified by CMS; and
+
+(2) Beginning with the 2021 MIPS payment year, a MIPS eligible clinician who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the POS codes used in the HIPAA standard transaction as an inpatient hospital, on-campus outpatient hospital, off campus outpatient hospital, or emergency room setting based on claims for the MIPS determination period.
 
 *Improvement activities* means an activity that relevant MIPS eligible clinician, organizations and other relevant stakeholders identify as improving clinical practice or care delivery and that the Secretary determines, when effectively executed, is likely to result in improved outcomes.
 
@@ -212,15 +226,17 @@ As used in this section, unless otherwise indicated -
 
 *Low-volume threshold* means:
 
-(1) For the 2019 MIPS payment year, the low-volume threshold that applies to an individual eligible clinician or group that, during the low-volume threshold determination period described in paragraph (3) of this definition, has Medicare Part B allowed charges less than or equal to $30,000 or provides care for 100 or fewer Part B-enrolled Medicare beneficiaries.
+(1) For the 2019 MIPS payment year, the low-volume threshold that applies to an individual eligible clinician, group, or APM Entity group that, during the low-volume threshold determination period described in paragraph (4) of this definition, has Medicare Part B allowed charges less than or equal to $30,000 or provides care for 100 or fewer Medicare Part B-enrolled individuals.
 
-(2) For the 2020 MIPS payment year and future years, the low-volume threshold that applies to an individual eligible clinician or group that, during the low-volume threshold determination period described in paragraph (3) of this definition, has Medicare Part B allowed charges less than or equal to $90,000 or provides care for 200 or fewer Part B-enrolled Medicare beneficiaries.
+(2) For the 2020 MIPS payment year, the low-volume threshold that applies to an individual eligible clinician, group, or APM Entity group that, during the low-volume threshold determination period described in paragraph (4) of this definition, has allowed charges for covered professional services less than or equal to $90,000 or furnishes covered professional services to 200 or fewer Medicare Part B-enrolled individuals.
 
-(3) The low-volume threshold determination period is a 24-month assessment period consisting of:
+(3) Beginning with the 2021 MIPS payment year, the low-volume threshold that applies to an individual eligible clinician, group, or APM Entity group that, during the MIPS determination period, has allowed charges for covered professional services less than or equal to $90,000, furnishes covered professional services to 200 or fewer Medicare Part B-enrolled individuals, or furnishes 200 or fewer covered professional services to Medicare Part B-enrolled individuals.
 
-(i) An initial 12-month segment that spans from the last 4 months of the calendar year 2 years prior to the performance period through the first 8 months of the calendar year preceding the performance period; and
+(4) For the 2019 and 2020 MIPS payment years, the low-volume threshold determination period is a 24-month assessment period consisting of:
 
-(ii) A second 12-month segment that spans from the last 4 months of the calendar year 1 year prior to the performance period through the first 8 months of the calendar year performance period. An individual eligible clinician or group that is identified as not exceeding the low-volume threshold during the initial 12-month segment will continue to be excluded under § 414.1310(b)(1)(iii) for the applicable year regardless of the results of the second 12-month segment analysis. For the 2019 MIPS payment year, each segment of the low-volume threshold determination period includes a 60-day claims run out. For the 2020 MIPS payment year and future years, each segment of the low-volume threshold determination period includes a 30-day claims run out.
+(i) An initial 12-month segment that spans from the last 4 months of the calendar year 2 years prior to the performance period through the first 8 months of the calendar year preceding to the performance period; and
+
+(ii) A second 12-month segment that spans from the last 4 months of the calendar year 1 year prior to the performance period through the first 8 months of the calendar year performance period. An individual eligible clinician, group, or APM Entity group that is identified as not exceeding the low-volume threshold during the initial 12-month segment will continue to be excluded under § 414.1310(b)(1)(iii) for the applicable year regardless of the results of the second 12-month segment analysis. For the 2019 MIPS payment year, each segment of the low-volume threshold determination period includes a 60-day claims run out. For the 2020 MIPS payment year, each segment of the low-volume threshold determination period includes a 30-day claims run out.
 
 *Meaningful EHR user for MIPS* means a MIPS eligible clinician who possesses CEHRT, uses the functionality of CEHRT, and reports on applicable objectives and measures specified for the advancing care information performance category for a performance period in the form and manner specified by CMS, supports information exchange and the prevention of health information blocking, and engages in activities related to supporting providers with the performance of CEHRT.
 
@@ -276,15 +292,43 @@ As used in this section, unless otherwise indicated -
 
 *MIPS APM* means an APM that meets the criteria specified under § 414.1370(b).
 
-*MIPS eligible clinician* as identified by a unique billing TIN and NPI combination used to assess performance, means any of the following (excluding those identified at § 414.1310(b)):
+*MIPS determination period* means:
 
-(1) A physician as defined in section 1861(r) of the Act.
+(1) Beginning with the 2021 MIPS payment year, a 24-month assessment period consisting of:
 
-(2) A physician assistant, a nurse practitioner, and clinical nurse specialist as such terms are defined in section 1861(aa)(5) of the Act.
+(i) An initial 12-month segment beginning on October 1 of the calendar year 2 years prior to the applicable performance period and ending on September 30 of the calendar year preceding the applicable performance period, and that includes a 30-day claims run out; and
 
-(3) A certified registered nurse anesthetist as defined in section 1861(bb)(2) of the Act.
+(ii) A second 12-month segment beginning on October 1 of the calendar year preceding the applicable performance period and ending on September 30 of the calendar year in which the applicable performance period occurs.
 
-(4) A group that includes such clinicians.
+(2) Subject to § 414.1310(b)(1)(iii), an individual eligible clinician, group, or APM Entity group that is identified as not exceeding the low-volume threshold or as having special status during the first segment of the MIPS determination period will be identified as such for the applicable MIPS payment year regardless of the results of the second segment of the MIPS determination period. An individual eligible clinician, group, or APM Entity group for which the unique billing TIN and NPI combination is established during the second segment of the MIPS determination period will be assessed based solely on the results of such segment.
+
+*MIPS eligible clinician* as identified by a unique billing TIN and NPI combination used to assess performance, means any of the following (except as excluded under § 414.1310(b)):
+
+(1) For the 2019 and 2020 MIPS payment years:
+
+(i) A physician (as defined in section 1861(r) of the Act);
+
+(ii) A physician assistant, a nurse practitioner, and clinical nurse specialist (as such terms are defined in section 1861(aa)(5) of the Act);
+
+(iii) A certified registered nurse anesthetist (as defined in section 1861(bb)(2) of the Act); and
+
+(iv) A group that includes such clinicians.
+
+(2) For the 2021 MIPS payment year and future years:
+
+(i) A clinician described in paragraph (1) of this definition;
+
+(ii) A physical therapist or occupational therapist;
+
+(iii) A qualified speech-language pathologist;
+
+(iv) A qualified audiologist (as defined in section 1861(ll)(3)(B) of the Act);
+
+(v) A clinical psychologist (as defined by the Secretary for purposes of section 1861(ii) of the Act);
+
+(vi) A registered dietician or nutrition professional; and
+
+(vii) A group that includes such clinicians.
 
 *MIPS payment year* means a calendar year in which the MIPS payment adjustment factor, and if applicable the additional MIPS payment adjustment factor, are applied to Medicare Part B payments.
 
@@ -292,11 +336,13 @@ As used in this section, unless otherwise indicated -
 
 *Non-patient facing MIPS eligible clinician* means:
 
-(1) An individual MIPS eligible clinician who bills 100 or fewer patient-facing encounters (including Medicare telehealth services defined in section 1834(m) of the Act), as described in paragraph (2) of this definition, during the non-patient facing determination period described in paragraph (3) of this definition, and a group or virtual group provided that more than 75 percent of the NPIs billing under the group's TIN or virtual group's TINs, as applicable, meet the definition of a non-patient facing individual MIPS eligible clinician during the non-patient facing determination period described in paragraph (3) of this definition.
+(1) For the 2019 and 2020 MIPS payment year, an individual MIPS eligible clinician who bills 100 or fewer patient facing encounters (including Medicare telehealth services defined in section 1834(m) of the Act), as described in paragraph (3) of this definition, during the non-patient facing determination period described in paragraph (4) of this definition, and a group or virtual group provided that more than 75 percent of the NPIs billing under the group's TIN or virtual group's TINs, as applicable, meet the definition of a non-patient facing individual MIPS eligible clinician.
 
-(2) For purposes of this definition, a patient-facing encounter is an instance in which the individual MIPS eligible clinician or group bills for items and services furnished such as general office visits, outpatient visits, and procedure codes under the PFS, as specified by CMS.
+(2) Beginning with the 2021 MIPS payment year, an individual MIPS eligible clinician who bills 100 or fewer patient facing encounters (including Medicare telehealth services defined in section 1834(m) of the Act), as described in paragraph (3) of this definition, during the MIPS determination period, and a group or virtual group provided that more than 75 percent of the NPIs billing under the group's TIN or virtual group's TINs, as applicable, meet the definition of a non-patient facing individual MIPS eligible clinician.
 
-(3) For purposes of this definition, the non-patient facing determination period is a 24-month assessment period consisting of:
+(3) For purposes of this definition, a patient-facing encounter is an instance in which the individual MIPS eligible clinician or group bills for items and services furnished such as general office visits, outpatient visits, and procedure codes under the PFS, as specified by CMS.
+
+(4) For the 2019 and 2020 MIPS payment year, the non-patient facing determination period is a 24-month assessment period consisting of:
 
 (i) An initial 12-month segment that spans from the last 4 months of the calendar year 2 years prior to the performance period through the first 8 months of the calendar year preceding the performance period; and
 
@@ -328,17 +374,33 @@ As used in this section, unless otherwise indicated -
 
 *QP Performance Period* means the time period that CMS will use to assess the level of participation by an eligible clinician in Advanced APMs and Other Payer Advanced APMs for purposes of making a QP determination for the eligible clinician for the year as specified in § 414.1425. The QP Performance Period begins on January 1 and ends on August 31 of the calendar year that is 2 years prior to the payment year.
 
-*Qualified Clinical Data Registry (QCDR)* means a CMS-approved entity that has self-nominated and successfully completed a qualification process to determine whether the entity may collect medical or clinical data for the purpose of patient and disease tracking to foster improvement in the quality of care provided to patients.
+*Qualified clinical data registry (QCDR)* means:
+
+(1) For the 2019, 2020 and 2021 MIPS payment year, a CMS-approved entity that has self-nominated and successfully completed a qualification process to determine whether the entity may collect medical or clinical data for the purpose of patient and disease tracking to foster improvement in the quality of care provided to patients.
+
+(2) Beginning with the 2022 MIPS payment year, an entity that demonstrates clinical expertise in medicine and quality measurement development experience and collects medical or clinical data on behalf of a MIPS eligible clinician for the purpose of patient and disease tracking to foster improvement in the quality of care provided to patients.
 
 *Qualified registry* means a medical registry, a maintenance of certification program operated by a specialty body of the American Board of Medical Specialties or other data intermediary that, with respect to a particular performance period, has self-nominated and successfully completed a vetting process (as specified by CMS) to demonstrate its compliance with the MIPS qualification requirements specified by CMS for that performance period. The registry must have the requisite legal authority to submit MIPS data (as specified by CMS) on behalf of a MIPS eligible clinician or group to CMS.
 
-*Qualifying APM Participant (QP)* means an eligible clinician determined by CMS to have met or exceeded the relevant QP payment amount or QP patient count threshold under § 414.1430(a)(1), (a)(3), (b)(1), or (b)(3) for a year based on participation in an Advanced APM Entity.
+*Qualifying APM participant (QP)* means an eligible clinician determined by CMS to have met or exceeded the relevant QP payment amount or QP patient count threshold under § 414.1430(a)(1), (a)(3), (b)(1), or (b)(3) for a year based on participation in an APM Entity that is also participating in an Advanced APM.
 
 *Rural area* means a ZIP code designated as rural, using the most recent Health Resources and Services Administration (HRSA) Area Health Resource File data set available.
 
-*Small practice* means a practice consisting of 15 or fewer eligible clinicians.
+*Small practice* means:
+
+(1) For the 2019 MIPS payment year, a TIN consisting of 15 or fewer eligible clinicians.
+
+(2) For the 2020 MIPS payment year, a TIN consisting of 15 or fewer eligible clinicians during a 12-month assessment period that spans from the last 4 months of the calendar year 2 years prior to the performance period through the first 8 months of the calendar year preceding the performance period and includes a 30-day claims run out.
+
+(3) Beginning with the 2021 MIPS payment year, a TIN consisting of 15 or fewer eligible clinicians during the MIPS determination period.
 
 *Solo practitioner* means a practice consisting of 1 eligible clinician (who is also a MIPS eligible clinician).
+
+*Submission type* means the mechanism by which the submitter type submits data to CMS, including, but not limited to: Direct, log in and upload, log in and attest, Medicare Part B claims and the CMS Web Interface.
+
+*Submitter type* means the MIPS eligible clinician, group, virtual group, or third party intermediary acting on behalf of a MIPS eligible clinician, group, or virtual group, as applicable, that submits data on measures and activities under MIPS.
+
+*Third party intermediary* means an entity that has been approved under § 414.1400 to submit data on behalf of a MIPS eligible clinician, group, or virtual group for one or more of the quality, improvement activities, and promoting interoperability performance categories.
 
 *Threshold Score* means the percentage value that CMS determines for an eligible clinician based on the calculations described in § 414.1435 or § 414.1440.
 
@@ -348,4 +410,4 @@ As used in this section, unless otherwise indicated -
 
 *Virtual group* means a combination of two or more TINs assigned to one or more solo practitioners or to one or more groups consisting of 10 or fewer eligible clinicians, or both, that elect to form a virtual group for a performance period for a year.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53950, Nov. 16, 2017]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53950, Nov. 16, 2017; 83 FR 60075, Nov. 23, 2018]
