@@ -260,15 +260,34 @@ signation (for purposes of paragraph (b)(34) only, the term isomer includes the 
 |                         (27) N-(1-phenethylpiperidin-4-yl)-N-phenylisobutyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: isobutyryl fentanyl)                          |(9827) |
 |                    (28) N-(1-phenethylpiperidin-4-yl)-N-phenylcyclopentanecarboxamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: cyclopentyl fentanyl)                    |(9847) |
 |                      (29) N-(2-fluorophenyl)-2-methoxy-N-(1-phenethylpiperidin-4-yl)acetamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: ocfentanil)                      |(9832) |
+|                                                     (30) Fentanyl-related substances, their isomers, esters, ethers, salts and salts of isomers, esters and ethers                                                      | 9850  |
+
+(i) Fentanyl-related substance means any substance not otherwise listed under another Administration Controlled Substance Code Number, and for which no exemption or approval is in effect under section 505 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355], that is structurally related to fentanyl by one or more of the following modifications:
+
+(A) Replacement of the phenyl portion of the phenethyl group by any monocycle, whether or not further substituted in or on the monocycle;
+
+(B) Substitution in or on the phenethyl group with alkyl, alkenyl, alkoxyl, hydroxyl, halo, haloalkyl, amino or nitro groups;
+
+(C) Substitution in or on the piperidine ring with alkyl, alkenyl, alkoxyl, ester, ether, hydroxyl, halo, haloalkyl, amino or nitro groups;
+
+(D) Replacement of the aniline ring with any aromatic monocycle whether or not further substituted in or on the aromatic monocycle; and/or
+
+(E) Replacement of the *N*-propionyl group by another acyl group.
+
+(ii) This definition includes, but is not limited to, the following substances:
+
+(A)-(B) [Reserved]
 
 [39 FR 22141, June 20, 1974]Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Notes:At 82 FR 20544, May 3, 2017, § 1308.11 was amended by adding (h)(16), effective May 3, 2017, until May 3, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(16) as paragraph (h)(13).
 
-2. At 82 FR 32457, July 14, 2017, § 1308.11 was amended by adding (h)(17) effective July 14, 2017, until July 15, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(17) as paragraph (h)(14).
+2. At 82 FR 32457, July 14, 2017, § 1308.11 was amended by adding (h)(17), effective July 14, 2017, until July 15, 2019. At 82 FR 47974, Oct. 16, 2017, § 1308.11 was amended by redesignating (h)(17) as paragraph (h)(14).
 
-3. At 82 FR 49508, Oct. 26, 2017, § 1308.11 was amended by adding reserved paragraphs (h)(15) through (h)(18) and (h)(19), (20) and (21) effective Oct. 26, 2017 through Oct. 28, 2019.
+3. At 82 FR 49508, Oct. 26, 2017, § 1308.11 was amended by adding reserved paragraphs (h)(15) through (h)(18) and (h)(19), (20) and (21), effective Oct. 26, 2017,, through Oct. 28, 2019.
 
-4. At 82 FR 51558, Nov. 3, 2017, § 1308.11 was amended by adding paragraph (h)(18), effective Nov. 3, 2017 through Nov. 4, 2019.
+4. At 82 FR 51558, Nov. 3, 2017, § 1308.11 was amended by adding paragraph (h)(18), effective Nov. 3, 2017, through Nov. 4, 2019.
 
-5. At 83 FR 472, Jan. 4, 2018, § 1308.11 was amended by adding paragraph (h)(22), effective Jan. 4, 2018 through Jan. 4, 2020.
+5. At 83 FR 472, Jan. 4, 2018, § 1308.11 was amended by adding paragraph (h)(22), effective Jan. 4, 2018, through Jan. 4, 2020.
 
-6. At 83 FR 4584, Feb. 1, 2018, § 1308.11 was amended by adding paragraphs (h)(23) through (h)(29), effective Feb. 1, 2018 through Feb. 1, 2020.
+6. At 83 FR 4584, Feb. 1, 2018, § 1308.11 was amended by adding paragraphs (h)(23) through (h)(29), effective Feb. 1, 2018, through Feb. 1, 2020.
+
+7. At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020.

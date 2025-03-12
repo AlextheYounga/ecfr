@@ -108,4 +108,6 @@ For the purpose of this regulation these terms are defined as follows:
 
 (d) The term *tidal waters* means those waters that rise and fall in a predictable and measurable rhythm or cycle due to the gravitational pulls of the moon and sun. Tidal waters end where the rise and fall of the water surface can no longer be practically measured in a predictable rhythm due to masking by hydrologic, wind, or other effects.
 
-[51 FR 41250, Nov. 13, 1986, as amended at 58 FR 45036, Aug. 25, 1993; 80 FR 37104, June 29, 2015]
+(e) *Applicability date.* Paragraphs (a) through (c) of this section are applicable beginning on February 6, 2020.
+
+[51 FR 41250, Nov. 13, 1986, as amended at 58 FR 45036, Aug. 25, 1993; 80 FR 37104, June 29, 2015; 83 FR 5208, Feb. 6, 2018]

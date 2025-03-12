@@ -1,5 +1,7 @@
 ##### § 46.46 Statutory trust. #####
 
+Link to an amendment published at 83 FR 5178, Feb. 6, 2018.
+
 (a) *Definitions.* (1) “Received” means the time when the buyer, receiver, or agent gains ownership, control, or possession of the perishable agricultural commodities: *Provided,* That when perishable agricultural commodities have not been received as described above, and where there is a rejection without reasonable cause as provided in § 46.2(bb) and (cc), the goods will be considered to have been received when proffered.
 
 (2) “Dissipation” means any act or failure to act which could result in the diversion of trust assets or which could prejudice or impair the ability of unpaid suppliers, sellers, or agents to recover money owed in connection with produce transactions.

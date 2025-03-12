@@ -1,5 +1,7 @@
 ##### § 46.49 Written notifications and complaints. #####
 
+Link to an amendment published at 83 FR 5178, Feb. 6, 2018.
+
 (a) *Written notification,* as used in section 6(b) of the Act, means:
 
 (1) Any written statement reporting or complaining of a PACA violation(s) filed by any officer or agency of any State or Territory having jurisdiction over licensees or persons subject to license, or any other interested person who has knowledge of or information regarding a possible violation, other than an employee of an agency of USDA administering this Act or a person filing a complaint under section 6(c);

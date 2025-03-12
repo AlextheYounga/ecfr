@@ -1,6 +1,6 @@
 ##### § 211.55 Penalties. #####
 
-(a) In addition to or in lieu of cancellation under § 211.54, violations of the terms and conditions of any lease, or the regulations in this part, or failure to comply with a notice of noncompliance or a cessation order issued by the Secretary, or, in the case of solid minerals the authorized officer, may subject a lessee or permittee to a penalty of not more than $1,527 per day for each day that such a violation or noncompliance continues beyond the time limits prescribed for corrective action.
+(a) In addition to or in lieu of cancellation under § 211.54, violations of the terms and conditions of any lease, or the regulations in this part, or failure to comply with a notice of noncompliance or a cessation order issued by the Secretary, or, in the case of solid minerals the authorized officer, may subject a lessee or permittee to a penalty of not more than $1,558 per day for each day that such a violation or noncompliance continues beyond the time limits prescribed for corrective action.
 
 (b) A notice of a proposed penalty shall be served on the lessee or permittee either personally or by certified mail to the lessee or permittee at the lessee's or permittee's last known address. The date of service by certified mail shall be deemed to be the date when received or five (5) working days after the date mailed, whichever is earlier.
 
@@ -18,4 +18,4 @@
 
 (3) Authorizing the imposition of a penalty for violations of lease or permit terms for which the authorized officer, director's representative or MMS official, have either statutory or regulatory authority to assess a penalty.
 
-[61 FR 35653, July 8, 1996, as amended at 81 FR 42481, June 30, 2016; 82 FR 7652, Jan. 23, 2017]
+[61 FR 35653, July 8, 1996, as amended at 81 FR 42481, June 30, 2016; 82 FR 7652, Jan. 23, 2017; 83 FR 5195, Feb. 6, 2018]
