@@ -1,7 +1,5 @@
 ##### § 1.460 Definitions. #####
 
-Link to an amendment published at 82 FR 14822, Mar. 23, 2017.
-
 For purposes of §§ 1.460 through 1.499 of this part, the following definitions apply:
 
 *Agreement.* The term “agreement” means a document that a VA health care facility develops in collaboration with an Organ Procurement Organization, eye bank or tissue bank with written, detailed responsibilities and obligations of the parties with regard to identifying potential donors and facilitating the donation process.
@@ -24,7 +22,7 @@ For purposes of §§ 1.460 through 1.499 of this part, the following definitions
 
 *Individual.* The term “individual” means a veteran, as defined in 38 U.S.C. 101(2), or a dependent of a veteran, as defined in 38 U.S.C. 101(3) and (4)(A).
 
-*Infection with the human immunodeficiency virus (HIV).* The term “infection with the human immunodeficiency virus (HIV)” means the presence of laboratory evidence for human immunodeficiency virus infection. For the purposes of §§ 1.460 through 1.499 of this part, the term includes the testing of an individual for the presence of the virus or antibodies to the virus and information related to such testing (including tests with negative results).
+*Infection with the human immunodeficiency virus (HIV).* The term “infection with the human immunodeficiency virus (HIV)” means the presence of laboratory evidence for human immunodeficiency virus infection. The term does not include negative results from the testing of an individual for the presence of the virus or antibodies to the virus, or such testing of an individual where the results are negative.
 
 *Informant.* The term “informant” means an individual who is a patient or employee or who becomes a patient or employee at the request of a law enforcement agency or official and who at the request of a law enforcement agency or official observes one or more patients or employees for the purpose of reporting the information obtained to the law enforcement agency or official.
 
@@ -32,7 +30,7 @@ For purposes of §§ 1.460 through 1.499 of this part, the following definitions
 
 *Organ Procurement Organization.* The term “Organ Procurement Organization” (OPO) means an organization that performs or coordinates the procurement, preservation, and transportation of organs and maintains a system of locating prospective recipients for available organs.
 
-*Patient.* The term “patient” means any individual or subject who has applied for or been given a diagnosis or treatment for drug abuse, alcoholism or alcohol abuse, infection with the human immunodeficiency virus, or sickle cell anemia and includes any individual who, after arrest on a criminal charge, is interviewed and/or tested in connection with drug abuse, alcoholism or alcohol abuse, infection with the human immunodeficiency virus, or sickle cell anemia in order to determine that individual's eligibility to participate in a treatment or rehabilitation program. The term patient includes an individual who has been diagnosed or treated for alcoholism, drug abuse, HIV infection, or sickle cell anemia for purposes of participation in a VA program or activity relating to those four conditions, including a program or activity consisting of treatment, rehabilitation, education, training, evaluation, or research. The term “patient” for the purpose of infection with the human immunodeficiency virus or sickle cell anemia, includes one tested for the disease.
+*Patient.* The term “patient” means any individual or subject who has been given a diagnosis or treatment for drug abuse, alcoholism or alcohol abuse, infection with the human immunodeficiency virus, or sickle cell anemia and includes any individual who, after arrest on a criminal charge, is interviewed and/or tested in connection with drug abuse, alcoholism or alcohol abuse, infection with the human immunodeficiency virus, or sickle cell anemia in order to determine that individual's eligibility to participate in a treatment or rehabilitation program if the result of such testing is positive. The term “patient” includes an individual who has been diagnosed or treated for alcoholism, drug abuse, HIV infection, or sickle cell anemia for purposes of participation in a VA program or activity relating to those four conditions, including a program or activity consisting of treatment, rehabilitation, education, training, evaluation, or research. For the purpose of infection with the human immunodeficiency virus or sickle cell anemia, the term “patient” includes one tested positive for the disease even if no treatment is provided, offered, or requested. The term does not include a patient who has tested negative for the disease.
 
 *Patient identifying information.* The term “patient identifying information” means the name, address, social security number, fingerprints, photograph, or similar information by which the identity of a patient can be determined with reasonable accuracy and speed either directly or by reference to other publicly available information. The term does not include a number assigned to a patient by a treatment program, if that number does not consist of, or contain numbers (such as social security, or driver's license number) which could be used to identify a patient with reasonable accuracy and speed from sources external to the treatment program.
 
@@ -66,10 +64,10 @@ For purposes of §§ 1.460 through 1.499 of this part, the following definitions
 
 *Third party payer.* The term “third party payer” means a person who pays, or agrees to pay, for diagnosis or treatment furnished to a patient on the basis of a contractual relationship with the patient or a member of his or her family or on the basis of the patient's eligibility for Federal, State, or local governmental benefits.
 
-*Treatment.* The term “treatment” means the management and care of a patient for drug abuse, alcoholism or alcohol abuse, infection with the human immunodeficiency virus, or sickle cell anemia, or a condition which is identified as having been caused by one or more of these conditions, in order to reduce or eliminate the adverse effects upon the patient. The term includes testing for the human immunodeficiency virus or sickle cell anemia.
+*Treatment.* The term “treatment” means the management and care of a patient for drug abuse, alcoholism or alcohol abuse, or the diagnosis, management and care of a patient for infection with the human immunodeficiency virus, or sickle cell anemia, or a condition which is identified as having been caused by one or more of these conditions, in order to reduce or eliminate the adverse effects upon the patient. The term does not include negative test results for the human immunodeficiency virus, antibodies to the virus, or sickle cell anemia, or such testing of an individual where the results are negative.
 
 *Undercover agent.* The term “undercover agent” means an officer of any Federal, State, or local law enforcement agency who becomes a patient or employee for the purpose of investigating a suspected violation of law or who pursues that purpose after becoming a patient or becoming employed for other purposes.
 
 *VHA health care facilty.* The term “VHA health care facility” means a VA medical center, VA emergency room, VA nursing home or other facility as defined in 38 U.S.C. 1701(3).
 
-(Authority: 38 U.S.C. 7332, 7334)[60 FR 63929, Dec. 13, 1995, as amended at 72 FR 48241, Aug. 23, 2007; 73 FR 65260, Nov. 3, 2008; 76 FR 6696, Feb. 8, 2011]
+(Authority: 38 U.S.C. 7332, 7334)[60 FR 63929, Dec. 13, 1995, as amended at 72 FR 48241, Aug. 23, 2007; 73 FR 65260, Nov. 3, 2008; 76 FR 6696, Feb. 8, 2011; 82 FR 14822, Mar. 23, 2017]

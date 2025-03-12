@@ -8,13 +8,13 @@
 
 (b) ONRR may assess a civil penalty of up to:
 
-(1) $23,548 per day, per violation for each day that the violation continues if you:
+(1) $23,933 per day, per violation for each day that the violation continues if you:
 
 (i) Knowingly or willfully fail to make any royalty payment by the date specified by statute, regulation, order, or a term of the lease.
 
 (ii) Fail or refuse to permit lawful entry, inspection, or audit, including refusal to keep, maintain, or produce documents.
 
-(2) $58,871 per day, per violation for each day that the violation continues if you knowingly or willfully prepare, maintain, or submit a false, inaccurate, or misleading report, notice, affidavit, record, data, or any other written information.
+(2) $59,834 per day, per violation for each day that the violation continues if you knowingly or willfully prepare, maintain, or submit a false, inaccurate, or misleading report, notice, affidavit, record, data, or any other written information.
 
 (c) We may use any information as evidence that you knowingly or willfully committed a violation, including:
 
@@ -31,3 +31,5 @@
 (ii) You fail to or cannot further appeal and fail to correct.
 
 (iii) You correct, but you subsequently commit the same violation.
+
+[81 FR 50316, Aug. 1, 2016, as amended at 82 FR 18860, Apr. 24, 2017]

@@ -10,7 +10,7 @@
 
 (2) The VA clinical team that is treating the veteran for such impairment determines based upon medical judgment that it is optimal for the veteran to manage the impairment and live independently through the assistance of a trained service dog. Note: If other means (such as technological devices or rehabilitative therapy) will provide the same level of independence, then VA will not authorize benefits under this section.
 
-(3) For the purposes of this section, substantial mobility impairment means a spinal cord injury or dysfunction or other chronic impairment that substantially limits mobility. A chronic impairment that substantially limits mobility includes but is not limited to a traumatic brain injury that compromises a veteran's ability to make appropriate decisions based on environmental cues (i.e., traffic lights or dangerous obstacles) or a seizure disorder that causes a veteran to become immobile during and after a seizure event.
+(3) For the purposes of this section, substantial mobility impairment means a spinal cord injury or dysfunction or other chronic impairment that substantially limits mobility. A chronic impairment that substantially limits mobility includes but is not limited to a traumatic brain injury that compromises a veteran's ability to make appropriate decisions based on environmental cues (*i.e.*, traffic lights or dangerous obstacles) or a seizure disorder that causes a veteran to become immobile during and after a seizure event.
 
 (c) *Recognized service dogs.* VA will recognize, for the purpose of paying benefits under this section, the following service dogs:
 

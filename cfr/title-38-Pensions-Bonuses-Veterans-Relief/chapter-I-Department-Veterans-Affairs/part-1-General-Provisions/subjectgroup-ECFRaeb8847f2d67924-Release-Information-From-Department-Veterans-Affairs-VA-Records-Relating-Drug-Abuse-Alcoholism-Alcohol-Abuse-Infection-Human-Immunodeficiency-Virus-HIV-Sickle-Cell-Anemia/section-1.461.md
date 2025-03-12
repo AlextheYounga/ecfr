@@ -1,10 +1,8 @@
 ##### § 1.461 Applicability. #####
 
-Link to an amendment published at 82 FR 14822, Mar. 23, 2017.
-
 (a) *General* - (1) *Restrictions on disclosure.* The restrictions on disclosure in these regulations apply to any information whether or not recorded, which:
 
-(i) Would identify a patient as an alcohol or drug abuser, an individual tested for or infected with the human immunodeficiency virus (HIV), hereafter referred to as HIV, or an individual with sickle cell anemia, either directly, by reference to other publicly available information, or through verification of such an identification by another person; and
+(i) Would identify a patient as an alcohol or drug abuser, an individual who tested positive for or is infected with the human immunodeficiency virus (HIV), hereafter referred to as HIV, or an individual who tested positive for or has sickle cell anemia, either directly, by reference to other publicly available information, or through verification of such an identification by another person; and
 
 (ii) Is provided or obtained for the purpose of treating alcohol or drug abuse, infection with the HIV, or sickle cell anemia, making a diagnosis for that treatment, or making a referral for that treatment as well as for education, training, evaluation, rehabilitation and research program or activity purposes.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 82 FR 14822, Mar. 23, 2017.
 
 (2) *Restrictions on disclosures - third-party payers and others.* The restrictions on disclosure in §§ 1.460 through 1.499 of this part apply to third-party payers and persons who, pursuant to a consent, receive patient records directly from VA and who are notified of the restrictions on redisclosure of the records in accordance with § 1.476 of this part.
 
-(Authority: 38 U.S.C. 7332(e) and 7334)[60 FR 63929, Dec. 13, 1995, as amended at 76 FR 65135, Oct. 20, 2011]
+(Authority: 38 U.S.C. 7332(e) and 7334)[60 FR 63929, Dec. 13, 1995, as amended at 76 FR 65135, Oct. 20, 2011; 82 FR 14822, Mar. 23, 2017]
