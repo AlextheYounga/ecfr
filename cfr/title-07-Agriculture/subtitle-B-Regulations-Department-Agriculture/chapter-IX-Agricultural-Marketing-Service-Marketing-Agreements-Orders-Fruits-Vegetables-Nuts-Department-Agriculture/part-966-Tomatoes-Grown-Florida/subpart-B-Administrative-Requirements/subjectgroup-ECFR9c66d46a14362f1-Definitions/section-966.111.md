@@ -1,5 +1,5 @@
 ##### § 966.111 Marketing Agreement. #####
 
-Link to an amendment published at 84 FR 59292, Nov. 4, 2019.
+The Marketing Agreement associated with Order No. 966 is Marketing Agreement No. 125.
 
-*Marketing Agreement* means Marketing Agreement No. 125.
+[84 FR 59292, Dec. 5, 2019]

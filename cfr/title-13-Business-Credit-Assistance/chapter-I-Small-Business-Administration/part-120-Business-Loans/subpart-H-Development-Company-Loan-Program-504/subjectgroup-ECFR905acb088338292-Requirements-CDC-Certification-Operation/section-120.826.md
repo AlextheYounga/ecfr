@@ -1,5 +1,7 @@
 ##### § 120.826 Basic requirements for operating a CDC. #####
 
+Link to an amendment published at 84 FR 66295, Dec. 4, 2019.
+
 A CDC must operate in accordance with the following requirements:
 
 (a) *In general.* CDCs must meet all 504 Loan Program Requirements. In its Area of Operations, a CDC must market the 504 program, package and process 504 loan applications, close and service 504 loans, and if authorized by SBA, liquidate and litigate 504 loans. It must supply to SBA current and accurate information about all certification and operational requirements, and maintain the records and submit all reports required by SBA.

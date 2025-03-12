@@ -1,5 +1,7 @@
 ##### § 120.824 Professional management and staff. #####
 
+Link to an amendment published at 84 FR 66294, Dec. 4, 2019.
+
 A CDC must have full-time professional management, including an Executive Director (or the equivalent) managing daily operations. It must also have a full-time professional staff qualified by training and experience to market the 504 Program, package and process loan applications, close loans, service, and, if authorized by SBA, liquidate the loan portfolio, and sustain a sufficient level of service and activity in the Area of Operations. CDCs may obtain, under written contract, management, marketing, packaging, processing, closing, servicing or liquidation services provided by qualified individuals and entities under the following circumstances:
 
 (a) The CDC must have at least one salaried professional employee that is employed directly (not a contractor or an Associate of a contractor) full-time to manage the CDC. The CDC manager must be hired by the CDC's board of directors and subject to termination only by the board. A CDC may petition SBA to waive the requirement of the manager being employed directly if:

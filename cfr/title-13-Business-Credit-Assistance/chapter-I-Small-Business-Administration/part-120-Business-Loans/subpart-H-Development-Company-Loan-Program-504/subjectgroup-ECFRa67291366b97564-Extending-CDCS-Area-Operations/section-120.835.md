@@ -1,5 +1,7 @@
 ##### § 120.835 Application to expand an Area of Operations. #####
 
+Link to an amendment published at 84 FR 66295, Dec. 4, 2019.
+
 (a) *General.* A CDC that has been certified to participate in the 504 program may apply to expand its Area of Operations if it meets all requirements to be an Accredited Lender Program (ALP) CDC, as set forth in § 120.840(c), and demonstrates that it can competently fulfill its 504 program responsibilities in the proposed area.
 
 (b) *Local Economic Area Expansion.* A CDC seeking to expand its Area of Operations into a Local Economic Area must apply in writing to the Lead SBA Office.

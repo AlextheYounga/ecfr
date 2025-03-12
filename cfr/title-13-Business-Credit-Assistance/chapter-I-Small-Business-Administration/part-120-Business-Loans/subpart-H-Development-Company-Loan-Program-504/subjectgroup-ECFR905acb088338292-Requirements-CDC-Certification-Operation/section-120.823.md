@@ -1,5 +1,7 @@
 ##### § 120.823 CDC Board of Directors. #####
 
+Link to an amendment published at 84 FR 66294, Dec. 4, 2019.
+
 (a) The CDC, whether for-profit or nonprofit, must have a Board of Directors with at least nine (9) voting directors. A CDC may request the approval of the D/FA or designee to have a Board with fewer directors than 9 for good cause. SBA recommends that the CDC create a Board with no more than 25 voting directors. The Board must be actively involved in encouraging economic development in the Area of Operations. The initial Board may be created by any method permitted by applicable State law. At a minimum, the Board must have directors with background and expertise in internal controls, financial risk management, commercial lending, legal issues relating to commercial lending, and corporate governance. Directors may be either currently employed or retired. A CDC must have at least one voting director that represents the economic, community or workforce development fields, and at least two voting directors that represent the commercial lending field.
 
 (b) At least two voting members of the Board of Directors, other than the CDC manager, must possess commercial lending experience satisfactory to SBA. When the Board votes on SBA loan approval or servicing actions, at least two voting Board members, with such commercial lending experience, other than the CDC manager, must be present and vote.

@@ -1,5 +1,5 @@
 ##### § 966.110 Order. #####
 
-Link to an amendment published at 84 FR 59292, Nov. 4, 2019.
+*Order* means Order No. 966 (§§ 966.1 through 966.92) regulating the handling of tomatoes grown in Florida, also referenced in this part as *marketing order and agreement.*
 
-*Order* means Order No. 966 (§§ 966.1 to 966.92) regulating the handling of tomatoes grown in Florida.
+[84 FR 59292, Dec. 5, 2019]

@@ -1,5 +1,7 @@
 ##### § 902.16 Required program amendments. #####
 
+Link to an amendment published at 84 FR 66308, Dec. 4, 2019.
+
 Pursuant to 30 CFR 732.17(f)(1), Alaska is required to submit to OSM by the specified date the following written, proposed program amendments, or a description of an amendment to be proposed that meets the requirements of SMCRA and 30 CFR Chapter VII and a timetable for enactment that is consistent with Alaska's established administrative or legislative procedures.
 
 (a) By October 19, 1992, Alaska shall amend its program as follows:
