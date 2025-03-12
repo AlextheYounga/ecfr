@@ -1,5 +1,7 @@
 ##### § 192.121 Design of plastic pipe. #####
 
+Link to an amendment published at 86 FR 2238, Jan. 11, 2021.
+
 (a) *Design formula.* Design formulas for plastic pipe are determined in accordance with either of the following formulas:
 
 ![](/graphics/er20no18.000.gif)*P* = Design pressure, gage, psi (kPa).*S* = For thermoplastic pipe, the hydrostatic design basis (HDB) is determined in accordance with the listed specification at a temperature equal to 73 °F (23 °C), 100 °F (38 °C), 120 °F (49 °C), or 140 °F (60 °C). In the absence of an HDB established at the specified temperature, the HDB of a higher temperature may be used in determining a design pressure rating at the specified temperature by arithmetic interpolation using the procedure in Part D.2 of PPI TR-3/2012, (incorporated by reference, *see* § 192.7). For reinforced thermosetting plastic pipe, 11,000 psig (75,842 kPa).t = Specified wall thickness, inches (mm).*D* = Specified outside diameter, inches (mm).*SDR* = Standard dimension ratio, the ratio of the average specified outside diameter to the minimum specified wall thickness, corresponding to a value from a common numbering system that was derived from the American National Standards Institute (ANSI) preferred number series 10.*DF* = Design Factor, a maximum of 0.32 unless otherwise specified for a particular material in this section

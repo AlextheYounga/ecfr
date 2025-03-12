@@ -1,6 +1,6 @@
 ##### § 175.10 Exceptions for passengers, crewmembers, and air operators. #####
 
-Link to an amendment published at 85 FR 83402, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83402, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
 
 (a) This subchapter does not apply to the following hazardous materials when carried by aircraft passengers or crewmembers provided the requirements of §§ 171.15 and 171.16 (see paragraph (c) of this section) and the requirements of this section are met:
 

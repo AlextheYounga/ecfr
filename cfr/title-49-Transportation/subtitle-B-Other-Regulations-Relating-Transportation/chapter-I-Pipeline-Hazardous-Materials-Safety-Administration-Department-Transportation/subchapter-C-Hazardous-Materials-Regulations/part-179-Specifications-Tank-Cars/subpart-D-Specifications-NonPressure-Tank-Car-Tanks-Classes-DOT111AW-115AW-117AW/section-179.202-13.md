@@ -1,6 +1,6 @@
 ##### § 179.202-13 Retrofit standard requirements (DOT-117R). #####
 
-Link to an amendment published at 85 FR 83403, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83403, Dec. 21, 2020.Link to an amendment published at 86 FR 2504, Jan. 13, 2021.
 
 (a) *Applicability.* Each tank retrofit under these specifications must conform to the general requirements of § 179.200 and the prescriptive standards in § 179.202-13, or the performance standard requirements of § 179.202-12.
 

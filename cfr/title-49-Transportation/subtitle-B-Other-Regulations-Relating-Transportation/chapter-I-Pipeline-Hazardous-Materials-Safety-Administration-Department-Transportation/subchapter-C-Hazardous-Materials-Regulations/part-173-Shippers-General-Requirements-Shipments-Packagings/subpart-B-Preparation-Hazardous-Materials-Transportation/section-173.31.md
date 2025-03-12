@@ -1,6 +1,6 @@
 ##### § 173.31 Use of tank cars. #####
 
-Link to an amendment published at 85 FR 83382, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83382, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
 
 (a) *General.* (1) No person may offer a hazardous material for transportation in a tank car unless the tank car meets the applicable specification and packaging requirements of this subchapter or, when this subchapter authorizes the use of a non-DOT specification tank car, the applicable specification to which the tank was constructed.
 

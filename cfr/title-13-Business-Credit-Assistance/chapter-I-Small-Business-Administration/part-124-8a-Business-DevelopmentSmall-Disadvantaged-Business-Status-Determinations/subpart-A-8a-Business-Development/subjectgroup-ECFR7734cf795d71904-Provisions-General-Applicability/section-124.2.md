@@ -1,5 +1,21 @@
 ##### § 124.2 What length of time may a business participate in the 8(a) BD program? #####
 
-A Participant receives a program term of nine years from the date of SBA's approval letter certifying the concern's admission to the program. The Participant must maintain its program eligibility during its tenure in the program and must inform SBA of any changes that would adversely affect its program eligibility. The nine year program term may be shortened only by termination, early graduation (including voluntary early graduation) or voluntary withdrawal as provided for in this subpart.
+(a) Except as set forth in paragraph (b) of this section, a Participant receives a program term of nine years from the date of SBA's approval letter certifying the concern's admission to the program. The Participant must maintain its program eligibility during its tenure in the program and must inform SBA of any changes that would adversely affect its program eligibility. The nine-year program term may be shortened only by termination, early graduation (including voluntary early graduation) or voluntary withdrawal as provided for in this subpart.
 
-[76 FR 8253, Feb. 11, 2011]
+(b) Pursuant to section 330 of the Consolidated Appropriations Act, 2021, and section 869 of the National Defense Authorization Act for Fiscal Year 2021, a small business concern participating the 8(a) BD program on March 13, 2020, may elect to extend such participation by a period of one year from the end of its program term, regardless of whether it previously elected to suspend participation in the program under the procedures set forth in § 124.305(h)(1)(iii).
+
+(1) Unless expressly declined in writing, SBA will extend a Participant's program term by one year if the concern was a Participant in the 8(a) BD program on March 13, 2020, and continued its participation through January 13, 2021. Declines of such extension must be submitted to: Deputy Associate Administrator, Office of Business Development, Small Business Administration, 409 Third Street SW, Washington, DC 20416, or email to *8aQuestions@sba.gov.*
+
+(2) Except as set forth in paragraph (b)(2)(iii) of this section any concern that was a Participant in the 8(a) BD program on March 13, 2020, but graduated or otherwise left the program before January 13, 2021 may elect to be readmitted to the 8(a) BD program for the period of time equal to one year from the date of the original expiration of the concern's program term. A concern seeking to be readmitted to the 8(a) BD program must notify SBA of its intent to be readmitted no later than March 15, 2021.
+
+Example 1 to paragraph (b)(2) introductory text.Business Concern A was a Participant in the 8(a) BD program on September 9, 2020, and its program term expired on November 25, 2020. On January 28, 2021, Business Concern A notified SBA of its election to be readmitted to the 8(a) BD program under the process outlined in this paragraph (b)(2). Business Concern A would be eligible to participate in the 8(a) BD program until November 25, 2021.
+
+(i) All requests for readmittance must be submitted to: Associate Administrator, Office of Business Development, Small Business Administration, 409 Third Street SW, Washington, DC 20416, or email to *8aQuestions@sba.gov.*
+
+(ii) As part of a concern's notification to SBA of its intent to be readmitted to the 8(a) BD program, the concern must certify that it continues to meet the applicable 8(a) BD program eligibility requirements as set forth in §§ 124.101 through 124.111. SBA may, in its discretion, request information or documentation to assess whether the concern meets the eligibility criteria for readmittance.
+
+(iii) Business concerns that were Participants in the 8(a) BD program on March 13, 2020, but were terminated or early graduated by SBA or elected to voluntarily withdraw or early graduate in lieu of termination are not eligible to extend their program terms.
+
+(iv) The readmittance of a business concern owned and controlled by a tribe, ANC, NHO, or CDC to the 8(a) BD program under this paragraph (b)(2) will be disregarded for purposes of the ownership restrictions applicable to Participants owned by a tribe, ANC, NHO, or CDC as set forth in §§ 124.109(c)(3)(ii), 124.110(e), and 124.111(d). The date to commence the two-year waiting period for the tribe, ANC, NHO, or CDC to own another business concern in the 8(a) BD program with the same primary NAICS code as the readmitted concern will not be readjusted with the firm's readmittance.
+
+[86 FR 2532, Jan. 13, 2021]

@@ -1,6 +1,6 @@
 ##### § 173.166 Safety devices. #####
 
-Link to an amendment published at 85 FR 83398, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83398, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
 
 For the purpose of this section, safety devices are articles which contain pyrotechnic substances or hazardous materials of other classes and are used in vehicles, vessels or aircraft to enhance safety to persons. Examples are: air bag inflators, air bag modules, seat-belt pretensioners and pyromechanical devices. Pyromechanical devices are assembled components for tasks such as but not limited to separation, locking, release-and-drive or occupant restraint. The term includes “Safety devices, pyrotechnic.”
 

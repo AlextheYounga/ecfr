@@ -1,6 +1,6 @@
 ##### § 173.308 Lighters. #####
 
-Link to an amendment published at 85 FR 83400, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83400, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
 
 (a) *General requirements.* No person may offer for transportation or transport a lighter (see § 171.8 of this subchapter) containing a Division 2.1 (flammable gas) material except under the following conditions:
 

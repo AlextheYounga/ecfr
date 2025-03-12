@@ -1,6 +1,6 @@
 ##### § 173.314 Compressed gases in tank cars and multi-unit tank cars. #####
 
-Link to an amendment published at 85 FR 83401, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83401, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
 
 (a) *Definitions.* For definitions of compressed gases, see § 173.115.
 

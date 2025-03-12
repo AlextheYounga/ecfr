@@ -1,8 +1,6 @@
 ##### § 234.301 Definitions. #####
 
-Link to an amendment published at 85 FR 80660, Dec. 14, 2020.
-
-As used in this subpart -
+As used in this subpart—
 
 *Answering machine* means either a device or a voicemail system that allows a telephone caller to leave a recorded message to report an unsafe condition at a highway-rail or pathway grade crossing, as described in § 234.303(c) and (d), and the railroad is able to retrieve the recorded message either remotely or on-site.
 
@@ -34,16 +32,10 @@ As used in this subpart -
 
 *Maintaining railroad* means the entity (*e.g.,* track owner or lessee) that is responsible for maintenance of the highway-rail or pathway grade crossing warning device, or for maintenance of other aspects of the highway-rail or pathway grade crossing. If the maintenance responsibility is handled by a contractor, such as maintaining a grade crossing warning system or track structure at the highway-rail or pathway grade crossing, then the contractor is considered the “maintaining railroad” for the purposes of this subpart.
 
-*Pathway grade crossing* means a pathway that crosses one or more railroad tracks at grade and that is -
-
-(1) Explicitly authorized by a public authority or a railroad;
-
-(2) Dedicated for the use of non-vehicular traffic, including pedestrians, bicyclists, and others; and
-
-(3) Not associated with a public highway, road, or street, or a private roadway.
-
 *Public report of warning system malfunction* or *public report of warning system malfunction at a highway-rail grade crossing* means a report that contains specific information regarding a warning system malfunction at a highway-rail grade crossing that is supplied to a railroad via the ENS by a member of the public who does not belong to one of the categories of individuals listed in the definition of *Credible report of warning system malfunction* or *credible report of warning system malfunction at a highway-rail grade crossing* in § 234.5.
 
 *Third-party telephone service* means a service that receives telephonic reports of unsafe conditions at highway-rail and pathway grade crossings on behalf of a railroad. A third-party telephone service that receives reports on behalf of a dispatching railroad is the only entity between the receipt of the report from the telephone caller and the transmission of the report to the dispatching railroad. A third-party telephone service that receives reports on behalf of a maintaining railroad is the only entity between the receipt of the report from a dispatching railroad and the transmission of the report to the maintaining railroad.
 
 *Warning system failure at a pathway grade crossing* means failure of an active pathway grade crossing warning system to perform as intended.
+
+[77 FR 35191, June 12, 2012, as amended at 85 FR 80660, Dec. 14, 2020]

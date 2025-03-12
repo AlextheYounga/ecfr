@@ -1,6 +1,6 @@
 ##### § 173.62 Specific packaging requirements for explosives. #####
 
-Link to an amendment published at 85 FR 83382, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83382, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
 
 (a) Except as provided in § 173.7 of this subchapter, when the § 172.101 Table specifies that an explosive must be packaged in accordance with this section, only packagings which conform to the provisions of paragraphs (b) and (c) of this section or § 173.7(e) of this subchapter and the applicable requirements in §§ 173.60 and 173.61 may be used unless otherwise approved by the Associate Administrator.
 

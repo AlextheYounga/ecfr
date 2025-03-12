@@ -1,5 +1,7 @@
 ##### § 250.2b Carriers to request volunteers for denied boarding. #####
 
+Link to an amendment published at 86 FR 2538, Jan. 13, 2021.
+
 (a) In the event of an oversold flight, every carrier shall request volunteers for denied boarding before using any other boarding priority. A “volunteer” is a person who responds to the carrier's request for volunteers and who willingly accepts the carriers' offer of compensation, in any amount, in exchange for relinquishing the confirmed reserved space. Any other passenger denied boarding is considered for purposes of this part to have been denied boarding involuntarily, even if that passenger accepts the denied boarding compensation.
 
 (b) Every carrier shall advise each passenger solicited to volunteer for denied boarding, no later than the time the carrier solicits that passenger to volunteer, whether he or she is in danger of being involuntarily denied boarding and, if so, the compensation the carrier is obligated to pay if the passenger is involuntarily denied boarding. If an insufficient number of volunteers come forward, the carrier may deny boarding to other passengers in accordance with its boarding priority rules.

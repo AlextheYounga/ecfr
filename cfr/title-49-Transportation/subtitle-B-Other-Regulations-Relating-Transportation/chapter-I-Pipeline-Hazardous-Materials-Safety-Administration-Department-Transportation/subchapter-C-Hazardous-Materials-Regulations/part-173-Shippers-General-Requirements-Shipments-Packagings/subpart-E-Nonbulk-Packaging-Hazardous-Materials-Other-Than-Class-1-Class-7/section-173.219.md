@@ -1,6 +1,6 @@
 ##### § 173.219 Life-saving appliances. #####
 
-Link to an amendment published at 85 FR 83399, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83399, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
 
 (a) A life-saving appliance, self-inflating or non-self-inflating, containing small quantities of hazardous materials that are required as part of the life-saving appliance must conform to the requirements of this section. Packagings must conform to the general packaging requirements of subpart B of this part but need not conform to the requirements of part 178 of this subchapter. The appliances must be packed, so that they cannot be accidentally activated and, except for life vests, the hazardous materials must be in inner packagings packed so as to prevent shifting within the outer packaging. The hazardous materials must be an integral part of the appliance and in quantities that do not exceed those appropriate for the actual appliance when in use.
 

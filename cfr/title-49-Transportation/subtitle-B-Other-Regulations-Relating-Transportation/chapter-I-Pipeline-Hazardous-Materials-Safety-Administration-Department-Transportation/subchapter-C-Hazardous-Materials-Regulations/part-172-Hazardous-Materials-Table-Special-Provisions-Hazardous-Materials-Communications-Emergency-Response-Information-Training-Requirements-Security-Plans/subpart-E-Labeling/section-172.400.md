@@ -1,6 +1,6 @@
 ##### § 172.400 General labeling requirements. #####
 
-Link to an amendment published at 85 FR 83381, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83381, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
 
 (a) Except as specified in § 172.400a, each person who offers for transportation or transports a hazardous material in any of the following packages or containment devices, shall label the package or containment device with labels specified for the material in the § 172.101 table and in this subpart:
 

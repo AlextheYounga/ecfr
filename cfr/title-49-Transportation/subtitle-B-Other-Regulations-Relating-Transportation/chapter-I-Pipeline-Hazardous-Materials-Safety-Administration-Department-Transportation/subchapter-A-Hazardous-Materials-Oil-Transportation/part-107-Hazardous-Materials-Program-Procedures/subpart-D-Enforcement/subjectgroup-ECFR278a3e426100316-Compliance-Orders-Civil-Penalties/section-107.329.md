@@ -1,6 +1,6 @@
 ##### § 107.329 Maximum penalties. #####
 
-Link to an amendment published at 85 FR 83374, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83374, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
 
 (a) A person who knowingly violates a requirement of the Federal hazardous material transportation law, an order issued thereunder, this subchapter, subchapter C of the chapter, or a special permit or approval issued under this subchapter applicable to the transportation of hazardous materials or the causing of them to be transported or shipped is liable for a civil penalty of not more than $83,439 for each violation, except the maximum civil penalty is $194,691 if the violation results in death, serious illness, or severe injury to any person or substantial destruction of property. There is no minimum civil penalty, except for a minimum civil penalty of $502 for violations relating to training. When the violation is a continuing one, each day of the violation constitutes a separate offense.
 

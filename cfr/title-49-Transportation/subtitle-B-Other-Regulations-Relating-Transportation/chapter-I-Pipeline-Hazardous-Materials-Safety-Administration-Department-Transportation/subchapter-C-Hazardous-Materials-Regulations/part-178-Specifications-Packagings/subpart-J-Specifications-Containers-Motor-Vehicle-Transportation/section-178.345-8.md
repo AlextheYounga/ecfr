@@ -1,6 +1,6 @@
 ##### § 178.345-8 Accident damage protection. #####
 
-Link to an amendment published at 85 FR 83402, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83402, Dec. 21, 2020.Link to an amendment published at 86 FR 2504, Jan. 13, 2021.
 
 (a) *General.* Each cargo tank motor vehicle must be designed and constructed in accordance with the requirements of this section and the applicable individual specification to minimize the potential for the loss of lading due to an accident.
 

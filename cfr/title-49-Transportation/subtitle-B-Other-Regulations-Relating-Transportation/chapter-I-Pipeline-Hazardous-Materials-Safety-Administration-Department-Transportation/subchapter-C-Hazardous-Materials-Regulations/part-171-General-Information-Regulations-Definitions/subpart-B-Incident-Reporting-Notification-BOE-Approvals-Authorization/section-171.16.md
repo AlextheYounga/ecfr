@@ -1,6 +1,6 @@
 ##### § 171.16 Detailed hazardous materials incident reports. #####
 
-Link to an amendment published at 85 FR 83374, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83374, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
 
 (a) *General.* Each person in physical possession of a hazardous material at the time that any of the following incidents occurs during transportation (including loading, unloading, and temporary storage) must submit a Hazardous Materials Incident Report on DOT Form F 5800.1 (01/2004) within 30 days of discovery of the incident:
 

@@ -1,7 +1,5 @@
 ##### § 120.470 What are SBA's additional requirements for SBLCs? #####
 
-Link to an amendment published at 85 FR 78215, Dec. 4, 2020.
-
 In addition to complying with SBA's requirements for SBA Lenders and SBA Supervised Lenders, an SBLC must meet the requirements contained in this regulation and the SBLC regulations that follow.
 
 (a) *Lending.* An SBLC may only make:
@@ -34,8 +32,6 @@ In addition to complying with SBA's requirements for SBA Lenders and SBA Supervi
 
 (6) “Control” means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of an SBLC or other concern, whether through the ownership of voting securities, by contract, or otherwise. The common control presumption may be rebutted by evidence satisfactory to SBA.
 
-(g) *Management.* An SBLC must employ full time professional management.
+(g) *Borrowed funds.* In general, an SBLC may not be capitalized with borrowed funds. Shareholders owning 10 percent or more of any class of its stock must not use personally-borrowed funds to purchase the stock unless the net worth of the shareholder is at least twice the amount borrowed or unless the shareholder receives SBA's prior written approval for a lower ratio.
 
-(h) *Borrowed funds.* In general, an SBLC may not be capitalized with borrowed funds. Shareholders owning 10 percent or more of any class of its stock must not use personally-borrowed funds to purchase the stock unless the net worth of the shareholder is at least twice the amount borrowed or unless the shareholder receives SBA's prior written approval for a lower ratio.
-
-[73 FR 75515, Dec. 11, 2008]
+[73 FR 75515, Dec. 11, 2008, as amended at 85 FR 78215, Dec. 4, 2020]

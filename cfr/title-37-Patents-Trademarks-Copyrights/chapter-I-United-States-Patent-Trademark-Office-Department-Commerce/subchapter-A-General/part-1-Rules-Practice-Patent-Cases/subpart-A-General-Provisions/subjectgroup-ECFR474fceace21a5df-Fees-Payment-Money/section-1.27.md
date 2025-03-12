@@ -1,6 +1,6 @@
 ##### § 1.27 Definition of small entities and establishing status as a small entity to permit payment of small entity fees; when a determination of entitlement to small entity status and notification of loss of entitlement to small entity status are required; fraud on the Office. #####
 
-Link to an amendment published at 85 FR 82923, Dec. 21, 2020.
+Link to an amendment published at 85 FR 82923, Dec. 21, 2020.Link to a correction of the above amendment published at 86 FR 2542, Jan. 13, 2021.
 
 (a) *Definition of small entities.* A small entity as used in this chapter means any party (person, small business concern, or nonprofit organization) under paragraphs (a)(1) through (a)(3) of this section.
 

@@ -1,6 +1,6 @@
 ##### § 179.201-6 Manways and manway closures. #####
 
-Link to an amendment published at 85 FR 83402, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83402, Dec. 21, 2020.Link to an amendment published at 86 FR 2504, Jan. 13, 2021.
 
 (a) The manway cover for spec. DOT 104W, 111A60-ALW1, 111A60W1, 111A100ALW1, 111A-100W1, 111A100W3, or 111A100W6 must be designed to make it impossible to remove the cover while the interior of the tank is subjected to pressure.
 

@@ -1,5 +1,7 @@
 ##### § 254.5 Notice requirement. #####
 
+Link to an amendment published at 86 FR 2539, Jan. 13, 2021.
+
 In any flight segment using large aircraft, or on any flight segment that is included on the same ticket as another flight segment that uses large aircraft, an air carrier shall provide to passengers, by conspicuous written material included on or with its ticket, either:
 
 (a) Notice of any monetary limitation on its baggage liability to passengers; or

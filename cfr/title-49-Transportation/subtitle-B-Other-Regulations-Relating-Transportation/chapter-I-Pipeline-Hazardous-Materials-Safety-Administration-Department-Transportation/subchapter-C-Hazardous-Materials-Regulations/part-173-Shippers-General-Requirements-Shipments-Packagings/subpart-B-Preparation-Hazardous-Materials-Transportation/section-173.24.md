@@ -1,6 +1,6 @@
 ##### § 173.24 General requirements for packagings and packages. #####
 
-Link to an amendment published at 85 FR 83382, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83382, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
 
 (a) *Applicability.* Except as otherwise provided in this subchapter, the provisions of this section apply to -
 

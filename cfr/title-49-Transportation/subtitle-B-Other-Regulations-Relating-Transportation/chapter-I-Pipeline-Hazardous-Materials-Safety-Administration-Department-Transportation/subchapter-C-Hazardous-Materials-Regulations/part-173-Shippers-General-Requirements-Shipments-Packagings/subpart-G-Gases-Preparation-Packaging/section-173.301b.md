@@ -1,6 +1,6 @@
 ##### § 173.301b Additional general requirements for shipment of UN pressure receptacles. #####
 
-Link to an amendment published at 85 FR 83400, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83400, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
 
 (a) *General.* The requirements of this section are in addition to the requirements in § 173.301 and apply to the shipment of gases in UN pressure receptacles. A UN pressure receptacle, including closures, must conform to the design, construction, inspection and testing requirements specified in parts 178 and 180 of this subchapter, as applicable. Bundles of cylinders must conform to the requirements in § 178.70(e) of this subchapter.
 

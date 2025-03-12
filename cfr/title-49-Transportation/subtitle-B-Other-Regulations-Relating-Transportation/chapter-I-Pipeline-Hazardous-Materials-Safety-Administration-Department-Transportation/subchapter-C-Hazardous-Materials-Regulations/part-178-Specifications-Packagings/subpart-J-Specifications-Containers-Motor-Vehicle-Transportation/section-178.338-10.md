@@ -1,6 +1,6 @@
 ##### § 178.338-10 Accident damage protection. #####
 
-Link to an amendment published at 85 FR 83402, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83402, Dec. 21, 2020.Link to an amendment published at 86 FR 2504, Jan. 13, 2021.
 
 (a) All valves, fittings, pressure relief devices and other accessories to the tank proper, which are not isolated from the tank by closed intervening shut-off valves or check valves, must be installed within the motor vehicle framework or within a suitable collision resistant guard or housing, and appropriate ventilation must be provided. Each pressure relief device must be protected so that in the event of the upset of the vehicle onto a hard surface, the device's opening will not be prevented and its discharge will not be restricted.
 

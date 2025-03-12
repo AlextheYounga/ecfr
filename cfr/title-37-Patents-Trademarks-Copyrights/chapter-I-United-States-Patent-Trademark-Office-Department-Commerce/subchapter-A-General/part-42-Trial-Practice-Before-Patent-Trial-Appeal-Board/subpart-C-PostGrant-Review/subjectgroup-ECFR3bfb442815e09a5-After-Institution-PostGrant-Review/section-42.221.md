@@ -1,6 +1,6 @@
 ##### § 42.221 Amendment of the patent. #####
 
-Link to an amendment published at 85 FR 82935, Dec. 21, 2020.
+Link to an amendment published at 85 FR 82935, Dec. 21, 2020.Link to a correction of the above amendment published at 86 FR 2542, Jan. 13, 2021.
 
 (a) *Motion to amend.* A patent owner may file one motion to amend a patent, but only after conferring with the Board.
 

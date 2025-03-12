@@ -1,6 +1,6 @@
 ##### § 173.304a Additional requirements for shipment of liquefied compressed gases in specification cylinders. #####
 
-Link to an amendment published at 85 FR 83400, Dec. 21, 2020.Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
+Link to an amendment published at 85 FR 83400, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
 
 (a) *Detailed filling requirements.* Liquefied gases (except gas in solution) must be offered for transportation, subject to the requirements in this section and §§ 173.301 and 173.304, in specification cylinders, as follows:
 

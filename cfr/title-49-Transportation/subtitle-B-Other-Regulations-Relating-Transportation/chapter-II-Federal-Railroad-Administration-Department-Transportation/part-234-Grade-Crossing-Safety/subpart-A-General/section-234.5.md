@@ -1,10 +1,10 @@
 ##### § 234.5 Definitions. #####
 
-Link to an amendment published at 85 FR 80659, Dec. 14, 2020.
-
 As used in this part:
 
-*Activation failure* means the failure of an active highway-rail grade crossing warning system to indicate the approach of a train at least 20 seconds prior to the train's arrival at the crossing, or to indicate the presence of a train occupying the crossing, unless the crossing is provided with an alternative means of active warning to highway users of approaching trains. (This failure indicates to the motorist that it is safe to proceed across the railroad tracks when, in fact, it is not safe to do so.) A grade crossing signal system does not indicate the approach of a train within the meaning of this paragraph if - more than 50% of the flashing lights (not gate arm lights) on any approach lane to the crossing are not functioning as intended, or in the case of an approach lane for which two or more pairs of flashing lights are provided, there is not at least one flashing light pair operating as intended. Back lights on the far side of the crossing are not considered in making these determinations.
+*Accident/incident* means any impact between railroad on-track equipment and a highway user at a highway-rail grade crossing or pathway grade crossing. The term “highway user” includes automobiles, buses, trucks, motorcycles, bicycles, farm vehicles, pedestrians, and all other modes of surface transportation motorized and un-motorized.
+
+*Activation failure* means the failure of an active highway-rail grade crossing warning system to indicate the approach of a train at least 20 seconds prior to the train's arrival at the crossing, or to indicate the presence of a train occupying the crossing, unless the crossing is provided with an alternative means of active warning to highway users of approaching trains. (This failure indicates to the motorist that it is safe to proceed across the railroad tracks when, in fact, it is not safe to do so.) A grade crossing signal system does not indicate the approach of a train within the meaning of this paragraph if—more than 50% of the flashing lights (not gate arm lights) on any approach lane to the crossing are not functioning as intended, or in the case of an approach lane for which two or more pairs of flashing lights are provided, there is not at least one flashing light pair operating as intended. Back lights on the far side of the crossing are not considered in making these determinations.
 
 *Appropriately equipped flagger* means a person other than a train crewmember who is equipped with a vest, shirt, or jacket of a color appropriate for daytime flagging such as orange, yellow, strong yellow green or fluorescent versions of these colors or other generally accepted high visibility colors. For nighttime flagging, similar outside garments shall be retro reflective. Acceptable hand signal devices for daytime flagging include “ STOP/SLOW” paddles or red flags. For nighttime flagging, a flashlight, lantern, or other lighted signal shall be used. Inasmuch as Part VI of the Federal Highway Administration's Manual on Uniform Traffic Control Devices addresses standards and guides for flaggers and flagging equipment for highway traffic control, FRA recommends that railroads be aware of the standards and follow them to the greatest extent possible. Copies of the latest MUTCD provisions regarding flagging will be available from FRA, as well as FMCSA, as changes are made in this area.
 
@@ -24,10 +24,20 @@ As used in this part:
 
 (3) At gated crossings, any portion of a gate arm is missing if that portion normally had a gate arm flashing light attached.
 
+*Pathway grade crossing* means a pathway that crosses one or more railroad tracks at grade and that is—
+
+(1) Explicitly authorized by a public authority or a railroad;
+
+(2) Dedicated for the use of non-vehicular traffic, including pedestrians, bicyclists, and others; and
+
+(3) Not associated with a public highway, road, or street, or a private roadway.
+
 *Plant railroad* means a plant or installation that owns or leases a locomotive, uses that locomotive to switch cars throughout the plant or installation, and is moving goods solely for use in the facility's own industrial processes. The plant or installation could include track immediately adjacent to the plant or installation if the plant railroad leases the track from the general system railroad and the lease provides for (and actual practice entails) the exclusive use of that trackage by the plant railroad and the general system railroad for purposes of moving only cars shipped to or from the plant. A plant or installation that operates a locomotive to switch or move cars for other entities, even if solely within the confines of the plant or installation, rather than for its own purposes or industrial processes, will not be considered a plant railroad because the performance of such activity makes the operation part of the general railroad system of transportation.
+
+*State highway-rail grade crossing action plan or Action Plan* means a document submitted to FRA for review and approval by a State of the United States (or the District of Columbia), which contains the elements required by § 234.11(e) to address safety at highway-rail and pathway grade crossings.
 
 *Train* means one or more locomotives, with or without cars.
 
 *Warning system malfunction* or *warning system malfunction at a highway-rail grade crossing* means an activation failure, a partial activation, or a false activation of a highway-rail grade crossing warning system.
 
-[61 FR 31806, June 20, 1996, as amended at 77 FR 35191, June 12, 2012]
+[61 FR 31806, June 20, 1996, as amended at 77 FR 35191, June 12, 2012; 85 FR 80659, Dec. 14, 2020]

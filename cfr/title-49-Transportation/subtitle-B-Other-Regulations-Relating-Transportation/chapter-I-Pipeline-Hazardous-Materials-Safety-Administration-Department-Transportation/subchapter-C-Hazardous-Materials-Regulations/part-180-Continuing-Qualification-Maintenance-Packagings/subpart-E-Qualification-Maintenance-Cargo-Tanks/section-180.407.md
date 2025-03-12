@@ -1,6 +1,6 @@
 ##### § 180.407 Requirements for test and inspection of specification cargo tanks. #####
 
-Link to an amendment published at 85 FR 83403, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83403, Dec. 21, 2020.Link to an amendment published at 86 FR 2504, Jan. 13, 2021.
 
 (a) *General.* (1) A cargo tank constructed in accordance with a DOT specification for which a test or inspection specified in this section has become due, may not be filled and offered for transportation or transported until the test or inspection has been successfully completed. This paragraph does not apply to any cargo tank filled prior to the test or inspection due date.
 

@@ -1,6 +1,6 @@
 ##### § 173.159 Batteries, wet. #####
 
-Link to an amendment published at 85 FR 83398, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83398, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
 
 (a) Electric storage batteries, containing electrolyte acid or alkaline corrosive battery fluid (wet batteries), may not be packed with other materials except as provided in paragraphs (g) and (h) of this section and in §§ 173.220 and 173.222; and any battery or battery-powered device must be prepared and packaged for transport in a manner to prevent:
 

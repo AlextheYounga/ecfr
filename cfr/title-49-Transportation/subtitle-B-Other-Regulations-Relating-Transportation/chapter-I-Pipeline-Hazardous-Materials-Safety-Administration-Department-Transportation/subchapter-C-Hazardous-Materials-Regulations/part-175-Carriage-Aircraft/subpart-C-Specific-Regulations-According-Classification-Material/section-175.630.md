@@ -1,6 +1,6 @@
 ##### § 175.630 Special requirements for Division 6.1 (poisonous) material and Division 6.2 (infectious substances) materials. #####
 
-Link to an amendment published at 85 FR 83402, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83402, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
 
 (a) [Reserved]
 

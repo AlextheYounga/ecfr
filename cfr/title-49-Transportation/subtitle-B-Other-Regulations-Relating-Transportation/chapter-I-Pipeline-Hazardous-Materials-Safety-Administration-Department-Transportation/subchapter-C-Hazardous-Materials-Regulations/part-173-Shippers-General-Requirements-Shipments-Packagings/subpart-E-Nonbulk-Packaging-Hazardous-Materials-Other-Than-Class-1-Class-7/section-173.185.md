@@ -1,6 +1,6 @@
 ##### § 173.185 Lithium cells and batteries. #####
 
-Link to an amendment published at 85 FR 83398, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83398, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
 
 As used in this section, *consignment* means one or more packages of hazardous materials accepted by an operator from one shipper at one time and at one address, receipted for in one lot and moving to one consignee at one destination address. *Equipment* means the device or apparatus for which the lithium cells or batteries will provide electrical power for its operation. *Lithium cell(s)* or *battery(ies)* includes both lithium metal and lithium ion chemistries. *Medical device* means an instrument, apparatus, implement, machine, contrivance, implant, or in vitro reagent, including any component, part, or accessory thereof, which is intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, of a person.
 

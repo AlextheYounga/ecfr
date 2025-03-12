@@ -1,6 +1,6 @@
 ##### § 173.197 Regulated medical waste. #####
 
-Link to an amendment published at 85 FR 83399, Dec. 21, 2020.
+Link to an amendment published at 85 FR 83399, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
 
 (a) *General provisions.* Non-bulk packagings, Large Packagings, and non-specification bulk outer packagings used for the transportation of regulated medical waste or clinical waste or (bio) medical waste must be rigid containers meeting the provisions of subpart B of this part.
 
