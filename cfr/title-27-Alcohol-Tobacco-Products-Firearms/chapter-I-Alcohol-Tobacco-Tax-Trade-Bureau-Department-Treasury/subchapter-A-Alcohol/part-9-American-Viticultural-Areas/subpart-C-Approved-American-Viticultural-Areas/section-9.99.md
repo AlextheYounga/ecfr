@@ -1,5 +1,7 @@
 ##### § 9.99 Clear Lake. #####
 
+Link to an amendment published at 87 FR 33645, June 3, 2022.
+
 (a) *Name.* The name of the viticultural area described in this section is “Clear Lake.”
 
 (b) *Approved Maps.* The appropriate maps for determining the boundaries of the Clear Lake viticultural area are four U.S.G.S. maps. The maps are titled as follows:

@@ -1,10 +1,10 @@
 ##### § 164.38 Automatic radar plotting aids (ARPA). #####
 
-(a) The following definitions are used in this section -
+(a) The following definitions are used in this section—
 
 *Bulk* means material in any quantity that is shipped, stored, or handled without benefit of package, label, mark or count and carried in integral or fixed independent tanks.
 
-*Constructed* means a stage of construction where -
+*Constructed* means a stage of construction where—
 
 (1) The keel is laid;
 
@@ -12,7 +12,7 @@
 
 (3) Assembly of that ship has commenced comprising at least 50 tons or 1 percent of the estimated mass of all structural material, whichever is less.
 
-*Hazardous material* means -
+*Hazardous material* means—
 
 (1) A flammable liquid as defined in 46 CFR 30.10-22 or a combustible liquid as defined in 46 CFR 30.10-15;
 
@@ -46,7 +46,7 @@
 
 (2) [Reserved]
 
-Appendix A to § 164.38 - Performance Standards For Automatic Radar Plotting Aids (ARPA)1 Introduction
+Appendix A to § 164.38—Performance Standards For Automatic Radar Plotting Aids (ARPA)1 Introduction
 
 1.1 The Automatic Radar Plotting Aids (ARPA) should, in order to improve the standard of collision avoidance at sea:
 
@@ -186,111 +186,111 @@ Appendix A to § 164.38 - Performance Standards For Automatic Radar Plotting Aid
 
 3.11.1 Log and speed indicators providing inputs to ARPA equipment should be capable of providing the ship's speed through the water.
 
-Annex 1 to Appendix A to § 164.38 - Definitions of Terms To Be Used Only in Connection With ARPA Performance Standards
+Annex 1 to Appendix A to § 164.38—Definitions of Terms To Be Used Only in Connection With ARPA Performance Standards
 
-Relative course - The direction of motion of a target related to own ship as deduced from a number of measurements of its range and bearing on the radar. Expressed as an angular distance from North.
+Relative course—The direction of motion of a target related to own ship as deduced from a number of measurements of its range and bearing on the radar. Expressed as an angular distance from North.
 
-Relative speed - The speed of a target related to own ship, as deduced from a number of measurements of its range and bearing on the radar.
+Relative speed—The speed of a target related to own ship, as deduced from a number of measurements of its range and bearing on the radar.
 
-True course - The apparent heading of a target obtained by the vectorial combination of the target's relative motion and ship's own motion1./\> Expressed as an angular distance from North.
+True course—The apparent heading of a target obtained by the vectorial combination of the target's relative motion and ship's own motion1. Expressed as an angular distance from North.
 
 1 For the purpose of these definitions there is no need to distinguish between sea or ground stabilization.
 
-True speed - The speed of a target obtained by the vectorial combination of its relative motion and own ship's motion1.
+True speed—The speed of a target obtained by the vectorial combination of its relative motion and own ship's motion1.
 
-Bearing - The direction of one terrestrial point from another. Expressed as an angular distance from North.
+Bearing—The direction of one terrestrial point from another. Expressed as an angular distance from North.
 
-Relative motion display - The position of own ship on such a display remains fixed.
+Relative motion display—The position of own ship on such a display remains fixed.
 
-True motion display - The position of own ship on such display moves in accordance with its own motion.
+True motion display—The position of own ship on such display moves in accordance with its own motion.
 
-Azimuth stabilization - Own ship's compass information is fed to the display so that echoes of targets on the display will not be caused to smear by changes of own ship's heading.
+Azimuth stabilization—Own ship's compass information is fed to the display so that echoes of targets on the display will not be caused to smear by changes of own ship's heading.
 
-/North-up - The line connecting the center with the top of this display is North./Head-up - The line connecting the center with the top of the display is own ship heading./Course-up - An intended course can be set to the line connecting the center with the top of the display.
+/North-up—The line connecting the center with the top of this display is North./Head-up—The line connecting the center with the top of the display is own ship heading./Course-up—An intended course can be set to the line connecting the center with the top of the display.
 
-Heading - The direction in which the bow of a vessel is pointing. Expressed as an angular distance from North.
+Heading—The direction in which the bow of a vessel is pointing. Expressed as an angular distance from North.
 
-Target's predicted motion - The indication on the display of a liner extrapolation into the future of a target's motion, based on measurements of the target's range and bearing on the radar in the recent past.
+Target's predicted motion—The indication on the display of a liner extrapolation into the future of a target's motion, based on measurements of the target's range and bearing on the radar in the recent past.
 
-Target's motion trend - An early indication of the target's predicted motion.
+Target's motion trend—An early indication of the target's predicted motion.
 
-Radar Plotting - The whole process of target detection, tracking, calculation of parameters and display of information.
+Radar Plotting—The whole process of target detection, tracking, calculation of parameters and display of information.
 
-Detection - The recognition of the presence of a target.
+Detection—The recognition of the presence of a target.
 
-Acquisition - The selection of those targets requiring a tracking procedure and the initiation of their tracking.
+Acquisition—The selection of those targets requiring a tracking procedure and the initiation of their tracking.
 
-Tracking - The process of observing the sequential changes in the position of a target, to establish its motion.
+Tracking—The process of observing the sequential changes in the position of a target, to establish its motion.
 
-Display - The plan position presentation of ARPA data with radar data.
+Display—The plan position presentation of ARPA data with radar data.
 
-Manual - An activity which a radar observer performs, possibly with assistance from a machine.
+Manual—An activity which a radar observer performs, possibly with assistance from a machine.
 
-Automatic - An activity which is performed wholly by a machine.
+Automatic—An activity which is performed wholly by a machine.
 
-Annex 2 to Appendix A to § 164.38 - Operational Scenarios
+Annex 2 to Appendix A to § 164.38—Operational Scenarios
 
 For each of the following scenarios predictions are made at the target position defined after previously tracking for the appropriate time of one or three minutes:
 
 Scenario 1
 
-Own ship course - 000°
+Own ship course—000°
 
-Own ship speed - 10 kt
+Own ship speed—10 kt
 
-Target range - 8 n.m.
+Target range—8 n.m.
 
-Bearing of target - 000°
+Bearing of target—000°
 
-Relative course of target - 180°
+Relative course of target—180°
 
-Relative speed of target - 20 kt
+Relative speed of target—20 kt
 
 Scenario 2
 
-Own ship course - 000°
+Own ship course—000°
 
-Own ship speed - 10 kt
+Own ship speed—10 kt
 
-Target range - 1 n.m.
+Target range—1 n.m.
 
-Bearing of target - 000°
+Bearing of target—000°
 
-Relative course of target - 090°
+Relative course of target—090°
 
-Relative speed of target - 10 kt
+Relative speed of target—10 kt
 
 Scenario 3
 
-Own ship course - 000°
+Own ship course—000°
 
-Own ship speed - 5 kt
+Own ship speed—5 kt
 
-Target range - 8 n.m.
+Target range—8 n.m.
 
-Bearing of target - 045°
+Bearing of target—045°
 
-Relative course of target - 225°
+Relative course of target—225°
 
-Relative speed of target - 20 kt
+Relative speed of target—20 kt
 
 Scenario 4
 
-Own ship course - 000°
+Own ship course—000°
 
-Own ship speed - 25 kt
+Own ship speed—25 kt
 
-Target range - 8 n.m.
+Target range—8 n.m.
 
-Bearing of target - 045°
+Bearing of target—045°
 
-Relative course of target - 225°
+Relative course of target—225°
 
-Relative speed of target - 20 kt
+Relative speed of target—20 kt
 
-Annex 3 to Appendix A to § 164.38 - Sensor Errors
+Annex 3 to Appendix A to § 164.38—Sensor Errors
 
-The accuracy figures quoted in paragraph 3.8 are based upon the following sensor errors and are appropriate to equipment complying with the Organization's performance standards for shipborne navigational equipment.2/\>
+The accuracy figures quoted in paragraph 3.8 are based upon the following sensor errors and are appropriate to equipment complying with the Organization's performance standards for shipborne navigational equipment.2
 
 2 In calculations leading to the accuracy figures quoted in paragraph 3.8, these sensor error sources and magnitudes were used. They were arrived at during discussions with national government agencies and equipment manufacturers and are appropriate to equipments complying with the Organization's draft performance standards for radar equipment (preliminary) (NAV XXII/WP.14), gyro compasses (NAV XXI/9, Annex X) and logs (preliminary) (NAV XXII/WP.15).
 
@@ -308,17 +308,17 @@ Across beam of target o = 1 m. (normal distribution)
 
 *Roll-Pitch Bearing.* The bearing error will peak in each of the four quadrants around own ship for targets on relative bearings of 045°, 135°, 225° and 315° and will be zero at relative bearings of 0°, 90°, 180° and 270°. This error has a sinusoidal variation at twice the roll frequency. For a 10° roll the mean error is 0.22° with a 0.22° peak sine wave superimposed.
 
-*Beam shape* - assumed normal distribution giving bearing error with o = 0.05.
+*Beam shape*—assumed normal distribution giving bearing error with o = 0.05.
 
-*Pulse shape -*  assumed normal distribution giving range error with o = 20 meters.
+*Pulse shape—* assumed normal distribution giving range error with o = 20 meters.
 
-*Antenna backlash* - assumed rectangular distribution giving bearing error ±0.5 maximum.
+*Antenna backlash*—assumed rectangular distribution giving bearing error ±0.5 maximum.
 
 Quantization
 
-Bearing - rectangular distribution ±0.01° maximum.
+Bearing—rectangular distribution ±0.01° maximum.
 
-Range - rectangular distribution ±0.01 n.m. maximum.
+Range—rectangular distribution ±0.01 n.m. maximum.
 
 Bearing encoder assumed to be running from a remote synchro giving bearing errors with a normal distribution o = 0.03°
 
@@ -334,7 +334,7 @@ Calibration error 0.5 kt.
 
 Normal distribution about this, 3 o = 0.2 kt.
 
-Appendix B to § 164.38 - U.S. Maritime Administration Collision Avoidance System Specification
+Appendix B to § 164.38—U.S. Maritime Administration Collision Avoidance System Specification
 
 A collision system designed as a supplement to both surface search navigational radars via interswitching shall be installed. The system shall provide unattended monitoring of all radar echoes and automatic audio and visual alarm signals that will alert the watch officer of a possible threat. The display shall be contained within a console capable of being installed adjacent to the radar displays in the wheelhouse and may form a part of the bridge console.
 
@@ -348,7 +348,7 @@ The system display shall include a heading indication and bearing ring. The syst
 
 Target acquisition, for display data purposes, may be manual, automatic or both, as specified by Owner.
 
-For any manual acquisition system the alarms shall be initiated by a preset minimum range; and likewise for any automatic acquisition system the alarms shall be initiated by a preset minimum acceptable passing distance (CPA - Closest Point of Approach) and a preset advance warning time (TCPA - Time to Closest Point of Approach). Means shall be provided to silence the audio alarm for a given threat but the alarm shall resound upon a subsequent threat. The visual alarm shall continue to operate until all threats have been eliminated. If the collision avoidance system fails to perform as indicated above, after the system is set for unattended monitoring, the system shall produce both audio and visual warning alarms.
+For any manual acquisition system the alarms shall be initiated by a preset minimum range; and likewise for any automatic acquisition system the alarms shall be initiated by a preset minimum acceptable passing distance (CPA—Closest Point of Approach) and a preset advance warning time (TCPA—Time to Closest Point of Approach). Means shall be provided to silence the audio alarm for a given threat but the alarm shall resound upon a subsequent threat. The visual alarm shall continue to operate until all threats have been eliminated. If the collision avoidance system fails to perform as indicated above, after the system is set for unattended monitoring, the system shall produce both audio and visual warning alarms.
 
 The system shall be capable of simulating a trial maneuver.
 

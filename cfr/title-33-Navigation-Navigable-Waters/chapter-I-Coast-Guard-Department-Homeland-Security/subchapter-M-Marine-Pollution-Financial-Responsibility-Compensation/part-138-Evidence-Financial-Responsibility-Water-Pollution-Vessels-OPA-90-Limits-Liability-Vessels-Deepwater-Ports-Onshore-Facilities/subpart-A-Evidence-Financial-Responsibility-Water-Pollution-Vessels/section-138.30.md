@@ -1,16 +1,16 @@
 ##### § 138.30 Definitions. #####
 
-(a) As used in this subpart, the following terms have the meanings set forth in -
+(a) As used in this subpart, the following terms have the meanings set forth in—
 
 (1) OPA 90 (specifically in 33 U.S.C. 2701): *Claim, claimant, damages, deepwater port, discharge, Exclusive Economic Zone, facility, incident, liable* or *liability, mobile offshore drilling unit, navigable waters, offshore facility, oil, owner or operator, person, remove, removal, removal costs, responsible party, tank vessel, United States,* and *vessel;* and
 
 (2) CERCLA (42 U.S.C. 9601): *Claim, claimant, damages, facility, hazardous substance, liable* or *liability, navigable waters, offshore facility, owner or operator, person, remove, removal, United States,* and *vessel.*
 
-(3) 46 CFR 69.9: *Convention Measurement System, foreign-flag vessel,**gross tonnage ITC (GT ITC)*1/\> and *gross register tonnage (GRT), tonnage,* and *U.S.-flag vessel.*
+(3) 46 CFR 69.9: *Convention Measurement System, foreign-flag vessel,**gross tonnage ITC (GT ITC)*1 and *gross register tonnage (GRT), tonnage,* and *U.S.-flag vessel.*
 
 1 The acronym “ITC” refers to the International Tonnage Convention. GT ITC, as defined in 46 CFR 69.9 means the gross tonnage measurement of a vessel as applied under the Convention Measurement System.
 
-(b) As used in this subpart -
+(b) As used in this subpart—
 
 *Applicable amount* means an OPA 90 or CERCLA evidence of financial responsibility amount determined to apply to a vessel as provided under § 138.100.
 
@@ -22,7 +22,7 @@
 
 *COFR* means a current Certificate of Financial Responsibility (Water Pollution) issued by the Director, under this subpart, as provided in § 138.70, and posted on the NPFC COFR program website *https://npfc.uscg.mil/cofr/default.aspx.*
 
-*COFR Operator* means a responsible party who conducts, or has responsibility for, the operation of a vessel to which this subpart applies - that is, a person who is an operator as defined in OPA 90 and CERCLA, and, when there is more than one responsible party (including more than one operator), is the operator designated and authorized by all the vessel's responsible parties to act on their behalf for the purpose of complying with this subpart, including submitting (or causing to be submitted) all Applications and requests for COFR renewal, evidence of financial responsibility and reports, and payment of all fees required by § 138.120.
+*COFR Operator* means a responsible party who conducts, or has responsibility for, the operation of a vessel to which this subpart applies—that is, a person who is an operator as defined in OPA 90 and CERCLA, and, when there is more than one responsible party (including more than one operator), is the operator designated and authorized by all the vessel's responsible parties to act on their behalf for the purpose of complying with this subpart, including submitting (or causing to be submitted) all Applications and requests for COFR renewal, evidence of financial responsibility and reports, and payment of all fees required by § 138.120.
 
 (i) If a vessel has one owner and is operated by that owner, or the owner controls and is responsible for the vessel's operation, the owner is the COFR Operator. In all other cases the person who operates, or controls and is principally responsible for the operation of, the vessel (for example, the demise charterer) is the COFR Operator.
 
