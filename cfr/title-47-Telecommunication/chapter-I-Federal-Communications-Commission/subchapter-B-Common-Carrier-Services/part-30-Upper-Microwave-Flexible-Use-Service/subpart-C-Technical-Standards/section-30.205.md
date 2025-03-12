@@ -1,10 +1,6 @@
 ##### § 30.205 Federal coordination requirements. #####
 
-Link to an amendment published at 84 FR 20820, May 13, 2019.
-
 (a) Licensees in the 37-38 GHz band located within the zones defined by the coordinates in the tables below must coordinate their operations with Federal Space Research Service (space to Earth) users of the band via the National Telecommunications and Information Administration (NTIA). All licensees operating within the zone defined by the 60 dBm/100 MHz EIRP coordinates in the tables below must coordinate all operations. Licensees operating within the area between the zones defined by the 60 dBm and 75 dBm/100 MHz EIRP coordinates in the tables below must coordinate all operations if their base station EIRP is greater than 60 dBm/100 MHz or if their antenna height exceeds 100 meters above ground level. Licensees operating outside the zones defined by the 75 dBm/100 MHz EIRP coordinates in the tables below are not required to coordinate their operations with NTIA.
-
-Table 1 to Paragraph (a): Goldstone, California Coordination Zone
 
 |           60 dBm/100 MHz EIRP            |           75 dBm/100 MHz EIRP            |                                          |                                          |
 |------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
@@ -27,8 +23,6 @@ Table 1 to Paragraph (a): Goldstone, California Coordination Zone
 |           34.33405/−117.94189            |                                          |           34.37524/−118.24191            |                                          |
 |           34.27249/−117.65445            |                                          |           34.37039/−118.22557            |                                          |
 
-Table 2 to Paragraph (a) - Socorro, New Mexico Coordination Zone
-
 |           60 dBm/100 MHz EIRP            |           75 dBm/100 MHz EIRP            |                                          |
 |------------------------------------------|------------------------------------------|------------------------------------------|
 |Latitude/longitude  <br/>(decimal degrees)|Latitude/longitude  <br/>(decimal degrees)|Latitude/longitude  <br/>(decimal degrees)|
@@ -46,8 +40,6 @@ Table 2 to Paragraph (a) - Socorro, New Mexico Coordination Zone
 |           33.67909/−108.58750            |                                          |           33.29430/−108.65004            |
 |           33.50223/−108.65470            |                                          |           33.10651/−108.19320            |
 
-Table 3 to Paragraph (a) - White Sands, New Mexico Coordination Zone
-
 |           60 dBm/100 MHz EIRP            |           75 dBm/100 MHz EIRP            |                                          |                                          |
 |------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
 |Latitude/longitude  <br/>(decimal degrees)|Latitude/longitude  <br/>(decimal degrees)|Latitude/longitude  <br/>(decimal degrees)|Latitude/longitude  <br/>(decimal degrees)|
@@ -64,26 +56,24 @@ Table 3 to Paragraph (a) - White Sands, New Mexico Coordination Zone
 
 (b) Licensees in the 37-38.6 GHz band located within the zones defined by the coordinates in the table below must coordinate their operations with the Department of Defense via the National Telecommunications and Information Administration (NTIA).
 
-Table to Paragraph (b) - Coordination Areas for Federal Terrestrial Systems
+|          Location           | Agency  |                  Coordination area  <br/>(decimal degrees)                  |
+|-----------------------------|---------|-----------------------------------------------------------------------------|
+|       China Lake, CA        |  Navy   |50 kilometer radius centered on latitude 35.614781 and longitude −117.454309.|
+|        San Diego, CA        |  Navy   | 30 kilometer radius centered on latitude 32.68333 and longitude −117.23333. |
+|        Nanakuli, HI         |  Navy   | 30 kilometer radius centered on latitude 21.38333 and longitude −158.13333. |
+|     Fishers Island, NY      |  Navy   |   30 kilometer radius centered on latitude 41.25 and longitude −72.01666.   |
+|       Saint Croix, VI       |  Navy   |   30 kilometer radius centered on latitude 17.74722 and longitude −64.88.   |
+|       Fort Irwin, CA        |  Army   | 30 kilometer radius centered on latitude 35.26666 and longitude −116.68333. |
+|       Fort Carson, CO       |  Army   |  30 kilometer radius centered on latitude 38.71666 and longitude −104.65.   |
+|        Fort Hood, TX        |  Army   | 30 kilometer radius centered on latitude 31.11666 and longitude −97.76666.  |
+|       Fort Bliss, TX        |  Army   | 30 kilometer radius centered on latitude 31.8075 and longitude −106.42166.  |
+|   Yuma Proving Ground, AZ   |  Army   | 30 kilometer radius centered on latitude 32.48333 and longitude −114.33333. |
+|      Fort Huachuca, AZ      |  Army   |    30 kilometer radius centered on latitude 31.55 and longitude −110.35.    |
+|White Sands Missile Range, NM|  Army   |    30 kilometer radius centered on latitude 33.35 and longitude −106.3.     |
+|       Edwards AFB, CA       |Air Force|20 kilometer radius centered on latitude 34.922905 and longitude −117.891219.|
+|  Moody Air Force Base, GA   |Air Force|  30 kilometer radius centered on latitude 30.96694 and longitude −83.185.   |
+| Hurlburt Air Force Base, FL |Air Force| 30 kilometer radius centered on latitude 30.42388 and longitude −86.70694.  |
 
-|          Location           | Agency  |                 Coordination area  <br/>(decimal degrees)                 |
-|-----------------------------|---------|---------------------------------------------------------------------------|
-|       China Lake, CA        |  Navy   |30 kilometer radius centered on latitude 35.59527 and longitude −117.22583.|
-|                             |         |30 kilometer radius centered on latitude 35.52222 and longitude −117.30333.|
-|                             |         |30 kilometer radius centered on latitude 35.76222 and longitude −117.60055.|
-|                             |         |30 kilometer radius centered on latitude 35.69111 and longitude −117.66916.|
-|        San Diego, CA        |  Navy   |30 kilometer radius centered on latitude 32.68333 and longitude −117.23333.|
-|        Nanakuli, HI         |  Navy   |30 kilometer radius centered on latitude 21.38333 and longitude −158.13333.|
-|     Fishers Island, NY      |  Navy   |  30 kilometer radius centered on latitude 41.25 and longitude −72.01666.  |
-|       Saint Croix, VI       |  Navy   |  30 kilometer radius centered on latitude 17.74722 and longitude −64.88.  |
-|       Fort Irwin, CA        |  Army   |30 kilometer radius centered on latitude 35.26666 and longitude −116.68333.|
-|       Fort Carson, CO       |  Army   | 30 kilometer radius centered on latitude 38.71666 and longitude −104.65.  |
-|        Fort Hood, TX        |  Army   |30 kilometer radius centered on latitude 31.11666 and longitude −97.76666. |
-|       Fort Bliss, TX        |  Army   |30 kilometer radius centered on latitude 31.8075 and longitude −106.42166. |
-|   Yuma Proving Ground, AZ   |  Army   |30 kilometer radius centered on latitude 32.48333 and longitude −114.33333.|
-|      Fort Huachuca, AZ      |  Army   |   30 kilometer radius centered on latitude 31.55 and longitude −110.35.   |
-|White Sands Missile Range, NM|  Army   |   30 kilometer radius centered on latitude 33.35 and longitude −106.3.    |
-|  Moody Air Force Base, GA   |Air Force| 30 kilometer radius centered on latitude 30.96694 and longitude −83.185.  |
-| Hurlburt Air Force Base, FL |Air Force|30 kilometer radius centered on latitude 30.42388 and longitude −86.70694. |
+(c) In addition to the locations listed in table 4 to paragraph (b) of this section, requests may be submitted to the Commission for access to the 37.6-38.6 GHz band for specific additional military bases and ranges for the purpose of defense applications or national security when the proposed military operations cannot be accommodated in the 37-37.6 GHz band.
 
-[81 FR 79937, Nov. 14, 2016, as amended at 84 FR 18405, May 1, 2019]
+[81 FR 79937, Nov. 14, 2016, as amended at 84 FR 18405, May 1, 2019; 84 FR 20820, May 13, 2019]

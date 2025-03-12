@@ -1,12 +1,10 @@
 ##### § 1220.223 Assessments. #####
 
-Link to an amendment published at 84 FR 20770, May 13, 2019.
-
 (a)(1) Except as prescribed by regulations approved by the Secretary or as otherwise provided in this section, each first purchaser of soybeans shall collect an assessment from the producer, and each producer shall pay such assessment to the first purchaser, at the rate of one-half of one percent (0.5%) of the net market price of the soybeans purchased. Each first purchaser shall remit such assessment to the Board or to a Qualified State Soybean Board, as provided in paragraph (a)(5) of this section.
 
 (2) Any producer marketing processed soybeans or soybean products of that producer's own production, shall remit to a Qualified State Soybean Board or to the Board, as provided in paragraph (a)(5) of this section, an assessment on such soybeans or soybean products at a rate of one-half of one percent (0.5%) of the net market price of the soybeans involved or the equivalent thereof.
 
-(3) In determining the assessment due from each producer under paragraph (a)(1) or (a)(2) of this section, a producer who is contributing to a Qualified State Soybean Board shall receive a credit from the Board for contributions to such Qualified State Soybean Board on any soybeans assessed under this section in an amount not to exceed one-quarter of one percent of the net market price of the soybeans assessed.
+(3) In determining the assessment due from each producer under paragraph (a)(1) or (2) of this section, a producer who is contributing to a Qualified State Soybean Board shall receive a credit from the Board for contributions to such Qualified State Soybean Board on any soybeans assessed under this section in an amount not to exceed one-quarter of one percent of the net market price of the soybeans assessed. Producers receiving a refund from a State entity are required to remit that refunded portion to the Board in the manner and form required by the Secretary.
 
 (4) In order for a producer to receive the credit provided for in paragraph (a)(3) of this section, the Qualified State Soybean Board or the first purchaser must establish to the satisfaction of the Board that the producer has contributed to a Qualified State Soybean Board.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 84 FR 20770, May 13, 2019.
 
 (e) Following the continuance referendum, the Board, pursuant to procedures approved by the Secretary, shall ensure annually that each Qualified State Soybean Board is provided credit in accordance with the provisions of section 1969(n)(2) and subject to section 1969(n)(3) of the Act.
 
-[56 FR 31049, July 9, 1991, as amended at 56 FR 42923, Aug. 30, 1991; 57 FR 31096, July 14, 1992]
+[56 FR 31049, July 9, 1991, as amended at 56 FR 42923, Aug. 30, 1991; 57 FR 31096, July 14, 1992; 84 FR 20771, May 13, 2019]

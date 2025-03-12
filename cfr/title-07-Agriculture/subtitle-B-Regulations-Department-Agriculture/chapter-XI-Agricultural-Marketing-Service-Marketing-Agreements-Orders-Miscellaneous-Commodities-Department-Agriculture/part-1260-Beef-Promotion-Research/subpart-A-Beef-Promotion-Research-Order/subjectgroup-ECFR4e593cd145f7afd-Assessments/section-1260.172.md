@@ -1,6 +1,5 @@
-##### § 1260.172 Assessments. #####
-
-Link to an amendment published at 84 FR 20771, May 13, 2019.
+##### § 1260.172 Assessments.
+= #####
 
 (a) *Domestic assessments.* (1) Except as prescribed by regulations approved by the Secretary, each person making payment to a producer for cattle purchased from such producer shall be a collecting person and shall collect an assessment from the producer, and each producer shall pay such assessment to the collecting person, at the rate of one dollar ($1) per head of cattle purchased and such collecting person shall remit the assessment to the Board or to a qualified State beef council pursuant to § 1260.172(a)(5).
 
@@ -13,6 +12,8 @@ Link to an amendment published at 84 FR 20771, May 13, 2019.
 (5) Each person responsible for the remittance of the assessment pursuant to § 1260.172 (a) (1) and (2) shall remit the assessment to the qualified State beef council in the State from which the cattle originated prior to sale, or if there is no qualified State beef council within such State, the assessment shall be remitted directly to the Board. However, the Board, with the approval of the Secretary, may authorize qualified State beef councils to propose modifications to the foregoing “State of origin” rule to ensure effective coordination of assessment collections between qualified State beef councils. Qualified State beef councils and the Board shall coordinate assessment collection procedures to ensure that producers selling or marketing cattle in interstate commerce are required to pay only one assessment per individual sale of cattle. For the purpose of this subpart, “State of origin” rule means the State where the cattle were located at time of sale, or the State in which the cattle were located prior to sale if such cattle were transported interstate for the sole purpose of sale. Assessments shall be remitted not later than the 15th day of the month following the month in which the cattle were purchased or marketed.
 
 (6) If a State law or regulation promulgated pursuant to State law requires the payment and collection of a mandatory, nonrefundable assessment of more fifty (50) cents per head on the sale and purchase of cattle, or the equivalent thereof for beef and beef products as described in § 1260.172 (a)(1) and (2) for use by a qualified State beef council to fund activities similar to those described in § 1260.169, and such State law or regulation authorizes the issuance of a credit of that amount of the assessment which exceeds fifty (50) cents to producers who waive any right to the refund of the assessment credited by the State due pursuant to this subpart, then any producer subject to such State law or regulation who pays only the amount due pursuant to such State law or regulation and this subpart, including any credits issued, shall thereby waive that producer's right to receipt from the Board of a refund of such assessment for that portion of such refund for which the producer received credit pursuant to such State law or regulation.
+
+(7) A producer may request a redirection of assessments from a Qualified State Beef Council to the Board in accordance with § 1260.181(b)(8) or (9) by submitting a redirection request on the appropriate form postmarked by the 15th day of the month following the month in which the cattle were sold. Requests may not be retroactive. Requests to redirect assessments must be submitted by the producers who paid the assessments.
 
 (b) *Importer assessments.* (1) Importers of cattle, beef, and beef products into the United States shall pay an assessment to the Board through the U.S. Customs Service, or in such other manner as may be established by regulations approved by the Secretary.
 
@@ -116,4 +117,4 @@ Imported Beef and Beef Products
 
 (d) Money remitted pursuant to this subpart shall be in the form of a negotiable instrument made payable as appropriate to the qualified State beef council or the “Cattlemen's Beef Promotion and Research Board.” Such remittances and the reports specified in § 1260.201 shall be mailed to the location designated by the Board.
 
-[51 FR 26138, July 18, 1986, as amended at 53 FR 52631, Dec. 29, 1988 and 54 FR 15918, Apr. 20, 1989; 54 FR 28019, July 5, 1989; 71 FR 47076, Aug. 16, 2006; 82 FR 24457, May 30, 2017]
+[51 FR 26138, July 18, 1986, as amended at 53 FR 52631, Dec. 29, 1988 and 54 FR 15918, Apr. 20, 1989; 54 FR 28019, July 5, 1989; 71 FR 47076, Aug. 16, 2006; 82 FR 24457, May 30, 2017; 84 FR 20771, May 13, 2019]
