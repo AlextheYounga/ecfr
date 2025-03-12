@@ -1,5 +1,7 @@
 ##### § 252.54 Annual stress test. #####
 
+Link to an amendment published at 84 FR 59108, Nov. 1, 2019.
+
 (a) *In general.* A covered company must conduct an annual stress test. The stress test must be conducted by April 5 of each calendar year based on data as of December 31 of the preceding calendar year, unless the time or the as-of date is extended by the Board in writing.
 
 (b) *Scenarios provided by the Board* - (1) *In general.* In conducting a stress test under this section, a covered company must, at a minimum, use the scenarios provided by the Board. Except as provided in paragraphs (b)(2) and (3) of this section, the Board will provide a description of the scenarios to each covered company no later than February 15 of the calendar year in which the stress test is performed pursuant to this section.

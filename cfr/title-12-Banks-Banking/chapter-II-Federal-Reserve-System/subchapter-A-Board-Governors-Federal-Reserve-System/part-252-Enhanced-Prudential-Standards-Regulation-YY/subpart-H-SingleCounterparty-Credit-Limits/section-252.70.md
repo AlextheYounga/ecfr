@@ -1,5 +1,7 @@
 ##### § 252.70 Applicability and general provisions. #####
 
+Link to an amendment published at 84 FR 59109, Nov. 1, 2019.
+
 (a) *In general.* (1) This subpart establishes single counterparty credit limits for a covered company.
 
 (2) For purposes of this subpart:

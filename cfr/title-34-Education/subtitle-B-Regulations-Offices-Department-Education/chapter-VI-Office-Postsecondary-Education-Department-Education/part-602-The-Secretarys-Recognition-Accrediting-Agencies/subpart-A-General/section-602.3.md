@@ -1,5 +1,7 @@
 ##### § 602.3 What definitions apply to this part? #####
 
+Link to an amendment published at 84 FR 58917, Nov. 1, 2019.
+
 The following definitions apply to this part:
 
 *Accreditation* means the status of public recognition that an accrediting agency grants to an educational institution or program that meets the agency's standards and requirements.

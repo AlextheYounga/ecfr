@@ -1,5 +1,7 @@
 ##### § 252.172 Credit exposure limits. #####
 
+Link to an amendment published at 84 FR 59120, Nov. 1, 2019.
+
 (a) *General limit on aggregate net credit exposure.* No U.S. intermediate holding company that is a covered foreign entity may have an aggregate net credit exposure to any counterparty that exceeds 25 percent of the consolidated capital stock and surplus of the U.S. intermediate holding company.
 
 (b) *Limit on aggregate net credit exposure for U.S. intermediate holding companies with total consolidated assets that equal or exceed $250 billion and foreign banking organizations that are covered foreign entities.* (1) No U.S. intermediate holding company with total consolidated assets that equal or exceed $250 billion that is a covered foreign entity may have an aggregate net credit exposure to any counterparty that exceeds 25 percent of the tier 1 capital of the U.S. intermediate holding company.

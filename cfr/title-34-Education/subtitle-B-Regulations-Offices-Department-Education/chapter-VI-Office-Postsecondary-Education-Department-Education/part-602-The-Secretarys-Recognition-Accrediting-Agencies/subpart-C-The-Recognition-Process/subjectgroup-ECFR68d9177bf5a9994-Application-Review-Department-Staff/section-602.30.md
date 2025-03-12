@@ -1,5 +1,7 @@
 ##### § 602.30 Activities covered by recognition procedures. #####
 
+Link to an amendment published at 84 FR 58926, Nov. 1, 2019.
+
 Recognition proceedings are administrative actions taken on any of the following matters:
 
 (a) Applications for initial or continued recognition submitted under § 602.31(a).

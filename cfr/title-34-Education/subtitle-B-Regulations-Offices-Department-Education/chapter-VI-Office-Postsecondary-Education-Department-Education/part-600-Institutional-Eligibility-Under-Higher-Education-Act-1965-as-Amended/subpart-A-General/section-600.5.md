@@ -1,5 +1,7 @@
 ##### § 600.5 Proprietary institution of higher education. #####
 
+Link to an amendment published at 84 FR 58915, Nov. 1, 2019.
+
 (a) A proprietary institution of higher education is an educational institution that -
 
 (1) Is not a public or private nonprofit educational institution;

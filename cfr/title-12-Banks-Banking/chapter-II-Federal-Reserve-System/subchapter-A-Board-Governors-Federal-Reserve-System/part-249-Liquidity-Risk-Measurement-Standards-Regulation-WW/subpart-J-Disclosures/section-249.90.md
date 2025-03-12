@@ -1,5 +1,7 @@
 ##### § 249.90 Timing, method and retention of disclosures. #####
 
+Link to an amendment published at 84 FR 59276, Nov. 1, 2019.
+
 (a) *Applicability.* A covered depository institution holding company or covered nonbank company that is subject to the minimum liquidity standards and other requirements of this part under § 249.1 must disclose publicly all the information required under this subpart.
 
 (b) *Timing of disclosure.* (1) A covered depository institution holding company or covered nonbank company subject to this subpart must provide timely public disclosures each calendar quarter of all the information required under this subpart.

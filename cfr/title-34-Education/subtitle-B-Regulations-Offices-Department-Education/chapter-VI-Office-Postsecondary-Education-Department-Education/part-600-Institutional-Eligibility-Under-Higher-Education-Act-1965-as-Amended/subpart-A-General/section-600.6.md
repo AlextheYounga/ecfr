@@ -1,5 +1,7 @@
 ##### § 600.6 Postsecondary vocational institution. #####
 
+Link to an amendment published at 84 FR 58915, Nov. 1, 2019.
+
 (a) A postsecondary vocational institution is a public or private nonprofit educational institution that -
 
 (1) Is in a State;

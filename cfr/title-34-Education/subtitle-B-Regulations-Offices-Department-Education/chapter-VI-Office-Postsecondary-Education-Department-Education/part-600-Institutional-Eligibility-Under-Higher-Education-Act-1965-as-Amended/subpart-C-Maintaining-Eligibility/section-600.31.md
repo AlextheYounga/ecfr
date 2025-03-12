@@ -1,5 +1,7 @@
 ##### § 600.31 Change in ownership resulting in a change in control for private nonprofit, private for-profit and public institutions. #####
 
+Link to an amendment published at 84 FR 58916, Nov. 1, 2019.
+
 (a)(1) Except as provided in paragraph (a)(2) of this section, a private nonprofit, private for-profit, or public institution that undergoes a change in ownership that results in a change in control ceases to qualify as an eligible institution upon the change in ownership and control. A change in ownership that results in a change in control includes any change by which a person who has or thereby acquires an ownership interest in the entity that owns the institution or the parent corporation of that entity, acquires or loses the ability to control the institution.
 
 (2) If a private nonprofit, private for-profit, or public institution has undergone a change in ownership that results in a change in control, the Secretary may, under the provisions of § 600.20(g) and (h), continue the institution's participation in the title IV, HEA programs on a provisional basis, provided that the institution submits, under the provisions of § 600.20(g), a materially complete application -

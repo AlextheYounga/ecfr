@@ -1,6 +1,6 @@
 ##### § 17.95 Critical habitat - fish and wildlife. #####
 
-Link to an amendment published at 84 FR 52660, Oct. 2, 2019.Link to an amendment published at 84 FR 52800, Oct. 3, 2019.
+Link to an amendment published at 84 FR 52800, Oct. 3, 2019.
 
 (a) *Mammals.*
 
@@ -104,11 +104,11 @@ The map provided is for informational purposes only. Map follows:
 
 (ii) The map of Unit 3, barrier island habitat, follows:
 
-![](/graphics/er07de10.004.gif)Woodland Caribou (*Rangifer tarandus caribou*) Southern Selkirk Mountains Population
+![](/graphics/er07de10.004.gif)Woodland Caribou (*Rangifer tarandus caribou*), Southern Mountain Distinct Population Segment (DPS)
 
 (1) A critical habitat unit is depicted for Boundary County, Idaho, and Pend Oreille County, Washington, on the map below.
 
-(2) Within this area, the primary constituent elements of the physical and biological features essential to the conservation of the southern Selkirk Mountains population of woodland caribou consist of five components:
+(2) Within this area, the primary constituent elements of the physical and biological features essential to the conservation of the southern mountain caribou DPS consist of five components:
 
 (i) Mature to old-growth western hemlock (*Tsuga heterophylla*)/western red cedar (*Thuja plicata*) climax forest, and subalpine fir (*Abies lasiocarpa*)/Engelmann spruce (*Picea engelmanni*) climax forest at least 5,000 ft (1,520 m) in elevation; these habitats typically have 26-50 percent or greater canopy closure.
 
@@ -116,7 +116,7 @@ The map provided is for informational purposes only. Map follows:
 
 (iii) Presence of arboreal hair lichens.
 
-(iv) High-elevation benches and shallow slopes, secondary stream bottoms, riparian areas, and seeps, and subalpine meadows with succulent forbs and grasses, flowering plants, horsetails, willow, huckleberry, dwarf birch, sedges and lichens. The southern Selkirk Mountains population of woodland caribou, including pregnant females, uses these areas for feeding during the spring and summer seasons.
+(iv) High-elevation benches and shallow slopes, secondary stream bottoms, riparian areas, seeps, and subalpine meadows with succulent forbs and grasses, flowering plants, horsetails, willow, huckleberry, dwarf birch, sedges, and lichens. The southern mountain caribou DPS, including pregnant females, uses these areas for feeding during the spring and summer seasons.
 
 (v) Corridors/Transition zones that connect the habitats described above. If human activities occur, they are such that they do not impair the ability of caribou to use these areas.
 
@@ -124,9 +124,9 @@ The map provided is for informational purposes only. Map follows:
 
 (4) *Critical habitat map unit.* Data layers defining the map unit were created using a 5,000-ft (1,520-m) elevation layer derived from 30m USGS DEM plus migration-corridor polygons, and units were then mapped using Universal Transverse Mercator (UTM) Zone 11N coordinates. The map in this entry establishes the boundaries of the critical habitat designation. The coordinates or plot points or both on which the map is based are available to the public at the field office Internet site (*http://www.fws.gov/idaho*), at *http://www.regulations.gov* at Docket No. FWS-R1-ES-2011-0096, and at the Service's Idaho Fish and Wildlife Office. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
 
-(5) *Note:* Unit 1: Boundary County, Idaho, and Pend Oreille County, Washington. The map of the critical habitat unit follows:
+(5) Unit 1: Boundary County, Idaho, and Pend Oreille County, Washington. The map of the critical habitat unit follows:
 
-![](/graphics/er28no12.000.gif)Santa Catalina Island Fox (*Urocyon littoralis catalinae*)
+![](/graphics/er02oc19.003.gif)Santa Catalina Island Fox (*Urocyon littoralis catalinae*)
 
 We have determined that no areas meet the definition of critical habitat under section 3(5)(A) of the Act for Santa Catalina Island fox. Therefore, no specific areas are designated as critical habitat for this subspecies.
 

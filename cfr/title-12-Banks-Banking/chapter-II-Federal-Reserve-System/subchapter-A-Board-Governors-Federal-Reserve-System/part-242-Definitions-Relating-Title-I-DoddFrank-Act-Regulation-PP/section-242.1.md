@@ -1,5 +1,7 @@
 ##### § 242.1 Authority and purpose. #####
 
+Link to an amendment published at 84 FR 59096, Nov. 1, 2019.
+
 (a) *Authority.* This part is issued by the Board pursuant to sections 102(a)(7) and (b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) (12 U.S.C. 5311(a)(7) and (b)).
 
 (b) *Purpose.* (1) This part establishes the criteria for determining if a company is “predominantly engaged in financial activities” as required under section 102(b) of the Dodd-Frank Act (12 U.S.C. 5311(b)) for purposes of Title I of the Dodd-Frank Act.

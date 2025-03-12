@@ -1,5 +1,7 @@
 ##### § 3.172 Disclosure requirements. #####
 
+Link to an amendment published at 84 FR 59265, Nov. 1, 2019.
+
 (a) A national bank or Federal savings association that is an advanced approaches national bank or Federal savings association that has completed the parallel run process and that has received notification from the OCC pursuant to section 121(d) of subpart E of this part must publicly disclose each quarter its total and tier 1 risk-based capital ratios and their components as calculated under this subpart (that is, common equity tier 1 capital, additional tier 1 capital, tier 2 capital, total qualifying capital, and total risk-weighted assets).
 
 (b) A national bank or Federal savings association that is an advanced approaches national bank or Federal savings association that has completed the parallel run process and that has received notification from the OCC pursuant to section 121(d) of subpart E of this part must comply with paragraph (c) of this section unless it is a consolidated subsidiary of a bank holding company, savings and loan holding company, or depository institution that is subject to these disclosure requirements or a subsidiary of a non-U.S. banking organization that is subject to comparable public disclosure requirements in its home jurisdiction.

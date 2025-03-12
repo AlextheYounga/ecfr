@@ -1,5 +1,7 @@
 ##### § 249.1 Purpose and applicability. #####
 
+Link to an amendment published at 84 FR 59272, Nov. 1, 2019.
+
 (a) *Purpose.* This part establishes a minimum liquidity standard for certain Board-regulated institutions on a consolidated basis, as set forth herein.
 
 (b) *Applicability.* (1) A Board-regulated institution is subject to the minimum liquidity standard and other requirements of this part if:

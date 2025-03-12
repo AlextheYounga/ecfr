@@ -1,5 +1,7 @@
 ##### § 600.32 Eligibility of additional locations. #####
 
+Link to an amendment published at 84 FR 58916, Nov. 1, 2019.
+
 (a) Except as provided in paragraphs (b), (c), and (d) of this section, to qualify as an eligible location, an additional location of an eligible institution must satisfy the applicable requirements of this section and §§ 600.4, 600.5, 600.6, 600.8, and 600.10.
 
 (b) To qualify as an eligible location, an additional location is not required to satisfy the two-year requirement of §§ 600.5(a)(7) or 600.6(a)(6), unless -

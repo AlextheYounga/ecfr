@@ -1,5 +1,7 @@
 ##### § 217.1 Purpose, applicability, reservations of authority, and timing. #####
 
+Link to an amendment published at 84 FR 59269, Nov. 1, 2019.
+
 (a) *Purpose.* This part establishes minimum capital requirements and overall capital adequacy standards for entities described in paragraph (c)(1) of this section. This part includes methodologies for calculating minimum capital requirements, public disclosure requirements related to the capital requirements, and transition provisions for the application of this part.
 
 (b) *Limitation of authority.* Nothing in this part shall be read to limit the authority of the Board to take action under other provisions of law, including action to address unsafe or unsound practices or conditions, deficient capital levels, or violations of law or regulation, under section 8 of the Federal Deposit Insurance Act, section 8 of the Bank Holding Company Act, or section 10 of the Home Owners' Loan Act.

@@ -1,5 +1,7 @@
 ##### § 602.14 Purpose and organization. #####
 
+Link to an amendment published at 84 FR 58918, Nov. 1, 2019.
+
 (a) The Secretary recognizes only the following four categories of agencies:
 
 |The Secretary recognizes . . .|                                                                                                                              that . . .                                                                                                                              |

@@ -1,5 +1,7 @@
 ##### § 252.170 Applicability and general provisions. #####
 
+Link to an amendment published at 84 FR 59119, Nov. 1, 2019.
+
 (a) *In general.* (1) This subpart establishes single counterparty credit limits for a covered foreign entity.
 
 (2) For purposes of this subpart:

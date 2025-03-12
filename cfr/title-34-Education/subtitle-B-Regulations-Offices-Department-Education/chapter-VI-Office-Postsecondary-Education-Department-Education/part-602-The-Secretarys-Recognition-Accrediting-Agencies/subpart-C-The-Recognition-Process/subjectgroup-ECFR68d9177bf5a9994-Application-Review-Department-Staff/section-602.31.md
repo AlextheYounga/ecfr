@@ -1,5 +1,7 @@
 ##### § 602.31 Agency submissions to the Department. #####
 
+Link to an amendment published at 84 FR 58926, Nov. 1, 2019.
+
 (a) *Applications for recognition or renewal of recognition.* An accrediting agency seeking initial or continued recognition must submit a written application to the Secretary. Each accrediting agency must submit an application for continued recognition at least once every five years, or within a shorter time period specified in the final recognition decision. The application must consist of -
 
 (1) A statement of the agency's requested scope of recognition;

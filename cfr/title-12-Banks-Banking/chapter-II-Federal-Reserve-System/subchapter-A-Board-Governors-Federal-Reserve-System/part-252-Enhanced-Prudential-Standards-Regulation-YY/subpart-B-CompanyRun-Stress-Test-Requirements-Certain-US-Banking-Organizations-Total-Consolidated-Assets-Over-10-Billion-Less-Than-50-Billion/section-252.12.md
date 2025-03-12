@@ -1,5 +1,7 @@
 ##### § 252.12 Definitions. #####
 
+Link to an amendment published at 84 FR 59100, Nov. 1, 2019.
+
 For purposes of this subpart, the following definitions apply:
 
 (a) *Advanced approaches* means the regulatory capital requirements at 12 CFR part 217, subpart E, as applicable, and any successor regulation.

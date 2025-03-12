@@ -1,5 +1,7 @@
 ##### § 602.32 Procedures for Department review of applications for recognition or for change in scope, compliance reports, and increases in enrollment. #####
 
+Link to an amendment published at 84 FR 58927, Nov. 1, 2019.
+
 (a) After receipt of an agency's application for initial or continued recognition, or change in scope, or an agency's compliance report, or an agency's report submitted under § 602.31(d), Department staff publishes a notice of the agency's application or report in the Federal Register inviting the public to comment on the agency's compliance with the criteria for recognition and establishing a deadline for receipt of public comment.
 
 (b) The Department staff analyzes the agency's application for initial or renewal of recognition, compliance report, or report submitted under § 602.31(d) to determine whether the agency satisfies the criteria for recognition, taking into account all available relevant information concerning the compliance of the agency with those criteria and in the agency's effectiveness in applying the criteria. The analysis of an application for recognition and, as appropriate, of a compliance report, or of a report required under § 602.31(d), includes -

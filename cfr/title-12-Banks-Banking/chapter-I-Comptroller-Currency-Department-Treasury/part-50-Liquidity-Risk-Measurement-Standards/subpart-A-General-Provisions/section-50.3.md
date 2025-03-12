@@ -1,5 +1,7 @@
 ##### § 50.3 Definitions. #####
 
+Link to an amendment published at 84 FR 59266, Nov. 1, 2019.
+
 For the purposes of this part:
 
 *Affiliated depository institution* means with respect to a national bank or Federal savings association that is a depository institution, another depository institution that is a consolidated subsidiary of a bank holding company or savings and loan holding company of which the national bank or Federal savings association is also a consolidated subsidiary.

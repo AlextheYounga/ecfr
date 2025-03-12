@@ -1,5 +1,7 @@
 ##### § 242.4 Significant nonbank financial companies and significant bank holding companies. #####
 
+Link to an amendment published at 84 FR 59096, Nov. 1, 2019.
+
 For purposes of Title I of the Dodd-Frank Act, the following definitions shall apply:
 
 (a) *Significant nonbank financial company.* A “significant nonbank financial company” means -

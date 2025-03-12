@@ -1,5 +1,7 @@
 ##### § 600.11 Special rules regarding institutional accreditation or preaccreditation. #####
 
+Link to an amendment published at 84 FR 58916, Nov. 1, 2019.
+
 (a) *Change of accrediting agencies.* For purposes of §§ 600.4(a)(5)(i), 600.5(a)(6), and 600.6(a)(5)(i), the Secretary does not recognize the accreditation or preaccreditation of an otherwise eligible institution if that institution is in the process of changing its accrediting agency, unless the institution provides to the Secretary -
 
 (1) All materials related to its prior accreditation or preaccreditation; and

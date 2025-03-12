@@ -1,5 +1,7 @@
 ##### § 3.100 Purpose, applicability, and principle of conservatism. #####
 
+Link to an amendment published at 84 FR 59265, Nov. 1, 2019.
+
 (a) *Purpose.* This subpart E establishes:
 
 (1) Minimum qualifying criteria for national banks or Federal savings associations using institution-specific internal risk measurement and management processes for calculating risk-based capital requirements; and

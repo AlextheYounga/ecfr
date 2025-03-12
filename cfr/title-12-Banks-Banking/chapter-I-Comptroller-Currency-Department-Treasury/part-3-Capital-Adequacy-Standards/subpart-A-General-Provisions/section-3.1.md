@@ -1,6 +1,6 @@
 ##### § 3.1 Purpose, applicability, reservations of authority, and timing. #####
 
-Link to an amendment published at 84 FR 56374, Oct. 22, 2019.
+Link to an amendment published at 84 FR 56374, Oct. 22, 2019.Link to an amendment published at 84 FR 59263, Nov. 1, 2019.
 
 (a) *Purpose.* This part establishes minimum capital requirements and overall capital adequacy standards for national banks and Federal savings associations. This part does not apply to Federal branches and agencies of foreign banks. This part includes methodologies for calculating minimum capital requirements, public disclosure requirements related to the capital requirements, and transition provisions for the application of this part.
 

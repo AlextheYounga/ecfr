@@ -1,5 +1,7 @@
 ##### § 602.26 Notification of accrediting decisions. #####
 
+Link to an amendment published at 84 FR 58925, Nov. 1, 2019.
+
 The agency must demonstrate that it has established and follows written procedures requiring it to provide written notice of its accrediting decisions to the Secretary, the appropriate State licensing or authorizing agency, the appropriate accrediting agencies, and the public. The agency meets this requirement if the agency, following its written procedures -
 
 (a) Provides written notice of the following types of decisions to the Secretary, the appropriate State licensing or authorizing agency, the appropriate accrediting agencies, and the public no later than 30 days after it makes the decision:

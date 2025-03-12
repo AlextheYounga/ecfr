@@ -1,5 +1,7 @@
 ##### § 252.178 Compliance. #####
 
+Link to an amendment published at 84 FR 59121, Nov. 1, 2019.
+
 (a) *Scope of compliance.* (1) Using all available data, including any data required to be maintained or reported to the Federal Reserve under this subpart, a foreign banking organization that is a covered foreign entity or a U.S. intermediate holding company with total consolidated assets that equal or exceed $250 billion must comply with the requirements of this subpart on a daily basis at the end of each business day.
 
 (2) Using all available data, including any data required to be maintained or reported to the Federal Reserve under this subpart, a U.S. intermediate holding company with less than $250 billion in total consolidated assets must comply with the requirements of this subpart on a quarterly basis, unless the Board determines and notifies the entity in writing that more frequent compliance is required.

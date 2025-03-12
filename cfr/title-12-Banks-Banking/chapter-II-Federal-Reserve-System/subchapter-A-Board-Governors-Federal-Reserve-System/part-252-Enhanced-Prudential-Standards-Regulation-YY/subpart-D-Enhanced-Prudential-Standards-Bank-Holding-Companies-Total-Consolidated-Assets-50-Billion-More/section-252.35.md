@@ -1,5 +1,7 @@
 ##### § 252.35 Liquidity stress testing and buffer requirements. #####
 
+Link to an amendment published at 84 FR 59105, Nov. 1, 2019.
+
 (a) *Liquidity stress testing requirement* - (1) *General.* A bank holding company with total consolidated assets of $50 billion or more must conduct stress tests to assess the potential impact of the liquidity stress scenarios set forth in paragraph (a)(3) on its cash flows, liquidity position, profitability, and solvency, taking into account its current liquidity condition, risks, exposures, strategies, and activities.
 
 (i) The bank holding company must take into consideration its balance sheet exposures, off-balance sheet exposures, size, risk profile, complexity, business lines, organizational structure, and other characteristics of the bank holding company that affect its liquidity risk profile in conducting its stress test.

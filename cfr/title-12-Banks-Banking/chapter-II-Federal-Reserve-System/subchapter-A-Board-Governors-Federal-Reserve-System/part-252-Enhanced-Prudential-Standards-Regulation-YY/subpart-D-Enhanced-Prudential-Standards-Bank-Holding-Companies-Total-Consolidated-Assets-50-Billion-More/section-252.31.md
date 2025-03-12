@@ -1,5 +1,7 @@
 ##### § 252.31 Applicability. #####
 
+Link to an amendment published at 84 FR 59103, Nov. 1, 2019.
+
 (a) *General applicability.* Subject to the initial applicability provisions of paragraphs (c) and (e) of this section, a bank holding company must comply with the risk-management and risk-committee requirements set forth in § 252.33 and the liquidity risk-management and liquidity stress test requirements set forth in §§ 252.34 and 252.35 beginning on the first day of the fifth quarter following the date on which its total consolidated assets equal or exceed $50 billion.
 
 (b) *Total consolidated assets.* Total consolidated assets of a bank holding company for purposes of this subpart are equal to its consolidated assets, calculated based on the average of the bank holding company's total consolidated assets in the four most recent quarters as reported quarterly on the FR Y-9C. If the bank holding company has not filed the FR Y-9C for each of the four most recent consecutive quarters, total consolidated assets means the average of its total consolidated assets, as reported on the FR Y-9C, for the most recent quarter or consecutive quarters, as applicable. Total consolidated assets are measured on the as-of date of the most recent FR Y-9C used in the calculation of the average.

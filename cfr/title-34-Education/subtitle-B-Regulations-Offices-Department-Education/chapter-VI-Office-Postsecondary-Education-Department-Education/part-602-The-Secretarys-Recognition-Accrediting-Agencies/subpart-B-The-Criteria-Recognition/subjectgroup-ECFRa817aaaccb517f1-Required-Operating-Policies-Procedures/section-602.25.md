@@ -1,5 +1,7 @@
 ##### § 602.25 Due process. #####
 
+Link to an amendment published at 84 FR 58925, Nov. 1, 2019.
+
 The agency must demonstrate that the procedures it uses throughout the accrediting process satisfy due process. The agency meets this requirement if the agency does the following:
 
 (a) Provides adequate written specification of its requirements, including clear standards, for an institution or program to be accredited or preaccredited.

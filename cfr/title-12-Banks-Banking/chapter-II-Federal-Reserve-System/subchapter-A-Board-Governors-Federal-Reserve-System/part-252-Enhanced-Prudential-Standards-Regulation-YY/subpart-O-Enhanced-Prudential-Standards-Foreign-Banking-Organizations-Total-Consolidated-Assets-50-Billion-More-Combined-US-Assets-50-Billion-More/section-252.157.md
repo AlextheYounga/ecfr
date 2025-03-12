@@ -1,5 +1,7 @@
 ##### § 252.157 Liquidity stress testing and buffer requirements for foreign banking organizations with combined U.S. assets of $50 billion or more. #####
 
+Link to an amendment published at 84 FR 59118, Nov. 1, 2019.
+
 (a) *Liquidity stress testing requirement* - (1) *General.* (i) A foreign banking organization with combined U.S. assets of $50 billion or more must conduct stress tests to separately assess the potential impact of liquidity stress scenarios on the cash flows, liquidity position, profitability, and solvency of:
 
 (A) Its combined U.S. operations as a whole;

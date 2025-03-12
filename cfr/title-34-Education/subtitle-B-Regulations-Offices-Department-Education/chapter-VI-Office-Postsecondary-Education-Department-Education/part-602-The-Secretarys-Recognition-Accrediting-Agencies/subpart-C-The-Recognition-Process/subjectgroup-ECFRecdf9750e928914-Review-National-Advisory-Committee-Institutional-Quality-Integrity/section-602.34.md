@@ -1,5 +1,7 @@
 ##### § 602.34 Advisory Committee meetings. #####
 
+Link to an amendment published at 84 FR 58929, Nov. 1, 2019.
+
 (a) Department staff submits a proposed schedule to the Chairperson of the Advisory Committee based on anticipated completion of staff analyses.
 
 (b) The Chairperson of the Advisory Committee establishes an agenda for the next meeting and, in accordance with the Federal Advisory Committee Act, presents it to the Designated Federal Official for approval.

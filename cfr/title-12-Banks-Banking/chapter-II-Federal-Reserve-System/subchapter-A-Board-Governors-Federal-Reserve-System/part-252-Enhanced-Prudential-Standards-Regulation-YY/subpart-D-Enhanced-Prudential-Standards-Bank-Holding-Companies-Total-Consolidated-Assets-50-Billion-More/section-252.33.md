@@ -1,5 +1,7 @@
 ##### § 252.33 Risk-management and risk committee requirements. #####
 
+Link to an amendment published at 84 FR 59103, Nov. 1, 2019.
+
 (a) *Risk committee* - (1) *General.* A bank holding company with total consolidated assets of $50 billion or more must maintain a risk committee that approves and periodically reviews the risk-management policies of the bank holding company's global operations and oversees the operation of the bank holding company's global risk-management framework. The risk committee's responsibilities include liquidity risk-management as set forth in § 252.34(b).
 
 (2) *Risk-management framework.* The bank holding company's global risk-management framework must be commensurate with its structure, risk profile, complexity, activities, and size and must include:

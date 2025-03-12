@@ -1,5 +1,7 @@
 ##### § 329.30 Total net cash outflow amount. #####
 
+Link to an amendment published at 84 FR 59282, Nov. 1, 2019.
+
 (a) *Calculation of total net cash outflow amount.* As of the calculation date, a FDIC-supervised institution's total net cash outflow amount equals:
 
 (1) The sum of the outflow amounts calculated under § 329.32(a) through (l); *minus*

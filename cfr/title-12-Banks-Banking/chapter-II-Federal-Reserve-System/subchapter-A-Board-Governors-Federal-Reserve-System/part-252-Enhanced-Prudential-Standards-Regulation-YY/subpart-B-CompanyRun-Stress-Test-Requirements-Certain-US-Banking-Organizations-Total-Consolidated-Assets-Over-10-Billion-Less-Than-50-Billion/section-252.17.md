@@ -1,5 +1,7 @@
 ##### § 252.17 Disclosure of stress test results. #####
 
+Link to an amendment published at 84 FR 59102, Nov. 1, 2019.
+
 (a) *Public disclosure of results* - (1) *General.* (i) A bank holding company, savings and loan holding company, and state member bank must publicly disclose a summary of the results of the stress test required under this subpart.
 
 (ii) [Reserved]

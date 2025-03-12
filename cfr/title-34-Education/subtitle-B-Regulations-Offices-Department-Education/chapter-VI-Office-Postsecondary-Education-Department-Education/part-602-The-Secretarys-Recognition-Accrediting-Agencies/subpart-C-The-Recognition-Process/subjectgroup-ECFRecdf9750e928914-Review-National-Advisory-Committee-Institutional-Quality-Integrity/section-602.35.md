@@ -1,5 +1,7 @@
 ##### § 602.35 Responding to the Advisory Committee's recommendation. #####
 
+Link to an amendment published at 84 FR 58929, Nov. 1, 2019.
+
 (a) Within ten days following the Advisory Committee meeting, the agency and Department staff may submit written comments to the senior Department official on the Advisory Committee's recommendation. The agency must simultaneously submit a copy of its written comments, if any, to Department staff. Department staff must simultaneously submit a copy of its written comments, if any, to the agency.
 
 (b) Comments must be limited to -

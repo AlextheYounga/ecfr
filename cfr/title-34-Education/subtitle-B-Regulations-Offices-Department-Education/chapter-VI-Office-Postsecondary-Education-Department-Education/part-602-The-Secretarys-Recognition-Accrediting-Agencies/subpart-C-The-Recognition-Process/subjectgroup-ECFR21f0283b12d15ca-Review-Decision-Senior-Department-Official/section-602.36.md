@@ -1,5 +1,7 @@
 ##### § 602.36 Senior Department official's decision. #####
 
+Link to an amendment published at 84 FR 58929, Nov. 1, 2019.
+
 (a) The senior Department official makes a decision regarding recognition of an agency based on the record compiled under §§ 602.32, 602.33, 602.34, and 602.35 including, as applicable, the following:
 
 (1) The materials provided to the Advisory Committee under § 602.34(c).

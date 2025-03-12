@@ -1,5 +1,7 @@
 ##### § 252.176 Aggregation of exposures to more than one counterparty due to economic interdependence or control relationships. #####
 
+Link to an amendment published at 84 FR 59121, Nov. 1, 2019.
+
 (a) *In general.* (1)(i) Paragraphs (a)(2) through (d) of this section apply only to a foreign banking organization that is a covered foreign entity or a U.S. intermediate holding company with total consolidated assets that equal or exceed $250 billion.
 
 (ii) Paragraph (e) of this section applies to all covered foreign entities.

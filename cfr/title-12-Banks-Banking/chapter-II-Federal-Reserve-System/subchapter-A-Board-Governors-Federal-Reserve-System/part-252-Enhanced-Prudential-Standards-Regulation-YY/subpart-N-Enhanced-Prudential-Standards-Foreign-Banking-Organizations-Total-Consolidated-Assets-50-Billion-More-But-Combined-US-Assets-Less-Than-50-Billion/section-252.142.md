@@ -1,5 +1,7 @@
 ##### § 252.142 Applicability. #####
 
+Link to an amendment published at 84 FR 59110, Nov. 1, 2019.
+
 (a) *General applicability.* Subject to the initial applicability provisions in paragraph (c) of this section, a foreign banking organization with total consolidated assets of $50 billion or more and combined U.S. assets of less than $50 billion must comply with the capital requirements, risk-management and risk committee requirements, liquidity risk-management requirements, and the capital stress testing requirements set forth in this subpart beginning on the first day of the ninth quarter following the date on which its total consolidated assets equal or exceed $50 billion.
 
 (b) *Asset measures* - (1) *Total consolidated assets.* Total consolidated assets of a foreign banking organization are equal to the consolidated assets of the foreign banking organization. For purposes of this subpart, “total consolidated assets” are calculated as the average of the foreign banking organization's total assets for the four most recent consecutive quarters as reported by the foreign banking organization on the FR Y-7Q. If the foreign banking organization has not filed the FR Y-7Q for the four most recent consecutive quarters, the Board shall use an average of the foreign banking organization's total consolidated assets reported on its most recent two FR Y-7Qs. Total consolidated assets are measured on the as-of date of the most recent FR Y-7Q used in the calculation of the average.

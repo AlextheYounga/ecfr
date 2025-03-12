@@ -1,5 +1,7 @@
 ##### § 603.24 Criteria for State agencies. #####
 
+Link to an amendment published at 84 FR 58931, Nov. 1, 2019.
+
 The following are the criteria which the Secretary will utilize in designating a State agency as a reliable authority to assess the quality of public postsecondary vocational education in its respective State.
 
 (a) *Functional aspects.* The functional aspects of the State agency must be shown by:

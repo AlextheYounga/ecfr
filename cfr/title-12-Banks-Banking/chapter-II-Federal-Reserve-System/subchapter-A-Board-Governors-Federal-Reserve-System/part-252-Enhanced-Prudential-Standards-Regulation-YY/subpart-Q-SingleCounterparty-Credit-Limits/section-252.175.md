@@ -1,5 +1,7 @@
 ##### § 252.175 Investments in and exposures to securitization vehicles, investment funds, and other special purpose vehicles that are not affiliates of the covered foreign entity. #####
 
+Link to an amendment published at 84 FR 59121, Nov. 1, 2019.
+
 (a) *In general.* (1) This section applies only to a foreign banking organization that is a covered foreign entity or a U.S. intermediate holding company with total consolidated assets that equal or exceed $250 billion, provided that:
 
 (i) In order to avoid evasion of this subpart, the Board may determine, after notice to the covered foreign entity and opportunity for hearing, that a U.S. intermediate holding company with less than $250 billion in total consolidated assets must apply either the approach in paragraph (a) of this section or the look-through approach in paragraph (b) of this section, or must recognize exposures to a third party that has a contractual obligation to provide credit or liquidity support to a securitization vehicle, investment fund, or other special purpose vehicle that is not an affiliate of the covered foreign entity, as provided in paragraph (c) of this section; and

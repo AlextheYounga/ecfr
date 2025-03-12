@@ -1,5 +1,7 @@
 ##### § 602.17 Application of standards in reaching an accrediting decision. #####
 
+Link to an amendment published at 84 FR 58920, Nov. 1, 2019.
+
 The agency must have effective mechanisms for evaluating an institution's or program's compliance with the agency's standards before reaching a decision to accredit or preaccredit the institution or program. The agency meets this requirement if the agency demonstrates that it -
 
 (a) Evaluates whether an institution or program -

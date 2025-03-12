@@ -1,5 +1,7 @@
 ##### § 252.143 Risk-based and leverage capital requirements for foreign banking organizations with total consolidated assets of $50 billion or more but combined U.S. assets of less than $50 billion. #####
 
+Link to an amendment published at 84 FR 59110, Nov. 1, 2019.
+
 (a) *General requirements.* (1) A foreign banking organization with total consolidated assets of $50 billion or more and combined U.S. assets of less than $50 billion must certify to the Board that it meets capital adequacy standards on a consolidated basis established by its home-country supervisor that are consistent with the regulatory capital framework published by the Basel Committee on Banking Supervision, as amended from time to time (Basel Capital Framework).
 
 (i) For purposes of this paragraph, home-country capital adequacy standards that are consistent with the Basel Capital Framework include all minimum risk-based capital ratios, any minimum leverage ratio, and all restrictions based on any applicable capital buffers set forth in “Basel III: A global regulatory framework for more resilient banks and banking systems” (2010) (Basel III Accord), each as applicable and as implemented in accordance with the Basel III Accord, including any transitional provisions set forth therein.

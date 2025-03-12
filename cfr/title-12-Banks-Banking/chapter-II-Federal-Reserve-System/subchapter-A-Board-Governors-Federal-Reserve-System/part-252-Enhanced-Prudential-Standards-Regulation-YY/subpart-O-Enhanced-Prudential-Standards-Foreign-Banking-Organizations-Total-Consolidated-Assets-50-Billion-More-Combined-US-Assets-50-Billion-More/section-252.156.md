@@ -1,5 +1,7 @@
 ##### § 252.156 Liquidity risk-management requirements for foreign banking organizations with combined U.S. assets of $50 billion or more. #####
 
+Link to an amendment published at 84 FR 59116, Nov. 1, 2019.
+
 (a) *Responsibilities of the U.S. risk committee.* (1) The U.S. risk committee established by a foreign banking organization pursuant to § 252.155(a) (or a designated subcommittee of such committee composed of members of the board of directors (or equivalent thereof) of the U.S. intermediate holding company or the foreign banking organization, as appropriate) must:
 
 (i) Approve at least annually the acceptable level of liquidity risk that the foreign banking organization may assume in connection with the operating strategies for its combined U.S. operations (liquidity risk tolerance), with concurrence from the foreign banking organization's board of directors or its enterprise-wide risk committee, taking into account the capital structure, risk profile, complexity, activities, size of the foreign banking organization and its combined U.S. operations and the enterprise-wide liquidity risk tolerance of the foreign banking organization; and

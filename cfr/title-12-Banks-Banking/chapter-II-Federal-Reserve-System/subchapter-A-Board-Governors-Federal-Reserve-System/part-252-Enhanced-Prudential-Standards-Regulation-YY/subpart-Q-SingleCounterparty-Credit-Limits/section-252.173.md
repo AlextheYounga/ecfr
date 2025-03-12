@@ -1,5 +1,7 @@
 ##### § 252.173 Gross credit exposure. #####
 
+Link to an amendment published at 84 FR 59120, Nov. 1, 2019.
+
 (a) *Calculation of gross credit exposure.* The amount of gross credit exposure of a covered foreign entity to a counterparty with respect to a credit transaction is, in the case of:
 
 (1) A deposit of the covered foreign entity held by the counterparty, loan by a covered foreign entity to the counterparty, and lease in which the covered foreign entity is the lessor and the counterparty is the lessee, equal to the amount owed by the counterparty to the covered foreign entity under the transaction.

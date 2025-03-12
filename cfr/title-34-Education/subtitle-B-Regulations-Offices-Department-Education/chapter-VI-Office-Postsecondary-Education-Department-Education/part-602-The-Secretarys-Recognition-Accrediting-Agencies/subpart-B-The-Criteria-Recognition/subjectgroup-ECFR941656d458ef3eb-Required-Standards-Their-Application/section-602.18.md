@@ -1,5 +1,7 @@
 ##### § 602.18 Ensuring consistency in decision-making. #####
 
+Link to an amendment published at 84 FR 58920, Nov. 1, 2019.
+
 The agency must consistently apply and enforce standards that respect the stated mission of the institution, including religious mission, and that ensure that the education or training offered by an institution or program, including any offered through distance education or correspondence education, is of sufficient quality to achieve its stated objective for the duration of any accreditation or preaccreditation period granted by the agency. The agency meets this requirement if the agency -
 
 (a) Has written specification of the requirements for accreditation and preaccreditation that include clear standards for an institution or program to be accredited;

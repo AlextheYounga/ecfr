@@ -1,5 +1,7 @@
 ##### § 252.34 Liquidity risk-management requirements. #####
 
+Link to an amendment published at 84 FR 59103, Nov. 1, 2019.
+
 (a) *Responsibilities of the board of directors* - (1) *Liquidity risk tolerance.* The board of directors of a bank holding company with total consolidated assets of $50 billion or more must:
 
 (i) Approve the acceptable level of liquidity risk that the bank holding company may assume in connection with its operating strategies (liquidity risk tolerance) at least annually, taking into account the bank holding company's capital structure, risk profile, complexity, activities, and size; and

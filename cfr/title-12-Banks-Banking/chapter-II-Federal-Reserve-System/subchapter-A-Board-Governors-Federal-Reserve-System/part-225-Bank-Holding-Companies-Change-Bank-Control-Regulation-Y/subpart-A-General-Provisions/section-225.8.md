@@ -1,5 +1,7 @@
 ##### § 225.8 Capital planning. #####
 
+Link to an amendment published at 84 FR 59075, Nov. 1, 2019.
+
 (a) *Purpose.* This section establishes capital planning and prior notice and approval requirements for capital distributions by certain bank holding companies.
 
 (b) *Scope and reservation of authority* - (1) *Applicability.* Except as provided in paragraph (c) of this section, this section applies to:

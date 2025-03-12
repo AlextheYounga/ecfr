@@ -1,5 +1,7 @@
 ##### § 252.57 Reports of stress test results. #####
 
+Link to an amendment published at 84 FR 59109, Nov. 1, 2019.
+
 (a) *Reports to the Board of stress test results.* (1) A covered company must report the results of the stress test required under § 252.54 to the Board in the manner and form prescribed by the Board. Such results must be submitted by April 5 of the calendar year in which the stress test is performed pursuant to § 252.54, unless that time is extended by the Board in writing.
 
 (2) A covered company must report the results of the stress test required under § 252.55 to the Board in the manner and form prescribed by the Board. Such results must be submitted by October 5 of the calendar year in which the stress test is performed pursuant to § 252.55, unless that time is extended by the Board in writing.

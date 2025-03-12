@@ -1,5 +1,7 @@
 ##### § 3.11 Capital conservation buffer and countercyclical capital buffer amount. #####
 
+Link to an amendment published at 84 FR 59265, Nov. 1, 2019.
+
 (a) *Capital conservation buffer* - (1) *Composition of the capital conservation buffer.* The capital conservation buffer is composed solely of common equity tier 1 capital.
 
 (2) *Definitions.* For purposes of this section, the following definitions apply:

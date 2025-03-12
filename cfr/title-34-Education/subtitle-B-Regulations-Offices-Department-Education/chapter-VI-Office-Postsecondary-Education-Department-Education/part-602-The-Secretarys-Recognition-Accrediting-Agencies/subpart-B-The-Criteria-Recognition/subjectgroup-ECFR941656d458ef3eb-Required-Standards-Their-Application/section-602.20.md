@@ -1,5 +1,7 @@
 ##### § 602.20 Enforcement of standards. #####
 
+Link to an amendment published at 84 FR 58922, Nov. 1, 2019.
+
 (a) If the agency's review of an institution or program under any standard indicates that the institution or program is not in compliance with that standard, the agency must -
 
 (1) Immediately initiate adverse action against the institution or program; or

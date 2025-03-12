@@ -1,5 +1,7 @@
 ##### § 602.33 Procedures for review of agencies during the period of recognition. #####
 
+Link to an amendment published at 84 FR 58928, Nov. 1, 2019.
+
 (a) Department staff may review the compliance of a recognized agency with the criteria for recognition at any time -
 
 (1) At the request of the Advisory Committee; or

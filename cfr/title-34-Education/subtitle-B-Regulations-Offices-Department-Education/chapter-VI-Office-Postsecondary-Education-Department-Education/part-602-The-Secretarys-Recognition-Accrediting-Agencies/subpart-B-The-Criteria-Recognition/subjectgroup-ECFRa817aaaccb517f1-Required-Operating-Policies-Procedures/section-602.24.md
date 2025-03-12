@@ -1,5 +1,7 @@
 ##### § 602.24 Additional procedures certain institutional accreditors must have. #####
 
+Link to an amendment published at 84 FR 58924, Nov. 1, 2019.
+
 If the agency is an institutional accrediting agency and its accreditation or preaccreditation enables those institutions to obtain eligibility to participate in Title IV, HEA programs, the agency must demonstrate that it has established and uses all of the following procedures:
 
 (a) *Branch campus.* (1) The agency must require the institution to notify the agency if it plans to establish a branch campus and to submit a business plan for the branch campus that describes -

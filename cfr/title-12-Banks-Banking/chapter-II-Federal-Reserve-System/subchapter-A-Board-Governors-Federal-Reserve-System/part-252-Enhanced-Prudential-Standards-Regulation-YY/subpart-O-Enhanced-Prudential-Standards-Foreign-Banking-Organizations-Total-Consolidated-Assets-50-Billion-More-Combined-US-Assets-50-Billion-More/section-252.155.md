@@ -1,5 +1,7 @@
 ##### § 252.155 Risk-management and risk-committee requirements for foreign banking organizations with combined U.S. assets of $50 billion or more. #####
 
+Link to an amendment published at 84 FR 59116, Nov. 1, 2019.
+
 (a) *U.S. risk committee* - (1) *General.* Each foreign banking organization with combined U.S. assets of $50 billion or more must maintain a U.S. risk committee that approves and periodically reviews the risk management policies of the combined U.S. operations of the foreign banking organization and oversees the risk-management framework of such combined U.S. operations. The U.S. risk committee's responsibilities include the liquidity risk-management responsibilities set forth in § 252.156(a).
 
 (2) *Risk-management framework.* The foreign banking organization's risk-management framework for its combined U.S. operations must be commensurate with the structure, risk profile, complexity, activities, and size of its combined U.S. operations and consistent with its enterprise-wide risk management policies. The framework must include:

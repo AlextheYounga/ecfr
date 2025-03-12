@@ -1,5 +1,7 @@
 ##### § 600.9 State authorization. #####
 
+Link to an amendment published at 84 FR 58915, Nov. 1, 2019.
+
 (a)(1) An institution described under §§ 600.4, 600.5, and 600.6 is legally authorized by a State if the State has a process to review and appropriately act on complaints concerning the institution including enforcing applicable State laws, and the institution meets the provisions of paragraphs (a)(1)(i), (a)(1)(ii), or (b) of this section.
 
 (i)(A) The institution is established by name as an educational institution by a State through a charter, statute, constitutional provision, or other action issued by an appropriate State agency or State entity and is authorized to operate educational programs beyond secondary education, including programs leading to a degree or certificate.
@@ -36,4 +38,4 @@
 
 (ii) Through a State authorization reciprocity agreement which designates for this purpose either the State in which the institution's enrolled students reside or the State in which the institution's main campus is located.
 
-(Authority: 20 U.S.C. 1001 and 1002)[75 FR 66946, Oct. 29, 2010, as amended at 81 FR 92262, Dec. 19, 2016]
+(Authority: 20 U.S.C. 1001 and 1002)[75 FR 66946, Oct. 29, 2010, as amended at 81 FR 92262, Dec. 19, 2016]Editorial Note:At 81 FR 92262, Dec. 19, 2016, § 600.9 was amended by revising paragraph (c) and adding paragraph (d), effective July 1, 2018. At 83 FR 31296, July 3, 2019, the revisions to paragraph (c) were delayed until July 1, 2020. At 84 FR 36471, July 29, 2019, the revisions to paragraph (c) were made effective May 26, 2019 by court order.

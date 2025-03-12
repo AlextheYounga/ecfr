@@ -1,5 +1,7 @@
 ##### § 217.400 Purpose and applicability. #####
 
+Link to an amendment published at 84 FR 59075, Nov. 1, 2019.
+
 (a) *Purpose.* This subpart implements provisions of section 165 of the Dodd-Frank Act (12 U.S.C. 5365), by establishing a risk-based capital surcharge for global systemically important bank holding companies.
 
 (b) *Applicability* - (1) *General.* This subpart applies to a bank holding company that is an advanced approaches Board-regulated institution and that is not a consolidated subsidiary of a bank holding company or a consolidated subsidiary of a foreign banking organization.

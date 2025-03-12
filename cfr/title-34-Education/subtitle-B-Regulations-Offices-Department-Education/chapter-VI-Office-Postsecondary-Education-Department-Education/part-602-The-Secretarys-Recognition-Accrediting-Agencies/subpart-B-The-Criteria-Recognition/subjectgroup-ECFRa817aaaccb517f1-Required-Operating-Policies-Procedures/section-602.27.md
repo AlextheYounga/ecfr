@@ -1,5 +1,7 @@
 ##### § 602.27 Other information an agency must provide the Department. #####
 
+Link to an amendment published at 84 FR 58926, Nov. 1, 2019.
+
 (a) The agency must submit to the Department -
 
 (1) A copy of any annual report it prepares;

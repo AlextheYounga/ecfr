@@ -1,5 +1,7 @@
 ##### § 252.15 Methodologies and practices. #####
 
+Link to an amendment published at 84 FR 59101, Nov. 1, 2019.
+
 (a) *Potential impact on capital.* In conducting a stress test under § 252.14, for each quarter of the planning horizon, a bank holding company, savings and loan holding company, or state member bank must estimate the following for each scenario required to be used:
 
 (1) Losses, pre-provision net revenue, provision for credit losses, and net income; and

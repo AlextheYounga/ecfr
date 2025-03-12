@@ -1,5 +1,7 @@
 ##### § 252.22 Risk committee requirement for publicly traded bank holding companies with total consolidated assets of $10 billion or more. #####
 
+Link to an amendment published at 84 FR 59102, Nov. 1, 2019.
+
 (a) *Risk committee.* A bank holding company with any class of stock that is publicly traded and total consolidated assets of $10 billion or more must maintain a risk committee that approves and periodically reviews the risk-management policies of its global operations and oversees the operation of its global risk-management framework.
 
 (b) *Risk-management framework.* The bank holding company's global risk-management framework must be commensurate with its structure, risk profile, complexity, activities, and size and must include:

@@ -1,5 +1,7 @@
 ##### § 252.43 Applicability. #####
 
+Link to an amendment published at 84 FR 59106, Nov. 1, 2019.
+
 (a) *Scope* - (1) *Applicability.* Except as provided in paragraph (b) of this section, this subpart applies to any covered company, which includes:
 
 (i) Any bank holding company with average total consolidated assets (as defined in § 252.42(c)) of $50 billion or more;

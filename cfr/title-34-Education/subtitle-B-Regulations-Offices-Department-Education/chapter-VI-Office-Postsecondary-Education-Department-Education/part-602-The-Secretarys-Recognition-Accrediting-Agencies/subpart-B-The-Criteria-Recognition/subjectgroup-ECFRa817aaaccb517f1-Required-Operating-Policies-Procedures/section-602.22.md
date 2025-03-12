@@ -1,5 +1,7 @@
 ##### § 602.22 Substantive change. #####
 
+Link to an amendment published at 84 FR 58922, Nov. 1, 2019.
+
 (a) If the agency accredits institutions, it must maintain adequate substantive change policies that ensure that any substantive change to the educational mission, program, or programs of an institution after the agency has accredited or preaccredited the institution does not adversely affect the capacity of the institution to continue to meet the agency's standards. The agency meets this requirement if -
 
 (1) The agency requires the institution to obtain the agency's approval of the substantive change before the agency includes the change in the scope of accreditation or preaccreditation it previously granted to the institution; and

@@ -1,5 +1,7 @@
 ##### § 600.41 Termination and emergency action proceedings. #####
 
+Link to an amendment published at 84 FR 58917, Nov. 1, 2019.
+
 (a) If the Secretary believes that a previously designated eligible institution as a whole, or at one or more of its locations, does not satisfy the statutory or regulatory requirements that define that institution as an eligible institution, the Secretary may -
 
 (1) Terminate the institution's eligibility designation in whole or as to a particular location -

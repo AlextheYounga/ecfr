@@ -1,5 +1,7 @@
 ##### § 602.37 Appealing the senior Department official's decision to the Secretary. #####
 
+Link to an amendment published at 84 FR 58931, Nov. 1, 2019.
+
 (a) The agency may appeal the senior Department official's decision to the Secretary. Such appeal stays the decision of the senior Department official until final disposition of the appeal. If an agency wishes to appeal, the agency must -
 
 (1) Notify the Secretary and the senior Department official in writing of its intent to appeal the decision of the senior Department official, no later than ten days after receipt of the decision;

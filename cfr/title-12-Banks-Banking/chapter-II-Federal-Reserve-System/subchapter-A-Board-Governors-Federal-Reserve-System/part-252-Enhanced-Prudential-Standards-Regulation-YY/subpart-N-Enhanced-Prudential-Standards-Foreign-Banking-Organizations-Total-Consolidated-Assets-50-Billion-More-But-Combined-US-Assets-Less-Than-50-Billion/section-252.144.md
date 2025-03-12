@@ -1,5 +1,7 @@
 ##### § 252.144 Risk-management and risk committee requirements for foreign banking organizations with total consolidated assets of $50 billion or more but combined U.S. assets of less than $50 billion. #####
 
+Link to an amendment published at 84 FR 59110, Nov. 1, 2019.
+
 (a) *U.S. risk committee certification.* A foreign banking organization with total consolidated assets of $50 billion or more and combined U.S. assets of less than $50 billion must, on an annual basis, certify to the Board that it maintains a committee of its global board of directors (or equivalent thereof), on a standalone basis or as part of its enterprise-wide risk committee (or equivalent thereof) that:
 
 (1) Oversees the risk management policies of the combined U.S. operations of the foreign banking organization; and

@@ -1,5 +1,7 @@
 ##### § 249.3 Definitions. #####
 
+Link to an amendment published at 84 FR 59272, Nov. 1, 2019.
+
 For the purposes of this part:
 
 *Affiliated depository institution* means with respect to a Board-regulated institution that is a depository institution, another depository institution that is a consolidated subsidiary of a bank holding company or savings and loan holding company of which the Board-regulated institution is also a consolidated subsidiary.

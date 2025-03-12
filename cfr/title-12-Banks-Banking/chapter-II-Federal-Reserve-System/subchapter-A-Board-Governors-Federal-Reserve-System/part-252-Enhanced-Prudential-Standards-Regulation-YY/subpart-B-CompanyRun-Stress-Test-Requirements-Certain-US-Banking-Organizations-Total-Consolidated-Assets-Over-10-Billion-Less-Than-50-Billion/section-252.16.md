@@ -1,5 +1,7 @@
 ##### § 252.16 Reports of stress test results. #####
 
+Link to an amendment published at 84 FR 59101, Nov. 1, 2019.
+
 (a) *Reports to the Board of stress test results* - (1) *General.* A bank holding company, savings and loan holding company, and state member bank must report the results of the stress test to the Board in the manner and form prescribed by the Board, in accordance with paragraphs (a)(2) and (3) of this section.
 
 (2) *Timing for the stress test cycle beginning on October 1, 2014.* For the stress test cycle beginning on October 1, 2014:

@@ -1,5 +1,7 @@
 ##### § 602.11 Geographic scope of accrediting activities. #####
 
+Link to an amendment published at 84 FR 58918, Nov. 1, 2019.
+
 The agency must demonstrate that its accrediting activities cover -
 
 (a) A State, if the agency is part of a State government;

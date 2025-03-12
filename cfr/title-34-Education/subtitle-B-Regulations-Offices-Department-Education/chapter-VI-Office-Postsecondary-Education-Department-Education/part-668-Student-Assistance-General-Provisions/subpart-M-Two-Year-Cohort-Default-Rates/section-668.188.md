@@ -1,5 +1,7 @@
 ##### § 668.188 Preventing evasion of the consequences of cohort default rates. #####
 
+Link to an amendment published at 84 FR 58933, Nov. 1, 2019.
+
 (a) *General.* You are subject to a loss of eligibility that has already been imposed against another institution as a result of cohort default rates if -
 
 (1) You and the ineligible institution are both parties to a transaction that results in a change of ownership, a change in control, a merger, a consolidation, an acquisition, a change of name, a change of address, any change that results in a location becoming a freestanding institution, a purchase or sale, a transfer of assets, an assignment, a change of identification number, a contract for services, an addition or closure of one or more locations or branches or educational programs, or any other change in whole or in part in institutional structure or identity;

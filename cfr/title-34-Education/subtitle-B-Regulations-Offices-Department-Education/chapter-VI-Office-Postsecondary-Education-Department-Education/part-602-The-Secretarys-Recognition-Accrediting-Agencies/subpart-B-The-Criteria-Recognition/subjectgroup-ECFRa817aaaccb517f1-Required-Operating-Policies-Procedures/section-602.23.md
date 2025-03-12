@@ -1,5 +1,7 @@
 ##### § 602.23 Operating procedures all agencies must have. #####
 
+Link to an amendment published at 84 FR 58923, Nov. 1, 2019.
+
 (a) The agency must maintain and make available to the public written materials describing -
 
 (1) Each type of accreditation and preaccreditation it grants;

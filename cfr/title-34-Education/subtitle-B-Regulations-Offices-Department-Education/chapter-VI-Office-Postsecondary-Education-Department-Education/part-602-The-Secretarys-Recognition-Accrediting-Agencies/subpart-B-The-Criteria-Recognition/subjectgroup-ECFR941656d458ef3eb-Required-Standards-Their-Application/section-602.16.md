@@ -1,5 +1,7 @@
 ##### § 602.16 Accreditation and preaccreditation standards. #####
 
+Link to an amendment published at 84 FR 58919, Nov. 1, 2019.
+
 (a) The agency must demonstrate that it has standards for accreditation, and preaccreditation, if offered, that are sufficiently rigorous to ensure that the agency is a reliable authority regarding the quality of the education or training provided by the institutions or programs it accredits. The agency meets this requirement if -
 
 (1) The agency's accreditation standards effectively address the quality of the institution or program in the following areas:

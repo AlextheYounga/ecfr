@@ -1,5 +1,7 @@
 ##### § 668.26 End of an institution's participation in the Title IV, HEA programs. #####
 
+Link to an amendment published at 84 FR 58931, Nov. 1, 2019.
+
 (a) An institution's participation in a Title IV, HEA program ends on the date that -
 
 (1) The institution closes or stops providing educational programs for a reason other than a normal vacation period or a natural disaster that directly affects the institution or the institution's students;

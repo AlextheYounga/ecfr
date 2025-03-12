@@ -1,5 +1,7 @@
 ##### § 329.3 Definitions. #####
 
+Link to an amendment published at 84 FR 59279, Nov. 1, 2019.
+
 For the purposes of this part:
 
 *Affiliated depository institution* means with respect to an FDIC-supervised institution that is a depository institution, another depository institution that is a consolidated subsidiary of a bank holding company or savings and loan holding company of which the FDIC-supervised institution is also a consolidated subsidiary.

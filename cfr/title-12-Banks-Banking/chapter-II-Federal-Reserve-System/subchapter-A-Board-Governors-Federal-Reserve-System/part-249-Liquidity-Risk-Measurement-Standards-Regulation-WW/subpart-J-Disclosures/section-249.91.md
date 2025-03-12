@@ -1,5 +1,7 @@
 ##### § 249.91 Disclosure requirements. #####
 
+Link to an amendment published at 84 FR 59276, Nov. 1, 2019.
+
 (a) *General.* A covered depository institution holding company or covered nonbank company subject to this subpart must disclose publicly the information required by paragraph (b) of this section in the format provided in the following table.
 
 Table 1 to § 249.91(a) - Disclosure Template

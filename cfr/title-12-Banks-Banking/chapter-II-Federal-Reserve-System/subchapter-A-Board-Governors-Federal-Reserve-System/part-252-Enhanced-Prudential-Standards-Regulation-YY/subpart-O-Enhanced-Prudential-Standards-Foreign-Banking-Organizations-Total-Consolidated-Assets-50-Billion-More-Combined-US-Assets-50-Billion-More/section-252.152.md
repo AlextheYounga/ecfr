@@ -1,5 +1,7 @@
 ##### § 252.152 Applicability. #####
 
+Link to an amendment published at 84 FR 59114, Nov. 1, 2019.
+
 (a) *General applicability.* Subject to the initial applicability provisions in paragraph (c) of this section, a foreign banking organization must:
 
 (1) Comply with the requirements of this subpart (other than the U.S. intermediate holding company requirement set forth in § 252.153) beginning on the first day of the ninth quarter following the date on which its combined U.S. assets equal or exceed $50 billion; and

@@ -1,5 +1,7 @@
 ##### § 324.100 Purpose, applicability, and principle of conservatism. #####
 
+Link to an amendment published at 84 FR 59279, Nov. 1, 2019.
+
 (a) *Purpose.* This subpart E establishes:
 
 (1) Minimum qualifying criteria for FDIC-supervised institutions using institution-specific internal risk measurement and management processes for calculating risk-based capital requirements; and

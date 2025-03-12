@@ -1,5 +1,7 @@
 ##### § 381.2 Definitions. #####
 
+Link to an amendment published at 84 FR 59228, Nov. 1, 2019.
+
 For purposes of this part:
 
 (a) *Bankruptcy Code* means title 11 of the United States Code.

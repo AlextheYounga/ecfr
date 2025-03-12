@@ -1,5 +1,7 @@
 ##### § 252.55 Mid-cycle stress test. #####
 
+Link to an amendment published at 84 FR 59108, Nov. 1, 2019.
+
 (a) *Mid-cycle stress test requirement.* In addition to the stress test required under § 252.54, a covered company must conduct a mid-cycle stress test. The stress test must be conducted by September 30 of each calendar year based on data as of June 30 of that calendar year, unless the time or the as-of date is extended by the Board in writing.
 
 (b) *Scenarios related to mid-cycle stress tests* - (1) *In general.* A covered company must develop and employ a minimum of three scenarios, including a baseline scenario, adverse scenario, and severely adverse scenario, that are appropriate for its own risk profile and operations, in conducting the stress test required by this section.

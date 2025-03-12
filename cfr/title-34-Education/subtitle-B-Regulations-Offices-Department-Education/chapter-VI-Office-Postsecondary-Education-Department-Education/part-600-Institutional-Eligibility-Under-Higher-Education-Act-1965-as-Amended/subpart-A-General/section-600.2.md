@@ -1,5 +1,7 @@
 ##### § 600.2 Definitions. #####
 
+Link to an amendment published at 84 FR 58914, Nov. 1, 2019.
+
 The following definitions apply to terms used in this part:
 
 *Accredited:* The status of public recognition that a nationally recognized accrediting agency grants to an institution or educational program that meets the agency's established requirements.
@@ -126,4 +128,4 @@ The following definitions apply to terms used in this part:
 
 *Title IV, HEA program:* Any of the student financial assistance programs listed in 34 CFR 668.1(c).
 
-(Authority: 20 U.S.C. 1001, 1002, 1071, *et seq.*, 1078-2, 1088, 1091, 1094, 1099b, 1099c, 1141; 26 U.S.C. 501(c))[59 FR 22336, Apr. 29, 1994, as amended at 63 FR 40622, July 29, 1998; 64 FR 58615, Oct. 29, 1999; 71 FR 45692, Aug. 9, 2006; 74 FR 55425, Oct. 27, 2009; 74 FR 55932, Oct. 29, 2009; 75 FR 66946, Oct. 29, 2010, 75 FR 67192, Nov. 1, 2010; 79 FR 65006, Oct. 31, 2014; 81 FR 92262, Dec. 19, 2016]
+(Authority: 20 U.S.C. 1001, 1002, 1071, *et seq.*, 1078-2, 1088, 1091, 1094, 1099b, 1099c, 1141; 26 U.S.C. 501(c))[59 FR 22336, Apr. 29, 1994, as amended at 63 FR 40622, July 29, 1998; 64 FR 58615, Oct. 29, 1999; 71 FR 45692, Aug. 9, 2006; 74 FR 55425, Oct. 27, 2009; 74 FR 55932, Oct. 29, 2009; 75 FR 66946, Oct. 29, 2010, 75 FR 67192, Nov. 1, 2010; 79 FR 65006, Oct. 31, 2014; 81 FR 92262, Dec. 19, 2016]Editorial Note:At 81 FR 92262, Dec. 19, 2016, § 600.2 was amended by adding a definition for “State authorization reciprocity agreement“, effective July 1, 2018. At 83 FR 31296, July 3, 2019, the amendment was delayed until July 1, 2020. At 84 FR 36471, July 29, 2019, the amendment was made effective May 26, 2019 by court order.

@@ -1,5 +1,7 @@
 ##### § 252.171 Definitions. #####
 
+Link to an amendment published at 84 FR 59120, Nov. 1, 2019.
+
 Unless defined in this section, terms that are set forth in § 252.2 of this part and used in this subpart have the definitions assigned in § 252.2. For purposes of this subpart:
 
 (a) *Adjusted market value* means:

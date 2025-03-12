@@ -1,5 +1,7 @@
 ##### § 249.50 Transitions. #####
 
+Link to an amendment published at 84 FR 59275, Nov. 1, 2019.
+
 (a) Covered depository institution holding companies with $700 billion or more in total consolidated assets or $10 trillion or more in assets under custody. For any depository institution holding company that has total consolidated assets equal to $700 billion or more, as reported on the company's most recent Consolidated Financial Statements for Holding Companies (FR Y-9C), or $10 trillion or more in assets under custody, as reported on the company's most recent Banking Organization Systemic Risk Report (FR Y-15), and any depository institution that is a consolidated subsidiary of such depository institution holding company that has total consolidated assets equal to $10 billion or more, as reported on the most recent year-end Consolidated Report of Condition and Income:
 
 (1) Beginning January 1, 2015, through June 30, 2015, the Board-regulated institution must calculate and maintain a liquidity coverage ratio monthly, on each calculation date that is the last business day of the applicable calendar month, in accordance with this part, that is equal to or greater than 0.80.

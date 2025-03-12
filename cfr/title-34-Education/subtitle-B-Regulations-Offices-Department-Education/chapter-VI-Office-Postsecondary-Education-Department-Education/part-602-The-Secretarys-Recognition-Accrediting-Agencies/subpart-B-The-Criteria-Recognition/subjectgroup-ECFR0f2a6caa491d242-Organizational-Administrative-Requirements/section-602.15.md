@@ -1,5 +1,7 @@
 ##### § 602.15 Administrative and fiscal responsibilities. #####
 
+Link to an amendment published at 84 FR 58919, Nov. 1, 2019.
+
 The agency must have the administrative and fiscal capability to carry out its accreditation activities in light of its requested scope of recognition. The agency meets this requirement if the agency demonstrates that -
 
 (a) The agency has -

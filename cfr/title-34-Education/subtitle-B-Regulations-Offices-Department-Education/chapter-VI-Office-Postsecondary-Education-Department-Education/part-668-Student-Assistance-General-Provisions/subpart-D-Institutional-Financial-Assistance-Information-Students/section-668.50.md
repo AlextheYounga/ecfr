@@ -1,5 +1,7 @@
 ##### § 668.50 Institutional disclosures for distance or correspondence programs. #####
 
+Link to an amendment published at 84 FR 58933, Nov. 1, 2019.
+
 (a) *General.* In addition to the other institutional disclosure requirements established in this and other subparts, an institution described under 34 CFR 600.9(a)(1) or (b) that offers an educational program that is provided, or can be completed solely through distance education or correspondence courses, excluding internships and practicums, must provide the information described in paragraphs (b) and (c) of this section to enrolled and prospective students in that program.
 
 (b) *Public disclosures.* An institution described under 34 CFR 600.9(a)(1) that offers an educational program that is provided, or can be completed solely through distance education or correspondence courses, excluding internships and practicums, must make available the following information to enrolled and prospective students of such program, the form and content of which the Secretary may determine:
@@ -44,4 +46,4 @@
 
 (2) For a prospective student who received a disclosure under paragraph (c)(1)(i) of this section and who subsequently enrolls in the program, the institution must receive acknowledgment from that student that the student received the disclosure and be able to demonstrate that it received the student's acknowledgment.
 
-(Authority: 20 U.S.C. 1092)[81 FR 92262, Dec. 19, 2016]
+(Authority: 20 U.S.C. 1092)[81 FR 92262, Dec. 19, 2016]Editorial Note:At 81 FR 92262, Dec. 19, 2016, § 668.50 was added, effective July 1, 2018. At 83 FR 31296, July 3, 2019, the amendment was delayed until July 1, 2020. At 84 FR 36471, July 29, 2019, the amendment was made effective May 26, 2019 by court order.

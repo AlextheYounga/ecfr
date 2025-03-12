@@ -1,5 +1,7 @@
 ##### § 600.4 Institution of higher education. #####
 
+Link to an amendment published at 84 FR 58915, Nov. 1, 2019.
+
 (a) An institution of higher education is a public or private nonprofit educational institution that -
 
 (1) Is in a State, or for purposes of the Federal Pell Grant, Federal Supplemental Educational Opportunity Grant, Federal Work-Study, and Federal TRIO programs may also be located in the Federated States of Micronesia or the Marshall Islands;

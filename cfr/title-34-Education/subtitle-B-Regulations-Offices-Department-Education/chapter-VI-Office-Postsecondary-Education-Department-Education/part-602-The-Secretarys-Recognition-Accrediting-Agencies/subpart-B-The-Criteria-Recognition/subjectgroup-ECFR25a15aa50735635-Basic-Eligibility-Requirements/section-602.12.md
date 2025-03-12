@@ -1,5 +1,7 @@
 ##### § 602.12 Accrediting experience. #####
 
+Link to an amendment published at 84 FR 58918, Nov. 1, 2019.
+
 (a) An agency seeking initial recognition must demonstrate that it has -
 
 (1) Granted accreditation or preaccreditation -

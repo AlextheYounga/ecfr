@@ -1,5 +1,7 @@
 ##### § 252.14 Annual stress test. #####
 
+Link to an amendment published at 84 FR 59100, Nov. 1, 2019.
+
 (a) *General requirements* - (1) *General.* A bank holding company, savings and loan holding company, and state member bank must conduct an annual stress test in accordance with paragraphs (a)(2) and (3) of this section.
 
 (2) *Timing for the stress test cycle beginning on October 1, 2014.* For the stress test cycle beginning on October 1, 2014:

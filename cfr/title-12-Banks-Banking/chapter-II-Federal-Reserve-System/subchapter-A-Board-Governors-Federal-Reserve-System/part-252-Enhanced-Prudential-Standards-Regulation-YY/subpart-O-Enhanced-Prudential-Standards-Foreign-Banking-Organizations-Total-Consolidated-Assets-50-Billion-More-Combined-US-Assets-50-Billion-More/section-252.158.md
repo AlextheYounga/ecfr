@@ -1,5 +1,7 @@
 ##### § 252.158 Capital stress testing requirements for foreign banking organizations with combined U.S. assets of $50 billion or more. #####
 
+Link to an amendment published at 84 FR 59119, Nov. 1, 2019.
+
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 (1) *Eligible asset* means any asset of the U.S. branch or U.S. agency held in the United States that is recorded on the general ledger of a U.S. branch or U.S. agency of the foreign banking organization (reduced by the amount of any specifically allocated reserves held in the United States and recorded on the general ledger of the U.S. branch or U.S. agency in connection with such assets), subject to the following exclusions, and, for purposes of this definition, as modified by the rules of valuation set forth in paragraph (a)(1)(ii) of this section.

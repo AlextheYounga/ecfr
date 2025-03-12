@@ -1,5 +1,7 @@
 ##### § 602.21 Review of standards. #####
 
+Link to an amendment published at 84 FR 58922, Nov. 1, 2019.
+
 (a) The agency must maintain a systematic program of review that demonstrates that its standards are adequate to evaluate the quality of the education or training provided by the institutions and programs it accredits and relevant to the educational or training needs of students.
 
 (b) The agency determines the specific procedures it follows in evaluating its standards, but the agency must ensure that its program of review -
