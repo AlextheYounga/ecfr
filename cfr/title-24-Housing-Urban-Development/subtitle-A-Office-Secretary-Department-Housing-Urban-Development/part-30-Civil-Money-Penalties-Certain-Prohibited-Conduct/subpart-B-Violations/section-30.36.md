@@ -1,5 +1,7 @@
 ##### § 30.36 Other participants in FHA programs. #####
 
+Link to an amendment published at 86 FR 14373, Mar. 16, 2021.
+
 (a) *General.* The Assistant Secretary for Housing-Federal Housing Commissioner (or his/her designee) may initiate a civil money penalty action against any principal, officer, or employee of a mortgagee or lender, or other participants in either a mortgage insured under the National Housing Act or any loan that is covered by a contract of insurance under title I of the National Housing Act, or a provider of assistance to the borrower in connection with any such mortgage or loan, including:
 
 (1) Sellers;

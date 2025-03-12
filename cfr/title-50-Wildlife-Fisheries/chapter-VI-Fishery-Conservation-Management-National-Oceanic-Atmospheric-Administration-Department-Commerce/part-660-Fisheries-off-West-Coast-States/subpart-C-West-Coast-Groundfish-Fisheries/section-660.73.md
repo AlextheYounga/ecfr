@@ -646,6 +646,8 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (321) 32°42.79′ N lat., 117°21.16′ W long.;
 
+(322) 32°34.22′ N lat., 117°21.20′ W long.
+
 (b) The 100 fm (183 m) depth contour around San Clemente Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 33°04.80′ N lat., 118°37.90′ W long.;
@@ -2662,4 +2664,4 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (184) 40°10.00′ N. lat., 124°22.96′ W. long.
 
-[69 FR 77059, Dec. 23, 2004; 70 FR 13119, Mar. 18, 2005, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 8500, Feb. 17, 2006; 71 FR 78678, Dec. 29, 2006; 74 FR 9905, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27531, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 82 FR 9640, Feb. 7, 2017; 83 FR 63992, Dec. 12, 2018; 83 FR 66639, Dec. 27, 2018; 84 FR 63974, Nov. 19, 2019; 85 FR 79893, Dec. 11, 2020]
+[69 FR 77059, Dec. 23, 2004; 70 FR 13119, Mar. 18, 2005, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 8500, Feb. 17, 2006; 71 FR 78678, Dec. 29, 2006; 74 FR 9905, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27531, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 82 FR 9640, Feb. 7, 2017; 83 FR 63992, Dec. 12, 2018; 83 FR 66639, Dec. 27, 2018; 84 FR 63974, Nov. 19, 2019; 85 FR 79893, Dec. 11, 2020; 86 FR 14381, Mar. 16, 2021]

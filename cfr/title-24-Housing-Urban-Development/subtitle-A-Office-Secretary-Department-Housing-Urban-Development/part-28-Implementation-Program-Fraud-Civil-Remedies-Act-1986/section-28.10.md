@@ -1,5 +1,7 @@
 ##### § 28.10 Basis for civil penalties and assessments. #####
 
+Link to an amendment published at 86 FR 14372, Mar. 16, 2021.
+
 (a) *Claims.* (1) A civil penalty of not more than $11,665 may be imposed upon any person who makes, presents, or submits, or causes to be made, presented, or submitted, a claim that the person knows or has reason to know:
 
 (ii) Includes or is supported by a written statement which asserts a material fact which is false, fictitious, or fraudulent;

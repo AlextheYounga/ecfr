@@ -1,5 +1,7 @@
 ##### § 30.40 Loan guarantees for Indian housing. #####
 
+Link to an amendment published at 86 FR 14373, Mar. 16, 2021.
+
 (a) *General.* The Assistant Secretary for Public and Indian Housing (or his/her designee) may initiate a civil money penalty action against any mortgagee or holder of a guarantee certificate who knowingly and materially violates the provisions of 12 U.S.C. 1715z-13a(g)(2) concerning loan guarantees for Indian housing.
 
 (b) *Continuing violation.* Each day that a violation continues shall constitute a separate violation.

@@ -1,7 +1,5 @@
 ##### § 744.11 License requirements that apply to entities acting contrary to the national security or foreign policy interests of the United States. #####
 
-Link to an amendment published at 86 FR 4872, Jan. 15, 2021.
-
 BIS may impose foreign policy export, reexport, and transfer (in-country) license requirements, limitations on availability of license exceptions, and set license application review policy based on the criteria in this section. Such requirements, limitations and policy are in addition to those set forth elsewhere in the EAR. License requirements, limitations on use of license exceptions and license application review policy will be imposed under this section by adding an entity to the Entity List (supp. no. 4 to this part) with a reference to this section and by stating on the Entity List the license requirements and license application review policy that apply to that entity. BIS may remove an entity from the Entity List if it is no longer engaged in the activities described in paragraph (b) of this section and is unlikely to engage in such activities in the future. BIS may modify the license exception limitations and license application review policy that applies to a particular entity to implement the policies of this section. BIS will implement the provisions of this section in accordance with the decisions of the End-User Review Committee or, if appropriate in a particular case, in accordance with the decisions of the body to which the End-User Review Committee decision is escalated. The End-User Review Committee will follow the procedures set forth in supplement no. 5 to this part.
 
 (a) *License requirement, availability of license exceptions, and license application review policy.* A license is required, to the extent specified on the Entity List, to export, reexport, or transfer (in-country) any item subject to the EAR when an entity that is listed on the Entity List is a party to the transaction as described in § 748.5(c) through (f). License exceptions may not be used unless authorized in the Entity List entry for the entity that is party to the transaction. Applications for licenses required by this section will be evaluated as stated in the Entity List entry for the entity that is party to the transaction, in addition to any other applicable review policy stated elsewhere in the EAR.
@@ -18,4 +16,10 @@ BIS may impose foreign policy export, reexport, and transfer (in-country) licens
 
 (5) Engaging in conduct that poses a risk of violating the EAR when such conduct raises sufficient concern that the End-User Review committee believes that prior review of exports, reexports, or transfers (in-country) involving the party and the possible imposition of license conditions or license denial enhances BIS's ability to prevent violations of the EAR.
 
-[73 FR 49321, Aug. 21, 2008, as amended at 74 FR 45992, Sept. 8, 2009; 85 FR 51337, Aug. 20, 2020]
+(c) *Additional prohibition on persons informed by BIS.* BIS may inform persons, either individually by specific notice or through amendment to the EAR, that a license is required for:
+
+(1) A specific export, reexport, or transfer (in-country) because there is an unacceptable risk that the export, reexport, or transfer (in-country) is intended to circumvent the license requirement imposed on an entity listed in supplement no. 4 to this part; or
+
+(2) The export, reexport, or transfer (in-country) of specified items to a certain party because there is an unacceptable risk that the party is acting as an agent, front, or shell company for an entity listed in supplement no. 4 to this part, or is otherwise assisting that listed entity in circumventing the license requirement set forth in that entity's entry in supplement no. 4 to this part.
+
+[73 FR 49321, Aug. 21, 2008, as amended at 74 FR 45992, Sept. 8, 2009; 85 FR 51337, Aug. 20, 2020; 86 FR 4872, Jan. 15, 2021]

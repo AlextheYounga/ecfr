@@ -1,5 +1,7 @@
 ##### § 180.671 Assessing civil penalties for Fair Housing Act cases. #####
 
+Link to an amendment published at 86 FR 14373, Mar. 16, 2021.
+
 (a) *Amounts.* The ALJ may assess a civil penalty against any respondent under § 180.670(b)(3) for each separate and distinct discriminatory housing practice (as defined in paragraph (b) of this section) that the respondent committed, each civil penalty in an amount not to exceed:
 
 (1) $21,410, if the respondent has not been adjudged in any administrative hearing or civil action permitted under the Fair Housing Act or any state or local fair housing law, or in any licensing or regulatory proceeding conducted by a Federal, state, or local governmental agency, to have committed any prior discriminatory housing practice.

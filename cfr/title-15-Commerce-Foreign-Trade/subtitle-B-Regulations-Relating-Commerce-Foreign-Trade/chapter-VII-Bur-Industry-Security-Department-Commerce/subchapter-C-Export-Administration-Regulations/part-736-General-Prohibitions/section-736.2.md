@@ -1,7 +1,5 @@
 ##### § 736.2 General prohibitions and determination of applicability. #####
 
-Link to an amendment published at 86 FR 4870, Jan. 15, 2021.
-
 (a) *Information or facts that determine the applicability of the general prohibitions.* The following five types of facts determine your obligations under the ten general prohibitions and the EAR generally:
 
 (1) *Classification of the item.* The classification of the item on the Commerce Control List (see part 774 of the EAR);
@@ -86,11 +84,23 @@ Link to an amendment published at 86 FR 4870, Jan. 15, 2021.
 
 (ii) License Exceptions to General Prohibition Six are described in part 746 of the EAR, on Embargoes and Other Special Controls. Unless a License Exception or other authorization is authorized in part 746 of the EAR, the License Exceptions described in part 740 of the EAR are not available to overcome this general prohibition.
 
-(7) *General Prohibition Seven - Support of proliferation activities (U.S. person proliferation activity)* - (i) *Support of proliferation activities (U.S. person proliferation activity).* (A) If you are a U.S. person as that term is defined in § 744.6(c) of the EAR, you may not engage in any activities prohibited by § 744.6(a) or (b) of the EAR, which prohibits the performance, without a license from BIS, of certain financing, contracting, service, support, transportation, freight forwarding, or employment that you know will assist in certain proliferation activities described further in part 744 of the EAR. There are no License Exceptions to this General Prohibition Seven in part 740 of the EAR unless specifically authorized in that part.
+(7) General Prohibition Seven - Support of proliferation activities and certain military-intelligence end uses and end users (“U.S. person” activities)-
 
-(B) If you are a U.S. person as that term is defined in § 744.6(c) of the EAR, you may not export a Schedule 1 chemical listed in supplement no. 1 to Part 745 without first complying with the provisions of §§ 742.18 and 745.1 of the EAR.
+(i) Support of proliferation activities and certain military-intelligence end uses and end users (“U.S. person” activities).
 
-(C) If you are a U.S. person as that term is defined in § 744.6(c) of the EAR, you may not export a Schedule 3 chemical listed in supplement no. 1 to part 745 to a destination not listed in supplement no. 2 to Part 745 without complying with the End-Use Certificate requirements in § 745.2 of the EAR that apply to Schedule 3 chemicals controlled for CW reasons in ECCN 1C350, ECCN 1C355, or ECCN 1C395.
+(A) If you are a “U.S. person,” as that term is defined in § 772.1 of the EAR, you may not engage in any activities prohibited by § 744.6(b) or (c) of the EAR, which prohibit, without a license from BIS, the shipment, transmission, or transfer (in-country) of items not subject to the EAR; facilitating such shipment, transmission, or transfer (in-country); or the performance of any contract, service, or employment (including, but not limited to: ordering, buying, removing, concealing, storing, using, selling, loaning, disposing, servicing, financing, or transporting, freight forwarding, or conducting negotiations in furtherance of) that you know or are informed by BIS will support:
+
+(*1*) The design, “development,” “production,” operation, installation (including on-site installation), maintenance (checking), repair, overhaul, or refurbishing of nuclear explosive devices in or by any country not listed in supplement no. 3 to part 744 of the EAR;
+
+(*2*) The design, “development,” “production,” operation, installation (including on-site installation), maintenance (checking), repair, overhaul, or refurbishing of “missiles” in or by a country listed in Country Groups D:4 or E:2;
+
+(*3*) The design, “development,” “production,” operation, installation (including on-site installation), maintenance (checking), repair, overhaul, or refurbishing of chemical or biological weapons in or by any country or destination worldwide;
+
+(*4*) The design, “development,” “production,” operation, installation (including on-site installation), maintenance (checking), repair, overhaul, refurbishing, shipment, or transfer (in-country) of a whole plant to make chemical weapons precursors identified in ECCN 1C350, in or by countries other than those listed in Country Group A:3 (Australia Group); or
+
+(*5*) A 'military-intelligence end use' or a 'military-intelligence end user,' as defined in § 744.22(f) of the EAR, in the People's Republic of China, Russia, or Venezuela; or a country listed in Country Groups E:1 or E:2.
+
+(ii) [Reserved]
 
 (8) *General Prohibition Eight - In transit shipments and items to be unladen from vessels or aircraft (Intransit)* - (i) *Unlading and shipping in transit.* You may not export or reexport an item through, or transit through a country listed in paragraph (b)(8)(ii) of this section, unless a license exception or license authorizes such an export or reexport directly to or transit through such a country of transit, or unless such an export or reexport is eligible to such a country of transit without a license.
 
