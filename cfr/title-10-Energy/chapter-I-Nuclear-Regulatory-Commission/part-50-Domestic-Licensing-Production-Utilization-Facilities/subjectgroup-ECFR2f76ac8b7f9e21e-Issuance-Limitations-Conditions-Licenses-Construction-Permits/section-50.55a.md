@@ -808,7 +808,7 @@ Table VIII - S7-1 - Modified
 
 (*2*) In lieu of the test condition holding time of IWA-5213(b)(2), after pressurization to test conditions, and before the visual examinations commence, the holding time shall be 1 hour for non-insulated components.
 
-(xxi) *Section XI condition: Table IWB-2500-1 examination requirements.* (A)[Reserved]
+(xxi) *Section XI condition: Table IWB-2500-1 examination requirements.* (A) [Reserved]
 
 (B) *Table IWB-2500-1 examination.* Use of the provisions of IWB-2500(f) and (g) and Table IWB-2500-1 Notes 6 and 7 of the 2017 Edition of ASME Section XI for examination of Examination Category B-D Item Numbers B3.90 and B3.100 shall be subject to the following conditions:
 
@@ -898,7 +898,7 @@ For R \< 0, ΔKI depends on the crack depth (a), and the flow stress (σf). The 
 
 (*2*) [Reserved]
 
-(3) *Conditions on ASME OM Code.* As used in this section, references to the ASME OM Code are to the ASME OM Code, Subsections ISTA, ISTB, ISTC, ISTD, ISTE, and ISTF; Mandatory Appendices I, II, III, IV, and V; and Nonmandatory Appendices A through H and J through M, in the 1995 Edition through the latest edition and addenda of the ASME OM Code incorporated by referencein paragraph (a)(1)(iv) of this section. Mandatory appendices must be used if required by the OM Code; nonmandatory appendices are approved for use by the NRC but need not be used. When implementing the ASME OM Code, conditions are applicable only as specified in the following paragraphs:
+(3) *Conditions on ASME OM Code.* As used in this section, references to the ASME OM Code are to the ASME OM Code, Subsections ISTA, ISTB, ISTC, ISTD, ISTE, and ISTF; Mandatory Appendices I, II, III, IV, and V; and Nonmandatory Appendices A through H and J through M, in the 1995 Edition through the latest edition and addenda of the ASME OM Code incorporated by reference in paragraph (a)(1)(iv) of this section. Mandatory appendices must be used if required by the OM Code; nonmandatory appendices are approved for use by the NRC but need not be used. When implementing the ASME OM Code, conditions are applicable only as specified in the following paragraphs:
 
 (i) *OM condition: Quality assurance.* When applying editions and addenda of the ASME OM Code, the requirements of ASME Standard NQA-1, “Quality Assurance Requirements for Nuclear Facility Applications,” 1994 Edition, 2008 Edition, and 2009-1a Addenda, are acceptable as permitted by either ISTA 1.4 of the 1995 Edition through 1997 Addenda or ISTA-1500 of the 1998 Edition through the latest edition and addenda of the ASME OM Code incorporated by reference in paragraph (a)(1)(iv) of this section, provided the licensee uses its appendix B to this part quality assurance program in conjunction with the ASME OM Code requirements and the commitments contained in the licensee's quality assurance program description. Where NQA-1 and the ASME OM Code do not address the commitments contained in the licensee's appendix B quality assurance program description, the commitments must be applied to ASME OM Code activities.
 
@@ -1208,16 +1208,16 @@ Licensees using this option must also use the same edition and addenda of Append
 
 1 USAS and ASME Code addenda issued prior to the winter 1977 Addenda are considered to be “in effect” or “effective” 6 months after their date of issuance and after they are incorporated by reference in paragraph (a) of this section. Addenda to the ASME Code issued after the summer 1977 Addenda are considered to be “in effect” or “effective” after the date of publication of the addenda and after they are incorporated by reference in paragraph (a) of this section.
 
-2-3 [Reserved].
+2-3 [Reserved]
 
 4 For ASME Code editions and addenda issued prior to the winter 1977 Addenda, the Code edition and addenda applicable to the component is governed by the order or contract date for the component, not the contract date for the nuclear energy system. For the winter 1977 Addenda and subsequent editions and addenda the method for determining the applicable Code editions and addenda is contained in Paragraph NCA 1140 of Section III of the ASME Code.
 
-5-6 [Reserved].
+5-6 [Reserved]
 
 7 Guidance for quality group classifications of components that are to be included in the safety analysis reports pursuant to § 50.34(a) and § 50.34(b) may be found in Regulatory Guide 1.26, “Quality Group Classifications and Standards for Water-, Steam-, and Radiological-Waste-Containing Components of Nuclear Power Plants,” and in Section 3.2.2 of NUREG-0800, “Standard Review Plan for Review of Safety Analysis Reports for Nuclear Power Plants.”
 
-8-9 [Reserved].
+8-9 [Reserved]
 
 10 For inspections to be conducted once per interval, the inspections must be performed in accordance with the schedule in Section XI, paragraph IWB-2400, except for plants with inservice inspection programs based on a Section XI edition or addenda prior to the 1994 Addenda. For plants with inservice inspection programs based on a Section XI edition or addenda prior to the 1994 Addenda, the inspection must be performed in accordance with the schedule in Section XI, paragraph IWB-2400, of the 1994 Addenda.
 
-[79 FR 65798, Nov. 5, 2014, as amended at 79 FR 66603, Nov. 10, 2014; 79 FR 73462, Dec. 11, 2014; 82 FR 52825, Dec. 15, 2017; 83 FR 2354, Jan. 17, 2018; 83 FR 2526, Jan. 18, 2018; 84 FR 65644, Nov. 29, 2019; 85 FR 65662, Oct. 16, 2020]
+[79 FR 65798, Nov. 5, 2014, as amended at 79 FR 66603, Nov. 10, 2014; 79 FR 73462, Dec. 11, 2014; 82 FR 52825, Dec. 15, 2017; 83 FR 2354, Jan. 17, 2018; 83 FR 2526, Jan. 18, 2018; 84 FR 65644, Nov. 29, 2019; 85 FR 14756, Mar. 16, 2020; 85 FR 26576, May 4, 2020; 85 FR 34088, June 3, 2020; 85 FR 65662, Oct. 16, 2020]

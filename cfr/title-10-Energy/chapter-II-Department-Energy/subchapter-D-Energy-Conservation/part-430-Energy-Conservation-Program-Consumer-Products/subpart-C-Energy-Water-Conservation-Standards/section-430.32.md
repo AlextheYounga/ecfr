@@ -644,19 +644,25 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (C) Cases in which safety standards would be violated by the use of the reversible mode.
 
-(2)(i) Ceiling fans manufactured on or after January 21, 2020 shall meet the requirements shown in the table:
+(2)(i) Ceiling fans manufactured on or after January 21, 2020, shall meet the requirements shows in the table:
 
-|Product class as defined in Appendix U| Minimum efficiency  <br/>(CFM/W)<sup>1</sup>  |
-|--------------------------------------|-----------------------------------------------|
-|      Very small-diameter (VSD)       |D ≤ 12 in.: 21  <br/>D \> 12 in.: 3.16 D −17.04|
-|               Standard               |                0.65 D + 38.03                 |
-|                Hugger                |                0.29 D + 34.46                 |
-|   High-speed small-diameter (HSSD)   |                 4.16 D + 0.02                 |
-|            Large-diameter            |                 0.91 D−30.00                  |
+|Product class as  <br/>defined in Appendix U|Minimum  <br/>efficiency  <br/>(CFM/W)<sup>1</sup>|
+|--------------------------------------------|--------------------------------------------------|
+|         Very small-diameter (VSD)          |                 D ≤ 12 in.: 21.                  |
+|                                            |            D \> 12 in.: 3.16 D-17.04.            |
+|                  Standard                  |                 0.65 D + 38.03.                  |
+|                   Hugger                   |                 0.29 D + 34.46.                  |
+|      High-speed small-diameter (HSSD)      |                  4.16 D + 0.02.                  |
 
 <sup>1</sup> D is the ceiling fan's blade span, in inches, as determined in Appendix U of this part.
 
-(ii) The provisions in this appendix apply to ceiling fans except:
+(ii) Large-diameter ceiling fans manufactured on or after January 21, 2020, shall have a CFEI greater than or equal to -
+
+(A) 1.00 at high speed; and
+
+(B) 1.31 at 40 percent speed or the nearest speed that is not less than 40 percent speed.
+
+(iii) The provisions in this appendix apply to ceiling fans except:
 
 (A) Ceiling fans where the plane of rotation of a ceiling fan's blades is not less than or equal to 45 degrees from horizontal, or cannot be adjusted based on the manufacturer's specifications to be less than or equal to 45 degrees from horizontal;
 

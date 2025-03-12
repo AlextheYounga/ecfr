@@ -1,7 +1,5 @@
 ##### § 181.8 Publication. #####
 
-Link to an amendment published at 86 FR 22119, Apr. 27, 2021.
-
 (a) The following categories of international agreements will not be published in United States Treaties and Other International Agreements:
 
 (1) Bilateral agreements for the rescheduling of intergovernmental debt payments;
@@ -20,7 +18,7 @@ Link to an amendment published at 86 FR 22119, Apr. 27, 2021.
 
 (8) Tariff and other schedules under the General Agreement on Tariffs and Trade and under the Agreement of the World Trade Organization;
 
-(9) Agreements that have been given a national security classification pursuant to Executive Order No. 13526, its predecessors, or its successors;
+(9) Agreements that have been given a national security classification pursuant to Executive Order No. 13526, its predecessors or successors, or are otherwise exempt from public disclosure pursuant to U.S. law;
 
 (10) Bilateral agreements with other governments that apply to specific activities and programs financed with foreign assistance funds administered by the United States Agency for International Development pursuant to the Foreign Assistance Act, as amended, and the Agricultural Trade Development and Assistance Act of 1954, as amended;
 
@@ -52,4 +50,4 @@ Link to an amendment published at 86 FR 22119, Apr. 27, 2021.
 
 (2) Has not been published, or is not proposed to be published, in the compilation entitled “United States Treaties and Other International Agreements.”
 
-[61 FR 7071, Feb. 26, 1996, as amended at 71 FR 53009, Sept. 8, 2006; 79 FR 68116, Nov. 14, 2014]
+[61 FR 7071, Feb. 26, 1996, as amended at 71 FR 53009, Sept. 8, 2006; 79 FR 68116, Nov. 14, 2014; 86 FR 22119, Apr. 27, 2021]

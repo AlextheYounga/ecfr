@@ -1,18 +1,20 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-(a) *General.* We incorporate by reference the following standards into this part. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Department of Energy must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza, SW, Washington, DC 20024, (202) 586-2945, or go to: *www1.eere.energy.gov/buildings/appliance\_\_standards/.* Standards can be obtained from the sources listed in this section. Material is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
+(a) Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, DOE must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-2945, *https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program,* and may be obtained from the other sources in this section. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email: *fedreg.legal@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *http://www.amca.org/store/item.aspx?ItemId=81.*
 
 (1) ANSI/ASHRAE 51-07/ANSI/AMCA 210-07 (“ANSI/AMCA 210”), Laboratory Methods of Testing Fans for Certified Aerodynamic Performance Rating, AMCA approved July 28, 2006; IBR approved for appendix X1 to subpart B.
 
-(2) ANSI/AMCA 210-07, ANSI/ASHRAE 51-07 (“AMCA 210-2007”), Laboratory Methods of Testing Fans for Certified Aerodynamic Performance Rating, ANSI approved August 17, 2007, Section 8 - Report and Results of Test, Section 8.2 - Performance graphical representation of test results, IBR approved for appendices M and M1 to subpart B, as follows:
+(2) ANSI/AMCA Standard 208-18, (“AMCA 208-18”), Calculation of the Fan Energy Index, ANSI approved January 24, 2018, IBR approved for appendix U to this subpart.
+
+(3) ANSI/AMCA 210-07, ANSI/ASHRAE 51-07 (“AMCA 210-2007”), Laboratory Methods of Testing Fans for Certified Aerodynamic Performance Rating, ANSI approved August 17, 2007, Section 8 - Report and Results of Test, Section 8.2 - Performance graphical representation of test results, IBR approved for appendices M and M1 to subpart B, as follows:
 
 (i) Figure 2A - Static Pressure Tap, and
 
 (ii) Figure 12 - Outlet Chamber Setup - Multiple Nozzles in Chamber.
 
-(3) ANSI/AMCA Standard 230-15 (“AMCA 230-15”), “Laboratory Methods of Testing Air Circulating Fans for Rating and Certification,” ANSI approved October 16, 2015, IBR approved for appendix U to this subpart, as follows:
+(4) ANSI/AMCA Standard 230-15 (“AMCA 230-15”), “Laboratory Methods of Testing Air Circulating Fans for Rating and Certification,” ANSI approved October 16, 2015, IBR approved for appendix U to this subpart, as follows:
 
 (i) Section 3 - Units of Measurement;
 

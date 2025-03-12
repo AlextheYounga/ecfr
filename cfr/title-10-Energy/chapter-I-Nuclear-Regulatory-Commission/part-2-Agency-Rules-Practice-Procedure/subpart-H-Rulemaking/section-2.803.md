@@ -1,4 +1,4 @@
-##### § 2.803 Petition for rulemaking - NRC action. #####
+##### § 2.803 Petition for rulemaking—NRC action. #####
 
 (a) *Notification of receipt.* Following receipt of a petition for rulemaking, the NRC will acknowledge its receipt to the petitioner.
 
@@ -28,7 +28,7 @@
 
 (3) No adjudicatory or legislative hearing under the procedures of 10 CFR part 2 will be held on a petition for rulemaking unless the Commission determines to do so, at its discretion.
 
-(h) *Determination on a petition for rulemaking; Closure of docket on a petition for rulemaking.* (1) *Determination.* Following docketing of a petition for rulemaking, the NRC's determination on the petition for rulemaking may be based upon, but is not limited to, the following considerations:
+(h) *Determination on a petition for rulemaking; Closure of docket on a petition for rulemaking* (1)—*Determination.* Following docketing of a petition for rulemaking, the NRC's determination on the petition for rulemaking may be based upon, but is not limited to, the following considerations:
 
 (i) The merits of the petition;
 
@@ -48,7 +48,7 @@
 
 (ii) Initiating a rulemaking action (*e.g.,* initiating a new rulemaking, addressing the petition for rulemaking in an ongoing rulemaking, addressing the petition for rulemaking in a planned rulemaking) that considers the issues raised by a petition for rulemaking, and informing the petitioner in writing of this decision and the associated Docket ID of the rulemaking action, if applicable.
 
-(i) *Petition for rulemaking resolution.* - (1) *Petition for rulemaking resolution published in the Federal Register.* The NRC will publish a Federal Register notice informing the public that it has concluded all planned regulatory action with respect to some or all of the issues presented in a petition for rulemaking. This may occur by adoption of a final rule related to the petition for rulemaking, denial by the NRC of the petition for rulemaking at any stage of the regulatory process, or the petitioner's withdrawal of the petition for rulemaking before the NRC has entered the rulemaking process. As applicable, the Federal Register notice will include a discussion of how the regulatory action addresses the issue raised by the petitioner, the NRC's grounds for denial of the petition for rulemaking, or information on the withdrawal. The notice will normally include the NRC's response to any public comment received (if comment is requested), unless the NRC has indicated that it will not be providing a formal written response to each comment received.
+(i) *Petition for rulemaking resolution*—(1) *Petition for rulemaking resolution published in the Federal Register.* The NRC will publish a Federal Register notice informing the public that it has concluded all planned regulatory action with respect to some or all of the issues presented in a petition for rulemaking. This may occur by adoption of a final rule related to the petition for rulemaking, denial by the NRC of the petition for rulemaking at any stage of the regulatory process, or the petitioner's withdrawal of the petition for rulemaking before the NRC has entered the rulemaking process. As applicable, the Federal Register notice will include a discussion of how the regulatory action addresses the issue raised by the petitioner, the NRC's grounds for denial of the petition for rulemaking, or information on the withdrawal. The notice will normally include the NRC's response to any public comment received (if comment is requested), unless the NRC has indicated that it will not be providing a formal written response to each comment received.
 
 (2) *NRC decision not to proceed with rulemaking after closure of a petition for rulemaking docket.* If the NRC closes a petition for rulemaking docket under paragraph (h)(2)(ii) of this section but subsequently decides not to carry out the planned rulemaking to publication of a final rule, the NRC will notify the petitioner in writing of this decision and publish a notice in the Federal Register explaining the basis for its decision. The decision not to complete the rulemaking action will be documented as denial of the petition for rulemaking in the docket of the closed petition for rulemaking, in the Web sites, in the Government-wide *Unified Agenda of Federal Regulatory and Deregulatory Actions,* online in ADAMS, and at *http://www.regulations.gov* as described in paragraph (j) of this section.
 

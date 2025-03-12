@@ -1,5 +1,7 @@
 ##### 517.207 Exercise of options. #####
 
+Link to an amendment published at 86 FR 28500, May 27, 2021.
+
 In addition to the requirements of FAR 17.207, the Contracting Officer must also:
 
 (a) Document the contract file with the rationale for an extended contractual relationship if the contractor's performance rating under the contract is less than satisfactory.
