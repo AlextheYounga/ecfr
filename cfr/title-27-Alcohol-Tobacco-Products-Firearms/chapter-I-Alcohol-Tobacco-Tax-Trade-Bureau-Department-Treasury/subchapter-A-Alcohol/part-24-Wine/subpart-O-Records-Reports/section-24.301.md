@@ -1,6 +1,6 @@
 ##### § 24.301 Bulk still wine and bulk still hard cider record. #####
 
-A proprietor who produces or receives still wine or bulk still hard cider in bond, (including wine intended for use as distilling material or vinegar stock to which water has not yet been added) shall maintain records of transactions for bulk still wine or bulk still hard cider. Records will be maintained for each tax class of still wine or for hard cider including the date the transaction occurred. The bulk still wine or for hard cider record will contain the following:
+A proprietor who produces or receives still wine or bulk still hard cider in bond, (including wine intended for use as distilling material or vinegar stock to which water has not yet been added) shall maintain records of transactions for bulk still wine or bulk still hard cider. Records will be maintained for each tax class of still wine or for hard cider including the date the transaction occurred. The bulk still wine and bulk still hard cider or for hard cider record will contain the following:
 
 (a) The volume produced by fermentation in wine gallons determined by actual measurement;
 

@@ -8,7 +8,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Beer.* Beer, ale porter, stout, and other similar fermented beverages (including sake or similar products) of any name or description containing one-half of 1 percent or more of alcohol by volume, brewed or produced from malt, wholly or in part, or from any substitute therefor.
 
-*Bonded premises - distilled spirits plant.* The premises of a distilled spirits plant, or part thereof, on which distilled spirits operations defined in 26 U.S.C. 5002 are authorized to be conducted. This term includes premises described in the preceding sentence even if the distilled spirits plant proprietor, as authorized under the exemption set forth in § 19.151(d) of this chapter, has not provided a bond for the premises.
+*Bonded premises—distilled spirits plant.* The premises of a distilled spirits plant, or part thereof, on which distilled spirits operations defined in 26 U.S.C. 5002 are authorized to be conducted. This term includes premises described in the preceding sentence even if the distilled spirits plant proprietor, as authorized under the exemption set forth in § 19.151(d) of this chapter, has not provided a bond for the premises.
 
 *Bonded wine cellar.* Premises established under part 24 of this chapter.
 
@@ -39,6 +39,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 (3) Was not subjected to distillation on distilled spirits plant premises such that the flavor does not remain in the finished product.
 
 *Eligible wine.* Wine on which tax would be imposed by paragraph (1), (2), or (3) of 26 U.S.C. 5041(b) but for its removal to distilled spirits plant premises and which has not been subject to distillation at a distilled spirits plant after receipt in bond.
+For purposes of this definition, the phrase “receipt in bond” applies to wine on which tax has not been determined or paid that is received by the proprietor of a distilled spirits plant, even if the proprietor, as authorized under the exemption set forth in § 19.151(d) of this chapter, is not required to provide a bond for the premises where the wine is received.
 
 *Gallon or wine gallon.* The liquid measure equivalent to the volume of 231 cubic inches. For purposes of this definition, the phrase “receipt in bond” applies to wine on which tax has not been determined or paid that is received by the proprietor of a distilled spirits plant, even if the proprietor, as authorized under the exemption set forth in § 19.151(d) of this chapter, is not required to provide a bond for the premises where the wine is received.
 
@@ -68,4 +69,4 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Wine.* (a) Still wine, including vermouth or other aperitif wine, artificial or imitation wines or compounds sold as still wines, champagne or sparkling wine, and artificially carbonated wine, and (b) flavored or sweetened fortified or unfortified wines, by whatever name sold or offered for sale, containing not over 24 percent alcohol by volume.
 
-(68A Stat. 917, as amended (26 U.S.C. 7805); 49 Stat. 981, as amended (27 U.S.C. 205); 26 U.S.C. 7805 (68A Stat. 917, as amended), and in 27 U.S.C. 205 (49 Stat. 981, as amended))[T.D. ATF-48, 43 FR 13552, Mar. 31, 1978]Editorial Note:For Federal Register citations affecting § 27.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(68A Stat. 917, as amended (26 U.S.C. 7805); 49 Stat. 981, as amended (27 U.S.C. 205); 26 U.S.C. 7805 (68A Stat. 917, as amended), and in 27 U.S.C. 205 (49 Stat. 981, as amended))[T.D. ATF-48, 43 FR 13552, Mar. 31, 1978]Editorial Note:For Federal Register citations affecting § 27.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

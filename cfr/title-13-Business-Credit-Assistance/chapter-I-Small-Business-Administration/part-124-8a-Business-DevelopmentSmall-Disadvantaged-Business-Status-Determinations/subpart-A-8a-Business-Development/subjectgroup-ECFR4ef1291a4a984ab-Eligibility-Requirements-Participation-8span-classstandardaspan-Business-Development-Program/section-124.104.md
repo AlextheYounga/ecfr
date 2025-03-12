@@ -2,7 +2,7 @@
 
 (a) *General.* Economically disadvantaged individuals are socially disadvantaged individuals whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same or similar line of business who are not socially disadvantaged.
 
-(b) *Submission of narrative and financial information.*(1) Each individual claiming economic disadvantage must submit personal financial information.
+(b) *Submission of narrative and financial information.* (1) Each individual claiming economic disadvantage must submit personal financial information.
 
 (2) When married, an individual claiming economic disadvantage must submit separate financial information for his or her spouse, unless the individual and the spouse are legally separated. SBA will consider a spouse's financial situation in determining an individual's access to credit and capital where the spouse has a role in the business (*e.g.,* an officer, employee or director) or has lent money to, provided credit support to, or guaranteed a loan of the business. SBA does not take into consideration community property laws when determining economic disadvantage.
 

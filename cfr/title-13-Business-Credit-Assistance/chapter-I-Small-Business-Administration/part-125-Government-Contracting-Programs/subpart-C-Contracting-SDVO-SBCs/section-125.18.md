@@ -108,4 +108,4 @@
 
 (6) A concern's status may be determined at the time of a response to a solicitation for an Agreement and each order issued pursuant to the Agreement.
 
-[69 FR 25268, May 5, 2004, as amended at 70 FR 14527, Mar. 23, 2005; 78 FR 61143, Oct. 2, 2013; 81 FR 34264, May 31, 2016. Redesignated as 81 FR 48585, July 25, 2016, as amended at 81 FR 48590, July 25, 2016; 81 FR 94941, Dec. 27, 2016]
+[69 FR 25268, May 5, 2004, as amended at 70 FR 14527, Mar. 23, 2005; 78 FR 61143, Oct. 2, 2013; 81 FR 34264, May 31, 2016. Redesignated at 81 FR 48585, July 25, 2016, as amended at 81 FR 48590, July 25, 2016; 81 FR 94941, Dec. 27, 2016]

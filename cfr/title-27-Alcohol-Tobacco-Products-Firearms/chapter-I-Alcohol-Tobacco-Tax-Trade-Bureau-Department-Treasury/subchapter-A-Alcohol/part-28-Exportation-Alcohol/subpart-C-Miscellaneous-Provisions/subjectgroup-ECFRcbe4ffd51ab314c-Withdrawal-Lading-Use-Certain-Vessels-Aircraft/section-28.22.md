@@ -6,4 +6,4 @@ Note:
 
 As used in this section, the word “withdrawer” shall mean the person executing the application or notice, TTB Form 5100.11, 5110.30, 1582-A (5120.24), 1582-B (5130.6), or 1689 (5130.12), as the case may be.
 
-(46 Stat. 690, as amended, 72 Stat. 1334, 1335, 1336, 1362, 1380; 19 U.S.C. 1309, 26 U.S.C. 5053, 5055, 5062, 5214, 5362)[25 FR 5734, June 23, 1960, as amended by T.D. 7006, 34 FR 2251, Feb. 15, 1969. Redesignated at 40 FR 16835, Apr. 15, 1975; T.D. TTB-146, 82 FR 1135, Jan. 4, 2017]Editorial Note:For Federal Register citations affecting § 28.22, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(46 Stat. 690, as amended, 72 Stat. 1334, 1335, 1336, 1362, 1380; 19 U.S.C. 1309, 26 U.S.C. 5053, 5055, 5062, 5214, 5362)[25 FR 5734, June 23, 1960, as amended by T.D. 7006, 34 FR 2251, Feb. 15, 1969. Redesignated at 40 FR 16835, Apr. 15, 1975]Editorial Note:For Federal Register citations affecting § 28.22, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

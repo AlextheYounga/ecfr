@@ -66,4 +66,4 @@ Example 1 to paragraph (c):An SDVO SBC sole source contract is awarded in the to
 
 (h) *Penalties.* Whoever violates the requirements set forth in paragraph (a) of this section shall be subject to the penalties prescribed in 15 U.S.C. 645(d), except that the fine shall be treated as the greater of $500,000 or the dollar amount spent, in excess of permitted levels, by the entity on subcontractors. A party's failure to comply with the spirit and intent of a subcontract with a similarly situated entity may be considered a basis for debarment on the grounds, including but not limited to, that the parties have violated the terms of a Government contract or subcontract pursuant to FAR 9.406-2(b)(1)(i) (48 CFR 9.406-2(b)(1)(i)).
 
-[81 FR 34262, May 31, 2016; 81 FR 67093, Sept. 30, 2016]
+[81 FR 34262, May 31, 2016; 81 FR 67093, Sept. 30, 2016]Editorial Note:At 81 FR 48585, July 25, 2016, § 125.6 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

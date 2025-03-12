@@ -58,4 +58,4 @@ Example 1 to paragraph (b)(4).A procuring agency seeks to acquire computer integ
 
 (f) These requirements do not apply to small business concern subcontractors.
 
-[61 FR 3286, Jan. 31, 1996; 61 FR 7986, Mar. 1, 1996, as amended at 65 FR 30863, May 15, 2000; 69 FR 29205, May 21, 2004; 76 FR 8252, Feb. 11, 2011; 78 FR 61132, Oct. 2, 2013; 81 FR 4469, Jan. 26, 2016; 81 FR 34259, May 31, 2016]
+[61 FR 3286, Jan. 31, 1996; 61 FR 7986, Mar. 1, 1996, as amended at 65 FR 30863, May 15, 2000; 69 FR 29205, May 21, 2004; 76 FR 8252, Feb. 11, 2011; 78 FR 61132, Oct. 2, 2013; 81 FR 4469, Jan. 26, 2016; 81 FR 34259, May 31, 2016; 81 FR 48579, July 25, 2016]

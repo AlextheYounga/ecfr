@@ -1,6 +1,6 @@
 ##### § 26.113 Returns for prepayment of taxes. #####
 
-(a) *General.*Except as provided in §§ 26.66(c), 26.67(b), or 26.68(b), a proprietor must have an approved bond to defer payment of taxes. If a proprietor does not have an approved bond covering the deferred payment of taxes, or if such bond is in an insufficient penal sum, or if there is default by him in any payment of tax under this subpart, liquors shall not be released from bonded storage before the proprietor has paid the tax thereon.
+(a) *General.* Except as provided in §§ 26.66(c), 26.67(b), or 26.68(b), a proprietor must have an approved bond to defer payment of taxes. If a proprietor does not have an approved bond covering the deferred payment of taxes, or if such bond is in an insufficient penal sum, or if there is default by him in any payment of tax under this subpart, liquors shall not be released from bonded storage before the proprietor has paid the tax thereon.
 
 (b) *Remittances.* Remittances submitted to cover prepayment of taxes under this subpart shall be in cash, United States postal money orders, certified checks, or cashier's checks.
 
@@ -12,4 +12,4 @@
 
 (f) *Applicable procedures.* The procedures of § 26.112(c) with respect to returns delivered by United States mail shall apply to returns and remittances filed under the provisions of this section.
 
-(Approved by the Office of Management and Budget under control number 1512-0497)[20 FR 6077, Aug. 20, 1955]Editorial Note:For Federal Register citations affecting § 26.113, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 1512-0497)[20 FR 6077, Aug. 20, 1955]Editorial Note:For Federal Register citations affecting § 26.113, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
