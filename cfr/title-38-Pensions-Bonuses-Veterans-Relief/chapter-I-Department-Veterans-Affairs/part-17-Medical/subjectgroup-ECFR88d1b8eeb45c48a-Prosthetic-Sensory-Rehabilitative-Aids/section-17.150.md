@@ -1,6 +1,6 @@
 ##### § 17.150 Prosthetic and similar appliances. #####
 
-Link to an amendment published at 85 FR 84259, Dec. 28, 2020.
+Link to an amendment published at 85 FR 84259, Dec. 28, 2020.Link to a delay published at 86 FR 7351, Jan. 28, 2021.
 
 Artificial limbs, braces, orthopedic shoes, hearing aids, wheelchairs, medical accessories, similar appliances including invalid lifts and therapeutic and rehabilitative devices, and special clothing made necessary by the wearing of such appliances, may be purchased, made or repaired for any veteran upon a determination of feasibility and medical need, provided:
 

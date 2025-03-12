@@ -1,6 +1,6 @@
 ##### § 17.120 Payment or reimbursement for emergency treatment furnished by non-VA providers to certain veterans with service-connected disabilities. #####
 
-Link to an amendment published at 85 FR 84259, Dec. 28, 2020.
+Link to an amendment published at 85 FR 84259, Dec. 28, 2020.Link to a delay published at 86 FR 7351, Jan. 28, 2021.
 
 To the extent allowable, payment or reimbursement of the expenses of emergency treatment, not previously authorized, in a private or public (or Federal) hospital not operated by the Department of Veterans Affairs, or of any emergency treatment not previously authorized including transportation (except prosthetic appliances, similar devices, and repairs) will be paid on the basis of a claim timely filed, under the following circumstances:
 

@@ -1,7 +1,7 @@
 ##### § 17.122 Payment or reimbursement of the expenses of repairs to prosthetic appliances and similar devices furnished without prior authorization.
 - #####
 
-Link to an amendment published at 85 FR 84259, Dec. 28, 2020.
+Link to an amendment published at 85 FR 84259, Dec. 28, 2020.Link to a delay published at 86 FR 7351, Jan. 28, 2021.
 
 The expenses of repairs to prosthetic appliances, or similar appliances, therapeutic or rehabilitative aids or devices, furnished without prior authorization, but incurred in the care of an adjudicated service-connected disability (or, in the case of a veteran who is participating in a rehabilitation program under 38 U.S.C. ch. 31 and who is determined to be in need of the repairs for any of the reasons enumerated in § 17.47(g)) may be paid or reimbursed on the basis of a timely filed claim, if
 
