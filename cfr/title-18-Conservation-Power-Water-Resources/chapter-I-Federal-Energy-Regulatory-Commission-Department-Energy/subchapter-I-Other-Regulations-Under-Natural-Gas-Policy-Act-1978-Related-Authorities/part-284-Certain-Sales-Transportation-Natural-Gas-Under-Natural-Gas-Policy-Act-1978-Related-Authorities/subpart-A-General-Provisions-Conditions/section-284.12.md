@@ -1,5 +1,7 @@
 ##### § 284.12 Standards for pipeline business operations and communications. #####
 
+Link to an amendment published at 86 FR 43598, Aug. 10, 2021.
+
 (a) *Incorporation by reference of NAESB standards.* (1) An interstate pipeline that transports gas under subparts B or G of this part must comply with the business practices and electronic communications standards as promulgated by the North American Energy Standards Board, as incorporated herein by reference in paragraphs (a)(1)(i) through (vii) of this section.
 
 (i) Additional Standards (Version 3.1, September 29, 2017);
