@@ -1,7 +1,5 @@
 ##### § 201.3 Fees for registration, recordation, and related services, special services, and services performed by the Licensing Section and the Copyright Claims Board. #####
 
-Link to an amendment published at 87 FR 17000, Mar. 25, 2022.Link to an amendment published at 87 FR 24056, Apr. 22, 2022.
-
 (a) *General.* This section prescribes the fees for registration, recordation, and related services, special services, and services performed by the Licensing Section.
 
 (b) *Definitions.* For purposes of this section, the following definitions apply:
@@ -82,7 +80,7 @@ Table 1 to Paragraph (c)
 
 (d) *Special service fees.* The Copyright Office has established the following fees for special services of the Office:
 
-Table 1 to Paragraph (d)
+Table 2 to Paragraph (d)
 
 |                                               Special services                                               |Fees  <br/>($)|
 |--------------------------------------------------------------------------------------------------------------|--------------|
@@ -113,7 +111,7 @@ Table 1 to Paragraph (d)
 
 (e) *Licensing Section service fees.* The Copyright Office has established the following fees for specific services of the Licensing Section:
 
-Table 1 to Paragraph (e)
+Table 3 to Paragraph (e)
 
 |                                                                     Licensing section services                                                                      |Fees  <br/>($)|
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
@@ -138,7 +136,9 @@ Table 4 to Paragraph (g)
 
 |                                                               Copyright Claims Board fees                                                                |Fees  <br/>($)|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-|                                                                      (1) [Reserved]                                                                      |              |
+|                                               (1) Initiate a proceeding before the Copyright Claims Board:                                               |              |
+|                                                                    (i) First payment                                                                     |      40      |
+|                                                                   (ii) Second payment                                                                    |      60      |
 |(2) Designation of a service agent by a corporation, partnership, or unincorporated association under 17 U.S.C. 1506(g)(5)(B), or amendment of designation|      6       |
 
-[64 FR 29520, June 1, 1999, as amended at 64 FR 36574, July 7, 1999; 65 FR 39819, June 28, 2000; 67 FR 38005, May 31, 2002; 71 FR 31090, June 1, 2006; 71 FR 46402, Aug. 14, 2006; 72 FR 33691, June 19, 2007; 74 FR 12556, Mar. 25, 2009, 74 FR 32807, July 9, 2009; 77 FR 18705, Mar. 28, 2012; 77 FR 18707, Mar. 28, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 15918, Mar. 24, 2014; 79 FR 24334, Apr. 30, 2014; 79 FR 68623, Nov. 18, 2014; 81 FR 75707, Nov. 1, 2016; 82 FR 9008, Feb. 2, 2017; 82 FR 9356, Feb. 6, 2017; 82 FR 26853, June 12, 2017; 82 FR 29413, June 29, 2017; 82 FR 52223, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 52153, Oct. 16, 2018; 83 FR 61549, Nov. 30, 2018; 83 FR 66628, Dec. 27, 2018; 84 FR 3697, Feb. 13, 2019; 84 FR 10684, Mar. 22, 2019; 84 FR 14255, Apr. 9, 2019; 84 FR 20273, May 9, 2019; 85 FR 9386, Feb. 19, 2020; 85 FR 37346, June 22, 2020; 86 FR 10825, Feb. 23, 2021; 86 FR 32641, June 22, 2021; 86 FR 46122, Aug. 18, 2021; 87 FR 12865, Mar. 8, 2022; 87 FR 24058, Apr. 22, 2022]
+[64 FR 29520, June 1, 1999, as amended at 64 FR 36574, July 7, 1999; 65 FR 39819, June 28, 2000; 67 FR 38005, May 31, 2002; 71 FR 31090, June 1, 2006; 71 FR 46402, Aug. 14, 2006; 72 FR 33691, June 19, 2007; 74 FR 12556, Mar. 25, 2009, 74 FR 32807, July 9, 2009; 77 FR 18705, Mar. 28, 2012; 77 FR 18707, Mar. 28, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 15918, Mar. 24, 2014; 79 FR 24334, Apr. 30, 2014; 79 FR 68623, Nov. 18, 2014; 81 FR 75707, Nov. 1, 2016; 82 FR 9008, Feb. 2, 2017; 82 FR 9356, Feb. 6, 2017; 82 FR 26853, June 12, 2017; 82 FR 29413, June 29, 2017; 82 FR 52223, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 52153, Oct. 16, 2018; 83 FR 61549, Nov. 30, 2018; 83 FR 66628, Dec. 27, 2018; 84 FR 3697, Feb. 13, 2019; 84 FR 10684, Mar. 22, 2019; 84 FR 14255, Apr. 9, 2019; 84 FR 20273, May 9, 2019; 85 FR 9386, Feb. 19, 2020; 85 FR 37346, June 22, 2020; 86 FR 10825, Feb. 23, 2021; 86 FR 32641, June 22, 2021; 86 FR 46122, Aug. 18, 2021; 87 FR 12865, Mar. 8, 2022; 87 FR 17000, Mar. 25, 2022; 87 FR 24056, 24058, Apr. 22, 2022]
