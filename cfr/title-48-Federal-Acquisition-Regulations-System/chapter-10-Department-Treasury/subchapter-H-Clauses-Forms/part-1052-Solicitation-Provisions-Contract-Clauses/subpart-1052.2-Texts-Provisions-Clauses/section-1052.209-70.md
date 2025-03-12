@@ -2,9 +2,9 @@
 
 As prescribed in 1009.7005, insert the following provision:
 
-NOTICE AND CONSENT TO DISCLOSE AND USE OF TAXPAYER RETURN INFORMATION - (NOV 2017)
+Notice and Consent To Disclose and Use of Taxpayer Return Information (NOV 2017)
 
-(a) *Definitions.* As used in this provision -
+(a) *Definitions.* As used in this provision—
 
 *Authorized representative(s) of the offeror* means the person(s) identified to the Internal Revenue Service (IRS) within the consent to disclose by the offeror as authorized to represent the offeror in disclosure matters pertaining to the offer.
 

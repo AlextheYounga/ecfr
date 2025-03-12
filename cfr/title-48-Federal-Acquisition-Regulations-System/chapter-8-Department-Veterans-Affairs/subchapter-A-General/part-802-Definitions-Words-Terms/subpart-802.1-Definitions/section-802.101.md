@@ -1,16 +1,10 @@
 ##### 802.101 Definitions. #####
 
-Link to an amendment published at 83 FR 16208, Apr. 16, 2018.
-
 *A/E* means architect/engineer.
 
 *Chief Acquisition Officer* means the Assistant Secretary for Management.
 
 *COTR* means Contracting Officer's Technical Representative or Contracting Officer's Representative.
-
-*D&S Committee* means the VA Debarment and Suspension Committee, a committee consisting of the Director, Acquisition Resources Service (chair), and representatives of the Office of Management, Office of Inspector General, and the program office to which the particular debarment or suspension case relates. A representative from OGC will serve as legal counsel to the D & S Committee.
-
-*Debarring official* means the DSPE, who is also the Associate Deputy Assistant Secretary for Acquisitions. Authority to impose debarment is delegated to the SPE and is further delegated to the DSPE.
 
 *DSPE* means the Deputy Senior Procurement Executive, who is also the Associate Deputy Assistant Secretary for Acquisitions. The DSPE must be career member of the Senior Executive Service.
 
@@ -46,7 +40,9 @@ Link to an amendment published at 83 FR 16208, Apr. 16, 2018.
 
 (3) The veteran must have had a 100 percent service-connected disability rating or the veteran died as a direct result of a service-connected disability.
 
-*Suspending official* means the DSPE. Authority to impose suspension is delegated to the SPE and is further delegated to the DSPE.
+*Suspending and Debarring Official (SDO)* means the Senior Procurement Executive (SPE) or Deputy Senior Procurement Executive (DSPE) if further delegated in writing by the SPE.
+
+*Suspension and Debarment Committee (S&D Committee)* means a committee authorized by the SDO to assist the SDO with suspension and debarment related matters.
 
 *VA* means the Department of Veterans Affairs.
 
@@ -58,4 +54,4 @@ Link to an amendment published at 83 FR 16208, Apr. 16, 2018.
 
 *VISN* means Veterans Integrated Service Network, an integrated network of VA facilities that are focused on pooling and aligning resources to best meet local needs in the most cost-effective manner and provide greater access to care.
 
-[73 FR 2717, Jan. 15, 2008, as amended at 74 FR 64629, Dec. 8, 2009]
+[73 FR 2717, Jan. 15, 2008, as amended at 74 FR 64629, Dec. 8, 2009; 83 FR 16208, Apr. 16, 2018]

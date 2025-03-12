@@ -574,4 +574,4 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (6) For OLED and non-integrated LED lamps, measure initial light output, input power, lamp efficacy, power factor, and standby mode power in accordance with appendix DD of this subpart.
 
-[42 FR 27898, June 1, 1977]Editorial Note:For Federal Register citations affecting § 430.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[42 FR 27898, June 1, 1977]Editorial Note:For Federal Register citations affecting § 430.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

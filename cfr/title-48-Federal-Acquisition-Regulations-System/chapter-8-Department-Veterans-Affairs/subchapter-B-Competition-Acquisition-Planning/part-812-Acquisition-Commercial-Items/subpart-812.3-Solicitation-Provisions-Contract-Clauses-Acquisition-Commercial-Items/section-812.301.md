@@ -1,7 +1,5 @@
 ##### 812.301 Solicitation provisions and contract clauses for the acquisition of commercial items. #####
 
-Link to an amendment published at 83 FR 16208, Apr. 16, 2018.
-
 (a) Regardless of provisions in other parts of the VAAR, contracting officers may use, as appropriate, only those provisions and clauses referred to in this part when acquiring commercial items.
 
 (b) Contracting officers may use the provisions and clauses in the following VAAR sections, as appropriate and in accordance with the prescriptions for the provisions and clauses, in requests for quotations, solicitations, and contracts:
@@ -30,7 +28,7 @@ Link to an amendment published at 83 FR 16208, Apr. 16, 2018.
 
 (12) 852.214-73, Alternate packaging and packing.
 
-(13) 852.214-74, Bid samples.
+(13) 852.214-74, Marking of Bid Samples.
 
 (14) 852.216-70, Estimated quantities.
 
@@ -90,4 +88,4 @@ Link to an amendment published at 83 FR 16208, Apr. 16, 2018.
 
 (5) 852.273-74, Award without exchanges.
 
-(38 U.S.C. 8151-8153)
+(38 U.S.C. 8151-8153)[73 FR 2717, Jan. 15, 2008, as amended at 83 FR 16208, Apr. 16, 2018]

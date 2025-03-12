@@ -8,6 +8,4 @@ Nondiscrimination Against End-Users of Supplies or Services (OCT 2016)
 
 (b) The Contractor must insert this clause, including this paragraph, in all subcontracts under this contract.
 
-(End of clause)
-
-[81 FR 73354, Oct. 25, 2016]
+(End of clause)[81 FR 73354, Oct. 25, 2016]

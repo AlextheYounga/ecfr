@@ -561,10 +561,10 @@ av = Total adjusted volume, expressed in Liters.
 
 |Rated lamp wattage|  Lamp spectrum  |Lamp diameter  <br/>inches|   Rated voltage    |Minimum  <br/>average lamp  <br/>efficacy  <br/>lm/W|
 |------------------|-----------------|--------------------------|--------------------|----------------------------------------------------|
-|      40-205      |Standard Spectrum|          \>2.5           |≥125 V  <br/>\<125 V|            6.8\*P0.27  <br/>5.9\*P0.27             |
-|                  |                 |           ≤2.5           |≥125 V  <br/>\<125 V|            5.7\*P0.27  <br/>5.0\*P0.27             |
-|      40-205      |Modified Spectrum|          \>2.5           |≥125 V  <br/>\<125 V|            5.8\*P0.27  <br/>5.0\*P0.27             |
-|                  |                 |           ≤2.5           |≥125 V  <br/>\<125 V|            4.9\*P0.27  <br/>4.2\*P0.27             |
+|      40-205      |Standard Spectrum|          \>2.5           |≥125 V  <br/>\<125 V| 6.8\*P<sup>0.27</sup>  <br/>5.9\*P<sup>0.27</sup>  |
+|                  |                 |           ≤2.5           |≥125 V  <br/>\<125 V| 5.7\*P<sup>0.27</sup>  <br/>5.0\*P<sup>0.27</sup>  |
+|      40-205      |Modified Spectrum|          \>2.5           |≥125 V  <br/>\<125 V| 5.8\*P<sup>0.27</sup>  <br/>5.0\*P<sup>0.27</sup>  |
+|                  |                 |           ≤2.5           |≥125 V  <br/>\<125 V| 4.9\*P<sup>0.27</sup>  <br/>4.2\*P<sup>0.27</sup>  |
 
 Note 1: P is equal to the rated lamp wattage, in watts.
 
@@ -667,7 +667,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (E) Highly-decorative ceiling fans, as defined in Appendix U of this part.
 
-(3) Ceiling fan light kits manufactured on or after January 1, 2007, and prior to January 7, 2019, with medium screw base sockets must be packaged with medium screw base lamps to fill all sockets. These medium screw base lamps must -
+(3) Ceiling fan light kits manufactured on or after January 1, 2007, and prior to January 21, 2020, with medium screw base sockets must be packaged with medium screw base lamps to fill all sockets. These medium screw base lamps must -
 
 (i) Be compact fluorescent lamps that meet or exceed the following requirements or be as described in paragraph (s)(2)(ii) of this section:
 
@@ -696,7 +696,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (ii) Be light sources other than compact fluorescent lamps that have lumens per watt performance at least equivalent to comparably configured compact fluorescent lamps meeting the energy conservation standards in paragraph (s)(2)(i) of this section.
 
-(4) Ceiling fan light kits manufactured on or after January 1, 2007, and prior January 7, 2019, with pin-based sockets for fluorescent lamps must use an electronic ballast and be packaged with lamps to fill all sockets. These lamp ballast platforms must meet the following requirements:
+(4) Ceiling fan light kits manufactured on or after January 1, 2007, and prior January 21, 2020, with pin-based sockets for fluorescent lamps must use an electronic ballast and be packaged with lamps to fill all sockets. These lamp ballast platforms must meet the following requirements:
 
 |                              Factor                               |                      Requirement                       |
 |-------------------------------------------------------------------|--------------------------------------------------------|
@@ -706,9 +706,9 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 |                                                                   |    ≥70 lm/w for all lamps that are \> 24 inches and    |
 |                                                                   |              ≥30 total listed lamp watts.              |
 
-(5) Ceiling fan light kits manufactured on or after January 1, 2009, and prior to January 7, 2019, with socket types other than those covered in paragraphs (s)(2) or (3) of this section, including candelabra screw base sockets, must be packaged with lamps to fill all sockets and must not be capable of operating with lamps that total more than 190 watts.
+(5) Ceiling fan light kits manufactured on or after January 1, 2009, and prior to January 21, 2020, with socket types other than those covered in paragraph (s)(3) or (4) of this section, including candelabra screw base sockets, must be packaged with lamps to fill all sockets and must not be capable of operating with lamps that total more than 190 watts.
 
-(6) Ceiling fan light kits manufactured on or after January 7, 2019 must be packaged with lamps to fill all sockets, and each basic model of lamp packaged with the basic model of CFLK and each basic model of integrated SSL in the CFLK basic model shall meet the requirements shown in the table:
+(6) Ceiling fan light kits manufactured on or after January 21, 2020 must be packaged with lamps to fill all sockets, and each basic model of lamp packaged with the basic model of CFLK and each basic model of integrated SSL in the CFLK basic model shall meet the requirements shown in the table:
 
 |Lumens<sup>1</sup>|Minimum required efficacy  <br/>(lm/W)|
 |------------------|--------------------------------------|
@@ -717,7 +717,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 <sup>1</sup> Use the lumen output for each basic model of lamp packaged with the basic model of CFLK or each basic model of integrated SSL in the CFLK basic model to determine the applicable standard.
 
-(i) Ceiling fan light kits with medium screw base sockets manufactured on or after January 7, 2019 and packaged with compact fluorescent lamps must include lamps that also meet the following requirements:
+(i) Ceiling fan light kits with medium screw base sockets manufactured on or after January 21, 2020 and packaged with compact fluorescent lamps must include lamps that also meet the following requirements:
 
 |                                           |                                                                                                                                                                                 |
 |-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -726,7 +726,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 |          Rapid Cycle Stress Test          |Each lamp must be cycled once for every 2 hours of lifetime of compact fluorescent lamp as defined in § 430.2. At least 5 lamps must meet or exceed the minimum number of cycles.|
 |                 Lifetime                  |                                                                      ≥6,000 hours for the sample of lamps.                                                                      |
 
-(ii) Ceiling fan light kits with pin based sockets for fluorescent lamps, manufactured on or after January 7, 2019, must also use an electronic ballast.
+(ii) Ceiling fan light kits with pin based sockets for fluorescent lamps, manufactured on or after January 21, 2020, must also use an electronic ballast.
 
 (t) *Torchieres.* A torchiere manufactured on or after January 1, 2006 shall:
 
