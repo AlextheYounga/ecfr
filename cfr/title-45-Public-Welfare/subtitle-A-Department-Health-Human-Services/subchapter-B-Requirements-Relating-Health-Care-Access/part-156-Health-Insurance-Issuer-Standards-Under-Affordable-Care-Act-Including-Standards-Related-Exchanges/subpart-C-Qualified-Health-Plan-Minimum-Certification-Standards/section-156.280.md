@@ -1,6 +1,4 @@
-##### § 156.280 Separate billing and segregation of funds for abortion services. #####
-
-Link to an amendment published at 86 FR 53506, Sept. 27, 2021.
+##### § 156.280 Segregation of funds for abortion services. #####
 
 (a) *State opt-out of abortion coverage.* A QHP issuer must comply with a State law that prohibits abortion coverage in QHPs.
 
@@ -12,7 +10,7 @@ Link to an amendment published at 86 FR 53506, Sept. 27, 2021.
 
 (2) Subject to paragraphs (a) and (b) of this section, the QHP issuer must determine whether or not the QHP provides coverage of services described in paragraph (d) of this section as part of such benefits for the plan year.
 
-(d) *Abortion services* - (1) *Abortions for which public funding is prohibited.* The services described in this paragraph are abortion services for which the expenditure of Federal funds appropriated for HHS is not permitted, based on the law in effect 6 months before the beginning of the plan year involved.
+(d) *Abortion services*—(1) *Abortions for which public funding is prohibited.* The services described in this paragraph are abortion services for which the expenditure of Federal funds appropriated for HHS is not permitted, based on the law in effect 6 months before the beginning of the plan year involved.
 
 (2) *Abortions for which public funding is allowed.* The services described in this paragraph are abortion services for which the expenditure of Federal funds appropriated for HHS is permitted, based on the law in effect 6 months before the beginning of the plan year involved.
 
@@ -30,11 +28,7 @@ Link to an amendment published at 86 FR 53506, Sept. 27, 2021.
 
 (B) An amount equal to the actuarial value of the coverage of services described in paragraph (d)(1) of this section.
 
-(ii) Beginning on or before the first billing cycle following August 26, 2020, to satisfy the obligation in paragraph (e)(2)(i) of this section -
-
-(A) Send to each policy holder of a QHP monthly bills for each of the amounts specified in paragraphs (e)(2)(i)(A) and (B) of this section, either by sending separate paper bills which may be in the same envelope or mailing, or by sending separate bills electronically, which must be in separate emails or electronic communications; and
-
-(B) Instruct the policy holder to pay each of the amounts specified in paragraphs (e)(2)(i)(A) and (B) of this section through separate transactions. Notwithstanding this instruction, if the policy holder fails to pay each of these amounts in a separate transaction as instructed by the issuer, the issuer may not refuse the payment and initiate a grace period or terminate the policy holder's QHP coverage on this basis.
+(ii) An issuer will be considered to satisfy the obligation in paragraph (e)(2)(i) of this section if it sends the policy holder a single monthly invoice or bill that separately itemizes the premium amount for coverage of abortion services described in paragraph (d)(1) of this section; sends the policy holder a separate monthly bill for these services; or sends the policy holder a notice at or soon after the time of enrollment that the monthly invoice or bill will include a separate charge for such services, and specifies the charge.
 
 (iii) Deposit all such separate payments into separate allocation accounts as provided in paragraph (e)(3) of this section. In the case of an enrollee whose premium for coverage under the QHP is paid through employee payroll deposit, the separate payments required under paragraph (e)(2)(i) of this section shall each be paid by a separate deposit.
 
@@ -68,13 +62,13 @@ Link to an amendment published at 86 FR 53506, Sept. 27, 2021.
 
 (iv) Nothing in this clause shall prohibit the right of an individual or QHP issuer to appeal such action in courts of competent jurisdiction.
 
-(f) *Rules relating to notice* - (1) *Notice.* A QHP that provides for coverage of services in paragraph (d)(1) of this section, must provide a notice to enrollees, only as part of the summary of benefits and coverage explanation, at the time of enrollment, of such coverage.
+(f) *Rules relating to notice*—(1) *Notice.* A QHP that provides for coverage of services in paragraph (d)(1) of this section, must provide a notice to enrollees, only as part of the summary of benefits and coverage explanation, at the time of enrollment, of such coverage.
 
 (2) *Rules relating to payments.* The notice described in paragraph (f)(1) of this section, any advertising used by the QHP issuer with respect to the QHP, any information provided by the Exchange, and any other information specified by HHS must provide information only with respect to the total amount of the combined payments for services described in paragraph (d)(1) of this section and other services covered by the QHP.
 
 (g) *No discrimination on basis of provision of abortion.* No QHP offered through an Exchange may discriminate against any individual health care provider or health care facility because of its unwillingness to provide, pay for, provide coverage of, or refer for abortions.
 
-(h) *Application of State and Federal laws regarding abortions* - (1) *No preemption of State laws regarding abortion.* Nothing in the Affordable Care Act shall be construed to preempt or otherwise have any effect on State laws regarding the prohibition of (or requirement of) coverage, funding, or procedural requirements on abortions, including parental notification or consent for the performance of an abortion on a minor.
+(h) *Application of State and Federal laws regarding abortions*—(1) *No preemption of State laws regarding abortion.* Nothing in the Affordable Care Act shall be construed to preempt or otherwise have any effect on State laws regarding the prohibition of (or requirement of) coverage, funding, or procedural requirements on abortions, including parental notification or consent for the performance of an abortion on a minor.
 
 (2) *No effect on Federal laws regarding abortion.* Nothing in the Affordable Care Act shall be construed to have any effect on Federal laws regarding:
 
@@ -88,4 +82,4 @@ Link to an amendment published at 86 FR 53506, Sept. 27, 2021.
 
 (i) *Application of emergency services laws.* Nothing in the Affordable Care Act shall be construed to relieve any health care provider from providing emergency services as required by State or Federal law, including section 1867 of the Act (popularly known as “EMTALA”).
 
-[77 FR 18469, Mar. 27, 2012, as amended at 84 FR 71710, Dec. 27, 2019; 85 FR 2888, Jan. 17, 2020; 85 FR 27629, May 8, 2020]
+[77 FR 18469, Mar. 27, 2012, as amended at 84 FR 71710, Dec. 27, 2019; 85 FR 2888, Jan. 17, 2020; 85 FR 27629, May 8, 2020; 86 FR 53506, Sept. 27, 2021]

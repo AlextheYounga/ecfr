@@ -1,6 +1,6 @@
 ##### 53.213 Simplified acquisition procedures (SF's 18, 30, 44, 1165, and 1449, and OF's 336, 347, and 348). #####
 
-Link to an amendment published at 86 FR 61037, Nov. 4, 2021.
+Link to an amendment published at 86 FR 61037, Nov. 4, 2021.Link to a correction published at 86 FR 67351, Nov. 26, 2021.
 
 The following forms are prescribed as stated in this section for use in simplified acquisition procedures, orders under existing contracts or agreements, and orders from required sources of supplies and services:
 

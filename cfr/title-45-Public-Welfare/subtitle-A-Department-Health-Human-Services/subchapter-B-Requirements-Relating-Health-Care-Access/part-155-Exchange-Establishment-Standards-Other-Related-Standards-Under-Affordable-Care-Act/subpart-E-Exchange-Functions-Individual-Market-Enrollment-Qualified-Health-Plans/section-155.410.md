@@ -1,14 +1,12 @@
 ##### § 155.410 Initial and annual open enrollment periods. #####
 
-Link to an amendment published at 86 FR 53503, Sept. 27, 2021.
-
 (a) *General requirements.* (1) The Exchange must provide an initial open enrollment period and annual open enrollment periods consistent with this section, during which qualified individuals may enroll in a QHP and enrollees may change QHPs.
 
 (2) The Exchange may only permit a qualified individual to enroll in a QHP or an enrollee to change QHPs during the initial open enrollment period specified in paragraph (b) of this section, the annual open enrollment period specified in paragraph (e) of this section, or a special enrollment period described in § 155.420 of this subpart for which the qualified individual has been determined eligible.
 
 (b) *Initial open enrollment period.* The initial open enrollment period begins October 1, 2013 and extends through March 31, 2014.
 
-(c) *Effective coverage dates for initial open enrollment period* - (1) *Regular effective dates.* For a QHP selection received by the Exchange from a qualified individual -
+(c) *Effective coverage dates for initial open enrollment period*—(1) *Regular effective dates.* For a QHP selection received by the Exchange from a qualified individual—
 
 (i) On or before December 23, 2013, the Exchange must ensure a coverage effective date of January 1, 2014.
 
@@ -22,7 +20,7 @@ Link to an amendment published at 86 FR 53503, Sept. 27, 2021.
 
 (2) *Option for earlier effective dates.* Subject to the Exchange demonstrating to HHS that all of its participating QHP issuers agree to effectuate coverage in a timeframe shorter than discussed in paragraphs (c)(1)(ii) and (iii) of this section, the Exchange may do one or both of the following for all applicable individuals:
 
-(i) For a QHP selection received by the Exchange from a qualified individual in accordance with the dates specified in paragraph (c)(1)(ii) or (iii) of this section, the Exchange may provide a coverage effective date for a qualified individual earlier than specified in such paragraphs, provided that either -
+(i) For a QHP selection received by the Exchange from a qualified individual in accordance with the dates specified in paragraph (c)(1)(ii) or (iii) of this section, the Exchange may provide a coverage effective date for a qualified individual earlier than specified in such paragraphs, provided that either—
 
 (A) The qualified individual has not been determined eligible for advance payments of the premium tax credit or cost-sharing reductions; or
 
@@ -36,9 +34,15 @@ Link to an amendment published at 86 FR 53503, Sept. 27, 2021.
 
 (2) For the benefit years beginning on January 1, 2016 and January 1, 2017, the annual open enrollment period begins on November 1 of the calendar year preceding the benefit year, and extends through January 31 of the benefit year.
 
-(3) For the benefit years beginning on or after January 1, 2018, the annual open enrollment period begins on November 1 and extends through December 15 of the calendar year preceding the benefit year.
+(3) For the benefit years beginning on January 1, 2018 through January 1, 2021, the annual open enrollment period begins on November 1 and extends through December 15 of the calendar year preceding the benefit year.
 
-(f) *Effective date.* (1) For the benefit year beginning on January 1, 2015, the Exchange must ensure coverage is effective -
+(4) For the benefit years beginning on or after January 1, 2022—
+
+(i) Subject to paragraph (e)(4)(ii) of this section, the annual open enrollment period begins on November 1 of the calendar year preceding the benefit year and extends through January 15 of the benefit year.
+
+(ii) For State Exchanges not utilizing the Federal platform, for the benefit years beginning on or after January 1, 2022, an alternative annual open enrollment period end date may be adopted, provided the end date is no earlier than December 15 of the calendar year preceding the benefit year.
+
+(f) *Effective date.* (1) For the benefit year beginning on January 1, 2015, the Exchange must ensure coverage is effective—
 
 (i) January 1, 2015, for QHP selections received by the Exchange on or before December 15, 2014.
 
@@ -46,7 +50,7 @@ Link to an amendment published at 86 FR 53503, Sept. 27, 2021.
 
 (iii) March 1, 2015, for QHP selections received by the Exchange from January 16, 2015 through February 15, 2015.
 
-(2) For benefit years beginning on or after January 1, 2016, the Exchange must ensure that coverage is effective -
+(2) For the benefit years beginning on January 1, 2016 through January 1, 2021, the Exchange must ensure coverage is effective—
 
 (i) January 1, for QHP selections received by the Exchange on or before December 15 of the calendar year preceding the benefit year.
 
@@ -54,6 +58,20 @@ Link to an amendment published at 86 FR 53503, Sept. 27, 2021.
 
 (iii) March 1, for QHP selections received by the Exchange from January 16 through January 31 of the benefit year.
 
+(3) For benefit years beginning on or after January 1, 2022, the Exchange must ensure that coverage is effective—
+
+(i) Subject to paragraph (f)(3)(ii) of this section—
+
+(A) January 1, for QHP selections received by the Exchange on or before December 15 of the calendar year preceding the benefit year.
+
+(B) February 1, for QHP selections received by the Exchange from December 16 of the calendar year preceding the benefit year through January 15 of the benefit year.
+
+(C) The first of the following month, for QHP selections received by the 15 of a month after January, if applicable under paragraph (e)(4)(ii) of this section.
+
+(D) The first of the second following month, for plan selections received between the 16th and the end of a month, beginning January 16 of the benefit year, if applicable under paragraph (e)(4)(ii) of this section.
+
+(ii) For State Exchanges not utilizing the Federal platform, for a QHP selection received by the Exchange during the open enrollment period for which effective dates specified in paragraph (f)(3)(i) of this section would apply, the Exchange may provide a coverage effective date that is earlier than specified in such paragraph.
+
 (g) *Automatic enrollment.* The Exchange may automatically enroll qualified individuals, at such time and in such manner as HHS may specify, and subject to the Exchange demonstrating to HHS that it has good cause to perform such automatic enrollments.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 76218, Dec. 17, 2013; 79 FR 13838, Mar. 11, 2014; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 82 FR 18381, Apr. 18, 2017]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 76218, Dec. 17, 2013; 79 FR 13838, Mar. 11, 2014; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 82 FR 18381, Apr. 18, 2017; 86 FR 53503, Sept. 27, 2021]

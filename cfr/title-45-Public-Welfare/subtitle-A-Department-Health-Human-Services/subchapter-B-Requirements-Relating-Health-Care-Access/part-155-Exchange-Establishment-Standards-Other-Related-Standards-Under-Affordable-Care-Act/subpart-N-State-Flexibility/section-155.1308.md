@@ -1,7 +1,5 @@
 ##### § 155.1308 Application procedures. #####
 
-Link to an amendment published at 86 FR 53504, Sept. 27, 2021.
-
 (a) *Acceptable formats for applications.* Applications for initial approval of a section 1332 waiver shall be submitted in electronic format to the Secretary.
 
 (b) *Application timing.* Applications for initial approval of a section 1332 waiver must be submitted sufficiently in advance of the requested effective date to allow for an appropriate implementation timeline.
@@ -16,7 +14,7 @@ Link to an amendment published at 86 FR 53504, Sept. 27, 2021.
 
 (d) *Notification of preliminary determination.* Upon making the preliminary determination that an application is complete, as defined in this part, the Secretary will send the State a written notice informing the State that the Secretary and the Secretary of the Treasury, as applicable, have made such a preliminary determination. That date will also mark the beginning of the Federal public notice process and the 180-day Federal decision-making period.
 
-(e) *Public notice of completed application.* Upon receipt of a complete application for an initial section 1332 waiver, the Secretary will -
+(e) *Public notice of completed application.* Upon receipt of a complete application for an initial section 1332 waiver, the Secretary will—
 
 (1) Make available to the public the application, and all related State submissions, including all supplemental information received from the State following the receipt of a complete application for a section 1332 waiver.
 
@@ -36,13 +34,13 @@ Link to an amendment published at 86 FR 53504, Sept. 27, 2021.
 
 (iii) A list of the provisions of law that the State seeks to waive including a description of the reason for the specific requests; and
 
-(iv) The analyses, actuarial certifications, data, assumptions, targets, and other information set forth in paragraph (f)(4) of this section sufficient to provide the Secretary and the Secretary of the Treasury, as applicable, with the necessary data to determine that the State's proposed waiver satisfies the general requirements for approval under section 1332(b)(1) of the Affordable Care Act consistent with the provisions of this paragraph (f)(3)(iv) and interpretive guidance published by the Secretary and the Secretary of the Treasury;
+(iv) The analyses, actuarial certifications, data, assumptions, targets, and other information set forth in paragraph (f)(4) of this section sufficient to provide the Secretary and the Secretary of the Treasury, as applicable, with the necessary data to determine that the State's proposed waiver satisfies the general requirements for approval under section 1332(b)(1) of the Affordable Care Act consistent with the provisions of this paragraph;
 
-(A) As required under section 1332(b)(1)(A) of the Affordable Care Act (the comprehensive coverage requirement), will provide coverage that is at least as comprehensive as the coverage defined in section 1302(b) of the Affordable Care Act and offered through Exchanges established under the Affordable Care Act as certified by the Office of the Actuary of the Centers for Medicare & Medicaid Services based on sufficient data from the State and from comparable States about their experience with programs created by the Affordable Care Act and the provisions of the Affordable Care Act that the State seeks to waive. To satisfy the comprehensive coverage requirement, the Secretary and the Secretary of the Treasury, as applicable, must determine that the State plan will provide consumers access to coverage options that are at least as comprehensive as the coverage options provided without the waiver, to at least a comparable number of people as would have had access to such coverage absent the waiver. These coverage options must also satisfy the affordability requirement in paragraph (f)(3)(iv)(B) of this section;
+(A) As required under section 1332(b)(1)(A) of the Affordable Care Act (the comprehensive coverage requirement), will provide coverage that is at least as comprehensive as the coverage defined in section 1302(b) of the Affordable Care Act and offered through Exchanges established under the Affordable Care Act as certified by the Office of the Actuary of the Centers for Medicare & Medicaid Services based on sufficient data from the State and from comparable States about their experience with programs created by the Affordable Care Act and the provisions of the Affordable Care Act that the State seeks to waive. To satisfy the comprehensive coverage requirement, the Secretary and the Secretary of the Treasury, as applicable, must determine that the coverage under the State plan is forecasted to be at least as comprehensive overall for residents of the State as coverage absent the waiver;
 
-(B) As required under section 1332(b)(1)(B) of the Affordable Care Act (the affordability requirement), will provide coverage and cost sharing protections against excessive out-of-pocket spending that are at least as affordable as the provisions of Title I of the Affordable Care Act would provide. To satisfy the affordability requirement, the Secretary and the Secretary of the Treasury, as applicable, must determine that the State plan will provide consumers access to coverage options that are at least as affordable as the coverage options provided without the waiver, to at least a comparable number of people as would have had access to such coverage absent the waiver. These coverage options must also satisfy the comprehensive coverage requirement in paragraph (f)(3)(iv)(A) of this section;
+(B) As required under section 1332(b)(1)(B) of the Affordable Care Act (the affordability requirement), will provide coverage and cost sharing protections against excessive out-of-pocket spending that are at least as affordable as the provisions of Title I of the Affordable Care Act would provide. To satisfy the affordability requirement, the Secretary and the Secretary of the Treasury, as applicable, must determine that the coverage under the State plan is forecasted to be at least as affordable overall for State residents as coverage absent the waiver;
 
-(C) As required under section 1332(b)(1)(C) of the Affordable Care Act (the scope of coverage requirement), will provide coverage to at least a comparable number of its residents as the provisions of Title I of the Affordable Care Act would provide. Coverage refers to minimum essential coverage as defined in 26 U.S.C. 5000A(f) and 26 CFR 1.5000A-2, and health insurance coverage as defined in 45 CFR 144.103; and
+(C) As required under section 1332(b)(1)(C) of the Affordable Care Act (the scope of coverage requirement), will provide coverage to at least a comparable number of its residents as the provisions of Title I of the Affordable Care Act would provide. To satisfy the scope of coverage requirement, the Secretary and the Secretary of the Treasury, as applicable, must determine that the State plan will provide coverage to a comparable number of State residents under the waiver as would have coverage absent the waiver; and
 
 (D) As prohibited under section 1332(b)(1)(D) of the Affordable Care Act (the Federal deficit requirement), will not increase the Federal deficit.
 
@@ -84,4 +82,4 @@ Link to an amendment published at 86 FR 53504, Sept. 27, 2021.
 
 (2) Requests for additional information, and responses to such requests, will be made available to the public in the same manner as information described in § 155.1316(b).
 
-[77 FR 11718, Feb. 27, 2012, as amended at 86 FR 6177, Jan. 19, 2021]
+[77 FR 11718, Feb. 27, 2012, as amended at 86 FR 6177, Jan. 19, 2021; 86 FR 53504, Sept. 27, 2021]

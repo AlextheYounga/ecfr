@@ -1,7 +1,5 @@
 ##### § 156.115 Provision of EHB. #####
 
-Link to an amendment published at 86 FR 53506, Sept. 27, 2021.
-
 (a) Provision of EHB means that a health plan provides benefits that -
 
 (1) Are substantially equal to the EHB-benchmark plan including:
@@ -14,7 +12,7 @@ Link to an amendment published at 86 FR 53506, Sept. 27, 2021.
 
 (2) With the exception of the EHB category of coverage for pediatric services, do not exclude an enrollee from coverage in an EHB category.
 
-(3) With respect to the mental health and substance use disorder services, including behavioral health treatment services, required under § 156.110(a)(5) of this subpart, comply with the requirements of § 146.136 of this subchapter.
+(3) With respect to the mental health and substance use disorder services, including behavioral health treatment services, required under § 156.110(a)(5), comply with the requirements under section 2726 of the Public Health Service Act and its implementing regulations.
 
 (4) Include preventive health services described in § 147.130 of this subchapter.
 
@@ -64,4 +62,4 @@ Link to an amendment published at 86 FR 53506, Sept. 27, 2021.
 
 (d) An issuer of a plan offering EHB may not include routine non-pediatric dental services, routine non-pediatric eye exam services, long-term/custodial nursing home care benefits, or non-medically necessary orthodontia as EHB.
 
-[78 FR 12866, Feb. 25, 2013, as amended at 80 FR 10871, Feb. 27, 2015; 81 FR 12349, Mar. 8, 2016; 83 FR 17069, Apr. 17, 2018]
+[78 FR 12866, Feb. 25, 2013, as amended at 80 FR 10871, Feb. 27, 2015; 81 FR 12349, Mar. 8, 2016; 83 FR 17069, Apr. 17, 2018; 86 FR 53506, Sept. 27, 2021]

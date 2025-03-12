@@ -1,10 +1,8 @@
 ##### § 712.5 What activities and services are preapproved for CUSOs? #####
 
-Link to an amendment published at 86 FR 59301, Oct. 27, 2021.
-
 NCUA may at any time, based upon supervisory, legal, or safety and soundness reasons, limit any CUSO activities or services, or refuse to permit any CUSO activities or services. Otherwise, an FCU may invest in, loan to, and/or contract with only those CUSOs that are sufficiently bonded or insured for their specific operations and engaged in the preapproved activities and services related to the routine daily operations of credit unions. The specific activities listed within each preapproved category are provided in this section as illustrations of activities permissible under the particular category, not as an exclusive or exhaustive list.
 
-(a) *Checking and currency services:*
+(a) Checking and currency services:
 
 (1) Check cashing;
 
@@ -12,9 +10,9 @@ NCUA may at any time, based upon supervisory, legal, or safety and soundness rea
 
 (3) Money order, savings bonds, travelers checks, and purchase and sale of U.S. Mint commemorative coins services; and
 
-(4) Stored value products
+(4) Stored value products;
 
-(b) *Clerical, professional and management services:*
+(b) Clerical, professional and management services:
 
 (1) Accounting services;
 
@@ -36,13 +34,9 @@ NCUA may at any time, based upon supervisory, legal, or safety and soundness rea
 
 (10) Supervisory committee audits; and
 
-(11) Employee leasing services.
+(11) Employee leasing services;
 
-(c) *Business loan origination*, including the authority to buy and sell participation interests in such loans;
-
-(d) *Consumer mortgage loan origination*, including the authority to buy and sell participation interests in such loans;
-
-(e) *Electronic transaction services:*
+(c) Electronic transaction services:
 
 (1) Automated teller machine (ATM) services;
 
@@ -60,7 +54,7 @@ NCUA may at any time, based upon supervisory, legal, or safety and soundness rea
 
 (8) Cyber financial services;
 
-(f) *Financial counseling services:*
+(d) Financial counseling services:
 
 (1) Developing and administering Individual Retirement Accounts (IRA), Keogh, deferred compensation, and other personnel benefit plans;
 
@@ -76,13 +70,13 @@ NCUA may at any time, based upon supervisory, legal, or safety and soundness rea
 
 (7) Business counseling and consultant services;
 
-(g) *Fixed asset services:*
+(e) Fixed asset services:
 
 (1) Management, development, sale, or lease of fixed assets; and
 
 (2) Sale, lease, or servicing of computer hardware or software;
 
-(h) *Insurance brokerage or agency:*
+(f) Insurance brokerage or agency:
 
 (1) Agency for sale of insurance;
 
@@ -92,19 +86,19 @@ NCUA may at any time, based upon supervisory, legal, or safety and soundness rea
 
 (4) Real estate settlement services;
 
-(i) *Leasing:*
+(g) Leasing:
 
 (1) Personal property; and
 
 (2) Real estate leasing of excess CUSO property;
 
-(j) *Loan support services:*
+(h) Loan support services:
 
 (1) Debt collection services;
 
 (2) Loan processing, servicing, and sales;
 
-(3) Sale of repossessed collateral; and
+(3) Sale of repossessed collateral;
 
 (4) Real estate settlement services;
 
@@ -112,7 +106,7 @@ NCUA may at any time, based upon supervisory, legal, or safety and soundness rea
 
 (6) Referral and processing of loan applications for members whose loan applications have been denied by the credit union;
 
-(k) *Record retention, security and disaster recovery services:*
+(i) Record retention, security and disaster recovery services:
 
 (1) Alarm-monitoring and other security services;
 
@@ -124,28 +118,28 @@ NCUA may at any time, based upon supervisory, legal, or safety and soundness rea
 
 (5) Record retention and storage;
 
-(l) *Securities brokerage services;*
+(j) Securities brokerage services;
 
-(m) *Shared credit union branch (service center) operations;*
+(k) Shared credit union branch (service center) operations;
 
-(n) *Student loan origination*, including the authority to buy and sell participation interests in such loans;
+(l) Travel agency services;
 
-(o) *Travel agency services; and*
-
-(p) *Trust and trust-related services:*
+(m) Trust and trust-related services:
 
 (1) Acting as administrator for prepaid legal service plans;
 
 (2) Acting as trustee, guardian, conservator, estate administrator, or in any other fiduciary capacity; and
 
-(3) Trust services.
+(3) Trust services;
 
-(q) *Real estate brokerage services.*
+(n) Real estate brokerage services;
 
-(r) *CUSO investments in non-CUSO service providers:* In connection with providing a permissible service, a CUSO may invest in a non-CUSO service provider. The amount of the CUSO's investment is limited to the amount necessary to participate in the service provider, or a greater amount if necessary to receive a reduced price for goods or services.
+(o) In connection with providing a permissible service, a CUSO may invest in a non-CUSO service provider. The amount of the CUSO's investment is limited to the amount necessary to participate in the service provider, or a greater amount if necessary to receive a reduced price for goods or services;
 
-(s) Credit card loan origination;
+(p) Payroll processing services;
 
-(t) Payroll processing services.
+(q) Loan origination, including originating, purchasing, selling, and holding any type of loan permissible for Federal credit unions to originate, purchase, sell, and hold, including the authority to purchase and sell participation interests that are permissible for Federal credit unions to purchase and sell; and
 
-[63 FR 10756, Mar. 5, 1998, as amended at 64 FR 33187, June 22, 1999; 64 FR 66361, Nov. 26, 1999; 66 FR 40578, Aug. 3, 2001; 68 FR 56551, Oct. 1, 2003; 73 FR 79312, Dec. 29, 2008; 75 FR 34621, June 18, 2010]
+(r) Other categories of activities as approved in writing by the NCUA and published on the NCUA's website. Once the NCUA has approved an activity and published that activity on its website, the NCUA will not remove that particular activity from the approved list or make substantial changes to the content or description of that approved activity, except through formal rulemaking procedures.
+
+[63 FR 10756, Mar. 5, 1998, as amended at 64 FR 33187, June 22, 1999; 64 FR 66361, Nov. 26, 1999; 66 FR 40578, Aug. 3, 2001; 68 FR 56551, Oct. 1, 2003; 73 FR 79312, Dec. 29, 2008; 75 FR 34621, June 18, 2010; 86 FR 59301, Oct. 27, 2021]

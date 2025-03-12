@@ -1,7 +1,5 @@
 ##### § 712.3 What are the characteristics of and what requirements apply to CUSOs? #####
 
-Link to an amendment published at 86 FR 59301, Oct. 27, 2021.
-
 (a) *Structure.* An FCU can invest in or loan to a CUSO only if the CUSO is structured as a corporation, limited liability company, or limited partnership. An FCU may only participate in a limited partnership as a limited partner. For purposes of this part, “corporation” means a legally incorporated corporation as established and maintained under relevant federal or state law. For purposes of this part, “limited partnership” means a legally established limited partnership as established and maintained under relevant state law. For purposes of this part, “limited liability company” means a legally established limited liability company as established and maintained under relevant state law, provided that the FCU obtains written legal advice that the limited liability company is a recognized legal entity under the applicable laws of the state of formation and that the limited liability company is established in a manner that will limit potential exposure of the FCU to no more than the amount of funds invested in, or loaned to, the CUSO.
 
 (b) *Customer base.* An FCU can invest in or loan to a CUSO only if the CUSO primarily serves credit unions, its membership, or the membership of credit unions contracting with the CUSO *provided, however,* that with respect to any approved CUSO service, as set out in § 712.5, that also meets the description of services set out in § 701.30 of this chapter, this requirement is met if the CUSO primarily provides such services to persons who are eligible for membership in the FCU or are eligible for membership in credit unions contracting with the CUSO.
@@ -40,19 +38,13 @@ Link to an amendment published at 86 FR 59301, Oct. 27, 2021.
 
 (5) For purposes of paragraph (d)(4) of this section, complex or high-risk activities include preapproved CUSO activities and services related to credit and lending, information technology, and custody, safekeeping, and investment management services for credit unions. Specific activities related to these categories include:
 
-(i) *Credit and lending:*
+(i) Credit and lending:
 
-(A) Business loan origination;
+(A) Loan support services, including servicing; and
 
-(B) Consumer mortgage loan origination;
+(B) Loan origination, including originating, purchasing, selling, and holding any loan as described in § 712.5(q).
 
-(C) Loan support services, including servicing;
-
-(D) Student loan origination; and
-
-(E) Credit card loan origination.
-
-(ii) *Information technology:*
+(ii) Information technology:
 
 (A) Electronic transaction services;
 
@@ -60,8 +52,8 @@ Link to an amendment published at 86 FR 59301, Oct. 27, 2021.
 
 (C) Payroll processing services.
 
-(iii) *Custody, safekeeping, and investment management services for credit unions.*
+(iii) Custody, safekeeping, and investment management services for credit unions.
 
 (e) *Other laws.* A CUSO must comply with applicable Federal, state and local laws.
 
-[63 FR 10756, Mar. 5, 1998, as amended at 64 FR 33187, June 22, 1999; 64 FR 57365, Oct. 25, 1999; 66 FR 40578, Aug. 3, 2001; 70 FR 55228, Sept. 21, 2005; 73 FR 79312, Dec. 29, 2008; 78 FR 72548, Dec. 3, 2013]
+[63 FR 10756, Mar. 5, 1998, as amended at 64 FR 33187, June 22, 1999; 64 FR 57365, Oct. 25, 1999; 66 FR 40578, Aug. 3, 2001; 70 FR 55228, Sept. 21, 2005; 73 FR 79312, Dec. 29, 2008; 78 FR 72548, Dec. 3, 2013; 86 FR 59301, Oct. 27, 2021]

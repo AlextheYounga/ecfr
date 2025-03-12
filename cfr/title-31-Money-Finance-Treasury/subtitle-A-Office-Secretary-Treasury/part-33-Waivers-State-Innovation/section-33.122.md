@@ -1,3 +1,7 @@
-##### § 33.122 xxx #####
+##### § 33.122 Pass-through funding for approved waivers. #####
 
-Link to an amendment published at 86 FR 53502, Sept. 27, 2021.
+(a) *Pass-through funding.* With respect to a State's approved section 1332 waiver, under which, due to the structure of the approved State waiver plan, individuals and small employers in the State would not qualify for or would qualify for a reduced amount of premium tax credit under section 36B of the Internal Revenue Code, small business tax credit under section 45R of the Internal Revenue Code, or cost-sharing reductions under ACA part I of subtitle E for which they would otherwise be eligible, the Secretary and the Secretary of the Health and Human Services shall provide for an alternative means by which the aggregate amount of such credits or reductions that would have been paid on behalf of participants in the Exchanges had the State not received such waiver shall be paid to the State for purposes of implementing the approved State waiver plan. Such amount shall be determined annually by the Secretary and the Secretary of Health and Human Services, taking into consideration the experience of other States with respect to participation in an Exchange and credits and reductions provided under such provisions to residents of the other States. This amount can be updated to reflect applicable changes in Federal or State law.
+
+(b) [Reserved]
+
+[86 FR 53502, Sept. 27, 2021]

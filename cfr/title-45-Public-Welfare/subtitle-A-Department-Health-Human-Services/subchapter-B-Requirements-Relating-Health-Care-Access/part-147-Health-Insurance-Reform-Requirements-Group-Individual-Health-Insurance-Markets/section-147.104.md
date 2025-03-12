@@ -1,7 +1,5 @@
 ##### § 147.104 Guaranteed availability of coverage. #####
 
-Link to an amendment published at 86 FR 53503, Sept. 27, 2021.
-
 (a) *Guaranteed availability of coverage in the individual and group market.* Subject to paragraphs (b) through (d) of this section, a health insurance issuer that offers health insurance coverage in the individual, small group, or large group market in a State must offer to any individual or employer in the State all products that are approved for sale in the applicable market, and must accept any individual or employer that applies for any of those products.
 
 (b) *Enrollment periods.* A health insurance issuer may restrict enrollment in health insurance coverage to open or special enrollment periods.
@@ -24,9 +22,11 @@ Link to an amendment published at 86 FR 53503, Sept. 27, 2021.
 
 (D) Section 155.420(d)(9) of this subchapter (concerning exceptional circumstances);
 
-(E) Section 155.420(d)(12) of this subchapter (concerning plan and benefit display errors); and
+(E) Section 155.420(d)(12) of this subchapter (concerning plan and benefit display errors);
 
-(F) Section 155.420(d)(13) of this subchapter (concerning eligibility for insurance affordability programs or enrollment in the Exchange).
+(F) Section 155.420(d)(13) of this subchapter (concerning eligibility for insurance affordability programs or enrollment in the Exchange); and
+
+(G) Section 155.420(d)(16) of this subchapter (concerning eligibility for advance payments of the premium tax credit and household income, as defined in 26 CFR 1.36B-1(e), that is expected to be no greater than 150 percent of the Federal poverty level).
 
 (ii) In applying this paragraph (b)(2), a reference in § 155.420 (other than in § 155.420(a)(5) and (d)(4)) of this subchapter to a “QHP” is deemed to refer to a plan, a reference to “the Exchange” is deemed to refer to the applicable State authority, and a reference to a “qualified individual” is deemed to refer to an individual in the individual market. For purposes of § 155.420(d)(4) of this subchapter, “the Exchange” is deemed to refer to the Exchange or the health plan, as applicable.
 
@@ -82,4 +82,4 @@ Link to an amendment published at 86 FR 53503, Sept. 27, 2021.
 
 (i) *Construction.* Nothing in this section should be construed to require an issuer to offer coverage otherwise prohibited under applicable Federal law.
 
-[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 78 FR 76217, Dec. 17, 2013; 79 FR 30339, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10862, Feb. 27, 2015; 81 FR 94173, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17058, Apr. 17, 2018; 85 FR 37247, June 19, 2020; 86 FR 24285, May 5, 2021]
+[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 78 FR 76217, Dec. 17, 2013; 79 FR 30339, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10862, Feb. 27, 2015; 81 FR 94173, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17058, Apr. 17, 2018; 85 FR 37247, June 19, 2020; 86 FR 24285, May 5, 2021; 86 FR 53503, Sept. 27, 2021]

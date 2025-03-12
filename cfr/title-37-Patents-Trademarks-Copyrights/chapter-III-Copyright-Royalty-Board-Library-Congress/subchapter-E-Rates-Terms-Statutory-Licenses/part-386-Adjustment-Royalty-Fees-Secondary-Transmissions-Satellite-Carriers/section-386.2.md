@@ -1,5 +1,7 @@
 ##### § 386.2 Royalty fee for secondary transmission by satellite carriers. #####
 
+Link to an amendment published at 86 FR 67329, Nov. 26, 2021.
+
 (a) *General.* (1) For purposes of this section, *Per subscriber per month* shall mean for each subscriber subscribing to the station in question (or to a package including such station) on the last day of a given month.
 
 (2) In the case of a station engaged in digital multicasting, the rates set forth in paragraph (b) of this section shall apply to each digital stream that a satellite carrier or distributor retransmits pursuant to 17 U.S.C. 119, provided however that no additional royalty shall be paid for the carriage of any material related to the programming on such stream.
