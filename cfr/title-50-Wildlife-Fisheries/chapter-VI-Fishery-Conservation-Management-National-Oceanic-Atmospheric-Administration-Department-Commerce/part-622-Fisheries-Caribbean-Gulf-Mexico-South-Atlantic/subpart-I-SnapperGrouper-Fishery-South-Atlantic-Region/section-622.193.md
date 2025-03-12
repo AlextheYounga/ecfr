@@ -1,7 +1,5 @@
 ##### § 622.193 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
-Link to an amendment published at 82 FR 34595, July 25, 2017.
-
 (a) *Golden tilefish* - (1) *Commercial sector* - (i) *Hook-and-line component.* If commercial landings for golden tilefish, as estimated by the SRD, reach or are projected to reach the commercial ACL (commercial quota) specified in § 622.190(a)(2)(ii), the AA will file a notification with the Office of the Federal Register to close the hook-and-line component of the commercial sector for the remainder of the fishing year. Applicable restrictions after a commercial quota closure are specified in § 622.190(c).
 
 (ii) *Longline component.* If commercial landings for golden tilefish, as estimated by the SRD, reach or are projected to reach the commercial ACL (commercial quota) specified in § 622.190(a)(2)(iii), the AA will file a notification with the Office of the Federal Register to close the longline component of the commercial sector for the remainder of the fishing year. After the commercial ACL for the longline component is reached or projected to be reached, golden tilefish may not be fished for or possessed by a vessel with a golden tilefish longline endorsement. Applicable restrictions after a commercial quota closure are specified in § 622.190(c).
@@ -166,13 +164,79 @@ Link to an amendment published at 82 FR 34595, July 25, 2017.
 
 (ii) If recreational landings for Atlantic spadefish, as estimated by the SRD, exceed the recreational ACL, then during the following fishing year recreational landings will be monitored for a persistence in increased landings, and if necessary, the AA will file a notification with the Office of the Federal Register to reduce the length of the recreational fishing season and the recreational ACL by the amount of the recreational ACL overage, if Atlantic spadefish are overfished based on the most recent Status of U.S. Fisheries Report to Congress, and if the combined commercial and recreational ACL of 812,478 lb (368,534 kg), round weight, is exceeded during the same fishing year. NMFS will use the best scientific information available to determine if reducing the length of the recreational fishing season and recreational ACL is necessary. When the recreational sector is closed as a result of NMFS reducing the length of the recreational fishing season and ACL, the bag and possession limits for Atlantic spadefish in or from the South Atlantic EEZ are zero.
 
-(u) *Hogfish* - (1) *Commercial sector.* (i) If commercial landings for hogfish, as estimated by the SRD, reach or are projected to reach the commercial ACL of 49,469 lb (22,439 kg), round weight, the AA will file a notification with the Office of the Federal Register to close the commercial sector for the remainder of the fishing year. On and after the effective date of such a notification, all sale or purchase of hogfish is prohibited and harvest or possession of hogfish in or from the South Atlantic EEZ is limited to the bag and possession limits. These bag and possession limits apply in the South Atlantic on board a vessel for which a valid Federal commercial or charter vessel/headboat permit for South Atlantic snapper-grouper has been issued, without regard to where such species were harvested, *i.e.,* in state or Federal waters.
+(u) *Hogfish* - (1) *Hogfish off Georgia, South Carolina, and North Carolina (Georgia-North Carolina)* - (i) *Commercial sector.* (A) If commercial landings for the Georgia-North Carolina hogfish stock, as estimated by the SRD, reach or are projected to reach the commercial ACL specified in paragraph (u)(1)(iii)(A) of this section, the AA will file a notification with the Office of the Federal Register to close the commercial sector for the remainder of the fishing year. On and after the effective date of such a notification, all sale or purchase of hogfish in or from the South Atlantic EEZ off Georgia, South Carolina, and North Carolina is prohibited, and harvest or possession of this species is limited to the bag and possession limits. These bag and possession limits apply to the Georgia-North Carolina hogfish stock on board a vessel for which a valid Federal commercial or charter vessel/headboat permit for South Atlantic snapper-grouper has been issued, without regard to where such species were harvested, *i.e.,* in state or Federal waters.
 
-(ii) If commercial landings for hogfish, as estimated by the SRD, exceed the commercial ACL, and the combined commercial and recreational ACL of 134,824 lb (61,155 kg), round weight, is exceeded, and hogfish are overfished based on the most recent Status of U.S. Fisheries Report to Congress, the AA will file a notification with the Office of the Federal Register to reduce the commercial ACL for that following fishing year by the amount of the commercial ACL overage in the prior fishing year.
+(B) If commercial landings for the Georgia-North Carolina hogfish stock, as estimated by the SRD, exceed the commercial ACL specified in paragraph (u)(1)(iii)(A) of this section, and the combined commercial and recreational ACL specified in paragraph (u)(1)(iii)(C) of this section is exceeded during the same fishing year, and the Georgia-North Carolina hogfish stock is overfished based on the most recent Status of U.S. Fisheries Report to Congress, the AA will file a notification with the Office of the Federal Register to reduce the commercial ACL for the stock in the following fishing year by the amount of the commercial ACL overage in the prior fishing year.
 
-(2) *Recreational sector.* (i) If recreational landings for hogfish, as estimated by the SRD, reach or are projected to reach the recreational ACL of 85,355 lb (38,716 kg), round weight, the AA will file a notification with the Office of the Federal Register to close the recreational sector for the remainder of the fishing year regardless if the stock is overfished, unless NMFS determines that no closure is necessary based on the best scientific information available. On and after the effective date of such a notification, the bag and possession limits for hogfish in or from the South Atlantic EEZ are zero.
+(ii) *Recreational sector.* (A) If recreational landings for the Georgia-North Carolina hogfish stock, as estimated by the SRD, reach or are projected to reach the recreational ACL specified in paragraph (u)(1)(iii)(B) of this section, the AA will file a notification with the Office of the Federal Register to close the recreational sector for the remainder of the fishing year regardless if the stock is overfished, unless NMFS determines that no closure is necessary based on the best scientific information available. On and after the effective date of such a notification, the bag and possession limits for hogfish in or from the South Atlantic EEZ off Georgia, South Carolina, and North Carolina are zero.
 
-(ii) If recreational landings for hogfish, as estimated by the SRD, exceed the recreational ACL, then during the following fishing year recreational landings will be monitored for a persistence in increased landings, and if necessary, the AA will file a notification with the Office of the Federal Register to reduce the length of the recreational fishing season and the recreational ACL by the amount of the recreational ACL overage, if hogfish are overfished based on the most recent Status of U.S. Fisheries Report to Congress, and if the combined commercial and recreational ACL of 134,824 lb (61,155 kg), round weight, is exceeded during the same fishing year. NMFS will use the best scientific information available to determine if reducing the length of the recreational fishing season and recreational ACL is necessary. When the recreational sector is closed as a result of NMFS reducing the length of the recreational fishing season and ACL, the bag and possession limits for hogfish in or from the South Atlantic EEZ are zero.
+(B) If recreational landings for the Georgia-North Carolina hogfish stock, as estimated by the SRD, exceed the recreational ACL specified in paragraph (u)(1)(iii)(B) of this section, then during the following fishing year recreational landings will be monitored for a persistence in increased landings. If necessary, the AA will file a notification with the Office of the Federal Register to reduce the length of the following recreational fishing season and recreational ACL in the following fishing year by the amount of the recreational ACL overage if the Georgia-North Carolina hogfish stock is overfished, based on the most recent Status of U.S. Fisheries Report to Congress, and the combined commercial and recreational ACL is exceeded during the same fishing year to ensure recreational landings do not exceed the recreational ACL in the following fishing year. NMFS will use the best scientific information available to determine if reducing the length of the recreational fishing season and recreational ACL is necessary. When a recreational sector is closed as a result of NMFS reducing the length of the following recreational fishing season and ACL, the bag and possession limits for hogfish in or from the South Atlantic EEZ off Georgia, South Carolina, and North Carolina are zero.
+
+(iii) *ACLs for the Georgia-North Carolina stock.* This stock includes hogfish off Georgia, South Carolina, and North Carolina. All weights are given in round weight.
+
+(A) *Commercial ACL* - 23,456 lb (10,639 kg).
+
+(B) *Recreational ACL* - 988 fish.
+
+(C) The combined commercial and recreational ACL for the Georgia-North Carolina hogfish stock is 33,930 lb (15,390 kg).
+
+(2) *Hogfish off the Florida Keys and east coast of Florida, and south of 25°09′ N. lat. off the west coast of Florida (Florida Keys-East Florida)* - (i) *Commercial sector.* (A) If commercial landings for the Florida Keys-East Florida hogfish stock, as estimated by the SRD, reach or are projected to reach the applicable commercial ACL specified in paragraph (u)(2)(iii)(A) of this section, the AA will file a notification with the Office of the Federal Register to close the commercial sector for the remainder of the fishing year. On and after the effective date of such a notification, all sale or purchase of hogfish in or from the EEZ off the Florida Keys and east coast of Florida, and south of 25°09′ N. lat. off the west coast of Florida is prohibited, and harvest or possession of this species is limited to the bag and possession limits. These bag and possession limits apply for this hogfish stock on board a vessel for which a valid Federal commercial or charter vessel/headboat permit for South Atlantic snapper-grouper has been issued, without regard to where such species were harvested, *i.e.,* in state or Federal waters.
+
+(B) If commercial landings for the Florida Keys-East Florida hogfish stock, as estimated by the SRD, exceed the applicable commercial ACL specified in paragraph (u)(2)(iii)(A) of this section, and the applicable combined commercial and recreational ACL specified in paragraph (u)(2)(iii)(C) of this section is exceeded during the same fishing year, and the stock is overfished based on the most recent Status of U.S. Fisheries Report to Congress, the AA will file a notification with the Office of the Federal Register to reduce the commercial ACL for the stock in the following fishing year by the amount of the applicable commercial ACL overage in the prior fishing year.
+
+(ii) *Recreational sector.* (A) If recreational landings for the Florida Keys-East Florida hogfish stock, as estimated by the SRD, reach or are projected to reach the applicable recreational ACL specified in paragraph (u)(2)(iii)(B) of this section, the AA will file a notification with the Office of the Federal Register to close the recreational sector for the remainder of the fishing year regardless if the stock is overfished, unless NMFS determines that no closure is necessary based on the best scientific information available. On and after the effective date of such a notification, the bag and possession limits for hogfish in or from the EEZ off the Florida Keys and east coast of Florida, and south of 25°09′ N. lat. off the west coast of Florida are zero.
+
+(B) If recreational landings for the Florida Keys-East Florida hogfish stock, as estimated by the SRD, exceed the applicable recreational ACL specified in paragraph (u)(2)(iii)(B) of this section, then during the following fishing year recreational landings will be monitored for a persistence in increased landings. If necessary, the AA will file a notification with the Office of the Federal Register to reduce the length of the following applicable recreational fishing season and recreational ACL in the following fishing year by the amount of the recreational ACL overage if the Florida Keys-East Florida hogfish stock is overfished, based on the most recent Status of U.S. Fisheries Report to Congress, and the applicable combined commercial and recreational ACL is exceeded during the same fishing year to ensure recreational landings do not exceed the recreational ACL in the following fishing year. NMFS will use the best scientific information available to determine if reducing the length of the recreational fishing season and recreational ACL is necessary. When a recreational sector is closed as a result of NMFS reducing the length of the following recreational fishing season and ACL, the bag and possession limits for hogfish in or from the EEZ off the Florida Keys and east coast of Florida, and south of 25°09′ N. lat. off the west coast of Florida are zero.
+
+(iii) *ACLs for the Florida Keys-East Florida stock.* This stock includes hogfish off the Florida Keys and east coast of Florida, and south of 25°09′ N. lat. off the west coast of Florida.
+
+(A) *Commercial ACL.* See the following table. All weights are given in round weight.
+
+|Year|   Commercial ACL    |
+|----|---------------------|
+|2017|3,510 lb (1,592 kg). |
+|2018|4,524 lb (2,052 kg). |
+|2019|5,670 lb (2,572 kg). |
+|2020|6,926 lb (3,142 kg). |
+|2021|8,277 lb (3,754 kg). |
+|2022|9,703 lb (4,401 kg). |
+|2023|11,179 lb (5,071 kg).|
+|2024|12,677 lb (5,750 kg).|
+|2025|14,167 lb (6,426 kg).|
+|2026|15,621 lb (7,086 kg).|
+|2027|17,018 lb (7,719 kg).|
+
+(B) *Recreational ACL.* See the following table. The recreational ACL is in numbers of fish.
+
+|Year|Recreational ACL|
+|----|----------------|
+|2017|     15,689     |
+|2018|     18,617     |
+|2019|     21,574     |
+|2020|     25,086     |
+|2021|     29,096     |
+|2022|     33,358     |
+|2023|     37,671     |
+|2024|     41,934     |
+|2025|     46,046     |
+|2026|     49,949     |
+|2027|     53,610     |
+
+(C) *Combined commercial and recreational ACL.* See the following table. The combined commercial and recreational ACL is in numbers of fish.
+
+|Year|Combined commercial and  <br/>recreational ACL|
+|----|----------------------------------------------|
+|2017|                    17,034                    |
+|2018|                    20,350                    |
+|2019|                    23,746                    |
+|2020|                    27,740                    |
+|2021|                    32,267                    |
+|2022|                    37,076                    |
+|2023|                    41,954                    |
+|2024|                    46,791                    |
+|2025|                    51,474                    |
+|2026|                    55,934                    |
+|2027|                    60,130                    |
 
 (v) *Red porgy* - (1) *Commercial sector.* (i) If commercial landings for red porgy, as estimated by the SRD, reach or are projected to reach the commercial ACL (commercial quota) specified in § 622.190(a)(6), the AA will file a notification with the Office of the Federal Register to close the commercial sector for the remainder of the fishing year. Applicable restrictions after a commercial quota closure are specified in § 622.190(c).
 

@@ -1,5 +1,7 @@
 ##### § 71.33 Class A airspace areas. #####
 
+Link to an amendment published at 82 FR 40068, Aug. 24, 2017.
+
 (a) That airspace of the United States, including that airspace overlying the waters within 12 nautical miles of the coast of the 48 contiguous States, from 18,000 feet MSL to and including FL600 excluding the states of Alaska and Hawaii.
 
 (b) That airspace of the State of Alaska, including that airspace overlying the waters within 12 nautical miles of the coast, from 18,000 feet MSL to and including FL600 but not including the airspace less than 1,500 feet above the surface of the earth and the Alaska Peninsula west of longitude 160°00′00″ West.

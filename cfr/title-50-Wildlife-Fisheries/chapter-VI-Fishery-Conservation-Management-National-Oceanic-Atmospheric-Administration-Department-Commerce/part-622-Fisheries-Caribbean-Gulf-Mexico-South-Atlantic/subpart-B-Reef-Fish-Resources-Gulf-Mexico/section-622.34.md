@@ -1,7 +1,5 @@
 ##### § 622.34 Seasonal and area closures designed to protect Gulf reef fish. #####
 
-Link to an amendment published at 82 FR 34580, July 25, 2017.
-
 (a) *Closure provisions applicable to the Madison and Swanson sites and Steamboat Lumps, and the Edges* - (1) *Descriptions of Areas.* (i) The Madison and Swanson sites are bounded by rhumb lines connecting, in order, the following points:
 
 |Point|North lat.|West long.|
@@ -94,4 +92,6 @@ Link to an amendment published at 82 FR 34580, July 25, 2017.
 
 (f) *Seasonal closure of the commercial and recreational sectors for gray triggerfish.* The commercial and recreational sectors for gray triggerfish in or from the Gulf EEZ are closed from June 1 through July 31, each year. During the closure, all harvest or possession in or from the Gulf EEZ of gray triggerfish is prohibited and the sale and purchase of gray triggerfish taken from the Gulf EEZ is prohibited.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 33261, June 4, 2013; 81 FR 24039, Apr. 25, 2016]
+(g) *Recreational sector for hogfish in the Gulf EEZ south of 25°09′ N. lat. off the west coast of Florida.* See § 622.183(b)(4) for the applicable seasonal closures.
+
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 33261, June 4, 2013; 81 FR 24039, Apr. 25, 2016; 82 FR 34580, July 25, 2017]

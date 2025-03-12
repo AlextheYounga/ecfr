@@ -1,10 +1,8 @@
 ##### § 622.35 Gear restricted areas. #####
 
-Link to an amendment published at 82 FR 34580, July 25, 2017.
-
 (a) *Reef fish stressed area.* The stressed area is that part of the Gulf EEZ shoreward of rhumb lines connecting, in order, the points listed in Table 2 in Appendix B of this part.
 
-(1) A powerhead may not be used in the stressed area to take Gulf reef fish. Possession of a powerhead and a mutilated Gulf reef fish in the stressed area or after having fished in the stressed area constitutes *prima facie* evidence that such reef fish was taken with a powerhead in the stressed area. The provisions of this paragraph do not apply to hogfish.
+(1) A powerhead may not be used in the stressed area to take Gulf reef fish. Possession of a powerhead and a mutilated Gulf reef fish in the stressed area or after having fished in the stressed area constitutes *prima facie* evidence that such reef fish was taken with a powerhead in the stressed area.
 
 (2) A roller trawl may not be used in the stressed area. Roller trawl means a trawl net equipped with a series of large, solid rollers separated by several smaller spacer rollers on a separate cable or line (sweep) connected to the footrope, which makes it possible to fish the gear over rough bottom, that is, in areas unsuitable for fishing conventional shrimp trawls. Rigid framed trawls adapted for shrimping over uneven bottom, in wide use along the west coast of Florida, and shrimp trawls with hollow plastic rollers for fishing on soft bottoms, are not considered roller trawls.
 
@@ -39,3 +37,5 @@ Link to an amendment published at 82 FR 34580, July 25, 2017.
 |  C  | 29°55.0′ | 87°55.5′ |
 |  D  | 29°54.5′ | 88°07.5′ |
 |  A  | 30°02.5′ | 88°07.7′ |
+
+[78 FR 22952, Apr. 17, 2013, as amended at 82 FR 34580, July 25, 2017]

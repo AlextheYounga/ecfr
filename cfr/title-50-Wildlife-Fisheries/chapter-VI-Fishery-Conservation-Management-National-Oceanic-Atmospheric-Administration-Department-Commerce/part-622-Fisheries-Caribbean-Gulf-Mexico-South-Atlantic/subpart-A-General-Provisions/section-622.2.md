@@ -1,7 +1,5 @@
 ##### § 622.2 Definitions and acronyms. #####
 
-Link to an amendment published at 82 FR 34580, July 25, 2017.
-
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, and the acronyms in § 600.15 of this chapter, the terms and acronyms used in this part have the following meanings:
 
 *Accountability measure* means a management control implemented such that overfishing is prevented, where possible, and mitigated if it occurs.
@@ -62,7 +60,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *CFMC* means the Caribbean Fishery Management Council.
 
-*Charter vessel* means a vessel less than 100 gross tons (90.8 mt) that is subject to the requirements of the USCG to carry six or fewer passengers for hire and that engages in charter fishing at any time during the calendar year. A charter vessel with a commercial permit, as required under § 622.4(a)(2), is considered to be operating as a charter vessel when it carries a passenger who pays a fee or when there are more than three persons aboard, including operator and crew, except for a charter vessel with a commercial vessel permit for Gulf reef fish or South Atlantic snapper-grouper. A charter vessel that has a charter vessel permit for Gulf reef fish and a commercial vessel permit for Gulf reef fish or a charter vessel permit for South Atlantic snapper-grouper and a commercial permit for South Atlantic snapper-grouper (either a South Atlantic snapper-grouper unlimited permit or a 225-lb (102.1-kg) trip limited permit for South Atlantic snapper-grouper) is considered to be operating as a charter vessel when it carries a passenger who pays a fee or when there are more than four persons aboard, including operator and crew. A charter vessel that has a charter vessel permit for Gulf reef fish, a commercial vessel permit for Gulf reef fish, and a valid Certificate of Inspection (COI) issued by the USCG to carry passengers for hire will not be considered to be operating as a charter vessel provided -
+*Charter vessel* means a vessel less than 100 gross tons (90.8 mt) that is subject to the requirements of the USCG to carry six or fewer passengers for hire and that engages in charter fishing at any time during the calendar year. A charter vessel with a commercial permit, as required under this part, is considered to be operating as a charter vessel when it carries a passenger who pays a fee or when there are more than three persons aboard, including operator and crew, except for a charter vessel with a commercial vessel permit for Gulf reef fish or South Atlantic snapper-grouper. A charter vessel that has a charter vessel permit for Gulf reef fish and a commercial vessel permit for Gulf reef fish or a charter vessel permit for South Atlantic snapper-grouper and a commercial permit for South Atlantic snapper-grouper (either a South Atlantic snapper-grouper unlimited permit or a 225-lb (102.1-kg) trip limited permit for South Atlantic snapper-grouper) is considered to be operating as a charter vessel when it carries a passenger who pays a fee or when there are more than four persons aboard, including operator and crew. A charter vessel that has a charter vessel permit for Gulf reef fish, a commercial vessel permit for Gulf reef fish, and a valid Certificate of Inspection (COI) issued by the USCG to carry passengers for hire will not be considered to be operating as a charter vessel provided -
 
 (1) It is not carrying a passenger who pays a fee; and
 
@@ -103,6 +101,8 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 (2) In the Gulf EEZ, a trap and its component parts (including the lines and buoys), regardless of the construction material, used for or capable of taking finfish, except a trap historically used in the directed fishery for crustaceans (that is, blue crab, stone crab, and spiny lobster).
 
 (3) In the South Atlantic EEZ, a trap and its component parts (including the lines and buoys), regardless of the construction material, used for or capable of taking fish, except a sea bass pot, a golden crab trap, or a crustacean trap (that is, a type of trap historically used in the directed fishery for blue crab, stone crab, red crab, jonah crab, or spiny lobster and that contains at any time not more than 25 percent, by number, of fish other than blue crab, stone crab, red crab, jonah crab, and spiny lobster).
+
+*Florida Keys/East Florida hogfish* means hogfish occurring in the Gulf EEZ from 25°09′ N. lat. off the west coast of Florida and south to the jurisdictional boundary between the Gulf and South Atlantic Councils, as defined at 50 CFR 600.105(c), and continuing in the South Atlantic EEZ from the jurisdictional boundary between the Gulf and South Atlantic Councils to the state boundary between Florida and Georgia.
 
 *Fork length* means the straight-line distance from the tip of the head (snout) to the rear center edge of the tail (caudal fin). (See Figure 2 in Appendix C of this part.)
 
@@ -276,7 +276,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Tail length* means the lengthwise measurement of the entire tail (segmented portion), not including any protruding muscle tissue, of a spiny lobster along the top middorsal line (middle of the back) to the rearmost extremity. The measurement is made with the tail in a flat, straight position with the tip of the tail closed.
 
-*Total length (TL),* for the purposes of this part, means the straight-line distance from the tip of the snout to the tip of the tail (caudal fin), excluding any caudal filament, while the fish is lying on its side. The mouth of the fish may be closed and/or the tail may be squeezed together to give the greatest overall measurement. (See Figure 2 in Appendix C of this part.)
+*Total length (TL),* for the purposes of this part, means the straight-line distance from the tip of the snout to the tip of the tail (caudal fin), excluding any caudal filament, while the fish is lying on its side. The mouth of the fish may be closed and/or the tail may be squeezed together to give the greatest overall measurement. (See Figure 2 in appendix C of this part.)
 
 *Toxic chemical* means any substance, other than an allowable chemical, that, when introduced into the water, can stun, immobilize, or take marine life.
 
@@ -298,4 +298,4 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Wreckfish* means the species *Polyprion americanus,* or a part thereof, one of the South Atlantic snapper-grouper species.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 79 FR 19493, Apr. 9, 2014; 80 FR 4218, Jan. 27, 2015; 81 FR 1792, Jan. 13, 2016]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 79 FR 19493, Apr. 9, 2014; 80 FR 4218, Jan. 27, 2015; 81 FR 1792, Jan. 13, 2016; 82 FR 34580, July 25, 2017]

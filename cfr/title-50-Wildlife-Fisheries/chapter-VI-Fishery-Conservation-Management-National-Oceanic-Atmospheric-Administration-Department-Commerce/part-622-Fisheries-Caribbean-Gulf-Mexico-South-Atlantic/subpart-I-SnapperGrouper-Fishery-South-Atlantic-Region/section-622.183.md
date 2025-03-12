@@ -1,7 +1,5 @@
 ##### § 622.183 Area and seasonal closures. #####
 
-Link to an amendment published at 82 FR 34594, July 25, 2017.
-
 (a) *Area closures* - (1) *Marine protected areas (MPAs).* (i) No person may fish for a South Atlantic snapper-grouper in an MPA, and no person may possess a South Atlantic snapper-grouper in an MPA. However, the prohibition on possession does not apply to a person aboard a vessel that is in transit with fishing gear appropriately stowed as specified in paragraph (a)(1)(ii) of this section. In addition to these restrictions, see § 635.21(d)(1)(iii) of this chapter regarding restrictions applicable within these MPAs for any vessel issued a permit under part 635 of this chapter that has longline gear on board. MPAs consist of deepwater areas as follows:
 
 (A) *Snowy Grouper Wreck MPA* is bounded by rhumb lines connecting, in order, the following points:
@@ -134,7 +132,7 @@ Link to an amendment published at 82 FR 34594, July 25, 2017.
 
 (3) *Wreckfish recreational sector closures.* The recreational sector for wreckfish in or from the South Atlantic EEZ is closed from January 1 through June 30, and September 1 through December 31, each year. During a closure, the bag and possession limit for wreckfish in or from the South Atlantic EEZ is zero.
 
-(4) [Reserved]
+(4) Hogfish recreational sector off the Florida Keys and east coast of Florida. From January through April and from November through December each year, the recreational harvest or possession of hogfish in or from the South Atlantic EEZ off the Florida Keys and east coast of Florida, and in the Gulf EEZ south of 25°09′ N. lat. off the west coast of Florida is prohibited, and the bag and possession limits are zero.
 
 (5) *Closures of the commercial and recreational sectors for red snapper* - (i) The commercial and recreational sectors for red snapper are closed (*i.e.,* red snapper may not be harvested or possessed, or sold or purchased) in or from the South Atlantic EEZ, except if NMFS determines a limited amount of red snapper may be harvested or possessed in or from the South Atlantic EEZ, as specified in § 622.193(y). If NMFS determines that commercial and recreational fishing seasons for red snapper may be established in a given fishing year, NMFS will announce the season opening dates in the Federal Register. The recreational fishing season would consist of consecutive Fridays, Saturdays, and Sundays, unless otherwise specified. NMFS will project the length of the recreational fishing season and announce the recreational fishing season end date in the Federal Register. See 622.193(y), for establishing the end date of the commercial fishing season.
 
@@ -223,4 +221,4 @@ Link to an amendment published at 82 FR 34594, July 25, 2017.
 
 (8) *Snowy grouper recreational sector closure.* The recreational sector for snowy grouper in or from the South Atlantic EEZ is closed from January 1 through April 30, and September 1 through December 31, each year. During a closure, the bag and possession limit for snowy grouper in or from the South Atlantic EEZ is zero.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44464, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49184, Aug. 13, 2013; 78 FR 58253, Sept. 23, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 43038, July 21, 2015; 81 FR 95902, Dec. 29, 2016; 82 FR 29775, June 30, 2017]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44464, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49184, Aug. 13, 2013; 78 FR 58253, Sept. 23, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 43038, July 21, 2015; 81 FR 95902, Dec. 29, 2016; 82 FR 29775, June 30, 2017; 82 FR 34594, July 25, 2017]

@@ -1,7 +1,5 @@
 ##### § 622.187 Bag and possession limits. #####
 
-Link to an amendment published at 82 FR 34594, July 25, 2017.
-
 (a) *Additional applicability provisions for South Atlantic snapper-grouper.* Section 622.11(a) provides the general applicability for bag and possession limits. However, § 622.11(a) notwithstanding:
 
 (1) The bag and other limits specified in § 622.182(b) apply for South Atlantic snapper-grouper in or from the EEZ to a person aboard a vessel for which a commercial permit for South Atlantic snapper-grouper has been issued that has on board a longline in the longline closed area.
@@ -24,7 +22,9 @@ Link to an amendment published at 82 FR 34594, July 25, 2017.
 
 (v) No goliath grouper or Nassau grouper may be retained.
 
-(3) *Hogfish in the South Atlantic off Florida* - 5.
+(3) *Hogfish.* (i) In the South Atlantic EEZ off Georgia, South Carolina, and North Carolina - 2.
+
+(ii) In the South Atlantic EEZ off the Florida Keys and east coast of Florida, and in the Gulf EEZ south of 25°09′ N. lat. off the west coast of Florida - 1.
 
 (4) *Snappers, combined* - 10. However, excluded from this 10-fish bag limit are cubera snapper, measuring 30 inches (76.2 cm), TL, or larger, in the South Atlantic off Florida, and red snapper and vermilion snapper. (See § 622.181(b)(2) for the prohibitions on harvest or possession of red snapper, except during a limited recreational fishing season, and § 622.181(c)(1) for limitations on cubera snapper measuring 30 inches (76.2 cm), TL, or larger, in or from the South Atlantic EEZ off Florida.)
 
@@ -34,7 +34,7 @@ Link to an amendment published at 82 FR 34594, July 25, 2017.
 
 (7) *Black sea bass - 7.*
 
-(8) *South Atlantic snapper-grouper, combined* - 20. However, excluded from this 20-fish bag limit are tomtate, South Atlantic snapper-grouper ecosystem component species (specified in Table 4 of Appendix A to part 622), and those specified in paragraphs (b)(1) through (7) and paragraphs (b)(9) and (10) of this section.
+(8) *South Atlantic snapper-grouper, combined* - 20. However, excluded from this 20-fish bag limit are tomtate, South Atlantic snapper-grouper ecosystem component species (specified in Table 4 of appendix A to part 622), and those specified in paragraphs (b)(1) through (7) and paragraphs (b)(9) and (10) of this section.
 
 (9) *Red snapper* - 0, except during a limited recreational fishing season, as specified in § 622.183(b)(5), during which time the bag limit is 1 fish.
 
@@ -50,4 +50,4 @@ Link to an amendment published at 82 FR 34594, July 25, 2017.
 
 (2) A person aboard a vessel may not possess red porgy in or from the EEZ in excess of three per day or three per trip, whichever is more restrictive.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44465, July 24, 2013; 78 FR 78775, Dec. 27, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 80688, Dec. 28, 2015; 81 FR 45248, July 13, 2016]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44465, July 24, 2013; 78 FR 78775, Dec. 27, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 80688, Dec. 28, 2015; 81 FR 45248, July 13, 2016; 82 FR 34594, July 25, 2017]
