@@ -1,6 +1,6 @@
 ##### § 127.28 Special merchandise. #####
 
-Link to an amendment published at 81 FR 94986, Dec. 27, 2016.
+Link to an amendment published at 81 FR 94986, Dec. 27, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8590, Jan. 27, 2017.
 
 (a) *Drugs, seeds, plants, nursery stock, and other articles required to be inspected by the Department of Agriculture.* Drugs, seeds, plants, nursery stock, and other articles required to be inspected by the Department of Agriculture must be inspected by a representative of the Department of Agriculture to ascertain whether they comply with the requirements of the law and regulations of that Department. If found not to comply with such requirements, they shall be immediately destroyed.
 

@@ -1,6 +1,6 @@
 ##### § 12.122 Detention of certain shipments. #####
 
-Link to an amendment published at 81 FR 94986, Dec. 27, 2016.
+Link to an amendment published at 81 FR 94986, Dec. 27, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8590, Jan. 27, 2017.
 
 (a) The director of the port of arrival shall detain, at the importer's risk and expense, shipments of chemical substances, mixtures, or articles:
 

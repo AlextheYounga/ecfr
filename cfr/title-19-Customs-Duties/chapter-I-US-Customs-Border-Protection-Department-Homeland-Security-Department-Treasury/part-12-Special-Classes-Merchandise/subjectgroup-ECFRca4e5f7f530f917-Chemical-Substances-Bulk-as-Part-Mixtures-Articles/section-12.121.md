@@ -1,6 +1,6 @@
 ##### § 12.121 Reporting requirements. #####
 
-Link to an amendment published at 81 FR 94985, Dec. 27, 2016.
+Link to an amendment published at 81 FR 94985, Dec. 27, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8590, Jan. 27, 2017.
 
 (a) *Chemical substances in bulk or mixtures* - (1) *Certification required.* The importer of a chemical substance imported in bulk or as part of a mixture, or the authorized agent of such an importer, must certify either that the chemical shipment is subject to TSCA and complies with all applicable rules and orders thereunder, or that the chemical shipment is not subject to TSCA, by signing and filing with Customs one of the following statements:
 

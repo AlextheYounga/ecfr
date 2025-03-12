@@ -1,6 +1,6 @@
 ##### § 12.124 Time limitations and extensions. #####
 
-Link to an amendment published at 81 FR 94986, Dec. 27, 2016.
+Link to an amendment published at 81 FR 94986, Dec. 27, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8590, Jan. 27, 2017.
 
 (a) *Time limitations.* The importer of a shipment of chemical substances, mixtures, or articles which has been detained under § 12.122 shall bring the shipment into compliance with TSCA or export the shipment from the customs territory of the United States within 90 days after notice of detention or 30 days of demand for redelivery, whichever comes first.
 

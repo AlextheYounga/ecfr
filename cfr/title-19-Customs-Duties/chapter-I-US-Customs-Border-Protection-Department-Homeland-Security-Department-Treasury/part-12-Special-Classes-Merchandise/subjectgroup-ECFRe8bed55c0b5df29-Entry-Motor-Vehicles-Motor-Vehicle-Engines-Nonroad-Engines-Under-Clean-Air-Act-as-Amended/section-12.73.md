@@ -1,6 +1,6 @@
 ##### § 12.73 Motor vehicle and engine compliance with Federal antipollution emission requirements. #####
 
-Link to an amendment published at 81 FR 94977, Dec. 27, 2016.
+Link to an amendment published at 81 FR 94977, Dec. 27, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8589, Jan. 27, 2017.
 
 (a) *Applicability of EPA requirements.* This section is ancillary to the regulations of the U.S. Environmental Protection Agency (EPA) issued under the Clean Air Act, as amended (42 U.S.C. 7401 *et seq.*), and found in 40 CFR parts 85 and 86. Those regulations should be consulted for more detailed information concerning EPA emission requirements. The requirements apply to imported motor vehicles, but do not apply to separately imported non-chassis mounted engines to be used in light-duty trucks or other light-duty vehicles. Other separately imported engines for heavy-duty motor vehicles are covered, and all references in this section to motor vehicles should be deemed to include motor vehicles as well as these heavy-duty engines. Nothing in this section should be construed as limiting or changing in any way the applicability of the EPA regulations.
 

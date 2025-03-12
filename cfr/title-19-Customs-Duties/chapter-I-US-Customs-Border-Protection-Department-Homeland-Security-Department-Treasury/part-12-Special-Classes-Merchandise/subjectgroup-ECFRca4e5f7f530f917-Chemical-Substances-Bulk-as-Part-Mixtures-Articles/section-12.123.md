@@ -1,6 +1,6 @@
 ##### § 12.123 Procedure after detention. #####
 
-Link to an amendment published at 81 FR 94986, Dec. 27, 2016.
+Link to an amendment published at 81 FR 94986, Dec. 27, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8590, Jan. 27, 2017.
 
 (a) *Submission of written documentation.* If a shipment is detained by a port director under § 12.122, the importer may submit written documentation to the Administrator with a copy to the port director within 20 days from the date of notice of detention, to show cause why the shipment should not be refused entry. If an importer submits that documentation, the Administrator shall allow or deny entry of the shipment within 10 days of receipt of the documentation, and in any case shall allow or deny entry of the shipment within 30 days of the date of notice of detention.
 

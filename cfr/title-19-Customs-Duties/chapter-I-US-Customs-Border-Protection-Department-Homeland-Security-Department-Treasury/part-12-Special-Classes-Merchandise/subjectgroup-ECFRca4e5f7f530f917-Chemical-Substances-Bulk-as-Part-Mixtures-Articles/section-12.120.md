@@ -1,6 +1,6 @@
 ##### § 12.120 Definitions. #####
 
-Link to an amendment published at 81 FR 94985, Dec. 27, 2016.
+Link to an amendment published at 81 FR 94985, Dec. 27, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8590, Jan. 27, 2017.
 
 Except as otherwise provided below, the terms used in §§ 12.121 through 12.127 have the meanings set forth for those terms in TSCA.
 

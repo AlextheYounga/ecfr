@@ -1,6 +1,6 @@
 ##### § 12.74 Nonroad and stationary engine compliance with Federal antipollution emission requirements. #####
 
-Link to an amendment published at 81 FR 94979, Dec. 27, 2016.
+Link to an amendment published at 81 FR 94979, Dec. 27, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8589, Jan. 27, 2017.
 
 (a) *Applicability of EPA regulations.* The requirements governing the importation of nonroad and stationary engines subject to conformance with applicable emissions standards of the U.S. Environmental Protection Agency (EPA) are contained in EPA regulations, issued under the Clean Air Act, as amended (42 U.S.C. 7401 *et seq.*). These EPA regulations should be consulted for detailed information as to the admission requirements for subject nonroad and stationary engines. See 40 CFR part 1068, subpart D, with the following exceptions:
 
