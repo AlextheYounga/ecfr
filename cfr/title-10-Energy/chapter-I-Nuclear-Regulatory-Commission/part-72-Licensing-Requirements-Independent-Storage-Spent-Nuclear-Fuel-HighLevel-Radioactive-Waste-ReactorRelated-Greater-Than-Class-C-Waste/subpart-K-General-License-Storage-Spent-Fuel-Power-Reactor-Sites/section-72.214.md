@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 83 FR 63799, Dec. 12, 2018.Link to an amendment published at 83 FR 64734, Dec. 18, 2018.Link to an amendment published at 83 FR 66590, Dec. 27, 2018.
+Link to an amendment published at 83 FR 64734, Dec. 18, 2018.Link to an amendment published at 83 FR 66590, Dec. 27, 2018.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -78,27 +78,49 @@ Renewed Certificate Expiration Date: January 23, 2055.
 
 Model Number: NUHOMS®-24P, -24PHB, -24PTH, -32PT, -32PTH1, -37PTH, -52B, -61BT, -61BTH, and -69BTH.
 
-Certificate Number: 1007.Initial Certificate Effective Date: May 7, 1993, superseded by Renewed Initial Certificate, on September 20, 2017.Renewed Initial Certificate Effective Date: September 20, 2017.Amendment Number 1 Effective Date: May 30, 2000, superseded by Renewed Amendment Number 1, on September 20, 2017.Renewed Amendment Number 1 Effective Date: September 20, 2017.Amendment Number 2 Effective Date: September 5, 2000, superseded by Renewed Amendment Number 2, on September 20, 2017.Renewed Amendment Number 2 Effective Date: September 20, 2017.Amendment Number 3 Effective Date: May 21, 2001, superseded by Renewed Amendment Number 3, on September 20, 2017.Renewed Amendment Number 3 Effective Date: September 20, 2017.Amendment Number 4 Effective Date: February 3, 2003, superseded by Renewed Amendment Number 4, on September 20, 2017.Renewed Amendment Number 4 Effective Date: September 20, 2017.Amendment Number 5 Effective Date: September 13, 2005, superseded by Renewed Amendment Number 5, on September 20, 2017.Renewed Amendment Number 5 Effective Date: September 20, 2017.Amendment Number 6 Effective Date: June 5, 2006, superseded by Renewed Amendment Number 6, on September 20, 2017.Renewed Amendment Number 6 Effective Date: September 20, 2017.SAR Submitted by: EnergySolutionsTM Corporation.SAR Title: Final Safety Analysis Report for the VSC-24 Ventilated Storage Cask System.Docket Number: 72-1007.Renewed Certificate Expiration Date: May 7, 2053.Model Number: VSC-24.Certificate Number: 1008.Initial Certificate Effective Date: October 4, 1999.Amendment Number 1 Effective Date: December 26, 2000.Amendment Number 2 Effective Date: May 29, 2001.SAR Submitted by: Holtec International.SAR Title: Final Safety Analysis Report for the HI-STAR 100 Cask System.Docket Number: 72-1008.Certificate Expiration Date: October 4, 2019.Model Number: HI-STAR 100.Certificate No.:1014. Initial Certificate Effective Date: May 31, 2000.Amendment Number 1 Effective Date: July 15, 2002.Amendment Number 2 Effective Date: June 7, 2005.Amendment Number 3 Effective Date: May 29, 2007.Amendment Number 4 Effective Date: January 8, 2008.Amendment Number 5 Effective Date: July 14, 2008.Amendment Number 6 Effective Date: August 17, 2009.Amendment Number 7 Effective Date: December 28, 2009.Amendment Number 8 Effective Date: May 2, 2012, as corrected on November 16, 2012 (ADAMS Accession No. ML12213A170); superseded by Amendment Number 8, Revision 1, Effective Date: February 16, 2016.Amendment Number 8, Revision 1, Effective Date February 16, 2016.Amendment Number 9 Effective Date: March 11, 2014, superseded by Amendment Number 9, Revision 1, on March 21, 2016.Amendment Number 9, Revision 1, Effective Date: March 21, 2016, as corrected (ADAMS Accession No. ML17236A451).Amendment Number 10 Effective Date: May 31, 2016, as corrected (ADAMS Accession No. ML17236A452).Safety Analysis Report (SAR) Submitted by: Holtec International.SAR Title: Final Safety Analysis Report for the HI-STORM 100 Cask System.Docket Number: 72-1014.Certificate Expiration Date: May 31, 2020.Model Number HI-STORM 100.
+Certificate Number: 1007.Initial Certificate Effective Date: May 7, 1993, superseded by Renewed Initial Certificate, on September 20, 2017.Renewed Initial Certificate Effective Date: September 20, 2017.Amendment Number 1 Effective Date: May 30, 2000, superseded by Renewed Amendment Number 1, on September 20, 2017.Renewed Amendment Number 1 Effective Date: September 20, 2017.Amendment Number 2 Effective Date: September 5, 2000, superseded by Renewed Amendment Number 2, on September 20, 2017.Renewed Amendment Number 2 Effective Date: September 20, 2017.Amendment Number 3 Effective Date: May 21, 2001, superseded by Renewed Amendment Number 3, on September 20, 2017.Renewed Amendment Number 3 Effective Date: September 20, 2017.Amendment Number 4 Effective Date: February 3, 2003, superseded by Renewed Amendment Number 4, on September 20, 2017.Renewed Amendment Number 4 Effective Date: September 20, 2017.Amendment Number 5 Effective Date: September 13, 2005, superseded by Renewed Amendment Number 5, on September 20, 2017.Renewed Amendment Number 5 Effective Date: September 20, 2017.Amendment Number 6 Effective Date: June 5, 2006, superseded by Renewed Amendment Number 6, on September 20, 2017.Renewed Amendment Number 6 Effective Date: September 20, 2017.SAR Submitted by: EnergySolutionsTM Corporation.SAR Title: Final Safety Analysis Report for the VSC-24 Ventilated Storage Cask System.Docket Number: 72-1007.Renewed Certificate Expiration Date: May 7, 2053.Model Number: VSC-24.Certificate Number: 1008.Initial Certificate Effective Date: October 4, 1999.Amendment Number 1 Effective Date: December 26, 2000.Amendment Number 2 Effective Date: May 29, 2001.SAR Submitted by: Holtec International.SAR Title: Final Safety Analysis Report for the HI-STAR 100 Cask System.Docket Number: 72-1008.Certificate Expiration Date: October 4, 2019.Model Number: HI-STAR 100.Certificate No.:1014. Initial Certificate Effective Date: May 31, 2000.Amendment Number 1 Effective Date: July 15, 2002.Amendment Number 2 Effective Date: June 7, 2005.Amendment Number 3 Effective Date: May 29, 2007.Amendment Number 4 Effective Date: January 8, 2008.Amendment Number 5 Effective Date: July 14, 2008.Amendment Number 6 Effective Date: August 17, 2009.Amendment Number 7 Effective Date: December 28, 2009.Amendment Number 8 Effective Date: May 2, 2012, as corrected on November 16, 2012 (ADAMS Accession No. ML12213A170); superseded by Amendment Number 8, Revision 1, Effective Date: February 16, 2016.Amendment Number 8, Revision 1, Effective Date February 16, 2016.Amendment Number 9 Effective Date: March 11, 2014, superseded by Amendment Number 9, Revision 1, on March 21, 2016.Amendment Number 9, Revision 1, Effective Date: March 21, 2016, as corrected (ADAMS Accession No. ML17236A451).Amendment Number 10 Effective Date: May 31, 2016, as corrected (ADAMS Accession No. ML17236A452).Safety Analysis Report (SAR) Submitted by: Holtec International.SAR Title: Final Safety Analysis Report for the HI-STORM 100 Cask System.
 
-*Certificate Number:* 1015.
+Certificate Number: 1014.
 
-*Initial Certificate Effective Date:* November 20, 2000.
+Initial Certificate Effective Date: May 31, 2000.
 
-*Amendment Number 1 Effective Date:* February 20, 2001.
+Amendment Number 1 Effective Date: July 15, 2002.
 
-*Amendment Number 2 Effective Date:* December 31, 2001.
+Amendment Number 2 Effective Date: June 7, 2005.
 
-*Amendment Number 3 Effective Date:* March 31, 2004.
+Amendment Number 3 Effective Date: May 29, 2007.
 
-*Amendment Number 4 Effective Date:* October 11, 2005.
+Amendment Number 4 Effective Date: January 8, 2008.
 
-*Amendment Number 5 Effective Date:* January 12, 2009.
+Amendment Number 5 Effective Date: July 14, 2008.
 
-*Amendment Number 6 Effective Date:* January 7, 2019.
+Amendment Number 6 Effective Date: August 17, 2009.
 
-*SAR Submitted by:* NAC International, Inc.
+Amendment Number 7 Effective Date: December 28, 2009.
 
-*SAR Title:* Final Safety Analysis Report for the NAC-UMS Universal Storage System.
+Amendment Number 8 Effective Date: May 2, 2012, as corrected on November 16, 2012 (ADAMS Accession No. ML12213A170); superseded by Amendment Number 8, Revision 1, Effective Date: February 16, 2016.
+
+Amendment Number 8, Revision 1, Effective Date: February 16, 2016.
+
+Amendment Number 9 Effective Date: March 11, 2014, superseded by Amendment Number 9, Revision 1, on March 21, 2016.
+
+Amendment Number 9, Revision 1, Effective Date: March 21, 2016, as corrected (ADAMS Accession No. ML17236A451).
+
+Amendment Number 10 Effective Date: May 31, 2016, as corrected (ADAMS Accession No. ML17236A452).
+
+Amendment Number 11 Effective Date: February 25, 2019.
+
+Amendment Number 12 Effective Date: February 25, 2019.
+
+Safety Analysis Report Submitted by: Holtec International.
+
+Safety Anaylsis Report Title: Final Safety Analysis Report for the HI-STORM 100 Cask System.
+
+Docket Number: 72-1014.
+
+Certificate Expiration Date: May 31, 2020.
+
+Model Number: HI-STORM 100.
 
 *Docket Number:* 72-1015.
 

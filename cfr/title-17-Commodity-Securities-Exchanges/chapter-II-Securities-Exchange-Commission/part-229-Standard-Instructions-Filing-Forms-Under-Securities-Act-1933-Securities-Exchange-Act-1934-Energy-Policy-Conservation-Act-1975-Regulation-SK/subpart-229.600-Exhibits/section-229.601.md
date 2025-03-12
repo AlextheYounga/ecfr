@@ -1,7 +1,5 @@
 ##### § 229.601 (Item 601) Exhibits. #####
 
-Link to an amendment published at 83 FR 66444, Dec. 26, 2018.
-
 (a) *Exhibits and index required.* (1) Subject to Rule 411(c) (§ 230.411(c) of this chapter) under the Securities Act and Rule 12b-32 (§ 240.12b-32 of this chapter) under the Exchange Act regarding incorporation of exhibits by reference, the exhibits required in the exhibit table shall be filed as indicated, as part of the registration statement or report.
 
 (2) Each registration statement or report shall contain an exhibit index, which must appear before the required signatures in the registration statement or report. For convenient reference, each exhibit shall be listed in the exhibit index according to the number assigned to it in the exhibit table. If an exhibit is incorporated by reference, this must be noted in the exhibit index. Each exhibit identified in the exhibit index (other than an exhibit filed in eXtensible Business Reporting Language or an exhibit that is filed with Form ABS-EE) must include an active link to an exhibit that is filed with the registration statement or report or, if the exhibit is incorporated by reference, an active hyperlink to the exhibit separately filed on EDGAR. If a registration statement or report is amended, each amendment must include hyperlinks to the exhibits required with the amendment. For a description of each of the exhibits included in the exhibit table, see paragraph (b) of this section.
@@ -67,7 +65,8 @@ Exhibit Table
 |                              (36) Depositor Certification for shelf offerings of asset-backed securities                               |                    |                  |    |       X       |   |    |   |   |               |   |               |              |              |              |              |   |
 |                                                      (37) through (94) [Reserved]                                                      |        N/A         |       N/A        |N/A |      N/A      |N/A|N/A |N/A|N/A|      N/A      |N/A|      N/A      |     N/A      |     N/A      |     N/A      |     N/A      |N/A|
 |                                                  (95) Mine Safety Disclosure Exhibit                                                   |                    |                  |    |               |   |    |   |   |               |   |               |              |              |      X       |      X       |   |
-|                                                      (96) through (98) [Reserved]                                                      |                    |                  |    |               |   |    |   |   |               |   |               |              |              |              |              |   |
+|                                               (96) Technical report summary<sup>7</sup>                                                |         X          |        X         |    |               | X |    |   | X |       X       | X |       X       |              |              |              |      X       |   |
+|                                                      (97) through (98) [Reserved]                                                      |                    |                  |    |               |   |    |   |   |               |   |               |              |              |              |              |   |
 |                                                        (99) Additional exhibits                                                        |         X          |        X         | X  |       X       | X | X  | X | X |       X       | X |       X       |      X       |      X       |      X       |      X       |   |
 |                                                            (100) [Reserved]                                                            |                    |                  |    |               |   |    |   |   |               |   |               |              |              |              |              |   |
 |                                                      (101) Interactive Data File                                                       |         X          |        X         |    |               | X |    | X | X |       X       | X |               |      X       |              |      X       |      X       |   |
@@ -88,6 +87,8 @@ Exhibit Table
 <sup>5</sup> Where the opinion of the expert or counsel has been incorporated by reference into a previously filed Securities Act registration statement.
 
 <sup>6</sup> Pursuant to §§ 240.13a-13(b)(3) and 240.15d-13(b)(3) of this chapter, asset-backed issuers are not required to file reports on Form 10-Q.
+
+<sup>7</sup> If required pursuant to § 229.1302 (Item 1302 of Regulation S-K).
 
 (b) *Description of exhibits.* Set forth below is a description of each document listed in the exhibit tables.
 
@@ -322,7 +323,233 @@ The certification must be signed by the chief executive officer of the depositor
 
 (3) The term *subsidiary* has the meaning given the term in Exchange Act Rule 12b-2 (17 CFR 240.12b-2).
 
-(96) through (98) [Reserved]
+(96) *Technical report summary.* (i) A registrant that, pursuant to §§ 229.1300 through 229.1305 (subpart 229.1300 of Regulation S-K), discloses information concerning its mineral resources or mineral reserves must file a technical report summary by one or more qualified persons that, for each material property, identifies and summarizes the scientific and technical information and conclusions reached concerning an initial assessment used to support disclosure of mineral resources, or concerning a preliminary or final feasibility study used to support disclosure of mineral reserves. At its election, a registrant may also file a technical report summary from a qualified person that identifies and summarizes the information reviewed and conclusions reached by the qualified person about the registrant's exploration results. Please refer to § 229.1302(b) (Item 1302(b) of Regulation S-K) for when a registrant must file the technical report summary as an exhibit to its Securities Act registration statement or Exchange Act registration statement or report.
+
+(ii) The technical report summary must not include large amounts of technical or other project data, either in the report or as appendices to the report. The qualified person must draft the summary to conform, to the extent practicable, with the plain English principles set forth in § 230.421 or § 240.13a-20 of this chapter.
+
+(iii)(A) A technical report summary that reports the results of a preliminary or final feasibility study must provide all of the information specified in paragraph (b)(96)(iii)(B) of this section. A technical report summary that reports the results of an initial assessment must, at a minimum, provide the information specified in paragraphs (b)(96)(iii)(B)(*1*) through (*11*) and (*20*) through (*25*) of this section, and may also include the information specified in paragraph (b)(96)(iii)(B)(*19*) of this section. A technical report summary that reports exploration results must, at a minimum, provide the information specified in paragraphs (b)(96)(iii)(B)(*1*) through (*9*) and (*20*) through (*25*) of this section.
+
+(B) A qualified person must include the following information in the technical report summary, as required by paragraph (b)(96)(iii)(A) of this section, to the extent the information is material.
+
+(*1*) *Executive summary.* Briefly summarize the most significant information in the technical report summary, including property description (including mineral rights) and ownership, geology and mineralization, the status of exploration, development and operations, mineral resource and mineral reserve estimates, summary capital and operating cost estimates, permitting requirements, and the qualified person's conclusions and recommendations. The executive summary must be brief and should not contain all of the detailed information in the technical support summary.
+
+(*2*) *Introduction.* Disclose:
+
+(*i*) The registrant for whom the technical report summary was prepared;
+
+(*ii*) The terms of reference and purpose for which the technical report summary was prepared, including whether the technical report summary's purpose was to report mineral resources, mineral reserves, or exploration results;
+
+(*iii*) The sources of information and data contained in the technical report summary or used in its preparation, with citations if applicable;
+
+(*iv*) The details of the personal inspection on the property by each qualified person or, if applicable, the reason why a personal inspection has not been completed; and
+
+(*v*) That the technical report summary updates a previously filed technical report summary, identified by name and date, when applicable.
+
+(*3*) *Property description.* (*i*) Describe the location of the property, accurate to within one mile, using an easily recognizable coordinate system. The qualified person must provide appropriate maps, with proper engineering detail (such as scale, orientation, and titles) to portray the location of the property. Such maps must be legible on the page when printed.
+
+(*ii*) Disclose the area of the property.
+
+(*iii*) Disclose the name or number of each title, claim, mineral right, lease, or option under which the registrant and its subsidiaries have or will have the right to hold or operate the property. If held by leases or options, the registrant must provide the expiration dates of such leases or options and associated payments.
+
+(*iv*) Describe the mineral rights, and how such rights have been obtained at this location, indicating any conditions that the registrant must meet in order to obtain or retain the property.
+
+(*v*) Describe any significant encumbrances to the property, including current and future permitting requirements and associated timelines, permit conditions, and violations and fines.
+
+(*vi*) Disclose any other significant factors and risks that may affect access, title, or the right or ability to perform work on the property.
+
+(*vii*) If the registrant holds a royalty or similar interest in the property, except as provided under §§ 229.1303(a)(3) and 229.1304(a)(2), the information in paragraph (b)(96)(iii)(B)(*3*) of this section must be provided for the property that is owned or operated by a party other than the registrant. In this event, for example, the report must address the documents under which the owner or operator holds or operates the property, the mineral rights held by the owner or operator, conditions required to be met by the owner or operator, significant encumbrances, and significant factors and risks relating to the property or work on the property.
+
+(*4*) *Accessibility, climate, local resources, infrastructure and physiography.* Describe:
+
+(*i*) The topography, elevation, and vegetation;
+
+(*ii*) The means of access to the property, including highways, towns, rivers, railroads, and airports;
+
+(*iii*) The climate and the length of the operating season, as applicable; and
+
+(*iv*) The availability of and required infrastructure, including sources of water, electricity, personnel, and supplies.
+
+(*5*) *History.* Describe:
+
+(*i*) Previous operations, including the names of previous operators, insofar as known; and
+
+(*ii*) The type, amount, quantity, and general results of exploration and development work undertaken by any previous owners or operators.
+
+(*6*) *Geological setting, mineralization, and deposit.* (*i*) Describe briefly the regional, local, and property geology and the significant mineralized zones encountered on the property, including a summary of the surrounding rock types, relevant geological controls, and the length, width, depth, and continuity of the mineralization, together with a description of the type, character, and distribution of the mineralization.
+
+(*ii*) Each mineral deposit type that is the subject of investigation or exploration together with the geological model or concepts being applied in the investigation or forming the basis of the exploration program.
+
+(*iii*) The qualified person must include at least one stratigraphic column and one cross-section of the local geology to meet the requirements of paragraph (b)(96)(iii)(B)(*6*) of this section.
+
+(*7*) *Exploration.* Describe the nature and extent of all relevant exploration work, conducted by or on behalf of, the registrant.
+
+(*i*) For all exploration work other than drilling, describe: The procedures and parameters relating to the surveys and investigations; the sampling methods and sample quality, including whether the samples are representative, and any factors that may have resulted in sample biases; the location, number, type, nature, and spacing or density of samples collected, and the size of the area covered; and the significant results of and the qualified person's interpretation of the exploration information.
+
+(*ii*) For drilling, describe: The type and extent of drilling including the procedures followed; any drilling, sampling, or recovery factors that could materially affect the accuracy and reliability of the results; and the material results and interpretation of the drilling results. For a technical report summary to support disclosure of exploration results, the qualified person must provide information on all samples or drill holes to meet the requirements of this paragraph. If some information is excluded, the qualified person must identify the omitted information and explain why that information is not material.
+
+(*iii*) For characterization of hydrogeology, describe: The nature and quality of the sampling methods used to acquire data on surface and groundwater parameters; the type and appropriateness of laboratory techniques used to test for groundwater flow parameters such as permeability, and include discussions of the quality control and quality assurance procedures; results of laboratory testing and the qualified person's interpretation, including any material assumptions, which must include descriptions of permeable zones or aquifers, flow rates, in-situ saturation, recharge rates and water balance; and the groundwater models used to characterize aquifers, including material assumptions used in the modeling.
+
+(*iv*) For geotechnical data, testing and analysis, describe: The nature and quality of the sampling methods used to acquire geotechnical data; the type and appropriateness of laboratory techniques used to test for soil and rock strength parameters, including discussions of the quality control and quality assurance procedures; and results of laboratory testing and the qualified person's interpretation, including any material assumptions.
+
+(*v*) Reports must include a plan view of the property showing locations of all drill holes and other samples.
+
+(*vi*) The technical report summary must include a description of data concerning drilling, hydrogeology, or geotechnical data only to the extent such data is relevant and available.
+
+*Instruction 1 to paragraph (b)(96)(iii)(B)(7):* The technical report summary must comply with all disclosure standards for exploration results under §§ 229.1300 through 229.1305 (subpart 229.1300 of Regulation S-K).
+
+*Instruction 2 to paragraph (b)(96)(iii)(B)*(*7*): For a technical report summary to support disclosure of mineral resources or mineral reserves, the qualified person can meet the requirements of paragraph (b)(96)(iii)(B)(*7*)(*ii*) of this section by providing sampling (including drilling) plans, representative plans, and cross-sections of results.
+
+*Instruction 3 to paragraph (b)(96)(iii)(B)*(*7*): If disclosing an exploration target, provide such disclosure in a subsection of the *Exploration* section of the technical report summary that is clearly captioned as a discussion of an exploration target. That section must include all of the disclosure required under § 229.1302(c).
+
+(*8*) *Sample preparation, analyses, and security.* Describe:
+
+(*i*) Sample preparation methods and quality control measures employed prior to sending samples to an analytical or testing laboratory, sample splitting and reduction methods, and the security measures taken to ensure the validity and integrity of samples;
+
+(*ii*) Sample preparation, assaying and analytical procedures used, the name and location of the analytical or testing laboratories, the relationship of the laboratory to the registrant, and whether the laboratories are certified by any standards association and the particulars of such certification;
+
+(*iii*) The nature, extent, and results of quality control procedures and quality assurance actions taken or recommended to provide adequate confidence in the data collection and estimation process;
+
+(*iv*) The adequacy of sample preparation, security, and analytical procedures, in the opinion of the qualified person; and
+
+(*v*) If the analytical procedures used are not part of conventional industry practice, a justification by the qualified person for why he or she believes the procedure is appropriate in this instance.
+
+(*9*) *Data verification.* Describe the steps taken by the qualified person to verify the data being reported on or which is the basis of this technical report summary, including:
+
+(*i*) Data verification procedures applied by the qualified person;
+
+(*ii*) Any limitations on or failure to conduct such verification, and the reasons for any such limitations or failure; and
+
+(*iii*) The qualified person's opinion on the adequacy of the data for the purposes used in the technical report summary.
+
+(*10*) *Mineral processing and metallurgical testing.* Describe:
+
+(*i*) The nature and extent of the mineral processing or metallurgical testing and analytical procedures;
+
+(*ii*) The degree to which the test samples are representative of the various types and styles of mineralization and the mineral deposit as a whole;
+
+(*iii*) The name and location of the analytical or testing laboratories, the relationship of the laboratory to the registrant, whether the laboratories are certified by any standards association and the particulars of such certification;
+
+(*iv*) The relevant results including the basis for any assumptions or predictions about recovery estimates. Discuss any processing factors or deleterious elements that could have a significant effect on potential economic extraction; and
+
+(*v*) The adequacy of the data for the purposes used in the technical report summary, in the opinion of the qualified person. If the analytical procedures used in the analysis are not part of conventional industry practice, the qualified person must state so and provide a justification for why he or she believes the procedure is appropriate in this instance.
+
+(*11*) *Mineral resource estimates.* If this item is included, the technical report summary must:
+
+(*i*) Describe the key assumptions, parameters, and methods used to estimate the mineral resources, in sufficient detail for a reasonably informed person to understand the basis for and how the qualified person estimated the mineral resources. The technical report summary must include mineral resource estimates at a specific point of reference selected by the qualified person. The selected point of reference must be disclosed in the technical report summary;
+
+(*ii*) Provide the qualified person's estimates of mineral resources for all commodities, including estimates of quantities, grade or quality, cut-off grades, and metallurgical or processing recoveries. Unless otherwise stated, cut-off grades also refer to net smelter returns, pay limits, and other similar terms. The qualified person preparing the mineral resource estimates must round off, to appropriate significant figures chosen to reflect order of accuracy, any estimates of quantity and grade or quality. If the qualified person chooses to disclose mineral resources inclusive of mineral reserves, he or she must also clearly state the mineral resources exclusive of mineral reserves in the technical report summary;
+
+(*iii*) Include the qualified person's estimates of cut-off grades based on assumed costs for surface or underground operations and commodity prices that provide a reasonable basis for establishing the prospects of economic extraction for mineral resources. The qualified person must disclose the price used for each commodity and explain, with particularity, his or her reasons for using the selected price, including the material assumptions underlying the selection. This explanation must include disclosure of the time frame used to estimate the commodity price and unit costs for cut-off grade estimation and the reasons justifying the selection of that time frame. The qualified person may use a price set by contractual arrangement, provided that such price is reasonable, and the qualified person discloses that he or she is using a contractual price when disclosing the price used;
+
+(*iv*) Provide the qualified person's classification of mineral resources into inferred, indicated, and measured mineral resources in accordance with § 229.1302(d)(1)(iii)(A) (Item 1302(d)(1)(iii)(A) of Regulation S-K). The qualified person must disclose the criteria used to classify a resource as inferred, indicated, or measured and must justify the classification;
+
+(*v*) Discuss the uncertainty in the estimates of inferred, indicated, and measured mineral resources, and explain the sources of uncertainty and how they were considered in the uncertainty estimates. The qualified person must consider all sources of uncertainty associated with each class of mineral resources. Sources of uncertainty that affect such reporting of uncertainty include sampling or drilling methods, data processing and handling, geologic modeling, and estimation. The qualified person must support the disclosure of uncertainty associated with each class of mineral resources with a list of all factors considered and explain how those factors contributed to the final conclusion about the level of uncertainty underlying the resource estimates. The qualified person is not required to use estimates of confidence limits derived from geostatistics or other numerical methods to support the disclosure of uncertainty surrounding mineral resource classification. If the qualified person chooses to use confidence limit estimates from geostatistics or other numerical methods, he or she should consider the limitations of these methods and adjust the estimates appropriately to reflect sources of uncertainty that are not accounted for by these methods;
+
+(*vi*) When reporting the grade or quality for a multiple commodity mineral resource as metal or mineral equivalent, disclose the individual grade of each metal or mineral and the commodity prices, recoveries, and any other relevant conversion factors used to estimate the metal or mineral equivalent grade; and
+
+(*vii*) Provide the qualified person's opinion on whether all issues relating to all relevant technical and economic factors likely to influence the prospect of economic extraction can be resolved with further work.
+
+*Instruction 1 to paragraph (b)(96)(iii)(B)(11*): The technical report summary must comply with all disclosure standards for mineral resources under §§ 229.1300 through 229.1305 (subpart 229.1300 of Regulation S-K).
+
+*Instruction 2 to paragraph (b)(96)(iii)(B)(11*): Sections 229.1303 and 229.1304 (Items 1303 and 1304 of Regulation S-K) notwithstanding, in this technical report summary, mineral resource estimates may be inclusive of mineral reserves so long as this is clearly stated with equal prominence to the rest of the item.
+
+(*12*) *Mineral reserve estimates.* If this item is included, the technical report summary must:
+
+(*i*) Describe the key assumptions, parameters, and methods used to estimate the mineral reserves, in sufficient detail for a reasonably informed person to understand the basis for converting, and how the qualified person converted, indicated and measured mineral resources into the mineral reserves. The technical report summary must include mineral reserve estimates at a specific point of reference selected by the qualified person. The qualified person must disclose the selected point of reference in the technical report summary;
+
+(*ii*) Provide the qualified person's estimates of mineral reserves for all commodities, including estimates of quantities, grade or quality, cut-off grades, and metallurgical or processing recoveries. The qualified person preparing the mineral resource estimates must round off, to appropriate significant figures chosen to reflect order of accuracy, any estimates of quantity and grade or quality;
+
+(*iii*) Include the qualified person's estimates of cut-off grades based on detailed cut-off grade analysis that includes a long term price that provides a reasonable basis for establishing that the project is economically viable. The qualified person must disclose the price used for each commodity and explain, with particularity, his or her reasons for using the selected price, including the material assumptions underlying the selection. This explanation must include disclosure of the time frame used to estimate the price and costs and the reasons justifying the selection of that time frame. The qualified person may use a price set by contractual arrangement, provided that such price is reasonable, and the qualified person discloses that he or she is using a contractual price when disclosing the price used;
+
+(*iv*) Provide the qualified person's classification of mineral reserves into probable and proven mineral reserves in accordance with § 229.1302(e)(2) (Item 1302(e)(2) of Regulation S-K);
+
+(*v*) When reporting the grade or quality for a multiple commodity mineral reserve as metal or mineral equivalent, disclose the individual grade of each metal or mineral and the commodity prices, recoveries, and any other relevant conversion factors used to estimate the metal or mineral equivalent grade; and
+
+(*vi*) Provide the qualified person's opinion on how the mineral reserve estimates could be materially affected by risk factors associated with or changes to any aspect of the modifying factors.
+
+*Instruction 1 to paragraph (b)(96)(iii)(B)(12):* The technical report summary must comply with all disclosure standards for mineral reserves under §§ 229.1300 through 1305 (subpart 229.1300 of Regulation S-K).
+
+(*13*) *Mining methods.* Describe the current or proposed mining methods and the reasons for selecting these methods as the most suitable for the mineral reserves under consideration. Include:
+
+(*i*) Geotechnical and hydrological models, and other parameters relevant to mine designs and plans;
+
+(*ii*) Production rates, expected mine life, mining unit dimensions, and mining dilution and recovery factors;
+
+(*iii*) Requirements for stripping, underground development, and backfilling;
+
+(*iv*) Required mining equipment fleet and machinery, and personnel; and
+
+(*v*) At least one map of the final mine outline.
+
+(*14*) *Processing and recovery methods.* Describe the current or proposed mineral processing methods and the reasons for selecting these methods as the most suitable for extracting the valuable products from the mineralization under consideration. Include:
+
+(*i*) A description or flow sheet of any current or proposed process plant;
+
+(*ii*) Plant throughput and design, equipment characteristics and specifications;
+
+(*iii*) Current or projected requirements for energy, water, process materials, and personnel; and
+
+(*iv*) If the processing method, plant design, or other parameter has never been used to commercially extract the valuable product from such mineralization, a justification by the qualified person for why he or she believes the approach will be successful in this instance.
+
+*Instruction 1 to paragraph (b)(96)(iii)(B)(14):* If the processing method, plant design, or other parameter has never been used to commercially extract the valuable product from such mineralization and is still under development, then no mineral resources or reserves can be disclosed on the basis of that method, design, or other parameter.
+
+(*15*) *Infrastructure.* Describe the required infrastructure for the project, including roads, rail, port facilities, dams, dumps and leach pads, tailings disposal, power, water, and pipelines, as applicable. Include at least one map showing the layout of the infrastructure.
+
+(*16*) *Market studies.* Describe the market for the products of the mine, including justification for demand or sales over the life of the mine (or length of cash flow projections). Include:
+
+(*i*) Information concerning markets for the property's production, including the nature and material terms of any agency relationships and the results of any relevant market studies, commodity price projections, product valuation, market entry strategies, and product specification requirements; and
+
+(*ii*) Descriptions of all material contracts required for the issuer to develop the property, including mining, concentrating, smelting, refining, transportation, handling, hedging arrangements, and forward sales contracts. State which contracts have been executed and which are still under negotiation. For all contracts with affiliated parties, discuss whether the registrant obtained the same terms, rates or charges as could be obtained had the contract been negotiated at arm's length with an unaffiliated third party.
+
+(*17*) *Environmental studies, permitting, and plans, negotiations, or agreements with local individuals or groups.* Describe the factors pertaining to environmental compliance, permitting, and local individuals or groups, which are related to the project. Include:
+
+(*i*) The results of environmental studies (*e.g.,* environmental baseline studies or impact assessments);
+
+(*ii*) Requirements and plans for waste and tailings disposal, site monitoring, and water management during operations and after mine closure;
+
+(*iii*) Project permitting requirements, the status of any permit applications, and any known requirements to post performance or reclamation bonds;
+
+(*iv*) Plans, negotiations, or agreements with local individuals or groups;
+
+(*v*) Mine closure plans, including remediation and reclamation plans, and the associated costs;
+
+(*vi*) The qualified person's opinion on the adequacy of current plans to address any issues related to environmental compliance, permitting, and local individuals or groups; and
+
+(*vii*) Descriptions of any commitments to ensure local procurement and hiring.
+
+(*18*) *Capital and operating costs.* (*i*) Provide estimates of capital and operating costs, with the major components set out in tabular form. Explain and justify the basis for the cost estimates including any contingency budget estimates. State the accuracy level of the capital and operating cost estimates.
+
+(*ii*) To assess the accuracy of the capital and operating cost estimates, the qualified person must take into account the risks associated with the specific engineering estimation methods used to arrive at the estimates. As part of this analysis, the qualified person must take into consideration the accuracy of the estimation methods in prior similar environments. The accuracy of capital and operating cost estimates must comply with § 229.1302 (Item 1302 of Regulation S-K).
+
+(*19*) *Economic analysis.* (*i*) Describe the key assumptions, parameters, and methods used to demonstrate economic viability, and provide all material assumptions including discount rates, exchange rates, commodity prices, and taxes, royalties, and other government levies or interests applicable to the mineral project or to production, and to revenues or income from the mineral project.
+
+(*ii*) Disclose the results of the economic analysis, including annual cash flow forecasts based on an annual production schedule for the life of project, and measures of economic viability such as net present value (NPV), internal rate of return (IRR), and payback period of capital.
+
+(*iii*) Include sensitivity analysis results using variants in commodity price, grade, capital and operating costs, or other significant input parameters, as appropriate, and discuss the impact on the results of the economic analysis.
+
+(*iv*) The qualified person may, but is not required to, include an economic analysis in an initial assessment. If the qualified person includes an economic analysis in an initial assessment, the qualified person must also include a statement, of equal prominence to the rest of this section, that, unlike mineral reserves, mineral resources do not have demonstrated economic viability. The qualified person may include inferred mineral resources in the economic analysis only if he or she satisfies the conditions set forth in § 229.1302(d)(4)(ii) (Item 1302(d)(4)(ii) of Regulation S-K).
+
+(*20*) *Adjacent properties.* Where applicable, a qualified person may include relevant information concerning an adjacent property if:
+
+(*i*) Such information was publicly disclosed by the owner or operator of the adjacent property;
+
+(*ii*) The source of the information is identified;
+
+(*iii*) The qualified person states that he or she has been unable to verify the information and that the information is not necessarily indicative of the mineralization on the property that is the subject of the technical report summary; and
+
+(*iv*) The technical report summary clearly distinguishes between the information from the adjacent property and the information from the property that is the subject of the technical report summary.
+
+(*21*) *Other relevant data and information.* Include any additional information or explanation necessary to provide a complete and balanced presentation of the value of the property to the registrant. Information included in this item must comply with §§ 229.1300 through 229.1305 (subpart 229.1300 of Regulation S-K).
+
+(*22*) *Interpretation and conclusions.* The qualified person must summarize the interpretations of and conclusions based on the data and analysis in the technical report summary. He or she must also discuss any significant risks and uncertainties that could reasonably be expected to affect the reliability or confidence in the exploration results, mineral resource or mineral reserve estimates, or projected economic outcomes.
+
+(*23*) *Recommendations.* If applicable, the qualified person must describe the recommendations for additional work with associated costs. If the additional work program is divided into phases, the costs for each phase must be provided along with decision points at the end of each phase.
+
+(*24*) *References.* Include a list of all references cited in the technical report summary in sufficient detail so that a reader can locate each reference.
+
+(*25*) *Reliance on information provided by the registrant.* If relying on information provided by the registrant for matters discussed in the technical report summary, as permitted under § 229.1302(f), provide the disclosure required pursuant to § 229.1302(f)(2).
+
+(97) through (98) [Reserved]
 
 (99) *Additional exhibits.* (i) Any additional exhibits which the registrant may wish to file shall be so marked as to indicate clearly the subject matters to which they refer.
 

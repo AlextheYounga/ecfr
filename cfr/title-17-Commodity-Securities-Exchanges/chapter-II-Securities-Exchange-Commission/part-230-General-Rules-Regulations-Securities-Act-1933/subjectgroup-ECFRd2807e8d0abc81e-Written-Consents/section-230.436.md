@@ -1,7 +1,5 @@
 ##### § 230.436 Consents required in special cases. #####
 
-Link to an amendment published at 83 FR 66461, Dec. 26, 2018.
-
 (a) If any portion of the report or opinion of an expert or counsel is quoted or summarized as such in the registration statement or in a prospectus, the written consent of the expert or counsel shall be filed as an exhibit to the registration statement and shall expressly state that the expert or counsel consents to such quotation or summarization.
 
 (b) If it is stated that any information contained in the registration statement has been reviewed or passed upon by any persons and that such information is set forth in the registration statement upon the authority of or in reliance upon such persons as experts, the written consents of such persons shall be filed as exhibits to the registration statement.
@@ -28,4 +26,6 @@ Link to an amendment published at 83 FR 66461, Dec. 26, 2018.
 
 (2) For the purpose of paragraph (g)(1) of this section, the term *nationally recognized statistical rating organization* shall have the same meaning as used in Rule 15c3-1(c)(2)(vi)(F) (17 CFR 240.15c3-1 (c)(2)(vi)(F)).
 
-[47 FR 11441, Mar. 16, 1982, as amended at 58 FR 62030, Nov. 23, 1993; 76 FR 71876, Nov. 21, 2011; 83 FR 50212, Oct. 4, 2018]
+(h) Notwithstanding the provisions of paragraphs (a) and (b) of this section, any description about matters identified by a qualified person pursuant to § 229.1302(f) of this chapter shall not be considered a part of the registration statement prepared or certified by the qualified person within the meaning of Sections 7 and 11 of the Securities Act.
+
+[47 FR 11441, Mar. 16, 1982, as amended at 58 FR 62030, Nov. 23, 1993; 76 FR 71876, Nov. 21, 2011; 83 FR 50212, Oct. 4, 2018; 83 FR 66461, Dec. 26, 2018]
