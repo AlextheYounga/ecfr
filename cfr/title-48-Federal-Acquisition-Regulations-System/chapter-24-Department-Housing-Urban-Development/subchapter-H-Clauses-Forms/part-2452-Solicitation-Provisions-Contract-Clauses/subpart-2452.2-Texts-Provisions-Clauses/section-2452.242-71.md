@@ -1,5 +1,7 @@
 ##### 2452.242-71 Contract management system. #####
 
+Link to an amendment published at 84 FR 15136, Apr. 15, 2019.
+
 As prescribed in 2442.1107, insert the following clause:
 
 Contract Management System (FEB 2006)

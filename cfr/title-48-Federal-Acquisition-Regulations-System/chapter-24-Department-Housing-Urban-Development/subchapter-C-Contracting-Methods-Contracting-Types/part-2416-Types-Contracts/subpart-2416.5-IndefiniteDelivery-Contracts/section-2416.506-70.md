@@ -1,5 +1,7 @@
 ##### 2416.506-70 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 84 FR 15129, Apr. 15, 2019.
+
 (a) *Unpriced task orders.* The Contracting Officer shall insert the clause at 2452.216-75, Unpriced Task Orders, in contracts in which task orders are individually negotiated and when there may be a need to issue unpriced task orders. The Contracting Officer shall ensure that the cost of the work authorized by any unpriced task order is not in excess of the funds available for the order. The Contracting Officer shall establish the time period for the definitization of each unpriced order and insert the anticipated date of definitization in the clause. The HCA shall approve periods that exceed 180 days.
 
 (b) *Minimum and maximum quantities or amounts for order.* The contracting officer shall insert a clause substantially the same as 2452.216-76, Minimum and Maximum Quantities or Amounts for Order, in all indefinite-quantity and requirements solicitations and contracts. When the clause is used for requirements solicitations and contracts, the contracting officer may either delete paragraph (a) or insert “none” for the minimum quantity or amount.

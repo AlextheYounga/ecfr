@@ -1,5 +1,7 @@
 ##### 2452.232-71 Voucher submission (cost-reimbursement, time-and-materials, and labor-hour). #####
 
+Link to an amendment published at 84 FR 15131, Apr. 15, 2019.
+
 As prescribed in HUDAR Section 2432.908(c)(3), insert the following clause in all cost reimbursable, time-and-materials, and labor-hour solicitations and contracts where vouchering and payments will NOT be made through the Department of Treasury's Bureau of Fiscal Services Invoice Processing Platform (IPP) system:
 
 Voucher Submission (Cost-Reimbursement, Time-and-Materials, and Labor Hour) (MAR 2016)

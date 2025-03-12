@@ -1,5 +1,7 @@
 ##### § 64.2115 Registration of Intermediate Providers. #####
 
+Link to an amendment published at 84 FR 15123, Apr. 15, 2019.
+
 (a) *Registration.* An intermediate provider that offers or holds itself out as offering the capability to transmit covered voice communications from one destination to another and that charges any rate to any other entity (including an affiliated entity) for the transmission shall register with the Commission in accordance with this section. The intermediate provider shall provide the following information in its registration:
 
 (1) The intermediate provider's business name(s) and primary address;

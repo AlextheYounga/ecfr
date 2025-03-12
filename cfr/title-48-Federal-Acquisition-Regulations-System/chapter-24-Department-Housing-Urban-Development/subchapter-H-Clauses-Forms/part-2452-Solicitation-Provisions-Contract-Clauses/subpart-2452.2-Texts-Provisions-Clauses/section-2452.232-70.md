@@ -1,5 +1,7 @@
 ##### 2452.232-70 Payment schedule and invoice submission (Fixed-Price). #####
 
+Link to an amendment published at 84 FR 15131, Apr. 15, 2019.
+
 As prescribed in HUDAR Section 2432.908(c)(2), insert the following clause in all fixed price solicitations and contracts where invoicing and payments will NOT be made through the Department of Treasury's Bureau of Fiscal Services Invoice Processing Platform (IPP) system:
 
 Payment Schedule and Invoice Submission (Fixed-Price) (MAR 2016)

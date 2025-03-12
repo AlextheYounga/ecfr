@@ -1,5 +1,7 @@
 ##### 2402.101 Definitions. #####
 
+Link to an amendment published at 84 FR 15129, Apr. 15, 2019.
+
 *Accounting Office* means the Office of Accounting Operations within the Office of the Chief Financial Officer and includes that Office's field components.
 
 *Chief Procurement Officer* means the HUD official having authority for all of the Department's procurement activities.

@@ -48,7 +48,7 @@
 
 *Mechanical coupling link* is a nonwelded, mechanically closed steel link used to attach master links, hooks, etc., to alloy steel chain.
 
-![](/graphics/ec27oc91.045.gif)![](/graphics/ec27oc91.046.gif)![](/graphics/ec27oc91.047.gif)
+![](/graphics/ec27oc91.045.gif)![](/graphics/ec27oc91.046.gif)![](/graphics/ec27oc91.047.gif)![](/graphics/er15ap19.005.gif)![](/graphics/er15ap19.006.gif)
 
 *Proof load* is the load applied in performance of a proof test.
 
@@ -106,7 +106,7 @@
 
 (d) *Inspections.* Each day before being used, the sling and all fastenings and attachments shall be inspected for damage or defects by a competent person designated by the employer. Additional inspections shall be performed during sling use, where service conditions warrant. Damaged or defective slings shall be immediately removed from service.
 
-(e) *Alloy steel chain slings* - (1) *Sling identification.* Alloy steel chain slings shall have permanently affixed durable identification stating size, grade, rated capacity, and reach.
+(e) *Alloy steel chain slings*—(1) *Sling identification.* Alloy steel chain slings shall have permanently affixed durable identification stating size, grade, rated capacity, and reach.
 
 (2) *Attachments.* (i) Hooks, rings, oblong links, pear shaped links, welded or mechanical coupling links or other attachments shall have a rated capacity at least equal to that of the alloy steel chain with which they are used or the sling shall not be used in excess of the rated capacity of the weakest component.
 
@@ -132,8 +132,6 @@
 
 (9) *Deformed attachments.* (i) Alloy steel chain slings with cracked or deformed master links, coupling links or other components shall be removed from service.
 
-Table N-184-1 - Minimum Allowable Chain Size At Any Point of Link
-
 |Chain size, inches|Minimum allowable chain size, inches|
 |------------------|------------------------------------|
 |       1/4        |               13/64                |
@@ -151,7 +149,7 @@ Table N-184-1 - Minimum Allowable Chain Size At Any Point of Link
 
 (ii) Slings shall be removed from service if hooks are cracked, have been opened more than 15 percent of the normal throat opening measured at the narrowest point or twisted more than 10 degrees from the plane of the unbent hook.
 
-(f) *Wire-rope slings* - (1) *Sling use.* Employers must use only wire-rope slings that have permanently affixed and legible identification markings as prescribed by the manufacturer, and that indicate the recommended safe working load for the type(s) of hitch(es) used, the angle upon which it is based, and the number of legs if more than one.
+(f) *Wire-rope slings*—(1) *Sling use.* Employers must use only wire-rope slings that have permanently affixed and legible identification markings as prescribed by the manufacturer, and that indicate the recommended safe working load for the type(s) of hitch(es) used, the angle upon which it is based, and the number of legs if more than one.
 
 (2) *Minimum sling lengths.* (i) Cable laid and 6 × 19 and 6 × 37 slings shall have a minimum clear length of wire rope 10 times the component rope diameter between splices, sleeves or end fittings.
 
@@ -181,7 +179,7 @@ Table N-184-1 - Minimum Allowable Chain Size At Any Point of Link
 
 (vii) Corrosion of the rope or end attachments.
 
-(g) *Metal mesh slings* - (1) *Sling marking.* Each metal mesh sling shall have permanently affixed to it a durable marking that states the rated capacity for vertical basket hitch and choker hitch loadings.
+(g) *Metal mesh slings*—(1) *Sling marking.* Each metal mesh sling shall have permanently affixed to it a durable marking that states the rated capacity for vertical basket hitch and choker hitch loadings.
 
 (2) *Handles.* Handles shall have a rated capacity at least equal to the metal fabric and exhibit no deformation after proof testing.
 
@@ -221,7 +219,7 @@ Table N-184-1 - Minimum Allowable Chain Size At Any Point of Link
 
 (vii) Distortion of either handle out of its plane.
 
-(h) *Natural and synthetic fiber-rope slings* - (1) *Sling use.* Employers must use natural and synthetic fiber-rope slings that have permanently affixed and legible identification markings stating the rated capacity for the type(s) of hitch(es) used and the angle upon which it is based, type of fiber material, and the number of legs if more than one.
+(h) *Natural and synthetic fiber-rope slings*—(1) *Sling use.* Employers must use natural and synthetic fiber-rope slings that have permanently affixed and legible identification markings stating the rated capacity for the type(s) of hitch(es) used and the angle upon which it is based, type of fiber material, and the number of legs if more than one.
 
 (2) *Safe operating temperatures.* Natural and synthetic fiber rope slings, except for wet frozen slings, may be used in a temperature range from minus 20 °F to plus 180 °F without decreasing the working load limit. For operations outside this temperature range and for wet frozen slings, the sling manufacturer's recommendations shall be followed.
 
@@ -259,7 +257,7 @@ Table N-184-1 - Minimum Allowable Chain Size At Any Point of Link
 
 (6) *Repairs.* Only fiber rope slings made from new rope shall be used. Use of repaired or reconditioned fiber rope slings is prohibited.
 
-(i) *Synthetic web slings* - (1) *Sling identification.* Each sling shall be marked or coded to show the rated capacities for each type of hitch and type of synthetic web material.
+(i) *Synthetic web slings*—(1) *Sling identification.* Each sling shall be marked or coded to show the rated capacities for each type of hitch and type of synthetic web material.
 
 (2) *Webbing.* Synthetic webbing shall be of uniform thickness and width and selvage edges shall not be split from the webbing's width.
 
@@ -303,4 +301,4 @@ Table N-184-1 - Minimum Allowable Chain Size At Any Point of Link
 
 (v) Distortion of fittings.
 
-[40 FR 27369, June 27, 1975, as amended at 40 FR 31598, July 28, 1975; 41 FR 13353, Mar. 30, 1976; 58 FR 35309, June 30, 1993; 61 FR 9240, Mar. 7, 1996; 76 FR 33607, June 8, 2011]
+[40 FR 27369, June 27, 1975, as amended at 40 FR 31598, July 28, 1975; 41 FR 13353, Mar. 30, 1976; 58 FR 35309, June 30, 1993; 61 FR 9240, Mar. 7, 1996; 76 FR 33607, June 8, 2011; 84 FR 15105, Apr. 15, 2019]

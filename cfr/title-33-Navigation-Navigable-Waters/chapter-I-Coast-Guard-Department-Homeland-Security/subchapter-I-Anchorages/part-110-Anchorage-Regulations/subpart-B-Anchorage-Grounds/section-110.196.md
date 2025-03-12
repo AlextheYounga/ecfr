@@ -1,15 +1,13 @@
 ##### § 110.196 Sabine Pass Channel, Sabine Pass, Tex. #####
 
-Link to an amendment published at 84 FR 9459, Mar. 15, 2019.
-
 (a) *The anchorage area.* The water bounded by a line connecting the following coordinates:
 
-| Latitude  | Longitude |
-|-----------|-----------|
-|29°44′14″ N|93°52′24″ W|
-|29°44′18″ N|93°52′06″ W|
-|29°43′53″ N|93°51′47″ W|
-|29°43′32″ N|93°51′52″ W|
+|  Latitude   |  Longitude  |
+|-------------|-------------|
+|29°43′59.0″ N|93°52′08.1″ W|
+|29°44′06.8″ N|93°51′57.6″ W|
+|29°43′53.0″ N|93°51′47.1″ W|
+|29°43′36.7″ N|93°51′50.9″ W|
 
 (b) *The regulations.* (1) The anchorage area is for the temporary use of vessels of all types, but especially for naval and merchant vessels awaiting weather and tidal conditions favorable to the resumption of their voyages.
 
@@ -25,4 +23,4 @@ Link to an amendment published at 84 FR 9459, Mar. 15, 2019.
 
 (7) Whenever the maritime or commercial interests of the United States so require, the Captain of the Port is hereby empowered to shift the position of any vessel anchored or moored within or outside of the anchorage area including any vessel which is moored or anchored so as to obstruct navigation or interfere with range lights.
 
-[CGFR 67-46, 32 FR 17728, Dec. 12, 1967, as amended by CGD08-06-26, 72 FR 464, Jan. 5, 2007]
+[CGFR 67-46, 32 FR 17728, Dec. 12, 1967, as amended by CGD08-06-26, 72 FR 464, Jan. 5, 2007; USCG-2018-0388, 84 FR 9459, Mar. 15, 2019]

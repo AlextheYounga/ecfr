@@ -1,5 +1,7 @@
 ##### 2442.1107 Contract clause. #####
 
+Link to an amendment published at 84 FR 15129, Apr. 15, 2019.
+
 (a) The Contracting Officer shall insert a clause substantially the same as the clause at 2452.242-71, Contract Management System, in solicitations and contracts when all of the following conditions apply:
 
 (1) The contract exceeds $500,000, including all options;

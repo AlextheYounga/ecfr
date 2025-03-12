@@ -1,5 +1,7 @@
 ##### 2452.208-71 Reproduction of reports. #####
 
+Link to an amendment published at 84 FR 15130, Apr. 15, 2019.
+
 As prescribed in 2437.110(b), insert the following clause in solicitations and contracts where the Contractor is required to produce, as an end product, publications or other written materials.
 
 Reproduction of Reports (APR 1984)

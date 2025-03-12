@@ -1,5 +1,7 @@
 ##### 2452.215-70 Proposal content. #####
 
+Link to an amendment published at 84 FR 15130, Apr. 15, 2019.
+
 As prescribed in 2415.209(a), insert a provision substantially the same as the following:
 
 Proposal Content (MAR 2016)

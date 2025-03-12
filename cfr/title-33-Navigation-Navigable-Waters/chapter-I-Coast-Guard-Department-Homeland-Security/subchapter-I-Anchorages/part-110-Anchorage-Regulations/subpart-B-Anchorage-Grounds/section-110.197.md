@@ -1,6 +1,6 @@
 ##### § 110.197 Galveston Harbor, Bolivar Roads Channel, Texas. #####
 
-(a)(1) Anchorage area (A). The water bounded by a line connecting the following points:
+(a)(1) *Anchorage area (A)*. The water bounded by a line connecting the following points:
 
 |  Latitude   | Longtitude  |
 |-------------|-------------|
@@ -11,7 +11,7 @@
 
 and thence to the point of beginning.
 
-(2) Anchorage area (B). The water bounded by a line connecting the following points:
+(2) *Anchorage area (B)*. The water bounded by a line connecting the following points:
 
 |  Latitude   | Longtitude  |
 |-------------|-------------|

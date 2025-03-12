@@ -1,5 +1,7 @@
 ##### 2452.219-72 Section 8(a) direct awards (Deviation). #####
 
+Link to an amendment published at 84 FR 15131, Apr. 15, 2019.
+
 As prescribed in 2419.811-3(f), insert the following clause:
 
 Section 8(a) Direct Award (DEC 2012)

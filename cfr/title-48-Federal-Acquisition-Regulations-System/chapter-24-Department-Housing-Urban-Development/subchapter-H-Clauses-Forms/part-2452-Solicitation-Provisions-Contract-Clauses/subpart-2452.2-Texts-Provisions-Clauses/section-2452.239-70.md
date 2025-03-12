@@ -1,5 +1,7 @@
 ##### 2452.239-70 Access to HUD systems. #####
 
+Link to an amendment published at 84 FR 15134, Apr. 15, 2019.
+
 As prescribed in 2439.107(a), insert the following clause:
 
 Access to HUD Systems (MAR 2016)

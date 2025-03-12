@@ -1,5 +1,7 @@
 ##### 2437.110 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 84 FR 15129, Apr. 15, 2019.
+
 (e)(1) The Contracting Officer shall insert the clause at 2452.237-70, Key Personnel, in solicitations and contracts when it is necessary for contract performance to identify Contractor Key personnel.
 
 (2) The Contracting Officer shall insert the clause at 2452.237-73, “Conduct of Work and Technical Guidance,” in all solicitations and contracts for services.

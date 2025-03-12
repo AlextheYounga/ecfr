@@ -1,5 +1,7 @@
 ##### 2452.237-73 Conduct of work and technical guidance. #####
 
+Link to an amendment published at 84 FR 15132, Apr. 15, 2019.
+
 As prescribed in 2437.110(e)(2), insert the following clause in all contracts for services:
 
 Conduct of Work and Technical Guidance (MAR 2016)

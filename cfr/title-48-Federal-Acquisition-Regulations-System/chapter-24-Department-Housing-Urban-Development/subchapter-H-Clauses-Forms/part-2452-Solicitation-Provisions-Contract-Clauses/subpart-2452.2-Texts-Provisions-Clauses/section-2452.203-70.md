@@ -1,5 +1,7 @@
 ##### 2452.203-70 Prohibition against the use of government employees. #####
 
+Link to an amendment published at 84 FR 15130, Apr. 15, 2019.
+
 As prescribed in 2403.670, insert the following clause in all solicitations and contracts:
 
 Prohibition Against the Use of Government Employees (FEB 2006)

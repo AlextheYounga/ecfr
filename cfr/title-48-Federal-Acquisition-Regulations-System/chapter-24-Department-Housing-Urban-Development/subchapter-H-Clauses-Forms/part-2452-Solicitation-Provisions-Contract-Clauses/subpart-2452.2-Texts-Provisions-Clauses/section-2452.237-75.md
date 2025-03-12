@@ -1,5 +1,7 @@
 ##### 2452.237-75 Access to HUD Facilities. #####
 
+Link to an amendment published at 84 FR 15132, Apr. 15, 2019.
+
 As prescribed in 2437.110(e)(3), insert the following clause in solicitations and contracts:
 
 Access to HUD Facilities (DEC 2012)
