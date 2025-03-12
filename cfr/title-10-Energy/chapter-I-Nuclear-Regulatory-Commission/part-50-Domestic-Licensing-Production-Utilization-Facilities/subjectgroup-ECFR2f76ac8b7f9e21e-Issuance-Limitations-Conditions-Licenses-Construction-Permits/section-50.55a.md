@@ -1,5 +1,7 @@
 ##### § 50.55a Codes and standards. #####
 
+Link to an amendment published at 87 FR 65148, Oct. 27, 2022.
+
 (a) *Documents approved for incorporation by reference.* The standards listed in this paragraph (a) have been approved for incorporation by reference by the Director of the Federal Register pursuant to 5 U.S.C. 552(a) and 1 CFR part 51. The standards are available for inspection, by appointment, at the NRC Technical Library, which is located at Two White Flint North, 11545 Rockville Pike, Rockville, Maryland 20852; telephone: 301-415-7000; email: *Library.Resource@nrc.gov;* or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fr.inspection@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (1) *American Society of Mechanical Engineers (ASME),* Three Park Avenue, New York, NY 10016; telephone: 1-800-843-2763; *https://www.asme.org/Codes/.*
