@@ -4,9 +4,9 @@
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter:
 
-(1) No. 054771 for use as in paragraph (c) of this section.
+(1) Nos. 026637 and 054771 for use as in paragraph (c) of this section.
 
-(2) Nos. 026637 and 051311 for use as in paragraphs (c)(1)(i)(A), (c)(1)(ii)(A), (c)(1)(iii) and (c)(2) of this section.
+(2) No. 051311 for use as in paragraphs (c)(1)(i)(A), (c)(1)(ii)(A), (c)(1)(iii), and (c)(2) of this section.
 
 (c) *Conditions of use* - (1) *Dogs* - (i) *Amount.* Expressed as milligrams of the drug combination:
 
@@ -26,4 +26,4 @@
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[79 FR 16197, Mar. 25, 2014, as amended at 83 FR 14587, Apr. 5, 2018]
+[79 FR 16197, Mar. 25, 2014, as amended at 83 FR 14587, Apr. 5, 2018; 86 FR 17064, Apr. 1, 2021]

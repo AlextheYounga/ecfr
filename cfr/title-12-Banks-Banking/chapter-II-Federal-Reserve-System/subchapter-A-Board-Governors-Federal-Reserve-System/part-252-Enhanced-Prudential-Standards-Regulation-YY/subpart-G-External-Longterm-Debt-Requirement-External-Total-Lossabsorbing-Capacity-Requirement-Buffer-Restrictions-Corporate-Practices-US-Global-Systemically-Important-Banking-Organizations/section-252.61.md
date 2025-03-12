@@ -1,7 +1,5 @@
 ##### § 252.61 Definitions. #####
 
-Link to an amendment published at 86 FR 738, Jan. 6, 2021.
-
 For purposes of this subpart:
 
 *Additional tier 1 capital* has the same meaning as in 12 CFR 217.20(c).
@@ -62,7 +60,7 @@ For purposes of this subpart:
 
 (vi) Does not provide that the instrument may be converted into or exchanged for equity of the global systemically important BHC.
 
-*External TLAC buffer* means, with respect to a global systemically important BHC, the sum of 2.5 percent, any applicable countercyclical capital buffer under 12 CFR 217.11(b) (expressed as a percentage), and the global systemically important BHC's method 1 capital surcharge.
+*External TLAC risk-weighted buffer* means, with respect to a global systemically important BHC, the sum of 2.5 percent, any applicable countercyclical capital buffer under 12 CFR 217.11(b) (expressed as a percentage), and the global systemically important BHC's method 1 capital surcharge.
 
 *GAAP* means generally accepted accounting principles as used in the United States.
 
@@ -101,3 +99,5 @@ For purposes of this subpart:
 *Total leverage exposure* has the same meaning as in 12 CFR 217.10(c)(4)(ii).
 
 *Total risk-weighted assets* means the greater of total risk-weighted assets as calculated under 12 CFR part 217, subpart D (the standardized approach) or 12 CFR part 217, subpart E (the internal ratings-based and advanced measurement approaches).
+
+[82 FR 8306, Jan. 24, 2017, as amended at 86 FR 738, Jan. 6, 2021]

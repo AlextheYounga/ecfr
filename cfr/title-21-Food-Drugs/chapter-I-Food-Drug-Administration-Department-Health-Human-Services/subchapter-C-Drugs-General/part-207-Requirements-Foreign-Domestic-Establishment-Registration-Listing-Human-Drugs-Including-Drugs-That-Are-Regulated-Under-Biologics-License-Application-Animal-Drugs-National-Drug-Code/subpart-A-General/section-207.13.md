@@ -46,8 +46,10 @@ Except as provided in § 207.13(l), the following classes of persons are exempt 
 
 (l) The exemptions provided in paragraphs (a) through (k) of this section do not apply to such persons if they:
 
-(1) Manufacture (as defined in § 207.1(b)), repack, relabel, or salvage compounded positron emission tomography drugs as defined in section 201(ii) of the Federal Food, Drug, and Cosmetic Act;
+(1) Manufacture (as defined in § 207.1), repack, relabel, or salvage compounded positron emission tomography drugs as defined in section 201(ii) of the Federal Food, Drug, and Cosmetic Act;
 
 (2) Manufacture (as defined in § 600.3(u) of this chapter) a human biological product subject to licensing under section 351 of the Public Health Service Act; or
 
 (3) Engage in activities that would otherwise require them to register under this part.
+
+[81 FR 60212, Aug. 31, 2016, as amended at 86 FR 17061, Apr. 1, 2021]

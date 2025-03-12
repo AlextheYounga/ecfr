@@ -123,9 +123,7 @@ Increase Multipliers for the Assessment Periods During the Surcharge Period
 
 (iii) *DIF Increase if the DIF reserve ratio has not reached 1.35 percent by December 31, 2018.* If the DIF reserve ratio has not reached 1.35 percent by December 31, 2018, the DIF increase shall equal the DIF balance on December 31, 2018, minus 1.15 percent of estimated insured deposits on that date.
 
-(4) *Determination of individual eligible institutions' shares of aggregate assessment Credit.* -
-
-(i) *Assessment credit share.* To determine an eligible institution's assessment credit share, the aggregate assessment credits awarded by the FDIC shall be apportioned among all eligible institutions in proportion to their respective assessment credit bases, as described in paragraph (c)(4)(ii) of this section.
+(4) *Determination of individual eligible institutions' shares of aggregate assessment Credit* - (i) *Assessment credit share.* To determine an eligible institution's assessment credit share, the aggregate assessment credits awarded by the FDIC shall be apportioned among all eligible institutions in proportion to their respective assessment credit bases, as described in paragraph (c)(4)(ii) of this section.
 
 (ii) *Assessment credit base.* An eligible institution's assessment credit base shall equal the average of its quarterly deposit insurance assessment bases, as determined under § 327.5, during the credit calculation period, as defined in paragraph (c)(2) of this section. An eligible institution's credit base shall be deemed to equal zero for any assessment period during which the institution was not a credit accruing institution.
 

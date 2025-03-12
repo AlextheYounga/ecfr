@@ -1,0 +1,11 @@
+##### § 7.2014 Indemnification of national bank and Federal savings association institution-affiliated parties. #####
+
+(a) *Indemnification under State law.* Subject to the limitations of paragraph (b) of this section, a national bank or Federal savings association may indemnify an institution-affiliated party for damages and expenses, including the advancement of expenses and legal fees, in accordance with the law of the State the bank or savings association has designated for its corporate governance pursuant to § 7.2000(b) (for national banks), 12 CFR 5.21(j)(3)(ii) (for Federal mutual savings associations), or 12 CFR 5.22(j)(2)(ii) (for Federal stock savings associations), provided such payments are consistent with safe and sound banking practices. The term “institution-affiliated party” has the same meaning as set forth at 12 U.S.C. 1813(u).
+
+(b) *Administrative proceedings or civil actions initiated by Federal banking agencies.* With respect to an administrative proceeding or civil action initiated by any Federal banking agency, a national bank or Federal savings association may only make or agree to make indemnification payments to an institution-affiliated party that are reasonable and consistent with the requirements of 12 U.S.C. 1828(k) and 12 CFR chapter III.
+
+(c) *Written agreement required for advancement.* Before advancing funds to an institutional-affiliated party under this section, a national bank or Federal savings association must obtain a written agreement that the institution-affiliated party will reimburse the bank or savings association, as appropriate, for any portion of that indemnification that the institution-affiliated party is ultimately found not to be entitled to under 12 U.S.C. 1828(k) and 12 CFR chapter III, except to the extent that the bank's or savings association's expenses have been reimbursed by an insurance policy or fidelity bond.
+
+(d) *Insurance premiums.* A national bank or Federal savings association may provide for the payment of reasonable premiums for insurance covering the expenses, legal fees, and liability of institution-affiliated parties to the extent that the expenses, fees, or liability could be indemnified under this section.
+
+[85 FR 83735, Dec. 22, 2020]

@@ -1,7 +1,5 @@
 ##### § 252.165 Covered IHC total loss-absorbing capacity requirement and buffer. #####
 
-Link to an amendment published at 86 FR 738, Jan. 6, 2021.
-
 (a) *Covered IHC total loss-absorbing capacity requirement for a resolution Covered IHC.* A resolution Covered IHC must have an outstanding Covered IHC total loss-absorbing capacity amount that is no less than the amount equal to the greatest of:
 
 (1) 18 percent of the resolution Covered IHC's total risk-weighted assets;
@@ -34,7 +32,7 @@ Link to an amendment published at 86 FR 738, Jan. 6, 2021.
 
 (iii) The Covered IHC's outstanding eligible Covered IHC long-term debt amount, plus 50 percent of the amount of unpaid principal of outstanding eligible Covered IHC debt securities issued by the Covered IHC due to be paid in greater than or equal to 365 days (one year) but less than 730 days (two years).
 
-(d) *Covered IHC TLAC buffer* - (1) *Composition of the Covered IHC TLAC buffer.* The Covered IHC TLAC buffer is composed solely of common equity tier 1 capital.
+(d) *Covered IHC TLAC buffer*—(1) *Composition of the Covered IHC TLAC buffer.* The Covered IHC TLAC buffer is composed solely of common equity tier 1 capital.
 
 (2) *Definitions.* For purposes of this paragraph, the following definitions apply:
 
@@ -56,7 +54,7 @@ Link to an amendment published at 86 FR 738, Jan. 6, 2021.
 
 (*2*) For a resolution Covered IHC, the ratio (expressed as a percentage of the Covered IHC's additional tier 1 capital (excluding any tier 1 minority interest) to the Covered IHC's total-risk weighted assets; and minus
 
-(C) The ratio (expressed as a percentage) of the Covered IHC's outstanding eligible Covered IHC long-term debt amount to total risk-weighted assets.
+(C) The ratio (expressed as a percentage) of the Covered IHC's outstanding eligible Covered IHC long-term debt amount plus 50 percent of the amount of unpaid principal of outstanding eligible Covered IHC debt securities issued by the Covered IHC due to be paid in, as calculated in § 252.162(b)(2), greater than or equal to 365 days (one year) but less than 730 days (two years) to total risk-weighted assets.
 
 (ii)(A) Notwithstanding paragraph (d)(3)(i) of this section, with respect to a resolution Covered IHC, if the ratio (expressed as a percentage) of the resolution Covered IHC's Covered IHC total loss-absorbing capacity amount, as calculated under § 252.165(a), to the resolution Covered IHC's risk-weighted assets is less than or equal to, 18 percent, the Covered IHC's Covered IHC TLAC buffer level is zero.
 
@@ -74,8 +72,6 @@ Link to an amendment published at 86 FR 738, Jan. 6, 2021.
 
 (iv) Notwithstanding the limitations in paragraphs (d)(4)(i) through (iii) of this section, the Board may permit a Covered IHC to make a distribution or discretionary bonus payment upon a request of the Covered IHC, if the Board determines that the distribution or discretionary bonus payment would not be contrary to the purposes of this section, or to the safety and soundness of the Covered IHC. In making such a determination, the Board will consider the nature and extent of the request and the particular circumstances giving rise to the request.
 
-Table 1 to § 252.165 - Calculation of Maximum Covered IHC TLAC Payout Amount
-
 |                                               Covered IHC TLAC buffer level                                               |Maximum Covered IHC TLAC payout ratio  <br/>(as a percentage of eligible retained income)|
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 |                                         Greater than the Covered IHC TLAC buffer                                          |                           No payout ratio limitation applies.                           |
@@ -88,4 +84,4 @@ Table 1 to § 252.165 - Calculation of Maximum Covered IHC TLAC Payout Amount
 
 (B) Additional limitations on distributions may apply to a Covered IHC under 12 CFR 225.4, 225.8, and 263.202.
 
-[82 FR 8311, Jan. 24, 2017, as amended at 85 FR 17006, Mar. 26, 2020]
+[82 FR 8311, Jan. 24, 2017, as amended at 85 FR 17006, Mar. 26, 2020; 86 FR 738, Jan. 6, 2021]

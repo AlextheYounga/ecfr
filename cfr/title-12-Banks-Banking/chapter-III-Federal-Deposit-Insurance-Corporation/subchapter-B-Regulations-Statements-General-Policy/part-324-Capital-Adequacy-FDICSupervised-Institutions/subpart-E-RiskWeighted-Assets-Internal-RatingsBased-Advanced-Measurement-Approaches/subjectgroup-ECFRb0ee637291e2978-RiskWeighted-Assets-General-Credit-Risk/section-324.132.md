@@ -1,7 +1,5 @@
 ##### § 324.132 Counterparty credit risk of repo-style transactions, eligible margin loans, and OTC derivative contracts. #####
 
-Link to an amendment published at 86 FR 745, Jan. 6, 2021.
-
 (a) *Methodologies for collateral recognition.* (1) Instead of an LGD estimation methodology, an FDIC-supervised institution may use the following methodologies to recognize the benefits of financial collateral in mitigating the counterparty credit risk of repo-style transactions, eligible margin loans, collateralized OTC derivative contracts and single product netting sets of such transactions, and to recognize the benefits of any collateral in mitigating the counterparty credit risk of repo-style transactions that are included in an FDIC-supervised institution's VaR-based measure under subpart F of this part:
 
 (i) The collateral haircut approach set forth in paragraph (b)(2) of this section;
@@ -195,9 +193,9 @@ Table 1 to § 324.132 - Standard Supervisory Market Price Volatility Haircuts<su
 
 (ii) *Aggregated amount.* The aggregated amount is the sum of all hedging set amounts, as calculated under paragraph (c)(8) of this section, within a netting set.
 
-(iii) *Multiple netting sets subject to a single variation margin agreement.* Notwithstanding paragraphs (c)(7)(i) and (ii) of this section and when calculating the potential future exposure for purposes of total leverage exposure under § 324.10(c)(4)(ii)(B), the potential future exposure for multiple netting sets subject to a single variation margin agreement must be calculated according to paragraph (c)(10)(ii) of this section.
+(iii) *Multiple netting sets subject to a single variation margin agreement.* Notwithstanding paragraphs (c)(7)(i) and (ii) of this section and when calculating the potential future exposure for purposes of total leverage exposure under § 324.10(c)(2)(ii)(B), the potential future exposure for multiple netting sets subject to a single variation margin agreement must be calculated according to paragraph (c)(10)(ii) of this section.
 
-(iv) *Netting set subject to multiple variation margin agreements or a hybrid netting set.* Notwithstanding paragraphs (c)(7)(i) and (ii) of this section and when calculating the potential future exposure for purposes of total leverage exposure under § 324.10(c)(4)(ii)(B), the potential future exposure for a netting set subject to multiple variation margin agreements or a hybrid netting set must be calculated according to paragraph (c)(11)(ii) of this section.
+(iv) *Netting set subject to multiple variation margin agreements or a hybrid netting set.* Notwithstanding paragraphs (c)(7)(i) and (ii) of this section and when calculating the potential future exposure for purposes of total leverage exposure under § 324.10(c)(2)(ii)(B), the potential future exposure for a netting set subject to multiple variation margin agreements or a hybrid netting set must be calculated according to paragraph (c)(11)(ii) of this section.
 
 (8) *Hedging set amount* - (i) *Interest rate derivative contracts.* To calculate the hedging set amount of an interest rate derivative contract hedging set, a FDIC-supervised institution may use either of the formulas provided in paragraphs (c)(8)(i)(A) and (B) of this section:
 
@@ -589,4 +587,4 @@ Table 4 to § 324.132 - Assignment of Counterparty Weight
 
 (B) The notional weighted average maturity of all transactions in the netting set.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20761, Apr. 14, 2014; 80 FR 41424, July 15, 2015; 85 FR 4434, Jan. 24, 2020; 85 FR 57963, Sept. 17, 2020]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20761, Apr. 14, 2014; 80 FR 41424, July 15, 2015; 85 FR 4434, Jan. 24, 2020; 85 FR 57963, Sept. 17, 2020; 86 FR 745, Jan. 6, 2021]

@@ -1,7 +1,5 @@
 ##### § 5.21 Federal mutual savings association charter and bylaws. #####
 
-Link to an amendment published at 85 FR 83726, Dec. 22, 2020.
-
 (a) *Authority.* 12 U.S.C. 1462a, 1463, 1464, and 2901 *et seq.*
 
 (b) *Licensing requirements.* A Federal mutual savings association must file an application, notice, or other filing as prescribed by this section when adopting or amending its charter or bylaws.
@@ -38,7 +36,7 @@ Attest:Secretary of the AssociationBy:President or Chief Executive Officer of th
 
 (1) *Board of directors approval.* The board of directors of the association must adopt a resolution proposing the charter amendment that states the text of such amendment;
 
-(2) *Form of filing* - (i) *Application requirement.* Except as provided in paragraph (f)(2)(ii) of this section, a Federal mutual savings association must file the proposed charter amendment with, and obtain the prior approval of, the OCC.
+(2) *Form of filing*—(i) *Application requirement.* Except as provided in paragraph (f)(2)(ii) of this section, a Federal mutual savings association must file the proposed charter amendment with, and obtain the prior approval of, the OCC.
 
 (A) *Expedited review.* Except as provided in paragraph (f)(2)(i)(B) of this section, the charter amendment will be deemed approved as of the 30th day after filing, unless the OCC notifies the filer that the amendment is denied or that the amendment contains procedures of the type described in paragraph (f)(2)(i)(B) of this section and is not eligible for expedited review, provided the association follows the requirements of its charter in adopting the amendment.
 
@@ -64,7 +62,7 @@ Attest:Secretary of the AssociationBy:President or Chief Executive Officer of th
 
 (i) *Availability of chartering documents.* A Federal mutual savings association must make available a true copy of its charter and bylaws and all amendments thereto to accountholders at all times in each office of the savings association, and must upon request deliver to any accountholders a copy of such charter and bylaws or amendments thereto.
 
-(j) *Bylaws for Federal mutual savings associations* - (1) *In general.* A Federal mutual savings association must operate under bylaws that contain provisions that comply with all requirements specified by the OCC in this paragraph and that are not otherwise inconsistent with the provisions of this paragraph; the association's charter; and all other applicable laws, rules, and regulations *provided that,* a bylaw provision inconsistent with the provisions of this paragraph may be adopted with the approval of the OCC. Bylaws may be adopted, amended or repealed by a majority of the votes cast by the members at a legal meeting or a majority of the association's board of directors. The bylaws for a Federal mutual savings bank must substitute the term “savings bank” for “association”. The term “trustee” may be substituted for the term “director”.
+(j) *Bylaws for Federal mutual savings associations*—(1) *In general.* A Federal mutual savings association must operate under bylaws that contain provisions that comply with all requirements specified by the OCC in this paragraph and that are not otherwise inconsistent with the provisions of this paragraph; the association's charter; and all other applicable laws, rules, and regulations *provided that,* a bylaw provision inconsistent with the provisions of this paragraph may be adopted with the approval of the OCC. Bylaws may be adopted, amended or repealed by a majority of the votes cast by the members at a legal meeting or a majority of the association's board of directors. The bylaws for a Federal mutual savings bank must substitute the term “savings bank” for “association”. The term “trustee” may be substituted for the term “director”.
 
 (2) *Requirements.* The following requirements are applicable to Federal mutual savings associations:
 
@@ -72,7 +70,7 @@ Attest:Secretary of the AssociationBy:President or Chief Executive Officer of th
 
 (B) At each annual meeting, the officers must make a full report of the financial condition of the association and of its progress for the preceding year and must outline a program for the succeeding year.
 
-(C) If the association's bylaws provide for telephonic or electronic participation in member meetings, the association must follow the procedures for telephonic or electronic participation of the State corporate governance procedures it is permitted to elect pursuant to paragraph (j)(3)(ii) of this section, if those State corporate governance procedures include telephonic or electronic participation procedures; the Delaware General Corporation Law, Del. Code Ann. Tit. 8 (1991, as amended 1994, and as amended thereafter) (with “member” substituting for “stockholder”); or the Model Business Corporation Act (with “member” substituting for “shareholder”), provided, however, that such procedures are not inconsistent with applicable Federal statutes and regulations and safety and soundness. The association must indicate the use of these procedures in its bylaws.
+(C) If the association's bylaws provide for telephonic or electronic participation in member meetings, the association must follow the procedures for telephonic or electronic participation of the State corporate governance provisions it is permitted to elect pursuant to paragraph (j)(3)(ii) of this section, if those State corporate governance provisions include telephonic or electronic participation procedures; the Delaware General Corporation Law, Del. Code Ann. Tit. 8 (1991, as amended 1994, and as amended thereafter) (with “member” substituting for “stockholder”); or the Model Business Corporation Act (with “member” substituting for “shareholder”), provided, however, that such procedures are not inconsistent with applicable Federal statutes and regulations and safety and soundness. The association must indicate the use of these procedures in its bylaws.
 
 (ii) *Special meetings of members.* Procedures for calling any special meeting of the members and for conducting such a meeting must be set forth in the bylaws. The board of directors of the association or the holders of 10 percent or more of the voting capital must be entitled to call a special meeting. The association's bylaws may provide for telephonic or electronic participation of members at a special meeting pursuant to the procedures specified in paragraph (j)(2)(i)(C) of this section. Members participating in a special meeting telephonically or electronically will be deemed present in person for purposes of the quorum requirement in paragraph (j)(2)(v) of this section. For purposes of this paragraph, “voting capital” means FDIC-insured deposits as of the voting record date.
 
@@ -122,13 +120,13 @@ Attest:Secretary of the AssociationBy:President or Chief Executive Officer of th
 
 (xvi) *Miscellaneous.* The bylaws also may address any other subjects necessary or appropriate for effective operation of the association.
 
-(3) *Form of filing* - (i) *Application requirement.* Except as provided in paragraphs (j)(3)(ii) or (j)(3)(iii) of this section, a Federal mutual savings association must file the proposed bylaw amendment with, and obtain the prior approval of, the OCC.
+(3) *Form of filing*—(i) *Application requirement.* Except as provided in paragraphs (j)(3)(ii) or (j)(3)(iii) of this section, a Federal mutual savings association must file the proposed bylaw amendment with, and obtain the prior approval of, the OCC.
 
 (A) *Expedited review.* Except as provided in paragraph (j)(3)(i)(B) of this section, the bylaw amendment will be deemed approved as of the 30th day after filing, unless the OCC notifies the filer that the bylaw amendment is denied or that the amendment contains procedures of the type described in paragraph (j)(3)(i)(B) of this section and is not eligible for expedited review, provided the association follows the requirements of its charter and bylaws in adopting the amendment.
 
 (B) *Amendments not subject to expedited review.* A bylaw amendment is not subject to expedited review if it would render more difficult or discourage a merger, proxy contest, the assumption of control by a mutual account holder of the association, or the removal of incumbent management; involve a significant issue of law or policy, including indemnification, conflicts of interest, and limitations on director or officer liability; or be inconsistent with the requirements of this paragraph or with applicable laws, rules, regulations, or the association's charter.
 
-(ii) *Corporate governance election and notice requirement.* A Federal mutual association may elect to follow the corporate governance procedures of the laws of the State where the home office of the institution is located, provided that such procedures are not inconsistent with applicable Federal statutes, regulations, and safety and soundness, and such procedures are not of the type described in paragraph (j)(3)(i)(B) of this section. If this election is selected, a Federal mutual association must designate in its bylaws the provision or provisions from the body of law selected for its corporate governance procedures, and must submit a notice containing a copy of such bylaws, within 30 days after adoption. The notice must indicate, where not obvious, why the bylaw provisions meet the requirements stated in paragraph (j)(3)(i)(B) of this section.
+(ii) *Corporate governance election and notice requirement.* A Federal mutual association may elect to follow the corporate governance provisions of the laws of any State in which the home office or any branch of the association is located, provided that such provisions are not inconsistent with applicable Federal statutes, regulations, and safety and soundness, and such provisions are not of the type described in paragraph (j)(3)(i)(B) of this section. If this election is selected, a Federal mutual association must designate in its bylaws the provision or provisions from the body of law selected for its corporate governance provisions, and must submit a notice containing a copy of such bylaws, within 30 days after adoption. The notice must indicate, where not obvious, why the bylaw provisions meet the requirements stated in paragraph (j)(3)(i)(B) of this section.
 
 (iii) *No filing required.* No filing is required for purposes of paragraph (j)(3) of this section if a bylaw amendment adopts the language of the OCC's model or optional bylaws without change.
 
@@ -136,4 +134,4 @@ Attest:Secretary of the AssociationBy:President or Chief Executive Officer of th
 
 (5) *Effect of subsequent charter or bylaw change.* Notwithstanding any subsequent change to its charter or bylaws, the authority of a Federal mutual savings association to engage in any transaction is determined only by the association's charter or bylaws then in effect.
 
-[80 FR 28421, May 18, 2015, as amended at 82 FR 8103, Jan. 23, 2017; 85 FR 31948, May 28, 2020; 85 FR 80437, Dec. 11, 2020]
+[80 FR 28421, May 18, 2015, as amended at 82 FR 8103, Jan. 23, 2017; 85 FR 31948, May 28, 2020; 85 FR 80437, Dec. 11, 2020; 85 FR 83726, Dec. 22, 2020]

@@ -1,11 +1,5 @@
-##### § 7.1021 National bank participation in financial literacy programs. #####
+##### § 7.1021 Financial literacy programs not branches of national banks. #####
 
-Link to an amendment published at 85 FR 83729, Dec. 22, 2020.
+A financial literacy program is a program the principal purpose of which is to be educational for members of the community. The premises of, or a facility used by, a school or other organization at which a national bank participates in a financial literacy program is not a branch for purposes of 12 U.S.C. 36 provided the bank does not establish and operate the premises or facility. The OCC considers establishment and operation in this context on a case by case basis, considering the facts and circumstances. However, the premises or facility is not a branch of the national bank if the safe harbor test in § 7.1012(c)(2) applicable to messenger services established by third parties is satisfied. The factor discussed in § 7.1012(c)(2)(i) can be met if bank employee participation in the financial literacy program consists of managing the program or conducting or engaging in financial education activities provided the school or other organization retains control over the program and over the premises or facilities at which the program is held.
 
-A national bank may participate in a financial literacy program on the premises of, or at a facility used by, a school. The school premises or facility will not be considered a branch of the bank if:
-
-(a) The bank does not establish and operate the school premises or facility on which the financial literacy program is conducted; and
-
-(b) The principal purpose of the financial literacy program is educational. For example, a program is educational if it is designed to teach students the principles of personal economics or the benefits of saving for the future, and is not designed for the purpose of profit-making.
-
-[66 FR 34791, July 2, 2001]
+[85 FR 83729, Dec. 22, 2020]

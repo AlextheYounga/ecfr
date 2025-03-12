@@ -1,0 +1,5 @@
+##### § 354.3 Written agreement. #####
+
+(a) No industrial bank may become a subsidiary of a Covered Company unless the Covered Company enters into one or more written agreements with both the Federal Deposit Insurance Corporation (FDIC) and the subsidiary industrial bank, which contain commitments by the Covered Company to comply with each of paragraphs (a)(1) through (8) in § 354.4 and such other written agreements, commitments, or restrictions as the FDIC deems appropriate, including, but not limited to, the provisions of §§ 354.4 and 354.5.
+
+(b) The FDIC may, at its sole discretion, condition a grant of deposit insurance, issuance of a non-objection to a change in control, or approval of a merger on an individual who is a controlling shareholder of a Covered Company joining as a party to any written agreement required by paragraph (a) of this section.

@@ -4,7 +4,7 @@ The definitions and interpretations of terms in sections 201 and 510 of the Fede
 
 *Active pharmaceutical ingredient* means any substance that is intended for incorporation into a finished drug product and is intended to furnish pharmacological activity or other direct effect in the diagnosis, cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body. Active pharmaceutical ingredient does not include intermediates used in the synthesis of the substance.
 
-*Bulk drug substance,* as referenced in sections 503A(b)(1)(A) and 503B(a)(2) of the Federal Food, Drug, and Cosmetic Act, means the same as “active pharmaceutical ingredient” as defined in § 207.1(b).
+*Bulk drug substance,* as referenced in sections 503A(b)(1)(A) and 503B(a)(2) of the Federal Food, Drug, and Cosmetic Act, means the same as “active pharmaceutical ingredient” as defined in this section.
 
 *Commercial distribution* means any distribution of a human drug, except for investigational use under part 312 of this chapter, and any distribution of an animal drug or an animal feed bearing or containing an animal drug, except for investigational use under part 511 of this chapter. The term does not include internal or interplant transfer between registered establishments under common ownership and control, including a parent, subsidiary, or affiliate company. For foreign establishments that manufacture, repack, relabel, or salvage, or for foreign private label distributors, the term “commercial distribution” has the same meaning except the term does not include distribution of any drug that is neither imported nor offered for import into the United States.
 
@@ -69,3 +69,5 @@ The definitions and interpretations of terms in sections 201 and 510 of the Fede
 *Salvager* means a person who owns or operates an establishment that engages in salvaging. When not modified by “domestic” or “foreign,” the term includes both domestic and foreign salvagers.
 
 *Unfinished drug* means an active pharmaceutical ingredient either alone or together with one or more other ingredients but does not include finished drug products.
+
+[81 FR 60212, Aug. 31, 2016, as amended at 86 FR 17061, Apr. 1, 2021]

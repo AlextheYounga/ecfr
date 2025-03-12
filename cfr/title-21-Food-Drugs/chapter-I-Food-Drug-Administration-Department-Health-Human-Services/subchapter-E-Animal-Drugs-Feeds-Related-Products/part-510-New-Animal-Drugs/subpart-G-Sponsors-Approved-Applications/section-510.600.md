@@ -78,7 +78,9 @@
 |                     Piramal Enterprises Ltd., Ananta, Agastya Corporate Park, Opp Fire Brigade, Kamani Junction, LBS Mag Kurla (West), Mumbai, 400070, India                     |     065085      |
 |                           Planalquimica Industrial Ltda., Rua das Magnolias nr. 2405, Jardim das Bandeiras, CEP 13053-120, Campinas, Sao Paulo, Brazil                           |     060728      |
 |                                                  Purina Animal Nutrition LLC, 1080 County Road F West, Shoreview, MN 55126-2910                                                  |     017800      |
+|                                           QBiotics Group Ltd., Suite 3A, Level 1, 165 Moggill Rd., Taringa, Queensland 4068, Australia                                           |     086132      |
 |                                                         Quo Vademus, LLC, 277 Faison McGowan Rd., Kenansville, NC 28349                                                          |     076475      |
+|                            Revivicor, Inc., a wholly owned subsidiary of United Therapeutics Corp., 1700 Kraft Dr., Suite 2400, Blacksburg, VA 24060                             |     086134      |
 |                                                         Ridley USA, Inc., 111 W Cherry St., Suite 500, Mankato, MN 56001                                                         |     067949      |
 |                                                     Sergeant's Pet Care Products, Inc., 10077 S. 134th St., Omaha, NE 68138                                                      |     021091      |
 |                                                     Sparhawk Laboratories, Inc., 12340 Santa Fe Trail Dr., Lenexa, KS 66215                                                      |     058005      |
@@ -192,6 +194,8 @@
 |     086101      |                                                    Felix Pharmaceuticals Pvt. Ltd., 25-28 North Wall Quay, Dublin 1, Ireland.                                                     |
 |     086106      |                                                              Union Agener, Inc., 1788 Lovers Ln., Augusta, GA 30901.                                                              |
 |     086113      |                                                               Wildcat Feeds, 215 NE Strait Ave., Topeka, KS 66616.                                                                |
+|     086132      |                                           QBiotics Group Ltd., Suite 3A, Level 1, 165 Moggill Rd., Taringa, Queensland 4068, Australia.                                           |
+|     086134      |                            Revivicor, Inc., a wholly owned subsidiary of United Therapeutics Corp., 1700 Kraft Dr., Suite 2400, Blacksburg, VA 24060.                             |
 |     099207      |                                                    Bausch Health US, LLC, 400 Somerset Corporate Blvd., Bridgewater, NJ 08807.                                                    |
 
 [40 FR 13807, Mar. 27, 1975]Editorial Notes:1. For Federal Register citations affecting § 510.600, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

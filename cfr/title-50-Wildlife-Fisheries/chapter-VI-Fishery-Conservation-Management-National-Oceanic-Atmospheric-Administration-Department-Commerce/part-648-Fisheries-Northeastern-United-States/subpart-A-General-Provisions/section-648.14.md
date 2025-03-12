@@ -90,7 +90,7 @@
 
 (2) *Vessel and operator permit holders.* Unless participating in a research activity as described in § 648.22(g), it is unlawful for any person owning or operating a vessel issued a valid Atlantic mackerel, *Illex* squid, longfin squid, or butterfish fishery permit, or issued an operator's permit, to do any of the following:
 
-(i) *General requirement.* Fail to comply with any measures implemented pursuant to § 648.22.
+(i) *General requirement.* Fail to comply with any measures implemented pursuant to subpart B of this part.
 
 (ii) *Possession and landing.* (A) Possess more than the incidental catch allowance of longfin squid, unless issued a longfin squid moratorium permit.
 
@@ -219,7 +219,9 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (vii) *Scallop sectors.* Fail to comply with any of the requirements or restrictions for general category scallop sectors specified in § 648.63.
 
-(viii) [Reserved]
+(viii) *Scallop research.* (A) Fail to comply with any of the provisions specified in § 648.56 or the conditions of a letter of authorization issued under § 648.56.
+
+(B) Fish for scallops in, or possess or land scallops from the NGOM, unless allocated NGOM RSA allocation as described in § 648.56(d) and fishing on a scallop research set aside compensation trip.
 
 (ix) *Observer program.* (A) Refuse, or fail, to carry onboard an observer after being requested to by the Regional Administrator or the Regional Administrator's designee.
 
@@ -301,7 +303,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (vii) *State waters exemption program.* Fail to comply with any requirement for participating in the State Waters Exemption Program specified in § 648.54.
 
-(viii) Fish for scallops in, or possess scallops or land scallops from, the yellowtail flounder accountability measure closed areas specified in § 648.64 during the period specified in the notice announcing the closure and based on the closure table specified in § 648.64.
+(viii) [Reserved]
 
 (ix) Fish for scallops in the Mid-Atlantic Accountability Measure Area, described in § 648.64(b)(2) with gear that does not meet the specifications described in § 648.64(c) during the period specified in the notice announcing the Southern New England/Mid-Atlantic Yellowtail Flounder or the Southern Windowpane Flounder Gear Restricted Area described in § 648.64(e) and (g), respectively.
 
@@ -1085,9 +1087,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (*5*) Unless otherwise specified in § 648.17.
 
-(B) Fish for, possess, transfer, receive, or sell; or attempt to fish for, possess, transfer, receive, or sell; more than 2,000 lb (907.2 kg) of herring per trip; or land, or attempt to land more than 2,000 lb (907.2 kg) of herring per day in or from a management area closed pursuant to § 648.201(a), or from a river herring and shad catch cap closure area that has been closed to specified gear pursuant to § 648.201(a)(4)(ii), if the vessel has been issued and holds a valid herring permit.
-
-(C) Possess or land more herring than is allowed by the vessel's Atlantic herring permit or the most restrictive herring possession limit associated with the permits issued to vessels working cooperatively, including vessels pair trawling, purse seining, or transferring herring at-sea.
+(B) Attempt or do any of the following: Fish for, possess, transfer, receive, or sell; more than the possession limits specified at § 648.201(a) during a management area closure, or from a river herring and shad catch cap closure area that has been closed to specified gear pursuant to § 648.201(a)(4)(ii), if the vessel has been issued and holds a valid herring permit.
 
 (iii) *Processing requirements.* (A) Process herring that was caught in or from the EEZ by a U.S. vessel that exceeds the size limits specified in § 648.4(a)(10)(iii), in excess of the specification of USAP.
 

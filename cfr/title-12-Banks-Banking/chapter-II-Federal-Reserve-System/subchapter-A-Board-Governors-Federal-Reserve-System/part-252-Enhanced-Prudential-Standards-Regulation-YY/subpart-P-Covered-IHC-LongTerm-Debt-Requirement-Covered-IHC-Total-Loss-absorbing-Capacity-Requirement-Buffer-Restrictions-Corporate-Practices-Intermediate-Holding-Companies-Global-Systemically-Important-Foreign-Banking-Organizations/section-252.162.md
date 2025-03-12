@@ -1,7 +1,5 @@
 ##### § 252.162 Covered IHC long-term debt requirement. #####
 
-Link to an amendment published at 86 FR 738, Jan. 6, 2021.
-
 (a) *Covered IHC long-term debt requirement.* A Covered IHC must have an outstanding eligible Covered IHC long-term debt amount that is no less than the amount equal to the greatest of:
 
 (1) 6 percent of the Covered IHC's total risk-weighted assets;
@@ -12,11 +10,11 @@ Link to an amendment published at 86 FR 738, Jan. 6, 2021.
 
 (b) *Outstanding eligible Covered IHC long-term debt amount.* (1) A Covered IHC's outstanding eligible Covered IHC long-term debt amount is the sum of:
 
-(i) One hundred (100) percent of the amount of the outstanding eligible Covered IHC debt securities issued by the Covered IHC due to be paid in greater than or equal to 730 days (two years); and
+(i) One hundred (100) percent of the amount due to be paid of unpaid principal of the outstanding eligible Covered IHC debt securities issued by the Covered IHC in greater than or equal to 730 days (two years); and
 
-(ii) Fifty (50) percent of the amount of the outstanding eligible Covered IHC debt securities issued by the Covered IHC due to be paid in greater than or equal to 365 days (one year) and less than 730 days (two years); and
+(ii) Fifty (50) percent of the amount due to be paid of unpaid principal of the outstanding eligible Covered IHC debt securities issued by the Covered IHC in greater than or equal to 365 days (one year) and less than 730 days (two years); and
 
-(iii) Zero (0) percent of the amount of the outstanding eligible Covered IHC debt securities issued by the Covered IHC due to be paid in less than 365 days (one year).
+(iii) Zero (0) percent of the amount due to be paid of unpaid principal of the outstanding eligible Covered IHC debt securities issued by the Covered IHC in less than 365 days (one year).
 
 (2) For purposes of paragraph (b)(1) of this section, the date on which principal is due to be paid on an outstanding eligible Covered IHC debt security is calculated from the earlier of:
 
@@ -27,3 +25,5 @@ Link to an amendment published at 86 FR 738, Jan. 6, 2021.
 (3) After notice and response proceedings consistent with 12 CFR part 263, subpart E, the Board may order a Covered IHC to exclude from its outstanding eligible Covered IHC long-term debt amount any debt security with one or more features that would significantly impair the ability of such debt security to take losses.
 
 (c) *Redemption and repurchase.* Without the prior approval of the Board, a Covered IHC may not redeem or repurchase any outstanding eligible Covered IHC debt security if, immediately after the redemption or repurchase, the Covered IHC would not have an outstanding eligible Covered IHC long-term debt amount that is sufficient to meet its Covered IHC long-term debt requirement under paragraph (a) of this section.
+
+[82 FR 8311, Jan. 24, 2017, as amended at 86 FR 738, Jan. 6, 2021]

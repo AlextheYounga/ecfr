@@ -1,7 +1,5 @@
 ##### § 252.63 External total loss-absorbing capacity requirement and buffer. #####
 
-Link to an amendment published at 86 FR 738, Jan. 6, 2021.
-
 (a) *External total loss-absorbing capacity requirement.* A global systemically important BHC must maintain an outstanding external total loss-absorbing capacity amount that is no less than the amount equal to the greater of:
 
 (1) 18 percent of the global systemically important BHC's total risk-weighted assets; and
@@ -16,7 +14,7 @@ Link to an amendment published at 86 FR 738, Jan. 6, 2021.
 
 (3) The global systemically important BHC's outstanding eligible external long-term debt amount plus 50 percent of the amount due to be paid of unpaid principal of outstanding eligible debt securities issued by the global systemically important BHC in, as calculated in § 252.62(b)(2), greater than or equal to 365 days (one year) but less than 730 days (two years).
 
-(c) *External TLAC buffer* - (1) *Composition of the external TLAC risk-weighted buffer.* The external TLAC risk-weighted buffer is composed solely of common equity tier 1 capital.
+(c) *External TLAC buffer*—(1) *Composition of the external TLAC risk-weighted buffer.* The external TLAC risk-weighted buffer is composed solely of common equity tier 1 capital.
 
 (2) *Definitions.* For purposes of this paragraph, the following definitions apply:
 
@@ -40,7 +38,7 @@ Link to an amendment published at 86 FR 738, Jan. 6, 2021.
 
 (B) The ratio (expressed as a percentage) of the global systemically important BHC's additional tier 1 capital (excluding any tier 1 minority interest) to its total risk-weighted assets; and minus
 
-(C) The ratio (expressed as a percentage) of the global systemically important BHC's outstanding eligible external long-term debt amount to total risk-weighted assets.
+(C) The ratio (expressed as a percentage) of the global systemically important BHC's outstanding eligible external long-term debt amount plus 50 percent of the amount of unpaid principal of outstanding eligible debt securities issued by the global systemically important BHC due to be paid in, as calculated in § 252.62(b)(2), greater than or equal to 365 days (one year) but less than 730 days (two years) to total risk-weighted assets.
 
 (ii) Notwithstanding paragraph (c)(3)(i) of this section, if the ratio (expressed as a percentage) of a global systemically important BHC's external total loss-absorbing capacity amount as calculated under paragraph (b) of this section to its risk-weighted assets is less than or equal to 18 percent, the global systemically important BHC's external TLAC risk-weighted buffer level is zero.
 
@@ -60,7 +58,7 @@ Link to an amendment published at 86 FR 738, Jan. 6, 2021.
 
 (B) Additional limitations on distributions may apply to a global systemically important BHC under 12 CFR 225.4, 225.8, and 263.202.
 
-(5) *External TLAC leverage buffer* - (i) *General.* A global systemically important BHC is subject to the lower of the maximum external TLAC risk-weighted payout amount as determined under paragraph (c)(2)(iii) of this section and the maximum external TLAC leverage payout amount as determined under paragraph (c)(2)(v) of this section.
+(5) *External TLAC leverage buffer*—(i) *General.* A global systemically important BHC is subject to the lower of the maximum external TLAC risk-weighted payout amount as determined under paragraph (c)(2)(iii) of this section and the maximum external TLAC leverage payout amount as determined under paragraph (c)(2)(v) of this section.
 
 (ii) *Composition of the external TLAC leverage buffer.* The external TLAC leverage buffer is composed solely of tier 1 capital.
 
@@ -68,11 +66,9 @@ Link to an amendment published at 86 FR 738, Jan. 6, 2021.
 
 (*1*) 7.5 percent; minus
 
-(*2*) The ratio (expressed as a percentage) of the global systemically important BHC's outstanding eligible external long-term debt amount to total leverage exposure.
+(*2*) The ratio (expressed as a percentage) of the global systemically important BHC's outstanding eligible external long-term debt amount plus 50 percent of the amount of unpaid principal of outstanding eligible debt securities issued by the global systemically important BHC due to be paid in in, as calculated in § 252.62(b)(2), greater than or equal to 365 days (one year) but less than 730 days (two years) to total leverage exposure.
 
 (B) Notwithstanding paragraph (c)(5)(iii) of this section, if the ratio (expressed as a percentage) of a global systemically important BHC's external total loss-absorbing capacity amount as calculated under paragraph (b) of this section to its total leverage exposure is less than or equal to 7.5 percent, the global systemically important BHC's external TLAC leverage buffer level is zero.
-
-Table 1 to § 252.63 - Calculation of Maximum External TLAC Risk-Weighted Payout Amount
 
 |                                                    External TLAC risk-weighted buffer level                                                     |Maximum External TLAC risk-weighted payout ratio  <br/>(as a percentage of eligible  <br/>retained income)|
 |-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -82,8 +78,6 @@ Table 1 to § 252.63 - Calculation of Maximum External TLAC Risk-Weighted Payout
 |  Less than or equal to 50 percent of the external TLAC risk-weighted buffer, and greater 25 percent of the external TLAC risk-weighted buffer   |                                               20 percent.                                                |
 |                                   Less than or equal to 25 percent of the external TLAC risk-weighted buffer                                    |                                                0 percent.                                                |
 
-Table 2 to § 252.63 - Calculation of Maximum External TLAC Leverage Payout Amount
-
 |              External TLAC leverage buffer level              |Maximum External TLAC leverage payout ratio  <br/>(as a percentage of eligible retained income)|
 |---------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 |                   Greater than 2.0 percent                    |                              No payout ratio limitation applies.                              |
@@ -92,4 +86,4 @@ Table 2 to § 252.63 - Calculation of Maximum External TLAC Leverage Payout Amou
 |Less than or equal to 1.0 percent, and greater than 0.5 percent|                                          20 percent.                                          |
 |               Less than or equal to 0.5 percent               |                                          0 percent.                                           |
 
-[82 FR 8306, Jan. 24, 2017, as amended at 85 FR 17006, Mar. 26, 2020]
+[82 FR 8306, Jan. 24, 2017, as amended at 85 FR 17006, Mar. 26, 2020; 86 FR 738, Jan. 6, 2021]

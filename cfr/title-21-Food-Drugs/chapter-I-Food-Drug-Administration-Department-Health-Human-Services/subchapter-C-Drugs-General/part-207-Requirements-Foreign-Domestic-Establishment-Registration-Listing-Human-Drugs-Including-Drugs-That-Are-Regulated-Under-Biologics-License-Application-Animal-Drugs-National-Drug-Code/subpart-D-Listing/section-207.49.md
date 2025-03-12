@@ -40,15 +40,15 @@
 
 (15) For drugs bearing the NDC(s) reported under paragraph (a)(1) of this section, except those drugs manufactured exclusively for private label distribution and not distributed under the registrant's own name and label, provide the following labeling, as applicable:
 
-(i) *Human prescription drugs.* All current labeling except that only one representative container or carton label need be submitted where differences exist only in the quantity of contents statement or the bar code. This labeling submission must include the content of labeling, as defined in § 207.1(b).
+(i) *Human prescription drugs.* All current labeling except that only one representative container or carton label need be submitted where differences exist only in the quantity of contents statement or the bar code. This labeling submission must include the content of labeling, as defined in § 207.1.
 
-(ii) *Human nonprescription drugs.* (A) For each human nonprescription drug subject to section 505 of the Federal Food, Drug, and Cosmetic Act or section 351 of the Public Health Service Act, all current labeling, except that only one representative container or carton label need be submitted where differences exist only in the quantity of contents statement or the bar code. This labeling submission must include the content of labeling, as defined in § 207.1(b).
+(ii) *Human nonprescription drugs.* (A) For each human nonprescription drug subject to section 505 of the Federal Food, Drug, and Cosmetic Act or section 351 of the Public Health Service Act, all current labeling, except that only one representative container or carton label need be submitted where differences exist only in the quantity of contents statement or the bar code. This labeling submission must include the content of labeling, as defined in § 207.1.
 
-(B) For each human nonprescription drug not subject to section 505 of the Federal Food, Drug, and Cosmetic Act or section 351 of the Public Health Service Act, the current label (except that only one representative container or carton label need be submitted where differences exist only in the quantity of contents statement or the bar code), the package insert (if any), and a representative sampling of any other labeling. This labeling submission must include the content of labeling as defined in section § 207.1(b).
+(B) For each human nonprescription drug not subject to section 505 of the Federal Food, Drug, and Cosmetic Act or section 351 of the Public Health Service Act, the current label (except that only one representative container or carton label need be submitted where differences exist only in the quantity of contents statement or the bar code), the package insert (if any), and a representative sampling of any other labeling. This labeling submission must include the content of labeling as defined in section § 207.1.
 
-(iii) *Animal drugs.* (A) For each animal drug that is subject to section 512 of the Federal Food, Drug, and Cosmetic Act, which includes, but is not limited to, new animal drugs that have been approved, conditionally approved, or indexed under sections 512, 571, or 572 of the Federal Food, Drug, and Cosmetic Act, a copy of all current labeling (except that only one representative container or carton label need be submitted where differences exist only in the quantity of contents statement), including the content of labeling as defined in § 207.1(b);
+(iii) *Animal drugs.* (A) For each animal drug that is subject to section 512 of the Federal Food, Drug, and Cosmetic Act, which includes, but is not limited to, new animal drugs that have been approved, conditionally approved, or indexed under sections 512, 571, or 572 of the Federal Food, Drug, and Cosmetic Act, a copy of all current labeling (except that only one representative container or carton label need be submitted where differences exist only in the quantity of contents statement), including the content of labeling as defined in § 207.1;
 
-(B) For all other animal drugs, a copy of the current label (except that only one representative container or carton label need be submitted where differences exist only in the quantity of contents statement), the package insert, the content of labeling as defined in § 207.1(b), and a representative sampling of any other labeling;
+(B) For all other animal drugs, a copy of the current label (except that only one representative container or carton label need be submitted where differences exist only in the quantity of contents statement), the package insert, the content of labeling as defined in § 207.1, and a representative sampling of any other labeling;
 
 (iv) *All other listed drugs.* For all other listed drugs, including unfinished drugs, the label (if any), except that only one representative label need be submitted where differences exist only in the quantity of contents statement.
 
@@ -65,3 +65,5 @@
 (1) The drug's over-the-counter monograph reference, if any; and
 
 (2) The date on which the drug was or will be introduced into commercial distribution.
+
+[81 FR 60212, Aug. 31, 2016, as amended at 86 FR 17061, Apr. 1, 2021]

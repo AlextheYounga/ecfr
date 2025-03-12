@@ -1,3 +1,5 @@
-##### § 7.1027 xxx #####
+##### § 7.1027 Establishment and operation of a remote service unit by a national bank. #####
 
-Link to an amendment published at 85 FR 83731, Dec. 22, 2020.
+A remote service unit (RSU) is an automated or unstaffed facility, operated by a customer of a bank with at most delimited assistance from bank personnel, that conducts banking functions such as receiving deposits, paying withdrawals, or lending money. A national bank may establish and operate an RSU pursuant to 12 U.S.C. 24(Seventh). An RSU includes an automated teller machine, automated loan machine, automated device for receiving deposits, personal computer, telephone, other similar electronic devices, and drop boxes. An RSU may be equipped with a telephone or tele-video device that allows contact with bank personnel. An RSU is not a “branch” within the meaning of 12 U.S.C. 36(j), and is not subject to State geographic or operational restrictions or licensing laws.
+
+[85 FR 83731, Dec. 22, 2020]

@@ -10,6 +10,8 @@
 
 (2) No. 026637 for use of product described in paragraph (a)(1) as in paragraph (d)(1) of this section.
 
+(3) No. 051311 for use of product described in paragraph (a)(2) of this section as in paragraph (d)(1) of this section.
+
 (c) [Reserved]
 
 (d) *Conditions of use* - (1) *Dogs.* Use capsules described in paragraph (a)(1) of this section as follow:
@@ -28,4 +30,4 @@
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[68 FR 54804, Sept. 19, 2003, as amended at 76 FR 78815, Dec. 20, 2011; 84 FR 12493, Apr. 2, 2019]
+[68 FR 54804, Sept. 19, 2003, as amended at 76 FR 78815, Dec. 20, 2011; 84 FR 12493, Apr. 2, 2019; 86 FR 17063, Apr. 1, 2021]

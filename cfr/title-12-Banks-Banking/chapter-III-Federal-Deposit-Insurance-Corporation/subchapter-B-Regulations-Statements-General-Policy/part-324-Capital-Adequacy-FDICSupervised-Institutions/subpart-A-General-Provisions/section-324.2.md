@@ -1,12 +1,10 @@
 ##### § 324.2 Definitions. #####
 
-Link to an amendment published at 86 FR 739, Jan. 6, 2021.
-
 As used in this part:
 
 *Additional tier 1 capital* is defined in § 324.20(c).
 
-*Adjusted allowances for credit losses (AACL)* means, with respect to an FDIC-supervised institution that has adopted CECL, valuation allowances that have been established through a charge against earnings or retained earnings for expected credit losses on financial assets measured at amortized cost and a lessor's net investment in leases that have been established to reduce the amortized cost basis of the assets to amounts expected to be collected as determined in accordance with GAAP. For purposes of this part, adjusted allowances for credit losses include allowances for expected credit losses on off-balance sheet credit exposures not accounted for as insurance as determined in accordance with GAAP. Adjusted allowances for credit losses exclude “allocated transfer risk reserves” and allowances created that reflect credit losses on purchased credit deteriorated assets and available-for-sale debt securities.
+*Adjusted allowances for credit losses (AACL)* means, with respect to an FDIC-supervised institution that has adopted CECL, valuation allowances that have been established through a charge against earnings or retained earnings for expected credit losses on financial assets measured at amortized cost and a lessor's net investment in leases that have been established to reduce the amortized cost basis of the assets to amounts expected to be collected as determined in accordance with GAAP. For purposes of this part, adjusted allowances for credit losses include allowances for expected credit losses on off-balance sheet credit exposures not accounted for as insurance as determined in accordance with GAAP. Adjusted allowances for credit losses exclude “allocated transfer risk reserves” and allowances created that reflect credit losses on purchased credit deteriorated assets and available-for-sale dbt securities.
 
 *Advanced approaches FDIC-supervised institution* means an FDIC-supervised institution that is described in § 324.100(b)(1).
 
@@ -50,7 +48,7 @@ As used in this part:
 
 (2) When measured as of any other date, those assets:
 
-(i) That have been determined -
+(i) That have been determined—
 
 (A) By an evaluation made by a state or Federal examiner at the most recent examination of an FDIC-supervised institution to be a loss; or
 
@@ -249,6 +247,20 @@ As used in this part:
 (14) A Paycheck Protection Program covered loan as defined in section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)).
 
 *Country risk classification (CRC)* with respect to a sovereign, means the most recent consensus CRC published by the Organization for Economic Cooperation and Development (OECD) as of December 31st of the prior calendar year that provides a view of the likelihood that the sovereign will service its external debt.
+
+*Covered debt instrument* means an unsecured debt instrument that is:
+
+(1) Issued by a global systemically important BHC, as defined in 12 CFR 217.2, and that is an eligible debt security, as defined in 12 CFR 252.61, or that is *pari passu* or subordinated to any eligible debt security issued by the global systemically important BHC; or
+
+(2) Issued by a Covered IHC, as defined in 12 CFR 252.161, and that is an eligible Covered IHC debt security, as defined in 12 CFR 252.161, or that is *pari passu* or subordinated to any eligible Covered IHC debt security issued by the Covered IHC; or
+
+(3) Issued by a global systemically important banking organization, as defined in 12 CFR 252.2 other than a global systemically important BHC, as defined in 12 CFR 217.2; or issued by a subsidiary of a global systemically important banking organization that is not a global systemically important BHC, other than a Covered IHC, as defined in 12 CFR 252.161; and where,
+
+(i) The instrument is eligible for use to comply with an applicable law or regulation requiring the issuance of a minimum amount of instruments to absorb losses or recapitalize the issuer or any of its subsidiaries in connection with a resolution, receivership, insolvency, or similar proceeding of the issuer or any of its subsidiaries; or
+
+(ii) The instrument is *pari passu* or subordinated to any instrument described in paragraph (3)(i) of this definition; for purposes of this paragraph (3)(ii) of this definition, if the issuer may be subject to a special resolution regime, in its jurisdiction of incorporation or organization, that addresses the failure or potential failure of a financial company and any instrument described in paragraph (3)(i) of this definition is eligible under that special resolution regime to be written down or converted into equity or any other capital instrument, then an instrument is *pari passu* or subordinated to any instrument described in paragraph (3)(i) of this definition if that instrument is eligible under that special resolution regime to be written down or converted into equity or any other capital instrument ahead of or proportionally with any instrument described in paragraph (3)(i) of this definition; and
+
+(4) Provided that, for purposes of this definition, *covered debt instrument* does not include a debt instrument that qualifies as tier 2 capital pursuant to 12 CFR 324.20(d) or that is otherwise treated as regulatory capital by the primary supervisor of the issuer.
 
 *Covered savings and loan holding company* means a top-tier savings and loan holding company other than:
 
@@ -484,6 +496,12 @@ As used in this part:
 
 *Exchange rate derivative contract* means a cross-currency interest rate swap, forward foreign-exchange contract, currency option purchased, or any other instrument linked to exchange rates that gives rise to similar counterparty credit risks.
 
+*Excluded covered debt instrument* means an investment in a covered debt instrument held by an FDIC-supervised institution that is a subsidiary of a global systemically important BHC, as defined in 12 CFR 252.2, that:
+
+(1) Is held in connection with market making-related activities permitted under 12 CFR 351.4, provided that a direct exposure or an indirect exposure to a covered debt instrument is held for 30 business days or less; and
+
+(2) Has been designated as an excluded covered debt instrument by the FDIC-supervised institution that is a subsidiary of a global systemically important BHC, as defined in 12 CFR 252.2, pursuant to 12 CFR 324.22(c)(5)(iv)(A).
+
 *Executive officer* means a person who holds the title or, without regard to title, salary, or compensation, performs the function of one or more of the following positions: president, chief executive officer, executive chairman, chief operating officer, chief financial officer, chief investment officer, chief legal officer, chief lending officer, chief risk officer, or head of a major business line, and other staff that the board of directors of the FDIC-supervised institution deems to have equivalent responsibility.
 
 *Expected credit loss (ECL)* means:
@@ -522,7 +540,7 @@ As used in this part:
 
 *Federal Reserve* means the Board of Governors of the Federal Reserve System.
 
-*Fiduciary or custodial and safekeeping account* means, for purposes of § 324.10(c)(4)(ii)(J), an account administered by a custody bank for which the custody bank provides fiduciary or custodial and safekeeping services, as authorized by applicable Federal or state law.
+*Fiduciary or custodial and safekeeping account* means, for purposes of § 324.10(c)(2)(x), an account administered by a custody bank for which the custody bank provides fiduciary or custodial and safekeeping services, as authorized by applicable Federal or state law.
 
 *Financial collateral* means collateral:
 
@@ -614,7 +632,7 @@ As used in this part:
 
 *High volatility commercial real estate (HVCRE) exposure* means:
 
-(1) A credit facility secured by land or improved real property that, prior to being reclassified by the FDIC-supervised institution as a non-HVCRE exposure pursuant to paragraph (6) of this definition -
+(1) A credit facility secured by land or improved real property that, prior to being reclassified by the FDIC-supervised institution as a non-HVCRE exposure pursuant to paragraph (6) of this definition—
 
 (i) Primarily finances, has financed, or refinances the acquisition, development, or construction of real property;
 
@@ -622,9 +640,9 @@ As used in this part:
 
 (iii) Is dependent upon future income or sales proceeds from, or refinancing of, such real property for the repayment of such credit facility.
 
-(2) An HVCRE exposure does not include a credit facility financing -
+(2) An HVCRE exposure does not include a credit facility financing—
 
-(i) The acquisition, development, or construction of properties that are -
+(i) The acquisition, development, or construction of properties that are—
 
 (A) One- to four-family residential properties. Credit facilities that do not finance the construction of one- to four-family residential structures, but instead solely finance improvements such as the laying of sewers, water pipes, and similar improvements to land, do not qualify for the one- to four-family residential properties exclusion;
 
@@ -636,11 +654,11 @@ As used in this part:
 
 (iii) Improvements to existing income-producing improved real property secured by a mortgage on such property, if the cash flow being generated by the real property is sufficient to support the debt service and expenses of the real property, in accordance with the FDIC-supervised institution's applicable loan underwriting criteria for permanent financings; or
 
-(iv) Commercial real property projects in which -
+(iv) Commercial real property projects in which—
 
 (A) The loan-to-value ratio is less than or equal to the applicable maximum supervisory loan-to-value ratio as determined by the FDIC;
 
-(B) The borrower has contributed capital of at least 15 percent of the real property's appraised, `as completed' value to the project in the form of -
+(B) The borrower has contributed capital of at least 15 percent of the real property's appraised, `as completed' value to the project in the form of—
 
 (*1*) Cash;
 
@@ -658,7 +676,7 @@ As used in this part:
 
 (5) Value Of contributed real property: For the purposes of this HVCRE exposure definition, the value of any real property contributed by a borrower as a capital contribution is the appraised value of the property as determined under standards prescribed pursuant to section 1110 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3339), in connection with the extension of the credit facility or loan to such borrower.
 
-(6) Reclassification as a non-HVCRE exposure: For purposes of this HVCRE exposure definition and with respect to a credit facility and an FDIC-supervised institution, an FDIC-supervised institution may reclassify an HVCRE exposure as a non-HVCRE exposure upon -
+(6) Reclassification as a non-HVCRE exposure: For purposes of this HVCRE exposure definition and with respect to a credit facility and an FDIC-supervised institution, an FDIC-supervised institution may reclassify an HVCRE exposure as a non-HVCRE exposure upon—
 
 (i) The substantial completion of the development or construction of the real property being financed by the credit facility; and
 
@@ -674,7 +692,7 @@ As used in this part:
 
 (2) When measured as of any other date, those items:
 
-(i) That have been determined -
+(i) That have been determined—
 
 (A) By an evaluation made by a state or Federal examiner at the most recent examination of an FDIC-supervised institution to be chargeable against income, capital and/or general valuation allowances; or
 
@@ -684,7 +702,7 @@ As used in this part:
 
 *Independent collateral* means financial collateral, other than variation margin, that is subject to a collateral agreement, or in which a FDIC-supervised institution has a perfected, first-priority security interest or, outside of the United States, the legal equivalent thereof (with the exception of cash on deposit; notwithstanding the prior security interest of any custodial agent or any prior security interest granted to a CCP in connection with collateral posted to that CCP), and the amount of which does not change directly in response to the value of the derivative contract or contracts that the financial collateral secures.
 
-*Indirect exposure* means an exposure that arises from the FDIC-supervised institution's investment in an investment fund which holds an investment in the FDIC-supervised institution's own capital instrument or an investment in the capital of an unconsolidated financial institution.
+*Indirect exposure* means an exposure that arises from the FDIC-supervised institution's investment in an investment fund which holds an investment in the FDIC-supervised institution's own capital instrument or an investment in the capital of an unconsolidated financial institution. For an advanced approaches FDIC-supervised institution, indirect exposure also includes an investment in an investment fund that holds a covered debt instrument.
 
 *Insurance company* means an insurance company as defined in section 201 of the Dodd-Frank Act (12 U.S.C. 5381).
 
@@ -707,6 +725,8 @@ As used in this part:
 (2) That has no material liabilities.
 
 *Investment grade* means that the entity to which the FDIC-supervised institution is exposed through a loan or security, or the reference entity with respect to a credit derivative, has adequate capacity to meet financial commitments for the projected life of the asset or exposure. Such an entity or reference entity has adequate capacity to meet financial commitments if the risk of its default is low and the full and timely repayment of principal and interest is expected.
+
+*Investment in a covered debt instrument* means an FDIC-supervised institution's net long position calculated in accordance with § 324.22(h) in a covered debt instrument, including direct, indirect, and synthetic exposures to the debt instrument, excluding any underwriting positions held by the FDIC-supervised institution for five or fewer business days.
 
 *Investment in the capital of an unconsolidated financial institution* means a net long position calculated in accordance with § 324.22(h) in an instrument that is recognized as capital for regulatory purposes by the primary supervisor of an unconsolidated regulated financial institution or is an instrument that is part of the GAAP equity of an unconsolidated unregulated financial institution, including direct, indirect, and synthetic exposures to capital instruments, excluding underwriting positions held by the FDIC-supervised institution for five or fewer business days.
 
@@ -1004,7 +1024,7 @@ As used in this part:
 
 *Subsidiary* means, with respect to a company, a company controlled by that company.
 
-*Synthetic exposure* means an exposure whose value is linked to the value of an investment in the FDIC-supervised institution's own capital instrument or to the value of an investment in the capital of an unconsolidated financial institution.
+*Synthetic exposure* means an exposure whose value is linked to the value of an investment in the FDIC-supervised institution's own capital instrument or to the value of an investment in the capital of an unconsolidated financial institution. For an advanced approaches FDIC-supervised institution, synthetic exposure includes an exposure whose value is linked to the value of an investment in a covered debt instrument.
 
 *Synthetic securitization* means a transaction in which:
 
@@ -1030,7 +1050,7 @@ As used in this part:
 
 *Total capital minority interest* means the total capital of a consolidated subsidiary of an FDIC-supervised institution that is not owned by the FDIC-supervised institution.
 
-*Total leverage exposure* is defined in § 324.10(c)(4)(ii).
+*Total leverage exposure* is defined in § 324.10(c)(2).
 
 *Traditional securitization* means a transaction in which:
 
@@ -1090,4 +1110,4 @@ As used in this part:
 
 *Wrong-way risk* means the risk that arises when an exposure to a particular counterparty is positively correlated with the probability of default of such counterparty itself.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 79 FR 44124, July 30, 2014; 79 FR 57748, Sept. 26, 2014; 80 FR 41422, July 15, 2015; 81 FR 71354, Oct. 17, 2016; 82 FR 50260, Oct. 30, 2017; 84 FR 4246, Feb. 14, 2019; 84 FR 35270, July 22, 2019; 84 FR 59277, Nov. 1, 2019; 84 FR 68033, Dec. 13, 2019; 85 FR 4429, Jan. 24, 2020; 85 FR 4578, Jan. 27, 2020; 85 FR 20393, Apr. 13, 2020]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 79 FR 44124, July 30, 2014; 79 FR 57748, Sept. 26, 2014; 80 FR 41422, July 15, 2015; 81 FR 71354, Oct. 17, 2016; 82 FR 50260, Oct. 30, 2017; 84 FR 4246, Feb. 14, 2019; 84 FR 35270, July 22, 2019; 84 FR 59277, Nov. 1, 2019; 84 FR 68033, Dec. 13, 2019; 85 FR 4429, Jan. 24, 2020; 85 FR 4578, Jan. 27, 2020; 85 FR 20393, Apr. 13, 2020; 86 FR 739, Jan. 6, 2021]

@@ -1,7 +1,5 @@
 ##### § 324.121 Qualification process. #####
 
-Link to an amendment published at 86 FR 745, Jan. 6, 2021.
-
 (a) *Timing.* (1) An FDIC-supervised institution that is described in § 324.100(b)(1)(i) through (iv) must adopt a written implementation plan no later than six months after the date the FDIC-supervised institution meets a criterion in that section. The implementation plan must incorporate an explicit start date no later than 36 months after the date the FDIC-supervised institution meets at least one criterion under § 324.100(b)(1)(i) through (iv). The FDIC may extend the start date.
 
 (2) An FDIC-supervised institution that elects to be subject to this subpart under § 324.100(b)(1)(v) must adopt a written implementation plan.
@@ -30,7 +28,7 @@ Link to an amendment published at 86 FR 745, Jan. 6, 2021.
 
 (2) The FDIC-supervised institution must submit the implementation plan, together with a copy of the minutes of the board of directors' approval, to the FDIC at least 60 days before the FDIC-supervised institution proposes to begin its parallel run, unless the FDIC waives prior notice.
 
-(c) *Parallel run.* Before determining its risk-weighted assets under this subpart and following adoption of the implementation plan, the FDIC-supervised institution must conduct a satisfactory parallel run. A satisfactory parallel run is a period of no less than four consecutive calendar quarters during which the FDIC-supervised institution complies with the qualification requirements in § 324.122 to the satisfaction of the FDIC. During the parallel run, the FDIC-supervised institution must report to the FDIC on a calendar quarterly basis its risk-based capital ratios determined in accordance with § 324.10(b)(1) through (3) and § 324.10(c)(1) through (3). During this period, the FDIC-supervised institution's minimum risk-based capital ratios are determined as set forth in subpart D of this part.
+(c) *Parallel run.* Before determining its risk-weighted assets under this subpart and following adoption of the implementation plan, the FDIC-supervised institution must conduct a satisfactory parallel run. A satisfactory parallel run is a period of no less than four consecutive calendar quarters during which the FDIC-supervised institution complies with the qualification requirements in § 324.122 to the satisfaction of the FDIC. During the parallel run, the FDIC-supervised institution must report to the FDIC on a calendar quarterly basis its risk-based capital ratios determined in accordance with § 324.10(b)(1) through (3) and § 324.10(d)(1) through (3). During this period, the FDIC-supervised institution's minimum risk-based capital ratios are determined as set forth in subpart D of this part.
 
 (d) *Approval to calculate risk-based capital requirements under this subpart.* The FDIC will notify the FDIC-supervised institution of the date that the FDIC-supervised institution must begin to use this subpart for purposes of § 324.10 if the FDIC determines that:
 
@@ -39,3 +37,5 @@ Link to an amendment published at 86 FR 745, Jan. 6, 2021.
 (2) The FDIC-supervised institution has conducted a satisfactory parallel run under paragraph (c) of this section; and
 
 (3) The FDIC-supervised institution has an adequate process to ensure ongoing compliance with the qualification requirements in § 324.122.
+
+[78 FR 55471, Sept. 10, 2013, as amended at 86 FR 745, Jan. 6, 2021]

@@ -16,17 +16,13 @@
 
 (2) A physically stable melengestrol acetate liquid Type B or C feed will not be subject to the requirements for mixing directions prescribed in paragraph (d)(1) of this section provided it has a pH of 4.0 to 8.0 and contains a suspending agent(s) sufficient to maintain a viscosity of not less than 300 centipoises per second for 3 months.
 
-(3) Combination Type B or C medicated feeds containing lasalocid must be labeled in accordance with § 558.311(d)(5) of this chapter.
+(3) Liquid or dry combination Type B or C medicated feeds containing melengestrol acetate and lasalocid must be labeled in accordance with § 558.311(d).
 
-(4) Liquid combination Type B or C medicated feeds containing melengestrol acetate and lasalocid must be manufactured in accordance with § 558.311(d) of this chapter.
+(4) Liquid or dry combination Type B or C medicated feeds containing melengestrol acetate and monensin must be labeled in accordance with § 558.355(d).
 
-(5) Combination Type B or C medicated feeds containing monensin must be labeled in accordance with § 558.355(d) of this chapter.
+(5) Liquid combination Type B or C medicated feeds containing melengestrol acetate and tylosin must be manufactured in accordance with § 558.625(d).
 
-(6) Liquid combination Type B or C medicated feeds containing melengestrol acetate and monensin must be manufactured in accordance with § 558.355(f)(3)(i) of this chapter.
-
-(7) Liquid combination Type B or C medicated feeds containing melengestrol acetate and tylosin must be manufactured in accordance with § 558.625(c) of this chapter.
-
-(8) Liquid melengestrol acetate may not be mixed with oxytetracycline in a common liquid feed supplement.
+(6) Liquid melengestrol acetate may not be mixed with oxytetracycline in a common liquid feed supplement.
 
 (e) *Conditions of use* - (1) *Cattle.*
 

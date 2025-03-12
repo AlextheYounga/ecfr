@@ -1,18 +1,16 @@
 ##### § 5.30 Establishment, acquisition, and relocation of a branch of a national bank. #####
 
-Link to an amendment published at 85 FR 83726, Dec. 22, 2020.
-
 (a) *Authority.* 12 U.S.C. 1-42 and 2901-2907.
 
 (b) *Licensing requirements.* A national bank must submit an application and obtain prior OCC approval in order to establish or relocate a branch.
 
-(c) *Scope* - (1) *In general.* This section describes the procedures and standards governing OCC review and approval of an application by a national bank to establish a new branch or to relocate a branch.
+(c) *Scope*—(1) *In general.* This section describes the procedures and standards governing OCC review and approval of an application by a national bank to establish a new branch or to relocate a branch.
 
 (2) *Branch established through a conversion or business combination.* The standards of this section governing review and approval of applications by the OCC and, as applicable, 12 U.S.C. 36(b), but not the application procedures set forth in this section, apply to branches acquired or retained in a conversion approved under § 5.24 or a business combination approved under § 5.33. A branch acquired or retained in a conversion or business combination is subject to the application procedures set forth in § 5.24 or § 5.33.
 
-(d) *Definitions* - (1) *Branch* includes any branch bank, branch office, branch agency, additional office, or any branch place of business established by a national bank in the United States or its territories at which deposits are received, checks paid, or money lent.
+(d) *Definitions*—(1) *Branch* includes any branch bank, branch office, branch agency, additional office, or any branch place of business established by a national bank in the United States or its territories at which deposits are received, checks paid, or money lent.
 
-(i) A branch established by a national bank includes a seasonal agency described in 12 U.S.C. 36(c), a mobile facility, a temporary facility, an intermittent facility, or a drop box.
+(i) A branch established by a national bank includes a seasonal agency described in 12 U.S.C. 36(c), a mobile facility, a temporary facility, or an intermittent facility.
 
 (ii) A facility otherwise described in this paragraph (d)(1) is not a branch if:
 
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 83726, Dec. 22, 2020.
 
 (B) It is located at the site of, or is an extension of, an approved main office or branch office of the national bank. The OCC determines whether a facility is an extension of an existing main office or branch office on a case-by-case basis. For this purpose, the OCC will consider a drive-in or pedestrian facility located within 500 feet of a public entrance to an existing main office or branch office to be an extension of the existing main office or branch office, provided the functions performed at the drive-in or pedestrian facility are limited to functions that are ordinarily performed at a teller window.
 
-(iii) A branch does not include a remote service unit (RSU) as described in 12 CFR 7.4003. This encompasses RSUs that are automated teller machines (ATMs), including interactive ATMs. A branch also does not include a loan production office, a deposit production office, a trust office, an administrative office, a data processing office, or any other office that does not engage in at least one of the activities in paragraph (d)(1) of this section.
+(iii) A branch does not include a remote service unit (RSU) as described in 12 CFR 7.1027. This encompasses RSUs that are automated teller machines (ATMs), including interactive ATMs. A branch also does not include a loan production office, a deposit production office, a trust office, an administrative office, a data processing office, or any other office that does not engage in at least one of the activities in paragraph (d)(1) of this section.
 
 (2) *Home State* means the State in which the national bank's main office is located.
 
@@ -42,7 +40,7 @@ Link to an amendment published at 85 FR 83726, Dec. 22, 2020.
 
 (4) Promoting fair treatment of customers including efficiency and better service.
 
-(f) *Procedures* - (1) *In general.* Except as provided in paragraphs (f)(2) or (f)(3) of this section, each national bank proposing to establish a branch must submit to the appropriate OCC licensing office a separate application for each proposed branch.
+(f) *Procedures*—(1) *In general.* Except as provided in paragraphs (f)(2) or (f)(3) of this section, each national bank proposing to establish a branch must submit to the appropriate OCC licensing office a separate application for each proposed branch.
 
 (2) *Messenger services.* A national bank may request approval, through a single application, for multiple messenger services to serve the same general geographic area. (*See* 12 CFR 7.1012). Unless otherwise required by law, the bank need not list the specific locations to be served.
 
@@ -68,4 +66,4 @@ Link to an amendment published at 85 FR 83726, Dec. 22, 2020.
 
 (j) *Branch closings.* A national bank must comply with the requirements of 12 U.S.C. 1831r-1 with respect to procedures for branch closings.
 
-[80 FR 28435, May 18, 2015, as amended at 85 FR 80447, Dec. 11, 2020]
+[80 FR 28435, May 18, 2015, as amended at 85 FR 80447, Dec. 11, 2020; 85 FR 83726, Dec. 22, 2020]
