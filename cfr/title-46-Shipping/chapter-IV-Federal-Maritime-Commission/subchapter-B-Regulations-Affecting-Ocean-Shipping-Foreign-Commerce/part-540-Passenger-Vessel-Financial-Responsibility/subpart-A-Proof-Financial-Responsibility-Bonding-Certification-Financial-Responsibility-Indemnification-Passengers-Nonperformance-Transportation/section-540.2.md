@@ -1,5 +1,7 @@
 ##### § 540.2 Definitions. #####
 
+Link to an amendment published at 87 FR 15132, Mar. 17, 2022.
+
 As used in this subpart, the following terms shall have the following meanings:
 
 (a) *Person* includes individuals, limited liability companies, corporations, partnerships, associations, and other legal entities existing under or authorized by the laws of the United States or any State thereof or the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands or any territory or possession of the United States, or the laws of any foreign country.

@@ -1,5 +1,7 @@
 ##### § 525.3 Availability of marine terminal operator schedules. #####
 
+Link to an amendment published at 87 FR 15125, Mar. 17, 2022.
+
 (a) *Availability of terminal schedules* - (1) *Availability to the Commission.* A complete and current set of terminal schedules used by a marine terminal operator, or to which it is a party, shall be maintained in its office(s) for a period of five (5) years, whether or not made available to the public, and shall promptly be made available to the Commission upon request.
 
 (2) *Availability to the public.* Any terminal schedule that is made available to the public shall be available during normal business hours and in electronic form. The public may be assessed a reasonable nondiscriminatory charge for access to the terminal schedules; no charge will be assessed against the Commission.

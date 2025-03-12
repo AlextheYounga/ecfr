@@ -1,5 +1,7 @@
 ##### § 540.9 Miscellaneous. #####
 
+Link to an amendment published at 87 FR 15132, Mar. 17, 2022.
+
 (a) If any evidence filed with the application does not comply with the requirements of this subpart, or for any reason fails to provide adequate or satisfactory protection to the public, the Commission will notify the applicant stating the deficiencies thereof.
 
 (b) Any financial evidence submitted to the Commission under the rules of this subpart shall be written in the full and correct name of the person to whom the Certificate (Performance) is to be issued, and in case of a partnership, all partners shall be named.

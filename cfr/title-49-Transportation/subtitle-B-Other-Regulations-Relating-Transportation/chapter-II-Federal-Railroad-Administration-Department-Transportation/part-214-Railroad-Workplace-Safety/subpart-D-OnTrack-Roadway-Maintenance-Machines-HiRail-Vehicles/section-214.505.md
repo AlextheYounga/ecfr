@@ -1,6 +1,6 @@
 ##### § 214.505 Required environmental control and protection systems for new on-track roadway maintenance machines with enclosed cabs. #####
 
-(a) The following new on-track roadway maintenance machines shall be equipped with enclosed cabs with operative heating systems, operative air conditioning systems, and operative positive pressurized ventilation systems:
+(a) With the exception of machines subject to paragraph (i) of this section, the following new on-track roadway maintenance machines shall be equipped with operative heating systems, operative air conditioning systems, and operative positive pressurized ventilation systems:
 
 (1) Ballast regulators;
 
@@ -27,3 +27,15 @@
 (g) New on-track roadway maintenance machines with enclosed cabs, other than the types identified in paragraphs (a)(1) through (a)(5) of this section or functionally equivalent thereto, shall be equipped with operative heating and ventilation systems.
 
 (h) When new on-track roadway maintenance machines require operation from non-enclosed stations outside of the main cab, the non-enclosed stations shall be equipped, where feasible from an engineering standpoint, with a permanent or temporary roof, canopy, or umbrella designed to provide cover from normal rainfall and midday sun.
+
+(i) Paragraph (a) of this section is not applicable to machines that are incapable of performing work functions other than by remote operation and are equipped with no operating controls (*i.e.,* remotely operated roadway maintenance machines) if the following conditions are met.
+
+(1) If a remotely operated roadway maintenance machine is operated from the cab of a separate machine, that separate machine must comply with paragraph (a) of this section.
+
+(2) If a remotely operated roadway maintenance machine is operated outside of the main cab of the separate machine in a manner that will expose the operator to air contaminants, as outlined in 29 CFR 1910.1000, the employee shall be protected in compliance with 29 CFR 1910.134.
+
+(3) No person is permitted on the remotely operated roadway maintenance machine while the equipment is operating.
+
+(4) Each remotely operated roadway maintenance machine must be clearly identified by stenciling, marking, or other written notice in a conspicuous location on the machine indicating the potential hazards of the machine being operated from a distance or that the machine may move automatically.
+
+[68 FR 44407, July 28, 2003, as amended at 87 FR 15143, Mar. 17, 2022]

@@ -20,4 +20,6 @@
 
 (h) New electronic display systems implemented on or after July 1, 2017 shall provide Level 3 assurance as defined by NIST Special Publication 800-63-2, Electronic Authentication Guideline, “Computer Security,” August 2013. Systems implemented prior to July 1, 2017 shall provide Level 2 assurance. Systems implemented prior to July 1, 2017 that do not provide Level 2 or higher assurance must be retired, or updated to provide Level 2 assurance, no later than July 1, 2018. The incorporation by reference of this NIST Special Publication was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy of the incorporated document from the National Institute of Standards and Technology, 100 Bureau Drive, Stop 8930, Gaithersburg, MD 20899-8930, *http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-2.pdf*. You may inspect a copy of the document at the Federal Railroad Administration, Docket Clerk, 1200 New Jersey Avenue SE., Washington, DC, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-[81 FR 37888, June 10, 2016]
+(i) For purposes of complying with paragraph (h) of this section, electronic display systems may use multi-factor authentication for digital authentication of the subject.
+
+[81 FR 37888, June 10, 2016, as amended at 87 FR 15143, Mar. 17, 2022]

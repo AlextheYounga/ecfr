@@ -1,5 +1,7 @@
 ##### § 525.1 Purpose and scope. #####
 
+Link to an amendment published at 87 FR 15125, Mar. 17, 2022.
+
 (a) *Purpose.* This part implements the Shipping Act of 1984, as amended by the Ocean Shipping Reform Act of 1998 and the Coast Guard Authorization Act of 1998. The form and manner requirements of this part are necessary to enable the Commission to meet its responsibilities with regard to identifying and preventing unreasonable preference or prejudice and unjust discrimination pursuant to section 10 of the Act (46 U.S.C. 41101-41106).
 
 (b) *Scope.* This part sets forth the regulations for the publication of terminal schedules by marine terminal operators. Information made available under this part may be used to determine marine terminal operators' compliance with shipping statutes and regulations.
