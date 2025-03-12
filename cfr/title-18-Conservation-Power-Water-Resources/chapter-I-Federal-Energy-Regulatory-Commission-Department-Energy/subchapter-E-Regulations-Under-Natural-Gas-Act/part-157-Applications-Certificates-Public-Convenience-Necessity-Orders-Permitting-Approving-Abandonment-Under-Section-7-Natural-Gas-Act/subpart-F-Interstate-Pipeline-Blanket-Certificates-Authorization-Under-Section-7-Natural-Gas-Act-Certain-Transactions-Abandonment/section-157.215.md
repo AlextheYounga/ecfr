@@ -55,6 +55,7 @@ Table II to Part 157
 |2018|6,500,000 |
 |2019|6,600,000 |
 |2020|6,700,000 |
+|2021|6,800,000 |
 
 (b) *Reporting requirements* - (1) *Annual reports.* For any storage project tested or developed pursuant to this section, the certificate holder shall file, in the manner prescribed in §§ 157.6(a) and 385.2011 of this chapter as part of the annual report required under § 157.207(a), the following information:
 
@@ -86,4 +87,4 @@ Table II to Part 157
 
 (c) *Accounting.* The cost of any project ultimately determined to be infeasible for storage shall be charged to Account No. 822 of part 201, Underground Storage Exploration and Development Expenses.
 
-[Order 234, 47 FR 24266, June 4, 1982, as amended by Order 493, 53 FR 15030, Apr. 27, 1988; Order 603, 64 FR 26609, May 14, 1999; 72 FR 5614, Feb. 7, 2007; 73 FR 8191, Feb. 13, 2008; 74 FR 6539, Feb. 10, 2009; 75 FR 8246, Feb. 24, 2010; 76 FR 8294, Feb. 14, 2011; 77 FR 8725, Feb. 15, 2012; 78 FR 8390, Feb. 6, 2013; 79 FR 6808, Feb. 5, 2014; 80 FR 7303, Feb. 10, 2015; 81 FR 8645, Feb. 22, 2016; 82 FR 9127, Feb. 3, 2017; 83 FR 9697, Mar. 7, 2018; 84 FR 10410, Mar. 21, 2019; 85 FR 15713, Mar. 19, 2020]
+[Order 234, 47 FR 24266, June 4, 1982, as amended by Order 493, 53 FR 15030, Apr. 27, 1988; Order 603, 64 FR 26609, May 14, 1999; 72 FR 5614, Feb. 7, 2007; 73 FR 8191, Feb. 13, 2008; 74 FR 6539, Feb. 10, 2009; 75 FR 8246, Feb. 24, 2010; 76 FR 8294, Feb. 14, 2011; 77 FR 8725, Feb. 15, 2012; 78 FR 8390, Feb. 6, 2013; 79 FR 6808, Feb. 5, 2014; 80 FR 7303, Feb. 10, 2015; 81 FR 8645, Feb. 22, 2016; 82 FR 9127, Feb. 3, 2017; 83 FR 9697, Mar. 7, 2018; 84 FR 10410, Mar. 21, 2019; 85 FR 15713, Mar. 19, 2020; 86 FR 12257, Mar. 3, 2021]

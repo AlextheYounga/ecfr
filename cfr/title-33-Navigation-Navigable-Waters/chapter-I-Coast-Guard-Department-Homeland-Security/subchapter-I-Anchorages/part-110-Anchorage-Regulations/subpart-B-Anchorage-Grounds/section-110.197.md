@@ -1,7 +1,5 @@
 ##### § 110.197 Galveston Harbor, Bolivar Roads Channel, Texas. #####
 
-Link to an amendment published at 86 FR 7649, Feb. 1, 2021.
-
 (a)(1) *Anchorage area (A)*. The water bounded by a line connecting the following points:
 
 |  Latitude   | Longtitude  |
@@ -48,7 +46,7 @@ and thence to the point of beginning. The coordinates are based on NAD 83.
 
 (b) *The regulations.* (1) The anchorage area is for the temporary use of vessels of all types, but especially for vessels awaiting weather and other conditions favorable to the resumption of their voyages.
 
-(2) Except when stress of weather makes sailing impractical or hazardous, vessels shall not anchor in anchorage areas (A) or (C) for more than 48 hours unless expressly authorized by the Captain of the Port Houston-Galveston. Permission to anchor for longer periods may be obtained through Coast Guard Vessel Traffic Service Houston/Galveston on VHF-FM channels 12 (156.60 MHz) or 13 (156.65 MHz).
+(2) Except when stress of weather makes sailing impractical or hazardous, vessels shall not anchor in anchorage areas (A), (B), or (C) for more than 48 hours unless expressly authorized by the Captain of the Port Houston-Galveston. Permission to anchor for longer periods may be obtained through Coast Guard Vessel Traffic Service Houston/Galveston on VHF-FM channels 12 (156.60 MHz) or 13 (156.65 MHz).
 
 (3) No vessel with a draft of less than 22 feet may occupy anchorage (A) without prior approval of the Captain of the Port.
 
@@ -64,4 +62,4 @@ and thence to the point of beginning. The coordinates are based on NAD 83.
 
 (9) Whenever the maritime or commercial interests of the United States so require, the Captain of the Port, or his authorized representative, may direct the movement of any vessel anchored or moored within the anchorage areas.
 
-[CCGD8-85-21, 55 FR 11369, Mar. 28, 1990, as amended by CGD08-02-018, 68 FR 25497, May 13, 2003; USCG-2015-0549, 83 FR 18414, Apr. 27, 2018]
+[CCGD8-85-21, 55 FR 11369, Mar. 28, 1990, as amended by CGD08-02-018, 68 FR 25497, May 13, 2003; USCG-2015-0549, 83 FR 18414, Apr. 27, 2018; USCG-2019-0028, 86 FR 7649, Feb. 1, 2021]
