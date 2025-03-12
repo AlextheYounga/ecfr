@@ -16,6 +16,8 @@
 
 (7) Evaluation material used to determine potential for promotion in the armed services, but only to the extent that the disclosure of such material be held in confidence, or, prior to the effective date of the Privacy Act, 5 U.S.C. 552a, under an implied promise that the identity of the source would be held in confidence.
 
-(b) Those designated systems of records which are exempt from the requirements of this part or any other requirements of the Privacy Act, 5 U.S.C. 552a, will be indicated in the notice of designated systems of records published by the Board.
+(b) Those designated systems of records which are exempt from the requirements of subsections (c)(3); (d); (e)(1); (e)(4)(G), (H), (I); and (f) of the Privacy Act, 5 U.S.C. 552a, include FRTIB-2, Personnel Security Investigation Files; FRTIB-13, Fraud and Forgery Records; FRTIB-14, FRTIB Legal Case Files; FRTIB-15, Internal Investigations of Harassment and Hostile Work Environment Allegations; and FRTIB-23, Insider Threat Program Records.
 
 (c) Nothing in this part will allow an individual access to any information compiled in reasonable anticipation of a civil action or proceeding.
+
+[55 FR 18852, May 7, 1990, as amended at 86 FR 58205, Oct. 21, 2021]

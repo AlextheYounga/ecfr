@@ -8,7 +8,7 @@
 
 (d) In the event of projected changes to the activity or to mitigation and monitoring measures required by an LOA, NEFSC must apply for and obtain a modification of the LOA as described in § 219.38.
 
-(e) The LOA shall set forth:
+(e) The LOA must set forth:
 
 (1) Permissible methods of incidental taking;
 
@@ -16,6 +16,6 @@
 
 (3) Requirements for monitoring and reporting.
 
-(f) Issuance of the LOA shall be based on a determination that the level of taking will be consistent with the findings made for the total taking allowable under these regulations.
+(f) Issuance of the LOA must be based on a determination that the level of taking will be consistent with the findings made for the total taking allowable under these regulations.
 
-(g) Notice of issuance or denial of an LOA shall be published in the Federal Register within thirty days of a determination.
+(g) Notice of issuance or denial of an LOA must be published in the Federal Register within 30 days of a determination.

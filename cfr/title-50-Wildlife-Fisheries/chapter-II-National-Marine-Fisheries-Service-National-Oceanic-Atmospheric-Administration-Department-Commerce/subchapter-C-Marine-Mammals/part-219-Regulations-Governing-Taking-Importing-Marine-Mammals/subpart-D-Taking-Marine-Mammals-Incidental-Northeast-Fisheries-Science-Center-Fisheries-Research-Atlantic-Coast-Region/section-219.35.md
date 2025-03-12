@@ -1,125 +1,129 @@
 ##### § 219.35 Mitigation requirements. #####
 
-When conducting the activities identified in § 219.31(a), the mitigation measures contained in any LOA issued under § 216.106 of this chapter and § 219.37 must be implemented. These mitigation measures shall include but are not limited to:
+When conducting the activities identified in § 219.31(a), the mitigation measures contained in any LOA issued under §§ 216.106 of this chapter and 219.37 must be implemented. These mitigation measures must include but are not limited to:
 
-(a) General conditions:
+(a) *General conditions.* (1) NEFSC must take all necessary measures to coordinate and communicate in advance of each specific survey with the National Oceanic and Atmospheric Administration's (NOAA) Office of Marine and Aviation Operations (OMAO) or other relevant parties on non-NOAA platforms to ensure that all mitigation measures and monitoring requirements described herein, as well as the specific manner of implementation and relevant event-contingent decision-making processes, are clearly understood and agreed upon;
 
-(1) NEFSC shall take all necessary measures to coordinate and communicate in advance of each specific survey with the National Oceanic and Atmospheric Administration's (NOAA) Office of Marine and Aviation Operations (OMAO) or other relevant parties on non-NOAA platforms to ensure that all mitigation measures and monitoring requirements described herein, as well as the specific manner of implementation and relevant event-contingent decision-making processes, are clearly understood and agreed upon.
+(2) NEFSC must coordinate and conduct briefings at the outset of each survey and as necessary between the ship's crew (Commanding Officer/master or designee(s), contracted vessel owners, as appropriate) and scientific party or in order to explain responsibilities, communication procedures, marine mammal monitoring protocol, and operational procedures;
 
-(2) NEFSC shall coordinate and conduct briefings at the outset of each survey and as necessary between the ship's crew (Commanding Officer/master or designee(s), contracted vessel owners, as appropriate) and scientific party or in order to explain responsibilities, communication procedures, marine mammal monitoring protocol, and operational procedures.
+(3) NEFSC must coordinate as necessary on a daily basis during survey cruises with OMAO personnel or other relevant personnel on non-NOAA platforms to ensure that requirements, procedures, and decision-making processes are understood and properly implemented;
 
-(3) NEFSC shall coordinate as necessary on a daily basis during survey cruises with OMAO personnel or other relevant personnel on non-NOAA platforms to ensure that requirements, procedures, and decision-making processes are understood and properly implemented.
+(4) When deploying any type of sampling gear at sea, NEFSC must at all times monitor for any unusual circumstances that may arise at a sampling site and use best professional judgment to avoid any potential risks to marine mammals during use of all research equipment;
 
-(4) When deploying any type of sampling gear at sea, NEFSC shall at all times monitor for any unusual circumstances that may arise at a sampling site and use best professional judgment to avoid any potential risks to marine mammals during use of all research equipment.
+(5) All vessels must comply with applicable and relevant take reduction plans, including any required use of acoustic deterrent devices;
 
-(5) All vessels must comply with applicable and relevant take reduction plans, including any required use of acoustic deterrent devices.
+(6) If a NEFSC vessel 65 ft (19.8 m) or longer is traveling within a North Atlantic right whale Seasonal Management Area, the vessel shall not exceed 10 knots in speed. When practicable, all NEFSC vessels traveling within a Dynamic Management Area or acoustically-triggered Slow Zone should not exceed 10 knots in speed;
 
-(6) All vessels must comply with applicable speed restrictions.
+(7) All NEFSC vessels shall maintain a separation distance of 500 m and 100 m from a North Atlantic right whale and other large whales, respectively;
 
-(7) NEFSC shall implement handling and/or disentanglement protocols as specified in the guidance provided to NEFSC survey personnel.
+(8) NEFSC must implement handling and/or disentanglement protocols as specified in the guidance provided to NEFSC survey personnel; and
 
-(b) Trawl survey protocols:
+(9) In the case of a bottlenose dolphin entanglement resulting in mortality and stock origin is unknown, the NEFSC must request and arrange for expedited genetic sampling for stock determination and photograph the dorsal fin and submit the image to the NMFS Regional Marine Mammal Stranding Coordinator for identification/matching to bottlenose dolphins in the Bottlenose Dolphin Photo-identification Catalog.
 
-(1) NEFSC shall conduct trawl operations as soon as is practicable upon arrival at the sampling station.
+(b) *Trawl survey protocols.* (1) NEFSC must conduct trawl operations as soon as is practicable upon arrival at the sampling station;
 
-(2) NEFSC shall initiate marine mammal watches (visual observation) prior to sampling. Marine mammal watches shall be conducted by scanning the surrounding waters with the naked eye and binoculars (or monocular). During nighttime operations, visual observation shall be conducted using the naked eye and available vessel lighting.
+(2) NEFSC must initiate marine mammal watches (visual observation) 15 minutes prior to sampling within 1 nm of the site. Marine mammal watches must be conducted by scanning the surrounding waters with the naked eye and binoculars (or monocular). During nighttime operations, visual observation will be conducted using the naked eye and available vessel lighting;
 
-(3) NEFSC shall implement the “move-on rule.” If a marine mammal is sighted around the vessel before setting the gear, NEFSC may decide to move the vessel away from the marine mammal to a different section of the sampling area if the animal appears to be at risk of interaction with the gear. If, after moving on, marine mammals are still visible from the vessel, NEFSC may decide to move again or to skip the station. NEFSC may use best professional judgment in making this decision.
+(3) NEFSC must implement the following “move-on rule.” If a marine mammal is sighted within 1 nautical mile (nm) of the planned location in the 15 minutes before gear deployment, NEFSC may move the vessel away from the marine mammal to a different section of the sampling area if the animal appears to be at risk of interaction with the gear based on best professional judgement. If, after moving on, marine mammals are still visible from the vessel, NEFSC may decide to move again or to skip the station. NMFS may use best professional judgement in making this decision;
 
-(4) NEFSC shall maintain visual monitoring effort during the entire period of time that trawl gear is in the water (*i.e.,* throughout gear deployment, fishing, and retrieval). If marine mammals are sighted before the gear is fully removed from the water, NEFSC shall take the most appropriate action to avoid marine mammal interaction. NEFSC may use best professional judgment in making this decision.
+(4) NEFSC must maintain visual monitoring effort during the entire period of time that trawl gear is in the water (*i.e.,* throughout gear deployment, fishing, and retrieval). If marine mammals are sighted before the gear is fully removed from the water, NEFSC must take the most appropriate action to avoid marine mammal interaction. NEFSC may use best professional judgment in making this decision;
 
-(5) If trawling operations have been suspended because of the presence of marine mammals, NEFSC may resume trawl operations when practicable only when the animals are believed to have departed the area. NEFSC may use best professional judgment in making this determination.
+(5) If trawling operations have been suspended because of the presence of marine mammals, NEFSC may resume only after there are no sightings for 15 minutes within 1nm of sampling location;
 
-(6) NEFSC shall implement standard survey protocols to minimize potential for marine mammal interaction, including maximum tow durations at target depth and maximum tow distance, and shall carefully empty the trawl as quickly as possible upon retrieval. Trawl nets must be cleaned prior to deployment.
+(6) If deploying bongo plankton or other small net prior to trawl gear, NEFSC will continue visual observations until trawl gear is ready to be deployed;
 
-(c) Dredge survey protocols:
+(7) NEFSC must implement standard survey protocols to minimize potential for marine mammal interactions. These protocols include, but are not limited to:
 
-(1) NEFSC shall deploy dredge gear as soon as is practicable upon arrival at the sampling station.
+(i) Standard tow durations of no more than 30 minutes at target depth for distances less than 3 nautical miles (nm). The exceptions to the 30-minute tow duration are the Atlantic Herring Acoustic Pelagic Trawl Survey and the Deepwater Biodiversity Survey where total time in the water (deployment, fishing, and haul-back) is 40 to 60 minutes and 180 minutes, respectively;
 
-(2) NEFSC shall initiate marine mammal watches (visual observation) prior to sampling. Marine mammal watches shall be conducted by scanning the surrounding waters with the naked eye and binoculars (or monocular). During nighttime operations, visual observation shall be conducted using the naked eye and available vessel lighting.
+(ii) Trawl tow distances of no more than 3 nm;
 
-(3) NEFSC shall implement the “move-on rule.” If marine mammals are sighted around the vessel before setting the gear, the NEFSC may decide to move the vessel away from the marine mammal to a different section of the sampling area if the animal appears to be at risk of interaction with the gear. If, after moving on, marine mammals are still visible from the vessel, NEFSC may decide to move again or to skip the station. NEFSC may use best professional judgment in making this decision but may not elect to conduct dredge survey activity when animals remain near the vessel.
+(iii) Bottom trawl tows will be made in either straight lines or following depth contours, whereas other tows targeting fish aggregations and deep-water biodiversity tows may be made along oceanographic or bathymetric features;
 
-(4) NEFSC shall maintain visual monitoring effort during the entire period of time that dredge gear is in the water (*i.e.,* throughout gear deployment, fishing, and retrieval). If marine mammals are sighted before the gear is fully removed from the water, NEFSC shall take the most appropriate action to avoid marine mammal interaction. NEFSC may use best professional judgment in making this decision.
+(iv) Sharp course changes will be avoided in all surveys;
 
-(5) If dredging operations have been suspended because of the presence of marine mammals, NEFSC may resume operations when practicable only when the animals are believed to have departed the area. NEFSC may use best professional judgment in making this determination.
+(v) Open the codend of the net close to the deck/sorting area to avoid damage to animals that may be caught in gear; and
 
-(6) NEFSC shall carefully empty the dredge gear as quickly as possible upon retrieval to determine if marine mammals are present in the gear.
+(vi) Gear will be emptied as close to the deck/sorting area and as quickly as possible after retrieval; and
 
-(d) Bottom and pelagic longline survey protocols:
+(vii) Trawl nets must be cleaned prior to deployment.
 
-(1) NEFSC shall deploy longline gear as soon as is practicable upon arrival at the sampling station.
+(c) *Dredge survey protocols.* (1) NEFSC must deploy dredge gear as soon as is practicable upon arrival at the sampling station;
 
-(2) NEFSC shall initiate marine mammal watches (visual observation) no less than thirty minutes prior to both deployment and retrieval of the longline gear. Marine mammal watches shall be conducted by scanning the surrounding waters with the naked eye and binoculars (or monocular). During nighttime operations, visual observation shall be conducted using the naked eye and available vessel lighting.
+(2) NEFSC must initiate marine mammal watches (visual observation) prior to sampling. Marine mammal watches must be conducted by scanning the surrounding waters with the naked eye and binoculars (or monocular). During nighttime operations, visual observation must be conducted using the naked eye and available vessel lighting;
 
-(3) NEFSC shall implement the “move-on rule.” If marine mammals are sighted near the vessel 30 minutes before setting the gear, the NEFSC may decide to move the vessel away from the marine mammal to a different section of the sampling area if the animal appears to be at risk of interaction with the gear. If, after moving on, marine mammals are still visible from the vessel, NEFSC may decide to move again or to skip the station. NEFSC may use best professional judgment in making this decision but may not elect to conduct longline survey activity when animals remain near the vessel.
+(3) NEFSC must implement the following “move-on rule.” If marine mammals are sighted within 1 nautical mile (nm) of the planned location in the 15 minutes before gear deployment, the NEFSC may decide to move the vessel away from the marine mammal to a different section of the sampling area if the animal appears to be at risk of interaction with the gear, based on best professional judgement. If, after moving on, marine mammals are still visible from the vessel, NEFSC may decide to move again or to skip the station”;
 
-(4) For the Apex Predators Bottom Longline Coastal Shark Survey, if one or more marine mammals are observed within 1 nautical mile (nmi) of the planned location in the 30 minutes before gear deployment, NEFSC shall transit to a different section of the sampling area to maintain a minimum set distance of 1 nmi from the observed marine mammals. If, after moving on, marine mammals remain within 1 nmi, NEFSC may decide to move again or to skip the station. NEFSC may use best professional judgment in making this decision but may not elect to conduct pelagic longline survey activity when animals remain within the 1-nmi zone.
+(4) NEFSC must maintain visual monitoring effort during the entire period of time that dredge gear is in the water (*i.e.,* throughout gear deployment, fishing, and retrieval). If marine mammals are sighted before the gear is fully removed from the water, NEFSC must take the most appropriate action to avoid marine mammal interaction. NEFSC may use best professional judgment in making this decision;
 
-(5) NEFSC shall maintain visual monitoring effort during the entire period of gear deployment or retrieval. If marine mammals are sighted before the gear is fully deployed or retrieved, NEFSC shall take the most appropriate action to avoid marine mammal interaction. NEFSC may use best professional judgment in making this decision.
+(5) If dredging operations have been suspended because of the presence of marine mammals, NEFSC may resume operations when practicable only when the animals are believed to have departed the area or after 15 minutes of no sightings. NEFSC may use best professional judgment in making this determination; and
 
-(6) If deployment or retrieval operations have been suspended because of the presence of marine mammals, NEFSC may resume such operations after there are no sightings of marine mammals for at least 15 minutes within the area or within the 1-nmi area for the Apex Predators Bottom Longline Coastal Shark Survey. NEFSC may use best professional judgment in making this decision.
+(6) NEFSC must carefully empty the dredge gear as close to the deck/sorting area and quickly as possible upon retrieval to determine if marine mammals are present in the gear.
 
-(7) NEFSC shall implement standard survey protocols, including maximum soak durations and a prohibition on chumming.
+(d) *Bottom and pelagic longline survey protocols.* (1) NEFSC must deploy longline gear as soon as is practicable upon arrival at the sampling station;
 
-(e) Gillnet survey protocols:
+(2) NEFSC must initiate marine mammal watches (visual observation) no less than fifteen minutes prior to both deployment and retrieval of the longline gear. Marine mammal watches must be conducted by scanning the surrounding waters with the naked eye and binoculars (or monocular). During nighttime operations, visual observation must be conducted using the naked eye and available vessel lighting;
 
-(1) The NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains shall deploy gillnet gear as soon as is practicable upon arrival at the sampling station.
+(3) NEFSC must implement the following “move-on rule.” If marine mammals are sighted within 1 nautical mile (nmi) of the planned location in the 15 minutes before gear deployment, the NEFSC may decide to move the vessel away from the marine mammal to a different section of the sampling area if the animal appears to be at risk of interaction with the gear, based on best professional judgement. If, after moving on, marine mammals are still visible from the vessel, NEFSC may decide to move again or to skip the station;
 
-(2) The NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains shall initiate marine mammal watches (visual observation) prior to both deployment and retrieval of the gillnet gear. When the vessel is on station during the soak, marine mammal watches shall be conducted during the soak by scanning the surrounding waters with the naked eye and binoculars (or monocular).
+(4) For the Apex Predators Bottom Longline Coastal Shark Survey, if one or more marine mammals are observed within 1 nautical mile (nm) of the planned location in the 15 minutes before gear deployment, NEFSC must transit to a different section of the sampling area to maintain a minimum set distance of 1 nmi from the observed marine mammals. If, after moving on, marine mammals remain within 1 nmi, NEFSC may decide to move again or to skip the station. NEFSC may use best professional judgment in making this decision but may not elect to conduct pelagic longline survey activity when animals remain within the 1-nmi zone;
 
-(3) The NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains shall implement the “move-on rule.” If marine mammals are sighted near the vessel before setting the gear, the NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains, may decide to move the vessel away from the marine mammal to a different section of the sampling area if the animal appears to be at risk of interaction with the gear. If, after moving on, marine mammals are still visible from the vessel, the NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains may decide to move again or to skip the station. The NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains may use best professional judgment in making this decision but may not elect to conduct the gillnet survey activity when animals remain near the vessel.
+(5) NEFSC must maintain visual monitoring effort during the entire period of gear deployment or retrieval. If marine mammals are sighted before the gear is fully deployed or retrieved, NEFSC must take the most appropriate action to avoid marine mammal interaction. NEFSC may use best professional judgment in making this decision;
 
-(4) If marine mammals are sighted near the vessel during the soak and are determined to be at risk of interacting with the gear, then the NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains shall carefully retrieve the gear as quickly as possible. The NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains may use best professional judgment in making this decision.
+(6) If deployment or retrieval operations have been suspended because of the presence of marine mammals, NEFSC may resume such operations after there are no sightings of marine mammals for at least 15 minutes within 1nm area of sampling location. In no case will longlines be deployed if animals are considered at-risk of interaction; and
 
-(5) The NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains shall implement standard survey protocols, including continuously monitoring the gillnet gear during soak time and removing debris with each pass as the net is reset into the water to minimize bycatch.
+(7) NEFSC must implement standard survey protocols, including maximum soak durations and a prohibition on chumming.
 
-(6) The NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains shall ensure that surveys deploy acoustic pingers on gillnets in areas where required for commercial fisheries. NEFSC must ensure that the devices are operating properly before deploying the net.
+(e) *Gillnet survey protocols.* (1) The NEFSC must deploy gillnet gear as soon as is practicable upon arrival at the sampling station;
 
-(7) NEFSC shall ensure that cooperating institutions, contracted vessels, or commercially-hired captains conducting gillnet surveys adhere to monitoring and mitigation requirements and shall include required protocols in all survey instructions, contracts, and agreements.
+(2) The NEFSC must initiate marine mammal watches (visual observation) prior to both deployment and retrieval of the gillnet gear. When the vessel is on station during the soak, marine mammal watches must be conducted during the soak by scanning the surrounding waters with the naked eye and binoculars (or monocular);
 
-(8) For the COASTSPAN gillnet surveys, the NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains will actively monitor for potential bottlenose dolphin entanglements by hand-checking the gillnet every 20 minutes. In the unexpected case of a bottlenose dolphin entanglement, the NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains shall request and arrange for expedited genetic sampling for stock determination. The NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains shall also photograph the dorsal fin and submit the image to the NMFS Southeast Stranding Coordinator for identification/matching to bottlenose dolphins in the Mid-Atlantic Bottlenose Dolphin Photo-identification Catalog.
+(3) The NEFSC must implement the following “move-on rule.” If marine mammals are sighted within 1 nmi of the planned location in the 15 minutes before gear deployment, the NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains, may decide to move the vessel away from the marine mammal to a different section of the sampling area if the animal appears to be at risk of interaction with the gear based on best professional judgement. If, after moving on, marine mammals are still visible from the vessel, the NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains may decide to move again or to skip the station;
 
-(f) Pot and trap survey protocols:
+(4) If marine mammals are sighted near the vessel during the soak and are determined to be at risk of interacting with the gear, then the NEFSC must carefully retrieve the gear as quickly as possible. The NEFSC may use best professional judgment in making this decision;
 
-(1) The NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains shall deploy pot gear as soon as is practicable upon arrival at the sampling station.
+(5) The NEFSC must implement standard survey protocols, including continuously monitoring the gillnet gear during soak time and removing debris with each pass as the net is reset into the water to minimize bycatch;
 
-(2) The NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains shall initiate marine mammal watches (visual observation) no less than 30 minutes prior to both deployment and retrieval of the pot and trap gear. Marine mammal watches shall be conducted by scanning the surrounding waters with the naked eye and binoculars (or monocular). During nighttime operations, visual observation shall be conducted using the naked eye and available vessel lighting.
+(6) The NEFSC must ensure that surveys deploy acoustic pingers on gillnets in areas where required for commercial fisheries. NEFSC must ensure that the devices are operating properly before deploying the net;
 
-(3) The NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains shall implement the move-on rule. If marine mammals are sighted near the vessel before setting the gear, the NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains, as appropriate, may decide to move the vessel away from the marine mammal to a different section of the sampling area if the animal appears to be at risk of interaction with the gear. If, after moving on, marine mammals are still visible from the vessel, the NEFSC, and/or its cooperating institutions, contracted vessels, or commercially-hired captains may decide to move again or to skip the station. The NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains may use best professional judgment in making this decision but may not elect to conduct the pot and trap activity when animals remain near the vessel.
+(7) NEFSC must maintain visual monitoring effort during the entire period of gear deployment or retrieval. If marine mammals are sighted during the soak and are deemed at risk of interaction, the gillnet must be pulled. If fishing operations are halted, operations resume when animal(s) have not been sighted within 15 minutes or are determined to no longer be at risk. In other instances, the station is moved or cancelled;
 
-(4) If marine mammals are sighted near the vessel during the soak and are determined to be at risk of interacting with the gear, then the NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains shall carefully retrieve the gear as quickly as possible. The NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains may use best professional judgment in making this decision.
+(8) NEFSC must ensure that cooperating institutions, contracted vessels, or commercially-hired captains conducting gillnet surveys adhere to monitoring and mitigation requirements and must include required protocols in all survey instructions, contracts, and agreements;
 
-(5) The NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains shall ensure that surveys deploy gear fulfilling all Pot/Trap universal commercial gear configurations such as weak link requirements and marking requirements as specified by applicable take reduction plans as required for commercial pot/trap fisheries.
+(9) For the COASTSPAN gillnet surveys, the NEFSC will actively monitor for potential bottlenose dolphin entanglements by hand-checking the gillnet every 30 minutes or if a disturbance in the net is observed. In the unexpected case of a bottlenose dolphin entanglement resulting in mortality, NEFSC must request and arrange for expedited genetic sampling for stock determination. NEFSC must also photograph the dorsal fin and submit the image to the NMFS Southeast Stranding Coordinator for identification/matching to bottlenose dolphins in the Mid-Atlantic Bottlenose Dolphin Photo-Identification Catalog;
 
-(6) The NEFSC shall ensure that its cooperating institutions, contracted vessels, or commercially-hired captains conducting pot and trap surveys adhere to monitoring and mitigation requirements and shall include required protocols in all survey instructions, contracts, and agreements.
+(10) NEFSC must pull gear immediately if disturbance in the nets is observed.
 
-(g) Fyke net gear protocols:
+(11) All gillnets will be designed with minimal net slack and excess floating and trailing lines will be removed.
 
-(1) NEFSC shall conduct fyke net gear deployment as soon as is practicable upon arrival at the sampling station.
+(12) NEFSC will set only new or fully repaired gill nets, and modify nets to avoid large vertical gaps between float line and net as well as lead line and net when set,
 
-(2) NEFSC shall visually survey the area prior to both deployment and retrieval of the fyke net gear. NEFSC shall conduct monitoring and retrieval of the gear every 12- to 24-hour soak period.
+(13) On Observer Training cruises, acoustic pingers and weak links may be used on all gillnets consistent with the regulations and TRPs for commercial fisheries. NEFSC must ensure that surveys deploy acoustic deterrent devices on gillnets in areas where required for commercial fisheries. NEFSC must ensure that the devices are operating properly before deploying the net.
 
-(3) If marine mammals are in close proximity (approximately 328 feet [100 meters]) of the setting location, NEFSC shall determine if the set location should be moved. NEFSC may use best professional judgment in making this decision.
+(f) *Pot and trap survey protocols.* (1) The NEFSC must deploy pot gear as soon as is practicable upon arrival at the sampling station;
 
-(4) If marine mammals are observed to interact with the gear during the setting, NEFSC shall lift and remove the gear from the water.
+(2) The NEFSC must initiate marine mammal watches (visual observation) no less than 15 minutes prior to both deployment and retrieval of the pot and trap gear. Marine mammal watches must be conducted by scanning the surrounding waters with the naked eye and binoculars (or monocular). During nighttime operations, visual observation must be conducted using the naked eye and available vessel lighting;
 
-(5) NEFSC must install and use a marine mammal excluder device at all times when the 2-meter fyke net is used.
+(3) The NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains must implement the following “move-on” rule. If marine mammals are sighted within 1 nmi of the planned location in the 15 minutes before gear deployment, the NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains, as appropriate, may decide to move the vessel away from the marine mammal to a different section of the sampling area if the animal appears to be at risk of interaction with the gear, based on best professional judgement. If, after moving on, marine mammals are still visible from the vessel, the NEFSC may decide to move again or to skip the station;
 
-(h) Beach seine gear protocols:
+(4) If marine mammals are sighted near the vessel during the soak and are determined to be at risk of interacting with the gear, then the NEFSC and/or its cooperating institutions, contracted vessels, or commercially-hired captains must carefully retrieve the gear as quickly as possible. The NEFSC may use best professional judgment in making this decision; and
 
-(1) NEFSC shall conduct beach seine deployment as soon as is practicable upon arrival at the sampling station.
+(5) The NEFSC must ensure that surveys deploy gear fulfilling all pot/trap universal commercial gear configurations such as weak link requirements and marking requirements as specified by applicable take reduction plans as required for commercial pot/trap fisheries.
 
-(2) NEFSC shall visually survey the area prior to both deployment and retrieval of the seine net gear.
+(g) *Fyke net gear protocols.* (1) NEFSC must conduct fyke net gear deployment as soon as is practicable upon arrival at the sampling station;
 
-(3) If marine mammals are in close proximity of the seining location, NEFSC shall lift the net and remove it from the water. NEFSC may use best professional judgment in making this decision.
+(2) NEFSC must visually survey the area prior to both deployment and retrieval of the fyke net gear. NEFSC must conduct monitoring and retrieval of the gear every 12- to 24-hour soak period;
 
-(i) Rotary screw trap gear protocols:
+(3) If marine mammals are in close proximity (approximately 328 feet [100 meters]) of the set location, NEFSC must determine if the net should be removed from the water and the set location should be moved using best professional judgment;
 
-(1) NEFSC shall conduct rotary screw trap deployment as soon as is practicable upon arrival at the sampling station.
+(4) If marine mammals are observed to interact with the gear during the setting, NEFSC must remove the gear from the water and implement best handling practices; and
 
-(2) NEFSC shall visually survey the area prior to both setting and retrieval of the rotary screw trap gear. If marine mammals are observed in the sampling area, NEFSC shall suspend or delay the sampling. NEFSC may use best professional judgment in making this decision.
+(5) NEFSC must install and use a marine mammal excluder device at all times when using fyke nets equal or greater to 2 m.
 
-(3) NEFSC shall tend to the trap on a daily basis to monitor for marine mammal interactions with the gear.
+(h) *Rotary screw trap gear protocols.* (1) NEFSC must conduct rotary screw trap deployment as soon as is practicable upon arrival at the sampling station;
 
-(4) If the rotary screw trap captures a marine mammal, NEFSC shall carefully release the animal as soon as possible.
+(2) NEFSC must visually survey the area prior to both setting and retrieval of the rotary screw trap gear. If marine mammals are observed in the sampling area, NEFSC must suspend or delay the sampling. NEFSC may use best professional judgment in making this decision;
+
+(3) NEFSC must tend to the trap on a daily basis to monitor for marine mammal interactions with the gear; and
+
+(4) If the rotary screw trap captures a marine mammal, NEFSC must remove gear and implement best handling practices.
