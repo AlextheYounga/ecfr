@@ -1,5 +1,7 @@
 ##### § 273.11 Action on households with special circumstances. #####
 
+Link to an amendment published at 84 FR 4680, Feb. 19, 2019.
+
 (a) *Self-employment income.* The State agency must calculate a household's self-employment income as follows:
 
 (1) *Averaging self-employment income.* (i) Self-employment income must be averaged over the period the income is intended to cover, even if the household receives income from other sources. If the averaged amount does not accurately reflect the household's actual circumstances because the household has experienced a substantial increase or decrease in business, the State agency must calculate the self-employment income on the basis of anticipated, not prior, earnings.

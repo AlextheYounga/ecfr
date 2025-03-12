@@ -1,5 +1,7 @@
 ##### § 635.30 Possession at sea and landing. #####
 
+Link to an amendment published at 84 FR 5377, Feb. 21, 2019.
+
 (a) *Atlantic tunas.* Persons that own or operate a fishing vessel that possesses an Atlantic tuna in the Atlantic Ocean or that lands an Atlantic tuna in an Atlantic coastal port must maintain such Atlantic tuna through offloading either in round form or eviscerated with the head and fins removed, provided one pectoral fin and the tail remain attached. The upper and lower lobes of the tuna tail may be removed for storage purposes as long as the fork of the tail remains intact.
 
 (b) *Billfish.* Any person that possesses a blue marlin, white marlin, or roundscale spearfish taken from its management unit or a sailfish taken shoreward of the outer boundary of the EEZ or lands a blue marlin, white marlin, or roundscale spearfish in an Atlantic coastal port must maintain such billfish with its head, fins, and bill intact through offloading. Persons may eviscerate such billfish, but it must otherwise be maintained whole.

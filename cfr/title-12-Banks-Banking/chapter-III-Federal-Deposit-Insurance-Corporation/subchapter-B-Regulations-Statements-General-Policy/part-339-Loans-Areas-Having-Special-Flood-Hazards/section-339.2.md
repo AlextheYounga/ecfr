@@ -1,5 +1,7 @@
 ##### § 339.2 Definitions. #####
 
+Link to an amendment published at 84 FR 4971, Feb. 20, 2019.
+
 As used in this part:
 
 *Act* means the National Flood Insurance Act of 1968, as amended (42 U.S.C. 4001-4129).

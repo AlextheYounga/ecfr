@@ -1,5 +1,7 @@
 ##### § 22.2 Definitions. #####
 
+Link to an amendment published at 84 FR 4969, Feb. 20, 2019.
+
 For purposes of this part:
 
 (a) *Act* means the National Flood Insurance Act of 1968, as amended (42 U.S.C. 4001-4129).

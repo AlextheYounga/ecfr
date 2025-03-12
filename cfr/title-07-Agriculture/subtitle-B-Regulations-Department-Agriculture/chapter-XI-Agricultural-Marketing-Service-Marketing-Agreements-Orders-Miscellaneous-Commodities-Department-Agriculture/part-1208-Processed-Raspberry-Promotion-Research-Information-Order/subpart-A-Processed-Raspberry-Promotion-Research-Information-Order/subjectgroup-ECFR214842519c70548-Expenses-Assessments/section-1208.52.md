@@ -61,3 +61,9 @@ Table I - Processed Raspberry Products Assessment Table
 (vii) The individual's signature or properly witnessed mark.
 
 (6) The evidence of payment as required under § 1208.61, or a copy thereof, or such other evidence deemed necessary to the Council shall accompany the individual's credit of assessment request.
+
+Note 1 to § 1208.52:
+
+The requirement to pay assessments is terminated as of February 21, 2019.
+
+[77 FR 26919, May 8, 2012, as amended at 84 FR 4952, Feb. 20, 2019]

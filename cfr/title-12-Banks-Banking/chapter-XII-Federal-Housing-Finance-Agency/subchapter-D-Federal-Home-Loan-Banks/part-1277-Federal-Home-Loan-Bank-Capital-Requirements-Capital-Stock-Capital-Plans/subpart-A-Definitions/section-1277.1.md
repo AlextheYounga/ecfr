@@ -1,5 +1,7 @@
 ##### § 1277.1 Definitions. #####
 
+Link to an amendment published at 84 FR 5325, Feb. 20, 2019.
+
 As used in this part:
 
 *Class A stock* means capital stock issued by a Bank, including subclasses, that has the characteristics specified by § 1277.20(a).

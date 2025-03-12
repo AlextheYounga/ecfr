@@ -1,0 +1,3 @@
+##### § 66.109 Required disclosure with actual knowledge. #####
+
+Notwithstanding any provision in this subpart, if a food manufacturer (other than a very small food manufacturer), a retailer, or an importer has actual knowledge that the food is a bioengineered food or contains a bioengineered food ingredient, it must disclose that the food is bioengineered or contains a bioengineered food ingredient, as applicable, using appropriate text, symbol, electronic or digital link disclosure, or text message.

@@ -1,5 +1,7 @@
 ##### § 635.71 Prohibitions. #####
 
+Link to an amendment published at 84 FR 5377, Feb. 21, 2019.
+
 In addition to the prohibitions specified in § 600.725 of this chapter, it is unlawful for any person subject to the jurisdiction of the United States to violate any provision of this part, ATCA, the Magnuson-Stevens Act, or any other rules promulgated under ATCA or the Magnuson-Stevens Act.
 
 (a) *General.* It is unlawful for any person or vessel subject to the jurisdiction of the United States to:
