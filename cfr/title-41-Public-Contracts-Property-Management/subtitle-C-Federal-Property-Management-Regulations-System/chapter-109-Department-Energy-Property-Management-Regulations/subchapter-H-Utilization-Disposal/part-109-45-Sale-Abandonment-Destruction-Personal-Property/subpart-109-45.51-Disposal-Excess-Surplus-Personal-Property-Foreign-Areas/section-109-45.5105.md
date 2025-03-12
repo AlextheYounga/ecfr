@@ -23,3 +23,5 @@
 (6) The categories of prospective purchasers (*e.g.,* host country, other foreign countries, special qualifications, etc.).
 
 (7) How taxes, excises, duties, etc., will be handled.
+
+(b) [Reserved]

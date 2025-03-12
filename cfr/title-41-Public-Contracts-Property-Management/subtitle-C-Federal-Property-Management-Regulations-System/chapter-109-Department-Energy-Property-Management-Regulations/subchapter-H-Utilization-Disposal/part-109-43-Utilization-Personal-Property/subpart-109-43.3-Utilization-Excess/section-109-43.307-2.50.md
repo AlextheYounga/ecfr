@@ -1,0 +1,3 @@
+##### § 109-43.307-2.50 Monitoring of hazardous personal property. #####
+
+To provide assurance that hazardous personal property is not being inadvertently released from the site by transfer or sale to the public, all hazardous or suspected hazardous personal property shall be checked for contamination by environmental, safety, and health officials. Contamination-free personal property will be tagged with a certification tag authorizing release for transfer or sale. Contaminated personal property will be referred back to the program office for appropriate action.

@@ -1,6 +1,6 @@
 ##### § 261.6 Timber and other forest products. #####
 
-Link to an amendment published at 73 FR 79392, Dec. 29, 2008.Amendment delayed until Mar. 30, 2009, at 74 FR 5107, Jan. 29, 2009.Amendment further delayed until May 29, 2009, at 74 FR 14049, Mar. 30, 2009.Amendment delayed indefinitely at 74 FR 26091, June 1, 2009.
+Link to an amendment published at 73 FR 79392, Dec. 29, 2008.This amendment was delayed until Mar. 30, 2009, at 74 FR 5107, Jan. 29, 2009.This amendment was further delayed until May 29, 2009, at 74 FR 14049, Mar. 30, 2009.This amendment was further delayed indefinitely at 74 FR 26091, June 1, 2009.
 
 The following are prohibited:
 
