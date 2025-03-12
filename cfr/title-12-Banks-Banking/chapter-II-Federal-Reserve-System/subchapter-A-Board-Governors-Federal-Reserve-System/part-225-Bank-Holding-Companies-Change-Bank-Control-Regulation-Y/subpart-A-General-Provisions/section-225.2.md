@@ -118,7 +118,7 @@ Except as modified in this regulation or unless the context otherwise requires, 
 
 (r) *Well-capitalized* - (1) *Bank holding company.* In the case of a bank holding company,2*well-capitalized* means that:
 
-2 For purposes of this subpart and subparts B and C of this part, a bank holding company with consolidated assets of less than $1 billion that is subject to the Small Bank Holding Company Policy Statement in appendix C of this part will be deemed to be “well-capitalized” if the bank holding company meets the requirements for expedited/waived processing in appendix C.
+2 For purposes of this subpart and subparts B and C of this part, a bank holding company that is subject to the Small Bank Holding Company and Savings and Loan Holding Company Policy Statement in appendix C of this part will be deemed to be “well-capitalized” if the bank holding company meets the requirements for expedited/waived processing in appendix C.
 
 (i) On a consolidated basis, the bank holding company maintains a total risk-based capital ratio of 10.0 percent or greater, as defined in 12 CFR 217.10;
 
@@ -156,4 +156,4 @@ Except as modified in this regulation or unless the context otherwise requires, 
 
 (t) *Depository institution.* For purposes of this part, the term “depository institution” has the same meaning as in section 3(c) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c)).
 
-[Reg. Y, 62 FR 9319, Feb. 28, 1997, as amended at 65 FR 3791, Jan. 25, 2000; 65 FR 15055, Mar. 21, 2000; 66 FR 414, Jan. 3, 2001; 71 FR 9901, Feb. 28, 2006; 78 FR 62290, Oct. 11, 2013; 80 FR 20157, Apr. 15, 2015; 80 FR 70673, Nov. 16, 2015]
+[Reg. Y, 62 FR 9319, Feb. 28, 1997, as amended at 65 FR 3791, Jan. 25, 2000; 65 FR 15055, Mar. 21, 2000; 66 FR 414, Jan. 3, 2001; 71 FR 9901, Feb. 28, 2006; 78 FR 62290, Oct. 11, 2013; 80 FR 20157, Apr. 15, 2015; 80 FR 70673, Nov. 16, 2015; 83 FR 44198, Aug. 30, 2018]

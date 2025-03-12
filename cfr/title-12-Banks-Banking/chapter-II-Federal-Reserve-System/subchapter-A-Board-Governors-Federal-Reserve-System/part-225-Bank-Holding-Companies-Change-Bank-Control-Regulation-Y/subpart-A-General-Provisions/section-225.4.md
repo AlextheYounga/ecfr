@@ -4,7 +4,7 @@
 
 (2) Whenever the Board believes an activity of a bank holding company or control of a nonbank subsidiary (other than a nonbank subsidiary of a bank) constitutes a serious risk to the financial safety, soundness, or stability of a subsidiary bank of the bank holding company and is inconsistent with sound banking principles or the purposes of the BHC Act or the Financial Institutions Supervisory Act of 1966, as amended (12 U.S.C. 1818(b) *et seq.*), the Board may require the bank holding company to terminate the activity or to terminate control of the subsidiary, as provided in section 5(e) of the BHC Act.
 
-(b) *Purchase or redemption by bank holding company of its own securities* - (1) *Filing notice.* Except as provided in paragraph (b)(6) of this section, a bank holding company shall give the Board prior written notice before purchasing or redeeming its equity securities if the gross consideration for the purchase or redemption, when aggregated with the net consideration paid by the company for all such purchases or redemptions during the preceding 12 months, is equal to 10 percent or more of the company's consolidated net worth. For the purposes of this section, “net consideration” is the gross consideration paid by the company for all of its equity securities purchased or redeemed during the period minus the gross consideration received for all of its equity securities sold during the period.
+(b) *Purchase or redemption by bank holding company of its own securities*—(1) *Filing notice.* Except as provided in paragraph (b)(6) of this section, a bank holding company shall give the Board prior written notice before purchasing or redeeming its equity securities if the gross consideration for the purchase or redemption, when aggregated with the net consideration paid by the company for all such purchases or redemptions during the preceding 12 months, is equal to 10 percent or more of the company's consolidated net worth. For the purposes of this section, “net consideration” is the gross consideration paid by the company for all of its equity securities purchased or redeemed during the period minus the gross consideration received for all of its equity securities sold during the period.
 
 (2) *Contents of notice.* Any notice under this section shall be filed with the appropriate Reserve Bank and shall contain the following information:
 
@@ -12,9 +12,9 @@
 
 (ii) A description of all equity securities redeemed within the preceding 12 months, the net consideration paid, and the terms of any debt incurred in connection with those transactions; and
 
-(iii)(A) If the bank holding company has consolidated assets of $1 billion or more, consolidated *pro forma* risk-based capital and leverage ratio calculations for the bank holding company as of the most recent quarter, and, if the redemption is to be debt funded, a parent-only *pro forma* balance sheet as of the most recent quarter; or
+(iii)(A) If the bank holding company has consolidated assets of $3 billion or more, consolidated *pro forma* risk-based capital and leverage ratio calculations for the bank holding company as of the most recent quarter, and, if the redemption is to be debt funded, a parent-only *pro forma* balance sheet as of the most recent quarter; or
 
-(B) If the bank holding company has consolidated assets of less than $1 billion, a *pro forma* parent-only balance sheet as of the most recent quarter, and, if the redemption is to be debt funded, one-year income statement and cash flow projections.
+(B) If the bank holding company has consolidated assets of less than $3 billion, a *pro forma* parent-only balance sheet as of the most recent quarter, and, if the redemption is to be debt funded, one-year income statement and cash flow projections.
 
 (3) *Acting on notice.* Within 15 calendar days of receipt of a notice under this section, the appropriate Reserve Bank shall either approve the transaction proposed in the notice or refer the notice to the Board for decision. If the notice is referred to the Board for decision, the Board shall act on the notice within 30 calendar days after the Reserve Bank receives the notice.
 
@@ -58,4 +58,4 @@
 
 (h) *Protection of customer information and consumer information.* A bank holding company shall comply with the Interagency Guidelines Establishing Information Security Standards, as set forth in appendix F of this part, prescribed pursuant to sections 501 and 505 of the Gramm-Leach-Bliley Act (15 U.S.C. 6801 and 6805). A bank holding company shall properly dispose of consumer information in accordance with the rules set forth at 16 CFR part 682.
 
-[Reg. Y, 62 FR 9319, Feb. 28, 1997, as amended at 63 FR 58621, Nov. 2, 1998; 65 FR 14442, Mar. 17, 2000; 66 FR 8636, Feb. 1, 2001; 69 FR 77618, Dec. 28, 2004; 71 FR 9901, Feb. 28, 2006; 76 FR 74644, Dec. 1, 2011; 78 FR 62290, Oct. 11, 2013; 80 FR 20157, Apr. 15, 2015; 80 FR 70673, Nov. 16, 2015]
+[Reg. Y, 62 FR 9319, Feb. 28, 1997, as amended at 63 FR 58621, Nov. 2, 1998; 65 FR 14442, Mar. 17, 2000; 66 FR 8636, Feb. 1, 2001; 69 FR 77618, Dec. 28, 2004; 71 FR 9901, Feb. 28, 2006; 76 FR 74644, Dec. 1, 2011; 78 FR 62290, Oct. 11, 2013; 80 FR 20157, Apr. 15, 2015; 80 FR 70673, Nov. 16, 2015; 83 FR 44198, Aug. 30, 2018]

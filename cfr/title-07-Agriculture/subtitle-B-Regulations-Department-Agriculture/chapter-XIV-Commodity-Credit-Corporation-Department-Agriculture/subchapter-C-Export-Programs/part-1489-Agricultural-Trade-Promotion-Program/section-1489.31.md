@@ -1,0 +1,3 @@
+##### § 1489.31 Program income. #####
+
+Any revenue or refunds generated from an activity, *e.g.,* participation fees, proceeds of sales, refunds of value added taxes (VAT), the expenditures for which have been wholly or partially reimbursed with ATP funds, shall be used by the ATP Participant in furtherance of its approved ATP activities in the program period during which the ATP funds are available for obligation by the ATP Participant. The use of such revenue or refunds shall be governed by 7 CFR part 1489. Interest earned on funds advanced by the CCC is not program income.

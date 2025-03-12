@@ -1,6 +1,6 @@
 ##### § 121.1 The United States Munitions List. #####
 
-Link to an amendment published at 82 FR 41173, Aug. 30, 2017.
+Link to an amendment published at 83 FR 44229, Aug. 30, 2018.
 
 (a) *U.S. Munitions List.* In this part, articles, services, and related technical data are designated as defense articles or defense services pursuant to sections 38 and 47(7) of the Arms Export Control Act and constitute the U.S. Munitions List (USML). Changes in designations are published in the Federal Register. Paragraphs (a)(1) through (3) of this section describe or explain the elements of a USML category:
 
@@ -1530,7 +1530,7 @@ Note 2 to paragraph (a):
 
 Paragraphs (a)(3)(xxix) and (a)(12) include terrain contour mapping equipment, scene mapping and correlation (both digital and analogue) equipment, Doppler navigation radar equipment, passive interferometer equipment, and imaging sensor equipment (both active and passive).
 
-\*(b) Electronic systems, equipment or software, not elsewhere enumerated in this subchapter, specially designed for intelligence purposes that collect, survey, monitor, or exploit, or analyze and produce information from, the electromagnetic spectrum (regardless of transmission medium), or for counteracting such activities.
+\* (b) Electronic systems, equipment or software, not elsewhere enumerated in this subchapter, specially designed for intelligence purposes that collect, survey, monitor, or exploit, or analyze and produce information from, the electromagnetic spectrum (regardless of transmission medium), or for counteracting such activities.
 
 (c) Parts, components, accessories, attachments, and associated equipment, as follows:
 

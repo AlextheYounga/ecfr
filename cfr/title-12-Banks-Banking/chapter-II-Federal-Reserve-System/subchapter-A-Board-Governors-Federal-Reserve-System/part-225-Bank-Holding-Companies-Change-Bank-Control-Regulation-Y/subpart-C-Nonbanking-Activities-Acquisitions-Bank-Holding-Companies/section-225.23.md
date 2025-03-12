@@ -10,9 +10,9 @@
 
 (iii) If the proposal involves an acquisition of a going concern:
 
-(A) If the bank holding company has consolidated assets of $1 billion or more, an abbreviated consolidated *pro forma* balance sheet for the acquiring bank holding company as of the most recent quarter showing credit and debit adjustments that reflect the proposed transaction, consolidated *pro forma* risk-based capital ratios for the acquiring bank holding company as of the most recent quarter, a description of the purchase price and the terms and sources of funding for the transaction, and the total revenue and net income of the company to be acquired;
+(A) If the bank holding company has consolidated assets of $3 billion or more, an abbreviated consolidated *pro forma* balance sheet for the acquiring bank holding company as of the most recent quarter showing credit and debit adjustments that reflect the proposed transaction, consolidated *pro forma* risk-based capital ratios for the acquiring bank holding company as of the most recent quarter, a description of the purchase price and the terms and sources of funding for the transaction, and the total revenue and net income of the company to be acquired;
 
-(B) If the bank holding company has consolidated assets of less than $1 billion, a *pro forma* parent-only balance sheet as of the most recent quarter showing credit and debit adjustments that reflect the proposed transaction, a description of the purchase price and the terms and sources of funding for the transaction and the sources and schedule for retiring any debt incurred in the transaction, and the total assets, off-balance sheet items, revenue and net income of the company to be acquired;
+(B) If the bank holding company has consolidated assets of less than $3 billion, a *pro forma* parent-only balance sheet as of the most recent quarter showing credit and debit adjustments that reflect the proposed transaction, a description of the purchase price and the terms and sources of funding for the transaction and the sources and schedule for retiring any debt incurred in the transaction, and the total assets, off-balance sheet items, revenue and net income of the company to be acquired; or
 
 (C) For each insured depository institution whose Tier 1 capital, total capital, total assets or risk-weighted assets change as a result of the transaction, the total risk-weighted assets, total assets, Tier 1 capital and total capital of the institution on a *pro forma* basis;
 
@@ -74,4 +74,4 @@
 
 (d) *Branches and agencies of foreign banking organizations.* For purposes of this section, a U.S. branch or agency of a foreign banking organization shall be considered to be an insured depository institution.
 
-[Reg. Y, 62 FR 9329, Feb. 28, 1997, as amended at 66 FR 415, Jan. 3, 2001; 71 FR 9902, Feb. 28, 2006; 78 FR 62291, Oct. 11, 2013; 80 FR 20157, Apr. 15, 2015]
+[Reg. Y, 62 FR 9329, Feb. 28, 1997, as amended at 66 FR 415, Jan. 3, 2001; 71 FR 9902, Feb. 28, 2006; 78 FR 62291, Oct. 11, 2013; 80 FR 20157, Apr. 15, 2015; 83 FR 44199, Aug. 30, 2018]

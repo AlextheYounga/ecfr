@@ -18,7 +18,7 @@
 
 (6) The company demonstrates that any debt that it incurs at the time of the reorganization, and the proposed means of retiring this debt, will not place undue burden on the holding company or its subsidiary on a *pro forma* basis;6
 
-6 For a banking organization with consolidated assets, on a *pro forma* basis, of less than $1 billion (other than a banking organization that will control a de novo bank), this requirement is satisfied if the proposal complies with the Board's Small Bank Holding Company Policy Statement (appendix C of this part).
+6 For a banking organization with consolidated assets, on a *pro forma* basis, of less than $3 billion (other than a banking organization that will control a de novo bank), this requirement is satisfied if the proposal complies with the Board's Small Bank Holding Company and Savings and Loan Holding Company Policy Statement (appendix C of this part).
 
 (7) The holding company will not, as a result of the reorganization, acquire control of any additional bank or engage in any activities other than those of managing and controlling banks; and
 
@@ -42,4 +42,4 @@
 
 (d) *Application required upon objection.* The Reserve Bank or the Board may object to a proposal during the notice period by providing the bank holding company with a written explanation of the reasons for the objection. In such case, the bank holding company may file an application for prior approval of the proposal pursuant to § 225.15 of this subpart.
 
-[Reg. Y, 62 FR 9319, Feb. 28, 1997, as amended at 71 FR 9902, Feb. 28, 2006; 78 FR 62291, Oct. 11, 2013; 80 FR 20157, Apr. 15, 2015]
+[Reg. Y, 62 FR 9319, Feb. 28, 1997, as amended at 71 FR 9902, Feb. 28, 2006; 78 FR 62291, Oct. 11, 2013; 80 FR 20157, Apr. 15, 2015; 83 FR 44199, Aug. 30, 2018]

@@ -12,9 +12,9 @@
 
 (iv) Evidence that notice of the proposal has been published in accordance with § 225.16(b)(1);
 
-(v)(A) If the bank holding company has consolidated assets of $1 billion or more, an abbreviated consolidated *pro forma* balance sheet as of the most recent quarter showing credit and debit adjustments that reflect the proposed transaction, consolidated *pro forma* risk-based capital ratios for the acquiring bank holding company as of the most recent quarter, and a description of the purchase price and the terms and sources of funding for the transaction;
+(v)(A) If the bank holding company has consolidated assets of $3 billion or more, an abbreviated consolidated *pro forma* balance sheet as of the most recent quarter showing credit and debit adjustments that reflect the proposed transaction, consolidated *pro forma* risk-based capital ratios for the acquiring bank holding company as of the most recent quarter, and a description of the purchase price and the terms and sources of funding for the transaction; or
 
-(B) If the bank holding company has consolidated assets of less than $1 billion, a *pro forma* parent-only balance sheet as of the most recent quarter showing credit and debit adjustments that reflect the proposed transaction, and a description of the purchase price, the terms and sources of funding for the transaction, and the sources and schedule for retiring any debt incurred in the transaction;
+(B) If the bank holding company has consolidated assets of less than $3 billion, a *pro forma* parent-only balance sheet as of the most recent quarter showing credit and debit adjustments that reflect the proposed transaction, and a description of the purchase price, the terms and sources of funding for the transaction, and the sources and schedule for retiring any debt incurred in the transaction;
 
 (vi) If the bank holding company has consolidated assets of less than $300 million, a list of and biographical information regarding any directors or senior executive officers of the resulting bank holding company that are not directors or senior executive officers of the acquiring bank holding company or of a company or institution to be acquired;
 
@@ -96,4 +96,4 @@
 
 (e) *Branches and agencies of foreign banking organizations.* For purposes of this section, a U.S. branch or agency of a foreign banking organization shall be considered to be an insured depository institution. A U.S. branch or agency of a foreign banking organization shall be subject to paragraph (c)(3)(ii) of this section only to the extent it is insured by the Federal Deposit Insurance Corporation in accordance with section 6 of the International Banking Act of 1978 (12 U.S.C. 3104).
 
-[Reg. Y, 62 FR 9324, Feb. 28, 1997, as amended at 66 FR 415, Jan. 3, 2001; 71 FR 9901, Feb. 28, 2006; 78 FR 62291, Oct. 11, 2013; 80 FR 20157, Apr. 15, 2015]
+[Reg. Y, 62 FR 9324, Feb. 28, 1997, as amended at 66 FR 415, Jan. 3, 2001; 71 FR 9901, Feb. 28, 2006; 78 FR 62291, Oct. 11, 2013; 80 FR 20157, Apr. 15, 2015; 83 FR 44199, Aug. 30, 2018]

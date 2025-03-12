@@ -10,7 +10,7 @@
 
 (ii) A bank holding company domiciled in the United States that is not subject to 12 CFR part 225, appendix C, provided that the Board may by order apply any or all of this part 217 to any bank holding company, based on the institution's size, level of complexity, risk profile, scope of operations, or financial condition; or
 
-(iii) A covered savings and loan holding company domiciled in the United States, other than a savings and loan holding company that has total consolidated assets of less than $1 billion and meets the requirements of 12 CFR part 225, appendix C, as if the savings and loan holding company were a bank holding company and the savings association were a bank. For purposes of compliance with the capital adequacy requirements and calculations in this part, savings and loan holding companies that do not file the FR Y-9C should follow the instructions to the FR Y-9C.
+(iii) A covered savings and loan holding company domiciled in the United States, other than a savings and loan holding company that meets the requirements of 12 CFR part 225, appendix C, as if the savings and loan holding company were a bank holding company and the savings association were a bank. For purposes of compliance with the capital adequacy requirements and calculations in this part, savings and loan holding companies that do not file the FR Y-9C should follow the instructions to the FR Y-9C.
 
 (2) *Minimum capital requirements and overall capital adequacy standards.* Each Board-regulated institution must calculate its minimum capital requirements and meet the overall capital adequacy standards in subpart B of this part.
 
@@ -82,4 +82,4 @@
 
 (4) Beginning Jan. 1, 2018, a global systemically important BHC (as defined in § 217.2) is subject to limitations on distributions and discretionary bonus payments in accordance with the lower of the maximum payout amount as determined under § 217.11(a)(2)(iii) and the maximum leverage payout amount as determined under § 217.11(a)(2)(vi).
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 24540, May 1, 2014; 79 FR 57744, Sept. 26, 2014; 80 FR 5670, Feb. 3, 2015; 80 FR 20157, Apr. 15, 2015; 80 FR 49103, Aug. 14, 2015]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 24540, May 1, 2014; 79 FR 57744, Sept. 26, 2014; 80 FR 5670, Feb. 3, 2015; 80 FR 20157, Apr. 15, 2015; 80 FR 49103, Aug. 14, 2015; 83 FR 44198, Aug. 30, 2018]
