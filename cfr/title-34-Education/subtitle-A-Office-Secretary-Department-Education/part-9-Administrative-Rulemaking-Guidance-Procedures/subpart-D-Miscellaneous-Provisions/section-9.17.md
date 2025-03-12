@@ -1,0 +1,3 @@
+##### § 9.17 Policy updates and revisions. #####
+
+This part will be reviewed periodically to reflect improvements in the rulemaking process or changes in Administration policy. If Congress revises applicable laws or if the executive branch issues new Executive orders, Presidential memoranda, guidance, or implementing instructions governing Federal agency rulemaking, those changes will also be part of this review.

@@ -1,0 +1,3 @@
+##### § 9.18 Disclaimer. #####
+
+This part is intended to improve the internal management of the Department. It is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States; its agencies or other entities, officers, or employees; or any other person. In addition, this part shall not be construed to create any right to judicial review involving the compliance or noncompliance with this part by the Department, its POCs, its officers or employees, or any other person.

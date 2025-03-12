@@ -1,6 +1,6 @@
 ##### § 510.200 Time periods, included and excluded services, and attribution. #####
 
-(a) *Time periods.* All episodes must begin on or after April 1, 2016 and end on or before March 31, 2021.
+(a) *Time periods.* All episodes must begin on or after April 1, 2016 and end on or before September 30, 2021.
 
 (b) *Included services.* All Medicare Parts A and B items and services are included in the episode, except as specified in paragraph (d) of this section. These services include, but are not limited to, the following:
 
@@ -68,7 +68,7 @@
 
 (5) Certain incentive programs and add on payments under existing Medicare payment systems in accordance with § 510.300(b)(6) of this chapter.
 
-(6) Payments for otherwise included items and services in excess of 2 standard deviations above the mean regional episode payment in accordance with § 510.300(b)(5) of this chapter.
+(6) For performance years 1 through 4 and for performance year subsets 5.1 and 5.2, payments for otherwise included items and services in excess of 2 standard deviations above the mean regional episode payment in accordance with § 510.300(b)(5).
 
 (e) *Updating the lists of excluded services.* (1) The list of excluded MS-DRGs, ICD-CM diagnosis codes, and CMS model PBPM payments are posted on the CMS Web site.
 
@@ -92,4 +92,4 @@
 
 (ii) An updated exclusions list after consideration of public comment.
 
-[80 FR 73540, Nov. 24, 2015, as amended at 85 FR 19292, Apr. 6, 2020]
+[80 FR 73540, Nov. 24, 2015, as amended at 85 FR 19292, Apr. 6, 2020; 85 FR 71199, Nov. 6, 2020]

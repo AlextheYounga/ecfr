@@ -72,7 +72,7 @@
 
 (iv) The applicable percentage threshold for widely available market price comparisons is 5 percent.
 
-(e) *Exceptions to the average sales price* - (1) *Vaccines.* The payment limits for hepatitis B vaccine furnished to individuals at high or intermediate risk of contracting hepatitis B (as determined by the Secretary), pneumococcal vaccine, and influenza vaccine and are calculated using 95 percent of the average wholesale price.
+(e) *Exceptions to the average sales price* - (1) *Vaccines.* The payment limits for hepatitis B vaccine furnished to individuals at high or intermediate risk of contracting hepatitis B (as determined by the Secretary), pneumococcal vaccine, influenza vaccine, and COVID-19 vaccine are calculated using 95 percent of the average wholesale price.
 
 (2) *Infusion drugs furnished through a covered item of durable medical equipment.* The payment limit for an infusion drug furnished before January 1, 2017, through a covered item of durable medical equipment is calculated using 95 percent of the average wholesale price in effect on October 1, 2003.
 
@@ -104,4 +104,4 @@
 
 (j) *Biosimilar biological products*. Effective January 1, 2016, the payment amount for a biosimilar biological drug product (as defined in § 414.902) for all NDCs assigned to such product is the sum of the average sales price of all NDCs assigned to the biosimilar biological products included within the same billing and payment code as determined under section 1847A(b)(6) of the Act and 6 percent of the amount determined under section 1847A(b)(4) of the Act for the reference drug product (as defined in § 414.902).
 
-[69 FR 66424, Nov. 15, 2004, as amended at 70 FR 70332, Nov. 21, 2005; 71 FR 69788, Dec. 1, 2006; 72 FR 66402, Nov. 27, 2007; 73 FR 69937, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 74 FR 62012, Nov. 25, 2009; 75 FR 73626, Nov. 29, 2010; 76 FR 73473, Nov. 28, 2011; 77 FR 69368, Nov. 16, 2012; 80 FR 71382, Nov. 16, 2015; 82 FR 53363, Nov. 15, 2017; 83 FR 60074, Nov. 23, 2018]
+[69 FR 66424, Nov. 15, 2004, as amended at 70 FR 70332, Nov. 21, 2005; 71 FR 69788, Dec. 1, 2006; 72 FR 66402, Nov. 27, 2007; 73 FR 69937, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 74 FR 62012, Nov. 25, 2009; 75 FR 73626, Nov. 29, 2010; 76 FR 73473, Nov. 28, 2011; 77 FR 69368, Nov. 16, 2012; 80 FR 71382, Nov. 16, 2015; 82 FR 53363, Nov. 15, 2017; 83 FR 60074, Nov. 23, 2018; 85 FR 71197, Nov. 6, 2020]

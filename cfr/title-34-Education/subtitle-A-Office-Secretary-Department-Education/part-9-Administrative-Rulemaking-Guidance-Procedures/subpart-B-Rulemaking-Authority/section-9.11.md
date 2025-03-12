@@ -1,0 +1,11 @@
+##### § 9.11 Public contacts in informal rulemaking. #####
+
+(a) *Informal rulemakings conducted in accordance with the APA.* (1) After the issuance of an NPRM and pending completion of the related final rule, Department personnel will not give persons outside the executive branch information regarding the rulemaking that is not generally available to the public.
+
+(2) If, after the close of the comment period for the proposed rule, the Department receives a comment from the public that provides information that was not available prior to the deadline for submitting public comments concerning the proposed rule and that forms the basis of a critical decision in the final rule (such as newly available, reliable studies or data), the Department should reopen the comment period to give the public an opportunity to comment on the newly available information, unless the new information merely reinforces the information from the proposed rule or previously available in the public docket. If the new information is likely to result in a change to the rule that is not a logical outgrowth of the proposed rule, the POC must issue a supplemental NPRM to ensure that the final rule represents a logical outgrowth of the Department's proposal.
+
+(b) *Contacts during OMB review.* (1) Executive Orders 12866 and 13563 describe the procedures for review of significant regulations by OMB, which include a process for members of the public to request meetings with OMB regarding rules under OMB review. In accordance with Executive Order 12866, OMB invites the Department to attend these meetings. DRS will forward these invitations to the appropriate regulatory contacts in the Department.
+
+(2) The responsible POC and DRS will determine who will participate in the meeting. Participation may occur by phone, by videoconference, or in person. These OMB meetings are listening sessions for the Department.
+
+(3) The attending Department personnel should refrain from debating particular points regarding the rulemaking and should avoid disclosing the contents of a document or proposed regulatory action that has not yet been disclosed to the public, but may answer questions of fact regarding a public document.

@@ -8,11 +8,11 @@
 
 (2) Separately billable drugs at independent dialysis facilities not under the ESRD composite rate.
 
-(3) Statutorily covered drugs, for example -
+(3) Statutorily covered drugs, for example—
 
 (i) Influenza.
 
-(ii) Pneumococcal and Hepatitis B vaccines.
+(ii) Pneumococcal, Hepatitis B, and COVID-19 vaccines.
 
 (iii) Antigens.
 
@@ -22,4 +22,4 @@
 
 (vi) Certain oral anti-cancer drugs.
 
-[69 FR 66424, Nov. 15, 2004, as amended at 70 FR 39093, July 6, 2005]
+[69 FR 66424, Nov. 15, 2004, as amended at 70 FR 39093, July 6, 2005; 85 FR 71197, Nov. 6, 2020]

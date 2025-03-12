@@ -6,7 +6,7 @@
 
 (1) Home health services.
 
-(2) Pneumococcal, influenza, and hepatitis b vaccines and their administration.
+(2) Pneumococcal, influenza, and hepatitis b, and COVID-19 vaccines and their administration.
 
 (3) Federally qualified health center services.
 
@@ -18,7 +18,7 @@
 
 (7) Beginning January 1, 2007, colorectal cancer screening tests as described in § 410.37.
 
-(8) Beginning January 1, 2011, for a surgical service, and beginning January 1, 2015, for an anesthesia service, furnished in connection with, as a result of, and in the same clinical encounter as a planned colorectal cancer screening test. A surgical or anesthesia service furnished in connection with, as a result of, and in the same clinical encounter as a colorectal cancer screening test means - a surgical or anesthesia service furnished on the same date as a planned colorectal cancer screening test as described in § 410.37.
+(8) Beginning January 1, 2011, for a surgical service, and beginning January 1, 2015, for an anesthesia service, furnished in connection with, as a result of, and in the same clinical encounter as a planned colorectal cancer screening test. A surgical or anesthesia service furnished in connection with, as a result of, and in the same clinical encounter as a colorectal cancer screening test means—a surgical or anesthesia service furnished on the same date as a planned colorectal cancer screening test as described in § 410.37.
 
 (9) Beginning January 1, 2009, initial preventive physical examinations as described in § 410.16.
 
@@ -72,4 +72,4 @@
 
 (3) Mr. C became entitled to Medicare Part B benefits on July 1, 1982. He incurred expenses of $200 in July, August, and September. The carrier determined that the changes as submitted were reasonable. Even though Mr. C was entitled to benefits for only half the year, he must meet the full $75 deductible. Thus, $75 of this expense constitutes Mr. C's deductible. Medicare would pay $100, which is 80 percent of the remaining $125.
 
-[51 FR 41339, Nov. 14, 1986, as amended at 56 FR 8842, 8852, Mar. 1, 1991; 57 FR 24981, June 12, 1992; 62 FR 59101, Oct. 31, 1997; 69 FR 66423, Nov. 15, 2004; 71 FR 69785, Dec. 1, 2006; 73 FR 69934, Nov. 19, 2008; 75 FR 73615, Nov. 29, 2010; 77 FR 69363, Nov. 16, 2012; 80 FR 71373, Nov. 16, 2015]
+[51 FR 41339, Nov. 14, 1986, as amended at 56 FR 8842, 8852, Mar. 1, 1991; 57 FR 24981, June 12, 1992; 62 FR 59101, Oct. 31, 1997; 69 FR 66423, Nov. 15, 2004; 71 FR 69785, Dec. 1, 2006; 73 FR 69934, Nov. 19, 2008; 75 FR 73615, Nov. 29, 2010; 77 FR 69363, Nov. 16, 2012; 80 FR 71373, Nov. 16, 2015; 85 FR 71197, Nov. 6, 2020]

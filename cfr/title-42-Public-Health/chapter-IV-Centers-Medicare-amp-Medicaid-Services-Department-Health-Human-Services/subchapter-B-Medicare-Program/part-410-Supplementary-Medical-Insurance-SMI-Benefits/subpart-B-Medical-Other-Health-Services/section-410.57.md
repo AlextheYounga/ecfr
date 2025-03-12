@@ -4,4 +4,6 @@
 
 (b) Medicare Part B pays for the influenza virus vaccine and its administration.
 
-[63 FR 35066, June 26, 1998]
+(c) Medicare Part B pays for the COVID-19 vaccine and its administration.
+
+[63 FR 35066, June 26, 1998, as amended at 85 FR 71197, Nov. 6, 2020]

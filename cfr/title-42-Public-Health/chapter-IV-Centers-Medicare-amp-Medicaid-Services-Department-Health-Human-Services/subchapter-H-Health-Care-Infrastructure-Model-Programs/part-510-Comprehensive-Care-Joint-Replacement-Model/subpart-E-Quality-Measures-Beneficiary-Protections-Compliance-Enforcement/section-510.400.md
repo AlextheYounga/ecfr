@@ -1,6 +1,6 @@
 ##### § 510.400 Quality measures and reporting. #####
 
-(a) *Reporting of quality measures.* The following quality measures are used for public reporting, for determining whether a participant hospital is eligible for reconciliation payments under § 510.305(g), and whether a participant hospital is eligible for quality incentive payments under § 510.315(f) in the performance year:
+(a) *Reporting of quality measures.* The following quality measures are used for public reporting, for determining whether a participant hospital is eligible for reconciliation payments under § 510.305(g), and whether a participant hospital is eligible for quality incentive payments under § 510.315(f) in the performance year or performance year subset:
 
 (1) Hospital-level risk-standardized complication rate following elective primary total hip arthroplasty and/or total knee arthroplasty.
 
@@ -32,11 +32,11 @@
 
 (xi) Single Item Health Literacy Screening (SILS2) questionnaire.
 
-(2) Hospitals must also submit the amount of requested THA/TKA patient-reported outcomes data required for each year of the model in order to be considered successful in submitting voluntary data.
+(2) Hospitals must also submit the amount of requested THA/TKA patient-reported outcomes data required for each performance year or performance year subset of the model in order to be considered successful in submitting voluntary data.
 
-(i) The amount of requested THA/TKA patient-reported outcomes data to submit, in order to be considered successful will increase each subsequent year of the model over the 5 years of the model.
+(i) The amount of requested THA/TKA patient-reported outcomes data to submit, in order to be considered successful will increase each subsequent year of the model over the 5 years of the model (with the exception of performance year subset 5.2, for which CMS will request the same amount of THA/TKA patient-reported outcomes data as performance year subset 5.1, updated to reflect the timeframe applicable to performance year subset 5.2).
 
-(ii) A phase-in approach that determines the amount of requested THA/TKA patient-reported outcomes data to submit over the 5 years of the program will be applied so that in year 1 successful submission of data would mean CMS received all requested THA/TKA patient-reported outcomes and limited risk variable data on both of the following:
+(ii) A phase-in approach that determines the amount of requested THA/TKA patient-reported outcomes data to submit over performance years 1 through 4 and performance year subset 5.1 (with the exception of performance year subset 5.2, for which CMS will request the same amount of THA/TKA patient-reported outcomes as performance year subset 5.1, updated to reflect the timeframe applicable to performance year subset 5.2) of the program will be applied so that in year 1 successful submission of data would mean CMS received all requested THA/TKA patient-reported outcomes and limited risk variable data on both of the following:
 
 (A) Greater than or equal to 50 percent of eligible procedures or greater than or equal to 50 eligible patients during the data collection period.
 
@@ -64,11 +64,17 @@
 
 (B) Pre-operative data on primary elective THA/TKA procedures for ≥80% or ≥200 procedures performed between July 1, 2018 and June 30, 2019, unless CMS requests a more limited data set, in which case, submit all requested data elements.
 
-(v) Year 5 (2020). Submit -
+(v) Year 5 (subset 5.1, January 1, 2020-December 31, 2020). Submit -
 
 (A) Post-operative data on primary elective THA/TKA procedures for ≥80% or ≥200 procedures performed between July 1, 2018 and June 30, 2019 and
 
 (B) Pre-operative data on primary elective THA/TKA procedures for ≥80% or ≥200 procedures performed between July 1, 2019 and June 30, 2020, unless CMS requests a more limited data set, in which case, submit all requested data elements.
+
+(vi) Year 5 (subset 5.2, January 1, 2021-September 30, 2021). Submit -
+
+(A) Post-operative data on primary elective THA/TKA procedures for ≥80% or ≥200 procedures performed between July 1, 2019 and June 30, 2020; and
+
+(B) Pre-operative data on primary elective THA/TKA procedures for ≥80% or ≥200 procedures performed between July 1, 2020 and June 30, 2021, unless CMS requests a more limited data set, in which case, submit all requested data elements.
 
 (c) *Public reporting.* CMS -
 
@@ -78,4 +84,4 @@
 
 (3) Does not publicly report the voluntary patient-reported outcomes and limited risk variable data during this model, but indicates whether a hospital has successfully submitted such data in accordance with § 510.400(b).
 
-[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 615, Jan. 3, 2017]
+[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 615, Jan. 3, 2017; 85 FR 71201, Nov. 6, 2020]

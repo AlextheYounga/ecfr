@@ -98,7 +98,7 @@
 
 (l) *Amount of payment: Preventive services.* Medicare Part B pays 100 percent of the Medicare payment amount established under the applicable payment methodology for the service setting for providers and suppliers for the following preventive services:
 
-(1) Pneumococcal (as specified in paragraph (h) of this section), influenza, and hepatitis B vaccine and administration.
+(1) Pneumococcal (as specified in paragraph (h) of this section), influenza, hepatitis B, and COVID-19 vaccine and administration.
 
 (2) Screening mammography.
 

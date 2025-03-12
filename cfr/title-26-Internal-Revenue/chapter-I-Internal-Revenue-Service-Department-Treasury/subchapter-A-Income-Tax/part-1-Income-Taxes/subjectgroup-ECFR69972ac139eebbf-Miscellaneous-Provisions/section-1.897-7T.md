@@ -4,4 +4,6 @@
 
 (b) *Effective date.* Section 1.897-7T shall be effective for transfers, exchanges, distributions and other dispositions occurring after June 6, 1988.
 
-[T.D. 8198, 53 FR 16228, May 5, 1988]
+(c) *Coordination with section 864(c)(8).* [Reserved]. For further guidance, see § 1.897-7(c).
+
+[T.D. 8198, 53 FR 16228, May 5, 1988, as amended by T.D. 9919, 85 FR 70971, Nov. 6, 2020]

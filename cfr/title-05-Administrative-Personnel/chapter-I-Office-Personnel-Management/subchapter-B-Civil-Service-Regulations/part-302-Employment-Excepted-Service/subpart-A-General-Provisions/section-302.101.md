@@ -1,7 +1,5 @@
 ##### § 302.101 Positions covered by regulations. #####
 
-Link to an amendment published at 85 FR 63191, Oct. 7, 2020.
-
 (a) *Positions covered.* With respect to the application of veteran preference, this part applies to each position in the Executive Branch of the Federal Government that is not in the competitive service and that is subject to the provisions of title 5, United States Code, or subject to a statutory requirement to follow the veteran preference provisions of title 5. With respect to restoration rights that are due to compensable injury and appeals therefrom, this part applies to those positions covered by 5 U.S.C. 8101(1) that are not in the competitive service.
 
 (b) *Positions not covered.* This part does not apply to a position or appointment that is required by the Congress to be confirmed by, or made with the advice and consent of, the Senate.
@@ -18,7 +16,7 @@ Link to an amendment published at 85 FR 63191, Oct. 7, 2020.
 
 (5) Positions paid on a fee basis;
 
-(6) Positions included in Schedule A (see subpart C of part 213 of this chapter) and similar types of positions when OPM agrees with the agency that the positions should be included hereunder;
+(6) Positions included in Schedule A (see subpart C of part 213 of this chapter) for which OPM agrees with the agency that the positions should be included hereunder and states in writing that an agency is not required to fill positions according to the procedures in this part.
 
 (7) Positions included in Schedule C (see subpart C of part 213 of this chapter) and positions excepted by statute which are of a confidential, policy-making, or policy-advocating nature;
 
@@ -28,4 +26,6 @@ Link to an amendment published at 85 FR 63191, Oct. 7, 2020.
 
 (10) Positions for which a critical hiring need exists when filled under § 213.3102(i)(2) of this chapter.
 
-[55 FR 9407, Mar. 14, 1990, as amended at 58 FR 58260, Nov. 1, 1993; 60 FR 10006, Feb. 23, 1995; 77 FR 28214, May 11, 2012]
+(11) Appointment of persons with intellectual disabilities, severe physical disabilities, or psychiatric disabilities to positions filled under 5 CFR 213.3102(u).
+
+[55 FR 9407, Mar. 14, 1990, as amended at 58 FR 58260, Nov. 1, 1993; 60 FR 10006, Feb. 23, 1995; 77 FR 28214, May 11, 2012; 85 FR 63191, Oct. 7, 2020]

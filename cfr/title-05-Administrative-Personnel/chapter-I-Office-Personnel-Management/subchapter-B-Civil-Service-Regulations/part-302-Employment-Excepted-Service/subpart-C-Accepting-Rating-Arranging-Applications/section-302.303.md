@@ -1,8 +1,6 @@
 ##### § 302.303 Maintenance of employment lists. #####
 
-Link to an amendment published at 85 FR 63191, Oct. 7, 2020.
-
-(a) *Establishment* - (1) *Agency's obligation.* An agency must establish a priority reemployment list whenever any applicants rated eligible under § 302.302 meet the conditions set out in paragraphs (b)(1) through (b)(3) of this section and must consider candidates from that list in accordance with § 302.304(a). All applicants not included on the priority reemployment list will be listed on the regular employment list unless the agency elects to establish a reemployment list as provided in paragraph (c) of this section.
+(a) *Establishment*—(1) *Agency's obligation.* An agency must establish a priority reemployment list whenever any applicants rated eligible under § 302.302 meet the conditions set out in paragraphs (b)(1) through (b)(3) of this section and must consider candidates from that list in accordance with § 302.304(a). All applicants not included on the priority reemployment list will be listed on the regular employment list unless the agency elects to establish a reemployment list as provided in paragraph (c) of this section.
 
 (2) *Agency discretion.* In establishing its lists, an agency may, but is not required to: Afford priority consideration to non-preference eligibles who meet the conditions set out in paragraph (b)(4) of this section; afford priority consideration under paragraph (b) of this section for a longer time and/or in a broader geographic area than the minimum requirement; and/or provide reemployment consideration after the priority list is exhausted to additional current and former employees in accordance with paragraph (c) of this section. An agency may limit consideration granted at its discretion to applicants for specific positions or applicants who meet specific conditions, but must make those conditions a matter of record and must apply its policy uniformly to all eligible employees. Generally, full-time employees may be considered only for full-time positions and other-than-full-time employees only for other-than-full-time positions. However, full-time employees may be considered for other-than-full-time positions if there are no other-than-full-time employees on the appropriate priority or reemployment list; and other-than-full time employees may be considered for full-time positions if there are no full-time employees on the appropriate list.
 
@@ -24,10 +22,14 @@ Link to an amendment published at 85 FR 63191, Oct. 7, 2020.
 
 (ii) All other candidates eligible for 10-point veteran preference;
 
-(iii) All candidates eligible for 5-point veteran preference; and
+(iii) All candidates eligible for 5-point veteran preference;
 
-(iv) Qualified candidates not eligible for veteran preference.
+(iv) All candidates eligible for sole survivorship preference and
+
+(v) Qualified candidates not eligible for veteran preference.
 
 (2) *When qualified candidates have been assigned numerical scores under § 302.302(b).* (i) Preference eligibles having a compensable, service-connected disability of 10 percent or more, in the order of their augmented ratings, unless the list will be used to fill professional positions at the GS-9 level or above, or equivalent;
 
-(ii) All other qualified candidates in the order of their augmented ratings. At each score, qualified candidates eligible for 10-point preference will be entered ahead of those eligible for 5-point preference or those not eligible for veteran preference, and those eligible for 5-point preference will be entered ahead of those not eligible for preference.
+(ii) All other qualified candidates in the order of their augmented ratings. At each score, qualified candidates eligible for 10-point preference will be entered first, followed, second, by 5-point preference eligibles, third, by sole survivorship preference eligibles, and last, by nonpreference eligibles.
+
+[55 FR 9407, Mar. 14, 1990, as amended at 85 FR 63191, Oct. 7, 2020]

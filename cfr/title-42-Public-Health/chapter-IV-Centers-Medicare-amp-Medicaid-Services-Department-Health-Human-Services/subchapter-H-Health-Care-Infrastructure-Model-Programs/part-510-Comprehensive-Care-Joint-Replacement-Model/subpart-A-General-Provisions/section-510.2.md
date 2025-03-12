@@ -72,6 +72,14 @@ For the purposes of this part, the following definitions are applicable unless o
 
 *CORF* stands for comprehensive outpatient rehabilitation facility.
 
+*COVID-19 Diagnosis Code* means any of the following ICD-10-CM diagnosis codes:
+
+(1) B97.29;
+
+(2) U07.1; or
+
+(3) Any other ICD-10-CM diagnosis code that is recommended by the Centers for Disease Control and Prevention for the coding of a confirmed case of COVID-19.
+
 *Critical access hospital (CAH)* means a hospital designated under subpart F of part 485 of this chapter.
 
 *Distribution arrangement* means a financial arrangement between a CJR collaborator that is an ACO, PGP, NPPGP, or TGP and a collaboration agent for the sole purpose of distributing some or all of a gainsharing payment received by the ACO, PGP, NPPGP, or TGP.
@@ -118,7 +126,7 @@ For the purposes of this part, the following definitions are applicable unless o
 
 *Low-volume hospital* means a hospital identified by CMS as having fewer than 20 LEJR episodes in total across the 3 historical years of data used to calculate the performance year 1 CJR episode target prices.
 
-*Lower-extremity joint replacement (LEJR)* means any procedure that is within MS-DRG 469 or 470, including lower-extremity joint replacement procedures or reattachment of a lower extremity.
+*Lower-extremity joint replacement* (LEJR) means any procedure that is within MS-DRG 469 or 470, or, on or after October 1, 2020, MS-DRG 521 or 522, including lower-extremity joint replacement procedures or reattachment of a lower extremity.
 
 *LTCH* stands for long-term care hospital.
 
@@ -174,7 +182,7 @@ For the purposes of this part, the following definitions are applicable unless o
 
 *PBPM* stands for per-beneficiary-per-month.
 
-*Performance year* means one of the years in which the CJR model is being tested. Performance years for the model correlate to calendar years with the exceptions of performance year 1, which is April 1, 2016 through December 31, 2016 and performance year 5, which is January 1, 2020 through March 31, 2021.
+*Performance year* means one of the years in which the CJR model is being tested. Performance years for the model correlate to calendar years with the exceptions of performance year 1, which is April 1, 2016 through December 31, 2016 and performance year 5, which is January 1, 2020 through September 30, 2021. For reconciliation purposes, performance year 5 is divided into two subsets, performance year subset 5.1 (January 1, 2020 through December 31, 2020) and performance year subset 5.2 (January 1, 2021 through September 30, 2021).
 
 *PGP* stands for physician group practice.
 
@@ -192,7 +200,7 @@ For the purposes of this part, the following definitions are applicable unless o
 
 *Quality-adjusted target price* means the dollar amount assigned to CJR episodes as the result of adjusting the episode benchmark price by the participant hospital's effective discount factor or applicable discount factor based on the participant hospital's quality category, as described in §§ 510.300(c) and 510.315(f).
 
-*Quality improvement points* are points that CMS adds to a participant hospital's composite quality score for a measure if the hospital's performance percentile on an individual quality measure for performance years 2 through 5 increases from the previous performance year by at least 2 deciles on the performance percentile scale, as described in § 510.315(d). For performance year 1, CMS adds quality improvement points to a participant hospital's composite quality score for a measure if the hospital's performance percentile on an individual quality measure increases from the corresponding time period in the previous year by at least 2 deciles on the performance percentile scale, as described in § 510.315(d).
+*Quality improvement points* are points that CMS adds to a participant hospital's composite quality score for a measure if the hospital's performance percentile on an individual quality measure for performance years 2 through 4 and for performance year subsets 5.1 and 5.2, increases from the previous performance year or performance year subset by at least 2 deciles on the performance percentile scale, as described in § 510.315(d). For performance year 1, CMS adds quality improvement points to a participant hospital's composite quality score for a measure if the hospital's performance percentile on an individual quality measure increases from the corresponding time period in the previous year by at least 2 deciles on the performance percentile scale, as described in § 510.315(d).
 
 *Quality performance points* are points that CMS adds to a participant hospital's composite quality score for a measure based on the performance percentile scale and for successful data submission of patient-reported outcomes.
 
@@ -242,4 +250,4 @@ For the purposes of this part, the following definitions are applicable unless o
 
 *Voluntary MSA* means an MSA designated by CMS as a voluntary participation MSA in accordance with § 510.105(a).
 
-[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 610, 611, Jan. 3, 2017; 82 FR 57103, Dec. 1, 2017; 85 FR 19292, Apr. 6, 2020]
+[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 610, 611, Jan. 3, 2017; 82 FR 57103, Dec. 1, 2017; 85 FR 19292, Apr. 6, 2020; 85 FR 71198, Nov. 6, 2020]

@@ -1,20 +1,24 @@
 ##### § 510.300 Determination of episode quality-adjusted target prices. #####
 
-(a) *General.* CMS establishes episode quality-adjusted target prices for participant hospitals for each performance year of the model as specified in this section. Episode quality-adjusted target prices are established according to the following:
+(a) *General.* CMS establishes episode quality-adjusted target prices for participant hospitals for each performance year or performance year subset of the model as specified in this section. Episode quality-adjusted target prices are established according to the following:
 
 (1) *MS-DRG and fracture status.* MS-DRG assigned at discharge for anchor hospitalization and present of hip fracture diagnosis for anchor hospitalization -
 
-(i) MS-DRG 469 with hip fracture;
+(i)(A) MS-DRG 469 with hip fracture; or
+
+(B) For episodes beginning on or after October 1, 2020, MS-DRG 521;
 
 (ii) MS-DRG 469 without hip fracture;
 
-(iii) MS-DRG 470 with hip fracture; or
+(iii)(A) MS-DRG 470 with hip fracture; or
+
+(B) For episodes beginning on or after October 1, 2020, MS-DRG 522; or
 
 (iv) MS-DRG 470 without hip fracture.
 
-(2) *Applicable time period for performance year episode quality-adjusted target prices.* Episode quality-adjusted target prices are updated to account for Medicare payment updates no less than 2 times per year, for updated quality-adjusted target prices effective October 1 and January 1, and at other intervals if necessary.
+(2) *Applicable time period for performance year or performance year subset episode quality-adjusted target prices.* Episode quality-adjusted target prices are updated to account for Medicare payment updates no less than 2 times per year, for updated quality-adjusted target prices effective October 1 and January 1, and at other intervals if necessary.
 
-(3) *Episodes that straddle performance years or payment updates.* The quality-adjusted target price that applies to the type of episode as of the date of admission for the anchor hospitalization is the quality-adjusted target price that applies to the episode.
+(3) *Episodes that straddle performance years or performance year subsets or payment updates.* The quality-adjusted target price that applies to the type of episode as of the date of admission for the anchor hospitalization is the quality-adjusted target price that applies to the episode.
 
 (4) *Identifying episodes with hip fracture.* CMS develops a list of ICD-CM hip fracture diagnosis codes that, when reported in the principal diagnosis code files on the claim for the anchor hospitalization, represent a bone fracture for which a hip replacement procedure, either a partial hip arthroplasty or a total hip arthroplasty, could be the primary surgical treatment. The list of ICD-CM hip fracture diagnosis codes used to identify hip fracture episodes is posted on the CMS Web site.
 
@@ -40,7 +44,7 @@
 
 (ii) Episodes beginning in 2014 through 2016 for performance years 3 and 4.
 
-(iii) Episodes beginning in 2016 through 2018 for performance year 5.
+(iii) Episodes beginning in 2016 through 2018 for each of performance year subsets 5.1 and 5.2.
 
 (2) Specifically, the blend consists of the following:
 
@@ -48,7 +52,7 @@
 
 (ii) One-third of the hospital's own historical episode payments and two-thirds of the regional historical episode payments for performance year 3.
 
-(iii) Regional historical episode payments for performance years 4 and 5.
+(iii) Regional historical episode payments for performance year 4 and each of performance year subsets 5.1 and 5.2.
 
 (3) *Exception for low-volume hospitals.* Quality-adjusted target prices for participant hospitals with fewer than 20 CJR episodes in total across the 3 historical years of data used to calculate the quality-adjusted target price are based on 100 percent regional historical episode payments.
 
@@ -60,13 +64,13 @@
 
 (7) *Communication of episode quality-adjusted target prices.* CMS communicates episode quality-adjusted target prices to participant hospitals before the performance period in which they apply.
 
-(8) *Inclusion of reconciliation payments and repayments.* For performance years 3, 4, and 5 only, reconciliation payments and repayment amounts under § 510.305(f)(2) and (f)(3) and from LEJR episodes included in the BPCI initiative are included in historical episode payments.
+(8) *Inclusion of reconciliation payments and repayments.* For performance years 3, 4, and each of performance year subsets 5.1 and 5.2 only, reconciliation payments and repayment amounts under § 510.305(f)(2) and (3) and from LEJR episodes included in the BPCI initiative are included in historical episode payments.
 
 (c) *Discount factor.* A participant hospital's episode quality-adjusted target prices incorporate discount factors to reflect Medicare's portion of reduced expenditures from the CJR model as described in this section.
 
-(1) *Discount factors affected by the quality incentive payments and the composite quality score.* In all performance years, the discount factor may be affected by the quality incentive payment and composite quality score as provided in § 510.315 to create the effective discount factor or applicable discount factor used for calculating reconciliation payments and repayment amounts. The quality-adjusted target prices incorporate the effective or applicable discount factor at reconciliation.
+(1) *Discount factors affected by the quality incentive payments and the composite quality score.* In all performance years and performance year subsets, the discount factor may be affected by the quality incentive payment and composite quality score as provided in § 510.315 to create the effective discount factor or applicable discount factor used for calculating reconciliation payments and repayment amounts. The quality-adjusted target prices incorporate the effective or applicable discount factor at reconciliation.
 
-(2) *Discount factor for reconciliation payments.* The discount factor for reconciliation payments in all performance years is 3.0 percent.
+(2) *Discount factor for reconciliation payments.* The discount factor for reconciliation payments in all performance years and performance year subsets is 3.0 percent.
 
 (3) *Discount factors for repayment amounts.* The discount factor for repayment amounts is -
 
@@ -74,7 +78,7 @@
 
 (ii) In performance years 2 and 3, 2.0 percent; and
 
-(iii) In performance years 4 and 5, 3.0 percent.
+(iii) In performance year 4 and each of performance year subsets 5.1 and 5.2, 3.0 percent.
 
 (d) *Data sharing.* (1) CMS makes available to participant hospitals, through the most appropriate means, data that CMS determines may be useful to participant hospitals to do the following:
 
@@ -90,4 +94,4 @@
 
 (ii) The minimum data necessary to achieve the goals of the CJR model, as determined by CMS, may be provided under this section for a participant hospital's baseline period and no less frequently than on a quarterly basis throughout the hospital's participation in the CJR model.
 
-[80 FR 73540, Nov. 24, 2015, as amended at 81 FR 11451, Mar. 4, 2016; 82 FR 613, Jan. 3, 2017; 82 FR 57104, Dec. 1, 2017]Editorial Note:At 82 FR 613, Jan. 3, 2017, § 510.300 was amended in part by redesignating paragraph (a)(5) as paragraph (a)(6); however, there was no paragraph (a)(5).
+[80 FR 73540, Nov. 24, 2015, as amended at 81 FR 11451, Mar. 4, 2016; 82 FR 613, Jan. 3, 2017; 82 FR 57104, Dec. 1, 2017; 85 FR 71199, Nov. 6, 2020]Editorial Note:At 82 FR 613, Jan. 3, 2017, § 510.300 was amended in part by redesignating paragraph (a)(5) as paragraph (a)(6); however, there was no paragraph (a)(5).
