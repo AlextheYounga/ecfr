@@ -42,9 +42,9 @@
 
 (i) An account that is not included in the definition of customer (as defined in § 1.17(b)(2)) or proprietary account (as defined in § 1.17(b)(3)), or
 
-(ii) An account for a foreign-domiciled person trading futures or options on a foreign board of trade, and such account is a proprietary account as defined in § 1.3(y) of this title, but is not a proprietary account as defined in § 1.17(b)(3).
+(ii) An account for a foreign-domiciled person trading futures or options on a foreign board of trade, and such account is a proprietary account as defined in § 1.3 of this title, but is not a proprietary account as defined in § 1.17(b)(3).
 
-(5) *Clearing organization* means clearing organization (as defined in § 1.3(d)) and includes a clearing organization of any board of trade.
+(5) *Clearing organization* means clearing organization (as defined in § 1.3) and includes a clearing organization of any board of trade.
 
 (6) *Business day* means any day other than a Sunday, Saturday, or holiday.
 
@@ -62,7 +62,7 @@
 
 (9) *Cleared over the counter derivative positions* means “over the counter derivative instrument” (as defined in 12 U.S.C. 4421) positions of any person in accounts carried on the books of the futures commission merchant and cleared by any organization permitted to clear such instruments under the laws of the relevant jurisdiction.
 
-(10) *Cleared over the counter customer* means any person that is not a proprietary person as defined in § 1.3(y) and for whom the futures commission merchant carries on its books one or more accounts for the over the counter-cleared derivative positions of such person.
+(10) *Cleared over the counter customer* means any person that is not a proprietary person as defined in § 1.3 and for whom the futures commission merchant carries on its books one or more accounts for the over the counter-cleared derivative positions of such person.
 
 (c) Definitions: For the purposes of this section:
 
@@ -204,7 +204,7 @@
 
 (B) A broker or dealer that is registered as such with the Securities and Exchange Commission; or
 
-(C) A foreign broker that has been granted comparability relief pursuant to § 30.10 of this chapter, *Provided, however,* that the amount of the unsecured receivable not subject to the five percent capital charge is no greater than 150 percent of the current amount required to maintain futures and options positions in accounts with the foreign broker, or 100 percent of such greater amount required to maintain futures and option positions in the accounts at any time during the previous six-month period, and *Provided, that,* in the case of the foreign futures or foreign options secured amount, as § 1.3(rr) defines such term, such account is treated in accordance with the special requirements of the applicable Commission order issued under § 30.10 of this chapter.
+(C) A foreign broker that has been granted comparability relief pursuant to § 30.10 of this chapter, *Provided, however,* that the amount of the unsecured receivable not subject to the five percent capital charge is no greater than 150 percent of the current amount required to maintain futures and options positions in accounts with the foreign broker, or 100 percent of such greater amount required to maintain futures and option positions in the accounts at any time during the previous six-month period, and *Provided, that,* in the case of the foreign futures or foreign options secured amount, as § 1.3 defines such term, such account is treated in accordance with the special requirements of the applicable Commission order issued under § 30.10 of this chapter.
 
 (xiv) For securities brokers and dealers, all other deductions specified in § 240.15c3-1 of this title.
 
@@ -508,4 +508,4 @@
 
 (3) *Nonenumerated cases.* Upon specific request, the Commission may recognize transactions and positions other than those enumerated in paragraph (j)(2) of this section as cover in amounts and under the terms and conditions as it may specify. Any applicant or registrant who wishes to avail itself of the provisions of this paragraph (j)(3) must apply to the Commission in writing at its principal office in Washington, DC giving full details of the transaction including detailed information which will demonstrate that the transaction is economically appropriate to the reduction of risk exposure attendant to the conduct and management of a commercial enterprise.
 
-(Approved by the Office of Management and Budget under control number 3038-0024)[43 FR 39972, Sept. 8, 1978]Editorial Note:For Federal Register citations affecting § 1.17, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 3038-0024)[43 FR 39972, Sept. 8, 1978]Editorial Note:For Federal Register citations affecting § 1.17, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

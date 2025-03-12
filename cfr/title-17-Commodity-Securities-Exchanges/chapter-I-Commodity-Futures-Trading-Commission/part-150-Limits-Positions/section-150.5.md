@@ -16,7 +16,7 @@
 
 (2) Individual nonspot or all-months-combined levels must be no greater than 10% of the average combined futures and delta-adjusted option month-end open interest for the most recent calendar year up to 25,000 contracts with a marginal increase of 2.5% thereafter or be based on position sizes customarily held by speculative traders on the contract market, which shall not be extraordinarily large relative to total open positions in the contract, the breadth and liquidity of the cash market underlying each delivery month and the opportunity for arbitrage between the futures market and the cash market in the commodity underlying the futures contract.
 
-(d) *Hedge exemption.* (1) No exchange bylaw, rule, regulation, or resolution adopted pursuant to this section shall apply to bona fide hedging positions as defined by a contract market in accordance with § 1.3(z)(1) of this chapter. *Provided, however,* that the contract market may limit bona fide hedging positions or any other positions which have been exempted pursuant to paragraph (e) of this section which it determines are not in accord with sound commercial practices or exceed an amount which may be established and liquidated in an orderly fashion.
+(d) *Hedge exemption.* (1) No exchange bylaw, rule, regulation, or resolution adopted pursuant to this section shall apply to bona fide hedging positions as defined by a contract market in accordance with the definition of *bona fide hedging transactions and positions for excluded commodities* in § 1.3 of this chapter. *Provided, however,* that the contract market may limit bona fide hedging positions or any other positions which have been exempted pursuant to paragraph (e) of this section which it determines are not in accord with sound commercial practices or exceed an amount which may be established and liquidated in orderly fashion.
 
 (2) Traders must apply to the contract market for exemption from its speculative position limit rules. In considering whether to grant such an application for exemption, contract markets must take into account the factors contained in paragraph (d)(1) of this section.
 
@@ -34,4 +34,4 @@
 
 (g) *Aggregation.* In determining whether any person has exceeded the limits established under this section, all positions in accounts for which such person by power of attorney or otherwise directly or indirectly controls trading shall be included with the positions held by such person; such limits upon positions shall apply to positions held by two or more person acting pursuant to an express or implied agreement or understanding, the same as if the positions were held by a single person.
 
-[64 FR 24048, May 5, 1999]
+[64 FR 24048, May 5, 1999, as amended at 83 FR 7997, Feb. 23, 2018]

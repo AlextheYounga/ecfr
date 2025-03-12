@@ -10,4 +10,6 @@
 
 (d) *Orders regarding competition.* An applicant for registration or a registered derivatives clearing organization may request that the Commission issue an order concerning whether a rule or practice of the organization is the least anticompetitive means of achieving the objectives, purposes, and policies of the Act.
 
-(e) *Holding securities in a futures portfolio margining account.* A derivatives clearing organization seeking to provide a portfolio margining program under which securities would be held in a futures account as defined in § 1.3(vv) of this chapter, shall submit rules to implement such portfolio margining program for Commission approval in accordance with § 40.5 of this chapter. Concurrent with the submission of such rules for Commission approval, the derivatives clearing organization shall petition the Commission for an order under section 4d of the Act.
+(e) *Holding securities in a futures portfolio margining account.* A derivatives clearing organization seeking to provide a portfolio margining program under which securities would be held in a futures account as defined in § 1.3 of this chapter, shall submit rules to implement such portfolio margining program for Commission approval in accordance with § 40.5 of this chapter. Concurrent with the submission of such rules for Commission approval, the derivatives clearing organization shall petition the Commission for an order under section 4d of the Act.
+
+[76 FR 69430, Nov. 8, 2011, as amended at 83 FR 7996, Feb. 23, 2018]

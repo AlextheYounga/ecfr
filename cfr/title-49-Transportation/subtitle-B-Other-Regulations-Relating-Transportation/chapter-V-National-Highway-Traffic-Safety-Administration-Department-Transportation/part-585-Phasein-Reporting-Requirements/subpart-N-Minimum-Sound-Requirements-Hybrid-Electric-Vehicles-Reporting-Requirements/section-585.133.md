@@ -1,5 +1,7 @@
 ##### § 585.133 Reporting requirements. #####
 
+Link to an amendment published at 83 FR 8197, February 26, 2018.
+
 (a) Phase-in reporting requirements. Within 60 days after the end of the production year ending August 31, 2018, each manufacturer shall submit a report to the National Highway Traffic Safety Administration concerning its compliance with the requirements of Standard No. 141 Minimum Sound Requirements for Hybrid and Electric Vehicles (49 CFR 571.141) for its vehicles produced in that year. Each report shall provide the information specified in paragraph (b) of this section and in § 585.2 of this part.
 
 (b) Phase-in report content -

@@ -154,7 +154,7 @@
 
 (ii) There is filed against the futures commission merchant or retail foreign exchange dealer an adjudicatory proceeding brought by or before the Commission pursuant to the provisions of sections 6(c), 6(d), 6c, 6d, 8a or 9 of the Act or § 3.55, 3.56 or 3.60 of this chapter.
 
-(3) A retail foreign exchange dealer may enter into a guarantee agreement only with an introducing broker as defined in § 5.1(f)(1) of this chapter. A retail foreign exchange dealer may not enter into a guarantee agreement with an introducing broker as defined in § 1.3(mm) of this part.
+(3) A retail foreign exchange dealer may enter into a guarantee agreement only with an introducing broker as defined in § 5.1(f)(1) of this chapter. A retail foreign exchange dealer may not enter into a guarantee agreement with an introducing broker as defined in § 1.3 of this part.
 
 (4) A guarantee agreement filed in connection with an application for initial registration as an introducing broker in accordance with the provisions of § 3.10(a) of this chapter shall become effective upon the granting of registration or, if appropriate, a temporary license, to the introducing broker. A guarantee agreement filed other than in connection with an application for initial registration as an introducing broker shall become effective as of the date agreed to by the parties.
 
@@ -194,4 +194,4 @@
 
 (2) If an introducing broker or applicant therefor avails itself of the filing option available under paragraph (k)(1) of this section, the report required to be filed in accordance with § 1.16(c)(5) of this part must be filed as of the date of the Form 1-FR-IB being filed, and such an introducing broker or applicant therefor must maintain its financial records and make its monthly formal computation of its adjusted net capital, as required by § 1.18 of this part, in a manner consistent with Form 1-FR-IB.
 
-(The information collection requirements contained in § 1.10 were approved by the Office of Management and Budget under control number 3038-0024; in paragraphs (a) and (b) under control number 3038-0023; and in paragraph (f) under control number 3038-0003.)[43 FR 39967, Sept. 8, 1978]Editorial Note:For Federal Register citations affecting § 1.10, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(The information collection requirements contained in § 1.10 were approved by the Office of Management and Budget under control number 3038-0024; in paragraphs (a) and (b) under control number 3038-0023; and in paragraph (f) under control number 3038-0003.)[43 FR 39967, Sept. 8, 1978]Editorial Note:For Federal Register citations affecting § 1.10, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

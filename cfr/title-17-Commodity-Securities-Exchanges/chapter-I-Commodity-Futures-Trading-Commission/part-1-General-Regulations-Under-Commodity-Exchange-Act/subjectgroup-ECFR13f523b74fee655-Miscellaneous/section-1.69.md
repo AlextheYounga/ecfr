@@ -14,9 +14,9 @@
 
 (6) *Named party in interest* means a person or entity that is identified by name as a subject of any matter being considered by a governing board, disciplinary committee, or oversight panel.
 
-(7) *Self-regulatory organization* means a “self-regulatory organization” as defined in § 1.3(ee) and includes a “clearing organization” as defined in § 1.3(d), but excludes registered futures associations for the purposes of paragraph (b)(2) of this section.
+(7) *Self-regulatory organization* means a “self-regulatory organization” as defined in § 1.3 and includes a “clearing organization” as defined in § 1.3, but excludes registered futures associations for the purposes of paragraph (b)(2) of this section.
 
-8) *Significant action* includes any of the following types of self-regulatory organization actions or rule changes that can be implemented without the Commission's prior approval:
+(8) *Significant action* includes any of the following types of self-regulatory organization actions or rule changes that can be implemented without the Commission's prior approval:
 
 (i) Any actions or rule changes which address an “emergency” as defined in § 1.41(a)(4)(i) through (iv) and (vi) through (viii); and,
 
@@ -86,4 +86,4 @@
 
 (iii) Information on the position information that was reviewed for each member.
 
-[64 FR 23, Jan. 4, 1999; 64 FR 3340, Jan. 21, 1999]
+[64 FR 23, Jan. 4, 1999; 64 FR 3340, Jan. 21, 1999, as amended at 83 FR 7995, Feb. 23, 2018]

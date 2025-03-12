@@ -1,5 +1,7 @@
 ##### § 1500.3 Definitions. #####
 
+Link to an amendment published at 83 FR 8341, Feb. 27, 2018.
+
 (a) *Certain terms used in this part.* As used in this part:
 
 (1) *Act* means the Federal Hazardous Substances Act (Pub. L. 86-613, 74 Stat. 372-81 (15 U.S.C. 1261-74)) as amended by:

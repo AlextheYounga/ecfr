@@ -1,5 +1,7 @@
 ##### § 571.141 Standard No. 141; Minimum Sound Requirements for Hybrid and Electric Vehicles. #####
 
+Link to an amendment published at 83 FR 8196, Feb. 27, 2018.
+
 S1. *Scope.* This standard establishes performance requirements for pedestrian alert sounds for motor vehicles.
 
 S2. *Purpose.* The purpose of this standard is to reduce the number of injuries that result from electric and hybrid vehicle crashes with pedestrians by providing a sound level and sound characteristics necessary for these vehicles to be detected and recognized by pedestrians.

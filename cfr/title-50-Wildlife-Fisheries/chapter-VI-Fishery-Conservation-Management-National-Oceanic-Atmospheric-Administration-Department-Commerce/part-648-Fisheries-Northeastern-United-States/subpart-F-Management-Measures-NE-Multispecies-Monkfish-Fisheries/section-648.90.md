@@ -1,5 +1,7 @@
 ##### § 648.90 NE multispecies assessment, framework procedures and specifications, and flexible area action system. #####
 
+Link to an amendment published at 83 FR 8365, Feb. 27, 2018.
+
 For the NE multispecies framework specification process described in this section, the regulated species and ocean pout biennial review is considered a separate process from the small-mesh species annual review, as described in paragraphs (a)(2) and (b)(1), respectively, of this section. In addition, the process for specifying ABCs and associated ACLs for regulated species and ocean pout, as described in paragraph (a)(4) of this section, is considered a separate process from the small-mesh species ABC and ACL process described in paragraph (b)(2) of this section.
 
 (a) *NE multispecies.* For the purpose of this paragraph (a), the term “NE multispecies fishery” is defined as common pool vessels, sector vessels, and private recreational and charter/party vessels, as defined in this part; the term “NE multispecies commercial fishery” is defined as vessels issued a limited access NE multispecies permit, or an open access NE multispecies Handgear B permit; and the term “NE multispecies recreational fishery” is defined as private recreational vessels and charter or party boats, as further defined in this part.

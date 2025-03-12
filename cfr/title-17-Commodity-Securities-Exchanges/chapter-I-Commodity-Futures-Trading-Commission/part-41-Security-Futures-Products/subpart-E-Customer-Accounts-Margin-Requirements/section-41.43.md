@@ -56,7 +56,7 @@
 
 (12) *Floor trader* shall have the meaning provided in section 1a(17) of the Act.
 
-(13) *Futures account* shall have the meaning provided in § 1.3(vv) of this chapter.
+(13) *Futures account* shall have the meaning provided in § 1.3 of this chapter.
 
 (14) *Futures commission merchant* shall have the meaning provided in section 1a(20) of the Act.
 
@@ -94,7 +94,7 @@
 
 (ii) Any deposit or withdrawal of margin for the security future or a related position, except as provided in § 41.47(b) of this subpart.
 
-(28) *Securities account* shall have the meaning provided in § 1.3(ww) of this chapter.
+(28) *Securities account* shall have the meaning provided in § 1.3 of this chapter.
 
 (29) *Security futures intermediary* means any creditor as defined in Regulation T with respect to its financial relations with any person involving security futures, including:
 
@@ -120,4 +120,4 @@
 
 (c) Terms used in this Regulation (Subpart E, §§ 41.42 through 41.49) and not otherwise defined in this section or in the margin rules applicable to the account shall have the meaning set forth in the Exchange Act and the Act; if the definitions of a term in the Exchange Act and the Act are inconsistent as applied in particular circumstances, such term shall have the meaning set forth in rules, regulations, or interpretations jointly promulgated by the SEC and the Commission.
 
-[67 FR 53171, Aug. 14, 2002, as amended at 77 FR 66346, Nov. 2, 2012]
+[67 FR 53171, Aug. 14, 2002, as amended at 77 FR 66346, Nov. 2, 2012; 83 FR 7997, Feb. 23, 2018]

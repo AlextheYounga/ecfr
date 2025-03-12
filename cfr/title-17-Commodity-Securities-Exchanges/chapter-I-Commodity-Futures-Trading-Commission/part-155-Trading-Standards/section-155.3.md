@@ -12,7 +12,7 @@
 
 (2)(i) Knowingly take, directly or indirectly, the other side of any order of another person revealed to the futures commission merchant or any of its affiliated persons by reason of their relationship to such other person, except with such other person's prior consent and in conformity with contract market rules approved by or certified to the Commission.
 
-(ii) In the case of a customer who does not qualify as an “institutional customer” as defined in § 1.3(g) of this chapter, a futures commission merchant must obtain the customer's prior consent through a signed acknowledgment, which may be accomplished in accordance with § 1.55(d) of this chapter.
+(ii) In the case of a customer who does not qualify as an “institutional customer” as defined in § 1.3 of this chapter, a futures commission merchant must obtain the customer's prior consent through a signed acknowledgment, which may be accomplished in accordance with § 1.55(d) of this chapter.
 
 (c) No futures commission merchant shall knowingly handle the account of any affiliated person of another futures commission merchant or of an introducing broker unless the futures commission merchant:
 
@@ -28,4 +28,4 @@
 
 (2) Copies of all statements for such account and of all written records prepared by such other futures commission merchant upon receipt of orders for such account pursuant to paragraph (c)(2) of this section are transmitted on a regular basis to the future commission merchant with which such person is affiliated.
 
-(Approved by the Office of Management and Budget under control numbers 3038-0007 and 3038-0022)(Secs. 2(a)(1), 4c(a)-(d), 4d, 4f, 4g, 4k, 4m, 4n, 8a, 15 and 17, Commodity Exchange Act (7 U.S.C. 2, 4, 6c(a)-(d), 6f, 6g, 6k, 6m, 6n, 12a, 19 and 21; 5 U.S.C. 552 and 552b))[41 FR 56142, Dec. 23, 1976, as amended at 44 FR 71821, Dec. 12, 1979; 46 FR 54535, Nov. 3, 1981; 46 FR 63036, Dec. 30, 1981; 47 FR 57020, Dec. 22, 1982; 48 FR 35304, Aug. 3, 1983; 66 FR 53523, Oct. 23, 2001; 70 FR 5924, Feb. 4, 2005; 77 FR 66349, Nov. 2, 2012]
+(Approved by the Office of Management and Budget under control numbers 3038-0007 and 3038-0022)(Secs. 2(a)(1), 4c(a)-(d), 4d, 4f, 4g, 4k, 4m, 4n, 8a, 15 and 17, Commodity Exchange Act (7 U.S.C. 2, 4, 6c(a)-(d), 6f, 6g, 6k, 6m, 6n, 12a, 19 and 21; 5 U.S.C. 552 and 552b))[41 FR 56142, Dec. 23, 1976, as amended at 44 FR 71821, Dec. 12, 1979; 46 FR 54535, Nov. 3, 1981; 46 FR 63036, Dec. 30, 1981; 47 FR 57020, Dec. 22, 1982; 48 FR 35304, Aug. 3, 1983; 66 FR 53523, Oct. 23, 2001; 70 FR 5924, Feb. 4, 2005; 77 FR 66349, Nov. 2, 2012; 83 FR 7997, Feb. 23, 2018]

@@ -58,7 +58,7 @@ DateSignature of Customer
 
 (e) The acknowledgment required by paragraph (a) of this section must be retained by the futures commission merchant or introducing broker in accordance with § 1.31.
 
-(f) A futures commission merchant or, in the case of an introduced account, an introducing broker, may open a commodity futures account for an “institutional customer” as defined in § 1.3(g) without furnishing such institutional customer the disclosure statements or obtaining the acknowledgments required under paragraph (a) of this section §§ 1.33(g) and 1.65(a)(3), and §§ 30.6(a), 33.7(a), 155.3(b)(2), 155.4(b)(2) and 190.10(c) of this chapter.
+(f) A futures commission merchant or, in the case of an introduced account, an introducing broker, may open a commodity futures account for an “institutional customer” as defined in § 1.3 without furnishing such institutional customer the disclosure statements or obtaining the acknowledgments required under paragraph (a) of this section §§ 1.33(g) and 1.65(a)(3), and §§ 30.6(a), 33.7(a), 155.3(b)(2), 155.4(b)(2) and 190.10(c) of this chapter.
 
 (g) This section does not relieve a futures commission merchant or introducing broker from any other disclosure obligation it may have under applicable law.
 
@@ -144,4 +144,4 @@ United States: Commodity futures, options on commodity futures and options on co
 
 (4) Each futures commission merchant must include a statement on its Web site that is available to the public that additional financial information on all futures commission merchants is available from the Commodity Futures Trading Commission, and include a link to the Commodity Futures Trading Commission's Web page for financial data for futures commission merchants.
 
-[43 FR 31890, July 24, 1978]Editorial Note:For Federal Register citations affecting § 1.55, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[43 FR 31890, July 24, 1978]Editorial Note:For Federal Register citations affecting § 1.55, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

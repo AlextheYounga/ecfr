@@ -1,6 +1,6 @@
 ##### § 1003.1 Organization, jurisdiction, and powers of the Board of Immigration Appeals. #####
 
-(a)(1) *Organization.* There shall be in the Department of Justice a Board of Immigration Appeals, subject to the general supervision of the Director, Executive Office for Immigration Review (EOIR). The Board members shall be attorneys appointed by the Attorney General to act as the Attorney General's delegates in the cases that come before them. The Board shall consist of 17 members. A vacancy, or the absence or unavailability of a Board member, shall not impair the right of the remaining members to exercise all the powers of the Board.
+(a)(1) *Organization.* There shall be in the Department of Justice a Board of Immigration Appeals, subject to the general supervision of the Director, Executive Office for Immigration Review (EOIR). The Board members shall be attorneys appointed by the Attorney General to act as the Attorney General's delegates in the cases that come before them. The Board shall consist of 21 members. A vacancy, or the absence or unavailability of a Board member, shall not impair the right of the remaining members to exercise all the powers of the Board.
 
 (2) *Chairman.* The Attorney General shall designate one of the Board members to serve as Chairman. The Attorney General may designate one or two Vice Chairmen to assist the Chairman in the performance of his duties and to exercise all of the powers and duties of the Chairman in the absence or unavailability of the Chairman.
 
@@ -190,4 +190,4 @@
 
 (j) *Continuation of jurisdiction and procedure.* The jurisdiction of, and procedures before, the Board of Immigration Appeals in exclusion, deportation, removal, rescission, asylum-only, and any other proceedings, shall remain in effect as in effect on February 28, 2003, until the regulations in this chapter are further modified by the Attorney General. Where a decision of an officer of the Immigration and Naturalization Service was, before March 1, 2003, appealable to the Board or to an immigration judge, or an application denied could be renewed in proceedings before an immigration judge, the same authority and procedures shall be followed until further modified by the Attorney General.
 
-[23 FR 9117, Nov. 26, 1958. ]Editorial Note:For Federal Register citations affecting § 1003.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[23 FR 9117, Nov. 26, 1958]Editorial Note:For Federal Register citations affecting § 1003.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

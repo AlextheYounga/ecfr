@@ -10,12 +10,14 @@ In addition to the requirements of § 39.21, each systemically important derivat
 
 (d) Disclose, publicly and to the Commission, rules, policies, and procedures concerning segregation and portability of customers' positions and funds, including whether each of:
 
-(1) Futures customer funds, as defined in § 1.3(jjjj) of this chapter;
+(1) Futures customer funds, as defined in § 1.3 of this chapter;
 
 (2) Cleared Swaps Customer Collateral, as defined in § 22.1 of this chapter; or
 
-(3) Foreign futures or foreign options secured amount, as defined in § 1.3(rr) of this chapter is:
+(3) Foreign futures or foreign options secured amount, as defined in § 1.3 of this chapter is:
 
 (i) Protected on an individual or omnibus basis or
 
 (ii) Subject to any constraints, including any legal or operational constraints that may impair the ability of the systemically important derivatives clearing organization or subpart C derivatives clearing organization to segregate or transfer the positions and related collateral of a clearing member's customers.
+
+[78 FR 72514, Dec. 2, 2013, as amended at 83 FR 7996, Feb. 23, 2018]

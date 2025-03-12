@@ -32,7 +32,7 @@
 
 (2) Does not regularly have access to the keeping, handling or processing of:
 
-(i) Transactions involving “commodity interests,” as that term is defined in § 1.3(yy);
+(i) Transactions involving “commodity interests,” as that term is defined in § 1.3;
 
 (ii) Customer funds, retail forex customer funds, leverage customer funds, foreign futures or foreign options secured amount, or adjusted net capital; or
 
@@ -80,4 +80,4 @@
 
 (3) The certifying firm shall maintain, in accordance with § 1.31 of this chapter, records documenting that the criminal history background check performed pursuant to paragraph (e)(2)(i) of this section was completed and the results thereof.
 
-[48 FR 35297, Aug. 3, 1983, as amended at 49 FR 5525, Feb. 13, 1984; 54 FR 19558, May 8, 1989; 57 FR 23148, June 2, 1992; 58 FR 19592, Apr. 15, 1993; 66 FR 53518, Oct. 23, 2001; 75 FR 55425, Sept. 10, 2010; 77 FR 2627, Jan. 19, 2012; 77 FR 51906, Aug. 28, 2012; 81 FR 18747, Apr. 1, 2016]
+[48 FR 35297, Aug. 3, 1983, as amended at 49 FR 5525, Feb. 13, 1984; 54 FR 19558, May 8, 1989; 57 FR 23148, June 2, 1992; 58 FR 19592, Apr. 15, 1993; 66 FR 53518, Oct. 23, 2001; 75 FR 55425, Sept. 10, 2010; 77 FR 2627, Jan. 19, 2012; 77 FR 51906, Aug. 28, 2012; 81 FR 18747, Apr. 1, 2016; 83 FR 7995, Feb. 23, 2018]

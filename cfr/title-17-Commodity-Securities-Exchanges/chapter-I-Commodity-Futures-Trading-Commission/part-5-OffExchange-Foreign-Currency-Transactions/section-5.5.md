@@ -4,7 +4,7 @@
 
 (1)(i) In the case of a retail foreign exchange dealer or a person required to register as an introducing broker solely by reason of this part, furnishes the retail forex customer with a separate written disclosure statement containing only the language set forth in paragraph (b) of this section and the disclosure required by paragraph (e) of this section;
 
-(ii) In the case of a futures commission merchant or a person required to register as an introducing broker because it engages in the activities described in § 1.3(mm) of this chapter, furnishes the retail forex customer with a separate written disclosure statement containing only the language set forth in paragraph (b) of this section and the disclosure required by paragraph (e) of this section; *Provided, however,* that the disclosure statement may be attached to other documents as the initial page(s) of such documents and as the only material on such page(s); and
+(ii) In the case of a futures commission merchant or a person required to register as an introducing broker because it engages in the activities described in § 1.3 of this chapter, furnishes the retail forex customer with a separate written disclosure statement containing only the language set forth in paragraph (b) of this section and the disclosure required by paragraph (e) of this section; *Provided, however,* that the disclosure statement may be attached to other documents as the initial page(s) of such documents and as the only material on such page(s); and
 
 (2) Receives from the retail forex customer an acknowledgment signed and dated by the retail forex customer that he received and understood the disclosure statement.
 
@@ -16,7 +16,7 @@ OFF-EXCHANGE FOREIGN CURRENCY TRANSACTIONS INVOLVE THE LEVERAGED TRADING OF CONT
 
 YOU SHOULD BE AWARE OF AND CAREFULLY CONSIDER THE FOLLOWING POINTS BEFORE DETERMINING WHETHER SUCH TRADING IS APPROPRIATE FOR YOU.
 
-(1) TRADING IS NOT ON A REGULATED MARKET OR EXCHANGE - YOUR DEALER IS YOUR TRADING PARTNER WHICH IS A DIRECT CONFLICT OF INTEREST. BEFORE YOU ENGAGE IN ANY RETAIL FOREIGN EXCHANGE TRADING, YOU SHOULD CONFIRM THE REGISTRATION STATUS OF YOUR COUNTERPARTY.
+(1) TRADING IS NOT ON A REGULATED MARKET OR EXCHANGE—YOUR DEALER IS YOUR TRADING PARTNER WHICH IS A DIRECT CONFLICT OF INTEREST. BEFORE YOU ENGAGE IN ANY RETAIL FOREIGN EXCHANGE TRADING, YOU SHOULD CONFIRM THE REGISTRATION STATUS OF YOUR COUNTERPARTY.
 
 The off-exchange foreign currency trading you are entering into is not conducted on an interbank market, nor is it conducted on a futures exchange subject to regulation as a designated contract market by the Commodity Futures Trading Commission. The foreign currency trades you transact are trades with the futures commission merchant or retail foreign exchange dealer as your counterparty. WHEN YOU SELL, THE DEALER IS THE BUYER. WHEN YOU BUY, THE DEALER IS THE SELLER. As a result, when you lose money trading, your dealer is making money on such trades, in addition to any fees, commissions, or spreads the dealer may charge.
 
@@ -57,3 +57,5 @@ DateSignature of Customer
 (iii) The percentage of such accounts that were not profitable during the quarter.
 
 (2) Identification of retail forex customer accounts for the purpose of this disclosure and the calculation in determining whether each such account was profitable or not profitable must be made in accordance with § 5.18(i) of this part. Such statement of profitable trades shall include the following legend: PAST PERFORMANCE IS NOT NECESSARILY INDICATIVE OF FUTURE RESULTS. Each retail foreign exchange dealer or futures commission merchant shall provide, upon request, to any retail forex customer or prospective retail forex customer the total number of non discretionary retail forex accounts maintained by such foreign exchange dealer or futures commission merchant, the percentage of such accounts that were profitable and the percentage of such accounts that were not profitable, calculated in accordance with § 5.18(i) of this part, for each calendar quarter during the most recent five year period during which such retail foreign exchange dealer or futures commission merchant maintained non discretionary retail forex customer accounts.
+
+[75 FR 55432, Sept. 10, 2010, as amended at 83 FR 7996, Feb. 23, 2018]

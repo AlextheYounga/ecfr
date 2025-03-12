@@ -10,7 +10,7 @@ As used in parts 15 to 19, and 21 of this chapter:
 
 (d) *Compatible data processing media* means data processing media approved by the Commission or its designee.
 
-(e) *Customer means* “customer” (as defined in § 1.3(k) of this chapter) and “options customer” (as defined in § 1.3(jj) of this chapter).
+(e) *Customer means* “customer” (as defined in § 1.3 of this chapter) and “options customer” (as defined in § 1.3 of this chapter).
 
 (f) *Customer trading program* means any system of trading offered, sponsored, promoted, managed or in any other way supported by, or affiliated with, a futures commission merchant, an introducing broker, a commodity trading advisor, a commodity pool operator, or other trader, or any of its officers, partners or employees, and which by agreement, recommendations, advice or otherwise, directly or indirectly controls trading done and positions held by any other person. The term includes, but is not limited to, arrangements where a program participant enters into an expressed or implied agreement not obtained from other customers and makes a minimum deposit in excess of that required of other customers for the purpose of receiving specific advice or recommendations which are not made available to other customers. The term includes any program which is of the character of, or is commonly known to the trade as, a managed account, guided account, discretionary account, commodity pool or partnership account.
 
@@ -28,7 +28,7 @@ As used in parts 15 to 19, and 21 of this chapter:
 
 (m) *Managed account program* means a customer trading program which includes two or more discretionary accounts traded pursuant to a common plan, advice or recommendations.
 
-(n) *Open contracts means* “open contracts” (as defined in § 1.3(t) of this chapter) and commodity option positions held by any person on or subject to the rules of a board of trade which have not expired, been exercised, or offset.
+(n) *Open contracts means* “open contracts” (as defined in § 1.3 of this chapter) and commodity option positions held by any person on or subject to the rules of a board of trade which have not expired, been exercised, or offset.
 
 (o) *Option, options, option contract, or options contract,* unless specifically provided otherwise, means any contract for the purchase or sale of a commodity option that is executed on or subject to the rules of a reporting market, including all agreements, contracts and transactions that are treated by a clearing organization as fungible with such contracts.
 
@@ -70,4 +70,4 @@ As used in parts 15 to 19, and 21 of this chapter:
 
 (dd) *Reportable sub-account controller* means a natural person who by power of attorney or otherwise actually directs the trading of a reportable sub-account. A reportable sub-account may have more than one controller.
 
-[74 FR 12188, Mar. 23, 2009, as amended at 76 FR 43862, July 22, 2011; 77 FR 66332, Nov. 2, 2012; 78 FR 69230, Nov. 18, 2013]
+[74 FR 12188, Mar. 23, 2009, as amended at 76 FR 43862, July 22, 2011; 77 FR 66332, Nov. 2, 2012; 78 FR 69230, Nov. 18, 2013; 83 FR 7996, Feb. 23, 2018]

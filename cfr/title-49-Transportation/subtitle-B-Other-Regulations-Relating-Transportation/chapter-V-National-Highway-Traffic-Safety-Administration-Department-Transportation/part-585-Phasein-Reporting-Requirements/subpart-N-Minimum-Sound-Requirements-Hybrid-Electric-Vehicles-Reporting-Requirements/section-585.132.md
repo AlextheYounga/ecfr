@@ -1,3 +1,5 @@
 ##### § 585.132 Response to inquiries. #####
 
+Link to an amendment published at 83 FR 8197, February 26, 2018.
+
 At any time during the production year ending August 31, 2018, each manufacturer shall, upon request from the Office of Vehicle Safety Compliance, provide information identifying the vehicles (by make, model and vehicle identification number) that have been certified as complying with the requirements of Standard No. 141, Minimum Sound Requirements for Hybrid and Electric Vehicles (49 CFR 571.141). The manufacturer's designation of a vehicle as a certified vehicle is irrevocable.

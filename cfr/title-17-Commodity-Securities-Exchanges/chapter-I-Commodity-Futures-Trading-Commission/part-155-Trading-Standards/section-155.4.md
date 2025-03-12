@@ -12,7 +12,7 @@
 
 (2)(i) Knowingly take, directly or indirectly, the other side of any order of another person revealed to the introducing broker or any of its affiliated persons by reason of their relationship to such other person, except with such other persons's prior consent and in conformity with contract market rules approved by or certified to the Commission.
 
-(ii) In the case of a customer who does not qualify as an “institutional customer” as defined in § 1.3(g) of this chapter, an introducing broker must obtain the customer's prior consent through a signed acknowledgment, which may be accomplished in accordance with § 1.55(d) of this chapter.
+(ii) In the case of a customer who does not qualify as an “institutional customer” as defined in § 1.3 of this chapter, an introducing broker must obtain the customer's prior consent through a signed acknowledgment, which may be accomplished in accordance with § 1.55(d) of this chapter.
 
 (c) No affiliated person of an introducing broker shall have an account, directly or indirectly, with any futures commission merchant unless:
 
@@ -20,4 +20,4 @@
 
 (2) Copies of all statements for such account and of all written records prepared by such futures commission merchant upon receipt of orders for such account pursuant to § 155.3(c)(2) are transmitted on a regular basis to the introducing broker with which such person is affiliated.
 
-[48 FR 35304, Aug. 3, 1983, as amended at 66 FR 53523, Oct. 23, 2001; 70 FR 5924, Feb. 4, 2005; 77 FR 66349, Nov. 2, 2012]
+[48 FR 35304, Aug. 3, 1983, as amended at 66 FR 53523, Oct. 23, 2001; 70 FR 5924, Feb. 4, 2005; 77 FR 66349, Nov. 2, 2012; 83 FR 7997, Feb. 23, 2018]

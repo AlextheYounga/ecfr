@@ -22,7 +22,7 @@ For the purposes of this part:
 
 *Stress test* means a test that compares the impact of potential extreme price moves, changes in option volatility, and/or changes in other inputs that affect the value of a position, to the financial resources of a derivatives clearing organization, clearing member, or large trader, to determine the adequacy of the financial resources of such entities.
 
-*Subpart C derivatives clearing organization* means any derivatives clearing organization, as defined in section 1a(15) of the Act and § 1.3(d) of this chapter, which:
+*Subpart C derivatives clearing organization* means any derivatives clearing organization, as defined in section 1a(15) of the Act and § 1.3 of this chapter, which:
 
 (1) Is registered as a derivatives clearing organization under section 5b of the Act;
 
@@ -36,4 +36,4 @@ For the purposes of this part:
 
 *Trust company* means a trust company that is a member of the Federal Reserve System, under section 1 of the Federal Reserve Act (12 U.S.C. 221), but that does not meet the definition of depository institution.
 
-[78 FR 72514, Dec. 2, 2013]
+[78 FR 72514, Dec. 2, 2013, as amended at 83 FR 7996, Feb. 23, 2018]

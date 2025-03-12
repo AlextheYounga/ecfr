@@ -2,7 +2,7 @@
 
 (a) *Definitions.* For purposes of this section:
 
-(1) *Self-regulatory organization* means “self-regulatory organization,” as defined in § 1.3(ee), and includes the term “clearing organization,” as defined in § 1.3(d).
+(1) *Self-regulatory organization* means “self-regulatory organization,” as defined in § 1.3, and includes the term “clearing organization,” as defined in § 1.3.
 
 (2) *Governing board member* means a member, or functional equivalent thereof, of the board of governors of a self-regulatory organization.
 
@@ -70,4 +70,4 @@
 
 (2) No person shall trade for such person's own account, or for or on behalf of any other account, in any commodity interest, on the basis of any material, non-public information that such person knows was obtained in violation of paragraph (d)(1) of this section from an employee, governing board member, committee member, or consultant.
 
-[58 FR 54973, Oct. 25, 1993, as amended at 65 FR 47847, Aug. 4, 2000; 77 FR 66330, Nov. 2, 2012]
+[58 FR 54973, Oct. 25, 1993, as amended at 65 FR 47847, Aug. 4, 2000; 77 FR 66330, Nov. 2, 2012; 83 FR 7995, Feb. 23, 2018]
