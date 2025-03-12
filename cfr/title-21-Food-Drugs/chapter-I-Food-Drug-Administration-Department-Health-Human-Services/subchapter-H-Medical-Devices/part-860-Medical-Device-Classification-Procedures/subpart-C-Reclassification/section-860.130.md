@@ -1,6 +1,4 @@
-##### § 860.130 General procedures under section 513(e) of the act. #####
-
-Link to an amendment published at 83 FR 64456, Dec. 17, 2018.
+##### § 860.130 General procedures under section 513(e) of the Federal Food, Drug, and Cosmetic Act. #####
 
 (a) Section 513(e) of the act applies to reclassification proceedings under the act based upon new information.
 
@@ -12,18 +10,22 @@ Link to an amendment published at 83 FR 64456, Dec. 17, 2018.
 
 (3) In response to the petition of an interested person, based upon new information, filed in accordance with § 860.123.
 
-(c) By regulation promulgated under this section, the Commissioner may change the classification from class III into:
+(c) By administrative order published under this section, the Commissioner may change the classification from:
 
-(1) Class II if the Commissioner determines that special controls in addition to general controls would provide reasonable assurance of the safety and effectiveness of the device and there is sufficient information to establish special controls to provide assurance; or
+(1) Class I or class II to class III if the Commissioner determines that the device meets the criteria set forth in § 860.3(c)(3) for a class III device; or
 
-(2) Class I if the Commissioner determines that general controls would provide reasonable assurance of the safety and effectiveness of the device.
+(2) Class III or class I to class II if the Commissioner determines that the device meets the criteria set forth in § 860.3(c)(2) for a class II device; or
 
-(d) The rulemaking procedures in § 10.40 of this chapter apply to proceedings to reclassify a device under section 513(e), except that the Commissioner may secure a recommendation with respect to a proposed reclassification from the classification panel to which the device was last referred. The panel will consider a proposed reclassification submitted to it by the Commissioner in accordance with the consultation procedures of § 860.125. Any recommendation submitted to the Commissioner by the panel will be published in the Federal Register when the Commissioner promulgates a regulation under this section.
+(3) Class III or class II to class I if the Commissioner determines that the device meets the criteria set forth in § 860.3(c)(1) for a class I device.
 
-(e) Within 180 days after the filing of a petition for reclassification under this section, the Commissioner, by order published in the Federal Register, will either deny the petition or give notice of his intent to initiate a change in the classification of the device.
+(d)(1) The Commissioner shall consult with a classification panel and may secure a recommendation with respect to reclassification of a device from a classification panel. The panel will consider reclassification in accordance with the consultation procedures of § 860.125. A recommendation submitted to the Commissioner by the panel will be published in the Federal Register when the Commissioner publishes an administrative order under this section.
 
-(f) If a device is reclassified under this section, the regulation effecting the reclassification may revoke any special control or premarket approval requirement that previously applied to the device but that is no longer applicable because of the change in classification.
+(2) The Commissioner may change the classification of a device by administrative order published in the Federal Register following publication of a proposed reclassification order in the Federal Register, a meeting of a device classification panel described in section 513(b) of the Federal Food, Drug, and Cosmetic Act, and consideration of comments to a public docket.
 
-(g) A regulation under this section changing the classification of a device from class III to class II may provide that such classification will not take effect until the effective date of a special control for the device established under section 514 of the act.
+(e) Within 180 days after the filing of a petition for reclassification under this section, the Commissioner will either deny the petition by order published in the Federal Register or give notice of the intent to initiate a change in the classification of the device.
 
-[43 FR 32993, July 28, 1978, as amended at 57 FR 58404, Dec. 10, 1992]
+(f) If a device is reclassified under this section, the administrative order effecting the reclassification may revoke any special control or premarket approval requirement that previously applied to the device but that is no longer applicable because of the change in classification.
+
+(g) An administrative order under this section changing the classification of a device to class II may provide that such reclassification will not take effect until the effective date of a performance standard for the device established under section 514 of the Federal Food, Drug, and Cosmetic Act or other special controls established under the order. An order under this section changing the classification of a device to class II may also establish the special controls necessary to provide reasonable assurance of the safety and effectiveness of the device.
+
+[43 FR 32993, July 28, 1978, as amended at 57 FR 58404, Dec. 10, 1992; 83 FR 64456, Dec. 17, 2018]

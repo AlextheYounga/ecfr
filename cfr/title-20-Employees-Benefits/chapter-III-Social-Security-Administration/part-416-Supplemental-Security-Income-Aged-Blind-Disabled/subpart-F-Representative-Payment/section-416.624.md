@@ -1,7 +1,5 @@
 ##### § 416.624 How do we investigate a representative payee applicant? #####
 
-Link to an amendment published at 84 FR 4326, Feb. 15, 2019.
-
 Before selecting an individual or organization to act as your representative payee, we will perform an investigation.
 
 (a) *Nature of the investigation.* As part of the investigation, we do the following:
@@ -22,10 +20,12 @@ Before selecting an individual or organization to act as your representative pay
 
 (8) Require the payee applicant to provide adequate information showing his or her relationship to the beneficiary and to describe his or her responsibility for the care of the beneficiary.
 
-(9) Determine whether the payee applicant is a creditor of the beneficiary (see § 416.622(d)).
+(9) Determine whether the payee applicant is a creditor of the beneficiary (see § 416.622(e)).
+
+(10) Conduct a criminal background check on the payee applicant.
 
 (b) *Subsequent face-to-face interviews.* After holding a face-to-face interview with a payee applicant, subsequent face-to-face interviews are not required if that applicant continues to be qualified and currently is acting as a payee, unless we determine, within our discretion, that a new face-to-face interview is necessary. We base this decision on the payee's past performance and knowledge of and compliance with our reporting requirements.
 
 (c) *Impracticable.* We may consider a face-to-face interview impracticable if it would cause the payee applicant undue hardship. For example, the payee applicant would have to travel a great distance to the field office. In this situation, we may conduct the investigation to determine the payee applicant's suitability to serve as a representative payee without a face-to-face interview.
 
-[69 FR 60237, Oct. 7, 2004, as amended at 73 FR 66521, Nov. 10, 2008]
+[69 FR 60237, Oct. 7, 2004, as amended at 73 FR 66521, Nov. 10, 2008; 84 FR 4326, Feb. 15, 2018]

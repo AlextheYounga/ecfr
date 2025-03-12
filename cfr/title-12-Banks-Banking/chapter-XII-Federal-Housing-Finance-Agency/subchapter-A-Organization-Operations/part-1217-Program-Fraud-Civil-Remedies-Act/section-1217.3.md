@@ -1,5 +1,7 @@
 ##### § 1217.3 Basis for civil penalties and assessments. #####
 
+Link to an amendment published at 84 FR 9704, Mar. 18, 2019.
+
 (a) *False, fictitious or fraudulent claims.* (1) A civil penalty of not more than $11,181 may be imposed upon a person who makes a claim to FHFA for property, services, or money where the person knows or has reason to know that the claim:
 
 (i) Is false, fictitious, or fraudulent;

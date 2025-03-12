@@ -1,7 +1,5 @@
 ##### § 199.14 Provider reimbursement methods. #####
 
-Link to an amendment published at 84 FR 4333, Feb. 15, 2019.
-
 (a) *Hospitals.* The CHAMPUS-determined allowable cost for reimbursement of a hospital shall be determined on the basis of one of the following methodologies.
 
 (1) *CHAMPUS Diagnosis Related Group (DRG)-based payment system.* Under the CHAMPUS DRG-based payment system, payment for the operating costs of inpatient hospital services furnished by hospitals subject to the system is made on the basis of prospectively-determined rates and applied on a per discharge basis using DRGs. Payments under this system will include a differentiation for urban (using large urban and other urban areas) and rural hospitals and an adjustment for area wage differences and indirect medical education costs. Additional payments will be made for capital costs, direct medical education costs, and outlier cases.
@@ -54,7 +52,7 @@ Link to an amendment published at 84 FR 4333, Feb. 15, 2019.
 
 (*v*) *Additional payments to transferring hospitals.* A transferring hospital may qualify for an additional payment for extraordinary cases that meet the criteria for long-stay or cost outliers.
 
-(D) *DRG system updates.* The CHAMPUS DRG-based payment system is modeled on the Medicare Prospective Payment System (PPS) and uses annually updated items and numbers from the Medicare PPS as provided for in this part and in instructions issued by the Director, OCHAMPUS. The effective date of these items and numbers shall correspond to that under the Medicare PPS except where distinctions are made in this part.
+(D) *DRG system updates.* The CHAMPUS DRG-based payment system is modeled on the Medicare Prospective Payment System (PPS) and uses annually updated items and numbers from the Medicare PPS as provided for in this part and in instructions issued by the Director, DHA. The effective date of these items and numbers shall not correspond to that under Medicare PPS but shall be delayed until January 1, to align with TRICARE's program year reporting. This allows for an administrative simplicity that optimizes healthcare delivery by reducing existing administrative burden and costs.
 
 (ii) *Applicability of the DRG system* - (A) *Areas affected.* The CHAMPUS DRG-based payment system shall apply to hospitals' services in the fifty states, the District of Columbia, and Puerto Rico, except that any state which has implemented a separate DRG-based payment system or similar payment system in order to control costs and is exempt from the Medicare Prospective Payment System may be exempt from the CHAMPUS DRG-based payment system if it requests exemption in writing, and provided payment under such system does not exceed payment which would otherwise be made under the CHAMPUS DRG-based payment system.
 

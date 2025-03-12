@@ -1,7 +1,5 @@
 ##### § 199.2 Definitions. #####
 
-Link to an amendment published at 84 FR 4333, Feb. 15, 2019.
-
 (a) *General.* In an effort to be as specific as possible as to the word and intent of CHAMPUS, the following definitions have been developed. While many of the definitions are general and some assign meaning to relatively common terms within the health insurance environment, others are applicable only to CHAMPUS; however, they all appear in this part solely for the purpose of the Program. Except when otherwise specified, the definitions in this section apply generally throughout this part.
 
 (b) *Specific definitions. Abortion.* Abortion means the intentional termination of a pregnancy by artificial means done for a purpose other than that of producing a live birth. A spontaneous, missed or threatened abortion or termination of an ectopic (tubal) pregnancy are not included within the term “abortion” as used herein.
@@ -740,7 +738,7 @@ TRICARE is secondary payer to all third-party payers. Under limited circumstance
 
 *TRICARE Select.* The self-managed, preferred-provider network option under the TRICARE Program established by 10 U.S.C. 1075 and § 199.17 to replace TRICARE Extra and Standard after December 31, 2017.
 
-*TRICARE Standard.* The TRICARE program made available prior to January 1, 2018, under which the basic program of health care benefits generally referred to as CHAMPUS was made available to eligible beneficiaries under this part.
+*TRICARE Standard.* The TRICARE program made available prior to January 1, 2018, covering health benefits contracted for under the authority of 10 U.S.C. section 1079(a) or 1086(a) and subject to the same rates and conditions as apply to persons covered under those sections.
 
 *TRICARE Young Adult.* The program authorized by and described in § 199.26 of this part.
 

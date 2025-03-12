@@ -1,11 +1,9 @@
 ##### § 107.616 Payment procedures. #####
 
-Link to an amendment published at 84 FR 3999, Feb. 14, 2019.
-
-(a) Each person subject to the requirements of this subpart must mail the registration statement and payment in full to the U.S. Department of Transportation, Hazardous Materials Registration, P.O. Box 530273, Atlanta, GA 30353-0273, or submit the statement and payment electronically through the Department's e-Commerce Internet site. Access to this service is provided at *http://phmsa.dot.gov/hazmat/registration.* A registrant required to file an amended registration statement under § 107.608(c) must mail it to the same address or submit it through the same Internet site.
+(a) Each person subject to the requirements of this subpart must mail the registration statement and payment in full to the U.S. Department of Transportation—Hazardous Materials, P.O. Box 6200-01, Portland, OR 97228-6200, or submit the statement and payment electronically through the Department's e-Commerce internet site. Access to this service is provided at *https://www.phmsa.dot.gov/hazmat/registration*. A registrant required to file an amended registration statement under § 107.608(c) of this subpart must mail it to the same address or submit it through the same internet site.
 
 (b) Payment must be made by certified check, cashier's check, personal check, or money order in U.S. funds and drawn on a U.S. bank, payable to the U.S. Department of Transportation and identified as payment for the “Hazmat Registration Fee,” or by completing an authorization for payment by credit card or other electronic means of payment acceptable to the Department on the registration statement or as part of an Internet registration as provided in paragraph (a) of this section.
 
 (c) Payment must correspond to the total fees properly calculated in the “Amount Due” block of the DOT form F 5800.2. A person may elect to register and pay the required fees for up to three registration years by filing one complete and accurate registration statement.
 
-[Amdt. 107-26, 57 FR 30630, July 9, 1992, as amended by Amdt. 107-26, 58 FR 12545, Mar. 5, 1993; 65 FR 7310, Feb. 14, 2000; 67 FR 58345, Sept. 16, 2002; 68 FR 1346, Jan. 9, 2003; 71 FR 54390, Sept. 14, 2006; 72 FR 24538, May 3, 2007; 76 FR 56311, Sept. 13, 2011]
+[Amdt. 107-26, 57 FR 30630, July 9, 1992, as amended by Amdt. 107-26, 58 FR 12545, Mar. 5, 1993; 65 FR 7310, Feb. 14, 2000; 67 FR 58345, Sept. 16, 2002; 68 FR 1346, Jan. 9, 2003; 71 FR 54390, Sept. 14, 2006; 72 FR 24538, May 3, 2007; 76 FR 56311, Sept. 13, 2011; 84 FR 3999, Feb. 14, 2019]

@@ -1,7 +1,5 @@
 ##### § 860.3 Definitions. #####
 
-Link to an amendment published at 83 FR 64454, Dec. 17, 2018.
-
 For the purposes of this part:
 
 (a) *Act* means the Federal Food, Drug, and Cosmetic Act.
@@ -20,25 +18,7 @@ For the purposes of this part:
 
 (e) *Life-supporting or life-sustaining device* means a device that is essential to, or that yields information that is essential to, the restoration or continuation of a bodily function important to the continuation of human life.
 
-(f) *Classification questionnaire* means a specific series of questions prepared by the Commissioner for use as guidelines by classification panels preparing recommendations to the Commissioner regarding classification and by petitioners submitting petitions for reclassification. The questions relate to the safety and effectiveness characteristics of a device and the answers are designed to help the Commissioner determine the proper classification of the device.
-
-(g) *Supplemental data sheet* means information compiled by a classification panel or submitted in a petition for reclassification, including:
-
-(1) A summary of the reasons for the recommendation (or petition);
-
-(2) A summary of the data upon which the recommendation (or petition) is based;
-
-(3) An identification of the risks to health (if any) presented by the device;
-
-(4) To the extent practicable in the case of a class II or class III device, a recommendation for the assignment of a priority for the application of the requirements of performance standards or premarket approval;
-
-(5) In the case of a class I device, a recommendation whether the device should be exempted from any of the requirements of registration, record-keeping and reporting, or good manufacturing practice requirements of the quality system regulation;
-
-(6) In the case of an implant or a life-supporting or life-sustaining device for which classification in class III is not recommended, a statement of the reasons for not recommending that the device be classified in class III;
-
-(7) Identification of any needed restrictions on the use of the device, e.g., whether the device requires special labeling, should be banned, or should be used only upon authorization of a practitioner licensed by law to administer or use such device; and
-
-(8) Any known existing standards applicable to the device, device components, or device materials.
+(f)-(g) [Reserved]
 
 (h) *Classification panel* means one of the several advisory committees established by the Commissioner under section 513 of the act and part 14 of this chapter for the purpose of making recommendations to the Commissioner on the classification and reclassification of devices and for other purposes prescribed by the act or by the Commissioner.
 
@@ -46,4 +26,4 @@ For the purposes of this part:
 
 (j) *Petition* means a submission seeking reclassification of a device in accordance with § 860.123.
 
-[43 FR 32993, July 28, 1978, as amended at 57 FR 58403, Dec. 10, 1992; 65 FR 56480, Sept. 19, 2000]
+[43 FR 32993, July 28, 1978, as amended at 57 FR 58403, Dec. 10, 1992; 65 FR 56480, Sept. 19, 2000; 83 FR 64454, Dec. 17, 2018]

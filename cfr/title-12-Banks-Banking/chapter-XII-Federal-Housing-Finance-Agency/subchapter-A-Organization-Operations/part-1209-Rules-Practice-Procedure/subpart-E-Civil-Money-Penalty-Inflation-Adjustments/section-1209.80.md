@@ -1,5 +1,7 @@
 ##### § 1209.80 Inflation adjustments. #####
 
+Link to an amendment published at 84 FR 9704, Mar. 18, 2019.
+
 The maximum amount of each civil money penalty within FHFA's jurisdiction, as set by the Safety and Soundness Act and thereafter adjusted in accordance with the Inflation Adjustment Act, is as follows:
 
 | U.S. Code citation |                      Description                       |New adjusted  <br/>maximum  <br/>penalty  <br/>amount|

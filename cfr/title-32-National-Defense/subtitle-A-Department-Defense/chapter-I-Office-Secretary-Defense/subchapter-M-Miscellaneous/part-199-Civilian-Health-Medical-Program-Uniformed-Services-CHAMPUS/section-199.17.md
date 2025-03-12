@@ -1,7 +1,5 @@
 ##### § 199.17 TRICARE program. #####
 
-Link to an amendment published at 84 FR 4333, Feb. 15, 2019.
-
 (a) *Establishment.* The TRICARE program is established for the purpose of implementing a comprehensive managed health care program for the delivery and financing of health care services in the Military Health System.
 
 (1) *Purpose.* The TRICARE program implements a number of improvements primarily through modernized managed care support contracts that include special arrangements with civilian sector health care providers and better coordination between military medical treatment facilities (MTFs) and these civilian providers to deliver an integrated, health care delivery system that provides beneficiaries with access to high quality healthcare. Implementation of these improvements, to include enhanced access, improved health outcomes, increased efficiencies and elimination of waste, in addition to improving and maintaining operational medical force readiness, includes adoption of special rules and procedures not ordinarily followed under CHAMPUS or MTF requirements. This section establishes those special rules and procedures.
@@ -114,7 +112,7 @@ Link to an amendment published at 84 FR 4333, Feb. 15, 2019.
 
 (3) *Treatment of obesity.* Under the authority of 10 U.S.C. 1097 and sections 706 and 729 of the National Defense Authorization Act for Fiscal Year 2017, notwithstanding 10 U.S.C. 1079(a)(10), treatment of obesity is covered under TRICARE Prime and TRICARE Select even if it is the sole or major condition treated. Such services must be provided by a TRICARE network provider and be medically necessary and appropriate in the context of the particular patient's treatment.
 
-(4) *High value services.* Under the authority of 10 U.S.C. 1097 and other authority, including sections 706 and 729 of the National Defense Authorization Act for Fiscal Year 2017, for purposes of improving population-based health outcomes and incentivizing medical intervention programs to address chronic diseases and other conditions and healthy lifestyle interventions, the Director may waive or reduce cost sharing requirements for TRICARE Prime and TRICARE Select enrollees for care received from network providers for certain health care services designated for this purpose. The specific services designated for this purpose will be those the Director determines provide especially high value in terms of better health outcomes. The specific services affected for any plan year will be announced by the Director prior to the open season enrollment period for that plan year. Services affected by actions of the Director under paragraph (f)(5) of this section may be associated with actions taken for high value medications under § 199.21(j)(3) for select pharmaceutical agents to be cost-shared at a reduced or zero dollar rate.
+(4) *High value services.* Under the authority of 10 U.S.C. 1097 and other authority, including sections 706 and 729 of the NDAA-17, for purposes of improving population-based health outcomes and incentivizing medical intervention programs to address chronic diseases and other conditions and healthy lifestyle interventions, the Director may waive or reduce cost sharing requirements for TRICARE Prime and TRICARE Select enrollees for care received from network providers for certain health care services designated for this purpose. The specific services designated for this purpose will be those the Director determines provide especially high value in terms of better health outcomes. The specific services affected for any plan year will be announced by the Director prior to the open season enrollment period for that plan year. Services affected by actions of the Director under this paragraph (f)(4) may be associated with actions taken for high value medications under § 199.21(j)(3) for select pharmaceutical agents to be cost-shared at a reduced or zero dollar rate.
 
 (5) *Other services.* In addition to services provided pursuant to paragraphs (f)(2) through (4) of this section, other benefit enhancements may be added and other benefit restrictions may be waived or relaxed in connection with health care services provided to TRICARE Prime and TRICARE Select enrollees. Any such other enhancements or changes must be approved by the Director based on uniform standards.
 
@@ -238,7 +236,7 @@ Link to an amendment published at 84 FR 4333, Feb. 15, 2019.
 
 (D) The catastrophic cap is $1,000 for active duty families and $3,000 for retired category families.
 
-(ii) For Group B enrollees, the enrollment fee, catastrophic cap and cost sharing amounts are as set forth in 10 U.S.C. 1075a.
+(ii) For Group B TRICARE Prime enrollees, the enrollment fee, catastrophic cap, and cost sharing amounts are as set forth in 10 U.S.C. 1075a. The cost sharing requirements applicable to services not specifically addressed in the table set forth in 10 U.S.C. 1075a(b)(1) shall be determined by the Director, DHA.
 
 (iii) For both Group A and Group B, for health care services obtained by a Prime enrollee but not obtained in accordance with the rules and procedures of Prime (*e.g.* failure to obtain a primary care manager referral when such a referral is required or seeing a non-network provider when Prime rules require use of a network provider and one is available) will not be paid under Prime rules but may be covered by the point-of-service option. For services obtained under the point-of-service option, the deductible is $300 per person and $600 per family. The beneficiary cost share is 50 percent of the allowable charges for inpatient and outpatient care, after the deductible. Point-of-service charges do not count against the annual catastrophic cap.
 
@@ -252,7 +250,7 @@ Link to an amendment published at 84 FR 4333, Feb. 15, 2019.
 
 (D) The annual deductible amount is as provided in 10 U.S.C. 1079 or 1086.
 
-(ii) For Group B enrollees, the enrollment fee, annual deductible for services received while in an outpatient status, catastrophic cap and cost sharing amounts are as provided in 10 U.S.C. 1075 and as consistent with this section.
+(ii) For Group B TRICARE Select enrollees, the enrollment fee, annual deductible for services received while in an outpatient status, catastrophic cap., and cost sharing amounts are as provided in 10 U.S.C. 1075 and as consistent with this section. The cost sharing requirements applicable to services not specifically addressed in 10 U.S.C. 1075 shall be determined by the Director, DHA.
 
 (3) *Special cost-sharing rules.* (A) There is no separate cost-sharing applicable to ancillary health care services obtained in conjunction with an outpatient primary or specialty care visit under TRICARE Prime or from network providers under TRICARE Select.
 
@@ -304,7 +302,7 @@ Link to an amendment published at 84 FR 4333, Feb. 15, 2019.
 
 (C) Durable medical equipment.
 
-(vi) The cost-sharing requirement for a beneficiary enrolled in TRICARE Prime who does not obtain a referral for care when it is required, including care from a non-network provider, is as provided in paragraph (l)(1)(iv) of this section concerning point-of-service care.
+(vi) The cost-sharing requirement for a beneficiary enrolled in TRICARE Prime who does not obtain a referral for care when it is required, including care from a non-network provider, is as provided in paragraph (l)(1)(iii) of this section concerning point of service care.
 
 (vii) In the case of care for which preauthorization is not required under paragraph (n)(2)(iv) of this section, the Director may authorize a managed care support contractor to offer a voluntary pre-authorization program to enable beneficiaries and providers to confirm covered benefit status and/or medical necessity or to understand the criteria that will be used by the managed care support contractor to adjudicate the claim associated with the proposed care. A network provider may not be required to use such a program with respect to a referral.
 
@@ -425,4 +423,4 @@ Link to an amendment published at 84 FR 4333, Feb. 15, 2019.
 
 (w) *Administrative procedures.* The Assistant Secretary of Defense (Health Affairs), the Director, and MTF Commanders (or other authorized officials) are authorized to establish administrative requirements and procedures, consistent with this section, this part, and other applicable DoD Directives or Instructions, for the implementation and operation of the TRICARE program.
 
-[82 FR 45448, Sept. 29, 2017]
+[82 FR 45448, Sept. 29, 2017, as amended at 84 FR 4333, Feb. 15, 2019]
