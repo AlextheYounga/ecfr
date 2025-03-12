@@ -22,7 +22,7 @@
 
 (2) The population categories that are not registered via an authorized data source feed will be registered in DEERS via the RAPIDS using the DD Form 1172-2 or via the TASS (formerly known as CVS, as described in § 161.8 of this subpart.
 
-(c) *Background Investigation.* In accordance with this subpart and DoDI 5200.46, “DoD Investigative and Adjudicative Guidance for Issuing the Common Access Card (CAC)” (available at: *http://www.dtic.mil/whs/directives/corres/pdf/520046p.pdf*), a background investigation is required for those individuals eligible for a CAC. A background investigation is not currently required for those eligible for other forms of DoD ID cards. The use of the CAC, as the DoD Federal personal identity verification (PIV) card, is governed and supported by additional policies when compared to non-CAC ID cards.
+(c) *Background Investigation.* In accordance with this subpart and DoDI 5200.46, “DoD Investigative and Adjudicative Guidance for Issuing the Common Access Card (CAC)” (available at: *http://www.dtic.mil/whs/ directives/corres/pdf/ 520046p.pdf*), a background investigation is required for those individuals eligible for a CAC. A background investigation is not currently required for those eligible for other forms of DoD ID cards. The use of the CAC, as the DoD Federal personal identity verification (PIV) card, is governed and supported by additional policies when compared to non-CAC ID cards.
 Sponsored CAC applicants shall not be issued a CAC without the required background investigation stipulated in DoDI 5200.46 and FIPS Publication 201-2.
 
 (1) A background investigation shall be initiated by the sponsoring organization before a CAC can be issued. The mechanisms required to verify completion of background investigation activities for DoD, military, and civilian CAC populations are managed within the DoD human resources and personnel security communities and are linked to the CAC issuance process. An automated means is not currently in place to confirm the vetting for populations other than DoD military and civilian personnel such as CAC-eligible contractors and non-DoD Federal civilian affiliates. When data is not available within the CAC issuance infrastructure on the background investigation status for an applicant, the sponsor shall be responsible for confirming that the required background investigation procedures comply with the DoD Instruction 5200.46 and FIPS Publication 201-2 before a CAC is authorized for issuance.
@@ -31,7 +31,7 @@ Sponsored CAC applicants shall not be issued a CAC without the required backgrou
 
 (3) Except for uniformed services members, special considerations for conducting background investigations of non-U.S. nationals are addressed in DoD Instruction 5200.46. Non-U.S. person CAC applicants that do not meet the criteria to complete a NACI (e.g., U.S. residency requirements), must meet one of the criteria in paragraph (c)(3)(i) or (ii) of this section prior to CAC issuance. CACs issued to these non-U.S. persons shall display a blue stripe as described in appendix 2 of this section. Procedures for the acceptance of this CAC shall be in accordance with DoD Instruction 5200.46 and Office of Personnel Management Memorandum, “Final Credentialing Standards for Issuing Personal Identity Verification Cards under HSPD-12.” The specific background investigation conducted on the non-U.S. person may vary based on governing international agreements. Non-U.S. persons must:
 
-(i) Possess (as foreign military, employee, or contract support personnel) a visit status and security assurance that has been confirmed, documented, and processed in accordance with international agreements pursuant to DoD Directive 5230.20, “Visits and Assignments of Foreign Nationals” (available at *http://www.dtic.mil/whs/directives/corres/pdf/523020p.pdf*).
+(i) Possess (as foreign military, employee, or contract support personnel) a visit status and security assurance that has been confirmed, documented, and processed in accordance with international agreements pursuant to DoD Directive 5230.20, “Visits and Assignments of Foreign Nationals” (available at *http://www.dtic.mil/whs/directives/corres/pdf/ 523020p.pdf*).
 
 (ii) Meet (as direct or indirect DoD hire personnel overseas) the investigative requirements for DoD employment as recognized through international agreements pursuant to Volume 1231 of DoD Instruction 1400.25, “DoD Civilian Personnel Management System: Employment of Foreign Nationals” (available at *http://www.dtic.mil/whs/directives/corres/html/CPM\_table2.html*). In addition to these investigative requirements, a fingerprint check against the FBI criminal history database, an FBI investigations files (name check search), and a name check against the Terrorist Screening Database shall be required prior to CAC issuance in accordance with Office of Personnel Management Memorandum, “Final Credentialing Standards for Issuing Personal Identity Verification Cards under HSPD-12.”
 
@@ -77,7 +77,7 @@ Sponsored CAC applicants shall not be issued a CAC without the required backgrou
 
 (ix) Wards.
 
-(2) *Expiration dates* - (i) *CACs.* Except as noted in paragraphs (e)(2)(i)(A) and (B) of this section, CACs shall be issued for a period not to exceed 3 years from the date of issuance or contract expiration date, whichever is shorter. Unfunded contract options shall be considered in the determination of the length of contract. For example, a contractor hired under DoD contract with a base year plus 2 option years shall be issued a CAC with a 3-year expiration. The expiration date of the PKI certificates on the CAC shall match the expiration date on the card.
+(2) *Expiration dates*—(i) *CACs.* Except as noted in paragraphs (e)(2)(i)(A) and (B) of this section, CACs shall be issued for a period not to exceed 3 years from the date of issuance or contract expiration date, whichever is shorter. Unfunded contract options shall be considered in the determination of the length of contract. For example, a contractor hired under DoD contract with a base year plus 2 option years shall be issued a CAC with a 3-year expiration. The expiration date of the PKI certificates on the CAC shall match the expiration date on the card.
 
 (A) CACs issued to DoD civilian employees, contractors, and other eligible personnel assigned overseas or deploying in support of contingency operations shall have an expiration date coinciding with their deployment period end date.
 
@@ -101,7 +101,7 @@ Sponsored CAC applicants shall not be issued a CAC without the required backgrou
 
 (B) If biometric information cannot be verified, the requirements for initial issuance shall apply or a temporary card may be issued in accordance with paragraph (e)(4) of this section.
 
-(4) *Temporary cards - (i) Temporary issuance of a CAC.* During contingency operations, in the event there is no communication with the DEERS database or the certificate authority, a temporary CAC may be issued with an abbreviated expiration date for a maximum of 10 days. The temporary card will not have PKI certificates and will be replaced as soon as the member can reach an online RAPIDS station or communications have been restored. Additionally, the temporary CAC does not communicate or imply eligibility to any DoD benefit. This capability will be enabled only at affected RAPIDS sites and must have approval granted by DMDC.
+(4) *Temporary cards*—(i) *Temporary issuance of a CAC.* During contingency operations, in the event there is no communication with the DEERS database or the certificate authority, a temporary CAC may be issued with an abbreviated expiration date for a maximum of 10 days. The temporary card will not have PKI certificates and will be replaced as soon as the member can reach an online RAPIDS station or communications have been restored. Additionally, the temporary CAC does not communicate or imply eligibility to any DoD benefit. This capability will be enabled only at affected RAPIDS sites and must have approval granted by DMDC.
 
 (ii) *Temporary issuance of a Uniformed Services Identification card.* There are multiple scenarios under which a temporary Uniformed Services Identification card may be issued. The uniformed services shall develop standard processes and procedures for scenarios requiring issuance of a temporary DD Forms 2765 “Department of Defense/Uniformed Services Identification and Privilege Card” or DD 1173, including but not limited to those situations where the applicant needs to obtain the necessary legal documentation or the sponsor is unavailable to provide an authorizing signature.
 
@@ -127,11 +127,11 @@ Sponsored CAC applicants shall not be issued a CAC without the required backgrou
 
 (3) Upon loss, destruction, or revocation of the CAC, the certificates thereon are revoked and placed on the certificate revocation list in accordance with Assistant Secretary of Defense for Networks and Information Integration Certificate Policy, “X.509 Certificate Policy for the United States Department of Defense” (available at *http://jitc.fhu.disa.mil/pki/documents/dod\_x509\_certificate\_policy\_v9\_0\_9\_february\_2005.pdf*). All other situations that pertain to the disposition of the certificates are handled in accordance with Assistant Secretary of Defense for Networks and Information Integration Certificate Policy, “X.509 Certificate Policy for the United States Department of Defense” as implemented.
 
-Appendix 1 to § 161.7 - ID Card Descriptions and Population Eligibility Categories
+Appendix 1 to § 161.7—ID Card Descriptions and Population Eligibility Categories
 
 (a) *Overview.* Paragraphs (b) through (e) of this appendix contain information on the CAC type of ID card. The remaining paragraphs in the appendix contain information on all other versions of DoD enterprise-wide ID cards. This appendix describes these cards and lists some of the categories of populations that are eligible to be sponsored for the cards under the guidelines described in paragraph (a) of § 161.7; additional ID-card eligible categories are codified in subpart C of this part. RAPIDS accesses DEERS information collected by the DD Form 1172-2 to generate all of the ID Cards identified in this appendix. The benefits and entitlements that support ID card eligibility for populations in this appendix are described in subpart C of this part. Guidelines and restrictions that pertain to all forms of DoD ID cards are included in this part.
 
-(b) *Armed Forces of the United States Geneva Conventions ID Card* - (1) *Description.* This CAC is the primary ID card for uniformed services members and shall be used to identify the member's eligibility for benefits and privileges administered by the uniformed services as described in subpart C of this part. The CAC shall also be used to facilitate standardized, uniform access to DoD facilities, and installations in accordance with Directive Type Memorandum 09-012, “Interim Policy Guidance for DoD Physical Access Control” (available at: *http://www.dtic.mil/whs/directives/corres/pdf/DTM-09-012.pdf*) and DoD 5200.08-R, “Physical Security Program,” and to computer systems in accordance with DoD Instruction 8520.02, “Public Key Infrastructure (PKI) and Public Key (PK) Enabling,” (available at: *http://www.dtic.mil/whs/directives/corres/pdf/852002p.pdf*).
+(b) *Armed Forces of the United States Geneva Conventions ID Card*—(1) *Description.* This CAC is the primary ID card for uniformed services members and shall be used to identify the member's eligibility for benefits and privileges administered by the uniformed services as described in subpart C of this part. The CAC shall also be used to facilitate standardized, uniform access to DoD facilities, and installations in accordance with Directive Type Memorandum 09-012, “Interim Policy Guidance for DoD Physical Access Control” (available at: *http://www.dtic.mil/whs/directives/corres/pdf/DTM-09-012.pdf*) and DoD 5200.08-R, “Physical Security Program,” and to computer systems in accordance with DoD Instruction 8520.02, “Public Key Infrastructure (PKI) and Public Key (PK) Enabling,” (available at: *http://www.dtic.mil/whs/directives/corres/pdf/852002p.pdf*).
 
 (i) The card shall also serve as ID for purposes of Geneva Convention requirements in accordance with DoD Instruction 1000.01.
 
@@ -147,7 +147,7 @@ Appendix 1 to § 161.7 - ID Card Descriptions and Population Eligibility Categor
 
 (iv) Uniformed services members of NOAA and USPHS.
 
-(c) *U.S. DoD or Uniformed Services ID Card* - (1) *Description.* This CAC is the primary ID card for eligible civilian employees, contractors, and foreign national affiliates and shall be used to facilitate standardized, uniform access to DoD facilities, and installations in accordance with Directive Type Memorandum 09-012, “Interim Policy Guidance for DoD Physical Access Control” and DoD 5200.08-R, “Physical Security Program,” and computer systems in accordance with DoD Instruction 8520.02, “Public Key Infrastructure (PKI) and Public Key (PK) Enabling.”
+(c) *U.S. DoD or Uniformed Services ID Card*—(1) *Description.* This CAC is the primary ID card for eligible civilian employees, contractors, and foreign national affiliates and shall be used to facilitate standardized, uniform access to DoD facilities, and installations in accordance with Directive Type Memorandum 09-012, “Interim Policy Guidance for DoD Physical Access Control” and DoD 5200.08-R, “Physical Security Program,” and computer systems in accordance with DoD Instruction 8520.02, “Public Key Infrastructure (PKI) and Public Key (PK) Enabling.”
 
 (2) *Eligibility.* (i) DoD civilian employees are eligible for this CAC, to include:
 
@@ -179,9 +179,9 @@ Appendix 1 to § 161.7 - ID Card Descriptions and Population Eligibility Categor
 
 (*2*) *Assignment as Foreign Military, Foreign Government Civilians, or Foreign Government Contractors to Support DoD Missions.* Non-U.S. citizens who are sponsored by their government as part of an official visit or assignment to work with DoD.
 
-(*3*) *Procurement Contracts, Grant Agreements or Other Cooperative Agreements.* Individuals who have a established relationship between the U.S. Government and a State, a local government, or other recipient as specified in 31 U.S.C. 6303, 6304, and 6305.
+(*3*) *Procurement Contracts, Grant Agreements or Other Cooperative Agreements.* Individuals who have an established relationship between the U.S. Government and a State, a local government, or other recipient as specified in 31 U.S.C. 6303, 6304, and 6305.
 
-(d) *U.S. DoD or Uniformed Services ID and Privilege Card* - (1) *Description.* This CAC is the primary ID card for civilian employees, contractors, and foreign national military, as well as other eligible individuals entitled to benefits and privileges administered by the uniformed services as described in subpart C of this part. The CAC shall be used to facilitate standardized, uniform access to DoD facilities, and installations in accordance with Directive Type Memorandum 09-012, “Interim Policy Guidance for DoD Physical Access Control” and DoD 5200.08-R, “Physical Security Program,” and computer systems in accordance with DoD Instruction 8520.02, “Public Key Infrastructure (PKI) and Public Key (PK) Enabling.”
+(d) *U.S. DoD or Uniformed Services ID and Privilege Card*—(1) *Description.* This CAC is the primary ID card for civilian employees, contractors, and foreign national military, as well as other eligible individuals entitled to benefits and privileges administered by the uniformed services as described in subpart C of this part. The CAC shall be used to facilitate standardized, uniform access to DoD facilities, and installations in accordance with Directive Type Memorandum 09-012, “Interim Policy Guidance for DoD Physical Access Control” and DoD 5200.08-R, “Physical Security Program,” and computer systems in accordance with DoD Instruction 8520.02, “Public Key Infrastructure (PKI) and Public Key (PK) Enabling.”
 
 (2) *Eligibility.* Specific population categories are entitled to benefits and privileges, in accordance with subpart C of this part, and shall be eligible for this CAC, to include:
 
@@ -207,7 +207,7 @@ Appendix 1 to § 161.7 - ID Card Descriptions and Population Eligibility Categor
 
 (C) Active duty officers and enlisted personnel of NATO and non-NATO countries when serving outside the United States and outside their own country under the sponsorship or invitation of the DoD or a Military Department, or when it is determined by the major overseas commander that the granting of such privileges is in the best interests of the United States and such personnel are connected with, or their activities are related to, the performance of functions of the U.S. military establishment.
 
-(e) *U.S. DoD or Uniformed Service Geneva Conventions ID Card for Civilians Accompanying the Armed Forces* - (1) *Description.* This CAC serves as the DoD and/or Uniformed Services Geneva Conventions ID card for civilians accompanying the uniformed services and shall be used to facilitate standardized, uniform access to DoD facilities, and installations in accordance with Directive Type Memorandum 09-012, “Interim Policy Guidance for DoD Physical Access Control” and DoD 5200.08-R, “Physical Security Program,” and computer systems in accordance with DoD Instruction 8520.02, “Public Key Infrastructure (PKI) and Public Key (PK) Enabling.”
+(e) *U.S. DoD or Uniformed Service Geneva Conventions ID Card for Civilians Accompanying the Armed Forces*—(1) *Description.* This CAC serves as the DoD and/or Uniformed Services Geneva Conventions ID card for civilians accompanying the uniformed services and shall be used to facilitate standardized, uniform access to DoD facilities, and installations in accordance with Directive Type Memorandum 09-012, “Interim Policy Guidance for DoD Physical Access Control” and DoD 5200.08-R, “Physical Security Program,” and computer systems in accordance with DoD Instruction 8520.02, “Public Key Infrastructure (PKI) and Public Key (PK) Enabling.”
 
 (2) *Eligibility.* The following population categories are eligible for this CAC:
 
@@ -215,7 +215,7 @@ Appendix 1 to § 161.7 - ID Card Descriptions and Population Eligibility Categor
 
 (ii) Contractors authorized to accompany the force (contingency contractor employees) as defined in Joint Publication 1-02 (available at *http://www.dtic.mil/doctrine/new\_pubs/jp1\_02.pdf*).
 
-(f) *DD Form 2, “Armed Forces of the United States Identification Card (Reserve).*” - (1) *Description.* This is the primary ID card for RC members not eligible for a CAC. Benefits and privileges shall be administered by the uniformed services as described in subpart C of this part.
+(f) *DD Form 2, “Armed Forces of the United States Identification Card (Reserve).*”—(1) *Description.* This is the primary ID card for RC members not eligible for a CAC. Benefits and privileges shall be administered by the uniformed services as described in subpart C of this part.
 
 (i) The DD Form 2S (RES) shall serve as ID for purposes of the Geneva Convention requirements in accordance with DoD Instruction 1000.01.
 
@@ -229,15 +229,15 @@ Appendix 1 to § 161.7 - ID Card Descriptions and Population Eligibility Categor
 
 (iii) The Reserve Officers' Training Corps College Program students that have signed a contract leading to military service.
 
-(g) *DD Form 2S (Ret)* - (1) *Description.* This is the primary ID card for retired uniformed services members entitled to retired pay. Benefits and privileges shall be administered by the uniformed services as described in subpart C of this part.
+(g) *DD Form 2S (Ret)*—(1) *Description.* This is the primary ID card for retired uniformed services members entitled to retired pay. Benefits and privileges shall be administered by the uniformed services as described in subpart C of this part.
 
 (2) *Eligibility.* Members of the uniformed services who are entitled and in receipt of retired pay, or entitled and have waived their retired pay, are eligible for the DD 2S (RET).
 
-(h) *DD Form 2, “United States Uniformed Services Identification Card (Reserve Retired).*” - (1) *Description.* This is the primary ID card for members of the National Guard or Reserves who have completed 20 creditable years of service and have elected to be transferred to the Retired Reserve. They will qualify for pay at age 60, or earlier if they have qualified contingency service.
+(h) *DD Form 2, “United States Uniformed Services Identification Card (Reserve Retired).*”—(1) *Description.* This is the primary ID card for members of the National Guard or Reserves who have completed 20 creditable years of service and have elected to be transferred to the Retired Reserve. They will qualify for pay at age 60, or earlier if they have qualified contingency service.
 
 (2) *Eligibility.* Members of the Reserve Components who are entitled to retired pay at age 60 (or earlier if they have qualified contingency service) and have not yet attained age 60 are eligible for the DD Form 2 (Reserve Retired).
 
-(i) *DD Form 1173* - (1) *Description.* This is the primary ID card for dependents and other similar categories of individuals eligible for benefits and privileges administered by the uniformed services as described in subpart C of this part.
+(i) *DD Form 1173*—(1) *Description.* This is the primary ID card for dependents and other similar categories of individuals eligible for benefits and privileges administered by the uniformed services as described in subpart C of this part.
 
 (2) *Eligibility.* Specific population categories entitled to benefits and privileges as described in subpart C of this part are eligible for the DD Form 1173 to include:
 
@@ -255,15 +255,15 @@ Appendix 1 to § 161.7 - ID Card Descriptions and Population Eligibility Categor
 
 (vii) Other benefits eligible categories as described in subpart C of this part.
 
-(j) *DD Form 1173-1, “Department of Defense Guard and Reserve Family Member Identification Card.”* - (1) *Description.* This is the primary ID card for dependents of Ready Reserve and Standby Reserve members not on active duty in excess of 30 days. When accompanied by a set of the sponsor's valid active duty orders, the card shall be used in place of a DD Form 1173 for a period of time not to exceed 270 days, if the member is called to active duty by congressional decree or Presidential call-up under 10 U.S.C. chapter 1209.
+(j) *DD Form 1173-1, “Department of Defense Guard and Reserve Family Member Identification Card.”*—(1) *Description.* This is the primary ID card for dependents of Ready Reserve and Standby Reserve members not on active duty in excess of 30 days. When accompanied by a set of the sponsor's valid active duty orders, the card shall be used in place of a DD Form 1173 for a period of time not to exceed 270 days, if the member is called to active duty by congressional decree or Presidential call-up under 10 U.S.C. chapter 1209.
 
 (2) *Eligibility.* Eligible dependents of Reserve Component members and retirees as described in subpart C of this part are eligible for the DD Form 1173-1.
 
-(k) *DD Form 2764, “United States DoD/Uniformed Services Geneva Conventions Card.*” - (1) *Description.* This is the primary ID for non-CAC eligible civilian noncombatant personnel who are deployed in conjunction with military operations overseas. The DD Form 2764 also replaces DD Form 489, “Geneva Conventions Identity Card for Civilians Who Accompany the Armed Forces.”
+(k) *DD Form 2764, “United States DoD/Uniformed Services Geneva Conventions Card.*”—(1) *Description.* This is the primary ID for non-CAC eligible civilian noncombatant personnel who are deployed in conjunction with military operations overseas. The DD Form 2764 also replaces DD Form 489, “Geneva Conventions Identity Card for Civilians Who Accompany the Armed Forces.”
 
 (2) *Eligibility.* Civilian noncombatant personnel who have been authorized to accompany U.S. forces in regions of conflict, combat, and contingency operations and who are liable to capture and detention by the enemy as POWs are eligible for the DD Form 2764 in accordance with DoD Instruction 1000.01.
 
-(l) *DD Form 2765* - (1) *Description.* This is the primary ID card for categories of individuals, other than current or retired members of the uniformed services, who are eligible for uniformed services benefits and privileges in their own right without requiring a current affiliation with another sponsor.
+(l) *DD Form 2765*—(1) *Description.* This is the primary ID card for categories of individuals, other than current or retired members of the uniformed services, who are eligible for uniformed services benefits and privileges in their own right without requiring a current affiliation with another sponsor.
 
 (2) *Eligibility.* Those populations eligible for the DD Form 2765 include:
 
@@ -289,15 +289,15 @@ Appendix 1 to § 161.7 - ID Card Descriptions and Population Eligibility Categor
 
 (D) Military Sealift Command (MSC) civil service marine personnel deployed to foreign countries on MSC-owned and -operated vessels.
 
-(m) *DoD Civilian Retiree Card* - (1) *Description.* This ID shall only be used to establish DoD civilian retiree identity and affiliation with the DoD.
+(m) *DoD Civilian Retiree Card*—(1) *Description.* This ID shall only be used to establish DoD civilian retiree identity and affiliation with the DoD.
 
 (2) *Eligibility.* Appropriated and NAF civilians that have retired from any DoD Service component or agency are eligible for the DoD Civilian Retiree Card. These civilians must have their retired status verified in DEERS before an ID card can be issued.
 
-(n) *NOAA Retired Wage Mariner and Family Member Card* - (1) *Description.* The NOAA Retired Wage Mariner and Family Member Card is a sub-category of the DoD Civilian Retiree Card and shall be used to establish identity and affiliation with the DoD and to identify the individual's eligibility for benefits and privileges administered by the uniformed services as described in subpart C of this part.
+(n) *NOAA Retired Wage Mariner and Family Member Card*—(1) *Description.* The NOAA Retired Wage Mariner and Family Member Card is a sub-category of the DoD Civilian Retiree Card and shall be used to establish identity and affiliation with the DoD and to identify the individual's eligibility for benefits and privileges administered by the uniformed services as described in subpart C of this part.
 
 (2) *Eligibility.* Retired Wage Mariners of NOAA and their dependents as described in subpart C of this part are eligible for the NOAA Retired Wage Mariners and Family Members Card.
 
-Appendix 2 to § 161.7 - Topology Specifications
+Appendix 2 to § 161.7—Topology Specifications
 
 (a) *Topology.* Graphical representations of all CACs are maintained at *www.cac.mil.*
 
@@ -307,14 +307,14 @@ Appendix 2 to § 161.7 - Topology Specifications
 
 (2) FIPS Publication 201-2 reserves the color red to distinguish emergency first responder officials. Until the DoD implementation of Homeland Security Presidential Directive 12 is complete, the color red will also be used to denote non-U.S. personnel in the same manner as the blue stripe in the Table (i.e., some cards with red stripes may continue to exist in circulation until the 3-year life cycle is complete).
 
-Table - CAC Stripe Color Coding
+Table—CAC Stripe Color Coding
 
 |No stripe|          U.S. military and DoD civilian personnel or any personnel eligible for a Geneva Conventions card          |
 |---------|--------------------------------------------------------------------------------------------------------------------|
 |  Blue   |Non-U.S. personnel, including DoD contract employees (other than those persons requiring a Geneva Conventions card).|
 |  Green  |All U.S. citizen personnel under contract to the DoD (other than those persons requiring a Geneva Conventions card).|
 
-(c) *CAC printed statements* - (1) Eligible individuals who are permanently assigned in foreign countries for at least 365 days (it should be noted that local nationals are in their home country, not a foreign country) will have the word “OVERSEAS” printed within the authorized patronage area of the CAC.
+(c) *CAC printed statements*—(1) Eligible individuals who are permanently assigned in foreign countries for at least 365 days (it should be noted that local nationals are in their home country, not a foreign country) will have the word “OVERSEAS” printed within the authorized patronage area of the CAC.
 
 (2) The authorized patronage area for eligible individuals permanently assigned within CONUS will be blank. Travel orders authorize access for these individuals while en route to the deployment site.
 
