@@ -1,0 +1,25 @@
+##### § 905.149 Procedure for permitting growers to ship tree run citrus fruit. #####
+
+(a) *Tree run citrus fruit.* Tree run citrus fruit as referenced in this section is defined in the Florida Department of Citrus (FDOC) regulation 20-35.006, which specifies that “Tree run grade is that grade of naturally occurring sound and wholesome citrus fruit which has not been separated either as to grade or size after severance from the tree.” Wholesomeness is as defined in FDOC regulation 20-62.002. The tree run citrus fruit shipped under this provision also must be from the applying grower's own grove.
+
+(b) *Application.* A grower shall apply to ship tree run fruit using a Grower Tree Run Certificate Application, furnished by the committee. Such application shall contain, but not be limited to: the name, address, and phone number of the grower; legal description of the grove(s) from which citrus will be shipped; variety of citrus produced on the identified grove(s); approximate number of boxes produced on the identified grove(s); and a certification to the U.S. Department of Agriculture and to the committee as to the truthfulness of the information shown thereon; and any other appropriate information or documents deemed necessary by the committee or its duly authorized agents.
+
+(c) *Approval.* The committee or its duly authorized agents shall give prompt consideration to each application for a Grower Tree Run Certificate. Approval of an application will be based upon a determination as to whether the information contained therein and on whether other information available to the committee supports an application's approval. Approval of an application shall be evidenced by the issuance of a Grower Tree Run Certificate to the applicant. Each certificate shall expire at the end of the fiscal period.
+
+(d) *Suspension or denial of a Grower Tree Run Certificate.* The committee may investigate the handling of tree run shipments under a Grower Tree Run Certificate to determine whether growers are complying with the requirements and regulations applicable to such certificates. Whenever the committee finds that a grower is failing to comply with the requirements and regulations applicable to such certificates, the Grower Tree Run Certificate issued to such grower may be suspended or, in the case of an application for the issuance of an initial Grower Tree Run Certificate, may be denied. Such suspension of a certificate shall be for a reasonable period of time as determined by the committee, but in no event shall it extend beyond the end of the fiscal period. In the case of the denial of an application for the issuance of an initial certificate, such certificate shall be denied until the applicant comes into compliance with the requirements and regulations applicable to such certificates. Prior to suspending or denying an application for a Grower Tree Run Certificate, the committee shall give the grower reasonable advance notice in writing of its intention and the facts and reasons therefor, and afford the grower an opportunity, either orally or in writing, to present opposing facts and reasons. The grower shall be informed of the committee's determination in writing and in a timely manner.
+
+(e) To qualify for a Grower Tree Run Certificate, each such grower must notify the committee prior to the first shipment of tree run Florida citrus fruit of the grower's intent to ship such citrus, submit an application on forms supplied by the committee, and agree to other requirements as set forth in this section with respect to such shipments.
+
+(f) The handling of tree run citrus under a Grower Tree Run Certificate shall be exempt from the provisions of §§ 905.52 and 905.53 and the regulations issued thereunder, under the following conditions:
+
+(1) A grower may only ship up to 150 13/5 bushel boxes per variety, per shipment.
+
+(2) A grower may only ship up to 3,000 boxes per variety per season.
+
+(3) Each grower shall apply to the Citrus Administrative Committee and receive a Grower Tree Run Certificate prior to shipping their own tree run Florida citrus fruit.
+
+(4) Each grower of citrus shipping under a Grower Tree Run Certificate shall supply the committee with reports on each shipment as requested by the committee, on forms supplied by the committee, providing the following information: The name and address of the grower, along with the grower's Grower Tree Run Certificate number; the legal description of the grove; the variety and amount of citrus shipped; the date the fruit was shipped; and the truck/trailer license number. A copy of the form will be completed for each shipment. One copy of the report will be forwarded by the grower to the committee office within 10 days after such shipment, and one copy of the report will accompany each shipment and be given to the Road Guard Station.
+
+(5) Each container of tree run fruit shipped under a Grower Tree Run Certificate shall be labeled with or contain the name and address of the grower shipping under the Grower Tree Run Certificate.
+
+[67 FR 62313, Oct. 7, 2002, as amended at 68 FR 52329, Sept. 3, 2003; 69 FR 50269, Aug. 16, 2004]

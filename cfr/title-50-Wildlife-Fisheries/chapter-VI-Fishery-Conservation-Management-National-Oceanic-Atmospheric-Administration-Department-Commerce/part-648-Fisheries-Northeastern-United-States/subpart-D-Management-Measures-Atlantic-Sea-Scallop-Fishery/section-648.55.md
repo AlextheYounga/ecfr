@@ -146,4 +146,4 @@
 
 (k) Nothing in this section is meant to derogate from the authority of the Secretary to take emergency action under section 305(c) of the Magnuson-Stevens Act.
 
-[76 FR 43766, July 21, 2011, as amended at 77 FR 20740, Apr. 6, 2012; 79 FR 34262, June 16, 2014; 80 FR 37194, June 30, 2015; 81 FR 76524, Nov. 3, 2016; 87 FR 1697, Jan. 12, 2022]
+[76 FR 43766, July 21, 2011, as amended at 77 FR 20740, Apr. 6, 2012; 79 FR 34262, June 16, 2014; 80 FR 37194, June 30, 2015; 81 FR 76524, Nov. 3, 2016; 87 FR 1699, Jan. 12, 2022]

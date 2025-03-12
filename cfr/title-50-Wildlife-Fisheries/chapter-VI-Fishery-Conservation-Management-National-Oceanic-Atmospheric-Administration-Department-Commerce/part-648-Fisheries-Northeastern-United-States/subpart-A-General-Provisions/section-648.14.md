@@ -134,8 +134,7 @@
 
 (vii) For vessels with a limited access Atlantic mackerel permits, fail to move 15 nm (27.8 km), as required by § 648.11(n)(3)(iii).
 
-(viii)
-For vessels with a limited access Atlantic mackerel permit, fail to immediately return to port as required by § 648.11(n)(3)(iv).
+(viii) For vessels with a limited access Atlantic mackerel permit, fail to immediately return to port as required by § 648.11(n)(3)(iv).
 
 (ix) Fail to complete, sign, and submit a Released Catch Affidavit if fish are released pursuant to the requirements at § 648.11(n)(3)(ii).
 
@@ -177,9 +176,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (v) *Ownership cap.* Have an ownership interest in more than 5 percent of the total number of vessels issued limited access scallop permits and confirmations of permit history, except as provided in § 648.4(a)(2)(i)(M).
 
-(vi) *Closed area requirements* -
-
-(A) *Habitat Management Areas.* (*1*) Fish for scallops in, or possess or land scallops from, the Habitat Management Areas specified in § 648.370.
+(vi) *Closed area requirements* - (A) *Habitat Management Areas.* (*1*) Fish for scallops in, or possess or land scallops from, the Habitat Management Areas specified in § 648.370.
 
 (*2*) Transit or enter the Habitat Management Areas specified in § 648.370, except as provided by § 648.61(b).
 
@@ -259,7 +256,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (E) Fail to submit a scallop access area pre-landing notification form through VMS as specified at § 648.10(f)(4)(iii).
 
-(vi) *Scallop Rotational Area Management Program and Scallop Access Area Program requirements.*(A) Fail to comply with any of the provisions and specifications of § 648.59.
+(vi) *Scallop Rotational Area Management Program and Scallop Access Area Program requirements.* (A) Fail to comply with any of the provisions and specifications of § 648.59.
 
 (B) Transit the Closed Area II Scallop Rotational Area or the Closed Area II-East Scallop Rotational Area, as defined in § 648.60(d), unless there is a compelling safety reason for transiting the area and the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2.
 
@@ -317,7 +314,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (i) *Possession and landing.* (A) Fish for or land per trip, or possess at any time, in excess of the possession and landing limits described in § 648.52(a).
 
-(B) [Reserved}
+(B) [Reserved]
 
 (C) Declare into the NGOM scallop management area and fish against the NGOM Set-Aside after the effective date of a notification published in the Federal Register stating that after the NGOM Set-Aside has been harvested as specified in § 648.62, unless the vessel is fishing exclusively in state waters, declared a state-waters only NGOM trip, and is participating in an approved state waters exemption program as specified in § 648.54, or unless the vessel is participating in the scallop RSA program as specified in § 648.56.
 

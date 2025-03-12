@@ -4,8 +4,8 @@
 
 (b) *Advance credit amounts erroneously refunded.* The determination of any amount of credits erroneously refunded as described in paragraph (a) of this section must take into account any amount of credits advanced to an employer under the process established by the Internal Revenue Service in accordance with sections 3131(b)(4)(B) and 3131(g)(6).
 
-(c) *Third party payors.* For purposes of this section, employers against whom an erroneous refund of the credits under section 3131 (including any increases in those credits under section 3133), can be assessed as an underpayment of the taxes imposed under section 3111(b) and so much of the taxes imposed under section 3221(a) as are attributable to the rate in effect under section 3111(b), as applicable, include persons treated as the employer under sections 3401(d), 3504, and 3511, consistent with their liability for the section 3111(b) or 3121(a) taxes against which the credit applied.
+(c) *Third party payors.* For purposes of this section, employers against whom an erroneous refund of the credits under section 3131 (including any increases in those credits under section 3133), can be assessed as an underpayment of the taxes imposed under section 3111(b) and so much of the taxes imposed under section 3221(a) as are attributable to the rate in effect under section 3111(b), as applicable, include persons treated as the employer under sections 3401(d), 3504, and 3511, consistent with their liability for the section 3111(b) or 3221(a) taxes against which the credit applied.
 
 (d) *Applicability date.* This section applies to all credit refunds under section 3131 (including any increases in those credits under section 3133), advanced or paid on or after April 1, 2021.
 
-[T.D. 9953, 86 FR 50642, Sept. 10, 2021]
+[T.D. 9953, 86 FR 50642, Sept. 10, 2021, as amended at 88 FR 14490, Mar. 9, 2023]

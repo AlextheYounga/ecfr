@@ -1,10 +1,8 @@
 ##### § 429.14 Consumer refrigerators, refrigerator-freezers and freezers. #####
 
-Link to an amendment published at 88 FR 7845, Feb. 7, 2023.
-
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to residential refrigerators, refrigerator-freezers and freezers; and
 
-(2) For each basic model of residential refrigerators, refrigerator-freezers, and freezers, a sample of sufficient size shall be randomly selected and tested to ensure that -
+(2) For each basic model of residential refrigerators, refrigerator-freezers, and freezers, a sample of sufficient size shall be randomly selected and tested to ensure that—
 
 (i) Any represented value of estimated annual operating cost, energy consumption, or other measure of energy consumption of a basic model for which consumers would favor lower values shall be greater than or equal to the higher of:
 
@@ -40,10 +38,10 @@ Link to an amendment published at 88 FR 7845, Feb. 7, 2023.
 
 (3) The represented value of adjusted total volume must be rounded to the nearest 0.1 cubic foot.
 
-(d) *Product category determination.* Each basic model shall be certified according to the appropriate product category as defined in § 430.2 based on compartment volumes and compartment temperatures.
+(d) *Product category determination.* Each basic model shall be certified according to the appropriate product category as defined in § 430.2 of this chapter based on compartment volumes and compartment temperatures. If one or more compartments could be classified as both a fresh food compartment and a freezer compartment, the model must be certified to each applicable product category based on the operation of the compartment(s) as both fresh food and freezer compartments.
 
-(1) Compartment volumes used to determine product category shall be the mean of the measured compartment volumes for each tested unit of the basic model according to the provisions in section 4.1 of appendix A of subpart B of part 430 of this chapter for refrigerators and refrigerator-freezers and section 4.1 of appendix B of subpart B of part 430 of this chapter for freezers, or the compartment volumes of the basic model as calculated in accordance with § 429.72(c); and
+(1) Compartment volume used to determine product category shall be, for each compartment, the mean of the volumes of that specific compartment for the sample of tested units of the basic model, measured according to the provisions in section 4.1 of appendix A of subpart B of part 430 of this chapter for refrigerators and refrigerator-freezers and section 4.1 of appendix B of subpart B of part 430 of this chapter for freezers, or, for each compartment, the volume of that specific compartment calculated for the basic model in accordance with § 429.72(c).
 
-(2) Compartment temperatures used to determine product category shall be the mean of the measured compartment temperatures at the coldest setting for each tested unit of the basic model according to the provisions of appendix A of subpart B of part 430 of this chapter for refrigerators and refrigerator-freezers and appendix B of subpart B of part 430 of this chapter for freezers.
+(2) Determination of the compartment temperature ranges shall be based on operation under the conditions specified and using measurement of compartment temperature as specified in appendix A of subpart B of part 430 of this chapter for refrigerators and refrigerator-freezers and appendix B of subpart B of part 430 of this chapter for freezers. The determination of compartment status may require evaluation of a model at the extremes of the range of user-selectable temperature control settings. If the temperature ranges for the same compartment of multiple units of a sample are different, the maximum and minimum compartment temperatures for compartment status determination shall be based on the mean measurements for the units in the sample.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24762, May 2, 2011, as amended at 79 FR 22348, Apr. 21, 2014; 81 FR 46789, July 18, 2016; 86 FR 56819, Oct. 12, 2021]Effective Date Note:At 81 FR 46789, July 18, 2016, § 429.14(c)(2) and (3) were stayed indefinitely.
+[76 FR 12451, Mar. 7, 2011; 76 FR 24762, May 2, 2011, as amended at 79 FR 22348, Apr. 21, 2014; 81 FR 46789, July 18, 2016; 86 FR 56819, Oct. 12, 2021; 88 FR 7845, Feb. 7, 2023]Effective Date Note:At 81 FR 46789, July 18, 2016, § 429.14(c)(2) and (3) were stayed indefinitely.

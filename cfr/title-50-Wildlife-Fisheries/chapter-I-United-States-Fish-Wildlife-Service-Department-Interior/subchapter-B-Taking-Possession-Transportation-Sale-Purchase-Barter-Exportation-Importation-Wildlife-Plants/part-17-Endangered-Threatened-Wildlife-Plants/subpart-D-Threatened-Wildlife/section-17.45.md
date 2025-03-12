@@ -1,6 +1,8 @@
-##### § 17.45 Special rules - snails and clams. #####
+##### § 17.45 Special rules—snails and clams. #####
 
-(a) Atlantic pigtoe (*Fusconaia masoni*) - (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Atlantic pigtoe. Except as provided under paragraphs (a)(2) and (3) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+Link to an amendment published at 88 FR 14839, Mar. 9, 2023.
+
+(a) Atlantic pigtoe (*Fusconaia masoni*)—(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Atlantic pigtoe. Except as provided under paragraphs (a)(2) and (3) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
 
 (i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
 
@@ -56,7 +58,7 @@
 
 (I) Prohibit discharge of any solid waste, petroleum, pesticide, fertilizer, or other chemical into the waterway.
 
-(b) Morro shoulderband snail (*Helminthoglypta walkeriana*) - (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Morro shoulderband snail. Except as provided under paragraph (b)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+(b) Morro shoulderband snail (*Helminthoglypta walkeriana*)—(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Morro shoulderband snail. Except as provided under paragraph (b)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
 
 (i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
 
