@@ -1,5 +1,7 @@
 ##### § 1.704 Reduction of period of adjustment of patent term. #####
 
+Link to an amendment published at 85 FR 36341, June 16, 2020.
+
 (a) The period of adjustment of the term of a patent under §§ 1.703(a) through (e) shall be reduced by a period equal to the period of time during which the applicant failed to engage in reasonable efforts to conclude prosecution (processing or examination) of the application.
 
 (b) With respect to the grounds for adjustment set forth in §§ 1.702(a) through (e), and in particular the ground of adjustment set forth in § 1.702(b), an applicant shall be deemed to have failed to engage in reasonable efforts to conclude processing or examination of an application for the cumulative total of any periods of time in excess of three months that are taken to reply to any notice or action by the Office making any rejection, objection, argument, or other request, measuring such three-month period from the date the notice or action was mailed or given to the applicant, in which case the period of adjustment set forth in § 1.703 shall be reduced by the number of days, if any, beginning on the day after the date that is three months after the date of mailing or transmission of the Office communication notifying the applicant of the rejection, objection, argument, or other request and ending on the date the reply was filed. The period, or shortened statutory period, for reply that is set in the Office action or notice has no effect on the three-month period set forth in this paragraph.

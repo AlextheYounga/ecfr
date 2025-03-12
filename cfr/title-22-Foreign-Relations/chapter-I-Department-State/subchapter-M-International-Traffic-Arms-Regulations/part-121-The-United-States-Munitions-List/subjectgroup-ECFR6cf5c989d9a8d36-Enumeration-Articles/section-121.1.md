@@ -16,17 +16,19 @@
 
 Category I - Firearms and Related Articles
 
-\*(a) Firearms using caseless ammunition.
+\* (a) Firearms using caseless ammunition.
 
-\*(b) Fully automatic firearms to .50 caliber (12.7 mm) inclusive.
+\* (b) Fully automatic firearms to .50 caliber (12.7 mm) inclusive.
 
-\*(c) Firearms specially designed to integrate fire control, automatic tracking, or automatic firing (e.g., Precision Guided Firearms).
+\* (c) Firearms specially designed to integrate fire control, automatic tracking, or automatic firing (e.g., Precision Guided Firearms).
 
-*Note 1 to paragraph (c):* Integration does not include only attaching to the firearm or rail.
+Note 1 to paragraph (c):
 
-\*(d) Fully automatic shotguns regardless of gauge.
+Integration does not include only attaching to the firearm or rail.
 
-\*(e) Silencers, mufflers, and sound suppressors.
+\* (d) Fully automatic shotguns regardless of gauge.
+
+\* (e) Silencers, mufflers, and sound suppressors.
 
 (f) [Reserved]
 
@@ -48,9 +50,13 @@ Category I - Firearms and Related Articles
 
 (x) Commodities, software, and technology subject to the EAR (*see* § 120.42 of this subchapter) used in or with defense articles.
 
-*Note to paragraph (x):* Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technology subject to the EAR (*see* § 123.1(b) of this subchapter).
+Note to paragraph (x):
 
-*Note 1 to Category I:* The following interpretations explain and amplify the terms used in this category:
+Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technology subject to the EAR (*see* § 123.1(b) of this subchapter).
+
+Note 1 to Category I:
+
+The following interpretations explain and amplify the terms used in this category:
 
 (1) A firearm is a weapon not over .50 caliber (12.7 mm) which is designed to expel a projectile by the deflagration of propellant;
 
@@ -62,17 +68,19 @@ Category II - Guns and Armament
 
 (a) Guns and armament greater than .50 caliber (12.7 mm), as follows:
 
-\*(1) Guns, howitzers, artillery, and cannons;
+\* (1) Guns, howitzers, artillery, and cannons;
 
-\*(2) Mortars;
+\* (2) Mortars;
 
-\*(3) Recoilless rifles;
+\* (3) Recoilless rifles;
 
-\*(4) Grenade launchers; or
+\* (4) Grenade launchers; or
 
 (5) Developmental guns and armament greater than .50 caliber (12.7 mm) funded by the Department of Defense and specially designed parts and components therefor.
 
-*Note 1 to paragraph (a)(5):* This paragraph does not control guns and armament greater than .50 caliber (12.7 mm):
+Note 1 to paragraph (a)(5):
+
+This paragraph does not control guns and armament greater than .50 caliber (12.7 mm):
 
 (a) in production;
 
@@ -80,21 +88,31 @@ Category II - Guns and Armament
 
 (c) identified in the relevant Department of Defense contract or other funding authorization as being developed for both civil and military applications.
 
-*Note 2 to paragraph (a)(5):* Note 1 to pargraph (a)(5) does not apply to defense articles enumerated on the U.S. Munitions List, whether in production or development.
+Note 2 to paragraph (a)(5):
 
-*Note 3 to paragraph (a)(5):* This provision is applicable to those contracts or other funding authorizations that are dated January 23, 2021, or later.
+Note 1 to pargraph (a)(5) does not apply to defense articles enumerated on the U.S. Munitions List, whether in production or development.
 
-*Note 1 to paragraph (a):* This paragraph does not include: Non-automatic and non-semi-automatic rifles, carbines, and pistols between .50 (12.7 mm) and .72 caliber (18.288 mm) that are controlled on the CCL under ECCN 0A501; shotguns controlled on the CCL under ECCN 0A502; black powder guns and armaments manufactured between 1890 and 1919 controlled on the CCL under ECCN 0A602; or black powder guns and armaments manufactured earlier than 1890.
+Note 3 to paragraph (a)(5):
 
-*Note 2 to paragraph (a):* Guns and armament when integrated into their carrier (e.g., surface vessels, ground vehicles, or aircraft) are controlled in the category associated with the carrier. Self-propelled guns and armament are controlled in USML Category VII. Towed guns and armament and stand-alone guns and armament are controlled under this category.
+This provision is applicable to those contracts or other funding authorizations that are dated January 23, 2021, or later.
+
+Note 1 to paragraph (a):
+
+This paragraph does not include: Non-automatic and non-semi-automatic rifles, carbines, and pistols between .50 (12.7 mm) and .72 caliber (18.288 mm) that are controlled on the CCL under ECCN 0A501; shotguns controlled on the CCL under ECCN 0A502; black powder guns and armaments manufactured between 1890 and 1919 controlled on the CCL under ECCN 0A602; or black powder guns and armaments manufactured earlier than 1890.
+
+Note 2 to paragraph (a):
+
+Guns and armament when integrated into their carrier (e.g., surface vessels, ground vehicles, or aircraft) are controlled in the category associated with the carrier. Self-propelled guns and armament are controlled in USML Category VII. Towed guns and armament and stand-alone guns and armament are controlled under this category.
 
 (b) Flamethrowers with an effective range greater than or equal to 20 meters.
 
 (c) [Reserved]
 
-\*(d) Kinetic energy weapon systems specially designed for destruction or rendering mission-abort of a target.
+\* (d) Kinetic energy weapon systems specially designed for destruction or rendering mission-abort of a target.
 
-*Note 1 to paragraph (d):* Kinetic energy weapons systems include but are not limited to launch systems and subsystems capable of accelerating masses larger than 0.1g to velocities in excess of 1.6 km/s, in single or rapid fire modes, using methods such as: Electromagnetic, electrothermal, plasma, light gas, or chemical. This does not include launch systems and subsystems used for research and testing facilities subject to the EAR, which are controlled on the CCL under ECCN 2B232.
+Note 1 to paragraph (d):
+
+Kinetic energy weapons systems include but are not limited to launch systems and subsystems capable of accelerating masses larger than 0.1g to velocities in excess of 1.6 km/s, in single or rapid fire modes, using methods such as: Electromagnetic, electrothermal, plasma, light gas, or chemical. This does not include launch systems and subsystems used for research and testing facilities subject to the EAR, which are controlled on the CCL under ECCN 2B232.
 
 (e) Signature reduction devices specially designed for the guns and armament controlled in paragraphs (a), (b), and (d) of this category (e.g., muzzle flash suppression devices).
 
@@ -132,7 +150,9 @@ Category II - Guns and Armament
 
 (v) Hydro-pneumatic systems capable of scavenging recoil energy to power howitzer functions;
 
-*Note 1 to paragraph (j)(10):* For weapons mounts specially designed for surface vessels and special naval equipment, *see* Category VI. For weapons mounts specially designed for ground vehicles, *see* Category VII.
+Note 1 to paragraph (j)(10):
+
+For weapons mounts specially designed for surface vessels and special naval equipment, *see* Category VI. For weapons mounts specially designed for ground vehicles, *see* Category VII.
 
 (11) Ammunition containers/drums, ammunition chutes, ammunition conveyor elements, ammunition feeder systems, and ammunition container/drum entrance and exit units, specially designed for the guns and armament controlled in paragraphs (a), (b), and (d) of this category;
 
@@ -146,7 +166,7 @@ Category II - Guns and Armament
 
 (16) Kinetic energy weapon target acquisition, tracking fire control, and damage assessment systems and specially designed parts and components therefor; or
 
-\*(17) Any part, component, accessory, attachment, equipment, or system that:
+\* (17) Any part, component, accessory, attachment, equipment, or system that:
 
 (i) Is classified;
 
@@ -154,7 +174,9 @@ Category II - Guns and Armament
 
 (iii) Is being developed using classified information.
 
-*Note 1 to paragraph (j)(17):* “Classified” means classified pursuant to Executive Order 13526, or predecessor order, and a security classification guide developed pursuant thereto or equivalent, or to the corresponding classification rules of another government or intergovernmental organization.
+Note 1 to paragraph (j)(17):
+
+“Classified” means classified pursuant to Executive Order 13526, or predecessor order, and a security classification guide developed pursuant thereto or equivalent, or to the corresponding classification rules of another government or intergovernmental organization.
 
 (k) Technical data (*see* § 120.10 of this subchapter) and defense services (*see* § 120.9 of this subchapter) directly related to the defense articles described in paragraphs (a), (b), (d), (e), and (j) of this category and classified technical data directly related to items controlled in ECCNs 0A602, 0B602, 0D602, and 0E602 and defense services using the classified technical data. (*See* § 125.4 of this subchapter for exemptions.)
 
@@ -162,35 +184,41 @@ Category II - Guns and Armament
 
 (x) Commodities, software, and technology subject to the EAR (*see* § 120.42 of this subchapter) used in or with defense articles.
 
-*Note to paragraph (x):* Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technology subject to the EAR (*see* § 123.1(b) of this subchapter).
+Note to paragraph (x):
+
+Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technology subject to the EAR (*see* § 123.1(b) of this subchapter).
 
 Category III - Ammunition and Ordnance
 
 (a) Ammunition, as follows:
 
-\*(1) Ammunition that incorporates a projectile controlled in paragraph (d)(1) or (3) of this category;
+\* (1) Ammunition that incorporates a projectile controlled in paragraph (d)(1) or (3) of this category;
 
-\*(2) Ammunition preassembled into links or belts;
+\* (2) Ammunition preassembled into links or belts;
 
-\*(3) Shotgun ammunition that incorporates a projectile controlled in paragraph (d)(2) of this category;
+\* (3) Shotgun ammunition that incorporates a projectile controlled in paragraph (d)(2) of this category;
 
-\*(4) Caseless ammunition manufactured with smokeless powder;
+\* (4) Caseless ammunition manufactured with smokeless powder;
 
-*Note 1 to paragraph (a)(4):* Caseless ammunition is ammunition without a cartridge case that holds the primer, propellant, and projectile together as a unit.
+Note 1 to paragraph (a)(4):
 
-\*(5) Ammunition, except shotgun ammunition, based on non-metallic cases, or non-metallic cases that have only a metallic base, which result in a total cartridge mass 80% or less than the mass of a brass- or steel-cased cartridge that provides comparable ballistic performance;
+Caseless ammunition is ammunition without a cartridge case that holds the primer, propellant, and projectile together as a unit.
 
-\*(6) Ammunition employing pyrotechnic material in the projectile base or any ammunition employing a projectile that incorporates tracer materials of any type having peak radiance above 710 nm and designed to be observed primarily with night vision optical systems;
+\* (5) Ammunition, except shotgun ammunition, based on non-metallic cases, or non-metallic cases that have only a metallic base, which result in a total cartridge mass 80% or less than the mass of a brass- or steel-cased cartridge that provides comparable ballistic performance;
 
-\*(7) Ammunition for fully automatic firearms that fire superposed or stacked projectiles or for guns that fire superposed or stacked projectiles;
+\* (6) Ammunition employing pyrotechnic material in the projectile base or any ammunition employing a projectile that incorporates tracer materials of any type having peak radiance above 710 nm and designed to be observed primarily with night vision optical systems;
 
-\*(8) Electromagnetic armament projectiles or billets for weapons with a design muzzle energy exceeding 5 MJ;
+\* (7) Ammunition for fully automatic firearms that fire superposed or stacked projectiles or for guns that fire superposed or stacked projectiles;
 
-\*(9) Ammunition, not specified above, for the guns and armaments controlled in Category II; or
+\* (8) Electromagnetic armament projectiles or billets for weapons with a design muzzle energy exceeding 5 MJ;
+
+\* (9) Ammunition, not specified above, for the guns and armaments controlled in Category II; or
 
 (10) Developmental ammunition funded by the Department of Defense and specially designed parts and components therefor.
 
-*Note 1 to paragraph (a)(10):* This paragraph does not control ammunition:
+Note 1 to paragraph (a)(10):
+
+This paragraph does not control ammunition:
 
 (a) in production;
 
@@ -198,9 +226,13 @@ Category III - Ammunition and Ordnance
 
 (c) identified in the relevant Department of Defense contract or other funding authorization as being developed for both civil and military applications.
 
-*Note 2 to paragraph (a)(10):* Note 1 does not apply to defense articles enumerated on the U.S. Munitions List, whether in production or development.
+Note 2 to paragraph (a)(10):
 
-*Note 3 to paragraph (a)(10):* This provision is applicable to those contracts or other funding authorizations that are dated January 23, 2021, or later.
+Note 1 does not apply to defense articles enumerated on the U.S. Munitions List, whether in production or development.
+
+Note 3 to paragraph (a)(10):
+
+This provision is applicable to those contracts or other funding authorizations that are dated January 23, 2021, or later.
 
 (b) Ammunition/ordnance handling equipment specially designed for the articles controlled in this category, as follows:
 
@@ -216,7 +248,9 @@ Category III - Ammunition and Ordnance
 
 (2) Shotgun projectiles that are flechettes, incendiary, tracer, or explosive;
 
-*Note 1 to paragraph (d)(2):* This paragraph does not include explosive projectiles specially designed to produce noise for scaring birds or other pests (e.g., bird bombs, whistlers, crackers).
+Note 1 to paragraph (d)(2):
+
+This paragraph does not include explosive projectiles specially designed to produce noise for scaring birds or other pests (e.g., bird bombs, whistlers, crackers).
 
 (3) Projectiles of any caliber produced from depleted uranium;
 
@@ -234,7 +268,9 @@ Category III - Ammunition and Ordnance
 
 (10) Primers other than Boxer, Berdan, or shotshell types;
 
-*Note 1 to paragraph (d)(10):* This paragraph does not control caps or primers of any type in use prior to 1890.
+Note 1 to paragraph (d)(10):
+
+This paragraph does not control caps or primers of any type in use prior to 1890.
 
 (11) Safing, arming, and fuzing components (to include target detection and proximity sensing devices) for the ammunition in this category and specially designed parts therefor;
 
@@ -244,7 +280,7 @@ Category III - Ammunition and Ordnance
 
 (14) Illuminating flares or target practice projectiles for the ammunition controlled in paragraph (a)(9) of this category; or
 
-\*(15) Any part, component, accessory, attachment, equipment, or system that:
+\* (15) Any part, component, accessory, attachment, equipment, or system that:
 
 (i) Is classified;
 
@@ -252,7 +288,9 @@ Category III - Ammunition and Ordnance
 
 (iii) Is being developed using classified information.
 
-*Note 1 to paragraph (d)(15):* “Classified” means classified pursuant to Executive Order 13526, or predecessor order, and a security classification guide developed pursuant thereto or equivalent, or to the corresponding classification rules of another government or intergovernmental organization.
+Note 1 to paragraph (d)(15):
+
+“Classified” means classified pursuant to Executive Order 13526, or predecessor order, and a security classification guide developed pursuant thereto or equivalent, or to the corresponding classification rules of another government or intergovernmental organization.
 
 (e) Technical data (*see* § 120.10 of this subchapter) and defense services (*see* § 120.9 of this subchapter) directly related to the defense articles enumerated in paragraphs (a), (b), and (d) of this category and classified technical data directly related to items controlled in ECCNs 0A505, 0B505, 0D505, and 0E505 and defense services using the classified technical data. (*See* § 125.4 of this subchapter for exemptions.)
 
@@ -260,13 +298,21 @@ Category III - Ammunition and Ordnance
 
 (x) Commodities, software, and technology subject to the EAR (*see* § 120.42 of this subchapter) used in or with defense articles.
 
-*Note to paragraph (x):* Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technology subject to the EAR (*see* § 123.1(b) of this subchapter).
+Note to paragraph (x):
 
-*Note 1 to Category III:* This category does not control ammunition crimped without a projectile (blank star) and dummy ammunition with a pierced powder chamber.
+Use of this paragraph is limited to license applications for defense articles where the purchase documentation includes commodities, software, or technology subject to the EAR (*see* § 123.1(b) of this subchapter).
 
-*Note 2 to Category III:* This category does not control cartridge and shell casings that, prior to export, have been rendered useless beyond the possibility of restoration for use as a cartridge or shell casing by means of heating, flame treatment, mangling, crushing, cutting, or popping.
+Note 1 to Category III:
 
-*Note 3 to Category III:* Grenades containing non-lethal or less lethal projectiles are under the jurisdiction of the Department of Commerce.
+This category does not control ammunition crimped without a projectile (blank star) and dummy ammunition with a pierced powder chamber.
+
+Note 2 to Category III:
+
+This category does not control cartridge and shell casings that, prior to export, have been rendered useless beyond the possibility of restoration for use as a cartridge or shell casing by means of heating, flame treatment, mangling, crushing, cutting, or popping.
+
+Note 3 to Category III:
+
+Grenades containing non-lethal or less lethal projectiles are under the jurisdiction of the Department of Commerce.
 
 Category IV - Launch Vehicles, Guided Missiles, Ballistic Missiles, Rockets, Torpedoes, Bombs, and Mines
 
@@ -1350,7 +1396,7 @@ This paragraph includes stimulators that are built-in or add-on devices that cau
 
 Note to paragraph (a)(11):
 
-“Classified” means classified pursuant to Executive Order 13526, or predecessor order, and a security classification guide developed pursuant thereto or equivalent, or to the corresponding classification rules of another government or international organization.”
+“Classified” means classified pursuant to Executive Order 13526, or predecessor order, and a security classification guide developed pursuant thereto or equivalent, or to the corresponding classification rules of another government or international organization.
 
 Note to paragraph (a):
 
@@ -1508,7 +1554,7 @@ Category XI - Military Electronics
 
 (a) Electronic equipment and systems not included in Category XII of the U.S. Munitions List, as follows:
 
-\*(1) Underwater hardware, equipment, or systems, as follows:
+\* (1) Underwater hardware, equipment, or systems, as follows:
 
 (i) Active or passive acoustic array sensing systems or acoustic array equipment capable of real-time processing that survey or detect, and also track, localize (*i.e.,* determine range and bearing), classify, or identify, surface vessels, submarines, other undersea vehicles, torpedoes, or mines, having any of the following:
 
@@ -1520,21 +1566,25 @@ Category XI - Military Electronics
 
 (ii) Underwater single acoustic sensor system that distinguishes non-biologic tonals and locates the origin of the sound;
 
-*Note to paragraph(a)(1)(ii):* The term tonals implies discrete frequencies in the broadband and narrowband spectra, emanating from man-made objects.
+Note to paragraph(a)(1)(ii):
+
+The term tonals implies discrete frequencies in the broadband and narrowband spectra, emanating from man-made objects.
 
 (iii) Non-acoustic systems that survey or detect, and also track, localize (*i.e.,* determine range and bearing), classify, or identify, surface vessels, submarines, other undersea vehicles, torpedoes, or mines;
 
 (iv) Acoustic modems, networks, and communications equipment with real-time adaptive compensation or employing Low Probability of Intercept (LPI);
 
-*Note to paragraph (a)(1)(iv):* Adaptive compensation is the capability of an underwater modem to assess the water conditions to select the best algorithm to receive and transmit data.
+Note to paragraph (a)(1)(iv):
+
+Adaptive compensation is the capability of an underwater modem to assess the water conditions to select the best algorithm to receive and transmit data.
 
 (v) Low Frequency/Very Low Frequency (LF/VLF) electronic modems, routers, interfaces, and communications equipment, specially designed for submarine communications; or
 
 (vi) Autonomous systems and equipment that enable cooperative sensing and engagement by fixed (bottom mounted/seabed) or mobile Autonomous Underwater Vehicles (AUVs);
 
-\*(2) Underwater acoustic countermeasures or counter-countermeasures systems or equipment;
+\* (2) Underwater acoustic countermeasures or counter-countermeasures systems or equipment;
 
-\*(3) Radar systems and equipment, as follows:
+\* (3) Radar systems and equipment, as follows:
 
 (i) Airborne radar that maintains positional state of an object or objects of interest, other than weather phenomena, in a received radar signal through time;
 
@@ -1622,7 +1672,7 @@ Note to paragraph (a)(3):
 
 This paragraph does not control: (a) Systems or equipment that require aircraft transponders in order to meet control parameters; (b) precision approach radar (PAR) equipment conforming to ICAO standards and employing electronically steerable linear (1- dimensional) arrays or mechanically positioned passive antennas; and (c) radio altimeter equipment conforming to FAA TSO C87.
 
-\*(4) Electronic Combat (*i.e.,* Electronic Warfare) systems and equipment, as follows:
+\* (4) Electronic Combat (*i.e.,* Electronic Warfare) systems and equipment, as follows:
 
 (i) ES systems and equipment that search for, intercept and identify, or locate sources of intentional or unintentional electromagnetic energy specially designed to provide immediate threat detection, recognition, targeting, planning, or conduct of future operations;
 
@@ -1634,7 +1684,7 @@ ES provides tactical situational awareness, automatic cueing, targeting, electro
 
 (iii) Systems and equipment specially designed to introduce extraneous or erroneous signals into radar, infrared based seekers, electro-optic based seekers, radio communication receivers, navigation receivers, or that otherwise hinder the reception, operation, or effectiveness of adversary electronics (e.g., active or passive electronic attack, electronic countermeasure, electronic counter-countermeasure equipment, jamming, and counter jamming equipment);
 
-\*(5) Command, control, and communications (C3); command, control, communications, and computers (C4); command, control, communications, computers, intelligence, surveillance, and reconnaissance (C4ISR); and identification systems or equipment, that:
+\* (5) Command, control, and communications (C3); command, control, communications, and computers (C4); command, control, communications, computers, intelligence, surveillance, and reconnaissance (C4ISR); and identification systems or equipment, that:
 
 (i) Are specially designed to integrate, incorporate, network, or employ defense articles that are controlled in paragraphs or subparagraphs of the categories of § 121.1 of this part that do not use the term specially designed;
 
@@ -1694,7 +1744,7 @@ Paragraphs (a)(3)(xxix) and (a)(12) include terrain contour mapping equipment, s
 
 (1) Application Specific Integrated Circuits (ASICs) and Programmable Logic Devices (PLD) programmed for defense articles in this subchapter;
 
-Note 1 to paragraph (c)(1):\\
+Note 1 to paragraph (c)(1):
 
 An ASIC is an integrated circuit developed and produced for a specific application or function regardless of number of customers.
 
@@ -2380,7 +2430,7 @@ Use of this paragraph is limited to license applications for defense articles wh
 
 Category XIV - Toxicological Agents, Including Chemical Agents, Biological Agents, and Associated Equipment
 
-\*(a) Chemical agents, as follows:
+\* (a) Chemical agents, as follows:
 
 (1) Nerve agents, as follows:
 
@@ -2442,7 +2492,7 @@ Note 2 to paragraph (a):
 
 Regarding U.S. obligations under the Chemical Weapons Convention (CWC), refer to Chemical Weapons Convention Regulations (CWCR) (15 CFR parts 710 through 721). As appropriate, the CWC schedule is provided to assist the exporter.
 
-\*(b) Biological agents and biologically derived substances and genetic elements thereof as follows:
+\* (b) Biological agents and biologically derived substances and genetic elements thereof as follows:
 
 (1) Genetically modified biological agents:
 
@@ -2510,7 +2560,7 @@ Note 3 to paragraph (b):
 
 Biological agents or biologically derived substances that meet both paragraphs (b)(1) and (b)(2) of this category are controlled in paragraph (b)(1).
 
-\*(c) Chemical agent binary precursors and key precursors, as follows:
+\* (c) Chemical agent binary precursors and key precursors, as follows:
 
 (1) Alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonyl difluorides, such as: DF: Methyl Phosphonyldifluoride (CAS 676-99-3) (CWC Schedule 1B); Methylphosphinyldifluoride (CAS 753-59-3) (CWC Schedule 2B);
 
@@ -2530,7 +2580,7 @@ Biological agents or biologically derived substances that meet both paragraphs (
 
 (2) Butyl 2-chloro-4-fluorophenoxyacetate (LNF).
 
-\*(f) Parts, components, accessories, attachments, associated equipment, materials, and systems, as follows:
+\* (f) Parts, components, accessories, attachments, associated equipment, materials, and systems, as follows:
 
 (1) Any equipment for the dissemination, dispersion, or testing of articles controlled in paragraphs (a), (b), (c), or (e) of this category, as follows:
 
@@ -2934,11 +2984,11 @@ Parts, components, accessories, attachments, equipment, or systems that are comm
 
 (14) Space-qualified monolithic microwave integrated circuits (MMIC) that combine transmit and receive (T/R) functions on a single die as follows:
 
-(i) Having a power amplifier with maximum saturated peak output power (in watts), Psat, greater than 200 divided by the maximum operating frequency (in GHz) squared [Psat \>200 W\*GHz2/fGHz2]; or
+(i) Having a power amplifier with maximum saturated peak output power (in watts), Psat, greater than 200 divided by the maximum operating frequency (in GHz) squared [Psat \>200 W\* GHz2/fGHz2]; or
 
 (ii) Having a common path (e.g., phase shifter-digital attenuator) circuit with greater than 3 bits phase shifting at operating frequencies 10 GHz or below, or greater than 4 bits phase shifting at operating frequencies above 10 GHz;
 
-(15) Space-qualified oscillator for radar in paragraph (a) of this category with phase noise less than −120 dBc/Hz + (20 log10(RF) (in GHz)) measured at 2 KHz\*RF (in GHz) from carrier;
+(15) Space-qualified oscillator for radar in paragraph (a) of this category with phase noise less than −120 dBc/Hz + (20 log10(RF) (in GHz)) measured at 2 KHz\* RF (in GHz) from carrier;
 
 (16) Space-qualified star tracker or star sensor with angular accuracy less than or equal to 1 arcsec (1-Sigma) per star coordinate, and a tracking rate equal to or greater than 3.0 deg/sec, and specially designed parts and components therefor (MT);
 
@@ -3062,7 +3112,7 @@ Category XVIII - Directed Energy Weapons
 
 (2) Use any non-acoustic technique such as lasers (including continuous wave or pulsed lasers), particle beams, particle accelerators that project a charged or neutral particle beam, high power radio-frequency (RF), or high pulsed power or high average power radio frequency beam transmitters.
 
-\*(b) Systems or equipment specially designed to detect, identify, or provide defense against articles specified in paragraph (a) of this category.
+\* (b) Systems or equipment specially designed to detect, identify, or provide defense against articles specified in paragraph (a) of this category.
 
 (c)-(d) [Reserved]
 
@@ -3248,12 +3298,4 @@ Category XXI - Articles, Technical Data, and Defense Services Not Otherwise Enum
 
 [58 FR 39287, July 22, 1993]Editorial Notes:1. For Federal Register citations affecting § 121.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
-2 At 79 FR 61228, Oct. 10, 2014, § 121.1 was amended by removing the word “enumerated” and adding in its place the word “described” in one place in Note 1 to paragraph (i) of Category VI; however, the amendment could not be incorporated because of inaccurate amendatory instruction.
-
-Effective Date Note:At 84 FR 45654, Aug. 30, 2019, § 121.1 was amended by revising paragraph (b) under Category XI, effective Aug. 30, 2021. For the convenience of the user, the revised text is set forth as follows:
-
-##### § 121.1 The United States Munitions List. #####
-
-Category XI - Military Electronics
-
-\*(b) Electronic systems or equipment, not elsewhere enumerated in this subchapter, specially designed for intelligence purposes that collect, survey, monitor, or exploit the electromagnetic spectrum (regardless of transmission medium), or for counteracting such activities.
+2. At 79 FR 61228, Oct. 10, 2014, § 121.1 was amended by removing the word “enumerated” and adding in its place the word “described” in one place in Note 1 to paragraph (i) of Category VI; however, the amendment could not be incorporated because of inaccurate amendatory instruction.

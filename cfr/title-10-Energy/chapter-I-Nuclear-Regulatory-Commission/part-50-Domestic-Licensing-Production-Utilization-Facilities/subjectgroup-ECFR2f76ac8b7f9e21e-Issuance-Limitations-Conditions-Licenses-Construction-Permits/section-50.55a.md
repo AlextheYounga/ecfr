@@ -345,15 +345,16 @@
 (A) *ASME BPV Code Case N-513-3 Mandatory Appendix I.* ASME BPV Code Case N-513-3, “Evaluation Criteria for Temporary Acceptance of Flaws in Moderate Energy Class 2 or 3 Piping Section XI, Division 1,” Mandatory Appendix I, “Relations for *F*m, *F*b, and *F* for Through-Wall Flaws” (Approval Date: January 26, 2009). ASME BPV Code Case N-513-3 Mandatory Appendix I is referenced in paragraph (b)(2)(xxxiv)(B) of this section.
 
 (B) *ASME BPV Code Case N-722-1.* ASME BPV Code Case N-722-1, “Additional Examinations for PWR Pressure Retaining Welds in Class 1 Components Fabricated with Alloy 600/82/182 Materials, Section XI, Division 1” (Approval Date: January 26, 2009), with the conditions in paragraph (g)(6)(ii)(E) of this section.
-[Reserved]
-
-(F) *ASME BPV Code Case N-852.* ASME BPV Code Case N-852, “Application of the ASME NPT Stamp, Section III, Division 1; Section III, Division 2; Section III, Division 3; Section III, Division 5” (Approval Date: February 9, 2015). ASME BPV Code Case N-852 is referenced in paragraph (b)(1)(ix) of this section.
 
 (C) *ASME BPV Code Case N-729-6.* ASME BPV Code Case N-729-6, “Alternative Examination Requirements for PWR Reactor Vessel Upper Heads With Nozzles Having Pressure-Retaining Partial-Penetration Welds Section XI, Division 1” (Approval Date: March 3, 2016), with the conditions in paragraph (g)(6)(ii)(D) of this section.
 
 (D) *ASME BPV Code Case N-770-5.* ASME BPV Code Case N-770-5, “Alternative Examination Requirements and Acceptance Standards for Class 1 PWR Piping and Vessel Nozzle Butt Welds Fabricated with UNS N06082 or UNS W86182 Weld Filler Material With or Without Application of Listed Mitigation Activities Section XI, Division 1” (Approval Date: November 7, 2016), with the conditions in paragraph (g)(6)(ii)(F) of this section.
 
-(E)[Reserved]
+(E) [Reserved]
+
+(F) *ASME BPV Code Case N-852.* ASME BPV Code Case N-852, “Application of the ASME NPT Stamp, Section III, Division 1; Section III, Division 2; Section III, Division 3; Section III, Division 5” (Approval Date: February 9, 2015). ASME BPV Code Case N-852 is referenced in paragraph (b)(1)(ix) of this section.
+
+(G)[Reserved]
 
 (iv) *ASME Operation and Maintenance Code.* The editions and addenda for the ASME Operation and Maintenance of Nuclear Power Plants are listed in this paragraph (a)(1)(iv), but limited by those provisions identified in paragraph (b)(3) of this section.
 

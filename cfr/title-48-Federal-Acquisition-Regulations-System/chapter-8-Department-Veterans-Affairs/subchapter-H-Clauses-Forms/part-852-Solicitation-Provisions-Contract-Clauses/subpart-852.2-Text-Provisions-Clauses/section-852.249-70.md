@@ -1,5 +1,7 @@
 ##### 852.249-70 Termination for Default - Supplement for Mortuary Services. #####
 
+Link to an amendment published at 85 FR 36349, June 16, 2020.
+
 As prescribed in 849.504-70, insert the following clause:
 
 Termination for Default - Supplement for Mortuary Services (OCT 2019)

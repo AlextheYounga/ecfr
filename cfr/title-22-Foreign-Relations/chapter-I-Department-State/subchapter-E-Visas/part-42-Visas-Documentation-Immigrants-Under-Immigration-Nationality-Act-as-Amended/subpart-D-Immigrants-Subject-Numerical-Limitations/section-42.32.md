@@ -1,5 +1,7 @@
 ##### § 42.32 Employment-based preference immigrants. #####
 
+Link to an amendment published at 85 FR 36326, June 16, 2020.
+
 Aliens subject to the worldwide level specified in section 201(d) for employment-based immigrants in a fiscal year shall be allotted visas as indicated below.
 
 (a) *First preference - Priority workers* - (1) *Entitlement to status.* An alien shall be classifiable as an employment-based first preference immigrant under INA 203(b)(1) if the consular office has received from DHS a Petition for Immigrant Worker approved in accordance with INA 204 to accord the alien such Preference status, or official notification of such an approval, and the consular officer is satisfied that the alien is within one of the classes described in INA 203(b)(1).
