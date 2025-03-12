@@ -1,7 +1,5 @@
 ##### § 665.401 Definitions. #####
 
-Link to an amendment published at 84 FR 29397, June 24, 2019.
-
 As used in §§ 665.400 through 665.419:
 
 *CNMI commercial bottomfish permit* means the permit required by § 665.404(a)(2) to engage in commercial fishing for Mariana bottomfish MUS in the CNMI management subarea.
@@ -12,20 +10,20 @@ As used in §§ 665.400 through 665.419:
 
 *Mariana bottomfish management unit species (Mariana bottomfish MUS)* means the following fish:
 
-|              Local name               |      Common name       |      Scientific name       |
-|---------------------------------------|------------------------|----------------------------|
-|             lehi/maroobw              |red snapper, silvermouth|     Aphareus rutilans.     |
-|             tarakitu/etam             |  giant trevally, jack  |     Caranx ignobilis.      |
-|       tarakiton attelong, orong       |  black trevally, jack  |      Caranx lugubris.      |
-|             bueli, bwele              |   lunartail grouper    |       Variola louti.       |
-|   buninas agaga', falaghal moroobw    |      red snapper       |    Etelis carbunculus.     |
-|        abuninas, taighulupegh         |      red snapper       |     Etelis coruscans.      |
-|             mafuti, atigh             |    redgill emperor     |Lethrinus rubrioperculatus. |
-|              funai, saas              |    blueline snapper    |     Lutjanus kasmira.      |
-|       buninas, falaghal-maroobw       |   yellowtail snapper   | Pristipomoides auricilla.  |
-| buninas, pakapaka, falaghal-maroobw,  |      pink snapper      |Pristipomoides filamentosus.|
-|       buninas, falaghal-maroobw       |   yelloweye snapper    |Pristipomoides flavipinnis. |
-|                                       |      pink snapper      | Pristipomoides seiboldii.  |
-|buninas rayao amariyu, falaghal-maroobw|     flower snapper     |  Pristipomoides zonatus.   |
+|                 Local name                 |      Common name       |      Scientific name       |
+|--------------------------------------------|------------------------|----------------------------|
+|              (1) lehi/maroobw              |red snapper, silvermouth|     Aphareus rutilans.     |
+|             (2) tarakitu/etam              |  giant trevally, jack  |     Caranx ignobilis.      |
+|       (3) tarakiton attelong, orong        |  black trevally, jack  |      Caranx lugubris.      |
+|              (4) bueli, bwele              |   lunartail grouper    |       Variola louti.       |
+|    (5) buninas agaga', falaghal moroobw    |      red snapper       |    Etelis carbunculus.     |
+|         (6) abuninas, taighulupegh         |      red snapper       |     Etelis coruscans.      |
+|             (7) mafuti, atigh              |    redgill emperor     |Lethrinus rubrioperculatus. |
+|              (8) funai, saas               |    blueline snapper    |     Lutjanus kasmira.      |
+|       (9) buninas, falaghal-maroobw        |   yellowtail snapper   | Pristipomoides auricilla.  |
+| (10) buninas, pakapaka, falaghal-maroobw,  |      pink snapper      |Pristipomoides filamentosus.|
+|       (11) buninas, falaghal-maroobw       |   yelloweye snapper    |Pristipomoides flavipinnis. |
+|       (12) buninas, falaghal-maroobw       |      pink snapper      | Pristipomoides sieboldii.  |
+|(13) buninas rayao amariyu, falaghal-maroobw|     flower snapper     |  Pristipomoides zonatus.   |
 
-[75 FR 2205, Jan. 14, 2010, as amended at 84 FR 2774, Feb. 8, 2019]
+[75 FR 2205, Jan. 14, 2010, as amended at 84 FR 2774, Feb. 8, 2019; 84 FR 29397, June 24, 2019]

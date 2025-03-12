@@ -1,5 +1,7 @@
 ##### § 713.4 What bond forms may be used? #####
 
+Link to an amendment published at 84 FR 35524, July 24, 2019.
+
 (a) A current listing of basic bond forms that may be used without prior NCUA Board approval is on NCUA's Web site, *http://www.ncua.gov.* If you are unable to access the NCUA website, you can get a current listing of approved bond forms by contacting NCUA's Public and Congressional Affairs Office, at (703) 518-6330.
 
 (b) To use any of the following, you need prior written approval from the Board:

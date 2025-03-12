@@ -1,6 +1,6 @@
 ##### § 713.6 What is the permissible deductible? #####
 
-Link to an amendment published at 80 FR 66723, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.
+Link to an amendment published at 80 FR 66723, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.Link to an amendment published at 84 FR 35525, July 24, 2019.
 
 (a)(1) The maximum amount of allowable deductible is computed based on a federal credit union's asset size and capital level, as follows:
 

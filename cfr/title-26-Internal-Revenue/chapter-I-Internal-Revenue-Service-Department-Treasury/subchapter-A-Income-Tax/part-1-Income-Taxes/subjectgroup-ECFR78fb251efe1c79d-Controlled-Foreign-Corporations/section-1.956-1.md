@@ -152,4 +152,4 @@ Example 3.(i) *Facts.* USP, a domestic corporation, owns 100 percent of the stoc
 
 (5) Paragraph (e)(6) of this section applies to property acquired in exchanges occurring on or after June 24, 2011.
 
-[T.D. 6704, 29 FR 2600, Feb. 20, 1964, as amended by T.D. 6795, 30 FR 942, Jan. 29, 1965; T.D. 7712, 45 FR 52374, Aug. 7, 1980; T.D. 8209, 53 FR 22171, June 14, 1988; T.D. 9402, 73 FR 35582, June 24, 2008; T.D. 9630, 76 FR 36994, June 24, 2011; T.D. 9733, 80 FR 52981, Sept. 2, 2015; 80 FR 66416, Oct. 29, 2015; T.D. 9792, 81 FR 76505, Nov. 3, 2016; T.D. 9859, 84 FR 23717, May 23, 2019]
+[T.D. 6704, 29 FR 2600, Feb. 20, 1964, as amended by T.D. 6795, 30 FR 942, Jan. 29, 1965; T.D. 7712, 45 FR 52374, Aug. 7, 1980; T.D. 8209, 53 FR 22171, June 14, 1988; T.D. 9402, 73 FR 35582, June 24, 2008; T.D. 9630, 76 FR 36994, June 24, 2011; T.D. 9733, 80 FR 52981, Sept. 2, 2015; 80 FR 66416, Oct. 29, 2015; T.D. 9792, 81 FR 76505, Nov. 3, 2016; T.D. 9859, 84 FR 23717, May 23, 2019; 84 FR 29799, June 25, 2019]

@@ -1,17 +1,19 @@
-##### § 665.211 Total Allowable Catch (TAC) limit. #####
+##### § 665.211 Annual Catch Limit (ACL). #####
 
-Link to an amendment published at 84 FR 29397, June 24, 2019.
+(a) In accordance with § 665.4, the ACL for MHI Deep 7 bottomfish for each fishing year is as follows:
 
-(a) TAC limits will be set annually for the fishing year by NMFS, as recommended by the Council, based on the best available scientific, commercial, and other information, and taking into account the associated risk of overfishing.
+|Fishing year |ACL (lb)|
+|-------------|--------|
+|(1) 2018-2019|492,000 |
+|(2) 2019-2020|492,000 |
+|(3) 2020-2021|492,000 |
 
-(b) The Regional Administrator shall publish a notice indicating the annual TAC limit in the Federal Register by August 31 of each year, and shall use other means to notify permit holders of the TAC limit for the year.
+(b) When an ACL is projected to be reached based on analyses of available information, the Regional Administrator shall publish a notification to that effect in the Federal Register and shall use other means to notify permit holders. The notification will include an advisement that the fishery will be closed beginning at a specified date, which is not earlier than seven days after the date of filing the closure notification for public inspection at the Office of the Federal Register, until the end of the fishing year in which the ACL is reached.
 
-(c) When the TAC limit specified in this section is projected to be reached based on analyses of available information, the Regional Administrator shall publish a notice to that effect in the Federal Register and shall use other means to notify permit holders. The notice will include an advisement that the fishery will be closed beginning at a specified date, which is not earlier than 7 days after the date of filing the closure notice for public inspection at the Office of the Federal Register, until the end of the fishing year in which the TAC is reached.
+(c) On and after the date specified in paragraph (b) of this section, no person may fish for or possess any Deep 7 bottomfish in the MHI management subarea, except as otherwise allowed in this section.
 
-(d) On and after the date specified in § 665.211(c), no person may fish for or possess any Hawaii Restricted Bottomfish Species as specified in § 665.210 in the MHI management subarea, except as otherwise allowed in this section.
+(d) On and after the date specified in paragraph (b) of this section, no person may sell or offer for sale Deep 7 bottomfish, except as otherwise authorized by law.
 
-(e) On and after the date specified in § 665.211(c), no person may sell or offer for sale Hawaii Restricted Bottomfish Species as specified in § 665.210, except as otherwise authorized by law.
+(e) Fishing for, and the resultant possession or sale of, Deep 7 bottomfish by vessels legally registered to Mau Zone, Ho'omalu Zone, or PRIA bottomfish fishing permits and conducted in compliance with all other laws and regulations, is exempted from this section.
 
-(f) Fishing for, and the resultant possession or sale of, Hawaii Restricted Bottomfish Species by vessels legally registered to Mau Zone, Ho`omalu Zone, or PRIA bottomfish fishing permits and conducted in compliance with all other laws and regulations, is exempted from this section.
-
-[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 15222, Mar. 21, 2011]
+[84 FR 29397, June 24, 2019]

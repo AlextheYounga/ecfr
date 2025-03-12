@@ -1,5 +1,7 @@
 ##### § 713.5 What is the required minimum dollar amount of coverage? #####
 
+Link to an amendment published at 84 FR 35525, July 24, 2019.
+
 (a) The minimum required amount of fidelity bond coverage for any single loss is computed based on a federal credit union's total assets.
 
 |          Assets           |                                               Minimum bond                                               |

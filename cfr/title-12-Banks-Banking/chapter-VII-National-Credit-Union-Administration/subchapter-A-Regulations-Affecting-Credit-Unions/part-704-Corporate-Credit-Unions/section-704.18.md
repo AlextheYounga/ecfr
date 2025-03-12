@@ -1,5 +1,7 @@
 ##### § 704.18 Fidelity bond coverage. #####
 
+Link to an amendment published at 84 FR 35524, July 24, 2019.
+
 (a) *Scope.* This section provides the fidelity bond requirements for employees and officials in corporate credit unions.
 
 (b) *Review of coverage.* The board of directors of each corporate credit union shall, at least annually, carefully review the bond coverage in force to determine its adequacy in relation to risk exposure and to the minimum requirements in this section.

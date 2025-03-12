@@ -1,7 +1,5 @@
 ##### § 665.12 Definitions. #####
 
-Link to an amendment published at 84 FR 29396, June 24, 2019.
-
 In addition to the definitions in the Magnuson-Stevens Act, § 600.10 of this chapter, and subparts B through F of this part, general definitions for western Pacific fisheries have the following meanings:
 
 *American Samoa FEP* means the Fishery Ecosystem Plan for American Samoa, available from the Western Pacific Fishery Management Council or PIRO.
@@ -52,7 +50,7 @@ In addition to the definitions in the Magnuson-Stevens Act, § 600.10 of this ch
 
 *Fishing trip* means a period of time during which fishing is conducted, beginning when the vessel leaves port and ending when the vessel lands fish.
 
-*Fishing year* means the year beginning at 0001 local time on January 1 and ending at 2400 local time on December 31, with the exception of fishing for Hawaii Restricted Bottomfish Species and any precious coral MUS.
+*Fishing year* means the year beginning at 0001 local time on January 1 and ending at 2400 local time on December 31, with the exception of fishing for Deep 7 bottomfish and any precious coral MUS.
 
 *Freeboard* means the straight line vertical distance between a vessel's working deck and the sea surface. If the vessel does not have gunwale door or stern door that exposes the working deck, freeboard means the straight line vertical distance between the top of a vessel's railing and the sea surface.
 
@@ -142,4 +140,4 @@ In addition to the definitions in the Magnuson-Stevens Act, § 600.10 of this ch
 
 *Western Pacific fishery management area* means those waters shoreward of the outer boundary of the EEZ around American Samoa, Guam, Hawaii, CNMI, Midway, Johnston and Palmyra Atolls, Kingman Reef, and Wake, Jarvis, Baker, and Howland Islands.
 
-[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 37286, June 27, 2011; 78 FR 33003, June 3, 2013; 79 FR 64111, Oct. 28, 2014; 84 FR 2768, Feb. 8, 2019]
+[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 37286, June 27, 2011; 78 FR 33003, June 3, 2013; 79 FR 64111, Oct. 28, 2014; 84 FR 2768, Feb. 8, 2019; 84 FR 29396, June 24, 2019]

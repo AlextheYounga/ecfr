@@ -1,5 +1,7 @@
 ##### § 204.6 Petitions for employment creation aliens. #####
 
+Link to an amendment published at 84 FR 35808, July 24, 2019.
+
 (a) *General.* A petition to classify an alien under section 203(b)(5) of the Act must be filed on Form I-526, Immigrant Petition by Alien Entrepreneur. The petition must be accompanied by the appropriate fee. Before a petition is considered properly filed, the petition must be signed by the petitioner, and the initial supporting documentation required by this section must be attached. Legible photocopies of supporting documents will ordinarily be acceptable for initial filing and approval. However, at the discretion of the director, original documents may be required.
 
 (b) [Reserved]
