@@ -22,4 +22,4 @@
 
 (d) To receive interference protection, parties operating WMTS networks on channel 37 shall notify one of the white space database administrators of their operating location pursuant to §§ 15.713(j)(11) and 15.715(p) of this chapter.
 
-[65 FR 44008, July 17, 2000, as amended at 75 FR 19285, Apr. 14, 2010; 80 FR 73085, Nov. 23, 2015]
+[65 FR 44008, July 17, 2000, as amended at 75 FR 19285, Apr. 14, 2010; 80 FR 73085, Nov. 23, 2015]Effective Date Note:At 80 FR 73085, Nov. 23, 2015, § 95.1111(d) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

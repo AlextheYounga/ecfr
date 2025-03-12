@@ -56,4 +56,4 @@ The definitions in this section apply to this part.
 
 *Spectrum Access System (SAS) administrator.* An entity authorized by the Commission to operate an SAS in accordance with the rules and procedures set forth in § 96.63.
 
-[80 FR 36222, June 23, 2015, as amended at 81 FR 49066, July 26, 2016]Effective Date Note:At 81 FR 49066, July 26, 2016, § 96.3 was amended by adding the definition for “PAL Protection Area”, however, this definition contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[80 FR 36222, June 23, 2015, as amended at 81 FR 49066, July 26, 2016]Effective Date Note:At 81 FR 49066, July 26, 2016, § 96.3 was amended by adding the definition for “PAL Protection Area”. This text contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

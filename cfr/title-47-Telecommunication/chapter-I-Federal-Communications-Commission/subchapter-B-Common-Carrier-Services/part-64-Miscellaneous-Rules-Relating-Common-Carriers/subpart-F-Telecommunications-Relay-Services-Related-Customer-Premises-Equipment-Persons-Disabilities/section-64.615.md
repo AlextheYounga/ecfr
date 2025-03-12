@@ -36,4 +36,4 @@
 
 (2) *Compensation.* The TRS Fund, as defined by § 64.604(a)(5)(iii) of this subpart, may be used to compensate the administrator of the TRS User Registration Database for the reasonable costs of administration pursuant to the terms of its contract.
 
-[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017]Effective Date Note:At 82 FR 17764, Apr. 13, 2017, § 64.615(a)(3)(i) introductory text and (a)(3)(i)(A) were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[78 FR 40609, July 5, 2013, as amended at 82 FR 17764, Apr. 13, 2017]Effective Date Note:At 82 FR 17764, Apr. 13, 2017, § 64.615(a)(3)(i) introductory text and (a)(3)(i)(A) were revised . These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

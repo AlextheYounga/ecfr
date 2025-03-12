@@ -24,4 +24,4 @@
 
 (4) Transfer the MBAN registration data in usable form to a frequency coordinator designated by the Commission if it ceases to be the frequency coordinator.
 
-[77 FR 55735, Sept. 11, 2012, as amended at 79 FR 60100, Oct. 6, 2014]Effective Date Note:At 79 FR 60100, Oct. 6, 2014, § 95.1225 was amended by adding paragraph (c), however, this paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[77 FR 55735, Sept. 11, 2012, as amended at 79 FR 60100, Oct. 6, 2014]Effective Date Note:At 79 FR 60100, Oct. 6, 2014, § 95.1225(c) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

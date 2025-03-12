@@ -14,9 +14,11 @@ As used in this subpart, the following terms shall be defined as follows:
 
 (5) Not-for-profit hospital;
 
-(6) Rural health clinic; or
+(6) Rural health clinic;
 
-(7) Consortium of health care providers consisting of one or more entities described in paragraphs (a)(1) through (a)(6) of this section.
+(7) Skilled nursing facility; or
+
+(8) Consortium of health care providers consisting of one or more entities described in paragraphs (a)(1) through (7) of this section.
 
 (b) *Rural area.* (1) A “rural area” is an area that is entirely outside of a Core Based Statistical Area; is within a Core Based Statistical Area that does not have any Urban Area with a population of 25,000 or greater; or is in a Core Based Statistical Area that contains an Urban Area with a population of 25,000 or greater, but is within a specific census tract that itself does not contain any part of a Place or Urban Area with a population of greater than 25,000. For purposes of this rule, “Core Based Statistical Area,” “Urban Area,” and “Place” are as identified by the Census Bureau.
 
@@ -24,4 +26,4 @@ As used in this subpart, the following terms shall be defined as follows:
 
 (c) *Rural health care provider.* A “rural health care provider” is an eligible health care provider site located in a rural area.
 
-[78 FR 13982, Mar. 1, 2013]
+[78 FR 13982, Mar. 1, 2013, as amended at 82 FR 28245, June 21, 2017]

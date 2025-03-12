@@ -1,4 +1,4 @@
-##### § 100.119 Newport-Bermuda Regatta, Narragansett Bay, Newport, RI #####
+##### § 100.119 Newport-Bermuda Regatta, Narragansett Bay, Newport, RI. #####
 
 (a) *Regulated area.* The regulated area includes all waters of Narragansett Bay, Newport, RI, within the following points (NAD 83):
 
@@ -26,6 +26,6 @@ In the event that weather conditions prohibit a safe race start within the appro
 
 (4) All persons and vessels shall comply with the instructions of the Coast Guard on-scene patrol commander. On-scene patrol personnel may include commissioned, warrant, and petty officers of the U.S. Coast Guard. Upon hearing five or more short blasts from a U.S. Coast Guard vessel, the operator of a vessel shall proceed as directed. Members of the Coast Guard Auxiliary may also be present to inform vessel operators of this regulation and other applicable laws.
 
-(c) *Effective date.* This section is in effect on June 21, 1996, from 10:00 a.m. to 3:30 p.m., and biennially thereafter on a date and times published in a Federal Register document.
+(c) *Effective date.* This section is in effect biennially on a date and times published in the Local Notice to Mariners.
 
-[CGD01-96-025, 61 FR 32332, June 24, 1996]
+[CGD01-96-025, 61 FR 32332, June 24, 1996, as amended by USCG-2016-1022, 82 FR 23142, May 22, 2017]
