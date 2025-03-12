@@ -1,5 +1,7 @@
 ##### § 64.621 Interoperability and portability. #####
 
+Link to an amendment published at 82 FR 17764, Apr. 13, 2017.
+
 (a) *General obligations of VRS providers.* (1) All VRS users must be able to place a VRS call through any of the VRS providers' services, and all VRS providers must be able to receive calls from, and make calls to, any VRS user.
 
 (2) A VRS provider may not take steps that restrict a user's unfettered access to another provider's service, such as providing degraded service quality to VRS users using VRS equipment or service with another provider's service.

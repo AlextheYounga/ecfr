@@ -48,7 +48,7 @@ As used in this part:
 
 (1) Release (including toxic, flammable, and explosive);
 
-(2)Theft and diversion (including chemical weapons and chemical weapons precursors, weapons of mass effect, and explosives and improvised explosive device precursors),
+(2) Theft and diversion (including chemical weapons and chemical weapons precursors, weapons of mass effect, and explosives and improvised explosive device precursors),
 
 (3) Sabotage and contamination, and
 

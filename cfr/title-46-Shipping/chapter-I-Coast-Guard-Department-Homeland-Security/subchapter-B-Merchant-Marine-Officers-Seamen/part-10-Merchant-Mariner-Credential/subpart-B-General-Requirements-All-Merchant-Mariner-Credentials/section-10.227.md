@@ -12,9 +12,9 @@
 
 (2) Proof that the mariner either holds a valid TWIC or has applied for a TWIC.
 
-(3)The appropriate fee as set forth in § 10.219 of this part.
+(3) The appropriate fee as set forth in § 10.219 of this part.
 
-(4) Any uncanceled MMD, MMC, license, STCW endorsement, Certificate of Registry (COR), or Document of Continuity held by the applicant. If one or more of these credentials are still valid at the time of application, a photocopy - front, back, and all attachments - will satisfy this requirement.
+(4) Any uncanceled MMD, MMC, license, STCW endorsement, Certificate of Registry (COR), or Document of Continuity held by the applicant. If one or more of these credentials are still valid at the time of application, a photocopy—front, back, and all attachments—will satisfy this requirement.
 
 (5) Evidence of having passed a chemical test for dangerous drugs or of qualifying for an exemption from testing in § 16.220 of this subchapter.
 
@@ -24,7 +24,7 @@
 
 (e) Except as provided in paragraph (e)(8) of this section and 46 CFR 13.120, the applicant must meet the following professional requirements for renewal:
 
-(1) The applicant must either -
+(1) The applicant must either—
 
 (i) Present evidence of at least 1 year of sea service during the past 5 years;
 
@@ -44,7 +44,7 @@
 
 (5) An applicant for renewal of an endorsement as medical doctor or professional nurse must, in addition to meeting the requirements of this section, present evidence that he or she holds a currently valid, appropriate license as physician, surgeon, or registered nurse issued under the authority of a State or territory of the United States, the Commonwealth of Puerto Rico, or the District of Columbia. Any such renewal will retain the limitations placed upon the medical license by the issuing body. There are no professional requirements for renewal of an endorsement as marine physician assistant or hospital corpsman.
 
-(6) An applicant for renewal of an endorsement as master or mate (pilot) of towing vessels, in addition to the other requirements in this paragraph, must also submit satisfactory evidence of -
+(6) An applicant for renewal of an endorsement as master or mate (pilot) of towing vessels, in addition to the other requirements in this paragraph, must also submit satisfactory evidence of—
 
 (i) Having completed a practical demonstration of maneuvering and handling a towing vessel to the satisfaction of a designated examiner; or
 

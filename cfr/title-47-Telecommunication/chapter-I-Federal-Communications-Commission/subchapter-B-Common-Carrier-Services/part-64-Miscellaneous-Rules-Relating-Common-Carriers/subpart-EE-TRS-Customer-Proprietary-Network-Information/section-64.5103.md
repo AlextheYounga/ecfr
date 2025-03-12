@@ -1,5 +1,7 @@
 ##### § 64.5103 Definitions. #####
 
+Link to an amendment published at 82 FR 17765, Apr. 13, 2017.
+
 (a) *Address of record.* An “address of record,” whether postal or electronic, is an address that the TRS provider has associated with the customer for at least 30 days.
 
 (b) *Affiliate.* The term “affiliate” shall have the same meaning given such term in section 3 of the Communications Act of 1934, as amended, 47 U.S.C. 153.

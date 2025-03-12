@@ -1,6 +1,6 @@
-##### § 32.56-1 Application - T/ALL. #####
+##### § 32.56-1 Application—T/ALL. #####
 
-(a)This subpart applies to all tankships that have a keel laying date on or after January 1, 1975.
+(a) This subpart applies to all tankships that have a keel laying date on or after January 1, 1975.
 
 (b) Vessels meeting the structural fire protection requirements of SOLAS, Chapter II-2, Regulations 5, 6, 8, 9, and 11 (incorporated by reference, see § 32.01-1), may be considered equivalent to the provisions of this subpart.
 
