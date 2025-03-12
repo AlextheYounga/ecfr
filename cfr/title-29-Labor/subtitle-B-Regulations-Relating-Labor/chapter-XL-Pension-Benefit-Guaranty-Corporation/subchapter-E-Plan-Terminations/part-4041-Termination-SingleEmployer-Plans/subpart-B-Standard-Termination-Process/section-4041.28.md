@@ -1,5 +1,7 @@
 ##### § 4041.28 Closeout of plan. #####
 
+Link to an amendment published at 82 FR 60818, Dec. 22, 2017.
+
 (a) *Distribution deadline* - (1) *In general.* Unless a notice of noncompliance is issued under § 4041.31(a), the plan administrator must complete the distribution of plan assets in satisfaction of plan benefits (through priority category 6 under section 4044 of ERISA and part 4044 of this chapter) by the later of -
 
 (i) 180 days after the expiration of the PBGC's 60-day (or extended) review period under § 4041.26(a); or

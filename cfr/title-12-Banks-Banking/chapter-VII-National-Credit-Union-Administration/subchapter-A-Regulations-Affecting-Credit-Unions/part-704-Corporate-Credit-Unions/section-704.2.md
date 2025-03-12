@@ -1,7 +1,5 @@
 ##### § 704.2 Definitions. #####
 
-Link to an amendment published at 82 FR 55499, Nov. 22, 2017.
-
 *As used in this part:*
 
 *Adjusted trading* means any method or transaction whereby a corporate credit union sells a security to a vendor at a price above its current market price and simultaneously purchases or commits to purchase from the vendor another security at a price above its current market price.
@@ -140,7 +138,9 @@ Link to an amendment published at 82 FR 55499, Nov. 22, 2017.
 
 *Residual interest* means the ownership interest in remainder cash flows from a CMO or ABS transaction after payments due bondholders and trust administrative expenses have been satisfied.
 
-*Retained earnings* means undivided earnings, regular reserve, reserve for contingencies, supplemental reserves, reserve for losses, and other appropriations from undivided earnings as designated by management or NCUA.
+*Retained earnings* means undivided earnings, regular reserve, reserve for contingencies, supplemental reserves, reserve for losses, GAAP equity acquired in a merger, and other appropriations from undivided earnings as designated by management or the NCUA.
+
+*Retained earnings ratio* means the corporate credit union's retained earnings divided by its moving daily average net assets.
 
 *Risk-weighted assets* means a corporate credit union's risk-weighted assets as calculated in accordance with appendix C of this part.
 
@@ -164,25 +164,19 @@ Link to an amendment published at 82 FR 55499, Nov. 22, 2017.
 
 *Supervisory committee* means, for federally chartered corporate credit unions, the supervisory committee as defined in Section 111(b) of the Federal Credit Union Act, 12 U.S.C. 1761(b). For state chartered corporate credit unions, the term supervisory committee refers to the audit committee, or similar committee, designated by state statute or regulation.
 
-*Tier 1 capital* means the sum of paragraphs (1) through (4) of this definition from which paragraphs (5) through (9) of this definition are deducted:
+*Tier 1 capital* means the sum of items in paragraphs (1) and (2) of this definition from which items in paragraphs (3) through (6) are deducted:
 
 (1) Retained earnings;
 
 (2) Perpetual contributed capital;
 
-(3) The retained earnings of any acquired credit union, or of an integrated set of activities and assets, calculated at the point of acquisition, if the acquisition was a mutual combination;
+(3) Deduct the amount of the corporate credit union's intangible assets that exceed one half percent of its moving daily average net assets (however, the NCUA may direct the corporate credit union to add back some of these assets on the NCUA's own initiative, or the NCUA's approval of petition from the applicable state regulator or application from the corporate credit union);
 
-(4) Minority interests in the equity accounts of CUSOs that are fully consolidated;
+(4) Deduct investments, both equity and debt, in unconsolidated CUSOs;
 
-(5) Deduct the amount of the corporate credit union's intangible assets that exceed one half percent of its moving daily average net assets (however, NCUA may direct the corporate credit union to add back some of these assets on NCUA's own initiative, by petition from the applicable state regulator, or upon application from the corporate credit union);
+(5) Deduct an amount equal to any PCC or NCA that the corporate credit union maintains at another corporate credit union;
 
-(6) Deduct investments, both equity and debt, in unconsolidated CUSOs;
-
-(7) Deduct an amount equal to any PCC or NCA that the corporate credit union maintains at another corporate credit union;
-
-(8) Beginning on October 20, 2016, and ending on October 20, 2020, deduct any amount of PCC that causes PCC minus retained earnings, all divided by moving daily net average assets, to exceed two percent; and
-
-(9) Beginning after October 20, 2020, deduct any amount of PCC that causes PCC to exceed retained earnings.
+(6) Deduct any amount of PCC received from federally insured credit unions that causes PCC minus retained earnings, all divided by moving daily average net assets, to exceed two percent when a corporate credit union's retained earnings ratio is less than two and a half percent.
 
 *Tier 1 risk-based capital ratio* means the ratio of Tier 1 capital to the moving monthly average net risk-weighted assets.
 
@@ -210,4 +204,4 @@ Link to an amendment published at 82 FR 55499, Nov. 22, 2017.
 
 *When-issued trading* means the buying and selling of securities in the period between the announcement of an offering and the issuance and payment date of the securities.
 
-[75 FR 64829, Oct. 20, 2010, as amended at 76 FR 23867, Apr. 29, 2011; 76 FR 79533, Dec. 22, 2011; 77 FR 74110, Dec. 13, 2012; 78 FR 32544, May 31, 2013; 80 FR 25936, May 6, 2015; 80 FR 57284, Sept. 23, 2015]
+[75 FR 64829, Oct. 20, 2010, as amended at 76 FR 23867, Apr. 29, 2011; 76 FR 79533, Dec. 22, 2011; 77 FR 74110, Dec. 13, 2012; 78 FR 32544, May 31, 2013; 80 FR 25936, May 6, 2015; 80 FR 57284, Sept. 23, 2015; 82 FR 55499, Nov. 22, 2017]

@@ -1,7 +1,5 @@
 ##### § 126.103 What definitions are important in the HUBZone program? #####
 
-Link to an amendment published at 82 FR 48904, Oct. 23, 2017.
-
 *Administrator* means the Administrator of the United States Small Business Administration (SBA).
 
 *AA/BD* means SBA's Associate Administrator for Business Development.
@@ -136,7 +134,7 @@ Link to an amendment published at 82 FR 48904, Oct. 23, 2017.
 
 (2) However, if a base closure area was treated as a HUBZone at any time after 2010, it shall be treated as a HUBZone until such time as the Administrator makes a final determination as to whether or not to implement the applicable designations in accordance with the results of the 2020 decennial census.
 
-*Qualified census tract* has the meaning given that term in section 42(d)(5)(C)(ii) of the Internal Revenue Code of 1986.
+*Qualified census tract* has the meaning given that term in section 42(d)(5)(B)(ii) of the Internal Revenue Code of 1986. However, for any metropolitan statistical area in the Commonwealth of Puerto Rico, the term “qualified census tract” has the meaning given that term in section 42(d)(5)(B)(ii) of the Internal Revenue Code of 1986 as applied without regard to subclause (II) of such section, except that this clause shall apply only until December 22, 2027, or the date on which the Financial Oversight and Management Board for the Commonwealth of Puerto Rico created by the Puerto Rico Oversight, Management, and Economic Stability Act ceases to exist, whichever event occurs first.
 
 *Qualified disaster area* means any census tract or nonmetropolitan county located in an area for which the President has declared a major disaster under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), or located in an area in which a catastrophic incident has occurred if such census tract or nonmetropolitan county ceased to be categorized as either a qualified census tract or qualified nonmetropolitan county, as applicable, during the period beginning 5 years before the date on which the President declared the major disaster or the catastrophic incident occurred and ending 2 years after such date. However, the following exceptions apply:
 
@@ -168,4 +166,4 @@ Link to an amendment published at 82 FR 48904, Oct. 23, 2017.
 
 *Statewide average unemployment rate* is the rate based on the most recent data available from the Bureau of Labor Statistics, United States Department of Labor, Division of Local Area Unemployment Statistics, 2 Massachusetts Ave., NE., Room 4675, Washington, DC 20212. A copy is also available at SBA, Office of D/HUB, 409 3rd Street, SW., Washington DC 20416.
 
-[63 FR 31908, June 11, 1998, as amended at 66 FR 4645, Jan. 18, 2001; 69 FR 29421, May 24, 2004; 70 FR 51248, Aug. 30, 2005; 72 FR 50041, Aug. 30, 2007; 74 FR 45754, Sept. 4, 2009; 74 FR 56702, Nov. 3, 2009; 78 FR 61144, Oct. 2, 2013; 81 FR 51313, Aug. 4, 2016]
+[63 FR 31908, June 11, 1998, as amended at 66 FR 4645, Jan. 18, 2001; 69 FR 29421, May 24, 2004; 70 FR 51248, Aug. 30, 2005; 72 FR 50041, Aug. 30, 2007; 74 FR 45754, Sept. 4, 2009; 74 FR 56702, Nov. 3, 2009; 78 FR 61144, Oct. 2, 2013; 81 FR 51313, Aug. 4, 2016; 82 FR 48904, Oct. 23, 2017]

@@ -1,5 +1,7 @@
 ##### § 4003.1 Purpose and scope. #####
 
+Link to an amendment published at 82 FR 60818, Dec. 22, 2017.
+
 (a) *Purpose.* This part sets forth the rules governing the issuance of all initial determinations by the PBGC on cases pending before it involving the matters set forth in paragraph (b) of this section and the procedures for requesting and obtaining administrative review by the PBGC of those determinations. Subpart A contains general provisions. Subpart B sets forth rules governing the issuance of all initial determinations of the PBGC on matters covered by this part. Subpart C establishes procedures governing the reconsideration by the PBGC of initial determinations relating to the matters set forth in paragraphs (b)(1) through (b)(5). Subpart D establishes procedures governing administrative appeals from initial determinations relating to the matters set forth in paragraphs (b)(6) through (b)(11).
 
 (b) *Scope.* This part applies to the following determinations made by the PBGC in cases pending before it and to the review of those determinations:
