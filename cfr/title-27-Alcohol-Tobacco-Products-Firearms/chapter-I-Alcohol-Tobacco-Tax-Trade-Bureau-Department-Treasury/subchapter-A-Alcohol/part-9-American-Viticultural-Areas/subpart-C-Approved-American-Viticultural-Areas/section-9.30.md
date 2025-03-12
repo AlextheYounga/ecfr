@@ -1,5 +1,7 @@
 ##### § 9.30 North Coast. #####
 
+Link to an amendment published at 82 FR 57662, Dec. 7, 2017.
+
 (a) *Name.* The name of the viticultural area described in this section is “North Coast.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundaries of the North Coast viticultural area are three U.S.G.S. maps. They are entitled:
