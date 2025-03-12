@@ -2,7 +2,7 @@
 
 (a) *License requirements.* For purposes of paragraphs (a)(1) and (2) of this section, commodities and software classified under ECCNs 5A992 or 5D992 that have been 'classified in accordance with § 740.17' do not require a license to or within Russia or Belarus for civil end-users that are wholly-owned U.S. subsidiaries, foreign subsidiaries of U.S. companies that are joint ventures with other U.S. companies, joint ventures of U.S. companies with companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740 of the EAR countries, the wholly-owned subsidiaries of companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740, or joint ventures of companies headquartered in Country Group A:5 and A:6 with other companies headquartered in Country Groups A:5 and A:6.
 
-(1) *Items classified in any ECCN in CCL Categories 3 to 9.* In addition to license requirements specified on the Commerce Control List (CCL) in supplement no. 1 to part 774 of the EAR and in other provisions of the EAR, including part 744 and § 746.5, a license is required, excluding deemed exports and deemed reexports, to export, reexport, or transfer (in-country) to or within Russia or Belarus any item subject to the EAR and specified in any Export Control Classification Number (ECCN) in Categories 3, 4, 5, 6, 7, 8, or 9 of the CCL.
+(1) *Items classified in any ECCN on the CCL.* In addition to license requirements specified on the Commerce Control List (CCL) in supplement no. 1 to part 774 of the EAR and in other provisions of the EAR, including part 744 and § 746.5, a license is required, excluding deemed exports and deemed reexports, to export, reexport, or transfer (in-country) to or within Russia or Belarus any item subject to the EAR and specified in any Export Control Classification Number (ECCN) on the CCL.
 
 (2) *Foreign-produced “direct product” items subject to the EAR under Russia/Belarus foreign “direct product” (FDP) rule.* Except as described in paragraph (a)(4) of this section, a license is required to reexport, export from abroad, or transfer (in-country) to any destination any foreign-produced item subject to the EAR under the Russia/Belarus FDP rule described in § 734.9(f) of the EAR.
 
@@ -32,10 +32,10 @@ A 'military end user' for purposes of paragraphs (a)(3) and (4) of this section 
 
 (4) License Exception BAG, excluding firearms and ammunition (§ 740.14, excluding paragraph (e), of the EAR).
 
-(5) License Exception AVS, excluding any aircraft registered in, owned, or controlled by, or under charter or lease by Russia or a national of Russia (§ 740.15(a) and (b) of the EAR).
+(5) License Exception AVS, excluding any aircraft registered in, owned or controlled by, or under charter or lease by Russia or Belarus or a national of Russia or Belarus (§ 740.15(a) and (b) of the EAR).
 
 (6) License Exception ENC for civil end-users that are wholly-owned U.S. subsidiaries, foreign subsidiaries of U.S. companies that are joint ventures with other U.S. companies, joint ventures of U.S. companies with companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740 of the EAR countries, the wholly-owned subsidiaries of companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740, or joint ventures of companies headquartered in Country Group A:5 and A:6 with other companies headquartered in Country Groups A:5 and A:6 (§ 740.13(c) of the EAR) (§ 740.17 of the EAR).
 
 (7) License Exception CCD (§ 740.19 of the EAR).
 
-[87 FR 13062, Mar. 8, 2022]
+[87 FR 13062, Mar. 8, 2022, as amended at 87 FR 22132, Apr. 14, 2022]
