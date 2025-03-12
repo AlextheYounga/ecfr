@@ -1,7 +1,5 @@
 ##### § 674.61 Discharge for death or disability. #####
 
-Link to an amendment published at 86 FR 46981, Aug. 23, 2021.
-
 (a) *Death.* (1) An institution must discharge the unpaid balance of a borrower's Defense, NDSL, or Federal Perkins loan, including interest, if the borrower dies. The institution must discharge the loan on the basis of -
 
 (i) An original or certified copy of the death certificate;
@@ -144,7 +142,7 @@ Link to an amendment published at 86 FR 46981, Aug. 23, 2021.
 
 (iii) If the veteran fails to submit an application for a total and permanent disability discharge to the Secretary within 120 days, collection resumes on the veteran's title IV loans.
 
-(iv) The veteran must submit to the Secretary an application for total and permanent disability discharge on a form approved by the Secretary.
+(iv) Except as provided in paragraph (d) of this section, the veteran must submit to the Secretary an application for total and permanent disability discharge on a form approved by the Secretary.
 
 (v) The application must be accompanied by documentation from the Department of Veteran Affairs showing that the Department of Veteran Affairs has determined that the veteran is unemployable due to a service-connected disability. The veteran will not be required to provide any additional documentation related to the veteran's disability.
 
@@ -162,8 +160,6 @@ Link to an amendment published at 86 FR 46981, Aug. 23, 2021.
 
 (C) Explains the process for the Secretary's review of total and permanent disability discharge applications.
 
-(x) The Secretary will consider a borrower for whom data is obtained from the Department of Veterans Affairs showing that the borrower has a total and permanent disability as defined in § 674.51(aa)(2) to be eligible for discharge and will not require additional documentation to discharge the borrower's loans.
-
 (3) *Secretary's review of the total and permanent disability discharge application.* (i) If, after reviewing the veteran's completed application, the Secretary determines, based on a review of the documentation from the Department of Veterans Affairs, that the veteran is totally and permanently disabled as defined in § 674.51(aa)(2), the Secretary notifies the veteran and the veteran's lenders that the application for disability discharge has been approved. With this notification, the Secretary provides the effective date of the determination and directs each institution holding a Direct, NDSL, or Perkins Loan made to the veteran to discharge the loan.
 
 (ii) The institution returns any payments received on or after the effective date of the determination by the Department of Veterans Affairs that the veteran is unemployable due to a service-connected disability to the person who made the payments.
@@ -180,8 +176,42 @@ Link to an amendment published at 86 FR 46981, Aug. 23, 2021.
 
 (E) Information on how the veteran may reapply for a total and permanent disability discharge in accordance with the procedures described in paragraphs (b)(1) through (b)(8) of this section, if the documentation from the Department of Veterans Affairs does not indicate that the veteran is totally and permanently disabled as defined in § 674.51(aa)(2), but indicates that the veteran may be totally and permanently disabled as defined in § 674.51(aa)(1).
 
-(d) *No Federal reimbursement.* No Federal reimbursement is made to an institution for discharge of loans due to death or disability.
+(d) *Discharge without an application.* (1) The Secretary may discharge a loan under this section without an application or any additional documentation from the borrower if the Secretary -
 
-(e) *Retroactive.* Discharge for death applies retroactively to all Defense, NDSL, and Perkins loans.
+(i) Obtains data from the Department of Veterans Affairs (VA) showing that the borrower is unemployable due to a service-connected disability; or
 
-(Approved by the Office of Management and Budget under control number 1845-0019)(Authority: 20 U.S.C. 425, 1070g, 1087dd; sec. 130(g)(2) of the Education Amendments of 1976, Pub. L. 94-482)[52 FR 45758, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988. Redesignated and amended at 59 FR 61413, 61415, Nov. 30, 1994; 64 FR 58315, Oct. 28, 1999; 65 FR 65690, Nov. 1, 2000; 66 FR 44007, Aug. 21, 2001; 72 FR 61998, Nov. 1, 2007; 73 FR 35494, June 23, 2008; 73 FR 36793, June 30, 2008; 74 FR 55664, Oct. 28, 2009; 74 FR 55987, Oct. 29, 2009; 77 FR 66125, Nov. 1, 2012; 81 FR 76078, Nov. 1, 2016; 84 FR 65007, Nov. 26, 2019]
+(ii) Obtains data from the Social Security Administration (SSA) showing that the borrower qualifies for SSDI or SSI benefits and that the borrower's next scheduled disability review will be no earlier than five nor later than seven years.
+
+(2) [Reserved]
+
+(e) *Notifications and return of payments.* (1) After determining that a borrower qualifies for a total and permanent disability discharge under paragraph (d) of this section, the Secretary sends a notification to the borrower informing the borrower that the Secretary will discharge the borrower's title IV loans unless the borrower notifies the Secretary, by a date specified in the Secretary's notification, that the borrower does not wish to receive the loan discharge.
+
+(2) Unless the borrower notifies the Secretary that the borrower does not wish to receive the discharge, the Secretary notifies the borrower's lenders that the borrower has been approved for a disability discharge.
+
+(3) In the case of a discharge based on a disability determination by VA -
+
+(i) The notification -
+
+(A) Provides the effective date of the disability determination by VA; and
+
+(B) Directs each institution holding a Defense, NDSL, or Perkins Loan made to the borrower to discharge the loan; and
+
+(ii) The institution returns to the person who made the payments any payments received on or after the effective date of the determination by VA that the borrower is unemployable due to a service-connected disability.
+
+(4) In the case of a discharge based on a disability determination by the SSA -
+
+(i) The notification -
+
+(A) Provides the date the Secretary received the SSA notice of award for SSDI or SSI benefits; and
+
+(B) Directs each institution holding a Defense, NDSL, or Perkins Loan made to the borrower to assign the loan to the Secretary within 45 days of the notice described in paragraph (e)(2) of this section; and
+
+(ii) After the loan is assigned, the Secretary discharges the loan in accordance with paragraph (b)(3)(v) of this section.
+
+(5) If the borrower notifies the Secretary that they do not wish to receive the discharge, the borrower will remain responsible for repayment of the borrower's loans in accordance with the terms and conditions of the promissory notes that the borrower signed.
+
+(f) *No Federal reimbursement.* No Federal reimbursement is made to an institution for discharge of loans due to death or disability.
+
+(g) *Retroactive.* Discharge for death applies retroactively to all Defense, NDSL, and Perkins loans.
+
+(Approved by the Office of Management and Budget under control number 1845-0019)[52 FR 45758, Dec. 1, 1987, as amended at 53 FR 49147, Dec. 6, 1988. Redesignated and amended at 59 FR 61413, 61415, Nov. 30, 1994; 64 FR 58315, Oct. 28, 1999; 65 FR 65690, Nov. 1, 2000; 66 FR 44007, Aug. 21, 2001; 72 FR 61998, Nov. 1, 2007; 73 FR 35494, June 23, 2008; 73 FR 36793, June 30, 2008; 74 FR 55664, Oct. 28, 2009; 74 FR 55987, Oct. 29, 2009; 77 FR 66125, Nov. 1, 2012; 81 FR 76078, Nov. 1, 2016; 84 FR 65007, Nov. 26, 2019; 86 FR 46981, Aug. 23, 2021]

@@ -12,7 +12,7 @@
 
 (2) The terms *axle ratio, base level, body style, car line, combined fuel economy, engine code, equivalent test weight, gross vehicle weight, inertia weight, transmission class,* and *vehicle configuration* are used as defined in subpart A of 40 CFR part 600.
 
-(3) The term *light truck* is used as defined in part 523 of this chapter and in accordance with determinations in that part.
+(3) The term *light truck* is used as defined in part 523 of this chapter and in accordance with determinations in part 523.
 
 (4) The terms *approach angle, axle clearance, brakeover angle, cargo carrying volume, departure angle, passenger carrying volume, running clearance,* and *temporary living quarters* are used as defined in part 523 of this chapter.
 
@@ -22,7 +22,7 @@
 
 (i) *Act* means the Motor Vehicle Information and Cost Savings Act (Pub. L. 92-513), as amended by the Energy Policy and Conservation Act (Pub. L. 94-163).
 
-(ii) *Administrator* means the Administrator of the National Highway Traffic Safety Administration or the Administrator's delegate.
+(ii) *Administrator* means the Administrator of the National Highway Traffic Safety Administration (NHTSA) or the Administrator's delegate.
 
 (iii) *Current model year* means:
 

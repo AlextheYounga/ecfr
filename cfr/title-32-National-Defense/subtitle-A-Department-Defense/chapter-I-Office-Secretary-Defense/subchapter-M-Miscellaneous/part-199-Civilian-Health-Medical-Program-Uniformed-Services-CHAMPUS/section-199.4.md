@@ -1,7 +1,5 @@
 ##### § 199.4 Basic program benefits. #####
 
-Link to an amendment published at 87 FR 33013, June 1, 2022.
-
 (a) *General.* The CHAMPUS Basic Program is essentially a supplemental program to the Uniformed Services direct medical care system. The Basic Program is similar to private insurance programs, and is designed to provide financial assistance to CHAMPUS beneficiaries for certain prescribed medical care obtained from civilian sources.
 
 (1)(i) *Scope of benefits.* Subject to all applicable definitions, conditions, limitations, or exclusions specified in this part, the CHAMPUS Basic Program will pay for medically or psychologically necessary services and supplies required in the diagnosis and treatment of illness or injury, including maternity care and well-baby care. Benefits include specified medical services and supplies provided to eligible beneficiaries from authorized civilian sources such as hospitals, other authorized institutional providers, physicians, other authorized individual professional providers, and professional ambulance service, prescription drugs, authorized medical supplies, and rental or purchase of durable medical equipment.
@@ -66,7 +64,7 @@ For the purposes of determining the applicability of and implementing the provis
 
 (14*) Confidentiality of substance use disorder treatment.* Release of any patient identifying information, including that required to adjudicate a claim, must comply with the provisions of section 543 of the Public Health Service Act, as amended, (42 U.S.C. 290dd-2), and implementing regulations at 42 CFR part 2, which governs the release of medical and other information from the records of patients undergoing treatment of substance use disorder. If the patient refuses to authorize the release of medical records which are, in the opinion of the Director, Defense Health Agency, or a designee, necessary to determine benefits on a claim for treatment of substance use disorder, the claim will be denied.
 
-(b) *Institutional benefits* - (1) *General.* Services and supplies provided by an institutional provider authorized as set forth in § 199.6 may be cost-shared only when such services or supplies: are otherwise authorized by this part; are medically necessary; are ordered, directed, prescribed, or delivered by an OCHAMPUS-authorized individual professional provider as set forth in § 199.6 or by an employee of the authorized institutional provider who is otherwise eligible to be a CHAMPUS authorized individual professional provider; are delivered in accordance with generally accepted norms for clinical practice in the United States; meet established quality standards; and comply with applicable definitions, conditions, limitations, exceptions, or exclusions as otherwise set forth in this part.
+(b) *Institutional benefits*—(1) *General.* Services and supplies provided by an institutional provider authorized as set forth in § 199.6 may be cost-shared only when such services or supplies: are otherwise authorized by this part; are medically necessary; are ordered, directed, prescribed, or delivered by an OCHAMPUS-authorized individual professional provider as set forth in § 199.6 or by an employee of the authorized institutional provider who is otherwise eligible to be a CHAMPUS authorized individual professional provider; are delivered in accordance with generally accepted norms for clinical practice in the United States; meet established quality standards; and comply with applicable definitions, conditions, limitations, exceptions, or exclusions as otherwise set forth in this part.
 
 (i) *Billing practices.* To be considered for benefits under § 199.4(b), covered services and supplies must be provided and billed for by a hospital or other authorized institutional provider. Such billings must be fully itemized and sufficiently descriptive to permit CHAMPUS to determine whether benefits are authorized by this part. Depending on the individual circumstances, teaching physician services may be considered an institutional benefit in accordance with § 199.4(b) or a professional benefit under § 199.4(c). See paragraph (c)(3)(xiii) of this section for the CHAMPUS requirements regarding teaching physicians. In the case of continuous care, claims shall be submitted to the appropriate CHAMPUS fiscal intermediary at least every 30 days either by the beneficiary or sponsor or, on a participating basis, directly by the facility on behalf of the beneficiary (refer to § 199.7).
 
@@ -82,7 +80,7 @@ For the purposes of determining the applicability of and implementing the provis
 
 (B) *Domiciliary settings.* Domiciliary facilities generally referred to as halfway or quarterway houses are not authorized providers and charges for services provided by these facilities are not covered.
 
-(2) *Covered hospital services and supplies* - (i) *Room and board.* Includes special diets, laundry services, and other general housekeeping support services (inpatient only).
+(2) *Covered hospital services and supplies*—(i) *Room and board.* Includes special diets, laundry services, and other general housekeeping support services (inpatient only).
 
 (ii) *General staff nursing services.*
 
@@ -126,7 +124,7 @@ If durable medical equipment is to be used on an outpatient basis or continued i
 
 (xx) *Withdrawal management (detoxification).* For a beneficiary undergoing treatment for a substance use disorder, this includes management of a patient's withdrawal symptoms (detoxification).
 
-(3) *Covered services and supplies provided by special medical treatment institutions or facilities, other than hospitals or RTCs -* (i) *Room and board.* Includes special diets, laundry services, and other general housekeeping support services (inpatient only).
+(3) *Covered services and supplies provided by special medical treatment institutions or facilities, other than hospitals or RTCs—*(i) *Room and board.* Includes special diets, laundry services, and other general housekeeping support services (inpatient only).
 
 (ii) *General staff nursing services.*
 
@@ -178,7 +176,7 @@ If the durable medical equipment is to be used on an outpatient basis or continu
 
 (xvii) *Withdrawal management (detoxification).* For a beneficiary undergoing treatment for a substance use disorder, this includes management of a patient's withdrawal symptoms (detoxification).
 
-(4) *Services and supplies provided by RTCs* - (i) *Room and board.* Includes use of residential facilities such as food service (including special diets), laundry services, supervised reasonable recreational and social activity services, and other general services as considered appropriate by the Director, OCHAMPUS, or a designee.
+(4) *Services and supplies provided by RTCs*—(i) *Room and board.* Includes use of residential facilities such as food service (including special diets), laundry services, supervised reasonable recreational and social activity services, and other general services as considered appropriate by the Director, OCHAMPUS, or a designee.
 
 (ii) *Patient assessment.* Includes the assessment of each child or adolescent accepted by the RTC, including clinical consideration of each of his or her fundamental needs, that is, physical, psychological, chronological age, developmental level, family, educational, social, environmental, and recreational.
 
@@ -208,7 +206,7 @@ If the durable medical equipment is to be used on an outpatient basis or continu
 
 (D) Unless therapeutically contraindicated, the family and/or guardian must actively participate in the continuing care of the patient either through direct involvement at the facility or geographically distant family therapy. (In the latter case, the treatment center must document that there has been collaboration with the family and/or guardian in all reviews.)
 
-(5) *Extent of institutional benefits* - (i) *Inpatient room accommodations* - (A) *Semiprivate.* The allowable costs for room and board furnished an individual patient are payable for semiprivate accommodations in a hospital or other authorized institution, subject to appropriate cost-sharing provisions (refer to paragraph (f) of this section). A semiprivate accommodation is a room containing at least two beds. Therefore, if a room publicly is designated by the institution as a semiprivate accommodation and contains multiple beds, it qualifies as semiprivate for the purpose of CHAMPUS.
+(5) *Extent of institutional benefits*—(i) *Inpatient room accommodations*—(A) *Semiprivate.* The allowable costs for room and board furnished an individual patient are payable for semiprivate accommodations in a hospital or other authorized institution, subject to appropriate cost-sharing provisions (refer to paragraph (f) of this section). A semiprivate accommodation is a room containing at least two beds. Therefore, if a room publicly is designated by the institution as a semiprivate accommodation and contains multiple beds, it qualifies as semiprivate for the purpose of CHAMPUS.
 
 (B) *Private.* A room with one bed that is designated as a private room by the hospital or other authorized institutional provider. The allowable cost of a private room accommodation is covered only under the following conditions:
 
@@ -278,7 +276,7 @@ If the durable medical equipment is to be used on an outpatient basis or continu
 
 (iii) *Closest hospital utilized.* A determination that diagnosis or treatment was received at the most accessible (closest) hospital available and equipped to furnish the medically necessary care.
 
-(8) *Residential treatment for substance use disorder* - (i) *In general.* Rehabilitative care, to include withdrawal management (detoxification), in an inpatient residential setting of an authorized hospital or substance use disorder rehabilitative facility, whether free-standing or hospital-based, is covered on a residential basis. The medical necessity for the management of withdrawal symptoms must be documented. Any withdrawal management (detoxification) services provided by the substance use disorder rehabilitation facility must be under general medical supervision.
+(8) *Residential treatment for substance use disorder*—(i) *In general.* Rehabilitative care, to include withdrawal management (detoxification), in an inpatient residential setting of an authorized hospital or substance use disorder rehabilitative facility, whether free-standing or hospital-based, is covered on a residential basis. The medical necessity for the management of withdrawal symptoms must be documented. Any withdrawal management (detoxification) services provided by the substance use disorder rehabilitation facility must be under general medical supervision.
 
 (ii) *Criteria for determining medical or psychological necessity of residential treatment for substance use disorder.* Residential treatment for substance use disorder will be considered necessary only if all of the following conditions are present:
 
@@ -302,7 +300,7 @@ If the durable medical equipment is to be used on an outpatient basis or continu
 
 (vi) *Non-mental health related medical services.* Separate billing will be allowed for otherwise covered non-mental health related services.
 
-(9) *Psychiatric and substance use disorder partial hospitalization services* - (i) *In general.* Partial hospitalization services are those services furnished by a TRICARE authorized partial hospitalization program and authorized mental health providers for the active treatment of a mental disorder. All services must follow a medical model and vest patient care under the general direction of a licensed TRICARE authorized physician employed by the partial hospitalization program to ensure medication and physical needs of all the patients are considered. The primary or attending provider must be a TRICARE authorized mental health provider (see paragraph (c)(3)(ix) of this section), operating within the scope of his/her license. These categories include physicians, clinical psychologists, certified psychiatric nurse specialists, clinical social workers, marriage and family counselors, TRICARE certified mental health counselors, pastoral counselors, and supervised mental health counselors. All categories practice independently except pastoral counselors and supervised mental health counselors who must practice under the supervision of TRICARE authorized physicians. Partial hospitalization services and interventions are provided at a high degree of intensity and restrictiveness of care, with medical supervision and medication management. Partial hospitalization services are covered as a basic program benefit only if they are provided in accordance with paragraph (b)(9) of this section. Such programs must enter into a participation agreement with TRICARE; and be accredited and in substantial compliance with the specified standards of an accreditation organization approved by the Director.
+(9) *Psychiatric and substance use disorder partial hospitalization services*—(i) *In general.* Partial hospitalization services are those services furnished by a TRICARE authorized partial hospitalization program and authorized mental health providers for the active treatment of a mental disorder. All services must follow a medical model and vest patient care under the general direction of a licensed TRICARE authorized physician employed by the partial hospitalization program to ensure medication and physical needs of all the patients are considered. The primary or attending provider must be a TRICARE authorized mental health provider (see paragraph (c)(3)(ix) of this section), operating within the scope of his/her license. These categories include physicians, clinical psychologists, certified psychiatric nurse specialists, clinical social workers, marriage and family counselors, TRICARE certified mental health counselors, pastoral counselors, and supervised mental health counselors. All categories practice independently except pastoral counselors and supervised mental health counselors who must practice under the supervision of TRICARE authorized physicians. Partial hospitalization services and interventions are provided at a high degree of intensity and restrictiveness of care, with medical supervision and medication management. Partial hospitalization services are covered as a basic program benefit only if they are provided in accordance with paragraph (b)(9) of this section. Such programs must enter into a participation agreement with TRICARE; and be accredited and in substantial compliance with the specified standards of an accreditation organization approved by the Director.
 
 (ii) *Criteria for determining medical or psychological necessity of psychiatric and SUD partial hospitalization services.* Partial hospitalization services will be considered necessary only if all of the following conditions are present:
 
@@ -332,7 +330,7 @@ If the durable medical equipment is to be used on an outpatient basis or continu
 
 (viii) *Non-mental health related medical services.* Separate billing will be allowed for otherwise covered, non-mental health related medical services.
 
-(10) *Intensive psychiatric and substance use disorder outpatient services* - (i) *In general.* Intensive outpatient services are those services furnished by a TRICARE authorized intensive outpatient program and qualified mental health provider(s) for the active treatment of a mental disorder, to include substance use disorder.
+(10) *Intensive psychiatric and substance use disorder outpatient services*—(i) *In general.* Intensive outpatient services are those services furnished by a TRICARE authorized intensive outpatient program and qualified mental health provider(s) for the active treatment of a mental disorder, to include substance use disorder.
 
 (ii) *Criteria for determining medical or psychological necessity of intensive outpatient services.* In determining the medical or psychological necessity of intensive outpatient services, the evaluation conducted by the Director, or designee, shall consider the appropriate level of care, based on the patient's clinical needs and characteristics matched to a service's structure and intensity. In addition to the criteria set for this paragraph (b)(10) of this section, additional evaluation standards, consistent with such criteria, may be adopted by the Director, or designee. Treatment in an intensive outpatient setting shall not be considered necessary unless the patient requires care that is more intensive than an outpatient treatment program or outpatient office visits and less intensive than inpatient psychiatric care or a partial hospital program. Intensive outpatient services will be considered necessary only if the following conditions are present:
 
@@ -356,7 +354,7 @@ If the durable medical equipment is to be used on an outpatient basis or continu
 
 (vi) *Non-mental health related medical services.* Separate billing will be allowed for otherwise covered, non-mental health related medical services.
 
-(11) *Opioid treatment programs* - (i) *In general.* Outpatient treatment and management of withdrawal symptoms for substance use disorder provided at a TRICARE authorized opioid treatment program are covered. If the patient is medically in need of management of withdrawal symptoms, but does not require the personnel or facilities of a general hospital setting, services for management of withdrawal symptoms are covered. The medical necessity for the management of withdrawal symptoms must be documented. Any services to manage withdrawal symptoms provided by the opioid treatment program must be under general medical supervision.
+(11) *Opioid treatment programs*—(i) *In general.* Outpatient treatment and management of withdrawal symptoms for substance use disorder provided at a TRICARE authorized opioid treatment program are covered. If the patient is medically in need of management of withdrawal symptoms, but does not require the personnel or facilities of a general hospital setting, services for management of withdrawal symptoms are covered. The medical necessity for the management of withdrawal symptoms must be documented. Any services to manage withdrawal symptoms provided by the opioid treatment program must be under general medical supervision.
 
 (ii) Criteria for determining medical or psychological necessity of an opioid treatment program are set forth in 42 CFR part 8.
 
@@ -368,13 +366,13 @@ If the durable medical equipment is to be used on an outpatient basis or continu
 
 (iv) *Case management.* Care, treatment, or services should be coordinated among providers and between settings, independent of whether they are provided directly by the organization or by an organization or by an outside source, so that the individual's needs are addressed in a seamless, synchronized, and timely manner.
 
-(c) *Professional services benefit* - (1) *General.* Benefits may be extended for those covered services described in paragraph (c) of this section that are provided in accordance with good medical practice and established standards of quality by physicians or other authorized individual professional providers, as set forth in § 199.6 of this part. Such benefits are subject to all applicable definitions, conditions, exceptions, limitations, or exclusions as maybe otherwise set forth in this or other Sections of this part. Except as otherwise specifically authorized, to be considered for benefits under paragraph (c) of this section, the described services must be rendered by a physician, or prescribed, ordered, and referred medically by a physician to other authorized individual professional providers. Further, except under specifically defined circumstances, there should be an attending physician in any episode of care. (For example, certain services of a clinical psychologist are exempt from this requirement. For these exceptions, refer to § 199.6.)
+(c) *Professional services benefit*—(1) *General.* Benefits may be extended for those covered services described in paragraph (c) of this section that are provided in accordance with good medical practice and established standards of quality by physicians or other authorized individual professional providers, as set forth in § 199.6 of this part. Such benefits are subject to all applicable definitions, conditions, exceptions, limitations, or exclusions as maybe otherwise set forth in this or other Sections of this part. Except as otherwise specifically authorized, to be considered for benefits under paragraph (c) of this section, the described services must be rendered by a physician, or prescribed, ordered, and referred medically by a physician to other authorized individual professional providers. Further, except under specifically defined circumstances, there should be an attending physician in any episode of care. (For example, certain services of a clinical psychologist are exempt from this requirement. For these exceptions, refer to § 199.6.)
 
 (i) *Billing practices.* To be considered for benefits under paragraph (c) of this section, covered professional services must be performed personally by the physician or other authorized individual professional provider, who is other than a salaried or contractual staff member of a hospital or other authorized institution, and who ordinarily and customarily bills on a fee-for-service basis for professional services rendered. Such billings must be itemized fully and be sufficiently descriptive to permit CHAMPUS to determine whether benefits are authorized by this part. See paragraph (c)(3)(xiii) of this section for the requirements regarding the special circumstances for teaching physicians. For continuing professional care, claims should be submitted to the appropriate CHAMPUS fiscal intermediary at least every 30 days either by the beneficiary or sponsor, or directly by the physician or other authorized individual professional provider on behalf of a beneficiary (refer to § 199.7).
 
 (ii) *Services must be related.* Covered professional services must be rendered in connection with and directly related to a covered diagnosis or definitive set of symptoms requiring medically necessary treatment.
 
-(iii) *Telehealth services.* Health care services covered by TRICARE and provided through the use of telehealth modalities are covered services to the same extent as if provided in person at the location of the patient if those services are medically necessary and appropriate for such modalities. The Director will establish special procedures for payment for such services. Additionally, where appropriate, in order to incentive the use of telehealth services, the Director may modify the otherwise applicable beneficiary cost-sharing requirements in paragraph (f) of this section which otherwise apply.
+(iii) *Telehealth services.* Health care services covered by TRICARE and provided through the use of telehealth modalities including telephone services for: telephonic office visits; telephonic consultations; electronic transmission of data or biotelemetry or remote physiologic monitoring services and supplies, are covered services to the same extent as if provided in person at the location of the patient if those services are medically necessary and appropriate for such modalities. The Director will establish special procedures for payment for such services. Additionally, where appropriate, in order to incentive the use of telehealth services, the Director may modify the otherwise applicable beneficiary cost-sharing requirements in paragraph (f) of this section which otherwise apply.
 
 (2) *Covered services of physicians and other authorized profession providers.*
 
@@ -418,7 +416,7 @@ A separate professional charge for the oral administration of approved antineopl
 
 (xvi) *Routine eye examinations.* Coverage for routine eye examinations is limited to dependents of active duty members, to one examination per calendar year per person, and to services rendered on or after October 1, 1984, except as provided under paragraph (c)(3)(xi) of this section.
 
-(3) *Extent of professional benefits* -
+(3) *Extent of professional benefits*—
 
 (i) *Multiple Surgery.* In cases of multiple surgical procedures performed during the same operative session, benefits shall be extended as follows:
 
@@ -481,7 +479,7 @@ This provision is not meant to imply that when extra time and special effort are
 (*9*) *Medication assisted treatment.* Medication assisted treatment, combining pharmacotherapy and holistic care, to include provision in office-based opioid treatment by an authorized TRICARE provider, is covered. The practice of an individual physician in office-based treatment is regulated by the Department of Health and Human Services' 42 CFR 8.12,
 the Center for Substance Abuse Treatment (CSAT), and the Drug Enforcement Administration (DEA), along with individual state and local regulations.
 
-(B) *Therapeutic settings* - (*1*) *Outpatient psychotherapy.* Outpatient psychotherapy generally is covered for individual, family, conjoint, collateral, and/or group sessions.
+(B) *Therapeutic settings*—(*1*) *Outpatient psychotherapy.* Outpatient psychotherapy generally is covered for individual, family, conjoint, collateral, and/or group sessions.
 
 (*2*) *Inpatient psychotherapy.* Coverage of inpatient psychotherapy is based on medical or psychological necessity for the services identified in the patient's treatment plan.
 
@@ -561,13 +559,13 @@ the Center for Substance Abuse Treatment (CSAT), and the Drug Enforcement Admini
 
 (*2*) The services are rendered outside the scope and requirements of the approved training program to which the physician in training is assigned.
 
-(d) *Other benefits* - (1) General. Benefits may be extended for the allowable charge of those other covered services and supplies described in paragraph (d) of this section, which are provided in accordance with good medical practice and established standards of quality by those other authorized providers described in § 199.6. Such benefits are subject to all applicable definitions, conditions, limitations, or exclusions as otherwise may be set forth in this or other chapters of this Regulation. To be considered for benefits under paragraph (d) of this section, the described services or supplies must be prescribed and ordered by a physician. Other authorized individual professional providers acting within their scope of licensure may also prescribe and order these services and supplies unless otherwise specified in paragraph (d) of this section.
+(d) *Other benefits*—(1) General. Benefits may be extended for the allowable charge of those other covered services and supplies described in paragraph (d) of this section, which are provided in accordance with good medical practice and established standards of quality by those other authorized providers described in § 199.6. Such benefits are subject to all applicable definitions, conditions, limitations, or exclusions as otherwise may be set forth in this or other chapters of this Regulation. To be considered for benefits under paragraph (d) of this section, the described services or supplies must be prescribed and ordered by a physician. Other authorized individual professional providers acting within their scope of licensure may also prescribe and order these services and supplies unless otherwise specified in paragraph (d) of this section.
 
 (2) *Billing practices.* To be considered for benefits under paragraph (d) of this section, covered services and supplies must be provided and billed for by an authorized provider as set forth in § 199.6 of this part. Such billing must be itemized fully and described sufficiently, even when CHAMPUS payment is determined under the CHAMPUS DRG-based payment system, so that CHAMPUS can determine whether benefits are authorized by this part. Except for claims subject to the CHAMPUS DRG-based payment system, whenever continuing charges are involved, claims should be submitted to the appropriate CHAMPUS fiscal intermediary at least every 30 days (monthly) either by the beneficiary or sponsor or directly by the provider. For claims subject to the CHAMPUS DRG-based payment system, claims may be submitted only after the beneficiary has been discharged or transferred from the hospital.
 
-(3) *Other covered services and supplies* - (i) *Blood.* If whole blood or plasma (or its derivatives) are provided and billed for by an authorized institution in connection with covered treatment, benefits are extended as set forth in paragraph (b) of this section. If blood is billed for directly to a beneficiary, benefits may be extended under paragraph (d) in the same manner as a medical supply.
+(3) *Other covered services and supplies*—(i) *Blood.* If whole blood or plasma (or its derivatives) are provided and billed for by an authorized institution in connection with covered treatment, benefits are extended as set forth in paragraph (b) of this section. If blood is billed for directly to a beneficiary, benefits may be extended under paragraph (d) in the same manner as a medical supply.
 
-(ii) *Durable equipment* - (A) Scope of benefit. (*1*) Durable equipment, which is for the specific use of the beneficiary and is ordered by an authorized individual professional provider listed in § 199.6(c)(3)(i), (ii) or (iii), acting within his or her scope of licensure shall be covered if the durable equipment meets the definition in § 199.2 and -
+(ii) *Durable equipment*—(A) Scope of benefit. (*1*) Durable equipment, which is for the specific use of the beneficiary and is ordered by an authorized individual professional provider listed in § 199.6(c)(3)(i), (ii) or (iii), acting within his or her scope of licensure shall be covered if the durable equipment meets the definition in § 199.2 and—
 
 (*i*) Provides the medically appropriate level of performance and quality for the medical condition present and
 
@@ -585,7 +583,7 @@ the Center for Substance Abuse Treatment (CSAT), and the Drug Enforcement Admini
 
 (*v*) Cardiorespiratory monitors under conditions specified in paragraph (d)(3)(ii)(B) of this section.
 
-(*3*) Whether a prescribed item of durable equipment provides the medically appropriate level of performance and quality for the beneficiary's condition must be supported by adequate documentation. Luxury, deluxe, immaterial, or non- essential features, which increase the cost of the item relative to a similar item without those features, based on industry standards for a particular item at the time the equipment is prescribed or replaced for a beneficiary, are not authorized. Only the “base” or “basic” model of equipment (or more cost- effective alternative equipment) shall be covered, unless customization of the equipment, or any accessory or item of supply for any durable medical equipment, is essential, as determined by the Director (or designee), for -
+(*3*) Whether a prescribed item of durable equipment provides the medically appropriate level of performance and quality for the beneficiary's condition must be supported by adequate documentation. Luxury, deluxe, immaterial, or non- essential features, which increase the cost of the item relative to a similar item without those features, based on industry standards for a particular item at the time the equipment is prescribed or replaced for a beneficiary, are not authorized. Only the “base” or “basic” model of equipment (or more cost- effective alternative equipment) shall be covered, unless customization of the equipment, or any accessory or item of supply for any durable medical equipment, is essential, as determined by the Director (or designee), for—
 
 (*i*) Achieving therapeutic benefit for the patient;
 
@@ -625,7 +623,7 @@ the Center for Substance Abuse Treatment (CSAT), and the Drug Enforcement Admini
 
 (*2*) In general, repairs of beneficiary owned durable equipment are covered when necessary to make the equipment serviceable and replacement of durable equipment is allowed when the durable equipment is not serviceable because of normal wear, accidental damage or when necessitated by a change in the beneficiary's condition. However, repairs of durable equipment damaged while using the equipment in a manner inconsistent with its common use, and replacement of lost or stolen rental durable equipment are excluded from coverage. In addition, repairs of deluxe, luxury, or immaterial features of durable equipment are excluded from coverage.
 
-(iii) *Medical supplies and dressings (consumables)* - (A) *In general.* In general, medical supplies and dressings (consumables) are those that do not withstand prolonged, repeated use. Such items must be related directly to an appropriate and verified covered medical condition of the specific beneficiary for whom the item was purchased and obtained from a medical supply company, a pharmacy, or authorized institutional provider. Examples of covered medical supplies and dressings are disposable syringes for a known diabetic, colostomy sets, irrigation sets, and elastic bandages. An external surgical garment specifically designed for use follow a mastectomy is considered a medical supply item.
+(iii) *Medical supplies and dressings (consumables)*—(A) *In general.* In general, medical supplies and dressings (consumables) are those that do not withstand prolonged, repeated use. Such items must be related directly to an appropriate and verified covered medical condition of the specific beneficiary for whom the item was purchased and obtained from a medical supply company, a pharmacy, or authorized institutional provider. Examples of covered medical supplies and dressings are disposable syringes for a known diabetic, colostomy sets, irrigation sets, and elastic bandages. An external surgical garment specifically designed for use follow a mastectomy is considered a medical supply item.
 
 Note 1 to paragraph (d)(3)(iii)(A):
 
@@ -721,9 +719,9 @@ The inpatient cost-sharing provisions for ambulance transfers only apply to othe
 
 Coverage limitations on the provision of this benefit will be as determined by the Director, TRICARE Management Activity, or designee.
 
-(e) *Special benefit information* - (1) *General.* There are certain circumstances, conditions, or limitations that impact the extension of benefits and that require special emphasis and explanation. This paragraph (e) sets forth those benefits and limitations recognized to be in this category. The benefits and limitations herein described also are subject to all applicable definitions, conditions, limitations, exceptions, and exclusions as set forth in this or other sections of this part, except as otherwise may be provided specifically in this paragraph (e).
+(e) *Special benefit information*—(1) *General.* There are certain circumstances, conditions, or limitations that impact the extension of benefits and that require special emphasis and explanation. This paragraph (e) sets forth those benefits and limitations recognized to be in this category. The benefits and limitations herein described also are subject to all applicable definitions, conditions, limitations, exceptions, and exclusions as set forth in this or other sections of this part, except as otherwise may be provided specifically in this paragraph (e).
 
-(2) *Abortion.* The statute under which CHAMPUS operates prohibits payment for abortions with one single exception - where the life of the mother would be endangered if the fetus were carried to term. Covered abortion services are limited to medical services and supplies only. Physician certification is required attesting that the abortion was performed because the mother's life would be endangered if the fetus were carried to term. Abortions performed for suspected or confirmed fetal abnormality (e.g., anencephalic) or for mental health reasons (e.g., threatened suicide) do not fall within the exceptions permitted within the language of the statute and are not authorized for payment under CHAMPUS.
+(2) *Abortion.* The statute under which CHAMPUS operates prohibits payment for abortions with one single exception—where the life of the mother would be endangered if the fetus were carried to term. Covered abortion services are limited to medical services and supplies only. Physician certification is required attesting that the abortion was performed because the mother's life would be endangered if the fetus were carried to term. Abortions performed for suspected or confirmed fetal abnormality (e.g., anencephalic) or for mental health reasons (e.g., threatened suicide) do not fall within the exceptions permitted within the language of the statute and are not authorized for payment under CHAMPUS.
 
 Note:
 
@@ -731,7 +729,7 @@ Covered abortion services are limited to medical services or supplies only for t
 
 (3) *Family planning.* The scope of the CHAMPUS family planning benefit is as follows:
 
-(i) *Birth control (such as contraception)* - (A) *Benefits provided.* Benefits are available for services and supplies related to preventing conception, including the following:
+(i) *Birth control (such as contraception)*—(A) *Benefits provided.* Benefits are available for services and supplies related to preventing conception, including the following:
 
 (*1*) Surgical inserting, removal, or replacement of intrauterine devices.
 
@@ -993,7 +991,7 @@ Extraction of unerupted or partially erupted, malposed or impacted teeth, with o
 
 (ii) [Reserved]
 
-(iii) *Kinds of prescription drugs that are monitored carefully by CHAMPUS for possible abuse situations* - (A) *Narcotics.* Examples are Morphine and Demerol.
+(iii) *Kinds of prescription drugs that are monitored carefully by CHAMPUS for possible abuse situations*—(A) *Narcotics.* Examples are Morphine and Demerol.
 
 (B) *Nonnarcotic analgesics.* Examples are Talwin and Darvon.
 
@@ -1033,9 +1031,9 @@ Extraction of unerupted or partially erupted, malposed or impacted teeth, with o
 
 (ii) *Benefits available in connection with a domiciliary care case.* Should the beneficiary receive otherwise covered medical services or supplies while also being in a domiciliary care situation, CHAMPUS benefits are payable for those medical services or supplies, or both, in the same manner as though the beneficiary resided in his or her own home. Such benefits would be cost-shared as though rendered to an outpatient.
 
-(iii) *General exclusion.* Domiciliary care is institutionalization essentially to provide a substitute home - not because it is medically necessary for the beneficiary to be in the institution (although there may be conditions present that have contributed to the fact that domiciliary care is being rendered). CHAMPUS benefits are not payable for any costs or charges related to the provision of domiciliary care. While a substitute home or assistance may be necessary for the beneficiary, domiciliary care does not represent the kind of care for which CHAMPUS benefits can be provided.
+(iii) *General exclusion.* Domiciliary care is institutionalization essentially to provide a substitute home—not because it is medically necessary for the beneficiary to be in the institution (although there may be conditions present that have contributed to the fact that domiciliary care is being rendered). CHAMPUS benefits are not payable for any costs or charges related to the provision of domiciliary care. While a substitute home or assistance may be necessary for the beneficiary, domiciliary care does not represent the kind of care for which CHAMPUS benefits can be provided.
 
-(14) *CT scanning* - (i) *Approved CT scan services.* Benefits may be extended for medically necessary CT scans of the head or other anatomical regions of the body when all of the following conditions are met:
+(14) *CT scanning*—(i) *Approved CT scan services.* Benefits may be extended for medically necessary CT scans of the head or other anatomical regions of the body when all of the following conditions are met:
 
 (A) The patient is referred for the diagnostic procedure by a physician.
 
@@ -1237,7 +1235,7 @@ The Director, TMA, shall issue guidelines for review of the specific high-risk c
 
 (*3*) The plan must be established on the same day as the assessment if the day of assessment is to be a covered day of hospice care.
 
-(*4*) The other two members of the basic interdisciplinary group - the attending physician and the medical director or physician designee - must review the initial plan of care and provide their input to the process of establishing the plan of care within two calendar days following the day of assessment. A meeting of group members is not required within this 2-day period. Input may be provided by telephone.
+(*4*) The other two members of the basic interdisciplinary group—the attending physician and the medical director or physician designee—must review the initial plan of care and provide their input to the process of establishing the plan of care within two calendar days following the day of assessment. A meeting of group members is not required within this 2-day period. Input may be provided by telephone.
 
 (*5*) Hospice services must be consistent with the plan of care for coverage to be extended.
 
@@ -1413,7 +1411,7 @@ The Director, TMA, shall issue guidelines for review of the specific high-risk c
 
 (D) *Web-based resources.* Downloadable educational materials on the effects of tobacco use will be available through the internet or other electronic media. This service may be made available to overseas Prime beneficiaries in all locations where web based resources are available. There shall be no requirement to create web based resources in any geographic area in order to make this service available.
 
-(f) *Beneficiary or sponsor liability* - (1) *General.* As stated in the introductory paragraph to this section, the Basic Program is essentially a supplemental program to the Uniformed Services direct medical care system. To encourage use of the Uniformed Services direct medical care system wherever its facilities are available and appropriate, the Basic Program benefits are designed so that it is to the financial advantage of a CHAMPUS beneficiary or sponsor to use the direct medical care system. When medical care is received from civilian sources, a CHAMPUS beneficiary is responsible for payment of certain deductible and cost-sharing amounts in connection with otherwise covered services and supplies. By statute, this joint financial responsibility between the beneficiary or sponsor and CHAMPUS is more favorable for dependents of members than for other classes of beneficiaries.
+(f) *Beneficiary or sponsor liability*—(1) *General.* As stated in the introductory paragraph to this section, the Basic Program is essentially a supplemental program to the Uniformed Services direct medical care system. To encourage use of the Uniformed Services direct medical care system wherever its facilities are available and appropriate, the Basic Program benefits are designed so that it is to the financial advantage of a CHAMPUS beneficiary or sponsor to use the direct medical care system. When medical care is received from civilian sources, a CHAMPUS beneficiary is responsible for payment of certain deductible and cost-sharing amounts in connection with otherwise covered services and supplies. By statute, this joint financial responsibility between the beneficiary or sponsor and CHAMPUS is more favorable for dependents of members than for other classes of beneficiaries.
 
 (2) *Dependents of members of the Uniformed Services.* CHAMPUS beneficiary or sponsor liability set forth for dependents of members is as follows:
 
@@ -1485,7 +1483,7 @@ The Director, TMA, shall issue guidelines for review of the specific high-risk c
 
 (6)-(7) [Reserved]
 
-(8) *Cost-sharing for services provided under special discount arrangements* - (i) *General rule.* With respect to services determined by the Director, OCHAMPUS (or designee) to be covered by § 199.14(e), the Director, OCHAMPUS (or designee) has authority to establish, as an exception to the cost-sharing amount normally required pursuant to this section, a different cost-share amount that appropriately reflects the application of the statutory cost-share to the discount arrangement.
+(8) *Cost-sharing for services provided under special discount arrangements*—(i) *General rule.* With respect to services determined by the Director, OCHAMPUS (or designee) to be covered by § 199.14(e), the Director, OCHAMPUS (or designee) has authority to establish, as an exception to the cost-sharing amount normally required pursuant to this section, a different cost-share amount that appropriately reflects the application of the statutory cost-share to the discount arrangement.
 
 (ii) *Specific applications.* The following are examples of applications of the general rule; they are not all inclusive.
 
@@ -1493,7 +1491,7 @@ The Director, TMA, shall issue guidelines for review of the specific high-risk c
 
 (B) In the case of services provided by institutional providers normally paid on the basis of a pre-set amount (such as DRG-based amount under § 199.14(a)(1) or per-diem amount under § 199.14(a)(2)), if the discount rate is lower than the pre-set rate, the cost-share amount that would apply for a beneficiary other than an active duty dependent pursuant to the normal pre-set rate would be reduced by the same percentage by which the pre-set rate was reduced in setting the discount rate.
 
-(9) *Waiver of deductible amounts or cost-sharing not allowed* - (i) *General rule.* Because deductible amounts and cost sharing are statutorily mandated, except when specifically authorized by law (as determined by the Director, OCHAMPUS), a provider may not waive or forgive beneficiary liability for annual deductible amounts or inpatient or outpatient cost sharing, as set forth in this section.
+(9) *Waiver of deductible amounts or cost-sharing not allowed*—(i) *General rule.* Because deductible amounts and cost sharing are statutorily mandated, except when specifically authorized by law (as determined by the Director, OCHAMPUS), a provider may not waive or forgive beneficiary liability for annual deductible amounts or inpatient or outpatient cost sharing, as set forth in this section.
 
 (ii) *Exception for bad debts.* This general rule is not violated in cases in which a provider has made all reasonable attempts to effect collection, without success, and determines in accordance with generally accepted fiscal management standards that the beneficiary liability in a particular case is an uncollectible bad debt.
 
@@ -1703,7 +1701,9 @@ In accordance with section 744 of the DoD Appropriation Act for 1981 (Pub. L. 96
 
 (51) *Hearing aids.* Hearing aids or other auditory sensory enhancing devices, except those allowed in paragraph (e)(24) of this section.
 
-(52) *Telephone services.* Services or advice rendered by telephone are excluded, except that: (i) Telephone services (audio-only) are not excluded when otherwise covered TRICARE services are provided to a beneficiary through this modality during the coronavirus 2019 (COVID-19) public health national emergency, if the services are medically necessary and appropriate, and
+(52) *Telephone services.* Services or advice rendered by telephone are excluded. Exceptions:
+
+(i) Medically necessary and appropriate Telephonic office visits are covered as authorized in paragraph (c)(1)(iii) of this section.
 
 (ii) A diagnostic or monitoring procedure which incorporates electronic transmission of data or remote detection and measurement of a condition, activity, or function (biotelemetry) is not excluded when:
 
@@ -1763,7 +1763,7 @@ Note:
 
 The fact that a physician may prescribe, order, recommend, or approve a service or supply does not, of itself, make it medically necessary or make the charge an allowable expense, even though it is not listed specifically as an exclusion.
 
-(h) *Payment and liability for certain potentially excludable services under the Peer Review Organization program* - (1) *Applicability.* This subsection provides special rules that apply only to services retrospectively determined under the Peer Review organization (PRO) program (operated pursuant to § 199.15) to be potentially excludable (in whole or in part) from the basic program under paragraph (g) of this section. Services may be excluded by reason of being not medically necessary (paragraph (g)(1) of this section), at an inappropriate level (paragraph (g)(3) of this section), custodial care (paragraph (g)(7) of this section) or other reason relative to reasonableness, necessity or appropriateness (which services shall throughout the remainder of this subsection, be referred to as “not medically necessary”). (Also throughout the remainder of the subsection, “services” includes items and “provider” includes supplier). This paragraph does not apply to coverage determinations made by OCHAMPUS or the fiscal intermediaries which are not based on medical necessity determinations made under the PRO program.
+(h) *Payment and liability for certain potentially excludable services under the Peer Review Organization program*—(1) *Applicability.* This subsection provides special rules that apply only to services retrospectively determined under the Peer Review organization (PRO) program (operated pursuant to § 199.15) to be potentially excludable (in whole or in part) from the basic program under paragraph (g) of this section. Services may be excluded by reason of being not medically necessary (paragraph (g)(1) of this section), at an inappropriate level (paragraph (g)(3) of this section), custodial care (paragraph (g)(7) of this section) or other reason relative to reasonableness, necessity or appropriateness (which services shall throughout the remainder of this subsection, be referred to as “not medically necessary”). (Also throughout the remainder of the subsection, “services” includes items and “provider” includes supplier). This paragraph does not apply to coverage determinations made by OCHAMPUS or the fiscal intermediaries which are not based on medical necessity determinations made under the PRO program.
 
 (2) *Payment for certain potentially excludable expenses.* Services determined under the PRO program to be potentially excludable by reason of the exclusions in paragraph (g) of this section for not medically necessary services will not be determined to be excludable if neither the beneficiary to whom the services were provided nor the provider (institutional or individual) who furnished the services knew, or could reasonably have been expected to know, that the services were subject to those exclusions. Payment may be made for such services as if the exclusions did not apply.
 

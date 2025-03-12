@@ -1,7 +1,5 @@
 ##### § 1291.1 Definitions. #####
 
-Link to an amendment published at 87 FR 32969, June 1, 2022.
-
 As used in this part:
 
 *Affordable* means that:
@@ -84,7 +82,7 @@ As used in this part:
 
 *Retention period* means:
 
-(1) Five years from closing for an AHP-assisted owner-occupied unit where the AHP subsidy is used for purchase of the unit or for purchase in conjunction with rehabilitation of the unit; and
+(1) Five years from closing for an AHP-assisted owner-occupied unit where the AHP subsidy is used for purchase of the unit, for purchase in conjunction with rehabilitation of the unit, or for construction of the unit; and
 
 (2) Fifteen years from the date of completion for a rental project.
 
@@ -115,3 +113,5 @@ As used in this part:
 *Very low-income household* means a household that has an income at or below 50 percent of the median income for the area, with the income limit adjusted for household size in accordance with the methodology of the applicable median income standard selected from those enumerated in the definition of “median income for the area,” unless such median income standard has no household size adjustment methodology.
 
 *Visitable* means, in either owner-occupied or rental housing, at least one entrance is at-grade (no steps) and approached by an accessible route such as a sidewalk, and the entrance door and all interior passage doors are at least 34 inches wide, offering 32 inches of clear passage space.
+
+[83 FR 61231, Nov. 28, 2018, as amended at 87 FR 32969, June 1, 2022]

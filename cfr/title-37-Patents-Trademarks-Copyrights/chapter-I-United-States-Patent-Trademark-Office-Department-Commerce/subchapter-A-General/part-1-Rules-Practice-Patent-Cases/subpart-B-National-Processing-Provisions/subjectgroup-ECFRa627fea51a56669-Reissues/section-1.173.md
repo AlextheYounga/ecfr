@@ -1,7 +1,5 @@
 ##### § 1.173 Reissue specification, drawings, and amendments. #####
 
-Link to an amendment published at 87 FR 30817, May 20, 2022.
-
 (a) *Contents of a reissue application.* An application for reissue must contain the entire specification, including the claims, and the drawings of the patent. No new matter shall be introduced into the application. No reissue patent shall be granted enlarging the scope of the claims of the original patent unless applied for within two years from the grant of the original patent, pursuant to 35 U.S.C. 251.
 
 (1) *Specification, including claims.* The entire specification, including the claims, of the patent for which reissue is requested must be furnished in the form of a copy of the printed patent, in double column format, each page on only one side of a single sheet of paper. If an amendment of the reissue application is to be included, it must be made pursuant to paragraph (b) of this section. The formal requirements for papers making up the reissue application other than those set forth in this section are set out in § 1.52. Additionally, a copy of any disclaimer (§ 1.321), certificate of correction (§§ 1.322 through 1.324), or reexamination certificate (§ 1.570) issued in the patent must be included. (See also § 1.178).
@@ -10,9 +8,9 @@ Link to an amendment published at 87 FR 30817, May 20, 2022.
 
 (b) *Making amendments in a reissue application.* An amendment in a reissue application is made either by physically incorporating the changes into the specification when the application is filed, or by a separate amendment paper. If amendment is made by incorporation, markings pursuant to paragraph (d) of this section must be used. If amendment is made by an amendment paper, the paper must direct that specified changes be made, as follows:
 
-(1) *Specification other than the claims, “Large Tables” (§ 1.58(c)), a “Computer Program Listing Appendix” (§ 1.96(c)), or a “Sequence Listing” (§ 1.821(c)).* (i) Changes to the specification, other than to the claims, “Large Tables” (§ 1.58(c)), a “Computer Program Listing Appendix” (§ 1.96(c)), or a “Sequence Listing” (§ 1.821(c)), must be made by submission of the entire text of an added or rewritten paragraph, including markings pursuant to paragraph (d) of this section, except that an entire paragraph may be deleted by a statement deleting the paragraph, without presentation of the text of the paragraph. The precise point in the specification where any added or rewritten paragraph is located must be identified.
+(1) *Specification other than the claims, “Large Tables” (§ 1.58(c)), a “Computer Program Listing Appendix” (§ 1.96(c)), a “Sequence Listing” (§ 1.821(c)), or a “Sequence Listing XML” (§ 1.831(a)).* (i) Changes to the specification, other than to the claims, “Large Tables” (§ 1.58(c)), a “Computer Program Listing Appendix” (§ 1.96(c)), a “Sequence Listing” (§ 1.821(c)), or a “Sequence Listing XML” (§ 1.831(a)), must be made by submission of the entire text of an added or rewritten paragraph, including markings pursuant to paragraph (d) of this section, except that an entire paragraph may be deleted by a statement deleting the paragraph, without presentation of the text of the paragraph. The precise point in the specification where any added or rewritten paragraph is located must be identified.
 
-(ii) Changes to “Large Tables,” a “Computer Program Listing Appendix,” or a “Sequence Listing” must be made in accordance with § 1.58(g) for “Large Tables,” § 1.96(c)(5) for a “Computer Program Listing Appendix,” and § 1.825 for a “Sequence Listing.”
+(ii) Changes to “Large Tables,” a “Computer Program Listing Appendix,” a “Sequence Listing,” or a “Sequence Listing XML” must be made in accordance with § 1.58(g) for “Large Tables,” § 1.96(c)(5) for a “Computer Program Listing Appendix,” § 1.825 for a “Sequence Listing,” and § 1.835 for a “Sequence Listing XML.”
 
 (2) *Claims.* An amendment paper must include the entire text of each claim being changed by such amendment paper and of each claim being added by such amendment paper. For any claim changed by the amendment paper, a parenthetical expression “amended,” “twice amended,” etc., should follow the claim number. Each changed patent claim and each added claim must include markings pursuant to paragraph (d) of this section, except that a patent claim or added claim should be canceled by a statement canceling the claim without presentation of the text of the claim.
 
@@ -24,7 +22,7 @@ Link to an amendment published at 87 FR 30817, May 20, 2022.
 
 (c) *Status of claims and support for claim changes.* Whenever there is an amendment to the claims pursuant to paragraph (b) of this section, there must also be supplied, on pages separate from the pages containing the changes, the status (*i.e.,* pending or canceled), as of the date of the amendment, of all patent claims and of all added claims, and an explanation of the support in the disclosure of the patent for the changes made to the claims.
 
-(d) *Changes shown by markings.* Any changes relative to the patent being reissued that are made to the specification, including the claims but excluding “Large Tables,” a “Computer Program Listing Appendix,” or a “Sequence Listing,” upon filing or by an amendment paper in the reissue application, must include the following markings:
+(d) *Changes shown by markings.* Any changes relative to the patent being reissued that are made to the specification, including the claims but excluding “Large Tables” (§ 1.58(c)), a “Computer Program Listing Appendix” (§ 1.96(c)), a “Sequence Listing” (§ 1.821(c)), and a “Sequence Listing XML” (§ 1.831(a)) upon filing or by an amendment paper in the reissue application, must include the following markings:
 
 (1) The matter to be omitted by reissue must be enclosed in brackets; and
 
@@ -36,4 +34,4 @@ Link to an amendment published at 87 FR 30817, May 20, 2022.
 
 (g) *Amendments made relative to the patent.* All amendments must be made relative to the patent specification, including the claims, and drawings, which are in effect as of the date of filing of the reissue application.
 
-[65 FR 54675, Sept. 8, 2000, as amended at 68 FR 38630, June 30, 2003; 69 FR 56543, Sept. 21, 2004; 86 FR 57048, Oct. 14, 2021]
+[65 FR 54675, Sept. 8, 2000, as amended at 68 FR 38630, June 30, 2003; 69 FR 56543, Sept. 21, 2004; 86 FR 57048, Oct. 14, 2021; 87 FR 30817, May 20, 2022]

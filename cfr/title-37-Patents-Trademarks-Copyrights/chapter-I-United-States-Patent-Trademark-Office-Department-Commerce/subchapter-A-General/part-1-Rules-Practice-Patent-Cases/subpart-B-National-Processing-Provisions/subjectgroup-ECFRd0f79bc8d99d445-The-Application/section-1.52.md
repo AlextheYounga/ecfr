@@ -1,7 +1,5 @@
 ##### § 1.52 Language, paper, writing, margins, read-only optical disc specifications. #####
 
-Link to an amendment published at 87 FR 30816, May 20, 2022.
-
 (a) *Papers that are to become a part of the permanent United States Patent and Trademark Office records in the file of a patent application, or a reexamination or supplemental examination proceeding.* (1) All papers, other than drawings, that are submitted on paper or by facsimile transmission, and are to become a part of the permanent United States Patent and Trademark Office records in the file of a patent application or reexamination or supplemental examination proceeding, must be on sheets of paper that are the same size, not permanently bound together, and:
 
 (i) Flexible, strong, smooth, non-shiny, durable, and white;
@@ -56,7 +54,7 @@ Link to an amendment published at 87 FR 30816, May 20, 2022.
 
 (i) A “Computer Program Listing Appendix” (*see* § 1.96(c));
 
-(ii) A “Sequence Listing” (submitted under § 1.821(c) in compliance with § 1.824); or
+(ii) A “Sequence Listing” (submitted under § 1.821(c) in compliance with §§ 1.822 through 1.824) or a “Sequence Listing XML” (submitted under § 1.831(a) in compliance with §§ 1.832 through 1.834); or
 
 (iii) “Large Tables” (*see* § 1.58(c)).
 
@@ -70,9 +68,11 @@ Link to an amendment published at 87 FR 30816, May 20, 2022.
 
 (i) Computer compatibility: PC or Mac®;
 
-(ii) Operating system compatibility: MS-DOS®, MS-Windows®, MacOS®, or Unix®/Linux®; and
+(ii) Operating system compatibility: MS-DOS®, MS-Windows®, MacOS®, or Unix®/Linux®;
 
-(iii) The contents of each read-only optical disc must be in American Standard Code for Information Interchange (ASCII) plain text and if compressed, must be compressed in accordance with §§ 1.58, 1.96, and 1.824, as applicable.
+(iii) The contents of each read-only optical disc must be in American Standard Code for Information Interchange (ASCII) plain text and if compressed, must be compressed in accordance with § 1.58 for “Large Tables,” with § 1.96 for a “Computer Program Listing Appendix,” or § 1.824 for a “Sequence Listing” or Computer Readable Form (CRF) of the “Sequence Listing,” as applicable; and
+
+(iv) The contents of each read-only optical disc for a “Sequence Listing XML” must be in eXtensible Markup Language (XML) file format, and if compressed, must be compressed in accordance with § 1.834.
 
 (4) Each read-only optical disc must be enclosed in a hard case within an unsealed, padded, and protective mailing envelope, and must be accompanied by a transmittal letter in accordance with paragraph (a) of this section, including the following information:
 
@@ -104,24 +104,25 @@ Link to an amendment published at 87 FR 30816, May 20, 2022.
 
 (6) Read-only optical discs will not be returned to the applicant and may not be retained as part of the patent application file.
 
-(7) Any amendment to the information on a read-only optical disc must be by way of a replacement read-only optical disc, in compliance with § 1.58(g) for “Large Tables,” § 1.96(c)(5) for a “Computer Program Listing Appendix,” and § 1.825(b) for a “Sequence Listing” or Computer Readable Form (CRF) of a “Sequence Listing.”
+(7) Any amendment to the information on a read-only optical disc must be by way of a replacement read-only optical disc, in compliance with § 1.58(g) for “Large Tables,” § 1.96(c)(5) for a “Computer Program Listing Appendix,” § 1.825(b) for a “Sequence Listing” or CRF of a “Sequence Listing,” and § 1.835(b) for a “Sequence Listing XML.”
 
 (8) The specification must contain an incorporation by reference of the material on each read-only optical disc in a separate paragraph (§ 1.77(b)(5)), identifying the name of each file, their date of creation, and their size in bytes, except for an international application in the international stage. The Office may require the applicant to amend the specification to include the material incorporated by reference.
 
 (9) If a file is unreadable, it will be treated as not having been submitted, and a notice will be issued to require a compliant submission.
 
-(f) *Determining application size fees for applications containing electronic documents submitted on a read-only optical disc or via the USPTO patent electronic filing system* - (1) *Submission on Read-Only Optical Discs:* The application size fee required by § 1.16(s) or 1.492(j), for an application component submitted in part on a read-only optical disc in compliance with paragraph (e) of this section, shall be determined such that each three kilobytes of content submitted on a read-only optical disc shall be counted as a sheet of paper. Excluded from this determination is any ASCII plain text file submitted on a read-only optical disc under paragraph (e) of this section containing:
+(f) *Determining application size fees for applications containing electronic documents submitted on a read-only optical disc or via the USPTO patent electronic filing system* -
+(1) *Submission on read-only optical discs.* The application size fee required by § 1.16(s) or § 1.492(j), for an application component submitted in part on a read-only optical disc in compliance with paragraph (e) of this section, shall be determined such that each three kilobytes of content submitted on a read-only optical disc shall be counted as a sheet of paper. Excluded from this determination is any ASCII plain text file or any XML file (as applicable) submitted on a read-only optical disc under paragraph (e) of this section containing:
 
-(i) Any “Sequence Listing” or CRF of a “Sequence Listing” in compliance with § 1.821(c) or (e); or
-
-(ii) Any “Computer Program Listing Appendix” in compliance with § 1.96(c).
-
-(2) *Submission via the USPTO Patent Electronic Filing System:* The application size fee required by § 1.16(s) or § 1.492(j), for an application submitted in whole or in part via the USPTO patent electronic filing system, shall be determined such that the paper size equivalent will be considered to be 75% of the number of sheets of paper present in the specification and drawings in the application when entered into the Office file wrapper after being rendered by the USPTO patent electronic filing system. Excluded from this determination is any ASCII plain text file submitted via the USPTO patent electronic filing system containing:
-
-(i) Any “Sequence Listing” or CRF of a “Sequence Listing” in compliance with § 1.821(c) or (e); or
+(i) Any “Sequence Listing” or CRF of a “Sequence Listing” in compliance with § 1.821(c) or (e), or any “Sequence Listing XML” in compliance with § 1.831(a); or
 
 (ii) Any “Computer Program Listing Appendix” in compliance with § 1.96(c).
 
-(3) *Oversized submission.* Any submission of a “Sequence Listing” in electronic form of 300 MB-800 MB filed in an application under 35 U.S.C. 111 or 371 will be subject to the fee set forth in § 1.21(o)(1). Any submission of a “Sequence Listing” filed in electronic form that exceeds 800 MB in an application under 35 U.S.C. 111 or 371 will be subject to the fee set forth in § 1.21(o)(2).
+(2) *Submission via the USPTO patent electronic filing system.* The application size fee required by § 1.16(s) or § 1.492(j), for an application submitted in whole or in part via the USPTO patent electronic filing system, shall be determined such that the paper size equivalent will be considered to be 75% of the number of sheets of paper present in the specification and drawings for the application when entered into the Office records after being rendered by the USPTO patent electronic filing system. Excluded from this determination is any ASCII plain text file or any XML file (as applicable) submitted via the USPTO patent electronic filing system containing:
+
+(i) Any “Sequence Listing” or CRF of a “Sequence Listing” in compliance with § 1.821(c)(1) or (e), or any “Sequence Listing XML” in compliance with § 1.831(a); or
+
+(ii) Any “Computer Program Listing Appendix” in compliance with § 1.96(c).
+
+(3) *Oversized submission.* Any submission of a “Sequence Listing” in electronic form or a “Sequence Listing XML” of 300 MB-800 MB filed in an application under 35 U.S.C. 111 or 371 will be subject to the fee set forth in § 1.21(o)(1). Any submission of a “Sequence Listing” in electronic form or a “Sequence Listing XML” that exceeds 800 MB filed in an application under 35 U.S.C. 111 or 371 will be subject to the fee set forth in § 1.21(o)(2).
 
 (Pub. L. 94-131, 89 Stat. 685; 35 U.S.C. 6, Pub. L. 97-247; 15 U.S.C. 1113, 1123)[43 FR 20462, May 11, 1978]Editorial Note:For Federal Register citations affecting § 1.52, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

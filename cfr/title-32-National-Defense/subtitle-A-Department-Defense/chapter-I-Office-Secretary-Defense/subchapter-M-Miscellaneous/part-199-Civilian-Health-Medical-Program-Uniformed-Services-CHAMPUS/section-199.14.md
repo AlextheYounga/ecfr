@@ -1,7 +1,5 @@
 ##### § 199.14 Provider reimbursement methods. #####
 
-Link to an amendment published at 87 FR 33013, June 1, 2022.
-
 (a) *Hospitals.* The CHAMPUS-determined allowable cost for reimbursement of a hospital shall be determined on the basis of one of the following methodologies.
 
 (1) *CHAMPUS Diagnosis Related Group (DRG)-based payment system.* Under the CHAMPUS DRG-based payment system, payment for the operating costs of inpatient hospital services furnished by hospitals subject to the system is made on the basis of prospectively-determined rates and applied on a per discharge basis using DRGs. Payments under this system will include a differentiation for urban (using large urban and other urban areas) and rural hospitals and an adjustment for area wage differences and indirect medical education costs. Additional payments will be made for capital costs, direct medical education costs, and outlier cases.
@@ -156,7 +154,7 @@ Link to an amendment published at 87 FR 33013, June 1, 2022.
 
 (*8*) *Labor and nonlabor portions of the adjusted standardized amounts.* The adjusted standardized amounts shall be divided into labor and nonlabor portions in accordance with the Medicare division of labor and nonlabor portions.
 
-(E) *Adjustments to the DRG-based payments amounts.* The following adjustments to the DRG-based amounts (the weight multiplied by the adjusted standardized amount) will be made.
+(E) *Adjustments to the DRG-based payments amounts.* The following adjustments to the DRG-based amounts (the weight multiplied by the adjusted standardized amount) will be made. Additional adjustments to DRG amounts are included in paragraph (a)(1)(iv) of this section.
 
 (*1*) *Outliers.* The DRG-based payment to a hospital shall be adjusted for atypical cases. These outliers are those cases that have either an unusually short length-of-stay or extremely long length-of-stay or that involve extraordinarily high costs when compared to most discharges classified in the same DRG. Cases which qualify as both a length-of-stay outlier and a cost outlier shall be paid at the rate which results in the greater payment.
 
@@ -199,10 +197,6 @@ Link to an amendment published at 87 FR 33013, June 1, 2022.
 (*v*) *No update for inflation.* The children's hospital differential, calculated (and later recalculated under the hold harmless provision) for the base period of fiscal year 1988, shall not be updated for subsequent fiscal years.
 
 (*vi*) *Administrative corrections.* In connection with determinations pursuant to paragraph (a)(1)(iii) (E)(*4*)(*iii*) of this section, any children's hospital that believes OCHAMPUS erroneously failed to classify the hospital as a high volume hospital or incorrectly calculated (in the case of a high volume hospital) the hospital's differential may obtain administrative corrections by submitting appropriate documentation to the Director, OCHAMPUS (or a designee).
-
-(*5*) *Additional payment for new medical services and technologies.* TRICARE will, for TRICARE authorized services/supplies, adopt the Medicare New Technology Add On Payments (NTAPs) adjustment to DRGs for new medical services and technologies as implemented under 42 CFR 412.87, when determined by the Assistant Secretary of Defense for Health Affairs (ASD(HA)), as practicable. The Director, Defense Health Agency (DHA), shall provide notice of the issuance of policies and guidelines adopting such adjustments together with any variations deemed necessary to address unique issues involving the beneficiary population or program administration.
-
-(6) *Hospital Value Based Purchasing.* TRICARE will adopt the Medicare Hospital Value Based Purchasing (HVBP) Program adjustments to DRGs to incentivize hospitals as implemented under 42 CFR 412.160, when determined by the ASD(HA), as practicable. The Director, DHA, shall provide notice of the issuance of policies and guidelines adopting such adjustments together with any variations deemed necessary to address unique issues involving the beneficiary population or program administration.
 
 (F) *Updating the adjusted standardized amounts.* Beginning in FY 1989, the adjusted standardized amounts will be updated by the Medicare annual update factor, unless the adjusted standardized amounts are recalculated.
 
@@ -253,6 +247,44 @@ Link to an amendment published at 87 FR 33013, June 1, 2022.
 (*xiii*) Reporting date.
 
 (*xiv*) The report shall contain a certification statement that any changes to the items in paragraphs (a)(1)(iii)(G)(*3*)(*vi*), (*vii*), (*viii*), (*ix*), or (*x*), which are a result of an audit of the hospital's Medicare cost-report, shall be reported to CHAMPUS within thirty (30) days of the date the hospital is notified of the change.
+
+(iv) *Special Programs and Incentive Payments.* (A) *Additional payment for new medical services and technologies.* TRICARE will make New Technology Add On Payments (NTAPs) adjustments to DRGs as provided in paragraphs (a)(1)(iv)(A)(*1*) through (a)(1)(iv)(A)(*11*) of this section. The Director, Defense Health Agency (DHA), shall provide notice of the issuance of policies and guidelines adopting such adjustments together with any variations deemed necessary to address unique issues involving the beneficiary population or program administration.
+
+(*1*) *Adoption of Medicare NTAPs.* For TRICARE covered services and supplies, TRICARE will adopt Medicare NTAPs as implemented under 42 CFR 412.87 under the same conditions as published by the Centers for Medicare & Medicaid Services, except for pediatric cases.
+
+(*2*) *Pediatric cases.* For pediatric NTAP DRGs, the TRICARE NTAP adjustment shall be modified to be set at 100 percent of the costs in excess of the Medicare Severity-Diagnosis Related Group (MS-DRG) payment. As used in this paragraph, pediatric is defined as services and supplies provided to individuals under the age of 18, or who are being treated in a children's hospital or in a pediatric ward.
+
+(*3*) *TRICARE designated NTAP adjustments.* For categories of TRICARE covered services and supplies for which Medicare has not established an NTAP adjustment for DRGs, the Director, DHA may designate a TRICARE NTAP adjustment through a process using criteria to identify and select such new technology services/supplies similar to that utilized by Medicare under 42 CFR 412.87. The Director, DHA may then designate a TRICARE NTAP reimbursement adjustment through a process using a methodology similar to the Medicare methodology outlined in 42 CFR 412.88. This discretionary authority to designate TRICARE NTAP adjustments shall apply to services and supplies typically provided to TRICARE beneficiaries age 64 or younger when Medicare has not established an NTAP adjustment for such services/supplies. As with other discretionary authority under this part, a decision to designate a TRICARE category of services/supplies for an NTAP adjustment to DRGs and the amount of such an adjustment are not subject to the appeal and hearing procedures of § 199.10. The Director, DHA, shall select which new technologies may be designated as TRICARE NTAPs and will publish this list based on the eligibility criteria and reimbursement methodology provided in paragraphs (a)(1)(iv)(A)(*4*) through (a)(1)(iv)(A)(*11*) of this section.
+
+(*4*) *Eligibility requirements and reimbursement methodology for TRICARE designated NTAP adjustments.* A new medical service or technology represents an advance that substantially improves, relative to technologies previously available, the diagnosis or treatment of TRICARE beneficiaries. The totality of the circumstances is considered when making a determination that a new medical service or technology represents an advance that substantially improves, relative to services or technologies previously available, the diagnosis or treatment of TRICARE beneficiaries.
+
+(*5*) *Criteria for improvement.* A determination that a new medical service or technology represents an advance that substantially improves, relative to services or technologies previously available, the diagnosis or treatment of TRICARE beneficiaries means one or more of the following:
+
+(*i*) The new medical service or technology offers a treatment option for a patient population unresponsive to, or ineligible for, currently available treatments.
+
+(*ii)* The new medical service or technology offers the ability to diagnose a medical condition in a patient population where that medical condition is currently undetectable, or offers the ability to diagnose a medical condition earlier in a patient population than allowed by currently available methods and there must also be evidence that use of the new medical service or technology to make a diagnosis affects the management of the patient.
+
+(*iii*) The use of the new medical service or technology significantly improves clinical outcomes relative to services or technologies previously available as demonstrated by one or more of the following seven outcomes: A reduction in at least one clinically significant adverse event, including a reduction in mortality or a clinically significant complication; A decreased rate of at least one subsequent diagnostic or therapeutic intervention; A decreased number of future hospitalizations or physician visits; A more rapid beneficial resolution of the disease process treatment including, but not limited to, a reduced length of stay or recovery time; An improvement in one or more activities of daily living; An improved quality of life; or A demonstrated greater medication adherence or compliance.
+
+(*iv*) The totality of the information otherwise demonstrates that the new medical service or technology substantially improves, relative to technologies previously available, the diagnosis or treatment of TRICARE beneficiaries.
+
+(*6*) *Evidence.* Evidence from scientific literature may be sufficient to establish that a new medical service or technology represents an advance that substantially improves, relative to services or technologies previously available, the diagnosis or treatment of TRICARE beneficiaries.
+
+(*7*) *Prevalence.* The medical condition diagnosed or treated by the new medical service or technology may have a low prevalence among TRICARE beneficiaries.
+
+(*8*) *Subpopulation.* The new medical service or technology may represent an advance that substantially improves, relative to services or technologies previously available, the diagnosis or treatment of a subpopulation of patients with the medical condition diagnosed or treated by the new medical service or technology.
+
+(*9*) *Newness criteria.* A medical service or technology may be considered new within 2 or 3 years after the point at which data begin to become available reflecting the inpatient hospital code assigned to the new service or technology (depending on when a new code is assigned and data on the new service or technology becomes available for DRG recalibration). After TRICARE has recalibrated the DRGs, based on available data, to reflect the costs of an otherwise new medical service or technology, the medical service or technology will no longer be considered “new” under the criterion of this section.
+
+(*10*) *Payment methodology.* For discharges involving new medical services or technologies that meet the criteria specified in paragraphs (a)(1)(iv)(A)(*4*) through (a)(1)(iv)(A)(*9*) and that are approved as TRICARE NTAPs per paragraph (a)(1)(iv)(A)(*11*) of this section, TRICARE payment will be the lesser of:
+
+(*i*) The CMS designated percentage of the estimated costs of the new technology or medical service, as published in 42 CFR 412.88; or
+
+(*ii*) The CMS designated percentage of the difference between the full DRG payment and the hospital's estimated cost for the case, as published in 42 CFR 412.88.
+
+(*11*) *Publication and timing.* TRICARE may consider whether a new medical service or technology meets the eligibility criteria specified in paragraphs (a)(1)(iv)(A)(*4*) through (a)(1)(iv)(A)(*9*) of this section and announce the results on the NTAP website. In doing so, TRICARE only considers, for add-on payments for a particular fiscal year, an application for which the new medical device or product has received FDA marketing authorization by July 1 prior to the particular fiscal year; or the application is submitted under an alternative pathway to the FDA for which conditional NTAP approval for FDA marketing authorization is granted before July 1 of the fiscal year for which the applicant applied for new technology add-on payments.
+
+(B) *Hospital Value Based Purchasing.* TRICARE will adopt the Medicare Hospital Value Based Purchasing (HVBP) Program adjustments to DRGs to incentivize hospitals as implemented under 42 CFR 412.160, when determined by the ASD(HA), as practicable. The Director, DHA, shall provide notice of the issuance of policies and guidelines adopting such adjustments together with any variations deemed necessary to address unique issues involving the beneficiary population or program administration.
 
 (2) *CHAMPUS mental health per diem payment system.* The CHAMPUS mental health per diem payment system shall be used to reimburse for inpatient mental health hospital care in specialty psychiatric hospitals and units. Payment is made on the basis of prospectively determined rates and paid on a per diem basis. The system uses two sets of per diems. One set of per diems applies to hospitals and units that have a relatively higher number of CHAMPUS discharges. For these hospitals and units, the system uses hospital-specific per diem rates. The other set of per diems applies to hospitals and units with a relatively lower number of CHAMPUS discharges. For these hospitals and units, the system uses regional per diems, and further provides for adjustments for area wage differences and indirect medical education costs and additional pass-through payments for direct medical education costs.
 

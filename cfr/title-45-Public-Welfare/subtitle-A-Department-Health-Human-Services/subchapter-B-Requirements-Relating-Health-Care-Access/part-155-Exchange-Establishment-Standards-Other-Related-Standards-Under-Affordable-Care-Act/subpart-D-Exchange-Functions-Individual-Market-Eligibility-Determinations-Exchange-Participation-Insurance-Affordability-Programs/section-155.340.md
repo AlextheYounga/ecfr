@@ -1,8 +1,6 @@
 ##### § 155.340 Administration of advance payments of the premium tax credit and cost-sharing reductions. #####
 
-Link to an amendment published at 87 FR 27389, May 6, 2022.
-
-(a) *Requirement to provide information to enable advance payments of the premium tax credit and cost-sharing reductions.* In the event that the Exchange determines that a tax filer is eligible for advance payments of the premium tax credit, an applicant is eligible for cost-sharing reductions, or that such eligibility for such programs has changed, the Exchange must, simultaneously -
+(a) *Requirement to provide information to enable advance payments of the premium tax credit and cost-sharing reductions.* In the event that the Exchange determines that a tax filer is eligible for advance payments of the premium tax credit, an applicant is eligible for cost-sharing reductions, or that such eligibility for such programs has changed, the Exchange must, simultaneously—
 
 (1) Transmit eligibility and enrollment information to HHS necessary to enable HHS to begin, end, or change advance payments of the premium tax credit or cost-sharing reductions; and
 
@@ -16,7 +14,7 @@ Link to an amendment published at 87 FR 27389, May 6, 2022.
 
 (2) If an enrollee for whom advance payments of the premium tax credit are made or who is receiving cost-sharing reductions notifies the Exchange that he or she has changed employers, the Exchange must transmit the enrollee's name and taxpayer identification number to HHS.
 
-(3) In the event that an individual for whom advance payments of the premium tax credit are made or who is receiving cost-sharing reductions terminates coverage from a QHP through the Exchange during a benefit year, the Exchange must -
+(3) In the event that an individual for whom advance payments of the premium tax credit are made or who is receiving cost-sharing reductions terminates coverage from a QHP through the Exchange during a benefit year, the Exchange must—
 
 (i) Transmit the individual's name and taxpayer identification number, and the effective date of coverage termination, to HHS, which will transmit it to the Secretary of the Treasury; and,
 
@@ -38,7 +36,7 @@ Link to an amendment published at 87 FR 27389, May 6, 2022.
 
 (2) That portion of the advance payment(s) of the premium tax credit to be allocated among stand-alone dental policies will be allocated based on the number of enrollees covered under the stand-alone dental policy, weighted by the age of the enrollees, using the default uniform age rating curve established by the Secretary of HHS under 45 CFR 147.102(e), with the portion allocated to any single stand-alone dental policy not to exceed the portion of the stand-alone dental policy premium properly allocated to EHB. If the portion of the advance payment(s) of the premium tax credit allocated to a stand-alone dental policy under this subparagraph exceeds the portion of the same policy's premium properly allocated to EHB, the remainder will be allocated evenly among all other stand-alone dental policies in which individuals in the tax filers' tax households are enrolled.
 
-(g) *Reduction of enrollee's portion of premium to account for advance payments of the premium tax credit.* If an Exchange is facilitating the collection and payment of premiums to QHP issuers and stand-alone dental plans on behalf of enrollees under § 155.240, and if a QHP issuer or stand-alone dental plan has been notified that it will receive an advance payment of the premium tax credit on behalf of an enrollee for whom the Exchange is facilitating such functions, the Exchange must -
+(g) *Reduction of enrollee's portion of premium to account for advance payments of the premium tax credit.* If an Exchange is facilitating the collection and payment of premiums to QHP issuers and stand-alone dental plans on behalf of enrollees under § 155.240, and if a QHP issuer or stand-alone dental plan has been notified that it will receive an advance payment of the premium tax credit on behalf of an enrollee for whom the Exchange is facilitating such functions, the Exchange must—
 
 (1) Reduce the portion of the premium for the policy collected from the individual for the applicable month(s) by the amount of the advance payment of the premium tax credit; and
 
@@ -50,4 +48,16 @@ Link to an amendment published at 87 FR 27389, May 6, 2022.
 
 (2) If a refund is requested by or for the enrollee, the refund must be provided within 45 calendar days of the date of the request.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 42320, July 15, 2013; 78 FR 65095, Oct. 30, 2013]
+(i) *Calculation of advance payments of the premium tax credit when policy coverage lasts less than the full coverage month.* (1) For plan years beginning with 2024 and beyond, when an Exchange determines that an individual is eligible for advance payments of the premium tax credit and the enrollee is enrolled in a policy for less than the full coverage month, including when the enrollee is enrolled in multiple policies within a month, each lasting less than the full coverage month—
+
+(i) In an Exchange using the Federal eligibility and enrollment platform, the amount of the advance payment of the premium tax credit paid to the issuer of the policy must equal the product of—
+
+(A) The advance payments of the premium tax credit applied to the policy for one month of coverage divided by the number of days in the month; and
+
+(B) The number of days for which coverage is being provided in the month under the policy described in paragraph (i)(1)(i) of this section.
+
+(ii) [Reserved]
+
+(2) For plan years beginning with 2024 and beyond, a State Exchange operating its own platform will be required to calculate advance payments of the premium tax credit in accordance with a methodology that does not cause the amount of advance payments of the premium tax credit applied to an enrollee's monthly premium to exceed their expected monthly premium assistance credit amount when the enrollee is enrolled in a policy for less than the full coverage month, including when the enrollee is enrolled in multiple policies within a month, each lasting less than the full coverage month, and to prospectively report the methodology it intends to implement in the subsequent plan year to HHS under § 155.1200(b)(2).
+
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 42320, July 15, 2013; 78 FR 65095, Oct. 30, 2013; 87 FR 27389, May 6, 2022]

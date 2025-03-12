@@ -1,7 +1,5 @@
 ##### § 1.77 Arrangement of application elements. #####
 
-Link to an amendment published at 87 FR 30817, May 20, 2022.
-
 (a) The elements of the application, if applicable, should appear in the following order:
 
 (1) Utility application transmittal form.
@@ -26,13 +24,17 @@ Link to an amendment published at 87 FR 30817, May 20, 2022.
 
 (4) The names of the parties to a joint research agreement.
 
-(5) An incorporation by reference statement regarding the material in the one or more ASCII plain text files, submitted via the USPTO patent filing system or on one or more read-only optical discs (*see* § 1.52(e)(8)), identifying the names of each file, the date of creation of each file, and the size of each file in bytes, for the following document types:
+(5) An incorporation by reference statement regarding the material in:
 
-(i) A “Computer Program Listing Appendix” (*see* § 1.96(c));
+(i) One or more ASCII plain text files, submitted via the USPTO patent electronic filing system or on one or more read-only optical discs (*see* § 1.52(e)(8)), identifying the names of each file, the date of creation of each file, and the size of each file in bytes, for the following document types:
 
-(ii) A “Sequence Listing” (*see* § 1.821(c)); or
+(A) A “Computer Program Listing Appendix” (*see* § 1.96(c));
 
-(iii) “Large Tables” (*see* § 1.58(c)).
+(B) A “Sequence Listing” (*see* § 1.821(c)); or
+
+(C) “Large Tables” (*see* § 1.58(c)).
+
+(ii) An XML file for a “Sequence Listing XML” (*see* § 1.831(a)), submitted via the USPTO patent electronic filing system or on one or more read-only optical discs (*see* § 1.52(e)(8)), identifying the names of each file, the date of creation of each file, and the size of each file in bytes.
 
 (6) Statement regarding prior disclosures by the inventor or a joint inventor.
 
@@ -52,4 +54,4 @@ Link to an amendment published at 87 FR 30817, May 20, 2022.
 
 (c) The text of the specification sections defined in paragraphs (b)(1) through (b)(12) of this section, if applicable, should be preceded by a section heading in uppercase and without underlining or bold type.
 
-[65 FR 54668, Sept. 8, 2000, as amended at 70 FR 1823, Jan. 11, 2005; 77 FR 48820, Aug. 14, 2012; 78 FR 11055, Feb. 14, 2013; 86 FR 57047, Oct. 14, 2021; 86 FR 73985, Dec. 29, 2021]
+[65 FR 54668, Sept. 8, 2000, as amended at 70 FR 1823, Jan. 11, 2005; 77 FR 48820, Aug. 14, 2012; 78 FR 11055, Feb. 14, 2013; 86 FR 57047, Oct. 14, 2021; 86 FR 73985, Dec. 29, 2021; 87 FR 30817, May 20, 2022]

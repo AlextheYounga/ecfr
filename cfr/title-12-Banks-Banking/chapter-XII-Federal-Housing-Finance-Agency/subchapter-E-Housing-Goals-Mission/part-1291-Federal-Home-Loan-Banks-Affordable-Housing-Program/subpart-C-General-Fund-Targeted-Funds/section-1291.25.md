@@ -1,10 +1,8 @@
 ##### § 1291.25 Scoring methodologies. #####
 
-Link to an amendment published at 87 FR 32969, June 1, 2022.
-
 (a)(1) *Written scoring methodologies.* A Bank shall establish a written scoring methodology for its General Fund and for any Targeted Fund setting forth the Bank's scoring point allocations as required in paragraph (a)(2) of this section, scoring criteria adopted pursuant to the requirements of §§ 1291.26 and 1291.27, as applicable, and related definitions. The scoring methodology for each Fund may be different. A Bank shall not adopt scoring points allocations or scoring criteria for its General Fund and any Targeted Funds except as specifically authorized under this paragraph (a)(1) and §§ 1291.26 and 1291.27, respectively.
 
-(2) *Scoring points allocations* - (i) *General Fund.* A Bank shall allocate 100 points among all of the scoring criteria adopted by the Bank for its General Fund pursuant to § 1291.26. The scoring criterion for targeting in § 1291.26(d) shall be allocated at least 20 points. The remaining scoring criteria shall be allocated at least 5 points each, except that if a Bank adopts the scoring criterion for home purchase by low- or moderate-income households in § 1291.26(c) as an optional scoring criterion, the Bank may allocate fewer than the full 5 points to it, with the remainder of such points allocated to one or a combination of the other scoring criteria in § 1291.26 other than to the scoring criterion for Bank district priorities in § 1291.26(h). If a Bank adopts a scoring criterion under its Bank district priorities for housing located in the Bank's district, the Bank may not allocate points to the scoring criterion in a way that excludes all out-of-district projects from its General Fund.
+(2) *Scoring points allocations*—(i) *General Fund.* A Bank shall allocate 100 points among all of the scoring criteria adopted by the Bank for its General Fund pursuant to § 1291.26. The scoring criterion for targeting in § 1291.26(d) shall be allocated at least 20 points. The remaining scoring criteria shall be allocated at least 5 points each, except that if a Bank adopts the scoring criterion for home purchase by low- or moderate-income households in § 1291.26(c) as an optional scoring criterion, the Bank may allocate fewer than the full 5 points to it, with the remainder of such points allocated to one or a combination of the other scoring criteria in § 1291.26 other than to the scoring criterion for Bank district priorities in § 1291.26(h). If a Bank adopts a scoring criterion under its Bank district priorities for housing located in the Bank's district, the Bank may not allocate points to the scoring criterion in a way that excludes all out-of-district projects from its General Fund.
 
 (ii) *Targeted Funds.* A Bank shall allocate 100 points among all of the scoring criteria adopted by the Bank for each Targeted Fund pursuant to § 1291.27. A Bank may not allocate more than 50 points to any one scoring criterion for a Targeted Fund.
 
@@ -22,7 +20,7 @@ Link to an amendment published at 87 FR 32969, June 1, 2022.
 
 (2) The Bank shall adopt the policy in advance of an AHP funding round and include it in its AHP Implementation Plan;
 
-(3) The policy shall include the methodology used to break a scoring tie, which may differ for each Fund, and which shall be drawn from the particular Fund's scoring criteria adopted in the Bank's AHP Implementation Plan;
+(3) The policy shall include the methodology used to break a scoring tie, which may differ for each Fund, and which shall be selected from the particular Fund's scoring criteria adopted in the Bank's AHP Implementation Plan;
 
 (4) The scoring tie-breaker methodology shall be reasonable, transparent, verifiable, and impartial;
 
@@ -31,3 +29,5 @@ Link to an amendment published at 87 FR 32969, June 1, 2022.
 (6) The Bank shall approve a tied application as an alternate pursuant to § 1291.28(b) if the application does not prevail under the scoring tie-breaker methodology, or if the application is tied with another application but requested more subsidy than the amount of AHP funds that remain to be awarded, if the Bank has a written policy to approve alternates for funding under the applicable Fund; and
 
 (7) The Bank shall document in writing its analysis and results for each use of the scoring tie-breaker methodology.
+
+[83 FR 61231, Nov. 28, 2018, as amended at 87 FR 32969, June 1, 2022]

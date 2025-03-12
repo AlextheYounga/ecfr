@@ -1,20 +1,18 @@
 ##### § 1291.24 Eligible uses. #####
 
-Link to an amendment published at 87 FR 32969, June 1, 2022.
-
 (a) *Eligible uses of AHP subsidy.* AHP subsidies shall be used only for:
 
 (1) *Owner-occupied housing.* The purchase, construction, or rehabilitation of owner-occupied housing.
 
 (2) *Rental housing.* The purchase, construction, or rehabilitation of rental housing.
 
-(3) *Need for AHP subsidy* - (i) *Review of project development budget.* The project's estimated sources of funds shall equal its estimated uses of funds, as reflected in the project's development budget. The difference between the project's sources of funds (excluding AHP subsidy) and uses of funds is the project's need for AHP subsidy, which is the maximum amount of AHP subsidy the project may receive. A Bank, in its discretion, may permit a project's sources of funds to include or exclude the estimated market value of in-kind donations and voluntary professional labor or services (excluding the value of sweat equity), provided that the project's uses of funds also include or exclude, respectively, the value of such estimates.
+(3) *Need for AHP subsidy*—(i) *Review of project development budget.* The project's estimated sources of funds shall equal its estimated uses of funds, as reflected in the project's development budget. The difference between the project's sources of funds (excluding AHP subsidy) and uses of funds is the project's need for AHP subsidy, which is the maximum amount of AHP subsidy the project may receive. A Bank, in its discretion, may permit a project's sources of funds to include or exclude the estimated market value of in-kind donations and voluntary professional labor or services (excluding the value of sweat equity), provided that the project's uses of funds also include or exclude, respectively, the value of such estimates.
 
 (ii) *Cash sources of funds.* A project's cash sources of funds shall include any cash contributions by the sponsor, any cash from sources other than the sponsor, and estimates of funds the project sponsor intends to obtain from other sources but which have not yet been committed to the project. In the case of homeownership projects where the sponsor extends permanent financing to the homebuyer, the sponsor's cash contribution shall include the present value of any payments the sponsor is to receive from the buyer, which shall include any cash down payment from the buyer, plus the present value of any purchase note the sponsor holds on the unit. If the note carries a market interest rate commensurate with the credit quality of the buyer, the present value of the note equals the face value of the note. If the note carries an interest rate below the market rate, the present value of the note shall be determined using the market rate to discount the cash flows.
 
 (iii) *Cash uses.* A project's cash uses are the actual outlay of cash needed to pay for materials, labor, and acquisition or other costs of completing the project. Cash costs do not include in-kind donations, voluntary professional labor or services, or sweat equity.
 
-(4) *Project costs* - (i) *In general.* (A) Taking into consideration the geographic location of the project, development conditions, and other non-financial household or project characteristics, a Bank shall determine that a project's costs, as reflected in the project's development budget, are reasonable, in accordance with the Bank's project cost guidelines.
+(4) *Project costs*—(i) *In general.* (A) Taking into consideration the geographic location of the project, development conditions, and other non-financial household or project characteristics, a Bank shall determine that a project's costs, as reflected in the project's development budget, are reasonable, in accordance with the Bank's project cost guidelines.
 
 (B) For purposes of determining the reasonableness of a developer's fee for a project as a percentage of total development costs, a Bank may, in its discretion, include estimates of the market value of in-kind donations and volunteer professional labor or services (excluding the value of sweat equity) committed to the project as part of the total development costs.
 
@@ -56,8 +54,10 @@ Link to an amendment published at 87 FR 32969, June 1, 2022.
 
 (c) *Optional Bank district eligibility requirements.* A Bank may require a project receiving AHP subsidies to meet one or more of the following additional eligibility requirements adopted by the Bank's board of directors and included in its AHP Implementation Plan after consultation with its Advisory Council:
 
-(1) *AHP subsidy limits.* A requirement that the amount of AHP subsidy requested for the project does not exceed limits established by the Bank as to the maximum amount of AHP subsidy available per member, per project sponsor, per project, or per project unit in a single AHP funding round. A Bank may establish only one maximum subsidy limit per member, per sponsor, per project, or per project unit for the General Fund and for each Targeted Fund, which shall apply to all applicants to the specific Fund, but the maximum subsidy limit per project or per project unit may differ among the Funds; or
+(1) *AHP subsidy limits.* A requirement that the amount of AHP subsidy requested for the project does not exceed limits established by the Bank as to the maximum amount of AHP subsidy available per member, per project sponsor, per project, or per project unit in a single AHP funding round. Each General Fund or Targeted Fund may contain up to all four of these optional AHP subsidy limits, each of which must apply to all applicants to the specific Fund. A Bank's AHP subsidy limit per member must be the same for each of its Funds and its AHP subsidy limit per project sponsor must be the same for each of its Funds, but a Bank's AHP subsidy limit per project and per project unit may differ among the Funds.
 
 (2) *Homebuyer or homeowner counseling.* A requirement that a household must complete a homebuyer or homeowner counseling program provided by, or based on one provided by, an organization recognized as experienced in homebuyer or homeowner counseling, respectively.
 
-(d) *Applications to multiple Funds - subsidy amount.* If an application for a project is submitted to more than one Fund at the same time, the application for each Fund must be for the same amount of AHP subsidy.
+(d) *Applications to multiple Funds—subsidy amount.* If an application for a project is submitted to more than one Fund at the same time, the application for each Fund must be for the same amount of AHP subsidy.
+
+[83 FR 61231, Nov. 28, 2018, as amended at 87 FR 32969, June 1, 2022]

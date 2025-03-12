@@ -1,10 +1,8 @@
 ##### § 158.170 Allocation of expenses. #####
 
-Link to an amendment published at 87 FR 27393, May 6, 2022.
-
 (a) *General requirements.* Each expense must be reported under only one type of expense, unless a portion of the expense fits under the definition of or criteria for one type of expense and the remainder fits into a different type of expense, in which case the expense must be pro-rated between types of expenses. Expenditures that benefit lines of business or products other than those being reported, including but not limited to those that are for or benefit self-funded plans, must be reported on a pro rata share.
 
-(b) *Description of the methods used to allocate expenses.* The report required in § 158.110 must include a detailed description of the methods used to allocate expenses, including incurred claims, quality improvement expenses (unless the report utilizes the percentage of premium option described in § 158.221(b)(8), in which case the allocation method description should state so), Federal and State taxes and licensing or regulatory fees, and other non-claims costs, to each health insurance market in each State. A detailed description of each expense element must be provided, including how each specific expense meets the criteria for the type of expense in which it is categorized, as well as the method by which it was aggregated.
+(b) *Description of the methods used to allocate expenses.* The report required in § 158.110 must include a detailed description of the methods used to allocate expenses, including incurred claims, quality improvement expenses, Federal and State taxes and licensing or regulatory fees, and other non-claims costs, to each health insurance market in each State. A detailed description of each expense element must be provided, including how each specific expense meets the criteria for the type of expense in which it is categorized, as well as the method by which it was aggregated.
 
 (1) Allocation to each category should be based on a generally accepted accounting method that is expected to yield the most accurate results. Specific identification of an expense with an activity that is represented by one of the categories above will generally be the most accurate method. If a specific identification is not feasible, the issuer should provide an explanation of why it believes the more accurate result will be gained from allocation of expenses based upon pertinent factors or ratios such as studies of employee activities, salary ratios or similar analyses.
 
@@ -16,4 +14,4 @@ Link to an amendment published at 87 FR 27393, May 6, 2022.
 
 (d) *Maintenance of records.* The issuer must maintain and make available to the Secretary upon request the data used to allocate expenses reported under this part together with all supporting information required to determine that the methods identified and reported as required under paragraph (b) of this section were accurately implemented in preparing the report required in § 158.110 of this subpart.
 
-[75 FR 74921, Dec. 1, 2010, as amended at 83 FR 17070, Apr. 17, 2018]
+[75 FR 74921, Dec. 1, 2010, as amended at 87 FR 27393, May 6, 2022]

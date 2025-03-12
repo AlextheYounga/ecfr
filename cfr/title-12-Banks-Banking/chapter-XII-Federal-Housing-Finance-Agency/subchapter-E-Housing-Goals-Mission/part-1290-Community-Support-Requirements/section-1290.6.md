@@ -1,7 +1,5 @@
 ##### § 1290.6 Bank community support programs. #####
 
-Link to an amendment published at 87 FR 32969, June 1, 2022.
-
 (a) *Requirement.* Consistent with the safe and sound operation of the Bank, each Bank shall establish and maintain a community support program. A Bank's community support program shall:
 
 (1) Provide technical assistance to members;
@@ -32,6 +30,6 @@ Link to an amendment published at 87 FR 32969, June 1, 2022.
 
 (2) Summarizing targeted community lending and affordable housing activities undertaken by members, housing associates, nonprofit housing developers, community groups, or other entities in the Bank's district that may provide opportunities for a member to meet the community support requirements and to engage in targeted community lending.
 
-(c) *Public access.* A Bank shall publish its current Targeted Community Lending Plan on its publicly available website, and shall publish any amendments to its Targeted Community Lending Plan on the website within 30 days after the date of their adoption by the Bank's board of directors. If a Bank plans to establish any Targeted Funds under its Affordable Housing Program, the Bank must publish its Targeted Community Lending Plan (as amended) on the website on or before the date of publication of its annual Affordable Housing Program Implementation Plan, and at least 90 days before the first day that applications may be submitted to the Targeted Fund, unless the Targeted Fund is specifically targeted to address a federal- or state-declared disaster.
+(c) *Public access.* A Bank shall publish its current Targeted Community Lending Plan on its publicly available website, and shall publish any amendments to its Targeted Community Lending Plan on the website within 30 days after the date of their adoption by the Bank's board of directors and no later than the date of publication on the website of its annual Affordable Housing Program Implementation Plan (as amended). If such amendments relate to the Bank's Affordable Housing Program, the Bank shall publish them no later than the date of publication on its website of its annual Affordable Housing Program Implementation Plan (as amended). If a Bank plans to establish any Targeted Funds under its Affordable Housing Program, the Bank must publish its Targeted Community Lending Plan (as amended) on the website at least 90 days before the first day that applications may be submitted to the Targeted Fund, unless the Targeted Fund is specifically targeted to address a Federal- or State-declared disaster.
 
-[80 FR 30342, May 28, 2015, as amended at 83 FR 61231, Nov. 28, 2018]
+[80 FR 30342, May 28, 2015, as amended at 83 FR 61231, Nov. 28, 2018; 87 FR 32969, June 1, 2022]

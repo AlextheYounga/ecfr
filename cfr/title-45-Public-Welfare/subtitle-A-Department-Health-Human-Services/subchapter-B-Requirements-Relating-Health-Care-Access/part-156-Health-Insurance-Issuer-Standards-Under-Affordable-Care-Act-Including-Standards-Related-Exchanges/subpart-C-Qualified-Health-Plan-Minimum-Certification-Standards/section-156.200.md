@@ -1,16 +1,14 @@
 ##### § 156.200 QHP issuer participation standards. #####
 
-Link to an amendment published at 87 FR 27391, May 6, 2022.
-
 (a) *General requirement.* In order to participate in an Exchange, a health insurance issuer must have in effect a certification issued or recognized by the Exchange to demonstrate that each health plan it offers in the Exchange is a QHP.
 
-(b) *QHP issuer requirement.* A QHP issuer must -
+(b) *QHP issuer requirement.* A QHP issuer must—
 
 (1) Comply with the requirements of this subpart with respect to each of its QHPs on an ongoing basis;
 
 (2) Comply with Exchange processes, procedures, and requirements set forth in accordance with subpart K of part 155 of this subchapter and, in the small group market, §§ 155.705 and 155.706 of this subchapter;
 
-(3) Ensure that each QHP complies with benefit design standards, as defined in § 156.20;
+(3) Ensure that each QHP complies with benefit design standards, as defined in § 156.20, except that individual market silver QHPs must have an AV of 70 percent, with a *de minimis* allowable AV variation of −0 percentage points and +2 percentage points;
 
 (4) Be licensed and in good standing to offer health insurance coverage in each State in which the issuer offers health insurance coverage;
 
@@ -42,4 +40,4 @@ Link to an amendment published at 87 FR 27391, May 6, 2022.
 
 (h) *Operational requirements.* As a condition of certification of a QHP, an issuer must attest that it will comply with all QHP operational requirements described in subparts D, E, H, K, L, and M of this part.
 
-[77 FR 18469, Mar. 27, 2012, as amended at 78 FR 15535, Mar. 11, 2013; 79 FR 30351, May 27, 2014; 80 FR 10873, Feb. 27, 2015; 81 FR 94181, Dec. 22, 2016; 83 FR 17069, Apr. 17, 2018; 85 FR 37248, June 19, 2020]
+[77 FR 18469, Mar. 27, 2012, as amended at 78 FR 15535, Mar. 11, 2013; 79 FR 30351, May 27, 2014; 80 FR 10873, Feb. 27, 2015; 81 FR 94181, Dec. 22, 2016; 83 FR 17069, Apr. 17, 2018; 85 FR 37248, June 19, 2020; 87 FR 27391, May 6, 2022]

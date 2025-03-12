@@ -1,7 +1,5 @@
 ##### § 155.206 Civil money penalties for violations of applicable Exchange standards by consumer assistance entities in Federally-facilitated Exchanges. #####
 
-Link to an amendment published at 87 FR 27388, May 6, 2022.
-
 (a) *Enforcement actions.* If an individual or entity specified in paragraph (b) of this section engages in activity specified in paragraph (c) of this section, the Department of Health and Human Services (HHS) may impose the following sanctions:
 
 (1) Civil money penalties (CMPs), subject to the provisions of this section.
@@ -18,7 +16,7 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (c) *Grounds for assessing CMPs.* HHS may assess CMPs against a consumer assistance entity if, based on the outcome of the investigative process outlined in paragraphs (d) through (i) of this section, HHS has reasonably determined that the consumer assistance entity has failed to comply with the Federal regulatory requirements applicable to the consumer assistance entity that have been implemented pursuant to section 1321(a)(1) of the Affordable Care Act, including provisions of any agreements, contracts, and grant terms and conditions between HHS and the consumer assistance entity that interpret those Federal regulatory requirements or establish procedures for compliance with them, unless a CMP has been assessed for the same conduct under 45 CFR 155.285.
 
-(d) *Basis for initiating an investigation of a potential violation* - (1) *Information.* Any information received or learned by HHS that indicates that a consumer assistance entity may have engaged or may be engaging in activity specified in paragraph (c) of this section may warrant an investigation. Information that might trigger an investigation includes, but is not limited to, the following:
+(d) *Basis for initiating an investigation of a potential violation*—(1) *Information.* Any information received or learned by HHS that indicates that a consumer assistance entity may have engaged or may be engaging in activity specified in paragraph (c) of this section may warrant an investigation. Information that might trigger an investigation includes, but is not limited to, the following:
 
 (i) Complaints from the general public;
 
@@ -46,7 +44,7 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (i) The consumer assistance entity's previous or ongoing record of compliance, including but not limited to compliance or noncompliance with any corrective action plan.
 
-(ii) The gravity of the violation, which may be determined in part by -
+(ii) The gravity of the violation, which may be determined in part by—
 
 (A) The frequency of the violation, taking into consideration whether any violation is an isolated occurrence, represents a pattern, or is widespread; and
 
@@ -54,11 +52,11 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (2) HHS may take into account the following:
 
-(i) The degree of culpability of the consumer assistance entity, including but not limited to -
+(i) The degree of culpability of the consumer assistance entity, including but not limited to—
 
 (A) Whether the violation was beyond the direct control of the consumer assistance entity; and
 
-(B) The extent to which the consumer assistance entity received compensation - legal or otherwise - for the services associated with the violation;
+(B) The extent to which the consumer assistance entity received compensation—legal or otherwise—for the services associated with the violation;
 
 (ii) Aggravating or mitigating circumstances;
 
@@ -66,11 +64,11 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (iv) Other such factors as justice may require.
 
-(i) *Maximum per-day penalty.* The maximum amount of penalty imposed for each violation is $100 for each day for each consumer assistance entity for each individual directly affected by the consumer assistance entity's noncompliance; and where the number of individuals cannot be determined, HHS may reasonably estimate the number of individuals directly affected by the violation.
+(i) *Maximum per-day penalty.* The maximum amount of penalty imposed for each violation is $100 for each day, as adjusted annually under 45 CFR part 102, for each consumer assistance entity for each individual directly affected by the consumer assistance entity's noncompliance; and where the number of individuals cannot be determined, HHS may reasonably estimate the number of individuals directly affected by the violation.
 
 (j) *Settlement authority.* Nothing in § 155.206 limits the authority of HHS to settle any issue or case described in the notice furnished in accordance with paragraph (e) of this section or to compromise on any penalty provided for in this section.
 
-(k) *Limitations on penalties* - (1) *Circumstances under which a CMP is not imposed.* HHS will not impose any CMP on:
+(k) *Limitations on penalties*—(1) *Circumstances under which a CMP is not imposed.* HHS will not impose any CMP on:
 
 (i) Any violation for the period of time during which none of the consumer assistance entities knew, or exercising reasonable diligence would have known, of the violation; or
 
@@ -104,4 +102,4 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (3) The consumer assistance entity has no right to appeal a CMP with respect to which it has not requested a hearing in accordance with paragraph (m) of this section unless the consumer assistance entity can show good cause in accordance with § 150.405(b) of this subchapter for failing to timely exercise its right to a hearing.
 
-[79 FR 30342, May 27, 2014]
+[79 FR 30342, May 27, 2014, as amended at 87 FR 27388, May 6, 2022]

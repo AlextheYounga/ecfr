@@ -1,7 +1,5 @@
 ##### § 153.710 Data requirements. #####
 
-Link to an amendment published at 87 FR 27387, May 6, 2022.
-
 (a) *Enrollment, claims, and encounter data.* An issuer of a risk adjustment covered plan or a reinsurance-eligible plan in a State in which HHS is operating the risk adjustment or reinsurance program, as applicable, must provide to HHS, through the dedicated data environment, access to enrollee-level plan enrollment data, enrollee claims data, and enrollee encounter data as specified by HHS.
 
 (b) *Claims data.* All claims data submitted by an issuer of a risk adjustment covered plan or a reinsurance-eligible plan in a State in which HHS is operating the risk adjustment or reinsurance program, as applicable, must have resulted in payment by the issuer (or payment of cost sharing by the enrollee).
@@ -26,18 +24,20 @@ Link to an amendment published at 87 FR 27387, May 6, 2022.
 
 (h) *Risk corridors and MLR reporting.* Except as provided in paragraph (h)(3) of this section:
 
-(1) Notwithstanding any discrepancy report made under paragraph (d)(2) of this section, or any request for reconsideration under § 156.1220(a) of this subchapter with respect to any risk adjustment payment or charge, including an assessment of risk adjustment user fees; reinsurance payment; cost-sharing reduction payment or charge; or risk corridors payment or charge, unless the dispute has been resolved, an issuer must report, for purposes of the risk corridors and MLR programs:
+(1) Notwithstanding any discrepancy report made under paragraph (d)(2) of this section, any discrepancy filed under § 153.630(d)(2), or any request for reconsideration under § 156.1220(a) of this subchapter with respect to any risk adjustment payment or charge, including an assessment of risk adjustment user fees and risk adjustment data validation adjustments; reinsurance payment; cost-sharing reduction payment or charge; or risk corridors payment or charge, unless the dispute has been resolved, an issuer must report, for purposes of the risk corridors and MLR programs:
 
 (i) The risk adjustment payment to be made or charge assessed, including an assessment of risk adjustment user fees, by HHS in the notification provided under § 153.310(e);
 
 (ii) The reinsurance payment to be made by HHS in the notification provided under § 153.240(b)(1)(ii);
 
-(iii) A cost-sharing reduction amount equal to the actual amount of cost-sharing reductions for the benefit year as calculated under § 156.430(c) of this subchapter, to the extent not reimbursed to the provider furnishing the item or service; and
+(iii) A cost-sharing reduction amount equal to the actual amount of cost-sharing reductions for the benefit year as calculated under § 156.430(c) of this subchapter, to the extent not reimbursed to the provider furnishing the item or service;
 
-(iv) For medical loss ratio reporting only, the risk corridors payment to be made or charge assessed by HHS under § 153.510.
+(iv) For medical loss ratio reporting only, the risk corridors payment to be made or charge assessed by HHS under § 153.510; and
 
-(2) An issuer must report during the current MLR and risk corridors reporting year any adjustment made or approved by HHS for any risk adjustment payment or charge, including an assessment of risk adjustment user fees; any reinsurance payment; any cost-sharing reduction payment or charge; or any risk corridors payment or charge before August 15, or the next applicable business day, of the current MLR and risk corridors reporting year unless instructed otherwise by HHS. An issuer must report any adjustment made or approved by HHS for any risk adjustment payment or charge, including an assessment of risk adjustment user fees; any reinsurance payment; any cost-sharing reduction payment or charge; or any risk corridors payment or charge where such adjustment has not been accounted for in a prior MLR and Risk Corridor Annual Reporting Form, in the MLR and Risk Corridors Annual Reporting Form for the following reporting year.
+(v) The risk adjustment data validation adjustment calculated by HHS in the applicable benefit year's Summary Report of Benefit Year Risk Adjustment Data Validation Adjustments to Risk Adjustment Transfers.
 
-(3) In cases where HHS reasonably determines that the reporting instructions in paragraph (g)(1) or (2) of this section would lead to unfair or misleading financial reporting, issuers must correct their data submissions in a form and manner to be specified by HHS.
+(2) An issuer must report during the current MLR and risk corridors reporting year any adjustment made or approved by HHS for any risk adjustment payment or charge, including an assessment of risk adjustment user fees and risk adjustment data validation adjustments; any reinsurance payment; any cost-sharing reduction payment or charge; or any risk corridors payment or charge before August 15, or the next applicable business day, of the current MLR and risk corridors reporting year unless instructed otherwise by HHS. An issuer must report any adjustment made or approved by HHS for any risk adjustment payment or charge, including an assessment of risk adjustment user fees and risk adjustment data validation adjustments; any reinsurance payment; any cost-sharing reduction payment or charge; or any risk corridors payment or charge where such adjustment has not been accounted for in a prior MLR and Risk Corridors Annual Reporting Form, in the MLR and Risk Corridors Annual Reporting Form for the following reporting year.
 
-[78 FR 15531, Mar. 11, 2013, as amended at 79 FR 13837, Mar. 11, 2014; 81 FR 12335, Mar. 8, 2016; 86 FR 24288, May 5, 2021]
+(3) In cases where HHS reasonably determines that the reporting instructions in paragraph (h)(1) or (2) of this section would lead to unfair or misleading financial reporting, issuers must correct their data submissions in a form and manner to be specified by HHS.
+
+[78 FR 15531, Mar. 11, 2013, as amended at 79 FR 13837, Mar. 11, 2014; 81 FR 12335, Mar. 8, 2016; 86 FR 24288, May 5, 2021; 87 FR 27387, May 6, 2022]

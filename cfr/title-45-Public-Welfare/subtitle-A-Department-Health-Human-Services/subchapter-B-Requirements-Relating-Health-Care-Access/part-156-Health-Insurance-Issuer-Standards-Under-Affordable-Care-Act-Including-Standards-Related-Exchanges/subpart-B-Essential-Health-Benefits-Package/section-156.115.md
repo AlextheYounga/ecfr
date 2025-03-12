@@ -1,8 +1,6 @@
 ##### § 156.115 Provision of EHB. #####
 
-Link to an amendment published at 87 FR 27390, May 6, 2022.
-
-(a) Provision of EHB means that a health plan provides benefits that -
+(a) Provision of EHB means that a health plan provides benefits that—
 
 (1) Are substantially equal to the EHB-benchmark plan including:
 
@@ -18,7 +16,7 @@ Link to an amendment published at 87 FR 27390, May 6, 2022.
 
 (4) Include preventive health services described in § 147.130 of this subchapter.
 
-(5) With respect to habilitative services and devices -
+(5) With respect to habilitative services and devices—
 
 (i) Cover health care services and devices that help a person keep, learn, or improve skills and functioning for daily living (habilitative services). Examples include therapy for a child who is not walking or talking at the expected age. These services may include physical and occupational therapy, speech-language pathology and other services for people with disabilities in a variety of inpatient and/or outpatient settings;
 
@@ -28,7 +26,7 @@ Link to an amendment published at 87 FR 27390, May 6, 2022.
 
 (6) For plan years beginning on or after January 1, 2016, for pediatric services that are required under § 156.110(a)(10), provide coverage for enrollees until at least the end of the month in which the enrollee turns 19 years of age.
 
-(b) An issuer of a plan offering EHB may substitute benefits for those provided in the EHB-benchmark plan under the following conditions -
+(b) An issuer of a plan offering EHB may substitute benefits for those provided in the EHB-benchmark plan under the following conditions—
 
 (1) The issuer substitutes a benefit that:
 
@@ -36,11 +34,7 @@ Link to an amendment published at 87 FR 27390, May 6, 2022.
 
 (ii) Is not a prescription drug benefit.
 
-(2) An issuer may substitute a benefit under this paragraph:
-
-(i) Within the same EHB category, unless prohibited by applicable State requirements; and
-
-(ii) For plan years beginning on or after January 1, 2020, between EHB categories, if the State in which the plan will be offered has notified HHS that substitution between EHB categories is permitted in the State.
+(2) An issuer may substitute a benefit within the same EHB category, unless prohibited by applicable State requirements. Substitution of benefits between EHB categories is not permitted.
 
 (3) The plan that includes substituted benefits must:
 
@@ -64,4 +58,4 @@ Link to an amendment published at 87 FR 27390, May 6, 2022.
 
 (d) An issuer of a plan offering EHB may not include routine non-pediatric dental services, routine non-pediatric eye exam services, long-term/custodial nursing home care benefits, or non-medically necessary orthodontia as EHB.
 
-[78 FR 12866, Feb. 25, 2013, as amended at 80 FR 10871, Feb. 27, 2015; 81 FR 12349, Mar. 8, 2016; 83 FR 17069, Apr. 17, 2018; 86 FR 53506, Sept. 27, 2021]
+[78 FR 12866, Feb. 25, 2013, as amended at 80 FR 10871, Feb. 27, 2015; 81 FR 12349, Mar. 8, 2016; 83 FR 17069, Apr. 17, 2018; 86 FR 53506, Sept. 27, 2021; 87 FR 27390, May 6, 2022]

@@ -14,9 +14,9 @@
 
 (2) If a manufacturer divides or divests itself of a portion of its automobile manufacturing business, it must inform NHTSA how it plans to divide the manufacturer's credit holdings into two or more accounts. NHTSA will subsequently distribute holdings as directed by the manufacturer, subject to provision for reasonably anticipated compliance obligations.
 
-(3) If a manufacturer is a successor to another manufacturer's business, it must inform NHTSA how it plans to allocate credits and resolve liabilities per 49 CFR Part 534, Rights and Responsibilities of Manufacturers in the Context of Corporate Relationships.
+(3) If a manufacturer is a successor to another manufacturer's business, it must inform NHTSA how it plans to allocate credits and resolve liabilities per part 534 of this chapter.
 
-(d) *No short or forward sales.* NHTSA will not honor any instructions to trade or transfer more credits than are currently held in any account. NHTSA will not honor instructions to trade or transfer credits from any future vintage (*i.e.*, credits not yet earned). NHTSA will not participate in or facilitate contingent trades.
+(d) *No short or forward sales.* NHTSA will not honor any instructions to trade or transfer more credits than are currently held in any account. NHTSA will not honor instructions to trade or transfer credits from any future vintage (*i.e.,* credits not yet earned). NHTSA will not participate in or facilitate contingent trades.
 
 (e) *Cancellation of credits.* A credit holder may instruct NHTSA to cancel its currently held credits, specifying the originating manufacturer, vintage, and compliance category of the credits to be cancelled. These credits will be permanently null and void; NHTSA will remove the specific credits from the credit holder's account, and will not reissue them to any other party.
 

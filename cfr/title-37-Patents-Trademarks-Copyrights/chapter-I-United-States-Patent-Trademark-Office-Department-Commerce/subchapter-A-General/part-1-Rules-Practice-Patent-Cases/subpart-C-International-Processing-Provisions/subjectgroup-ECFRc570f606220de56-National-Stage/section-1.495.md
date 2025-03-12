@@ -1,7 +1,5 @@
 ##### § 1.495 Entering the national stage in the United States of America. #####
 
-Link to an amendment published at 87 FR 30818, May 20, 2022.
-
 (a) The applicant in an international application must fulfill the requirements of 35 U.S.C. 371 within the time periods set forth in paragraphs (b) and (c) of this section in order to prevent the abandonment of the international application as to the United States of America. The thirty-month time period set forth in paragraphs (b), (c), (d), (e) and (h) of this section may not be extended.
 
 (b) To avoid abandonment of the application, the applicant shall furnish to the United States Patent and Trademark Office not later than the expiration of thirty months from the priority date:
@@ -38,7 +36,7 @@ Link to an amendment published at 87 FR 30818, May 20, 2022.
 
 (4) The payment of the processing fee set forth in § 1.492(i) is required for acceptance of an English translation later than the expiration of thirty months after the priority date. The payment of the surcharge set forth in § 1.492(h) is required for acceptance of any of the search fee, the examination fee, or the inventor's oath or declaration after the date of the commencement of the national stage (§ 1.491(a)).
 
-(5) A “Sequence Listing” need not be translated if the “Sequence Listing” complies with PCT Rule 12.1(d) and the description complies with PCT Rule 5.2(b).
+(5) For international applications having an international filing date before July 1, 2022, a sequence listing need not be translated if the sequence listing complies with PCT Rule 12.1(d) and the description complies with PCT Rule 5.2(b). For international applications having an international filing date on or after July 1, 2022, for purposes of paragraph (c)(1)(i) of this section, an English translation is required for any sequence listing in XML format (“Sequence Listing XML”) containing non-English language values for any language-dependent free text qualifiers in accordance with §§ 1.831 through 1.834.
 
 (d) A copy of any amendments to the claims made under PCT Article 19, and a translation of those amendments into English, if they were made in another language, must be furnished not later than the expiration of thirty months from the priority date. Amendments under PCT Article 19 which are not received by the expiration of thirty months from the priority date will be considered to be canceled.
 
@@ -50,4 +48,4 @@ Link to an amendment published at 87 FR 30818, May 20, 2022.
 
 (h) An international application becomes abandoned as to the United States thirty months from the priority date if the requirements of paragraph (b) of this section have not been complied with within thirty months from the priority date.
 
-[52 FR 20051, May 28, 1987, as amended at 58 FR 4347, Jan. 14, 1993; 63 FR 29620, June 1, 1998; 65 FR 57060, Sept. 20, 2000; 67 FR 523, Jan. 4, 2002; 68 FR 71007, Dec. 22, 2003; 70 FR 3892, Jan. 27, 2005; 70 FR 30365, May 26, 2005; 72 FR 46843, Aug. 21, 2007; 74 FR 52691, Oct. 14, 2009; 77 FR 48824, Aug. 14, 2012; 78 FR 62407, Oct. 21, 2013]
+[52 FR 20051, May 28, 1987, as amended at 58 FR 4347, Jan. 14, 1993; 63 FR 29620, June 1, 1998; 65 FR 57060, Sept. 20, 2000; 67 FR 523, Jan. 4, 2002; 68 FR 71007, Dec. 22, 2003; 70 FR 3892, Jan. 27, 2005; 70 FR 30365, May 26, 2005; 72 FR 46843, Aug. 21, 2007; 74 FR 52691, Oct. 14, 2009; 77 FR 48824, Aug. 14, 2012; 78 FR 62407, Oct. 21, 2013; 87 FR 30818, May 20, 2022]

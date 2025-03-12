@@ -2,7 +2,7 @@
 
 (a) Carryback credits earned in a compliance category in any model year may be used in carryback plans approved by NHTSA, pursuant to 49 U.S.C. 32903(b), for up to three model years prior to the year in which the credit was earned.
 
-(b) For purposes of this regulation, NHTSA will treat the use of future credits for compliance, as through a carryback plan, as a deferral of penalties for non-compliance with an applicable fuel economy standard.
+(b) For purposes of this part, NHTSA will treat the use of future credits for compliance, as through a carryback plan, as a deferral of penalties for non-compliance with an applicable fuel economy standard.
 
 (c) If NHTSA receives and approves a manufacturer's carryback plan to earn future credits within the following three model years in order to comply with current regulatory obligations, NHTSA will defer levying fines for non-compliance until the date(s) when the manufacturer's approved plan indicates that credits will be earned or acquired to achieve compliance, and upon receiving confirmed CAFE data from EPA. If the manufacturer fails to acquire or earn sufficient credits by the plan dates, NHTSA will initiate compliance proceedings.
 

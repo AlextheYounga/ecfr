@@ -1,8 +1,6 @@
 ##### § 155.220 Ability of States to permit agents and brokers and web-brokers to assist qualified individuals, qualified employers, or qualified employees enrolling in QHPs. #####
 
-Link to an amendment published at 87 FR 27388, May 6, 2022.
-
-(a) *General rule.* A State may permit agents, brokers, and web-brokers to -
+(a) *General rule.* A State may permit agents, brokers, and web-brokers to—
 
 (1) Enroll individuals, employers or employees in any QHP in the individual or small group market as soon as the QHP is offered through an Exchange in the State;
 
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (2) A Federally-facilitated Exchange or SHOP will limit the information provided on its Web site regarding licensed agents and brokers to information regarding licensed agents and brokers who have completed registration and training.
 
-(c) *Enrollment through the Exchange.* A qualified individual may be enrolled in a QHP through the Exchange with the assistance of an agent, broker, or web-broker if -
+(c) *Enrollment through the Exchange.* A qualified individual may be enrolled in a QHP through the Exchange with the assistance of an agent, broker, or web-broker if—
 
 (1) The agent, broker, or web-broker ensures the applicant's completion of an eligibility verification and enrollment application through the Exchange internet website as described in § 155.405, or ensures that the eligibility application information is submitted for an eligibility determination through the Exchange-approved web service subject to meeting the requirements in paragraphs (c)(3)(ii) and (c)(4)(i)(F) of this section;
 
@@ -22,7 +20,19 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (3)(i) When an internet website of a web-broker is used to complete the QHP selection, at a minimum the internet website must:
 
-(A) Disclose and display all QHP information provided by the Exchange or directly by QHP issuers consistent with the requirements of § 155.205(b)(1) and (c), and to the extent that not all information required under § 155.205(b)(1) is displayed on the web-broker's internet website for a QHP, prominently display a standardized disclaimer provided by HHS stating that information required under § 155.205(b)(1) for the QHP is available on the Exchange website, and provide a Web link to the Exchange website;
+(A) Disclose and display the following QHP information provided by the Exchange or directly by QHP issuers consistent with the requirements of § 155.205(c), and to the extent that enrollment support for a QHP is not available using the web-broker's website, prominently display a standardized disclaimer provided by HHS stating that enrollment support for the QHP is available on the Exchange website, and provide a Web link to the Exchange website:
+
+(*1*) Premium and cost-sharing information;
+
+(*2*) The summary of benefits and coverage established under section 2715 of the PHS Act;
+
+(*3*) Identification of whether the QHP is a bronze, silver, gold, or platinum level plan as defined by section 1302(d) of the Affordable Care Act, or a catastrophic plan as defined by section 1302(e) of the Affordable Care Act;
+
+(*4*) The results of the enrollee satisfaction survey, as described in section 1311(c)(4) of the Affordable Care Act;
+
+(*5*) Quality ratings assigned in accordance with section 1311(c)(3) of the Affordable Care Act; and
+
+(*6*) The provider directory made available to the Exchange in accordance with § 156.230 of this subchapter.
 
 (B) Provide consumers the ability to view all QHPs offered through the Exchange;
 
@@ -44,7 +54,9 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (K) Comply with the applicable requirements in § 155.221; and
 
-(L) Not display QHP recommendations based on compensation the agent, broker, or web-broker receives from QHP issuers.
+(L) Not display QHP advertisements or recommendations, or otherwise provide favored or preferred placement in the display of QHPs, based on compensation the agent, broker, or web-broker receives from QHP issuers; and
+
+(M) Prominently display a clear explanation of the rationale for QHP recommendations and the methodology for its default display of QHPs.
 
 (ii) When an internet website of a web-broker is used to complete the Exchange eligibility application, at a minimum the internet website must:
 
@@ -112,7 +124,7 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (2) The notice must include the intended date of termination, but if it does not specify a date of termination, or the date provided is not acceptable to HHS, HHS may set a different termination date that will be no less than 30 days from the date on the agent's, broker's, or web-broker's notice of termination.
 
-(3) Prior to the date of termination, an agent, broker, or web-broker should -
+(3) Prior to the date of termination, an agent, broker, or web-broker should—
 
 (i) Notify applicants, qualified individuals, or enrollees that the agent, broker, or web-broker is assisting, of the agent's, broker's, or web-broker's intended date of termination;
 
@@ -124,7 +136,7 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (g) *Standards for termination for cause from the Federally-facilitated Exchange.* (1) If, in HHS' determination, a specific finding of noncompliance or pattern of noncompliance is sufficiently severe, HHS may terminate an agent's, broker's, or web-broker's agreement with the Federally-facilitated Exchange for cause.
 
-(2) An agent, broker, or web-broker may be determined noncompliant if HHS finds that the agent, broker, or web-broker violated -
+(2) An agent, broker, or web-broker may be determined noncompliant if HHS finds that the agent, broker, or web-broker violated—
 
 (i) Any standard specified under this section;
 
@@ -140,7 +152,7 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (4) After the applicable period in paragraph (g)(3) of this section has elapsed and the agreement under paragraph (d) of this section is terminated, the agent, broker, or web-broker will no longer be registered with the Federally-facilitated Exchanges, or be permitted to assist with or facilitate enrollment of a qualified individual, qualified employer, or qualified employee in coverage in a manner that constitutes enrollment through a Federally-facilitated Exchange, or be permitted to assist individuals in applying for advance payments of the premium tax credit and cost-sharing reductions for QHPs. The agent's, broker's, or web-broker's agreement with the Exchange under § 155.260(b)(2) will also be terminated through the process set forth in that agreement. The agent, broker, or web-broker must continue to protect any personally identifiable information accessed during the term of either of these agreements with the Federally-facilitated Exchanges.
 
-(5) Fraud or abusive conduct -
+(5) Fraud or abusive conduct—
 
 (i)(A) If HHS reasonably suspects that an agent, broker, or web-broker may have may have engaged in fraud, or in abusive conduct that may cause imminent or ongoing consumer harm using personally identifiable information of an Exchange enrollee or applicant or in connection with an Exchange enrollment or application, HHS may temporarily suspend the agent's, broker's, or web-broker's agreements required under paragraph (d) of this section and under § 155.260(b) for up to 90 calendar days. Suspension will be effective on the date of the notice that HHS sends to the agent, broker, or web-broker advising of the suspension of the agreements.
 
@@ -152,7 +164,7 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (6) The State department of insurance or equivalent State agent or broker licensing authority will be notified by HHS in cases of suspensions or terminations effectuated under this paragraph (g).
 
-(h) *Request for reconsideration of termination for cause from the Federally-facilitated Exchange* - (1) *Request for reconsideration.* An agent, broker, or web-broker whose agreement with the Federally-facilitated Exchange has been terminated may request reconsideration of such action in the manner and form established by HHS.
+(h) *Request for reconsideration of termination for cause from the Federally-facilitated Exchange*—(1) *Request for reconsideration.* An agent, broker, or web-broker whose agreement with the Federally-facilitated Exchange has been terminated may request reconsideration of such action in the manner and form established by HHS.
 
 (2) *Timeframe for request.* The agent, broker, or web-broker must submit a request for reconsideration to the HHS reconsideration entity within 30 calendar days of the date of the written notice from HHS.
 
@@ -160,7 +172,7 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (i) *Use of agents' and brokers' and web-brokers' internet websites for SHOP.* For plan years beginning on or after January 1, 2015, in States that permit this activity under State law, a SHOP may permit agents, brokers, and web-brokers to use an internet website to assist qualified employers and facilitate enrollment of enrollees in a QHP through the Exchange, under paragraph (c)(3) of this section.
 
-(j) *Federally-facilitated Exchange standards of conduct.* (1) An agent, broker, or web-broker that assists with or facilitates enrollment of qualified individuals, qualified employers, or qualified employees, in coverage in a manner that constitutes enrollment through a Federally-facilitated Exchange, or assists individuals in applying for advance payments of the premium tax credit and cost-sharing reductions for QHPs sold through a Federally-facilitated Exchange, must -
+(j) *Federally-facilitated Exchange standards of conduct.* (1) An agent, broker, or web-broker that assists with or facilitates enrollment of qualified individuals, qualified employers, or qualified employees, in coverage in a manner that constitutes enrollment through a Federally-facilitated Exchange, or assists individuals in applying for advance payments of the premium tax credit and cost-sharing reductions for QHPs sold through a Federally-facilitated Exchange, must—
 
 (i) Have executed the required agreement under paragraph § 155.260(b);
 
@@ -168,21 +180,39 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (iii) Comply with the standards of conduct in paragraph (j)(2) of this section.
 
-(2) Standards of conduct. An individual or entity described in paragraph (j)(1) of this section must -
+(2) Standards of conduct. An individual or entity described in paragraph (j)(1) of this section must—
 
 (i) Provide consumers with correct information, without omission of material fact, regarding the Federally-facilitated Exchanges, QHPs offered through the Federally-facilitated Exchanges, and insurance affordability programs, and refrain from marketing or conduct that is misleading (including by having a direct enrollment website that HHS determines could mislead a consumer into believing they are visiting *HealthCare.gov*), coercive, or discriminates based on race, color, national origin, disability, age, or sex;
 
-(ii) Provide the Federally-facilitated Exchanges with correct information under section 1411(b) of the Affordable Care Act;
+(ii) Provide the Federally-facilitated Exchanges with correct information under section 1411(b) of the Affordable Care Act, including, but not limited to:
+
+(A) Entering only an email address on an application for Exchange coverage or an application for advance payments of the premium tax credit and cost-sharing reductions for QHPs that belongs to the consumer or the consumer's authorized representative designated in compliance with § 155.227. A consumer's email address may only be entered with the consent of the consumer or the consumer's authorized representative. Properly entered email addresses must adhere to the following guidelines:
+
+(*1*) The email address must be accessible by the consumer, or the consumer's authorized representative designated in compliance with § 155.227, and may not be accessible by the agent, broker, or web-broker assisting the consumer; and
+
+(*2*) The email address may not have domains that belong to the agent, broker, or web-broker or their business or agency.
+
+(B) Entering only a telephone number on an application for Exchange coverage or an application for advance payments of the premium tax credit and cost-sharing reductions for QHPs that belongs to the consumer or their authorized representative designated in compliance with § 155.227. Telephone numbers may not be the personal number or business number of the agent, broker, or web-broker assisting the consumer, or their business or agency, unless the telephone number is actually that of the consumer or their authorized representative.
+
+(C) Entering only a mailing address on an application for Exchange coverage or an application for advance payments of the premium tax credit and cost-sharing reductions for QHPs that belongs to, or is primarily accessible by, the consumer or their authorized representative designated in compliance with § 155.227, is not for the exclusive or convenient use of the agent, broker, or web-broker, and is an actual residence or a secure location where the consumer or their authorized representative may receive correspondence, such as a P.O. Box or homeless shelter. Mailing addresses may not be that of the agent, broker, or web-broker assisting the consumer, or their business or agency, unless the address is the actual residence of the consumer or their authorized representative.
+
+(D) When submitting household income projections used by the Exchange to determine a tax filer's eligibility for advance payments of the premium tax credit in accordance with § 155.305(f) or cost-sharing reductions in accordance with § 155.305(g), entering only a consumer's household income projection that the consumer or the consumer's authorized representative designated in compliance with § 155.227 has knowingly authorized and confirmed as accurate. Household income projections must be calculated and attested to by the consumer. The agent, broker, or web-broker assisting the consumer may answer questions posed by the consumer related to household income projection, such as helping the consumer determine what qualifies as income.
 
 (iii) Obtain the consent of the individual, employer, or employee prior to assisting with or facilitating enrollment through a Federally-facilitated Exchange, or assisting the individual in applying for advance payments of the premium tax credit and cost-sharing reductions for QHPs;
 
-(iv) Protect consumer personally identifiable information according to § 155.260(b)(3) and the agreement described in § 155.260(b)(2); and
+(iv) Protect consumer personally identifiable information according to § 155.260(b)(3) and the agreement described in § 155.260(b)(2);
 
 (v) Comply with all applicable Federal and State laws and regulations.
 
+(vi) Not engage in scripting and other automation of interactions with CMS Systems or the Direct Enrollment Pathways, unless approved in advance in writing by CMS.
+
+(vii) Only use an identity that belongs to the consumer when identity proofing the consumer's account on *HealthCare.gov*.
+
+(viii) When providing information to Federally-facilitated Exchanges that may result in a determination of eligibility for a special enrollment period in accordance with § 155.420, obtain authorization from the consumer to submit the request for a determination of eligibility for a special enrollment period and make the consumer aware of the specific triggering event and special enrollment period for which the agent, broker, or web-broker will be submitting an eligibility determination request on the consumer's behalf.
+
 (3) If an agent, broker, or web-broker fails to provide correct information, he, she, or it will nonetheless be deemed in compliance with paragraphs (j)(2)(i) and (ii) of this section if HHS determines that there was a reasonable cause for the failure to provide correct information and that the agent, broker, or web-broker acted in good faith.
 
-(k) *Penalties other than termination of the agreement with the Federally-facilitated Exchanges.* (1) If HHS determines that an agent, broker, or web-broker has failed to comply with the requirements of this section, in addition to any other available remedies, that agent, broker, or web-broker -
+(k) *Penalties other than termination of the agreement with the Federally-facilitated Exchanges.* (1) If HHS determines that an agent, broker, or web-broker has failed to comply with the requirements of this section, in addition to any other available remedies, that agent, broker, or web-broker—
 
 (i) May be denied the right to enter into agreements with the Federally-facilitated Exchanges in future years; and
 
@@ -200,4 +230,4 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (3) The Exchange may collect information from a web-broker during its registration with the Exchange under paragraph (d)(1) of this section, or at another time on an annual basis, in a form and manner to be specified by HHS, sufficient to establish the identities of the individuals who comprise its corporate ownership and leadership and to ascertain any corporate or business relationships it has with other entities that may seek to register with the Federally-facilitated Exchange as web-brokers.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 54134, Aug. 30, 2013; 79 FR 13837, Mar. 11, 2014; 81 FR 12338, Mar. 8, 2016; 81 FR 94176, Dec. 22, 2016; 84 FR 17563, Apr. 25, 2019; 85 FR 37248, June 19, 2020; 86 FR 24288, May 5, 2021]Editorial Note:At 78 FR 54134, Aug. 30, 2013, § 155.220 was amended by revising (d)(3); however, the amendment could not be incorporated because there was no regulatory text provided in the amendment for (d)(3).
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 54134, Aug. 30, 2013; 79 FR 13837, Mar. 11, 2014; 81 FR 12338, Mar. 8, 2016; 81 FR 94176, Dec. 22, 2016; 84 FR 17563, Apr. 25, 2019; 85 FR 37248, June 19, 2020; 86 FR 24288, May 5, 2021; 87 FR 27388, May 6, 2022]Editorial Note:At 78 FR 54134, Aug. 30, 2013, § 155.220 was amended by revising (d)(3); however, the amendment could not be incorporated because there was no regulatory text provided in the amendment for (d)(3).

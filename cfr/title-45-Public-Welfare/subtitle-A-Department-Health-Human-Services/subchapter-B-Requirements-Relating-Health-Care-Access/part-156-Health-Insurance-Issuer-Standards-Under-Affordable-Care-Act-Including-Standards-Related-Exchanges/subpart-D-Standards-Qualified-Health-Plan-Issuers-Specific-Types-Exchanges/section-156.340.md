@@ -1,0 +1,21 @@
+##### § 156.340 Standards for downstream and delegated entities. #####
+
+(a) *General requirement.* Effective October 1, 2013, notwithstanding any relationship(s) that a QHP issuer may have with delegated and downstream entities, a QHP issuer maintains responsibility for its compliance and the compliance of any of its delegated or downstream entities with all applicable Federal standards related to Exchanges. The applicable standards depend on the Exchange model type in which the QHP is offered, as described in paragraphs (a)(1) and (2) of this section.
+
+(1) QHP issuers participating in Exchange models that do not use the Federal platform, including State Exchanges and State Exchange SHOPs. QHP issuers maintain responsibility for ensuring their downstream and delegated entities comply with the Federal standards related to Exchanges, including the standards in subpart C of this part with respect to each of its QHPs on an ongoing basis, as well as the Exchange processes, procedures, and standards in accordance with subparts H and K of part 155 and, in the small group market, §§ 155.705 and 155.706 of this subchapter, unless the standard is specifically applicable to a Federally-facilitated Exchange or FF-SHOP;
+
+(2) QHP issuers participating in Exchanges that use the Federal platform, including Federally-facilitated Exchanges, FF-SHOPs, SBE-FPs, and SBE-FP-SHOPs. QHP issuers maintain responsibility for ensuring their downstream and delegated entities comply with Federal standards related to Exchanges, including the standards in subpart C of part 156 with respect to each of its QHPs on an ongoing basis, as well as the Exchange processes, procedures, and standards in accordance with subparts H and K of part 155 of this subchapter and, in the small group market, §§ 155.705 and 155.706 of this subchapter if applicable to the Exchange type in which the QHP issuer is operating. QHP issuers are also responsible for their downstream and delegated entities' compliance with the standards of § 155.220 of this subchapter with respect to assisting with enrollment in QHPs, and the standards of §§ 156.705 and 156.715 of this subchapter for maintenance of records and compliance reviews if applicable to the Exchange type in which the QHP issuer is operating.
+
+(b) *Delegation agreement specifications.* If any of the QHP issuer's activities or obligations, in accordance with paragraph (a) of this section, are delegated to other parties, the QHP issuer's agreement with any delegated or downstream entity must—
+
+(1) Specify the delegated activities and reporting responsibilities;
+
+(2) Provide for revocation of the delegated activities and reporting standards or specify other remedies in instances where HHS or the QHP issuer determines that such parties have not performed satisfactorily;
+
+(3) Specify that the delegated or downstream entity must comply with all applicable laws and regulations relating to the standards specified under paragraph (a) of this section;
+
+(4) Specify that the delegated or downstream entity must permit access by the Secretary and the OIG or their designees in connection with their right to evaluate through an audit, inspection, or other means, to the delegated or downstream entity's books, contracts, computers, or other electronic systems, including medical records and documentation, relating to the QHP issuer's obligations in accordance with Federal standards under paragraph (a) of this section until 10 years from the final date of the agreement period;
+
+(5) All agreements between issuers offering QHPs through an Exchange and delegated or downstream entities the issuers engage to support the issuer's activities on an Exchange must include language stating that the relevant Exchange authority may demand and receive the delegated or downstream entity's books, contracts, computers, or other electronic systems, including medical records and documentation, relating to the QHP issuer's obligations in accordance with Federal standards under paragraph (a) of this section until 10 years from the final date of the agreement period.
+
+[78 FR 54143, Aug. 30, 2013, as amended at 87 FR 27392, May 6, 2022]

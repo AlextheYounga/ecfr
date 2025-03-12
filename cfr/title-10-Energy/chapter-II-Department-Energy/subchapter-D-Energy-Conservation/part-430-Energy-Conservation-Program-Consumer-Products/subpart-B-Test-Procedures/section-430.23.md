@@ -1,7 +1,5 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 87 FR 33380, June 1, 2022.
-
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
 (a) *Refrigerators and refrigerator-freezers.* (1) The estimated annual operating cost for models without an anti-sweat heater switch shall be the product of the following three factors, with the resulting product then being rounded to the nearest dollar per year:
@@ -250,41 +248,41 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (j) *Clothes washers.* (1) The estimated annual operating cost for automatic and semi-automatic clothes washers must be rounded off to the nearest dollar per year and is defined as follows:
 
-(i) When using appendix J1 (see the note at the beginning of appendix J1),
+(i) When using appendix J (see the note at the beginning of appendix J),
 
 (A) When electrically heated water is used,
 
-(N1 × ETE1 × CKWH)Where:N1 = the representative average residential clothes washer use of 392 cycles per year according to appendix J1,ETE1 = the total per-cycle energy consumption when electrically heated water is used, in kilowatt-hours per cycle, determined according to section 4.1.7 of appendix J1, andCKWH = the representative average unit cost, in dollars per kilowatt-hour, as provided by the Secretary.
+(N × (MET + HET + ETLP) × CKWH)Where:N = the representative average residential clothes washer use of 234 cycles per year according to appendix J,MET = the total weighted per-cycle machine electrical energy consumption, in kilowatt-hours per cycle, determined according to section 4.1.6 of appendix J,HET = the total weighted per-cycle hot water energy consumption using an electrical water heater, in kilowatt-hours per cycle, determined according to section 4.1.3 of appendix J,ETLP = the per-cycle combined low-power mode energy consumption, in kilowatt-hours per cycle, determined according to section 4.6.2 of appendix J, andCKWH = the representative average unit cost, in dollars per kilowatt-hour, as provided by the Secretary.
 
 (B) When gas-heated or oil-heated water is used,
 
-(N1 × ((MET1 × CKWH) + (HETG1 × CBTU)))Where:N1 and CKWH are defined in paragraph (j)(1)(i)(A) of this section,MET1 = the total weighted per-cycle machine electrical energy consumption, in kilowatt-hours per cycle, determined according to section 4.1.6 of appendix J1,HETG1 = the total per-cycle hot water energy consumption using gas-heated or oil-heated water, in Btu per cycle, determined according to section 4.1.4 of appendix J1, andCBTU = the representative average unit cost, in dollars per Btu for oil or gas, as appropriate, as provided by the Secretary.
+(N × (((MET + ETLP) × CKWH) + (HETG × CBTU)))Where:N, MET, ETLP, and CKWH are defined in paragraph (j)(1)(i)(A) of this section,HETG = the total per-cycle hot water energy consumption using gas-heated or oil-heated water, in Btu per cycle, determined according to section 4.1.4 of appendix J, andCBTU = the representative average unit cost, in dollars per Btu for oil or gas, as appropriate, as provided by the Secretary.
 
 (ii) When using appendix J2 (see the note at the beginning of appendix J2),
 
-(A) When electrically heated water is used,
+(A) When electrically heated water is used
 
-(N2 × (ETE2 + ETSO) × CKWH)Where:N2 = the representative average residential clothes washer use of 295 cycles per year according to appendix J2,ETE2 = the total per-cycle energy consumption when electrically heated water is used, in kilowatt-hours per cycle, determined according to section 4.1.7 of appendix J2,ETSO = the per-cycle combined low-power mode energy consumption, in kilowatt-hours per cycle, determined according to section 4.4 of appendix J2, andCKWH = the representative average unit cost, in dollars per kilowatt-hour, as provided by the Secretary.
+(N2 × (ETE2 + ETLP2) × CKWH)Where:N2 = the representative average residential clothes washer use of 295 cycles per year according to appendix J2,ETE2 = the total per-cycle energy consumption when electrically heated water is used, in kilowatt-hours per cycle, determined according to section 4.1.7 of appendix J2,ETLP2 = the per-cycle combined low-power mode energy consumption, in kilowatt-hours per cycle, determined according to section 4.4 of appendix J2, andCKWH = the representative average unit cost, in dollars per kilowatt-hour, as provided by the Secretary
 
 (B) When gas-heated or oil-heated water is used,
 
-(N2 × ((MET2 + ETSO) × CKWH) + (HETG2 × CBTU))Where:N2 and ETSO are defined in (j)(1)(ii)(A) of this section,MET2 = the total weighted per-cycle machine electrical energy consumption, in kilowatt-hours per cycle, determined according to section 4.1.6 of appendix J2,CKWH = the representative average unit cost, in dollars per kilowatt-hour, as provided by the Secretary,HETG2 = the total per-cycle hot water energy consumption using gas-heated or oil-heated water, in Btu per cycle, determined according to section 4.1.4 of appendix J2,CBTU = the representative average unit cost, in dollars per Btu for oil or gas, as appropriate, as provided by the Secretary.
+(N2 × (((MET2 + ETLP2) × CKWH) + (HETG2 × CBTU)))Where:N2, ETLP2, and CKWH are defined in paragraph (j)(1)(ii)(A) of this section,MET2 = the total weighted per-cycle machine electrical energy consumption, in kilowatt-hours per cycle, determined according to section 4.1.6 of appendix J2,HETG2 = the total per-cycle hot water energy consumption using gas-heated or oil-heated water, in Btu per cycle, determined according to section 4.1.4 of appendix J2, andCBTU = the representative average unit cost, in dollars per Btu for oil or gas, as appropriate, as provided by the Secretary.
 
-(2)(i) The modified energy factor for automatic and semi-automatic clothes washers is determined according to section 4.4 of appendix J1 (when using appendix J1) and section 4.5 of appendix J2 (when using appendix J2). The result shall be rounded off to the nearest 0.01 cubic foot per kilowatt-hour per cycle.
+(2)(i) The integrated modified energy factor for automatic and semi-automatic clothes washers is determined according to section 4.6 of appendix J2 (when using appendix J2). The result shall be rounded off to the nearest 0.01 cubic foot per kilowatt-hour per cycle.
 
-(ii) The integrated modified energy factor for automatic and semi-automatic clothes washers is determined according to section 4.6 of appendix J2 (when using appendix J2). The result shall be rounded off to the nearest 0.01 cubic foot per kilowatt-hour per cycle.
+(ii) The energy efficiency ratio for automatic and semi-automatic clothes washers is determined according to section 4.9 of appendix J (when using appendix J). The result shall be rounded to the nearest 0.01 pound per kilowatt-hour per cycle.
 
 (3) The annual water consumption of a clothes washer must be determined as:
 
-(i) When using appendix J1, the product of the representative average-use of 392 cycles per year and the total weighted per-cycle water consumption in gallons per cycle determined according to section 4.2.2 of appendix J1.
+(i) When using appendix J, the product of the representative average-use of 234 cycles per year and the total weighted per-cycle water consumption in gallons per cycle determined according to section 4.2.4 of appendix J.
 
 (ii) When using appendix J2, the product of the representative average-use of 295 cycles per year and the total weighted per-cycle water consumption for all wash cycles, in gallons per cycle, determined according to section 4.2.11 of appendix J2.
 
-(4)(i) The water factor must be determined according to section 4.2.3 of appendix J1 (when using appendix J1) or section 4.2.12 of appendix J2 (when using appendix J2), with the result rounded to the nearest 0.1 gallons per cycle per cubic foot.
+(4)(i) The integrated water factor must be determined according to section 4.2.12 of appendix J2, with the result rounded to the nearest 0.1 gallons per cycle per cubic foot.
 
-(ii) The integrated water factor must be determined according to section 4.2.13 of appendix J2, with the result rounded to the nearest 0.1 gallons per cycle per cubic foot.
+(ii) The water efficiency ratio for automatic and semi-automatic clothes washers is determined according to section 4.7 of appendix J (when using appendix J). The result shall be rounded to the nearest 0.01 pound per gallon per cycle.
 
-(5) Other useful measures of energy consumption for automatic or semi-automatic clothes washers shall be those measures of energy consumption that the Secretary determines are likely to assist consumers in making purchasing decisions and that are derived from the application of appendix J1 or appendix J2, as appropriate.
+(5) Other useful measures of energy consumption for automatic or semi-automatic clothes washers shall be those measures of energy consumption that the Secretary determines are likely to assist consumers in making purchasing decisions and that are derived from the application of appendix J or appendix J2, as appropriate.
 
 (k)-(l) [Reserved]
 

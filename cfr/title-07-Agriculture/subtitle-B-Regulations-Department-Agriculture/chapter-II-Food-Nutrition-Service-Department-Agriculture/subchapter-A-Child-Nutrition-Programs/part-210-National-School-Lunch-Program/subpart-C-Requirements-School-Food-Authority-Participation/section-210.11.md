@@ -1,7 +1,5 @@
 ##### § 210.11 Competitive food service and standards. #####
 
-Link to an amendment published at 87 FR 7006, Feb. 7, 2022.
-
 (a) *Definitions.* For the purpose of this section:
 
 (1) *Combination foods* means products that contain two or more components representing two or more of the recommended food groups: fruit, vegetable, dairy, protein or grains.
@@ -86,11 +84,11 @@ Link to an amendment published at 87 FR 7006, Feb. 7, 2022.
 
 (l) *Accompaniments.* The use of accompaniments is limited when competitive food is sold to students in school. The accompaniments to a competitive food item must be included in the nutrient profile as a part of the food item served in determining if an item meets all of the nutrition standards for competitive food as required in this section. The contribution of the accompaniments may be based on the average amount of the accompaniment used per item at the site.
 
-(m) *Beverages* - (1) *Elementary schools.* Allowable beverages for elementary school-aged students are limited to:
+(m) *Beverages*—(1) *Elementary schools.* Allowable beverages for elementary school-aged students are limited to:
 
 (i) Plain water or plain carbonated water (no size limit);
 
-(ii) Low fat milk, unflavored (no more than 8 fluid ounces);
+(ii) Low fat milk, flavored or unflavored (no more than 8 fluid ounces);
 
 (iii) Non fat milk, flavored or unflavored (no more than 8 fluid ounces);
 
@@ -102,7 +100,7 @@ Link to an amendment published at 87 FR 7006, Feb. 7, 2022.
 
 (i) Plain water or plain carbonated water (no size limit);
 
-(ii) Low fat milk, unflavored (no more than 12 fluid ounces);
+(ii) Low fat milk, flavored or unflavored (no more than 12 fluid ounces);
 
 (iii) Non fat milk, flavored or unflavored (no more than 12 fluid ounces);
 
@@ -114,7 +112,7 @@ Link to an amendment published at 87 FR 7006, Feb. 7, 2022.
 
 (i) Plain water or plain carbonated water (no size limit);
 
-(ii) Low fat milk, unflavored (no more than 12 fluid ounces);
+(ii) Low fat milk, flavored or unflavored (no more than 12 fluid ounces);
 
 (iii) Non fat milk, flavored or unflavored (no more than 12 fluid ounces);
 
@@ -130,4 +128,4 @@ Link to an amendment published at 87 FR 7006, Feb. 7, 2022.
 
 (n) *Implementation date.* This section is to be implemented beginning on July 1, 2014.
 
-[78 FR 39091, June 28, 2013, as amended at 81 FR 50151, July 29, 2016; 82 FR 56714, Nov. 30, 2017; 83 FR 63790, Dec. 12, 2018; 85 FR 74848, Nov. 24, 2020]
+[78 FR 39091, June 28, 2013, as amended at 81 FR 50151, July 29, 2016; 82 FR 56714, Nov. 30, 2017; 83 FR 63790, Dec. 12, 2018; 85 FR 74848, Nov. 24, 2020; 87 FR 7006, Feb. 7, 2022]

@@ -1,7 +1,5 @@
 ##### § 155.305 Eligibility standards. #####
 
-Link to an amendment published at 87 FR 27388, May 6, 2022.
-
 (a) *Eligibility for enrollment in a QHP through the Exchange.* The Exchange must determine an applicant eligible for enrollment in a QHP through the Exchange if he or she meets the following requirements:
 
 (1) *Citizenship, status as a national, or lawful presence.* Is a citizen or national of the United States, or is a non-citizen who is lawfully present in the United States, and is reasonably expected to be a citizen, national, or a non-citizen who is lawfully present for the entire period for which enrollment is sought;
@@ -10,13 +8,13 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (3) *Residency.* Meets the applicable residency standard identified in this paragraph (a)(3).
 
-(i) For an individual who is age 21 and over, is not living in an institution as defined in 42 CFR 435.403(b), is capable of indicating intent, and is not receiving an optional State supplementary payment as addressed in 42 CFR 435.403(f), the service area of the Exchange of the individual is the service areas of the Exchange in which he or she is living and -
+(i) For an individual who is age 21 and over, is not living in an institution as defined in 42 CFR 435.403(b), is capable of indicating intent, and is not receiving an optional State supplementary payment as addressed in 42 CFR 435.403(f), the service area of the Exchange of the individual is the service areas of the Exchange in which he or she is living and—
 
 (A) Intends to reside, including without a fixed address; or
 
 (B) Has entered with a job commitment or is seeking employment (whether or not currently employed).
 
-(ii) For an individual who is under the age of 21, is not living in an institution as defined in 42 CFR 435.403(b), is not eligible for Medicaid based on receipt of assistance under title IV-E of the Social Security Act as addressed in 42 CFR 435.403(g), is not emancipated, is not receiving an optional State supplementary payment as addressed in 42 CFR 435.403(f), the Exchange service area of the individual -
+(ii) For an individual who is under the age of 21, is not living in an institution as defined in 42 CFR 435.403(b), is not eligible for Medicaid based on receipt of assistance under title IV-E of the Social Security Act as addressed in 42 CFR 435.403(g), is not emancipated, is not receiving an optional State supplementary payment as addressed in 42 CFR 435.403(f), the Exchange service area of the individual—
 
 (A) Is the service area of the Exchange in which he or she resides, including without a fixed address; or
 
@@ -32,7 +30,7 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (b) *Eligibility for QHP enrollment periods.* The Exchange must determine an applicant eligible for an enrollment period if he or she meets the criteria for an enrollment period, as specified in §§ 155.410 and 155.420.
 
-(c) *Eligibility for Medicaid.* The Exchange must determine an applicant eligible for Medicaid if he or she meets the non-financial eligibility criteria for Medicaid for populations whose eligibility is based on MAGI-based income, as certified by the Medicaid agency in accordance with 42 CFR 435.1200(b)(2), has a household income, as defined in 42 CFR 435.603(d), that is at or below the applicable Medicaid MAGI-based income standard as defined in 42 CFR 435.911(b)(1) and -
+(c) *Eligibility for Medicaid.* The Exchange must determine an applicant eligible for Medicaid if he or she meets the non-financial eligibility criteria for Medicaid for populations whose eligibility is based on MAGI-based income, as certified by the Medicaid agency in accordance with 42 CFR 435.1200(b)(2), has a household income, as defined in 42 CFR 435.603(d), that is at or below the applicable Medicaid MAGI-based income standard as defined in 42 CFR 435.911(b)(1) and—
 
 (1) Is a pregnant woman, as defined in the Medicaid State Plan in accordance with 42 CFR 435.4;
 
@@ -46,17 +44,17 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (e) *Eligibility for BHP.* If a BHP is operating in the service area of the Exchange, the Exchange must determine an applicant eligible for the BHP if he or she meets the requirements specified in section 1331(e) of the Affordable Care Act and regulations implementing that section.
 
-(f) *Eligibility for advance payments of the premium tax credit* - (1) *In general.* The Exchange must determine a tax filer eligible for advance payments of the premium tax credit if the Exchange determines that -
+(f) *Eligibility for advance payments of the premium tax credit*—(1) *In general.* The Exchange must determine a tax filer eligible for advance payments of the premium tax credit if the Exchange determines that—
 
-(i) He or she is expected to have a household income, as defined in 26 CFR 1.36B-1(e), of greater than or equal to 100 percent but not more than 400 percent of the FPL for the benefit year for which coverage is requested; and
+(i) He or she is expected to have a household income that will qualify the tax filer as an applicable taxpayer according to 26 CFR 1.36B-2(b) for the benefit year for which coverage is requested; and
 
-(ii) One or more applicants for whom the tax filer expects to claim a personal exemption deduction on his or her tax return for the benefit year, including the tax filer and his or her spouse -
+(ii) One or more applicants for whom the tax filer expects to claim a personal exemption deduction on his or her tax return for the benefit year, including the tax filer and his or her spouse—
 
 (A) Meets the requirements for eligibility for enrollment in a QHP through the Exchange, as specified in paragraph (a) of this section; and
 
 (B) Is not eligible for minimum essential coverage, with the exception of coverage in the individual market, in accordance with section 26 CFR 1.36B-2(a)(2) and (c).
 
-(2) *Special rule for non-citizens who are lawfully present and who are ineligible for Medicaid by reason of immigration status.* The Exchange must determine a tax filer eligible for advance payments of the premium tax credit if the Exchange determines that -
+(2) *Special rule for non-citizens who are lawfully present and who are ineligible for Medicaid by reason of immigration status.* The Exchange must determine a tax filer eligible for advance payments of the premium tax credit if the Exchange determines that—
 
 (i) He or she meets the requirements specified in paragraph (f)(1) of this section, except for paragraph (f)(1)(i);
 
@@ -68,11 +66,11 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (4) *Compliance with filing requirement.* The Exchange may not determine a tax filer eligible for APTC if HHS notifies the Exchange as part of the process described in § 155.320(c)(3) that APTC were made on behalf of the tax filer or either spouse if the tax filer is a married couple for a year for which tax data would be utilized for verification of household income and family size in accordance with § 155.320(c)(1)(i), and the tax filer or his or her spouse did not comply with the requirement to file an income tax return for that year as required by 26 U.S.C. 6011, 6012, and implementing regulations and reconcile the advance payments of the premium tax credit for that period.
 
-(5) *Calculation of advance payments of the premium tax credit.* The Exchange must calculate advance payments of the premium tax credit in accordance with 26 CFR 1.36B-3.
+(5) *Calculation of advance payments of the premium tax credit.* The Exchange must calculate advance payments of the premium tax credit in accordance with 26 CFR 1.36B-3 and § 155.340(i) of this subpart.
 
 (6) *Collection of Social Security numbers.* The Exchange must require an application filer to provide the Social Security number of a tax filer who is not an applicant only if an applicant attests that the tax filer has a Social Security number and filed a tax return for the year for which tax data would be utilized for verification of household income and family size.
 
-(g) *Eligibility for cost-sharing reductions* - (1) *Eligibility criteria.* (i) The Exchange must determine an applicant eligible for cost-sharing reductions if he or she -
+(g) *Eligibility for cost-sharing reductions*—(1) *Eligibility criteria.* (i) The Exchange must determine an applicant eligible for cost-sharing reductions if he or she—
 
 (A) Meets the requirements for eligibility for enrollment in a QHP through the Exchange, as specified in paragraph (a) of this section;
 
@@ -82,7 +80,7 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (ii) The Exchange may only provide cost-sharing reductions to an enrollee who is not an Indian if he or she is enrolled through the Exchange in a silver-level QHP, as defined by section 1302(d)(1)(B) of the Affordable Care Act.
 
-(2) *Eligibility categories.* The Exchange must use the following eligibility categories for cost-sharing reductions when making eligibility determinations under this section -
+(2) *Eligibility categories.* The Exchange must use the following eligibility categories for cost-sharing reductions when making eligibility determinations under this section—
 
 (i) An individual who is expected to have a household income greater than or equal to 100 percent of the FPL and less than or equal to 150 percent of the FPL for the benefit year for which coverage is requested, or for an individual who is eligible for advance payments of the premium tax credit under paragraph (f)(2) of this section, a household income less than 100 percent of the FPL for the benefit year for which coverage is requested;
 
@@ -106,14 +104,14 @@ Link to an amendment published at 87 FR 27388, May 6, 2022.
 
 (4) For the purposes of paragraph (g) of this section, “household income” means household income as defined in section 36B(d)(2) of the Code.
 
-(h) *Eligibility for enrollment through the Exchange in a QHP that is a catastrophic plan.* The Exchange must determine an applicant eligible for enrollment in a QHP through the Exchange in a QHP that is a catastrophic plan as defined by section 1302(e) of the Affordable Care Act, if he or she has met the requirements for eligibility for enrollment in a QHP through the Exchange, in accordance with § 155.305(a), and either -
+(h) *Eligibility for enrollment through the Exchange in a QHP that is a catastrophic plan.* The Exchange must determine an applicant eligible for enrollment in a QHP through the Exchange in a QHP that is a catastrophic plan as defined by section 1302(e) of the Affordable Care Act, if he or she has met the requirements for eligibility for enrollment in a QHP through the Exchange, in accordance with § 155.305(a), and either—
 
 (1) Has not attained the age of 30 before the beginning of the plan year; or
 
-(2) Has a certification in effect for any plan year that he or she is exempt from the requirement to maintain minimum essential coverage under section 5000A of the Code by reason of -
+(2) Has a certification in effect for any plan year that he or she is exempt from the requirement to maintain minimum essential coverage under section 5000A of the Code by reason of—
 
 (i) Section 5000A(e)(1) of the Code (relating to individuals without affordable coverage); or
 
 (ii) Section 5000A(e)(5) of the Code (relating to individuals with hardships).
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 42315, July 15, 2013; 83 FR 17061, Apr. 17, 2018]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 42315, July 15, 2013; 83 FR 17061, Apr. 17, 2018; 87 FR 27388, May 6, 2022]

@@ -1,8 +1,6 @@
 ##### § 533.5 Requirements. #####
 
-(a) Each manufacturer of light trucks shall comply with the following fleet average fuel economy standards, expressed in miles per gallon, in the model year specified as applicable:
-
-Table I
+(a) Each manufacturer of light trucks shall comply with the following fleet average fuel economy standards, expressed in miles per gallon, in the model year (MY) specified as applicable:
 
 |     Model year      |2-wheel drive light trucks|4-wheel drive light trucks|Limited product line light trucks|    |    |
 |---------------------|--------------------------|--------------------------|---------------------------------|----|----|
@@ -10,8 +8,6 @@ Table I
 |        1979         |           17.2           |           15.8           |                                 |    |    |
 |        1980         |           16.0           |           16.0           |              14.0               |14.0|14.0|
 |        1981         |           16.7           |           16.7           |              15.0               |15.0|14.5|
-
-Table II
 
 |     Model year      |Combined standard|2-wheel drive light trucks|4-wheel drive light trucks|                     |      |    |
 |---------------------|-----------------|--------------------------|--------------------------|---------------------|------|----|
@@ -27,8 +23,6 @@ Table II
 |        1990         |      20.0       |           20.0           |           20.5           |        20.5         | 19.0 |19.0|
 |        1991         |      20.2       |           20.2           |           20.7           |        20.7         | 19.1 |19.1|
 
-Table III
-
 |     Model year      |Combined standard|    |
 |---------------------|-----------------|----|
 |Captive  <br/>imports|      Other      |    |
@@ -36,8 +30,6 @@ Table III
 |        1993         |      20.4       |20.4|
 |        1994         |      20.5       |20.5|
 |        1995         |      20.6       |20.6|
-
-Table IV
 
 |Model year|Standard|
 |----------|--------|
@@ -52,52 +44,28 @@ Table IV
 |   2009   |  23.1  |
 |   2010   |  23.5  |
 
-Figure 1:
+![](/graphics/er02my22.263.gif)Where:*N* is the total number (sum) of light trucks produced by a manufacturer;*N*i is the number (sum) of the *ith* light truck model type produced by a manufacturer; and*T*i is the fuel economy target of the *ith* light truck model type, which is determined according to the following formula, rounded to the nearest hundredth:![](/graphics/er02my22.264.gif)Where:Parameters *a, b, c,* and *d* are defined in Table 5 to this paragraph (a);*e* = 2.718; and*x* = footprint (in square feet, rounded to the nearest tenth) of the model type.
 
-![](/graphics/er15oc12.076.gif)Where:*N* is the total number (sum) of light trucks produced by a manufacturer;*N*i is the number (sum) of the *ith* light truck model type produced by a manufacturer; and*T*i is the fuel economy target of the *ith* light truck model type, which is determined according to the following formula, rounded to the nearest hundredth:![](/graphics/er15oc12.077.gif)Where:Parameters *a, b, c,* and *d* are defined in Table V;*e* = 2.718; and*x* = footprint (in square feet, rounded to the nearest tenth) of the model type.
+| Model year  | Parameters  |                               |                |    |
+|-------------|-------------|-------------------------------|----------------|----|
+|a  <br/>(mpg)|b  <br/>(mpg)|c  <br/>(gal/mi/ft<sup>2</sup>)|d  <br/>(gal/mi)|    |
+|    2008     |    28.56    |             19.99             |     49.30      |5.58|
+|    2009     |    30.07    |             20.87             |     48.00      |5.81|
+|    2010     |    29.96    |             21.20             |     48.49      |5.50|
+|    2011     |    27.10    |             21.10             |     56.41      |4.28|
 
-Table V - Parameters for the Light Truck Fuel Economy Targets for MYs 2008-2011
+![](/graphics/er02my22.265.gif)Where:*CAFE*required is the fleet average fuel economy standard for a given light truck fleet;Subscript *i* is a designation of multiple groups of light trucks, where each group's designation, *i.e.,* i = 1, 2, 3, etc., represents light trucks that share a unique model type and footprint within the applicable fleet;*Production*i is the number of light trucks produced for sale in the United States within each ith designation, *i.e.,* which share the same model type and footprint; and*TARGET*i is the fuel economy target in miles per gallon (mpg) applicable to the footprint of light trucks within each *ith* designation, *i.e.,* which share the same model type and footprint, calculated according to either Figure 3 or 4 to this paragraph (a), as appropriate, and rounded to the nearest hundredth of a mpg, *i.e.,* 35.455 = 35.46 mpg, and the summations in the numerator and denominator are both performed over all models in the fleet in question.![](/graphics/er02my22.266.gif)Where:*TARGET* is the fuel economy target (in mpg) applicable to vehicles of a given footprint (*FOOTPRINT,* in square feet);Parameters *a, b, c,* and d are defined in Table 6 to this paragraph (a); andThe *MIN* and *MAX* functions take the minimum and maximum, respectively, of the included values.
 
-|Model year|Parameters|                         |          |    |
-|----------|----------|-------------------------|----------|----|
-| a (mpg)  | b (mpg)  |c (gal/mi/ft<sup>2</sup>)|d (gal/mi)|    |
-|   2008   |  28.56   |          19.99          |  49.30   |5.58|
-|   2009   |  30.07   |          20.87          |  48.00   |5.81|
-|   2010   |  29.96   |          21.20          |  48.49   |5.50|
-|   2011   |  27.10   |          21.10          |  56.41   |4.28|
+| Model year  | Parameters  |                               |                |        |
+|-------------|-------------|-------------------------------|----------------|--------|
+|a  <br/>(mpg)|b  <br/>(mpg)|c  <br/>(gal/mi/ft<sup>2</sup>)|d  <br/>(gal/mi)|        |
+|    2012     |    29.82    |             22.27             |   0.0004546    |0.014900|
+|    2013     |    30.67    |             22.74             |   0.0004546    |0.013968|
+|    2014     |    31.38    |             23.13             |   0.0004546    |0.013225|
+|    2015     |    32.72    |             23.85             |   0.0004546    |0.011920|
+|    2016     |    34.42    |             24.74             |   0.0004546    |0.010413|
 
-Figure 2:
-
-![](/graphics/er15oc12.078.gif)Where:
-
-*CAFE*required is the fleet average fuel economy standard for a given light truck fleet;
-
-Subscript *i* is a designation of multiple groups of light trucks, where each group's designation, *i.e., i* = 1, 2, 3, etc., represents light trucks that share a unique model type and footprint within the applicable fleet.
-
-*Production*i is the number of light trucks produced for sale in the United States within each ith designation, *i.e.,* which share the same model type and footprint;
-
-*TARGET*i is the fuel economy target in miles per gallon (mpg) applicable to the footprint of light trucks within each *ith* designation, *i.e.,* which share the same model type and footprint, calculated according to either Figure 3 or Figure 4, as appropriate, and rounded to the nearest hundredth of a mpg, *i.e.,* 35.455 = 35.46 mpg, and the summations in the numerator and denominator are both performed over all models in the fleet in question.
-
-Figure 3:
-
-![](/graphics/er15oc12.079.gif)Where:*TARGET* is the fuel economy target (in mpg) applicable to vehicles of a given footprint (*FOOTPRINT,* in square feet);Parameters *a, b,**c,* and *d* are defined in Table VI; andThe *MIN* and *MAX* functions take the minimum and maximum, respectively, of the included values.
-
-Table VI - Parameters for the Light Truck Fuel Economy Targets for MYs 2012-2016
-
-|Model year|Parameters|                         |          |        |
-|----------|----------|-------------------------|----------|--------|
-| a (mpg)  | b (mpg)  |c (gal/mi/ft<sup>2</sup>)|d (gal/mi)|        |
-|   2012   |  29.82   |          22.27          |0.0004546 |0.014900|
-|   2013   |  30.67   |          22.74          |0.0004546 |0.013968|
-|   2014   |  31.38   |          23.13          |0.0004546 |0.013225|
-|   2015   |  32.72   |          23.85          |0.0004546 |0.011920|
-|   2016   |  34.42   |          24.74          |0.0004546 |0.010413|
-
-Figure 4:
-
-![](/graphics/er15no12.102.gif)Where:*TARGET* is the fuel economy target (in mpg) applicable to vehicles of a given footprint (*FOOTPRINT,* in square feet);Parameters *a, b, c, d, e, f, g,* and *h* are defined in Table VII; andThe *MIN* and *MAX* functions take the minimum and maximum, respectively, of the included values.
-
-Table VII - Parameters for the Light Truck Fuel Economy Targets for MYs 2017-2026
+![](/graphics/er02my22.267.gif)Where:*TARGET* is the fuel economy target (in mpg) applicable to vehicles of a given footprint (*FOOTPRINT,* in square feet);Parameters *a, b, c, d, e, f, g,* and *h* are defined in Table 7 to this paragraph (a); andThe *MIN* and *MAX* functions take the minimum and maximum, respectively, of the included values.
 
 | Model year  | Parameters  |                               |                |             |             |                               |                |        |
 |-------------|-------------|-------------------------------|----------------|-------------|-------------|-------------------------------|----------------|--------|
@@ -109,9 +77,9 @@ Table VII - Parameters for the Light Truck Fuel Economy Targets for MYs 2017-202
 |    2021     |    39.71    |             25.63             |    0.000506    |   0.00443   |     NA      |              NA               |       NA       |   NA   |
 |    2022     |    40.31    |             26.02             |    0.000499    |   0.00436   |     NA      |              NA               |       NA       |   NA   |
 |    2023     |    40.93    |             26.42             |    0.000491    |   0.00429   |     NA      |              NA               |       NA       |   NA   |
-|    2024     |    41.55    |             26.82             |    0.000484    |   0.00423   |     NA      |              NA               |       NA       |   NA   |
-|    2025     |    42.18    |             27.23             |    0.000477    |   0.00417   |     NA      |              NA               |       NA       |   NA   |
-|    2026     |    42.82    |             27.64             |    0.000469    |   0.00410   |     NA      |              NA               |       NA       |   NA   |
+|    2024     |    44.48    |             26.74             |    0.000452    |   0.00395   |     NA      |              NA               |       NA       |   NA   |
+|    2025     |    48.35    |             29.07             |    0.000416    |   0.00364   |     NA      |              NA               |       NA       |   NA   |
+|    2026     |    53.73    |             32.30             |    0.000374    |   0.00327   |     NA      |              NA               |       NA       |   NA   |
 
 (b)(1) For model year 1979, each manufacturer may:
 
@@ -123,11 +91,11 @@ Table VII - Parameters for the Light Truck Fuel Economy Targets for MYs 2017-202
 
 (c) For model years 1980 and 1981, manufacturers of limited product line light trucks may:
 
-(1) Comply with the separate standard for limited product line light trucks, or
+(1) Comply with the separate standard for limited product line light trucks in Table 1 to paragraph (a) of this section; or
 
-(2) Comply with the other standards specified in § 533.5(a), as applicable.
+(2) Comply with the other standards specified in paragraph (a) of this section, as applicable.
 
-(d) For model years 1982-91, each manufacture may:
+(d) For model years 1982-91, each manufacturer may:
 
 (1) Combine its 2- and 4-wheel drive light trucks (segregating captive import and other light trucks) and comply with the combined average fuel economy standard specified in paragraph (a) of this section; or
 
@@ -137,12 +105,10 @@ Table VII - Parameters for the Light Truck Fuel Economy Targets for MYs 2017-202
 
 (f) For each model year 1996 and thereafter, each manufacturer shall combine its captive imports with its other light trucks and comply with the fleet average fuel economy standard in paragraph (a) of this section.
 
-(g) For model years 2008-2010, at a manufacturer's option, a manufacturer's light truck fleet may comply with the fuel economy standard calculated for each model year according to Figure 1 and the appropriate values in Table V, with said option being irrevocably chosen for that model year and reported as specified in § 537.8.
+(g) For model years 2008-2010, at a manufacturer's option, a manufacturer's light truck fleet may comply with the fuel economy standard calculated for each model year according to Figure 1 to paragraph (a) of this section and the appropriate values in Table 5 to paragraph (a) of this section, with said option being irrevocably chosen for that model year and reported as specified in § 537.8 of this chapter.
 
-(h) For model year 2011, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to Figure 1 and the appropriate values in Table V.
+(h) For model year 2011, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to Figure 1 to paragraph (a) of this section and the appropriate values in Table 5 to paragraph (a) of this section.
 
-(i) For model years 2012-2016, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to Figures 2 and 3 and the appropriate values in Table VI.
+(i) For model years 2012-2016, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to Figures 2 and 3 to paragraph (a) of this section and the appropriate values in Table 6 to paragraph (a) of this section.
 
-(j) For model years 2017-2025, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to Figures 2 and 4 and the appropriate values in Table VII.
-
-[43 FR 12014, Mar. 23, 1978]Editorial Note:For Federal Register citations affecting § 533.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(j) For model years 2017-2026, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to Figures 2 and 4 to paragraph (a) of this section and the appropriate values in Table 7 to paragraph (a) of this section.

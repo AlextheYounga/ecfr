@@ -1,7 +1,5 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 87 FR 33380, June 1, 2022.
-
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the DOE and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *http://www.amca.org/store/item.aspx?ItemId=81.*
@@ -68,11 +66,11 @@ Link to an amendment published at 87 FR 33380, June 1, 2022.
 
 (d) *AATCC.* American Association of Textile Chemists and Colorists, P.O. Box 12215, Research Triangle Park, NC 27709, (919) 549-3526, or go to *www.aatcc.org.*
 
-(1) AATCC Test Method 79-2010, Absorbency of Textiles, Revised 2010, IBR approved for Appendix J2 to Subpart B.
+(1) AATCC Test Method 79-2010, Absorbency of Textiles, Revised 2010, IBR approved for Appendix J3 to Subpart B.
 
-(2) AATCC Test Method 118-2007, Oil Repellency: Hydrocarbon Resistance Test, Revised 2007, IBR approved for Appendix J2 to Subpart B.
+(2) AATCC Test Method 118-2007, Oil Repellency: Hydrocarbon Resistance Test, Revised 2007, IBR approved for Appendix J3 to Subpart B.
 
-(3) AATCC Test Method 135-2010, Dimensional Changes of Fabrics after Home Laundering, Revised 2010, IBR approved for Appendix J2 to Subpart B.
+(3) AATCC Test Method 135-2010, Dimensional Changes of Fabrics after Home Laundering, Revised 2010, IBR approved for Appendix J3 to Subpart B.
 
 (e) *ANSI.* American National Standards Institute, 25 W. 43rd Street, 4th Floor, New York, NY 10036, 212-642-4900, or go to *http://www.ansi.org.*
 
@@ -512,4 +510,4 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (3) UL 896 (“UL 896-2016”), Standard for Safety for Oil-Burning Stoves, Fifth Edition, dated July 29, 1993; including revisions through November 22, 2016, IBR approved for appendix O to subpart B.
 
-[74 FR 12066, Mar. 23, 2009]Editorial Note:For Federal Register citations affecting § 430.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[74 FR 12066, Mar. 23, 2009]Editorial Note:For Federal Register citations affecting § 430.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Editorial Note:At 87 FR 33380, June 1, 2022, § 430.3 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.

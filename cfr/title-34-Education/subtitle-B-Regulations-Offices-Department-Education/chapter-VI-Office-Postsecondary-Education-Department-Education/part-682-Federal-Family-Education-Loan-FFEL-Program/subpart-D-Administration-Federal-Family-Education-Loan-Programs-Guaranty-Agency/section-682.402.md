@@ -1,7 +1,5 @@
 ##### § 682.402 Death, disability, closed school, false certification, unpaid refunds, and bankruptcy payments. #####
 
-Link to an amendment published at 86 FR 46981, Aug. 23, 2021.
-
 (a) *General.* (1) Rules governing the payment of claims based on filing for relief in bankruptcy, and discharge of loans due to death, total and permanent disability, attendance at a school that closes, false certification by a school of a borrower's eligibility for a loan, and unpaid refunds by a school are set forth in this section.
 
 (2) If a Consolidation loan was obtained jointly by a married couple, the amount of the Consolidation loan that is discharged if one of the borrowers dies or becomes totally and permanently disabled is equal to the portion of the outstanding balance of the Consolidation loan, as of the date the borrower died or became totally and permanently disabled, attributable to any of that borrower's loans that would have been eligible for discharge.
@@ -184,7 +182,7 @@ Link to an amendment published at 86 FR 46981, Aug. 23, 2021.
 
 (iii) If the veteran fails to submit an application for a total and permanent disability discharge to the Secretary within 120 days, collection resumes on the veteran's title IV loans and the lender is deemed to have exercised forbearance of principal and interest from the date it suspended collection activity. The lender may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period, except that if the lender is a guaranty agency it may not capitalize accrued interest.
 
-(iv) The veteran must submit to the Secretary an application for a total and permanent disability discharge on a form approved by the Secretary.
+(iv) Except as provided in paragraph (c)(10) of this section, the veteran must submit to the Secretary an application for a total and permanent disability discharge on a form approved by the Secretary.
 
 (v) The application must be accompanied by documentation from the Department of Veterans Affairs showing that the Department of Veterans Affairs has determined that the veteran is unemployable due to a service-connected disability. The veteran will not be required to provide any additional documentation related to the veteran's disability.
 
@@ -226,7 +224,35 @@ Link to an amendment published at 86 FR 46981, Aug. 23, 2021.
 
 (E) If the Secretary does not approve the veteran's total and permanent disability discharge application based on documentation from the Department of Veterans Affairs, the lender must resume collection and is deemed to have exercised forbearance of payment of both principal and interest from the date collection activity was suspended. The lender may capitalize, in accordance with § 682.202(b), any interest accrued and not paid during that period, except that if the lender is a guaranty agency it may not capitalize accrued interest.
 
-(xiii) The Secretary will consider a borrower for whom data is obtained from the Department of Veterans Affairs showing that the borrower is “totally and permanently disabled” as defined in paragraph (2) of the definition of that term in § 682.200(b)(2) to be eligible for discharge) and will not require additional documentation to discharge the borrower's loans.
+(10) *Discharge without an application.* (i) The Secretary may discharge a loan under this section without an application or any additional documentation from the borrower if the Secretary -
+
+(A) Obtains data from the Department of Veterans Affairs (VA) showing that the borrower is unemployable due to a service-connected disability; or
+
+(B) Obtains data from the Social Security Administration (SSA) showing that the borrower qualifies for SSDI or SSI benefits and that the borrower's next scheduled disability review will be no earlier than five nor later than seven years.
+
+(ii) [Reserved]
+
+(11) *Notifications and return of payments.* (i) After determining that a borrower qualifies for a total and permanent disability discharge under paragraph (c)(10) of this section, the Secretary sends a notification to the borrower informing the borrower that the Secretary will discharge the borrower's title IV loans unless the borrower notifies the Secretary, by a date specified in the Secretary's notification, that the borrower does not wish to receive the loan discharge.
+
+(ii) Unless the borrower notifies the Secretary that the borrower does not wish to receive the discharge, the Secretary notifies the borrower's loan holders that the borrower has been approved for a disability discharge. With this notification the Secretary provides the effective date of the determination by VA or the date the Secretary received the SSA notice of award for SSDI or SSI benefits, and directs the holder of each FFELP loan made to the borrower to submit a disability claim to the guaranty agency in accordance with paragraph (g)(1) of this section.
+
+(iii) If the claim meets the requirements of paragraph (g)(1) of this section and § 682.406, the guaranty agency pays the claim and must -
+
+(A) Discharge the loan, in the case of a discharge based on data from VA; or
+
+(B) Assign the loan to the Secretary, in the case of a discharge based on data from the SSA.
+
+(iv) The Secretary reimburses the guaranty agency for a disability claim after the agency pays the claim to the lender.
+
+(v) Upon receipt of the claim payment from the guaranty agency, the loan holder returns to the person who made the payments any payments received on or after -
+
+(A) The effective date of the determination by VA that the borrower is unemployable due to a service-connected disability; or
+
+(B) The date the Secretary received the SSA notice of award for SSDI or SSI benefits.
+
+(vi) For a loan that is assigned to the Secretary for discharge based on data from the SSA, the Secretary discharges the loan in accordance with paragraph (c)(3)(iv) of this section.
+
+(vii) If the borrower notifies the Secretary that they do not wish to receive the discharge, the borrower will remain responsible for repayment of the borrower's loans in accordance with the terms and conditions of the promissory notes that the borrower signed.
 
 (d) *Closed school* - (1) *General.* (i) The Secretary reimburses the holder of a loan received by a borrower on or after January 1, 1986, and discharges the borrower's obligation with respect to the loan in accordance with the provisions of paragraph (d) of this section, if the borrower (or the student for whom a parent received a PLUS loan) could not complete the program of study for which the loan was intended because the school at which the borrower (or student) was enrolled closed, or the borrower (or student) withdrew from the school not more than 120 days prior to the date the school closed. The Secretary may extend the 120-day period if the Secretary determines that exceptional circumstances related to a school's closing justify an extension. Exceptional circumstances for this purpose may include, but are not limited to: the school's loss of accreditation; the school's discontinuation of the majority of its academic programs; action by the State to revoke the school's license to operate or award academic credentials in the State; or a finding by a State or Federal government agency that the school violated State or Federal law.
 
@@ -976,4 +1002,4 @@ Link to an amendment published at 86 FR 46981, Aug. 23, 2021.
 
 (5) Includes the period between the filing of the petition for relief and the date on which the proceeding is completed or dismissed, unless payments have been made during that period in amounts sufficient to meet the amount owed under the repayment schedule in effect when the petition was filed.
 
-(Approved by the Office of Management and Budget under control number 1845-0020)(Authority: 20 U.S.C. 1070g, 1078, 1078-1, 1078-2, 1078-3, 1082, 1087)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.402, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Approved by the Office of Management and Budget under control number 1845-0020)[57 FR 60323, Dec. 18, 1992]Editorial Note:For Federal Register citations affecting § 682.402, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

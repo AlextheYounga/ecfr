@@ -1,7 +1,5 @@
 ##### § 401.43 Regulatory program fees. #####
 
-Link to an amendment published at 87 FR 31417, May 24, 2022.
-
 (a) *Purpose.* The purpose of this section is to provide an adequate, stable and reliable stream of revenue to cover the cost of the Commission's regulatory program activities, an important means by which the Commission coordinates management of the shared water resources of the Basin. Activities to be covered by the fees include the review of applications for projects that are subject to review under the Delaware River Basin Compact and implementing regulations; and ongoing activities associated with such projects, including but not limited to, effluent and ambient monitoring, data analysis, hydrodynamic and water quality modeling, and coordination with state and federal agencies.
 
 (b) *Types of fees.* The following types of fees are established by this section:
@@ -32,7 +30,7 @@ Link to an amendment published at 87 FR 31417, May 24, 2022.
 
 (iv) DRBC conducts or is required to engage third parties to conduct additional analyses or evaluations of a project in response to a court order.
 
-(4) *Additional fees* - (i) *Emergency approval.* A request for an emergency certificate under § 401.40 to waive or amend a docket condition shall be subject to a minimum fee in accordance with paragraph (e) of this section. An alternative review fee also may be charged in accordance with paragraph (b)(3) of this section.
+(4) *Additional fees*—(i) *Emergency approval.* A request for an emergency certificate under § 401.40 to waive or amend a docket condition shall be subject to a minimum fee in accordance with paragraph (e) of this section. An alternative review fee also may be charged in accordance with paragraph (b)(3) of this section.
 
 (ii) *Late filed renewal application.* Any renewal application submitted fewer than 120 calendar days in advance of the expiration date or after such other date specified in the docket or permit or letter of the Executive Director for filing a renewal application shall be subject to a late filed renewal application charge in excess of the otherwise applicable fee.
 
@@ -44,50 +42,49 @@ Link to an amendment published at 87 FR 31417, May 24, 2022.
 
 (c) *Indexed adjustment.* On July 1 of every year, beginning July 1, 2017, all fees established by this section will increase commensurate with any increase in the annual April 12-month Consumer Price Index (CPI) for Philadelphia, published by the U.S. Bureau of Labor Statistics during that year.1 In any year in which the April 12-month CPI for Philadelphia declines or shows no change, the application fee and annual monitoring and coordination fee will remain unchanged. Following any indexed adjustment made under this paragraph (c), a revised fee schedule will be published in the Federal Register by July 1 and posted on the Commission's website. Interested parties may also obtain the fee schedule by contacting the Commission directly during business hours.
 
-1 Consumer Price Index - U/Series ID: CUURA102SA0/Not Seasonally Adjusted/Area: Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD/Item: All items/Base Period: 1982-84=100.
+1 Consumer Price Index—U/Series ID: CUURA102SA0/Not Seasonally Adjusted/Area: Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD/Item: All items/Base Period: 1982-84=100.
 
 (d) *Late payment charge.* When any fee established by this section remains unpaid 30 calendar days after the payment due date provided on the Commission's invoice, an incremental charge equal to 2% of the amount owed shall be automatically assessed. Such charge shall be assessed every 30 days thereafter until the total amount owed, including any late payment charges has been paid in full.
 
 (e) *Fee schedules.* The fees described in this section shall be as follows:
 
-Table 1 to § 401.43 - Docket Application Filing Fee
+Table 1 to § 401.43—Docket Application Filing Fee
 
-|    Project type    |                                                                 Docket application fee                                                                  |                       Fee maximum                        |
-|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-|  Water Allocation  |$433 per million gallons/month of allocation,<sup>1</sup> not to exceed $16,226.<sup>1</sup> Fee is doubled for any portion to be exported from the basin|Greater of: $16,226<sup>1</sup> or Alternative Review Fee.|
-|Wastewater Discharge|                                     Private projects: $1,082.<sup>1</sup>  <br/>Public projects: $541.<sup>1</sup>                                      |                 Alternative Review Fee.                  |
-|       Other        |         0.4% of project cost up to $10,000,000 plus 0.12% of project cost above $10,000,000 (if applicable), not to exceed $81,132<sup>1</sup>          |Greater of: $81,132<sup>1</sup> or Alternative Review Fee.|
-
-<sup>1</sup> Subject to annual adjustment in accordance with paragraph (c) of this section.
-
-Table 2 to § 401.43 - Annual Monitoring and Coordination Fee
-
-|                    |                  |                         |
-|--------------------|------------------|-------------------------|
-|                    |    Annual fee    |       Allocation        |
-|  Water Allocation  |<sup>1</sup> $325 |       \<4.99 mgm.       |
-|                    | <sup>1</sup> 487 |   5.00 to 49.99 mgm.    |
-|                    | <sup>1</sup> 703 |  50.00 to 499.99 mgm.   |
-|                    | <sup>1</sup> 892 | 500.00 to 9,999.99 mgm. |
-|                    |<sup>1</sup> 1,082| \> or = to 10,000 mgm.  |
-|                    |    Annual fee    |Discharge design capacity|
-|Wastewater Discharge|<sup>1</sup> $325 |       \<0.05 mgd.       |
-|                    | <sup>1</sup> 660 |     0.05 to 1 mgd.      |
-|                    | <sup>1</sup> 887 |      1 to 10 mgd.       |
-|                    |<sup>1</sup> 1,082|        \>10 mgd.        |
+|    Project type    |                                                                  Docket application fee                                                                  |                       Fee maximum                        |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+|  Water Allocation  |$469 per million gallons/month of allocation,<sup>1</sup> not to exceed $17,587.<sup>1</sup> Fee is doubled for any portion to be exported from the basin.|Greater of: $17,587<sup>1</sup> or Alternative Review Fee.|
+|Wastewater Discharge|                                       Private projects: $1,172<sup>1</sup>  <br/>Public projects: $586<sup>1</sup>                                       |                 Alternative Review Fee.                  |
+|       Other        |       0.4% of project cost up to $10,000,000 plus  <br/>0.12% of project cost above $10,000,000 (if applicable), not to exceed $87,934<sup>1</sup>       |Greater of: $87,934<sup>1</sup> or Alternative Review Fee.|
 
 <sup>1</sup> Subject to annual adjustment in accordance with paragraph (c) of this section.
 
-Table 3 to § 401.43 - Additional Fees
+Table 2 to § 401.43—Annual Monitoring and Coordination Fee
+
+|                    |    Annual fee     |       Allocation        |
+|--------------------|-------------------|-------------------------|
+|  Water Allocation  | <sup>1</sup> $352 |       \<4.99 mgm.       |
+|                    | <sup>1</sup> $528 |   5.00 to 49.99 mgm.    |
+|                    | <sup>1</sup> $762 |  50.00 to 499.99 mgm.   |
+|                    | <sup>1</sup> $967 | 500.00 to 9,999.99 mgm. |
+|                    |<sup>1</sup> $1,172| \> or = to 10,000 mgm.  |
+|                    |    Annual fee     |Discharge design capacity|
+|Wastewater Discharge| <sup>1</sup> $352 |       \<0.05 mgd.       |
+|                    | <sup>1</sup> $715 |     0.05 to 1 mgd.      |
+|                    | <sup>1</sup> $961 |      1 to 10 mgd.       |
+|                    |<sup>1</sup> $1,172|        \>10 mgd.        |
+
+<sup>1</sup> Subject to annual adjustment in accordance with paragraph (c) of this section.
+
+Table 3 to § 401.43—Additional Fees
 
 |           Proposed action            |                                            Fee                                            |      Fee maximum      |
 |--------------------------------------|-------------------------------------------------------------------------------------------|-----------------------|
 |Emergency Approval Under 18 CFR 401.40|                                          $5,000                                           |Alternative Review Fee.|
 |     Late Filed Renewal Surcharge     |                                          $2,000                                           |                       |
 |   Modification of a DRBC Approval    |At Executive Director's discretion, Docket Application Fee for the appropriate project type|Alternative Review Fee.|
-|             Name change              |                                    <sup>1</sup> $1,082                                    |                       |
-|         Change of Ownership          |                                    <sup>1</sup> $1,623                                    |                       |
+|             Name change              |                                    <sup>1</sup> $1,172                                    |                       |
+|         Change of Ownership          |                                    <sup>1</sup> $1,759                                    |                       |
 
 <sup>1</sup> Subject to annual adjustment in accordance with paragraph (c) of this section.
 
-[81 FR 95861, Dec. 29, 2016, as amended at 82 FR 7647, Jan. 23, 2017; 82 FR 26989, June 13, 2017; 83 FR 26355, June 7, 2018; 84 FR 27035, June 11, 2019; 86 FR 20630, Apr. 21, 2021; 86 FR 28262, May 26, 2021]
+[81 FR 95861, Dec. 29, 2016, as amended at 82 FR 7647, Jan. 23, 2017; 82 FR 26989, June 13, 2017; 86 FR 20630, Apr. 21, 2021; 87 FR 31417, May 24, 2022]

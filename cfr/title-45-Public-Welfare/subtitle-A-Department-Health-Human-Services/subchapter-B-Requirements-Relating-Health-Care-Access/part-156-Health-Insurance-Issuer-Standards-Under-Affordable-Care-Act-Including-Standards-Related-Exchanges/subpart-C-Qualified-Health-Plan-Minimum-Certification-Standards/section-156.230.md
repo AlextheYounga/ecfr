@@ -1,18 +1,26 @@
 ##### § 156.230 Network adequacy standards. #####
 
-Link to an amendment published at 87 FR 27391, May 6, 2022.
+(a) *General requirement.* (1) Each QHP issuer that uses a provider network must ensure that the provider network consisting of in-network providers, as available to all enrollees, meets the following standards:
 
-(a) *General requirement.* Each QHP issuer that uses a provider network must ensure that the provider network consisting of in-network providers, as available to all enrollees, meets the following standards -
+(i) Includes essential community providers in accordance with § 156.235;
 
-(1) Includes essential community providers in accordance with § 156.235;
+(ii) Maintains a network that is sufficient in number and types of providers, including providers that specialize in mental health and substance use disorder services, to ensure that all services will be accessible without unreasonable delay; and
 
-(2) Maintains a network that is sufficient in number and types of providers, including providers that specialize in mental health and substance abuse services, to assure that all services will be accessible without unreasonable delay; and,
+(iii) Is consistent with the rules for network plans of section 2702(c) of the PHS Act.
 
-(3) Is consistent with the network adequacy provisions of section 2702(c) of the PHS Act.
+(2)(i) *Standards.* A QHP issuer on a Federally-facilitated Exchange must comply with the requirement in paragraph (a)(1)(ii) of this section by:
+
+(A) For plan years beginning on or after January 1, 2023, meeting time and distance standards established by the Federally-facilitated Exchange. Such time and distance standards will be developed for consistency with industry standards and published in guidance. Quantitative reviews of compliance with time and distance standards will be conducted using issuer-submitted data; and
+
+(B) For plan years beginning on or after January 1, 2024, meeting appointment wait time standards established by the Federally-facilitated Exchange. Such appointment wait time standards will be developed for consistency with industry standards and published in guidance.
+
+(ii) *Written justification.* If a plan applying for QHP certification to be offered through a Federally-facilitated Exchanges does not satisfy the network adequacy standards described in paragraphs (a)(2)(i)(A) and (B) of this section, the issuer must include it as part of its QHP application a justification describing how the plan's provider network provides an adequate level of service for enrollees and how the plan's provider network will be strengthened and brought closer to compliance with the network adequacy standards prior to the start of the plan year. The issuer must provide information as requested by the FFE to support this justification.
+
+(3) The Federally-facilitated Exchange may grant an exception to the requirements in paragraphs (a)(2)(i)(A) and (B) of this section if the Exchange determines that making such health plan available through such Exchange is in the interests of qualified individuals in the State or States in which such Exchange operates.
 
 (b) *Access to provider directory.* (1) A QHP issuer must make its provider directory for a QHP available to the Exchange for publication online in accordance with guidance from HHS and to potential enrollees in hard copy upon request. In the provider directory, a QHP issuer must identify providers that are not accepting new patients.
 
-(2) For plan years beginning on or after January 1, 2016, a QHP issuer must publish an up-to-date, accurate, and complete provider directory, including information on which providers are accepting new patients, the provider's location, contact information, specialty, medical group, and any institutional affiliations, in a manner that is easily accessible to plan enrollees, prospective enrollees, the State, the Exchange, HHS and OPM. A provider directory is easily accessible when -
+(2) For plan years beginning on or after January 1, 2016, a QHP issuer must publish an up-to-date, accurate, and complete provider directory, including information on which providers are accepting new patients, the provider's location, contact information, specialty, medical group, and any institutional affiliations, in a manner that is easily accessible to plan enrollees, prospective enrollees, the State, the Exchange, HHS and OPM. A provider directory is easily accessible when—
 
 (i) The general public is able to view all of the current providers for a plan in the provider directory on the issuer's public Web site through a clearly identifiable link or tab and without creating or accessing an account or entering a policy number; and
 
@@ -20,7 +28,7 @@ Link to an amendment published at 87 FR 27391, May 6, 2022.
 
 (c) *Increasing consumer transparency.* A QHP issuer in a Federally-facilitated Exchange must make available the information described in paragraph (b) of this section on its Web site in an HHS specified format and also submit this information to HHS, in a format and manner and at times determined by HHS.
 
-(d) *Provider transitions.* A QHP issuer in a Federally-facilitated Exchange must -
+(d) *Provider transitions.* A QHP issuer in a Federally-facilitated Exchange must—
 
 (1) Make a good faith effort to provide written notice of discontinuation of a provider 30 days prior to the effective date of the change or otherwise as soon as practicable, to enrollees who are patients seen on a regular basis by the provider or who receive primary care from the provider whose contract is being discontinued, irrespective of whether the contract is being discontinued due to a termination for cause or without cause, or due to a non-renewal;
 
@@ -46,4 +54,4 @@ Link to an amendment published at 87 FR 27391, May 6, 2022.
 
 (f) *Exception.* Paragraphs (a) through (e) of this section do not apply to a plan for which an issuer seeks QHP certification or to any certified QHP that does not use a provider network, meaning that the plan or QHP does not condition or differentiate benefits based on whether the issuer has a network participation agreement with the provider that furnishes covered services.
 
-[77 FR 18469, Mar. 27, 2012, as amended at 80 FR 10873, Feb. 27, 2015; 81 FR 12349, Mar. 8, 2016; 86 FR 6178, Jan. 19, 2021]
+[77 FR 18469, Mar. 27, 2012, as amended at 80 FR 10873, Feb. 27, 2015; 81 FR 12349, Mar. 8, 2016; 86 FR 6178, Jan. 19, 2021; 87 FR 27391, May 6, 2022]

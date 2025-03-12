@@ -12,4 +12,4 @@
 
 (3) Health reimbursement arrangements or other account-based group health plans as described in § 2590.715-2711(d).
 
-[86 FR 36959, July 13, 2021, as amended at 86 FR 56112, Oct. 7, 2021; 86 FR 66699, Nov. 23, 2021]
+[86 FR 36959, July 13, 2021, as amended at 86 FR 66699, Nov. 23, 2021]

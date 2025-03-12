@@ -6,18 +6,16 @@
 
 (3) The term *domestically manufactured* is used as defined in section 503(b)(2)(E) of the Act.
 
-(b) *Other terms.* As used in this part, unless otherwise required by the context -
+(b) *Other terms.* As used in this part, unless otherwise required by the context—
 
-(1) *Act* means the Motor Vehicle Information Cost Savings Act, as amended by Pub. L. 94-163.
+(1) *Act* means the Motor Vehicle Information Cost Savings Act, as amended by Public Law 94-163.
 
 (2) *Light truck* is used in accordance with the determinations in part 523 of this chapter.
 
-*Captive import* means with respect to a light truck, one which is not domestically manufactured but which is imported in the 1980 model year or thereafter by a manufacturer whose principal place of business is in the United States.
+(3) *Captive import* means with respect to a light truck, one which is not domestically manufactured but which is imported in the 1980 model year or thereafter by a manufacturer whose principal place of business is in the United States.
 
-*4-wheel drive, general utility vehicle* means a 4-wheel drive, general purpose automobile capable of off-highway operation that has a wheelbase of not more than 280 centimeters, and that has a body shape similar to 1977 Jeep CJ-5 or CJ-7, or the 1977 Toyota Land Cruiser.
+(4) *4-wheel drive general utility vehicle* means a 4-wheel drive, general purpose automobile capable of off-highway operation that has a wheelbase of not more than 280 centimeters, and that has a body shape similar to 1977 Jeep CJ-5 or CJ-7, or the 1977 Toyota Land Cruiser.
 
-*Basic engine* means a unique combination of manufacturer, engine displacement, number of cylinders, fuel system (as distinguished by number of carburetor barrels or use of fuel injection), and catalyst usage.
+(5) *Basic engine* means a unique combination of manufacturer, engine displacement, number of cylinders, fuel system (as distinguished by number of carburetor barrels or use of fuel injection), and catalyst usage.
 
-*Limited product line light truck* means a light truck manufactured by a manufacturer whose light truck fleet is powered exclusively by basic engines which are not also used in passenger automobiles.
-
-[42 FR 13807, Mar. 14, 1977, as amended at 43 FR 12013, Mar. 23, 1978; 43 FR 46547, Oct. 10, 1978; 58 FR 18029, Apr. 7, 1993]
+(6) *Limited product line light truck* means a light truck manufactured by a manufacturer whose light truck fleet is powered exclusively by basic engines which are not also used in passenger automobiles.

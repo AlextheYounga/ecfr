@@ -1,7 +1,5 @@
 ##### § 199.2 Definitions. #####
 
-Link to an amendment published at 87 FR 33013, June 1, 2022.
-
 (a) *General.* In an effort to be as specific as possible as to the word and intent of CHAMPUS, the following definitions have been developed. While many of the definitions are general and some assign meaning to relatively common terms within the health insurance environment, others are applicable only to CHAMPUS; however, they all appear in this part solely for the purpose of the Program. Except when otherwise specified, the definitions in this section apply generally throughout this part.
 
 (b) *Specific definitions. Abortion.* Abortion means the intentional termination of a pregnancy by artificial means done for a purpose other than that of producing a live birth. A spontaneous, missed or threatened abortion or termination of an ectopic (tubal) pregnancy are not included within the term “abortion” as used herein.
@@ -101,6 +99,8 @@ There is no CHAMPUS benefit entitlement during any interim waiting period.
 *Beneficiary.* An individual who has been determined to be eligible for CHAMPUS benefits, as set forth in § 199.3 of this part.
 
 *Beneficiary liability.* The legal obligation of a beneficiary, his or her estate, or responsible family member to pay for the costs of medical care or treatment received. Specifically, for the purposes of services and supplies covered by CHAMPUS, beneficiary liability includes any annual deductible amount, cost-sharing amounts, or, when a provider does not submit a claim on a participating basis on behalf of the beneficiary, amounts above the CHAMPUS-determined allowable cost or charge. Beneficiary liability also includes any expenses for medical or related services and supplies not covered by CHAMPUS.
+
+*Biotelemetry.* A diagnostic or monitoring procedure for the detection or measurement of human physiologic functions from a distance using a biotelemetry device to remotely monitor various vital signs of ambulatory patients. Biotelemetry may also be referred to as remote physiologic monitoring of physiologic parameters. See § 199.4.
 
 *Birthing center.* A health care provider which meets the applicable requirements established by § 199.6(b) of this part.
 
@@ -707,6 +707,10 @@ The fact that the U.S. Food and Drug Administration has approved a drug for test
 *Suspension of claims processing.* The temporary suspension of processing (to protect the government's interests) of claims for care furnished by a specific provider (whether the claims are submitted by the provider or beneficiary) or claims submitted by or on behalf of a specific CHAMPUS beneficiary pending action by the Director, OCHAMPUS, or a designee, in a case of suspected fraud or abuse. The action may include the administrative remedies provided for in § 199.9 or any other Department of Defense issuance (e.g. DoD issuances implementing the Program Fraud Civil Remedies Act), case development or investigation by OCHAMPUS, or referral to the Department of Defense-Inspector General or the Department of Justice for action within their cognizant jurisdictions.
 
 *Teaching physician.* A teaching physician is any physician whose duties include providing medical training to physicians in training within a hospital or other institutional provider setting.
+
+*Telephonic consultations:* A covered consultation service conducted via telephone call between TRICARE-authorized providers, including a verbal and written report to the patient's treating/requesting physician or other TRICARE-authorized provider.
+
+*Telephonic office visits.* A covered service provided via a telephone call between a beneficiary who is an established patient and a TRICARE-authorized provider. See § 199.4.
 
 *Third-party billing agent.* Any entity that acts on behalf of a provider to prepare, submit and monitor claims, excluding those entities that act solely as a collection agency.
 

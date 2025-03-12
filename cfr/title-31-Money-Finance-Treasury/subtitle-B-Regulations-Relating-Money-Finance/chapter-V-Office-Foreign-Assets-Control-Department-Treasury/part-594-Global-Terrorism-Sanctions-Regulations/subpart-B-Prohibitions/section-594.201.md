@@ -2,21 +2,37 @@
 
 (a) Except as authorized by statutes, regulations, orders, directives, rulings, instructions, licenses or otherwise, and notwithstanding any contracts entered into or any license or permit granted prior to the effective date, property and interests in property of the following persons that are in the United States, that hereafter come within the United States, or that hereafter come within the possession or control of U.S. persons, including their overseas branches, are blocked and may not be transferred, paid, exported, withdrawn or otherwise dealt in:
 
-(1) Foreign persons listed in the Annex to Executive Order 13224 of September 23, 2001, as may be amended;
+(1) Persons listed in the Annex to Executive Order (E.O.) 13224 of September 23, 2001, as amended;
 
-(2) Foreign persons determined by the Secretary of State, in consultation with the Secretary of the Treasury, the Secretary of Homeland Security and the Attorney General, to have committed, or to pose a significant risk of committing, acts of terrorism that threaten the security of U.S. nationals or the national security, foreign policy, or economy of the United States;
+(2) Foreign persons determined by the Secretary of State, in consultation with the Secretary of the Treasury, the Attorney General, and the Secretary of Homeland Security:
 
-(3) Persons determined by the Secretary of the Treasury, in consultation with the Secretary of State, the Secretary of Homeland Security and the Attorney General, to be owned or controlled by, or to act for or on behalf of, any person whose property or interests in property are blocked pursuant to paragraphs (a)(1), (a)(2), (a)(3), or (a)(4)(i) of this section;
+(i) To have committed or have attempted to commit, to pose a significant risk of committing, or to have participated in training to commit acts of terrorism that threaten the security of U.S. nationals or the national security, foreign policy, or economy of the United States; or
 
-(4) Except as provided in section 5 of Executive Order 13224, any person determined by the Secretary of the Treasury, in consultation with the Secretary of State, the Secretary of Homeland Security and the Attorney General:
+(ii) To be a leader of an entity:
 
-(i) To assist in, sponsor, or provide financial, material, or technological support for, or financial or other services to or in support of:
+(A) Described in paragraph (a)(1) of this section; or
 
-(A) Acts of terrorism that threaten the security of U.S. nationals or the national security, foreign policy, or economy of the United States, or
+(B) Whose property and interests in property are blocked pursuant to a determination by the Secretary of State pursuant to E.O. 13224, as amended;
 
-(B) Any person whose property or interests in property are blocked pursuant to paragraph (a) of this section; or
+(3) Persons determined by the Secretary of the Treasury, in consultation with the Secretary of State, the Secretary of Homeland Security, and the Attorney General:
 
-(ii) To be otherwise associated with any person whose property or interests in property are blocked pursuant to paragraph (a)(1), (2), or (3) or (a)(4)(i) of this section;
+(i) To be owned, controlled, or directed by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraphs (a)(1) through (a)(4) of this section;
+
+(ii) To own or control, directly or indirectly, any person whose property and interests in property are blocked pursuant to paragraphs (a)(1) through (a)(4) of this section;
+
+(iii) To have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, an act of terrorism as defined in § 594.311, or any person whose property and interest in property are blocked pursuant to paragraphs (a)(1) through (a)(4) of this section;
+
+(iv) To have participated in training related to terrorism provided by any person whose property and interests in property are blocked pursuant to paragraphs (a)(1) through (a)(4) of this section;
+
+(v) To be a leader or official of an entity whose property and interests in property are blocked pursuant to:
+
+(A) A determination by the Secretary of the Treasury pursuant to paragraph (a)(3) of this section; or
+
+(B) Paragraph (a)(4) of this section; or
+
+(vi) To have attempted or conspired to engage in any of the activities described in paragraphs (a)(3)(i) through (a)(3)(v) of this section;
+
+(4) Persons whose property and interests in property were blocked pursuant to E.O. 12947, as amended, on or after January 23, 1995, and remained blocked immediately prior to 12:01 a.m. eastern daylight time on September 24, 2001;
 
 (5) Foreign persons that are identified on the Specially Designated Nationals and Blocked Persons List (SDN List) maintained by the Office of Foreign Assets Control as officials, agents, or affiliates of Iran's Islamic Revolutionary Guard Corps (IRGC);
 
@@ -58,7 +74,7 @@
 
 Note 1 to paragraph (a):
 
-Section 5 of Executive Order 13224, as amended, provides that, with respect to those persons designated pursuant to paragraph (a)(4) of this section, the Secretary of the Treasury, in the exercise of his discretion and in consultation with the Secretary of State, the Secretary of Homeland Security and the Attorney General, may take such other actions than the complete blocking of property or interests in property as the President is authorized to take under the International Emergency Economic Powers Act and the United Nations Participation Act if the Secretary of the Treasury, in consultation with the Secretary of State, the Secretary of Homeland Security and the Attorney General, deems such other actions to be consistent with the national interests of the United States, considering such factors as he deems appropriate.
+Section 5 of Executive Order 13224, as amended, provides that, with respect to those persons designated pursuant to paragraph (a)(3) of this section, the Secretary of the Treasury, in the exercise of their discretion and in consultation with the Secretary of State, the Secretary of Homeland Security, and the Attorney General, may take such other actions than the complete blocking of property or interests in property as the President is authorized to take under the International Emergency Economic Powers Act and the United Nations Participation Act if the Secretary of the Treasury, in consultation with the Secretary of State, the Secretary of Homeland Security, and the Attorney General, deems such other actions to be consistent with the national interests of the United States, considering such factors as the Secretary of the Treasury deems appropriate.
 
 Note 2 to paragraph (a) of § 594.201:
 
@@ -80,4 +96,4 @@ Note 2 to § 594.201.
 
 The prohibitions set forth in this part are separate from and in addition to other parts of 31 CFR chapter V, including but not limited to the Terrorism Sanctions Regulations (part 595), the Terrorism List Government Sanctions Regulations (part 596), and the Foreign Terrorist Organizations Sanctions Regulations (part 597). The prohibitions set forth in this part also are separate and apart from the criminal prohibition, set forth at 18 U.S.C. 2339B, against providing material support or resources to foreign terrorist organizations designated pursuant to section 219 of the Immigration and Nationality Act, as amended.
 
-[68 FR 34197, June 6, 2003, as amended at 72 FR 4206, Jan. 30, 2007; 76 FR 38544, June 30, 2011; 78 FR 38575, June 27, 2013; 82 FR 50314, Oct. 31, 2017; 84 FR 35312, July 23, 2019]
+[68 FR 34197, June 6, 2003, as amended at 72 FR 4206, Jan. 30, 2007; 76 FR 38544, June 30, 2011; 78 FR 38575, June 27, 2013; 82 FR 50314, Oct. 31, 2017; 84 FR 35312, July 23, 2019; 87 FR 39338, July 1, 2022]

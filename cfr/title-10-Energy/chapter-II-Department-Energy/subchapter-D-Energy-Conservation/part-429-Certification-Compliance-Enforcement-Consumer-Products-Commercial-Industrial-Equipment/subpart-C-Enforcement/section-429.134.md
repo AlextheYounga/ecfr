@@ -1,7 +1,5 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 87 FR 33379, June 1, 2022.
-
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
 (b) *Refrigerators, refrigerator-freezers, and freezers* - (1) *Verification of total refrigerated volume.* The total refrigerated volume of the basic model will be measured pursuant to the test requirements of 10 CFR part 430 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of total refrigerated volume certified by the manufacturer. The certified total refrigerated volume will be considered valid only if:
@@ -16,11 +14,55 @@ Link to an amendment published at 87 FR 33379, June 1, 2022.
 
 (2) *Test for models with two compartments, each having its own user-operable temperature control.* The test described in section 5.2(b) of the applicable test procedure for refrigerators or refrigerator-freezers in appendix A to subpart B of 10 CFR part 430 shall be used for all units of a tested basic model before DOE makes a determination of noncompliance with respect to the basic model.
 
-(c) *Clothes washers* - (1) *Determination of Remaining Moisture Content.* The procedure for determining remaining moisture content (RMC) will be performed once in its entirety, pursuant to the test requirements of section 3.8 of appendix J1 and appendix J2 to subpart B of part 430, for each unit tested.
+(c) *Clothes washers* - (1) *Determination of Remaining Moisture Content.* These provisions address anomalous remaining moisture content (RMC) results that are not representative of a basic model's performance, as well as differences in RMC values that may result from DOE using a different test cloth lot than was used by the manufacturer for testing and certifying the basic model.
 
-(i) The measured RMC value of a tested unit will be considered the tested unit's final RMC value if the measured RMC value is within two RMC percentage points of the certified RMC value of the basic model (expressed as a percentage), or is lower than the certified RMC value.
+(i) When testing according to appendix J to subpart B of part 430:
 
-(ii) If the measured RMC value of a tested unit is more than two RMC percentage points higher than the certified RMC value of the basic model, DOE will perform two additional replications of the RMC measurement procedure, each pursuant to the provisions of section 3.8.5 of appendix J1 and appendix J2 to subpart B of part 430, for a total of three independent RMC measurements of the tested unit. The average of the three RMC measurements will be the tested unit's final RMC value and will be used as the basis for the calculation of per-cycle energy consumption for removal of moisture from the test load for that unit.
+(A) If the measured RMC value of a tested unit is equal to or lower than the certified RMC value of the basic model (expressed as a percentage), then the measured RMC value will be considered the tested unit's final RMC value and will be used as the basis for the calculation of per-cycle energy consumption for removal of moisture from the test load for that unit.
+
+(B) If the measured RMC value of a tested unit is higher than the certified RMC value of the basic model but the difference between the measured and certified RMC values would not affect the unit's compliance with the applicable standards, then the measured RMC value will be considered the tested unit's final RMC value.
+
+(C) If the measured RMC value of a tested unit is higher than the certified RMC value of the basic model and the difference between the measured and certified RMC values would affect the unit's compliance with the applicable standards, then:
+
+(*1*) If DOE used the same test cloth lot that was used by the manufacturer for testing and certifying the basic model, then the measured RMC value will be considered the tested unit's final RMC value.
+
+(*2*) If DOE used a different test cloth lot than was used by the manufacturer for testing and certifying the basic model, then:
+
+(*i*) If the measured RMC value of a tested unit is higher than the certified RMC value of the basic model by more than three RMC percentage points, then a value three RMC percentage points less than the measured RMC value will be considered the tested unit's final RMC value.
+
+(*ii*) If the measured RMC value of a tested unit is higher than the certified RMC value of the basic model, but by no more than three RMC percentage points, then the certified RMC value of the basic model will be considered the tested unit's final RMC value.
+
+(ii) When testing according to appendix J2 to subpart B of part 430:
+
+(A) The procedure for determining remaining moisture content (RMC) will be performed once in its entirety, pursuant to the test requirements of section 3.8 of appendix J2 to subpart B of part 430, for each unit tested.
+
+(B) If the measured RMC value of a tested unit is equal to or lower than the certified RMC value of the basic model (expressed as a percentage), then the measured RMC value will be considered the tested unit's final RMC value and will be used as the basis for the calculation of per-cycle energy consumption for removal of moisture from the test load for that unit.
+
+(C) If the measured RMC value of a tested unit is higher than the certified RMC value of the basic model but by no more than two RMC percentage points and the difference between the measured and certified RMC values would not affect the unit's compliance with the applicable standards, then the measured RMC value will be considered the tested unit's final RMC value.
+
+(D) If the measured RMC value of a tested unit is higher than the certified RMC value of the basic model but by no more than two RMC percentage points and the difference between the measured and certified RMC values would affect the unit's compliance with the applicable standards, then:
+
+(*1*) If DOE used the same test cloth lot that was used by the manufacturer for testing and certifying the basic model, then the measured RMC value will be considered the tested unit's final RMC value.
+
+(*2*) If DOE used a different test cloth lot than was used by the manufacturer for testing and certifying the basic model, then the certified RMC value of the basic model would be considered the tested unit's final RMC value.
+
+(E) If the measured RMC value of a tested unit is higher than the certified RMC value of the basic model by more than two RMC percentage points, then DOE will perform two replications of the RMC measurement procedure, each pursuant to the provisions of section 3.8.5 of appendix J2 to subpart B of part 430, for a total of three independent RMC measurements of the tested unit. The average of the three RMC measurements will be calculated.
+
+(*1*) If the average of the three RMC measurements is equal to or lower than the certified RMC value of the basic model, then the average RMC value will be considered the tested unit's final RMC value.
+
+(*2*) If the average of the three RMC measurements is higher than the certified RMC value of the basic model but the difference between the measured and certified RMC values would not affect the unit's compliance with the applicable standards, then the average RMC value will be considered the tested unit's final RMC value.
+
+(*3*) If the average of the three RMC measurements is higher than the certified RMC value of the basic model and the difference between the measured and certified RMC values would affect the unit's compliance with the applicable standards, then DOE will apply paragraph (c)(1)(ii)(F) of this section.
+
+(F) If the average of the three RMC measurements is higher than the certified RMC value of the basic model and the difference between the measured and certified RMC values would affect the unit's compliance with the applicable standards, then:
+
+(*1*) If DOE used the same test cloth lot that was used by the manufacturer for testing and certifying the basic model, then the average RMC pursuant to paragraph (c)(1)(ii)(E) of this section will be considered the tested unit's final RMC value.
+
+(*2*) If DOE used a different test cloth lot than was used by the manufacturer for testing and certifying the basic model, then:
+
+(*i*) If the average RMC value pursuant to paragraph (c)(1)(ii)(D) of this section is higher than the certified valued of the basic model by more than three RMC percentage points, then a value three RMC percentage points less than the average RMC value will be considered the tested unit's final RMC value.
+
+(*ii*) If the average RMC value pursuant to paragraph (c)(1)(ii)(D) of this section is higher than the certified RMC value of the basic model, but by no more than three RMC percentage points, then the certified RMC value of the basic model will be considered the tested unit's final RMC value.
 
 (2) [Reserved]
 
@@ -263,4 +305,4 @@ Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-L
 
 (2) If the certified seasonally adjusted cooling capacity is found to be invalid, the average measured seasonally adjusted cooling capacity will be used to determine the minimum allowed combined energy efficiency ratio for the basic model.
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021]
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022]

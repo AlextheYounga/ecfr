@@ -1,10 +1,8 @@
 ##### § 1291.13 Targeted Community Lending Plan; AHP Implementation Plan. #####
 
-Link to an amendment published at 87 FR 32969, June 1, 2022.
+(a) *Targeted Community Lending Plan*—(1) *Identification of housing needs.* Pursuant to the requirements of 12 CFR 1290.6(a)(5)(v) and (vi), a Bank's annual Targeted Community Lending Plan adopted under its community support program shall, among other things, identify the significant affordable housing needs in its district that will be addressed through its AHP, as well as any specific affordable housing needs it plans to address through any Targeted Funds as set forth in its AHP Implementation Plan.
 
-(a) *Targeted Community Lending Plan* - (1) *Identification of housing needs.* Pursuant to the requirements of 12 CFR 1290.6(a)(5)(v) and (vi), a Bank's annual Targeted Community Lending Plan adopted under its community support program shall, among other things, identify the significant affordable housing needs in its district that will be addressed through its AHP, as well as any specific affordable housing needs it plans to address through any Targeted Funds as set forth in its AHP Implementation Plan.
-
-(2) *Public access.* A Bank shall publish its current Targeted Community Lending Plan on its publicly available website, and shall publish any amendments to its Targeted Community Lending Plan on the website within 30 days after the date of their adoption by the Bank's board of directors. If a Bank plans to establish any Targeted Funds under its AHP, the Bank must publish its Targeted Community Lending Plan (as amended) on the website on or before the date of publication of its annual AHP Implementation Plan, and at least 90 days before the first day that applications may be submitted to the Targeted Fund, unless the Targeted Fund is specifically targeted to address a federal- or state-declared disaster.
+(2) *Public access.* A Bank shall publish its current Targeted Community Lending Plan on its publicly available website, and shall publish any amendments to its Targeted Community Lending Plan on the website within 30 days after the date of their adoption by the Bank's board of directors and no later than the date of publication on the website of its annual AHP Implementation Plan (as amended). If such amendments relate to the Bank's AHP, the Bank shall publish them no later than the date of publication on its website of its annual AHP Implementation Plan (as amended). If a Bank plans to establish any Targeted Funds under its AHP, the Bank must publish its Targeted Community Lending Plan (as amended) on the website at least 90 days before the first day that applications may be submitted to the Targeted Fund, unless the Targeted Fund is specifically targeted to address a Federal- or State-declared disaster.
 
 (3) *Notification of Plan amendments to FHFA.* A Bank shall notify FHFA of any amendments to its Targeted Community Lending Plan within 30 days after the date of their adoption by the Bank's board of directors.
 
@@ -39,3 +37,5 @@ Link to an amendment published at 87 FR 32969, June 1, 2022.
 (d) *Notification of Plan amendments to FHFA.* A Bank shall notify FHFA of any amendments made to its AHP Implementation Plan within 30 days after the date of their adoption by the Bank's board of directors.
 
 (e) *Public access.* A Bank shall publish its current AHP Implementation Plan on its publicly available website, and shall publish any amendments to the AHP Implementation Plan on the website within 30 days after the date of their adoption by the Bank's board of directors.
+
+[83 FR 61231, Nov. 28, 2018, as amended at 87 FR 32969, June 1, 2022]

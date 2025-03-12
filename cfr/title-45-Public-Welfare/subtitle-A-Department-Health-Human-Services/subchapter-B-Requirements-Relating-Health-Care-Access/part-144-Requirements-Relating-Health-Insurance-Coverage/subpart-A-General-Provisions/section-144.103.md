@@ -1,7 +1,5 @@
 ##### § 144.103 Definitions. #####
 
-Link to an amendment published at 87 FR 27386, May 6, 2022.
-
 For purposes of parts 146 (group market), 147 (group and individual market), 148 (individual market), 149 (surprise billing and transparency), and 150 (enforcement) of this subchapter, the following definitions apply unless otherwise provided:
 
 *Affiliation period* means a period of time that must expire before health insurance coverage provided by an HMO becomes effective, and during which the HMO is not required to provide benefits.
@@ -36,7 +34,7 @@ For purposes of parts 146 (group market), 147 (group and individual market), 148
 
 (4) *Continuation coverage* means coverage under a COBRA continuation provision or a similar State program. Coverage provided by a plan that is subject to a COBRA continuation provision or similar State program, but that does not satisfy all the requirements of that provision or program, will be deemed to be continuation coverage if it allows an individual to elect to continue coverage for a period of at least 18 months. Continuation coverage does not include coverage under a conversion policy required to be offered to an individual upon exhaustion of continuation coverage, nor does it include continuation coverage under the Federal Employees Health Benefits Program.
 
-(5) *Exhaustion of COBRA continuation coverage* means that an individual's COBRA continuation coverage ceases for any reason other than either failure of the individual to pay premiums on a timely basis, or for cause (such as making a fraudulent claim or an intentional misrepresentation of a material fact in connection with the plan). An individual is considered to have exhausted COBRA continuation coverage if such coverage ceases -
+(5) *Exhaustion of COBRA continuation coverage* means that an individual's COBRA continuation coverage ceases for any reason other than either failure of the individual to pay premiums on a timely basis, or for cause (such as making a fraudulent claim or an intentional misrepresentation of a material fact in connection with the plan). An individual is considered to have exhausted COBRA continuation coverage if such coverage ceases—
 
 (i) Due to the failure of the employer or other responsible entity to remit premiums on a timely basis;
 
@@ -44,7 +42,7 @@ For purposes of parts 146 (group market), 147 (group and individual market), 148
 
 (iii) When the individual incurs a claim that would meet or exceed a lifetime limit on all benefits and there is no other COBRA continuation coverage available to the individual.
 
-(6) *Exhaustion of continuation coverage* means that an individual's continuation coverage ceases for any reason other than either failure of the individual to pay premiums on a timely basis, or for cause (such as making a fraudulent claim or an intentional misrepresentation of a material fact in connection with the plan). An individual is considered to have exhausted continuation coverage if -
+(6) *Exhaustion of continuation coverage* means that an individual's continuation coverage ceases for any reason other than either failure of the individual to pay premiums on a timely basis, or for cause (such as making a fraudulent claim or an intentional misrepresentation of a material fact in connection with the plan). An individual is considered to have exhausted continuation coverage if—
 
 (i) Coverage ceases due to the failure of the employer or other responsible entity to remit premiums on a timely basis;
 
@@ -58,7 +56,7 @@ For purposes of parts 146 (group market), 147 (group and individual market), 148
 
 *Dependent* means any individual who is or may become eligible for coverage under the terms of a group health plan because of a relationship to a participant.
 
-*Eligible individual,* for purposes of -
+*Eligible individual,* for purposes of—
 
 (1) The group market provisions in 45 CFR part 146, subpart E, is defined in 45 CFR 146.150(b); and
 
@@ -74,7 +72,7 @@ For purposes of parts 146 (group market), 147 (group and individual market), 148
 
 *ERISA* stands for the Employee Retirement Income Security Act of 1974, as amended (29 U.S.C. 1001 *et seq.*).
 
-*Excepted benefits,* consistent for purposes of the -
+*Excepted benefits,* consistent for purposes of the—
 
 (1) Group market provisions in 45 CFR part 146, subpart D, is defined in 45 CFR 146.145(b); and
 
@@ -98,7 +96,7 @@ For purposes of parts 146 (group market), 147 (group and individual market), 148
 
 *Health insurance issuer* or *issuer* means an insurance company, insurance service, or insurance organization (including an HMO) that is required to be licensed to engage in the business of insurance in a State and that is subject to State law that regulates insurance (within the meaning of section 514(b)(2) of ERISA). This term does not include a group health plan.
 
-*Health maintenance organization* or *HMO* means -
+*Health maintenance organization* or *HMO* means—
 
 (1) A Federally qualified health maintenance organization (as defined in section 1301(a) of the PHS Act);
 
@@ -118,13 +116,13 @@ For purposes of parts 146 (group market), 147 (group and individual market), 148
 
 *Large employer* means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 51 employees on business days during the preceding calendar year and who employs at least 1 employee on the first day of the plan year. A State may elect to define large employer by substituting “101 employees” for “51 employees.” In the case of an employer that was not in existence throughout the preceding calendar year, the determination of whether the employer is a large employer is based on the average number of employees that it is reasonably expected the employer will employ on business days in the current calendar year.
 
-*Large group market* means the health insurance market under which individuals obtain health insurance coverage (directly or through any arrangement) on behalf of themselves (and their dependents) through a group health plan maintained by a large employer, unless otherwise provided under State law.
+*Large group market* means the health insurance market under which individuals obtain health insurance coverage (directly or through any arrangement) on behalf of themselves (and their dependents) through a group health plan maintained by a large employer.
 
 *Late enrollee* means an individual whose enrollment in a plan is a late enrollment.
 
 *Late enrollment* means enrollment of an individual under a group health plan other than on the earliest date on which coverage can become effective for the individual under the terms of the plan; or through special enrollment. (For rules relating to special enrollment and limited open enrollment, see §§ 146.117 and 147.104 of this subchapter.) If an individual ceases to be eligible for coverage under a plan, and then subsequently becomes eligible for coverage under the plan, only the individual's most recent period of eligibility is taken into account in determining whether the individual is a late enrollee under the plan with respect to the most recent period of coverage. Similar rules apply if an individual again becomes eligible for coverage following a suspension of coverage that applied generally under the plan.
 
-*Medical care* means amounts paid for -
+*Medical care* means amounts paid for—
 
 (1) The diagnosis, cure, mitigation, treatment, or prevention of disease, or amounts paid for the purpose of affecting any structure or function of the body;
 
@@ -144,7 +142,7 @@ For purposes of parts 146 (group market), 147 (group and individual market), 148
 
 *Placement, or being placed, for adoption* means the assumption and retention of a legal obligation for total or partial support of a child by a person with whom the child has been placed in anticipation of the child's adoption. The child's placement for adoption with such person ends upon the termination of such legal obligation.
 
-*Plan* means, with respect to a product, the pairing of the health insurance coverage benefits under the product with a particular cost-sharing structure, provider network, and service area. The product comprises all plans offered with those characteristics and the combination of the service areas for all plans offered within a product constitutes the total service area of the product. With respect to a plan that has been modified at the time of coverage renewal consistent with § 147.106 of this subchapter -
+*Plan* means, with respect to a product, the pairing of the health insurance coverage benefits under the product with a particular cost-sharing structure, provider network, and service area. The product comprises all plans offered with those characteristics and the combination of the service areas for all plans offered within a product constitutes the total service area of the product. With respect to a plan that has been modified at the time of coverage renewal consistent with § 147.106 of this subchapter—
 
 (1) The plan will be considered to be the same plan if it:
 
@@ -154,7 +152,7 @@ For purposes of parts 146 (group market), 147 (group and individual market), 148
 
 (iii) Continues to cover a majority of the same provider network. For this purpose, the plan's provider network on the first day of the plan year is compared with the plan's provider network on the first day of the preceding plan year (as applicable).
 
-(2) The plan will not fail to be treated as the same plan to the extent the modification(s) are made uniformly and solely pursuant to applicable Federal and State requirements if -
+(2) The plan will not fail to be treated as the same plan to the extent the modification(s) are made uniformly and solely pursuant to applicable Federal and State requirements if—
 
 (i) The modification is made within a reasonable time period after the imposition or modification of the Federal or State requirement;
 
@@ -164,7 +162,7 @@ For purposes of parts 146 (group market), 147 (group and individual market), 148
 
 *Plan sponsor* has the meaning given the term under section 3(16)(B) of ERISA, which states, “(i) the employer in the case of an employee benefit plan established or maintained by a single employer, (ii) the employee organization in the case of a plan established or maintained by an employee organization, or (iii) in the case of a plan established or maintained by two or more employers or jointly by one or more employers and one or more employee organizations, the association, committee, joint board of trustees, or other similar group of representatives of the parties who establish or maintain the plan.”
 
-*Plan year* means the year that is designated as the plan year in the plan document of a group health plan, except that if the plan document does not designate a plan year or if there is no plan document, the plan year is -
+*Plan year* means the year that is designated as the plan year in the plan document of a group health plan, except that if the plan document does not designate a plan year or if there is no plan document, the plan year is—
 
 (1) The deductible or limit year used under the plan;
 
@@ -174,7 +172,7 @@ For purposes of parts 146 (group market), 147 (group and individual market), 148
 
 (4) In any other case, the plan year is the calendar year.
 
-*Policy year* means, with respect to -
+*Policy year* means, with respect to—
 
 (1) A grandfathered health plan offered in the individual health insurance market and student health insurance coverage, the 12-month period that is designated as the policy year in the policy documents of the health insurance coverage. If there is no designation of a policy year in the policy document (or no such policy document is available), then the policy year is the deductible or limit year used under the coverage. If deductibles or other limits are not imposed on a yearly basis, the policy year is the calendar year.
 
@@ -222,4 +220,4 @@ This coverage is not required to comply with certain federal market requirements
 
 *Waiting period* has the meaning given the term in 45 CFR 147.116(b).
 
-[69 FR 78781, Dec. 30, 2004, as amended at 74 FR 51688, Oct. 7, 2009; 75 FR 27138, May 13, 2010; 75 FR 37235, June 28, 2010; 77 FR 16468, Mar. 21, 2012; 78 FR 65091, Oct. 30, 2013; 79 FR 10313, Feb. 24, 2014; 79 FR 13833, Mar. 11, 2014; 79 FR 14151, Mar. 12, 2014; 79 FR 30335, May 27, 2014; 80 FR 10861, Feb. 27, 2015; 80 FR 72274, Nov. 18, 2015; 81 FR 12333, Mar. 8, 2016; 81 FR 75326, Oct. 31, 2016; 81 FR 94172, Dec. 22, 2016; 83 FR 38243, Aug. 3, 2018; 84 FR 29014, June 20, 2019; 86 FR 36970, July 13, 2021]
+[69 FR 78781, Dec. 30, 2004]Editorial Note:For Federal Register citations affecting § 144.103, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

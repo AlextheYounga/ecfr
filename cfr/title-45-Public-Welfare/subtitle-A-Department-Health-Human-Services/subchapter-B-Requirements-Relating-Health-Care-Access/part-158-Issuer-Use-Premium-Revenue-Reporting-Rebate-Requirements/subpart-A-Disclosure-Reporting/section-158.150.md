@@ -1,8 +1,6 @@
 ##### § 158.150 Activities that improve health care quality. #####
 
-Link to an amendment published at 87 FR 27393, May 6, 2022.
-
-(a) *General requirements.* The report required in § 158.110 of this subpart must include expenditures for activities that improve health care quality, as described in this section.
+(a) *General requirements.* The report required in § 158.110 must include expenditures directly related to activities that improve health care quality, as such activities are described in this section.
 
 (b) *Activity requirements.* Activities conducted by an issuer to improve quality must meet the following requirements:
 
@@ -68,7 +66,7 @@ Link to an amendment published at 87 FR 27393, May 6, 2022.
 
 (iv) Implement, promote, and increase wellness and health activities:
 
-(A) Examples of activities primarily designed to implement, promote, and increase wellness and health activities, include -
+(A) Examples of activities primarily designed to implement, promote, and increase wellness and health activities, include—
 
 (*1*) Wellness assessments;
 
@@ -122,4 +120,4 @@ Link to an amendment published at 87 FR 27393, May 6, 2022.
 
 (14) Any function or activity not expressly included in paragraph (a) or (b) of this section, unless otherwise approved by and within the discretion of the Secretary, upon adequate showing by the issuer that the activity's costs support the definitions and purposes in this part or otherwise support monitoring, measuring or reporting health care quality improvement.
 
-[75 FR 74921, Dec. 1, 2010, as amended at 76 FR 76592, Dec. 7, 2011; 77 FR 28790, May 16, 2012; 79 FR 30352, May 27, 2014; 85 FR 29262, May 14, 2020]
+[75 FR 74921, Dec. 1, 2010, as amended at 76 FR 76592, Dec. 7, 2011; 77 FR 28790, May 16, 2012; 79 FR 30352, May 27, 2014; 85 FR 29262, May 14, 2020; 87 FR 27393, May 6, 2022]

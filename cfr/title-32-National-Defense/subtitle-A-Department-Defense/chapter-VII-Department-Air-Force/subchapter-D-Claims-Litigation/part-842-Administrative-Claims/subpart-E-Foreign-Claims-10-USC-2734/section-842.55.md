@@ -46,6 +46,8 @@ A Solatium payment is paid from O&M funds as an investigative expense.
 
 (q) Is covered under U.S. admiralty or maritime laws, unless authorized by The Judge Advocate General or Chief, Claims and Tort Litigation Staff.
 
+(r) Is one for which a foreign government is responsible under SOFA, treaty, or other agreement. However, AFLOA/JACC may authorize payment of a claim where the foreign government refuses to recognize its legal responsibilities and the claimant has no other means of compensation.
+
 (s) Is not in the best interest of the United States, is contrary to public policy, or otherwise contrary to the basic intent of the FCA. Claims considered not payable on this basis will be forwarded to USAF/JACC for final decision.
 
 (t) Is presented by a national, or a corporation controlled by a national, of a country at war or engaged in armed conflict with the United States, or any country allied with such enemy country unless the settlement authority determines the claimant is, and at the time of the incident was, friendly to the United States. Exception: A prisoner of war or interned enemy alien is not excluded from filing a claim for damage, loss, or destruction of personal property within the U.S. Armed Forces' custody if the claim is otherwise payable.

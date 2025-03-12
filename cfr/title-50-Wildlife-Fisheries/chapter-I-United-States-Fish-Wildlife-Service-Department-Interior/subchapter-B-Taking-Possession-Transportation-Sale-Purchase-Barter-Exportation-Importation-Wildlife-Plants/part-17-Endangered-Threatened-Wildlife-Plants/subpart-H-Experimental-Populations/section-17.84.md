@@ -1,5 +1,7 @@
 ##### § 17.84 Special rules - vertebrates. #####
 
+Link to an amendment published at 87 FR 39372, July 1, 2022.
+
 (a) [Reserved]
 
 (b) Colorado squawfish (*Ptychocheilus lucius*) and woundfin (*Plagopterus* argentissimus). (1) The Colorado squawfish and woundfin populations identified in paragraph (b)(6) of this section, are experimental, nonessential populations.

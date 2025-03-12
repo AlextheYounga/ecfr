@@ -1,7 +1,5 @@
 ##### § 1291.50 Monitoring under the General Fund and Targeted Funds. #####
 
-Link to an amendment published at 87 FR 32969, June 1, 2022.
-
 (a) *Initial monitoring policies for owner-occupied and rental projects.* A Bank shall adopt written policies pursuant to which the Bank shall monitor each AHP owner-occupied project and rental project approved under its General Fund and any Targeted Funds prior to, and within a reasonable period of time after, project completion to verify, at a minimum, satisfaction of the requirements in this section.
 
 (1) *Satisfactory progress.* The Bank shall determine that:
@@ -30,7 +28,7 @@ Link to an amendment published at 87 FR 32969, June 1, 2022.
 
 (4) *Sampling plan.* The Bank shall not use a sampling plan to select the projects to be monitored under this paragraph (a), but may use a reasonable risk-based sampling plan to review the back-up project documentation.
 
-(b) *Long-term monitoring - reliance on other governmental monitoring for certain rental projects.* For completed AHP rental projects that also received funds from federal, state, or local government entities other than LIHTC, a Bank may, in its discretion, for purposes of long-term AHP monitoring under its General Fund and any Targeted Funds, rely on the monitoring by such entities of the income targeting and rent requirements applicable under their programs, provided that the Bank can show that:
+(b) *Long-term monitoring—reliance on other governmental monitoring for certain rental projects.* For completed AHP rental projects that also received funds from federal, state, or local government entities other than LIHTC, a Bank may, in its discretion, for purposes of long-term AHP monitoring under its General Fund and any Targeted Funds, rely on the monitoring by such entities of the income targeting and rent requirements applicable under their programs, provided that the Bank can show that:
 
 (1) The compliance profiles regarding income targeting, rent, and retention period requirements of the AHP and the other programs are substantively equivalent;
 
@@ -44,14 +42,16 @@ Link to an amendment published at 87 FR 32969, June 1, 2022.
 
 (1) *Annual project sponsor or owner certifications; backup and other project documentation.* A Bank's written monitoring policies shall include requirements for:
 
-(i) Bank review of annual certifications by project sponsors or owners to the Bank that household incomes and rents are in compliance with the commitments made in the approved AHP application during the AHP 15-year retention period, along with information on the ongoing financial viability of the project, including whether the project is current on its property taxes and loan payments, its vacancy rate, and whether it is in compliance with its commitments to other funding sources;
+(i) Bank review of all annual certifications to the Bank by project sponsors or owners, other than sponsors or owners of projects that have been allocated LIHTCs, that household incomes and rents are in compliance with the commitments made in the approved AHP application during the AHP 15-year retention period, along with information on the ongoing financial viability of the project, including whether the project is current on its property taxes and loan payments, its vacancy rate, and whether it is in compliance with its commitments to other funding sources;
 
 (ii) Bank review of back-up project documentation regarding household incomes and rents, including the rent rolls, maintained by the project sponsor or owner, except for projects that also received funds from other federal, state or local government entities whose programs meet the requirements in paragraphs (b)(1) and (2) of this section as specified in separate FHFA guidance, or projects that have been allocated LIHTC, provided that the Bank shall review any LIHTC noncompliance notices received from project owners pursuant to § 1291.15(a)(5)(ii) during the AHP 15-year retention period; and
 
 (iii) Maintenance and Bank review of other project documentation in the Banks' discretion.
 
-(2) *Risk factors and other monitoring* - (i) *Risk factors; other monitoring.* A Bank's written monitoring policies shall take into account risk factors such as the amount of AHP subsidy in the project, type of project, size of project, location of project, sponsor experience and performance, and any monitoring of the project provided by a federal, state, or local government entity.
+(2) *Risk factors and other monitoring*—(i) *Risk factors; other monitoring.* A Bank's written monitoring policies shall take into account risk factors such as the amount of AHP subsidy in the project, type of project, size of project, location of project, sponsor experience and performance, and any monitoring of the project provided by a federal, state, or local government entity.
 
 (ii) *Risk-based sampling plan.* A Bank may use a reasonable, risk-based sampling plan to select the rental projects to be monitored under this paragraph (c), and to review the back-up and any other project documentation. The risk-based sampling plan and its basis shall be in writing.
 
 (d) *Annual adjustment of targeting commitments.* For purposes of determining compliance with the targeting commitments in an approved AHP application for both initial and long-term AHP monitoring purposes under a Bank's General Fund and any Targeted Funds, such commitments shall be considered to adjust annually according to the current applicable median income data. A rental unit may continue to count toward meeting the targeting commitment of an approved AHP application as long as the rent charged to a household remains affordable, as defined in § 1291.1, for the household occupying the unit.
+
+[83 FR 61231, Nov. 28, 2018, as amended at 87 FR 32969, June 1, 2022]

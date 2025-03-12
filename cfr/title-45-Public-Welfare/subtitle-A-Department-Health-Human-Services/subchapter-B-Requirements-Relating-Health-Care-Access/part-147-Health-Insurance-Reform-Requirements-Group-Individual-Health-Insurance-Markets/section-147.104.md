@@ -1,12 +1,10 @@
 ##### § 147.104 Guaranteed availability of coverage. #####
 
-Link to an amendment published at 87 FR 27386, May 6, 2022.
-
 (a) *Guaranteed availability of coverage in the individual and group market.* Subject to paragraphs (b) through (d) of this section, a health insurance issuer that offers health insurance coverage in the individual, small group, or large group market in a State must offer to any individual or employer in the State all products that are approved for sale in the applicable market, and must accept any individual or employer that applies for any of those products.
 
 (b) *Enrollment periods.* A health insurance issuer may restrict enrollment in health insurance coverage to open or special enrollment periods.
 
-(1) *Open enrollment periods* - (i) *Group market.* (A) Subject to paragraph (b)(1)(i)(B) of this section, a health insurance issuer in the group market must allow an employer to purchase health insurance coverage for a group health plan at any point during the year.
+(1) *Open enrollment periods*—(i) *Group market.* (A) Subject to paragraph (b)(1)(i)(B) of this section, a health insurance issuer in the group market must allow an employer to purchase health insurance coverage for a group health plan at any point during the year.
 
 (B) In the case of a group health plan in the small group market that cannot comply with employer contribution or group participation rules for the offering of health insurance coverage, as allowed under applicable State law, and in the case of a QHP offered in the SHOP, as permitted by § 156.285(e) or § 156.286(e) of this subchapter, a health insurance issuer may restrict the availability of coverage to an annual enrollment period that begins November 15 and extends through December 15 of each calendar year.
 
@@ -82,6 +80,8 @@ Link to an amendment published at 87 FR 27386, May 6, 2022.
 
 (h) *Grandfathered health plans.* This section does not apply to grandfathered health plans in accordance with § 147.140.
 
-(i) *Construction.* Nothing in this section should be construed to require an issuer to offer coverage otherwise prohibited under applicable Federal law.
+(i) *Coverage denials for failure to pay premiums for prior coverage.* A health insurance issuer that denies coverage to an individual or employer due to the individual's or employer's failure to pay premium owed under a prior policy, certificate, or contract of insurance, including by attributing payment of premium for a new policy, certificate, or contract of insurance to the prior policy, certificate, or contract of insurance, violates paragraph (a) of this section.
 
-[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 78 FR 76217, Dec. 17, 2013; 79 FR 30339, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10862, Feb. 27, 2015; 81 FR 94173, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17058, Apr. 17, 2018; 85 FR 37247, June 19, 2020; 86 FR 24285, May 5, 2021; 86 FR 53503, Sept. 27, 2021]
+(j) *Construction.* Nothing in this section should be construed to require an issuer to offer coverage otherwise prohibited under applicable Federal law.
+
+[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 78 FR 76217, Dec. 17, 2013; 79 FR 30339, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10862, Feb. 27, 2015; 81 FR 94173, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17058, Apr. 17, 2018; 85 FR 37247, June 19, 2020; 86 FR 24285, May 5, 2021; 86 FR 53503, Sept. 27, 2021; 87 FR 27386, May 6, 2022]

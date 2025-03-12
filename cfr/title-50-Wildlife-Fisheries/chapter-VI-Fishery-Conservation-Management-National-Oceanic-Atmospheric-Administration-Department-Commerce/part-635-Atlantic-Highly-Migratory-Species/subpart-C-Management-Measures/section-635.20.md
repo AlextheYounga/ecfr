@@ -1,5 +1,7 @@
 ##### § 635.20 Size limits. #####
 
+Link to an amendment published at 87 FR 39382, July 1, 2022.
+
 (a) *General.* The CFL will be the sole criterion for determining the size and/or size class of whole (head on) Atlantic tunas.
 
 (b) *BFT size classes.* If the head of a BFT is no longer attached, the size class of the BFT shall be determined using pectoral fin curved fork length (PFCFL) multiplied by a conversion factor of 1.35. The CFL, as determined by conversion of the PFCFL, will be the sole criterion for determining the size class of a beheaded BFT. The conversion factor may be adjusted after consideration of additional scientific information and fish measurement data, and will be made effective by filing notification of the adjustment with the Office of the Federal Register for publication.

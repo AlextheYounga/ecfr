@@ -1,14 +1,12 @@
 ##### § 156.430 Payment for cost-sharing reductions. #####
 
-Link to an amendment published at 87 FR 27392, May 6, 2022.
-
 (a) [Reserved]
 
-(b) *Advance payments for cost-sharing reductions.* (1) A QHP issuer will receive periodic advance payments based on the advance payment amounts calculated in accordance with § 155.1030(b)(3) of this subchapter.
+(b) *Advance payments for cost-sharing reductions.* (1) When there is an appropriation to make cost-sharing reduction payments to QHP issuers, a QHP issuer will receive periodic advance payments from HHS to the extent permitted by the appropriation and calculated in accordance with § 155.1030(b)(3) of this subchapter.
 
 (2) HHS may adjust the advance payment amount for a particular QHP during the benefit year if the QHP issuer provides evidence, certified by a member of the American Academy of Actuaries in accordance with generally accepted actuarial principles and methodologies, that the advance payments for a particular QHP are likely to be substantially different than the cost-sharing reduction amounts that the QHP provides that will be reimbursed by HHS.
 
-(c) *Submission of actual amounts* - (1) *General.* For each plan variation that a QHP issuer offers on the Exchange, it must submit to HHS, in the manner and timeframe established by HHS, for each policy, the total allowed costs for essential health benefits charged for the policy for the benefit year, broken down by all of the following:
+(c) *Submission of actual amounts*—(1) *General.* For each plan variation that a QHP issuer offers on the Exchange, it must submit to HHS, in the manner and timeframe established by HHS, for each policy, the total allowed costs for essential health benefits charged for the policy for the benefit year, broken down by all of the following:
 
 (i) The amount the issuer paid.
 
@@ -120,15 +118,15 @@ Link to an amendment published at 87 FR 27392, May 6, 2022.
 
 (5) *Reimbursement of providers.* In the case of a benefit for which the QHP issuer compensates an applicable provider in whole or in part on a fee-for-service basis, allowed costs associated with the benefit may be included in the calculation of the amount that an enrollee(s) would have paid under the standard plan without cost-sharing reductions only to the extent the amount was either payable by the enrollee(s) as cost sharing under the plan variation or was reimbursed to the provider by the QHP issuer.
 
-(d) *Reconciliation of amounts.* HHS will perform periodic reconciliations of any advance payments of cost-sharing reductions provided to a QHP issuer under paragraph (b) of this section against -
+(d) *Cost-sharing reductions data submissions.* HHS will periodically provide a submission window for issuers to submit cost-sharing reduction data documenting cost-sharing reduction amounts issuers paid, as specified in paragraphs (d)(1) and (2) of this section, in a form and manner specified by HHS in guidance, calculated in accordance with paragraph (c) of this section. When HHS makes cost-sharing reduction payments to QHP issuers, HHS will notify QHP issuers that the submission of the cost-sharing data is mandatory for those issuers having received cost-sharing reduction payments for any part of the benefit year and voluntary for other issuers, and HHS will use the data to reconcile advance cost-sharing reduction payments to issuers against the actual amounts of cost-sharing reductions QHP issuers provided, as determined by HHS based on amounts specified in paragraphs (d)(1) and (2) of this section, as calculated in accordance with paragraph (c) of this section. In the absence of an appropriation to make cost-sharing reduction payments to issuers, HHS will notify QHP issuers that the submission of the cost-sharing data is voluntary. The cost-sharing data that must be submitted in either a voluntary or mandatory submission includes:
 
 (1) The actual amount of cost-sharing reductions provided to enrollees and reimbursed to providers by the QHP issuer for benefits for which the QHP issuer compensates the applicable providers in whole or in part on a fee-for-service basis; and
 
 (2) The actual amount of cost-sharing reductions provided to enrollees for benefits for which the QHP issuer compensates the applicable providers in any other manner.
 
-(e) *Payment of discrepancies.* If the actual amounts of cost-sharing reductions described in paragraphs (d)(1) and (2) of this section are -
+(e) *Cost-sharing reductions payments and charges.* If the actual amounts of cost-sharing reductions determined by HHS based on amounts described in paragraphs (d)(1) and (2) of this section are—
 
-(1) More than the amount of advance payments provided and the QHP issuer has timely provided the actual amounts of cost-sharing reductions as required under paragraph (c) of this section, HHS will reimburse the QHP issuer for the difference; and
+(1) More than the amount of advance payments HHS provided, and the QHP issuer has timely provided the data of actual amounts of cost-sharing reductions as required under paragraph (c) of this section, if an appropriation is available to make cost-sharing payments to QHP issuers, HHS will make a payment to the QHP issuer for the difference; or
 
 (2) Less than the amount of advance payments provided, the QHP issuer must repay the difference to HHS in the manner and timeframe specified by HHS.
 
@@ -146,4 +144,4 @@ Link to an amendment published at 87 FR 27392, May 6, 2022.
 
 (2) An issuer may appeal the amount of reconciliation of the cost-sharing reduction portion of advance payments, under the process set forth in § 156.1220.
 
-[78 FR 15535, 15555, Mar. 11, 2013, as amended at 78 FR 65097, Oct. 30, 2013; 79 FR 13840, Mar. 11, 2014; 80 FR 10875, Feb. 27, 2015; 81 FR 94181, Dec. 22, 2016]
+[78 FR 15535, 15555, Mar. 11, 2013, as amended at 78 FR 65097, Oct. 30, 2013; 79 FR 13840, Mar. 11, 2014; 80 FR 10875, Feb. 27, 2015; 81 FR 94181, Dec. 22, 2016; 87 FR 27392, May 6, 2022]

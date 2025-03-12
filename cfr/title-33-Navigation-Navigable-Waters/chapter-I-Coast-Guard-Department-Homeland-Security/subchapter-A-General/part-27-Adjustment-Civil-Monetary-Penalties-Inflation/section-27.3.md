@@ -149,4 +149,4 @@ Table 1 to § 27.3 - Civil Monetary Penalty Inflation Adjustments
 
 <sup>1</sup> Enacted under the Tariff Act of 1930 exempt from inflation adjustments.
 
-[82 FR 8581, Jan. 27, 2017, as amended at 83 FR 13836, Apr. 2, 2018; 84 FR 13510, Apr. 5, 2019; 85 FR 36480, June 17, 2020; USCG-2020-0304, 85 FR 58276, Sept. 18, 2020; 86 FR 57541, Oct. 18, 2021; 87 FR 1328, Jan. 11, 2022]
+[82 FR 8581, Jan. 27, 2017, as amended at 83 FR 13836, Apr. 2, 2018; 84 FR 13510, Apr. 5, 2019; 85 FR 36480, June 17, 2020; USCG-2020-0304, 85 FR 58276, Sept. 18, 2020; 87 FR 1328, Jan. 11, 2022]

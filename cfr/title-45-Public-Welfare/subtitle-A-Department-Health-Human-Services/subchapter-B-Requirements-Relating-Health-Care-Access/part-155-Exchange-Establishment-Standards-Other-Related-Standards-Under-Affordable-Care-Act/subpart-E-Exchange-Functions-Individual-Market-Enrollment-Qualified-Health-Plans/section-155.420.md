@@ -1,8 +1,6 @@
 ##### § 155.420 Special enrollment periods. #####
 
-Link to an amendment published at 87 FR 27389, May 6, 2022.
-
-(a) *General requirements* - (1) *General parameters.* The Exchange must provide special enrollment periods consistent with this section, during which qualified individuals may enroll in QHPs and enrollees may change QHPs.
+(a) *General requirements*—(1) *General parameters.* The Exchange must provide special enrollment periods consistent with this section, during which qualified individuals may enroll in QHPs and enrollees may change QHPs.
 
 (2) *Definition of dependent.* For the purpose of this section, “dependent”, has the same meaning as it does in 26 CFR 54.9801-2, referring to any individual who is or who may become eligible for coverage under the terms of a QHP because of a relationship to a qualified individual or enrollee.
 
@@ -28,7 +26,7 @@ Link to an amendment published at 87 FR 27389, May 6, 2022.
 
 (5) *Prior coverage requirement.* Qualified individuals who are required to demonstrate coverage in the 60 days prior to a qualifying event can either demonstrate that they had minimum essential coverage as described in 26 CFR 1.5000A-1(b) or demonstrate that they had coverage as described in paragraphs (d)(1)(iii) or (iv) of this section for 1 or more days during the 60 days preceding the date of the qualifying event; lived in a foreign country or in a United States territory for 1 or more days during the 60 days preceding the date of the qualifying event; are an Indian as defined by section 4 of the Indian Health Care Improvement Act; or lived for 1 or more days during the 60 days preceding the qualifying event or during their most recent preceding enrollment period, as specified in §§ 155.410 and 155.420, in a service area where no qualified health plan was available through the Exchange.
 
-(b) *Effective dates* - (1) *Regular effective dates.* Except as specified in paragraphs (b)(2) and (3) of this section, for a QHP selection received by the Exchange from a qualified individual -
+(b) *Effective dates*—(1) *Regular effective dates.* Except as specified in paragraphs (b)(2) and (3) of this section, for a QHP selection received by the Exchange from a qualified individual—
 
 (i) Between the first and the fifteenth day of any month, the Exchange must ensure a coverage effective date of the first day of the following month; and
 
@@ -56,7 +54,7 @@ Link to an amendment published at 87 FR 27389, May 6, 2022.
 
 (5) *Option for earlier effective dates due to untimely notice of triggering event.* At the option of a qualified individual, enrollee or dependent who is eligible to select a plan during a period provided for under paragraph (c)(5) of this section, the Exchange must provide the earliest effective date that would have been available under paragraph (b) of this section, based on the applicable triggering event under paragraph (d) of this section.
 
-(c) *Availability and length of special enrollment periods* - (1) *General rule.* Unless specifically stated otherwise herein, a qualified individual or enrollee has 60 days from the date of a triggering event to select a QHP.
+(c) *Availability and length of special enrollment periods*—(1) *General rule.* Unless specifically stated otherwise herein, a qualified individual or enrollee has 60 days from the date of a triggering event to select a QHP.
 
 (2) *Advanced availability.* A qualified individual or his or her dependent who is described in paragraph (d)(1), (d)(6)(iii), or (d)(15) of this section has 60 days before or after the triggering event to select a QHP. At the option of the Exchange, a qualified individual or his or her dependent who is described in paragraph (d)(7) of this section; who is described in paragraph (d)(6)(iv) of this section and becomes newly eligible for advance payments of the premium tax credit as a result of a permanent move to a new State; or who is described in paragraph (d)(3) of this section and becomes newly eligible for enrollment in a QHP through the Exchange because he or she newly satisfies the requirements under § 155.305(a)(2), has 60 days before or after the triggering event to select a QHP.
 
@@ -100,7 +98,7 @@ Link to an amendment published at 87 FR 27389, May 6, 2022.
 
 (iv) A qualified individual who was previously ineligible for advance payments of the premium tax credit solely because of a household income below 100 percent of the FPL and who, during the same timeframe, was ineligible for Medicaid because he or she was living in a non-Medicaid expansion State, who either experiences a change in household income or moves to a different State resulting in the qualified individual becoming newly eligible for advance payments of the premium tax credit; or
 
-(v) At the option of the Exchange, the qualified individual, or his or her dependent -
+(v) At the option of the Exchange, the qualified individual, or his or her dependent—
 
 (A) Experiences a decrease in household income;
 
@@ -108,13 +106,13 @@ Link to an amendment published at 87 FR 27389, May 6, 2022.
 
 (C) Had minimum essential coverage as described in 26 CFR 1.5000A-1(b) for one or more days during the 60 days preceding the date of the financial change.
 
-(7) The qualified individual or enrollee, or his or her dependent, gains access to new QHPs as a result of a permanent move and -
+(7) The qualified individual or enrollee, or his or her dependent, gains access to new QHPs as a result of a permanent move and—
 
 (i) Had minimum essential coverage as described in 26 CFR 1.5000A-1(b) for one or more days during the 60 days preceding the date of the permanent move.
 
 (ii) [Reserved]
 
-(8) The qualified individual -
+(8) The qualified individual—
 
 (i) Who gains or maintains status as an Indian, as defined by section 4 of the Indian Health Care Improvement Act, may enroll in a QHP or change from one QHP to another one time per month; or
 
@@ -122,13 +120,13 @@ Link to an amendment published at 87 FR 27389, May 6, 2022.
 
 (9) The qualified individual or enrollee, or his or her dependent, demonstrates to the Exchange, in accordance with guidelines issued by HHS, that the individual meets other exceptional circumstances as the Exchange may provide;
 
-(10) A qualified individual or enrollee -
+(10) A qualified individual or enrollee—
 
 (i) Is a victim of domestic abuse or spousal abandonment as defined by 26 CFR 1.36B-2 or a dependent or unmarried victim within a household, is enrolled in minimum essential coverage, and sought to enroll in coverage separate from the perpetrator of the abuse or abandonment; or
 
 (ii) Is a dependent of a victim of domestic abuse or spousal abandonment, on the same application as the victim, may enroll in coverage at the same time as the victim;
 
-(11) A qualified individual or dependent -
+(11) A qualified individual or dependent—
 
 (i) Applies for coverage on the Exchange during the annual open enrollment period or due to a qualifying event, is assessed by the Exchange as potentially eligible for Medicaid or the Children's Health Insurance Program (CHIP), and is determined ineligible for Medicaid or CHIP by the State Medicaid or CHIP agency either after open enrollment has ended or more than 60 days after the qualifying event; or
 
@@ -144,7 +142,7 @@ Link to an amendment published at 87 FR 27389, May 6, 2022.
 
 (16) At the option of the Exchange, a qualified individual or enrollee, or the dependent of a qualified individual or enrollee, who is eligible for advance payments of the premium tax credit, and whose household income, as defined in 26 CFR 1.36B-1(e), is expected to be no greater than 150 percent of the Federal poverty level, may enroll in a QHP or change from one QHP to another one time per month during periods of time when the applicable taxpayer's applicable percentage for purposes of calculating the premium assistance amount, as defined in section 36B(b)(3)(A) of the Internal Revenue Code, is set at zero.
 
-(e) *Loss of coverage.* Loss of coverage described in paragraph (d)(1) of this section includes those circumstances described in 26 CFR 54.9801-6(a)(3)(i) through (iii) and in paragraphs (d)(1)(ii) through (iv) of this section. Loss of coverage does not include voluntary termination of coverage or other loss due to -
+(e) *Loss of coverage.* Loss of coverage described in paragraph (d)(1) of this section includes those circumstances described in 26 CFR 54.9801-6(a)(3)(i) through (iii) and in paragraphs (d)(1)(ii) through (iv) of this section. Loss of coverage does not include voluntary termination of coverage or other loss due to—
 
 (1) Failure to pay premiums on a timely basis, including COBRA continuation coverage premiums prior to expiration of COBRA continuation coverage, except for circumstances in which an employer completely ceases its contributions to COBRA continuation coverage, or government subsidies of COBRA continuation coverage completely cease as described in paragraph (d)(15) of this section, or
 
@@ -152,4 +150,6 @@ Link to an amendment published at 87 FR 27389, May 6, 2022.
 
 (f) For purposes of this section, references to eligibility for advance payments of the premium tax credit refer to being eligible for such advance payments in an amount greater than zero dollars per month. References to ineligibility for advance payments of the premium tax credit refer to being ineligible for such payments or being eligible for such payments but being eligible for a maximum of zero dollars per month of such payments.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 78 FR 65095, Oct. 30, 2013; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 80 FR 38653, July 7, 2015; 81 FR 29155, May 11, 2016; 81 FR 94178, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17062, Apr. 17, 2018; 84 FR 17567, Apr. 25, 2019; 84 FR 29027, June 20, 2019; 85 FR 29260, May 14, 2020; 86 FR 24289, May 5, 2021; 86 FR 53503, Sept. 27, 2021]
+(g) *Pre-enrollment special enrollment period verification.* At the option of the Exchange, an Exchange may verify prior to processing a qualified individual's plan selection that the qualified individual is eligible for a special enrollment period under this section. In circumstances where the Exchange determines that such pre-enrollment special enrollment period verification may cause undue burden on qualified individuals, the Exchange may provide an exception to the pre-enrollment special enrollment period verification process, provided it does so in a manner consistent with the non-discrimination requirements under § 155.120(c). Exchanges on the Federal platform will conduct pre-enrollment special enrollment verification of eligibility only for special enrollment periods under paragraph (d)(1) of this section.
+
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 78 FR 65095, Oct. 30, 2013; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 80 FR 38653, July 7, 2015; 81 FR 29155, May 11, 2016; 81 FR 94178, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 83 FR 17062, Apr. 17, 2018; 84 FR 17567, Apr. 25, 2019; 84 FR 29027, June 20, 2019; 85 FR 29260, May 14, 2020; 86 FR 24289, May 5, 2021; 86 FR 53503, Sept. 27, 2021; 87 FR 27389, May 6, 2022]

@@ -1,7 +1,5 @@
 ##### § 156.400 Definitions. #####
 
-Link to an amendment published at 87 FR 27392, May 6, 2022.
-
 The following definitions apply to this subpart:
 
 *Advance payments of the premium tax credit* has the meaning given to the term in § 155.20 of this subchapter.
@@ -12,7 +10,7 @@ The following definitions apply to this subpart:
 
 *De minimis variation* means the allowable variation in the AV of a health plan that does not result in a material difference in the true dollar value of the health plan as established in § 156.140(c).
 
-*De minimis variation for a silver plan variation* means a single percentage point.
+*De minimis variation for a silver plan variation* means a −0 percentage point and +1 percentage point allowable AV variation.
 
 *Federal poverty level* or *FPL* has the meaning given to the term in § 155.300(a) of this subchapter.
 
@@ -36,4 +34,4 @@ The following definitions apply to this subpart:
 
 *Zero cost sharing plan variation* means, with respect to a QHP at any level of coverage, the variation of such QHP described in § 156.420(b)(1).
 
-[78 FR 15535, Mar. 11, 2013, as amended at 78 FR 65097, Oct. 30, 2013]
+[78 FR 15535, Mar. 11, 2013, as amended at 78 FR 65097, Oct. 30, 2013; 87 FR 27392, May 6, 2022]
