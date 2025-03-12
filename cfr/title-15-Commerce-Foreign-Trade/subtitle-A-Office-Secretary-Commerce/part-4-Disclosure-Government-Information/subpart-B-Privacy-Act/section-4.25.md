@@ -1,5 +1,7 @@
 ##### § 4.25 Disclosure of requested records to individuals. #####
 
+Link to an amendment published at 86 FR 21935, Apr. 26, 2021.
+
 (a)(1) The responsible Privacy Officer shall act promptly upon each request. Every effort will be made to respond within ten working days (*i.e.*, excluding Saturdays, Sundays and legal public holidays) of the date of receipt. If a response cannot be made within ten working days due to unusual circumstances, the Privacy Officer shall send an acknowledgment during that period providing information on the status of the request and asking for any further information that may be necessary to process the request. “Unusual circumstances” shall include circumstances in which:
 
 (i) A search for and collection of requested records from inactive storage, field facilities or other establishments is required;

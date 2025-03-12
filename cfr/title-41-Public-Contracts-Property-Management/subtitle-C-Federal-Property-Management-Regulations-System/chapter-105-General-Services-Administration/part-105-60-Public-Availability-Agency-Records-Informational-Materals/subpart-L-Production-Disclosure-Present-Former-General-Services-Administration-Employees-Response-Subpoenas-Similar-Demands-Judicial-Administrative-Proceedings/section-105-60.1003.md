@@ -1,0 +1,7 @@
+##### § 105-60.1003 Acceptance of service of a subpoena duces tecum or other legal demand on behalf of the General Services Administration. #####
+
+(a) The Administrator of General Services and the following officials are the only GSA personnel authorized to accept service of a subpoena or other legal demand on behalf of GSA: The GSA General Counsel and Associate General Counsel(s) and, with respect to material or information which is the responsibility of a regional office, the Regional Administrator and Regional Counsel. The Inspector General and Counsel to the Inspector General, as well as the Chairman and Vice Chairman of the Board of Contract Appeals, are authorized to accept service for material or information which are the responsibility of their respective organizations.
+
+(b) A present or former GSA employee not authorized to accept service of a subpoena or other demand for material, information or testimony obtained in an official capacity shall respectfully inform the process server that he or she is not authorized to accept service on behalf of GSA and refer the process server to an appropriate official listed in paragraph (a) of this section.
+
+(c) A Regional Administrator or Regional Counsel shall notify the General Counsel of a demand which may raise policy concerns or affect multiple regions.

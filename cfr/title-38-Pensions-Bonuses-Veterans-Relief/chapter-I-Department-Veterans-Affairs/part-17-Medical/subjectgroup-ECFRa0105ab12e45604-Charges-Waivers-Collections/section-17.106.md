@@ -1,7 +1,5 @@
 ##### § 17.106 VA collection rules; third-party payers. #####
 
-Link to an amendment published at 86 FR 16055, Mar. 26, 2021.
-
 (a)(1) *General rule.* VA has the right to recover or collect reasonable charges from a third-party payer for medical care and services provided for a nonservice-connected disability in or through any VA facility to a veteran who is also a beneficiary under the third-party payer's plan. VA's right to recover or collect is limited to the extent that the beneficiary or a nongovernment provider of care or services would be eligible to receive reimbursement or indemnification from the third-party payer if the beneficiary were to incur the costs on the beneficiary's own behalf.
 
 (2) *Definitions.* For the purposes of this section:
@@ -82,7 +80,7 @@ Link to an amendment published at 86 FR 16055, Mar. 26, 2021.
 
 (3) The remedies authorized for collection of indebtedness due the United States under 31 U.S.C. 3701, *et seq.,* 28 CFR part 11, 31 CFR parts 900 through 904 and 38 CFR part 1, are available to effect collections under this section.
 
-(4) A third-party payer may not, without the consent of a U.S. Government official authorized to take action under 38 U.S.C. 1729 and this part, offset or reduce any payment due under 38 U.S.C. 1729 or this part on the grounds that the payer considers itself due a refund from a VA facility. A written request for a refund must be submitted and adjudicated separately from any other claims submitted to the third-party payer under 38 U.S.C. 1729 or this part.
+(4) A third-party payer may not, without the consent of a U.S. Government official authorized to take action under 38 U.S.C. 1729 and this part, offset or reduce any payment due under 38 U.S.C. 1729 or this part on the grounds that the payer considers itself due a refund from a VA facility. A written request for a refund must be submitted within 18 months from the original payment date and adjudicated separately from any other claims submitted to the third-party payer under 38 U.S.C. 1729 or this part. If third-party payers do not submit requests for a refund within this 18-month time frame, VA will not provide a refund to third-party payers for a paid claim for any reason.
 
 (d) *Assignment of benefits or other submission by beneficiary not necessary.* The obligation of the third-party payer to pay is not dependent upon the beneficiary executing an assignment of benefits to the United States. Nor is the obligation to pay dependent upon any other submission by the beneficiary to the third-party payer, including any claim or appeal. In any case in which VA makes a claim, appeal, representation, or other filing under the authority of this part, any procedural requirement in any third-party payer plan for the beneficiary of such plan to make the claim, appeal, representation, or other filing must be deemed to be satisfied. A copy of the completed VA Form 10-10EZ or VA Form 10-10EZR that includes a veteran's insurance declaration will be provided to payers upon request, in lieu of a claimant's statement or coordination of benefits form.
 
@@ -108,6 +106,8 @@ Link to an amendment published at 86 FR 16055, Mar. 26, 2021.
 
 (viii) A third party may not reduce or refuse payment if the facility where the medical treatment was furnished is designated by VA as provider-based, but the facility does not meet the provider-based status requirements under 42 CFR 413.65.
 
+(ix) A provision in a third-party payer's plan that directs payment for care or services be refused or lessened because the billing is not presented in accordance with a specified methodology (such as a line item methodology) is not by itself a permissible ground for refusing or reducing third-party payment.
+
 (g) *Records.* Pursuant to 38 U.S.C. 1729(h), VA shall make available for inspection and review to representatives of third-party payers, from which the United States seeks payment, recovery, or collection under 38 U.S.C. 1729, appropriate health care records (or copies of such records) of patients. However, the appropriate records will be made available only for the purposes of verifying the care and services which are the subject of the claim(s) for payment under 38 U.S.C. 1729, and for verifying that the care and services met the permissible criteria of the terms and conditions of the third-party payer's plan. Patient care records will not be made available under any other circumstances to any other entity. VA will not make available to a third-party payer any other patient or VA records.
 
-(Authority: 31 U.S.C. 3711, 38 U.S.C. 501, 1729, 42 U.S.C. 2651)[76 FR 37204, June 24, 2011, as amended at 79 FR 54616, Sept. 12, 2014; 85 FR 53176, Aug. 28, 2020]
+(Authority: 31 U.S.C. 3711, 38 U.S.C. 501, 1729, 42 U.S.C. 2651)[76 FR 37204, June 24, 2011, as amended at 79 FR 54616, Sept. 12, 2014; 85 FR 53176, Aug. 28, 2020; 86 FR 16055, Mar. 26, 2021]
