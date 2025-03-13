@@ -1,6 +1,6 @@
 ##### § 76.564 Restricted indirect cost rate—formula. #####
 
-Link to an amendment published at 89 FR 70338, Aug. 29, 2024.
+Link to an amendment published at 89 FR 70338, Aug. 29, 2024.Link to a correction published at 89 FR 79147, Sept. 27, 2024.
 
 (a) An indirect cost rate for a grant covered by § 76.563 or 34 CFR 75.563 is determined by the following formula:
 

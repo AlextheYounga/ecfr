@@ -1,6 +1,6 @@
 ##### § 79.4 What are the Secretary's general responsibilities under the Order? #####
 
-Link to an amendment published at 89 FR 70343, Aug. 29, 2024.
+Link to an amendment published at 89 FR 70343, Aug. 29, 2024.Link to a correction published at 89 FR 79147, Sept. 27, 2024.
 
 (a) The Secretary provides opportunities for consultation by elected officials of those state and local governments that would provide the nonfederal funds for, or that would be directly affected by, proposed federal financial assistance from the Department.
 

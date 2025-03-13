@@ -1,6 +1,6 @@
 ##### § 75.225 What procedures does the Secretary use if the Secretary decides to give special consideration to novice applications? #####
 
-Link to an amendment published at 89 FR 70326, Aug. 29, 2024.
+Link to an amendment published at 89 FR 70326, Aug. 29, 2024.Link to a correction published at 89 FR 79147, Sept. 27, 2024.
 
 (a) As used in this section, “novice applicant” means—
 

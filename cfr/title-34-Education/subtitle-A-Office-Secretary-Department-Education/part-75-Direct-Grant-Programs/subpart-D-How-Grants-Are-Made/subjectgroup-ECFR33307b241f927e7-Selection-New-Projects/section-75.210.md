@@ -1,6 +1,6 @@
 ##### § 75.210 General selection criteria. #####
 
-Link to an amendment published at 89 FR 70322, Aug. 29, 2024.
+Link to an amendment published at 89 FR 70322, Aug. 29, 2024.Link to a correction published at 89 FR 79147, Sept. 27, 2024.
 
 In determining the selection criteria to evaluate applications submitted in a grant competition, the Secretary may select one or more of the following criteria and may select from among the list of optional factors under each criterion. The Secretary may define a selection criterion by selecting one or more specific factors within a criterion or assigning factors from one criterion to another criterion.
 

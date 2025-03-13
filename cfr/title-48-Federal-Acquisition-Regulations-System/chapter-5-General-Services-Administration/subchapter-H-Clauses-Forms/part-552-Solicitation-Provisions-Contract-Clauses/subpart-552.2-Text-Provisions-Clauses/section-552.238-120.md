@@ -2,7 +2,7 @@
 
 As prescribed in 538.273(d), insert the following clause:
 
-552.238-120 Economic Price Adjustment—Federal Supply Schedule Contracts (AUG 24)
+552.238-120 Economic Price Adjustment—Federal Supply Schedule Contracts (SEP 2024)
 
 (a) *Definition.*
 
@@ -46,4 +46,4 @@ As prescribed in 538.273(d), insert the following clause:
 
 (h) *Update of contract pricing and catalog data.* The Contractor shall update its FSS pricing and any other FSS catalog data in accordance with the terms and conditions of this contract.
 
-(End of clause)[89 FR 63328, Aug. 5, 2024]
+(End of clause)[89 FR 63328, Aug. 5, 2024, as amended at 89 FR 79172, Sept. 27, 2024]

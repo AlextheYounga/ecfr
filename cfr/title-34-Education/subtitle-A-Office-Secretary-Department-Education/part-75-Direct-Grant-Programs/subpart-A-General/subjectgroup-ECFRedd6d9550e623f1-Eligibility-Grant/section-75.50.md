@@ -1,6 +1,6 @@
 ##### § 75.50 How to find out whether you are eligible. #####
 
-Link to an amendment published at 89 FR 70320, Aug. 29, 2024.
+Link to an amendment published at 89 FR 70320, Aug. 29, 2024.Link to a correction published at 89 FR 79147, Sept. 27, 2024.
 
 Eligibility to apply for a grant under a program of the Department is governed by the authorizing statute and implementing regulations for that program.
 

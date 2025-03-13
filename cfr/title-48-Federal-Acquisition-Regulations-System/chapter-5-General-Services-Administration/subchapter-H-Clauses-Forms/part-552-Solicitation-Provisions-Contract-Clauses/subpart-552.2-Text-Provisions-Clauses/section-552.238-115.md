@@ -2,7 +2,7 @@
 
 As prescribed in 538.7204(b), insert the following clause:
 
-Special Ordering Procedures for the Acquisition of Order-Level Materials (AUG 24)
+Special Ordering Procedures for the Acquisition of Order-Level Materials (SEP 2024)
 
 (a) *Definition.*
 
@@ -52,4 +52,4 @@ Special Ordering Procedures for the Acquisition of Order-Level Materials (AUG 24
 
 (iii) 552.238-120, Economic Price Adjustment—Federal Supply Schedule Contracts.
 
-(End of clause)[84 FR 17046, Apr. 23, 2019, as amended at 87 FR 11590, Mar. 2, 2022; 89 FR 63328, Sept. 4, 2024]
+(End of clause)[84 FR 17046, Apr. 23, 2019, as amended at 87 FR 11590, Mar. 2, 2022; 89 FR 63328, Sept. 4, 2024; 89 FR 79172, Sept. 27, 2024]

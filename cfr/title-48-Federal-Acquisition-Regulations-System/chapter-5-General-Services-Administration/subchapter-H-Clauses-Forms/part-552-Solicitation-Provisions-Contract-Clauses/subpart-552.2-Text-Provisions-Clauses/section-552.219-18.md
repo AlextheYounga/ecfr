@@ -2,7 +2,7 @@
 
 As prescribed in 519.870-2(a), insert the following clause:
 
-Notification of Competition Limited to Eligible 8(a) Participants (DATE) (DEVIATION FAR 52.219-18)
+Notification of Competition Limited to Eligible 8(a) Participants (MAY 2024) (DEVIATION FAR 52.219-18)
 
 (a) Offers are solicited only from:
 
@@ -30,4 +30,4 @@ Notification of Competition Limited to Eligible 8(a) Participants (DATE) (DEVIAT
 
 (End of clause)
 
-[89 FR 22639, Apr. 2, 2024]
+[89 FR 22639, Apr. 2, 2024, as amended at 89 FR 79172, Sept. 27, 2024]
