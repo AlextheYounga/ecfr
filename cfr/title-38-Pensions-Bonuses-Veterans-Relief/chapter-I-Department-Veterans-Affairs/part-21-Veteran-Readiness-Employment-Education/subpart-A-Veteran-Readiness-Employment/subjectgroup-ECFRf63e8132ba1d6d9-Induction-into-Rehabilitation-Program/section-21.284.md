@@ -36,4 +36,4 @@
 
 (ii) To secure employment in the occupation for which he or she trained, or in a related occupation.
 
-(Authority: 38 U.S.C. 3117)[49 FR 40814, Oct. 18, 1984, as amended at 58 FR 68769, Dec. 29, 1993]
+(Authority: 38 U.S.C. 3117) [49 FR 40814, Oct. 18, 1984, as amended at 58 FR 68769, Dec. 29, 1993]

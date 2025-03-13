@@ -10,4 +10,4 @@
 
 (c) *Consequences of noncooperation when evaluation is not required.* If the veteran fails to report for or cooperate in an optional evaluation and the CP or VRC has made a reasonable effort to secure the veteran's participation, VA shall take appropriate action, including discontinuance of the evaluation under the provisions of § 21.364 of this part. The evaluation may be resumed if the reason for the discontinuance is removed and the veteran is otherwise eligible.
 
-(Authority: 38 U.S.C. 1524(a)(2))[53 FR 4397, Feb. 16, 1988, as amended at 71 FR 28586, May 17, 2006; 81 FR 26132, May 2, 2016]
+(Authority: 38 U.S.C. 1524(a)(2)) [53 FR 4397, Feb. 16, 1988, as amended at 71 FR 28586, May 17, 2006; 81 FR 26132, May 2, 2016]

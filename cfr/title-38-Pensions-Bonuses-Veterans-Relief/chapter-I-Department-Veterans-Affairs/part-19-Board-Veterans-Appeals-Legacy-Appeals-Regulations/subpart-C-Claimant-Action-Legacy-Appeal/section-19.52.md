@@ -12,4 +12,4 @@
 
 (c) *Response to Supplemental Statement of the Case.* Where a Supplemental Statement of the Case is furnished, a period of 30 days from the date of mailing of the Supplemental Statement of the Case will be allowed for response. The date of mailing of the Supplemental Statement of the Case will be presumed to be the same as the date of the Supplemental Statement of the Case for purposes of determining whether a response has been timely filed. Provided a Substantive Appeal has been timely filed in accordance with paragraph (b) of this section, the response to a Supplemental Statement of the Case is optional and is not required for the perfection of an appeal.
 
-(Authority: 38 U.S.C. 7105(d)(3) (2016))[57 FR 4109, Feb. 3, 1992, as amended at 66 FR 50318, Oct. 3, 2001; 68 FR 64806, Nov. 17, 2003; 73 FR 40748, July 16, 2008. Redesignated and amended at 84 FR 177, 179, Jan. 18, 2019]
+(Authority: 38 U.S.C. 7105(d)(3) (2016)) [57 FR 4109, Feb. 3, 1992, as amended at 66 FR 50318, Oct. 3, 2001; 68 FR 64806, Nov. 17, 2003; 73 FR 40748, July 16, 2008. Redesignated and amended at 84 FR 177, 179, Jan. 18, 2019]

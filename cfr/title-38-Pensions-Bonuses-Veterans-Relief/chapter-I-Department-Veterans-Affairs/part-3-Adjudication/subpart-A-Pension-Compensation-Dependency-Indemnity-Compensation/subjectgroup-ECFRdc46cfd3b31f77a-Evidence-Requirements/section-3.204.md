@@ -10,4 +10,4 @@
 
 (c) *Acceptability of photocopies.* Photocopies of documents necessary to establish birth, death, marriage or relationship under the provisions of §§ 3.205 through 3.215 of this part are acceptable as evidence if the Department of Veterans Affairs is satisfied that the copies are genuine and free from alteration. Otherwise, VA may request a copy of the document certified over the signature and official seal of the person having custody of such record.
 
-(Authority: 38 U.S.C. 501)(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0624)[26 FR 1572, Feb. 24, 1961, as amended at 40 FR 53581, Nov. 19, 1975; 45 FR 72655, Nov. 3, 1980; 59 FR 46338, Sept. 8, 1994; 61 FR 56626, Nov. 4, 1996; 66 FR 56614, Nov. 9, 2001]
+(Authority: 38 U.S.C. 501)(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0624) [26 FR 1572, Feb. 24, 1961, as amended at 40 FR 53581, Nov. 19, 1975; 45 FR 72655, Nov. 3, 1980; 59 FR 46338, Sept. 8, 1994; 61 FR 56626, Nov. 4, 1996; 66 FR 56614, Nov. 9, 2001]

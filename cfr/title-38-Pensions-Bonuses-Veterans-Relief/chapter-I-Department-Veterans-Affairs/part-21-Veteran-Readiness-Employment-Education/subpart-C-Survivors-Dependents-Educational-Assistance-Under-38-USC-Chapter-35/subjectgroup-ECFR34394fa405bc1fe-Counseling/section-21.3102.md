@@ -8,4 +8,4 @@
 
 (b) *Spouse or surviving spouse.* Counseling is required for a spouse or surviving spouse only if he or she desires specialized vocational training.
 
-(Authority: 38 U.S.C. 3520, 3536, 3541, 3561)[49 FR 40814, Oct. 18, 1984, as amended at 81 FR 26132, May 2, 2016]
+(Authority: 38 U.S.C. 3520, 3536, 3541, 3561) [49 FR 40814, Oct. 18, 1984, as amended at 81 FR 26132, May 2, 2016]

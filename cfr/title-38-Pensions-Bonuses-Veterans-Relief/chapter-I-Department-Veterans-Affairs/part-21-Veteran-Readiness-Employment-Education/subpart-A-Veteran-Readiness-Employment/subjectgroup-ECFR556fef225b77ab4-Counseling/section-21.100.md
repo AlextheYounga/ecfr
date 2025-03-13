@@ -50,4 +50,4 @@
 
 (e) *Definition.* For the purposes of this section, the term *State* means each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Authority: 38 U.S.C. 101(20))[49 FR 40814, Oct. 18, 1984, as amended at 54 FR 32071, Aug. 4, 1989; 62 FR 17708, Apr. 11, 1997; 81 FR 26132, May 2, 2016; 87 FR 8743, Feb. 16, 2022]
+(Authority: 38 U.S.C. 101(20)) [49 FR 40814, Oct. 18, 1984, as amended at 54 FR 32071, Aug. 4, 1989; 62 FR 17708, Apr. 11, 1997; 81 FR 26132, May 2, 2016; 87 FR 8743, Feb. 16, 2022]

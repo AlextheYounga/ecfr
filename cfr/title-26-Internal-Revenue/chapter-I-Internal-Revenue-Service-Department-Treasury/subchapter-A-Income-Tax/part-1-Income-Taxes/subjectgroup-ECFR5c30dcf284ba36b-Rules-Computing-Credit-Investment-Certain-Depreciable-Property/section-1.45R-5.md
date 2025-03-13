@@ -1,0 +1,11 @@
+##### § 1.45R-5 Claiming the credit. #####
+
+(a) *Claiming the credit.* The credit is a general business credit. It is claimed on an eligible small employer's annual income tax return and offsets an employer's actual tax liability for the year. The credit is claimed by attaching Form 8941, “Credit for Small Employer Health Insurance Premiums,” to the eligible small employer's income tax return or, in the case of a tax-exempt eligible small employer, by attaching Form 8941 to the employer's Form 990-T, “Exempt Organization Business Income Tax Return.” To claim the credit, a tax-exempt eligible small employer must file a form 990-T with an attached Form 8941, even if a Form 990-T would not otherwise be required to be filed.
+
+(b) *Estimated tax payments and alternative minimum tax (AMT) liability.* An eligible small employer may reflect the credit in determining estimated tax payments for the year in which the credit applies in accordance with the estimated tax rules as set forth in sections 6654 and 6655 and the applicable regulations. An eligible small employer may also use the credit to offset the employer's alternative minimum tax (AMT) liability for the year, if any, subject to certain limitations based on the amount of the employer's regular tax liability, AMT liability and other allowable credits. See section 38(c)(1), as modified by section 38(c)(4)(B)(vi). However, an eligible small employer, including a tax-exempt eligible small employer, may not reduce its deposits and payments of employment tax (that is, income tax required to be withheld under section 3402, social security and Medicare tax under sections 3101 and 3111, and federal unemployment tax under section 3301) during the year in anticipation of the credit.
+
+(c) *Reduction of section 162 deduction.* No deduction under section 162 is allowed for the eligible small employer for that portion of the health insurance premiums that is equal to the amount of the credit under § 1.45R-2.
+
+(d) *Effective/applicability date.* This section is applicable for periods after 2013. For rules relating to certain plan years beginning in 2014, see § 1.45R-3(i).
+
+[T.D. 9672, 79 FR 36646, June 30, 2014]

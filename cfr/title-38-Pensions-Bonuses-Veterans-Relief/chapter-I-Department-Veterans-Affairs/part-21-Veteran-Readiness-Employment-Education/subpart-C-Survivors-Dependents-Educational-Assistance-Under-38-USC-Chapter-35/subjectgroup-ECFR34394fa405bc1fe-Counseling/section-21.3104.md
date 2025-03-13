@@ -6,4 +6,4 @@
 
 (b) *Counseling after special restorative training.* When an eligible person completes or discontinues a course of special restorative training without having selected an objective and a program of education, a counseling psychologist or vocational rehabilitation counselor in the VR&E Division will provide additional counseling to assist him or her in selecting a program of education suitable to accomplish the purposes of 38 U.S.C. chapter 35.
 
-(Authority: 38 U.S.C. 3561)[61 FR 26109, May 24, 1996, as amended at 73 FR 2424, Jan. 15, 2008; 87 FR 8743, Feb. 16, 2022]
+(Authority: 38 U.S.C. 3561) [61 FR 26109, May 24, 1996, as amended at 73 FR 2424, Jan. 15, 2008; 87 FR 8743, Feb. 16, 2022]

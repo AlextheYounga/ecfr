@@ -12,4 +12,4 @@
 
 (d) *Termination of eligibility.* No person is eligible for educational assistance beyond his or her 31st birthday, except as provided under § 21.3041(g)(2). In no event may educational assistance be provided after the period of entitlement has been exhausted. In an exceptional case special restorative training may be provided in excess of 45 months. See § 21.3300.
 
-(Authority: 38 U.S.C. 3512(a))[30 FR 15632, Dec. 18, 1965, as amended at 34 FR 842, Jan. 18, 1969; 39 FR 38227, Oct. 30, 1974; 40 FR 42879, Sept. 17, 1975; 41 FR 47929, Nov. 1, 1976; 43 FR 35290, Aug. 9, 1978; 73 FR 30489, May 28, 2008]
+(Authority: 38 U.S.C. 3512(a)) [30 FR 15632, Dec. 18, 1965, as amended at 34 FR 842, Jan. 18, 1969; 39 FR 38227, Oct. 30, 1974; 40 FR 42879, Sept. 17, 1975; 41 FR 47929, Nov. 1, 1976; 43 FR 35290, Aug. 9, 1978; 73 FR 30489, May 28, 2008]

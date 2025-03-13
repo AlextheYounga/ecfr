@@ -4,7 +4,7 @@
 
 (b) A copy or certification of evidence filed in the Department of Veterans Affairs in support of a claim for dependency and indemnity compensation will be furnished the Social Security Administration upon request from the agency.
 
-(Authority: 38 U.S.C. 501(a) and 5105)Cross Reference:
+(Authority: 38 U.S.C. 501(a) and 5105) Cross Reference:
 
 Claims filed with Social Security. See § 3.153.
 

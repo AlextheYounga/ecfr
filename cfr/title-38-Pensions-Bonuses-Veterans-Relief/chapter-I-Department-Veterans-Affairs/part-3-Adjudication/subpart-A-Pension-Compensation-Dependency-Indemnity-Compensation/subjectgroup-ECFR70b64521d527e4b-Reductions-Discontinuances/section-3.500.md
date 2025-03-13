@@ -78,7 +78,7 @@ The effective date of a rating which results in the reduction or discontinuance 
 
 (y) *Compensation for certain disabilities due to undiagnosed illnesses (§§ 3.105; 3.317).* Last day of the month in which the 60-day period following notice to the payee of the final rating action expires. This applies to both reduced evaluations and severance of service connection.
 
-(Authority: Pub. L. 103-446; 38 U.S.C. 501(a))(Authority: 38 U.S.C. 8301)Cross Reference:
+(Authority: Pub. L. 103-446; 38 U.S.C. 501(a)) (Authority: 38 U.S.C. 8301)Cross Reference:
 
 Failure to return questionnaire. See § 3.661(b).
 

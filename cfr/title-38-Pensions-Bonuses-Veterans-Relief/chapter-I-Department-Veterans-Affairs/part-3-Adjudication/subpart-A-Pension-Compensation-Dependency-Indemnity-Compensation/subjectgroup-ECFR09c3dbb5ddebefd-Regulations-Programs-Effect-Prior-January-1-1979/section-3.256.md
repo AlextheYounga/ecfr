@@ -30,4 +30,4 @@
 
 (c) If VA requests that a claimant or beneficiary submit an eligibility verification report but he or she fails to do so within 60 days of the date of the VA request, the Secretary shall suspend the award or disallow the claim.
 
-(Authority: Sec. 306(a)(2) and (b)(3), Pub. L. 95-588, 92 Stat. 2508-2509; 38 U.S.C. 1315(e))(The Office of Management and Budget has approved the information collection requirements in this section under control numbers 2900-0101 and 2900-0624)[63 FR 53595, Oct. 6, 1998, as amended at 66 FR 56614, Nov. 9, 2001; 73 FR 40466, July 15, 2008]
+(Authority: Sec. 306(a)(2) and (b)(3), Pub. L. 95-588, 92 Stat. 2508-2509; 38 U.S.C. 1315(e))(The Office of Management and Budget has approved the information collection requirements in this section under control numbers 2900-0101 and 2900-0624) [63 FR 53595, Oct. 6, 1998, as amended at 66 FR 56614, Nov. 9, 2001; 73 FR 40466, July 15, 2008]

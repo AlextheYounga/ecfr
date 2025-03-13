@@ -94,4 +94,4 @@
 
 (3) The course leads to a high school diploma or a vocational objective.
 
-(Paperwork requirements in § 21.4253(d)(1) were approved by the Office of Management and Budget under control number 2900-0568)[31 FR 6774, May 6, 1966, as amended at 38 FR 14938, June 7, 1973; 40 FR 33825, Aug. 12, 1975; 43 FR 35302, Aug. 9, 1978; 48 FR 37992, Aug. 22, 1983; 50 FR 43135, Oct. 24, 1985; 60 FR 32272, June 21, 1995; 61 FR 6783, Feb. 22, 1996; 62 FR 35424, July 1, 1997; 65 FR 81742, Dec. 27, 2000; 73 FR 1077, Jan. 7, 2008; 88 FR 2833, Jan. 18, 2023]
+(Paperwork requirements in § 21.4253(d)(1) were approved by the Office of Management and Budget under control number 2900-0568) [31 FR 6774, May 6, 1966, as amended at 38 FR 14938, June 7, 1973; 40 FR 33825, Aug. 12, 1975; 43 FR 35302, Aug. 9, 1978; 48 FR 37992, Aug. 22, 1983; 50 FR 43135, Oct. 24, 1985; 60 FR 32272, June 21, 1995; 61 FR 6783, Feb. 22, 1996; 62 FR 35424, July 1, 1997; 65 FR 81742, Dec. 27, 2000; 73 FR 1077, Jan. 7, 2008; 88 FR 2833, Jan. 18, 2023]

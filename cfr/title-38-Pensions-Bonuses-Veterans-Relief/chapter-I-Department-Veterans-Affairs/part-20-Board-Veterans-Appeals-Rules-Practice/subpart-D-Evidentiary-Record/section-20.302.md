@@ -12,4 +12,4 @@
 
 (c) In the event that the appellant does not appear for a scheduled hearing, and the hearing is not rescheduled subject to § 20.704(d), the Board's decision will be based on a review of evidence described in paragraph (a)(1) of this section, and evidence submitted by the appellant or his or her representative within 90 days following the date of the scheduled hearing.
 
-(Authority: 38 U.S.C. 7105, 7107, 7113(b))[84 FR 182, Jan. 18, 2019]
+(Authority: 38 U.S.C. 7105, 7107, 7113(b)) [84 FR 182, Jan. 18, 2019]

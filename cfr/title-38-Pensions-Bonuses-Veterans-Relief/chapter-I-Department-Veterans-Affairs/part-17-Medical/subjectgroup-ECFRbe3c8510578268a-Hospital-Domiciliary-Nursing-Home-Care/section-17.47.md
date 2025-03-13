@@ -120,4 +120,4 @@ will not be furnished hospital care or medical services without charge therefore
 
 (k) In seeking medical care from VA under 38 U.S.C. 1710 or 1712, a veteran shall furnish such information and evidence as the Secretary may require to establish eligibility.
 
-(Authority: 38 U.S.C. 1722; sec. 19011, Pub. L. 99-272)[32 FR 13813, Oct. 4, 1967]Editorial Note:For Federal Register citations affecting § 17.47, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Authority: 38 U.S.C. 1722; sec. 19011, Pub. L. 99-272)[32 FR 13813, Oct. 4, 1967] Editorial Note:For Federal Register citations affecting § 17.47, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

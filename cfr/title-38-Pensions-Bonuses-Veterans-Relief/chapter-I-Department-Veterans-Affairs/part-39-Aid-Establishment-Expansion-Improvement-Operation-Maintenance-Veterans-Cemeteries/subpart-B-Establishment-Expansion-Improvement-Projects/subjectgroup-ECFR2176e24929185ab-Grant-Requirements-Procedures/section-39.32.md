@@ -48,7 +48,7 @@ The State or Tribal Organization must prepare Establishment, Expansion, and Impr
 
 (1) *General.* The State or Tribal Organization shall prepare final working drawings so that clear and distinct prints may be obtained. These drawings must be accurately dimensioned to include all necessary explanatory notes, schedules, and legends. Working drawings shall be complete and adequate for VA review and comment. The State or Tribal Organization shall prepare separate drawings for each of the following types of work: Architectural, equipment, layout, structural, heating and ventilating, plumbing, and electrical.
 
-(2) *Architectural drawings.* The State or Tribal Organization shall submit drawings which include: All structures and other work to be removed; all floor plans if any new work is involved; all elevations which are affected by the alterations; building sections; demolition drawings; all details to complete the proposed work and finish schedules; and fully dimensioned floor plans at1/8″ or1/4″ scale.
+(2) *Architectural drawings.* The State or Tribal Organization shall submit drawings which include: All structures and other work to be removed; all floor plans if any new work is involved; all elevations which are affected by the alterations; building sections; demolition drawings; all details to complete the proposed work and finish schedules; and fully dimensioned floor plans at 1/8″ or 1/4″ scale.
 
 (3) *Equipment drawings.* The State or Tribal Organization shall submit a list of all equipment to be provided under terms of the grant in the case of an Establishment Project. Large-scale drawings of typical special rooms indicating all fixed equipment and major items of furniture and moveable equipment shall be included.
 

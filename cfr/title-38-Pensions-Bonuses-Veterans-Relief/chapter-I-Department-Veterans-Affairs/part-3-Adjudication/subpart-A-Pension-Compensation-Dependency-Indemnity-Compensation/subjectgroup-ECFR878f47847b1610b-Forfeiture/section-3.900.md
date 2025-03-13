@@ -14,4 +14,4 @@
 
 (d) When the person primarily entitled has forfeited his or her rights by reason of fraud or a treasonable act determination as to the rights of any dependents of record to benefits under § 3.901(c) or § 3.902(c) may be made upon receipt of an application.
 
-(Authority: 38 U.S.C. 6103(b) and 38 U.S.C. 6104(b))[26 FR 1607, Feb. 24, 1961, as amended at 27 FR 8590, Aug. 28, 1962; 53 FR 17934, May 19, 1988]
+(Authority: 38 U.S.C. 6103(b) and 38 U.S.C. 6104(b)) [26 FR 1607, Feb. 24, 1961, as amended at 27 FR 8590, Aug. 28, 1962; 53 FR 17934, May 19, 1988]

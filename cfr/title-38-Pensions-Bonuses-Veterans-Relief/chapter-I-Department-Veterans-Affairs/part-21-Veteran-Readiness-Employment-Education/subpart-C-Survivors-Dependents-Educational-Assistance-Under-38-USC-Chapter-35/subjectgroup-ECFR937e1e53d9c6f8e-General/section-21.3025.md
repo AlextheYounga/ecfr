@@ -6,4 +6,4 @@ Payment of subsistence allowance and special training allowance is prohibited to
 
 (b) For a unit course or courses which are being paid for under 5 U.S.C. chapter 41.
 
-(Authority: 38 U.S.C. 3681(a))[61 FR 26108, May 24, 1996]
+(Authority: 38 U.S.C. 3681(a)) [61 FR 26108, May 24, 1996]

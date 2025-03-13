@@ -1,7 +1,5 @@
 ##### § 164.502 Uses and disclosures of protected health information: General rules. #####
 
-Link to an amendment published at 89 FR 33063, Apr. 26, 2024.
-
 (a) *Standard.* A covered entity or business associate may not use or disclose protected health information, except as permitted or required by this subpart or by subpart C of part 160 of this subchapter.
 
 (1) *Covered entities: Permitted uses and disclosures.* A covered entity is permitted to use or disclose protected health information as follows:
@@ -16,7 +14,13 @@ Link to an amendment published at 89 FR 33063, Apr. 26, 2024.
 
 (v) Pursuant to an agreement under, or as otherwise permitted by, § 164.510; and
 
-(vi) As permitted by and in compliance with this section, § 164.512, § 164.514(e), (f), or (g).
+(vi) As permitted by and in compliance with any of the following:
+
+(A) This section.
+
+(B) Section 164.512 and, where applicable, § 164.509.
+
+(C) Section 164.514(e), (f), or (g).
 
 (2) *Covered entities: Required disclosures.* A covered entity is required to disclose protected health information:
 
@@ -71,6 +75,30 @@ Link to an amendment published at 89 FR 33063, Apr. 26, 2024.
 (*vii*) Required by law as permitted under § 164.512(a); and
 
 (*viii*) For any other purpose permitted by and in accordance with the applicable requirements of this subpart, where the only remuneration received by the covered entity or business associate is a reasonable, cost-based fee to cover the cost to prepare and transmit the protected health information for such purpose or a fee otherwise expressly permitted by other law.
+
+(iii) *Reproductive health care*—(A) *Prohibition.* Subject to paragraphs (a)(5)(iii)(B) and (C) of this section, a covered entity or business associate may not use or disclose protected health information for any of the following activities:
+
+(*1*) To conduct a criminal, civil, or administrative investigation into any person for the mere act of seeking, obtaining, providing, or facilitating reproductive health care.
+
+(*2*) To impose criminal, civil, or administrative liability on any person for the mere act of seeking, obtaining, providing, or facilitating reproductive health care.
+
+(*3*) To identify any person for any purpose described in paragraphs (a)(5)(iii)(A)(*1*) or (*2*) of this section.
+
+(B) *Rule of applicability.* The prohibition at paragraph (a)(5)(iii)(A) of this section applies only where the relevant activity is in connection with any person seeking, obtaining, providing, or facilitating reproductive health care, and the covered entity or business associate that received the request for protected health information has reasonably determined that one or more of the following conditions exists:
+
+(*1*) The reproductive health care is lawful under the law of the state in which such health care is provided under the circumstances in which it is provided.
+
+(*2*) The reproductive health care is protected, required, or authorized by Federal law, including the United States Constitution, under the circumstances in which such health care is provided, regardless of the state in which it is provided.
+
+(*3*) The presumption at paragraph (a)(5)(iii)(C) of this section applies.
+
+(C) *Presumption.* The reproductive health care provided by another person is presumed lawful under paragraph (a)(5)(iii)(B)(*1*) or (*2*) of this section unless the covered entity or business associate has any of the following:
+
+(*1*) Actual knowledge that the reproductive health care was not lawful under the circumstances in which it was provided.
+
+(*2*) Factual information supplied by the person requesting the use or disclosure of protected health information that demonstrates a substantial factual basis that the reproductive health care was not lawful under the specific circumstances in which it was provided.
+
+(D) *Scope.* For the purposes of this subpart, seeking, obtaining, providing, or facilitating reproductive health care includes, but is not limited to, any of the following: expressing interest in, using, performing, furnishing, paying for, disseminating information about, arranging, insuring, administering, authorizing, providing coverage for, approving, counseling about, assisting, or otherwise taking action to engage in reproductive health care; or attempting any of the same.
 
 (b) *Standard: Minimum necessary*— *Minimum necessary applies.* When using or disclosing protected health information or when requesting protected health information from another covered entity or business associate, a covered entity or business associate must make reasonable efforts to limit protected health information to the minimum necessary to accomplish the intended purpose of the use, disclosure, or request.
 
@@ -128,15 +156,19 @@ Link to an amendment published at 89 FR 33063, Apr. 26, 2024.
 
 (4) *Implementation specification: Deceased individuals.* If under applicable law an executor, administrator, or other person has authority to act on behalf of a deceased individual or of the individual's estate, a covered entity must treat such person as a personal representative under this subchapter, with respect to protected health information relevant to such personal representation.
 
-(5) *Implementation specification: Abuse, neglect, endangerment situations.* Notwithstanding a State law or any requirement of this paragraph to the contrary, a covered entity may elect not to treat a person as the personal representative of an individual if:
+(5) *Implementation specification: Abuse, neglect, endangerment situations.* Notwithstanding a State law or any requirement of this paragraph to the contrary, a covered entity may elect not to treat a person as the personal representative, provided that the conditions at paragraphs (g)(5)(i) and (ii) of this section are met:
 
-(i) The covered entity has a reasonable belief that:
+(i) Paragraphs (g)(5)(i)(A) and (B) of this section both apply.
 
-(A) The individual has been or may be subjected to domestic violence, abuse, or neglect by such person; or
+(A) The covered entity has a reasonable belief that any of the following is true:
 
-(B) Treating such person as the personal representative could endanger the individual; and
+(*1*) The individual has been or may be subjected to domestic violence, abuse, or neglect by such person.
 
-(ii) The covered entity, in the exercise of professional judgment, decides that it is not in the best interest of the individual to treat the person as the individual's personal representative.
+(*2*) Treating such person as the personal representative could endanger the individual.
+
+(B) The covered entity, in the exercise of professional judgment, decides that it is not in the best interest of the individual to treat the person as the individual's personal representative.
+
+(ii) The covered entity does not have a reasonable belief under paragraph (g)(5)(i)(A) of this section if the basis for their belief is the provision or facilitation of reproductive health care by such person for and at the request of the individual.
 
 (h) *Standard: Confidential communications.* A covered health care provider or health plan must comply with the applicable requirements of § 164.522(b) in communicating protected health information.
 
@@ -158,4 +190,4 @@ Link to an amendment published at 89 FR 33063, Apr. 26, 2024.
 
 (ii) The protected health information disclosed is limited to the information listed in § 164.512(f)(2)(i).
 
-[65 FR 82802, Dec. 28, 2000, as amended at 67 FR 53267, Aug. 14, 2002; 78 FR 5696, Jan. 25, 2013]
+[65 FR 82802, Dec. 28, 2000, as amended at 67 FR 53267, Aug. 14, 2002; 78 FR 5696, Jan. 25, 2013; 89 FR 33063, Apr. 26, 2024]

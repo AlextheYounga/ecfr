@@ -40,4 +40,4 @@
 
 (f) *Nonduplication.* If a child is eligible for reimbursement of transportation services both under this section and under § 21.154, the child will receive only the benefit under § 21.154.
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0580)(Authority: 38 U.S.C. 1804(c), 1814)
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0580) (Authority: 38 U.S.C. 1804(c), 1814)

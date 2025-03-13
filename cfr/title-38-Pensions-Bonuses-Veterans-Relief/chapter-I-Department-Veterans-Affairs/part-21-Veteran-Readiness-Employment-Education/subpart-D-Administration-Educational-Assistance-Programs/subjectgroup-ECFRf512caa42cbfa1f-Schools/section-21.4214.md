@@ -62,4 +62,4 @@
 
 (p) *Rule 16.* In making its findings of facts and recommendations, the Committee on Educational Allowances will consider only questions which are referred to it by the Director of the VA Regional Processing Office of jurisdiction as being at issue and which are within the jurisdiction of the Committee.
 
-(Authority: 10 U.S.C. 16136(b); 38 U.S.C. 3034(a), 3241(a), 3323(a), 3689(d), 3690)[63 FR 35834, July 1, 1998, as amended at 72 FR 16972, Apr. 5, 2007; 74 FR 14669, Mar. 31, 2009]
+(Authority: 10 U.S.C. 16136(b); 38 U.S.C. 3034(a), 3241(a), 3323(a), 3689(d), 3690) [63 FR 35834, July 1, 1998, as amended at 72 FR 16972, Apr. 5, 2007; 74 FR 14669, Mar. 31, 2009]

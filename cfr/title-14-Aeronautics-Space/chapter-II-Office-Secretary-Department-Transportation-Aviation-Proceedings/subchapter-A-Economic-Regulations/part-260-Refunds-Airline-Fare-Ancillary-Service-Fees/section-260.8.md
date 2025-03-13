@@ -1,0 +1,3 @@
+##### § 260.8 Disclosing material restrictions, conditions, or limitations. #####
+
+A carrier must clearly disclose, no later than at the time of voucher or credit offer, any material restrictions, limitations, or conditions on travel credits, vouchers, or other compensation, including but not limited to validity period, advance purchase requirement, capacity restrictions, and blackout dates, regardless of whether consumers are entitled to a refund.

@@ -6,4 +6,4 @@
 
 (b) If the eligible person served with the Armed Forces, his or her discharge or release from each period of service must have been under conditions other than dishonorable.
 
-(Authority: 38 U.S.C. 3501(d))[30 FR 15633, Dec. 18, 1965, as amended at 34 FR 842, Jan. 18, 1969; 36 FR 2508, Feb. 5, 1971; 41 FR 42929, Nov. 1, 1976; 61 FR 26109, May 24, 1996; 73 FR 30491, May 28, 2008]
+(Authority: 38 U.S.C. 3501(d)) [30 FR 15633, Dec. 18, 1965, as amended at 34 FR 842, Jan. 18, 1969; 36 FR 2508, Feb. 5, 1971; 41 FR 42929, Nov. 1, 1976; 61 FR 26109, May 24, 1996; 73 FR 30491, May 28, 2008]

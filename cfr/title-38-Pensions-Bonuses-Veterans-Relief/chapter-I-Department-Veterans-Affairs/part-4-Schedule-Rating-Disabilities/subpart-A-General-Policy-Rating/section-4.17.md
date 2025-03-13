@@ -6,4 +6,4 @@ All veterans who are basically eligible and who are unable to secure and follow 
 
 (b) Claims of all veterans who fail to meet the percentage standards but who meet the basic entitlement criteria and are unemployable, will be referred by the rating board to the Veterans Service Center Manager or the Pension Management Center Manager under § 3.321(b)(2) of this chapter.
 
-(Authority: 38 U.S.C. 1155; 38 U.S.C. 3102)[43 FR 45348, Oct. 2, 1978, as amended at 56 FR 57985, Nov. 15, 1991; 71 FR 28586, May 17, 2006; 74 FR 26959, June 5, 2009]
+(Authority: 38 U.S.C. 1155; 38 U.S.C. 3102) [43 FR 45348, Oct. 2, 1978, as amended at 56 FR 57985, Nov. 15, 1991; 71 FR 28586, May 17, 2006; 74 FR 26959, June 5, 2009]

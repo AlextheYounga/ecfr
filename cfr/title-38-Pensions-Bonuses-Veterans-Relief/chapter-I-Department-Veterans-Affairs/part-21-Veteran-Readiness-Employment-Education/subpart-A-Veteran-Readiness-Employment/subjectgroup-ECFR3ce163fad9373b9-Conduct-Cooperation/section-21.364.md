@@ -20,4 +20,4 @@
 
 (iii) Other circumstances beyond the veteran's control.
 
-(Authority: 38 U.S.C. 3111)[49 FR 40814, Oct. 18, 1984, as amended at 81 FR 26132, May 2, 2016]
+(Authority: 38 U.S.C. 3111) [49 FR 40814, Oct. 18, 1984, as amended at 81 FR 26132, May 2, 2016]

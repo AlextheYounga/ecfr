@@ -28,4 +28,4 @@
 
 (k) The United States will pay the cash value, in full or in part, of any VALife policy, subject to the limitations in § 8.11(j), to insureds upon request through electronic medium or other method prescribed by the Secretary. Unless otherwise requested by the insured, a surrender will be deemed effective as of the end of the premium month in which the application for cash surrender is delivered to the Department of Veterans Affairs, or as of the date of payment for the cash value, whichever is later.
 
-(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0918)(Authority: 38 U.S.C. 1906)[61 FR 29292, June 10, 1996. Redesignated at 65 FR 7437, Feb. 15, 2000; 65 FR 19659, Apr. 12, 2000; 87 FR 73654, Dec. 1, 2022]
+(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0918) (Authority: 38 U.S.C. 1906)[61 FR 29292, June 10, 1996. Redesignated at 65 FR 7437, Feb. 15, 2000; 65 FR 19659, Apr. 12, 2000; 87 FR 73654, Dec. 1, 2022]

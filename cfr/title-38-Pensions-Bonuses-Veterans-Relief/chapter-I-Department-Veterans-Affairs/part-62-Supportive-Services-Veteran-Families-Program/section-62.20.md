@@ -38,4 +38,4 @@
 
 (c) VA may request in writing that an applicant or grantee, as applicable, submit other information or documentation relevant to the supportive services grant application.
 
-(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0757)(Authority: 38 U.S.C. 501, 2044)[75 FR 68979, Nov. 10, 2010, as amended at 80 FR 9611, Feb. 24, 2015]
+(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0757)(Authority: 38 U.S.C. 501, 2044) [75 FR 68979, Nov. 10, 2010, as amended at 80 FR 9611, Feb. 24, 2015]

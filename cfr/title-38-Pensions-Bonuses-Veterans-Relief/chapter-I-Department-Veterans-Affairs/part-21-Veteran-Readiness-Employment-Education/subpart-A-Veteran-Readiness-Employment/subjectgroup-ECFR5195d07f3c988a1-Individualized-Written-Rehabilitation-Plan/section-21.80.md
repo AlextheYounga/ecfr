@@ -26,4 +26,4 @@
 
 (d) *Plan not required.* A plan will not be prepared for a veteran who is not eligible for any assistance under Chapter 31. Department of Veterans Affairs staff, with the veteran's assistance and cooperation, will utilize information developed in the course of an initial evaluation to assist the veteran to develop alternatives for education and training, independence in daily living, or employment assistance. This assistance should help the veteran in achieving attainable vocational, independent living and employment goals utilizing benefits and services for which the veteran may be eligible under other Department of Veterans Affairs or non-Department of Veterans Affairs programs.
 
-(Authority: 38 U.S.C. 523, 7722(c))[49 FR 40814, Oct. 18, 1984, as amended at 87 FR 8743, Feb. 16, 2022]
+(Authority: 38 U.S.C. 523, 7722(c)) [49 FR 40814, Oct. 18, 1984, as amended at 87 FR 8743, Feb. 16, 2022]

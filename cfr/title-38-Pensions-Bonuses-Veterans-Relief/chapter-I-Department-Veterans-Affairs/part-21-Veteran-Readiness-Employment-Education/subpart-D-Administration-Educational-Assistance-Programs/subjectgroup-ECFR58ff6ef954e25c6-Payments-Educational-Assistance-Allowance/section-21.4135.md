@@ -158,4 +158,4 @@ Cross Reference:
 
 *Special restorative training.* See § 21.3332.
 
-[31 FR 6774, May 6, 1966]Editorial Note:For Federal Register citations affecting § 21.4135, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[31 FR 6774, May 6, 1966] Editorial Note:For Federal Register citations affecting § 21.4135, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

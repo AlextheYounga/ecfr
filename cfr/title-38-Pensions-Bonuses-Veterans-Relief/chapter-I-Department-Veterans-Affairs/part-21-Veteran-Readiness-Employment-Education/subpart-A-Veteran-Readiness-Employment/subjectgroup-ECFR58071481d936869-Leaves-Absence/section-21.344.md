@@ -16,4 +16,4 @@
 
 (ii) Adversely affect the veteran's ability to continue in his or her rehabilitation program.
 
-(Authority: 38 U.S.C. 3110)[49 FR 40814, Oct. 18, 1984, as amended by 56 FR 14649, Apr. 11, 1991]
+(Authority: 38 U.S.C. 3110) [49 FR 40814, Oct. 18, 1984, as amended by 56 FR 14649, Apr. 11, 1991]

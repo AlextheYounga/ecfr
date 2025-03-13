@@ -52,4 +52,4 @@
 
 (2) *Notice.* The Hub Manager will provide the beneficiary written notice regarding any bond furnished at the beneficiary's expense under paragraph (a), (b), or (c)(2) of this section or adjusted under paragraph (d)(2) of this section.
 
-(Authority: 38 U.S.C. 501, 5502, 5507)(Approved by the Office of Management and Budget under control numbers 2900-0017 and 2900-0804)[83 FR 32738, July 13, 2018, as amended at 87 FR 29673, May 16, 2022]
+(Authority: 38 U.S.C. 501, 5502, 5507)(Approved by the Office of Management and Budget under control numbers 2900-0017 and 2900-0804) [83 FR 32738, July 13, 2018, as amended at 87 FR 29673, May 16, 2022]

@@ -4,4 +4,4 @@
 
 (b) *On-job course,* An on-job course is pursued toward a specified vocational objective, provided by a training establishment. The trainee learns, in the course of work performed under supervision, primarily by receiving formal instruction, observing practical demonstration of work tasks, and assisting in those tasks. Productive work should gradually increase with greater independence from formal instruction as the course progresses.
 
-(Authority: 38 U.S.C. 501(a), 3104)[49 FR 40814, Oct. 18, 1984; 50 FR 9622, Mar. 11, 1985]
+(Authority: 38 U.S.C. 501(a), 3104) [49 FR 40814, Oct. 18, 1984; 50 FR 9622, Mar. 11, 1985]

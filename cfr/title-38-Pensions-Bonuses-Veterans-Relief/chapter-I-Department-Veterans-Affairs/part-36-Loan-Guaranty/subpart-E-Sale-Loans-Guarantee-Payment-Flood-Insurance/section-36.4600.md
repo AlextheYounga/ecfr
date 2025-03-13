@@ -64,7 +64,7 @@
 
 (iii) A failure by the holder to comply with the provisions of this paragraph may result in a deduction from the repurchase price pursuant to paragraph (e)(1) of this section.
 
-(Authority: 38 U.S.C. 3720)Note:
+(Authority: 38 U.S.C. 3720) Note:
 
 In any instance in which the holder desires Department of Veterans Affairs prior approval to a proposed action the holder may submit the facts to the Loan Guaranty Officer as provided in paragraph (i) of this section.
 

@@ -46,4 +46,4 @@
 
 (2) The participant remains eligible for continued participation in the Scholarship Program.
 
-(Authority: 38 U.S.C. 7603(d))(Approved by the Office of Management and Budget under control number 2900-0352)[48 FR 37399, Aug. 18, 1983, as amended at 54 FR 28674, July 7, 1989; 78 FR 51070, Aug. 20, 2013]
+(Authority: 38 U.S.C. 7603(d))(Approved by the Office of Management and Budget under control number 2900-0352) [48 FR 37399, Aug. 18, 1983, as amended at 54 FR 28674, July 7, 1989; 78 FR 51070, Aug. 20, 2013]

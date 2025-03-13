@@ -36,4 +36,4 @@
 
 (i) *Disobedience.* In case of disobedience to a subpoena issued by the Board, the Board will take such steps as may be necessary to invoke the aid of the appropriate district court of the United States in requiring the attendance of the witness and/or the production of the tangible evidence subpoenaed. A failure to obey the order of such a court may be punished by the court as a contempt thereof.
 
-(Authority: 38 U.S.C. 5711, 5713, 7102(a))(Authority: 38 U.S.C. 5711, 7102(a), 7107)[57 FR 4109, Feb. 3, 1992, as amended at 61 FR 20452, May 7, 1996; 66 FR 49538, Sept. 28, 2001; 81 FR 32650, May 24, 2016. Redesignated and amended 84 FR 187, Jan. 18, 2019; 84 FR 4337, Feb. 15, 2019]
+(Authority: 38 U.S.C. 5711, 5713, 7102(a))(Authority: 38 U.S.C. 5711, 7102(a), 7107) [57 FR 4109, Feb. 3, 1992, as amended at 61 FR 20452, May 7, 1996; 66 FR 49538, Sept. 28, 2001; 81 FR 32650, May 24, 2016. Redesignated and amended 84 FR 187, Jan. 18, 2019; 84 FR 4337, Feb. 15, 2019]

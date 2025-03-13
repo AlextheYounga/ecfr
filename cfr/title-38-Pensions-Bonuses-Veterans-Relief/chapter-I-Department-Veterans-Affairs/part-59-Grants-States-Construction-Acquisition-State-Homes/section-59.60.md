@@ -6,4 +6,4 @@ For a project to be eligible for a grant under this part for the fiscal year for
 
 (b) A completed VA Form 10-0388-5 and all information and documentation specified by VA Form 10-0388-5 (this form is available on the internet Web site provided in § 59.170).
 
-(Authority: 38 U.S.C. 101, 501, 1710, 1742, 8105, 8131-8137)[66 FR 33847, June 26, 2001, as amended at 73 FR 58880, Oct. 8, 2008]
+(Authority: 38 U.S.C. 101, 501, 1710, 1742, 8105, 8131-8137) [66 FR 33847, June 26, 2001, as amended at 73 FR 58880, Oct. 8, 2008]

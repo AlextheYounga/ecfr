@@ -96,4 +96,4 @@ For the purposes of this section, a person will be considered to be an “office
 
 (2) The veteran or eligible person will be informed that he or she may apply for enrollment in an approved course in another educational institution, but that in the absence of such transfer, educational assistance allowance payments will be discontinued effective the date of discontinuance of the course, or the 30th day following the date of such letter, whichever is earlier.
 
-(Authority: 38 U.S.C. 3683, 3690, 5104)[31 FR 6774, May 6, 1966, as amended at 43 FR 3707, Jan. 27, 1978; 51 FR 16315, May 2, 1986; 61 FR 20728, May 8, 1996; 72 FR 16967, Apr. 5, 2007; 74 FR 14666, Mar. 31, 2009]
+(Authority: 38 U.S.C. 3683, 3690, 5104) [31 FR 6774, May 6, 1966, as amended at 43 FR 3707, Jan. 27, 1978; 51 FR 16315, May 2, 1986; 61 FR 20728, May 8, 1996; 72 FR 16967, Apr. 5, 2007; 74 FR 14666, Mar. 31, 2009]

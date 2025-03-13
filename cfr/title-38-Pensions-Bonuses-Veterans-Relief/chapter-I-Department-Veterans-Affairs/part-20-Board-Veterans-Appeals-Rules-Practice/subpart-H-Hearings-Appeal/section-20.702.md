@@ -6,4 +6,4 @@ A hearing on appeal before the Board may be held by one of the following methods
 
 (b) By electronic hearing, through picture and voice transmission, with the appellant appearing at a Department of Veterans Affairs facility.
 
-(Authority: 38 U.S.C. 7102, 7105(a), 7107)[84 FR 186, Jan. 18, 2019]
+(Authority: 38 U.S.C. 7102, 7105(a), 7107) [84 FR 186, Jan. 18, 2019]

@@ -16,4 +16,4 @@
 
 (e) *Applicability.* This section applies where notice of a decision described in paragraph (a) of this section was provided to a veteran on or after the effective date of the modernized review system as provided in § 19.2(a) of this chapter, or where a veteran has elected review of a legacy claim under the modernized review system as provided in § 3.2400(c) of this chapter.
 
-(Authority: 38 U.S.C. 501, 5104B)[84 FR 194, Jan. 18, 2019]
+(Authority: 38 U.S.C. 501, 5104B) [84 FR 194, Jan. 18, 2019]

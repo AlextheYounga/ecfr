@@ -6,4 +6,4 @@
 
 (b) *Inability to serve.* If a Member is unable to participate in the disposition of a proceeding or motion to which the Member has been assigned, the Chairman may assign the proceeding or motion to another Member or substitute another Member (in the case of a proceeding or motion assigned to a panel).
 
-(Authority: 38 U.S.C. 7101(a), 7102)[61 FR 20448, May 7, 1996. Redesignated at 84 FR 177, Jan. 18, 2019, as amended at 84 FR 4337, Feb. 15, 2019]
+(Authority: 38 U.S.C. 7101(a), 7102) [61 FR 20448, May 7, 1996. Redesignated at 84 FR 177, Jan. 18, 2019, as amended at 84 FR 4337, Feb. 15, 2019]

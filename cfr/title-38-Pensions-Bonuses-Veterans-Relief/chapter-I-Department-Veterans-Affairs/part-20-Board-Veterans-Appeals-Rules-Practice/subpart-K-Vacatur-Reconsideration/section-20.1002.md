@@ -10,4 +10,4 @@
 
 (2) *Motion allowed.* If the motion is allowed, the appellant and his or her representative, if any, will be notified. The appellant and the representative will be given a period of 60 days from the date of mailing of the letter of notification to present additional arguments or evidence. The date of mailing of the letter of notification will be presumed to be the same as the date of the letter of notification. The Chairman will assign a Reconsideration panel in accordance with Rule 1004 (§ 20.1004).
 
-(Authority: 38 U.S.C. 7103, 7108)[57 FR 4109, Feb. 3, 1992, as amended at 81 FR 32650, May 24, 2016. Redesignated and amended at 84 FR 190, 191, Jan. 18, 2019]
+(Authority: 38 U.S.C. 7103, 7108) [57 FR 4109, Feb. 3, 1992, as amended at 81 FR 32650, May 24, 2016. Redesignated and amended at 84 FR 190, 191, Jan. 18, 2019]

@@ -8,4 +8,4 @@ The Statement of the Case must be complete enough to allow the appellant to pres
 
 (c) The determination of the agency of original jurisdiction on each issue and the reasons for each such determination with respect to which disagreement has been expressed.
 
-(Authority: 38 U.S.C. 7105(d)(1) (2016))[57 FR 4104, Feb. 3, 1992, as amended at 84 FR 178, Jan. 18, 2019]
+(Authority: 38 U.S.C. 7105(d)(1) (2016)) [57 FR 4104, Feb. 3, 1992, as amended at 84 FR 178, Jan. 18, 2019]

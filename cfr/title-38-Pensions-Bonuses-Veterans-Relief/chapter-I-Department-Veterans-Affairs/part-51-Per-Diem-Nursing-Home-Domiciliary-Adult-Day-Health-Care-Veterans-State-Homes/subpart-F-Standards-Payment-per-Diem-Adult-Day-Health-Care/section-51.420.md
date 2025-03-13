@@ -1,7 +1,6 @@
 ##### § 51.420 Quality of life. #####
 
-The State home must provide an environment that supports the quality of life of each participant by maximizing the participant's potential strengths and skills.
-(a) *Dignity.* The State home must promote care for participants in a manner and in an environment that maintains or enhances each participant's dignity and respect in full recognition of his or her individuality.
+The State home must provide an environment that supports the quality of life of each participant by maximizing the participant's potential strengths and skills. (a) *Dignity.* The State home must promote care for participants in a manner and in an environment that maintains or enhances each participant's dignity and respect in full recognition of his or her individuality.
 
 (b) *Self-determination and participation.* The State home must ensure that the participant has the right to:
 

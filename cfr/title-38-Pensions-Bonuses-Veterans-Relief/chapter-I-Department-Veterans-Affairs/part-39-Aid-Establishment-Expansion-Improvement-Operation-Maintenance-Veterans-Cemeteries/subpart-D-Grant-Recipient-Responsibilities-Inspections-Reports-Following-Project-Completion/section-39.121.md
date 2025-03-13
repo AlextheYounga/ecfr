@@ -12,4 +12,4 @@
 
 (d) Failure of a State or Tribal Organization to comply with any of paragraphs (a) through (c) of this section shall be considered cause for VA to suspend any payments due the State or Tribal Organization on any project until the compliance failure is corrected.
 
-(Authority: 38 U.S.C. 501, 2408; and E.O. 13166, 65 FR 50121)[75 FR 34005, June 16, 2010, as amended at 77 FR 4478, Jan. 30, 2012]
+(Authority: 38 U.S.C. 501, 2408; and E.O. 13166, 65 FR 50121) [75 FR 34005, June 16, 2010, as amended at 77 FR 4478, Jan. 30, 2012]

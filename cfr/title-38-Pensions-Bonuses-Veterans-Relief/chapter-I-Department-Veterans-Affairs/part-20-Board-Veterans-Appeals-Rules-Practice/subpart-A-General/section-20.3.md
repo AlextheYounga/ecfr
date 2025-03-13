@@ -28,4 +28,4 @@ As used in these Rules:
 
 (m) *State* includes any State, possession, territory, or Commonwealth of the United States, as well as the District of Columbia.
 
-(Authority: 38 U.S.C. 501(a))[57 FR 4109, Feb. 3, 1992, as amended at 61 FR 20449, May 7, 1996; 67 FR 36104, May 23, 2002; 69 FR 53808, Sept. 3, 2004; 79 FR 57698, Sept. 25, 2014; 84 FR 179, Jan. 18, 2019]
+(Authority: 38 U.S.C. 501(a)) [57 FR 4109, Feb. 3, 1992, as amended at 61 FR 20449, May 7, 1996; 67 FR 36104, May 23, 2002; 69 FR 53808, Sept. 3, 2004; 79 FR 57698, Sept. 25, 2014; 84 FR 179, Jan. 18, 2019]

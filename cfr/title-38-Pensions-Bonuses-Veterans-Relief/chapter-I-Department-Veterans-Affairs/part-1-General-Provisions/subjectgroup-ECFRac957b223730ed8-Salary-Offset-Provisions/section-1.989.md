@@ -4,4 +4,4 @@
 
 (b) *VA response.* In response to timely notice submitted by the debtor as described in paragraph (a) of this section, VA will notify the employee of the location and time when the employee may inspect and copy records related to the debt.
 
-(Authority: 5 U.S.C. 5514)[52 FR 1905, Jan. 16, 1987, as amended at 69 FR 62203, Oct. 25, 2004]
+(Authority: 5 U.S.C. 5514) [52 FR 1905, Jan. 16, 1987, as amended at 69 FR 62203, Oct. 25, 2004]

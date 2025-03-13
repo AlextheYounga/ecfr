@@ -6,4 +6,4 @@
 
 (c) *Nonadversarial proceedings.* Hearings conducted by the Board are ex parte in nature and nonadversarial. Parties to the hearing will be permitted to ask questions, including follow-up questions, of all witnesses but cross-examination will not be permitted. Proceedings will not be limited by legal rules of evidence, but reasonable bounds of relevancy and materiality will be maintained. The presiding Member may set reasonable time limits for the presentation of argument and may exclude documentary evidence, testimony, and/or argument which is not relevant or material to the issue, or issues, being considered or which is unduly repetitious.
 
-(Authority: 38 U.S.C. 7102, 7105(a), 7107)[57 FR 4109, Feb. 3, 1992, as amended at 58 FR 27935, May 12, 1993; 61 FR 20450, May 7, 1996; 84 FR 184, Jan. 18, 2019]
+(Authority: 38 U.S.C. 7102, 7105(a), 7107) [57 FR 4109, Feb. 3, 1992, as amended at 58 FR 27935, May 12, 1993; 61 FR 20450, May 7, 1996; 84 FR 184, Jan. 18, 2019]

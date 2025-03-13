@@ -16,4 +16,4 @@
 
 (c) *Presidential pardon.* Where any person whose right to benefits has been so terminated is granted a pardon of the offense by the President of the United States, the right to such benefits shall be restored as of the date of such pardon, if otherwise eligible.
 
-(Authority: 38 U.S.C. 6105)[27 FR 8591, Aug. 28, 1962, as amended at 38 FR 4511, Feb. 15, 1973; 38 FR 30106, Nov. 1, 1973; 53 FR 17934, May 19, 1988; 71 FR 44919, Aug. 8, 2006; 87 FR 26126, May 3, 2022]
+(Authority: 38 U.S.C. 6105) [27 FR 8591, Aug. 28, 1962, as amended at 38 FR 4511, Feb. 15, 1973; 38 FR 30106, Nov. 1, 1973; 53 FR 17934, May 19, 1988; 71 FR 44919, Aug. 8, 2006; 87 FR 26126, May 3, 2022]

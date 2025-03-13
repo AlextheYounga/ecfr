@@ -1,12 +1,12 @@
 ##### § 1807.800 Evaluation and selection—general. #####
 
-Each Applicant will be evaluated and selected, at the sole discretion of the CDFI Fund, to receive a CMF Award based on a review process that will include a paper or electronic application, and may include an interview(s) and/or site visit(s), and that is intended to:
+Each Applicant will be evaluated and selected, at the sole discretion of the CDFI Fund, to receive a CMF Award based on a review process that will include a paper or electronic Application, and may include an interview(s) and/or site visit(s), and that is intended to:
 
-(a) Ensure that Applicants are evaluated on a merit basis and in a fair and consistent manner;
+(a) Ensure that Applicants are evaluated in a fair and consistent manner based on the criteria outlined in the NOFA;
 
-(b) Ensure that each Recipient can successfully meet its leveraging goals and achieve Affordable Housing Activity and Economic Development Activity impacts;
+(b) Ensure that each Recipient can successfully meet its performance goals and achieve Affordable Housing Activity and Economic Development Activity impacts;
 
-(c) Ensure that Recipients represent a geographically diverse group of Applicants serving Metropolitan Areas and Underserved Rural Areas across the United States that meet criteria of economic distress, which may include:
+(c) Ensure that Recipients represent a geographically diverse group of Applicants serving Metropolitan Areas and Rural Areas across the United States to address economic distress. Criteria of economic distress may include:
 
 (1) The percentage of Low-Income Families or the extent of poverty;
 

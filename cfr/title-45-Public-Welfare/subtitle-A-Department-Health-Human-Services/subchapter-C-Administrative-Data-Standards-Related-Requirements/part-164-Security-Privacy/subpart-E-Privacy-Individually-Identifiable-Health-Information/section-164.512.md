@@ -1,8 +1,6 @@
 ##### § 164.512 Uses and disclosures for which an authorization or opportunity to agree or object is not required. #####
 
-Link to an amendment published at 89 FR 33064, Apr. 26, 2024.
-
-A covered entity may use or disclose protected health information without the written authorization of the individual, as described in § 164.508, or the opportunity for the individual to agree or object as described in § 164.510, in the situations covered by this section, subject to the applicable requirements of this section. When the covered entity is required by this section to inform the individual of, or when the individual may agree to, a use or disclosure permitted by this section, the covered entity's information and the individual's agreement may be given orally.
+Except as provided by § 164.502(a)(5)(iii), a covered entity may use or disclose protected health information without the written authorization of the individual, as described in § 164.508, or the opportunity for the individual to agree or object as described in § 164.510, in the situations covered by this section, subject to the applicable requirements of this section and § 164.509. When the covered entity is required by this section to inform the individual of, or when the individual may agree to, a use or disclosure permitted by this section, the covered entity's information and the individual's agreement may be given verbally.
 
 (a) *Standard: Uses and disclosures required by law.* (1) A covered entity may use or disclose protected health information to the extent that such use or disclosure is required by law and the use or disclosure complies with and is limited to the relevant requirements of such law.
 
@@ -58,7 +56,7 @@ A covered entity may use or disclose protected health information without the wr
 
 (2) *Permitted uses.* If the covered entity also is a public health authority, the covered entity is permitted to use protected health information in all cases in which it is permitted to disclose such information for public health activities under paragraph (b)(1) of this section.
 
-(c) *Standard: Disclosures about victims of abuse, neglect or domestic violence*—(1) *Permitted disclosures.* Except for reports of child abuse or neglect permitted by paragraph (b)(1)(ii) of this section, a covered entity may disclose protected health information about an individual whom the covered entity reasonably believes to be a victim of abuse, neglect, or domestic violence to a government authority, including a social service or protective services agency, authorized by law to receive reports of such abuse, neglect, or domestic violence:
+(c) *Standard: Disclosures about victims of abuse, neglect, or domestic violence*—(1) *Permitted disclosures.* Except for reports of child abuse or neglect permitted by paragraph (b)(1)(ii) of this section, a covered entity may disclose protected health information about an individual whom the covered entity reasonably believes to be a victim of abuse, neglect, or domestic violence to a government authority, including a social service or protective services agency, authorized by law to receive reports of such abuse, neglect, or domestic violence:
 
 (i) To the extent the disclosure is required by law and the disclosure complies with and is limited to the relevant requirements of such law;
 
@@ -75,6 +73,8 @@ A covered entity may use or disclose protected health information without the wr
 (i) The covered entity, in the exercise of professional judgment, believes informing the individual would place the individual at risk of serious harm; or
 
 (ii) The covered entity would be informing a personal representative, and the covered entity reasonably believes the personal representative is responsible for the abuse, neglect, or other injury, and that informing such person would not be in the best interests of the individual as determined by the covered entity, in the exercise of professional judgment.
+
+(3) *Rule of construction.* Nothing in this section shall be construed to permit disclosures prohibited by § 164.502(a)(5)(iii) when the sole basis of the report of abuse, neglect, or domestic violence is the provision or facilitation of reproductive health care.
 
 (d) *Standard: Uses and disclosures for health oversight activities*—(1) *Permitted disclosures.* A covered entity may disclose protected health information to a health oversight agency for oversight activities authorized by law, including audits; civil, administrative, or criminal investigations; inspections; licensure or disciplinary actions; civil, administrative, or criminal proceedings or actions; or other activities necessary for appropriate oversight of:
 
@@ -148,7 +148,7 @@ A covered entity may use or disclose protected health information without the wr
 
 (B) A grand jury subpoena; or
 
-(C) An administrative request, including an administrative subpoena or summons, a civil or an authorized investigative demand, or similar process authorized under law, provided that:
+(C) An administrative request for which response is required by law, including an administrative subpoena or summons, a civil or an authorized investigative demand, or similar process authorized under law, provided that:
 
 (*1*) The information sought is relevant and material to a legitimate law enforcement inquiry;
 
@@ -358,4 +358,4 @@ A covered entity may use or disclose protected health information without the wr
 
 (l) *Standard: Disclosures for workers' compensation.* A covered entity may disclose protected health information as authorized by and to the extent necessary to comply with laws relating to workers' compensation or other similar programs, established by law, that provide benefits for work-related injuries or illness without regard to fault.
 
-[65 FR 82802, Dec. 28, 2000, as amended at 67 FR 53270, Aug. 14, 2002; 78 FR 5699, Jan. 25, 2013; 78 FR 34266, June 7, 2013; 81 FR 395, Jan. 6, 2016]
+[65 FR 82802, Dec. 28, 2000, as amended at 67 FR 53270, Aug. 14, 2002; 78 FR 5699, Jan. 25, 2013; 78 FR 34266, June 7, 2013; 81 FR 395, Jan. 6, 2016; 89 FR 33064, Apr. 26, 2024]

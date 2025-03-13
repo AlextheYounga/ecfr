@@ -4,10 +4,10 @@
 
 (b) Designated positions:
 
-Under Secretary for BenefitsExecutive Director, Loan Guaranty ServiceDirector, Medical and Regional Office CenterDirector, VA Regional Office and Insurance CenterDirector, Regional OfficeLoan Guaranty OfficerAssistant Loan Guaranty OfficerThe authority hereby delegated to employees of the positions designated in this paragraph may, with the approval of the Under Secretary for Benefits, be redelegated.
+Under Secretary for BenefitsExecutive Director, Loan Guaranty ServiceDirector, Medical and Regional Office CenterDirector, VA Regional Office and Insurance Center Director, Regional OfficeLoan Guaranty OfficerAssistant Loan Guaranty OfficerThe authority hereby delegated to employees of the positions designated in this paragraph may, with the approval of the Under Secretary for Benefits, be redelegated.
 
 (c) Nothing in this section shall be construed to authorize any such employee to exercise the authority vested in the Secretary under 38 U.S.C. 501 or 3703(a)(2) or to sue or enter appearance for and on behalf of the Secretary or confess judgment against the Secretary in any court without the Secretary's prior authorization.
 
 (d) Each Regional Office, regional office and insurance center, and Medical and Regional Office Center shall maintain and keep current a cumulative list of all employees of that Office or Center who, since May 1, 1980, have occupied the positions of Director or Executive Director, Loan Guaranty Officer, and Assistant Loan Guaranty Officer. This list will include each employee's name, title, date the employee assumed the position, and the termination date, if applicable, of the employee's tenure in such position. The list shall be available for public inspection and copying at the Regional Office, or Center, during normal business hours.
 
-(Authority: 38 U.S.C. 501, 3720(a)(5))[23 FR 2340, Apr. 10, 1958, as amended at 43 FR 60461, Dec. 28, 1978; 45 FR 21243, Mar. 1, 1980; 46 FR 43675, Aug. 31, 1981; 54 FR 34988, Aug. 23, 1989; 61 FR 28059, June 4, 1996; 86 FR 51276, Sept. 15, 2021]
+(Authority: 38 U.S.C. 501, 3720(a)(5)) [23 FR 2340, Apr. 10, 1958, as amended at 43 FR 60461, Dec. 28, 1978; 45 FR 21243, Mar. 1, 1980; 46 FR 43675, Aug. 31, 1981; 54 FR 34988, Aug. 23, 1989; 61 FR 28059, June 4, 1996; 86 FR 51276, Sept. 15, 2021]

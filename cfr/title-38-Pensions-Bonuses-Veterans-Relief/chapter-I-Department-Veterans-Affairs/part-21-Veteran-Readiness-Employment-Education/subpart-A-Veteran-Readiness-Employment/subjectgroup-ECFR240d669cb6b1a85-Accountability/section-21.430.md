@@ -12,7 +12,7 @@
 
 (3) A program of independent living services.
 
-(Authority: 38 U.S.C. 3115(b)(4))Cross References:
+(Authority: 38 U.S.C. 3115(b)(4)) Cross References:
 
 See § 21.156. Other incidental goods and services. § 21.258. Special assistance for veterans in self-employment.
 

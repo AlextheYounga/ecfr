@@ -40,4 +40,4 @@
 
 (f) *Report.* The Panel must prepare a report on its findings and recommendations in each case. The Panel's recommendations may include specific actions which are warranted on the basis of current information, or may identify additional information needed to provide a sounder basis for planning the veteran's program of rehabilitation.
 
-(Authority: 38 U.S.C. 3104(a))[49 FR 40814, Oct. 18, 1984, as amended at 81 FR 26131, May 2, 2016; 87 FR 8742, Feb. 16, 2022]
+(Authority: 38 U.S.C. 3104(a)) [49 FR 40814, Oct. 18, 1984, as amended at 81 FR 26131, May 2, 2016; 87 FR 8742, Feb. 16, 2022]

@@ -84,4 +84,4 @@
 
 (2) The Director of the VA field station of jurisdiction shall determine whether the individual was without fault. In making this decision he or she shall consider all evidence of record and any additional evidence which the individual wishes to submit.
 
-(Authority: 38 U.S.C. 3485(e); Pub. L. 102-16)[62 FR 15401, Apr. 1, 1997]
+(Authority: 38 U.S.C. 3485(e); Pub. L. 102-16) [62 FR 15401, Apr. 1, 1997]

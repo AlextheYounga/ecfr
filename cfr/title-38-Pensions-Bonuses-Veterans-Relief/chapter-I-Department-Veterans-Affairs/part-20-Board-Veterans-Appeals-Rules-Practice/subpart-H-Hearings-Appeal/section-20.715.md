@@ -10,4 +10,4 @@
 
 (b) *Board decision issued prior to a loss of the recording or transcript.* The Board will not accept a request for a new Board hearing under this section if a Board decision was issued on an appeal prior to the loss of the recording or transcript of a Board hearing, and the Board decision considered testimony provided at that Board hearing.
 
-(Authority: 38 U.S.C. 7102, 7105(a), 7107)[84 FR 188, Jan. 18, 2019]
+(Authority: 38 U.S.C. 7102, 7105(a), 7107) [84 FR 188, Jan. 18, 2019]

@@ -92,7 +92,7 @@
 
 (2) Designated positions:
 
-Under Secretary for BenefitsDeputy Under Secretary for BenefitsExecutive Director, Loan Guaranty ServiceDirector, Medical and Regional Office CenterDirector, VA Regional Office and Insurance CenterDirector, Regional OfficeLoan Guaranty OfficerAssistant Loan Guaranty OfficerThe authority hereby delegated to employees of the positions designated in this paragraph may, with the approval of the Under Secretary for Benefits, be redelegated.
+Under Secretary for Benefits Deputy Under Secretary for Benefits Executive Director, Loan Guaranty Service Director, Medical and Regional Office Center Director, VA Regional Office and Insurance Center Director, Regional Office Loan Guaranty Officer Assistant Loan Guaranty OfficerThe authority hereby delegated to employees of the positions designated in this paragraph may, with the approval of the Under Secretary for Benefits, be redelegated.
 
 (3) Nothing in this section shall be construed to authorize any such employee to exercise the authority vested in the Secretary under 38 U.S.C. 501(a) or 3703(a)(2) or to sue or enter appearance for and on behalf of the Secretary or confess judgment against the Secretary in any court without the Secretary's prior authorization.
 

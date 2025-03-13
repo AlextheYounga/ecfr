@@ -36,4 +36,4 @@ Link to an amendment published at 88 FR 10037, Feb. 16, 2023.This amendment was 
 
 (4) Is traveling in connection with treatment of a service-connected disability.
 
-(Authority: 38 U.S.C. 101, 111, 501, 1701, 1714, 1720, 1728, 1782, 1783, E.O. 11302)[73 FR 36798, June 30, 2008, as amended at 73 FR 50723, Aug. 28, 2008]
+(Authority: 38 U.S.C. 101, 111, 501, 1701, 1714, 1720, 1728, 1782, 1783, E.O. 11302) [73 FR 36798, June 30, 2008, as amended at 73 FR 50723, Aug. 28, 2008]

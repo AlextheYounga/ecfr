@@ -36,6 +36,6 @@ The following paragraphs describe the manner and methods in which a claim can be
 
 Cross Reference:
 
-Complete claim. See § 3.160(a). Effective dates. See § 3.400.
+ Complete claim. See § 3.160(a). Effective dates. See § 3.400.
 
 [79 FR 57695, Sept. 25, 2014, as amended at 84 FR 168, Jan. 18, 2019]

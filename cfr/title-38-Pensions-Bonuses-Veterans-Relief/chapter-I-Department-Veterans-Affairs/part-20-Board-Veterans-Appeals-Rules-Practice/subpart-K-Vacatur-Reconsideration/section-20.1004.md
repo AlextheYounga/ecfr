@@ -6,4 +6,4 @@
 
 (c) *Members included in the reconsideration panel.* The reconsideration panel may not include any Member who participated in the decision that is being reconsidered. Additional Members will be assigned in accordance with paragraph (b) of this section.
 
-(Authority: 38 U.S.C. 7102, 7103)[61 FR 20449, May 7, 1996. Redesignated at 84 FR 177, Jan. 18, 2019, as amended at 84 FR 4337, Feb. 15, 2019]
+(Authority: 38 U.S.C. 7102, 7103) [61 FR 20449, May 7, 1996. Redesignated at 84 FR 177, Jan. 18, 2019, as amended at 84 FR 4337, Feb. 15, 2019]

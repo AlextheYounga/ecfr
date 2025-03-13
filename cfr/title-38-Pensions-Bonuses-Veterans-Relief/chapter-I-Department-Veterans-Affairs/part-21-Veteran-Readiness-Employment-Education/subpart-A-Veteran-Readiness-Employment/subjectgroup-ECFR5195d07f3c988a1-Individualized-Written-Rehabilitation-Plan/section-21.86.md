@@ -10,4 +10,4 @@
 
 (2) The intermediate objectives relate to problems of questions which must be resolved for the VA to determine the current reasonable feasibility of achieving a vocational goal.
 
-(Authority: 38 U.S.C. 3106(a), 3107(a))[53 FR 50957, Dec. 19, 1988]
+(Authority: 38 U.S.C. 3106(a), 3107(a)) [53 FR 50957, Dec. 19, 1988]

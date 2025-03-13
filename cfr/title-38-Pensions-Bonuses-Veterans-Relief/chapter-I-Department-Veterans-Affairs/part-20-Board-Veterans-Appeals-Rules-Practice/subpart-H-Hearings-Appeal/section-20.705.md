@@ -26,4 +26,4 @@
 
 (c) *Ruling on motions.* The presiding Member has the authority to rule on any Board hearing-related motion.
 
-(Authority: 38 U.S.C. 501)[84 FR 187, Jan. 18, 2019]
+(Authority: 38 U.S.C. 501) [84 FR 187, Jan. 18, 2019]

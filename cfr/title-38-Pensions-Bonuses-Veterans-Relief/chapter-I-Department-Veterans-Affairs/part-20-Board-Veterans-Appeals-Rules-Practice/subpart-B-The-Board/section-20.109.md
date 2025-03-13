@@ -6,4 +6,4 @@
 
 (c) The authority exercised by the Chairman of the Board of Veterans' Appeals described in Rule 2 (§ 20.2), may also be exercised by the Vice Chairman of the Board; by Deputy Vice Chairmen of the Board; and, in connection with a proceeding or motion assigned to them by the Chairman, by a Member or Members of the Board.
 
-(Authority: 38 U.S.C. 512(a), 7102, 7104)[84 FR 4337, Feb. 15, 2019]
+(Authority: 38 U.S.C. 512(a), 7102, 7104) [84 FR 4337, Feb. 15, 2019]

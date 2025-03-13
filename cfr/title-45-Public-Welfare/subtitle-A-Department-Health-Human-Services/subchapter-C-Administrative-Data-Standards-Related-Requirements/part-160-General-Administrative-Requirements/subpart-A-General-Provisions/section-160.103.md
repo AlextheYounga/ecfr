@@ -1,7 +1,5 @@
 ##### § 160.103 Definitions. #####
 
-Link to an amendment published at 89 FR 33062, Apr. 26, 2024.
-
 Except as otherwise provided, the following definitions apply to this subchapter:
 
 *Act* means the Social Security Act.
@@ -246,7 +244,7 @@ Except as otherwise provided, the following definitions apply to this subchapter
 
 (5) The group health plans described in paragraph (4) of this definition and health insurance issuers or HMOs with respect to such group health plans, but only with respect to protected health information created or received by such health insurance issuers or HMOs that relates to individuals who are or have been participants or beneficiaries in any of such group health plans.
 
-*Person* means a natural person, trust or estate, partnership, corporation, professional association or corporation, or other entity, public or private.
+*Person* means a natural person (meaning a human being who is born alive), trust or estate, partnership, corporation, professional association or corporation, or other entity, public or private.
 
 *Protected health information* means individually identifiable health information:
 
@@ -267,6 +265,16 @@ Except as otherwise provided, the following definitions apply to this subchapter
 (iii) In employment records held by a covered entity in its role as employer; and
 
 (iv) Regarding a person who has been deceased for more than 50 years.
+
+*Public health,* as used in the terms “public health surveillance,” “public health investigation,” and “public health intervention,” means population-level activities to prevent disease in and promote the health of populations. Such activities include identifying, monitoring, preventing, or mitigating ongoing or prospective threats to the health or safety of a population, which may involve the collection of protected health information. But such activities do not include those with any of the following purposes:
+
+(1) To conduct a criminal, civil, or administrative investigation into any person for the mere act of seeking, obtaining, providing, or facilitating health care.
+
+(2) To impose criminal, civil, or administrative liability on any person for the mere act of seeking, obtaining, providing, or facilitating health care.
+
+(3) To identify any person for any of the activities described at paragraphs (1) or (2) of this definition.
+
+*Reproductive health care* means health care, as defined in this section, that affects the health of an individual in all matters relating to the reproductive system and to its functions and processes. This definition shall not be construed to set forth a standard of care for or regulate what constitutes clinically appropriate reproductive health care.
 
 *Respondent* means a covered entity or business associate upon which the Secretary has imposed, or proposes to impose, a civil money penalty.
 
@@ -328,4 +336,4 @@ Except as otherwise provided, the following definitions apply to this subchapter
 
 *Workforce* means employees, volunteers, trainees, and other persons whose conduct, in the performance of work for a covered entity or business associate, is under the direct control of such covered entity or business associate, whether or not they are paid by the covered entity or business associate.
 
-[65 FR 82798, Dec. 28, 2000, as amended at 67 FR 38019, May 31, 2002; 67 FR 53266, Aug. 14, 2002; 68 FR 8374, Feb. 20, 2003; 71 FR 8424, Feb. 16, 2006; 76 FR 40495, July 8, 2011; 77 FR 1589, Jan. 10, 2012; 78 FR 5687, Jan. 25, 2013]
+[65 FR 82798, Dec. 28, 2000, as amended at 67 FR 38019, May 31, 2002; 67 FR 53266, Aug. 14, 2002; 68 FR 8374, Feb. 20, 2003; 71 FR 8424, Feb. 16, 2006; 76 FR 40495, July 8, 2011; 77 FR 1589, Jan. 10, 2012; 78 FR 5687, Jan. 25, 2013; 89 FR 33062, Apr. 26, 2024]

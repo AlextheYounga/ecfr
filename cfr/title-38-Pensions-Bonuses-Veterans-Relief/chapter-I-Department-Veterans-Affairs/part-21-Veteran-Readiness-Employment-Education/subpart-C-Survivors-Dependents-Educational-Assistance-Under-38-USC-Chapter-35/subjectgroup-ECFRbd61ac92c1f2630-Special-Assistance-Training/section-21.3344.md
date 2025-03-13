@@ -40,4 +40,4 @@
 
 (f) *Basic skills.* Basic English language courses or mathematics courses will be authorized when it is found by accepted testing methods that the eligible person is lacking in basic reading, writing, speaking, or essential mathematics.
 
-(Authority: 38 U.S.C. 3533)[61 FR 26112, May 24, 1996, as amended at 73 FR 2426, Jan. 15, 2008; 87 FR 8743, Feb. 16, 2022]
+(Authority: 38 U.S.C. 3533) [61 FR 26112, May 24, 1996, as amended at 73 FR 2426, Jan. 15, 2008; 87 FR 8743, Feb. 16, 2022]

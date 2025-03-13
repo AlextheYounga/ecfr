@@ -30,7 +30,7 @@
 
 (g) Approval under 38 U.S.C. 3689 of a licensing or certification test offered by any agency or instrumentality of the Federal government will be under the authority of the Secretary.
 
-(Authority: 38 U.S.C. 3689)Cross Reference:
+(Authority: 38 U.S.C. 3689) Cross Reference:
 
 *Course and licensing and certification test approval; jurisdiction and notices.* See § 21.4250.
 

@@ -6,4 +6,4 @@
 
 (c) *Claimant under disability and able to file.* Notwithstanding the fact that a fiduciary may have been appointed for a claimant, an appeal filed by a claimant will be accepted.
 
-(Authority: 38 U.S.C. 7105(b)(2) (2016))[57 FR 4109, Feb. 3, 1992. Redesignated and amended at 84 FR 177, 179, Jan. 18, 2019]
+(Authority: 38 U.S.C. 7105(b)(2) (2016)) [57 FR 4109, Feb. 3, 1992. Redesignated and amended at 84 FR 177, 179, Jan. 18, 2019]

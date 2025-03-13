@@ -52,7 +52,7 @@ Wherever used in 38 U.S.C. 3712 or the § 36.4200 series, unless the context oth
 
 *Servicing agent.* An agent designated by the loan holder as the entity to collect installments on the loan and/or perform other functions as necessary to protect the interests of the holder.
 
-(Authority: 38 U.S.C. 3714)*Used manufactured home.* A manufactured home which has been previously occupied or which was manufactured more than 1 year prior to date of loan application.
+(Authority: 38 U.S.C. 3714) *Used manufactured home.* A manufactured home which has been previously occupied or which was manufactured more than 1 year prior to date of loan application.
 
 *Wholesale (base) price list.* The price list(s) as periodically amended, published and distributed by a home manufacturer to all retail dealers in a given marketing area, quoting the actual wholesale (base) price at the factory for specific models or series of manufactured homes, itemized options, itemized furniture, and specialty items offered for sale to such dealers during a specified period of time. All such wholesale (base) prices shall exclude any costs of trade association fees or charges, discounts, refunds, rebates, prizes, loan discount points or other financing charges, or anything else of more than a nominal value of $10 which will inure to the benefit of a dealer and/or home purchaser at any date, as required to be disclosed in the manufacturer's invoice. Each price list and amendment shall be retained by the manufacturer for a minimum period of six years from the date of publication to be available to VA and other Federal agencies upon request.
 

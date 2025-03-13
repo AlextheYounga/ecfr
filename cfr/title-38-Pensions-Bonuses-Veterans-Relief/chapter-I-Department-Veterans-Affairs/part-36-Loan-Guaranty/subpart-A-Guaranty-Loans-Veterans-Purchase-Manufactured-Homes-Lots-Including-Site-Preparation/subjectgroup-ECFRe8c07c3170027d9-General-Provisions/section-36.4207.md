@@ -14,4 +14,4 @@ To qualify for purchase with a guaranteed loan a manufactured home must:
 
 (d) Comply with the specifications in effect at the time the loan is made that are prescribed by the Secretary.
 
-(Authority: 38 U.S.C. 3712(h)(1))[36 FR 1253, Jan. 27, 1971, as amended at 40 FR 13213, Mar. 25, 1975; 44 FR 22725, Apr. 17, 1979; 56 FR 9855, Mar. 8, 1991]
+(Authority: 38 U.S.C. 3712(h)(1)) [36 FR 1253, Jan. 27, 1971, as amended at 40 FR 13213, Mar. 25, 1975; 44 FR 22725, Apr. 17, 1979; 56 FR 9855, Mar. 8, 1991]

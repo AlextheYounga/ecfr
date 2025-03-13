@@ -34,4 +34,4 @@
 
 (5) *Damage to crops.* In support of claims for damage to crops, the claimant will submit an itemized signed statement showing the number of acres, or other unit measure of crop damaged, the probable yield per unit, the gross amount which would have been realized from such probable yield and an estimate of the costs of cultivating, harvesting and marketing the crop. If the crop is one which need not be planted each year, the diminution in value of the land beyond the damage to the current year's crop will also be stated.
 
-(Approved by the Office of Management and Budget under control number 2900-0437)[38 FR 5474, Mar. 1, 1973, as amended at 42 FR 41418, Aug. 17, 1977; 49 FR 32848, Aug. 17, 1984]
+(Approved by the Office of Management and Budget under control number 2900-0437) [38 FR 5474, Mar. 1, 1973, as amended at 42 FR 41418, Aug. 17, 1977; 49 FR 32848, Aug. 17, 1984]

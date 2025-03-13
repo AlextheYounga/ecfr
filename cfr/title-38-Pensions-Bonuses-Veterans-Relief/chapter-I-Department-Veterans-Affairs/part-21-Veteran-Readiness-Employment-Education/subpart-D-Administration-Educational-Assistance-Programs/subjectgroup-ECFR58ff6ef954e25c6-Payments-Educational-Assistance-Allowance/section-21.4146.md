@@ -10,4 +10,4 @@
 
 (e) *Referral to Committee on Educational Allowances.* When the evidence of record indicates that an educational institution has violated the terms of this section, the matter will be referred to the facility Committee on Educational Allowances as provided in §§ 21.4210(g) and 21.4212.
 
-(Authority: 38 U.S.C. 5301(a))[43 FR 35296, Aug. 9, 1978, as amended at 44 FR 62498, Oct. 31, 1979; 61 FR 26114, May 24, 1996; 63 FR 35831, July 1, 1998; 72 FR 16969, Apr. 5, 2007; 74 FR 14667, Mar. 31, 2009]
+(Authority: 38 U.S.C. 5301(a)) [43 FR 35296, Aug. 9, 1978, as amended at 44 FR 62498, Oct. 31, 1979; 61 FR 26114, May 24, 1996; 63 FR 35831, July 1, 1998; 72 FR 16969, Apr. 5, 2007; 74 FR 14667, Mar. 31, 2009]

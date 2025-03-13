@@ -64,7 +64,7 @@
 
 (C) The State approving agency that would, under paragraph (a)(5) or (a)(6) of this section, have approval jurisdiction for the test has declined to perform the approval function for licensing or certification tests and the organizations or entities offering these tests.
 
-(Authority: 10 U.S.C. 16136; 38 U.S.C. 3034, 3241, 3314, 3323(a), 3476, 3523, 3672, 3673, 3689)(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0051)Cross Reference:
+(Authority: 10 U.S.C. 16136; 38 U.S.C. 3034, 3241, 3314, 3323(a), 3476, 3523, 3672, 3673, 3689)(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0051) Cross Reference:
 
 *Designation.* See § 21.4150.
 

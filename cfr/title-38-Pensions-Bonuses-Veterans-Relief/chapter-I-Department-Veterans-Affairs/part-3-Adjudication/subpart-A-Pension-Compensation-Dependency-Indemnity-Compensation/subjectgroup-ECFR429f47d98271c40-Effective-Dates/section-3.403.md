@@ -4,7 +4,7 @@
 
 (1) *Permanently incapable of selfsupport (§ 3.57(a)(3)).* In original claims, date fixed by §§ 3.400(b) or (c) or 3.401(b). In claims for continuation of payments, 18th birthday if the condition is claimed prior to or within 1 year after that date; otherwise from date of receipt of claim.
 
-(2)*Majority (§ 13.100).*Direct payment to child if competent, from date of majority or, date of last payment, whichever is the earlier date.
+(2)*Majority (§ 13.100).* Direct payment to child if competent, from date of majority or, date of last payment, whichever is the earlier date.
 
 (3) *Posthumous child.* Date of child's birth if proof of birth is received within 1 year of that date, or if a claim or an intent to file a claim as set forth in § 3.155(b), is received within 1 year after the veteran's death; otherwise, date of claim.
 

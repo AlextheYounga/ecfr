@@ -42,4 +42,4 @@
 
 (e) *Withdrawals during a drop-add period.* If the individual withdraws from a course during a drop-add period, VA will consider the circumstances that caused the withdrawal to be mitigating, and paragraphs (a)(2)(ii) and (a)(2)(iii) of this section will not apply.
 
-(Authority: 38 U.S.C. 3680(a))[31 FR 8292, June 14, 1966]Editorial Note:For Federal Register citations affecting § 21.4136, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Authority: 38 U.S.C. 3680(a)) [31 FR 8292, June 14, 1966]Editorial Note:For Federal Register citations affecting § 21.4136, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

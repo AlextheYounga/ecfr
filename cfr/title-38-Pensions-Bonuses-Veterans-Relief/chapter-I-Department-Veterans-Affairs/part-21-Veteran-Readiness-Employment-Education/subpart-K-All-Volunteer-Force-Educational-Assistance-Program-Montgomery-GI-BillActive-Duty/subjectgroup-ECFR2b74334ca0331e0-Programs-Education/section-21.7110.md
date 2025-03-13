@@ -24,4 +24,4 @@
 
 (4) Except for a program consisting of a licensing or certification test designed to help the veteran or servicemember maintain employment in a vocation or profession, the veteran or servicemember is not already qualified for the objective of the program.
 
-(Authority: 38 U.S.C. 3002(3), 3034, 3471, 3689)[72 FR 16980, Apr. 5, 2007]
+(Authority: 38 U.S.C. 3002(3), 3034, 3471, 3689) [72 FR 16980, Apr. 5, 2007]

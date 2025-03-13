@@ -6,7 +6,7 @@
 
 (c) *Satisfactory attendance.* Entitlement to benefits for a program of education is subject to the requirement that the veteran or eligible person, having commenced the pursuit of such program, continues to maintain satisfactory attendance in accordance with the regularly prescribed standards and practices of the institution in which he or she is enrolled. If the veteran or eligible person will no longer be retained as a student or will not be readmitted as a student by the institution in which he or she is enrolled, educational benefits will be discontinued.
 
-(Authority: 38 U.S.C. 3474, 3524)Cross Reference.
+(Authority: 38 U.S.C. 3474, 3524) Cross Reference.
 
 *Reports—requirements.* See § 21.4203.
 

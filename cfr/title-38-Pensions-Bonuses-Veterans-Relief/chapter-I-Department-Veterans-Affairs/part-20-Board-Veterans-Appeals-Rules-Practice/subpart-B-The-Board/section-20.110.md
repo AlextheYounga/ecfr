@@ -4,4 +4,4 @@
 
 (b) *Computation of time limit.* In computing the time limit for filing a written document, the first day of the specified period will be excluded and the last day included. Where the time limit would expire on a Saturday, Sunday, or legal holiday, the next succeeding workday will be included in the computation.
 
-(Authority: 38 U.S.C. 7105)[57 FR 4109, Feb. 3, 1992. Redesignated and amended at 84 FR 182, Jan. 18, 2019]
+(Authority: 38 U.S.C. 7105) [57 FR 4109, Feb. 3, 1992. Redesignated and amended at 84 FR 182, Jan. 18, 2019]

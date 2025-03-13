@@ -16,4 +16,4 @@
 
 (2) The procedures for scheduling and providing notice of Board hearings in legacy appeals conducted at a Department of Veterans Affairs facility having adequate physical resources and personnel for the support of such hearings under (a)(3) are contained in Rule 603 (§ 20.603).
 
-(Authority: 38 U.S.C. 7107; Sec. 102, Pub. L. 114-315; 130 Stat. 1536)[84 FR 186, Jan. 18, 2019]
+(Authority: 38 U.S.C. 7107; Sec. 102, Pub. L. 114-315; 130 Stat. 1536) [84 FR 186, Jan. 18, 2019]

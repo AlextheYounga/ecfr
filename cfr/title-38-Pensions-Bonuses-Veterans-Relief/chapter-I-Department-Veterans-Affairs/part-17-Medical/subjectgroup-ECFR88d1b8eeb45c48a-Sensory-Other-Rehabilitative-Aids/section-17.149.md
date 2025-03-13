@@ -22,4 +22,4 @@
 
 (c) VA will furnish needed hearing aids to those veterans who have service-connected hearing disabilities rated 0 percent if there is organic conductive, mixed, or sensory hearing impairment, and loss of pure tone hearing sensitivity in the low, mid, or high-frequency range or a combination of frequency ranges which contribute to a loss of communication ability; however, hearing aids are to be provided only as needed for the service-connected hearing disability.
 
-(Authority: 38 U.S.C. 501,1707(b)[62 FR 30242, June 3, 1997, as amended at 69 FR 33575, June 16, 2004]
+(Authority: 38 U.S.C. 501,1707(b) [62 FR 30242, June 3, 1997, as amended at 69 FR 33575, June 16, 2004]

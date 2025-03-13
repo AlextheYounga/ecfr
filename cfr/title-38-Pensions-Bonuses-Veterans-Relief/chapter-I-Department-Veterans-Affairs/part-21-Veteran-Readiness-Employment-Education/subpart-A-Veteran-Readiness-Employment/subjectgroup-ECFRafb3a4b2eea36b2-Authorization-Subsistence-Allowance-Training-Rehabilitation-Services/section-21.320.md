@@ -32,4 +32,4 @@ Awards providing for payment of a subsistence allowance and authorization of ser
 
 (3) A veteran has elected payment at the educational assistance rate paid under Chapter 30. The ending date of the award is determined under regulations applicable to termination of training under Chapter 30.
 
-(Authority: 38 U.S.C. 3108 (a) and (f))[49 FR 40814, Oct. 18, 1984, as amended at 54 FR 4284, Jan. 30, 1989; 57 FR 57108, Dec. 3, 1992]
+(Authority: 38 U.S.C. 3108 (a) and (f)) [49 FR 40814, Oct. 18, 1984, as amended at 54 FR 4284, Jan. 30, 1989; 57 FR 57108, Dec. 3, 1992]

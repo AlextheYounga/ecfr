@@ -20,4 +20,4 @@
 
 (2) *Decisions issued on or after the effective date of the modernized review system.* Notwithstanding provisions in this section for closing the record before the Office of the General Counsel at the end of the 30-day period for serving a response or 15 days after the date on which the agent or attorney served a response, appeals of decisions issued on or after the effective date of the modernized review system as provided in § 19.2(a) of this chapter, shall be initiated and processed using the procedures in 38 CFR part 20 applicable to appeals under the modernized system.
 
-(Authority: 38 U.S.C. 5904)(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0085)[73 FR 29878, May 22, 2008, as amended at 80 FR 81194, Dec. 29, 2015; 82 FR 26754, June 9, 2017; 84 FR 176, Jan. 18, 2019]
+(Authority: 38 U.S.C. 5904)(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0085) [73 FR 29878, May 22, 2008, as amended at 80 FR 81194, Dec. 29, 2015; 82 FR 26754, June 9, 2017; 84 FR 176, Jan. 18, 2019]

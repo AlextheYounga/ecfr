@@ -12,4 +12,4 @@
 
 (f) Review under this section does not limit the appeal rights of a claimant. Unless a claimant withdraws his or her Notice of Disagreement as a result of this review process, VA will proceed with the legacy appeal process by issuing a Statement of the Case.
 
-(Authority: 38 U.S.C. 5109A and 7105(d))[84 FR 194, Jan. 18, 2019]
+(Authority: 38 U.S.C. 5109A and 7105(d)) [84 FR 194, Jan. 18, 2019]

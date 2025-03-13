@@ -16,4 +16,4 @@ For entitlement to pension or dependency and indemnity compensation, income will
 
 (g) *Fractions of dollars.* In computing a claimant's annual income a fraction of a dollar will be disregarded for the purpose of determining entitlement to monthly payments of pension and dependency and indemnity compensation.
 
-(Authority: 38 U.S.C. 1315(g)(2); 1503(b))[28 FR 30, Jan. 1, 1963, as amended at 29 FR 2944, Mar. 4, 1964; 37 FR 6677, Apr. 1, 1972; 40 FR 16066, Apr. 9, 1975]
+(Authority: 38 U.S.C. 1315(g)(2); 1503(b)) [28 FR 30, Jan. 1, 1963, as amended at 29 FR 2944, Mar. 4, 1964; 37 FR 6677, Apr. 1, 1972; 40 FR 16066, Apr. 9, 1975]

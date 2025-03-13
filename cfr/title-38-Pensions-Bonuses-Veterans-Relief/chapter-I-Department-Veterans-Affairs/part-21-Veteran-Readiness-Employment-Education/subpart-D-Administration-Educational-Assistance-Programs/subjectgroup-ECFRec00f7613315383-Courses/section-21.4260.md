@@ -44,4 +44,4 @@
 
 (2) VA may deny or discontinue the payment of educational assistance allowance to a veteran, serviceperson, eligible person or reservist pursuing a course in an institution of higher learning not located in a State when VA finds that the veteran's, serviceperson's, eligible person's, or reservist's enrollment is not in his or her best interest or the best interest of the Federal Government.
 
-(Authority: 38 U.S.C. 3687)[52 FR 13239, Apr. 22, 1987, as amended at 61 FR 29296, June 10, 1996]
+(Authority: 38 U.S.C. 3687) [52 FR 13239, Apr. 22, 1987, as amended at 61 FR 29296, June 10, 1996]

@@ -10,4 +10,4 @@
 
 (3) *Both appeals systems.* Except as otherwise provided in specific sections, subparts A, B, H, K, L, M, N, and O of part 20 apply to the processing and adjudication of both appeals and legacy claims and appeals.
 
-(Authority: Sec. 2, Pub. L. 115-55; 131 Stat. 1105)[84 FR 180, Jan. 18, 2019]
+(Authority: Sec. 2, Pub. L. 115-55; 131 Stat. 1105) [84 FR 180, Jan. 18, 2019]

@@ -132,7 +132,7 @@ For the purposes of subpart C and the payment of basic educational assistance un
 
 (v) *Additional definitions.* The definitions of all terms that are defined in §§ 21.1029 and 21.4200 but that are not defined in this section apply to subpart C of this part.
 
-(Authority: 38 U.S.C. 501, 3501)Cross References:
+(Authority: 38 U.S.C. 501, 3501) Cross References:
 
 *Duty periods.* See § 3.6 of this chapter.
 

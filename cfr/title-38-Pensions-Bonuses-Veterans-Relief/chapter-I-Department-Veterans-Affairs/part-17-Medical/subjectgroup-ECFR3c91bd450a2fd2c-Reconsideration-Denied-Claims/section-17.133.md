@@ -8,4 +8,4 @@ Note to § 17.133:
 
 The final decision of the immediate supervisor of the initial VA decision-maker will inform the claimant of further appellate rights for an appeal to the Board of Veterans' Appeals.
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0600)(Authority: 38 U.S.C. 511, 38 U.S.C. 7105)[64 FR 44660, Aug. 17, 1999, as amended at 87 FR 43748, July 22, 2022]
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0600)(Authority: 38 U.S.C. 511, 38 U.S.C. 7105) [64 FR 44660, Aug. 17, 1999, as amended at 87 FR 43748, July 22, 2022]

@@ -30,4 +30,4 @@
 
 (g) *Postponement to provide hearing.* Any other provision of this Rule notwithstanding, a case may be postponed for later consideration and determination if such postponement is necessary to afford the appellant a hearing.
 
-(Authority: 38 U.S.C. 7105, 7107)[84 FR 188, Jan. 18, 2019; 84 FR 34788, July 19, 2019]
+(Authority: 38 U.S.C. 7105, 7107) [84 FR 188, Jan. 18, 2019; 84 FR 34788, July 19, 2019]

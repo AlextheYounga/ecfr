@@ -18,4 +18,4 @@
 
 (2) To the maximum extent feasible, a substantial portion of veterans provided with programs of independent living services and assistance shall be receiving long-term care in VA medical centers and nursing homes.
 
-(Authority: 38 U.S.C. 3120(c))[49 FR 40814, Oct. 18, 1984, as amended at 53 FR 50957, Dec. 19, 1988; 55 FR 48842, Nov. 23, 1990; 62 FR 17708, Apr. 11, 1997; 87 FR 8743, Feb. 16, 2022]
+(Authority: 38 U.S.C. 3120(c)) [49 FR 40814, Oct. 18, 1984, as amended at 53 FR 50957, Dec. 19, 1988; 55 FR 48842, Nov. 23, 1990; 62 FR 17708, Apr. 11, 1997; 87 FR 8743, Feb. 16, 2022]

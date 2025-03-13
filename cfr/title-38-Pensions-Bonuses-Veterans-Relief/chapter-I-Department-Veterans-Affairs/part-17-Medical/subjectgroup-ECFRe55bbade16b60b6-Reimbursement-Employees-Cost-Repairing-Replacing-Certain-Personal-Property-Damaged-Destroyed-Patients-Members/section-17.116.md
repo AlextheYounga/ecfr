@@ -6,4 +6,4 @@
 
 (b) Such personal property was damaged or destroyed by a patient or domiciliary member while the employee was engaged in the performance of official duties.
 
-Reimbursement or payment as provided in this paragraph will be made in a fair and reasonable amount, taking into consideration the condition and reasonable value of the article at the time it was damaged or destroyed.[28 FR 5083, May 22, 1963, as amended at 39 FR 1843, Jan. 15, 1974; 49 FR 5616, Feb. 14, 1984. Redesignated and amended at 61 FR 21965, May 13, 1996, and further redesignated at 67 FR 35039, May 17, 2002]
+Reimbursement or payment as provided in this paragraph will be made in a fair and reasonable amount, taking into consideration the condition and reasonable value of the article at the time it was damaged or destroyed. [28 FR 5083, May 22, 1963, as amended at 39 FR 1843, Jan. 15, 1974; 49 FR 5616, Feb. 14, 1984. Redesignated and amended at 61 FR 21965, May 13, 1996, and further redesignated at 67 FR 35039, May 17, 2002]

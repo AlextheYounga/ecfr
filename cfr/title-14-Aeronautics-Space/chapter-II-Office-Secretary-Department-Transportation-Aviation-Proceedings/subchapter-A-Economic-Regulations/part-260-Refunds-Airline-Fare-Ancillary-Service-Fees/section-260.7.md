@@ -1,0 +1,3 @@
+##### § 260.7 Notifying consumers of right to refund when offering alternative transportation or travel credit or voucher. #####
+
+If a carrier offers alternative transportation or alternative forms of compensation such as travel credits, vouchers, or other compensation in lieu of the refund, the carrier must first disclose to consumers that they are entitled to a refund if that is the case. A carrier must not deem a consumer to have accepted an offer for travel credits, vouchers, or other compensation in lieu of a refund unless the consumer affirmatively agrees to the alternative form of compensation.

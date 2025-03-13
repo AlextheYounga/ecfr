@@ -32,4 +32,4 @@
 
 (7) Any other covenant, condition, restriction, or limitation approved by the Department of Veterans Affairs in the particular case.
 
-The limitations on the quantum or quality of the estate or property that are indicated in this paragraph, insofar as they may materially affect the value of the property for the purpose for which it is used, shall be taken into account in the appraisal of reasonable value.[15 FR 6290, Sept. 20, 1950, as amended at 24 FR 2658, Apr. 7, 1959; 28 FR 11506, Oct. 29, 1963; 33 FR 18027, Dec. 4, 1968; 34 FR 11095, July 1, 1969; 45 FR 20472, Mar. 28, 1980; 56 FR 9862, Mar. 8, 1991; 61 FR 28059, June 4, 1996]
+The limitations on the quantum or quality of the estate or property that are indicated in this paragraph, insofar as they may materially affect the value of the property for the purpose for which it is used, shall be taken into account in the appraisal of reasonable value. [15 FR 6290, Sept. 20, 1950, as amended at 24 FR 2658, Apr. 7, 1959; 28 FR 11506, Oct. 29, 1963; 33 FR 18027, Dec. 4, 1968; 34 FR 11095, July 1, 1969; 45 FR 20472, Mar. 28, 1980; 56 FR 9862, Mar. 8, 1991; 61 FR 28059, June 4, 1996]

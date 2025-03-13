@@ -1,0 +1,9 @@
+##### § 262.4 Passengers entitled to receive travel credits or vouchers. #####
+
+A covered carrier as identified in § 262.3 must provide a transferrable travel credit or voucher that does not expire for at least five years from the date of issuance to consumers described in paragraphs (a) to (c) of this section.
+
+(a) The consumer is prohibited from travel to, from, or within the United States or is required to quarantine at the destination as shown on the consumer's itinerary for more than 50% of the length of the trip (excluding travel dates) because of a U.S. (Federal, State, or local) or foreign government restriction or prohibition (*e.g.,* stay at home order, entry restriction, border closure, or quarantine notice) in relation to a serious communicable disease. The consumer must have purchased the airline ticket before a public health emergency was declared for the origination or destination of the consumer's scheduled travel or, if there is no declaration of a public health emergency, before the government prohibition or restriction applicable to the origination or the destination of the consumer's scheduled travel was imposed.
+
+(b) There is a public health emergency applicable to the origination or destination of the consumer's itinerary, the consumer purchased the airline ticket before the public health emergency was declared, the consumer is scheduled to travel during the public health emergency, and the consumer is advised by a licensed treating medical professional not to travel by air to protect himself or herself from a serious communicable disease.
+
+(c) Regardless of whether there is a public health emergency, the consumer is advised by a licensed treating medical professional not to travel by air because the consumer has or is likely to have contracted a serious communicable disease, and the consumer's condition is such that traveling on a commercial flight would pose a direct threat to the health of others.

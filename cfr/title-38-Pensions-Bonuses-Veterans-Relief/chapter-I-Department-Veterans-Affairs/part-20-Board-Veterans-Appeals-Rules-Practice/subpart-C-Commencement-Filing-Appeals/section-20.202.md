@@ -32,4 +32,4 @@
 
 (i) *Representatives and fiduciaries.* For the purpose of the requirements in paragraphs (f) through (h) of this section, references to the “claimant” include reference to the claimant or his or her representative, if any, or to his or her fiduciary, if any, as appropriate.
 
-(Authority: 38 U.S.C. 7105)(Approved by the Office of Management and Budget under control number 2900-0674)
+(Authority: 38 U.S.C. 7105) (Approved by the Office of Management and Budget under control number 2900-0674)

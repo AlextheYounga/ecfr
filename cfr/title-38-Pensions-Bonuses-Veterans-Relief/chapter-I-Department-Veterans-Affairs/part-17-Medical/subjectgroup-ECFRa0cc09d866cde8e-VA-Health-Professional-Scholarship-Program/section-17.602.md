@@ -30,4 +30,4 @@ Link to an amendment published at 89 FR 51446, June 18, 2024.
 
 (c) Any applicant who, at the time of application, owes a service obligation to any other entity to perform service after completion of the course of study is ineligible to receive a scholarship under the Department of Veterans Affairs Scholarship Program.
 
-(Authority: 38 U.S.C. 7602(b))(Approved by the Office of Management and Budget under control number 2900-0352)[47 FR 10810, Mar. 12, 1982, as amended at 48 FR 37399, Aug. 18, 1983; 54 FR 28674, July 7, 1989; 78 FR 51070, Aug. 20, 2013]
+(Authority: 38 U.S.C. 7602(b))(Approved by the Office of Management and Budget under control number 2900-0352) [47 FR 10810, Mar. 12, 1982, as amended at 48 FR 37399, Aug. 18, 1983; 54 FR 28674, July 7, 1989; 78 FR 51070, Aug. 20, 2013]

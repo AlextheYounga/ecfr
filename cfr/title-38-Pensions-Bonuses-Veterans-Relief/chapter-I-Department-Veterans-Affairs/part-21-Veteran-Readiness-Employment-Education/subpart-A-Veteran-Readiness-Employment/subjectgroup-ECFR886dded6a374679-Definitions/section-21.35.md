@@ -108,4 +108,4 @@
 
 (7) *Vocational rehabilitation counselor.* Unless otherwise stated, the term vocational rehabilitation counselor refers to a vocational rehabilitation counselor in the VR&E Division in the Veterans Benefits Administration, Department of Veterans Affairs.
 
-(Authority: 38 U.S.C. 3118(c))[49 FR 40814, Oct. 18, 1984; 50 FR 9622, Mar. 11, 1985, as amended at 53 FR 50956, Dec. 19, 1988; 62 FR 17707, Apr. 11, 1997; 87 FR 8742, Feb. 16, 2022]
+(Authority: 38 U.S.C. 3118(c)) [49 FR 40814, Oct. 18, 1984; 50 FR 9622, Mar. 11, 1985, as amended at 53 FR 50956, Dec. 19, 1988; 62 FR 17707, Apr. 11, 1997; 87 FR 8742, Feb. 16, 2022]

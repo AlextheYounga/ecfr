@@ -10,7 +10,7 @@
 
 (C) A one-half-time enrollment is 11 through 15 clock hours per week (exclusive of supervised study) with not more than 11/4 hours rest period allowance;
 
-(D) A less than one-half-time but more than one-quarter-time enrollment is 6 through 10 clock hours per week (exclusive of supervised study) with not more than3/4 hour rest period allowance; and
+(D) A less than one-half-time but more than one-quarter-time enrollment is 6 through 10 clock hours per week (exclusive of supervised study) with not more than 3/4 hour rest period allowance; and
 
 (E) A quarter-time enrollment is 1 through 5 clock hours per week (exclusive of supervised study).
 

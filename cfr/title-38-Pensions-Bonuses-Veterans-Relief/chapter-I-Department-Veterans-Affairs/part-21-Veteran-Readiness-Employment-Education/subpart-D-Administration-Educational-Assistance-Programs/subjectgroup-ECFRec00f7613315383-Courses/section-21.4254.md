@@ -94,4 +94,4 @@
 
 (d) *Limitations on course approval.* Notwithstanding any other provision of this section, a State approving agency shall not approve a nonaccredited course if it is to be pursued in whole or in part by independent study.
 
-(Authority: 38 U.S.C. 3676(e))[31 FR 6774, May 6, 1966, as amended at 33 FR 9546, June 29, 1968; 47 FR 42733, Sept. 29, 1982; 61 FR 6783, Feb. 22, 1996; 88 FR 2834, Jan. 18, 2023]
+(Authority: 38 U.S.C. 3676(e)) [31 FR 6774, May 6, 1966, as amended at 33 FR 9546, June 29, 1968; 47 FR 42733, Sept. 29, 1982; 61 FR 6783, Feb. 22, 1996; 88 FR 2834, Jan. 18, 2023]

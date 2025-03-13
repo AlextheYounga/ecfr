@@ -30,4 +30,4 @@
 
 (2) The veteran wishes to train at a suitable facility in another area, even though training can be provided at a suitable facility in the area in which the veteran resides.
 
-(Authority: 38 U.S.C. 3104(a)(7), 3115(a))[49 FR 40814, Oct. 18, 1984; 50 FR 9622, Mar. 11, 1985]
+(Authority: 38 U.S.C. 3104(a)(7), 3115(a)) [49 FR 40814, Oct. 18, 1984; 50 FR 9622, Mar. 11, 1985]

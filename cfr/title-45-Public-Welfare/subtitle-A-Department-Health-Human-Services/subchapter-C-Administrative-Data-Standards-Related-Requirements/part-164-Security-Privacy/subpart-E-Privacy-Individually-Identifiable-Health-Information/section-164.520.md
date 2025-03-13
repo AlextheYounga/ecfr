@@ -1,10 +1,10 @@
 ##### § 164.520 Notice of privacy practices for protected health information. #####
 
-Link to an amendment published at 89 FR 33064, Apr. 26, 2024.
+(a) *Standard: Notice of privacy practices*—(1) *Right to notice.* Except as provided by paragraph (a)(3) or (4) of this section, an individual has a right to adequate notice of the uses and disclosures of protected health information that may be made by the covered entity, and of the individual's rights and the covered entity's legal duties with respect to protected health information.
 
-(a) *Standard: Notice of privacy practices*—(1) *Right to notice.* Except as provided by paragraph (a)(2) or (3) of this section, an individual has a right to adequate notice of the uses and disclosures of protected health information that may be made by the covered entity, and of the individual's rights and the covered entity's legal duties with respect to protected health information.
+(2) *Notice requirements for covered entities creating or maintaining records subject to 42 U.S.C. 290dd-2.* As provided in 42 CFR 2.22, an individual who is the subject of records protected under 42 CFR part 2 has a right to adequate notice of the uses and disclosures of such records, and of the individual's rights and the covered entity's legal duties with respect to such records.
 
-(2) *Exception for group health plans.* (i) An individual enrolled in a group health plan has a right to notice:
+(3) *Exception for group health plans.* (i) An individual enrolled in a group health plan has a right to notice:
 
 (A) From the group health plan, if, and to the extent that, such an individual does not receive health benefits under the group health plan through an insurance contract with a health insurance issuer or HMO; or
 
@@ -18,9 +18,9 @@ Link to an amendment published at 89 FR 33064, Apr. 26, 2024.
 
 (iii) A group health plan that provides health benefits solely through an insurance contract with a health insurance issuer or HMO, and does not create or receive protected health information other than summary health information as defined in § 164.504(a) or information on whether an individual is participating in the group health plan, or is enrolled in or has disenrolled from a health insurance issuer or HMO offered by the plan, is not required to maintain or provide a notice under this section.
 
-(3) *Exception for inmates.* An inmate does not have a right to notice under this section, and the requirements of this section do not apply to a correctional institution that is a covered entity.
+(4) *Exception for inmates.* An inmate does not have a right to notice under this section, and the requirements of this section do not apply to a correctional institution that is a covered entity.
 
-(b) *Implementation specifications: Content of notice*—(1) *Required elements.* The covered entity must provide a notice that is written in plain language and that contains the elements required by this paragraph.
+(b) *Implementation specifications: Content of notice*—(1) *Required elements.* The covered entity, including any covered entity receiving or maintaining records subject to 42 U.S.C. 290dd-2, must provide a notice that is written in plain language and that contains the elements required by this paragraph.
 
 (i) *Header.* The notice must contain the following statement as a header or otherwise prominently displayed:
 
@@ -32,21 +32,33 @@ Link to an amendment published at 89 FR 33064, Apr. 26, 2024.
 
 (B) A description of each of the other purposes for which the covered entity is permitted or required by this subpart to use or disclose protected health information without the individual's written authorization.
 
-(C) If a use or disclosure for any purpose described in paragraphs (b)(1)(ii)(A) or (B) of this section is prohibited or materially limited by other applicable law, the description of such use or disclosure must reflect the more stringent law as defined in § 160.202 of this subchapter.
+(C) If a use or disclosure for any purpose described in paragraphs (b)(1)(ii)(A) or (B) of this section is prohibited or materially limited by other applicable law, such as 42 CFR part 2, the description of such use or disclosure must reflect the more stringent law as defined in § 160.202 of this subchapter.
 
-(D) For each purpose described in paragraph (b)(1)(ii)(A) or (B) of this section, the description must include sufficient detail to place the individual on notice of the uses and disclosures that are permitted or required by this subpart and other applicable law.
+(D) For each purpose described in paragraph (b)(1)(ii)(A) or (B) of this section, the description must include sufficient detail to place the individual on notice of the uses and disclosures that are permitted or required by this subpart and other applicable law, such as 42 CFR part 2.
 
 (E) A description of the types of uses and disclosures that require an authorization under § 164.508(a)(2)-(a)(4), a statement that other uses and disclosures not described in the notice will be made only with the individual's written authorization, and a statement that the individual may revoke an authorization as provided by § 164.508(b)(5).
 
-(iii) *Separate statements for certain uses or disclosures.* If the covered entity intends to engage in any of the following activities, the description required by paragraph (b)(1)(ii)(A) of this section must include a separate statement informing the individual of such activities, as applicable:
+(F) A description, including at least one example, of the types of uses and disclosures prohibited under § 164.502(a)(5)(iii) in sufficient detail for an individual to understand the prohibition.
 
-(A) In accordance with § 164.514(f)(1), the covered entity may contact the individual to raise funds for the covered entity and the individual has a right to opt out of receiving such communications; (B) In accordance with § 164.504(f), the group health plan, or a health insurance issuer or HMO with respect to a group health plan, may disclose protected health information to the sponsor of the plan; or
+(G) A description, including at least one example, of the types of uses and disclosures for which an attestation is required under § 164.509.
 
-(C) If a covered entity that is a health plan, excluding an issuer of a long-term care policy falling within paragraph (1)(viii) of the definition of *health plan,* intends to use or disclose protected health information for underwriting purposes, a statement that the covered entity is prohibited from using or disclosing protected health information that is genetic information of an individual for such purposes.
+(H) A statement adequate to put the individual on notice of the potential for information disclosed pursuant to this subpart to be subject to redisclosure by the recipient and no longer protected by this subpart
+
+(iii) *Separate statements for certain uses or disclosures.* If the covered entity intends to engage in any of the following activities, the description required by paragraph (b)(1)(ii)(A) or (B) of this section must include a separate statement informing the individual of such activities, as applicable:
+
+(A) In accordance with § 164.514(f)(1), the covered entity may contact the individual to raise funds for the covered entity and the individual has a right to opt out of receiving such communications;
+
+(B) In accordance with § 164.504(f), the group health plan, or a health insurance issuer or HMO with respect to a group health plan, may disclose protected health information to the sponsor of the plan;
+
+(C) If a covered entity that is a health plan, excluding an issuer of a long-term care policy falling within paragraph (1)(viii) of the definition of *health plan,* intends to use or disclose protected health information for underwriting purposes, a statement that the covered entity is prohibited from using or disclosing protected health information that is genetic information of an individual for such purposes;
+
+(D) Substance use disorder treatment records received from programs subject to 42 CFR part 2, or testimony relaying the content of such records, shall not be used or disclosed in civil, criminal, administrative, or legislative proceedings against the individual unless based on written consent, or a court order after notice and an opportunity to be heard is provided to the individual or the holder of the record, as provided in 42 CFR part 2. A court order authorizing use or disclosure must be accompanied by a subpoena or other legal requirement compelling disclosure before the requested record is used or disclosed; or
+
+(E) If a covered entity that creates or maintains records subject to 42 CFR part 2 intends to use or disclose such records for fundraising for the benefit of the covered entity, the individual must first be provided with a clear and conspicuous opportunity to elect not to receive any fundraising communications.
 
 (iv) *Individual rights.* The notice must contain a statement of the individual's rights with respect to protected health information and a brief description of how the individual may exercise these rights, as follows:
 
-(A) The right to request restrictions on certain uses and disclosures of protected health information as provided by § 164.522(a), including a statement that the covered entity is not required to agree to a requested restriction, except in case of a disclosure restricted under § 164.522(a)(1)
+(A) The right to request restrictions on certain uses and disclosures of protected health information as provided by § 164.522(a), including a statement that the covered entity is not required to agree to a requested restriction, except in case of a disclosure restricted under § 164.522(a)(1)(vi);
 
 (B) The right to receive confidential communications of protected health information as provided by § 164.522(b), as applicable;
 
@@ -60,7 +72,7 @@ Link to an amendment published at 89 FR 33064, Apr. 26, 2024.
 
 (v) *Covered entity's duties.* The notice must contain:
 
-(A) A statement that the covered entity is required by law to maintain the privacy of protected health information, to provide individuals with notice of its legal duties and privacy practices with respect to protected health information, and to notify affected individuals following a breach of unsecured protected health information;
+(A) A statement that the covered entity is required by law to maintain the privacy of protected health information, to provide individuals with notice of its legal duties and privacy practices, and to notify affected individuals following a breach of unsecured protected health information;
 
 (B) A statement that the covered entity is required to abide by the terms of the notice currently in effect; and
 
@@ -138,6 +150,8 @@ Link to an amendment published at 89 FR 33064, Apr. 26, 2024.
 
 (3) The covered entities included in the joint notice must provide the notice to individuals in accordance with the applicable implementation specifications of paragraph (c) of this section. Provision of the joint notice to an individual by any one of the covered entities included in the joint notice will satisfy the provision requirement of paragraph (c) of this section with respect to all others covered by the joint notice.
 
+(4) The permission in paragraph (d) of this section for covered entities that participate in an organized health care arrangement to issue a joint notice may not be construed to remove any obligations or duties of entities creating or maintaining records subject to 42 U.S.C. 290dd-2, or to remove any rights of patients who are the subjects of such records.
+
 (e) *Implementation specifications: Documentation.* A covered entity must document compliance with the notice requirements, as required by § 164.530(j), by retaining copies of the notices issued by the covered entity and, if applicable, any written acknowledgments of receipt of the notice or documentation of good faith efforts to obtain such written acknowledgment, in accordance with paragraph (c)(2)(ii) of this section.
 
-[65 FR 82802, Dec. 28, 2000, as amended at 67 FR 53271, Aug. 14, 2002; 78 FR 5701, Jan. 25, 2013]
+[65 FR 82802, Dec. 28, 2000, as amended at 67 FR 53271, Aug. 14, 2002; 78 FR 5701, Jan. 25, 2013; 89 FR 33064, Apr. 26, 2024]

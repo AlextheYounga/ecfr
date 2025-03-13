@@ -56,4 +56,4 @@
 
 (g) In actions in which additional proceedings are necessary to determine disputed material facts, written findings of fact will be prepared by the hearing officer or panel. The Under Secretary for Benefits shall base the decision on the facts as found, together with any information and argument submitted by the lender and any other information in the administrative record.
 
-(Authority: 38 U.S.C. 501, 1803(c)(1), and 1812(g)).[56 FR 40560, Aug. 15, 1991, as amended at 61 FR 28058, June 4, 1996; 72 FR 30242, May 31, 2007]
+(Authority: 38 U.S.C. 501, 1803(c)(1), and 1812(g)). [56 FR 40560, Aug. 15, 1991, as amended at 61 FR 28058, June 4, 1996; 72 FR 30242, May 31, 2007]

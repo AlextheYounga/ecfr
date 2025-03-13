@@ -1,0 +1,3 @@
+##### § 262.1 Purpose. #####
+
+The purpose of this part is to ensure that carriers provide travel credits or vouchers, upon request, to consumers who are restricted or prohibited from traveling by a governmental entity due to a serious communicable disease (*e.g.,* as a result of a stay at home order, entry restriction, or border closure) or are advised by a licensed treating medical professional consistent with public health guidance issued by the U.S. Centers for Disease Control and Prevention (CDC) or the World Health Organization (WHO) not to travel to protect themselves or others from a serious communicable disease.

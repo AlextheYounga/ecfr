@@ -18,4 +18,4 @@
 
 (2) The amount of pension payable to the veteran at the time of disappearance.
 
-(Authority: 38 U.S.C. 1507)[26 FR 1599, Feb. 24, 1961, as amended at 27 FR 11891, Dec. 1, 1962; 30 FR 6649, May 14, 1965; 40 FR 14313, Mar. 31, 1975; 44 FR 45942, Aug. 6, 1979]
+(Authority: 38 U.S.C. 1507) [26 FR 1599, Feb. 24, 1961, as amended at 27 FR 11891, Dec. 1, 1962; 30 FR 6649, May 14, 1965; 40 FR 14313, Mar. 31, 1975; 44 FR 45942, Aug. 6, 1979]

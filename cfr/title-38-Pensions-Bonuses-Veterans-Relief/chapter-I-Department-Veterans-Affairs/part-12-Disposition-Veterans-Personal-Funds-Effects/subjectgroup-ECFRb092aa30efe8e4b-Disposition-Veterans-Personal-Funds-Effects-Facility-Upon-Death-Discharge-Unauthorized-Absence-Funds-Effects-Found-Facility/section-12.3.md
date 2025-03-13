@@ -14,7 +14,7 @@
 
 (6) In accomplishing such inventories, detailed description will be given of items of material value or importance, for example:
 
-Watch—Yellow metal (make, movement, and case number, if available without damage to watch).Ring—Yellow metal (probably gold-plated or stamped 14-K., setting if any).Discharge certificate.Adjusted service certificate (number).Bonds or stocks (name of company, registered or nonregistered, identifying number, recited par value, if any).Bank books or other asset evidence (name of bank or other obligor, apparent value, identifying numbers, etc.).Clothing (brief description and statement of condition). Etc.
+Watch—Yellow metal (make, movement, and case number, if available without damage to watch). Ring—Yellow metal (probably gold-plated or stamped 14-K., setting if any). Discharge certificate. Adjusted service certificate (number). Bonds or stocks (name of company, registered or nonregistered, identifying number, recited par value, if any). Bank books or other asset evidence (name of bank or other obligor, apparent value, identifying numbers, etc.). Clothing (brief description and statement of condition). Etc.
 
 (b) Upon completion of the survey and inventory, the effects will be turned over to the designated employee for safekeeping. Any funds found in excess of $100 which apparently were the property of the deceased will be turned over to the details clerk and delivered immediately to the agent cashier, who shall deposit same in the account “Personal Funds of Patients”. Unendorsed checks other than Treasury checks and funds not in excess of $100 will be considered personal effects and not funds and will be handled accordingly.
 

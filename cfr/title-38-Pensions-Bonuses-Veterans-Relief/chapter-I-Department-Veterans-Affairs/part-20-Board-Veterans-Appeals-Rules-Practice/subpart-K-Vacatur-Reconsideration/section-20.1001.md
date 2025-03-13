@@ -8,4 +8,4 @@ Reconsideration of an appellate decision may be accorded at any time by the Boar
 
 (c) Upon allegation that an allowance of benefits by the Board has been materially influenced by false or fraudulent evidence submitted by or on behalf of the appellant.
 
-(Authority: 38 U.S.C. 7103, 7104)[57 FR 4109, Feb. 3, 1992. Redesignated and amended at 84 FR 190, 191, Jan. 18, 2019]
+(Authority: 38 U.S.C. 7103, 7104) [57 FR 4109, Feb. 3, 1992. Redesignated and amended at 84 FR 190, 191, Jan. 18, 2019]

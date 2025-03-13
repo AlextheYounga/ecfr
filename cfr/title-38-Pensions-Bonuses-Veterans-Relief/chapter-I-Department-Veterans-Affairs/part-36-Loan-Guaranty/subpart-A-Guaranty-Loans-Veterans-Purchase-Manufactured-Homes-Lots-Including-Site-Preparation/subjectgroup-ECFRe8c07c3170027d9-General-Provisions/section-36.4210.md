@@ -10,4 +10,4 @@
 
 (2) Proceeds of the sale or other liquidation of the security shall be applied ratably to the respective portions of the loan, such portion of the proceeds as represents the interest of the veteran being applied to that portion of the loan allocable to such veteran.
 
-(Authority: 38 U.S.C. 3703(c)(1))[44 FR 22725, Apr. 17, 1979, as amended at 55 FR 37473, Sept. 12, 1990]
+(Authority: 38 U.S.C. 3703(c)(1)) [44 FR 22725, Apr. 17, 1979, as amended at 55 FR 37473, Sept. 12, 1990]

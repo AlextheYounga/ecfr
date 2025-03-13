@@ -10,4 +10,4 @@
 
 (e) *Notification of scheduling of hearing.* The Board will notify the appellant and his or her representative of the scheduled time and location for the requested hearing not less than 30 days prior to the hearing date. This time limitation does not apply to hearings which have been rescheduled due to a postponement requested by an appellant, or on his or her behalf, or due to the prior failure of an appellant to appear at a scheduled hearing before the Board with good cause. The right to notice at least 30 days in advance will be deemed to have been waived if an appellant accepts an earlier hearing date due to the cancellation of another previously scheduled hearing.
 
-(Authority: Sec. 102, Pub. L. 114-315; 130 Stat. 1536)[84 FR 186, Jan. 18, 2019]
+(Authority: Sec. 102, Pub. L. 114-315; 130 Stat. 1536) [84 FR 186, Jan. 18, 2019]

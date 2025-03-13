@@ -6,4 +6,4 @@
 
 (c) *Mailing address.* The mailing address of the Board is: Board of Veterans' Appeals, P.O. Box 27063, Washington, DC 20038. Mail to the Board that is not related to an appeal must be addressed to: Board of Veterans' Appeals, 810 Vermont Avenue NW, Washington, DC 20420.
 
-(Authority: 38 U.S.C. 7101(a))[57 FR 4109, Feb. 3, 1992, as amended at 81 FR 32649, May 24, 2016. Redesignated and amended at 84 FR 177, 180, Jan. 18, 2019]
+(Authority: 38 U.S.C. 7101(a)) [57 FR 4109, Feb. 3, 1992, as amended at 81 FR 32649, May 24, 2016. Redesignated and amended at 84 FR 177, 180, Jan. 18, 2019]

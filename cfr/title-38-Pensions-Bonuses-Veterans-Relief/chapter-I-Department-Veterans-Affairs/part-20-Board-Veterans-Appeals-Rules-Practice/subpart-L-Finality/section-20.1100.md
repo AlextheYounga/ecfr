@@ -4,4 +4,4 @@
 
 (b) *Exceptions.* Final Board decisions are not subject to review except as provided in 38 U.S.C. 1975 and 1984 and 38 U.S.C. chapters 37 and 72. A remand is in the nature of a preliminary order and does not constitute a final decision of the Board.
 
-(Authority: 38 U.S.C. 511(a), 7103, 7104(a))[57 FR 4109, Feb. 3, 1992, as amended at 61 FR 20453, May 7, 1996]
+(Authority: 38 U.S.C. 511(a), 7103, 7104(a)) [57 FR 4109, Feb. 3, 1992, as amended at 61 FR 20453, May 7, 1996]

@@ -40,4 +40,4 @@
 
 (e) *Commencing date.* In determining the commencing date of an award of educational assistance, VA will apply the provisions of § 21.4131.
 
-(Authority: 38 U.S.C. 5113)[61 FR 26109, May 24, 1996, as amended at 73 FR 2424, Jan. 15, 2008]
+(Authority: 38 U.S.C. 5113) [61 FR 26109, May 24, 1996, as amended at 73 FR 2424, Jan. 15, 2008]

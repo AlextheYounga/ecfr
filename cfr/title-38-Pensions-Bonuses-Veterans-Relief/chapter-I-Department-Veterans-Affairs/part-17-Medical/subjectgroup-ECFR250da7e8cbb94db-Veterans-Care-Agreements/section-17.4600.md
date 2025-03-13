@@ -78,4 +78,4 @@
 
 (f) *Payments.* Payments made for urgent care constitute payment in full and shall extinguish the veteran's liability to the qualifying non-VA entity or provider. The qualifying non-VA entity or provider may not impose any additional charge on a veteran or his or her health care insurer for any urgent care service for which payment is made by VA. This section does not abrogate VA's right, under 38 U.S.C. 1729, to recover or collect from a third party the reasonable charges of the care or services provided under this section.
 
-(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0920)[84 FR 26018, June 5, 2019, as amended at 88 FR 13034, Mar. 2, 2023; 88 FR 19873, Apr. 4, 2023; 88 FR 21478, Apr. 11, 2023]
+(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0920) [84 FR 26018, June 5, 2019, as amended at 88 FR 13034, Mar. 2, 2023; 88 FR 19873, Apr. 4, 2023; 88 FR 21478, Apr. 11, 2023]

@@ -232,4 +232,4 @@
 
 (iii) Duration of hospitalization includes the dates on which member is transported from the injury site to a hospital as defined in 42 U.S.C. 1395x(e) or skilled nursing facility as defined in 42 U.S.C. 1395i-3(a), admitted to the hospital or facility, transferred between a hospital or facility, leaves the hospital or facility for a therapeutic trip, and discharged from the hospital or facility.
 
-(Authority: 38 U.S.C. 501(a), 1980A)[88 FR 15912, Mar. 15, 2023]
+(Authority: 38 U.S.C. 501(a), 1980A) [88 FR 15912, Mar. 15, 2023]

@@ -16,7 +16,7 @@
 
 (2) As stated on the application form, you will be required to complete part of the application form and your physician will be required to complete part of the application form. If you are an active duty servicemember, your branch of service will also be required to complete part of the form.
 
-To Be Completed by InsuredClaim for Accelerated BenefitsYour name:Social Security Number:Your home address:Date of birth:Branch of Service (if covered under SGLI):Your mailing address (if different from above):Amount of SGLI coverage: $Amount of claim (can be no more than one-half of coverage in increments of $5,000):Type of coverage (check one):*SGLI* (circle one of the following): *Active Duty Ready Reserve Army or Air National Guard Separated or Discharged**VGLI*Note:
+To Be Completed by Insured Claim for Accelerated Benefits Your name:Social Security Number:Your home address:Date of birth: Branch of Service (if covered under SGLI):Your mailing address (if different from above):Amount of SGLI coverage: $ Amount of claim (can be no more than one-half of coverage in increments of $5,000): Type of coverage (check one):*SGLI* (circle one of the following): *Active Duty Ready Reserve Army or Air National Guard Separated or Discharged**VGLI*Note:
 
 If you checked SGLI, you must also have your military unit complete the attached form.
 
@@ -34,7 +34,7 @@ A photocopy of this authorization will be considered as effective and valid as t
 
 Valid for one year from date signed.
 
-To Be Completed by PhysicianAttending Physician's CertificationPatient's name:Patient's Social Security Number:Diagnosis:ICD-9-CM Disease Code \*:Description of present medical condition (please attach results of x-rays, E.K.G. or other tests):
+To Be Completed by Physician Attending Physician's Certification Patient's name:Patient's Social Security Number: Diagnosis:ICD-9-CM Disease Code \*: Description of present medical condition (please attach results of x-rays, E.K.G. or other tests):
 
 Is the patient capable of handling his/her own affairs? \_\_\_\_\_\_\_\_ Yes\_\_\_\_ No\_\_\_\_
 
@@ -42,11 +42,11 @@ The patient applied for an accelerated benefit under his/her government life ins
 
 Does your patient meet this requirement? \_\_\_\_\_\_\_\_ Yes\_\_\_\_ No\_\_\_\_
 
-Attending Physician's name (please print):State in which you are licensed to practice:Specialty:Mailing address:Telephone number:Fax Number:Signature:Date:
+Attending Physician's name (please print):State in which you are licensed to practice: Specialty:Mailing address:Telephone number:Fax Number:Signature:Date:
 
 \*ICD-9-CM is an acronym for International Classification of Diseases, 9th revision, Clinical Modification.
 
-To Be Completed by Personnel Office of Servicemember's Unit(Complete this form only if the applicant for Accelerated Benefits is covered under SGLI.)Branch of Service StatementServicemember's name:Social Security Number:Branch of Service:Amount of SGLI coverage: $Monthly premium amount: $Name of person completing this form:Telephone Number:Fax Number:Title of person completing this form:Duty Station and address:Signature of person completing this form:Date:
+To Be Completed by Personnel Office of Servicemember's Unit(Complete this form only if the applicant for Accelerated Benefits is covered under SGLI.)Branch of Service StatementServicemember's name:Social Security Number: Branch of Service:Amount of SGLI coverage: $Monthly premium amount: $ Name of person completing this form:Telephone Number: Fax Number: Title of person completing this form: Duty Station and address:Signature of person completing this form:Date:
 
 *Notice:* It is fraudulent to complete these forms with information you know to be false or to omit important facts. Criminal and/or civil penalties can result from such acts.
 
@@ -64,4 +64,4 @@ To Be Completed by Personnel Office of Servicemember's Unit(Complete this form o
 
 (j) *If you have cashed or deposited an Accelerated Benefit, are you eligible for additional Accelerated Benefits?* No.
 
-(Approved by the Office of Management and Budget under control number 2900-0618)(Authority: 38 U.S.C. 1965, 1966, 1967, 1980)[67 FR 52413, Aug. 12, 2002; 79 FR 44299, July 31, 2014]
+(Approved by the Office of Management and Budget under control number 2900-0618) (Authority: 38 U.S.C. 1965, 1966, 1967, 1980)[67 FR 52413, Aug. 12, 2002; 79 FR 44299, July 31, 2014]

@@ -12,4 +12,4 @@
 
 (c) The provisions of § 21.3133(e) apply to the payment of special restorative training allowance.
 
-(Authority: 38 U.S.C. 3562)[30 FR 15646, Dec. 18, 1965, as amended at 31 FR 6774, May 6, 1966; 50 FR 21606, May 28, 1985; 61 FR 26112, May 24, 1996; 73 FR 2426, Jan. 15, 2008]
+(Authority: 38 U.S.C. 3562) [30 FR 15646, Dec. 18, 1965, as amended at 31 FR 6774, May 6, 1966; 50 FR 21606, May 28, 1985; 61 FR 26112, May 24, 1996; 73 FR 2426, Jan. 15, 2008]

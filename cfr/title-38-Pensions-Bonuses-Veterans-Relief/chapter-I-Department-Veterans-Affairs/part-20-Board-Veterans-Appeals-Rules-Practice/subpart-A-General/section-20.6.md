@@ -6,4 +6,4 @@
 
 (b) *Withdrawal of services prior to certification of a legacy appeal.* A representative may withdraw services as representative in a legacy appeal at any time prior to certification of the appeal to the Board of Veterans' Appeals by the agency of original jurisdiction by complying with the requirements of § 14.631 of this chapter.
 
-(Approved by the Office of Management and Budget under control number 2900-0085)(Authority: 38 U.S.C. 5901-5904, 7105(a))[84 FR 184, Jan. 18, 2019, as amended at 84 FR 4337, Feb. 15, 2019]
+(Approved by the Office of Management and Budget under control number 2900-0085) (Authority: 38 U.S.C. 5901-5904, 7105(a)) [84 FR 184, Jan. 18, 2019, as amended at 84 FR 4337, Feb. 15, 2019]
