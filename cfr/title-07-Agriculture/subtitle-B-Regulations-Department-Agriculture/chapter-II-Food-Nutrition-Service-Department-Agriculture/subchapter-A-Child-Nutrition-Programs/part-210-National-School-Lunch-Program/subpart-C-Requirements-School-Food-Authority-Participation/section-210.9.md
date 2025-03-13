@@ -1,5 +1,7 @@
 ##### § 210.9 Agreement with State agency. #####
 
+Link to an amendment published at 89 FR 32065, Apr. 25, 2024.
+
 (a) *Application.* An official of a school food authority shall make written application to the State agency for any school in which it desires to operate the Program. Applications shall provide the State agency with sufficient information to determine eligibility. The school food authority shall also submit for approval a Free and Reduced Price Policy Statement in accordance with part 245 of this chapter.
 
 (b) *Agreement.* Each school food authority approved to participate in the program shall enter into a written agreement with the State agency that may be amended as necessary. Nothing in the preceding sentence shall be construed to limit the ability of the State agency to suspend or terminate the agreement in accordance with § 210.25. If a single State agency administers any combination of the Child Nutrition Programs, that State agency shall provide each school food authority with a single agreement with respect to the operation of those programs. The agreement shall contain a statement to the effect that the “School Food Authority and participating schools under its jurisdiction, shall comply with all provisions of 7 CFR parts 210 and 245.” This agreement shall provide that each school food authority shall, with respect to participating schools under its jurisdiction:

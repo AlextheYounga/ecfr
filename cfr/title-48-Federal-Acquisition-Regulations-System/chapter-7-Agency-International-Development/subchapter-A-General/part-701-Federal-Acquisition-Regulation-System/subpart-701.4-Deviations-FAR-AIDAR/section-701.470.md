@@ -1,6 +1,6 @@
 ##### 701.470 Procedure. #####
 
-Link to an amendment published at 89 FR 4203, Jan. 23, 2024.
+Link to an amendment published at 89 FR 4203, Jan. 23, 2024.Link to a correction published at 89 FR 31658, Apr. 25, 2024.
 
 (a) *Deviation from the FAR or AIDAR affecting one contract or transaction.* (1) Deviations which affect only one contract or procurement will be made only after prior approval by the head of the contracting activity. Deviation requests containing the information listed in paragraph (c) of this section shall be submitted sufficiently in advance of the effective date of such deviation to allow adequate time for consideration and evaluation by the head of the contracting activity.
 

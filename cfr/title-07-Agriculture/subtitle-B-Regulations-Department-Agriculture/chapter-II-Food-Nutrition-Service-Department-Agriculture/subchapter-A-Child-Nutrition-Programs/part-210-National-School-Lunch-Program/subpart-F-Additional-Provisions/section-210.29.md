@@ -1,5 +1,7 @@
 ##### § 210.29 Management evaluations. #####
 
+Link to an amendment published at 89 FR 32075, Apr. 25, 2024.
+
 (a) *Management evaluations.* FNS will conduct a comprehensive management evaluation of each State agency's administration of the National School Lunch Program.
 
 (b) *Basis for evaluations.* FNS will evaluate all aspects of State agency management of the Program using tools such as State agency reviews as required under § 210.18 of this part; reviews conducted by FNS in accordance with § 210.18 of this part; FNS reviews of school food authorities and schools authorized under § 210.19(a)(4) of this part; follow-up actions taken by the State agency to correct violations found during reviews; FNS observations of State agency reviews; and audit reports.

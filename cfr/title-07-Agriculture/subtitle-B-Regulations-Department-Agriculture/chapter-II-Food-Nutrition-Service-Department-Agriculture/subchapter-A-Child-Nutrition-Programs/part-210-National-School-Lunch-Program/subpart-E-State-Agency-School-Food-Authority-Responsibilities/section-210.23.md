@@ -1,5 +1,7 @@
 ##### § 210.23 Other responsibilities. #####
 
+Link to an amendment published at 89 FR 32075, Apr. 25, 2024.
+
 (a) *Free and reduced price lunches and meal supplements.* State agencies and school food authorities shall ensure that lunches and meal supplements are made available free or at a reduced price to all children who are determined by the school food authority to be eligible for such benefits. The determination of a child's eligibility for free or reduced price lunches and meal supplements is to be made in accordance with 7 CFR part 245.
 
 (b) *Civil rights.* In the operation of the Program, no child shall be denied benefits or be otherwise discriminated against because of race, color, national origin, age, sex, or disability. State agencies and school food authorities shall comply with the requirements of: Title VI of the Civil Rights Act of 1964; title IX of the Education Amendments of 1972; section 504 of the Rehabilitation Act of 1973; the Age Discrimination Act of 1975; Department of Agriculture regulations on nondiscrimination (7 CFR parts 15, 15a, and 15b); and FNS Instruction 113-1.

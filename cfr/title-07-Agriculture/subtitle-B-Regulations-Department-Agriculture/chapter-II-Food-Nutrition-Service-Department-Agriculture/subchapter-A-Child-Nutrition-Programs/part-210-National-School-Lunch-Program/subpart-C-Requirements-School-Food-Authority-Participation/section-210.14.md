@@ -1,5 +1,7 @@
 ##### § 210.14 Resource management. #####
 
+Link to an amendment published at 89 FR 32073, Apr. 25, 2024.
+
 (a) *Nonprofit school food service.* School food authorities shall maintain a nonprofit school food service. Revenues received by the nonprofit school food service are to be used only for the operation or improvement of such food service, *except that,* such revenues shall not be used to purchase land or buildings, unless otherwise approved by FNS, or to construct buildings. Expenditures of nonprofit school food service revenues shall be in accordance with the financial management system established by the State agency under § 210.19(a) of this part. School food authorities may use facilities, equipment, and personnel supported with nonprofit school food revenues to support a nonprofit nutrition program for the elderly, including a program funded under the Older Americans Act of 1965 (42 U.S.C. 3001 *et seq.*).
 
 (b) *Net cash resources.* The school food authority shall limit its net cash resources to an amount that does not exceed 3 months average expenditures for its nonprofit school food service or such other amount as may be approved by the State agency in accordance with § 210.19(a).

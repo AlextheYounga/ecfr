@@ -1,5 +1,7 @@
 ##### § 210.11 Competitive food service and standards. #####
 
+Link to an amendment published at 89 FR 32072, Apr. 25, 2024.
+
 (a) *Definitions.* For the purpose of this section:
 
 (1) *Combination foods* means products that contain two or more components representing two or more of the recommended food groups: fruit, vegetable, dairy, protein or grains.

@@ -1,5 +1,7 @@
 ##### § 2510.3-21 Definition of “Fiduciary.” #####
 
+Link to an amendment published at 89 FR 32256, Apr. 25, 2024.
+
 (a)-(b) [Reserved]
 
 (c) *Investment advice.* (1) A person shall be deemed to be rendering “investment advice” to an employee benefit plan, within the meaning of section 3(21)(A)(ii) of the Employee Retirement Income Security Act of 1974 (the Act) and this paragraph, only if:

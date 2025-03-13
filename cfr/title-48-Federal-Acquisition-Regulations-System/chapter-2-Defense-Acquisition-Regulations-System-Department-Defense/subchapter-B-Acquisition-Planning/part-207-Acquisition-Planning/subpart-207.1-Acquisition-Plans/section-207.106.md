@@ -80,6 +80,6 @@
 
 (S-73) In accordance with section 815 of the National Defense Authorization Act for Fiscal Year 2009 (Pub. L. 110-417) and DoD policy requirements, acquisition plans for major weapons systems shall include a plan for the preservation and storage of special tooling associated with the production of hardware for major defense acquisition programs through the end of the service life of the related weapons system. The plan shall include the identification of any contract clauses, facilities, and funding required for the preservation and storage of such tooling. The Under Secretary of Defense for Acquisition and Sustainment (USD(A&S)) may waive this requirement if USD(A&S) determines that it is in the best interest of DoD.
 
-(S-74) When selecting contract type, see 234.004 (section 811 of the National Defense Authorization Act for Fiscal Year 2013 (Pub. L. 112-239)).
+(S-74) When selecting contract type for a major defense acquisition program, see 234.004.
 
-[56 FR 36305, July 31, 1991, as amended at 72 FR 51188, Sept. 6, 2007; 73 FR 1824, Jan. 10, 2008; 74 FR 68701, Dec. 29, 2009; 75 FR 8273, Feb. 24, 2010; 76 FR 11363, Mar. 2, 2011; 79 FR 4632, Jan. 29, 2014; 84 FR 58333, Oct. 31, 2019; 86 FR 27277, May 20, 2021; 87 FR 76990, Dec. 16, 2022; 88 FR 73236, Oct. 25, 2023]
+[56 FR 36305, July 31, 1991, as amended at 72 FR 51188, Sept. 6, 2007; 73 FR 1824, Jan. 10, 2008; 74 FR 68701, Dec. 29, 2009; 75 FR 8273, Feb. 24, 2010; 76 FR 11363, Mar. 2, 2011; 79 FR 4632, Jan. 29, 2014; 84 FR 58333, Oct. 31, 2019; 86 FR 27277, May 20, 2021; 87 FR 76990, Dec. 16, 2022; 88 FR 73236, Oct. 25, 2023; 89 FR 31657, Apr. 25, 2024]

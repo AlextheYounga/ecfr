@@ -34,10 +34,24 @@
 
 (iv) For fixed-price incentive (firm target) contracts, contracting officers shall comply with the guidance provided at PGI 216.403-1(1)(ii)(B) and (C).
 
+(v) In accordance with section 808 of the National Defense Authorization Act for Fiscal Year 2023 (Pub. L. 117-263)—
+
+(A) The contracting officer shall not procure more than one lot for low-rate initial production, as defined at 10 U.S.C. 4231, associated with a major defense acquisition program if—
+
+(*1*) The milestone decision authority authorizes the use of a fixed-price type contract at the time of Milestone B approval; and
+
+(*2*) The scope of work of the fixed-price type contract includes both the development and low-rate initial production of items for such major defense acquisition program; and
+
+(B) This limitation may be waived by the service acquisition executive for the department concerned, delegable to no lower than one level above the contracting officer, if—
+
+(*1*) A written notification of the waiver, including associated rationale, is provided to the congressional defense committees no later than 30 days after issuance of the waiver in accordance with agency procedures; and
+
+(*2*) A copy of the waiver and such congressional notification are included in the contract file.
+
 (3) The contracting officer shall include in solicitations for contracts for the technical maturation and risk reduction phase, engineering and manufacturing development phase or production phase of a weapon system, including embedded software—
 
 (i) Clearly defined measurable criteria for engineering activities and design specifications for reliability and maintainability provided by the program manager, or the comparable requiring activity official performing program management responsibilities; or
 
 (ii) Ensure a copy of the justification, executed by the program manager or the comparable requiring activity official performing program management responsibilities for the decision that engineering activities and design specifications for reliability and maintainability should not be a requirement, is included in the contract file (10 U.S.C. 4328).
 
-[73 FR 4118, Jan. 24, 2008, as amended at 79 FR 4632, Jan. 29, 2014; 79 FR 23278, Apr. 28, 2014; 79 FR 58694, Sept. 30, 2014; 84 FR 58334, Oct. 31, 2019, 84 FR 65307, Nov. 27, 2019; 87 FR 76995, Dec. 16, 2022; 88 FR 55940, Aug. 17, 2023]
+[73 FR 4118, Jan. 24, 2008, as amended at 79 FR 4632, Jan. 29, 2014; 79 FR 23278, Apr. 28, 2014; 79 FR 58694, Sept. 30, 2014; 84 FR 58334, Oct. 31, 2019, 84 FR 65307, Nov. 27, 2019; 87 FR 76995, Dec. 16, 2022; 88 FR 55940, Aug. 17, 2023; 89 FR 31657, Apr. 25, 2024]

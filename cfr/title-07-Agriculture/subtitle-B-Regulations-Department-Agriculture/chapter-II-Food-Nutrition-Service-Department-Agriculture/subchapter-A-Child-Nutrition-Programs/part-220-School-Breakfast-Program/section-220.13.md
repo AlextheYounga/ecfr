@@ -1,5 +1,7 @@
 ##### § 220.13 Special responsibilities of State agencies. #####
 
+Link to an amendment published at 89 FR 32084, Apr. 25, 2024.
+
 (a) [Reserved]
 
 (a-1) Each State agency, or FNSRO where applicable, shall require each School Food Authority of a school participating in the School Breakfast Program to develop and file for approval a free and reduced price policy statement in accordance with paragraph (a) of § 220.7.

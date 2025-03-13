@@ -1,5 +1,7 @@
 ##### § 226.2 Definitions. #####
 
+Link to an amendment published at 89 FR 32087, Apr. 25, 2024.
+
 *2 CFR part 200,* means the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards published by OMB. The part reference covers applicable: Acronyms and Definitions (subpart A), General Provisions (subpart B), Post Federal Award Requirements (subpart D), Cost Principles (subpart E), and Audit Requirements (subpart F). (NOTE: Pre-Federal Award Requirements and Contents of Federal Awards (subpart C) does not apply to the National School Lunch Program).
 
 *Act* means the National School Lunch Act, as amended.

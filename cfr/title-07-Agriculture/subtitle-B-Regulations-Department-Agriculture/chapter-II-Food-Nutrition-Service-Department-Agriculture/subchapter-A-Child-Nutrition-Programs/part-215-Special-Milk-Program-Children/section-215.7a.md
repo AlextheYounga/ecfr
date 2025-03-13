@@ -1,5 +1,7 @@
 ##### § 215.7a Fluid milk and non-dairy milk substitute requirements. #####
 
+Link to an amendment published at 89 FR 32077, Apr. 25, 2024.
+
 Fluid milk and non-dairy fluid milk substitutes served must meet the requirements as outlined in this section.
 
 (a) *Types of fluid milk.* All fluid milk served in the Program must be pasteurized fluid milk which meets State and local standards for such milk, have vitamins A and D at levels specified by the Food and Drug Administration, and must be consistent with State and local standards for such milk. Lactose-free and reduced-lactose milk that meet the fat content and flavor specifications for each age group may also be offered. Fluid milk must also meet the following requirements:

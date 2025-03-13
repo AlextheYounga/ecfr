@@ -1,5 +1,7 @@
 ##### § 210.4 Cash and donated food assistance to States. #####
 
+Link to an amendment published at 89 FR 32063, Apr. 25, 2024.
+
 (a) *General.* To the extent funds are available, FNS will make cash assistance available in accordance with the provisions of this section to each State agency for lunches and meal supplements served to children under the National School Lunch and Commodity School Programs. To the extent donated foods are available, FNS will provide donated food assistance to distributing agencies for each lunch served in accordance with the provisions of this part and part 250 of this chapter.
 
 (b) *Assistance for the National School Lunch Program.* The Secretary will make cash and/or donated food assistance available to each State agency and distributing agency, as appropriate, administering the National School Lunch Program, as follows:

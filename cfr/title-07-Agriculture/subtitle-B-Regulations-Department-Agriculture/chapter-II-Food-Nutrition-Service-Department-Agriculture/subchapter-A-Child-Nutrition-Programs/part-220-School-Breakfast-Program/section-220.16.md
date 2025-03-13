@@ -1,5 +1,7 @@
 ##### § 220.16 Procurement standards. #####
 
+Link to an amendment published at 89 FR 32084, Apr. 25, 2024.
+
 (a) *General.* State agencies and school food authorities shall comply with the requirements of this part 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415, as applicable, which implement the applicable Office of Management and Budget Circulars, concerning the procurement of all goods and services with nonprofit school food service account funds.
 
 (b) *Contractual responsibilities.* The standards contained in 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415, as applicable, do not relieve the State agency or School Food Authority of any contractual responsibilities under its contract. The State agency or School Food Authority is the responsible authority, without recourse to FNS, regarding the settlement and satisfaction of all contractual and administrative issues arising out of procurements entered into in connection with the Program. This includes but is not limited to: Source evaluation, protests, disputes, claims, or other matters of a contractual nature. Matters concerning violation of law are to be referred to the local, State or Federal authority that has proper jurisdiction.

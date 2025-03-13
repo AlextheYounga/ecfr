@@ -1,5 +1,7 @@
 ##### § 225.17 Procurement standards. #####
 
+Link to an amendment published at 89 FR 32087, Apr. 25, 2024.
+
 (a) State agencies and sponsors shall comply with the requirements of 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415, as applicable, concerning the procurement of supplies, food, equipment and other services with Program funds. These requirements ensure that such materials and services are obtained for the program efficiently and economically and in compliance with applicable laws and executive orders. Sponsors may use their own procedures for procurement with Program funds to the extent that:
 
 (1) Procurements by public sponsors comply with applicable State or local laws and the standards set forth in 2 CFR part 200, subpart F and USDA implementing regulations 2 CFR part 400 and part 415; and

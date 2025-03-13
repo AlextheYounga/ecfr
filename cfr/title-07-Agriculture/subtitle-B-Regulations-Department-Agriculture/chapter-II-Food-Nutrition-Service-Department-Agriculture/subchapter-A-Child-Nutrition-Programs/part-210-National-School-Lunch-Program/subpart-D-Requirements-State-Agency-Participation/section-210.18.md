@@ -1,5 +1,7 @@
 ##### § 210.18 Administrative reviews. #####
 
+Link to an amendment published at 89 FR 32073, Apr. 25, 2024.
+
 (a) *Programs covered and methodology.* Each State agency must follow the requirements of this section to conduct administrative reviews of school food authorities participating in the National School Lunch Program and the School Breakfast Program (part 220 of this chapter). These procedures must also be followed, as applicable, to conduct administrative reviews of the National School Lunch Program's Afterschool Snacks and Seamless Summer Option, the Special Milk Program (part 215 of this chapter), and the Fresh Fruit and Vegetable Program. To conduct a program review, the State agency must gather and assess information off-site and/or on-site, observe the school food service operation, and use a risk-based approach to evaluate compliance with specific program requirements.
 
 (b) *Definitions.* The following definitions are provided in alphabetical order in order to clarify State agency administrative review requirements:
@@ -42,20 +44,17 @@
 
 (1) *Minimum number of schools.* State agencies must review at least one school from each local education agency. Except for residential child care institutions, the State agency must review all schools with a free average daily participation of 100 or more and a free participation factor of 100 percent or more. In no event must the State agency review less than the minimum number of schools illustrated in Table A for the National School Lunch Program.
 
-Table A
-
-|Number of schools in the school food authority|Minimum  <br/>number  <br/>of schools to  <br/>review|
-|----------------------------------------------|-----------------------------------------------------|
-|                    1 to 5                    |                          1                          |
-|                   6 to 10                    |                          2                          |
-|                   11 to 20                   |                          3                          |
-|                   21 to 40                   |                          4                          |
-|                   41 to 60                   |                          6                          |
-|                   61 to 80                   |                          8                          |
-|                  81 to 100                   |                         10                          |
-|                 101 or more                  |                        \*12                         |
-
-\* Twelve plus 5 percent of the number of schools over 100. Fractions must be rounded up (\>0.5) or down (\<0.5) to the nearest whole number.
+|                                               Number of schools in the school food authority                                                |Minimum  <br/>number  <br/>of schools to  <br/>review|
+|---------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+|                                                                   1 to 5                                                                    |                          1                          |
+|                                                                   6 to 10                                                                   |                          2                          |
+|                                                                  11 to 20                                                                   |                          3                          |
+|                                                                  21 to 40                                                                   |                          4                          |
+|                                                                  41 to 60                                                                   |                          6                          |
+|                                                                  61 to 80                                                                   |                          8                          |
+|                                                                  81 to 100                                                                  |                         10                          |
+|                                                                 101 or more                                                                 |                        \*12                         |
+|\* Twelve plus 5 percent of the number of schools over 100. Fractions must be rounded up (\>0.5) or down (\<0.5) to the nearest whole number.|                                                     |
 
 (2) *School selection criteria.* (i) Selection of additional schools to meet the minimum number of schools required under paragraph (e)(1) of this section, must be based on the following criteria:
 
@@ -81,20 +80,17 @@ Table A
 
 (iii) *Fresh Fruit and Vegetable Program.* The State agency must review the Fresh Fruit and Vegetable Program at one or more of the schools selected for an administrative review, as specified in Table B. If none of the schools selected for the administrative review operates the Fresh Fruit and Vegetable Program but the school food authority operates the Program elsewhere, the State agency must follow procedures in the FNS *Administrative Review Manual* to select one or more sites for the program review.
 
-Table B
-
-|Number of schools  <br/>selected for an NSLP administrative review that operate the FFVP|Minimum  <br/>number  <br/>of FFVP schools  <br/>to be reviewed|
-|----------------------------------------------------------------------------------------|---------------------------------------------------------------|
-|                                         0 to 5                                         |                               1                               |
-|                                        6 to 10                                         |                               2                               |
-|                                        11 to 20                                        |                               3                               |
-|                                        21 to 40                                        |                               4                               |
-|                                        41 to 60                                        |                               6                               |
-|                                        61 to 80                                        |                               8                               |
-|                                       81 to 100                                        |                              10                               |
-|                                      101 or more                                       |                             12\*                              |
-
-\* Twelve plus 5 percent of the number of schools over 100. Fractions must be rounded up (\>0.5) or down (\<0.5) to the nearest whole number.
+|                          Number of schools  <br/>selected for an NSLP administrative review that operate the FFVP                           |Minimum  <br/>number  <br/>of FFVP schools  <br/>to be reviewed|
+|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+|                                                                   0 to 5                                                                    |                               1                               |
+|                                                                   6 to 10                                                                   |                               2                               |
+|                                                                  11 to 20                                                                   |                               3                               |
+|                                                                  21 to 40                                                                   |                               4                               |
+|                                                                  41 to 60                                                                   |                               6                               |
+|                                                                  61 to 80                                                                   |                               8                               |
+|                                                                  81 to 100                                                                  |                              10                               |
+|                                                                 101 or more                                                                 |                             12\*                              |
+|\* Twelve plus 5 percent of the number of schools over 100. Fractions must be rounded up (\>0.5) or down (\<0.5) to the nearest whole number.|                                                               |
 
 (iv) *Special Milk Program.* If a school selected for review under this section operates the Special Milk Program, the State agency must review the school's program documentation off-site or on-site, as prescribed in the FNS *Administrative Review Manual.* On-site review is only required if the State agency has identified documentation problems or if the State agency has identified meal counting or claiming errors in the reviews conducted under the National School Lunch Program or School Breakfast Program.
 

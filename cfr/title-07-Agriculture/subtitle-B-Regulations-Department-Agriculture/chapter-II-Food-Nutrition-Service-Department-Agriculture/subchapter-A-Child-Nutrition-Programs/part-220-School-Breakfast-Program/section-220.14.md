@@ -1,5 +1,7 @@
 ##### § 220.14 Claims against school food authorities. #####
 
+Link to an amendment published at 89 FR 32084, Apr. 25, 2024.
+
 (a) State agencies shall disallow any portion of a claim and recover any payment made to a School Food Authority that was not properly payable under this part. State agencies will use their own procedures to disallow claims and recover overpayments already made.
 
 (b) [Reserved]

@@ -1,4 +1,4 @@
-##### § 38.617 Prohibition of interment or memorialization of persons who have been convicted of Federal or State capital crimes or certain sex offenses. #####
+##### § 38.617 Prohibition of interment or memorialization of persons who committed certain Federal or State crimes. #####
 
 (a) *Persons prohibited.* The interment in a national cemetery under control of the National Cemetery Administration of the remains of any person, or memorialization of such person, shall not take place absent a good faith effort by the Under Secretary for Memorial Affairs, or his or her designee, to determine whether such person is barred from receipt of such benefits because the individual for whom interment or memorialization is sought is:
 
@@ -8,9 +8,11 @@
 
 (3) A person found under procedures specified in § 38.618 to have committed a Federal or State capital crime but avoided conviction of such crime by reason of unavailability for trial due to death or flight to avoid prosecution.
 
-(4) A person identified to the Secretary of Veterans Affairs, by the United States Attorney General, in the case of a Federal crime, or by an appropriate State official, in the case of a State crime, as an individual who has been convicted of a Federal or State crime causing the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act (34 U.S.C. 20901, *et seq.*); who, for such crime, is sentenced to a minimum of life imprisonment; and whose conviction is final (other than a person whose sentence was commuted by the President or Governor of a State).
+(4) A person identified to the Secretary of Veterans Affairs, by the United States Attorney General, in the case of a Federal crime, or by an appropriate State official, in the case of a State crime, as an individual who has been convicted of a Federal or State crime causing the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act (34 U.S.C. 20901, *et seq.*); who, for such crime, is sentenced to a minimum of life imprisonment or to a period of 99 years or more; and whose conviction is final (other than a person whose sentence was commuted by the President or Governor of a State).
 
-(b) *Notice.* The prohibition referred to in paragraph (a)(3) of this section is not contingent on receipt by the Secretary of Veterans Affairs or any other VA official of notice from any Federal or State official.
+(5) A person found, under procedures specified in § 38.618, to have committed a Federal or State crime that would cause the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act (34 U.S.C. 20901 *et seq.*) but avoided conviction of such crime by reason of unavailability for trial due to death or flight to avoid prosecution.
+
+(b) *Notice.* The prohibition referred to in paragraphs (a)(3) and (5) of this section is not contingent on receipt by the Secretary of Veterans Affairs or any other VA official of notice from any Federal or State official.
 
 (c) *Receipt of notification.* The Under Secretary for Memorial Affairs is delegated authority to receive from the United States Attorney General and appropriate State officials on behalf of the Secretary of Veterans Affairs the notification referred to in paragraphs (a)(1), (2), and (4) of this section.
 
@@ -28,4 +30,4 @@
 
 (g) *Notice of decision.* Written notice of a decision under paragraph (d) or (f) of this section will be provided by the Under Secretary for Memorial Affairs, or his or her designee, to the personal representative of the deceased, along with written notice of appellate rights in accordance with § 19.25 of this title. This notice of appellate rights will include notice of the opportunity to file a notice of disagreement with the decision of the Under Secretary for Memorial Affairs, or his or her designee. Action following receipt of a notice of disagreement with a denial of eligibility for interment or memorialization under this section will be in accordance with §§ 19.26 through 19.38 of this title.
 
-(Authority: 38 U.S.C. 512, 2411, 7105)[70 FR 4769, Jan. 31, 2005, as amended at 73 FR 35352, June 23, 2008; 84 FR 5954, Feb. 25, 2019]
+(Authority: 38 U.S.C. 512, 2411, 7105)[70 FR 4769, Jan. 31, 2005, as amended at 73 FR 35352, June 23, 2008; 84 FR 5954, Feb. 25, 2019; 89 FR 31638, Apr. 25, 2024]

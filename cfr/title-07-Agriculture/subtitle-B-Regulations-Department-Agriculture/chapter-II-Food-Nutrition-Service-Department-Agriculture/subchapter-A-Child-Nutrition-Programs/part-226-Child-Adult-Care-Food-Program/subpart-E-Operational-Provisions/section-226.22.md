@@ -1,5 +1,7 @@
 ##### § 226.22 Procurement standards. #####
 
+Link to an amendment published at 89 FR 32092, Apr. 25, 2024.
+
 (a) *General.* This section establishes standards and guidelines for the procurement of foods, supplies, equipment, and other goods and services. These standards are furnished to ensure that goods and services are obtained efficiently and economically and in compliance with the provisions of applicable Federal law and Executive orders.
 
 (b) *Compliance.* Institutions may use their own procedures for procurement with Program funds to the extent that:

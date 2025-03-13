@@ -1,5 +1,7 @@
 ##### § 210.12 Student, parent, and community involvement. #####
 
+Link to an amendment published at 89 FR 32073, Apr. 25, 2024.
+
 (a) *General.* School food authorities shall promote activities to involve students and parents in the Program. Such activities may include menu planning, enhancement of the eating environment, Program promotion, and related student-community support activities. School food authorities are encouraged to use the school food service program to teach students about good nutrition practices and to involve the school faculty and the general community in activities to enhance the Program.
 
 (b) *Food service management companies.* School food authorities contracting with a food service management company shall comply with the provisions of § 210.16(a) regarding the establishment of an advisory board of parents, teachers and students.
