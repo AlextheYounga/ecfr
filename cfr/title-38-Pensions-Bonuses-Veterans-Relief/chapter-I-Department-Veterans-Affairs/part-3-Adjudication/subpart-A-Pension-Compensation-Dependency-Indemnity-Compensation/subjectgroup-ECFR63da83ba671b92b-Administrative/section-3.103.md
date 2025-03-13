@@ -1,5 +1,7 @@
 ##### § 3.103 Procedural due process and other rights. #####
 
+Link to an amendment published at 88 FR 86061, Dec. 12, 2023.
+
 (a) *Statement of policy.* Every claimant has the right to written notice of the decision made on his or her claim, the right to a hearing, and the right of representation. Proceedings before VA are ex parte in nature, and it is the obligation of VA to assist a claimant in developing the facts pertinent to the claim and to render a decision which grants every benefit that can be supported in law while protecting the interests of the Government. The provisions of this section apply to all claims for benefits and relief, and decisions thereon, within the purview of this part 3.
 
 (b) *The right to notice*—

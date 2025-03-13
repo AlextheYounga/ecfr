@@ -343,6 +343,12 @@
 |                           (59) 6-(2-chlorophenyl)-1-methyl-8-nitro-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine, its salts, isomers, and salts of isomers (Other name: clonazolam)                            |2786|
 |                          (60) 8-bromo-6-(2-fluorophenyl)-1-methyl-4H-benzo[f][1,2,4]triazolo[4,3-a][1,4]diazepine, its salts, isomers, and salts of isomers (Other name: flubromazolam)                          |2788|
 |                             (61) 7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H-benzo[e][1,4]diazepin-2-one, its salts, isomers, and salts of isomers (Other name: diclazepam)                              |2789|
+|                 (62) Methyl 3,3-dimethyl-2-(1-(pent-4-en-1-yl)-1H-indazole-3-carboxamido)butanoate, its optical and geometric isomers, salts and salts of isomers (Other name: MDMB-4en-PINACA)                  |7090|
+|           (63) Methyl 2-[[1-(4-fluorobutyl)indole-3-carbonyl]amino]-3,3-dimethyl-butanoate, its optical and geometric isomers, salts and salts of isomers (Other names: 4F-MDMB-BUTICA; 4F-MDMB-BICA)            |7091|
+|              (64) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(pent-4-en-1-yl)-1H-indazole-3-carboxamide, its optical and geometric isomers, salts and salts of isomers (Other name: ADB-4en-PINACA)              |7092|
+|                       (65) 5-Pentyl-2-(2-phenylpropan-2-yl)pyrido[4,3-b]indol-1-one, its optical and geometric isomers, salts and salts of isomers (Other names: CUMYL-PEGACLONE; SGT-151)                       |7093|
+|            (66) Ethyl 2-[[1-(5-fluoropentyl)indole-3-carbonyl]amino]-3,3-dimethyl-butanoate, its optical and geometric isomers, salts and salts of isomers (Other names: 5F-EDMB-PICA; 5F-EDMB-2201)             |7094|
+|                      (67) Methyl 2-(1-(4-fluorobenzyl)-1H-indole-3-carboxamido)-3-methyl butanoate, its optical and geometric isomers, salts and salts of isomers (Other name: MMB-FUBICA)                       |7095|
 
 [39 FR 22141, June 20, 1974]Editorial Notes:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
@@ -355,3 +361,5 @@ Effective Date Notes:
 2. At 87 FR 21561, Apr. 12, 2022, § 1308.11 was amended by adding paragraphs (h)(50) through (h)(56), effective Apr. 12, 2022 through Apr. 12, 2024.
 
 3. At 88 FR 48118, July 26, 2023, § 1308.11 was amended by adding paragraphs (h)(57) through (h)(61), effective July 26, 2023 through July 26, 2025.
+
+4. At 88 FR 86045, Dec. 12, 2023, § 1308.11 was amended by adding pargaraphs (h)(62) through (h)(65), effective Dec. 12, 2023 through Dec. 12, 2025.

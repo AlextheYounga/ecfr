@@ -1,5 +1,7 @@
 ##### § 7.83 Ozark National Scenic Riverways. #####
 
+Link to an amendment published at 88 FR 86057, Dec. 12, 2023.
+
 (a) *Restrictions for motorized vessels.* (1) On waters situated within the boundaries of Ozark National Scenic Riverways, the use of a motorized vessel is limited to a vessel equipped with an outboard motor only.
 
 (2) For the purposes of this section, horsepower ratings on a particular motor will be based upon the prevailing industry standard of power output at the propeller shaft as established by the manufacturer.

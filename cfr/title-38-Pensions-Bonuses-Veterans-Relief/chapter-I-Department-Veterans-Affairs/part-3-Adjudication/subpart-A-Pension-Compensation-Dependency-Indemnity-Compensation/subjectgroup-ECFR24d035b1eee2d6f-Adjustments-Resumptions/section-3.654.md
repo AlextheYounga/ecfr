@@ -1,5 +1,7 @@
 ##### § 3.654 Active service pay. #####
 
+Link to an amendment published at 88 FR 86062, Dec. 12, 2023.
+
 (a) *General.* Pension, compensation, or retirement pay will be discontinued under the circumstances stated in § 3.700(a)(1) for any period for which the veteran received active service pay. For the purposes of this section, active service pay means pay received for active duty, active duty for training or inactive duty training.
 
 (b) *Active duty.* (1) Where the veteran returns to active duty status, the award will be discontinued effective the day preceding reentrance into active duty status. If the exact date is not known, payments will be discontinued effective date of last payment and as of the correct date when the date of reentrance has been ascertained from the service department.

@@ -1,7 +1,5 @@
 ##### § 390.5 Definitions. #####
 
-Link to an amendment published at 88 FR 70907, Oct. 13, 2023.
-
 Unless specifically defined elsewhere, in this subchapter:
 
 *Accident* means—
@@ -70,7 +68,7 @@ Unless specifically defined elsewhere, in this subchapter:
 
 *Crash*—See accident.
 
-*Direct assistance* means transportation and other relief services provided by a motor carrier or its driver(s) incident to the immediate restoration of essential services (such as, electricity, medial care, sewer, water, telecommunications, and telecommunication transmissions) or essential supplies (such as, food and fuel). It does not include transportation related to long-term rehabilitation of damaged physical infrastructure or routine commercial deliveries after the initial threat to life and property has passed.
+*Direct assistance* means transportation operations in which a motor carrier or driver of a CMV is supplementing State and local efforts and capabilities to save lives or property or to protect public health and safety as a result of an emergency as defined in this section involving transportation and other relief services provided by a motor carrier or its driver(s) incident to the immediate restoration of essential services (*e.g.,* electricity, medical care, sewer, water, telecommunications, and telecommunication transmissions) or essential supplies (*e.g.,* food and fuel). It does not include transportation related to long-term rehabilitation of damaged physical infrastructure or routine commercial deliveries after the initial threat to life and property has passed.
 
 *Direct compensation* means payment made to the motor carrier by the passengers or a person acting on behalf of the passengers for the transportation services provided, and not included in a total package charge or other assessment for highway transportation services.
 
@@ -108,15 +106,9 @@ Unless specifically defined elsewhere, in this subchapter:
 
 *Electronic signature* means a method of signing an electronic communication that identifies and authenticates a particular person as the source of the electronic communication and indicates such person's approval of the information contained in the electronic communication, in accordance with the Government Paperwork Elimination Act (Pub. L. 105-277, Title XVII, Secs. 1701-1710, 44 U.S.C. 3504 note, 112 Stat. 2681-749).
 
-*Emergency* means any hurricane, tornado, storm (*e.g.* thunderstorm, snowstorm, icestorm, blizzard, sandstorm, etc.), high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, mud slide, drought, forest fire, explosion, blackout, or other occurrence, natural or man-made, which interrupts the delivery of essential services (such as, electricity, medical care, sewer, water, telecommunications, and telecommunication transmissions) or essential supplies (such as, food and fuel) or otherwise immediately threatens human life or public welfare, provided such hurricane, tornado, or other event results in:
-
-(1) A declaration of an emergency by the President of the United States, the Governor of a State, or their authorized representatives having authority to declare emergencies; by FMCSA; or by other Federal, State, or local government officials having authority to declare emergencies; or
-
-(2) A request by a police officer for tow trucks to move wrecked or disabled motor vehicles.
+*Emergency* means any hurricane, tornado, storm (*e.g.,* thunderstorm, snowstorm, ice storm, blizzard, sandstorm, etc.), high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, mud slide, drought, forest fire, explosion, blackout, or other occurrence, natural or man-made, which interrupts the delivery of essential services (*e.g.,* electricity, medical care, sewer, water, telecommunications, and telecommunication transmissions) or essential supplies (*e.g.,* food and fuel) or otherwise immediately threatens human life or public welfare, provided such hurricane, tornado, or other event results in a declaration of an emergency by the President of the United States, the Governor of a State, or their authorized representatives having authority to declare emergencies; by FMCSA; or by other Federal, State, or local government officials having authority to declare emergencies; or a request by a police officer for tow trucks to move wrecked or disabled motor vehicles. *Emergency* does not include events arising from economic conditions that are caused by market forces, including shortage of raw materials (*e.g.,* driver shortages, computer chip shortages, other supply chain issues) or labor strikes, unless such event causes an immediate threat to human life and results in a declaration of an emergency by the President of the United States, the Governor of a State, or their authorized representatives having authority to declare emergencies; by FMCSA; or by other Federal, State, or local government officials having authority to declare emergencies.
 
 *Emergency condition requiring immediate response* means any condition that, if left unattended, is reasonably likely to result in immediate serious bodily harm, death, or substantial damage to property. In the case of transportation of propane winter heating fuel, such conditions shall include (but are not limited to) the detection of gas odor, the activation of carbon monoxide alarms, the detection of carbon monoxide poisoning, and any real or suspected damage to a propane gas system following a severe storm or flooding. An “emergency condition requiring immediate response” does not include requests to refill empty gas tanks. In the case of a pipeline emergency, such conditions include (but are not limited to) indication of an abnormal pressure event, leak, release or rupture.
-
-*Emergency relief* means an operation in which a motor carrier or driver of a commercial motor vehicle is providing direct assistance to supplement State and local efforts and capabilities to save lives or property or to protect public health and safety as a result of an emergency as defined in this section.
 
 *Employee* means any individual, other than an employer, who is employed by an employer and who in the course of his or her employment directly affects commercial motor vehicle safety. Such term includes a driver of a commercial motor vehicle (including an independent contractor while in the course of operating a commercial motor vehicle), a mechanic, and a freight handler. Such term does not include an employee of the United States, any State, any political subdivision of a State, or any agency established under a compact between States and approved by the Congress of the United States who is acting within the course of such employment.
 
@@ -254,6 +246,8 @@ Unless specifically defined elsewhere, in this subchapter:
 
 *Residential district* means the territory adjacent to and including a highway which is not a business district and for a distance of 300 feet or more along the highway is primarily improved with residences.
 
+*Residential heating fuel* includes heating oil, natural gas, and propane (also known as Liquefied Petroleum Gas or Petroleum Gas, Liquified).
+
 *School bus* means a passenger motor vehicle which is designed or used to carry more than 10 passengers in addition to the driver, and which the Secretary determines is likely to be significantly used for the purpose of transporting preprimary, primary, or secondary school students to such schools from home or from such schools to home.
 
 *School bus operation* means the use of a school bus to transport only school children and/or school personnel from home to school and from school to home.
@@ -309,4 +303,4 @@ Unless specifically defined elsewhere, in this subchapter:
 *Written or in writing* means printed, handwritten, or typewritten either on paper or other tangible medium, or by any method of electronic documentation that meets the requirements of 49 CFR 390.32.
 
 [53 FR 18052, May 19, 1988]Editorial Note:For Federal Register citations affecting § 390.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 82 FR 5311, Jan. 17, 2017, § 390.5 was suspended, effective Jan. 14, 2017. At 84 FR 40293, Aug. 14, 2019, the suspension was lifted and amendments were made to § 390.5. In that same document, § 390.5 was again suspended indefinitely. At 86 FR 35642, July 7, 2021, the suspension was lifted and amendments were made to § 390.5. In that same document, § 390.5 was again suspended indefinitely.
-At 86 FR 57072, Oct. 14, 2021, the suspension was lifted and amendments were made to § 390.5. In that same document, § 390.5 was again suspended indefinitely. At 87 FR 13208, Mar. 9, 2022, the suspension was lifted and an amendment was made to § 390.5. In that same document, § 390.5 was again suspended indefinitely. At 88 FR 80183, Nov. 17, 2023, the suspension was lifted, § 390.5 was amended, and the section was again suspended indefinitely.
+At 86 FR 57072, Oct. 14, 2021, the suspension was lifted and amendments were made to § 390.5. In that same document, § 390.5 was again suspended indefinitely. At 87 FR 13208, Mar. 9, 2022, the suspension was lifted and an amendment was made to § 390.5. In that same document, § 390.5 was again suspended indefinitely. At 88 FR 80183, Nov. 17, 2023, the suspension was lifted, § 390.5 was amended, and the section was again suspended indefinitely, effective Nov. 17, 2023. At 88 FR 70907, Oct. 13, 2023, the suspension was lifted, § 390.5 was amended, and the section was again suspended indefinitely, effective Dec. 12, 2023.
