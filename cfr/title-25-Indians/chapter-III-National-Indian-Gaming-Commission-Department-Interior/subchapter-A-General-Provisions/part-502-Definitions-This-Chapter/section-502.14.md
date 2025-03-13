@@ -1,10 +1,8 @@
 ##### § 502.14 Key employee. #####
 
-Link to an amendment published at 88 FR 55370, Aug. 15, 2023.
-
 *Key employee* means:
 
-(a) A person who performs one or more of the following functions:
+(a) Any person who performs one or more of the following functions for the gaming operation:
 
 (1) Bingo caller;
 
@@ -12,24 +10,24 @@ Link to an amendment published at 88 FR 55370, Aug. 15, 2023.
 
 (3) Chief of security;
 
-(4) Custodian of gaming supplies or cash;
+(4) Floor manager;
 
-(5) Floor manager;
+(5) Pit boss;
 
-(6) Pit boss;
+(6) Dealer;
 
-(7) Dealer;
+(7) Croupier;
 
-(8) Croupier;
+(8) Approver of credit;
 
-(9) Approver of credit; or
+(9) Custodian of gaming systems as defined in 25 CFR 547.2 and similar class III systems, gaming cash or gaming cash equivalents, gaming supplies or gaming system records;
 
-(10) Custodian of gambling devices including persons with access to cash and accounting records within such devices;
+(10) Custodian of surveillance systems or surveillance system records.
 
-(b) If not otherwise included, any other person whose total cash compensation is in excess of $50,000 per year; or,
+(b) Any gaming operation employee authorized by the gaming operation for unescorted access to secured gaming areas designated as secured gaming areas by the TGRA;
 
-(c) If not otherwise included, the four most highly compensated persons in the gaming operation.
+(c) If not otherwise licensed as a key employee or primary management official, the four persons most highly compensated by the gaming operation;
 
-(d) Any other person designated by the tribe as a key employee.
+(d) Any other employee of the gaming enterprise as documented by the tribe as a key employee.
 
-[57 FR 12392, Apr. 9, 1992, as amended at 74 FR 36932, July 27, 2009]
+[88 FR 55370, Aug. 15, 2023]

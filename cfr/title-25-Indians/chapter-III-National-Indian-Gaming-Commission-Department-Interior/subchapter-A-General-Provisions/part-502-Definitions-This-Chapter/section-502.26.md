@@ -1,3 +1,5 @@
-##### § 502.26 xxx #####
+##### § 502.26 Tribal Gaming Regulatory Authority (TGRA). #####
 
-Link to an amendment published at 88 FR 55371, Aug. 15, 2023.
+*Tribal Gaming Regulatory Authority* (TGRA) means the entity authorized by Tribal law to regulate gaming conducted pursuant to the Indian Gaming Regulatory Act.
+
+[88 FR 55371, Aug. 15, 2023]

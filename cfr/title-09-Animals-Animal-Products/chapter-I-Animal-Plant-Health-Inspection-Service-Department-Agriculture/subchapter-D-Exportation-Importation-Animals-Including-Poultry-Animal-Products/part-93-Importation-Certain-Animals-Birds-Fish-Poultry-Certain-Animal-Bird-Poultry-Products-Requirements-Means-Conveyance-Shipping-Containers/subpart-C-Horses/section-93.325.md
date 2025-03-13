@@ -1,0 +1,5 @@
+##### § 93.325 Horses from Mexico. #####
+
+Horses offered for entry from Mexico shall be inspected as provided in §§ 93.306 and 93.323; shall be accompanied by a certificate and otherwise handled as provided in § 93.314; and shall be quarantined and tested as provided in § 93.324: *Provided,* That horses offered for importation from tick-infected areas of Mexico shall be chute inspected, unless in the judgment of the inspector a satisfactory inspection can be made otherwise. If upon inspection they are found to be apparently free from fever ticks, before entering the United States they shall be dipped once in a permitted arsenical solution or be otherwise treated in a manner approved by the Administrator.
+
+[55 FR 31495, Aug. 2, 1990. Redesignated and amended at 62 FR 56012, 56017, Oct. 28, 1997]

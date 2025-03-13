@@ -1,8 +1,6 @@
 ##### § 556.6 Report to the Commission. #####
 
-Link to an amendment published at 88 FR 55371, Aug. 15, 2023.
-
-(a) When a tribe employs a primary management official or a key employee, the tribe shall maintain a complete application file containing the information listed under § 556.4(a)(1) through (14).
+(a) When a Tribe licenses a primary management official or a key employee, the Tribe shall maintain the information listed under § 556.4(a)(1) through (14).
 
 (b) Before issuing a license to a primary management official or to a key employee, a tribe shall:
 
@@ -33,3 +31,5 @@ Link to an amendment published at 88 FR 55371, Aug. 15, 2023.
 (D) Every felony of which the applicant has been convicted or any ongoing prosecution.
 
 (iv) A copy of the eligibility determination made under § 556.5.
+
+[78 FR 5279, Jan. 25, 2013, as amended at 88 FR 55371, Aug. 15, 2023]

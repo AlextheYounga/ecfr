@@ -1,5 +1,7 @@
 ##### § 93.301 General prohibitions; exceptions. #####
 
+Link to an amendment published at 88 FR 63000, Sept. 14, 2023.
+
 (a) No horse or product subject to the provisions of this part shall be brought into the United States except in accordance with the regulations in this part and part 94 of this subchapter;3 nor shall any such horse or product be handled or moved after physical entry into the United States before final release from quarantine or any other form of governmental detention except in compliance with such regulations; *Provided,* That, the Administrator may upon request in specific cases permit horses to be brought into or through the United States under such conditions as he or she may prescribe, when he or she determines in the specific case that such action will not endanger the livestock or poultry of the United States.
 
 3 Importations of certain animals from various regions are absolutely prohibited under part 94 because of specific diseases.

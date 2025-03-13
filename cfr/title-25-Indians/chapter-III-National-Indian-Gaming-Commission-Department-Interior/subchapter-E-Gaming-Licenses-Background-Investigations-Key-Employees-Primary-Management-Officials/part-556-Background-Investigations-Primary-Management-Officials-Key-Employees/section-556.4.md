@@ -1,8 +1,6 @@
 ##### § 556.4 Background investigations. #####
 
-Link to an amendment published at 88 FR 55371, Aug. 15, 2023.
-
-A tribe shall perform a background investigation for each primary management official and for each key employee of a gaming operation.
+A Tribe shall perform a background investigation for each primary management official and for each key employee of the gaming enterprise.
 
 (a) A tribe shall request from each primary management official and from each key employee all of the following information:
 
@@ -37,3 +35,5 @@ A tribe shall perform a background investigation for each primary management off
 (b) If, in the course of a background investigation, a tribe discovers that the applicant has a notice of results on file with the NIGC from a prior investigation and the tribe has access to the earlier investigative materials (either through the NIGC or the previous tribal investigative body), the tribe may rely on those materials and update the investigation and investigative report under § 556.6(b)(1).
 
 (c) In conducting a background investigation, a tribe or its agents shall keep confidential the identity of each person interviewed in the course of the investigation.
+
+[78 FR 5279, Jan. 25, 2013, as amended at 88 FR 55371, Aug. 15, 2023]

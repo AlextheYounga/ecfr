@@ -1,5 +1,7 @@
 ##### § 93.314 Horses, certification, and accompanying equipment. #####
 
+Link to an amendment published at 88 FR 63003, Sept. 14, 2023.
+
 (a) Horses offered for importation from any part of the world shall be accompanied by a certificate of a salaried veterinary officer of the national government of the region of origin, or if exported from Mexico, shall be accompanied either by such a certificate or by a certificate issued by a veterinarian accredited by the National Government of Mexico and endorsed by a full-time salaried veterinary officer of the National Government of Mexico, thereby representing that the veterinarian issuing the certificate was authorized to do so, showing that:
 
 (1) The horses described in the certificate have been in said region during the 60 days preceding exportation;

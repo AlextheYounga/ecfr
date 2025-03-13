@@ -1,19 +1,19 @@
 ##### § 502.19 Primary management official. #####
 
-Link to an amendment published at 88 FR 55370, Aug. 15, 2023.
+Primary management official means:
 
-*Primary management official means:*
-
-(a) The person having management responsibility for a management contract;
+(a) Any person having management responsibility for a management contract;
 
 (b) Any person who has authority:
 
-(1) To hire and fire employees; or
+(1) To hire and fire employees of the gaming operation; or
 
-(2) To set up working policy for the gaming operation; or
+(2) To establish policy for the gaming operation.
 
-(c) The chief financial officer or other person who has financial management responsibility.
+(c) The chief financial officer or a position with duties similar to a chief financial officer.
 
-(d) Any other person designated by the tribe as a primary management official.
+(d) The general manager or a position with duties similar to a general manager.
 
-[57 FR 12392, Apr. 9, 1992, as amended at 74 FR 36933, July 27, 2009]
+(e) Any other employed management official of the gaming enterprise as documented by the Tribe as a primary management official.
+
+[88 FR 55370, Aug. 15, 2023]

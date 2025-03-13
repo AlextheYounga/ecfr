@@ -1,5 +1,7 @@
 ##### § 93.300 Definitions. #####
 
+Link to an amendment published at 88 FR 63000, Sept. 14, 2023.
+
 Wherever in this subpart the following terms are used, unless the context otherwise requires, they shall be construed, respectively, to mean:
 
 *Accredited veterinarian.* A veterinarian approved by the Administrator in accordance with the provisions of part 161 of this title to perform functions specified in parts 1, 2, 3, and 11 of subchapter A, and subchapters B, C, and D of this chapter, and to perform functions required by cooperative State-Federal disease control and eradication programs.

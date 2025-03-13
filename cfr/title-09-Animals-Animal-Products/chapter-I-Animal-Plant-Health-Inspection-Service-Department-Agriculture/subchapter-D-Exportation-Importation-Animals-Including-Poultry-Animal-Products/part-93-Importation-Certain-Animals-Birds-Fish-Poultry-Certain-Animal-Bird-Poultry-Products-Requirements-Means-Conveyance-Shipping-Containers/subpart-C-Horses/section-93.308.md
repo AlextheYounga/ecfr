@@ -1,5 +1,7 @@
 ##### § 93.308 Quarantine requirements. #####
 
+Link to an amendment published at 88 FR 63002, Sept. 14, 2023.
+
 (a) Except as provided in this section and in § 93.324, horses intended for importation into the United States from any part of the world shall be shipped directly to a port designated in §§ 93.303 and 92.324 and be quarantined at said port until negative results to port of entry tests are obtained and the horses are certified by the port veterinarian to be free from clinical evidence of disease.
 
 (1) Except as provided in §§ 93.317 and 93.324 and in paragraph (a)(1)(i) of this section, horses intended for importation from the Western Hemisphere shall be quarantined at a port designated in § 93.303 for not less than 7 days to be evaluated for signs of Venezuelan equine encephalomyelitis.
