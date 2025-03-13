@@ -1,5 +1,7 @@
 ##### § 803.5 Use of the Seal. #####
 
+Link to an amendment published at 88 FR 69045, Oct. 5, 2023.
+
 (a) The Seal is the official emblem of the Board and its use is therefore permitted only as provided in this part.
 
 (b) Use by any person or organization outside of the Board may be made only with the Board's prior written approval.

@@ -1,5 +1,7 @@
 ##### 3.908-5 Procedures for investigating complaints. #####
 
+Link to an amendment published at 88 FR 69522, Oct. 5, 2023.
+
 (a) Investigation of complaints will be in accordance with 41 U.S.C. 4712(b).
 
 (b) Upon completion of the investigation, the head of the agency or designee shall ensure that the Inspector General provides the report of findings to—

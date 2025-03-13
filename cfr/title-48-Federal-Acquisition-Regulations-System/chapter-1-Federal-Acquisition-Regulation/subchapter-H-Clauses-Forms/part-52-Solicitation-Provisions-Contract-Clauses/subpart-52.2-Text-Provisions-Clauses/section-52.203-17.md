@@ -1,5 +1,7 @@
 ##### 52.203-17 Contractor Employee Whistleblower Rights and Requirement To Inform Employees of Whistleblower Rights. #####
 
+Link to an amendment published at 88 FR 69522, Oct. 5, 2023.
+
 As prescribed in 3.908-9, insert the following clause:
 
 Contractor Employee Whistleblower Rights and Requirement To Inform Employees of Whistleblower Rights (JUN 2020)

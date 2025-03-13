@@ -1,5 +1,7 @@
 ##### 3.908-6 Remedies. #####
 
+Link to an amendment published at 88 FR 69522, Oct. 5, 2023.
+
 (a) *Agency response to Inspector General report.* Not later than 30 days after receiving an Inspector General report in accordance with 41 U.S.C. 4712, the head of the agency shall—
 
 (1) Determine whether sufficient basis exists to conclude that the contractor or subcontractor has subjected the employee who submitted the complaint to a reprisal as prohibited by 3.908-3; and

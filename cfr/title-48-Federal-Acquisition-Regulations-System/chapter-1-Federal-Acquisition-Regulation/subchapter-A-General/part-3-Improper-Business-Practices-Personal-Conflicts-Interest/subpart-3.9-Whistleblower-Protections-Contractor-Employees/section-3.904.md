@@ -1,5 +1,7 @@
 ##### 3.904 Procedures for filing complaints. #####
 
+Link to an amendment published at 88 FR 69520, Oct. 5, 2023.
+
 (a) Any employee of a contractor who believes that he or she has been discharged, demoted, or otherwise discriminated against contrary to the policy in 3.903 may file a complaint with the Inspector General of the agency that awarded the contract.
 
 (b) The complaint shall be signed and shall contain—

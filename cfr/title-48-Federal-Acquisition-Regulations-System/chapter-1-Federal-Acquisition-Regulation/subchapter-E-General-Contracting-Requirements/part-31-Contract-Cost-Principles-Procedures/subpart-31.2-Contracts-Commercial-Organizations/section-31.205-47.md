@@ -1,5 +1,7 @@
 ##### 31.205-47 Costs related to legal and other proceedings. #####
 
+Link to an amendment published at 88 FR 69522, Oct. 5, 2023.
+
 (a) *Definitions.* As used in this subsection—
 
 *Costs* include, but are not limited to, administrative and clerical expenses; the costs of legal services, whether performed by in-house or private counsel; the costs of the services of accountants, consultants, or others retained by the contractor to assist it; costs of employees, officers, and directors; and any similar costs incurred before, during, and after commencement of a judicial or administrative proceeding which bears a direct relationship to the proceedings.

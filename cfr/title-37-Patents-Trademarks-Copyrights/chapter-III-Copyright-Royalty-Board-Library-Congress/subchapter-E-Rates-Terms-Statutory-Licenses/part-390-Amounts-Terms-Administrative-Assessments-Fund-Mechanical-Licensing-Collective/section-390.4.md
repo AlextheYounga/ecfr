@@ -6,7 +6,7 @@
 
 (2) *Threshold Licensee Assessment Pool.* The Threshold Licensee Assessment Pool shall be allocated on a pro rata basis across Threshold Licensees based on each Threshold Licensee's share of the aggregate Unique Sound Recordings Counts of all Threshold Licensees. In the event that no Threshold Licensees exist for a Quarterly Allocation, the Threshold Licensee Assessment Pool shall become payable by all Allocated Licensees in the same manner as the Allocated Licensee Assessment Pool.
 
-(b) *Calculation periods and timing.* The calculation period for each Quarterly Allocation shall be the three-month period that ends three months prior to the start of the respective quarter, except that the calculation period for the Quarterly Allocation for the first and second quarters of 2021 shall be the same as for the annual minimum fee for the 2021 Annual Assessment and shall be calculated based upon the information provided in the Certified Minimum Fee Disclosures, as required by this part. The MLC shall make all calculations for each respective period based upon the reporting for such period received from Licensees as of the time of calculation by the MLC, which calculation time shall not be earlier than the legal deadline for submission of reporting by Licensees for the respective period. In the event that a Licensee has not provided timely reporting for the respective calculation period at the time the MLC calculates a Quarterly Allocation, the MLC may instead use, in its discretion, the most recent reporting from that Licensee to determine that Licensee's Unique Sound Recordings Count, for the purposes of calculating the Quarterly Allocation.
+(b) *Calculation periods and timing.* The calculation period for each Quarterly Allocation shall be the three-month period that ends three months prior to the start of the respective quarter. The MLC shall make all calculations for each respective period based upon the reporting for such period received from Licensees as of the time of calculation by the MLC, which calculation time shall not be earlier than the legal deadline for submission of reporting by Licensees for the respective period. In the event that a Licensee has not provided timely reporting for the respective calculation period at the time the MLC calculates a Quarterly Allocation, the MLC may instead use, in its discretion, the most recent reporting from that Licensee to determine that Licensee's Unique Sound Recordings Count, for the purposes of calculating the Quarterly Allocation.
 
 (c) *Invoicing and payment of allocation*—(1) *Deadline for payment.* (i) Invoices from the MLC for Quarterly Allocation shares shall be payable pursuant to the MLC invoice no later than 45 days after receipt of the invoice from the MLC.
 
@@ -20,11 +20,9 @@
 
 (C) Amount owed, by share of Allocated Licensee Assessment Pool and Threshold Licensee Assessment Pool;
 
-(D) Allocation of Startup Assessment;
+(D) Offset of minimum fee payment against quarterly assessment; and
 
-(E) Offset of minimum fee payment against quarterly assessment; and
-
-(F) Amount of credit for un-recouped minimum fee.
+(E) Amount of credit for un-recouped minimum fee.
 
 (ii) Invoices issued as a result of an allocation adjustment shall include all of the information set forth in paragraphs (c)(2)(i)(A) through (F) of this section that may be relevant, as well as an explanation of the change from the prior invoices that are affected, and the reason(s) for the adjustment.
 
@@ -36,6 +34,10 @@
 
 (g) *Reports to DLC.* The MLC shall report to the DLC no later than 75 days after the end of every quarter the Aggregate Sound Recordings Count for that quarter.
 
-(h) *Startup Assessment allocation and payment.* The Startup Assessment shall be allocated and paid in the same manner and on the same dates as the 2021 Annual Assessment, including as to each of the applicable provisions above, and shall be separately itemized in invoices from the MLC to Licensees. Pursuant to § 390.3, a single annual minimum fee shall be assessed for the 2021 Annual Assessment, and no additional annual minimum fee shall be assessed for the Startup Assessment.
+(h) *2023 Annual Assessment allocation and payment.* The 2023 Annual Assessment shall be paid in two separate processes:
 
-[86 FR 6570, Jan. 22, 2021]
+(1) The MLC will collect from Licensees the amount of $30,235,650 pursuant to the standard procedures outlined in the other provisions of this part for collection of the 2023 Annual Assessment, including the collection of Annual Minimum Fees and Quarterly Allocations.
+
+(2) The MLC will collect from Allocated Licensees the amount of $2,664,350 through a separately invoiced, one-time collection, with no minimum fees applied. The amount shall be divided into two equal parts and allocated among Licensees using the formulas set forth in paragraphs (a)(1) and (a)(2) of this section. The calculation period shall be the first three months of 2023. The MLC may invoice for this collection at any time, with payment to be due no later than 45 days after receipt of the invoice from the MLC.
+
+[86 FR 6570, Jan. 22, 2021, as amended at 88 FR 69039, Oct. 5, 2023]

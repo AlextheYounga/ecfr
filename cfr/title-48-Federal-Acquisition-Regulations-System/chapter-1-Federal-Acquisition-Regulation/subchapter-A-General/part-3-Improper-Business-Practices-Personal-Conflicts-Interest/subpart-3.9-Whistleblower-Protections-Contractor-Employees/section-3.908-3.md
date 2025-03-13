@@ -1,5 +1,7 @@
 ##### 3.908-3 Policy. #####
 
+Link to an amendment published at 88 FR 69522, Oct. 5, 2023.
+
 (a) Contractors and subcontractors are prohibited from discharging, demoting, or otherwise discriminating against an employee as a reprisal for disclosing, to any of the entities listed at paragraph (b) of this subsection, information that the employee reasonably believes is evidence of gross mismanagement of a Federal contract, a gross waste of Federal funds, an abuse of authority relating to a Federal contract, a substantial and specific danger to public health or safety, or a violation of law, rule, or regulation related to a Federal contract (including the competition for or negotiation of a contract). A reprisal is prohibited even if it is undertaken at the request of an executive branch official, unless the request takes the form of a non-discretionary directive and is within the authority of the executive branch official making the request.
 
 (b) *Entities to whom disclosure may be made.* (1) A Member of Congress or a representative of a committee of Congress.

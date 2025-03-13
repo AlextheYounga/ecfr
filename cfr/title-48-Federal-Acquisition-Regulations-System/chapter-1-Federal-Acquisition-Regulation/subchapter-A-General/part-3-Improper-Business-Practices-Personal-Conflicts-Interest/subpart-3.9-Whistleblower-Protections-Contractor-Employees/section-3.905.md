@@ -1,5 +1,7 @@
 ##### 3.905 Procedures for investigating complaints. #####
 
+Link to an amendment published at 88 FR 69521, Oct. 5, 2023.
+
 (a) Upon receipt of a complaint, the Inspector General shall conduct an initial inquiry. If the Inspector General determines that the complaint is frivolous or for other reasons does not merit further investigation, the Inspector General shall advise the complainant that no further action on the complaint will be taken.
 
 (b) If the Inspector General determines that the complaint merits further investigation, the Inspector General shall notify the complainant, contractor, and head of the contracting activity. The Inspector General shall conduct an investigation and provide a written report of findings to the head of the agency or designee.

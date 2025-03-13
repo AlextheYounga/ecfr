@@ -1,5 +1,7 @@
 ##### 19.808-1 Sole source. #####
 
+Link to an amendment published at 88 FR 69525, Oct. 5, 2023.
+
 (a) The SBA may not accept for negotiation a sole-source 8(a) contract that exceeds $25 million unless the requesting agency has completed a justification in accordance with the requirements of 6.303.
 
 (b) The SBA is responsible for initiating negotiations with the agency within the time established by the agency. If the SBA does not initiate negotiations within the agreed time and the agency cannot allow additional time, the agency may, after notifying the SBA, proceed with the acquisition from other sources.

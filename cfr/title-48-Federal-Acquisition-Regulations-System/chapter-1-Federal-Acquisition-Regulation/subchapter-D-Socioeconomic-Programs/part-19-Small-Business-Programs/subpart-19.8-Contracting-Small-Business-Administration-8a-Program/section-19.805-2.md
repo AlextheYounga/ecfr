@@ -1,5 +1,7 @@
 ##### 19.805-2 Procedures. #####
 
+Link to an amendment published at 88 FR 69525, Oct. 5, 2023.
+
 (a) Offers shall be solicited from those sources identified in accordance with 19.804-3.
 
 (b) The SBA will determine the eligibility of the apparent successful offeror. Eligibility is based on section 8(a) program criteria. See paragraph (d) of this section regarding eligibility of joint ventures.

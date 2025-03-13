@@ -1,5 +1,7 @@
 ##### 19.816 Exiting the 8(a) program. #####
 
+Link to an amendment published at 88 FR 69525, Oct. 5, 2023.
+
 (a) Except as provided in paragraph (c) of this section, when a contractor exits the 8(a) program, it is no longer eligible to receive new 8(a) contracts. However, the contractor remains under contractual obligation to complete existing contracts, and any priced options that may be exercised.
 
 (b) If an 8(a) contractor is suspended from the program (see 13 CFR 124.305), it may not receive any new 8(a) contracts unless the head of the contracting agency makes a determination that it is in the best interest of the Government to issue the award and SBA adopts that determination.

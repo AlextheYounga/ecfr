@@ -16,6 +16,6 @@ Designated Representative—a “designated representative” is any Coast Guard
 
 (2) No vessels, except for fireworks barge and accompanying vessels, will be allowed to transit the safety zones without the permission of the COTP or the designated representative.
 
-(3) Vessel operators desiring to enter or operate within any of the regulated areas shall contact the COTP or the designated representative via VHF channel 16 or 907-463-2990 (Sector Juneau command center) to obtain permission to do so.
+(3) Vessel operators desiring to enter or operate within any of the regulated areas shall contact the COTP or the designated representative via VHF channel 16 or 907-463-2990 (Sector Southeast Alaska command center) to obtain permission to do so.
 
-[USCG-2013-0078, 78 FR 38202, June 26, 2013]
+[USCG-2013-0078, 78 FR 38202, June 26, 2013, as amended by USCG-2023-0811, 88 FR 69036, Oct. 5, 2023]

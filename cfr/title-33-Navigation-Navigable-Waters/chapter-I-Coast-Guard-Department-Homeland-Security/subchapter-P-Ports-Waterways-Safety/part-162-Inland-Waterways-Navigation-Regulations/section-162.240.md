@@ -6,6 +6,6 @@
 
 (c) No vessel shall while moored or at anchor, or by slow passage or otherwise while underway, unreasonably obstruct the free passage and progress of other vessels.
 
-(d) No vessel shall moor or anchor to any structure of the United States other than mooring piers, wharves, and floats without the consent of the Commander, Sector Juneau.
+(d) No vessel shall moor or anchor to any structure of the United States other than mooring piers, wharves, and floats without the consent of the Commander, Sector Southeast Alaska.
 
 [CGD 75-082, 42 FR 51759, Sept. 29, 1977]Editorial Note:For Federal Register citations affecting § 162.240, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

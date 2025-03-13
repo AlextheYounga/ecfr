@@ -1,5 +1,7 @@
 ##### 3.906 Remedies. #####
 
+Link to an amendment published at 88 FR 69521, Oct. 5, 2023.
+
 (a) If the head of the agency or designee determines that a contractor has subjected one of its employees to a reprisal for providing information to a Member of Congress, or an authorized official of an agency or of the Department of Justice, the head of the agency or designee may take one or more of the following actions:
 
 (1) Order the contractor to take affirmative action to abate the reprisal.

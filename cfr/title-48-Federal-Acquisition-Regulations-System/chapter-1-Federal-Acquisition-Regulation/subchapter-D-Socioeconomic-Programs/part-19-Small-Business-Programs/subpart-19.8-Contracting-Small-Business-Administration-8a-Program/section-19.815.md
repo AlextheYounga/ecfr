@@ -1,5 +1,7 @@
 ##### 19.815 Release for non-8(a) procurement. #####
 
+Link to an amendment published at 88 FR 69525, Oct. 5, 2023.
+
 (a) Once a requirement has been accepted by SBA into the 8(a) program, any follow-on requirements shall remain in the 8(a) program unless there is a mandatory source (see 8.002 or 8.003) or SBA agrees to release the requirement from the 8(a) program in accordance with 13 CFR 124.504(d).
 
 (b) To obtain release of a requirement for a non-8(a) procurement (other than a mandatory source listed at 8.002 or 8.003), the contracting officer shall make a written request to, and receive concurrence from, the SBA Associate Administrator for Business Development.

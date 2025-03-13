@@ -1,5 +1,7 @@
 ##### 3.908-1 Scope of section. #####
 
+Link to an amendment published at 88 FR 69522, Oct. 5, 2023.
+
 (a) This section implements 41 U.S.C. 4712.
 
 (b) This section does not apply to—

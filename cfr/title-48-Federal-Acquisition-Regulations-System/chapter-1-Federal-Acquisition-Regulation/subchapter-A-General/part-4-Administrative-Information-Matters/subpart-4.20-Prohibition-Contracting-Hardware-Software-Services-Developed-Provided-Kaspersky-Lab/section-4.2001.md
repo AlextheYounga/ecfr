@@ -1,4 +1,6 @@
-##### 4.2001 Definitions #####
+##### 4.2001 Definitions. #####
+
+Link to an amendment published at 88 FR 69510, Oct. 5, 2023.
 
 As used in this subpart—
 

@@ -1,5 +1,7 @@
 ##### 9.400 Scope of subpart. #####
 
+Link to an amendment published at 88 FR 69513, Oct. 5, 2023.
+
 (a) This subpart—
 
 (1) Prescribes policies and procedures governing the debarment and suspension of contractors by agencies for the causes given in 9.406-2 and 9.407-2;

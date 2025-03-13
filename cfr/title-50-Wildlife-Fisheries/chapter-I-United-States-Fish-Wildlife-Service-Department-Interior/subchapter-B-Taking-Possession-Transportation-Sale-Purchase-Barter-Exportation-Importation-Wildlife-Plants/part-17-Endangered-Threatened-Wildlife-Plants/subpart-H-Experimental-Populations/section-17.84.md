@@ -1,5 +1,7 @@
 ##### § 17.84 Species-specific rules—vertebrates. #####
 
+Link to an amendment published at 88 FR 69071, Oct. 5, 2023.
+
 (a) Guam kingfisher, sihek (*Todiramphus cinnamominus*).
 
 (1) *Where is the occurrence of sihek designated as a nonessential experimental population (NEP)?* The nonessential experimental population (NEP) area for the sihek is Palmyra Atoll. Palmyra Atoll is located in the Northern Line Islands, approximately 1,000 miles (1,609 km) south of Honolulu, Hawaii (5° 53′N latitude, 162° 05′W longitude). The extent of the NEP area for sihek is the 250 ha (618 ac) of emergent land distributed among 25 islands, inclusive of the lagoons surrounding those islands.

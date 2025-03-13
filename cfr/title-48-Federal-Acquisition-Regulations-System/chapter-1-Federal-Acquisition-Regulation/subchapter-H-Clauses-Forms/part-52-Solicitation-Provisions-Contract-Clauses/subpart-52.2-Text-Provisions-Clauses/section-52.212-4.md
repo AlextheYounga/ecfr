@@ -1,5 +1,7 @@
 ##### 52.212-4 Contract Terms and Conditions—Commercial Products and Commercial Services. #####
 
+Link to an amendment published at 88 FR 69522, Oct. 5, 2023.
+
 As prescribed in 12.301(b)(3), insert the following clause:
 
 Contract Terms and Conditions—Commercial Products and Commercial Services (DEC 2022)

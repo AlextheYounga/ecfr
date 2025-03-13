@@ -1,5 +1,7 @@
 ##### 39.101 Policy. #####
 
+Link to an amendment published at 88 FR 69513, Oct. 5, 2023.
+
 (a)(1) In acquiring information technology, agencies shall identify their requirements pursuant to—
 
 (i) OMB Circular A-130, including consideration of security of resources, protection of privacy, national security and emergency preparedness, accessibility for individuals with disabilities, and energy efficiency;

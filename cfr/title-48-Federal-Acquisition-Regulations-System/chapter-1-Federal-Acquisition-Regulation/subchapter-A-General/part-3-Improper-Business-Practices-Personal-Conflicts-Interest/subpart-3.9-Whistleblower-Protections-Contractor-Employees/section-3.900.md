@@ -1,5 +1,7 @@
 ##### 3.900 Scope of subpart. #####
 
+Link to an amendment published at 88 FR 69520, Oct. 5, 2023.
+
 This subpart implements various statutory whistleblower programs. This subpart does not implement 10 U.S.C. 4701, which is applicable only to DoD, NASA, and the Coast Guard.
 
 (a) *41 U.S.C. 4705 (in effect before July 1, 2013 and on or after January 2, 2017).* Sections 3.901 through 3.906 of this subpart implement 41 U.S.C. 4705, applicable to civilian agencies other than NASA and the Coast Guard, except as provided in paragraph (c) of this section. These sections are not in effect for the duration of the pilot program described in paragraph (b) of this section.
