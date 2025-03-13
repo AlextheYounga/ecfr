@@ -1,7 +1,5 @@
 ##### § 648.7 Recordkeeping and reporting requirements. #####
 
-Link to an amendment published at 88 FR 58522, Aug. 28, 2023.
-
 (a) *Dealers.* (1) Federally permitted dealers, and any individual acting in the capacity of a dealer, must submit to the Regional Administrator or to the official designee a detailed report of all fish purchased or received for a commercial purpose, other than solely for transport on land, within the time period specified in paragraph (f) of this section, by one of the available electronic reporting mechanisms approved by NMFS, unless otherwise directed by the Regional Administrator. The following information, and any other information required by the Regional Administrator, must be provided in each report:
 
 (i) *Required information.* All dealers issued a dealer permit under this part must provide: Dealer name; dealer permit number; name and permit number or name and hull number (USCG documentation number or state registration number, whichever is applicable) of vessel(s) from which fish are purchased or received; trip identifier for each trip from which fish are purchased or received from a commercial fishing vessel permitted under this part; date(s) of purchases and receipts; units of measure and amount by species (by market category, if applicable); price per unit by species (by market category, if applicable) or total value by species (by market category, if applicable); port landed; cage tag numbers for surfclams and ocean quahogs, if applicable; disposition of the seafood product; and any other information deemed necessary by the Regional Administrator. If no fish are purchased or received during a reporting week, a report so stating must be submitted.
@@ -28,9 +26,9 @@ Link to an amendment published at 88 FR 58522, Aug. 28, 2023.
 
 (4) [Reserved]
 
-(b) *Vessel owners or operators*—(1) *Fishing Vessel Trip Reports.* The owner or operator of any vessel issued a valid permit, or eligible to renew a limited access permit under this part must maintain on board the vessel, and submit, and accurate fishing log report for each fishing trip, regardless of species fished for or taken, by electronic means. This report must be entered into and submitted through a software application approved by NMFS.
+(b) *Vessel owners or operators*—(1) *Fishing Vessel Trip Reports.* The owner or operator of any vessel issued a valid permit or eligible to renew a limited access permit under this part must maintain on board the vessel and submit an accurate fishing log report for each fishing trip, regardless of species fished for or taken, by electronic means. This report must be entered into and submitted through a software application approved by NMFS.
 
-(i) *Vessel owners or operators.* With the exception of those vessel owners or operators fishing under a surfclam or ocean quahog permit, at least the following information as applicable and any other information required by the Regional Administrator must be provided:
+(i) *Vessel owners or operators.* At least the following information as applicable and any other information required by the Regional Administrator must be provided:
 
 (A) Vessel name;
 
@@ -76,37 +74,15 @@ Link to an amendment published at 88 FR 58522, Aug. 28, 2023.
 
 (ii) *Atlantic mackerel owners or operators.* The owner or operator of a vessel issued a limited access Atlantic mackerel permit must report catch (retained and discarded) of Atlantic mackerel daily via VMS, unless exempted by the Regional Administrator. The report must include at least the following information, and any other information required by the Regional Administrator: Fishing Vessel Trip Report serial number; month, day, and year Atlantic mackerel was caught; total pounds of Atlantic mackerel retained and total pounds of all fish retained. Daily Atlantic mackerel VMS catch reports must be submitted in 24-hr intervals for each day and must be submitted by 0900 hr on the following day. Reports are required even if Atlantic mackerel caught that day have not yet been landed. This report does not exempt the owner or operator from other applicable reporting requirements of this section.
 
-(iii) Surfclam and Ocean Quahog owners or operators. The owner or operator of any vessel conducting any surfclam and ocean quahog fishing operations must provide at least the following information and any other information required by the Regional Administrator:
+(iii) *Surfclam and ocean quahog owners or operators.* In addition to the information listed under paragraph (b)(1)(i) of this section, the owner or operator of any vessel conducting any surfclam or ocean quahog fishing operations in the ITQ program must provide at least the following information and any other information required by the Regional Administrator:
 
-(A) Name and permit number of the vessel;
+(A) Total amount in bushels of surfclams and/or ocean quahogs taken;
 
-(B) Total amount in bushels of each species taken;
+(B) Price per bushel;
 
-(C) Date(s) caught;
+(C) Tag numbers from cages used; and
 
-(D) Time at sea;
-
-(E) Duration of fishing time;
-
-(F) Locality fished;
-
-(G) Crew size;
-
-(H) Crew share by percentage;
-
-(I) Landing port;
-
-(J) Date sold;
-
-(K) Price per bushel;
-
-(L) Buyer;
-
-(M) Tag numbers from cages used;
-
-(N) Quantity of surfclams and ocean quahogs discarded; and
-
-(O) Allocation permit number.
+(D) Allocation permit number.
 
 (iv) Private tilefish recreational vessel owners and operators. The owner or operator of any fishing vessel that holds a Federal private recreational tilefish permit, must report for each recreational trip fishing for or retaining blueline or golden tilefish in the Tilefish Management Unit. The required Vessel Trip Report must be submitted by electronic means. This report must be submitted through a NMFS-approved electronic reporting system within 24 hours of the trip returning to port. The vessel operator may keep paper records while onboard and upload the data after landing. The report must contain the following information:
 

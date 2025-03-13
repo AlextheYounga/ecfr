@@ -1,7 +1,5 @@
 ##### § 223.301 Special rules—marine and anadromous fishes. #####
 
-Link to an amendment published at 88 FR 58520, Aug. 28, 2023.
-
 (a) *Middle Columbia River steelhead (Oncorhynchus mykiss.*) (1) The Middle Columbia River steelhead located in the geographic areas identified in paragraph (a)(4) of this section comprise a nonessential, experimental population (NEP).
 
 (2) *Take of this species that is allowed in the NEP area.* (i) Taking of Middle Columbia River (MCR) steelhead that is otherwise prohibited by paragraph (a)(3) of this section and 50 CFR 223.203(a), provided that the taking is unintentional; not due to negligent conduct; and incidental to, and not the purpose of, the carrying out of an otherwise lawful activity. Examples of otherwise lawful activities include recreational fishing, recreation, agriculture, forestry, municipal usage, and other similar activities, which are carried out in accordance with Federal, state, and local laws and regulations as well as applicable tribal regulations.
@@ -118,4 +116,18 @@ Link to an amendment published at 88 FR 58520, Aug. 28, 2023.
 
 (iii) Any taking of Central Valley spring-run Chinook salmon pursuant to a permit issued by the National Marine Fisheries Service (NMFS) under section 10 of the ESA (16 U.S.C. 1539) and regulations in part 222 of this chapter applicable to such a permit.
 
-[78 FR 2907, Jan. 15, 2013, as amended at 78 FR 79632, Jan. 30, 2014; 79 FR 40015, July 11, 2014; 87 FR 79818, Dec. 28, 2022]
+(e) *McCloud and Upper Sacramento Rivers Sacramento River winter-run and* Central *Valley spring-run Chinook salmon experimental populations* (*Oncorhynchus tshawytscha*)—(1) *Status of McCloud and Upper Sacramento Rivers Sacramento River winter-run and Central Valley spring-run Chinook salmon under the ESA.* The McCloud and Upper Sacramento Rivers Sacramento River winter-run and Central Valley spring-run Chinook salmon populations identified in paragraph (e)(2) of this section are designated as nonessential experimental populations under section 10(j) of the ESA and shall be treated as a “threatened species” pursuant to 16 U.S.C. 1539(j)(2)(C).
+
+(2) *McCloud and Upper Sacramento Rivers Sacramento River winter-run and Central Valley spring-run Chinook salmon experimental populations.* All Sacramento River winter-run and Central Valley spring-run Chinook salmon within the experimental population area in the McCloud and Upper Sacramento Rivers upstream of Shasta Dam (the NEP Area), as defined in this paragraph (e)(2), are considered part of the McCloud and Upper Sacramento Rivers Sacramento River winter-run and Central Valley spring-run Chinook salmon experimental populations. The NEP Area extends from Shasta Dam up to Pit 7 Dam on the Pit River, McCloud Dam on the McCloud River, and Box Canyon Dam on the upper Sacramento River. All other tributaries flowing into Shasta Reservoir up to the ridge line, including tributaries below Pit 7 Dam, McCloud Dam, and Box Canyon Dam, up to the ridge line are included in the NEP Area. All other areas above Pit 7 Dam on the Pit River, McCloud Dam on the McCloud River, and Box Canyon Dam on the upper Sacramento River are not part of the NEP Area. The NEP Area extends up to the ridgelines to account for watershed processes and ends at the aforementioned dams because these dams lack fish passage facilities. The NEP Area is part of the species' historical range. The NEPs are all SR winter-run and CV spring-run Chinook salmon, including fish released or propagated, naturally or artificially, within the NEP Area.
+
+(3) *Prohibitions.* Except as expressly allowed in paragraph (e)(4) of this section, all prohibitions of section 9(a)(1) of the ESA (16 U.S.C. 1538 (a)(1)) apply to fish that are part of the McCloud and Upper Sacramento Rivers Sacramento River winter-run and Central Valley spring-run Chinook salmon nonessential experimental populations identified in paragraph (e)(2) of this section.
+
+(4) *Exceptions to the application of section 9 take prohibitions in the experimental population area.* The following forms of take in the experimental population area identified in paragraph (e)(2) of this section are not prohibited by this section:
+
+(i) Any taking of experimental populations of Sacramento River winter-run or Central Valley spring-run Chinook salmon by authorized governmental entity personnel acting in compliance with § 223.203(b)(3) to aid a sick, injured or stranded fish; dispose of a dead fish; or salvage a dead fish which may be useful for scientific study.
+
+(ii) Any taking of experimental populations of Sacramento River winter-run or Central Valley spring-run Chinook salmon that is unintentional, not due to negligent conduct, and incidental to, and not the purpose of, the carrying out of an otherwise lawful activity.
+
+(iii) Any taking of experimental populations of Sacramento River winter-run or Central Valley spring-run Chinook salmon pursuant to a permit issued by NMFS under section 10 of the ESA (16 U.S.C. 1539) and regulations in part 222 of this chapter applicable to such a permit.
+
+[78 FR 2907, Jan. 15, 2013, as amended at 78 FR 79632, Jan. 30, 2014; 79 FR 40015, July 11, 2014; 87 FR 79818, Dec. 28, 2022; 88 FR 58520, Aug. 28, 2023]
