@@ -1,7 +1,5 @@
 ##### § 63.18 Contents of applications for international common carriers. #####
 
-Link to an amendment published at 85 FR 76385, Nov. 27, 2020.
-
 Except as otherwise provided in this part, any party seeking authority pursuant to Section 214 of the Communications Act of 1934, as amended, to construct a new line, or acquire or operate any line, or engage in transmission over or by means of such additional line for the provision of common carrier communications services between the United States, its territories or possessions, and a foreign point shall request such authority by formal application. The application shall include information demonstrating how the grant of the application will serve the public interest, convenience, and necessity. Such demonstration shall consist of the following information, as applicable:
 
 (a) The name, address, and telephone number of each applicant;
@@ -36,11 +34,15 @@ Except as otherwise provided in this part, any party seeking authority pursuant 
 
 (g) Where the applicant is seeking facilities-based authority under paragraph (e)(3) of this section, a statement whether an authorization of the facilities is categorically excluded as defined by § 1.1306 of this chapter. If answered affirmatively, an environmental assessment as described in § 1.1311 of this chapter need not be filed with the application.
 
-(h) The name, address, citizenship and principal businesses of any person or entity that directly or indirectly owns at least ten percent of the equity of the applicant, and the percentage of equity owned by each of those entities (to the nearest one percent). The applicant shall also identify any interlocking directorates with a foreign carrier.
+(h)(1) The name, address, citizenship, and principal businesses of any individual or entity that directly or indirectly owns ten percent or more of the equity interests and/or voting interests, or a controlling interest, of the applicant, and the percentage of equity and/or voting interest owned by each of those entities (to the nearest one percent). Where no individual or entity directly or indirectly owns ten percent or more of the equity interests and/or voting interests, or a controlling interest, of the applicant, a statement to that effect.
 
-Note to paragraph (h):
+(i) *Calculation of equity interests held indirectly in the carrier.* Equity interests that are held by an individual or entity indirectly through one or more intervening entities shall be calculated by successive multiplication of the equity percentages for each link in the vertical ownership chain, regardless of whether any particular link in the chain represents a controlling interest in the company positioned in the next lower tier. Example: Assume that an entity holds a non-controlling 30 percent equity and voting interest in Corporation A which, in turn, holds a non-controlling 40 percent equity and voting interest in the carrier. The entity's equity interest in the carrier would be calculated by multiplying the individual's equity interest in Corporation A by that entity's equity interest in the carrier. The entity's equity interest in the carrier would be calculated as 12 percent (30% × 40% = 12%). The result would be the same even if Corporation A held a de facto controlling interest in the carrier.
 
-Ownership and other interests in U.S. and foreign carriers will be attributed to their holders and deemed cognizable pursuant to the following criteria: Attribution of ownership interests in a carrier that are held indirectly by any party through one or more intervening corporations will be determined by successive multiplication of the ownership percentages for each link in the vertical ownership chain and application of the relevant attribution benchmark to the resulting product, except that wherever the ownership percentage for any link in the chain that is equal to or exceeds 50 percent or represents actual control, it shall be treated as if it were a 100 percent interest. For example, if A owns 30 percent of company X, which owns 60 percent of company Y, which owns 26 percent of “carrier,” then X's interest in “carrier” would be 26 percent (the same as Y's interest because X's interest in Y exceeds 50 percent), and A's interest in “carrier” would be 7.8 percent (0.30 × 0.26 because A's interest in X is less than 50 percent). Under the 25 percent attribution benchmark, X's interest in “carrier” would be cognizable, while A's interest would not be cognizable.
+(ii) *Calculation of voting interests held indirectly in the carrier.* Voting interests that are held through one or more intervening entities shall be calculated by successive multiplication of the voting percentages for each link in the vertical ownership chain, except that wherever the voting interest for any link in the chain is equal to or exceeds 50 percent or represents actual control, it shall be treated as if it were a 100 percent interest. A general partner shall be deemed to hold the same voting interest as the partnership holds in the company situated in the next lower tier of the vertical ownership chain. A partner of a limited partnership (other than a general partner) shall be deemed to hold a voting interest in the partnership that is equal to the partner's equity interest. Example: Assume that an entity holds a non-controlling 30 percent equity and voting interest in Corporation A which, in turn, holds a controlling 70 percent equity and voting interest in the carrier. Because Corporation A's 70 percent voting interest in the carrier constitutes a controlling interest, it is treated as a 100 percent interest. The entity's 30 percent voting interest in Corporation A would flow through in its entirety to the carrier and thus be calculated as 30 percent (30% × 100% = 30%).
+
+(2) An ownership diagram that illustrates the applicant's vertical ownership structure, including the direct and indirect ownership (equity and voting) interests held by the individuals and entities named in response to paragraph (h)(1) of this section. Every individual or entity with ownership shall be depicted and all controlling interests must be identified. The ownership diagram shall include both the pre-transaction and post-transaction ownership of the authorization holder.
+
+(3) The applicant shall also identify any interlocking directorates with a foreign carrier.
 
 (i) A certification as to whether or not the applicant is, or is affiliated with, a foreign carrier. The certification shall state with specificity each foreign country in which the applicant is, or is affiliated with, a foreign carrier.
 
@@ -68,10 +70,38 @@ Under § 63.10(a), the Commission presumes, subject to rebuttal, that a foreign 
 
 (o) A certification pursuant to §§ 1.2001 through 1.2003 of this chapter that no party to the application is subject to a denial of Federal benefits pursuant to Section 5301 of the Anti-Drug Abuse Act of 1988. *See* 21 U.S.C. 853a.
 
-(p) If the applicant desires streamlined processing pursuant to § 63.12, a statement of how the application qualifies for streamlined processing.
+(p) Each applicant for which an individual or entity that is not a U.S. citizen holds a ten percent or greater direct or indirect equity or voting interest, or a controlling interest, in the applicant, must submit:
 
-(q) Any other information that may be necessary to enable the Commission to act on the application.
+(1) Responses to standard questions, prior to or at the same time the applicant files its application with the Commission, pursuant to part 1, subpart CC, of this chapter directly to the Committee for the Assessment of Foreign Participation in the United States Telecommunications Services Sector (Committee). The standard questions and instructions for submitting the responses are available on the FCC website. The required information shall be submitted separately from the application and shall be submitted directly to the Committee.
 
-(r) Subject to the availability of electronic forms, all applications described in this section must be filed electronically through the International Communications Filing System (ICFS). A list of forms that are available for electronic filing can be found on the ICFS homepage. For information on electronic filing requirements, see §§ 1.1000 through 1.10018 of this chapter and the ICFS homepage at *https://www.fcc.gov/icfs*. See also §§ 63.20 and 63.53.
+(2) A complete and unredacted copy of its FCC application(s), including the file number(s) and docket number(s), to the Committee within three (3) business days of filing it with the Commission. The instructions for submitting a copy of the FCC application(s) to the Committee are available on the FCC website.
 
-[61 FR 15729, Apr. 9, 1996, as amended at 62 FR 32965, June 17, 1997; 62 FR 45762, Aug. 29, 1997; 62 FR 64755, Dec. 9, 1997; 63 FR 24121, May 1, 1998; 64 FR 19064, Apr. 19, 1999; 65 FR 60117, Oct. 10, 2000; 67 FR 45390, July 9, 2002; 69 FR 29902, May 26, 2004; 70 FR 38798, July 6, 2005; 72 FR 54366, Sept. 25, 2007; 78 FR 15623, Mar. 12, 2013; 79 FR 31877, June 3, 2014; 80 FR 45898, Aug. 3, 2015; 88 FR 21443, Apr. 10, 2023]
+(q)(1) Each applicant shall make the following certifications by which they agree:
+
+(i) To comply with all applicable Communications Assistance for Law Enforcement Act (CALEA) requirements and related rules and regulations, including any and all FCC orders and opinions governing the application of CALEA, pursuant to the Communications Assistance for Law Enforcement Act and the Commission's rules and regulations in part 1, subpart Z, of this chapter;
+
+(ii) To make communications to, from, or within the United States, as well as records thereof, available in a form and location that permits them to be subject to a valid and lawful request or legal process in accordance with U.S. law, including but not limited to:
+
+(A) The Wiretap Act, 18 U.S.C. 2510 *et seq.;*
+
+(B) The Stored Communications Act, 18 U.S.C. 2701 *et seq.;*
+
+(C) The Pen Register and Trap and Trace Statute, 18 U.S.C. 3121 *et seq.;* and
+
+(D) Other court orders, subpoenas or other legal process;
+
+(iii) To designate a point of contact who is located in the United States and is a U.S. citizen or lawful U.S. permanent resident, for the execution of lawful requests and as an agent for legal service of process;
+
+(iv)(A) That the applicant is responsible for the continuing accuracy and completeness of all information submitted, whether at the time of submission of the application or subsequently in response to either the Commission or the Committee's request, as required in § 1.65(a) of this chapter, and that the applicant agrees to inform the Commission and the Committee of any substantial and significant changes while an application is pending; and
+
+(B) After the application is no longer pending for purposes of § 1.65 of the rules, the applicant must notify the Commission and the Committee of any changes in the authorization holder or licensee information and/or contact information promptly, and in any event within thirty (30) days; and
+
+(v) That the applicant understands that if the applicant or authorization holder fails to fulfill any of the conditions and obligations set forth in the certifications set out in paragraph (q) of this section or in the grant of an application or authorization and/or that if the information provided to the United States Government is materially false, fictitious, or fraudulent, applicant and authorization holder may be subject to all remedies available to the United States Government, including but not limited to revocation and/or termination of the Commission's authorization or license, and criminal and civil penalties, including penalties under 18 U.S.C. 1001.
+
+(r) If the applicant desires streamlined processing pursuant to § 63.12, a statement of how the application qualifies for streamlined processing.
+
+(s Any other information that may be necessary to enable the Commission to act on the application.
+
+(t) Subject to the availability of electronic forms, all applications described in this section must be filed electronically through the International Communications Filing System (ICFS). A list of forms that are available for electronic filing can be found on the ICFS homepage. For information on electronic filing requirements, see §§ 1.1000 through 1.10018 of this chapter and the ICFS homepage at *https://www.fcc.gov/icfs*. See also §§ 63.20 and 63.53.
+
+[61 FR 15729, Apr. 9, 1996, as amended at 62 FR 32965, June 17, 1997; 62 FR 45762, Aug. 29, 1997; 62 FR 64755, Dec. 9, 1997; 63 FR 24121, May 1, 1998; 64 FR 19064, Apr. 19, 1999; 65 FR 60117, Oct. 10, 2000; 67 FR 45390, July 9, 2002; 69 FR 29902, May 26, 2004; 70 FR 38798, July 6, 2005; 72 FR 54366, Sept. 25, 2007; 78 FR 15623, Mar. 12, 2013; 79 FR 31877, June 3, 2014; 80 FR 45898, Aug. 3, 2015; 88 FR 21443, Apr. 10, 2023; 87 FR 76385, Nov. 27, 2020]

@@ -1,5 +1,7 @@
 ##### § 25.791 Passenger information signs and placards. #####
 
+Link to an amendment published at 89 FR 68099, Aug. 23, 2024.
+
 (a) If smoking is to be prohibited, there must be at least one placard so stating that is legible to each person seated in the cabin. If smoking is to be allowed, and if the crew compartment is separated from the passenger compartment, there must be at least one sign notifying when smoking is prohibited. Signs which notify when smoking is prohibited must be operable by a member of the flightcrew and, when illuminated, must be legible under all probable conditions of cabin illumination to each person seated in the cabin.
 
 (b) Signs that notify when seat belts should be fastened and that are installed to comply with the operating rules of this chapter must be operable by a member of the flightcrew and, when illuminated, must be legible under all probable conditions of cabin illumination to each person seated in the cabin.

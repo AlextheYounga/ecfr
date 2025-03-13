@@ -1,7 +1,5 @@
 ##### § 523.2 Definitions. #####
 
-Link to an amendment published at 89 FR 52945, June 24, 2024.
-
 As used in this part:
 
 *Ambulance* has the meaning given in 40 CFR 86.1803.
@@ -10,9 +8,9 @@ As used in this part:
 
 *Axle clearance* means the vertical distance from the level surface on which an automobile is standing to the lowest point on the axle differential of the automobile.
 
-*Base tire (for passenger automobiles, light trucks, and medium duty passenger vehicles)* means the tire size specified as standard equipment by the manufacturer on each unique combination of a vehicle's footprint and model type. Standard equipment is defined in 40 CFR 86.1803.
+*Base tire (for passenger automobiles, light trucks, and medium-duty passenger vehicles)* means the tire size specified as standard equipment by the manufacturer on each unique combination of a vehicle's footprint and model type. Standard equipment is defined in 40 CFR 86.1803.
 
-*Basic vehicle frontal area* is used as defined in 40 CFR 86.1803 for passenger automobiles, light trucks, medium duty passenger vehicles and Class 2b through 3 pickup trucks and vans. For heavy-duty tracts and vocational vehicles, it has the meaning given in 40 CFR 1037.801.
+*Basic vehicle frontal area* is used as defined in 40 CFR 86.1803-01 for passenger automobiles, light trucks, medium-duty passenger vehicles and Class 2b through 3 pickup trucks and vans. For heavy-duty tracts and vocational vehicles, it has the meaning given in 40 CFR 1037.801.
 
 *Breakover angle* means the supplement of the largest angle, in the plan side view of an automobile that can be formed by two lines tangent to the front and rear static loaded radii arcs and intersecting at a point on the underside of the automobile.
 
@@ -46,7 +44,7 @@ As used in this part:
 
 *Emergency vehicle* means one of the following:
 
-(1) For passenger cars, light trucks and medium duty passenger vehicles, emergency vehicle has the meaning given in 49 U.S.C. 32902(e).
+(1) For passenger cars, light trucks and medium-duty passenger vehicles, emergency vehicle has the meaning given in 49 U.S.C. 32902(e).
 
 (2) For heavy-duty vehicles, emergency vehicle has the meaning given in 40 CFR 1037.801.
 
@@ -58,7 +56,7 @@ As used in this part:
 
 *Footprint* is defined as the product of track width (measured in inches, calculated as the average of front and rear track widths, and rounded to the nearest tenth of an inch) times wheelbase (measured in inches and rounded to the nearest tenth of an inch), divided by 144 and then rounded to the nearest tenth of a square foot. For purposes of this definition, track width is the lateral distance between the centerlines of the base tires at ground, including the camber angle. For purposes of this definition, wheelbase is the longitudinal distance between front and rear wheel centerlines.
 
-*Full-size pickup truck* means a light truck or medium duty passenger vehicle that meets the specifications in 40 CFR 86.1803-01.
+*Full-size pickup truck* means a light truck, including a medium-duty passenger vehicle, that meets the specifications in 40 CFR 86.1803-01 for a full-size pickup truck.
 
 *Gross axle weight rating (GAWR)* has the meaning given in 49 CFR 571.3.
 
@@ -74,19 +72,19 @@ As used in this part:
 
 *Incomplete vehicle* has the meaning given in 49 CFR 567.3.
 
-*Light truck* means a non-passenger automobile meeting the criteria in § 523.5.
+*Light truck* means a non-passenger automobile meeting the criteria in § 523.5. The term light truck includes medium-duty passenger vehicles that meet the criteria in § 523.5 for non-passenger automobiles.
 
 *Manufacturer* has the meaning given in 49 U.S.C. 32901(a)(14).
 
-*Medium duty passenger vehicle* means a vehicle which would satisfy the criteria in § 523.5 (relating to light trucks) but for its gross vehicle weight rating or its curb weight, which is rated at more than 8,500 lbs GVWR or has a vehicle curb weight of more than 6,000 pounds or has a basic vehicle frontal area in excess of 45 square feet, and which is designed primarily to transport passengers, but does not include a vehicle that—
+*Medium-duty passenger vehicle* means any complete or incomplete motor vehicle rated at more than 8,500 pounds GVWR and less than 10,000 pounds GVWR that is designed primarily to transport passengers, but does not include a vehicle that—
 
-(1) Is an “incomplete vehicle” ' as defined in this subpart; or
+(1) Is an “incomplete truck,” meaning any truck which does not have the primary load carrying device or container attached; or
 
 (2) Has a seating capacity of more than 12 persons; or
 
 (3) Is designed for more than 9 persons in seating rearward of the driver's seat; or
 
-(4) Is equipped with an open cargo area (for example, a pick-up truck box or bed) of 72.0 inches in interior length or more. A covered box not readily accessible from the passenger compartment will be considered an open cargo area for purposes of this definition.
+(4) Is equipped with an open cargo area (for example, a pick-up truck box or bed) of 72.0 inches in interior length or more. A covered box not readily accessible from the passenger compartment will be considered an open cargo area for purposes of this definition. (See paragraph (1) of the definition of *medium-duty passenger vehicle* at 40 CFR 86.1803-01).
 
 *Mild hybrid gasoline-electric vehicle* means a vehicle as defined by EPA in 40 CFR 86.1866-12(e).
 
@@ -146,4 +144,4 @@ As used in this part:
 
 *Work truck* means a vehicle that is rated at more than 8,500 pounds and less than or equal to 10,000 pounds gross vehicle weight, and is not a medium-duty passenger vehicle as defined in 49 U.S.C. 32901(a)(19).
 
-[81 FR 74235, Oct. 25, 2016, as amended at 85 FR 25272, Apr. 30, 2020]
+[81 FR 74235, Oct. 25, 2016, as amended at 85 FR 25272, Apr. 30, 2020; 89 FR 52945, June 24, 2024]

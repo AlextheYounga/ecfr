@@ -1,5 +1,7 @@
 ##### § 121.317 Passenger information requirements, smoking prohibitions, and additional seat belt requirements. #####
 
+Link to an amendment published at 89 FR 68100, Aug. 23, 2024.
+
 (a) Except as provided in paragraph (l) of this section, no person may operate an airplane unless it is equipped with passenger information signs that meet the requirements of § 25.791 of this chapter. Except as provided in paragraph (l) of this section, the signs must be constructed so that the crewmembers can turn them on and off.
 
 (b) Except as provided in paragraph (l) of this section, the “Fasten Seat Belt” sign shall be turned on during any movement on the surface, for each takeoff, for each landing, and at any other time considered necessary by the pilot in command.

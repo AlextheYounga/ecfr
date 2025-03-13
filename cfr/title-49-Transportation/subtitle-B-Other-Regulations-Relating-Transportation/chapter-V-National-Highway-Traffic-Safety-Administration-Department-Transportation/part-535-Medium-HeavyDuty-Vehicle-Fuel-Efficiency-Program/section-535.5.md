@@ -1,10 +1,8 @@
 ##### § 535.5 Standards. #####
 
-Link to an amendment published at 89 FR 52951, June 24, 2024.
-
 (a) *Heavy-duty pickup trucks and vans.* Each manufacturer's fleet of heavy-duty pickup trucks and vans shall comply with the fuel consumption standards in this paragraph (a) expressed in gallons per 100 miles. Each vehicle must be manufactured to comply for its full useful life. For the Phase 1 program, if the manufacturer's fleet includes conventional vehicles (gasoline, diesel and alternative fueled vehicles) and advanced technology vehicles (hybrids with powertrain designs that include energy storage systems, vehicles with waste heat recovery, electric vehicles and fuel cell vehicles), it may divide its fleet into two separate fleets each with its own separate fleet average fuel consumption standard which the manufacturer must comply with the requirements of this paragraph (a). For Phase 2, manufacturers may calculate their fleet average fuel consumption standard for a conventional fleet and multiple advanced technology vehicle fleets. Advanced technology vehicle fleets should be separated into plug-in hybrid electric vehicles, electric vehicles, and fuel cell vehicles. The standards in this paragraph (a) correspond to EPA requirements specified in 40 CFR 86.1819-14. When applying the fuel consumption standards in this paragraph (a), manufacturers must use the same options they use to comply with EPA in 40 CFR part 86, subpart S in terms of grouping vehicles and/or engines for purposes of determining applicable standards and determining compliance (*i.e.,* the vehicles and/or engines and must be grouped in the same way for purposes of this paragraph (a) as they are grouped for compliance with EPA's requirements in 40 CFR part 86, subpart S). Engines that are installed in vehicles that are subject to the standards in this paragraph are not subject to the standards in paragraph (d) of this section and may not optionally comply with paragraph (d).
 
-(1) *Mandatory standards.* For model years 2016 and later, each manufacturer must comply with the fleet average standard derived from the unique subconfiguration target standards (or groups of subconfigurations approved by EPA in accordance with 40 CFR 86.1819-14) of the model types that make up the manufacturer's fleet in a given model year. Each subconfiguration has a unique attribute-based target standard, defined by each group of vehicles having the same payload, towing capacity and whether the vehicles are equipped with a 2-wheel or 4-wheel drive configuration. Phase 1 target standards apply for model years 2016 through 2020. Phase 2 target standards apply for model year 2021 and afterwards.
+(1) *Mandatory standards.* For model years 2016 and later, each manufacturer must comply with the fleet average standard derived from the unique subconfiguration target standards (or groups of subconfigurations approved by EPA in accordance with 40 CFR 86.1819) of the model types that make up the manufacturer's fleet in a given model year. Each subconfiguration has a unique attribute-based target standard, defined by each group of vehicles having the same payload, towing capacity and whether the vehicles are equipped with a 2-wheel or 4-wheel drive configuration. Phase 1 target standards apply for model years 2016 through 2020. Phase 2 target standards apply for model years 2021 through 2029. NHTSA's Phase 3 HDPUV target standards apply for model year 2030 and later.
 
 (2) *Subconfiguration target standards.* (i) Two alternatives exist for determining the subconfiguration target standards for Phase 1. For each alternative, separate standards exist for compression-ignition and spark-ignition vehicles:
 
@@ -12,45 +10,57 @@ Link to an amendment published at 89 FR 52951, June 24, 2024.
 
 (B) The second alternative allows manufacturers to determine standards that are phased-in gradually each year.
 
-(ii) Calculate the subconfiguration target standards as specified in this paragraph (a)(2)(ii), using the appropriate coefficients from Table 6 choosing between the alternatives in paragraph (a)(2)(i) of this section. For electric or fuel cell heavy-duty vehicles, use compression-ignition vehicle coefficients “c” and “d” and for hybrid (including plug-in hybrid), dedicated and dual-fueled vehicles, use coefficients “c” and “d” appropriate for the engine type used. Round each standard to the nearest 0.001 gallons per 100 miles and specify all weights in pounds rounded to the nearest pound. Calculate the subconfiguration target standards using the following equation:
+(ii) Calculate the subconfiguration target standards as specified in this paragraph (a)(2)(ii), using the appropriate coefficients from table 1 to paragraph (a)(2)(ii), choosing between the alternatives in paragraph (a)(2)(i) of this section. For electric or fuel cell heavy-duty vehicles, use compression-ignition vehicle coefficients “c” and “d” and for hybrid (including plug-in hybrid), dedicated and dual-fueled vehicles, use coefficients “c” and “d” appropriate for the engine type used. Round each standard to the nearest 0.001 gallons per 100 miles and specify all weights in pounds rounded to the nearest pound. Calculate the subconfiguration target standards using equation: 1 to this paragraph (a)(2)(ii).
 
-Subconfiguration Target Standard (gallons per 100 miles) = [c × (WF)] + dWhere:WF = Work Factor = [0.75 x (Payload Capacity + Xwd)] + [0.25 x Towing Capacity]Xwd = 4wd Adjustment = 500 lbs if the vehicle group is equipped with 4wd and all-wheel drive, otherwise equals 0 lbs for 2wd.Payload Capacity = GVWR (lbs)—Curb Weight (lbs) (for each vehicle group)Towing Capacity = GCWR (lbs)—GVWR (lbs) (for each vehicle group)
+Equation 1 to Paragraph (a)(2)(ii)Subconfiguration Target Standard (gallons per 100 miles) = [c × (WF)] + dWhere:WF = Work Factor = [0.75 × (Payload Capacity + Xwd)] + [0.25 × Towing Capacity]Xwd = 4wd Adjustment = 500 lbs. if the vehicle group is equipped with 4wd and all-wheel drive, otherwise equals 0 lbs. for 2wd.Payload Capacity = GVWR (lbs.) − Curb Weight (lbs.) (for each vehicle group) Towing Capacity = GCWR (lbs.) − GVWR (lbs.) (for each vehicle group)
 
-|                   Model Year(s)                    |    c    |  d  |
-|----------------------------------------------------|---------|-----|
-|  **Phase 1 Alternative 1—Fixed Target Standards**  |         |     |
-|            **CI Vehicle Coefficients**             |         |     |
-|                    2016 to 2018                    |0.0004322|3.330|
-|                    2019 to 2020                    |0.0004086|3.143|
-|            **SI Vehicle Coefficients**             |         |     |
-|                    2016 to 2017                    |0.0005131|3.961|
-|                    2018 to 2020                    |0.0004086|3.143|
-|**Phase 1 Alternative 2—Phased-in Target Standards**|         |     |
-|            **CI Vehicle Coefficients**             |         |     |
-|                        2016                        |0.0004519|3.477|
-|                        2017                        |0.0004371|3.369|
-|                    2018 to 2020                    |0.0004086|3.143|
-|            **SI Vehicle Coefficients**             |         |     |
-|                        2016                        |0.0005277|4.073|
-|                        2017                        |0.0005176|3.983|
-|                    2018 to 2020                    |0.0004951|3.815|
-|         **Phase 2—Fixed Target Standards**         |         |     |
-|            **CI Vehicle Coefficients**             |         |     |
-|                        2021                        |0.0003988|3.065|
-|                        2022                        |0.0003880|2.986|
-|                        2023                        |0.0003792|2.917|
-|                        2024                        |0.0003694|2.839|
-|                        2025                        |0.0003605|2.770|
-|                        2026                        |0.0003507|2.701|
-|                   2027 and later                   |0.0003418|2.633|
-|            **SI Vehicle Coefficients**             |         |     |
-|                        2021                        |0.0004827|3.725|
-|                        2022                        |0.0004703|3.623|
-|                        2023                        |0.0004591|3.533|
-|                        2024                        |0.0004478|3.443|
-|                        2025                        |0.0004366|3.364|
-|                        2026                        |0.0004253|3.274|
-|                   2027 and later                   |0.0004152|3.196|
+|                   Model year(s)                    |    c     |  d  |
+|----------------------------------------------------|----------|-----|
+|  **Phase 1 Alternative 1—Fixed Target Standards**  |          |     |
+| **Compression Ignition (CI) Vehicle Coefficients** |          |     |
+|                    2016 to 2018                    |0.0004322 |3.330|
+|                    2019 to 2020                    |0.0004086 |3.143|
+|            **SI Vehicle Coefficients**             |          |     |
+|                    2016 to 2017                    |0.0005131 |3.961|
+|                    2018 to 2020                    |0.0004086 |3.143|
+|**Phase 1 Alternative 2—Phased-in Target Standards**|          |     |
+|            **CI Vehicle Coefficients**             |          |     |
+|                        2016                        |0.0004519 |3.477|
+|                        2017                        |0.0004371 |3.369|
+|                    2018 to 2020                    |0.0004086 |3.143|
+|            **SI Vehicle Coefficients**             |          |     |
+|                        2016                        |0.0005277 |4.073|
+|                        2017                        |0.0005176 |3.983|
+|                    2018 to 2020                    |0.0004951 |3.815|
+|         **Phase 2—Fixed Target Standards**         |          |     |
+|            **CI Vehicle Coefficients**             |          |     |
+|                        2021                        |0.0003988 |3.065|
+|                        2022                        |0.0003880 |2.986|
+|                        2023                        |0.0003792 |2.917|
+|                        2024                        |0.0003694 |2.839|
+|                        2025                        |0.0003605 |2.770|
+|                        2026                        |0.0003507 |2.701|
+|                    2027 to 2029                    |0.0003418 |2.633|
+|                        2030                        |0.00030762|2.370|
+|                        2031                        |0.00027686|2.133|
+|                        2032                        |0.00024917|1.919|
+|                        2033                        |0.00022924|1.766|
+|                        2034                        |0.00021090|1.625|
+|                        2035                        |0.00019403|1.495|
+|            **SI Vehicle Coefficients**             |          |     |
+|                        2021                        |0.0004827 |3.725|
+|                        2022                        |0.0004703 |3.623|
+|                        2023                        |0.0004591 |3.533|
+|                        2024                        |0.0004478 |3.443|
+|                        2025                        |0.0004366 |3.364|
+|                        2026                        |0.0004253 |3.274|
+|                    2027 to 2029                    |0.0004152 |3.196|
+|                        2030                        |0.00037368|2.876|
+|                        2031                        |0.00033631|2.589|
+|                        2032                        |0.00030268|2.330|
+|                        2033                        |0.00027847|2.143|
+|                        2034                        |0.00025619|1.972|
+|                        2035                        |0.00023569|1.814|
 
 (3) *Fleet average fuel consumption standard.* (i) For the Phase 1 program, calculate each manufacturer's fleet average fuel consumption standard for a conventional fleet and a combined advanced technology fleet separately based on the subconfiguration target standards specified in paragraph (a)(2) of this section, weighted to production volumes and averaged using the following equation combining all the applicable vehicles in a manufacturer's U.S.-directed fleet (compression-ignition, spark-ignition and advanced technology vehicles) for a given model year, rounded to the nearest 0.001 gallons per 100 miles:
 
@@ -113,7 +123,7 @@ Subconfiguration Target Standard (gallons per 100 miles) = [c × (WF)] + dWhere:
 
 (8) *Alternative fuel vehicle conversions.* Alternative fuel vehicle conversions may demonstrate compliance with the standards of this part or other alternative compliance approaches allowed by EPA in 40 CFR 85.525.
 
-(9) *Advanced, innovative and off-cycle technologies.* For vehicles subject to Phase 1 standards, manufacturers may generate separate credit allowances for advanced and innovative technologies as specified in § 535.7(f)(1) and (2). For vehicles subject to Phase 2 standards, manufacturers may generate separate credits allowance for off-cycle technologies in accordance with § 535.7(f)(2). Separate credit allowances for advanced technology vehicles cannot be generated; instead manufacturers may use the credit multipliers specified in § 535.7(f)(1)(iv) through model year 2026.
+(9) *Advanced, innovative, and off-cycle technologies.* For vehicles subject to Phase 1 standards, manufacturers may generate separate credit allowances for advanced and innovative technologies as specified in § 535.7(f)(1) and (2). For vehicles subject to Phase 2 standards, manufacturers may generate separate credits allowance for off-cycle technologies in accordance with § 535.7(f)(2) through model year 2029. Separate credit allowances for advanced technology vehicles cannot be generated; instead, manufacturers may use the credit specified in § 535.7(f)(1)(ii) through model year 2027.
 
 (10) *Useful life.* The following useful life values apply for the standards of this section:
 
@@ -476,4 +486,4 @@ Subconfiguration Target Standard (gallons per 100 miles) = [c × (WF)] + dWhere:
 
 (12) *Compliance with Standards.* A manufacturer complies with the standards of this part as described in § 535.10.
 
-[81 FR 74238, Oct. 25, 2016, as amended at 89 FR 18819, Mar. 15, 2024]
+[81 FR 74238, Oct. 25, 2016, as amended at 89 FR 18825, Mar. 15, 2024; 89 FR 52951, June 24, 2024]

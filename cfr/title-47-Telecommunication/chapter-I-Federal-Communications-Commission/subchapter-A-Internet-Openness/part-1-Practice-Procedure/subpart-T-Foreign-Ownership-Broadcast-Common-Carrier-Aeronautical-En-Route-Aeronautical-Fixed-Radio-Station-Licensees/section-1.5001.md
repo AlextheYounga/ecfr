@@ -1,7 +1,5 @@
 ##### § 1.5001 Contents of petitions for declaratory ruling under section 310(b) of the Communications Act of 1934, as amended. #####
 
-Link to an amendment published at 85 FR 76382, Nov. 27, 2020.
-
 The petition for declaratory ruling required by § 1.5000(a)(1) and/or (2) shall contain the following information:
 
 (a) With respect to each petitioning applicant or licensee, provide its name; FCC Registration Number (FRN); mailing address; place of organization; telephone number; facsimile number (if available); electronic mail address (if available); type of business organization (e.g., corporation, unincorporated association, trust, general partnership, limited partnership, limited liability company, trust, other (include description of legal entity)); name and title of officer certifying to the information contained in the petition.
@@ -145,3 +143,43 @@ For purposes of identifying foreign interests that require specific approval, wh
 (2) *Petitions filed under § 1.5000(a)(1) and/or (2).* Where a foreign individual or entity named in response to paragraph (i) of this section holds, or would hold upon consummation of any transactions described in the petition, a non-controlling interest in the controlling U.S. parent of the licensee, for petitions filed under § 1.5000(a)(1), or in the licensee, for petitions filed under § 1.5000(a)(2), the petitioner may request advance approval in its petition for the foreign individual or entity to increase its interests, at some future time, up to any non-controlling amount not to exceed 49.99 percent. The petitioner shall specify for the named foreign individual(s) or entity(ies) the maximum percentages of equity and/or voting interests for which advance approval is sought or, in lieu of a specific amount, shall state that the petitioner requests advance approval for the named foreign individual(s) or entity(ies) to increase their interests up to and including a non-controlling 49.99 percent equity and/or voting interest in the licensee, for petitions filed under § 1.5000(a)(2), or in the controlling U.S. parent of the licensee, for petitions filed under § 1.5000(a)(1).
 
 (l) Each applicant, licensee, or spectrum lessee filing a petition for declaratory ruling shall certify to the information contained in the petition in accordance with the provisions of § 1.16 and the requirements of § 1.5000(c)(1).
+
+(m) *Submission of petition and responses to standard questions to the Committee for the assessment of foreign participation in the United States telecommunications services sector.* For each petition subject to a referral to the executive branch pursuant to § 1.40001, the petitioner must submit:
+
+(1) Responses to standard questions, prior to or at the same time the petitioner files its petition with the Commission, pursuant to subpart CC of this part, directly to the Committee for the Assessment of Foreign Participation in the United States Telecommunications Services Sector (Committee). The standard questions and instructions for submitting the responses are available on the FCC website. The required information shall be submitted separately from the petition and shall be submitted directly to the Committee.
+
+(2) A complete and unredacted copy of its FCC petition(s), including the file number(s) and docket number(s), to the Committee within three (3) business days of filing it with the Commission. The instructions for submitting a copy of the FCC petition(s) to the Committee are available on the FCC website.
+
+(n) *Certifications.* (1) Broadcast applicants and licensees shall make the following certifications by which they agree:
+
+(i) To designate a point of contact who is located in the United States and is a U.S. citizen or lawful U.S. permanent resident, for the execution of lawful requests and as an agent for legal service of process;
+
+(ii)(A) That the petitioner is responsible for the continuing accuracy and completeness of all information submitted, whether at the time of submission of the petition or subsequently in response to either the Commission or the Committee's request, as required in § 1.65(a), and that the petitioner agrees to inform the Commission and the Committee of any substantial and significant changes while a petition is pending; and
+
+(B) After the petition is no longer pending for purposes of § 1.65, the petitioner must notify the Commission and the Committee of any changes in petitioner information and/or contact information promptly, and in any event within thirty (30) days; and
+
+(iii) That the petitioner understands that if the petitioner or an applicant or licensee covered by the declaratory ruling fails to fulfill any of the conditions and obligations in the certifications set out in paragraph (n)(1) of this section or in the grant of an application, petition, license, or authorization associated with the declaratory ruling and/or that if the information provided to the United States Government is materially false, fictitious, or fraudulent, the petitioner, applicants, and licensees may be subject to all remedies available to the United States Government, including but not limited to revocation and/or termination of the Commission's declaratory ruling, authorization or license, and criminal and civil penalties, including penalties under 18 U.S.C. 1001.
+
+(2) Common carrier applicants, licensees, or spectrum lessees shall make the following certifications by which they agree:
+
+(i) To comply with all applicable Communications Assistance for Law Enforcement Act (CALEA) requirements and related rules and regulations, including any and all FCC orders and opinions governing the application of CALEA, pursuant to the Communications Assistance for Law Enforcement Act and the Commission's rules and regulations in subpart Z of this part;
+
+(ii) To make communications to, from, or within the United States, as well as records thereof, available in a form and location that permits them to be subject to a valid and lawful request or legal process in accordance with U.S. law, including but not limited to:
+
+(A) The Wiretap Act, 18 U.S.C. 2510 *et seq.;*
+
+(B) The Stored Communications Act, 18 U.S.C. 2701 *et seq.;*
+
+(C) The Pen Register and Trap and Trace Statute, 18 U.S.C. 3121 *et seq.;* and
+
+(D) Other court orders, subpoenas, or other legal process;
+
+(iii) To designate a point of contact who is located in the United States and is a U.S. citizen or lawful U.S. permanent resident, for the execution of lawful requests and as an agent for legal service of process;
+
+(iv)(A) That the petitioner is responsible for the continuing accuracy and completeness of all information submitted, whether at the time of submission of the petition or subsequently in response to either the Commission or the Committee's request, as required in § 1.65(a), and that the petitioner agrees to inform the Commission and the Committee of any substantial and significant changes while a petition is pending; and
+
+(B) After the petition is no longer pending for purposes of § 1.65 of the rules, the petitioner must notify the Commission and the Committee of any changes in petitioner informationand/or contact information promptly, and in any event within thirty (30) days; and
+
+(v) That the petitioner understands that if the petitioner or an applicant or licensee covered by the declaratory ruling fails to fulfill any of the conditions and obligations set forth in the certifications set out in paragraph (n)(2) of this section or in the grant of an application, petition, license, or authorization associated with this declaratory ruling and/or that if the information provided to the United States Government is materially false, fictitious, or fraudulent, the petitioner, applicants, and licensees may be subject to all remedies available to the United States Government, including but not limited to revocation and/or termination of the Commission's declaratory ruling, authorization or license, and criminal and civil penalties, including penalties under 18 U.S.C. 1001.
+
+[81 FR 86601, Dec. 1, 2016, as amended at 85 FR 76382, Nov. 27, 2020]

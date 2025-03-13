@@ -1,8 +1,6 @@
 ##### § 535.4 Definitions. #####
 
-Link to an amendment published at 89 FR 52950, June 24, 2024.
-
-The terms *manufacture, manufacturer,**commercial medium and heavy-duty on-highway vehicle, fuel,* and *work truck* are used as defined in 49 U.S.C. 32901. See 49 CFR 523.2 for general definitions related to NHTSA's fuel efficiency programs.
+The terms *manufacture*, *manufacturer*, *commercial medium-duty on highway vehicle*, *commercial heavy-duty on highway vehicle*, *fuel*, and *work truck* are used as defined in 49 U.S.C. 32901. See 49 CFR 523.2 for general definitions related to NHTSA's fuel efficiency programs.
 
 *Adjustable parameter* means any device, system, or element of design that someone can adjust (including those which are difficult to access) and that, if adjusted, may affect measured or modeled emissions (as applicable). In some cases, this may exclude a parameter that is difficult to access if it cannot be adjusted to affect emissions without significantly degrading engine performance, or if it will not be adjusted in a way that affects emissions during in-use operation. (See 40 CFR 1065.1001 and 40 CFR 1068.50).
 
@@ -432,4 +430,4 @@ The terms *manufacture, manufacturer,**commercial medium and heavy-duty on-highw
 
 *Zero emissions vehicle* means an electric vehicle or a fuel cell vehicle.
 
-[89 FR 18819, Mar. 15, 2024]
+[89 FR 18819, Mar. 15, 2024, as amended at 89 FR 52950, June 24, 2024]

@@ -1,5 +1,7 @@
 ##### § 91.517 Passenger information. #####
 
+Link to an amendment published at 89 FR 68100, Aug. 23, 2024.
+
 (a) Except as provided in paragraph (b) of this section, no person may operate an airplane carrying passengers unless it is equipped with signs that are visible to passengers and flight attendants to notify them when smoking is prohibited and when safety belts must be fastened. The signs must be so constructed that the crew can turn them on and off. They must be turned on during airplane movement on the surface, for each takeoff, for each landing, and when otherwise considered to be necessary by the pilot in command.
 
 (b) The pilot in command of an airplane that is not required, in accordance with applicable aircraft and equipment requirements of this chapter, to be equipped as provided in paragraph (a) of this section shall ensure that the passengers are notified orally each time that it is necessary to fasten their safety belts and when smoking is prohibited.

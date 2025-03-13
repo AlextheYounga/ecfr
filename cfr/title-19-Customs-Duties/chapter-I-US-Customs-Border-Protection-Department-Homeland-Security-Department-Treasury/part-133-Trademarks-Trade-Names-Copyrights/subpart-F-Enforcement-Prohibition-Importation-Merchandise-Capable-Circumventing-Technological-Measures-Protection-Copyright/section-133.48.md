@@ -1,0 +1,3 @@
+##### § 133.48 Demand for redelivery of released articles. #####
+
+If it is determined that articles which have been released from CBP custody are subject to the prohibitions or restrictions of this subpart, an authorized CBP official will promptly make demand for redelivery of the articles in accordance with § 141.113 of this chapter. If the articles are not redelivered to CBP custody under the terms of the bond on CBP Form 301, containing the bond conditions set forth in § 113.62 of this chapter, a claim for liquidated damages will be made in accordance with § 141.113 of this chapter.

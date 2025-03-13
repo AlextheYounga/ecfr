@@ -1,7 +1,5 @@
 ##### § 533.5 Requirements. #####
 
-Link to an amendment published at 89 FR 52949, June 24, 2024.
-
 (a) Each manufacturer of light trucks shall comply with the following fleet average fuel economy standards, expressed in miles per gallon, in the model year (MY) specified as applicable:
 
 |     Model year      |2-wheel drive light trucks|4-wheel drive light trucks|Limited product line light trucks|    |    |
@@ -69,19 +67,24 @@ Link to an amendment published at 89 FR 52949, June 24, 2024.
 
 ![](/graphics/er02my22.267.gif)Where:*TARGET* is the fuel economy target (in mpg) applicable to vehicles of a given footprint (*FOOTPRINT,* in square feet);Parameters *a, b, c, d, e, f, g,* and *h* are defined in Table 7 to this paragraph (a); andThe *MIN* and *MAX* functions take the minimum and maximum, respectively, of the included values.
 
-| Model year  | Parameters  |                               |                |             |             |                               |                |        |
-|-------------|-------------|-------------------------------|----------------|-------------|-------------|-------------------------------|----------------|--------|
-|a  <br/>(mpg)|b  <br/>(mpg)|c  <br/>(gal/mi/ft<sup>2</sup>)|d  <br/>(gal/mi)|e  <br/>(mpg)|f  <br/>(mpg)|g  <br/>(gal/mi/ft<sup>2</sup>)|h  <br/>(gal/mi)|        |
-|    2017     |    36.26    |             25.09             |   0.0005484    |  0.005097   |    35.10    |             25.09             |   0.0004546    |0.009851|
-|    2018     |    37.36    |             25.20             |   0.0005358    |  0.004797   |    35.31    |             25.20             |   0.0004546    |0.009682|
-|    2019     |    38.16    |             25.25             |   0.0005265    |  0.004623   |    35.41    |             25.25             |   0.0004546    |0.009603|
-|    2020     |    39.11    |             25.25             |   0.0005140    |  0.004494   |    35.41    |             25.25             |   0.0004546    |0.009603|
-|    2021     |    39.71    |             25.63             |    0.000506    |   0.00443   |     NA      |              NA               |       NA       |   NA   |
-|    2022     |    40.31    |             26.02             |    0.000499    |   0.00436   |     NA      |              NA               |       NA       |   NA   |
-|    2023     |    40.93    |             26.42             |    0.000491    |   0.00429   |     NA      |              NA               |       NA       |   NA   |
-|    2024     |    44.48    |             26.74             |    0.000452    |   0.00395   |     NA      |              NA               |       NA       |   NA   |
-|    2025     |    48.35    |             29.07             |    0.000416    |   0.00364   |     NA      |              NA               |       NA       |   NA   |
-|    2026     |    53.73    |             32.30             |    0.000374    |   0.00327   |     NA      |              NA               |       NA       |   NA   |
+| Model year  | Parameters  |                    |                |             |             |                    |                |        |
+|-------------|-------------|--------------------|----------------|-------------|-------------|--------------------|----------------|--------|
+|a  <br/>(mpg)|b  <br/>(mpg)|c  <br/>(gal/mi/ft2)|d  <br/>(gal/mi)|e  <br/>(mpg)|f  <br/>(mpg)|g  <br/>(gal/mi/ft2)|h  <br/>(gal/mi)|        |
+|    2017     |    36.26    |       25.09        |   0.0005484    |  0.005097   |    35.10    |       25.09        |   0.0004546    |0.009851|
+|    2018     |    37.36    |       25.20        |   0.0005358    |  0.004797   |    35.31    |       25.20        |   0.0004546    |0.009682|
+|    2019     |    38.16    |       25.25        |   0.0005265    |  0.004623   |    35.41    |       25.25        |   0.0004546    |0.009603|
+|    2020     |    39.11    |       25.25        |   0.0005140    |  0.004494   |    35.41    |       25.25        |   0.0004546    |0.009603|
+|    2021     |    39.71    |       25.63        |    0.000506    |   0.00443   |     NA      |         NA         |       NA       |   NA   |
+|    2022     |    40.31    |       26.02        |    0.000499    |   0.00436   |     NA      |         NA         |       NA       |   NA   |
+|    2023     |    40.93    |       26.42        |    0.000491    |   0.00429   |     NA      |         NA         |       NA       |   NA   |
+|    2024     |    44.48    |       26.74        |    0.000452    |   0.00395   |     NA      |         NA         |       NA       |   NA   |
+|    2025     |    48.35    |       29.07        |    0.000416    |   0.00364   |     NA      |         NA         |       NA       |   NA   |
+|    2026     |    53.73    |       32.30        |    0.000374    |   0.00327   |     NA      |         NA         |       NA       |   NA   |
+|    2027     |    53.73    |       32.30        |   0.00037418   | 0.00327158  |     NA      |         NA         |       NA       |   NA   |
+|    2028     |    53.73    |       32.30        |   0.00037418   | 0.00327158  |     NA      |         NA         |       NA       |   NA   |
+|    2029     |    54.82    |       32.96        |   0.00036670   | 0.00320615  |     NA      |         NA         |       NA       |   NA   |
+|    2030     |    55.94    |       33.63        |   0.00035936   | 0.00314202  |     NA      |         NA         |       NA       |   NA   |
+|    2031     |    57.08    |       34.32        |   0.00035218   | 0.00307918  |     NA      |         NA         |       NA       |   NA   |
 
 (b)(1) For model year 1979, each manufacturer may:
 
@@ -113,4 +116,6 @@ Link to an amendment published at 89 FR 52949, June 24, 2024.
 
 (i) For model years 2012-2016, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to Figures 2 and 3 to paragraph (a) of this section and the appropriate values in Table 6 to paragraph (a) of this section.
 
-(j) For model years 2017-2026, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to Figures 2 and 4 to paragraph (a) of this section and the appropriate values in Table 7 to paragraph (a) of this section.
+(j) For model years 2017-2031, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to figures 2 and 4 to paragraph (a) of this section and the appropriate values in table 7 to paragraph (a) of this section.
+
+[87 FR 26076, May 2, 2022, as amended at 89 FR 52949, June 24, 2024]

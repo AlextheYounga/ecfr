@@ -1,5 +1,7 @@
 ##### § 125.207 Emergency equipment requirements. #####
 
+Link to an amendment published at 89 FR 68100, Aug. 23, 2024.
+
 (a) No person may operate an airplane having a seating capacity of 20 or more passengers unless it is equipped with the following emergency equipment:
 
 (1) One approved first aid kit for treatment of injuries likely to occur in flight or in a minor accident, which meets the following specifications and requirements:

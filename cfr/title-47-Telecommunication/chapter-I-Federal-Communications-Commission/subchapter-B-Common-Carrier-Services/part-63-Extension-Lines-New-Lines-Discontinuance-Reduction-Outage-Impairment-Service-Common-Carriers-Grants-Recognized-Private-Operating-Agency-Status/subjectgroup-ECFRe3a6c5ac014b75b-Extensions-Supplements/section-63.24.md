@@ -1,7 +1,5 @@
 ##### § 63.24 Assignments and transfers of control. #####
 
-Link to an amendment published at 85 FR 76387, Nov. 27, 2020.
-
 (a) *General.* Except as otherwise provided in this section, an international section 214 authorization may be assigned, or control of such authorization may be transferred by the transfer of control of any entity holding such authorization, to another party, whether voluntarily or involuntarily, directly or indirectly, only upon application to and prior approval by the Commission.
 
 (b) *Assignments.* For purposes of this section, an assignment of an authorization is a transaction in which the authorization is assigned from one entity to another entity. Following an assignment, the authorization is held by an entity other than the one to which it was originally granted.
@@ -24,7 +22,7 @@ If a transaction is one of the types listed further, the transaction is presumpt
 
 (e) *Applications for substantial transactions.* (1) In the case of an assignment or transfer of control shall of an international section 214 authorization that is not pro forma, the proposed assignee or transferee must apply to the Commission for authority prior to consummation of the proposed assignment or transfer of control.
 
-(2) The application shall include the information requested in paragraphs (a) through (d) of § 63.18 for both the transferor/assignor and the transferee/assignee. The information requested in paragraphs (h) through (p) of § 63.18 is required only for the transferee/assignee. At the beginning of the application, the applicant shall include a narrative of the means by which the proposed transfer or assignment will take place.
+(2) The application shall include the information requested in paragraphs (a) through (d) of § 63.18 for both the transferor/assignor and the transferee/assignee. The information requested in paragraphs (h) through (q) of § 63.18 is required only for the transferee/assignee. The ownership diagram required under § 63.18(h)(2) shall include both the pre-transaction and post-transaction ownership of the authorization holder. The applicant shall include a narrative describing the means by which the proposed transfer or assignment will take place.
 
 (3) The Commission reserves the right to request additional information as to the particulars of the transaction to aid it in making its public interest determination.
 
@@ -34,7 +32,7 @@ If a transaction is one of the types listed further, the transaction is presumpt
 
 (2) A *pro forma* assignee or a carrier that is subject to a *pro forma* transfer of control must file a notification with the Commission no later than thirty (30) days after the assignment or transfer is completed. The notification must contain the following:
 
-(i) The information requested in paragraphs (a) through (d) and (h) of § 63.18 for the transferee/assignee;
+(i) The information requested in paragraphs (a) through (d) and (h) of § 63.18 for the transferee/assignee. The ownership diagram required under § 63.18(h)(2) shall include both the pre-transaction and post-transaction ownership of the authorization holder; and
 
 (ii) A certification that the transfer of control or assignment was pro forma and that, together with all previous pro forma transactions, does not result in a change in the actual controlling party.
 
@@ -46,4 +44,4 @@ If a transaction is one of the types listed further, the transaction is presumpt
 
 (h) *Electronic filing.* Subject to the availability of electronic forms, all applications and notifications described in this section must be filed electronically through the International Communications Filing System (ICFS). A list of forms that are available for electronic filing can be found on the ICFS homepage. For information on electronic filing requirements, see §§ 1.10000 through 1.10018 of this chapter and the ICFS homepage at *https://www.fcc.gov/icfs*. See also §§ 63.20 and 63.53.
 
-[67 FR 45391, July 9, 2002, as amended at 70 FR 38799, July 6, 2005; 72 FR 54366, Sept. 25, 2007; 88 FR 21444, Apr. 10, 2023]
+[67 FR 45391, July 9, 2002, as amended at 70 FR 38799, July 6, 2005; 72 FR 54366, Sept. 25, 2007; 88 FR 21444, Apr. 10, 2023; 85 FR 76387, Nov. 27, 2020]

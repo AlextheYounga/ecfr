@@ -1,7 +1,5 @@
 ##### § 536.4 Credits. #####
 
-Link to an amendment published at 89 FR 52953, June 24, 2024.
-
 (a) *Type and vintage.* All credits are identified and distinguished in the accounts by originating manufacturer, compliance category, and model year of origin (vintage).
 
 (b) *Application of credits.* All credits earned and applied are calculated, per 49 U.S.C. 32903(c), in tenths of a mile per gallon by which the average fuel economy of vehicles in a particular compliance category manufactured by a manufacturer in the model year in which the credits are earned exceeds the applicable average fuel economy standard, multiplied by the number of vehicles sold in that compliance category. However, credits that have been traded between credit holders or transferred between compliance categories are valued for compliance purposes using the adjustment factor specified in paragraph (c) of this section, pursuant to the “total oil savings” requirement of 49 U.S.C. 32903(f)(1).
@@ -12,6 +10,8 @@ Link to an amendment published at 89 FR 52953, June 24, 2024.
 
 |  Model year  |Lifetime vehicle miles traveled  <br/>(VMT)|       |       |       |         |       |
 |--------------|-------------------------------------------|-------|-------|-------|---------|-------|
-|     2012     |                   2013                    | 2014  | 2015  | 2016  |2017-2026|       |
+|     2012     |                   2013                    | 2014  | 2015  | 2016  |2017-2031|       |
 |Passenger Cars|                  177,238                  |177,366|178,652|180,497| 182,134 |195,264|
 | Light Trucks |                  208,471                  |208,537|209,974|212,040| 213,954 |225,865|
+
+[87 FR 26082, May 2, 2022, as amended at 89 FR 52953, June 24, 2024]

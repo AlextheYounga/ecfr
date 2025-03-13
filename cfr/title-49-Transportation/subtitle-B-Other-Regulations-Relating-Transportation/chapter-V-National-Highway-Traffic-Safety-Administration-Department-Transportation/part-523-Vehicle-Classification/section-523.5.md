@@ -1,8 +1,6 @@
 ##### § 523.5 Non-passenger automobile. #####
 
-Link to an amendment published at 89 FR 52945, June 24, 2024.
-
-A non-passenger automobile means an automobile that is not a passenger automobile or a work truck and includes vehicles described in paragraphs (a) and (b) of this section:
+A non-passenger automobile means an automobile that is not a passenger automobile or a work truck and includes vehicles described in paragraphs (a) and (b) of this section. A medium-duty passenger motor vehicle that meets the criteria in either paragraph (a) or (b) of this section is a non-passenger automobile.
 
 (a) An automobile designed to perform at least one of the following functions:
 
@@ -38,4 +36,4 @@ A non-passenger automobile means an automobile that is not a passenger automobil
 
 (v) Front and rear axle clearances of not less than 18 centimeters each.
 
-(Sec. 9, Pub. L. 89-670, 80 Stat. 981 (49 U.S.C. 1657); sec. 301, Pub. L. 94-163, 89 Stat. 901 (15 U.S.C. 2002); delegation of authority at 41 FR 25015, June 22, 1976.)[74 FR 14449, Mar. 30, 2009]
+(Authority: Sec. 9, Pub. L. 89-670, 80 Stat. 981 (49 U.S.C. 1657); sec. 301, Pub. L. 94-163, 89 Stat. 901 (15 U.S.C. 2002); delegation of authority at 41 FR 25015, June 22, 1976)[74 FR 14449, Mar. 30, 2009, as amended at 89 FR 52945, June 24, 2024]

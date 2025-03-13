@@ -1,12 +1,10 @@
 ##### § 535.6 Measurement and calculation procedures. #####
 
-Link to an amendment published at 89 FR 52952, June 24, 2024.
-
 This part describes the measurement and calculation procedures manufacturers use to determine annual fuel consumption performance results. Manufacturers use the fuel consumption results determined in this part for calculating credit balances specified in § 535.7 and then determine whether they comply with standards as specified in § 535.10. Manufacturers must use EPA emissions test results for deriving NHTSA's fuel consumption performance rates. Consequently, manufacturers conducting testing for certification or annual demonstration testing and providing CO2 emissions data to EPA must also provide equivalent fuel consumption results to NHTSA for all values. NHTSA and EPA reserve the right to verify separately or in coordination the results of any testing and measurement established by manufacturers in complying with the provisions of this program and as specified in 40 CFR 1037.301 and § 535.9. Any carry over data from the Phase 1 program may be carried into the Phase 2 only with approval from EPA and by using good engineering judgment considering differences in testing protocols between test procedures.
 
 (a) *Heavy-duty pickup trucks and vans.* This section describes the method for determining the fuel consumption performance rates for test groups and for fleets of complete heavy-duty pickup trucks and vans each model year. The NHTSA heavy-duty pickup truck and van fuel consumption performance rates correspond to the same requirements for EPA as specified in 40 CFR 86.1819-14.
 
-(1) For the Phase 1 program, if the manufacturer's fleet includes conventional vehicles (gasoline, diesel and alternative fueled vehicles) and advanced technology vehicles (hybrids with powertrain designs that include energy storage systems, vehicles with waste heat recovery, electric vehicles and fuel cell vehicles), it may divide its fleet into two separate fleets each with its own separate fleet average fuel consumption performance rate. For Phase 2, manufacturers may calculate their fleet average fuel consumption rates for a conventional fleet and separate advanced technology vehicle fleets. Advanced technology vehicle fleets should be separated into plug-in hybrid electric vehicles, electric vehicles and fuel cell vehicles.
+(1) For the Phase 1 program, if the manufacturer's fleet includes conventional vehicles (gasoline, diesel and alternative fueled vehicles) and advanced technology vehicles (hybrids with powertrain designs that include energy storage systems, vehicles with waste heat recovery, electric vehicles and fuel cell vehicles), it may divide its fleet into two separate fleets each with its own separate fleet average fuel consumption performance rate. For Phase 2 and later, manufacturers may calculate their fleet average fuel consumption rates for a conventional fleet and separate advanced technology vehicle fleets. Advanced technology vehicle fleets should be separated into plug-in hybrid electric vehicles, electric vehicles and fuel cell vehicles.
 
 (2) Vehicles in each fleet should be selected and divided into test groups or subconfigurations according to EPA in 40 CFR 86.1819-14(d).
 
@@ -148,4 +146,4 @@ This part describes the measurement and calculation procedures manufacturers use
 
 (iv) If a manufacturer uses an alternate test procedure under 40 CFR 1065.10 and subsequently the data is rejected by EPA, NHTSA will also reject the data.
 
-[81 FR 74238, Oct. 25, 2016, as amended at 85 FR 25274, Apr. 30, 2020; 89 FR 18828, Mar. 15, 2024]
+[81 FR 74238, Oct. 25, 2016, as amended at 85 FR 25274, Apr. 30, 2020; 89 FR 18828, Mar. 15, 2024; 89 FR 52952, June 24, 2024]
