@@ -1,5 +1,7 @@
 ##### § 77.2 Definitions. #####
 
+Link to an amendment published at 89 FR 39563, May 9, 2024.
+
 As used in this part, the following terms shall have the meanings set forth in this section except as otherwise specified.
 
 *Accredited veterinarian.* A veterinarian approved by the Administrator in accordance with the provisions of part 161 of subchapter J to perform functions specified in subchapters B, C, and D of this chapter.

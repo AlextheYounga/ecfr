@@ -1,7 +1,5 @@
 ##### § 432.102 Coverage. #####
 
-Link to an amendment published at 89 FR 25047, Apr. 9, 2024.
-
 (a) *Actions covered.* This part covers reduction in grade and removal of employees based on unacceptable performance.
 
 (b) *Actions excluded.* This part does not apply to:
@@ -88,7 +86,13 @@ Link to an amendment published at 89 FR 25047, Apr. 9, 2024.
 
 (9) An individual appointed by the President;
 
-(10) An employee occupying a position in Schedule C as authorized under part 213 of this chapter;
+(10) An employee whose position has been determined to be of a confidential, policy-determining, policy-making, or policy-advocating character, as defined in § 210.102 of this chapter by—
+
+(i) The President for a position that the President has excepted from the competitive service;
+
+(ii) The Office of Personnel Management for a position that the Office has excepted from the competitive service (Schedule C); or
+
+(iii) The President or the head of an agency for a position excepted from the competitive service by statute, unless the incumbent was moved involuntarily to such a position after accruing rights as delineated in paragraph (e) of this section.
 
 (11) A reemployed annuitant;
 
@@ -96,4 +100,4 @@ Link to an amendment published at 89 FR 25047, Apr. 9, 2024.
 
 (13) A manager or supervisor returned to his or her previously held grade pursuant to 5 U.S.C. 3321 (a)(2) and (b).
 
-[54 FR 26179, June 21, 1989, as amended at 57 FR 10125, Mar. 24, 1992; 57 FR 20042, May 11, 1992; 58 FR 13192, Mar. 10, 1993; 58 FR 65533, Dec. 15, 1993; 87 FR 67782, Nov. 10, 2022]
+[54 FR 26179, June 21, 1989, as amended at 57 FR 10125, Mar. 24, 1992; 57 FR 20042, May 11, 1992; 58 FR 13192, Mar. 10, 1993; 58 FR 65533, Dec. 15, 1993; 87 FR 67782, Nov. 10, 2022; 89 FR 25047, Apr. 9, 2024]

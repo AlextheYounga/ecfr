@@ -1,16 +1,14 @@
 ##### § 26.45 How do recipients set overall goals? #####
 
-Link to an amendment published at 89 FR 24966, Apr. 9, 2024.
+(a) *General rule.* (1) Except as provided in paragraph (a)(2) of this section, you must set an overall goal for DBE participation in your DOT-assisted contracts.
 
-(a)(1) Except as provided in paragraph (a)(2) of this section, you must set an overall goal for DBE participation in your DOT-assisted contracts.
-
-(2) If you are a FTA or FAA recipient who reasonably anticipates awarding (excluding transit vehicle purchases) $250,000 or less in FTA or FAA funds in prime contracts in a Federal fiscal year, you are not required to develop overall goals for FTA or FAA respectively for that fiscal year. However, if you have an existing DBE program, it must remain in effect and you must seek to fulfill the objectives outlined in § 26.1.
+(2) If you are an FTA Tier II recipient or FAA recipient who reasonably anticipates awarding (excluding transit vehicle purchases) $670,000 or less in FTA or $250,000 or less in FAA funds in prime contracts in a Federal fiscal year, you are not required to develop overall goals for FTA or FAA respectively for that fiscal year.
 
 (b) Your overall goal must be based on demonstrable evidence of the availability of ready, willing and able DBEs relative to all businesses ready, willing and able to participate on your DOT-assisted contracts (hereafter, the “relative availability of DBEs”). The goal must reflect your determination of the level of DBE participation you would expect absent the effects of discrimination. You cannot simply rely on either the 10 percent national goal, your previous overall goal or past DBE participation rates in your program without reference to the relative availability of DBEs in your market.
 
 (c) *Step 1.* You must begin your goal setting process by determining a base figure for the relative availability of DBEs. The following are examples of approaches that you may take toward determining a base figure. These examples are provided as a starting point for your goal setting process. Any percentage figure derived from one of these examples should be considered a basis from which you begin when examining all evidence available in your jurisdiction. These examples are not intended as an exhaustive list. Other methods or combinations of methods to determine a base figure may be used, subject to approval by the concerned operating administration.
 
-(1) *Use DBE Directories and Census Bureau Data.* Determine the number of ready, willing and able DBEs in your market from your DBE directory. Using the Census Bureau's County Business Pattern (CBP) data base, determine the number of all ready, willing and able businesses available in your market that perform work in the same NAICS codes. (Information about the CBP data base may be obtained from the Census Bureau at their web site, *www.census.gov/epcd/cbp/view/cbpview.html.*) Divide the number of DBEs by the number of all businesses to derive a base figure for the relative availability of DBEs in your market.
+(1) *Use DBE Directories and Census Bureau Data.* Determine the number of ready, willing and able DBEs in your market from your DBE directory. Using the Census Bureau's County Business Pattern (CBP) data base, determine the number of all ready, willing and able businesses available in your market that perform work in the same NAICS codes. (Information about the CBP data base may be obtained from the Census Bureau at their web site, *https://www.census.gov/programs-surveys/cbp.html;*) Divide the number of DBEs by the number of all businesses to derive a base figure for the relative availability of DBEs in your market.
 
 (2) *Use a bidders list.* Determine the number of DBEs that have bid or quoted (successful and unsuccessful) on your DOT-assisted prime contracts or subcontracts in the past three years. Determine the number of all businesses that have bid or quoted (successful and unsuccessful) on prime or subcontracts in the same time period. Divide the number of DBE bidders and quoters by the number of all businesses to derive a base figure for the relative availability of DBEs in your market. When using this approach, you must establish a mechanism (documented in your goal submission) to directly capture data on DBE and non-DBE prime and subcontractors that submitted bids or quotes on your DOT-assisted contracts.
 
@@ -54,7 +52,7 @@ Link to an amendment published at 89 FR 24966, Apr. 9, 2024.
 
 (iv) The funds for the project to which the project goal pertains are separated from the base from which your regular overall goal, applicable to contracts not part of the project covered by a project goal, is calculated.
 
-(f)(1)(i) If you set your overall goal on a fiscal year basis, you must submit it to the applicable DOT operating administration by August 1 at three-year intervals, based on a schedule established by the FHWA, FTA, or FAA, as applicable, and posted on that agency's Web site.
+(f)(1)(i) If you set your overall goal on a fiscal year basis, you must submit it to the applicable DOT operating administration by August 1 at three-year intervals, based on a schedule established by the FHWA, FTA, or FAA, as applicable, and posted on that agency's website.
 
 (ii) You may adjust your three-year overall goal during the three-year period to which it applies, in order to reflect changed circumstances. You must submit such an adjustment to the concerned operating administration for review and approval.
 
@@ -66,7 +64,7 @@ Link to an amendment published at 89 FR 24966, Apr. 9, 2024.
 
 (2) If you are a recipient and set your overall goal on a project or grant basis as provided in paragraph (e)(3) of this section, you must submit the goal for review at a time determined by the FHWA, FTA or FAA Administrator, as applicable.
 
-(3) You must include with your overall goal submission a description of the methodology you used to establish the goal, incuding your base figure and the evidence with which it was calculated, and the adjustments you made to the base figure and the evidence you relied on for the adjustments. You should also include a summary listing of the relevant available evidence in your jurisdiction and, where applicable, an explanation of why you did not use that evidence to adjust your base figure. You must also include your projection of the portions of the overall goal you expect to meet through race-neutral and race-consioous measures, respectively (*see* 26.51(c)).
+(3) You must include with your overall goal submission a description of the methodology you used to establish the goal, including your base figure and the evidence with which it was calculated, and the adjustments you made to the base figure and the evidence you relied on for the adjustments. You should also include a summary listing of the relevant available evidence in your jurisdiction and, where applicable, an explanation of why you did not use that evidence to adjust your base figure. You must also include your projection of the portions of the overall goal you expect to meet through race-neutral and race-conscious measures, respectively (*see* § 26.51(c)).
 
 (4) You are not required to obtain prior operating administration concurrence with your overall goal. However, if the operating administration's review suggests that your overall goal has not been correctly calculated or that your method for calculating goals is inadequate, the operating administration may, after consulting with you, adjust your overall goal or require that you do so. The adjusted overall goal is binding on you. In evaluating the adequacy or soundness of the methodology used to derive the overall goal, the operating administration will be guided by goal setting principles and best practices identified by the Department in guidance issued pursuant to § 26.9.
 
@@ -90,4 +88,4 @@ Link to an amendment published at 89 FR 24966, Apr. 9, 2024.
 
 (h) Your overall goals must provide for participation by all certified DBEs and must not be subdivided into group-specific goals.
 
-[64 FR 5126, Feb. 2, 1999, as amended at 64 FR 34570, June 28, 1999; 65 FR 68951, Nov. 15, 2000; 68 FR 35553, June 16, 2003; 75 FR 5536, Feb. 3, 2010; 76 FR 5097, Jan. 28, 2011; 79 FR 59593, Oct. 2, 2014]
+[64 FR 5126, Feb. 2, 1999, as amended at 64 FR 34570, June 28, 1999; 65 FR 68951, Nov. 15, 2000; 68 FR 35553, June 16, 2003; 75 FR 5536, Feb. 3, 2010; 76 FR 5097, Jan. 28, 2011; 79 FR 59593, Oct. 2, 2014; 89 FR 24966, Apr. 9, 2024]

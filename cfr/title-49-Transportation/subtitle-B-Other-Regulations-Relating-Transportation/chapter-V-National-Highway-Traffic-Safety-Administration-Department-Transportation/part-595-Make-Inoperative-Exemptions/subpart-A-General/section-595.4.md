@@ -1,5 +1,7 @@
 ##### § 595.4 Definitions. #####
 
+Link to an amendment published at 89 FR 39793, May 9, 2024.
+
 *Covered rental vehicle* is defined as it is in 49 U.S.C. 30102(a).
 
 *Dealer,* defined in 49 U.S.C. 30102(a), is used in accordance with its statutory meaning.

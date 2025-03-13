@@ -1,5 +1,7 @@
 ##### § 86.2 General requirements for traceability. #####
 
+Link to an amendment published at 89 FR 39564, May 9, 2024.
+
 (a) The regulations in this part apply only to covered livestock, as defined in § 86.1.
 
 (b) No person may move covered livestock interstate or receive such livestock moved interstate unless the livestock meet all applicable requirements of this part.

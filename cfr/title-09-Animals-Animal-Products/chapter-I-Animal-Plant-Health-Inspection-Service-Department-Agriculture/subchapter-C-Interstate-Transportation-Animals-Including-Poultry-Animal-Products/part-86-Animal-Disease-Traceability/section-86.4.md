@@ -1,5 +1,7 @@
 ##### § 86.4 Official identification. #####
 
+Link to an amendment published at 89 FR 39565, May 9, 2024.
+
 (a) *Official identification devices and methods.* The Administrator has approved the following official identification devices or methods for the species listed. The Administrator may authorize the use of additional devices or methods for a specific species if he or she determines that such additional devices or methods will provide for adequate traceability.
 
 (1) *Cattle and bison.* Cattle and bison that are required to be officially identified for interstate movement under this part must be identified by means of:

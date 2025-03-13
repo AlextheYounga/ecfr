@@ -1,5 +1,7 @@
 ##### § 86.5 Documentation requirements for interstate movement of covered livestock. #####
 
+Link to an amendment published at 89 FR 39565, May 9, 2024.
+
 (a) The persons responsible for animals leaving a premises for interstate movement must ensure that the animals are accompanied by an interstate certificate of veterinary inspection (ICVI) or other document required by this part for the interstate movement of animals.
 
 (b)(1) The APHIS representative, State or Tribal representative, or accredited veterinarian issuing an ICVI or other document required for the interstate movement of animals under this part must forward a copy of the ICVI or other document to the State or Tribal animal health official of the State or Tribe of origin within 7 calendar days from the date on which the ICVI or other document is issued. The State or Tribal animal health official in the State or Tribe of origin must forward a copy of the ICVI or other document to the State or Tribal animal health official the State or Tribe of destination within 7 calendar days from date on which the ICVI or other document is received.

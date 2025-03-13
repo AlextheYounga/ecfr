@@ -1,5 +1,7 @@
 ##### § 1610.7-2 Designation of areas of critical environmental concern. #####
 
+Link to an amendment published at 89 FR 40337, May 9, 2024.
+
 Areas having potential for Areas of Critical Environmental Concern (ACEC) designation and protection management shall be identified and considered throughout the resource management planning process (see §§ 1610.4-1 through 1610.4-9).
 
 (a) The inventory data shall be analyzed to determine whether there are areas containing resources, values, systems or processes or hazards eligible for further consideration for designation as an ACEC. In order to be a potential ACEC, both of the following criteria shall be met:

@@ -1,0 +1,3 @@
+##### § 26.27 What efforts must recipients make concerning DBE financial institutions? #####
+
+You must thoroughly investigate the full extent of services offered by financial institutions owned and controlled by socially and economically disadvantaged individuals in your community and make reasonable efforts to use these institutions. You must also encourage prime contractors to use such institutions.

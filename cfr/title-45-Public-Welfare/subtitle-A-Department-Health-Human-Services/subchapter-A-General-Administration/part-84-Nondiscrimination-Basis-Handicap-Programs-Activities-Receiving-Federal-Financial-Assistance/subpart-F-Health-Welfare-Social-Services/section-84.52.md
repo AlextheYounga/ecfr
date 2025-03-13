@@ -1,5 +1,7 @@
 ##### § 84.52 Health, welfare, and other social services. #####
 
+Link to an amendment published at 89 FR 40187, May 9, 2024.
+
 (a) *General.* In providing health, welfare, or other social services or benefits, a recipient may not, on the basis of handicap:
 
 (1) Deny a qualified handicapped person these benefits or services;

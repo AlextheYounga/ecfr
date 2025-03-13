@@ -1,45 +1,17 @@
-##### § 26.73 What are other rules affecting certification? #####
+##### § 26.73 NAICS codes. #####
 
-Link to an amendment published at 89 FR 24974, Apr. 9, 2024.
+(a) A certifier must grant certification to a firm only for specific types of work that the SEDO controls. To become certified in an additional type of work, the firm must demonstrate to the certifier only that its SEDO controls the firm with respect to that type of work. The certifier must not require that the firm be recertified or submit a new application for certification but must verify the SEDO's control of the firm in the additional type of work.
 
-(a)(1) Consideration of whether a firm performs a commercially useful function or is a regular dealer pertains solely to counting toward DBE goals the participation of firms that have already been certified as DBEs. Except as provided in paragraph (a)(2) of this section, you must not consider commercially useful function issues in any way in making decisions about whether to certify a firm as a DBE.
+(1) A correct NAICS code is the one that describes, as specifically as possible, the principal goods or services which the firm would provide to DOT recipients. Multiple NAICS codes may be assigned where appropriate. Program participants must rely on, and not depart from, the plain meaning of NAICS code descriptions in determining the scope of a firm's certification.
 
-(2) You may consider, in making certification decisions, whether a firm has exhibited a pattern of conduct indicating its involvement in attempts to evade or subvert the intent or requirements of the DBE program.
+(2) If there is not a NAICS code that fully, clearly, or sufficiently narrowly describes the type(s) of work for which the firm seeks certification, the certifier must supplement or limit the assigned NAICS code(s) with a clear, specific, and concise narrative description of the type of work in which the firm is certified. A vague, general, or confusing description is insufficient.
 
-(b)(1) You must evaluate the eligibility of a firm on the basis of present circumstances. You must not refuse to certify a firm based solely on historical information indicating a lack of ownership or control of the firm by socially and economically disadvantaged individuals at some time in the past, if the firm currently meets the ownership and control standards of this part.
+(3) Firms and certifiers must check carefully to make sure that the NAICS codes cited in a certification are kept up-to-date and accurately reflect work which the UCP has determined the firm's owners can control. The firm bears the burden of providing detailed company information the certifying agency needs to make an appropriate NAICS code designation.
 
-(2) You must not refuse to certify a firm solely on the basis that it is a newly formed firm, has not completed projects or contracts at the time of its application, has not yet realized profits from its activities, or has not demonstrated a potential for success. If the firm meets disadvantaged, size, ownership, and control requirements of this Part, the firm is eligible for certification.
+(4) A certifier may change a certification classification or description if there is a factual basis in the record, in which case it must notify the firm 30 days before making the change. Certifiers may not apply such changes retroactively.
 
-(c) DBE firms and firms seeking DBE certification shall cooperate fully with your requests (and DOT requests) for information relevant to the certification process. Failure or refusal to provide such information is a ground for a denial or removal of certification.
+(5) In addition to applying the appropriate NAICS code, the certifier may apply a descriptor from a classification scheme of equivalent detail and specificity. Such a descriptor (*e.g.,* a “work code”) does not supersede or limit the types of work for which a DBE is eligible under an appropriate NAICS code.
 
-(d) Only firms organized for profit may be eligible DBEs. Not-for-profit organizations, even though controlled by socially and economically disadvantaged individuals, are not eligible to be certified as DBEs.
+(b) [Reserved]
 
-(e) An eligible DBE firm must be owned by individuals who are socially and economically disadvantaged. Except as provided in this paragraph, a firm that is not owned by such individuals, but instead is owned by another firm—even a DBE firm—cannot be an eligible DBE.
-
-(1) If socially and economically disadvantaged individuals own and control a firm through a parent or holding company, established for tax, capitalization or other purposes consistent with industry practice, and the parent or holding company in turn owns and controls an operating subsidiary, you may certify the subsidiary if it otherwise meets all requirements of this subpart. In this situation, the individual owners and controllers of the parent or holding company are deemed to control the subsidiary through the parent or holding company.
-
-(2) You may certify such a subsidiary only if there is cumulatively 51 percent ownership of the subsidiary by socially and economically disadvantaged individuals. The following examples illustrate how this cumulative ownership provision works:
-
-Example 1:Socially and economically disadvantaged individuals own 100 percent of a holding company, which has a wholly-owned subsidiary. The subsidiary may be certified, if it meets all other requirements.Example 2:Disadvantaged individuals own 100 percent of the holding company, which owns 51 percent of a subsidiary. The subsidiary may be certified, if all other requirements are met.Example 3:Disadvantaged individuals own 80 percent of the holding company, which in turn owns 70 percent of a subsidiary. In this case, the cumulative ownership of the subsidiary by disadvantaged individuals is 56 percent (80 percent of the 70 percent). This is more than 51 percent, so you may certify the subsidiary, if all other requirements are met.Example 4:Same as Example 2 or 3, but someone other than the socially and economically disadvantaged owners of the parent or holding company controls the subsidiary. Even though the subsidiary is owned by disadvantaged individuals, through the holding or parent company, you cannot certify it because it fails to meet control requirements.Example 5:Disadvantaged individuals own 60 percent of the holding company, which in turn owns 51 percent of a subsidiary. In this case, the cumulative ownership of the subsidiary by disadvantaged individuals is about 31 percent. This is less than 51 percent, so you cannot certify the subsidiary.Example 6:The holding company, in addition to the subsidiary seeking certification, owns several other companies. The combined gross receipts of the holding companies and its subsidiaries are greater than the size standard for the subsidiary seeking certification and/or the gross receipts cap of § 26.65(b). Under the rules concerning affiliation, the subsidiary fails to meet the size standard and cannot be certified.
-
-(f) Recognition of a business as a separate entity for tax or corporate purposes is not necessarily sufficient to demonstrate that a firm is an independent business, owned and controlled by socially and economically disadvantaged individuals.
-
-(g) You must not require a DBE firm to be prequalified as a condition for certification.
-
-(h) A firm that is owned by an Indian tribe or Native Hawaiian organization, rather than by Indians or Native Hawaiians as individuals, may be eligible for certification. Such a firm must meet the size standards of § 26.65. Such a firm must be controlled by socially and economically disadvantaged individuals, as provided in § 26.71.
-
-(i) The following special rules apply to the certification of firms related to Alaska Native Corporations (ANCs).
-
-(1) Notwithstanding any other provisions of this subpart, a direct or indirect subsidiary corporation, joint venture, or partnership entity of an ANC is eligible for certification as a DBE if it meets all of the following requirements:
-
-(i) The Settlement Common Stock of the underlying ANC and other stock of the ANC held by holders of the Settlement Common Stock and by Natives and descendents of Natives represents a majority of both the total equity of the ANC and the total voting power of the corporation for purposes of electing directors;
-
-(ii) The shares of stock or other units of common ownership interest in the subsidiary, joint venture, or partnership entity held by the ANC and by holders of its Settlement Common Stock represent a majority of both the total equity of the entity and the total voting power of the entity for the purpose of electing directors, the general partner, or principal officers; and
-
-(iii) The subsidiary, joint venture, or partnership entity has been certified by the Small Business Administration under the 8(a) or small disadvantaged business program.
-
-(2) As a recipient to whom an ANC-related entity applies for certification, you do not use the DOT uniform application form (*see* Appendix F of this part). You must obtain from the firm documentation sufficient to demonstrate that entity meets the requirements of paragraph (i)(1) of this section. You must also obtain sufficient information about the firm to allow you to administer your program (*e.g.,* information that would appear in your DBE Directory).
-
-(3) If an ANC-related firm does not meet all the conditions of paragraph (i)(1) of this section, then it must meet the requirements of paragraph (h) of this section in order to be certified, on the same basis as firms owned by Indian Tribes or Native Hawaiian Organizations.
-
-[64 FR 5126, Feb. 2, 1999, as amended at 68 FR 35555, June 16, 2003; 76 FR 5099, Jan. 28, 2011; 79 FR 59598, Oct. 2, 2014]
+[89 FR 24974, Apr. 9, 2024]

@@ -1,5 +1,7 @@
 ##### § 84.33 Free appropriate public education. #####
 
+Link to an amendment published at 89 FR 40187, May 9, 2024.
+
 (a) *General.* A recipient that operates a public elementary or secondary education program or activity shall provide a free appropriate public education to each qualified handicapped person who is in the recipient's jurisdiction, regardless of the nature or severity of the person's handicap.
 
 (b) *Appropriate education.* (1) For the purpose of this subpart, the provision of an appropriate education is the provision of regular or special education and related aids and services that (i) are designed to meet individual educational needs of handicapped persons as adequately as the needs of nonhandicapped persons are met and (ii) are based upon adherence to procedures that satisfy the requirements of §§ 84.34, 84.35, and 84.36.

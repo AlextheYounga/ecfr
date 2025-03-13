@@ -2,7 +2,7 @@
 
 (a) In order for a dairy operation to be eligible to register for DMC and receive payments, such dairy operation must:
 
-(1) Produce milk from cows in the United States that is marketed commercially at the time of each annual election for an applicable coverage year in DMC, except that dairy operations that have stopped producing and marketing milk in any month before or during the annual coverage election period for 2019 are eligible for only those applicable months;
+(1) Produce milk from cows in the United States that is marketed commercially at the time of each annual election for an applicable coverage year in DMC, except that dairy operations that have stopped producing and marketing milk in any month before or during the annual coverage election period for 2019 and 2024 are eligible for only those applicable months;
 
 (2) Submit accurate and complete information as required by this subpart;
 
@@ -20,4 +20,4 @@
 
 (f) Dairy operation eligibility for adjusted based production history requires the dairy operation to be enrolled in DMC for the applicable calendar year. Dairy operations with less than 5 million pounds of DMC production history are eligible for adjusted based production history.
 
-[84 FR 28176, June 18, 2019, as amended at 86 FR 70707, Dec. 13, 2021; 89 FR 14375, Feb. 27, 2024]
+[84 FR 28176, June 18, 2019, as amended at 86 FR 70707, Dec. 13, 2021; 89 FR 14375, Feb. 27, 2024; 89 FR 39540, May 9, 2024]

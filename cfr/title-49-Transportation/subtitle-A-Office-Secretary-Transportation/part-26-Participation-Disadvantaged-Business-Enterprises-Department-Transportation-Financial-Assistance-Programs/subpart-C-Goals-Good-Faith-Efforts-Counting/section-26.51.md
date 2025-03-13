@@ -1,7 +1,5 @@
 ##### § 26.51 What means do recipients use to meet overall goals? #####
 
-Link to an amendment published at 89 FR 24967, Apr. 9, 2024.
-
 (a) You must meet the maximum feasible portion of your overall goal by using race-neutral means of facilitating race-neutral DBE participation. Race-neutral DBE participation includes any time a DBE wins a prime contract through customary competitive procurement procedures or is awarded a subcontract on a prime contract that does not carry a DBE contract goal.
 
 (b) Race-neutral means include, but are not limited to, the following:
@@ -52,10 +50,10 @@ Example to paragraph (f)(2):In Year II, your overall goal is 12 percent. You hav
 
 Example to paragraph (f)(3):Your overall goal for Years I and Year II is 10 percent. The DBE participation you obtain through race-neutral measures alone is 10 percent or more in each year. (For this purpose, it does not matter whether you obtained additional DBE participation through using contract goals in these years.) In Year III and following years, you do not need to make a projection under paragraph (c) of this section of the portion of your overall goal you expect to meet using race-neutral means. You simply use race-neutral means to achieve your overall goals. However, if in Year VI your DBE participation falls short of your overall goal, then you must make a paragraph (c) projection for Year VII and, if necessary, resume use of contract goals in that year.
 
-(4) If you obtain DBE participation that exceeds your overall goal in two consecutive years through the use of contract goals (*i.e.*, not through the use of race-neutral means alone), you must reduce your use of contract goals proportionately in the following year.
+(4) If you obtain DBE participation that exceeds your overall goal in two consecutive years using contract goals (*i.e.*, not through the use of race-neutral means alone), you must reduce your use of contract goals proportionately in the following year.
 
 Example to paragraph (f)(4):In Years I and II, your overall goal is 12 percent, and you obtain 14 and 16 percent DBE participation, respectively. You have exceeded your goals over the two-year period by an average of 25 percent. In Year III, your overall goal is again 12 percent, and your paragraph (c) projection estimates that you will obtain 4 percent DBE participation through race-neutral means and 8 percent through contract goals. You then reduce the contract goal projection by 25 percent (*i.e.*, from 8 to 6 percent) and set contract goals accordingly during the year. If in Year III you obtain 11 percent participation, you do not use this contract goal adjustment mechanism for Year IV, because there have not been two *consecutive* years of exceeding overall goals.
 
 (g) In any year in which you project meeting part of your goal through race-neutral means and the remainder through contract goals, you must maintain data separately on DBE achievements in those contracts with and without contract goals, respectively. You must report this data to the concerned operating administration as provided in § 26.11.
 
-[64 FR 5126, Feb. 2, 1999, as amended at 76 FR 5098, Jan. 28, 2011; 79 FR 59595, Oct. 2, 2014]
+[64 FR 5126, Feb. 2, 1999, as amended at 76 FR 5098, Jan. 28, 2011; 79 FR 59595, Oct. 2, 2014; 89 FR 24967, Apr. 9, 2024]

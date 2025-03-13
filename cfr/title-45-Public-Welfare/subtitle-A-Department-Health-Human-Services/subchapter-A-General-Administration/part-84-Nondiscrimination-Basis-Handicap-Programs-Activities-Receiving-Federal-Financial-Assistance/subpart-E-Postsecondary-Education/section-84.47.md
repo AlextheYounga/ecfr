@@ -1,5 +1,7 @@
 ##### § 84.47 Nonacademic services. #####
 
+Link to an amendment published at 89 FR 40187, May 9, 2024.
+
 (a) *Physical education and athletics.* (1) In providing physical education courses and athletics and similar aids, benefits, or services to any of its students, a recipient to which this subpart applies may not discriminate on the basis of handicap. A recipient that offers physical education courses or that operates or sponsors intercollegiate, club, or intramural athletics shall provide to qualified handicapped students an equal opportunity for participation in these activities.
 
 (2) A recipient may offer to handicapped students physical education and athletic activities that are separate or different only if separation or differentiation is consistent with the requirements of § 84.43(d) and only if no qualified handicapped student is denied the opportunity to compete for teams or to participate in courses that are not separate or different.

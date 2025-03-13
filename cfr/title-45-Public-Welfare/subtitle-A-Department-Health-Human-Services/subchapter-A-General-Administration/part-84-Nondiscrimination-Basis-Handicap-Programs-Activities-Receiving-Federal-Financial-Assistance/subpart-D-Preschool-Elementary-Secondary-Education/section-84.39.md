@@ -1,5 +1,7 @@
 ##### § 84.39 Private education. #####
 
+Link to an amendment published at 89 FR 40187, May 9, 2024.
+
 (a) A recipient that provides private elementary or secondary education may not, on the basis of handicap, exclude a qualified handicapped person if the person can, with minor adjustments, be provided an appropriate education, as defined in § 84.33(b)(1), within that recipient's program or activity.
 
 (b) A recipient to which this section applies may not charge more for the provision of an appropriate education to handicapped persons than to nonhandicapped persons except to the extent that any additional charge is justified by a substantial increase in cost to the recipient.

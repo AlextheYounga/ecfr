@@ -1,6 +1,4 @@
-##### § 26.83 What procedures do recipients follow in making certification decisions? #####
-
-Link to an amendment published at 89 FR 24974, Apr. 9, 2024.
+##### § 26.83 What procedures do certifiers follow in making certification decisions? #####
 
 (a) You must ensure that only firms certified as eligible DBEs under this section participate as DBEs in your program.
 
@@ -8,7 +6,7 @@ Link to an amendment published at 89 FR 24974, Apr. 9, 2024.
 
 (c)(1) You must take all the following steps in determining whether a DBE firm meets the standards of subpart D of this part:
 
-(i) Perform an on-site visit to the firm's principal place of business. You must interview the principal officers and review their résumés and/or work histories. You may interview key personnel of the firm if necessary. You must also perform an on-site visit to job sites if there are such sites on which the firm is working at the time of the eligibility investigation in your jurisdiction or local area. You may rely upon the site visit report of any other recipient with respect to a firm applying for certification;
+(i) A certifier must visit the firm's principal place of business, virtually or in person, and interview the SEDO, officers, and key personnel. The certifier must review those persons' résumés and/or work histories. The certifier must maintain a complete audio recording of the interview. The certifier must also visit one or more active job sites (if there is one). These activities comprise the “on-site review” (OSR), a written report of which the certifier must keep in its files.
 
 (ii) Analyze documentation related to the legal structure, ownership, and control of the applicant firm. This includes, but is not limited to, Articles of Incorporation/Organization; corporate by-laws or operating agreements; organizational, annual and board/member meeting records; stock ledgers and certificates; and State-issued Certificates of Good Standing
 
@@ -26,7 +24,7 @@ Link to an amendment published at 89 FR 24974, Apr. 9, 2024.
 
 (2) You must use the application form provided in Appendix F to this part without change or revision. However, you may provide in your DBE program, with the written approval of the concerned operating administration, for supplementing the form by requesting specified additional information not inconsistent with this part.
 
-(3) You must make sure that the applicant attests to the accuracy and truthfulness of the information on the application form. This shall be done either in the form of an affidavit sworn to by the applicant before a person who is authorized by State law to administer oaths or in the form of an unsworn declaration executed under penalty of perjury of the laws of the United States.
+(3) The certifier must ensure that the SEDO signs the Declaration of Eligibility (DOE) at the end of the Uniform Certification Application (UCA), subscribed to as true under penalty of perjury that all information provided is current, accurate, and complete.
 
 (4) You must review all information on the form prior to making a decision about the eligibility of the firm. You may request clarification of information contained in the application at any time in the application process.
 
@@ -38,9 +36,9 @@ Link to an amendment published at 89 FR 24974, Apr. 9, 2024.
 
 (g) You must safeguard from disclosure to unauthorized persons information gathered as part of the certification process that may reasonably be regarded as proprietary or other confidential business information, consistent with applicable Federal, state, and local law.
 
-(h)(1) Once you have certified a DBE, it shall remain certified until and unless you have removed its certification, in whole or in part, through the procedures of § 26.87 of this part, except as provided in § 26.67(b)(1) of this part.
+(h)(1) Once a certifier has certified a firm, the firm remains certified unless and/or until the certifier removes certification, in whole or in part (*i.e.,* NAICS code removal), through the procedures of § 26.87.
 
-(2) You may not require DBEs to reapply for certification or undergo a recertification process. However, you may conduct a certification review of a certified DBE firm, including a new on-site review, if appropriate in light of changed circumstances (e.g., of the kind requiring notice under paragraph (i) of this section or relating to suspension of certification under § 26.88), a complaint, or other information concerning the firm's eligibility. If information comes to your attention that leads you to question the firm's eligibility, you may conduct an on-site review on an unannounced basis, at the firm's offices and job sites.
+(2) The certifier may not require a DBE to reapply for certification, renew its certification, undergo a recertification, or impose any functionally equivalent requirement. The certifier may, however, conduct a certification review at any reasonable time and/or at regular intervals of at least two years. The certification review may, at the certifier's discretion, include a new OSR. The certifier may also make an unannounced visit to the DBE's offices and/or job site. The certifier may also rely on another certifier's report of its OSR of the DBE.
 
 (i) If you are a DBE, you must inform the recipient or UCP in writing of any change in circumstances affecting your ability to meet size, disadvantaged status, ownership, or control requirements of this part or any material change in the information provided in your application form.
 
@@ -48,14 +46,28 @@ Link to an amendment published at 89 FR 24974, Apr. 9, 2024.
 
 (2) You must attach supporting documentation describing in detail the nature of such changes.
 
-(3) The notice must take the form of an affidavit sworn to by the applicant before a person who is authorized by state law to administer oaths or of an unsworn declaration executed under penalty of perjury of the laws of the United States. You must provide the written notification within 30 days of the occurrence of the change. If you fail to make timely notification of such a change, you will be deemed to have failed to cooperate under § 26.109(c).
+(3) The DBE must notify the certifier of a material change in its circumstances that affects its continued eligibility within 30 days of its occurrence, explain the change fully, and include a duly executed DOE with the notice. The DBE's non-compliance is a § 26.109(c) failure to cooperate.
 
-(j) If you are a DBE, you must provide to the recipient, every year on the anniversary of the date of your certification, an affidavit sworn to by the firm's owners before a person who is authorized by State law to administer oaths or an unsworn declaration executed under penalty of perjury of the laws of the United States. This affidavit must affirm that there have been no changes in the firm's circumstances affecting its ability to meet size, disadvantaged status, ownership, or control requirements of this part or any material changes in the information provided in its application form, except for changes about which you have notified the recipient under paragraph (i) of this section. The affidavit shall specifically affirm that your firm continues to meet SBA business size criteria and the overall gross receipts cap of this part, documenting this affirmation with supporting documentation of your firm's size and gross receipts (e.g., submission of Federal tax returns). If you fail to provide this affidavit in a timely manner, you will be deemed to have failed to cooperate under § 26.109(c).
+(j) A DBE must provide its certifier(s), every year on the anniversary of its original certification, a new DOE along with the specified documentation in § 26.65(a), including gross receipts for its most recently completed fiscal year, calculated on a cash basis regardless of the DBE's overall accounting method. The sufficiency of documentation (and its probative value) may vary by business type, size, history, resources, and overall circumstances. However, the following documents may generally be considered “safe harbors,” provided that they include all reportable receipts, properly calculated, for the full reporting period: audited financial statements, a CPA's signed attestation of correctness and completeness, or all income-related portions of one or more (when there are affiliates) signed Federal income tax returns as filed. Non-compliance, whether full or partial, is a § 26.109(c) failure to cooperate.
 
-(k) If you are a recipient, you must make decisions on applications for certification within 90 days of receiving from the applicant firm all information required under this part. You may extend this time period once, for no more than an additional 60 days, upon written notice to the firm, explaining fully and specifically the reasons for the extension. You may establish a different time frame in your DBE program, upon a showing that this time frame is not feasible, and subject to the approval of the concerned operating administration. Your failure to make a decision by the applicable deadline under this paragraph is deemed a constructive denial of the application, on the basis of which the firm may appeal to DOT under § 26.89.
+(k) The certifier must advise each applicant within 30 days of filing whether the application is complete and suitable for evaluation and, if not, what additional information or action is required.
 
-(l) As a recipient or UCP, you must advise each applicant within 30 days from your receipt of the application whether the application is complete and suitable for evaluation and, if not, what additional information or action is required.
+(l) The certifier must render a final eligibility decision within 90 days of receiving all information required from the applicant under this part. The certifier may extend this time period once, for no more than an additional 30 days, upon written notice to the firm, explaining fully and specifically the reasons for the extension. On a case-by-case basis, the concerned OA may give the certifier one deadline extension if it approves a written request explaining why the certifier needs more time. The certifier's failure to issue a compliant decision by the applicable deadline is a constructive denial of the application, appealable to DOT under § 26.89. In this case, the certifier may be subject to enforcement actions described in §§ 26.103 and 26.105.
 
-(m) Except as otherwise provided in this paragraph, if an applicant for DBE certification withdraws its application before you have issued a decision on the application, the applicant can resubmit the application at any time. As a recipient or UCP, you may not apply the waiting period provided under § 26.86(c) of this part before allowing the applicant to resubmit its application. However, you may place the reapplication at the “end of the line,” behind other applications that have been made since the firm's previous application was withdrawn. You may also apply the waiting period provided under § 26.86(c) of this part to a firm that has established a pattern of frequently withdrawing applications before you make a decision.
+(1) [Reserved]
 
-[64 FR 5126, Feb. 2, 1999, as amended at 68 FR 35555, June 16, 2003; 76 FR 5100, Jan. 28, 2011; 79 FR 59598, Oct. 2, 2014]
+(2) The certifier must make an entry in DOCR's Online Portal within 5 days of a denial. The certifier must enter the name of the firm, names(s) of the firm's owner(s), date of decision, and the reason(s) for its decision.
+
+(m)(1) A certifier may notify the applicant about ineligibility concerns and allow the firm to rectify deficiencies within the period in paragraph (l) of this section.
+
+(2) If a firm takes curative measures before the certifier renders a decision, the certifier must consider any evidence it submits of having taken such measures. The certifier must not automatically construe curative measures as successful or abusive.
+
+(i) *Example 1 to paragraph (m)(2).* The firm may obtain proof of an investment, transaction, or other fact on which its eligibility depends.
+
+(ii) *Example 2 to paragraph (m)(2).* An owner or related party may create a legally enforceable document of irrevocable transfer to the SEDO.
+
+(iii) *Example 3 to paragraph (m)(2).* The firm may amend an operating agreement, bylaw provision, or other governance document, provided that the amendment accurately reflects the parties' relationships, powers, responsibilities, and other pertinent circumstances.
+
+(n) Except as otherwise provided in this paragraph (n), if an applicant for DBE certification withdraws its application before the certifier issues a decision, the applicant can resubmit the application at any time. However, the certifier may place the reapplication at the “end of the line,” behind other applications that have been made since the firm's previous application was withdrawn. The certifier may apply the § 26.86(c) waiting period to a firm that has established a pattern of withdrawing applications before its decision.
+
+[64 FR 5126, Feb. 2, 1999, as amended at 68 FR 35555, June 16, 2003; 76 FR 5100, Jan. 28, 2011; 79 FR 59598, Oct. 2, 2014; 89 FR 24974, Apr. 9, 2024]

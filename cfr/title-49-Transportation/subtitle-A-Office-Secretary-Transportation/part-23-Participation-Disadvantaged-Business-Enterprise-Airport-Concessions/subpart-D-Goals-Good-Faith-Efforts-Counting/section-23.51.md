@@ -1,7 +1,5 @@
 ##### § 23.51 How are a recipient's overall goals expressed and calculated? #####
 
-Link to an amendment published at 89 FR 24962, Apr. 9, 2024.
-
 (a) Your objective in setting a goal is to estimate the percentage of the base calculated under §§ 23.47-23.49 that would be performed by ACDBEs in the absence of discrimination and its effects.
 
 (1) This percentage is the estimated ACDBE participation that would occur if there were a “level playing field” for firms to work as concessionaires for your airport.
@@ -18,7 +16,7 @@ Link to an amendment published at 89 FR 24962, Apr. 9, 2024.
 
 (c) *Step 1.* You must begin your goal setting process by determining a base figure for the relative availability of ACDBEs. The following are examples of approaches that you may take toward determining a base figure. These examples are provided as a starting point for your goal setting process. Any percentage figure derived from one of these examples should be considered a basis from which you begin when examining the evidence available to you. These examples are not intended as an exhaustive list. Other methods or combinations of methods to determine a base figure may be used, subject to approval by the FAA.
 
-(1) *Use DBE Directories and Census Bureau Data.* Determine the number of ready, willing and able ACDBEs in your market area from your ACDBE directory. Using the Census Bureau's County Business Pattern (CBP) data base, determine the number of all ready, willing and able businesses available in your market area that perform work in the same NAICS codes. (Information about the CBP data base may be obtained from the Census Bureau at their Web site, *http://www.census.gov/epcd/cbp/view/cbpview.html.*) Divide the number of ACDBEs by the number of all businesses to derive a base figure for the relative availability of ACDBEs in your market area.
+(1) *Use DBE Directories and Census Bureau Data.* Determine the number of ready, willing and able ACDBEs in your market area from your ACDBE directory. Using the Census Bureau's County Business Pattern (CBP) data base, determine the number of all ready, willing and able businesses available in your market area that perform work in the same NAICS codes. (Information about the CBP data base may be obtained from the Census Bureau at their Web site, *https://www.census.gov/programs-surveys/cbp.html.*) Divide the number of ACDBEs by the number of all businesses to derive a base figure for the relative availability of ACDBEs in your market area.
 
 (2) *Use an Active Participants List.* Determine the number of ACDBEs that have participated or attempted to participate in your airport concessions program in previous years. Determine the number of all businesses that have participated or attempted to participate in your airport concession program in previous years. Divide the number of ACDBEs who have participated or attempted to participate by the number for all businesses to derive a base figure for the relative availability of ACDBEs in your market area.
 
@@ -57,3 +55,5 @@ Link to an amendment published at 89 FR 24962, Apr. 9, 2024.
 (1) Reflect the relative availability of ACDBEs in your local market area to the maximum extent feasible given the data available to you; and
 
 (2) Avoid imposing undue burdens on non-ACDBEs.
+
+[70 FR 14508, Mar. 22, 2005, as amended at 89 FR 24962, Apr. 9, 2024]

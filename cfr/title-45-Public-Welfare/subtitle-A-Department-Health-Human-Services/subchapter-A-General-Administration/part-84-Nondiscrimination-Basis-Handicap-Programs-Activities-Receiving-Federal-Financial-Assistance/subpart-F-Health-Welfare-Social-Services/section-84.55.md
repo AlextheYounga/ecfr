@@ -1,5 +1,7 @@
 ##### § 84.55 Procedures relating to health care for handicapped infants. #####
 
+Link to an amendment published at 89 FR 40188, May 9, 2024.
+
 (a) *Infant Care Review Committees.* The Department encourages each recipient health care provider that provides health care services to infants in programs or activities receiving Federal financial assistance to establish an Infant Care Review Committee (ICRC) to assist the provider in delivering health care and related services to infants and in complying with this part. The purpose of the committee is to assist the health care provider in the development of standards, policies and procedures for providing treatment to handicapped infants and in making decisions concerning medically beneficial treatment in specific cases. While the Department recognizes the value of ICRC's in assuring appropriate medical care to infants, such committees are not required by this section. An ICRC should be composed of individuals representing a broad range of perspectives, and should include a practicing physician, a representative of a disability organization, a practicing nurse, and other individuals. A suggested model ICRC is set forth in paragraph (f) of this section.
 
 (b) *Posting of informational notice.* (1) Each recipient health care provider that provides health care services to infants in programs or activities receiving Federal financial assistance shall post and keep posted in appropriate places an informational notice.

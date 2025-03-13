@@ -1,19 +1,17 @@
-##### § 23.33 What size standards do recipients use to determine the eligibility of ACDBEs? #####
+##### § 23.33 What size standards do recipients use to determine the eligibility of applicants and ACDBEs? #####
 
-Link to an amendment published at 89 FR 24960, Apr. 9, 2024.
-
-(a) As a recipient, you must, except as provided in paragraph (b) of this section, treat a firm as a small business eligible to be certified as an ACDBE if its gross receipts, averaged over the firm's previous three fiscal years, do not exceed $56.42 million.
+(a) Except as provided in paragraph (b) of this section, recipients must treat a firm as a small business eligible to be certified as an ACDBE if the gross receipts of the applicant firm and its affiliates, calculated in accordance with 13 CFR 121.104 averaged over the firm's previous five fiscal years, do not exceed $56.42 million.
 
 (b) The following types of businesses have size standards that differ from the standard set forth in paragraph (a) of this section:
 
-(1) *Banks and financial institutions:* $1 billion in assets;
+(1) *Banks and financial institutions.* $1 billion in assets;
 
-(2) *Car rental companies:* $75.23 million average annual gross receipts over the firm's three previous fiscal years, as adjusted by the Department for inflation every two years from April 3, 2009.
+(2) *Passenger car rental companies.* $75.23 million average annual gross receipts over the firm's previous five fiscal years;
 
-(3) *Pay telephones:* 1,500 employees;
+(3) *Pay telephones.* 1,500 employees; and
 
-(4) *Automobile dealers:* 350 employees.
+(4) *New car dealers.* 350 employees.
 
-(c) The Department adjusts the numbers in paragraphs (a) and (b)(2) of this section using the Department of Commerce price deflators for purchases by State and local governments as the basis for this adjustment. The Department publishes a Federal Register document informing the public of each adjustment.
+(c) For size purposes, gross receipts (as defined in 13 CFR 121.104(a)), of affiliates should be included in a manner consistent with 13 CFR 121.104(d), except in the context of joint ventures. For gross receipts attributable to joint venture partners, a firm must include in its gross receipts its proportionate share of joint venture receipts, unless the proportionate share already is accounted for in receipts reflecting transactions between the firm and its joint ventures (*e.g.,* subcontracts from a joint venture entity to joint venture partners).
 
-[77 FR 36931, June 20, 2012]
+[89 FR 24960, Apr. 9, 2024]

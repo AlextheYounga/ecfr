@@ -1,7 +1,5 @@
 ##### § 23.57 What happens if a recipient falls short of meeting its overall goals? #####
 
-Link to an amendment published at 89 FR 24962, Apr. 9, 2024.
-
 (a) You cannot be penalized, or treated by the Department as being in noncompliance with this part, simply because your ACDBE participation falls short of your overall goals. You can be penalized or treated as being in noncompliance only if you have failed to administer your ACDBE program in good faith.
 
 (b) If the awards and commitments shown on your Uniform Report of ACDBE Participation (found in Appendix A to this Part) at the end of any fiscal year are less than the overall goal applicable to that fiscal year, you must do the following in order to be regarded by the Department as implementing your ACDBE program in good faith:
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 24962, Apr. 9, 2024.
 
 (2) Establish specific steps and milestones to correct the problems you have identified in your analysis and to enable you to meet fully your goal for the new fiscal year;
 
-(3) (i) If you are a CORE 30 airport or other airport designated by the FAA, you must submit, within 90 days of the end of the fiscal year, the analysis and corrective actions developed under paragraphs (b)(1) and (2) of this section to the FAA for approval. If the FAA approves the report, you will be regarded as complying with the requirements of this section for the remainder of the fiscal year.
+(3)(i) If you are a CORE 30 airport or other airport designated by the FAA, you must submit, by April 1, the analysis and corrective actions developed under paragraphs (b)(1) and (2) of this section to the FAA for approval.
 
 (ii) As an airport not meeting the criteria of paragraph (b)(3)(i) of this section, you must retain analysis and corrective actions in your records for three years and make it available to the FAA, on request, for their review.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 89 FR 24962, Apr. 9, 2024.
 
 (c) If information coming to the attention of FAA demonstrates that current trends make it unlikely that you, as an airport, will achieve ACDBE awards and commitments that would be necessary to allow you to meet your overall goal at the end of the fiscal year, FAA may require you to make further good faith efforts, such as modifying your race-conscious/race-neutral split or introducing additional race-neutral or race-conscious measures for the remainder of the fiscal year.
 
-[70 FR 14508, Mar. 22, 2005, as amended at 77 FR 36931, June 20, 2012]
+[70 FR 14508, Mar. 22, 2005, as amended at 77 FR 36931, June 20, 2012; 89 FR 24962, Apr. 9, 2024]

@@ -1,5 +1,7 @@
 ##### § 86.1 Definitions. #####
 
+Link to an amendment published at 89 FR 39564, May 9, 2024.
+
 *Animal identification number (AIN).* A numbering system for the official identification of individual animals in the United States that provides a nationally unique identification number for each animal. The AIN consists of 15 digits, with the first 3 being the country code (840 for the United States or a unique country code for any U.S. territory that has such a code and elects to use it in place of the 840 code). The alpha characters USA or the numeric code assigned to the manufacturer of the identification device by the International Committee on Animal Recording may be used as an alternative to the 840 or other prefix representing a U.S. territory; however, only the AIN beginning with the 840 or other prefix representing a U.S. territory will be recognized as official for use on AIN tags applied to animals on or after March 11, 2015. The AIN beginning with the 840 prefix may not be applied to animals known to have been born outside the United States.
 
 *Approved livestock facility.* A stockyard, livestock market, buying station, concentration point, or any other premises under State or Federal veterinary inspection where livestock are assembled and that has been approved under § 71.20 of this chapter.

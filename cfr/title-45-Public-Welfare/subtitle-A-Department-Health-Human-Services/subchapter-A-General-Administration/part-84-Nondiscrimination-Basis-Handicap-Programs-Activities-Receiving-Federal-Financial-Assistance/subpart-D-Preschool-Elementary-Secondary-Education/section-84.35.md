@@ -1,5 +1,7 @@
 ##### § 84.35 Evaluation and placement. #####
 
+Link to an amendment published at 89 FR 40187, May 9, 2024.
+
 (a) *Preplacement evaluation.* A recipient that operates a public elementary or secondary education program or activity shall conduct an evaluation in accordance with the requirements of paragraph (b) of this section of any person who, because of handicap, needs or is believed to need special education or related services before taking any action with respect to the initial placement of the person in regular or special education and any subsequent significant change in placement.
 
 (b) *Evaluation procedures.* A recipient to which this subpart applies shall establish standards and procedures for the evaluation and placement of persons who, because of handicap, need or are believed to need special education or related services which ensure that:

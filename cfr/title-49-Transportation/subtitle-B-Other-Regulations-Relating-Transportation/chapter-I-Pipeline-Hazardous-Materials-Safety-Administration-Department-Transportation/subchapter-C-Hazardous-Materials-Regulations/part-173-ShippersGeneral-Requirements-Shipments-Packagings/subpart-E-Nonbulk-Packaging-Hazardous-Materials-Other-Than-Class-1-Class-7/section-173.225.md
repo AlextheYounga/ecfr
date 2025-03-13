@@ -1,6 +1,6 @@
 ##### § 173.225 Packaging requirements and other provisions for organic peroxides. #####
 
-Link to an amendment published at 89 FR 25481, Apr. 10, 2024.
+Link to an amendment published at 89 FR 25481, Apr. 10, 2024.Link to a correction published at 89 FR 39575, May 9, 2024.
 
 (a) *General.* When the § 172.101 table specifies that an organic peroxide must be packaged under this section, the organic peroxide must be packaged and offered for transportation in accordance with the provisions of this section. Each packaging must conform to the general requirements of subpart B of part 173 and to the applicable requirements of part 178 of this subchapter. Non-bulk packagings must meet Packing Group II performance levels. To avoid unnecessary confinement, metallic non-bulk packagings meeting Packing Group I are not authorized. No used material, other than production residues or regrind from the same production process, may be used in plastic packagings. Organic peroxides that require temperature control are subject to the provisions of § 173.21(f). When an IBC or bulk packaging is authorized and meets the requirements of paragraph (f) or (h) of this section, respectively, lower control temperatures than those specified for non-bulk packaging may be required. An organic peroxide not identified in paragraph (c), (e), or (g) of this section by technical name, or not assigned to a generic type in accordance with the provisions in paragraph (b)(3) of this section, must conform to the provisions of paragraph (c) of § 173.128.
 

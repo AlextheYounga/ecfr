@@ -1,5 +1,7 @@
 ##### § 78.1 Definitions. #####
 
+Link to an amendment published at 89 FR 39563, May 9, 2024.
+
 The following terms are defined in this section:
 
 Accredited veterinarianAdministratorAnimalsAnimal and Plant Health Inspection ServiceAnimal identification numberAPHIS representativeApproved brucella vaccineApproved individual herd planApproved intermediate handling facilityArea“B” brandedBoarBrucellosisBrucellosis exposedBrucellosis negativeBrucellosis reactorBrucellosis ring testBrucellosis suspectCertificateCertified brucellosis-free herdClass A State or areaClass B State or areaClass C State or areaClass Free State or areaComplete herd test (CHT)Confirmatory testDairy cattleDesignated epidemiologistDirectlyEpidemiologistEpidemiologyFarm of originFeral swineFinished fed cattleHerdHerd blood testHerd known to be affectedHerd not known to be affectedHerd of origin of swineInterstateMarket cattle identification test cattleMarket swine test (MST) reactorMarket swine test swineMonitored-negative feral swine populationMovedMoved (movement) in interstate commerceOfficial adult vaccinateOfficial brand inspection certificateOfficial brand recording agencyOfficial calfhood vaccinateOfficial eartagOfficial sealOfficial swine tattooOfficial testOfficial vaccinateOfficial vaccination eartagOriginateParturientPermitPermit for entryPersonPostparturientPurebred registry associationQualified herdQuarantined areaQuarantined feedlotQuarantined pastureRecognized slaughtering establishment“S” branded“S” brand permitSowSpecifically approved stockyardStateState animal health officialState representativeSuccessfully closed caseSwine brucellosisTest-eligible cattle and bisonUnited StatesUnited States Department of Agriculture backtagValidated brucellosis-free herdValidated brucellosis-free StateVeterinarian in ChargeWhole herd vaccinationAs used in this part, the following terms shall have the meanings set forth in this section.
@@ -350,62 +352,47 @@ Accredited veterinarianAdministratorAnimalsAnimal and Plant Health Inspection Se
 
 (2) *Standard tube test (STT) or standard plate test (SPT).* A test to determine the brucellosis disease status of test-eligible cattle and bison when conducted according to instructions approved by APHIS and the State in which the test is to be conducted. Cattle and bison are classified according to the following agglutination reactions:
 
-SPT OR STT Classification—Official Vaccinates Vaccinated With a Brucella Abortus Strain 19 Approved Brucella Vaccine
+|           Titer           |Classification|     |         |
+|---------------------------|--------------|-----|---------|
+|           1:50            |    1:100     |1:200|         |
+|             −             |      −       |  −  |Negative.|
+|             I             |      −       |  −  |   Do.   |
+|            \+             |      −       |  −  |   Do.   |
+|            \+             |      I       |  −  |Suspect. |
+|            \+             |      \+      |  −  |   Do.   |
+|            \+             |      \+      |  I  |   Do.   |
+|            \+             |      \+      | \+  |Reactor. |
+|    − No agglutination.    |              |     |         |
+|I Incomplete agglutination.|              |     |         |
+| \+ Complete agglutination.|              |     |         |
 
-|Titer|Classification|     |         |
-|-----|--------------|-----|---------|
-|1:50 |    1:100     |1:200|         |
-|  −  |      −       |  −  |Negative.|
-|  I  |      −       |  −  |   Do.   |
-|  \+ |      −       |  −  |   Do.   |
-|  \+ |      I       |  −  |Suspect. |
-|  \+ |      \+      |  −  |   Do.   |
-|  \+ |      \+      |  I  |   Do.   |
-|  \+ |      \+      |  \+ |Reactor. |
+|           Titer           |Classification|     |         |
+|---------------------------|--------------|-----|---------|
+|           1:50            |    1:100     |1:200|         |
+|             −             |      −       |  −  |Negative.|
+|             I             |      −       |  −  |Suspect. |
+|            \+             |      −       |  −  |   Do.   |
+|            \+             |      I       |  −  |   Do.   |
+|            \+             |      \+      |  −  |Reactor. |
+|            \+             |      \+      |  I  |   Do.   |
+|            \+             |      \+      | \+  |   Do.   |
+|    − No agglutination.    |              |     |         |
+|I Incomplete agglutination.|              |     |         |
+| \+ Complete agglutination.|              |     |         |
 
-− No agglutination.
-
-I Incomplete agglutination.
-
- \+ Complete agglutination.
-
-Official Vaccinates Vaccinated With an Approved Brucella Vaccine Other Than a Brucella Abortus Strain 19 Approved Brucella Vaccine
-
-|Titer|Classification|     |         |
-|-----|--------------|-----|---------|
-|1:50 |    1:100     |1:200|         |
-|  −  |      −       |  −  |Negative.|
-|  I  |      −       |  −  |Suspect. |
-|  \+ |      −       |  −  |   Do.   |
-|  \+ |      I       |  −  |   Do.   |
-|  \+ |      \+      |  −  |Reactor. |
-|  \+ |      \+      |  I  |   Do.   |
-|  \+ |      \+      |  \+ |   Do.   |
-
-− No agglutination.
-
-I Incomplete agglutination.
-
- \+ Complete agglutination.
-
-All Cattle and Bison Which Are Not Official Vaccinates
-
-|Titer|Classification|     |         |
-|-----|--------------|-----|---------|
-|1:50 |    1:100     |1:200|         |
-|  −  |      −       |  −  |Negative.|
-|  I  |      −       |  −  |Suspect. |
-|  \+ |      −       |  −  |   Do.   |
-|  \+ |      I       |  −  |   Do.   |
-|  \+ |      \+      |  −  |Reactor. |
-|  \+ |      \+      |  I  |   Do.   |
-|  \+ |      \+      |  \+ |   Do.   |
-
-− No agglutination.
-
-I Incomplete agglutination.
-
- \+ Complete agglutination.
+|           Titer           |Classification|     |         |
+|---------------------------|--------------|-----|---------|
+|           1:50            |    1:100     |1:200|         |
+|             −             |      −       |  −  |Negative.|
+|             I             |      −       |  −  |Suspect. |
+|            \+             |      −       |  −  |   Do.   |
+|            \+             |      I       |  −  |   Do.   |
+|            \+             |      \+      |  −  |Reactor. |
+|            \+             |      \+      |  I  |   Do.   |
+|            \+             |      \+      | \+  |   Do.   |
+|    − No agglutination.    |              |     |         |
+|I Incomplete agglutination.|              |     |         |
+| \+ Complete agglutination.|              |     |         |
 
 (3) *Manual complement-fixation (CF) test.* A test to determine the brucellosis disease status of test-eligible cattle and bison when conducted according to instructions approved by APHIS and the State in which the test is to be conducted. Cattle and bison are classified according to the following reactions:
 
@@ -523,38 +510,32 @@ I Incomplete agglutination.
 
 (i) If all of the following apply: (A) The swine are part of a herd not known to be affected; (B) No swine tested, individually or as part of a group, has a complete agglutination reaction at a dilution of 1:100 or higher; and (C) the swine are tested as part of a herd blood test or are part of a validated brucellosis-free herd, then the swine are classified according to the following agglutination reactions:
 
-|Titer|Classification|     |         |
-|-----|--------------|-----|---------|
-|1:25 |     1:50     |1:100|         |
-|  I  |      ]—      |  −  |Negative.|
-|  \+ |      −       |  −  |   Do.   |
-|  \+ |      I       |  −  |   Do.   |
-|  \+ |      \+      |  −  |   Do.   |
-|  \+ |      \+      |  I  |   Do.   |
-
-− No agglutination.
-
-I Incomplete agglutination.
-
- \+ Complete agglutination.
+|           Titer           |Classification|     |         |
+|---------------------------|--------------|-----|---------|
+|           1:25            |     1:50     |1:100|         |
+|             I             |      ]—      |  −  |Negative.|
+|            \+             |      −       |  −  |   Do.   |
+|            \+             |      I       |  −  |   Do.   |
+|            \+             |      \+      |  −  |   Do.   |
+|            \+             |      \+      |  I  |   Do.   |
+|    − No agglutination.    |              |     |         |
+|I Incomplete agglutination.|              |     |         |
+| \+ Complete agglutination.|              |     |         |
 
 (ii) If any of the following apply: (A) The swine are part of a herd known to be affected; (B) Any swine tested, individually or as part of a group, has a complete agglutination reaction at a dilution of 1:100 or higher or; (C) The swine are not part of a validated brucellosis-free herd and are not being tested as part of a herd blood test, then the swine are classified according to the following agglutination reactions:
 
-|Titer|Classification|     |         |
-|-----|--------------|-----|---------|
-|1:25 |     1:50     |1:100|         |
-|  I  |      −       |  −  |Negative.|
-|  \+ |      −       |  −  |Reactor. |
-|  \+ |      I       |  −  |   Do.   |
-|  \+ |      \+      |  −  |   Do.   |
-|  \+ |      \+      |  I  |   Do.   |
-|  \+ |      \+      |  \+ |   Do.   |
-
-− No agglutination.
-
-I Incomplete agglutination.
-
- \+ Complete agglutination.
+|           Titer           |Classification|     |         |
+|---------------------------|--------------|-----|---------|
+|           1:25            |     1:50     |1:100|         |
+|             I             |      −       |  −  |Negative.|
+|            \+             |      −       |  −  |Reactor. |
+|            \+             |      I       |  −  |   Do.   |
+|            \+             |      \+      |  −  |   Do.   |
+|            \+             |      \+      |  I  |   Do.   |
+|            \+             |      \+      | \+  |   Do.   |
+|    − No agglutination.    |              |     |         |
+|I Incomplete agglutination.|              |     |         |
+| \+ Complete agglutination.|              |     |         |
 
 (3) *Particle concentration fluoresence immunoassay (PCFIA).* An automated serologic test to determine the brucellosis disease status of test-eligible swine when conducted according to instructions approved by the Animal and Plant Health Inspection Service. Swine are classified according to the following ratios between the test sample and a known negative sample (S/N ratio):
 

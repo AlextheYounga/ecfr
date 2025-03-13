@@ -1,5 +1,7 @@
 ##### § 84.23 New construction. #####
 
+Link to an amendment published at 89 FR 40185, May 9, 2024.
+
 (a) *Design and construction.* Each facility or part of a facility constructed by, on behalf of, or for the use of a recipient shall be designed and constructed in such manner that the facility or part of the facility is readily accessible to and usable by handicapped persons, if the construction was commenced after the effective date of this part.
 
 (b) *Alteration.* Each facility or part of a facility which is altered by, on behalf of, or for the use of a recipient after the effective date of this part in a manner that affects or could affect the usability of the facility or part of the facility shall, to the maximum extent feasible, be altered in such manner that the altered portion of the facility is readily accessible to and usable by handicapped persons.

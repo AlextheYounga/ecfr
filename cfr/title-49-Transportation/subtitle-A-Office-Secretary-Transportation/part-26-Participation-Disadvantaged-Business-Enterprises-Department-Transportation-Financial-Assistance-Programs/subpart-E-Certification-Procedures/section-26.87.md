@@ -1,71 +1,81 @@
-##### § 26.87 What procedures does a recipient use to remove a DBE's eligibility? #####
+##### § 26.87 Decertification. #####
 
-Link to an amendment published at 89 FR 24976, Apr. 9, 2024.
+(a) *Burden of proof.* To decertify a DBE, the certifier bears the burden of proving, by a preponderance of the evidence, that the DBE does not meet the certification standards of this part.
 
-(a) *Ineligibility complaints.* (1) Any person may file with you a written complaint alleging that a currently-certified firm is ineligible and specifying the alleged reasons why the firm is ineligible. You are not required to accept a general allegation that a firm is ineligible or an anonymous complaint. The complaint may include any information or arguments supporting the complainant's assertion that the firm is ineligible and should not continue to be certified. Confidentiality of complainants' identities must be protected as provided in § 26.109(b).
+(b) *Initiation of decertification proceedings.* (1) A certifier may determine on its own that it has reasonable cause to decertify a DBE.
 
-(2) You must review your records concerning the firm, any material provided by the firm and the complainant, and other available information. You may request additional information from the firm or conduct any other investigation that you deem necessary.
+(2) If an OA determines that there is reasonable cause to believe that a DBE does not meet the eligibility criteria of this part, the OA may direct the certifier to initiate a proceeding to remove the DBE's certification.
 
-(3) If you determine, based on this review, that there is reasonable cause to believe that the firm is ineligible, you must provide written notice to the firm that you propose to find the firm ineligible, setting forth the reasons for the proposed determination. If you determine that such reasonable cause does not exist, you must notify the complainant and the firm in writing of this determination and the reasons for it. All statements of reasons for findings on the issue of reasonable cause must specifically reference the evidence in the record on which each reason is based.
+(i) The OA must provide the certifier and the DBE written notice describing the reasons for the directive, including any relevant documentation or other information.
 
-(b) *Recipient-initiated proceedings.* If, based on notification by the firm of a change in its circumstances or other information that comes to your attention, you determine that there is reasonable cause to believe that a currently certified firm is ineligible, you must provide written notice to the firm that you propose to find the firm ineligible, setting forth the reasons for the proposed determination. The statement of reasons for the finding of reasonable cause must specifically reference the evidence in the record on which each reason is based.
+(ii) The certifier must immediately commence a proceeding to decertify as provided by paragraph (e) of this section.
 
-(c) *DOT directive to initiate proceeding.* (1) If the concerned operating administration determines that information in your certification records, or other information available to the concerned operating administration, provides reasonable cause to believe that a firm you certified does not meet the eligibility criteria of this part, the concerned operating administration may direct you to initiate a proceeding to remove the firm's certification.
+(3) Any person may file a complaint explaining, with specificity, why the certifier should decertify a DBE. The certifier need not act on a general allegation or an anonymous complaint. The certifier must keep complainants' identities confidential as provided in § 26.109(b).
 
-(2) The concerned operating administration must provide you and the firm a notice setting forth the reasons for the directive, including any relevant documentation or other information.
+(i) The certifier must review its records concerning the DBE, any material the DBE and/or complainant provides, and any other available information. The certifier may request additional information from the DBE or conduct any other investigation that it deems necessary.
 
-(3) You must immediately commence and prosecute a proceeding to remove eligibility as provided by paragraph (b) of this section.
+(ii) If the certifier determines that there is reasonable cause to decertify the DBE, it initiates a decertification proceeding. If it determines that there is not such reasonable cause, it notifies the complainant and the DBE in writing of its decisions and the reasons for it.
 
-(d) *Hearing.* When you notify a firm that there is reasonable cause to remove its eligibility, as provided in paragraph (a), (b), or (c) of this section, you must give the firm an opportunity for an informal hearing, at which the firm may respond to the reasons for the proposal to remove its eligibility in person and provide information and arguments concerning why it should remain certified.
+(c) *Notice of intent (NOI).* A certifier's first step in any decertification proceeding must be to email a notice of intent (NOI) to the DBE.
 
-(1) In such a proceeding, you bear the burden of proving, by a preponderance of the evidence, that the firm does not meet the certification standards of this part.
+(1) The NOI must clearly and succinctly state each reason for the proposed action, and specifically identify the supporting evidence for each reason.
 
-(2) You must maintain a complete record of the hearing, by any means acceptable under state law for the retention of a verbatim record of an administrative hearing. If there is an appeal to DOT under § 26.89, you must provide a transcript of the hearing to DOT and, on request, to the firm. You must retain the original record of the hearing. You may charge the firm only for the cost of copying the record.
+(2) The NOI must notify the DBE of its right to respond in writing, at an informal hearing, or both.
 
-(3) The firm may elect to present information and arguments in writing, without going to a hearing. In such a situation, you bear the same burden of proving, by a preponderance of the evidence, that the firm does not meet the certification standards, as you would during a hearing.
+(3) The NOI must inform the DBE of the hearing scheduled on a date no fewer than 30 days and no more than 45 days from the date of the NOI.
 
-(e) *Separation of functions.* You must ensure that the decision in a proceeding to remove a firm's eligibility is made by an office and personnel that did not take part in actions leading to or seeking to implement the proposal to remove the firm's eligibility and are not subject, with respect to the matter, to direction from the office or personnel who did take part in these actions.
+(4) If the ground for decertification is that the DBE has been suspended or debarred for conduct related to the DBE program, the certifier issues a NOD decertifying the DBE. In this case, there is no NOI or opportunity for a hearing or written response.
 
-(1) Your method of implementing this requirement must be made part of your DBE program.
+(d) *Response to NOI.* (1) If the DBE wants a hearing, it must email the certifier saying so within 10 days of the NOI. If the DBE does not do so, it loses its opportunity for a hearing.
 
-(2) The decisionmaker must be an individual who is knowledgeable about the certification requirements of your DBE program and this part.
+(2) The certifier and DBE may negotiate a different hearing date from that stated in the NOI. Parties must not engage in dilatory tactics.
 
-(3) Before a UCP is operational in its state, a small airport or small transit authority (*i.e.*, an airport or transit authority serving an area with less than 250,000 population) is required to meet this requirement only to the extent feasible.
+(3) If the DBE does not want a hearing, or does not give timely notice to the certifier that it wants one, the DBE may still provide written information and arguments to the certifier rebutting the reasons for decertification stated in the NOI.
 
-(f) *Grounds for decision.* You may base a decision to remove a firm's eligibility only on one or more of the following grounds:
+(e) *Hearings.* (1) The purpose of the hearing is for the certifier to present its case and for the DBE to rebut the certifier's allegations.
 
-(1) Changes in the firm's circumstances since the certification of the firm by the recipient that render the firm unable to meet the eligibility standards of this part;
+(2) The hearing is an informal proceeding with rules set by the hearing officer. The SEDO's attorney, a non-SEDO, or other individuals involved with the DBE may attend the hearing and answer questions related to their own experience or more generally about the DBE's ownership, structure and operations.
 
-(2) Information or evidence not available to you at the time the firm was certified;
+(3) The certifier must maintain a complete record of the hearing, either in writing, video or audio. If the DBE appeals to DOT under § 26.89, the certifier must provide that record to DOT and to the DBE.
 
-(3) Information relevant to eligibility that has been concealed or misrepresented by the firm;
+(f) *Separation of functions.* The certifier must ensure that the decision in a decertification case is made by an individual who did not take part in actions leading to or seeking to implement the proposal to decertify the DBE and is not subject, with respect to the matter, to direction from the office or personnel who did take part in these actions.
 
-(4) A change in the certification standards or requirements of the Department since you certified the firm;
+(1) The certifier's method of implementing this requirement must be made part of its DBE program and approved by the appropriate OA.
 
-(5) Your decision to certify the firm was clearly erroneous;
+(2) The decisionmaker must be an individual who is knowledgeable about the certification requirements of this part.
 
-(6) The firm has failed to cooperate with you (see § 26.109(c));
+(g) *Notice of decision.* The certifier must send the firm a NOD no later than 30 days of the informal hearing and/or receiving written arguments/evidence from the firm in response to the NOI.
 
-(7) The firm has exhibited a pattern of conduct indicating its involvement in attempts to subvert the intent or requirements of the DBE program (see § 26.73(a)(2)); or
+(1) The NOD must describe with particularity the reason(s) for the certifier's decision, including specific references to the evidence in the record that supports each reason. The NOD must also inform the firm of the consequences of the decision under paragraph (i) of this section and of its appeal rights under § 26.89.
 
-(8) The firm has been suspended or debarred for conduct related to the DBE program. The notice required by paragraph (g) of this section must include a copy of the suspension or debarment action. A decision to remove a firm for this reason shall not be subject to the hearing procedures in paragraph (d) of this section.
+(2) The certifier must send copies of the NOD to the complainant in an ineligibility complaint or to the OA that directed the certifier to initiate the proceeding.
 
-(g) *Notice of decision.* Following your decision, you must provide the firm written notice of the decision and the reasons for it, including specific references to the evidence in the record that supports each reason for the decision. The notice must inform the firm of the consequences of your decision and of the availability of an appeal to the Department of Transportation under § 26.89. You must send copies of the notice to the complainant in an ineligibility complaint or the concerned operating administration that had directed you to initiate the proceeding. Provided that, when sending such a notice to a complainant other than a DOT operating administration, you must not include information reasonably construed as confidential business information without the written consent of the firm that submitted the information.
+(3) When sending a copy of an NOD to a complainant other than an OA, the certifier must not include information reasonably construed as confidential business information, unless the certifier has the written consent of the firm that submitted the information.
 
-(h) [Reserved]
+(4) The certifier must make an entry in DOCR's Online Portal within 5 days of the action. The certifier must enter the name of the firm, names(s) of the firm's owner(s), date of decision, and the reason(s) for its decision.
 
-(i) *Status of firm during proceeding.* (1) A firm remains an eligible DBE during the pendancy of your proceeding to remove its eligibility.
+(h) *Status of firm during proceeding.* (1) A DBE remains certified until the certifier issues a NOD.
 
-(2) The firm does not become ineligible until the issuance of the notice provided for in paragraph (g) of this section.
+(2) [Reserved]
 
-(j) *Effects of removal of eligibility.* When you remove a firm's eligibility, you must take the following action:
+(i) [Reserved]
 
-(1) When a prime contractor has made a commitment to using the ineligible firm, or you have made a commitment to using a DBE prime contractor, but a subcontract or contract has not been executed before you issue the decertification notice provided for in paragraph (g) of this section, the ineligible firm does not count toward the contract goal or overall goal. You must direct the prime contractor to meet the contract goal with an eligible DBE firm or demonstrate to you that it has made a good faith effort to do so.
+(j) *Consequences.* Decertification has the following effects on contract and overall goals and DBE participation:
 
-(2) If a prime contractor has executed a subcontract with the firm before you have notified the firm of its ineligibility, the prime contractor may continue to use the firm on the contract and may continue to receive credit toward its DBE goal for the firm's work. In this case, or in a case where you have let a prime contract to the DBE that was later ruled ineligible, the portion of the ineligible firm's performance of the contract remaining after you issued the notice of its ineligibility shall not count toward your overall goal, but may count toward the contract goal.
+(1) When a prime contractor has made a commitment to use the decertified firm, but a subcontract has not been executed before the certifier issues the NOD, the certified firm does not count toward the contract goal. The recipient must direct the prime contractor to meet the contract goal with an eligible DBE or demonstrate the certifier that it has made good faith efforts to do so.
 
-(3) *Exception:* If the DBE's ineligibility is caused solely by its having exceeded the size standard during the performance of the contract, you may continue to count its participation on that contract toward overall and contract goals.
+(2) When the recipient has made a commitment to using a DBE prime contractor, but a contract has not been executed before a decertification notice provided for in paragraph (g) of this section is issued, the decertified firm does not count toward the recipient's overall DBE goal.
 
-(k) *Availability of appeal.* When you make an administratively final removal of a firm's eligibility under this section, the firm may appeal the removal to the Department under § 26.89.
+(3) If a prime contractor has executed a subcontract with the firm before the certifier has notified the firm of its decertification, the prime contractor may continue to use the firm and may continue to receive credit toward the DBE goal for the firm's work. In this case, however, the prime contractor may not extend or add work to the contract after the firm was notified of its decertification without prior written consent from the recipient.
 
-[64 FR 5126, Feb. 2, 1999, as amended at 68 FR 35556, June 16, 2003; 76 FR 5101, Jan. 28, 2011; 79 FR 59599, Oct. 2, 2014]
+(4) If a prime contractor has executed a subcontract with the firm before the certifier has notified the firm of its decertification, the prime contractor may continue to use the firm as set forth in paragraph (j)(3) of this section; however, the portion of the decertified firm's continued performance of the contract must not count toward the recipient's overall goal.
+
+(5) If the recipient executed a prime contract with a DBE that was later decertified, the portion of the decertified firm's performance of the contract remaining after the certifier issued the notice of its decertification must not count toward an overall goal, but the DBE's performance of the contract may continue to count toward satisfying the contract goal.
+
+(6) The following exceptions apply to this paragraph (j):
+
+(i) If a certifier decertifies a firm solely because it exceeds the business size standard during the performance of the contract, the recipient may continue to count the portion of the decertified firm's performance of the contract remaining after it issued the notice of its decertification toward the recipient's overall goal as well as toward the contract goals.
+
+(ii) If the certifier decertifies the DBE because it was acquired by or merged with a non-DBE, the recipient may not continue to count the portion of the decertified firm's performance on the contract remaining after the certifier decertified it toward either the contract goal or the overall goal, even if a prime contractor has executed a subcontract with the firm or the recipient has executed a prime contract with the DBE that was later decertified. In this case, if eliminating the credit of the decertified firm will affect the prime contractor's ability to meet the contract goal, the recipient must direct the prime contractor to subcontract to an eligible DBE to the extent needed to meet the contract goal or demonstrate to the recipient that it has made good faith efforts to do so.
+
+[89 FR 24976, Apr. 9, 2024]

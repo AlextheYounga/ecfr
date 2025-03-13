@@ -1,5 +1,7 @@
 ##### § 84.6 Remedial action, voluntary action, and self-evaluation. #####
 
+Link to an amendment published at 89 FR 40182, May 9, 2024.
+
 (a) *Remedial action.* (1) If the Director finds that a recipient has discriminated against persons on the basis of handicap in violation of section 504 or this part, the recipient shall take such remedial action as the Director deems necessary to overcome the effects of the discrimination.
 
 (2) Where a recipient is found to have discriminated against persons on the basis of handicap in violation of section 504 or this part and where another recipient exercises control over the recipient that has discriminated, the Director, where appropriate, may require either or both recipients to take remedial action.

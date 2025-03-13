@@ -1,5 +1,7 @@
 ##### § 84.32 Location and notification. #####
 
+Link to an amendment published at 89 FR 40187, May 9, 2024.
+
 A recipient that operates a public elementary or secondary education program or activity shall annually:
 
 (a) Undertake to identify and locate every qualified handicapped person residing in the recipient's jurisdiction who is not receiving a public education; and

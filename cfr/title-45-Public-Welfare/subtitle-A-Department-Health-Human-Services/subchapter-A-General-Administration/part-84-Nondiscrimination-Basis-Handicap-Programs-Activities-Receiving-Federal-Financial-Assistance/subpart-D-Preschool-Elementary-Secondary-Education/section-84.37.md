@@ -1,5 +1,7 @@
 ##### § 84.37 Nonacademic services. #####
 
+Link to an amendment published at 89 FR 40187, May 9, 2024.
+
 (a) *General.* (1) A recipient to which this subpart applies shall provide non-academic and extracurricular services and activities in such manner as is necessary to afford handicapped students an equal opportunity for participation in such services and activities.
 
 (2) Nonacademic and extracurricular services and activities may include counseling services, physical recreational athletics, transportation, health services, recreational activities, special interest groups or clubs sponsored by the recipients, referrals to agencies which provide assistance to handicapped persons, and employment of students, including both employment by the recipient and assistance in making available outside employment.

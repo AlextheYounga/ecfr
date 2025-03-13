@@ -1,5 +1,7 @@
 ##### § 84.34 Educational setting. #####
 
+Link to an amendment published at 89 FR 40187, May 9, 2024.
+
 (a) *Academic setting.* A recipient to which this subpart applies shall educate, or shall provide for the education of, each qualified handicapped person in its jurisdiction with persons who are not handicapped to the maximum extent appropriate to the needs of the handicapped person. A recipient shall place a handicapped person in the regular educational environment operated by the recipient unless it is demonstrated by the recipient that the education of the person in the regular environment with the use of supplementary aids and services cannot be achieved satisfactorily. Whenever a recipient places a person in a setting other than the regular educational environment pursuant to this paragraph, it shall take into account the proximity of the alternate setting to the person's home.
 
 (b) *Nonacademic settings.* In providing or arranging for the provision of nonacademic and extracurricular services and activities, including meals, recess periods, and the services and activities set forth in § 84.37(a)(2), a recipient shall ensure that handicapped persons participate with nonhandicapped persons in such activities and services to the maximum extent appropriate to the needs of the handicapped person in question.

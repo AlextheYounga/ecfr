@@ -1,5 +1,7 @@
 ##### § 84.42 Admissions and recruitment. #####
 
+Link to an amendment published at 89 FR 40187, May 9, 2024.
+
 (a) *General.* Qualified handicapped persons may not, on the basis of handicap, be denied admission or be subjected to discrimination in admission or recruitment by a recipient to which this subpart applies.
 
 (b) *Admissions.* In administering its admission policies, a recipient to which this subpart applies:

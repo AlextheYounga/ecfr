@@ -1,5 +1,7 @@
 ##### § 84.3 Definitions. #####
 
+Link to an amendment published at 89 FR 40180, May 9, 2024.
+
 As used in this part, the term:
 
 (a) *The Act* means the Rehabilitation Act of 1973, Pub. L. 93-112, as amended by the Rehabilitation Act Amendments of 1974, Pub. L. 93-516, 29 U.S.C. 794.

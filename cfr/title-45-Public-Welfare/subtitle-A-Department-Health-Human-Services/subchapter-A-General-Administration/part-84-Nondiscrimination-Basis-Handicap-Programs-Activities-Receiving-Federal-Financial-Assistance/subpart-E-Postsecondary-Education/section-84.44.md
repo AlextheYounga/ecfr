@@ -1,5 +1,7 @@
 ##### § 84.44 Academic adjustments. #####
 
+Link to an amendment published at 89 FR 40187, May 9, 2024.
+
 (a) *Academic requirements.* A recipient to which this subpart applies shall make such modifications to its academic requirements as are necessary to ensure that such requirements do not discriminate or have the effect of discriminating, on the basis of handicap, against a qualified handicapped applicant or student. Academic requirements that the recipient can demonstrate are essential to the instruction being pursued by such student or to any directly related licensing requirement will not be regarded as discriminatory within the meaning of this section. Modifications may include changes in the length of time permitted for the completion of degree requirements, substitution of specific courses required for the completion of degree requirements, and adaptation of the manner in which specific courses are conducted.
 
 (b) *Other rules.* A recipient to which this subpart applies may not impose upon handicapped students other rules, such as the prohibition of tape recorders in classrooms or of dog guides in campus buildings, that have the effect of limiting the participation of handicapped students in the recipient's education program or activity.

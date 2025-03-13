@@ -1,5 +1,7 @@
 ##### § 84.22 Existing facilities. #####
 
+Link to an amendment published at 89 FR 40185, May 9, 2024.
+
 (a) *Accessibility.* A recipient shall operate its program or activity so that when each part is viewed in its entirety, it is readily accessible to handicapped persons. This paragraph does not require a recipient to make each of its existing facilities or every part of a facility accessible to and usable by handicapped persons.
 
 (b) *Methods.* A recipient may comply with the requirements of paragraph (a) of this section through such means as redesign of equipment, reassignment of classes or other services to accessible buildings, assignment of aides to beneficiaries, home visits, delivery of health, welfare, or other social services at alternate accessible sites, alteration of existing facilities and construction of new facilities in conformance with the requirements of § 84.23, or any other methods that result in making its program or activity accessible to handicapped persons. A recipient is not required to make structural changes in existing facilities where other methods are effective in achieving compliance with paragraph (a) of this section. In choosing among available methods for meeting the requirement of paragraph (a) of this section, a recipient shall give priority to those methods that serve handicapped persons in the most integrated setting appropriate.

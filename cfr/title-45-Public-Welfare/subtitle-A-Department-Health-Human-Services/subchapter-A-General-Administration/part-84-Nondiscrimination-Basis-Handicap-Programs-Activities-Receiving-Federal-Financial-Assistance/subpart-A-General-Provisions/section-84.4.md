@@ -1,5 +1,7 @@
 ##### § 84.4 Discrimination prohibited. #####
 
+Link to an amendment published at 89 FR 40180, May 9, 2024.
+
 (a) *General.* No qualified handicapped person shall, on the basis of handicap, be excluded from participation in, be denied the benefits of, or otherwise be subjected to discrimination under any program or activity which receives Federal financial assistance.
 
 (b) *Discriminatory actions prohibited.* (1) A recipient, in providing any aid, benefit, or service, may not, directly or through contractual, licensing, or other arrangements, on the basis of handicap:
