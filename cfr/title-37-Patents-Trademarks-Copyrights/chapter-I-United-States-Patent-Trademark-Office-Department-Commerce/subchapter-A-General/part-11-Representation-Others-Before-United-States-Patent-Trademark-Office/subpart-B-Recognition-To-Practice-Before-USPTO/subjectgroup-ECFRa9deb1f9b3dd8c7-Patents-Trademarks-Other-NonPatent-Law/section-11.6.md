@@ -1,5 +1,7 @@
 ##### § 11.6 Registration of attorneys and agents. #####
 
+Link to an amendment published at 88 FR 78650, Nov. 16, 2023.
+
 (a) *Attorneys.* Any citizen of the United States who is an attorney and who fulfills the requirements of this part may be registered as a patent attorney to practice before the Office. When appropriate, any alien who is an attorney, who lawfully resides in the United States, and who fulfills the requirements of this part may be registered as a patent attorney to practice before the Office, provided that such registration is not inconsistent with the terms upon which the alien was admitted to, and resides in, the United States and further provided that the alien may remain registered only:
 
 (1) If the alien continues to lawfully reside in the United States and registration does not become inconsistent with the terms upon which the alien continues to lawfully reside in the United States, or

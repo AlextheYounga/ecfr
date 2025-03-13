@@ -1,5 +1,7 @@
 ##### § 52.1 Definitions. #####
 
+Link to an amendment published at 88 FR 80077, Nov. 16, 2023.
+
 (a) As used in this part—
 
 *Combined license* means a combined construction permit and operating license with conditions for a nuclear power facility issued under subpart C of this part.

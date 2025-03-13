@@ -1,5 +1,7 @@
 ##### § 405.800 Appeals of CMS or a CMS contractor. #####
 
+Link to an amendment published at 88 FR 79523, Nov. 16, 2023.
+
 A CMS contractor's (that is, a carrier, Fiscal Intermediary or Medicare Administrative Contractor (MAC)) determination that a provider or supplier fails to meet the requirements for Medicare billing privileges.
 
 (a) *Denial of a provider or supplier enrollment application.* If CMS or a CMS contractor denies a provider's or supplier's enrollment application, CMS or the CMS contractor notifies the provider or supplier by certified mail. The notice includes the following:

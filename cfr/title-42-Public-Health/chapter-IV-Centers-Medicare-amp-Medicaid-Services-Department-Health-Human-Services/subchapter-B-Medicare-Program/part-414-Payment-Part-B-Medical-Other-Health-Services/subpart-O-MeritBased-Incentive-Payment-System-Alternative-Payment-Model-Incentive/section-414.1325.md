@@ -1,5 +1,7 @@
 ##### § 414.1325 Data submission requirements. #####
 
+Link to an amendment published at 88 FR 79534, Nov. 16, 2023.
+
 (a) *Applicable performance categories.* (1) Except as provided in paragraph (a)(2) of this section or under § 414.1370, as applicable, individual MIPS eligible clinicians and groups must submit data on measures and activities for the quality, improvement activities, and Promoting Interoperability performance categories in accordance with this section. Except for the Medicare Part B claims submission type, the data may also be submitted on behalf of the individual MIPS eligible clinician or group by a third party intermediary described at § 414.1400.
 
 (2) There are no data submission requirements for:

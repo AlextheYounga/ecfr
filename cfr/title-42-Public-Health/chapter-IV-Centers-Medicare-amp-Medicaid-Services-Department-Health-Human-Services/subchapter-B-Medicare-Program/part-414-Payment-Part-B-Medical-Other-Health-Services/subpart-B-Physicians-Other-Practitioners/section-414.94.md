@@ -1,5 +1,7 @@
 ##### § 414.94 Appropriate use criteria for advanced diagnostic imaging services. #####
 
+Link to an amendment published at 88 FR 79531, Nov. 16, 2023.
+
 (a) *Basis and scope*. This section implements the following provisions of the Act:
 
 (1) Section 1834(q)—Recognizing Appropriate Use Criteria for Certain Imaging Services.

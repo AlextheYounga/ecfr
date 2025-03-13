@@ -1,5 +1,7 @@
 ##### § 425.506 Incorporating reporting requirements related to adoption of certified electronic health record technology. #####
 
+Link to an amendment published at 88 FR 79546, Nov. 16, 2023.
+
 (a) ACOs, ACO participants, and ACO providers/suppliers are encouraged to develop a robust EHR infrastructure.
 
 (b) For performance years 2012 through 2018, as part of the quality performance score, the quality measure regarding EHR adoption will be measured based on a sliding scale.

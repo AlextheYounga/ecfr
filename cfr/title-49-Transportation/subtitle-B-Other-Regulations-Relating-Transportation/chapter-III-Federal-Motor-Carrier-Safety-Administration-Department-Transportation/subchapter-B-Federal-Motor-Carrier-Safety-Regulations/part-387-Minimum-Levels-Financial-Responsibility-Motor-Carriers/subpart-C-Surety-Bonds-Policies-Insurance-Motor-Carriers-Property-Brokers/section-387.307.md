@@ -1,5 +1,7 @@
 ##### § 387.307 Property broker surety bond or trust fund. #####
 
+Link to an amendment published at 88 FR 78672, Nov. 16, 2023.Link to an amendment published at 88 FR 78674, Nov. 16, 2023.
+
 (a) *Security.* A broker must have a surety bond or trust fund in effect for $75,000. The FMCSA will not issue a broker license until a surety bond or trust fund for the full limits of liability prescribed herein is in effect. The broker license shall remain valid or effective only as long as a surety bond or trust fund remains in effect and shall ensure the financial responsibility of the broker.
 
 (b) *Evidence of security.* Evidence of a surety bond must be filed using the FMCSA's prescribed Form BMC 84. Evidence of a trust fund with a financial institution must be filed using the FMCSA's prescribed Form BMC 85. The surety bond or the trust fund shall ensure the financial responsibility of the broker by providing for payments to shippers or motor carriers if the broker fails to carry out its contracts, agreements, or arrangements for the supplying of transportation by authorized motor carriers.

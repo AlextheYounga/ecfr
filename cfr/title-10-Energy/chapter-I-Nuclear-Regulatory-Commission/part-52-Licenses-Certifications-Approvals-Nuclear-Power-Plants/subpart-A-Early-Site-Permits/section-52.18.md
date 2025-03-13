@@ -1,5 +1,7 @@
 ##### § 52.18 Standards for review of applications. #####
 
+Link to an amendment published at 88 FR 80078, Nov. 16, 2023.
+
 Applications filed under this subpart will be reviewed according to the applicable standards set out in 10 CFR part 50 and its appendices and 10 CFR part 100. In addition, the Commission shall prepare an environmental impact statement during review of the application, in accordance with the applicable provisions of 10 CFR part 51. The Commission shall determine, after consultation with FEMA, whether the information required of the applicant by § 52.17(b)(1) shows that there is not significant impediment to the development of emergen cy plans that cannot be mitigated or eliminated by measures proposed by the applicant, whether any major features of emergency plans submitted by the applicant under § 52.17(b)(2)(i) are acceptable in accordance with the applicable standards of § 50.47 of this chapter and the requirements of appendix E to part 50 of this chapter, and whether any emergency plans submitted by the applicant under § 52.17(b)(2)(ii) provide reasonable assurance that adequate protective measures can and will be taken in the event of a radiological emergency.
 
 [72 FR 49517, Aug. 28, 2007, as amended at 78 FR 34249, June 7, 2013; 78 FR 75450, Dec. 12, 2013]

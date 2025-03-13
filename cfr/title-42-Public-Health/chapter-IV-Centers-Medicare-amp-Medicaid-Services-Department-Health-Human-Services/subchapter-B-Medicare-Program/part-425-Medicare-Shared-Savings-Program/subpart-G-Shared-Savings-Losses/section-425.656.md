@@ -1,5 +1,7 @@
 ##### § 425.656 Calculating the regional adjustment to the historical benchmark. #####
 
+Link to an amendment published at 88 FR 79550, Nov. 16, 2023.
+
 (a) *General.* This section describes the methodology for calculating the regional adjustment to the historical benchmark based on the ACO's regional service area expenditures, making separate calculations for the following populations of beneficiaries: ESRD, disabled, aged/dual eligible Medicare and Medicaid beneficiaries, and aged/non-dual eligible Medicare and Medicaid beneficiaries. This section applies to regional adjustment calculations for agreement periods beginning on January 1, 2024, and in subsequent years.
 
 (b) *Calculation of an average per capita expenditure amount for the ACO's regional service area.* To compute an average per capita expenditure amount for the ACO's regional service area, CMS does all of the following:

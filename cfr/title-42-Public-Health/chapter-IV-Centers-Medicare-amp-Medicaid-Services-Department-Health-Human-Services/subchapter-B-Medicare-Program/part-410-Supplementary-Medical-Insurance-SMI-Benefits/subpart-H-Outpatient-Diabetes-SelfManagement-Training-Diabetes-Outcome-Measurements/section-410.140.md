@@ -1,5 +1,7 @@
 ##### § 410.140 Definitions. #####
 
+Link to an amendment published at 88 FR 79529, Nov. 16, 2023.
+
 For purposes of this subpart, the following definitions apply:
 
 *ADA* stands for the American Diabetes Association.

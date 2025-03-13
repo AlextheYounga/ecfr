@@ -1,5 +1,7 @@
 ##### § 410.18 Diabetes screening tests. #####
 
+Link to an amendment published at 88 FR 79525, Nov. 16, 2023.
+
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 *Diabetes* means diabetes mellitus, a condition of abnormal glucose metabolism diagnosed using the following criteria: a fasting blood sugar greater than or equal to 126 mg/dL on two different occasions; a 2-hour post-glucose challenge greater than or equal to 200 mg/dL on two different occasions; or a random glucose test over 200 mg/dL for a person with symptoms of uncontrolled diabetes.

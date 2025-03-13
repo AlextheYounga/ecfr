@@ -1,5 +1,7 @@
 ##### § 410.150 To whom payment is made. #####
 
+Link to an amendment published at 88 FR 79529, Nov. 16, 2023.
+
 (a) *General rules.* (1) Any SMI enrollee is, subject to the conditions, limitations, and exclusions set forth in this part and in parts 405, 416 and 424 of this chapter, entitled to have payment made as specified in paragraph (b) of this section.
 
 (2) The services specified in paragraphs (b)(5) through (b)(14) of this section must be furnished by a facility that has in effect a provider agreement or other appropriate agreement to participate in Medicare.

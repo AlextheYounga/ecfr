@@ -1,5 +1,7 @@
 ##### § 41.106 Filing and service. #####
 
+Link to an amendment published at 88 FR 78650, Nov. 16, 2023.
+
 (a) *General format requirements.* (1) The paper used for filings must be durable and white. A party must choose to file on either A4-sized paper or 81/2 inch × 11 inch paper except in the case of exhibits that require a larger size in order to preserve details of the original. A party may not switch between paper sizes in a single proceeding. Only one side of the paper may be used.
 
 (2) In papers, including affidavits, created for the proceeding:

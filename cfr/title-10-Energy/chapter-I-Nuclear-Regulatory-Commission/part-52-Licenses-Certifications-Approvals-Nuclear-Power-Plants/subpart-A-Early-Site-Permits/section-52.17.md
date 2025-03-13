@@ -1,5 +1,7 @@
 ##### § 52.17 Contents of applications; technical information. #####
 
+Link to an amendment published at 88 FR 80078, Nov. 16, 2023.
+
 (a) For applications submitted before September 27, 2007, the rule provisions in effect at the date of docketing apply unless otherwise requested by the applicant in writing. The application must contain:
 
 (1) A site safety analysis report. The site safety analysis report shall include the following:

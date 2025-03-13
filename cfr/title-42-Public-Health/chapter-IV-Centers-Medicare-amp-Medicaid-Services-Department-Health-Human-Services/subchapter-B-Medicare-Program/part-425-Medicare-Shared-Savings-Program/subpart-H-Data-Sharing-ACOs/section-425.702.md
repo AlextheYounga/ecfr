@@ -1,5 +1,7 @@
 ##### § 425.702 Aggregate reports. #####
 
+Link to an amendment published at 88 FR 79551, Nov. 16, 2023.
+
 CMS shares aggregate reports with ACOs as follows:
 
 (a) Aggregate reports are shared at the start of the agreement period based on beneficiary claims data used to calculate the benchmark, and each quarter thereafter during the agreement period.

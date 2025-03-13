@@ -1,5 +1,7 @@
 ##### § 52.79 Contents of applications; technical information in final safety analysis report. #####
 
+Link to an amendment published at 88 FR 80078, Nov. 16, 2023.
+
 (a) The application must contain a final safety analysis report that describes the facility, presents the design bases and the limits on its operation, and presents a safety analysis of the structures, systems, and components of the facility as a whole. The final safety analysis report shall include the following information, at a level of information sufficient to enable the Commission to reach a final conclusion on all safety matters that must be resolved by the Commission before issuance of a combined license:
 
 (1)(i) The boundaries of the site;

@@ -1,5 +1,7 @@
 ##### § 414.940 Refund for certain discarded single-dose container or single-use package drugs. #####
 
+Link to an amendment published at 88 FR 79532, Nov. 16, 2023.
+
 (a) *Provision of information to manufacturers*—(1) *In general.* For each calendar quarter beginning on or after January 1, 2023, CMS reports to each manufacturer (as defined in § 414.802) of a refundable single-dose container or single-use package drug the following for the calendar quarter:
 
 (i) Information on the total number of billing units of the billing and payment code of such drug, if any, that were discarded during such quarter, as determined by the JW modifier (or any successor modifier that includes the same data).

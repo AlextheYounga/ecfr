@@ -1,5 +1,7 @@
 ##### § 410.57 Preventive vaccines. #####
 
+Link to an amendment published at 88 FR 79527, Nov. 16, 2023.
+
 (a) Medicare Part B pays for the pneumococcal vaccine and its administration.
 
 (b) Medicare Part B pays for the influenza virus vaccine and its administration.

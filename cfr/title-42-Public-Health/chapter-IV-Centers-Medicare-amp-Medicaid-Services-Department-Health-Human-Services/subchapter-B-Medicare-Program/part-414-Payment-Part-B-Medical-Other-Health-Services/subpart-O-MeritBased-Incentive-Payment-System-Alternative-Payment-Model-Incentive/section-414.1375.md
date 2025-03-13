@@ -1,5 +1,7 @@
 ##### § 414.1375 Promoting Interoperability (PI) performance category. #####
 
+Link to an amendment published at 88 FR 79535, Nov. 16, 2023.
+
 (a) *Final score.* Unless a different scoring weight is assigned by CMS under sections 1848(o)(2)(D), 1848(q)(5)(E)(ii), or 1848(q)(5)(F) of the Act, performance in the Promoting Interoperability performance category comprises 25 percent of a MIPS eligible clinician's final score for each MIPS payment year.
 
 (b) *Reporting for the Promoting Interoperability performance category.* To earn a performance category score for the Promoting Interoperability performance category for inclusion in the final score, a MIPS eligible clinician must:

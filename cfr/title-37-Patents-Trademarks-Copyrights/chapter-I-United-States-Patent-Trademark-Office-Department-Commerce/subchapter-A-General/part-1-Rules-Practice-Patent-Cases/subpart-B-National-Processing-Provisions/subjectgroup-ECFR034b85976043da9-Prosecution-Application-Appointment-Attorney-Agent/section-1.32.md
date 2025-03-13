@@ -1,5 +1,7 @@
 ##### § 1.32 Power of attorney. #####
 
+Link to an amendment published at 88 FR 78649, Nov. 16, 2023.
+
 (a) *Definitions.* (1) *Patent practitioner* means a registered patent attorney or registered patent agent under § 11.6.
 
 (2) *Power of attorney* means a written document by which a principal authorizes one or more patent practitioners or joint inventors to act on the principal's behalf.

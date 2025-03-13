@@ -1,5 +1,7 @@
 ##### § 600.170 Annual report content and timing. #####
 
+Link to an amendment published at 88 FR 79555, Nov. 16, 2023.
+
 (a) *Content.* The State must submit an annual report that includes any evidence of fraud, waste, or abuse on the part of participating providers, plans, or the State BHP agency known to the State, and a detailed data-driven review of compliance with the following:
 
 (1) Eligibility verification requirements for program participation as specified in § 600.345.

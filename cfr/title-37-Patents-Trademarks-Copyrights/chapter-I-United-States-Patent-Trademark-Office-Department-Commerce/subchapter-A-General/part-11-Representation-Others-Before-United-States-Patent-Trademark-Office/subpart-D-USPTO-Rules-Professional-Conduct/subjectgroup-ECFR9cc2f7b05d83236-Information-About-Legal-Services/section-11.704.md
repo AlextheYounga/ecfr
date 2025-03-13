@@ -1,5 +1,7 @@
 ##### § 11.704 Communication of fields of practice and specialization. #####
 
+Link to an amendment published at 88 FR 78650, Nov. 16, 2023.
+
 (a) A practitioner may communicate the fact that the practitioner does or does not practice in particular fields of law.
 
 (b) A registered practitioner who is an attorney may use the designation “Patents,” “Patent Attorney,” “Patent Lawyer,” “Registered Patent Attorney,” or a substantially similar designation. A registered practitioner who is not an attorney may use the designation “Patents,” “Patent Agent,” “Registered Patent Agent,” or a substantially similar designation. Unless authorized by § 11.14(b), a registered patent agent shall not hold himself or herself out as being qualified or authorized to practice before the Office in trademark matters or before a court.

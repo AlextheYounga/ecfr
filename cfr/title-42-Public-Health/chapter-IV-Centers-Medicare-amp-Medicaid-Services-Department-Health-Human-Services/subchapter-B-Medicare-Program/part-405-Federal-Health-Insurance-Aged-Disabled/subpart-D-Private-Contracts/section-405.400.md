@@ -1,5 +1,7 @@
 ##### § 405.400 Definitions. #####
 
+Link to an amendment published at 88 FR 79523, Nov. 16, 2023.
+
 For purposes of this subpart, the following definitions apply:
 
 *Beneficiary* means an individual who is enrolled in Part B of Medicare.

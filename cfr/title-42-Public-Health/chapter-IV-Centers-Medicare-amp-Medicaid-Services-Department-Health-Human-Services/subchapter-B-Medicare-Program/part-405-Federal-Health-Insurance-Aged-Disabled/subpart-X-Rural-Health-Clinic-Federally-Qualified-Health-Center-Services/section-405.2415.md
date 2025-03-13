@@ -1,5 +1,7 @@
 ##### § 405.2415 Incident to services and direct supervision. #####
 
+Link to an amendment published at 88 FR 79523, Nov. 16, 2023.
+
 (a) Services and supplies incident to a nurse practitioner, physician assistant, certified nurse midwife, clinical psychologist, or clinical social worker service are payable under this subpart if the service or supply is all of the following:
 
 (1) Of a type commonly furnished in physicians' offices.

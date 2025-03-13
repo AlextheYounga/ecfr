@@ -1,6 +1,6 @@
 ##### § 424.502 Definitions. #####
 
-Link to an amendment published at 88 FR 77877, Nov. 13, 2023.
+Link to an amendment published at 88 FR 77877, Nov. 13, 2023.Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
 
 As used in this subpart, unless the context indicates otherwise—
 

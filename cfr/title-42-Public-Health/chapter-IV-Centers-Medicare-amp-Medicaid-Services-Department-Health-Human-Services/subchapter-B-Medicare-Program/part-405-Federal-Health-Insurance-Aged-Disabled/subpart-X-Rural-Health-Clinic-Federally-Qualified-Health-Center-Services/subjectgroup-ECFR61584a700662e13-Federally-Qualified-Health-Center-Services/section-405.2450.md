@@ -1,5 +1,7 @@
 ##### § 405.2450 Clinical psychologist and clinical social worker services. #####
 
+Link to an amendment published at 88 FR 79524, Nov. 16, 2023.
+
 (a) For clinical psychologist or clinical social worker professional services to be payable under this subpart, the services must be—
 
 (1) Furnished by an individual who owns, is employed by, or furnishes services under contract to the FQHC;

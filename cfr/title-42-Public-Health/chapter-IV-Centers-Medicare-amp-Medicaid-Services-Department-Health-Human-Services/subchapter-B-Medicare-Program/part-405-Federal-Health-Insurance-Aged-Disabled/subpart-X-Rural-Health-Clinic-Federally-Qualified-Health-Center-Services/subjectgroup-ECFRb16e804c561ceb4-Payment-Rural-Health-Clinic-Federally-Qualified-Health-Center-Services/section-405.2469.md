@@ -1,5 +1,7 @@
 ##### § 405.2469 FQHC supplemental payments. #####
 
+Link to an amendment published at 88 FR 79525, Nov. 16, 2023.
+
 (a) *Eligibility for supplemental payments.* FQHCs under contract (directly or indirectly) with MA organizations are eligible for supplemental payments for FQHC services furnished to enrollees in MA plans offered by the MA organization to cover the difference, if any, between their payments from the MA plan and what they would receive under one of the following:
 
 (1) The PPS rate if the FQHC is authorized to bill under the PPS; or

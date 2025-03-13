@@ -1,5 +1,7 @@
 ##### § 424.555 Payment liability. #####
 
+Link to an amendment published at 88 FR 79543, Nov. 16, 2023.
+
 (a) No payment may be made for otherwise Medicare covered items or services furnished to a Medicare beneficiary by suppliers of durable medical equipment, prosthetics, orthotics, and other supplies unless the supplier obtains (and renews, as set forth in section 1834(j) of the Act) Medicare billing privileges.
 
 (b) No payment may be made for otherwise Medicare covered items or services furnished to a Medicare beneficiary by a provider or supplier if the billing privileges of the provider or supplier are deactivated, denied, or revoked. The Medicare beneficiary has no financial responsibility for expenses, and the provider or supplier must refund on a timely basis to the Medicare beneficiary any amounts collected from the Medicare beneficiary for these otherwise Medicare covered items or services.

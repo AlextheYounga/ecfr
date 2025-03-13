@@ -1,5 +1,7 @@
 ##### § 491.8 Staffing and staff responsibilities. #####
 
+Link to an amendment published at 88 FR 79553, Nov. 16, 2023.
+
 (a) *Staffing.* (1) The clinic or center has a health care staff that includes one or more physicians. Rural health clinic staffs must also include one or more physician's assistants or nurse practitioners.
 
 (2) The physician member of the staff may be the owner of the rural health clinic, an employee of the clinic or center, or under agreement with the clinic or center to carry out the responsibilities required under this section.

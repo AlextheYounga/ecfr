@@ -1,5 +1,7 @@
 ##### § 414.507 Payment for clinical diagnostic laboratory tests. #####
 
+Link to an amendment published at 88 FR 79531, Nov. 16, 2023.
+
 (a) *General rule.* Except as provided in paragraph (d) of this section, and §§ 414.508 and 414.522, the payment rate for a CDLT furnished on or after January 1, 2018, is equal to the weighted median for the test, as calculated under paragraph (b) of this section. Each payment rate will be in effect for a period of one calendar year for ADLTs and three calendar years for all other CDLTs, until the year following the next data collection period.
 
 (b) *Methodology.* For each test under paragraph (a) of this section for which applicable information is reported, the weighted median is calculated by arraying the distribution of all private payor rates, weighted by the volume for each payor and each laboratory.

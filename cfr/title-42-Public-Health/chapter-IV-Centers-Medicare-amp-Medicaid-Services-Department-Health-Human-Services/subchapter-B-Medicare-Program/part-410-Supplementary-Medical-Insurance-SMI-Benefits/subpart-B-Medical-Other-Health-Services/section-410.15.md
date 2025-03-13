@@ -1,5 +1,7 @@
 ##### § 410.15 Annual wellness visits providing Personalized Prevention Plan Services: Conditions for and limitations on coverage. #####
 
+Link to an amendment published at 88 FR 79525, Nov. 16, 2023.
+
 (a) *Definitions.* For purposes of this section—
 
 *A review of any current opioid prescriptions* means, with respect to the individual determined to have a current prescription for opioids, all of the following:

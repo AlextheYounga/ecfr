@@ -1,5 +1,7 @@
 ##### § 455.416 Termination or denial of enrollment. #####
 
+Link to an amendment published at 88 FR 79552, Nov. 16, 2023.
+
 The State Medicaid agency—
 
 (a) Must terminate the enrollment of any provider where any person with a 5 percent or greater direct or indirect ownership interest in the provider did not submit timely and accurate information and cooperate with any screening methods required under this subpart.

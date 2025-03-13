@@ -1,5 +1,7 @@
 ##### § 405.2448 Preventive primary services. #####
 
+Link to an amendment published at 88 FR 79524, Nov. 16, 2023.
+
 (a) Preventive primary services are those health services that—
 
 (1) A FQHC is required to provide as preventive primary health services under section 330 of the PHS Act; and

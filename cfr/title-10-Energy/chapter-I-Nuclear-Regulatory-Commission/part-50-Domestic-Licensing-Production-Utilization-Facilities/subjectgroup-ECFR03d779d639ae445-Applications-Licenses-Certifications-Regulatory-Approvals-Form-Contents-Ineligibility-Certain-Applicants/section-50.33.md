@@ -1,5 +1,7 @@
 ##### § 50.33 Contents of applications; general information. #####
 
+Link to an amendment published at 88 FR 80074, Nov. 16, 2023.
+
 Each application shall state:
 
 (a) Name of applicant;

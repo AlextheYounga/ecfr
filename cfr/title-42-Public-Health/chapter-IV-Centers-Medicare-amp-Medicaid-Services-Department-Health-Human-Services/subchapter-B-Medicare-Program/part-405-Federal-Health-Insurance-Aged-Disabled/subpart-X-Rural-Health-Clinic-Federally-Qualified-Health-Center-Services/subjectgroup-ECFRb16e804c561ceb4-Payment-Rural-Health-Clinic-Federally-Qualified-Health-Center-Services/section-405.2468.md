@@ -1,5 +1,7 @@
 ##### § 405.2468 Allowable costs. #####
 
+Link to an amendment published at 88 FR 79525, Nov. 16, 2023.
+
 (a) *Applicability of general Medicare principles.* In determining whether and to what extent a specific type or item of cost is allowable, such as interest, depreciation, bad debts and owner compensation, the MAC applies the principles for reimbursement of provider costs, as set forth in part 413 of this subchapter.
 
 (b) *Typical RHC and FQHC costs.* The following types and items of cost are included in allowable costs to the extent that they are covered and reasonable:

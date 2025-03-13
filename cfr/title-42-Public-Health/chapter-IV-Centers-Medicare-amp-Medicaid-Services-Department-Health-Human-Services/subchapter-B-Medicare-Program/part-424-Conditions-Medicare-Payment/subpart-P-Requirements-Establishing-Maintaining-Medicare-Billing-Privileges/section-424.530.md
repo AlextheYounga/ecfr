@@ -1,6 +1,6 @@
 ##### § 424.530 Denial of enrollment in the Medicare program. #####
 
-Link to an amendment published at 88 FR 77878, Nov. 13, 2023.
+Link to an amendment published at 88 FR 77878, Nov. 13, 2023.Link to an amendment published at 88 FR 79541, Nov. 16, 2023.
 
 (a) *Reasons for denial.* CMS may deny a provider's or supplier's enrollment in the Medicare program for the following reasons:
 

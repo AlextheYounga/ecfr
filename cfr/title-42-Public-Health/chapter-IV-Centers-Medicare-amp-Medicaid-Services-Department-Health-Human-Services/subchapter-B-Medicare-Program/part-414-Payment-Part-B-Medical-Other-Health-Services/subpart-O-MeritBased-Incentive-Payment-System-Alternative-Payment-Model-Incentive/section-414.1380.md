@@ -1,5 +1,7 @@
 ##### § 414.1380 Scoring. #####
 
+Link to an amendment published at 88 FR 79535, Nov. 16, 2023.
+
 (a) *General.* MIPS eligible clinicians are scored under MIPS based on their performance on measures and activities in four performance categories. MIPS eligible clinicians are scored against performance standards for each performance category and receive a final score, composed of their performance category scores, and calculated according to the final score methodology.
 
 (1) *Performance standards.* (i) For the quality performance category, measures are scored between zero and 10 measure achievement points. Performance is measured against benchmarks. Measure bonus points are available for submitting high-priority measures, submitting measures using end-to-end electronic reporting, and in small practices that submit data on at least 1 quality measure. Beginning with the 2020 MIPS payment year, improvement scoring is available in the quality performance category.
@@ -438,7 +440,7 @@ Table 8 to Paragraph (c)(2)(ii)(G)
 
 (3) [Reserved]
 
-(4) *Data submission for facility-based measurement.* There are no data submission requirements for a MIPS eligible individual clinician to be scored under facility-based measurement. A MIPS eligible group must submit data in the improvement activities or Promoting Interoperability performance categories in order toto be scored as a facility-based MIPS eligible group.
+(4) *Data submission for facility-based measurement.* There are no data submission requirements for a MIPS eligible individual clinician to be scored under facility-based measurement. A MIPS eligible group must submit data in the improvement activities or Promoting Interoperability performance categories in order to be scored as a facility-based MIPS eligible group.
 
 (5) *Determination of applicable facility score.*
 

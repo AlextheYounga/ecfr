@@ -1,5 +1,7 @@
 ##### § 489.30 Allowable charges: Deductibles and coinsurance. #####
 
+Link to an amendment published at 88 FR 79552, Nov. 16, 2023.
+
 (a) *Part A deductible and coinsurance.* The provider may charge the beneficiary or other person on his or her behalf:
 
 (1) The amount of the inpatient hospital deductible or, if less, the actual charges for the services;

@@ -1,5 +1,7 @@
 ##### § 423.160 Standards for electronic prescribing. #####
 
+Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
+
 (a) *General rules.* (1) Part D sponsors must establish and maintain an electronic prescription drug program that complies with the applicable standards in paragraph (b) of this section when transmitting, directly or through an intermediary, prescriptions and prescription-related information using electronic media for covered Part D drugs for Part D eligible individuals.
 
 (2) Except as provided in paragraph (a)(3) of this section, prescribers and dispensers that transmit, directly or through an intermediary, prescriptions and prescription-related information using electronic media must comply with the applicable standards in paragraph (b) of this section when e-prescribing for covered Part D drugs for Part D eligible individuals.

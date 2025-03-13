@@ -1,5 +1,7 @@
 ##### § 414.1385 Targeted review and review limitations. #####
 
+Link to an amendment published at 88 FR 79536, Nov. 16, 2023.
+
 (a) *Targeted review.* A MIPS eligible clinician or group may request a targeted review of the calculation of the MIPS payment adjustment factor under section 1848(q)(6)(A) of the Act and, as applicable, the calculation of the additional MIPS payment adjustment factor under section 1848(q)(6)(C) of the Act (collectively referred to as the MIPS payment adjustment factors) applicable to such MIPS eligible clinician or group for a year. The process for targeted review is as follows:
 
 (1) A MIPS eligible clinician or group (including their designated support staff), or a third party intermediary as defined at § 414.1305, may submit a request for a targeted review.

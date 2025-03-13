@@ -1,5 +1,7 @@
 ##### § 414.1365 MIPS Value Pathways. #####
 
+Link to an amendment published at 88 FR 79535, Nov. 16, 2023.
+
 (a) *General.* (1) Beginning with the CY 2023 MIPS performance period/2025 MIPS payment year, CMS uses MVPs included in the MIPS final inventory of MVPs established by CMS through rulemaking to assess performance for the quality, cost, improvement activities, and Promoting Interoperability performance categories.
 
 (2) [Reserved]

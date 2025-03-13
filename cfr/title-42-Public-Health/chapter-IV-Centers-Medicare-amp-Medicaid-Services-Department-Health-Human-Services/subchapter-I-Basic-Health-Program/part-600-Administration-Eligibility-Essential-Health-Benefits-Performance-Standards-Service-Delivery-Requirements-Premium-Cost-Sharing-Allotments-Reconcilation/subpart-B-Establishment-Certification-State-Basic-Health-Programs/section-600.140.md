@@ -1,5 +1,7 @@
 ##### § 600.140 State termination of a BHP. #####
 
+Link to an amendment published at 88 FR 79554, Nov. 16, 2023.
+
 (a) If a State decides to terminate its BHP, the State must complete all of the following prior to the effective date of the termination or the indicated dates:
 
 (1) Submit written notice to the Secretary no later than 120 days prior to the proposed termination date accompanied by a proposed transition plan that describes procedures to assist consumers with transitioning to other insurance affordability programs.

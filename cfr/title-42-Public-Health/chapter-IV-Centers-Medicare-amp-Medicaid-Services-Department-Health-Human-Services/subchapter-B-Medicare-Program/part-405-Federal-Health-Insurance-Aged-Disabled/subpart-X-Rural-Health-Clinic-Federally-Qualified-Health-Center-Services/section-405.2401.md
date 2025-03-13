@@ -1,5 +1,7 @@
 ##### § 405.2401 Scope and definitions. #####
 
+Link to an amendment published at 88 FR 79523, Nov. 16, 2023.
+
 (a) *Scope.* This subpart establishes the requirements for coverage and reimbursement of rural health clinic and Federally qualified health center services under Medicare.
 
 (b) *Definitions.* As used in this subpart, unless the context indicates otherwise:

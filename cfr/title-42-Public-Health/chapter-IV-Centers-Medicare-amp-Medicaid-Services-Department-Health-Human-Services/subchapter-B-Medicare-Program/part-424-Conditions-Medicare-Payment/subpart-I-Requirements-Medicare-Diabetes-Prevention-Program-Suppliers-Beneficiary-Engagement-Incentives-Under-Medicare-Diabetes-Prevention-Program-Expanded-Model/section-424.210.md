@@ -1,5 +1,7 @@
 ##### § 424.210 Beneficiary engagement incentives under the Medicare Diabetes Prevention Program expanded model. #####
 
+Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
+
 (a) *Definitions.* In addition to the definitions specified at § 410.79(b) and § 424.205(a) of this chapter, the following definition applies to this section:
 
 *Engagement incentive period* means the period of time during which an MDPP supplier may furnish in-kind beneficiary engagement incentives to a given MDPP beneficiary to whom the MDPP supplier is furnishing MDPP services. This period begins when an MDPP supplier furnishes any MDPP service to an MDPP eligible beneficiary and ends when one of the following occurs, whichever occurs first:

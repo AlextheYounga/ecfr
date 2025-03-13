@@ -1,5 +1,7 @@
 ##### § 600.145 State program administration and operation. #####
 
+Link to an amendment published at 88 FR 79555, Nov. 16, 2023.
+
 (a) *Program operation.* The State must implement its BHP in accordance with the approved and fully certified State BHP Blueprint, any approved modifications to the State BHP Blueprint and the requirements of this chapter and applicable law.
 
 (b) *Eligibility.* All persons have a right to apply for a determination of eligibility and, if eligible, to be enrolled into coverage that conforms to the regulations in this part.

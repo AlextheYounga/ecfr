@@ -1,5 +1,7 @@
 ##### § 72.32 Emergency Plan. #####
 
+Link to an amendment published at 88 FR 80078, Nov. 16, 2023.
+
 (a) Each application for an ISFSI that is licensed under this part which is: Not located on the site of a nuclear power reactor, or not located within the exclusion area as defined in 10 CFR part 100 of a nuclear power reactor, or located on the site of a nuclear power reactor which does not have an operating license, or located on the site of a nuclear power reactor that is not authorized to operate must be accompanied by an Emergency Plan that includes the following information:
 
 (1) *Facility description.* A brief description of the licensee's facility and area near the site.

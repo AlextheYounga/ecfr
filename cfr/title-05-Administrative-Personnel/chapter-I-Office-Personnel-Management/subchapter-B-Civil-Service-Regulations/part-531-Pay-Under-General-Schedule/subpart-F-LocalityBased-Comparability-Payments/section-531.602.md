@@ -1,5 +1,7 @@
 ##### § 531.602 Definitions. #####
 
+Link to an amendment published at 88 FR 78634, Nov. 16, 2023.
+
 In this subpart:
 
 *CSA* means the geographic scope of a Combined Statistical Area, as defined by the Office of Management and Budget (OMB) in OMB Bulletin No. 18-03.

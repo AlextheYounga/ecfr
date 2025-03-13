@@ -1,5 +1,7 @@
 ##### § 405.2452 Services and supplies incident to clinical psychologist and clinical social worker services. #####
 
+Link to an amendment published at 88 FR 79524, Nov. 16, 2023.
+
 (a) Services and supplies incident to a clinical psychologist's or clinical social worker's services are reimbursable under this subpart if the service or supply is—
 
 (1) Of a type commonly furnished in a physician's office;

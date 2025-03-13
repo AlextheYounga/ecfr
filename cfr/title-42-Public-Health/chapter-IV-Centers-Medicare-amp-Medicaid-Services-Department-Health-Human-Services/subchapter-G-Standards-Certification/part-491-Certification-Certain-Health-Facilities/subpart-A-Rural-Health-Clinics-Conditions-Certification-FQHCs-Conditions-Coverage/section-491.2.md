@@ -1,5 +1,7 @@
 ##### § 491.2 Definitions. #####
 
+Link to an amendment published at 88 FR 79552, Nov. 16, 2023.
+
 As used in this subpart, unless the context indicates otherwise:
 
 *Direct services* means services provided by the clinic's staff.

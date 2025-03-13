@@ -1,5 +1,7 @@
 ##### § 425.658 Calculating the prior savings adjustment to the historical benchmark. #####
 
+Link to an amendment published at 88 FR 79551, Nov. 16, 2023.
+
 (a) *General.* For agreement periods beginning on January 1, 2024, and in subsequent years, CMS calculates an adjustment to the historical benchmark to account for savings generated in the 3 years prior to the start of the ACO's current agreement period for renewing or re-entering ACOs that were reconciled for one or more performance years in the Shared Savings Program during this period.
 
 (b) *Calculate average per capita savings amount.* (1) Calculate total per capita savings or losses for each performance year during the 3 years prior to the start of the ACO's current agreement period. CMS applies the following requirements in determining the amount of per capita savings or losses for each performance year:

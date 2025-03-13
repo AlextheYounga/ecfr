@@ -1,5 +1,7 @@
 ##### § 418.56 Condition of participation: Interdisciplinary group, care planning, and coordination of services. #####
 
+Link to an amendment published at 88 FR 79539, Nov. 16, 2023.
+
 The hospice must designate an interdisciplinary group or groups as specified in paragraph (a) of this section which, in consultation with the patient's attending physician, must prepare a written plan of care for each patient. The plan of care must specify the hospice care and services necessary to meet the patient and family-specific needs identified in the comprehensive assessment as such needs relate to the terminal illness and related conditions.
 
 (a) *Standard: Approach to service delivery.* (1) The hospice must designate an interdisciplinary group or groups composed of individuals who work together to meet the physical, medical, psychosocial, emotional, and spiritual needs of the hospice patients and families facing terminal illness and bereavement. Interdisciplinary group members must provide the care and services offered by the hospice, and the group, in its entirety, must supervise the care and services. The hospice must designate a registered nurse that is a member of the interdisciplinary group to provide coordination of care and to ensure continuous assessment of each patient's and family's needs and implementation of the interdisciplinary plan of care. The interdisciplinary group must include, but is not limited to, individuals who are qualified and competent to practice in the following professional roles:

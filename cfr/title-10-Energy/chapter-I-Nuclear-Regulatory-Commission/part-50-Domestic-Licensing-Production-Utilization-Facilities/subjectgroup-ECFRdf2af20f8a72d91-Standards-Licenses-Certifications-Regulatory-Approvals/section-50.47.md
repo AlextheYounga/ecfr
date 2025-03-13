@@ -1,5 +1,7 @@
 ##### § 50.47 Emergency plans. #####
 
+Link to an amendment published at 88 FR 80075, Nov. 16, 2023.
+
 (a)(1)(i) Except as provided in paragraph (d) of this section, no initial operating license for a nuclear power reactor will be issued unless a finding is made by the NRC that there is reasonable assurance that adequate protective measures can and will be taken in the event of a radiological emergency. No finding under this section is necessary for issuance of a renewed nuclear power reactor operating license.
 
 (ii) No initial combined license under part 52 of this chapter will be issued unless a finding is made by the NRC that there is reasonable assurance that adequate protective measures can and will be taken in the event of a radiological emergency. No finding under this section is necessary for issuance of a renewed combined license.

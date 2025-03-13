@@ -1,5 +1,7 @@
 ##### § 425.106 Shared governance. #####
 
+Link to an amendment published at 88 FR 79544, Nov. 16, 2023.
+
 (a) *General rule.* (1) An ACO must maintain an identifiable governing body with ultimate authority to execute the functions of an ACO as defined under this part, including but not limited to, the processes defined under § 425.112 to promote evidence-based medicine and patient engagement, to report on quality and cost measures, and to coordinate care.
 
 (2) The governing body of the ACO must satisfy all of the following criteria:

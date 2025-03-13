@@ -1,5 +1,7 @@
 ##### § 11.16 Requirements for admission to the USPTO Law School Clinic Certification Program. #####
 
+Link to an amendment published at 88 FR 78650, Nov. 16, 2023.
+
 (a) The USPTO Law School Clinic Certification Program allows students enrolled in a participating law school's clinic to practice before the Office in patent or trademark matters by drafting, filing, and prosecuting patent or trademark applications on a *pro bono* basis for clients that qualify for assistance from the law school's clinic. All law schools accredited by the American Bar Association are eligible for participation in the program, and shall be examined for acceptance using identical criteria.
 
 (b) *Application for admission and renewal*—(1) *Application for admission.* Non-participating law schools seeking admission to the USPTO Law School Clinic Certification Program, and participating law schools seeking to add a practice area, shall submit an application for admission for such practice area to OED in accordance with criteria and time periods set forth by the OED Director.
