@@ -1,5 +1,7 @@
 ##### § 310.6 Exemptions. #####
 
+Link to an amendment published at 89 FR 26785, Apr. 16, 2024.
+
 (a) Solicitations to induce charitable contributions via outbound telephone calls are not covered by § 310.4(b)(1)(iii)(B) of this Rule.
 
 (b) The following acts or practices are exempt from this Rule:

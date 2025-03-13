@@ -1,7 +1,5 @@
 ##### § 21.31 Type design. #####
 
-Link to an amendment published at 89 FR 12653, Feb. 16, 2024.
-
 The type design consists of—
 
 (a) The drawings and specifications, and a listing of those drawings and specifications, necessary to define the configuration and the design features of the product shown to comply with the requirements of that part of this subchapter applicable to the product;
@@ -12,6 +10,6 @@ The type design consists of—
 
 (d) For primary category aircraft, if desired, a special inspection and preventive maintenance program designed to be accomplished by an appropriately rated and trained pilot-owner.
 
-(e) Any other data necessary to allow, by comparison, the determination of the airworthiness, noise characteristics, fuel venting, and exhaust emissions (where applicable) of later products of the same type.
+(e) Any other data necessary to allow, by comparison, the determination of the airworthiness, noise characteristics, fuel efficiency, fuel venting, and exhaust emissions (where applicable) of later products of the same type.
 
-[Doc. No. 5085, 29 FR 14564, Oct. 24, 1964, as amended by Amdt. 21-27, 34 FR 18363, Nov. 18, 1969; Amdt. 21-51, 45 FR 60170, Sept. 11, 1980; Amdt. 21-60, 52 FR 8042, Mar. 13, 1987; Amdt. 21-68, 55 FR 32860, Aug. 10, 1990; Amdt. 21-70, 57 FR 41368, Sept. 9, 1992; Amdt. 21-90, 72 FR 63404, Nov. 8, 2007]
+[Doc. No. 5085, 29 FR 14564, Oct. 24, 1964, as amended by Amdt. 21-27, 34 FR 18363, Nov. 18, 1969; Amdt. 21-51, 45 FR 60170, Sept. 11, 1980; Amdt. 21-60, 52 FR 8042, Mar. 13, 1987; Amdt. 21-68, 55 FR 32860, Aug. 10, 1990; Amdt. 21-70, 57 FR 41368, Sept. 9, 1992; Amdt. 21-90, 72 FR 63404, Nov. 8, 2007; Amdt. No. 21-107, 89 FR 12653, Feb. 16, 2024]

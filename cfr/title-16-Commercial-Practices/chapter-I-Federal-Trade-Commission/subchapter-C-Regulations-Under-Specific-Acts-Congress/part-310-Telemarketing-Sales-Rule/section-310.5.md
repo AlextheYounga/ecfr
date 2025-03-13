@@ -1,5 +1,7 @@
 ##### § 310.5 Recordkeeping requirements. #####
 
+Link to an amendment published at 89 FR 26784, Apr. 16, 2024.
+
 (a) Any seller or telemarketer shall keep, for a period of 24 months from the date the record is produced, the following records relating to its telemarketing activities:
 
 (1) All substantially different advertising, brochures, telemarketing scripts, and promotional materials;

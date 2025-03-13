@@ -1,5 +1,7 @@
 ##### § 1204.504 Delegation of authority to grant leaseholds, permits, and licenses in real property. #####
 
+Link to an amendment published at 89 FR 26759, Apr. 16, 2024.
+
 (a) *Delegation of authority.* The National Aeronautics and Space Act of 1958, as amended, authorizes NASA to grant leaseholds, permits, and licenses in real property. This authority is delegated to the Assistant Administrator for Strategic Infrastructure and the Director, Facilities Engineering and Real Property Division.
 
 (b) *Definition. Real Property* means land, buildings, other structures and improvements, appurtenances, and fixtures located thereon.

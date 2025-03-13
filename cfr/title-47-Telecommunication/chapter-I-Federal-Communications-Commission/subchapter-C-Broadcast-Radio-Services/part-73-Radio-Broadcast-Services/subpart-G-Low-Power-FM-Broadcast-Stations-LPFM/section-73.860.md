@@ -1,5 +1,7 @@
 ##### § 73.860 Cross-ownership. #####
 
+Link to an amendment published at 89 FR 26792, Apr. 16, 2024.
+
 (a) Except as provided in paragraphs (b), (c) and (d) of this section, no license shall be granted to any party if the grant of such authorization will result in the same party holding an attributable interest in any other non-LPFM broadcast station, including any FM translator or low power television station, or any other media subject to our broadcast ownership restrictions.
 
 (b) A party that is not a Tribal Applicant, as defined in § 73.853(c), may hold attributable interests in one LPFM station and no more than two FM translator stations, two FM booster stations, or one FM translator station and one FM booster station provided that the following requirements are met:

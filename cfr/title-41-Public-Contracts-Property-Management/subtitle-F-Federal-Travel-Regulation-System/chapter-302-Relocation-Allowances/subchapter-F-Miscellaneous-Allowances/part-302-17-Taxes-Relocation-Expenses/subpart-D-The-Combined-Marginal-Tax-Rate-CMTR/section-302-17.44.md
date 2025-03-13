@@ -1,8 +1,6 @@
 ##### § 302-17.44 What if I incur income tax liability to the Commonwealth of Puerto Rico? #####
 
-Link to an amendment published at 89 FR 12256, Feb. 16, 2024.
-
-A Federal employee who is relocated to or from a point, or between points, in the Commonwealth of Puerto Rico may be subject to income tax by both the Federal Government and the government of Puerto Rico. However, under current Puerto Rico law, an employee receives a credit on his/her Puerto Rico income tax for the amount of taxes paid to the Federal Government. Therefore:
+A Federal employee who is relocated to or from a point, or between points, in the Commonwealth of Puerto Rico may be subject to income tax by both the Federal Government and the government of Puerto Rico. However, under current Puerto Rico law, an employee receives a credit on their Puerto Rico income tax for the amount of taxes paid to the Federal Government. Therefore:
 
 (a) If the applicable Puerto Rico marginal tax rate, as shown in the tables provided by the Commonwealth of Puerto Rico, is *equal to or lower* than the applicable Federal marginal tax rate, then your agency uses the Federal marginal tax rates and the formula in § 302-17.40(c) in calculating your CMTR.
 
@@ -10,4 +8,4 @@ A Federal employee who is relocated to or from a point, or between points, in th
 
 (c) If the applicable Puerto Rico marginal tax rate, as shown in the tables provided by the Commonwealth of Puerto Rico, is *higher* than the applicable Federal marginal tax rate and one or more of the state(s) involved *does not allow* an adjustment or credit for income taxes paid to the other state(s) and/or Puerto Rico, then your agency uses the formula below:
 
-CMTR = P + S + LWhere:P = Your Puerto Rico marginal tax rateS = Your state marginal tax rate, if anyL = Your local marginal tax rate, if any
+CMTR = P + S + LWhere:P = Your Puerto Rico marginal tax rateS = Your state marginal tax rate, if anyL = Your local marginal tax rate, if any[FTR Amdt. 2014-01, 79 FR 49645, Aug. 21, 2014, as amended by FTR Case 2022-05, 89 FR 12256, Feb. 16, 2024]

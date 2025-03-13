@@ -1,8 +1,6 @@
 ##### § 21.101 Designation of applicable regulations. #####
 
-Link to an amendment published at 89 FR 12653, Feb. 16, 2024.
-
-(a) An applicant for a change to a type certificate must show that the change and areas affected by the change comply with the airworthiness requirements applicable to the category of the product in effect on the date of the application for the change and with parts 34 and 36 of this chapter. Exceptions are detailed in paragraphs (b) and (c) of this section.
+(a) An applicant for a change to a type certificate must show that the change and areas affected by the change comply with the airworthiness requirements applicable to the category of the product in effect on the date of the application for the change and with parts 34, 36, and 38 of this chapter. Exceptions are detailed in paragraphs (b) and (c) of this section.
 
 (b) Except as provided in paragraph (g) of this section, if paragraphs (b)(1), (2), or (3) of this section apply, an applicant may show that the change and areas affected by the change comply with an earlier amendment of a regulation required by paragraph (a) of this section, and of any other regulation the FAA finds is directly related. However, the earlier amended regulation may not precede either the corresponding regulation included by reference in the type certificate, or any regulation in §§ 25.2, 27.2, or 29.2 of this chapter that is related to the change. The applicant may show compliance with an earlier amendment of a regulation for any of the following:
 
@@ -30,4 +28,4 @@ Link to an amendment published at 89 FR 12653, Feb. 16, 2024.
 
 (g) Notwithstanding paragraph (b) of this section, for transport category airplanes, the applicant must show compliance with each applicable provision of part 26 of this chapter, unless the applicant has elected or was required to comply with a corresponding amendment to part 25 of this chapter that was issued on or after the date of the applicable part 26 provision.
 
-[Doc. No. 28903, 65 FR 36266, June 7, 2000, as amended by Amdt. 21-90, 72 FR 63404, Nov. 8, 2007; Amdt. 21-96, 77 FR 71695, Dec. 4, 2012; Doc. No. FAA-2015-1621, Amdt. 21-100, 81 FR 96689, Dec. 30, 2016]
+[Doc. No. 28903, 65 FR 36266, June 7, 2000, as amended by Amdt. 21-90, 72 FR 63404, Nov. 8, 2007; Amdt. 21-96, 77 FR 71695, Dec. 4, 2012; Doc. No. FAA-2015-1621, Amdt. 21-100, 81 FR 96689, Dec. 30, 2016; Doc. No. FAA-2022-0241, Amdt. No. 21-107, 89 FR 12653, Feb. 16, 2024]

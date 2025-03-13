@@ -1,5 +1,7 @@
 ##### § 11.11 The Emergency Alert System (EAS). #####
 
+Link to an amendment published at 89 FR 26792, Apr. 16, 2024.
+
 (a) The EAS is composed of analog radio broadcast stations including AM, FM, and Low-power FM (LPFM) stations; digital audio broadcasting (DAB) stations, including digital AM, FM, and Low-power FM stations; Class A television (CA) and Low-power TV (LPTV) stations; digital television (DTV) broadcast stations, including digital CA and digital LPTV stations; analog cable systems; digital cable systems which are defined for purposes of this part only as the portion of a cable system that delivers channels in digital format to subscribers at the input of a Unidirectional Digital Cable Product or other navigation device; wireline video systems; wireless cable systems which may consist of Broadband Radio Service (BRS), or Educational Broadband Service (EBS) stations; DBS services, as defined in § 25.701(a) of this chapter (including certain Ku-band Fixed-Satellite Service Direct to Home providers); and SDARS, as defined in § 25.201 of this chapter. These entities are referred to collectively as EAS Participants in this part, and are subject to this part, except as otherwise provided herein. At a minimum EAS Participants must use a common EAS protocol, as defined in § 11.31, to send and receive emergency alerts, and comply with the requirements set forth in § 11.56, in accordance with the following tables:
 
 Table 1—Analog and Digital Broadcast Station Equipment Deployment Requirements

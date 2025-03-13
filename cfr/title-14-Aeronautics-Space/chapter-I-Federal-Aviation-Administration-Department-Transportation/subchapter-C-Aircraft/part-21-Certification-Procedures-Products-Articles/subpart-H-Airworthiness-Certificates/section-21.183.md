@@ -1,7 +1,5 @@
 ##### § 21.183 Issue of standard airworthiness certificates for normal, utility, acrobatic, commuter, and transport category aircraft; manned free balloons; and special classes of aircraft. #####
 
-Link to an amendment published at 89 FR 12654, Feb. 16, 2024.
-
 (a) *New aircraft manufactured under a production certificate.* An applicant for a standard airworthiness certificate for a new aircraft manufactured under a production certificate is entitled to a standard airworthiness certificate without further showing, except that the FAA may inspect the aircraft to determine conformity to the type design and condition for safe operation.
 
 (b) *New aircraft manufactured under type certificate.* An applicant for a standard airworthiness certificate for a new aircraft manufactured under a type certificate is entitled to a standard airworthiness certificate upon presentation, by the holder or licensee of the type certificate, of the statement of conformity prescribed in § 21.130 if the FAA finds after inspection that the aircraft conforms to the type design and is in condition for safe operation.
@@ -47,5 +45,9 @@ Link to an amendment published at 89 FR 12654, Feb. 16, 2024.
 (2) The aircraft has been inspected in accordance with the performance rules for a 100-hour inspections set forth in § 43.15 of this chapter and found airworthy by a person specified in paragraph (d)(2) of this section; and
 
 (3) The FAA finds after inspection, that the aircraft conforms to the type design, and is in condition for safe operation.
+
+(i) [Reserved]
+
+(j) *Fuel efficiency requirements.* No original standard airworthiness certificate may be issued under this section unless the applicant has demonstrated that the type design complies with the applicable fuel efficiency requirements of part 38 of this chapter.
 
 [Amdt. 21-17, 32 FR 14927, Oct. 28, 1967]Editorial Note:For Federal Register citations affecting § 21.183, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

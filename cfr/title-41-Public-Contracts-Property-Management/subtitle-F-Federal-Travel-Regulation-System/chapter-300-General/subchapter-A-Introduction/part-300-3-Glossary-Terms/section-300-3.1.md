@@ -1,7 +1,5 @@
 ##### § 300-3.1 What do the following terms mean? #####
 
-Link to an amendment published at 89 FR 12251, Feb. 16, 2024.
-
 *Accompanied baggage*—Government property and personal property of the traveler necessary for official travel.
 
 *Actual expense*—Payment of authorized actual expenses incurred, up to the limit prescribed by the Administrator of GSA or agency, as appropriate. Entitlement to reimbursement is contingent upon entitlement to per diem, and is subject to the same definitions and rules governing per diem.
@@ -54,7 +52,7 @@ Link to an amendment published at 89 FR 12251, Feb. 16, 2024.
 
 *Common carrier*—Private sector supplier of air, rail, bus, ship, or other transit system.
 
-*Commuted rate*—A price rate used to calculate a set amount to be paid to an employee for the transportation and temporary storage of his/her household goods. It includes cost of line-haul transportation, packing/unpacking, crating/uncrating, drayage incident to transportation and other accessorial charges and costs of temporary storage within applicable weight limit for storage including handling in/out charges and necessary drayage.
+*Commuted rate*—A price rate used to calculate a set amount to be paid to an employee for the transportation and temporary storage of their household goods. It includes cost of line-haul transportation, packing/unpacking, crating/uncrating, drayage incident to transportation and other accessorial charges and costs of temporary storage within applicable weight limit for storage including handling in/out charges and necessary drayage.
 
 *Conference*—A meeting, retreat, seminar, symposium or event that involves attendee travel. The term “conference” also applies to training activities that are considered to be conferences under 5 CFR 410.404.
 
@@ -70,7 +68,7 @@ Link to an amendment published at 89 FR 12251, Feb. 16, 2024.
 
 (3) *Contract business fare* (\_CB)—Contract fare offered by carriers in some domestic and international line item markets for business class service. The first character of the three-character fare basis code varies by airline.
 
-*Crewmember*—A person assigned to operate or assist in operating an aircraft. Performs duties directly related to the operation of the aircraft (e.g., as pilots, co-pilots, flight engineers, navigators) or duties assisting in operation of the aircraft (e.g., as flight directors, crew chiefs, electronics technicians, mechanics). If a crewmember is onboard for the purpose of travel, (*i.e.,* being transported from point to point) he/she must be authorized to travel in accordance with rules in 41 CFR 301-10.260 through 301-10.266 and 41 CFR 301-70.800 through 301-70.903.
+*Crewmember*—A person assigned to operate or assist in operating an aircraft. Performs duties directly related to the operation of the aircraft (e.g., as pilots, co-pilots, flight engineers, navigators) or duties assisting in operation of the aircraft (e.g., as flight directors, crew chiefs, electronics technicians, mechanics). If a crewmember is onboard for the purpose of travel, (*i.e.,* being transported from point to point) that crewmember must be authorized to travel in accordance with rules in 41 CFR 301-10.260 through 301-10.266 and 41 CFR 301-70.800 through 301-70.903.
 
 *Dependent*—An immediate family member of the employee.
 
@@ -140,7 +138,7 @@ The definition of “Domestic partnership” requires that the partners “share
 
 *Executive agency*—An entity of the executive branch that is an “executive agency” as defined in section 105 of title 5 U.S.C.
 
-*Extended storage*—Storage of household goods while an employee is assigned to an official station or post of duty to which he/she is not authorized to take or unable to use the household goods or is authorized in the public interest. Also referred to as nontemporary storage.
+*Extended storage*—Storage of household goods while an employee is assigned to an official station or post of duty to which the employee is not authorized to take or unable to use the household goods or is authorized in the public interest. Also referred to as nontemporary storage.
 
 *Extra-fare train*—A train that operates at an increased fare due to the extra performance of the train, *i.e.,* faster speed or fewer stops, or both.
 
@@ -238,7 +236,7 @@ The definition of “Domestic partnership” requires that the partners “share
 
 *Household Goods-weight additive*—A weight, per linear foot of a specific item, added to the net weight of the household goods shipment to compensate for the excessive van space used by the item. The item must be stated in the Household Goods tariff as qualifying for a weight additive before a charge can be assessed. Weight additives do not apply if an article is capable of being conveniently hand-carried by one person and/or transported in a standard moving carton.
 
-*Immediate family*—Any of the following named members of the employee's household at the time he/she reports for duty at the new permanent duty station or performs other authorized travel involving family members:
+*Immediate family*—Any of the following named members of the employee's household at the time the employee reports for duty at the new permanent duty station or performs other authorized travel involving family members:
 
 (1) Spouse;
 
@@ -248,7 +246,7 @@ The definition of “Domestic partnership” requires that the partners “share
 
 (4) Dependent parents (including step and legally adoptive parents) of the employee, of the employee's spouse, or of the employee's domestic partner; and
 
-(5) Dependent brothers and sisters (including step and legally adoptive brothers and sisters) of the employee, of the employee's spouse, or of the employee's domestic partner, who are unmarried and under 21 years of age or who, regardless of age, are physically or mentally incapable of self-support.
+(5) Dependent siblings (including step and legally adoptive siblings) of the employee, of the employee's spouse, or of the employee's domestic partner, who are unmarried and under 21 years of age or who, regardless of age, are physically or mentally incapable of self-support.
 
 *Innovative mobility technology company*—An organization, including a corporation, limited liability company, partnership, sole proprietorship, or any other entity, that applies technology to expand and enhance available transportation choices, better manages demand for transportation services, or provides alternatives to driving alone.
 
@@ -270,7 +268,7 @@ Certain jurisdictions may have limits or prohibit the operation or use of innova
 
 *Non-Federal traveler*—For the purposes of 41 CFR 301-10.260 through 301-10.266 and 41 CFR 301-70.800 through 301-70.910, an individual who travels on a Government aircraft, but is not a Federal traveler. Dependents and other family members of Federal travelers who travel on Government aircraft are considered to be non-Federal travelers within this regulation.
 
-*Official station*—An area defined by the agency that includes the location where the employee regularly performs his or her duties or an invitational traveler's home or regular place of business (see § 301-1.2). The area may be a mileage radius around a particular point, a geographic boundary, or any other definite domain, provided no part of the area is more than 50 miles from where the employee regularly performs his or her duties or from an invitational traveler's home or regular place of business. If the employee's work involves recurring travel or varies on a recurring basis, the location where the work activities of the employee's position of record are based is considered the regular place of work.
+*Official station*—An area defined by the agency that includes the location where the employee regularly performs their duties or an invitational traveler's home or regular place of business (see § 301-1.2). The area may be a mileage radius around a particular point, a geographic boundary, or any other definite domain, provided no part of the area is more than 50 miles from where the employee regularly performs their duties or from an invitational traveler's home or regular place of business. If the employee's work involves recurring travel or varies on a recurring basis, the location where the work activities of the employee's position of record are based is considered the regular place of work.
 
 *Official travel*—Travel under an official travel authorization from an employee's official station or other authorized point of departure to a temporary duty location and return from a temporary duty location, between two temporary duty locations, or relocation at the direction of a Federal agency.
 
@@ -314,7 +312,7 @@ Certain jurisdictions may have limits or prohibit the operation or use of innova
 
 *Privately Owned Vehicle (POV)*—Any vehicle such as an automobile, motorcycle, aircraft, or boat operated by an individual that is not owned or leased by a Government agency, and is not commercially leased or rented by an employee under a Government rental agreement for use in connection with official Government business.
 
-*Professional Books, Papers and Equipment* (PBP&E)—Includes, but is not limited to, the following items in the employee's possession when needed by the employee in the performance of his/her official duties:
+*Professional Books, Papers and Equipment* (PBP&E)—Includes, but is not limited to, the following items in the employee's possession when needed by the employee in the performance of the employee's official duties:
 
 (1) Reference material;
 
@@ -324,7 +322,7 @@ Certain jurisdictions may have limits or prohibit the operation or use of innova
 
 (4) Communications equipment used by the employee in association with DoDI 4650.02, Military Auxiliary Radio System (MARS).
 
-*Qualified non-crewmember*—A person flying onboard a Government aircraft whose skills or expertise are required to perform or are associated with performing the non-travel related Governmental function for which the aircraft is being operated (qualified non-crewmembers may be researchers, law enforcement agents, firefighters, agricultural engineers, biologists, etc.). If a qualified non-crewmember is onboard for the purpose of travel (*i.e.,* being transported from point to point) in addition to performing his/her duties related to the non-travel related Governmental function for which the aircraft is being operated (e.g., when a scientist conducts an experiment at the same time he/she is also on the aircraft for the purpose of traveling from point to point), he/she must be authorized to travel in accordance with rules in 41 CFR parts 301-10 and 301-70.
+*Qualified non-crewmember*—A person flying onboard a Government aircraft whose skills or expertise are required to perform or are associated with performing the non-travel related Governmental function for which the aircraft is being operated (qualified non-crewmembers may be researchers, law enforcement agents, firefighters, agricultural engineers, biologists, etc.). If a qualified non-crewmember is onboard for the purpose of travel (*i.e.,* being transported from point to point) in addition to performing their duties related to the non-travel related Governmental function for which the aircraft is being operated (*e.g.,* when a scientist conducts an experiment at the same time they are also on the aircraft for the purpose of traveling from point to point), they must be authorized to travel in accordance with rules in 41 CFR parts 301-10 and 301-70.
 
 *Reduced per diem*—Your agency may authorize a reduced per diem rate when there are known reductions in lodging and meal costs or when your subsistence costs can be determined in advance and are lower than the prescribed per diem rate.
 

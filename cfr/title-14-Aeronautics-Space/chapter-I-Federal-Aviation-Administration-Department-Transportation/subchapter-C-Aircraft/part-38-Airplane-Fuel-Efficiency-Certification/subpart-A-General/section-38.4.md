@@ -1,0 +1,3 @@
+##### § 38.4 Compatibility with airworthiness requirements. #####
+
+Unless otherwise approved by the FAA, an airplane used to demonstrate compliance with this part must meet all of the airworthiness requirements of this chapter required to establish the type certification basis of the airplane, for any condition under which compliance with this part is being demonstrated. Any procedure used to demonstrate compliance, and any flight crew information developed for demonstrating compliance with this part, must be consistent with the airworthiness requirements of this chapter that constitute the type certification basis of the airplane.

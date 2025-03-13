@@ -1,5 +1,7 @@
 ##### § 74.1203 Interference. #####
 
+Link to an amendment published at 89 FR 26793, Apr. 16, 2024.
+
 (a) An authorized FM translator or booster station will not be permitted to continue to operate if it causes any actual interference to:
 
 (1) The transmission of any authorized broadcast station; or

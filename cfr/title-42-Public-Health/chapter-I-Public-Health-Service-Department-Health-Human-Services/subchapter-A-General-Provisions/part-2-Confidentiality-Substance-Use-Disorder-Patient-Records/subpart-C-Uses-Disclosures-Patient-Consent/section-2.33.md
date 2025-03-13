@@ -1,0 +1,19 @@
+##### § 2.33 Uses and disclosures permitted with written consent. #####
+
+(a) If a patient consents to a use or disclosure of their records consistent with § 2.31, the following uses and disclosures are permitted, as applicable:
+
+(1) A part 2 program may use and disclose those records in accordance with that consent to any person or category of persons identified or generally designated in the consent, except that disclosures to central registries and in connection with criminal justice referrals must meet the requirements of §§ 2.34 and 2.35, respectively.
+
+(2) When the consent provided is a single consent for all future uses and disclosures for treatment, payment, and health care operations, a part 2 program, covered entity, or business associate may use and disclose those records for treatment, payment, and health care operations as permitted by the HIPAA regulations, until such time as the patient revokes such consent in writing.
+
+(b) If a patient consents to a use or disclosure of their records consistent with § 2.31, the recipient may further disclose such records as provided in subpart E of this part, and as follows:
+
+(1) When disclosed for treatment, payment, and health care operations activities to a covered entity or business associate, such recipient may further disclose those records in accordance with the HIPAA regulations, except for uses and disclosures for civil, criminal, administrative, and legislative proceedings against the patient.
+
+(2) When disclosed with consent given once for all future treatment, payment, and health care operations activities to a part 2 program that is not a covered entity or business associate, the recipient may further disclose those records consistent with the consent.
+
+(3) When disclosed for payment or health care operations activities to a lawful holder that is not a covered entity or business associate, the recipient may further disclose those records as may be necessary for its contractors, subcontractors, or legal representatives to carry out the payment or health care operations specified in the consent on behalf of such lawful holders.
+
+(c) Lawful holders, other than covered entities and business associates, who wish to redisclose patient identifying information pursuant to paragraph (b)(3) of this section must have in place a written contract or comparable legal instrument with the contractor or voluntary legal representative, which provides that the contractor, subcontractor, or voluntary legal representative is fully bound by the provisions of this part upon receipt of the patient identifying information. In making any such redisclosures, the lawful holder must furnish such recipients with the notice required under § 2.32; require such recipients to implement appropriate safeguards to prevent unauthorized uses and disclosures; and require such recipients to report any unauthorized uses, disclosures, or breaches of patient identifying information to the lawful holder. The lawful holder may only redisclose information to the contractor or subcontractor or voluntary legal representative that is necessary for the contractor, subcontractor, or voluntary legal representative to perform its duties under the contract or comparable legal instrument. Contracts may not permit a contractor, subcontractor, or voluntary legal representative to redisclose information to a third party unless that third party is a contract agent of the contractor or subcontractor, helping them provide services described in the contract, and only as long as the agent only further discloses the information back to the contractor or lawful holder from which the information originated.
+
+[89 FR 12627, Mar. 16, 2024]

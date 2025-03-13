@@ -1,5 +1,5 @@
-##### § 302-11.441 How must we determine if an employee holds equitable title interest in his/her property? #####
+##### § 302-11.441 How must we determine if an employee holds equitable title interest in a property? #####
 
-Link to an amendment published at 89 FR 12256, Feb. 16, 2024.
+To determine if an employee holds equitable title interest in a property, you must follow the guidelines in § 302-11.405.
 
-To determine if an employee holds equitable title interest in his/her property, you must follow the guidelines in § 302-11.405.
+[FTR Case 2022-05, 89 FR 12256, Feb. 16, 2024]

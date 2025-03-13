@@ -1,5 +1,7 @@
 ##### § 310.4 Abusive telemarketing acts or practices. #####
 
+Link to an amendment published at 89 FR 26784, Apr. 16, 2024.Link to an amendment published at 89 FR 26785, Apr. 16, 2024.
+
 (a) *Abusive conduct generally.* It is an abusive telemarketing act or practice and a violation of this Rule for any seller or telemarketer to engage in the following conduct:
 
 (1) Threats, intimidation, or the use of profane or obscene language;

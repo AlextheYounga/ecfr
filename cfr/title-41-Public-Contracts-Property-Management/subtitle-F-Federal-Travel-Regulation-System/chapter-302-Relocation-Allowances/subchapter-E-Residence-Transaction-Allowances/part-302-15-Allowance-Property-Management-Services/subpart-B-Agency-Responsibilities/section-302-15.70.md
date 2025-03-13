@@ -1,7 +1,5 @@
 ##### § 302-15.70 What governing policies must we establish for the allowance for property management services? #####
 
-Link to an amendment published at 89 FR 12256, Feb. 16, 2024.
-
 You must establish policies and procedures governing:
 
 (a) When you will authorize payment for property management services for an employee who transfers in the interest of the Government;
@@ -10,8 +8,8 @@ You must establish policies and procedures governing:
 
 (c) Who will determine, for relocations to official duty stations in the United States, whether payment for property management services is more advantageous and cost effective than sale of an employee's residence at Government expense;
 
-(d) If and when you will allow an employee who was offered and accepted payment for property management services to change his/her residence at Government expense in accordance with paragraph (e) of this section; and
+(d) If and when you will allow an employee who was offered and accepted payment for property management services to change the employee's residence at Government expense in accordance with paragraph (e) of this section; and
 
-(e) How you will offset expenses you have paid for property management services against payable expenses for sale of the employee's residence when an eligible employee who elected payment for property management services later changes his/her mind and elects instead to sell his/her residence at Government expense.
+(e) How you will offset expenses you have paid for property management services against payable expenses for sale of the employee's residence when an eligible employee who elected payment for property management services later changes their mind and elects instead to sell their residence at Government expense.
 
-[FTR Amdt. 2011-01, 76 FR 18344, Apr. 1, 2011]
+[FTR Amdt. 2011-01, 76 FR 18344, Apr. 1, 2011, as amended by FTR Case 2022-05, 89 FR 12256, Feb. 16, 2024]

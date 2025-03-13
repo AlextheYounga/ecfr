@@ -1,5 +1,7 @@
 ##### § 1204.501 Delegation of authority—to take actions in real estate and related matters. #####
 
+Link to an amendment published at 89 FR 26758, Apr. 16, 2024.
+
 (a) *Delegation of authority.* The Assistant Administrator for Strategic Infrastructure and the Director, Integrated Asset Management Division, are delegated authority, in accordance with applicable laws and regulations, and subject to conditions imposed by immediate superiors, to:
 
 (1) Prescribe agency real estate policies, procedures, and regulations;

@@ -1,7 +1,5 @@
 ##### § 302-1.1 Who is eligible for relocation expense allowances under this chapter? #####
 
-Link to an amendment published at 89 FR 12254, Feb. 16, 2024.
-
 You are generally eligible for relocation expense allowances under this chapter if you are:
 
 (a) A new appointee appointed to your first official station (as discussed in this chapter);
@@ -12,7 +10,7 @@ You are generally eligible for relocation expense allowances under this chapter 
 
 (d) An employee performing travel in accordance with your overseas tour renewal agreement (see §§ 302-3.209 through 302-3.224 of this chapter);
 
-(e) An employee returning to his/her place of residence after completion of a prescribed tour of duty for the purposes of separation from Government service or separation from the overseas assignment for reassignment to the same or different Government agency.
+(e) An employee returning to their place of residence after completion of a prescribed tour of duty for the purposes of separation from Government service or separation from the overseas assignment for reassignment to the same or different Government agency.
 
 (f) A student trainee assigned to any position upon completion of college work;
 
@@ -24,4 +22,4 @@ You are generally eligible for relocation expense allowances under this chapter 
 
 (j) An employee that is being assigned to a temporary duty station in connection with long-term assignment.
 
-[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 108, 67 FR 57968, Sept. 13, 2002; FTR Amdt. 2010-07, 75 FR 72968, Nov. 29, 2010; FTR Amdt. 2020-02, 84 FR 64781, Nov. 25, 2019]
+[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 108, 67 FR 57968, Sept. 13, 2002; FTR Amdt. 2010-07, 75 FR 72968, Nov. 29, 2010; FTR Amdt. 2020-02, 84 FR 64781, Nov. 25, 2019; FTR Case 2022-05, 89 FR 12254, Feb. 16, 2024]

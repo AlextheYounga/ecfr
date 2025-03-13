@@ -1,5 +1,7 @@
 ##### § 74.1232 Eligibility and licensing requirements. #####
 
+Link to an amendment published at 89 FR 26793, Apr. 16, 2024.
+
 (a) Subject to the restrictions set forth in paragraph (d) of this section, a license for an FM broadcast translator station may be issued to any qualified individual, organized group of individuals, broadcast station licensee, or local civil governmental body, upon an appropriate showing that plans for financing the installation and operation of the translator are sufficiently sound to assure prompt construction of the translator and dependable service.
 
 (b) More than one FM translator may be licensed to the same applicant, whether or not such translators serve substantially the same area, upon an appropriate showing of technical need for such additional stations. FM translators are not counted as FM stations for the purpose of § 73.3555 of this chapter concerning multiple ownership.
