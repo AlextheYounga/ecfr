@@ -1,11 +1,27 @@
 ##### § 401.260 Reports. #####
 
-Link to an amendment published at 89 FR 76350, Sept. 17, 2024.
+(a) A marine accident that occurs while a United States Registered Pilot, Apprentice Pilot, Apprentice Pilot with Limited Registration, or Temporary Registered Pilot is providing pilotage service to a vessel in United States or Canadian waters of the Great Lakes must be reported in writing by the Pilot to the Director as soon as possible, but not later than 15 days after the accident. The written report must include:
 
-(a) A marine accident which occurs while a U.S. Registered Pilot is in the service of a vessel in U.S. or Canadian waters of the Great Lakes shall be reported by the Registered Pilot to the Director as soon as possible, but not later than 15 days after the accident. The report shall name and describe the vessel or vessels involved, and shall describe the accident, including type of accident, location, time, prevailing weather, damage to the vessel or vessels or property, and injury to persons or lives lost. This report does not relieve the pilot of responsibility for submitting any report required by other government agencies of the United States or Canada.
+(1) Name and description of the vessel or vessels involved;
 
-(b) Every U.S. Registered Pilot shall file with the Director any change of his or her mailing address within 15 days after the change.
+(2) Description of the accident;
 
-(c) Every authorized pilotage pool of U.S. Registered Pilots rendering pilotage service shall submit, by the 10th day of the month following, a monthly report of availability, on a form provided by the Director, of all U.S. Registered Pilots and Applicant Pilots of that pool. The report shall include the availability of Canadian Registered Pilots who are assigned to that pool for administrative purposes. The report shall list the name of each pilot and show his or her availability status for each day of the month as: available, unavailable due to illness or injury, unavailable with advance notice for personal reasons, unavailability authorized by the pool for business reasons, unavailable without advance notice or unaccounted for, unavailable for disciplinary reasons. The report shall be maintained on a daily basis by an officer or employee of the pool, who shall be responsible for the completeness and accuracy of the report.
+(3) Type of accident;
 
-[31 FR 9065, July 1, 1966; 32 FR 14221, Oct. 13, 1967. Redesignated at 61 FR 32655, June 25, 1996, and further redesignated by USCG-1998-3976, 63 FR 35139, June 29, 1998; USCG-2002-13058, 67 FR 61279, Sept. 30, 2002]
+(4) Location;
+
+(5) Time of occurrence;
+
+(6) Prevailing weather;
+
+(7) Results of the Pilot's post-casualty drug and alcohol test, if required;
+
+(8) Damage to the vessel or vessels or property; and
+
+(9) Injury to persons or lives lost.
+
+(b) The report in paragraph (a) of this section does not relieve the Pilot or others of responsibility for submitting any report required by other Coast Guard regulations or other government agencies of the United States or Canada.
+
+(c) Every United States Registered Pilot, Apprentice Pilot, Apprentice Pilot with Limited Registration, and Temporary Registered Pilot must file with the Director any change of their mailing address, email address, or phone number within 15 days after the change.
+
+[USCG-2022-0025, 89 FR 76350, Sept. 17, 2024]

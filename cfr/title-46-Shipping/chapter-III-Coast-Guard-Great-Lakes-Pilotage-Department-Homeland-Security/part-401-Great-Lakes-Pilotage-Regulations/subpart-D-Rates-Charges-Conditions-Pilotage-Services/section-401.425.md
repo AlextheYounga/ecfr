@@ -1,7 +1,5 @@
-##### § 401.425 Provision for additional pilot. #####
+##### § 401.425 Provision for additional Pilot. #####
 
-Link to an amendment published at 89 FR 76351, Sept. 17, 2024.
+The Director may require the assignment of two Pilots to a ship upon request of the ship or when the Director deems it necessary for the safe navigation of the ship, because of anticipated long transit, uncommon ship size, adverse weather or sea conditions or other abnormal circumstances. The charge to the ship will be twice the appropriate charge provided for in §§ 401.405, 401.407, 401.410, and 401.420. Each situation will be evaluated on a case-by-case basis. This authorization may occur at the opening and closing of the year, after the locks have opened or closed for a defined time period based upon the availability of the aids to navigation, ice conditions, weather forecasts, and other relevant information.
 
-The Director, Great Lakes Pilotage Staff, U.S. Coast Guard, or the General Manager, Great Lakes Pilotage Authority, Ltd., Canada, may require the assignment of two pilots to a ship upon request of the ship or when in his judgment, because of anticipated long transit, uncommon ship size, adverse weather or sea conditions or other abnormal circumstances, the assignment of two pilots is considered necessary for the safe navigation of the ship. The Director or General Manager shall direct which of the pilots is to be in charge, as circumstances require. The charge to the ship shall be twice the appropriate charge provided for in §§ 401.405, 401.407, 401.410, and 401.420. This section does not apply to a ship in a direct transit of the undesignated waters of Lake Erie between Southeast Shoal and Port Colborne unless the ship is required by law to have a registered pilot on board in these waters.
-
-[CGD 80-148, 46 FR 18717, Mar. 26, 1981, as amended at 61 FR 5721, Feb. 14, 1996. Redesignated and amended at 61 FR 32655, June 25, 1996; 62 FR 5923, Feb. 10, 1997, and further redesignated and amended by USCG-1998-3976, 63 FR 35139, 35140, June 29, 1998]
+[USCG-2022-0025, 89 FR 76351, Sept. 17, 2024]

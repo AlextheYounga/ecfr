@@ -1,7 +1,5 @@
 ##### § 571.5 Matter incorporated by reference. #####
 
-Link to an amendment published at 89 FR 76271, Sept. 17, 2024.
-
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the National Highway Traffic Safety Administration (NHTSA) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at NHTSA and at the National Archives and Records Administration (NARA). Contact NHTSA at: NHTSA, 1200 New Jersey Avenue SE, Washington, DC 20590, (202) 366-2588, website: *https://www.nhtsa.gov/about-nhtsa/electronic-reading-room*. For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html*. The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) American Association of Textile Chemists and Colorists (AATCC), 1 Davis Dr., P.O. Box 12215, Research Triangle Park, NC 27709. Web site: *https://www.aatcc.org.*
@@ -162,6 +160,10 @@ Link to an amendment published at 89 FR 76271, Sept. 17, 2024.
 
 (7) Drawing No. 210-5000-1 (L), -2(R), Leg Assembly, *Parts List and Drawings, Subpart P Hybrid III 3-year-old child crash test dummy, (H-III3C, Alpha version),* September 2001, Drawing No. 210-5000-1(L), -2(R), Leg Assembly; into § 571.213b.
 
+(8) “Drawing Package for the Force Application Device 1 (FAD1),” April 9, 2024, into § 571.210.
+
+(9) “Drawing Package for the Force Application Device 2 (FAD2),” April 9, 2024, into § 571.210.
+
 (l) SAE International, 400 Commonwealth Drive, Warrendale, PA 15096. Telephone: (724) 776-4841; Web site: *https://www.sae.org.*
 
 (1) SAE Recommended Practice J100-1995, “Class ‘A’ Vehicle Glazing Shade Bands,” revised June 1995, into § 571.205.
@@ -272,4 +274,4 @@ Link to an amendment published at 89 FR 76271, Sept. 17, 2024.
 
 (2) UNECE Regulation 48 “Uniform Provisions Concerning the Approval of Vehicles With Regard to the Installation of Lighting and Light-Signaling Devices,” E/ECE/324-E/ECE/TRANS/505, Rev.1/Add.47/Rev.1/Corr.2 (February 26, 1996), into § 571.108.
 
-[77 FR 752, Jan. 6, 2012, as amended at 77 FR 11647, Feb. 27, 2012; 77 FR 51671, Aug. 24, 2012; 78 FR 21852, Apr. 12, 2013; 79 FR 19243, Apr. 7, 2014; 80 FR 36100, June 23, 2015; 81 FR 90514, Dec. 14, 2016; 87 FR 34808, June 8, 2022; 87 FR 39309, Aug. 1, 2022; 88 FR 84586, Dec. 5, 2023; 89 FR 39779, May 9, 2024]
+[77 FR 752, Jan. 6, 2012, as amended at 77 FR 11647, Feb. 27, 2012; 77 FR 51671, Aug. 24, 2012; 78 FR 21852, Apr. 12, 2013; 79 FR 19243, Apr. 7, 2014; 80 FR 36100, June 23, 2015; 81 FR 90514, Dec. 14, 2016; 87 FR 34808, June 8, 2022; 87 FR 39309, Aug. 1, 2022; 88 FR 84586, Dec. 5, 2023; 89 FR 39779, May 9, 2024; 89 FR 76271, Sept. 17, 2024]

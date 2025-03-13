@@ -1,53 +1,79 @@
 ##### § 401.110 Definitions. #####
 
-Link to an amendment published at 89 FR 76346, Sept. 17, 2024.
+As used in this chapter:
 
-(a) As used in this chapter:
+*Act* means the Great Lakes Pilotage Act of 1960, as amended (Pub. L. 86-555, 74 Stat. 259-262; 46 U.S.C. 216 through 216i).
 
-(1) *Act* means the Great Lakes Pilotage Act of 1960, as amended (Pub. L. 86-555, 74 Stat. 259-262; 46 U.S.C. 216 through 216i).
+*Applicant* means a person who has submitted a Form CG-4509 to the Director of Great Lakes Pilotage (“Director”), to be considered for placement in an approved U.S. Great Lakes pilot training and qualification program at one of the established pilotage pools.
 
-(2) *Commandant* means Commandant (CG-00), Attn: Commandant, U.S. Coast Guard Stop 7000, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7000.
+*Applicant Trainee* means a person approved by the Director who is participating in an approved U.S. Great Lakes pilot training and qualification program. This individual meets the minimum requirements listed in 46 CFR 401.214 but does not have the necessary service or experience on their MMC in the Great Lakes to qualify as an Apprentice Pilot. The Applicant Trainee is not eligible for a Limited or Temporary Registration.
 
-(3) *Canadian Registered Pilot* means a person, other than a member of the regular complement of a vessel, who holds an appropriate Canadian license issued by an agency of Canada, and is registered by a designated agency of Canada on substantially the same basis as registration under the provisions of Subpart B of this part.
+*Apprentice Pilot* means a person approved by the Director who is participating in an approved U.S. Great Lakes pilot training and qualification program. This individual meets all the minimum requirements listed in 46 CFR 401.211.
 
-(4) *Movage* means the underway movement of a vessel in navigation from or to a dock, pier, wharf, dolphins, buoys, or anchorage other than a temporary anchorage for navigational or traffic purposes in such manner as to constitute a distinct separate movement not a substantive portion of a translake movement on arrival or departure, within the geographic confines of a harbor or port complex within such harbor.
+*Association* means any organization that holds a Certificate of Authorization issued by the Director to operate a pilotage pool on the Great Lakes.
 
-(5) *Great Lakes* means Lakes Superior, Michigan, Huron, Erie, and Ontario, their connecting and tributary waters, the St. Lawrence River as far east as Saint Regis, and adjacent port areas.
+*Canadian Registered Pilot* means a person, other than a member of the regular complement of a vessel, who holds an appropriate Canadian license issued by an agency of Canada, and is registered by a designated agency of Canada on substantially the same basis as registration under the provisions of Subpart B of this part.
 
-(6) *Other officer* means the master or any other member of the regular complement of the vessel concerned who is qualified for the navigation of those United States waters of the Great Lakes which are not designated by the President in Proclamation No. 3385 dated December 22, 1960 and who is either licensed by the Secretary or certificated by an appropriate agency of Canada.
+*Chemical test* means a scientifically recognized test that analyzes an individual's breath, blood, urine, saliva, bodily fluids, or tissues for evidence of dangerous drug or alcohol use.
 
-(7) *Secretary* means the Secretary of Homeland Security or any person to whom he or she has delegated his or her authority in the matter concerned.
+*Commandant* means Commandant of the United States Coast Guard, Communications with the Commandant may be sent to the following address: Attn: Commandant, U.S. Coast Guard Stop 7000, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7000.
 
-(8) *United States registered pilot* means a person, other than a member of the regular complement of a vessel, who holds a license or merchant mariner credential authorizing navigation on the Great Lakes and suitably endorsed for pilotage on routes specified therein, issued under the authority of the provisions of Title 52 of the Revised Statutes, and who is also registered under the provisions of Subpart B of this part.
+*Comparable experience* means knowledge and previous performance that is similar to the knowledge and technical skills obtained by serving as an officer on vessels of at least 4,000 gross tonnage. Training and experience while participating in a pilot training program of an authorized pilot organization is considered equivalent on a day for day basis to experience as an officer on a vessel. The training program of the authorized pilot organization must, however, include regularly scheduled trips on vessels of at least 4,000 gross tonnage or over in the company of a United States Registered Pilot.
 
-(9) *Director* means Director, Great Lakes Pilotage. Communications with the Director may be sent to the following address: Commandant (CG-WWM-2), Attn: Great Lakes Pilotage Branch, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509.
+*Director* means Director, Great Lakes Pilotage. Communications with the Director may be sent to the following address: Director, Great Lakes Pilotage, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7509.
 
-(10) Rate computation definitions:
+*Full Registration* is the issuance of a Certificate of Registration, by the Director, to an Apprentice Pilot who meets all the requirements in 46 CFR 401.210 and 401.211 and completes all the requirements in 46 CFR 402.210 and 402.220 and so becomes a United States Registered Pilot.
 
-(i) *Length* means the distance between the forward and after extremities of the ship.
+*Great Lakes* means Lakes Superior, Michigan, Huron, Erie, and Ontario, their connecting and tributary waters, the St. Lawrence River as far east as Saint Regis, and adjacent port areas.
 
-(ii) *Breadth* means the maximum breadth to the outside of the shell plating of the ship.
+*Gross Tonnage or GT* means the gross tonnage measurement of the vessel under 46 U.S.C. chapter 143, Convention Measurement.
 
-(iii) *Depth* means the vertical distance at amidships from the top of the keel plate to the uppermost continuous deck, fore and aft, and which extends to the sides of the ship. The continuity of a deck shall not be considered to be affected by the existence of tonnage openings, engine spaces, or a step in the deck.
+*Individual Training Plan* is an outline of specific requirements reviewed and approved by the Director for an Apprentice Pilot, including but not limited to the length of time to complete the training, the minimum number of round trips required, the association's determination of proficiency, the officer endorsement on the MMC, and the Apprentice Pilot's pilotage experience on the Great Lakes. The plan communicates the qualifications and demonstrates skills the mariners must complete to meet the proficiency requirements for which the mariner is training.
 
-(11) *Person* includes an individual, registered pilot, partnership, corporation, association, voluntary association, authorized pool, or public or private organization, other than an agency.
+*Limited Registration* is an authorization issued by the Director, upon the request of the respective pilot association, to an Apprentice Pilot to provide pilotage service without direct supervision from a United States Registered Pilot or Temporary Registered Pilot in a specific area or waterway.
 
-(12) *Applicant Pilot* means a person who holds a license or merchant mariner credential endorsed as a master, mate, or pilot issued under the authority of the provisions of Title 52 of the Revised Statutes, and has acquired at least twenty-four months licensed service or comparable experience on vessels or integrated tugs and tows, of 4,000 gross tons or over, operating on the Great Lakes or oceans, and who has applied for registration under the provisions of Subpart B of this part. Those persons qualifying with ocean service must have obtained at least six months of licensed service or comparable experience on the Great Lakes.
+*Marine accident* is any of the following that occurs while a U.S. Registered Pilot, Apprentice Pilot, Apprentice Pilot with Limited Registration, or Temporary Registered Pilot is providing pilotage services in U.S. or Canadian waters:
 
-(13) *Applicant Trainee* means a person who is in training to become an Applicant Pilot with an organization authorized to provide pilotage services.
+(1) Any allision or collision;
 
-(14) *Pool* means an organization authorized to provide pilotage services.
+(2) Any grounding;
 
-(15) *Comparable experience* means experience that is similar to the experience obtained by serving as an officer on a vessel. Training and experience while participating in a pilot training program of an authorized pilot organization is considered equivalent on a day for day basis to experience as an officer on a vessel. The training program of the authorized pilot organization must, however, include regularly scheduled trips on vessels of 4,000 gross tons or over in the company of a registered pilot.
+(3) A loss of main propulsion, primary steering, or any associated component or control system that, due to its duration or other circumstance, significantly impacts the maneuverability of the vessel;
 
-(16) *Association* means any organization that holds or held a Certificate of Authorization issued by the Great Lakes Pilotage Branch (CG-WWM-2) to operate a pilotage pool on the Great Lakes.
+(4) An occurrence, directly related to the provision of pilotage services, involving significant harm to the environment as defined in 46 CFR 4.03-65 (including Canadian waters); or
 
-(17) *Merchant mariner credential or MMC* means the credential issued by the Coast Guard under 46 CFR part 10. It combines the individual merchant mariner's document, license, and certificate of registry enumerated in 46 U.S.C. subtitle II part E as well as the STCW endorsement into a single credential that serves as the mariner's qualification document, certificate of identification, and certificate of service.
+(5) Any other incident, directly related to the provision of pilotage services, causing property damage in excess of $75,000 U.S. dollars (including the cost of labor and material to restore the property to its condition before the incident, but excluding the cost of such things as salvage, cleaning, gas-freeing, drydocking, or demurrage).
 
-(18) *Apprentice Pilot* means a person approved and certified by the Director who is participating in an approved U.S. Great Lakes pilot training and qualification program. This individual meets all the minimum requirements listed in 46 CFR 401.211. This definition is only applicable to determining which pilots may be included in the operating expenses, estimates, and wage benchmark in §§ 404.2(b)(7), 404.103(b), and 404.104(d) and (e).
+*Merchant Mariner Credential or MMC* means the credential issued by the Coast Guard under 46 CFR part 10. It combines the individual merchant mariner's document, license, and certificate of registry enumerated in 46 U.S.C. subtitle II part E as well as the STCW endorsement into a single credential that serves as the mariner's qualification document, certificate of identification, and certificate of service.
 
-(19) *Limited Registration* is an authorization issued by the Director, upon the request of the respective pilots association, to an Apprentice Pilot to provide pilotage service without direct supervision from a fully registered pilot in a specific area or waterway.
+*Minimum number of round trips* is the fewest number of successful round trips an Apprentice Pilot must perform under the direct supervision of a fully registered United States Registered Pilot or Temporary Registered Pilot, according to their individual training plan. 46 CFR 402.220 contains the minimum number of round trips for certain officer endorsements.
 
-(b) [Reserved]
+*Officer endorsement* means an annotation on an MMC that allows a mariner to serve in the capacities listed in 46 CFR 10.109.
+
+*Person* means an individual, Registered Pilot, partnership, corporation, association, voluntary association, authorized pilotage pool, or public or private organization, other than a government agency.
+
+*Pilotage pool* means an organization holding a Certificate of Authorization issued by the Director to provide pilotage services.
+
+*Rate computation definitions to determine Weighting Factors,* as used in the chapter:
+
+(1) *Length* means the distance between the forward and after extremities of the ship.
+
+(2) *Breadth* means the maximum breadth to the outside of the shell plating of the ship.
+
+(3) *Depth* means the vertical distance at amidships from the top of the keel plate to the uppermost continuous deck, fore and aft, and which extends to the sides of the ship. The continuity of a deck is not considered to be affected by the existence of tonnage openings, engine spaces, or a step in the deck.
+
+*Round trip* means providing pilotage service, in both directions, from one change point to another change point, or inbound and outbound in a port designated by an authorized pilotage pool.
+
+*Secretary* means the Secretary of the department in which the Coast Guard is operating.
+
+*Semi-annual Performance Evaluation Report* is an assessment performed on an Apprentice Pilot twice a year, by the association, to report the Apprentice Pilot's progress in the approved U.S. Great Lakes pilot training and qualification program at the established pilotage pool.
+
+*Temporary Registered Pilot* means a person who is issued a Temporary Registration by the Director in accordance with 46 CFR 401.222. A Temporary Registered Pilot holds a valid MMC, meets the requirements of § 401.222, has previously held a Full Registration, has been approved to provide pilotage services by the Director, and has either:
+
+(1) Reached the age of 70 and desires to continue providing pilotage services; or
+
+(2) Retired from pilotage service and desires to provide pilotage services.
+
+*United States Registered Pilot* or *U.S. Registered Pilot* means a person, other than a member of the regular complement of a vessel, who holds an MMC with an officer endorsement authorizing navigation on the Great Lakes and suitably endorsed for pilotage on areas and routes specified therein, issued under the authority of the provisions of Title 46 of the United States Code, and who also currently holds a Certificate of Registration ID Card under the provisions of Subpart B of this part.
 
 [26 FR 951, Jan. 31, 1961]Editorial Note:For Federal Register citations affecting § 401.110, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

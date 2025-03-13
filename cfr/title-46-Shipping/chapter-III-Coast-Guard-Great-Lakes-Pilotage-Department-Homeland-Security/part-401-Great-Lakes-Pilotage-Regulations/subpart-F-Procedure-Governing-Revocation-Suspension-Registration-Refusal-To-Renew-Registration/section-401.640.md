@@ -1,7 +1,5 @@
 ##### § 401.640 Record for decision. #####
 
-Link to an amendment published at 89 FR 76353, Sept. 17, 2024.
+The transcript of testimony and oral argument at the hearing, together with any exhibits received, will be made part of the record for decision, and the record will be available to the respondent or applicant on payment of costs thereof.
 
-The transcript of testimony and oral argument at the hearing, together with any exhibits received, shall be made part of the record for decision, and the record shall be available to the respondent or applicant on payment of costs thereof.
-
-[29 FR 11595, Aug. 13, 1964. Redesignated at 61 FR 32655, June 25, 1996, and further redesignated by USCG-1998-3976, 63 FR 35139, June 29, 1998]
+[USCG-2022-0025, 89 FR 76353, Sept. 17, 2024]

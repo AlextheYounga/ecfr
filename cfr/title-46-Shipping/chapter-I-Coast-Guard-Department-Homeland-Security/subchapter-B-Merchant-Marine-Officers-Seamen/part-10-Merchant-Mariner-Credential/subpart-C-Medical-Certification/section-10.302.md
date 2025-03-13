@@ -1,10 +1,8 @@
 ##### § 10.302 Medical and physical requirements. #####
 
-Link to an amendment published at 89 FR 76346, Sept. 17, 2024.
-
 (a) To qualify for a medical certificate, a mariner must provide evidence of meeting the medical and physical standards in this section on a CG-719-K or CG-719-K/E, as appropriate. The Coast Guard retains final authority for determining whether a mariner is medically and physically qualified. Columns 2 through 5 of Table 1 to paragraph (a) of this section provide the specific exam, test, or demonstrations required to obtain the corresponding credential listed in column 1. Further clarifications of the requirements contained in the table are found throughout this subpart.
 
-(b) Any required test, exam, or demonstration must have been performed, witnessed, or reviewed by a licensed medical doctor, licensed physician assistant, licensed nurse practitioner, or a designated medical examiner. All licensed medical practitioners must hold a valid license issued in the United States. Medical examinations for Great Lakes Pilots must be conducted by a licensed medical doctor in accordance with the physical exam requirements in 46 CFR 402.210.
+(b) Any required test, exam, or demonstration must have been performed, witnessed, or reviewed by a licensed Medical Doctor, licensed Physician Assistant, licensed Nurse Practitioner, or a Designated Medical Examiner. All licensed medical practitioners must hold a valid license issued in the United States.
 
 |                                                      1  <br/>Credential                                                      |2  <br/>Vision  <br/>test|3  <br/>Hearing  <br/>test|4  <br/>General  <br/>medical exam|5  <br/>Demonstration of physical ability|
 |------------------------------------------------------------------------------------------------------------------------------|-------------------------|--------------------------|----------------------------------|-----------------------------------------|
@@ -28,3 +26,5 @@ Link to an amendment published at 89 FR 76346, Sept. 17, 2024.
 |         (18) Ratings, including entry level, serving on vessels to which STCW applies, other than those listed above         |                         |                          |                                  |               § 10.304(c)               |
 |     (19) Ratings, including entry level, serving on vessels to which STCW does not apply, other than those listed above      |                         |                          |                                  |                                         |
 |                                                 (20) Vessel security officer                                                 |       § 10.305(a)       |         § 10.306         |           § 10.304(a)            |               § 10.304(c)               |
+
+[USCG-2004-17914, 78 FR 77900, Dec. 24, 2013, as amended by USCG-2022-0025, 89 FR 76346, Sept. 17, 2024]

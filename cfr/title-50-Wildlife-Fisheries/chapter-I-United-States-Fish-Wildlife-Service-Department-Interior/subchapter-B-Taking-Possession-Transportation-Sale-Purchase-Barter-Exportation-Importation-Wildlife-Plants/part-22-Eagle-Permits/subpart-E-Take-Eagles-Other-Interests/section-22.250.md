@@ -12,21 +12,25 @@
 
 (i) At least 2 miles from a golden eagle nest and at least 660 feet from a bald eagle nest; and
 
-(ii) Located in areas characterized by seasonal relative abundance values that are less than the relative abundance values for the date range for each species in tables 1 and 2:
+(ii) Located in areas characterized by seasonal relative-abundance values that are less than the relative-abundance values for the date range for each species in tables 1 and 2, as determined by using relative-abundance data from 2020. Eligibility determinations must be based on 2020 relative-abundance estimates that consider detection rates, topography, and habitat and represent the coterminous United States at a 3-km2 resolution for the pre-breeding migration, breeding, post-breeding migration, and non-breeding seasons for bald eagles and golden eagles. Use of the following data and products satisfy the requirements of this paragraph (c)(1)(ii):
 
-|        Date range        |Bald Eagle  <br/>relative  <br/>abundance|
-|--------------------------|-----------------------------------------|
-|  1. February 15-May 23   |                  0.821                  |
-|    2. May 24-July 19     |                  0.686                  |
-|  3. July 20-December 20  |                  0.705                  |
-|4. December 21-February 14|                  1.357                  |
+(A) Cornell Lab of Ornithology relative-abundance data and products for bald eagles and golden eagles from 2020, published in 2021.
 
-|       Date range       |Golden Eagle  <br/>relative  <br/>abundance|
-|------------------------|-------------------------------------------|
-|  1. February 8-June 6  |                   0.081                   |
-|  2. June 7-August 30   |                   0.065                   |
-|3. August 31-December 6 |                   0.091                   |
-|4. December 7-February 7|                   0.091                   |
+(B) [Reserved]
+
+|        Date range        |Bald eagle relative abundance|
+|--------------------------|-----------------------------|
+|  1. February 15-May 23   |            0.821            |
+|    2. May 24-July 19     |            0.686            |
+|  3. July 20-December 20  |            0.705            |
+|4. December 21-February 14|            1.357            |
+
+|       Date range       |Golden eagle relative abundance|
+|------------------------|-------------------------------|
+|  1. February 8-June 6  |             0.081             |
+|  2. June 7-August 30   |             0.065             |
+|3. August 31-December 6 |             0.091             |
+|4. December 7-February 7|             0.091             |
 
 (2) Be a project currently authorized under a general permit that:
 
@@ -71,3 +75,5 @@
 (ii) For wind energy general permits, you must obtain eagle credits from a Service-approved conservation bank or in-lieu fee program based on the hazardous volume of the project (in cubic kilometers). The hazardous volume of a project is calculated as the number of turbines multiplied by 0.200π(d/2)^2 where d is the diameter of the blades in kilometers. You must obtain eagle credits at the following rates: Atlantic/Mississippi EMUs: 6.02 eagles/km3, Central EMU: 7.46 eagles/km3, and Pacific EMU: 11.12 eagles/km3.
 
 (g) *Tenure of permits.* General permits are valid for 5 years from the date of registration. Specific permits may be valid for up to 30 years.
+
+[89 FR 9958, Feb. 12, 2024, as amended at 89 FR 83631, Oct. 17, 2024]

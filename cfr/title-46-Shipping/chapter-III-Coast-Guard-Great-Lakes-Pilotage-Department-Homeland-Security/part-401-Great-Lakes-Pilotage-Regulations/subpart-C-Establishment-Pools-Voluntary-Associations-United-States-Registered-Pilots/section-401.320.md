@@ -1,8 +1,6 @@
-##### § 401.320 Requirements and qualifications for authorization to establish pools. #####
+##### § 401.320 Requirements and qualifications for authorization to establish pilotage pools. #####
 
-Link to an amendment published at 89 FR 76350, Sept. 17, 2024.
-
-No voluntary association shall be authorized to establish a pool unless:
+No voluntary association will be authorized to establish a pilotage pool unless:
 
 (a) The Director determines that a pool is necessary for the efficient dispatching of vessels and the providing of pilotage services in the area concerned.
 
@@ -12,7 +10,7 @@ No voluntary association shall be authorized to establish a pool unless:
 
 (d) The voluntary association agrees that:
 
-(1) Pilotage services will be provided on a first-come, first-serve basis to vessels giving proper notice of arrival time or pilotage service requirements, to the pilotage station, except that pilots will not be required to board vessels which do not provide safe boarding facilities;
+(1) Pilotage services will be provided on a first-come, first-serve basis to vessels giving proper notice of arrival time or pilotage service requirements, to the pilotage station, except that Pilots will not be required to board vessels which do not provide safe boarding facilities;
 
 (2) It will submit working rules for approval of the Commandant;
 
@@ -20,8 +18,8 @@ No voluntary association shall be authorized to establish a pool unless:
 
 (4) It will be subject to audit and inspection by the U.S. Coast Guard and will submit by April 1 of each year an unqualified long form audit report for the preceding year prepared by an Independent Certified Public Accountant, performed in accordance with Generally Accepted Auditing Standards promulgated by the American Institute of Certified Public Accountants.
 
-(5) It will be subject to such other provisions as may be prescribed by the Director governing the operation of and the costs which may be charged in connection with the pools;
+(5) It will be subject to such other provisions as may be prescribed by the Director governing the operation of and the costs which may be charged in connection with the pilotage pools;
 
-(6) It will coordinate on a reciprocal basis its pool operations with similar pool arrangements established by the Canadian Government and pursuant to the provisions of the United States-Canada Memorandum of Arrangements, Great Lakes Pilotage, or any other arrangements established by the United States and Canadian Governments.
+(6) It will coordinate on a reciprocal basis its pilotage pool operations with similar pilotage pool arrangements established by the Canadian Government and pursuant to the provisions of the United States-Canada Memorandum of Understanding, Great Lakes Pilotage, or any other arrangements established by the United States and Canadian Governments.
 
-[29 FR 10466, July 28, 1964, as amended at 31 FR 9066, July 1, 1966; 32 FR 14221, Oct. 13, 1967; CGD 81-088, 47 FR 13808, Apr. 1, 1982; CGD 88-111, 55 FR 17581, Apr. 25, 1990; 61 FR 5721, Feb. 14, 1996. Redesignated and amended at 61 FR 32655, June 25, 1996, and further redesignated and amended by USCG-1998-3976, 63 FR 35139, 35140, June 29, 1998]
+[29 FR 10466, July 28, 1964, as amended at 31 FR 9066, July 1, 1966; 32 FR 14221, Oct. 13, 1967; CGD 81-088, 47 FR 13808, Apr. 1, 1982; CGD 88-111, 55 FR 17581, Apr. 25, 1990; 61 FR 5721, Feb. 14, 1996. Redesignated and amended at 61 FR 32655, June 25, 1996, and further redesignated and amended by USCG-1998-3976, 63 FR 35139, 35140, June 29, 1998; USCG-2022-0025, 89 FR 76350, Sept. 17, 2024]

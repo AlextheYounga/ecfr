@@ -1,5 +1,7 @@
 ##### § 242.10 Federal Subsistence Board. #####
 
+Link to an amendment published at 89 FR 83628, Oct. 17, 2024.
+
 (a) The Secretary of the Interior and Secretary of Agriculture hereby establish a Federal Subsistence Board, and assign it responsibility for administering the subsistence taking and uses of fish and wildlife on public lands, and the related promulgation and signature authority for regulations of subparts C and D of this part. The Secretaries, however, retain their existing authority to restrict or eliminate hunting, fishing, or trapping activities which occur on lands or waters in Alaska other than public lands when such activities interfere with subsistence hunting, fishing, or trapping on the public lands to such an extent as to result in a failure to provide the subsistence priority.
 
 (b) *Membership.* (1) The voting members of the Board are: A Chair to be appointed by the Secretary of the Interior with the concurrence of the Secretary of Agriculture; two public members who possess personal knowledge of and direct experience with subsistence uses in rural Alaska to be appointed by the Secretary of the Interior with the concurrence of the Secretary of Agriculture; the Alaska Regional Director, U.S. Fish and Wildlife Service; Alaska Regional Director, National Park Service; Alaska Regional Forester, U.S. Forest Service; the Alaska State Director, Bureau of Land Management; and the Alaska Regional Director, Bureau of Indian Affairs. Each Federal agency member of the Board may appoint a designee.
