@@ -1,7 +1,5 @@
 ##### § 900.11 Requirements for certification. #####
 
-Link to an amendment published at 88 FR 15168, Mar. 10, 2023.
-
 (a) *General.* After October 1, 1994, a certificate issued by FDA is required for lawful operation of all mammography facilities subject to the provisions of this subpart. To obtain a certificate from FDA, facilities are required to meet the quality standards in § 900.12 and to be accredited by an approved accreditation body or other entity as designated by FDA.
 
 (b) *Application*—(1) *Certificates.* (i) In order to qualify for a certificate, a facility must apply to an FDA-approved accreditation body, or to another entity designated by FDA. The facility shall submit to such body or entity the information required in 42 U.S.C. 263b(d)(1).

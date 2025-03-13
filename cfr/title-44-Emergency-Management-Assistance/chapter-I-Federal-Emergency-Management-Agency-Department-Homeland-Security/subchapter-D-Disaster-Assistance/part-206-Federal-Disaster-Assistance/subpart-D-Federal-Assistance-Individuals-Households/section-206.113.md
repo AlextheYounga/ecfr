@@ -1,5 +1,7 @@
 ##### § 206.113 Eligibility factors. #####
 
+Link to an amendment published at 89 FR 4120, Jan. 22, 2024.
+
 (a) *Conditions of eligibility.* In general, FEMA may provide assistance to individuals and households who qualify for such assistance under section 408 of the Stafford Act and this subpart. FEMA may only provide assistance:
 
 (1) When the individual or household has incurred a disaster-related necessary expense or serious need in the state in which the disaster has been declared, without regard to their residency in that state;

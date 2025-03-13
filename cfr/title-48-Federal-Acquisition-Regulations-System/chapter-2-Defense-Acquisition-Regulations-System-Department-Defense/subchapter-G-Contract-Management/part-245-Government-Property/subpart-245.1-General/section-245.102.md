@@ -1,7 +1,5 @@
 ##### 245.102 Policy. #####
 
-Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
-
 See the policy guidance at PGI 245.102-70.
 
 (1) *Mapping, charting, and geodesy property.* All Government-furnished mapping, charting, and geodesy (MC&G) property is under the control of the Director, National Geospatial Intelligence Agency.
@@ -16,17 +14,17 @@ See the policy guidance at PGI 245.102-70.
 
 (C) Specify the destination and means of shipment for property to be returned to the Government.
 
-(2) *Government supply sources.* When a contractor will be responsible for preparing requisitioning documentation to acquire Government-furnished property from Government supply sources, include in the contract the requirement to prepare the documentation in accordance with DoD 4000.25-1-M, Military Standard Requisitioning and Issue Procedures (MILSTRIP). Copies are available from the address cited at PGI 251.102.
+(2) *Government supply sources.* When a contractor will be responsible for preparing requisitioning documentation to acquire Government-furnished property (GFP) from Government supply sources, include in the contract the requirement to prepare the documentation in accordance with DLM 4000.25, Defense Logistics Management Standards (DLMS), Volume 2, Supply Standards and Procedures. Copies are available from the address cited at PGI 251.102.
 
 (3) *Acquisition and management of industrial resources.* See Subpart 237.75 for policy relating to facilities projects.
 
-(4) *Government-furnished property identification.*
+(4) *GFP identification.*
 
-(i) It is DoD policy that Government-furnished property be tagged, labeled, or marked based on DoD marking standards (MIL Standard 130) or other standards, when the requiring activity determines that such items are subject to serialized item management (serially-managed items). The list of Government-furnished property subject to serialized item management will be identified in the contract in accordance with PGI 245.103-72, Government-furnished property attachments to solicitations and awards.
+(i) It is DoD policy that GFP be tagged, labeled, or marked based on DoD marking standards (MIL Standard 130) or other standards, when the requiring activity determines that such items are subject to serialized item management (serially-managed items). The list of Government-furnished property subject to serialized item management will be identified in the contract in accordance with PGI 245.103-72, Government-furnished property attachments to solicitations and awards.
 
 (ii) *Exceptions.* The Contractor will not be required to tag, label, or mark—
 
-(A) Government-furnished property that was previously tagged, labeled, or marked;
+(A) GFP that was previously tagged, labeled, or marked;
 
 (B) Items, as determined by the head of the agency, that are to be used to support a contingency operation; or to facilitate defense against or recovery from nuclear, biological, chemical, or radiological attack;
 
@@ -50,6 +48,6 @@ See the policy guidance at PGI 245.102-70.
 
 (H) Real property.
 
-(5) *Reporting loss of Government property.* The Government-Furnished Property module of the Procurement Integrated Enterprise Environment is the DoD data repository for reporting loss of Government property in the possession of contractors. The requirements and procedures for reporting loss of Government property to the Government-Furnished Property module are set forth in the clause at 252.245-7002, Reporting Loss of Government Property, prescribed at 245.107.
+(5) *Reporting Government property.* It is DoD policy that all Government property be reported in the GFP module or Wide Area WorkFlow module of the Procurement Integrated Enterprise Environment (PIEE) as required by the clause at 252.245-7005, Management and Reporting of Government Property.
 
-[74 FR 37647, July 29, 2009, as amended at 76 FR 3537, Jan. 20, 2011; 76 FR 6006, 6008, Feb. 2, 2011; 80 FR 2021, Jan. 15, 2015; 81 FR 36473, June 7, 2016; 86 FR 3839, Jan. 15, 2021; 88 FR 6588, Jan. 31, 2023]
+[74 FR 37647, July 29, 2009, as amended at 76 FR 3537, Jan. 20, 2011; 76 FR 6006, 6008, Feb. 2, 2011; 80 FR 2021, Jan. 15, 2015; 81 FR 36473, June 7, 2016; 86 FR 3839, Jan. 15, 2021; 88 FR 6588, Jan. 31, 2023; 88 FR 88537, Dec. 22, 2023]

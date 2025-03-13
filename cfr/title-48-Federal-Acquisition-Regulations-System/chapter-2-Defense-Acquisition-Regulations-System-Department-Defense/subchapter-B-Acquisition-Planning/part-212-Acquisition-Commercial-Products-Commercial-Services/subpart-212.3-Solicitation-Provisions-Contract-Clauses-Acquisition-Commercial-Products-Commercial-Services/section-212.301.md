@@ -56,11 +56,9 @@ Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
 
 (iv) *Part 209—Contractor Qualifications.* Use the provision at 252.209-7011, Representation for Restriction on the Use of Certain Institutions of Higher Education, as prescribed at 209.170-4, to comply with section 1062 of the National Defense Authorization Act for Fiscal Year 2021 (Pub. L. 116-283).
 
-(v) *Part 211—Describing Agency Needs.* (A) Use the clause at 252.211-7003, Item Unique Identification and Valuation, as prescribed in 211.274-6(a)(1).
+(v) *Part 211—Describing Agency Needs.* (A) Use the clause at 252.211-7003, Item Unique Identification and Valuation, as prescribed in 211.274-5(a).
 
-(B) Use the clause at 252.211-7007, Reporting of Government-Furnished Property, as prescribed in 211.274-6.
-
-(C) Use the clause at 252.211-7008, Use of Government-Assigned Serial Numbers, as prescribed in 211.274-6(c).
+(B) Use the clause at 252.211-7008, Use of Government-Assigned Serial Numbers, as prescribed in 211.274-5(b).
 
 (vi)*Part 215—Contracting by Negotiation.* (A) Use the provision at 252.215-7003, Requirements for Submission of Data Other Than Certified Cost or Pricing Data—Canadian Commercial Corporation, as prescribed at 215.408(2)(i).
 
@@ -262,13 +260,15 @@ Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
 
 (xviii) *Part 244—Subcontracting Policies and Procedures.* Use the clause at 252.244-7000, Subcontracts for Commercial Products and Commercial Services, as prescribed in 244.403.
 
-(xix) *Part 246—Quality Assurance.* (A) Use the clause at 252.246-7003, Notification of Potential Safety Issues, as prescribed in246.370(a).
+(xix) *Part 245—Government Property.* Use the clause at 252.245-7005, Management and Reporting of Government Property, as prescribed in 245.107(4).
+
+(xx) *Part 246—Quality Assurance.* (A) Use the clause at 252.246-7003, Notification of Potential Safety Issues, as prescribed in246.370(a).
 
 (B) Use the clause at 252.246-7004, Safety of Facilities, Infrastructure, and Equipment for Military Operations, as prescribed in 246.270-4, to comply with section 807 of Pub. L. 111-84.
 
 (C) Use the clause at 252.246-7008, Sources of Electronic Parts, as prescribed in 246.870-3(b), to comply with section 818(c)(3) of Public Law 112-81, as amended by section 817 of the National Defense Authorization Act for Fiscal Year 2015 (Pub. L. 113-291 and section 885 of the National Defense Authorization Act for Fiscal Year 2016 (Pub. L. 114-92).
 
-(xx) *Part 247—Transportation.* (A) Use the clause at 252.247-7003, Pass-Through of Motor Carrier Fuel Surcharge Adjustment to the Cost Bearer, as prescribed in 247.207, to comply with section 884 of Pub. L. 110-417.
+(xxi) *Part 247—Transportation.* (A) Use the clause at 252.247-7003, Pass-Through of Motor Carrier Fuel Surcharge Adjustment to the Cost Bearer, as prescribed in 247.207, to comply with section 884 of Pub. L. 110-417.
 
 (B) Use the provision at 252.247-7022, Representation of Extent of Transportation by Sea, as prescribed in 247.574(a).
 
@@ -288,4 +288,4 @@ Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
 
 (G) Use the clause at 252.247-7028, Application for U.S. Government Shipping Documentation/Instructions, as prescribed in 247.207.
 
-[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019; 84 FR 58332, Oct. 31, 2019; 84 FR 72237, 72559, Dec. 31, 2019; 85 FR 19697, Apr. 8, 2020; 85 FR 61501, 61520, Sept. 29, 2020; 85 FR 74612, Nov. 23, 2020; 85 FR 61520, Sept. 29, 2020; 86 FR 3836, Jan. 15, 2021; 86 FR 27277, May 20, 2021; 86 FR 36236, July 9, 2021; 86 FR 48338, Aug. 30, 2021; 87 FR 15810, Mar. 18, 2022; 87 FR 52347, Aug. 25, 2022; 87 FR 65501, 65512, 65514, 65517, Oct. 28, 2022; 87 FR 76983, 76986, 76991, Dec. 16, 2022; 88 FR 6582, Jan. 31, 2023; 88 FR 12863, Mar. 1, 2023; 88 FR 17339, Mar. 22, 2023; 88 FR 25512, Apr. 27, 2023; 88 FR 37797, June 9, 2023; 88 FR 46902, 46905, July 20, 2023; 88 FR 67606, 67609, Sept. 29, 2023; 88 FR 80464, Nov. 17, 2023]
+[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019; 84 FR 58332, Oct. 31, 2019; 84 FR 72237, 72559, Dec. 31, 2019; 85 FR 19697, Apr. 8, 2020; 85 FR 61501, 61520, Sept. 29, 2020; 85 FR 74612, Nov. 23, 2020; 85 FR 61520, Sept. 29, 2020; 86 FR 3836, Jan. 15, 2021; 86 FR 27277, May 20, 2021; 86 FR 36236, July 9, 2021; 86 FR 48338, Aug. 30, 2021; 87 FR 15810, Mar. 18, 2022; 87 FR 52347, Aug. 25, 2022; 87 FR 65501, 65512, 65514, 65517, Oct. 28, 2022; 87 FR 76983, 76986, 76991, Dec. 16, 2022; 88 FR 6582, Jan. 31, 2023; 88 FR 12863, Mar. 1, 2023; 88 FR 17339, Mar. 22, 2023; 88 FR 25512, Apr. 27, 2023; 88 FR 37797, June 9, 2023; 88 FR 46902, 46905, July 20, 2023; 88 FR 67606, 67609, Sept. 29, 2023; 88 FR 80464, Nov. 17, 2023; 88 FR 88537, Dec. 22, 2023]

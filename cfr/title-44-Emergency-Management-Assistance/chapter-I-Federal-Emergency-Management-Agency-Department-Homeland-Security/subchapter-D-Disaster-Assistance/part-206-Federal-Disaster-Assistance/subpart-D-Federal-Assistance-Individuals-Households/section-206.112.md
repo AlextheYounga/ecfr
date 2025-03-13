@@ -1,5 +1,7 @@
 ##### § 206.112 Registration period. #####
 
+Link to an amendment published at 89 FR 4120, Jan. 22, 2024.
+
 (a) *Initial period.* The standard FEMA registration period is 60 days following the date that the President declares an incident a major disaster or an emergency.
 
 (b) *Extension of the registration period.* The regional administrator or his/her designee may extend the registration period when the State requests more time to collect registrations from the affected population. The Regional Administrator or his/her designee may also extend the standard registration period when necessary to establish the same registration deadline for contiguous counties or States.

@@ -1,7 +1,5 @@
 ##### § 812.2 Applicability. #####
 
-Link to an amendment published at 88 FR 88249, Dec. 21, 2023.
-
 (a) *General.* This part applies to all clinical investigations of devices to determine safety and effectiveness, except as provided in paragraph (c) of this section.
 
 (b) *Abbreviated requirements.* The following categories of investigations are considered to have approved applications for IDE's, unless FDA has notified a sponsor under § 812.20(a) that approval of an application is required:
@@ -12,7 +10,7 @@ Link to an amendment published at 88 FR 88249, Dec. 21, 2023.
 
 (ii) Obtains IRB approval of the investigation after presenting the reviewing IRB with a brief explanation of why the device is not a significant risk device, and maintains such approval;
 
-(iii) Ensures that each investigator participating in an investigation of the device obtains from each subject under the investigator's care, informed consent under part 50 and documents it, unless documentation is waived by an IRB under § 56.109(c).
+(iii) Ensures that each investigator participating in an investigation of the device obtains from each subject under the investigator's care, informed consent in accordance with part 50 of this chapter.
 
 (iv) Complies with the requirements of § 812.46 with respect to monitoring investigations;
 
@@ -52,4 +50,4 @@ Link to an amendment published at 88 FR 88249, Dec. 21, 2023.
 
 (e) *Investigations subject to IND's.* A sponsor that, on July 16, 1980, has an effective investigational new drug application (IND) for an investigation of a device shall continue to comply with the requirements of part 312 until 90 days after that date. To continue the investigation after that date, a sponsor shall comply with paragraph (b)(1) of this section, if the device is not a significant risk device, or shall have obtained FDA approval under § 812.30 of an IDE application for the investigation of the device.
 
-[45 FR 3751, Jan. 18, 1980, as amended at 46 FR 8956, Jan. 27, 1981; 46 FR 14340, Feb. 27, 1981; 53 FR 11252, Apr. 6, 1988; 62 FR 4165, Jan. 29, 1997; 62 FR 12096, Mar. 14, 1997]
+[45 FR 3751, Jan. 18, 1980, as amended at 46 FR 8956, Jan. 27, 1981; 46 FR 14340, Feb. 27, 1981; 53 FR 11252, Apr. 6, 1988; 62 FR 4165, Jan. 29, 1997; 62 FR 12096, Mar. 14, 1997; 88 FR 88249, Dec. 21, 2023]

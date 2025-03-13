@@ -1,8 +1,6 @@
 ##### 252.211-7008 Use of Government-assigned Serial Numbers. #####
 
-Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
-
-As prescribed in 211.274-6(c), use the following clause:
+As prescribed in 211.274-5(b), use the following clause:
 
 Use of Government-assigned Serial Numbers (SEP 2010)
 
@@ -20,4 +18,4 @@ Use of Government-assigned Serial Numbers (SEP 2010)
 
 (d) The Contractor shall establish the UII for major end items for use throughout the life of the major end item. The Contractor may elect, but is not required, to use the Government-assigned serial number to construct the UII.
 
-(End of clause)[75 FR 59103, Sept. 27, 2010]
+(End of clause)[75 FR 59103, Sept. 27, 2010, as amended at 88 FR 88537, Dec. 22, 2023]

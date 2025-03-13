@@ -1,7 +1,5 @@
 ##### 7.103 Agency-head responsibilities. #####
 
-Link to an amendment published at 88 FR 88727, Dec. 22, 2023.
-
 The agency head or a designee shall prescribe procedures for the following:
 
 (a) Promoting and providing for full and open competition (see part 6) or, when full and open competition is not required in accordance with part 6, for obtaining competition to the maximum extent practicable, with due regard to the nature of the supplies and services to be acquired (10 U.S.C. 3206(a)(1) and 41 U.S.C. 3306(a)(1)).
@@ -66,7 +64,7 @@ The agency head or a designee shall prescribe procedures for the following:
 
 (w) Ensuring that agency planners on information technology acquisitions comply with the information technology security requirements in the Federal Information Security Management Act (44 U.S.C. 3544), OMB's implementing policies including Appendix III of OMB Circular A-130, and guidance and standards from the Department of Commerce's National Institute of Standards and Technology.
 
-(x) Encouraging agency planners to consider the use of a project labor agreement (see subpart 22.5).
+(x) Ensuring that agency planners use project labor agreements when required (see subpart 22.5 and 36.104).
 
 (y) Ensuring that contracting officers consult the Disaster Response Registry via *https://www.sam.gov,* Search Records, Advanced Search, Disaster Response Registry Search as a part of acquisition planning for debris removal, distribution of supplies, reconstruction, and other disaster or emergency relief activities inside the United States and outlying areas. (See 26.205).
 

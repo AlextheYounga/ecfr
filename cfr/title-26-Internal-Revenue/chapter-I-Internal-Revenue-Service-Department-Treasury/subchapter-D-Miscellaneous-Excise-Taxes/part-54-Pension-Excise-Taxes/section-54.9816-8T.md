@@ -1,7 +1,5 @@
 ##### § 54.9816-8T Independent dispute resolution process (temporary). #####
 
-Link to an amendment published at 88 FR 88524, Dec. 21, 2023.
-
 (a) *Scope and definitions*—(1) *Scope.* This section sets forth requirements with respect to the independent dispute resolution (IDR) process (referred to in this section as the Federal IDR process) under which a nonparticipating provider, nonparticipating emergency facility, or nonparticipating provider of air ambulance services (as applicable); and a group health plan complete a requisite open negotiation period, and at least one party submits a notification under paragraph (b) of this section to initiate the Federal IDR process under paragraph (c) of this section, and under which an IDR entity (as certified under paragraph (e) of this section) determines the amount of payment under the plan for an item or service furnished by the provider or facility.
 
 (2) *Definitions.* Unless otherwise stated, the definitions in § 54.9816-3T apply to this section. Additionally, for purposes of this section, the following definitions apply:
@@ -214,7 +212,9 @@ Link to an amendment published at 88 FR 88524, Dec. 21, 2023.
 
 (2) *Administrative fee.* (i) Each party to a determination for which a certified IDR entity is selected under paragraph (c)(1) of this section must, at the time the certified IDR entity is selected under paragraph (c)(1), pay to the certified IDR entity a non-refundable administrative fee due to the Secretary for participating in the Federal IDR process described in this section.
 
-(ii) The administrative fee amount will be established in guidance published annually by the Secretary in a manner such that the total fees paid for a year are estimated to be equal to the projected amount of expenditures by the Departments of the Treasury, Labor, and Health and Human Services for the year in carrying out the Federal IDR process.
+(ii) For further guidance, see § 54.9816-8(d)(2)(ii).
+
+(3) *Severability.* For further guidance, see § 54.9816-8(d)(3).
 
 (e) *Certification of IDR entity*—(1) *In general.* In order to be selected under paragraph (c)(1) of this section—
 
@@ -230,7 +230,7 @@ Link to an amendment published at 88 FR 88524, Dec. 21, 2023.
 
 (ii) Employ (directly or through contracts or other arrangements) a sufficient number of personnel to make the determinations described in paragraph (c) of this section within the time prescribed by (c)(4)(ii) of this section. To satisfy this standard, the written documentation must include a description of the IDR entity's organizational structure and capabilities, including an organizational chart and the credentials, responsibilities, and number of personnel employed to make determinations described in paragraph (c) of this section.
 
-(iii) Maintain a current accreditation from a nationally recognized and relevant accrediting organization, such as URAC, or ensure that it otherwise possesses the requisite training to conduct payment determinations (for example, providing documentation that personnel employed by the IDR entity have completed arbitration training by the American Arbitration Association, the American Health Law Association, or a similar organization);
+(iii) Maintain a current accreditation from a nationally recognized and relevant accrediting organization, such as URAC, or ensure that it otherwise possesses the requisite training to conduct payment determinations (for example, providing documentation that personnel employed by the IDR entity have completed arbitration training by the American Arbitration Association, the American Health Law Association, or a similar organization).
 
 (iv) Have a process to ensure that no conflict of interest, as defined in paragraph (a)(2) of this section, exists between the parties and the personnel the certified IDR entity assigns to a payment determination to avoid violating paragraph (c)(1)(ii) of this section, including policies and procedures for conducting ongoing audits for conflicts of interest, to ensure that should any conflicts of interest arise, the certified IDR entity has procedures in place to inform the Secretary, jointly with the Secretary of Health and Human Services and the Secretary of Labor, of the conflict of interest and to mitigate the risk by reassigning the dispute to other personnel in the event that any personnel previously assigned have a conflict of interest.
 
@@ -272,27 +272,19 @@ Link to an amendment published at 88 FR 88524, Dec. 21, 2023.
 
 (D) *Application to contractor and subcontractors.* The certified IDR entity must ensure compliance with this paragraph (e)(2)(v) of this section by any contractor or subcontractor with access to IIHI performing any duties related to the Federal IDR process.
 
-(vi) Meet appropriate indicators of fiscal integrity and stability by demonstrating that the certified IDR entity has a system of safeguards and controls in place to prevent and detect improper financial activities by its employees and agents to assure fiscal integrity and accountability for all certified IDR entity fees and administrative fees received, held, and disbursed and by submitting 3 years of financial statements or, if not available, other information to demonstrate fiscal stability of the IDR entity;
+(vi) Meet appropriate indicators of fiscal integrity and stability by demonstrating that the certified IDR entity has a system of safeguards and controls in place to prevent and detect improper financial activities by its employees and agents to assure fiscal integrity and accountability for all certified IDR entity fees and administrative fees received, held, and disbursed and by submitting 3 years of financial statements or, if not available, other information to demonstrate fiscal stability of the IDR entity.
 
-(vii) Provide a fixed fee for single determinations and a separate fixed fee for batched determinations within the upper and lower limits for each, as set forth in guidance issued by the Secretary. The certified IDR entity may not charge a fee that is not within the approved limits as set forth in guidance unless the certified IDR entity or IDR entity seeking certification receives written approval from the Secretary to charge a flat rate beyond the upper or lower limits approved by the Secretary for fees. The certified IDR entity or IDR entity seeking certification may update its fees and seek approval from the Secretary to charge a flat fee beyond the upper or lower limits for fees annually as provided in guidance. In order for the certified IDR entity to receive the Secretary's written approval to charge a flat fee beyond the upper or lower limits for fees as set forth in guidance, it must satisfy both conditions in paragraphs (e)(2)(vii)(A) and (B) of this section as follows:
+(vii) For further guidance, see § 54.9816-8(e)(2)(vii).
 
-(A) Submit, in writing, a proposal to the Secretary that includes:
+(viii) For further guidance, see § 54.9816-8(e)(2)(viii).
 
-(*1*) The alternative flat fee the certified IDR entity or IDR entity seeking certification believes is appropriate for the certified IDR entity or IDR entity seeking certification to charge;
+(ix) Have a procedure in place to retain the certified IDR entity fees described in paragraph (d)(1) of this section paid by both parties in a trust or escrow account and to return the certified IDR entity fee paid by the prevailing party of an IDR payment determination, or half of each party's certified IDR entity fee in the case of an agreement described in paragraph (c)(2)(i) of this section, within 30 business days following the date of the determination.
 
-(*2*) A description of the circumstances that require the alternative fee; and
+(x) Have a procedure in place to retain the administrative fees described in paragraph (d)(2) of this section and to remit the administrative fees to the Secretary in accordance with the timeframe and procedures set forth in guidance published by the Secretary.
 
-(*3*) A description of how the alternative flat rate will be used to mitigate the effects of these circumstances; and
+(xi) Discharge its responsibilities in accordance with paragraph (c) of this section, including not making any determination with respect to which the certified IDR entity would not be eligible for selection pursuant to paragraph (c)(1) of this section.
 
-(B) Receive from the Secretary, jointly with the Secretary of Health and Human Services and the Secretary of Labor, written approval to charge the fee documented in the certified IDR entity's or the IDR entity seeking certification's written proposal.
-
-(viii) Have a procedure in place to retain the certified IDR entity fees described in paragraph (d)(1) of this section paid by both parties in a trust or escrow account and to return the certified IDR entity fee paid by the prevailing party of an IDR payment determination, or half of each party's certified IDR entity fee in the case of an agreement described in paragraph (c)(2)(i) of this section, within 30 business days following the date of the determination;
-
-(ix) Have a procedure in place to retain the administrative fees described in paragraph (d)(2) of this section and to remit the administrative fees to the Secretary in accordance with the timeframe and procedures set forth in guidance published by the Secretary;
-
-(x) Discharge its responsibilities in accordance with paragraph (c) of this section, including not making any determination with respect to which the certified IDR entity would not be eligible for selection pursuant to paragraph (c)(1) of this section; and
-
-(xi) Collect the information required to be reported to the Secretary under paragraph (f) of this section and report the information on a timely basis in the form and manner provided in guidance published by the Secretary.
+(xii) Collect the information required to be reported to the Secretary under paragraph (f) of this section and report the information on a timely basis in the form and manner provided in guidance published by the Secretary.
 
 (3) *Conflict-of-interest standards.* In addition to the general standards set forth in paragraph (e)(2)(iv) of this section, an IDR entity must provide written documentation that the IDR entity satisfies the standards to be a certified IDR entity under this paragraph (e)(3).
 
@@ -402,4 +394,4 @@ Link to an amendment published at 88 FR 88524, Dec. 21, 2023.
 
 (h) *Applicability date.* The provisions of this section are applicable with respect to plan years beginning on or after January 1, 2022, except that the provisions regarding IDR entity certification at paragraphs (a) and (e) of this section are applicable beginning on October 7, 2021; and paragraphs (c)(4)(ii) through (iv) of this section regarding payment determinations, paragraph (c)(4)(vi)(B) of this section regarding written decisions, and paragraph (f)(1)(v)(F) of this section regarding reporting of information relating to the Federal IDR process are applicable with respect to items or services provided or furnished on or after October 25, 2022, for plan years beginning on or after January 1, 2022.
 
-[T.D. 9955, 86 FR 56100, Oct. 7, 2021, as amended by T.D. 9965, 87 FR 52647, Aug. 26, 2022]
+[T.D. 9955, 86 FR 56100, Oct. 7, 2021, as amended by T.D. 9965, 87 FR 52647, Aug. 26, 2022; T.D. 9985, 88 FR 88524, Dec. 21, 2023]

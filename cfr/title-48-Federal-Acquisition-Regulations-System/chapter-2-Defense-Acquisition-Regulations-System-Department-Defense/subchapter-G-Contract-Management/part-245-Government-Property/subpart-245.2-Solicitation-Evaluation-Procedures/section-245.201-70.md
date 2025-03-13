@@ -1,5 +1,5 @@
-##### 245.201-70 Definitions. #####
+##### 245.201-70 Security classification. #####
 
-Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
+Follow the procedures at PGI 245.201-70 for security classification.
 
-*See* the definitions at PGI 245.201-70.
+[88 FR 88537, Dec. 22, 2023]

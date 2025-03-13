@@ -1,5 +1,7 @@
 ##### § 206.191 Duplication of benefits. #####
 
+Link to an amendment published at 89 FR 4124, Jan. 22, 2024.
+
 (a) *Purpose.* This section establishes the policies for implementing section 312 of the Stafford Act, entitled Duplication of Benefits. This section relates to assistance for individuals and families.
 
 (b) *Government policy.* (1) Federal agencies providing disaster assistance under the Act or under their own authorities triggered by the Act, shall cooperate to prevent and rectify duplication of benefits, according to the general policy guidance of the Federal Emergency Management Agency. The agencies shall establish appropriate agency policies and procedures to prevent duplication of benefits.

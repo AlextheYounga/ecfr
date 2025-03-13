@@ -1,5 +1,7 @@
 ##### § 206.115 Appeals. #####
 
+Link to an amendment published at 89 FR 4121, Jan. 22, 2024.
+
 (a) Under the provisions of section 423 of the Stafford Act, applicants for assistance under this subpart may appeal any determination of eligibility for assistance made under this subpart. Applicants must file their appeal within 60 days after the date that we notify the applicant of the award or denial of assistance. Applicants may appeal the following:
 
 (1) Eligibility for assistance, including recoupment;

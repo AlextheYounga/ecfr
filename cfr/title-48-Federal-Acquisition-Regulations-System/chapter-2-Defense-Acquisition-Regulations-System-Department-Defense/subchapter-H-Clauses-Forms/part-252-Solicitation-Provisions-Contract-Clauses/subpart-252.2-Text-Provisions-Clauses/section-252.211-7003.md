@@ -1,8 +1,6 @@
 ##### 252.211-7003 Item Unique Identification and Valuation. #####
 
-Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
-
-As prescribed in 211.274-6(a)(1), use the following clause:
+As prescribed in 211.274-5(a), use the following clause:
 
 Item Unique Identification and Valuation (JAN 2023)
 
@@ -198,4 +196,4 @@ Item Unique Identification and Valuation (JAN 2023)
 
 (g) *Subcontracts.* If the Contractor acquires by subcontract any item(s) for which item unique identification is required in accordance with paragraph (c)(1) of this clause, the Contractor shall include this clause, including this paragraph (g), in the applicable subcontract(s), including subcontracts for commercial products or commercial services.
 
-(End of clause)[70 FR 20836, Apr. 22, 2005, as amended at 70 FR 35549, June 21, 2005; 72 FR 52298, Sept. 13, 2007; 73 FR 27464, May 13, 2008; 73 FR 46820, Aug. 12, 2008; 75 FR 59103, Sept. 27, 2010; 76 FR 33169, June 8, 2011; 76 FR 76320, Dec. 7, 2011; 78 FR 37990, June 25, 2013; 78 FR 76072, Dec. 16, 2013; 79 FR 30474, May 28, 2014; 81 FR 17043, Mar. 25, 2016; 87 FR 15818, Mar. 18, 2022; 88 FR 6589, Jan. 31, 2023]
+(End of clause)[70 FR 20836, Apr. 22, 2005, as amended at 70 FR 35549, June 21, 2005; 72 FR 52298, Sept. 13, 2007; 73 FR 27464, May 13, 2008; 73 FR 46820, Aug. 12, 2008; 75 FR 59103, Sept. 27, 2010; 76 FR 33169, June 8, 2011; 76 FR 76320, Dec. 7, 2011; 78 FR 37990, June 25, 2013; 78 FR 76072, Dec. 16, 2013; 79 FR 30474, May 28, 2014; 81 FR 17043, Mar. 25, 2016; 87 FR 15818, Mar. 18, 2022; 88 FR 6589, Jan. 31, 2023; 88 FR 88537, Dec. 22, 2023]

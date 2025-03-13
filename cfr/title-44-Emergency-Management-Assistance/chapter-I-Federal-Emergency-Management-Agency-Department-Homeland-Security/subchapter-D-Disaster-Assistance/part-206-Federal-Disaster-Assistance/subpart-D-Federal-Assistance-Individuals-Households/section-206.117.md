@@ -1,5 +1,7 @@
 ##### § 206.117 Housing assistance. #####
 
+Link to an amendment published at 89 FR 4121, Jan. 22, 2024.
+
 (a) *Definitions.* The definitions in this paragraph apply to this section only.
 
 “*Caused by the disaster”* means as a direct result of a peril identified in the Federal Register Notice of a Presidentially-declared major disaster or emergency, the component is no longer functional.

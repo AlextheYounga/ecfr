@@ -1,8 +1,6 @@
 ##### 252.245-7003 Contractor Property Management System Administration. #####
 
-Link to an amendment published at 88 FR 88537, Dec. 22, 2023.
-
-As prescribed in 245.107(5), insert the following clause:
+As prescribed in 245.107(3), insert the following clause:
 
 Contractor Property Management System Administration (APR 2012)
 
@@ -34,4 +32,4 @@ Contractor Property Management System Administration (APR 2012)
 
 (f) *Withholding payments.* If the Contracting Officer makes a final determination to disapprove the Contractor's property management system, and the contract includes the clause at 252.242-7005, Contractor Business Systems, the Contracting Officer will withhold payments in accordance with that clause.
 
-(End of clause)[76 FR 28878, May 18, 2011, as amended at 77 FR 11366, Feb. 24, 2012; 77 FR 23632, Apr. 20, 2012; 85 FR 53683, Aug. 31, 2020]
+(End of clause)[76 FR 28878, May 18, 2011, as amended at 77 FR 11366, Feb. 24, 2012; 77 FR 23632, Apr. 20, 2012; 85 FR 53683, Aug. 31, 2020; 88 FR 88537, Dec. 22, 2023]

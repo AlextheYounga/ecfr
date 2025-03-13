@@ -1,5 +1,7 @@
 ##### § 206.110 Federal assistance to individuals and households. #####
 
+Link to an amendment published at 89 FR 4118, Jan. 22, 2024.
+
 (a) *Purpose.* This section implements the policy and procedures set forth in section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, 42 U.S.C. 5174, as amended by the Disaster Mitigation Act of 2000. This program provides financial assistance and, if necessary, direct assistance to eligible individuals and households who, as a direct result of a major disaster or emergency, have uninsured or under-insured, necessary expenses and serious needs and are unable to meet such expenses or needs through other means.
 
 (b) *Maximum amount of assistance.* No individual or household will receive financial assistance greater than $25,000 under this subpart with respect to a single major disaster or emergency. FEMA will adjust the $25,000 limit annually to reflect changes in the Consumer Price Index (CPI) for All Urban Consumers that the Department of Labor publishes.

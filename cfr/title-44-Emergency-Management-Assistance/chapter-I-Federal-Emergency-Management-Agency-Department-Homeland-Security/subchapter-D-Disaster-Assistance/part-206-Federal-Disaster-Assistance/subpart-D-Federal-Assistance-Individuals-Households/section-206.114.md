@@ -1,5 +1,7 @@
 ##### § 206.114 Criteria for continued assistance. #####
 
+Link to an amendment published at 89 FR 4120, Jan. 22, 2024.
+
 (a) FEMA expects all recipients of assistance under this subpart to obtain and occupy permanent housing at the earliest possible time. FEMA may provide continued housing assistance during the period of assistance, but not to exceed the maximum amount of assistance for the program, based on need, and generally only when adequate, alternate housing is not available or when the permanent housing plan has not been fulfilled through no fault of the applicant.
 
 (b) *Additional criteria for continued assistance.* (1) All applicants requesting continued rent assistance must establish a realistic permanent housing plan no later than the first certification for continued assistance. Applicants will be required to provided documentation showing that they are making efforts to obtain permanent housing.

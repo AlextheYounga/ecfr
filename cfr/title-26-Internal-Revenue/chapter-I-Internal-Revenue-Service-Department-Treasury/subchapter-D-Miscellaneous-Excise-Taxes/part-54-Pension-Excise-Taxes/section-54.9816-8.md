@@ -1,12 +1,10 @@
 ##### § 54.9816-8 Independent dispute resolution process. #####
 
-Link to an amendment published at 88 FR 88523, Dec. 21, 2023.
+(a) *Scope and definitions.* For further guidance, see § 54.9816-8T(a).
 
-(a) For further guidance see § 54.9816-8T(a) and (b).
+(b) *Determination of payment amount through open negotiation and initiation of the Federal IDR process.* For further guidance, see § 54.9816-8T(b).
 
-(b) For further guidance see § 54.9816-8T(a) and (b).
-
-(c) For further guidance see § 54.9816-8T(c) introductory text through (c)(3).
+(c) *Federal IDR process following initiation.* For further guidance, see § 54.9816-8T(c) introductory text through (c)(3).
 
 (1)-(3) [Reserved]
 
@@ -81,11 +79,41 @@ contracted rates between the provider or facility, as applicable, and the plan o
 
 (ix) For further guidance see § 54.9816-8T(c)(4)(vii) through (ix).
 
-(d) For further guidance see § 54.9816-8T(d) through (e).
+(d) *Costs of IDR process*—(1) *Certified IDR entity fee.* For further guidance, see § 54.9816-8T(d)(1).
 
-(e) For further guidance see § 54.9816-8T(d) through (e).
+(2) *Administrative fee.* (i) For further guidance, see § 54.9816-8T(d)(2)(i).
 
-(f) For further guidance see § 54.9816-8T(f) introductory text through (f)(1)(iv).
+(ii) The administrative fee amount will be established through notice and comment rulemaking no more frequently than once per calendar year in a manner such that the total administrative fees paid for a year are estimated to be equal to the amount of expenditures estimated to be made by the Secretaries of the Treasury, Labor, and Health and Human Services for the year in carrying out the Federal IDR process. The administrative fee amount will remain in effect until changed by notice and comment rulemaking. For disputes initiated on or after January 22, 2024, the administrative fee amount is $115 per party per dispute.
+
+(3) *Severability.* (i) Any provision of this paragraph (d) or paragraphs (e)(2)(vii) and (viii) of this section held to be invalid or unenforceable as applied to any person or circumstance shall be construed so as to continue to give the maximum effect to the provision permitted by law, including as applied to persons not similarly situated or to dissimilar circumstances, unless such holding is that the provision of this paragraph (d) or paragraphs (e)(2)(vii) and (viii) is invalid and unenforceable in all circumstances, in which event the provision shall be severable from the remainder of this paragraph (d) or paragraphs (e)(2)(vii) and (viii) and shall not affect the remainder thereof.
+
+(ii) The provisions in this paragraph (d) and paragraphs (e)(2)(vii) and (viii) of this section are intended to be severable from each other.
+
+(e) *Certification of IDR entity*—(1) *In general.* For further guidance see § 54.9816-8T(e)(1).
+
+(2) *Requirement*s. (i) For further guidance, see § 54.8616-8T(e)(2)(i) through (vi).
+
+(ii)-(vi) [Reserved]
+
+(vii) Provide, no more frequently than once per calendar year, a fixed fee for single determinations and a separate fixed fee for batched determinations, as well as additional fixed tiered fees for batched determinations, if applicable, within the upper and lower limits for each, as established by the Secretary in notice and comment rulemaking. The certified IDR entity fee ranges established by the Secretary in rulemaking will remain in effect until changed by notice and comment rulemaking. The certified IDR entity may not charge a fee outside the limits set forth in rulemaking unless the certified IDR entity or IDR entity seeking certification receives advance written approval from the Secretary to charge a fixed fee beyond the upper or lower limits by following the process described in paragraph (e)(2)(vii)(A) of this section. A certified IDR entity may also seek advance written approval from the Secretary to update its fees one additional time per calendar year by meeting the requirements described in paragraph (e)(2)(vii)(A). The Secretary will approve a request to charge a fixed fee beyond the upper or lower limits for fees as set forth in rulemaking or to update the fixed fee during the calendar year if, in their discretion, they determine the information submitted by a certified IDR entity or IDR entity seeking certification demonstrates that the proposed change to the certified IDR entity fee would ensure the financial viability of the certified IDR entity or IDR entity seeking certification and would not impose on parties an undue barrier to accessing the Federal IDR process.
+
+(A) In order for the certified IDR entity or IDR entity seeking certification to receive the Secretary's written approval to charge a fixed fee beyond the upper or lower limits for fees as set forth in rulemaking or to update the fixed fee during the calendar year, the certified IDR entity or IDR entity seeking certification must submit to the Secretary, in the form and manner specified by the Secretary:
+
+(*1*) The fixed fee the certified IDR entity or IDR entity seeking certification believes is appropriate for the certified IDR entity or IDR entity seeking certification to charge;
+
+(*2*) A description of the circumstances that require the alternative fixed fee, or that require a change to the fixed fee during the calendar year, as applicable; and
+
+(*3*) A detailed description that reasonably explains how the alternative fixed fee or the change to the fixed fee during the calendar year, as applicable, will be used to mitigate the effects of those circumstances.
+
+(B) [Reserved]
+
+(viii) For disputes initiated on or after January 22, 2024, certified IDR entities are permitted to charge a fixed certified IDR entity fee for single determinations within the range of $200 to $840, and a fixed certified IDR entity fee for batched determinations within the range of $268 to $1,173, unless a fee outside such ranges is approved by the Secretary, pursuant to paragraph (e)(2)(vii)(A) of this section. As part of the batched determination fee, certified IDR entities are permitted to charge an additional fixed tiered fee within the range of $75 to $250 for every additional 25 line items within a batched dispute, beginning with the 26th line item. The ranges for the certified IDR entity fees for single and batched determinations will remain in effect until changed by notice and comment rulemaking.
+
+(ix) For further guidance, see § 54.9816-8T(e)(2)(ix) through (xii).
+
+(x)-(xii) [Reserved]
+
+(f) *Reporting of information relating to the Federal IDR process.* For further guidance see § 54.9816-8T(f) introductory text through (f)(1)(iv).
 
 (1) [Reserved]
 
@@ -107,8 +135,8 @@ contracted rates between the provider or facility, as applicable, and the plan o
 
 (2) [Reserved]
 
-(g) For further guidance see § 54.9816-8T(g).
+(g) *Extension of time periods for extenuating circumstances.* For further guidance see § 54.9816-8T(g).
 
 (h) *Applicability date.* The provisions of this section are applicable with respect to plan years beginning on or after January 1, 2022, except that paragraphs (c)(4)(ii) through (iv) of this section regarding payment determinations, paragraph (c)(4)(vi)(B) of this section regarding written decisions, and paragraph (f)(1)(v)(F) of this section regarding reporting of information relating to the Federal IDR process are applicable with respect to items or services provided or furnished on or after October 25, 2022, for plan years beginning on or after January 1, 2022.
 
-[T.D. 9965, 87 FR 52645, Aug. 26, 2022]
+[T.D. 9965, 87 FR 52645, Aug. 26, 2022, as amended by T.D. 9985, 88 FR 88523, Dec. 21, 2023]

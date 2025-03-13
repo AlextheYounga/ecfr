@@ -180,7 +180,7 @@
 
 (iii) Comply with the standards of conduct in paragraph (j)(2) of this section.
 
-(2) Standards of conduct. An individual or entity described in paragraph (j)(1) of this section must—
+(2) *Standards of conduct.* An individual or entity described in paragraph (j)(1) of this section must—
 
 (i) Provide consumers with correct information, without omission of material fact, regarding the Federally-facilitated Exchanges, QHPs offered through the Federally-facilitated Exchanges, and insurance affordability programs, and refrain from marketing or conduct that is misleading (including by having a direct enrollment website that HHS determines could mislead a consumer into believing they are visiting *HealthCare.gov*), coercive, or discriminates based on race, color, national origin, disability, age, or sex;
 

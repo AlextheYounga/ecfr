@@ -1,5 +1,7 @@
 ##### § 206.119 Financial assistance to address other needs. #####
 
+Link to an amendment published at 89 FR 4123, Jan. 22, 2024.
+
 (a) *Purpose.* FEMA and the State may provide financial assistance to individuals and households who have other disaster-related necessary expenses or serious needs. To qualify for assistance under this section, an applicant must also:
 
 (1) Apply to the United States Small Business Administration's (SBA) Disaster Home Loan Program for all available assistance under that program; and

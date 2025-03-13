@@ -1,5 +1,7 @@
 ##### § 206.111 Definitions. #####
 
+Link to an amendment published at 89 FR 4119, Jan. 22, 2024.
+
 *Adequate, alternate housing* means housing that accommodates the needs of the occupants; is within the normal commuting patterns of the area or is within reasonable commuting distance of work, school, or agricultural activities that provide over 50 percent of the household income; and is within the financial ability of the occupant.
 
 *Alternative housing resources* means any housing that is available or can quickly be made available in lieu of permanent housing construction and is cost-effective when compared to permanent construction costs. Some examples are rental resources, mobile homes and travel trailers.
