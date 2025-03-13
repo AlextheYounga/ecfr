@@ -1,6 +1,6 @@
 ##### § 413.234 Drug designation process. #####
 
-Link to an amendment published at 87 FR 67302, Nov. 7, 2022.
+Link to an amendment published at 87 FR 67302, Nov. 7, 2022.Link to an amendment published at 89 FR 89212, Nov. 12, 2024.
 
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 

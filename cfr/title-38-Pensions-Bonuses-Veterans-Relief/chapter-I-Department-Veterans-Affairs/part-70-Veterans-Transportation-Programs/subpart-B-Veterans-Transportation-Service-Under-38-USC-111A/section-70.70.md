@@ -1,6 +1,6 @@
 ##### § 70.70 Purpose and definitions. #####
 
-Link to an amendment published at 88 FR 10037, Feb. 16, 2023.This amendment was delayed until Feb. 16, 2025, at 88 FR 90120, Dec. 29, 2023.
+Link to an amendment published at 88 FR 10037, Feb. 16, 2023.This amendment was delayed until Feb. 16, 2025, at 88 FR 90120, Dec. 29, 2023.This amendment was further delayed until Feb. 16, 2029, at 89 FR 88888, Nov. 12, 2024.
 
 (a) *Purpose.* This subpart implements the Veterans Transportation Service (VTS), through which VA transports eligible persons to or from a VA or VA-authorized facility or other place for the purpose of examination, treatment, or care.
 

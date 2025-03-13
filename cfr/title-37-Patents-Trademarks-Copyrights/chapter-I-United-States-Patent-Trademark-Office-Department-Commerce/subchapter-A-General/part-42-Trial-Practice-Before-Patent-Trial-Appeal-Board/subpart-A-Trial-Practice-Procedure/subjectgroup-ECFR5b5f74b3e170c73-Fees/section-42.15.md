@@ -1,7 +1,5 @@
 ##### § 42.15 Fees. #####
 
-Link to an amendment published at 89 FR 82178, Oct. 10, 2024.
-
 (a) On filing a petition for *inter partes* review of a patent, payment of the following fees are due:
 
 (1) *Inter Partes* Review request fee: $19,000.00
@@ -30,6 +28,6 @@ Link to an amendment published at 89 FR 82178, Oct. 10, 2024.
 
 (d) Any request requiring payment of a fee under this part, including a written request to make a settlement agreement available: $420.00
 
-(e) Fee for non-registered practitioners to appear *pro hac vice* before the Patent Trial and Appeal Board: $250.00
+(e) Fee for counsel who are not registered practitioners, and who are not seeking automatic recognition pursuant to § 42.10(c)(2), to appear *pro hac vice* before the Patent Trial and Appeal Board: $250.00
 
-[85 FR 46993, Aug. 3, 2020]
+[85 FR 46993, Aug. 3, 2020, as amended at 89 FR 82178, Oct. 10, 2024]

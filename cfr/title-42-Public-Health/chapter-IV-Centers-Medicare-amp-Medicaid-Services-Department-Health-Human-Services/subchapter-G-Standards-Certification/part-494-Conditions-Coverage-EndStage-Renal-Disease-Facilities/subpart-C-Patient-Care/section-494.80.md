@@ -1,5 +1,7 @@
 ##### § 494.80 Condition: Patient assessment. #####
 
+Link to an amendment published at 89 FR 89213, Nov. 12, 2024.
+
 The facility's interdisciplinary team consists of, at a minimum, the patient or the patient's designee (if the patient chooses), a registered nurse, a physician treating the patient for ESRD, a social worker, and a dietitian. The interdisciplinary team is responsible for providing each patient with an individualized and comprehensive assessment of his or her needs. The comprehensive assessment must be used to develop the patient's treatment plan and expectations for care.
 
 (a) *Standard: Assessment criteria.* The patient's comprehensive assessment must include, but is not limited to, the following:

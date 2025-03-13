@@ -1,5 +1,7 @@
 ##### § 803.10 Running of time. #####
 
+Link to an amendment published at 89 FR 89339, Nov. 12, 2024.
+
 (a) *Beginning of waiting period.* The waiting period required by the act shall begin on the date of receipt of the notification required by the act, in the manner provided by these rules (or, if such notification is not completed, the notification to the extent completed and a statement of the reasons for such noncompliance in accordance with § 803.3) from:
 
 (1) In the case of acquisitions to which § 801.30 applies, the acquiring person;

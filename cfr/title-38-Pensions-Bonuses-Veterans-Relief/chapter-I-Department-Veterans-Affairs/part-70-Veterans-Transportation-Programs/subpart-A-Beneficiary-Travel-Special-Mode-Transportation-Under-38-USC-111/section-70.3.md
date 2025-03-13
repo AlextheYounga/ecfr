@@ -1,6 +1,6 @@
 ##### § 70.3 Determination of Secretary. #####
 
-Link to an amendment published at 88 FR 10037, Feb. 16, 2023.This amendment was delayed until Feb. 16, 2025, at 88 FR 90120, Dec. 29, 2023.
+Link to an amendment published at 88 FR 10037, Feb. 16, 2023.This amendment was delayed until Feb. 16, 2025, at 88 FR 90120, Dec. 29, 2023.This amendment was further delayed until Feb. 16, 2029, at 89 FR 88888, Nov. 12, 2024.
 
 For each fiscal year, the Secretary of Veterans Affairs will determine whether funds are available for paying expenses of VHA beneficiary travel under 38 U.S.C. 111. If the Secretary determines that funds are available for such purpose, VA will make payment for expenses of such travel in accordance with the provisions of this part.
 

@@ -1,5 +1,7 @@
 ##### § 801.1 Definitions. #####
 
+Link to an amendment published at 89 FR 89337, Nov. 12, 2024.
+
 When used in the act and these rules—
 
 (a)(1) *Person.* Except as provided in paragraphs (a) and (b) of § 801.12, the term *person* means an ultimate parent entity and all entities which it controls directly or indirectly.

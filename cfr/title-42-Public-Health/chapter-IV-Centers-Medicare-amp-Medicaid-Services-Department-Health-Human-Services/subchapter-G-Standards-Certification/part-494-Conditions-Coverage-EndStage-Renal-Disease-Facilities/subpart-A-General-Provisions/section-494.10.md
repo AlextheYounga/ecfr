@@ -1,5 +1,7 @@
 ##### § 494.10 Definitions. #####
 
+Link to an amendment published at 89 FR 89212, Nov. 12, 2024.
+
 As used in this part—
 
 *Dialysis facility* means an entity that provides outpatient maintenance dialysis services, or home dialysis training and support services, or both. A dialysis facility may be an independent or hospital-based unit (as described in § 413.174(b) and (c) of this chapter) that includes a self-care dialysis unit that furnishes only self-dialysis services.

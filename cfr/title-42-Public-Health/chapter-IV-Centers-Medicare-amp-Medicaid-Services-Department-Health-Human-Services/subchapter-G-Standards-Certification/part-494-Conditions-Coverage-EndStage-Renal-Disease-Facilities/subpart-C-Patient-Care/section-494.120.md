@@ -1,5 +1,7 @@
 ##### § 494.120 Condition: Special purpose renal dialysis facilities. #####
 
+Link to an amendment published at 89 FR 89213, Nov. 12, 2024.
+
 A special purpose renal dialysis facility is approved to furnish dialysis on a short-term basis at special locations. Special purpose dialysis facilities are divided into two categories: vacation camps (locations that serve ESRD patients while the patients are in a temporary residence) and facilities established to serve ESRD patients under emergency circumstances.
 
 (a) *Standard: Approval period.* The period of approval for a special purpose renal dialysis facility may not exceed 8 months in any 12-month period.

@@ -1,0 +1,5 @@
+##### 40.202-7 Procedures. #####
+
+(a) *Documenting exemptions, exceptions, or waivers.* The contracting officer shall document the file with any exemption, exception, or waiver provided by the program office or requiring activity. Additionally, the contracting officer shall work with the program office or requiring activity to ensure the presence and scoping of any such exemptions, exceptions, or waivers are identified in the solicitation and resultant contract.
+
+(b) *Assessment of unmanned aircraft systems.* Except where an exemption, exception, or waiver applies, the contracting officer shall work with the program office or requiring activity to review proposals to ensure they are not proposing delivery of a FASC-prohibited unmanned aircraft system. On or after December 22, 2025, this assessment shall expand to include review for not only proposed delivery, but also operation, of a FASC-prohibited unmanned aircraft system.

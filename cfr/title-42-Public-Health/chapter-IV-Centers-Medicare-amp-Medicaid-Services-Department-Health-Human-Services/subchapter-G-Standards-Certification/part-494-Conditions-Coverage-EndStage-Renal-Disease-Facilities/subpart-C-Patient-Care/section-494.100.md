@@ -1,5 +1,7 @@
 ##### § 494.100 Condition: Care at home. #####
 
+Link to an amendment published at 89 FR 89213, Nov. 12, 2024.
+
 A dialysis facility that is certified to provide services to home patients must ensure through its interdisciplinary team, that home dialysis services are at least equivalent to those provided to in-facility patients and meet all applicable conditions of this part.
 
 (a) *Standard: Training.* The interdisciplinary team must oversee training of the home dialysis patient, the designated caregiver, or self-dialysis patient before the initiation of home dialysis or self-dialysis (as defined in § 494.10) and when the home dialysis caregiver or home dialysis modality changes. The training must—

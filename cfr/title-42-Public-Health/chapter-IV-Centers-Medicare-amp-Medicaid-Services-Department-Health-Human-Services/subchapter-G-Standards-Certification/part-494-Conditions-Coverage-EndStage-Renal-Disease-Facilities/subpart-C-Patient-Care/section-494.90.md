@@ -1,5 +1,7 @@
 ##### § 494.90 Condition: Patient plan of care. #####
 
+Link to an amendment published at 89 FR 89213, Nov. 12, 2024.
+
 The interdisciplinary team as defined at § 494.80 must develop and implement a written, individualized comprehensive plan of care that specifies the services necessary to address the patient's needs, as identified by the comprehensive assessment and changes in the patient's condition, and must include measurable and expected outcomes and estimated timetables to achieve these outcomes. The outcomes specified in the patient plan of care must be consistent with current evidence-based professionally-accepted clinical practice standards.
 
 (a) *Standard: Development of patient plan of care.* The interdisciplinary team must develop a plan of care for each patient. The plan of care must address, but not be limited to, the following:

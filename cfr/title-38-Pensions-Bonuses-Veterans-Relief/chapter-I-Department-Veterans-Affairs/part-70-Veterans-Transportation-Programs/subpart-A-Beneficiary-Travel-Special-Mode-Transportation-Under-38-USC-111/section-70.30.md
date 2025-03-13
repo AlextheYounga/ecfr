@@ -1,6 +1,6 @@
 ##### § 70.30 Payment principles. #####
 
-Link to an amendment published at 88 FR 10036, Feb. 16, 2023.Link to an amendment published at 88 FR 10037, Feb. 16, 2023.These amendments were delayed until Feb. 16, 2025, at 88 FR 90120, Dec. 29, 2023.
+Link to an amendment published at 88 FR 10036, Feb. 16, 2023.Link to an amendment published at 88 FR 10037, Feb. 16, 2023.These amendments were delayed until Feb. 16, 2025, at 88 FR 90120, Dec. 29, 2023.This amendment was further delayed until Feb. 16, 2029, at 89 FR 88888, Nov. 12, 2024.
 
 (a) Subject to the other provisions of this section and subject to the deductibles required under § 70.31, VA will pay the following for beneficiary travel by an eligible beneficiary when travel expenses are actually incurred:
 

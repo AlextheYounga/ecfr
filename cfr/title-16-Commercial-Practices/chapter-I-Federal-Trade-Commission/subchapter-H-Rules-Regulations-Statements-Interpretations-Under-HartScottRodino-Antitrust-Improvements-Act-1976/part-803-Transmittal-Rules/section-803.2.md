@@ -1,5 +1,7 @@
 ##### § 803.2 Instructions applicable to Notification and Report Form. #####
 
+Link to an amendment published at 89 FR 89338, Nov. 12, 2024.
+
 (a) The notification required by the act shall be filed by the preacquisition ultimate parent entity, or by any entity included within the person authorized by such preacquisition ultimate parent entity to file notification on its behalf. In the case of a natural person required by the act to file notification, such notification may be filed by his or her legal representative: *Provided however,* That notwithstanding §§ 801.1(c)(2) and 801.2, only one notification shall be filed by or on behalf of a natural person, spouse and minor children with respect to an acquisition as a result of which more than one such natural person will hold voting securities of the same issuer.
 
 Example:Jane Doe, her husband and minor child collectively hold more than 50 percent of the shares of family corporation F. Therefore, Jane Doe (or her husband or minor child) is the “ultimate parent entity” of a “person” composed to herself (or her husband or minor child) and F; see paragraphs (a)(3), (b) and (c)(2) of § 801.1. If corporation F is to acquire corporation X, under this paragraph only one notification is to be filed by Jane Doe, her husband and minor child collectively.

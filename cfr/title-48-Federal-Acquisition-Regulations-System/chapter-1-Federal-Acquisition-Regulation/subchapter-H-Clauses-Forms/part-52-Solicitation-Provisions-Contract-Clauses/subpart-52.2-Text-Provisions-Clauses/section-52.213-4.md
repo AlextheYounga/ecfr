@@ -2,7 +2,7 @@
 
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (AUG 2024)
+Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (NOV 2024)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -46,7 +46,7 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (vi) 52.233-1, Disputes (MAY 2014).
 
-(vii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (FEB 2024).
+(vii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (NOV 2024).
 
 (viii) 52.253-1, Computer Generated Forms (JAN 1991).
 
@@ -106,7 +106,9 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (xxi) 52.232-34, Payment by Electronic Funds Transfer—Other than System for Award Management (JUL 2013) (Applies when the payment will be made by EFT and the payment office does not use the SAM database as its source of EFT information.)
 
-(xxii) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305) (Applies to supplies transported by ocean vessels (except for the types of subcontracts listed at 47.504(d).)
+(xxii) 52.240-1, Prohibition on Unmanned Aircraft Systems Manufactured or Assembled by American Security Drone Act—Covered Foreign Entities (NOV 2024). (Sections 1821-1826, Pub. L. 118-31, 41 U.S.C. 3901 note prec.).
+
+(xxiii) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305) (Applies to supplies transported by ocean vessels (except for the types of subcontracts listed at 47.504(d).)
 
 (2) Listed below are additional clauses that may apply:
 

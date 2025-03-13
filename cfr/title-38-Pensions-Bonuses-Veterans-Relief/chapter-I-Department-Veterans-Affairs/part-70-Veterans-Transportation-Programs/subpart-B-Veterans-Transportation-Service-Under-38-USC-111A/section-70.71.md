@@ -1,6 +1,6 @@
 ##### § 70.71 Eligibility. #####
 
-Link to an amendment published at 88 FR 10037, Feb. 16, 2023.This amendment was delayed until Feb. 16, 2025, at 88 FR 90120, Dec. 29, 2023.
+Link to an amendment published at 88 FR 10037, Feb. 16, 2023.This amendment was delayed until Feb. 16, 2025, at 88 FR 90120, Dec. 29, 2023.This amendment was further delayed until Feb. 16, 2029, at 89 FR 88888, Nov. 12, 2024.
 
 Except as provided in paragraph (j) of this section, VA facilities may provide VTS benefits to the following:
 

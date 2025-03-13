@@ -1,0 +1,1 @@
+##### 40.202 Prohibition on the procurement and operation of unmanned aircraft systems manufactured or assembled by American Security Drone Act-covered foreign entities. #####

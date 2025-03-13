@@ -1,5 +1,7 @@
 ##### § 413.237 Outliers. #####
 
+Link to an amendment published at 89 FR 89212, Nov. 12, 2024.
+
 (a) The following definitions apply to this section.
 
 (1) *ESRD outlier services* are the following items and services that are included in the ESRD PPS bundle:

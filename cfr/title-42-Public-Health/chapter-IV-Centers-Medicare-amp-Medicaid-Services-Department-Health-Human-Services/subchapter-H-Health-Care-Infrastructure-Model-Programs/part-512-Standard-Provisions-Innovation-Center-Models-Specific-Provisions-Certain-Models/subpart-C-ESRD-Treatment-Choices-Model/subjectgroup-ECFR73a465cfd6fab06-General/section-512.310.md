@@ -1,5 +1,7 @@
 ##### § 512.310 Definitions. #####
 
+Link to an amendment published at 89 FR 89213, Nov. 12, 2024.
+
 For purposes of this subpart, the following definitions apply.
 
 *Adjusted ESRD PPS per Treatment Base Rate* means the per treatment payment amount as defined in § 413.230 of this chapter, including patient-level adjustments and facility-level adjustments, and excluding any applicable training adjustment, add-on payment amount, outlier payment amount, transitional drug add-on payment adjustment (TDAPA) amount, and transitional add-on payment adjustment for new and innovative equipment and supplies (TPNIES) amount.

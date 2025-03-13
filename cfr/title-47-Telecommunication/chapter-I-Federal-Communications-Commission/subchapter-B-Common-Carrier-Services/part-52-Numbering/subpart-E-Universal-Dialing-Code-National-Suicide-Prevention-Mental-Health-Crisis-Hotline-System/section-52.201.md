@@ -1,5 +1,7 @@
 ##### § 52.201 Texting to the National Suicide Prevention and Mental Health Crisis Hotline. #####
 
+Link to an amendment published at 89 FR 88905, Nov. 12, 2024.
+
 (a) *Support for 988 text message service.* Beginning July 16, 2022, all covered text providers must route a covered 988 text message to the current toll free access number for the National Suicide Prevention Lifeline, presently 1-800-273-8255 (TALK).
 
 (b) *Access to SMS networks for 988 text messages.* To the extent that Commercial Mobile Radio Services (CMRS) providers offer Short Message Service (SMS), they shall allow access by any other covered text provider to the capabilities necessary for transmission of 988 text messages originating on such other covered text providers' application services.

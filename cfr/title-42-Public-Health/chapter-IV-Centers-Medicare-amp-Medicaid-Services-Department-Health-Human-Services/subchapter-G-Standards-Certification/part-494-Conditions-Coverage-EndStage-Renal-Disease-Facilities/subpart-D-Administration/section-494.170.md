@@ -1,5 +1,7 @@
 ##### § 494.170 Condition: Medical records. #####
 
+Link to an amendment published at 89 FR 89213, Nov. 12, 2024.
+
 The dialysis facility must maintain complete, accurate, and accessible records on all patients, including home patients who elect to receive dialysis supplies and equipment from a supplier that is not a provider of ESRD services and all other home dialysis patients whose care is under the supervision of the facility.
 
 (a) *Standard: Protection of the patient's record.* The dialysis facility must—

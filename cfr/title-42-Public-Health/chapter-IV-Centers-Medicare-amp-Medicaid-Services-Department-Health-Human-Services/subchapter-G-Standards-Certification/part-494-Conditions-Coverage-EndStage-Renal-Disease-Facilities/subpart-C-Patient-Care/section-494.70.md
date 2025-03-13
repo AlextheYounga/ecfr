@@ -1,5 +1,7 @@
 ##### § 494.70 Condition: Patients' rights. #####
 
+Link to an amendment published at 89 FR 89213, Nov. 12, 2024.
+
 The dialysis facility must inform patients (or their representatives) of their rights (including their privacy rights) and responsibilities when they begin their treatment and must protect and provide for the exercise of those rights.
 
 (a) *Standard: Patients' rights.* The patient has the right to—

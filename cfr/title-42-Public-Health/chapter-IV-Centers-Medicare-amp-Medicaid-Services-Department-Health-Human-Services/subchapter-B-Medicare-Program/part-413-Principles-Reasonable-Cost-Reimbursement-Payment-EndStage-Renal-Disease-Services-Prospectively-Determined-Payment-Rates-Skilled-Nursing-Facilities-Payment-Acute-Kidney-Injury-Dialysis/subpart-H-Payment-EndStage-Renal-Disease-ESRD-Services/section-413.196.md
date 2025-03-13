@@ -1,5 +1,7 @@
 ##### § 413.196 Notification of changes in rate-setting methodologies and payment rates. #####
 
+Link to an amendment published at 89 FR 89212, Nov. 12, 2024.
+
 (a) CMS or the facility's contractor notifies each facility of changes in its payment rate. This notice includes changes in individual facility payment rates resulting from corrections or revisions of particular geographic labor cost adjustment factors.
 
 (b) Changes in payment rates resulting from incorporation of updated cost data or general revisions of geographic labor cost adjustment factors are announced by notice published in the Federal Register without opportunity for prior comment. Revisions of the rate-setting methodology are published in the Federal Register in accordance with the Department's established rulemaking procedures.

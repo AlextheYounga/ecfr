@@ -1,6 +1,6 @@
 ##### § 70.73 Arranging transportation services. #####
 
-Link to an amendment published at 88 FR 10037, Feb. 16, 2023.This amendment was delayed until Feb. 16, 2025, at 88 FR 90120, Dec. 29, 2023.
+Link to an amendment published at 88 FR 10037, Feb. 16, 2023.This amendment was delayed until Feb. 16, 2025, at 88 FR 90120, Dec. 29, 2023.This amendment was further delayed until Feb. 16, 2029, at 89 FR 88888, Nov. 12, 2024.
 
 (a) *Requesting VTS.* An eligible person may request transportation services by contacting the facility director or designee at the VA facility providing or authorizing the examination, treatment, or care to be delivered. The person must provide the facility director or designee with information necessary to arrange these services, including the name of the person, the basis for eligibility, the name of the veteran or servicemember they are accompanying (if applicable), the time of the appointment (if known), the eligible person's departure location and destination, any special needs that must be accommodated to allow for transportation (e.g., wheelchair, oxygen tank, or service animal as defined in 38 CFR 1.218(a)(11)(viii)), and other relevant information. Transportation services generally will be provided on a first come, first served basis.
 

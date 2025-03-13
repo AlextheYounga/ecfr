@@ -1,5 +1,7 @@
 ##### § 413.236 Transitional add-on payment adjustment for new and innovative equipment and supplies. #####
 
+Link to an amendment published at 89 FR 89212, Nov. 12, 2024.
+
 (a) *Basis and definitions.* (1) Effective January 1, 2020, this section establishes an add-on payment adjustment to support ESRD facilities in the uptake of new and innovative renal dialysis equipment and supplies under the ESRD prospective payment system under the authority of section 1881(b)(14)(D)(iv) of the Social Security Act.
 
 (2) For purposes of this section, the following definitions apply:

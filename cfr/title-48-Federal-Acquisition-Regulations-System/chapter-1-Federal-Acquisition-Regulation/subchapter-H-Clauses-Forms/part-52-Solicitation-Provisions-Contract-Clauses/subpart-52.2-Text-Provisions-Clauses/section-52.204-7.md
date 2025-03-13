@@ -2,7 +2,7 @@
 
 As prescribed in 4.1105(a)(1), use the following provision.
 
-System for Award Management (OCT 2018)
+System for Award Management (NOV 2024)
 
 (a) *Definitions.* As used in this provision—
 
@@ -20,7 +20,7 @@ System for Award Management (OCT 2018)
 
 *Unique entity identifier* means a number or other identifier used to identify a specific commercial, nonprofit, or Government entity. See *www.sam.gov* for the designated entity for establishing unique entity identifiers.
 
-(b)(1) An Offeror is required to be registered in SAM when submitting an offer or quotation, and shall continue to be registered until time of award, during performance, and through final payment of any contract, basic agreement, basic ordering agreement, or blanket purchasing agreement resulting from this solicitation.
+(b)(1) An Offeror is required to be registered in SAM when submitting an offer or quotation and at time of award (see FAR clause 52.204-13, System for Award Management Maintenance, for the requirement to maintain SAM registration during performance and through final payment).
 
 (2) The Offeror shall enter, in the block with its name and address on the cover page of its offer, the annotation “Unique Entity Identifier” followed by the unique entity identifier that identifies the Offeror's name and address exactly as stated in the offer. The Offeror also shall enter its EFT indicator, if applicable. The unique entity identifier will be used by the Contracting Officer to verify that the Offeror is registered in SAM.
 
@@ -52,4 +52,4 @@ System for Award Management (OCT 2018)
 
 (b)(1) An Offeror is required to be registered in SAM as soon as possible. If registration is not possible when submitting an offer or quotation, the awardee shall be registered in SAM in accordance with the requirements of clause 52.204-13, System for Award Management Maintenance.
 
-[68 FR 56674, Oct. 1, 2003, as amended at 68 FR 69259, Dec. 11, 2003; 71 FR 36925, June 28, 2006; 73 FR 21778, Apr. 22, 2008; 74 FR 52849, Oct. 14, 2009; 77 FR 188, Jan. 3, 2012; 77 FR 44058, July 26, 2012; 77 FR 69719, Nov. 20, 2012; 78 FR 37680, June 21, 2013; 81 FR 67739, Sept. 30, 2016; 83 FR 48698, Sept. 26, 2018]
+[68 FR 56674, Oct. 1, 2003, as amended at 68 FR 69259, Dec. 11, 2003; 71 FR 36925, June 28, 2006; 73 FR 21778, Apr. 22, 2008; 74 FR 52849, Oct. 14, 2009; 77 FR 188, Jan. 3, 2012; 77 FR 44058, July 26, 2012; 77 FR 69719, Nov. 20, 2012; 78 FR 37680, June 21, 2013; 81 FR 67739, Sept. 30, 2016; 83 FR 48698, Sept. 26, 2018; 89 FR 89475, Nov. 12, 2024]

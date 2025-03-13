@@ -32,4 +32,6 @@
 
 (l) Do not procure or obtain, or extend or renew a contract to procure or obtain, any covered article, or any products or services produced or provided by a source, including contractor use of covered articles or sources, if prohibited from doing so by an applicable Federal Acquisition Supply Chain Security Act (FASCSA) order issued by the Director of National Intelligence, Secretary of Defense, or Secretary of Homeland Security (see 4.2303).
 
+(m) The prohibitions on unmanned aircraft systems (*e.g.,* drones) in 40.202 apply to purchases at or below the micro-purchase threshold.
+
 [62 FR 64917, Dec. 9, 1997]Editorial Note:For Federal Register citations affecting section 13.201, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
