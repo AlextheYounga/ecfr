@@ -1,8 +1,10 @@
 ##### § 25.791 Passenger information signs and placards. #####
 
-Link to an amendment published at 89 FR 68099, Aug. 23, 2024.
+(a) Regarding “No Smoking” signs and placards:
 
-(a) If smoking is to be prohibited, there must be at least one placard so stating that is legible to each person seated in the cabin. If smoking is to be allowed, and if the crew compartment is separated from the passenger compartment, there must be at least one sign notifying when smoking is prohibited. Signs which notify when smoking is prohibited must be operable by a member of the flightcrew and, when illuminated, must be legible under all probable conditions of cabin illumination to each person seated in the cabin.
+(1) There must be at least one placard, or lighted sign, stating if smoking is prohibited. The placard or lighted sign must be legible to each person seated in the cabin.
+
+(2) Lighted “No Smoking” signs must either be operable by a member of the flightcrew or be illuminated continuously during airplane operations. Illuminated signs must be legible under all probable conditions of cabin illumination to each person seated in the cabin.
 
 (b) Signs that notify when seat belts should be fastened and that are installed to comply with the operating rules of this chapter must be operable by a member of the flightcrew and, when illuminated, must be legible under all probable conditions of cabin illumination to each person seated in the cabin.
 
@@ -12,4 +14,4 @@ Link to an amendment published at 89 FR 68099, Aug. 23, 2024.
 
 (e) Symbols that clearly express the intent of the sign or placard may be used in lieu of letters.
 
-[Amdt. 25-72, 55 FR 29780, July 20, 1990]
+[Amdt. 25-72, 55 FR 29780, July 20, 1990, as amended by Amdt. No. 25-153, 89 FR 68099, Aug. 23, 2024]

@@ -1,7 +1,5 @@
 ##### § 125.207 Emergency equipment requirements. #####
 
-Link to an amendment published at 89 FR 68100, Aug. 23, 2024.
-
 (a) No person may operate an airplane having a seating capacity of 20 or more passengers unless it is equipped with the following emergency equipment:
 
 (1) One approved first aid kit for treatment of injuries likely to occur in flight or in a minor accident, which meets the following specifications and requirements:
@@ -31,7 +29,11 @@ Link to an amendment published at 89 FR 68100, Aug. 23, 2024.
 
 (2) A crash axe carried so as to be accessible to the crew but inaccessible to passengers during normal operations.
 
-(3) Signs that are visible to all occupants to notify them when smoking is prohibited and when safety belts should be fastened. The signs must be so constructed that they can be turned on and off by a crewmember. They must be turned on for each takeoff and each landing and when otherwise considered to be necessary by the pilot in command.
+(3) Signs that meet the following requirements:
+
+(i) Signs that are visible to all occupants to notify them when safety belts should be fastened. These signs must be so constructed that they can be turned on and off by a crewmember. They must be turned on for each takeoff and each landing and when otherwise considered to be necessary by the pilot in command.
+
+(ii) Signs that are visible to all occupants to notify them when smoking is prohibited. These signs must be turned on for each takeoff and each landing and when otherwise considered to be necessary by the pilot in command.
 
 (4) The additional emergency equipment specified in appendix A of this part.
 
@@ -43,4 +45,4 @@ Link to an amendment published at 89 FR 68100, Aug. 23, 2024.
 
 (3) Three megaphones in the passenger cabin on each airplane with a seating capacity of more than 199 passengers, one installed at the forward end, one installed at the most rearward location where it would be readily accessible to a normal flight attendant seat, and one installed in a readily accessible location in the mid-section of the airplane.
 
-[Doc. No. 19779, 45 FR 67235, Oct. 9, 1980, as amended by Amdt. 125-19, 59 FR 1781, Jan. 12, 1994; Amdt. 125-22, 59 FR 52643, Oct. 18, 1994; 59 FR 55208, Nov. 4, 1994]
+[Doc. No. 19779, 45 FR 67235, Oct. 9, 1980, as amended by Amdt. 125-19, 59 FR 1781, Jan. 12, 1994; Amdt. 125-22, 59 FR 52643, Oct. 18, 1994; 59 FR 55208, Nov. 4, 1994; Docket No. FAA-2024-2052; Amdt. No. 125-76, 89 FR 68100, Aug. 23, 2024]
