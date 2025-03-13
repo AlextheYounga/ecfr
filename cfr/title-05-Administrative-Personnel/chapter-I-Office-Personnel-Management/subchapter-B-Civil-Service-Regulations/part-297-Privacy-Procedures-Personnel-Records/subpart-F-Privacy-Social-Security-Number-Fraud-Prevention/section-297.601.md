@@ -1,3 +1,3 @@
-##### § 297.601 xxx #####
+##### § 297.601 Purpose and scope. #####
 
-Link to an amendment published at 89 FR 25750, Apr. 12, 2024.
+The purpose of this subpart is to implement the requirements of the Social Security Number Fraud Prevention Act of 2017 to limit the use of Social Security numbers on documents mailed by the Office of Personnel and Management (OPM). The subpart applies to all written or printed documents that OPM sends by mail that include a complete or partial Social Security number.
