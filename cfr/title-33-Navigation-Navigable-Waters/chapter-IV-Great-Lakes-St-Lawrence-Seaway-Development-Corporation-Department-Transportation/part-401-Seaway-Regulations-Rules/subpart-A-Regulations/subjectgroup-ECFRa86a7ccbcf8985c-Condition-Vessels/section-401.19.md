@@ -10,6 +10,6 @@
 
 (c) No substance shall be discharged or disposed of onto a lockwall or tie-up wall by any means, including overboard discharge pipes.
 
-(d) Burning of shipboard garbage is prohibited between CIP 2 & Cardinal and between CIP 15 and CIP 16.
+(d) Burning of shipboard garbage is prohibited between call in point 2 (CIP 2) and Cape Vincent, and between CIP 15 and 16.
 
-(68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471)[39 FR 10900, Mar. 22, 1974, as amended at 45 FR 52378, Aug. 7, 1980; 49 FR 30936, Aug. 2, 1984; 55 FR 48578, Nov. 21, 1990; 55 FR 52844, Dec. 24, 1990; 70 FR 12971, Mar. 17, 2005; 79 FR 12660, Mar. 6, 2014; 89 FR 15960, Mar. 6, 2024]
+[39 FR 10900, Mar. 22, 1974, as amended at 45 FR 52378, Aug. 7, 1980; 49 FR 30936, Aug. 2, 1984; 55 FR 48578, Nov. 21, 1990; 55 FR 52844, Dec. 24, 1990; 70 FR 12971, Mar. 17, 2005; 79 FR 12660, Mar. 6, 2014; 89 FR 15960, Mar. 6, 2024; 90 FR 1883, Jan. 10, 2025]

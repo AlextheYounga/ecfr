@@ -50,4 +50,4 @@
 
 (3) The applicant has submitted false or misleading information on an application for enrollment to perform actuarial services or in any oral or written information submitted in connection therewith or in any report presenting actuarial information to any person, knowing the same to be false or misleading.
 
-(Sec. 3042, subtitle C, title 3, Employee Retirement Income Security Act of 1974 (88 Stat. 1002, 29 U.S.C. 1241, 1242), and the Act of August 31, 1951, ch. 376, title V, section 501, 65 Stat. 290, 31 U.S.C. 483a)[44 FR 11751, Mar. 2, 1979, as amended at 44 FR 68458, Nov. 29, 1979. Redesignated and amended at 76 FR 17774, Mar. 31, 2011]
+(Sec. 3042, subtitle C, title 3, Employee Retirement Income Security Act of 1974 (88 Stat. 1002, 29 U.S.C. 1241, 1242), and the Act of August 31, 1951, ch. 376, title V, section 501, 65 Stat. 290, 31 U.S.C. 483a) [44 FR 11751, Mar. 2, 1979, as amended at 44 FR 68458, Nov. 29, 1979. Redesignated and amended at 76 FR 17774, Mar. 31, 2011]

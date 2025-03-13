@@ -1,5 +1,7 @@
 ##### § 4.909 How do I request an extension of time? #####
 
+Link to an amendment published at 90 FR 2428, Jan. 10, 2025.
+
 (a) If you are a party to an appeal subject to this subpart before the IBLA, and you need additional time after an appeal commences for any purpose, you may obtain an extension of time under this section.
 
 (b) You must submit a written request for an extension of time before the required filing date.

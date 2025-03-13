@@ -1,0 +1,3 @@
+##### § 1000.1280 How is a waiver decision documented for the record? #####
+
+The waiver approval is made part of the funding agreement by attaching a copy of it to the funding agreement and by mutually executing any necessary conforming amendments to the funding agreement. The waiver requests and bureau's decision document(s), pursuant to § 1000.1245, will be posted and archived on the OSG website or successor technology within 30 days of the decision. Such posting/archiving shall include deemed approved and deemed denied decisions under § 1000.1250. All decisions shall be made available on request, and a summary of decisions will be included in the Self Governance Annual Report to Congress.

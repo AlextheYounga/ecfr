@@ -1,0 +1,9 @@
+##### § 1000.125 What must a Tribe/Consortium submit to be selected to participate in Self-Governance? #####
+
+The Tribe/Consortium must submit to OSG documentation that demonstrates the following:
+
+(a) Successful completion of a planning phase as described in § 1000.140. A Consortium's planning activities satisfy this requirement for all its member Tribes for the purpose of the Consortium meeting this requirement.
+
+(b) A request for participation in self-governance by a Tribal resolution and/or a final official action by the Tribal governing body. For a Consortium, the governing body of each Tribe must authorize its participation by a Tribal resolution and/or a final official action by the Tribal governing body that specifies the scope of the Consortium's authority to act on behalf of the Tribe.
+
+(c) For a Tribe/Consortium required to perform an annual audit under the Single Audit Act and subpart F of 2 CFR part 200, financial stability and financial management capability as evidenced by the Tribe (or participating Tribes in a Consortium) having no uncorrected significant and material audit exceptions in the required annual audit of its self-determination or self-governance agreements with any Federal agency for the three fiscal years preceding the date on which the Tribe/Consortium requests participation, provided that documentation demonstrating the correction of any significant and material audit exceptions may include, but is not limited to, Agency Management Decision Letters issued in accordance with 2 CFR 200.521, Summary Schedule of Prior Audit Findings included in subsequent audit reports in accordance with 2 CFR 200.511, or any documentation provided by the Tribe/Consortium.

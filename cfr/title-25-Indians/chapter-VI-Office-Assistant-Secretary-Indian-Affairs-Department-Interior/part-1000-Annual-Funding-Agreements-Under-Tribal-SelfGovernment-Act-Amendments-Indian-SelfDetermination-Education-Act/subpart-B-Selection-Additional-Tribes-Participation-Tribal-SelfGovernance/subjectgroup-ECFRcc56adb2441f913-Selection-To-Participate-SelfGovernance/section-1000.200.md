@@ -1,0 +1,3 @@
+##### § 1000.200 May a Tribe/Consortium be selected to negotiate a funding agreement under section 403(c) (25 U.S.C. 5363(c)) without negotiating a funding agreement under 25 U.S.C. 5363(b)(1) and/or section 403(b)(2) (25 U.S.C. 5363(b)(2))? #####
+
+No, 25 U.S.C. 5363(c) of the Act states that any programs of special geographic, cultural, or historical significance to the Tribe/Consortium must be included in funding agreements negotiated under 25 U.S.C. 5363(a) and/or 25 U.S.C. 5363(b). A Tribe may be selected to negotiate a funding agreement under 25 U.S.C. 5363(c) at the same time that it negotiates a funding agreement under 25 U.S.C. 5363(b)(1) and/or 25 U.S.C. 5363(b)(2).

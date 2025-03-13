@@ -1,0 +1,3 @@
+##### § 1000.870 May a bureau negotiate with a Tribe/Consortium for programs not specifically included on the annual list pursuant to 25 U.S.C. 5372(c)? #####
+
+Yes, the annual list will specify that bureaus will negotiate for other programs eligible under 25 U.S.C. 5363(b)(2) when requested by a Tribe/Consortium. Bureaus may negotiate for 25 U.S.C. 5363(c) programs whether or not they are on the list.

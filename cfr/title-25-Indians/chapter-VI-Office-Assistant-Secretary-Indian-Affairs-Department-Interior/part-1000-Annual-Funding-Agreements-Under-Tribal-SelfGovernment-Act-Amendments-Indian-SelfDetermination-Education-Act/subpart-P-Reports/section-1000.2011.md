@@ -1,0 +1,3 @@
+##### § 1000.2011 Is the Secretary required to review programs of the Department other than BIA, BIE, the Office of the Assistant Secretary for Indian Affairs, and the BTFA? #####
+
+Yes. In order to optimize opportunities for including non-BIA programs in agreements with Tribes/Consortia participating in self-governance under the Act, the Secretary shall review all non-BIA programs without regard to the agency or office concerned.

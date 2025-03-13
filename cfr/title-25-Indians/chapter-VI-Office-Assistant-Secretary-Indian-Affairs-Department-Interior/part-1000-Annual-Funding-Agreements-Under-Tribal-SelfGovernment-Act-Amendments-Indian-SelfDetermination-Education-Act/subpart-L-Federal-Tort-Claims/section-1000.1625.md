@@ -1,0 +1,5 @@
+##### § 1000.1625 Is it necessary for a compact or funding agreement to include any clauses about FTCA coverage? #####
+
+No, clauses about FTCA coverage are optional. At the request of Tribes/Consortia, a compact or funding agreement shall include the following clause to clarify the scope of FTCA coverage:
+
+For purposes of FTCA coverage, the Tribe/Consortium and its employees (including individuals performing personal services contracts with the Tribe/Consortium) are deemed to be employees of the Federal Government while performing work under the compact or funding agreement. This status is not changed by the source of the funds used by the Tribe/Consortium to pay the employee's salary and benefits unless the employee receives additional compensation for performing covered services from anyone other than the Tribe/Consortium.

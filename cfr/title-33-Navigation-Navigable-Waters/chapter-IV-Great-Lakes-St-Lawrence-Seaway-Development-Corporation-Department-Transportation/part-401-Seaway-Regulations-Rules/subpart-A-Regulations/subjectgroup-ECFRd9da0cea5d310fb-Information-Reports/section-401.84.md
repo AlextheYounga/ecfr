@@ -6,9 +6,9 @@ While transiting the Seaway, the master of a vessel shall immediately report to 
 
 (b) Any hazardous condition of the vessel;
 
-(c) Any malfunction of equipment on the vessel
+(c) Any malfunction of equipment on the vessel;
 
-(d) any malfunction on the vessel of equipment and machinery that is noted as operational in the current “Enhanced Ship Inspection” or “Self Inspection” of the vessel;
+(d) Any modification or malfunction on the vessel of equipment and machinery that is noted as operational in the current “Enhanced Ship Inspection” or “Self-Inspection” of the vessel;
 
 (e) Any difficulty on the part of the vessel in controlling its tow or tows;
 
@@ -18,4 +18,4 @@ While transiting the Seaway, the master of a vessel shall immediately report to 
 
 (h) Any location where visibility is less than one nautical mile.
 
-(68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471)[45 FR 52380, Aug. 7, 1980, as amended at 47 FR 51124, Nov. 12, 1982; 61 FR 19552, May 2, 1996; 65 FR 52915, Aug. 31, 2000; 77 FR 40805, July 11, 2012; 89 FR 15962, Mar. 6, 2024]
+[45 FR 52380, Aug. 7, 1980, as amended at 47 FR 51124, Nov. 12, 1982; 61 FR 19552, May 2, 1996; 65 FR 52915, Aug. 31, 2000; 77 FR 40805, July 11, 2012; 89 FR 15962, Mar. 6, 2024; 90 FR 1884, Jan. 10, 2025]

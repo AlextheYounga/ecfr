@@ -1,5 +1,7 @@
 ##### § 4.1303 Contents and service of petition. #####
 
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+
 (a) An individual filing a petition for review of a notice of proposed individual civil penalty assessment shall provide—
 
 (1) A concise statement of the facts entitling the individual to relief;

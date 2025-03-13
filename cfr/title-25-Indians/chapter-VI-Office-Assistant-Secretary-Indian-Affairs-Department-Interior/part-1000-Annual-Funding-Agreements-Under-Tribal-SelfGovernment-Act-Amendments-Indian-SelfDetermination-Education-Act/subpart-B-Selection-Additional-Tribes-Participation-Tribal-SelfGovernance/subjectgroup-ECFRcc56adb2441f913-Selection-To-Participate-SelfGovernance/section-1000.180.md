@@ -1,0 +1,3 @@
+##### § 1000.180 What if more than 50 Tribes/Consortium apply to participate in Self-Governance? #####
+
+The first 50 Tribes/Consortium who apply and are determined to be eligible under § 1000.160 shall have the option to begin to participate in self-governance. Any Tribe/Consortium denied participation due to the limitation in number of Tribes/Consortium is entitled to participate in the next fiscal year, provided the Tribe/Consortium remains eligible under 25 U.S.C. 5362(c).

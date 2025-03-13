@@ -1,0 +1,3 @@
+##### § 1000.2012 Is the Secretary required to annually publish information under this subpart in the Federal Register? #####
+
+Yes, the Secretary shall annually review and publish in the Federal Register, after consulting with Tribes/Consortia participating in self-governance, revised lists under § 1000.2010(c)(1) and (2) and programmatic targets under § 1000.2010(e), and make such information available to all participating Tribes/Consortia.

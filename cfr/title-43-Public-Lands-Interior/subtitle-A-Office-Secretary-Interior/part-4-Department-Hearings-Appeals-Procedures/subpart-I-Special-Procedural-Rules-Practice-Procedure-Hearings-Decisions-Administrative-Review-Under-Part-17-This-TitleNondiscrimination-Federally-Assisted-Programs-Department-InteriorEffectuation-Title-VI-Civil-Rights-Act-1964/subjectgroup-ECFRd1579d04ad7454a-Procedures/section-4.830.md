@@ -1,5 +1,7 @@
 ##### § 4.830 Production of documents and things and entry upon land for inspection and other purposes. #####
 
+Link to an amendment published at 90 FR 2427, Jan. 10, 2025.
+
 (a) After the notice of hearing has been filed, any party may serve on any other party a request to produce and/or permit the party, or someone acting on his behalf, to inspect and copy any designated documents, phonorecords, and other data compilations from which information can be obtained and which are in the possession, custody, or control of the party upon whom the request is served. If necessary, translation of data compilations shall be done by the party furnishing the information.
 
 (b) After the notice of hearing has been filed, any party may serve on any other party a request to permit entry upon designated property in the possession or control of the party upon whom the request is served for the purpose of inspection, measuring, surveying or photographing, testing, or sampling the property or any designated object.

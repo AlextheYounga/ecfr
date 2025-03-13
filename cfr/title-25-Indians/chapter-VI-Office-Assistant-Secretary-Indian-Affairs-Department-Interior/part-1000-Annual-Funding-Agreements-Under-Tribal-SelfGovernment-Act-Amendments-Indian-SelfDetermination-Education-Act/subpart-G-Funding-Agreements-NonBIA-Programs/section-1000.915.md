@@ -1,0 +1,3 @@
+##### § 1000.915 Can a Tribe/Consortium negotiate a funding agreement with a non-BIA bureau for which the performance period exceeds one year? #####
+
+Yes, subject to the terms of the funding agreement, a Tribe/Consortium and a non-BIA bureau may agree to provide for the performance under the funding agreement to extend beyond the fiscal year. However, the Secretary may not obligate funds in excess and advance of available appropriations.

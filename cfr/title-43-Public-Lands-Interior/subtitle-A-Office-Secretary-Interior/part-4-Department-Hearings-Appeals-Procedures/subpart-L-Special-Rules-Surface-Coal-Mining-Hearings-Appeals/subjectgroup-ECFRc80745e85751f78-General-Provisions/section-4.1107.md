@@ -1,5 +1,7 @@
 ##### § 4.1107 Filing of documents. #####
 
+Link to an amendment published at 90 FR 2429, Jan. 10, 2025.
+
 (a) Any initial pleadings in a proceeding to be conducted or being conducted by an administrative law judge under these rules shall be filed with the Hearings Division by hand or by mail under the terms specified in the Standing Orders on Contact Information or by electronic transmission under the terms specified in OHA Standing Order*s* on Electronic Transmission.
 
 (b) Where a proceeding has been assigned to an administrative law judge, the parties will be notified by the Chief Administrative Law Judge of the name and address of the administrative law judge assigned to the case and thereafter all further documents shall be filed with the Administrative Law Judge, Office of Hearings and Appeals, at the address designated in the notice.

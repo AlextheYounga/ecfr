@@ -1,0 +1,5 @@
+##### § 62.14710a What else must I report if I have a deviation from the operating limits or the emission limitations? #####
+
+(a) You must submit a deviation report if any recorded 3-hour average (30-day average for energy recovery units or for PM CPMS) parameter level is above the maximum operating limit or below the minimum operating limit established under this subpart, if the bag leak detection system alarm sounds for more than 5 percent of the operating time for any 6-month reporting period, if a performance test was conducted that deviated from any emission limitation, or if a 30-day average measured using a CEMS deviated from any emission limitation.
+
+(b) The deviation report must be submitted by August 1 of that year for data collected during the first half of the calendar year (January 1 to June 30), and by February 1 of the following year for data you collected during the second half of the calendar year (July 1 to December 31).

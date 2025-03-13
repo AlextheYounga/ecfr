@@ -1,0 +1,3 @@
+##### § 1000.1045 How and when does the Secretary respond to a request to negotiate a compact or BIA funding agreement? #####
+
+Within 15 days of receiving a Request to Initiate the Negotiation Phase for a compact or BIA funding agreement, OSG will respond in writing to the Tribe's/Consortium's identified point of contact and identify the person designated as the lead Federal negotiator. OSG and the Tribe/Consortium will negotiate a compact or funding agreement in accordance with applicable provisions of this part.

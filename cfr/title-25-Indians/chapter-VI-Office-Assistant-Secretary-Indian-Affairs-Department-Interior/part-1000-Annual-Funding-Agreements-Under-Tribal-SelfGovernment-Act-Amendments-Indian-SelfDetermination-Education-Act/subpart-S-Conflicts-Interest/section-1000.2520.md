@@ -1,0 +1,3 @@
+##### § 1000.2520 What types of personal conflicts of interest involving Tribal officers, employees, or subcontractors would have to be regulated by a Tribe/Consortium? #####
+
+The Tribe/Consortium must ensure that internal measures are in place that specify that no officer, employee, or agent (including a subcontractor) of the Tribe/Consortium reviews a trust transaction in which that person has a financial or employment interest that conflicts with that of the trust beneficiary, whether the beneficiary is the Tribe/Consortium or an allottee. Interests arising from membership in, or employment by, a Tribe/Consortium or rights to share in a Tribal claim need not be regulated.

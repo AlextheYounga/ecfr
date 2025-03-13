@@ -1,0 +1,3 @@
+##### § 1000.1655 Does FTCA cover employees of the Tribe/Consortium who are paid by the Tribe/Consortium from funds other than those provided through the funding agreement? #####
+
+Yes, FTCA covers employees of the Tribe/Consortium who are not paid from funds transferred under a funding agreement as long as the services out of which the claim arose were performed under the compact or funding agreement.

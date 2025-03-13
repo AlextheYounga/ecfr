@@ -1,0 +1,3 @@
+##### § 1000.1325 When does the Secretary confer with a Tribe/Consortium concerning Tribal preferences as to size, location, type, and other characteristics of a project? #####
+
+Before spending any funds for planning, design, construction, or renovation projects, whether or not subject to a competitive application and ranking process, the Secretary must confer with any Indian Tribe/Consortium that would be significantly affected by the expenditure to determine and honor Tribal preferences whenever practicable concerning the size, location, type, and other characteristics of the project.

@@ -1,0 +1,13 @@
+##### § 29.23 Required payment for use and occupancy of National Wildlife Refuge System land. #####
+
+(a) Payment for use and occupancy of lands under the regulations of this subpart is required for the fair market value or fair market rental value as determined by the Regional Director using any method approved by the Department of the Interior to determine those values.
+
+(1) At the discretion of the Regional Director, the payment may be a fair market rental payment, paid annually, or a lump-sum payment, made before permit issuance.
+
+(2) If any Federal, State, or local agency is exempt from payment under any other provision of Federal law, the agency must inform the Service of the applicable Federal law during the preapplication meeting required by § 29.14. The agency must also otherwise compensate the Service by any other means acceptable to the Regional Director, including, but not limited to, making other land available or loaning of equipment or personnel, except that any such compensation must relate to, and be consistent with, the mission of the National Wildlife Refuge System. For agencies exempted from payment by law, the Regional Director may waive the requirement for other compensation upon finding this requirement to be impracticable or unnecessary.
+
+(b) The terms of the permit will specify the amount of the lump sum paid by the applicant for use and occupancy during the current permit term, or, if applicable, the initial annual rental payment amount for use and occupancy of the permitted area.
+
+(c) When annual rental payments are used, the Regional Director will periodically review and adjust the charges to reflect fair market value. The Regional Director will provide the permit holder with written notice of intent to impose new charges to reflect fair market value commencing with the ensuing charge year. The revised charges will be effective unless the permit holder files an appeal in accordance with § 29.26.
+
+(d) Payments received by the Service for use and occupancy of rights-of-way on Refuge lands and interests in land will be deposited into the Migratory Bird Conservation Fund to carry out the land-acquisition provisions of the Migratory Bird Conservation Act (16 U.S.C. 715 *et seq.*) and the Migratory Bird Hunting Stamp Act (16 U.S.C. 718 *et seq.*). Payments received for use and occupancy of rights-of-way on other Service-managed lands and interests in land will be deposited into the National Wildlife Refuge Fund, to make payments annually to counties and other units of local government in accordance with regulations in 50 CFR part 34.

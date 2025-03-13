@@ -8,7 +8,35 @@
 
 (b) *Statement of U.S. equivalent net contents.* When net contents of wine are stated in metric measure, the equivalent volume in U.S. measure may also be shown. If shown, the U.S. equivalent volume will be shown as follows:
 
-(1) For the metric standards of fill: 3 liters (101 fl. oz.); 1.5 liters (50.7 fl. oz.); 1 liter (33.8 fl. oz.); 750 ml (25.4 fl. oz.); 500 ml (16.9 fl. oz.); 375 ml (12.7 fl. oz.); 187 ml (6.3 fl. oz.); 100 ml (3.4 fl. oz.); and 50 ml (1.7 fl. oz.).
+(1) For the metric standards of fill shown in table 1 to paragraph (b)(1), the equivalent U.S. measures are:
+
+|   Metric measure   |Equivalent  <br/>U.S. measure|
+|--------------------|-----------------------------|
+|    3 liters (L)    | 101 fluid ounces (fl. oz.). |
+|       2.25 L       |        76.1 fl. oz.         |
+|       1.8 L        |        60.9 fl. oz.         |
+|       1.5 L        |        50.7 fl. oz.         |
+|        1 L         |        33.8 fl. oz.         |
+|750 milliliters (mL)|        25.4 fl. oz.         |
+|       720 mL       |        24.3 fl. oz.         |
+|       700 mL       |        23.7 fl. oz.         |
+|       620 mL       |        21.0 fl. oz.         |
+|       600 mL       |        20.3 fl. oz.         |
+|       568 mL       |        19.2 fl. oz.         |
+|       550 mL       |        18.6 fl. oz.         |
+|       500 mL       |        16.9 fl. oz.         |
+|       473 mL       |         16 fl. oz.          |
+|       375 mL       |        12.7 fl. oz.         |
+|       360 mL       |        12.2 fl. oz.         |
+|       355 mL       |        12.0 fl. oz.         |
+|       330 mL       |        11.2 fl. oz.         |
+|       300 mL       |        10.1 fl. oz.         |
+|       250 mL       |         8.5 fl. oz.         |
+|       200 mL       |         6.8 fl. oz.         |
+|       187 mL       |         6.3 fl. oz.         |
+|       180 mL       |         6.1 fl. oz.         |
+|       100 mL       |         3.4 fl. oz.         |
+|       50 mL        |         1.7 fl. oz.         |
 
 (2) Equivalent volumes of less than 100 fluid ounces will be stated in fluid ounces only, accurate to the nearest one-tenth of a fluid ounce; for example, 700 ml (23.7 fl. oz.).
 
@@ -26,4 +54,4 @@
 
 (e) *Unreasonable shortages.* Unreasonable shortages in certain of the containers in any shipment shall not be compensated by overages in other containers in the same shipment.
 
-[T.D. ATF-12, 39 FR 45222, Dec. 31, 1974, as amended by T.D. ATF-49, 43 FR 19848, May 9, 1978; T.D. ATF-76, 46 FR 1727, Jan. 7, 1981; T.D. ATF-303, 55 FR 42713, Oct. 23, 1990; T.D. TTB-91, 76 FR 5476, Feb. 1, 2011]
+[T.D. ATF-12, 39 FR 45222, Dec. 31, 1974, as amended by T.D. ATF-49, 43 FR 19848, May 9, 1978; T.D. ATF-76, 46 FR 1727, Jan. 7, 1981; T.D. ATF-303, 55 FR 42713, Oct. 23, 1990; T.D. TTB-91, 76 FR 5476, Feb. 1, 2011; T.D. TTB-200, 90 FR 1875, Jan. 10, 2025]

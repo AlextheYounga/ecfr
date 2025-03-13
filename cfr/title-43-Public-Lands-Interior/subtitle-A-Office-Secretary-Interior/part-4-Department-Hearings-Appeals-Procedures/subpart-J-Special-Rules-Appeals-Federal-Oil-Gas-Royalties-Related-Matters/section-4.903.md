@@ -1,5 +1,7 @@
 ##### § 4.903 What definitions apply to this subpart? #####
 
+Link to an amendment published at 90 FR 2427, Jan. 10, 2025.
+
 For the purposes of this subpart only:
 
 *Assessment* means any fee or charge levied or imposed by the Secretary or a delegated State other than:

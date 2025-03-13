@@ -1,0 +1,3 @@
+##### § 1000.705 What is a Tribal share? #####
+
+A Tribal share is the portion of all funds and resources determined for a particular Tribe (or Tribes within a Consortium) that support any program within BIA, BIE, BTFA, or the Office of the Assistant Secretary for Indian Affairs and are not required by the Secretary for the performance of an inherent Federal function as described in §§ 1000.685 through 1000.695.

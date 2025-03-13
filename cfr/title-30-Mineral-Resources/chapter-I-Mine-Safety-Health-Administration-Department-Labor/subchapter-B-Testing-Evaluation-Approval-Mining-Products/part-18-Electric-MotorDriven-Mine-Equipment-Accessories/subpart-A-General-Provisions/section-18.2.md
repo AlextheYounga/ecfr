@@ -1,7 +1,5 @@
 ##### § 18.2 Definitions. #####
 
-Link to an amendment published at 89 FR 99104, Dec. 10, 2024.
-
 As used in this part—
 
 *Acceptance* means written notification by MSHA that a hose has met the applicable requirements of this part and will be listed by MSHA as acceptable flame-resistant auxiliary equipment.
@@ -60,7 +58,7 @@ As used in this part—
 
 *Normal operation* means the regular performance of those functions for which a machine or accessory was designed.
 
-*Permissible equipment* means a completely assembled electrical machine or accessory for which a formal approval has been issued, as authorized by the Administrator, Mining Enforcement and Safety Administration under the Federal Coal Mine Health and Safety Act of 1969 (Pub. L. 91-173, 30 U.S.C. 801 or, after March 9, 1978, by the Assistant Secretary under the Federal Mine Safety and Health Act of 1977 (Pub. L. 91-173, as amended by Pub. L. 95-164, 30 U.S.C. 801).
+*Permissible equipment* means a completely assembled electrical machine or accessory for which an approval has been issued.
 
 *Permit* means a formal document, signed by the Assistant Secretary, authorizing the operation of specific experimental equipment in a gassy mine or tunnel under prescribed conditions.
 
@@ -82,4 +80,12 @@ As used in this part—
 
 *Threaded joint* means a joint consisting of a male- and a female-threaded member, both of which are of the same type and gage.
 
-[33 FR 4660, Mar. 19, 1968, as amended at 39 FR 23999, June 28, 1974; 43 FR 12314, Mar. 24, 1978; 57 FR 61223, Dec. 23, 1992; 73 FR 80611, Dec. 31, 2008]
+*Voluntary consensus standard* means a safety standard that:
+
+(1) Is developed or adopted by a voluntary consensus standards body; and
+
+(2) Prescribes safety requirements applicable to equipment for which applicants are seeking approval, certification, extension, or acceptance under this part.
+
+*Voluntary consensus standards body* means a domestic or international organization that plans, develops, establishes, or coordinates voluntary consensus standards using agreed-upon procedures that are consistent with the National Technology Transfer and Advancement Act of 1995 (15 U.S.C. 3710) and the Office of Management and Budget's Circular A-119 (Jan. 27, 2016).
+
+[33 FR 4660, Mar. 19, 1968, as amended at 39 FR 23999, June 28, 1974; 43 FR 12314, Mar. 24, 1978; 57 FR 61223, Dec. 23, 1992; 73 FR 80611, Dec. 31, 2008; 89 FR 99104, Dec. 10, 2024]

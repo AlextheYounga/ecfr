@@ -1,0 +1,3 @@
+##### § 1000.435 How will the non-BIA bureau director/commissioner award financial assistance for planning and negotiation activities for a non-BIA program? #####
+
+The non-BIA bureau director/commissioner must review all applications received by the date specified in the announcement to determine whether or not the applications include the required elements outlined in the announcement. The non-BIA bureau must rank the complete applications submitted by the deadline using the criteria in the notice of funding availability.

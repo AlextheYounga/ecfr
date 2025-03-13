@@ -1,0 +1,3 @@
+##### § 1000.1115 What does a final offer contain? #####
+
+A final offer must contain a description of the disagreement between the Secretary and the Tribe/Consortium, the Tribe's/Consortium's final proposal to resolve the disagreement, including any draft proposed terms to be included in a compact, funding agreement, or amendment, and the name and contact information for the person authorized to act on behalf of the Tribe/Consortium.

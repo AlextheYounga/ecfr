@@ -1,5 +1,7 @@
 ##### § 4.310 Documents. #####
 
+Link to an amendment published at 90 FR 2411, Jan. 10, 2025.
+
 (a) *Filing.* The effective date for filing a notice of appeal or other document with the Board during the course of an appeal is:
 
 (1) For most documents, the date of mailing, the date of personal delivery, or the date of electronic transmission to the Board in accordance with paragraph (f); or

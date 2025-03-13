@@ -1,0 +1,3 @@
+##### § 1000.130 What additional information may be submitted to the Secretary to facilitate negotiations? #####
+
+At the option of the Tribe/Consortium, a Tribe/Consortium may identify BIA and non-BIA programs that the Tribe/Consortium may wish to subsequently negotiate for inclusion in a funding agreement. The inclusion of PSFAs in a funding agreement is not limited by the provision of this additional information.

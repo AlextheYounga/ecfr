@@ -1,0 +1,3 @@
+##### § 1000.30 What is the effect of these regulations on Federal program guidelines, manual, or policy directives? #####
+
+Unless expressly agreed to by the Tribe/Consortium in a compact or funding agreement, the Tribe/Consortium shall not be subject to any agency circular, policy, manual, guidance, or rule adopted by the Department, except for the eligibility provisions of 25 U.S.C. 5324(g) and the regulations under this part to the extent a regulatory provision is not waived by the Secretary.

@@ -34,9 +34,9 @@
 
 (b) Unless otherwise permitted by the officer, the following table sets out the requirements for the location of fairleads or closed chocks for vessels of 100 m or more in overall length:
 
-|         Overall length of ships         |                                   For mooring lines Nos. 1 and 2                                    |                                    For mooring lines Nos. 3 and 4                                    |
-|-----------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-|  100 m or more but not more than 180 m  |Shall be at a location on the ship side where the beam is at least 90% of the full beam of the vessel|Shall be at a location on the ship side where the beam is at least 90% of the full beam of the vessel.|
-|More than 180 m but not more than 222.5 m|                                 Between 20 m & 50 m from the stern                                  |                                 Between 20 m & 50 m from the stern.                                  |
+|         Overall length of ships         |                                  For mooring lines Nos. 1 and 2                                   |                                   For mooring lines Nos. 3 and 4                                   |
+|-----------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+|  100 m or more but not more than 180 m  |Shall be at a location on the ship side where the beam is at least 90% of the full beam of the ship|Shall be at a location on the ship side where the beam is at least 90% of the full beam of the ship.|
+|More than 180 m but not more than 225.5 m|                                Between 20 m & 50 m from the stern                                 |                                Between 20 m & 50 m from the stern.                                 |
 
-[74 FR 18994, Apr. 27, 2009, as amended at 75 FR 10689, Mar. 9, 2010; 76 FR 13089, Mar. 10, 2011; 77 FR 40804, July 11, 2012; 81 FR 13745, Mar. 15, 2016; 83 FR 12485, Mar. 22, 2018]
+[74 FR 18994, Apr. 27, 2009, as amended at 75 FR 10689, Mar. 9, 2010; 76 FR 13089, Mar. 10, 2011; 77 FR 40804, July 11, 2012; 81 FR 13745, Mar. 15, 2016; 83 FR 12485, Mar. 22, 2018; 90 FR 1882, Jan. 10, 2025]

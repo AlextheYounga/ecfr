@@ -1,0 +1,3 @@
+##### § 1000.695 Is the amount of funds withheld by the Secretary to cover the cost of inherent Federal functions subject to negotiation? #####
+
+Yes, the Secretary's calculation of such costs is an appropriate subject during the negotiation of a funding agreement because it affects the amount of funds available for transfer to the funding agreement. If the Tribe/Consortium and the Secretary are unable to agree on the amount of funds to be withheld by the Secretary to cover the Secretary's expense of carrying out inherent Federal functions directly associated with the PSFAs assumed in the funding agreement, the Tribe/Consortium may exercise any of its options under 25 U.S.C. 5366(c), including the final offer process in subpart I of this part.

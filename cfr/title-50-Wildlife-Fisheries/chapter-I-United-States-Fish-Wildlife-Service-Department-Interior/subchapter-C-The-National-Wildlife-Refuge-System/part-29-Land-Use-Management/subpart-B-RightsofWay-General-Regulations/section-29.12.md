@@ -1,0 +1,3 @@
+##### § 29.12 Preexisting uses. #####
+
+The regulations in this subpart have no impact on permanent rights and rights-of-way in existence prior to acquisition by the United States, except those activities not explicitly authorized by a preexisting right-of-way, as well as activities that fall outside the footprint of such a right-of-way, are subject to § 26.41 of this chapter and the procedures in this subpart.

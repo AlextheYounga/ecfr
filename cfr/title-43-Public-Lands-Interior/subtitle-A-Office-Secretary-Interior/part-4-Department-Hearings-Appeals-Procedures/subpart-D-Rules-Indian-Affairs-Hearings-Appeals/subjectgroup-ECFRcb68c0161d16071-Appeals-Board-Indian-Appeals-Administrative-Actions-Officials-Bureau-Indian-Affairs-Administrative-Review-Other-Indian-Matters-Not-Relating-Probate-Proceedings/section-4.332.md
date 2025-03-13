@@ -1,5 +1,7 @@
 ##### § 4.332 Appeal to the Board; how taken; mandatory time for filing; preparation assistance; requirement for bond. #####
 
+Link to an amendment published at 90 FR 2413, Jan. 10, 2025.
+
 (a) A notice of appeal shall be in writing, signed by the appellant or by his attorney of record or other qualified representative as provided by 43 CFR 1.3, and filed with the Board of Indian Appeals, Office of Hearings and Appeals, U.S. Department of the Interior, 801 North Quincy Street, Arlington, Virginia 22203, within 30 days after receipt by the appellant of the decision from which the appeal is taken. A copy of the notice of appeal shall simultaneously be filed with the Assistant Secretary—Indian Affairs. As required by § 4.333 of this part, the notice of appeal sent to the Board shall certify that a copy has been sent to the Assistant Secretary—Indian Affairs. A notice of appeal not timely filed shall be dismissed for lack of jurisdiction. A notice of appeal shall include:
 
 (1) A full identification of the case;

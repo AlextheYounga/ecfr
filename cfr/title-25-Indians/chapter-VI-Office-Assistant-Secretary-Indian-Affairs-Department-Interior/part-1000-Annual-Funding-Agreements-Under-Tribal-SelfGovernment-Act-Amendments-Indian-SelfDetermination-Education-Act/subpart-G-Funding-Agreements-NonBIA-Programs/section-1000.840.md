@@ -1,0 +1,3 @@
+##### § 1000.840 May a non-BIA bureau include in a funding agreement, on a non-competitive basis, programs of special geographic, historical, or cultural significance? #####
+
+Yes, if there is a special geographic, historical, or cultural significance to the program or activity administered by the bureau, the law affords the non-BIA bureau the discretion to include the programs or activities in a funding agreement on a non-competitive basis.

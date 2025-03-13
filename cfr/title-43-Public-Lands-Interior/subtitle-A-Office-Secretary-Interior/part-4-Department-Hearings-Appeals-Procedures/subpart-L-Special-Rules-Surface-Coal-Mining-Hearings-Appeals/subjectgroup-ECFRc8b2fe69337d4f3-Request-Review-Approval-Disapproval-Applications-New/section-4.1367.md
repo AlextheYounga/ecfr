@@ -1,5 +1,7 @@
 ##### § 4.1367 Request for temporary relief. #####
 
+Link to an amendment published at 90 FR 2431, Jan. 10, 2025.
+
 (a) Where review is requested pursuant to § 4.1362, any party may file a request for temporary relief at any time prior to a decision by an Administrative Law Judge, so long as the relief sought is not the issuance of a permit where a permit application has been disapproved in whole or in part.
 
 (b) The request shall be filed with the Administrative Law Judge to whom the case has been assigned. If no assignment has been made, the application shall be filed in the Hearings Division, Office of Hearings and Appeals, U.S. Department of the Interior.

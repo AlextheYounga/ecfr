@@ -1,5 +1,7 @@
 ##### § 4.350 Authority and scope. #####
 
+Link to an amendment published at 90 FR 2413, Jan. 10, 2025.
+
 (a) The rules and procedures set forth in §§ 4.350 through 4.357 apply only to the determination through intestate succession of the heirs of persons who died entitled to receive compensation under the White Earth Reservation Land Settlement Act of 1985, Public Law 99-264 (100 Stat. 61), amended by Public Law 100-153 (101 Stat. 886) and Public Law 100-212 (101 Stat. 1433).
 
 (b) Whenever requested to do so by the Project Director, an administrative judge shall determine such heirs by applying inheritance laws in accordance with the White Earth Reservation Settlement Act of 1985 as amended, notwithstanding the decedent may have died testate.

@@ -1,0 +1,3 @@
+##### § 1000.320 Must a Tribe/Consortium receive a planning or negotiation grant to be eligible to participate in self-governance? #####
+
+No, a Tribe/Consortium may use other resources to meet the planning requirement and to negotiate. The award of a planning grant or a negotiation grant is not required in order to meet the planning phase requirement of the Act or to negotiate a compact or funding agreement.

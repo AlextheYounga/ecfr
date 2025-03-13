@@ -1,0 +1,3 @@
+##### § 1000.1120 When does the 60-day review period begin? #####
+
+The 60-day review period begins on the date the final offer is received at the office's mailing or email address identified in this subpart. Demonstration of receipt includes a postal return receipt, express delivery service receipt, or date stamp; all email submissions are presumed received by the Secretary no later than the next business day following transmission from the Tribe/Consortium.

@@ -1,0 +1,3 @@
+##### § 1000.1379 Are Tribes/Consortia required to adopt a separate resolution or take equivalent Tribal action to assume some environmental responsibilities of the Secretary under NEPA, NHPA, and related laws and regulations for each construction project? #####
+
+No, the Tribe/Consortium may adopt a single resolution or take equivalent Tribal action to assume some environmental responsibilities of the Secretary for NEPA, NHPA, and related laws and regulations for a single project, multiple projects, a class of projects, or all projects performed under 25 U.S.C. 5367.

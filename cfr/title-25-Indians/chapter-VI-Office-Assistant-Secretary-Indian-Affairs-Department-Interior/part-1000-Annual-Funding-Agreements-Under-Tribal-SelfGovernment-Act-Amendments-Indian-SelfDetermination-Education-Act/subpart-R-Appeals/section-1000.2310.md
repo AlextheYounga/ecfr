@@ -1,0 +1,3 @@
+##### § 1000.2310 Does a Tribe/Consortium have any options besides an appeal? #####
+
+Yes, the Tribe/Consortium may request a non-binding alternative dispute resolution process—without the need for a formal appeal. Or, the Tribe/Consortium may, in lieu of filing an administrative appeal under this subpart, file an action in an appropriate Federal court under 25 U.S.C. 5331, or any other applicable law.

@@ -1,0 +1,3 @@
+##### § 1000.1165 If the Secretary rejects all or part of a final offer, is the Tribe/Consortium entitled to an appeal? #####
+
+Yes, the Tribe/Consortium is entitled to appeal the decision of the Secretary, with an agency hearing on the record, and the right to engage in full discovery relevant to any issue raised in the matter. The procedures for appeals are found in subpart R of this part. Alternatively, at its option, the Tribe/Consortium has the right to initiate an action challenging the Secretary's decision in U.S. District Court under 25 U.S.C. 5331(a).

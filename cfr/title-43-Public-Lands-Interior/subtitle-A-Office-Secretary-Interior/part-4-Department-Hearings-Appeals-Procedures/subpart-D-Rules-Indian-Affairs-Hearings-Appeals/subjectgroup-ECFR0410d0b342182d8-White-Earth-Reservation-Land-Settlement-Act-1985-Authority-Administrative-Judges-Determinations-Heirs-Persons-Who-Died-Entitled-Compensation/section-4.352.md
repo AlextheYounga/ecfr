@@ -1,5 +1,7 @@
 ##### § 4.352 Determination of administrative judge and notice thereof. #####
 
+Link to an amendment published at 90 FR 2413, Jan. 10, 2025.
+
 (a) Upon review of all data submitted by the Project Director, the administrative judge will determine whether or not there are any apparent issues of fact that need to be resolved.
 
 (b) If there are no issues of fact requiring determination, the administrative judge will enter a preliminary determination of heirs based upon inheritance laws in accordance with the Act. Such preliminary determination will be entered without a hearing, and, when possible and based upon the data furnished and/or information supplementary thereto, shall include the names, birth dates, relationships to the decedent, and shares of the heirs, or the fact that the decedent died without heirs.

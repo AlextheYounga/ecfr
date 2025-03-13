@@ -1,5 +1,7 @@
 ##### § 4.1352 Who may file; where to file; when to file. #####
 
+Link to an amendment published at 90 FR 2431, Jan. 10, 2025.
+
 (a) The applicant or operator may file a request for hearing on OSM's preliminary finding of permanent permit ineligibility.
 
 (b) The request for hearing must be filed with the Hearings Division, Office of Hearings and Appeals, U.S. Department of the Interior, within 30 days of receipt of the preliminary finding by the applicant or operator.

@@ -1,0 +1,7 @@
+##### § 291.621 Disqualifications. #####
+
+(a) *Fraudulent information.* If HUD determines there is any information indicating any certification or required document provided by any party participating in a Single Family Sale, including but not limited to P-Servicer, Purchaser, Qualified Participant, or a Purchaser's servicer, is false, misleading, or constitutes fraud or misrepresentation, HUD will not approve that party's participation in the Single Family Sale and will revoke any prior approval. The submission of false information or misrepresentation by an approved lender or mortgagee may result in the referral of the mortgagee to the Mortgagee Review Board.
+
+(b) *Participant ineligibility.* An individual or entity is ineligible to participate in a Single Family Sale if, at the time of the Single Family Sale, that individual or entity is suspended, debarred, under a limited denial of participation (LDP), or otherwise restricted under 2 CFR part 180 or 2424, 24 CFR part 25, 48 CFR part 9, subpart 9.4, or under similar procedures of any other Federal agency.
+
+(c) *Future participation.* Purchasers that made misrepresentations in the qualification process or failed to meet their contractual obligations under CAAs, including failing to meet post-sale requirements, for previous Single Family Sales in which they participated may be disqualified from participation in one or more future Single Family Sales or for a set period of time at the discretion of the Secretary.

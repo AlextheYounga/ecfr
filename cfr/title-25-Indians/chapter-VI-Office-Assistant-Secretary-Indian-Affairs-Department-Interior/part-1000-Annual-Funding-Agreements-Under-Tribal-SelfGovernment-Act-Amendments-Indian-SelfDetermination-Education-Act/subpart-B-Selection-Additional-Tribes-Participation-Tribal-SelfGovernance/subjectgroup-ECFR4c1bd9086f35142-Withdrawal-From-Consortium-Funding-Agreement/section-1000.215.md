@@ -1,0 +1,3 @@
+##### § 1000.215 If the withdrawing Tribe elects to operate a program carried out under a compact and funding agreement under title IV through a contract under title I, is the resulting contract considered a mature contract under 25 U.S.C. 5304(h)? #####
+
+If a Tribe withdrawing from a Consortium's funding agreement elects to operate a program carried out under a compact and funding agreement under title IV through a contract under title I, at the option of the Tribe, the resulting contract is considered a mature contract as long as the Tribe meets the requirements set forth in 25 U.S.C. 5304(h).

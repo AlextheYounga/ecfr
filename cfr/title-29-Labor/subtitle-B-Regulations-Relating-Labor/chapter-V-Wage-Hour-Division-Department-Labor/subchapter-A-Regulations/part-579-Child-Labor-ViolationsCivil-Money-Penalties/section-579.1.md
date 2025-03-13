@@ -1,5 +1,7 @@
 ##### § 579.1 Purpose and scope. #####
 
+Link to an amendment published at 90 FR 1861, Jan. 10, 2025.
+
 (a) Section 16(e), added to the Fair Labor Standards Act of 1938, as amended, by the Fair Labor Standards Amendments of 1974, and as further amended by the Fair Labor Standards Amendments of 1989, the Omnibus Budget Reconciliation Act of 1990, the Compactor and Balers Safety Standards Modernization Act of 1996, and the Genetic Information Nondiscrimination Act of 2008, provides for the imposition of civil money penalties in the following manner:
 
 (1)(i) Any person who violates the provisions of sections 212 or 213(c) of the FLSA, relating to child labor, or any regulation issued pursuant to such sections, shall be subject to a civil penalty not to exceed:

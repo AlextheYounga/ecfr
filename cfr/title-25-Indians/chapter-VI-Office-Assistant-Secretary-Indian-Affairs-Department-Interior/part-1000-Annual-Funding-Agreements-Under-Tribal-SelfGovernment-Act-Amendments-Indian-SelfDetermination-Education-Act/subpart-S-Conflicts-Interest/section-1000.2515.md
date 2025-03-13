@@ -1,0 +1,3 @@
+##### § 1000.2515 When must a Tribe/Consortium regulate its employees or subcontractors to avoid a personal conflict of interest? #####
+
+A Tribe/Consortium must maintain written standards of conduct, pursuant to Tribal law and procedures, to govern officers, employees, and agents (including subcontractors) engaged in functions related to the management of trust assets performed under a compact and funding agreement subject to this part.

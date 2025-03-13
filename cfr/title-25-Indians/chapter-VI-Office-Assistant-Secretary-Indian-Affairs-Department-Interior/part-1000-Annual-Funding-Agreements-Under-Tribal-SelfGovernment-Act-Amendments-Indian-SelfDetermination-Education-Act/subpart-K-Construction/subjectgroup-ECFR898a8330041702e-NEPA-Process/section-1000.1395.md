@@ -1,0 +1,3 @@
+##### § 1000.1395 May a Tribe/Consortium act as a cooperating agency or joint lead agency for environmental review purposes regardless of whether it exercises its option under § 1000.1370(a)(1)? #####
+
+Yes, consistent with 40 CFR 1501.7(b) and 1501.8, a Tribe/Consortium may act as a cooperating agency or joint lead agency for environmental review purposes under this part. For informational purposes only, the term “cooperating agency” is defined at 40 CFR 1508.1(g) and the criteria for a Tribe/Consortium to act as a “cooperating agency” are set out in 40 CFR 1501.8 and Department regulations at 43 CFR 46.225, respectively.

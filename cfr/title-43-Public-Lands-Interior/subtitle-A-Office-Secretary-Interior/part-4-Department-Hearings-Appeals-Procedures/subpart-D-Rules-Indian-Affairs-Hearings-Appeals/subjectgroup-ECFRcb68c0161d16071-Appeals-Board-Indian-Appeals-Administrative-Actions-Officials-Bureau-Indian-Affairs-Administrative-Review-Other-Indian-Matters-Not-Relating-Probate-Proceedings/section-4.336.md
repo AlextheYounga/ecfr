@@ -1,3 +1,5 @@
 ##### § 4.336 Docketing. #####
 
+Link to an amendment published at 90 FR 2413, Jan. 10, 2025.
+
 An appeal shall be assigned a docket number by the Board 20 days after receipt of the notice of appeal unless the Board has been properly notified that the Assistant Secretary—Indian Affairs has assumed jurisdiction over the appeal. A notice of docketing shall be sent to all interested parties as shown by the record on appeal upon receipt of the administrative record. Any objection to the record as constituted shall be filed with the Board within 15 days of receipt of the notice of docketing. The docketing notice shall specify the time within which briefs shall be filed, cite the procedural regulations governing the appeal and include a copy of the Table of Contents furnished by the deciding official.

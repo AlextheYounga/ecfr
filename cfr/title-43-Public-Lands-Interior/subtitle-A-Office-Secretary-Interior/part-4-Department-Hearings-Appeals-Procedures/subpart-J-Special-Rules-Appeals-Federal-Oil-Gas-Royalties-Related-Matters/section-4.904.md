@@ -1,5 +1,7 @@
 ##### § 4.904 When does my appeal commence and end? #####
 
+Link to an amendment published at 90 FR 2427, Jan. 10, 2025.
+
 For purposes of the period in which the Department must issue a final decision in your appeal under § 4.906:
 
 (a) Your appeal commences on the date ONRR receives your Notice of Appeal.

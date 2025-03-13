@@ -1,0 +1,3 @@
+##### § 1000.1175 Does appealing the final offer decision prevent the Secretary and the Tribe/Consortium from entering into any accepted compact, funding agreement or amendment provisions that are not in dispute? #####
+
+No, appealing the decision does not prevent the Secretary and Tribe/Consortium from entering into any accepted, severable provisions of a compact, funding agreement, or amendment that are not in dispute.

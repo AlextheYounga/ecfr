@@ -1,5 +1,7 @@
 ##### § 4.811 Determination and participation of amici. #####
 
+Link to an amendment published at 90 FR 2426, Jan. 10, 2025.
+
 (a) Any interested person or organization wishing to participate as amicus curiae in the proceeding shall file a petition before the commencement of the hearing. Such petition shall concisely state the petitioner's interest in the hearing and who will represent petitioner.
 
 (b) The administrative law judge will grant the petition if he finds that the petitioner has an interest in the proceedings and may contribute materially to the disposition of the proceedings. The administrative law judge shall give the petitioner written notice of the decision on his petition.

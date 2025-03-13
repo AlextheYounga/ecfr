@@ -1,5 +1,7 @@
 ##### § 4.356 Appeals. #####
 
+Link to an amendment published at 90 FR 2413, Jan. 10, 2025.
+
 (a) A party aggrieved by a final order of an administrative judge under § 4.352, or by a final order upon reconsideration of an administrative judge under § 4.354, may appeal to the Board. A copy of the notice of appeal must also be sent to the Project Director and to the administrative judge whose decision is being appealed.
 
 (b) The notice of appeal must be filed with the Board no later than thirty (30) days from the date on which the final order of the administrative judge was mailed, or, if there has been a petition for reconsideration or rehearing filed, no later than thirty (30) days from the date on which the final order upon reconsideration of the administrative judge was mailed. A notice of appeal that is not timely filed will be dismissed.

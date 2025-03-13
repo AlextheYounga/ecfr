@@ -1,5 +1,7 @@
 ##### § 4.827 Depositions. #####
 
+Link to an amendment published at 90 FR 2427, Jan. 10, 2025.
+
 (a) A party may take the testimony of any person, including a party, by deposition upon oral examination. This may be done by stipulation or by notice, as set forth in paragraph (b) of this section. On motion of any party or other person upon whom the notice is served, the administrative law judge may for cause shown enlarge or shorten the time for the deposition, change the place of the deposition, limit the scope of the deposition or quash the notice. Depositions of persons other than parties or their representatives shall be upon consent of the deponent.
 
 (b)(1) The party will give reasonable notice in writing to every other party of the time and place for taking depositions, the name and address of each person to be examined, if known, or a general description sufficient to identify him or the particular class or group to which he belongs.

@@ -1,0 +1,3 @@
+##### § 1000.625 What is the term of a funding agreement? #####
+
+A funding agreement shall have the term mutually agreed to by the parties. Absent notification from a Tribe/Consortium that it is withdrawing or retroceding the operation of one or more programs identified in a funding agreement or by the nature of any noncontinuing PSFA contained in a funding agreement, the funding agreement shall remain in full force and effect until a subsequent funding agreement is executed.

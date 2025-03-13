@@ -1,0 +1,5 @@
+##### § 62.14515a Can my CISWI be covered by both a state plan and this subpart? #####
+
+(a) If your CISWI is located in a state that does not have an EPA-approved state plan or your state's plan has not become effective, this subpart applies to your CISWI until the EPA approves a state plan that covers your CISWI and that state plan becomes effective. However, a state may enforce the requirements of a state regulation while your CISWI is still subject to this subpart.
+
+(b) After the EPA fully approves a state plan covering your CISWI, and after that state plan becomes effective, you will no longer be subject to this subpart and will only be subject to the approved and effective state plan. If the state or tribal plan are only approved in part, you will remain subject to the Federal plan to the extent necessary to address the deficiencies in the disapproved portions of the state or tribal plan.

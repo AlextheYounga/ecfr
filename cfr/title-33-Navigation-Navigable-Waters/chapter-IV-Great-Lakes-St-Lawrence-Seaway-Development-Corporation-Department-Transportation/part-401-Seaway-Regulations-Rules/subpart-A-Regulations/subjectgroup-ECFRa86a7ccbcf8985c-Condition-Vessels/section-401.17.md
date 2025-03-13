@@ -4,6 +4,6 @@ Every vessel of 1600 gross registered tons or integrated tug and barge or articu
 
 (a) A pitch indicator in the wheelhouse and the engine room; and
 
-(b) Visible and audible pitch alarms, with a time delay of not greater than 8 seconds, in the wheelhouse and engineer room to indicate wrong pitch.
+(b) Visible and audible pitch alarms, with a time delay of not greater than 8 seconds, in the wheelhouse and engine room to indicate wrong way pitch.
 
-(68 Stat. 93-96, 33 U.S.C. 981-990, as amended and secs. 4, 5, 6, 7, 8, 12 and 13 of sec. 2 of Pub. L. 95-474, 92 Stat. 1471)[47 FR 51122, Nov. 12, 1982, as amended at 70 FR 12971, Mar. 17, 2005; 71 FR 5606, Feb. 2, 2006; 81 FR 13746, Mar. 15, 2016]
+[47 FR 51122, Nov. 12, 1982, as amended at 70 FR 12971, Mar. 17, 2005; 71 FR 5606, Feb. 2, 2006; 81 FR 13746, Mar. 15, 2016; 90 FR 1882, Jan. 10, 2025]

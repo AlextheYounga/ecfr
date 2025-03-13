@@ -1,0 +1,3 @@
+##### § 1000.2130 How much time does the Federal Government have to make a claim against a Tribe/Consortium relating to any disallowance of costs, based on an audit? #####
+
+Any claim by the Federal Government against a Tribe/Consortium relating to the disallowance of costs for funds received under a funding agreement based on any audit under title IV (other than those relating to a criminal offense) shall be subject to the 365-day period set forth in 25 U.S.C. 5325(f), as prescribed by 25 U.S.C. 5365(c)(3).

@@ -1,0 +1,3 @@
+##### § 1000.1465 Is a facility built under this subpart eligible for annual operation and maintenance funding? #####
+
+Yes, upon completion of a facility constructed under the Act, the Secretary shall include the facility among those eligible for annual operation and maintenance funding support comparable to that provided for similar facilities funded by the Department as annual appropriations are available and to the extent that the facility size and complexity and other factors do not exceed the funding formula criteria for comparable buildings.

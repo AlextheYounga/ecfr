@@ -1,0 +1,3 @@
+##### § 62.14525a If my CISWI is not listed in the Federal plan inventory, am I exempt from this subpart? #####
+
+Any CISWI that meets the applicability criteria in § 62.14510a is required to comply with the applicable emissions guidelines even if the source is not listed in the Federal plan or otherwise applicable state or tribal plan inventory. CISWI subject to this subpart are not limited to the inventory of sources listed in Docket EPA-HQ-OAR-2016-0664 for the Federal plan. If your CISWI meets the applicability criteria in § 62.14510a, this subpart applies to you whether or not your CISWI is listed in the Federal plan inventory in the docket.

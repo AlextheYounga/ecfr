@@ -1,0 +1,3 @@
+##### § 1000.420 Under what circumstances may financial assistance for planning and negotiation activities with non-BIA bureaus be awarded to Tribes/Consortia? #####
+
+At the discretion of the non-BIA bureau's director/commissioner, financial assistance to plan and negotiate non-BIA programs may be awarded when requested by the Tribe/Consortium. A Tribe/Consortium may submit only one application per year for financial assistance under this section.

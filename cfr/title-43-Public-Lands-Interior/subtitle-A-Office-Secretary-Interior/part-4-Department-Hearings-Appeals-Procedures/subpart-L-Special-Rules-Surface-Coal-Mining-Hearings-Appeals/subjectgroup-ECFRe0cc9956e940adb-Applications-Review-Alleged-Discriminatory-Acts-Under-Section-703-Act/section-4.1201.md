@@ -1,5 +1,7 @@
 ##### § 4.1201 Request for scheduling of a hearing. #####
 
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+
 (a) If OSM determines that a violation of section 703(a) of the act has probably occurred and was not resolved at the informal conference, it shall file with the Hearings Division, OHA, a request on behalf of the applicant that a hearing be scheduled. The request shall be filed within 10 days of the completion of the informal conference, or where no conference is held, within 10 days following the scheduled conference. Where OSM makes such a request, it shall represent the applicant in the administrative proceedings, unless the applicant desires to be represented by private counsel.
 
 (b) If OSM declines to request that a hearing be scheduled and to represent the applicant, it shall within 10 days of the completion of the informal conference, or where no conference is held, within 10 days following the scheduled conference, notify the applicant of his right to request the scheduling of a hearing on his own behalf. An applicant shall file a request for the scheduling of a hearing in the Hearings Division, OHA, within 30 days of service of such notice from OSM.

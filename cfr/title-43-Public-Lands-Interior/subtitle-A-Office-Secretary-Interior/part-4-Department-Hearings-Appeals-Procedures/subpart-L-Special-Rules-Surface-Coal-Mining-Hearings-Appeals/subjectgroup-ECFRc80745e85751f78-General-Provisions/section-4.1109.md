@@ -1,5 +1,7 @@
 ##### § 4.1109 Service. #####
 
+Link to an amendment published at 90 FR 2429, Jan. 10, 2025.
+
 (a)(1) Any party initiating a proceeding in OHA under the Act shall, on the date of filing, simultaneously serve copies of the initiating documents on the officer in the Office of the Solicitor, U.S. Department of the Interior, representing OSMRE in the state in which the mining operation at issue is located, and on any other statutory parties specified under § 4.1105 of this part.
 
 (2) The jurisdictions, addresses, and telephone numbers of the applicable officers of the Office of the Solicitor to be served under paragraph (a)(1) of this section are identified in the OHA Standing Orders on Contact Information.

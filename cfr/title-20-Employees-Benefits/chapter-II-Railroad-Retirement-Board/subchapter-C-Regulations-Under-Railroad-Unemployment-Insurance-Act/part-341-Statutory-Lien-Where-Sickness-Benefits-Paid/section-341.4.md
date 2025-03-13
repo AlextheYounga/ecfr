@@ -4,4 +4,4 @@
 
 (b) The employee shall, upon request, tell the Board whether and from whom he or she has collected any damages for the infirmity.
 
-(Approved by the Office of Management and Budget under control number 3220-0036)[49 FR 570, Jan. 5, 1984, as amended at 52 FR 11018, Apr. 6, 1987]
+(Approved by the Office of Management and Budget under control number 3220-0036) [49 FR 570, Jan. 5, 1984, as amended at 52 FR 11018, Apr. 6, 1987]

@@ -1,0 +1,3 @@
+##### § 1000.1490 May the Secretary require design provisions and other terms and conditions for construction projects or programs included in a funding agreement or construction project agreement under section 403(c) (25 U.S.C. 5363(c))? #####
+
+Yes, the relevant bureau may provide to the Tribe/Consortium project design criteria and other terms and conditions that are required for such a construction project or program. The construction project or program must be completed in accordance with the terms and conditions set forth in the funding agreement or construction project agreement.

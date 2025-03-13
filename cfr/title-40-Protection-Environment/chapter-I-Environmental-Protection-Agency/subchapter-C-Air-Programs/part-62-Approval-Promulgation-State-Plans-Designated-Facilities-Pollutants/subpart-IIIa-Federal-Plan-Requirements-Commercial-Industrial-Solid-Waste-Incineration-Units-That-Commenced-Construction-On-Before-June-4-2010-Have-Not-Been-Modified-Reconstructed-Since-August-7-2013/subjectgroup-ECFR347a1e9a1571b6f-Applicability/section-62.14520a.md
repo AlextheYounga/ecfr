@@ -1,0 +1,3 @@
+##### § 62.14520a How do I determine if my CISWI is covered by an approved and effective state or tribal plan? #####
+
+This part contains a list of state and tribal areas with approved Clean Air Act section 111(d) and section 129 plans along with the effective dates for such plans. The list is published annually. If this part does not indicate that your state or tribal area has an approved and effective plan, you should contact your state environmental agency's air director or your EPA Regional Office to determine if the EPA has approved a state plan covering your CISWI since publication of the most recent version of this subpart.

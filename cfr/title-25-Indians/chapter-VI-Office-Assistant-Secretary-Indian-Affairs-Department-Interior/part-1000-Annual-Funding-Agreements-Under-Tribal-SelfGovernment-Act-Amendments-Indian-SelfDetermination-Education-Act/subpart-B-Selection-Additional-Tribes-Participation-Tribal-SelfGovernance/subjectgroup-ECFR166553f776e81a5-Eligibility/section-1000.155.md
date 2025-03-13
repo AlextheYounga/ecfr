@@ -1,0 +1,3 @@
+##### § 1000.155 Is the Secretary required to provide technical assistance to improve a Tribe's/Consortium's internal controls? #####
+
+Yes. In considering proposals by a Tribe/Consortium for participation in Self-Governance, if the Secretary determines that the Tribe/Consortium lacks adequate internal controls necessary to manage PSFAs proposed for inclusion in a compact or funding agreement under this part, the Secretary shall, as soon as practicable, provide the necessary technical assistance to assist the Tribe/Consortium in developing adequate internal controls in accordance with 25 U.S.C. 5324(q)(1).

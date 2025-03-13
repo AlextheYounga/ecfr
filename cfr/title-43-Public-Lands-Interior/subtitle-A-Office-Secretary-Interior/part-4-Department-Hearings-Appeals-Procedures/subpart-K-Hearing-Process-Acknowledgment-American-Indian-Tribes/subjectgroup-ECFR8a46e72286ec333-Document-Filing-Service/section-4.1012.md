@@ -1,5 +1,7 @@
 ##### § 4.1012 Where and how must documents be filed? #####
 
+Link to an amendment published at 90 FR 2428, Jan. 10, 2025.
+
 (a) *Place of filing.* Any documents relating to a case under this subpart must be filed with DCHD. DCHD's contact information is identified in the OHA Standing Orders on Contact Information
 
 (b) *Method of filing.* (1) Unless otherwise ordered by the ALJ, a document must be filed with DCHD using one of the following methods:

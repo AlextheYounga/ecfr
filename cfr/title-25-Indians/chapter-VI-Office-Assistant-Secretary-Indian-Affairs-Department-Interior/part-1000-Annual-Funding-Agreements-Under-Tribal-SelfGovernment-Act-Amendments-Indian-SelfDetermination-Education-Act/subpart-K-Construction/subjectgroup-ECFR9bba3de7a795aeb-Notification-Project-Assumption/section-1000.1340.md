@@ -1,0 +1,3 @@
+##### § 1000.1340 May multiple projects be included in a single construction project agreement or funding agreement that includes a construction project? #####
+
+Yes, a Tribe/Consortium may include multiple projects in a single funding agreement or construction project agreement if funded by the same bureau, or may add additional projects by amendment(s) to an existing funding agreement or construction project agreement with the same bureau.

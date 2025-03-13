@@ -1,0 +1,3 @@
+##### § 1000.1480 May a Tribe/Consortium continue work with construction funds remaining in a funding agreement or construction project agreement at the end of the funding year? #####
+
+Yes, any funds remaining in a funding agreement or construction project agreement for a project at the end of the funding year may be spent for construction under the terms of the funding agreement or construction project agreement for which the funds were awarded.

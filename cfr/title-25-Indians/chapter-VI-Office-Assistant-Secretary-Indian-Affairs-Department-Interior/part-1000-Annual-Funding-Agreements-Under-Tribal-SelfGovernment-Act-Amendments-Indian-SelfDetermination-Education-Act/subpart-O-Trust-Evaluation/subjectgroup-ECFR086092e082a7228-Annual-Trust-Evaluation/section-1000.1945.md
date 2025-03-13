@@ -1,0 +1,3 @@
+##### § 1000.1945 Is the trust evaluation standard or process different when the trust resource or asset is held in trust for an individual Indian or Indian allottee? #####
+
+No, Tribes/Consortia are under the same obligation as the Secretary to perform trust PSFAs and related activities in accordance with trust protection standards and principles whether managing Tribally or individually owned trust resources and assets. The Department's process for conducting the annual evaluation of Tribal/Consortium performance of trust PSFAs on behalf of individual Indians is the same as that used in evaluating performance of Tribal trust PSFAs.

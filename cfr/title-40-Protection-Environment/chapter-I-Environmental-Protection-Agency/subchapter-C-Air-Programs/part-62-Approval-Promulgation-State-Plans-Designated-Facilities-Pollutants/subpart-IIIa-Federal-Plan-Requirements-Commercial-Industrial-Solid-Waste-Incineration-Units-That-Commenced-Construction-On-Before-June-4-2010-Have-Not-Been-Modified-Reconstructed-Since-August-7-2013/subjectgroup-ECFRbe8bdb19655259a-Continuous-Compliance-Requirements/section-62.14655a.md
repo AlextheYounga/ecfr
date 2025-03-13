@@ -1,0 +1,15 @@
+##### § 62.14655a May I conduct performance testing less often? #####
+
+You must conduct annual performance tests according to the schedule specified in § 62.14645a, with the following exceptions:
+
+(a) You may conduct a repeat performance test at any time to establish new values for the operating limits, as specified in § 62.14660a. New operating limits become effective on the date that the performance test report is submitted to the EPA's Central Data Exchange or postmarked, per the requirements of § 62.14730a(b). The Administrator may request a repeat performance test at any time;
+
+(b) You must repeat the performance test within 60 days of a process change, as defined in § 62.14780a; and
+
+(c) You can conduct performance tests less often if you meet the following conditions: your performance tests for the pollutant for at least 2 consecutive performance tests demonstrates that the emission level for the pollutant is no greater than the emission level specified in paragraph (c)(1) or (2) of this section, as applicable; there are no changes in the operation of the affected source or air pollution control equipment that could increase emissions; and you are not required to conduct a performance test for the pollutant in response to a request by the Administrator in paragraph (a) of this section or a process change in paragraph (b) of this section. In this case, you do not have to conduct a performance test for that pollutant for the next 2 years. You must conduct a performance test for the pollutant no more than 37 months following the previous performance test for the pollutant. If the emission level for your CISWI continues to meet the emission level specified in paragraph (c)(1) or (2), as applicable, you may choose to conduct performance tests for the pollutant every third year, as long as there are no changes in the operation of the affected source or air pollution control equipment that could increase emissions. Each such performance test must be conducted no more than 37 months after the previous performance test.
+
+(1) For particulate matter, hydrogen chloride, mercury, carbon monoxide, nitrogen oxides, sulfur dioxide, cadmium, lead, and dioxins/furans, the emission level equal to 75 percent of the applicable emission limit in tables 4 through 7 to this subpart, as applicable; and
+
+(2) For fugitive emissions, visible emissions (of combustion ash from the ash conveying system) for 2 percent of the time during each of the three 1-hour observation periods.
+
+(3) If you are conducting less frequent testing for a pollutant as provided in this paragraph (c) and a subsequent performance test for the pollutant indicates that your CISWI does not meet the emission level specified in paragraph (c)(1) or (2) of this section, as applicable, you must conduct annual performance tests for the pollutant according to the schedule specified in this section until you qualify for less frequent testing for the pollutant as specified in this paragraph (c).

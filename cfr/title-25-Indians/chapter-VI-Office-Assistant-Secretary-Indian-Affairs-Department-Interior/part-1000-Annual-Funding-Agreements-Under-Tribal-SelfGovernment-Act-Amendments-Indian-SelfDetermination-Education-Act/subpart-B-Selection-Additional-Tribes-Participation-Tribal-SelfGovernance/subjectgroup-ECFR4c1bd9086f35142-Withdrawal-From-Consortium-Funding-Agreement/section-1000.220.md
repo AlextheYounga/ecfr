@@ -1,0 +1,3 @@
+##### § 1000.220 How are funds distributed when a withdrawing Tribe fully or partially withdraws from a Consortium's compact and funding agreement and the withdrawing Tribe does not enter a new contract or compact? #####
+
+All funds not obligated by the Consortium associated with the withdrawing Tribe's returned Tribal share of funds, less close out costs, shall be returned by the Consortium to DOI for operation of the programs included in the withdrawal.

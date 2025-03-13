@@ -1,0 +1,3 @@
+##### § 291.617 General policy—Direct Sale of Single Family Loans. #####
+
+The Secretary may pursue a Direct Sale of Single Family Loans to individuals or entity type the Secretary determines may be eligible to qualify as set forth in the Sale Notice. The Direct Sale of Single Family Loans will be subject to the requirements of this subpart, excluding §§ 291.609 and 291.611. The Secretary will publish in the Sale Notice, sale specific Single Family Loan eligibility criteria.

@@ -1,0 +1,3 @@
+##### § 1000.890 How are indirect cost rates determined? #####
+
+The Department's Interior Business Center (IBC) or other cognizant Federal agency and the Tribe/Consortium negotiate indirect cost rates. These rates are based on the applicable provisions of subpart E of 2 CFR part 200, or other applicable OMB cost circular and the provisions of title I of the Act, as amended. These rates are used generally by all Federal agencies for contracts and grants with the Tribe/Consortium, including self-governance agreements.

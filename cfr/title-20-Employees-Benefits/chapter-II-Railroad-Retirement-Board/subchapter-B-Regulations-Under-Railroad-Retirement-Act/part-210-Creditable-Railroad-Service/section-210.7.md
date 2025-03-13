@@ -20,4 +20,4 @@ Service claimed by an employee, which is not credited in the records of the Boar
 
 (g) For the purpose of verifying service after 1936, employers shall preserve in accessible form the original records of service and compensation for a period of five calendar years after the due date of the report.
 
-(Approved by the Office of Management and Budget under control numbers 3220-0003 and 3220-0008)[49 FR 46731, Nov. 28, 1984, as amended at 52 FR 11016, Apr. 6, 1987]
+(Approved by the Office of Management and Budget under control numbers 3220-0003 and 3220-0008) [49 FR 46731, Nov. 28, 1984, as amended at 52 FR 11016, Apr. 6, 1987]

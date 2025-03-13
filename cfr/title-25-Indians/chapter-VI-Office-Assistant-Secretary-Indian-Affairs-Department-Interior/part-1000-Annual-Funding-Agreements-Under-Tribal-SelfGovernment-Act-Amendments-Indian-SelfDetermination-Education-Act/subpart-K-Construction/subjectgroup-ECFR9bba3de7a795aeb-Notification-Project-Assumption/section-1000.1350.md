@@ -1,0 +1,3 @@
+##### § 1000.1350 What provisions relating to a construction project or program may be included in a funding agreement or construction project agreement? #####
+
+Unless otherwise agreed to in writing by a Tribe/Consortium, no provision of title 41, United States Code, the Federal Acquisition Regulations, or any other law or regulation pertaining to Federal procurement, shall apply to any construction program or project carried out under title IV of the Act. Absent a negotiated agreement, such provisions and regulatory requirements do not apply.

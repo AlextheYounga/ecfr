@@ -1,0 +1,9 @@
+##### § 4.1139 Written interrogatories to parties. #####
+
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+
+(a) Any party may serve upon any other party written interrogatories to be answered in writing by the party served, or if the party served is a public or private corporation or a partnership or association or governmental agency, by any officer or agent, who shall furnish such information as is available to the party. A copy of the interrogatories, answers, and all related pleadings shall be served on the administrative law judge and upon all parties to the proceeding.
+
+(b) Each interrogatory shall be answered separately and fully in writing under oath or affirmation, unless it is objected to, in which event the reasons for objection shall be stated in lieu of an answer. The answer and objections shall be signed by the person making them. The party upon whom the interrogatories were served shall serve a copy of the answers and objections upon all parties to the proceeding within 30 days after service of the interrogatories, or within such shorter or longer period as the administrative law judge may allow.
+
+(c) Interrogatories may relate to any matters which can be inquired into under § 4.1132. An interrogatory otherwise proper is not necessarily objectionable merely because an answer to the interrogatory involves an opinion or contention that relates to fact or the application of law to fact, but the administrative law judge may order that such an interrogatory need not be answered until after designated discovery has been completed or until a prehearing conference or other later time.

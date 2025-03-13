@@ -1,5 +1,7 @@
 ##### § 4.1376 Petition for temporary relief from notice of proposed suspension or rescission or notice of suspension or rescission; appeals from decisions granting or denying temporary relief. #####
 
+Link to an amendment published at 90 FR 2431, Jan. 10, 2025.
+
 (a) Any party may file a petition for temporary relief from the notice of proposed suspension or rescission or the notice of suspension or rescission in conjunction with the filing of the request for review or at any time before an initial decision is issued by the administrative law judge.
 
 (b) The petition for temporary relief shall be filed with the administrative law judge to whom the request for review has been assigned. If none has been assigned, the petition shall be filed with the Hearings Division, Office of Hearings and Appeals, U.S. Department of the Interior.

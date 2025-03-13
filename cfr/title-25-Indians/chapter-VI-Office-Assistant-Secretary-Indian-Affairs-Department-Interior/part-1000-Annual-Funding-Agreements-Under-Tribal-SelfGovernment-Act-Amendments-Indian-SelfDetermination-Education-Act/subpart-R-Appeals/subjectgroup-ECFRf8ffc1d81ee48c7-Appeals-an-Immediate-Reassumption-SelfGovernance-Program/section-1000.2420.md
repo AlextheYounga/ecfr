@@ -1,0 +1,3 @@
+##### § 1000.2420 Is the recommended decision always final? #####
+
+No, any party to the appeal may file precise and specific written objections to the recommended decision, or any other comments, within 15 days of receiving the recommended decision. The objecting party must serve a copy of its objections on the other party. The recommended decision will become final 15 days after the Tribe/Consortium receives the ALJ's recommended decision, unless a written statement of objection is filed with the IBIA during the 15-day period. If no party files a written statement of objections within 15 days, the recommended decision will become final.

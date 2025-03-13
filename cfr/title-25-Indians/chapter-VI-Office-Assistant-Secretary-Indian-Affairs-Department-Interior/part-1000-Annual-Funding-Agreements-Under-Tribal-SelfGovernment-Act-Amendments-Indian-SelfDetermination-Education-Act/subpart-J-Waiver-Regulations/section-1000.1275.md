@@ -1,0 +1,3 @@
+##### § 1000.1275 May a Tribe/Consortium continue to negotiate a funding agreement pending final decision on a waiver request? #####
+
+Yes, pending final decision on a waiver request, any Tribe/Consortium may continue to negotiate and implement a funding agreement. The regulation will apply until it is waived. The funding agreement will be subject to later adjustment based on an affirmative final decision on the Tribe's/Consortium's waiver request.

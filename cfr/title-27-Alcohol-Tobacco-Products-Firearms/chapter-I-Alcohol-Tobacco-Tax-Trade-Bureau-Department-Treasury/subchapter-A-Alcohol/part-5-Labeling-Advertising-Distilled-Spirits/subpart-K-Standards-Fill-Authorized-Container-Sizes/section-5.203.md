@@ -2,44 +2,60 @@
 
 (a) *Authorized standards of fill.* The following metric standards of fill are authorized for distilled spirits, whether domestically bottled or imported:
 
-(1) *Containers other than cans.* For containers other than cans described in paragraph (a)(2) of this section—
+(1) 3.75 Liters.
 
-(i) 1.8 Liters.
+(2) 3 Liters.
 
-(ii) 1.75 Liters.
+(3) 2 Liters.
 
-(iii) 1.00 Liter.
+(4) 1.8 Liters.
 
-(iv) 900 mL.
+(5) 1.75 Liters.
 
-(v) 750 mL.
+(6) 1.5 Liters.
 
-(vi) 720 mL.
+(7) 1.00 Liter.
 
-(vii) 700 mL.
+(8) 945 mL.
 
-(viii) 375 mL.
+(9) 900 mL.
 
-(ix) 200 mL.
+(10) 750 mL.
 
-(x) 100 mL.
+(11) 720 mL.
 
-(xi) 50 mL.
+(12) 710 mL.
 
-(2) *Metal cans.* For metal containers that have the general shape and design of a can, that have a closure that is an integral part of the container, and that cannot be readily reclosed after opening—
+(13) 700 mL.
 
-(i) 355 mL.
+(14) 570 mL.
 
-(ii) 200 mL.
+(15) 500 mL.
 
-(iii) 100 mL.
+(16) 475 mL.
 
-(iv) 50 mL.
+(17) 375 mL.
+
+(18) 355 mL.
+
+(19) 350 mL.
+
+(20) 331 mL.
+
+(21) 250 mL.
+
+(22) 200 mL.
+
+(23) 187 mL.
+
+(24) 100 mL.
+
+(25) 50 mL.
 
 (b) *Spirits bottled using outdated standards.* Paragraph (a) of this section does not apply to:
 
-(1) Imported distilled spirits in the original containers in which entered into customs custody prior to January 1, 1980 (or prior to July 1, 1989 in the case of distilled spirits imported in 500 mL containers); or
+(1) Imported distilled spirits in the original containers in which entered into customs custody prior to January 1, 1980; or
 
-(2) Imported distilled spirits bottled or packed prior to January 1, 1980 (or prior to July 1, 1989 in the case of distilled spirits in 500 mL containers) and certified as to such in a statement signed by an official duly authorized by the appropriate foreign government.
+(2) Imported distilled spirits bottled or packed prior to January 1, 1980, and certified as to such in a statement signed by an official duly authorized by the appropriate foreign government.
 
-[T.D. TTB-176, 87 7579, Feb. 9, 2022, as amended by 87 FR 13157, Mar. 9, 2022]
+[T.D. TTB-200, 90 FR 1876, Jan. 10, 2025]

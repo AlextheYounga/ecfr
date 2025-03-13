@@ -1,0 +1,3 @@
+##### § 1000.900 May the bureaus negotiate terms to be included in a funding agreement for non-BIA programs? #####
+
+Yes, as provided for by 25 U.S.C. 5363(b)(2) and 5363(c) and as necessary to meet program mandates while consistent with this subpart, provided, however, that a bureau may not require in a funding agreement that a Tribe/Consortium retain, hire or assign a Federal employee in a contracted program, nor may a bureau condition its approval of a funding agreement upon a requirement that a Tribe/Consortium retain, hire or assign a Federal employee in a contracted program.

@@ -1,0 +1,3 @@
+##### § 1000.2335 How may a Tribe/Consortium appeal a decision made after the funding agreement or compact or an amendment to a funding agreement or compact has been signed? #####
+
+With the exception of certain decisions concerning immediate reassumption (*see* §§ 1000.2405 through 1000.2430), the Tribe/Consortium may appeal post-award administrative decisions to the Civilian Board of Contract Appeals (CBCA).

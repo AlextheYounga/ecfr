@@ -1,0 +1,7 @@
+##### § 1000.10 What is the purpose and scope of this part? #####
+
+(a) *Purpose.* This part codifies uniform and consistent rules for the Department implementing title IV of the Indian Self-Determination and Education Assistance Act, Public Law 93-638, 25 U.S.C. 5361 *et seq.,* as amended by title II of Public Law 103-413, the Tribal Self-Governance Act of 1994 (108 Stat. 4250, October 25, 1994) and title I of Public Law 116-180, the PROGRESS for Indian Tribes Act (134 Stat. 857, October 21, 2020).
+
+(b) *Scope.* These regulations are binding on the Secretary and on Tribes/Consortia carrying out programs, services, functions, and activities (PSFAs) (or portions thereof) under title IV except as otherwise specifically authorized by a waiver under 25 U.S.C. 5369(b) and this part.
+
+(c) *Information Collection.* The information collection requirements contained in this part have been approved by the Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1995, 44 U.S.C. 3507(d), and assigned control number 1076-0143. A Federal agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number.

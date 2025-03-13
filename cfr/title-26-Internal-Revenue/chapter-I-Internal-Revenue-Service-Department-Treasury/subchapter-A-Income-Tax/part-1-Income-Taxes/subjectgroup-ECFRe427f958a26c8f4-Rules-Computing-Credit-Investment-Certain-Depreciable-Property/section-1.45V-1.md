@@ -1,0 +1,97 @@
+##### § 1.45V-1 Credit for production of clean hydrogen. #####
+
+(a) Overview—(1) *In general.* For purposes of section 38 of the Internal Revenue Code (Code), the clean hydrogen production credit is determined under section 45V of the Code, so much of sections 6417 and 6418 of the Code that relate to section 45V, and the section 45V regulations (as defined in paragraph (a)(17) of this section). Paragraphs (a)(2) through (17) of this section provide generally applicable definitions of terms that, unless otherwise provided, apply for purposes of section 45V, the section 45V regulations, and any provision of the Code or this chapter that expressly refers to any provision of section 45V or the section 45V regulations. Paragraph (b) of this section provides rules for determining the amount of the section 45V credit for any taxable year, which generally depends on the kilograms of qualified clean hydrogen produced during the taxable year and the emissions intensity of the process used to produce such hydrogen, as well as whether certain requirements, including the requirements under § 1.45V-3, are satisfied. Paragraph (c) of this section provides rules regarding the taxable year for which a section 45V credit is determined. *See* § 1.45V-2 for special rules, including rules to coordinate the section 45V credit with the credit for carbon oxide sequestration determined under section 45Q of the Code, an anti-abuse rule, and recordkeeping requirements. *See* § 1.45V-3 for rules relating to the increased credit amount for satisfying the prevailing wage and apprenticeship requirements. *See* § 1.45V-4 for procedures to determine lifecycle greenhouse gas (GHG) emissions rates for qualified clean hydrogen and § 1.45V-5 for procedures for verification of qualified clean hydrogen production and sale or use. *See* § 1.45V-6 for rules to determine the placed in service date for an existing facility that is modified or retrofitted to produce qualified clean hydrogen. *See also* § 1.48-15 for procedures to elect to treat any qualified property that is part of a specified clean hydrogen production facility as energy property for purposes of section 48 of the Code.
+
+(2) *Applicable amount*—(i) *In general.* The term *applicable amount* means the amount equal to the applicable percentage of $0.60, provided that if any such amount is not a multiple of 0.1 cent, such amount is rounded to the nearest multiple of 0.1 cent.
+
+(ii) *Inflation adjustment.* The $0.60 amount specified in section 45V(b)(1) and paragraph (a)(2)(i) of this section is adjusted annually by multiplying such amount by the inflation adjustment factor (as determined under section 45(e)(2) of the Code, determined by substituting “2022” for “1992” in section 45(e)(2)(B)) for the calendar year in which the qualified clean hydrogen is produced, provided that if any such amount as adjusted is not a multiple of 0.1 cent, such amount is rounded to the nearest multiple of 0.1 cent.
+
+(3) *Applicable percentage.* The term *applicable percentage* means the percentage set forth in paragraphs (a)(3)(i) through (iv) of this section, which is determined according to the lifecycle GHG emissions rate of the process by which the qualified clean hydrogen is produced:
+
+(i) In the case of any qualified clean hydrogen that is produced through a process that results in a lifecycle GHG emissions rate of not greater than 4 kilograms of carbon dioxide equivalent (CO2e) per kilogram of hydrogen, and not less than 2.5 kilograms of CO2e per kilogram of hydrogen, the applicable percentage is 20 percent.
+
+(ii) In the case of any qualified clean hydrogen that is produced through a process that results in a lifecycle GHG emissions rate of less than 2.5 kilograms of CO2e per kilogram of hydrogen, and not less than 1.5 kilograms of CO2e per kilogram of hydrogen, the applicable percentage is 25 percent.
+
+(iii) In the case of any qualified clean hydrogen that is produced through a process that results in a lifecycle GHG emissions rate of less than 1.5 kilograms of CO2e per kilogram of hydrogen, and not less than 0.45 kilograms of CO2e per kilogram of hydrogen, the applicable percentage is 33.4 percent.
+
+(iv) In the case of any qualified clean hydrogen that is produced through a process that results in a lifecycle GHG emissions rate of less than 0.45 kilograms of CO2e per kilogram of hydrogen, the applicable percentage is 100 percent.
+
+(4) *Claim.* With respect to the section 45V credit determined for qualified clean hydrogen produced by the taxpayer at a qualified clean hydrogen production facility, the term *claim* means the filing of a completed Form 7210, *Clean Hydrogen Production Credit,* or any successor form(s), with the taxpayer's Federal income tax return or annual information return for the taxable year in which the credit is determined, and includes the making of an election under section 6417 or 6418 and the regulations in this chapter under section 6417 or 6418, as applicable, with respect to such section 45V credit on the applicable entity's or eligible taxpayer's timely filed (including extensions) Federal income tax return or annual information return.
+
+(5) *Code.* The term *Code* means the Internal Revenue Code.
+
+(6) *DOE.* The term *DOE* means the U.S. Department of Energy.
+
+(7) *Facility*—(i) *In general.* For purposes of the definition of *qualified clean hydrogen production facility* provided at section 45V(c)(3) and paragraph (a)(14) of this section, unless otherwise specified, the term *facility* means a single production line that is used to produce qualified clean hydrogen. For this purpose, a single production line includes all components of property that function interdependently to produce qualified clean hydrogen through a process that results in the lifecycle GHG emissions rate used to determine the credit. Components of property function interdependently to produce qualified clean hydrogen if the placing in service of each component is dependent upon the placing in service of each of the other components to produce qualified clean hydrogen. A facility includes carbon capture equipment if such carbon capture equipment contributes to the lifecycle GHG emissions rate of the process by which the qualified clean hydrogen for which the credit is determined is produced.
+
+(ii) *Treatment of certain indirect production and post-production equipment.* The term *facility* does not include—
+
+(A) Equipment that is used to condition or transport hydrogen beyond the point of production; or
+
+(B) Notwithstanding paragraph (a)(7)(iii) of this section, feedstock-related equipment, including production, purification, recovery, transportation, or transmission equipment; or electricity production equipment used to power the hydrogen production process, including any carbon capture equipment associated with the electricity production process.
+
+(iii) *Multipurpose components.* Components that have a purpose in addition to the production of qualified clean hydrogen may be part of a facility if such components function interdependently with other components to produce qualified clean hydrogen.
+
+(iv) *Example.* The following example illustrates the definition of facility provided in this paragraph (a)(7).
+
+(A) *Facts.* Taxpayer owns a hydrogen production facility that is equipped with carbon capture equipment (as defined in § 1.45Q-2(c)), as distinguished from the carbon capture equipment described in paragraph (a)(7)(ii)(B) of this section. One purpose of this equipment is the capture of carbon oxides. The facility produces hydrogen through a process that results in a lifecycle GHG emissions rate of less than 0.45 kilograms of CO2e per kilogram of hydrogen. Without the carbon capture equipment, the facility could not produce hydrogen through a process that results in a lifecycle GHG emissions rate of less than 0.45 kilograms of CO2e per kilogram of hydrogen. Taxpayer determines the section 45V credit using a lifecycle GHG emissions rate of less than 0.45 kilograms of CO2e per kilogram of hydrogen.
+
+(B) *Analysis.* Because the carbon capture equipment is functionally interdependent with other components of property to produce qualified clean hydrogen through a process that results in the lifecycle GHG emissions rate that Taxpayer uses to determine the credit, the carbon capture equipment is part of the facility for purposes of section 45V(c)(3) and the section 45V regulations, along with all other components of property that function interdependently with the carbon capture equipment to produce such hydrogen.
+
+(8) *Hydrogen gas stream.* The term *hydrogen gas stream* means a flow of gases that includes hydrogen, either alone or with one or more other gases.
+
+(9) *Lifecycle GHG emissions*—(i) *In general.* Subject to section 45V(c)(1)(B) and paragraphs (a)(9)(ii) through(iv) of this section, and unless otherwise specified in the section 45V regulations, the term *lifecycle GHG emissions* has the meaning given the term *lifecycle greenhouse gas emissions* by 42 U.S.C. 7545(o)(1)(H), as in effect on August 16, 2022. For purposes of section 45V, lifecycle GHG emissions include emissions only through the point of production (well-to-gate), as determined under the 45VH2-GREET Model.
+
+(ii) *45VH2-GREET Model.* Unless otherwise specified in the section 45V regulations, for purposes of the section 45V credit, the term 45VH2-GREET Model means the latest publicly available version of 45VH2-GREET developed by Argonne National Laboratory and published by the DOE, as provided in the instructions to the latest version of Form 7210, *Clean Hydrogen Production Credit,* or any successor form(s), on the first day of the taxable year during which the qualified clean hydrogen for which the taxpayer is claiming the section 45V credit was produced. If a version of 45VH2-GREET becomes publicly available after the first day of the taxable year of production (but still within such taxable year), then the taxpayer may, in its discretion, treat such later version of 45VH2-GREET as the 45VH2-GREET Model.
+
+(iii) *Emissions through the point of production (well-to-gate).* The term *emissions through the point of production (well-to-gate)* means the aggregate lifecycle GHG emissions related to hydrogen produced at a hydrogen production facility during the taxable year through the point of production. It includes emissions associated with growth, gathering, extraction, processing, and delivery of feedstocks to a hydrogen production facility. It also includes the emissions associated with the hydrogen production process, inclusive of the production of a mixed gas or impurity, and the electricity used by the hydrogen production facility and any capture and sequestration of carbon dioxide generated by the hydrogen production facility. Examples of emissions outside of the well-to-gate boundary generally include, but are not limited to, emissions from the liquefaction, storage, or transport of hydrogen.
+
+(iv) *Certain emissions related to purification treated as through point of production.* If the taxpayer knows or has reason to know the purification of a hydrogen gas stream (that is, removal of a mixed gas or impurity) is necessary for a hydrogen gas stream to be productively used, or to be sold for productive use, any lifecycle GHG emissions relating to such purification (for example, emissions from electricity used in purification, or carbon dioxide that is separated from a hydrogen gas stream and then vented as part of purification) are treated as emissions through the point of production (well-to-gate). Additionally, if the taxpayer knows or has reason to know that a hydrogen gas stream contains less than 99 percent hydrogen and will be combusted without purification, any lifecycle GHG emissions relating to the purification needed to purify the hydrogen gas stream to contain 99 percent hydrogen are treated as emissions through the point of production (well-to-gate).
+
+(v) *Example.* The following example illustrates the rule of paragraph (a)(9)(iv) of this section.
+
+(A) *Facts.* Taxpayer is a C corporation that has a calendar year taxable year. In 2025, Taxpayer places Facility in service in the United States. Facility's hydrogen production process produces a hydrogen gas stream containing mixed gases or impurities, and the stream is subsequently sold to Customer without removing the mixed gases or impurities. Taxpayer knows or has reason to know that the purity of the hydrogen gas stream is materially different from what the Customer requires for productive use, and Customer will need to remove the mixed gases or impurities in order for the hydrogen gas stream to be productively used. Because Taxpayer refrains from removing the mixed gases or impurities at the hydrogen production facility, 45VH2-GREET reflects a lower lifecycle GHG emissions rate for the hydrogen production process than it would have reflected had the mixed gases or impurities been removed at Facility.
+
+(B) *Analysis.* The Taxpayer has not accurately reflected well-to-gate emissions in 45VH2-GREET because the emissions associated with purification that was necessary for productive use have not been reflected. All lifecycle GHG emissions relating to the purification of the hydrogen gas stream to be productively used are emissions through the point of production (well-to-gate) and therefore must be taken into account as part of the emissions within the well-to-gate boundary.
+
+(10) *Mixed gas or impurity.* The term *mixed gas or impurity* means a non-hydrogen gas that is part of a hydrogen gas stream.
+
+(11) *Process.* The term *process* means the operations conducted by a facility to produce hydrogen (for example, electrolysis or steam methane reforming) during a taxable year using a primary feedstock. The term *primary feedstock* means a hydrogen-containing chemical that is transformed to produce hydrogen at a hydrogen production facility and has uniform or similar attributes distinguished by the source from which it is derived, if such source materially affects the lifecycle GHG emissions associated with use of the chemical to produce hydrogen.
+
+(12) *Productive use.* The term *productive use* means, with respect to a hydrogen gas stream, a consumption of the hydrogen gas stream in a manner that generates positive economic value, which is determined without regard to the availability of the section 45V credit. The term *productive use* means, with respect to qualified clean hydrogen, a consumption of the qualified clean hydrogen in a manner that generates positive economic value, which is determined without regard to the availability of the section 45V credit.
+
+(13) *Qualified clean hydrogen*—(i) *In general.* The term *qualified clean hydrogen* means hydrogen that is produced through a process that results in a lifecycle GHG emissions rate of not greater than 4 kilograms of CO2e per kilogram of hydrogen. Such term does not include any hydrogen unless the production and sale or use of such hydrogen is verified by an unrelated party in accordance with, and satisfying the requirements of, § 1.45V-5, and such hydrogen is produced—
+
+(A) In the United States (as defined in section 638(1) of the Code) or a U.S. territory, which, for purposes of section 45V and the section 45V regulations, has the meaning of the term *possession* provided in section 638(2) of the Code;
+
+(B) In the ordinary course of a trade or business of the taxpayer; and
+
+(C) For sale or use.
+
+(ii) *For sale or use.* The term *for sale or use* means for the primary purpose of making ready and available for sale or use. Storage of hydrogen following production does not disqualify such hydrogen from being considered produced for sale or use.
+
+(14) *Qualified clean hydrogen production facility.* The term *qualified clean hydrogen production facility* means a facility—
+
+(i) Owned by the taxpayer;
+
+(ii) That produces qualified clean hydrogen; and
+
+(iii) The construction of which begins before January 1, 2033.
+
+(15) *Secretary.* The term *Secretary* means the Secretary of the Treasury or her delegate.
+
+(16) *Section 45V credit.* The term *section 45V credit* means the credit for production of clean hydrogen determined under section 45V of the Code, so much of sections 6417 and 6418 of the Code that relate to section 45V, and the section 45V regulations.
+
+(17) *Section 45V regulations.* The term *section 45V regulations* means this section, §§ 1.45V-2 through 1.45V-6, and the regulations in this chapter under sections 6417 and 6418 of the Code that relate to the section 45V credit.
+
+(b) *Amount of credit*—(1) *In general.* The amount of the section 45V credit determined under section 45V(a) and the section 45V regulations for any taxable year is the product of the kilograms of qualified clean hydrogen produced by the taxpayer during such taxable year at a qualified clean hydrogen production facility during the 10-year period beginning on the date such facility was originally placed in service, multiplied by the applicable amount with respect to each process used to produce such hydrogen.
+
+(2) *Producer of qualified clean hydrogen.* For purposes of section 45V(a)(1) and paragraph (b)(1) of this section, the term *taxpayer* means the taxpayer that owns the qualified clean hydrogen production facility at the time of the facility's production of hydrogen for which the section 45V credit is claimed, regardless of whether such taxpayer is treated as a producer under section 263A of the Code or under any other provision of law with respect to such hydrogen.
+
+(3) *Increased credit amount for qualified clean hydrogen production facilities.* Pursuant to section 45V(e)(1), § 1.45V-3 provides rules that permit the amount of the section 45V credit determined under section 45V(a) and paragraph (b)(1) of this section to be multiplied by five if certain prevailing wages and apprenticeship requirements are met. *See* § 1.45V-3(a).
+
+(c) *Determination of credit.* Subject to any applicable sections of the Code that may limit the section 45V credit amount, the section 45V credit for any taxable year of a taxpayer who produces qualified clean hydrogen and claims such credit is determined with respect to the qualified clean hydrogen produced by the taxpayer during that taxable year, regardless of whether the verification of the production and sale or use of that hydrogen occurs in a later taxable year. Although the section 45V credit is determined with respect to the taxable year in which the qualified clean hydrogen is produced, a taxpayer is not eligible to claim the section 45V credit with respect to the production of that hydrogen until all relevant verification requirements, and the verification itself, have been completed for both the production of the hydrogen and the sale or use of that hydrogen. Accordingly, although the sale or use of the hydrogen and the verification thereof may occur in a taxable year after the taxable year of production, the section 45V credit is properly claimed with respect to the taxable year of production and is subject to the general period of limitations for filing a claim for credit or refund under section 6511(a) and other applicable provisions of the Code.
+
+(d) *Applicability date.* This section applies to taxable years beginning after December 26, 2023.
+
+[T.D. 10023; 90 FR 2309, Jan. 10, 2025]

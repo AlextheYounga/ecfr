@@ -1,0 +1,3 @@
+##### § 1000.645 What PSFAs may be included in a funding agreement? #####
+
+A Tribe/Consortium may include in its funding agreement PSFAs administered by the Secretary for the benefit of Indians because of their status as Indian, including, but not limited to those provided through the BIA, the BIE, the BTFA, the Office of the Assistant Secretary for Indian Affairs, and the Appraisal and Valuation Services Office, without regard to the agency or office of that Bureau or Office, including any PSFA identified in 25 U.S.C. 5363(b)(1).

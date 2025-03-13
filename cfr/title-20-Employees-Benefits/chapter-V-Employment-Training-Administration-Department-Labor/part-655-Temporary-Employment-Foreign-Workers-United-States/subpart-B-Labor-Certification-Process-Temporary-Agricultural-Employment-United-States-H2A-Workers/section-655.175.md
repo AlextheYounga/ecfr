@@ -12,4 +12,4 @@
 
 (iii) For purposes of an employer's compliance with the three-fourths guarantee under § 655.122(i), any compensation paid to a worker under paragraph (b)(2)(ii) of this section for any workday included within the time period described in § 655.122(i) will be considered hours offered to the worker.
 
-[89 FR 34064, Apr. 29, 2024]Integrity Measures
+[89 FR 34064, Apr. 29, 2024] Integrity Measures

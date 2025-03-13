@@ -10,4 +10,4 @@
 
 (c) *Applicability date.* This section applies to qualified clean hydrogen production facilities placed in service in taxable years ending after June 25, 2024, and the construction of which begins after June 25, 2024. Taxpayers may apply this section to qualified clean hydrogen production facilities placed in service in taxable years ending on or before June 25, 2024, and qualified clean hydrogen production facilities placed in service in taxable years ending after June 25, 2024, the construction of which begins before June 25, 2024, provided that taxpayers follow this section in its entirety and in a consistent manner.
 
-[T.D. 9998, 89 FR 53271, June 25, 2024]
+[T.D. 9998, 89 FR 53271, June 25, 2024]Editorial Note:By T.D. 10023, 90 FR 2309, Jan. 10, 2025, § 1.45V-3 was added. However, the amendment could not be incorporated because the section already exists.

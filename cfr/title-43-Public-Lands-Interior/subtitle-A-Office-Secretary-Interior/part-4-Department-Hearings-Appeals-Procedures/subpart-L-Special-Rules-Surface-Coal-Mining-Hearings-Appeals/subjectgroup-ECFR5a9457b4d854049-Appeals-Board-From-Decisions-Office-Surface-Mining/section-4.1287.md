@@ -1,5 +1,7 @@
 ##### § 4.1287 Action by administrative law judge. #####
 
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+
 (a) Upon completion of the hearing and the incorporation of the transcript in the record, the administrative law judge will issue and serve on the parties, as specified by the Board under § 4.415(c)(2):
 
 (1) Proposed findings of fact on the issues presented at the hearing;

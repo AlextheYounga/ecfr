@@ -1,0 +1,3 @@
+##### § 1000.1645 Is FTCA the exclusive remedy for a tort claim, including a claim concerning personal injury or death, resulting from the performance of a compact or funding agreement? #####
+
+Yes, except as explained in § 1000.1610(b). No claim may be filed against a Tribe/Consortium or employee based upon performance of a compact or funding agreement. All claims shall be filed against the United States and are subject to the limitations and restrictions of FTCA.

@@ -1,3 +1,5 @@
 ##### § 4.844 Notification of right to file exceptions. #####
 
+Link to an amendment published at 90 FR 2427, Jan. 10, 2025.
+
 The provisions of § 17.9 of this title govern the making of decisions by administrative law judges, the Director, Office of Hearings and Appeals, and the Secretary. An administrative law judge shall, in any initial decision made by him, specifically inform the applicant or recipient of his right under § 17.9 of this title to file exceptions with the Director, Office of Hearings and Appeals. In instances in which the record is certified to the Director, Office of Hearings and Appeals, or he reviews the decision of an administrative law judge, he shall give the applicant or recipient a notice of certification or notice of review which specifically informs the applicant or recipient that, within a stated period, which shall not be less than 30 days after service of the notice, he may file briefs or other written statements of his contentions.

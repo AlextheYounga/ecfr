@@ -1,0 +1,5 @@
+##### § 291.607 Qualified participants. #####
+
+(a) *Confidentiality Agreement and Bidder Qualification Statement.* Individuals or entities must become a Qualified Participant before they may bid or purchase Single Family Loans in a Single Family Sale. An individual or entity seeking to participate in a Single Family Sale must sign a Confidentiality Agreement and complete a Bidder Qualification Statement. The Secretary will specify which Bidder Qualification Statement form(s) are applicable to a particular Single Family Sale and any additional sale specific qualification criteria through notice. HUD will only provide access to sensitive Single Family Sale materials to Qualified Participants.
+
+(b) *Process for determining Qualified Participant.* HUD will qualify any individual or entity seeking to participate in a Single Family Sale if they have met the qualification requirements and executed the applicable Bidder Qualification Statement for the Single Family Sale.

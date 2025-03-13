@@ -1,0 +1,3 @@
+##### § 1000.501 What is a self-governance compact? #####
+
+A self-governance compact is a legally binding and mutually enforceable written agreement that affirms the government-to-government relationship between a self-governance Tribe and the United States consistent with the trust responsibility of the Federal Government with respect to Indian Tribes that exists under treaties, Executive orders, court decisions, and other laws. The compact differs from a funding agreement in that parts of the compact apply to all bureaus within the Department rather than a single bureau.

@@ -1,0 +1,3 @@
+##### § 1000.425 How does the Tribe/Consortium know when and how to apply for financial assistance for planning and negotiation activities for a non-BIA program? #####
+
+Subject to the availability of funds, the Secretary will annually publish a notice in the Federal Register identifying the number of planning and negotiation grants available from non-BIA bureaus that includes an explanation for each non-BIA bureau describing the application process and criteria for award. The notice will identify a point-of-contact for each non-BIA bureau where questions about the grants can be directed. Notices for planning and negotiation grants for BIA programs are covered in § 1000.315.

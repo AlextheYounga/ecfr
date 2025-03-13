@@ -8,7 +8,7 @@ For purposes of this subpart, the following definitions apply:
 
 (1) Is between a place under the jurisdiction of a State or Indian tribe and any place outside of such jurisdiction; or
 
-(2) Is solely within a place under the jurisdiction of a State or Indian tribe but which affects trade, traffic, or transportation described in subparagraph (a).
+(2) Is solely within a place under the jurisdiction of a State or Indian tribe but which affects trade, traffic, or transportation described in paragraph (1) of this definition.
 
 *FMCSA.* The Federal Motor Carrier Safety Administration, an agency within the Department of Transportation.
 
@@ -34,4 +34,4 @@ For purposes of this subpart, the following definitions apply:
 
 *State.* A State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, American Samoa or Guam.
 
-[59 FR 51830, Oct. 12, 1994, as amended at 78 FR 58485, Sept. 24, 2013]Editorial Note:At 89 FR 90624, Nov. 18, 2024, § 397.65 was amended; however, the amendment could not be incorporated due to an inaccurate amendatory instruction.
+[59 FR 51830, Oct. 12, 1994, as amended at 78 FR 58485, Sept. 24, 2013; 90 FR 1908, Jan. 10, 2025]

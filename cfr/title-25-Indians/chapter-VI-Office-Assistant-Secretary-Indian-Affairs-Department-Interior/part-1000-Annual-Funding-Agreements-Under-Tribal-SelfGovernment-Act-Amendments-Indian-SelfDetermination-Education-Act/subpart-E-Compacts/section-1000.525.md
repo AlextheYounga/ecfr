@@ -1,0 +1,3 @@
+##### § 1000.525 Can a Tribe/Consortium negotiate other terms and conditions? #####
+
+Yes, the Secretary and a self-governance Tribe/Consortium may negotiate additional terms relating to the government-to-government relationship between the Tribe(s) and the United States consistent with the trust responsibility of the Federal Government with respect to Indian Tribes that exists under treaties, Executive orders, court decisions, and other laws. A Tribe/Consortium and the Secretary may agree to include any provision from title I of the Act, as amended, in a compact provided that the inclusion of any such provision shall be subject to, and shall not conflict with, section 101(a) of the PROGRESS for Indian Tribes Act, Pub. L. 116-180 (25 U.S.C. 5361 note).

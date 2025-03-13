@@ -1,0 +1,5 @@
+##### § 1000.1310 What alternatives are available for a Tribe/Consortium to perform a construction program or project? #####
+
+(a) As authorized by 25 U.S.C. 5367(g), and at the option of the Tribe/Consortium, construction project funding proposals shall be negotiated with the Secretary pursuant to the statutory process in 25 U.S.C. 5324, and any resulting agreement shall be incorporated into the funding agreement as an “addendum”; or
+
+(b) A Tribe/Consortium may negotiate a construction project with the Secretary pursuant to the statutory process in 25 U.S.C. 5324, and incorporate any resulting construction project agreement into a separate title I construction contract and funding agreement subject to title I and the part 900 regulations, including subpart J (Construction) of part 900. Such construction project shall not be subject to this subpart.

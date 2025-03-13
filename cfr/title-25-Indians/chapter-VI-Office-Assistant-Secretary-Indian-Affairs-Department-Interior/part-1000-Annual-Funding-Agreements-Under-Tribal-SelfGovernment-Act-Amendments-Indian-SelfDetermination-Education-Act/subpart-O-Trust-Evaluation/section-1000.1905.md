@@ -1,0 +1,3 @@
+##### § 1000.1905 Does the Act alter the trust responsibility of the United States to Indian Tribes and individuals under self-governance? #####
+
+No, the Act does, however, permit a Tribe/Consortium to assume management responsibilities for trust assets and resources on its own behalf and on behalf of individual Indians. Under the Act, the Secretary has a trust responsibility to conduct annual trust evaluations of a Tribe's/Consortium's performance of trust PSFAs under a funding agreement to ensure that Tribal and individual trust assets and resources are managed in accordance with the legal principles and standards governing the performance of trust PSFAs set out in the funding agreement or as provided for by law.

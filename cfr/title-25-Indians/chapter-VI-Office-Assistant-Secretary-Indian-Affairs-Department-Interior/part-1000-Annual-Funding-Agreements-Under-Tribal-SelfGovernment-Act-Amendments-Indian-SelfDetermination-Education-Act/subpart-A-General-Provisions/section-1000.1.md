@@ -1,3 +1,3 @@
-##### § 1000.1 Authority. #####
+##### § 1000.1 What is the authority of this part? #####
 
-This part is prepared and issued by the Secretary of the Interior under the negotiated rulemaking procedures in 5 U.S.C. 565.
+This part is prepared and issued by the Secretary of the Interior with the active participation and representation of Indian Tribes, Tribal organizations and inter-Tribal consortia under the negotiated rulemaking procedures required by section 413 of the Indian Self-Determination and Education Assistance Act, Public Law 93-638, as amended by the PROGRESS for Indian Tribes Act, Public Law 116-180 (25 U.S.C. 5373).

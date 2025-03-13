@@ -1,0 +1,5 @@
+##### § 1000.1950 Does the annual trust review evaluation include a review of the Secretary's inherent Federal and retained operation trust PSFAs? #####
+
+(a) When the annual trust evaluation by the Secretary reveals a deficient performance of trust PSFAs by a Tribe/Consortium due in part to the action or inaction of a bureau, it will trigger an evaluation by the Department of the Secretary's inherent Federal functions and any retained trust PSFAs pertaining to the bureau's action or inaction.
+
+(b) The appropriate Department officials will be notified in writing by the Secretary's representative of the need for corrective action. A copy of such written notice shall be sent by the Secretary's representative to the Tribe/Consortium. The review of the Secretary's trust PSFAs shall be based on the standards in Federal law.

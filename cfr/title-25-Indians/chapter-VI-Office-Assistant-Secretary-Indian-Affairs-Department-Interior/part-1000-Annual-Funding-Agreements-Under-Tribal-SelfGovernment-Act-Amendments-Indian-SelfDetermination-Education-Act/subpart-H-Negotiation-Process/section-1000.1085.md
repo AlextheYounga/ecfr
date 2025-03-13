@@ -1,0 +1,3 @@
+##### § 1000.1085 How is the negotiation of a subsequent funding agreement initiated? #####
+
+Although a written request is desirable to document the precise request and date of the request, a written request is not mandatory. If either party anticipates a significant change in an existing program in the funding agreement, it should notify the other party of the change at the earliest possible date so that the other party may plan accordingly.

@@ -1,3 +1,5 @@
 ##### § 4.819 Amendment of notice or answer. #####
 
+Link to an amendment published at 90 FR 2426, Jan. 10, 2025.
+
 The Director may amend the notice of hearing or opportunity for hearing once as a matter of course before an answer is filed, and each respondent may amend his answer once as a matter of course not later than 10 days before the date fixed for hearing but in no event later than 20 days from the date of service of his original answer. Other amendments of the notice or of the answer to the notice shall be made only by leave of the administrative law judge. An amended notice shall be answered within 10 days of its service, or within the time for filing an answer to the original notice, whichever period is longer.

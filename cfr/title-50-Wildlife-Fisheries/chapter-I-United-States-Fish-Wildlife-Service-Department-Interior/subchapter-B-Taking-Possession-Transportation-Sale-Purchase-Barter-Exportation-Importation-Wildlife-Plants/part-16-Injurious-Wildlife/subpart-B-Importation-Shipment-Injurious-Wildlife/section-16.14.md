@@ -1,5 +1,7 @@
 ##### § 16.14 Importation of live or dead amphibians or their eggs. #####
 
+Link to an amendment published at 90 FR 2221, Jan. 10, 2025.
+
 (a) The importation, transportation, or acquisition of any live or dead specimen, including parts, but not eggs or gametes, of the genera *Chioglossa, Cynops, Euproctus, Hydromantes, Hynobius, Ichthyosaura, Lissotriton, Neurergus, Notophthalmus, Onychodactylus, Paramesotriton, Plethodon, Pleurodeles, Salamandra, Salamandrella, Salamandrina, Siren, Taricha, Triturus,* and *Tylototriton,* including but not limited to, the species listed in this paragraph, is prohibited except as provided under the terms and conditions set forth at § 16.22 of this part:
 
 (1) *Chioglossa lusitanica* (golden striped salamander).

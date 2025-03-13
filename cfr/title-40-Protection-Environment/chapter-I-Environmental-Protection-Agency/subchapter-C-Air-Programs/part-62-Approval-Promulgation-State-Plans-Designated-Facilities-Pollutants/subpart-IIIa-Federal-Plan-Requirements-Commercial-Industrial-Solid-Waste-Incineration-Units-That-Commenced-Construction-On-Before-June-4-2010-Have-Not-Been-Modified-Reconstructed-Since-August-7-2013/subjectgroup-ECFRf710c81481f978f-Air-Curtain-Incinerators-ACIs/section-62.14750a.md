@@ -1,0 +1,3 @@
+##### § 62.14750a What must I do if I plan to permanently close my air curtain incinerator and not restart it? #####
+
+If you plan to permanently close your incinerator rather than comply with this subpart, submit a closure notification, including the date of closure, to the Administrator no later than six months prior to the date your operation will cease. The closure date cannot be later than January 10, 2025, for sources that will not operate on and after the compliance date under this subpart. In addition, while still in operation, your air curtain incinerator is subject to the same requirement to apply for and obtain an operating permit under title V of the Clean Air Act that applies to an air curtain incinerator that will not be permanently closing.

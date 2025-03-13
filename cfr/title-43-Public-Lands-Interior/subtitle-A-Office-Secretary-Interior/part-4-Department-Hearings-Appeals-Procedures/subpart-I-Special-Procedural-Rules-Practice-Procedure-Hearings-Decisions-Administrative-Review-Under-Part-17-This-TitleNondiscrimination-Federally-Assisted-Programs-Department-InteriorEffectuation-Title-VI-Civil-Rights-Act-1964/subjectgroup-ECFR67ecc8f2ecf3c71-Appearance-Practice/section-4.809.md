@@ -1,5 +1,7 @@
 ##### § 4.809 Determination of parties. #####
 
+Link to an amendment published at 90 FR 2426, Jan. 10, 2025.
+
 (a) The affected applicant or recipient to whom a notice of hearing or a notice of an opportunity for hearing has been mailed in accordance with part 17 of this title and § 4.815, and the Director, are the initial parties to the proceeding.
 
 (b) Other persons or organizations shall have the right to participate as parties if the final decision could directly and adversely affect them or the class they represent, and if they may contribute materially to the disposition of the proceedings.

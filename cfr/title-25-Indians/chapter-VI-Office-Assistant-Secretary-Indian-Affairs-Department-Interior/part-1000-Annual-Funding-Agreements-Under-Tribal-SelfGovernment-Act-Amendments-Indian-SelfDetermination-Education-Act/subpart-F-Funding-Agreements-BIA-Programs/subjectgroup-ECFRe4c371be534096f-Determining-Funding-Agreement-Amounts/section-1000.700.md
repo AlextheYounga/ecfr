@@ -1,0 +1,3 @@
+##### § 1000.700 May a Tribe/Consortium continue to negotiate a funding agreement pending an appeal of funding amounts associated with inherent Federal functions? #####
+
+Yes, pending appeal of funding amounts associated with inherent Federal functions, any Tribe/Consortium may continue to negotiate a funding agreement using the information under § 1000.690 that is being appealed. This information will be subject to later adjustment based on the final determination of a Tribe's/Consortium's appeal.

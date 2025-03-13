@@ -1,0 +1,3 @@
+##### § 1000.1840 What happens to a Tribe's/Consortium's mature contract status if it has retroceded a program that is also available for self-determination contracting? #####
+
+If a Tribe/Consortium retrocedes operation of a program carried out under a title IV funding agreement, at the option of the Tribe/Consortium, the resulting self-determination contract is considered mature if the Tribe/Consortium meets the requirements of 25 U.S.C. 5304(h).

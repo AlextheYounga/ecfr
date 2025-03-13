@@ -1,0 +1,3 @@
+##### § 1000.1430 On what basis may the Secretary reject a final offer of a construction project proposal made by a Tribe/Consortium? #####
+
+As described in subpart I of this part, rejection of a final offer by the Secretary for a construction project must be based on a specific finding by the Secretary that clearly demonstrates, or that is supported by a controlling legal authority, that one or more of the statutory criteria under 25 U.S.C. 5366(c)(6) exist to reject the final offer.

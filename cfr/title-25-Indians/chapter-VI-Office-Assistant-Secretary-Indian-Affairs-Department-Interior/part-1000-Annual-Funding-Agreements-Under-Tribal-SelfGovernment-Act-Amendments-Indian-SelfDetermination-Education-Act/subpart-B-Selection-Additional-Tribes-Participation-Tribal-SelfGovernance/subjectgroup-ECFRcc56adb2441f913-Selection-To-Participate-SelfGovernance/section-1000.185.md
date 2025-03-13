@@ -1,0 +1,3 @@
+##### § 1000.185 What happens if a request is not complete? #####
+
+If OSG determines that a Tribe's/Consortium's request is not complete, OSG will notify the Tribe/Consortium that the request is not complete under § 1000.125 by electronic mail and by letter, certified mail, return receipt requested no later than 45-days after receipt of the Tribe's/Consortium's request. The email and letter will explain what the Tribe/Consortium must do to complete the request.

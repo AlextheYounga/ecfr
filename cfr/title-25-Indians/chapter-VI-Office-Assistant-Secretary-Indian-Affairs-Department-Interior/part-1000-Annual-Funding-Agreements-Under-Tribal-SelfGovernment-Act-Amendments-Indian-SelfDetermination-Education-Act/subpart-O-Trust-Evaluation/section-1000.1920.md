@@ -1,0 +1,3 @@
+##### § 1000.1920 Can a Tribe/Consortium request the Secretary to conduct an assessment of the status of the trust assets, resource, and PSFAs? #####
+
+If the parties agree in writing and it is practical, the Secretary may arrange for a written assessment by the Department of the status of the trust resource and asset at the time of the transfer of the PSFAs or at a later time. The parties shall agree upon an estimate of time required to complete a baseline assessment. Upon completion of the assessment report by the Department, the Secretary's designated representative shall provide a copy of the assessment to the Tribe/Consortium within 30 days.

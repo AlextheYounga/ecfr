@@ -1,5 +1,7 @@
 ##### § 4.353 Record. #####
 
+Link to an amendment published at 90 FR 2413, Jan. 10, 2025.
+
 (a) The administrative judge shall lodge the original record with the Project Director.
 
 (b) The record shall contain, where applicable, the following materials:

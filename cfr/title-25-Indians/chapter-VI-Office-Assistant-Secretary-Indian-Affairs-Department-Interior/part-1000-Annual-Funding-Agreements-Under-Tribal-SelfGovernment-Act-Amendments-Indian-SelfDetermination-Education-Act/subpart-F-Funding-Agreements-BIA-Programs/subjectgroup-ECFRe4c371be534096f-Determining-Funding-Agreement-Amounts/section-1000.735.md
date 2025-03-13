@@ -1,0 +1,3 @@
+##### § 1000.735 Do Tribes/Consortium need Secretarial approval to reallocate funds between programs that the Tribe/Consortium administers under the funding agreement? #####
+
+No, except with respect to programs described in 25 U.S.C. 5363(b)(2) or (c) or as otherwise required by law, the Secretary does not have to approve the reallocation of funds between programs that a Tribe/Consortium administers under a funding agreement. However, reallocation of funds for construction project(s) included in a funding agreement must be done in accordance with subpart K of this part.

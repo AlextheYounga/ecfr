@@ -1,5 +1,7 @@
 ##### § 4.1371 Who may file, where to file, when to file. #####
 
+Link to an amendment published at 90 FR 2431, Jan. 10, 2025.
+
 (a) A permittee that is served with a notice of proposed suspension or rescission under 30 CFR 773.22 or a notice of suspension or rescission under 30 CFR 773.23 may file a request for review with the Hearings Division, Office of Hearings and Appeals, U.S. Department of the Interior within 30 days of service of the notice.
 
 (b) Failure to file a request for review within 30 days of service of the notice shall constitute a waiver of review of the notice. An untimely request for review shall be dismissed.

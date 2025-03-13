@@ -30,4 +30,4 @@
 
 (d) *Delivery.* Any court decree or property settlement must be delivered by certified or registered mail, return receipt requested, or by personal service, to the General Counsel of the Railroad Retirement Board, 844 Rush Street, Chicago, Illinois 60611. Where the decree or property settlement is delivered to any other office of the Board, it shall not be considered delivered until the date it is received by the General Counsel. Where the decree or property settlement was furnished to any office of the Board prior to September 1, 1983, delivery is not accomplished until a copy is received by the General Counsel subsequent to August 30, 1983.
 
-(Approved by the Office of Management and Budget under control number 3220-0042)[51 FR 12845, Apr. 16, 1986, as amended at 73 FR 47046, Aug. 13, 2008]
+(Approved by the Office of Management and Budget under control number 3220-0042) [51 FR 12845, Apr. 16, 1986, as amended at 73 FR 47046, Aug. 13, 2008]

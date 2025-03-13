@@ -1,0 +1,3 @@
+##### § 1000.1405 If a Tribe/Consortium adopts the environmental review procedures of a Federal agency, is the Tribe/Consortium responsible for ensuring the agency's policies and procedures meet the requirements of NEPA, NHPA, and related environmental laws? #####
+
+No, the Federal agency is responsible for ensuring its own policies and procedures meet the requirements of NEPA, NHPA, and related environmental laws, not the Tribe/Consortium.

@@ -1,5 +1,7 @@
 ##### § 1026.41 Periodic statements for residential mortgage loans. #####
 
+Link to an amendment published at 90 FR 2503, Jan. 10, 2025.
+
 (a) *In general*—(1) *Scope.* This section applies to a closed-end consumer credit transaction secured by a dwelling, unless an exemption in paragraph (e) of this section applies. A closed-end consumer credit transaction secured by a dwelling is referred to as a *mortgage loan* for purposes of this section.
 
 (2) *Periodic statements.* A servicer of a transaction subject to this section shall provide the consumer, for each billing cycle, a periodic statement meeting the requirements of paragraphs (b), (c), and (d) of this section. If a mortgage loan has a billing cycle shorter than a period of 31 days (for example, a bi-weekly billing cycle), a periodic statement covering an entire month may be used. For the purposes of this section, *servicer* includes the creditor, assignee, or servicer, as applicable. A creditor or assignee that does not currently own the mortgage loan or the mortgage servicing rights is not subject to the requirement in this section to provide a periodic statement.

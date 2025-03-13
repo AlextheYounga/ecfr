@@ -1,0 +1,3 @@
+##### § 1000.1830 Does the Tribe/Consortium have to return funds used in the operation of a retroceded program? #####
+
+The Tribe/Consortium and the Secretary must negotiate the amount of funds that have not been obligated by the Tribe/Consortium to be returned to the Secretary, less close out costs, for the Secretary's operation of the retroceded program. This amount must be based on such factors as the time remaining or functions remaining in the funding cycle or as provided in the funding agreement.

@@ -1,5 +1,7 @@
 ##### § 1026.35 Requirements for higher-priced mortgage loans. #####
 
+Link to an amendment published at 90 FR 2501, Jan. 10, 2025.
+
 (a) *Definitions.* For purposes of this section:
 
 (1) “Higher-priced mortgage loan” means a closed-end consumer credit transaction secured by the consumer's principal dwelling with an annual percentage rate that exceeds the average prime offer rate for a comparable transaction as of the date the interest rate is set:

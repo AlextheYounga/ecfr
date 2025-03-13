@@ -1,0 +1,7 @@
+##### § 1000.2135 Does a Tribe/Consortium have additional ongoing requirements to maintain minimum standards for Tribe/Consortium management systems? #####
+
+(a) Yes, for a Tribe/Consortium required to perform an annual audit under the Single Audit Act and subparts E and F of 2 CFR part 200, the Tribe/Consortium must maintain management systems that are determined to be adequate by an independent audit.
+
+(b) For a Tribe/Consortium that is not required to perform an annual audit under the Single Audit Act, the financial management systems, including records documenting compliance with Federal statutes, regulations, and the terms and conditions of the funding agreement, must be sufficient to permit the preparation of reports required by general and program-specific terms and conditions; and the tracing of funds to a level of expenditures adequate to establish that such funds have been used according to the Federal statutes, regulations, and the requirements of the funding agreement.
+
+(c) As prescribed by subparts E and F of 2 CFR part 200, every Tribe/Consortium must establish and maintain effective internal controls over funds included in a funding agreement that provide reasonable assurances that the Tribe/Consortium is managing the funds in compliance with Federal statutes, regulations, and the terms and conditions of the funding agreement.

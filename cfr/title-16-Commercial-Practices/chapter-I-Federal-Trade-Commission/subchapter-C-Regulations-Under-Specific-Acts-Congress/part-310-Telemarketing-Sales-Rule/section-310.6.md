@@ -1,7 +1,5 @@
 ##### § 310.6 Exemptions. #####
 
-Link to an amendment published at 89 FR 99075, Dec. 10, 2024.
-
 (a) Solicitations to induce charitable contributions via outbound telephone calls are not covered by § 310.4(b)(1)(iii)(B) of this part.
 
 (b) The following acts or practices are exempt from this part:
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 99075, Dec. 10, 2024.
 
 (5) Telephone calls initiated by a customer or donor in response to an advertisement through any medium, other than direct mail solicitation, *provided,* however, that this exemption does not apply to:
 
-(i) Calls initiated by a customer or donor in response to an advertisement relating to investment opportunities, debt relief services, business opportunities other than business arrangements covered by the Franchise Rule or Business Opportunity Rule, or advertisements involving offers for goods or services described in § 310.3(a)(1)(vi) or § 310.4(a)(2) through (4);
+(i) Calls initiated by a customer or donor in response to an advertisement relating to investment opportunities, debt relief services, technical support services, business opportunities other than business arrangements covered by the Franchise Rule or Business Opportunity Rule, or advertisements involving offers for goods or services described in § 310.3(a)(1)(vi) or § 310.4(a)(2) through (4);
 
 (ii) The requirements of § 310.4(a)(9) or (10); or
 
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 99075, Dec. 10, 2024.
 
 (6) Telephone calls initiated by a customer or donor in response to a direct mail solicitation, including solicitations via the U.S. Postal Service, facsimile transmission, electronic mail, and other similar methods of delivery in which a solicitation is directed to specific address(es) or person(s), that clearly, conspicuously, and truthfully discloses all material information listed in § 310.3(a)(1), for any goods or services offered in the direct mail solicitation, and that contains no material misrepresentation regarding any item contained in § 310.3(d) for any requested charitable contribution; *provided,* however, that this exemption does not apply to:
 
-(i) Calls initiated by a customer in response to a direct mail solicitation relating to prize promotions, investment opportunities, debt relief services, business opportunities other than business arrangements covered by the Franchise Rule or Business Opportunity Rule, or goods or services described in § 310.3(a)(1)(vi) or § 310.4(a)(2) through (4);
+(i) Calls initiated by a customer in response to a direct mail solicitation relating to prize promotions, investment opportunities, debt relief services, technical support services, business opportunities other than business arrangements covered by the Franchise Rule or Business Opportunity Rule, or goods or services described in § 310.3(a)(1)(vi) or § 310.4(a)(2) through (4);
 
 (ii) The requirements of § 310.4(a)(9) or (10); or
 
@@ -36,4 +34,4 @@ Link to an amendment published at 89 FR 99075, Dec. 10, 2024.
 
 (ii) Calls to induce the retail sale of nondurable office or cleaning supplies; *provided,* however, that §§ 310.4(b)(1)(iii)(B) and 310.5 shall not apply to sellers or telemarketers of nondurable office or cleaning supplies.
 
-[75 FR 48516, Aug. 10, 2010, as amended at 80 FR 77559, Dec. 14, 2015; 89 FR 26785, Apr. 16, 2024]
+[75 FR 48516, Aug. 10, 2010, as amended at 80 FR 77559, Dec. 14, 2015; 89 FR 26785, Apr. 16, 2024; 89 FR 99075, Dec. 10, 2024]

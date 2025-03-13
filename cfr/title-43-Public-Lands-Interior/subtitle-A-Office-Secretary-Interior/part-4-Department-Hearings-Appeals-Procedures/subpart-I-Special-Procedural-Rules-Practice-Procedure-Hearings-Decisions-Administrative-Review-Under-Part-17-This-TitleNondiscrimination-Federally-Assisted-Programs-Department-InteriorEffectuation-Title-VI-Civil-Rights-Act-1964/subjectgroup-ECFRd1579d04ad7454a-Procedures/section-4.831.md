@@ -1,5 +1,7 @@
 ##### § 4.831 Sanctions. #####
 
+Link to an amendment published at 90 FR 2427, Jan. 10, 2025.
+
 (a) A party, upon reasonable notice to other parties and all persons affected thereby, may move for an order as follows:
 
 (1) If a deponent fails to answer a question propounded or submitted under § 4.827(c), or a corporation or other entity fails to make a designation under § 4.827(b)(3), or a party fails to answer an interrogatory submitted under § 4.829, or if a party, under § 4.830 fails to respond that inspection will be permitted or fails to permit inspection, the discovering party may move for an order compelling an answer, a designation, or inspection.

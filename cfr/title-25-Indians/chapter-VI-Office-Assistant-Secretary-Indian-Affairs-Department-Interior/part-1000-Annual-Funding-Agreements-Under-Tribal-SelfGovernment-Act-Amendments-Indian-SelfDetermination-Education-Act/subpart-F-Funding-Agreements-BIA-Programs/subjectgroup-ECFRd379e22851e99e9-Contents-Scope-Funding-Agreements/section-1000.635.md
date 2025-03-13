@@ -1,0 +1,3 @@
+##### § 1000.635 Does a funding agreement remain in effect after the end of its term? #####
+
+Yes, the provisions of a funding agreement, including all recurring increases received and continuing eligibility for other increases, remain in full force and effect until a subsequent funding agreement is executed, including coverage of the Tribe/Consortium under the Federal Tort Claims Act (FTCA) 28 U.S.C. 2671 through 2680. Upon execution of a subsequent funding agreement, the provisions of such a funding agreement are retroactive to the term of the preceding funding agreement for purposes of calculating the amount of funding to which the Tribe/Consortium is entitled.

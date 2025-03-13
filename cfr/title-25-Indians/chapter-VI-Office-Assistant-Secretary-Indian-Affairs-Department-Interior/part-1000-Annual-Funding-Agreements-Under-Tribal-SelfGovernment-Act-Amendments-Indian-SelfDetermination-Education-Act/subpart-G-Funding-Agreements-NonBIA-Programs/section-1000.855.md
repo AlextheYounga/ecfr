@@ -1,0 +1,3 @@
+##### § 1000.855 Will Tribes/Consortia participate in the Secretary's determination of what is to be included on the annual list of available programs? #####
+
+Yes, the Secretary must consult each year with Tribes/Consortia participating in self-governance programs regarding which bureau programs are eligible for inclusion in funding agreements. If a Tribe/Consortium makes a written request for a program to be included on the annual list for non-BIA reporting found in subpart P of this part (§§ 1000.2010(c) and 1000.2012), the Secretary must provide a written rationale if the Secretary does not include such program.
