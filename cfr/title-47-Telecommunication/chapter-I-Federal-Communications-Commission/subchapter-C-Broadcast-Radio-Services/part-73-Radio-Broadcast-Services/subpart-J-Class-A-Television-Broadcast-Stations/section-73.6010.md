@@ -1,5 +1,7 @@
 ##### § 73.6010 Class A TV station protected contour. #####
 
+Link to an amendment published at 89 FR 7263, Feb. 1, 2024.
+
 (a) [Reserved]
 
 (b) The Class A TV station protected contour is calculated from the effective radiated power and antenna height above average terrain, using the F(50,50) charts of Figure 9, 10 or 10b of § 73.699 of this part.

@@ -1,5 +1,7 @@
 ##### § 73.642 Subscription TV service. #####
 
+Link to an amendment published at 89 FR 7251, Feb. 1, 2024.
+
 (a) Subscription TV service may be provided by:
 
 (1) Licensees and permittees of commercial and noncommercial TV stations, and

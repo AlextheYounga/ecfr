@@ -1,5 +1,7 @@
 ##### § 73.5006 Filing of petitions to deny against long-form applications. #####
 
+Link to an amendment published at 89 FR 7263, Feb. 1, 2024.
+
 (a) As set forth in 47 CFR 1.2108, petitions to deny may be filed against the long-form applications filed by winning bidders in broadcast service auctions and against the long-form applications filed by applicants whose short-form applications were not mutually exclusive with any other applicant, or whose short-form applications were mutually exclusive only with one or more short-form applications for a noncommercial educational broadcast station, as described in 47 U.S.C. 397(6).
 
 (b) Within ten (10) days following the issuance of a public notice announcing that a long-form application for an AM, FM or television construction permit has been accepted for filing, petitions to deny that application may be filed. Within fifteen (15) days following the issuance of a public notice announcing that a long-form application for a low-power television, television translator or FM translator construction permit has been accepted for filing, petitions to deny that application may be filed. Any such petitions must contain allegations of fact supported by affidavit of a person or persons with personal knowledge thereof.

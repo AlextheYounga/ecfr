@@ -1,5 +1,7 @@
 ##### § 1006.30 Reports of receipts and utilization. #####
 
+Link to an amendment published at 89 FR 6406, Feb. 1, 2024.
+
 Each handler shall report monthly so that the market administrator's office receives the report on or before the 7th day after the end of the month, in the detail and on prescribed forms, as follows:
 
 (a) With respect to each of its pool plants, the quantities of skim milk and butterfat contained in or represented by:

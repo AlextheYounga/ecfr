@@ -1,5 +1,7 @@
 ##### § 73.3536 Application for license to cover construction permit. #####
 
+Link to an amendment published at 89 FR 7259, Feb. 1, 2024.
+
 (a) The application for station license shall be filed by the permittee pursuant to the requirements of § 73.1620 Program tests.
 
 (b) The following application forms shall be used:

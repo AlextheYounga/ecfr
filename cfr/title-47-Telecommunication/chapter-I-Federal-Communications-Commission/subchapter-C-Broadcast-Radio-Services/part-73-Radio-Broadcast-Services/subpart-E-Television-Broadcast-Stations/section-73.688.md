@@ -1,5 +1,7 @@
 ##### § 73.688 Indicating instruments. #####
 
+Link to an amendment published at 89 FR 7253, Feb. 1, 2024.
+
 (a) Each TV broadcast station shall be equipped with indicating instruments which conform with the specifications described in § 73.1215 for measuring the operating parameters of the last radio stage of the visual transmitter, and with such other instruments as are necessary for the proper adjustment, operation, and maintenance of the visual transmitting system.
 
 (b) The function of each instrument shall be clearly and permanently shown on the instrument itself or on the panel immediately adjacent thereto.

@@ -1,5 +1,7 @@
 ##### § 74.793 Low power TV and TV translator station protection of broadcast stations. #####
 
+Link to an amendment published at 89 FR 7265, Feb. 1, 2024.
+
 (a) An application to construct a new low power TV or TV translator station or change the facilities of an existing station will not be accepted if it fails to meet the interference protection requirements in this section.
 
 (b) Except as provided in this section, interference prediction analysis is based on the interference thresholds (D/U signal strength ratios) and other criteria and methods specified in § 73.623(c)(2) through (4) of this chapter. Predictions of interference to co-channel TV broadcast, Class A TV, LPTV, and TV translator stations will be based on the interference thresholds specified therein for “DTV-into-DTV.”

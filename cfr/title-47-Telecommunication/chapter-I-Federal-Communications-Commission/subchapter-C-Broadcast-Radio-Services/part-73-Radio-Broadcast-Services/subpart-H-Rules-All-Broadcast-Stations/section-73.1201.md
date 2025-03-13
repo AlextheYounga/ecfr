@@ -1,5 +1,7 @@
 ##### § 73.1201 Station identification. #####
 
+Link to an amendment published at 89 FR 7254, Feb. 1, 2024.
+
 (a) *When regularly required.* Broadcast station identification announcements shall be made:
 
 (1) At the beginning and ending of each time of operation, and

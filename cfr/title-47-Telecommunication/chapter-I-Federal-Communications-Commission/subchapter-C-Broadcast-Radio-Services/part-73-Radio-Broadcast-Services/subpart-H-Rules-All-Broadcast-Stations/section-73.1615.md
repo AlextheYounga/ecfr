@@ -1,5 +1,7 @@
 ##### § 73.1615 Operation during modification of facilities. #####
 
+Link to an amendment published at 89 FR 7255, Feb. 1, 2024.
+
 When the licensee of an existing AM, FM, TV or Class A TV station is in the process of modifying existing facilities as authorized by a construction permit and determines it is necessary to either discontinue operation or to operate with temporary facilities to continue program service, the following procedures apply:
 
 (a) Licensees holding a construction permit for modification of directional or nondirectional FM, TV or Class A TV or nondirectional AM station facilities may, without specific FCC authority, for a period not exceeding 30 days:

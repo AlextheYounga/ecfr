@@ -1,5 +1,7 @@
 ##### § 73.3533 Application for construction permit or modification of construction permit. #####
 
+Link to an amendment published at 89 FR 7259, Feb. 1, 2024.
+
 (a) Application for construction permit, or modification of a construction permit, for a new facility or change in an existing facility is to be made on the following forms:
 
 (1) FCC Form 301, “Application for Authority to Construct or Make Changes in an Existing Commercial Broadcast Station.”

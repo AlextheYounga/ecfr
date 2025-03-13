@@ -1,5 +1,7 @@
 ##### § 73.6000 Definitions. #####
 
+Link to an amendment published at 89 FR 7263, Feb. 1, 2024.
+
 For the purpose of this subpart, the following definition applies:
 
 *Locally produced programming* is programming:

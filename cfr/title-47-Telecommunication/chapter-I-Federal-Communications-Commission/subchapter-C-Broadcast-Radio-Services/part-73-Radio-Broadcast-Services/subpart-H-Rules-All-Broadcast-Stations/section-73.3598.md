@@ -1,5 +1,7 @@
 ##### § 73.3598 Period of construction. #####
 
+Link to an amendment published at 89 FR 7261, Feb. 1, 2024.
+
 (a) Except as provided in the last two sentences of this paragraph (a), each original construction permit for the construction of a new TV, AM, FM or International Broadcast; low power TV; low power FM; TV translator; TV booster; FM translator; or FM booster station, or to make changes in such existing stations, shall specify a period of three years from the date of issuance of the original construction permit within which construction shall be completed and application for license filed. An eligible entity that acquires an issued and outstanding construction permit for a station in any of the services listed in this paragraph (a) shall have the time remaining on the construction permit or eighteen months from the consummation of the assignment or transfer of control, whichever is longer, within which to complete construction and file an application for license. For purposes of the preceding sentence, an “eligible entity” shall include any entity that qualifies as a small business under the Small Business Administration's size standards for its industry grouping, as set forth in 13 CFR parts 121 through 201, at the time the transaction is approved by the FCC, and holds:
 
 (1) 30 percent or more of the stock or partnership interests and more than 50 percent of the voting power of the corporation or partnership that will hold the construction permit; or

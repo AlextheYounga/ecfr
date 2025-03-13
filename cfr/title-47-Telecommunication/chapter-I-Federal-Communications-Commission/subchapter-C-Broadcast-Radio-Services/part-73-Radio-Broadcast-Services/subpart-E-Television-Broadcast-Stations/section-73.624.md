@@ -1,5 +1,7 @@
 ##### § 73.624 Digital television broadcast stations. #####
 
+Link to an amendment published at 89 FR 7249, Feb. 1, 2024.
+
 (a) Digital television (“DTV”) broadcast stations are assigned channels 6 MHz wide. Initial eligibility for licenses for DTV broadcast stations is limited to persons that, as of April 3, 1997, are licensed to operate a full power television broadcast station or hold a permit to construct such a station (or both).
 
 (b) DTV broadcast station permittees or licensees must transmit at least one over-the-air video program signal at no direct charge to viewers on the DTV channel. Until such time as a DTV station permittee or licensee ceases analog transmissions and returns that spectrum to the Commission, and except as provided in paragraph (b)(1) of this section, at any time that a DTV broadcast station permittee or licensee transmits a video program signal on its analog television channel, it must also transmit at least one over-the-air video program signal on the DTV channel. The DTV service that is provided pursuant to this paragraph (b) must have a resolution of at least 480i (vertical resolution of 480 lines, interlaced).

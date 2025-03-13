@@ -1,5 +1,7 @@
 ##### § 73.4267 Time brokerage. #####
 
+Link to an amendment published at 89 FR 7262, Feb. 1, 2024.
+
 (a) See Policy Statement, Docket 78-355, FCC 80-621, adopted October 21, 1980. 82 FCC 2d 107.
 
 (b) See Report and Order, MM Docket 91-140, FCC 92-97, adopted March 12, 1992. 7 FCC Rcd 2755; 57 FR 18089, April 29, 1992.

@@ -1,6 +1,6 @@
 ##### § 493.1483 Standard: Cytotechnologist qualifications. #####
 
-Link to an amendment published at 88 FR 90044, Dec. 28, 2023.
+Link to an amendment published at 88 FR 90044, Dec. 28, 2023.Link to a correction published at 89 FR 6431, Feb. 1, 2024.
 
 Each person examining cytology slide preparations must meet the qualifications of § 493.1449 (b) or (k), or—
 

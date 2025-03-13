@@ -1,5 +1,7 @@
 ##### § 228.21 Performance tests, standards, and ratings, in general. #####
 
+Link to an amendment published at 89 FR 7189, Feb. 1, 2024.
+
 (a) *Performance tests and standards.* The Board assesses the CRA performance of a bank in an examination as follows:
 
 (1) *Lending, investment, and service tests.* The Board applies the lending, investment, and service tests, as provided in §§ 228.22 through 228.24, in evaluating the performance of a bank, except as provided in paragraphs (a)(2), (a)(3), and (a)(4) of this section.

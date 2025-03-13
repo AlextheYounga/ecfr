@@ -1,5 +1,7 @@
 ##### § 73.1750 Discontinuance of operation. #####
 
+Link to an amendment published at 89 FR 7257, Feb. 1, 2024.
+
 The licensee of each station shall notify by letter the FCC in Washington, DC, Attention: Audio Division (radio) or Video Division (television), Media Bureau, of the permanent discontinuance of operation at least two days before operation is discontinued. Immediately after discontinuance of operation, the licensee shall forward the station license and other instruments of authorization to the FCC, Attention: Audio Division (radio) or Video Division (television), Media Bureau, for cancellation. The license of any station that fails to transmit broadcast signals for any consecutive 12 month period expires as a matter of law at the end of that period, notwithstanding any provision, term, or condition of the license to the contrary. If a licensee surrenders its license pursuant to an interference reduction agreement, and its surrender is contingent on the grant of another application, the licensee must identify in its notification the contingencies involved.
 
 [67 FR 13233, Mar. 21, 2002]

@@ -1,5 +1,7 @@
 ##### § 73.3500 Application and report forms. #####
 
+Link to an amendment published at 89 FR 7258, Feb. 1, 2024.
+
 (a) Following are the FCC broadcast application and report forms, listed by number.
 
 |                                     Form number                                     |                                                                                          Title                                                                                          |

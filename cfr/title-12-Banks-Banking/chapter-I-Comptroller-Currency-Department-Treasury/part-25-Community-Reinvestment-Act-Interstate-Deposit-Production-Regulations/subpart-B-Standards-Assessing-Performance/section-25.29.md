@@ -1,5 +1,7 @@
 ##### § 25.29 Effect of CRA performance on applications. #####
 
+Link to an amendment published at 89 FR 7167, Feb. 1, 2024.
+
 (a) *CRA performance.* Among other factors, the appropriate Federal banking agency takes into account the record of performance under the CRA of each applicant bank or savings association, and for applications under 10(e) of the Home Owners' Loan Act (12 U.S.C. 1467a(e)), of each proposed subsidiary savings association, in considering an application for:
 
 (1) The establishment of:

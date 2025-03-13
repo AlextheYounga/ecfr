@@ -1,5 +1,7 @@
 ##### § 73.1207 Rebroadcasts. #####
 
+Link to an amendment published at 89 FR 7254, Feb. 1, 2024.
+
 (a) The term *rebroadcast* means reception by radio of the programs or other transmissions of a broadcast or any other type of radio station, and the simultaneous or subsequent retransmission of such programs or transmissions by a broadcast station.
 
 (1) As used in this section, “program” includes any complete programs or part thereof.

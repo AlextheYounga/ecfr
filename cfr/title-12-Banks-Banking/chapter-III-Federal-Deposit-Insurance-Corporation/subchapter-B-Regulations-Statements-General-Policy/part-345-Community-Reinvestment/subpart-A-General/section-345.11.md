@@ -1,5 +1,7 @@
 ##### § 345.11 Authority, purposes, and scope. #####
 
+Link to an amendment published at 89 FR 7205, Feb. 1, 2024.
+
 (a) *Authority and OMB control number*—(1) *Authority.* The authority for this part is 12 U.S.C. 1814-1817, 1819-1820, 1828, 1831u and 2901-2907, 3103-3104, and 3108(a).
 
 (2) *OMB control number.* The information collection requirements contained in this part were approved by the Office of Management and Budget under the provisions of 44 U.S.C. 3501 *et seq.* and have been assigned OMB control number 3064-0092.

@@ -1,5 +1,7 @@
 ##### § 73.3543 Application for renewal or modification of special service authorization. #####
 
+Link to an amendment published at 89 FR 7259, Feb. 1, 2024.
+
 (a) No new special service authorization will be issued. However, consideration will be given to renewal or modification of a special service authorization which was outstanding on February 3, 1958, providing a satisfactory showing has been made in regard to the following, among others:
 
 (1) That the requested operation may not be granted on a regular basis under the existing rules governing the operation of AM stations;

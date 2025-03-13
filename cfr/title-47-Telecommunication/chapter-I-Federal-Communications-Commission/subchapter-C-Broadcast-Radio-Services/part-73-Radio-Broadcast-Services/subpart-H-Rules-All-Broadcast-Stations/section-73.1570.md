@@ -1,5 +1,7 @@
 ##### § 73.1570 Modulation levels: AM, FM, TV and Class A TV aural. #####
 
+Link to an amendment published at 89 FR 7255, Feb. 1, 2024.
+
 (a) The percentage of modulation is to be maintained at as high a level as is consistent with good quality of transmission and good broadcast service, with maximum levels not to exceed the values specified in paragraph (b). Generally, the modulation should not be less than 85% on peaks of frequent recurrence, but where lower modulation levels may be required to avoid objectionable loudness or to maintain the dynamic range of the program material, the degree of modulation may be reduced to whatever level is necessary for this purpose, even though under such circumstances, the level may be substantially less than that which produces peaks of frequent recurrence at a level of 85%.
 
 (b) Maximum modulation levels must meet the following limitations:

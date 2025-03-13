@@ -1,5 +1,7 @@
 ##### § 74.732 Eligibility and licensing requirements. #####
 
+Link to an amendment published at 89 FR 7265, Feb. 1, 2024.
+
 (a) A license for a low power TV or TV translator station may be issued to any qualified individual, organized group of individuals, broadcast station licensee, or local civil governmental body.
 
 (b) More than one low power TV or TV translator station may be licensed to the same applicant whether or not such stations serve substantially the same area. Low power TV and TV translator stations are not counted for purposes of § 73.3555, concerning multiple ownership.

@@ -1,5 +1,7 @@
 ##### § 73.4082 Comparative broadcast hearings—specialized programming formats. #####
 
+Link to an amendment published at 89 FR 7262, Feb. 1, 2024.
+
 (a) See Memorandum Opinion and Order, FCC 80-33, adopted January 30, 1980. 75 FCC 2d 721.
 
 (b) See Report and Order, Docket 79-137, FCC 79-331, adopted June 1, 1979. 72 FCC 2d 202.

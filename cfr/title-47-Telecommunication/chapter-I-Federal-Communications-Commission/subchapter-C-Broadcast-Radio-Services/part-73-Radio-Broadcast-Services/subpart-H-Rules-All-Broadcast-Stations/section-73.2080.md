@@ -1,5 +1,7 @@
 ##### § 73.2080 Equal employment opportunities (EEO). #####
 
+Link to an amendment published at 89 FR 7257, Feb. 1, 2024.
+
 (a) *General EEO policy.* Equal opportunity in employment shall be afforded by all licensees or permittees of commercially or noncommercially operated AM, FM, TV, Class A TV or international broadcast stations (as defined in this part) to all qualified persons, and no person shall be discriminated against in employment by such stations because of race, color, religion, national origin, or sex. Religious radio broadcasters may establish religious belief or affiliation as a job qualification for all station employees. However, they cannot discriminate on the basis of race, color, national origin or gender from among those who share their religious affiliation or belief. For purposes of this rule, a religious broadcaster is a licensee which is, or is closely affiliated with, a church, synagogue, or other religious entity, including a subsidiary of such an entity.
 
 (b) *General EEO program requirements.* Each broadcast station shall establish, maintain, and carry out a positive continuing program of specific practices designed to ensure equal opportunity and nondiscrimination in every aspect of station employment policy and practice. Under the terms of its program, a station shall:

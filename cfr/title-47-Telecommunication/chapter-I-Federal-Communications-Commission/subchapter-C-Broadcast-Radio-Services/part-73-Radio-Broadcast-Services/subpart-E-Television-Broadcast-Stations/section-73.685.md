@@ -1,5 +1,7 @@
 ##### § 73.685 Transmitter location and antenna system. #####
 
+Link to an amendment published at 89 FR 7253, Feb. 1, 2024.
+
 (a) The transmitter location shall be chosen so that, on the basis of the effective radiated power and antenna height above average terrain employed, the following minimum field strength in dB above one uV/m will be provided over the entire principal community to be served:
 
 |Channels 2-6|Channels 7-13|Channels 14-69|

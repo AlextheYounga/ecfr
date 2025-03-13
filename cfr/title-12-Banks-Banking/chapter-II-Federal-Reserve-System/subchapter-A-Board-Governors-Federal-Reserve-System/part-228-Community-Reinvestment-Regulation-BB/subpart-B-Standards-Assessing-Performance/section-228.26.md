@@ -1,5 +1,7 @@
 ##### § 228.26 Small bank performance standards. #####
 
+Link to an amendment published at 89 FR 7189, Feb. 1, 2024.
+
 (a) *Performance criteria*—(1) *Small banks that are not intermediate small banks.* The Board evaluates the record of a small bank that is not, or that was not during the prior calendar year, an intermediate small bank, of helping to meet the credit needs of its assessment area(s) pursuant to the criteria set forth in paragraph (b) of this section.
 
 (2) *Intermediate small banks.* The Board evaluates the record of a small bank that is, or that was during the prior calendar year, an intermediate small bank, of helping to meet the credit needs of its assessment area(s) pursuant to the criteria set forth in paragraphs (b) and (c) of this section.

@@ -1,5 +1,7 @@
 ##### § 73.3572 Processing of TV broadcast, Class A TV broadcast, low power TV, TV translators, and TV booster applications. #####
 
+Link to an amendment published at 89 FR 7260, Feb. 1, 2024.
+
 (a) Applications for TV stations are divided into two groups:
 
 (1) In the first group are applications for new stations or major changes in the facilities of authorized stations. A major change for TV broadcast stations authorized under this part is any change in frequency or community of license which is in accord with a present allotment contained in the Table of Allotments (§ 73.622(j)). Other requests for change in frequency or community of license for TV broadcast stations must first be submitted in the form of a petition for rulemaking to amend the Table of Allotments.

@@ -1,6 +1,6 @@
 ##### § 493.1423 Standard; Testing personnel qualifications. #####
 
-Link to an amendment published at 88 FR 90040, Dec. 28, 2023.
+Link to an amendment published at 88 FR 90040, Dec. 28, 2023.Link to a correction published at 89 FR 6431, Feb. 1, 2024.
 
 Each individual performing moderate complexity testing must—
 

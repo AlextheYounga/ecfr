@@ -1,6 +1,6 @@
 ##### § 73.698 Tables. #####
 
-Table I [Reserved]
+Link to an amendment published at 89 FR 7253, Feb. 1, 2024.Table I [Reserved]
 
 Table II
 

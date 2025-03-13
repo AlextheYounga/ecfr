@@ -1,5 +1,7 @@
 ##### § 73.3700 Post-incentive auction licensing and operation. #####
 
+Link to an amendment published at 89 FR 7262, Feb. 1, 2024.
+
 (a) *Definitions*—(1) *Broadcast television station.* For purposes of this section, broadcast television station means full power television stations and Class A television stations.
 
 (2) *Channel reassignment public notice.* For purposes of this section, *Channel Reassignment Public Notice* means the public notice to be released upon the completion of the broadcast television spectrum incentive auction conducted under section 6403 of the *Spectrum* Act specifying the new channel assignments and technical parameters of any broadcast television stations that are reassigned to new channels.

@@ -1,5 +1,7 @@
 ##### § 73.1020 Station license period. #####
 
+Link to an amendment published at 89 FR 7253, Feb. 1, 2024.
+
 (a) Initial licenses for broadcast stations will ordinarily be issued for a period running until the date specified in this section for the State or Territory in which the station is located. If issued after such date, it will run to the next renewal date determined in accordance with this section. Both radio and TV broadcasting stations will ordinarily be renewed for 8 years. However, if the FCC finds that the public interest, convenience and necessity will be served thereby, it may issue either an initial license or a renewal thereof for a lesser term. The time of expiration of normally issued initial and renewal licenses will be 3 a.m., local time, on the following dates and thereafter at 8-year intervals for radio and TV broadcast stations located in:
 
 (1) Maryland, District of Columbia, Virginia and West Virginia:

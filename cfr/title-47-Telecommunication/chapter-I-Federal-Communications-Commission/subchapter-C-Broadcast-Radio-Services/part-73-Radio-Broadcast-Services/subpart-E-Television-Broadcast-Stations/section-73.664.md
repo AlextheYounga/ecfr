@@ -1,5 +1,7 @@
 ##### § 73.664 Determining operating power. #####
 
+Link to an amendment published at 89 FR 7251, Feb. 1, 2024.
+
 (a) The operating power of each TV visual transmitter shall normally be determined by the direct method.
 
 (b) *Direct method, visual transmitter.* The direct method of power determination for a TV visual transmitter uses the indications of a calibrated transmission line meter (responsive to peak power) located at the RF output terminals of the transmitter. The indications of the calibrated meter are used to observe and maintain the authorized operating power of the visual transmitter. This meter must be calibrated whenever any component in the metering circuit is repaired or replaced and as often as necessary to ensure operation in accordance with the provisions of § 73.1560 of this part. The following calibration procedures are to be used:

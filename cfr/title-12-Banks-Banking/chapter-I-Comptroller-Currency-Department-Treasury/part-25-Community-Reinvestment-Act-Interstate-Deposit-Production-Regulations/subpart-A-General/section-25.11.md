@@ -1,5 +1,7 @@
 ##### § 25.11 Authority, purposes, and scope. #####
 
+Link to an amendment published at 89 FR 7166, Feb. 1, 2024.
+
 (a) *Authority and OMB control number*—(1) *Authority.* The authority for subparts A, B, C, D, and E is 12 U.S.C. 21, 22, 26, 27, 30, 36, 93a, 161, 215, 215a, 481, 1462a, 1463, 1464, 1814, 1816, 1828(c), 1835a, 2901 through 2908, 3101 through 3111, and 5412(b)(2)(B).
 
 (2) *OMB control number.* The information collection requirements contained in this part were approved by the Office of Management and Budget under the provisions of 44 U.S.C. 3501 *et seq.* and have been assigned OMB control number 1557-0160.

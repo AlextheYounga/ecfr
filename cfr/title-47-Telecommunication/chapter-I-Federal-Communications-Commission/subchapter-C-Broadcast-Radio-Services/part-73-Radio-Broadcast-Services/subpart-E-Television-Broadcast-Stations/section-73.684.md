@@ -1,5 +1,7 @@
 ##### § 73.684 Prediction of coverage. #####
 
+Link to an amendment published at 89 FR 7253, Feb. 1, 2024.
+
 (a) All predictions of coverage made pursuant to this section shall be made without regard to interference and shall be made only on the basis of estimated field strengths. The peak power of the visual signal is used in making predictions of coverage.
 
 (b) Predictions of coverage shall be made only for the same purposes as relate to the use of field strength contours as specified in § 73.683(c).

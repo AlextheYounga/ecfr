@@ -1,5 +1,7 @@
 ##### § 25.43 Content and availability of public file. #####
 
+Link to an amendment published at 89 FR 7168, Feb. 1, 2024.
+
 (a) *Information available to the public.* A bank or savings association shall maintain a public file that includes the following information:
 
 (1) All written comments received from the public for the current year and each of the prior two calendar years that specifically relate to the bank's or savings association's performance in helping to meet community credit needs, and any response to the comments by the bank or savings association, if neither the comments nor the responses contain statements that reflect adversely on the good name or reputation of any persons other than the bank or savings association or publication of which would violate specific provisions of law;

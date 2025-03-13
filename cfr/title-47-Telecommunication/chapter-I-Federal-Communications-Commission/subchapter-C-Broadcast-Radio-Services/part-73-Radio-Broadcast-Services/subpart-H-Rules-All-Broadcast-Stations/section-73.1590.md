@@ -1,5 +1,7 @@
 ##### § 73.1590 Equipment performance measurements. #####
 
+Link to an amendment published at 89 FR 7255, Feb. 1, 2024.
+
 (a) The licensee of each AM, FM, TV and Class A TV station, except licensees of Class D non-commercial educational FM stations authorized to operate with 10 watts or less output power, must make equipment performance measurements for each main transmitter as follows:
 
 (1) Upon initial installation of a new or replacement main transmitter.

@@ -1,5 +1,7 @@
 ##### § 73.616 Post-transition DTV station interference protection. #####
 
+Link to an amendment published at 89 FR 7245, Feb. 1, 2024.
+
 (a) A petition to add a new channel to the post-transition DTV Table of Allotments contained in § 73.622(j) of this subpart will not be accepted unless it meets: The DTV-to-DTV geographic spacing requirements of § 73.623(d) with respect to all existing DTV allotments in the post-transition DTV Table; the principle community coverage requirements of § 73.625(a); the Class A TV and digital Class A TV protection requirements in paragraph (f) of this section; the land mobile protection requirements of § 73.623(e); and the FM radio protection requirement of § 73.623(f).
 
 (b) The reference coordinates of a post-transition DTV allotment shall be the authorized transmitter site, or, where such a transmitter site is not available for use as a reference point, the coordinates as designated in the FCC order creating or modifying the post-transition DTV Table of Allotments.

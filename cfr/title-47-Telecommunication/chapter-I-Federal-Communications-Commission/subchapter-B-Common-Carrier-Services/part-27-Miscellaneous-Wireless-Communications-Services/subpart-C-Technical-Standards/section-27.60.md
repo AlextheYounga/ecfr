@@ -1,5 +1,7 @@
 ##### § 27.60 TV/DTV interference protection criteria. #####
 
+Link to an amendment published at 89 FR 7243, Feb. 1, 2024.
+
 Base, fixed, control, and mobile transmitters in the 698-758 MHz, 775-788 MHz, and 805-806 MHz frequency bands must be operated only in accordance with the rules in this section to reduce the potential for interference to public reception of the signals of existing TV and DTV broadcast stations transmitting on TV Channels 51 through 68.
 
 (a) *D/U ratios.* Licensees must choose site locations that are a sufficient distance from co-channel and adjacent channel TV and DTV stations, and/or must use reduced transmitting power or transmitting antenna height such that the following minimum desired signal-to-undesired signal ratios (D/U ratios) are met.

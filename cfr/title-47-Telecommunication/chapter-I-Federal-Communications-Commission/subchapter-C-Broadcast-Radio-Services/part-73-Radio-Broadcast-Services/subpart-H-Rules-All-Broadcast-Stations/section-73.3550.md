@@ -1,5 +1,7 @@
 ##### § 73.3550 Requests for new or modified call sign assignments. #####
 
+Link to an amendment published at 89 FR 7260, Feb. 1, 2024.
+
 (a) All requests for new or modified call sign assignments for radio and television broadcast stations shall be made via the FCC's on-line call sign reservation and authorization system accessible through the Internet's World Wide Web by specifying *http://www.fcc.gov.* Licensees and permittees may utilize this on-line system to determine the availability and licensing status of any call sign; to select an initial call sign for a new station; to change a station's currently assigned call sign; to modify an existing call sign by adding or deleting an “-FM” or “-TV” suffix; to exchange call signs with another licensee or permittee in the same service; or to reserve a different call sign for a station being transferred or assigned.
 
 (b) No request for an initial call sign assignment will be accepted from a permittee for a new radio or full-service television station until the FCC has granted a construction permit. Each such permittee shall request the assignment of its station's initial call sign expeditiously following the grant of its construction permit. All initial construction permits for low power TV stations will be issued with a five-character low power TV call sign, in accordance with § 74.783(d) of this chapter.

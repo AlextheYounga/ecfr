@@ -1,5 +1,7 @@
 ##### § 73.1635 Special temporary authorizations (STA). #####
 
+Link to an amendment published at 89 FR 7256, Feb. 1, 2024.
+
 (a) A special temporary authorization (STA) is the authority granted to a permittee or licensee to permit the operation of a broadcast facility for a limited period at a specified variance from the terms of the station authorization or requirements of the FCC rules applicable to the particular class of station.
 
 (1) A request for a STA should be filed with FCC in Washington, DC at least 10 days prior to the date of the proposed operation.

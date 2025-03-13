@@ -1,5 +1,7 @@
 ##### § 73.613 Protection of Class A TV stations. #####
 
+Link to an amendment published at 89 FR 7244, Feb. 1, 2024.
+
 (a) An application for a new TV broadcast station or for changes in the operating facilities of an existing TV broadcast station will not be accepted for filing if it fails to comply with the requirements specified in this section.
 
 Note to § 73.613(a):

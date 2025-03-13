@@ -1,5 +1,7 @@
 ##### § 73.1350 Transmission system operation. #####
 
+Link to an amendment published at 89 FR 7255, Feb. 1, 2024.
+
 (a) Each licensee is responsible for maintaining and operating its broadcast station in a manner which complies with the technical rules set forth elsewhere in this part and in accordance with the terms of the station authorization.
 
 (b) The licensee must designate a chief operator in accordance with § 73.1870. The licensee may designate one or more technically competent persons to adjust the transmitter operating parameters for compliance with the technical rules and the station authorization.

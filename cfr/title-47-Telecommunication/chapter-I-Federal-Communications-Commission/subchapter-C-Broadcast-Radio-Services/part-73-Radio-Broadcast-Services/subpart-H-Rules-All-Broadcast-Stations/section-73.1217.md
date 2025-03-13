@@ -1,5 +1,7 @@
 ##### § 73.1217 Broadcast hoaxes. #####
 
+Link to an amendment published at 89 FR 7254, Feb. 1, 2024.
+
 No licensee or permittee of any broadcast station shall broadcast false information concerning a crime or a catastrophe if:
 
 (a) The licensee knows this information is false;

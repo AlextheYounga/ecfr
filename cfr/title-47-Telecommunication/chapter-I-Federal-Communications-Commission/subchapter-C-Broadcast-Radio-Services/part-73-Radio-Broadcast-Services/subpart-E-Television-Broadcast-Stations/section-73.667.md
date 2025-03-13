@@ -1,5 +1,7 @@
 ##### § 73.667 TV subsidiary communications services. #####
 
+Link to an amendment published at 89 FR 7252, Feb. 1, 2024.
+
 (a) Subsidiary communications services are those transmitted within the TV aural baseband signal, but do not include services which enhance the main program broadcast service or exclusively relate to station operations (see § 73.665(a), (b), and (c)). Subsidiary communications include, but are not limited to, services such as functional music, specialized foreign language programs, radio reading services, utility load management, market and financial data and news, paging and calling, traffic control signal switching, and point-to-point or multipoint messages.
 
 (b) TV subsidiary communications services that are common carrier or private radio in nature are subject to common carrier or private radio regulation. Licensees operating such services are required to apply to the FCC for the appropriate authorization and to comply with all policies and rules applicable to the service. Responsibility for making the initial determinations of whether a particular activity requires separate authority rests with the TV station licensee or permittee. Initial determinations by licensees or permittees are subject to FCC examination and may be reviewed at the FCC's discretion.

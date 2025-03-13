@@ -1,5 +1,7 @@
 ##### § 345.42 Data collection, reporting, and disclosure. #####
 
+Link to an amendment published at 89 FR 7206, Feb. 1, 2024.
+
 (a) *Loan information required to be collected and maintained.* A bank, except a small bank, shall collect, and maintain in machine readable form (as prescribed by the FDIC) until the completion of its next CRA examination, the following data for each small business or small farm loan originated or purchased by the bank:
 
 (1) A unique number or alpha-numeric symbol that can be used to identify the relevant loan file;

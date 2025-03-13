@@ -1,5 +1,7 @@
 ##### § 73.6024 Transmission standards and system requirements. #####
 
+Link to an amendment published at 89 FR 7264, Feb. 1, 2024.
+
 (a) A Class A TV station must meet the requirements of §§ 73.682 and 73.687, except as provided in paragraph (b) of this section.
 
 (b) A Class A TV station may continue to operate with the transmitter operated under its previous LPTV license, provided such operation does not cause any condition of uncorrectable interference due to radiation of radio frequency energy outside of the assigned channel. Such operation must continue to meet the requirements of §§ 74.736 and 74.750 of this chapter.

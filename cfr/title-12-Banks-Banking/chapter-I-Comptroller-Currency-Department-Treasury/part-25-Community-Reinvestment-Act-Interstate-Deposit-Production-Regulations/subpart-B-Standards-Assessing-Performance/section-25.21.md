@@ -1,5 +1,7 @@
 ##### § 25.21 Performance tests, standards, and ratings, in general. #####
 
+Link to an amendment published at 89 FR 7167, Feb. 1, 2024.
+
 (a) *Performance tests and standards.* The appropriate Federal banking agency assesses the CRA performance of a bank or savings association in an examination as follows:
 
 (1) *Lending, investment, and service tests.* The appropriate Federal banking agency applies the lending, investment, and service tests, as provided in §§ 25.22 through 25.24, in evaluating the performance of a bank or savings association, except as provided in paragraphs (a)(2), (3), and (4) of this section.

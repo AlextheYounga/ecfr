@@ -1,5 +1,7 @@
 ##### § 73.614 Power and antenna height requirements. #####
 
+Link to an amendment published at 89 FR 7244, Feb. 1, 2024.
+
 (a) *Minimum requirements.* Applications will not be accepted for filing if they specify less than −10 dBk (100 watts) horizontally polarized visual effective radiated power in any horizontal direction. No minimum antenna height above average terrain is specified.
 
 (b) *Maximum power.* Applications will not be accepted for filing if they specify a power which exceeds the maximum permitted boundaries specified in the following formulas:

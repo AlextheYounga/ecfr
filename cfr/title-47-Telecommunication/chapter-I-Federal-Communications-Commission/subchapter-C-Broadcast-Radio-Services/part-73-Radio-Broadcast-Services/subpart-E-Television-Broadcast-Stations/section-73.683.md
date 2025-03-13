@@ -1,5 +1,7 @@
 ##### § 73.683 Field strength contours and presumptive determination of field strength at individual locations. #####
 
+Link to an amendment published at 89 FR 7252, Feb. 1, 2024.
+
 (a) In the authorization of TV stations, two field strength contours are considered. These are specified as Grade A and Grade B and indicate the approximate extent of coverage over average terrain in the absence of interference from other television stations. Under actual conditions, the true coverage may vary greatly from these estimates because the terrain over any specific path is expected to be different from the average terrain on which the field strength charts were based. The required field strength, *F* (50,50), in dB above one micro-volt per meter (dBu) for the Grade A and Grade B contours are as follows:
 
 |              |Grade A (dBu)|Grade B (dBu)|

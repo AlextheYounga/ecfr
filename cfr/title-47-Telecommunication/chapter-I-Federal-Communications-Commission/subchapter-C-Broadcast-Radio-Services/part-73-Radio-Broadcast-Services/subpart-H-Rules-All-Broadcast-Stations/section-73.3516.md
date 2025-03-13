@@ -1,5 +1,7 @@
 ##### § 73.3516 Specification of facilities. #####
 
+Link to an amendment published at 89 FR 7258, Feb. 1, 2024.
+
 (a) An application for facilities in the AM, FM, TV or Class A TV broadcast services, or low power TV service shall be limited to one frequency, or channel, and no application will be accepted for filing if it requests an alternate frequency or channel. Applications specifying split frequency AM operations using one frequency during daytime hours complemented by a different frequency during nighttime hours will not be accepted for filing.
 
 (b) An application for facilities in the experimental and auxiliary broadcast services may request the assignment of more than one frequency if consistent with applicable rules in Part 74. Such applications must specify the frequency or frequencies requested and may not request alternate frequencies.

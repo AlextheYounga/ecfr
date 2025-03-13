@@ -1,0 +1,3 @@
+##### § 1005.72 Payments from the producer-settlement fund. #####
+
+No later than one day after the date of payment receipt required under § 1005.71, the market administrator shall pay to each handler the amount, if any, by which the amount computed pursuant to § 1005.71(b) exceeds the amount computed pursuant to § 1005.71(a). If, at such time, the balance in the producer-settlement fund is insufficient to make all payments pursuant to this section, the market administrator shall reduce uniformly such payments and shall complete the payments as soon as the funds are available.

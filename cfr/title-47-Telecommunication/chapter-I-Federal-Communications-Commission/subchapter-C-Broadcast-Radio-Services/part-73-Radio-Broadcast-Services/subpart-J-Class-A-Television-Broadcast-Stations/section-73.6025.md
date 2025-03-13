@@ -1,5 +1,7 @@
 ##### § 73.6025 Antenna system and station location. #####
 
+Link to an amendment published at 89 FR 7264, Feb. 1, 2024.
+
 (a) Applications for modified Class A TV facilities proposing the use of directional antenna systems must be accompanied by the following:
 
 (1) Complete description of the proposed antenna system, including the manufacturer and model number of the proposed directional antenna. In the case of a composite antenna composed of two or more individual antennas, the antenna should be described as a “composite” antenna. A full description of the design of the antenna should also be submitted.

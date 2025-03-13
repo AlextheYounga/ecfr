@@ -1,5 +1,7 @@
 ##### § 73.1620 Program tests. #####
 
+Link to an amendment published at 89 FR 7256, Feb. 1, 2024.
+
 (a) Upon completion of construction of an AM, FM, TV or Class A TV station in accordance with the terms of the construction permit, the technical provisions of the application, the rules and regulations and the applicable engineering standards, program tests may be conducted in accordance with the following:
 
 (1) The permittee of a nondirectional AM or FM station, or a nondirectional or directional TV or Class A TV station, may begin program tests upon notification to the FCC in Washington, DC provided that within 10 days thereafter, an application for a license is filed with the FCC in Washington, DC.

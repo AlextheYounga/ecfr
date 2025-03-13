@@ -1,5 +1,7 @@
 ##### § 73.3523 Dismissal of applications in renewal proceedings. #####
 
+Link to an amendment published at 89 FR 7258, Feb. 1, 2024.
+
 (a) An applicant for construction permit, that has filed an application that is mutually exclusive with an application for renewal of a license of an AM, FM or television station (hereinafter competing applicant”) filed on or before May 1, 1995, and seeks to dismiss or withdraw its application and thereby remove a conflict between applications pending before the Commission, must obtain the approval of the Commission.
 
 (b) If a competing applicant seeks to dismiss or withdraw its application prior to the Initial Decision stage of the hearing on its application, it must submit to the Commission a request for approval of the dismissal or withdrawal of its application, a copy of any written agreement related to the dismissal or withdrawal of its application, and an affidavit setting forth:

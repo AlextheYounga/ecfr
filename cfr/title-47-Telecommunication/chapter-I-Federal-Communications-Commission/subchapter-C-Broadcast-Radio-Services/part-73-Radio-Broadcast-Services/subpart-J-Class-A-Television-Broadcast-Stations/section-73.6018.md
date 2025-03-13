@@ -1,5 +1,7 @@
 ##### § 73.6018 Digital Class A TV station protection of DTV stations. #####
 
+Link to an amendment published at 89 FR 7263, Feb. 1, 2024.
+
 Digital Class A TV stations must protect the DTV service that would be provided by the facilities specified in the DTV Table of Allotments in § 73.622, by authorized DTV stations and by applications that propose to expand DTV stations' allotted or authorized coverage contour in any direction, if such applications either were filed before December 31, 1999 or were filed between December 31, 1999 and May 1, 2000 by a DTV station licensee or permittee that had notified the Commission of its intent to “maximize” by December 31, 1999. Protection of these allotments, stations and applications must be based on meeting the requirements of § 74.793 (b) through (e) of this chapter. An application for digital operation of an existing Class A TV station or to change the facilities of a digital Class A TV station will not be accepted if it fails to protect these DTV allotments, stations and applications in accordance with this section.
 
 [69 FR 69330, Nov. 29, 2004]

@@ -1,5 +1,7 @@
 ##### § 27.1310 Protection of Broadcast Television Service in the 600 MHz band from wireless operations. #####
 
+Link to an amendment published at 89 FR 7243, Feb. 1, 2024.
+
 (a) Licensees authorized to operate wireless services in the 600 MHz band must cause no harmful interference to public reception of the signals of broadcast television stations transmitting co-channel or on an adjacent channel.
 
 (1) Such wireless operations must comply with the D/U ratios in Table 5 in OET Bulletin No. 74, Methodology for Predicting Inter-Service Interference to Broadcast Television from Mobile Wireless Broadband Services in the UHF Band ([DATE]) (“*OET Bulletin No. 74*”). Copies of this document are available on the FCC's website. See *https://www.fcc.gov/general/oet-bulletins-line.*

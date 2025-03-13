@@ -1,5 +1,7 @@
 ##### § 73.1250 Broadcasting emergency information. #####
 
+Link to an amendment published at 89 FR 7255, Feb. 1, 2024.
+
 (a) Emergency situations in which the broadcasting of information is considered as furthering the safety of life and property include, but are not limited to the following: Tornadoes, hurricanes, floods, tidal waves, earthquakes, icing conditions, heavy snows, widespread fires, discharge of toxic gasses, widspread power failures, industrial explosions, civil disorders and school closing and changes in school bus schedules resulting from such conditions. See also § 73.3542, Application for Emergency Authorization, for requirements involving emergency situations not covered by this section for which prior operating authority must be requested.
 
 (b) If requested by responsible public officials, a station may, at its discretion, and without further FCC authority, transmit emergency point-to-point messages for the purpose of requesting or dispatching aid and assisting in rescue operations.

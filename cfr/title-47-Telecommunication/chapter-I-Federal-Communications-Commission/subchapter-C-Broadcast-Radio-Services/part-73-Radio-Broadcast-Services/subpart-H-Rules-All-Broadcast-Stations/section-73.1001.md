@@ -1,5 +1,7 @@
 ##### § 73.1001 Scope. #####
 
+Link to an amendment published at 89 FR 7253, Feb. 1, 2024.
+
 (a) The rules in this subpart are common to all AM, FM, TV and Class A TV broadcast services, commercial and noncommercial.
 
 (b) Rules in part 73 applying exclusively to a particular broadcast service are contained in the following: AM, subpart A; FM, subpart B; Noncommercial Educational FM, subpart C; TV, subpart E; LPFM, subpart G; and Class A TV, subpart J.

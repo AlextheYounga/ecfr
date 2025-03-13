@@ -1,5 +1,7 @@
 ##### § 73.669 TV stereophonic aural and multiplex subcarrier operation. #####
 
+Link to an amendment published at 89 FR 7252, Feb. 1, 2024.
+
 (a) A TV broadcast station may without specific authority from the FCC, transmit multichannel aural programs upon installation of multichannel sound equipment. Prior to commencement of multichannel broadcasting, the equipment shall be measured in accordance with § 73.1690(e).
 
 (b) Multiplex subcarriers may be used by a TV station pursuant to the provisions of § 73.665 and may be transmitted on a secondary, non-interference basis to broadcast programming without specific authority from the FCC. Transmissions must be conducted in accordance with the technical standards given in § 73.682(c).

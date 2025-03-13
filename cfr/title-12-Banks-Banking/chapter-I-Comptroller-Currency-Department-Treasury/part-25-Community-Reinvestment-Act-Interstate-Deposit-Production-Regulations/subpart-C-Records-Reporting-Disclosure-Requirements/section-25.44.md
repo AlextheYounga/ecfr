@@ -1,3 +1,5 @@
 ##### § 25.44 Public notice by banks and savings associations. #####
 
+Link to an amendment published at 89 FR 7168, Feb. 1, 2024.
+
 A bank or savings association shall provide in the public lobby of its main office and each of its branches the appropriate public notice set forth in appendix B of this part. Only a branch of a bank or savings association having more than one assessment area shall include the bracketed material in the notice for branch offices. Only an insured national bank that is an affiliate of a holding company shall include the next to the last sentence of the notices. An insured national bank shall include the last sentence of the notices only if it is an affiliate of a holding company that is not prevented by statute from acquiring additional banks. Only a savings association that is an affiliate of a holding company shall include the last two sentences of the notices.

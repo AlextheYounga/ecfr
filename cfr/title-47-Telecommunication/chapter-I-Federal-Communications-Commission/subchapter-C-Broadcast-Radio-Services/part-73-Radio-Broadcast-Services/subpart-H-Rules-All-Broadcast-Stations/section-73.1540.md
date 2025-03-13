@@ -1,5 +1,7 @@
 ##### § 73.1540 Carrier frequency measurements. #####
 
+Link to an amendment published at 89 FR 7255, Feb. 1, 2024.
+
 (a) The carrier frequency of each AM and FM station and the visual carrier frequency and the difference between the visual carrier and the aural carrier or center frequency of each TV and Class A TV station shall be measured or determined as often as necessary to ensure that they are maintained within the prescribed tolerances.
 
 (b) In measuring the carrier frequency, the licensee may use any method or procedure that has sufficient precision to establish that the carrier frequency is within the prescribed departure limits.

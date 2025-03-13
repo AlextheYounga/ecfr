@@ -1,5 +1,7 @@
 ##### § 73.665 Use of TV aural baseband subcarriers. #####
 
+Link to an amendment published at 89 FR 7251, Feb. 1, 2024.
+
 Licensees of TV broadcast stations may transmit, without further authorization from the FCC, subcarriers and signals within the composite baseband for the following purposes:
 
 (a) Stereophonic (biphonic, quadraphonic, etc.) sound programs under the provisions of §§ 73.667 and 73.669.

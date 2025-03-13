@@ -1,5 +1,7 @@
 ##### § 25.26 Small bank and savings association performance standards. #####
 
+Link to an amendment published at 89 FR 7167, Feb. 1, 2024.
+
 (a) *Performance criteria*—(1) *Small banks and savings associations that are not intermediate small banks or savings associations.* The appropriate Federal banking agency evaluates the record of a small bank or savings association that is not, or that was not during the prior calendar year, an intermediate small bank or savings association, of helping to meet the credit needs of its assessment area(s) pursuant to the criteria set forth in paragraph (b) of this section.
 
 (2) *Intermediate small banks and savings associations.* The appropriate Federal banking agency evaluates the record of a small bank or savings association that is, or that was during the prior calendar year, an intermediate small bank or savings association, of helping to meet the credit needs of its assessment area(s) pursuant to the criteria set forth in paragraphs (b) and (c) of this section.

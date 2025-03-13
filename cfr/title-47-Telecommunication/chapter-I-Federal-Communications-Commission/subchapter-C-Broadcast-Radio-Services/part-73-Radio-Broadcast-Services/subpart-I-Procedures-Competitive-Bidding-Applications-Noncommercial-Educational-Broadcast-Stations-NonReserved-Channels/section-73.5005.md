@@ -1,5 +1,7 @@
 ##### § 73.5005 Filing of long-form applications. #####
 
+Link to an amendment published at 89 FR 7262, Feb. 1, 2024.
+
 (a) Within thirty (30) days following the close of bidding and notification to the winning bidders, unless a longer period is specified by public notice, each winning bidder must submit an appropriate long-form application (FCC Form 301, FCC Form 346, or FCC Form 349) for each construction permit or license for which it was the high bidder. Long-form applications filed by winning bidders shall include the exhibits required by § 1.2107(d) of this chapter (concerning any bidding consortia or joint bidding arrangements); § 1.2110(j) of this chapter (concerning designated entity status, if applicable); and § 1.2112 of this chapter (concerning disclosure of ownership and real party in interest information, and, if applicable, disclosure of gross revenue information for small business applicants).
 
 (b) The long-form application should be submitted pursuant to the rules governing the service in which the applicant is a high bidder and according to the procedures for filing such applications set out by public notice. When electronic procedures become available for the submission of long-form applications, the Commission may require all winning bidders to file their long-form applications electronically.

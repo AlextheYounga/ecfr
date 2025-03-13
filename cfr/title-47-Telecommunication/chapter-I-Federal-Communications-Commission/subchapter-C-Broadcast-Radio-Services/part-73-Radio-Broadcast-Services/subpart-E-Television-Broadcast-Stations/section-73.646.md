@@ -1,5 +1,7 @@
 ##### § 73.646 Telecommunications Service on the Vertical Blanking Interval and in the Visual Signal. #####
 
+Link to an amendment published at 89 FR 7251, Feb. 1, 2024.
+
 (a) Telecommunications services permitted on the vertical blanking interval (VBI) and in the visual signal include the transmission of data, processed information, or any other communication in either a digital or analog mode.
 
 (b) Telecommunications service on the VBI and in the visual signal is of an ancillary nature and as such is an elective, subsidiary activity. No service guidelines, limitations, or performance standards are applied to it. The kinds of service that may be provided include, but are not limited to, teletext, paging, computer software and bulk data distribution, and aural messages. Such services may be provided on a broadcast, point-to-point, or point to multipoint basis.

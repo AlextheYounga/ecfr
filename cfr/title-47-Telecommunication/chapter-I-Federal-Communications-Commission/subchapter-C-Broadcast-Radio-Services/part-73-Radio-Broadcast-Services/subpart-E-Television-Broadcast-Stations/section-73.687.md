@@ -1,5 +1,7 @@
 ##### § 73.687 Transmission system requirements. #####
 
+Link to an amendment published at 89 FR 7253, Feb. 1, 2024.
+
 (a) *Visual transmitter.*
 
 (1) The field strength or voltage of the lower sideband, as radiated or dissipated and measured as described in paragraph (a)(2) of this section, shall not be greater than −20 dB for a modulating frequency of 1.25 MHz or greater and in addition, for color, shall not be greater than −42 dB for a modulating frequency of 3.579545 MHz (the color subcarrier frequency). For both monochrome and color, the field strength or voltage of the upper sideband as radiated or dissipated and measured as described in paragraph (a)(2) of this section shall not be greater than −20 dB for a modulating frequency of 4.75 MHz or greater. For stations operating on Channels 15-36 and employing a transmitter delivering maximum peak visual power output of 1 kW or less, the field strength or voltage of the upper and lower sidebands, as radiated or dissipated and measured as described in paragraph (a)(2) of this section, shall depart from the visual amplitude characteristic (Figure 5a of § 73.699) by no more than the following amounts:

@@ -1,6 +1,6 @@
 ##### § 493.1461 Standard: General supervisor qualifications. #####
 
-Link to an amendment published at 88 FR 90043, Dec. 28, 2023.
+Link to an amendment published at 88 FR 90043, Dec. 28, 2023.Link to a correction published at 89 FR 6431, Feb. 1, 2024.
 
 The laboratory must have one or more general supervisors who, under the direction of the laboratory director and supervision of the technical supervisor, provides day-to-day supervision of testing personnel and reporting of test results. In the absence of the director and technical supervisor, the general supervisor must be responsible for the proper performance of all laboratory procedures and reporting of test results.
 

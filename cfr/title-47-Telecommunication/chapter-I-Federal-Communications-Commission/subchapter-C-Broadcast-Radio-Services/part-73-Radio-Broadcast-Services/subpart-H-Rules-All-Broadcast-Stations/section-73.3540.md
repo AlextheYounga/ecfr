@@ -1,5 +1,7 @@
 ##### § 73.3540 Application for voluntary assignment or transfer of control. #####
 
+Link to an amendment published at 89 FR 7259, Feb. 1, 2024.
+
 (a) Prior consent of the FCC must be obtained for a voluntary assignment or transfer of control.
 
 (b) Application should be filed with the FCC at least 45 days prior to the contemplated effective date of assignment or transfer of control.

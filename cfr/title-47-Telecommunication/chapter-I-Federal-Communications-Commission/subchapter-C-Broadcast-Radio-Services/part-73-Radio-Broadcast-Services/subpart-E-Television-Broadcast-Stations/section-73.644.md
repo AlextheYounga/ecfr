@@ -1,5 +1,7 @@
 ##### § 73.644 Subscription TV transmission systems. #####
 
+Link to an amendment published at 89 FR 7251, Feb. 1, 2024.
+
 (a) Licensees and permittees of commercial and noncommercial TV broadcast and low power TV stations may conduct subscription operations only by using an encoding system that has been approved in advance by the FCC. Such advance approval may be applied for and granted in accordance with the procedures given in subpart M part 2 of the Rules.
 
 (b) The criteria for advance approval of subscription TV transmitting systems by the FCC are as follows:

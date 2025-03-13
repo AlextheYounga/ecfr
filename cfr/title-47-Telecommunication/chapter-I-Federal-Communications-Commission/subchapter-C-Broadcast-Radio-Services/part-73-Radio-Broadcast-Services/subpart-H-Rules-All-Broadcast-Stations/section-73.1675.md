@@ -1,5 +1,7 @@
 ##### § 73.1675 Auxiliary antennas. #####
 
+Link to an amendment published at 89 FR 7256, Feb. 1, 2024.
+
 (a)(1) An auxiliary antenna is one that is permanently installed and available for use when the main antenna is out of service for repairs or replacement. An auxiliary antenna may be located at the same transmitter site as the station's main antenna or at a separate site. The service contour of the auxiliary antenna may not extend beyond the following corresponding contour for the main facility:
 
 (i) AM stations: The 0.5 mV/m field strength contours.

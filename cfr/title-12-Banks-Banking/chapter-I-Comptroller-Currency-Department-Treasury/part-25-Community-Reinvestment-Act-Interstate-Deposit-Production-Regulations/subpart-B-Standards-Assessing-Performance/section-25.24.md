@@ -1,5 +1,7 @@
 ##### § 25.24 Service test. #####
 
+Link to an amendment published at 89 FR 7167, Feb. 1, 2024.
+
 (a) *Scope of test.* The service test evaluates a bank's or savings association's record of helping to meet the credit needs of its assessment area(s) by analyzing both the availability and effectiveness of a bank's or savings association's systems for delivering retail banking services and the extent and innovativeness of its community development services.
 
 (b) *Area(s) benefitted.* Community development services must benefit a bank's or savings association's assessment area(s) or a broader statewide or regional area that includes the bank's or savings association's assessment area(s).

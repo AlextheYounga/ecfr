@@ -1,5 +1,7 @@
 ##### § 73.1545 Carrier frequency departure tolerances. #####
 
+Link to an amendment published at 89 FR 7255, Feb. 1, 2024.
+
 (a) *AM stations.* The departure of the carrier frequency for monophonic transmissions or center frequency for stereophonic transmissions may not exceed ±20 Hz from the assigned frequency.
 
 (b) *FM stations.* (1) The departure of the carrier or center frequency of an FM station with an authorized transmitter output power more than 10 watts may not exceed ±2000 Hz from the assigned frequency.

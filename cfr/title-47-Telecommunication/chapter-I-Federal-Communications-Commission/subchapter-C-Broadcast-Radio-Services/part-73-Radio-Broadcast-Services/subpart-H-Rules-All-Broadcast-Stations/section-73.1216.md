@@ -1,5 +1,7 @@
 ##### § 73.1216 Licensee-conducted contests. #####
 
+Link to an amendment published at 89 FR 7254, Feb. 1, 2024.
+
 (a) A licensee that broadcasts or advertises information about a contest it conducts shall fully and accurately disclose the material terms of the contest, and shall conduct the contest substantially as announced or advertised over the air or on the Internet. No contest description shall be false, misleading or deceptive with respect to any material term.
 
 (b) The disclosure of material terms shall be made by the station conducting the contest by either:

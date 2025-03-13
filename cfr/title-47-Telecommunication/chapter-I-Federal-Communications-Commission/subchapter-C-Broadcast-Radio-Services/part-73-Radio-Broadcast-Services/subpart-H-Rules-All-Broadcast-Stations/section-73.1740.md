@@ -1,5 +1,7 @@
 ##### § 73.1740 Minimum operating schedule. #####
 
+Link to an amendment published at 89 FR 7257, Feb. 1, 2024.
+
 (a) All commercial broadcast stations are required to operate not less than the following minimum hours:
 
 (1) *AM and FM stations.* Two-thirds of the total hours they are authorized to operate between 6 a.m. and 6 p.m. local time and two-thirds of the total hours they are authorized to operate between 6 p.m. and midnight, local time, each day of the week except Sunday.

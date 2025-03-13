@@ -1,5 +1,7 @@
 ##### § 73.6023 Distributed transmission systems. #####
 
+Link to an amendment published at 89 FR 7264, Feb. 1, 2024.
+
 (a) Station licensees may operate a commonly owned group of digital Class A stations with contiguous predicted DTV noise-limited contours (pursuant to § 73.622(e)) on a common television channel in a distributed transmission system.
 
 (b) A Class A DTV station may be authorized to operate multiple synchronized transmitters on its assigned channel to provide service consistent with the requirements of this section. Such operation is called a distributed transmission system (DTS). Except as expressly provided in this section, Class A stations operating a DTS facility must comply with all rules in this part applicable to Digital Class A single-transmitter stations.
