@@ -1,14 +1,12 @@
 ##### § 1146.106 Reimbursement Claims. #####
 
-Link to an amendment published at 88 FR 57872, Aug. 24, 2023.
-
 (a) In order for the eligible dairy organization to receive reimbursement pursuant to § 1146.108, the eligible partnership must submit a Reimbursement Claim Form and appropriate supporting documentation to AMS.
 
 (1) *Required information.* Each Reimbursement Claim Form associated with an approved Dairy Donation and Distribution Plan must include:
 
 (i) The type and amount of eligible dairy products donated to the eligible distributor;
 
-(ii) The physical location(s) of the plant(s) that processed the donated dairy products;
+(ii) The physical address(es) of the plant(s) or co-pack facility(ies) that processed and, if applicable, distribution center(s) that stored the donated dairy products;
 
 (iii) The date the eligible dairy products were processed;
 
@@ -24,4 +22,4 @@ Link to an amendment published at 88 FR 57872, Aug. 24, 2023.
 
 (b) Incomplete reimbursement requests will be returned to the submitter for revision or completion and resubmission as necessary.
 
-[86 FR 48898, Sept. 1, 2021]Effective Date Note:At 86 FR 48898, Sept. 1, 2021, § 1146.106 was revised, effective Sept. 2, 2021 through Sept. 1, 2023.
+[86 FR 48898, Sept. 1, 2021, as amended at 88 FR 57872, Aug. 24, 2023]Effective Date Note:At 86 FR 48898, Sept. 1, 2021, § 1146.106 was revised, effective Sept. 2, 2021 through Sept. 1, 2023.

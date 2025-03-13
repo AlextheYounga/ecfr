@@ -1,10 +1,8 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 88 FR 48052, July 26, 2023.
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at the Department of Energy (DOE) and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Office, EE-5B, 1000 Independence Avenue SW, Washington, DC 20585-0121, (202) 586-9127, *Buildings@ee.doe.gov, www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.* The material may be obtained from the sources in the following paragraphs of this section.
 
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at DOE and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 1000 Independence Ave. SW, EE-5B, Washington, DC 20585, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.* The material may be obtained from the sources in the following paragraphs of this section.
-
-(b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *http://www.amca.org/store/item.aspx?ItemId=81.*
+(b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *https://www.amca.org/store/item.aspx?ItemId=81.*
 
 (1) ANSI/AMCA 210-99, *Laboratory Methods of Testing Fans for Aerodynamic Performance Rating,* ANSI-approved December 2, 1999; IBR approved for appendices CC and CC1 to subpart B. (Co-published as ANSI/ASHRAE 51-1999.)
 
@@ -22,7 +20,7 @@ Link to an amendment published at 88 FR 48052, July 26, 2023.
 
 (6) AMCA 230-15 Technical Errata 2021-05-05 (“AMCA 260-15 TE), *Technical Errata Sheet for ANSI/AMCA Standard 230-15: Density Corrections,* dated May 5, 2021; IBR approved for appendix U of subpart B.
 
-(c) *AHRI.* Air-Conditioning, Heating, and Refrigeration Institute, 2111 Wilson Blvd, Suite 500, Arlington, VA 22201, 703-524-8800, or go to *http://www.ahrinet.org.*
+(c) *AHRI.* Air-Conditioning, Heating, and Refrigeration Institute, 2111 Wilson Blvd, Suite 500, Arlington, VA 22201, 703-524-8800, or go to *https://www.ahrinet.org.*
 
 (1) ANSI/AHRI 210/240-2008 with Addenda 1 and 2 (”AHRI 210/240-2008”), 2008 Standard for Performance Rating of Unitary Air-Conditioning & Air-Source Heat Pump Equipment, ANSI approved October 27, 2011 (Addendum 1 dated June 2011 and Addendum 2 dated March 2012), IBR approved for appendices M and M1 to subpart B, as follows:
 
@@ -62,7 +60,7 @@ Link to an amendment published at 88 FR 48052, July 26, 2023.
 
 (3) AATCC Test Method 135-2010, Dimensional Changes of Fabrics after Home Laundering, Revised 2010, IBR approved for Appendix J3 to Subpart B.
 
-(e) *ANSI.* American National Standards Institute, 25 W. 43rd Street, 4th Floor, New York, NY 10036, 212-642-4900, or go to *http://www.ansi.org.*
+(e) *ANSI.* American National Standards Institute, 25 W. 43rd Street, 4th Floor, New York, NY 10036, 212-642-4900, or go to *https://www.ansi.org.*
 
 (1) ANSI C78.3-1991 (“ANSI C78.3”), American National Standard for Fluorescent Lamps-Instant-start and Cold-Cathode Types-Dimensional and Electrical Characteristics, approved July 15, 1991; IBR approved for § 430.32.
 
@@ -262,13 +260,13 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (3) ASME A112.19.2-2018/CSA B45.1-18 (“ASME A112.19.2-2018”), “Ceramic plumbing fixtures”, July 2018 (including Errata—October 2018); IBR approved for appendix T to subpart B.
 
-(i) *AHAM.* Association of Home Appliance Manufacturers, 1111 19th Street NW, Suite 402, Washington, DC 20036, 202-872-5955, or go to *http://www.aham.org.*
+(i) *AHAM.* Association of Home Appliance Manufacturers, 1111 19th Street NW, Suite 402, Washington, DC 20036, 202-872-5955, or go to *https:////www.aham.org.*
 
 (1) ANSI/AHAM AC-1-2020, (“AHAM AC-1-2020”), *Method for Measuring Performance of Portable Household Electric Room Air Cleaners,* ANSI-approved December 14, 2020, including AHAM Standard Interpretation dated September 19, 2022; IBR approved for appendix FF to subpart B.
 
 (2) AHAM AC-7-2022, *Energy Test Method for Consumer Room Air Cleaners,* copyright 2022; IBR approved for § 430.2 and appendix FF to subpart B.
 
-(3) ANSI/AHAM DH-1-2008 (“ANSI/AHAM DH-1”), Dehumidifiers, ANSI approved May 9, 2008, IBR approved for appendices X and X1 to subpart B of this part.
+(3) AHAM DH-1-2022, *Energy Measurement Test Procedure for Dehumidifiers,* copyright 2022; IBR approved for appendix X1 to subpart B.
 
 (4) AHAM DW-1-2020, Uniform Test Method for Measuring the Energy Consumption of Dishwashers, copyright 2020; IBR approved for § 430.32; appendices C1 and C2 to subpart B.
 
@@ -310,7 +308,7 @@ ASTM E97-1987 was withdrawn in 1991. It is reasonably available from standards r
 
 (2) [Reserved]
 
-(m) *CIE.* Commission Internationale de l'Eclairage (CIE), Central Bureau, Kegelgasse 27, A-1030, Vienna, Austria, 011 + 43 1 714 31 87 0, or go to *http://www.cie.co.at.*
+(m) *CIE.* Commission Internationale de l'Eclairage (CIE), Central Bureau, Kegelgasse 27, A-1030, Vienna, Austria, 011 + 43 1 714 31 87 0, or go to *https://www.cie.co.at.*
 
 (1) CIE 13.3-1995 (“CIE 13.3”), Technical Report: Method of Measuring and Specifying Colour Rendering Properties of Light Sources, 1995, ISBN 3 900 734 57 7; IBR approved for § 430.2 and appendices R and W to subpart B.
 
@@ -324,15 +322,13 @@ ASTM E97-1987 was withdrawn in 1991. It is reasonably available from standards r
 
 (2) [Reserved]
 
-(o) *Environmental Protection Agency (EPA),* ENERGY STAR documents published by the Environmental Protection Agency are available online at *http://www.energystar.gov* or by contacting the Energy Star hotline at 1-888-782-7937.
+(o) *Environmental Protection Agency (EPA),* ENERGY STAR documents published by the Environmental Protection Agency are available online at *https://www.energystar.gov* or by contacting the Energy Star hotline at 1-888-782-7937.
 
 (1) ENERGY STAR Testing Facility Guidance Manual: Building a Testing Facility and Performing the Solid State Test Method for ENERGY STAR Qualified Ceiling Fans, Version 1.1, approved December 9, 2002, IBR approved for appendix U to subpart B.
 
-(2) ENERGY STAR Program Requirements for Dehumidifiers, approved January 1, 2001, IBR approved for appendix X to subpart B.
+(2) Energy Star Program Requirements for Single Voltage External Ac-Dc and Ac-Ac Power Supplies, Eligibility Criteria (Version 2.0), effective date for EPS Manufacturers November 1, 2008, IBR approved for subpart C, § 430.32.
 
-(3) Energy Star Program Requirements for Single Voltage External Ac-Dc and Ac-Ac Power Supplies, Eligibility Criteria (Version 2.0), effective date for EPS Manufacturers November 1, 2008, IBR approved for subpart C, § 430.32.
-
-(4) Test Methodology for Determining the Energy Performance of Battery Charging Systems, approved December 2005, IBR approved for appendix Y to subpart B.
+(3) Test Methodology for Determining the Energy Performance of Battery Charging Systems, approved December 2005, IBR approved for appendix Y to subpart B.
 
 (p) *HDMI*®. High-Definition Multimedia Interface Licensing, LLC, 1140 East Arques Avenue, Suite 100, Sunnyvale, CA 94085, 408-616-1542, or go to *www.hdmi.org.*
 
@@ -370,13 +366,11 @@ ASTM E97-1987 was withdrawn in 1991. It is reasonably available from standards r
 
 (5) IEC 62301, *Household electrical appliances—Measurement of standby power,* first edition, June 2005; IBR approved for appendices I, I1 to subpart B.
 
-(6) IEC 62301 (“IEC 62301”), *Household electrical appliances—Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, C2, D1, D2, F, G, I I1, J, J2, N, O, P, Q, U, X, X1, Y, Y1, Z, BB, and CC, CC1, EE, and FF to subpart B.
+(6) IEC 62301 (“IEC 62301”), *Household electrical appliances—Measurement of standby power,* (Edition 2.0, 2011-01); IBR approved for appendices C1, C2, D1, D2, F, G, I, I1, J, J2, N, O, P, Q, U, X1, Y, Y1, Z, BB, CC, CC1, EE, and FF to subpart B.
 
 (7) IEC 62301, (“IEC 62301-DD”), Household electrical appliances—Measurement of standby power, (Edition 2.0, 2011-01); Section 5—Measurements, IBR approved for appendix DD to subpart B.
 
-(8) [Reserved]
-
-(9) IEC 62301, (“IEC 62301-W”), Household electrical appliances—Measurement of standby power, (Edition 2.0, 2011-01), Section 5—Measurements, IBR approved for appendix W to subpart B.
+(8) IEC 62301, (“IEC 62301-W”), Household electrical appliances—Measurement of standby power, (Edition 2.0, 2011-01), Section 5—Measurements, IBR approved for appendix W to subpart B.
 
 (r) *IES.* Illuminating Engineering Society (formerly Illuminating Engineering Society of North America—IESNA), 120 Wall Street, Floor 17, New York, NY 10005-4001, 212-248-5000, or go to *www.ies.org.*
 
@@ -492,7 +486,7 @@ ASTM E97-1987 was withdrawn in 1991. It is reasonably available from standards r
 
 (2) [Reserved]
 
-(t) *U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy.* Resource Room of the Building Technologies Program, 950 L'Enfant Plaza SW., 6th Floor, Washington, DC 20024, 202-586-2945, (Energy Star materials are also found at *http://www.energystar.gov.*)
+(t) *U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy.* Resource Room of the Building Technologies Program, 950 L'Enfant Plaza SW., 6th Floor, Washington, DC 20024, 202-586-2945, (Energy Star materials are also found at *https://www.energystar.gov.*)
 
 (1) ITU-R BT.470-6, Conventional Television Systems, published November 1998; IBR approved for § 430.2.
 
@@ -500,13 +494,13 @@ ASTM E97-1987 was withdrawn in 1991. It is reasonably available from standards r
 
 (3) International Efficiency Marking Protocol for External Power Supplies, Version 3.0, September 2013, IBR approved for § 430.32.
 
-(u) *NSF International.* NSF International, P.O. Box 130140, 789 North Dixboro Road, Ann Arbor, MI 48113-0140, 1-800-673-6275, or go to *http://www.nsf.org.*
+(u) *NSF International.* NSF International, P.O. Box 130140, 789 North Dixboro Road, Ann Arbor, MI 48113-0140, 1-800-673-6275, or go to *https://www.nsf.org.*
 
 (1) NSF/ANSI 51-2007 (“NSF/ANSI 51”), Food equipment materials, revised and adopted April 2007, IBR approved for §§ 430.2 and 430.32.
 
 (2) [Reserved]
 
-(v) *Optical Society of America. Optical Society of America,* 2010 Massachusetts Ave., NW., Washington, DC 20036-1012, 202-223-8130, or go to *http://www.opticsinfobase.org;*
+(v) *Optical Society of America. Optical Society of America,* 2010 Massachusetts Ave., NW., Washington, DC 20036-1012, 202-223-8130, or go to *https://www.opticsinfobase.org;*
 
 (1) “Computation of Correlated Color Temperature and Distribution Temperature,” A.R. Robertson, Journal of the Optical Society of America, Volume 58, Number 11, November 1968, pages 1528-1535, IBR approved for § 430.2.
 
@@ -518,7 +512,7 @@ ASTM E97-1987 was withdrawn in 1991. It is reasonably available from standards r
 
 (2) [Reserved]
 
-(x) *SMPTE.* Society of Motion Picture and Television Engineers, 3 Barker Ave., 5th Floor, White Plains, NY 10601, 914-761-1100, or go to *http://standards.smpte.org.*
+(x) *SMPTE.* Society of Motion Picture and Television Engineers, 3 Barker Ave., 5th Floor, White Plains, NY 10601, 914-761-1100, or go to *https://standards.smpte.org.*
 
 (1) SMPTE 170M-2004, (“SMPTE 170M-2004”), *SMPTE Standard for Television—Composite Analog Video Signal—NTSC for Studio Applications,* approved November 30, 2004; IBR approved for § 430.2.
 

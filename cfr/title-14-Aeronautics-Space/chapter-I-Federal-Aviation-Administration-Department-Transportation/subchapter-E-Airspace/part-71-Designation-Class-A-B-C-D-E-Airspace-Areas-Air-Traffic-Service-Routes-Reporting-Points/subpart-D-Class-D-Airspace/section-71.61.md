@@ -1,5 +1,7 @@
 ##### § 71.61 Class D airspace. #####
 
+Link to an amendment published at 88 FR 58072, Aug. 25, 2023.
+
 The Class D airspace areas listed in subpart D of FAA Order JO 7400.11G (incorporated by reference, see § 71.1) consist of specified airspace within which all aircraft operators are subject to operating rules and equipment requirements specified in part 91 of this chapter. Each Class D airspace area designated for an airport in subpart D of FAA Order JO 7400.11G (incorporated by reference, see § 71.1) contains at least one primary airport around which the airspace is designated.
 
 [Doc. No. 29334, 73 FR 54495, Sept. 22, 2008, as amended by Amdt. 71-40, 73 FR 60940, Oct. 15, 2008; Amdt. 71-41, 74 FR 46490, Sept. 10, 2009; Amdt. 71-42, 75 FR 55269, Sept. 10, 2010; Amdt. 71-43, 76 FR 53329, Aug. 26, 2011; Amdt. 71-44, 77 FR 50908, Aug. 23, 2012; Amdt. 71-45, 78 FR 52848, Aug. 27, 2013; Amdt. 71-46, 79 FR 51888, Sept. 2, 2014; Amdt. 71-47, 80 FR 51937, Aug. 27, 2015; Amdt. 71-48, 81 FR 55372, Aug. 19, 2016; Amdt. 71-49, 82 FR 40069, Aug. 24, 2017; Amdt. 71-50, 83 FR 43757, Aug. 28, 2018; Amdt. 71-51, 84 FR 45652, Aug. 30, 2019; Amdt. 71-52, 85 FR 50780, Aug. 18, 2020; Amdt. No. 71-53, 86 FR 46963, Aug. 23, 2021; Docket No. FAA-2022-1022, Amdt. No. 71-54, 87 FR 54878, Sept. 8, 2022]Effective Date Note:By Docket No. FAA-2022-1022, Amdt. No. 71-54, 87 FR 54878, Sept. 8, 2022, § 71.61 was amended by removing the words “FAA Order 7400.11F” and adding, in their place, the words “FAA Order JO 7400.11G”, effective Sept. 15, 2022, through Sept. 15, 2023.

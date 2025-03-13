@@ -1,7 +1,5 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 88 FR 48051, July 26, 2023.
-
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows—
 
 *3-Way incandescent lamp* means an incandescent lamp that—
@@ -816,7 +814,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Portable air conditioner* means a portable encased assembly, other than a “packaged terminal air conditioner,” “room air conditioner,” or “dehumidifier,” that delivers cooled, conditioned air to an enclosed space, and is powered by single-phase electric current. It includes a source of refrigeration and may include additional means for air circulation and heating.
 
-*Portable dehumidifier* means a dehumidifier designed to operate within the dehumidified space without the attachment of additional ducting, although means may be provided for optional duct attachment.
+*Portable dehumidifier* means a dehumidifier that, in accordance with any manufacturer instructions available to a consumer, operates within the dehumidified space without the attachment of additional ducting, although means may be provided for optional duct attachment.
 
 *Portable electric heater* means an electric heater which is intended to stand unsupported, and can be moved from place to place within a structure. It is connected to electric supply by means of a cord and plug, and transfers heat by radiation and/or convention (either natural or forced).
 
@@ -1125,6 +1123,6 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Weatherized warm air furnace or boiler* means a furnace or boiler designed for installation outdoors, approved for resistance to wind, rain, and snow, and supplied with its own venting system.
 
-*Whole-home dehumidifier* means a dehumidifier designed to be installed with ducting to deliver return process air to its inlet and to supply dehumidified process air from its outlet to one or more locations in the dehumidified space.
+*Whole-home dehumidifier* means a dehumidifier that, in accordance with any manufacturer instructions available to a consumer, operates with ducting to deliver return process air to its inlet and to supply dehumidified process air from its outlet to one or more locations in the dehumidified space.
 
 [42 FR 27898, June 1, 1977]Editorial Note:For Federal Register citations affecting § 430.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

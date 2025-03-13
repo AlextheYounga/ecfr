@@ -1,5 +1,7 @@
 ##### § 71.901 Applicability. #####
 
+Link to an amendment published at 88 FR 58072, Aug. 25, 2023.
+
 Unless otherwise designated:
 
 (a) Each reporting point listed in subpart H of FAA Order JO 7400.11G (incorporated by reference, see § 71.1) applies to all directions of flight. In any case where a geographic location is designated as a reporting point for less than all airways passing through that point, or for a particular direction of flight along an airway only, it is so indicated by including the airways or direction of flight in the designation of geographical location.

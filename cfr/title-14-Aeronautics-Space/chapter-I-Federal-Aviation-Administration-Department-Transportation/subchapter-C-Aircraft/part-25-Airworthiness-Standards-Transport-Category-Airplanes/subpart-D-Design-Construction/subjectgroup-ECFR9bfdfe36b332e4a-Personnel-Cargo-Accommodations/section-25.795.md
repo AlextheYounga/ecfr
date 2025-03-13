@@ -1,7 +1,5 @@
 ##### § 25.795 Security considerations. #####
 
-Link to an amendment published at 88 FR 41308, June 26, 2023.
-
 (a) *Protection of flightcrew compartment.* If a flightdeck door is required by operating rules:
 
 (1) The bulkhead, door, and any other accessible boundary separating the flightcrew compartment from occupied areas must be designed to resist forcible intrusion by unauthorized persons and be capable of withstanding impacts of 300 joules (221.3 foot pounds).
@@ -9,6 +7,20 @@ Link to an amendment published at 88 FR 41308, June 26, 2023.
 (2) The bulkhead, door, and any other accessible boundary separating the flightcrew compartment from occupied areas must be designed to resist a constant 250 pound (1,113 Newtons) tensile load on accessible handholds, including the doorknob or handle.
 
 (3) The bulkhead, door, and any other boundary separating the flightcrew compartment from any occupied areas must be designed to resist penetration by small arms fire and fragmentation devices to a level equivalent to level IIIa of the National Institute of Justice (NIJ) Standard 0101.04.
+
+(4) If required by the operating rules of this chapter, an installed physical secondary barrier (IPSB) must be installed to resist intrusion into the flightdeck whenever the flightdeck door is opened. When deployed, the IPSB must:
+
+(i) Resist a 250 pound (1113 Newtons) static load in the direction of the passenger cabin applied at the most critical locations on the IPSB;
+
+(ii) Resist a 600 pound (2669 Newtons) static load in the direction of the flightdeck applied at the most critical locations on the IPSB;
+
+(iii) Delay a person attempting to access the flightdeck by at least the time required for a crewmember to open and reclose the flightdeck door, but no less than 5 seconds;
+
+(iv) Prevent a person from reaching through and touching the flightdeck door;
+
+(v) Allow for necessary crewmember activities; and
+
+(vi) Provide line-of-sight visibility between the flightdeck door and the cabin.
 
 (b) Airplanes with a maximum certificated passenger seating capacity of more than 60 persons or a maximum certificated takeoff gross weight of over 100,000 pounds (45,359 Kilograms) must be designed to limit the effects of an explosive or incendiary device as follows:
 
@@ -68,4 +80,4 @@ Link to an amendment published at 88 FR 41308, June 26, 2023.
 
 (3) You may obtain copies of NIJ Standard 0101.04 from the National Criminal Justice Reference Service, P.O. Box 6000, Rockville, MD 20849-6000, telephone (800) 851-3420.
 
-[Amdt. 25-127; 121-341, 73 FR 63879, Oct. 28, 2008, as amended at 74 FR 22819, May 15, 2009; Amdt. 25-138, 79 FR 13519, Mar. 11, 2014; Doc. No. FAA-2018-0119, Amdt. 25-145, 83 FR 9169, Mar. 5, 2018]
+[Amdt. 25-127; 121-341, 73 FR 63879, Oct. 28, 2008, as amended at 74 FR 22819, May 15, 2009; Amdt. 25-138, 79 FR 13519, Mar. 11, 2014; Doc. No. FAA-2018-0119, Amdt. 25-145, 83 FR 9169, Mar. 5, 2018; Amdt. 25-150, 88 FR 41308, June 26, 2023]

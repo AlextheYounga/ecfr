@@ -1,7 +1,5 @@
 ##### § 121.313 Miscellaneous equipment. #####
 
-Link to an amendment published at 88 FR 41308, June 26, 2023.
-
 No person may conduct any operation unless the following equipment is installed in the airplane:
 
 (a) If protective fuses are installed on an airplane, the number of spare fuses approved for that airplane and appropriately described in the certificate holder's manual.
@@ -34,4 +32,6 @@ No person may conduct any operation unless the following equipment is installed 
 
 (k) Except for all-cargo operations as defined in § 110.2 of this chapter, for all passenger-carrying airplanes that require a lockable flightdeck door in accordance with paragraph (f) of this section, a means to monitor from the flightdeck side of the door the area outside the flightdeck door to identify persons requesting entry and to detect suspicious behavior and potential threats.
 
-[Doc. No. 6258, 29 FR 19205, Dec. 31, 1964, as amended by Amdt. 121-5, 30 FR 6113, Apr. 30, 1965; Amdt. 121-251, 60 FR 65931, Dec. 20, 1995; Amdt. 121-288, 67 FR 2127, Jan. 15, 2002; Amdt. 121-299, 68 FR 42881, July 18, 2003; Amdt. 121-334, 72 FR 45635, Aug. 15, 2007; Amdt. 121-353, 76 FR 7488, Feb. 10, 2011]
+(l) For airplanes required by paragraph (f) of this section to have a door between the passenger and pilot or crew rest compartments, and for passenger-carrying transport category airplanes that have a door installed between the pilot compartment and any other occupied compartment, that were manufactured after August 25, 2025, an installed physical secondary barrier (IPSB) that meets the requirements of § 25.795(a)(4) of this chapter in effect on August 25, 2023.
+
+[Doc. No. 6258, 29 FR 19205, Dec. 31, 1964, as amended by Amdt. 121-5, 30 FR 6113, Apr. 30, 1965; Amdt. 121-251, 60 FR 65931, Dec. 20, 1995; Amdt. 121-288, 67 FR 2127, Jan. 15, 2002; Amdt. 121-299, 68 FR 42881, July 18, 2003; Amdt. 121-334, 72 FR 45635, Aug. 15, 2007; Amdt. 121-353, 76 FR 7488, Feb. 10, 2011; Amdt. No. 121-389, 88 FR 41308, June 26, 2023]
