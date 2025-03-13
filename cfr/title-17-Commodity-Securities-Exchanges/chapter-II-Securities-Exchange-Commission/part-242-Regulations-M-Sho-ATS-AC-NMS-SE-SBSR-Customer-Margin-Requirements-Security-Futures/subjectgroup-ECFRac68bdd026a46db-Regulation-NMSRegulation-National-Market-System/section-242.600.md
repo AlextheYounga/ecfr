@@ -1,5 +1,7 @@
 ##### § 242.600 NMS security designation and definitions. #####
 
+Link to an amendment published at 89 FR 81772, Oct. 8, 2024.
+
 (a) The term *national market system security* as used in section 11A(a)(2) of the Act (15 U.S.C. 78k-1(a)(2)) shall mean any NMS security as defined in paragraph (b) of this section.
 
 (b)(1) *Actionable indication of interest* means any indication of interest that explicitly or implicitly conveys all of the following information with respect to any order available at the venue sending the indication of interest:

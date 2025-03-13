@@ -1,7 +1,5 @@
 ##### § 35.104 Definitions. #####
 
-Link to an amendment published at 89 FR 65187, Aug. 9, 2024.
-
 For purposes of this part, the term—
 
 *1991 Standards* means the requirements set forth in the ADA Standards for Accessible Design, originally published on July 26, 1991, and republished as Appendix D to 28 CFR part 36.
@@ -60,6 +58,8 @@ For purposes of this part, the term—
 
 *Individual with a disability* means a person who has a disability. The term *individual with a disability* does not include an individual who is currently engaging in the illegal use of drugs, when the public entity acts on the basis of such use.
 
+*Medical diagnostic equipment* (“*MDE*”) means equipment used in, or in conjunction with, medical settings by health care providers for diagnostic purposes. MDE includes, for example, examination tables, examination chairs (including chairs used for eye examinations or procedures and dental examinations or procedures), weight scales, mammography equipment, x-ray machines, and other radiological equipment commonly used for diagnostic purposes by health professionals.
+
 *Mobile applications (“apps”)* means software applications that are downloaded and designed to run on mobile devices, such as smartphones and tablets.
 
 *Other power-driven mobility device* means any mobility device powered by batteries, fuel, or other engines—whether or not designed primarily for use by individuals with mobility disabilities—that is used by individuals with mobility disabilities for the purpose of locomotion, including golf cars, electronic personal assistance mobility devices (EPAMDs), such as the Segway® PT, or any mobility device designed to operate in areas without defined pedestrian routes, but that is not a wheelchair within the meaning of this section. This definition does not apply to Federal wilderness areas; wheelchairs in such areas are defined in section 508(c)(2) of the ADA, 42 U.S.C. 12207(c)(2).
@@ -84,6 +84,8 @@ For purposes of this part, the term—
 
 *Special district government* means a public entity—other than a county, municipality, township, or independent school district—authorized by State law to provide one function or a limited number of designated functions with sufficient administrative and fiscal autonomy to qualify as a separate government and whose population is not calculated by the United States Census Bureau in the most recent decennial Census or Small Area Income and Poverty Estimates.
 
+*Standards for Accessible Medical Diagnostic Equipment* (“*Standards for Accessible MDE*”) means the standards promulgated by the Architectural and Transportation Barriers Compliance Board under section 510 of the Rehabilitation Act of 1973, as amended, found at 36 CFR part 1195 (revised as of July 1, 2017), with the exception of M301.2.2 and M302.2.2.
+
 *State* means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
 *Total population* means—
@@ -106,4 +108,4 @@ For purposes of this part, the term—
 
 *Wheelchair* means a manually-operated or power-driven device designed primarily for use by an individual with a mobility disability for the main purpose of indoor or of both indoor and outdoor locomotion. This definition does not apply to Federal wilderness areas; wheelchairs in such areas are defined in section 508(c)(2) of the ADA, 42 U.S.C. 12207(c)(2).
 
-[Order No. 1512-91, 56 FR 35716, July 26, 1991, as amended by AG Order No. 3180-2010, 75 FR 56177, Sept. 15, 2010; 76 FR 13285, Mar. 11, 2011; AG Order 3702-2016, 81 FR 53223, Aug. 11, 2016; AG Order No. 5919-2024, 89 FR 31336, Apr. 24, 2024]
+[Order No. 1512-91, 56 FR 35716, July 26, 1991, as amended by AG Order No. 3180-2010, 75 FR 56177, Sept. 15, 2010; 76 FR 13285, Mar. 11, 2011; AG Order 3702-2016, 81 FR 53223, Aug. 11, 2016; AG Order No. 5919-2024, 89 FR 31336, Apr. 24, 2024; AG Order No. 5982-2024, 89 FR 65187, Aug. 9, 2024]

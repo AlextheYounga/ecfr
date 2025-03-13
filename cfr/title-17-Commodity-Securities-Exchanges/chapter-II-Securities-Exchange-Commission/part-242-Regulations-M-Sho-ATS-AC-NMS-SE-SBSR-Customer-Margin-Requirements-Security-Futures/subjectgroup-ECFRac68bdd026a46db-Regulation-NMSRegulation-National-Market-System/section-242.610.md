@@ -1,5 +1,7 @@
 ##### § 242.610 Access to quotations. #####
 
+Link to an amendment published at 89 FR 81773, Oct. 8, 2024.
+
 (a) *Quotations of SRO trading facility.* A national securities exchange or national securities association shall not impose unfairly discriminatory terms that prevent or inhibit any person from obtaining efficient access through a member of the national securities exchange or national securities association to the quotations in an NMS stock displayed through its SRO trading facility.
 
 (b) *Quotations of SRO display-only facility.* (1) Any trading center that displays quotations in an NMS stock through an SRO display-only facility shall provide a level and cost of access to such quotations that is substantially equivalent to the level and cost of access to quotations displayed by SRO trading facilities in that stock.

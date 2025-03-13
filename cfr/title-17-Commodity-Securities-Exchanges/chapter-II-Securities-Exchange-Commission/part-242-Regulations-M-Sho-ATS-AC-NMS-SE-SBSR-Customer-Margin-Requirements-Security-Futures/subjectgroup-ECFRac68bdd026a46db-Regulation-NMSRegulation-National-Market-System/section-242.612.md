@@ -1,5 +1,7 @@
 ##### § 242.612 Minimum pricing increment. #####
 
+Link to an amendment published at 89 FR 81774, Oct. 8, 2024.
+
 (a) No national securities exchange, national securities association, alternative trading system, vendor, or broker or dealer shall display, rank, or accept from any person a bid or offer, an order, or an indication of interest in any NMS stock priced in an increment smaller than $0.01 if that bid or offer, order, or indication of interest is priced equal to or greater than $1.00 per share.
 
 (b) No national securities exchange, national securities association, alternative trading system, vendor, or broker or dealer shall display, rank, or accept from any person a bid or offer, an order, or an indication of interest in any NMS stock priced in an increment smaller than $0.0001 if that bid or offer, order, or indication of interest is priced less than $1.00 per share.

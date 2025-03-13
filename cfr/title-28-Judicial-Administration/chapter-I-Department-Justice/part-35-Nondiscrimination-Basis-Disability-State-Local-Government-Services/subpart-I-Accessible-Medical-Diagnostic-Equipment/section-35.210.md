@@ -1,0 +1,3 @@
+##### § 35.210 Requirements for medical diagnostic equipment. #####
+
+No qualified individual with a disability shall, on the basis of disability, be excluded from participation in or be denied the benefits of the health care services, programs, or activities of a public entity offered through or with the use of medical diagnostic equipment (“MDE”), or otherwise be subjected to discrimination by any public entity because the public entity's MDE is not readily accessible to or usable by persons with disabilities.
