@@ -16,7 +16,7 @@
 
 (4) Use and amount of noncarcass merit premiums and discounts.
 
-(e) *Where and how do I send my contracts?* Each packer may submit the example contracts, notifications required by this section, and Form P&SP 342, Contract Submission Cover Sheet, by either of the following two methods:
+(e) *Where and how do I send my contracts?* Each packer may submit the example contracts, notifications required by this section, and Form PSD 342, Contract Submission Cover Sheet, by either of the following two methods:
 
 (1*) Electronic report.* Example contracts and notifications required by this section may be submitted by electronic means. Electronic submission may be by any form of electronic transmission that has been determined to be acceptable to the Administrator. To obtain current options for acceptable methods to submit example contracts electronically, contact PSD through the Internet on the AMS website (*https://www.ams.usda.gov*) or at USDA, AMS, Suite 317, 210 Walnut Street, Des Moines, Iowa 50309.
 
@@ -28,4 +28,4 @@
 
 (h) *What do I need to do when a previously submitted example contract is no longer a valid example due to contract changes, expiration, or withdrawal?* Each packer must submit a new example contract when contract changes result in changes to any of the four example-contract criteria specified in paragraph (d) of this section and notify PSD if the new example contract replaces the previously submitted example contract. Each packer must notify AMS when an example contract no longer represents any existing or available contract (expired or withdrawn). Each packer must submit these example contracts and notifications within 1 business day of the change, expiration, or withdrawal.
 
-[75 FR 16642, Apr. 2, 2010, as amended at 84 FR 45649, Aug. 30, 2019]
+[75 FR 16642, Apr. 2, 2010, as amended at 84 FR 45649, Aug. 30, 2019; 88 FR 62696, Sept. 13, 2023]

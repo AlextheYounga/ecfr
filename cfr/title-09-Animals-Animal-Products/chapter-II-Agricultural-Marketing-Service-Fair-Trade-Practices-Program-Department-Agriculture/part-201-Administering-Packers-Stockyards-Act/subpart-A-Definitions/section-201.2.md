@@ -8,11 +8,11 @@ The definitions of terms contained in the Act shall apply to such terms when use
 
 (c) *Secretary* means the Secretary of Agriculture of the United States, or any officer or employee of the Department authorized to act for the Secretary.
 
-(d) *Administration* or *agency* means the Grain Inspection, Packers and Stockyards Administration (Packers and Stockyards Programs).
+(d) *Administration* or *agency* means the Agricultural Marketing Service.
 
 (e) *Administrator* or *agency head* means the Administrator of the Administration or any person authorized to act for the Administrator.
 
-(f) *Regional director* means the regional director of the Packers and Stockyards Division (PSD) for a given region or any person authorized to act for the regional director.
+(f) *Regional Director* means the Regional Director of the Packers and Stockyards Division (PSD) for a given region or any person authorized to act for the Regional Director.
 
 (g) *Person* means individuals, partnerships, corporations, and associations.
 
@@ -30,4 +30,4 @@ The definitions of terms contained in the Act shall apply to such terms when use
 
 (n) *Additional capital investment* means a combined amount of $12,500 or more per structure paid by a poultry grower or swine production contract grower over the life of the poultry growing arrangement or swine production contract beyond the initial investment for facilities used to grow, raise and care for poultry or swine. Such term includes the total cost of upgrades to the structure, upgrades of equipment located in and around each structure, goods and professional services that are directly attributable to the additional capital investment. The term does not include costs of maintenance or repair.
 
-[46 FR 50510, Oct. 14, 1981, as amended at 76 FR 76888, Dec. 9, 2011; 80 FR 6430, Feb. 5, 2015; 84 FR 45647, Aug. 30, 2019]
+[46 FR 50510, Oct. 14, 1981, as amended at 76 FR 76888, Dec. 9, 2011; 80 FR 6430, Feb. 5, 2015; 84 FR 45647, Aug. 30, 2019; 88 FR 62695, Sept. 13, 2023]

@@ -4,7 +4,7 @@
 
 (b) *When is the monthly report due?* Each packer must send a separate monthly report for each plant that has the slaughtering capacity, alone or in combination with other plants specified in the definition of packer in § 206.1. Each packer must deliver the report to the AMS Regional Office in Des Moines, Iowa, by the close of business on the 15th of each month, beginning at least 45 days after the initial submission of example contracts. If the 15th day of a month falls on a Saturday, Sunday, or federal holiday, the monthly report is due no later than the close of the next business day following the 15th.
 
-(c) *What information do I need to provide in the monthly report?* The monthly report that each packer files must be reported on Form P&SP-341, which will be available on the Internet on the AMS website (*https://www.ams.usda.gov*) and at USDA, AMS, Suite 317, 210 Walnut Street, Des Moines, Iowa 50309. In the monthly report, each packer must provide the following information:
+(c) *What information do I need to provide in the monthly report?* The monthly report that each packer files must be reported on Form PSD 341, which will be available on the Internet on the AMS website (*https://www.ams.usda.gov*) and at USDA, AMS, Suite 317, 210 Walnut Street, Des Moines, Iowa 50309. In the monthly report, each packer must provide the following information:
 
 (1) *Number of swine to be delivered under existing contracts.* Existing contracts are contracts the packer currently is using for the purchase of swine for slaughter at each plant. Each packer must provide monthly estimates of the number of swine committed to be delivered under all of its existing contracts (even if those contracts are not currently available for renewal or to additional producers) in each contract type as defined in § 206.1.
 
@@ -50,4 +50,4 @@
 
 (h) *Where and how do I file a waiver request?* The waiver request must be submitted in writing and include a statement that the packer does not procure swine using marketing agreements. The packer must send the waiver request to the PSD Regional Office in Des Moines, Iowa. If the waiver request is approved, PSD will inform the packer in writing that it has been granted a waiver for 12 months following the date of receipt of the waiver request unless the status of the packer changes during that year. The packer will be notified to submit the information required in this part if it begins using marketing agreements during the waiver period or if PSD determines that the packer utilizes marketing agreements.
 
-[75 FR 16642, Apr. 2, 2010, as amended at 84 FR 45649, Aug. 30, 2019]
+[75 FR 16642, Apr. 2, 2010, as amended at 84 FR 45649, Aug. 30, 2019; 88 FR 62696, Sept. 13, 2023]
