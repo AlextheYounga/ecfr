@@ -1,5 +1,7 @@
 ##### § 52.177 Application for renewal. #####
 
+Link to an amendment published at 89 FR 57721, July 16, 2024.
+
 (a) Not less than 12 months, nor more than 5 years before the expiration of the manufacturing license, or any later renewal period, the holder of the manufacturing license may apply for a renewal of the license. An application for renewal must contain all information necessary to bring up to date the information and data contained in the previous application.
 
 (b) The filing of an application for a renewed license must be in accordance with subpart A of 10 CFR part 2 and 10 CFR 52.3 and 50.30.

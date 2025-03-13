@@ -2,7 +2,11 @@
 
 (a) Written medical documentation is required in all cases to prove that the employee developed a covered beryllium illness. Proof that the employee developed a covered beryllium illness must be made by using the procedures outlined in paragraph (b), (c), (d) or (e) of this section.
 
-(b) Beryllium sensitivity or sensitization is established with an abnormal LPT performed on either blood or lung lavage cells.
+(b) Beryllium sensitivity or sensitization is established with either:
+
+(1) An abnormal beryllium LPT performed on either blood or lung lavage cells; or
+
+(2) Three borderline beryllium LPTs performed on blood cells over a period of 3 years.
 
 (c) Chronic beryllium disease is established in the following manner:
 
@@ -40,4 +44,4 @@
 
 (e) An injury, illness, impairment or disability sustained as a consequence of beryllium sensitivity or established chronic beryllium disease must be established with a fully rationalized medical report by a physician that shows the relationship between the injury, illness, impairment or disability and the beryllium sensitivity or established chronic beryllium disease. Neither the fact that the injury, illness, impairment or disability manifests itself after a diagnosis of beryllium sensitivity or established chronic beryllium disease, nor the belief of the claimant that the injury, illness, impairment or disability was caused by the beryllium sensitivity or established chronic beryllium disease, is sufficient in itself to prove a causal relationship.
 
-[71 FR 78534, Dec. 29, 2006, as amended at 84 FR 3048, Feb. 8, 2019]
+[71 FR 78534, Dec. 29, 2006, as amended at 84 FR 3048, Feb. 8, 2019; 89 FR 57731, July 16, 2024]

@@ -1,5 +1,7 @@
 ##### § 50.109 Backfitting. #####
 
+Link to an amendment published at 89 FR 57720, July 16, 2024.
+
 (a)(1) Backfitting is defined as the modification of or addition to systems, structures, components, or design of a facility; or the design approval or manufacturing license for a facility; or the procedures or organization required to design, construct or operate a facility; any of which may result from a new or amended provision in the Commission's regulations or the imposition of a regulatory staff position interpreting the Commission's regulations that is either new or different from a previously applicable staff position after:
 
 (i) The date of issuance of the construction permit for the facility for facilities having construction permits issued after October 21, 1985;

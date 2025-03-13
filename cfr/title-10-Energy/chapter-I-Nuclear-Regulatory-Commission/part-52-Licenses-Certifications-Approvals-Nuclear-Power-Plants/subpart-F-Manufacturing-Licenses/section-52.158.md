@@ -1,5 +1,7 @@
 ##### § 52.158 Contents of application; additional technical information. #####
 
+Link to an amendment published at 89 FR 57721, July 16, 2024.
+
 The application must contain:
 
 (a)(1) *Inspections, tests, analyses, and acceptance criteria (ITAAC).* The proposed inspections, tests, and analyses that the licensee who will be operating the reactor shall perform, and the acceptance criteria that are necessary and sufficient to provide reasonable assurance that, if the inspections, tests, and analyses are performed and the acceptance criteria met:

@@ -1,5 +1,7 @@
 ##### § 50.59 Changes, tests, and experiments. #####
 
+Link to an amendment published at 89 FR 57720, July 16, 2024.
+
 (a) Definitions for the purposes of this section:
 
 (1) *Change* means a modification or addition to, or removal from, the facility or procedures that affects a design function, method of performing or controlling the function, or an evaluation that demonstrates that intended functions will be accomplished.

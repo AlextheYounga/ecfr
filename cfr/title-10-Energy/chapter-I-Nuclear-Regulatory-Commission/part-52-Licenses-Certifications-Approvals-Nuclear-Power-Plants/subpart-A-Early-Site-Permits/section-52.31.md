@@ -1,5 +1,7 @@
 ##### § 52.31 Criteria for renewal. #####
 
+Link to an amendment published at 89 FR 57720, July 16, 2024.
+
 (a) The Commission shall grant the renewal if it determines that:
 
 (1) The site complies with the Act, the Commission's regulations, and orders applicable and in effect at the time the site permit was originally issued; and

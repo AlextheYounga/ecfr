@@ -30,7 +30,11 @@
 
 (g) *Benefit* or *Compensation* means the money the Department pays to or on behalf of either a covered Part B employee under Part B, or a covered Part E employee under Part E, from the Energy Employees Occupational Illness Compensation Fund. However, the term “compensation” used in section 7385f(b) of EEOICPA (restricting entitlement to only one payment of compensation under Part B) means only the payments specified in section 7384s(a)(1) and in section 7384u(a). Except as used in section 7385f(b), these two terms also include any other amounts paid out of the Fund for such things as medical treatment, monitoring, examinations, services, appliances and supplies as well as for transportation and expenses incident to the securing of such medical treatment, monitoring, examinations, services, appliances, and supplies.
 
-(h) *Beryllium sensitization or sensitivity* means that the individual has an abnormal beryllium lymphocyte proliferation test (LPT) performed on either blood or lung lavage cells.
+(h) *Beryllium sensitization or sensitivity* means that the individual has either:
+
+(1) An abnormal beryllium lymphocyte proliferation test (LPT) performed on either blood or lung lavage cells; or
+
+(2) Three borderline beryllium LPTs performed on blood cells over a period of 3 years.
 
 (i) *Beryllium vendor* means the specific corporations and named predecessor corporations listed in section 7384l(6) of the Act and any other entities designated as such by DOE on December 27, 2002.
 
@@ -58,7 +62,11 @@
 
 (p) *Covered beryllium illness* means any of the following:
 
-(1) Beryllium sensitivity as established by an abnormal LPT performed on either blood or lung lavage cells.
+(1) Beryllium sensitivity as established by either:
+
+(i) An abnormal beryllium LPT performed on either blood or lung lavage cells; or
+
+(ii) Three borderline beryllium LPTs performed on blood cells over a period of 3 years.
 
 (2) Established chronic beryllium disease (see § 30.207(c)).
 
@@ -202,4 +210,4 @@
 
 (ll) *Workday* means a single workshift whether or not it occurred on more than one calendar day.
 
-[71 FR 78534, Dec. 29, 2006, as amended at 84 FR 3046, Feb. 8, 2019]
+[71 FR 78534, Dec. 29, 2006, as amended at 84 FR 3046, Feb. 8, 2019; 89 FR 57731, July 16, 2024]

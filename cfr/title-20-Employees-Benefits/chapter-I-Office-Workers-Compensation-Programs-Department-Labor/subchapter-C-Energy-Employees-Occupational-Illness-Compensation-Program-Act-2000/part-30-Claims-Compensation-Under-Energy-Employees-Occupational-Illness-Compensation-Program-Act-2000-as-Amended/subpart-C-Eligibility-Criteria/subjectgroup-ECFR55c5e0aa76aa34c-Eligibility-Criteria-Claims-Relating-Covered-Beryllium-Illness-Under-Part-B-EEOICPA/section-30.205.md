@@ -22,10 +22,14 @@ To establish eligibility for benefits under this section, the claimant must esta
 
 (b) The employee has one of the following:
 
-(1) Beryllium sensitivity as established by an abnormal beryllium LPT performed on either blood or lung lavage cells.
+(1) Beryllium sensitivity as established by either:
+
+(i) An abnormal beryllium LPT performed on either blood or lung lavage cells; or
+
+(ii) Three borderline beryllium LPTs performed on blood cells over a period of 3 years.
 
 (2) Established chronic beryllium disease.
 
 (3) Any injury, illness, impairment, or disability sustained as a consequence of the conditions specified in paragraphs (b)(1) and (2) of this section.
 
-[71 FR 78534, Dec. 29, 2006, as amended at 84 FR 3048, Feb. 8, 2019]
+[71 FR 78534, Dec. 29, 2006, as amended at 84 FR 3048, Feb. 8, 2019; 89 FR 57731, July 16, 2024]

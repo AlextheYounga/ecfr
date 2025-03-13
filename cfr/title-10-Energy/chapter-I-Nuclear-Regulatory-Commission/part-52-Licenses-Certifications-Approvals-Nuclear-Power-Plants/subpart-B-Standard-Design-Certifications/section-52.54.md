@@ -1,5 +1,7 @@
 ##### § 52.54 Issuance of standard design certification. #####
 
+Link to an amendment published at 89 FR 57721, July 16, 2024.
+
 (a) After conducting a rulemaking proceeding under § 52.51 on an application for a standard design certification and receiving the report to be submitted by the Advisory Committee on Reactor Safeguards under § 52.53, the Commission may issue a standard design certification in the form of a rule for the design which is the subject of the application, if the Commission determines that:
 
 (1) The application meets the applicable standards and requirements of the Atomic Energy Act and the Commission's regulations;

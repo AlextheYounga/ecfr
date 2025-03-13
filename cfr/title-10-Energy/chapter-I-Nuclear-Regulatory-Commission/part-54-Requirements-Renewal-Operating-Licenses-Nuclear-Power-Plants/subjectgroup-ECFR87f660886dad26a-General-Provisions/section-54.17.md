@@ -1,5 +1,7 @@
 ##### § 54.17 Filing of application. #####
 
+Link to an amendment published at 89 FR 57721, July 16, 2024.
+
 (a) The filing of an application for a renewed license must be in accordance with subpart A of 10 CFR part 2 and 10 CFR 50.4 and 50.30.
 
 (b) Any person who is a citizen, national, or agent of a foreign country, or any corporation, or other entity which the Commission knows or has reason to know is owned, controlled, or dominated by an alien, a foreign corporation, or a foreign government, is ineligible to apply for and obtain a renewed license.

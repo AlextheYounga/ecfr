@@ -1,5 +1,7 @@
 ##### § 50.43 Additional standards and provisions affecting class 103 licenses and certifications for commercial power. #####
 
+Link to an amendment published at 89 FR 57719, July 16, 2024.
+
 In addition to applying the standards set forth in §§ 50.40 and 50.42, paragraphs (a) through (e) of this section apply in the case of a class 103 license for a facility for the generation of commercial power. For a design certification under part 52 of this chapter, only paragraph (e) of this section applies.
 
 (a) The NRC will:

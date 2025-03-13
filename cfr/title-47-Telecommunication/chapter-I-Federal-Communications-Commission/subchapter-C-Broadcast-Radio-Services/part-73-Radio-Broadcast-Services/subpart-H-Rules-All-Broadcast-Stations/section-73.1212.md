@@ -1,5 +1,7 @@
 ##### § 73.1212 Sponsorship identification; list retention; related requirements. #####
 
+Link to an amendment published at 89 FR 57792, July 16, 2024.Link to an amendment published at 89 FR 57793, July 16, 2024.
+
 (a) When a broadcast station transmits any matter for which money, service, or other valuable consideration is either directly or indirectly paid or promised to, or charged or accepted by such station, the station, at the time of the broadcast, shall announce:
 
 (1) That such matter is sponsored, paid for, or furnished, either in whole or in part, and

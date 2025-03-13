@@ -1,5 +1,7 @@
 ##### § 50.82 Termination of license. #####
 
+Link to an amendment published at 89 FR 57720, July 16, 2024.
+
 For power reactor licensees who, before the effective date of this rule, either submitted a decommissioning plan for approval or possess an approved decommissioning plan, the plan is considered to be the PSDAR submittal required under paragraph (a)(4) of this section and the provisions of this section apply accordingly. For power reactor licensees whose decommissioning plan approval activities have been relegated to notice of opportunity for a hearing under subpart G of 10 CFR part 2, the public meeting convened and 90-day delay of major decommissioning activities required in paragraphs (a)(4)(ii) and (a)(5) of this section shall not apply, and any orders arising from proceedings under subpart G of 10 CFR part 2 shall continue and remain in effect absent any orders from the Commission.
 
 (a) For power reactor licensees—

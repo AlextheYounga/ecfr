@@ -1,5 +1,7 @@
 ##### § 52.103 Operation under a combined license. #####
 
+Link to an amendment published at 89 FR 57721, July 16, 2024.
+
 (a) The licensee shall notify the NRC of its scheduled date for initial loading of fuel no later than 270 days before the scheduled date and shall notify the NRC of updates to its schedule every 30 days thereafter. Not less than 180 days before the date scheduled for initial loading of fuel into a plant by a licensee that has been issued a combined license under this part, the Commission shall publish notice of intended operation in the Federal Register. The notice must provide that any person whose interest may be affected by operation of the plant may, within 60 days, request that the Commission hold a hearing on whether the facility as constructed complies, or on completion will comply, with the acceptance criteria in the combined license, except that a hearing shall not be granted for those ITAAC which the Commission found were met under § 52.97(a)(2).
 
 (b) A request for hearing under paragraph (a) of this section must show, prima facie, that—

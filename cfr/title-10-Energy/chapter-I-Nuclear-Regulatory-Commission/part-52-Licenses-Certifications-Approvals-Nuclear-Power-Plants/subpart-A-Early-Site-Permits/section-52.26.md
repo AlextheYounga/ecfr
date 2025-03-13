@@ -1,5 +1,7 @@
 ##### § 52.26 Duration of permit. #####
 
+Link to an amendment published at 89 FR 57720, July 16, 2024.
+
 (a) Except as provided in paragraph (b) of this section, an early site permit issued under this subpart may be valid for not less than 10, nor more than 20 years from the date of issuance.
 
 (b) An early site permit continues to be valid beyond the date of expiration in any proceeding on a construction permit application or a combined license application that references the early site permit and is docketed before the date of expiration of the early site permit, or, if a timely application for renewal of the permit has been docketed, before the Commission has determined whether to renew the permit.
