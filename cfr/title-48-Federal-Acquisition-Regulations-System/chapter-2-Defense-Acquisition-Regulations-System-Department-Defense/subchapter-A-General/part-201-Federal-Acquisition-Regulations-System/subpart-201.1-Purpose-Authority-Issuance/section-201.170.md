@@ -1,5 +1,7 @@
 ##### 201.170 Peer reviews. #####
 
+Link to an amendment published at 89 FR 79002, Sept. 26, 2024.
+
 (a) *Defense Pricing, Contracting, and Acquisition Policy peer reviews.* (1) The Office of the Principal Director, Defense Pricing, Contracting, and Acquisition Policy (DPCAP), using the procedures at PGI 201.170, will organize teams of reviewers and facilitate peer reviews for solicitations and contracts as follows:
 
 (i) DPCAP will conduct the preaward peer reviews for competitive procurements prior to the three phases of the acquisition (see PGI 201.170-2(a)) for all procurements with an estimated value of $1 billion or more under major defense acquisition programs for which the Under Secretary of Defense for Acquisition and Sustainment (USD(A&S)) is the milestone decision authority or USD(A&S) designates as requiring a peer review regardless of value. DoD components may request DPCAP-led peer reviews for acquisitions valued below the $1 billion threshold. DPCAP will conduct these reviews upon approval by the Director, DPCAP (Contract Policy).

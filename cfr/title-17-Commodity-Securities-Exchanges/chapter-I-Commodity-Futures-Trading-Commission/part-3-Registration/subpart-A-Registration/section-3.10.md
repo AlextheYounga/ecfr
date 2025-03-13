@@ -1,5 +1,7 @@
 ##### § 3.10 Registration of futures commission merchants, retail foreign exchange dealers, introducing brokers, commodity trading advisors, commodity pool operators, swap dealers, major swap participants and leverage transaction merchants. #####
 
+Link to an amendment published at 89 FR 78810, Sept. 26, 2024.
+
 (a) *Application for**registration.* (1)(i) Except as provided in paragraph (a)(3) of this section, application for registration as a futures commission merchant, retail foreign exchange dealer, swap dealer, major swap participant, introducing broker, commodity pool operator, commodity trading advisor, or leverage transaction merchant must be on Form 7-R, completed and filed with the National Futures Association in accordance with the instructions thereto.
 
 (ii) Applicants for registration as a futures commission merchant, retail foreign exchange dealer or introducing broker must accompany their Form 7-R with a Form 1-FR-FCM or Form 1-FR-IB, respectively, in accordance with the provisions of § 1.10 of this chapter: *Provided, however,* That an applicant for registration as a futures commission merchant or introducing broker which is registered with the Securities and Exchange Commission as a securities broker or dealer may accompany its Form 7-R with a copy of its Financial and Operational Combined Uniform Single Report under the Securities Exchange Act of 1934, Part II or Part II A, in accordance with the provisions of § 1.10(h) of this chapter.

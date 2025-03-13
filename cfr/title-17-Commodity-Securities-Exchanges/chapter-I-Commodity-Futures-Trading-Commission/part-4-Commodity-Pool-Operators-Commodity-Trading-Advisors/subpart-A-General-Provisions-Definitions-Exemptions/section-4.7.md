@@ -1,5 +1,7 @@
 ##### § 4.7 Exemption from certain part 4 requirements for commodity pool operators with respect to offerings to qualified eligible persons and for commodity trading advisors with respect to advising qualified eligible persons. #####
 
+Link to an amendment published at 89 FR 78810, Sept. 26, 2024.
+
 This section is organized as follows: Paragraph (a) contains definitions for the purposes of § 4.7; paragraph (b) contains the relief available to commodity pool operators under § 4.7; paragraph (c) contains the relief available to commodity trading advisors under § 4.7; paragraph (d) concerns the Notice of Claim for Exemption under § 4.7; and paragraph (e) addresses the effect of an insignificant deviation from a term, condition or requirement of § 4.7.
 
 (a) *Definitions.* Paragraph (a)(1) of this section contains general definitions, paragraph (a)(2) of this section contains the definition of the term *qualified eligible person* with respect to those persons who do not need to satisfy the Portfolio Requirement and paragraph (a)(3) of this section contains the definition of the term *qualified eligible person* with respect to those persons who must satisfy the Portfolio Requirement. For the purposes of this section:

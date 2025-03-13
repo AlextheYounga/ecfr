@@ -1,19 +1,27 @@
 ##### § 25.671 General. #####
 
-Link to an amendment published at 89 FR 68734, Aug. 27, 2024.
+(a) Each flight control system must operate with the ease, smoothness, and positiveness appropriate to its function. The flight control system must continue to operate and respond appropriately to commands, and must not hinder airplane recovery, when the airplane is experiencing any pitch, roll, or yaw rate, or vertical load factor that could occur due to operating or environmental conditions, or when the airplane is in any attitude.
 
-(a) Each control and control system must operate with the ease, smoothness, and positiveness appropriate to its function.
+(b) Each element of each flight control system must be designed, or distinctively and permanently marked, to minimize the probability of incorrect assembly that could result in failure or malfunctioning of the system. The applicant may use distinctive and permanent marking only where design means are impractical.
 
-(b) Each element of each flight control system must be designed, or distinctively and permanently marked, to minimize the probability of incorrect assembly that could result in the malfunctioning of the system.
+(c) The airplane must be shown by analysis, test, or both, to be capable of continued safe flight and landing after any of the following failures or jams in the flight control system within the normal flight envelope. Probable malfunctions must have only minor effects on control system operation and must be capable of being readily counteracted by the pilot.
 
-(c) The airplane must be shown by analysis, tests, or both, to be capable of continued safe flight and landing after any of the following failures or jamming in the flight control system and surfaces (including trim, lift, drag, and feel systems), within the normal flight envelope, without requiring exceptional piloting skill or strength. Probable malfunctions must have only minor effects on control system operation and must be capable of being readily counteracted by the pilot.
+(1) Any single failure, excluding failures of the type defined in § 25.671(c)(3);
 
-(1) Any single failure, excluding jamming (for example, disconnection or failure of mechanical elements, or structural failure of hydraulic components, such as actuators, control spool housing, and valves).
+(2) Any combination of failures not shown to be extremely improbable, excluding failures of the type defined in § 25.671(c)(3); and
 
-(2) Any combination of failures not shown to be extremely improbable, excluding jamming (for example, dual electrical or hydraulic system failures, or any single failure in combination with any probable hydraulic or electrical failure).
+(3) Any failure or event that results in a jam of a flight control surface or pilot control that is fixed in position due to a physical interference. The jam must be evaluated as follows:
 
-(3) Any jam in a control position normally encountered during takeoff, climb, cruise, normal turns, descent, and landing unless the jam is shown to be extremely improbable, or can be alleviated. A runaway of a flight control to an adverse position and jam must be accounted for if such runaway and subsequent jamming is not extremely improbable.
+(i) The jam must be considered at any normally encountered position of the control surface or pilot control.
 
-(d) The airplane must be designed so that it is controllable if all engines fail. Compliance with this requirement may be shown by analysis where that method has been shown to be reliable.
+(ii) The jam must be assumed to occur anywhere within the normal flight envelope and during any flight phase except during the time immediately before touchdown if the risk of a potential jam is minimized to the extent practical.
 
-[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5674, Apr. 8, 1970]
+(iii) In the presence of the jam, any additional failure conditions that could prevent continued safe flight and landing must have a combined probability of 1/1000 or less.
+
+(d) If all engines fail at any point in the flight, the airplane must be controllable, and an approach and flare to a landing and controlled stop, and flare to a ditching, must be possible, without requiring exceptional piloting skill or strength.
+
+(e) The airplane must be designed to indicate to the flightcrew whenever the primary control means is near the limit of control authority.
+
+(f) If the flight control system has multiple modes of operation, appropriate flightcrew alerting must be provided whenever the airplane enters any mode that significantly changes or degrades the normal handling or operational characteristics of the airplane.
+
+[Doc. No. FAA-2022-1544, 89 FR 68734, Aug. 27, 2024]

@@ -1,8 +1,6 @@
 ##### § 25.1365 Electrical appliances, motors, and transformers. #####
 
-Link to an amendment published at 89 FR 68735, Aug. 27, 2024.
-
-(a) Domestic appliances must be designed and installed so that in the event of failures of the electrical supply or control system, the requirements of § 25.1309(b), (c), and (d) will be satisfied. Domestic appliances are items such as cooktops, ovens, coffee makers, water heaters, refrigerators, and toilet flush systems that are placed on the airplane to provide service amenities to passengers.
+(a) An applicant must show that, in the event of a failure of the electrical supply or control system, the design and installation of domestic appliances meet the requirements of § 25.1309(b) and (c). Domestic appliances are items such as cooktops, ovens, coffee makers, water heaters, refrigerators, and toilet flush systems that are placed on the airplane to provide service amenities to passengers.
 
 (b) Galleys and cooking appliances must be installed in a way that minimizes risk of overheat or fire.
 
@@ -10,4 +8,4 @@ Link to an amendment published at 89 FR 68735, Aug. 27, 2024.
 
 (d) Unless compliance with § 25.1309(b) is provided by the circuit protective device required by § 25.1357(a), electric motors and transformers, including those installed in domestic systems, must have a suitable thermal protection device to prevent overheating under normal operation and failure conditions, if overheating could create a smoke or fire hazard.
 
-[Amdt. 25-123, 72 FR 63406, Nov. 8, 2007]
+[Amdt. 25-123, 72 FR 63406, Nov. 8, 2007, as amended by Doc. No. FAA-2022-1544, 89 FR 68735, Aug. 27, 2024]

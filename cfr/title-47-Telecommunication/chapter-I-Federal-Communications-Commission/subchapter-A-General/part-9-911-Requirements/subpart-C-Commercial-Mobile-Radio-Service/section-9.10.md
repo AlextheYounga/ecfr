@@ -424,8 +424,6 @@ Note to paragraph (d): With respect to 911 calls accessing their systems through
 
 (5) *Modification of deadlines by agreement.* Nothing in this section shall prevent PSAPs and CMRS providers from establishing, by mutual consent, deadlines different from those established for CMRS provider compliance in paragraphs (s)(1)(i) and (ii) and (s)(2) of this section. The CMRS provider must notify the Commission of the dates and terms of the alternate time frame within 30 days of the parties' agreement or June 11, 2024, whichever is later. The CMRS provider must subsequently notify the Commission of the actual date by which it comes into compliance with the location-based routing requirements in paragraph (s)(1)(i) or (ii) or (s)(2) within 30 days of that date or June 11, 2024, whichever is later. CMRS providers must file such notifications pursuant to this paragraph (s)(5) in PS Docket No. 18-64. The parties may not use this paragraph (s)(5) to delay compliance with paragraph (s)(1)(i) or (ii) or (s)(2) of this section indefinitely.
 
-(6) *Compliance dates.* Paragraphs (s)(4) and (5) of this section contain information collection and recordkeeping requirements. Compliance with paragraphs (s)(4) and (5) will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising or removing this paragraph (s)(6) accordingly.
-
 (t) *Interim 911 requirements for supplemental coverage from space*—(1) *Supplemental coverage from space.* For purposes of this paragraph (t), *supplemental coverage from space (SCS)* has the same meaning as in part 25, subpart A, of this chapter; *SCS 911 calls* are 911 calls (as defined in § 9.3) that are carried over satellite facilities pursuant to a CMRS provider's SCS arrangement; and an *SCS 911 text message* is a 911 text message (as defined in paragraph (q)(9) of this section) that is carried over satellite facilities pursuant to a CMRS provider's SCS arrangement.
 
 (2) *Call Transmission requirements.* For purposes of delivering SCS 911 voice calls and SCS 911 text messages, CMRS providers must either:
@@ -435,4 +433,4 @@ Note to paragraph (d): With respect to 911 calls accessing their systems through
 (ii) Use an emergency call center, at which emergency call center personnel must determine the emergency caller's phone number and location and then transfer or otherwise direct the 911 caller to an appropriate PSAP.
 
 [84 FR 66760, Dec. 5, 2019, as amended at 85 FR 2675, Jan. 16, 2020; 85 FR 53246, Aug. 28, 2020; 85 FR 70501, Nov. 5, 2020; 85 FR 78022, Dec. 3, 2020; 86 FR 19584, Apr. 14, 2021; 89 FR 18523, Mar. 13, 2024;
-89 FR 34165, Apr. 30, 2024]
+89 FR 34165, Apr. 30, 2024; 89 FR 78825, Sept. 26, 2024]

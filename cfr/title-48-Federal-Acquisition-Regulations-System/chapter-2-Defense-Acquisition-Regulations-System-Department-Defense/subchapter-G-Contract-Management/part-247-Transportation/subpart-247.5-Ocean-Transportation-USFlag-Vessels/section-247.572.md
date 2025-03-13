@@ -1,5 +1,7 @@
 ##### 247.572 Policy. #####
 
+Link to an amendment published at 89 FR 78994, Sept. 26, 2024.
+
 (a) In accordance with 10 U.S.C. 2631(a), DoD contractors shall transport supplies, as defined in the clause at 252.247-7023, Transportation of Supplies by Sea, exclusively on U.S.-flag vessels unless—
 
 (1) Those vessels are not available;

@@ -1,5 +1,7 @@
 ##### 252.204-7007 Alternate A, Annual Representations and Certifications. #####
 
+Link to an amendment published at 89 FR 78991, Sept. 26, 2024.
+
 As prescribed in 204.1202, use the following provision:
 
 Alternate A, Annual Representations and Certifications (NOV 2023)

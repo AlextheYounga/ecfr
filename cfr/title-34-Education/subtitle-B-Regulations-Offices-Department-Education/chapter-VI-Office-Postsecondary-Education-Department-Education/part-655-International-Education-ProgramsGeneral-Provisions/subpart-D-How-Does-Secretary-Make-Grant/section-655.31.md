@@ -1,7 +1,5 @@
 ##### § 655.31 What general selection criteria does the Secretary use? #####
 
-Link to an amendment published at 89 FR 68758, Aug. 27, 2024.
-
 (a) *Plan of operation.* (1) The Secretary reviews each application for information that shows the quality of the plan of operation for the project.
 
 (2) The Secretary looks for information that shows—
@@ -40,7 +38,7 @@ Link to an amendment published at 89 FR 68758, Aug. 27, 2024.
 
 (2) The Secretary looks for information that shows—
 
-(i) The budget for the project is adequate to support the project activities; and
+(i) Facilities (including but not limited to language laboratories, museums, and libraries) that the applicant plans to use are adequate; and
 
 (ii) Costs are reasonable in relation to the objectives of the project.
 
@@ -52,8 +50,8 @@ Link to an amendment published at 89 FR 68758, Aug. 27, 2024.
 
 (2) The Secretary looks for information that shows—
 
-(i) Other than library, facilities that the applicant plans to use are adequate (language laboratory, museums, etc.); and
+(i) Facilities (including but not limited to language laboratories, museums, and libraries) that the applicant plans to use are adequate; and
 
 (ii) The equipment and supplies that the applicant plans to use are adequate.
 
-(Authority: 20 U.S.C. 1121-1127)
+(Authority: 20 U.S.C. 1121-1127) [47 FR 14116, Apr. 1, 1982, as amended at 89 FR 68758, Aug. 27, 2024]

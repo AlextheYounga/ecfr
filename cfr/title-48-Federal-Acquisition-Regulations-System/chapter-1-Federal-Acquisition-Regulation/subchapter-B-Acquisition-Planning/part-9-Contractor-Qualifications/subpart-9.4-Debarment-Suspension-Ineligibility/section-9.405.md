@@ -16,4 +16,4 @@
 
 (4) Immediately prior to award, the contracting officer shall again review the exclusion records in SAM to ensure that no award is made to a listed contractor.
 
-[48 FR 42142, Sept. 19, 1983, as amended at 52 FR 9038, Mar. 20, 1987; 54 FR 19814, May 8, 1989; 54 FR 48982, Nov. 28, 1989; 55 FR 21707, May 25, 1990; 56 FR 29127, June 25, 1991; 59 FR 67033, Dec. 28, 1994; 60 FR 33065, June 26, 1995; 65 FR 16286, Mar. 27, 2000; 68 FR 69251, Dec. 11, 2003; 69 FR 76349, Dec. 20, 2004; 78 FR 37678, June 21, 2013; 83 FR 28148, June 15, 2018; 83 FR 48696, Sept. 26, 2018; 85 FR 67621, Oct. 23, 2020; 86 FR 3678, Jan. 14, 2021; 89 FR 20237, Apr. 22, 2024]
+[48 FR 42142, Sept. 19, 1983, as amended at 52 FR 9038, Mar. 20, 1987; 54 FR 19814, May 8, 1989; 54 FR 48982, Nov. 28, 1989; 55 FR 21707, May 25, 1990; 56 FR 29127, June 25, 1991; 59 FR 67033, Dec. 28, 1994; 60 FR 33065, June 26, 1995; 65 FR 16286, Mar. 27, 2000; 68 FR 69251, Dec. 11, 2003; 69 FR 76349, Dec. 20, 2004; 78 FR 37678, June 21, 2013; 83 FR 28148, June 15, 2018; 83 FR 48696, Sept. 26, 2018; 85 FR 67621, Oct. 23, 2020; 86 FR 3678, Jan. 14, 2021; 89 FR 30237, Apr. 22, 2024]

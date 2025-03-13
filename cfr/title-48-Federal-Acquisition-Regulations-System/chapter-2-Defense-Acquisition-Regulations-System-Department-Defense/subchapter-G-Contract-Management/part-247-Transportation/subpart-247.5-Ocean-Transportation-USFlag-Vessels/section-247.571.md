@@ -1,5 +1,7 @@
 ##### 247.571 Definitions. #####
 
+Link to an amendment published at 89 FR 78994, Sept. 26, 2024.
+
 As used in this subpart—
 
 (a) *Components, foreign flag vessel,**ocean transportation, supplies,* and *U.S.-flag vessel* have the meaning given in the clause at 252.247-7023, Transportation of Supplies by Sea.

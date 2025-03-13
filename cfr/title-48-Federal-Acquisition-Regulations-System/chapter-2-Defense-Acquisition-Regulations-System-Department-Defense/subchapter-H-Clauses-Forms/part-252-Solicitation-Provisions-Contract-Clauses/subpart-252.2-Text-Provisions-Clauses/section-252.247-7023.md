@@ -1,5 +1,7 @@
 ##### 252.247-7023 Transportation of Supplies by Sea. #####
 
+Link to an amendment published at 89 FR 78991, Sept. 26, 2024.Link to an amendment published at 89 FR 78995, Sept. 26, 2024.
+
 *Basic.* As prescribed in 247.574(b) and (b)(1), use the following clause:
 
 Transportation of Supplies by Sea—Basic (JAN 2023)

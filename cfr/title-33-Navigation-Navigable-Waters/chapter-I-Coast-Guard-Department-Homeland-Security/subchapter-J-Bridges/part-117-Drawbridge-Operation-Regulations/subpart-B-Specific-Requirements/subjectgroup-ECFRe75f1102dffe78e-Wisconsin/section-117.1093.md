@@ -12,6 +12,8 @@
 
 (5) From November 2nd through April 15th, all drawbridges over the Milwaukee River will open on signal if a 12-hour advance notice is provided.
 
+(6) The draw of the Cherry Street Bridge, mile 2.29, over the Milwaukee River, will, from July 22, 2024, through October 31, 2024, secure one bridge leaf in the down position and operate the other bridge leaf normally for the passage of vessels. From November 1, 2024, through April 1, 2025, both leaves will be secured in the down position and the bridge will not open for the passage of vessels.
+
 (b) The draws of bridges across the Menomonee River and South Menomonee Canal operate as follows:
 
 (1) The draw of the North Plankinton Avenue bridge across the Menomonee River, mile 1.08, and the Canadian Pacific Railroad bridge, mile 1.05, shall open on signal; except that, from April 16th through November 1st, from 7:30 a.m. to 8:30 a.m. and from 4 p.m. to 5:30 p.m. Monday through Friday, except Federal holidays, the draws need not be opened, and from midnight to 7 a.m. Monday through Friday except Federal holidays the bridges will open on signal if a 2-hour advance notice is provided.
@@ -38,4 +40,4 @@
 
 (d) The Canadian Pacific Railroad Bridge at Mile 1.74 over the Burnham Canal, and the Sixteenth Street Bridge, mile 2.14, over the Menomonee River are closed by regulation and do not need to open for the passage of vessels.
 
-[USCG-2019-0824, 86 FR 53216, Sept. 27, 2021]
+[USCG-2019-0824, 86 FR 53216, Sept. 27, 2021, as amended by USCG-2024-0018, 89 FR 78819, Sept. 26, 2024]Effective Date Note:By USCG-2024-0018, 89 FR 78819, Sept. 26, 2024, § 117.1093 was amended by adding paragraph (a) (6), effective Sept. 26, 2024 through Apr. 1, 2025.

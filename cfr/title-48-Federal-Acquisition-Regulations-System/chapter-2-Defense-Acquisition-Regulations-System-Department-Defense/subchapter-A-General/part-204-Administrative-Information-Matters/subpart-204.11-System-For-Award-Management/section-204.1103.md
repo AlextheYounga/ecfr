@@ -1,5 +1,7 @@
 ##### 204.1103 Procedures. #####
 
+Link to an amendment published at 89 FR 79002, Sept. 26, 2024.
+
 See PGI 204.1103 for helpful information on navigation and data entry in the System for Award Management (SAM) database.
 
 (1) On contract award documents, use the contractor's legal or “doing business as” name and physical address information as recorded in the (SAM) database at the time of award.

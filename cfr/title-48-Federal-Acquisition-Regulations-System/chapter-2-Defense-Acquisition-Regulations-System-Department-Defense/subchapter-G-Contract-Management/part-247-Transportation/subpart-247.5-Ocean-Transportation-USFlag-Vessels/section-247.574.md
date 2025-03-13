@@ -1,5 +1,7 @@
 ##### 247.574 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 89 FR 78991, Sept. 26, 2024.
+
 (a)(1) Use the provision at 252.247-7022, Representation of Extent of Transportation by Sea, in all solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services, except—
 
 (i) Those for direct purchase of ocean transportation services; or

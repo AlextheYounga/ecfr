@@ -1,5 +1,7 @@
 ##### 252.247-7025 Reflagging or repair work. #####
 
+Link to an amendment published at 89 FR 78992, Sept. 26, 2024.Link to an amendment published at 89 FR 78996, Sept. 26, 2024.
+
 As prescribed in 247.574(c), use the following clause:
 
 Reflagging or Repair Work (JUN 2005)

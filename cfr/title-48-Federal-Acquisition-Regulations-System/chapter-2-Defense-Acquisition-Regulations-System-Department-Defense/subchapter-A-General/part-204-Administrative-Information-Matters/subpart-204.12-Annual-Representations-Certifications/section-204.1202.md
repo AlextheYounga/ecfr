@@ -1,5 +1,7 @@
 ##### 204.1202 Solicitation provision and contract clause. #####
 
+Link to an amendment published at 89 FR 78991, Sept. 26, 2024.
+
 When using the provision at FAR 52.204-8, Annual Representations and Certifications—
 
 (1) Use the provision with 252.204-7007, Alternate A, Annual Representations and Certifications; and

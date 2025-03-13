@@ -1,5 +1,7 @@
 ##### 252.247-7022 Representation of extent of transportation by sea. #####
 
+Link to an amendment published at 89 FR 78991, Sept. 26, 2024.
+
 As prescribed in 247.574(a), use the following provision:
 
 Representation of Extent of Transportation By Sea (JUN 2019)

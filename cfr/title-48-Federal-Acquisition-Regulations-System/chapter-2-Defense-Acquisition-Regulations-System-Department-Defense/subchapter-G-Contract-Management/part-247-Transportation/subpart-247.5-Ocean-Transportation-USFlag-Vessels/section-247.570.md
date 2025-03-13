@@ -1,5 +1,7 @@
 ##### 247.570 Scope. #####
 
+Link to an amendment published at 89 FR 78994, Sept. 26, 2024.
+
 This subpart—
 
 (a) Implements—

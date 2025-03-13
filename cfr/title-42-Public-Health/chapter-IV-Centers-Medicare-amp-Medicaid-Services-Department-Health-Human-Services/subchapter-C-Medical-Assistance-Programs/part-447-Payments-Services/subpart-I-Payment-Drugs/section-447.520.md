@@ -1,5 +1,7 @@
 ##### § 447.520 Federal Financial Participation (FFP): Conditions relating to physician-administered drugs. #####
 
+Link to an amendment published at 89 FR 79084, Sept. 26, 2024.
+
 (a) No FFP is available for physician-administered drugs for which a State has not required the submission of claims using codes that identify the drugs sufficiently for the State to bill a manufacturer for rebates.
 
 (1) As of January 1, 2006, a State must require providers to submit claims for single source, physician-administered drugs using Healthcare Common Procedure Coding System codes or NDC numbers to secure rebates.

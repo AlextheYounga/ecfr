@@ -1,5 +1,7 @@
 ##### 247.573 General. #####
 
+Link to an amendment published at 89 FR 78995, Sept. 26, 2024.
+
 (a) *Delegated authority.* Pursuant to 10 U.S.C. 2631(a) and Secretary of Defense Memorandum dated February 7, 2012, (see PGI 245.573) the authority to make determinations of excessive ocean liner rates and excessive charter rates is delegated to—
 
 (1) The Commander, United States Transportation Command, for excessive ocean liner rate determinations; and

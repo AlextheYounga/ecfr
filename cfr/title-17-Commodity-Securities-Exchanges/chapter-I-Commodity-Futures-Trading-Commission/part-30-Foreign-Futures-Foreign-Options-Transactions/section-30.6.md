@@ -1,5 +1,7 @@
 ##### § 30.6 Disclosure. #####
 
+Link to an amendment published at 89 FR 78814, Sept. 26, 2024.
+
 (a) *Future commission merchants and introducing brokers.* Except as provided in § 1.65 of this chapter, no futures commission merchant, or in the case of an introduced account no introducing broker, may open a foreign futures or option account for a foreign futures or option customer, other than for a customer specified in § 1.55(f) of this chapter, unless the futures commission merchant or introducing broker first furnishes the customer with a separate written disclosure statement containing only the language set forth in § 1.55(b) of this chapter or as otherwise approved under § 155(c) of this chapter (except for nonsubstantive additions such as captions), which has been acknowledged in accordance with § 1.55 of this chapter: *Provided, however,* that the risk disclosure statement may be attached to other documents as the cover page or the first page of such documents and as the only material on such page.
 
 (b) *Commodity pool operators and commodity trading advisors.* (1) With respect to persons who satisfy the requirements of qualified eligible persons, as defined in § 4.7(a) of this chapter:

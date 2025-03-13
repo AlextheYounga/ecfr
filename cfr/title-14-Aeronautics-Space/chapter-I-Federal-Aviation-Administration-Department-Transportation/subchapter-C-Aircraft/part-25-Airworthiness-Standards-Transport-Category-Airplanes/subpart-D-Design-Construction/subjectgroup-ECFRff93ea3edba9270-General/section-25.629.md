@@ -1,8 +1,6 @@
 ##### § 25.629 Aeroelastic stability requirements. #####
 
-Link to an amendment published at 89 FR 68734, Aug. 27, 2024.
-
-(a) *General.* The aeroelastic stability evaluations required under this section include flutter, divergence, control reversal and any undue loss of stability and control as a result of structural deformation. The aeroelastic evaluation must include whirl modes associated with any propeller or rotating device that contributes significant dynamic forces. Compliance with this section must be shown by analyses, wind tunnel tests, ground vibration tests, flight tests, or other means found necessary by the Administrator.
+(a) *General.* The aeroelastic stability evaluation required under this section includes flutter, divergence, control reversal and any undue loss of stability and control as a result of structural deformation. The aeroelastic evaluation must include whirl modes associated with any propeller or rotating device that contributes significant dynamic forces. Additionally, the evaluation must include any condition of operation within the maneuvering envelope. Compliance with this section must be shown by analyses, wind tunnel tests, ground vibration tests, flight tests, or other means found necessary by the Administrator.
 
 (b) *Aeroelastic stability envelopes.* The airplane must be designed to be free from aeroelastic instability for all configurations and design conditions within the aeroelastic stability envelopes as follows:
 
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 68734, Aug. 27, 2024.
 
 (c) *Balance weights.* If concentrated balance weights are used, their effectiveness and strength, including supporting structure, must be substantiated.
 
-(d) *Failures, malfunctions, and adverse conditions.* The failures, malfunctions, and adverse conditions which must be considered in showing compliance with this section are:
+(d) *Failures, malfunctions, and adverse conditions.* The failures, malfunctions, and adverse conditions that must be considered in showing compliance with this section are:
 
 (1) Any critical fuel loading conditions, not shown to be extremely improbable, which may result from mismanagement of fuel.
 
@@ -38,10 +36,18 @@ Link to an amendment published at 89 FR 68734, Aug. 27, 2024.
 
 (ii) A damage tolerance investigation in accordance with § 25.571(b) shows that the maximum extent of damage assumed for the purpose of residual strength evaluation does not involve complete failure of the structural element.
 
-(9) Any damage, failure, or malfunction considered under §§ 25.631, 25.671, 25.672, and 25.1309.
+(9) The following flight control system failure combinations in which aeroelastic stability relies on flight control system stiffness, damping or both:
 
-(10) Any other combination of failures, malfunctions, or adverse conditions not shown to be extremely improbable.
+(i) Any dual hydraulic system failure.
+
+(ii) Any dual electrical system failure.
+
+(iii) Any single failure in combination with any probable hydraulic or electrical system failure.
+
+(10) Any damage, failure, or malfunction considered under §§ 25.631, 25.671, 25.672, and 25.1309.
+
+(11) Any other combination of failures, malfunctions, or adverse conditions not shown to be extremely improbable.
 
 (e) *Flight flutter testing.* Full scale flight flutter tests at speeds up to VDF/MDF must be conducted for new type designs and for modifications to a type design unless the modifications have been shown to have an insignificant effect on the aeroelastic stability. These tests must demonstrate that the airplane has a proper margin of damping at all speeds up to VDF/MDF, and that there is no large and rapid reduction in damping as VDF/MDF, is approached. If a failure, malfunction, or adverse condition is simulated during flight test in showing compliance with paragraph (d) of this section, the maximum speed investigated need not exceed VFC/MFC if it is shown, by correlation of the flight test data with other test data or analyses, that the airplane is free from any aeroelastic instability at all speeds within the altitude-airspeed envelope described in paragraph (b)(2) of this section.
 
-[Doc. No. 26007, 57 FR 28949, June 29, 1992]
+[Doc. No. 26007, 57 FR 28949, June 29, 1992, as amended by Doc. No. FAA-2022-1544, 89 FR 68731, Aug. 27, 2024]

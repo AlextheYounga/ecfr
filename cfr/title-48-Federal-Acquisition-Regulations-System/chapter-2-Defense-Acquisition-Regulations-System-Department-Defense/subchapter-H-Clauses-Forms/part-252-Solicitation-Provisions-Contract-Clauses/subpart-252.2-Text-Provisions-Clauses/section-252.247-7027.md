@@ -1,5 +1,7 @@
 ##### 252.247-7027 Riding gang member requirements. #####
 
+Link to an amendment published at 89 FR 78992, Sept. 26, 2024.
+
 As prescribed in 247.574(e), use the following clause:
 
 Riding Gang Member Requirements (MAY 2018)

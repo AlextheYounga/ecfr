@@ -1,7 +1,5 @@
 ##### § 25.901 Installation. #####
 
-Link to an amendment published at 89 FR 68734, Aug. 27, 2024.
-
 (a) For the purpose of this part, the airplane powerplant installation includes each component that—
 
 (1) Is necessary for propulsion;
@@ -24,8 +22,14 @@ Link to an amendment published at 89 FR 68734, Aug. 27, 2024.
 
 (4) The major components of the installation must be electrically bonded to the other parts of the airplane.
 
-(c) For each powerplant and auxiliary power unit installation, it must be established that no single failure or malfunction or probable combination of failures will jeopardize the safe operation of the airplane except that the failure of structural elements need not be considered if the probability of such failure is extremely remote.
+(c) For each powerplant and auxiliary power unit installation, the applicant must comply with the requirements of § 25.1309, except that the effects of the following failures need not comply with § 25.1309(b)—
+
+(1) Engine case burn-through or rupture,
+
+(2) Uncontained engine rotor failure, and
+
+(3) Propeller debris release.
 
 (d) Each auxiliary power unit installation must meet the applicable provisions of this subpart.
 
-[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5676, Apr. 8, 1970; Amdt. 25-40, 42 FR 15042, Mar. 17, 1977; Amdt. 25-46, 43 FR 50597, Oct. 30, 1978; Amdt. 25-126, 73 FR 63345, Oct. 24, 2008]
+[Doc. No. 5066, 29 FR 18291, Dec. 24, 1964, as amended by Amdt. 25-23, 35 FR 5676, Apr. 8, 1970; Amdt. 25-40, 42 FR 15042, Mar. 17, 1977; Amdt. 25-46, 43 FR 50597, Oct. 30, 1978; Amdt. 25-126, 73 FR 63345, Oct. 24, 2008; Doc. No. FAA-2022-1544, 89 FR 68734, Aug. 27, 2024]

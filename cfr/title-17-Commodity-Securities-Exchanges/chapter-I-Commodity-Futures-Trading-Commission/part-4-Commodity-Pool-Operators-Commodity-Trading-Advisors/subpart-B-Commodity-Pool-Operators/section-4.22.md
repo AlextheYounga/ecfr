@@ -1,5 +1,7 @@
 ##### § 4.22 Reporting to pool participants. #####
 
+Link to an amendment published at 89 FR 78813, Sept. 26, 2024.
+
 (a) Except as provided in paragraph (a)(4) or (a)(6) of this section, each commodity pool operator registered or required to be registered under the Act must periodically distribute to each participant in each pool that it operates, within 30 calendar days after the last date of the reporting period prescribed in paragraph (b) of this section, an Account Statement, which shall be presented in the form of a Statement of Operations and a Statement of Changes in Net Assets, for the prescribed period. These financial statements must be presented and computed in accordance with generally accepted accounting principles consistently applied. The Account Statement must be signed in accordance with paragraph (h) of this section.
 
 (1) The portion of the Account Statement which must be presented in the form of a Statement of Operations must separately itemize the following information:
