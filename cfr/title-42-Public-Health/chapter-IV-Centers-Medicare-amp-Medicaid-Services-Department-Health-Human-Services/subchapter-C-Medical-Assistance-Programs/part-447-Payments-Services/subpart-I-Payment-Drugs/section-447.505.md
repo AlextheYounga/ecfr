@@ -1,7 +1,5 @@
 ##### § 447.505 Determination of best price. #####
 
-Link to an amendment published at 89 FR 79082, Sept. 26, 2024.
-
 (a) *Definitions.* For the purpose of this section, the following definitions apply:
 
 *Best price* means, for a single source drug or innovator multiple source drug of a manufacturer (including the lowest price available to any entity for an authorized generic drug), the lowest price available from the manufacturer during the rebate period to any wholesaler, retailer, provider, health maintenance organization, nonprofit entity, or governmental entity in the United States in any pricing structure (including capitated payments) in the same quarter for which the AMP is computed. If a manufacturer offers a value-based purchasing arrangement (as defined at § 447.502) to all states, the lowest price available from a manufacturer may include varying best price points for a single dosage form and strength as a result of that value based purchasing arrangement.
@@ -26,15 +24,15 @@ Link to an amendment published at 89 FR 79082, Sept. 26, 2024.
 
 (7) Rebates under the national rebate agreement or a CMS-authorized supplemental rebate agreement paid to State Medicaid Agencies under section 1927 of the Act.
 
-(8) Manufacturer-sponsored drug discount card programs, but only to the extent the manufacturer ensures that the full value of the discount is passed on to the consumer and the pharmacy, agent, or other entity does not receive any price concession.
+(8) Manufacturer-sponsored drug discount card programs, but only to the extent that the full value of the discount is passed on to the consumer and the pharmacy, agent, or other entity does not receive any price concession.
 
-(9) Manufacturer coupons to a consumer redeemed by a consumer, agent, pharmacy, or another entity acting on behalf of the manufacturer; but only to the extent the manufacturer ensures that the full value of the coupon is passed on to the consumer, and the pharmacy, agent, or other entity does not receive any price concession.
+(9) Manufacturer coupons to a consumer redeemed by a consumer, agent, pharmacy, or another entity acting on behalf of the manufacturer; but only to the extent that the full value of the coupon is passed on to the consumer, and the pharmacy, agent, or other entity does not receive any price concession.
 
-(10) Manufacturer copayment assistance programs, to the extent that the manufacturer ensures the program benefits are provided entirely to the patient and the pharmacy, agent, or other entity does not receive any price concession.
+(10) Manufacturer copayment assistance programs, to the extent that the program benefits are provided entirely to the patient and the pharmacy, agent, or other entity does not receive any price concession.
 
-(11) Manufacturer-sponsored patient refund or rebate programs, to the extent that the manufacturer ensures the manufacturer provides a full or partial refund or rebate to the patient for out-of-pocket costs and the pharmacy, agent, or other entity does not receive any price concession.
+(11) Manufacturer-sponsored patient refund or rebate programs, to the extent that the manufacturer provides a full or partial refund or rebate to the patient for out-of-pocket costs and the pharmacy, agent, or other entity does not receive any price concession.
 
-(12) Manufacturer-sponsored programs that provide free goods, including but not limited to vouchers and patient assistance programs, but only to the extent that the manufacturer ensures the voucher or benefit of such a program is not contingent on any other purchase requirement; the full value of the voucher or benefit of such a program is passed on to the consumer; and the pharmacy, agent, or other entity does not receive any price concession.
+(12) Manufacturer-sponsored programs that provide free goods, including but not limited to vouchers and patient assistance programs, but only to the extent that the voucher or benefit of such a program is not contingent on any other purchase requirement; the full value of the voucher or benefit of such a program is passed on to the consumer; and the pharmacy, agent, or other entity does not receive any price concession.
 
 (13) Free goods, not contingent upon any purchase requirement.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 89 FR 79082, Sept. 26, 2024.
 
 (3) The manufacturer must adjust the best price for a rebate period if cumulative discounts, rebates, or other arrangements subsequently adjust the prices available, to the extent that such cumulative discounts, rebates, or other arrangements are not excluded from the determination of best price by statute or regulation.
 
-[81 FR 5347, Feb. 1, 2016, as amended at 85 FR 87102, Dec. 31, 2020]
+[81 FR 5347, Feb. 1, 2016, as amended at 85 FR 87102, Dec. 31, 2020; 89 FR 79082, Sept. 26, 2024]

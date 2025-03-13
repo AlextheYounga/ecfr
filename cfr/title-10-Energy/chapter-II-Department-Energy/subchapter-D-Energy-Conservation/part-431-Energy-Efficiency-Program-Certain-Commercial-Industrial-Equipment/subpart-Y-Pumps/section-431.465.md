@@ -92,7 +92,7 @@
 
 (2) The default run time setting shall be no greater than 1 hour (before the temperature is rechecked); and
 
-(3) The default motor speed shall not be more than1/2 of the maximum available speed.
+(3) The default motor speed shall not be more than 1/2 of the maximum available speed.
 
 (i) Each circulator pump that is manufactured starting on May 22, 2028 and that meets the criteria in paragraphs (i)(1) through (i)(2) of this section must have a circulator energy index (“CEI”) rating (as determined in accordance with the test procedure in § 431.464(c)(2)) of not more than 1.00 using the instructions in paragraph (i)(3) of this section and with a control mode as specified in paragraph (i)(4) of this section:
 

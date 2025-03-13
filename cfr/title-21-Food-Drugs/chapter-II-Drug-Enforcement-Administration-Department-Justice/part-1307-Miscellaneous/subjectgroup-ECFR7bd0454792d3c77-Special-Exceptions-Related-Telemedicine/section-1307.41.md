@@ -1,5 +1,7 @@
 ##### § 1307.41 Temporary extension of certain COVID-19 telemedicine flexibilities for prescription of controlled medications. #####
 
+Link to an amendment published at 89 FR 91257, Nov. 19, 2024.
+
 (a) This section is in effect until the end of the day December 31, 2024. The authorization granted in paragraph (c) of this section expires at the end of December 31, 2024.
 
 (b) For purposes of this section, a practitioner and a patient have a *telemedicine relationship established via COVID-19 telemedicine prescribing flexibilities* if:

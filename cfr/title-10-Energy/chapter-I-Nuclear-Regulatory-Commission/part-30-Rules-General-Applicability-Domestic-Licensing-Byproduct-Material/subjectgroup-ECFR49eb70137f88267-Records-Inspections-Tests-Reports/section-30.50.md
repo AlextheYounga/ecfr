@@ -30,8 +30,7 @@
 
 (c) Preparation and submission of reports. Reports made by licensees in response to the requirements of this section must be made as follows:
 
-(1) Licensees shall make reports required by paragraphs (a) and (b) of this section by telephone to the NRC Headquarters Operations Center at the numbers specified in appendix A to part 73 of this chapter.
-To the extent that the information is available at the time of notification, the information provided in these reports must include:
+(1) Licensees shall make reports required by paragraphs (a) and (b) of this section by telephone to the NRC Headquarters Operations Center at the numbers specified in appendix A to part 73 of this chapter. To the extent that the information is available at the time of notification, the information provided in these reports must include:
 
 (i) The caller's name and call back telephone number;
 

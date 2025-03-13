@@ -1,7 +1,5 @@
 ##### § 438.3 Standard contract requirements. #####
 
-Link to an amendment published at 89 FR 79081, Sept. 26, 2024.
-
 (a) *CMS review.* The CMS must review and approve all MCO, PIHP, and PAHP contracts, including those risk and nonrisk contracts that, on the basis of their value, are not subject to the prior approval requirement in § 438.806. Proposed final contracts must be submitted in the form and manner established by CMS. For States seeking approval of contracts prior to a specific effective date, proposed final contracts must be submitted to CMS for review no later than 90 days prior to the effective date of the contract.
 
 (b) *Entities eligible for comprehensive risk contracts.* A State may enter into a comprehensive risk contract only with the following:
@@ -140,10 +138,20 @@ Link to an amendment published at 89 FR 79081, Sept. 26, 2024.
 
 (6) The MCO, PIHP or PAHP must conduct a prior authorization program that complies with the requirements of section 1927(d)(5) of the Act, as if such requirements applied to the MCO, PIHP, or PAHP instead of the State.
 
+(7) The MCO, PIHP, or PAHP must assign and exclusively use unique Medicaid-specific Bank Identification Number (BIN) and Processor Control Number (PCN) combination, and group number identifiers for all Medicaid managed care enrollee identification cards for pharmacy benefits.
+
+(8) The MCO, PIHP, or PAHP that contracts with any subcontractor for the delivery or administration of the covered outpatient drug benefit must require the subcontractor to report separately to the MCO, PIHP, or PAHP the amounts related to:
+
+(i) The incurred claims described in § 438.8(e)(2) such as reimbursement for the covered outpatient drug, payments for other patient services, and the fees paid to providers or pharmacies for dispensing or administering a covered outpatient drug; and
+
+(ii) Administrative costs, fees and expenses of the subcontractor.
+
 (t) *Requirements for MCOs, PIHPs, or PAHPs responsible for coordinating benefits for dually eligible individuals.* In a State that enters into a Coordination of Benefits Agreement (COBA) with Medicare for Medicaid, an MCO, PIHP, or PAHP contract that includes responsibility for coordination of benefits for individuals dually eligible for Medicaid and Medicare must specify the methodology by which the State ensures that the appropriate MCO, PIHP, or PAHP receives all applicable crossover claims for which the MCO, PIHP, or PAHP is responsible. If the State elects to use a methodology other than requiring the MCO, PIHP, or PAHP to enter into a COBA with Medicare, that methodology must ensure that the submitting provider is promptly informed on the State's remittance advice that the State has not denied payment and that the claim has been sent to the MCO, PIHP, or PAHP for payment consideration.
 
 (u) *Recordkeeping requirements.* MCOs, PIHPs, and PAHPs must retain, and require subcontractors to retain, as applicable, the following information: enrollee grievance and appeal records in § 438.416, base data in § 438.5(c), MLR reports in § 438.8(k), and the data, information, and documentation specified in §§ 438.604, 438.606, 438.608, and 438.610 for a period of no less than 10 years.
 
 (v) *Applicability date.* Paragraphs (e)(2)(v) of this section applies to the first rating period for contracts with MCOs, PIHPs and PAHPs beginning on or after 60 days following July 9, 2024, and paragraphs (i)(3) and (4) of this section apply to the first rating period for contracts with MCOs, PIHPs and PAHPs beginning on or after 1 year following July 9, 2024.
 
-[81 FR 27853, May 6, 2016, as amended at 85 FR 37243, June 19, 2020; 85 FR 72837, Nov. 13, 2020; 85 FR 87101, Dec. 31, 2020; 89 FR 37691, May 6, 2024; 89 FR 41267, May 10, 2024]
+(w) *Applicability date.* Paragraphs (s)(7) and (8) of this section apply to the first rating period for contracts with MCOs, PIHPs, and PAHPs beginning on or after 1 year following November 19, 2024.
+
+[81 FR 27853, May 6, 2016, as amended at 85 FR 37243, June 19, 2020; 85 FR 72837, Nov. 13, 2020; 85 FR 87101, Dec. 31, 2020; 89 FR 37691, May 6, 2024; 89 FR 41267, May 10, 2024; 89 FR 79081, Sept. 26, 2024]

@@ -1,7 +1,5 @@
 ##### § 433.139 Payment of claims. #####
 
-Link to an amendment published at 89 FR 79081, Sept. 26, 2024.
-
 (a) *Basic provisions.* (1) For claims involving third party liability that are processed on or after May 12, 1986, the agency must use the procedures specified in paragraphs (b) through (f) of this section.
 
 (2) The agency must submit documentation of the methods (e.g., cost avoidance, pay and recover later) it uses for payment of claims involving third party liability to the CMS Regional Office.
@@ -14,13 +12,13 @@ Link to an amendment published at 89 FR 79081, Sept. 26, 2024.
 
 (3) The agency must pay the full amount allowed under the agency's payment schedule for the claim and seek reimbursement from any liable third party to the limit of legal liability (and for purposes of paragraph (b)(3)(ii) of this section, from a third party, if the third party liability is derived from an absent parent whose obligation to pay support is being enforced by the State title IV-D agency), consistent with paragraph (f) of this section if—
 
-(i) The claim is for preventive pediatric services, including early and periodic screening, diagnosis and treatment services provided for under part 441, subpart B, of this chapter, that are covered under the State plan; or
+(i) The claim is for preventive pediatric services, including early and periodic screening, diagnosis and treatment services provided for under part 441, subpart B, of this chapter, that are covered under the State plan that requires a State to make payments without regard to third party liability for pediatric preventive services except that the State may, if the State determines doing so is cost-effective and will not adversely affect access to care, only make such payment if a third party so liable has not made payment within 90 days after the date the provider of such services has initially submitted a claim to such third party for payment for such services; or
 
 (ii) The claim is for a service covered under the State plan that is provided to an individual on whose behalf child support enforcement is being carried out by the State title IV-D agency. The agency prior to making any payment under this section must assure that the following requirements are met:
 
 (A) The State plan specifies whether or not providers are required to bill the third party.
 
-(B) For child support enforcement services beginning February 9, 2018, the provider certifies that before billing Medicaid, if the provider has billed a third party, the provider has waited 100 days from the date of the service and has not received payment from the third party.
+(B) For child support enforcement services beginning February 9, 2018, the provider certifies that before billing Medicaid, if the provider has billed a third party, the provider has waited up to 100 days after the date of the service and provider of such services has initially submitted a claim to such third party for payment for such services, except that the State may make such payment within 30 days after such date if the State determines doing so is cost-effective and necessary to ensure access to care.
 
 (C) The State plan specifies the method used in determining the provider's compliance with the billing requirements.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 89 FR 79081, Sept. 26, 2024.
 
 (3) The State plan must also specify the dollar amount or period of time for which it will accumulate billings with respect to a particular liable third party in making the decision whether to seek recovery of reimbursement.
 
-[50 FR 46665, Nov. 12, 1985, as amended at 51 FR 16319, May 2, 1986; 60 FR 35503, July 10, 1995; 62 FR 23140, Apr. 29, 1997; 85 FR 87100, Dec. 31, 2020]
+[50 FR 46665, Nov. 12, 1985, as amended at 51 FR 16319, May 2, 1986; 60 FR 35503, July 10, 1995; 62 FR 23140, Apr. 29, 1997; 85 FR 87100, Dec. 31, 2020; 89 FR 79081, Sept. 26, 2024]

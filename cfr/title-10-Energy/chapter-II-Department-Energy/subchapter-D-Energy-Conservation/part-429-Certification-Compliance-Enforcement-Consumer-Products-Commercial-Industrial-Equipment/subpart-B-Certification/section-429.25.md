@@ -8,7 +8,7 @@
 
 (A) The mean of the sample, where:
 
-![](/graphics/er25oc13.007.gif)and x is the sample mean; *n* is the number of samples; and *x*i is the *i*th sample;Or,
+![](/graphics/er25oc13.007.gif)and x is the sample mean; *n* is the number of samples; and *x*i is the *i*th sample; Or,
 
 (B) For on mode power consumption, the upper 95 percent confidence limit (UCL) of the true mean divided by 1.05, where:
 

@@ -48,7 +48,7 @@
 
 (b) A licensee shall report any event resulting from intervention of a patient or human research subject in which the administration of byproduct material or radiation from byproduct material results or will result in unintended permanent functional damage to an organ or a physiological system, as determined by a physician.
 
-(c) The licensee shall notify by telephone the NRC Operations Center3 no later than the next calendar day after discovery of the medical event.
+(c) The licensee shall notify by telephone the NRC Operations Center 3 no later than the next calendar day after discovery of the medical event.
 
 3 The commercial telephone number of the NRC Operations Center is (301) 816-5100.
 

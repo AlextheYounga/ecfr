@@ -66,6 +66,8 @@ Eligible Project costs which may be paid with the proceeds of 504 loans are:
 
 (10) [Reserved]
 
+(11) PCLP CDCs may not approve the refinancing of same institution debt under their delegated authority and must submit the application to SBA for approval.
+
 (12) The 504 loans approved under this paragraph (g) must be disbursed within 9 months after loan approval. The Director, Office of Financial Assistance, or his or her designee, may approve a request for extension of the disbursement period for an additional 6 months for good cause.
 
 (13) The Third Party Loan may not be sold on the secondary market as a part of a pool guaranteed under subpart J of this part, or any successor to this program, when the debt being refinanced is same institution debt;

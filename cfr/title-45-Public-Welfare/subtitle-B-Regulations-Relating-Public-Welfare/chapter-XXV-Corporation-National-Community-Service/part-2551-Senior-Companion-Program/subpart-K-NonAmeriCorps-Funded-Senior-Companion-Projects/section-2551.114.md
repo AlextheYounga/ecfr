@@ -1,4 +1,4 @@
-##### § 2551.114 What happens if a non-CNCS funded sponsor does not comply with the NGA? #####
+##### § 2551.114 What happens if a non-AmeriCorps funded sponsor does not comply with the NGA? #####
 
 A non-AmeriCorps funded project sponsor's noncompliance with the NGA may result in suspension or termination AmeriCorps' agreement and all benefits specified in § 2551.112.
 

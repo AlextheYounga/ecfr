@@ -1,6 +1,4 @@
-##### § 447.510 Requirements for manufacturers. #####
-
-Link to an amendment published at 89 FR 79084, Sept. 26, 2024.
+##### § 447.510 Requirement and penalties for manufacturers. #####
 
 (a) *Quarterly reports.* A manufacturer must report product and pricing information for covered outpatient drugs to CMS not later than 30 days after the end of the rebate period. The quarterly pricing report must include the following:
 
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 79084, Sept. 26, 2024.
 
 (iv) The change is due to a technical correction; that is, not based on any changes in sales transactions or pricing adjustments from such transactions.
 
-(v) The change is to address specific rebate adjustments to States by manufacturers, as required by CMS or court order, or under an internal investigation, or an OIG or Department of Justice (DOJ) investigation.
+(v) The change is to address specific rebate adjustments to States by manufacturers, as required by CMS or court order, or under an internal investigation as defined at § 447.502, or an Office of Inspector General (OIG) or Department of Justice investigation.
 
 (vi) The change is a result of a VBP arrangement, as defined in § 447.502, requiring the manufacturer to make changes outside of the 12-quarter rule in this paragraph (b), when the outcome must be evaluated outside of the 12-quarter period.
 
@@ -96,4 +94,12 @@ Link to an amendment published at 89 FR 79084, Sept. 26, 2024.
 
 (g) *Data reporting format.* All product and pricing data, whether submitted on a quarterly or monthly basis, must be submitted to CMS in an electronic format designated by CMS.
 
-[81 FR 5347, Feb. 1, 2016, as amended at 85 FR 87103, Dec. 31, 2020]
+(h) *Suspension of manufacturer's NDRA for late reporting of drug pricing and drug product information.*
+
+(1) If a manufacturer fails to timely provide information required to be reported to the agency under section 1927(b)(3)(A) of the Act, and paragraphs (a) and (d) of this section, the agency will provide written notice to the manufacturer of failure to provide timely information. If such information is not reported within 90 calendar days of the date of the notice communicated to the manufacturer electronically and in writing by the agency, such failure by the manufacturer to report such information in a timely manner shall result in suspension of the manufacturer's rebate agreement for all covered outpatient drugs furnished after the end of the 90-day calendar period. The rebate agreement will remain suspended until the date the information is reported to the agency in full and certified, and the agency reviews for completeness, but not for a period of fewer than 30 calendar days. Continued suspension of the rebate agreement could result in termination for cause. Suspension of a manufacturer's rebate agreement under this section applies for Medicaid purposes only and does not affect manufacturer obligations and responsibilities under the 340B Program or reimbursement under Medicare Part B during the period of the suspension.
+
+(2) During the period of the suspension, the covered outpatient drugs of the manufacturer are not eligible for FFP. The agency will notify the States 30 calendar days before the beginning of the suspension period for the manufacturer's rebate agreement and any applicable associated labeler rebate agreements.
+
+(i) *Manufacturer audits of State-provided information.* A manufacturer may only initiate a dispute, request a hearing, or seek an audit of a State regarding State drug utilization data, during a period not to exceed 12 quarters from the last day of the quarter from the State invoice postmark date.
+
+[81 FR 5347, Feb. 1, 2016, as amended at 85 FR 87103, Dec. 31, 2020; 89 FR 79084, Sept. 26, 2024]

@@ -342,8 +342,7 @@ Link to an amendment published at 89 FR 82070, Oct. 9, 2024.
 
 (*4*) Obtaining DOE authorization to resume use of an AEDM.
 
-(f) *Alternative efficiency determination method (AEDM) for walk-in refrigeration systems and doors*—
-(1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to a basic model to determine its efficiency pursuant to this section unless:
+(f) *Alternative efficiency determination method (AEDM) for walk-in refrigeration systems and doors*— (1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to a basic model to determine its efficiency pursuant to this section unless:
 
 (i) The AEDM is derived from a mathematical model that estimates the energy efficiency or energy consumption characteristics of the basic model as measured by the applicable DOE test procedure;
 

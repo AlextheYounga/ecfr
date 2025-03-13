@@ -6,5 +6,4 @@
 
 (c) In § 63.47, IAEA Design Information Questionnaire forms IAEA Design Information Questionnaire forms are approved under control number 3150-0056, and DOC/NRC Forms AP-1, AP-A, and associated forms are approved under control numbers 0694-0135.
 
-[66 FR 55792, Nov. 2, 2001, as amended at 73 FR 78606, Dec. 23, 2008; 85 FR 65663, Oct. 16, 2020]
-IAEA Design Information Questionnaire forms
+[66 FR 55792, Nov. 2, 2001, as amended at 73 FR 78606, Dec. 23, 2008; 85 FR 65663, Oct. 16, 2020] IAEA Design Information Questionnaire forms

@@ -16,7 +16,7 @@
 
 (ii) A means to prevent inadvertent intrusion on the source, unless the source is not accessible to any subsequent drilling operations; and
 
-(iii) A permanent identification plaque, constructed of long lasting material such as stainless steel, brass, bronze, or monel, must be mounted at the surface of the well, unless the mounting of the plaque is not practical. The size of the plaque must be at least 17 cm [7 inches] square and 3 mm [1/8-inch] thick. The plaque must contain—
+(iii) A permanent identification plaque, constructed of long lasting material such as stainless steel, brass, bronze, or monel, must be mounted at the surface of the well, unless the mounting of the plaque is not practical. The size of the plaque must be at least 17 cm [7 inches] square and 3 mm [ 1/8-inch] thick. The plaque must contain—
 
 (A) The word “CAUTION”;
 

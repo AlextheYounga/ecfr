@@ -12,7 +12,7 @@ The dose equivalents for the lens of the eye, the skin, and the extremities are 
 
 (2) The total number of derived air concentration-hours (DAC-hours) for all radionuclides divided by 2,000, or
 
-(3) The sum of the calculated committed effective dose equivalents to all significantly irradiated1 organs or tissues (T) calculated from bioassay data using appropriate biological models and expressed as a fraction of the annual limit.
+(3) The sum of the calculated committed effective dose equivalents to all significantly irradiated 1 organs or tissues (T) calculated from bioassay data using appropriate biological models and expressed as a fraction of the annual limit.
 
 1 An organ or tissue is deemed to be significantly irradiated if, for that organ or tissue, the product of the weighting factor, wT, and the committed dose equivalent, HT,50, per unit intake is greater than 10 percent of the maximum weighted value of HT,50, (*i.e.*, WT HT,50) per unit intake for any organ or tissue.
 

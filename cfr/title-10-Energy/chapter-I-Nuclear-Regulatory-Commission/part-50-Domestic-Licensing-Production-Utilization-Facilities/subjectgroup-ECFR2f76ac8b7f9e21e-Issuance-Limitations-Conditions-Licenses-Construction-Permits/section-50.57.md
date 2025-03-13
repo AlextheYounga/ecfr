@@ -1,4 +1,4 @@
-##### § 50.57 Issuance of operating license.1 #####
+##### § 50.57 Issuance of operating license. 1 #####
 
 1 The Commission may issue a provisional operating license pursuant to the regulations in this part in effect on March 30, 1970, for any facility for which a notice of hearing on an application for a provisional operating license or a notice of proposed issuance of a provisional operating license has been published on or before that date.
 

@@ -26,9 +26,7 @@
 
 (A) That the investment adviser shall not be required to keep any unsolicited market letters and other similar communications of general public distribution not prepared by or for the investment adviser; and
 
-(B) That if the investment adviser sends any notice, circular, or other advertisement (as defined in § 275.206(4)-1(e)(1) of this chapter) offering any report, analysis, publication or other investment advisory service to more than ten persons, the investment adviser shall not be required to keep a record of the names and addresses of the persons to whom it was sent; except that if such notice, circular, or advertisement is distributed to persons named on any list, the investment adviser shall retain with the copy of such notice, circular, or advertisement a memorandum describing the list and the source thereof; and
-
-(v) Any notice required pursuant to § 275.211(h)(2)-3 as well as a record of each addressee and the corresponding date(s) sent.
+(B) That if the investment adviser sends any notice, circular, or other advertisement (as defined in § 275.206(4)-1(e)(1) of this chapter) offering any report, analysis, publication or other investment advisory service to more than ten persons, the investment adviser shall not be required to keep a record of the names and addresses of the persons to whom it was sent; except that if such notice, circular, or advertisement is distributed to persons named on any list, the investment adviser shall retain with the copy of such notice, circular, or advertisement a memorandum describing the list and the source thereof.
 
 (8) A list or other record of all accounts in which the investment adviser is vested with any discretionary power with respect to the funds, securities or transactions of any client.
 
@@ -108,21 +106,7 @@
 
 (19) A record of who the “intended audience” is pursuant to § 275.206(4)-1(d)(6) and(e)(10)(ii)(B) of this chapter.
 
-(20)(i) A copy of any quarterly statement distributed pursuant to § 275.211(h)(1)-2, along with a record of each addressee and the corresponding date(s) sent; and
-
-(ii) All records evidencing the calculation method for all expenses, payments, allocations, rebates, offsets, waivers, and performance listed on any statement delivered pursuant to § 275.211(h)(1)-2.
-
-(21) For each private fund client:
-
-(i) A copy of any audited financial statements prepared and *distributed* pursuant to § 275.206(4)-10, along with a record of each addressee and the corresponding date(s) sent; or
-
-(ii) A record documenting steps taken by the adviser to cause a private fund client that the adviser does not control, is not controlled by, and with which it is not under common control to undergo a financial statement audit pursuant to § 275.206(4)-10.
-
-(22) Documentation substantiating the adviser's determination that a private fund client is a *liquid fund* or an *illiquid fund* pursuant to § 275.211(h)(1)-2.
-
-(23) A copy of any *fairness opinion* or *valuation opinion* and material business relationship summary *distributed* pursuant to § 275.211(h)(2)-2, along with a record of each addressee and the corresponding date(s) sent.
-
-(24) A copy of any notification, consent or other document *distributed* or received pursuant to § 275.211(h)(2)-1, along with a record of each addressee and the corresponding date(s) sent for each such document distributed by the adviser.
+(20) - (24) [Reserved]
 
 (25)(i) The written policies and procedures required to be adopted and implemented pursuant to § 248.30(a)(1);
 

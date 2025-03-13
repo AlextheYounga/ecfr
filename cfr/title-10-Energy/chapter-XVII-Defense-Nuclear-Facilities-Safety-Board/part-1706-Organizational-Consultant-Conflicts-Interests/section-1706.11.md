@@ -16,7 +16,7 @@ Organizational and Consultant Conflicts of Interest Certificate—Advisory and A
 
 (3) A description of the nature of the services rendered by or to be rendered on the instant contract.
 
-(4) The name, address, and telephone number of the client or clients, a description of the services rendered to the previous client(s), and the name of a responsible officer or employee of the offeror who is knowledgeable about the services rendered to each client, if, in the 12\*months preceding the date of the certification, services were rendered to the Government or any other client (including a foreign government or person) respecting the same subject matter as the instant solicitation, or directly relating to such subject matter. The agency and contract number under which the services were rendered must also be included, if applicable.
+(4) The name, address, and telephone number of the client or clients, a description of the services rendered to the previous client(s), and the name of a responsible officer or employee of the offeror who is knowledgeable about the services rendered to each client, if, in the 12\* months preceding the date of the certification, services were rendered to the Government or any other client (including a foreign government or person) respecting the same subject matter as the instant solicitation, or directly relating to such subject matter. The agency and contract number under which the services were rendered must also be included, if applicable.
 
 \* If approved by the head of the contracting activity, this period may be increased up to 36 months.
 

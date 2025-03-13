@@ -1,7 +1,5 @@
 ##### § 14.10 Definitions. #####
 
-Link to an amendment published at 89 FR 77360, Sept. 20, 2024.
-
 (a) The term *accessible* shall have the meaning provided in § 14.21(b).
 
 (b) The term *achievable* shall mean with reasonable effort or expense, as determined by the Commission. In making such a determination, the Commission shall consider:
@@ -14,15 +12,17 @@ Link to an amendment published at 89 FR 77360, Sept. 20, 2024.
 
 (4) The extent to which the service provider or manufacturer in question offers accessible services or equipment containing varying degrees of functionality and features, and offered at differing price points.
 
-(c) The term *advanced communications services* shall mean:
+(c) The term *advanced communications services* means:
 
-(1) Interconnected VoIP service, as that term is defined in this section;
+(1) Interconnected VoIP service, as that term is defined in paragraph (l) of this section;
 
-(2) Non-interconnected VoIP service, as that term is defined in this section;
+(2) Non-interconnected VoIP service, as that term is defined in paragraph (q) of this section;
 
-(3) Electronic messaging service, as that term is defined in this section; and
+(3) Electronic messaging service, as that term is defined in paragraph (i) of this section;
 
-(4) Interoperable video conferencing service, as that term is defined in this section.
+(4) Interoperable video conferencing service, as that term is defined in paragraph (m) of this section; and
+
+(5) Any audio or video communications services used by inmates for the purposes of communicating with individuals outside the correctional institution where the inmate is held, regardless of technology used.
 
 (d) The term *application* shall mean software designed to perform or to help the user perform a specific task or specific tasks, such as communicating by voice, electronic text messaging, or video conferencing.
 
@@ -72,4 +72,4 @@ Link to an amendment published at 89 FR 77360, Sept. 20, 2024.
 
 (x) The term *text-capable end user device* means end user equipment that is able to send, receive, and display text.
 
-[76 FR 82389, Dec. 30, 2011, as amended at 82 FR 7707, Jan. 23, 2017]
+[76 FR 82389, Dec. 30, 2011, as amended at 82 FR 7707, Jan. 23, 2017; 89 FR 77360, Sept. 20, 2024]

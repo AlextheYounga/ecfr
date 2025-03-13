@@ -1,7 +1,5 @@
 ##### § 447.502 Definitions. #####
 
-Link to an amendment published at 89 FR 79081, Sept. 26, 2024.
-
 For the purpose of this subpart, the following definitions apply:
 
 *Actual acquisition cost (AAC)* means the agency's determination of the pharmacy providers' actual prices paid to acquire drug products marketed or sold by specific manufacturers.
@@ -26,7 +24,7 @@ For the purpose of this subpart, the following definitions apply:
 
 *Consumer Price Index—Urban (CPI-U)* means the index of consumer prices developed and updated by the U.S. Department of Labor. It is the CPI for all urban consumers (U.S. average) for the month before the beginning of the calendar quarter for which the rebate is paid.
 
-*Covered outpatient drug* means, of those drugs which are treated as a prescribed drug for the purposes of section 1905(a)(12) of the Act, a drug which may be dispensed only upon a prescription (except as provided in paragraphs (2) and (3) of this definition).
+*Covered outpatient drug (COD)* means, of those drugs which are treated as a prescribed drug for the purposes of section 1905(a)(12) of the Act, a drug which may be dispensed only upon a prescription (except as provided in paragraphs (2) and (3) of this definition).
 
 (1) A drug can only be considered a covered outpatient drug if it:
 
@@ -40,7 +38,7 @@ For the purpose of this subpart, the following definitions apply:
 
 (v) Is insulin certified under section 506 of the FFDCA.
 
-(2) A covered outpatient drug does not include any drug, biological product, or insulin provided as part of or incident to and in the same setting as any of the following services (and for which payment may be made as part of that service instead of as a direct reimbursement for the drug):
+(2) A covered outpatient drug does not include any drug, biological product, or insulin provided as part of or incident to and in the same setting as any of the services in paragraphs (2)(i) through (viii) of this definition (and for which payment may be made as part of payment for that service and not as direct reimbursement for the drug, as described in paragraph (4) of this definition).
 
 (i) Inpatient Services;
 
@@ -68,9 +66,25 @@ For the purpose of this subpart, the following definitions apply:
 
 (iv) Over-the-counter products that are not drugs.
 
+(4) Direct reimbursement for a drug may include both:
+
+(i) Reimbursement for a drug alone, or
+
+(ii) Reimbursement for a drug plus the service, in a single inclusive payment if:
+
+(A) The drug, charge for the drug, and number of units of the drug are separately identified on the claim, and;
+
+(B) The inclusive payment includes an amount directly attributable to the drug, and,
+
+(C) The amount paid that is attributable to the drug is based on a reimbursement methodology that is included in the applicable section of the State plan.
+
 *Customary prompt pay discount* means any discount off of the purchase price of a drug routinely offered by the manufacturer to a wholesaler for prompt payment of purchased drugs within a specified timeframe and consistent with customary business practices for payment.
 
+*Drug product information* means National Drug Code (NDC), drug name, units per package size (UPPS), drug category (“S”, “I”, “N”), unit type (for example, TAB, CAP, ML, EA), drug type (prescription, over-the-counter), base date AMP, therapeutic equivalent code (TEC), line extension indicator, 5i indicator, 5i route of administration (if applicable), FDA approval date, FDA application number or OTC monograph citation (if applicable), market date, and COD status.
+
 *Innovator multiple source drug* means a multiple source drug, including an authorized generic drug, that is marketed under a new drug application (NDA) approved by FDA, unless the Secretary determines that a narrow exception applies (as described in this section). It also includes a drug product marketed by any cross-licensed producers, labelers, or distributors operating under the NDA and a covered outpatient drug approved under a biologics license application (BLA), product license application (PLA), establishment license application (ELA) or antibiotic drug application (ADA).
+
+*Internal investigation* means a manufacturer's investigation of its AMP, best price, customary prompt pay discounts, or nominal prices that have been previously certified in the Medicaid Drug Rebate Program (MDRP) that results in a finding made by the manufacturer of possible fraud, abuse, or violation of law or regulation. A manufacturer must make data available to CMS to support its finding.
 
 *Lagged price concession* means any discount or rebate that is realized after the sale of the drug, but does not include customary prompt pay discounts.
 
@@ -85,6 +99,8 @@ For the purpose of this subpart, the following definitions apply:
 (3) For authorized generic products, the term “manufacturer” will also include the original holder of the NDA.
 
 (4) For drugs subject to private labeling arrangements, the term “manufacturer” will also include the entity under whose own label or trade name the product will be distributed.
+
+*Market date,* for the purpose of establishing the base date AMP quarter, means the date on which the covered outpatient drug was first sold by any manufacturer.
 
 *Multiple source drug* means, for a rebate period, a covered outpatient drug, including a drug product approved for marketing as a non-prescription drug that is regarded as a covered outpatient drug under section 1927(k)(4) of the Act, for which there is at least 1 other drug product which meets all of the following criteria:
 
@@ -108,7 +124,7 @@ For the purpose of this subpart, the following definitions apply:
 
 (2) A multiple source drug that is marketed under an ANDA or an abbreviated antibiotic drug application;
 
-(3) A covered outpatient drug that entered the market before 1962 that was not originally marketed under an NDA;
+(3) A covered outpatient drug that entered the market before 1962 that is not marketed under an NDA;
 
 (4) Any drug that has not gone through an FDA approval process, but otherwise meets the definition of covered outpatient drug; or
 
@@ -144,4 +160,4 @@ For the purpose of this subpart, the following definitions apply:
 
 *Wholesaler* means a drug wholesaler that is engaged in wholesale distribution of prescription drugs to retail community pharmacies, including but not limited to repackers, distributors, own-label distributors, private-label distributors, jobbers, brokers, warehouses (including distributor's warehouses, chain drug warehouses, and wholesale drug warehouses), independent wholesale drug traders, and retail community pharmacies that conduct wholesale distributions.
 
-[81 FR 5347, Feb. 1, 2016, as amended at 81 FR 80005, Nov. 15, 2016; 84 FR 64786, Nov. 25, 2019; 85 FR 87101, Dec. 31, 2020; 86 FR 64825, Nov. 19, 2021]
+[81 FR 5347, Feb. 1, 2016, as amended at 81 FR 80005, Nov. 15, 2016; 84 FR 64786, Nov. 25, 2019; 85 FR 87101, Dec. 31, 2020; 86 FR 64825, Nov. 19, 2021; 89 FR 79081, Sept. 26, 2024]

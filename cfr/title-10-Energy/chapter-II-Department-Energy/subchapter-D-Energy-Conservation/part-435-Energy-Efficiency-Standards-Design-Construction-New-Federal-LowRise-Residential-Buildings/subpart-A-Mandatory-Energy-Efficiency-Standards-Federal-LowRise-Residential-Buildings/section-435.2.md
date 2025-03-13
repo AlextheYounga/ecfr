@@ -10,7 +10,7 @@ For purposes of this part, the following terms, phrases and words shall be defin
 
 *DOE* means U.S. Department of Energy.
 
-*EISA-subject building or project* means, for purposes of this rule, any new building or renovation project that is subject to the cost thresholds and reporting requirements in Section 433 of EISA ((42 U.S.C. 6834(a)(3)(D)(i))). The cost threshold referenced in Section 433 of EISA is $2.5 million in 2007 dollars. GSA provides a table of annual updates to this cost threshold at *https://www.gsa.gov/real-estate/design-and-construction/annual-prospectus-thresholds.* GSA also provides a second cost threshold for renovations of leased buildings that is1/2 of the cost threshold for renovation of Federally owned buildings.
+*EISA-subject building or project* means, for purposes of this rule, any new building or renovation project that is subject to the cost thresholds and reporting requirements in Section 433 of EISA ((42 U.S.C. 6834(a)(3)(D)(i))). The cost threshold referenced in Section 433 of EISA is $2.5 million in 2007 dollars. GSA provides a table of annual updates to this cost threshold at *https://www.gsa.gov/real-estate/design-and-construction/annual-prospectus-thresholds.* GSA also provides a second cost threshold for renovations of leased buildings that is 1/2 of the cost threshold for renovation of Federally owned buildings.
 
 *Federal agency* means any department, agency, corporation, or other entity or instrumentality of the executive branch of the Federal Government, including the United States Postal Service, the Federal National Mortgage Association, and the Federal Home Loan Mortgage Corporation.
 

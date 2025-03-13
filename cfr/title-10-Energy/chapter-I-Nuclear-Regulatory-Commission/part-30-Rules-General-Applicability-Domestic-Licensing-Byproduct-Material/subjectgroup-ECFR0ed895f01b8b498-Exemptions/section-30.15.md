@@ -56,7 +56,7 @@
 
 (vi) 30 microcuries of promethium-147;
 
-*And provided further,* That the levels of radiation from each electron tube containing byproduct material do not exceed 1 millirad per hour at 1 centimeter from any surface when measured through 7 milligrams per square centimeter of absorber.1
+*And provided further,* That the levels of radiation from each electron tube containing byproduct material do not exceed 1 millirad per hour at 1 centimeter from any surface when measured through 7 milligrams per square centimeter of absorber. 1
 
 1 For purposes of this paragraph “electron tubes” include spark gap tubes, power tubes, gas tubes including glow lamps, receiving tubes, microwave tubes, indicator tubes, pickup tubes, radiation detection tubes, and any other completely sealed tube that is designed to conduct or control electrical currents.
 
@@ -72,4 +72,4 @@
 
 (b) Any person who desires to apply byproduct material to, or to incorporate byproduct material into, the products exempted in paragraph (a) of this section, or who desires to initially transfer for sale or distribution such products containing byproduct material, should apply for a specific license pursuant to § 32.14 of this chapter, which license states that the product may be distributed by the licensee to persons exempt from the regulations pursuant to paragraph (a) of this section.
 
-[31 FR 5316, Apr. 2, 1966]Editorial Note:For Federal Register citations affecting § 30.15, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[31 FR 5316, Apr. 2, 1966] Editorial Note:For Federal Register citations affecting § 30.15, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -4,7 +4,7 @@
 
 1 Other requirements for immediate notification of the NRC by licensed operating nuclear power reactors are contained elsewhere in this chapter, in particular §§ 20.1906, 20.2202, 50.36, 72.74, 72.75, and 73.1200.
 
-(i) The declaration of any of the Emergency Classes specified in the licensee's approved Emergency Plan;2 or
+(i) The declaration of any of the Emergency Classes specified in the licensee's approved Emergency Plan; 2 or
 
 2 These Emergency Classes are addressed in Appendix E of this part.
 
@@ -14,7 +14,7 @@
 
 (3) The licensee shall notify the NRC immediately after notification of the appropriate State or local agencies and not later than one hour after the time the licensee declares one of the Emergency Classes.
 
-(4) The licensee shall activate the Emergency Response Data System (ERDS)3 as soon as possible but not later than one hour after declaring an Emergency Class of alert, site area emergency, or general emergency. The ERDS may also be activated by the licensee during emergency drills or exercises if the licensee's computer system has the capability to transmit the exercise data.
+(4) The licensee shall activate the Emergency Response Data System (ERDS) 3 as soon as possible but not later than one hour after declaring an Emergency Class of alert, site area emergency, or general emergency. The ERDS may also be activated by the licensee during emergency drills or exercises if the licensee's computer system has the capability to transmit the exercise data.
 
 3 Requirements for ERDS are addressed in Appendix E, Section VI.
 
@@ -56,7 +56,7 @@
 
 (B) The systems to which the requirements of paragraph (b)(3)(iv)(A) of this section apply are:
 
-(*1*) Reactor protection system (RPS) including: Reactor scram and reactor trip.4
+(*1*) Reactor protection system (RPS) including: Reactor scram and reactor trip. 4
 
 4 Actuation of the RPS when the reactor is critical is reportable under paragraph (b)(2)(iv)(B) of this section.
 

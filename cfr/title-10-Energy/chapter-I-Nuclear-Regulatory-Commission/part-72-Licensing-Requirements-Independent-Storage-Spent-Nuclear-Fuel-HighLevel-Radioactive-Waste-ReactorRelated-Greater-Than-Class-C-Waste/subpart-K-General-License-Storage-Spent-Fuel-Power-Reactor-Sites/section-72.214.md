@@ -1,7 +1,5 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 89 FR 72303, Sept. 5, 2024.Link to an amendment published at 89 FR 72308, Sept. 5, 2024.
-
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
 Certificate Number: 1004.
@@ -144,43 +142,45 @@ Renewed Certificate Expiration Date: October 4, 2059.
 
 Model Number: HI-STAR 100 (MPC-24, MPC-32, MPC-68, MPC-68F).
 
-Certificate Number: 1014.
+*Certificate Number:* 1014.
 
-*Initial Certificate Effective Date:* May 31, 2000, superseded by Renewed Initial Certificate Effective Date: August 2, 2023.
+*Initial Certificate Effective Date:* May 31, 2000, superseded by *Renewed Initial Certificate Effective Date:* August 2, 2023.
 
-*Amendment Number 1 Effective Date:* July 15, 2002, superseded by Renewed Amendment Number 1 Effective Date: August 2, 2023.
+*Amendment Number 1 Effective Date:* July 15, 2002, superseded by *Renewed Amendment Number 1 Effective Date:* August 2, 2023.
 
-*Amendment Number 2 Effective Date:* June 7, 2005, superseded by Renewed Amendment Number 2 Effective Date: August 2, 2023.
+*Amendment Number 2 Effective Date:* June 7, 2005, superseded by *Renewed Amendment Number 2 Effective Date:* August 2, 2023.
 
-*Amendment Number 3 Effective Date:* May 29, 2007, superseded by Renewed Amendment Number 3 Effective Date: August 2, 2023.
+*Amendment Number 3 Effective Date:* May 29, 2007, superseded by *Renewed Amendment Number 3 Effective Date:* August 2, 2023.
 
-*Amendment Number 4 Effective Date:* January 8, 2008, superseded by Renewed Amendment Number 4 Effective Date: August 2, 2023.
+*Amendment Number 4 Effective Date:* January 8, 2008, superseded by *Renewed Amendment Number 4 Effective Date:* August 2, 2023.
 
-*Amendment Number 5 Effective Date:* July 14, 2008, superseded by Renewed Amendment Number 5 Effective Date: August 2, 2023.
+*Amendment Number 5 Effective Date:* July 14, 2008, superseded by *Renewed Amendment Number 5 Effective Date:* August 2, 2023.
 
-*Amendment Number 6 Effective Date:* August 17, 2009, superseded by Renewed Amendment Number 6 Effective Date: August 2, 2023.
+*Amendment Number 6 Effective Date:* August 17, 2009, superseded by *Renewed Amendment Number 6 Effective Date:* August 2, 2023.
 
-*Amendment Number 7 Effective Date:* December 28, 2009, superseded by Renewed Amendment Number 7 Effective Date: August 2, 2023.
+*Amendment Number 7 Effective Date:* December 28, 2009, superseded by *Renewed Amendment Number 7 Effective Date:* August 2, 2023.
 
-*Amendment Number 8 Effective Date:* May 2, 2012, as corrected on November 16, 2012 (ADAMS Accession No. ML12213A170); superseded by Amendment Number 8, Revision 1, Effective Date: February 16, 2016; superseded by Renewed Amendment Number 8, Revision 1 Effective Date: August 2, 2023.
+*Amendment Number 8 Effective Date:* May 2, 2012, as corrected on November 16, 2012 (ADAMS Accession No. ML12213A170); superseded by *Amendment Number 8, Revision 1, Effective Date:* February 16, 2016; superseded by *Renewed Amendment Number 8, Revision 1 Effective Date:* August 2, 2023.
 
-*Amendment Number 9 Effective Date:* March 11, 2014, superseded by Amendment Number 9, Revision 1, *Effective Date:* March 21, 2016, as corrected on August 25, 2017 (ADAMS Accession No. ML17236A451); superseded by Renewed Amendment Number 9, Revision 1 Effective Date: August 2, 2023.
+*Amendment Number 9 Effective Date:* March 11, 2014, superseded by *Amendment Number 9, Revision 1, Effective Date:* March 21, 2016, as corrected on August 25, 2017 (ADAMS Accession No. ML17236A451); superseded by *Renewed Amendment Number 9, Revision 1 Effective Date:* August 2, 2023.
 
-*Amendment Number 10 Effective Date:* May 31, 2016, as corrected on August 25, 2017 (ADAMS Accession No. ML17236A452); superseded by Renewed Amendment Number 10 Effective Date: August 2, 2023.
+*Amendment Number 10 Effective Date:* May 31, 2016, as corrected on August 25, 2017 (ADAMS Accession No. ML17236A452); superseded by *Renewed Amendment Number 10 Effective Date:* August 2, 2023.
 
-*Amendment Number 11 Effective Date:* February 25, 2019, as corrected (ADAMS Accession No. ML19343B024); superseded by Renewed Amendment Number 11 Effective Date: August 2, 2023.
+*Amendment Number 11 Effective Date:* February 25, 2019, as corrected (ADAMS Accession No. ML19343B024); superseded by *Renewed Amendment Number 11 Effective Date:* August 2, 2023.
 
-*Amendment Number 12 Effective Date:* February 25, 2019, as corrected on May 30, 2019 (ADAMS Accession No. ML19109A111); further corrected December 23, 2019 (ADAMS Accession No. ML19343A908); superseded by Renewed Amendment Number 12 Effective Date: August 2, 2023.
+*Amendment Number 12 Effective Date:* February 25, 2019, as corrected on May 30, 2019 (ADAMS Accession No. ML19109A111); further corrected December 23, 2019 (ADAMS Accession No. ML19343A908); superseded by *Renewed Amendment Number 12 Effective Date:* August 2, 2023.
 
-*Amendment Number 13 Effective Date:* May 13, 2019, as corrected on May 30, 2019 (ADAMS Accession No. ML19109A122); further corrected December 23, 2019 (ADAMS Accession No. ML19343B156); superseded by Renewed Amendment Number 13 Effective Date: August 2, 2023.
+*Amendment Number 13 Effective Date:* May 13, 2019, as corrected on May 30, 2019 (ADAMS Accession No. ML19109A122); further corrected December 23, 2019 (ADAMS Accession No. ML19343B156); superseded by *Renewed Amendment Number 13 Effective Date:* August 2, 2023.
 
-*Amendment Number 14 Effective Date:* December 17, 2019, as corrected (ADAMS Accession No. ML19343B287); superseded by Renewed Amendment Number 14 Effective Date: August 2, 2023.
+*Amendment Number 14 Effective Date:* December 17, 2019, as corrected (ADAMS Accession No. ML19343B287); superseded by *Renewed Amendment Number 14 Effective Date:* August 2, 2023.
 
-*Amendment Number 15 Effective Date:* June 14, 2021, superseded by Renewed Amendment Number 15 Effective Date: August 2, 2023.
+*Amendment Number 15 Effective Date:* June 14, 2021, superseded by *Renewed Amendment Number 15 Effective Date:* August 2, 2023.
 
-*Renewed Amendment Number 16 Effective Date:* September 9, 2024.
+Renewed Amendment Number 16 [Reserved].
 
 *Renewed Amendment Number 17 Effective Date:* January 16, 2024.
+
+*Renewed Amendment Number 18 Effective Date:* November 19, 2024.
 
 *Safety Analysis Report (SAR) Submitted by:* Holtec International.
 
@@ -304,8 +304,7 @@ Model Number: TN-32, TN-32A, TN-32B.
 
 *Initial Certificate Effective Date:* May 30, 2000, superseded by Renewed Initial Certificate on February 22, 2022.
 
-*Amendment Number 1 Effective Date:* October 30, 2007, superseded by Renewed
-Amendment Number 1 on February 22, 2022.
+*Amendment Number 1 Effective Date:* October 30, 2007, superseded by Renewed Amendment Number 1 on February 22, 2022.
 
 *SAR Submitted by:* Transnuclear, Inc., now TN Americas LLC.
 
@@ -367,13 +366,13 @@ Model Number: NUHOMS® HD-32PTH.
 
 *Certificate Number:* 1031.
 
-*Initial Certificate Effective Date:* February 4, 2009, superseded by Initial Certificate, Revision 1, on February 1, 2016, superseded by Initial Certificate, Revision 2, on October 16, 2023.
+*Initial Certificate Effective Date:* February 4, 2009, superseded by Initial Certificate, Revision 1, on February 1, 2016, superseded by Initial Certificate, Revision 2 on October 16, 2023.
 
 *Amendment Number 1 Effective Date:* August 30, 2010, superseded by Amendment Number 1, Revision 1, on February 1, 2016, superseded by Amendment Number 1, Revision 2, on October 16, 2023.
 
-*Amendment Number 2 Effective Date:* January 30, 2012, superseded by Amendment Number 2, Revision 1, on February 1, 2016, superseded by Amendment Number 2, Revision 2, on October 16, 2023.
+*Amendment Number 2 Effective Date:* January 30, 2012, superseded by Amendment Number 2, Revision 1, on February 1, 2016, superseded by Amendment Number 2, Revision 2 on October 16, 2023.
 
-*Amendment Number 3 Effective Date:* July 25, 2013, superseded by Amendment Number 3, Revision 1, on February 1, 2016, superseded by Amendment Number 3, Revision 2, on October 16, 2023.
+*Amendment Number 3 Effective Date:* July 25, 2013, superseded by Amendment Number 3, Revision 1, on February 1, 2016, superseded by Amendment Number 3, Revision 2 on October 16, 2023.
 
 *Amendment Number 4 Effective Date:* April 14, 2015, superseded by Amendment Number 4, Revision 1, on October 16, 2023.
 
@@ -392,6 +391,8 @@ Model Number: NUHOMS® HD-32PTH.
 *Amendment Number 11, Effective Date:* October 16, 2023.
 
 *Amendment Number 12, Effective Date:* October 16, 2023.
+
+*Amendment Number 13 Effective Date:* November 19, 2024.
 
 *SAR Submitted by:* NAC International, Inc.
 
