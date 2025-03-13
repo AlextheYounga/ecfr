@@ -1,5 +1,7 @@
 ##### § 422.570 Expediting certain organization determinations. #####
 
+Link to an amendment published at 89 FR 8977, Feb. 8, 2024.
+
 (a) *Request for expedited determination.* An enrollee or a physician (regardless of whether the physician is affiliated with the MA organization) may request that an MA organization expedite an organization determination involving the issues described in § 422.566(b)(3) and (b)(4). (This does not include requests for payment of services already furnished.)
 
 (b) *How to make a request.* (1) To ask for an expedited determination, an enrollee or a physician must submit an oral or written request directly to the MA organization or, if applicable, to the entity responsible for making the determination, as directed by the MA organization.

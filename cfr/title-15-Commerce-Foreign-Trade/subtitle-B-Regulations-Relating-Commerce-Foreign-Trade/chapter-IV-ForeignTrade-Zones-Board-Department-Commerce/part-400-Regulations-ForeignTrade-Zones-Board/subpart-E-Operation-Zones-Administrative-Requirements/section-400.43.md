@@ -1,5 +1,7 @@
 ##### § 400.43 Uniform treatment. #####
 
+Link to an amendment published at 89 FR 8530, Feb. 8, 2024.
+
 Pursuant to Section 14 of the FTZ Act (19 U.S.C. 81n), a grantee shall afford to all who may apply to make use of or participate in the zone uniform treatment under like conditions. Treatment of zone participants within a zone (including application of rates and charges) shall not vary depending on whether a zone participant has procured any zone-related product or service or engaged a particular supplier to provide any such product or service.
 
 (a) *Agreements to be made in writing.* Any agreement or contract related to one or more grantee function(s) and involving a zone participant (e.g., agreements with property owners and agreements with zone operators) must be in writing.

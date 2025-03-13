@@ -1,5 +1,7 @@
 ##### § 400.4 Authority and responsibilities of the Executive Secretary. #####
 
+Link to an amendment published at 89 FR 8527, Feb. 8, 2024.
+
 The Executive Secretary has the following responsibilities and authority:
 
 (a) Represent the Board in administrative, regulatory, operational, and public affairs matters;

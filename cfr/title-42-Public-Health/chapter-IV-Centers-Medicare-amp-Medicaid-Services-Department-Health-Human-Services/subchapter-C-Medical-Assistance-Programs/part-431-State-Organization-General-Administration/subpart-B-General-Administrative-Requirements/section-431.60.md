@@ -1,5 +1,7 @@
 ##### § 431.60 Beneficiary access to and exchange of data. #####
 
+Link to an amendment published at 89 FR 8977, Feb. 8, 2024.
+
 (a) *Application Programming Interface to support Medicaid beneficiaries.* A State must implement and maintain a standards-based Application Programming Interface (API) that permits third-party applications to retrieve, with the approval and at the direction of a current beneficiary or the beneficiary's personal representative, data specified in paragraph (b) of this section through the use of common technologies and without special effort from the beneficiary.
 
 (b) *Accessible content.* A State must make the following information accessible to its current beneficiaries or the beneficiary's personal representative through the API described in paragraph (a) of this section:

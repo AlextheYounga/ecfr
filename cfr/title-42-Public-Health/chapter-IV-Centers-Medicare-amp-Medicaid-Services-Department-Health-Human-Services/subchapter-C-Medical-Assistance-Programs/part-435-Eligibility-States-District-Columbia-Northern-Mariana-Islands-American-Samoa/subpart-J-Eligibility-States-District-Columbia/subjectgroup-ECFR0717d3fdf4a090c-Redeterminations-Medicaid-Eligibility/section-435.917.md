@@ -1,5 +1,7 @@
 ##### § 435.917 Notice of agency's decision concerning eligibility, benefits, or services. #####
 
+Link to an amendment published at 89 FR 8980, Feb. 8, 2024.
+
 (a) *Notice of eligibility determinations.* Consistent with §§ 431.206 through 431.214 of this chapter, the agency must provide all applicants and beneficiaries with timely and adequate written notice of any decision affecting their eligibility, including an approval, denial, termination or suspension of eligibility, or a denial or change in benefits and services. Such notice must—
 
 (1) Be written in plain language;

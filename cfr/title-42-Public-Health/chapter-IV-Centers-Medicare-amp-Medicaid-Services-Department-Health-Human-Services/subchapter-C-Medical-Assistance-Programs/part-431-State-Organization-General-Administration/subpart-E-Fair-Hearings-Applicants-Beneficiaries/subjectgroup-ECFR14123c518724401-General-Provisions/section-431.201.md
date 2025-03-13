@@ -1,5 +1,7 @@
 ##### § 431.201 Definitions. #####
 
+Link to an amendment published at 89 FR 8980, Feb. 8, 2024.
+
 For purposes of this subpart:
 
 *Action* means a termination, suspension of, or reduction in covered benefits or services, or a termination, suspension of, or reduction in Medicaid eligibility or an increase in beneficiary liability, including a determination that a beneficiary must incur a greater amount of medical expenses in order to establish income eligibility in accordance with § 435.121(e)(4) or § 435.831 of this chapter or is subject to an increase in premiums or cost-sharing charges under subpart A of part 447 of this chapter. It also means a determination by a skilled nursing facility or nursing facility to transfer or discharge a resident and an adverse determination by a State with regard to the preadmission screening and resident review requirements of section 1919(e)(7) of the Act.

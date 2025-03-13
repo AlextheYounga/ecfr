@@ -1,8 +1,8 @@
 ##### § 1.143 Submissions to the Secretary. #####
 
-(a) *Electronic submission.* All rule submissions under § 1.142 and 15 U.S.C. 3053(a), rate increases that must be reported to the Commission under 15 U.S.C. 3052(f)(1)(C)(iv), or HISA Guidance that must be submitted to the Commission under 15 U.S.C. 3054(g)(2) must be emailed to the Secretary of the Commission at *electronicfilings@ftc.gov.* The subject line of the email must state: “HISA Rule Submission,” “HISA Rate Increase Submission,” or “HISA Guidance Submission,” as applicable.
+(a) *Electronic submission.* All submissions from the Authority to the Commission pursuant to the provisions of subpart S or U of this part, and all submissions to the Commission pursuant to 15 U.S.C. 3053(a) (proposed rules or rule modifications), 15 U.S.C. 3052(f)(1)(C)(iv) (proposed rate increases), or 15 U.S.C. 3054(g)(2) (guidance) must be emailed to the Secretary of the Commission at *electronicfilings@ftc.gov.* The subject line of the email must begin with “HISA Submission:” followed by a brief description of the submission.
 
-(b) *Format for submission of proposed rules or modifications*—(1) *Electronic format.* Except for supporting documentation submitted pursuant to § 1.142(b) and copies of comments submitted pursuant to § 1.142(f), all documents submitted to the Secretary must be in a word processing format.
+(b) *Format for submissions*—(1)*Electronic format.* All documents submitted to the Secretary under this section must be submitted in .pdf format or in some other electronic format specified by the Office of the Secretary. The proposed text of Federal Register publications must also be submitted in a Microsoft Word or .rtf format.
 
 (2) *Table of contents.* Submissions with more than one attachment must contain a table of contents in the body of the email with a brief description of each item.
 
@@ -24,6 +24,8 @@
 
 (d) *Date of filing.* If the conditions of this section are otherwise satisfied, all filings submitted electronically on or before 5:30 p.m. Eastern Time, on a business day, will be deemed filed on that business day, and all filings submitted after 5:30 p.m. Eastern Time, will be deemed filed on the next business day.
 
-(e) *Authority to reject documents for filing.* The Secretary of the Commission may reject a document for filing that fails to comply with the Commission's rules for filing in this section or § 1.142.
+(e) *Authority to reject documents for filing.* The Secretary of the Commission may reject a document for filing that fails to comply with the Commission's rules.
 
-(f) Federal Register publication. If the conditions in this section and § 1.142 have been satisfied, the Commission will publish the proposed rules or modifications in the Federal Register and request public comment on those proposed rules or modifications.
+(f) Federal Register*publication.* For submissions required to be published in the Federal Register, if the conditions set forth in this section and § 1.142 have been satisfied, the Commission will publish the Authority's submission in the Federal Register.
+
+[86 FR 54823, Oct. 5, 2021, as amended at 89 FR 8531, Feb. 8, 2024]

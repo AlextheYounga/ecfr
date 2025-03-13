@@ -32,7 +32,7 @@
 
 (3) *CMS review.* CMS will review the supplemental application information to determine whether an ACO meets the eligibility criteria and other requirements for advance investment payments and will approve or deny the advance investment payment application accordingly. CMS may review an ACO's spend plan at any time and require the ACO to modify its spend plan to comply with the requirements of this paragraph (d) and paragraph (e) of this section.
 
-(e) *Use and management of advance investment payments.* (1) *Allowable uses.* An ACO must use an advance investment payment to improve the quality and efficiency of items and services furnished to beneficiaries by investing in increased staffing, health care infrastructure, and the provision of accountable care for underserved beneficiaries, which may include addressing social determinants of health. Expenditures of advance investment payments must comply with the beneficiary incentive provision at § 425.304, paragraph (e)(2) of this section, and all other applicable laws and regulations.
+(e) *Use and management of advance investment payments*—(1) *Allowable uses.* An ACO must use an advance investment payment to improve the quality and efficiency of items and services furnished to beneficiaries by investing in increased staffing, health care infrastructure, and the provision of accountable care for underserved beneficiaries, which may include addressing social determinants of health. Expenditures of advance investment payments must comply with the beneficiary incentive provision at § 425.304, paragraph (e)(2) of this section, and all other applicable laws and regulations.
 
 (2) *Prohibited uses.* Advance investment payments may not be used for any expense other than allowable uses under paragraph (e)(1) of this section. In the case of an ACO participating in Level E of the BASIC track, the repayment of any shared losses incurred as specified in a written notice in accordance with § 425.605(e)(2).
 
@@ -58,8 +58,6 @@
 
 (iii) Determines a beneficiary's payment amount. For each beneficiary in the assigned population identified in paragraph (f)(2)(i) of this section, CMS determines the payment amount that corresponds to the beneficiary's risk factors-based score determined in paragraph (f)(2)(ii) of this section. The beneficiary payment amount is as follows:
 
-Table 1 to Paragraph (f)(2)(iii)
-
 |Risk factors-based score|1-24|25-34|35-44|45-54|55-64|65-74|75-84|85-100|
 |------------------------|----|-----|-----|-----|-----|-----|-----|------|
 |     Payment amount     | $0 | $20 | $24 | $28 | $32 | $36 | $40 | $45  |
@@ -80,7 +78,7 @@ Table 1 to Paragraph (f)(2)(iii)
 
 (ii) The notice of bankruptcy must be sent by certified mail no later than 5 days after the petition has been filed and must contain a copy of the filed bankruptcy petition (including its docket number). The notice to CMS must be addressed to the CMS Office of Financial Management at 7500 Security Boulevard, Mailstop C3-01-24, Baltimore, MD 21244 or such other address as may be specified on the CMS website for purposes of receiving such notices.
 
-(h) *Termination of advance investment payments.* (1) *General.* Except as provided in paragraph (h)(2) of this section, CMS may terminate an ACO's advance investment payments if the ACO—
+(h) *Termination of advance investment payments*—(1) *General.* Except as provided in paragraph (h)(2) of this section, CMS may terminate an ACO's advance investment payments if the ACO—
 
 (i) Fails to comply with the requirements of this section;
 

@@ -1,5 +1,7 @@
 ##### § 400.36 Completion of case review. #####
 
+Link to an amendment published at 89 FR 8529, Feb. 8, 2024.
+
 (a) The Executive Secretary shall circulate the examiner's report (memorandum in the case of subzone applications) with recommendations to CBP headquarters staff and to the Treasury Board member for review and action.
 
 (b) In its advisory role to the Board, CBP headquarters staff shall provide any comments within 15 days.

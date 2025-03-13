@@ -1,6 +1,6 @@
 ##### § 170.405 Real world testing. #####
 
-Link to an amendment published at 89 FR 1434, Jan. 9, 2024.
+Link to an amendment published at 89 FR 1434, Jan. 9, 2024.The effective date of this amendment was corrected to read Mar. 11, 2024, at 89 FR 8548, Feb. 8, 2024.Link to a correction published at 89 FR 8548, Feb. 8, 2024.
 
 (a) *Condition of Certification requirement.* A health IT developer with Health IT Module(s) certified to any one or more 2015 Edition certification criteria in § 170.315(b), (c)(1) through (3), (e)(1), (f), (g)(7) through (10), and (h) must successfully test the real world use of those Health IT Module(s) for interoperability (as defined in 42 U.S.C.300jj(9) and § 170.102) in the type of setting in which such Health IT Module(s) would be/is marketed.
 

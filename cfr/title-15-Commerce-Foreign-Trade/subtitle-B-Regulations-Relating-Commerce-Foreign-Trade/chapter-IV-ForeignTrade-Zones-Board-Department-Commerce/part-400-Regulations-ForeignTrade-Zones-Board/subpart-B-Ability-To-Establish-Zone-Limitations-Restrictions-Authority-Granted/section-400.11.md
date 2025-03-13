@@ -1,5 +1,7 @@
 ##### § 400.11 Number and location of zones and subzones. #####
 
+Link to an amendment published at 89 FR 8527, Feb. 8, 2024.
+
 (a) *Number of zones—port of entry entitlement.* (1) Provided that the other requirements of this part are met:
 
 (i) Each port of entry is entitled to at least one zone;

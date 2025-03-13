@@ -1,5 +1,7 @@
 ##### § 400.26 Criteria for evaluation of applications for expansions, subzones or other modifications of zones. #####
 
+Link to an amendment published at 89 FR 8528, Feb. 8, 2024.
+
 The Board shall consider the following factors in determining whether to approve an application pertaining to a zone:
 
 (a) The need for zone services in the port of entry area, taking into account existing as well as projected international trade-related activities and employment impact;

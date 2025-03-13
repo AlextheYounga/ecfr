@@ -1,5 +1,7 @@
 ##### § 400.24 Application for expansion or other modification to zone. #####
 
+Link to an amendment published at 89 FR 8528, Feb. 8, 2024.
+
 (a) *In general.* (1) A grantee may apply to the Board for authority to expand or otherwise modify its zone (including pursuant to the ASF procedures adopted by the Board; see 74 FR 1170, Jan. 12, 2009, 74 FR 3987, Jan. 22, 2009, and 75 FR 71069, Nov. 22, 2010).
 
 (2) The Executive Secretary, in consultation with CBP as appropriate, shall determine whether the proposed modification involves a major change in the zone plan and is thus subject to paragraph (b) of this section, or is minor and subject to paragraph (c) of this section. In making this determination the Executive Secretary shall consider the extent to which the proposed modification would:

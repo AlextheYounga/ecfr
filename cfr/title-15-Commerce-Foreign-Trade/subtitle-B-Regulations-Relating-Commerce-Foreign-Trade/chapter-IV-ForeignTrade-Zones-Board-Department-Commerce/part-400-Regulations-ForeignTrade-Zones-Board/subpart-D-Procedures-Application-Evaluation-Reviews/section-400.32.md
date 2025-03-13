@@ -1,5 +1,7 @@
 ##### § 400.32 Procedures for docketing applications and commencement of case review. #####
 
+Link to an amendment published at 89 FR 8529, Feb. 8, 2024.
+
 (a) Once the pre-docketing copy of the application is determined to be sufficient, the Executive Secretary shall notify the applicant within 15 days so that the applicant may then submit the original and requisite number of copies (which shall be dated upon receipt at the headquarters of the Board) for docketing by the Board. For applications subject to § 400.29, the original shall be accompanied with a check in accordance with that section.
 
 (b) After the procedures described in paragraph (a) of this section are completed, the Executive Secretary shall within 15 days of receipt of the original and required number of copies of the application:

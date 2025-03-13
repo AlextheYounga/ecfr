@@ -1,6 +1,6 @@
 ##### § 171.301 Content and manner exception—When will an actor's practice of limiting the content of its response to or the manner in which it fulfills a request to access, exchange, or use electronic health information not be considered information blocking? #####
 
-Link to an amendment published at 89 FR 1437, Jan. 9, 2024.
+Link to an amendment published at 89 FR 1437, Jan. 9, 2024.The effective date of this amendment was corrected to read Mar. 11, 2024, at 89 FR 8548, Feb. 8, 2024.
 
 An actor's practice of limiting the content of its response to or the manner in which it fulfills a request to access, exchange, or use electronic health information will not be considered information blocking when the practice meets all of the following conditions.
 

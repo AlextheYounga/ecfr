@@ -1,5 +1,7 @@
 ##### § 400.29 Application fees. #####
 
+Link to an amendment published at 89 FR 8528, Feb. 8, 2024.
+
 (a) *In general.* This section sets forth a uniform system of charges in the form of fees to recover some costs incurred by the Foreign-Trade Zones staff of the Department of Commerce in processing the applications listed in paragraph (b) of this section. The legal authority for the fees is 31 U.S.C. 9701, which provides for the collection of user fees by agencies of the Federal Government.
 
 (b) *Uniform system of user fee charges.* The following fee schedule establishes fees for certain types of applications and requests for authority on the basis of their estimated average processing time. Applications combining requests for more than one type of approval are subject to the fee for each category.

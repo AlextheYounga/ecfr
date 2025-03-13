@@ -1,5 +1,7 @@
 ##### § 400.13 General conditions, prohibitions and restrictions applicable to authorized zones. #####
 
+Link to an amendment published at 89 FR 8527, Feb. 8, 2024.
+
 (a) *In general.* Grants of authority issued by the Board for the establishment of zones and any authority subsequently approved for such zones, including those already issued, are subject to the Act and this part and the following general conditions or limitations:
 
 (1) Prior to activation of a zone, the zone grantee or operator shall obtain all necessary permits from federal, state and local authorities, and except as otherwise specified in the Act or this part, shall comply with the requirements of those authorities.

@@ -1,5 +1,7 @@
 ##### § 438.210 Coverage and authorization of services. #####
 
+Link to an amendment published at 89 FR 8980, Feb. 8, 2024.
+
 (a) *Coverage.* Each contract between a State and an MCO, PIHP, or PAHP must do the following:
 
 (1) Identify, define, and specify the amount, duration, and scope of each service that the MCO, PIHP, or PAHP is required to offer.

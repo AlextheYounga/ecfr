@@ -1,5 +1,7 @@
 ##### § 431.220 When a hearing is required. #####
 
+Link to an amendment published at 89 FR 8980, Feb. 8, 2024.
+
 (a) The State agency must grant an opportunity for a hearing to the following:
 
 (1) Any individual who requests it because he or she believes the agency has taken an action erroneously, denied his or her claim for eligibility or for covered benefits or services, or issued a determination of an individual's liability, or has not acted upon the claim with reasonable promptness including, if applicable—

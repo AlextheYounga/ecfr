@@ -1,5 +1,7 @@
 ##### § 802.216 Service and form of papers. #####
 
+Link to an amendment published at 89 FR 8536, Feb. 8, 2024.
+
 (a) All papers filed with the Board, including notices of appeal, petitions for review, briefs and motions, shall be secured at the top and shall have a caption, title, signature of the party (or his attorney or other representative), date of signature, and certificate of service.
 
 (b) For each paper filed with the Board, the original and two legible copies shall be submitted.

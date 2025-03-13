@@ -1,5 +1,7 @@
 ##### § 457.1206 Non-emergency medical transportation PAHPs. #####
 
+Link to an amendment published at 89 FR 8985, Feb. 8, 2024.
+
 (a) For purposes of this section Non-Emergency Medical Transportation (NEMT) Prepaid Ambulatory Health Plan (PAHP) means an entity that provides only NEMT services to enrollees under contract with the State, and on the basis of prepaid capitation payments, or other payment arrangements that do not use State plan payment rates.
 
 (b) The following requirements and options apply to NEMT PAHPs, NEMT PAHP contracts, and States in connection with NEMT PAHPs, to the same extent that they apply to PAHPs, PAHP contracts, and States in connection with PAHPs.

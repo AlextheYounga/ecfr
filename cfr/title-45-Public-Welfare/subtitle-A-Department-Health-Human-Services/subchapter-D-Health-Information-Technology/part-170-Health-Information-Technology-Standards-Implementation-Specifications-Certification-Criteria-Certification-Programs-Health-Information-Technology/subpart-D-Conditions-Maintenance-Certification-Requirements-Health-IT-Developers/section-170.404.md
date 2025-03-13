@@ -1,6 +1,6 @@
 ##### § 170.404 Application programming interfaces. #####
 
-Link to an amendment published at 89 FR 1433, Jan. 9, 2024.
+Link to an amendment published at 89 FR 1433, Jan. 9, 2024.The effective date of this amendment was corrected to read Mar. 11, 2024, at 89 FR 8548, Feb. 8, 2024.
 
 The following Condition and Maintenance of Certification requirements apply to developers of Health IT Modules certified to any of the certification criteria adopted in § 170.315(g)(7) through (10).
 

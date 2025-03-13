@@ -1,5 +1,7 @@
 ##### § 802.219 Motions to the Board; orders. #####
 
+Link to an amendment published at 89 FR 8536, Feb. 8, 2024.
+
 (a) An application to the Board for an order shall be by motion in writing. A motion shall state with particularity the grounds therefor and shall set forth the relief or order sought.
 
 (b) A motion shall be a separate document and shall not be incorporated in the text of any other paper filed with the Board, except for a statement in support of the motion. If this paragraph is not complied with, the Board will not consider and dispose of the motion.

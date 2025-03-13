@@ -1,5 +1,7 @@
 ##### § 156.221 Access to and exchange of health data and plan information. #####
 
+Link to an amendment published at 89 FR 8986, Feb. 8, 2024.
+
 (a) *Application Programming Interface to support enrollees.* Subject to paragraph (h) of this section, a QHP issuer on a Federally-Facilitated Exchange must implement and maintain a standards-based Application Programming Interface (API) that permits third-party applications to retrieve, with the approval and at the direction of a current individual enrollee or the enrollee's personal representative, data specified in paragraph (b) of this section through the use of common technologies and without special effort from the enrollee.
 
 (b) *Accessible content.* (1) A QHP issuer on a Federally-facilitate Exchange must make the following information accessible to its current enrollees or the enrollee's personal representative through the API described in paragraph (a) of this section:

@@ -1,5 +1,7 @@
 ##### § 400.34 Examiner's review—application for production authority. #####
 
+Link to an amendment published at 89 FR 8529, Feb. 8, 2024.
+
 (a) The examiner shall conduct a review taking into account the factors enumerated in this section, § 400.27, and other appropriate sections of this part, which shall include:
 
 (1) Conducting or participating in hearings scheduled by the Executive Secretary;

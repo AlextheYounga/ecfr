@@ -1,5 +1,7 @@
 ##### § 400.33 Examiner's review—application to establish or modify a zone. #####
 
+Link to an amendment published at 89 FR 8529, Feb. 8, 2024.
+
 An examiner assigned to review an application to establish, reorganize or expand a zone shall conduct a review taking into account the factors enumerated in § 400.26 and other appropriate sections of this part, which shall include:
 
 (a) Conducting or participating in hearings scheduled by the Executive Secretary;

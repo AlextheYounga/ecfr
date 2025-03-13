@@ -1,5 +1,7 @@
 ##### § 1548.7 Approval, amendment, annual renewal, and withdrawal of approval of the security program. #####
 
+Link to an amendment published at 89 FR 8557, Feb. 8, 2024.
+
 (a) *Original Application*—(1) *Application.* The applicant must apply for a security program in a form and a manner prescribed by TSA not less than 90 calendar days before the applicant intends to begin operations. The application must be in writing and include:
 
 (i) The business name; other names, including doing business as; state of incorporation, if applicable; and tax identification number.

@@ -1,5 +1,7 @@
 ##### § 400.2 Definitions. #####
 
+Link to an amendment published at 89 FR 8527, Feb. 8, 2024.
+
 (a) *Act* means the Foreign-Trade Zones Act of 1934, as amended (19 U.S.C. 81a-81u).
 
 (b) *Activation limit* is the size of the physical area of a particular zone or subzone authorized by the Board to be simultaneously in activated status with CBP pursuant to 19 CFR 146.6. The activation limit for a particular zone/subzone is a figure explicitly specified by the Board in authorizing the zone (commonly 2,000 acres) or subzone or, in the absence of a specified figure, the total of the sizes of the approved sites of the zone/subzone.

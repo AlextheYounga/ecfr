@@ -1,5 +1,7 @@
 ##### § 400.21 Application to establish a zone. #####
 
+Link to an amendment published at 89 FR 8528, Feb. 8, 2024.
+
 (a) *In general.* An application for a grant of authority to establish a zone (including pursuant to the ASF procedures adopted by the Board; see 74 FR 1170, Jan. 12, 2009, 74 FR 3987, Jan. 22, 2009, and 75 FR 71069, Nov. 22, 2010) shall consist of an application letter and detailed contents to meet the requirements of this part.
 
 (b) *Application format.* Applications pursuant to this part shall comply with any instructions, guidelines, and forms or related documents, published in the Federal Register and made available on the Board's Web site, as established by the Executive Secretary specific to the type of application in question. An application submitted that uses a superseded format shall be processed unless the format has not been current for a period in excess of one year.

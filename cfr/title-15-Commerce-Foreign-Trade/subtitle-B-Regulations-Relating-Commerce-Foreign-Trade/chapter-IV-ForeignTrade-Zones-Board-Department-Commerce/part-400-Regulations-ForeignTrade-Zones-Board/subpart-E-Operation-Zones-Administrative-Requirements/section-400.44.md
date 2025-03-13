@@ -1,5 +1,7 @@
 ##### § 400.44 Zone schedule. #####
 
+Link to an amendment published at 89 FR 8530, Feb. 8, 2024.
+
 (a) *In general.* The zone grantee shall submit to the Executive Secretary (in both paper and electronic copies) a zone schedule which sets forth the elements required in this section. No element of a zone schedule (including any amendment to the zone schedule) may be considered to be in effect until such submission has occurred. If warranted, the Board may subsequently amend the requirements of this section by Board Order.
 
 (b) Each zone schedule shall include:

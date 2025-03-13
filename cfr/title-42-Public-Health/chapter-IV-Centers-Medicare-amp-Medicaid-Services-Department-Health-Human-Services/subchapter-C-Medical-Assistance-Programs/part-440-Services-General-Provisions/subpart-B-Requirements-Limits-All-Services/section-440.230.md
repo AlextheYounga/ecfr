@@ -1,5 +1,7 @@
 ##### § 440.230 Sufficiency of amount, duration, and scope. #####
 
+Link to an amendment published at 89 FR 8981, Feb. 8, 2024.
+
 (a) The plan must specify the amount, duration, and scope of each service that it provides for—
 
 (1) The categorically needy; and

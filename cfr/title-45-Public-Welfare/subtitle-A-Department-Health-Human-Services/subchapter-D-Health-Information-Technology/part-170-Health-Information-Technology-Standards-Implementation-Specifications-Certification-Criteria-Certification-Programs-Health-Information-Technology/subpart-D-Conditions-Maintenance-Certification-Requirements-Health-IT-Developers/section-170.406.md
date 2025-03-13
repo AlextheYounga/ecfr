@@ -1,5 +1,7 @@
 ##### § 170.406 Attestations. #####
 
+Link to a correction published at 89 FR 8549, Feb. 8, 2024.
+
 (a) *Condition of Certification requirement.* A health IT developer, or its authorized representative that is capable of binding the health IT developer, must provide the Secretary an attestation of compliance with the following Conditions and Maintenance of Certification requirements:
 
 (1) Section 170.401;

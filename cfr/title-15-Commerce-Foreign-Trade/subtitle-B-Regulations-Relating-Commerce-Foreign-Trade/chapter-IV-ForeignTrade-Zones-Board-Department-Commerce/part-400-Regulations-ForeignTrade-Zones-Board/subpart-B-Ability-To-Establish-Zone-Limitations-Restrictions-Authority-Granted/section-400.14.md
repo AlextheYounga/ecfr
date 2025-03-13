@@ -1,5 +1,7 @@
 ##### § 400.14 Production—requirement for prior authorization; restrictions. #####
 
+Link to an amendment published at 89 FR 8527, Feb. 8, 2024.
+
 (a) *In general.* Production activity in zones shall not be conducted without prior authorization from the Board. To obtain authorization, the notification process provided for in §§ 400.22 and 400.37 shall be used. If Board review of a notification under § 400.37 results in a determination that further review is warranted for all or part of the notified activity, the application process pursuant to §§ 400.23, 400.31-400.32, 400.34 and 400.36 shall apply to the activity.
 
 (b) *Scope of authority.* Production activity that may be conducted in a particular zone operation is limited to the specific foreign-status materials and components and specific finished products described in notifications and applications that have been authorized pursuant to paragraph (a) of this section, including any applicable prohibitions or restrictions. A determination may be requested pursuant to paragraph (d) of this section as to whether particular activity falls within the scope of authorized activity. Unauthorized activity could be subject to penalties pursuant to the customs regulations on foreign-trade zones (19 CFR part 146).

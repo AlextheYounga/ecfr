@@ -1,5 +1,7 @@
 ##### § 400.61 Revocation of authority. #####
 
+Link to an amendment published at 89 FR 8530, Feb. 8, 2024.
+
 (a) *In general.* As provided in this section, the Board can revoke in whole or in part authority for a zone or subzone whenever it determines that the zone grantee has violated, repeatedly and willfully, the provisions of the Act.
 
 (b) *Procedure.* When the Board has reason to believe that the conditions for revocation, as described in paragraph (a) of this section, are met, the Board shall:

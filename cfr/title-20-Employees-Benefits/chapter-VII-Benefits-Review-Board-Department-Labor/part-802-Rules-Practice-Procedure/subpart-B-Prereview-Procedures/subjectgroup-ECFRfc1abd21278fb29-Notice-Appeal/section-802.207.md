@@ -1,5 +1,7 @@
 ##### § 802.207 When a notice of appeal is considered to have been filed in the office of the Clerk of the Board. #####
 
+Link to an amendment published at 89 FR 8536, Feb. 8, 2024.
+
 (a) *Date of receipt.* (1) Except as otherwise provided in this section, a notice of appeal is considered to have been filed only as of the date it is received in the office of the Clerk of the Board.
 
 (2) Notices of appeal submitted to any other agency or subdivision of the Department of Labor or of the U.S. Government or any State government shall be promptly forwarded to the office of the Clerk of the Board. The notice shall be considered filed with the Clerk of the Board as of the date it was received by the other governmental unit if the Board finds that it is in the interest of justice to do so.

@@ -1,6 +1,6 @@
 ##### § 171.204 Infeasibility exception—When will an actor's practice of not fulfilling a request to access, exchange, or use electronic health information due to the infeasibility of the request not be considered information blocking? #####
 
-Link to an amendment published at 89 FR 1436, Jan. 9, 2024.
+Link to an amendment published at 89 FR 1436, Jan. 9, 2024.The effective date of this amendment was corrected to read Mar. 11, 2024, at 89 FR 8548, Feb. 8, 2024.
 
 An actor's practice of not fulfilling a request to access, exchange, or use electronic health information due to the infeasibility of the request will not be considered information blocking when the practice meets one of the conditions in paragraph (a) of this section and meets the requirements in paragraph (b) of this section.
 
