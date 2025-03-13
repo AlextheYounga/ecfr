@@ -1,7 +1,5 @@
 ##### § 734.7 Published. #####
 
-Link to an amendment published at 89 FR 34698, Apr. 30, 2024.
-
 (a) Except as set forth in paragraphs (b) and (c) of this section, unclassified “technology” or “software” is “published,” and is thus not “technology” or “software” subject to the EAR, when it has been made available to the public without restrictions upon its further dissemination such as through any of the following:
 
 (1) Subscriptions available without restriction to any individual who desires to obtain or purchase the published information;
@@ -22,6 +20,6 @@ Link to an amendment published at 89 FR 34698, Apr. 30, 2024.
 
 (b) Published encryption software classified under ECCN 5D002 remains subject to the EAR unless it is publicly available encryption object code software classified under ECCN 5D002 and the corresponding source code meets the criteria specified in § 742.15(b) of the EAR.
 
-(c) The following remains subject to the EAR: “software” or “technology” for the production of a firearm, or firearm frame or receiver, controlled under ECCN 0A501, that is made available by posting on the internet in an electronic format, such as AMF or G-code, and is ready for insertion into a computer numerically controlled machine tool, additive manufacturing equipment, or any other equipment that makes use of the “software” or “technology” to produce the firearm frame or receiver or complete firearm.
+(c) The following remains subject to the EAR: “software” or “technology” for the production of a firearm, or firearm frame or receiver, controlled under ECCNs 0A501, 0A506, 0A507, or 0A509, that is made available by posting on the internet in an electronic format, such as AMF or G-code, and is ready for insertion into a computer numerically controlled machine tool, additive manufacturing equipment, or any other equipment that makes use of the “software” or “technology” to produce the firearm frame or receiver or complete firearm.
 
-[81 FR 35602, June 3, 2016, as amended at 81 FR 64668, Sept. 20, 2016; 85 FR 4172, Jan. 23, 2020]
+[81 FR 35602, June 3, 2016, as amended at 81 FR 64668, Sept. 20, 2016; 85 FR 4172, Jan. 23, 2020; 89 FR 34698, Apr. 30, 2024]

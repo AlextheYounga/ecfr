@@ -1,5 +1,7 @@
 ##### § 1236.32 Digitization standards. #####
 
+Link to an amendment published at 89 FR 46804, May 30, 2024.
+
 When digitizing temporary records, agencies must meet the following standards:
 
 (a) Capture all information contained in the original source records;

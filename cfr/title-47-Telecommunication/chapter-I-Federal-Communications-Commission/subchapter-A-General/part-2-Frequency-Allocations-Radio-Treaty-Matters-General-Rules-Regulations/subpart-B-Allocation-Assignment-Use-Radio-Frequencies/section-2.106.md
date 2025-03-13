@@ -3048,6 +3048,10 @@ The use of the range 275-1000 GHz by the passive services does not preclude use 
 
 (33) NG33 In the band 614-698 MHz, the following provisions apply. In the sub-bands 617-652 MHz and 663-698 MHz, low power television and TV translator stations may operate on a secondary basis to stations in the fixed and mobile services until required to terminate their operations in accordance with § 73.3700(g)(4) of this chapter, and white space devices may also operate in these sub-bands, except in those areas where their use is prohibited in accordance with §§ 15.707(a)(5) and 15.713(b)(2)(iv) of this chapter. In addition, white space devices may operate in the sub-band 657-663 MHz in accordance with § 15.707(a)(2) of this chapter, low power auxiliary stations may operate in the sub-band 653-657 MHz, and unlicensed wireless microphones may operate in the sub-bands 614-616 MHz and 657-663 MHz.
 
+(i) NG33A The secondary MSS operations in the bands 614-652 MHz and 663-769 MHz, 775-799 MHz, and 805-806 MHz, 824-849 MHz and 869-894 MHz, and 1850-1920 MHz and 1930-2000 MHz are limited to supplemental coverage from space (SCS) and are subject to the Commission's SCS rules in part 25 of this chapter.
+
+(ii) [Reserved]
+
 (34) NG34 The bands 758-775 MHz and 788-805 MHz are available for assignment to the public safety services, as described in part 90 of this chapter.
 
 (35) NG35 Frequencies in the bands 928-929 MHz, 932-932.5 MHz, 941-941.5 MHz, and 952-960 MHz may be assigned for multiple address systems and associated mobile operations on a primary basis.

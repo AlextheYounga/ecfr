@@ -1,6 +1,6 @@
 ##### § 25.117 Modification of station license. #####
 
-Link to an amendment published at 87 FR 72404, Nov. 25, 2022.Link to an amendment published at 89 FR 34166, Apr. 30, 2024.
+Link to an amendment published at 87 FR 72404, Nov. 25, 2022.
 
 (a) Except as provided for in § 25.118 (Modifications not requiring prior authorization), no modification of a radio station governed by this part which affects the parameters or terms and conditions of the station authorization shall be made except upon application to and grant of such application by the Commission.
 
@@ -52,4 +52,6 @@ Link to an amendment published at 87 FR 72404, Nov. 25, 2022.Link to an amendmen
 
 (3) The new space station point of communication will operate with the earth station only in frequency bands that are not shared with Federal or terrestrial wireless users and are not subject to coordination requirements with other non-Federal satellite services.
 
-[56 FR 24016, May 28, 1991, as amended at 61 FR 9952, Mar. 12, 1996; 62 FR 5928, Feb. 10, 1997; 68 FR 33649, June 5, 2003; 68 FR 47858, Aug. 12, 2003; 68 FR 51503, Aug. 27, 2003; 68 FR 62248, Nov. 3, 2003; 68 FR 63998, Nov. 12, 2003; 69 FR 47794, Aug. 6, 2004; 70 FR 32253, June 2, 2005; 72 FR 60279, Oct. 24, 2007; 78 FR 8421, Feb. 6, 2013; 81 FR 55328, Aug. 18, 2016; 85 FR 18150, Apr. 1, 2020; 85 FR 43733, July 20, 2020; 88 FR 21440, Apr. 10, 2023; 88 FR 84754, Dec. 6, 2023]
+(j) An application for modification of a space station authorization to provide SCS must comply with § 25.125.
+
+[56 FR 24016, May 28, 1991, as amended at 61 FR 9952, Mar. 12, 1996; 62 FR 5928, Feb. 10, 1997; 68 FR 33649, June 5, 2003; 68 FR 47858, Aug. 12, 2003; 68 FR 51503, Aug. 27, 2003; 68 FR 62248, Nov. 3, 2003; 68 FR 63998, Nov. 12, 2003; 69 FR 47794, Aug. 6, 2004; 70 FR 32253, June 2, 2005; 72 FR 60279, Oct. 24, 2007; 78 FR 8421, Feb. 6, 2013; 81 FR 55328, Aug. 18, 2016; 85 FR 18150, Apr. 1, 2020; 85 FR 43733, July 20, 2020; 88 FR 21440, Apr. 10, 2023; 88 FR 84754, Dec. 6, 2023; 89 FR 34166, Apr. 30, 2024]

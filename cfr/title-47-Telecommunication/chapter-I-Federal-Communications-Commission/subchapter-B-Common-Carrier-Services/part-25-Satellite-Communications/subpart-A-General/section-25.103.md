@@ -1,7 +1,5 @@
 ##### § 25.103 Definitions. #####
 
-Link to an amendment published at 89 FR 34166, Apr. 30, 2024.
-
 Terms with definitions including the “(RR)” designation are defined in the same way in § 2.1 of this chapter and in the Radio Regulations of the International Telecommunication Union.
 
 *1.5/1.6 GHz Mobile-Satellite Service.* Mobile-Satellite Service provided in any portion of the 1525-1559 MHz space-to-Earth band and the 1626.5-1660.5 MHz Earth-to-space band, which are referred to in this rule part as the “1.5/1.6 GHz MSS bands.”
@@ -66,6 +64,20 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 *Fixed-Satellite Service (FSS).* A radiocommunication service between earth stations at given positions, when one or more satellites are used; the given position may be a specified fixed point or any fixed point within specified areas; in some cases this service includes satellite-to-satellite links, which may also be operated in the inter-satellite service; the Fixed-Satellite Service may also include feeder links of other space radiocommunication services. (RR)
 
+*Geographically independent area (GIA).* Any of the following six areas:
+
+(1) CONUS;
+
+(2) Alaska;
+
+(3) Hawaii;
+
+(4) American Samoa;
+
+(5) Puerto Rico/U.S. Virgin Islands; and
+
+(6) Guam/Northern Mariana Islands.
+
 *Geostationary-orbit (GSO) satellite.* A geosynchronous satellite whose circular and direct orbit lies in the plane of the Earth's equator and which thus remains fixed relative to the Earth; by extension, a geosynchronous satellite which remains approximately fixed relative to the Earth.
 
 *Inter-Satellite Service.* A radiocommunication service providing links between artificial earth satellites.
@@ -114,6 +126,8 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 *Satellite system.* A space system using one or more artificial earth satellites. (RR)
 
+*SCS earth stations.* Any earth station used for the provision of supplemental coverage from space consistent with § 25.115(q).
+
 *Selected assignment.* A spectrum assignment voluntarily identified by a 2 GHz MSS licensee at the time that the licensee's first 2 GHz Mobile-Satellite Service satellite reaches its intended orbit.
 
 *Shapeable antenna beam.* A satellite transmit or receive antenna beam, the gain pattern of which can be modified at any time without physically repositioning a satellite antenna reflector.
@@ -132,6 +146,8 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 *Spacecraft.* A man-made vehicle which is intended to go beyond the major portion of the Earth's atmosphere. (RR)
 
+*Supplemental coverage from space (SCS).* The provision of coverage to terrestrial wireless subscribers through an arrangement or agreement (see § 1.9047 of this chapter) between one or more NGSO or GSO operator(s) and one or more terrestrial wireless licensee(s), involving transmissions between space stations and SCS earth stations. NGSO and GSO operators and terrestrial wireless service licensees seeking to provide SCS must be authorized in compliance with § 25.125.
+
 *Terrestrial radiocommunication.* Any radiocommunication other than space radiocommunication or radio astronomy. (RR)
 
 *Terrestrial station.* A station effecting terrestrial radiocommunication.
@@ -140,4 +156,4 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 *Vehicle-Mounted Earth Station (VMES).* An earth station, operating from a motorized vehicle that travels primarily on land, that receives from and transmits to Fixed-Satellite Service space stations and operates within the United States.
 
-[79 FR 8311, Feb. 12, 2014, as amended at 79 FR 26868, May 12, 2014; 81 FR 55324, Aug. 18, 2016; 83 FR 34489, July 20, 2018; 84 FR 53651, Oct. 8, 2019; 84 FR 66779, Dec. 5, 2019; 85 FR 22864, Apr. 23, 2020; 85 FR 44786, July 24, 2020; 85 FR 43733, July 20, 2020; 87 FR 72403, Nov. 25, 2022]
+[79 FR 8311, Feb. 12, 2014, as amended at 79 FR 26868, May 12, 2014; 81 FR 55324, Aug. 18, 2016; 83 FR 34489, July 20, 2018; 84 FR 53651, Oct. 8, 2019; 84 FR 66779, Dec. 5, 2019; 85 FR 22864, Apr. 23, 2020; 85 FR 44786, July 24, 2020; 85 FR 43733, July 20, 2020; 87 FR 72403, Nov. 25, 2022; 89 FR 34166, Apr. 30, 2024]

@@ -10,7 +10,7 @@ As used in this subpart—
 
 *Bearing components* means the bearing element, retainer, inner race, or outer race.
 
-*Component* means any item supplied to the Government as part of an end item or of another component except that for use in 225.7007, the term means an article, material, or supply incorporated directly into an end product.
+*Component* means any item supplied to the Government as part of an end item or of another component, except that for use in 225.7004-2(b)(6), the term means an article, material, or supply incorporated directly into an end product.
 
 *Covered country* means—
 
@@ -38,4 +38,4 @@ As used in this subpart—
 
 *Subsystem* means a functional grouping of items that combine to perform a major function within an end item, such as electrical power, altitude control, and propulsion.
 
-[84 FR 72243, Dec. 31, 2019, as amended at 87 FR 76993, Dec. 16, 2022; 88 FR 6603, Jan. 31, 2023; 88 FR 46902, July 20, 2023]
+[84 FR 72243, Dec. 31, 2019, as amended at 87 FR 76993, Dec. 16, 2022; 88 FR 6603, Jan. 31, 2023; 88 FR 46902, July 20, 2023; 89 FR 46813, May 30, 2024]

@@ -1,10 +1,8 @@
 ##### § 740.3 Shipments of limited value (LVS). #####
 
-Link to an amendment published at 89 FR 34702, Apr. 30, 2024.
-
 (a) *Scope.* License Exception LVS authorizes the export and reexport in a single shipment of eligible commodities as identified by “LVS - $(value limit)” on the CCL.
 
-(b) *Eligible destinations.* This License Exception is available for all destinations in Country Group B (see supplement no. 1 to part 740), provided that the net value of the commodities included in the same order and controlled under the same ECCN entry on the CCL does not exceed the amount specified in the LVS paragraph for that entry.
+(b) *Eligible destinations.* This License Exception is available for all destinations in Country Group B (see supplement no. 1 to this part), provided that the net value of the commodities included in the same order and controlled under the same ECCN entry on the CCL does not exceed the amount specified in the LVS paragraph for that entry. However, License Exception LVS is not available for 0x5zz items (except 0A504.g) when destined for countries in “CARICOM” or countries in Country Group D:5.
 
 (c) *Definitions*—(1) *Order.* The term *order* as used in this § 740.3 means a communication from a person in a foreign country, or that person's representative, expressing an intent to import commodities from the exporter. Although all of the details of the order need not be finally determined at the time of export, terms relating to the kinds and quantities of the commodities to be exported, as well as the selling prices of these commodities, must be finalized before the goods can be exported under License Exception LVS.
 
@@ -34,4 +32,4 @@ Example to paragraph (d)(3):An order includes commodities valued at $8,000. The 
 
 (f) *Reporting requirements. See* § 743.1 of the EAR for reporting requirements for exports of certain commodities under License Exception LVS.
 
-[61 FR 64274, Dec. 4, 1996, as amended at 63 FR 2456, Jan. 15, 1998; 63 FR 50520, Sept. 22, 1998; 73 FR 57504, Oct. 3, 2008]
+[61 FR 64274, Dec. 4, 1996, as amended at 63 FR 2456, Jan. 15, 1998; 63 FR 50520, Sept. 22, 1998; 73 FR 57504, Oct. 3, 2008; 89 FR 34702, Apr. 30, 2024]

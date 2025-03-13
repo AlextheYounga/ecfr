@@ -1,0 +1,3 @@
+##### § 1600.30 What regulations must I follow? #####
+
+The DFC regulations that you must follow are the regulations specified in each applicable section of the OMB guidance in subparts A through I of 2 CFR part 180 as that section is supplemented by the section in this part with the same section number or by additional provisions with no corresponding section number. For any section of OMB guidance in subparts A through I of 2 CFR part 180 that has no corresponding section in this part, DFC regulations are those in the OMB guidance.

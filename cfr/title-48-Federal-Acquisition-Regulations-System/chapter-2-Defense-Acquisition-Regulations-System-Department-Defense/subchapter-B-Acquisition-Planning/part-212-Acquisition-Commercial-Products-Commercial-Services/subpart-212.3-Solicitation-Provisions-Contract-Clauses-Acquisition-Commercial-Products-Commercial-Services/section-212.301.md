@@ -58,7 +58,7 @@
 
 (B) Use the clause at 252.211-7008, Use of Government-Assigned Serial Numbers, as prescribed in 211.274-5(b).
 
-(vi)*Part 215—Contracting by Negotiation.* (A) Use the provision at 252.215-7003, Requirements for Submission of Data Other Than Certified Cost or Pricing Data—Canadian Commercial Corporation, as prescribed at 215.408(2)(i).
+(vi) *Part 215—Contracting by Negotiation.* (A) Use the provision at 252.215-7003, Requirements for Submission of Data Other Than Certified Cost or Pricing Data—Canadian Commercial Corporation, as prescribed at 215.408(2)(i).
 
 (B) Use the clause at 252.215-7004, Requirement for Submission of Data other Than Certified Cost or Pricing Data—Modifications—Canadian Commercial Corporation, as prescribed at 215.408(2)(ii).
 
@@ -126,33 +126,35 @@
 
 (L) Use the provision at 252.225-7018, Photovoltaic Devices—Certificate, as prescribed in 225.7017-4(b), to comply with section 846 of Public Law 111-383.
 
-(M) Use the provision at 252.225-7020, Trade Agreements Certificate, to comply with 19 U.S.C. 2501-2518 and 19 U.S.C. 4501-4732. Alternate I also implements section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
+(M) Use the clause at 252.225-7019, Restriction on Acquisition of Anchor and Mooring Chain, as prescribed in 225.7004-7(a), to comply with 10 U.S.C. 4864 and section 8041 of the Fiscal Year 1991 DoD Appropriations Act (Pub. L. 101-511) and similar sections in subsequent DoD appropriations acts.
+
+(N) Use the provision at 252.225-7020, Trade Agreements Certificate, to comply with 19 U.S.C. 2501-2518 and 19 U.S.C. 4501-4732. Alternate I also implements section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
 
 (*1*) Use the basic provision as prescribed in 225.1101(5)(i).
 
 (*2*) Use the alternate I provision as prescribed in 225.1101(5)(ii).
 
-(N) Use the clause at 252.225-7021, Trade Agreements to comply with 19 U.S.C. 2501-2518 and 19 U.S.C. 4501-4732.
+(O) Use the clause at 252.225-7021, Trade Agreements to comply with 19 U.S.C. 2501-2518 and 19 U.S.C. 4501-4732.
 
 (*1*) Use the basic clause as prescribed in 225.1101(6)(i).
 
 (*2*) Use the alternate II clause as prescribed in 225.1101(6)(iii).
 
-(O) Use the provision at 252.225-7023, Preference for Products or Services from Afghanistan, as prescribed in 225.7703-4(a), to comply with section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
+(P) Use the provision at 252.225-7023, Preference for Products or Services from Afghanistan, as prescribed in 225.7703-4(a), to comply with section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
 
-(P) Use the clause at 252.225-7024, Requirement for Products or Services from Afghanistan, as prescribed in 225.7703-4(b), to comply with section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
+(Q) Use the clause at 252.225-7024, Requirement for Products or Services from Afghanistan, as prescribed in 225.7703-4(b), to comply with section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
 
-(Q) Use the clause at 252.225-7026, Acquisition Restricted to Products or Services from Afghanistan, as prescribed in 225.7703-4(c), to comply with section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
+(R) Use the clause at 252.225-7026, Acquisition Restricted to Products or Services from Afghanistan, as prescribed in 225.7703-4(c), to comply with section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
 
-(R) Use the clause at 252.225-7027, Restriction on Contingent Fees for Foreign Military Sales, as prescribed in 225.7307(a), to comply with 22 U.S.C. 2779.
+(S) Use the clause at 252.225-7027, Restriction on Contingent Fees for Foreign Military Sales, as prescribed in 225.7307(a), to comply with 22 U.S.C. 2779.
 
-(S) Use the clause at 252.225-7028, Exclusionary Policies and Practices of Foreign Governments, as prescribed in 225.7307(b), to comply with 22 U.S.C. 2755.
+(T) Use the clause at 252.225-7028, Exclusionary Policies and Practices of Foreign Governments, as prescribed in 225.7307(b), to comply with 22 U.S.C. 2755.
 
-(T) Use the clause at 252.225-7029, Acquisition of Uniform Components for Afghan Military or Afghan National Police, as prescribed in 225.7703-4(d).
+(U) Use the clause at 252.225-7029, Acquisition of Uniform Components for Afghan Military or Afghan National Police, as prescribed in 225.7703-4(d).
 
-(U) Use the provision at 252.225-7031, Secondary Arab Boycott of Israel, as prescribed in 225.7605, to comply with 10 U.S.C. 4659.
+(V) Use the provision at 252.225-7031, Secondary Arab Boycott of Israel, as prescribed in 225.7605, to comply with 10 U.S.C. 4659.
 
-(V) Use the provision at 252.225-7035, Buy American—Free Trade Agreements—Balance of Payments Program Certificate, to comply with 41 U.S.C. chapter 83 and 19 U.S.C. 4501-4732. Alternates II, III, and V also implement section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
+(W) Use the provision at 252.225-7035, Buy American—Free Trade Agreements—Balance of Payments Program Certificate, to comply with 41 U.S.C. chapter 83 and 19 U.S.C. 4501-4732. Alternates II, III, and V also implement section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
 
 (*1*) Use the basic provision as prescribed in 225.1101(9)(i).
 
@@ -166,7 +168,7 @@
 
 (*6*) Use the alternate V provision as prescribed in 225.1101(9)(vi).
 
-(W) Use the clause at 252.225-7036, Buy American—Free Trade Agreements—Balance of Payments Program to comply with 41 U.S.C. chapter 83 and 19 U.S.C. 4501-4732. Alternates II, III, and V also implement section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
+(X) Use the clause at 252.225-7036, Buy American—Free Trade Agreements—Balance of Payments Program to comply with 41 U.S.C. chapter 83 and 19 U.S.C. 4501-4732. Alternates II, III, and V also implement section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
 
 (*1*) Use the basic clause as prescribed in 225.1101(10)(i)(A).
 
@@ -180,39 +182,39 @@
 
 (*6*) Use the alternate V clause as prescribed in 225.1101(10)(i)(F).
 
-(X) Use the provision at 252.225-7037, Evaluation of Offers for Air Circuit Breakers, as prescribed in 225.7006-4(a), to comply with 10 U.S.C. 4864(a)(3).
+(Y) Use the clause at 252.225-7039, Defense Contractors Performing Private Security Functions Outside the United States, as prescribed in 225.302-6, to comply with section 2 of Public Law 110-181, as amended.
 
-(Y) Use the clause at 252.225-7038, Restriction on Acquisition of Air Circuit Breakers, as prescribed in 225.7006-4(b), to comply with 10 U.S.C. 4864(a)(3).
+(Z) Use the clause at 252.225-7040, Contractor Personnel Supporting U.S. Armed Forces Deployed Outside the United States, as prescribed in 225.371-5(a).
 
-(Z) Use the clause at 252.225-7039, Defense Contractors Performing Private Security Functions Outside the United States, as prescribed in 225.302-6, to comply with section 2 of Pub. L. 110-181, as amended.
+(AA) Use the clause at 252.225-7043, Antiterrorism/Force Protection Policy for Defense Contractors Outside the United States, as prescribed in 225.372-2.
 
-(AA) Use the clause at 252.225-7040, Contractor Personnel Supporting U.S. Armed Forces Deployed Outside the United States, as prescribed in 225.371-5(a).
+(BB) Use the provision at 252.225-7049, Prohibition on Acquisition of Certain Foreign Commercial Satellite Services—Representations, as prescribed in 225.772-5(a), to comply with 10 U.S.C. 2279.
 
-(BB) Use the clause at 252.225-7043, Antiterrorism/Force Protection Policy for Defense Contractors Outside the United States, as prescribed in 225.372-2.
+(CC) Use the provision at 252.225-7050, Disclosure of Ownership or Control by the Government of a Country that is a State Sponsor of Terrorism, as prescribed in 225.771-5, to comply with 10 U.S.C. 4871(b).
 
-(CC) Use the provision at 252.225-7049, Prohibition on Acquisition of Certain Foreign Commercial Satellite Services—Representations, as prescribed in 225.772-5(a), to comply with 10 U.S.C. 2279.
+(DD) Use the clause at 252.225-7051, Prohibition on Acquisition for Certain Foreign Commercial Satellite Services, as prescribed in 225.772-5(b), to comply with 10 U.S.C. 2279.
 
-(DD) Use the provision at 252.225-7050, Disclosure of Ownership or Control by the Government of a Country that is a State Sponsor of Terrorism, as prescribed in 225.771-5, to comply with 10 U.S.C. 4871(b).
+(EE) Use the clause at 252.225-7052, Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten, as prescribed in 225.7018-5, to comply with 10 U.S.C. 4872.
 
-(EE) Use the clause at 252.225-7051, Prohibition on Acquisition for Certain Foreign Commercial Satellite Services, as prescribed in 225.772-5(b), to comply with 10 U.S.C. 2279.
+(FF) Use the provision at 252.225-7053, Representation Regarding Prohibition on Use of Certain Energy Sourced from Inside the Russian Federation, as prescribed in 225.7019-4(a), to comply with section 2821 of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).
 
-(FF) Use the clause at 252.225-7052, Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten, as prescribed in 225.7018-5, to comply with 10 U.S.C. 4872.
+(GG) Use the clause at 252.225-7054, Prohibition on Use of Certain Energy Sourced from Inside the Russian Federation, as prescribed in 225.7019-4(b), to comply with section 2821 of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).
 
-(GG) Use the provision at 252.225-7053, Representation Regarding Prohibition on Use of Certain Energy Sourced from Inside the Russian Federation, as prescribed in 225.7019-4(a), to comply with section 2821 of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).
+(HH) Use the provision at 252.225-7055, Representation Regarding Business Operations with the Maduro Regime, as prescribed in 225.7020-5(a), to comply with section 890 of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).
 
-(HH) Use the clause at 252.225-7054, Prohibition on Use of Certain Energy Sourced from Inside the Russian Federation, as prescribed in 225.7019-4(b), to comply with section 2821 of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).
+(II) Use the clause at 252.225-7056, Prohibition Regarding Business Operations with the Maduro Regime, as prescribed in 225.7020-5(b), to comply with section 890 of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).
 
-(II) Use the provision at 252.225-7055, Representation Regarding Business Operations with the Maduro Regime, as prescribed in 225.7020-5(a), to comply with section 890 of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).
+(JJ) Use the provision at 252.225-7059, Prohibition on Certain Procurements from the Xinjiang Uyghur Autonomous Region—Representation, as prescribed in 225.7022-5(a), to comply with section 855 of the National Defense Authorization Act for Fiscal Year 2023 (Pub. L. 117-263) and 10 U.S.C. 4661.
 
-(JJ) Use the clause at 252.225-7056, Prohibition Regarding Business Operations with the Maduro Regime, as prescribed in 225.7020-5(b), to comply with section 890 of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).
+(KK) Use the clause at 252.225-7060, Prohibition on Certain Procurements from the Xinjiang Uyghur Autonomous Region, as prescribed in 225.7022-5(b), to comply with section 855 of the National Defense Authorization Act for Fiscal Year 2023 (Pub. L. 117-263) and 10 U.S.C. 4661.
 
-(KK) Use the provision at 252.225-7059, Prohibition on Certain Procurements from the Xinjiang Uyghur Autonomous Region—Representation, as prescribed in 225.7022-5(a), to comply with section 855 of the National Defense Authorization Act for Fiscal Year 2023 (Pub. L. 117-263) and 10 U.S.C. 4661.
+(LL) Use the clause at 252.225-7061, Restriction on the Acquisition of Personal Protective Equipment and Certain Other Items from Non-Allied Foreign Nations, as prescribed in 225.7023-4, to comply with 10 U.S.C. 4875.
 
-(LL) Use the clause at 252.225-7060, Prohibition on Certain Procurements from the Xinjiang Uyghur Autonomous Region, as prescribed in 225.7022-5(b), to comply with section 855 of the National Defense Authorization Act for Fiscal Year 2023 (Pub. L. 117-263) and 10 U.S.C. 4661.
+(MM) Use the clause at 252.225-7062, Restriction on Acquisition of Large Medium-Speed Diesel Engines, as prescribed in 225.7004-7(b), to comply with 10 U.S.C. 4864.
 
-(MM) Use the clause at 252.225-7061, Restriction on the Acquisition of Personal Protective Equipment and Certain Other Items from Non-Allied Foreign Nations, as prescribed in 225.7023-4, to comply with 10 U.S.C. 4875.
+(NN) Use the clause at 252.225-7063, Restriction on Acquisition of Components of T-AO 205 and T-ARC Class Vessels, as prescribed in 225.7004-7(c), to comply with 10 U.S.C. 4864.
 
-(NN) Use the clause at 252.225-7062, Restriction on Acquisition of Large Medium-Speed Diesel Engines, as prescribed in 225.7010-5, to comply with 10 U.S.C. 4864.
+(OO) Use the clause at 252.225-7064, Restriction on Acquisition of Certain Satellite Components, as prescribed in 225.7004-7(d), to comply with 10 U.S.C. 4864.
 
 (xi) *Part 226—Other Socioeconomic Programs.* (A) Use the clause at 252.226-7001, Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Native Hawaiian Small Business Concerns, as prescribed in 226.104, to comply with section 8021 of Pub. L. 107-248 and similar sections in subsequent DoD appropriations acts.
 
@@ -288,4 +290,4 @@
 
 (G) Use the clause at 252.247-7028, Application for U.S. Government Shipping Documentation/Instructions, as prescribed in 247.207.
 
-[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019; 84 FR 58332, Oct. 31, 2019; 84 FR 72237, 72559, Dec. 31, 2019; 85 FR 19697, Apr. 8, 2020; 85 FR 61501, 61520, Sept. 29, 2020; 85 FR 74612, Nov. 23, 2020; 85 FR 61520, Sept. 29, 2020; 86 FR 3836, Jan. 15, 2021; 86 FR 27277, May 20, 2021; 86 FR 36236, July 9, 2021; 86 FR 48338, Aug. 30, 2021; 87 FR 15810, Mar. 18, 2022; 87 FR 52347, Aug. 25, 2022; 87 FR 65501, 65512, 65514, 65517, Oct. 28, 2022; 87 FR 76983, 76986, 76991, Dec. 16, 2022; 88 FR 6582, Jan. 31, 2023; 88 FR 12863, Mar. 1, 2023; 88 FR 17339, Mar. 22, 2023; 88 FR 25512, Apr. 27, 2023; 88 FR 37797, June 9, 2023; 88 FR 46902, 46905, July 20, 2023; 88 FR 67606, 67609, Sept. 29, 2023; 88 FR 80464, Nov. 17, 2023; 88 FR 88537, Dec. 22, 2023; 89 FR 11747, Feb. 15, 2024; 89 FR 20870, Mar. 26, 2024]
+[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019; 84 FR 58332, Oct. 31, 2019; 84 FR 72237, 72559, Dec. 31, 2019; 85 FR 19697, Apr. 8, 2020; 85 FR 61501, 61520, Sept. 29, 2020; 85 FR 74612, Nov. 23, 2020; 85 FR 61520, Sept. 29, 2020; 86 FR 3836, Jan. 15, 2021; 86 FR 27277, May 20, 2021; 86 FR 36236, July 9, 2021; 86 FR 48338, Aug. 30, 2021; 87 FR 15810, Mar. 18, 2022; 87 FR 52347, Aug. 25, 2022; 87 FR 65501, 65512, 65514, 65517, Oct. 28, 2022; 87 FR 76983, 76986, 76991, Dec. 16, 2022; 88 FR 6582, Jan. 31, 2023; 88 FR 12863, Mar. 1, 2023; 88 FR 17339, Mar. 22, 2023; 88 FR 25512, Apr. 27, 2023; 88 FR 37797, June 9, 2023; 88 FR 46902, 46905, July 20, 2023; 88 FR 67606, 67609, Sept. 29, 2023; 88 FR 80464, Nov. 17, 2023; 88 FR 88537, Dec. 22, 2023; 89 FR 11747, Feb. 15, 2024; 89 FR 20870, Mar. 26, 2024; 89 FR 46813, May 30, 2024]

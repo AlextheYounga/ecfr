@@ -1,7 +1,5 @@
 ##### § 123.702 What are the eligibility requirements for an IDAP loan? #####
 
-Link to an amendment published at 89 FR 34102, Apr. 30, 2024.
-
 (a) *Eligible IDAP applicants.* To be eligible for an IDAP loan, an applicant business must meet all of the requirements set forth below. The applicant business must:
 
 (1) Be located within a Declared Disaster Area;
@@ -76,12 +74,12 @@ Link to an amendment published at 89 FR 34102, Apr. 30, 2024.
 
 (c) *Character requirements.* An applicant business is not eligible for an IDAP loan if any Associate (as defined in § 120.10) of the applicant business:
 
-(1) Is presently under indictment, on parole or probation;
+(1) is currently incarcerated, serving a sentence of imprisonment imposed upon adjudication of guilty, or is presently under indictment;
 
-(2) Has ever been charged with, arrested for, convicted, placed on pretrial diversion, and/or placed on any form of probation (including adjudication withheld pending probation) for any criminal offense other than a minor motor vehicle violation (including offenses which have been dismissed, discharged, or not prosecuted);
+(2) Is at least a 50 percent or more owner of applicant business, and is more than 60 days delinquent on any obligation to pay child support arising under an administrative order, court order, repayment agreement between the holder and a custodial parent, or repayment agreement between the holder and a state agency providing child support enforcement services;
 
-(3) Is at least a 50 percent or more owner of applicant business, and is more than 60 days delinquent on any obligation to pay child support arising under an administrative order, court order, repayment agreement between the holder and a custodial parent, or repayment agreement between the holder and a state agency providing child support enforcement services;
+(3) Is an undocumented (illegal) alien; or
 
-(4) Is an undocumented (illegal) alien; or
+(4) Is delinquent on any Federal obligation, including but not limited to any Federal loans, contracts, grants, student loans or taxes.
 
-(5) Is delinquent on any Federal obligation, including but not limited to any Federal loans, contracts, grants, student loans or taxes.
+[75 FR 60598, Oct. 1, 2010, as amended at 89 FR 34102, Apr. 30, 2024]

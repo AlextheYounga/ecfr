@@ -8,11 +8,10 @@
 
 (2) For transportation by vessel, the stowage and segregation requirements in Part 7 of the IMDG Code may be substituted for the stowage and segregation requirements in part 176 of this subchapter.
 
-(3) Except as specified in this subpart, for a material poisonous (toxic) by inhalation, the T Codes specified in Column 13 of the Dangerous Goods List in the IMDG Code may be applied to the transportation of those materials in IM, IMO, and DOT Specification 51 portable tanks, when these portable tanks are authorized in accordance with the requirements of this subchapter;
+(3) The outside of each package containing lithium metal cells or batteries (UN3090) or lithium ion cells or batteries (UN3480) transported in accordance with special provision 188 of the IMDG Code must be appropriately marked “PRIMARY LITHIUM BATTERIES—FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, “LITHIUM METAL BATTERIES—FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, “LITHIUM ION BATTERIES—FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, or “LITHIUM BATTERIES—FORBIDDEN FOR TRANSPORT ABOARD PASSENGER AIRCRAFT”, or labeled with a CARGO AIRCRAFT ONLY label as specified in § 172.448 of this subchapter. The provisions of this paragraph also apply to packages of lithium cells or batteries packed with, or contained in, equipment that
+exceed 5 kg (11 pounds) net weight. When placed in an overpack, the selected marking or label must either be clearly visible through the overpack, or the marking or label must also be affixed on the outside of the overpack.
 
-(4) No person may offer an IM or UN portable tank containing liquid hazardous materials of Class 3, PG I or II, or PG III with a flash point less than 100 °F (38 °C); Division 5.1, PG I or II; or Division 6.1, PG I or II, for unloading while it remains on a transport vehicle with the motive power unit attached, unless it conforms to the requirements in § 177.834(o) of this subchapter; and
-
-(5) No person may offer a UN fiber-reinforced plastic portable tank meeting the provisions of Chapter 6.10 of the IMDG Code (IBR, see § 171.7), except for transportation falling within the single port area criteria in paragraph (d) of this section.
+(4) Material consigned under UN3166 and UN3171 (e.g., Engines, internal combustion, etc., Vehicles, etc. and Battery-powered equipment) may be prepared in accordance with the IMDG Code or this subchapter.
 
 (c) *Conditions and requirements for bulk packagings.* Except for IBCs and UN portable tanks used for the transportation of liquids or solids, bulk packagings must conform to the requirements of this subchapter. Additionally, the following requirements apply:
 
@@ -20,9 +19,11 @@
 
 (2) IMO Type 5 portable tanks must conform to DOT Specification 51 or UN portable tank requirements, unless specifically authorized in this subchapter or approved by the Associate Administrator;
 
-(3) Except as specified in this subpart, for a material poisonous (toxic) by inhalation, the T Codes specified in Column 13 of the Dangerous Goods List in the IMDG Code may be applied to the transportation of those materials in IM, IMO and DOT Specification 51 portable tanks, when these portable tanks are authorized in accordance with the requirements of this subchapter; and
+(3) Except as specified in this subpart, for a material poisonous (toxic) by inhalation, the T Codes specified in Column 13 of the Dangerous Goods List in the IMDG Code may be applied to the transportation of those materials in IM, IMO, and DOT Specification 51 portable tanks, when these portable tanks are authorized in accordance with the requirements of this subchapter;
 
-(4) No person may offer an IM or UN portable tank containing liquid hazardous materials of Class 3, PG I or II, or PG III with a flash point less than 100 °F (38 °C); Division 5.1, PG I or II; or Division 6.1, PG I or II, for unloading while it remains on a transport vehicle with the motive power unit attached, unless it conforms to the requirements in § 177.834(o) of this subchapter.
+(4) No person may offer an IM or UN portable tank containing liquid hazardous materials of Class 3, PG I or II, or PG III with a flash point less than 100 °F (38 °C); Division 5.1, PG I or II; or Division 6.1, PG I or II, for unloading while it remains on a transport vehicle with the motive power unit attached, unless it conforms to the requirements in § 177.834(o) of this subchapter; and
+
+(5) No person may offer a UN fiber-reinforced plastic portable tank meeting the provisions of Chapter 6.10 of the IMDG Code (IBR, see § 171.7), except for transportation falling within the single port area criteria in paragraph (d) of this section.
 
 (d) *Use of IMDG Code in port areas.* (1) Except for Division 1.1, 1.2, and Class 7 materials, a hazardous material being imported into or exported from the United States or passing through the United States in the course of being shipped between locations outside the United States may be offered and accepted for transportation and transported by motor vehicle within a single port area, including contiguous harbors, when packaged, marked, classed, labeled, stowed and segregated in accordance with the IMDG Code, offered and accepted in accordance with the requirements of subparts C and F of part 172 of this subchapter pertaining to shipping papers and placarding, and otherwise conforms to the applicable requirements of part 176 of this subchapter.
 

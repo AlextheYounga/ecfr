@@ -1,7 +1,5 @@
 ##### § 109.400 Eligible Small Business Concerns. #####
 
-Link to an amendment published at 89 FR 34101, Apr. 30, 2024.
-
 (a) To be eligible to receive loans from an ILP Intermediary under this program, a small business must:
 
 (1) Be organized for profit;
@@ -46,7 +44,7 @@ Link to an amendment published at 89 FR 34101, Apr. 30, 2024.
 
 (14) Businesses in which the ILP Intermediary or any of its Associates owns an equity interest;
 
-(15) Businesses with an Associate who is incarcerated, on probation, on parole, or has been indicted for a felony or a crime of moral turpitude;
+(15) Businesses with an Associate who is currently incarcerated, serving a sentence of imprisonment imposed upon adjudication of guilty, or is under indictment for a felony or a crime of moral turpitude;
 
 (16) Businesses which:
 
@@ -68,4 +66,4 @@ Link to an amendment published at 89 FR 34101, Apr. 30, 2024.
 
 (23) Businesses owned or controlled by an applicant or any of its Associates who are presently debarred, suspended, proposed for debarment, declared ineligible, or voluntarily excluded from participation by any Federal department or agency.
 
-[76 FR 18015, Apr. 1, 2011, as amended at 82 FR 39501, Aug. 21, 2017]
+[76 FR 18015, Apr. 1, 2011, as amended at 82 FR 39501, Aug. 21, 2017; 89 FR 34101, Apr. 30, 2024]

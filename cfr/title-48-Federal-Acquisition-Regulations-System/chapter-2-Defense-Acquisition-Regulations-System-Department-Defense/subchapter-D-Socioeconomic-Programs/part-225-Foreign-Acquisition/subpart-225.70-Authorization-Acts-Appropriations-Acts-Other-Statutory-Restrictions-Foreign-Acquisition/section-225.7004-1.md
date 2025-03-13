@@ -1,5 +1,9 @@
-##### 225.7004-1 Restriction. #####
+##### 225.7004-1 Definitions. #####
 
-In accordance with 10 U.S.C. 4864, do not acquire a multipassenger motor vehicle (bus) unless it is manufactured in the United States, Australia, Canada, New Zealand, or the United Kingdom of Great Britain and Northern Ireland (United Kingdom).
+As used in this section—
 
-[88 FR 46906, July 20, 2023]
+*National technology and industrial base* means the persons and organizations that are engaged in production activities conducted within the United States, Australia, Canada, New Zealand, and the United Kingdom of Great Britain and Northern Ireland (United Kingdom). (10 U.S.C. 4801)
+
+*Star tracker* means a navigational tool used in a satellite weighing more than 400 pounds whose principal purpose is to support the national security, defense, or intelligence needs of the U.S. Government.
+
+[89 FR 46813, May 30, 2024]

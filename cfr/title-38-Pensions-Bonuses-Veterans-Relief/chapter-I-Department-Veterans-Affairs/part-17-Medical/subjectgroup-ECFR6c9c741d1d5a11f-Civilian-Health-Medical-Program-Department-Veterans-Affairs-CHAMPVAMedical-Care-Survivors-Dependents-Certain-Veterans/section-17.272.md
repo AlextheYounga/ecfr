@@ -1,7 +1,5 @@
 ##### § 17.272 Benefits limitations/exclusions. #####
 
-Link to an amendment published at 89 FR 34136, Apr. 30, 2024.
-
 (a) Benefits cover allowable expenses for medical services and supplies that are medically necessary and appropriate for the treatment of a condition and that are not specifically excluded from program coverage. Covered benefits may have limitations. The fact that a physician may prescribe, order, recommend, or approve a service or supply does not, of itself, make it medically necessary or make the charge an allowable expense, even though it is not listed specifically as an exclusion. The following are specifically excluded from program coverage:
 
 (1) Services, procedures or supplies for which the beneficiary has no legal obligation to pay, or for which no charge would be made in the absence of coverage under a health benefits plan.
@@ -90,7 +88,7 @@ Link to an amendment published at 89 FR 34136, Apr. 30, 2024.
 
 (27) Services and supplies related to artificial insemination (including semen donors and semen banks), in vitro fertilization, gamete intrafallopian transfer and all other noncoital reproductive technologies.
 
-(28) Nonprescription contraceptives.
+(28) Nonprescription contraceptives, except those non-prescription contraceptives used as emergency contraceptives.
 
 (29) Diagnostic tests to establish paternity of a child; or tests to determine sex of an unborn child.
 
@@ -214,13 +212,17 @@ Link to an amendment published at 89 FR 34136, Apr. 30, 2024.
 
 (ii) Extra-depth shoes with inserts or custom molded shoes with inserts for individuals with diabetes.
 
-(44) Services or advice rendered by telephone are excluded except that a diagnostic or monitoring procedure which incorporates electronic transmission of data or remote detection and measurement of a condition, activity, or function (biotelemetry) is covered when:
+(44) Telephone Services, with the following exceptions:
 
-(i) The procedure, without electronic data transmission, is a covered benefit; and
+(i) Services or advice rendered by telephone (audio only) on or after May 12, 2020, are not excluded when the services are otherwise covered CHAMPVA services provided through this modality and are medically necessary and appropriate.
 
-(ii) The addition of electronic data transmission or biotelemetry improves the management of a clinical condition in defined circumstances; and
+(ii) A diagnostic or monitoring procedure which incorporates electronic transmission of data or remote detection and measurement of a condition, activity, or function (biotelemetry) is covered when:
 
-(iii) The electronic data or biotelemetry device has been classified by the U.S. Food and Drug Administration, either separately or as part of a system, for use consistent with the medical condition and clinical management of such condition.
+(A) The procedure, without electronic data transmission, is a covered benefit;
+
+(B) The addition of electronic data transmission or biotelemetry improves the management of a clinical condition in defined circumstances; and
+
+(C) The electronic data or biotelemetry device has been classified by the U.S. Food and Drug Administration, either separately or as part of a system, for use consistent with the medical condition and clinical management of such condition.
 
 (45) Air conditioners, humidifiers, dehumidifiers, and purifiers.
 
@@ -246,63 +248,51 @@ Link to an amendment published at 89 FR 34136, Apr. 30, 2024.
 
 (56) All transportation except for specialized transportation with life sustaining equipment, when medically required for the treatment of a covered condition.
 
-(57) Unless a waiver for extended coverage is granted in advance: Inpatient mental health services in excess of 30 days in any calendar year (or in an admission), in the case of a patient 19 years of age or older; 45 days in any calendar year (or in an admission), in the case of a patient under 19 years of age; or 150 days of residential treatment care in any calendar year (or in an admission).
+(57) Services that are provided to a beneficiary who is referred to a provider of such services by a provider who has an economic interest in the facility to which the patient is referred, unless a waiver is granted.
 
-(58) Outpatient mental health services in excess of 23 visits in a calendar year unless a waiver for extended coverage is granted in advance.
-
-(59) Institutional services for partial hospitalization in excess of 60 treatment days in any calendar year (or in an admission) unless a waiver for extended coverage is granted in advance.
-
-(60) Detoxification in a hospital setting or rehabilitation facility in excess of seven days.
-
-(61) Outpatient substance abuse services in excess of 60 visits during a benefit period. A benefit period begins with the first date of covered service and ends 365 days later.
-
-(62) Family therapy for substance abuse in excess of 15 visits during a benefit period. A benefit period begins with the first date of covered service and ends 365 days later.
-
-(63) Services that are provided to a beneficiary who is referred to a provider of such services by a provider who has an economic interest in the facility to which the patient is referred, unless a waiver is granted.
-
-(64) Abortions, except when:
+(58) Abortions, except when:
 
 (i) The life or the health of the pregnant beneficiary would be endangered if the pregnancy were carried to term; or
 
 (ii) The pregnancy is the result of an act of rape or incest. Self-reporting from the pregnant beneficiary constitutes sufficient evidence that an act of rape or incest occurred.
 
-(65) Aversion therapy.
+(59) Aversion therapy.
 
-(66) Rental or purchase of biofeedback equipment.
+(60) Rental or purchase of biofeedback equipment.
 
-(67) Biofeedback therapy for treatment of ordinary muscle tension states (including tension headaches) or for psychosomatic conditions.
+(61) Biofeedback therapy for treatment of ordinary muscle tension states (including tension headaches) or for psychosomatic conditions.
 
-(68) Immunotherapy for malignant diseases except for treatment of Stage O and Stage A carcinoma of the bladder.
+(62) Immunotherapy for malignant diseases except for treatment of Stage O and Stage A carcinoma of the bladder.
 
-(69) Services and supplies provided by other than a hospital, such as nonskilled nursing homes, intermediate care facilities, halfway houses, homes for the aged, or other institutions of similar purpose.
+(63) Services and supplies provided by other than a hospital, such as nonskilled nursing homes, intermediate care facilities, halfway houses, homes for the aged, or other institutions of similar purpose.
 
-(70) Services performed when the patient is not physically present.
+(64) Services performed when the patient is not physically present.
 
-(71) Medical photography.
+(65) Medical photography.
 
-(72) Special tutoring.
+(66) Special tutoring.
 
-(73) Surgery for psychological reasons.
+(67) Surgery for psychological reasons.
 
-(74) Treatment of premenstrual syndrome (PMS).
+(68) Treatment of premenstrual syndrome (PMS).
 
-(75) Over-the-counter products except for pharmaceutical smoking cessation supplies that are approved by the U.S. Food and Drug Administration, prescribed, and provided through MbM, and insulin and related diabetic testing supplies and syringes.
+(69) Over-the-counter products except for pharmaceutical smoking cessation supplies that are approved by the U.S. Food and Drug Administration, prescribed, and provided through MbM, and insulin and related diabetic testing supplies and syringes.
 
-(76) Thermography.
+(70) Thermography.
 
-(77) Removal of tattoos.
+(71) Removal of tattoos.
 
-(78) Penile implant/testicular prosthesis procedures and related supplies for psychological impotence.
+(72) Penile implant/testicular prosthesis procedures and related supplies for psychological impotence.
 
-(79) Dermabrasion of the face except in those cases where coverage has been authorized for reconstructive or plastic surgery required to restore body form following an accidental injury or to revise disfiguring and extensive scars resulting from neoplastic surgery.
+(73) Dermabrasion of the face except in those cases where coverage has been authorized for reconstructive or plastic surgery required to restore body form following an accidental injury or to revise disfiguring and extensive scars resulting from neoplastic surgery.
 
-(80) Chemical peeling for facial wrinkles.
+(74) Chemical peeling for facial wrinkles.
 
-(81) Panniculectomy, body sculpting procedures.
+(75) Panniculectomy, body sculpting procedures.
 
-(82) Medications not approved by the U.S. Food and Drug Administration (FDA), excluding FDA exceptions to the approval requirement.
+(76) Medications not approved by the U.S. Food and Drug Administration (FDA), excluding FDA exceptions to the approval requirement.
 
-(83) Services and supplies related to the treatment of dyslexia.
+(77) Services and supplies related to the treatment of dyslexia.
 
 (b) Costs of services and supplies to the extent such amounts are billed over the CHAMPVA determined allowable amount are specifically excluded from coverage.
 
@@ -312,4 +302,4 @@ Link to an amendment published at 89 FR 34136, Apr. 30, 2024.
 
 (3) An authorized non-VA provider who accepts responsibility for the care of a CHAMPVA beneficiary thereby agrees to accept the CHAMPVA determined allowable amount as full payment for services and supplies rendered to the beneficiary (*i.e.,* accepted assignment). The provider's acceptance of the CHAMPVA determined allowable amount extinguishes the beneficiary's payment liability to the provider. Any attempts to collect any additional amount from the CHAMPVA beneficiary may result in the provider being excluded from Federal benefits programs. See 42 CFR 1003.105.
 
-[63 FR 48102, Sept. 9, 1998, as amended at 67 FR 4359, Jan. 30, 2002; 73 FR 65553, Nov. 4, 2008; 87 FR 41600, July 13, 2022; 87 FR 55296, Sept. 9, 2022]
+[63 FR 48102, Sept. 9, 1998, as amended at 67 FR 4359, Jan. 30, 2002; 73 FR 65553, Nov. 4, 2008; 87 FR 41600, July 13, 2022; 87 FR 55296, Sept. 9, 2022; 89 FR 34136, Apr. 30, 2024]

@@ -20,6 +20,6 @@ Follow the procedures at PGI 215.403-3.
 
 (vi) Risk to the Government if award is not made.
 
-(c) *Commercial products or commercial services.* For determinations of price reasonableness of major weapon systems acquired as commercial products, see 234.7002(d).
+(c) *Commercial products or commercial services.* For determinations of price reasonableness of major weapon systems acquired as commercial products, see 234.7002(e).
 
-[72 FR 30278, May 31, 2007, as amended at 77 FR 76940, Dec. 31, 2012; 85 FR 34532, June 5, 2020; 87 FR 65504, Oct. 28, 2022; 88 FR 6583, Jan. 31, 2023]
+[72 FR 30278, May 31, 2007, as amended at 77 FR 76940, Dec. 31, 2012; 85 FR 34532, June 5, 2020; 87 FR 65504, Oct. 28, 2022; 88 FR 6583, Jan. 31, 2023; 89 FR 46808, May 30, 2024]

@@ -1,0 +1,3 @@
+##### § 1600.437 What method do I use to communicate to a participant the requirements for participating in a covered transaction? #####
+
+To communicate to a participant the requirements described in 2 CFR 180.435, you must include provisions in the contractual documentation of the transaction to ensure compliance with 2 CFR part 180, subpart C, as supplemented by subpart C of this part. The provisions must also require the participant to include similar terms or conditions of compliance in lower-tier covered transactions.

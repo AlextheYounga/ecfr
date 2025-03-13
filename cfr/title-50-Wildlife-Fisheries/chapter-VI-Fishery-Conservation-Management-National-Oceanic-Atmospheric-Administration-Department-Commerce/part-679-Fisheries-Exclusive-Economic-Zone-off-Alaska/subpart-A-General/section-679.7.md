@@ -1,7 +1,5 @@
 ##### § 679.7 Prohibitions. #####
 
-Link to an amendment published at 89 FR 34758, Apr. 30, 2024.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) *Groundfish of the GOA and BSAI*—(1) *Federal Fisheries Permit (FFP).* (i) Fish for groundfish in the BSAI or GOA with a vessel of the United States that does not have on board a legible copy of a valid FFP issued under § 679.4.
@@ -419,9 +417,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (8) Require, pressure, coerce, or threaten an observer to perform duties normally performed by crew members, including, but not limited to, cooking, washing dishes, standing watch, vessel maintenance, assisting with the setting or retrieval of gear, or any duties associated with the processing of fish, from sorting the catch to the storage of the finished product.
 
-(h) *Salmon fisheries.* (1) Engage in commercial fishing for salmon using any gear except troll gear, defined at § 679.2, in the East Area of the Salmon Management Area, defined at § 679.2 and Figure 23 to this part.
-
-(2) Engage in commercial fishing for salmon in the West Area of the Salmon Management Area, defined at § 679.2 and Figure 23 to this part.
+(h) [Reserved]
 
 (i) *License Limitation Program*—(1) *Number of licenses.* (i) Hold more than 10 groundfish licenses in the name of that person at any time, except as provided in paragraphs (i)(1)(iii) and (i)(1)(v) of this section;
 

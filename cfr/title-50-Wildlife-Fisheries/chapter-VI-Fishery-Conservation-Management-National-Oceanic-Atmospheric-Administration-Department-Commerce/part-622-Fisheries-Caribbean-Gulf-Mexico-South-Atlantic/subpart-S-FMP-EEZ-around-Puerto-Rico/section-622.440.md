@@ -1,95 +1,84 @@
 ##### § 622.440 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
-Link to an amendment published at 89 FR 34169, Apr. 30, 2024.
-
 (a) *Reef fish.* For those fishing commercially, the applicable ACL is the commercial ACL. For those fishing recreationally, the applicable ACL is the recreational ACL. When landings for one sector are not available for comparison to that sector's ACL, the ACL for the sector with available landings is the ACL for the stock or stock complex.
 
 (1) *Commercial ACLs.* The commercial ACLs are as follows and given in round weight.
 
-Table 1 to § 622.440(a)(1)
-
-|   Family    |                                           Stock or stock complex and species composition                                           |      Commercial ACL      |
-|-------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| Angelfishes |                                    Angelfish—French angelfish, gray angelfish, queen angelfish                                     |    137 lb (62.1 kg).     |
-|  Groupers   |                                                Grouper 3—coney,<sup>1</sup> graysby                                                | 23,890 lb (10,836.3 kg). |
-|             |                    Grouper 4—black grouper, red grouper, tiger grouper, yellowfin grouper, yellowmouth grouper                     |  2,492 lb (1,130.3 kg)   |
-|             |                                            Grouper 5—misty grouper, yellowedge grouper                                             | 15,327 lb (6,952.2 kg).  |
-|             |                                             Grouper 6—red hind,<sup>1</sup> rock hind                                              |121,729 lb (55,215.3 kg). |
-|   Grunts    |                                                         Grunts—white grunt                                                         |177,923 lb (80,704.5 kg). |
-|    Jacks    |                                                       Jacks 1—crevalle jack                                                        |     46 lb (20.8 kg).     |
-|             |                                                      Jacks 2—African pompano                                                       |   1,052 lb (477.1 kg).   |
-|             |                                                       Jacks 3—rainbow runner                                                       |    913 lb (414.1 kg).    |
-|Parrotfishes |Parrotfish 2—princess parrotfish, queen parrotfish, redband parrotfish, redtail parrotfish, stoplight parrotfish, striped parrotfish|147,774 lb (67,029.1 kg). |
-|  Snappers   |                  Snapper 1—black snapper, blackfin snapper, silk snapper,<sup>1</sup> vermilion snapper, wenchman                  |424,009 lb (192,327.2 kg).|
-|             |                                       Snapper 2—cardinal snapper, queen snapper<sup>1</sup>                                        |257,236 lb (116,680.2 kg).|
-|             |                                                       Snapper 3—lane snapper                                                       | 244,376 lb (110,847 kg). |
-|             |                                  Snapper 4—dog snapper, mutton snapper,<sup>1</sup> schoolmaster                                   |116,434 lb (52,813.5 kg). |
-|             |                                                    Snapper 5—yellowtail snapper                                                    |315,806 lb (143,247.1 kg).|
-|             |                                                      Snapper 6—cubera snapper                                                      |    119 lb (53.9 kg).     |
-|Surgeonfishes|                                        Surgeonfish—blue tang, doctorfish, ocean surgeonfish                                        |    147 lb (66.6 kg).     |
-|Triggerfishes|                           Triggerfish—gray triggerfish, ocean triggerfish, queen triggerfish<sup>1</sup>                           |  83,099 lb (37,693 kg).  |
-|   Wrasses   |                                                         Wrasses 1—hogfish                                                          | 70,140 lb (31,814.9 kg). |
-|             |                                               Wrasses 2—puddingwife, Spanish hogfish                                               |  20,126 lb (9,129 kg).   |
-
-<sup>1</sup> Indicator stock.
+|           Family            |                                           Stock or stock complex and species composition                                           |      Commercial ACL      |
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+|         Angelfishes         |                                    Angelfish—French angelfish, gray angelfish, queen angelfish                                     |    137 lb (62.1 kg).     |
+|          Groupers           |                                                Grouper 3—coney,<sup>1</sup> graysby                                                | 23,890 lb (10,836.3 kg). |
+|                             |                    Grouper 4—black grouper, red grouper, tiger grouper, yellowfin grouper, yellowmouth grouper                     |  2,492 lb (1,130.3 kg)   |
+|                             |                                            Grouper 5—misty grouper, yellowedge grouper                                             | 15,327 lb (6,952.2 kg).  |
+|                             |                                             Grouper 6—red hind,<sup>1</sup> rock hind                                              |121,729 lb (55,215.3 kg). |
+|           Grunts            |                                                         Grunts—white grunt                                                         |177,923 lb (80,704.5 kg). |
+|            Jacks            |                                                       Jacks 1—crevalle jack                                                        |     46 lb (20.8 kg).     |
+|                             |                                                      Jacks 2—African pompano                                                       |   1,052 lb (477.1 kg).   |
+|                             |                                                       Jacks 3—rainbow runner                                                       |    913 lb (414.1 kg).    |
+|        Parrotfishes         |Parrotfish 2—princess parrotfish, queen parrotfish, redband parrotfish, redtail parrotfish, stoplight parrotfish, striped parrotfish|147,774 lb (67,029.1 kg). |
+|          Snappers           |                  Snapper 1—black snapper, blackfin snapper, silk snapper,<sup>1</sup> vermilion snapper, wenchman                  |424,009 lb (192,327.2 kg).|
+|                             |                                       Snapper 2—cardinal snapper, queen snapper <sup>1</sup>                                       |257,236 lb (116,680.2 kg).|
+|                             |                                                       Snapper 3—lane snapper                                                       | 244,376 lb (110,847 kg). |
+|                             |                                  Snapper 4—dog snapper, mutton snapper,<sup>1</sup> schoolmaster                                   |116,434 lb (52,813.5 kg). |
+|                             |                                                    Snapper 5—yellowtail snapper                                                    |315,806 lb (143,247.1 kg).|
+|                             |                                                      Snapper 6—cubera snapper                                                      |    119 lb (53.9 kg).     |
+|        Surgeonfishes        |                                        Surgeonfish—blue tang, doctorfish, ocean surgeonfish                                        |    147 lb (66.6 kg).     |
+|        Triggerfishes        |                          Triggerfish—gray triggerfish, ocean triggerfish, queen triggerfish <sup>1</sup>                           |  83,099 lb (37,693 kg).  |
+|           Wrasses           |                                                         Wrasses 1—hogfish                                                          | 70,140 lb (31,814.9 kg). |
+|                             |                                               Wrasses 2—puddingwife, Spanish hogfish                                               |  20,126 lb (9,129 kg).   |
+|<sup>1</sup> Indicator stock.|                                                                                                                                    |                          |
 
 (2) *Recreational ACLs.* The recreational ACLs are as follows and given in round weight.
 
-Table 2 to § 622.440(a)(2)
-
-|   Family    |                                           Stock or stock complex and species composition                                           |    Recreational ACL     |
-|-------------|------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| Angelfishes |                                    Angelfish—French angelfish, gray angelfish, queen angelfish                                     | 2,985 lb (1,353.9 kg).  |
-|  Groupers   |                                                Grouper 3—coney<sup>1</sup>, graysby                                                | 19,634 lb (8,905.8 kg). |
-|             |                    Grouper 4—black grouper, red grouper, tiger grouper, yellowfin grouper, yellowmouth grouper                     | 5,867 lb (2,661.2 kg).  |
-|             |                                            Grouper 5—misty grouper, yellowedge grouper                                             | 4,225 lb (1,916.4 kg).  |
-|             |                                             Grouper 6—red hind<sup>1</sup>, rock hind                                              |34,493 lb (15,645.7 kg). |
-|   Grunts    |                                                         Grunts—white grunt                                                         | 2,461 lb (1,116.2 kg).  |
-|    Jacks    |                                                       Jacks 1—crevalle jack                                                        |41,894 lb (19,002.7 kg). |
-|             |                                                      Jacks 2—African pompano                                                       |  5,719 lb (2,594 kg).   |
-|             |                                                       Jacks 3—rainbow runner                                                       |  8,091 lb (3,670 kg).   |
-|Parrotfishes |Parrotfish 2—princess parrotfish, queen parrotfish, redband parrotfish, redtail parrotfish, stoplight parrotfish, striped parrotfish| 17,052 lb (7,734.6 kg). |
-|  Snappers   |                  Snapper 1—black snapper, blackfin snapper, silk snapper<sup>1</sup>, vermilion snapper, wenchman                  |111,943 lb (50,776.4 kg).|
-|             |                                       Snapper 2—cardinal snapper, queen snapper<sup>1</sup>                                        | 24,974 lb (11,328 kg).  |
-|             |                                                       Snapper 3—lane snapper                                                       | 21,603 lb (9,798.9 kg). |
-|             |                                  Snapper 4—dog snapper, mutton snapper<sup>1</sup>, schoolmaster                                   |76,625 lb (34,756.5 kg). |
-|             |                                                    Snapper 5—yellowtail snapper                                                    |23,988 lb (10,880.7 kg). |
-|             |                                                      Snapper 6—cubera snapper                                                      | 6,448 lb (2,924.7 kg).  |
-|Surgeonfishes|                                        Surgeonfish—blue tang, doctorfish, ocean surgeonfish                                        |    860 lb (390 kg).     |
-|Triggerfishes|                           Triggerfish—gray triggerfish, ocean triggerfish, queen triggerfish<sup>1</sup>                           | 7,453 lb (3,380.6 kg).  |
-|   Wrasses   |                                                         Wrasses 1—hogfish                                                          |  8,263 lb (3,748 kg).   |
-|             |                                               Wrasses 2—puddingwife, Spanish hogfish                                               | 5,372 lb (2,436.6 kg).  |
-
-<sup>1</sup> Indicator stock.
+|           Family            |                                           Stock or stock complex and species composition                                           |    Recreational ACL     |
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+|         Angelfishes         |                                    Angelfish—French angelfish, gray angelfish, queen angelfish                                     | 2,985 lb (1,353.9 kg).  |
+|          Groupers           |                                               Grouper 3—coney <sup>1</sup>, graysby                                                | 19,634 lb (8,905.8 kg). |
+|                             |                    Grouper 4—black grouper, red grouper, tiger grouper, yellowfin grouper, yellowmouth grouper                     | 5,867 lb (2,661.2 kg).  |
+|                             |                                            Grouper 5—misty grouper, yellowedge grouper                                             | 4,225 lb (1,916.4 kg).  |
+|                             |                                             Grouper 6—red hind <sup>1</sup>, rock hind                                             |34,493 lb (15,645.7 kg). |
+|           Grunts            |                                                         Grunts—white grunt                                                         | 2,461 lb (1,116.2 kg).  |
+|            Jacks            |                                                       Jacks 1—crevalle jack                                                        |41,894 lb (19,002.7 kg). |
+|                             |                                                      Jacks 2—African pompano                                                       |  5,719 lb (2,594 kg).   |
+|                             |                                                       Jacks 3—rainbow runner                                                       |  8,091 lb (3,670 kg).   |
+|        Parrotfishes         |Parrotfish 2—princess parrotfish, queen parrotfish, redband parrotfish, redtail parrotfish, stoplight parrotfish, striped parrotfish| 17,052 lb (7,734.6 kg). |
+|          Snappers           |                 Snapper 1—black snapper, blackfin snapper, silk snapper <sup>1</sup>, vermilion snapper, wenchman                  |111,943 lb (50,776.4 kg).|
+|                             |                                       Snapper 2—cardinal snapper, queen snapper <sup>1</sup>                                       | 24,974 lb (11,328 kg).  |
+|                             |                                                       Snapper 3—lane snapper                                                       | 21,603 lb (9,798.9 kg). |
+|                             |                                  Snapper 4—dog snapper, mutton snapper <sup>1</sup>, schoolmaster                                  |76,625 lb (34,756.5 kg). |
+|                             |                                                    Snapper 5—yellowtail snapper                                                    |23,988 lb (10,880.7 kg). |
+|                             |                                                      Snapper 6—cubera snapper                                                      | 6,448 lb (2,924.7 kg).  |
+|        Surgeonfishes        |                                        Surgeonfish—blue tang, doctorfish, ocean surgeonfish                                        |    860 lb (390 kg).     |
+|        Triggerfishes        |                          Triggerfish—gray triggerfish, ocean triggerfish, queen triggerfish <sup>1</sup>                           | 7,453 lb (3,380.6 kg).  |
+|           Wrasses           |                                                         Wrasses 1—hogfish                                                          |  8,263 lb (3,748 kg).   |
+|                             |                                               Wrasses 2—puddingwife, Spanish hogfish                                               | 5,372 lb (2,436.6 kg).  |
+|<sup>1</sup> Indicator stock.|                                                                                                                                    |                         |
 
 (3) *Total ACLs.* The total ACLs (combined commercial and recreational ACLs) are as follows and given in round weight.
 
-Table 3 to § 622.440(a)(3)
-
-|   Family    |                                           Stock or stock complex and species composition                                           |        Total ACL         |
-|-------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| Angelfishes |                                    Angelfish—French angelfish, gray angelfish, queen angelfish                                     |  3,122 lb (1,416.1 kg).  |
-|  Groupers   |                                                Grouper 3—coney,<sup>1</sup> graysby                                                | 43,524 lb (19,742.1 kg). |
-|             |                    Grouper 4—black grouper, red grouper, tiger grouper, yellowfin grouper, yellowmouth grouper                     |  8,359 lb (3,791.5 kg).  |
-|             |                                            Grouper 5—misty grouper, yellowedge grouper                                             | 19,552 lb (8,868.6 kg).  |
-|             |                                             Grouper 6—red hind,<sup>1</sup> rock hind                                              |156,222 lb (70,861.1 kg). |
-|   Grunts    |                                                         Grunts—white grunt                                                         |180,384 lb (81,820.8 kg). |
-|    Jacks    |                                                       Jacks 1—crevalle jack                                                        | 41,940 lb (19,023.6 kg). |
-|             |                                                      Jacks 2—African pompano                                                       |  6,771 lb (3,071.2 kg).  |
-|             |                                                       Jacks 3—rainbow runner                                                       |  9,004 lb (4,084.1 kg).  |
-|Parrotfishes |Parrotfish 2—princess parrotfish, queen parrotfish, redband parrotfish, redtail parrotfish, stoplight parrotfish, striped parrotfish|164,826 lb (74,763.8 kg). |
-|  Snappers   |                  Snapper 1—black snapper, blackfin snapper, silk snapper,<sup>1</sup> vermilion snapper, wenchman                  |535,952 lb (243,103.7 kg).|
-|             |                                       Snapper 2—cardinal snapper, queen snapper<sup>1</sup>                                        |282,210 lb (128,008.3 kg).|
-|             |                                                       Snapper 3—lane snapper                                                       | 265,979 lb (120,646 kg). |
-|             |                                  Snapper 4—dog snapper, mutton snapper,<sup>1</sup> schoolmaster                                   | 193,059 lb (87,570 kg).  |
-|             |                                                    Snapper 5—yellowtail snapper                                                    |339,794 lb (154,127.9 kg).|
-|             |                                                      Snapper 6—cubera snapper                                                      |  6,567 lb (2,978.7 kg).  |
-|Surgeonfishes|                                        Surgeonfish—blue tang, doctorfish, ocean surgeonfish                                        |   1,007 lb (456.7 kg).   |
-|Triggerfishes|                           Triggerfish—gray triggerfish, ocean triggerfish, queen triggerfish<sup>1</sup>                           | 90,552 lb (41,073.6 kg). |
-|   Wrasses   |                                                         Wrasses 1—hogfish                                                          |  78,403 lb (35,563 kg).  |
-|             |                                               Wrasses 2—puddingwife, Spanish hogfish                                               | 25,498 lb (11,565.6 kg). |
-
-<sup>1</sup> Indicator stock.
+|           Family            |                                           Stock or stock complex and species composition                                           |        Total ACL         |
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+|         Angelfishes         |                                    Angelfish—French angelfish, gray angelfish, queen angelfish                                     |  3,122 lb (1,416.1 kg).  |
+|          Groupers           |                                                Grouper 3—coney,<sup>1</sup> graysby                                                | 43,524 lb (19,742.1 kg). |
+|                             |                    Grouper 4—black grouper, red grouper, tiger grouper, yellowfin grouper, yellowmouth grouper                     |  8,359 lb (3,791.5 kg).  |
+|                             |                                            Grouper 5—misty grouper, yellowedge grouper                                             | 19,552 lb (8,868.6 kg).  |
+|                             |                                             Grouper 6—red hind,<sup>1</sup> rock hind                                              |156,222 lb (70,861.1 kg). |
+|           Grunts            |                                                         Grunts—white grunt                                                         |180,384 lb (81,820.8 kg). |
+|            Jacks            |                                                       Jacks 1—crevalle jack                                                        | 41,940 lb (19,023.6 kg). |
+|                             |                                                      Jacks 2—African pompano                                                       |  6,771 lb (3,071.2 kg).  |
+|                             |                                                       Jacks 3—rainbow runner                                                       |  9,004 lb (4,084.1 kg).  |
+|        Parrotfishes         |Parrotfish 2—princess parrotfish, queen parrotfish, redband parrotfish, redtail parrotfish, stoplight parrotfish, striped parrotfish|164,826 lb (74,763.8 kg). |
+|          Snappers           |                  Snapper 1—black snapper, blackfin snapper, silk snapper,<sup>1</sup> vermilion snapper, wenchman                  |535,952 lb (243,103.7 kg).|
+|                             |                                       Snapper 2—cardinal snapper, queen snapper <sup>1</sup>                                       |282,210 lb (128,008.3 kg).|
+|                             |                                                       Snapper 3—lane snapper                                                       | 265,979 lb (120,646 kg). |
+|                             |                                  Snapper 4—dog snapper, mutton snapper,<sup>1</sup> schoolmaster                                   | 193,059 lb (87,570 kg).  |
+|                             |                                                    Snapper 5—yellowtail snapper                                                    |339,794 lb (154,127.9 kg).|
+|                             |                                                      Snapper 6—cubera snapper                                                      |  6,567 lb (2,978.7 kg).  |
+|        Surgeonfishes        |                                        Surgeonfish—blue tang, doctorfish, ocean surgeonfish                                        |   1,007 lb (456.7 kg).   |
+|        Triggerfishes        |                          Triggerfish—gray triggerfish, ocean triggerfish, queen triggerfish <sup>1</sup>                           | 90,552 lb (41,073.6 kg). |
+|           Wrasses           |                                                         Wrasses 1—hogfish                                                          |  78,403 lb (35,563 kg).  |
+|                             |                                               Wrasses 2—puddingwife, Spanish hogfish                                               | 25,498 lb (11,565.6 kg). |
+|<sup>1</sup> Indicator stock.|                                                                                                                                    |                          |
 
 (4) *General applicability and monitoring of AMs.* At or near the beginning the fishing year, landings for each stock, stock complex, or indicator stock will be evaluated relative to the ACL based on a moving multi-year average of landings, as described in the FMP. When landings for one sector are not available for comparison to that sector's ACL, the ACL for the sector with available landings is the ACL for the stock or stock complex and the AM specified in paragraph (a)(7) of this section applies. Any fishing season reduction required under paragraph (a) of this section will be applied starting from September 30 and moving earlier toward the beginning of the fishing year. If the length of the required fishing season reduction exceeds the time period of January 1 through September 30, any additional fishing season reduction will be applied starting from October 1 and moving later toward the end of the fishing year.
 
@@ -151,7 +140,7 @@ Table 3 to § 622.440(a)(3)
 
 (7) *Pelagic fish AM application.* At or near the beginning the fishing year, landings for each stock, stock complex, or indicator stock will be evaluated relative to the applicable ACT for the stock or stock complex based on a moving multi-year average of landings, as described in the FMP. If NMFS estimates that landings have exceeded the applicable ACT specified in paragraph (b) of this section for a stock or stock complex, NMFS in consultation with the Caribbean Fishery Management Council will determine appropriate corrective action.
 
-(c) *Spiny lobster.* (1) For the 2023 fishing year, the ACL is 369,313 lb (167,517 kg), round weight. For the 2024 and subsequent fishing years, the ACL is 366,965 lb (166,452 kg), round weight.
+(c) *Spiny lobster.* (1) The ACL is 357,629 lb (162,218 kg), round weight.
 
 (2) At or near the beginning of the fishing year, NMFS will compare a 3 year average of available landings to the average ACLs effective during those same years, as described in the FMP. If NMFS estimates that average landings have exceeded the average ACLs, the AA will file a notification with the Office of the Federal Register to reduce the length of the fishing season for spiny lobster within that fishing year by the amount necessary to prevent average landings from exceeding the ACL for that fishing year, as specified in paragraph (c)(1) of this section. If NMFS determines that a fishing season reduction is not necessary based on the best scientific information available, or if NMFS determines the ACL exceedance was due to improved data collection or monitoring rather than from increased landings, NMFS will not reduce the length of the fishing season. Any fishing season reduction required under this paragraph (c)(2) will be applied starting from September 30 and moving earlier toward the beginning of the fishing year. If the length of the required fishing season reduction exceeds the time period of January 1 through September 30, any additional fishing season reduction will be applied starting from October 1 and moving later toward the end of the fishing year.
 
@@ -165,4 +154,4 @@ Table 3 to § 622.440(a)(3)
 
 (4) *Restrictions applicable during a spiny lobster closure in the EEZ around Puerto Rico.* During the closure period announced in the notification filed pursuant to paragraph (c)(2) of this section, the fishing season for spiny lobster is closed, and spiny lobster in or from the EEZ around Puerto Rico may not be harvested, possessed, purchased, or sold, and the bag and possession limits are zero.
 
-[87 FR 56216, Sept. 13, 2022, as amended at 88 FR 16195, Mar. 16, 2023; 88 FR 46695, July 20, 2023]
+[87 FR 56216, Sept. 13, 2022, as amended at 88 FR 16195, Mar. 16, 2023; 88 FR 46695, July 20, 2023; 89 FR 34169, Apr. 30, 2024]

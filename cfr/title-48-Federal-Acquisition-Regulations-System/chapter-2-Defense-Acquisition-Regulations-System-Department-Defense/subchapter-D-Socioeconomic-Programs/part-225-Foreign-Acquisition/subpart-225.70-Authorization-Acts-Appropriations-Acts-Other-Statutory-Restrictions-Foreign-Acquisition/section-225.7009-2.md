@@ -8,4 +8,4 @@
 
 (b) The restriction at 225.7003-2 may also apply to bearings that are made from specialty metals, such as high carbon chrome steel (bearing steel).
 
-[75 FR 76300, Dec. 8, 2010, as amended at 76 FR 32843, June 6, 2011]
+[75 FR 76300, Dec. 8, 2010, as amended at 76 FR 32843, June 6, 2011; ]

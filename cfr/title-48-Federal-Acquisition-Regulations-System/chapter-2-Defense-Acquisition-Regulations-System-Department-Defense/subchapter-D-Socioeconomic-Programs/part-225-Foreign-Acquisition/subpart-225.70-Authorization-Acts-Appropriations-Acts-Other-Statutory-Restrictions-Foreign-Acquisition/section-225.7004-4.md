@@ -1,5 +1,7 @@
-##### 225.7004-4 Waiver. #####
+##### 225.7004-4 Implementation of restriction on certain naval vessel components. #####
 
-The waiver criteria at 225.7008(a) apply to this restriction.
+(a) The statute at 10 U.S.C. 4864(h) prohibits the use of contract clauses or certifications to implement the restriction at 225.7004-2(b) for naval vessel components.
 
-[68 FR 15627, Mar. 31, 2003, as amended at 74 FR 37639, July 29, 2009]
+(b) Agencies shall accomplish implementation of the restriction at 225.7004-2(b) through use of management and oversight techniques that achieve the objectives of this section without imposing a significant management burden on the Government or the contractor involved.
+
+[89 FR 46813, May 30, 2024]

@@ -1,7 +1,5 @@
 ##### § 25.202 Frequencies, frequency tolerance, and emission limits. #####
 
-Link to an amendment published at 89 FR 34167, Apr. 30, 2024.
-
 (a)(1) In addition to the frequency-use restrictions set forth in § 2.106 of this chapter, the following restrictions apply:
 
 (i) In the 27.5-28.35 GHz band, the FSS (Earth-to-space) is secondary to the Upper Microwave Flexible Use Service authorized pursuant to part 30 of this chapter, except for FSS operations associated with earth stations authorized pursuant to § 25.136.
@@ -139,5 +137,11 @@ Use of the 17.7-17.8 GHz band (space-to-Earth) by the broadcasting-satellite ser
 (2) For information received on or after January 1, 2020: −46 dBW.
 
 (j) For earth stations in the Fixed-Satellite Service (Earth-to-space) that transmit in the 49.7-50.2 GHz and 50.4-50.9 GHz bands, the unwanted emission power in the 50.2-50.4 GHz band shall not exceed −20 dBW/200 MHz (measured at the input of the antenna), except that the maximum unwanted emission power may be increased to −10 dBW/200 MHz for earth stations having an antenna gain greater than or equal to 57 dBi. These limits apply under clear-sky conditions. During fading conditions, the limits may be exceeded by earth stations when using uplink power control.
+
+(k) Space station downlinks operating as SCS under the provisions of § 25.125 and § 2.106(d)(33)(i) of this chapter are subject to the following rules.
+
+(1) *Out of band emission limits.* Notwithstanding the emission limitations of paragraph (f) of this section, the aggregation of all space station downlink emissions outside a licensee's SCS frequency band(s) of operation shall not exceed a power flux density of −120 dBW/m2/MHz at 1.5 meters above ground level.
+
+(2) *Interference caused by out of band emissions.* If any emission from a transmitter operating in the SCS service results in harmful interference to users of another radio service, the FCC may require a greater attenuation of the emission than specified in this section.
 
 [30 FR 7176, May 28, 1965]Editorial Note:For Federal Register citations affecting § 25.202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

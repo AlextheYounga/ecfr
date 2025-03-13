@@ -1,32 +1,30 @@
 ##### § 748.12 Firearms import certificate or import permit. #####
 
-Link to an amendment published at 89 FR 34706, Apr. 30, 2024.
+License applications for certain firearms and related commodities require support documents in accordance with this section.
 
-License applications for certain firearms and related commodities require support documents in accordance with this section. For destinations that are members of the Organization of American States (OAS), an FC Import Certificate or equivalent official document is required in accordance with paragraphs (a) through (d) of this section. For other destinations that require a firearms import or permit, the firearms import certificate or permit is required in accordance with paragraph (e) of this section.
+(a) *Requirement to obtain and submit documentation.* Unless an exception in § 748.9(c) applies, an import certificate or permit is required for license applications for firearms and related commodities, regardless of value, if required by the importing country. For OAS member states, this requirement is consistent with the OAS Model Regulations described in § 742.17 of the EAR. The exporter or reexporter must obtain and submit with the license application the original or a copy of the import certificate or permit before applying for an export or reexport license in situations in which an import certificate or permit is required by the importing country.
 
-(a) *Requirement to obtain document for OAS member states.* Unless an exception in § 748.9(c) applies, an FC Import Certificate is required for license applications for firearms and related commodities, regardless of value, that are destined for member countries of the OAS. This requirement is consistent with the OAS Model Regulations described in § 742.17 of the EAR.
+(1) *Items subject to requirement.* Firearms and related commodities are those commodities controlled under 0x5zz ECCNs.
 
-(1) *Items subject to requirement.* Firearms and related commodities are those commodities controlled for “FC Column 1” reasons under ECCNs 0A501 (except 0A501.y), 0A502, 0A504 (except 0A504.f), or 0A505 (except 0A505.d).
+(2) *Countries subject to requirement.* (i) OAS member countries include: Antigua and Barbuda, Argentina, Bahamas, Barbados, Belize, Bolivia, Brazil, Canada, Chile, Colombia, Costa Rica, Dominica, Dominican Republic, Ecuador, El Salvador, Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Uruguay, Venezuela, and any member country that has acceded in accordance with Chapter III of the Charter of the Organization of American States.
 
-(2) *Countries subject to requirement.* (i) OAS member countries include: Antigua and Barbuda, Argentina, Bahamas, Barbados, Belize, Bolivia, Brazil, Canada, Chile, Colombia, Costa Rica, Dominica, Dominican Republic, Ecuador, El Salvador, Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, Uruguay, and Venezuela.
+(ii) All other countries that require an import certificate or permit.
 
-(ii) [Reserved]
+(3) *Equivalent official document in place of an import certificate or permit.* For those countries that have not yet established or implemented an import certificate procedure, BIS will accept an equivalent official document (*e.g.,* import license or letter of authorization) issued by the government of the importing country as supporting documentation for the export of commodities detailed under paragraph (a)(1) of this section.
 
-(3) *Equivalent official document in place of FC Import Certificate.* For those OAS member countries that have not yet established or implemented an FC Import Certificate procedure, BIS will accept an equivalent official document (*e.g.,* import license or letter of authorization) issued by the government of the importing country as supporting documentation for the export of firearms.
+(b) *Obtaining the document.* (1) Applicants must request that the importer (*e.g.,* ultimate consignee or purchaser) obtain the import certificate, permit, or an equivalent official document from the government of the importing country, and that it be issued covering the quantities and types of firearms and related items that the applicant intends to export. Upon receipt of this document or a certified copy, the importer must provide the original or a certified copy to the license applicant.
 
-(b) *Obtaining the document.* (1) Applicants must request that the importer (e.g., ultimate consignee or purchaser) obtain the FC Import Certificate or an equivalent official document from the government of the importing country, and that it be issued covering the quantities and types of firearms and related items that the applicant intends to export. Upon receipt of the FC Import Certificate, its official equivalent, or a copy, the importer must provide the original or a certified copy of the FC Import Certificate or the original or a certified copy of the equivalent official document to the license applicant.
+(2) If the government of the importing country will not issue such document, the applicant must supply the information described in paragraphs (c)(1) and (c)(6) through (c)(8) of this section on company letterhead.
 
-(2) If the government of the importing country will not issue an FC Import Certificate or its official equivalent, the applicant must supply the information described in paragraphs (c)(1) and (c)(6) through (c)(8) of this section on company letterhead.
-
-(c) *Content of the document.* The FC Import Certificate or its official equivalent must contain the following information:
+(c) *Content of the document.* The document must contain the following information:
 
 (1) Applicant's name and address. The applicant may be either the exporter, supplier, or order party.
 
-(2) FC Import Certificate Identifier/Number.
+(2) Import Certificate Identifier/Number.
 
 (3) Name of the country issuing the certificate or unique country code.
 
-(4) Date the FC Import Certificate was issued, in international date format (*e.g.,* 24/12/12 for 24 December 2012, or 3/1/99 for 3 January 1999).
+(4) Date the document was issued, in international date format (*e.g.,* 24/12/12 for 24 December 2012, or 3/1/99 for 3 January 1999).
 
 (5) Name of the agency issuing the certificate, address, telephone and facsimile numbers, signing officer name, and signature.
 
@@ -38,23 +36,23 @@ License applications for certain firearms and related commodities require suppor
 
 Note 1 to paragraph (c)(8):
 
-You must furnish the consignee with a detailed technical description of each commodity to be given to the government for its use in issuing the FC Import Certificate. For example, for shotguns, provide the type, barrel length, overall length, number of shots, the manufacturer's name, the country of manufacture, and the serial number for each shotgun. For ammunition, provide the caliber, velocity and force, type of bullet, manufacturer's name and country of manufacture.
+You must furnish the consignee with a detailed technical description of each commodity to be given to the government for its use in issuing the document. For example, for shotguns, provide the type, barrel length, overall length, number of shots, the manufacturer's name, and the country of manufacture. For ammunition, provide the caliber, velocity and force, type of bullet, manufacturer's name and country of manufacture.
 
-(9) Expiration date of the FC Import Certificate in international date format (*e.g.,* 24/12/12) or the date the items must be imported, whichever is earlier.
+(9) Expiration date of the document in international date format (*e.g.,* 24/12/12) or the date the items must be imported, whichever is earlier.
 
 (10) Name of the country of export (*i.e.,* United States).
 
 (11) Additional information. Certain countries may require the tariff classification number, by class, under the Brussels Convention (Harmonized Tariff Code) or the specific technical description of a commodity. For example, shotguns may need to be described in barrel length, overall length, number of shots, manufacturer's name and country of manufacture. The technical description is not the Export Control Classification Number (ECCN).
 
-(d) *Procedures for using document with license application*—(1) *Information necessary for license application.* The license application must include the same commodities as those listed on the FC Import Certificate or the equivalent official document.
+(d) *Procedures for using document with license application*—(1) *Information necessary for license application.* The license application must include the same commodities as those listed on the document.
 
-(2) *Alterations.* After an FC Import Certificate or equivalent official document is used to support the issuance of a license, no corrections, additions, or alterations may be made on the FC Import Certificate by any person. Any necessary corrections, additions, or alterations should be noted by the applicant in a separate statement on file with the applicant.
+(2) *Alterations.* After the document is used to support the issuance of a license, no corrections, additions, or alterations may be made on the same document by any person. Any necessary corrections, additions, or alterations should be noted by the applicant in a separate statement on file with the applicant.
 
-(3) *Validity period.* FC Import Certificates or equivalent official documents issued by an OAS member country will be valid until the expiration date on the Certificate or for a period of four years, whichever is shorter.
+(3) *Validity period.* Documents issued by the importing country will be valid until the expiration date on the documents themselves.
 
 Note 2 to paragraph (d)(3):
 
-Applicants for license applications for exports and reexports to an OAS member country must submit the initial FC Import Certificate with the license application. All BIS licenses for ECCNs 0A501 and 0A505 commodities will include a standard rider that requires that the applicant/exporter must have a current FC Import Certificate on file prior to export. Note that while FC Import Certificates are usually valid for 1 year, BIS licenses are valid for 4 years. The text of the standard rider will generally be as follows: “A current, complete, accurate and valid Firearms Convention (FC) Import Certificate (or equivalent official document) shall be obtained, if required by the government of the importing country, from the Ultimate Consignee and maintained in the exporter's file prior to any export of the item(s) listed on this license. A copy shall be provided to the U.S. Government upon request. (Refer to section 742.17(b) of the EAR for guidance.)”
+Applicants for license applications for exports and reexports must submit an import certificate, permit, or comparable document with the license application. All BIS licenses for ECCNs 0A501, 0A505, 0A506, 0A507, 0A508, and 0A509 commodities will include a standard rider that requires that the applicant/exporter must have a current FC Import Certificate on file prior to export. The text of the standard rider will generally be as follows: “A current, complete, accurate and valid Firearms Convention (FC) Import Certificate (or equivalent official document) shall be obtained, if required by the government of the importing country, from the Ultimate Consignee and maintained in the exporter's file prior to any export of the item(s) listed on this license. A copy shall be provided to the U.S. Government upon request. (Refer to § 742.17(b) of the EAR for guidance.)”
 
 (e) *Requirement to obtain an import certificate or permit for other than OAS member states.* If the country to which firearms, parts, components, accessories, and attachments controlled under ECCN 0A501, or ammunition controlled under ECCN 0A505, are being exported or reexported requires that a government-issued certificate or permit be obtained prior to importing the commodity, the exporter or reexporter must obtain and retain on file the original or a copy of that certificate or permit before applying for an export or reexport license unless:
 
@@ -74,4 +72,4 @@ Note 4 to paragraph (e)(3):
 
 Obtaining a BIS Statement by Ultimate Consignee and Purchaser pursuant to § 748.11 does not exempt the exporter or reexporter from the requirement to obtain a certification pursuant to paragraph (a) of this section because that statement is not issued by a government.
 
-[80 FR 13219, Mar. 13, 2015, as amended at 85 FR 4177, Jan. 23, 2020; 86 FR 46594, Aug. 19, 2021]
+[80 FR 13219, Mar. 13, 2015, as amended at 85 FR 4177, Jan. 23, 2020; 86 FR 46594, Aug. 19, 2021; 89 FR 34706, Apr. 30, 2024]

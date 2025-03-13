@@ -1,6 +1,4 @@
-##### § 25.208 Power flux-density limits. #####
-
-Link to an amendment published at 89 FR 34167, Apr. 30, 2024.
+##### § 25.208 Power flux-density and in-band field strength limits. #####
 
 (a) In the band 3650-4200 MHz, the power flux density at the Earth's surface produced by emissions from a space station for all conditions and for all methods of modulation shall not exceed the following values:
 
@@ -29,8 +27,6 @@ These limits relate to the power flux density, which would be obtained under ass
 (e)-(m) [Reserved]
 
 (n) The power-flux density at the Earth's surface produced by emissions from a space station in the Fixed-Satellite Service (space-to-Earth), for all conditions and for all methods of modulation, shall not exceed the limits given in Table N. These limits relate to the power flux-density which would be obtained under assumed free-space conditions.
-
-Table N—Limits of Power-Flux Density From Space Stations in the Band 6700-7075 MHz
 
 |Frequency band|Limit in dB (W/m<sup>2</sup>) for angle of arrival (δ) above the horizontal plane|   Reference bandwidth   |              |      |
 |--------------|---------------------------------------------------------------------------------|-------------------------|--------------|------|
@@ -155,6 +151,12 @@ These limits relate to the power flux-density that would be obtained under assum
 
 −113 dB (W/m^2) in 1 MHz and for all angles of arrival between 25 and 90 degrees above the horizontal plane.
 
-(w) [Reserved]
+(w) The aggregate field strength at the earth's surface produced by all visible beams and satellites within each satellite constellation providing SCS service as they move over any given point or area in bands authorized by NG33A in the United States Table of Frequency Allocations and § 25.125 must meet:
+
+(1) 40 dBµV/m for the 600 MHz, 700 MHz, and 800 MHz bands; and
+
+(2) 47 dµV/m for the AWS and PCS bands; and
+
+(3) Licensees must comply with all applicable provisions and requirements of treaties and other international agreements between the United States Government and the governments of other countries, including Canada and Mexico. Absent specific international agreements regarding SCS, licensees must comply with the limited provided in paragraphs (w)(1) and (2) of this section.
 
 [48 FR 40255, Sept. 6, 1983]Editorial Note:For Federal Register citations affecting § 25.208, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

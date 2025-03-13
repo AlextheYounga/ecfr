@@ -1,8 +1,8 @@
 ##### § 9.10 911 Service. #####
 
-Link to an amendment published at 89 FR 18523, Mar. 13, 2024.Link to an amendment published at 89 FR 34165, Apr. 30, 2024.
+Link to an amendment published at 89 FR 34165, Apr. 30, 2024.
 
-(a) *Scope of section.* Except as described in paragraph (r) of this section, the following requirements of paragraphs (a) through (q) of this section are only applicable to CMRS providers, excluding mobile satellite service (MSS) operators, to the extent that they:
+(a) *Scope of section.* Except as described in paragraph (r) of this section, the following requirements of paragraphs (a) through (t) of this section are only applicable to CMRS providers, excluding mobile satellite service (MSS) operators, to the extent that they:
 
 (1) Offer real-time, two way switched voice service that is interconnected with the public switched network; and
 
@@ -388,4 +388,51 @@ Note to paragraph (d): With respect to 911 calls accessing their systems through
 
 (r) *Contraband Interdiction System (CIS) requirement.* CIS providers regulated as private mobile radio service (*see* § 9.3) must transmit all wireless 911 calls without respect to their call validation process to a Public Safety Answering Point, or, where no Public Safety Answering Point has been designated, to a designated statewide default answering point or appropriate local emergency authority pursuant to § 9.4, provided that “all wireless 911 calls” is defined as “any call initiated by a wireless user dialing 911 on a phone using a compliant radio frequency protocol of the serving carrier.” This requirement shall not apply if the Public Safety Answering Point or emergency authority informs the CIS provider that it does not wish to receive 911 calls from the CIS provider.
 
-[84 FR 66760, Dec. 5, 2019, as amended at 85 FR 2675, Jan. 16, 2020; 85 FR 53246, Aug. 28, 2020; 85 FR 70501, Nov. 5, 2020; 85 FR 78022, Dec. 3, 2020; 86 FR 19584, Apr. 14, 2021]
+(s) *Location-based routing requirements*—(1) *Wireless 911 voice calls.* (i) By November 13, 2024, nationwide CMRS providers must deploy a technology that supports location-based routing for wireless 911 voice calls on their internet Protocol-based networks (4G LTE, 5G, and subsequent generations of internet Protocol-based networks) nationwide. At that time, nationwide CMRS providers must route all wireless 911 voice calls originating on their internet Protocol-based networks pursuant to the requirements of paragraph (s)(3) of this section.
+
+(ii) By May 13, 2026, non-nationwide CMRS providers must deploy a technology that supports location-based routing for wireless 911 voice calls on their internet Protocol-based networks (4G LTE, 5G, and subsequent generations of internet Protocol-based networks). At that time, non-nationwide CMRS providers must route all wireless 911 voice calls originating on their internet Protocol-based networks pursuant to the requirements of paragraph (s)(3) of this section.
+
+(2) *Real-time text communications to 911.* By May 13, 2026, CMRS providers must deploy a technology that supports location-based routing for real-time text communications to 911 originating on their internet-Protocol-based networks (4G LTE, 5G, and subsequent generations of internet Protocol-based networks). At that time, CMRS providers must route all real-time text communications to 911 originating on their internet Protocol-based networks pursuant to the requirements of paragraph (s)(3) of this section.
+
+(3) *Timeliness and accuracy threshold.* (i) Notwithstanding requirements for confidence and uncertainty described in paragraph (j) of this section, CMRS providers must use location information that meets the following specifications for routing wireless 911 voice calls and real-time text communications to 911 under paragraphs (s)(1) and (2) of this section:
+
+(A) The location information reports the horizontal location uncertainty level of the device within a radius of 165 meters at a confidence level of at least 90%; and
+
+(B) The location information is available to the CMRS provider network at the time of routing the wireless 911 voice call or real-time text communication to 911.
+
+(ii) When the location information does not meet either one or both of the requirements in paragraphs (s)(3)(i)(A) and (B) of this section, CMRS providers must route the wireless 911 voice call or real-time text communication to 911 based on the best available location information, which may include but is not limited to device-based location information that does not meet the requirements in paragraphs (s)(3)(i)(A) and (B), the centroid of the area served by the cell sector that first picks up the call, or other location information.
+
+(4) *Certification and reporting.* Within 60 days after each benchmark specified in paragraphs (s)(1)(i) and (ii) and (s)(2) of this section, CMRS providers must comply with the following certification and reporting requirements.
+
+(i) CMRS providers must:
+
+(A) Certify that they are in compliance with the requirements specified in paragraphs (s)(1)(i) and (ii) and (s)(2) of this section applicable to them;
+
+(B) Identify specific network architecture, systems, and procedures used to comply with paragraphs (s)(1)(i) and (ii) and (s)(2) of this section, including the extent to which the CMRS provider validates location information for routing purposes and the validation practices used in connection with this information; and
+
+(C) Certify that neither they nor any third party they rely on to obtain location information or associated data used for compliance with paragraph (s)(1)(i) or (ii) or (s)(2) of this section will use such location information or associated data for any non-911 purpose, except with prior express consent or as otherwise required by law. The certification must state that the CMRS provider and any third parties it relies on to obtain location information or associated data used for compliance with paragraph (s)(1)(i) or (ii) or (s)(2) have implemented measures sufficient to safeguard the privacy and security of such location information or associated data.
+
+(ii) CMRS providers also must:
+
+(A) Collect and report aggregate data on the routing technologies used for all live wireless 911 voice calls in the locations specified for live 911 call location data in paragraph (i)(3)(ii) of this section for a thirty-day period which begins on the compliance date(s) specified in paragraphs (s)(1)(i) and (ii) of this section. CMRS providers must retain live wireless 911 voice call data gathered pursuant to this section for a period of 2 years. CMRS providers must collect and report the following data, expressed as both a number and percentage of the total number of live wireless 911 voice calls for which data is collected pursuant to this section:
+
+(*1*) Live wireless 911 voice calls routed with location-based routing using location information that meets the timeliness and accuracy thresholds defined in paragraphs (s)(3)(i)(A) and (B) of this section;
+
+(*2*) Live wireless 911 voice calls routed with location-based routing using location information that does not meet the timeliness or accuracy thresholds defined in paragraphs (s)(3)(i)(A) and (B) of this section; and
+
+(*3*) Live wireless 911 voice calls routed using tower-based routing.
+
+(5) *Modification of deadlines by agreement.* Nothing in this section shall prevent PSAPs and CMRS providers from establishing, by mutual consent, deadlines different from those established for CMRS provider compliance in paragraphs (s)(1)(i) and (ii) and (s)(2) of this section. The CMRS provider must notify the Commission of the dates and terms of the alternate time frame within 30 days of the parties' agreement or June 11, 2024, whichever is later. The CMRS provider must subsequently notify the Commission of the actual date by which it comes into compliance with the location-based routing requirements in paragraph (s)(1)(i) or (ii) or (s)(2) within 30 days of that date or June 11, 2024, whichever is later. CMRS providers must file such notifications pursuant to this paragraph (s)(5) in PS Docket No. 18-64. The parties may not use this paragraph (s)(5) to delay compliance with paragraph (s)(1)(i) or (ii) or (s)(2) of this section indefinitely.
+
+(6) *Compliance dates.* Paragraphs (s)(4) and (5) of this section contain information collection and recordkeeping requirements. Compliance with paragraphs (s)(4) and (5) will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising or removing this paragraph (s)(6) accordingly.
+
+(t) *Interim 911 requirements for supplemental coverage from space*—(1) *Supplemental coverage from space.* For purposes of this paragraph (t), *supplemental coverage from space (SCS)* has the same meaning as in part 25, subpart A, of this chapter; *SCS 911 calls* are 911 calls (as defined in § 9.3) that are carried over satellite facilities pursuant to a CMRS provider's SCS arrangement; and an *SCS 911 text message* is a 911 text message (as defined in paragraph (q)(9) of this section) that is carried over satellite facilities pursuant to a CMRS provider's SCS arrangement.
+
+(2) *Call Transmission requirements.* For purposes of delivering SCS 911 voice calls and SCS 911 text messages, CMRS providers must either:
+
+(i) Use information regarding the location of a device, including but not limited to device-based location information, to route SCS 911 voice calls and SCS 911 text messages to an appropriate PSAP and transmit the phone number of the device used to send the SCS 911 voice call or SCS 911 text message and available location information to an appropriate PSAP; or
+
+(ii) Use an emergency call center, at which emergency call center personnel must determine the emergency caller's phone number and location and then transfer or otherwise direct the 911 caller to an appropriate PSAP.
+
+[84 FR 66760, Dec. 5, 2019, as amended at 85 FR 2675, Jan. 16, 2020; 85 FR 53246, Aug. 28, 2020; 85 FR 70501, Nov. 5, 2020; 85 FR 78022, Dec. 3, 2020; 86 FR 19584, Apr. 14, 2021; 89 FR 18523, Mar. 13, 2024;
+89 FR 34165, Apr. 30, 2024]

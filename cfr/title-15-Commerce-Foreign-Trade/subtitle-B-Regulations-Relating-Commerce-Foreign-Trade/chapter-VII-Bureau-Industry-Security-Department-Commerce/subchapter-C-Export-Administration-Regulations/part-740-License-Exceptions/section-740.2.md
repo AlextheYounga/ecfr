@@ -1,7 +1,5 @@
 ##### § 740.2 Restrictions on all License Exceptions. #####
 
-Link to an amendment published at 89 FR 34701, Apr. 30, 2024.
-
 (a) You may not use *any* License Exception if *any* one or more of the following apply:
 
 (1) Your authorization to use a License Exception has been suspended or revoked, or your intended export does not qualify for a License Exception.
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 34701, Apr. 30, 2024.
 
 (ii) Authorized by § 740.11(b)(2)(ii) (official use by personnel and agencies of the U.S. government);
 
-(iii) Authorized by § 740.14(e) of the EAR (certain shotguns and shotgun shells for personal use); or
+(iii) Authorized by § 740.14(e) of the EAR; or
 
 (iv) Authorized by § 740.20 of the EAR (License Exception STA).
 
@@ -116,11 +114,13 @@ Item-specific license exception availability is specific to each ECCN 0Y521 entr
 
 (ii) A copy of a written statement issued by the Government of the Hong Kong Special Administrative Region that no Hong Kong export license is required for the item(s) to be rexported. The statement may have been issued directly to the Hong Kong reexporter or it may be a written statement available to the general public. The statement may be used for more than one reexport from Hong Kong so long as it remains an accurate statement of Hong Kong law.
 
-(21) The reexport or transfer (in-country) of firearms classified under ECCNs 0A501 or 0A502 if a part or component that is not “subject to the ITAR,” but would otherwise meet the criteria in USML Category I(h)(2) (*i.e.,* parts and components specially designed for conversion of a semiautomatic firearm to a fully automatic firearm) is incorporated into the firearm or is to be reexported or transferred (in-country) with the firearm with “knowledge” the part or component will be subsequently incorporated into the firearm. (*See* USML Category I(h)(2)). In such instances, no license exceptions are available except for License Exception GOV (§ 740.11(b)(2)(ii)).
+(21) The reexport or transfer (in-country) of firearms classified under ECCNs 0A501, 0A502, 0A506, 0A507, or 0A508 with either an ITAR-defined “foreign defense article” (22 CFR 120.39) that is not subject to Department of State jurisdiction that is incorporated into the firearm or “knowledge” that an ITAR-defined “defense article” (22 CFR 120.31) will be subsequently incorporated into the firearm, where the “(foreign) defense article” is described in USML Category I(h)(2). In such instances, no license exceptions are available except for License Exception GOV (§ 740.11(b)(2)(ii)).
 
 (22) [Reserved]
 
-(23) Exports of semiautomatic firearms controlled by ECCN 0A501.a sold under a contract or otherwise part of an export that includes $4,000,000 or more of such items are not eligible for any license exceptions except to personnel and agencies of the U.S. Government under License Exception GOV (§ 740.11(b) of the EAR), for official use by an agency of NATO, or where a license exception would otherwise be available for the export of such items to a country listed in Country Groups A:5 or A:6 (see supplement no. 1 to part 740 of the EAR) except Mexico, South Africa, or Turkey.
+(23) Exports, reexports, or transfers (in-country) of semi-automatic firearms or shotguns controlled under ECCNs 0A506, 0A507, or 0A508 sold under a contract or otherwise part of an export that includes $4,000,000 or more of such items are not eligible for any license exceptions except to personnel and agencies of the U.S. Government under License Exception GOV (§ 740.11(b) of the EAR), for official use by an agency of NATO, or where a license exception would otherwise be available for the export, reexport, or transfer (in-country) of such items to a destination specified in Country Groups A:5 or A:6 (see supplement no. 1 to part 740 of the EAR) except Mexico, South Africa, or Turkey.
+
+(24) Exporters of items controlled under ECCNs 0A501, 0A502, 0A504, 0A505, 0A506, 0A507, 0A508, or 0A509 wishing to use an EAR license exception for such items must first have the consignee obtain and provide to the exporter an import certification or equivalent document, if the importing country requires one, prior to using an EAR license exception.
 
 Note to paragraph (a):
 

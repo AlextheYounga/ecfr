@@ -24,7 +24,7 @@
 
 (iii) *Commercial product or commercial service determination.* Unless the procedures in paragraph (a)(ii) of this section are applicable, when using FAR part 12 procedures for acquisitions of commercial products and commercial service pursuant to 212.102(a)(i)(A) that exceed the simplified acquisition threshold, the contracting officer shall—
 
-(A) Determine in writing that the acquisition meets the “commercial product” or “commercial service” definition in FAR 2.101;
+(A) Determine in writing that the acquisition meets the “commercial product” or “commercial service” definition in FAR 2.101. See 234.7002(b) and (c) for subsystems of major weapon systems and components and spare parts of major weapon systems and of subsystems of major weapon systems;
 
 (B) Include the written determination in the contract file;
 
@@ -42,4 +42,4 @@
 
 (v) *Commercial item guidebook.* For a link to the commercial item guidebook, see PGI 212.102(a)(v).
 
-[87 FR 25143, Apr. 28, 2022, as amended at 87 FR 76991, Dec. 16, 2022; 88 FR 6581, Jan. 31, 2023; 88 FR 55939, Aug. 17, 2023]
+[87 FR 25143, Apr. 28, 2022, as amended at 87 FR 76991, Dec. 16, 2022; 88 FR 6581, Jan. 31, 2023; 88 FR 55939, Aug. 17, 2023; 89 FR 46808, May 30, 2024]

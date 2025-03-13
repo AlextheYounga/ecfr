@@ -1,7 +1,5 @@
 ##### § 17.274 Cost sharing. #####
 
-Link to an amendment published at 89 FR 34137, Apr. 30, 2024.
-
 (a) *Cost sharing generally.* CHAMPVA is a cost sharing program in which the cost of covered services is shared with the CHAMPVA beneficiary. CHAMPVA pays the CHAMPVA determined allowable amount less the CHAMPVA deductible, if applicable, and less the CHAMPVA beneficiary cost-share.
 
 (1) CHAMPVA beneficiary cost-share requirements do not apply to the following:
@@ -64,4 +62,18 @@ Link to an amendment published at 89 FR 34137, Apr. 30, 2024.
 
 (ii) 25 percent of the hospital's billed charges.
 
-[67 FR 4359, Jan. 30, 2002, as amended at 67 FR 6875, Feb. 14, 2002; 87 FR 41601, July 13, 2022]
+(f) Cost sharing and annual deductible requirements under paragraphs (a) and (b) of this section do not apply to:
+
+(1) Insertion, removal, and replacement of intrauterine systems, contraceptive implants, or similar FDA approved, granted, or cleared contraceptives that require insertion, removal, and replacement by a health care provider;
+
+(2) Measurement for, and purchase of, contraceptive diaphragms or similar FDA approved, cleared, or granted medical devices, including remeasurement and replacement;
+
+(3) Administration of injectable contraceptives or similar FDA approved, granted, or cleared contraceptives that require administration by a health care provider;
+
+(4) Prescription contraceptives, and prescription or nonprescription contraceptives used as emergency contraceptives, approved, granted, or cleared by the FDA;
+
+(5) Surgical sterilization; and
+
+(6) Outpatient care or evaluation associated with provision of family planning services listed in paragraphs (f)(1) through (5) of this section.
+
+[67 FR 4359, Jan. 30, 2002, as amended at 67 FR 6875, Feb. 14, 2002; 87 FR 41601, July 13, 2022; 89 FR 34137, Apr. 30, 2024]

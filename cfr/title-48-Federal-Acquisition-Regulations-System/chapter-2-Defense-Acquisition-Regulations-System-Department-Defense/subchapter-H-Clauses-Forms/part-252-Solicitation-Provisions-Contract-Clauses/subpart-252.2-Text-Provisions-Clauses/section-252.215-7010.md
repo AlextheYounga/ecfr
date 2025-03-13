@@ -2,7 +2,7 @@
 
 *Basic.* As prescribed in 215.408(5)(i) and (5)(i)(A), use the following provision:
 
-Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data—Basic (JAN 2023)
+Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data—Basic (MAY 2024)
 
 (a) *Definitions.* As used in this provision—
 
@@ -12,7 +12,7 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 *Relevant sales data* means information provided by an offeror on sales of the same or similar items that can be used to establish price reasonableness taking into consideration the age, volume, and nature of the transactions (including any related discounts, refunds, rebates, offsets, or other adjustments).
 
-*Sufficient non-Government sales* means relevant sales data that reflects market pricing and contains enough information to make adjustments covered by FAR 15.404-1(b)(2)(ii)(B).
+*Sufficient non-Government sales* means relevant sales data that reflects market pricing and contains enough information to make adjustments covered by Federal Acquisition Regulation (FAR) 15.404-1(b)(2)(ii)(B).
 
 *Uncertified cost data* means the subset of “data other than certified cost or pricing data” (see FAR 2.101) that relates to cost.
 
@@ -20,23 +20,39 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (i) *Exception for prices set by law or regulation—Identification of the law or regulation establishing the prices offered.* If the prices are controlled under law by periodic rulings, reviews, or similar actions of a governmental body, attach a copy of the controlling document, unless it was previously submitted to the contracting office.
 
-(ii) *Commercial product or commercial service exception.* For a commercial product or commercial service exception, the Offeror shall submit, at a minimum, information that is adequate for evaluating the reasonableness of the price for this acquisition, including prices at which the same product or service or similar products or services have been sold in the commercial market. Such information shall include—
+(ii) *Commercial product or commercial service exception.* For a commercial product or commercial service exception, the Offeror shall submit, at a minimum, information that is adequate for determining commerciality and evaluating the reasonableness of the price for this acquisition, including prices at which the same product or service or similar products or services have been sold in the commercial market. Such information shall include—
 
 (A) For products or services previously determined to be commercial, the contract number and military department, defense agency, or other DoD component that rendered such determination, and if available, a Government point of contact;
 
-(B) For items priced based on a catalog—
+(B) For subsystems of a major weapon system and components and spare parts of a major weapon system or subsystem of a major weapon system that have not previously been determined to be commercial—
+
+(*1*) The comparable commercial product the Offeror sells to the general public or nongovernmental entities;
+
+(*2*) A comparison between the physical characteristics and functionality of the comparable commercial product and the subsystem, component, or spare part, including—
+
+(*i*) For products under paragraph (3)(i) of the “commercial product” definition at FAR 2.101, a description of the modification and documentation to support that the modification is customarily available in the marketplace; or
+
+(*ii*) For products under paragraph (3)(ii) of the “commercial product” definition at FAR 2.101, a detailed description of the modification and detailed technical data to demonstrate that the modification is minor (e.g., information on production processes and material differences); and
+
+(*3*) The national stock number (NSN) for the comparable commercial product, if one is assigned, and the NSN for the subsystem, component, or spare part, if one is assigned; or
+
+(*4*) If the Offeror does not sell a comparable commercial product to the general public or nongovernmental entities for purposes other than government purposes, the Offeror shall—
+
+(*i*) Notify the Contracting Officer in writing that it does not sell such a comparable product; and
+
+(*ii*) Provide the Contracting Officer with a comparison of the physical characteristics and functionality of the most comparable commercial product in the commercial market.
+
+(C) For items priced based on a catalog—
 
 (*1*) A copy of or identification of the Offeror's current catalog showing the price for that item; and
 
 (*2*) If the catalog pricing provided with this proposal is not consistent with all relevant sales data, a detailed description of differences or inconsistencies between or among the relevant sales data, the proposed price, and the catalog price (including any related discounts, refunds, rebates, offsets, or other adjustments);
 
-(C) For items priced based on market pricing, a description of the nature of the commercial market, the methodology used to establish a market price, and all relevant sales data. The description shall be adequate to permit the DoD to verify the accuracy of the description;
+(D) For items priced based on market pricing, a description of the nature of the commercial market, the methodology used to establish a market price, and all relevant sales data. The description shall be adequate to permit the DoD to verify the accuracy of the description;
 
-(D) For items included on an active Federal Supply Service Multiple Award Schedule contract, proof that an exception has been granted for the schedule item; or
+(E) For items included on an active Federal Supply Service Multiple Award Schedule contract, proof that an exception has been granted for the schedule item; or
 
-(E) For items provided by nontraditional defense contractors, a statement that the entity is not currently performing and has not performed, for at least the 1-year period preceding the solicitation of sources by DoD for the procurement or transaction, any contract or subcontract for DoD that is subject to full coverage under the cost accounting standards prescribed pursuant to 41 U.S.C. 1502 and the regulations implementing such section.
-
-(2) The Offeror grants the Contracting Officer or an authorized representative the right to examine, at any time before award, books, records, documents, or other directly pertinent records to verify any request for an exception under this provision, and to determine the reasonableness of price.
+(F) For items provided by nontraditional defense contractors, a statement that the entity is not currently performing and has not performed, for at least the 1-year period preceding the solicitation of sources by DoD for the procurement or transaction, any contract or subcontract for DoD that is subject to full coverage under the cost accounting standards prescribed pursuant to 41 U.S.C. 1502 and the regulations implementing such section.
 
 (c) *Requirements for certified cost or pricing data.* If the Offeror is not granted an exception from the requirement to submit certified cost or pricing data, the following applies:
 
@@ -46,13 +62,17 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (3) The Offeror is responsible for determining whether a subcontractor qualifies for an exception from the requirement for submission of certified cost or pricing data on the basis of adequate price competition, *i.e.,* two or more responsible offerors, competing independently, submit priced offers that satisfy the Government's expressed requirement in accordance with FAR 15.403-1(c)(1)(i).
 
-(d) *Requirements for data other than certified cost or pricing data.* (1) Data other than certified cost or pricing data submitted in accordance with this provision shall include the minimum information necessary to permit a determination that the proposed price is fair and reasonable, to include the requirements in DFARS 215.402(a)(i) and 215.404-1(b).
+(d) *Requirements for data other than certified cost or pricing data.* (1) Data other than certified cost or pricing data submitted in accordance with this provision shall include the minimum information necessary to permit a determination that the proposed price is fair and reasonable, to include the requirements in Defense Federal Acquisition Regulation Supplement (DFARS) 215.402(a)(i), 215.404-1(b), and 234.7002(e).
 
 (2) In cases in which uncertified cost data is required, the information shall be provided in the form in which it is regularly maintained by the Offeror or prospective subcontractor in its business operations.
 
-(3) Within 10 days of a written request from the Contracting Officer for additional information to permit an adequate evaluation of the proposed price in accordance with FAR 15.403-3, the Offeror shall provide either the requested information, or a written explanation for the inability to fully comply.
+(3) If the Offeror redacts data that identifies the customer (see DFARS 234.7002(e)(2)), then the Offeror shall include, for each sale, the following signed statement with the data submitted:
 
-(4) *Subcontract price evaluation.* (i) Offerors shall obtain from subcontractors the minimum information necessary to support a determination of price reasonableness, as described in FAR part 15 and DFARS part 215.
+“By submission of this data, the Offeror *[Offeror insert company name]* certifies that the customer was *[Offeror insert one or more of the following as applicable: a government customer; a commercial customer purchasing the same or similar product for governmental purposes (e.g., Federal, state, local, or foreign government); or a commercial customer purchasing the same or similar product for a commercial, mixed, or unknown purpose].*”
+
+(4) Within 10 days of a written request from the Contracting Officer for additional information to permit an adequate evaluation of the proposed price in accordance with FAR 15.403-3 or DFARS 234.7002(e), the Offeror shall provide either the requested information, or a written explanation for the inability to fully comply.
+
+(5) *Subcontract price evaluation.* (i) Offerors shall obtain from subcontractors the minimum information necessary to support a determination of price reasonableness, as described in FAR part 15 and DFARS part 215.
 
 (ii) No cost data may be required from a prospective subcontractor in any case in which there are sufficient non-Government sales of the same item to establish reasonableness of price.
 
@@ -72,7 +92,7 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 *Alternate I.* As prescribed in 215.408(5)(i) and (5)(i)(B), use the following provision, which includes a different paragraph (c)(1).
 
-Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data—Basic (JAN 2023)
+Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data—Alternate I (MAY 2024)
 
 (a) *Definitions.* As used in this provision—
 
@@ -82,7 +102,7 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 *Relevant sales data* means information provided by an offeror on sales of the same or similar items that can be used to establish price reasonableness taking into consideration the age, volume, and nature of the transactions (including any related discounts, refunds, rebates, offsets, or other adjustments).
 
-*Sufficient non-Government sales* means relevant sales data that reflects market pricing and contains enough information to make adjustments covered by FAR 15.404-1(b)(2)(ii)(B).
+*Sufficient non-Government sales* means relevant sales data that reflects market pricing and contains enough information to make adjustments covered by Federal Acquisition Regulation (FAR) 15.404-1(b)(2)(ii)(B).
 
 *Uncertified cost data* means the subset of “data other than certified cost or pricing data” (see FAR 2.101) that relates to cost.
 
@@ -90,21 +110,39 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (i) *Exception for price set by law or regulation—Identification of the law or regulation establishing the price offered.* If the price is controlled under law by periodic rulings, reviews, or similar actions of a governmental body, attach a copy of the controlling document, unless it was previously submitted to the contracting office.
 
-(ii) *Commercial product or commercial service exception.* For a commercial product or commercial service exception, the Offeror shall submit, at a minimum, information that is adequate for evaluating the reasonableness of the price for this acquisition, including prices at which the same product or service or similar products or services have been sold in the commercial market. Such information shall include—
+(ii) *Commercial product or commercial service exception.* For a commercial product or commercial service exception, the Offeror shall submit, at a minimum, information that is adequate for determining commerciality and evaluating the reasonableness of the price for this acquisition, including prices at which the same product or service or similar products or services have been sold in the commercial market. Such information shall include—
 
 (A) For products or services previously determined to be commercial, the contract number and military department, defense agency, or other DoD component that rendered such determination, and if available, a Government point of contact;
 
-(B) For items priced based on a catalog—
+(B) For subsystems of a major weapon system and components and spare parts of a major weapon system or subsystem of a major weapon system that have not previously been determined to be commercial—
+
+(*1*) The comparable commercial product the Offeror sells to the general public or nongovernmental entities;
+
+(*2*) A comparison between the physical characteristics and functionality of the comparable commercial product and the subsystem, component, or spare part, including—
+
+(*i*) For products under paragraph (3)(i) of the “commercial product” definition at FAR 2.101, a description of the modification and documentation to support that the modification is customarily available in the marketplace; or
+
+(*ii*) For products under paragraph (3)(ii) of the “commercial product” definition at FAR 2.101, a detailed description of the modification and detailed technical data to demonstrate that the modification is minor (e.g., information on production processes and material differences); and
+
+(*3*) The national stock number (NSN) for the comparable commercial product, if one is assigned, and the NSN for the subsystem, component, or spare part; or
+
+(*4*) If the Offeror does not sell a comparable commercial product to the general public or nongovernmental entities for purposes other than government purposes, the Offeror shall—
+
+(*i*) Notify the Contracting Officer in writing that it does not sell such a comparable product; and
+
+(*ii*) Provide the Contracting Officer with a comparison of the physical characteristics and functionality of the most comparable commercial product in the commercial market.
+
+(C) For items priced based on a catalog—
 
 (*1*) A copy of or identification of the Offeror's current catalog showing the price for that item; and
 
 (*2*) If the catalog pricing provided with this proposal is not consistent with all relevant sales data, a detailed description of differences or inconsistencies between or among the relevant sales data, the proposed price, and the catalog price (including any related discounts, refunds, rebates, offsets, or other adjustments);
 
-(C) For items priced based on market pricing, a description of the nature of the commercial market, the methodology used to establish a market price, and all relevant sales data. The description shall be adequate to permit the DoD to verify the accuracy of the description;
+(D) For items priced based on market pricing, a description of the nature of the commercial market, the methodology used to establish a market price, and all relevant sales data. The description shall be adequate to permit the DoD to verify the accuracy of the description;
 
-(D) For items included on an active Federal Supply Service Multiple Award Schedule contract, proof that an exception has been granted for the schedule item; or
+(E) For items included on an active Federal Supply Service Multiple Award Schedule contract, proof that an exception has been granted for the schedule item; or
 
-(E) For items provided by nontraditional defense contractors, a statement that the entity is not currently performing and has not performed, for at least the 1-year period preceding the solicitation of sources by the DoD for the procurement or transaction, any contract or subcontract for the DoD that is subject to full coverage under the cost accounting standards prescribed pursuant to 41 U.S.C. 1502 and the regulations implementing such section.
+(F) For items provided by nontraditional defense contractors, a statement that the entity is not currently performing and has not performed, for at least the 1-year period preceding the solicitation of sources by the DoD for the procurement or transaction, any contract or subcontract for the DoD that is subject to full coverage under the cost accounting standards prescribed pursuant to 41 U.S.C. 1502 and the regulations implementing such section.
 
 (2) The Offeror grants the Contracting Officer or an authorized representative the right to examine, at any time before award, books, records, documents, or other directly pertinent records to verify any request for an exception under this provision, and to determine the reasonableness of price.
 
@@ -116,15 +154,19 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (3) The Offeror is responsible for determining whether a subcontractor qualifies for an exception from the requirement for submission of certified cost or pricing data on the basis of adequate price competition, *i.e.,* two or more responsible offerors, competing independently, submit priced offers that satisfy the Government's expressed requirement in accordance with FAR 15.403-1(c)(1)(i).
 
-(d) *Requirements for data other than certified cost or pricing data.* (1) Data other than certified cost or pricing data submitted in accordance with this provision shall include all data necessary to permit a determination that the proposed price is fair and reasonable, to include the requirements in DFARS 215.402(a)(i) and 215.404-1(b).
+(d) *Requirements for data other than certified cost or pricing data.* (1) Data other than certified cost or pricing data submitted in accordance with this provision shall include all data necessary to permit a determination that the proposed price is fair and reasonable, to include the requirements in Defense Federal Acquisition Regulation Supplement (DFARS) 215.402(a)(i), 215.404-1(b), and 237.7002(e).
 
 (2) In cases in which uncertified cost data is required, the information shall be provided in the form in which it is regularly maintained by the Offeror or prospective subcontractor in its business operations.
 
-(3) The Offeror shall provide information described as follows: *[Insert description of the data and the format that are required, including access to records necessary to permit an adequate evaluation of the proposed price in accordance with FAR 15.403-3.]*
+(3) If the Offeror redacts data that identifies the customer (see DFARS 234.7002(e)(2)), then the Offeror shall include, for each sale, the following signed statement with the data submitted:
 
-(4) Within 10 days of a written request from the Contracting Officer for additional information to support proposal analysis, the Offeror shall provide either the requested information, or a written explanation for the inability to fully comply.
+“By submission of this data, the Offeror *[Offeror insert company name]* certifies that the customer was *[Offeror insert one or more of the following as applicable: a government customer (e.g., Federal, state, local, or foreign government); a commercial customer purchasing the same or similar product for governmental purposes; or a commercial customer purchasing the same or similar product for a commercial, mixed, or unknown purpose]*.”
 
-(5) *Subcontract price evaluation.* (i) Offerors shall obtain from subcontractors the information necessary to support a determination of price reasonableness, as described in FAR part 15 and DFARS part 215.
+(4) The Offeror shall provide information described as follows: *[Insert description of the data and the format that are required, including access to records necessary to permit an adequate evaluation of the proposed price in accordance with FAR 15.403-3 or DFARS 234.7002(e).]*
+
+(5) Within 10 days of a written request from the Contracting Officer for additional information to support proposal analysis, the Offeror shall provide either the requested information, or a written explanation for the inability to fully comply.
+
+(6) *Subcontract price evaluation.* (i) Offerors shall obtain from subcontractors the information necessary to support a determination of price reasonableness, as described in FAR part 15 and DFARS part 215.
 
 (ii) No cost information may be required from a prospective subcontractor in any case in which there are sufficient non-Government sales of the same item to establish reasonableness of price.
 
@@ -140,4 +182,4 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (2) Paragraph (d) of this provision for subcontracts exceeding the simplified acquisition threshold defined in FAR part 2.
 
-(End of provision)[83 FR 4445, Jan. 31, 2018, as amended at 83 FR 30825, June 29, 2018; 84 FR 30950, June 28, 2019; 84 FR 33858, July 16, 2019; 88 FR 6590, Jan. 31, 2023]
+(End of provision)[83 FR 4445, Jan. 31, 2018, as amended at 83 FR 30825, June 29, 2018; 84 FR 30950, June 28, 2019; 84 FR 33858, July 16, 2019; 88 FR 6590, Jan. 31, 2023; 89 FR 46809, May 30, 2024]

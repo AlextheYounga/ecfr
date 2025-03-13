@@ -1,7 +1,5 @@
 ##### § 679.28 Equipment and operational requirements. #####
 
-Link to an amendment published at 89 FR 34758, Apr. 30, 2024.
-
 (a) *Applicability.* This section contains the operational requirements for scales, observer sampling stations, vessel monitoring system hardware, catch monitoring and control plans, catcher vessel electronic logbook software, and video monitoring systems. The operator or manager must retain a copy of all records described in this section (§ 679.28) as indicated at § 679.5(a)(5) and (6) and make available the records upon request of NMFS observers and authorized officers as indicated at § 679.5(a)(5).
 
 (b) *Scales used to weigh catch at sea.* In order to be approved by NMFS a scale used to weigh catch at sea must meet the type evaluation requirements set forth in paragraph (b)(1) of this section and the initial inspection and annual reinspection requirements set forth in paragraph (b)(2) of this section. Once a scale is installed on a vessel and approved by NMFS for use to weigh catch at sea, it must be reinspected annually and must be tested daily and meet the maximum permissible error (MPE) requirements described in paragraph (b)(3) of this section.
@@ -408,6 +406,8 @@ Link to an amendment published at 89 FR 34758, Apr. 30, 2024.
 (viii) You are fishing for IFQ sablefish in the GOA using longline pot gear (see § 679.42(l)) or fishing for IFQ or CDQ halibut or CDQ sablefish in the BSAI using pot gear (see § 679.42(m)); or
 
 (ix) You are required under the Crab Rationalization Program regulations at 50 CFR 680.23(d).
+
+(x) You operate a vessel named, or required to be named, on an SFFP issued under § 679.114 in the waters of Cook Inlet during a calendar day when directed fishing for salmon using drift gillnet gear is open in the Cook Inlet EEZ Area and have drift gillnet gear on board or deployed.
 
 (7) *What additional requirements does an operator have if trawling in the Aleutian Islands reporting areas?* Operators of vessels named on a Federal Fisheries Permit under § 679.4(b), and that are using trawl gear in the Aleutian Islands reporting areas to harvest groundfish that is required to be deducted from a Federal TAC specified at § 679.20, must set their VMS to transmit the vessel location at least 10 times per hour.
 

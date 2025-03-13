@@ -1,7 +1,5 @@
 ##### § 772.1 Definitions of terms as used in the Export Administration Regulations (EAR). #####
 
-Link to an amendment published at 89 FR 34710, Apr. 30, 2024.
-
 The following are definitions of terms as used in the Export Administration Regulations (EAR). In this part, references to the EAR are references to 15 CFR chapter VII, subchapter C. Those terms in quotation marks refer to terms used on the Commerce Control List (CCL) (supplement no. 1 to part 774 of the EAR). Parenthetical references following the terms in quotation marks (i.e., (Cat 5)) refer to the CCL category in which that term is found. If a term is used in only one Export Control Classification Number (ECCN) on the CCL, then that term will *not* appear in this part, but will be defined in the Related Definitions paragraph in the List of Items Controlled Section of that ECCN.
 
 *600 series.* ECCNs in the “xY6zz” format on the Commerce Control List (CCL) that control items on the CCL that were previously controlled on the U.S. Munitions List or that are covered by the Wassenaar Arrangement Munitions List (WAML). The “6” indicates the entry is a munitions entry on the CCL. The “x” represents the CCL category and “Y” the CCL product group. The “600 series” constitutes the munitions ECCNs within the larger CCL.
@@ -175,6 +173,12 @@ c. The common basic characteristics.
 (3) A Canadian firm incorporated or otherwise organized under the laws of Canada or any Canadian province or territory, having a total foreign stock interest not greater than 40 percent, and having the Chairman or Acting Chairman and at least two-thirds of the Directors thereof Canadian citizens.
 
 *Capable of.* (MTCR context)—See “usable in”.
+
+*CARICOM (Caribbean Community).* For purposes of §§ 740.3 and 740.14 of the EAR, the term CARICOM is defined as follows: An intergovernmental organization that consists of the following (1) member states Antigua and Barbuda, Bahamas, Barbados, Belize, Dominica, Grenada, Guyana, Haiti, Jamaica, Montserrat, St. Lucia, Suriname, St. Kitts and Nevis, St. Vincent and the Grenadines, and Trinidad and Tobago; (2) associate members Anguilla, Bermuda, British Virgin Islands, Cayman Islands, and Turks and Caicos; and (3) any other state or associate member that has acceded to membership in accordance with Article 3 or Article 231 of the Treaty of Chaguaramas.
+
+Note to definition of CARICOM:
+
+Anguilla, Bermuda, British Virgin Islands, Cayman Islands, Montserrat, and Turks and Caicos are treated as the United Kingdom under all other EAR provisions that govern licensing requirements and license exceptions.
 
 *Category.* The Commerce Control List (CCL) is divided into ten categories: (0) Nuclear Materials, Facilities and Equipment, and Miscellaneous; (1) Materials, Chemicals, “Microorganisms”, and Toxins; (2) Materials Processing; (3) Electronics Design, Development and Production; (4) Computers; (5) Telecommunications and Information Security; (6) Sensors; (7) Navigation and Avionics; (8) Marine; (9) Propulsion Systems, Space Vehicles, and Related Equipment. See § 738.2(a) of the EAR.
 

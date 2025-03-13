@@ -1,8 +1,8 @@
 ##### 252.225-7062 Restriction on Acquisition of Large Medium-Speed Diesel Engines. #####
 
-As prescribed in 225.7010-5, use the following clause:
+As prescribed in 225.7004-7(b), use the following clause:
 
-Restriction on Acuisition of Large Medium-Speed Diesel Engines (Jul 2023)
+Restriction on Acquisition of Large Medium-Speed Diesel Engines (Jul 2023)
 
 (a) *Definition.* As used in this clause—
 
@@ -12,4 +12,4 @@ Restriction on Acuisition of Large Medium-Speed Diesel Engines (Jul 2023)
 
 (c) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (c), in subcontracts that exceed the simplified acquisition threshold, including subcontracts for commercial products and commercial services, that require large medium-speed diesel engines for new construction of auxiliary ships.
 
-(End of clause)[88 FR 46903, July 20, 2023]
+(End of clause)[88 FR 46903, July 20, 2023, as amended at 89 FR 46816, May 30, 2024]

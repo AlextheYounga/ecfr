@@ -1,8 +1,6 @@
 ##### § 679.25 Inseason adjustments. #####
 
-Link to an amendment published at 89 FR 34758, Apr. 30, 2024.
-
-(a) *General*—(1) *Types of adjustments.* Inseason adjustments for directed fishing for groundfish or fishing for IFQ or CDQ halibut issued by NMFS under this section include:
+(a) *General*—(1) *Types of adjustments.* Inseason adjustments for directed fishing for groundfish, fishing for IFQ or CDQ halibut, or fishing for Cook Inlet EEZ Area salmon issued by NMFS under this section include:
 
 (i) Closure, extension, or opening of a season in all or part of a management area.
 
@@ -13,6 +11,8 @@ Link to an amendment published at 89 FR 34758, Apr. 30, 2024.
 (iv) Interim closures of statistical areas, or portions thereof, to directed fishing for specified groundfish species.
 
 (v) Inseason closures of an area, district, or portions thereof, of harvest of specified halibut fisheries.
+
+(vi) Adjustment of TAC for any salmon species or stock and closure or opening of a season in all or part of the Cook Inlet EEZ Area.
 
 (2) *Determinations.* (i) Any inseason adjustment taken under paragraph (a)(1)(i), (ii), (iii), or (iv) of this section must be based on a determination that such adjustments are necessary to prevent:
 
@@ -46,13 +46,29 @@ Link to an amendment published at 89 FR 34758, Apr. 30, 2024.
 
 (v) The inseason closure of a statistical area, or a portion thereof, under paragraph (a)(1)(iv) of this section shall not extend beyond a 60-day period unless information considered under paragraph (b) of this section warrants an extended closure period. Any closure of a statistical area, or portion thereof, to reduce prohibited species bycatch rates requires a determination by the Regional Administrator that the closure is based on the best available scientific information concerning the seasonal distribution and abundance of prohibited species and bycatch rates of prohibited species associated with various groundfish fisheries.
 
-(b) *Data.* All information relevant to one or more of the following factors may be considered in making the determinations required under paragraphs (a)(2)(i) and (ii) of this section:
+(vi) Any inseason adjustment taken under paragraph (a)(1)(vi) of this section must be based on a determination that such adjustments are necessary to prevent:
+
+(A) Overfishing of any species or stock of fish or shellfish;
+
+(B) Harvest of a TAC for any salmon species or stock that, on the basis of the best available scientific information, is found by NMFS to be incorrectly specified; or
+
+(C) Underharvest of a TAC for any salmon species or stock when catch information indicates that the TAC has not been reached, and there is not a conservation or management concern for any species or stock that would also be harvested with additional fishing effort.
+
+(vii) The selection of the appropriate inseason management adjustments under paragraphs (a)(1)(vi) of this section must be from the following authorized management measures and must be based on a determination by the Regional Administrator that the management adjustment selected is the least restrictive necessary to achieve the purpose of the adjustment:
+
+(A) Closure of a management area or portion thereof, or gear type, or season to all salmon fishing; or
+
+(B) Reopening of a management area or season to achieve the TAC for any of the salmon species or stock without exceeding the TAC of any other salmon species or stock.
+
+(viii) The adjustment of a TAC for any salmon species or stock under paragraph (a)(1)(vi) of this section must be based upon a determination by the Regional Administrator that the adjustment is based upon the best scientific information available concerning the biological stock status of the species or stock in question and that the currently specified TAC is incorrect. Any adjustment to a TAC must be reasonably related to the change in biological stock status.
+
+(b) *Data.* Information relevant to one or more of the following factors may be considered in making the determinations required under paragraphs (a)(2)(i), (ii), (vi) and (vii) of this section:
 
 (1) The effect of overall fishing effort within a statistical area;
 
 (2) Catch per unit of effort and rate of harvest;
 
-(3) Relative distribution and abundance of stocks of groundfish species and prohibited species within all or part of a statistical area;
+(3) Relative distribution and abundance of stocks of groundfish species, salmon species or stocks, and prohibited species within all or part of a statistical area;
 
 (4) Condition of a stock in all or part of a statistical area;
 
@@ -62,7 +78,7 @@ Link to an amendment published at 89 FR 34758, Apr. 30, 2024.
 
 (7) Economic impacts on fishing businesses affected; or
 
-(8) Any other factor relevant to the conservation and management of groundfish species or any incidentally caught species that are designated as prohibited species or for which a PSC limit has been specified.
+(8) Any other factor relevant to the conservation and management of groundfish species, salmon species or stocks, or any incidentally caught species that are designated as prohibited species or for which a PSC limit has been specified.
 
 (c) *Procedure.* (1) No inseason adjustment issued under this section will take effect until—
 
@@ -88,4 +104,4 @@ Link to an amendment published at 89 FR 34758, Apr. 30, 2024.
 
 (iii) The effective date and any termination date of such adjustment. If no termination date is specified, the adjustment will terminate on the last day of the fishing year.
 
-[61 FR 31230, June 19, 1996, as amended at 75 FR 61642, Oct. 6, 2010; 81 FR 24733, Apr. 27, 2016; 85 FR 850, Jan. 8, 2020]
+[61 FR 31230, June 19, 1996, as amended at 75 FR 61642, Oct. 6, 2010; 81 FR 24733, Apr. 27, 2016; 85 FR 850, Jan. 8, 2020; 89 FR 34758, Apr. 30, 2024]

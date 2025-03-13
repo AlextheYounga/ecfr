@@ -1,7 +1,5 @@
 ##### § 740.10 License Exception Servicing and replacement of parts and equipment (RPL). #####
 
-Link to an amendment published at 89 FR 34703, Apr. 30, 2024.
-
 License Exception RPL authorizes exports and reexports associated with one-for-one replacement of parts, components, accessories, and attachments. License Exception RPL also authorizes exports and reexports of certain items currently “subject to the EAR” to or for, or to replace, a defense article described in an export or reexport authorization issued under the authority of the Arms Export Control Act. It does not, however, authorize the export or reexport of defense articles subject to the ITAR, i.e., described on the United States Munitions List (22 CFR 121.1).
 
 (a) *Parts, components, accessories, and attachments*—(1) *Scope.* The provisions of this paragraph (a) authorize the export and reexport of one-for-one replacement parts, components, accessories, and attachments for previously exported equipment or other end items.
@@ -32,7 +30,7 @@ License Exception RPL authorizes exports and reexports associated with one-for-o
 
 (ii) The conditions described in paragraph (a)(3) relating to replacement of “parts,” “components,” “accessories,” or “attachments” (excluding 9x515 and “600 series” ECCNs) do not apply to reexports to a foreign country of “parts,” “components,” “accessories,” or “attachments” as replacements in foreign-origin products, if at the time the replacements are furnished, the foreign-origin product is eligible for export to such country under any of the License Exceptions in this part or the foreign-origin product is not subject to the EAR pursuant to § 734.4.
 
-(b) *Servicing and replacement*—(1) The provisions of this paragraph (b) authorize the export and reexport to any destination, except for 9x515 or “600 series” items to destinations identified in Country Group D:5 (see supplement no. 1 to this part) or otherwise prohibited under the EAR, of commodities and software that were sent to the United States or to a foreign party for servicing and replacement of commodities and software “subject to the EAR” (see § 734.2(a) of the EAR) that are defective or that an end user or ultimate consignee has found unacceptable. The export of firearms controlled by ECCN 0A501.a or .b, or shotguns with a barrel length less than 18 inches controlled in ECCN 0A502 temporarily in the United States for servicing and replacement may be exported under paragraph (b)(2) or (3) of this section only if the additional requirements in paragraph (b)(4) of this section are also met.
+(b) *Servicing and replacement*—(1) The provisions of this paragraph (b) authorize the export and reexport to any destination, except for 9x515 or “600 series” items to destinations identified in Country Group D:5 (see supplement no. 1 to this part) or otherwise prohibited under the EAR, of commodities and software that were sent to the United States or to a foreign party for servicing and replacement of commodities and software “subject to the EAR” (see § 734.2(a) of the EAR) that are defective or that an end user or ultimate consignee has found unacceptable. The export of firearms controlled by ECCNs 0A501.a or .b, 0A506, or 0A507 or shotguns with a barrel length less than 18 inches controlled in ECCN 0A502 or 0A508 temporarily in the United States for servicing and replacement may be exported under paragraph (b)(2) or (3) of this section only if the additional requirements in paragraph (b)(4) of this section are also met.
 
 (2) Commodities and software sent to a United States or foreign party for servicing.
 
@@ -74,9 +72,9 @@ License Exception RPL authorizes exports and reexports associated with one-for-o
 
 (D) A party reexporting replacements for defective or unacceptable U.S.-origin equipment must ensure that the commodities or software being replaced were shipped to their present location in accordance with U.S. law and continue to be legally used. See § 764.7 of the EAR for exports or reexports to the installed base in Libya.
 
-(4) This paragraph (b)(4) authorizes the export of firearms controlled by ECCN 0A501.a or .b, or shotguns with a barrel length less than 18 inches controlled in ECCN 0A502 that are temporarily in the United States for servicing or replacement for a period not exceeding one year or the time it takes to service or replace the commodity, whichever is shorter, provided that the requirements of paragraph (b)(2) or (3) of this section are met and:
+(4) This paragraph (b)(4) authorizes the export of firearms controlled by ECCNs 0A501.a or .b, 0A506, 0A507 or shotguns with a barrel length less than 18 inches controlled in ECCNs 0A502 or 0A508 that are temporarily in the United States for servicing or replacement for a period not exceeding one year or the time it takes to service or replace the commodity, whichever is shorter, provided that the requirements of paragraph (b)(2) or (3) of this section are met and:
 
-(i) The firearms were not shipped from or manufactured in Russia, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Turkmenistan, Ukraine, or Uzbekistan, except for any firearm model controlled by 0A501 that is specified under Annex A in Supplement No. 4 to this part;
+(i) The firearms were not shipped from or manufactured in Russia, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Turkmenistan, Ukraine, or Uzbekistan, except for any firearm model controlled by 0A501, 0A506, or 0A507 that is specified under Annex A in Supplement No. 4 to this part;
 
 (ii) When the firearms entered the U.S. as a temporary import, the temporary importer or its agent:
 
@@ -90,7 +88,7 @@ License Exception RPL authorizes exports and reexports associated with one-for-o
 
 Note 1 to paragraph (b)(4):
 
-In addition to complying with all applicable EAR requirements for the export of commodities described in paragraph (b)(4) of this section, exporters and temporary importers should contact U.S. Customs and Border Protection (CBP) at the port of temporary import or export, or at the CBP website, for the proper procedures for temporarily importing or exporting firearms controlled in ECCN 0A501.a or .b or shotguns with a barrel length less than 18 inches controlled in ECCN 0A502, including regarding how to provide any data or documentation required by BIS.
+In addition to complying with all applicable EAR requirements for the export of commodities described in this paragraph (b)(4), exporters and temporary importers should contact U.S. Customs and Border Protection (CBP) at the port of temporary import or export, or at the CBP website, for the proper procedures for temporarily importing or exporting firearms controlled in ECCN 0A501.a or .b, 0A506, 0A507 or shotguns with a barrel length less than 18 inches controlled in ECCN 0A502 or 0A508, including regarding how to provide any data or documentation required by BIS.
 
 (c) *Special recordkeeping requirements: ECCNs 2A983, 2A984, 2D983 and 2D984, and “600 Series” ECCNs.* (1) In addition to the other recordkeeping requirements set forth elsewhere in the EAR, exporters are required to maintain records, as specified in this section, for any items exported or reexported pursuant to License Exception RPL to repair, replace, or service previously lawfully exported or reexported items classified under ECCNs 2A983, 2A984, 2D983 and 2D984 or a “600 Series” ECCN. The following information must be maintained for each such export or reexport transaction:
 
@@ -110,4 +108,4 @@ In addition to complying with all applicable EAR requirements for the export of 
 
 (2) Records maintained pursuant to this section may be requested at any time by an appropriate BIS official as set forth in § 762.7 of the EAR. Records that must be included in the annual or semi-annual reports of exports and reexports of “600 Series” items under the authority of License Exception RPL are described in §§ 743.4 and 762.2(b) of the EAR.
 
-[78 FR 22712, Apr. 16, 2013, as amended at 78 FR 61901, Oct. 4, 2013; 79 FR 27435, May 13, 2014; 79 FR 32623, June 5, 2014; 79 FR 48661, Aug. 18, 2014; 85 FR 4174, Jan. 23, 2020; 87 FR 62198, Oct. 13, 2022]
+[78 FR 22712, Apr. 16, 2013, as amended at 78 FR 61901, Oct. 4, 2013; 79 FR 27435, May 13, 2014; 79 FR 32623, June 5, 2014; 79 FR 48661, Aug. 18, 2014; 85 FR 4174, Jan. 23, 2020; 87 FR 62198, Oct. 13, 2022; 89 FR 34703, Apr. 30, 2024]

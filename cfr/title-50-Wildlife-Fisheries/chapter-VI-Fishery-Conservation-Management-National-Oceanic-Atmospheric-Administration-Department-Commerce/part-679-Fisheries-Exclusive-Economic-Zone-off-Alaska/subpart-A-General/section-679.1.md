@@ -1,7 +1,5 @@
 ##### § 679.1 Purpose and scope. #####
 
-Link to an amendment published at 89 FR 34757, Apr. 30, 2024.
-
 Regulations in this part were developed by the Council under the Magnuson-Stevens Fishery Conservation and Management Act, 16 U.S.C. 1801 *et seq.* (Magnuson-Stevens Act) and the Northern Pacific Halibut Act of 1982 (Halibut Act). Along with part 600 of this chapter, these regulations implement the following:
 
 (a) *Fishery Management Plan for Groundfish of the Gulf of Alaska.* (1) Regulations in this part govern commercial fishing for groundfish in the GOA by vessels of the United States (see subparts A, B, D, and E of this part).
@@ -34,7 +32,7 @@ Regulations in this part were developed by the Council under the Magnuson-Steven
 
 (2) State of Alaska laws and regulations that are consistent with the FMP and with the regulations in this part apply to vessels of the United States that are fishing for scallops in the Federal waters off Alaska.
 
-(i) *Fishery Management Plan for the Salmon Fisheries in the EEZ Off Alaska (Salmon FMP)*—(1) Regulations in this part govern commercial fishing for salmon by fishing vessels of the United States in the West Area of the Salmon Management Area.
+(i) *Fishery Management Plan for the Salmon Fisheries in the EEZ Off Alaska (Salmon FMP)*—(1) Regulations in this part govern commercial fishing for salmon by fishing vessels of the United States in the West Area and commercial and recreational fishing for salmon in the Cook Inlet EEZ Area of the Salmon Management Area.
 
 (2) State of Alaska laws and regulations that are consistent with the Salmon FMP and with the regulations in this part apply to vessels of the United States that are commercial and sport fishing for salmon in the East Area of the Salmon Management Area.
 

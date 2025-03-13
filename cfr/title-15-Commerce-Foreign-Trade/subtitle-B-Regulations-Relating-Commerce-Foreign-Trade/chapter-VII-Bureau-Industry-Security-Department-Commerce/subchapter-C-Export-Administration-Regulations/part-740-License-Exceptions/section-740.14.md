@@ -1,7 +1,5 @@
 ##### § 740.14 Baggage (BAG). #####
 
-Link to an amendment published at 89 FR 34703, Apr. 30, 2024.
-
 (a) *Scope.* This License Exception authorizes individuals leaving the United States either temporarily (i.e., traveling) or longer-term (i.e., moving) and crew members of exporting or reexporting carriers to take to any destination, as personal baggage, the classes of commodities, software and technology described in this section.
 
 (b) *Eligibility.* Individuals leaving the United States may export or reexport any of the following commodities or software for personal use of the individuals or members of their immediate families traveling with them to any destination or series of destinations. Individuals leaving the United States who are U.S. persons, as defined in paragraph (b)(4)(i), may export or reexport technology as a tool of trade under paragraph (b)(4) for their personal use or for the personal use of members of their immediate families who are traveling or moving with them, provided they are also U.S. persons, as defined in paragraph (b)(4)(i), to any destination or series of destinations. Technology exports and reexports authorized under paragraph (b)(4) of this section may be made as actual shipments, transmissions, or releases. Individuals leaving the United States temporarily (i.e., traveling) must bring back items exported and reexported under this License Exception unless they consume the items abroad or are otherwise authorized to dispose of them under the EAR. Crew members may export or reexport only commodities and software described in paragraphs (b)(1) and (b)(2) of this section to any destination.
@@ -30,29 +28,31 @@ Link to an amendment published at 89 FR 34703, Apr. 30, 2024.
 
 (d) *Special provision: unaccompanied baggage.* Individuals departing the United States may ship unaccompanied baggage, which is baggage sent from the United States on a carrier other than that on which an individual departs. Crew members of exporting carriers may not ship unaccompanied baggage. Unaccompanied shipments under this License Exception shall be clearly marked “BAGGAGE.” Shipments of unaccompanied baggage may be made at the time of, or within a reasonable time before or after departure of the consignee or owner from the United States. Personal baggage controlled for chemical and biological weapons (CB), missile technology (MT), national security (NS), encryption items (EI) or nuclear nonproliferation (NP) must be shipped within 3 months before or after the month in which the consignee or owner departs the United States. However, commodities controlled for CB, MT, NS, EI or NP may not be exported under this License Exception as unaccompanied baggage to Country Groups D:1, D:2, D:3, D:4, or E:1. (See supplement no. 1 of this part).
 
-(e) *Special provisions for firearms and ammunition.* (1) A United States citizen or a permanent resident alien leaving the United States may export or reexport shotguns with a barrel length of 18 inches or over and shotgun shells under this License Exception, subject to the following limitations:
+(e) *Special provisions for firearms and ammunition.* (1) A United States citizen or a permanent resident alien leaving the United States may export or reexport shotguns with a barrel length of 18 inches or over controlled under ECCN 0A502 and 0A508 and shotgun shells controlled under ECCN 0A505.b and .c under this License Exception, subject to the following limitations:
 
-(i) Not more than three shotguns may be taken on any one trip.
+(i) Not more than three firearms may be taken on any one trip (this includes shotguns in ECCNs 0A502 or 0A508, as well as firearms in ECCNs 0A501, 0A506, or 0A507).
 
-(ii) The shotguns and shotgun shells must be with the person's baggage but they may not be mailed.
+(ii) The shotguns and shotgun shells must be with the person's baggage.
 
 (iii) The shotguns and shotgun shells must be for the person's exclusive use for legitimate hunting or lawful sporting purposes, scientific purposes, or personal protection, and not for resale or other transfer of ownership or control. Accordingly, except as provided in (e)(2) of this section, shotguns may not be exported permanently under this License Exception. All shotguns and unused shotgun shells must be returned to the United States. Note that since certain countries may require an Import Certificate or a U.S. export license before allowing the import of a shotgun, you should determine the import requirements of your country of destination in advance.
 
 (2) A nonresident alien leaving the United States may export or reexport under this License Exception only such shotguns and shotgun shells as he or she brought into the United States under the provisions of the Department of Justice Regulations (27 CFR 478.115(d)).
 
-(3) A United States citizen or a permanent resident alien leaving the United States may export under this License Exception firearms, “parts,” “components,” “accessories,” or “attachments” controlled under ECCN 0A501 and ammunition controlled under ECCN 0A505.a, subject to the following limitations:
+(3) A United States citizen or a permanent resident alien leaving the United States may export under this License Exception firearms, “parts,” “components,” “accessories,” or “attachments” controlled under ECCNs 0A501, 0A506, 0A507, and 0A509 and ammunition controlled under ECCN 0A505.a, subject to the following limitations:
 
-(i) Not more than three firearms and 1,000 rounds of ammunition may be taken on any one trip.
+(i) Not more than three firearms may be taken on any one trip (this includes firearms in ECCNs 0A501, 0A506, or 0A507, as well as shotguns in ECCNs 0A502 or 0A508), and no more than 1,000 rounds of ammunition may be taken on any one trip.
 
 (ii) “Parts,” “components,” “accessories,” and “attachments” exported pursuant to this paragraph (e)(3) must be of a kind and limited to quantities that are reasonable for the activities described in paragraph (e)(3)(iv) of this section or that are necessary for routine maintenance of the firearms being exported.
 
 (iii) The commodities must be with the person's baggage.
 
-(iv) The commodities must be for the person's exclusive use and not for resale or other transfer of ownership or control. Accordingly, except as provided in paragraph (e)(4) of this section, firearms, “parts,” “components,” “accessories,” “attachments,” and ammunition, may not be exported permanently under this License Exception. All firearms, “parts,” “components,” “accessories,” or “attachments” controlled under ECCN 0A501 and all unused ammunition controlled under ECCN 0A505.a exported under this License Exception must be returned to the United States.
+(iv) The commodities must be for the person's exclusive use and not for resale or other transfer of ownership or control. Accordingly, except as provided in paragraph (e)(4) of this section, firearms, “parts,” “components,” “accessories,” “attachments,” and ammunition, may not be exported permanently under this License Exception. All firearms, “parts,” “components,” “accessories,” or “attachments” controlled under ECCN 0A501, 0A506, 0A507, and 0A509 and all unused ammunition controlled under ECCN 0A505.a exported under this License Exception must be returned to the United States.
 
 (v) Travelers leaving the United States temporarily are required to declare the firearms, “parts,” “components,” “accessories,” “attachments,” and ammunition being exported under this License Exception to a Customs and Border Protection (CBP) officer prior to departure from the United States and present such items to the CBP officer for inspection, confirming that the authority for the export is License Exception BAG and that the exporter is compliant with its terms.
 
-(4) A nonimmigrant alien leaving the United States may export or reexport under this License Exception only such firearms controlled under ECCN 0A501 and ammunition controlled under ECCN 0A505 as he or she brought into the United States under the relevant provisions of Department of Justice regulations at 27 CFR part 478.
+(4) A nonimmigrant alien leaving the United States may export or reexport under this License Exception only such firearms controlled under ECCN 0A501, 0A506, 0A507, and ammunition controlled under ECCN 0A505 as he or she brought into the United States under the relevant provisions of Department of Justice regulations at 27 CFR part 478.
+
+(5) Destination eligibility under this License Exception for items controlled under ECCNs 0A501, 0A502, 0A504, 0A505, 0A506, 0A507, 0A508, or 0A509 is limited to countries other than those in Country Group D:5 (except for Zimbabwe) and “CARICOM” countries.
 
 (f) *Special provisions: encryption commodities and software subject to EI controls on the Commerce Control List.* (1) A U.S. citizen or permanent resident alien of the United States as defined by 8 U.S.C. 1101(a)(20) may use this license exception to export or reexport encryption commodities and software to any destination not in Country Group E:1 of supplement no. 1 of this part.
 

@@ -24,4 +24,4 @@
 
 (f) *Other regulations.* From and after the date of applying for Class A status under the Low Power Protection Act, stations must comply with the requirements applicable to Class A stations specified in subpart J of this part (§§ 73.6000 through 73.6029) and must continue to comply with such requirements for the term of their Class A license.
 
-[89 FR 1477, Jan. 10, 2024]
+[89 FR 1477, Jan. 10, 2024]Effective Date Note:At 89 FR 1477, Jan. 10, 2024, § 73.6030 was added, effective February 9, 2024, except for paragraphs (c) and (d) which are delayed indefinitely.

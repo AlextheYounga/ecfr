@@ -1,7 +1,5 @@
 ##### § 25.109 Cross-reference. #####
 
-Link to an amendment published at 89 FR 34166, Apr. 30, 2024.
-
 (a) Space and earth stations in the Amateur Satellite Service are licensed under 47 CFR part 97.
 
 (b) Ship earth stations in the Maritime Mobile-Satellite Service transmitting in the 1626.5-1646.5 MHz band are subject to licensing under 47 CFR part 80.
@@ -12,4 +10,6 @@ Link to an amendment published at 89 FR 34166, Apr. 30, 2024.
 
 (e) Space and earth stations in the 3700-4200 MHz band may be subject to transition rules in part 27 of this chapter.
 
-[78 FR 8420, Feb. 6, 2013, as amended at 85 FR 22864, Apr. 23, 2020]
+(f) Space and SCS earth stations providing SCS are subject to technical rules in parts 2, 22, 24, and 27 of this chapter where applicable.
+
+[78 FR 8420, Feb. 6, 2013, as amended at 85 FR 22864, Apr. 23, 2020; 89 FR 34166, Apr. 30, 2024]

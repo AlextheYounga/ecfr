@@ -2,7 +2,7 @@
 
 As prescribed in 204.7304(c), use the following clause:
 
-Safeguarding Covered Defense Information and Cyber Incident Reporting (JAN 2023)
+Safeguarding Covered Defense Information and Cyber Incident Reporting (MAY 2024)
 
 (a) *Definitions.* As used in this clause—
 
@@ -48,7 +48,7 @@ Safeguarding Covered Defense Information and Cyber Incident Reporting (JAN 2023)
 
 (2) For covered contractor information systems that are not part of an IT service or system operated on behalf of the Government and therefore are not subject to the security requirement specified at paragraph (b)(1) of this clause, the following security requirements apply:
 
-(i) Except as provided in paragraph (b)(2)(ii) of this clause, the covered contractor information system shall be subject to the security requirements in National Institute of Standards and Technology (NIST) Special Publication (SP) 800-171, “Protecting Controlled Unclassified Information in Nonfederal Information Systems and Organizations” (available via the internet at *http://dx.doi.org/10.6028/NIST.SP.800-171*) in effect at the time the solicitation is issued or as authorized by the Contracting Officer.
+(i) Except as provided in paragraph (b)(2)(ii) of this clause, the covered contractor information system shall be subject to the security requirements in National Institute of Standards and Technology (NIST) Special Publication (SP) 800-171, “Protecting Controlled Unclassified Information in Nonfederal Information Systems and Organizations” (available via the internet at *https://csrc.nist.gov/publications/sp800*) in effect at the time the solicitation is issued or as authorized by the Contracting Officer.
 
 (ii)(A) The Contractor shall implement NIST SP 800-171, as soon as practical, but not later than December 31, 2017. For all contracts awarded prior to October 1, 2017, the Contractor shall notify the DoD Chief Information Officer (CIO), via email at *osd.dibcsia@mail.mil,* within 30 days of contract award, of any security requirements specified by NIST SP 800-171 not implemented at the time of contract award.
 
@@ -56,7 +56,7 @@ Safeguarding Covered Defense Information and Cyber Incident Reporting (JAN 2023)
 
 (C) If the DoD CIO has previously adjudicated the contractor's requests indicating that a requirement is not applicable or that an alternative security measure is equally effective, a copy of that approval shall be provided to the Contracting Officer when requesting its recognition under this contract.
 
-(D) If the Contractor intends to use an external cloud service provider to store, process, or transmit any covered defense information in performance of this contract, the Contractor shall require and ensure that the cloud service provider meets security requirements equivalent to those established by the Government for the Federal Risk and Authorization Management Program (FedRAMP) Moderate baseline (*https://www.fedramp.gov/resources/documents/*) and that the cloud service provider complies with requirements in paragraphs (c) through (g) of this clause for cyber incident reporting, malicious software, media preservation and protection, access to additional information and equipment necessary for forensic analysis, and cyber incident damage assessment.
+(D) If the Contractor intends to use an external cloud service provider to store, process, or transmit any covered defense information in performance of this contract, the Contractor shall require and ensure that the cloud service provider meets security requirements equivalent to those established by the Government for the Federal Risk and Authorization Management Program (FedRAMP) Moderate baseline (*https://www.fedramp.gov/documents-templates/*) and that the cloud service provider complies with requirements in paragraphs (c) through (g) of this clause for cyber incident reporting, malicious software, media preservation and protection, access to additional information and equipment necessary for forensic analysis, and cyber incident damage assessment.
 
 (3) Apply other information systems security measures when the Contractor reasonably determines that information systems security measures, in addition to those identified in paragraphs (b)(1) and (2) of this clause, may be required to provide adequate security in a dynamic environment or to accommodate special circumstances (*e.g.,* medical devices) and any individual, isolated, or temporary deficiencies based on an assessed risk or vulnerability. These measures may be addressed in a system security plan.
 
@@ -110,4 +110,4 @@ Safeguarding Covered Defense Information and Cyber Incident Reporting (JAN 2023)
 
 (ii) Provide the incident report number, automatically assigned by DoD, to the prime Contractor (or next higher-tier subcontractor) as soon as practicable, when reporting a cyber incident to DoD as required in paragraph (c) of this clause.
 
-(End of clause)[80 FR 51745, Aug. 26, 2015, as amended at 80 FR 56930, Sept. 21, 2015; 80 FR 81474, Dec. 30, 2015; 81 FR 73000, Oct. 21, 2016; 84 FR 72563, Dec. 31, 2019; 88 FR 6589, Jan. 31, 2023]
+(End of clause)[80 FR 51745, Aug. 26, 2015, as amended at 80 FR 56930, Sept. 21, 2015; 80 FR 81474, Dec. 30, 2015; 81 FR 73000, Oct. 21, 2016; 84 FR 72563, Dec. 31, 2019; 88 FR 6589, Jan. 31, 2023; 89 FR 46821, May 30, 2024]

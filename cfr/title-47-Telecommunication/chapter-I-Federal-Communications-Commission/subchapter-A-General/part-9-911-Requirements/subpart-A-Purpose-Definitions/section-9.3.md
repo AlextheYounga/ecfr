@@ -1,7 +1,5 @@
 ##### § 9.3 Definitions. #####
 
-Link to an amendment published at 89 FR 18523, Mar. 13, 2024.
-
 Terms with definitions including the “(RR)” designation are defined in the same way in § 2.1 of this chapter and in the Radio Regulations of the International Telecommunication Union.
 
 *911 calls.* Any call initiated by an end user by dialing 911 for the purpose of accessing an emergency service provider. For wireless carriers, all 911 calls include those they are required to transmit pursuant to subpart C of this part.
@@ -37,6 +35,8 @@ Terms with definitions including the “(RR)” designation are defined in the s
 *Configured.* The settings or configurations for a particular MLTS installation have been implemented so that the MLTS is fully capable when installed of dialing 911 directly and providing MLTS notification as required under the statute and rules. This does not preclude the inclusion of additional dialing patterns to reach 911. However, if the system is configured with these additional dialing patterns, they must be in addition to the default direct dialing pattern.
 
 *Designated PSAP.* The Public Safety Answering Point (PSAP) designated by the local or state entity that has the authority and responsibility to designate the PSAP to receive wireless 911 calls.
+
+*Device-based location information.* Information regarding the location of a device used to call or text 911 generated all or in part from on-device sensors and data sources.
 
 *Dispatchable location.* A location delivered to the PSAP with a 911 call that consists of the validated street address of the calling party, plus additional information such as suite, apartment or similar information necessary to adequately identify the location of the calling party, except for Commercial Mobile Radio Service providers, which shall convey the location information required by subpart C of this part.
 
@@ -77,6 +77,8 @@ Terms with definitions including the “(RR)” designation are defined in the s
 *Internet Protocol Relay Service (IP Relay).* A telecommunications relay service that permits an individual with a hearing or a speech disability to communicate in text using an Internet Protocol-enabled device via the internet, rather than using a text telephone (TTY) and the public switched telephone network.
 
 *Location-capable handsets.* Portable or mobile phones that contain special location-determining hardware and/or software, which is used by a licensee to locate 911 calls.
+
+*Location-based routing.* The use of information regarding the location of a device, including but not limited to device-based location information, to deliver 911 calls and real-time text communications to point(s) designated by the authorized local or state entity to receive wireless 911 voice calls and real-time text communications to 911, such as an Emergency Services internet Protocol Network (ESInet) or PSAP, or to an appropriate local emergency authority.
 
 *MLTS notification.* An MLTS feature that can send notice to a central location at the facility where the system is installed or to another person or organization regardless of location. Examples of notification include conspicuous on-screen messages with audible alarms for security desk computers using a client application, text messages for smartphones, and email for administrators. Notification shall include, at a minimum, the following information:
 
@@ -165,3 +167,5 @@ Terms with definitions including the “(RR)” designation are defined in the s
 (2) Includes a selective router; and
 
 (3) Is used to route emergency calls and related information to PSAPs, designated statewide default answering points, appropriate local emergency authorities or other emergency answering points.
+
+[84 FR 66760, Dec. 5, 2019, as amended at 89 FR 18523, Mar. 13, 2024]

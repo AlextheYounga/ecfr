@@ -1,7 +1,5 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 89 FR 34757, Apr. 30, 2024.
-
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
 *ABC reserve* means, for purposes of flathead sole, rock sole, and yellowfin sole in the BSAI, an amount, not to exceed the ABC surplus, that may be reduced for social, economic, or ecological considerations according to § 679.20(b)(1)(iii).
@@ -502,6 +500,8 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Cruise* means an observer deployment with a unique cruise number. A cruise begins when an observer receives an endorsement to deploy and ends when the observer completes all debriefing responsibilities.
 
+*Daily bag limit* means the maximum number of salmon a person may retain in any calendar day from recreational fishing in the Cook Inlet EEZ Area.
+
 *Daily reporting period or day* is the period from 0001 hours, A.l.t., until the following 2400 hours, A.l.t.
 
 *Data collection agent* (DCA) means the entity selected by the Regional Administrator to distribute an EDR to a person required to complete it, to receive the completed EDR, to review and verify the accuracy of the data in the EDR, and to provide those data to authorized recipients.
@@ -626,7 +626,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Federal waters* means waters within the EEZ off Alaska (see also reporting area).
 
-*Federally permitted vessel* means a vessel that is named on either a Federal fisheries permit issued pursuant to § 679.4(b) or on a Federal crab vessel permit issued pursuant to § 680.4(k) of this chapter. Federally permitted vessels must conform to regulatory requirements for purposes of fishing restrictions in habitat conservation areas, habitat conservation zones, habitat protection areas, and the Modified Gear Trawl Zone; for purposes of anchoring prohibitions in habitat protection areas; for purposes of requirements for the BS and GOA nonpelagic trawl fishery pursuant to § 679.7(b)(9), § 679.7(c)(5), and § 679.24(f); and for purposes of VMS requirements.
+*Federally permitted vessel* means a vessel that is named on a Federal fisheries permit issued pursuant to § 679.4(b), a Salmon Federal Fisheries Permit issued pursuant to § 679.114(b), or a Federal crab vessel permit issued pursuant to § 680.4(k) of this chapter. Federally permitted vessels must conform to regulatory requirements for purposes of fishing restrictions in habitat conservation areas, habitat conservation zones, habitat protection areas, and the Modified Gear Trawl Zone; for purposes of anchoring prohibitions in habitat protection areas; for purposes of requirements for the BS and GOA nonpelagic trawl fishery pursuant to §§ 679.7(b)(9) and (c)(5), and 679.24(f); and for purposes of VMS requirements.
 
 *Fishery cooperative or cooperative* means any entity cooperatively managing directed fishing for BS pollock and formed under section 1 of the Fisherman's Collective Marketing Act of 1934 (15 U.S.C. 521). In and of itself, a cooperative is not an AFA entity subject to excessive harvest share limitations, unless a single person, corporation or other business entity controls the cooperative and the cooperative has the power to control the fishing activity of its member vessels.
 
@@ -673,6 +673,8 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 (5) *For purposes of § 679.7(o)(4)*, the period beginning when a vessel operator commences harvesting any Amendment 80 species and ending when the vessel operator offloads or transfers any processed or unprocessed Amendment 80 species from that vessel.
 
 (6) For purposes of § 679.7(d)(5)(ii)(C)(*2*) for CDQ groups and § 679.7(k)(8)(ii) for AFA entities, the period beginning when a vessel operator commences harvesting any pollock that will accrue against a directed fishing allowance for pollock in the BS or against a pollock CDQ allocation harvested in the BS and ending when the vessel operator offloads or transfers any processed or unprocessed pollock from that vessel.
+
+(7) For purposes of subpart J of this part, the period beginning when a vessel operator commences commercial fishing for any salmon species in the Cook Inlet EEZ Area and ending when the vessel operator offloads or transfers any unprocessed salmon species from that vessel.
 
 *Fishing year* means 0001 hours, A.l.t., on January 1, through 2400 hours, A.l.t., on December 31 (see § 679.23).
 
@@ -972,6 +974,8 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Pollock roe* means product consisting of pollock eggs, either loose or in sacs or skeins.
 
+*Possession limit* means the maximum number of unprocessed salmon a person may possess from recreational fishing in the Cook Inlet EEZ Area.
+
 *Pot catcher/processor* means a catcher/processor vessel that is named on a valid LLP license that is noninterim and transferable, or that is interim and subsequently becomes noninterim and transferable, and that is endorsed for Bering Sea, Aleutian Islands, and/or Gulf of Alaska catcher/processor fishing activity, catcher/processor Pacific cod, and pot gear.
 
 *Preponderance of the evidence,* for purposes of subpart E of this part, means proof by information that, compared with that opposing it, leads to the conclusion that the fact at issue is more probably true than not.
@@ -1039,6 +1043,8 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 *Registered buyer* means the person identified on a Registered Buyer permit (see § 679.4(d)(3)).
 
 *Registered crab receiver (RCR)* means a person issued an RCR permit, described under 50 CFR part 680, by the Regional Administrator.
+
+*Registered Salmon Receiver* means a person holding a Registered Salmon Receiver Permit issued by NMFS.
 
 *Regulatory area* means any of three areas of the EEZ in the GOA (see Figure 3 to this part).
 
@@ -1170,17 +1176,19 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Salmon bycatch incentive plan agreement (IPA)* is a voluntary private contract, approved by NMFS under § 679.21(f)(12), that establishes incentives for participants to avoid Chinook salmon and chum salmon bycatch while directed fishing for pollock in the BS.
 
-*Salmon Management Area* means those waters of the EEZ off Alaska (see Figure 23 to part 679) under the authority of the Salmon FMP. The Salmon Management Area is divided into a West Area and an East Area with the border between the two at the longitude of Cape Suckling (143°53.6′ W):
+*Salmon Management Area* means those waters of the EEZ off Alaska (see figures 22 and 23 to part 679) under the authority of the Salmon FMP. The Salmon Management Area is divided into three areas: the East Area, the West Area, and the Cook Inlet EEZ Area:
 
 (1) *The East Area* means the area of the EEZ in the Gulf of Alaska east of the longitude of Cape Suckling (143°53.6′ W).
 
-(2) *The West Area* means the area of the EEZ off Alaska in the Bering Sea, Chukchi Sea, Beaufort Sea, and the Gulf of Alaska west of the longitude of Cape Suckling (143°53.6′ W), including the Cook Inlet EEZ Subarea, but excludes the Prince William Sound Area and the Alaska Peninsula Area. The Cook Inlet EEZ Subarea means the EEZ waters of Cook Inlet north of a line at 59°46.15′ N. The Prince William Sound Area and the Alaska Peninsula Area are shown in Figure 23 to this part and described as:
+(2) *The West Area* means the area of the EEZ off Alaska in the Bering Sea, Chukchi Sea, Beaufort Sea, and the Gulf of Alaska west of the longitude of Cape Suckling (143°53.6′ W), but excludes the Cook Inlet EEZ Area, Prince William Sound Area, and the Alaska Peninsula Area. The Prince William Sound Area and the Alaska Peninsula Area are shown in figure 23 to this part and described as:
 
-(i) [Reserved]
+(i) The Prince William Sound Area means the EEZ shoreward of a line that starts at 60°16.8′ N and 146°15.24′ W and extends southeast to 59°42.66′ N and 144°36.20′ W and a line that starts at 59°43.28′ N and 144°31.50′ W and extends northeast to 59°56.4′ N and 143°53.6′ W.
 
-(ii) the Prince William Sound Area which means the EEZ waters shoreward of a line that starts at 60°16.8′ N and 146°15.24′ W and extends southeast to 59°42.66′ N and 144°36.20′ W and a line that starts at 59°43.28′ N and 144°31.50′ W and extends northeast to 59°56.4′ N and 143°53.6′ W.
+(ii) The Alaska Peninsula Area means the EEZ shoreward of a line at 54°22.5′ N from 164°27.1′ W to 163°1.2′ W and a line at 162°24.05′ W from 54°30.1′ N to 54°27.75′ N.
 
-(iii) the Alaska Peninsula Area which means the EEZ waters shoreward of a line at 54°22.5′ N from 164°27.1′ W to 163°1.2′ W and a line at 162°24.05′ W from 54°30.1′ N to 54°27.75′ N.
+(3) *The Cook Inlet EEZ Area,* shown in figure 22 to this part, means the EEZ of Cook Inlet north of a line at 59°46.15′ N.
+
+*Salmon shoreside processor* means any person or vessel that receives, purchases, or arranges to purchase, and processes unprocessed salmon harvested in the Cook Inlet EEZ Area, except a Registered Salmon Receiver.
 
 *Scallop(s)* means any species of the family Pectinidae, including, without limitation, weathervane scallops (*Patinopectin caurinus*).
 
@@ -1319,6 +1327,8 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 *Vessel operations category* (see § 679.5(b)(3)).
 
 *Walrus Protection Areas* (see § 679.22(a)(4)).
+
+*Waters of Cook Inlet* means, for the purposes of §§ 679.28(f)(6)(x) and 679.117(b)(1)(xiv), all Federal waters and Alaska State waters north of a line from Cape Douglas (58°51.10′ N) to Point Adam (59°15.27′ N).
 
 *Week-ending date* means the last day of the weekly reporting period which ends on Saturday at 2400 hours, A.l.t., except during the last week of each calendar year, when it ends at 2400 hours, A.l.t., December 31.
 

@@ -1,7 +1,5 @@
 ##### § 123.101 When am I not eligible for a home disaster loan? #####
 
-Link to an amendment published at 89 FR 34102, Apr. 30, 2024.
-
 You are not eligible for a home disaster loan if:
 
 (a) You have been convicted, during the past year, of a felony during and in connection with a riot or civil disorder or other declared disaster;
@@ -20,7 +18,7 @@ You are not eligible for a home disaster loan if:
 
 (h) The replacement value of your damaged personal property is extraordinarily high and not easily verified, such as the value of antiques, artworks, or hobby collections;
 
-(i) You or other principal owners of the damaged property are presently incarcerated, or on probation or parole following conviction for a serious criminal offense;
+(i) You or other principal owners of the damaged property are currently incarcerated, serving a sentence of imprisonment imposed upon adjudication of guilty;
 
 (j) Your only interest in the damaged property is in the form of a security interest, mortgage, or deed of trust;
 
@@ -28,4 +26,4 @@ You are not eligible for a home disaster loan if:
 
 (l) You voluntarily decide to relocate outside the business area in which the disaster has occurred, and there are no special or unusual circumstances leading to your decision (business area means the municipality which provides general governmental services to your damaged home or, if not located in a municipality, the county or equivalent political entity in which your damaged home is located).
 
-[61 FR 3304, Jan. 31, 1996, as amended at 67 FR 64519, Oct. 21, 2002]
+[61 FR 3304, Jan. 31, 1996, as amended at 67 FR 64519, Oct. 21, 2002; 89 FR 34102, Apr. 30, 2024]

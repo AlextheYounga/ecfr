@@ -1,7 +1,5 @@
 ##### § 748.8 Unique application and submission requirements. #####
 
-Link to an amendment published at 89 FR 34706, Apr. 30, 2024.
-
 In addition to the instructions contained in supplement no. 1 to this part 748, you must also ensure that the additional requirements for certain items or types of transactions described in this section are addressed in your license application. See supplement no. 2 to this part 748 if your application involves:
 
 (a) Chemicals, medicinals, and pharmaceuticals.
@@ -54,6 +52,6 @@ In addition to the instructions contained in supplement no. 1 to this part 748, 
 
 (y) Satellite exports.
 
-(z) Semiautomatic firearms controlled under ECCN 0A501.a.
+(z) Firearms.
 
-[61 FR 12812, Mar. 25, 1996, as amended at 64 FR 27146, May 18, 1999; 69 FR 64489, Nov. 5, 2004; 70 FR 8249, Feb. 18, 2005; 70 FR 54629, Sept. 16, 2005; 75 FR 36500, June 25, 2010; 78 FR 22724, Apr. 16, 2013; 79 FR 27436, May 13, 2014; 80 FR 2290, Jan. 16, 2015; 81 FR 64676, Sept. 20, 2016; 88 FR 73496, Oct. 25, 2023]
+[61 FR 12812, Mar. 25, 1996, as amended at 64 FR 27146, May 18, 1999; 69 FR 64489, Nov. 5, 2004; 70 FR 8249, Feb. 18, 2005; 70 FR 54629, Sept. 16, 2005; 75 FR 36500, June 25, 2010; 78 FR 22724, Apr. 16, 2013; 79 FR 27436, May 13, 2014; 80 FR 2290, Jan. 16, 2015; 81 FR 64676, Sept. 20, 2016; 88 FR 73496, Oct. 25, 2023; 89 FR 34706, Apr. 30, 2024]

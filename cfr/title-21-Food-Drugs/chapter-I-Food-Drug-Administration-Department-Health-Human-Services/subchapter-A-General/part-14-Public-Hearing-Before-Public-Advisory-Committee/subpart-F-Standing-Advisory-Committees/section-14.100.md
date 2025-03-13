@@ -138,8 +138,4 @@ Standing advisory committees and the dates of their establishment are as follows
 
 (ii) Function: Advises the Commissioner of Food and Drugs or designee in discharging responsibilities as they relate to ensuring that digital health technologies (DHTs) intended for use as a stand-alone medical product, as part of a medical product, or as a companion, complement, or adjunct to a medical product are safe and effective for human use.
 
-(e) *National Center for Toxicological Research*—*Science Advisory Board.* (1) Date established: June 2, 1973.
-
-(2) Function: Advises on establishment and implementation of a research program that will assist the Commissioner of Food and Drugs to fulfill regulatory responsibilities.
-
 [54 FR 9036, Mar. 3, 1989]Editorial Note:For Federal Register citations affecting § 14.100, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

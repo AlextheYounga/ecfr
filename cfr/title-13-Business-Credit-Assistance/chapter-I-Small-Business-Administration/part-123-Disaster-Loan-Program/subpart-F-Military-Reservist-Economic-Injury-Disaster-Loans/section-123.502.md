@@ -1,14 +1,12 @@
 ##### § 123.502 Under what circumstances is your business ineligible to be considered for a Military Reservist Economic Injury Disaster Loan? #####
 
-Link to an amendment published at 89 FR 34102, Apr. 30, 2024.
-
 Your business is ineligible for a Military Reservist EIDL if it, together with its affiliates, is subject to any of the following conditions:
 
 (a) Any of your business' principal owners has been convicted, during the past year, of a felony during and in connection with a riot or civil disorder;
 
 (b) You have assumed the risk associated with employing the military reservist, as determined by SBA (for example, hiring the “essential employee” after the employee has received call-up orders or been notified that they are imminent);
 
-(c) Any of your business' principal owners is presently incarcerated, or on probation or parole following conviction of a serious criminal offense;
+(c) Any of your business' principal owners is currently incarcerated, serving a sentence of imprisonment imposed upon adjudication of guilty;
 
 (d) Your business is an agricultural enterprise. Agricultural enterprise means a business primarily engaged in the production of food and fiber, ranching and raising of livestock, aquaculture and all other farming and agriculture-related industries. (See 13 CFR 121.107, “How does SBA determine a concern's primary industry?”) Sometimes a business is engaged in both agricultural and non-agricultural business activities. If the primary business activity of the business is not an agricultural enterprise, it may apply for a Military Reservist EIDL, but loan proceeds may not be used, directly or indirectly, for the benefit of the agricultural enterprises;
 
@@ -34,4 +32,4 @@ Your business is ineligible for a Military Reservist EIDL if it, together with i
 
 (o) Your business' principal activity is political or lobbying activities.
 
-[66 FR 38530, July 25, 2001, as amended at 88 FR 39341, June 16, 2023]
+[66 FR 38530, July 25, 2001, as amended at 88 FR 39341, June 16, 2023; 89 FR 34102, Apr. 30, 2024]

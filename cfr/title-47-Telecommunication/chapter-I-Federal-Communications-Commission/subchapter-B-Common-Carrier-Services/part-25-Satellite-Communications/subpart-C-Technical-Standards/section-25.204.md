@@ -1,6 +1,4 @@
-##### § 25.204 Power limits for earth stations. #####
-
-Link to an amendment published at 89 FR 34167, Apr. 30, 2024.
+##### § 25.204 Power and out-of-band emission limits for earth stations. #####
 
 (a) In bands shared coequally with terrestrial radio communication services, the equivalent isotropically radiated power transmitted in any direction towards the horizon by an earth station, other than an ESV, operating in frequency bands between 1 and 15 GHz, shall not exceed the following limits except as provided for in paragraph (c) of this section:
 
@@ -24,6 +22,6 @@ Link to an amendment published at 89 FR 34167, Apr. 30, 2024.
 
 (f) An earth station in the Fixed-Satellite Service transmitting in the 13.75-14 GHz band must have a minimum antenna diameter of 4.5 m, and the EIRP of any emission in that band should be at least 68 dBW and should not exceed 85 dBW.
 
-(g) [Reserved]
+(g) SCS earth stations providing SCS pursuant to §§ 25.125 and 25.115 shall comply with the power requirements and out-of-band emission limits corresponding to devices operating in part 22, 24, or 27 of this chapter (*e.g.*, § 22.913, § 24.232, or § 27.50), as required for their operating frequencies.
 
-[48 FR 40255, Sept. 6, 1983, as amended at 58 FR 13420, Mar. 11, 1993; 61 FR 52307, Oct. 7, 1996; 62 FR 61457, Nov. 18, 1997; 66 FR 10623, Feb. 16, 2001; 70 FR 4784, Jan. 31, 2005; 70 FR 32255, June 2, 2005; 72 FR 50029, Aug. 29, 2007; 74 FR 57098, Nov. 4, 2009; 78 FR 8427, Feb. 6, 2013; 78 FR 14927, Mar. 8, 2013; 79 FR 8322, Feb. 12, 2004; 81 FR 55336, Aug. 18, 2016; 83 FR 34491, July 20, 2018; 84 FR 53655, Oct. 8, 2019]
+[48 FR 40255, Sept. 6, 1983, as amended at 58 FR 13420, Mar. 11, 1993; 61 FR 52307, Oct. 7, 1996; 62 FR 61457, Nov. 18, 1997; 66 FR 10623, Feb. 16, 2001; 70 FR 4784, Jan. 31, 2005; 70 FR 32255, June 2, 2005; 72 FR 50029, Aug. 29, 2007; 74 FR 57098, Nov. 4, 2009; 78 FR 8427, Feb. 6, 2013; 78 FR 14927, Mar. 8, 2013; 79 FR 8322, Feb. 12, 2004; 81 FR 55336, Aug. 18, 2016; 83 FR 34491, July 20, 2018; 84 FR 53655, Oct. 8, 2019; 89 FR 34167, Apr. 30, 2024]
