@@ -1,6 +1,6 @@
 ##### § 572.135 Upper and lower torso assemblies and torso flexion test procedure. #####
 
-Link to an amendment published at 90 FR 264, Jan. 3, 2025.
+Link to an amendment published at 90 FR 264, Jan. 3, 2025.Link to a delay of the above amendment published at 90 FR 9611, Feb. 14, 2025.
 
 (a) *Upper/lower torso assembly.* The test objective is to determine the stiffness effects of the lumbar spine (drawing 880105-1096), and abdominal insert (drawing 880105-434), on resistance to articulation between the upper torso assembly (drawing 880105-300) and the lower torso assembly (drawing 880105-450) (refer to § 572.130(a)(1)(iv)).
 

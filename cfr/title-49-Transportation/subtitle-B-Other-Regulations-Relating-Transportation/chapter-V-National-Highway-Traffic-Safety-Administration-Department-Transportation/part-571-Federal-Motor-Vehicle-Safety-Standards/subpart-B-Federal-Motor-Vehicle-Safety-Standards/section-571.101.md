@@ -1,6 +1,6 @@
 ##### § 571.101 Standard No. 101; Controls and displays. #####
 
-Link to an amendment published at 90 FR 459, Jan. 3, 2025.
+Link to an amendment published at 90 FR 459, Jan. 3, 2025.This amendment was delayed until Mar. 20, 2025, at 90 FR 9610, Feb. 14, 2025.
 
 S1. *Scope.* This standard specifies performance requirements for location, identification, color, and illumination of motor vehicle controls, telltales and indicators.
 

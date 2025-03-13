@@ -1,6 +1,6 @@
 ##### § 572.130 Incorporation by reference. #####
 
-Link to an amendment published at 90 FR 263, Jan. 3, 2025.
+Link to an amendment published at 90 FR 263, Jan. 3, 2025.Link to a delay of the above amendment published at 90 FR 9611, Feb. 14, 2025.
 
 (a) The following materials are hereby incorporated into this Subpart by reference:
 

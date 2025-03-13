@@ -1,6 +1,6 @@
 ##### § 572.136 Knees and knee impact test procedure. #####
 
-Link to an amendment published at 90 FR 264, Jan. 3, 2025.
+Link to an amendment published at 90 FR 264, Jan. 3, 2025.Link to a delay of the above amendment published at 90 FR 9611, Feb. 14, 2025.
 
 (a) *Knee assembly.* The knee assembly (refer to §§ 572.130(a)(1)(v) and (vi)) for the purpose of this test is the part of the leg assembly shown in drawing 880105-560.
 

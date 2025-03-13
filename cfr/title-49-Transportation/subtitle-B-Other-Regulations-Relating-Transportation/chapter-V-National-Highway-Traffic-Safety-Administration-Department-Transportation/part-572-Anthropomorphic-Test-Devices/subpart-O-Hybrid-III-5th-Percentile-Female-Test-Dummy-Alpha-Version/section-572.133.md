@@ -1,6 +1,6 @@
 ##### § 572.133 Neck assembly and test procedure. #####
 
-Link to an amendment published at 90 FR 263, Jan. 3, 2025.
+Link to an amendment published at 90 FR 263, Jan. 3, 2025.Link to a delay of the above amendment published at 90 FR 9611, Feb. 14, 2025.
 
 (a) The neck assembly (refer to § 572.130(a)(1)(ii)) for the purposes of this test consists of the assembly of components shown in drawing 880105-250.
 

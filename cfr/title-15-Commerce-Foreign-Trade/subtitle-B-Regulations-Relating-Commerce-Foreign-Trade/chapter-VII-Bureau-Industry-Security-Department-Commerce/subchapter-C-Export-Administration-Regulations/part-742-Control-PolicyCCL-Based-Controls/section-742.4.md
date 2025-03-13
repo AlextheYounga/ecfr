@@ -80,6 +80,6 @@
 
 (d) *License exceptions.* Certain license exceptions are available only for national security items, such as License Exceptions GBS (see § 740.4 of the EAR) and TSR (see § 740.6 of the EAR), but other license exceptions may also be available for national security items, such as License Exception STA (see § 740.20 of the EAR) or license exceptions based on the facts of the transaction, such as License Exceptions TMP (see § 740.9 of the EAR) or GOV (see § 740.11 of the EAR). See part 740 of the EAR for a full list of license exceptions and § 740.2 of the EAR for license exception restrictions that apply to every license exception.
 
-[61 FR 12786, Mar. 25, 1996, as amended at 90 FR 5310, Jan. 16, 2025]Editorial Notes:1. For Federal Register citations affecting § 742.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[61 FR 12786, Mar. 25, 1996]Editorial Notes:1. For Federal Register citations affecting § 742.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 2. At 90 FR 4615, Jan. 16, 2025, § 742.4 was amended by revising (b)(11); however, the amendment could not be incorporated because (b)(11) does not exist.

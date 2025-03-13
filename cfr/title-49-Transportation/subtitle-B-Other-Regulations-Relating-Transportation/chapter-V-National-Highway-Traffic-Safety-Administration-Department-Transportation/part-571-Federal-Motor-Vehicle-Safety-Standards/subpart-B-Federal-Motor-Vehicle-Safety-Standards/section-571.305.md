@@ -1,6 +1,6 @@
 ##### § 571.305 Standard No. 305; Electric-powered vehicles: electrolyte spillage and electrical shock protection. #####
 
-Link to an amendment published at 89 FR 104352, Dec. 20, 2024.
+Link to an amendment published at 89 FR 104352, Dec. 20, 2024.This amendment was delayed until Mar. 20, 2025, at 90 FR 9609, Feb. 14, 2025.
 
 S1. *Scope.* This standard specifies requirements for limitation of electrolyte spillage and retention of electric energy storage/conversion devices during and after a crash, and protection from harmful electric shock during and after a crash and during normal vehicle operation.
 

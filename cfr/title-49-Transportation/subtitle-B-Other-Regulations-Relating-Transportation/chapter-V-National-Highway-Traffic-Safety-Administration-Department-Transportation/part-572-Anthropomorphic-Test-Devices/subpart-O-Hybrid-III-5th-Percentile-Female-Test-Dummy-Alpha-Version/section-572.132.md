@@ -1,6 +1,6 @@
 ##### § 572.132 Head assembly and test procedure. #####
 
-Link to an amendment published at 90 FR 263, Jan. 3, 2025.
+Link to an amendment published at 90 FR 263, Jan. 3, 2025.Link to a delay of the above amendment published at 90 FR 9611, Feb. 14, 2025.
 
 (a) The head assembly (refer to § 572.130(a)(1)(i)) for this test consists of the complete head (drawing 880105-100X), a six-axis neck transducer (drawing SA572-S11) or its structural replacement (drawing 78051-383X), and 3 accelerometers (drawing SA572-S4).
 

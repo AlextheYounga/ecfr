@@ -1,6 +1,6 @@
 ##### § 572.131 General description. #####
 
-Link to an amendment published at 90 FR 263, Jan. 3, 2025.
+Link to an amendment published at 90 FR 263, Jan. 3, 2025.Link to a delay of the above amendment published at 90 FR 9611, Feb. 14, 2025.
 
 (a) The Hybrid III fifth percentile adult female crash test dummy is defined by drawings and specifications containing the following materials:
 

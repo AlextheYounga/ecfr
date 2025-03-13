@@ -1,6 +1,6 @@
 ##### § 571.208 Standard No. 208; Occupant crash protection. #####
 
-Link to an amendment published at 90 FR 465, Jan. 3, 2025.
+Link to an amendment published at 90 FR 465, Jan. 3, 2025.This amendment was delayed until Mar. 20, 2025, at 90 FR 9610, Feb. 14, 2025.
 
 S1. *Scope.* This standard specifies performance requirements for the protection of vehicle occupants in crashes.
 

@@ -1,6 +1,6 @@
 ##### § 571.225 Standard No. 225; Child restraint anchorage systems. #####
 
-Link to an amendment published at 90 FR 1342, Jan. 7, 2025.
+Link to an amendment published at 90 FR 1342, Jan. 7, 2025.This amendment was delayed until Mar. 20, 2025, at 90 FR 9611, Feb. 14, 2025.
 
 S1. *Purpose and scope.* This standard establishes requirements for child restraint anchorage systems to ensure their proper location and strength for the effective securing of child restraints, to reduce the likelihood of the anchorage systems' failure, and to increase the likelihood that child restraints are properly secured and thus more fully achieve their potential effectiveness in motor vehicles.
 
