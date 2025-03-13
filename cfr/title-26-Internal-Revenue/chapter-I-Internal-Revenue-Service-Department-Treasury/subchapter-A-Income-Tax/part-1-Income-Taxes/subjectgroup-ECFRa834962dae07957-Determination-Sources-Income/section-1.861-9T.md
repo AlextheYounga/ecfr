@@ -150,23 +150,13 @@ Example.(i) *Facts.* A is a resident individual taxpayer engaged in the active c
 
 (iii)-(v) [Reserved]
 
-(2)(i) [Reserved]
-
-(ii) *Special rule for qualified business units of domestic corporations with functional currency other than the U.S. dollar*—(A) *Tax book value method.* In the case of taxpayers using the tax book value method of apportionment, the following rules shall apply to determine the value of the assets of a qualified business unit (as defined in section 989(a)) of a domestic corporation with a functional currency other than the dollar.
-
-(*1*) *Section 987 QBU.* In the case of a section 987 QBU (as defined in § 1.987-1(b)(2)), the tax book value shall be determined by applying the rules of paragraphs (g)(2)(i) and (g)(3) of this section to the beginning-of-year and end-of-year functional currency amount of assets. The beginning-of-year functional currency amount of assets shall be determined by reference to the functional currency amount of assets computed under § 1.987-4(d)(1)(i)(B) and (e) on the last day of the preceding taxable year. The end-of-year functional currency amount of assets shall be determined by reference to the functional currency amount of assets computed under § 1.987-4(d)(1)(i)(A) and (e) on the last day of the current taxable year. The beginning-of-year and end-of-year functional currency amount of assets, as so determined within each grouping, must then be averaged as provided in paragraph (g)(2)(i) of this section.
-
-(*2*) *U.S. dollar approximate separate transactions method.* For further guidance, see § 1.861-9(g)(2)(ii)(A)(*2*).
-
-(B) *Fair market value method.* In the case of taxpayers using the fair market value method of apportionment, the beginning-of-year and end-of-year fair market values of branch assets within each grouping shall be computed in dollars and averaged as provided in this paragraph (g)(2).
+(2)(i)-(ii) [Reserved]
 
 (iii) *Adjustment for directly allocated interest.* Prior to averaging, the year-end value of any asset to which interest expense is directly allocated during the current taxable year under the rules of § 1.861-10T (b) or (c) shall be reduced (but not below zero) by the percentage of the principal amount of indebtedness outstanding at year-end equal to the percentage of all interest on the debt for the taxable year that is directly allocated.
 
 (iv) *Assets in intercompany transactions.* In the application of the asset method described in this paragraph (g), the tax book value of assets transferred between affiliated corporations in intercompany transactions shall be determined without regard to the gain or loss that is deferred under the regulations issued under section 1502.
 
 (v) [Reserved]
-
-(vi) *Effective/applicability date.* Generally, paragraph (g)(2)(ii)(A)(*1*) of this section shall apply to taxable years beginning on or after one year after the first day of the first taxable year following December 7, 2016. If pursuant to § 1.987-11(b) a taxpayer applies §§ 1.987-1 through 1.987-11 beginning in a taxable year prior to the earliest taxable year described in § 1.987-11(a), then paragraph (g)(2)(ii)(A)(*1*) of this section shall apply to taxable years beginning on or after the first day of such prior taxable year.
 
 (3) *Characterization of assets.* Assets are characterized for purposes of this section according to the source and type of the income that they generate, have generated, or may reasonably be expected to generate. The physical location of assets is not relevant to this determination. Subject to the special rules of paragraph (h) concerning the application of the fair market value method of apportionment, the value of assets within each statutory grouping and the residual grouping at the beginning and end of each year shall be determined by dividing the taxpayer's assets into three types—
 

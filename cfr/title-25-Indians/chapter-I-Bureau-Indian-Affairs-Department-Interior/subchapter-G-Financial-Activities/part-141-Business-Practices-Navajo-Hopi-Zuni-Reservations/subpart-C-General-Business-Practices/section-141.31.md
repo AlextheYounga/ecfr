@@ -14,7 +14,7 @@
 
 (3) That the consideration for the proposed transaction is not less than the appraised value of the land or leasehold interest unless the Indian employee qualifies and is intending a transaction in accordance with § 152.5 (b) and (c) of this chapter or § 162.5(b)(1), (2) and (3) of this chapter.
 
-An affidavit, as follows, shall accompany each proposed land transaction:I,\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Name)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Title)swear (or affirm) that I have not exercised any undue influence nor used any special knowledge received by reason of my office in obtaining the (grantor's, purchaser's, vendor's) consent to the instant transaction.
+An affidavit, as follows, shall accompany each proposed land transaction:I,\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Name)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Title) swear (or affirm) that I have not exercised any undue influence nor used any special knowledge received by reason of my office in obtaining the (grantor's, purchaser's, vendor's) consent to the instant transaction.
 
 (c) This section does not prohibit any reservation business from contracting with the Federal Government to provide postal services to Indian communities in which Government postal service is unavailable.
 

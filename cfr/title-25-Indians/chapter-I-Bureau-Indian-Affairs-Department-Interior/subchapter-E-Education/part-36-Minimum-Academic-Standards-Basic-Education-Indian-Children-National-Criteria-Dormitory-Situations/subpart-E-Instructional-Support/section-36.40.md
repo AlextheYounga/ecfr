@@ -26,6 +26,6 @@ It is required that materials pertaining to Indian Tribes and/or Alaskan Natives
 
 (3) There shall be a library media center serviced by a librarian. Schools with fewer than 200 students are encouraged, wherever feasible, to cooperate in sharing librarian resources. Schools within an Agency and/or Area may cooperatively share the costs and services of a librarian who shall facilitate sharing of the combined available resources among the cooperating schools in accordance with the following ratios:
 
-School Enrollment (ADM)Up to 100—1/5 time librarian101-200—1/5 time librarian and1/2 time library aide or 20 hours of library activity201-400—1 full-time librarian or2/5 time librarian provided the school has a full-time library aide401 + —1 full-time librarian and a full-time library aide
+School Enrollment (ADM)Up to 100—1/5 time librarian101-200—1/5 time librarian and 1/2 time library aide or 20 hours of library activity201-400—1 full-time librarian or 2/5 time librarian provided the school has a full-time library aide401 + —1 full-time librarian and a full-time library aide
 
 (4) All libraries must conduct an annual inventory of available books, materials, and equipment in accordance with the acquisitions and selection policies.

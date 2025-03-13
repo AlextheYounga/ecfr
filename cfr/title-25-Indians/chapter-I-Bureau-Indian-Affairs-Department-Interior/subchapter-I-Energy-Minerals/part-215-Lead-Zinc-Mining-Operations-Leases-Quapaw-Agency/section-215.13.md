@@ -2,7 +2,7 @@
 
 Every mineral lease made and entered into under the regulations in this part, by an Indian or by the superintendent as his representative or in his behalf, must be accompanied by a surety bond, executed by the lessee and by a responsible surety company or two or more satisfactory sureties, guaranteeing the payment of all deferred installments of bonus and the payment of all specified royalties and rentals and the performance of all covenants and agreements undertaken by the lessee. Such bonds, unless authorized by the Secretary of the Interior or his authorized representative, with the consent of the Indian landowner, shall be not less than the following amounts:
 
-For less than 80 acres—$2,500For 80 acres and less than 120 acres—3,500For 120 acres or more—5,000
+For less than 80 acres—$2,500 For 80 acres and less than 120 acres—3,500 For 120 acres or more—5,000
 
 *Provided, however,* That the lessee may, in lieu of such surety bond and upon execution of a proper penal bond to the United States in the sum prescribed and a proper power of attorney to the Secretary of the Interior, submit therewith United States bonds or notes in the aggregate sum prescribed as security for the carrying out of the terms, conditions, and provisions of the lease: *Provided further,* That a lessee may file in lieu of such individual lease bonds, one bond in a sum to be fixed by the Secretary of the Interior covering all leases to which he is or may become a party. The right is specifically reserved to the Secretary of the Interior to require an increase of the amount of any bond above the sum named in any particular case where he deems it necessary to require such increased bond.
 

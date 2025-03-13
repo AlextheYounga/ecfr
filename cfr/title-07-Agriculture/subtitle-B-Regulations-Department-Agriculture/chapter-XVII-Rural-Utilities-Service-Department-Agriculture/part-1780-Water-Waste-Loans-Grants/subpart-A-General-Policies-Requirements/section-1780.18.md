@@ -46,9 +46,9 @@ BFA = (Amount available for allocation − NO reserve − total base and adminis
 
 (A) State's percentage of national rural population will be 50 percent.
 
-(B) For the criterion specified in paragraph (b)(2)(i)(B) of this section, 5-year income data from the American Community Survey (ACS).
+(B) State's percentage of national rural population with income below the poverty level will be 25 percent.
 
-(C) For the criterion specified in paragraph (b)(2)(i)(C) of this section, the 5-year data from the ACS.
+(C) State's percentage of national nonmetropolitan unemployment will be 25 percent.
 
 (ii) The data sources for each criterion identified in paragraph (c)(2) of this section are specified in paragraphs (c)(2)(ii)(A) through (C) of this section. Each criterion is assigned a specific weight according to its relevance in determining need. The percentage representing each criterion is multiplied by the weight factor and summed to arrive at a State factor (SF). The SF cannot exceed 0.05, as follows:
 
@@ -56,9 +56,9 @@ SF = (criterion in paragraph (b)(2)(i)(A) of this section × 50 percent) + (crit
 
 (A) For the criterion specified in paragraph (b)(2)(i)(A) of this section, the most recent decennial Census data.
 
-(B) For the criterion specified in paragraph (b)(2)(i)(B) of this section, 5-year income data from the American Community Survey (ACS) or, if needed, other Census Bureau data.
+(B) For the criterion specified in paragraph (b)(2)(i)(B) of this section, 5-year income data from the American Community Survey (ACS).
 
-(C) For the criterion specified in paragraph (b)(2)(i)(C) of this section, the most recent Bureau of Labor Statistics data.
+(C) For the criterion specified in paragraph (b)(2)(i)(C) of this section, the 5-year data from the ACS.
 
 (3) *Basic formula allocation.* See paragraph (b)(3) of this section. States receiving administrative allocations do not receive formula allocations.
 

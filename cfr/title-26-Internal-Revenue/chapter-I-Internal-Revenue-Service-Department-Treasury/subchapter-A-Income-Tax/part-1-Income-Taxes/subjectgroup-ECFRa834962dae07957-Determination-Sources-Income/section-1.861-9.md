@@ -156,17 +156,19 @@
 
 (B) *Tax book value method.* Under the tax book value method, the value of an asset is determined based on the adjusted basis of the asset. For purposes of determining the value of stock in a 10 percent owned corporation at the beginning and end of the year under the tax book value method, the tax book value is determined without regard to any adjustments under section 961(a) or 1293(d), see § 1.861-12(c)(2)(i)(B)(*1*), and before the adjustment required by § 1.861-12(c)(2)(i)(A) to the basis of stock in the 10 percent owned corporation. The average of the tax book value of the stock at the beginning and end of the year is then adjusted with respect to earnings and profits as described in § 1.861-12(c)(2)(i).
 
-(ii) *Special rule for qualified business units of domestic corporations with functional currency other than the U.S. dollar*—(A) *Tax book value method.* For further guidance, see § 1.861-9T(g)(2)(ii)(A).
+(ii) *Special rule for qualified business units of domestic corporations with functional currency other than the U.S. dollar*—(A) *Tax book value method.* In the case of taxpayers using the tax book value method of apportionment, the following rules apply to determine the value of the assets of a qualified business unit (QBU) (as defined in section 989(a)) of a domestic corporation with a functional currency other than the dollar.
 
-(*1*) *Section 987 QBU.* For further guidance, see § 1.861-9T(g)(2)(ii)(A)(*1*).
+(*1*) *Section 987 QBU.* In the case of a section 987 QBU (as defined in § 1.987-1(b)(3)), the tax book value is determined by applying the rules of paragraph (g)(2)(i) of this section and § 1.861-9T(g)(3) to the beginning-of-year and end-of-year owner functional currency amount of assets. The beginning-of-year owner functional currency amount of assets is determined by reference to the owner functional currency amount of assets computed under § 1.987-4(d)(1)(i)(B) and (e) on the last day of the preceding taxable year. The end-of-year owner functional currency amount of assets is determined by reference to the owner functional currency amount of assets computed under § 1.987-4(d)(1)(i)(A) and (e) on the last day of the current taxable year. The beginning-of-year and end-of-year owner functional currency amount of assets, as so determined within each grouping, are then averaged as provided in paragraph (g)(2)(i) of this section.
 
 (*2*) *U.S. dollar approximate separate transactions method.* In the case of a branch to which the U.S. dollar approximate separate transactions method of accounting described in § 1.985-3 applies, the beginning-of-year dollar amount of the assets is determined by reference to the end-of-year balance sheet of the branch for the immediately preceding taxable year, adjusted for U.S. generally accepted accounting principles and Federal income tax accounting principles, and translated into U.S. dollars as provided in § 1.985-3(c). The end-of-year dollar amount of the assets of the branch is determined in the same manner by reference to the end-of-year balance sheet for the current taxable year. The beginning-of-year and end-of-year dollar tax book value of assets, as so determined, within each grouping is then averaged as provided in paragraph (g)(2)(i) of this section.
 
-(B) *Fair market value method.* For further guidance, see § 1.861-9T(g)(2)(ii)(B).
+(B) *Fair market value method.* In the case of taxpayers using the fair market value method of apportionment, the beginning-of-year and end-of-year fair market values of branch assets within each grouping are computed in dollars and averaged as provided in this paragraph (g)(2) and § 1.861-9T(g)(2).
 
 (iii) *Adjustment for directly allocated interest.* For further guidance, see § 1.861-9T(g)(2)(iii).
 
 (iv) *Assets in intercompany transactions.* For further guidance, see § 1.861-9T(g)(2)(iv).
+
+(v) *Applicability date.* Generally, paragraph (g)(2)(ii)(A)(*1*) of this section applies to taxable years beginning after December 31, 2024. However, if pursuant to § 1.987-15(b), a taxpayer chooses to apply §§ 1.987-1 through 1.987-15 to a taxable year before the first taxable year described in § 1.987-15(a)(1), then paragraph (g)(2)(ii)(A)(*1*) of this section applies to that taxable year and subsequent years.
 
 (3) *Characterization of assets.* For further guidance, see § 1.861-9T(g)(3). In applying § 1.861-9T(g)(3), for purposes of applying section 904 as the operative section, the statutory or residual grouping of income that assets generate, have generated, or may reasonably be expected to generate is determined after taking into account any reallocation of income required under § 1.904-4(f)(2)(vi).
 
@@ -252,4 +254,4 @@ Example.Corporation X, a calendar year taxpayer, elects on its original, timely 
 
 (3) The last sentence of paragraph (g)(3) of this section applies to taxable years beginning on or after December 28, 2021.
 
-[T.D. 8916, 66 FR 272, Jan. 3, 2001, as amended by T.D. 9120, 69 FR 15675, Mar. 26, 2004; T.D. 9247, 71 FR 4814, Jan. 30, 2006; T.D. 9452, 74 FR 27873, June 11, 2009; T.D. 9456, 74 FR 46346, Sept. 9, 2009; T.D. 9676, 79 FR 41425, July 16, 2014; T.D. 9676, 79 FR 49683, Aug. 22, 2014; T.D. 9882, 84 FR 69064, Dec. 17, 2019; T.D. 9922, 85 FR 72038, Nov. 12, 2020; T.D. 9959, 87 FR 326, Jan. 4, 2022]
+[T.D. 8916, 66 FR 272, Jan. 3, 2001, as amended by T.D. 9120, 69 FR 15675, Mar. 26, 2004; T.D. 9247, 71 FR 4814, Jan. 30, 2006; T.D. 9452, 74 FR 27873, June 11, 2009; T.D. 9456, 74 FR 46346, Sept. 9, 2009; T.D. 9676, 79 FR 41425, July 16, 2014; T.D. 9676, 79 FR 49683, Aug. 22, 2014; T.D. 9882, 84 FR 69064, Dec. 17, 2019; T.D. 9922, 85 FR 72038, Nov. 12, 2020; T.D. 9959, 87 FR 326, Jan. 4, 2022; T.D. 10016, 89 FR 100164, Dec. 11, 2024]

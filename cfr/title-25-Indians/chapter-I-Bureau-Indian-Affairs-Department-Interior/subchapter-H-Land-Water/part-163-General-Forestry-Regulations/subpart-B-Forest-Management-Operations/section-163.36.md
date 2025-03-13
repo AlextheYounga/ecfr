@@ -32,7 +32,7 @@
 
 (1) A funding level qualification value shall be determined for each eligible applicant using the formula below. Such formula shall only be used to determine which applicants qualify for level one funding assistance. Acreage and allowable cut data used in the formula shall be as maintained by the Secretary. Eligible applicants with a funding level qualification value of one (1) or greater shall qualify for level one assistance.
 
-Funding Level Qualification Formula![](/graphics/er05oc95.000.gif)where:CA = applicant's total commercial Indian forest land acres;Tot. CA = national total commercial Indian forest land acres;AAC = applicant's total allowable annual cut from commercial Indian forest land acres; andTot. AAC = national total allowable annual cut from commercial Indian forest land acres.
+Funding Level Qualification Formula ![](/graphics/er05oc95.000.gif)where: CA = applicant's total commercial Indian forest land acres; Tot. CA = national total commercial Indian forest land acres; AAC = applicant's total allowable annual cut from commercial Indian forest land acres; and Tot. AAC = national total allowable annual cut from commercial Indian forest land acres.
 
 (2) All category 1 or 2 reservations that are eligible applicants under § 163.36(d) of this part are qualified and eligible for level two assistance.
 

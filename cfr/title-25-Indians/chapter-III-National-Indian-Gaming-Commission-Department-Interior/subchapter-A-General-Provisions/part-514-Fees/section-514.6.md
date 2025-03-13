@@ -14,7 +14,7 @@
 
 (3) Add (total) the results (products) obtained in paragraphs (d)(1) and (2) of this section.
 
-(4) Multiply the total obtained in paragraph (d)(3) of this section by1/4.
+(4) Multiply the total obtained in paragraph (d)(3) of this section by 1/4.
 
 (5) Adjust for prior amounts paid and credits received, if applicable. The gaming operation shall provide a detailed justification for the adjustment.
 

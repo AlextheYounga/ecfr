@@ -74,6 +74,6 @@ In carrying out its Education mission, the Assistant Secretary for Indian Affair
 
 (2) Assist and promote the establishment of Indian regional and/or national accrediting associations for all levels of Indian Education.
 
-(z) *Eligibility for services.* Serve Indian and Alaska Native students who are recognized by the Secretary of the Interior as eligible for Federal services, because of their status as Indians or Alaska Natives, whose Indian blood quantum is1/4 degree or more. In the absence of other available facilities, children of non-Indian Bureau personnel or other non-eligibles may be served subject to the provisions of 25 U.S.C. 288 and 289.
+(z) *Eligibility for services.* Serve Indian and Alaska Native students who are recognized by the Secretary of the Interior as eligible for Federal services, because of their status as Indians or Alaska Natives, whose Indian blood quantum is 1/4 degree or more. In the absence of other available facilities, children of non-Indian Bureau personnel or other non-eligibles may be served subject to the provisions of 25 U.S.C. 288 and 289.
 
 (aa) *Appropriations.* Aggressively seek sufficient appropriations to carry out all policies herein established subject to the president's budget and the Department's budgetary process.

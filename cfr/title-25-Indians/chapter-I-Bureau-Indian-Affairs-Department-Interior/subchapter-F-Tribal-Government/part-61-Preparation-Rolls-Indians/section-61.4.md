@@ -4,7 +4,7 @@
 
 (b) *Pembina Band of Chippewa Indians.* (1) Pursuant to section 7(a) of the Act of December 31, 1982, Pub. L. 97-403, 96 Stat. 2022, a roll is to be prepared and used as the basis for the distribution of an apportioned share of judgment funds awarded the Pembina Chippewa Indians in dockets numbered 113, 191, 221 and 246 of the Court of Claims of all persons who:
 
-(i) Are of at least1/4 degree Pembina Chippewa blood;
+(i) Are of at least 1/4 degree Pembina Chippewa blood;
 
 (ii) Are citizens of the United States;
 
@@ -102,15 +102,15 @@
 
 (B) Persons living on October 1, 1949, and resident on the reservation at that time, who have received Reservation benefits or services, and hold an assignment, or can make other proof that though eligible to receive an allotment, they have not been allotted, and the lineal descendants of such persons, living on October 1, 1949;
 
-(C) Persons living on June 2, 1953, who have at least1/4 degree Reservation blood, as defined in paragraph (h)(6)(i) of this section, have forebears born on the Reservation and were resident on the Reservation for 15 years prior to June 2, 1953;
+(C) Persons living on June 2, 1953, who have at least 1/4 degree Reservation blood, as defined in paragraph (h)(6)(i) of this section, have forebears born on the Reservation and were resident on the Reservation for 15 years prior to June 2, 1953;
 
-(D) Persons of at least1/4 degree Indian blood, born after October 1, 1949, and before August 9, 1963, to a parent who is or would have been, when alive a qualified Indian of the Reservation under the standards in paragraphs (h)(4)(i) (A), (B) and (C) of this section, or has previously been held entitled to recover in the *Short* cases;
+(D) Persons of at least 1/4 degree Indian blood, born after October 1, 1949, and before August 9, 1963, to a parent who is or would have been, when alive a qualified Indian of the Reservation under the standards in paragraphs (h)(4)(i) (A), (B) and (C) of this section, or has previously been held entitled to recover in the *Short* cases;
 
-(E) Persons born on or after August 9, 1963, who are of at least1/4 degree Indian blood, derived exclusively from the qualified parent or parents who is or would have been, when alive, a qualified Indian of the Reservation under the standards in paragraphs (h)(4)(i) (A), (B) and (C) of this section, or has previously been held entitled to recover in the *Short* cases; or
+(E) Persons born on or after August 9, 1963, who are of at least 1/4 degree Indian blood, derived exclusively from the qualified parent or parents who is or would have been, when alive, a qualified Indian of the Reservation under the standards in paragraphs (h)(4)(i) (A), (B) and (C) of this section, or has previously been held entitled to recover in the *Short* cases; or
 
 (ii) Manifest Injustice Standard which is: Persons who do not qualify under the standards in paragraph (h)(4)(i) of this section, but who it would be manifestly unjust to exclude from enrollment. To qualify under the manifest injustice standard, persons must adequately demonstrate all of the following:
 
-(A) A significant degree of Indian blood (at least1/4 degree Indian blood, and
+(A) A significant degree of Indian blood (at least 1/4 degree Indian blood, and
 
 (B) Personal connections to the Reservation shown through a substantial period of residence on the Reservation (nearly ten years of residence), and
 
@@ -148,7 +148,7 @@
 
 (k) *Western Shoshone Identifiable Group of Indians.* (1) Under section 3(b)(1) of the Act of July 7, 2004, Pub. L. 108-270, 118 Stat. 805, the Secretary will prepare a roll of all individuals who meet the eligibility criteria established under the Act and who file timely applications prior to a date that will be established by a notice published in the Federal Register. The roll will be used as the basis for distributing the judgment funds awarded by the Indian Claims Commission to the Western Shoshone Identifiable Group of Indians in Docket No. 326-K. To be eligible a person must:
 
-(i) Have at least1/4 degree of Western Shoshone blood;
+(i) Have at least 1/4 degree of Western Shoshone blood;
 
 (ii) Be living on July 7, 2004;
 

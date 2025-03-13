@@ -62,7 +62,7 @@
 
 (iii) *Currency gain or loss*—(A) *Section 986(c).* Any currency gain or loss with respect to a distribution received by a United States shareholder (other than a foreign QBU of that shareholder) of previously taxed earnings and profits that is recognized under section 986(c) and that is treated as an item of passive income shall be subject to the rules provided in paragraph (c)(3)(iii) of this section.
 
-(B) *Section 987(3).* Any currency gain or loss with respect to remittances or transfers of property between QBUs of a United States shareholder that is recognized under section 987(3)(B) and that is treated as an item of passive income shall be subject to the rules provided in paragraph (c)(3)(iii) of this section.
+(B) *Section 987.* For special rules relating to the allocation and apportionment of foreign income taxes to section 987 items, *see* § 1.987-6(b)(3).
 
 (C) *Example.* The following example illustrates the application of this paragraph (c)(5)(iii).
 
