@@ -1,5 +1,7 @@
 ##### § 303.9 Exemptions for withholding records. #####
 
+Link to an amendment published at 89 FR 25525, Apr. 11, 2024.
+
 (a) The Peace Corps may withhold a requested record from public disclosure only if the record fits within one or more of the following FOIA exemptions:
 
 (1) Matter specifically authorized under criteria established by an Executive Order to be kept secret in the interest of national defense or foreign policy and is in fact properly classified pursuant to such Executive Order;

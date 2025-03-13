@@ -1,5 +1,7 @@
 ##### § 303.2 Definitions. #####
 
+Link to an amendment published at 89 FR 25521, Apr. 11, 2024.
+
 As used in this part—
 
 (a) *Commercial use request* means a request from or on behalf of one who seeks information for a use or purpose that furthers the commercial, trade, or profit interests of the requester or the person on whose behalf the request is made. In determining whether a requester has made a commercial use request, the Peace Corps will look to the use to which a requester will put the documents requested. When the Peace Corps has reasonable cause to doubt the requester's stated use of the records sought, or where the use is not clear from the request itself, it will seek additional clarification before assigning the request to a category.

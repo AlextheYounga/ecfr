@@ -3281,8 +3281,6 @@
 
 (B) See paragraph (a)(1)(cdxli)(B) of this section for the map of this unit.
 
-(cdlix) Table of Protected Species Within Each Critical Habitat Unit for Kauai
-
 |                   Unit name                   |          Species occupied          |         Species unoccupied         |
 |-----------------------------------------------|------------------------------------|------------------------------------|
 |          Kauai 1—Ischaemum byrone—a           |          Ischaemum byrone          |                                    |
@@ -5539,8 +5537,6 @@ Kauai 7-*Doryopteris angelica*-a and Kauai 11-*Doryopteris angelica*-b, identifi
 (ii) Map of Molokai—Wet Cliff—Unit 1, Molokai—Wet Cliff—Unit 2, and Molokai—Wet Cliff—Unit 3 (Map 11) follows:
 
 ![](/graphics/er30mr16.078.gif)
-
-(12) Occupancy of Species by Designated Critical Habitat Units for Molokai
 
 |            Unit            |          Species occupied           |          Species unoccupied          |
 |----------------------------|-------------------------------------|--------------------------------------|
@@ -7835,8 +7831,6 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 
 ![](/graphics/er30mr16.105.gif)![](/graphics/er30mr16.106.gif)
 
-(xxix) Occupancy of Species by Designated Critical Habitat Units for Maui
-
 |        Unit name        |              Species occupied              |             Species unoccupied              |
 |-------------------------|--------------------------------------------|---------------------------------------------|
 |   Maui—Coastal—Unit 1   |                                            |              Brighamia rockii.              |
@@ -8643,8 +8637,6 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 (B) Map of Kahoolawe--Lowland Dry--Unit 2 (Map 33) follows:
 
 ![](/graphics/er30mr16.111.gif)
-
-(vi) Occupancy of Species by Designated Critical Habitat Units for Kahoolawe
 
 |         Unit name          |  Species occupied   |  Species unoccupied   |
 |----------------------------|---------------------|-----------------------|
@@ -12037,8 +12029,6 @@ Maui—Lowland Mesic—Unit 1, Maui—Lowland Wet—Unit 1, Maui—Lowland Wet�
 
 ![](/graphics/er22my03.008.gif)
 
-(9) Table of protected species within each critical habitat unit for the Northwestern Hawaiian Islands.
-
 |Island|                      Species—Occupied                       |Species—Unoccupied|
 |------|-------------------------------------------------------------|------------------|
 |Laysan|                    Cyperus pennatiformis                    |Pritchardia remota|
@@ -12093,7 +12083,7 @@ Nihoa 4—*Sesbania tomentosa,* and Necker 1—*Sesbania tomentosa,* identified 
 
 (2) Elevations between sea level and 84 m (0 and 276 ft).
 
-Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end of part 17.Link to an amendment published at 89 FR 17959, Mar. 12, 2024.
+Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end of part 17.
 
 (i) *Oahu.* Critical habitat units are described below. Maps were created in GIS, with coordinates in UTM Zone 4 with units in meters using North American Datum of 1983 (NAD83). The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's Internet site, *http://www.fws.gov/pacificislands*; at *http://www.regulations.gov* at Docket No. FWS-R1-ES-2010-0043; and at the field office responsible for the designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2. Existing manmade features and structures, such as buildings, roads, railroads, airports, runways, other paved areas, lawns, and other urban landscaped areas, existing trails, campgrounds and their immediate surrounding landscaped area, scenic lookouts, remote helicopter landing sites, and existing fences are not included in the critical habitat designation. Federal actions limited to those areas, therefore, would not trigger a consultation under section 7 of the Act unless they may affect the species or physical or biological features in adjacent critical habitat.
 
@@ -12360,8 +12350,6 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 (ii) Map of Oahu—Wet Cliff—Unit 8 (Map 33) follows:
 
 ![](/graphics/er18se12.067.gif)
-
-(35) Table of Protected Species Within Each Critical Habitat Unit for Oahu
 
 |        Unit name         |            Species occupied            |           Species unoccupied            |
 |--------------------------|----------------------------------------|-----------------------------------------|
@@ -17758,11 +17746,11 @@ Oahu—Lowland Dry—Unit 6 and Oahu—Lowland Dry—Unit 7, identified in the l
 
 (vi) Understory: *Alyxia, Artemisia, Bidens, Chenopodium, Nephrolepis, Peperomia, Sicyos.*
 
-(k) *Maps and critical habitat unit descriptions for the island of Hawaii, HI.* Critical habitat units are described below. Coordinates are in UTM Zone 4 with units in meters using North American Datum of 1983 (NAD83). The following map shows the general locations of the critical habitat units designated on the island of Hawaii. Existing manmade features and structures, such as buildings, roads, railroads, airports, runways, utility facilities and infrastructure and their designated and maintained rights-of-way, other paved areas, lawns, and other urban landscaped areas are not included in the critical habitat designation. Federal actions limited to those areas, therefore, would not trigger a consultation under section 7 of the Act unless they may affect the species or physical or biological features in adjacent critical habitat.
+(k) *Maps and critical habitat unit descriptions for the island of Hawaii, HI.* Critical habitat units are described in this paragraph (k). Map coordinates were created using World Geodetic System 1984 (WGS84). The map in paragraph (k)(1) shows the general locations of the critical habitat units designated on the island of Hawaii. Existing humanmade features and structures, such as buildings, aqueducts, runways, roads, and other paved areas, and the land on which they are located existing within the legal boundaries on April 11, 2024 are not included in the critical habitat designation. Federal actions limited to those areas, therefore, would not trigger a consultation under section 7 of the Act unless they may affect the species or physical or biological features in adjacent critical habitat.
 
-(1) *Note:* Map 1, Index map, follows:
+(1) Index map follows:
 
-![](/graphics/er21au18.000.gif)(2) Hawaii 1—*Clermontia lindseyana*—a (1,337 ha, 3,303 ac)
+Figure 1 to paragraph (k)Map 1Hawaii Critical Habitat—Island Index Map![](/graphics/er12mr24.010.gif)(2) Hawaii 1—*Clermontia lindseyana*—a (1,337 ha, 3,303 ac)
 
 (i) [Reserved]
 
@@ -17822,109 +17810,163 @@ Oahu—Lowland Dry—Unit 6 and Oahu—Lowland Dry—Unit 7, identified in the l
 
 (ii) Map 11 follows:
 
-![](/graphics/er02jy03.011.gif)(12) Hawaii 3—*Cyrtandra giffardii*—a (1,510 ha, 3,731 ac)
+![](/graphics/er02jy03.011.gif)
+
+(12) Hawaii 3—*Cyanea tritomantha*-a (12,059 ac; 4,880 ha).
+
+(i) This unit is also critical habitat for Hawaii 3—*Cyrtandra wagneri*-a, Hawaii 3—*Melicope remyi*-a, Hawaii 3—*Phyllostegia floribunda*-a, Hawaii 3—*Pittosporum hawaiiense*-a, Hawaii 3—*Schiedea diffusa* ssp. *macraei*-a, and Hawaii 3—*Stenogyne cranwelliae*-a (see paragraphs (k)(15), (k)(16), (k)(17), (k)(19), (k)(20), (k)(21), respectively, of this section).
+
+(ii) Map 11a follows:
+
+Figure 12 to paragraph (k)Map 11aHawaii 3—*Cyanea tritomantha*-a, Hawaii 3—*Cyrtandra wagneri*-a, Hawaii 3—*Melicope remyi*-a, Hawaii 3—*Phyllostegia floribunda*-a, Hawaii 3—*Pittosporum hawaiiense*-a, Hawaii 3—*Schiedea diffusa* ssp. *macraei*-a, Hawaii 3—*Stenogyne cranwelliae*-a![](/graphics/er12mr24.011.gif)(13) Hawaii 3—*Cyrtandra giffardii*—a (1,510 ha, 3,731 ac)
 
 (i) [Reserved]
 
 (ii) Map 12 follows:
 
-![](/graphics/er02jy03.012.gif)(13) Hawaii 3—*Cyrtandra tintinnabula*—a (2,322 ha, 5,738 ac)
+![](/graphics/er02jy03.012.gif)(14) Hawaii 3—*Cyrtandra tintinnabula*—a (2,322 ha, 5,738 ac)
 
 (i) [Reserved]
 
 (ii) Map 13 follows:
 
-![](/graphics/er02jy03.013.gif)(14) Hawaii 3—*Phyllostegia warshaueri*—a (2,471 ha, 6,105 ac)
+![](/graphics/er02jy03.013.gif)
+
+(15) Hawaii 3—*Cyrtandra wagneri*-a (12,059 ac; 4,880 ha). See paragraph (k)(12)(ii) of this section for the map of this unit.
+
+(16) Hawaii 3—*Melicope remyi*-a (12,059 ac; 4,880 ha). See paragraph (k)(12)(ii) of this section for the map of this unit.
+
+(17) Hawaii 3—*Phyllostegia floribunda*-a (12,059 ac; 4,880 ha). See paragraph (k)(12)(ii) of this section for the map of this unit.
+
+(18) Hawaii 3—*Phyllostegia warshaueri*—a (2,471 ha, 6,105 ac)
 
 (i) [Reserved]
 
 (ii) Map 14 follows:
 
-![](/graphics/er02jy03.014.gif)(15) Hawaii 4—*Isodendrion hosakae*—a (49 ha, 121 ac)
+![](/graphics/er02jy03.014.gif)
+
+(19) Hawaii 3—*Pittosporum hawaiiense*-a (12,059 ac; 4,880 ha). See paragraph (k)(12)(ii) of this section for the map of this unit.
+
+(20) Hawaii 3—*Schiedea diffusa* ssp. *macraei*-a (12,059 ac; 4,880 ha). See paragraph (k)(12)(ii) of this section for the map of this unit.
+
+(21) Hawaii 3—*Stenogyne cranwelliae*-a (12,059 ac; 4,880 ha). See paragraph (k)(12)(ii) of this section for the map of this unit.
+
+(22) Hawaii 4—*Isodendrion hosakae*—a (49 ha, 121 ac)
 
 (i) [Reserved]
 
 (ii) Map 15 follows:
 
-![](/graphics/er02jy03.015.gif)(16) Hawaii 4—*Isodendrion hosakae*—b (35 ha, 87 ac)
+![](/graphics/er02jy03.015.gif)(23) Hawaii 4—*Isodendrion hosakae*—b (35 ha, 87 ac)
 
 (i) [Reserved]
 
 (ii) Map 16 follows:
 
-![](/graphics/er02jy03.016.gif)(17) Hawaii 4—*Isodendrion hosakae*—c (49 ha, 121 ac)
+![](/graphics/er02jy03.016.gif)(24) Hawaii 4—*Isodendrion hosakae*—c (49 ha, 121 ac)
 
 (i) [Reserved]
 
 (ii) Map 17 follows:
 
-![](/graphics/er02jy03.017.gif)(18) Hawaii 4—*Isodendrion hosakae*—d (49 ha, 121 ac)
+![](/graphics/er02jy03.017.gif)(25) Hawaii 4—*Isodendrion hosakae*—d (49 ha, 121 ac)
 
 (i) [Reserved]
 
 (ii) Map 18 follows:
 
-![](/graphics/er02jy03.018.gif)(19) Hawaii 4—*Isodendrion hosakae*—e (11 ha, 26 ac)
+![](/graphics/er02jy03.018.gif)(26) Hawaii 4—*Isodendrion hosakae*—e (11 ha, 26 ac)
 
 (i) [Reserved]
 
 (ii) Map 19 follows:
 
-![](/graphics/er02jy03.019.gif)(20) Hawaii 4—*Isodendrion hosakae*—f (51 ha, 127 ac)
+![](/graphics/er02jy03.019.gif)(27) Hawaii 4—*Isodendrion hosakae*—f (51 ha, 127 ac)
 
 (i) [Reserved]
 
 (ii) Map 20 follows:
 
-![](/graphics/er02jy03.020.gif)(21) Hawaii 4—*Vigna o-wahuensis*—a (49 ha, 121 ac)
+![](/graphics/er02jy03.020.gif)(28) Hawaii 4—*Vigna o-wahuensis*—a (49 ha, 121 ac)
 
 (i) [Reserved]
 
 (ii) Map 21 follows:
 
-![](/graphics/er02jy03.021.gif)(22) Hawaii 4—*Vigna o-wahuensis*—b (35 ha, 87 ac)
+![](/graphics/er02jy03.021.gif)(29) Hawaii 4—*Vigna o-wahuensis*—b (35 ha, 87 ac)
 
 (i) [Reserved]
 
 (ii) Map 22 follows:
 
-![](/graphics/er02jy03.022.gif)(23) Hawaii 4—*Vigna o-wahuensis*—c (51 ha, 127 ac)
+![](/graphics/er02jy03.022.gif)(30) Hawaii 4—*Vigna o-wahuensis*—c (51 ha, 127 ac)
 
 (i) [Reserved]
 
 (ii) Map 23 follows:
 
-![](/graphics/er02jy03.023.gif)(24) Hawaii 5—*Nothocestrum breviflorum—*a (403 ha, 995 ac)
+![](/graphics/er02jy03.023.gif)(31) Hawaii 5—*Nothocestrum breviflorum—*a (403 ha, 995 ac)
 
 (i) [Reserved]
 
 (ii) Map 24 follows:
 
-![](/graphics/er02jy03.024.gif)(25) Hawaii 6—*Nothocestrum breviflorum—b* (1,113 ha, 2,750 ac)
+![](/graphics/er02jy03.024.gif)
+
+(32) Hawaii 6—*Bidens hillebrandiana* ssp. *hillebrandiana*-a (2 ac; 1 ha).
+
+(i) [Reserved]
+
+(ii) Map 24a follows:
+
+Figure 26 to paragraph (k)Map 24aHawaii 6—*Bidens hillebrandiana* ssp. *hillebrandiana*-a![](/graphics/er12mr24.012.gif)(33) Hawaii 6—*Nothocestrum breviflorum—b* (1,113 ha, 2,750 ac)
 
 (i) [Reserved]
 
 (ii) Map 25 follows:
 
-![](/graphics/er02jy03.025.gif)(26) Hawaii 7—*Dracaena konaensis*—a (677 ha, 1,673 ac)
+![](/graphics/er02jy03.025.gif)(34) Hawaii 7—*Dracaena konaensis*—a (677 ha, 1,673 ac)
 
 (i) [Reserved]
 
 (ii) *Note:* The reference to “Hawaii 7—*Pleomele hawaiiensis*—a” on the map is equivalent to “Hawaii 7—*Dracaena konaensis*—a”. Map 26 follows:
 
-![](/graphics/er02jy03.026.gif)(27) Hawaii 8—*Clermontia drepanomorpha*—a (1,906 ha, 4,709 ac)
+![](/graphics/er02jy03.026.gif)(35) Hawaii 8—*Clermontia drepanomorpha*—a (1,906 ha, 4,709 ac)
 
 (i) [Reserved]
 
 (ii) Map 27 follows:
 
-![](/graphics/er02jy03.027.gif)(28) Hawaii 8—*Phyllostegia warshaueri*—b (1,177 ha, 2,908 ac)
+![](/graphics/er02jy03.027.gif)
+
+(36) Hawaii 8—*Cyanea tritomantha*-b (6,805 ac; 2,754 ha).
+
+(i) This unit is also critical habitat for Hawaii 8—*Melicope remyi*-b, Hawaii 8—*Phyllostegia floribunda*-b, Hawaii 8—*Pittosporum hawaiiense*-b, Hawaii 8—*Schiedea diffusa* ssp. *macraei*-b, and Hawaii 8—*Stenogyne cranwelliae*-b (see paragraphs (k)(37), (k)(38), (k)(40), (k)(41), and (k)(42), respectively, of this section).
+
+(ii) Map 27a follows:
+
+Figure 30 to paragraph (k)Map 27aHawaii 8—*Cyanea tritomantha*-b, Hawaii 8—*Melicope remyi*-b, Hawaii 8—*Phyllostegia floribunda*-b, Hawaii 8—*Pittosporum hawaiiense*-b, Hawaii 8—*Schiedea diffusa* ssp. *macraei*-b, Hawaii 8—*Stenogyne cranwelliae*-b![](/graphics/er12mr24.013.gif)
+
+(37) Hawaii 8—*Melicope remyi*-b (6,805 ac; 2,754 ha). See paragraph (k)(36)(ii) of this section for the map of this unit.
+
+(38) Hawaii 8—*Phyllostegia floribunda*-b (6,805 ac; 2,754 ha). See paragraph (k)(36)(ii) of this section for the map of this unit.
+
+(39) Hawaii 8—*Phyllostegia warshaueri*—b (1,177 ha, 2,908 ac)
 
 (i) [Reserved]
 
 (ii) Map 28 follows:
 
-![](/graphics/er02jy03.028.gif)(29) Hawaii 9—*Achyranthes mutica*—a (63 ha, 157 ac)
+![](/graphics/er02jy03.028.gif)
+
+(40) Hawaii 8—*Pittosporum hawaiiense*-b (6,805 ac; 2,754 ha). See paragraph (k)(36)(ii) of this section for the map of this unit.
+
+(41) Hawaii 8—*Schiedea diffusa* ssp. *macraei*-b (6,805 ac; 2,754 ha). See paragraph (k)(36)(ii) of this section for the map of this unit.
+
+(42) Hawaii 8—*Stenogyne cranwelliae*-b (6,805 ac; 2,754 ha). See paragraph (k)(36)(ii) of this section for the map of this unit.
+
+(43) Hawaii 9—*Achyranthes mutica*—a (63 ha, 157 ac)
 
 (i) [Reserved]
 
@@ -17932,7 +17974,7 @@ Oahu—Lowland Dry—Unit 6 and Oahu—Lowland Dry—Unit 7, identified in the l
 
 (iii) Map 29 follows:
 
-![](/graphics/er02jy03.029.gif)(30) Hawaii 9—*Achyranthes mutica*—b (124 ha, 306 ac)
+![](/graphics/er02jy03.029.gif)(44) Hawaii 9—*Achyranthes mutica*—b (124 ha, 306 ac)
 
 (i) [Reserved]
 
@@ -17940,19 +17982,19 @@ Oahu—Lowland Dry—Unit 6 and Oahu—Lowland Dry—Unit 7, identified in the l
 
 (iii) Map 30 follows:
 
-![](/graphics/er02jy03.030.gif)(31) Hawaii 9—*Achyranthes mutica*—c (67 ha, 166 ac)
+![](/graphics/er02jy03.030.gif)(45) Hawaii 9—*Achyranthes mutica*—c (67 ha, 166 ac)
 
 (i) [Reserved]
 
 (ii) Map 31 follows:
 
-![](/graphics/er02jy03.031.gif)(32) Hawaii 9—*Achyranthes mutica*—d (58 ha, 143 ac)
+![](/graphics/er02jy03.031.gif)(46) Hawaii 9—*Achyranthes mutica*—d (58 ha, 143 ac)
 
 (i) [Reserved]
 
 (ii) Map 32 follows:
 
-![](/graphics/er02jy03.032.gif)(33) Hawaii 9—*Achyranthes mutica*—e (96 ha, 238 ac)
+![](/graphics/er02jy03.032.gif)(47) Hawaii 9—*Achyranthes mutica*—e (96 ha, 238 ac)
 
 (i) [Reserved]
 
@@ -17964,75 +18006,57 @@ Oahu—Lowland Dry—Unit 6 and Oahu—Lowland Dry—Unit 7, identified in the l
 
 (iii) Map 33 follows:
 
-![](/graphics/er02jy03.033.gif)(34) Hawaii 9—*Achyranthes mutica*—f (43 ha, 105 ac)
+![](/graphics/er02jy03.033.gif)(48) Hawaii 9—*Achyranthes mutica*—f (43 ha, 105 ac)
 
 (i) [Reserved]
 
 (ii) Map 34 follows:
 
-![](/graphics/er02jy03.034.gif)(35) Hawaii 9—*Achyranthes mutica*—g (37 ha, 92 ac)
+![](/graphics/er02jy03.034.gif)(49) Hawaii 9—*Achyranthes mutica*—g (37 ha, 92 ac)
 
 (i) [Reserved]
 
 (ii) Map 35 follows:
 
-![](/graphics/er02jy03.035.gif)(36) Hawaii 9—*Achyranthes mutica*—h (51 ha, 127 ac)
+![](/graphics/er02jy03.035.gif)(50) Hawaii 9—*Achyranthes mutica*—h (51 ha, 127 ac)
 
 (i) [Reserved]
 
 (ii) Map 36 follows:
 
-![](/graphics/er02jy03.036.gif)(37) Hawaii 9—*Achyranthes mutica*—i (31 ha, 76 ac)
+![](/graphics/er02jy03.036.gif)(51) Hawaii 9—*Achyranthes mutica*—i (31 ha, 76 ac)
 
 (i) [Reserved]
 
 (ii) Map 37 follows:
 
-![](/graphics/er02jy03.037.gif)(38) Hawaii 9—*Achyranthes mutica*—j (33 ha, 81 ac)
+![](/graphics/er02jy03.037.gif)(52) Hawaii 9—*Achyranthes mutica*—j (33 ha, 81 ac)
 
 (i) [Reserved]
 
 (ii) Map 38 follows:
 
-![](/graphics/er02jy03.038.gif)(39) Hawaii 10—*Argyroxiphium kauense*—a (349 ha, 861 ac)
+![](/graphics/er02jy03.038.gif)
 
-(i) [Reserved]
+(53) Hawaii 9—*Cyanea tritomantha*-c (1 ac; \<1 ha).
 
-(ii) Map 39 follows:
+(i) This unit is also critical habitat for Hawaii 9—*Melicope remyi*-c, Hawaii 9—*Phyllostegia floribunda*-c, Hawaii 9—*Pittosporum hawaiiense*-c, Hawaii 9—*Schiedea diffusa* ssp. *macraei*-c, and Hawaii 9—*Stenogyne cranwelliae*-c (see paragraphs (k)(54), (k)(55), (k)(56), (k)(57), and (k)(58) respectively, of this section).
 
-![](/graphics/er02jy03.039.gif)
+(ii) Map 38a follows:
 
-(40) Hawaii 10—*Bidens micrantha* ssp. *ctenophylla*—a (1,179 ha; 2,914 ac).
+Figure 42 to paragraph (k)Map 38aHawaii 9—*Cyanea tritomantha*-c, Hawaii 9—*Melicope remyi*-c, Hawaii 9—*Phyllostegia floribunda*-c, Hawaii 9—*Pittosporum hawaiiense*-c, Hawaii 9—*Schiedea diffusa* ssp. *macraei*-c, Hawaii 9—*Stenogyne cranwelliae*-c![](/graphics/er12mr24.014.gif)
 
-(i) This unit is also critical habitat for Hawaii 10—*Isodendrion pyrifolium*—a and Hawaii 10—*Mezoneuron kavaiense*—a (see paragraphs (k)(46) and (47), respectively, of this section).
+(54) Hawaii 9—*Melicope remyi*-c (1 ac; \<1 ha). See paragraph (k)(53)(ii) of this section for the map of this unit.
 
-(ii) Map 39a follows:
+(55) Hawaii 9—*Phyllostegia floribunda*-c (1 ac; \<1 ha). See paragraph (k)(53)(ii) of this section for the map of this unit.
 
-![](/graphics/er21au18.001.gif)(41) Hawaii 10—*Bonamia menziesii*—a (163 ha, 402 ac)
+(56) Hawaii 9-*Pittosporum hawaiiense*-c (1 ac; \< 1 ha). See paragraph (k)(53)(ii) of this section for the map of this unit.
 
-(i) [Reserved]
+(57) Hawaii 9-*Schiedea diffusa* ssp. *macraei*-c (1 ac; \< 1 ha). See paragraph (k)(53)(ii) of this section for the map of this unit.
 
-(ii) Map 40 follows:
+(58) Hawaii 9-*Stenogyne cranwelliae*-c (1 ac; \< 1 ha). See paragraph (k)(53)(ii) of this section for the map of this unit.
 
-![](/graphics/er02jy03.040.gif)(42) Hawaii 10—*Colubrina oppositifolia*—a (1,918 ha, 4,740 ac)
-
-(i) [Reserved]
-
-(ii) Map 41 follows:
-
-![](/graphics/er02jy03.041.gif)(43) Hawaii 10—*Delissea undulata*—a (92 ha, 227 ac)
-
-(i) [Reserved]
-
-(ii) Map 42 follows:
-
-![](/graphics/er02jy03.042.gif)(44) Hawaii 10—*Delissea undulata*—b (379 ha, 938 ac)
-
-(i) [Reserved]
-
-(ii) Map 43 follows:
-
-![](/graphics/er02jy03.043.gif)(45) Hawaii 10—*Hibiscadelphus hualalaiensis*—a (3,979 ha, 9,831 ac)
+(59) Hawaii 10—*Hibiscadelphus hualalaiensis*—a (3,979 ha, 9,831 ac)
 
 (i) [Reserved]
 
@@ -18042,53 +18066,53 @@ Oahu—Lowland Dry—Unit 6 and Oahu—Lowland Dry—Unit 7, identified in the l
 
 ![](/graphics/er02jy03.044.gif)
 
-(46) Hawaii 10—*Isodendrion pyrifolium*—a (1,179 ha; 2,914 ac). See paragraph (k)(40)(ii) of this section for the map of this unit.
+(60) Hawaii 10—*Isodendrion pyrifolium*—a (1,179 ha; 2,914 ac). See paragraph (k)(40)(ii) of this section for the map of this unit.
 
-(47) Hawaii 10—*Mezoneuron kavaiense*—a (1,179 ha; 2,914 ac). See paragraph (k)(40)(ii) of this section for the map of this unit.
+(61) Hawaii 10—*Mezoneuron kavaiense*—a (1,179 ha; 2,914 ac). See paragraph (k)(40)(ii) of this section for the map of this unit.
 
-(48) Hawaii 10—*Hibiscus brackenridgei*—a (196 ha, 485 ac)
+(62) Hawaii 10—*Hibiscus brackenridgei*—a (196 ha, 485 ac)
 
 (i) [Reserved]
 
 (ii) Map 45 follows:
 
-![](/graphics/er02jy03.045.gif)(49) Hawaii 10—*Neraudia ovata*—a (1,859 ha, 4,593 ac)
+![](/graphics/er02jy03.045.gif)(63) Hawaii 10—*Neraudia ovata*—a (1,859 ha, 4,593 ac)
 
 (i) [Reserved]
 
 (ii) Map 46 follows:
 
-![](/graphics/er02jy03.046.gif)(50) Hawaii 10—*Nothocestrum breviflorum*—c (3,627 ha, 8,964 ac)
+![](/graphics/er02jy03.046.gif)(64) Hawaii 10—*Nothocestrum breviflorum*—c (3,627 ha, 8,964 ac)
 
 (i) [Reserved]
 
 (ii) Map 47 follows:
 
-![](/graphics/er02jy03.047.gif)(51) Hawaii 10—*Dracaena konaensis*—b (1,338 ha, 3,306 ac)
+![](/graphics/er02jy03.047.gif)(65) Hawaii 10—*Dracaena konaensis*—b (1,338 ha, 3,306 ac)
 
 (i) [Reserved]
 
 (ii) *Note:* The reference to “Hawaii 10—*Pleomele hawaiiensis*—b” on the map is equivalent to “Hawaii 10—*Dracaena konaensis*—b”. Map 48 follows:
 
-![](/graphics/er02jy03.048.gif)(52) Hawaii 10—*Solanum incompletum*—a (705 ha, 1,741 ac)
+![](/graphics/er02jy03.048.gif)(66) Hawaii 10—*Solanum incompletum*—a (705 ha, 1,741 ac)
 
 (i) [Reserved]
 
 (ii) Map 49 follows:
 
-![](/graphics/er02jy03.049.gif)(53) Hawaii 10—*Zanthoxylum dipetalum* ssp. *tomentosum*—a (1,685 ha, 4,164 ac)
+![](/graphics/er02jy03.049.gif)(67) Hawaii 10—*Zanthoxylum dipetalum* ssp. *tomentosum*—a (1,685 ha, 4,164 ac)
 
 (i) [Reserved]
 
 (ii) Map 50 follows:
 
-![](/graphics/er02jy03.050.gif)(54) Hawaii 11—*Cyanea hamatiflora* ssp. *carlsonii*—a (92 ha, 227 ac)
+![](/graphics/er02jy03.050.gif)(68) Hawaii 11—*Cyanea hamatiflora* ssp. *carlsonii*—a (92 ha, 227 ac)
 
 (i) [Reserved]
 
 (ii) Map 51 follows:
 
-![](/graphics/er02jy03.051.gif)(55) Hawaii 11—*Solanum incompletum*—b (57 ha, 141 ac)
+![](/graphics/er02jy03.051.gif)(69) Hawaii 11—*Solanum incompletum*—b (57 ha, 141 ac)
 
 (i) [Reserved]
 
@@ -18096,454 +18120,900 @@ Oahu—Lowland Dry—Unit 6 and Oahu—Lowland Dry—Unit 7, identified in the l
 
 ![](/graphics/er02jy03.052.gif)
 
-(56) [Reserved]
+(70) [Reserved]
 
-(57) Hawaii 14—*Cyanea hamatiflora* ssp. *carlsonii*—b (597 ha, 1,475 ac)
+(71) Hawaii 14—*Cyanea hamatiflora* ssp. *carlsonii*—b (597 ha, 1,475 ac)
 
 (i) [Reserved]
 
 (ii) Map 57 follows:
 
-![](/graphics/er02jy03.053.gif)(58) Hawaii 15—*Cyanea hamatiflora* ssp. *carlsonii*—c (1,045 ha, 2,583 ac)
+![](/graphics/er02jy03.053.gif)(72) Hawaii 15—*Cyanea hamatiflora* ssp. *carlsonii*—c (1,045 ha, 2,583 ac)
 
 (i) [Reserved]
 
 (ii) Map 58 follows:
 
-![](/graphics/er02jy03.054.gif)(59) Hawaii 15—*Cyanea stictophylla*—a (685 ha, 1,693 ac)
+![](/graphics/er02jy03.054.gif)(73) Hawaii 15—*Cyanea stictophylla*—a (685 ha, 1,693 ac)
 
 (i) [Reserved]
 
 (ii) Map 59 follows:
 
-![](/graphics/er02jy03.055.gif)(60) Hawaii 16—*Cyanea hamatiflora* ssp. *carlsonii*—d (186 ha, 459 ac)
+![](/graphics/er02jy03.055.gif)(74) Hawaii 16—*Cyanea hamatiflora* ssp. *carlsonii*—d (186 ha, 459 ac)
 
 (i) [Reserved]
 
 (ii) Map 60 follows:
 
-![](/graphics/er02jy03.056.gif)(61) Hawaii 16—*Cyanea stictophylla*—b (327 ha, 809 ac)
+![](/graphics/er02jy03.056.gif)(75) Hawaii 16—*Cyanea stictophylla*—b (327 ha, 809 ac)
 
 (i) [Reserved]
 
 (ii) Map 61 follows:
 
-![](/graphics/er02jy03.057.gif)(62) Hawaii 17—*Asplenium dielerectum*—a (329 ha, 814 ac)
+![](/graphics/er02jy03.057.gif)(76) Hawaii 17—*Asplenium dielerectum*—a (329 ha, 814 ac)
 
 (i) [Reserved]
 
 (ii) Map 62 follows:
 
-![](/graphics/er30mr16.112.gif)(63) Hawaii 17—*Flueggea neowawraea*—a (327 ha, 807 ac)
+![](/graphics/er30mr16.112.gif)(77) Hawaii 17—*Flueggea neowawraea*—a (327 ha, 807 ac)
 
 (i) [Reserved]
 
 (ii) Map 63 follows:
 
-![](/graphics/er02jy03.059.gif)(64) Hawaii 18—*Colubrina oppositifolia*—b (2,717 ha, 6,713 ac)
+![](/graphics/er02jy03.059.gif)(78) Hawaii 18—*Colubrina oppositifolia*—b (2,717 ha, 6,713 ac)
 
 (i) [Reserved]
 
 (ii) Map 64 follows:
 
-![](/graphics/er02jy03.060.gif)(65) Hawaii 18—*Asplenium dielerectum*—b (1,615 ha, 3,992 ac)
+![](/graphics/er02jy03.060.gif)
+
+(79) Hawaii 15-*Cyanea marksii*-a-Section 4 (182 ac; 73 ha).
+
+(i) This unit is also critical habitat for Hawaii 15-*Phyllostegia floribunda*-d-Section 4, Hawaii 15-*Pittosporum hawaiiense*-d-Section 4, Hawaii 15-*Schiedea diffusa* ssp. *macraei*-d-Section 4, and Hawaii 15-*Stenogyne cranwelliae*-d-Section 4 (see paragraphs (k)(82), (k)(84), (k)(86), and (k)(88), respectively, of this section).
+
+(ii) Map 58a follows:
+
+Figure 60 to paragraph (k)Map 58aHawaii 15-*Cyanea marksii*-a-Section 4, Hawaii 15-*Cyanea marksii*-b-Section 5, Hawaii 15-*Phyllostegia floribunda*-d-Section 4, Hawaii 15-*Phyllostegia floribunda*-e-Section 5, Hawaii 15-*Pittosporum hawaiiense*-d-Section 4, Hawaii 15-*Pittosporum hawaiiense*-e-Section 5, Hawaii 15-*Schiedea diffusa* ssp. *macraei*-d-Section 4, Hawaii 15-*Schiedea diffusa* ssp. *macraei*-e-Section 5, Hawaii 15-*Stenogyne cranwelliae*-d-Section 4, Hawaii 15-*Stenogyne cranwelliae*-e-Section 5![](/graphics/er12mr24.015.gif)
+
+(80) Hawaii 15-*Cyanea marksii*-b-Section 5 (127 ac; 51 ha).
+
+(i) This unit is also critical habitat for Hawaii 15-*Phyllostegia floribunda*-e-Section 5, Hawaii 15-*Pittosporum hawaiiense*-e-Section 5, Hawaii 15-*Schiedea diffusa* ssp. *macraei*-e-Section 5, and Hawaii 15-*Stenogyne cranwelliae*-e-Section 5 (see paragraphs (k)(83), (k)(85), (k)(87), and (k)(89), respectively, of this section).
+
+(ii) See paragraph (k)(79)(ii) of this section for the map of this unit.
+
+(81) Hawaii 18—*Asplenium dielerectum*—b (1,615 ha, 3,992 ac)
 
 (i) [Reserved]
 
 (ii) Map 65 follows:
 
-![](/graphics/er30mr16.113.gif)(66) Hawaii 18—*Flueggea neowawraea*—b (1,148 ha, 2,838 ac)
+![](/graphics/er30mr16.113.gif)
 
-(i) [Reserved]
+(82) Hawaii 15-*Phyllostegia floribunda*-d-Section 4 (182 ac; 73 ha). See paragraph (k)(79)(ii) of this section for the map of this unit.
 
-(ii) Map 66 follows:
+(83) Hawaii 15-*Phyllostegia floribunda*-e-Section 5 (127 ac; 51 ha). See paragraph (k)(79)(ii) of this section for the map of this unit.
 
-![](/graphics/er02jy03.062.gif)(67) Hawaii 18—*Gouania vitifolia*—a (1,785 ha, 4,412 ac)
+(84) Hawaii 15-*Pittosporum hawaiiense*-d-Section 4 (182 ac; 73 ha). See paragraph (k)(79)(ii) of this section for the map of this unit.
 
-(i) [Reserved]
+(85) Hawaii 15-*Pittosporum hawaiiense*-e-Section 5 (127 ac; 51 ha). See paragraph (k)(79)(ii) of this section for the map of this unit.
 
-(ii) Map 67 follows:
+(86) Hawaii 15-*Schiedea diffusa* ssp. *macraei*-d-Section 4 (182 ac; 73 ha). See paragraph (k)(79)(ii) of this section for the map of this unit.
 
-![](/graphics/er02jy03.063.gif)(68) Hawaii 18—*Neraudia ovata—*d (1,134 ha, 2,801 ac)
+(87) Hawaii 15-*Schiedea diffusa* ssp. *macraei*-e-Section 5 (127 ac; 51 ha). See paragraph (k)(79)(ii) of this section for the map of this unit.
 
-(i) [Reserved]
+(88) Hawaii 15-*Stenogyne cranwelliae*-d-Section 4 (182 ac; 73 ha). See paragraph (k)(79)(ii) of this section for the map of this unit.
 
-(ii) Map 68 follows:
+(89) Hawaii 15-*Stenogyne cranwelliae*-e-Section 5 (127 ac; 51 ha). See paragraph (k)(79)(ii) of this section for the map of this unit.
 
-![](/graphics/er02jy03.064.gif)(69) Hawaii 18—*Dracaena konaensis*—c(1,997 ha, 4,934 ac)
-
-(i) [Reserved]
-
-(ii) *Note:* The reference to “Hawaii 18—*Pleomele hawaiiensis*—c” on the map is equivalent to “Hawaii 18—*Dracaena konaensis*—c”. Map 69 follows:
-
-![](/graphics/er02jy03.065.gif)(70) Hawaii 19—*Cyperus fauriei*—a (127 ha, 313 ac)
-
-(i) [Reserved]
-
-(ii) Map 70 follows:
-
-![](/graphics/er30mr16.114.gif)(71) Hawaii 20—*Sesbania tomentosa*—a (486 ha, 1,201 ac)
-
-(i) [Reserved]
-
-(ii) Map 71 follows:
-
-![](/graphics/er02jy03.067.gif)(72) Hawaii 21—*Ischaemum byrone*—a (206 ha, 510 ac)
-
-(i) [Reserved]
-
-(ii) Map 72 follows:
-
-![](/graphics/er02jy03.068.gif)(73) Hawaii 22—*Ischaemum byrone*—b (159 ha, 393 ac)
-
-(i) [Reserved]
-
-(ii) Map 73 follows:
-
-![](/graphics/er02jy03.069.gif)(74) Hawaii 23—*Dracaena konaensis*—d (8,943 ha, 22,097 ac)
+(90) Hawaii 23—*Dracaena konaensis*—d (8,943 ha, 22,097 ac)
 
 (i) [Reserved]
 
 (ii) *Note:* The reference to “Hawaii 23—*Pleomele hawaiiensis*—d” on the map is equivalent to “Hawaii 23—*Dracaena konaensis*—d”. Map 74 follows:
 
-![](/graphics/er02jy03.070.gif)(75) Hawaii 23—*Sesbania tomentosa*—b (803 ha, 1,984 ac)
+![](/graphics/er02jy03.070.gif)
 
-(i) [Reserved]
+(91) Hawaii 16-*Cyanea marksii*-c (156 ac; 63 ha).
 
-(ii) Map 75 follows:
+(i) This unit is also critical habitat for Hawaii 16-*Phyllostegia floribunda*-f, Hawaii 16-*Pittosporum hawaiiense*-f, Hawaii 16-*Schiedea diffusa* ssp. *macraei*-f, and Hawaii 16-*Stenogyne cranwelliae*-f (see paragraphs (k)(93), (k)(94), (k)(95), and (k)(96), respectively, of this section).
 
-![](/graphics/er02jy03.071.gif)(76) Hawaii 24—*Argyroxiphium kauense*—b (7,795 ha, 19,261 ac)
+(ii) Map 60a follows:
+
+Figure 63 to paragraph (k)Map 60aHawaii 16-*Cyanea marksii*-c, Hawaii 16-*Phyllostegia floribunda*-f, Hawaii 16-*Pittosporum hawaiiense*-f, Hawaii 16-*Schiedea diffusa* ssp. *macraei*-f, Hawaii 16-*Stenogyne cranwelliae*-f![](/graphics/er12mr24.016.gif)(92) Hawaii 24—*Argyroxiphium kauense*—b (7,795 ha, 19,261 ac)
 
 (i) [Reserved]
 
 (ii) Map 76 follows:
 
-![](/graphics/er02jy03.072.gif)(77) Hawaii 24— *Asplenium peruvianum* var. *insulare*—a (907 ha, 2,241 ac)
+![](/graphics/er02jy03.072.gif)
 
-(i) [Reserved]
+(93) Hawaii 16-*Phyllostegia floribunda*-f (156 ac; 63 ha). See paragraph (k)(91)(ii) of this section for the map of this unit.
 
-(ii) Map 77 follows:
+(94) Hawaii 16-*Pittosporum hawaiiense*-f (156 ac; 63 ha). See paragraph (k)(91)(ii) of this section for the map of this unit.
 
-![](/graphics/er30mr16.115.gif)(78) Hawaii 24—*Cyanea stictophylla*—c (584 ha, 1,443 ac)
+(95) Hawaii 16-*Schiedea diffusa* ssp. *macraei*-f (156 ac; 63 ha). See paragraph (k)(91)(ii) of this section for the map of this unit.
 
-(i) [Reserved]
+(96) Hawaii 16-*Stenogyne cranwelliae*-f (156 ac; 63 ha). See paragraph (k)(91)(ii) of this section for the map of this unit.
 
-(ii) Map 78 follows:
-
-![](/graphics/er02jy03.074.gif)(79) Hawaii 24—*Melicope zahlbruckneri*—a (434 ha, 1,072 ac)
-
-(i) [Reserved]
-
-(ii) Map 79 follows:
-
-![](/graphics/er02jy03.075.gif)(80) Hawaii 24—*Phyllostegia velutina*—a (2,466 ha, 6,093 ac)
-
-(i) [Reserved]
-
-(ii) Map 80 follows:
-
-![](/graphics/er02jy03.076.gif)(81) Hawaii 24—*Plantago hawaiensis*—a (1,348 ha, 3,330 ac)
+(97) Hawaii 24—*Plantago hawaiensis*—a (1,348 ha, 3,330 ac)
 
 (i) [Reserved]
 
 (ii) Map 81 follows:
 
-![](/graphics/er02jy03.077.gif)(82) Hawaii 25—*Argyroxiphium kauense*—c (2,006 ha, 4,957 ac)
+![](/graphics/er02jy03.077.gif)(98) Hawaii 25—*Argyroxiphium kauense*—c (2,006 ha, 4,957 ac)
 
 (i) [Reserved]
 
 (ii) Map 82 follows:
 
-![](/graphics/er02jy03.078.gif)(83) Hawaii 25—*Plantago hawaiensis*—b (1,522 ha, 3,762 ac)
+![](/graphics/er02jy03.078.gif)(99) Hawaii 25—*Plantago hawaiensis*—b (1,522 ha, 3,762 ac)
 
 (i) [Reserved]
 
 (ii) Map 83 follows:
 
-![](/graphics/er02jy03.079.gif)(84) Hawaii 25—*Silene hawaiiensis*—a (854 ha, 2,110 ac)
+![](/graphics/er02jy03.079.gif)(100) Hawaii 25—*Silene hawaiiensis*—a (854 ha, 2,110 ac)
 
 (i) [Reserved]
 
 (ii) Map 84 follows:
 
-![](/graphics/er02jy03.080.gif)(85) Hawaii 26—*Hibiscadelphus giffardianus*—a (149 ha, 367 ac)
+![](/graphics/er02jy03.080.gif)(101) Hawaii 26—*Hibiscadelphus giffardianus*—a (149 ha, 367 ac)
 
 (i) [Reserved]
 
 (ii) Map 85 follows:
 
-![](/graphics/er02jy03.081.gif)(86) Hawaii 26—*Melicope zahlbruckneri*—b (495 ha, 1,224 ac)
+![](/graphics/er02jy03.081.gif)(102) Hawaii 26—*Melicope zahlbruckneri*—b (495 ha, 1,224 ac)
 
 (i) [Reserved]
 
 (ii) Map 86 follows:
 
-![](/graphics/er02jy03.082.gif)(87) Hawaii 27—*Portulaca sclerocarpa*—a (4,390 ha, 10,848 ac)
+![](/graphics/er02jy03.082.gif)(103) Hawaii 27—*Portulaca sclerocarpa*—a (4,390 ha, 10,848 ac)
 
 (i) [Reserved]
 
 (ii) Map 87 follows:
 
-![](/graphics/er02jy03.083.gif)(88) Hawaii 27—*Silene hawaiiensis*—b (1,942 ha, 4,798 ac)
+![](/graphics/er02jy03.083.gif)(104) Hawaii 27—*Silene hawaiiensis*—b (1,942 ha, 4,798 ac)
 
 (i) [Reserved]
 
 (ii) Map 88 follows:
 
-![](/graphics/er02jy03.084.gif)(89) Hawaii 28—*Adenophorus periens*—a (2,733 ha, 6,754 ac)
+![](/graphics/er02jy03.084.gif)(105) Hawaii 28—*Adenophorus periens*—a (2,733 ha, 6,754 ac)
 
 (i) [Reserved]
 
 (ii) Map 89 follows:
 
-![](/graphics/er02jy03.085.gif)(90) Hawaii 29—*Clermontia peleana*—c (6,845 ha, 16,914 ac)
+![](/graphics/er02jy03.085.gif)(106) Hawaii 29—*Clermontia peleana*—c (6,845 ha, 16,914 ac)
 
 (i) [Reserved]
 
 (ii) Map 90 follows:
 
-![](/graphics/er02jy03.086.gif)(91) Hawaii 29—*Cyanea platyphylla*—b (1,524 ha, 3,767 ac)
+![](/graphics/er02jy03.086.gif)(107) Hawaii 29—*Cyanea platyphylla*—b (1,524 ha, 3,767 ac)
 
 (i) [Reserved]
 
 (ii) Map 91 follows:
 
-![](/graphics/er02jy03.087.gif)(92) Hawaii 29—*Cyrtandra giffardii*—b (938 ha, 2,319 ac)
+![](/graphics/er02jy03.087.gif)(108) Hawaii 29—*Cyrtandra giffardii*—b (938 ha, 2,319 ac)
 
 (i) [Reserved]
 
 (ii) Map 92 follows:
 
-![](/graphics/er02jy03.088.gif)(93) Hawaii 29—*Cyrtandra tintinnabula*—b (378 ha, 934 ac)
+![](/graphics/er02jy03.088.gif)(109) Hawaii 29—*Cyrtandra tintinnabula*—b (378 ha, 934 ac)
 
 (i) [Reserved]
 
 (ii) Map 93 follows:
 
-![](/graphics/er02jy03.089.gif)(94) Hawaii 30—*Argyroxiphium kauense*—d (4,281 ha, 10,578 ac)
+![](/graphics/er02jy03.089.gif)
 
-(i) [Reserved]
+(110) Hawaii 23-*Phyllostegia floribunda*-g (9 ac; 4 ha).
 
-(ii) Map 94 follows:
+(i) This unit is also critical habitat for Hawaii 23-*Pittosporum hawaiiense*-g (see paragraph (k)(111) of this section).
 
-![](/graphics/er02jy03.090.gif)(95) Hawaii 30—*Clermontia lindseyana*—c (1,634 ha, 4,037 ac)
+(ii) Map 74a follows:
+
+Figure 78 to paragraph (k)Map 74aHawaii 23-*Phyllostegia floribunda*-g, Hawaii 23-*Pittosporum hawaiiense*-g![](/graphics/er12mr24.017.gif)
+
+(111) Hawaii 23-*Pittosporum hawaiiense*-g (9 ac; 4 ha). See paragraph (k)(110)(ii) of this section for the map of this unit.
+
+(111a) Hawaii 30—*Clermontia lindseyana*—c (1,634 ha, 4,037 ac)
 
 (i) [Reserved]
 
 (ii) Map 95 follows:
 
-![](/graphics/er02jy03.091.gif)(96) Hawaii 30—*Cyanea shipmanii*—b (62 ha, 152 ac)
+![](/graphics/er02jy03.091.gif)(112) Hawaii 30—*Cyanea shipmanii*—b (62 ha, 152 ac)
 
 (i) [Reserved]
 
 (ii) Map 96 follows:
 
-![](/graphics/er02jy03.092.gif)(97) Hawaii 30—*Cyanea shipmanii*—c (825 ha, 2,038 ac)
+![](/graphics/er02jy03.092.gif)(113) Hawaii 30—*Cyanea shipmanii*—c (825 ha, 2,038 ac)
 
 (i) [Reserved]
 
 (ii) *Note:* Map 97 follows:
 
-![](/graphics/er21au18.002.gif)(98) Hawaii 30—*Cyanea stictophylla*—d (623 ha, 1,539 ac)
+![](/graphics/er21au18.002.gif)(114) Hawaii 30—*Cyanea stictophylla*—d (623 ha, 1,539 ac)
 
 (i) [Reserved]
 
 (ii) Map 98 follows:
 
-![](/graphics/er02jy03.094.gif)(99) Hawaii 30—*Cyrtandra giffardii*—c (3,872 ha, 9,567 ac)
+![](/graphics/er02jy03.094.gif)(115) Hawaii 30—*Cyrtandra giffardii*—c (3,872 ha, 9,567 ac)
 
 (i) [Reserved]
 
 (ii) Map 99 follows:
 
-![](/graphics/er02jy03.095.gif)(100) Hawaii 30—*Phyllostegia racemosa*—c (267 ha, 659 ac).
+![](/graphics/er02jy03.095.gif)(116) Hawaii 24-*Cyanea tritomantha*-d-Section 8 (1,956 ac; 792 ha).
 
-(i) [Reserved]
+(i) This unit is also critical habitat for Hawaii 24-*Pittosporum hawaiiense*-h-Section 8, Hawaii 24-*Schiedea diffusa* ssp. *macraei*-g-Section 8, and Hawaii 24-*Stenogyne cranwelliae*-g-Section 8 (see paragraphs (k)(119), (k)(122), and (k)(124), respectively, of this section).
 
-(ii) *Note:* Map 100 follows:
+(ii) Map 78a follows:
 
-![](/graphics/er21au18.003.gif)(101) Hawaii 30—*Phyllostegia velutina*—b (1,180 ha, 2,916 ac).
+Figure 83 to paragraph (k)Map 78aHawaii 24-*Cyanea tritomantha*-d-Section 8, Hawaii 24-*Pittosporum hawaiiense*-h-Section 8, Hawaii 24-*Pittosporum hawaiiense*-i-Section 9, Hawaii 24-*Schiedea diffusa* ssp. *macraei*-g-Section 8, Hawaii 24-*Schiedea diffusa* ssp. *macraei*-h-Section 9, Hawaii 24-*Stenogyne cranwelliae*-g-Section 8, Hawaii 24-*Stenogyne cranwelliae*-h-Section 9![](/graphics/er12mr24.018.gif)(117) Hawaii 30—*Phyllostegia velutina*—b (1,180 ha, 2,916 ac).
 
 (i) [Reserved]
 
 (ii) *Note:* Map 101 follows:
 
-![](/graphics/er21au18.004.gif)(102) Hawaii 30—*Plantago hawaiensis*—c (1,219 ha, 3,012 ac).
+![](/graphics/er21au18.004.gif)(118) Hawaii 30—*Plantago hawaiensis*—c (1,219 ha, 3,012 ac).
 
 (i) [Reserved]
 
 (ii) *Note:* Map 102 follows:
 
-![](/graphics/er21au18.005.gif)(103) Hawaii 30—*Sicyos alba*—a (6,266 ha, 15,483 ac)
+![](/graphics/er21au18.005.gif)
 
-(i) [Reserved]
+(119) Hawaii 24-*Pittosporum hawaiiense*-h-Section 8 (1,956 ac; 792 ha). See paragraph (k)(116)(ii) of this section for the map of this unit.
 
-(ii) Map 103 follows:
+(120) Hawaii 24-*Pittosporum hawaiiense*-i-Section 9 (101 ac; 41 ha).
 
-![](/graphics/er02jy03.099.gif)
+(i) This unit is also critical habitat for Hawaii 24-*Schiedea diffusa* ssp. *macraei*-h-Section 9 and Hawaii 24-*Stenogyne cranwelliae*-h-Section 9 (see paragraphs (k)(123) and (k)(125), respectively, of this section).
 
-(104) Hawaii 31—*Bidens micrantha* ssp. *ctenophylla*—b (2,860 ha; 7,066 ac).
+(ii) See paragraph (k)(116)(ii) of this section for the map of this unit.
 
-(i) This unit is also critical habitat for Hawaii 31—*Isodendrion pyrifolium*—b and Hawaii 31—*Mezoneuron kavaiense*—b (see paragraphs (k)(105) and (106), respectively, of this section).
+(121) Hawaii 31—*Isodendrion pyrifolium*—b (2,860 ha; 7,066 ac). See paragraph (k)(104)(ii) of this section for the map of this unit.
 
-(ii) *Note:* Map 104 follows:
+(122) Hawaii 24-*Schiedea diffusa* ssp. *macraei*-g-Section 8 (1,956 ac; 792 ha). See paragraph (k)(116)(ii) of this section for the map of this unit.
 
-![](/graphics/er21au18.006.gif)
+(123) Hawaii 24-*Schiedea diffusa* ssp. *macraei*-h-Section 9 (101 ac; 41 ha). See paragraph (k)(116)(ii) of this section for the map of this unit.
 
-(105) Hawaii 31—*Isodendrion pyrifolium*—b (2,860 ha; 7,066 ac). See paragraph (k)(104)(ii) of this section for the map of this unit.
+(124) Hawaii 24-*Stenogyne cranwelliae*-g-Section 8 (1,956 ac; 792 ha). See paragraph (k)(116)(ii) of this section for the map of this unit.
 
-(106) Hawaii 31—*Mezoneuron kavaiense*—b (2,860 ha; 7,066 ac). See paragraph (k)(104)(ii) of this section for the map of this unit.
+(125) Hawaii 24-*Stenogyne cranwelliae*-h-Section 9 (101 ac; 41 ha). See paragraph (k)(116)(ii) of this section for the map of this unit.
 
-(107) Hawaii 33—*Bidens micrantha* ssp. *ctenophylla*—d (400 ha; 989 ac).
-
-(i) This unit is also critical habitat for Hawaii 33-*Isodendrion pyrifolium*—d and Hawaii 33—*Mezoneuron kavaiense*—d (see paragraphs (k)(108) and (109), respectively, of this section).
-
-(ii) *Note:* Map 105 follows:
-
-![](/graphics/er21au18.007.gif)
-
-(108) Hawaii 33—*Isodendrion pyrifolium*—d (400 ha; 989 ac). See paragraph (k)(107)(ii) of this section for the map of this unit.
-
-(109) Hawaii 33—*Mezoneuron kavaiense*—d (400 ha; 989 ac). See paragraph (k)(107)(ii) of this section for the map of this unit.
-
-(110) Hawaii 34—*Bidens micrantha* ssp. *ctenophylla*—e (371 ha; 917 ac).
+(126) Hawaii 34—*Bidens micrantha* ssp. *ctenophylla*—e (371 ha; 917 ac).
 
 (i) This unit is also critical habitat for Hawaii 34—*Isodendrion pyrifolium*—e and Hawaii 34—*Mezoneuron kavaiense*— e (see paragraphs (k)(111) and (112), respectively, of this section).
 
 (ii) See paragraph (k)(107)(ii) of this section for the map of this unit.
 
-(111) Hawaii 34—*Isodendrion pyrifolium*—e (371 ha; 917 ac). See paragraph (k)(107)(ii) of this section for the map of this unit.
+(127) Hawaii 34—*Isodendrion pyrifolium*—e (371 ha; 917 ac). See paragraph (k)(107)(ii) of this section for the map of this unit.
 
-(112) Hawaii 34—*Mezoneuron kavaiense*—e (371 ha; 917 ac). See paragraph (k)(107)(ii) of this section for the map of this unit.
+(128) Hawaii 34—*Mezoneuron kavaiense*—e (371 ha; 917 ac). See paragraph (k)(107)(ii) of this section for the map of this unit.
 
-(113) Hawaii 36—*Bidens micrantha* ssp. *ctenophylla*—g (163 ha; 402 ac).
+(129) Hawaii 36—*Bidens micrantha* ssp. *ctenophylla*—g (163 ha; 402 ac).
 
 (i) This unit is also critical habitat for Hawaii 36—*Isodendrion pyrifolium*—g (see paragraph (k)(114) of this section).
 
 (ii) See paragraph (k)(107)(ii) of this section for the map of this unit.
 
-(114) Hawaii 36—*Isodendrion pyrifolium*—g (163 ha; 402 ac). See paragraph (k)(107)(ii) of this section for the map of this unit.
+(130) Hawaii 36—*Isodendrion pyrifolium*—g (163 ha; 402 ac). See paragraph (k)(107)(ii) of this section for the map of this unit.
 
-(115) Table of Protected Species Within Each Critical Habitat Unit for the Island of Hawaii.
+(131) - (133) [Reserved]
 
-|                    Unit name                    |          Species occupied           |          Species unoccupied          |
-|-------------------------------------------------|-------------------------------------|--------------------------------------|
-|        Hawaii 1—Clermontia lindseyana—a         |        Clermontia lindseyana        |        Clermontia lindseyana.        |
-|          Hawaii 1—Clermontia peleana—a          |         Clermontia peleana          |         Clermontia peleana.          |
-|         Hawaii 1—Clermontia pyrularia—a         |                                     |        Clermontia pyrularia.         |
-|           Hawaii 1—Cyanea shipmanii—a           |          Cyanea shipmanii           |          Cyanea shipmanii.           |
-|        Hawaii 1—Phyllostegia racemosa—a         |        Phyllostegia racemosa        |        Phyllostegia racemosa.        |
-|        Hawaii 2—Clermontia lindseyana—b         |        Clermontia lindseyana        |        Clermontia lindseyana.        |
-|         Hawaii 2—Clermontia pyrularia—b         |        Clermontia pyrularia         |        Clermontia pyrularia.         |
-|        Hawaii 2—Phyllostegia racemosa—b         |        Phyllostegia racemosa        |        Phyllostegia racemosa.        |
-|          Hawaii 3—Clermontia peleana—b          |         Clermontia peleana          |         Clermontia peleana.          |
-|          Hawaii 3—Cyanea platyphylla—a          |         Cyanea platyphylla          |         Cyanea platyphylla.          |
-|         Hawaii 3—Cyrtandra giffardii—a          |         Cyrtandra giffardii         |         Cyrtandra giffardii.         |
-|        Hawaii 3—Cyrtandra tintinnabula—a        |       Cyrtandra tintinnabula        |       Cyrtandra tintinnabula.        |
-|       Hawaii 3—Phyllostegia warshaueri—a        |       Phyllostegia warshaueri       |       Phyllostegia warshaueri.       |
-|         Hawaii 4—Isodendrion hosakae—a          |                                     |         Isodendrion hosakae.         |
-|         Hawaii 4—Isodendrion hosakae—b          |                                     |         Isodendrion hosakae.         |
-|         Hawaii 4—Isodendrion hosakae—c          |                                     |         Isodendrion hosakae.         |
-|         Hawaii 4—Isodendrion hosakae—d          |                                     |         Isodendrion hosakae.         |
-|         Hawaii 4—Isodendrion hosakae—e          |                                     |         Isodendrion hosakae.         |
-|         Hawaii 4—Isodendrion hosakae—f          |         Isodendrion hosakae         |         Isodendrion hosakae.         |
-|          Hawaii 4—Vigna o-wahuensis—a           |                                     |          Vigna o-wahuensis.          |
-|          Hawaii 4—Vigna o-wahuensis—b           |                                     |          Vigna o-wahuensis.          |
-|          Hawaii 4—Vigna o-wahuensis—c           |                                     |          Vigna o-wahuensis.          |
-|       Hawaii 5—Nothocestrum breviflorum—a       |                                     |      Nothocestrum breviflorum.       |
-|       Hawaii 6—Nothocestrum breviflorum—b       |      Nothocestrum breviflorum       |      Nothocestrum breviflorum.       |
-|          Hawaii 7—Dracaena konaensis—a          |         Dracaena konaensis          |         Dracaena konaensis.          |
-|       Hawaii 8—Clermontia drepanomorpha—a       |      Clermontia drepanomorpha       |      Clermontia drepanomorpha.       |
-|       Hawaii 8—Phyllostegia warshaueri—b        |       Phyllostegia warshaueri       |       Phyllostegia warshaueri.       |
-|          Hawaii 9—Achyranthes mutica—a          |                                     |         Achyranthes mutica.          |
-|          Hawaii 9—Achyranthes mutica—b          |         Achyranthes mutica          |         Achyranthes mutica.          |
-|          Hawaii 9—Achyranthes mutica—c          |                                     |         Achyranthes mutica.          |
-|          Hawaii 9—Achyranthes mutica—d          |                                     |         Achyranthes mutica.          |
-|          Hawaii 9—Achyranthes mutica—e          |                                     |         Achyranthes mutica.          |
-|          Hawaii 9—Achyranthes mutica—f          |                                     |         Achyranthes mutica.          |
-|          Hawaii 9—Achyranthes mutica—g          |                                     |         Achyranthes mutica.          |
-|          Hawaii 9—Achyranthes mutica—h          |                                     |         Achyranthes mutica.          |
-|          Hawaii 9—Achyranthes mutica—i          |                                     |         Achyranthes mutica.          |
-|          Hawaii 9—Achyranthes mutica—j          |                                     |         Achyranthes mutica.          |
-|        Hawaii 10—Argyroxiphium kauense—a        |                                     |        Argyroxiphium kauense.        |
-|  Hawaii 10—Bidens micrantha ssp. ctenophylla—a  |                                     |  Bidens micrantha ssp. ctenophylla.  |
-|          Hawaii 10—Bonamia menziesii—a          |                                     |          Bonamia menziesii.          |
-|       Hawaii 10—Colubrina oppositifolia—a       |       Colubrina oppositifolia       |       Colubrina oppositifolia.       |
-|          Hawaii 10—Delissea undulata—a          |                                     |          Delissea undulata.          |
-|          Hawaii 10—Delissea undulata—b          |          Delissea undulata          |          Delissea undulata.          |
-|         Hawaii 10—Dracaena konaensis—b          |         Dracaena konaensis          |         Dracaena konaensis.          |
-|    Hawaii 10—Hibiscadelphus hualalaiensis—a     |    Hibiscadelphus hualalaiensis     |    Hibiscadelphus hualalaiensis.     |
-|       Hawaii 10—Hibiscus brackenridgei—a        |       Hibiscus brackenridgei        |       Hibiscus brackenridgei.        |
-|       Hawaii 10—Isodendrion pyrifolium—a        |                                     |       Isodendrion pyrifolium.        |
-|        Hawaii 10—Mezoneuron kavaiense—a         |        Mezoneuron kavaiense         |        Mezoneuron kavaiense.         |
-|           Hawaii 10—Neraudia ovata—a            |                                     |           Neraudia ovata.            |
-|      Hawaii 10—Nothocestrum breviflorum—c       |      Nothocestrum breviflorum       |      Nothocestrum breviflorum.       |
-|         Hawaii 10—Solanum incompletum—a         |                                     |         Solanum incompletum.         |
-|Hawaii 10—Zanthoxylum dipetalum ssp. tomentosum—a|Zanthoxylum dipetalum ssp. tomentosum|Zanthoxylum dipetalum ssp. tomentosum.|
-|  Hawaii 11—Cyanea hamatiflora ssp. carlsonii—a  |  Cyanea hamatiflora ssp. carlsonii  |  Cyanea hamatiflora ssp. carlsonii.  |
-|         Hawaii 11—Solanum incompletum—b         |                                     |         Solanum incompletum.         |
-|  Hawaii 14—Cyanea hamatiflora ssp. carlsonii—b  |                                     |  Cyanea hamatiflora ssp. carlsonii.  |
-|  Hawaii 15—Cyanea hamatiflora ssp. carlsonii—c  |                                     |  Cyanea hamatiflora ssp. carlsonii.  |
-|         Hawaii 15—Cyanea stictophylla—a         |         Cyanea stictophylla         |         Cyanea stictophylla.         |
-|  Hawaii 16—Cyanea hamatiflora ssp. carlsonii—d  |  Cyanea hamatiflora ssp. carlsonii  |  Cyanea hamatiflora ssp. carlsonii.  |
-|         Hawaii 16—Cyanea stictophylla—b         |         Cyanea stictophylla         |         Cyanea stictophylla.         |
-|        Hawaii 17—Asplenium dielerectum—a        |        Asplenium dielerectum        |        Asplenium dielerectum.        |
-|         Hawaii 17—Flueggea neowawraea—a         |         Flueggea neowawraea         |         Flueggea neowawraea.         |
-|        Hawaii 18—Asplenium dielerectum—b        |        Asplenium dielerectum        |        Asplenium dielerectum.        |
-|       Hawaii 18—Colubrina oppositifolia—b       |       Colubrina oppositifolia       |       Colubrina oppositifolia.       |
-|         Hawaii 18—Dracaena konaensis—c          |         Dracaena konaensis          |         Dracaena konaensis.          |
-|         Hawaii 18—Flueggea neowawraea—b         |         Flueggea neowawraea         |         Flueggea neowawraea.         |
-|          Hawaii 18—Gouania vitifolia—a          |          Gouania vitifolia          |          Gouania vitifolia.          |
-|           Hawaii 18—Neraudia ovata—d            |           Neraudia ovata            |           Neraudia ovata.            |
-|          Hawaii 19—Mariscus fauriei—a           |          Mariscus fauriei           |          Mariscus fauriei.           |
-|         Hawaii 20—Sesbania tomentosa—a          |         Sesbania tomentosa          |         Sesbania tomentosa.          |
-|          Hawaii 21—Ischaemum byrone—a           |                                     |          Ischaemum byrone.           |
-|          Hawaii 22—Ischaemum byrone—b           |          Ischaemum byrone           |          Ischaemum byrone.           |
-|         Hawaii 23—Dracaena konaensis—d          |         Dracaena konaensis          |         Dracaena konaensis.          |
-|         Hawaii 23—Sesbania tomentosa—b          |         Sesbania tomentosa          |         Sesbania tomentosa.          |
-|        Hawaii 24—Argyroxiphium kauense—b        |        Argyroxiphium kauense        |        Argyroxiphium kauense.        |
-|   Hawaii 24—Asplenium fragile var. insulare—a   |   Asplenium fragile var. insulare   |   Asplenium fragile var. insulare.   |
-|         Hawaii 24—Cyanea stictophylla—c         |                                     |         Cyanea stictophylla.         |
-|       Hawaii 24—Melicope zahlbruckneri—a        |                                     |       Melicope zahlbruckneri.        |
-|        Hawaii 24—Phyllostegia velutina—a        |        Phyllostegia velutina        |        Phyllostegia velutina.        |
-|         Hawaii 24—Plantago hawaiensis—a         |         Plantago hawaiensis         |         Plantago hawaiensis.         |
-|        Hawaii 25—Argyroxiphium kauense—c        |        Argyroxiphium kauense        |        Argyroxiphium kauense.        |
-|         Hawaii 25—Plantago hawaiensis—b         |         Plantago hawaiensis         |         Plantago hawaiensis.         |
-|         Hawaii 25—Silene hawaiiensis—a          |         Silene hawaiiensis          |         Silene hawaiiensis.          |
-|     Hawaii 26—Hibiscadelphus giffardianus—a     |     Hibiscadelphus giffardianus     |     Hibiscadelphus giffardianus.     |
-|       Hawaii 26—Melicope zahlbruckneri—b        |       Melicope zahlbruckneri        |       Melicope zahlbruckneri.        |
-|        Hawaii 27—Portulaca sclerocarpa—a        |        Portulaca sclerocarpa        |        Portulaca sclerocarpa.        |
-|         Hawaii 27—Silene hawaiiensis—b          |         Silene hawaiiensis          |         Silene hawaiiensis.          |
-|         Hawaii 28—Adenophorus periens—a         |         Adenophorus periens         |         Adenophorus periens.         |
-|         Hawaii 29—Clermontia peleana—c          |         Clermontia peleana          |         Clermontia peleana.          |
-|         Hawaii 29—Cyanea platyphylla—b          |         Cyanea platyphylla          |         Cyanea platyphylla.          |
-|         Hawaii 29—Cyrtandra giffardii—b         |                                     |         Cyrtandra giffardii.         |
-|       Hawaii 29—Cyrtandra tintinnabula—b        |                                     |       Cyrtandra tintinnabula.        |
-|        Hawaii 30—Argyroxiphium kauense—d        |        Argyroxiphium kauense        |        Argyroxiphium kauense.        |
-|        Hawaii 30—Clermontia lindseyana—c        |        Clermontia lindseyana        |        Clermontia lindseyana.        |
-|          Hawaii 30—Cyanea shipmanii—b           |          Cyanea shipmanii           |          Cyanea shipmanii.           |
-|          Hawaii 30—Cyanea shipmanii—c           |                                     |          Cyanea shipmanii.           |
-|         Hawaii 30—Cyanea stictophylla—d         |                                     |         Cyanea stictophylla.         |
-|         Hawaii 30—Cyrtandra giffardii—c         |         Cyrtandra giffardii         |         Cyrtandra giffardii.         |
-|        Hawaii 30—Phyllostegia racemosa—c        |                                     |        Phyllostegia racemosa.        |
-|        Hawaii 30—Phyllostegia velutina—b        |        Phyllostegia velutina        |        Phyllostegia velutina.        |
-|         Hawaii 30—Plantago hawaiensis—c         |         Plantago hawaiensis         |         Plantago hawaiensis.         |
-|             Hawaii 30—Sicyos alba—a             |             Sicyos alba             |             Sicyos alba.             |
-|  Hawaii 31—Bidens micrantha ssp. ctenophylla—b  |                                     |  Bidens micrantha ssp. ctenophylla.  |
-|       Hawaii 31—Isodendrion pyrifolium—b        |                                     |       Isodendrion pyrifolium.        |
-|        Hawaii 31—Mezoneuron kavaiense—b         |        Mezoneuron kavaiense         |        Mezoneuron kavaiense.         |
-|  Hawaii 33—Bidens micrantha ssp. ctenophylla—d  |                                     |  Bidens micrantha ssp. ctenophylla.  |
-|       Hawaii 33—Isodendrion pyrifolium—d        |                                     |       Isodendrion pyrifolium.        |
-|        Hawaii 33—Mezoneuron kavaiense—d         |                                     |        Mezoneuron kavaiense.         |
-|  Hawaii 34—Bidens micrantha ssp. ctenophylla—e  |                                     |  Bidens micrantha ssp. ctenophylla.  |
-|       Hawaii 34—Isodendrion pyrifolium—e        |                                     |       Isodendrion pyrifolium.        |
-|        Hawaii 34—Mezoneuron kavaiense—e         |                                     |        Mezoneuron kavaiense.         |
-|  Hawaii 36—Bidens micrantha ssp. ctenophylla—g  |  Bidens micrantha ssp. ctenophylla  |  Bidens micrantha ssp. ctenophylla.  |
-|       Hawaii 36—-Isodendrion pyrifolium—g       |                                     |       Isodendrion pyrifolium.        |
+(134) Hawaii 28-*Cyrtandra nanawaleensis*-a (155 ac; 63 ha).
 
-(116) Critical habitat unit descriptions and maps, and a description of primary constituent elements, for Family Malvaceae: *Kokia drynariodes* on the island of Hawaii is provided in 50 CFR 17.96(a).
+(i) This unit is also critical habitat for Hawaii 28-*Phyllostegia floribunda*-h (see paragraph (k)(135) of this section).
 
-(l) *Plants on the island of Hawaii; Constituent elements*—(1) *Flowering plants.*
+(ii) Map 89a follows:
+
+Figure 95 to paragraph (k)Map 89aHawaii 28-*Cyrtandra nanawaleensis*-a, Hawaii 28-*Phyllostegia floribunda*-h![](/graphics/er12mr24.019.gif)
+
+(135) Hawaii 28-*Phyllostegia floribunda*-h (155 ac; 63 ha). See paragraph (k)(134)(ii) of this section for the map of this unit.
+
+(136)-(137) [Reserved]
+
+(138) Hawaii 29-*Cyanea tritomantha*-e (494 ac; 200 ha).
+
+(i) This unit is also critical habitat for Hawaii 29-*Phyllostegia floribunda*-i, Hawaii 29-*Pittosporum hawaiiense*-j, Hawaii 29-*Schiedea diffusa* ssp. *macraei*-i, and Hawaii 29-*Stenogyne cranwelliae*-i (see paragraphs (k)(141), (k)(142), (k)(143), and (k)(144), respectively, of this section).
+
+(ii) Map 91a follows:
+
+Figure 98 to paragraph (k)Map 91aHawaii 29-*Cyanea tritomantha*-e, Hawaii 29-*Phyllostegia floribunda*-i, Hawaii 29-*Pittosporum hawaiiense*-j, Hawaii 29-*Schiedea diffusa* ssp. *macraei*-i, Hawaii 29-*Stenogyne cranwelliae*-I![](/graphics/er12mr24.020.gif)
+
+(139)-(140) [Reserved]
+
+(141) Hawaii 29-*Phyllostegia floribunda*-i (494 ac; 200 ha). See paragraph (k)(138)(ii) of this section for the map of this unit.
+
+(142) Hawaii 29-*Pittosporum hawaiiense*-j (494 ac; 200 ha). See paragraph (k)(138)(ii) of this section for the map of this unit.
+
+(143) Hawaii 29-*Schiedea diffusa* ssp. *macraei*-i (494 ac; 200 ha). See paragraph (k)(138)(ii) of this section for the map of this unit.
+
+(144) Hawaii 29-*Stenogyne cranwelliae*-i (494 ac; 200 ha). See paragraph (k)(138)(ii) of this section for the map of this unit.
+
+(144)-(149) [Reserved]
+
+(150) Hawaii 30-*Cyanea tritomantha*-f (13,730 ac; 5,556 ha).
+
+(i) This unit is also critical habitat for Hawaii 30-*Phyllostegia floribunda*-j, Hawaii 30-*Pittosporum hawaiiense*-k, Hawaii 30-*Schiedea diffusa* ssp. *macraei*-j, and Hawaii 30-*Stenogyne cranwelliae*-j (see paragraphs (k)(152), (k)(155), (k)(157), and (k)(159), respectively, of this section).
+
+(ii) Map 98a follows:
+
+Figure 106 to paragraph (k)Map 98aHawaii 30-*Cyanea tritomantha*-f, Hawaii 30-*Phyllostegia floribunda*-j, Hawaii 30-*Pittosporum hawaiiense*-k, Hawaii 30-*Schiedea diffusa* ssp. *macraei*-j, Hawaii 30-*Stenogyne cranwelliae*-j![](/graphics/er12mr24.021.gif)
+
+(151)-(154) [Reserved]
+
+(155) Hawaii 30-*Pittosporum hawaiiense*-k (13,730 ac; 5,556 ha). See paragraph (k)(150)(ii) of this section for the map of this unit.
+
+(156) [Reserved]
+
+(157) Hawaii 30-*Schiedea diffusa* ssp. *macraei*-j (13,730 ac; 5,556 ha). See paragraph (k)(150)(ii) of this section for the map of this unit.
+
+(158) [Reserved]
+
+(159) Hawaii 30-*Stenogyne cranwelliae*-j (13,730 ac; 5,556 ha). See paragraph (k)(150)(ii) of this section for the map of this unit.
+
+(160) - (170) [Reserved]
+
+(171) Hawaii 37-*Cyanea marksii*-d (1,906 ac; 771 ha)
+
+(i) This unit is also critical habitat for Hawaii 37-*Phyllostegia floribunda*-k, Hawaii 37-*Pittosporum hawaiiense*-l, Hawaii 37-*Schiedea diffusa* ssp. *macraei*-k, and Hawaii 37-*Stenogyne cranwelliae*-k (see paragraphs (k)(172), (k)(173), (k)(174), and (k)(175), respectively, of this section).
+
+(ii) Map 106 follows:
+
+Figure 114 to paragraph (k)Map 106Hawaii 37-*Cyanea marksii*-d, Hawaii 37-*Phyllostegia floribunda*-k, Hawaii 37-*Pittosporum hawaiiense*-l, Hawaii 37-*Schiedea diffusa* ssp. *macraei*-k, Hawaii 37-*Stenogyne cranwelliae*-k![](/graphics/er12mr24.022.gif)
+
+(172) Hawaii 37-*Phyllostegia floribunda*-k (1,906 ac; 771 ha). See paragraph (k)(171)(ii) of this section for the map of this unit.
+
+(173) Hawaii 37-*Pittosporum hawaiiense*-l (1,906 ac; 771 ha). See paragraph (k)(171)(ii) of this section for the map of this unit.
+
+(174) Hawaii 37-*Schiedea diffusa* ssp. *macraei*-k (1,906 ac; 771 ha). See paragraph (k)(171)(ii) of this section for the map of this unit.
+
+(175) Hawaii 37-*Stenogyne cranwelliae*-k (1,906 ac; 771 ha). See paragraph (k)(171)(ii) of this section for the map of this unit.
+
+(176) Hawaii 38-*Cyanea marksii*-e (534 ac; 216 ha).
+
+(i) This unit is also critical habitat for Hawaii 38-*Phyllostegia floribunda*-l, Hawaii 38-*Pittosporum hawaiiense*-m, Hawaii 38-*Schiedea diffusa* ssp. *macraei*-l, and Hawaii 38-*Stenogyne cranwelliae*-l (see paragraphs (k)(177), (k)(178), (k)(179), and (k)(180), respectively, of this section).
+
+(ii) Map 107 follows:
+
+Figure 115 to paragraph (k)Map 107Hawaii 38-*Cyanea marksii*-e, Hawaii 38-*Phyllostegia floribunda*-l, Hawaii 38-*Pittosporum hawaiiense*-m, Hawaii 38-*Schiedea diffusa* ssp. *macraei*-l, Hawaii 38-*Stenogyne cranwelliae*-l![](/graphics/er12mr24.023.gif)
+
+(177) Hawaii 38-*Phyllostegia floribunda*-l (534 ac; 216 ha). See paragraph (k)(176)(ii) of this section for the map of this unit.
+
+(178) Hawaii 38-*Pittosporum hawaiiense*-m (534 ac; 216 ha). See paragraph (k)(176)(ii) of this section for the map of this unit.
+
+(179) Hawaii 38-*Schiedea diffusa* ssp. *macraei*-l (534 ac; 216 ha). See paragraph (k)(176)(ii) of this section for the map of this unit.
+
+(180) Hawaii 38-*Stenogyne cranwelliae*-l (534 ac; 216 ha). See paragraph (k)(176)(ii) of this section for the map of this unit.
+
+(181) Hawaii 39-*Cyanea marksii*-f (1,164 ac; 471 ha)
+
+(i) This unit is also critical habitat for Hawaii 39-*Phyllostegia floribunda*-m, Hawaii 39-*Pittosporum hawaiiense*-n, Hawaii 39-*Schiedea diffusa* ssp. *macraei*-m, and Hawaii 39-*Stenogyne cranwelliae*-m (see paragraphs (k)(182), (k)(183), (k)(184), and (k)(185), respectively, of this section).
+
+(ii) Map 108 follows:
+
+Figure 116 to paragraph (k)Map 108Hawaii 39-*Cyanea marksii*-f, Hawaii 39-*Phyllostegia floribunda*-m, Hawaii 39-*Pittosporum hawaiiense*-n, Hawaii 39-*Schiedea diffusa* ssp. *macraei*-m, Hawaii 39-*Stenogyne cranwelliae*-m![](/graphics/er12mr24.024.gif)
+
+(182) Hawaii 39-*Phyllostegia floribunda*-m (1,164 ac; 471 ha). See paragraph (k)(181)(ii) of this section for the map of this unit.
+
+(183) Hawaii 39-*Pittosporum hawaiiense*-n (1,164 ac; 471 ha). See paragraph (k)(181)(ii) of this section for the map of this unit.
+
+(184) Hawaii 39-*Schiedea diffusa* ssp. *macraei*-m (1,164 ac; 471 ha). See paragraph (k)(181)(ii) of this section for the map of this unit.
+
+(185) Hawaii 39-*Stenogyne cranwelliae*-m (1,164 ac; 471 ha). See paragraph (k)(181)(ii) of this section for the map of this unit.
+
+(186) Hawaii 40-*Cyanea marksii*-g (1,243 ac; 503 ha)
+
+(i) This unit is also critical habitat for Hawaii 40-*Phyllostegia floribunda*-n, Hawaii 40-*Pittosporum hawaiiense*-o, Hawaii 40-*Schiedea diffusa* ssp. *macraei*-n, and Hawaii 40-*Stenogyne cranwelliae*-n (see paragraphs (k)(187), (k)(188), (k)(189), and (k)(190), respectively, of this section).
+
+(ii) Map 109 follows:
+
+Figure 117 to paragraph (k)Map 109Hawaii 40-*Cyanea marksii*-g, Hawaii 40-*Phyllostegia floribunda*-n, Hawaii 40-*Pittosporum hawaiiense*-o, Hawaii 40-*Schiedea diffusa ssp. macraei*-n, Hawaii 40-*Stenogyne cranwelliae*-n![](/graphics/er12mr24.025.gif)
+
+(187) Hawaii 40-*Phyllostegia floribunda*-n (1,243 ac; 503 ha). See paragraph (k)(186)(ii) of this section for the map of this unit.
+
+(188) Hawaii 40-*Pittosporum hawaiiense*-o (1,243 ac; 503 ha). See paragraph (k)(186)(ii) of this section for the map of this unit.
+
+(189) Hawaii 40-*Schiedea diffusa* ssp. *macraei*-n (1,243 ac; 503 ha). See paragraph (k)(186)(ii) of this section for the map of this unit.
+
+(190) Hawaii 40-*Stenogyne cranwelliae*-n (1,243 ac; 503 ha). See paragraph (k)(186)(ii) of this section for the map of this unit.
+
+(191) Hawaii 41-*Cyanea marksii*-h (3,412 ac; 1,381 ha)
+
+(i) This unit is also critical habitat for Hawaii 41-*Phyllostegia floribunda*-o, Hawaii 41-*Pittosporum hawaiiense*-p, Hawaii 41-*Schiedea diffusa* ssp. *macraei*-o, and Hawaii 41-*Stenogyne cranwelliae*-o (see paragraphs (k)(192), (k)(193), (k)(194), and (k)(195), respectively, of this section).
+
+(ii) Map 110 follows:
+
+Figure 118 to paragraph (k)Map 110Hawaii 41-*Cyanea marksii*-h, Hawaii 41-*Phyllostegia floribunda*-o, Hawaii 41-*Pittosporum hawaiiense*-p, Hawaii 41-*Schiedea diffusa* ssp. *macraei*-o, Hawaii 41-*Stenogyne cranwelliae*-o![](/graphics/er12mr24.026.gif)
+
+(192) Hawaii 41-*Phyllostegia floribunda*-o (3,412 ac; 1,381 ha). See paragraph (k)(191)(ii) of this section for the map of this unit.
+
+(193) Hawaii 41-*Pittosporum hawaiiense*-p (3,412 ac; 1,381 ha). See paragraph (k)(191)(ii) of this section for the map of this unit.
+
+(194) Hawaii 41-*Schiedea diffusa* ssp. *macraei*-o (3,412 ac; 1,381 ha). See paragraph (k)(191)(ii) of this section for the map of this unit.
+
+(195) Hawaii 41-*Stenogyne cranwelliae*-o (3,412 ac; 1,381 ha). See paragraph (k)(191)(ii) of this section for the map of this unit.
+
+(196) Hawaii 42-*Cyanea tritomantha*-g (8,781 ac; 3,554 ha).
+
+(i) This unit is also critical habitat for Hawaii 42-*Phyllostegia floribunda*-p, Hawaii 42-*Pittosporum hawaiiense*-q, Hawaii 42-*Schiedea diffusa* ssp. *macraei*-p, and Hawaii 42-*Stenogyne cranwelliae*-p (see paragraphs (k)(197), (k)(198), (k)(199), and (k)(200), respectively, of this section).
+
+(ii) Map 111 follows:
+
+Figure 119 to paragraph (k)Map 111 Hawaii 42-Cyanea tritomantha-g, Hawaii 42-Phyllostegia floribunda-p, Hawaii 42-Pittosporum hawaiiense-q, Hawaii 42-Schiedea diffusa ssp. macraei-p, Hawaii 42-Stenogyne cranwelliae-p![](/graphics/er12mr24.027.gif)
+
+(197) Hawaii 42-*Phyllostegia floribunda*-p (8,781 ac; 3,554 ha). See paragraph (k)(196)(ii) of this section for the map of this unit.
+
+(198) Hawaii 42-*Pittosporum hawaiiense*-q (8,781 ac; 3,554 ha). See paragraph (k)(196)(ii) of this section for the map of this unit.
+
+(199) Hawaii 42-*Schiedea diffusa* ssp. *macraei*-p (8,781 ac; 3,554 ha). See paragraph (k)(196)(ii) of this section for the map of this unit.
+
+(200) Hawaii 42-*Stenogyne cranwelliae*-p (8,781 ac; 3,554 ha). See paragraph (k)(196)(ii) of this section for the map of this unit.
+
+(201) Hawaii 43-*Pittosporum hawaiiense*-r (5,872 ac; 2,376 ha).
+
+(i) This unit is also critical habitat for Hawaii 43-*Schiedea diffusa* ssp. *macraei*-q and Hawaii 43-*Stenogyne cranwelliae*-q (see paragraphs (k)(202) and (k)(203), respectively, of this section).
+
+(ii) Map 112 follows:
+
+Figure 120 to paragraph (k)Map 112Hawaii 43-*Pittosporum hawaiiense*-r, Hawaii 43-*Schiedea diffusa* ssp. *macraei*-q, Hawaii 43-*Stenogyne cranwelliae*-q![](/graphics/er12mr24.028.gif)
+
+(202) Hawaii 43-*Schiedea diffusa* ssp. *macraei*-q (5,872 ac; 2,376 ha). See paragraph (k)(201)(ii) of this section for the map of this unit.
+
+(203) Hawaii 43-*Stenogyne cranwelliae*-q (5,872 ac; 2,376 ha). See paragraph (k)(201)(ii) of this section for the map of this unit.
+
+(204) Hawaii 44-*Cyanea tritomantha*-h (5,884 ac; 2,381 ha).
+
+(i) This unit is also critical habitat for Hawaii 44-*Pittosporum hawaiiense*-s, Hawaii 44-*Schiedea diffusa* ssp. *macraei*-r, and Hawaii 44-*Stenogyne cranwelliae*-r (see paragraphs (k)(205), (k)(206), and (k)(207), respectively, of this section).
+
+(ii) Map 113 follows:
+
+Figure 121 to paragraph (k)Map 113Hawaii 44-*Cyanea tritomantha*-h, Hawaii 44-*Pittosporum hawaiiense*-s, Hawaii 44-*Schiedea diffusa* ssp. *macraei*-r, Hawaii 44-*Stenogyne cranwelliae*-r![](/graphics/er12mr24.029.gif)
+
+(205) Hawaii 44-*Pittosporum hawaiiense*-s (5,884 ac; 2,381 ha). See paragraph (k)(204)(ii) of this section for the map of this unit.
+
+(206) Hawaii 44-*Schiedea diffusa* ssp. *macraei*-r (5,884 ac; 2,381 ha). See paragraph (k)(204)(ii) of this section for the map of this unit.
+
+(207) Hawaii 44-*Stenogyne cranwelliae*-r (5,884 ac; 2,381 ha). See paragraph (k)(204)(ii) of this section for the map of this unit.
+
+(208) Hawaii 45-*Phyllostegia floribunda*-q (5,494 ac; 2,223 ha).
+
+(i) This unit is also critical habitat for Hawaii 45-*Pittosporum hawaiiense*-t (see paragraph (k)(209) of this section).
+
+(ii) Map 114 follows:
+
+Figure 122 to paragraph (k)Map 114Hawaii 45-*Phyllostegia floribunda*-q, Hawaii 45-*Pittosporum hawaiiense*-t![](/graphics/er12mr24.030.gif)
+
+(209) Hawaii 45-*Pittosporum hawaiiense*-t (5,494 ac; 2,223 ha). See paragraph (k)(208)(ii) of this section for the map of this unit.
+
+(210) Hawaii 46-*Cyrtandra nanawaleensis*-b (12,219 ac; 4,945 ha)
+
+(i) This unit is also critical habitat for Hawaii 46-*Phyllostegia floribunda*-r (see paragraph (k)(211) of this section).
+
+(ii) Map 115 follows:
+
+Figure 123 to paragraph (k)Map 115Hawaii 46-*Cyrtandra nanawaleensis*-b, Hawaii 46-*Phyllostegia floribunda*-r![](/graphics/er12mr24.031.gif)
+
+(211) Hawaii 46-*Phyllostegia floribunda*-r (12,219 ac; 4,945 ha). See paragraph (k)(210)(ii) of this section for the map of this unit.
+
+(212) Hawaii 47-*Cyrtandra nanawaleensis*-c (274 ac; 111 ha)
+
+(i) [Reserved]
+
+(ii) Map 116 follows:
+
+Figure 124 to paragraph (k)Map 116Hawaii 47-*Cyrtandra nanawaleensis*-c, Hawaii 48-*Cyrtandra nanawaleensis*-d![](/graphics/er12mr24.032.gif)
+
+(213) Hawaii 48-*Cyrtandra nanawaleensis*-d (589 ac; 238 ha). See paragraph (k)(212)(ii) of this section for the map of this unit.
+
+(214) Hawaii 49-*Cyrtandra nanawaleensis*-e (875 ac; 354 ha)
+
+(i) [Reserved].
+
+(ii) Map 117 follows:
+
+Figure 125 to paragraph (k)Map 117Hawaii 49-*Cyrtandra nanawaleensis*-e, Hawaii 50-*Cyrtandra nanawaleensis*-f![](/graphics/er12mr24.033.gif)
+
+(215) Hawaii 50-*Cyrtandra nanawaleensis*-f (562 ac; 227 ha). See paragraph (k)(214)(ii) of this section for the map of this unit.
+
+(216) Hawaii 51-*Cyanea tritomantha*-i (17,774 ac; 7,193 ha).
+
+(i) This unit is also critical habitat for Hawaii 51-*Phyllostegia floribunda*-s, Hawaii 51-*Pittosporum hawaiiense*-u, Hawaii 51-*Schiedea diffusa* ssp. *macraei*-s, and Hawaii 51-*Stenogyne cranwelliae*-s (see paragraphs (k)(217), (k)(218), (k)(219), and (k)(220), respectively, of this section).
+
+(ii) Map 118 follows:
+
+Figure 126 to paragraph (k)Map 118Hawaii 51-*Cyanea tritomantha*-i, Hawaii 51-*Phyllostegia floribunda*-s, Hawaii 51-*Pittosporum hawaiiense*-u, Hawaii 51-*Schiedea diffusa* ssp. *macraei*-s, Hawaii 51-*Stenogyne cranwelliae*-s![](/graphics/er12mr24.034.gif)
+
+(217) Hawaii 51-*Phyllostegia floribunda*-s (17,774 ac; 7,193 ha). See paragraph (k)(216)(ii) of this section for the map of this unit.
+
+(218) Hawaii 51-*Pittosporum hawaiiense*-u (17,774 ac; 7,193 ha). See paragraph (k)(216)(ii) of this section for the map of this unit.
+
+(219) Hawaii 51-*Schiedea diffusa* ssp. *macraei*-s (17,774 ac; 7,193 ha). See paragraph (k)(216)(ii) of this section for the map of this unit.
+
+(220) Hawaii 51-*Stenogyne cranwelliae*-s (17,774 ac; 7,193 ha). See paragraph (k)(216)(ii) of this section for the map of this unit.
+
+(221) Hawaii 52-*Cyanea tritomantha*-j (3,656 ac; 1,479 ha).
+
+(i) This unit is also critical habitat for Hawaii 52-*Cyrtandra wagneri*-b, Hawaii 52-*Melicope remyi*-d, Hawaii 52-*Phyllostegia floribunda*-t, Hawaii 52-*Pittosporum hawaiiense*-v, Hawaii 52-*Schiedea diffusa* ssp. *macraei*-t, and Hawaii 52-*Stenogyne cranwelliae*-t (see paragraphs (k)(222), (k)(223), (k)(224), (k)(225), (k)(226), and (k)(227), respectively, of this section).
+
+(ii) Map 119 follows:
+
+Figure 127 to paragraph (k)Map 119Hawaii 52-*Cyanea tritomantha*-j, Hawaii 52-*Cyrtandra wagneri*-b, Hawaii 52-*Melicope remyi*-d, Hawaii 52-*Phyllostegia floribunda*-t, Hawaii 52-*Pittosporum hawaiiense*-v, Hawaii 52-*Schiedea diffusa* ssp. *macraei*-t, Hawaii 52-*Stenogyne cranwelliae*-t![](/graphics/er12mr24.035.gif)
+
+(222) Hawaii 52-*Cyrtandra wagneri*-b (3,656 ac; 1,479 ha). See paragraph (k)(221)(ii) of this section for the map of this unit.
+
+(223) Hawaii 52-*Melicope remyi*-d (3,656 ac; 1,479 ha). See paragraph (k)(221)(ii) of this section for the map of this unit.
+
+(224) Hawaii 52-*Phyllostegia floribunda*-t (3,656 ac; 1,479 ha). See paragraph (k)(221)(ii) of this section for the map of this unit.
+
+(225) Hawaii 52-*Pittosporum hawaiiense*-v (3,656 ac; 1,479 ha). See paragraph (k)(221)(ii) of this section for the map of this unit.
+
+(226) Hawaii 52-*Schiedea diffusa* ssp. *macraei*-t (3,656 ac; 1,479 ha). See paragraph (k)(221)(ii) of this section for the map of this unit.
+
+(227) Hawaii 52-*Stenogyne cranwelliae*-t (3,656 ac; 1,479 ha). See paragraph (k)(221)(ii) of this section for the map of this unit.
+
+(228) Hawaii 53-*Bidens hillebrandiana* ssp. *hillebrandiana*-b (154 ac; 62 ha)
+
+(i) [Reserved].
+
+(ii) Map 120 follows:
+
+Figure 128 to paragraph (k)Map 120Hawaii 53-*Bidens hillebrandiana* ssp. *hillebrandiana*-b![](/graphics/er12mr24.036.gif)
+
+(229) Hawaii 54-*Cyanea tritomantha*-k (5,945 ac; 2,406 ha).
+
+(i) This unit is also critical habitat for Hawaii 54-*Melicope remyi*-e, Hawaii 54-*Phyllostegia floribunda*-u, Hawaii 54-*Pittosporum hawaiiense*-w, Hawaii 54-*Schiedea diffusa* ssp. *macraei*-u, and Hawaii 54-*Stenogyne cranwelliae*-u (see paragraphs (k)(230), (k)(231), (k)(232), (k)(233), and (k)(234), respectively, of this section).
+
+(ii) Map 121 follows:
+
+Figure 129 to paragraph (k)Map 121Hawaii 54-*Cyanea tritomantha*-k, Hawaii 54-*Melicope remyi*-e, Hawaii 54-*Phyllostegia floribunda*-u, Hawaii 54-*Pittosporum hawaiiense*-w, Hawaii 54-*Schiedea diffusa* ssp. *macraei*-u, Hawaii 54-*Stenogyne cranwelliae*-u![](/graphics/er12mr24.037.gif)
+
+(230) Hawaii 54-*Melicope remyi*-e (5,945 ac; 2,406 ha). See paragraph (k)(229)(ii) of this section for the map of this unit.
+
+(231) Hawaii 54-*Phyllostegia floribunda*-u (5,945 ac; 2,406 ha). See paragraph (k)(229)(ii) of this section for the map of this unit.
+
+(232) Hawaii 54-*Pittosporum hawaiiense*-w (5,945 ac; 2,406 ha). See paragraph (k)(229)(ii) of this section for the map of this unit.
+
+(233) Hawaii 54-*Schiedea diffusa* ssp. *macraei*-u (5,945 ac; 2,406 ha). See paragraph (k)(229)(ii) of this section for the map of this unit.
+
+(234) Hawaii 54-*Stenogyne cranwelliae*-u (5,945 ac; 2,406 ha). See paragraph (k)(229)(ii) of this section for the map of this unit.
+
+(235) Hawaii 55-*Schiedea hawaiiensis*-a (6,822 ac; 2,761 ha)
+
+(i) [Reserved].
+
+(ii) Map 122 follows:
+
+Figure 130 to paragraph (k)Map 122Hawaii 55-*Schiedea hawaiiensis*-a![](/graphics/er12mr24.038.gif)
+
+(236) Hawaii 56-*Cyanea marksii*-i (224 ac; 91 ha)
+
+(i) This unit is also critical habitat for Hawaii 56-*Schiedea diffusa* ssp. *macraei*-v (see paragraph (k)(237) of this section).
+
+(ii) Map 123 follows:
+
+Figure 131 to paragraph (k)Map 123Hawaii 56-*Cyanea marksii*-i, Hawaii 56-*Schiedea diffusa* ssp. *macraei*-v![](/graphics/er12mr24.039.gif)
+
+(237) Hawaii 56-*Schiedea diffusa* ssp. *macraei*-v (224 ac; 91 ha). See paragraph (k)(236)(ii) of this section for the map of this unit.
+
+(238) Table of Listed Species Within Each Critical Habitat Unit for the Island of Hawaii.
+
+|                      Unit name                      |            Species occupied             |            Species unoccupied            |
+|-----------------------------------------------------|-----------------------------------------|------------------------------------------|
+|          Hawaii 1—Clermontia lindseyana-a           |          Clermontia lindseyana          |          Clermontia lindseyana.          |
+|            Hawaii 1—Clermontia peleana-a            |           Clermontia peleana            |           Clermontia peleana.            |
+|           Hawaii 1—Clermontia pyrularia-a           |                                         |          Clermontia pyrularia.           |
+|             Hawaii 1—Cyanea shipmanii-a             |            Cyanea shipmanii             |            Cyanea shipmanii.             |
+|          Hawaii 1—Phyllostegia racemosa-a           |          Phyllostegia racemosa          |          Phyllostegia racemosa.          |
+|          Hawaii 2—Clermontia lindseyana-b           |          Clermontia lindseyana          |          Clermontia lindseyana.          |
+|           Hawaii 2—Clermontia pyrularia-b           |          Clermontia pyrularia           |          Clermontia pyrularia.           |
+|          Hawaii 2—Phyllostegia racemosa-b           |          Phyllostegia racemosa          |          Phyllostegia racemosa.          |
+|            Hawaii 3—Clermontia peleana-b            |           Clermontia peleana            |           Clermontia peleana.            |
+|            Hawaii 3—Cyanea platyphylla-a            |           Cyanea platyphylla            |           Cyanea platyphylla.            |
+|            Hawaii 3—Cyanea tritomantha-a            |           Cyanea tritomantha            |           Cyanea tritomantha.            |
+|           Hawaii 3—Cyrtandra giffardii-a            |           Cyrtandra giffardii           |           Cyrtandra giffardii.           |
+|          Hawaii 3—Cyrtandra tintinnabula-a          |         Cyrtandra tintinnabula          |         Cyrtandra tintinnabula.          |
+|            Hawaii 3—Cyrtandra wagneri-a             |            Cyrtandra wagneri            |            Cyrtandra wagneri.            |
+|              Hawaii 3—Melicope remyi-a              |             Melicope remyi              |             Melicope remyi.              |
+|         Hawaii 3—Phyllostegia floribunda-a          |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|         Hawaii 3—Phyllostegia warshaueri-a          |         Phyllostegia warshaueri         |         Phyllostegia warshaueri.         |
+|          Hawaii 3—Pittosporum hawaiiense-a          |                                         |         Pittosporum hawaiiense.          |
+|      Hawaii 3—Schiedea diffusa ssp. macraei-a       |                                         |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 3—Stenogyne cranwelliae-a           |          Stenogyne cranwelliae          |          Stenogyne cranwelliae.          |
+|           Hawaii 4—Isodendrion hosakae-a            |                                         |           Isodendrion hosakae.           |
+|           Hawaii 4—Isodendrion hosakae-b            |                                         |           Isodendrion hosakae.           |
+|           Hawaii 4—Isodendrion hosakae-c            |                                         |           Isodendrion hosakae.           |
+|           Hawaii 4—Isodendrion hosakae-d            |                                         |           Isodendrion hosakae.           |
+|           Hawaii 4—Isodendrion hosakae-e            |                                         |           Isodendrion hosakae.           |
+|           Hawaii 4—Isodendrion hosakae-f            |           Isodendrion hosakae           |           Isodendrion hosakae.           |
+|            Hawaii 4—Vigna o-wahuensis-a             |                                         |            Vigna o-wahuensi..            |
+|            Hawaii 4—Vigna o-wahuensis-b             |                                         |            Vigna o-wahuensis.            |
+|            Hawaii 4—Vigna o-wahuensis-c             |                                         |            Vigna o-wahuensis.            |
+|         Hawaii 5—Nothocestrum breviflorum-a         |                                         |        Nothocestrum breviflorum.         |
+|Hawaii 6—Bidens hillebrandiana ssp. hillebrandiana-a |Bidens hillebrandiana ssp. hillebrandiana|Bidens hillebrandiana ssp. hillebrandiana.|
+|         Hawaii 6—Nothocestrum breviflorum-b         |        Nothocestrum breviflorum         |        Nothocestrum breviflorum.         |
+|            Hawaii 7—Dracaena konaensis-a            |           Dracaena konaensis            |           Dracaena konaensis.            |
+|         Hawaii 8—Clermontia drepanomorpha-a         |        Clermontia drepanomorpha         |        Clermontia drepanomorpha.         |
+|            Hawaii 8—Cyanea tritomantha-b            |           Cyanea tritomantha            |           Cyanea tritomantha.            |
+|              Hawaii 8—Melicope remyi-b              |                                         |             Melicope remyi.              |
+|         Hawaii 8—Phyllostegia floribunda-b          |                                         |         Phyllostegia floribunda.         |
+|         Hawaii 8—Phyllostegia warshaueri-b          |         Phyllostegia warshaueri         |         Phyllostegia warshaueri.         |
+|          Hawaii 8—Pittosporum hawaiiense-b          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|      Hawaii 8—Schiedea diffusa ssp. macraei-b       |      Schiedea diffusa ssp. macraei      |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 8—Stenogyne cranwelliae-b           |          Stenogyne cranwelliae          |          Stenogyne cranwelliae.          |
+|            Hawaii 9—Achyranthes mutica-a            |                                         |           Achyranthes mutica.            |
+|            Hawaii 9—Achyranthes mutica-b            |           Achyranthes mutica            |           Achyranthes mutica.            |
+|            Hawaii 9—Achyranthes mutica-c            |                                         |           Achyranthes mutica.            |
+|            Hawaii 9—Achyranthes mutica-d            |                                         |           Achyranthes mutica.            |
+|            Hawaii 9—Achyranthes mutica-e            |                                         |           Achyranthes mutica.            |
+|            Hawaii 9—Achyranthes mutica-f            |                                         |           Achyranthes mutica.            |
+|            Hawaii 9—Achyranthes mutica-g            |                                         |           Achyranthes mutica.            |
+|            Hawaii 9—Achyranthes mutica-h            |                                         |           Achyranthes mutica.            |
+|            Hawaii 9—Achyranthes mutica-i            |                                         |           Achyranthes mutica.            |
+|            Hawaii 9—Achyranthes mutica-j            |                                         |           Achyranthes mutica.            |
+|            Hawaii 9—Cyanea tritomantha-c            |           Cyanea tritomantha            |           Cyanea tritomantha.            |
+|              Hawaii 9—Melicope remyi-c              |                                         |             Melicope remyi.              |
+|         Hawaii 9—Phyllostegia floribunda-c          |                                         |         Phyllostegia floribunda.         |
+|          Hawaii 9—Pittosporum hawaiiense-c          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|      Hawaii 9—Schiedea diffusa ssp. macraei-c       |      Schiedea diffusa ssp. macraei      |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 9—Stenogyne cranwelliae-c           |          Stenogyne cranwelliae          |          Stenogyne cranwelliae.          |
+|          Hawaii 10—Argyroxiphium kauense-a          |                                         |          Argyroxiphium kauense.          |
+|    Hawaii 10—Bidens micrantha ssp. ctenophylla-a    |                                         |    Bidens micrantha ssp. ctenophylla.    |
+|            Hawaii 10—Bonamia menziesii-a            |                                         |            Bonamia menziesii.            |
+|         Hawaii 10—Colubrina oppositifolia-a         |         Colubrina oppositifolia         |         Colubrina oppositifolia.         |
+|            Hawaii 10—Delissea undulata-a            |                                         |            Delissea undulata.            |
+|            Hawaii 10—Delissea undulata-b            |            Delissea undulata            |            Delissea undulata.            |
+|           Hawaii 10—Dracaena konaensis-b            |           Dracaena konaensis            |           Dracaena konaensis.            |
+|      Hawaii 10—Hibiscadelphus hualalaiensis-a       |      Hibiscadelphus hualalaiensis       |      Hibiscadelphus hualalaiensis.       |
+|         Hawaii 10—Hibiscus brackenridgei-a          |         Hibiscus brackenridgei          |         Hibiscus brackenridgei.          |
+|         Hawaii 10—Isodendrion pyrifolium-a          |                                         |         Isodendrion pyrifolium.          |
+|          Hawaii 10—Mezoneuron kavaiense-a           |          Mezoneuron kavaiense           |          Mezoneuron kavaiense.           |
+|             Hawaii 10—Neraudia ovata-a              |                                         |             Neraudia ovata.              |
+|        Hawaii 10—Nothocestrum breviflorum-c         |        Nothocestrum breviflorum         |        Nothocestrum breviflorum.         |
+|           Hawaii 10—Solanum incompletum-a           |                                         |           Solanum incompletum.           |
+|  Hawaii 10—Zanthoxylum dipetalum ssp. tomentosum-a  |  Zanthoxylum dipetalum ssp. tomentosum  |  Zanthoxylum dipetalum ssp. tomentosum.  |
+|    Hawaii 11—Cyanea hamatiflora ssp. carlsonii-a    |    Cyanea hamatiflora ssp. carlsonii    |    Cyanea hamatiflora ssp. carlsonii.    |
+|           Hawaii 11—Solanum incompletum-b           |                                         |           Solanum incompletum.           |
+|    Hawaii 14—Cyanea hamatiflora ssp. carlsonii-b    |                                         |    Cyanea hamatiflora ssp. carlsonii.    |
+|    Hawaii 15—Cyanea hamatiflora ssp. carlsonii-c    |                                         |    Cyanea hamatiflora ssp. carlsonii.    |
+|        Hawaii 15—Cyanea marksii-a Section 4         |             Cyanea marksii              |             Cyanea marksii.              |
+|        Hawaii 15—Cyanea marksii-b—Section 5         |             Cyanea marksii              |             Cyanea marksii.              |
+|           Hawaii 15—Cyanea stictophylla-a           |           Cyanea stictophylla           |           Cyanea stictophylla.           |
+|    Hawaii 15—Phyllostegia floribunda-d—Section 4    |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|    Hawaii 15—Phyllostegia floribunda-e—Section 5    |                                         |         Phyllostegia floribunda.         |
+|    Hawaii 15—Pittosporum hawaiiense-d—Section 4     |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|    Hawaii 15—Pittosporum hawaiiense-e—Section 5     |                                         |         Pittosporum hawaiiense.          |
+| Hawaii 15—Schiedea diffusa ssp. macraei-d—Section 4 |                                         |      Schiedea diffusa ssp. macraei.      |
+| Hawaii 15—Schiedea diffusa ssp. macraei-e—Section 5 |                                         |      Schiedea diffusa ssp. macraei.      |
+|     Hawaii 15—Stenogyne cranwelliae-d—Section 4     |                                         |          Stenogyne cranwelliae.          |
+|     Hawaii 15—Stenogyne cranwelliae-e—Section 5     |                                         |          Stenogyne cranwelliae.          |
+|    Hawaii 16—Cyanea hamatiflora ssp. carlsonii-d    |    Cyanea hamatiflora ssp. carlsonii    |    Cyanea hamatiflora ssp. carlsonii.    |
+|             Hawaii 16—Cyanea marksii-c              |             Cyanea marksii              |             Cyanea marksii.              |
+|           Hawaii 16—Cyanea stictophylla-b           |           Cyanea stictophylla           |           Cyanea stictophylla.           |
+|         Hawaii 16—Phyllostegia floribunda-f         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|         Hawaii 16—Pittosporum hawaiiense-f          |                                         |         Pittosporum hawaiiense.          |
+|      Hawaii 16—Schiedea diffusa ssp. macraei-f      |                                         |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 16—Stenogyne cranwelliae-f          |                                         |          Stenogyne cranwelliae.          |
+|          Hawaii 17—Asplenium dielerectum-a          |          Asplenium dielerectum          |          Asplenium dielerectum.          |
+|           Hawaii 17—Flueggea neowawraea-a           |           Flueggea neowawraea           |           Flueggea neowawraea.           |
+|          Hawaii 18—Asplenium dielerectum-b          |          Asplenium dielerectum          |          Asplenium dielerectum.          |
+|         Hawaii 18—Colubrina oppositifolia-b         |         Colubrina oppositifolia         |         Colubrina oppositifolia.         |
+|           Hawaii 18—Dracaena konaensis-c            |           Dracaena konaensis            |           Dracaena konaensis.            |
+|           Hawaii 18—Flueggea neowawraea-b           |           Flueggea neowawraea           |           Flueggea neowawraea.           |
+|            Hawaii 18—Gouania vitifolia-a            |            Gouania vitifolia            |            Gouania vitifolia.            |
+|             Hawaii 18—Neraudia ovata-d              |             Neraudia ovata              |             Neraudia ovata.              |
+|            Hawaii 19—Mariscus fauriei-a             |            Mariscus fauriei             |            Mariscus fauriei.             |
+|           Hawaii 20—Sesbania tomentosa-a            |           Sesbania tomentosa            |           Sesbania tomentosa.            |
+|            Hawaii 21—Ischaemum byrone-a             |                                         |            Ischaemum byrone.             |
+|            Hawaii 22—Ischaemum byrone-b             |            Ischaemum byrone             |            Ischaemum byrone.             |
+|           Hawaii 23—Dracaena konaensis-d            |           Dracaena konaensis            |           Dracaena konaensis.            |
+|         Hawaii 23—Phyllostegia floribunda-g         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|         Hawaii 23—Pittosporum hawaiiense-g          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|           Hawaii 23—Sesbania tomentosa-b            |           Sesbania tomentosa            |           Sesbania tomentosa.            |
+|          Hawaii 24—Argyroxiphium kauense-b          |          Argyroxiphium kauense          |          Argyroxiphium kauense.          |
+|     Hawaii 24—Asplenium fragile var. insulare-a     |     Asplenium fragile var. insulare     |    Asplenium fragile var. insulare..     |
+|           Hawaii 24—Cyanea stictophylla-c           |                                         |           Cyanea stictophylla.           |
+|      Hawaii 24—Cyanea tritomantha-d—Section 8       |           Cyanea tritomantha            |           Cyanea tritomantha.            |
+|         Hawaii 24—Melicope zahlbruckneri-a          |                                         |         Melicope zahlbruckneri.          |
+|          Hawaii 24—Phyllostegia velutina-a          |          Phyllostegia velutina          |          Phyllostegia velutina.          |
+|    Hawaii 24—Pittosporum hawaiiense-h—Section 8     |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|    Hawaii 24—Pittosporum hawaiiense-i—Section 9     |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|           Hawaii 24—Plantago hawaiensis-a           |           Plantago hawaiensis           |           Plantago hawaiensis.           |
+| Hawaii 24—Schiedea diffusa ssp. macraei-g—Section 8 |      Schiedea diffusa ssp. macraei      |      Schiedea diffusa ssp. macraei.      |
+| Hawaii 24—Schiedea diffusa ssp. macraei-h—Section 9 |      Schiedea diffusa ssp. macraei      |      Schiedea diffusa ssp. macraei.      |
+|     Hawaii 24—Stenogyne cranwelliae-g—Section 8     |                                         |          Stenogyne cranwelliae.          |
+|     Hawaii 24—Stenogyne cranwelliae-h—Section 9     |                                         |          Stenogyne cranwelliae.          |
+|          Hawaii 25—Argyroxiphium kauense-c          |          Argyroxiphium kauense          |          Argyroxiphium kauense.          |
+|           Hawaii 25—Plantago hawaiensis-b           |           Plantago hawaiensis           |           Plantago hawaiensis.           |
+|           Hawaii 25—Silene hawaiiensis-a            |           Silene hawaiiensis            |           Silene hawaiiensis.            |
+|       Hawaii 26—Hibiscadelphus giffardianus-a       |       Hibiscadelphus giffardianus       |       Hibiscadelphus giffardianus.       |
+|         Hawaii 26—Melicope zahlbruckneri-b          |         Melicope zahlbruckneri          |         Melicope zahlbruckneri.          |
+|          Hawaii 27—Portulaca sclerocarpa-a          |          Portulaca sclerocarpa          |          Portulaca sclerocarpa.          |
+|           Hawaii 27—Silene hawaiiensis-b            |           Silene hawaiiensis            |           Silene hawaiiensis.            |
+|           Hawaii 28—Adenophorus periens-a           |           Adenophorus periens           |           Adenophorus periens.           |
+|         Hawaii 28—Cyrtandra nanawaleensis-a         |         Cyrtandra nanawaleensis         |         Cyrtandra nanawaleensis.         |
+|         Hawaii 28—Phyllostegia floribunda-h         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|           Hawaii 29—Clermontia peleana-c            |           Clermontia peleana            |           Clermontia peleana.            |
+|           Hawaii 29—Cyanea platyphylla-b            |           Cyanea platyphylla            |           Cyanea platyphylla.            |
+|           Hawaii 29—Cyanea tritomantha-e            |           Cyanea tritomantha            |           Cyanea tritomantha.            |
+|           Hawaii 29—Cyrtandra giffardii-b           |                                         |           Cyrtandra giffardii.           |
+|         Hawaii 29—Cyrtandra tintinnabula-b          |                                         |         Cyrtandra tintinnabula.          |
+|         Hawaii 29—Phyllostegia floribunda-i         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|         Hawaii 29—Pittosporum hawaiiense-j          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|      Hawaii 29—Schiedea diffusa ssp. macraei-i      |      Schiedea diffusa ssp. macraei      |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 29—Stenogyne cranwelliae-i          |                                         |          Stenogyne cranwelliae.          |
+|          Hawaii 30—Argyroxiphium kauense-d          |          Argyroxiphium kauense          |          Argyroxiphium kauense.          |
+|          Hawaii 30—Clermontia lindseyana-c          |          Clermontia lindseyana          |          Clermontia lindseyana.          |
+|            Hawaii 30—Cyanea shipmanii-b             |            Cyanea shipmanii             |            Cyanea shipmanii.             |
+|            Hawaii 30—Cyanea shipmanii-c             |                                         |            Cyanea shipmanii.             |
+|           Hawaii 30—Cyanea stictophylla-d           |                                         |           Cyanea stictophylla.           |
+|           Hawaii 30—Cyanea tritomantha-f            |           Cyanea tritomantha            |           Cyanea tritomantha.            |
+|           Hawaii 30—Cyrtandra giffardii-c           |           Cyrtandra giffardii           |           Cyrtandra giffardii.           |
+|         Hawaii 30—Phyllostegia floribunda-j         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|          Hawaii 30—Phyllostegia racemosa-c          |                                         |          Phyllostegia racemosa.          |
+|          Hawaii 30—Phyllostegia velutina-b          |          Phyllostegia velutina          |          Phyllostegia velutina.          |
+|         Hawaii 30—Pittosporum hawaiiense-k          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|           Hawaii 30—Plantago hawaiensis-c           |           Plantago hawaiensis           |           Plantago hawaiensis.           |
+|      Hawaii 30—Schiedea diffusa ssp. macraei-j      |      Schiedea diffusa ssp. macraei      |      Schiedea diffusa ssp. macraei.      |
+|               Hawaii 30—Sicyos alba-a               |               Sicyos alba               |               Sicyos alba.               |
+|          Hawaii 30—Stenogyne cranwelliae-j          |                                         |          Stenogyne cranwelliae.          |
+|    Hawaii 31—Bidens micrantha ssp. ctenophylla-b    |                                         |    Bidens micrantha ssp. ctenophylla.    |
+|         Hawaii 31—Isodendrion pyrifolium-b          |                                         |         Isodendrion pyrifolium.          |
+|          Hawaii 31—Mezoneuron kavaiense-b           |          Mezoneuron kavaiense           |          Mezoneuron kavaiense.           |
+|    Hawaii 33—Bidens micrantha ssp. ctenophylla-d    |                                         |    Bidens micrantha ssp. ctenophylla.    |
+|         Hawaii 33—Isodendrion pyrifolium-d          |                                         |         Isodendrion pyrifolium.          |
+|          Hawaii 33—Mezoneuron kavaiense-d           |                                         |          Mezoneuron kavaiense.           |
+|    Hawaii 34—Bidens micrantha ssp. ctenophylla-e    |                                         |    Bidens micrantha ssp. ctenophylla.    |
+|         Hawaii 34—Isodendrion pyrifolium-e          |                                         |         Isodendrion pyrifolium.          |
+|          Hawaii 34—Mezoneuron kavaiense-e           |                                         |          Mezoneuron kavaiense.           |
+|    Hawaii 36—Bidens micrantha ssp. ctenophylla-g    |    Bidens micrantha ssp. ctenophylla    |    Bidens micrantha ssp. ctenophylla.    |
+|         Hawaii 36—Isodendrion pyrifolium-g          |                                         |         Isodendrion pyrifolium.          |
+|             Hawaii 37—Cyanea marksii-d              |             Cyanea marksii              |             Cyanea marksii.              |
+|         Hawaii 37—Phyllostegia floribunda-k         |                                         |         Phyllostegia floribunda.         |
+|         Hawaii 37—Pittosporum hawaiiense-l          |                                         |         Pittosporum hawaiiense.          |
+|      Hawaii 37—Schiedea diffusa ssp. macraei-k      |                                         |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 37—Stenogyne cranwelliae-k          |                                         |          Stenogyne cranwelliae.          |
+|             Hawaii 38—Cyanea marksii-e              |             Cyanea marksii              |             Cyanea marksii.              |
+|         Hawaii 38—Phyllostegia floribunda-l         |                                         |         Phyllostegia floribunda.         |
+|         Hawaii 38—Pittosporum hawaiiense-m          |                                         |         Pittosporum hawaiiense.          |
+|      Hawaii 38—Schiedea diffusa ssp. macraei-l      |                                         |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 38—Stenogyne cranwelliae-l          |                                         |          Stenogyne cranwelliae.          |
+|             Hawaii 39—Cyanea marksii-f              |             Cyanea marksii              |             Cyanea marksii.              |
+|         Hawaii 39—Phyllostegia floribunda-m         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|         Hawaii 39—Pittosporum hawaiiense-n          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|      Hawaii 39—Schiedea diffusa ssp. macraei-m      |                                         |      Schiedea diffusa ssp. macrae.       |
+|          Hawaii 39—Stenogyne cranwelliae-m          |                                         |          Stenogyne cranwelliae.          |
+|             Hawaii 40—Cyanea marksii-g              |             Cyanea marksii              |             Cyanea marksii.              |
+|         Hawaii 40—Phyllostegia floribunda-n         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|         Hawaii 40—Pittosporum hawaiiense-o          |                                         |         Pittosporum hawaiiense.          |
+|      Hawaii 40—Schiedea diffusa ssp. macraei-n      |                                         |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 40—Stenogyne cranwelliae-n          |                                         |          Stenogyne cranwelliae.          |
+|             Hawaii 41—Cyanea marksii-h              |             Cyanea marksii              |             Cyanea marksii.              |
+|         Hawaii 41—Phyllostegia floribunda-o         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|         Hawaii 41—Pittosporum hawaiiense-p          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|      Hawaii 41—Schiedea diffusa ssp. macraei-o      |                                         |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 41—Stenogyne cranwelliae-o          |                                         |          Stenogyne cranwelliae.          |
+|           Hawaii 42—Cyanea tritomantha-g            |                                         |           Cyanea tritomantha.            |
+|         Hawaii 42—Phyllostegia floribunda-p         |                                         |         Phyllostegia floribunda.         |
+|         Hawaii 42—Pittosporum hawaiiense-q          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|      Hawaii 42—Schiedea diffusa ssp. macraei-p      |      Schiedea diffusa ssp. macraei      |      Schiedea diffusa ssp. macrae..      |
+|          Hawaii 42—Stenogyne cranwelliae-p          |                                         |          Stenogyne cranwelliae.          |
+|         Hawaii 43—Pittosporum hawaiiense-r          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|      Hawaii 43—Schiedea diffusa ssp. macraei-q      |      Schiedea diffusa ssp. macraei      |      Schiedea diffusa ssp. macrae..      |
+|          Hawaii 43—Stenogyne cranwelliae-q          |                                         |          Stenogyne cranwelliae.          |
+|           Hawaii 44—Cyanea tritomantha-h            |           Cyanea tritomantha            |           Cyanea tritomantha.            |
+|         Hawaii 44—Pittosporum hawaiiense-s          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|      Hawaii 44—Schiedea diffusa ssp. macraei-r      |      Schiedea diffusa ssp. macraei      |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 44—Stenogyne cranwelliae-r          |                                         |          Stenogyne cranwelliae.          |
+|         Hawaii 45—Phyllostegia floribunda-q         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|         Hawaii 45—Pittosporum hawaiiense-t          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|         Hawaii 46—Cyrtandra nanawaleensis-b         |         Cyrtandra nanawaleensis         |         Cyrtandra nanawaleensis.         |
+|         Hawaii 46—Phyllostegia floribunda-r         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|         Hawaii 47—Cyrtandra nanawaleensis-c         |         Cyrtandra nanawaleensis         |         Cyrtandra nanawaleensis.         |
+|         Hawaii 48—Cyrtandra nanawaleensis-d         |         Cyrtandra nanawaleensis         |         Cyrtandra nanawaleensis.         |
+|         Hawaii 49—Cyrtandra nanawaleensis-e         |         Cyrtandra nanawaleensis         |         Cyrtandra nanawaleensis.         |
+|               Hawaii 30—Sicyos alba-a               |               Sicyos alba               |               Sicyos alba.               |
+|          Hawaii 30—Stenogyne cranwelliae-j          |                                         |          Stenogyne cranwelliae.          |
+|    Hawaii 31—Bidens micrantha ssp. ctenophylla-b    |                                         |    Bidens micrantha ssp. ctenophylla.    |
+|         Hawaii 31—Isodendrion pyrifolium-b          |                                         |         Isodendrion pyrifolium.          |
+|          Hawaii 31—Mezoneuron kavaiense-b           |          Mezoneuron kavaiense           |          Mezoneuron kavaiense.           |
+|    Hawaii 33—Bidens micrantha ssp. ctenophylla-d    |                                         |    Bidens micrantha ssp. ctenophylla.    |
+|         Hawaii 33—Isodendrion pyrifolium-d          |                                         |         Isodendrion pyrifolium.          |
+|          Hawaii 33—Mezoneuron kavaiense-d           |                                         |          Mezoneuron kavaiense.           |
+|    Hawaii 34—Bidens micrantha ssp. ctenophylla-e    |                                         |    Bidens micrantha ssp. ctenophylla.    |
+|         Hawaii 34—Isodendrion pyrifolium-e          |                                         |         Isodendrion pyrifolium.          |
+|          Hawaii 34—Mezoneuron kavaiense-e           |                                         |          Mezoneuron kavaiense.           |
+|    Hawaii 36—Bidens micrantha ssp. ctenophylla-g    |    Bidens micrantha ssp. ctenophylla    |    Bidens micrantha ssp. ctenophylla.    |
+|         Hawaii 36—Isodendrion pyrifolium-g          |                                         |         Isodendrion pyrifolium.          |
+|             Hawaii 37—Cyanea marksii-d              |             Cyanea marksii              |             Cyanea marksii.              |
+|         Hawaii 37—Phyllostegia floribunda-k         |                                         |         Phyllostegia floribunda.         |
+|         Hawaii 37—Pittosporum hawaiiense-l          |                                         |         Pittosporum hawaiiense.          |
+|      Hawaii 37—Schiedea diffusa ssp. macraei-k      |                                         |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 37—Stenogyne cranwelliae-k          |                                         |          Stenogyne cranwelliae.          |
+|             Hawaii 38—Cyanea marksii-e              |             Cyanea marksii              |             Cyanea marksii.              |
+|         Hawaii 38—Phyllostegia floribunda-l         |                                         |         Phyllostegia floribunda.         |
+|         Hawaii 38—Pittosporum hawaiiense-m          |                                         |         Pittosporum hawaiiense.          |
+|      Hawaii 38—Schiedea diffusa ssp. macraei-l      |                                         |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 38—Stenogyne cranwelliae-l          |                                         |          Stenogyne cranwelliae.          |
+|             Hawaii 39—Cyanea marksii-f              |             Cyanea marksii              |             Cyanea marksii.              |
+|         Hawaii 39—Phyllostegia floribunda-m         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|         Hawaii 39—Pittosporum hawaiiense-n          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|      Hawaii 39—Schiedea diffusa ssp. macraei-m      |                                         |      Schiedea diffusa ssp. macrae.       |
+|          Hawaii 39—Stenogyne cranwelliae-m          |                                         |          Stenogyne cranwelliae.          |
+|             Hawaii 40—Cyanea marksii-g              |             Cyanea marksii              |             Cyanea marksii.              |
+|         Hawaii 40—Phyllostegia floribunda-n         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|         Hawaii 40—Pittosporum hawaiiense-o          |                                         |         Pittosporum hawaiiense.          |
+|      Hawaii 40—Schiedea diffusa ssp. macraei-n      |                                         |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 40—Stenogyne cranwelliae-n          |                                         |          Stenogyne cranwelliae.          |
+|             Hawaii 41—Cyanea marksii-h              |             Cyanea marksii              |             Cyanea marksii.              |
+|         Hawaii 41—Phyllostegia floribunda-o         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|         Hawaii 41—Pittosporum hawaiiense-p          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|      Hawaii 41—Schiedea diffusa ssp. macraei-o      |                                         |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 41—Stenogyne cranwelliae-o          |                                         |          Stenogyne cranwelliae.          |
+|           Hawaii 42—Cyanea tritomantha-g            |                                         |           Cyanea tritomantha.            |
+|         Hawaii 42—Phyllostegia floribunda-p         |                                         |         Phyllostegia floribunda.         |
+|         Hawaii 42—Pittosporum hawaiiense-q          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|      Hawaii 42—Schiedea diffusa ssp. macraei-p      |      Schiedea diffusa ssp. macraei      |      Schiedea diffusa ssp. macrae..      |
+|          Hawaii 42—Stenogyne cranwelliae-p          |                                         |          Stenogyne cranwelliae.          |
+|         Hawaii 43—Pittosporum hawaiiense-r          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|      Hawaii 43—Schiedea diffusa ssp. macraei-q      |      Schiedea diffusa ssp. macraei      |      Schiedea diffusa ssp. macrae..      |
+|          Hawaii 43—Stenogyne cranwelliae-q          |                                         |          Stenogyne cranwelliae.          |
+|           Hawaii 44—Cyanea tritomantha-h            |           Cyanea tritomantha            |           Cyanea tritomantha.            |
+|         Hawaii 44—Pittosporum hawaiiense-s          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|      Hawaii 44—Schiedea diffusa ssp. macraei-r      |      Schiedea diffusa ssp. macraei      |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 44—Stenogyne cranwelliae-r          |                                         |          Stenogyne cranwelliae.          |
+|         Hawaii 45—Phyllostegia floribunda-q         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|         Hawaii 45—Pittosporum hawaiiense-t          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|         Hawaii 46—Cyrtandra nanawaleensis-b         |         Cyrtandra nanawaleensis         |         Cyrtandra nanawaleensis.         |
+|         Hawaii 46—Phyllostegia floribunda-r         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|         Hawaii 47—Cyrtandra nanawaleensis-c         |         Cyrtandra nanawaleensis         |         Cyrtandra nanawaleensis.         |
+|         Hawaii 48—Cyrtandra nanawaleensis-d         |         Cyrtandra nanawaleensis         |         Cyrtandra nanawaleensis.         |
+|         Hawaii 49—Cyrtandra nanawaleensis-e         |         Cyrtandra nanawaleensis         |         Cyrtandra nanawaleensis.         |
+|         Hawaii 50—Cyrtandra nanawaleensis-f         |         Cyrtandra nanawaleensis         |        Cyrtandra nanawaleensis..         |
+|           Hawaii 51—Cyanea tritomantha-i            |           Cyanea tritomantha            |           Cyanea tritomantha.            |
+|         Hawaii 51—Phyllostegia floribunda-s         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|         Hawaii 51—Pittosporum hawaiiense-u          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|      Hawaii 51—Schiedea diffusa ssp. macraei-s      |      Schiedea diffusa ssp. macraei      |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 51—Stenogyne cranwelliae-s          |                                         |          Stenogyne cranwelliae.          |
+|           Hawaii 52—Cyanea tritomantha-j            |           Cyanea tritomantha            |           Cyanea tritomantha.            |
+|            Hawaii 52—Cyrtandra wagneri-b            |            Cyrtandra wagneri            |            Cyrtandra wagneri.            |
+|             Hawaii 52—Melicope remyi-d              |             Melicope remyi              |             Melicope remyi.              |
+|         Hawaii 52—Phyllostegia floribunda-t         |         Phyllostegia floribunda         |         Phyllostegia floribunda.         |
+|         Hawaii 52—Pittosporum hawaiiense-v          |                                         |         Pittosporum hawaiiense.          |
+|      Hawaii 52—Schiedea diffusa ssp. macraei-t      |                                         |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 52—Stenogyne cranwelliae-t          |          Stenogyne cranwelliae          |          Stenogyne cranwelliae.          |
+|Hawaii 53—Bidens hillebrandiana ssp. hillebrandiana-b|Bidens hillebrandiana ssp. hillebrandiana|Bidens hillebrandiana ssp. hillebrandiana.|
+|           Hawaii 54—Cyanea tritomantha-k            |           Cyanea tritomantha            |           Cyanea tritomantha.            |
+|             Hawaii 54—Melicope remyi-e              |                                         |             Melicope remyi.              |
+|         Hawaii 54—Phyllostegia floribunda-u         |                                         |         Phyllostegia floribunda.         |
+|         Hawaii 54—Pittosporum hawaiiense-w          |         Pittosporum hawaiiense          |         Pittosporum hawaiiense.          |
+|      Hawaii 54—Schiedea diffusa ssp. macraei-u      |      Schiedea diffusa ssp. macraei      |      Schiedea diffusa ssp. macraei.      |
+|          Hawaii 54—Stenogyne cranwelliae-u          |          Stenogyne cranwelliae          |          Stenogyne cranwelliae.          |
+|          Hawaii 55—Schiedea hawaiiensis-a           |                                         |          Schiedea hawaiiensis.           |
+|             Hawaii 56—Cyanea marksii-i              |                                         |             Cyanea marksii.              |
+|      Hawaii 56—Schiedea diffusa ssp. macraei-v      |                                         |      Schiedea diffusa ssp. macraei       |
+
+(239) Critical habitat unit descriptions and maps, and a description of primary constituent elements, for Family Malvaceae: *Kokia drynariodes* on the island of Hawaii is provided in 50 CFR 17.96(a).
+
+(1) Plants on the island of Hawaii; Constituent elements—(1) Flowering plants.
 
 Family Amaranthaceae: Achyranthes mutica (NCN)
 
@@ -18561,21 +19031,21 @@ Hawaii 10—*Argyroxiphium kauense*—a, Hawaii 24—*Argyroxiphium kauense*—b
 
 (ii) Elevations between 1,583 and 2,246 m (5,193 and 8,024 ft).
 
-Family Asteraceae: *Bidens micrantha* ssp. *ctenophylla* (KOOKOOLAU)
+Family Asteraceae: Bidens hillebrandiana ssp. hillebrandiana (KOOKOOLAU)
 
-Hawaii 10—*Bidens micrantha* ssp. *ctenophylla*—a, Hawaii 31—*Bidens micrantha* ssp. *ctenophylla*—b, Hawaii 33—*Bidens micrantha* ssp. *ctenophylla*—d, Hawaii 34—*Bidens micrantha* ssp. *ctenophylla*—e, and Hawaii 36—*Bidens micrantha* ssp. *ctenophylla*—g, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Bidens micrantha* ssp. *ctenophylla* on Hawaii Island. In units Hawaii 10—*Bidens micrantha* ssp. *ctenophylla*—a, Hawaii 31—*Bidens micrantha* ssp. *ctenophylla*—b, Hawaii 33—*Bidens micrantha* ssp. *ctenophylla*—d, Hawaii 34—*Bidens micrantha* ssp. *ctenophylla*—e, and Hawaii 36—*Bidens micrantha* ssp. *ctenophylla*—g, the physical and biological features of critical habitat are:
+Hawaii 6—*Bidens hillebrandiana* ssp. *hillebrandiana*-a and Hawaii 53—*Bidens hillebrandiana* ssp. *hillebrandiana*-b, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Bidens hillebrandiana* ssp. *hillebrandiana* on Hawaii Island. In units Hawaii 6—*Bidens hillebrandiana* ssp. *hillebrandiana*-a and Hawaii 53—*Bidens hillebrandiana* ssp. *hillebrandiana*-b, the physical and biological features of critical habitat in coastal ecosystem are:
 
-(i) Elevation: Less than 3,300 ft (1,000 m).
+(i) Elevation: Less than 984feet (ft) (300 meters (m)).
 
-(ii) Annual precipitation: Less than 50 in (130 cm).
+(ii) Annual precipitation: Less than 47 inches (in) (120 centimeters (cm)) to greater than 98 in (250 cm).
 
-(iii) Substrate: Weathered silty loams to stony clay, rocky ledges, little-weathered lava.
+(iii) Substrate: Well-drained talus, calcareous slopes, dunes.
 
-(iv) Canopy: *Diospyros, Erythrina,**Metrosideros, Myoporum, Pleomele, Santalum, Sapindus.*
+(iv) Canopy contains one or more of the following native plant genera: *Diospyros, Metrosideros,**Myoporum, Pritchardia.*
 
-(v) Subcanopy: *Chamaesyce, Dodonaea, Osteomeles, Psydrax, Scaevola, Wikstroemia.*
+(v) Subcanopy contains one or more of the following native plant genera: *Chenopodium, Gossypium,**Heliotropium, Santalum,**Scaevola.*
 
-(vi) Understory: *Alyxia, Artemisia, Bidens, Capparis, Chenopodium, Nephrolepis, Peperomia, Sicyos.*
+(vi) Understory contains one or more of the following native plant genera: *Eragrostis, Sesuvium,**Sida, Sporobolus.*
 
 Family Campanulaceae: Clermontia drepanomorpha (oha wai)
 
@@ -18616,6 +19086,22 @@ Hawaii 11—*Cyanea hamatiflora* ssp. *carlsonii*—a, Hawaii 14—*Cyanea hamat
 (i) Mesic montane forest dominated by *Acacia koa* or *Metrosideros polymorpha,* and containing one or more of the following associated native plant species: *Athyrium* sp., *Cibotium* spp., *Clermontia clermontioides, Coprosma* sp., *Dryopteris* sp., *Hedyotis* sp., *Ilex anomala, Myoporum sandwicense,* or *Sophora chrysophylla;* and
 
 (ii) Elevations between 1,366 and 1,755 m (4,482 and 5,759 ft).
+
+Family Campanulaceae: Cyanea marksii (HAHA)
+
+Hawaii 15—*Cyanea marksii*-a-Section 4, Hawaii 15—*Cyanea marksii*-b-Section 5, Hawaii 16—*Cyanea marksii*-c, Hawaii 37—*Cyanea marksii*-d, Hawaii 38—*Cyanea marksii*-e, Hawaii 39—*Cyanea marksii*-f, Hawaii 40—*Cyanea marksii*-g, Hawaii 41—*Cyanea marksii*-h, and Hawaii 56—*Cyanea marksii*-i, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Cyanea marksii* on Hawaii Island. In units Hawaii 15—*Cyanea marksii*-a-Section 4, Hawaii 15—*Cyanea marksii*-b-Section 5, Hawaii 16—*Cyanea marksii*-c, Hawaii 37—*Cyanea marksii*-d, Hawaii 38—*Cyanea marksii*-e, Hawaii 39—*Cyanea marksii*-f, Hawaii 40—*Cyanea marksii*-g, Hawaii 41—*Cyanea marksii*-h, and Hawaii 56—*Cyanea marksii*-i, the physical and biological features of critical habitat in wet forest ecosystem are:
+
+(i) Elevation: Less than 7,218 ft (2,200 m).
+
+(ii) Annual precipitation: Greater than 98 in (250 cm).
+
+(iii) Substrate: Very weathered soils to rocky substrate, basaltic lava, undeveloped soils, developed soils.
+
+(iv) Canopy contains one or more of the following native plant genera: *Acacia, Antidesma,**Cheirodendron, Ilex,**Melicope, Metrosideros,**Myrsine, Pittosporum,**Psychotria.*
+
+(v) Subcanopy contains one or more of the following native plant genera: *Cibotium, Clermontia,**Coprosma, Cyanea,**Freycinetia, Hydrangea,**Vaccinium.*
+
+(vi) Understory contains one or more of the following native plant genera: *Adenophorus, Cibotium,**Cyrtandra, Dicranopteris,**Huperzia, Peperomia,**Stenogyne.*
 
 Family Campanulaceae: *Cyanea platyphylla* (akuaku)
 
@@ -18672,6 +19158,70 @@ Hawaii 30—*Sicyos alba*—a, identified in the legal description in paragraph 
 (i) *Metrosideros polymorpha-Cibotium glaucum* dominated montane wet forests, containing one or more of the following associated native plant species: *Astelia menziesiana, Athyrium microphyllum* and other ferns, *Broussaisia arguta, Cheirodendron trigynum, Coprosma* sp., *Cyanea tritomantha, Cyrtandra lysiosepala, Perrottetia sandwicensis, Platydesma spathulata, Pritchardia beccariana, Psychotria* sp., or *Stenogyne* sp.; and
 
 (ii) Elevations between 966 and 1,546 m (3,170 and 5,072 ft).
+
+Family Campanulaceae: Cyanea tritomantha (AKU)
+
+Hawaii 3—*Cyanea tritomantha*-a, Hawaii 8—*Cyanea tritomantha*-b, Hawaii 9—*Cyanea tritomantha*-c, Hawaii 24—*Cyanea tritomantha*-d-Section 8, Hawaii 29—*Cyanea tritomantha-*e, Hawaii 30—*Cyanea tritomantha*-f, Hawaii 42—*Cyanea tritomantha*-g, Hawaii 44—*Cyanea tritomantha*-h, Hawaii 51—*Cyanea tritomantha*-i, Hawaii 52—*Cyanea tritomantha*-j, and Hawaii 54—*Cyanea tritomantha*-k, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Cyanea tritomantha* on Hawaii Island.
+
+(i) In units Hawaii 3—*Cyanea tritomantha*-a, Hawaii 24—*Cyanea tritomantha*-d-Section 8, Hawaii 29—*Cyanea tritomantha-*e, Hawaii 30—*Cyanea tritomantha*-f, Hawaii 42—*Cyanea tritomantha*-g, Hawaii 44—*Cyanea tritomantha*-h, Hawaii 51—*Cyanea tritomantha*-i, and Hawaii 52—*Cyanea tritomantha*-j, the physical and biological features of critical habitat in wet forest ecosystem are:
+
+(A) Elevation: Less than 7,218 ft (2,200 m).
+
+(B) Annual precipitation: Greater than 98 in (250 cm).
+
+(C) Substrate: Very weathered soils to rocky substrate, basaltic lava, undeveloped soils, developed soils.
+
+(D) Canopy contains one or more of the following native plant genera: *Acacia, Antidesma,**Cheirodendron, Ilex,**Melicope, Metrosideros,**Myrsine, Pittosporum,**Psychotria.*
+
+(E) Subcanopy contains one or more of the following native plant genera: *Cibotium, Clermontia,**Coprosma, Cyanea,**Freycinetia, Hydrangea,**Vaccinium.*
+
+(F) Understory contains one or more of the following native plant genera: *Adenophorus, Cibotium,**Cyrtandra, Dicranopteris,**Huperzia, Peperomia,**Stenogyne.*
+
+(ii) In units Hawaii 8—*Cyanea tritomantha*-b, Hawaii 9—*Cyanea tritomantha*-c, and Hawaii 54—*Cyanea tritomantha*-k, the physical and biological features of critical habitat in wet forest ecosystem are those provided above in paragraphs (i)(A) through (F) of this entry, and in wet grassland and shrubland ecosystem are:
+
+(A) Elevation: 656 to 2,953 ft (200 to 900 m).
+
+(B) Annual precipitation: 98 to 197 in (250 to 500 cm).
+
+(C) Substrate: Older, weathered soils to younger, rocky substrates.
+
+(D) Canopy contains one or more of the following native plant genera: *Ilex, Kadua,**Melicope, Metrosideros,**Myrsine.*
+
+(E) Subcanopy contains one or more of the following native plant genera: *Cibotium, Clermontia,**Dubautia, Freycinetia,**Hydrangea, Lobelia,**Pipturus, Touchardia,**Urera, Vaccinium.*
+
+(F) Understory contains one or more of the following native plant genera: *Carex, Cladium,**Deschampsia, Dicranopteris,**Eragrostis, Peperomia,**Phyllostegia, Scaevola.*
+
+Family Caryophyllaceae: Schiedea diffusa ssp. macraei (no common name)
+
+Hawaii 3—*Schiedea diffusa* ssp. *macraei*-a, Hawaii 8—*Schiedea diffusa* ssp. *macraei*-b, Hawaii 9—*Schiedea diffusa* ssp. *macraei*-c, Hawaii 15—*Schiedea diffusa* ssp. *macraei*-d-Section 4, Hawaii 15—*Schiedea diffusa* ssp. *macraei*-e-Section 5, Hawaii 16—*Schiedea diffusa* ssp. *macraei*-f, Hawaii 24—*Schiedea diffusa* ssp. *macraei*-g-Section 8, Hawaii 24—*Schiedea diffusa* ssp. *macraei*-h-Section 9, Hawaii 29—*Schiedea diffusa* ssp. *macraei*-i, Hawaii 30—*Schiedea diffusa* ssp. *macraei*-j, Hawaii 37—*Schiedea diffusa* ssp. *macraei*-k, Hawaii 38—*Schiedea diffusa* ssp. *macraei*-l, Hawaii 39—*Schiedea diffusa* ssp. *macraei*-m, Hawaii 40—*Schiedea diffusa* ssp. *macraei*-n, Hawaii 41—*Schiedea diffusa* ssp. *macraei*-o, Hawaii 42—*Schiedea diffusa* ssp. *macraei*-p, Hawaii 43—*Schiedea diffusa* ssp. *macraei*-q, Hawaii 44—*Schiedea diffusa* ssp. *macraei*-r, Hawaii 51—*Schiedea diffusa* ssp. *macraei*-s, Hawaii 52—*Schiedea diffusa* ssp. *macraei*-t, Hawaii 54—*Schiedea diffusa* ssp. *macraei*-u, and Hawaii 56—*Schiedea diffusa* ssp. *macraei*-v, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Schiedea diffusa* ssp. *macraei* on Hawaii Island. In units Hawaii 3—*Schiedea diffusa* ssp. *macraei*-a, Hawaii 8—*Schiedea diffusa* ssp. *macraei*-b, Hawaii 9—*Schiedea diffusa* ssp. *macraei*-c, Hawaii 15—*Schiedea diffusa* ssp. *macraei*-d-Section 4, Hawaii 15—*Schiedea diffusa* ssp. *macraei*-e-Section 5, Hawaii 16—*Schiedea diffusa* ssp. *macraei*-f, Hawaii 24—*Schiedea diffusa* ssp. *macraei*-g-Section 8, Hawaii 24—*Schiedea diffusa* ssp. *macraei*-h-Section 9, Hawaii 29—*Schiedea diffusa* ssp. *macraei*-i, Hawaii 30—*Schiedea diffusa* ssp. *macraei*-j, Hawaii 37—*Schiedea diffusa* ssp. *macraei*-k, Hawaii 38—*Schiedea diffusa* ssp. *macraei*-l, Hawaii 39—*Schiedea diffusa* ssp. *macraei*-m, Hawaii 40—*Schiedea diffusa* ssp. *macraei*-n, Hawaii 41—*Schiedea diffusa* ssp. *macraei*-o, Hawaii 42—*Schiedea diffusa* ssp. *macraei*-p, Hawaii 43—*Schiedea diffusa* ssp. *macraei*-q, Hawaii 44—*Schiedea diffusa* ssp. *macraei*-r, Hawaii 51—*Schiedea diffusa* ssp. *macraei*-s, Hawaii 52—*Schiedea diffusa* ssp. *macraei*-t, Hawaii 54—*Schiedea diffusa* ssp. *macraei*-u, and Hawaii 56—*Schiedea diffusa* ssp. *macraei*-v, the physical and biological features of critical habitat in wet forest ecosystem are:
+
+(i) Elevation: Less than 7,218 ft (2,200 m).
+
+(ii) Annual precipitation: Greater than 98 in (250 cm).
+
+(iii) Substrate: Very weathered soils to rocky substrate, basaltic lava, undeveloped soils, developed soils.
+
+(iv) Canopy contains one or more of the following native plant genera: *Acacia, Antidesma,**Cheirodendron, Ilex,**Melicope, Metrosideros,**Myrsine, Pittosporum,**Psychotria.*
+
+(v) Subcanopy contains one or more of the following native plant genera: *Cibotium, Clermontia,**Coprosma, Cyanea,**Freycinetia, Hydrangea,**Vaccinium.*
+
+(vi) Understory contains one or more of the following native plant genera: *Adenophorus, Cibotium,**Cyrtandra, Dicranopteris,**Huperzia, Peperomia,**Stenogyne.*
+
+Family Caryophyllaceae: Schiedea hawaiiensis (MAOLIOLI)
+
+Hawaii 55—*Schiedea hawaiiensis*-a, identified in the legal descriptions in paragraph (k) of this section, constitutes critical habitat for *Schiedea hawaiiensis* on Hawaii Island. In unit Hawaii 55—*Schiedea hawaiiensis*-a, the physical and biological features of critical habitat in dry forest ecosystem are:
+
+(i) Elevation: Less than 9,500 ft (2,900 m).
+
+(ii) Annual precipitation: Less than 79 in (200 cm).
+
+(iii) Substrate: Well-drained, sandy loams or loams from volcanic ash or cinder; weathered basaltic lava.
+
+(iv) Canopy contains one or more of the following native plant genera: *Acacia, Colubrina, Diospyros, Erythrina, Melicope, Metrosideros, Myoporum, Myrsine, Sophora.*
+
+(v) Subcanopy contains one or more of the following native plant genera: *Achyranthes, Euphorbia,**Leptecophylla, Nototrichium.*
+
+(vi) Understory contains one or more of the following native plant genera: *Dodonaea, Doryopteris,**Heteropogon, Pellaea.*
 
 Family Cyperaceae: Cyperaceae fauriei (NCN)
 
@@ -18760,6 +19310,116 @@ Hawaii 3—*Phyllostegia warshaueri*—a and Hawaii 8—*Phyllostegia warshaueri
 (i) *Metrosideros polymorpha* and *Cibotium* montane and lowland wet forest, in which *Acacia koa* or *Cheirodendron trigynum* may co-dominate, and containing one or more of the following associated native plant species: *Antidesma platyphyllum, Athyrium sandwicensis, Broussaisia arguta, Clermontia parviflora, Coprosma* sp., *Cyanea pilosa, Cyanea* spp., *Hedyotis* sp., *Machaerina angustifolia, Pipturus albidus, Psychotria hawaiiensis,* or *Sadleria pallida;* and
 
 (ii) Elevations between 681 and 1,411 m (2,234 and 4,629 ft).
+
+Family Gesneriaceae: Cyrtandra nanawaleensis (HAIWALE)
+
+Hawaii 28—*Cyrtandra nanawaleensis*-a, Hawaii 46—*Cyrtandra nanawaleensis*-b, Hawaii 47—*Cyrtandra nanawaleensis*-c, Hawaii 48—*Cyrtandra nanawaleensis*-d, Hawaii 49—*Cyrtandra nanawaleensis*-e, and Hawaii 50—*Cyrtandra nanawaleensis*-f, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Cyrtandra nanawaleensis* on Hawaii Island.
+
+(i) In units Hawaii 28—*Cyrtandra nanawaleensis*-a, Hawaii 46—*Cyrtandra nanawaleensis*-b, Hawaii 47—*Cyrtandra nanawaleensis*-c, and Hawaii 48—*Cyrtandra nanawaleensis*-d, the physical and biological features of critical habitat in wet forest ecosystem are:
+
+(A) Elevation: Less than 7,218 ft (2,200 m).
+
+(B) Annual precipitation: Greater than 98 in (250 cm).
+
+(C) Substrate: Very weathered soils to rocky substrate, basaltic lava, undeveloped soils, developed soils.
+
+(D) Canopy contains one or more of the following native plant genera: *Acacia, Antidesma,**Cheirodendron, Ilex,**Melicope, Metrosideros,**Myrsine, Pittosporum,**Psychotria.*
+
+(E) Subcanopy contains one or more of the following native plant genera: *Cibotium, Clermontia,**Coprosma, Cyanea,**Freycinetia, Hydrangea,**Vaccinium.*
+
+(F) Understory contains one or more of the following native plant genera: *Adenophorus, Cibotium,**Cyrtandra, Dicranopteris,**Huperzia, Peperomia,**Stenogyne.*
+
+(ii) In units Hawaii 49—*Cyrtandra nanawaleensis*-e and Hawaii 50—*Cyrtandra nanawaleensis*-f, the physical and biological features of critical habitat in wet forest ecosystem are those provided above in paragraphs (i)(A) through (F) of this entry, and in the mesic forest ecosystem and mesic grassland and shrubland ecosystem are:
+
+(A) Elevation: Less than 6,562 ft (2,000 m) in mesic forest ecosystem, and 98 to 7,546ft (30 to 2,300 m) in mesic grassland and shrubland ecosystem.
+
+(B) Annual precipitation: 39 to 150 in (100 to 380 cm) in mesic forest ecosystem, and 39 to 98 in (100 to 250 cm) in mesic grassland and shrubland ecosystem.
+
+(C) Substrate: Rocky, shallow, organic muck soils; rocky talus soils; shallow soils over weathered rock; deep soils over soft weathered rock; and gravelly alluvium in mesic forest ecosystem; and shallow soils that frequently dry with rocky outcrops in mesic grassland and shrubland ecosystem.
+
+(D) Canopy contains one or more of the following native plant genera: *Acacia, Antidesma,**Charpentiera, Chrysodracon,**Metrosideros, Myrsine,**Nestegis, Pisonia,**Santalum* in mesic forest ecosystem; and *Coprosma, Metrosideros,**Wilkesia* in mesic grassland and shrubland ecosystem.
+
+(E) Subcanopy contains one or more of the following native plant genera: *Coprosma, Freycinetia,**Leptecophylla, Myoporum,**Pipturus, Rubus,**Sadleria, Sophora* in mesic forest ecosystem; and *Dodonaea, Dubautia,**Leptecophylla, Osteomeles,**Sadleria, Vaccinium* in mesic grassland and shrubland ecosystem.
+
+(F) Understory contains one or more of the following native plant genera: *Ctenitis, Doodia,**Dryopteris, Pelea,**Sadleria* in mesic forest ecosystem; and *Bidens, Carex,**Deschampsia, Dicranopteris,**Dryopteris, Eragrostis,**Euphorbia, Lipochaeta* in mesic grassland and shrubland ecosystem.
+
+Family Gesneriaceae: Cyrtandra wagneri (HAIWALE)
+
+Hawaii 3—*Cyrtandra wagneri*-a and Hawaii 52—*Cyrtandra wagneri*-b, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Cyrtandra wagneri* on Hawaii Island. In units Hawaii 3—*Cyrtandra wagneri*-a and Hawaii 52—*Cyrtandra wagneri*-b, the physical and biological features of critical habitat in wet forest ecosystem are:
+
+(i) Elevation: Less than 7,218 ft (2,200 m).
+
+(ii) Annual precipitation: Greater than 98 in (250 cm).
+
+(iii) Substrate: Very weathered soils to rocky substrate, basaltic lava, undeveloped soils, developed soils.
+
+(iv) Canopy contains one or more of the following native plant genera: *Acacia, Antidesma,**Cheirodendron, Ilex,**Melicope, Metrosideros,**Myrsine, Pittosporum,**Psychotria.*
+
+(v) Subcanopy contains one or more of the following native plant genera: *Cibotium, Clermontia,**Coprosma, Cyanea,**Freycinetia, Hydrangea,**Vaccinium.*
+
+(vi) Understory contains one or more of the following native plant genera: *Adenophorus, Cibotium,**Cyrtandra, Dicranopteris,**Huperzia, Peperomia,**Stenogyne.*
+
+Family Lamiaceae: Phyllostegia floribunda (no common name)
+
+Hawaii 3—*Phyllostegia floribunda*-a, Hawaii 8—*Phyllostegia floribund*a-b, Hawaii 9—*Phyllostegia floribunda*-c, Hawaii 15—*Phyllostegia floribunda*-d-Section 4, Hawaii 15—*Phyllostegia floribunda*-e-Section 5, Hawaii 16—*Phyllostegia floribunda*-f, Hawaii 23—*Phyllostegia floribunda*-g, Hawaii 28—*Phyllostegia floribunda*-h, Hawaii 29—*Phyllostegia floribunda*-i, Hawaii 30—*Phyllostegia floribunda*-j, Hawaii 37—*Phyllostegia floribunda*-k, Hawaii 38—*Phyllostegia floribunda*-l, Hawaii 39—*Phyllostegia floribunda*-m, Hawaii 40—*Phyllostegia floribunda*-n, Hawaii 41—*Phyllostegia floribunda*-o, Hawaii 42—*Phyllostegia floribunda*-p, Hawaii 45—*Phyllostegia floribunda*-q, Hawaii 46—*Phyllostegia floribunda*-r, Hawaii 51—*Phyllostegia floribunda*-s, Hawaii 52—*Phyllostegia floribunda*-t, and Hawaii 54—*Phyllostegia floribunda*-u, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Phyllostegia floribunda* on Hawaii Island.
+
+(i) In units Hawaii 3—*Phyllostegia floribunda*-a, Hawaii 15—*Phyllostegia floribunda*-d-Section 4, Hawaii 15—*Phyllostegia floribunda*-e-Section 5, Hawaii 16—*Phyllostegia floribunda*-f, Hawaii 29—*Phyllostegia floribunda*-i, Hawaii 30—*Phyllostegia floribunda*-j, Hawaii 37—*Phyllostegia floribunda*-k, Hawaii 38—*Phyllostegia floribunda*-l, Hawaii 39—*Phyllostegia floribunda*-m, Hawaii 40—*Phyllostegia floribunda*-n, Hawaii 41—*Phyllostegia floribunda*-o, Hawaii 51—*Phyllostegia floribunda*-s, and Hawaii 52—*Phyllostegia floribunda*-t, the physical and biological features of critical habitat in wet forest ecosystem are:
+
+(A) Elevation: Less than 7,218 ft (2,200 m).
+
+(B) Annual precipitation: Greater than 98 in (250 cm).
+
+(C) Substrate: Very weathered soils to rocky substrate, basaltic lava, undeveloped soils, developed soils.
+
+(D) Canopy contains one or more of the following native plant genera: *Acacia, Antidesma,**Cheirodendron, Ilex,**Melicope, Metrosideros,**Myrsine, Pittosporum,**Psychotria.*
+
+(E) Subcanopy contains one or more of the following native plant genera: *Cibotium, Clermontia,**Coprosma, Cyanea,**Freycinetia, Hydrangea,**Vaccinium.*
+
+(F) Understory contains one or more of the following native plant genera: *Adenophorus, Cibotium,**Cyrtandra, Dicranopteris,**Huperzia, Peperomia,**Stenogyne.*
+
+(ii) In units Hawaii 8—*Phyllostegia floribund*a-b, Hawaii 9—*Phyllostegia floribunda*-c, Hawaii 23—*Phyllostegia floribunda*-g, Hawaii 28—*Phyllostegia floribunda*-h, Hawaii 45—*Phyllostegia floribunda*-q, Hawaii 46—*Phyllostegia floribunda*-r, and Hawaii 54—*Phyllostegia floribunda*-u, the physical and biological features of critical habitat in wet forest ecosystem are those provided above in paragraphs (i)(A) through (F) of this entry, and in wet grassland and shrubland ecosystem are:
+
+(A) Elevation: 656 to 2,953 ft (200 to 900 m).
+
+(B) Annual precipitation: 98 to 197 in (250 to 500 cm).
+
+(C) Substrate: Older, weathered soils to younger, rocky substrates.
+
+(D) Canopy contains one or more of the following native plant genera: *Ilex, Kadua,**Melicope, Metrosideros,**Myrsine.*
+
+(E) Subcanopy contains one or more of the following native plant genera: *Cibotium, Clermontia,**Dubautia, Freycinetia,**Hydrangea, Lobelia,**Pipturus, Touchardia,**Urera, Vaccinium.*
+
+(F) Understory contains one or more of the following native plant genera: *Carex, Cladium,**Deschampsia, Dicranopteris,**Eragrostis, Peperomia,**Phyllostegia, Scaevola.*
+
+(iii) In unit Hawaii 42—*Phyllostegia floribunda*-p, the physical and biological features of critical habitat in wet forest ecosystem are those provided above in paragraphs (i)(A) through (F) of this entry, and in mesic forest ecosystem are:
+
+(A) Elevation of less than 6,562 ft (2,000 m).
+
+(B) Annual precipitation of 39 to 150 in (100 to 380 cm).
+
+(C) Substrate of rocky, shallow, organic muck soils; rocky talus soils; shallow soils over weathered rock; deep soils over soft weathered rock; or gravelly alluvium.
+
+(D) Canopy contains one or more of the following native plant genera: *Acacia, Antidesma,**Charpentiera, Chrysodracon,**Metrosideros, Myrsine,**Nestegis, Pisonia,**Santalum.*
+
+(E) Subcanopy contains one or more of the following native plant genera: *Coprosma, Freycinetia,**Leptecophylla, Myoporum,**Pipturus, Rubus,**Sadleria, Sophora.*
+
+(F) Understory contains one or more of the following native plant genera: *Ctenitis, Doodia,**Dryopteris, Pelea,**Sadleria.*
+
+Family Lamiaceae: Stenogyne cranwelliae (no common name)
+
+Hawaii 3—*Stenogyne cranwelliae*-a, Hawaii 8—*Stenogyne cranwelliae*-b, Hawaii 9—*Stenogyne cranwelliae*-c, Hawaii 15—*Stenogyne cranwelliae*-d-Section 4, Hawaii 15—*Stenogyne cranwelliae*-e-Section 5, Hawaii 16—*Stenogyne cranwelliae*-f, Hawaii 24—*Stenogyne cranwelliae*-g-Section 8, Hawaii 24—*Stenogyne cranwelliae*-h-Section 9, Hawaii 29—*Stenogyne cranwelliae*-i, Hawaii 30—*Stenogyne cranwelliae*-j, Hawaii 37—*Stenogyne cranwelliae*-k, Hawaii 38—*Stenogyne cranwelliae*-l, Hawaii 39—*Stenogyne cranwelliae*-m, Hawaii 40—*Stenogyne cranwelliae*-n, Hawaii 41—*Stenogyne cranwelliae*-o, Hawaii 42—*Stenogyne cranwelliae*-p, Hawaii 43—*Stenogyne cranwelliae*-q, Hawaii 44—*Stenogyne cranwelliae*-r, Hawaii 51—*Stenogyne cranwelliae*-s, Hawaii 52—*Stenogyne cranwelliae*-t, and Hawaii 54—*Stenogyne cranwelliae*-u, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Stenogyne cranwelliae* on Hawaii Island. In units Hawaii 3—*Stenogyne cranwelliae*-a, Hawaii 8—*Stenogyne cranwelliae*-b, Hawaii 9—*Stenogyne cranwelliae*-c, Hawaii 15—*Stenogyne cranwelliae*-d-Section 4, Hawaii 15—*Stenogyne cranwelliae*-e-Section 5, Hawaii 16—*Stenogyne cranwelliae*-f, Hawaii 24—*Stenogyne cranwelliae*-g-Section 8, Hawaii 24—*Stenogyne cranwelliae*-h-Section 9, Hawaii 29—*Stenogyne cranwelliae*-i, Hawaii 30—*Stenogyne cranwelliae*-j, Hawaii 37—*Stenogyne cranwelliae*-k, Hawaii 38—*Stenogyne cranwelliae*-l, Hawaii 39—*Stenogyne cranwelliae*-m, Hawaii 40—*Stenogyne cranwelliae*-n, Hawaii 41—*Stenogyne cranwelliae*-o, Hawaii 42—*Stenogyne cranwelliae*-p, Hawaii 43—*Stenogyne cranwelliae*-q, Hawaii 44—*Stenogyne cranwelliae*-r, Hawaii 51—*Stenogyne cranwelliae*-s, Hawaii 52—*Stenogyne cranwelliae*-t, and Hawaii 54—*Stenogyne cranwelliae*-u, the physical and biological features of critical habitat in wet forest ecosystem are:
+
+(i) Elevation: Less than 7,218 ft (2,200 m).
+
+(ii) Annual precipitation: Greater than 98 in (250 cm).
+
+(iii) Substrate: Very weathered soils to rocky substrate, basaltic lava, undeveloped soils, developed soils.
+
+(iv) Canopy contains one or more of the following native plant genera: *Acacia, Antidesma,**Cheirodendron, Ilex,**Melicope, Metrosideros,**Myrsine, Pittosporum,**Psychotria.*
+
+(v) Subcanopy contains one or more of the following native plant genera: *Cibotium, Clermontia,**Coprosma, Cyanea,**Freycinetia, Hydrangea,**Vaccinium.*
+
+(vi) Understory contains one or more of the following native plant genera: *Adenophorus, Cibotium,**Cyrtandra, Dicranopteris,**Huperzia, Peperomia,**Stenogyne.*
 
 Family Liliaceae: Dracaena Konaensis (Hala Pepe)
 
@@ -18896,6 +19556,54 @@ Hawaii 10—*Isodendrion pyrifolium*—a, Hawaii 31—*Isodendrion pyrifolium*�
 (v) Subcanopy: *Chamaesyce, Dodonaea, Osteomeles, Psydrax, Scaevola, Wikstroemia.*
 
 (vi) Understory: *Alyxia, Artemisia, Bidens, Capparis, Chenopodium, Nephrolepis, Peperomia, Sicyos.*
+
+Family Pittosporaceae: Pittosporum hawaiiense (HOAWA, HAAWA)
+
+Hawaii 3—*Pittosporum hawaiiense*-a, Hawaii 8—*Pittosporum hawaiiense*-b, Hawaii 9—*Pittosporum hawaiiense*-c, Hawaii 15—*Pittosporum hawaiiense*-d-Section 4, Hawaii 15—*Pittosporum hawaiiense*-e-Section 5, Hawaii 16—*Pittosporum hawaiiense*-f, Hawaii 23—*Pittosporum hawaiiense*-g, Hawaii 24—*Pittosporum hawaiiense*-h-Section 8, Hawaii 24—*Pittosporum hawaiiense*-i-Section 9, Hawaii 29—*Pittosporum hawaiiense*-j, Hawaii 30—*Pittosporum hawaiiense*-k, Hawaii 37—*Pittosporum hawaiiense*-l, Hawaii 38—*Pittosporum hawaiiense*-m, Hawaii 39—*Pittosporum hawaiiense*-n, Hawaii 40—*Pittosporum hawaiiense*-o, Hawaii 41—*Pittosporum hawaiiense*-p, Hawaii 42—*Pittosporum hawaiiense*-q, Hawaii 43—*Pittosporum hawaiiense*-r, Hawaii 44—*Pittosporum hawaiiense*-s, Hawaii 45—*Pittosporum hawaiiense*-t, Hawaii 51—*Pittosporum hawaiiense*-u, Hawaii 52—*Pittosporum hawaiiense*-v, and Hawaii 54—*Pittosporum hawaiiense*-w, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Pittosporum hawaiiense* on Hawaii Island.
+
+(i) In units Hawaii 3—*Pittosporum hawaiiense*-a, Hawaii 8—*Pittosporum hawaiiense*-b, Hawaii 9—*Pittosporum hawaiiense*-c, Hawaii 15—*Pittosporum hawaiiense*-d-Section 4, Hawaii 15—*Pittosporum hawaiiense*-e-Section 5, Hawaii 16—*Pittosporum hawaiiense*-f, Hawaii 23—*Pittosporum hawaiiense*-g, Hawaii 29—*Pittosporum hawaiiense*-j, Hawaii 30—*Pittosporum hawaiiense*-k, Hawaii 37—*Pittosporum hawaiiense*-l, Hawaii 38—*Pittosporum hawaiiense*-m, Hawaii 39—*Pittosporum hawaiiense*-n, Hawaii 40—*Pittosporum hawaiiense*-o, Hawaii 41—*Pittosporum hawaiiense*-p, Hawaii 45—*Pittosporum hawaiiense*-t, Hawaii 51—*Pittosporum hawaiiense*-u, Hawaii 52—*Pittosporum hawaiiense*-v, and Hawaii 54—*Pittosporum hawaiiense*-w, the physical and biological features of critical habitat in wet forest ecosystem are:
+
+(A) Elevation: Less than 7,218 ft (2,200 m).
+
+(B) Annual precipitation: Greater than 98 in (250 cm).
+
+(C) Substrate: Very weathered soils to rocky substrate, basaltic lava, undeveloped soils, developed soils.
+
+(D) Canopy contains one or more of the following native plant genera: *Acacia, Antidesma,**Cheirodendron, Ilex,**Melicope, Metrosideros,**Myrsine, Pittosporum,**Psychotria.*
+
+(E) Subcanopy contains one or more of the following native plant genera: *Cibotium, Clermontia,**Coprosma, Cyanea,**Freycinetia, Hydrangea,**Vaccinium.*
+
+(F) Understory contains one or more of the following native plant genera: *Adenophorus, Cibotium,**Cyrtandra, Dicranopteris,**Huperzia, Peperomia,**Stenogyne.*
+
+(ii) In units Hawaii 24—*Pittosporum hawaiiense*-h-Section 8, Hawaii 24—*Pittosporum hawaiiense*-i-Section 9, Hawaii 42—*Pittosporum hawaiiense*-q, Hawaii 43—*Pittosporum hawaiiense*-r, and Hawaii 44—*Pittosporum hawaiiense*-s, the physical and biological features of critical habitat in wet forest ecosystem are those provided above in paragraphs (i)(A) through (F) of this entry, and in mesic forest ecosystem are:
+
+(A) Elevation: Less than 6,562 ft (2,000 m).
+
+(B) Annual precipitation: 39 to 150 in (100 to 380 cm).
+
+(C) Substrate: Rocky, shallow, organic muck soils; rocky talus soils; shallow soils over weathered rock; deep soils over soft weathered rock; gravelly alluvium.
+
+(D) Canopy contains one or more of the following native plant genera: *Acacia, Antidesma,**Charpentiera, Chrysodracon,**Metrosideros, Myrsine,**Nestegis, Pisonia,**Santalum.*
+
+(E) Subcanopy contains one or more of the following native plant genera: *Coprosma, Freycinetia,**Leptecophylla, Myoporum,**Pipturus, Rubus,**Sadleria, Sophora.*
+
+(F) Understory contains one or more of the following native plant genera: *Ctenitis, Doodia,**Dryopteris, Pelea,**Sadleria.*
+
+Family Rutaceae: Melicope remyi (no common name)
+
+Hawaii 3—*Melicope remyi*-a, Hawaii 8—*Melicope remyi*-b, Hawaii 9—*Melicope remyi*-c, Hawaii 52—*Melicope remyi*-d, and Hawaii 54—*Melicope remyi*-e, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Melicope remyi* on Hawaii Island. In units Hawaii 3—*Melicope remyi*-a, Hawaii 8—*Melicope remyi*-b, Hawaii 9—*Melicope remyi*-c, Hawaii 52—*Melicope remyi*-d, and Hawaii 54—*Melicope remyi*-e, the physical and biological features of critical habitat in wet forest ecosystem are:
+
+(i) Elevation: Less than 7,218 ft (2,200 m).
+
+(ii) Annual precipitation: Greater than 98 in (250 cm).
+
+(iii) Substrate: Very weathered soils to rocky substrate, basaltic lava, undeveloped soils, developed soils.
+
+(iv) Canopy contains one or more of the following native plant genera: *Acacia, Antidesma,**Cheirodendron, Ilex,**Melicope, Metrosideros,**Myrsine, Pittosporum,**Psychotria.*
+
+(v) Subcanopy contains one or more of the following native plant genera: *Cibotium, Clermontia,**Coprosma, Cyanea,**Freycinetia, Hydrangea,**Vaccinium.*
+
+(vi) Understory contains one or more of the following native plant genera: *Adenophorus, Cibotium,**Cyrtandra, Dicranopteris,**Huperzia, Peperomia,**Stenogyne.*
 
 (2) *Fern and allies.*
 

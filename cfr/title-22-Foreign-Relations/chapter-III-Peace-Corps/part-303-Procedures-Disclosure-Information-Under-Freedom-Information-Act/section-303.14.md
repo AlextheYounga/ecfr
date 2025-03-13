@@ -1,5 +1,7 @@
 ##### § 303.14 Procedures for responding to a subpoena. #####
 
+Link to an amendment published at 89 FR 25525, Apr. 11, 2024.Link to an amendment published at 89 FR 25526, Apr. 11, 2024.Link to an amendment published at 89 FR 25530, Apr. 11, 2024.
+
 (a) *Purpose and scope.* (1) This part sets forth the procedures to be followed in proceedings in which the Peace Corps is not a party, whenever a subpoena, order or other demand (collectively referred to as a “demand”) of a court or other authority is issued for:
 
 (i) The production or disclosure of any material contained in the files of the Agency;

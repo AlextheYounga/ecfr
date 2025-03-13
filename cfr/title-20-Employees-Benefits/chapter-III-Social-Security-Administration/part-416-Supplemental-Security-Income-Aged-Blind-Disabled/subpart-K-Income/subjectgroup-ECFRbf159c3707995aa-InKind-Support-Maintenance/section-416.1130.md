@@ -1,6 +1,6 @@
 ##### § 416.1130 Introduction. #####
 
-Link to an amendment published at 89 FR 21209, Mar. 27, 2024.
+Link to an amendment published at 89 FR 21209, Mar. 27, 2024.Link to an amendment published at 89 FR 25514, Apr. 11, 2024.
 
 (a) *General.* Both earned income and unearned income include items received in kind (§ 416.1102). Generally, we value in-kind items at their current market value and we apply the various exclusions for both earned and unearned income. However, we have special rules for valuing food or shelter that is received as unearned income (in-kind support and maintenance). This section and the ones that follow discuss these rules. In these sections (§§ 416.1130 through 416.1148) we use the in-kind support and maintenance you receive in the month as described in § 416.420 to determine your SSI benefit. We value the in-kind support and maintenance using the Federal benefit rate for the month in which you receive it. *Exception:* For the first 2 months for which a cost-of-living adjustment applies, we value in-kind support and maintenance you receive using the VTR or PMV based on the Federal benefit rate as increased by the cost-of-living adjustment.
 

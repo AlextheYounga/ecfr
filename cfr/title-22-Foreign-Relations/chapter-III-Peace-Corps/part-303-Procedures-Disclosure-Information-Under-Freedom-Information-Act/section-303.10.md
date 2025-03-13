@@ -1,5 +1,7 @@
 ##### § 303.10 Responsibilities and authorities. #####
 
+Link to an amendment published at 89 FR 25525, Apr. 11, 2024.
+
 (a) *Legal counsel.* The General Counsel (GC) shall furnish legal advice to Peace Corps officials and staff as to their obligations under this part and shall take such other actions as may be necessary or appropriate to assure a consistent and equitable application of the provisions of this part by and within the Peace Corps. The OIG Legal Counsel will coordinate with GC, as appropriate and necessary, when furnishing legal advice to the OIG FOIA Officer and Inspector General.
 
 (b) *Authority to grant or deny requests.* The FOIA Officer is authorized to grant or deny requests for records, except for OIG records, under this part. The OIG FOIA Officer is authorized to grant or deny requests for OIG records under this part. The FOIA Officer and the OIG FOIA Officer shall consult with each other when a request includes both Peace Corps and OIG records in order to ensure consistency and lack of duplication in processing the request.

@@ -1,5 +1,7 @@
 ##### § 303.13 Fees. #####
 
+Link to an amendment published at 89 FR 25525, Apr. 11, 2024.Link to an amendment published at 89 FR 25527, Apr. 11, 2024.
+
 (a) For information routinely provided by the Peace Corps to the public in the normal course of doing business, such as informational or recruiting brochures, no fees will be charged.
 
 (b) For each commercial use request, fees will be limited to reasonable standard charges for document search, review, and duplication.

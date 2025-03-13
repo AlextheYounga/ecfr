@@ -1,5 +1,7 @@
 ##### § 303.5 Public reading room. #####
 
+Link to an amendment published at 89 FR 25523, Apr. 11, 2024.
+
 (a) The Peace Corps maintains a public reading room at its headquarters at 1111 20th Street NW., Washington DC 20526. This room is supervised and is open to the public during Peace Corps' regular business hours for inspecting and copying records described in paragraph (b) of this section.
 
 (b) Subject to the limitation stated in paragraph (c) of this section, the Peace Corps makes the following records available in the public reading room:
