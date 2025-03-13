@@ -14,6 +14,6 @@
 
 (5) Environmental and economic impact assessments of the effects.
 
-(c) The determination of an alternative planning criteria request will be conducted by Commandant (CG-CVC), Office of Commercial Vessel Compliance.
+(c) The determination of an alternative planning criteria request will be conducted by Commandant (CG-MER), Office of Marine Environmental Response Policy.
 
-[USCG-2009-1070, 78 FR 60124, Sept. 30, 2013, as amended at USCG-2016-0498, 82 FR 35083, July 28, 2017]
+[USCG-2009-1070, 78 FR 60124, Sept. 30, 2013, as amended at USCG-2016-0498, 82 FR 35083, July 28, 2017; USCG-2023-0759, 89 FR 22948, Apr. 3, 2024]

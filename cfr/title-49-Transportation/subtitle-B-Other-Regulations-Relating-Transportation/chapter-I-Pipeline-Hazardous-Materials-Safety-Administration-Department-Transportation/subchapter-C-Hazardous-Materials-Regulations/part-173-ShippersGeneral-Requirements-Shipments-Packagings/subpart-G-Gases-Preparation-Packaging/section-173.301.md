@@ -1,33 +1,26 @@
-##### § 173.301 General requirements for shipment of compressed gases and other hazardous materials in cylinders, UN pressure receptacles and spherical pressure vessels. #####
-
-Link to an amendment published at 89 FR 15665, Mar. 4, 2024.
+##### § 173.301 General requirements for shipment of compressed gases and other hazardous materials in cylinders, UN pressure receptacles, and spherical pressure vessels. #####
 
 (a) *General qualifications for use of cylinders.* Unless otherwise stated, as used in this section, the term “cylinder” includes a UN pressure receptacle. As used in this subpart, filled or charged means an introduction or presence of a hazardous material in a cylinder. A cylinder filled with a Class 2 hazardous material (gas) and offered for transportation must meet the requirements in this section and §§ 173.301a through 173.305, as applicable.
 
 (1) Compressed gases must be in UN pressure receptacles built in accordance with the UN standards or in metal cylinders and containers built in accordance with the DOT and ICC specifications and part 178 of this subchapter in effect at the time of manufacture or CRC, BTC, CTC or TC specification, and requalified and marked as prescribed in subpart C in part 180 of this subchapter, if applicable. The DOT, ICC, CRC, BTC, CTC and TC specifications authorized for use are as follows:
 
-Packagings<sup>1</sup>
-
-|                 |       |
-|-----------------|-------|
-|       2P        |4AA480 |
-|       2Q        |  4B   |
-|ICC-3<sup>2</sup>|4B240ET|
-|       3A        |  4BA  |
-|       3AA       |  4BW  |
-|       3AL       |  4D   |
-|       3AX       |  4DA  |
-|     3A480X      |  4DS  |
-|      3AAX       |  4E   |
-|       3B        |  4L   |
-|       3BN       |   8   |
-|       3E        |  8AL  |
-|       3HT       |  39   |
-|       3T        |       |
-
-<sup>1</sup> Authorized CRC, BTC, CTC or TC specification cylinders that correspond with a DOT specification cylinder are listed in § 171.12(a)(4)(iii) of this subchapter.
-
-<sup>2</sup> Use of existing cylinders is authorized. New construction is not authorized.
+|                                                                                    2P                                                                                     |4AA480 |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+|                                                                                    2Q                                                                                     |  4B   |
+|                                                                            ICC-3 <sup>2</sup>                                                                             |4B240ET|
+|                                                                                    3A                                                                                     |  4BA  |
+|                                                                                    3AA                                                                                    |  4BW  |
+|                                                                                    3AL                                                                                    |  4D   |
+|                                                                                    3AX                                                                                    |  4DA  |
+|                                                                                  3A480X                                                                                   |  4DS  |
+|                                                                                   3AAX                                                                                    |  4E   |
+|                                                                                    3B                                                                                     |  4L   |
+|                                                                                    3BN                                                                                    |   8   |
+|                                                                                    3E                                                                                     |  8AL  |
+|                                                                                    3HT                                                                                    |  39   |
+|                                                                                    3T                                                                                     |       |
+|<sup>1</sup> Authorized CRC, BTC, CTC or TC specification cylinders that correspond with a DOT specification cylinder are listed in § 171.12(a)(4)(iii) of this subchapter.|       |
+|                                         <sup>2</sup> Use of existing cylinders is authorized. New construction is not authorized.                                         |       |
 
 (2) A cylinder must be filled in accordance with this part, except that a “TC” cylinder must be filled in accordance with the Transport Canada TDG Regulations (IBR; see § 171.7 of this subchapter). Before each filling of a cylinder, the person filling the cylinder must visually inspect the outside of the cylinder. A cylinder that has a crack or leak, is bulged, has a defective valve or a leaking or defective pressure relief device, or bears evidence of physical abuse, fire or heat damage, or detrimental rusting or corrosion, may not be filled and offered for transportation. A cylinder may be repaired and requalified only as prescribed in subpart C of part 180 of this subchapter.
 
@@ -149,7 +142,7 @@ Packagings<sup>1</sup>
 
 (i) *Cylinders mounted in motor vehicles or in frames.* (1) MEGCs must conform to the requirements in § 173.312. DOT specification cylinders mounted on motor vehicles or in frames must conform to the requirements specified in this paragraph (i).
 
-(2) Seamless DOT specification cylinders longer than 2 m (6.5 feet) are authorized for transportation only when horizontally mounted on a motor vehicle or in an ISO framework or other framework of equivalent structural integrity in accordance with CGA TB-25 (IBR, see § 171.7 of this subchapter). The pressure relief device must be arranged to discharge unobstructed to the open air. In addition, for Division 2.1 (flammable gas) material, the pressure relief devices must be arranged to discharge upward to prevent any escaping gas from contacting personnel or any adjacent cylinders.
+(2) Seamless DOT specification cylinders longer than 2 m (6.5 ft) are authorized for transportation only when horizontally mounted on a motor vehicle or in an ISO framework or other framework of equivalent structural integrity in accordance with CGA C-29 (IBR, see § 171.7 of this subchapter). Seamless DOT specification cylinders longer than 2 m (6.5 ft) manufactured prior to May 11, 2009, may continue to use CGA TB-25 (IBR, see § 171.7 of this subchapter). The pressure relief device must be arranged to discharge unobstructed to the open air. In addition, for Division 2.1 (flammable gas) material, the pressure relief devices must be arranged to discharge upward to prevent any escaping gas from contacting personnel or any adjacent cylinders.
 
 (3) Cylinders may not be transported by rail in container on freight car (COFC) or trailer on flat car (TOFC) service except under conditions approved by the Associate Administrator for Safety, Federal Railroad Administration.
 

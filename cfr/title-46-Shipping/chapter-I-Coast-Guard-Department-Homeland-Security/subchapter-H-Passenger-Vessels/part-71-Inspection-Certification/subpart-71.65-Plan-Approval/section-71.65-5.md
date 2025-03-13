@@ -4,7 +4,7 @@
 
 (2) General Arrangement Plan of decks, holds, inner bottoms, etc., and including inboard and outboard profile.
 
-(b) *Hull structure.*1/\>
+(b) *Hull structure.*1
 
 1 The Asterisk (\*) indicates items that are approved by the American Bureau of Shipping for vessels classed by it. Items approved the American Bureau of Shipping are generally accepted as satisfactory unless the law or Coast Guard regulations contain requirements that are not covered by the American Bureau of Shipping.
 

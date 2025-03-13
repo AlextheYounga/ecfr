@@ -6,7 +6,7 @@
 
 (c) Containers of solidified alcohol must be secured on a fixed base.
 
-(d) Liquefied or non-liquefied gas is prohibited for cooking, heating, and lighting on ferry vessels, but may be used on other inspected vessels if the system in which it is used meets the applicable requirements of subpart 58.16 or subpart 184.05 of this chapter, as appropriate, or is approved by the Commandant (CG-ENG).
+(d) Liquefied or non-liquefied gas is prohibited for cooking, heating, and lighting on ferry vessels, but may be used on other inspected vessels if the system in which it is used meets the applicable requirements of subpart 58.16 or subpart B of part 184 of this chapter, as appropriate, or is approved by the Commandant (CG-ENG).
 
 (e) Kerosene and commercial standard fuel oil No. 1, No. 2, and No. 3 are prohibited for cooking, heating, or lighting on ferry or passenger vessels, unless the following conditions are met:
 
@@ -22,4 +22,4 @@
 
 (6) If the fuel tank is outside of a stove compartment, a shut-off valve must be fitted at the stove.
 
-[CGD 84-044, 53 FR 7749, Mar. 10, 1988, as amended by CGD 83-013, 54 FR 6402, Feb. 10, 1989; CGD 95-072, 60 FR 50465, Sept. 29, 1995; CGD 96-041, 61 FR 50731, Sept. 27, 1996]
+[CGD 84-044, 53 FR 7749, Mar. 10, 1988, as amended by CGD 83-013, 54 FR 6402, Feb. 10, 1989; CGD 95-072, 60 FR 50465, Sept. 29, 1995; CGD 96-041, 61 FR 50731, Sept. 27, 1996; USCG-2023-0759, 89 FR 22949, Apr. 3, 2024]

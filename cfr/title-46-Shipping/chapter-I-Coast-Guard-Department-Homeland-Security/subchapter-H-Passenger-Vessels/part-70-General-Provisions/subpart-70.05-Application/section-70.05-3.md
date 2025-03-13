@@ -1,6 +1,6 @@
 ##### § 70.05-3 Foreign vessels subject to the requirements of this subchapter. #####
 
-(a) Except as specifically noted in paragraphs (b) and (e), and (f) of this section, parts 70 to 78, inclusive, of this subchapter, shall be applicable to the extent prescribed by law to all foreign vessels of the following classifications indicated in column 4 of table 70.05-1(a) that are 100 gross tons or over:
+(a) Except as specifically noted in paragraphs (b), (e), and (f) of this section, parts 70 to 78, inclusive, of this subchapter, are applicable to the extent prescribed by law to all foreign vessels of the following classifications indicated in column 3 of Table 2.01-7(a) in § 2.01-7(a) of this chapter that are 100 gross tons or over:
 
 (1) Foreign vessels which carry more than 12 passengers from any port in the United States; or,
 
@@ -24,4 +24,4 @@
 
 (f) Notwithstanding the exceptions noted in paragraph (b) of this section, each foreign vessel must report marine casualties occurring while the vessel is in the navigable waters of the United States as required by subpart 78.07.
 
-[CGFR 65-50, 30 FR 16890, Dec. 30, 1965, as amended by CGFR 66-33, 31 FR 15280, Dec. 6, 1966; CGFR 68-65, 33 FR 19985, Dec. 28, 1968; CGFR 69-106a, 35 FR 16834, Oct. 31, 1970; CGD 72-187R, 38 FR 9081, Apr. 10, 1973; CGD 77-042, 42 FR 63643, Dec. 19, 1977; CGD 90-008, 55 FR 3066O, July 26, 1990; USCG-2014-0688, 79 FR 58281, Sept. 29, 2014]
+[CGFR 65-50, 30 FR 16890, Dec. 30, 1965, as amended by CGFR 66-33, 31 FR 15280, Dec. 6, 1966; CGFR 68-65, 33 FR 19985, Dec. 28, 1968; CGFR 69-106a, 35 FR 16834, Oct. 31, 1970; CGD 72-187R, 38 FR 9081, Apr. 10, 1973; CGD 77-042, 42 FR 63643, Dec. 19, 1977; CGD 90-008, 55 FR 3066O, July 26, 1990; USCG-2014-0688, 79 FR 58281, Sept. 29, 2014; USCG-2023-0759, 89 FR 22949, Apr. 3, 2024]

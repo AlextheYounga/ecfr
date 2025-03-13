@@ -1,6 +1,4 @@
-##### § 173.302a Additional requirements for shipment of nonliquefied (permanent) compressed gases in specification cylinders. #####
-
-Link to an amendment published at 89 FR 15665, Mar. 4, 2024.
+##### § 173.302a Additional requirements for shipment of non-liquefied (permanent) compressed gases in specification cylinders. #####
 
 (a) *Detailed filling requirements.* Nonliquefied compressed gases (except gas in solution) for which filling requirements are not specifically prescribed in § 173.304a must be shipped subject to the requirements in this section and §§ 173.301, 173.301a, 173.302, and 173.305 in specification cylinders, as follows:
 
@@ -51,23 +49,19 @@ S = (P(1.3D2 + 0.4d2)) / (D2−d2)Where:S = wall stress, pounds per square inch;
 
 (c) *Special filling limits for DOT 3A, 3AX, 3AA, and 3AAX cylinders containing Division 2.1 gases.* Except for transportation by aircraft, a DOT specification 3A, 3AX, 3AA, and 3AAX cylinder may be filled with hydrogen and mixtures of hydrogen with helium, argon or nitrogen, to a pressure 10% in excess of its marked service pressure subject to the following conditions:
 
-(1) The cylinder must conform to the requirements of paragraph (b)(2) and (b)(3) of this section;
+(1) The cylinder must conform to the requirements of paragraph (b)(2) and (b)(3) of this section.
 
-(2) The cylinder was manufactured after December 31, 1945;
+(2) The cylinder was manufactured after December 31, 1945.
 
 (3) DOT specification 3A and 3AX cylinders are limited to those having an intermediate manganese composition.
 
-(i) Cylinders manufactured with intermediate manganese steel must have been normalized, not quench and tempered. Quench and temper treatment of intermediate steel is not authorized.
+(4) Cylinders manufactured with intermediate manganese steel must have been normalized, not quenched and tempered. Quench and temper treatment of intermediate steel is not authorized.
 
-(ii) Cylinders manufactured with chrome moly steel must have been quenched and tempered, not normalized. Use of normalized chrome moly steel cylinders is not permitted.
+(5) Cylinders manufactured with chrome moly steel must have been quenched and tempered, not normalized. Use of normalized chrome moly steel cylinders is not permitted.
 
-(4) Cylinders must be equipped with pressure relief devices as follows:
+(6) Cylinders must be equipped with pressure relief devices sized and selected as to type, location, and quantity, and tested in accordance with § 173.301(f).
 
-(i) Cylinders less than 1.7 m (65 inches) in length must be equipped with fusible metal backed frangible disc devices;
-
-(ii) Cylinders 1.7 m (65 inches) or greater in length and 24.5 cm (9.63 inches) in diameter or larger must be equipped with fusible metal backed frangible disc devices or frangible disc devices, except as provided in paragraph (c)(4)(iii) of this section. Cylinders with a diameter of 0.56 m (22 inches) or larger must be equipped with frangible disc devices except as provided in paragraph (c)(4)(iii) of this section.
-
-(iii) Cylinders greater than 3.66 m (144 inches) in length that are horizontally mounted on a motor vehicle, in an ISO framework, or other framework of equivalent structural integrity are not required to be equipped with pressure relief devices. If such devices are installed, they must be selected in accordance with § 173.301(f).
+(7) A plus sign (+) is added following the test date marking on the cylinder.
 
 (d) *Carbon monoxide.* Carbon monoxide must be offered in a DOT 3, 3A, 3AX, 3AA, 3AAX, 3AL, 3E, or 3T cylinder having a minimum service pressure of 1800 psig. The pressure in a steel cylinder may not exceed 1000 psig at 21 °C (70 °F), except that if the gas is dry and sulfur free, the cylinder may be filled to5/6 of the cylinder's service pressure or 2000 psig, whichever is less. A DOT 3AL cylinder may be filled to its marked service pressure. A DOT 3AL cylinder is authorized only when transported by motor vehicle, rail car, or cargo-only aircraft.
 
@@ -75,4 +69,4 @@ S = (P(1.3D2 + 0.4d2)) / (D2−d2)Where:S = wall stress, pounds per square inch;
 
 (f) *Fluorine.* Fluorine must be shipped in specification 3A1000, 3AA1000, or 3BN400 cylinders without pressure relief devices and equipped with valve protection cap. The cylinder may not be charged to over 400 psig at 21 °C (70 °F) and may not contain over 2.7 kg (6 lbs) of gas.
 
-[67 FR 51646, Aug. 8, 2002, as amended at 68 FR 75745, Dec. 31, 2003; 70 FR 34075, June 13, 2005; 71 FR 54395, Sept. 14, 2006; 72 FR 4455, Jan. 31, 2007; 72 FR 55098, Sept. 28, 2007; 78 FR 1091, Jan. 7, 2013; 81 FR 3676, Jan. 21, 2016; 85 FR 85416, Dec. 28, 2020]
+[67 FR 51646, Aug. 8, 2002, as amended at 68 FR 75745, Dec. 31, 2003; 70 FR 34075, June 13, 2005; 71 FR 54395, Sept. 14, 2006; 72 FR 4455, Jan. 31, 2007; 72 FR 55098, Sept. 28, 2007; 78 FR 1091, Jan. 7, 2013; 81 FR 3676, Jan. 21, 2016; 85 FR 85416, Dec. 28, 2020; 89 FR 15665, Mar. 4, 2024]

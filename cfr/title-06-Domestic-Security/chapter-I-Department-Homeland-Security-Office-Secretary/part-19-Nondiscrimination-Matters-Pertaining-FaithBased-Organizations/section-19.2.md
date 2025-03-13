@@ -1,7 +1,5 @@
 ##### § 19.2 Definitions. #####
 
-Link to an amendment published at 89 FR 15705, Mar. 4, 2024.
-
 For purposes of this part:
 
 *Beneficiary* means an individual recipient of goods or services provided as part of a social service program specifically supported by Federal financial assistance. “Beneficiary” does not mean an individual who may incidentally benefit from Federal financial assistance provided to a State, local, or Tribal government, or a private nonprofit organization. Except where expressly noted or where inapplicable, “beneficiary” includes a prospective beneficiary.
@@ -10,15 +8,15 @@ For purposes of this part:
 
 *Explicitly religious activities* include activities that involve overt religious content such as worship, religious instruction, or proselytization. An activity is not explicitly religious merely because it is motivated by religious faith.
 
-*Financial assistance* means assistance that non-Federal entities receive or administer in the form of grants, sub-grants, contracts, subcontracts, prime awards, loans, loan guarantees, property, cooperative agreements, food, direct appropriations, or other assistance, including materiel for emergency response and incident management. Financial assistance includes assistance provided by DHS, its component organizations, regional offices, and DHS financial assistance administered by intermediaries such as State, local, and Tribal governments, such as formula or block grants. Financial assistance does not include a tax credit, deduction, exemption, guaranty contract, or the use of any assistance by any individual who is the ultimate beneficiary under any such program.
+*Federal financial assistance* means assistance that non-Federal entities receive or administer in the form of grants, contracts, loans, loan guarantees, property, cooperative agreements, food commodities, direct appropriations, or other assistance, but does not include a tax credit, deduction, or exemption.
 
 *Indirect Federal financial assistance or Federal financial assistance provided indirectly* means financial assistance received by a service provider when the service provider is paid for services rendered by means of a voucher, certificate, or other means of government-funded payment provided to a beneficiary who is able to make a choice of a service provider. Federal financial assistance provided to an organization is considered “indirect” when:
 
 (1) The government program through which the beneficiary receives the voucher, certificate, or other similar means of government-funded payment is neutral toward religion; and
 
-(2) The organization receives the assistance as a result of a genuine, independent choice of the beneficiary.
+(2) The organization receives the assistance wholly as a result of a genuinely independent and private choice of the beneficiary, not a choice of the Government. The availability of adequate secular alternatives is a significant factor in determining whether a program affords true private choice.
 
-*Intermediary* means an entity, including a non-governmental organization, acting under a contract, grant, or other agreement with the Federal government or with a State or local government, that accepts Federal financial assistance and distributes that assistance to other organizations that, in turn, provide government-funded social services. If an intermediary, acting under a contract, grant, or other agreement with the Federal government or with a State or local government that is administering a program supported by Federal financial assistance, is given the authority under the contract, grant, or agreement to select non-governmental organizations to provide services supported by the Federal government, the intermediary must ensure compliance with the provisions of Executive Order 13559 and any implementing rules or guidance by the recipient of a contract, grant or agreement. If the intermediary is a non-governmental organization, it retains all other rights of a non-governmental organization under the program's statutory and regulatory provisions.
+*Intermediary* means an entity, including a non-governmental organization, acting under a contract, grant, or other agreement with the Federal Government or with a State or local government, that accepts Federal financial assistance and distributes that assistance to other organizations that, in turn, provide government-funded social services. If an intermediary, acting under a contract, grant, or other agreement with the Federal Government or with a State or local government that is administering a program supported by Federal financial assistance, is given the authority under the contract, grant, or agreement to select non-governmental organizations to provide services supported by the Federal Government, the intermediary must ensure compliance with the provisions of this part by the recipient of a contract, grant, or agreement. If the intermediary is a non-governmental organization, it retains all other rights of a non-governmental organization under the program's statutory and regulatory provisions.
 
 *Religious exercise* has the meaning given to the term in 42 U.S.C. 2000cc-5(7)(A).
 
@@ -42,4 +40,4 @@ For purposes of this part:
 
 (9) Services related to the provision of assistance for housing under Federal law.
 
-[81 FR 19410, Apr. 4, 2016, as amended at 85 FR 82130, Dec. 17, 2020]
+[81 FR 19410, Apr. 4, 2016, as amended at 85 FR 82130, Dec. 17, 2020; 89 FR 15705, Mar. 4, 2024]

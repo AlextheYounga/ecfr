@@ -74,9 +74,9 @@ Under 46 U.S.C. 70002 and 33 CFR 160.111, a Coast Guard Captain of the Port (COT
 
 (4) AIS application-specific messaging (ASM) is permissible, but is limited to applications adopted by the International Maritime Organization (such as IMO SN.1/Circ.289) or those denoted in the International Association of Marine Aids to Navigation and Lighthouse Authorities' (IALA) ASM Collection for use in the United States or Canada, and to no more than one ASM per minute.
 
-Note to paragraph (d):
+Note 1 to § 164.46(d):
 
-The Coast Guard has developed the “U.S. AIS Encoding Guide” to help ensure consistent and accurate data encoding (input) by AIS users. This Guide is available at our “AIS Frequently Asked Questions” (FAQ #2) World Wide Web page at *www.navcen.uscg.gov.* Although of great benefit, the interfacing or installation of other external devices or displays (e.g., transmitting heading device, gyro, rate of turn indicator, electronic charting systems, and radar), is not currently required except as denoted in § 164.46(c). Most application-specific messages require interfacing to an external system that is capable of their portrayal, such as equipment certified to meet Radio Technical Commission for Maritime Services (RTCM) electronic chart system (ECS) standard 10900 series.
+The Coast Guard has developed the “USCG AIS Encoding Guidance” to help ensure consistent and accurate data encoding (input) by AIS users. This Guide is available at our “AIS Frequently Asked Questions” (FAQ #2) World Wide Web page at *www.navcen.uscg.gov/ais-frequently-asked-questions#2*. Although of great benefit, the interfacing or installation of other external devices or displays (e.g., transmitting heading device, gyro, rate of turn indicator, electronic charting systems, and radar), is not currently required except as denoted in § 164.46(c). Most application-specific messages require interfacing to an external system that is capable of their portrayal, such as equipment certified to meet Radio Technical Commission for Maritime Services (RTCM) electronic chart system (ECS) standard 10900 series.
 
 (e) *Watchkeeping.* AIS is primarily intended for use by the Master or person in charge of the vessel, or by the person designated by the Master or person in charge to pilot or direct the movement of the vessel, who must maintain a periodic watch for AIS information.
 
@@ -100,4 +100,4 @@ The Coast Guard has developed the “U.S. AIS Encoding Guide” to help ensure c
 
 (j) *Implementation date.* Those vessels identified in paragraphs (b) and (c) of this section that were not previously subject to AIS carriage must install AIS no later than March 1, 2016.
 
-[USCG-2005-21869, 80 FR 5335, Jan. 30, 2015, as amended at 80 FR 17327, Apr. 1, 2015; USCG-2016-0498, 82 FR 35088, July 28, 2017; USCG-2020-0304, 85 FR 58280, Sept. 18, 2020]
+[USCG-2005-21869, 80 FR 5335, Jan. 30, 2015, as amended at 80 FR 17327, Apr. 1, 2015; USCG-2016-0498, 82 FR 35088, July 28, 2017; USCG-2020-0304, 85 FR 58280, Sept. 18, 2020; USCG-2023-0759, 89 FR 22948, Apr. 3, 2024]

@@ -1,5 +1,7 @@
 ##### § 144.103 Definitions. #####
 
+Link to an amendment published at 89 FR 23416, Apr. 3, 2024.
+
 For purposes of parts 146 (group market), 147 (group and individual market), 148 (individual market), 149 (surprise billing and transparency), and 150 (enforcement) of this subchapter, the following definitions apply unless otherwise provided:
 
 *Affiliation period* means a period of time that must expire before health insurance coverage provided by an HMO becomes effective, and during which the HMO is not required to provide benefits.

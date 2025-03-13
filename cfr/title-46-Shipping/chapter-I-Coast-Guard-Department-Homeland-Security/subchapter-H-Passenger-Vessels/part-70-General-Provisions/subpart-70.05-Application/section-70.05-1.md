@@ -1,6 +1,6 @@
 ##### § 70.05-1 United States flag vessels subject to the requirements of this subchapter. #####
 
-(a) This subchapter is applicable to all U.S.-flag vessels indicated in Column 3 of table 2.01-7(A) that are 100 gross tons or more, except as follows:
+(a) This subchapter is applicable to all U.S.-flag vessels indicated in column 3 of Table 2.01-7(a) in § 2.01-7(a) of this chapter that are 100 gross tons or more, except as follows:
 
 (1) Any vessel operating exclusively on inland waters which are not navigable waters of the United States; or,
 

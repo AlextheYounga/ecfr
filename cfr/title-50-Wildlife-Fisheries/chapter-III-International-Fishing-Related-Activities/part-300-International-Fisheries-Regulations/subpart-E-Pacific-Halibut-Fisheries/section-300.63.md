@@ -1,5 +1,7 @@
 ##### § 300.63 Catch sharing plan and domestic management measures in Area 2A. #####
 
+Link to an amendment published at 89 FR 22969, Apr. 3, 2024.
+
 (a) *General provisions.* (1) Under 16 U.S.C. 773c, a fishery management council may develop regulations governing the domestic halibut fishery that do not conflict with the regulations set by the International Pacific Halibut Commission. NMFS may approve and implement such regulations. The Pacific Fishery Management Council has developed a catch sharing plan that provides a framework for allocation of Pacific halibut for Area 2A and sets management measures for fisheries in Area 2A. NMFS implements annual management measures consistent with the catch sharing plan through annual rules published in the Federal Register. Long term provisions included in and necessary to implement the catch sharing plan are included in the sections that follow.
 
 (2) A portion of the Area 2A non-tribal commercial allocation is allocated as incidental catch in the salmon troll fishery in Area 2A pursuant to § 300.62. Each year the landing restrictions necessary to keep the fishery within its allocation will be recommended by the Pacific Fishery Management Council at its spring meetings and will be promulgated in the annual salmon management measures described at 660 Subpart H. This fishery will occur between dates and times listed in the annual management measures as described at § 300.62, until there is not sufficient allocation and the season is closed by NMFS.

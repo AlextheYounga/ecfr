@@ -10,7 +10,7 @@
 
 (1) No VMRS User shall proceed north of 61° N. without prior approval of the VTS.
 
-(2) For a vessel listed in paragraph (c)(3) of this section—
+(2) For a vessel listed in paragraph (d)(3) of this section—
 
 (i) Approval to enter this area will not be granted to a vessel when a tank vessel of more than 20,000 deadweight tons is navigating therein;
 
@@ -18,15 +18,13 @@
 
 (iii) A southbound vessel shall remain in Port Valdez east of 146°35′ W. and north of 61°06′ N. until the VTS has granted permission to proceed.
 
-(3) Paragraph (c)(2) of this section applies to—
+(3) Paragraph (d)(2) of this section applies to—
 
 (i) A vessel of 1600 gross tons or more; and
 
 (ii) A towing vessel of 8 meters or more in length, except for a vessel performing duties as an escort vessel as defined in 33 CFR Part 168.
 
 (e) Reporting Points.
-
-Table 161.60(d)—VTS Prince William Sound Reporting Points
 
 |Designator| Geographic name |      Geographic description      |    Latitude/longitude    |     Notes      |
 |----------|-----------------|----------------------------------|--------------------------|----------------|
@@ -40,4 +38,4 @@ Table 161.60(d)—VTS Prince William Sound Reporting Points
 |    4B    |   Rocky Point   |           Rocky Point            |60°57′48″ N; 146°50′00″ W |Southbound Only.|
 |    5     | Entrance Island |      Entrance Island Light       |61°05′24″ N; 146°37′30″ W.|                |
 
-[CGD 90-020, 59 FR 36324, July 15, 1994, as amended by CGD 95-033, 60 FR 28332, May 31, 1995; USCG-1998-3799, 63 FR 35532, June 30, 1998; USCG-2001-10254, 67 FR 53742, Aug. 19, 2002; USCG-2015-0433, 80 FR 44282, July 27, 2015]
+[CGD 90-020, 59 FR 36324, July 15, 1994, as amended by CGD 95-033, 60 FR 28332, May 31, 1995; USCG-1998-3799, 63 FR 35532, June 30, 1998; USCG-2001-10254, 67 FR 53742, Aug. 19, 2002; USCG-2015-0433, 80 FR 44282, July 27, 2015; USCG-2023-0759, 89 FR 22948, Apr. 3, 2024]

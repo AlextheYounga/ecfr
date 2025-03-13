@@ -1,3 +1,5 @@
-##### § 16.6 xxx #####
+##### § 16.6 Compliance. #####
 
-Link to an amendment published at 89 FR 15709, Mar. 4, 2024.
+USDA agencies will monitor compliance with this part in the course of regular oversight of USDA programs.
+
+[89 FR 15709, Mar. 4, 2024]

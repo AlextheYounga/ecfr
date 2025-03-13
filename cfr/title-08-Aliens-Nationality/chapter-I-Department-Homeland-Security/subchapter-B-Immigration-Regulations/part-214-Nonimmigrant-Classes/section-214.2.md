@@ -1,5 +1,7 @@
 ##### § 214.2 Special requirements for admission, extension, and maintenance of status. #####
 
+Link to an amendment published at 89 FR 22912, Apr. 3, 2024.
+
 Table 1 to § 214.2—Section Contents
 
 |                                                                                                                                                                             |

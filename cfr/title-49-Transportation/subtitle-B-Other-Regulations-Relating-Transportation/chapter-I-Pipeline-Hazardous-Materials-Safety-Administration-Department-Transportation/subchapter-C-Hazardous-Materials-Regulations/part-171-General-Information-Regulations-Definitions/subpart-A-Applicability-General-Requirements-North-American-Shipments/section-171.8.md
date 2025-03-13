@@ -1,7 +1,5 @@
 ##### § 171.8 Definitions and abbreviations. #####
 
-Link to an amendment published at 89 FR 15663, Mar. 4, 2024.
-
 In this subchapter,
 
 *Administrator* means the Administrator, Pipeline and Hazardous Materials Safety Administration.
@@ -395,7 +393,7 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 *Lighter refill* means a pressurized container that does not contain an ignition device but does contain a release device and is intended for use as a replacement cartridge in a lighter or to refill a lighter with a Division 2.1 flammable gas fuel. For capacity limits, see § 173.306(h) of this subchapter.
 
-*Liquid* means a material, other than an elevated temperature material, with a melting point or initial melting point of 20 °C (68 °F) or lower at a standard pressure of 101.3 kPa (14.7 psia). A viscous material for which a specific melting point cannot be determined must be subjected to the procedures specified in ASTM D 4359 “Standard Test Method for Determining Whether a Material is Liquid or Solid” (IBR, see § 171.7).
+*Liquid* means a material, other than an elevated temperature material, with a melting point or initial melting point of 20 °C (68 °F) or lower at a standard pressure of 101.3 kPa (14.7 psia). A viscous material for which a specific melting point cannot be determined must be subjected to the procedures specified in ASTM D 4359 (IBR, see § 171.7) or to the test for determining fluidity (penetrometer test) prescribed in section 2.3.4 of Annex A of the European Agreement Concerning the International Carriage of Dangerous Goods by Road (ADR) (IBR, see § 171.7).
 
 *Liquid phase* means a material that meets the definition of liquid when evaluated at the higher of the temperature at which it is offered for transportation or at which it is transported, not at the 38 °C (100 °F) temperature specified in ASTM D 4359 (IBR, see § 171.7).
 

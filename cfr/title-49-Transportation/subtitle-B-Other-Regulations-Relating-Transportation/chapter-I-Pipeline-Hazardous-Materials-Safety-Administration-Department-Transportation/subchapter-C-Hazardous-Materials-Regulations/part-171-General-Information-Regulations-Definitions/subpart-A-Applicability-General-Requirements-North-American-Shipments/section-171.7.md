@@ -1,7 +1,5 @@
 ##### § 171.7 Reference material. #####
 
-Link to an amendment published at 89 FR 15662, Mar. 4, 2024.
-
 (a) Certain material is incorporated by reference into subchapters A, B, and C with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, PHMSA must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at PHMSA and at the National Archives and Records Administration (NARA). Contact PHMSA at: The Office of Hazardous Materials Safety, Office of Hazardous Materials Standards, East Building, PHH-10, 1200 New Jersey Avenue SE, Washington, DC 20590-0001. For information on the availability of this material at PHH-10, call 1-800-467-4922, or go to: *www.phmsa.dot.gov.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the source(s) in the following paragraph(s) of this section.
 
 (b) *Air Transport Association of America,* 1301 Pennsylvania Avenue NW., Washington, DC 20004-1707.
@@ -224,53 +222,61 @@ The requirement for a 6% knuckle radius on torispherical heads are excepted.
 
 (2) [Reserved]
 
-(n) *Compressed Gas Association (CGA),* 8484 Westpark Drive, Suite 220, McLean, VA 22102.
+(n) *Compressed Gas Association (CGA),* 8484 Westpark Drive, Suite 220, McLean, VA 22102; telephone 703-788-2700, *www.cganet.com.*
 
-(1) CGA C-1—2016, Methods for Pressure Testing Compressed Gas Cylinders, Eleventh edition, copyright 2016, into §§ 178.36, 178.37, 178.38, 178.39, 178.42, 178.44, 178.45, 178.46, 178.47; 178.50; 178.51; 178.53; 178.55; 178.56; 178.57; 178.58; 178.59; 178.60; 178.61; 178.65; 178.68; 180.205, 180.209.
+(1) CGA C-1—2016 (CGA C-1), Methods for Pressure Testing Compressed Gas Cylinders, Eleventh Edition, copyright 2016; into §§ 178.36; 178.37; 178.38; 178.39; 178.42; 178.44; 178.45; 178.46; 178.47; 178.50; 178.51; 178.53; 178.55; 178.56; 178.57; 178.58; 178.59; 178.60; 178.61; 178.65; 178.68; 180.205; 180.209.
 
-(2) CGA C-3—2005 (Reaffirmed 2011), Standards for Welding on Thin-Walled Steel Cylinders, Seventh edition, copyright 2005, into §§ 178.47; 178.50; 178.51; 178.53; 178.55; 178.56; 178.57; 178.58; 178.59; 178.60; 178.61; 178.65; 178.68; 180.211.
+(2) CGA C-3—2005 (Reaffirmed 2011) (CGA C-3), Standards for Welding on Thin-Walled Steel Cylinders, Seventh Edition, copyright 2005; into §§ 178.47; 178.50; 178.51; 178.53; 178.55; 178.56; 178.57; 178.58; 178.59; 178.60; 178.61; 178.65; 178.68; 180.211.
 
-(3) CGA C-5, Cylinder Service Life—Seamless Steel High Pressure Cylinders, 1991 (reaffirmed 1995), into § 173.302a.
+(3) CGA C-5 (CGA C-5), Cylinder Service Life—Seamless Steel High Pressure Cylinders, 1991 (Reaffirmed 1995); into § 173.302a.
 
-(4) CGA C-6—2013, Standards for Visual Inspection of Steel Compressed Gas Cylinders, Eleventh edition, copyright 2013, into §§ 172.102, 173.3, 173.198, 180.205, 180.209, 180.211, 180.411, 180.519.
+(4) CGA C-6—2013 (CGA C-6), Standards for Visual Inspection of Steel Compressed Gas Cylinders, Eleventh Edition, copyright 2013; into §§ 172.102; 173.3; 173.198; 180.205; 180.209; 180.211; 180.411; 180.519.
 
-(5) CGA C-6.1—2013, Standards for Visual Inspection of High Pressure Aluminum Compressed Gas Cylinders, Sixth Edition, copyright 2013 (corrected 4/14/2015), into §§ 180.205; 180.209.
+(5) CGA C-6.1—2013 (CGA C-6.1), Standards for Visual Inspection of High Pressure Aluminum Compressed Gas Cylinders, Sixth Edition, copyright 2013 (corrected 4/14/2015); into §§ 180.205; 180.209.
 
-(6) CGA Pamphlet C-6.2, Guidelines for Visual Inspection and Requalification of Fiber Reinforced High Pressure Cylinders, 1996, Third Edition, into § 180.205.
+(6) CGA C-6.2 (CGA C-6.2), Guidelines for Visual Inspection and Requalification of Fiber Reinforced High Pressure Cylinders, Third Edition, 1996; into § 180.205.
 
-(7) CGA C-6.3—2013, Standard for Visual Inspection of Low Pressure Aluminum Alloy Compressed Gas Cylinders, Third Edition, copyright 2013, into §§ 180.205; 180.209.
+(7) CGA C-6.3—2013 (CGA C-6.3), Standard for Visual Inspection of Low Pressure Aluminum Alloy Compressed Gas Cylinders, Third Edition, copyright 2013; into §§ 180.205; 180.209.
 
-(8) CGA C-7-2014, Guide to Classification and Labeling of Compressed Gases, Tenth Edition, copyright 2014, into § 172.400a.
+(8) CGA C-7—2020 (CGA C-7), Guide to Classification and Labeling of Compressed Gases; Eleventh Edition, 2020 (corrected May 6, 2020); into § 172.400a.
 
-(9) CGA Pamphlet C-8, Standard for Requalification of DOT-3HT Cylinder Design, 1985, into § 180.205; 180.209.
+(9) CGA C-8 (CGA C-8), Standard for Requalification of DOT-3HT Cylinder Design, 1985; into §§ 180.205; 180.209.
 
-(10) CGA C-11—2013, Practices for Inspection of Compressed Gas Cylinders at Time of Manufacture, Fifth Edition, copyright 2013, into § 178.35.
+(10) CGA C-11—2013 (CGA C-11), Practices for Inspection of Compressed Gas Cylinders at Time of Manufacture, Fifth Edition, copyright 2013; into § 178.35.
 
-(11) CGA Pamphlet C-12, Qualification Procedure for Acetylene Cylinder Design, 1994, into § 173.301; 173.303; 178.59; 178.60.
+(11) CGA C-12 (CGA C-12), Qualification Procedure for Acetylene Cylinder Design, 1994; into §§ 173.301; 173.303; 178.59; 178.60.
 
-(12) CGA Pamphlet C-13, Guidelines for Periodic Visual Inspection and Requalification of Acetylene Cylinders, 2000, Fourth Edition, into § 173.303; 180.205; 180.209.
+(12) CGA C-13 (CGA C-13), Guidelines for Periodic Visual Inspection and Requalification of Acetylene Cylinders, Fourth Edition, 2000; into §§ 173.303; 180.205; 180.209.
 
-(13) CGA C-14—2005 (Reaffirmed 2010), Procedures for Fire Testing of DOT Cylinder Pressure Relief Device Systems, Fourth edition, copyright 2005, into §§ 173.301; 173.323.
+(13) CGA C-14—2005 (Reaffirmed 2010) (CGA C-14), Procedures for Fire Testing of DOT Cylinder Pressure Relief Device Systems, Fourth Edition, copyright 2005; into §§ 173.301; 173.323.
 
-(14) CGA G-1.6-2011, Standard for Mobile Acetylene Trailer Systems, Seventh Edition, copyright 2011, into § 173.301.
+(14) CGA C-20—2014 (CGA C-20), Requalification Standard for Metallic, DOT and TC 3-series Gas Cylinders and Tubes Using Ultrasonic Examination, Second Edition, 2014; into § 180.205.
 
-(15) CGA Pamphlet G-2.2, Guideline Method for Determining Minimum of 0.2% Water in Anhydrous Ammonia, 1985, Second Edition, Reaffirmed 1997, into § 173.315.
+(15) CGA C-23—2018 (CGA C-23), Standard for Inspection of DOT/TC 3 Series and ISO 11120, Tube Neck Mounting Surfaces, Second Edition, 2018; into §§ 180.205; 180.207.
 
-(16) CGA Pamphlet G-4.1, Cleaning Equipment for Oxygen Service, 1985, into § 178.338-15.
+(16) CGA C-27—2019 (CGA C-27), Standard Procedure to Derate the Service Pressure of DOT Series Seamless Steel Tubes, First Edition, 2019; into § 180.212.
 
-(17) CGA Pamphlet P-20, Standard for the Classification of Toxic Gas Mixtures, 2003, Third Edition, into § 173.115.
+(17) CGA C-29—2019, (Formerly TB-25) (CGA C-29), Standard for Design Requirements for Tube Trailers and Tube Modules, First Edition, 2019; into § 173.301.
 
-(18) CGA S-1.1—2011, Pressure Relief Device Standards—Part 1—Cylinders for Compressed Gases, Fourteenth edition, copyright 2011, into §§ 173.301; 173.304a; 178.75.
+(18) CGA G-1.6—2011 (CGA G-1.6), Standard for Mobile Acetylene Trailer Systems, Seventh Edition, copyright 2011; into § 173.301.
 
-(19) CGA Pamphlet S-1.2, Safety Relief Device Standards Part 2—Cargo and Portable Tanks for Compressed Gases, 1980, into § 173.315; 173.318; 178.276; 178.277.
+(19) CGA G-2.2 (CGA G-2.2), Guideline Method for Determining Minimum of 0.2% Water in Anhydrous Ammonia, Second Edition, 1985 (Reaffirmed 1997); into § 173.315.
 
-(20) CGA S-7—2013, Standard for Selecting Pressure Relief Devices for Compressed Gas Mixtures in Cylinders, Fifth Edition, copyright 2013, into § 173.301.
+(20) CGA G-4.1 (CGA G-4.1), Cleaning Equipment for Oxygen Service, 1985; into § 178.338-15.
 
-(21) CGA Technical Bulletin TB-2, Guidelines for Inspection and Repair of MC-330 and MC-331 Cargo Tanks, 1980, into § 180.407; 180.413.
+(21) CGA P-20 (CGA P-20), Standard for the Classification of Toxic Gas Mixtures, Third Edition, 2003; into § 173.115.
 
-(22) CGA Technical Bulletin TB-25, Design Considerations for Tube Trailers, 2008 Edition, into § 173.301.
+(22) CGA S-1.1—2011 (CGA S-1.1), Pressure Relief Device Standards—Part 1—Cylinders for Compressed Gases; Fourteenth Edition, copyright 2011; into §§ 173.301; 173.304a; 178.75.
 
-(23) CGA V-9-2012, Compressed Gas Association Standard for Compressed Cylinder Valves, Seventh Edition, 2012, into § 173.301.
+(23) CGA S-1.2 (CGA S-1.2), Safety Relief Device Standards Part 2—Cargo and Portable Tanks for Compressed Gases, 1980; into §§ 173.315; 173.318; 178.276; 178.277.
+
+(24) CGA S-7—2013 (CGA S-7), Standard for Selecting Pressure Relief Devices for Compressed Gas Mixtures in Cylinders, Fifth Edition, copyright 2013; into § 173.301.
+
+(25) CGA Technical Bulletin TB-2, Guidelines for Inspection and Repair of MC-330 and MC-331 Cargo Tanks, 1980; into §§ 180.407; 180.413.
+
+(26) CGA Technical Bulletin TB-25 (CGA TB-25), Design Considerations for Tube Trailers, 2008 Edition; into § 173.301.
+
+(27) CGA V-9—2019, Compressed Gas Association Standard for Compressed Cylinder Valves, Eighth Edition, 2019; into § 173.301.
 
 (o) *Department of Defense (DoD),* DoD Explosives Safety Board, 4800 Mark Center Drive, Suite 16E12, Alexandria, VA 22350, *https://www.ddesb.pentagon.mil/;* or Defense Logistics Agency, Technical and Quality Assurance Division, 8725 John J. Kingman Rd., Fort Belvoir, VA 22060, *http://www.dla.mil/Pages/default.aspx.*
 
@@ -290,13 +296,11 @@ The requirement for a 6% knuckle radius on torispherical heads are excepted.
 
 (2) [Reserved]
 
-(r) *Institute of Makers of Explosives,* 1212 New York Ave NW, #650, Washington, DC 20005.
+(r) *Institute of Makers of Explosives (IME),* 1212 New York Avenue NW, #650, Washington, DC 20005, Phone: 202-429-9280.
 
-(1) IME Standard 22,IME Safety Library Publication No. 22, Recommendations for the Safe Transportation of Detonators in a Vehicle with Certain Other Explosive Materials, February 2007, into §§ 173.63; 177.835.
+(1) IME SLP-22, Recommendations for the Safe Transportation of Detonators in a Vehicle with Certain Other Explosive Materials, 2019, (IME Standard 22); into §§ 173.63; 177.835.
 
-(2) IME Standard 23, IME Safety Library Publication No. 23 (IME Standard 23), Recommendations for the Transportation of Explosives, Division 1.5, Ammonium Nitrate Emulsions, Division 5.1, Combustible Liquids, Class 3, and Corrosives, Class 8 in Bulk Packaging, October 2011, into §§ 173.66(intro); 177.835(d).
-
-(3) AESC/IME JPG Standard, Guide to Obtaining DOT Approval of Jet Perforating Guns using AESC/IME Perforating Gun Specifications, Ver. 02, dated September 1, 2017, into § 173.67.
+(2) IME SLP-23, Recommendations for the Transportation of Explosives, Division 1.5, Ammonium Nitrate Emulsions, Division 5.1, Combustible Liquids, Class 3, and Corrosives, Class 8 in Bulk Packaging, March 2021, (IME Standard 23); into §§ 172.102 173.66; 173.251; 177.835.
 
 (s) *International Atomic Energy Agency (IAEA),* P.O. Box 100, Wagramer Strasse 5, A-1400 Vienna, Austria. Also available from: Bernan Associates, 4611-F Assembly Drive, Lanham, MD 20706-4391, USA; or Renouf Publishing Company, Ltd., 812 Proctor Avenue, Ogdensburg, New York 13669, USA.
 
@@ -584,13 +588,15 @@ The requirement for a 6% knuckle radius on torispherical heads are excepted.
 
 (3) Globally Harmonized System of Classification and Labelling of Chemicals (GHS), 8th revised edition, ST/SG/AC.10/30/Rev.8, copyright 2019; into § 172.401.
 
-(4) Agreement concerning the International Carriage of Dangerous Goods by Road (ADR), copyright 2020; into § 171.23; as follows:
+(4) Agreement concerning the International Carriage of Dangerous Goods by Road (ADR), copyright 2020; into §§ 171.8; 171.23; as follows:
 
 (i) Volume I, ECE/TRANS/300 (Vol. I).
 
 (ii) Volume II, ECE/TRANS/300 (Vol. II).
 
 (iii) Corrigendum, ECE/TRANS/300 (Corr. 1).
+
+(5) UN/SCETDG/55/INF.27, United Nations' Recommendations on Test Series 8: Applicability of Test Series 8(d), June 14, 2019; into § 172.102(c)(1), special provision 148.
 
 Table 1 to 49 CFR 171.7—Materials Not Incorporated by Reference
 
@@ -619,6 +625,8 @@ Table 1 to 49 CFR 171.7—Materials Not Incorporated by Reference
 |                                                                        Emergency Handling of Hazardous Materials in Surface Transportation, 1989                                                                         |                   171.7                   |
 |                                                                     Centers for Disease Control and Prevention 1600 Clifton Road, Atlanta, GA 30333:                                                                     |                                           |
 |                                                                   Biosafety in Microbiological and Biomedical Laboratories, Fourth Edition, April 1999                                                                   |                  173.134                  |
+|                                                                         Department of Commerce, 1401 Constitution Ave. NW, Washington, DC 20230:                                                                         |                                           |
+|                                                                            Federal Standard H-28, Screw-Thread Standards for Federal Services                                                                            |                  180.212                  |
 |                                                                                    National Institutes of Health Bethesda, MD 20892:                                                                                     |                                           |
 |                                                        NIH Guidelines for Research Involving Recombinant DNA Molecules (NIH Guidelines), January 2001, Appendix B                                                        |                  173.134                  |
 |                                                                      Pantone Incorporated 590 Commerce Boulevard, Carlstadt, New Jersey 07072-3098:                                                                      |                                           |
@@ -630,4 +638,4 @@ Table 1 to 49 CFR 171.7—Materials Not Incorporated by Reference
 |                                       Truck Trailer Manufacturers Association, 1020 Princess Street, Alexandria, Virginia 22314, telephone (703) 549-3010, http://www.ttmanet.org:                                       |                                           |
 |                                        TTMA RP No. 96-01, TTMA RP No. 96-01, Structural Integrity of DOT 406, DOT 407, and DOT 412 Cylindrical Cargo Tanks, January 2001 Edition                                         |                 178.345-3                 |
 
-[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017; 83 FR 55806, Nov. 7, 2018; 84 FR 6952, Feb. 28, 2019; 85 FR 27852, May 11, 2020; 85 FR 75704, Nov. 25, 2020; 85 FR 78029, Dec. 3, 2020; 85 FR 85415, Dec. 28, 2020; 87 FR 44980, July 26, 2022; 87 FR 79765, Dec. 27, 2022]
+[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017; 83 FR 55806, Nov. 7, 2018; 84 FR 6952, Feb. 28, 2019; 85 FR 27852, May 11, 2020; 85 FR 75704, Nov. 25, 2020; 85 FR 78029, Dec. 3, 2020; 85 FR 85415, Dec. 28, 2020; 87 FR 44980, July 26, 2022; 87 FR 79765, Dec. 27, 2022; 89 FR 15662, Mar. 4, 2024]

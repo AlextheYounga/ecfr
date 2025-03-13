@@ -1,7 +1,5 @@
 ##### § 178.601 General requirements. #####
 
-Link to an amendment published at 89 FR 15666, Mar. 4, 2024.
-
 (a) *General.* The test procedures prescribed in this subpart are intended to ensure that packages containing hazardous materials can withstand normal conditions of transportation and are considered minimum requirements. Each packaging must be manufactured and assembled so as to be capable of successfully passing the prescribed tests and of conforming to the requirements of § 173.24 of this subchapter at all times while in transportation.
 
 (b) *Responsibility.* It is the responsibility of the packaging manufacturer to assure that each package is capable of passing the prescribed tests. To the extent that a package assembly function, including final closure, is performed by the person who offers a hazardous material for transportation, that person is responsible for performing the function in accordance with §§ 173.22 and 178.2 of this subchapter.
@@ -94,11 +92,23 @@ An outer packaging qualifying for use in transport in accordance with all of the
 
 Replacement closures and gasketings qualified under the above test requirements are authorized without additional testing for packagings described in paragraph (g)(3) of this section. Replacement closures and gasketings qualified under the above test requirements also are authorized without additional testing for different tested design types packagings of the same type as the originally tested packaging, provided the original design type tests are more severe or comparable to tests which would otherwise be conducted on the packaging with the replacement closures or gasketings. (For example: The packaging used in the qualifying tests has a lesser packaging wall thickness than the packaging with replacement closure devices or gasketing; the gross mass of the packaging used in the qualifying drop test equals or exceeds the mass for which the packaging with replacement closure devices or gasketing was tested; the packaging used in the qualifying drop test was dropped from the same or greater height than the height from which the packaging with replacement closure devices or gasketing was dropped in design type tests; and the specific gravity of the substance used in the qualifying drop test was the same or greater than the specific gravity of the liquid used in the design type tests of the packaging with replacement closure devices or gasketing.)
 
-(6) The provisions in Variations 1, 2, and 4 in paragraphs (g)(1), (2) and (4) of this section for combination packagings may be applied to packagings containing articles, where the provisions for inner packagings are applied analogously to the articles. In this case, inner packagings need not comply with § 173.27(c)(1) and (c)(2) of this subchapter.
+(6) *Selective testing of combination packagings for articles containing small arms ammunition: Variation 6.* Variations in inner and intermediate packagings are permitted in packages for articles containing Cartridges, small arms (UN0012); Cartridges for tools, blank (UN0014); Primers, cap type (UN0044); and Cases, cartridge empty with primer (UN0055) packed in inner packages without further testing of the package under the following conditions:
 
-(7) *Approval of selective testing.* In addition to the provisions of § 178.601(g)(1) through (g)(6) of this subpart, the Associate Administrator may approve the selective testing of packagings that differ only in minor respects from a tested type.
+(i) The package has been tested containing only the articles to be transported without intermediate containment;
 
-(8) For a steel drum with a capacity greater than 12 L (3 gallons) manufactured from low carbon, cold-rolled sheet steel meeting ASTM designations A 366/A 366M or A 568/A 568M, variations in elements other than the following design elements are considered minor and do not constitute a different drum design type, or “different packaging” as defined in paragraph (c) of this section for which design qualification testing and periodic retesting are required. Minor variations authorized without further testing include changes in the identity of the supplier of component material made to the same specifications, or the original manufacturer of a DOT specification or UN standard drum to be remanufactured. A change in any one or more of the following design elements constitutes a different drum design type:
+(ii) The outer packaging must have passed the stacking test set forth in § 178.606 when empty, *i.e.,* without cushioning or inner or intermediate packagings, with the test mass of identical packages being the mass of the package filled with the articles;
+
+(iii) Only articles tested without intermediate containment may be transported; however, a variety of articles tested in this fashion may be assembled in a package with intermediate containment;
+
+(iv) No articles demonstrate a loss of material in testing; and
+
+(v) The completed package does not exceed the marked maximum gross mass of the package.
+
+(7) The provisions in Variations 1, 2, and 4 in paragraphs (g)(1), (2) and (4) of this section for combination packagings may be applied to packagings containing articles, where the provisions for inner packagings are applied analogously to the articles. In this case, inner packagings need not comply with § 173.27(c)(1) and (c)(2) of this subchapter.
+
+(8) *Approval of selective testing.* In addition to the provisions of paragraphs (g)(1) through (7) of this section, the Associate Administrator may approve the selective testing of packagings that differ only in minor respects from a tested type.
+
+(9) For a steel drum with a capacity greater than 12 L (3 gallons) manufactured from low carbon, cold-rolled sheet steel meeting ASTM designations A 366/A 366M or A 568/A 568M, variations in elements other than the following design elements are considered minor and do not constitute a different drum design type, or “different packaging” as defined in paragraph (c) of this section for which design qualification testing and periodic retesting are required. Minor variations authorized without further testing include changes in the identity of the supplier of component material made to the same specifications, or the original manufacturer of a DOT specification or UN standard drum to be remanufactured. A change in any one or more of the following design elements constitutes a different drum design type:
 
 (i) The packaging type and category of the original drum and the remanufactured drum, *i.e.,* 1A1 or 1A2;
 
@@ -196,4 +206,4 @@ Replacement closures and gasketings qualified under the above test requirements 
 
 (x) Signed with the name and title of signatory.
 
-[Amdt. 178-97, 55 FR 52723, Dec. 21, 1990, as amended at 56 FR 66285, Dec. 20, 1991; 57 FR 45465, Oct. 1, 1992; Amdt. 178-102, 59 FR 28494, June 2, 1994; Amdt. 178-106, 59 FR 67521, 67522, Dec. 29, 1994; Amdt. 178-117, 61 FR 50628, Sept. 26, 1996; 66 FR 45386, Aug. 28, 2001; 67 FR 53143, Aug. 14, 2002; 68 FR 75758, Dec. 31, 2003; 68 FR 61942, Oct. 30, 2003; 75 FR 5396, Feb. 2, 2010; 75 FR 60339, Sept. 30, 2010; 77 FR 60944, Oct. 5, 2012; 78 FR 1118, Jan. 7, 2013; 78 FR 14715, Mar. 7, 2013; 78 FR 65487, Oct. 31, 2013; 85 FR 27901, May 11, 2020; 87 FR 79784, Dec. 27, 2022]
+[Amdt. 178-97, 55 FR 52723, Dec. 21, 1990, as amended at 56 FR 66285, Dec. 20, 1991; 57 FR 45465, Oct. 1, 1992; Amdt. 178-102, 59 FR 28494, June 2, 1994; Amdt. 178-106, 59 FR 67521, 67522, Dec. 29, 1994; Amdt. 178-117, 61 FR 50628, Sept. 26, 1996; 66 FR 45386, Aug. 28, 2001; 67 FR 53143, Aug. 14, 2002; 68 FR 75758, Dec. 31, 2003; 68 FR 61942, Oct. 30, 2003; 75 FR 5396, Feb. 2, 2010; 75 FR 60339, Sept. 30, 2010; 77 FR 60944, Oct. 5, 2012; 78 FR 1118, Jan. 7, 2013; 78 FR 14715, Mar. 7, 2013; 78 FR 65487, Oct. 31, 2013; 85 FR 27901, May 11, 2020; 87 FR 79784, Dec. 27, 2022; 89 FR 15666, Mar. 4, 2024 ]

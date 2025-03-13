@@ -1,7 +1,5 @@
 ##### § 173.115 Class 2, Divisions 2.1, 2.2, and 2.3—Definitions. #####
 
-Link to an amendment published at 89 FR 15665, Mar. 4, 2024.
-
 (a) *Division 2.1 (Flammable gas).* For the purpose of this subchapter, a *flammable gas* (Division 2.1) means any material which is a gas at 20 °C (68 °F) or less and 101.3 kPa (14.7 psia) of pressure (a material which has a boiling point of 20 °C (68 °F) or less at 101.3 kPa (14.7 psia)) which—
 
 (1) Is ignitable at 101.3 kPa (14.7 psia) when in a mixture of 13 percent or less by volume with air; or
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 15665, Mar. 4, 2024.
 
 (d) *Non-liquefied compressed gas.* A gas, which when packaged under pressure for transportation is entirely gaseous at −50 °C (−58 °F) with a critical temperature less than or equal to −50 °C (−58 °F), is considered to be a non-liquefied compressed gas.
 
-(e) *Liquefied compressed gas.* A gas, which when packaged under pressure for transportation is partially liquid at temperatures above −50 °C (−58 °F), is considered to be a liquefied compressed gas. A liquefied compressed gas is further categorized as follows:
+(e) *Liquefied compressed gas.* A gas, which when packaged under pressure for transportation is partially liquid at temperatures above −50 °C (−58 °F), is considered to be a liquefied compressed gas. Gas mixtures with component(s) that are liquefied gases may be described using the hazardous materials description of a compressed gas in the Hazardous Materials Table in § 172.101 of this subchapter when the partial pressure(s) of the liquefied gas component(s) in the mixture are reduced so that the mixture is entirely in the gas phase at 20 °C (68 °F). A liquefied compressed gas is further categorized as follows:
 
 (1) *High pressure liquefied gas* which is a gas with a critical temperature between −50 °C (−58 °F) and + 65 °C (149 °F), and
 

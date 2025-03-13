@@ -1,7 +1,5 @@
 ##### § 173.302b Additional requirements for shipment of non-liquefied (permanent) compressed gases in UN pressure receptacles. #####
 
-Link to an amendment published at 89 FR 15666, Mar. 4, 2024.
-
 (a) *General.* A cylinder filled with a non-liquefied gas must be offered for transportation in UN pressure receptacles subject to the requirements in this section and § 173.302. In addition, the requirements in §§ 173.301 and 173.301b must be met.
 
 (b) *UN pressure receptacles filling limits.* A UN pressure receptacle is authorized for the transportation of non-liquefied compressed gases as specified in this section. Except where filling limits are specifically prescribed in this section, the working pressure of a UN pressure receptacle may not exceed2/3 of the test pressure of the receptacle. Alternatively, the filling limits specified for non-liquefied gases in Table 1 of P200 of the UN Recommendations (IBR, see § 171.7 of this subchapter) are authorized. In no case may the internal pressure at 65 °C (149 °F) exceed the test pressure.
@@ -12,4 +10,20 @@ Link to an amendment published at 89 FR 15666, Mar. 4, 2024.
 
 (e) *Carbon monoxide, compressed UN 1016.* Carbon monoxide, compressed is authorized in UN pressure receptacles. The settled pressure in a steel pressure receptacle containing carbon monoxide may not exceed1/3 of the pressure receptacle's test pressure at 65 °C (149 °F) except, if the gas is dry and sulfur-free, the settled pressure may not exceedl/2 of the marked test pressure.
 
-[71 FR 33883, June 12, 2006]
+(f) *Methane, compressed, or natural gas, compressed, UN1971.* Methane, compressed, or natural gas, compressed, is authorized in a UN seamless steel pressure receptacle under the following conditions:
+
+(1) For methane, and for natural gas with a methane content of 98.0 percent or greater—
+
+(i) The maximum tensile strength of the UN seamless steel pressure receptacle may not exceed 1100 MPa (159,542 psi); and
+
+(ii) The contents are commercially free of corroding components.
+
+(2) For natural gas with a methane content of less than 98.0 percent—
+
+(i) The maximum tensile strength of the UN seamless steel pressure receptacle may not exceed 950 MPa (137,750 psi);
+
+(ii) Each discharge end of a UN refillable seamless steel tube must be equipped with an internal drain tube; and
+
+(iii) The moisture content and concentration of the corroding components must conform to the requirements in § 173.301b(a)(2).
+
+[71 FR 33883, June 12, 2006, as amended at 89 FR 15666, Mar. 4, 2024]

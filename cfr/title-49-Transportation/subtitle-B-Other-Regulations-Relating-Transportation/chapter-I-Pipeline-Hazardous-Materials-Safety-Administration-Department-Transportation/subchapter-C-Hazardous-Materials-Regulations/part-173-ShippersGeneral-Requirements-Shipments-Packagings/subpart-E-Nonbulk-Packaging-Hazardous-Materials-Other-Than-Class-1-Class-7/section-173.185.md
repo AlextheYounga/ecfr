@@ -1,7 +1,5 @@
 ##### § 173.185 Lithium cells and batteries. #####
 
-Link to an amendment published at 89 FR 15665, Mar. 4, 2024.
-
 As used in this section, *consignment* means one or more packages of hazardous materials accepted by an operator from one shipper at one time and at one address, receipted for in one lot and moving to one consignee at one destination address. *Equipment* means the device or apparatus for which the lithium cells or batteries will provide electrical power for its operation. *Lithium cell(s)* or *battery(ies)* includes both lithium metal and lithium ion chemistries. *Medical device* means an instrument, apparatus, implement, machine, contrivance, implant, or in vitro reagent, including any component, part, or accessory thereof, which is intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, of a person.
 
 (a) *Classification.* (1) Each lithium cell or battery must be of the type proven to meet the criteria in part III, sub-section 38.3 of the UN Manual of Tests and Criteria (IBR; see § 171.7 of this subchapter). Lithium cells and batteries are subject to these tests regardless of whether the cells used to construct the battery are of a tested type. A single cell battery as defined in part III, sub-section 38.3 of the UN Manual of Tests and Criteria is considered a “cell” and must be offered for transportation in accordance with the requirements for cells.
@@ -128,7 +126,7 @@ As used in this section, *consignment* means one or more packages of hazardous m
 
 (2) *Packaging.* Lithium cells and batteries must be packed in inner packagings that completely enclose the cell or battery then placed in a strong rigid outer package unless the cell or battery is contained in equipment and is afforded equivalent protection by the equipment in which it is contained. Except when lithium cells or batteries are contained in equipment, each package of lithium cells or batteries, or the completed package when packed with equipment, must be capable of withstanding a 1.2 meter drop test, in any orientation, without damage to the cells or batteries contained in the package, without shifting of the contents that would allow battery-to-battery (or cell-to-cell) contact, and without release of the contents of the package.
 
-(3) *Lithium battery mark.* Each package must display the lithium battery mark except when a package contains button cell batteries installed in equipment (including circuit boards), or no more than four lithium cells or two lithium batteries contained in equipment, where there are not more than two packages in the consignment.
+(3) *Lithium battery mark.* Each package must display the lithium battery mark except when a package contains only button cell batteries contained in equipment (including circuit boards), or when a consignment contains two packages or fewer where each package contains not more than four lithium cells or two lithium batteries contained in equipment.
 
 (i) The mark must indicate the UN number: “UN3090” for lithium metal cells or batteries; or “UN3480” for lithium ion cells or batteries. Where the lithium cells or batteries are contained in, or packed with, equipment, the UN number “UN3091” or “UN3481,” as appropriate, must be indicated. Where a package contains lithium cells or batteries assigned to different UN numbers, all applicable UN numbers must be indicated on one or more marks. The package must be of such size that there is adequate space to affix the mark on one side without the mark being folded.
 
@@ -241,4 +239,4 @@ Table 1 to Paragraph (c)(4)(i)
 
 (h) *Approval.* A lithium cell or battery that does not conform to the provisions of this subchapter may be transported only under conditions approved by the Associate Administrator.
 
-[85 FR 27882, May 11, 2020, as amended at 85 FR 83398, Dec. 21, 2020; 87 FR 44993, July 26, 2022; 87 FR 78010, Dec. 21, 2022; 87 FR 79777, Dec. 27, 2022]
+[85 FR 27882, May 11, 2020, as amended at 85 FR 83398, Dec. 21, 2020; 87 FR 44993, July 26, 2022; 87 FR 78010, Dec. 21, 2022; 87 FR 79777, Dec. 27, 2022; 89 FR 15665, Mar. 4, 2024]

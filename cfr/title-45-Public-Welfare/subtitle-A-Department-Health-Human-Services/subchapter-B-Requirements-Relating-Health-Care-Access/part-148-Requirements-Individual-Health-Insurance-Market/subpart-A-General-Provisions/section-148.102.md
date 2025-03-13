@@ -1,5 +1,7 @@
 ##### § 148.102 Scope and applicability date. #####
 
+Link to an amendment published at 89 FR 23419, Apr. 3, 2024.
+
 (a) *Scope and applicability.* (1) Individual health insurance coverage includes all health insurance coverage (as defined in § 144.103 of this subchapter) that is neither health insurance coverage sold in connection with an employment-related group health plan, nor short-term, limited-duration coverage as defined in § 144.103 of this subchapter.
 
 (2) The requirements that pertain to guaranteed renewability for all individuals, to protections for mothers and newborns with respect to hospital stays in connection with childbirth, and to protections against discrimination based on genetic information apply to all issuers of individual health insurance coverage in the State.

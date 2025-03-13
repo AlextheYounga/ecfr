@@ -1,5 +1,7 @@
 ##### § 148.220 Excepted benefits. #####
 
+Link to an amendment published at 89 FR 23420, Apr. 3, 2024.
+
 The requirements of this part and part 147 of this subchapter do not apply to any individual coverage in relation to its provision of the benefits described in paragraphs (a) and (b) of this section (or any combination of the benefits).
 
 (a) *Benefits excepted in all circumstances.* The following benefits are excepted in all circumstances:

@@ -1,12 +1,14 @@
 ##### § 107.117 Emergency processing. #####
 
-Link to an amendment published at 89 FR 15662, Mar. 4, 2024.
+(a) An application is granted emergency processing if the Associate Administrator, on the basis of the application and any inquiry undertaken, finds that:
 
-(a) An application is granted emergency processing if the Associate Administrator, on the basis of the application and any inquiry undertaken, finds that—
+(1) Emergency processing is necessary to prevent significant injury to persons or property (other than the hazardous material to be transported) that could not be prevented if the application were processed on a routine basis;
 
-(1) Emergency processing is necessary to prevent significant injury to persons or property (other than the hazardous material to be transported) that could not be prevented if the application were processed on a routine basis; or
+(2) Emergency processing is necessary for immediate national security purposes;
 
-(2) Emergency processing is necessary for immediate national security purposes or to prevent significant economic loss that could not be prevented if the application were processed on a routine basis.
+(3) Emergency processing is necessary to prevent significant economic loss that could not be prevented if the application were processed on a routine basis; or
+
+(4) Emergency processing is necessary in support of an essential governmental (domestic or foreign) function that could not be satisfied if the application were processed on a routine basis.
 
 (b) Where the significant economic loss is to the applicant, or to a party in a contractual relationship to the applicant with respect to the activity to be undertaken, the Associate Administrator may deny emergency processing if timely application could have been made.
 
@@ -30,4 +32,4 @@ Link to an amendment published at 89 FR 15662, Mar. 4, 2024.
 
 (g) Within 90 days following issuance of an emergency special permit, the Associate Administrator will publish, in the Federal Register, a notice of issuance with a statement of the basis for the finding of emergency and the scope and duration of the special permit.
 
-[Amdt. 107-38, 61 FR 21095, May 9, 1996, as amended at 62 FR 51556, Oct. 1, 1997; 64 FR 51914, Sept. 27, 1999; 65 FR 58618, Sept. 29, 2000; 66 FR 45377, Aug. 28, 2001; 67 FR 61011, Sept. 27, 2002; 70 FR 56090, Sept. 23, 2005; 75 FR 53596, Sept. 1, 2010; 76 FR 463, Jan. 5, 2011; 80 FR 54437, Sept. 10, 2015; 85 FR 83374, Dec. 21, 2020]
+[Amdt. 107-38, 61 FR 21095, May 9, 1996, as amended at 62 FR 51556, Oct. 1, 1997; 64 FR 51914, Sept. 27, 1999; 65 FR 58618, Sept. 29, 2000; 66 FR 45377, Aug. 28, 2001; 67 FR 61011, Sept. 27, 2002; 70 FR 56090, Sept. 23, 2005; 75 FR 53596, Sept. 1, 2010; 76 FR 463, Jan. 5, 2011; 80 FR 54437, Sept. 10, 2015; 85 FR 83374, Dec. 21, 2020; 89 FR 15662, Mar. 4, 2024]

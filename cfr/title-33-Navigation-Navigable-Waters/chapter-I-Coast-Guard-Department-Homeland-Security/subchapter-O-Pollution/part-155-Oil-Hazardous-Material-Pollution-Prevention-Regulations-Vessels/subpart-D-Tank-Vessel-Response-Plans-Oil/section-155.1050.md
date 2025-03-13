@@ -129,8 +129,6 @@
 
 (iv) Dispersant-application systems ensured to be available, including trained personnel, that are capable of applying dispersants in accordance with the recommended procedures in ASTM F1737-07 (incorporated by reference, see § 155.140).
 
-Table 155.1050(k)—Tiers for Effective Daily Application Capability
-
 |      |Response time for completed application|Dispersant application  <br/>dispersant: oil treated in gallons  <br/>(Gulf Coast)|Dispersant application  <br/>dispersant: oil treated in gallons  <br/>All other U.S.|
 |------|---------------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 |Tier 1|                  12                   |                                  8,250:165,000                                   |                                    4,125:82,500                                    |
@@ -138,9 +136,9 @@ Table 155.1050(k)—Tiers for Effective Daily Application Capability
 |Tier 3|                  60                   |                                  23,375:467,000                                  |                                   23,375:467,000                                   |
 |Total |                  60                   |                                 55,000:1,100,000                                 |                                  50,875:1,017,500                                  |
 
-Note:
+Note 1:
 
-Gulf Coast Tier 1 is higher due to greater potential spill size and frequency in that area, and it is assumed that dispersant stockpiles would be centralized in the Gulf area. Alternative application ratios may be considered based on submission to Coast Guard Headquarters, Office of Incident Management & Preparedness (CG-533) of peer-reviewed scientific evidence of improved capability.
+Gulf Coast Tier 1 is higher due to greater potential spill size and frequency in that area, and it is assumed that dispersant stockpiles would be centralized in the Gulf area. Alternative application ratios may be considered based on submission to Coast Guard Headquarters, Office of Marine Environmental Response Policy (CG-MER) of peer-reviewed scientific evidence of improved capability.
 
 (3) Dispersant stockpiles, application platforms, and other supporting resources must be ensured available in a quantity and type sufficient to treat a vessel's worst case discharge (as determined by using the criteria in Section 8 of appendix B), or in quantities sufficient to meet the requirements in Table 155.1050(k), whichever is the lesser amount.
 
@@ -194,4 +192,4 @@ Gulf Coast Tier 1 is higher due to greater potential spill size and frequency in
 
 (5) Increases in the availability of private response resources.
 
-[CGD 91-034, 61 FR 1081, Jan. 12, 1996, as amended by USCG-2008-0179, 73 FR 35015, June 19, 2008; USCG-1998-3417, 73 FR 80649, Dec. 31, 2008; USCG-2001-8661, 74 FR 45028, Aug. 31, 2009; USCG-2018-0874, 84 FR 30880, June 28, 2019]
+[CGD 91-034, 61 FR 1081, Jan. 12, 1996, as amended by USCG-2008-0179, 73 FR 35015, June 19, 2008; USCG-1998-3417, 73 FR 80649, Dec. 31, 2008; USCG-2001-8661, 74 FR 45028, Aug. 31, 2009; USCG-2018-0874, 84 FR 30880, June 28, 2019; USCG-2023-1759, 89 FR 22947, Apr. 3, 2024]

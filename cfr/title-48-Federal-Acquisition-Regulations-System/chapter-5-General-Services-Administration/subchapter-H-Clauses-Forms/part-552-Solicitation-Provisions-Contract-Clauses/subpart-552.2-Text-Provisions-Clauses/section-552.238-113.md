@@ -35,5 +35,3 @@ Authorities Supporting Use of Federal Supply Schedule Contracts (Mar 2024)
 (14) FAR subpart 51.1, which provides for the use by contractors, including subcontractors, when such use is authorized pursuant to FAR subpart 51.1.
 
 (b) [Reserved]
-
-(End of clause)

@@ -16,7 +16,7 @@ As appropriate for the intended voyage, all vessels except barges, ferryboats an
 
 (g) Current tables; and
 
-(h) All other nautical publications necessary.1/\>
+(h) All other nautical publications necessary.1
 
 1 For United States vessels in or on the navigable waters of the United States, see 33 CFR 164.33.
 

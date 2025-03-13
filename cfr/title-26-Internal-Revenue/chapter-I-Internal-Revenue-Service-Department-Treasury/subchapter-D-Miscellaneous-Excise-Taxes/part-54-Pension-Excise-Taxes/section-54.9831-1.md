@@ -1,5 +1,7 @@
 ##### § 54.9831-1 Special rules relating to group health plans. #####
 
+Link to an amendment published at 89 FR 23412, Apr. 3, 2024.
+
 (a) *Group health plan*—(1) *Defined.* A group health plan means a plan (including a self-insured plan) of, or contributed to by, an employer (including a self-employed person) or employee organization to provide health care (directly or otherwise) to the employees, former employees, the employer, others associated or formerly associated with the employer in a business relationship, or their families.
 
 (2) *Determination of number of plans.* [Reserved]

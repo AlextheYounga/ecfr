@@ -1,8 +1,6 @@
 ##### § 173.4b De minimis exceptions. #####
 
-Link to an amendment published at 89 FR 15665, Mar. 4, 2024.
-
-(a) Packing Group II and III materials in Class 3, Division 4.1, Division 4.2, Division 4.3, Division 5.1, Division 6.1, Class 8, and Class 9 do not meet the definition of a hazardous material in § 171.8 of this subchapter when packaged in accordance with this section and, therefore, are not subject to the requirements of this subchapter.
+(a) When packaged in accordance with this section, the following materials do not meet the definition of a hazardous material in § 171.8 of this subchapter and, therefore, are not subject to the requirements of this subchapter: Packing Group I materials of hazard Division 6.1 (no inhalation hazard), and Packing Group II and III materials of hazard Class 3, Division 4.1, Division 4.2, Division 4.3, Division 5.1, Division 6.1, Class 8, and Class 9.
 
 (1) The maximum quantity of material per inner receptacle or article is limited to—
 
@@ -76,4 +74,4 @@ Link to an amendment published at 89 FR 15665, Mar. 4, 2024.
 
 (8) *Restrictions.* Except as provided in § 175.10, for transportation by aircraft, hazardous material packaged in accordance with this section may not be carried in checked or carry-on baggage by a passenger or crew member.
 
-[74 FR 2255, Jan. 14, 2009, as amended at 75 FR 5393, Feb. 2, 2010; 76 FR 3368, Jan. 19, 2011; 78 FR 1073, Jan. 7, 2013]
+[74 FR 2255, Jan. 14, 2009, as amended at 75 FR 5393, Feb. 2, 2010; 76 FR 3368, Jan. 19, 2011; 78 FR 1073, Jan. 7, 2013; 89 FR 15665, Mar. 4, 2024]

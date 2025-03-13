@@ -1,0 +1,3 @@
+##### § 2.30 Purpose. #####
+
+The purpose of the regulations in this subpart is to ensure that DOL-supported social service programs are open to all qualified organizations, regardless of the organizations' religious character, and to establish clearly the permissible uses to which DOL support for social service programs may be put, and the conditions for receipt of such support. In addition, this proposed rule is designed to ensure that the Department's social service programs are implemented in a manner consistent with the requirements of the Constitution, including the Religion Clauses of the First Amendment.

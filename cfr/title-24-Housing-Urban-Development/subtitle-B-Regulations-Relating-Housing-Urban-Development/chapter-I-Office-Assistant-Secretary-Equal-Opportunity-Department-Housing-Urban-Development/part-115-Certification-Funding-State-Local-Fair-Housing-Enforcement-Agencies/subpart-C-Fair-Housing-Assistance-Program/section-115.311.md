@@ -1,5 +1,7 @@
 ##### § 115.311 Testing. #####
 
+Link to an amendment published at 89 FR 22942, Apr. 3, 2024.
+
 The following requirements apply to testing activities funded under the FHAP:
 
 (a) The testing must be done in accordance with a HUD-approved testing methodology;
