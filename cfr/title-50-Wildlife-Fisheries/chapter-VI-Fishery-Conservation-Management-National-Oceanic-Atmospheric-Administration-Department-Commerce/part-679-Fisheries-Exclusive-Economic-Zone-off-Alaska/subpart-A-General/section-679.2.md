@@ -1,7 +1,5 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 88 FR 53731, Aug. 8, 2023.
-
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
 *ABC reserve* means, for purposes of flathead sole, rock sole, and yellowfin sole in the BSAI, an amount, not to exceed the ABC surplus, that may be reduced for social, economic, or ecological considerations according to § 679.20(b)(1)(iii).
@@ -52,7 +50,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Affiliates,* for purposes of subparts E and H to this part, means business concerns, organizations, or individuals are affiliates of each other if, directly or indirectly, either one controls or has the power to control the other, or a third party controls or has the power to control both. Indicators of control include, but are not limited to: Interlocking management or ownership; identity of interests among family members; shared facilities and equipment; common use of employees; or a business entity organized following the decertification, suspension, or proposed decertification of an observer provider that has the same or similar management, ownership, or principal employees as the observer provider that was decertified, suspended, or proposed for decertification.
 
-*Affiliation for the purpose of defining AFA and the Rockfish Program* means a relationship between two or more individuals, corporations, or other business concerns, except CDQ groups, in which one concern directly or indirectly owns a 10 percent or greater interest in another, exerts control over another, or has the power to exert control over another; or a third individual, corporation, or other business concern directly or indirectly owns a 10 percent or greater interest in both, exerts control over both, or has the power to exert control over both.
+*Affiliation for the purpose of defining AFA, Rockfish Program, and PCTC Program* means a relationship between two or more individuals, corporations, or other business concerns, except CDQ groups, in which one concern directly or indirectly owns a 10 percent or greater interest in another, exerts control over another, or has the power to exert control over another; or a third individual, corporation, or other business concern directly or indirectly owns a 10 percent or greater interest in both, exerts control over both, or has the power to exert control over both.
 
 (1) *What is 10 percent or greater ownership?* For the purpose of determining affiliation, 10 percent or greater ownership is deemed to exist if an individual, corporation, or other business concern directly or indirectly owns 10 percent or greater interest in a second corporation or other business concern.
 
@@ -470,9 +468,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Conviction,* for purposes of subpart E of this part, means a judgment or conviction of a criminal offense by any court of competent jurisdiction, whether entered upon a verdict or a plea, and includes a conviction entered upon a plea of nolo contendere.
 
-*Cooperative quota (CQ):*
-
-(1) *For purposes of the Amendment 80 Program* means:
+*Cooperative quota (CQ)*—(1) *For purposes of the Amendment 80 Program* means:
 
 (i) The annual catch limit of an Amendment 80 species that may be caught by an Amendment 80 cooperative while fishing under a CQ permit;
 
@@ -484,9 +480,15 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 (ii) The amount of annual halibut PSC that may be used by a rockfish cooperative in the Central GOA while fishing under a CQ permit (see rockfish halibut PSC in this section).
 
+(3) *For purposes of the PCTC Program* means:
+
+(i) The annual catch limit of Pacific cod that may be caught by a PCTC Program cooperative while fishing under a CQ permit;
+
+(ii) The amount of annual halibut and crab PSC that may be used by a PCTC Program cooperative while fishing under a CQ permit.
+
 *C. Opilio Crab Bycatch Limitation Zone (COBLZ)* (see § 679.21(e) and Figure 13 to this part.
 
-*CQ permit* means a permit issued to an Amendment 80 cooperative under § 679.4(o)(2) or to a rockfish cooperative under § 679.4(n)(1).
+*CQ permit* means a permit issued to an Amendment 80 cooperative under § 679.4(o)(2), a rockfish cooperative under § 679.4(n)(1), or a PCTC Program cooperative under § 679.131(a).
 
 *CQE floating processor* means, for the purposes of processing Pacific cod within the marine municipal boundaries of CQE communities (see Table 21 of this part) in the Western or Central Gulf of Alaska Federal reporting areas 610, 620, or 630, a vessel not meeting the definition of a stationary floating processor in this section, that has not harvested groundfish in the Gulf of Alaska in the same calendar year, and operates on the authority of an FPP endorsed as a CQE floating processor.
 
@@ -878,15 +880,17 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Net weight (IFQ or CDQ halibut only).* Net weight of IFQ or CDQ halibut means the weight of a halibut that is gutted, head off, and washed or ice and slime deducted.
 
+*NMFS Alaska Region website* means *https://www.fisheries.noaa.gov/region/alaska.*
+
+*NMFS investigator,* for purposes of subpart E of this part, means a designee authorized by the Regional Administrator to conduct investigations under this section.
+
+*NMFS Person Identification Number* means a unique number assigned by NMFS to any person who applied for, or who has been issued, a certificate, license, or permit under any fishery management program administered by the Alaska Region for purposes of the NMFS/Alaska Region Integrated Regional Data System.
+
 *Non-allocated or nonspecified species* means those fish species, other than prohibited species, for which TAC has not been specified (e.g., prowfish and lingcod).
 
 *Non-IFQ groundfish* means groundfish, other than IFQ sablefish.
 
 *Non-individual entity* means a person who is not an individual or “natural” person; it includes corporations, partnerships, estates, trusts, joint ventures, joint tenancy, and any other type of “person” other than a natural person.
-
-*NMFS investigator,* for purposes of subpart E of this part, means a designee authorized by the Regional Administrator to conduct investigations under this section.
-
-*NMFS Person Identification Number* means a unique number assigned by NMFS to any person who applied for, or who has been issued, a certificate, license, or permit under any fishery management program administered by the Alaska Region for purposes of the NMFS/Alaska Region Integrated Regional Data System.
 
 *Non-allocated secondary species* (see *Rockfish Program species* in this section).
 
@@ -938,7 +942,23 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Other species* is a category of target species for the purpose of MRA and PSC management that consists of groundfish species in each management area. These target species are managed as an other species group and identified in Tables 10 and 11 to this part pursuant to § 679.20(e).
 
+*Pacific Cod Trawl Cooperative (PCTC) Program* means the Pacific Cod Trawl Cooperative Program as implemented under subpart L of this part.
+
 *Parallel groundfish fishery.* With respect to subpart E of this part, parallel groundfish fishery means a fishery that occurs in waters of the State of Alaska (from 0 to 3 nm) adjacent to the BSAI or GOA management areas and opens concurrently with Federal groundfish fisheries such that groundfish catch is deducted from the Federal Total Allowable Catch.
+
+*PCTC Program cooperative* means a group of eligible Pacific cod harvesters who have chosen to form a cooperative and associate with a processor under the requirements at § 679.131 in order to combine and harvest fish collectively under a CQ permit issued by NMFS.
+
+*PCTC Program harvester QS pool* means the sum of Pacific cod QS units assigned to LLP licenses established for the PCTC Program fishery based on the PCTC Program official record.
+
+*PCTC Program official record* means information used by NMFS necessary to determine eligibility to participate in the PCTC Program and assign specific harvest privileges or limits to PCTC Program participants based on Pacific cod legal landings as defined at § 679.130.
+
+*PCTC Program participants* means those PCTC Program harvesters and processors who receive, hold, or use PCTC Program QS.
+
+*PCTC Program processor QS pool* means the sum of PCTC Program QS units assigned to processor permits issued under the PCTC Program based on the PCTC Program official record.
+
+*PCTC Program QS unit* means a single share of the PCTC Program QS pool based on Pacific cod legal landings.
+
+*PCTC Program quota share (QS)* means QS units issued by NMFS expressed in metric tons, derived from the Pacific cod legal landings assigned to an LLP license or PCTC Program QS permit held by a processor and used as the basis for the issuance of annual CQ.
 
 *Permit* means documentation granting permission to fish and includes “license” as a type of permit.
 

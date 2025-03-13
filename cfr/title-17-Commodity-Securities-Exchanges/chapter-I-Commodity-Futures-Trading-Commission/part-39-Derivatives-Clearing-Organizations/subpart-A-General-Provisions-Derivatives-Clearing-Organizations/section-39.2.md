@@ -1,7 +1,5 @@
 ##### § 39.2 Definitions. #####
 
-Link to an amendment published at 88 FR 53682, Aug. 8, 2023.
-
 For the purposes of this part:
 
 *Activity with a more complex risk profile* includes:
@@ -10,7 +8,7 @@ For the purposes of this part:
 
 (2) Any other activity designated as such by the Commission pursuant to § 39.33(a)(3).
 
-*Back test* means a test that compares a derivatives clearing organization's initial margin requirements with historical price changes to determine the extent of actual margin coverage.
+*Backtest* means a test that compares a derivatives clearing organization's initial margin requirements with historical price changes to determine the extent of actual margin coverage.
 
 *Business day* means the intraday period of time starting at the business hour of 8:15 a.m. and ending at the business hour of 4:45 p.m., on all days except Saturdays, Sundays, and any holiday on which a derivatives clearing organization and its domestic financial markets are closed, including a Federal holiday in the United States, as established under 5 U.S.C. 6103.
 
@@ -62,4 +60,4 @@ For the purposes of this part:
 
 *U.S. branch or agency of a foreign banking organization* means the U.S. branch or agency of a foreign banking organization as defined in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
-[85 FR 4850, Jan. 27, 2020, as amended at 85 FR 67186, Oct. 21, 2020; 86 FR 965, Jan. 7, 2021]
+[85 FR 4850, Jan. 27, 2020, as amended at 85 FR 67186, Oct. 21, 2020; 86 FR 965, Jan. 7, 2021; 88 FR 53682, Aug. 8, 2023]

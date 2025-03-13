@@ -1,7 +1,5 @@
 ##### § 679.51 Observer and Electronic Monitoring System requirements for vessels and plants. #####
 
-Link to an amendment published at 88 FR 53734, Aug. 8, 2023.
-
 (a) *Observer requirements for vessels*—(1) *Groundfish and halibut fishery partial coverage category*—(i) *Vessel classes in partial coverage category.* Unless otherwise specified in paragraph (a)(2) of this section, the following catcher vessels and catcher/processors are in the partial coverage category when fishing for halibut or when directed fishing for groundfish in a federally managed or parallel groundfish fishery, as defined at § 679.2:
 
 (A) A catcher vessel designated on an FFP under § 679.4(b)(1);
@@ -56,7 +54,9 @@ Link to an amendment published at 88 FR 53734, Aug. 8, 2023.
 
 (*3*) Participating in the Rockfish Program; or
 
-(*4*) Using trawl gear in the BSAI if the vessel has been placed in the full observer coverage category under paragraph (a)(4) of this section.
+(*4*) Using trawl gear in the BSAI if the vessel has been placed in the full observer coverage category under paragraph (a)(4) of this section; or
+
+(*5*) Participating in the PCTC Program.
 
 (ii) *Observer coverage requirements.* Unless subject to the partial observer coverage category per paragraph (a)(1)(i) of this section, a vessel listed in paragraphs (a)(2)(i)(A) through (C) of this section must have at least one observer aboard the vessel at all times. Some fisheries require additional observer coverage in accordance with paragraph (a)(2)(vi) of this section.
 
@@ -101,6 +101,8 @@ Link to an amendment published at 88 FR 53734, Aug. 8, 2023.
 (*2*) *Scales option.* If the vessel owner selects the scales option under § 679.100(b)(2), one lead level 2 observer must be aboard the vessel at all times when the vessel is operating in either the BSAI or GOA groundfish fisheries when directed fishing for Pacific cod is open in the BSAI, or while the vessel is groundfish CDQ fishing.
 
 (F) *Halibut deck sorting.* Vessels subject to § 679.120 must have at least two observers aboard at all times when halibut deck sorting may occur; one observer must be endorsed as a lead level 2 observer. More than two observers are required if the observer workload restriction would otherwise preclude sampling as required.
+
+(G) *PCTC Program motherships.* A mothership that receives unsorted codends from catcher vessels harvesting Pacific cod under the PCTC Program must have at least two observers aboard the mothership, at least one of whom must be endorsed as a lead level 2 observer. More than two observers must be aboard if the observer workload restriction would otherwise preclude sampling as required.
 
 (3) *Catcher/processor placement in the partial observer coverage category for a year*—(i) *Definitions.* For purposes of this paragraph (a)(3), these terms are defined as follows:
 
@@ -186,9 +188,9 @@ Link to an amendment published at 88 FR 53734, Aug. 8, 2023.
 
 (*3*) A valid certificate of inspection pursuant to 46 U.S.C. 3311.
 
-(iii) *Communications and observer data entry*—(A) *Observer use of equipment.* Allow an observer to use the vessel's communications equipment and personnel, on request, for the confidential entry, transmission, and receipt of work-related messages, at no cost to the observer or the United States.
+(iii) *Communications and observer data entry*—(A) *Observer use of equipment.* Allow an observer to use the vessel's communications equipment and personnel, on request, for the confidential entry, transmission, and receipt of work-related messages (including electronic transmission of data), at no cost to the observer or the United States.
 
-(B) The operator of a catcher/processor (except for a catcher/processor placed in the partial observer coverage category under paragraph (a)(3) of this section), mothership, or catcher vessel 125 ft LOA or longer (except for a catcher vessel fishing for groundfish with pot gear) must provide the following equipment, software and data transmission capabilities:
+(B) *Equipment, software, and data transmission requirements.* The operator of a catcher/processor (except for a catcher/processor placed in the partial observer coverage category under paragraph (a)(3) of this section), mothership, catcher vessel 125 ft (38.1 m) LOA or longer (except for a catcher vessel fishing for groundfish with pot gear), or a catcher vessel participating in the PCTC Program (except for paragraph (e)(1)(iii)(D) of this section) must provide the following equipment, software and data transmission capabilities:
 
 (*1*) *Observer access to computer.* Make a computer available for use by the observer.
 
@@ -199,6 +201,8 @@ Link to an amendment published at 88 FR 53734, Aug. 8, 2023.
 (*4*) *Functional and operational equipment.* Ensure that the required equipment described in paragraph (e)(1)(iii)(B) of this section and that is used by an observer to enter or transmit data is fully functional and operational. “Functional” means that all the tasks and components of the NMFS-supplied, or other approved, software described in paragraph (e)(1)(iii)(B)(*2*) of this section and any required data transmissions to NMFS can be executed effectively aboard the vessel by the equipment.
 
 (C) The operator of a catcher vessel participating in the Rockfish Program or a catcher vessel less than 125 ft LOA directed fishing for pollock in the BS must comply with the computer and software requirements described in paragraphs (e)(1)(iii)(B)(*1*), (*2*), and (*4*) of this section.
+
+(D) *PCTC Program.* The operator of a non-AFA catcher vessel participating in the PCTC Program is not required to comply with paragraph (e)(1)(iii)(B)(*3*) of this section to provide data transmission capability until September 7, 2026. However, once any non-AFA catcher vessel in the PCTC Program is capable of at-sea data transmission, the operator must comply.
 
 (iv) *Vessel position.* Allow observers access to, and the use of, the vessel's navigation equipment and personnel, on request, to determine the vessel's position.
 
@@ -364,4 +368,4 @@ Link to an amendment published at 88 FR 53734, Aug. 8, 2023.
 
 (iv) If an EM system malfunction occurs during a fishing trip that does not allow the recording of retrieval location information and imagery of catch as described in the vessel's VMP, the vessel operator must cease fishing and contact OLE immediately.
 
-[77 FR 70091, Nov. 21, 2012, as amended at 79 FR 54601, Sept. 12, 2014; 81 FR 26745, May 4, 2016; 81 FR 37556, June 10, 2016; 81 FR 67117, Sept. 30, 2016; 81 FR 70607, Oct. 13, 2016; 81 FR 95457, Dec. 28, 2016; 82 FR 37002, Aug. 8, 2017; 83 FR 30532, 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019; 85 FR 850, Jan. 8, 2020]
+[77 FR 70091, Nov. 21, 2012, as amended at 79 FR 54601, Sept. 12, 2014; 81 FR 26745, May 4, 2016; 81 FR 37556, June 10, 2016; 81 FR 67117, Sept. 30, 2016; 81 FR 70607, Oct. 13, 2016; 81 FR 95457, Dec. 28, 2016; 82 FR 37002, Aug. 8, 2017; 83 FR 30532, 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019; 85 FR 850, Jan. 8, 2020; 88 FR 53734, Aug. 8, 2023]

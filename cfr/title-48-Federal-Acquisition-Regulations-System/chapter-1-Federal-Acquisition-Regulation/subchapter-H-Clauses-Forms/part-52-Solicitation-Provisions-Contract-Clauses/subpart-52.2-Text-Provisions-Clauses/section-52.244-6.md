@@ -1,10 +1,8 @@
 ##### 52.244-6 Subcontracts for Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 88 FR 53753, Aug. 8, 2023.
-
 As prescribed in 44.403, insert the following clause:
 
-Subcontracts for Commercial Products and Commercial Services (JUN 2023)
+Subcontracts for Commercial Products and Commercial Services (SEP 2023)
 
 (a) *Definitions.* As used in this clause—
 
@@ -30,7 +28,7 @@ Subcontracts for Commercial Products and Commercial Services (JUN 2023)
 
 (vii) 52.204-27, Prohibition on a ByteDance Covered Application (JUN 2023) (Section 102 of Division R of Pub. L. 117-328).
 
-(viii) 52.219-8, Utilization of Small Business Concerns (OCT 2022) (15 U.S.C. 637(d)(2) and (3)), if the subcontract offers further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(viii) 52.219-8, Utilization of Small Business Concerns (SEP 2023) (15 U.S.C. 637(d)(2) and (3)), if the subcontract offers further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (ix) 52.222-21**,** Prohibition of Segregated Facilities (APR 2015).
 

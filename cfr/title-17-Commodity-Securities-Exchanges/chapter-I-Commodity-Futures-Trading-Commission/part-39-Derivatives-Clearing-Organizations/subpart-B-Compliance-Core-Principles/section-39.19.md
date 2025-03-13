@@ -1,7 +1,5 @@
 ##### § 39.19 Reporting. #####
 
-Link to an amendment published at 88 FR 53683, Aug. 8, 2023.
-
 (a) *General.* A derivatives clearing organization shall provide to the Commission the information specified in this section and any other information that the Commission determines to be necessary to conduct oversight of the derivatives clearing organization.
 
 (b) *Submission of reports*—(1) *General requirement.* A derivatives clearing organization shall submit the information required by this section to the Commission in a format and manner specified by the Commission.
@@ -12,17 +10,17 @@ Link to an amendment published at 88 FR 53683, Aug. 8, 2023.
 
 (c) *Reporting requirements.* Each registered derivatives clearing organization shall provide to the Commission or other person as may be required or permitted by this paragraph (c) the information specified as follows:
 
-(1) *Daily reporting.* (i) A derivatives clearing organization shall compile as of the end of each trading day, and submit to the Commission by 10:00 a.m. on the next business day, a report containing the following information related to all positions other than fully collateralized positions:
+(1) *Daily reporting.* (i) A derivatives clearing organization shall compile as of the end of each trading day, and submit to the Commission by 10 a.m. on the next business day, a report containing the results of the backtesting required under § 39.13(g)(7)(i), and the following information related to all positions, other than fully collateralized positions, in accordance with the data fields set forth in appendix C to this part:
 
-(A) Initial margin requirements and initial margin on deposit for each clearing member, by house origin and by each customer origin, and by each individual customer account;
+(A) Initial margin requirements and initial margin on deposit for each clearing member, by house origin and by each customer origin, and by each individual customer account. The derivatives clearing organization shall identify each individual customer account, using both a legal entity identifier, where available, and any internally-generated identifier, within each customer origin for each clearing member;
 
-(B) Daily variation margin, separately listing the mark-to-market amount collected from or paid to each clearing member, by house origin and by each customer origin, and by each individual customer account;
+(B) Daily variation margin, separately listing the mark-to-market amount collected from or paid to each clearing member, by house origin and by each customer origin;
 
-(C) All other daily cash flows relating to clearing and settlement including, but not limited to, option premiums and payments related to swaps such as coupon amounts, collected from or paid to each clearing member, by house origin and by each customer origin, and by each individual customer account; and
+(C) All other daily cash flows relating to clearing and settlement including, but not limited to, option premiums and payments related to swaps such as coupon amounts, collected from or paid to each clearing member, by house origin and by each customer origin; and
 
-(D) End-of-day positions, including as appropriate the risk sensitivities and valuation data that the derivatives clearing organization generates, creates, or calculates in connection with managing the risks associated with such positions, for each clearing member, by house origin and by each customer origin, and by each individual customer account. The derivatives clearing organization shall identify each individual customer account using both a legal entity identifier and any internally-generated identifier, where available, within each customer origin for each clearing member.
+(D) End-of-day positions, including as appropriate the risk sensitivities and valuation data that the derivatives clearing organization generates, creates, or calculates in connection with managing the risks associated with such positions, for each clearing member, by house origin and by each customer origin, and by each individual customer account. The derivatives clearing organization shall identify each individual customer account, using both a legal entity identifier, where available, and any internally-generated identifier, within each customer origin for each clearing member.
 
-(ii) The report shall contain the information required by paragraphs (c)(1)(i)(A) through (D) of this section for:
+(ii) The report shall contain the information required by paragraphs (c)(1)(i)(A) through (D) of this section for each of the following, other than fully collateralized positions:
 
 (A) All futures positions, and options positions, as applicable;
 
@@ -33,6 +31,8 @@ Link to an amendment published at 88 FR 53683, Aug. 8, 2023.
 (*1*) Held in a customer account subject to section 4d of the Act; or
 
 (*2*) Subject to a cross-margining agreement.
+
+(iii) Notwithstanding the specific fields set forth in appendix C to this part, a derivatives clearing organization may choose to submit, after consultation with staff of the Division of Clearing and Risk, any additional data field that is necessary or appropriate to better capture the information that is being reported.
 
 (2) *Quarterly reporting.* A derivatives clearing organization shall provide to the Commission each fiscal quarter, or at any time upon Commission request, a report of the derivatives clearing organization's financial resources as required by § 39.11(f)(1).
 
@@ -112,7 +112,7 @@ Link to an amendment published at 88 FR 53683, Aug. 8, 2023.
 
 (ix) *Change in ownership or corporate or organizational structure*—(A) *Reporting requirement.* A derivatives clearing organization shall report to the Commission any anticipated change in the ownership or corporate or organizational structure of the derivatives clearing organization or its parent(s) that would:
 
-(*1*) Result in at least a 10 percent change of ownership of the derivatives clearing organization;
+(*1*) Result in at least a 10 percent change of ownership of the derivatives clearing organization or a change to the entity or person holding a controlling interest in the derivatives clearing organization, whether through an increase in direct ownership or voting interest in the derivatives clearing organization or in a direct or indirect corporate parent entity of the derivatives clearing organization;
 
 (*2*) Create a new subsidiary or eliminate a current subsidiary of the derivatives clearing organization; or
 
@@ -128,13 +128,13 @@ Link to an amendment published at 88 FR 53683, Aug. 8, 2023.
 
 (xi) *Change in legal name.* A derivatives clearing organization shall report to the Commission no later than two business days following a legal name change of the derivatives clearing organization.
 
-(xii) *Change in credit facility funding arrangement.* A derivatives clearing organization shall report to the Commission no later than one business day after the derivatives clearing organization changes a credit facility funding arrangement it has in place, or is notified that such arrangement has changed, including but not limited to a change in lender, change in the size of the facility, change in expiration date, or any other material changes or conditions.
+(xii) *Change in credit facility funding arrangement.* A derivatives clearing organization shall report to the Commission no later than one business day after the derivatives clearing organization enters into, terminates, or changes a credit facility funding arrangement, or is notified that such arrangement has changed, including but not limited to a change in lender, change in the size of the facility, change in expiration date, or any other material changes or conditions.
 
-(xiii) *Change in liquidity funding arrangement.* A derivatives clearing organization shall report to the Commission no later than one business day after the derivatives clearing organization changes a liquidity funding arrangement it has in place, or is notified that such arrangement has changed, including but not limited to a change in provider, change in the size of the facility, change in expiration date, or any other material changes or conditions.
+(xiii) *Change in liquidity funding arrangement.* A derivatives clearing organization shall report to the Commission no later than one business day after the derivatives clearing organization enters into, terminates, or changes a liquidity funding arrangement, or is notified that such arrangement has changed, including but not limited to a change in provider, change in the size of the arrangement, change in expiration date, or any other material changes or conditions.
 
 (xiv) *Change in settlement bank arrangements.* A derivatives clearing organization shall report to the Commission no later than three business days after the derivatives clearing organization enters into a new relationship with, or terminates a relationship with, any settlement bank used by the derivatives clearing organization or approved for use by the derivatives clearing organization's clearing members.
 
-(xv) *Settlement bank issues.* A derivatives clearing organization shall report to the Commission no later than one business day after any material issues or concerns arise regarding the performance, stability, liquidity, or financial resources of any settlement bank used by the derivatives clearing organization or approved for use by the derivatives clearing organization's clearing members.
+(xv) *Issues with credit facility funding arrangements, liquidity funding arrangements, custodian banks, or settlement banks.* A derivatives clearing organization shall report to the Commission no later than one business day after it becomes aware of any material issues or concerns regarding the performance, stability, liquidity, or financial resources of any credit facility funding arrangement, liquidity funding arrangement, custodian bank, or settlement bank used by the derivatives clearing organization or approved for use by the derivatives clearing organization's clearing members.
 
 (xvi) *Sanctions against a clearing member.* A derivatives clearing organization shall provide notice to the Commission no later than two business days after the derivatives clearing organization imposes sanctions against a clearing member.
 
@@ -164,10 +164,12 @@ Link to an amendment published at 88 FR 53683, Aug. 8, 2023.
 
 (xxiv) *Recovery and wind-down plans.* A derivatives clearing organization that is required to maintain recovery and wind-down plans pursuant to § 39.39(b) shall submit its plans to the Commission no later than the date on which the derivatives clearing organization is required to have the plans. A derivatives clearing organization that is not required to maintain recovery and wind-down plans pursuant to § 39.39(b), but which nonetheless maintains such plans, may choose to submit its plans to the Commission. A derivatives clearing organization that has submitted its recovery and wind-down plans to the Commission shall, upon making any revisions to the plans, submit the revised plans to the Commission along with a description of the changes and the reason for those changes.
 
+(xxv) *Updates to responses to the Disclosure Framework for Financial Market Infrastructures.* A systemically important derivatives clearing organization or a subpart C derivatives clearing organization that updates its responses to the Disclosure Framework for Financial Market Infrastructures published by the Committee on Payment and Settlement Systems and the Board of the International Organization of Securities Commissions pursuant to § 39.37(b)(1) must provide to the Commission, within ten business days after such update, a copy of the text of the responses that shows all deletions and additions made to the immediately preceding version of the responses, as required by § 39.37(b)(2).
+
 (5) *Requested reporting.* A derivatives clearing organization shall provide upon request by the Commission and within the time specified in the request:
 
 (i) Any information related to its business as a clearing organization, including information relating to trade and clearing details.
 
 (ii) A written demonstration, containing supporting data, information and documents, that the derivatives clearing organization is in compliance with one or more core principles and relevant provisions of this part.
 
-[76 FR 69430, Nov. 8, 2011, as amended at 85 FR 4858, Jan. 27, 2020]
+[76 FR 69430, Nov. 8, 2011, as amended at 85 FR 4858, Jan. 27, 2020; 88 FR 53683, Aug. 8, 2023]

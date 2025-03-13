@@ -1,7 +1,5 @@
 ##### § 679.4 Permits. #####
 
-Link to an amendment published at 88 FR 53732, Aug. 8, 2023.
-
 (a) *Requirements.* Only persons who are U.S. citizens are authorized to receive or hold permits under this section, with the exception that an IFQ hired master permit or a CDQ hired master permit need not be held by a U.S. citizen.
 
 (1) *What permits are available?* Various types of permits are issued for programs codified at 50 CFR parts 300 and 679. These permits are listed in the following table. The date of effectiveness for each permit is given along with certain reference paragraphs for further information.
@@ -59,6 +57,9 @@ Link to an amendment published at 88 FR 53732, Aug. 8, 2023.
 |      (B) Community charter halibut permit      |                                                     Indefinite                                                     |      § 300.67 of this title.       |
 |      (C) Military charter halibut permit       |                                                     Indefinite                                                     |      § 300.67 of this title.       |
 |      (D) Guided Angler Fish (GAF) permit       |                                       Until expiration date shown on permit                                        |      § 300.65 of this title.       |
+|              (xvi) PCTC Program:               |                                                                                                                    |                                    |
+|  (A) PCTC Program QS permit (for processors)   |                                                      10 Years                                                      |   Paragraph (q) of this section.   |
+|           (B) PCTC Program CQ permit           |                                       Until expiration date shown on permit                                        |   Paragraph (q) of this section    |
 
 (2) *Permit and logbook required by participant and fishery.* For the various types of permits issued, refer to § 679.5 for recordkeeping and reporting requirements. For subsistence and GAF permits, refer to § 300.65 of this title for recordkeeping and reporting requirements.
 
@@ -986,6 +987,8 @@ and
 
 (D) The Regional Administrator will prepare and send an IAD to the applicant following the expiration of the 30-day evidentiary period, if the Regional Administrator determines that the information or evidence provided by the person fails to support the person's claims and is insufficient to rebut the presumption that the official record is correct, or if the additional information, evidence, or revised application is not provided within the time period specified in the letter that notifies the applicant of his or her 30-day evidentiary period. The IAD will indicate the deficiencies with the information or evidence submitted. The IAD will also indicate which claims cannot be approved based on the available information or evidence. A person who receives an IAD may appeal pursuant to 15 CFR part 906. NMFS will issue a non-transferable interim license that is effective until final agency action on the IAD to an applicant who avails himself or herself of the opportunity to appeal an IAD and who has a credible claim to eligibility for a BSAI Pacific cod trawl mothership endorsement.
 
+(16) *PCTC Program.* In addition to other requirements of this part, an LLP license holder must have PCTC Program QS assigned to their groundfish LLP license to join a PCTC Program cooperative to harvest Pacific cod.
+
 (l) *AFA permits*—(1) *General*—(i) *Applicability.* In addition to any other permit and licensing requirements set out in this part, any vessel used to engage in directed fishing for a non-CDQ allocation of pollock in the BS and any shoreside processor, stationary floating processor, or mothership that receives pollock harvested in a non-CDQ directed pollock fishery in the BS must have a valid AFA permit onboard the vessel or at the facility location at all times while non-CDQ pollock is being harvested or processed. In addition, the owner of any vessel that is a member of a pollock cooperative in the BS must also have a valid AFA permit for every vessel that is a member of the cooperative, regardless of whether or not the vessel actually engages in directed fishing for pollock in the BS. Finally, an AFA permit does not exempt a vessel operator, vessel, or processor from any other applicable permit or licensing requirement required under this part or in other state or Federal regulations.
 
 (ii) *Duration*—(A) *Expiration of interim AFA permits.* All interim AFA vessel and processor permits issued prior to January 1, 2002, will expire on December 31, 2002, unless extended or re-issued by NMFS.
@@ -1453,5 +1456,15 @@ OCEAN PHOENIX (USCG documentation number 296779); or
 (ii) Each NMFS approved Flatfish Exchange is debited as one Flatfish Exchange. An approved Flatfish Exchange is effective on the date of publication of the notice of adjustment or apportionment in the Federal Register.
 
 (5) *CDQ ABC reserve and Amendment 80 ABC reserve exchange limitations.* Each CDQ group and each Amendment 80 cooperative is limited to no more than three Flatfish Exchanges per calendar year.
+
+(q) *PCTC Program permits*—(1) *PCTC Program cooperative quota permits.* (i) A CQ permit is issued annually to a PCTC Program cooperative that submits a complete and timely application for CQ as described at § 679.131 that is approved by the Regional Administrator. A CQ permit authorizes a PCTC Program cooperative to participate in the PCTC Program. The CQ permit will indicate the amount of Pacific cod that may be harvested by the PCTC Program cooperative, and the amount of halibut PSC and crab PSC that may be used by the PCTC Program cooperative. The CQ permit will list the members of the PCTC Program cooperative, the trawl catcher vessels that are authorized to fish under the CQ permit for that cooperative, and the PCTC Program processor(s) with whom that cooperative is associated.
+
+(ii) A CQ permit is valid only until the end of the BSAI Pacific cod B season for the year in which the CQ permit is issued;
+
+(iii) A legible copy of a valid CQ permit must be carried on board the vessel(s) used by the PCTC Program cooperative.
+
+(2) *PCTC Program quota share permits for processors.* (i) NMFS will issue PCTC Program QS permits to eligible processors if the owner(s) submits to the Regional Administrator a completed application for PCTC Program QS as described at § 679.130 that is subsequently approved.
+
+(ii) A processor may associate the QS assigned to the PCTC Program QS permit with a PCTC Program cooperative as described at § 679.131.
 
 [61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

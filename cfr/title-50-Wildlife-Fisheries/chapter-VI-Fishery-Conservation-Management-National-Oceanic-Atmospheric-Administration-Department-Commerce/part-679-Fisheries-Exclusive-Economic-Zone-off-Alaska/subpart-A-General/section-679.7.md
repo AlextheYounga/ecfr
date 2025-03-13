@@ -1,7 +1,5 @@
 ##### § 679.7 Prohibitions. #####
 
-Link to an amendment published at 88 FR 53733, Aug. 8, 2023.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) *Groundfish of the GOA and BSAI*—(1) *Federal Fisheries Permit (FFP).* (i) Fish for groundfish in the BSAI or GOA with a vessel of the United States that does not have on board a legible copy of a valid FFP issued under § 679.4.
@@ -603,7 +601,41 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (6) Fail to submit a timely and complete Aleutian Islands pollock cost recovery fee submission form and fee as required under § 679.67.
 
-(m) [Reserved]
+(m) *PCTC Program*—(1) *General.* (i) Name an LLP license in more than one Application for PCTC Program CQ in a fishing year.
+
+(ii) Use a vessel to catch or receive a PCTC Program cooperative's Pacific cod when that vessel was not listed on the Application for PCTC Program CQ.
+
+(iii) Fail to comply with any other requirement or restriction specified in this part or violate any provision of this part.
+
+(2) *Vessel owners and operators participating in the PCTC Program.* (i) Fail to follow the catch monitoring requirements detailed at § 679.134.
+
+(ii) Operate a vessel that is subject to a sideboard limit detailed at § 679.133, as applicable, and fail to follow the catch monitoring requirements detailed at § 679.134.
+
+(iii) Exceed the ownership or use caps specified at § 679.133.
+
+(3) *VMS.* (i) Operate a vessel in a PCTC Program cooperative and fail to use functioning VMS equipment as described at § 679.134.
+
+(ii) Operate a vessel that is subject to a sideboard limit detailed at § 679.133 and fail to use functioning VMS equipment as described at § 679.134.
+
+(4) *PCTC Program processors.* (i) Take deliveries of, or process, PCTC Program Pacific cod harvested by a catcher vessel fishing under the authority of a CQ permit unless the processor has an FPP or FFP and LLP license with a BSAI Pacific cod trawl mothership endorsement.
+
+(ii) For the manager of a shoreside processor or stationary floating processor to process any groundfish delivered by a catcher vessel fishing under the authority of a CQ permit not weighed on a scale approved by the State of Alaska.
+
+(iii) Fail to submit a timely and complete Pacific cod Ex-vessel Volume and Value Report as required under § 679.5(u)(1).
+
+(iv) Use a catcher/processor designated on an LLP license with a BSAI Pacific cod trawl mothership endorsement to sort, process, or discard any species, except halibut sorted on deck by vessels participating in halibut deck sorting described at § 679.120, before the total catch is weighed on a scale that meets the requirements of § 679.28(b).
+
+(v) Use a catcher/processor designated on an LLP license with a BSAI Pacific cod trawl mothership endorsement to process Pacific cod in excess of the at-sea processing sideboard limit defined at § 679.133(b)(2) and assigned to the LLP license.
+
+(vi) Process an amount of Pacific cod that exceeds use caps specified at § 679.133.
+
+(5) *PCTC Program cooperatives.* (i) Harvest PCTC Program Pacific cod, use halibut PSC, or use crab PSC assigned to a PCTC Program cooperative in the BSAI without having on board a legible copy of valid CQ permit.
+
+(ii) Begin a fishing trip for PCTC Program Pacific cod with any vessel named in a PCTC Program cooperative if the total amount of unharvested PCTC Program Pacific cod on a CQ permit currently held by that cooperative is zero or less.
+
+(iii) Have a negative balance in a CQ account after the end of the calendar year for which a CQ permit was issued.
+
+(iv) Fail to submit a PCTC Program cost recovery fee payment as required under § 679.135.
 
 (n) *Rockfish Program*—(1) *General.* (i) Use an LLP license assigned to a rockfish cooperative in any rockfish cooperative other than the rockfish cooperative to which that LLP license was initially assigned for that fishing year.
 

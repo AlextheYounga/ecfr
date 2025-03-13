@@ -1,7 +1,5 @@
 ##### 19.703 Eligibility requirements for participating in the program. #####
 
-Link to an amendment published at 88 FR 53752, Aug. 8, 2023.
-
 (a) Except as provided in paragraph (c) of this section, to be eligible as a subcontractor under the program, a concern must represent itself as a small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business concern.
 
 (1) To represent itself as a small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business concern, a concern must meet the appropriate definition (see 2.101 and 19.001). For subcontracting purposes, a concern is small if it does not exceed the size standard for the NAICS code that the prime contractor determines best describes the product or service being acquired by the subcontract.
@@ -16,7 +14,7 @@ Link to an amendment published at 88 FR 53752, Aug. 8, 2023.
 
 (iii) The prime contractor may not require the use of SAM for the purposes of representing size or socioeconomic status in connection with a subcontract.
 
-(iv) In accordance with 13 CFR 121.411, 124.1015, 125.29, 126.900, and 127.700, a prime contractor acting in good faith is not liable for misrepresentations made by its subcontractors regarding the subcontractor's size or socioeconomic status.
+(iv) In accordance with 13 CFR 121.411, 126.900, 127.700, and 128.600, a prime contractor acting in good faith is not liable for misrepresentations made by its subcontractors regarding the subcontractor's size or socioeconomic status.
 
 (b) The contractor, the contracting officer, or any other interested party can challenge a subcontractor's size status representation by filing a protest, in accordance with 13 CFR 121.1001 through 121.1008.
 
@@ -37,7 +35,5 @@ Link to an amendment published at 88 FR 53752, Aug. 8, 2023.
 (2) A contractor acting in good faith may rely on the written representation of an ANC or an Indian tribe as to the status of the ANC or Indian tribe unless an interested party challenges its status or the contracting officer has independent reason to question its status. In the event of a challenge of a representation of an ANC or Indian tribe, the interested parties shall follow the procedures at 26.103(b) through (e).
 
 (d) Protests challenging the socioeconomic status of a HUBZone small business concern must be filed in accordance with 13 CFR 126.801.
-
-(e) The contracting officer or the SBA may protest the disadvantaged status of a proposed subcontractor. Protests challenging a subcontractor's small disadvantaged business representation must be filed in accordance with 13 CFR 124.1007 through 124.1014. Other interested parties may submit information to the contracting officer or the SBA in an effort to persuade the contracting officer or the SBA to initiate a protest. Such protests, in order to be considered timely, must be submitted to the SBA prior to completion of performance by the intended subcontractor.
 
 [48 FR 42240, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 19.703, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

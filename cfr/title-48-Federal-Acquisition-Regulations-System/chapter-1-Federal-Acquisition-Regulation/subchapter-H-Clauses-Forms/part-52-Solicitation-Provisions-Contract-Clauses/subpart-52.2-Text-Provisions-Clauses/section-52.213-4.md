@@ -1,10 +1,8 @@
 ##### 52.213-4 Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services). #####
 
-Link to an amendment published at 88 FR 53753, Aug. 8, 2023.
-
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (JUN 2023)
+Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (SEP 2023)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -46,7 +44,7 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 
 (vi) 52.233-1, Disputes (MAY 2014).
 
-(vii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (JUN 2023).
+(vii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (SEP 2023).
 
 (viii) 52.253-1, Computer Generated Forms (JAN 1991).
 

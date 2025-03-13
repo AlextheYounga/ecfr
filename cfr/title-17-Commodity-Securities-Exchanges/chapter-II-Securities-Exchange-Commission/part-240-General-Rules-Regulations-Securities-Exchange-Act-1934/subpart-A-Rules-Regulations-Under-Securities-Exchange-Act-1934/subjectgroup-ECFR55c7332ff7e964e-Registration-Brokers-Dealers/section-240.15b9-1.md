@@ -1,5 +1,7 @@
 ##### § 240.15b9-1 Exemption for certain exchange members. #####
 
+Link to an amendment published at 88 FR 61893, Sept. 7, 2023.
+
 (a) Any broker or dealer required by section 15(b)(8) of the Act to become a member of a registered national securities association shall be exempt from such requirement if it: (1) Is a member of a national securities exchange, (2) carries no customer accounts, and (3) has annual gross income derived from purchases and sales of securities otherwise than on a national securities exchange of which it is a member in an amount no greater than $1,000.
 
 (b) The gross income limitation contained in paragraph (a) of this section, shall not apply to income derived from transactions (1) for the dealer's own account with or through another registered broker or dealer or (2) through the Intermarket Trading System.

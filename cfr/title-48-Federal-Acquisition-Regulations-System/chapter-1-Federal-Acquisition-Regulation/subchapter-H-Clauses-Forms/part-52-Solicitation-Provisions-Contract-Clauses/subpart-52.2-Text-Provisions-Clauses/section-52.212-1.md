@@ -1,10 +1,8 @@
 ##### 52.212-1 Instructions to Offerors—Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 88 FR 53756, Aug. 8, 2023.
-
 As prescribed in 12.301(b)(1), insert the following provision:
 
-Instructions to Offerors—Commercial Products and Commercial Services (MAR 2023)
+Instructions to Offerors—Commercial Products and Commercial Services (SEP 2023)
 
 (a) *North American Industry Classification System (NAICS) code and small business size standard.* The NAICS code(s) and small business size standard(s) for this acquisition appear elsewhere in the solicitation. However, the small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce is 500 employees, or 150 employees for information technology value-added resellers under NAICS code 541519, if the acquisition—
 
@@ -66,23 +64,17 @@ Instructions to Offerors—Commercial Products and Commercial Services (MAR 2023
 
 (h) *Multiple awards.* The Government may accept any item or group of items of an offer, unless the offeror qualifies the offer by specific limitations. Unless otherwise provided in the Schedule, offers may not be submitted for quantities less than those specified. The Government reserves the right to make an award on any item for a quantity less than the quantity offered, at the unit prices offered, unless the offeror specifies otherwise in the offer.
 
-(i) *Availability of requirements documents cited in the solicitation.* (1)(i) The GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29, and copies of specifications, standards, and commercial item descriptions cited in this solicitation may be obtained for a fee by submitting a request to—GSA Federal Supply Service Specifications Section, Suite 8100, 470 East L'Enfant Plaza, SW, Washington, DC 20407, Telephone (202) 619-8925, Facsimile (202) 619-8978.
+(i) *Availability of requirements documents cited in the solicitation.* (1)(i) The GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29, and copies of Federal specifications, standards, and product descriptions can be downloaded from the ASSIST website at *https://assist.dla.mil.*
 
-(ii) If the General Services Administration, Department of Agriculture, or Department of Veterans Affairs issued this solicitation, a single copy of specifications, standards, and commercial item descriptions cited in this solicitation may be obtained free of charge by submitting a request to the addressee in paragraph (i)(1)(i) of this provision. Additional copies will be issued for a fee.
+(ii) If the General Services Administration, Department of Agriculture, or Department of Veterans Affairs issued this solicitation, a copy of specifications, standards, and commercial item descriptions cited in this solicitation may be obtained from the address in paragraph (i)(1)(i) of this provision.
 
-(2) Most unclassified Defense specifications and standards may be downloaded from the following ASSIST websites:
+(2) Most unclassified Defense specifications and standards may be downloaded from the ASSIST website at *https://assist.dla.mil.*
 
-(i) ASSIST (*https://assist.dla.mil/online/start/*).
+(3) Defense documents not available from the ASSIST website may be requested from the Defense Standardization Program Office by—
 
-(ii) Quick Search (*http://quicksearch.dla.mil/*).
+(i) Using the ASSIST feedback module (*https://assist.dla.mil/feedback*); or
 
-(3) Documents not available from ASSIST may be ordered from the Department of Defense Single Stock Point (DoDSSP) by—
-
-(i) Using the ASSIST Shopping Wizard (*https://assist.dla.mil/wizard/index.cfm*);
-
-(ii) Phoning the DoDSSP Customer Service Desk (215) 697-2179, Mon-Fri, 0730 to 1600 EST; or
-
-(iii) Ordering from DoDSSP, Building 4, Section D, 700 Robbins Avenue, Philadelphia, PA 19111-5094, Telephone (215) 697-2667/2179, Facsimile (215) 697-1462.
+(ii) Contacting the Defense Standardization Program Office by telephone at 571-767-6688 or email at *assisthelp@dla.mil.*
 
 (4) Nongovernment (voluntary) standards must be obtained from the organization responsible for their preparation, publication, or maintenance.
 

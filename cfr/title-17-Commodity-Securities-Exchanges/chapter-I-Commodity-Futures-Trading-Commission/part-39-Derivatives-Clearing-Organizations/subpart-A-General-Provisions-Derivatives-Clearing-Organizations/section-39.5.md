@@ -1,7 +1,5 @@
 ##### § 39.5 Review of swaps for Commission determination on clearing requirement. #####
 
-Link to an amendment published at 88 FR 53682, Aug. 8, 2023.
-
 (a) *Eligibility to clear swaps.* (1) A derivatives clearing organization shall be presumed eligible to accept for clearing any swap that is within a group, category, type, or class of swaps that the derivatives clearing organization already clears. Such presumption of eligibility, however, is subject to review by the Commission.
 
 (2) A derivatives clearing organization that wishes to accept for clearing any swap that is not within a group, category, type, or class of swaps that the derivatives clearing organization already clears shall request a determination by the Commission of the derivatives clearing organization's eligibility to clear such a swap before accepting the swap for clearing. The request, which shall be filed electronically with the Secretary of the Commission, shall address the derivatives clearing organization's ability, if it accepts the swap for clearing, to maintain compliance with section 5b(c)(2) of the Act, specifically:
@@ -36,7 +34,7 @@ Link to an amendment published at 88 FR 53682, Aug. 8, 2023.
 
 (v) Pricing sources, models, and procedures, demonstrating an ability to obtain sufficient price data to measure credit exposures in a timely and accurate manner, including any agreements with clearing members to provide price data and copies of executed agreements with third-party price vendors, and information about any price reference index used, such as the name of the index, the source that calculates it, the methodology used to calculate the price reference index and how often it is calculated, and when and where it is published publicly;
 
-(vi) Risk management procedures, including measurement and monitoring of credit exposures, initial and variation margin methodology, methodologies for stress testing and back testing, settlement procedures, and default management procedures;
+(vi) Risk management procedures, including measurement and monitoring of credit exposures, initial and variation margin methodology, methodologies for stress testing and backtesting, settlement procedures, and default management procedures;
 
 (vii) Applicable rules, manuals, policies, or procedures;
 
@@ -85,3 +83,5 @@ Link to an amendment published at 88 FR 53682, Aug. 8, 2023.
 (i) Determine, subject to any terms and conditions as the Commission determines to be appropriate, that the swap, or group, category, type, or class of swaps must be cleared; or
 
 (ii) Determine that the clearing requirement will not apply to the swap, or group, category, type, or class of swaps, but clearing may continue on a non-mandatory basis.
+
+[76 FR 69430, Nov. 8, 2011, as amended at 88 FR 53682, Aug. 8, 2023]

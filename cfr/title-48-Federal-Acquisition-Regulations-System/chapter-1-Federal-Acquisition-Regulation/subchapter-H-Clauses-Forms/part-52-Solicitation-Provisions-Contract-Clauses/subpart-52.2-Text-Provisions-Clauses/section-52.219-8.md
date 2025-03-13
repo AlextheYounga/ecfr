@@ -1,10 +1,8 @@
 ##### 52.219-8 Utilization of Small Business Concerns. #####
 
-Link to an amendment published at 88 FR 53753, Aug. 8, 2023.
-
 As prescribed in 19.708(a), insert the following clause:
 
-Utilization of Small Business Concerns (OCT 2022)
+Utilization of Small Business Concerns (SEP 2023)
 
 (a) *Definitions.* As used in this contract—
 
@@ -22,13 +20,13 @@ Utilization of Small Business Concerns (OCT 2022)
 
 *Small business concern* means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation and qualified as a small business under the criteria and size standards in 13 CFR part 121, including the size standard that corresponds to the NAICS code assigned to the contract or subcontract.
 
-*Small disadvantaged business concern,* consistent with 13 CFR 124.1002, means a small business concern under the size standard applicable to the acquisition, that—
+*Small disadvantaged business concern,* consistent with 13 CFR 124.1001, means a small business concern under the size standard applicable to the acquisition, that—
 
 (1) Is at least 51 percent unconditionally and directly owned (as defined at 13 CFR 124.105) by—
 
 (i) One or more socially disadvantaged (as defined at 13 CFR 124.103) and economically disadvantaged (as defined at 13 CFR 124.104) individuals who are citizens of the United States; and
 
-(ii) Each individual claiming economic disadvantage has a net worth not exceeding $750,000 after taking into account the applicable exclusions set forth at 13 CFR 124.104(c)(2); and
+(ii) Each individual claiming economic disadvantage has a net worth not exceeding the threshold at 13 CFR 124.104(c)(2) after taking into account the applicable exclusions set forth at 13 CFR 124.104(c)(2); and
 
 (2) The management and daily business operations of which are controlled (as defined at 13.CFR 124.106) by individuals, who meet the criteria in paragraphs (1)(i) and (ii) of this definition.
 
@@ -74,4 +72,4 @@ Utilization of Small Business Concerns (OCT 2022)
 
 (5) The Contractor shall confirm that a subcontractor representing itself as a HUBZone small business concern is certified by SBA as a HUBZone small business concern by accessing SAM or by accessing DSBS at *https://web.sba.gov/pro-net/search/dsp\_dsbs.cfm.* If the subcontractor is a joint venture, the Contractor shall confirm that at least one party to the joint venture is certified by SBA as a HUBZone small business concern. The Contractor may confirm the representation by accessing SAM.
 
-(End of clause)[63 FR 70275, Dec. 18, 1998, as amended at 64 FR 3196, Jan. 20, 1999; 64 FR 10549, Mar. 4, 1999; 64 FR 32749, June 17, 1999; 64 FR 36224, July 2, 1999; 65 FR 60546, Oct. 11, 2000; 69 FR 25279, May 5, 2004; 75 FR 77739, Dec. 13, 2010; 75 FR 77733, Dec. 13, 2010; 78 FR 37683, June 21, 2013; 79 FR 24217, Apr. 29, 2014; 79 FR 61753, Oct. 14, 2014; 81 FR 45846, July 14, 2016; 83 FR 48700, Sept. 26, 2018; 87 FR 58226, 58237, Sept. 23, 2022]
+(End of clause)[63 FR 70275, Dec. 18, 1998, as amended at 64 FR 3196, Jan. 20, 1999; 64 FR 10549, Mar. 4, 1999; 64 FR 32749, June 17, 1999; 64 FR 36224, July 2, 1999; 65 FR 60546, Oct. 11, 2000; 69 FR 25279, May 5, 2004; 75 FR 77739, Dec. 13, 2010; 75 FR 77733, Dec. 13, 2010; 78 FR 37683, June 21, 2013; 79 FR 24217, Apr. 29, 2014; 79 FR 61753, Oct. 14, 2014; 81 FR 45846, July 14, 2016; 83 FR 48700, Sept. 26, 2018; 87 FR 58226, 58237, Sept. 23, 2022; 88 FR 53753, Aug. 8, 2023]

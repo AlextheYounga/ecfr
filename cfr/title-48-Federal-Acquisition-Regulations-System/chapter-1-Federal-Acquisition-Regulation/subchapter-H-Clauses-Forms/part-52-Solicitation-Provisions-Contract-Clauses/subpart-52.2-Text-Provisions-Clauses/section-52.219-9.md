@@ -1,10 +1,8 @@
 ##### 52.219-9 Small Business Subcontracting Plan. #####
 
-Link to an amendment published at 88 FR 53753, Aug. 8, 2023.
-
 As prescribed in 19.708(b), insert the following clause:
 
-Small Business Subcontracting Plan (OCT 2022)
+Small Business Subcontracting Plan (SEP 2023)
 
 (a) This clause does not apply to small business concerns.
 
@@ -46,7 +44,7 @@ Small Business Subcontracting Plan (OCT 2022)
 
 (iii) The Contractor may not require the use of SAM for the purposes of representing size or socioeconomic status in connection with a subcontract.
 
-(iv) In accordance with 13 CFR 121.411, 124.1015, 125.29, 126.900, and 127.700, a contractor acting in good faith is not liable for misrepresentations made by its subcontractors regarding the subcontractor's size or socioeconomic status.
+(iv) In accordance with 13 CFR 121.411, 126.900, 127.700, and 128.600, a contractor acting in good faith is not liable for misrepresentations made by its subcontractors regarding the subcontractor's size or socioeconomic status.
 
 (d) The Offeror's subcontracting plan shall include the following:
 
@@ -320,7 +318,7 @@ Small Business Subcontracting Plan (OCT 2022)
 
 (D) The authority to acknowledge or reject SSRs for commercial plans resides with the Contracting Officer who approved the commercial plan.
 
-*Alternate IV* (SEP 2021). As prescribed in 19.708(b)(1)(iv), substitute the following paragraphs (c) and (d) for paragraphs (c) and (d) of the basic clause:
+*Alternate IV* (SEP 2023). As prescribed in 19.708(b)(1)(iv), substitute the following paragraphs (c) and (d) for paragraphs (c) and (d) of the basic clause:
 
 (c)(1) The Contractor, upon request by the Contracting Officer, shall submit and negotiate a subcontracting plan, where applicable, that separately addresses subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. If the Contractor is submitting an individual subcontracting plan, the plan shall separately address subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns, with a separate part for the basic contract and separate parts for each option (if any). The subcontracting plan shall be incorporated into the contract. The subcontracting plan shall be negotiated within the time specified by the Contracting Officer. The subcontracting plan does not apply retroactively.
 
@@ -334,7 +332,7 @@ Small Business Subcontracting Plan (OCT 2022)
 
 (iii) The Contractor may not require the use of SAM for the purposes of representing size or socioeconomic status in connection with a subcontract.
 
-(iv) In accordance with 13 CFR 121.411, 124.1015, 125.29, 126.900, and 127.700, a contractor acting in good faith is not liable for misrepresentations made by its subcontractors regarding the subcontractor's size or socioeconomic status.
+(iv) In accordance with 13 CFR 121.411, 126.900, 127.700, and 128.600, a contractor acting in good faith is not liable for misrepresentations made by its subcontractors regarding the subcontractor's size or socioeconomic status.
 
 (d) The Contractor's subcontracting plan shall include the following:
 

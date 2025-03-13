@@ -1,7 +1,5 @@
 ##### 23.704 Electronic product environmental assessment tool. #####
 
-Link to an amendment published at 88 FR 53755, Aug. 8, 2023.
-
 (a) *General.* (1) As required by E.O.s 13423 and 13514, agencies, when acquiring an electronic product to meet their requirements, shall meet at least 95 percent of those requirements with Electronic Product Environmental Assessment Tool (EPEAT®)-registered electronic products, unless—
 
 (i) There is no EPEAT® standard for such product;
@@ -20,7 +18,7 @@ Link to an amendment published at 88 FR 53755, Aug. 8, 2023.
 
 (i) Were issued by the Institute of Electrical and Electronics Engineers, Inc., on March 5, 2010; October 19, 2012, and October 19, 2012, respectively;
 
-(ii) Are voluntary consensus standards consistent with section 12(d) of Pub. L. 104-113 (15 U.S.C. 272 note), the “National Technology Transfer and Advancement Act of 1995,” (see 11.102)(c));
+(ii) Are voluntary consensus standards consistent with section 12(d) of Public Law 104-113 (15 U.S.C. 272 note), the “National Technology Transfer and Advancement Act of 1995,” (see 11.101(b));
 
 (iii) Meet EPA-issued guidance on environmentally preferable products and services; and
 
@@ -34,4 +32,4 @@ Link to an amendment published at 88 FR 53755, Aug. 8, 2023.
 
 (5) Agencies are encouraged to acquire EPEAT® silver- or gold-registered products.
 
-[79 FR 35862, June 24, 2014, as amended at 79 FR 24208, Apr. 29, 2014; 80 FR 53438, Oct. 5, 2015; 81 FR 67781, Sept. 30, 2016; 87 FR 49502, Aug. 10, 2022]
+[79 FR 35862, June 24, 2014, as amended at 79 FR 24208, Apr. 29, 2014; 80 FR 53438, Oct. 5, 2015; 81 FR 67781, Sept. 30, 2016; 87 FR 49502, Aug. 10, 2022; 88 FR 53755, Aug. 8, 2023]

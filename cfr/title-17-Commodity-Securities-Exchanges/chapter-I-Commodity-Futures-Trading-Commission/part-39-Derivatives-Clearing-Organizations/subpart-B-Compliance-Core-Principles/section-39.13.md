@@ -1,7 +1,5 @@
 ##### § 39.13 Risk management. #####
 
-Link to an amendment published at 88 FR 53682, Aug. 8, 2023.
-
 (a) *General.* A derivatives clearing organization shall ensure that it possesses the ability to manage the risks associated with discharging the responsibilities of the derivatives clearing organization through the use of appropriate tools and procedures.
 
 (b) *Risk management framework.* A derivatives clearing organization shall have and implement written policies, procedures, and controls, approved by its board of directors, that establish an appropriate risk management framework that, at a minimum, clearly identifies and documents the range of risks to which the derivatives clearing organization is exposed, addresses the monitoring and management of the entirety of those risks, and provides a mechanism for internal audit. The risk management framework shall be regularly reviewed and updated as necessary.
@@ -66,9 +64,9 @@ Link to an amendment published at 88 FR 53682, Aug. 8, 2023.
 
 (6) *Daily review.* On a daily basis, a derivatives clearing organization shall determine the adequacy of its initial margin requirements.
 
-(7) *Back tests.* A derivatives clearing organization shall conduct back tests, as defined in § 39.2 of this part, using an appropriate time period but not less than the previous 30 days, as follows:
+(7) *Backtests.* A derivatives clearing organization shall conduct backtests, as defined in § 39.2 of this part, using an appropriate time period but not less than the previous 30 days, as follows:
 
-(i) On a daily basis, a derivatives clearing organization shall conduct back tests with respect to products or swap portfolios that are experiencing significant market volatility, to test the adequacy of its initial margin requirements, as follows:
+(i) On a daily basis, a derivatives clearing organization shall conduct backtests with respect to products or swap portfolios that are experiencing significant market volatility, to test the adequacy of its initial margin requirements, as follows:
 
 (A) For that product if the derivatives clearing organization uses a product-based margin methodology;
 
@@ -78,7 +76,7 @@ Link to an amendment published at 88 FR 53682, Aug. 8, 2023.
 
 (D) For each such swap portfolio, including any portfolio containing futures and/or options and held in a commingled account pursuant to § 39.15(b)(2) of this part, by beneficial owner.
 
-(ii) On at least a monthly basis, a derivatives clearing organization shall conduct back tests to test the adequacy of its initial margin requirements, as follows:
+(ii) On at least a monthly basis, a derivatives clearing organization shall conduct backtests to test the adequacy of its initial margin requirements, as follows:
 
 (A) For each product for which the derivatives clearing organization uses a product-based margin methodology;
 
@@ -88,7 +86,7 @@ Link to an amendment published at 88 FR 53682, Aug. 8, 2023.
 
 (D) For each swap portfolio, including any portfolio containing futures and/or options and held in a commingled account pursuant to § 39.15(b)(2) of this part, by beneficial owner.
 
-(iii) In conducting back tests of initial margin requirements, a derivatives clearing organization shall compare portfolio losses only to those components of initial margin that capture changes in market risk factors.
+(iii) In conducting backtests of initial margin requirements, a derivatives clearing organization shall compare portfolio losses only to those components of initial margin that capture changes in market risk factors.
 
 (8) *Customer margin*—(i) *Gross margin.* (A) During the end-of-day settlement cycle, a derivatives clearing organization shall collect initial margin on a gross basis for each clearing member's customer account(s) equal to the sum of the initial margin amounts that would be required by the derivatives clearing organization for each individual customer within that account if each individual customer were a clearing member.
 
@@ -114,7 +112,7 @@ Link to an amendment published at 88 FR 53682, Aug. 8, 2023.
 
 (14) *Pledged assets.* If a derivatives clearing organization permits its clearing members to pledge assets for initial margin while retaining such assets in accounts in the names of such clearing members, the derivatives clearing organization shall ensure that such assets are unencumbered and that such a pledge has been validly created and validly perfected in the relevant jurisdiction.
 
-(h) *Other risk control mechanisms*— (1) *Risk limits.*(i) A derivatives clearing organization shall impose risk limits on each clearing member, by house origin and by each customer origin, in order to prevent a clearing member from carrying positions for which the risk exposure exceeds a specified threshold relative to the clearing member's and/or the derivatives clearing organization's financial resources. The derivatives clearing organization shall have reasonable discretion in determining:
+(h) *Other risk control mechanisms*—(1) *Risk limits.*(i) A derivatives clearing organization shall impose risk limits on each clearing member, by house origin and by each customer origin, in order to prevent a clearing member from carrying positions for which the risk exposure exceeds a specified threshold relative to the clearing member's and/or the derivatives clearing organization's financial resources. The derivatives clearing organization shall have reasonable discretion in determining:
 
 (A) The method of computing risk exposure;
 
@@ -138,13 +136,13 @@ Link to an amendment published at 88 FR 53682, Aug. 8, 2023.
 
 (5) *Clearing members' risk management policies and procedures.*(i) A derivatives clearing organization shall have rules that:
 
-(A) Require its clearing members to maintain current written risk management policies and procedures, which address the risks that such clearing members may pose to the derivatives clearing organization;
+(A) Require its clearing members to maintain current written risk management policies and procedures, which address the risks that such clearing members may pose to the derivatives clearing organization; and
 
-(B) Ensure that it has the authority to request and obtain information and documents from its clearing members regarding their risk management policies, procedures, and practices, including, but not limited to, information and documents relating to the liquidity of their financial resources and their settlement procedures; and
-
-(C) Require its clearing members to make information and documents regarding their risk management policies, procedures, and practices available to the Commission upon the Commission's request.
+(B) Require its clearing members to provide to the derivatives clearing organization or the Commission, upon request, information and documents regarding their risk management policies, procedures, and practices, including, but not limited to, information and documents relating to the liquidity of their financial resources and their settlement procedures.
 
 (ii) A derivatives clearing organization shall review the risk management policies, procedures, and practices of each of its clearing members, which address the risks that such clearing members may pose to the derivatives clearing organization, on a periodic basis, take appropriate action to address concerns identified in such reviews, and document such reviews and the basis for determining what action was appropriate to take.
+
+(iii) A derivatives clearing organization that clears fully collateralized positions may exclude from the requirements of paragraphs (h)(5)(i) and (ii) of this section those clearing members that clear only fully collateralized positions.
 
 (6) *Additional authority.* A derivatives clearing organization shall take additional actions with respect to particular clearing members, when appropriate, based on the application of objective and prudent risk management standards including, but not limited to:
 
@@ -166,4 +164,4 @@ Link to an amendment published at 88 FR 53682, Aug. 8, 2023.
 
 (2) The Commission may request additional information in support of a rule submission filed under this paragraph (i), and may approve such rules in accordance with § 40.5 of this chapter.
 
-[76 FR 69430, Nov. 8, 2011, as amended at 85 FR 4855, Jan. 27, 2020; 85 FR 35805, June 12, 2020]
+[76 FR 69430, Nov. 8, 2011, as amended at 85 FR 4855, Jan. 27, 2020; 85 FR 35805, June 12, 2020; 88 FR 53682, Aug. 8, 2023]

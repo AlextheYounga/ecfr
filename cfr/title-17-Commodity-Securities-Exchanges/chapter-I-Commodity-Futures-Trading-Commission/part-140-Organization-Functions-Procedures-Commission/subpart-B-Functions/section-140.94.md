@@ -1,7 +1,5 @@
 ##### § 140.94 Delegation of authority to the Director of the Division of Swap Dealer and Intermediary Oversight and the Director of the Division of Clearing and Risk. #####
 
-Link to an amendment published at 88 FR 53698, Aug. 8, 2023.
-
 (a) The Commission hereby delegates, until such time as the Commission orders otherwise, the following functions to the Director of the Division of Swap Dealer and Intermediary Oversight and to such members of the Commission's staff acting under his or her direction as he or she may designate from time to time:
 
 (1) All functions reserved to the Commission in § 5.7 of this chapter;
@@ -44,7 +42,7 @@ Link to an amendment published at 88 FR 53698, Aug. 8, 2023.
 
 (9) The authority to request additional information in support of a rule submission under §§ 39.13(i)(2) and 39.15(b)(2)(iii) of this chapter;
 
-(10) All functions reserved to the Commission in § 39.19(c)(2), (c)(3)(iv), and (c)(5) of this chapter;
+(10) All functions reserved to the Commission in § 39.19(a), (b)(1), (c)(2), (c)(3)(iv), and (c)(5) of this chapter;
 
 (11) All functions reserved to the Commission in § 39.20(a)(5) of this chapter;
 
@@ -66,4 +64,4 @@ Link to an amendment published at 88 FR 53698, Aug. 8, 2023.
 
 (e) Nothing in this section may prohibit the Commission, at its election, from exercising the authority delegated to the Director of the Division of Swap Dealers and Intermediary Oversight under paragraph (a) or to the Director of the Division of Clearing and Risk under paragraph (c) of this section.
 
-[78 FR 22420, Apr. 16, 2013, as amended at 78 FR 72514, Dec. 2, 2013; 85 FR 4900, Jan. 27, 2020; 85 FR 67189, Oct. 21, 2020; 86 FR 968, Jan. 7, 2021]
+[78 FR 22420, Apr. 16, 2013, as amended at 78 FR 72514, Dec. 2, 2013; 85 FR 4900, Jan. 27, 2020; 85 FR 67189, Oct. 21, 2020; 86 FR 968, Jan. 7, 2021; 88 FR 53698, Aug. 8, 2023]

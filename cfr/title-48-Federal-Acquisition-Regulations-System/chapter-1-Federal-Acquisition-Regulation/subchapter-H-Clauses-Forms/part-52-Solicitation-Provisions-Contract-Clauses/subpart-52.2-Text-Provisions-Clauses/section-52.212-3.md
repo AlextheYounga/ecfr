@@ -1,10 +1,8 @@
 ##### 52.212-3 Offeror Representations and Certifications—Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 88 FR 53753, Aug. 8, 2023.Link to an amendment published at 88 FR 53756, Aug. 8, 2023.
-
 As prescribed in 12.301(b)(2), insert the following provision:
 
-Offeror Representations and Certifications—Commercial Products and Commercial Services (DEC 2022)
+Offeror Representations and Certifications—Commercial Products and Commercial Services (SEP 2023)
 
 The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through *https://www.sam.gov.* If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v) of this provision.
 
@@ -92,13 +90,13 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 (2) *Affiliates,* as used in this definition, means business concerns, one of whom directly or indirectly controls or has the power to control the others, or a third party or parties control or have the power to control the others. In determining whether affiliation exists, consideration is given to all appropriate factors including common ownership, common management, and contractual relationships. SBA determines affiliation based on the factors set forth at 13 CFR 121.103.
 
-*Small disadvantaged business concern,* consistent with 13 CFR 124.1002, means a small business concern under the size standard applicable to the acquisition, that—
+*Small disadvantaged business concern,* consistent with 13 CFR 124.1001, means a small business concern under the size standard applicable to the acquisition, that—
 
 (1) Is at least 51 percent unconditionally and directly owned (as defined at 13 CFR 124.105) by—
 
 (i) One or more socially disadvantaged (as defined at 13 CFR 124.103) and economically disadvantaged (as defined at 13 CFR 124.104) individuals who are citizens of the United States; and
 
-(ii) Each individual claiming economic disadvantage has a net worth not exceeding $750,000 after taking into account the applicable exclusions set forth at 13 CFR 124.104(c)(2); and
+(ii) Each individual claiming economic disadvantage has a net worth not exceeding the threshold at 13 CFR 124.104(c)(2) after taking into account the applicable exclusions set forth at 13 CFR 124.104(c)(2); and
 
 (2) The management and daily business operations of which are controlled (as defined at 13.CFR 124.106) by individuals, who meet the criteria in paragraphs (1)(i) and (ii) of this definition.
 
@@ -287,7 +285,7 @@ Free Trade Agreement Country End Products (Other than Bahrainian, Korean, Morocc
 
 (4) *Trade Agreements Certificate.* (Applies only if the clause at FAR 52.225-5, Trade Agreements, is included in this solicitation.)
 
-(i) The offeror certifies that each end product, except those listed in paragraph (g)(5)(ii) of this provision, is a U.S.-made or designated country end product, as defined in the clause of this solicitation entitled “Trade Agreements”.
+(i) The offeror certifies that each end product, except those listed in paragraph (g)(4)(ii) of this provision, is a U.S.-made or designated country end product, as defined in the clause of this solicitation entitled “Trade Agreements”.
 
 (ii) The offeror shall list as other end products those end products that are not U.S.-made or designated country end products.
 

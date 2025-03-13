@@ -1,10 +1,8 @@
 ##### 52.219-1 Small Business Program Representations. #####
 
-Link to an amendment published at 88 FR 53753, Aug. 8, 2023.
-
 As prescribed in 19.309(a)(1), insert the following provision:
 
-Small Business Program Representations (MAR 2023)
+Small Business Program Representations (SEP 2023)
 
 (a) *Definitions.* As used in this provision—
 
@@ -24,13 +22,13 @@ Small Business Program Representations (MAR 2023)
 
 (2) *Affiliates,* as used in this definition, means business concerns, one of whom directly or indirectly controls or has the power to control the others, or a third party or parties control or have the power to control the others. In determining whether affiliation exists, consideration is given to all appropriate factors including common ownership, common management, and contractual relationships. SBA determines affiliation based on the factors set forth at 13 CFR 121.103.
 
-*Small disadvantaged business concern,* consistent with 13 CFR 124.1002, means a small business concern under the size standard applicable to the acquisition, that—
+*Small disadvantaged business concern,* consistent with 13 CFR 124.1001, means a small business concern under the size standard applicable to the acquisition, that—
 
 (1) Is at least 51 percent unconditionally and directly owned (as defined at 13 CFR 124.105) by—
 
 (i) One or more socially disadvantaged (as defined at 13 CFR 124.103) and economically disadvantaged (as defined at 13 CFR 124.104) individuals who are citizens of the United States, and
 
-(ii) Each individual claiming economic disadvantage has a net worth not exceeding $750,000 after taking into account the applicable exclusions set forth at 13 CFR 124.104(c)(2); and
+(ii) Each individual claiming economic disadvantage has a net worth not exceeding the threshold at 13 CFR 124.104(c)(2) after taking into account the applicable exclusions set forth at 13 CFR 124.104(c)(2); and
 
 (2) The management and daily business operations of which are controlled (as defined at 13 CFR 124.106) by individuals who meet the criteria in paragraphs (1)(i) and (ii) of this definition.
 
@@ -66,7 +64,7 @@ Small Business Program Representations (MAR 2023)
 
 (ii) It □ is, □ is not a small business joint venture that complies with the requirements of 13 CFR 121.103(h) and 13 CFR 125.8(a) and (b). [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_.]
 
-(2) [*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*] The offeror represents that it □ is, □ is not, a small disadvantaged business concern as defined in 13 CFR 124.1002.
+(2) [*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*] The offeror represents that it □ is, □ is not, a small disadvantaged business concern as defined in 13 CFR 124.1001.
 
 (3) [*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*] The offeror represents as part of its offer that it □ is, □ is not a women-owned small business concern.
 

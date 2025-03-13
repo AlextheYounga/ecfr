@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 88 FR 53752, Aug. 8, 2023.
-
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless—
 
 (1) The context in which the word or term is used clearly requires a different meaning; or
@@ -844,13 +842,13 @@ Link to an amendment published at 88 FR 53752, Aug. 8, 2023.
 
 (3) See 13 CFR 121.103(b)(9) regarding the exception to affiliation for offers received from Small Business Teaming Arrangements in the case of a solicitation of offers for a bundled contract with a reserve.
 
-*Small disadvantaged business concern,* consistent with 13 CFR 124.1002, means a small business concern under the size standard applicable to the acquisition, that
+*Small disadvantaged business concern,* consistent with 13 CFR 124.1001, means a small business concern under the size standard applicable to the acquisition, that
 
 (1) Is at least 51 percent unconditionally and directly owned (as defined at 13 CFR 124.105) by—
 
 (i) One or more socially disadvantaged (as defined at 13 CFR 124.103) and economically disadvantaged (as defined at 13 CFR 124.104) individuals who are citizens of the United States; and
 
-(ii) Each individual claiming economic disadvantage has a net worth not exceeding $750,000 after taking into account the applicable exclusions set forth at 13 CFR 124.104(c)(2); and
+(ii) Each individual claiming economic disadvantage has a net worth not exceeding the threshold at 13 CFR 124.104(c)(2) after taking into account the applicable exclusions set forth at 13 CFR 124.104(c)(2); and
 
 (2) The management and daily business operations of which are controlled (as defined at 13 CFR 124.106) by individuals who meet the criteria in paragraphs (1)(i) and (ii) of this definition.
 

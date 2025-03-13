@@ -1,10 +1,8 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 88 FR 53753, Aug. 8, 2023.
-
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services (JUN 2023)
+Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services (SEP 2023)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial products and commercial services:
 
@@ -60,9 +58,9 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (ii) Alternate I (MAR 2020) of 52.219-7.
 
-\_\_ (17) 52.219-8, Utilization of Small Business Concerns (OCT 2022) (15 U.S.C. 637(d)(2) and (3)).
+\_\_ (17) 52.219-8, Utilization of Small Business Concerns (SEP 2023) (15 U.S.C. 637(d)(2) and (3)).
 
-\_\_ (18)(i) 52.219-9, Small Business Subcontracting Plan (OCT 2022) (15 U.S.C. 637(d)(4)).
+\_\_ (18)(i) 52.219-9, Small Business Subcontracting Plan (SEP 2023) (15 U.S.C. 637(d)(4)).
 
 \_\_ (ii) Alternate I (NOV 2016) of 52.219-9.
 
@@ -70,7 +68,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (iv) Alternate III (JUN 2020) of 52.219-9.
 
-\_\_ (v) Alternate IV (SEP 2021) of 52.219-9.
+\_\_ (v) Alternate IV (SEP 2023) of 52.219-9.
 
 \_\_ (19)(i) 52.219-13, Notice of Set-Aside of Orders (MAR 2020) (15 U.S.C. 644(r)).
 
@@ -82,7 +80,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (22) 52.219-27, Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (OCT 2022) (15 U.S.C. 657f).
 
-\_\_ (23)(i) 52.219-28, Post-Award Small Business Program Rerepresentation (MAR 2023) (15 U.S.C. 632(a)(2)).
+\_\_ (23)(i) 52.219-28, Post-Award Small Business Program Rerepresentation (SEP 2023) (15 U.S.C. 632(a)(2)).
 
 \_\_ (ii) Alternate I (MAR 2020) of 52.219-28.
 
@@ -240,7 +238,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (v) 52.204-27, Prohibition on a ByteDance Covered Application (JUN 2023) (Section 102 of Division R of Pub. L. 117-328).
 
-(vi) 52.219-8, Utilization of Small Business Concerns (OCT 2022) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(vi) 52.219-8, Utilization of Small Business Concerns (SEP 2023) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (vii) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
@@ -288,7 +286,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 *Alternate I* (JULY 2014). As prescribed in 12.301(b)(4)(i), delete paragraph (d) from the basic clause, redesignate paragraph (e) as paragraph (d), and revise the reference to “paragraphs (a), (b), (c), or (d) of this clause” in the redesignated paragraph (d) to read “paragraphs (a), (b), and (c) of this clause”.
 
-*Alternate II* (JUN 2023). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
+*Alternate II* (SEP 2023). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
 
 (d)(1) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials shall have access to and right to—
 
@@ -312,7 +310,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (E) 52.204-27, Prohibition on a ByteDance Covered Application (JUN 2023) (Section 102 of Division R of Pub. L. 117-328).
 
-(F) 52.219-8, Utilization of Small Business Concerns (OCT 2022) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(F) 52.219-8, Utilization of Small Business Concerns (SEP 2023) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (G) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 

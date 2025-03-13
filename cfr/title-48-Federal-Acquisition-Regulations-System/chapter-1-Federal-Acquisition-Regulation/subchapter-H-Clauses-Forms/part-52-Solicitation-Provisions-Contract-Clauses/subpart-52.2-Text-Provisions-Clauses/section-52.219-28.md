@@ -1,10 +1,8 @@
 ##### 52.219-28 Post-Award Small Business Program Rerepresentation. #####
 
-Link to an amendment published at 88 FR 53753, Aug. 8, 2023.
-
 As prescribed in 19.309(c)(1), insert the following clause:
 
-Post-Award Small Business Program Rerepresentation (MAR 2023)
+Post-Award Small Business Program Rerepresentation (SEP 2023)
 
 (a) *Definitions.* As used in this clause—
 
@@ -48,7 +46,7 @@ Post-Award Small Business Program Rerepresentation (MAR 2023)
 
 (1) The Contractor represents that it □ is, □ is not a small business concern under NAICS Code \_\_\_\_\_\_\_\_\_\_ assigned to contract number \_\_\_\_\_\_\_\_\_\_.
 
-(2) [*Complete only if the Contractor represented itself as a small business concern in paragraph (h)(1) of this clause.*] The Contractor represents that it □ is, □ is not, a small disadvantaged business concern as defined in 13 CFR 124.1002.
+(2) [*Complete only if the Contractor represented itself as a small business concern in paragraph (h)(1) of this clause.*] The Contractor represents that it □ is, □ is not, a small disadvantaged business concern as defined in 13 CFR 124.1001.
 
 (3) [*Complete only if the Contractor represented itself as a small business concern in paragraph (h)(1) of this clause.*] The Contractor represents that it □ is, □ is not a women-owned small business concern.
 
@@ -82,4 +80,4 @@ Post-Award Small Business Program Rerepresentation (MAR 2023)
 
 [Contracting Officer to insert NAICS codes.]
 
-[72 FR 36856, July 5, 2007, as amended at 74 FR 11825, Mar. 19, 2009; 74 FR 14493, Mar. 31, 2009; 76 FR 18314, Apr. 1, 2011; 77 FR 23371, Apr. 18, 2012; 78 FR 37683, June 21, 2013; 79 FR 61754, Oct. 14, 2014; 85 FR 11771, Feb. 27, 2020; 85 FR 27101, May 6, 2020; 85 FR 67617, Oct. 23, 2020; 86 FR 44246, Aug. 11, 2021; 87 FR 58227, 58243, Sept. 23, 2022; 88 FR 9739, Feb. 14, 2023]
+[72 FR 36856, July 5, 2007, as amended at 74 FR 11825, Mar. 19, 2009; 74 FR 14493, Mar. 31, 2009; 76 FR 18314, Apr. 1, 2011; 77 FR 23371, Apr. 18, 2012; 78 FR 37683, June 21, 2013; 79 FR 61754, Oct. 14, 2014; 85 FR 11771, Feb. 27, 2020; 85 FR 27101, May 6, 2020; 85 FR 67617, Oct. 23, 2020; 86 FR 44246, Aug. 11, 2021; 87 FR 58227, 58243, Sept. 23, 2022; 88 FR 9739, Feb. 14, 2023; 88 FR 53753, Aug. 8, 2023]

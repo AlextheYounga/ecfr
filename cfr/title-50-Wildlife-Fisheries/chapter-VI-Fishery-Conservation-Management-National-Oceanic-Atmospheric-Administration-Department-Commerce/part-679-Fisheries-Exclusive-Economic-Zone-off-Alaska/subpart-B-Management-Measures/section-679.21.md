@@ -1,7 +1,5 @@
 ##### § 679.21 Prohibited species bycatch management. #####
 
-Link to an amendment published at 88 FR 53734, Aug. 8, 2023.
-
 (a) *General.* (1) See § 679.2 and Table 2b to this part for definition of prohibited species.
 
 (2) *Prohibited species catch restrictions.* The operator of each vessel engaged in directed fishing for groundfish in the GOA or BSAI must:
@@ -44,7 +42,7 @@ Link to an amendment published at 88 FR 53734, Aug. 8, 2023.
 
 (*4*) *Rockfish fishery.* Fishing with trawl gear during any weekly reporting period that results in a retained aggregate amount of rockfish species that is greater than the retained amount of any other fishery category defined under this paragraph (b)(1)(ii)(B).
 
-(*5*) *Pacific cod fishery.* Fishing with trawl gear during any weekly reporting period that results in a retained aggregate amount of Pacific cod that is greater than the retained amount of any other groundfish fishery category defined under this paragraph (b)(1)(ii)(B).
+(*5*) *Pacific cod fishery.* Fishing with trawl gear during any weekly reporting period that results in a retained aggregate amount of Pacific cod that is greater than the retained amount of any other groundfish fishery category defined under this paragraph (b)(1)(ii)(B). This Pacific cod fishery is further apportioned between the PCTC Program, the trawl catcher vessel limited access C season, and AFA catcher/processors as established at § 679.131(c) and (d).
 
 (*6*) *Pollock/Atka mackerel/“other species.”* Fishing with trawl gear during any weekly reporting period that results in a retained aggregate amount of pollock other than pollock harvested in the midwater pollock fishery defined under paragraph (b)(1)(ii)(B)(*1*) of this section, Atka mackerel, and “other species” that is greater than the retained amount of any other fishery category defined under this paragraph (b)(1)(ii)(B).
 
@@ -92,9 +90,9 @@ Link to an amendment published at 88 FR 53734, Aug. 8, 2023.
 
 (G) Economic effects of establishing seasonal prohibited species apportionments on segments of the target groundfish industry.
 
-(iii) *Seasonal trawl fishery PSC allowances*—(A) *Unused seasonal apportionments.* Unused seasonal apportionments of trawl fishery PSC allowances made under paragraph (b)(2) of this section will be added to its respective fishery PSC allowance for the next season during a current fishing year.
+(iii) *Seasonal trawl fishery PSC allowances*—(A) *Unused seasonal apportionments.* Unused seasonal apportionments of trawl fishery PSC allowances made under this paragraph (b)(2) will be added to the respective fishery PSC allowance for the next season during a current fishing year except for the Pacific cod fishery apportionment to the PCTC Program, which follows the regulations at § 679.131(c) and (d).
 
-(B) *Seasonal apportionment exceeded.* If a seasonal apportionment of a trawl fishery PSC allowance made under paragraph (b)(2) of this section is exceeded, the amount by which the seasonal apportionment is exceeded will be deducted from its respective apportionment for the next season during a current fishing year.
+(B) *Seasonal apportionment exceeded.* If a seasonal apportionment of a trawl fishery PSC allowance made under this paragraph (b)(2) is exceeded, the amount by which the seasonal apportionment is exceeded will be deducted from the respective apportionment for the next season during a current fishing year except for the Pacific cod fishery apportionment to the PCTC Program, which follows the regulations at § 679.131(c) and (d).
 
 (iv) *Seasonal non-trawl fishery PSC allowances*—(A) *Unused seasonal apportionments.* Any unused portion of a seasonal non-trawl fishery PSC allowance made under paragraph (b)(2) of this section will be reapportioned to the fishery's remaining seasonal PSC allowances during a current fishing year in a manner determined by NMFS, after consultation with the Council, based on the types of information listed under paragraph (b)(2)(ii) of this section.
 
@@ -106,7 +104,7 @@ Link to an amendment published at 88 FR 53734, Aug. 8, 2023.
 
 (4) *Management of BSAI halibut PSC allowances*—(i) *Trawl sector*—*Amendment 80 limited access fishery and BSAI trawl limited access sector: closures*—(A) *Exception.* When a PSC allowance, or seasonal apportionment thereof, specified for the pollock/Atka mackerel/“other species” fishery category, as defined in paragraph (b)(1)(ii)(B)(*6*) of this section is reached, only directed fishing for pollock is closed to trawl vessels using nonpelagic trawl gear.
 
-(B) *Closures.* Except as provided in paragraph (b)(4)(i)(A) of this section, if, during the fishing year, the Regional Administrator determines that U.S. fishing vessels participating in any of the trawl fishery categories listed in paragraphs (b)(1)(ii)(B)(*2*) through (*6*) of this section will catch the halibut PSC allowance, or seasonal apportionment thereof, specified for that fishery category under paragraph (b)(1)(i) or (b)(1)(ii) of this section, NMFS will publish in the Federal Register the closure of the entire BSAI to directed fishing for each species and/or species group in that fishery category for the remainder of the year or for the remainder of the season.
+(B) *Closures.* Except as provided in paragraph (b)(4)(i)(A) of this section, if, during the fishing year, the Regional Administrator determines that U.S. fishing vessels participating in any of the trawl fishery categories listed in paragraphs (b)(1)(ii)(B)(*2*) through (*6*) of this section will catch the halibut PSC allowance, or seasonal apportionment thereof, specified for that fishery category under paragraph (b)(1)(i) or (ii) of this section, NMFS will publish in the Federal Register a document to close the entire BSAI to directed fishing for each species and/or species group in that fishery category for the remainder of the year or for the remainder of the season. This does not apply to allocations to the PCTC Program specified at § 679.133(b).
 
 (ii) *BSAI non-trawl sector: closures.* If, during the fishing year, the Regional Administrator determines that U.S. fishing vessels participating in any of the non-trawl fishery categories listed under paragraph (b)(1)(iii) of this section will catch the halibut PSC allowance, or seasonal apportionment thereof, specified for that fishery category under paragraph (b)(1)(iii) of this section, NMFS will publish in the Federal Register the closure of the entire BSAI to directed fishing with the relevant gear type for each species and/or species group in that fishery category.
 
@@ -301,7 +299,7 @@ Link to an amendment published at 88 FR 53734, Aug. 8, 2023.
 
 (D) *Rockfish fishery.* Fishing with trawl gear during any weekly reporting period that results in a retained aggregate amount of rockfish species that is greater than the retained amount of any other fishery category defined under this paragraph (e)(3)(iv).
 
-(E) Pacific cod fishery. Fishing with trawl gear during any weekly reporting period that results in a retained aggregate amount of Pacific cod that is greater than the retained amount of any other groundfish fishery category defined under this paragraph (e)(3)(iv).
+(E) *Pacific cod fishery.* Fishing with trawl gear during any weekly reporting period that results in a retained aggregate amount of Pacific cod that is greater than the retained amount of any other groundfish fishery category defined under this paragraph (e)(3)(iv). The Pacific cod fishery is further apportioned between the PCTC Program, the trawl catcher vessel limited access C season, and AFA catcher/processors as established at § 679.131(d).
 
 (F) *Pollock/Atka mackerel/“other species.”* Fishing with trawl gear during any weekly reporting period that results in a retained aggregate amount of pollock other than pollock harvested in the midwater pollock fishery defined under paragraph (e)(3)(iv)(A) of this section, Atka mackerel, and “other species” that is greater than the retained amount of any other fishery category defined under this paragraph (e)(3)(iv).
 
@@ -349,7 +347,7 @@ Link to an amendment published at 88 FR 53734, Aug. 8, 2023.
 
 (iv) *COBLZ.* Except as provided in paragraph (e)(7)(i) of this section, if, during the fishing year, the Regional Administrator determines that U.S. fishing vessels participating in any of the trawl fishery categories listed in paragraphs (e)(3)(iv)(B) through (F) of this section will catch the COBLZ bycatch allowance, or seasonal apportionment thereof, of *C. opilio* specified for that fishery category under paragraph (e)(3) of this section, NMFS will publish in the Federal Register the closure of the COBLZ, as defined in Figure 13 to this part, to directed fishing for each species and/or species group in that fishery category for the remainder of the year or for the remainder of the season.
 
-(v) [Reserved]
+(v) This paragraph (e)(7) does not apply to apportionments to the PCTC Program as described at § 679.130.
 
 (vi) *Pacific herring*—(A) *Closure.* Except as provided in paragraph (e)(7)(vi)(B) of this section, if, during the fishing year, the Regional Administrator determines that U.S. fishing vessels participating in any of the fishery categories listed in paragraphs (e)(3)(iv)(A) through (F) of this section in the BSAI will catch the herring bycatch allowance, or seasonal apportionment thereof, specified for that fishery category under paragraph (e)(3) of this section, NMFS will publish in the Federal Register the closure of the Herring Savings Area as defined in Figure 4 to this part to directed fishing for each species and/or species group in that fishery category.
 

@@ -1,23 +1,15 @@
-##### 52.211-2 Availability of Specifications, Standards, and Data Item Descriptions Listed in the Acquisition Streamlining and Standardization Information System (ASSIST). #####
-
-Link to an amendment published at 88 FR 53756, Aug. 8, 2023.
+##### 52.211-2 Availability of Defense Specifications, Standards, and Data Item Descriptions in the Acquisition Streamlining and Standardization Information System (ASSIST) website. #####
 
 As prescribed in 11.204(b), insert the following provision:
 
-Availability of Specifications, Standards, and Data Item Descriptions Listed in the Acquisition Streamlining and Standardization Information System (ASSIST) (JUL 2021)
+Availability of Defense Specifications, Standards, and Data Item Descriptions in the Acquisition Streamlining and Standardization Information System (ASSIST) Website (SEP 2023)
 
-(a) Most unclassified Defense specifications and standards may be downloaded from the following ASSIST websites:
+(a) Most unclassified Defense specifications and standards may be downloaded from the ASSIST website at *https://assist.dla.mil.*
 
-(1) ASSIST (*https://assist.dla.mil/online/start/*;
+(b) Defense documents not available from ASSIST may be requested from the Defense Standardization Program Office by—
 
-(2) Quick Search (*http://quicksearch.dla.mil/*.
+(1) Using the ASSIST feedback module (*https://assist.dla.mil/feedback*); or
 
-(b) Documents not available from ASSIST may be ordered from the Department of Defense Single Stock Point (DoDSSP) by—
+(2) Contacting the Defense Standardization Program Office by telephone at 571-767-6888 or email at *assisthelp@dla.mil.*
 
-(1) Using the ASSIST Shopping Wizard (*https://assist.dla.mil/wizard/index.cfm*);
-
-(2) Phoning the DoDSSP Customer Service Desk (215) 697-2179, Mon-Fri, 0730 to 1600 EST; or
-
-(3) Ordering from DoDSSP, Building 4, Section D, 700 Robbins Avenue, Philadelphia, PA 19111-5094, Telephone (215) 697-2667/2179, Facsimile (215) 697-1462.
-
-(End of provision)[71 FR 228, Jan. 3, 2006, as amended at 79 FR 24253, Apr. 29, 2014; 86 FR 31075, June 10, 2021]
+(End of provision)[88 FR 53756, Aug. 8, 2023]
