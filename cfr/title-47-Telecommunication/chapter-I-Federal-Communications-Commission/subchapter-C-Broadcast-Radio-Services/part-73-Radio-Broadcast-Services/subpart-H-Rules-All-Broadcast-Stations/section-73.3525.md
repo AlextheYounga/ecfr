@@ -1,8 +1,6 @@
 ##### § 73.3525 Agreements for removing application conflicts. #####
 
-Link to an amendment published at 89 FR 7258, Feb. 1, 2024.
-
-(a) Except as provided in § 73.3523 regarding dismissal of applications in comparative renewal proceedings, whenever applicants for a construction permit for a broadcast station enter into an agreement to procure the removal of a conflict between applications pending before the FCC by withdrawal or amendment of an application or by its dismissal pursuant to § 73.3568, all parties thereto shall, within 5 days after entering into the agreement, file with the FCC a joint request for approval of such agreement. The joint request shall be accompanied by a copy of the agreement, including any ancillary agreements, and an affidavit of each party to the agreement setting forth:
+(a) Whenever applicants for a construction permit for a broadcast station enter into an agreement to procure the removal of a conflict between applications pending before the FCC by withdrawal or amendment of an application or by its dismissal pursuant to § 73.3568, all parties thereto shall, within 5 days after entering into the agreement, file with the FCC a joint request for approval of such agreement. The joint request shall be accompanied by a copy of the agreement, including any ancillary agreements, and an affidavit of each party to the agreement setting forth:
 
 (1) The reasons why it is considered that such agreement is in the public interest;
 
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 7258, Feb. 1, 2024.
 
 (6) The terms of any oral agreement relating to the dismissal or withdrawal of its application.
 
-(b) Except where a joint request is filed pursuant to paragraph (a) of this section, any applicant filing an amendment pursuant to § 73.3522 (b)(1) and (c), or a request for dismissal pursuant to § 73.3568 (b)(1) and (c), which would remove a conflict with another pending application; or a petition for leave to amend pursuant to § 73.3522(b)(2) which would permit a grant of the amended application or an application previously in conflict with the amended application; or a request for dismissal pursuant to § 73.3568(b)(2), shall file with it an affidavit as to whether or not consideration (including an agreement for merger of interests) has been promised to or received by such applicant, directly or indirectly, in connection with the amendment, petition or request.
+(b) Except where a joint request is filed pursuant to paragraph (a) of this section, any applicant filing an amendment pursuant to § 73.3522(b)(1) and (c), or a request for dismissal pursuant to § 73.3568(b)(1) and (c), which would remove a conflict with another pending application; or a petition for leave to amend pursuant to § 73.3522(b)(2) which would permit a grant of the amended application or an application previously in conflict with the amended application; or a request for dismissal pursuant to § 73.3568(b)(2), shall file with it an affidavit as to whether or not consideration (including an agreement for merger of interests) has been promised to or received by such applicant, directly or indirectly, in connection with the amendment, petition or request. Although § 74.780 of this chapter makes this section generally applicable to low power TV and TV translators stations, paragraph (b) of this section shall not be applicable to such stations.
 
 (c) Upon the filing of a petition for leave to amend or to dismiss an application for broadcast facilities which has been designated for hearing or upon the dismissal of such application on the FCC's own motion pursuant to § 73.3568, each applicant or party remaining in hearing, as to whom a conflict would be removed by the amendment or dismissal shall submit for inclusion in the record of that proceeding an affidavit stating whether or not he has directly or indirectly paid or promised consideration (including an agreement for merger of interests) in connection with the removal of such conflict.
 
@@ -36,8 +34,4 @@ Link to an amendment published at 89 FR 7258, Feb. 1, 2024.
 
 (k) The prohibition of collusion as set forth in §§ 1.2105(c) of this chapter and 73.5002, which becomes effective upon the filing of short-form applications, shall apply to all broadcast services subject to competitive bidding.
 
-Note:
-
-Although § 74.780 of the Rules makes this section generally applicable to low power TV, TV translators, and TV booster stations, paragraph (b) of this section shall not be applicable to such stations.
-
-[56 FR 28097, June 19, 1991, as amended at 63 FR 48624, Sept. 11, 1998; 85 FR 46794, June 18, 2020]
+[56 FR 28097, June 19, 1991, as amended at 63 FR 48624, Sept. 11, 1998; 85 FR 46794, June 18, 2020; 89 FR 7258, Feb. 1, 2024]

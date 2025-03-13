@@ -1,5 +1,7 @@
 ##### § 16.1 Purpose and applicability. #####
 
+Link to an amendment published at 89 FR 15707, Mar. 4, 2024.
+
 (a) The purpose of this part is to set forth USDA policy regarding equal opportunity for religious organizations to participate in USDA assistance programs for which other private organizations are eligible.
 
 (b) The requirements established in this part do not prevent a USDA awarding agency or any State or local government or other intermediary from accommodating religion in a manner consistent with Federal law and the Religion Clauses of the First Amendment to the U.S. Constitution.

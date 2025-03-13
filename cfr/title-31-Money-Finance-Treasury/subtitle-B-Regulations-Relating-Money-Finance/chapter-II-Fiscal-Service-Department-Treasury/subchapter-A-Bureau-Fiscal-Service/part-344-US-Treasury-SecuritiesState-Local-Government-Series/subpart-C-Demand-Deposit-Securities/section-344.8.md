@@ -1,5 +1,7 @@
 ##### § 344.8 What other provisions apply to subscriptions for Demand Deposit securities? #####
 
+Link to an amendment published at 89 FR 15450, Mar. 4, 2024.
+
 (a) *When is my subscription due?* The subscriber must fix the issue date of each security in the subscription. You cannot change the issue date to require issuance earlier or later than the issue date originally specified; provided, however, you may change the issue date up to seven days after the original issue date if you establish to the satisfaction of Treasury that such change is required as a result of circumstances that were unforeseen at the time of the subscription and are beyond the issuer's control (for example, a natural disaster). The issue date must be a business day. The issue date cannot be more than sixty days after the date Fiscal Service receives the subscription. If the subscription is for $10 million or less, Fiscal Service must receive the subscription at least five days before the issue date. If the subscription is for more than $10 million, Fiscal Service must receive the subscription at least seven days before the issue date.
 
 (b) *How do I start the subscription process?* A subscriber starts the subscription process by entering into SLGSafe the following information:

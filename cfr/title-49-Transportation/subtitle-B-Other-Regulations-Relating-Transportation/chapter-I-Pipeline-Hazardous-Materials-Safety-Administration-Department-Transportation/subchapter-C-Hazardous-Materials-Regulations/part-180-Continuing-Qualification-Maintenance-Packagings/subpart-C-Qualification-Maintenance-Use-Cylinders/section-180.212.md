@@ -1,5 +1,7 @@
 ##### § 180.212 Repair of seamless DOT 3-series specification cylinders and seamless UN pressure receptacles. #####
 
+Link to an amendment published at 89 FR 15668, Mar. 4, 2024.
+
 (a) *General requirements for repair of DOT 3-series cylinders and UN pressure receptacles.* (1) No person may repair a DOT 3-series cylinder or a seamless UN pressure receptacle unless—
 
 (i) The repair facility holds an approval issued under the provisions in § 107.805 of this chapter; and

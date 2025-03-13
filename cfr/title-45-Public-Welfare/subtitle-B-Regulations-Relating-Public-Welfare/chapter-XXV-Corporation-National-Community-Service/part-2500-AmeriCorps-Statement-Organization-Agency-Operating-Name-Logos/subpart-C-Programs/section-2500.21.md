@@ -1,0 +1,3 @@
+##### § 2500.21 Focus areas. #####
+
+Through its programs, AmeriCorps provides funding and volunteer opportunities to address pressing unmet human, educational, environmental, and public safety needs of the United States, without displacing existing workers, and to meet the additional purposes set out in the national service laws. AmeriCorps' focus areas include, but are not limited to, disaster services, economic opportunity, education, environmental stewardship, healthy futures, and veterans and military families.

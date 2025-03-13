@@ -1,7 +1,5 @@
 ##### § 74.787 Licensing. #####
 
-Link to an amendment published at 89 FR 7265, Feb. 1, 2024.
-
 (a) *Applications for low power television and television translator stations.*
 
 (1)-(2) [Reserved]
@@ -18,7 +16,7 @@ Link to an amendment published at 89 FR 7265, Feb. 1, 2024.
 
 (iv) [Reserved]
 
-(v) “Pre-auction digital service area” is defined as the geographic area within the full power station's noise-limited contour (as set forth in Public Notice, DA 15-1296, released November 12, 2015). The service area of the digital-to-digital replacement translator shall be limited to only the demonstrated loss area within the full power station's pre-auction digital service area, provided that an applicant for a digital-to-digital replacement television translator may propose a *de minimis* expansion of its full power pre-auction digital service area upon demonstrating that the expansion is necessary to replace a loss in its pre-auction digital service area.
+(v) *Pre-auction digital service area* is the geographic area within the full power station's noise-limited contour that was protected in the incentive auction repacking process. The service area of the digital-to-digital replacement translator shall be limited to only the demonstrated loss area within the full power station's pre-auction digital service area, provided that an applicant for a digital-to-digital replacement television translator may propose a *de minimis* expansion of its full power pre-auction digital service area upon demonstrating that the expansion is necessary to replace a loss In its pre-auction digital service area.
 
 (vi) The license for the analog-to-digital and digital-to-digital replacement television translator will be associated with the full power station's main license, will be assigned the same call sign, may not be separately assigned or transferred, and will be renewed with the full power station's main license.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 89 FR 7265, Feb. 1, 2024.
 
 (c) *Licensing.* An application to construct a new low power TV or TV translator station or change the facilities of an existing station will not be accepted if it fails to protect an authorized Class A, low power TV, or TV translator station or an application for such a station filed prior to the date the low power TV or TV translator application is filed.
 
-[69 FR 69333, Nov. 29, 2004, as amended at 74 FR 23655, May 20, 2009; 76 FR 44828, July 27, 2011; 81 FR 5053, Feb. 1, 2016; 83 FR 13683, Mar. 30, 2018; 84 FR 2759, Feb. 8, 2019; 86 FR 66214, Nov. 22, 2021; 87 FR 58204, Sept. 23, 2022; 88 FR 30670, May 12, 2023]
+[69 FR 69333, Nov. 29, 2004, as amended at 74 FR 23655, May 20, 2009; 76 FR 44828, July 27, 2011; 81 FR 5053, Feb. 1, 2016; 83 FR 13683, Mar. 30, 2018; 84 FR 2759, Feb. 8, 2019; 86 FR 66214, Nov. 22, 2021; 87 FR 58204, Sept. 23, 2022; 88 FR 30670, May 12, 2023; 89 FR 7265, Feb. 1, 2024]

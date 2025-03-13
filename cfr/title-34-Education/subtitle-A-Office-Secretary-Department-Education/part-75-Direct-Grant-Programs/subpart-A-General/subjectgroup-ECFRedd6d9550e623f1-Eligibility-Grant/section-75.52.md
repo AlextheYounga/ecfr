@@ -1,5 +1,7 @@
 ##### § 75.52 Eligibility of faith-based organizations for a grant and nondiscrimination against those organizations. #####
 
+Link to an amendment published at 89 FR 15702, Mar. 4, 2024.
+
 (a)(1) A faith-based organization is eligible to apply for and to receive a grant under a program of the Department on the same basis as any other organization, with respect to programs for which such other organizations are eligible and considering any permissible accommodation. The Department shall provide such religious accommodation as is consistent with Federal law, the Attorney General's Memorandum of October 6, 2017 (Federal Law Protections for Religious Liberty), and the Religion Clauses of the First Amendment to the U.S. Constitution.
 
 (2) In the selection of grantees, the Department may not discriminate for or against a private organization on the basis of the organization's religious character, affiliation, or exercise and must ensure that all decisions about grant awards are free from political interference, or even the appearance of such interference, and are made on the basis of merit, not on the basis of religion or religious belief, or the lack thereof. Notices or announcements of award opportunities and notices of award or contracts shall include language substantially similar to that in appendices A and B, respectively, to this part.

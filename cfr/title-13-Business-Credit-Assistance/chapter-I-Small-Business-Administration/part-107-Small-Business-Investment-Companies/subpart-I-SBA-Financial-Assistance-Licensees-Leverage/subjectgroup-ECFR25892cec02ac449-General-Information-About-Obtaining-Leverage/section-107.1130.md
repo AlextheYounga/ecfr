@@ -1,7 +1,5 @@
 ##### § 107.1130 Leverage fees and Annual Charges. #####
 
-Link to an amendment published at 89 FR 3549, Jan. 19, 2024.
-
 (a) *Leverage fee.* You must pay a leverage fee to SBA for each issuance of a Debenture or Participating Security. The fee is 3 percent of the face amount of the Leverage issued.
 
 (b) *Payment of leverage fee.* (1) If you issue a Debenture or Participating Security to repay or redeem existing Leverage, you must pay the leverage fee before SBA will guarantee or purchase the new Leverage security.
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 3549, Jan. 19, 2024.
 
 (c) *Refundability.* The leverage fee is not refundable under any circumstances.
 
-(d) *Additional charge for Leverage*—(1) *Debentures.* You must pay to SBA an Annual Charge, not to exceed 1.38 percent per annum, on the outstanding amount of your Debentures, payable under the same terms and conditions as the interest on the Debentures. For Leverage issued pursuant to Leverage commitments approved on or after October 1, 2023, the Annual Charge, established and published, shall not be less than 0.10 percent per annum, subject to the following provisions:
+(d) *Additional charge for Leverage*—(1) *Debentures.* You must pay to SBA an Annual Charge, not to exceed 1.38 percent per annum, on the outstanding principal amount of your Debentures, payable under the same terms and conditions as the interest on the Debentures. For Leverage issued pursuant to Leverage commitments approved on or after October 1, 2023, the Annual Charge, established and published, shall not be less than 0.10 percent per annum, subject to the following provisions:
 
 (i) For Leverage issued pursuant to Leverage commitments approved on or after October 1, 2024, the Annual Charge, established and published, shall not be less than 0.20 percent per annum.
 
@@ -26,4 +24,4 @@ Link to an amendment published at 89 FR 3549, Jan. 19, 2024.
 
 (e) *Other Leverage fees.* SBA may establish a fee structure for services performed by the CRA. SBA will not collect any fee for its guarantee of TCs.
 
-[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5868, Feb. 5, 1998; 77 FR 25053, Apr. 27, 2012; 88 FR 46012, July 18, 2023]
+[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5868, Feb. 5, 1998; 77 FR 25053, Apr. 27, 2012; 88 FR 46012, July 18, 2023; 89 FR 3549, Jan. 19, 2024]

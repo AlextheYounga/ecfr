@@ -1,5 +1,7 @@
 ##### § 87.1 Definitions. #####
 
+Link to an amendment published at 89 FR 15721, Mar. 4, 2024.
+
 The following definitions apply for the purposes of this part.
 
 (a) *Direct Federal financial assistance, Federal financial assistance provided directly,* or *direct funding* means financial assistance received by an entity selected by the Government or a pass-through entity (as defined in this part) to carry out a service (e.g., by contract, grant, or cooperative agreement). References to Federal financial assistance will be deemed to be references to direct Federal financial assistance, unless the referenced assistance meets the definition of indirect Federal financial assistance or Federal financial assistance provided indirectly.

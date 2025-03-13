@@ -1,5 +1,7 @@
 ##### § 50.1 Definitions. #####
 
+Link to an amendment published at 89 FR 15718, Mar. 4, 2024.
+
 (a) *Direct Federal financial assistance, Federal financial assistance provided directly,**direct funding,* or *directly funded* means financial assistance received by an entity selected by the Government or pass-through entity (under this part) to carry out a service (e.g., by contract, grant, or cooperative agreement). References to “Federal financial assistance” will be deemed to be references to direct Federal financial assistance, unless the referenced assistance meets the definition of “indirect Federal financial assistance” or “Federal financial assistance provided indirectly.”
 
 (b) *Indirect Federal financial assistance* or *Federal financial assistance provided indirectly* means financial assistance received by a service provider when the service provider is paid for services by means of a voucher, certificate, or other means of government-funded payment provided to a beneficiary who is able to make a choice of a service provider. Federal financial assistance provided to an organization is considered “indirect” within the meaning of the Establishment Clause of the First Amendment to the U.S. Constitution when—

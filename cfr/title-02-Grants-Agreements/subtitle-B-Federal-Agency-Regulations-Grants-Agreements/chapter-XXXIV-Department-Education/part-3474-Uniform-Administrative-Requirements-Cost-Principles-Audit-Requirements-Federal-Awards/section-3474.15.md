@@ -1,5 +1,7 @@
 ##### § 3474.15 Contracting with faith-based organizations and nondiscrimination. #####
 
+Link to an amendment published at 89 FR 15701, Mar. 4, 2024.
+
 (a) This section establishes responsibilities that grantees and subgrantees have in selecting contractors to provide direct Federal services under a program of the Department. Grantees and subgrantees must ensure compliance by their subgrantees with the provisions of this section and any implementing regulations or guidance.
 
 (b)(1) A faith-based organization is eligible to contract with grantees and subgrantees, including States, on the same basis as any other private organization, with respect to contracts for which such organizations are eligible and considering any permissible accommodation.

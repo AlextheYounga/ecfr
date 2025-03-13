@@ -1,5 +1,7 @@
 ##### § 38.3 Definitions. #####
 
+Link to an amendment published at 89 FR 15713, Mar. 4, 2024.
+
 As used in this part:
 
 (a)(1) “Direct Federal financial assistance” or “Federal financial assistance provided directly” refers to situations where the Government or an intermediary (under this part) selects the provider and either purchases services from that provider (e.g., via a contract) or awards funds to that provider to carry out a service (e.g., via a grant or cooperative agreement). In general, and except as provided in paragraph (a)(2) of this section, Federal financial assistance shall be treated as direct, unless it meets the definition of “indirect Federal financial assistance” or “Federal financial assistance provided indirectly.”

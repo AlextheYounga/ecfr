@@ -1,5 +1,7 @@
 ##### § 172.514 Bulk packagings. #####
 
+Link to an amendment published at 89 FR 15665, Mar. 4, 2024.
+
 (a) Except as provided in paragraphs (c) and (d) of this section, each person who offers for transportation a bulk packaging which contains a hazardous material, shall affix the placards specified for the material in §§ 172.504 and 172.505.
 
 (b) Each bulk packaging that is required to be placarded when it contains a hazardous material, must remain placarded when it is emptied, unless it—

@@ -1,5 +1,7 @@
 ##### § 344.7 What are Demand Deposit securities? #####
 
+Link to an amendment published at 89 FR 15449, Mar. 4, 2024.
+
 Demand Deposit securities are one-day certificates of indebtedness that are automatically rolled over each day until you request redemption.
 
 (a) *How is the rate for Demand Deposit securities determined?* Each security shall bear a rate of interest based on an adjustment of the average yield for 13-week Treasury bills at the most recent auction. A new annualized effective Demand Deposit rate and daily factor for the Demand Deposit rate are effective on the first business day following the regular auction of 13-week Treasury bills and are shown in the SLGS rate table. Interest is accrued and added to the principal daily. Interest is computed on the balance of the principal, plus interest accrued through the preceding day.

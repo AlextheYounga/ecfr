@@ -1,5 +1,7 @@
 ##### § 180.205 General requirements for requalification of specification cylinders. #####
 
+Link to an amendment published at 89 FR 15666, Mar. 4, 2024.
+
 (a) *General.* Each cylinder used for the transportation of hazardous materials must be an authorized packaging. To qualify as an authorized packaging, each cylinder must conform to this subpart, the applicable requirements specified in part 173 of this subchapter, and the applicable requirements of subpart C of part 178 of this subchapter.
 
 (b) *Persons performing requalification functions.* No person may represent that a repair or requalification of a cylinder has been performed in accordance with the requirements in this subchapter unless that person holds a current approval issued under the procedural requirements prescribed in subpart I of part 107 of this chapter. No person may mark a cylinder with a RIN and a requalification date or otherwise represent that a DOT specification or special permit cylinder has been requalified unless all applicable requirements of this subpart have been met. A person who requalifies cylinders must maintain the records prescribed in § 180.215 at each location at which it inspects, tests, or marks cylinders.

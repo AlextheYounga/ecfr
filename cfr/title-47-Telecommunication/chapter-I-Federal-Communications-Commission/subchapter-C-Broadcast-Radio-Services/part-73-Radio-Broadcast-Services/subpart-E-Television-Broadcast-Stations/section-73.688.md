@@ -1,8 +1,6 @@
 ##### § 73.688 Indicating instruments. #####
 
-Link to an amendment published at 89 FR 7253, Feb. 1, 2024.
-
-(a) Each TV broadcast station shall be equipped with indicating instruments which conform with the specifications described in § 73.1215 for measuring the operating parameters of the last radio stage of the visual transmitter, and with such other instruments as are necessary for the proper adjustment, operation, and maintenance of the visual transmitting system.
+(a) Each TV broadcast station shall be equipped with indicating instruments which conform with the specifications described in § 73.1215 for measuring the operating parameters of the last radio stage of the transmitter, and with such other instruments as are necessary for the proper adjustment, operation, and maintenance of the transmitting system.
 
 (b) The function of each instrument shall be clearly and permanently shown on the instrument itself or on the panel immediately adjacent thereto.
 
@@ -12,4 +10,4 @@ Link to an amendment published at 89 FR 7253, Feb. 1, 2024.
 
 (2) If conditions beyond the control of the licensee prevent the restoration of the meter to service within the above allowed period, informal request in accordance with § 73.3549 may be filed for such additional time as may be required to complete repairs of the defective instrument.
 
-[41 FR 36818, Sept. 1, 1976, as amended at 48 FR 38480, Aug. 24, 1983; 49 FR 50048, Dec. 26, 1984; 50 FR 26568, June 27, 1985; 80 FR 53750, Sept. 8, 2015]
+[41 FR 36818, Sept. 1, 1976, as amended at 48 FR 38480, Aug. 24, 1983; 49 FR 50048, Dec. 26, 1984; 50 FR 26568, June 27, 1985; 80 FR 53750, Sept. 8, 2015; 89 FR 7253, Feb. 1, 2024 ]

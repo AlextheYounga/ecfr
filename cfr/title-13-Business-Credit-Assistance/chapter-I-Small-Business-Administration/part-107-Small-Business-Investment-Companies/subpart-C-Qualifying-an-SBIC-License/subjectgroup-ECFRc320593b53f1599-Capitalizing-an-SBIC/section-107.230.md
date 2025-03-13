@@ -1,7 +1,5 @@
 ##### § 107.230 Permitted sources of Private Capital for Licensees. #####
 
-Link to an amendment published at 89 FR 3547, Jan. 19, 2024.
-
 Private Capital means the contributed capital of a Licensee, plus unfunded binding commitments by Institutional Investors (including commitments evidenced by a promissory note) to contribute capital to a Licensee.
 
 (a) *Contributed capital.* For purposes of this section, contributed capital means the paid-in capital and paid-in surplus of a Corporate Licensee, or the partners' contributed capital of a Partnership Licensee, in either case subject to the limitations in paragraph (b) of this section.
@@ -38,10 +36,12 @@ Private Capital means the contributed capital of a Licensee, plus unfunded bindi
 
 (ii) Grants made by a state or local government agency or instrumentality into a nonprofit corporation or institution exercising discretionary authority with respect to such funds, if SBA determines that such funds have taken on a private character and the nonprofit corporation or institution is not a mere conduit.
 
-(e) You may not accept any capital contribution made with funds borrowed by a Person seeking to own an equity interest (whether direct or indirect, beneficial or of record) of at least 10 percent of your Private Capital. This exclusion does not apply if:
+(e) *Borrowed funds exclusion.* You may not accept any capital contribution made with funds borrowed by a Person seeking to own an equity interest (whether direct or indirect, beneficial or of record) of at least 10 percent of your Private Capital. This exclusion does not apply if:
 
 (1) Such Person's net worth is at least twice the amount borrowed; or
 
 (2) SBA gives its prior written approval of the capital contribution.
 
-[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5866, Feb. 5, 1998; 64 FR 70995, Dec. 20, 1999]
+(f) *Public sector contributions.* The Act limits the extent to which funds invested directly or indirectly by local, State or Federal Government entities are eligible to qualify as Leverageable Capital. However, SBICs are not restricted from accepting funds invested directly or indirectly from local, State or Federal Government entities. The funds contributed by such entities may be included in an SBIC applicant's proposed formula to calculate management fees.
+
+[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5866, Feb. 5, 1998; 64 FR 70995, Dec. 20, 1999; 89 FR 3547, Jan. 19, 2024]

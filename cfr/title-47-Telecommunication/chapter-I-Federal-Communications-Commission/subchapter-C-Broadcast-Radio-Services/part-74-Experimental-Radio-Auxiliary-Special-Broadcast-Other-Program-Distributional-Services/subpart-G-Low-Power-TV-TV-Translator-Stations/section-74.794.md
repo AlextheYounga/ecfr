@@ -1,6 +1,4 @@
-##### § 74.794 Digital emissions. #####
-
-Link to an amendment published at 89 FR 7265, Feb. 1, 2024.
+##### § 74.794 Emissions. #####
 
 (a)(1) An applicant for a LPTV or TV translator station construction permit shall specify that the station will be constructed to confine out-of-channel emissions within one of the following emission masks: Simple, stringent, or full service.
 
@@ -24,10 +22,10 @@ Attenuation in dB = −11.5([Delta]f + 3.6);Where:[Delta] f = frequency differen
 
 A(dB) = Aalternate + 10 log (BWalternate / 500)where A(dB) is the measured or calculated attenuation value for the reference 500 kHz bandwidth, and Aalternate is the measured or calculated attenuation for a bandwidth BWalternate. Emissions include sidebands, spurious emissions and radio harmonics. Attenuation is to be measured at the output terminals of the transmitter (including any filters that may be employed). In the event of interference caused to any service by out-of-channel emissions, greater attenuation may be required.
 
-(b) In addition to meeting the emission attenuation requirements of the simple or stringent mask (including attenuation of radio frequency harmonics), digital low power TV and TV translator stations authorized to operate on TV channels 22-24, (518-536 MHz), 32-36 (578-608 MHz), 38 (614-620 MHz), and 65-69 (776-806 MHz) must provide specific “out of band” protection to Radio Navigation Satellite Services in the bands: L5 (1164-1215 MHz); L2 (1215-1240 MHz) and L1 (1559-1610 MHz).
+(b) In addition to meeting the emission attenuation requirements of the simple or stringent mask (including attenuation of radio frequency harmonics), low power TV and TV translator stations authorized to operate on TV channels 22-24, (518-536 MHz), 32-36 (578-608 MHz), 38 (614-620 MHz), and 65-69 (776-806 MHz) must provide specific “out of band” protection to Radio Navigation Satellite Services in the bands: L5 (1164-1215 MHz); L2 (1215-1240 MHz) and L1 (1559-1610 MHz).
 
-(1) An FCC-certificated transmitter specifically certified for use on one or more of the above channels must include filtering with an attenuation of not less than 85 dB in the GPS bands, which will have the effect of reducing harmonics in the GPS bands from what is produced by the digital transmitter, and this attenuation must be demonstrated as part of the certification application to the Commission.
+(1) An FCC-certificated transmitter specifically certified for use on one or more of the above channels must include filtering with an attenuation of not less than 85 dB in the GPS bands, which will have the effect of reducing harmonics in the GPS bands from what is produced by the transmitter, and this attenuation must be demonstrated as part of the certification application to the Commission.
 
-(2) For an installation on one of the above channels with a digital transmitter not specifically FCC-certificated for the channel, a low pass filter or equivalent device rated by its manufacturer to have an attenuation of at least 85 dB in the GPS bands, which will have the effect of reducing harmonics in the GPS bands from what is produced by the digital transmitter, and must be installed in a manner that will prevent the harmonic emission content from reaching the antenna. A description of the low pass filter or equivalent device with the manufacturer's rating or a report of measurements by a qualified individual shall be retained with the station license. Field measurements of the second or third harmonic output of a transmitter so equipped are not required.
+(2) For an installation on one of the above channels with a transmitter not specifically FCC-certificated for the channel, a low pass filter or equivalent device rated by its manufacturer to have an attenuation of at least 85 dB in the GPS bands, which will have the effect of reducing harmonics in the GPS bands from what is produced by the transmitter, and must be installed in a manner that will prevent the harmonic emission content from reaching the antenna. A description of the low pass filter or equivalent device with the manufacturer's rating or a report of measurements by a qualified individual shall be retained with the station license. Field measurements of the second or third harmonic output of a transmitter so equipped are not required.
 
-[69 FR 69336, Nov. 29, 2004, as amended at 76 FR 44828, July 27, 2011; 87 FR 58206, Sept. 23, 2022]
+[69 FR 69336, Nov. 29, 2004, as amended at 76 FR 44828, July 27, 2011; 87 FR 58206, Sept. 23, 2022; 89 FR 7265, Feb. 1, 2024]

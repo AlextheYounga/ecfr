@@ -1,7 +1,5 @@
 ##### § 121.103 How does SBA determine affiliation? #####
 
-Link to an amendment published at 89 FR 3549, Jan. 19, 2024.
-
 (a) *General Principles of Affiliation.* (1) Concerns and entities are affiliates of each other when one controls or has the power to control the other, or a third party or parties controls or has the power to control both. It does not matter whether control is exercised, so long as the power to control exists.
 
 (2) SBA considers factors such as ownership, management, previous relationships with or ties to another concern, and contractual relationships, in determining whether affiliation exists.
@@ -18,7 +16,7 @@ Link to an amendment published at 89 FR 3549, Jan. 19, 2024.
 
 (8) For applicants in SBA's Business Loan, Disaster Loan, and Surety Bond Guarantee Programs, the size standards and bases for affiliation are set forth in § 121.301.
 
-(b) *Exceptions to affiliation coverage.* (1) Business concerns owned in whole or substantial part by investment companies licensed, or development companies qualifying, under the Small Business Investment Act of 1958, as amended, are not considered affiliates of such investment companies or development companies.
+(b) *Exceptions to affiliation coverage.* (1) Business concerns owned in whole or substantial part either by investment companies licensed, or by development companies qualifying, under the Small Business Investment Act of 1958, as amended, or by investment companies to which a Reinvestor SBIC (within the meaning of 13 CFR 107.720(a)(2)) has provided a meaningful percentage of Equity Capital are not considered affiliates of such investment companies or development companies.
 
 (2)(i) Business concerns owned and controlled by Indian Tribes, Alaska Native Corporations (ANCs) organized pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 *et seq.*), Native Hawaiian Organizations (NHOs), Community Development Corporations (CDCs) authorized by 42 U.S.C. 9805, or wholly-owned entities of Indian Tribes, ANCs, NHOs, or CDCs are not considered affiliates of such entities.
 

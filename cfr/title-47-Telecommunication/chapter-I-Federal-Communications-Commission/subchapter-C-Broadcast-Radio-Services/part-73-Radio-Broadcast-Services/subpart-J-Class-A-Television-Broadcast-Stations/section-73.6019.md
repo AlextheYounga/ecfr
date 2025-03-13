@@ -1,7 +1,5 @@
-##### § 73.6019 Digital Class A TV station protection of low power TV, TV translator, digital low power TV and digital TV translator stations. #####
+##### § 73.6019 Class A TV station protection of low power TV and TV translator stations. #####
 
-Link to an amendment published at 89 FR 7263, Feb. 1, 2024.
+An application to change the facilities of a Class A TV station will not be accepted if it fails to protect authorized low power TV and TV translator stations in accordance with the requirements of § 74.793(b) through (d) and (h) of this chapter. This protection must be afforded to applications for changes filed prior to the date the Class A station application is filed.
 
-An application for digital operation of an existing Class A TV station or to change the facilities of a digital Class A TV station will not be accepted if it fails to protect authorized low power TV, TV translator, digital low power TV and digital TV translator stations in accordance with the requirements of § 74.793(b) through (d) and (h) of this chapter. This protection must be afforded to applications for changes filed prior to the date the digital Class A station is filed. The protection of other authorized low power TV, TV translator, digital low power TV and digital TV translator stations shall not apply in connection with any application filed by a Class A TV station pursuant to § 73.3700(b)(1).
-
-[79 FR 48544, Aug. 15, 2014]
+[89 FR 7263, Feb. 1, 2024]

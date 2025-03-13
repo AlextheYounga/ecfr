@@ -1,10 +1,8 @@
 ##### § 73.3700 Post-incentive auction licensing and operation. #####
 
-Link to an amendment published at 89 FR 7262, Feb. 1, 2024.
-
 (a) *Definitions*—(1) *Broadcast television station.* For purposes of this section, broadcast television station means full power television stations and Class A television stations.
 
-(2) *Channel reassignment public notice.* For purposes of this section, *Channel Reassignment Public Notice* means the public notice to be released upon the completion of the broadcast television spectrum incentive auction conducted under section 6403 of the *Spectrum* Act specifying the new channel assignments and technical parameters of any broadcast television stations that are reassigned to new channels.
+(2) *Channel reassignment public notice.* For purposes of this section, *Channel Reassignment Public Notice* means the public notice released upon the completion of the broadcast television spectrum incentive auction conducted under section 6403 of the *Spectrum* Act specifying the new channel assignments and technical parameters of any broadcast television stations that are reassigned to new channels. *Incentive Auction Closing and Channel Reassignment Public Notice: The Broadcast Television Incentive Auction Closes; Reverse Auction and Forward Auction Results Announced; Final Television Band Channel Assignments Announced; Post-Auction Deadlines Announced,* GN Docket No. 12-268, Public Notice, 32 FCC Rcd 2786 (WTB/MB 2017).
 
 (3) *Channel sharee station.* For purposes of this section, *channel sharee station* means a broadcast television station for which a winning channel sharing bid, as defined in § 1.2200(d) of this chapter, was submitted, or a broadcast television station for which a winning license relinquishment bid, as defined in § 1.2200(g) of this chapter, was submitted where the station licensee executes and implements a post-auction channel sharing agreement.
 
@@ -12,9 +10,7 @@ Link to an amendment published at 89 FR 7262, Feb. 1, 2024.
 
 (5) *Channel sharing agreement* (*CSA).* For purposes of this section, *channel sharing agreement* or *CSA* means an executed agreement between the licensee of a channel sharee station or stations and the licensee of a channel sharer station governing the use of the shared television channel.
 
-(6) *High-VHF-to-Low-VHF station.* For purposes of this section, *High-VHF-to-Low-VHF station* means a broadcast television station for which a winning high-VHF-to-low-VHF bid, as defined in § 1.2200(f) of this chapter, was submitted.
-
-(7) *License relinquishment station.* For purposes of this section, *license relinquishment station* means a broadcast television station for which a winning license relinquishment bid, as defined in § 1.2200(g) of this chapter, was submitted.
+(6)-(7) [Reserved]
 
 (8) *MVPD.* For purposes of this section, *MVPD* means a person such as, but not limited to, a cable operator, a multichannel multipoint distribution service, a direct broadcast satellite service, or a television receive-only satellite program distributor, who makes available for purchase, by subscribers or customers, multiple channels of video programming as set forth in section 602 of the Communications Act of 1934 (47 U.S.C. 522).
 
@@ -44,61 +40,7 @@ Link to an amendment published at 89 FR 7262, Feb. 1, 2024.
 
 (16) *TV broadcaster relocation fund.* For purposes of this section, the *TV Broadcaster Relocation Fund* means the fund established by section 6403(d)(1) of the *Spectrum Act.*
 
-(17) *UHF-to-VHF station.* For purposes of this section, *UHF-to-VHF station* means a television station for which a winning UHF-to-VHF bid, as defined in § 1.2200(l) of this chapter, was submitted.
-
-(b) *Post-auction licensing*—(1) *Construction permit applications.* (i) Licensees of reassigned stations, UHF-to-VHF stations, and High-VHF-to-Low-VHF stations must file a minor change application for a construction permit for the channel specified in the Channel Reassignment Public Notice using FCC Form 2100 Schedule A (for a full power station) or E (for a Class A station) within three months of the release date of the Channel Reassignment Public Notice. Licensees that are unable to meet this filing deadline may request a waiver of the deadline no later than 30 days prior to the deadline.
-
-(ii) A licensee of a reassigned station that is reassigned from one channel to a different channel within its existing band will be permitted to propose transmission facilities in its construction permit application that will extend its coverage contour, as defined by the technical parameters specified in the Channel Reassignment Public Notice, if such facilities:
-
-(A) Are necessary to achieve the coverage contour specified in the Channel Reassignment Public Notice or to address loss of coverage area resulting from the new channel assignment;
-
-(B) Will not extend a full power television station's noise limited contour or a Class A television station's protected contour by more than one percent in any direction; and
-
-(C) Will not cause new interference, other than a rounding tolerance of 0.5 percent, to any other broadcast television station.
-
-(iii) The licensee of a UHF-to-VHF station or High-VHF-to-Low-VHF station will be permitted to propose transmission facilities in its construction permit application that will extend its coverage contour, as defined by the technical parameters specified in the Channel Reassignment Public Notice, if the proposed facility will not cause new interference, other than a rounding tolerance of 0.5 percent, to any other broadcast television station.
-
-(iv) *Priority filing window.* (A) The licensee of a reassigned station, a UHF-to-VHF station, or a High-VHF-to-Low-VHF station that, for reasons beyond its control, is unable to construct facilities that meet the technical parameters specified in the Channel Reassignment Public Notice, or the permissible contour coverage variance from those technical parameters specified in paragraph (b)(1)(ii) or (iii) of this section, may request a waiver of the construction permit application deadline specified in paragraph (b)(1)(i) no later than 30 days prior to the deadline. If its waiver request is granted, the licensee will be afforded an opportunity to submit an application for a construction permit pursuant to paragraph (b)(2)(i) or (ii) of this section in a priority filing window to be announced by the Media Bureau by public notice.
-
-(B) The licensee of any broadcast television station that the Commission makes all reasonable efforts to preserve pursuant to section 6403(b)(2) of the Spectrum Act that is predicted to experience a loss in population served in excess of one percent as a result of the repacking process, either because of new station-to-station interference or terrain loss resulting from a new channel assignment (or a combination of both), will be afforded an opportunity to submit an application for a construction permit pursuant to paragraph (b)(2)(i) or (ii) of this section in the priority filing window required by paragraph (b)(1)(iv)(A) of this section.
-
-(v) Construction permit applications filed pursuant to paragraph (b)(1)(i) of this section will be afforded expedited processing if the application:
-
-(A) Does not seek to expand the coverage area, as defined by the technical parameters specified in the Channel Reassignment Public Notice, in any direction;
-
-(B) Seeks authorization for facilities that are no more than five percent smaller than those specified in the Channel Reassignment Public Notice with respect to predicted population served; and
-
-(C) Is filed within the three-month deadline specified in paragraph (b)(1)(i) of this section.
-
-(vi) *Delegation of authority.* The Commission delegates authority to the Chief, Media Bureau to establish construction periods for reassigned stations, UHF-to-VHF stations, and High-VHF-to-Low-VHF stations.
-
-(vii) Channel sharee stations must file a minor change application for a construction permit for the channel on which the channel sharer operates at least sixty (60) days prior to the date by which it must terminate operations on its pre-auction channel pursuant to paragraphs (b)(4)(i) and (ii) of this section. The application must include a copy of the executed channel sharing agreement.
-
-(2) *Applications for alternate channels and expanded facilities*—
-
-(i) *Alternate channels.* The licensee of a reassigned station, a UHF-to-VHF station, or a High-VHF-to-Low-VHF station, or a broadcast television station described in paragraph (b)(1)(iv)(B) of this section will be permitted to file a major change application for a construction permit for an alternate channel on FCC Form 2100 Schedules A (for a full power station) and E (for a Class A station) during a filing window to be announced by the Media Bureau by public notice, provided that:
-
-(A) The licensee of a UHF-to-VHF station cannot request an alternate UHF channel;
-
-(B) The licensee of a UHF-to-VHF station that specified the high-VHF band or the low-VHF band in its UHF-to-VHF bid cannot request a VHF channel outside of the assigned band; and
-
-(C) The licensee of a High-VHF-to-Low-VHF station cannot request an alternate high-VHF channel.
-
-(ii) *Expanded facilities.* The licensee of a reassigned station, a UHF-to-VHF station, or a High-VHF-to-Low-VHF station, or a broadcast television station described in paragraph (b)(1)(iv)(B) of this section will be permitted to file a minor change application for a construction permit on FCC Form 2100 Schedules A (for a full power station) and E (for a Class A station) during a filing window to be announced by the Media Bureau by public notice, in order to request a change in the technical parameters specified in the Channel Reassignment Public Notice (or, in the case of a broadcast television station described in paragraph (b)(1)(iv)(B) of this section that is not reassigned to a new channel, a change in its authorized technical parameters) with respect to height above average terrain (HAAT), effective radiated power (ERP), or transmitter location that would be considered a minor change under § 73.3572(a)(1) and (2) or § 74.787(b) of this chapter.
-
-(iii) *Delegation of authority.* The Commission delegates authority to the Chief, Media Bureau to:
-
-(A) Announce filing opportunities for alternate channels and expanded facilities applications and specifying appropriate processing guidelines, including the standards to qualify for priority filing, cut-off protections, and means to avoid or resolve mutual exclusivity between applications; and
-
-(B) Establish construction periods for permits authorizing alternate channels or expanded facilities.
-
-(3) *License applications for channel sharing stations.* The licensee of each channel sharee station and channel sharer station must file an application for a license for the shared channel using FCC Form 2100 Schedule B (for a full power station) or F (for a Class A station) within six months of the date that the channel sharee station licensee receives its incentive payment pursuant to section 6403(a)(1) of the *Spectrum Act.*
-
-(4) *Deadlines to terminate operations on pre-auction channels.* (i) The licensee of a license relinquishment station must comply with the notification and cancellation procedures in § 73.1750 and terminate operations on its pre-auction channel within three months of the date that the licensee receives its incentive payment pursuant to section 6403(a)(1) of the *Spectrum Act.*
-
-(ii) The licensee of a channel sharee station and a licensee of a license relinquishment station that has indicated in its Form 177 an intent to enter into a post-auction channel sharing agreement must comply with the notification and cancellation procedures in § 73.1750 and terminate operations on its pre-auction channel within six months of the date that the licensee receives its incentive payment pursuant to section 6403(a)(1) of the Spectrum Act.
-
-(iii) All reassigned stations, UHF-to-VHF stations, and High-VHF-to-Low-VHF stations must cease operating on their pre-auction channel once such station begins operating on its post-auction channel or by the deadline specified in its construction permit for its post-auction channel, whichever occurs earlier, and in no event later than the end of the post-auction transition period as defined in § 27.4 of this chapter.
+(b) *Post-auction licensing*—(1)-(4) [Reserved]
 
 (5) *Applications for additional time to complete construction*—(i) *Delegation of authority.* Authority is delegated to the Chief, Media Bureau to grant a single extension of time of up to six months to licensees of reassigned stations, UHF-to-VHF stations, and High-VHF-to-Low-VHF stations to complete construction of their post-auction channel upon demonstration by the licensee that failure to meet the construction deadline is due to circumstances that are either unforeseeable or beyond the licensee's control. Licensees needing additional time beyond such a single extension of time to complete construction shall be subject to the tolling provisions in § 73.3598.
 
@@ -132,43 +74,9 @@ Link to an amendment published at 89 FR 7262, Feb. 1, 2024.
 
 (ii) Each PSA must be provided in the same language as a majority of the programming carried by the transitioning station; include the date that the station will terminate operations on its pre-auction channel; inform viewers of the need to rescan if the station has received a new post-auction channel assignment; explain how viewers may obtain more information by telephone or online; and for stations with new post-auction channel assignments, provide instructions to both over-the-air and MVPD viewers regarding how to continue watching the television station; and be closed-captioned.
 
-(6) Licensees of transitioning stations, except for license relinquishment stations, must place a certification of compliance with the requirements in paragraph (c) of this section in their online public file within 30 days after beginning operations on their post-auction channels. Licensees of license relinquishment stations must include the certification in their notification of discontinuation of service pursuant to § 73.1750 of this chapter.
+(6) [Reserved]
 
-(d) *Notice to MVPDs.* (1) Licensees of transitioning stations must provide notice to MVPDs that:
-
-(i) No longer will be required to carry the station because it will cease operations or because of the relocation of a channel sharee station;
-
-(ii) Currently carry and will continue to be obligated to carry a station that will have a new post-auction channel assignment; or
-
-(iii) Will become obligated to carry a station due to the relocation of a channel sharee station.
-
-(2) The notice to MVPDs must be provided in the form of a letter notification and must contain the following information:
-
-(i) Date and time of any channel changes;
-
-(ii) Pre-auction and post-auction channels;
-
-(iii) Modification (if any) to antenna position, location or power levels;
-
-(iv) Stream identification information for channel sharing stations; and
-
-(v) Engineering staff contact information.
-
-(3) Should any of the information in (d)(2) of this section change during the time that the station is transitioning from its pre-auction to its post-auction channel, an amended notification must be sent.
-
-(4) For cable systems, the notification letter must be addressed to the system's official address of record provided in the cable system's most recent filing in the Commission's Cable Operations and Licensing System (COALS) Form 322. For all other MVPDs, the notification letter must be addressed to the official corporate address registered with their State of incorporation.
-
-(5) Notification letters must be sent within the following time frames:
-
-(i) For license relinquishment stations, not less than 30 days prior to terminating operations;
-
-(ii) For channel sharee stations, not less than 30 days prior to terminating operations of the pre-auction channel;
-
-(iii) For channel sharee and channel sharer stations, not less than 30 days prior to initiation of operations on the shared channel; and
-
-(iv) For reassigned stations, UHF-to-VHF stations, and High-VHF-to-Low-VHF stations, not less than 90 days prior to the date on which they will begin operations on their post-auction channel.
-
-(v) If a station's anticipated transition date changes due to an unforeseen delay or change in transition plan, the licensee must send a further notice to affected MVPDs informing them of the new anticipated transition date.
+(d) [Reserved]
 
 (e) *Reimbursement rules*—(1) *Entities eligible for reimbursement.* The Commission will reimburse relocation costs reasonably incurred only by:
 
@@ -218,17 +126,9 @@ Link to an amendment published at 89 FR 7262, Feb. 1, 2024.
 
 (f) [Reserved]
 
-(g) *Low Power TV and TV translator stations.* (1) Licensees of operating low power TV and TV translator stations that are displaced by a broadcast television station or a wireless service provider or whose channel is reserved as a guard band as a result of the broadcast television spectrum incentive auction conducted under section 6403 of the *Spectrum Act* shall be permitted to submit an application for displacement relief in a restricted filing window to be announced by the Media Bureau by public notice. Except as otherwise indicated in this section, such applications will be subject to the rules governing displacement applications set forth in §§ 73.3572(a)(4) and 74.787(a)(4) of this chapter.
+(g) *Low Power TV and TV translator stations.*
 
-(2) In addition to other interference protection requirements set forth in the rules, when requesting a new channel in a displacement application, licensees of operating low power TV and TV translator stations will be required to demonstrate that the station would not cause interference to the predicted service of broadcast television stations on:
-
-(i) Pre-auction channels;
-
-(ii) Channels assigned in the Channel Reassignment Public Notice; or
-
-(iii) Alternative channels or expanded facilities broadcast television station licensees have applied for pursuant to paragraph (b)(2) of this section.
-
-(3) *Mutually exclusive displacement applications.* Licensees of low power TV and TV translator stations that file mutually exclusive displacement applications will be permitted to resolve the mutual exclusivity through an engineering solution or settlement agreement. If no resolution of mutually exclusive displacement applications occurs, a selection priority will be granted to the licensee of a displaced digital replacement translator.
+(1) through (3) [Reserved]
 
 (4) *Notification and termination provisions for displaced low power TV and TV translator stations.* (i) A wireless licensee assigned to frequencies in the 600 MHz band under part 27 of this chapter must notify low power TV and TV translator stations of its intent to commence operations, as defined in § 27.4 of this chapter, and the likelihood of receiving harmful interference from the low power TV or TV translator station to such operations within the wireless licensee's licensed geographic service area.
 
@@ -304,4 +204,4 @@ Link to an amendment published at 89 FR 7262, Feb. 1, 2024.
 
 (ii) Adjacent channel operations are defined as operations of broadcast television stations and wireless services where their assigned channels or frequencies spectrally abut each other or are separated by up to 5 MHz.
 
-[79 FR 48539, Aug. 15, 2014, as amended at 79 FR 76914, Dec. 23, 2014; 80 FR 46846, Aug. 6, 2015; 80 FR 67342, 67346, Nov. 2, 2015; 80 FR 71743, Nov. 17, 2015; 81 FR 4975, Jan. 29, 2016; 86 FR 66213, Nov. 22, 2021]
+[79 FR 48539, Aug. 15, 2014, as amended at 79 FR 76914, Dec. 23, 2014; 80 FR 46846, Aug. 6, 2015; 80 FR 67342, 67346, Nov. 2, 2015; 80 FR 71743, Nov. 17, 2015; 81 FR 4975, Jan. 29, 2016; 86 FR 66213, Nov. 22, 2021; 89 FR 7262, Feb. 1, 2024]

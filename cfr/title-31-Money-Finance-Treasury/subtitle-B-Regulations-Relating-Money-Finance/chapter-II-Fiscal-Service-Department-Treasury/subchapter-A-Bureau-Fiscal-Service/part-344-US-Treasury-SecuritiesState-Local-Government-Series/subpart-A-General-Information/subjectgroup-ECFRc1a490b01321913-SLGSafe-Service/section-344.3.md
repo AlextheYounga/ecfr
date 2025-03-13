@@ -1,5 +1,7 @@
 ##### § 344.3 What provisions apply to the SLGSafe Service? #####
 
+Link to an amendment published at 89 FR 15449, Mar. 4, 2024.
+
 (a) *What is the SLGSafe Service?* SLGSafe is a secure Internet site on the World Wide Web through which subscribers submit SLGS securities transactions. SLGSafe Internet transactions constitute electronic messages under 31 CFR part 370.
 
 (b) *Is SLGSafe use mandatory?* Yes. Except as provided in paragraph (f)(3) or (f)(4) of this section, you must submit all transactions through SLGSafe.

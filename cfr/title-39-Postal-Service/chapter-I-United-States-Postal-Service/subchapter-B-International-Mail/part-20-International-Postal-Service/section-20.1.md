@@ -8,8 +8,8 @@
 
 (ii) Copies of only the current issue are available during regular business hours for public inspection at area and district offices of the Postal Service and at all post offices, classified stations, and classified branches. The IMM is available for examination on the internet at *https://pe.usps.gov.*
 
-(3) *Inspection—NARA.* For information on the availability of this material at NARA, contact the Office of the Federal Register—email: *fr.inspection@nara.gov;* website: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
+(3) *Inspection—NARA.* You may view this material at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations* or email *fr.inspection@nara.gov.*
 
-(b) The Director of the Federal Register approved the IMM, updated July 10, 2022, for incorporation by reference as of October 19, 2022.
+(b) The Director of the Federal Register approved the IMM, updated January 21, 2024, for incorporation by reference as of March 4, 2024.
 
-[87 FR 63424, Oct. 19, 2022]
+[87 FR 63424, Oct. 19, 2022, as amended at 89 FR 15474, Mar. 4, 2024]

@@ -1,3 +1,5 @@
 ##### § 19.1 Purpose. #####
 
+Link to an amendment published at 89 FR 15705, Mar. 4, 2024.
+
 It is the policy of the Department of Homeland Security (DHS) to ensure the equal treatment of faith-based organizations in social service programs administered or supported by DHS or its component agencies, enabling those organizations to participate in providing important social services to beneficiaries. The equal treatment policies and requirements contained in this part are generally applicable to faith-based organizations participating or seeking to participate in any such programs. More specific policies and requirements regarding the participation of faith-based organizations in individual programs may be provided in the statutes, regulations, or guidance governing those programs, such as regulations in title 44 of the Code of Federal Regulations. DHS or its components may issue policy guidance and reference materials at a future time with respect to the applicability of this policy and this part to particular programs.

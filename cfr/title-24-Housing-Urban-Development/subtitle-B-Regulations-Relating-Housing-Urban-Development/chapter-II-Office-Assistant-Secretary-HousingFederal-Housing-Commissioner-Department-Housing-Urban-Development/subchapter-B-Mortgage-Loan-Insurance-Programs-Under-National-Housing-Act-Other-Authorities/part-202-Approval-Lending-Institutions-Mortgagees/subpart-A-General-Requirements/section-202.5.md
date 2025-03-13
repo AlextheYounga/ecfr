@@ -1,7 +1,5 @@
 ##### § 202.5 General approval standards. #####
 
-Link to an amendment published at 89 FR 7277, Feb. 2, 2024.
-
 To be approved for participation in the Title I or Title II programs, and to maintain approval, a lender or mortgagee shall meet and continue to meet the general requirements of paragraphs (a) through (n) of this section (except as provided in § 202.10(b)) and the requirements for one of the eligible classes of lenders or mortgagees in §§ 202.6 through 202.10.
 
 (a) *Business form.* (1) The lender or mortgagee shall be a corporation or other chartered institution, a permanent organization having succession, or a partnership. A partnership must meet the requirements of paragraphs (a)(1)(i) through (iv) of this section.
@@ -42,7 +40,7 @@ To be approved for participation in the Title I or Title II programs, and to mai
 
 (h) *Quality control plan.* The lender or mortgagee shall implement a written quality control plan, acceptable to the Secretary, that assures compliance with the regulations and other issuances of the Secretary regarding loan or mortgage origination and servicing.
 
-(i) *Fees.* The lender or mortgagee, unless approved under § 202.10, shall pay an application fee and annual fees, including additional fees for each branch office authorized to originate Title I loans or submit applications for mortgage insurance, at such times and in such amounts as the Secretary may require. The Secretary may identify additional classes or groups of lenders or mortgagees that may be exempt from one or more of these fees.
+(i) *Fees.* The lender or mortgagee, unless approved under § 202.10, shall pay an application fee and annual fees, including additional fees for each branch office that the lender or mortgagee registers with the Department, at such times and in such amounts as the Secretary may require. The Secretary may identify additional classes or groups of lenders or mortgagees that may be exempt from one or more of these fees.
 
 (j) *Ineligibility.* For a lender or mortgagee to be eligible for FHA approval, neither the lender or mortgagee, nor any officer, partner, director, principal, manager, supervisor, loan processor, loan underwriter, or loan originator of the lender or mortgagee shall:
 
@@ -64,7 +62,7 @@ To be approved for participation in the Title I or Title II programs, and to mai
 
 (7) Be in violation of any other requirement established by the Secretary.
 
-(k) *Branch offices.* A lender may, upon approval by the Secretary, maintain branch offices for the origination of Title I or Title II loans. A branch office of a mortgagee must be registered with the Department in order to originate mortgages or submit applications for mortgage insurance. The lender or mortgagee shall remain fully responsible to the Secretary for the actions of its branch offices.
+(k) *Branch offices.* A lender or mortgagee may, upon approval by the Secretary, maintain branch offices for the origination of Title I or Title II loans. The lender or mortgagee shall remain fully responsible to the Secretary for the actions of its branch offices.
 
 (l) *Conflict of interest and responsibility.* A mortgagee may not pay anything of value, directly or indirectly, in connection with any insured mortgage transaction or transactions to any person or entity if such person or entity has received any other consideration from the mortgagor, seller, builder, or any other person for services related to such transactions or related to the purchase or sale of the mortgaged property, except that consideration, approved by the Secretary, may be paid for services actually performed. The mortgagee shall not pay a referral fee to any person or organization.
 
@@ -92,4 +90,4 @@ To be approved for participation in the Title I or Title II programs, and to mai
 
 (iii) *Dual participation net worth requirements.* Irrespective of size, each applicant for approval and each approved lender or mortgagee that is a participant in both FHA single-family and multifamily programs must meet the net worth requirements as set forth in paragraph (n)(3)(i) of this section.
 
-[75 FR 20732, Apr. 20, 2010; 75 FR 23582, May 4, 2010; 77 FR 51468, Aug. 24, 2012; 78 FR 57060, Sept. 17, 2013]
+[75 FR 20732, Apr. 20, 2010; 75 FR 23582, May 4, 2010; 77 FR 51468, Aug. 24, 2012; 78 FR 57060, Sept. 17, 2013; 89 FR 7277, Feb. 2, 2024]

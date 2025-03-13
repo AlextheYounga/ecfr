@@ -1,6 +1,6 @@
 ##### § 73.3555 Multiple ownership. #####
 
-Link to an amendment published at 89 FR 7260, Feb. 1, 2024.Link to an amendment published at 89 FR 12229, Feb. 15, 2024.
+Link to an amendment published at 89 FR 12229, Feb. 15, 2024.
 
 (a)(1) *Local radio ownership rule.* A person or single entity (or entities under common control) may have a cognizable interest in licenses for AM or FM radio broadcast stations in accordance with the following limits:
 
@@ -16,7 +16,7 @@ Link to an amendment published at 89 FR 7260, Feb. 1, 2024.Link to an amendment 
 
 (b) *Local television multiple ownership rule.* (1) An entity may directly or indirectly own, operate, or control two television stations licensed in the same Designated Market Area (DMA) (as determined by Nielsen Media Research or any successor entity) if:
 
-(i) The digital noise limited service contours of the stations (computed in accordance with § 73.622(e)) do not overlap; or
+(i) The digital noise limited service contours of the stations (computed in accordance with § 73.619(c)) do not overlap; or
 
 (ii) At the time the application to acquire or construct the station(s) is filed, at least one of the stations is not ranked among the top four stations in the DMA, based on the most recent all-day (9 a.m.-midnight) audience share, as measured by Nielsen Media Research or by any comparable professional, accepted audience ratings service.
 
@@ -140,4 +140,4 @@ Note 11 to § 73.3555:
 
 An entity will not be permitted to directly or indirectly own, operate, or control two television stations in the same DMA through the execution of any agreement (or series of agreements) involving stations in the same DMA, or any individual or entity with a cognizable interest in such stations, in which a station (the “new affiliate”) acquires the network affiliation of another station (the “previous affiliate”), if the change in network affiliations would result in the licensee of the new affiliate, or any individual or entity with a cognizable interest in the new affiliate, directly or indirectly owning, operating, or controlling two of the top-four rated television stations in the DMA at the time of the agreement. Parties should also refer to the Second Report and Order in MB Docket No. 14-50, FCC 16-107 (released August 25, 2016).
 
-[73 FR 9487, Feb. 21, 2008, as amended at 73 FR 28369, May 16, 2008; 75 FR 27199, May 14, 2010; 79 FR 29006, May 20, 2014; 81 FR 73041, Oct. 24, 2016; 81 FR 76262, Nov. 1, 2016; 82 FR 21127, May 5, 2017; 83 FR 755, Jan. 8, 2018; 84 FR 15128, Apr. 15, 2019; 85 FR 5164, Jan. 29, 2020; 86 FR 34628, June 30, 2021]
+[73 FR 9487, Feb. 21, 2008, as amended at 73 FR 28369, May 16, 2008; 75 FR 27199, May 14, 2010; 79 FR 29006, May 20, 2014; 81 FR 73041, Oct. 24, 2016; 81 FR 76262, Nov. 1, 2016; 82 FR 21127, May 5, 2017; 83 FR 755, Jan. 8, 2018; 84 FR 15128, Apr. 15, 2019; 85 FR 5164, Jan. 29, 2020; 86 FR 34628, June 30, 2021; 89 FR 7260, Feb. 1, 2024]

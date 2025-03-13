@@ -1,5 +1,7 @@
 ##### § 173.302a Additional requirements for shipment of nonliquefied (permanent) compressed gases in specification cylinders. #####
 
+Link to an amendment published at 89 FR 15665, Mar. 4, 2024.
+
 (a) *Detailed filling requirements.* Nonliquefied compressed gases (except gas in solution) for which filling requirements are not specifically prescribed in § 173.304a must be shipped subject to the requirements in this section and §§ 173.301, 173.301a, 173.302, and 173.305 in specification cylinders, as follows:
 
 (1) DOT 3, 3A, 3AA, 3AL, 3B, 3E, 4B, 4BA, 4BW, and 4E cylinders.

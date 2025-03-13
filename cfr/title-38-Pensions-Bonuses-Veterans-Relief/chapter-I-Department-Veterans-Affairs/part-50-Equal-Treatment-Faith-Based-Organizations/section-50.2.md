@@ -1,5 +1,7 @@
 ##### § 50.2 Faith-based organizations and Federal financial assistance. #####
 
+Link to an amendment published at 89 FR 15718, Mar. 4, 2024.
+
 (a) Faith-based organizations are eligible, on the same basis as any other organization and considering any permissible accommodation, to participate in any VA program or service. Neither the VA program nor any State or local government or other pass-through entity receiving funds under any VA program shall, in the selection of service providers, discriminate for or against an organization on the basis of the organization's religious character, affiliation, or exercise. Notices or announcements of award opportunities and notices of award or contracts shall include language substantially similar to that in appendix A and B, respectively, to this part. For purposes of this part, to discriminate against an organization on the basis of the organization's religious exercise means to disfavor an organization, including by failing to select an organization, disqualifying an organization, or imposing any condition or selection criterion that otherwise disfavors or penalizes an organization in the selection process or has such an effect:
 
 (1) Because of conduct that would not be considered grounds to disfavor a secular organization;

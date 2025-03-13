@@ -1,5 +1,7 @@
 ##### § 173.251 Bulk packaging for ammonium nitrate emulsion, suspension, or gel. #####
 
+Link to an amendment published at 89 FR 15665, Mar. 4, 2024.
+
 When § 172.101 of this subchapter specifies that a hazardous material be packaged under this section, only the following bulk packagings are authorized, subject to the requirements of subparts A and B of part 173 of this subchapter and the special provisions specified in column 7 of the § 172.101 table.
 
 (a) *IBCs.* IBCs are authorized subject to the conditions and limitations of this section provided:

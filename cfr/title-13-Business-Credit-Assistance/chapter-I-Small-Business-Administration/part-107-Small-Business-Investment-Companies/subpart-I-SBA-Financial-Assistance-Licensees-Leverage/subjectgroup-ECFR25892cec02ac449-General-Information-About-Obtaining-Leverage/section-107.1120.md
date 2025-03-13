@@ -1,7 +1,5 @@
 ##### § 107.1120 General eligibility requirements for Leverage. #####
 
-Link to an amendment published at 89 FR 3548, Jan. 19, 2024.
-
 To be eligible for Leverage, you must:
 
 (a) Demonstrate a need for Leverage, evidenced by your investment activity and a lack of sufficient funds for investment. For your first issuance of Leverage, if you have invested at least 50 percent of your Leverageable Capital, you are presumed to lack sufficient funds for investment.
@@ -18,7 +16,7 @@ To be eligible for Leverage, you must:
 
 (ii) You must demonstrate to SBA's satisfaction that the approval of Leverage will not create or contribute to an unreasonable risk of default or loss to the United States government, based on such measurements of profitability and financial viability as SBA deems appropriate.
 
-(d) For any Leverage draw that would cause you and any other Licensees under Common Control to have aggregate outstanding Leverage in excess of $150 million, certify that none of the Licensees has a condition of Capital Impairment. *See* also § 107.1150(b).
+(d) For any Leverage draw that would cause you and any other Licensees under Common Control to have aggregate outstanding Leverage in excess of the amount permitted under Section 303(b)(2)(A)(ii) of the Act, which, as of June 21, 2018, is $175,000,000, certify that none of the Licensees has a condition of Capital Impairment. See also § 107.1150(b).
 
 (e) For any Leverage request pursuant to § 107.1150(d)(2)(i), certify that at least 50 percent (in dollars) of your Financings made on or after the date of such request will be invested in Small Businesses located in low-income geographic areas.
 
@@ -34,4 +32,4 @@ To be eligible for Leverage, you must:
 
 (k) If you are an Early Stage SBIC, certify in writing that in accordance with § 107.1810(f)(11), at least 50 percent of the aggregate dollar amount of your Financings will be provided to “early stage” companies as defined under the definition of Early Stage SBIC in § 107.50 of this part.
 
-[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5868, Feb. 5, 1998; 64 FR 70996, Dec. 20, 1999; 74 FR 33916, July 14, 2009; 77 FR 25053, Apr. 27, 2012; 79 FR 62824, Oct. 21, 2014; 88 FR 46012, July 18, 2023]
+[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5868, Feb. 5, 1998; 64 FR 70996, Dec. 20, 1999; 74 FR 33916, July 14, 2009; 77 FR 25053, Apr. 27, 2012; 79 FR 62824, Oct. 21, 2014; 88 FR 46012, July 18, 2023; 89 FR 3548, Jan. 19, 2024]

@@ -1,7 +1,5 @@
 ##### § 73.1615 Operation during modification of facilities. #####
 
-Link to an amendment published at 89 FR 7255, Feb. 1, 2024.
-
 When the licensee of an existing AM, FM, TV or Class A TV station is in the process of modifying existing facilities as authorized by a construction permit and determines it is necessary to either discontinue operation or to operate with temporary facilities to continue program service, the following procedures apply:
 
 (a) Licensees holding a construction permit for modification of directional or nondirectional FM, TV or Class A TV or nondirectional AM station facilities may, without specific FCC authority, for a period not exceeding 30 days:
@@ -16,7 +14,7 @@ When the licensee of an existing AM, FM, TV or Class A TV station is in the proc
 
 (2) Operate with reduced power or with parameters at variance from licensed tolerances while maintaining monitoring point field strengths within licensed limits during the period subsequent to the commencement of modifications authorized by the construction permit, or
 
-(3) Operate in a nondirectional mode during the presently licensed hours of directional operation with power reduced to 25% or less of the nominal licensed power, or whatever higher power, not exceeding licensed power, will insure that the radiated field strength specified by the license is not exceeded at any given asimuth for the corresponding hours of directional operation, or
+(3) Operate in a nondirectional mode during the presently licensed hours of directional operation with power reduced to 25% or less of the nominal licensed power, or whatever higher power, not exceeding licensed power, will ensure that the radiated field strength specified by the license is not exceeded at any given azimuth for the corresponding hours of directional operation, or
 
 (4) Operate in a nondirectional mode during daytime hours, if not already so licensed, only as necessary to conduct a required nondirectional proof of performance with a power not to exceed 25% of the maximum power authorized by the construction permit for directional operation, or
 
@@ -26,7 +24,7 @@ When the licensee of an existing AM, FM, TV or Class A TV station is in the proc
 
 (c) Such operation or discontinuance of operation in accordance with the provisions of paragraph (a) or (b) of this section may begin upon notification to the FCC in Washington, DC.
 
-(1) Should it be necessary to continue the procedures in either paragraph (a) or (b) of this section beyond 30 days, an informal letter request signed by the licensee or the licensee's representative must be sent to the FCC in Washington, DC. prior to the 30th day.
+(1) Should it be necessary to continue the procedures in either paragraph (a) or (b) of this section beyond 30 days, a Silent STA application or an Engineering STA application must be filed via LMS.
 
 (2) The license of a broadcasting station that fails to transmit broadcast signals for any consecutive 12-month period expires as a matter of law at the end of that period, notwithstanding any provision, term, or condition of the license or construction permit to the contrary.
 
@@ -38,4 +36,4 @@ When the licensee of an existing AM, FM, TV or Class A TV station is in the proc
 
 (e) The FCC may modify or cancel the temporary operation permitted under the provisions of paragraph (a), (b), (c) or (d) of this section without prior notice or right to hearing.
 
-[50 FR 30947, July 31, 1985, as amended at 61 FR 28767, June 6, 1996; 65 FR 30004, May 10, 2000]
+[50 FR 30947, July 31, 1985, as amended at 61 FR 28767, June 6, 1996; 65 FR 30004, May 10, 2000; 89 FR 7255, Feb. 1, 2024]

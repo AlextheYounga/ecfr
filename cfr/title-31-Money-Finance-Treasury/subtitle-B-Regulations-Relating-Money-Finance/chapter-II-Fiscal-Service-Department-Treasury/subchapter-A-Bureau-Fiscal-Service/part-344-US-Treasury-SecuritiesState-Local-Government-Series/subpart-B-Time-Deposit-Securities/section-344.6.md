@@ -1,5 +1,7 @@
 ##### § 344.6 How do I redeem a Time Deposit security before maturity? #####
 
+Link to an amendment published at 89 FR 15449, Mar. 4, 2024.
+
 (a) *What is the minimum time a security must be held?* (1) Zero percent certificates of indebtedness of 16 to 29 days. A zero percent certificate of indebtedness of 16 to 29 days can be redeemed, at the owner's option, no earlier than 15 days after the issue date.
 
 (2) *Certificates of indebtedness of 30 days or more.* A certificate of indebtedness of 30 days or more can be redeemed, at the owner's option, no earlier than 25 days after the issue date.

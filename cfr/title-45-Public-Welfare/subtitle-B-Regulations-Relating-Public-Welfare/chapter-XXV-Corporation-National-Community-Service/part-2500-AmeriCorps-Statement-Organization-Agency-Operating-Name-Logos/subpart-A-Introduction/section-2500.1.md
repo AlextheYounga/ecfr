@@ -1,0 +1,3 @@
+##### § 2500.1 Creation and authority. #####
+
+The National and Community Service Trust Act of 1993 established the Corporation for National and Community Service (CNCS) as a Federal agency, organized in the form of a Government corporation within the Executive Branch, to administer the national service programs authorized by the National and Community Service Act of 1990. CNCS also administers the national service programs authorized by the Domestic Volunteer Service Act of 1973, as amended, and previously administered by the former Federal ACTION Agency.

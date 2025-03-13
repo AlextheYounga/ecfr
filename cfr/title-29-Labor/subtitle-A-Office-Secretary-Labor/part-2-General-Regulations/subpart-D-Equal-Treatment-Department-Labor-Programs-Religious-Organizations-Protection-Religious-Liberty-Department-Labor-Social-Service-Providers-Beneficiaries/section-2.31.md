@@ -1,5 +1,7 @@
 ##### § 2.31 Definitions. #####
 
+Link to an amendment published at 89 FR 15715, Mar. 4, 2024.
+
 As used in the regulations in this subpart:
 
 (a) The term *Federal financial assistance* means assistance that non-Federal entities (including State and local governments) receive or administer in the form of grants, contracts, loans, loan guarantees, property, cooperative agreements, direct appropriations, or other direct or indirect assistance, but does not include a tax credit, deduction, or exemption, nor the use by a private participant of assistance obtained through direct benefit programs (such as Supplemental Nutrition Assistance Program, social security, pensions). Federal financial assistance may be *direct* or *indirect.*

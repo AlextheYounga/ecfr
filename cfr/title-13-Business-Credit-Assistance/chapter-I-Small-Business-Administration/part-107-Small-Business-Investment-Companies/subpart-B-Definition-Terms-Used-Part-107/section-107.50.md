@@ -1,7 +1,5 @@
 ##### § 107.50 Definition of terms. #####
 
-Link to an amendment published at 89 FR 3547, Jan. 19, 2024.
-
 *Accrual Debenture* means a Debenture issued at face value that accrues interest over its ten-year term, as to which instrument SBA guarantees both the principal and unpaid accrued interest.
 
 *Accrual Small Business Investment Company (“Accrual SBIC”)* means a Section 301(c) Partnership Licensee, licensed under § 107.300 and approved by SBA to issue Accrual Debentures. Accrual SBICs shall be limited to a maximum of one and one quarter tiers of Leverage.
@@ -14,7 +12,9 @@ Link to an amendment published at 89 FR 3547, Jan. 19, 2024.
 
 *Affiliate* or *Affiliates* has the meaning set forth in § 121.103 of this chapter.
 
-*Annual Charge* means an annual fee on Leverage which is payable to SBA by Licensees, subject to the terms and conditions set forth in §§ 107.585 and 107.1130(d).
+*Annual Charge* means:
+
+Annual Charge means an annual fee on the principal amount of outstanding Debentures which is payable to SBA by Licensees, subject to the terms and conditions set forth in §§ 107.585 and 107.1130(d).
 
 *Articles* mean articles of incorporation or charter for a Corporate Licensee and the partnership agreement or certificate for a Partnership Licensee.
 
@@ -236,7 +236,7 @@ Link to an amendment published at 89 FR 3547, Jan. 19, 2024.
 
 (ix) A State, a political subdivision of a State, or an agency or instrumentality of a State or its political subdivision.
 
-(x) An entity whose primary purpose is to manage and invest non-Federal funds on behalf of at least three Institutional Investors described in paragraphs (1)(i) through (1)(ix) of this definition, each of whom must have at least a 10 percent ownership interest in the entity.
+(x) An entity managed by an SEC regulated Registered Investment Adviser in good standing, provided the Licensee's limited partnership agreement (or other governing agreement) contains sufficient provisions to ensure collectability.
 
 (xi) Any other entity that SBA determines to be an Institutional Investor.
 
@@ -254,7 +254,9 @@ Link to an amendment published at 89 FR 3547, Jan. 19, 2024.
 
 *Lending Institution* means a concern that is operating under regulations of a state or Federal licensing, supervising, or examining body, or whose shares are publicly traded and listed on a recognized stock exchange or NASDAQ and which has assets in excess of $500 million; and which, in either case, holds itself out to the public as engaged in the making of commercial and industrial loans and whose lending operations are not for the purpose of financing its own or an Associate's sales or business operations.
 
-*Leverage* means financial assistance provided to a Licensee by SBA, either through the purchase or guaranty of a Licensee's Debentures, and any other SBA financial assistance evidenced by a security of the Licensee. For the Accrual Debenture, Leverage includes principal and accrued unpaid interest.
+*Leverage* means:
+
+Leverage means financial assistance provided to a Licensee by SBA, either through the purchase or guaranty of a Licensee's Debentures, and any other SBA financial assistance evidenced by a security of the Licensee.
 
 *Leverageable Capital* means Regulatory Capital, excluding unfunded commitments.
 
@@ -392,4 +394,4 @@ Link to an amendment published at 89 FR 3547, Jan. 19, 2024.
 
 *Wind-down Plan* has the meaning set forth in § 107.590.
 
-[61 FR 3189, Jan. 31, 1996; 61 FR 41496, Aug. 9, 1996, as amended at 62 FR 11759, Mar. 13, 1997; 63 FR 5865, Feb. 5, 1998; 64 FR 52645, Sept. 30, 1999; 64 FR 70995, Dec. 20, 1999; 69 FR 8098, Feb. 23, 2004; 77 FR 23378, Apr. 19, 2012; 77 FR 25051, Apr. 27, 2012; 79 FR 62823, Oct. 21, 2014; 82 FR 39340, Aug. 18, 2017; 82 FR 52184, Nov. 13, 2017; 88 FR 46005, July 18, 2023]
+[61 FR 3189, Jan. 31, 1996; 61 FR 41496, Aug. 9, 1996, as amended at 62 FR 11759, Mar. 13, 1997; 63 FR 5865, Feb. 5, 1998; 64 FR 52645, Sept. 30, 1999; 64 FR 70995, Dec. 20, 1999; 69 FR 8098, Feb. 23, 2004; 77 FR 23378, Apr. 19, 2012; 77 FR 25051, Apr. 27, 2012; 79 FR 62823, Oct. 21, 2014; 82 FR 39340, Aug. 18, 2017; 82 FR 52184, Nov. 13, 2017; 88 FR 46005, July 18, 2023; 89 FR 3547, Jan. 19, 2024]

@@ -1,148 +1,12 @@
 ##### § 73.622 Digital television table of allotments. #####
 
-Link to an amendment published at 89 FR 7248, Feb. 1, 2024.
+(a) *General.* The following table of TV allotments contains the television channel allotments designated for the listed communities in the United States, its Territories, and possessions. Requests for addition of new TV allotments, or requests to change the channels allotted to a community, must be made in a petition for rule making to amend the Table of TV Allotments. A request to amend the Table of TV Allotments to add an allotment or change the channel of an allotment in the Table will be evaluated for technical acceptability using engineering criteria set forth in §§ 73.617, 73.618, and 73.620. A request to amend the TV table to add a new allotment will be evaluated for technical acceptability using the geographic spacing criteria set forth in § 73.622(k) and the engineering criteria set forth in §§ 73.614, 73.617, 73.618, and 73.620(a) and (d). TV allotments designated with an asterisk are assigned for use by non-commercial educational broadcast stations only. Rules governing noncommercial educational TV stations are contained in § 73.621.
 
-(a) *General.* The following table of allotments contains the digital television (DTV) channel allotments designated for the listed communities in the United States, its Territories, and possessions. Requests for addition of new DTV allotments, or requests to change the channels allotted to a community must be made in a petition for rule making to amend the DTV Table of Allotments. A request to amend the DTV table to change the channel of an allotment in the DTV table will be evaluated for technical acceptability using engineering criteria set forth in § 73.623(c). A request to amend the DTV table to add a new allotment will be evaluated for technical acceptability using the geographic spacing criteria set forth in § 73.623(d). DTV allotments designated with an asterisk are assigned for use by non-commercial educational broadcast stations only. Rules governing noncommercial educational TV stations are contained in § 73.621. Where there is only one technically available channel available in a community, an entity that would be eligible to operate a noncommercial educational broadcast station may, prior to application, initiate a rulemaking proceeding requesting that an unoccupied or new channel in the community be changed or added as reserved only for noncommercial educational broadcasting upon demonstrating that the noncommercial educational proponent would provide a first or second noncommercial educational TV service to 2,000 or more people who constitute 10% of the population within the proposed allocation's noise limited contour.
+(b)-(c) [Reserved]
 
-(1) Petitions requesting the addition of a new allotment must specify a channel in the range of channels 2-36.
+(d) *Reference points and distance computations.* The reference coordinates of a TV allotment shall be the coordinates of the authorized facility. Where such a transmitter site is not available for use as reference coordinates, such as a new allotment, the coordinates shall be those designated in the FCC order modifying the Table of TV Allotments.
 
-(2) Petitions requesting a change in the channel of an initial allotment must specify a channel in the range of channels 2-58.
-
-(b) [Reserved]
-
-(c)(1) *Availability of channels.* Applications may be filed to construct DTV broadcast stations only on the channels designated in the DTV Table of Allotments set forth in paragraph (b) of this section, and only in the communities listed therein. Applications that fail to comply with this requirement, whether or not accompanied by a petition to amend the DTV Table, will not be accepted for filing. However, applications specifying channels that accord with publicly announced FCC Orders changing the DTV Table of Allotments will be accepted for filing even if such applications are tendered before the effective dates of such channel change. An application for authority to construct a DTV station on an allotment in the initial DTV table may only be filed by the licensee or permittee of the analog TV station with which that initial allotment is paired, as set forth in Appendix B of the *Memorandum Opinion and Order on Reconsideration of the Sixth Report and Order* in MM Docket 87-268, FCC 98-24 (*Memorandum Opinion and Order*) adopted January 29, 1998. Copies of the Memorandum Opinion and Order are available for public inspection through the Federal Communications Commission's Reference Information Center. This document is also available on the FCC homepage at *https://www.fcc.gov.* Applications may also be filed to implement an exchange of channel allotments between two or more licensees or permittees of analog TV stations in the same community, the same market, or in adjacent markets provided, however, that the other requirements of this section and § 73.623 are met with respect to each such application.
-
-(2) Notwithstanding paragraph (c)(1) of this section, an application may be filed for a channel or community not listed in the DTV Table of Allotments if it is consistent with the rules and policies established in the Third Report and Order in WT Docket 99-168 (FCC 01-25), adopted January 18, 2001. Where such a request is approved, the Media Bureau will change the DTV Table of Allotments to reflect that approval.
-
-(d) *Reference points and distance computations.* (1) The reference coordinates of a DTV allotment included in the initial DTV Table of Allotments are the coordinates of the authorized transmitting antenna site of the associated analog TV station, as set forth in Appendix B of the *Memorandum Opinion and Order* (referenced above). An application for authority to construct or modify DTV facilities on such an allotment may specify an alternate location for the DTV transmitting antenna that is within 5 kilometers of the DTV allotment reference coordinates without consideration of electromagnetic interference to other DTV or analog TV broadcast stations, allotments or applications, provided the application complies with paragraph (f)(2) of this section. Location of the transmitting antenna of such a station at a site more than 5 kilometers from the DTV allotment reference coordinates must comply with the provisions of section 73.623(c). In the case where a DTV station has been granted authority to construct more than 5 kilometers from its reference coordinates pursuant to section 73.623(c), and its authorized coverage area extends in any azimuthal direction beyond the DTV coverage area determined for the DTV allotment reference facilities, then the coordinates of such authorized site are to be used in addition to the coordinates of the DTV allotment to determine protection from new DTV allotments pursuant to § 73.623(d) and from subsequent DTV applications filed pursuant to § 73.623(c).
-
-(2) The reference coordinates of a DTV allotment not included in the initial DTV Table of Allotments shall be the authorized transmitter site, or, where such a transmitter site is not available for use as a reference point, the coordinates as designated in the FCC order modifying the DTV Table of Allotments.
-
-(e) *DTV Service Areas.* (1) The service area of a DTV station is the geographic area within the station's noise-limited F(50,90) contour where its signal strength is predicted to exceed the noise-limited service level. The noise-limited contour is the area in which the predicted F(50,90) field strength of the station's signal, in dB above 1 microvolt per meter (dBu) as determined using the method in § 73.625(b) exceeds the following levels (these are the levels at which reception of DTV service is limited by noise):
-
-|              |dBu|
-|--------------|---|
-| Channels 2-6 |28 |
-|Channels 7-13 |36 |
-|Channels 14-36|41 |
-
-(2) Within this contour, service is considered available at locations where the station's signal strength, as predicted using the terrain dependent Longley-Rice point-to-point propagation model, exceeds the levels above. Guidance for evaluating coverage areas using the Longley-Rice methodology is provided in *OET Bulletin No. 69.* Copies of this document are available on the FCC's website. See *https://www.fcc.gov/general/oet-bulletins-line.*
-
-Note to paragraph (e)(2):
-
-During the transition, in cases where the assigned power of a UHF DTV station in the initial DTV Table is 1000 kW, the Grade B contour of the associated analog television station, as authorized on April 3, 1997, shall be used instead of the noise-limited contour of the DTV station in determining the DTV station's service area. In such cases, the DTV service area is the geographic area within the station's analog Grade B contour where its DTV signal strength is predicted to exceed the noise-limited service level, *i.e.,* 41 dB, as determined using the Longley-Rice methodology.
-
-(3) For purposes of determining whether interference is caused to a DTV station's service area, the maximum technical facilities, *i.e.,* antenna height above average terrain (antenna HAAT) and effective radiated power (ERP), specified for the station's allotment are to be used in determining its service area.
-
-(f)(1) [Reserved]
-
-(2) An application for authority to construct or modify DTV facilities will not be subject to further consideration of electromagnetic interference to other DTV or analog TV broadcast stations, allotments or applications, provided that:
-
-(i) The proposed ERP in each azimuthal direction is equal to or less than the reference ERP in that direction; and
-
-(ii) The proposed antenna HAAT is equal to or less than the reference antenna HAAT or the proposed antenna HAAT exceeds the reference antenna HAAT by 10 meters or less and the reference ERP in paragraph (f)(2)(i) of this section is adjusted in accordance with paragraph (f)(3) of this section; and
-
-(iii) The application complies with the location provisions in paragraph (d)(1) of this section.
-
-(3)(i) A DTV station may increase its antenna HAAT by up to 10 meters from that specified in Appendix B if it reduces its DTV power to a level at or below the level of adjusted DTV power computed in the following formula:
-
-ERP adjustment in dB = 20log(H1/H2)Where H1 = Reference antenna HAAT specified in the DTV Table, and H2 = Actual antenna HAAT
-
-(ii) Alternatively, a DTV application that specifies an antenna HAAT within 25 meters below that specified in Appendix B may adjust its power upward to a level at or below the adjusted DTV power in accordance with the formula in paragraph (f)(3)(i) of this section without an interference showing. For a proposed antenna more than 25 meters below the reference antenna HAAT, the DTV station may increase its ERP up to the level permitted for operation with an antenna that is 25 meters below the station's reference antenna HAAT.
-
-(4) UHF DTV stations may request an increase in power, up to a maximum of 1000 kW ERP, to enhance service within their authorized service area.
-
-(5) Licensees and permittees assigned a DTV channel in the initial DTV Table of Allotments may request an increase in either ERP in some azimuthal direction or antenna HAAT, or both, that exceed the initial technical facilities specified for the allotment in Appendix B of the *Memorandum Opinion and Order* (referenced in paragraph (c) of this section), up to the maximum permissible limits on DTV power and antenna height set forth in paragraph (f)(6), (f)(7), or (f)(8) of this section, as appropriate, or up to that needed to provide the same geographic coverage area as the largest station within their market, whichever would allow the largest service area. Such requests must be accompanied by a technical showing that the increase complies with the technical criteria in § 73.623(c), and thereby will not result in new interference exceeding the *de minimis* standard set forth in that section, or statements agreeing to the change from any co-channel or adjacent channel stations that might be affected by potential new interference, in accordance with § 73.623(f). In the case where a DTV station has been granted authority to construct pursuant to § 73.623(c), and its authorized coverage area extends in any azimuthal direction beyond the DTV coverage area determined for the DTV allotment reference facilities, then the authorized DTV facilities are to be used in addition to the assumed facilities of the initial DTV allotment to determine protection from new DTV allotments pursuant to § 73.623(d) and from subsequent DTV applications filed pursuant to § 73.623(c). The provisions of this paragraph regarding increases in the ERP or antenna height of DTV stations on channels in the initial DTV Table of Allotments shall also apply in cases where the licensee or permittee seeks to change the station's channel as well as alter its ERP and antenna HAAT. Licensees and permittees are advised that where a channel change is requested, it may, in fact, be necessary in specific cases for the station to operate with reduced power, a lower antenna, or a directional antenna to avoid causing new interference to another station.
-
-(6) A DTV station that operates on a channel 2-6 allotment created subsequent to the initial DTV Table will be allowed a maximum ERP of 10 kW if its antenna HAAT is at or below 305 meters and it is located in Zone I or a maximum ERP of 45 kW if its antenna HAAT is at or below 305 meters and it is located in Zone II or Zone III. A DTV station that operates on a channel 2-6 allotment included in the initial DTV Table of Allotments may request an increase in power and/or antenna HAAT up to these maximum levels, provided the increase also complies with the provisions of paragraph (f)(5) of this section.
-
-(i) At higher HAAT levels, such DTV stations will be allowed to operate with lower maximum ERP levels in accordance with the following table and formulas (the allowable maximum ERP for intermediate values of HAAT is determined using linear interpolation based on the units employed in the table):
-
-Maximum Allowable ERP and Antenna Height for DTV Stations In Zones II or III on Channels 2-6
-
-|Antenna HAAT (meters)|ERP (kW)|
-|---------------------|--------|
-|         610         |   10   |
-|         580         |   11   |
-|         550         |   12   |
-|         520         |   14   |
-|         490         |   16   |
-|         460         |   19   |
-|         425         |   22   |
-|         395         |   26   |
-|         365         |   31   |
-|         335         |   37   |
-|         305         |   45   |
-
-(ii) For DTV stations located in Zone I that operate on channels 2-6 with an HAAT that exceeds 305 meters, the allowable maximum ERP expressed in decibels above 1 kW (dBk) is determined using the following formula, with HAAT expressed in meters:
-
-ERPmax = 92.57-33.24\*log10(HAAT)
-
-(iii) For DTV stations located in Zone II or III that operate on channels 2-6 with an HAAT that exceeds 610 meters, the allowable maximum ERP expressed in decibels above 1 kW (dBk) is determined using the following formula, with HAAT expressed in meters:
-
-ERPmax = 57.57-17.08\*log10(HAAT)
-
-(7) A DTV station that operates on a channel 7-13 allotment created subsequent to the initial DTV Table will be allowed a maximum ERP of 30 kW if its antenna HAAT is at or below 305 meters and it is located in Zone I or a maximum ERP of 160 kW if its antenna HAAT is at or below 305 meters and it is located in Zone II or Zone III. A DTV station that operates on a channel 7-13 allotment included in the initial DTV Table of Allotments may request an increase in power and/or antenna HAAT up to these maximum levels, provided the increase also complies with the provisions of paragraph (f)(5) of this section.
-
-(i) At higher HAAT levels, such DTV stations will be allowed to operate with lower maximum ERP levels in accordance with the following table and formulas (the allowable maximum ERP for intermediate values of HAAT is determined using linear interpolation based on the units employed in the table):
-
-Maximum Allowable ERP and Antenna Height for DTV Stations In Zones II or III on Channels 7-13
-
-|Antenna HAAT (meters)|ERP (kW)|
-|---------------------|--------|
-|         610         |   30   |
-|         580         |   34   |
-|         550         |   40   |
-|         520         |   47   |
-|         490         |   54   |
-|         460         |   64   |
-|         425         |   76   |
-|         395         |   92   |
-|         365         |  110   |
-|         335         |  132   |
-|         305         |  160   |
-
-(ii) For DTV stations located in Zone I that operate on channels 7-13 with an HAAT that exceeds 305 meters, the allowable maximum ERP expressed in decibels above 1 kW (dBk) is determined using the following formula, with HAAT expressed in meters:
-
-ERPmax = 97.35-33.24\*log10(HAAT)
-
-(iii) For DTV stations located in Zone II or III that operate on channels 7-13 with an HAAT that exceeds 610 meters, the allowable maximum ERP expressed in decibels above 1 kW (dBk) is determined using the following formula, with HAAT expressed in meters:
-
-ERPmax = 62.34-17.08\*log10(HAAT)
-
-(8) A DTV station that operates on a channel 14-59 allotment created subsequent to the initial DTV Table will be allowed a maximum ERP of 1000 kW if their antenna HAAT is at or below 365 meters. A DTV station that operates on a channel 14-59 allotment included in the initial DTV Table of Allotments may request an increase in power and/or antenna HAAT up to these maximum levels, provided the increase also complies with the provisions of paragraph (f)(5) of this section.
-
-(i) At higher HAAT levels, such DTV stations will be allowed to operates with lower maximum ERP levels in accordance with the following table and formulas (the allowable maximum ERP for intermediate values of HAAT is determined using linear interpolation based on the units employed in the table):
-
-Maximum Allowable ERP and Antenna Height for DTV Stations on Channels 14-59, All Zones
-
-|Antenna HAAT (meters)|ERP (kW)|
-|---------------------|--------|
-|         610         |  316   |
-|         580         |  350   |
-|         550         |  400   |
-|         520         |  460   |
-|         490         |  540   |
-|         460         |  630   |
-|         425         |  750   |
-|         395         |  900   |
-|         365         |  1000  |
-
-(ii) For DTV stations located in Zone I, II or III that operate on channels 14-59 with an HAAT that exceeds 610 meters, the allowable maximum ERP expressed in decibels above 1 kW (dBk) is determined using the following formula, with HAAT expressed in meters:
-
-ERPmax = 72.57-17.08\*log10(HAAT)
-
-(g)(1) [Reserved]
-
-(2) Unless it conflicts with operation complying with paragraph (g)(1) of this section, where a low power television station or TV translator station is operating on the lower adjacent channel within 32 km of the DTV station and notifies the DTV station that it intends to minimize interference by precisely maintaining its carrier frequencies, the DTV station shall cooperate in locking its carrier frequency to a common reference frequency and shall be responsible for any costs relating to its own transmission system in complying with this provision.
-
-(h)(1) The power level of emissions on frequencies outside the authorized channel of operation must be attenuated no less than the following amounts below the average transmitted power within the authorized channel. In the first 500 kHz from the channel edge the emissions must be attenuated no less than 47 dB. More than 6 MHz from the channel edge, emissions must be attenuated no less than 110 dB. At any frequency between 0.5 and 6 MHz from the channel edge, emissions must be attenuated no less than the value determined by the following formula:
-
-Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz from the edge of the channel.
-
-(2) This attenuation is based on a measurement bandwidth of 500 kHz. Other measurement bandwidths may be used as long as appropriate correction factors are applied. Measurements need not be made any closer to the band edge than one half of the resolution bandwidth of the measuring instrument. Emissions include sidebands, spurious emissions and radio frequency harmonics. Attenuation is to be measured at the output terminals of the transmitter (including any filters that may be employed). In the event of interference caused to any service, greater attenuation may be required.
-
-(i) [Reserved]
+(e)-(i) [Reserved]
 
 (j) *Table of TV Allotments.*
 
@@ -791,7 +655,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |   Oklahoma City    |      7, \*13, 15, 18, 19, 23, 24, 25, 27, 33      |
 |      Okmulgee      |                        28                         |
 |      Shawnee       |                        29                         |
-|       Tulsa        |          8, 10, \*11, 12, 16, 22, 26, 34          |
+|       Tulsa        |          8, \*11, 12, 14, 16, 22, 26, 34          |
 |      Woodward      |                        35                         |
 |       Oregon       |                                                   |
 |        Bend        |                   \*11, 18, 21                    |
@@ -1064,5 +928,23 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 | US Virgin Islands  |                                                   |
 |  Charlotte Amalie  |                   17, 21, \*36                    |
 |   Christiansted    |                      20, 23                       |
+
+(k) *Minimum geographic spacing requirements for new TV allotments.* No petition to add a new channel to the Table of TV Allotments will be accepted unless it shows compliance with the requirements of this paragraph.
+
+(1) Requests filed pursuant to this paragraph must demonstrate compliance with the principal community coverage requirements of § 73.618.
+
+(2) Requests filed pursuant to this paragraph must meet the following requirements for geographic spacing with regard to all other TV stations and allotments:
+
+(i) For VHF channels 2-13 in Zone I, co-channel allotments must be separated by 244.6 km, and no adjacent-channel allotments are permitted between 20 km and 110 km.
+
+(ii) For UHF channels 14-36 in Zone I, co-channel allotments must be separated by 196.3 km, and no adjacent-channel allotments are permitted between 24 km and 110 km.
+
+(iii) For VHF channels 2-13 in Zones II and III, co-channel allotments must be separated by 273.6 km, and no adjacent-channel allotments are permitted between 23 km and 110 km.
+
+(iv) For UHF channels 14-36 in Zones II and III, co-channel allotments must be separated by 223.7 km, and no adjacent-channel allotments are permitted between 24 km and 110 km.
+
+(3) Zones are defined in § 73.609. The minimum distance separation between a TV station in one zone and TV station in another zone shall be that of the zone requiring the lower separation.
+
+(4) Due to the frequency spacing that exists between Channels 4 and 5, between Channels 6 and 7, and between Channels 13 and 14, the minimum geographic spacing requirements specified in paragraph (k)(2) of this section shall not be applicable to these pairs of channels (§ 73.603(a)).
 
 [62 FR 26712, May 14, 1997]Editorial Note:For Federal Register citations affecting § 73.622, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,5 +1,7 @@
 ##### § 344.9 How do I redeem a Demand Deposit security? #####
 
+Link to an amendment published at 89 FR 15450, Mar. 4, 2024.
+
 (a) *When must I notify Fiscal Service to redeem a security?* A Demand Deposit security can be redeemed at the owner's option, if Fiscal Service receives a request for redemption not less than:
 
 (1) One business day before the requested redemption date for redemptions of $10 million or less; and

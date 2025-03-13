@@ -1,5 +1,7 @@
 ##### § 2.37 Effect of DOL support on Title VII employment nondiscrimination requirements and on other existing statutes. #####
 
+Link to an amendment published at 89 FR 15717, Mar. 4, 2024.
+
 A religious organization's exemption from the Federal prohibition on employment discrimination on the basis of religion, set forth in section 702(a) of the Civil Rights Act of 1964, 42 U.S.C. 2000e-1, is not forfeited when the organization receives direct or indirect DOL support. An organization qualifying for such exemption may make its employment decisions on the basis of an applicant's or employee's acceptance of or adherence to the religious requirements or standards of the organization, but not on the basis of any other protected characteristic. Some DOL programs, however, were established through Federal statutes containing independent statutory provisions requiring that recipients refrain from discriminating on the basis of religion. Accordingly, to determine the scope of any applicable requirements, including in light of any additional constitutional or statutory protections for employment decisions that may apply, recipients and potential recipients should consult with the appropriate DOL program official or with the Civil Rights Center, U.S. Department of Labor, 200 Constitution Avenue NW, Room N4123, Washington, DC 20210, (202) 693-6500. Individuals with hearing or speech impairments may access this telephone number via TTY by calling the toll-free Federal Information Relay Service at 1-800-877-8339.
 
 [85 FR 82141, Dec. 17, 2020]

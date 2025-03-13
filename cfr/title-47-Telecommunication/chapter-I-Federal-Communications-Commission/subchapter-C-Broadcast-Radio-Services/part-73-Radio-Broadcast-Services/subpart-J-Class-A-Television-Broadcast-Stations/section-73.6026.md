@@ -1,7 +1,27 @@
 ##### § 73.6026 Broadcast regulations applicable to Class A television stations. #####
 
-Link to an amendment published at 89 FR 7264, Feb. 1, 2024.
+##### § 73.6026 Broadcast regulations applicable to Class A television stations. #####
 
 The following rules are applicable to Class A television stations:
 
-§ 73.603 Numerical designation of television channels.§ 73.624(b), (c) and (g) Digital television broadcast stations. Section 73.624(b) will apply only to the extent that such stations must also transmit at least one over-the-air video program signal at no direct charge to viewers of the digital Class A station§ 73.635 Use of common antenna site.§ 73.642 Subscription TV service.§ 73.643 Subscription TV operating requirements.§ 73.644 Subscription TV transmission systems.§ 73.646 Telecommunications Service on the Vertical Blanking Interval and in the Visual Signal.§ 73.653 Operation of TV aural and visual transmitters.§ 73.658 Affiliation agreements and network program practice; territorial exclusivity in non-network program arrangements.§ 73.664 Determining operating power.§ 73.665 Use of TV aural baseband subcarriers.§ 73.667 TV subsidiary communications services.§ 73.669 TV stereophonic aural and multiplex subcarrier operation.§ 73.670 Commercial limits in children's programs.§ 73.671 Educational and informational programming for children.§ 73.673 Public information initiatives regarding educational and informational programming for children.§ 73.688 Indicating instruments.§ 73.691 Visual modulation monitoring.§ 73.3615(a) and (g) Ownership reports.[66 FR 21690, May 1, 2001, as amended at 74 FR 25168, May 27, 2009]
+(a) Section 73.603 Numerical designation of television channels.
+
+(b) Section 73.624(b), (c), and (g) Television broadcast stations.
+
+(c) Section 73.658 Affiliation agreements and network program practice; territorial exclusivity in non-network program arrangements.
+
+(d) Section 73.664 Determining operating power.
+
+(e) Section 73.670 Commercial limits in children's programs.
+
+(f) Section 73.671 Educational and informational programming for children.
+
+(g) Section 73.673 Public information initiatives regarding educational and informational programming for children.
+
+(h) Section 73.688 Indicating instruments.
+
+(i) Section 73.1030 Notifications concerning interference to radio astronomy, research and receiving installations.
+
+(j) Section 73.3615(a) and (g) Ownership reports.
+
+[89 FR 7264, Feb. 1, 2024]

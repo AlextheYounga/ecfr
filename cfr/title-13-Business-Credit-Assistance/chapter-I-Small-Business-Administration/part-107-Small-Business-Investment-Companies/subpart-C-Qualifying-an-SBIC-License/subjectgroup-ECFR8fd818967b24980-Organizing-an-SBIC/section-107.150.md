@@ -1,7 +1,5 @@
 ##### § 107.150 Management-ownership diversification requirement. #####
 
-Link to an amendment published at 89 FR 3547, Jan. 19, 2024.Link to a correction published at 89 FR 5421, Jan. 29, 2024.
-
 (a) *Diversification requirement.* (Also referenced in this part as the “diversity requirement.”) You must satisfy the requirements in paragraphs (b), (c) and (d) of this section:
 
 (1) In order to obtain an SBIC license (unless you do not plan to obtain Leverage),
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 3547, Jan. 19, 2024.Link to a correction
 
 (b) *Percentage ownership requirement.* (1) *General rule.* Except as provided in paragraph (b)(2) of this section, no Person or group of Persons who are Affiliates of one another may own, directly or indirectly, more than 70 percent of your Regulatory Capital or your Leverageable Capital.
 
-(2) *Exception.* An investor that is a Traditional Investment Company, as determined by SBA, may own more than 70% of a Licensee's Regulatory Capital and Leverageable Capital. A Traditional Investment Company may also serve as the management company of an SBIC owning and control more than 70 percent of the Licensee's Regulatory Capital and Leverageable Capital. A non-profit entity which is a Traditional Investment Company may only serve as the management company of a Licensee and, unlike other Traditional Investment Companies, is limited to no more than 70% of the Licensee's Regulatory and Leverageable Capital. A Licensee must be a for-profit entity. In determining whether a firm is a Traditional Investment Company for purposes of this section, SBA will also consider:
+(2) *Exception.* An investor that is a traditional investment company, as determined by SBA, may own and control more than 70 percent of your Regulatory Capital and your Leverageable Capital. For purposes of this section, a traditional investment company must be a non-profit entity, or a professionally managed firm organized exclusively to pool capital from more than one source for the purpose of investing in businesses that are expected to generate substantial returns to the firm's investors. In determining whether a firm is a traditional investment company for purposes of this section, SBA will also consider:
 
 (i) The degree to which the managers of the firm are unrelated to and unaffiliated with the investors in the firm or non-profit entity.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 89 FR 3547, Jan. 19, 2024.Link to a correction
 
 (2) Re-establish diversity within six months. For the consequences of failure to re-establish diversity, see §§ 107.1810(g) and 107.1820(f).
 
-[65 FR 71055, Nov. 29, 2000, as amended at 88 FR 46007, July 18, 2023]
+[65 FR 71055, Nov. 29, 2000, as amended at 88 FR 46007, July 18, 2023; 89 FR 3547, Jan. 19, 2024]

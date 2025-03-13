@@ -1,7 +1,5 @@
 ##### § 107.855 Interest rate ceiling and limitations on fees charged to Small Businesses (“Cost of Money”). #####
 
-Link to an amendment published at 89 FR 3548, Jan. 19, 2024.
-
 “Cost of Money” means the interest and other consideration that you receive from a Small Business. Subject to lower ceilings prescribed by local law, the Cost of Money to the Small Business must not exceed the ceiling determined under this section.
 
 (a) *Financings to which the Cost of Money rules apply.* This section applies to all Loans and Debt Securities. As required by § 107.800(b), you must include as Debt Securities any equity interests with redemption provisions that do not meet the restrictions in § 107.850.
@@ -90,8 +88,8 @@ Link to an amendment published at 89 FR 3548, Jan. 19, 2024.
 
 (1) Beginning with the date of the first disbursement (“period zero”), identify your cash inflows and cash outflows for each period of the Financing. The appropriate period to use (such as years, quarters, or months) depends on how you have structured the disbursements and payments.
 
-(2) Discount the cash flows back to the first disbursement date using the Cost of Money ceiling from paragraph (d) of this section as the discount rate.
+(2) Discount the cash flows back to the first disbursement date using the Cost of Money ceiling from paragraph (c) of this section as the discount rate.
 
 (3) If the result is zero or less, the Financing is within the Cost of Money ceiling; if it is greater than zero, the Financing exceeds the Cost of Money ceiling.
 
-[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5867, Feb. 5, 1998; 64 FR 52646, Sept. 30, 1999; 65 FR 69432, Nov. 17, 2000; 77 FR 20294, Apr. 4, 2012]
+[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5867, Feb. 5, 1998; 64 FR 52646, Sept. 30, 1999; 65 FR 69432, Nov. 17, 2000; 77 FR 20294, Apr. 4, 2012; 89 FR 3548, Jan. 19, 2024]

@@ -1,3 +1,39 @@
-##### § 73.619 xxx #####
+##### § 73.619 Contours and service areas. #####
 
-Link to an amendment published at 89 FR 7246, Feb. 1, 2024.
+(a) *Purposes of the field strength contours.* The field strength contours will be considered for the following purposes only:
+
+(1) In the estimation of coverage resulting from the selection of a particular transmitting antenna site by an applicant for a TV station.
+
+(2) In connection with problems of coverage arising out of application of § 73.3555.
+
+(3) In determining compliance with § 73.618(a) concerning the minimum field strength to be provided over the principal community to be served.
+
+(b) *Determining coverage.* (1) In predicting the distance to the field strength contours, the F (50,50) field strength charts (Figures 9, 10 and 10b of § 73.699) and the F (50,10) field strength charts (Figures 9a, 10a and 10c of § 73.699) shall be used. To use the charts to predict the distance to a given F (50,90) contour, the following procedure is used: Convert the effective radiated power in kilowatts for the appropriate azimuth into decibel value referenced to 1 kW (dBk). Subtract the power value in dBk from the contour value in dBu. Note that for power less than 1 kW, the difference value will be greater than the contour value because the power in dBk is negative. Locate the difference value obtained on the vertical scale at the left edge of the appropriate F (50,50) chart for the TV station's channel. Follow the horizontal line for that value into the chart to the point of intersection with the vertical line above the height of the antenna above average terrain for the appropriate azimuth located on the scale at the bottom of the chart. If the point of intersection does not fall exactly on a distance curve, interpolate between the distance curves below and above the intersection point. The distance values for the curves are located along the right edge of the chart. Using the appropriate F (50,10) chart for the DTV station's channel, locate the point where the distance coincides with the vertical line above the height of the antenna above average terrain for the appropriate azimuth located on the scale at the bottom of the chart. Follow a horizontal line from that point to the left edge of the chart to determine the F (50,10) difference value. Add the power value in dBk to this difference value to determine the F (50,10) contour value in dBu. Subtract the F (50,50) contour value in dBu from this F (50,10) contour value in dBu. Subtract this difference from the F (50,50) contour value in dBu to determine the F (50,90) contour value in dBu at the pertinent distance along the pertinent radial.
+
+(2)(i) The effective radiated power to be used is that radiated at the vertical angle corresponding to the depression angle between the transmitting antenna center of radiation and the radio horizon as determined individually for each azimuthal direction concerned. The depression angle is based on the difference in elevation of the antenna center of radiation above the average terrain and the radio horizon, assuming a smooth spherical earth with a radius of 8,495.5 kilometers (5,280 miles) and shall be determined by the following equation:
+
+Equation 1 to Paragraph (b)(2)(i)A = 0.0277 × √HWhere:A is the depression angle in degrees.H is the height in meters of the transmitting antenna radiation center above average terrain of the 3.2-16.1 kilometers (2-10 miles) sector of the pertinent radial.
+
+(ii) This equation is empirically derived for the limited purpose specified here of determining distance to filed strength contours for coverage. Its use for any other purpose may be inappropriate.
+
+(3) Applicants for new TV stations or changes in the facilities of existing TV stations must submit to the FCC a showing as to the location of their stations' or proposed stations' contour. This showing is to include a map showing this contour, except where applicants have previously submitted material to the FCC containing such information and it is found upon careful examination that the contour locations indicated therein would not change, on any radial, when the locations are determined under this section. In the latter cases, a statement by a qualified engineer to this effect will satisfy this requirement and no contour maps need be submitted.
+
+(4) The antenna height to be used with these charts is the height of the radiation center of the antenna above the average terrain along the radial in question. In determining the average elevation of the terrain, the elevations between 3.2-16.1 kilometers (2-10 miles) from the antenna site are employed. Path profiles shall be determined for 8 radials beginning at the antenna site and extending 16.1 kilometers (10 miles) therefrom. The radials should be determined for each 45 degrees of azimuth starting with True North. 10 points per kilometer of elevation (uniformly spaced) should be used for each radial. It is not necessary to take the curvature of the earth into consideration in this procedure, as this factor is taken care of in the charts showing signal strengths. The average elevation of the 12.9 kilometer (8 miles) distance between 3.2-16.1 kilometers (2-10 miles) from the antenna site should then be determined from the path profile for each radial. In directions where the terrain is such that negative antenna heights or heights below 30.5 meters (100 feet) for the 3.2 to 16.1 kilometers (2 to 10 mile) sector are obtained, an assumed height of 30.5 meters (100 feet) shall be used for the prediction of coverage. Actual calculated values should be used for computation of height above average terrain.
+
+(5) In the preparation of the path profiles previously described, and in determining the location and height above sea level of the antenna site, the elevation or contour intervals shall be taken from a high quality bald earth terrain map or dataset such as the United States Geological Survey Topographic Quadrangle Maps or the National Elevation Dataset. If a dataset is used, the data must be processed for intermediate points along each radial using linear interpolation techniques.
+
+(6) It is anticipated that many of these calculations may be done using computer software and with computerized datasets. If software or datasets besides those officially adopted by the FCC are utilized, the alternate software or data must be identified.
+
+(c) *TV Service Areas.* (1) The service area of a TV station is the geographic area within the station's noise-limited F(50,90) contour where its signal strength is predicted to exceed the noise-limited service level. The noise-limited contour is the area in which the predicted F(50,90) field strength of the station's signal, in dB above 1 microvolt per meter (dBu) as determined using the method in § 73.619(b) exceeds the following levels (these are the levels at which reception of TV service is limited by noise):
+
+|              |dBu|
+|--------------|---|
+| Channels 2-6 |28 |
+|Channels 7-13 |36 |
+|Channels 14-36|41 |
+
+(2) Within this contour, service is considered available at locations where the station's signal strength, as predicted using the terrain dependent Longley-Rice point-to-point propagation model, exceeds the levels in table 1 to paragraph (c)(1). Guidance for evaluating coverage areas using the Longley-Rice methodology is provided in *OET Bulletin No. 69.* For availability of OET Bulletin No. 69 (which is incorporated by reference elsewhere in this part), contact FCC (see § 73.8000 for contact information).
+
+(d) *Protected facilities of an allotment.* The protected facilities of a TV allotment shall be the facilities (effective radiated power, antenna height and antenna directional radiation pattern, if any) authorized by a construction permit or license, or, where such an authorization is not available for establishing reference facilities, the facilities designated in the FCC order creating or modifying the Table of TV Allotments.
+
+[89 FR 7246, Feb. 1, 2024]

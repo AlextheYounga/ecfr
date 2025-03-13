@@ -1,7 +1,5 @@
 ##### § 107.503 Licensee's adoption of an approved valuation policy. #####
 
-Link to an amendment published at 89 FR 3547, Jan. 19, 2024.
-
 (a) *Valuation guidelines.* You must prepare, document and report the valuations of your Loans and Investments in accordance with the Valuation Guidelines for SBICs issued by SBA. These guidelines may be obtained from the SBIC website.
 
 (b) *SBA approval of valuation policy.* You must have a written valuation policy approved by SBA for use in determining the value of your Loans and Investments. You must either:
@@ -18,10 +16,10 @@ Link to an amendment published at 89 FR 3547, Jan. 19, 2024.
 
 (3) On a case-by-case basis, SBA may require you to perform valuations more frequently.
 
-(4) You must report material adverse changes in valuations at least quarterly, within forty-five days following the close of the quarter.
+(4) You must report material adverse changes in valuations at least quarterly, within 30 days following the close of the quarter.
 
 (e) *Review of valuations by independent public accountant.* (1) For valuations performed as of the end of your fiscal year, your independent public accountant must review your valuation procedures and the implementation of such procedures, including adequacy of documentation.
 
 (2) The independent public accountant's report on your audited annual financial statements (SBA Form 468) must include a statement that your valuations were prepared in accordance with your approved valuation policy established in accordance with section 310(d)(2) of the Act.
 
-[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5866, Feb. 5, 1998; 82 FR 39340, Aug. 18, 2017; 88 FR 46009, July 18, 2023]
+[61 FR 3189, Jan. 31, 1996, as amended at 63 FR 5866, Feb. 5, 1998; 82 FR 39340, Aug. 18, 2017; 88 FR 46009, July 18, 2023; 89 FR 3547, Jan. 19, 2024]

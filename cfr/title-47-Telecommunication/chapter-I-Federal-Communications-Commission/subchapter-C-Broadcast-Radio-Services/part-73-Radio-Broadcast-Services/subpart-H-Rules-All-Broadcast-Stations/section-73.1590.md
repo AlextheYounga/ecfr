@@ -1,7 +1,5 @@
 ##### § 73.1590 Equipment performance measurements. #####
 
-Link to an amendment published at 89 FR 7255, Feb. 1, 2024.
-
 (a) The licensee of each AM, FM, TV and Class A TV station, except licensees of Class D non-commercial educational FM stations authorized to operate with 10 watts or less output power, must make equipment performance measurements for each main transmitter as follows:
 
 (1) Upon initial installation of a new or replacement main transmitter.
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 7255, Feb. 1, 2024.
 
 (4) Installation of FM subcarrier or stereophonic transmission equipment pursuant to § 73.295, § 73.297, § 73.593 or § 73.597.
 
-(5) Installation of TV stereophonic or subcarrier transmission equipment pursuant to §§ 73.669 and 73.1690.
+(5) [Reserved]
 
 (6) Annually, for AM stations, with not more than 14 months between measurements.
 
@@ -22,11 +20,11 @@ Link to an amendment published at 89 FR 7255, Feb. 1, 2024.
 
 (c) TV visual equipment performance measurements must be made with the equipment adjusted for normal program operation at the transmitter antenna sampling port to yield the following information:
 
-(1) Field strength or voltage of the lower side-band for a modulating frequency of 1.25 MHz or greater, (including 3.58 MHz for color), and of the upper side-band for a modulating frequency of 4.75 MHz or greater.
+(1) [Reserved]
 
 (2) Data showing that the waveform of the transmitted signal conforms to that specified by the standards for TV transmissions.
 
-(3) Photographs of a test pattern taken from a receiver or monitor connected to the transmitter output.
+(3) [Reserved]
 
 (4) Data showing envelope delay characteristics of the radiated signal.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 89 FR 7255, Feb. 1, 2024.
 
 (d) The data required by paragraphs (b) and (c) of this section, together with a description of the equipment and procedure used in making the measurements, signed and dated by the qualified person(s) making the measurements, must be kept on file at the transmitter or remote control point for a period of 2 years, and on request must be made available during that time to duly authorized representatives of the FCC.
 
-[47 FR 8589, Mar. 1, 1982, as amended at 51 FR 18450, May 20, 1986; 65 FR 30004, May 10, 2000]
+[47 FR 8589, Mar. 1, 1982, as amended at 51 FR 18450, May 20, 1986; 65 FR 30004, May 10, 2000; 89 FR 7255, Feb. 1, 2024]

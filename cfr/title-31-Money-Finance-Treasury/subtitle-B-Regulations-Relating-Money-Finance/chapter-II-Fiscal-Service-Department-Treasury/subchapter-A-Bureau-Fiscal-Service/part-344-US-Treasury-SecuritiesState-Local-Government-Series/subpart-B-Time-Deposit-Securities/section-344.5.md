@@ -1,5 +1,7 @@
 ##### § 344.5 What other provisions apply to subscriptions for Time Deposit securities? #####
 
+Link to an amendment published at 89 FR 15449, Mar. 4, 2024.
+
 (a) *When is my subscription due?* The subscriber must fix the issue date of each security in the subscription. The issue date must be a business day. The issue date cannot be more than sixty days after the date Fiscal Service receives the subscription. If the subscription is for $10 million or less, Fiscal Service must receive a subscription at least five days before the issue date. If the subscription is for over $10 million, Fiscal Service must receive the subscription at least seven days before the issue date.
 
 Example to paragraph (a):If SLGS securities totaling $10 million or less will be issued on November 16th, Fiscal Service must receive the subscription no later than November 11th. If SLGS securities totaling more than $10 million will be issued on November 16th, Fiscal Service must receive the subscription no later than November 9th. In all cases, if SLGS securities will be issued on November 16th, Fiscal Service will not accept the subscription before September 17th.

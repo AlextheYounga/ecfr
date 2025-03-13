@@ -1,7 +1,5 @@
 ##### § 73.1207 Rebroadcasts. #####
 
-Link to an amendment published at 89 FR 7254, Feb. 1, 2024.
-
 (a) The term *rebroadcast* means reception by radio of the programs or other transmissions of a broadcast or any other type of radio station, and the simultaneous or subsequent retransmission of such programs or transmissions by a broadcast station.
 
 (1) As used in this section, “program” includes any complete programs or part thereof.
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 7254, Feb. 1, 2024.
 
 (1) Stations originating emergency communications under a State EAS plan are considered to have conferred rebroadcast authority to other participating stations.
 
-(2) Permission must be obtained from the originating station to rebroadcast any subsidiary communications transmitted by means of a multiplex subcarrier or telecommunications service on the vertical blanking interval or in the visual signal of a television signal.
+(2) Permission must be obtained from the originating station to rebroadcast any subsidiary communications transmitted by means of a multiplex subcarrier.
 
 (3) Programs originated by the Voice of America (VOA) and the Armed Forces Radio and Television Services (AFRTS) cannot, in general, be cleared for domestic rebroadcast, and may therefore be retransmitted only by special arrangements among the parties concerned.
 
@@ -64,4 +62,4 @@ National Bureau of Standards, Radio Stations WWV/WWVB, 2000 East County Road 58,
 
 (iii) Credit must be given to indicate that the rebroadcast message originates with the National Weather Service.
 
-[44 FR 36040, June 20, 1979, as amended at 45 FR 26065, Apr. 17, 1980; 48 FR 28456, June 22, 1983; 50 FR 25246, June 18, 1985; 59 FR 67102, Dec. 28, 1994; 61 FR 36305, July 10, 1996; 82 FR 41103, Aug. 29, 2017]
+[44 FR 36040, June 20, 1979, as amended at 45 FR 26065, Apr. 17, 1980; 48 FR 28456, June 22, 1983; 50 FR 25246, June 18, 1985; 59 FR 67102, Dec. 28, 1994; 61 FR 36305, July 10, 1996; 82 FR 41103, Aug. 29, 2017; 89 FR 7254, Feb. 1, 2024]

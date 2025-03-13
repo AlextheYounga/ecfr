@@ -1,5 +1,7 @@
 ##### § 344.4 What are Time Deposit securities? #####
 
+Link to an amendment published at 89 FR 15449, Mar. 4, 2024.
+
 Time Deposit securities are issued as certificates of indebtedness, notes, or bonds.
 
 (a) *What are the maturity periods?* The issuer must fix the maturity periods for Time Deposit securities, which are issued as follows:

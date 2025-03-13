@@ -1,5 +1,7 @@
 ##### § 19.3 Equal ability for faith-based organizations to seek and receive financial assistance through DHS social service programs. #####
 
+Link to an amendment published at 89 FR 15705, Mar. 4, 2024.
+
 (a) Faith-based organizations are eligible, on the same basis as any other organization and considering any religious accommodations appropriate under the Constitution or other provisions of Federal law, including but not limited to 42 U.S.C. 2000bb *et seq.,* 42 U.S.C. 238n, 42 U.S.C. 18113, 42 U.S.C. 2000e-1(a) and 2000e-2(e), 42 U.S.C. 12113(d), and the Weldon Amendment, to seek and receive direct financial assistance from DHS for social service programs or to participate in social service programs administered or financed by DHS.
 
 (b) Neither DHS, nor a State or local government, nor any other entity that administers any social service program supported by direct financial assistance from DHS, shall discriminate for or against an organization on the basis of the organization's religious motivation, character, affiliation, or exercise. For purposes of this part, to discriminate against an organization on the basis of the organization's religious exercise means to disfavor an organization, including by failing to select an organization, disqualifying an organization, or imposing any condition or selection criterion that otherwise disfavors or penalizes an organization in the selection process or has such an effect:

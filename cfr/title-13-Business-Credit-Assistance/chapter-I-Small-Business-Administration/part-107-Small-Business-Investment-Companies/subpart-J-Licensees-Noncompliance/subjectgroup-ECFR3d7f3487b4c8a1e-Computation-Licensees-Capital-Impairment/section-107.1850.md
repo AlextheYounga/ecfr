@@ -1,7 +1,5 @@
 ##### § 107.1850 Watchlist. #####
 
-Link to an amendment published at 89 FR 3549, Jan. 19, 2024.
-
 Under certain circumstances, SBA may place Licensees on a Watchlist as a process to increase proactive communication between SBA and the Licensee to help mitigate the potential for a future default or significant regulatory violation. Being on a Watchlist means that SBA has determined, based on certain triggers discussed in this section, a Licensee will provide a heightened level of reporting and communication with SBA.
 
 (a) *Watchlist triggers.* SBA may place you on the Watchlist for any of the following:
@@ -16,7 +14,7 @@ Under certain circumstances, SBA may place Licensees on a Watchlist as a process
 
 (5) You rank in the bottom quartile for the primary strategy benchmark, as identified by the Licensee at the time of licensure, by vintage year, defined as the year in which you were licensed as an SBIC, after three years based on the private investor's total value to paid-in capital (TVPI), where TVPI is calculated as (cumulative distributions to private investors plus net asset value minus expenses and carried interest)/cumulative private investor paid in capital.
 
-(6) Your leverage coverage ratio (LCR) falls below 1.25, where LCR is calculated as (unfunded Regulatory Capital commitments plus net asset value minus outstanding Leverage)/outstanding Leverage or a Capital Impairment Percentage approaching your threshold set forth in § 107.1830.
+(6) Your leverage coverage ratio (LCR) falls below 1.25, where LCR is calculated as ((Total Assets−Liabilities excluding SBA Leverage−Other Assets) + Unfunded Private Commitments)/Outstanding Leverage, or a Capital Impairment Percentage approaching your threshold set forth in § 107.1830.
 
 (7) You default on your interest payment and fail to pay within 30 days of the date it is due. (*Note:* This event represents an event of default under § 107.1810(f) for which SBA maintains its rights under § 107.1810(g) if the Licensee does not cure to SBA's satisfaction.)
 
@@ -56,4 +54,4 @@ Under certain circumstances, SBA may place Licensees on a Watchlist as a process
 
 (3) *Removal from Watchlist status notification.* SBA will provide you with written notice after SBA determines that you have resolved all matter identified in your notification letter and satisfied the applicable requirements set forth in paragraph (c) of this section.
 
-[88 FR 46013, July 18, 2023]
+[88 FR 46013, July 18, 2023, as amended at 89 FR 3549, Jan. 19, 2024]

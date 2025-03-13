@@ -1,5 +1,7 @@
 ##### § 16.3 Faith-Based Organizations and Federal Financial Assistance. #####
 
+Link to an amendment published at 89 FR 15707, Mar. 4, 2024.
+
 (a)(1) A faith-based or religious organization is eligible, on the same basis as any other organization, and considering a religious accommodation, to access and participate in any USDA assistance programs for which it is otherwise eligible. Neither the USDA awarding agency nor any State or local government or other intermediary receiving funds under any USDA awarding agency program or service shall, in the selection of service providers, discriminate against an organization on the basis of the organization's religious character, affiliation, or exercise.
 
 (2) Additionally, decisions about awards of USDA direct assistance or USDA indirect assistance must be free from political interference and must be made on the basis of merit, not on the basis of the religious affiliation of a recipient organization or lack thereof. Notices or announcements of award opportunities and notices of award or contracts shall include language substantially similar to that in appendices A and B to this part.

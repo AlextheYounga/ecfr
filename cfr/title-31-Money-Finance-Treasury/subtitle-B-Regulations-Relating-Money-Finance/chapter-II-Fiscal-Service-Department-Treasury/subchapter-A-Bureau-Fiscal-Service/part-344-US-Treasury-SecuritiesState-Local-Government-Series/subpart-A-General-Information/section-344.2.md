@@ -1,5 +1,7 @@
 ##### § 344.2 What general provisions apply to SLGS securities? #####
 
+Link to an amendment published at 89 FR 15448, Mar. 4, 2024.
+
 (a) *What other regulations apply to SLGS securities?* SLGS securities are subject to:
 
 (1) The electronic transactions and funds transfers provisions for United States securities, part 370 of this subchapter, “Electronic Transactions and Funds Transfers Related to U.S. Securities'; and

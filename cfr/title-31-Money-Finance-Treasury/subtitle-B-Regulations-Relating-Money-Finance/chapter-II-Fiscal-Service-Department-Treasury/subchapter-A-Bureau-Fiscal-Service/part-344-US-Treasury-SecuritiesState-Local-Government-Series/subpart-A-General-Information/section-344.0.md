@@ -1,5 +1,7 @@
 ##### § 344.0 What does this part cover? #####
 
+Link to an amendment published at 89 FR 15447, Mar. 4, 2024.
+
 (a) *What is the purpose of the SLGS securities offering?* The Secretary of the Treasury (the Secretary) offers for sale non-marketable State and Local Government Series (SLGS) securities to provide issuers of tax-exempt securities with investments from any eligible source of funds (as defined in § 344.1).
 
 (b) *What types of SLGS securities are governed by this part?* This part governs the following SLGS securities:

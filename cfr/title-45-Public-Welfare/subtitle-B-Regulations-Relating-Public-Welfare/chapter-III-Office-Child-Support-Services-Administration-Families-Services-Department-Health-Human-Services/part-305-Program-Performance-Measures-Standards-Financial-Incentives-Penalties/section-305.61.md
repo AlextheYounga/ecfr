@@ -36,4 +36,40 @@
 
 (2) The adverse findings of data reliability audits of a State's paternity establishment data under § 305.60 will not result in a financial penalty for fiscal years 2020, 2021, and 2022.
 
-[65 FR 82208, Dec. 27, 2000, as amended at 87 FR 32094, May 27, 2022]
+(f) During, and subsequent to, natural disasters and other calamities (*e.g.,* state chief executive officer-declared states of emergency, pandemics, events designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), and declared public health emergencies under section 319 of the Public Health Service Act, 42 U.S.C. 247d), the Secretary may temporarily modify the performance measure requirements for a state to meet the paternity establishment percentage standard of 90 percent under section 452(g) of the Act (42 U.S.C. 652(g)) and 45 CFR 305.40(a)(1), the support order establishment standard of 40 percent under 45 CFR 305.40(a)(2), and the current collections standard of 35 percent under 45 CFR 305.40(a)(3), to lower levels to avoid imposing financial performance penalties on states, and may set aside adverse data reliability audit findings under section 452(g) of the Act (42 U.S.C. 652(g)) and 45 CFR 305.61(a)(1)(ii) during the same time period. For Federal fiscal years subsequent to September 30, 2022, the performance requirements for paternity establishment under section 452(g) of the Act (42 U.S.C. 652(g)) and 45 CFR 305.40(a)(1), for support order establishment under 45 CFR 305.40(a)(2), and for current collections under 45 CFR 305.40(a)(3)—may be modified by the Secretary to a lower level under the conditions described in this section.
+
+(1) If a state experiences a natural disaster or other calamity (*e.g.,* state chief Executive officer-declared states of emergency, pandemics, events designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), and declared public health emergencies under section 319 of the Public Health Service Act, 42 U.S.C. 247d), the state's chief executive officer (or his or her designee) may submit to the Secretary a request to modify one or more of the performance requirements specified under section 452(g) of the Act (42 U.S.C. 652(g)) and 45 CFR 305.40(a)(1), under 45 CFR 305.40(a)(2), or under 45 CFR 305.40(a)(3).
+
+(2) The state may also ask the Secretary to set aside adverse data reliability audit findings under section 452(g) of the Act (42 U.S.C. 652(g)) and 45 CFR 305.61(a)(1)(ii) for the same time period as the time period for which a modification of performance requirements is sought.
+
+(3) The request for a modification to the performance requirements must be submitted in accordance with the procedures specified in paragraphs (f)(4), (5) and (6) of this section. Any request other than one submitted with the initial application must be submitted as soon as the adverse effect of the natural disaster or other calamity giving rise to the request is known to the state.
+
+(4) A request for a modification of one or more of the performance requirements must include the following:
+
+(i) A narrative statement describing the circumstances and justification for the request to modify the state's performance requirement;
+
+(ii) Information substantiating the impact of the natural disaster or other calamity on the state's ability to comply with the standards, including a description of the specific conditions caused by the natural disaster or other calamity that have, or may have, a significant impact on the state's ability to comply, and preliminary data provided by the state, as required under 45 CFR 305.32(f), showing reduced performance;
+
+(iii) Information on the expected duration of the conditions that make compliance impracticable; and
+
+(iv) Any other documentation or other information that the Secretary may require to make this determination.
+
+(5) The state must demonstrate to the satisfaction of the Secretary that the natural disaster or other calamity has directly resulted in a reduction in performance or is expected to result in a reduction in performance, based on data provided by the state. In its request for a temporary modification to one or more performance requirements, the state must be able to demonstrate that it:
+
+(i) Has not, or may not meet one or more existing performance requirements, such that a performance penalty would apply;
+
+(ii) Has submitted preliminary data supporting this statement; and
+
+(iii) Has provided all required information requested by the Secretary.
+
+(6) The Secretary shall provide written communication of the decision to modify or decline to modify the performance standards, and the period for which any modified standards shall apply, within 30-calendar days after receipt of appropriate written communication from the chief executive officer.
+
+(i) If approved, a temporary modification in a performance requirement will expire on the last day of the Federal fiscal year for which it was approved.
+
+(ii) Adverse findings of data reliability audits of the state's performance data under 45 CFR 305.60 as reported during the period in which the performance requirement modification is approved will not result in a financial penalty pursuant to the state's request as specified in paragraph (f)(2) of this section.
+
+(iii) Unless the state receives a written approval of its performance requirement modification request, the performance requirements under section 452(g) of the Act (42 U.S.C. 652(g)) and 45 CFR 305.40(a)(1), under 45 CFR 305.40(a)(2), and under 45 CFR 305.40(a)(3) remain in effect.
+
+(iv) If the request for a performance requirement modification is denied, the denial is not subject to administrative appeal.
+
+[65 FR 82208, Dec. 27, 2000, as amended at 87 FR 32094, May 27, 2022; 89 FR 15479, Mar. 4, 2024]

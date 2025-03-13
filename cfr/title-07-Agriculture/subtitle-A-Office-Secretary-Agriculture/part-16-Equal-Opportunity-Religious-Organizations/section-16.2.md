@@ -1,5 +1,7 @@
 ##### § 16.2 Definitions. #####
 
+Link to an amendment published at 89 FR 15707, Mar. 4, 2024.
+
 As used in this part:
 
 *Direct Federal financial assistance, Federal financial assistance provided directly, Direct funding,* or *Directly funded* means financial assistance received by an entity selected by the Government or intermediary (under this part) to carry out a service (e.g., by contract, grant, loan agreement, or cooperative agreement). References to *Federal financial assistance* will be deemed to be references to direct Federal financial assistance, unless the referenced assistance meets the definition of *indirect Federal financial assistance* or *Federal financial assistance provided indirectly.* Except as otherwise provided by USDA regulation, the recipients of sub-grants that receive Federal financial assistance through State-administered programs (*e.g.,* flow-through programs such as the National School Lunch Program authorized under the Richard B. Russell National School Lunch Act, 42 U.S.C. 1751 *et seq.*) are not considered recipients of USDA indirect assistance. These recipients of sub-awards are considered recipients of USDA direct financial assistance.

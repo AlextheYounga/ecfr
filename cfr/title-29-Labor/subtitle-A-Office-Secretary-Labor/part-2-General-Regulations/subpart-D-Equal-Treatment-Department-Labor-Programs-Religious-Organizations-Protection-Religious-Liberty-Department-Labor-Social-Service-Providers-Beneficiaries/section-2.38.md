@@ -1,5 +1,7 @@
 ##### § 2.38 Status of nonprofit organizations. #####
 
+Link to an amendment published at 89 FR 15717, Mar. 4, 2024.
+
 (a) In general, DOL does not require that an organization, including a religious organization, obtain tax-exempt status under section 501(c)(3) of the Internal Revenue Code in order to be eligible for Federal financial assistance under DOL social service programs. Many such programs, however, do require an organization to be a “nonprofit organization” in order to be eligible for such support. Individual solicitations that require organizations to have nonprofit status must specifically so indicate in the eligibility section of the solicitation. In addition, any solicitation for a program that requires an organization to maintain tax-exempt status must expressly state the statutory authority for requiring such status. For assistance with questions about a particular solicitation, applicants should contact the DOL program office that issued the solicitation.
 
 (b) Unless otherwise provided by statute, in DOL programs in which an applicant must show that it is a nonprofit organization, the applicant must be permitted to do so by any of the following means:

@@ -1,7 +1,5 @@
 ##### § 73.621 Noncommercial educational TV stations. #####
 
-Link to an amendment published at 89 FR 7248, Feb. 1, 2024.
-
 In addition to the other provisions of this subpart, the following shall be applicable to noncommercial educational television broadcast stations:
 
 (a) Except as provided in paragraph (b) of this section, noncommercial educational broadcast stations will be licensed only to nonprofit educational organizations upon a showing that the proposed stations will be used primarily to serve the educational needs of the community; for the advancement of educational programs; and to furnish a nonprofit and noncommercial television broadcast service.
@@ -30,12 +28,10 @@ Commission interpretation of this rule, including the acceptable form of acknowl
 
 (3) *Exemption.* No noncommercial educational television station that receives funding from the Corporation for Public Broadcasting shall have the authority to interrupt regular programming to conduct fundraising activities on behalf of a third-party non-profit organization.
 
-(g) Telecommunications Service on the Vertical Blanking Interval and in the Visual Signal. The provisions governing VBI and visual signal telecommunications service in § 73.646 are applicable to noncommercial educational TV stations.
-
-(h) Non-program related data signals transmitted on Line 21 pursuant to § 73.682(a)(22)(ii) may be used for remunerative purposes.
+(g)-(h) [Reserved]
 
 (i) Mutually exclusive applications for noncommercial educational TV stations operating on reserved channels shall be resolved pursuant to the point system in subpart K.
 
-(j) With respect to the provision of advanced television services, the requirements of this section will apply to the entire digital bitstream of noncommercial educational television stations, including the provision of ancillary or supplementary services.
+(j) The requirements of this section apply to the entire digital bitstream of noncommercial educational television stations, including the provision of ancillary or supplementary services.
 
-[28 FR 13660, Dec. 14, 1963, as amended at 35 FR 7558, May 15, 1970; 47 FR 36179, Aug. 19, 1982; 48 FR 27068, June 13, 1983; 49 FR 29069, July 18, 1984; 50 FR 4664, Feb. 1, 1985; 50 FR 4684, Feb. 1, 1985; 61 FR 36304, July 10, 1996; 65 FR 36378, June 8, 2000; 66 FR 58982, Nov. 26, 2001; 82 FR 21135, May 5, 2017]
+[28 FR 13660, Dec. 14, 1963, as amended at 35 FR 7558, May 15, 1970; 47 FR 36179, Aug. 19, 1982; 48 FR 27068, June 13, 1983; 49 FR 29069, July 18, 1984; 50 FR 4664, Feb. 1, 1985; 50 FR 4684, Feb. 1, 1985; 61 FR 36304, July 10, 1996; 65 FR 36378, June 8, 2000; 66 FR 58982, Nov. 26, 2001; 82 FR 21135, May 5, 2017; 89 FR 7248, Feb. 1, 2024]

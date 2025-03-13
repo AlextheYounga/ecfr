@@ -1,5 +1,7 @@
 ##### § 344.1 What special terms do I need to know to understand this part? #####
 
+Link to an amendment published at 89 FR 15447, Mar. 4, 2024.
+
 As appropriate, the definitions of terms used in this part are those found in the relevant portions of the Internal Revenue Code and the Income Tax Regulations.
 
 *Fiscal Service's Web site* refers to *http://www.slgs.gov.*

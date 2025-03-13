@@ -1,5 +1,7 @@
 ##### § 205.1 Grants and cooperative agreements. #####
 
+Link to an amendment published at 89 FR 15709, Mar. 4, 2024.
+
 (a) Faith-based organizations are eligible, on the same basis as any other organization and considering any reasonable accommodation, as is consistent with Federal law, the Attorney General's Memorandum of October 6, 2018 (Federal Law Protections for Religious Liberty), and the Religion Clauses of the First Amendment to the U.S. Constitution, to participate in any USAID program for which they are otherwise eligible. In the selection of service-providers, neither USAID nor entities that make and administer sub-awards of USAID funds shall discriminate for, or against, an organization on the basis of the organization's religious character, affiliation, or exercise. For purposes of this part, to discriminate against an organization on the basis of the organization's religious exercise means to disfavor an organization, including by failing to select an organization, disqualifying an organization, or imposing any condition or selection criterion that otherwise disfavors or penalizes an organization in the selection process or has such an effect:
 
 (1) Because of conduct that would not be considered grounds to disfavor a secular organization;

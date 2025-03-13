@@ -1,7 +1,5 @@
 ##### § 74.732 Eligibility and licensing requirements. #####
 
-Link to an amendment published at 89 FR 7265, Feb. 1, 2024.
-
 (a) A license for a low power TV or TV translator station may be issued to any qualified individual, organized group of individuals, broadcast station licensee, or local civil governmental body.
 
 (b) More than one low power TV or TV translator station may be licensed to the same applicant whether or not such stations serve substantially the same area. Low power TV and TV translator stations are not counted for purposes of § 73.3555, concerning multiple ownership.
@@ -10,10 +8,10 @@ Link to an amendment published at 89 FR 7265, Feb. 1, 2024.
 
 (d) The FCC will not act on applications for new low power TV or TV translator stations, for changes in facilities of existing stations, or for changes in output channel tendered by displaced stations pursuant to § 73.3572(a)(1), when such changes will result in a major change until the applicable time for filing a petition to deny has passed pursuant to § 73.3584(c).
 
-(e) A proposal to change the primary TV station being retransmitted or an application of a licensed translator station to include low power TV station operation, *i.e.*, program origination or subscription service will be subject only to a notification requirement.
+(e) A proposal to change the primary TV station being retransmitted or an application of a licensed translator station to include low power TV station operation, *i.e.,* program origination will be subject only to a notification requirement.
 
 (f) Applications for transfer of ownership or control of a low power TV or TV translator station will be subject to petitions to deny.
 
 (g)-(h) [Reserved]
 
-[47 FR 21499, May 18, 1982, as amended at 48 FR 21487, May 12, 1983; 49 FR 20504, May 15, 1984; 52 FR 7423, Mar. 11, 1987; 52 FR 10571, Apr. 2, 1987; 52 FR 31404, Aug. 20, 1987; 87 FR 58203, Sept. 23, 2022]
+[47 FR 21499, May 18, 1982, as amended at 48 FR 21487, May 12, 1983; 49 FR 20504, May 15, 1984; 52 FR 7423, Mar. 11, 1987; 52 FR 10571, Apr. 2, 1987; 52 FR 31404, Aug. 20, 1987; 87 FR 58203, Sept. 23, 2022; 89 FR 7265, Feb. 1, 2024]
