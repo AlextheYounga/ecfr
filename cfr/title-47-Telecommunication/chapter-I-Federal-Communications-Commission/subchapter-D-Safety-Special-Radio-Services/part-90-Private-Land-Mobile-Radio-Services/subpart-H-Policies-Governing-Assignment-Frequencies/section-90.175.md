@@ -1,6 +1,6 @@
 ##### § 90.175 Frequency coordinator requirements. #####
 
-Link to an amendment published at 89 FR 91584, Nov. 20, 2024.Link to an amendment published at 89 FR 100851, Dec. 13, 2024.
+Link to an amendment published at 89 FR 100851, Dec. 13, 2024.
 
 Except for applications listed in paragraph (j) of this section, each application for a new frequency assignment, for a change in existing facilities as listed in § 90.135(a), or for operation at temporary locations in accordance with § 90.137 must include a showing of frequency coordination as set forth further.
 
@@ -26,7 +26,7 @@ Except for applications listed in paragraph (j) of this section, each applicatio
 
 (1) *For frequencies between 1427-1432 MHz:* A statement is required from the coordinator recommending the most appropriate frequency, operating power and area of operation in accordance with the requirements of § 90.259(b).
 
-(2) *For frequencies between 4940-4990 MHz:* A statement is required from the nationwide band manager recommending the most appropriate channel(s), bandwidth, operating power, and any other technical parameter which promotes robust and efficient use of the band while minimizing interference based on the standard for harmful interference specified in § 90.1211(a).
+(2) *For frequencies between 4940-4990 MHz:* A statement is required from the nationwide band manager recommending the most appropriate channel(s), bandwidth, operating power, and any other technical parameter which promotes robust and efficient use of the band while minimizing interference.
 
 (3) *Compliance date.* Paragraph (g)(2) of this section may contain information collection and/or recordkeeping requirements. Compliance with paragraph (g)(2) will not be required until this paragraph (g)(3) is removed or contains a compliance date, which will not occur until the date specified in a final rule published by the FCC announcing that the Office of Management and Budget has completed review of any information collection requirements associated with paragraph (g)(2) of this section or that they have determined such review is not required, which date shall be no earlier than February 28, 2024.
 
@@ -80,4 +80,4 @@ Except for applications listed in paragraph (j) of this section, each applicatio
 
 (22) [Reserved]
 
-[67 FR 41858, June 20, 2002, as amended at 67 FR 63289, Oct. 11, 2002; 68 FR 38639, June 30, 2003; 69 FR 39867, July 1, 2004; 69 FR 46443, Aug. 3, 2004; 70 FR 61061, Oct. 20, 2005; 70 FR 76708, Dec. 28, 2005; 72 FR 48859, Aug. 24, 2007; 75 FR 19284, Apr. 14, 2010; 77 FR 45506, Aug. 1, 2012; 78 FR 25175, Apr. 29, 2013; 81 FR 2110, Jan. 15, 2016; 83 FR 61095, Nov. 27, 2018; 84 FR 29085, June 21, 2019; 86 FR 23296, May 3, 2021; 88 FR 12570, Feb. 28, 2023]
+[67 FR 41858, June 20, 2002, as amended at 67 FR 63289, Oct. 11, 2002; 68 FR 38639, June 30, 2003; 69 FR 39867, July 1, 2004; 69 FR 46443, Aug. 3, 2004; 70 FR 61061, Oct. 20, 2005; 70 FR 76708, Dec. 28, 2005; 72 FR 48859, Aug. 24, 2007; 75 FR 19284, Apr. 14, 2010; 77 FR 45506, Aug. 1, 2012; 78 FR 25175, Apr. 29, 2013; 81 FR 2110, Jan. 15, 2016; 83 FR 61095, Nov. 27, 2018; 84 FR 29085, June 21, 2019; 86 FR 23296, May 3, 2021; 88 FR 12570, Feb. 28, 2023; 89 FR 91584, Nov. 20, 2024]

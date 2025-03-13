@@ -1,5 +1,7 @@
 ##### § 4044.58 Tables used to determine expected retirement age. #####
 
+Link to an amendment published at 89 FR 104043, Dec. 20, 2024.
+
 The following tables are used for determining expected retirement age under §§ 4044.55 through 4044.57.
 
 |                                     If participant reaches URA in year—                                      |   Participant's retirement rate category is—    |                                                                        |     |     |

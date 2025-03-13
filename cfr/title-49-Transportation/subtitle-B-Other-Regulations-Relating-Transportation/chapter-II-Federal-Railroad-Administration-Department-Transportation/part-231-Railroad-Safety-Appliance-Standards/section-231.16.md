@@ -18,7 +18,7 @@
 
 (ii) Footboards shall be securely bolted to two 1- by 4-inch metal brackets, provided footboard is not cut or notched at any point.
 
-(iii) If footboard is cut or notched or in two sections, not less than four 1- by 3-inch metal brackets shall be used, two located on each side of coupler. Each bracket shall be securely bolted to buffer-beam, end sill or tank frame by not less than two7/8-inch bolts.
+(iii) If footboard is cut or notched or in two sections, not less than four 1- by 3-inch metal brackets shall be used, two located on each side of coupler. Each bracket shall be securely bolted to buffer-beam, end sill or tank frame by not less than two 7/8-inch bolts.
 
 (iv) If side footboards are used, a substantial handhold or rail shall be applied not less than 30 inches nor more than 60 inches above tread or footboard.
 

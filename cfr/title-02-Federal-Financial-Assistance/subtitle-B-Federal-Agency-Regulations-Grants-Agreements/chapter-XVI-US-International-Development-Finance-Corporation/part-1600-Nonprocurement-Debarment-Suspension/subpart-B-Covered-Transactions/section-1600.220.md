@@ -1,0 +1,3 @@
+##### § 1600.220 What contracts and subcontracts are covered transactions? #####
+
+First-tier procurements (*i.e.,* primary contracts) under a covered nonprocurement transaction are covered transactions. Although the OMB guidance at 2 CFR 180.220(c) allows a Federal agency to do so (see also optional lower tier coverage in the figure in the appendix to 2 CFR part 180), DFC does not extend coverage of nonprocurement suspension and debarment requirements beyond first-tier procurement under a covered nonprocurement transaction. Moreover, for purposes of determining whether a procurement contract is included as a covered transaction, the threshold in 2 CFR 180.220(b) is increased from $25,000 to the “simplified acquisition threshold” as defined in 48 CFR 2.101.

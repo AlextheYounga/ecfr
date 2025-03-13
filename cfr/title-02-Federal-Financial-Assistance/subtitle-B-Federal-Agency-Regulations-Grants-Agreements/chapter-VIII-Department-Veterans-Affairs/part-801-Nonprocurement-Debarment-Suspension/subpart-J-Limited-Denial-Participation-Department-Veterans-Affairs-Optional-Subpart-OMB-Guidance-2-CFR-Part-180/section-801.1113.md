@@ -1,0 +1,3 @@
+##### § 801.1113 Appeal. #####
+
+Where the decision is made to affirm all or a portion of the remaining period of exclusion, any participant desiring an appeal shall file a written request for a hearing with the Under Secretary for Benefits, Department of Veterans Affairs, 810 Vermont Avenue, NW., Washington, DC 20420. This request shall be filed within 30 days of receipt of the decision to affirm. If a hearing is requested, it shall be held in accordance with the procedures in §§ 108.825 through 108.855. Where a limited denial of participation is followed by a suspension or debarment, the limited denial of participation shall be superseded and the appeal shall be heard solely as an appeal of the suspension or debarment.

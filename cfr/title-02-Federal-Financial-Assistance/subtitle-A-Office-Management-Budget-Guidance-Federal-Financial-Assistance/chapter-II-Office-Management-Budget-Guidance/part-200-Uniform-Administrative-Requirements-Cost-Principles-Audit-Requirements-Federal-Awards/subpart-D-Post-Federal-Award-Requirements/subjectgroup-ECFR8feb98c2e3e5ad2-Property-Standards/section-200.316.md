@@ -1,0 +1,3 @@
+##### § 200.316 Property trust relationship. #####
+
+Real property, equipment, and intangible property acquired or improved with the Federal award must be held in trust by the recipient or subrecipient as trustee for the beneficiaries of the project or program under which the property was acquired or improved. The Federal agency or pass-through entity may require the recipient or subrecipient to record liens or other appropriate notices of record to indicate that personal or real property has been acquired or improved with a Federal award and that use and disposition conditions apply to the property.

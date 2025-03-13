@@ -1,0 +1,3 @@
+##### § 200.317 Procurements by States and Indian Tribes. #####
+
+When conducting procurement transactions under a Federal award, a State or Indian Tribe must follow the same policies and procedures it uses for procurements with non-Federal funds. If such policies and procedures do not exist, States and Indian Tribes must follow the procurement standards in §§ 200.318 through 200.327. In addition to its own policies and procedures, a State or Indian Tribe must also comply with the following procurement standards: §§ 200.321, 200.322, 200.323, and 200.327. All other recipients and subrecipients, including subrecipients of a State or Indian Tribe, must follow the procurement standards in §§ 200.318 through 200.327.

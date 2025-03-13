@@ -42,7 +42,7 @@
 
 (3) *Examination and testing of sample lighters by an authorized testing agency.* Each sample lighter must be examined for conformance with paragraph (a) of this section by a person authorized by the Associate Administrator. In addition, lighters must be subjected to the following leakage test:
 
-(i) A minimum of six lighters must be examined and tested at one time. Store the lighters in a desiccator for 24 hours. After drying, weigh each lighter on an analytical balance capable of accurately measuring to within1/10 of a milligram (0.0001 grams).
+(i) A minimum of six lighters must be examined and tested at one time. Store the lighters in a desiccator for 24 hours. After drying, weigh each lighter on an analytical balance capable of accurately measuring to within 1/10 of a milligram (0.0001 grams).
 
 (ii) After weighing, place the lighters together in an explosion-proof, controlled-temperature laboratory oven capable of maintaining 38 ±1 °C (100 ±2 °F) for 96 continuous hours (4 days). At the end of 96 hours, remove the lighters from the oven and place them in the same desiccator and allow the lighters to cool to ambient temperature.
 

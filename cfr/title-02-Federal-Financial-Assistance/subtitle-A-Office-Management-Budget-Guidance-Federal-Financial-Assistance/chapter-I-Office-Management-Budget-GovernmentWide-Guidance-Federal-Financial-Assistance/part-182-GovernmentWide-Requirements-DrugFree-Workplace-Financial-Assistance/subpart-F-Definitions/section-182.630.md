@@ -1,0 +1,3 @@
+##### § 182.630 Debarment. #####
+
+*Debarment* means an action taken by a Federal agency to prohibit a recipient from participating in Federal Government procurement contracts and covered nonprocurement transactions. A recipient so prohibited is debarred, in accordance with the Federal Acquisition Regulation for procurement contracts (48 CFR part 9, subpart 9.4) and Federal agency regulations implementing the OMB guidance on nonprocurement debarment and suspension (2 CFR part 180, which implements Executive Orders 12549 and 12689).

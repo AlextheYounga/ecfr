@@ -1,5 +1,7 @@
 ##### § 4044.53 Mortality assumptions. #####
 
+Link to an amendment published at 89 FR 104041, Dec. 20, 2024.
+
 (a) *General rule.* Subject to paragraph (b) of this section (regarding certain death benefits), the plan administrator shall use the mortality factors prescribed in paragraphs (c), (d), (e), (f), and (g) of this section to value benefits under § 4044.52.
 
 (b) *Certain death benefits.* If an annuity for one person is in pay status on the valuation date, and if the payment of a death benefit after the valuation date to another person, who need not be identifiable on the valuation date, depends in whole or in part on the death of the pay status annuitant, then the plan administrator shall value the death benefit using—

@@ -166,7 +166,7 @@ S7.1.9 The acceleration transducer is mounted at the center of gravity of the te
 
 S7.1.10 The flat anvil is constructed of steel with a 5-inch (12.7 cm) minimum diameter impact face, and the hemispherical anvil is constructed of steel with a 1.9 inch (4.8 cm) radius impact face.
 
-S7.1.11 The rigid mount for both of the anvils consists of a solid mass of at least 300 pounds (136.1 kg), the outer surface of which consists of a steel plate with minimum thickness of 1 inch (2.5 cm) and minimum surface area of 1 ft2 (929 cm2 ).
+S7.1.11 The rigid mount for both of the anvils consists of a solid mass of at least 300 pounds (136.1 kg), the outer surface of which consists of a steel plate with minimum thickness of 1 inch (2.5 cm) and minimum surface area of 1 ft 2 (929 cm2 ).
 
 S7.1.12 The drop system restricts side movement during the impact attenuation test so that the sum of the areas bounded by the acceleration-time response curves for both the x- and y-axes (horizontal axes) is less than five percent of the area bounded by the acceleration-time response curve for the vertical axis.
 

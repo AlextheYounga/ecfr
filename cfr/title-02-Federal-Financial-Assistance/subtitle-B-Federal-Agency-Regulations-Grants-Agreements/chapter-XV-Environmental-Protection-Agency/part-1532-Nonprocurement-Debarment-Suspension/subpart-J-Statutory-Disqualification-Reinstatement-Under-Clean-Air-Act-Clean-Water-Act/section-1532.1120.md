@@ -1,0 +1,3 @@
+##### § 1532.1120 What is the purpose of CAA or CWA disqualification? #####
+
+As provided for in Executive Order 11738 (3 CFR, 1973 Comp., p. 799), the purpose of CAA and CWA disqualification is to enforce the Federal Government's policy of undertaking Federal procurement and nonprocurement activities in a manner that improves and enhances environmental quality by promoting effective enforcement of the CAA or CWA.

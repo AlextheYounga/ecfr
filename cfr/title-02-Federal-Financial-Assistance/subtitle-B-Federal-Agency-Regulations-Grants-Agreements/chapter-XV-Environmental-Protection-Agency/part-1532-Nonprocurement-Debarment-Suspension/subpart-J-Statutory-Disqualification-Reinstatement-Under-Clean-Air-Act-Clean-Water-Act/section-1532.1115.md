@@ -1,0 +1,3 @@
+##### § 1532.1115 Can the EPA extend a CAA or CWA disqualification to other facilities? #####
+
+The CAA specifically authorizes the EPA to extend a CAA disqualification to other facilities that are owned or operated by the convicted person. The EPA also has authority under subparts A through I of 2 CFR part 180, or under 48 CFR part 9, subpart 9.4, to take discretionary suspension and debarment actions on the basis of misconduct leading to a CAA or CWA conviction, or for activities that the EPA debarring official believes were designed to improperly circumvent a CAA or CWA disqualification.

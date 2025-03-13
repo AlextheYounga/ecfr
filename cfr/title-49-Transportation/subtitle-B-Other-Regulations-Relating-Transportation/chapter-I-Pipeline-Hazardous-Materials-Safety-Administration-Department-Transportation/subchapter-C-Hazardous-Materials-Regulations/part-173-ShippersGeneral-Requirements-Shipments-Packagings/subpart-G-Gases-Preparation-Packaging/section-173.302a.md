@@ -31,7 +31,7 @@
 
 (i)(A) The average wall stress must be computed from the elastic expansion data using the following formula:
 
-S = 1.7EE / KV−0.4PWhere:S = wall stress, pounds per square inch;EE = elastic expansion (total less permanent) in cubic centimeters;K = factor × 10 −7 experimentally determined for the particular type of cylinder being tested or derived in accordance with CGA C-5 (IBR, see § 171.7 of this subchapter);V = internal volume in cubic centimeter (1 cubic inch = 16.387 cubic centimeters);P = test pressure, pounds per square inch.
+S = 1.7EE / KV−0.4P Where:S = wall stress, pounds per square inch; EE = elastic expansion (total less permanent) in cubic centimeters; K = factor × 10 −7 experimentally determined for the particular type of cylinder being tested or derived in accordance with CGA C-5 (IBR, see § 171.7 of this subchapter);V = internal volume in cubic centimeter (1 cubic inch = 16.387 cubic centimeters); P = test pressure, pounds per square inch.
 
 (B) The formula in paragraph (b)(3)(i)(A) of this section is derived from the formula in paragraph (b)(3)(ii) of this section and the following:
 
@@ -39,7 +39,7 @@ EE = (PKVD2) / (D2−d2)
 
 (ii) The maximum wall stress must be computed from the formula:
 
-S = (P(1.3D2 + 0.4d2)) / (D2−d2)Where:S = wall stress, pounds per square inch;P = test pressure, pounds per square inch;D = outside diameter, inches;d = D-2t, where t = minimum wall thickness determined by a suitable method.
+S = (P(1.3D2 + 0.4d2)) / (D2−d2) Where: S = wall stress, pounds per square inch; P = test pressure, pounds per square inch; D = outside diameter, inches; d = D-2t, where t = minimum wall thickness determined by a suitable method.
 
 (iii) Compliance with average wall stress limitation may be determined by computing the elastic expansion rejection limit in accordance with CGA C-5, by reference to data tabulated in CGA C-5, or by the manufacturer's marked elastic expansion rejection limit (REE) on the cylinder.
 
@@ -63,7 +63,7 @@ S = (P(1.3D2 + 0.4d2)) / (D2−d2)Where:S = wall stress, pounds per square inch;
 
 (7) A plus sign (+) is added following the test date marking on the cylinder.
 
-(d) *Carbon monoxide.* Carbon monoxide must be offered in a DOT 3, 3A, 3AX, 3AA, 3AAX, 3AL, 3E, or 3T cylinder having a minimum service pressure of 1800 psig. The pressure in a steel cylinder may not exceed 1000 psig at 21 °C (70 °F), except that if the gas is dry and sulfur free, the cylinder may be filled to5/6 of the cylinder's service pressure or 2000 psig, whichever is less. A DOT 3AL cylinder may be filled to its marked service pressure. A DOT 3AL cylinder is authorized only when transported by motor vehicle, rail car, or cargo-only aircraft.
+(d) *Carbon monoxide.* Carbon monoxide must be offered in a DOT 3, 3A, 3AX, 3AA, 3AAX, 3AL, 3E, or 3T cylinder having a minimum service pressure of 1800 psig. The pressure in a steel cylinder may not exceed 1000 psig at 21 °C (70 °F), except that if the gas is dry and sulfur free, the cylinder may be filled to 5/6 of the cylinder's service pressure or 2000 psig, whichever is less. A DOT 3AL cylinder may be filled to its marked service pressure. A DOT 3AL cylinder is authorized only when transported by motor vehicle, rail car, or cargo-only aircraft.
 
 (e) *Diborane and diborane mixtures.* Diborane and diborane mixed with compatible compressed gas must be offered in a DOT 3AL1800 or 3AA1800 cylinder. The maximum filling density of the diborane may not exceed 7 percent. Diborane mixed with compatible compressed gas may not have a pressure exceeding the service pressure of the cylinder if complete decomposition of the diborane occurs. Cylinder valve assemblies must be protected in accordance with § 173.301(h).
 

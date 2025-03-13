@@ -66,4 +66,4 @@ S5.3 *Procedure.*
 
 (g) Calculate the burn rate from the formula:
 
-B = 60 × (D/T)Where:B = Burn rate in millimeters per minuteD = Length the flame travels in millimeters, andT = Time in seconds for the flame to travel D millimeters.[36 FR 22902, Dec. 2, 1971, as amended at 40 FR 14319, Mar. 31, 1975; 40 FR 42747, Sept. 16, 1975; 40 FR 56667, Dec. 4, 1975; 63 FR 28954, 28956, May 27, 1998; 63 FR 51003, Sept. 24, 1998]
+B = 60 × (D/T)Where: B = Burn rate in millimeters per minuteD = Length the flame travels in millimeters, andT = Time in seconds for the flame to travel D millimeters.[36 FR 22902, Dec. 2, 1971, as amended at 40 FR 14319, Mar. 31, 1975; 40 FR 42747, Sept. 16, 1975; 40 FR 56667, Dec. 4, 1975; 63 FR 28954, 28956, May 27, 1998; 63 FR 51003, Sept. 24, 1998]

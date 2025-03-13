@@ -1,0 +1,3 @@
+##### § 1120.200 Purpose and inclusion of award-specific terms and conditions. #####
+
+A DoD Component must include with each award, for transmission to the recipient, any terms and conditions needed to communicate requirements specific to the individual award as distinct from the more broadly applicable requirements in the general terms and conditions. For a modification to an award, only changes to previously transmitted terms and conditions must be included.

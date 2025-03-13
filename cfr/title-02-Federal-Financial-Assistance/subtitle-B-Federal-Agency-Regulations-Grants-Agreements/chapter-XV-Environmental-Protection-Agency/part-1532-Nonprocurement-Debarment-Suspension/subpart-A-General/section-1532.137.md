@@ -1,0 +1,3 @@
+##### § 1532.137 Who in the EPA may grant an exception to let an excluded person participate in a covered transaction? #####
+
+The EPA Debarring Official has the authority to grant an exception to let an excluded person participate in a covered transaction, as provided in the OMB guidance at 2 CFR 180.135. If the EPA Debarring Official grants an exception, the exception must be in writing and state the reason(s) for deviating from the governmentwide policy in Executive Order 12549.

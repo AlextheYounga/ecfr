@@ -20,7 +20,7 @@ Except for box and other house cars that comply with either § 231.27 or § 231.
 
 (ii) Outside edge of brake wheel shall be not less than 4 inches from a vertical plane parallel with end of car and passing through the inside face of knuckle when closed with coupler horn against the buffer block or end sill.
 
-(iii) Top brake-shaft support shall be fastened with not less than1/2-inch bolts or rivets. (See plate A.)
+(iii) Top brake-shaft support shall be fastened with not less than 1/2-inch bolts or rivets. (See plate A.)
 
 ![](/graphics/ec01ap91.005.gif)
 
@@ -28,9 +28,9 @@ Except for box and other house cars that comply with either § 231.27 or § 231.
 
 (v) Brake shaft shall be arranged with a square fit at its upper end to secure the hand-brake wheel; said square fit shall be not less than seven-eighths of an inch square. Square-fit taper, nominally 2 in 12 inches. (See plate A.)
 
-(vi) Brake chain shall be of not less than3/8-, preferably7/16-, inch wrought iron or steel, with a link on the brakerod end of not less than7/16-, preferably1/2-, inch wrought iron or steel, and shall be secured to brake-shaft drum by not less than1/2-inch hexagon or square-headed bolt. Nut on said bolt shall be secured by riveting end of bolt over nut. (See plate A.)
+(vi) Brake chain shall be of not less than 3/8-, preferably 7/16-, inch wrought iron or steel, with a link on the brakerod end of not less than 7/16-, preferably 1/2-, inch wrought iron or steel, and shall be secured to brake-shaft drum by not less than 1/2-inch hexagon or square-headed bolt. Nut on said bolt shall be secured by riveting end of bolt over nut. (See plate A.)
 
-(vii) Lower end of brake shaft shall be provided with a trunnion of not less than3/4-, preferably 1, inch in diameter extending through brake-shaft step and held in operating position by a suitable cotter or ring. (See plate A.)
+(vii) Lower end of brake shaft shall be provided with a trunnion of not less than 3/4-, preferably 1, inch in diameter extending through brake-shaft step and held in operating position by a suitable cotter or ring. (See plate A.)
 
 (viii) Brake-shaft drum shall be not less than 11/2 inches in diameter. (See plate A.)
 
@@ -38,9 +38,9 @@ Except for box and other house cars that comply with either § 231.27 or § 231.
 
 (x) Brake ratchet wheel shall be not less than 51/4, preferably 51/2, inches in diameter and shall have not less than 14, preferably 16, teeth. (See plate A.)
 
-(xi) If brake ratchet wheel is more than 36 inches from brake wheel, a brake-shaft support shall be provided to support this extended upper portion of brake shaft; said brake-shaft support shall be fastened with not less than1/2-inch bolts or rivets.
+(xi) If brake ratchet wheel is more than 36 inches from brake wheel, a brake-shaft support shall be provided to support this extended upper portion of brake shaft; said brake-shaft support shall be fastened with not less than 1/2-inch bolts or rivets.
 
-(xii) The brake pawl shall be pivoted upon a bolt or rivet not less than five-eighths of an inch in diameter, or upon a trunnion secured by not less than1/2-inch bolt or rivet, and there shall be a rigid metal connection between brake shaft and pivot of pawl.
+(xii) The brake pawl shall be pivoted upon a bolt or rivet not less than five-eighths of an inch in diameter, or upon a trunnion secured by not less than 1/2-inch bolt or rivet, and there shall be a rigid metal connection between brake shaft and pivot of pawl.
 
 (xiii) Brake wheel shall be held in position on brake shaft by a nut on a threaded extended end of brake shaft; said threaded portion shall be not less than three-fourths of an inch in diameter; said nut shall be secured by riveting over or by the use of a lock nut or suitable cotter.
 
@@ -48,7 +48,7 @@ Except for box and other house cars that comply with either § 231.27 or § 231.
 
 (b) *Brake step.* If brake step is used, it shall be not less than 28 inches in length. Outside edge shall be not less than 8 inches from face of car and not less than 4 inches from a vertical plane parallel with end of car and passing through the inside face of knuckle when closed with coupler horn against the buffer block or end sill.
 
-(1) *Manner of application.* Brake step shall be supported by not less than two metal braces having a minimum cross-sectional area3/8 by 11/2 inches or equivalent, which shall be securely fastened to body of car with not less than1/2-inch bolts or rivets.
+(1) *Manner of application.* Brake step shall be supported by not less than two metal braces having a minimum cross-sectional area 3/8 by 11/2 inches or equivalent, which shall be securely fastened to body of car with not less than 1/2-inch bolts or rivets.
 
 (c) *Running boards*—(1) *Number.* One longitudinal running board. On outside-metal-roof cars two latitudinal extensions.
 
@@ -64,7 +64,7 @@ Except for box and other house cars that comply with either § 231.27 or § 231.
 
 (d) *Sill steps*—(1) *Number.* Four.
 
-(2) *Dimensions.* Minimum cross-sectional area1/2 by 11/2 inches, or equivalent, of wrought iron or steel. Minimum length of tread, 10, preferably 12, inches. Minimum clear depth, 8 inches.
+(2) *Dimensions.* Minimum cross-sectional area 1/2 by 11/2 inches, or equivalent, of wrought iron or steel. Minimum length of tread, 10, preferably 12, inches. Minimum clear depth, 8 inches.
 
 (3) *Location.* (i) One near each end of each side of car, so that there shall be not more than 18 inches from end of car to center of tread of sill step.
 
@@ -76,7 +76,7 @@ Except for box and other house cars that comply with either § 231.27 or § 231.
 
 (4) *Manner of application.* (i) Sill steps exceeding 21 inches in depth shall have an additional tread.
 
-(ii) Sill steps shall be securely fastened with not less than1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than1/2-inch rivets.
+(ii) Sill steps shall be securely fastened with not less than 1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than 1/2-inch rivets.
 
 (e) *Ladders*—(1) *Number.* Four.
 
@@ -106,7 +106,7 @@ Except for box and other house cars that comply with either § 231.27 or § 231.
 
 (ii) Stiles of ladders, projecting 2 or more inches from face of car, will serve as foot guards.
 
-(iii) Ladders shall be securely fastened with not less than1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than1/2-inch rivets. Three-eighths-inch bolts may be used for wooden treads which are gained into stiles.
+(iii) Ladders shall be securely fastened with not less than 1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than 1/2-inch rivets. Three-eighths-inch bolts may be used for wooden treads which are gained into stiles.
 
 (f) *End ladder clearance.* (1) No part of car above end sills within 30 inches from side of car, except buffer block, brake shaft, brake wheel, brake step, running board or uncoupling lever shall extend to within 12 inches of a vertical plane parallel with end of car and passing through the inside face of knuckle when closed with coupler horn against the buffer block or end sill, and no other part of end of car or fixtures on same above end sills, other than exceptions herein noted, shall extend beyond the outer face of buffer block.
 
@@ -122,7 +122,7 @@ Except for box and other house cars that comply with either § 231.27 or § 231.
 
 (ii) Carriers are not required to change the location of handholds on cars in service July 1, 1911, except end handhold under end sills, where the appliances are within 3 inches of the required location, except that when cars undergo regular repairs they must then be made to comply with the standards prescribed.
 
-(4) *Manner of application.* Roof handholds shall be securely fastened with not less than1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than1/2-inch rivets.
+(4) *Manner of application.* Roof handholds shall be securely fastened with not less than 1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than 1/2-inch rivets.
 
 (h) *Side handholds*—(1) *Number.* Four. (Tread of side ladder is a side handhold.)
 
@@ -132,7 +132,7 @@ Except for box and other house cars that comply with either § 231.27 or § 231.
 
 (ii) Carriers are not required to change the location of handholds, on cars in service July 1, 1911, except end handholds under end sills, where the appliances are within 3 inches of the required location, except that when cars undergo regular repairs they must then be made to comply with the standards prescribed.
 
-(4) *Manner of application.* Side handholds shall be securely fastened with not less than1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than1/2-inch rivets.
+(4) *Manner of application.* Side handholds shall be securely fastened with not less than 1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than 1/2-inch rivets.
 
 (i) *Horizontal end handholds*—(1) *Number.* Eight or more, four on each end of car. (Tread of end ladder is an end handhold.)
 
@@ -150,7 +150,7 @@ Except for box and other house cars that comply with either § 231.27 or § 231.
 
 (iv) Carriers are not required to change the location of handholds, on cars in service July 1, 1911, except end handholds under end sills, where the appliances are within 3 inches of the required location, except that when cars undergo regular repairs they must then be made to comply with the standards prescribed.
 
-(4) *Manner of application.* Horizontal end handholds shall be securely fastened with not less than1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than1/2-inch rivets.
+(4) *Manner of application.* Horizontal end handholds shall be securely fastened with not less than 1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than 1/2-inch rivets.
 
 (j) *Vertical end handholds*—(1) *Number.* Two on full-width platform end-sill cars, as heretofore described.
 
@@ -160,7 +160,7 @@ Except for box and other house cars that comply with either § 231.27 or § 231.
 
 (ii) Carriers are not required to change the location of handholds, on cars in service July 1, 1911, except end handholds under end sills, where the appliances are within 3 inches of the required location, except that when cars undergo regular repairs they must then be made to comply with the standards prescribed.
 
-(4) *Manner of application.* Vertical end handholds shall be securely fastened with not less than1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than1/2-inch rivets.
+(4) *Manner of application.* Vertical end handholds shall be securely fastened with not less than 1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than 1/2-inch rivets.
 
 (k) *Uncoupling levers*—(1) *Number.* Two. Uncoupling levers may be either single or double, and of any efficient design.
 

@@ -14,7 +14,7 @@
 
 (6) Contains the following certification:
 
-I hereby certify that I have this day served the foregoing [name of document] on the following persons at the following addresses and e-mail or facsimile numbers (if also served by e-mail or facsimile) by [specify method of service]:[list persons, addresses, and e-mail or facsimile numbers]Dated this \_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_, 20\_\_\_\_. [signature], for [party].
+I hereby certify that I have this day served the foregoing [name of document] on the following persons at the following addresses and e-mail or facsimile numbers (if also served by e-mail or facsimile) by [specify method of service]:[list persons, addresses, and e-mail or facsimile numbers] Dated this \_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_, 20\_\_\_\_. [signature], for [party].
 
 (b) The registered charter provider or qualified human service organization shall have 15 days to answer the complaint and shall file such answer, and all supporting documentation, in the Charter Service Removal Complaint docket number FTA-2007-0024 at *http://www.regulations.gov* and e-mail such answer to *ombudsman.charterservice@dot.gov.*
 

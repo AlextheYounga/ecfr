@@ -1,0 +1,3 @@
+##### § 1532.1125 How do award officials and others know if I am disqualified? #####
+
+If you are convicted under these statutes, the EPA enters your name and address and that of the violating facility into the Excluded Parties List System (EPLS) as soon as possible after the EPA learns of your conviction. In addition, the EPA enters other information describing the nature of your disqualification. Federal award officials and others who administer Federal programs consult the EPLS before entering into or approving procurement and nonprocurement transactions. Anyone may access the EPLS through the internet, currently at *http://www.epls.gov.*

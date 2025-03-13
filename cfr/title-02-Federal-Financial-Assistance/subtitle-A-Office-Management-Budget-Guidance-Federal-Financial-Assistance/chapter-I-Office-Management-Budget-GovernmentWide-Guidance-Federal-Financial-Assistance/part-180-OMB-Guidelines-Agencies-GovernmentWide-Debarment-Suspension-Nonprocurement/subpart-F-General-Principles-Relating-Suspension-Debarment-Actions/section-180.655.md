@@ -1,0 +1,3 @@
+##### § 180.655 How will other Federal awarding agencies know about an administrative agreement that is the result of a settlement? #####
+
+The suspending or debarring official who enters into an administrative agreement with you must report information about the agreement in *SAM.gov* within three business days after entering into the agreement. The suspending and debarring official must use the Contractor Performance Assessment Reporting System (CPARS) to enter or amend information in *SAM.gov*. This information is required by section 872 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (41 U.S.C. 2313).

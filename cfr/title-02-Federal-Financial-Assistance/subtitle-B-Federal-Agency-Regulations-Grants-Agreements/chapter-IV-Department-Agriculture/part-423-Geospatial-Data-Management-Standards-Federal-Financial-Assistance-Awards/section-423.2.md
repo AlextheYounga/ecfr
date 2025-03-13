@@ -1,0 +1,3 @@
+##### § 423.2 Disclosure of geospatial investments. #####
+
+USDA awarding agencies must ensure that all Federal financial assistance instruments which involve the acquisition, storage, or distribution of geospatial data comply with USDA policy. For all such instruments, USDA awarding agencies must require award terms and conditions necessary for the specific purpose of complying with law, regulation, and USDA policy.

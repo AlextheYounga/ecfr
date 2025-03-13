@@ -4,7 +4,7 @@
 
 (b) *Dents, cuts, digs and gouges.* For evaluation procedures, see CGA C-6 (IBR, see § 171.7 of this subchapter).
 
-(1) For dents at welds or that include a weld, the maximum allowable depth is1/2 inch. For dents away from welds, the maximum allowable depth is1/10 of the greatest dimension of the dent, but in no case may the depth exceed one inch.
+(1) For dents at welds or that include a weld, the maximum allowable depth is 1/2 inch. For dents away from welds, the maximum allowable depth is 1/10 of the greatest dimension of the dent, but in no case may the depth exceed one inch.
 
 (2) The minimum thickness remaining beneath a cut, dig, or gouge may not be less than that prescribed in the applicable specification.
 

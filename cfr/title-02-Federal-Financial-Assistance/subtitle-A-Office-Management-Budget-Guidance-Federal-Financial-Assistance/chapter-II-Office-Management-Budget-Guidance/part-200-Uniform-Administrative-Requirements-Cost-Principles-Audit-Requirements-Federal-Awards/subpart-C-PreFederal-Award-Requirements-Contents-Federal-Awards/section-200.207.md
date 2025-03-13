@@ -1,0 +1,5 @@
+##### § 200.207 Standard application requirements. #####
+
+(a) *Paperwork clearances.* The Federal agency may only use application information collections approved by OMB under the Paperwork Reduction Act of 1995 and OMB's implementing regulations in 5 CFR part 1320 and in alignment with OMB-approved, government-wide data elements available from the OMB-designated standards lead. Examples of application information collections approved by OMB include the Standard Forms 424 (SF-424), which is available on *Grants.gov*, and the Biographical Sketch Common Form (OMB Control Number 3145-0279), which Federal agencies should use to collect biographical sketches and other disclosure information from award applicants. OMB will authorize additional information collections only on a limited basis and consistent with these requirements.
+
+(b) *Information collection.* The Federal agency may inform applicants that they do not need to provide certain information already being collected through other means.

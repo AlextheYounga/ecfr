@@ -1,7 +1,5 @@
 ##### § 204.4 Computation of required reserves. #####
 
-Link to an amendment published at 89 FR 91536, Nov. 20, 2024.
-
 (a) In determining the reserve requirement under this part, the amount of cash items in process of collection and balances subject to immediate withdrawal due from other depository institutions located in the United States (including such amounts due from United States branches and agencies of foreign banks and Edge and Agreement corporations) may be deducted from the amount of gross transaction accounts. The amount that may be deducted may not exceed the amount of gross transaction accounts.
 
 (b) United States branches and agencies of a foreign bank may not deduct balances due from another United States branch or agency of the same foreign bank, and United States offices of an Edge or Agreement Corporation may not deduct balances due from another United States office of the same Edge or Agreement Corporation.
@@ -17,9 +15,9 @@ Link to an amendment published at 89 FR 91536, Nov. 20, 2024.
 |                                          Reservable liability                                          |              Reserve requirement               |
 |--------------------------------------------------------------------------------------------------------|------------------------------------------------|
 |                                       Net Transaction Accounts:                                        |                                                |
-|                      $0 to reserve requirement exemption amount ($36.1 million).                       |                                                |
-|Over reserve requirement exemption amount ($36.1 million) and up to low reserve tranche ($644.0 million)|              0 percent of amount.              |
-|                               Over low reserve tranche ($644.0 million)                                |$0 plus 0 percent of amount over $644.0 million.|
+|                       $0 to reserve requirement exemption amount ($37.8 million)                       |              0 percent of amount.              |
+|Over reserve requirement exemption amount ($37.8 million) and up to low reserve tranche ($645.8 million)|              0 percent of amount.              |
+|                               Over low reserve tranche ($645.8 million)                                |$0 plus 0 percent of amount over $645.8 million.|
 |                                       Nonpersonal time deposits                                        |                   0 percent.                   |
 |                                        Eurocurrency liabilities                                        |                   0 percent.                   |
 

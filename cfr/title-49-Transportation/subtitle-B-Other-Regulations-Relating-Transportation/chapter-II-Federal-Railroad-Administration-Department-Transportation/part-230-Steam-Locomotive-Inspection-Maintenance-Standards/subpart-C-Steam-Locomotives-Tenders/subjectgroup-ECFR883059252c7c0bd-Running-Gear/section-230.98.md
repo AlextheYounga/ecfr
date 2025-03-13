@@ -12,8 +12,8 @@
 
 (5) Axles that are unsafe on account of usage, accident or derailment;
 
-(6) Any axle worn1/2 inch or more in diameter below the original/new journal diameter, except as provided in paragraph (a)(7) of this section;
+(6) Any axle worn 1/2 inch or more in diameter below the original/new journal diameter, except as provided in paragraph (a)(7) of this section;
 
-(7) Any driving axles other than main driving axles with an original or new diameter greater than 6 inches that are worn3/4 inch or more in diameter below the original/new diameter.
+(7) Any driving axles other than main driving axles with an original or new diameter greater than 6 inches that are worn 3/4 inch or more in diameter below the original/new diameter.
 
 (b) *Journal diameter stamped.* For steam locomotives with plain bearings, the original/new journal diameter shall be stamped on one end of the axle no later than January 18, 2005.

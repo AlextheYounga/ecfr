@@ -1,0 +1,23 @@
+##### § 200.206 Federal agency review of risk posed by applicants. #####
+
+(a) *Review of OMB-designated repositories of government-wide data.* (1) Prior to making a Federal award, the Federal agency is required to review eligibility information for applicants and financial integrity information for applicants available in OMB-designated databases per the Payment Integrity Information Act of 2019 (Pub. L. 116-117), the “Do Not Pay Initiative” (31 U.S.C. 3354), and 41 U.S.C. 2313.
+
+(2) The Federal agency is required to review the responsibility and qualification records available in the non-public segment of the System for Award Management (*SAM.gov*) prior to making a Federal award where the Federal share is expected to exceed the simplified acquisition threshold, defined at 41 U.S.C. 134, over the period of performance. See 41 U.S.C. 2313. The Federal agency must consider all of the information available in *SAM.gov* with regard to the applicant and any immediate highest-level owner, predecessor (meaning, an organization that is replaced by a successor), or subsidiary, identified for that applicant in *SAM.gov*. See Public Law 112-239, National Defense Authorization Act for Fiscal Year 2013; 41 U.S.C. 2313(d). The information in the system for a prior recipient of a Federal award must demonstrate a satisfactory record of administering programs or activities under Federal financial assistance or procurement awards, and integrity and business ethics. The Federal agency may make a Federal award to a recipient that does not fully meet these standards if it is determined that the information is not relevant to the Federal award under consideration or there are specific conditions that can appropriately mitigate the risk associated with the recipient in accordance with § 200.208.
+
+(b) *Risk Assessment.* (1) The Federal agency must establish and maintain policies and procedures for conducting a risk assessment to evaluate the risks posed by applicants before issuing Federal awards. This assessment helps identify risks that may affect the advancement toward or the achievement of a project's goals and objectives. Risk assessments assist Federal managers in determining appropriate resources and time to devote to project oversight and monitor recipient progress. This assessment may incorporate elements such as the quality of the application, award amount, risk associated with the program, cybersecurity risks, fraud risks, and impacts on local jobs and the community. If the Federal agency determines that the Federal award will be made, specific conditions that address the assessed risk may be implemented in the Federal award. The risk criteria to be evaluated must be described in the announcement of the funding opportunity described in § 200.204.
+
+(2) In evaluating risks posed by applicants, the Federal agency should consider the following items:
+
+(i) *Financial stability.* The applicant's record of effectively managing financial risks, assets, and resources;
+
+(ii) *Management systems and standards.* Quality of management systems and ability to meet the management standards prescribed in this part;
+
+(iii) *History of performance.* The applicant's record of managing previous and current Federal awards, including compliance with reporting requirements and conformance to the terms and conditions of Federal awards, if applicable;
+
+(iv) *Audit reports and findings.* Reports and findings from audits performed under subpart F or the reports and findings of any other available audits, if applicable; and
+
+(v) *Ability to effectively implement requirements.* The applicant's ability to effectively implement statutory, regulatory, or other requirements imposed on recipients of Federal awards.
+
+(c) *Adjustments to the Risk Assessment.* The Federal agency may modify the risk assessment at any time during the period of performance, which may justify changes to the terms and conditions of the Federal award. See § 200.208.
+
+(d) *Suspension and debarment compliance.* The Federal agency must comply with the government-wide suspension and debarment guidance in 2 CFR part 180 and individual Federal agency suspension and debarment requirements in title 2 of the Code of Federal Regulations. Federal agencies must also require recipients to comply with these requirements. These requirements restrict making Federal awards, subawards, and contracts with certain parties that are debarred, suspended, or otherwise excluded from receiving Federal awards or participating in Federal awards.

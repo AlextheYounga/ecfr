@@ -1,0 +1,3 @@
+##### § 1532.1200 How will I know if I am disqualified under the CAA or CWA? #####
+
+There may be several ways that you learn about your disqualification. You are legally on notice by the statutes that a criminal conviction the CAA or CWA automatically disqualifies you. As a practical matter, you may learn about your disqualification from your defense counsel, a Federal contract or award official, or from someone else who sees your name in the EPLS. As a courtesy, the EPA will attempt to notify you and the owner, lessor or supervisor of the violating facility that your names have been entered into the EPLS. The EPA will inform you of the procedures for seeking reinstatement and give you the name of a person you can contact to discuss your reinstatement request.

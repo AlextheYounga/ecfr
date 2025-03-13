@@ -1,0 +1,3 @@
+##### § 1326.220 What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions? #####
+
+In addition to the contracts covered under 2 CFR 180.220(b) of the OMB guidance, this part applies to a subcontract that is awarded by a participant in a procurement transaction covered under 2 CFR 180.220(a), if the amount of the subcontract exceeds or is expected to exceed $25,000. This extends the coverage of the Department of Commerce nonprocurement suspension and debarment requirements to one additional tier of contracts under covered nonprocurement transactions, as permitted under the OMB guidance at 2 CFR 180.220(c) (see optional lower tier coverage in the figure in the appendix to 2 CFR part 180).

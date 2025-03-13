@@ -1,0 +1,15 @@
+##### § 176.150 Notice of Required Use of American Iron, Steel, and Manufactured Goods—Section 1605 of the American Recovery and Reinvestment Act of 2009. #####
+
+When requesting applications or proposals for Recovery Act programs or activities that may involve construction, alteration, maintenance, or repair of a public building or public work, and do not involve iron, steel, and/or manufactured goods covered under international agreements, the agency shall use the notice described in the following paragraphs in their solicitations:
+
+(a) *Definitions.* Manufactured good, public building and public work, and steel, as used in this notice, are defined in the 2 CFR 176.140.
+
+(b) *Requests for determinations of inapplicability.* A prospective applicant requesting a determination regarding the inapplicability of section 1605 of the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5) (Recovery Act) should submit the request to the award official in time to allow a determination before submission of applications or proposals. The prospective applicant shall include the information and applicable supporting data required by paragraphs at 2 CFR 176.140(c) and (d) in the request. If an applicant has not requested a determination regarding the inapplicability of 1605 of the Recovery Act before submitting its application or proposal, or has not received a response to a previous request, the applicant shall include the information and supporting data in the application or proposal.
+
+(c) *Evaluation of project proposals.* If the Federal Government determines that an exception based on unreasonable cost of domestic iron, steel, and/or manufactured goods applies, the Federal Government will evaluate a project requesting exception to the requirements of section 1605 of the Recovery Act by adding to the estimated total cost of the project 25 percent of the project cost, if foreign iron, steel, or manufactured goods are used in the project based on unreasonable cost of comparable manufactured domestic iron, steel, and/or manufactured goods.
+
+(d) *Alternate project proposals.* (1) When a project proposal includes foreign iron, steel, and/or manufactured goods not listed by the Federal Government at 2 CFR 176.140(b)(2), the applicant also may submit an alternate proposal based on use of equivalent domestic iron, steel, and/or manufactured goods.
+
+(2) If an alternate proposal is submitted, the applicant shall submit a separate cost comparison table prepared in accordance with 2 CFR 176.140(c) and (d) for the proposal that is based on the use of any foreign iron, steel, and/or manufactured goods for which the Federal Government has not yet determined an exception applies.
+
+(3) If the Federal Government determines that a particular exception requested in accordance with 2 CFR 176.140(b) does not apply, the Federal Government will evaluate only those proposals based on use of the equivalent domestic iron, steel, and/or manufactured goods, and the applicant shall be required to furnish such domestic items.

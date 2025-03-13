@@ -8,7 +8,7 @@
 
 (c) *Signals.* Auditory and visual warning signals shall be provided to alert passengers of closing doors.
 
-(d) *Coordination with boarding platform*—(1) *Requirements.* The design of level-entry vehicles shall be coordinated with the boarding platform or mini-high platform design so that the horizontal gap between a vehicle at rest and the platform shall be no greater than 3 inches and the height of the vehicle floor shall be within plus or minus5/8 inch of the platform height. Vertical alignment may be accomplished by vehicle air suspension, automatic ramps or lifts, or any combination.
+(d) *Coordination with boarding platform*—(1) *Requirements.* The design of level-entry vehicles shall be coordinated with the boarding platform or mini-high platform design so that the horizontal gap between a vehicle at rest and the platform shall be no greater than 3 inches and the height of the vehicle floor shall be within plus or minus 5/8 inch of the platform height. Vertical alignment may be accomplished by vehicle air suspension, automatic ramps or lifts, or any combination.
 
 (2) *Exception.* New vehicles operating in existing stations may have a floor height within plus or minus 11/2 inches of the platform height. At key stations, the horizontal gap between at least one door of each such vehicle and the platform shall be no greater than 3 inches.
 

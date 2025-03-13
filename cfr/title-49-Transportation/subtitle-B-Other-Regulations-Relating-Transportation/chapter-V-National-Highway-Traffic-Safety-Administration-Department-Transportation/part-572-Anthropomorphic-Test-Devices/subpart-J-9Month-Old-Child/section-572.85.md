@@ -4,7 +4,7 @@
 
 (b) *Test procedure.* (1) The lumbar spine flexure test is conducted on a dummy assembly as shown in drawing LP 1049/A, but with the arms (which consist of parts identified as items 17 through 30) and all head-neck parts (identified as items 1 through 13 and 59 through 63), removed.
 
-(2) With the torso assembled in an upright position, adjust the lumbar cable by tightening the adjustment nut for the lumbar vertebrae until the spring is compressed to2/3 of its unloaded length.
+(2) With the torso assembled in an upright position, adjust the lumbar cable by tightening the adjustment nut for the lumbar vertebrae until the spring is compressed to 2/3 of its unloaded length.
 
 (3) Position the dummy in an upright seated position on a seat as indicated in Figure No. 18 of § 572.21 (lower legs do not need to be removed, but must be clamped firmly to the seating surface), ensuring that all dummy component surfaces are clean, dry and untreated unless otherwise specified.
 

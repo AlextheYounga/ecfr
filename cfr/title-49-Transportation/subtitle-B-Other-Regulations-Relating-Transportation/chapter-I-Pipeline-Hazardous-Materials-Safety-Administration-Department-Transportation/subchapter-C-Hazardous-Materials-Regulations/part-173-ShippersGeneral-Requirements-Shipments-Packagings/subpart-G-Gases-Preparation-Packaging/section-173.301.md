@@ -34,7 +34,7 @@
 
 (7) A cylinder with an authorized service life may not be offered for transportation in commerce after its authorized service life has expired. However, a cylinder in transportation or a cylinder filled prior to the expiration of its authorized service life may be transported for reprocessing or disposal of the cylinder's contents. After emptying, the cylinder must be condemned in accordance with § 180.205 of this subchapter.
 
-(8) The pressure of the hazardous material at 55 °C (131 °F) may not exceed5/4 of the service pressure of the cylinder. Sufficient outage must be provided so the cylinder will not be liquid full at 55 °C (131 °F).
+(8) The pressure of the hazardous material at 55 °C (131 °F) may not exceed 5/4 of the service pressure of the cylinder. Sufficient outage must be provided so the cylinder will not be liquid full at 55 °C (131 °F).
 
 (9) Specification 2P, 2Q, 3E, 3HT, spherical 4BA, 4D, 4DA, 4DS, and 39 cylinders must be packed in strong non-bulk outer packagings. The outside of the combination packaging must be marked with an indication that the inner packagings conform to the prescribed specifications.
 
@@ -112,15 +112,15 @@
 
 (ii) A cylinder containing a Class 8 liquid corrosive only to metal;
 
-(iii) A cylinder with a water capacity of 4.8 liters (293 in3) or less containing oxygen, compressed;
+(iii) A cylinder with a water capacity of 4.8 liters (293 in 3) or less containing oxygen, compressed;
 
 (iv) A cylinder containing oxygen, refrigerated liquid (cryogenic liquid);
 
-(v) A Medical E cylinder with a water capacity of 4.9 liters (300 in3) or less;
+(v) A Medical E cylinder with a water capacity of 4.9 liters (300 in 3) or less;
 
 (vi) A fire extinguisher; or
 
-(vii) A “B” style cylinder with a capacity of 40 ft3 (1.13 m3) or an “MC” style cylinder with a capacity of 10 ft3 (0.28m3) containing acetylene.
+(vii) A “B” style cylinder with a capacity of 40 ft 3 (1.13 m3) or an “MC” style cylinder with a capacity of 10 ft 3 (0.28m3) containing acetylene.
 
 (2) For cylinders manufactured before October 1, 2007, a cylinder must have its valves protected by one of the following methods:
 

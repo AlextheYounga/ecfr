@@ -1,0 +1,3 @@
+##### § 1882.515 Are there any exceptions to those actions? #####
+
+The Assistant Administrator for Procurement (AA) may waive with respect to a particular award, in writing, a suspension of payments under an award or a suspension or termination of an award. The Chief Acquisition Officer (CAO) may approve an award to a suspended or debarred entity if the CAO determines that such a waiver would be in the public interest. These exception authorities cannot be delegated to any other official.

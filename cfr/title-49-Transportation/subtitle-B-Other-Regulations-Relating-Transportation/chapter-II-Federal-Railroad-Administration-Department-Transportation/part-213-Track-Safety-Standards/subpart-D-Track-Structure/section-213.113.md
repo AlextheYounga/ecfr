@@ -24,7 +24,7 @@
 
 (3) *Compound fissure* means a progressive fracture originating from a horizontal split head that turns up or down, or in both directions, in the head of the rail. Transverse development normally progresses substantially at a right angle to the length of the rail.
 
-(4) *Crushed head* means a short length of rail, not at a joint, which has drooped or sagged across the width of the rail head to a depth of3/8 inch or more below the rest of the rail head and 8 inches or more in length. Unlike flattened rail where the depression is visible on the rail head only, the sagging or drooping is also visible in the head/web fillet area.
+(4) *Crushed head* means a short length of rail, not at a joint, which has drooped or sagged across the width of the rail head to a depth of 3/8 inch or more below the rest of the rail head and 8 inches or more in length. Unlike flattened rail where the depression is visible on the rail head only, the sagging or drooping is also visible in the head/web fillet area.
 
 (5) *Damaged rail* means any rail broken or otherwise damaged by a derailment, broken, flat, or unbalanced wheel, wheel slipping, or similar causes.
 
@@ -34,11 +34,11 @@
 
 (8) *Engine burn fracture* means a progressive fracture originating in spots where driving wheels have slipped on top of the rail head. In developing downward these fractures frequently resemble the compound or even transverse fissures with which they should not be confused or classified.
 
-(9) *Flattened rail* means a short length of rail, not at a joint, which has flattened out across the width of the rail head to a depth of3/8 inch or more below the rest of the rail and 8 inches or more in length. Flattened rail occurrences have no repetitive regularity and thus do not include corrugations, and have no apparent localized cause such as a weld or engine burn. Their individual length is relatively short, as compared to a condition such as head flow on the low rail of curves.
+(9) *Flattened rail* means a short length of rail, not at a joint, which has flattened out across the width of the rail head to a depth of 3/8 inch or more below the rest of the rail and 8 inches or more in length. Flattened rail occurrences have no repetitive regularity and thus do not include corrugations, and have no apparent localized cause such as a weld or engine burn. Their individual length is relatively short, as compared to a condition such as head flow on the low rail of curves.
 
 (10) *Head and web separation* means a progressive fracture, longitudinally separating the head from the web of the rail at the head fillet area.
 
-(11) *Horizontal split head* means a horizontal progressive defect originating inside of the rail head, usually1/4 inch or more below the running surface and progressing horizontally in all directions, and generally accompanied by a flat spot on the running surface. The defect appears as a crack lengthwise of the rail when it reaches the side of the rail head.
+(11) *Horizontal split head* means a horizontal progressive defect originating inside of the rail head, usually 1/4 inch or more below the running surface and progressing horizontally in all directions, and generally accompanied by a flat spot on the running surface. The defect appears as a crack lengthwise of the rail when it reaches the side of the rail head.
 
 (12) *Ordinary break* means a partial or complete break in which there is no sign of a fissure, and in which none of the other defects described in this paragraph (d) is found.
 

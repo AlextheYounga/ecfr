@@ -1,0 +1,3 @@
+##### § 180.720 How may I contest a suspension? #####
+
+As a respondent, if you wish to contest a suspension, you or your representative must provide the suspending official with information in opposition to the suspension. You may do this orally or in writing. While oral statements may be a part of the official record, any information provided orally that you consider important must also be submitted in writing for the official record.

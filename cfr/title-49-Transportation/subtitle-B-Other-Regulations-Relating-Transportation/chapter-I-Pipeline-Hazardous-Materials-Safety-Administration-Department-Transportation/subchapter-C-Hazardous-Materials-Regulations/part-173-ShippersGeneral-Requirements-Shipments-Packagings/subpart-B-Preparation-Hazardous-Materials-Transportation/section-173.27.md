@@ -153,4 +153,4 @@
 
 (i) Each person who offers a hazardous material for transportation by aircraft must include the certification statement specified in § 172.204(c)(3) of this subchapter.
 
-[Amdt. 173-224, 55 FR 52612, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.27, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[Amdt. 173-224, 55 FR 52612, Dec. 21, 1990] Editorial Note:For Federal Register citations affecting § 173.27, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

@@ -1,3 +1,3 @@
 ##### § 1112.9 Sample verification for statement of fact under modified procedure. #####
 
-State of \_\_\_\_\_\_\_\_\_\_,County of \_\_\_\_\_\_\_\_\_\_,SS:\_\_\_\_\_\_\_\_\_\_ being duly sworn, deposes and says that he has read the foregoing statement, knows the facts asserted there are true and that the same are true as stated.Signed \_\_\_\_\_\_\_\_\_\_.Subscribed and sworn to before me this \_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_.Notary Public of \_\_\_\_\_\_\_\_\_\_.My Commission expires \_\_\_\_\_\_\_\_\_\_.
+State of \_\_\_\_\_\_\_\_\_\_,County of \_\_\_\_\_\_\_\_\_\_,SS:\_\_\_\_\_\_\_\_\_\_ being duly sworn, deposes and says that he has read the foregoing statement, knows the facts asserted there are true and that the same are true as stated. Signed \_\_\_\_\_\_\_\_\_\_. Subscribed and sworn to before me this \_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_.Notary Public of \_\_\_\_\_\_\_\_\_\_.My Commission expires \_\_\_\_\_\_\_\_\_\_.

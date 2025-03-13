@@ -56,7 +56,7 @@ S4 *Definitions.*
 
 *Direct reading indicator* means a device that is mounted in its entirety on a headlamp or headlamp aiming or headlamp mounting equipment, is part of a VHAD, and provides information about headlamp aim in an analog or digital format.
 
-*Effective light-emitting surface* means that portion of a lamp that directs light to the photometric test pattern, and does not include transparent lenses, mounting hole bosses, reflex reflector area, beads or rims that may glow or produce small areas of increased intensity as a result of uncontrolled light from an area of1/2° radius around a test point.
+*Effective light-emitting surface* means that portion of a lamp that directs light to the photometric test pattern, and does not include transparent lenses, mounting hole bosses, reflex reflector area, beads or rims that may glow or produce small areas of increased intensity as a result of uncontrolled light from an area of 1/2° radius around a test point.
 
 *Effective projected luminous lens area* means the area of the orthogonal projection of the effective light-emitting surface of a lamp on a plane perpendicular to a defined direction relative to the axis of reference. Unless otherwise specified, the direction is coincident with the axis of reference.
 
@@ -988,7 +988,7 @@ S9.3.3 The indicator must function satisfactorily under all test conditions impo
 
 S9.3.4 *Indicator size and color.*
 
-S9.3.4.1 If the indicator is located inside the vehicle it must emit a green colored light and have a minimum area equivalent to a3/16 in diameter circle.
+S9.3.4.1 If the indicator is located inside the vehicle it must emit a green colored light and have a minimum area equivalent to a 3/16 in diameter circle.
 
 S9.3.4.2 If the indicator is located outside of the vehicle it must emit a yellow light and have a minimum projected illuminated area of 0.1 sq in.
 
@@ -1044,7 +1044,7 @@ S9.4.1.6.5 The adaptive driving beams may be provided by any combination of head
 
 S9.5 *Upper beam headlamp indicator.* Each vehicle must have a means for indicating to the driver when the upper beams of the headlighting system are activated. The upper beam headlamp indicator is not required to be activated when an Adaptive Driving Beam system is operating in automatic mode.
 
-S9.5.1 *Indicator size and location.* The upper beam headlamp indicator must have a minimum area equivalent to that of a3/16 in diameter circle, and be plainly visible to drivers of all heights under normal driving conditions when headlamps are required.
+S9.5.1 *Indicator size and location.* The upper beam headlamp indicator must have a minimum area equivalent to that of a 3/16 in diameter circle, and be plainly visible to drivers of all heights under normal driving conditions when headlamps are required.
 
 S9.6 *Vehicular hazard warning signal operating unit.*
 
@@ -1556,7 +1556,7 @@ S14.2.5.3 *Measurement distance.* Photometric measurements are made at a distanc
 
 S14.2.5.4 *Seasoning and test voltage.* All sealed beam headlamps, integral beam headlamps, beam contributors, and replaceable light sources are seasoned at design voltage for 1% of its average design life or 10 hours, whichever is less prior to a photometry test. A headlamp is tested at 12.8 v. ±20 mv, D.C. as measured at the terminals of the lamp.
 
-S14.2.5.5 *Aiming.* Each headlamp is aimed prior to a photometry test in accordance with the procedure appropriate to its aiming system. A1/4° reaim is permitted in any direction at any test point to allow for variations in readings between laboratories for all headlamps except a Type F upper beam unit not equipped with a VHAD.
+S14.2.5.5 *Aiming.* Each headlamp is aimed prior to a photometry test in accordance with the procedure appropriate to its aiming system. A 1/4° reaim is permitted in any direction at any test point to allow for variations in readings between laboratories for all headlamps except a Type F upper beam unit not equipped with a VHAD.
 
 S14.2.5.5.1 *Mechanically aimable headlamps using an external aimer.* The headlamp is aimed mechanically with the aiming plane at the design angle(s) to the photometer axis and the mechanical axis of the headlamp on the photometer axis.
 
@@ -1758,7 +1758,7 @@ S14.5 *Signal lamp and reflective device physical test procedures and performanc
 
 S14.5.1 *Vibration test.*
 
-S14.5.1.1 *Procedure.* The sample device, as mounted on the support supplied, must be bolted to the anvil end of the table of the vibration test machine of Figure 21 and vibrated approximately 750 cpm through a distance of1/8 in. The table must be spring mounted at one end and fitted with steel calks on the underside of the other end. The calks are to make contact with the steel anvil once during each cycle at the completion of the fall. The rack must be operated under a spring tension of 60 to 70 lb. The test must be continued for 1 hour.
+S14.5.1.1 *Procedure.* The sample device, as mounted on the support supplied, must be bolted to the anvil end of the table of the vibration test machine of Figure 21 and vibrated approximately 750 cpm through a distance of 1/8 in. The table must be spring mounted at one end and fitted with steel calks on the underside of the other end. The calks are to make contact with the steel anvil once during each cycle at the completion of the fall. The rack must be operated under a spring tension of 60 to 70 lb. The test must be continued for 1 hour.
 
 S14.5.1.2 *Performance requirements.* After completion of the vibration test a device showing evidence of material physical weakness, lens or reflector rotation, displacement or rupture of parts except bulb failures, must be considered to have failed, providing that the rotation of lens or reflector must not be considered as a failure when tests show compliance with specifications despite such rotation.
 
@@ -1794,7 +1794,7 @@ S14.6.1.1.2 *Abrading pad alignment.* A sample headlamp is mounted in the abrasi
 
 S14.6.1.1.3 *Abrasion test procedure.* The pad is cycled back and forth (1 cycle) for 11 cycles at 4 ±0.8 in (10 ±2 cm) per second over at least 80% of the lens surface, including all the area between the upper and lower aiming pads, but not including lens trim rings and edges. A pivot must be used if it is required to follow the contour of the lens.
 
-S14.6.1.2 *Performance requirements.* After completion of the abrasion test the sample headlamp must meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A1/4° reaim is permitted in any direction at any test point.
+S14.6.1.2 *Performance requirements.* After completion of the abrasion test the sample headlamp must meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A 1/4° reaim is permitted in any direction at any test point.
 
 S14.6.2 *Chemical resistance test.*
 
@@ -1816,7 +1816,7 @@ S14.6.2.1.2 *Fluid application.* The entire exterior lens surface of the sample 
 
 S14.6.2.1.3 *Test duration.* After the headlamp sample has been wiped with the test fluid, it must be stored in its designed operating attitude for 48 hours at a temperature of 23 °C ±4 °C and a relative humidity of 30% ±10%. At the end of the 48-hour period, the headlamp is wiped clean with a soft dry cotton cloth and visually inspected.
 
-S14.6.2.2 *Performance requirements.* After completion of the chemical resistance test, the sample headlamp must have no surface deterioration, coating delamination, fractures, deterioration of bonding or sealing materials, color bleeding, or color pickup visible without magnification and the headlamp must meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A1/4° reaim is permitted in any direction at any test point.
+S14.6.2.2 *Performance requirements.* After completion of the chemical resistance test, the sample headlamp must have no surface deterioration, coating delamination, fractures, deterioration of bonding or sealing materials, color bleeding, or color pickup visible without magnification and the headlamp must meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A 1/4° reaim is permitted in any direction at any test point.
 
 S14.6.3 *Corrosion test.*
 
@@ -1858,7 +1858,7 @@ S14.6.5.1.2 The box contains 4.5 kg of fine powdered cement which conforms to th
 
 S14.6.5.1.3 This test is continued for five hours after which the exterior surfaces of the headlamp are wiped clean.
 
-S14.6.5.2 *Performance requirements.* After completion of the dust test, the sample headlamp must meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A1/4° reaim is permitted in any direction at any test point.
+S14.6.5.2 *Performance requirements.* After completion of the dust test, the sample headlamp must meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A 1/4° reaim is permitted in any direction at any test point.
 
 S14.6.6 *Temperature cycle test and internal heat test.*
 
@@ -1890,13 +1890,13 @@ S14.6.6.3.2 *Performance requirements.* After completion of the temperature cycl
 
 (b) show no lens warpage greater than 3 mm when measured parallel to the optical axis at the point of intersection of the axis of each light source with the exterior surface of the lens; and
 
-(c) meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A1/4° reaim is permitted in any direction at any test point.
+(c) meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A 1/4° reaim is permitted in any direction at any test point.
 
 S14.6.6.4 *Internal heat test.*
 
 S14.6.6.4.1 *Procedure.*
 
-S14.6.6.4.1.1 A sample headlamp lens surface that would normally be exposed to road dirt is uniformly sprayed with any appropriate mixture of dust and water or other materials to reduce the photometric output at the H-V test point of the upper beam (or the1/2°D-11/2°R test point of the lower beam as applicable) to 25% ±2% of the output originally measured in the applicable photometric compliance test.
+S14.6.6.4.1.1 A sample headlamp lens surface that would normally be exposed to road dirt is uniformly sprayed with any appropriate mixture of dust and water or other materials to reduce the photometric output at the H-V test point of the upper beam (or the 1/2°D-11/2°R test point of the lower beam as applicable) to 25% ±2% of the output originally measured in the applicable photometric compliance test.
 
 S14.6.6.4.1.2 A headlamp with a single type HB1 or type HB2 light source is tested on the upper beam only.
 
@@ -1912,13 +1912,13 @@ S14.6.6.4.2 *Performance requirements.* After completion of the temperature cycl
 
 (a) have no lens warpage greater than 3 mm when measured parallel to the optical axis at the point of intersection of the axis of each light source with the exterior surface of the lens, and
 
-(b) meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A1/4° reaim is permitted in any direction at any test point.
+(b) meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A 1/4° reaim is permitted in any direction at any test point.
 
 S14.6.7 *Humidity test.*
 
 S14.6.7.1 *Procedure.*
 
-S14.6.7.1.1 The test fixture consists of a horizontal steel plate to which three threaded steel or aluminum rods of1/2 inch diameter are screwed vertically behind the headlamp.
+S14.6.7.1.1 The test fixture consists of a horizontal steel plate to which three threaded steel or aluminum rods of 1/2 inch diameter are screwed vertically behind the headlamp.
 
 S14.6.7.1.2 The sample headlamp assembly is clamped to the vertical rods, which are behind the headlamp. All attachments to the headlamp assembly are made behind the lens and vents or openings, and are not within 2 inches laterally of a vent inlet or outlet.
 
@@ -1940,7 +1940,7 @@ S14.6.8 *Vibration test.*
 
 S14.6.8.1 *Samples.* The mounting bracket with a sample headlamp installed must not have a resonant frequency in the 10-55 Hz. range.
 
-S14.6.8.2 *Procedure.* The mounted sample headlamp is bolted to the anvil end of the table of the vibration test machine of Figure 21 and vibrated 750 cpm through a distance of1/8 in. The table is spring mounted at one end and fitted with steel calks on the underside of the other end. The table is of sufficient size to completely contain the test fixture base with no overhang. The calks are to make contact with the steel anvil once during each cycle at the completion of the fall. The rack is operated under a spring tension of 60 to 70 lb. The vibration is applied in the vertical axis of the headlamp as mounted on the vehicle. Bulb filaments are not energized during the test. The test is continued for 1 hour.
+S14.6.8.2 *Procedure.* The mounted sample headlamp is bolted to the anvil end of the table of the vibration test machine of Figure 21 and vibrated 750 cpm through a distance of 1/8 in. The table is spring mounted at one end and fitted with steel calks on the underside of the other end. The table is of sufficient size to completely contain the test fixture base with no overhang. The calks are to make contact with the steel anvil once during each cycle at the completion of the fall. The rack is operated under a spring tension of 60 to 70 lb. The vibration is applied in the vertical axis of the headlamp as mounted on the vehicle. Bulb filaments are not energized during the test. The test is continued for 1 hour.
 
 S14.6.8.3 *Performance requirements.* After completion of the vibration test, there must be no evidence of loose or broken parts, other than filaments, visible without magnification.
 
@@ -1974,7 +1974,7 @@ S14.6.10.1.2 *Fluid application.* With a sample headlamp in the headlamp test fi
 
 S14.6.10.1.3 *Test duration.* After the headlamp has been wiped with the test fluid, it is stored in its designed operating attitude for 48 hours at a temperature of 73° ±7 °F (23° ±4 °C) and a relative humidity of 30% ±10%. At the end of the 48-hour period, the headlamp is wiped clean with a soft dry cotton cloth and visually inspected.
 
-S14.6.10.2 *Performance requirements.* After completion of the chemical resistance test, the sample headlamp must have no surface deterioration, coating delamination, fractures, deterioration of bonding or sealing materials, color bleeding or color pickup visible without magnification and the headlamp must meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A1/4° re-aim is permitted in any direction at any test point.
+S14.6.10.2 *Performance requirements.* After completion of the chemical resistance test, the sample headlamp must have no surface deterioration, coating delamination, fractures, deterioration of bonding or sealing materials, color bleeding or color pickup visible without magnification and the headlamp must meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A 1/4° re-aim is permitted in any direction at any test point.
 
 S14.6.11 *Corrosion resistance test of reflectors of replaceable lens headlamps test.*
 
@@ -1984,7 +1984,7 @@ S14.6.11.1.1 A sample headlamp with the lens removed, unfixtured and in its desi
 
 S14.6.11.1.2 Afterwards, the headlamp must be stored in its designed operating attitude for 48 hours at a temperature of 73° ±7 °F (23° ±4 °C) and a relative humidity of 30% ±10% and allowed to dry by natural convection only. At the end of the 48-hour period, the reflector must be cleaned according to the instructions supplied with the headlamp manufacturer's replacement lens, and inspected. The lens and seal must then be attached according to these instructions and the headlamp tested for photometric performance.
 
-S14.6.11.2 *Performance requirements.* After the completion of the corrosion test, the sample headlamp must show no evidence of corrosion or rust visible without magnification on any part of the headlamp reflector that receives light from a headlamp light source, on any metal light or heat shield assembly, or on a metal reflector of any other lamp. The sample headlamp with the replacement lens installed must meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A1/4° re-aim is permitted in any direction at any test point.
+S14.6.11.2 *Performance requirements.* After the completion of the corrosion test, the sample headlamp must show no evidence of corrosion or rust visible without magnification on any part of the headlamp reflector that receives light from a headlamp light source, on any metal light or heat shield assembly, or on a metal reflector of any other lamp. The sample headlamp with the replacement lens installed must meet the requirements of the applicable photometry tests of Table XIX and Table XVIII. A 1/4° re-aim is permitted in any direction at any test point.
 
 S14.6.12 *Inward force test.*
 
@@ -2487,7 +2487,7 @@ S14.9.3.11.9.1 *Procedure.*
 
 S14.9.3.11.9.1.1 The sensitivity of the sample device is adjusted so that it complies with the sensitivity test and the mechanical aim of the photounit determined.
 
-S14.9.3.11.9.1.2 The sample device must be mounted in proper vehicle position and subjected to vibration of 5g constant acceleration for1/2 hour in each of three directions: vertical; horizontal and parallel to the vehicle longitudinal axis; and horizontal and normal to the vehicle longitudinal axis.
+S14.9.3.11.9.1.2 The sample device must be mounted in proper vehicle position and subjected to vibration of 5g constant acceleration for 1/2 hour in each of three directions: vertical; horizontal and parallel to the vehicle longitudinal axis; and horizontal and normal to the vehicle longitudinal axis.
 
 S14.9.3.11.9.1.3 The vibration frequency must be varied from 30 to 200 and back to 30 cycles per second over a period of approximately 1 minute.
 

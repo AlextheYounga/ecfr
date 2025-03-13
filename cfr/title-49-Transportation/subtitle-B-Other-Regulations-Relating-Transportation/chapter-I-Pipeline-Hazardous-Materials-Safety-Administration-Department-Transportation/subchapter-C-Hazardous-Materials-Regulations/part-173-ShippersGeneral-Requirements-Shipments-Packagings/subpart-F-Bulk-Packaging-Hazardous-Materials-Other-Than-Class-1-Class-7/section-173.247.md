@@ -34,7 +34,7 @@ When § 172.101 of this subchapter specifies that a hazardous material be packag
 
 (A) A safety relief device incorporating a frangible disc or a permanent opening, each having a maximum effective area of 22 cm2 (3.4 in.2), for transportation by highway;
 
-(B) For transportation of asphalt by highway, a safety relief device incorporating a frangible disc or a permanent opening, each having a maximum effective area of 48 cm2 (7.4 in2); or
+(B) For transportation of asphalt by highway, a safety relief device incorporating a frangible disc or a permanent opening, each having a maximum effective area of 48 cm 2 (7.4 in 2); or
 
 (C) For transportation by rail, a non-reclosing pressure relief device incorporating a rupture disc conforming to the requirements of § 179.15 of this subchapter.
 

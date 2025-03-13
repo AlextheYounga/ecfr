@@ -2,15 +2,15 @@
 
 A railroad may not place or continue in service a car, if—
 
-(a) A wheel flange on the car is worn to a thickness of7/8 of an inch, or less, at a point3/8 of an inch above the tread of the wheel;
+(a) A wheel flange on the car is worn to a thickness of 7/8 of an inch, or less, at a point 3/8 of an inch above the tread of the wheel;
 
 (b) The height of a wheel flange on the car, from the tread to the top of the flange, is 11/2 inches, or more;
 
-(c) The thickness of a rim of a wheel on the car is11/16 of an inch, or less;
+(c) The thickness of a rim of a wheel on the car is 11/16 of an inch, or less;
 
 (d) A wheel rim, flange, plate, or hub area on the car has a crack or break;
 
-(e) A wheel on the car has a chip or gouge in the flange that is 11/2 inches in length and1/2 inch in width, or more;
+(e) A wheel on the car has a chip or gouge in the flange that is 11/2 inches in length and 1/2 inch in width, or more;
 
 (f) A wheel on the car has—
 

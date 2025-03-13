@@ -1,0 +1,3 @@
+##### § 1136.105 Content of OAR Article I. #####
+
+To implement the requirement described in § 1136.100, a DoD Component's general terms and conditions must use the standard wording appendix A to this part provides as OAR Article I. A DoD Component may reserve Section B of the article in its general terms and conditions if it is certain that there will be no award using those general terms and conditions for which the Federal share of the award's total value will exceed $500,000.

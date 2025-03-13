@@ -1,0 +1,3 @@
+##### § 2998.137 Who in DOL may grant an exception to let an excluded person participate in a covered transaction? #####
+
+Within the Department of Labor, the Secretary of Labor or designee has the authority to grant an exception to let an excluded person participate in a covered transaction, as provided in the OMB guidance at 2 CFR 180.135. If any designated official grants an exception, the exception must be in writing and state the reason(s) for deviating from the government-wide policy in Executive Order 12549.

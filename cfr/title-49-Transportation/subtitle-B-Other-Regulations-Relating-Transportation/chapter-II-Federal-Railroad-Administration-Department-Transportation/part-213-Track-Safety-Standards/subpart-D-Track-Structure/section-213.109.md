@@ -32,7 +32,7 @@
 
 (2) Split or otherwise impaired to the extent the crosstie will allow the ballast to work through, or will not hold spikes or rail fasteners;
 
-(3) So deteriorated that the crosstie plate or base of rail can move laterally1/2 inch relative to the crosstie; or
+(3) So deteriorated that the crosstie plate or base of rail can move laterally 1/2 inch relative to the crosstie; or
 
 (4) Cut by the crosstie plate through more than 40 percent of a crosstie's thickness.
 
@@ -40,11 +40,11 @@
 
 (1) Broken through or deteriorated to the extent that prestressing material is visible;
 
-(2) Deteriorated or broken off in the vicinity of the shoulder or insert so that the fastener assembly can either pull out or move laterally more than3/8 inch relative to the crosstie;
+(2) Deteriorated or broken off in the vicinity of the shoulder or insert so that the fastener assembly can either pull out or move laterally more than 3/8 inch relative to the crosstie;
 
-(3) Deteriorated such that the base of either rail can move laterally more than3/8 inch relative to the crosstie on curves of 2 degrees or greater; or can move laterally more than1/2 inch relative to the crosstie on tangent track or curves of less than 2 degrees;
+(3) Deteriorated such that the base of either rail can move laterally more than 3/8 inch relative to the crosstie on curves of 2 degrees or greater; or can move laterally more than 1/2 inch relative to the crosstie on tangent track or curves of less than 2 degrees;
 
-(4) Deteriorated or abraded at any point under the rail seat to a depth of1/2 inch or more;
+(4) Deteriorated or abraded at any point under the rail seat to a depth of 1/2 inch or more;
 
 (5) Deteriorated such that the crosstie's fastening or anchoring system, including rail anchors (see § 213.127(b)), is unable to maintain longitudinal rail restraint, or maintain rail hold down, or maintain gage due to insufficient fastener toeload; or
 

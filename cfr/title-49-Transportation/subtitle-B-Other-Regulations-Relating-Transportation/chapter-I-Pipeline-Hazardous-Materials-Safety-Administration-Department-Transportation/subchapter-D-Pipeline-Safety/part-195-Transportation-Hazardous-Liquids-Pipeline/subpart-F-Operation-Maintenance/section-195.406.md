@@ -6,7 +6,7 @@
 
 (i) Eighty percent of the first test pressure that produces yield under section N5.0 of appendix N of ASME B31.8 (incorporated by reference, *see* § 195.3), reduced by the appropriate factors in §§ 195.106 (a) and (e); or
 
-(ii) If the pipe is 123/4 inch (324 mm) or less outside diameter and is not tested to yield under this paragraph, 200 p.s.i. (1379 kPa) gage.
+(ii) If the pipe is 12 3/4 inch (324 mm) or less outside diameter and is not tested to yield under this paragraph, 200 p.s.i. (1379 kPa) gage.
 
 (2) The design pressure of any other component of the pipeline.
 

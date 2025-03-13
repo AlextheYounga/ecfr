@@ -1,0 +1,3 @@
+##### § 200.451 Losses on other awards or contracts. #####
+
+Any excess costs over income under any other award or contract of any nature is unallowable. This includes, but is not limited to, the recipient's or subrecipient's contributed portion by reason of cost sharing agreements or any under-recoveries through negotiation of flat amounts for indirect costs. Also, any excess of costs over authorized funding levels transferred from any award or contract to another is unallowable. All losses are not allowable indirect costs and must be included in the appropriate indirect cost rate base for allocating indirect costs.

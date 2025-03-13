@@ -1,0 +1,3 @@
+##### § 1402.113 What are the mandatory disclosure requirements? #####
+
+In addition to the disclosures required under 2 CFR 200.112 and 200.113, non-Federal entities, including applicants for all Federal awards, must disclose in writing any potential or actual conflict of interest to the DOI awarding agency or pass-through entity. Non-Federal entities and applicants must also disclose any outstanding unresolved matters with the Government Accountability Office or an Office of Inspector General when submitting a proposal and through the life of the award as needed. Unresolved items are those items that do not have an approved (by the awarding agency) corrective action plan in place and remain open.

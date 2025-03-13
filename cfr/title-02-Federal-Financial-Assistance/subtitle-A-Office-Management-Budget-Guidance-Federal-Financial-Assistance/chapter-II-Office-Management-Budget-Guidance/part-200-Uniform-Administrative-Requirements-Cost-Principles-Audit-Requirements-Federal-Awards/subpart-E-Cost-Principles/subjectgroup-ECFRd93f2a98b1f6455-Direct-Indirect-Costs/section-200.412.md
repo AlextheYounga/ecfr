@@ -1,0 +1,3 @@
+##### § 200.412 Classification of costs. #####
+
+There is no universal rule for classifying certain costs as direct or indirect costs. A cost may be direct for some specific service or function but indirect for the Federal award or other final cost objective. Therefore, each cost incurred for the same purpose in like circumstances must be treated consistently either as a direct or an indirect cost to avoid possible double-charging of Federal awards. Guidelines for determining direct and indirect costs charged to Federal awards are provided in this subpart.

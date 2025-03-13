@@ -1,0 +1,3 @@
+##### § 2424.10 What does this part do? #####
+
+In this part, HUD adopts, as HUD policies, procedures, and requirements for nonprocurement debarment and suspension, the OMB guidance in subparts A through I of 2 CFR part 180, as supplemented by this part. This adoption thereby gives regulatory effect for HUD to the OMB guidance, as supplemented by this part. This part satisfies the requirements in section 3 of Executive Order 12549, “Debarment and Suspension” (3 CFR 1986 Comp., p. 189), Executive Order 12689, “Debarment and Suspension” (3 CFR 1989 Comp., p. 235) and 31 U.S.C. 6101 note (Section 2455, Pub. L. 103-355, 108 Stat. 3327).

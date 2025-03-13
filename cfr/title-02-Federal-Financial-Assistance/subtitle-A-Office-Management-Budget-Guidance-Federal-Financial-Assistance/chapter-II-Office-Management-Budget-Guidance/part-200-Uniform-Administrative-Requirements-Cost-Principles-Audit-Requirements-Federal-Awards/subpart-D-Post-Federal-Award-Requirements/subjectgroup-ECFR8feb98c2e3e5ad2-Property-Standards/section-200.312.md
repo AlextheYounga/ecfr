@@ -1,0 +1,7 @@
+##### § 200.312 Federally owned and exempt property. #####
+
+(a) Title to Federally owned property remains vested in the Federal Government. The recipient or subrecipient must submit an inventory listing of Federally owned property in its custody to the Federal agency or pass-through entity on an annual basis. The recipient or subrecipient must request disposition instructions from the Federal agency or pass-through entity upon completion of the Federal award or when the property is no longer needed.
+
+(b) If the Federal agency has no further need for the property, it must declare the property excess and report it for disposal to the appropriate Federal disposal authority unless the Federal agency has statutory authority to dispose of the property by alternative methods (*for example,* the authority provided by the Federal Technology Transfer Act (15 U.S.C. 3710(i)). The Federal agency or pass-through entity must issue appropriate instructions to the recipient or subrecipient.
+
+(c) Exempt property means property acquired under the Federal award where the Federal agency has chosen to vest title to the property to the recipient or subrecipient without further responsibility to the Federal Government. The Federal agency may only exercise this option when permitted by Federal statute and set forth in the terms and conditions of the Federal award. Absent statutory authority and specific terms and conditions of the Federal award, the title to exempt property acquired under the Federal award remains with the Federal Government.

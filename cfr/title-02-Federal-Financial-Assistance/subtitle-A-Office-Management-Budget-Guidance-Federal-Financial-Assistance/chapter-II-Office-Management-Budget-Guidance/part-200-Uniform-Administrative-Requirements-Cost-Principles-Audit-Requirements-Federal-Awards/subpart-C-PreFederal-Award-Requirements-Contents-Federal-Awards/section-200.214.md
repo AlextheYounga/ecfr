@@ -1,0 +1,3 @@
+##### § 200.214 Suspension and debarment. #####
+
+Recipients and subrecipients are subject to the nonprocurement debarment and suspension regulations implementing Executive Orders 12549 and 12689, as well as 2 CFR part 180. The regulations in 2 CFR part 180 restrict making Federal awards, subawards, and contracts with certain parties that are debarred, suspended, or otherwise excluded from receiving or participating in Federal awards.

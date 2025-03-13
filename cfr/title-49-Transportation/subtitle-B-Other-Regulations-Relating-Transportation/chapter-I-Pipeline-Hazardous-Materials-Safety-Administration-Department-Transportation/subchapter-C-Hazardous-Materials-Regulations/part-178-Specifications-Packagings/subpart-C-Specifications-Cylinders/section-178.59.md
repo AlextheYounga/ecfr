@@ -46,7 +46,7 @@
 
 (1) The test is required on 2 specimens cut longitudinally from 1 cylinder or part thereof taken at random out of each lot of 200 or less, after heat treatment.
 
-(2) Specimens must conform to a gauge length of 8 inches with a width not over 11/2 inches, a gauge length of 2 inches with width not over 11/2, or a gauge length at least 24 times thickness with a width not over 6 times thickness is authorized when a cylinder wall is not over3/16 inch thick.
+(2) Specimens must conform to a gauge length of 8 inches with a width not over 11/2 inches, a gauge length of 2 inches with width not over 11/2, or a gauge length at least 24 times thickness with a width not over 6 times thickness is authorized when a cylinder wall is not over 3/16 inch thick.
 
 (3) The yield strength in tension must be the stress corresponding to a permanent strain of 0.2 percent of the gauge length. The following conditions apply:
 
@@ -56,7 +56,7 @@
 
 (iii) For the purpose of strain measurement, the initial strain must be set while the specimen is under a stress of 12,000 psi and the strain indicator reading being set at the calculated corresponding strain.
 
-(iv) Cross-head speed of the testing machine may not exceed1/8 inch per minute during yield strength determination.
+(iv) Cross-head speed of the testing machine may not exceed 1/8 inch per minute during yield strength determination.
 
 (4) Yield strength may not exceed 73 percent of tensile strength. Elongation must be at least 40 percent in 2 inch or 20 percent in other cases.
 
@@ -68,7 +68,7 @@
 
 (ii) The porous filling material must be uniform in quality and free of voids, except that a well drilled into the filling material beneath the valve is authorized if the well is filled with a material of such type that the functions of the filling material are not impaired;
 
-(iii) Overall shrinkage of the filling material is authorized if the total clearance between the cylinder shell and filling material, after solvent has been added, does not exceed1/2 of 1 percent of the respective diameter or length, but not to exceed1/8 inch, measured diametrically and longitudinally;
+(iii) Overall shrinkage of the filling material is authorized if the total clearance between the cylinder shell and filling material, after solvent has been added, does not exceed 1/2 of 1 percent of the respective diameter or length, but not to exceed 1/8 inch, measured diametrically and longitudinally;
 
 (iv) The clearance may not impair the functions of the filling material;
 

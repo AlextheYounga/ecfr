@@ -1,6 +1,6 @@
 ##### § 178.345-7 Circumferential reinforcements. #####
 
-(a) A cargo tank with a shell thickness of less than3/8 inch must be circumferentially reinforced with bulkheads, baffles, ring stiffeners, or any combination thereof, in addition to the cargo tank heads.
+(a) A cargo tank with a shell thickness of less than 3/8 inch must be circumferentially reinforced with bulkheads, baffles, ring stiffeners, or any combination thereof, in addition to the cargo tank heads.
 
 (1) Circumferential reinforcement must be located so that the thickness and tensile strength of the shell material in combination with the frame and reinforcement produces structural integrity at least equal to that prescribed in § 178.345-3 and in such a manner that the maximum unreinforced portion of the shell does not exceed 60 inches. For cargo tanks designed to be loaded by vacuum, spacing of circumferential reinforcement may exceed 60 inches provided the maximum unreinforced portion of the shell conforms with the requirements in Section VIII of the ASME Code (IBR, see § 171.7 of this subchapter).
 
@@ -14,7 +14,7 @@
 
 (1) The section modulus about the neutral axis of the ring section parallel to the shell must be at least equal to that derived from the applicable formula:
 
-I/C = 0.00027WL, for MS, HSLA and SS; orI/C = 0.000467WL, for aluminum alloys;Where:I/C = Section modulus in inches3W = Tank width, or diameter, inchesL = Spacing of ring stiffener, inches; i.e., the maximum longitudinal distance from the midpoint of the unsupported shell on one side of the ring stiffener to the midpoint of the unsupported shell on the opposite side of the ring stiffener.
+I/C = 0.00027WL, for MS, HSLA and SS; orI/C = 0.000467WL, for aluminum alloys;Where:I/C = Section modulus in inches 3W = Tank width, or diameter, inchesL = Spacing of ring stiffener, inches; i.e., the maximum longitudinal distance from the midpoint of the unsupported shell on one side of the ring stiffener to the midpoint of the unsupported shell on the opposite side of the ring stiffener.
 
 (2) If a ring stiffener is welded to the cargo tank shell, a portion of the shell may be considered as part of the ring section for purposes of computing the ring section modulus. This portion of the shell may be used provided at least 50 percent of the total circumference of the cargo tank is welded and the length of any unwelded space on the joint does not exceed 40 times the shell thickness. The maximum portion of the shell to be used in these calculations is as follows:
 

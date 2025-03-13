@@ -1,6 +1,6 @@
 ##### § 179.500-17 Marking. #####
 
-(a) Each tank shall be plainly and permanently marked, thus certifying that tank complies with all requirements of this specification. These marks shall be stamped into the metal of necked-down section of tank at marked end, in letters and figures at least1/4 inch high, as follows:
+(a) Each tank shall be plainly and permanently marked, thus certifying that tank complies with all requirements of this specification. These marks shall be stamped into the metal of necked-down section of tank at marked end, in letters and figures at least 1/4 inch high, as follows:
 
 (1) Spec. DOT-107A \* \* \* \*, the \* \* \* \* to be replaced by figures indicating marked test pressure of the tank. This pressure shall not exceed the calculated maximum marked test pressure permitted, as determined by the formula in § 179.500-4(b).
 

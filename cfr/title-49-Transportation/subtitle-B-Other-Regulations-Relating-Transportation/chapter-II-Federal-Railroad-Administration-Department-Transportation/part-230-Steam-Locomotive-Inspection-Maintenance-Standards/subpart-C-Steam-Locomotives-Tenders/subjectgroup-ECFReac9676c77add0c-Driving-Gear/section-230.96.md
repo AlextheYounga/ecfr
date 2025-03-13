@@ -6,10 +6,10 @@
 
 (c) *Bearings and bushings.* Bearings and bushings shall so fit the rods as to be in a safe and suitable condition for service, and means shall be provided to prevent bushings from turning in the rod. Straps shall fit and be securely bolted to rods. Floating bushings need not be provided with means to prevent bushings from turning.
 
-(d) *Side motion of rods.* The total amount of side motion of each rod on its crank pin shall not exceed1/4 inch.
+(d) *Side motion of rods.* The total amount of side motion of each rod on its crank pin shall not exceed 1/4 inch.
 
 (e) *Oil and grease cups.* Oil and grease cups shall be securely attached to rods, and grease cup plugs shall be equipped with a suitable fastening that will prevent them from being ejected.
 
-(f) *Main rod bearings.* The bore of main rod bearings shall not exceed pin diameters more than3/32 inch at front or back end. The total lost motion at both ends shall not exceed5/32 inch.
+(f) *Main rod bearings.* The bore of main rod bearings shall not exceed pin diameters more than 3/32 inch at front or back end. The total lost motion at both ends shall not exceed 5/32 inch.
 
-(g) *Side rod bearings.* The bore of side rod bearings shall not exceed pin diameters more than5/32 inch on main pin nor more than3/16 inch on other pins.
+(g) *Side rod bearings.* The bore of side rod bearings shall not exceed pin diameters more than 5/32 inch on main pin nor more than 3/16 inch on other pins.

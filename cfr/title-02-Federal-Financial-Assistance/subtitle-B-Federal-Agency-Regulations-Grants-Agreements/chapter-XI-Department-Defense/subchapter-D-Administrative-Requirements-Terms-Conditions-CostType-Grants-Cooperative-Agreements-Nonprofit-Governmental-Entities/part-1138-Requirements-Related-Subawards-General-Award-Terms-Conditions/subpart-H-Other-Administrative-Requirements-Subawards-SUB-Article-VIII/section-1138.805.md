@@ -1,0 +1,7 @@
+##### § 1138.805 Content of SUB Article VIII. #####
+
+(a) *Requirement.* A DoD Component's general terms and conditions must specify the administrative requirements that a recipient must include in its subaward terms and conditions in areas covered by OAR Articles I through VII of the recipient's prime award.
+
+(b) *Award terms and conditions*—(1) *General.* To implement the requirement in paragraph (a) of this section, a DoD Component's general terms and conditions must use the wording appendix H to this part provides for SUB Article VIII.
+
+(2) *Exception.* A DoD Component's general terms and conditions may add one or more sections to the wording that appendix H to this part provides for SUB Article VIII if the DoD Component added requirements to OAR Article IV of its general terms and conditions, in accordance with paragraph 2 CFR 1136.405(b)(2), because a statute or regulation requires recipients to provide opportunities to subrecipients for hearings, appeals, or other administrative proceedings with respect to claims, disputes, remedies for noncompliance, or other matters. The additional wording in SUB Article VIII would address the flow down to subrecipients of the added requirements in OAR Article IV.

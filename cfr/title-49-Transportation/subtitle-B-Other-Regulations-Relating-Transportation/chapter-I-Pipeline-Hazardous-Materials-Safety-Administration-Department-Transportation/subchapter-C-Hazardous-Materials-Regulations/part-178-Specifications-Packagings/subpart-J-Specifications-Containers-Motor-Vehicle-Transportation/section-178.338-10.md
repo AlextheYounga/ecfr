@@ -2,7 +2,7 @@
 
 (a) All valves, fittings, pressure relief devices and other accessories to the tank proper, which are not isolated from the tank by closed intervening shut-off valves or check valves, must be installed within the motor vehicle framework or within a suitable collision resistant guard or housing, and appropriate ventilation must be provided. Each pressure relief device must be protected so that in the event of the upset of the vehicle onto a hard surface, the device's opening will not be prevented and its discharge will not be restricted.
 
-(b) Each protective device or housing, and its attachment to the vehicle structure, must be designed to withstand static loading in any direction that it may be loaded as a result of front, rear, side, or sideswipe collision, or the overturn of the vehicle. The static loading shall equal twice the loaded weight of the tank and attachments. A safety factor of four, based on the tensile strength of the material, shall be used. The protective device or the housing must be made of steel at least3/16-inch thick, or other material of equivalent strength.
+(b) Each protective device or housing, and its attachment to the vehicle structure, must be designed to withstand static loading in any direction that it may be loaded as a result of front, rear, side, or sideswipe collision, or the overturn of the vehicle. The static loading shall equal twice the loaded weight of the tank and attachments. A safety factor of four, based on the tensile strength of the material, shall be used. The protective device or the housing must be made of steel at least 3/16-inch thick, or other material of equivalent strength.
 
 (c) *Rear-end tank protection.* Rear-end tank protections devices must:
 

@@ -6,7 +6,7 @@
 
 (2) The marker must state at least the following on a background of sharply contrasting color:
 
-(i) The word “Warning,” “Caution,” or “Danger” followed by the words “Petroleum (or the name of the hazardous liquid transported) Pipeline”, or “Carbon Dioxide Pipeline,” all of which, except for markers in heavily developed urban areas, must be in letters at least 1 inch (25 millimeters) high with an approximate stroke of1/4 inch (6.4 millimeters).
+(i) The word “Warning,” “Caution,” or “Danger” followed by the words “Petroleum (or the name of the hazardous liquid transported) Pipeline”, or “Carbon Dioxide Pipeline,” all of which, except for markers in heavily developed urban areas, must be in letters at least 1 inch (25 millimeters) high with an approximate stroke of 1/4 inch (6.4 millimeters).
 
 (ii) The name of the operator and a telephone number (including area code) where the operator can be reached at all times.
 

@@ -10,6 +10,6 @@
 
 (b) *Pressure gauges.* Each cargo tank must be provided with a suitable pressure gauge indicating the lading pressure and located on the front of the jacket so it can be read by the driver in the rear view mirror. Each gauge must have a reference mark at the cargo tank design pressure or the set pressure of the pressure relief valve or pressure control valve, whichever is lowest.
 
-(c) *Orifices.* All openings for dip tube gauging devices and pressure gauges in flammable cryogenic liquid service must be restricted at or inside the jacket by orifices no larger than 0.060-inch diameter. Trycock lines, if provided, may not be greater than1/2-inch nominal pipe size.
+(c) *Orifices.* All openings for dip tube gauging devices and pressure gauges in flammable cryogenic liquid service must be restricted at or inside the jacket by orifices no larger than 0.060-inch diameter. Trycock lines, if provided, may not be greater than 1/2-inch nominal pipe size.
 
 [Amdt. 178-77, 48 FR 27706, June 16, 1983, as amended at 49 FR 24317, June 12, 1984]

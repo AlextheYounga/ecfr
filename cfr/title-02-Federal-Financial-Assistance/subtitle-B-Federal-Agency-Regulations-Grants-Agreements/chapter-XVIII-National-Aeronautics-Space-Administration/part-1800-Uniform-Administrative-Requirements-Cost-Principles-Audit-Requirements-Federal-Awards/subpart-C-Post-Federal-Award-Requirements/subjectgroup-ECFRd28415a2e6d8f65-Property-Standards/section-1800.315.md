@@ -1,0 +1,3 @@
+##### § 1800.315 Intangible property. #####
+
+Due to the substantial involvement on the part of NASA under a cooperative agreement, intellectual property may be produced by Federal employees and NASA contractors tasked to perform NASA assigned activities. Title to intellectual property created under the cooperative agreement by NASA or its contractors will initially vest with the creating party or parties. Certain rights may be exchanged with the recipient.

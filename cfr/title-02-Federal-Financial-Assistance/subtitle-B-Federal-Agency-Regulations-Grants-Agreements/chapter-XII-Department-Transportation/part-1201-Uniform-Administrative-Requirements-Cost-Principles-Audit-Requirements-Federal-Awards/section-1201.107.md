@@ -1,0 +1,3 @@
+##### § 1201.107 DOT Headquarters responsibilities. #####
+
+DOT Headquarters will review DOT Component implementation of this part, and will provide interpretations of policy requirements and assistance to ensure effective and efficient implementation. Any exceptions will be subject to approval by DOT Headquarters. Exceptions will only be made in particular cases where adequate justification is presented.

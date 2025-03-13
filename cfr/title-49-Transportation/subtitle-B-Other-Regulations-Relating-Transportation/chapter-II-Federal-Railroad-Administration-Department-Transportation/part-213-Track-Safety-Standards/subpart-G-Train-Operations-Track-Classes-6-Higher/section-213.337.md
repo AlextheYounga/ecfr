@@ -52,7 +52,7 @@ I. Limit operating speed over defective rail to 30 m.p.h.
 
 (11) *Damaged rail* means any rail broken or injured by wrecks, broken, flat, or unbalanced wheels, slipping, or similar causes.
 
-(12) *Flattened rail* means a short length of rail, not a joint, which has flattened out across the width of the rail head to a depth of3/8 inch or more below the rest of the rail. Flattened rail occurrences have no repetitive regularity and thus do not include corrugations, and have no apparent localized cause such as a weld or engine burn. Their individual length is relatively short, as compared to a condition such as head flow on the low rail of curves.
+(12) *Flattened rail* means a short length of rail, not a joint, which has flattened out across the width of the rail head to a depth of 3/8 inch or more below the rest of the rail. Flattened rail occurrences have no repetitive regularity and thus do not include corrugations, and have no apparent localized cause such as a weld or engine burn. Their individual length is relatively short, as compared to a condition such as head flow on the low rail of curves.
 
 (13) *Bolt hole crack* means a crack across the web, originating from a bolt hole, and progressing on a path either inclined upward toward the rail head or inclined downward toward the base. Fully developed bolt hole cracks may continue horizontally along the head/web or base/web fillet, or they may progress into and through the head or base to separate a piece of the rail end from the rail. Multiple cracks occurring in one rail end are considered to be a single defect. However, bolt hole cracks occurring in adjacent rail ends within the same joint shall be reported as separate defects.
 

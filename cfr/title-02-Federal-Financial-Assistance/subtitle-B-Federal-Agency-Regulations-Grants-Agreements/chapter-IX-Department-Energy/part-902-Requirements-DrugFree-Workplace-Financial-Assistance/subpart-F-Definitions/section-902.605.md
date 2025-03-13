@@ -1,0 +1,3 @@
+##### § 902.605 Award (DOE supplement to Governmentwide definition at 2 CFR 182.605). #####
+
+The term *award* also includes Technology Investment Agreements (TIA). A TIA is a special type of assistance instrument used to increase the involvement of commercial firms in the Department's RD&D programs. A TIA may be either a type of cooperative agreement or a type of assistance transaction other than a cooperative agreement, depending on the intellectual property provisions. A TIA may be either expenditure based or fixed support.

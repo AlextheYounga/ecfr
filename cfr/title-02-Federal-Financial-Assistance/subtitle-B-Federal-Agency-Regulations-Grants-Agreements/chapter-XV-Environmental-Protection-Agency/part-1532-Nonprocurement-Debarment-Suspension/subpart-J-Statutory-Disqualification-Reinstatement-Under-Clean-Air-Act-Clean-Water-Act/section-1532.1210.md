@@ -1,0 +1,3 @@
+##### § 1532.1210 Will anyone else provide information to the EPA debarring official concerning my reinstatement request? #####
+
+If you request reinstatement under § 1532.1205, the EPA debarring official may obtain review and comment on your request by anyone who may have information about, or an official interest in, the matter. For example, the debarring official may consult with the EPA Regional offices, the Department of Justice or other Federal agencies, or state, tribal or local governments. The EPA debarring official will make sure that you have an opportunity to address important allegations or information contained in the administrative record before making a final decision on your request for reinstatement.

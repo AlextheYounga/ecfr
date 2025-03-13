@@ -1,0 +1,3 @@
+##### § 1201.106 DOT Component implementation. #####
+
+The specific requirements and responsibilities for grant-making DOT Components are set forth in this part. DOT Components must implement the language in this part unless different provisions are required by Federal statute or are approved by DOT Headquarters. DOT Components making Federal awards to non-Federal entities must implement the language in the Subpart C—Pre-Federal Award Requirements and Contents of Federal Awards of this Part through Subpart F—Audit Requirements of this Part in codified regulations unless different provisions are required by Federal statute or are approved by DOT Headquarters.

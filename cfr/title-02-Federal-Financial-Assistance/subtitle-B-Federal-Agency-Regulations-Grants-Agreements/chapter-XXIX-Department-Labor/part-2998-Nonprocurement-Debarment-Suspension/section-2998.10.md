@@ -1,0 +1,3 @@
+##### § 2998.10 What does this part do? #####
+
+This part adopts the Office of Management and Budget (OMB) guidance in subparts A through I of 2 CFR part 180, as supplemented by this part, as the Department of Labor (DOL) policies and procedures for non-procurement debarment and suspension. It thereby gives regulatory effect for DOL to the OMB guidance as supplemented by this part. This part satisfies the requirements in section 3 of Executive Order 12549, “Debarment and Suspension” (3 CFR 1986 Comp., p. 189); Executive Order 12689, “Debarment and Suspension” (3 CFR 1989 Comp., p. 235); and section 2455 of the Federal Acquisition Streamlining Act of 1994, 103 (31 U.S.C. 6101 note).

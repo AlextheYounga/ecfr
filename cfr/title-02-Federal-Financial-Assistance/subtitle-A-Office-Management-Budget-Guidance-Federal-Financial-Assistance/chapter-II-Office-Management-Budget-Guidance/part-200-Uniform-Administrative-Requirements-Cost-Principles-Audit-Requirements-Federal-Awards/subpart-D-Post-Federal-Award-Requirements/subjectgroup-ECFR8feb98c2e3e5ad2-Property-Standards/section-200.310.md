@@ -1,0 +1,3 @@
+##### § 200.310 Insurance coverage. #####
+
+The recipient or subrecipient must, at a minimum, provide the equivalent insurance coverage for real property and equipment acquired or improved with Federal funds as provided to property and equipment owned by the recipient or subrecipient. Insurance is not required for Federally owned property unless required by the terms and conditions of the Federal award.

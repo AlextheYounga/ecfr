@@ -70,4 +70,4 @@
 
 (h) A cargo tank motor vehicle authorized by the Transport Canada TDG Regulations (IBR, see § 171.7 of this subchapter) may be used provided it conforms to the applicable requirements in § 171.12 of this subchapter.
 
-[Amdt. 173-212, 54 FR 25005, June 12, 1989]Editorial Note:For Federal Register citations affecting § 173.33, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Amdt. 173-212, 54 FR 25005, June 12, 1989] Editorial Note:For Federal Register citations affecting § 173.33, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

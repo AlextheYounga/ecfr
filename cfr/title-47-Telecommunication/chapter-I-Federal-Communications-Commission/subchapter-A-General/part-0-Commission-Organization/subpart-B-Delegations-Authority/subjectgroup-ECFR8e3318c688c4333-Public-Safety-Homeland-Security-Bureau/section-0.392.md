@@ -1,7 +1,5 @@
 ##### § 0.392 Authority delegated. #####
 
-Link to an amendment published at 89 FR 91584, Nov. 20, 2024.
-
 The Chief, Public Safety and Homeland Security Bureau, is hereby delegated authority to perform all functions of the Bureau, described in §§ 0.191 and 0.192, subject to the following exceptions and limitations in paragraphs (a) through (e) of this section.
 
 (a) The Chief, Public Safety and Homeland Security Bureau shall not have authority to act on any applications or requests that present novel questions of fact, law or policy that cannot be resolved under outstanding precedents and guidelines.
@@ -24,4 +22,6 @@ The Chief, Public Safety and Homeland Security Bureau, is hereby delegated autho
 
 (j) The Chief of the Public Safety and Homeland Security Bureau is delegated authority to administer the communications reliability and redundancy rules and policies contained in part 9, subpart H, of this chapter, develop and revise forms and procedures as may be required for the administration of part 9, subpart H, of this chapter, review certifications filed in connection therewith, and order remedial action on a case-by-case basis to ensure the reliability of 911 service in accordance with such rules and policies.
 
-[71 FR 69037, Nov. 29, 2006, as amended at 72 FR 39760, July 20, 2007; 73 FR 9463, Feb. 21, 2008; 75 FR 28207, May 20, 2010; 75 FR 78169, Dec. 15, 2010; 79 FR 3130, Jan. 17, 2014; 86 FR 12547, Mar. 4, 2021]
+(k) The Chief of the Public Safety and Homeland Security Bureau is delegated authority jointly with the Chief of the Wireless Telecommunications Bureau to administer provisions of §§ 90.1203, 90.1207, 90.1209, and 90.1217 of this chapter. The Chief of the Public Safety and Homeland Security Bureau is also delegated authority to establish the procedures by which a Band Manager selection committee will be chosen; identify representatives to sit on the selection committee; determine the requisite number of selection committee members; identify the applicable selection criteria; confirm that the Band Manager selectee meets the selection criteria; and establish the appropriate procedures and oversight for the selection process as part of choosing the Band Manager. The Chief of the Public Safety and Homeland Security Bureau is also delegated authority to develop the form and procedures pursuant to which the Band Manager will submit certifications required by §§ 90.1207(h)(3) and 90.1209(e) of this chapter to the Commission; to manage the process of determining the appropriate Band Manager funding mechanisms; and to perform oversight and any other functions for the administration of the Band Manager and its responsibilities.
+
+[71 FR 69037, Nov. 29, 2006, as amended at 72 FR 39760, July 20, 2007; 73 FR 9463, Feb. 21, 2008; 75 FR 28207, May 20, 2010; 75 FR 78169, Dec. 15, 2010; 79 FR 3130, Jan. 17, 2014; 86 FR 12547, Mar. 4, 2021; 89 FR 91584, Nov. 20, 2024]

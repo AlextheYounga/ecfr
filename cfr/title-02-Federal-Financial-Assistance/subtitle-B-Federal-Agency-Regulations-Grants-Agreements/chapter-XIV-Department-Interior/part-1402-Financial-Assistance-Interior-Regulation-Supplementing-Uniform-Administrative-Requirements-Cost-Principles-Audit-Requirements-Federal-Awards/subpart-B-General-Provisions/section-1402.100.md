@@ -1,0 +1,7 @@
+##### § 1402.100 Purpose. #####
+
+(a) The Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards set forth in 2 CFR part 200 apply to the Department of the Interior. This part adopts, as the Department of the Interior (DOI) policies and procedures, the Office of Management and Budget's (OMB) Uniform Administrative Requirements, Cost Principles, and Audit Requirements set forth in 2 CFR part 200. The Uniform Guidance applies in full except as stated in this part.
+
+(b) This part establishes DOI financial assistance regulations that implement or supplement the OMB's Uniform Guidance. It is designed to ensure that financial assistance is administered in full compliance with applicable law, regulation, policy, and best practices to ensure the American people get the most value from the funds DOI awards on financial assistance. For supplemental guidance, DOI has adopted section numbering that corresponds to related OMB guidance in 2 CFR part 200.
+
+(c) This part extends 2 CFR part 200, subparts A through E, policies and procedures to foreign public entities and foreign organizations as allowed by 2 CFR 200.101, except as indicated throughout this part.

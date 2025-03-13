@@ -20,7 +20,7 @@
 
 (ii) Under an applied vertical load of no less than 10 kips per rail; and
 
-(iii) Under an applied lateral load that provides for a lateral/vertical load ratio of between 0.5 and 1.255, and a load severity greater than 3 kips but less than 8 kips per rail.
+(iii) Under an applied lateral load that provides for a lateral/vertical load ratio of between 0.5 and 1.25 5, and a load severity greater than 3 kips but less than 8 kips per rail.
 
 5 GRMS equipment using load combinations developing L/V ratios that exceed 0.8 shall be operated with caution to protect against the risk of wheel climb by the test wheelset.
 
@@ -86,11 +86,11 @@ L = Actual lateral load applied (kips).V = Actual vertical load applied (kips), 
 
 (1) At any location along the track that the PTLF is applied, that location will be deemed in compliance with the crosstie and fastener requirements specified in §§ 213.109 and 213.127 provided that—
 
-(i) The total gage widening at that location does not exceed5/8 inch when increasing the applied force from 0 to 4,000 pounds; and
+(i) The total gage widening at that location does not exceed 5/8 inch when increasing the applied force from 0 to 4,000 pounds; and
 
 (ii) The gage of the track under 4,000 pounds of applied force does not exceed the allowable gage prescribed in § 213.53(b) for the class of track.
 
-(2) Gage widening in excess of5/8 inch shall constitute a deviation from Class 1 standards.
+(2) Gage widening in excess of 5/8 inch shall constitute a deviation from Class 1 standards.
 
 (3) A person designated as fully qualified under § 213.7 retains the discretionary authority to prescribe additional remedial actions for those locations which comply with the requirements of paragraph (m)(1)(i) and (ii) of this section.
 

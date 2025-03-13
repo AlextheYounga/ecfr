@@ -1,0 +1,3 @@
+##### § 1108.115 Co-principal investigator. #####
+
+*Co-principal investigator* means any one of a group of individuals whom an organization that is carrying out a research project with DoD support designates as sharing the authority and responsibility for leading and directing the research intellectually and logistically, other than the one among the group identified as the primary contact for scientific, technical, and related budgetary matters (see the definition of “principal investigator”).

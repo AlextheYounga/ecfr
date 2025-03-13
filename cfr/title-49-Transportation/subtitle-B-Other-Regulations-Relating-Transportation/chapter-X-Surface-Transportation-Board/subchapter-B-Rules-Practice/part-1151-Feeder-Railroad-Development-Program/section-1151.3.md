@@ -66,7 +66,7 @@
 
 (iii) The total costs of operating the line segment purchased (including any trackage rights fees).
 
-(iv) Information sufficient to allow the Board to determine that the line sought to be acquired carried less than 3 million gross ton-miles of traffic per mile in the preceding calendar year1; and
+(iv) Information sufficient to allow the Board to determine that the line sought to be acquired carried less than 3 million gross ton-miles of traffic per mile in the preceding calendar year 1; and
 
 1 Gross ton-miles are calculated by adding the ton-miles of the cargo and the ton-miles related to the tare (empty) weight of the freight cars used to transport the cargo in the loaded movement. In calculating the gross ton-miles, only those related to the portion of the segment purchased shall be included.
 

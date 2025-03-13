@@ -1,0 +1,3 @@
+##### § 200.422 Advisory councils. #####
+
+An advisory council or committee is a body that provides advice to the management of such entities as corporations, organizations, or foundations. Costs incurred by both internal and external advisory councils or committees are allowable if authorized by statute, the Federal agency, or as an indirect cost where allocable to Federal awards. See § 200.444, which applies to States, local governments, and Indian Tribes.

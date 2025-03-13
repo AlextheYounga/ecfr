@@ -4,9 +4,9 @@
 
 (b) *Definitions in standards.* All terms defined in § 202.10 of the Interstate Motor Carrier Noise Emission Standards, 40 CFR 202.10, are used as they are defined in that section.
 
-(c) *Additional definitions.* (1) *Hard test site* means any test site having the ground surface covered with concrete, asphalt, packed dirt, gravel, or similar reflective material for more than1/2 the distance between the microphone target point and the microphone location point.
+(c) *Additional definitions.* (1) *Hard test site* means any test site having the ground surface covered with concrete, asphalt, packed dirt, gravel, or similar reflective material for more than 1/2 the distance between the microphone target point and the microphone location point.
 
-(2) *Soft test site* means any test site having the ground surface covered with grass, other ground cover, or similar absorptive material for1/2 or more of the distance between the microphone target point and the microphone location point.
+(2) *Soft test site* means any test site having the ground surface covered with grass, other ground cover, or similar absorptive material for 1/2 or more of the distance between the microphone target point and the microphone location point.
 
 (3) *Ground cover* means any of various low, dense-growing plants, such as ivy, myrtle, low weeds, or brush.
 

@@ -1,0 +1,3 @@
+##### § 1402.2 Employment. #####
+
+*Employment* includes any form of non-Federal employment or business relationship involving the provision of personal services by the employee, whether to be undertaken at the same time as, or subsequent to Federal employment. It includes but is not limited to personal services as an officer, director, employee, agent, attorney, consultant, contractor, general partner, or trustee of the other organization.

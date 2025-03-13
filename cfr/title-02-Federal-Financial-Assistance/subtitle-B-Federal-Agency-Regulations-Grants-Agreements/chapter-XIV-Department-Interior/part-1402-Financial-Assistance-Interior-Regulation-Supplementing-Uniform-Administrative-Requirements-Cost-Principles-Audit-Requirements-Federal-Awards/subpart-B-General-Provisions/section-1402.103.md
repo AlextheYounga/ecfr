@@ -1,0 +1,3 @@
+##### § 1402.103 What other policies or procedures must non-Federal entities follow? #####
+
+Non-Federal entities must follow bureau or office policies and procedures as communicated in notices of funding opportunity (NOFOs) and award terms and conditions. In the event such policies or procedures conflict with 2 CFR part 200 or this part, 2 CFR part 200 or this part will supersede, unless otherwise authorized by Federal statute.

@@ -42,4 +42,4 @@
 
 (2) Conducting periodic “sniff” tests at the extremities of the system to confirm that the gas contains odorant.
 
-[35 FR 13257, Aug. 19, 1970]Editorial Note:For Federal Register citations affecting § 192.625, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[35 FR 13257, Aug. 19, 1970] Editorial Note:For Federal Register citations affecting § 192.625, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

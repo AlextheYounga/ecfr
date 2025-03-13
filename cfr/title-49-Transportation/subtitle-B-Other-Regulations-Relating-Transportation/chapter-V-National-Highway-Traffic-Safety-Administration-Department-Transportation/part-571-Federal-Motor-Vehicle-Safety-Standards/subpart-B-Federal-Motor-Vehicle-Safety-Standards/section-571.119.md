@@ -8,7 +8,7 @@ S3. *Application.* This standard applies to:
 
 (a) New pneumatic tires for use on motor vehicles with a GVWR of more than 4,536 kilograms (10,000 pounds) manufactured after 1948;
 
-(b) New pneumatic light truck tires with a tread depth of18/32 inch or greater, for use on motor vehicles with a GVWR of 4,536 kilograms (10,000 pounds) or less manufactured after 1948;
+(b) New pneumatic light truck tires with a tread depth of 18/32 inch or greater, for use on motor vehicles with a GVWR of 4,536 kilograms (10,000 pounds) or less manufactured after 1948;
 
 (c) Tires for use on special-use trailers (ST, FI and 8-12 rim or lower diameter code); and
 

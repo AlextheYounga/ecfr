@@ -1,0 +1,3 @@
+##### § 700.2 Adoption of 2 CFR Part 200. #####
+
+Under the authority listed above, the United States Agency for International Development (USAID) adopts the Office of Management and Budget (OMB) guidance for Federal Financial Assistance (subparts A through F of 2 CFR part 200), as supplemented by this part, as the USAID policies and procedures for Federal financial assistance administration. This part satisfies the requirements of 2 CFR 200.110(a) and gives regulatory effect to the OMB guidance as supplemented by this part.

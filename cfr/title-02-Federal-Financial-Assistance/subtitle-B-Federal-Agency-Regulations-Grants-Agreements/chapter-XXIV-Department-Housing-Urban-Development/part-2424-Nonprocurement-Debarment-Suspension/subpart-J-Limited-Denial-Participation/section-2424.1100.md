@@ -1,0 +1,3 @@
+##### § 2424.1100 What is a limited denial of participation? #####
+
+A limited denial of participation excludes a specific person from participating in a specific program, or programs, within a HUD field office's geographic jurisdiction, for a specific period of time. A limited denial of participation is normally issued by a HUD field office, but may be issued by a Headquarters office. The decision to impose a limited denial of participation is discretionary and based on the best interests of the federal government.

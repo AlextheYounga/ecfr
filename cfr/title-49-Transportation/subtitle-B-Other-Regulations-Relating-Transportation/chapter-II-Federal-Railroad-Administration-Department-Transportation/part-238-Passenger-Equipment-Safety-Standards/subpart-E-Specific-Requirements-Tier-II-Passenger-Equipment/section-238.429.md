@@ -8,11 +8,11 @@
 
 (b) *Hand brakes.* Except as provided in paragraph (f) of this section, Tier II trains shall be equipped with a parking or hand brake that can be applied and released manually and that is capable of holding the train on a 3-percent grade.
 
-(c) *Safety appliance mechanical strength and fasteners.* (1) All handrails, handholds, and sill steps shall be made of 1-inch diameter steel pipe,5/8-inch thickness steel, or a material of equal or greater mechanical strength.
+(c) *Safety appliance mechanical strength and fasteners.* (1) All handrails, handholds, and sill steps shall be made of 1-inch diameter steel pipe, 5/8-inch thickness steel, or a material of equal or greater mechanical strength.
 
-(2) All safety appliances shall be securely fastened to the car body structure with mechanical fasteners that have mechanical strength greater than or equal to that of a1/2-inch diameter SAE grade steel bolt mechanical fastener.
+(2) All safety appliances shall be securely fastened to the car body structure with mechanical fasteners that have mechanical strength greater than or equal to that of a 1/2-inch diameter SAE grade steel bolt mechanical fastener.
 
-(i) Safety appliance mechanical fasteners shall have mechanical strength and fatigue resistance equal to or greater than a1/2-inch diameter SAE steel bolt.
+(i) Safety appliance mechanical fasteners shall have mechanical strength and fatigue resistance equal to or greater than a 1/2-inch diameter SAE steel bolt.
 
 (ii) Mechanical fasteners shall be installed with a positive means to prevent unauthorized removal. Self-locking threaded fasteners do not meet this requirement.
 
@@ -38,7 +38,7 @@
 
 (e) *Sill steps.* Except as provided in paragraph (f) of this section, each power vehicle shall be equipped with a sill step below each exterior door as follows:
 
-(1) The sill step shall have a minimum cross-sectional area of1/2 by 3 inches;
+(1) The sill step shall have a minimum cross-sectional area of 1/2 by 3 inches;
 
 (2) The sill step shall be made of steel or a material of equal or greater strength and fatigue resistance;
 

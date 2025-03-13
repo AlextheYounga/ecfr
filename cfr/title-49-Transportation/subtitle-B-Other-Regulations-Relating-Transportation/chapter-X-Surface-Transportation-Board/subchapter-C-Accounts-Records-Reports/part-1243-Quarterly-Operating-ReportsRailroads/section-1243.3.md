@@ -1,7 +1,6 @@
 ##### § 1243.3 Report of fuel cost, consumption, and surcharge revenue. #####
 
-Commencing with reports for the 3 months beginning October 1, 2007, all Class I railroads are required to file quarterly a Report of Fuel Cost, Consumption, and Surcharge Revenue, in accordance with the Board's reporting form.
-Such reports shall be submitted, in paper or electronically, to the Office of Economics, Surface Transportation Board, Washington, DC, within 30 days after the end of the quarter reported.
+Commencing with reports for the 3 months beginning October 1, 2007, all Class I railroads are required to file quarterly a Report of Fuel Cost, Consumption, and Surcharge Revenue, in accordance with the Board's reporting form. Such reports shall be submitted, in paper or electronically, to the Office of Economics, Surface Transportation Board, Washington, DC, within 30 days after the end of the quarter reported.
 
 Appendix to Section 49 CFR 1243.3OMB Control No. 2140-0014Expires \_\_\_\_, 2010Railroad Name \_\_\_\_\_\_
 

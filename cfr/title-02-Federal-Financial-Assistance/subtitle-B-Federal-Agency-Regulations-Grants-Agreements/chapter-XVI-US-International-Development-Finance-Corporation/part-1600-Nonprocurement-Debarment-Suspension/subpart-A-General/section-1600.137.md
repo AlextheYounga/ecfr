@@ -1,0 +1,3 @@
+##### § 1600.137 Who in DFC may grant an exception to let an excluded person participate in a covered transaction? #####
+
+The Chief Executive Officer (CEO) of DFC or designee may grant an exception permitting an excluded person to participate in a particular covered transaction. If the CEO of DFC or designee grants an exception, the exception must be in writing and state the reason(s) for deviating from the Governmentwide policy in Executive Order 12549.

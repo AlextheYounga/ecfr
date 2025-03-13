@@ -1,0 +1,21 @@
+##### § 1134.210 Content of REP Article II. #####
+
+(a) *Requirement.* A DoD Component's general terms and conditions must specify what financial information recipients are required to report and how often, when, where, and how they must report.
+
+(b) *Award terms and conditions*—(1) *General.* Appendix B to this part provides a template into which a DoD Component must insert wording to specify the form, format, or data elements recipients must use for financial reporting; the frequency, reporting periods, and due dates for their financial reports (stated as the number of days after the end of the reporting period); and where and how they must submit the information.
+
+(2) *Required reporting form, format, or data elements for interim and final financial reports.* In Section A of REP Article II, which is reserved in appendix B to this part, a DoD Component must insert wording to specify the OMB-approved form, format, or data elements that recipients must use for financial reporting and the website where they can be found. The section may provide a different requirement for final financial reports than interim reports during the period of performance if the DoD Component needs less information on interim reports than is needed on the final report.
+
+(3) *Interim financial reports: Frequency, reporting periods, and due dates.* In Section B of REP Article II, which is reserved in appendix B to this part, a DoD Component must insert wording to specify the frequency with which recipients must submit interim financial reports, as well as the reporting period each report must cover and when it is due. However, this section of the article may waive interim reporting requirements if the DoD Component relies on information already provided with payment requests (*e.g.,* on the SF-270).
+
+(i) Consistent with OMB guidance in 2 CFR 200.327, the reporting frequency may be no less often than annually and no more frequently than quarterly except in unusual circumstances (*e.g.,* a need for more frequent reporting for monitoring program performance, in which case financial reporting should be coordinated with performance reporting).
+
+(ii) The reporting frequency, reporting periods, and due dates must conform with any guidance on those aspects of financial reporting in the OMB-approved instructions accompanying the form, format, or data elements used.
+
+(iii) When a DoD Component's general terms and conditions provide for advance payments based on predetermined schedules—which is very rarely if ever appropriate for research awards—the terms and conditions must provide for quarterly reporting. This will enable post-award administrators to closely monitor recipients' balances of cash on hand for compliance with Governmentwide cash management standards.
+
+(4) *Final financial report.* Appendix B to this part provides wording for Section C of REP Article II to implement OMB guidance in 2 CFR 200.343(a) as it applies to final financial reports. Given that 2 CFR part 200 provides 90 days for subrecipients to liquidate subaward obligations and submit their final financial reports to recipients, the wording in appendix B gives recipients 120 days to submit final financial reports to DoD post-award administration offices. That provides a reasonable amount of time for recipients to incorporate any information they need from final subaward reports. A DoD Component may alter the wording or supplement it if the DoD Component has a basis to do so in a statute or a regulation published in the Code of Federal Regulations.
+
+(5) *Extensions of due dates.* A DoD Component's general terms and conditions must include the wording for Section D of REP Article II that appendix B to this part provides to authorize recipients to request extensions of due dates for interim or final financial reports.
+
+(6) *Where and how to submit financial reports.* In Section E of REP Article II, which is reserved in appendix B to this part, a DoD Component must insert wording to specify the DoD official or office to whom a recipient must submit its interim and final financial reports and the method it must use to do so (*e.g.,* email or other electronic submission method).

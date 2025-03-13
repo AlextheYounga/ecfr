@@ -1,0 +1,11 @@
+##### § 200.100 Purpose. #####
+
+(a) *Purpose.* (1) This part establishes uniform administrative requirements, cost principles, and audit requirements for Federal awards. Federal agencies must not impose additional requirements except as allowed in §§ 200.102, 200.211, or unless specifically required by Federal statute, regulation, or Executive order.
+
+(2) This part provides Federal agencies with the policy for collecting and submitting information on all Federal financial assistance programs to the Office of Management and Budget (OMB) and communicating this information to the public. It also establishes Federal policies related to the delivery of this information to the public, including through the use of electronic media. It also sets forth how the General Services Administration (GSA), OMB, and Federal agencies implement the Federal Program Information Act (31 U.S.C. 6101-6106).
+
+(b) *Administrative requirements.* Subparts B through D set forth the uniform administrative requirements for Federal financial assistance. This includes establishing requirements for Federal agencies management of Federal financial assistance programs before a Federal award is made, and requirements that Federal agencies may impose on recipients and subrecipients throughout the lifecycle of a Federal award.
+
+(c) *Cost principles.* Subpart E establishes principles for determining allowable costs incurred by recipients and subrecipients under Federal awards. These principles are for the purpose of cost determination. They do not address the circumstances nor dictate the extent of Federal Government funding of a particular program or project.
+
+(d) *Single Audit Requirements and Audit Follow-up.* Subpart F is issued pursuant to the Single Audit Act Amendments of 1996 (31 U.S.C. 7501-7507). Subpart F sets forth the standards for achieving consistency and uniformity among Federal agencies for the audit of non-Federal entities expending Federal awards. Subpart F also provides the policies and procedures for Federal agencies or pass-through entities when using the results of these audits.

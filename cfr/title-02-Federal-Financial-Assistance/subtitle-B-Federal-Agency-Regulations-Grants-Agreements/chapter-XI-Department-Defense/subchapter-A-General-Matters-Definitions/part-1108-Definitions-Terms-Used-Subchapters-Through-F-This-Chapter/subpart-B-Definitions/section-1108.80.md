@@ -1,0 +1,3 @@
+##### § 1108.80 Claim. #####
+
+*Claim* means a written demand or written assertion by one of the parties to an award seeking as a matter of right, the payment of money in a sum certain, the adjustment or interpretation of an award term or condition, or other relief arising under or relating to the award. A routine request for payment that is not in dispute when submitted is not a claim. The submission may be converted to a claim by written notice to the grants or agreements officer if it is disputed either as to liability or amount or is not acted upon in a reasonable time.

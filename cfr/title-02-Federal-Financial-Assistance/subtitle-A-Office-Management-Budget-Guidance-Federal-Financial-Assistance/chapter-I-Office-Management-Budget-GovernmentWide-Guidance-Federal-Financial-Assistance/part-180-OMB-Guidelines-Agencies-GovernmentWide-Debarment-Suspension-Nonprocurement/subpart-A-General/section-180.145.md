@@ -1,0 +1,3 @@
+##### § 180.145 Does an exclusion under the Federal procurement system affect a person's eligibility to participate in nonprocurement transactions? #####
+
+When a Federal agency excludes a person under the Federal Acquisition Regulations (FAR) on or after August 25, 1995, the excluded person is also ineligible to participate in Federal agencies' nonprocurement covered transactions. Therefore, an exclusion under the FAR has a reciprocal effect on Federal nonprocurement transactions.

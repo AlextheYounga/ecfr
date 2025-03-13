@@ -90,7 +90,7 @@ S6.4 *Point Load Test Locations.* With the guard mounted to the rigid test fixtu
 
 (a) Point Load Test location P1 is the point on the rearmost surface of the horizontal member of the guard that:
 
-(1) Is located at a distance of3/8 of the guard width from the vertical longitudinal plane passing through center of the guard;
+(1) Is located at a distance of 3/8 of the guard width from the vertical longitudinal plane passing through center of the guard;
 
 (2) Lies on either side of the center of the guard's horizontal member; and
 

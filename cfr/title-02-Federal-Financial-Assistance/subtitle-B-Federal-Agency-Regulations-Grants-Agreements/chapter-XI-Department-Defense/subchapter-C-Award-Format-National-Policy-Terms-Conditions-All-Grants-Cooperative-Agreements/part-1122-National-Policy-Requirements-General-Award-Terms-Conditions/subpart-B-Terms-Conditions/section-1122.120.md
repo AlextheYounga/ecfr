@@ -1,0 +1,3 @@
+##### § 1122.120 Other national policy requirements. #####
+
+If a DoD Component determines that awards using its general terms and conditions, or subawards under them, are subject to a national policy requirement that is not addressed in the standard wording appendices A through D to this part provide for cross-cutting requirements, the DoD Component must include the requirement in its general terms and conditions. It should add the requirement in Section B of NP Article I, II, III, or IV, as most appropriate to the subject matter of the requirement.

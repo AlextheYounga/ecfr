@@ -30,7 +30,7 @@
 
 (iii) The capacity of the packaging is not more than 450 L (119 gallons); except that for transportation by passenger aircraft, the capacity of the packaging is not more than 30 L (7.9 gallons) and for transportation by cargo aircraft, the capacity of the packaging is not more than 100 L (26.3 gallons); and
 
-(iv) The viscosity1 and flash point are in accordance with the following table:
+(iv) The viscosity 1 and flash point are in accordance with the following table:
 
 1*Viscosity determination:* Where the substance concerned is non-Newtonian, or where a flow-cup method of viscosity determination is otherwise unsuitable, a variable shear-rate viscometer shall be used to determine the dynamic viscosity coefficient of the substance, at 23 °C (73.4 °F), at a number of shear rates. The values obtained are plotted against shear rate and then extrapolated to zero shear rate. The dynamic viscosity thus obtained, divided by the density, gives the apparent kinematic viscosity at near-zero shear rate.
 
@@ -49,4 +49,4 @@
 
 (ii) *Solvent Separation Test.* This test is carried out at 23 °C (73 °F) using a 100.0 mL(3 ounces) measuring cylinder of the stoppered type of approximately 25.0 cm (9.8 inches) total height and of a uniform internal diameter of approximately 30 mm (1.2 inches) over the calibrated section. The sample should be stirred to obtain a uniform consistency, and poured in up to the 100 mL (3 ounces) mark. The stopper should be inserted and the cylinder left standing undisturbed for 24 hours. After 24 hours, the height of the upper separated layer should be measured and the percentage of this layer as compared with the total height of the sample calculated.
 
-[Amdt. 173-224, 55 FR 52634, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.121, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[Amdt. 173-224, 55 FR 52634, Dec. 21, 1990] Editorial Note:For Federal Register citations affecting § 173.121, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

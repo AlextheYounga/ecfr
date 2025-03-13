@@ -6,8 +6,8 @@ Certificate of Compliance with Buy America Requirements
 
 The bidder or offeror hereby certifies that it will comply with the requirements of 49 U.S.C. 5323(j)(1), and the applicable regulations in 49 CFR part 661.
 
-DateSignatureCompanyNameTitleCertificate of Non-Compliance with Buy America Requirements
+Date Signature CompanyName TitleCertificate of Non-Compliance with Buy America Requirements
 
 The bidder or offeror hereby certifies that it cannot comply with the requirements of 49 U.S.C. 5323(j), but it may qualify for an exception to the requirement pursuant to 49 U.S.C. 5323(j)(2), as amended, and the applicable regulations in 49 CFR 661.7.
 
-DateSignatureCompanyNameTitle[71 FR 14117, Mar. 21, 2006, as amended at 72 FR 53696, Sept. 20, 2007]
+Date Signature CompanyName Title[71 FR 14117, Mar. 21, 2006, as amended at 72 FR 53696, Sept. 20, 2007]

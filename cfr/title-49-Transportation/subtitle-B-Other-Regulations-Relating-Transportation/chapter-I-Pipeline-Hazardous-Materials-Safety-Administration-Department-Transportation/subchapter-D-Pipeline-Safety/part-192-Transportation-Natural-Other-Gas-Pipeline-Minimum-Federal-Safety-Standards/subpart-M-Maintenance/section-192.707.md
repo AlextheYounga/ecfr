@@ -20,7 +20,7 @@
 
 (d) *Marker warning.* The following must be written legibly on a background of sharply contrasting color on each line marker:
 
-(1) The word “Warning,” “Caution,” or “Danger” followed by the words “Gas (or name of gas transported) Pipeline” all of which, except for markers in heavily developed urban areas, must be in letters at least 1 inch (25 millimeters) high with1/4 inch (6.4 millimeters) stroke.
+(1) The word “Warning,” “Caution,” or “Danger” followed by the words “Gas (or name of gas transported) Pipeline” all of which, except for markers in heavily developed urban areas, must be in letters at least 1 inch (25 millimeters) high with 1/4 inch (6.4 millimeters) stroke.
 
 (2) The name of the operator and the telephone number (including area code) where the operator can be reached at all times.
 

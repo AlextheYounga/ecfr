@@ -1,0 +1,3 @@
+##### § 901.137 Who in the Department of Energy may grant an exception to let an excluded person participate in a covered transaction? #####
+
+The Director, Office of Procurement and Assistance Management, DOE, for DOE actions, and the Director, Office of Acquisition and Supply Management, NNSA, for NNSA actions, may grant an exception permitting an excluded person to participate in a particular covered transaction. If the Director, Office of Procurement and Assistance Management, DOE, for DOE actions, and Director, Office of Acquisition and Supply Management, NNSA, for NNSA actions, grants an exception, the exception must be in writing and state the reason(s) for deviating from the government-wide policy in Executive Order 12549.

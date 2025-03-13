@@ -14,7 +14,7 @@
 
 (2) *A non-binding estimate* is what you believe the total cost will be for the move, based upon both the estimated weight or volume of the shipment and the accessorial services requested and the physical survey of the household goods, if required. A non-binding estimate is not binding on you. You will base the final charges upon the actual weight of the individual shipper's shipment and the tariff provisions in effect. You may not impose a charge for providing a non-binding estimate.
 
-(c) You must specify the form of payment you and your agent will honor at delivery. Payment forms may include, but are not limited to, cash, a certified check, a money order, a cashier s check, a specific charge card such as American ExpressTM, a specific credit card such as VisaTM, or your credit as allowed by § 375.807.
+(c) You must specify the form of payment you and your agent will honor at delivery. Payment forms may include, but are not limited to, cash, a certified check, a money order, a cashier s check, a specific charge card such as American Express TM, a specific credit card such as Visa TM, or your credit as allowed by § 375.807.
 
 (d) For non-binding estimates, you must provide your reasonably accurate estimate of the approximate costs the individual shipper should expect to pay for the transportation and services of such shipments. If you provide an inaccurately low estimate, you may be limiting the amount you will collect at the time of delivery as provided in § 375.407.
 

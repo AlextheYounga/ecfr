@@ -37,7 +37,7 @@
 
 (1) Calculation of the stress for cylinders must be made by the following formula:
 
-S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = Wall stress in psi;P = Minimum test pressure, at least5/3 service pressure;D = Outside diameter in inches;d = Inside diameter in inches.
+S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = Wall stress in psi;P = Minimum test pressure, at least 5/3 service pressure;D = Outside diameter in inches;d = Inside diameter in inches.
 
 (2) Each cylinder must meet the following additional requirement which assumes a cylinder horizontally supported at its two ends and uniformly loaded over its entire length. This load consists of the weight per inch of length of the straight cylindrical portion filled with water compressed to the specified test pressure. The wall thickness must be increased when necessary to meet this additional requirement:
 
@@ -81,7 +81,7 @@ S = A1 P / A2Where:S = Tensile stress in psi;A1 = Internal area in cross section
 
 (1) The test must be by water-jacket or direct expansion method as prescribed in CGA C-1 (IBR; see § 171.7 of this subchapter). The testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
 
-(2) Each cylinder must be tested to minimum of5/3 times service pressure.
+(2) Each cylinder must be tested to minimum of 5/3 times service pressure.
 
 (3) The minimum test pressure must be maintained at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and prior to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1, section 5.7.2.
 
@@ -117,7 +117,7 @@ S = A1 P / A2Where:S = Tensile stress in psi;A1 = Internal area in cross section
 
 (iii) For the purpose of strain measurement, the initial strain must be set with the specimen under a stress of 12,000 p.s.i. and the strain indicator reading set at the calculated corresponding strain.
 
-(iv) The cross-head speed of the testing machine may not exceed1/8 inch per minute during the determination of yield strength.
+(iv) The cross-head speed of the testing machine may not exceed 1/8 inch per minute during the determination of yield strength.
 
 (4) Each impact specimen must be Charpy V-notch type size 10 mm × 10 mm taken in accordance with paragraph 11 of ASTM A 333 (IBR, see § 171.7 of this subchapter). When a reduced size specimen is used, it must be the largest size obtainable.
 

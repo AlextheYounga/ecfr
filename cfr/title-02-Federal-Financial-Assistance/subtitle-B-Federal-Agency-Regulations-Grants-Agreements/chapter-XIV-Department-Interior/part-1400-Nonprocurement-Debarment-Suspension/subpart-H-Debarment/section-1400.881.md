@@ -1,0 +1,3 @@
+##### § 1400.881 May a respondent seek award eligibility reinstatement at any time before the end of the period of debarment? #####
+
+In addition to a petition for reconsideration based on a clear error of material fact or law, a respondent may, at any time following imposition of debarment, request the Suspending and Debarring Official to reduce or terminate the period of debarment based upon the factors under the provisions of 2 CFR 180.880.

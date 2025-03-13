@@ -12,11 +12,11 @@
 
 (c) *Cylinder pressure at 21 °C (70 °F).* The pressure in a cylinder at 21 °C (70 °F) may not exceed the service pressure for which the cylinder is marked or designated, except as provided in § 173.302a(b). For certain liquefied gases, the pressure at 21 °C (70 °F) must be lower than the marked service pressure to avoid having a pressure at a temperature of 55 °C (131 °F) that is greater than permitted.
 
-(d) *Cylinder pressure at 55 °C (131 °F).* The pressure in a cylinder at 55 °C (131 °F) may not exceed5/4 times the service pressure, except:
+(d) *Cylinder pressure at 55 °C (131 °F).* The pressure in a cylinder at 55 °C (131 °F) may not exceed 5/4 times the service pressure, except:
 
 (1) For a cylinder filled with acetylene, liquefied nitrous oxide, or carbon dioxide.
 
-(2) For a cylinder filled in accordance with § 173.302a(b), the pressure in the cylinder at 55 °C (131 °F) may not exceed5/4 times the filling pressure.
+(2) For a cylinder filled in accordance with § 173.302a(b), the pressure in the cylinder at 55 °C (131 °F) may not exceed 5/4 times the filling pressure.
 
 (3) The pressure at 55 °C (131 °F) of Hazard Zone A and Hazard Zone B materials may not exceed the service pressure of the cylinder. Sufficient outage must be provided so that the cylinder will not be liquid full at 55 °C (131 °F).
 

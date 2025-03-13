@@ -1,0 +1,3 @@
+##### § 2424.137 Who in HUD may grant an exception to let an excluded person participate in a covered transaction? #####
+
+The Secretary or designee may grant an exception permitting an excluded person to participate in a particular covered transaction. If the Secretary or a designee grants an exception, the exception must be in writing and state the reason(s) for deviating from the governmentwide policy in Executive Order 12549.

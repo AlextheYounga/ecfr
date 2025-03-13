@@ -1,0 +1,3 @@
+##### § 180.15 To whom does the guidance apply? #####
+
+This part provides guidance to Federal agencies. Publication of this guidance in the Code of Federal Regulations (CFR) does not change its nature—it is guidance and not regulation. Federal agencies' implementation of this guidance governs the rights and responsibilities of other persons affected by the nonprocurement debarment and suspension system.

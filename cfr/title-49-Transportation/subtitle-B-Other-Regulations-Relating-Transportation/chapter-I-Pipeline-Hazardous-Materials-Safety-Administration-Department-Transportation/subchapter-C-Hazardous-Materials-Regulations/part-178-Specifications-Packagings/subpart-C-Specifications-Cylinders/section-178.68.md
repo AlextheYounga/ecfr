@@ -81,7 +81,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in psi;P = minimum tes
 
 (1) If the weld is not at midlength of the cylinder, the test section must be no less in width than 30 times the cylinder wall thickness. The weld must be in the center of the section. Weld reinforcement must be removed by machining or grinding so that the weld is flush with the exterior of the parent metal. There must be no evidence of cracking in the sample when it is flattened between flat plates to no more than 6 times the wall thickness.
 
-(2) If the weld is at midlength of the cylinder, the test may be made as specified in paragraph (i)(1) of this section or must be made between wedge shaped knife edges (60° angle) rounded to a1/2 inch radius. There must be no evidence of cracking in the sample when it is flattened to no more than 6 times the wall thickness.
+(2) If the weld is at midlength of the cylinder, the test may be made as specified in paragraph (i)(1) of this section or must be made between wedge shaped knife edges (60° angle) rounded to a 1/2 inch radius. There must be no evidence of cracking in the sample when it is flattened to no more than 6 times the wall thickness.
 
 (j) *Mechanical test.* A mechanical test must be conducted to determine yield strength, tensile strength, elongation as a percentage, and reduction of area of material as a percentage as follows:
 
@@ -101,7 +101,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in psi;P = minimum tes
 
 (i) The yield strength must be determined by the “offset” method as prescribed in ASTM E 8 (IBR, see § 171.7 of this subchapter).
 
-(ii) Cross-head speed of the testing machine may not exceed1/8 inch per minute during yield strength determination.
+(ii) Cross-head speed of the testing machine may not exceed 1/8 inch per minute during yield strength determination.
 
 (k) *Acceptable results for mechanical tests.* An acceptable result of the mechanical test requires at least 7 percent and yield strength not over 80 percent of tensile strength.
 
@@ -111,7 +111,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in psi;P = minimum tes
 
 (2) *Guided bend test.* A bend test specimen must be removed from the cylinder used for the mechanical test specified in paragraph (j) of this section. The specimen must be taken across the circumferential seam, must be a minimum of 11/2 inches wide, edges must be parallel and rounded with a file, and back-up strip, if used, must be removed by machining. The specimen must be tested as follows:
 
-(i) *Standard guided bend test.* The specimen must be bent to refusal in the guided bend test jig as illustrated in CGA C-3 (IBR, see § 171.7 of this subchapter). The root of the weld (inside surface of the cylinder) must be located away from the ram of the jig. The specimen must not show a crack or other open defect exceeding1/8 inch in any direction upon completion of the test. Should this specimen fail to meet the requirements, one additional specimen must be taken from two additional cylinders from the same lot and tested. If either of the latter specimens fails to meet requirements, the entire lot represented must be rejected.
+(i) *Standard guided bend test.* The specimen must be bent to refusal in the guided bend test jig as illustrated in CGA C-3 (IBR, see § 171.7 of this subchapter). The root of the weld (inside surface of the cylinder) must be located away from the ram of the jig. The specimen must not show a crack or other open defect exceeding 1/8 inch in any direction upon completion of the test. Should this specimen fail to meet the requirements, one additional specimen must be taken from two additional cylinders from the same lot and tested. If either of the latter specimens fails to meet requirements, the entire lot represented must be rejected.
 
 (ii) *Alternate guided bend test.* This test may be used as an alternate to the guided bend test. The test specimen must be in conformance with The Aluminum Association's “Welding Aluminum: Theory and Practice, Fourth Edition, 2002” (IBR, see § 171.7 of this subchapter). If the specimen fails to meet the requirements, one additional specimen must be taken from two additional cylinders or welded test plates from the same lot and tested. If any of these latter two specimens fails to meet the requirements, the entire lot must be rejected.
 

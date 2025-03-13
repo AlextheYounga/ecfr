@@ -68,7 +68,7 @@ S5.3 *Test requirements.* A hydraulic brake hose assembly or appropriate part th
 
 S5.3.1 *Constriction.* Except for that part of an end fitting which does not contain hose, every inside diameter of any section of a hydraulic brake hose assembly shall be not less than 64 percent of the nominal inside diameter of the brake hose (S6.12).
 
-S5.3.2 *Expansion and burst strength.* The maximum expansion of a hydraulic brake hose assembly at 1,000 psi, 1,500 psi and 2,900 psi shall not exceed the values specified in Table I (S6.1), except that a brake hose larger than3/16 inch or 5 mm is not subject to the 2,900 psi expansion test requirements. The hydraulic brake hose assembly shall then withstand water pressure of 4,000 psi for 2 minutes without rupture, and then shall not rupture at less than 7,000 psi for a1/8 inch, 3 mm, or smaller diameter hose, or at less than 5,000 psi for a hose with a diameter larger than1/8 inch or 3 mm (S6.2).
+S5.3.2 *Expansion and burst strength.* The maximum expansion of a hydraulic brake hose assembly at 1,000 psi, 1,500 psi and 2,900 psi shall not exceed the values specified in Table I (S6.1), except that a brake hose larger than 3/16 inch or 5 mm is not subject to the 2,900 psi expansion test requirements. The hydraulic brake hose assembly shall then withstand water pressure of 4,000 psi for 2 minutes without rupture, and then shall not rupture at less than 7,000 psi for a 1/8 inch, 3 mm, or smaller diameter hose, or at less than 5,000 psi for a hose with a diameter larger than 1/8 inch or 3 mm (S6.2).
 
 | Hydraulic brake hose, inside diameter |        Test pressure         |                              |                                  |                                  |                              |    |
 |---------------------------------------|------------------------------|------------------------------|----------------------------------|----------------------------------|------------------------------|----|
@@ -148,7 +148,7 @@ S6.2 *Burst strength test.* (a) Connect the brake hose to a pressure system and 
 
 (b) Apply water pressure of 4,000 psi at a rate of 15,000 psi per minute.
 
-(c) After 2 minutes at 4,000 psi, increase the pressure at the rate of 15,000 psi per minute until the pressure exceeds 5,000 psi for a brake hose larger than1/8 inch or 3 mm diameter, or until the pressure exceeds 7,000 psi for a brake hose of1/8 inch, 3 mm, or smaller diameter.
+(c) After 2 minutes at 4,000 psi, increase the pressure at the rate of 15,000 psi per minute until the pressure exceeds 5,000 psi for a brake hose larger than 1/8 inch or 3 mm diameter, or until the pressure exceeds 7,000 psi for a brake hose of 1/8 inch, 3 mm, or smaller diameter.
 
 S6.3 *Whip resistance test.*
 
@@ -200,7 +200,7 @@ S6.6 *Low temperature resistance test.*
 
 S6.6.1 *Preparation.* (a) Remove hose armor, if any, and condition the hose in a straight position in air at a temperature between minus 49 degrees Fahrenheit and minus 54 degrees Fahrenheit (minus 45 degrees Celsius and minus 48 degrees Celsius) for 70 hours.
 
-(b) Condition a cylinder in air at a temperature between minus 49 degrees Fahrenheit and minus 54 degrees Fahrenheit (minus 45 degrees Celsius and minus 48 degrees Celsius) for 70 hours, using a cylinder of 21/2 inches in diameter for tests of hose less than1/8 inch or 3mm, 3 inches in diameter for tests of1/8 inch or 3 mm hose, 31/2 inches in diameter for tests of3/16 to1/4 inch hose or 4 mm to 6 mm hose, and 4 inches in diameter for tests of hose greater than1/4 inch or 6 mm in diameter.
+(b) Condition a cylinder in air at a temperature between minus 49 degrees Fahrenheit and minus 54 degrees Fahrenheit (minus 45 degrees Celsius and minus 48 degrees Celsius) for 70 hours, using a cylinder of 21/2 inches in diameter for tests of hose less than 1/8 inch or 3mm, 3 inches in diameter for tests of 1/8 inch or 3 mm hose, 31/2 inches in diameter for tests of 3/16 to 1/4 inch hose or 4 mm to 6 mm hose, and 4 inches in diameter for tests of hose greater than 1/4 inch or 6 mm in diameter.
 
 S6.6.2 *Flexibility testing.* Bend the conditioned hose 180 degrees around the conditioned cylinder at a steady rate in a period of 3 to 5 seconds. Examine without magnification for cracks.
 
@@ -342,7 +342,7 @@ S7.2.1 *Hose.* Each air brake hose shall be labeled, or cut from bulk hose that 
 
 (c) The month, day, and year, or the month and year, of manufacture, expressed in numerals. For example, 10/1/96 means October 1, 1996.
 
-(d) The nominal inside diameter of the hose expressed in inches or fractions of inches or in millimeters. The abbreviation “mm” shall follow hose sizes that are expressed in millimeters. (Examples:3/8,1/2 (1/2SP in the case of1/2 inch special air brake hose), 4mm, 6mm.)
+(d) The nominal inside diameter of the hose expressed in inches or fractions of inches or in millimeters. The abbreviation “mm” shall follow hose sizes that are expressed in millimeters. (Examples: 3/8, 1/2 (1/2SP in the case of 1/2 inch special air brake hose), 4mm, 6mm.)
 
 (e) The type designation corresponding to the brake hose dimensions in Table III. Type A shall be labeled with the letter “A”, Type AI shall be labeled with the letters “AI”, and type AII shall be labeled with the letters “AII”. Metric air brake hose shall be labeled with the letter “A.”
 
@@ -418,9 +418,9 @@ S7.3.8 *Flex strength and air pressure leakage.* An air brake hose assembly of t
 
 S7.3.9 *Corrosion resistance and burst strength.* An air brake hose assembly exposed to salt spray shall not rupture when exposed to hydrostatic pressure of 900 psi (S8.8).
 
-S7.3.10 *Tensile strength.* An air brake hose assembly designed for use between a frame and axle or between a towed and towing vehicle shall withstand, without separation of the hose from its end fittings, a pull of 250 pounds if it is1/4 inch, 6 mm, or less in nominal inside diameter, or a pull of 325 pounds if it is larger than1/4 inch or 6 mm in nominal inside diameter. An air brake hose assembly designed for use in any other application shall withstand, without separation of the hose from its end fittings, a pull of 50 pounds if it is1/4 inch, 6 mm, or less in nominal inside diameter, 150 pounds if it is larger than1/4 inch or 6 mm and equal to or smaller than1/2 inch or 12 mm in nominal inside diameter, or 325 pounds if it is larger than1/2 inch or 12 mm in nominal inside diameter (S8.9).
+S7.3.10 *Tensile strength.* An air brake hose assembly designed for use between a frame and axle or between a towed and towing vehicle shall withstand, without separation of the hose from its end fittings, a pull of 250 pounds if it is 1/4 inch, 6 mm, or less in nominal inside diameter, or a pull of 325 pounds if it is larger than 1/4 inch or 6 mm in nominal inside diameter. An air brake hose assembly designed for use in any other application shall withstand, without separation of the hose from its end fittings, a pull of 50 pounds if it is 1/4 inch, 6 mm, or less in nominal inside diameter, 150 pounds if it is larger than 1/4 inch or 6 mm and equal to or smaller than 1/2 inch or 12 mm in nominal inside diameter, or 325 pounds if it is larger than 1/2 inch or 12 mm in nominal inside diameter (S8.9).
 
-S7.3.11 *Water absorption and tensile strength.* After immersion in distilled water for 70 hours, an air brake hose assembly designed for use between a frame and axle or between a towed and a towing vehicle shall withstand, without separation of the hose from its end fittings, a pull of 250 pounds if it is1/4 inch or less or 6 mm or less in nominal inside diameter, or a pull of 325 pounds if it is larger than1/4 inch or 6 mm in nominal inside diameter. After immersion in distilled water for 70 hours, an air brake hose assembly designed for use in any other application shall withstand, without separation of the hose from its end fittings, a pull of 50 pounds if it is1/4 inch or 6 mm or less in nominal inside diameter, 150 pounds if it is larger than1/4 inch or 6 mm and equal to or smaller than1/2 inch or 12 mm in nominal inside diameter, or 325 pounds if it is larger than1/2 inch or 12 mm in nominal inside diameter. (S8.10)
+S7.3.11 *Water absorption and tensile strength.* After immersion in distilled water for 70 hours, an air brake hose assembly designed for use between a frame and axle or between a towed and a towing vehicle shall withstand, without separation of the hose from its end fittings, a pull of 250 pounds if it is 1/4 inch or less or 6 mm or less in nominal inside diameter, or a pull of 325 pounds if it is larger than 1/4 inch or 6 mm in nominal inside diameter. After immersion in distilled water for 70 hours, an air brake hose assembly designed for use in any other application shall withstand, without separation of the hose from its end fittings, a pull of 50 pounds if it is 1/4 inch or 6 mm or less in nominal inside diameter, 150 pounds if it is larger than 1/4 inch or 6 mm and equal to or smaller than 1/2 inch or 12 mm in nominal inside diameter, or 325 pounds if it is larger than 1/2 inch or 12 mm in nominal inside diameter. (S8.10)
 
 S7.3.12 *Zinc chloride resistance.* The outer cover of an air brake hose shall not show cracks visible under 7-power magnification after immersion in a 50 percent zinc chloride aqueous solution for 200 hours (S8.11).
 
@@ -561,7 +561,7 @@ S9.1.1 *Hose.* Each vacuum brake hose shall be labeled, or cut from bulk hose th
 
 (c) The month, day, and year, or the month and year, of manufacture, expressed in numerals. For example, 10/1/96 means October 1, 1996.
 
-(d) The nominal inside diameter of the hose expressed in inches or fractions of inches or in millimeters, or the nominal outside diameter of plastic tubing expressed in inches or fractions of inches or in millimeters followed by the letters OD. The abbreviation “mm” shall follow hose sizes that are expressed in millimeters. (Example of inside diameter:7/32,1/4, 4 mm. Example of outside diameter:1/4 OD, 12 mm OD.)
+(d) The nominal inside diameter of the hose expressed in inches or fractions of inches or in millimeters, or the nominal outside diameter of plastic tubing expressed in inches or fractions of inches or in millimeters followed by the letters OD. The abbreviation “mm” shall follow hose sizes that are expressed in millimeters. (Example of inside diameter: 7/32, 1/4, 4 mm. Example of outside diameter: 1/4 OD, 12 mm OD.)
 
 (e) The letters “VL” or “VH” shall indicate that the component is a light-duty vacuum brake hose or heavy-duty vacuum brake hose, respectively.
 
@@ -743,7 +743,7 @@ S11.2.1 *Plastic air brake tubing.* Plastic air brake tubing shall be labeled, o
 
 (c) The month, day, and year, or the month and year, of manufacture, expressed in numerals. For example, 10/1/96 means October 1, 1996.
 
-(d) The nominal outside diameter expressed in inches or fractions of inches or in millimeters followed by the letters OD. The abbreviation “mm” shall follow tubing sizes that are expressed in millimeters. (Examples:3/8 OD, 6 mm OD.)
+(d) The nominal outside diameter expressed in inches or fractions of inches or in millimeters followed by the letters OD. The abbreviation “mm” shall follow tubing sizes that are expressed in millimeters. (Examples: 3/8 OD, 6 mm OD.)
 
 (e) The letter “A” shall indicate intended use in air brake systems.
 
@@ -755,7 +755,7 @@ S11.2.2 *End fittings.* Except for an end fitting that is attached by deformatio
 
 (c) The letter “A” shall indicate intended use in air brake systems.
 
-(d) The nominal outside diameter of the plastic tubing to which the fitting is properly attached expressed in inches or fractions of inches or in millimeters followed by the letters OD. The abbreviation “mm” shall follow tubing sizes that are expressed in millimeters. (Examples:3/8 OD, 6 mm OD)
+(d) The nominal outside diameter of the plastic tubing to which the fitting is properly attached expressed in inches or fractions of inches or in millimeters followed by the letters OD. The abbreviation “mm” shall follow tubing sizes that are expressed in millimeters. (Examples: 3/8 OD, 6 mm OD)
 
 S11.2.3. *Assemblies.* Each plastic air brake tubing assembly made with end fittings that are attached by crimping or swaging, except those sold as part of a motor vehicle, shall be labeled by means of a band around the brake tubing assembly as specified in this paragraph or, at the option of the manufacturer, by means of labeling as specified in S11.2.3.1. The band may at the manufacturer's option be attached so as to move freely along the length of the assembly, as long as it is retained by the end fittings. The band shall be etched, embossed, or stamped in block capital letters, numerals or symbols at least one-eighth of an inch high, with the following information:
 
@@ -824,13 +824,13 @@ S11.3.15 *Ozone resistance.* The outer surface of plastic air brake tubing shall
 
 S11.3.16 *Oil resistance.* Plastic air brake tubing shall not rupture when subjected to 80 percent of the burst strength pressure in Table VIII for the size of tubing being tested, after the tubing has been conditioned in ASTM IRM 903 oil at 212 degrees Fahrenheit (100 degrees Celsius) for 70 hours. (S12.17)
 
-S11.3.17 *Tensile strength.* A plastic air brake tubing assembly designed for use between frame and axle or between a towed and a towing vehicle shall withstand, without separation of the tubing from its end fittings, a pull of 250 pounds if it is3/8 inch, 10 mm, or less in nominal outside diameter, or a pull of 325 pounds if it is larger than3/8 inch or 10 mm in nominal outside diameter. A plastic air brake tubing assembly designed for use in any other application shall withstand, without separation of the hose from its end fittings, a pull of 35 pounds if it is1/8 inch, 3 mm, or less in nominal outside diameter, 40 pounds if it is5/32 inch or 4 mm in nominal outside diameter, 50 pounds if it is3/16 to3/8 inch or 5 mm to 10 mm in nominal outside diameter, 150 pounds if it is1/2 to5/8 inch or 11 mm to 16 mm in nominal outside diameter, or 325 pounds if it is larger than5/8 inch or 16 mm in nominal outside diameter. (S12.18)
+S11.3.17 *Tensile strength.* A plastic air brake tubing assembly designed for use between frame and axle or between a towed and a towing vehicle shall withstand, without separation of the tubing from its end fittings, a pull of 250 pounds if it is 3/8 inch, 10 mm, or less in nominal outside diameter, or a pull of 325 pounds if it is larger than 3/8 inch or 10 mm in nominal outside diameter. A plastic air brake tubing assembly designed for use in any other application shall withstand, without separation of the hose from its end fittings, a pull of 35 pounds if it is 1/8 inch, 3 mm, or less in nominal outside diameter, 40 pounds if it is 5/32 inch or 4 mm in nominal outside diameter, 50 pounds if it is 3/16 to 3/8 inch or 5 mm to 10 mm in nominal outside diameter, 150 pounds if it is 1/2 to 5/8 inch or 11 mm to 16 mm in nominal outside diameter, or 325 pounds if it is larger than 5/8 inch or 16 mm in nominal outside diameter. (S12.18)
 
 S11.3.18 *Boiling water conditioning and tensile strength.* A plastic air brake tubing assembly when subjected to a tensile pull test shall either elongate 50 percent or withstand the conditioned tensile load in Table VIII without separation from its end fittings, with one end of the assembly conditioned in boiling water for 5 minutes. (S12.19)
 
 S11.3.19 *Thermal conditioning and tensile strength.* A plastic air brake tubing assembly when subjected to a tensile pull test shall either elongate 50 percent or withstand the conditioned tensile load in Table VIII without separation from its end fittings after the assembly has been subjected to four cycles of conditioning in air at minus 40 degrees Fahrenheit (minus 40 degrees Celsius) for thirty minutes, normalizing at room temperature, conditioning in boiling water for 15 minutes, and normalizing at room temperature. (S12.20)
 
-S11.3.20 *Vibration resistance.* A plastic air brake tubing assembly with an internal air pressure of 120 psig shall not rupture or leak more than 50 cm3 per minute at a temperature of minus 40 degrees Fahrenheit (minus 40 degrees Celsius) and 25 cm3 per minute at a temperature of 75 degrees Fahrenheit (24 degrees Celsius), after the assembly has been subjected to 1,000,000 cycles of vibration testing with one end of the assembly fixed and the other end stroked1/2-inch at 600 cycles per minute. In addition, end fittings that use a threaded retention nut shall retain at least 20 percent of the original retention nut tightening torque upon completion of the vibration testing. The vibration test shall be conducted in an environmental chamber and the air temperature shall be cycled between minus 40 degrees Fahrenheit (minus 40 degrees Celsius) and 220 degrees Fahrenheit (104 degrees Celsius) during the test. (S12.21)
+S11.3.20 *Vibration resistance.* A plastic air brake tubing assembly with an internal air pressure of 120 psig shall not rupture or leak more than 50 cm3 per minute at a temperature of minus 40 degrees Fahrenheit (minus 40 degrees Celsius) and 25 cm3 per minute at a temperature of 75 degrees Fahrenheit (24 degrees Celsius), after the assembly has been subjected to 1,000,000 cycles of vibration testing with one end of the assembly fixed and the other end stroked 1/2-inch at 600 cycles per minute. In addition, end fittings that use a threaded retention nut shall retain at least 20 percent of the original retention nut tightening torque upon completion of the vibration testing. The vibration test shall be conducted in an environmental chamber and the air temperature shall be cycled between minus 40 degrees Fahrenheit (minus 40 degrees Celsius) and 220 degrees Fahrenheit (104 degrees Celsius) during the test. (S12.21)
 
 S11.3.21 *End fitting retention.* The end fittings of a plastic air brake tubing assembly shall not rupture when the assembly is filled with water and pressurized to the burst strength pressure in Table VIII. (S12.22)
 
@@ -1030,7 +1030,7 @@ S12.20 *Thermal conditioning and tensile strength*—(a) *Apparatus.* Use a tens
 
 S12.21 *Vibration resistance test.* (a) *Apparatus.* A vibration testing machine that supports a brake tubing assembly by its end fittings in approximately a straight line and includes the following features:
 
-(1) One tubing assembly attachment point is fixed and the other moves in a plane perpendicular to a line projected between the attachment points. The movable attachment point moves in a linear direction and travels1/2 inch total and at its midpoint of travel falls on a line projected between the attachment points. The movable attachment point has a cycle rate of 600 cycles per minute.
+(1) One tubing assembly attachment point is fixed and the other moves in a plane perpendicular to a line projected between the attachment points. The movable attachment point moves in a linear direction and travels 1/2 inch total and at its midpoint of travel falls on a line projected between the attachment points. The movable attachment point has a cycle rate of 600 cycles per minute.
 
 (2) The distance between the attachment points is adjustable to compensate for varying lengths of brake tubing assemblies.
 
@@ -1042,7 +1042,7 @@ S12.21 *Vibration resistance test.* (a) *Apparatus.* A vibration testing machine
 
 (b) *Preparation.* (1) Prepare an air brake tubing assembly with a free length of 18 inches (18 inches of exposed tubing between the end fittings), with the end fittings installed in accordance with the end fitting manufacturer's instructions. Record the initial tightening torque for an end fitting that uses a threaded retaining nut.
 
-(2) Install the air brake tubing assembly on the vibration testing machine and, with the movable attachment point at the midpoint of its travel, adjust the distance between the attachment points so that they are1/2 inch closer together than the distance at which the tubing assembly is taut.
+(2) Install the air brake tubing assembly on the vibration testing machine and, with the movable attachment point at the midpoint of its travel, adjust the distance between the attachment points so that they are 1/2 inch closer together than the distance at which the tubing assembly is taut.
 
 (3) With the tubing assembly inside the environmental chamber, apply compressed air to the tubing assembly at a regulated pressure of 120 psi and maintain the supply of air to the tubing assembly for the duration of the test. Set the temperature of the environmental chamber to 220 degrees Fahrenheit (104 degrees Celsius) and initiate cycling of the movable attachment point. After 250,000 cycles, set the temperature of the environmental chamber to minus 40 degrees Fahrenheit (minus 40 degrees Celsius). After 500,000 cycles, set the temperature of the environmental chamber to 220 degrees Fahrenheit (104 degrees Celsius). After 750,000 cycles, set the temperature of the environmental chamber to minus 40 degrees Fahrenheit (minus 40 degrees Celsius). Measure the air flow rate just prior to 1,000,000 cycles and if the compressed air flow rate supplied to the air brake tubing assembly exceeds 50 cubic centimeters per minute this constitutes failure of the test. Stop the cycling at 1,000,000 cycles and set the environmental chamber temperature to 75 degrees Fahrenheit (24 degrees Celsius), while air pressure is still supplied to the air brake tubing assembly. After one hour, measure the compressed air flow rate supplied to the air brake tubing assembly and if the rate exceeds 25 cubic centimeters per minute this constitutes failure of the test.
 

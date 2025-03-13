@@ -1,0 +1,3 @@
+##### § 200.209 Certifications and representations. #####
+
+Unless prohibited by the U.S. Constitution, Federal statutes, or regulations, a Federal agency or pass-through entity is authorized to require a recipient to submit annual certifications and representations. Submission may be required more frequently if a recipient or subrecipient fails to meet a requirement of a Federal award. When a recipient is provided an exception to the requirements of 2 CFR 25.110, the recipient must submit the appropriate assurance form (for example, SF-424B).

@@ -1,0 +1,3 @@
+##### § 5800.220 What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions? #####
+
+Pursuant to 2 CFR 180.220(c), the Commission extends coverage of nonprocurement suspension and debarment requirements beyond first-tier procurement contracts to include any subcontract to be funded by the Commission, the value of which is expected to equal to or exceed $25,000 or 30 percent of the value of first-tier transaction, whichever is lesser.

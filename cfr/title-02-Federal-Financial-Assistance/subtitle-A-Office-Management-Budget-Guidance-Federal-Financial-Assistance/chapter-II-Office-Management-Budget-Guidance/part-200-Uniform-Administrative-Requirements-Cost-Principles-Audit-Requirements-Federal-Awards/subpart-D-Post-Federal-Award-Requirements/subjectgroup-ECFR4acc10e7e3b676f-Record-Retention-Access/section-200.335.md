@@ -1,0 +1,3 @@
+##### § 200.335 Requests for transfer of records. #####
+
+The Federal agency must request the transfer of records to its custody from the recipient or subrecipient when it determines that the records possess long-term retention value. However, the Federal agency may arrange for the recipient or subrecipient to retain the records that have long-term retention value so long as they are continuously available to the Federal Government.

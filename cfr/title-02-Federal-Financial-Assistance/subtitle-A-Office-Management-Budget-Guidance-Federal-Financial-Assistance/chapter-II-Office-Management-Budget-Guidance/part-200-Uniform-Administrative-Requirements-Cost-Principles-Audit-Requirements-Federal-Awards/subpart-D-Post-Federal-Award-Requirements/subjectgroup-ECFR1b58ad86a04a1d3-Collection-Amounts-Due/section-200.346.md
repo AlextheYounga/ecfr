@@ -1,0 +1,3 @@
+##### § 200.346 Collection of amounts due. #####
+
+Any Federal funds paid to the recipient or subrecipient in excess of the amount that the recipient or subrecipient is determined to be entitled to under the Federal award constitute a debt to the Federal Government. The Federal agency must collect all debts arising out of its Federal awards in accordance with the Standards for the Administrative Collection of Claims (31 CFR part 901).

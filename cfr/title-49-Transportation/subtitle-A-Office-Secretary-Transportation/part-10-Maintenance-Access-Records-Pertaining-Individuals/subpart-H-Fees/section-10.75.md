@@ -16,7 +16,7 @@
 |                 (4) Color print (from print)                 |6.25 |
 |(e) Duplicate data tapes—each reel of tape or fraction thereof|36.00|
 
-The applicant must furnish the necessary number of blank magnetic tapes. The tapes must be compatible for use in the supplier's computer system,1/2 inch wide and 2,400 feet long, and must be capable of recording data at a density of 556 or 800 characters per inch. Unless otherwise designated, the tapes will be recorded at 556 CPI density. The Department of Transportation is not responsible for damaged tape. However, if the applicant furnishes a replacement for a damaged tape, the duplication process is completed at no additional charge.
+The applicant must furnish the necessary number of blank magnetic tapes. The tapes must be compatible for use in the supplier's computer system, 1/2 inch wide and 2,400 feet long, and must be capable of recording data at a density of 556 or 800 characters per inch. Unless otherwise designated, the tapes will be recorded at 556 CPI density. The Department of Transportation is not responsible for damaged tape. However, if the applicant furnishes a replacement for a damaged tape, the duplication process is completed at no additional charge.
 
 |                     (f) Microreproduction fees are as follows:                     |     |
 |------------------------------------------------------------------------------------|-----|

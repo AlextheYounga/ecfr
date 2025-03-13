@@ -34,7 +34,7 @@ Claim of \_\_ under decision of the Surface Transportation Board in Docket No. \
 
 \_\_ Reparation on basis of Board's decision.
 
-\_\_ Charges paid by.1
+\_\_ Charges paid by. 1
 
 1 Here insert name of person paying charges in the first instance, and state whether as consignor, consignee, or in what other capacity.
 
@@ -44,7 +44,7 @@ Claimant hereby certifies that this statement includes claims only on shipments 
 
 Total amount of reparation $\_\_\_. The undersigned hereby certifies that this statement has been checked against the records of this company and found correct.
 
-Date \_\_\_ Concurred2 in: \_\_\_ Company \_\_\_ Company, Defendant Collecting Carrier, Defendant3. \_\_\_
+Date \_\_\_ Concurred 2 in: \_\_\_ Company \_\_\_ Company, Defendant Collecting Carrier, Defendant 3. \_\_\_
 
 2 For concurring certificate in case collecting carrier is not a defendant.
 

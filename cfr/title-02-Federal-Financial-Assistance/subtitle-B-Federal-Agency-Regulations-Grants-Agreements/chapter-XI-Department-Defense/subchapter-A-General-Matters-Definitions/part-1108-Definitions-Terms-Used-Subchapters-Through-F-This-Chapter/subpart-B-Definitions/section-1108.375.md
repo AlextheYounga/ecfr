@@ -1,0 +1,3 @@
+##### § 1108.375 Technology investment agreement. #####
+
+*Technology investment agreement* means one of a special class of assistance instruments used to increase involvement of commercial firms in defense research programs and for other purposes related to integration of the commercial and defense sectors of the nation's technology and industrial base. Technology investment agreements include one kind of cooperative agreement with provisions tailored for involving commercial firms, as well as one kind of assistance transaction other than a grant or cooperative agreement. Technology investment agreements are subject to, and described more fully in, 32 CFR part 37.

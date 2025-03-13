@@ -1,0 +1,3 @@
+##### § 376.935 Disqualified. (HHS supplement to government-wide definition at 2 CFR 180.935). #####
+
+*Disqualified* means persons prohibited from participating in specified federal procurement and nonprocurement transactions pursuant to the statutes listed in 2 CFR 180.935, and pursuant to Title XI of the Social Security Act (42 U.S.C. 1320a-7, 1320a-7a, 1320c-5, and 1395ccc) as enforced by the HHS Office of the Inspector General.

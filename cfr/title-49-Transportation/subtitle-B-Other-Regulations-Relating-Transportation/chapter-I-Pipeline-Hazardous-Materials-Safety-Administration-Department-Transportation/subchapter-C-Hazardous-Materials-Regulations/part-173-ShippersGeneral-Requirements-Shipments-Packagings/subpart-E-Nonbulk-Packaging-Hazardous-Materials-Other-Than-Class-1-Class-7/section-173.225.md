@@ -484,11 +484,11 @@
 
 (v)(A) The emergency-relief devices may be of the reclosing or frangible types, or a combination of the two, designed to vent all the decomposition products and vapors evolved during a period of not less than one hour of complete fire engulfment as calculated by the following formula:
 
-![](/graphics/er20de04.002.gif)Where:q = heat absorption (W)A = wetted area (m2)F = insulation factor (−)
+![](/graphics/er20de04.002.gif)Where:q = heat absorption (W) A = wetted area (m2) F = insulation factor (−)
 
 (B) Insulation factor (F) in the formula in paragraph (h)(3)(v)(A) of this section equals 1 for non-insulated vessels and for insulated vessels F is calculated using the following formula:
 
-![](/graphics/er20de04.003.gif)Where:U = K/L = heat transfer coefficient of the insulation (W·m−2·K−1); where K = heat conductivity of insulation layer (W·m−1·K−1), and L = thickness of insulation layer (m).TPO = temperature of material at relieving conditions (K).
+![](/graphics/er20de04.003.gif)Where: U = K/L = heat transfer coefficient of the insulation (W·m−2·K−1); where K = heat conductivity of insulation layer (W·m−1·K−1), and L = thickness of insulation layer (m). TPO = temperature of material at relieving conditions (K).
 
 (vi) The start-to-discharge pressure of emergency-relief devices must be higher than that specified for the pressure relief devices in paragraph (h)(3)(iv) of this section. The emergency-relief devices must be sized and designed in such a way that the maximum pressure in the shell never exceeds the test pressure of the portable tank.
 

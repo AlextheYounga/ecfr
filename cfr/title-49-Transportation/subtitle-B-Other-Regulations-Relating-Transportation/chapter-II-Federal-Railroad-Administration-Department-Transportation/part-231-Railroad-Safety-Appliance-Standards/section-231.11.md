@@ -32,7 +32,7 @@
 
 (3) *Location.* One under each side door.
 
-(4) *Manner of application.* Side-door steps shall be supported by 2 iron brackets having a minimum cross-sectional area7/8 by 3 inches or equivalent, each of which shall be securely fastened to car by not less than two3/4-inch bolts.
+(4) *Manner of application.* Side-door steps shall be supported by 2 iron brackets having a minimum cross-sectional area 7/8 by 3 inches or equivalent, each of which shall be securely fastened to car by not less than two 3/4-inch bolts.
 
 (f) *Ladders*—(1) *Number.* Four.
 
@@ -56,7 +56,7 @@
 
 (iii) Carriers are not required to change the location of handholds on cars in service July 1, 1911, except end handholds under end sills, where the appliances are within 3 inches of the required location, except that when cars undergo regular repairs they must then be made to comply with the standards prescribed.
 
-(4) *Manner of application.* Roof handholds shall be securely fastened with not less than1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than1/2-inch rivets.
+(4) *Manner of application.* Roof handholds shall be securely fastened with not less than 1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than 1/2-inch rivets.
 
 (i) *Cupola handholds*—(1) *Number.* One or more.
 
@@ -68,7 +68,7 @@
 
 (iii) Carriers are not required to change the location of handholds on cars in service July 1, 1911, except end handholds under end sills, where the appliances are within 3 inches of the required location, except that when cars undergo regular repairs they must then be made to comply with the standards prescribed.
 
-(4) *Manner of application.* Cupola handholds shall be securely fastened with not less than1/2-inch bolts with nuts outside and riveted over or with not less than1/2-inch rivets.
+(4) *Manner of application.* Cupola handholds shall be securely fastened with not less than 1/2-inch bolts with nuts outside and riveted over or with not less than 1/2-inch rivets.
 
 (j) *Side handholds*—(1) *Number.* Four.
 
@@ -90,7 +90,7 @@
 
 (iii) Carriers are not required to change the location of handholds on cars in service July 1, 1911, except end handholds under end sills, where the appliances are within 3 inches of the required location, except that when cars undergo regular repairs they must then be made to comply with the standards prescribed.
 
-(4) *Manner of application.* Side-door handholds shall be securely fastened with not less than1/2-inch bolts with nuts outside (when possible) and riveted over or with not less than1/2-inch rivets.
+(4) *Manner of application.* Side-door handholds shall be securely fastened with not less than 1/2-inch bolts with nuts outside (when possible) and riveted over or with not less than 1/2-inch rivets.
 
 (l) *Horizontal end handholds*—(1) *Number.* Same as specified for “Box and other house cars.” (See § 231.1(i)(1)).
 

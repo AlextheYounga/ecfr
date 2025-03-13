@@ -91,4 +91,4 @@
 
 (i) When Division 1.5 materials, compatibility group D, are transported in the same freight container as Division 1.2 (explosive) materials, compatibility group D, the shipment must be transported as Division 1.1 (explosive) materials, compatibility group D.
 
-[Amdt. 177-78, 55 FR 52712, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 177.848, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Amdt. 177-78, 55 FR 52712, Dec. 21, 1990] Editorial Note:For Federal Register citations affecting § 177.848, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

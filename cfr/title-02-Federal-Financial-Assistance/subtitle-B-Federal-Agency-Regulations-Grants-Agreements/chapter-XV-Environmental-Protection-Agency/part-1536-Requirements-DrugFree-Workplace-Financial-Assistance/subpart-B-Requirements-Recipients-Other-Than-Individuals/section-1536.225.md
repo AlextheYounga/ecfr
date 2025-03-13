@@ -1,0 +1,3 @@
+##### § 1536.225 Whom in the Environmental Protection Agency does a recipient other than an individual notify about a criminal drug conviction? #####
+
+A recipient other than an individual that is required under 2 CFR 182.225(a) to notify Federal agencies about an employee's conviction for a criminal drug offense must notify the EPA award official from each Environmental Protection Agency office from which it currently has an award.

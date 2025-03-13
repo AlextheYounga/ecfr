@@ -1,0 +1,3 @@
+##### § 2867.30 What policies and procedures must be followed? #####
+
+The Department of Justice policies and procedures that must be followed are the policies and procedures specified in each applicable section of the OMB guidance in subparts A through I of 2 CFR part 180, as that section is supplemented by the section in this part with the same section number. The contracts that are covered transactions, for example, are specified by section 220 of the OMB guidance (*i.e.*, 2 CFR 180.220) as supplemented by section 220 in this part (*i.e.*, § 2867.220). For any section of OMB guidance in subparts A through I of 2 CFR 180 that has no corresponding section in this part, Department of Justice policies and procedures are those in the OMB guidance.

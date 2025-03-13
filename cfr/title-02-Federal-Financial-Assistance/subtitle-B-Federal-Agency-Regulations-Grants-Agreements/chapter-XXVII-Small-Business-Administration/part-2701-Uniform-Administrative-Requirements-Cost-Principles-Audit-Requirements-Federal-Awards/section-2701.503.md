@@ -1,0 +1,3 @@
+##### § 2701.503 Relation to other audit requirements. #####
+
+Non-Federal entities that are not subject to the requirements of the Single Audit Act and that are performing projects under SBA awards will be required to submit copies of their audited financial statements for their most recently completed fiscal year. Costs associated with the auditing of a non-Federal entity's financial statements may be included in its negotiations for an indirect cost rate agreement in accordance with 2 CFR 200.425.

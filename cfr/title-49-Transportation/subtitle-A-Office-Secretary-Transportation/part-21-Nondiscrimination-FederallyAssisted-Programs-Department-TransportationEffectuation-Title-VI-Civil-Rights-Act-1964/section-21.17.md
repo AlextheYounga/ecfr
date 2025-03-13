@@ -18,4 +18,4 @@
 
 (3) If the Secretary denies any such request, the applicant or recipient may submit a request for a hearing in writing, specifying who it believes such official to have been in error. It shall thereupon be given an expeditious hearing, with a decision on the record in accordance with rules or procedures issued by the Secretary. The applicant or recipient will be restored to such eligibility if it proves at such a hearing that it satisfied the requirements of paragraph (g)(1) of this section.
 
-While proceedings under this paragraph are pending, the sanctions imposed by the order issued under paragraph (f) of this section shall remain in effect.[35 FR 10080, June 18, 1970, as amended at 68 FR 51389, Aug. 26, 2003]
+While proceedings under this paragraph are pending, the sanctions imposed by the order issued under paragraph (f) of this section shall remain in effect. [35 FR 10080, June 18, 1970, as amended at 68 FR 51389, Aug. 26, 2003]
