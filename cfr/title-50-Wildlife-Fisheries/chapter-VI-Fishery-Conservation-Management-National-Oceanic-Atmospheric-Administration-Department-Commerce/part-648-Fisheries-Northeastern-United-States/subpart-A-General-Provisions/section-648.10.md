@@ -200,7 +200,7 @@ VMS Demarcation Line
 
 (i) An operator of a NE multispecies vessel is authorized to change the category of NE multispecies DAS used (*i.e.,* flip its DAS), as provided at § 648.85(b), or change the area declared to be fished so that the vessel may fish both inside and outside of the Eastern U.S./Canada Area on the same trip, as provided at § 648.85(a)(3)(ii)(A).
 
-(ii) An operator of a vessel issued both a NE multispecies permit and a monkfish permit are authorized to change their DAS declaration from a NE multispecies Category A DAS to a monkfish DAS, while remaining subject to the to the NE multispecies DAS usage requirements under § 648.92(b)(1)(i), during the course of a trip, as provided at § 648.92(b)(1)(iii)(A).
+(ii) An operator of a vessel issued both a NE multispecies permit and a monkfish permit is authorized to change their DAS declaration from a NE multispecies Category A DAS to a monkfish DAS, while remaining subject to the NE multispecies DAS usage requirements under § 648.92(b)(1)(iv), during a trip, as provided at § 648.92(b)(1)(vi)(A).
 
 (iii) The vessel carries onboard a valid limited access or LAGC scallop permit, has declared out of the fishery in port, and is steaming to another location, pursuant to paragraph (f) of this section.
 

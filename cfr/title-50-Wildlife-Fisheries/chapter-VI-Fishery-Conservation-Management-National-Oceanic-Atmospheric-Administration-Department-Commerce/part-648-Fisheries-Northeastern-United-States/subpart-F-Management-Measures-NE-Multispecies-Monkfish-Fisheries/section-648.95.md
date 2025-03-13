@@ -32,7 +32,7 @@
 
 (2) A vessel enrolled in the Offshore Fishery Program is restricted to fishing under its monkfish DAS during the season in paragraph (d) of this section.
 
-(3) A vessel issued a limited access monkfish Category F permit fishing on a monkfish DAS is subject to the minimum mesh size requirements specified in § 648.91(c)(1)(i) and (c)(1)(iii), as well as the other gear requirements specified in § 648.91(c)(2) and (c)(3).
+(3) A vessel issued a limited access monkfish Category F permit fishing on a monkfish DAS is subject to the minimum mesh size requirements specified in § 648.91(c)(1)(i), (iii) and (iv), as well as the other gear requirements specified in § 648.91(c)(2) and (3).
 
 (4) A vessel issued a Category F permit must have installed on board an operational VMS unit that meets the minimum performance criteria specified in §§ 648.9 and 648.10 during the entire season established under paragraph (d) of this section. Unless otherwise required to maintain an operational VMS unit under the VMS notification requirements specified at § 648.10(b), a vessel issued a Category F permit may turn off its VMS unit outside of that season.
 
@@ -48,4 +48,4 @@
 
 (h) *DAS usage by NE multispecies or sea scallop limited access permit holders.* A vessel issued a Category F permit that also has been issued either a NE multispecies or sea scallop limited access permit, and is fishing on a monkfish DAS, is subject to the DAS usage requirements specified in § 648.92(b)(2).
 
-[70 FR 21945, Apr. 28, 2005, as amended at 72 FR 20960, Apr. 27, 2007; 72 FR 53942, Sept. 21, 2007; 74 FR 20557, May 4, 2009; 79 FR 41925, July 18, 2014; 79 FR 52580, Sept. 4, 2014]
+[70 FR 21945, Apr. 28, 2005, as amended at 72 FR 20960, Apr. 27, 2007; 72 FR 53942, Sept. 21, 2007; 74 FR 20557, May 4, 2009; 79 FR 41925, July 18, 2014; 79 FR 52580, Sept. 4, 2014; 88 FR 54499, Aug. 11, 2023]

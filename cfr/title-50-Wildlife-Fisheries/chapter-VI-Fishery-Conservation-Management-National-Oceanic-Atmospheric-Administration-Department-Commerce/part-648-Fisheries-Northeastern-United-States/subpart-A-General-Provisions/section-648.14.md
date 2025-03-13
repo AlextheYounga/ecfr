@@ -888,7 +888,7 @@
 
 (ii) Fish for, possess, or land monkfish in or from the EEZ without having been issued and possessing a valid operator permit pursuant to § 648.5, and this permit is onboard the vessel.
 
-(2) *Gear requirements.* (i) Fish with or use nets with mesh size smaller than the minimum mesh size specified in § 648.91(c) while fishing under a monkfish DAS, except as authorized by § 648.91(c)(1)(iii).
+(2) *Gear requirements.* (i) Fish with or use nets with mesh size smaller than the minimum mesh size specified in § 648.91(c) while fishing under a monkfish DAS, except as authorized by § 648.91(c)(1)(v).
 
 (ii) Fail to immediately produce gillnet tags when requested by an authorized officer.
 
@@ -900,7 +900,7 @@
 
 (3) *Area restrictions.* (i) Fail to comply with the restrictions applicable to limited access Category G and H vessels specified under § 648.92(b)(9).
 
-(ii) Fail to comply with the NFMA requirements specified at § 648.94(f).
+(ii) Fail to comply with the Northern Fishery Management Area (NFMA) or Southern Fishery Management Area (SFMA) requirements specified at § 648.92(b)(1)(v).
 
 (4) *DAS requirements.* (i) Fail to comply with the monkfish DAS provisions specified at § 648.92 when issued a valid limited access monkfish permit.
 

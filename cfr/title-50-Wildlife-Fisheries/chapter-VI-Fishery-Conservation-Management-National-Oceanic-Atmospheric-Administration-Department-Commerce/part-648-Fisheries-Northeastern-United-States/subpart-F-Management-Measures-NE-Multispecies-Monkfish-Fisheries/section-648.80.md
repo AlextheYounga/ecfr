@@ -6,31 +6,27 @@ Except as provided in § 648.17, all vessels must comply with the following mini
 
 (i) Bounded on the east by the U.S.-Canada maritime boundary, defined by straight lines connecting the following points in the order stated:
 
-|Point|   N. lat.    |     W. long.     |
-|-----|--------------|------------------|
-| G1  |(<sup>1</sup>)|  (<sup>1</sup>)  |
-| G2  |    43°58′    |      67°22′      |
-| G3  |   42°53.1′   |     67°44.4′     |
-| G4  |    42°31′    |     67°28.1′     |
-|CII3 |    42°22′    |67°20′<sup>2</sup>|
-
-<sup>1</sup> The intersection of the shoreline and the U.S.-Canada Maritime Boundary.
-
-<sup>2</sup> The U.S.-Canada Maritime Boundary.
+|                                        Point                                        |   N. lat.    |     W. long.      |
+|-------------------------------------------------------------------------------------|--------------|-------------------|
+|                                         G1                                          |(<sup>1</sup>)|  (<sup>1</sup>)   |
+|                                         G2                                          |    43°58′    |      67°22′       |
+|                                         G3                                          |   42°53.1′   |     67°44.4′      |
+|                                         G4                                          |    42°31′    |     67°28.1′      |
+|                                        CII3                                         |    42°22′    |67°20′ <sup>2</sup>|
+|<sup>1</sup> The intersection of the shoreline and the U.S.-Canada Maritime Boundary.|              |                   |
+|                   <sup>2</sup> The U.S.-Canada Maritime Boundary.                   |              |                   |
 
 (ii) Bounded on the south by straight lines connecting the following points in the order stated:
 
-|Point|N. lat.|     W. long.     |
-|-----|-------|------------------|
-|CII3 |42°22′ |67°20′<sup>1</sup>|
-| G6  |42°20′ |      67°20′      |
-| G7  |42°20′ |      69°30′      |
-| G8  |42°00′ |      69°30′      |
-| G9  |42°00′ |  (<sup>2</sup>)  |
-
-<sup>1</sup> The U.S.-Canada Maritime Boundary.
-
-<sup>2</sup> The intersection of the Cape Cod, MA, coastline and 42°00′ N. lat.
+|                                     Point                                     |N. lat.|     W. long.      |
+|-------------------------------------------------------------------------------|-------|-------------------|
+|                                     CII3                                      |42°22′ |67°20′ <sup>1</sup>|
+|                                      G6                                       |42°20′ |      67°20′       |
+|                                      G7                                       |42°20′ |      69°30′       |
+|                                      G8                                       |42°00′ |      69°30′       |
+|                                      G9                                       |42°00′ |  (<sup>2</sup>)   |
+|                <sup>1</sup> The U.S.-Canada Maritime Boundary.                |       |                   |
+|<sup>2</sup> The intersection of the Cape Cod, MA, coastline and 42°00′ N. lat.|       |                   |
 
 (2) *GB Regulated Mesh Area.* The GB Regulated Mesh Area (copies of a map depicting the area are available from the Regional Administrator upon request) is that area:
 
@@ -38,31 +34,25 @@ Except as provided in § 648.17, all vessels must comply with the following mini
 
 (ii) Bounded on the east by straight lines connecting the following points in the order stated:
 
-GB Regulated Mesh Area
-
-|Point|N. latitude|   W. longitude   |
-|-----|-----------|------------------|
-|CII3 |  42°22′   |67°20′<sup>1</sup>|
-|SNE1 |  40°24′   |65°43′<sup>2</sup>|
-
-<sup>1</sup> The U.S.-Canada Maritime Boundary.
-
-<sup>2</sup> The U.S.-Canada Maritime Boundary as it intersects with the EEZ.
+|                                    Point                                    |N. latitude|   W. longitude    |
+|-----------------------------------------------------------------------------|-----------|-------------------|
+|                                    CII3                                     |  42°22′   |67°20′ <sup>1</sup>|
+|                                    SNE1                                     |  40°24′   |65°43′ <sup>2</sup>|
+|               <sup>1</sup> The U.S.-Canada Maritime Boundary.               |           |                   |
+|<sup>2</sup> The U.S.-Canada Maritime Boundary as it intersects with the EEZ.|           |                   |
 
 (iii) Bounded on the west by straight lines connecting the following points in the order stated:
 
-|Point|   N. lat.    |W. long.|
-|-----|--------------|--------|
-| G12 |(<sup>1</sup>)| 70°00′ |
-| G11 |    40°50′    | 70°00′ |
-| NL1 |    40°50′    | 69°40′ |
-| NL2 |   40°18.7′   | 69°40′ |
-| NL3 |   40°22.7′   | 69°00′ |
-|     |(<sup>2</sup>)| 69°00′ |
-
-<sup>1</sup> South facing shoreline of Cape Cod.
-
-<sup>2</sup> Southward to its intersection with the EEZ.
+|                         Point                          |   N. lat.    |W. long.|
+|--------------------------------------------------------|--------------|--------|
+|                          G12                           |(<sup>1</sup>)| 70°00′ |
+|                          G11                           |    40°50′    | 70°00′ |
+|                          NL1                           |    40°50′    | 69°40′ |
+|                          NL2                           |   40°18.7′   | 69°40′ |
+|                          NL3                           |   40°22.7′   | 69°00′ |
+|                                                        |(<sup>2</sup>)| 69°00′ |
+|    <sup>1</sup> South facing shoreline of Cape Cod.    |              |        |
+|<sup>2</sup> Southward to its intersection with the EEZ.|              |        |
 
 (3) *GOM Regulated Mesh Area minimum mesh size and gear restrictions*—(i) *Vessels using trawls.* Except as provided in paragraphs (a)(3)(i) and (vi) of this section and § 648.85(b)(6), and unless otherwise restricted under paragraph (a)(3)(iii) of this section, the minimum mesh size for any trawl net, except a midwater trawl, on a vessel or used by a vessel fishing under the NE multispecies DAS program or on a sector trip in the GOM Regulated Mesh Area is 6-inch (15.2-cm) diamond mesh or 6.5-inch (16.5-cm) square mesh, applied throughout the body and extension of the net, or any combination thereof, and 6.5-inch (16.5-cm) diamond mesh or square mesh applied to the codend of the net as defined in paragraphs (a)(3)(i)(A) and (B) of this section, provided the vessel complies with the requirements of paragraph (a)(3)(vii) of this section. This restriction does not apply to nets or pieces of nets smaller than 3 ft (0.9 m) × 3 ft (0.9 m), (9 sq ft (0.81 sq m)), or to vessels that have not been issued a NE multispecies permit and that are fishing exclusively in state waters.
 
@@ -98,26 +88,20 @@ GB Regulated Mesh Area
 
 (vii) *Rockhopper and roller gear restrictions.* For all trawl vessels fishing on a NE multispecies DAS or sector trip in the GOM/GB Inshore Restricted Roller Gear Area, the diameter of any part of the trawl footrope, including discs, rollers, or rockhoppers, must not exceed 12 inches (30.5 cm). The GOM/GB Inshore Restricted Roller Gear Area is defined by straight lines connecting the following points in the order stated:
 
-Inshore Restricted Roller Gear Area
-
-|Point|N. Latitude| W. Longitude |
-|-----|-----------|--------------|
-|  1  |  42°00′   |(<sup>1</sup>)|
-|  2  |  42°00′   |(<sup>2</sup>)|
-|  3  |  42°00′   |(<sup>3</sup>)|
-|  4  |  42°00′   |    69°50′    |
-|  5  |  43°00′   |    69°50′    |
-|  6  |  43°00′   |    70°00′    |
-|  7  |  43°30′   |    70°00′    |
-|  8  |  43°30′   |(<sup>4</sup>)|
-
-<sup>1</sup> Massachusetts shoreline.
-
-<sup>2</sup> Cape Cod shoreline on Cape Cod Bay.
-
-<sup>3</sup> Cape Cod shoreline on the Atlantic Ocean.
-
-<sup>4</sup> Maine shoreline.
+|                        Point                         |N. Latitude| W. Longitude |
+|------------------------------------------------------|-----------|--------------|
+|                          1                           |  42°00′   |(<sup>1</sup>)|
+|                          2                           |  42°00′   |(<sup>2</sup>)|
+|                          3                           |  42°00′   |(<sup>3</sup>)|
+|                          4                           |  42°00′   |    69°50′    |
+|                          5                           |  43°00′   |    69°50′    |
+|                          6                           |  43°00′   |    70°00′    |
+|                          7                           |  43°30′   |    70°00′    |
+|                          8                           |  43°30′   |(<sup>4</sup>)|
+|        <sup>1</sup> Massachusetts shoreline.         |           |              |
+|   <sup>2</sup> Cape Cod shoreline on Cape Cod Bay.   |           |              |
+|<sup>3</sup> Cape Cod shoreline on the Atlantic Ocean.|           |              |
+|            <sup>4</sup> Maine shoreline.             |           |              |
 
 (4) *GB regulated mesh area minimum mesh size and gear restrictions*—(i) *Vessels using trawls.* Except as provided in paragraph (a)(3)(vi) of this section, this paragraph (a)(4)(i), § 648.85(b)(6) and (8), and § 648.87(c)(2)(ii), and unless otherwise restricted under paragraph (a)(4)(iii) of this section, the minimum mesh size for any trawl net, except a midwater trawl, and the minimum mesh size for any trawl net when fishing in that portion of the GB Regulated Mesh Area that lies within the SNE Exemption Area, as described in paragraph (b)(10) of this section, that is not stowed and available for immediate use as defined in § 648.2, on a vessel or used by a vessel fishing under the NE multispecies DAS program or on a sector trip in the GB Regulated Mesh Area is 6-inch (15.2-cm) diamond mesh or 6.5-inch (16.5-cm) square mesh applied throughout the body and extension of the net, or any combination thereof, and 6.5-inch (16.5-cm) diamond mesh or square mesh applied to the codend of the net as defined in paragraph (a)(3)(i) of this section, provided the vessel complies with the requirements of paragraphs (a)(3)(vii) of this section. This restriction does not apply to nets or pieces of nets smaller than 3 ft (0.9 m) × 3 ft (0.9 m), (9 sq ft (0.81 sq m)), or to vessels that have not been issued a NE multispecies permit and that are fishing exclusively in state waters.
 
@@ -150,8 +134,6 @@ Inshore Restricted Roller Gear Area
 (iii) *Time restrictions.* A vessel may only fish under this exemption during the northern shrimp season, as established by the Commission and announced in the Commission's letter to participants.
 
 (6) *Cultivator Shoal Whiting Fishery Exemption Area.* Vessels subject to the minimum mesh size restrictions specified in paragraphs (a)(3) and (4) of this section may fish with, use, or possess nets in the Cultivator Shoal Whiting Fishery Exemption Area with a mesh size smaller than the minimum size specified, if the vessel complies with the requirements specified in paragraph (a)(6)(i) of this section. The Cultivator Shoal Whiting Fishery Exemption Area (copies of a map depicting the area are available from the Regional Administrator upon request) is defined by straight lines connecting the following points in the order stated:
-
-Cultivator Shoal Whiting Fishery Exemption Area
 
 |Point|N. lat. |W. long.|
 |-----|--------|--------|
@@ -217,8 +199,6 @@ Cultivator Shoal Whiting Fishery Exemption Area
 
 (B) Small-mesh Areas 1 and 2 are defined by straight lines connecting the following points in the order stated (copies of a chart depicting these areas are available from the Regional Administrator upon request):
 
-Small Mesh Area I
-
 |Point|N. lat.|W. long.|
 |-----|-------|--------|
 | SM1 |43°03′ | 70°27′ |
@@ -233,8 +213,6 @@ Small Mesh Area I
 |SM10 |42°55′ | 70°40′ |
 |SM11 |42°59′ | 70°32′ |
 | SM1 |43°03′ | 70°27′ |
-
-Small Mesh Area II
 
 |Point|N. lat. |W. long.|
 |-----|--------|--------|
@@ -256,8 +234,6 @@ Small Mesh Area II
 (D) The raised footrope trawl may be used with or without a chain sweep. If used without a chain sweep, the drop chains must be a maximum of3/8-inch (0.95-cm) diameter bare chain and must be hung from the center of the footrope and each corner (the quarter, or the junction of the bottom wing to the belly at the footrope). Drop chains must be hung at intervals of 8 ft (2.4 m) along the footrope from the corners to the wing ends. If used with a chain sweep, the sweep must be rigged so it is behind and below the footrope, and the footrope is off the bottom. This is accomplished by having the sweep longer than the footrope and having long drop chains attaching the sweep to the footrope at regular intervals. The forward end of the sweep and footrope must be connected to the bottom leg at the same point. This attachment, in conjunction with the headrope flotation, keeps the footrope off the bottom. The sweep and its rigging, including drop chains, must be made entirely of bare chain with a maximum diameter of5/16 inches (0.8 cm). No wrapping or cookies are allowed on the drop chains or sweep. The total length of the sweep must be at least 7 ft (2.1 m) longer than the total length of the footrope, or 3.5 ft (1.1 m) longer on each side. Drop chains must connect the footrope to the sweep chain, and the length of each drop chain must be at least 42 inches (106.7 cm). One drop chain must be hung from the center of the footrope to the center of the sweep, and one drop chain must be hung from each corner. The attachment points of each drop chain on the sweep and the footrope must be the same distance from the center drop chain attachments. Drop chains must be hung at intervals of 8 ft (2.4 m) from the corners toward the wing ends. The distance of the drop chain that is nearest the wing end to the end of the footrope may differ from net to net. However, the sweep must be at least 3.5 ft (1.1m) longer than the footrope between the drop chain closest to the wing ends and the end of the sweep that attaches to the wing end.
 
 (10) *Nantucket Shoals Dogfish Fishery Exemption Area.* Vessels subject to the minimum mesh size restrictions specified in paragraph (a)(3) or paragraph (a)(4) of this section may fish with, use, or possess nets of mesh smaller than the minimum size specified in the Nantucket Shoals Dogfish Fishery Exemption Area, if the vessel complies with the requirements specified in paragraph (a)(10)(i) of this section. The Nantucket Shoals Dogfish Fishery Exemption Area (copies of a map depicting this area are available from the Regional Administrator upon request) is defined by straight lines connecting the following points in the order stated:
-
-Nantucket Shoals Dogfish Exemption Area
 
 |Point|N. lat. |W. long.|
 |-----|--------|--------|
@@ -289,19 +265,22 @@ Nantucket Shoals Dogfish Exemption Area
 
 (13) *GOM/GB Dogfish and Monkfish Gillnet Fishery Exemption Area.* Unless otherwise prohibited in § 648.81, § 648.370, or § 648.371, a vessel may fish with gillnets in the GOM/GB Dogfish and Monkfish Gillnet Fishery Exemption Area when not under a NE multispecies DAS if the vessel complies with the requirements specified in paragraph (a)(13)(i) of this section. The GOM/GB Dogfish and Monkfish Gillnet Fishery Exemption Area is defined by straight lines connecting the following points in the order stated:
 
-|    N lat.    |W long.|
-|--------------|-------|
-|    41°35′    |70°00′ |
-|   42°49.5′   |70°00′ |
-|   42°49.5′   |69°40′ |
-|    43°12′    |69°00′ |
-|(<sup>1</sup>)|69°00′ |
-
-<sup>1</sup> Due north to Maine shoreline.
+|                  N lat.                  |W long.|
+|------------------------------------------|-------|
+|                  41°35′                  |70°00′ |
+|                 42°49.5′                 |70°00′ |
+|                 42°49.5′                 |69°40′ |
+|                  43°12′                  |69°00′ |
+|              (<sup>1</sup>)              |69°00′ |
+|<sup>1</sup> Due north to Maine shoreline.|       |
 
 (i) *Requirements.* (A) A vessel fishing under this exemption may not fish for, possess on board, or land any species of fish other than monkfish, or lobsters in an amount not to exceed 10 percent by weight of the total catch on board, or 200 lobsters, whichever is less.
 
-(B) All gillnets must have a minimum mesh size of 10-inch (25.4-cm) diamond mesh throughout the net.
+(B) The minimum mesh size for gillnets are as follows:
+
+(*1*) Through April 30, 2026, all gillnets must have a minimum mesh size of 10-inch (25.4-cm) diamond mesh throughout the net.
+
+(*2*) Starting May 1, 2026, all gillnets must have a minimum mesh size of 12-inch (30.5-cm) diamond mesh throughout the net.
 
 (C) Fishing is confined to July 1 through September 14.
 
@@ -319,10 +298,6 @@ Nantucket Shoals Dogfish Exemption Area
 
 (15) *Raised Footrope Trawl Exempted Whiting Fishery.* Unless otherwise prohibited in § 648.370 or § 648.371, vessels subject to the minimum mesh size restrictions specified in paragraphs (a)(3) or (4) of this section may fish with, use, or possess nets in the Raised Footrope Trawl Whiting Fishery area with a mesh size smaller than the minimum size specified, if the vessel complies with the requirements specified in paragraph (a)(15)(i) of this section. This exemption does not apply to the Cashes Ledge Closure Areas or the Western GOM Area Closure specified in § 648.81(a)(3) and (4), respectively. The Raised Footrope Trawl Whiting Fishery Area (copies of a chart depicting the area are available from the Regional Administrator upon request) is defined by straight lines connecting the following points in the order stated:
 
-Raised Footrope Trawl Whiting Fishery Exemption Area
-
-[September 1 through November 20]
-
 |Point| N lat.  | W long. |
 |-----|---------|---------|
 |RF 1 |42°14.05′|70°08.8′ |
@@ -339,10 +314,6 @@ Raised Footrope Trawl Whiting Fishery Exemption Area
 |RF 12| 42°00′  |70°24.1′ |
 |RF 13|42°07.85′|70°30.1′ |
 |RF 1 |42°14.05′|70°08.8′ |
-
-Raised Footrope Trawl Whiting Fishery Exemption Area
-
-[November 21 through December 31]
 
 |Point| N lat.  | W long. |
 |-----|---------|---------|
@@ -375,10 +346,6 @@ Raised Footrope Trawl Whiting Fishery Exemption Area
 
 (16) *GOM Grate Raised Footrope Trawl Exempted Whiting Fishery.* Unless otherwise prohibited in § 648.370 or § 648.371, vessels subject to the minimum mesh size restrictions specified in paragraphs (a)(3) or (4) of this section may fish with, use, and possess in the GOM Grate Raised Footrope Trawl Whiting Fishery area from July 1 through November 30 of each year, nets with a mesh size smaller than the minimum size specified, if the vessel complies with the requirements specified in paragraphs (a)(16)(i) and (ii) of this section. The GOM Grate Raised Footrope Trawl Whiting Fishery Area (copies of a chart depicting the area are available from the Regional Administrator upon request) is defined by straight lines connecting the following points in the order stated:
 
-GOM Grate Raised Footrope Trawl Whiting Fishery Exemption Area
-
-[July 1 through November 30]
-
 |Point| N lat. |W long. |
 |-----|--------|--------|
 |GRF1 | 43°15′ |70°35.4′|
@@ -407,35 +374,29 @@ GOM Grate Raised Footrope Trawl Whiting Fishery Exemption Area
 
 (i) Bounded on the east by the U.S.-Canada maritime boundary, defined by straight lines connecting the following points in the order stated:
 
-Gulf of Maine Georges Bank Exemption Area
-
-|Point|   N. lat.    |   W. long.   |
-|-----|--------------|--------------|
-| G1  |(<sup>1</sup>)|(<sup>1</sup>)|
-| G2  |    43°58′    |    67°22′    |
-| G3  |   42°53.1′   |   67°44.4′   |
-| G4  |    42°31′    |   67°28.1′   |
-| G5  |   41°18.6′   |   66°24.8′   |
-
-<sup>1</sup>The intersection of the shoreline and the U.S.-Canada Maritime Boundary
+|                                       Point                                        |   N. lat.    |   W. long.   |
+|------------------------------------------------------------------------------------|--------------|--------------|
+|                                         G1                                         |(<sup>1</sup>)|(<sup>1</sup>)|
+|                                         G2                                         |    43°58′    |    67°22′    |
+|                                         G3                                         |   42°53.1′   |   67°44.4′   |
+|                                         G4                                         |    42°31′    |   67°28.1′   |
+|                                         G5                                         |   41°18.6′   |   66°24.8′   |
+|<sup>1</sup> The intersection of the shoreline and the U.S.-Canada Maritime Boundary|              |              |
 
 (ii) Bounded on the south by straight lines connecting the following points in the order stated:
 
-Gulf of Maine/Georges Bank Exemption Area
-
-|Point| N. latitude  |W. longitude|
-|-----|--------------|------------|
-| G6  |   40°55.5′   |   66°38′   |
-| G7  |    40°45′    |   68°00′   |
-| G8  |    40°37′    |   68°00′   |
-| G9  |    40°30′    |   69°00′   |
-| NL3 |   40°22.7′   |   69°00′   |
-| NL2 |   40°18.7′   |   69°40′   |
-| NL1 |    40°50′    |   69°40′   |
-| G11 |    40°50′    |   70°00′   |
-| G12 |(<sup>1</sup>)|   70°00′   |
-
-<sup>1</sup>Northward to its intersection with the shoreline of mainland Massachusetts.
+|                                         Point                                          | N. latitude  |W. longitude|
+|----------------------------------------------------------------------------------------|--------------|------------|
+|                                           G6                                           |   40°55.5′   |   66°38′   |
+|                                           G7                                           |    40°45′    |   68°00′   |
+|                                           G8                                           |    40°37′    |   68°00′   |
+|                                           G9                                           |    40°30′    |   69°00′   |
+|                                          NL3                                           |   40°22.7′   |   69°00′   |
+|                                          NL2                                           |   40°18.7′   |   69°40′   |
+|                                          NL1                                           |    40°50′    |   69°40′   |
+|                                          G11                                           |    40°50′    |   70°00′   |
+|                                          G12                                           |(<sup>1</sup>)|   70°00′   |
+|<sup>1</sup> Northward to its intersection with the shoreline of mainland Massachusetts.|              |            |
 
 (18) [Reserved]
 
@@ -443,28 +404,24 @@ Gulf of Maine/Georges Bank Exemption Area
 
 (i) *Eastern area definition.* The Eastern Cape Cod Spiny Dogfish Exemption Area is defined by the straight lines connecting the following points in the order stated (copies of a chart depicting the area are available from the Regional Administrator upon request): Eastern Cape Cod Spiny Dogfish Exemption Area [June 1 through December 31, unless otherwise specified in paragraph (a)(19)(i)(A) of this section]
 
-|Point | N. latitude  | W. longitude |
-|------|--------------|--------------|
-|CCD 1 |    42/00′    |    70/00′    |
-|CCD 2 |    42/00′    |   69/47.5′   |
-|CCD 3 |    41/40′    |   69/47.5′   |
-|CCD 4 |   41/29.5′   |   69/35.5′   |
-|CCD 5 |   41/29.5′   |    69/23′    |
-|CCD 6 |    41/26′    |    69/20′    |
-|CCD 7 |    41/20′    |    69/20′    |
-|CCD 8 |    41/20′    |(<sup>1</sup>)|
-|CCD 9 |(<sup>2</sup>)|    70/00′    |
-|CCD 10|(<sup>3</sup>)|    70/00′    |
-|CCD 11|(<sup>4</sup>)|    70/00′    |
-|CCD 1 |    42/00′    |    70/00′    |
-
-<sup>1</sup> The eastern coastline of Nantucket, MA at 41°20′ N. lat.
-
-<sup>2</sup> The northern coastline of Nantucket, MA at 70°00′ W. long.
-
-<sup>3</sup> The southern coastline of Cape Cod, MA at 70°00′ W. long., then along the eastern coastline of Cape Cod, MA to Point—11
-
-<sup>4</sup> The northern coastline of Cape Cod, MA, at 70°00′ W. long.
+|                                                               Point                                                                | N. latitude  | W. longitude |
+|------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|
+|                                                               CCD 1                                                                |    42/00′    |    70/00′    |
+|                                                               CCD 2                                                                |    42/00′    |   69/47.5′   |
+|                                                               CCD 3                                                                |    41/40′    |   69/47.5′   |
+|                                                               CCD 4                                                                |   41/29.5′   |   69/35.5′   |
+|                                                               CCD 5                                                                |   41/29.5′   |    69/23′    |
+|                                                               CCD 6                                                                |    41/26′    |    69/20′    |
+|                                                               CCD 7                                                                |    41/20′    |    69/20′    |
+|                                                               CCD 8                                                                |    41/20′    |(<sup>1</sup>)|
+|                                                               CCD 9                                                                |(<sup>2</sup>)|    70/00′    |
+|                                                               CCD 10                                                               |(<sup>3</sup>)|    70/00′    |
+|                                                               CCD 11                                                               |(<sup>4</sup>)|    70/00′    |
+|                                                               CCD 1                                                                |    42/00′    |    70/00′    |
+|                               <sup>1</sup> The eastern coastline of Nantucket, MA at 41°20′ N. lat.                                |              |              |
+|                              <sup>2</sup> The northern coastline of Nantucket, MA at 70°00′ W. long.                               |              |              |
+|<sup>3</sup> The southern coastline of Cape Cod, MA at 70°00′ W. long., then along the eastern coastline of Cape Cod, MA to Point—11|              |              |
+|                              <sup>4</sup> The northern coastline of Cape Cod, MA, at 70°00′ W. long.                               |              |              |
 
 (A) *Requirements.* (*1*) A vessel fishing in the Eastern Cape Cod Spiny Dogfish Exemption Area specified in this paragraph (a)(19) may not fish for, possess on board, or land any NE regulated species in accordance with the requirements of paragraph (a)(19) of this section.
 
@@ -582,22 +539,19 @@ Gulf of Maine/Georges Bank Exemption Area
 
 (i) Bounded on the east by straight lines connecting the following points in the order stated:
 
-Southern New England Exemption Area
-
-|Point|N. lat. |     W. long.     |
-|-----|--------|------------------|
-| G5  |41°18.6′|     66°24.8′     |
-| G6  |40°55.5′|      66°38′      |
-| G7  |40°45.5′|      68°00′      |
-| G8  | 40°37′ |      68°00′      |
-| G9  |40°30.5′|      69°00′      |
-| NL3 |40°22.7′|      69°00′      |
-| NL2 |40°18.7′|      69°40′      |
-| NL1 | 40°50′ |      69°40′      |
-| G11 | 40°50′ |      70°00′      |
-| G12 |        |70°00′<sup>1</sup>|
-
-<sup>1</sup> Northward to its intersection with the shoreline of mainland Massachusetts.
+|                                         Point                                          |N. lat. |     W. long.      |
+|----------------------------------------------------------------------------------------|--------|-------------------|
+|                                           G5                                           |41°18.6′|     66°24.8′      |
+|                                           G6                                           |40°55.5′|      66°38′       |
+|                                           G7                                           |40°45.5′|      68°00′       |
+|                                           G8                                           | 40°37′ |      68°00′       |
+|                                           G9                                           |40°30.5′|      69°00′       |
+|                                          NL3                                           |40°22.7′|      69°00′       |
+|                                          NL2                                           |40°18.7′|      69°40′       |
+|                                          NL1                                           | 40°50′ |      69°40′       |
+|                                          G11                                           | 40°50′ |      70°00′       |
+|                                          G12                                           |        |70°00′ <sup>1</sup>|
+|<sup>1</sup> Northward to its intersection with the shoreline of mainland Massachusetts.|        |                   |
 
 (ii) Bounded on the west by a line running from the Rhode Island shoreline at 41°18.2′ N. lat. and 71°51.5′ W. long. (Watch Hill, RI), southwesterly through Fishers Island, NY, to Race Point, Fishers Island, NY; and from Race Point, Fishers Island, NY; southeasterly to the intersection of the 3-nautical mile line east of Montauk Point; southwesterly along the 3-nautical mile line to the intersection of 72°30′ W. long.; and south along that line to the intersection of the outer boundary of the EEZ.
 
@@ -606,10 +560,6 @@ Southern New England Exemption Area
 (12) *SNE Skate Bait Trawl Exemption Area.* Vessels issued an open access skate permit and a skate bait Letter of Authorization as specified in § 648.322(c) that have declared out of the DAS program as specified in § 648.10, or that have used up their DAS allocations, may fish in the SNE Skate Bait Trawl Exemption Area as defined under paragraph (b)(12)(i) of this section, when not under a NE multispecies or scallop DAS, provided the vessel complies with the requirements specified in paragraph (b)(1)(ii) of this section.
 
 (i) *Area definition.* The SNE Skate Bait Trawl Exemption Area is defined by the straight lines connecting the following points in the order stated (copies of a chart depicting the area are available from the Regional Administrator upon request):
-
-SNE Skate Bait Trawl Exemption Area
-
-[July 1 through October 31]
 
 |Point|    N. lat.    |W. long.|
 |-----|---------------|--------|
@@ -738,27 +688,21 @@ SNE Skate Bait Trawl Exemption Area
 
 (3) *Scallop dredge exemption areas for general category scallop permits*—(i) *GOM Scallop Dredge Exemption Area.* Unless otherwise prohibited in § 648.81, § 648.370, or § 648.371, vessels with a limited access scallop permit that have declared out of the DAS program as specified in § 648.10, or that have used up their DAS allocations, and vessels issued a General Category scallop permit, may fish in the GOM Regulated Mesh Area specified in paragraph (a)(1) of this section, when not under a NE multispecies DAS, providing the vessel fishes in the GOM Scallop Dredge Exemption Area and complies with the requirements specified in paragraph (h)(3)(iii) of this section. The GOM Scallop Dredge Fishery Exemption Area is bounded on the west and north by the coastlines of Massachusetts, New Hampshire, and Maine, bounded on the east by the U.S.-Canada Maritime Boundary, and bounded on the south by straight lines connecting the following points in the order stated:
 
-GOM Scallop Dredge Exemption Area
-
-|Point| N lat. |   W long.    |
-|-----|--------|--------------|
-|GOM1 | 43°58′ |(<sup>1</sup>)|
-|GOM2 | 43°58′ |    67°22′    |
-|GOM3 | 43°41′ |    68°00′    |
-|GOM4 | 43°12′ |    69°00′    |
-|GOM5 |42°49.5′|    69°40′    |
-|GOM6 | 42°20′ |    69°40′    |
-|GOM7 | 42°20′ |(<sup>2</sup>)|
-
-<sup>1</sup> The intersection of 43°58′ N lat. and the U.S.-Canada Maritime boundary.
-
-<sup>2</sup> The intersection of 42°20′ N lat. and the coastline of Massachusetts.
+|                                        Point                                        | N lat. |   W long.    |
+|-------------------------------------------------------------------------------------|--------|--------------|
+|                                        GOM1                                         | 43°58′ |(<sup>1</sup>)|
+|                                        GOM2                                         | 43°58′ |    67°22′    |
+|                                        GOM3                                         | 43°41′ |    68°00′    |
+|                                        GOM4                                         | 43°12′ |    69°00′    |
+|                                        GOM5                                         |42°49.5′|    69°40′    |
+|                                        GOM6                                         | 42°20′ |    69°40′    |
+|                                        GOM7                                         | 42°20′ |(<sup>2</sup>)|
+|<sup>1</sup> The intersection of 43°58′ N lat. and the U.S.-Canada Maritime boundary.|        |              |
+| <sup>2</sup> The intersection of 42°20′ N lat. and the coastline of Massachusetts.  |        |              |
 
 (ii) *Georges Bank/Southern New England Scallop Dredge Exemption Area.* Unless otherwise prohibited in § 648.81, § 648.370, or § 648.371, vessels issued a LAGC scallop permit, including limited access scallop permits that have used up their DAS allocations, may fish in the Georges Bank/Southern New England Scallop Dredge Exemption Area, as defined under paragraph (h)(3)(ii)(A) of this section, when not under a NE multispecies or scallop DAS or on a sector trip, provided the vessel complies with the requirements specified in paragraph (h)(3)(iii) of this section and applicable scallop regulations in subpart D of this part.
 
 (A) *Area definition.* The Georges Bank/Southern New England dredge exemption area is bounded on the north by 42°20′ N lat.; bounded on the east by the U.S.-Canada Maritime boundary and the outer limit of the US EEZ; bounded on the west by 72°30′ W long. from the outer limit of the US EEZ to the south-facing coastline of Long Island; and bounded on the northwest by the following points, connected as noted in the order listed:
-
-GB/SNE Scallop Dredge Exemption Area
 
 |Point|                 N lat.                  |                         W long.                         |                                                                     Note                                                                     |
 |-----|-----------------------------------------|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
