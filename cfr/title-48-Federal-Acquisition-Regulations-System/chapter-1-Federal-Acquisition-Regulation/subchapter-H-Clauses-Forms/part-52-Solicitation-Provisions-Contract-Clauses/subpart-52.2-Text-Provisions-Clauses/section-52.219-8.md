@@ -2,21 +2,29 @@
 
 As prescribed in 19.708(a), insert the following clause:
 
-Utilization of Small Business Concerns (SEP 2023)
+Utilization of Small Business Concerns (FEB 2024)
 
 (a) *Definitions.* As used in this contract—
 
 *HUBZone small business concern* means a small business concern that meets the requirements described in 13 CFR 126.200, certified by the Small Business Administration (SBA) and designated by SBA as a HUBZone small business concern in the Dynamic Small Business Search (DSBS) and SAM.
 
-*Service-disabled veteran-owned small business concern*—
+*Service-disabled veteran-owned small business (SDVOSB) concern* means a small business concern—
 
-(1) Means a small business concern—
+(1)(i) Not less than 51 percent of which is owned and controlled by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
 
-(i) Not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
+(ii) The management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a service-disabled veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran; or
 
-(ii) The management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a service-disabled veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran.
+(2) A small business concern eligible under the SDVOSB Program in accordance with 13 CFR part 128 (see subpart 19.14).
 
-(2) Service-disabled veteran means a veteran, as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16).
+(3) *Service-disabled veteran,* as used in this definition, means a veteran, as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16), and who is registered in the Beneficiary Identification and Records Locator Subsystem, or successor system that is maintained by the Department of Veterans Affairs' Veterans Benefits Administration, as a service-disabled veteran.
+
+*Service*-*disabled veteran-owned small business (SDVOSB) concern eligible under the SDVOSB Program* means an SDVOSB concern that—
+
+(1) Effective January 1, 2024, is designated in the System for Award Management (SAM) as certified by the Small Business Administration (SBA) in accordance with 13 CFR 128.300; or
+
+(2) Has represented that it is an SDVOSB concern in SAM and submitted a complete application for certification to SBA on or before December 31, 2023.
+
+*Service-disabled veteran-owned small business (SDVOSB) Program* means a program that authorizes contracting officers to limit competition, including award on a sole-source basis, to SDVOSB concerns eligible under the SDVOSB Program.
 
 *Small business concern* means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation and qualified as a small business under the criteria and size standards in 13 CFR part 121, including the size standard that corresponds to the NAICS code assigned to the contract or subcontract.
 
@@ -32,7 +40,7 @@ Utilization of Small Business Concerns (SEP 2023)
 
 *Veteran-owned small business concern* means a small business concern—
 
-(1) Not less than 51 percent of which is owned by one or more veterans (as defined at 38 U.S.C. 101(2)) or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
+(1) Not less than 51 percent of which is owned and controlled by one or more veterans (as defined at 38 U.S.C. 101(2)) or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
 
 (2) The management and daily business operations of which are controlled by one or more veterans.
 
@@ -48,13 +56,9 @@ Utilization of Small Business Concerns (SEP 2023)
 
 (i) Each party to the joint venture qualifies as small under the size standard for the solicitation; or
 
-(ii) The protégé is small under the size standard for the solicitation in a joint venture comprised of a mentor and protégé with an approved mentor-protégé agreement under a SBA mentor-protégé program.
+(ii) The protégé is small under the size standard for the solicitation in a joint venture comprised of a mentor and protégé with an approved mentor-protégé agreement under a SBA mentor-protégé program. (See 13 CFR 125.9(d).)
 
-(2) A joint venture qualifies as—
-
-(i) A service-disabled veteran-owned small business concern if it complies with the requirements in 13 CFR part 125; or
-
-(ii) A HUBZone small business concern if it complies with the requirements in 13 CFR 126.616(a) through (c).
+(2) A joint venture qualifies as a HUBZone small business concern if it complies with the requirements in 13 CFR 126.616(a) through (c).
 
 (d) The Contractor hereby agrees to carry out this policy in the awarding of subcontracts to the fullest extent consistent with efficient contract performance. The Contractor further agrees to cooperate in any studies or surveys as may be conducted by the United States Small Business Administration or the awarding agency of the United States as may be necessary to determine the extent of the Contractor's compliance with this clause.
 
@@ -72,4 +76,4 @@ Utilization of Small Business Concerns (SEP 2023)
 
 (5) The Contractor shall confirm that a subcontractor representing itself as a HUBZone small business concern is certified by SBA as a HUBZone small business concern by accessing SAM or by accessing DSBS at *https://web.sba.gov/pro-net/search/dsp\_dsbs.cfm.* If the subcontractor is a joint venture, the Contractor shall confirm that at least one party to the joint venture is certified by SBA as a HUBZone small business concern. The Contractor may confirm the representation by accessing SAM.
 
-(End of clause)[63 FR 70275, Dec. 18, 1998]Editorial Note:For Federal Register citations affecting § 52.219-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(End of clause)[63 FR 70275, Dec. 18, 1998]Editorial Note:For Federal Register citations affecting section 52.219-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

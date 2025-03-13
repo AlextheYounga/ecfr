@@ -1,5 +1,7 @@
 ##### § 993.51 Inspection and certification. #####
 
+Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
+
 Each handler shall at his own expense, before or upon the receiving, and before the shipping or disposing of prunes, cause an inspection to be made of such prunes to determine whether they meet the applicable grade and size requirements or the pack specifications, including labeling, effective pursuant to this part. Such handler shall obtain a certificate that such prunes meet the aforementioned applicable requirements and shall submit such certificate, or cause it to be submitted, to the committee. Acceptable certificates shall be those issued by inspectors of the Dried Fruit Association of California. The Secretary may designate another inspection service in the event the services of the Association prove unsatisfactory.
 
 Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.51 was suspended indefinitely.

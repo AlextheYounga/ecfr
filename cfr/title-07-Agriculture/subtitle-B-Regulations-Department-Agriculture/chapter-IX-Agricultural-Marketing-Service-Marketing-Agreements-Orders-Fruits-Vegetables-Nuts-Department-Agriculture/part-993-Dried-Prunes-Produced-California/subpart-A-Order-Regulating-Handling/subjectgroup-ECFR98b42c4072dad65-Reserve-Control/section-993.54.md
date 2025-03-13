@@ -1,5 +1,7 @@
 ##### § 993.54 Establishment of salable and reserve percentages. #####
 
+Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
+
 Whenever the Secretary finds, from the recommendations and supporting information supplied by the committee, or from any other available information, that to establish the percentages of prunes for any crop year which shall be salable prunes and reserve prunes, respectively, or to modify the previously established percentages, would tend to effectuate the declared policy of the act, he shall establish or modify such percentages. The salable and reserve percentages when applied to the natural condition weight of prunes, excluding the quantity of undersized prunes determined pursuant to § 993.49(c), received during the crop year by a handler from producers and dehydrators, plus that diverted tonnage (dried weight natural condition prune basis) on diversion certificates issued pursuant to § 993.62 and credited to or held by him, shall determine the weight of each handler's receipts which are salable prunes and reserve prunes. The total of the salable and reserve percentages shall equal 100 percent. A cooperative marketing association may concentrate the prunes of its producer members before applying the salable and reserve percentages.
 
 [30 FR 9799, Aug. 6, 1965, as amended at 37 FR 862, Jan. 20, 1972]Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.54 was suspended indefinitely.

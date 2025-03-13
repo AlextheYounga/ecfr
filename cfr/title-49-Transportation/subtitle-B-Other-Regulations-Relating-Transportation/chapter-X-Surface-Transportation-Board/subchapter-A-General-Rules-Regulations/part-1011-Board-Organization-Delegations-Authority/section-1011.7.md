@@ -1,7 +1,5 @@
 ##### § 1011.7 Delegations of authority by the Board to specific offices of the Board. #####
 
-Link to an amendment published at 89 FR 4578, Jan. 24, 2024.
-
 (a) *Office of Proceedings.* (1) The Director of the Office of Proceedings is delegated the authority to determine (in consultation with involved Offices) whether to waive filing fees set forth at 49 CFR 1002.2(f).
 
 (2) In addition to the authority delegated at 49 CFR 1011.6(c)(3), (d), (g), and (h), the Director of the Office of Proceedings shall have authority initially to determine the following:
@@ -64,6 +62,8 @@ Link to an amendment published at 89 FR 4578, Jan. 24, 2024.
 
 (xix) To order arbitration of program-eligible matters under the Board's regulations at 49 CFR part 1108, subpart A, or upon the mutual request of parties to a proceeding before the Board.
 
+(xx) To delegate to Board staff any necessary parties for purposes of accelerated emergency service proceedings at § 1146.2 of this chapter.
+
 (b) *Office of Public Assistance, Governmental Affairs, and Compliance.* The Office of Public Assistance, Governmental Affairs, and Compliance is delegated the authority to:
 
 (1) Reject tariffs and railroad transportation contract summaries filed with the Board that violate applicable statutes, rules, or regulations. Any rejection of a tariff or contract summary may be by letter signed by or for the Director, Office of Public Assistance, Governmental Affairs, and Compliance.
@@ -80,4 +80,4 @@ Link to an amendment published at 89 FR 4578, Jan. 24, 2024.
 
 (7) Perform any arbitration duties specifically assigned to the Office of Public Assistance, Governmental Affairs, and Compliance or its Director in 49 CFR part 1108, subpart B.
 
-[75 FR 30711, June 2, 2010, as amended at 78 FR 29079, May 17, 2013; 81 FR 8851, Feb. 23, 2016; 83 FR 15077, Apr. 9, 2018; 88 FR 729, Jan. 4, 2023]
+[75 FR 30711, June 2, 2010, as amended at 78 FR 29079, May 17, 2013; 81 FR 8851, Feb. 23, 2016; 83 FR 15077, Apr. 9, 2018; 88 FR 729, Jan. 4, 2023; 89 FR 4578, Jan. 24, 2024]

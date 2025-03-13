@@ -1,5 +1,7 @@
 ##### § 993.149 Receiving of prunes by handlers. #####
 
+Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
+
 (a) *Receiving stations*—(1) *General.* Prunes shall be received by a handler at any receiving station so designated by the Committee. *Receiving station* shall mean any plant of a handler or a dehydrator's premises; this term shall also mean any other place where prunes are normally and usually received by a handler in any considerable volume as ranch deliveries, and at which there are adequate facilities to enable the inspection service to determine whether the prunes meet the applicable grade, size, and condition requirements.
 
 (2) *Receiving at dehydrator.* Any handler may arrange with the committee and the inspection service for the incoming inspection and certification to be based on samples of prunes drawn as prune plums and dehydrated in the same manner as the prunes to which they are referable. Where such arrangement is acceptable to the Committee as permitting the inspection and certification of the prunes to be comparable to an inspection and certification when based on samples drawn as prunes, such certification shall be acceptable for the purposes of this section if the inspector further certifies that the dehydration process of the prunes being certified resulted in prunes eligible to be received under the terms and conditions of this part.

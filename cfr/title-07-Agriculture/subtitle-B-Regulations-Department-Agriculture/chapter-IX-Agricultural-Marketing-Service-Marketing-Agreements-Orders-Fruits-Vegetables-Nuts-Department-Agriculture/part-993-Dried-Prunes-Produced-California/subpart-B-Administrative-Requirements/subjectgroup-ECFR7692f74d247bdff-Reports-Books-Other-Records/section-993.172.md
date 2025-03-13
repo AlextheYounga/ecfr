@@ -1,5 +1,7 @@
 ##### § 993.172 Reports of holdings, receipts, uses, and shipments. #####
 
+Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
+
 (a) *Holdings as of March 31.* Each handler shall, on or before the 15th day of April, file with the committee a signed report of holdings of prunes which have not been inspected or received by him as a handler as of March 31. The report shall show for such prunes the name and address of the producer or dehydrator, the date of each identification tag assigned to such prunes, the numbers and dates of door receipts or weight certificates or any other identifying documents assigned to such prunes, the net weight shown on each, the total net weight of all prunes so held, and the name and address of the handler making the report.
 
 (b) *Receipts by handlers.* Each handler shall file with the committee, for each month, not later than the 5th working day of the next succeeding month, a signed report on Form PMC 11.1, “New Crop Supply and Inbound Prune Report”, containing at least the following information: (1) The date, the name and address of the handler, and the period covered by the report; and (2) the total tonnage received during the month from each of (i) producers and dehydrators, (ii) other handlers, including interhandler transfers, and (iii) sources other than producers, dehydrators and other handlers.

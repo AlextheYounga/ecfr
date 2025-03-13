@@ -1,7 +1,5 @@
 ##### § 532.285 Special wage schedules for supervisors of negotiated rate Bureau of Reclamation employees. #####
 
-Link to an amendment published at 89 FR 4541, Jan. 24, 2024.
-
 (a) The Department of the Interior shall establish and issue special wage schedules for wage supervisors of negotiated rate wage employees in the Bureau of Reclamation. These schedules shall be based on annual special wage surveys conducted by the Bureau of Reclamation in each special wage area. Survey jobs representing Bureau of Reclamation positions at up to four levels will be matched to private industry jobs in each special wage area. Special schedule rates for each position will be based on prevailing rates for that particular job in private industry.
 
 (b) Each supervisory job shall be described at one of four levels corresponding to the four supervisory situations described in Factor I and four levels of Subfactor IIIA of the FWS Job Grading Standard for Supervisors. They shall be titled in accordance with regular FWS practices, with the added designation of level I, II, III, or IV. The special survey and wage schedule for a given special wage area includes only those occupations and levels having employees in that area. For each position on the special schedule, there shall be three step rates. Step 2 is the prevailing rate as determined by the survey; step 1 is 96 percent of the prevailing rate; and step 3 is 104 percent of the prevailing rate.
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 4541, Jan. 24, 2024.
 
 (1) Based on Bureau of Reclamation activities and types of supervisory positions in the special wage area, the Bureau of Reclamation must survey private industry companies, with no minimum employment size requirement for establishments, in the following North American Industry Classification System code subsectors:
 
-|2017 NAICS codes|                 2017 NAICS industry titles                  |
+|2022 NAICS codes|                 2022 NAICS industry titles                  |
 |----------------|-------------------------------------------------------------|
 |      211       |                   Oil and gas extraction.                   |
 |      212       |                Mining (except oil and gas).                 |
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 4541, Jan. 24, 2024.
 |      484       |                    Truck transportation.                    |
 |      492       |                  Couriers and messengers.                   |
 |      493       |                  Warehousing and storage.                   |
-|      515       |               Broadcasting (except Internet).               |
+|      516       |             Broadcasting and content providers.             |
 |      517       |                     Telecommunications.                     |
 |      562       |         Waste management and remediation services.          |
 |      811       |                   Repair and maintenance.                   |
@@ -47,4 +45,4 @@ Special Wage Area of Application (Counties)*Arizona:* Yuma*Beginning month of su
 
 (3) The waiting period for within-grade increases shall begin on the employee's first day under the new special schedule.
 
-[60 FR 5310, Jan. 27, 1995, as amended at 69 FR 7105, Feb. 13, 2004; 71 FR 35375, June 20, 2006; 73 FR 45853, Aug. 7, 2008; 78 FR 58154, Sept. 23, 2013; 84 FR 36814, July 30, 2019]
+[60 FR 5310, Jan. 27, 1995, as amended at 69 FR 7105, Feb. 13, 2004; 71 FR 35375, June 20, 2006; 73 FR 45853, Aug. 7, 2008; 78 FR 58154, Sept. 23, 2013; 84 FR 36814, July 30, 2019; 89 FR 4541, Jan. 24, 2024]

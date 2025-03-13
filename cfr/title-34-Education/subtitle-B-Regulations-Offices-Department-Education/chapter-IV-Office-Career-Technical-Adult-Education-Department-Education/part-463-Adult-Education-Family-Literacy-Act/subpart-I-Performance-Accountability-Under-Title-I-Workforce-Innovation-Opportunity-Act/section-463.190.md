@@ -1,5 +1,7 @@
 ##### § 463.190 When are sanctions applied for failure to achieve adjusted levels of performance? #####
 
+Link to an amendment published at 89 FR 13849, Feb. 23, 2024.
+
 (a) States' negotiated levels of performance will be adjusted through the application of the statistical adjustment model established under § 463.170 to account for actual economic conditions experienced during a program year and characteristics of participants, annually at the close of each program year.
 
 (b) Any State that fails to meet adjusted levels of performance for the primary indicators of performance outlined in § 463.155 for any year will receive technical assistance, including assistance in the development of a performance improvement plan provided by the Secretary of Labor or Secretary of Education.

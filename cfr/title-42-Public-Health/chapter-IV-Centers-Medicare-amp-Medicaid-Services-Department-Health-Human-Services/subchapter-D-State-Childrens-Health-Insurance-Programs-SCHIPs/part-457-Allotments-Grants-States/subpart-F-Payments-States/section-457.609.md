@@ -1,5 +1,7 @@
 ##### § 457.609 Process and calculation of State allotments for a fiscal year after FY 2008. #####
 
+Link to an amendment published at 89 FR 13947, Feb. 23, 2024.
+
 (a) *General.* For each of the 50 States and the District of Columbia and for each Commonwealth and Territory with an approved State child health plan, the State allotments for FY 2009 through FY 2015 are determined by CMS as described in paragraphs (b) through (g) of this section. Unless otherwise indicated in this section, the reference to “State” refers to the 50 States and the District of Columbia and the Commonwealths and Territories (American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, and the Virgin Islands).
 
 (b) *Amounts available for allotment.* The total amounts available for allotment for each fiscal year are as follows:

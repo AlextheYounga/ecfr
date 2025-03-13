@@ -1,5 +1,7 @@
 ##### § 740.20 License Exception Strategic Trade Authorization (STA). #####
 
+Link to an amendment published at 89 FR 13592, Feb. 23, 2024.
+
 (a) *Introduction.* This section authorizes exports, reexports, and transfers (in-country), including releases within a single country of software source code and technology to foreign nationals, in lieu of a license that would otherwise be required pursuant to part 742 of the EAR.
 
 Note 1 to paragraph (a):

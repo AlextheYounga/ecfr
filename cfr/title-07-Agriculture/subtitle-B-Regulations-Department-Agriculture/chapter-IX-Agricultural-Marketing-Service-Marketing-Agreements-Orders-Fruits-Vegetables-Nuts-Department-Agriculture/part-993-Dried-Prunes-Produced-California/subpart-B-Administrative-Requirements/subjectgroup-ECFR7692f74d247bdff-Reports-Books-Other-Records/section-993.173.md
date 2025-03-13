@@ -1,5 +1,7 @@
 ##### § 993.173 Reports of accounting. #####
 
+Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
+
 (a) *Independent handler's reports of accounting.* Within 10 days (exclusive of Saturdays, Sundays, and legal holidays) after a handler, other than a non-profit cooperative agricultural marketing association, makes an accounting or settlement with a producer or dehydrator for prunes delivered to him, he shall submit to the committee a copy of the accounting or settlement record, which shall contain the following information:
 
 (1) The names and addresses of the producer or dehydrator, any other person having a financial interest in the prunes, and the handler;

@@ -1,4 +1,4 @@
-##### § 1614.407 Civil action: Title VII, Age Discrimination in Employment Act, Rehabilitation Act, and Genetic Information Nondiscrimination Act. #####
+##### § 1614.407 Civil action: Title VII, Age Discrimination in Employment Act, Rehabilitation Act, Genetic Information Nondiscrimination Act, and Pregnant Workers Fairness Act. #####
 
 A complainant who has filed an individual complaint, an agent who has filed a class complaint or a claimant who has filed a claim for individual relief pursuant to a class complaint is authorized under title VII, the ADEA, the Rehabilitation Act, Genetic Information Nondiscrimination Act, and the Pregnant Workers Fairness Act to file a civil action in an appropriate United States District Court:
 

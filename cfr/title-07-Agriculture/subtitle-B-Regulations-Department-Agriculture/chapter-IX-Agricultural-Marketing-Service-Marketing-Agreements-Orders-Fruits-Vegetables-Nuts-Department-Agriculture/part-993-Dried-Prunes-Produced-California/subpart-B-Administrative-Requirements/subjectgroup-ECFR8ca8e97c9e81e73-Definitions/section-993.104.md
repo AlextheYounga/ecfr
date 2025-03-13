@@ -1,5 +1,7 @@
 ##### § 993.104 Lot. #####
 
+Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
+
 (a) *Lot* for the purposes of §§ 993.49 and 993.149 means any quantity of prunes delivered by one producer or one dehydrator to a handler on which inspection is requested: *Provided,* That a lot shall be limited to (1) the prunes contained in not more than 30 “ton box” containers or (2), if in other containers, not more than 60,000 pounds of prunes. If the prunes in any containers are markedly inferior in quality and condition to other prunes in the proffered lot, the containers shall be segregated into lots of reasonable uniform quality.
 
 (b) *Lot* for the purposes of §§ 993.50 and 993.150 means:

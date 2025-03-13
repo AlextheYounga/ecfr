@@ -1,5 +1,7 @@
 ##### § 993.150 Disposition of prunes by handlers. #####
 
+Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
+
 (a) *Inspection stations.* An inspection station shall be any plant of a handler, and any other place where he handles prunes.
 
 (b) *Outgoing inspection.* Except as otherwise specifically provided, no handler shall ship or otherwise make final disposition of natural condition prunes or of processed prunes unless he has, prior to such shipment or final disposition, had them inspected and obtained a certificate showing that such prunes meet the effective minimum standards. Such inspection shall be made during that portion of the final preparation of the prunes for shipment or other final disposition as will permit proper sampling, whether in-line or floor inspection, and no handler shall perform such final preparation unless an inspector is present. The handler shall furnish promptly to the inspector a copy of the shipping or disposition order or other documents, which shall show the date of each shipment or disposition, the applicable reference number thereof, and an adequate description of the shipment or disposition. For the prunes inspected each day which meet the applicable minimum grade and size requirements for standard prunes, or standard processed prunes, the handler shall cause the inspector to issue in triplicate a signed certificate containing the following information:

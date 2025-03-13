@@ -1,15 +1,13 @@
 ##### § 117.209 Mianus River. #####
 
-Link to an amendment published at 89 FR 4551, Jan. 24, 2024.
+The draw of the Metro-North (Cos Cob) bridge, mile 1.0 at Greenwich, will operate as follows:
 
-The draw of the Metro-North bridge, mile 1.0 at Greenwich, shall operate as follows:
+(a) The draw will open on signal between 4:30 a.m. and 9 p.m. after at least a two-hour advance notice is given; except that, from 5:45 a.m. through 9:45 a.m. and from 4 p.m. through 8 p.m., Monday through Friday excluding holidays, the draw need not open for the passage of vessel traffic unless an emergency exists.
 
-(a) From 5 a.m. to 9 p.m.—
+(b) From 9 p.m. through 4:30 a.m. the draw will open on signal after at least a four-hour advance notice is given.
 
-(1) The draw shall open on signal immediately for the passage of commercial vessels and as soon as practicable but no later than 20 minutes after the signal to open for the passage of all other vessels.
+(c) A delay in opening the draw not to exceed 10 minutes may occur when a train scheduled to cross the bridge without stopping has entered the drawbridge lock.
 
-(2) When a train scheduled to cross the bridge without stopping has passed the Greenwich or Riverside stations and is in motion toward the bridge, the draw shall open as soon as the train has crossed the bridge.
+(d) Requests for bridge openings may be made by calling the bridge via marine radio VHF FM Channel 13 or the telephone number posted at the bridge.
 
-(b) The draw shall open on signal from April 1 through October 31, from 9 p.m. to 5 a.m., after at least a four-hour advance notice is given and from November 1 through March 30, from 9 p.m. to 5 a.m., after at least a twenty-four-hour advance notice is given by calling the number posted at the bridge.
-
-[CGD 82-025, 49 FR 43458, Oct. 29, 1984, as amended by GCD01-00-228, 69 FR 32447, June 10, 2004; CGD01-00-228, 70 FR 75939, Dec. 22, 2005]
+[USCG-2022-0520, 89 FR 4551, Jan. 24, 2024]

@@ -22,8 +22,8 @@
 
 (iii) A detailed justification as to why the restriction is being waived.
 
-(c) *Acquisitions under trade agreements.* (1) For construction contracts with an estimated acquisition value of $7,032,000 or more, also see subpart 25.4. Offers proposing the use of construction material from a designated country shall receive equal consideration with offers proposing the use of domestic construction material.
+(c) *Acquisitions under trade agreements.* (1) For construction contracts with an estimated acquisition value of $6,708,000 or more, also see subpart 25.4. Offers proposing the use of construction material from a designated country shall receive equal consideration with offers proposing the use of domestic construction material.
 
 (2) For purposes of applying section 1605 of the Recovery Act to evaluation of manufactured construction material, designated countries do not include the Caribbean Basin Countries.
 
-[75 FR 53166, Aug. 30, 2010, as amended at 77 FR 12934, Mar. 2, 2012; 78 FR 80380, Dec. 31, 2013; 79 FR 24209, Apr. 29, 2014; 80 FR 81896, Dec. 31, 2015; 83 FR 3398, Jan. 24, 2018; 85 FR 2618, Jan. 15, 2020; 86 FR 74530, Dec. 30, 2021]
+[75 FR 53166, Aug. 30, 2010, as amended at 77 FR 12934, Mar. 2, 2012; 78 FR 80380, Dec. 31, 2013; 79 FR 24209, Apr. 29, 2014; 80 FR 81896, Dec. 31, 2015; 83 FR 3398, Jan. 24, 2018; 85 FR 2618, Jan. 15, 2020; 86 FR 74530, Dec. 30, 2021; 89 FR 13963, Feb. 23, 2024]

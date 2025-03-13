@@ -1,5 +1,7 @@
 ##### § 447.294 Medicaid disproportionate share hospital (DSH) allotment reductions. #####
 
+Link to an amendment published at 89 FR 13945, Feb. 23, 2024.
+
 (a) *Basis and purpose.* This section sets forth the DSH health reform methodology (DHRM) for calculating State-specific annual DSH allotment reductions as required under section 1923(f) of the Act.
 
 (b) *Definitions.* For purposes of this section—

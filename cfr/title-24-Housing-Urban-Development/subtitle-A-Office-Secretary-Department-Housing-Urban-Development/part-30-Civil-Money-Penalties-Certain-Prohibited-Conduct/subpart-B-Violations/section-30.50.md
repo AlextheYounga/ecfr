@@ -1,5 +1,7 @@
 ##### § 30.50 GNMA issuers and custodians. #####
 
+Link to an amendment published at 89 FR 13616, Feb. 23, 2024.
+
 (a) *General.* The President of GNMA, or his or her designee, may initiate a civil money penalty action against a GNMA issuer or custodian that knowingly and materially violates any provision of 12 U.S.C. 1723i(b), title III of the National Housing Act, or any implementing regulation, handbook, guaranty agreement, or contractual agreement, or participant letter issued by GNMA, or fails to comply with the terms of a settlement agreement with GNMA.
 
 (b) *Continuing violation.* Each day that a violation continues shall constitute a separate violation.

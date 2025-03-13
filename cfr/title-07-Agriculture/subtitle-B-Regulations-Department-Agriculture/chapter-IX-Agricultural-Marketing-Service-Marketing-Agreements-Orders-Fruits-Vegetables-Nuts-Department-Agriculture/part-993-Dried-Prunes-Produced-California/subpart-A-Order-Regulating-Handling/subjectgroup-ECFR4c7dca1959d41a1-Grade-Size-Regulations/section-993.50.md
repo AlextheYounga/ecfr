@@ -1,5 +1,7 @@
 ##### § 993.50 Outgoing regulation. #####
 
+Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
+
 (a) Except as otherwise specifically provided, no handler shall ship or otherwise make final disposition of prunes which fail to meet the applicable minimum standards set forth in § 993.97 (Exhibit A), or as such standards may be modified, for standard prunes or standard processed prunes.
 
 (b) The Secretary, on the basis of a recommendation of the committee or other information, may establish size regulations, pack specifications, or more restrictive grade regulations with respect to prunes that may be shipped or otherwise disposed of by a handler if such action would tend to effectuate the declared policy of the act. If a more restrictive grade regulation is established in connection with § 993.97 (Exhibit A) it shall insofar as practicable apply comparably to both natural condition prunes and processed prunes. When pack specifications are in effect, no handler shall ship prunes in consumer packages, unless such prunes are identified by an appropriate label, seal, stamp, or tag affixed to such container by the handler showing the size of prunes in the lot from which the container was packed. In order to effectuate such orderly marketing of prunes as will be in the public interest, whether prices are above or below parity, no handler shall use descriptive terms in a manner inconsistent with that set forth in this subpart or in any pack specifications or other regulation issued by the Secretary pursuant to this subpart.

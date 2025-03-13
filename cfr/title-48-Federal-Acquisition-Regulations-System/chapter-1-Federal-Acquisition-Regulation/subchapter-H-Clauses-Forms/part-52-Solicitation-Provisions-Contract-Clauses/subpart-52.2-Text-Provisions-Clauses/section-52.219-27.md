@@ -1,39 +1,47 @@
-##### 52.219-27 Notice of Service-Disabled Veteran-Owned Small Business Set-Aside. #####
+##### 52.219-27 Notice of Set-Aside for, or Sole-Source Award to, Service-Disabled Veteran-Owned Small Business (SDVOSB) Concerns Eligible Under the SDVOSB Program. #####
 
 As prescribed in 19.1408, insert the following clause:
 
-Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (OCT 2022)
+Notice of Set-Aside for, or Sole-Source Award to, Service-Disabled Veteran-Owned Small Business (SDVOSB) Concerns Eligible Under the SDVOSB Program (FEB 2024)
 
-(a) *Definition. Service-disabled veteran-owned small business concern*—
+(a) *Definition. Service-disabled veteran-owned small business (SDVOSB) concern* means a small business concern—
 
-(1) Means a small business concern—
+(1)(i) Not less than 51 percent of which is owned and controlled by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
 
-(i) Not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
+(ii) The management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a service-disabled veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran; or
 
-(ii) The management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a service-disabled veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran.
+(2) A small business concern eligible under the SDVOSB Program in accordance with 13 CFR part 128 (see subpart 19.14).
 
-(2) *Service-disabled veteran* means a veteran, as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16).
+(3) *Service-disabled veteran,* as used in this definition, means a veteran as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16) and who is registered in the Beneficiary Identification and Records Locator Subsystem, or successor system that is maintained by the Department of Veterans Affairs' Veterans Benefits Administration, as a service-disabled veteran.
+
+*Service-disabled veteran-owned small business (SDVOSB) concern eligible under the SDVOSB Program* means an SDVOSB concern that—
+
+(1) Effective January 1, 2024, is designated in the System for Award Management (SAM) as certified by the Small Business Administration (SBA) in accordance with 13 CFR 128.300; or
+
+(2) Has represented that it is an SDVOSB concern in SAM and submitted a complete application for certification to SBA on or before December 31, 2023.
+
+*Service-disabled veteran-owned small business (SDVOSB)-Program* means a program that authorizes contracting officers to limit competition, including award on a sole-source basis, to SDVOSB concerns eligible under the SDVOSB Program.
 
 (b) *Applicability.* This clause applies only to—
 
-(1) Contracts that have been set aside for service-disabled veteran-owned small business concerns;
+(1) Contracts that have been set aside for, or awarded on a sole-source basis to, SDVOSB concerns eligible under the SDVOSB Program;
 
-(2) Part or parts of a multiple-award contract that have been set aside for service-disabled veteran-owned small business concerns;
+(2) Part or parts of a multiple-award contract that have been set aside for SDVOSB concerns eligible under the SDVOSB Program;
 
-(3) Orders set aside for service-disabled veteran-owned small business concerns under multiple-award contracts as described in 8.405-5 and 16.505(b)(2)(i)(F); and
+(3) Orders set aside for SDVOSB concerns eligible under the SDVOSB Program, under multiple-award contracts as described in 8.405-5 and 16.505(b)(2)(i)(F); and
 
-(4) Orders issued directly to service-disabled veteran-owned small business concerns under multiple-award contracts as described in 19.504(c)(1)(ii).
+(4) Orders issued directly to SDVOSB concerns eligible under the SDVOSB Program, under multiple-award contracts as described in 19.504(c)(1)(ii).
 
-(c) *General.* (1) Offers are solicited only from service-disabled veteran-owned small business concerns. Offers received from concerns that are not service-disabled veteran-owned small business concerns shall not be considered.
+(c) *General.* (1) Effective January 1, 2024, for SDVOSB set-aside or sole-source procurements, offers are solicited only from, and awards resulting from this solicitation will be made only to, concerns—
 
-(2) Any award resulting from this solicitation will be made to a service-disabled veteran-owned small business concern.
+(i) Designated in SAM as an SDVOSB concern certified by SBA; or
 
-(d) A joint venture may be considered a service-disabled veteran owned small business concern if—
+(ii) That have represented their status as an SDVOSB in SAM and submitted a complete application for certification to SBA on or before December 31, 2023.
 
-(1) At least one party to the joint venture complies with the criteria defined in paragraph (a) of this clause and 13 CFR 125.18(b)(2); and
+(2) Offers received from concerns that do not meet the criteria of paragraph (c)(1)(i) or (ii) of this clause, shall not be considered.
 
-(2) Each party to the joint venture is small under the size standard corresponding to the NAICS code assigned to the procurement, or the protégé is small under the size standard corresponding to the NAICS code assigned to the procurement in a joint venture comprised of a mentor and protégé with an approved mentor-protégé agreement under an SBA mentor-protégé program.
+(d) A joint venture may be considered an SDVOSB concern if the managing partner of the joint venture complies with the criteria defined in paragraph (a) of this clause and 13 CFR 128.402.
 
-(e) In a joint venture that complies with paragraph (f) of this clause, the service-disabled veteran-owned small business party or parties to the joint venture shall perform at least 40 percent of the work performed by the joint venture. Work performed by the service-disabled veteran-owned small business party or parties to the joint venture must be more than administrative functions.
+(e) In a joint venture that complies with paragraph (d) of this clause, the SDVOSB party or parties to the joint venture shall perform at least 40 percent of the work performed by the joint venture. Work performed by the SDVOSB party or parties to the joint venture must be more than administrative functions.
 
-(End of clause)[69 FR 25279, May 5, 2004, as amended at 76 FR 68037, Nov. 2, 2011; 84 FR 47864, Sept. 10, 2019; 85 FR 11771, Feb. 27, 2020; 86 FR 44245, Aug. 11, 2021; 87 FR 58227, Sept. 23, 2022]
+(End of clause)[89 FR 13960, Feb. 23, 2024]

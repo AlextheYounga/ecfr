@@ -1,5 +1,7 @@
 ##### § 684.460 What performance indicators are applicable to the supplemental youth services program? #####
 
+Link to an amendment published at 89 FR 13613, Feb. 23, 2024.
+
 (a) Pursuant to WIOA secs. 166(e)(5) and 166(h), the performance indicators at WIOA sec. 116(b)(2)(A)(ii) apply to the INA youth program, which must include:
 
 (1) The percentage of program participants who are in education or training activities, or in unsubsidized employment, during the second quarter after exit from the program;

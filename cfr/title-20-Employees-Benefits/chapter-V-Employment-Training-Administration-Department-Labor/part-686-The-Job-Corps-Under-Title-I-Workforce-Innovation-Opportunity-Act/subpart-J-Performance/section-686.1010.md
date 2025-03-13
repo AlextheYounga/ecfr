@@ -1,5 +1,7 @@
 ##### § 686.1010 What are the primary indicators of performance for Job Corps centers and the Job Corps program? #####
 
+Link to an amendment published at 89 FR 13613, Feb. 23, 2024.
+
 The primary indicators of performance for eligible youth are described in sec. 116(b)(2)(A)(ii) of WIOA. They are:
 
 (a) The percentage of program participants who are in education or training activities, or in unsubsidized employment, during the second quarter after exit from the program;

@@ -29,7 +29,7 @@ Management of the office is the responsibility of an officer or employee of the 
 
 (9) Cooperates and consults on a regular basis with the SBA in carrying out the agency's functions and duties in sections 8, 15, 31, 36, and 44 of the Small Business Act;
 
-(10) Makes recommendations in accordance with agency procedures as to whether a particular acquisition should be awarded under subpart 19.5 as a small business set-aside, under subpart 19.8 as a section 8(a) award, under subpart 19.13 as a HUBZone set-aside, under subpart 19.14 as a service-disabled veteran-owned small business set-aside, or under subpart 19.15 as a set-aside for economically disadvantaged women-owned small business (EDWOSB) concerns or women-owned small business (WOSB) concerns eligible under the WOSB Program;
+(10) Makes recommendations in accordance with agency procedures as to whether a particular acquisition should be awarded under subpart 19.5 as a small business set-aside, under subpart 19.8 as a section 8(a) award, under subpart 19.13 as a HUBZone set-aside, under subpart 19.14 as a set-aside for service-disabled veteran-owned small business (SDVOSB) concerns eligible under the SDVOSB Program, or under subpart 19.15 as a set-aside for economically disadvantaged women-owned small business (EDWOSB) concerns or women-owned small business (WOSB) concerns eligible under the WOSB Program;
 
 (11) Conducts annual reviews to assess the—
 

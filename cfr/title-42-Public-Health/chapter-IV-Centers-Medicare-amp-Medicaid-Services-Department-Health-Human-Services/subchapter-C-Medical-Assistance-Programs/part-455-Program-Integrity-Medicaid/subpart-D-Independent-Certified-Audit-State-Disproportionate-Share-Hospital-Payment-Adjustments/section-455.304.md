@@ -1,5 +1,7 @@
 ##### § 455.304 Condition for Federal financial participation (FFP). #####
 
+Link to an amendment published at 89 FR 13947, Feb. 23, 2024.
+
 (a) *General rule.* (1) The State must submit an independent certified audit to CMS for each completed Medicaid State plan rate year, consistent with the requirements in this subpart, to receive Federal payments under Section 1903(a)(1) of the Act based on State expenditures for disproportionate share hospital (DSH) payments for Medicaid State plan rate years subsequent to the date the audit is due, except as provided in paragraph (e) of this section.
 
 (2) FFP is not available in expenditures for DSH payments that are found in the independent certified audit to exceed the hospital-specific eligible uncompensated care cost limit, except as provided in paragraph (e) of this section.

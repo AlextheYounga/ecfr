@@ -2,21 +2,29 @@
 
 As prescribed in 19.309(a)(1), insert the following provision:
 
-Small Business Program Representations (SEP 2023)
+Small Business Program Representations (FEB 2024)
 
 (a) *Definitions.* As used in this provision—
 
 *Economically disadvantaged women-owned small business (EDWOSB) concern* means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States and who are economically disadvantaged in accordance with 13 CFR part 127, and the concern is certified by SBA or an approved third-party certifier in accordance with 13 CFR 127.300. It automatically qualifies as a women-owned small business concern eligible under the WOSB Program.
 
-*Service-disabled veteran-owned small business concern*—
+*Service-disabled veteran-owned small business (SDVOSB) concern* means a small business concern—
 
-(1) Means a small business concern—
+(1)(i) Not less than 51 percent of which is owned and controlled by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
 
-(i) Not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
+(ii) The management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a service-disabled veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran or;
 
-(ii) The management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a service-disabled veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran.
+(2) A small business concern eligible under the SDVOSB Program in accordance with 13 CFR part 128 (see subpart 19.14).
 
-(2) *Service-disabled veteran* means a veteran, as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16).
+(3) *Service-disabled veteran,* as used in this definition, means a veteran as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16), and who is registered in the Beneficiary Identification and Records Locator Subsystem, or successor system that is maintained by the Department of Veterans Affairs' Veterans Benefits Administration, as a service-disabled veteran.
+
+*Service*-*disabled veteran-owned small business (SDVOSB) concern eligible under the SDVOSB Program* means an SDVOSB concern that—
+
+(1) Effective January 1, 2024, is designated in the System for Award Management (SAM) as certified by the Small Business Administration (SBA) in accordance with 13 CFR 128.300; or
+
+(2) Has represented that it is an SDVOSB concern in SAM and submitted a complete application for certification to SBA on or before December 31, 2023.
+
+*Service-disabled veteran-owned small business (SDVOSB) Program* means a program that authorizes contracting officers to limit competition, including award on a sole-source basis, to SDVOSB concerns eligible under the SDVOSB Program.
 
 *Small business concern*—(1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation, and qualified as a small business under the criteria in 13 CFR part 121 and the size standard in paragraph (b) of this provision.
 
@@ -72,15 +80,13 @@ Small Business Program Representations (SEP 2023)
 
 (5) *Economically disadvantaged women-owned small business (EDWOSB) joint venture.* The offeror represents as part of its offer that it □ is, □ is not a joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:* \_\_.]
 
-(6) [*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*] The offeror represents as part of its offer that it □ is, □ is not a veteran-owned small business concern.
+(6) *Veteran-owned small business concern.* [*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*] The offeror represents as part of its offer that it □ is, □ is not a veteran-owned small business concern.
 
-(7) [*Complete only if the offeror represented itself as a veteran-owned small business concern in paragraph (c)(6) of this provision.*] The offeror represents as part of its offer that—
+(7) *SDVOSB concern.* [*Complete only if the offeror represented itself as a veteran-owned small business concern in paragraph (c)(6) of this provision.*] The offeror represents as part of its offer that it □ is, □ is not an SDVOSB concern.
 
-(i) It □ is, □ is not a service-disabled veteran-owned small business concern; or
+(8) *SDVOSB joint venture eligible under the SDVOSB Program.* [*Complete only if the offeror represented itself as a SDVOSB concern in paragraph (c)(7) of this provision*]. The offeror represents as part of its offer that it *□* is, *□* is not a SDVOSB joint venture eligible under the SDVOSB Program that complies with the requirements of 13 CFR 128.402. [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_.
 
-(ii) It □ is, □ is not a service-disabled veteran-owned joint venture that complies with the requirements of 13 CFR 125.18(b)(1) and (2). [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_.] Each service-disabled veteran-owned small business concern participating in the joint venture shall provide representation of its service-disabled veteran-owned small business concern status.
-
-(8) [*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*] The offeror represents, as part of its offer, that—
+(9) *HUBZone small business concern.* [*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*] The offeror represents, as part of its offer, that—
 
 (i) It □ is, □ is not a HUBZone small business concern listed, on the date of this representation, as having been certified by SBA as a HUBZone small business concern in the Dynamic Small Business Search and SAM, and will attempt to maintain an employment rate of HUBZone residents of 35 percent of its employees during performance of a HUBZone contract (see 13 CFR 126.200(e)(1)); and
 
@@ -96,9 +102,9 @@ Small Business Program Representations (SEP 2023)
 
 (End of provision)
 
-*Alternate I* (SEP 2015). As prescribed in 19.309(a)(2), add the following paragraph (c)(9) to the basic provision:
+*Alternate I* (FEB 2024). As prescribed in 19.309(a)(2), add the following paragraph (c)(10) to the basic provision:
 
-(c)(9) [*Complete if offeror represented itself as disadvantaged in paragraph (c)(2) of this provision.* The offeror shall check the category in which its ownership falls:
+(c)(10) [*Complete if offeror represented itself as disadvantaged in paragraph (c)(2) of this provision.* The offeror shall check the category in which its ownership falls:
 
 \_\_ Black American.
 

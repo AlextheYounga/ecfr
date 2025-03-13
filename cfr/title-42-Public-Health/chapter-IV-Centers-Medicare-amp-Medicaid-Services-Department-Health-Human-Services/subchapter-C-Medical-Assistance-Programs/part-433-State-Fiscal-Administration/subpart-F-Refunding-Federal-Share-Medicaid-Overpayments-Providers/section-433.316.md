@@ -1,5 +1,7 @@
 ##### § 433.316 When discovery of overpayment occurs and its significance. #####
 
+Link to an amendment published at 89 FR 13945, Feb. 23, 2024.
+
 (a) *General rule.* The date on which an overpayment is discovered is the beginning date of the 1-year period allowed for a State to recover or seek to recover an overpayment before a refund of the Federal share of an overpayment must be made to CMS.
 
 (b) *Requirements for notification.* Unless a State official or fiscal agent of the State chooses to initiate a formal recoupment action against a provider without first giving written notification of its intent, a State Medicaid agency official or other State official must notify the provider in writing of any overpayment it discovers in accordance with State agency policies and procedures and must take reasonable actions to attempt to recover the overpayment in accordance with State law and procedures.

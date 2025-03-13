@@ -1,7 +1,5 @@
 ##### § 532.287 Special wage schedules for nonappropriated fund automotive mechanics. #####
 
-Link to an amendment published at 89 FR 4541, Jan. 24, 2024.Link to a correction published at 89 FR 8065, Feb. 6, 2024.
-
 (a) The Department of Defense (DOD) will establish a flat rate pay system for nonappropriated fund (NAF) automotive mechanics. This flat rate pay system will take into account local prevailing rates, the mechanic's skill level, and the standard number of hours required to complete a particular job.
 
 (b) DOD will issue special wage schedules for NAF automotive mechanics who are covered by the flat rate pay system. These special schedules will provide rates of pay for nonsupervisory, leader, and supervisory employees. These special schedule positions will be identified by pay plan codes XW (nonsupervisory), XY (leader), and XZ (supervisory), grades 8-10, and will use the Federal Wage System occupational code 5823.
@@ -16,10 +14,9 @@ Link to an amendment published at 89 FR 4541, Jan. 24, 2024.Link to a correction
 
 (4) In addition to all standard North American Industry Classification System (NAICS) codes currently used on the regular surveys, the industries surveyed will include—
 
-|2012 NAICS Codes|         2012 NAICS Industry titles         |
+|2022 NAICS Codes|         2022 NAICS Industry titles         |
 |----------------|--------------------------------------------|
 |     441110     |              New car dealers.              |
-|     441310     |   Automotive parts and accessory stores.   |
 |     811111     |         General automotive repair.         |
 |     811191     |Automotive oil change and lubrication shops.|
 
@@ -29,4 +26,4 @@ Link to an amendment published at 89 FR 4541, Jan. 24, 2024.Link to a correction
 
 (d) New employees will be hired at step 1 of the position under the flat rate pay system. Current employees will be moved to these special wage schedules on a step-by-step basis. Pay retention will apply to any employee whose rate of basic pay would otherwise be reduced as a result of placement in these new special schedules.
 
-[79 FR 22765, Apr. 24, 2014]
+[79 FR 22765, Apr. 24, 2014, as amended at 89 FR 4541, Jan. 24, 2024; 89 FR 8065, Feb. 6, 2024]

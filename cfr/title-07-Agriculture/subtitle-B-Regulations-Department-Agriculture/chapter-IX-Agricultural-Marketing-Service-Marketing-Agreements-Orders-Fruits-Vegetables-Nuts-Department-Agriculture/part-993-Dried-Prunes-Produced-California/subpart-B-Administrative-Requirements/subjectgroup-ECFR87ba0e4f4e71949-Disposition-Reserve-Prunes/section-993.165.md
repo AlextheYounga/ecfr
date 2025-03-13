@@ -1,5 +1,7 @@
 ##### § 993.165 Disposition of reserve prunes. #####
 
+Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
+
 (a) *General.* For purposes of § 993.65(a)(2), normal outlets for salable prunes (herein referred to as “normal outlets”) and outlets noncompetitive with normal outlets for salable prunes (herein referred to as “noncompetitive outlets”) are defined in paragraphs (b) and (c) of this section.
 
 (b) *Normal outlets. Normal outlets* means all outlets not specifically set forth in paragraph (c) of this section as noncompetitive outlets.

@@ -1,5 +1,7 @@
 ##### § 447.297 Limitations on aggregate payments for disproportionate share hospitals beginning October 1, 1992. #####
 
+Link to an amendment published at 89 FR 13946, Feb. 23, 2024.
+
 (a) *Applicability.* The provisions of this section apply to the 50 States and the District of Columbia, but not to any State whose entire Medicaid program is operated under a waiver granted under section 1115 of the Act.
 
 (b) *National payment target.* The national payment target for disproportionate share hospital (DSH) payments for any Federal fiscal year is equal to 12 percent of the total medical assistance expenditures that will be made during the Federal fiscal year under State plans, excluding administrative costs. A preliminary national expenditure target will be published by CMS prior to October 1 of each year. This preliminary national expenditure target will be superseded by a final national expenditure target published by April 1 of each Federal fiscal year, as specified in paragraph (d) of this section.

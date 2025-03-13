@@ -64,7 +64,7 @@
 
 (3) If SBA does not issue its determination within 15 business days, or within any extension of time granted, the contracting officer may award the contract after determining in writing that there is an immediate need to award the contract and that waiting until SBA makes its determination will be disadvantageous to the Government. This determination shall be provided to the SBA Director for Government Contracting and a copy shall be included in the contract file.
 
-(i) *After SBA decision.* SBA will notify the contracting officer, the protester, and the protested concern of its determination. The determination is effective immediately and is final unless overturned on appeal by SBA's Office of Hearings and Appeals (OHA) pursuant to 13 CFR part 134.
+(i) *After SBA decision.* SBA will notify the contracting officer, the protester, and the protested concern of its determination. The determination is effective immediately and is final unless overturned on appeal by OHA pursuant to 13 CFR part 134.
 
 (1) If the contracting officer has withheld contract award and SBA has denied or dismissed the protest, the contracting officer may award the contract to the protested concern. If OHA subsequently overturns the SBA Director for Government Contracting's determination or dismissal, the contracting officer may apply the OHA decision to the procurement in question.
 
@@ -108,4 +108,4 @@
 
 (m) OHA will make its decision within 15 business days of the receipt of the appeal, if practicable. SBA will provide a copy of the decision to the contracting officer, the protester, and the protested EDWOSB concern or WOSB concern eligible under the WOSB program. The OHA decision is the final agency decision and is binding on the parties.
 
-[79 FR 43587, July 25, 2014, as amended at 80 FR 81891, Dec. 31, 2015; 83 FR 48697, Sept. 26, 2018; 87 FR 58240, Sept. 23, 2022; 88 FR 9737, Feb. 14, 2023]
+[79 FR 43587, July 25, 2014, as amended at 80 FR 81891, Dec. 31, 2015; 83 FR 48697, Sept. 26, 2018; 87 FR 58240, Sept. 23, 2022; 88 FR 9737, Feb. 14, 2023; 89 FR 13957, Feb. 23, 2024]

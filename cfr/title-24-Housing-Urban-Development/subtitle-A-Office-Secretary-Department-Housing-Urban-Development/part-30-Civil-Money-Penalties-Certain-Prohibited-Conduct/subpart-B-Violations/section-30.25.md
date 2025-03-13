@@ -1,5 +1,7 @@
 ##### § 30.25 Violations by applicants for assistance. #####
 
+Link to an amendment published at 89 FR 13616, Feb. 23, 2024.
+
 (a) *General.* The General Counsel, or his or her designee, may initiate a civil money penalty action against applicants for assistance, as defined in 24 CFR part 4, subpart A, who knowingly and materially violate the provisions of subsections (b) or (c) of section 102 of the HUD Reform Act of 1989 (42 U.S.C. 3545).
 
 (b) *Maximum penalty.* The maximum penalty is $23,727 for each violation.

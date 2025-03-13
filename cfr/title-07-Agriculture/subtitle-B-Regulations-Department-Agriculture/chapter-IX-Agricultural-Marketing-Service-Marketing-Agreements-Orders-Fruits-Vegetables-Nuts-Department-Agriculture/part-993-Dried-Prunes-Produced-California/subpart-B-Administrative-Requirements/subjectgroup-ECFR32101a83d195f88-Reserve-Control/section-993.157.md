@@ -1,5 +1,7 @@
 ##### § 993.157 Holding and delivery of reserve prunes. #####
 
+Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
+
 (a) *Sales and deliveries.* Committee sales and deliveries of reserve prunes from the holdings of any handler shall not exceed the quantity of reserve prunes required to be held by him. The reserve prune holding requirement of the handler shall be reduced by the tonnage so sold or delivered.
 
 (b) *Assistance to handlers.* As assistance to handlers, the committee shall furnish each handler a monthly tabulation, beginning as soon as possible after the start of the crop year, showing his reserve obligation and holding requirement based on records on file with the committee.

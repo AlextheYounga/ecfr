@@ -1,5 +1,7 @@
 ##### § 993.400 Modifications. #####
 
+Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
+
 Pursuant to the authority in § 993.52, the provisions in § 993.49(c) prescribing size openings for undersized prune regulations are hereby modified to permit larger size openings. For French prunes, any undersized regulation may prescribe an opening of23/32 of an inch or24/32 of an inch; for non-French prunes, any undersized regulation may prescribe an opening of28/32 of an inch or30/32 of an inch.
 
 [40 FR 42531, Sept. 15, 1975]Effective Date Note:At 70 FR 30613, May 27, 2005, § 993.400 was suspended indefinitely.

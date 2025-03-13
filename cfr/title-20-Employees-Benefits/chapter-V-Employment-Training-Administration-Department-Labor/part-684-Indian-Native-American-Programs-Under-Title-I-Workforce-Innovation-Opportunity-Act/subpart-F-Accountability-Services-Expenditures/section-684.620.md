@@ -1,5 +1,7 @@
 ##### § 684.620 What performance indicators are in place for the Indian and Native American program? #####
 
+Link to an amendment published at 89 FR 13613, Feb. 23, 2024.
+
 (a) Pursuant to WIOA secs. 166(e)(5) and 166(h), the performance indicators at WIOA sec. 116(b)(2)(A)(i) apply to the INA program which must include:
 
 (1) The percentage of program participants who are in unsubsidized employment during the second quarter after exit from the program;

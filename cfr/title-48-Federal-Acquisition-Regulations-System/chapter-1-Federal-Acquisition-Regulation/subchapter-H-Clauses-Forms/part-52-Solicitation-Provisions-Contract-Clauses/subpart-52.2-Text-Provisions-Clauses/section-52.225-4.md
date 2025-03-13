@@ -48,25 +48,24 @@ Line Item No. \_\_\_\_\_\_
 
 *Israeli End Products*
 
-|            |   |   |
-|------------|---|---|
 |Line Item No|   |   |
+|------------|---|---|
 |            |   |   |
 |            |   |   |
 |            |   |   |
 
 [List as necessary]
 
-*Alternate III* (NOV 2023). As prescribed in 25.1101(b)(2)(iii), substitute the following paragraph (b) for paragraph (b) of the basic provision:
+*Alternate III* (FEB 2024). As prescribed in 25.1101(b)(2)(iii), substitute the following paragraph (b) for paragraph (b) of the basic provision:
 
-(b) The Offeror certifies that the following supplies are Free Trade Agreement country end products (other than Bahraini, Korean, Moroccan, Omani, Panamanian, or Peruvian end products) or Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act”:
+(b) The Offeror certifies that the following supplies are Korean end products or Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act”:
 
-Free Trade Agreement Country End Products (Other than Bahraini, Korean, Moroccan, Omani, Panamanian, or Peruvian End Products) or Israeli End Products:
+Korean End Products or Israeli End Products:
 
-|Line item No.|Country of origin|
+|Line Item No.|Country of origin|
 |-------------|-----------------|
 |             |                 |
 |             |                 |
 |             |                 |
 
-[List as necessary][64 FR 72435, Dec. 27, 1999; 65 FR 4633, Jan. 31, 2000]Editorial Note:For Federal Register citations affecting § 52.225-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[List as necessary][64 FR 72435, Dec. 27, 1999; 65 FR 4633, Jan. 31, 2000]Editorial Note:For Federal Register citations affecting section 52.225-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

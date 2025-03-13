@@ -1,5 +1,7 @@
 ##### § 361.155 What are the primary indicators of performance under the Workforce Innovation and Opportunity Act? #####
 
+Link to an amendment published at 89 FR 13848, Feb. 23, 2024.
+
 (a) All States submitting either a Unified or Combined State Plan under §§ 361.130 and 361.143, must propose expected levels of performance for each of the primary indicators of performance for the adult, dislocated worker, and youth programs authorized under WIOA title I; the AEFLA program authorized under WIOA title II; the Employment Service program authorized under the Wagner-Peyser Act, as amended by WIOA title III; and the VR program authorized under title I of the Rehabilitation Act of 1973, as amended by WIOA title IV.
 
 (1) *Primary indicators of performance.* The six primary indicators of performance for the adult and dislocated worker programs, the AEFLA program, and the VR program are:

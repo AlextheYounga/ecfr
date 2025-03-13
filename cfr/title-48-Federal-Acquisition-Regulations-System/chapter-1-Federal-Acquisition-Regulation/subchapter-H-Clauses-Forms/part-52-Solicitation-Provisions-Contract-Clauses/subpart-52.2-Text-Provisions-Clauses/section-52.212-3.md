@@ -2,7 +2,7 @@
 
 As prescribed in 12.301(b)(2), insert the following provision:
 
-Offeror Representations and Certifications—Commercial Products and Commercial Services (NOV 2023)
+Offeror Representations and Certifications—Commercial Products and Commercial Services (FEB 2024)
 
 The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through *https://www.sam.gov.* If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v) of this provision.
 
@@ -76,15 +76,23 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 (2) Does not include information or informational materials the export of which the President does not have the authority to regulate or prohibit pursuant to section 203(b)(3) of the International Emergency Economic Powers Act (50 U.S.C. 1702(b)(3)).
 
-*Service-disabled veteran-owned small business concern*—
+*Service-disabled veteran-owned small business (SDVOSB)**concern* means a small business concern—
 
-(1) Means a small business concern—
+(1)(i) Not less than 51 percent of which is owned and controlled by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
 
-(i) Not less than 51 percent of which is owned by one or more service—disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
+(ii) The management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a service-disabled veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran; or
 
-(ii) The management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a service-disabled veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran.
+(2) A small business concern eligible under the SDVOSB Program in accordance with 13 CFR part 128 (see subpart 19.14).
 
-(2) *Service-disabled veteran* means a veteran, as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16).
+(3) *Service-disabled veteran,* as used in this definition, means a veteran as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16), and who is registered in the Beneficiary Identification and Records Locator Subsystem, or successor system that is maintained by the Department of Veterans Affairs' Veterans Benefits Administration, as a service-disabled veteran.
+
+*Service-disabled veteran-owned small business (SDVOSB) concern eligible under the SDVOSB Program* means an SDVOSB concern that—
+
+(1) Effective January 1, 2024, is designated in the System for Award Management (SAM) as certified by the Small Business Administration (SBA) in accordance with 13 CFR 128.300; or
+
+(2) Has represented that it is an SDVOSB concern in SAM and submitted a complete application for certification to SBA on or before December 31, 2023.
+
+*Service-disabled veteran-owned small business (SDVOSB) Program* means a program that authorizes contracting officers to limit competition, including award on a sole-source basis, to SDVOSB concerns eligible under the SDVOSB Program.
 
 *Small business concern*—(1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation, and qualified as a small business under the criteria in 13 CFR part 121 and size standards in this solicitation.
 
@@ -110,7 +118,7 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 *Veteran-owned small business concern* means a small business concern—
 
-(1) Not less than 51 percent of which is owned by one or more veterans (as defined at 38 U.S.C. 101(2)) or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
+(1) Not less than 51 percent of which is owned by one or more veterans (as defined at 38 U.S.C. 101(2)) or, in the case of any publicly owned business, not less than 51 percent of which is owned and controlled by one or more veterans; and
 
 (2) The management and daily business operations of which are controlled by one or more veterans.
 
@@ -144,29 +152,27 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 (2) *Veteran-owned small business concern.* [*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*] The offeror represents as part of its offer that it □ is, □ is not a veteran-owned small business concern.
 
-(3) *Service-disabled veteran-owned small business concern.* [*Complete only if the offeror represented itself as a veteran-owned small business concern in paragraph (c)(2) of this provision.*] The offeror represents as part of its offer that—
+(3) *SDVOSB concern.* [*Complete only if the offeror represented itself as a veteran-owned small business concern in paragraph (c)(2) of this provision.*] The offeror represents that it *□* is, *□* is not an SDVOSB concern.
 
-(i) It □ is, □ is not a service-disabled veteran-owned small business concern; or
+(4) *SDVOSB concern joint venture eligible under the SDVOSB Program.* The offeror represents that it *□* is, *□* is not an SDVOSB joint venture eligible under the SDVOSB Program that complies with the requirements of 13 CFR 128.402. [*Complete only if the offeror represented itself as an SDVOSB concern in paragraph (c)(3) of this provision.*] [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_.]
 
-(ii) It □ is, □ is not a joint venture that complies with the requirements of 13 CFR 125.18(b)(1) and (2). [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:* \_\_.] Each service-disabled veteran-owned small business concern participating in the joint venture shall provide representation of its service-disabled veteran-owned small business concern status.
+(5) *Small disadvantaged business concern. [Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.]* The offeror represents that it □ is, □ is not a small disadvantaged business concern as defined in 13 CFR 124.1002.
 
-(4) *Small disadvantaged business concern. [Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.]* The offeror represents that it □ is, □ is not a small disadvantaged business concern as defined in 13 CFR 124.1002.
+(6) *Women-owned small business concern. [Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.]* The offeror represents that it □ is, □ is not a women-owned small business concern.
 
-(5) *Women-owned small business concern. [Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.]* The offeror represents that it □ is, □ is not a women-owned small business concern.
+(7) *WOSB joint venture eligible under the WOSB Program.* The offeror represents that it □ is, □ is not a joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_.]
 
-(6) *WOSB joint venture eligible under the WOSB Program.* The offeror represents that it □ is, □ is not a joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_.]
+(8) *Economically disadvantaged women-owned small business (EDWOSB) joint venture.* The offeror represents that it □ is, □ is not a joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_.]
 
-(7) *Economically disadvantaged women-owned small business (EDWOSB) joint venture.* The offeror represents that it □ is, □ is not a joint venture that complies with the requirements of 13 CFR 127.506(a) through (c). [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_.]
+Note to paragraphs (c)(9) and (10):
 
-Note to paragraphs (c)(8) and (9):
+Complete paragraphs (c)(9) and (10) only if this solicitation is expected to exceed the simplified acquisition threshold.
 
-Complete paragraphs (c)(8) and (9) only if this solicitation is expected to exceed the simplified acquisition threshold.
+(9) *Women-owned business concern (other than small business concern). [Complete only if the offeror is a women-owned business concern and did not represent itself as a small business concern in paragraph (c)(1) of this provision.]* The offeror represents that it □ is, a women-owned business concern.
 
-(8) *Women-owned business concern (other than small business concern). [Complete only if the offeror is a women-owned business concern and did not represent itself as a small business concern in paragraph (c)(1) of this provision.]* The offeror represents that it □ is, a women-owned business concern.
+(10) *Tie bid priority for labor surplus area concerns.* If this is an invitation for bid, small business offerors may identify the labor surplus areas in which costs to be incurred on account of manufacturing or production (by offeror or first-tier subcontractors) amount to more than 50 percent of the contract price:
 
-(9) *Tie bid priority for labor surplus area concerns.* If this is an invitation for bid, small business offerors may identify the labor surplus areas in which costs to be incurred on account of manufacturing or production (by offeror or first-tier subcontractors) amount to more than 50 percent of the contract price:
-
-(10) *HUBZone small business concern.* [*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*] The offeror represents, as part of its offer, that—
+(11) *HUBZone small business concern.* [*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*] The offeror represents, as part of its offer, that—
 
 (i) It □ is, □ is not a HUBZone small business concern listed, on the date of this representation, as having been certified by SBA as a HUBZone small business concern in the Dynamic Small Business Search and SAM, and will attempt to maintain an employment rate of HUBZone residents of 35 percent of its employees during performance of a HUBZone contract (see 13 CFR 126.200(e)(1)); and
 
@@ -269,13 +275,15 @@ Israeli End Products:
 
 [List as necessary]
 
-(3) *Buy American—Free Trade Agreements—Israeli Trade Act Certificate, Alternate III.* If Alternate III to the clause at FAR 52.225-3 is included in this solicitation, substitute the following paragraph (g)(1)(ii) for paragraph (g)(1)(ii) of the basic provision:
+(3) *Buy American-Free Trade Agreements-Israeli Trade Act Certificate, Alternate III.* If Alternate III to the clause at 52.225-3 is included in this solicitation, substitute the following paragraphs (g)(1)(i)(B) and (g)(1)(ii) for paragraphs (g)(1)(i)(B) and (g)(1)(ii) of the basic provision:
 
-(g)(1)(ii) The offeror certifies that the following supplies are Free Trade Agreement country end products (other than Bahraini, Korean, Moroccan, Omani, Panamanian, or Peruvian end products) or Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act”:
+(g)(1)(i)(B) The terms “Korean end product”, “commercially available off-the-shelf (COTS) item,” “critical component,” “domestic end product,” “end product,” “foreign end product,” “Free Trade Agreement country,” “Free Trade Agreement country end product,” “Israeli end product,” and “United States” are defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act.”
 
-Free Trade Agreement Country End Products (Other than Bahraini, Korean, Moroccan, Omani, Panamanian, or Peruvian End Products) or Israeli End Products:
+(g)(1)(ii) The Offeror certifies that the following supplies are Korean end products or Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act”:
 
-|Line item No.|Country of origin|
+Korean End Products or Israeli End Products:
+
+|Line Item No.|Country of origin|
 |-------------|-----------------|
 |             |                 |
 |             |                 |
@@ -525,9 +533,9 @@ Predecessor legal name: \_\_\_\_.
 
 (End of provision)
 
-*Alternate I* (OCT 2014). As prescribed in 12.301(b)(2), add the following paragraph (c)(11) to the basic provision:
+*Alternate I* (FEB 2024). As prescribed in 12.301(b)(2), add the following paragraph (c)(12) to the basic provision:
 
-(c)(11) (Complete if the offeror has represented itself as disadvantaged in paragraph (c)(4) of this provision.)
+(c)(12) (Complete if the offeror has represented itself as disadvantaged in paragraph (c)(5) of this provision.)
 
 \_\_ Black American.
 

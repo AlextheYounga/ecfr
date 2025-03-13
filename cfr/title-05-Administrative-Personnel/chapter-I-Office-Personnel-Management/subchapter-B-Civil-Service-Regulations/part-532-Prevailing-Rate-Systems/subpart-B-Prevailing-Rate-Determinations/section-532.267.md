@@ -1,7 +1,5 @@
 ##### § 532.267 Special wage schedules for aircraft, electronic, and optical instrument overhaul and repair positions in Puerto Rico. #####
 
-Link to an amendment published at 89 FR 4540, Jan. 24, 2024.
-
 (a) The Department of Defense shall conduct special industry surveys and establish special wage schedules for wage employees in Puerto Rico whose primary duties involve the performance of work related to aircraft, electronic equipment, and optical instrument overhaul and repair.
 
 (b) Except as provided in this section, regular appropriated fund wage survey and wage-setting procedures are applicable.
@@ -10,9 +8,9 @@ Link to an amendment published at 89 FR 4540, Jan. 24, 2024.
 
 (1) Surveys must, at a minimum, include the air transportation and electronics industries in the following North American Industry Classification System (NAICS) codes:
 
-|2017 NAICS codes|                                       2017 NAICS industry titles                                       |
+|2022 NAICS codes|                                       2022 NAICS industry titles                                       |
 |----------------|--------------------------------------------------------------------------------------------------------|
-|     333316     |                         Photographic and photocopying equipment manufacturing.                         |
+|     333310     |                        Commercial and service industry machinery manufacturing.                        |
 |      3341      |                            Computer and peripheral equipment manufacturing.                            |
 |     33422      |         Radio and television broadcasting and wireless communications equipment manufacturing.         |
 |     33429      |                             Other communications equipment manufacturing.                              |
@@ -23,7 +21,7 @@ Link to an amendment published at 89 FR 4540, Jan. 24, 2024.
 |     334419     |                               Other electronic component manufacturing.                                |
 |     334511     |Search, detection, navigation, guidance, aeronautical, and nautical system and instrument manufacturing.|
 |     334515     |         Instrument manufacturing for measuring and testing electricity and electrical signals.         |
-|     334613     |                       Blank magnetic and optical recording media manufacturing.                        |
+|     334610     |                       Manufacturing and reproducing magnetic and optical media.                        |
 |     42342      |                                 Office equipment merchant wholesalers.                                 |
 |     42343      |             Computer and computer peripheral equipment and software merchant wholesalers.              |
 |      4811      |                                     Scheduled air transportation.                                      |
@@ -61,4 +59,4 @@ Link to an amendment published at 89 FR 4540, Jan. 24, 2024.
 
 (h) Special wage schedules shall be effective on the same date as the regular wage schedules for the Puerto Rico wage area.
 
-[55 FR 46145, Nov. 1, 1990, as amended at 60 FR 62701, Dec. 7, 1995; 71 FR 35374, June 20, 2006; 73 FR 45853, Aug. 7, 2008; 78 FR 58154, Sept. 23, 2013; 84 FR 36814, July 30, 2019]
+[55 FR 46145, Nov. 1, 1990, as amended at 60 FR 62701, Dec. 7, 1995; 71 FR 35374, June 20, 2006; 73 FR 45853, Aug. 7, 2008; 78 FR 58154, Sept. 23, 2013; 84 FR 36814, July 30, 2019; 89 FR 4540, Jan. 24, 2024]

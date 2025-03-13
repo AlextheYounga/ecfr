@@ -1,5 +1,7 @@
 ##### § 87.400 Penalties. #####
 
+Link to an amendment published at 89 FR 13617, Feb. 23, 2024.
+
 (a) Any person who makes an expenditure prohibited herein shall be subject to a civil penalty of not less than $23,727 and not more than $237,268 for each such expenditure.
 
 (b) Any person who fails to file or amend the disclosure form (see appendix B to this part) to be filed or amended if required herein, shall be subject to a civil penalty of not less than $23,727 and not more than $237,268 for each such failure.

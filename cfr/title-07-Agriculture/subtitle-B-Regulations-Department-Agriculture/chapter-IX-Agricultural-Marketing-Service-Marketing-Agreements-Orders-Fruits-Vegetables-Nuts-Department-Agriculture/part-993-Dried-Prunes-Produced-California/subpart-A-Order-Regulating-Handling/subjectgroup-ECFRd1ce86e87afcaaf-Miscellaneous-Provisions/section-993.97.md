@@ -1,5 +1,7 @@
 ##### § 993.97 Exhibit A; minimum standards. #####
 
+Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
+
 I. Minimum standards for natural condition prunes:
 
 A. *Defects.* Defects are: (1) Off-color; (2) inferior meat condition; (3) end cracks; (4) fermentation; (5) skin or flesh damage; (6) scab; (7) burned; (8) mold; (9) imbedded dirt; (10) insect infestation; (11) decay.

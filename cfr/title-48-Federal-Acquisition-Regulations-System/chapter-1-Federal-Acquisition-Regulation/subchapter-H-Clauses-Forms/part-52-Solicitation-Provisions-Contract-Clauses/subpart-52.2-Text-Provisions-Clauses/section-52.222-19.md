@@ -2,15 +2,15 @@
 
 As prescribed in 22.1505(b), insert the following clause:
 
-Child Labor—Cooperation With Authorities and Remedies (NOV 2023)
+Child Labor—Cooperation With Authorities and Remedies (FEB 2024)
 
 (a) *Applicability.* This clause does not apply to the extent that the Contractor is supplying end products mined, produced, or manufactured in—
 
 (1) Israel, and the anticipated value of the acquisition is $50,000 or more;
 
-(2) Mexico, and the anticipated value of the acquisition is $92,319 or more; or
+(2) Mexico, and the anticipated value of the acquisition is $102,280 or more; or
 
-(3) Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Italy, Japan, Korea, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, North Macedonia, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or the United Kingdom and the anticipated value of the acquisition is $183,000 or more.
+(3) Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Italy, Japan, Korea, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, North Macedonia, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or the United Kingdom and the anticipated value of the acquisition is $174,000 or more.
 
 (b) *Cooperation with Authorities.* To enforce the laws prohibiting the manufacture or importation of products mined, produced, or manufactured by forced or indentured child labor, authorized officials may need to conduct investigations to determine whether forced or indentured child labor was used to mine, produce, or manufacture any product furnished under this contract. If the solicitation includes the provision 52.222-18, Certification Regarding Knowledge of Child Labor for Listed End Products, or the equivalent at 52.212-3(i), the Contractor agrees to cooperate fully with authorized officials of the contracting agency, the Department of the Treasury, or the Department of Justice by providing reasonable access to records, documents, persons, or premises upon reasonable request by the authorized officials.
 
@@ -30,4 +30,4 @@ Child Labor—Cooperation With Authorities and Remedies (NOV 2023)
 
 (3) The debarring official may debar the Contractor for a period not to exceed 3 years in accordance with the procedures in FAR Subpart 9.4.
 
-(End of clause)[66 FR 5349, Jan. 18, 2001]Editorial Note:For Federal Register citations affecting § 52.222-19, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(End of clause)[66 FR 5349, Jan. 18, 2001]Editorial Note:For Federal Register citations affecting section 52.222-19, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

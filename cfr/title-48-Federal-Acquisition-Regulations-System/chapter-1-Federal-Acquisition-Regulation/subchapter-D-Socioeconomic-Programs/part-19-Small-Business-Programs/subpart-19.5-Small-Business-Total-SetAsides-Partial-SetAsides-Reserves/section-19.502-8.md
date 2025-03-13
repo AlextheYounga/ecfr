@@ -2,7 +2,7 @@
 
 (a) If the contracting officer rejects a recommendation of the SBA, written notice shall be furnished to the appropriate SBA representative within 5 working days of the contracting officer's receipt of the recommendation.
 
-(b) The SBA PCR (or, if a PCR is not assigned, see 19.402(a)) may appeal the contracting officer's rejection to the head of the contracting activity within 2 working days after receiving the notice (except see 19.1305(d), 19.1405(d), and 19.1505(i)). The head of the contracting activity shall render a decision in writing, and provide it to the SBA representative within 7 working days. Pending issuance of a decision to the SBA representative, the contracting officer shall suspend action on the acquisition.
+(b) The SBA PCR (or, if a PCR is not assigned, see 19.402(a)) may appeal the contracting officer's rejection to the head of the contracting activity within 2 working days after receiving the notice (except see 19.1305(d), 19.1405(e), and 19.1505(i)). The head of the contracting activity shall render a decision in writing, and provide it to the SBA representative within 7 working days. Pending issuance of a decision to the SBA representative, the contracting officer shall suspend action on the acquisition.
 
 (c) If the head of the contracting activity agrees that the contracting officer's rejection was appropriate—
 
@@ -20,4 +20,4 @@
 
 (f) A request to suspend action on an acquisition need not be honored if the contracting officer determines that proceeding to contract award and performance is in the public interest. The contracting officer shall include in the contract file a statement of the facts justifying the determination, and shall promptly notify the SBA representative of the determination and provide a copy of the justification.
 
-[60 FR 48261, Sept. 18, 1995, as amended at 67 FR 13054, Mar. 20, 2002; 71 FR 36926, June 28, 2006. Redesignated and amended at 85 FR 11762, Feb. 27, 2020; 86 FR 44248, Aug. 11, 2021; 87 FR 58241, Sept. 23, 2022]
+[60 FR 48261, Sept. 18, 1995, as amended at 67 FR 13054, Mar. 20, 2002; 71 FR 36926, June 28, 2006. Redesignated and amended at 85 FR 11762, Feb. 27, 2020; 86 FR 44248, Aug. 11, 2021; 87 FR 58241, Sept. 23, 2022; 89 FR 13957, Feb. 23, 2024]

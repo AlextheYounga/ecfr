@@ -1,5 +1,7 @@
 ##### § 447.295 Hospital-specific disproportionate share hospital payment limit: Determination of individuals without health insurance or other third party coverage. #####
 
+Link to an amendment published at 89 FR 13945, Feb. 23, 2024.
+
 (a) *Basis and purpose.* This section sets forth the methodology for determining the costs for individuals who have no health insurance or other source of third party coverage for services furnished during the year for purposes of calculating the hospital-specific disproportionate share hospital payment limit under section 1923(g) of the Act.
 
 (b) *Definitions.*

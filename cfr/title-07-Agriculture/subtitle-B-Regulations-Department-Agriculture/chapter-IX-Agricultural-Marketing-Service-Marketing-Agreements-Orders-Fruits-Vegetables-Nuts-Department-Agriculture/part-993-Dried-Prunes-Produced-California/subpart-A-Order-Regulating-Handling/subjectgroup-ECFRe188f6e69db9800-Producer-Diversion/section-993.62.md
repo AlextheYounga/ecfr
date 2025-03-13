@@ -1,5 +1,7 @@
 ##### § 993.62 Diversion privileges. #####
 
+Link to an amendment published at 89 FR 13589, Feb. 23, 2024.
+
 (a) *Prune plums.* The words *prune plums* as used in this section mean plums of a variety used in the production of prunes.
 
 (b) *Voluntary principle.* No producer shall be required to divert all or any portion of the prune plums produced by him.

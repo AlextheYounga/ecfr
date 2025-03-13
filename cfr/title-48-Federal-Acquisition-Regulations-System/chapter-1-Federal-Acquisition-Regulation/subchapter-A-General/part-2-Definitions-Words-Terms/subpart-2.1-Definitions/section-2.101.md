@@ -1,16 +1,6 @@
 ##### 2.101 Definitions. #####
 
-(a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless—
-
-(1) The context in which the word or term is used clearly requires a different meaning; or
-
-(2) Another FAR part, subpart, or section provides a different definition for the particular part or portion of the part.
-
-(b) If a word or term that is defined in this section is defined differently in another part, subpart, or section of this regulation (48 CFR chapter 1), the definition in—
-
-(1) This section includes a cross-reference to the other definitions; and
-
-(2) That part, subpart, or section applies to the word or term when used in that part, subpart, or section.
+A word or a term, defined in this section, has the same meaning throughout this chapter (the Federal Acquisition Regulation (FAR)) unless the context in which the word or term is used clearly requires a different meaning or another FAR part, subpart, or section provides a different definition for the particular part or portion of the part. If a word or term that is defined in this section is defined differently in another part, subpart, or section of this chapter, the definition in this section includes a cross-reference to the other definitions and that part, subpart, or section applies to the word or term when used in that part, subpart, or section.
 
 *Acquisition* means the acquiring by contract with appropriated funds of supplies or services (including construction) by and for the use of the Federal Government through purchase or lease, whether the supplies or services are already in existence or must be created, developed, demonstrated, and evaluated. Acquisition begins at the point when agency needs are established and includes the description of requirements to satisfy agency needs, solicitation and selection of sources, award of contracts, contract financing, contract performance, contract administration, and those technical and management functions directly related to the process of fulfilling agency needs by contract.
 
@@ -776,15 +766,23 @@
 
 *Senior procurement executive* means the individual appointed pursuant to 41 U.S.C. 1702(c) who is responsible for management direction of the acquisition system of the executive agency, including implementation of the unique acquisition policies, regulations, and standards of the executive agency.
 
-*Service-disabled veteran-owned small business concern*—
+*Service-disabled veteran-owned small business (SDVOSB) concern* means a small business concern—
 
-(1) Means a small business concern—
+(1)(i) Not less than 51 percent of which is owned and controlled by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
 
-(i) Not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
+(ii) The management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a service-disabled veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran; or
 
-(ii) The management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a service-disabled veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran.
+(2) A small business concern eligible under the SDVOSB Program in accordance with 13 CFR part 128 (see subpart 19.14).
 
-(2) Service-disabled veteran means a veteran, as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16).
+(3) *Service-disabled veteran,* as used in this definition, means a veteran as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16), and who is registered in the Beneficiary Identification and Records Locator Subsystem, or successor system that is maintained by the Department of Veterans Affairs' Veterans Benefits Administration, as a service-disabled veteran.
+
+*Service-disabled veteran-owned small business (SDVOSB) concern eligible under the SDVOSB Program* means an SDVOSB concern that—
+
+(1) Effective January 1, 2024, is designated in the System for Award Management (SAM) as certified by the Small Business Administration (SBA) in accordance with 13 CFR 128.300; or
+
+(2) Has represented that it is an SDVOSB concern in SAM and submitted a complete application for certification to SBA on or before December 31, 2023.
+
+*Service-disabled veteran-owned small business (SDVOSB) Program* means a program that authorizes contracting officers to limit competition, including award on a sole-source basis, to SDVOSB concerns eligible under the SDVOSB Program.
 
 *Servicing agency* means the agency that will conduct an assisted acquisition on behalf of the requesting agency.
 
@@ -1010,7 +1008,7 @@
 
 *Veteran-owned small business concern* means a small business concern—
 
-(1) Not less than 51 percent of which is owned by one or more veterans (as defined at 38 U.S.C. 101(2)) or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
+(1) Not less than 51 percent of which is owned and controlled by one or more veterans (as defined at 38 U.S.C. 101(2)) or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
 
 (2) The management and daily business operations of which are controlled by one or more veterans.
 
