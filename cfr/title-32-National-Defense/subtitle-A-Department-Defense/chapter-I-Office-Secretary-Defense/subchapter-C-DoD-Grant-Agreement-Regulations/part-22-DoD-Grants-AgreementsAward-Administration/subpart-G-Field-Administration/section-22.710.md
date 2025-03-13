@@ -1,6 +1,6 @@
 ##### § 22.710 Assignment of grants administration offices. #####
 
-In accordance with the policy stated in § 22.705(b), the DoD offices (referred to in this part as “grants administration offices”) that are assigned responsibility for performing field administration services for grants and cooperative agreements are (see the “Federal Directory of Contract Administration Services (CAS) Components”7 for specific addresses of administration offices):
+In accordance with the policy stated in § 22.705(b), the DoD offices (referred to in this part as “grants administration offices”) that are assigned responsibility for performing field administration services for grants and cooperative agreements are (see the “Federal Directory of Contract Administration Services (CAS) Components” 7 for specific addresses of administration offices):
 
 7 The “Federal Directory of Contract Administration Services (CAS) Components” may be accessed through the Defense Contract Management Agency homepage at *http://www.dcma.mil.*
 

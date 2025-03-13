@@ -66,7 +66,7 @@
 
 (5) *Fees for nonproductive search.* Fees for record searches and review may be charged even if not responsive documents are located or if the request is denied, particularly if the requester insists upon a search after being informed that it is likely to be nonproductive or that any records found are likely to be exempt from disclosure. The Records Manager shall apply the standards set out in paragraph (c)(4) of this section in determining whether to waive or reduce fees.
 
-Appendix A to § 1662.6—Freedom of Information Fee ScheduleDuplication:Photocopy, per standard page $.10Paper Copies of microfiche, per frame $.10Search and review:
+Appendix A to § 1662.6—Freedom of Information Fee ScheduleDuplication: Photocopy, per standard page $.10 Paper Copies of microfiche, per frame $.10Search and review:
 
 Salary of the employee (the basic rate of pay of the employee plus 16 percent of that rate to cover benefits), performing the work of manual search and review.
 

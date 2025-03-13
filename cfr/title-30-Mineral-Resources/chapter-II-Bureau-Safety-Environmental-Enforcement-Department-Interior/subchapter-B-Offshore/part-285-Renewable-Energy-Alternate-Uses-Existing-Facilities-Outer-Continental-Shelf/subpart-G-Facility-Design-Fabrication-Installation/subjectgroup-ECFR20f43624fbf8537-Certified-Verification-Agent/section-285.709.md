@@ -1,7 +1,5 @@
 ##### § 285.709 When conducting onsite fabrication inspections, what must the CVA or project engineer verify? #####
 
-Link to an amendment published at 89 FR 42719, May 15, 2024.
-
 (a) To comply with § 285.708(a)(3), the CVA or project engineer must make periodic onsite inspections while fabrication is in progress and must verify the following fabrication items, as appropriate:
 
 (1) Quality control by lessee (or grant holder) and builder;
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 42719, May 15, 2024.
 
 (3) Material quality and identification methods;
 
-(4) Fabrication procedures specified in the Fabrication and Installation Report, and adherence to such procedures;
+(4) Fabrication procedures specified in your FIRs and adherence to such procedures;
 
 (5) Welder and welding procedure qualification and identification;
 
@@ -28,12 +26,14 @@ Link to an amendment published at 89 FR 42719, May 15, 2024.
 
 (12) Alignment procedures;
 
-(13) Dimensional check of the overall structure, including any turrets, turret-and-hull interfaces, any mooring line and chain and riser tensioning line segments; and
+(13) Dimensional check of the overall structure, including any turrets, turret-and-hull interfaces, any mooring line and chain and riser tensioning line segments, and tendon or tethering systems; and
 
 (14) Status of quality-control records at various stages of fabrication.
 
-(b) For any floating facilities, the CVA or project engineer must ensure that any requirements of the U.S. Coast Guard for structural integrity and stability (e.g., verification of center of gravity) have been met. The CVA or project engineer must also consider:
+(b) For any floating facility, the CVA or project engineer must also verify that any requirements of the U.S. Coast Guard for structural integrity and stability (e.g., verification of center of gravity) have been met. The CVA or project engineer must also consider:
 
 (1) Foundations, foundation pilings and templates, and anchoring systems; and
 
-(2) Mooring or tethering systems.
+(2) Mooring, tendon, or tethering systems.
+
+[89 FR 42719, May 15, 2024]

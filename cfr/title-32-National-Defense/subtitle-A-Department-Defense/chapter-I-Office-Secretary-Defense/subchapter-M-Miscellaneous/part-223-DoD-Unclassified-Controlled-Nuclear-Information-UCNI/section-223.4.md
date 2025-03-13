@@ -10,6 +10,6 @@ It is DoD policy that:
 
 (d) This part and title 10 of the Code of Federal Regulations (CFR) part 1017 shall be used as guidance for handling DOE UCNI that is under DoD control.
 
-(e) This part does not prevent a determination that information previously determined to be DoD UCNI is classified information in accordance with Volume 1 of DoD Manual 5200.013 and other applicable standards of classification.
+(e) This part does not prevent a determination that information previously determined to be DoD UCNI is classified information in accordance with Volume 1 of DoD Manual 5200.01 3 and other applicable standards of classification.
 
 3 Available on the Internet at *http://www.dtic.mil/whs/directives/corres/pdf/520001\_vol1.pdf.*

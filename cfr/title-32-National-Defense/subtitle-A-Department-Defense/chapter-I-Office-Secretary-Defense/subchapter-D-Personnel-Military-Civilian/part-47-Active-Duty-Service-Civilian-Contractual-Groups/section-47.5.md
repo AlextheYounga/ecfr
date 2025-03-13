@@ -46,13 +46,13 @@
 
 (3) Determine whether the applicant was a member of a recognized group after considering the individual's evidence of membership and verifying the service against available Government records.
 
-(4) Issue a DD Form 214, “Certificate of Release or Discharge from Active Duty,” and a DD Form 256, “Honorable Discharge Certificate,” or a DD Form 257, “General Discharge Certificate,” as appropriate, consistent with DoD Instruction 1336.11 and DoD Directive 1332.142 and the implementing documents of the appropriate statutes of the Military Department concerned or the DoT and the instructions of the DoD Civilian/Military Service Review Board.
+(4) Issue a DD Form 214, “Certificate of Release or Discharge from Active Duty,” and a DD Form 256, “Honorable Discharge Certificate,” or a DD Form 257, “General Discharge Certificate,” as appropriate, consistent with DoD Instruction 1336.1 1 and DoD Directive 1332.14 2 and the implementing documents of the appropriate statutes of the Military Department concerned or the DoT and the instructions of the DoD Civilian/Military Service Review Board.
 
 1 Copies may be obtained, if needed, from the U.S. Naval Publications and Forms Center, Attn: 1053, 5801 Tabor Avenue, Philadelphia, PA 19120.
 
 2 See footnote 1 to § 47.5(c)(4).
 
-(5) Issue a DD Form 1300, “Report of Casualty,” in accordance with DoD Instruction 1300.93 if a verified member was killed during the period of AD service.
+(5) Issue a DD Form 1300, “Report of Casualty,” in accordance with DoD Instruction 1300.9 3 if a verified member was killed during the period of AD service.
 
 3 See footnote 1 to § 47.5(c)(4).
 

@@ -8,7 +8,7 @@
 
 (3) Provides policy and management of the NISP for non-DoD executive branch agencies who enter into inter-agency security agreements with DoD to provide industrial security services required when classified information is disclosed to contractors in accordance with E.O. 12829, as amended.
 
-(b) *Director, DCSA.* Under the authority, direction, and control of the USD(I&S), and in accordance with DoDI 5220.22 and DoD Directive (DoDD) 5105.42, “Defense Security Service (DSS)”1 (available at: *https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/510542p.pdf?ver=2019-01-14-090012-283*) the Director, DCSA:
+(b) *Director, DCSA.* Under the authority, direction, and control of the USD(I&S), and in accordance with DoDI 5220.22 and DoD Directive (DoDD) 5105.42, “Defense Security Service (DSS)” 1 (available at: *https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/510542p.pdf?ver=2019-01-14-090012-283*) the Director, DCSA:
 
 1 On June 20, 2020, the Secretary of Defense re-named the Defense Security Service (DSS) as the Defense Counterintelligence and Security Agency (DCSA), as required by Executive Oder 13467, section 2.6(b)(i) (as amended by Executive Order 13968, Apr. 24, 2019, 84 FR 18125). Pursuant to Section 4 of E.O. 13968, references to DSS in DoD issuances should be deemed or construed to refer to DCSA.
 

@@ -24,4 +24,4 @@ The FHWA should use the current editions of the AASHTO publications, “A Guide 
 
 (f) The means and authority for enforcing the control of access restrictions applicable to utility use of controlled access highway facilities should be clearly set forth in the State transportation department plan.
 
-(Information collection requirements in paragraphs (a), (b) and (c) were approved under control number 2125-0522, and paragraph (d) under control number 2125-0514)[50 FR 20354, May 15, 1985, as amended at 53 FR 2834, Feb. 2, 1988; 55 FR 25828, June 25, 1990; 65 FR 70312, Nov. 22, 2000]
+(Information collection requirements in paragraphs (a), (b) and (c) were approved under control number 2125-0522, and paragraph (d) under control number 2125-0514) [50 FR 20354, May 15, 1985, as amended at 53 FR 2834, Feb. 2, 1988; 55 FR 25828, June 25, 1990; 65 FR 70312, Nov. 22, 2000]

@@ -1,0 +1,3 @@
+##### § 585.150 What is the Renewable Energy Leasing Schedule? #####
+
+At least once every 2 years, the Secretary will publish a schedule with a list of locations under consideration for leasing, along with a projection of when lease sales are anticipated to occur for the 5-year period following the schedule's publication. This schedule will include a general description of the area covered by each proposed lease sale, the calendar year in which each lease sale is projected to occur, and the reasons for any changes made to the previous schedule. Any proposed lease sale covered by the schedule will be subject to all applicable regulations, including area identification, coordination with relevant parties, and applicable environmental reviews.

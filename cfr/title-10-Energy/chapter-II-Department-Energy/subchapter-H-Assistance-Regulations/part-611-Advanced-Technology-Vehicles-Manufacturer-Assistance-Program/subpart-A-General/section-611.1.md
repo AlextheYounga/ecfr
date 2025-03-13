@@ -1,5 +1,5 @@
 ##### § 611.1 Purpose. #####
 
-Link to an amendment published at 89 FR 33202, Apr. 29, 2024.
+This part is issued by the Department of Energy (DOE) pursuant to section 136 of the Energy Independence and Security Act of 2007, Public Law 110-140, as amended by section 129 of Consolidated Security, Disaster Assistance, and Continuing Appropriations Act of 2009, Public Law 110-329, section 312 of Energy and Water Development and Related Agencies Appropriations Act of 2010, Public Law 111-85, section 40401(b) of the Infrastructure Investment and Jobs Act, Public Law 117-58, and section 50142 of the Inflation Reduction Act of 2022, Public Law 117-169. Specifically, section 136(e) directs DOE to promulgate an interim final rule establishing regulations that specify eligibility criteria and that contain other provisions that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section.
 
-This part is issued by the Department of Energy (DOE) pursuant to section 136 of the Energy Independence and Security Act of 2007, Public Law 110-140, as amended by section 129 of Public Law 110-329. Specifically, section 136(e) directs DOE to promulgate an interim final rule establishing regulations that specify eligibility criteria and that contain other provisions that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section.
+[89 FR 33202, Apr. 29, 2024]

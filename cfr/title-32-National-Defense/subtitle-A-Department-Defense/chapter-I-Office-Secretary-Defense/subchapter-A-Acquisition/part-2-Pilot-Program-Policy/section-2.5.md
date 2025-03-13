@@ -4,7 +4,7 @@
 
 (b) Programs in which commercial or non-developmental items can satisfy the military requirement are preferred as candidate programs. A nominated program will address which standard commercial, industrial practices will be used in the pilot program and how those practices will be applied.
 
-(c) Nomination of candidate programs must be accompanied by a list of waivers being requested to Statutes, FAR, DFARS, DoD Directives4 and Instructions,5 and where applicable, DoD Component regulations. Waivers being requested must be accompanied by rationale and justification for the waiver. The justification must include:
+(c) Nomination of candidate programs must be accompanied by a list of waivers being requested to Statutes, FAR, DFARS, DoD Directives 4 and Instructions, 5 and where applicable, DoD Component regulations. Waivers being requested must be accompanied by rationale and justification for the waiver. The justification must include:
 
 4 See footnote 3 to § 2.4(b).
 

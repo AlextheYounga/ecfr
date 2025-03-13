@@ -12,6 +12,6 @@
 
 (2) Banks or credit unions according to 32 CFR part 230.
 
-(3) Support provided under Innovative Readiness Training according to DoD Directive 1100.20.1
+(3) Support provided under Innovative Readiness Training according to DoD Directive 1100.20. 1
 
 1 Copies of unclassified DoD Directives, Instructions, Publications, and Administrative Instructions may be obtained at *http://www.dtic.mil/whs/directives/.*

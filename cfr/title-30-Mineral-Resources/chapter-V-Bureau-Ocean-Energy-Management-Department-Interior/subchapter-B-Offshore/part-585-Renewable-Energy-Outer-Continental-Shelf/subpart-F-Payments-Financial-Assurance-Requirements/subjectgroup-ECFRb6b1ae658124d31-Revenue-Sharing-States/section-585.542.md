@@ -1,0 +1,3 @@
+##### § 585.542 What makes a State eligible for payment of revenues? #####
+
+A State is eligible for payment of revenues if any part of the State's coastline is located within 15 miles of the announced geographic center of the project area of a qualified project. A State is not eligible for revenue sharing if all parts of that State's coastline are more than 15 miles from the announced geographic center of the qualified project area. This is the case even if the qualified project area is located wholly or partially within an area extending 3 miles seaward of the submerged lands of that State or if there are no States with a coastline less than 15 miles from the announced geographic center of the qualified project area.

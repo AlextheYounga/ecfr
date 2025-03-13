@@ -1,6 +1,6 @@
 ##### § 247.5 Responsibilities. #####
 
-(a) The Assistant Secretary of Defense for Public Affairs, consistent with DoD Directive 5122.5,10 shall:
+(a) The Assistant Secretary of Defense for Public Affairs, consistent with DoD Directive 5122.5, 10 shall:
 
 10 See footnote 1 to § 247.1.
 

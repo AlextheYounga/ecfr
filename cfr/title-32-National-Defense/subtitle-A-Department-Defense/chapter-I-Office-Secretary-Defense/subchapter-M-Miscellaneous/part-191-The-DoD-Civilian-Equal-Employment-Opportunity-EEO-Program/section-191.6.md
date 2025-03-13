@@ -8,7 +8,7 @@
 
 (2) Develop procedures for and implement an affirmative action program for people with disabilities consistent with section 501 of Rehabilitation Act of 1973, as amended, and guidance from EEOC.
 
-(3) Develop procedures for and implement an affirmative action program for disabled veterans, consistent with DoD Directive 1341.6.8 This program shall be consistent with the program established in paragraph (b)(2) of this section and coordinated with the Component's PPD manager.
+(3) Develop procedures for and implement an affirmative action program for disabled veterans, consistent with DoD Directive 1341.6. 8 This program shall be consistent with the program established in paragraph (b)(2) of this section and coordinated with the Component's PPD manager.
 
 8 See footnote 1 to § 191.2(c).
 
@@ -20,7 +20,7 @@
 
 (7) Develop procedures for and implement a program to eliminate sexual harassment in Component work places, consistent with DoD Policy on Sexual Harassment memorandums, and to ensure compliance with the Equal Pay Act.
 
-(8) Develop procedures for and implement a program of employment preference for spouses of military personnel, in accordance with DoD Instruction 1404.12.9
+(8) Develop procedures for and implement a program of employment preference for spouses of military personnel, in accordance with DoD Instruction 1404.12. 9
 
 9 See footnote 1 to § 191.2(c).
 

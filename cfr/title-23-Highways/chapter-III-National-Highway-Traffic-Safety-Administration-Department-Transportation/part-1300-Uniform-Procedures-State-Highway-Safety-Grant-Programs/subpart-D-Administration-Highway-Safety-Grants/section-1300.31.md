@@ -1,5 +1,7 @@
 ##### § 1300.31 Equipment. #####
 
+Link to an amendment published at 89 FR 57357, July 15, 2024.
+
 (a) *Title.* Except as provided in paragraphs (e) and (f) of this section, title to equipment acquired under 23 U.S.C. Chapter 4 and Section 1906 will vest upon acquisition in the State or its subrecipient, as appropriate, subject to the conditions in paragraphs (b) through (d) of this section.
 
 (b) *Use.* Equipment may only be purchased if necessary to perform eligible grant activities or if specifically authorized as an allowable use of funds. All equipment shall be used for the originally authorized grant purposes for as long as needed for those purposes, as determined by the Regional Administrator, and neither the State nor any of its subrecipients or contractors shall encumber the title or interest while such need exists.

@@ -6,7 +6,7 @@ It is DoD policy that:
 
 (b) Editorial policies and practices of the Stars and Stripes shall be in accordance with journalistic standards governing U.S. daily commercial newspapers of the highest quality, with emphasis on matters of interest to the Stars and Stripes readership. Except as provided in paragraph (e) of this section, the DoD policy for the Stars and Stripes is that there shall be a free flow of news and information to its readership without news management or censorship. The calculated withholding of unfavorable news is prohibited.
 
-(c) The S&S are basically self-sustaining operations. Each S&S shall be administered in accordance with DoD Directive 1015.11 as a joint-Service nonappropriated fund (NAF) instrumentality (NAFI) in its Unified Command, except where different procedures are specified in this part. Funding shall be provided through newspaper sales, resale of commercial publications, authorized advertising, job printing, and appropriated fund (APF) support as authorized by this part, DoD Directive 1015.62 and DoD Instruction 1330.183. The S&S shall conduct bookstore operations similar to business operations of commercial bookstores in the United States. The Stars and Stripes and the S&S bookstores provide important news and information to U.S. personnel and their families stationed overseas while generating NAF revenues.
+(c) The S&S are basically self-sustaining operations. Each S&S shall be administered in accordance with DoD Directive 1015.1 1 as a joint-Service nonappropriated fund (NAF) instrumentality (NAFI) in its Unified Command, except where different procedures are specified in this part. Funding shall be provided through newspaper sales, resale of commercial publications, authorized advertising, job printing, and appropriated fund (APF) support as authorized by this part, DoD Directive 1015.6 2 and DoD Instruction 1330.18 3. The S&S shall conduct bookstore operations similar to business operations of commercial bookstores in the United States. The Stars and Stripes and the S&S bookstores provide important news and information to U.S. personnel and their families stationed overseas while generating NAF revenues.
 
 1 Copies may be obtained, at cost, from the National Technical Information Service, 5285 Port Royal Road, Springfield, VA 22161.
 
@@ -16,7 +16,7 @@ It is DoD policy that:
 
 (d) The Stars and Stripes personnel procedures shall differ from commercial newspapers only because the S&S are U.S. Government organizations that are required to operate in accordance with the following:
 
-(1) 32 CFR part 40, other Federal laws and DoD Directives that affect all DoD employees, and the Manual for Courts Martial (MCM), 19844, for S&S military personnel on active duty.
+(1) 32 CFR part 40, other Federal laws and DoD Directives that affect all DoD employees, and the Manual for Courts Martial (MCM), 1984 4, for S&S military personnel on active duty.
 
 4 See footnote 1 to § 246.4(c).
 

@@ -6,7 +6,7 @@ International Traffic in Arms Regulations 22 CFR 125.11General Exemptions
 
 (a) Except as provided in § 26.01, district directors of customs and postal authorities are authorized to permit the export without a license of unclassified technical data as follows:
 
-(1) If it is in published4 form and subject to public dissemination by being:
+(1) If it is in published 4 form and subject to public dissemination by being:
 
 4 The burden for obtaining appropriate U.S. Government approval for the publication of technical data falling within the definition in § 125.01, including such data as may be developed under other than U.S. Government contract, is on the person or company seeking publication.
 
@@ -28,7 +28,7 @@ International Traffic in Arms Regulations 22 CFR 125.11General Exemptions
 
 (6) If it consists of technical data, other than design, development, or production information relating to equipment, the export of which has been previously authorized to the same recipient.
 
-(7) If it consists of operations, maintenance and training manuals, and aids relating to equipment, the export of which has been authorized to the same recipient.5
+(7) If it consists of operations, maintenance and training manuals, and aids relating to equipment, the export of which has been authorized to the same recipient. 5
 
 5 Not applicable to technical data relating to Category VI(d) and Category XVI.
 
@@ -36,11 +36,11 @@ International Traffic in Arms Regulations 22 CFR 125.11General Exemptions
 
 (9) If it consists solely of technical data being reexported to the original source of import.
 
-(10) If the export is by the prime contractor in direct support and within the technical and/or product limitations of a “U.S. Government approved project” and the prime contractor so certifies. The Office of Munitions Control, Department of State, will verify, upon request, those projects which are “U.S. Government approved,” and accord an exemption to the applicant who applies for such verification and exemption, where appropriate, under this subparagraph.6
+(10) If the export is by the prime contractor in direct support and within the technical and/or product limitations of a “U.S. Government approved project” and the prime contractor so certifies. The Office of Munitions Control, Department of State, will verify, upon request, those projects which are “U.S. Government approved,” and accord an exemption to the applicant who applies for such verification and exemption, where appropriate, under this subparagraph. 6
 
 6 Classified information may also be transmitted in direct support of and within the technical and/or product limitation of such verified U.S. Government approved projects without prior Department of State approval provided the U.S. party so certifies and complies with the requirements of the Department of Defense Industrial Security Manual relating to the transmission of such classified information (and any other requirements of cognizant U.S. Government departments or agencies).
 
-(11) If the export is solely for the use of American citizen employees of U.S. firms provided the U.S. firm certifies its overseas employee is a U.S. citizen and has a “need to know.”7
+(11) If the export is solely for the use of American citizen employees of U.S. firms provided the U.S. firm certifies its overseas employee is a U.S. citizen and has a “need to know.” 7
 
 7 Classified information may also be exported to such certified American citizen employees without prior Department of State approval provided the U.S. party complies with the requirements of the Department of Defense Industrial Security Manual relating to the transmission of such classified information (and any other requirements of cognizant U.S. Government departments or agencies). Such technical data or information (classified or unclassified) shall not be released by oral, visual, or documentary means to any foreign person.
 

@@ -1,6 +1,6 @@
 ##### § 147.6 Guidance D—Sexual behavior. #####
 
-(a) *The concern.* Sexual behavior is a security concern if it involves a criminal offense, indicates a personality or emotional disorder, may subject the individual to coercion, exploitation, or duress, or reflects lack of judgment or discretion.1 Sexual orientation or preference may not be used as a basis for or a disqualifying factor in determining a person's eligibility for a security clearance.
+(a) *The concern.* Sexual behavior is a security concern if it involves a criminal offense, indicates a personality or emotional disorder, may subject the individual to coercion, exploitation, or duress, or reflects lack of judgment or discretion. 1 Sexual orientation or preference may not be used as a basis for or a disqualifying factor in determining a person's eligibility for a security clearance.
 
 1 The adjudicator should also consider guidelines pertaining to criminal conduct (Guideline J) and emotional, mental and personality disorders (Guideline I) in determining how to resolve the security concerns raised by sexual behavior.
 

@@ -1,0 +1,3 @@
+##### § 585.635 What must I do if I cease activities approved in my COP before the end of my commercial lease? #####
+
+You must notify BSEE, within 5 business days, any time you cease commercial operations, without an approved suspension, under your approved COP. If you cease commercial operations for an indefinite period, which extends longer than 6 months, we may cancel your lease under § 585.422 and you must initiate the decommissioning process as set forth in 30 CFR part 285, subpart I.

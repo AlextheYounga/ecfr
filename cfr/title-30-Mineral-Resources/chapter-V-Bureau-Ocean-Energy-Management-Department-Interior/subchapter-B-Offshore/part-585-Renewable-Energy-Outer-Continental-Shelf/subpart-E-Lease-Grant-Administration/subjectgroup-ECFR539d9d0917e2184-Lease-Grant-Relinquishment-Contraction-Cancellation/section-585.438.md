@@ -1,0 +1,5 @@
+##### § 585.438 What happens to leases or grants (or portions thereof) that have been relinquished, contracted, or cancelled? #####
+
+(a) If a lease or grant (or portion thereof) is relinquished, contracted, or cancelled under § 585.435, § 585.436, or § 585.422, respectively, BOEM may restart the competitive leasing process at any point set forth in § 585.210 that it deems reasonable and appropriate (*e.g.,* Call, area identification, PSN, or FSN), subject to all necessary environmental analyses and consultations.
+
+(b) If a competitively issued lease or grant (or portion thereof) is relinquished or cancelled under § 585.435 or § 585.422, respectively, within six months of the auction, BOEM may reoffer the lease or grant (or portion thereof) to the next highest bidder from that auction, if one can be identified. If BOEM decides to reoffer to the next highest bidder, the price will be the next best bid, or a prorated amount based on the size of the relinquished share, as long as the next best bid reflects a fair return to the government.

@@ -4,7 +4,7 @@
 
 (b) Proponents, EPFs, and public affairs offices may utilize the World Wide Web, in addition to more traditional means, to notify the public of availability of EAs and EISs. When possible, allow distribution of documents electronically. Public review comments should be required in writing, rather than by electronic mail.
 
-(c) All documentation will be disposed of according to AFMAN 37-139, Records Disposition Schedule.12
+(c) All documentation will be disposed of according to AFMAN 37-139, Records Disposition Schedule. 12
 
 12 See footnote 1 to § 989.1.
 

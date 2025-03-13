@@ -1,7 +1,6 @@
 ##### § 57.6 Procedures. #####
 
-(a) *Procedures for the Provision of EIS for Infants and Toddlers with Disabilities*—(1) *General*.
-(i) There is an urgent and substantial need to:
+(a) *Procedures for the Provision of EIS for Infants and Toddlers with Disabilities*—(1) *General*. (i) There is an urgent and substantial need to:
 
 (A) Enhance the development of infants and toddlers with disabilities to minimize their potential for developmental delay and to recognize the significant brain development that occurs during a child's first 3 years of life.
 

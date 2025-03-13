@@ -1,0 +1,11 @@
+##### § 585.540 How will BOEM equitably distribute revenues to States? #####
+
+(a) BOEM will distribute among the eligible coastal States 27 percent of the following revenues derived from qualified projects, where a qualified project and qualified project area is determined in § 585.541 and an eligible State is determined in § 585.542, where a qualified project and qualified project area are determined in 585.541 and an eligible State is defined in § 585.113. Revenues subject to distribution to eligible States include all bonuses, acquisition fees, rentals, and operating fees derived from the entire qualified project area and associated project easements and are not limited to revenues attributable to the portion of the project area within 3 miles of the seaward boundary of a coastal State. The revenues to be shared do not include administrative fees such as service fees and those assessed for civil penalties and forfeiture of bond or other surety obligations.
+
+(b) The project area is the area included within a single lease or grant. For each qualified project, BOEM will determine and announce the project area and its geographic center at the time it grants or issues a lease, easement, or right-of-way on the OCS. If a qualified project lease or grant's boundaries change significantly due to actions pursuant to § 585.435 or § 585.436, BOEM will re-evaluate the project area to determine whether the geographic center has changed. If it has, BOEM will re-determine State eligibility and shares accordingly.
+
+(c) To determine each eligible State's share of the 27 percent of the revenues for a qualified project, BOEM will use the inverse distance formula, which apportions shares according to the relative proximity of the nearest point on the coastline of each eligible State to the geographic center of the qualified project area. If Si is equal to the nearest distance from the geographic center of the project area to the i = 1, 2, \* \* \* nth eligible State's coastline, then eligible State i would be entitled to the fraction Fi of the 27-percent aggregate revenue share due to all the eligible States according to the following formula:
+
+Formula 1 to paragraph (c)
+
+Fi = (1/Si) ÷ (Σi=1\* \* \*n(1/Si))

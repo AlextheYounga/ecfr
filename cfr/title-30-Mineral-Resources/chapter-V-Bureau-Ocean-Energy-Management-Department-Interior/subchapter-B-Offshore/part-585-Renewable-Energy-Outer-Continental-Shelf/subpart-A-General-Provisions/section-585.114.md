@@ -4,16 +4,11 @@
 
 (b) BOEM will not release such data and information that we have determined is exempt from disclosure under exemption 4 of FOIA. We will review such data and information and objections of the submitter by the following schedule to determine whether release at that time will result in substantial competitive harm or disclosure of trade secrets.
 
-|If you have a . . . |Then BOEM will review data and information for possible release:|
-|--------------------|----------------------------------------------------------------|
-|(1) Commercial lease|                       At the earlier of:                       |
-|                    |  (i) 3 years after the initiation of commercial generation or  |
-|                    |            (ii) 3 years after the lease terminates.            |
-| (2) Limited lease  |             At 3 years after the lease terminates.             |
-|(3) ROW or RUE grant|                      At the earliest of:                       |
-|                    |         (i) 10 years after the approval of the grant;          |
-|                    |                   (ii) Grant termination; or                   |
-|                    | (iii) 3 years after the completion of construction activities. |
+|If you have a . . . |                                                   Then BOEM will review data and information for possible  <br/>release:                                                    |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|(1) Commercial lease|                   At the earlier of:  <br/>(i) 3 years after the commencement of commercial operations; or  <br/>(ii) 3 years after the lease terminates.                   |
+| (2) Limited lease  |                                                                   At 3 years after the lease terminates.                                                                    |
+|(3) ROW or RUE grant|At the earliest of:  <br/>(i) 10 years after the approval of the grant;  <br/>(ii) Grant termination; or  <br/>(iii) 3 years after the completion of construction activities.|
 
 (c) After considering any objections from the submitter, if we determine that release of such data and information will result in:
 

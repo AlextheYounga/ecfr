@@ -10,4 +10,4 @@
 
 (e) The State transportation department's practices under the policies or agreements approved under § 645.215(b) of this part shall be periodically reviewed by the FHWA.
 
-(Information collection requirements in paragraph (a) were approved by the Office of Management and Budget under control number 2125-0514)[50 FR 20354, May 15, 1985, as amended at 53 FR 2834, Feb. 2, 1988; 60 FR 34851, July 5, 1995; 65 FR 70312, Nov. 22, 2000]
+(Information collection requirements in paragraph (a) were approved by the Office of Management and Budget under control number 2125-0514) [50 FR 20354, May 15, 1985, as amended at 53 FR 2834, Feb. 2, 1988; 60 FR 34851, July 5, 1995; 65 FR 70312, Nov. 22, 2000]

@@ -8,7 +8,7 @@
 
 (2) *Classified information.* (i) Any information or material, regardless of its physical form or characteristics, that is owned by, produced by or for, or under the control of the United States Government, and which, for national security purposes, must be protected against unauthorized disclosure and is so designated or marked with the appropriate classification.
 
-(ii) Release, access, and dissemination of classified information shall be made through existing security channels in accordance with DoD 5220.22-R;1 DoD 5220.22-M;2 and DoD 5200.1-R,3 which are implementing publications for safeguarding classified information release, access, and dissemination to United States and foreign concerns.
+(ii) Release, access, and dissemination of classified information shall be made through existing security channels in accordance with DoD 5220.22-R;1 DoD 5220.22-M;2 and DoD 5200.1-R, 3 which are implementing publications for safeguarding classified information release, access, and dissemination to United States and foreign concerns.
 
 1 Copies may be obtained, at cost, from the National Technical Information Services, 5285 Port Royal Road, Springfield, VA 22161.
 
@@ -110,6 +110,6 @@ Budgeting Phase
 
 (7) *Drafts and working papers.* Drafts and working papers that would otherwise be releasable under paragraph 286h.3(a) shall not be released where their release would inhibit the development of agency positions, jeopardize the free exchange of information that is part of the deliberative process, or compromise the decision-making process.
 
-(c) *Freedom of Information Act.* Where a request for information, the release of which is restricted under paragraph 286h.3(b) is made under the Freedom of Information Act, the request shall be forwarded to the appropriate official for disposition in accordance with DoD 5400.7-R.4 Requests for contractor bid or proposal information pursuant to the Freedom of Information Act shall be subject to subparagraph 5-207 a. of DoD 5400.7-R, which requires notice to a non-United States Government source of a record.
+(c) *Freedom of Information Act.* Where a request for information, the release of which is restricted under paragraph 286h.3(b) is made under the Freedom of Information Act, the request shall be forwarded to the appropriate official for disposition in accordance with DoD 5400.7-R. 4 Requests for contractor bid or proposal information pursuant to the Freedom of Information Act shall be subject to subparagraph 5-207 a. of DoD 5400.7-R, which requires notice to a non-United States Government source of a record.
 
 4 See footnote 1 to § 286h.3(b)(2)(ii).

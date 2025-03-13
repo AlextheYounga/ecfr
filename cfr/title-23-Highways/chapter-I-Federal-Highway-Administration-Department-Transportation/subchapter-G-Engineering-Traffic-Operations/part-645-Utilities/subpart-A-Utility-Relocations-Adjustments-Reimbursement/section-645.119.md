@@ -36,4 +36,4 @@
 
 (f) The FHWA may suspend approval of the alternate procedure when any FHWA review discloses noncompliance with the certification. Federal funds will not participate in relocation costs incurred that do not comply with the requirements under § 645.119(c)(1).
 
-(Information collection requirements in paragraph (c) were approved by the Office of Management and Budget under control number 2125-0533)[50 FR 20345, May 15, 1985, as amended at 65 FR 70311, Nov. 22, 2000]
+(Information collection requirements in paragraph (c) were approved by the Office of Management and Budget under control number 2125-0533) [50 FR 20345, May 15, 1985, as amended at 65 FR 70311, Nov. 22, 2000]

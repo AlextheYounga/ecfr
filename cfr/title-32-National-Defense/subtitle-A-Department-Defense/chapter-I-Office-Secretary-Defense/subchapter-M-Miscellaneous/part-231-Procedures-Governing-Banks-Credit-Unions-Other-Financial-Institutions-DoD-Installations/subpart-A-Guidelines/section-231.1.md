@@ -1,6 +1,6 @@
 ##### § 231.1 Overview. #####
 
-(a) *Purpose.* This part implements DoD Directive 1000.11 (32 CFR part 230)1 and prescribes guidance and procedures governing the establishment, support, operation, and termination of banks and credit unions operating on DoD installations worldwide, to include military banking facilities (MBFs). In addition, this part provides guidance intended to ensure that arrangements for the provision of services by financial institutions are consistent among DoD Components, and that financial institutions operating on DoD installations provide, and are provided, support consistent with the guidance and procedures stated herein.
+(a) *Purpose.* This part implements DoD Directive 1000.11 (32 CFR part 230) 1 and prescribes guidance and procedures governing the establishment, support, operation, and termination of banks and credit unions operating on DoD installations worldwide, to include military banking facilities (MBFs). In addition, this part provides guidance intended to ensure that arrangements for the provision of services by financial institutions are consistent among DoD Components, and that financial institutions operating on DoD installations provide, and are provided, support consistent with the guidance and procedures stated herein.
 
 1 Copies may be obtained via Internet at *http://www.dtic.whs/directives.*
 

@@ -76,8 +76,7 @@ The State's triennial Highway Safety Plan documents a three-year period of the S
 
 (iv) A description of any Federal funds that the State plans to use to carry out the countermeasure strategy including, at a minimum, the funding source(s) (e.g., Section 402, Section 405(b), etc.) and an estimated allocation of funds;
 
-(v) A description of considerations the State will use to determine what projects to fund to implement the countermeasure strategy, including, as applicable, public engagement, traffic safety data, affected communities, impacted locations, solicitation of proposals; and
-P\>(vi) A description of the manner in which the countermeasure strategy was informed by the uniform guidelines issued in accordance with 23 U.S.C. 402(a)(2) and, if applicable, NHTSA-facilitated programmatic assessments.
+(v) A description of considerations the State will use to determine what projects to fund to implement the countermeasure strategy, including, as applicable, public engagement, traffic safety data, affected communities, impacted locations, solicitation of proposals; and P\>(vi) A description of the manner in which the countermeasure strategy was informed by the uniform guidelines issued in accordance with 23 U.S.C. 402(a)(2) and, if applicable, NHTSA-facilitated programmatic assessments.
 
 (5) *Performance report.* A report on the State's progress towards meeting State performance targets from the most recently submitted triennial HSP, based on the most currently available data, including—
 

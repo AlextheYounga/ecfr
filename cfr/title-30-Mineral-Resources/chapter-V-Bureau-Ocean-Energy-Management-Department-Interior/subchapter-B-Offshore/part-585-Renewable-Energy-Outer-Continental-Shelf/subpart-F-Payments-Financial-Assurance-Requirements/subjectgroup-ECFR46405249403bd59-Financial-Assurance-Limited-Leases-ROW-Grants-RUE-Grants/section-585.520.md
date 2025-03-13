@@ -1,0 +1,3 @@
+##### § 585.520 What financial assurance must I provide when I obtain my limited lease, ROW grant, or RUE grant? #####
+
+Before BOEM will execute your limited lease, ROW grant, or RUE grant, or approve an assignment of an interest therein, you or a proposed assignee must guarantee compliance with all terms and conditions of the lease or grant by providing a bond or other authorized financial assurance in the amount of 12 months' rent.

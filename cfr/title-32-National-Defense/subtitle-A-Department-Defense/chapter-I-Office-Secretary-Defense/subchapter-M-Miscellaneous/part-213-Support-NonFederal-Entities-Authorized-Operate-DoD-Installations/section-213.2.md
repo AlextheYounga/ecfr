@@ -6,6 +6,6 @@ This part:
 
 (b) Shall not revise, modify, or rescind any Memorandum of Understanding (MOU) between a non-Federal entity and the U.S. Government or the Department of Defense or their implementing arrangements in existence as of the effective date of this Directive. Additionally, the Directive shall not revise, modify, or rescind any MOU between the Department of Justice (DoJ) and the Department of Defense that is in existence as of the effective date of this Directive. Any such agreements shall, as they expire, come up for renewal, or as circumstances otherwise permit, be revised to conform to this Directive and any implementing guidance.
 
-(c) Does not apply to banks or credit unions addressed in DoD Directive 1000.113 or the Civil Air Patrol according to 10 U.S.C. 2554, 2606 and 9441.
+(c) Does not apply to banks or credit unions addressed in DoD Directive 1000.11 3 or the Civil Air Patrol according to 10 U.S.C. 2554, 2606 and 9441.
 
 3 Copies may be obtained at *http://www.dtic.mil/whs/directives/.*

@@ -112,7 +112,7 @@
 
 (3) When, under the terms of a lease, title to improvements passes to the government, arrangements normally will be made as follows:
 
-(i) When the square footage involved exceeds that authorized in DoD 4270.1-M9, the banking institution shall be given first choice to continue occupying the excess space under a lease that provides for fair market rental for the land underlying that excess space.
+(i) When the square footage involved exceeds that authorized in DoD 4270.1-M 9, the banking institution shall be given first choice to continue occupying the excess space under a lease that provides for fair market rental for the land underlying that excess space.
 
 9 See footnote 1 to § 231.1(a).
 
@@ -128,7 +128,7 @@
 
 (ii) Projects costing less than $25,000, to include interior alterations and room or office additions to existing banking offices, shall be approved by installation commanders. Copies of approvals, including the identification of project cost, shall be furnished to the Secretary of the Military Department concerned (or designee).
 
-(4) The Congress shall be notified of all construction projects, using other than appropriated funds and costing over $500,000, in accordance with DoD Instruction 7700.1810.
+(4) The Congress shall be notified of all construction projects, using other than appropriated funds and costing over $500,000, in accordance with DoD Instruction 7700.18 10.
 
 10 See footnote 1 to § 231.1(a).
 

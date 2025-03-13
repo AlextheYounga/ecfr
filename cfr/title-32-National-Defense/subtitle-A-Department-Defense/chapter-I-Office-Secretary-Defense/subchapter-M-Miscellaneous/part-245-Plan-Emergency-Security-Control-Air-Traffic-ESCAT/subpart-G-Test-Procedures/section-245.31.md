@@ -10,7 +10,7 @@ The following air control measures are being implemented. (Some examples are: Fl
 
 All aircraft not previously mentioned as exemptions are restricted from flight in the affected area until further notice.
 
-and/or
+ and/or
 
 EATPL Priorities \_\_\_\_\_\_\_\_ through \_\_\_\_\_\_\_\_ are being implemented.
 

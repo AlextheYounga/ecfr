@@ -218,7 +218,7 @@ For the duration of Medicare's “Hospitals Without Walls” initiative for the 
 
 (I) Has in effect an operating plan and budget.
 
-(J) Meets such provisions of the most current edition of the Life Safety Code8 as are applicable to nursing facilities; except that if the Secretary of Health and Human Services has waived, for such periods, as deemed appropriate, specific provisions of such code which, if rigidly applied, would result in unreasonable hardship upon a nursing facility.
+(J) Meets such provisions of the most current edition of the Life Safety Code 8 as are applicable to nursing facilities; except that if the Secretary of Health and Human Services has waived, for such periods, as deemed appropriate, specific provisions of such code which, if rigidly applied, would result in unreasonable hardship upon a nursing facility.
 
 8 Compiled and published by the National Fire Protection Association, Batterymarch Park, Quincy, Massachusetts 02269.
 
@@ -232,8 +232,7 @@ If a pediatric SNF is certified by Medicaid, it will be considered to meet the M
 
 (A) *Organization and administration*—(*1*) *Definition.* A Residential Treatment Center (RTC) is a facility or a distinct part of a facility that provides to beneficiaries under 21 years of age a medically supervised, interdisciplinary program of mental health treatment. An RTC is appropriate for patients whose predominant symptom presentation is essentially stabilized, although not resolved, and who have persistent dysfunction in major life areas. Residential treatment may be complemented by family therapy and case management for community based resources. Discharge planning should support transitional care for the patient and family, to include resources available in the geographic area where the patient will be residing. The extent and pervasiveness of the patient's problems require a protected and highly structured therapeutic environment. Residential treatment is differentiated from:
 
-(*i*) Acute psychiatric care, which requires medical treatment and 24-hour availability of a full
-range of diagnostic and therapeutic services to establish and implement an effective plan of care which will reverse life-threatening and/or severely incapacitating symptoms;
+(*i*) Acute psychiatric care, which requires medical treatment and 24-hour availability of a full range of diagnostic and therapeutic services to establish and implement an effective plan of care which will reverse life-threatening and/or severely incapacitating symptoms;
 
 (*ii*) Partial hospitalization, which provides a less than 24-hour-per-day, seven-day-per-week treatment program for patients who continue to exhibit psychiatric problems but can function with support in some of the major life areas;
 
@@ -547,8 +546,7 @@ An infirmary in a boarding school also may qualify under this provision, subject
 
 (*10*) Comply with all requirements of this section applicable to institutional providers generally concerning accreditation requirements, preauthorization, concurrent care review, claims processing, beneficiary liability, double coverage, utilization and quality review, and other matters;
 
-(*11*) Grant the Director, or designee, the right to conduct quality assurance audits or accounting audits with full access to patients and records (including records relating to patients who are not CHAMPUS beneficiaries) to determine the quality and cost effectiveness of care
-rendered. The audits may be conducted on a scheduled or unscheduled (unannounced) basis. This right to audit/review included, but is not limited to:
+(*11*) Grant the Director, or designee, the right to conduct quality assurance audits or accounting audits with full access to patients and records (including records relating to patients who are not CHAMPUS beneficiaries) to determine the quality and cost effectiveness of care rendered. The audits may be conducted on a scheduled or unscheduled (unannounced) basis. This right to audit/review included, but is not limited to:
 
 (*i*) Examination of fiscal and all other records of the center which would confirm compliance with the participation agreement and designation as an authorized TRICARE provider;
 
@@ -990,7 +988,7 @@ No dual status will be recognized by the Office of CHAMPUS. Pastoral counselors 
 
 (*2*) Grace period for therapists or counselors in states where licensure/certification is optional. CHAMPUS is providing a grace period for those therapists or counselors who did not obtain optional licensure/certification in their jurisdiction, not realizing it was a CHAMPUS requirement for authorization. The exemption by state law for pastoral counselors may have misled this group into thinking licensure was not required. The same situation may have occurred with the other therapist or counselor categories where licensure was either not mandated by the state or was provided under a more general category such as “professional counselors.” This grace period pertains only to the licensure/certification requirement, applies only to therapists or counselors who are already approved as of October 29, 1990, and only in those areas where the licensure/certification is optional. Any therapist or counselor who is not licensed/certified in the state in which he/she is practicing by August 1, 1991, will be terminated under the provisions of § 199.9. This grace period does not change any of the other existing requirements which remain in effect. During this grace period, membership or proof of eligibility for full clinical membership in a recognized professional association is required for those therapists or counselors who are not licensed or certified by the state. The following organizations are recognized for therapists or counselors at the level indicated: Full clinical member of the American Association of Marriage and Family Therapy; membership at the fellow or diplomate level of the American Association of Pastoral Counselors; and membership in the National Academy of Certified Clinical Mental Health Counselors. Acceptable proof of eligibility for membership is a letter from the appropriate certifying organization. This opportunity for delayed certification/licensure is limited to the counselor or therapist category only as the language in all of the other provider categories has been consistent and unmodified from the time each of the other provider categories were added. The grace period does not apply in those states where licensure is mandatory.
 
-(E) *Christian Science practitioners and Christian Science nurses.* CHAMPUS cost-shares the services of Christian Science practitioners and nurses. In order to bill as such, practitioners or nurses must be listed or be eligible for listing in the Christian Science Journal1 at the time the service is provided.
+(E) *Christian Science practitioners and Christian Science nurses.* CHAMPUS cost-shares the services of Christian Science practitioners and nurses. In order to bill as such, practitioners or nurses must be listed or be eligible for listing in the Christian Science Journal 1 at the time the service is provided.
 
 1 Copies of this journal can be obtained through the Christian Science Publishing Company, 1 Norway Street, Boston, MA 02115-3122 or the Christian Science Publishing Society, P.O. Box 11369, Des Moines, IA 50340.
 

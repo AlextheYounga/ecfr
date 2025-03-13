@@ -1,6 +1,6 @@
 ##### § 37.895 How is the final performance report to be sent to the Defense Technical Information Center? #####
 
-(a) Whether your TIA requires a final performance report or uses an alternative means under § 37.890,5 you may include an award term or condition or otherwise instruct the recipient to submit the documentation, electronically if available, either:
+(a) Whether your TIA requires a final performance report or uses an alternative means under § 37.890, 5 you may include an award term or condition or otherwise instruct the recipient to submit the documentation, electronically if available, either:
 
 5 Additional information on electronic submission to the DTIC can be found online, currently at *http://www.dtic.mil/dtic/submitting/elec\_subm.html.*
 

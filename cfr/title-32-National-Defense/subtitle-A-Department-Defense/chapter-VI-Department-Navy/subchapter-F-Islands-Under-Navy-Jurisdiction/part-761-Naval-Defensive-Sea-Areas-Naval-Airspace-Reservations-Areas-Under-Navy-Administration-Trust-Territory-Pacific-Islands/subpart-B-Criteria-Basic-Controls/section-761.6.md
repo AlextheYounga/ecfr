@@ -6,7 +6,7 @@
 
 (b) *Adverse.* Substantial evidence of any of the following shall preclude the granting of entry authorization except with the specific approval of the Chief of Naval Operations in each case:
 
-(1) Prior noncompliance with entry control regulations or failure to observe terms under which any entry authorization may have been granted;1
+(1) Prior noncompliance with entry control regulations or failure to observe terms under which any entry authorization may have been granted; 1
 
 1 The criteria so marked are applicable only to those applications concerning entry into areas under military cognizance.
 
@@ -22,19 +22,19 @@
 
 (7) Knowing membership with the specific intent of furthering the aims of, or adherence to and active participation in, any foreign or domestic organization, association, movement, group, or combination of persons (hereinafter referred to as organizations) which unlawfully advocates or practices the commission of acts of force or violence to prevent others from exercising their rights under the Constitution or laws of the United States or of any State, or which seeks to overthrow the Government of the United States or any State or subdivision thereof by unlawful means;
 
-(8) Serious mental irresponsibility evidenced by having been adjudged insane, or mentally irresponsible, or an incompetent, or a chronic alcoholic, or treated for serious mental or neurological disorders or for chronic alcoholism, without evidence of cure;1
+(8) Serious mental irresponsibility evidenced by having been adjudged insane, or mentally irresponsible, or an incompetent, or a chronic alcoholic, or treated for serious mental or neurological disorders or for chronic alcoholism, without evidence of cure; 1
 
 1 The criteria so marked are applicable only to those applications concerning entry into areas under military cognizance.
 
 (9) Conviction of any of the following offenses under circumstances indicative of a criminal tendency potentially dangerous to the security of a strategic area containing military establishments; arson, unlawful trafficking in drugs, murder, kidnaping, blackmail, or sex offenses involving minors or perversion.
 
-(10) Chronic alcoholism or addiction to the use of narcotic drugs without adequate evidence of rehabilitation;1
+(10) Chronic alcoholism or addiction to the use of narcotic drugs without adequate evidence of rehabilitation; 1
 
-(11) Illegal presence in the United States, its territories or possessions, having been finally subject to deportation order, or voluntary departure in lieu of deportation order, by the United States Immigration and Naturalization Service;1
+(11) Illegal presence in the United States, its territories or possessions, having been finally subject to deportation order, or voluntary departure in lieu of deportation order, by the United States Immigration and Naturalization Service; 1
 
-(12) Being the subject of proceedings for deportation or voluntary departure in lieu of deportation for any reasons which have not been determined in the applicant's favor;1
+(12) Being the subject of proceedings for deportation or voluntary departure in lieu of deportation for any reasons which have not been determined in the applicant's favor; 1
 
-(13) Conviction of larceny of property of the United States, willful injury to or destruction of property of the United States, fraudulent enlistment, impersonation of a commissioned officer of the United States or any state or territory thereof, or any offense involving moral turpitude, except offenses, which, in the jurisdiction within which the conviction was obtained, are punishable by imprisonment for not more than one year or a fine of not more than one thousand dollars.1
+(13) Conviction of larceny of property of the United States, willful injury to or destruction of property of the United States, fraudulent enlistment, impersonation of a commissioned officer of the United States or any state or territory thereof, or any offense involving moral turpitude, except offenses, which, in the jurisdiction within which the conviction was obtained, are punishable by imprisonment for not more than one year or a fine of not more than one thousand dollars. 1
 
 (c) *Aliens.* (1) Entry of aliens for employment or residence in an area entirely within the borders of a defense area is not authorized except when such entry would serve the interests of National Defense, and then only for specified periods and under prescribed conditions.
 

@@ -4,7 +4,7 @@ The *Secretaries of the Military Departments* shall:
 
 (a) Ensure nondiscrimination in referring DoD personnel to off-base housing facilities.
 
-(b) Continue efforts (as described in DoD 4165.63-M2 to identify and solicit nondiscriminatory assurances for housing facilities within the commuting area, which are considered to be suitable for occupancy by Service members.
+(b) Continue efforts (as described in DoD 4165.63-M 2 to identify and solicit nondiscriminatory assurances for housing facilities within the commuting area, which are considered to be suitable for occupancy by Service members.
 
 2 See footnote 1 to § 192.4.
 

@@ -478,8 +478,7 @@ This provision is not meant to imply that when extra time and special effort are
 
 (*8*) *Collateral visits.* Covered collateral visits are those that are medically or psychologically necessary for the treatment of the patient.
 
-(*9*) *Medication assisted treatment.* Medication assisted treatment, combining pharmacotherapy and holistic care, to include provision in office-based opioid treatment by an authorized TRICARE provider, is covered. The practice of an individual physician in office-based treatment is regulated by the Department of Health and Human Services' 42 CFR 8.12,
-the Center for Substance Abuse Treatment (CSAT), and the Drug Enforcement Administration (DEA), along with individual state and local regulations.
+(*9*) *Medication assisted treatment.* Medication assisted treatment, combining pharmacotherapy and holistic care, to include provision in office-based opioid treatment by an authorized TRICARE provider, is covered. The practice of an individual physician in office-based treatment is regulated by the Department of Health and Human Services' 42 CFR 8.12, the Center for Substance Abuse Treatment (CSAT), and the Drug Enforcement Administration (DEA), along with individual state and local regulations.
 
 (B) *Therapeutic settings*—(*1*) *Outpatient psychotherapy.* Outpatient psychotherapy generally is covered for individual, family, conjoint, collateral, and/or group sessions.
 

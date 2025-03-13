@@ -42,7 +42,7 @@ The DoD Components in control of the maintenance, operation, and protection of F
 
 (1) A determination that a building contains a satisfactory site or sites is presumed if the State licensing agency and the on-site official consult and agree that the site or sites provided are satisfactory.
 
-(i) The Heads of the DoD Components shall notify the appropriate State licensing agency2 by certified or registered mail, return receipt requested, of buildings to be acquired or substantially altered or renovated. This notification shall be provided at least 60 days in advance of the intended acquisition date or the initiation of actual construction, alteration, or renovation. As a practical matter, the State licensing agency should be contacted early in the planning or design stage of a project. This notification shall:
+(i) The Heads of the DoD Components shall notify the appropriate State licensing agency 2 by certified or registered mail, return receipt requested, of buildings to be acquired or substantially altered or renovated. This notification shall be provided at least 60 days in advance of the intended acquisition date or the initiation of actual construction, alteration, or renovation. As a practical matter, the State licensing agency should be contacted early in the planning or design stage of a project. This notification shall:
 
 2 See the U.S. Department of Education Web site, Office of Special Education and Rehabilitative Services at *http://www.ed.gov.*
 

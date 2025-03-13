@@ -8,10 +8,8 @@
 
 (d) The GHG measure specified in § 490.507(b) shall be computed to the nearest tenth of a percent as follows:
 
-![](/graphics/er07de23.001.gif)Where:(Tailpipe CO2 Emissions on NHS)CY = total tailpipe CO2 emissions on the NHS in a calendar year (expressed in million metric tons (mmt), and rounded to the nearest hund
-redth); and(Tailpipe CO2 Emissions on NHS)reference year = total tailpipe CO2 emissions on the NHS in calendar year 2022 (expressed in million metric tons (mmt), and rounded to the nearest hundredth).
+![](/graphics/er07de23.001.gif)Where:(Tailpipe CO2 Emissions on NHS)CY = total tailpipe CO2 emissions on the NHS in a calendar year (expressed in million metric tons (mmt), and rounded to the nearest hund redth); and(Tailpipe CO2 Emissions on NHS)reference year = total tailpipe CO2 emissions on the NHS in calendar year 2022 (expressed in million metric tons (mmt), and rounded to the nearest hundredth).
 
 (d) The GHG measure specified in § 490.507(b) shall be computed to the nearest tenth of a percent as follows:
 
-![](/graphics/er07de23.001.gif)Where:(Tailpipe CO2 Emissions on NHS)CY = total tailpipe CO2 emissions on the NHS in a calendar year (expressed in million metric tons (mmt), and rounded to the nearest hund
-redth); and(Tailpipe CO2 Emissions on NHS)reference year = total tailpipe CO2 emissions on the NHS in calendar year 2022 (expressed in million metric tons (mmt), and rounded to the nearest hundredth).[82 FR 6031, Jan. 18, 2017, as amended at 83 FR 24936, May 31, 2018; 88 FR 85393, Dec. 7, 2023]
+![](/graphics/er07de23.001.gif)Where:(Tailpipe CO2 Emissions on NHS)CY = total tailpipe CO2 emissions on the NHS in a calendar year (expressed in million metric tons (mmt), and rounded to the nearest hund redth); and(Tailpipe CO2 Emissions on NHS)reference year = total tailpipe CO2 emissions on the NHS in calendar year 2022 (expressed in million metric tons (mmt), and rounded to the nearest hundredth).[82 FR 6031, Jan. 18, 2017, as amended at 83 FR 24936, May 31, 2018; 88 FR 85393, Dec. 7, 2023]

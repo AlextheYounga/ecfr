@@ -26,7 +26,7 @@
 
 (d) The *Under Secretary of Defense (Comptroller)/Chief Financial Officer* concerning debts (except those described in paragraphs (e) and (f) of this section) resulting from DoD Component activity shall:
 
-(1) If the aggregate amount of the debt is $1,500 or less, deny or grant all or part of a waiver application pursuant to enclosure 2 of DoD Directive 5118.3.1
+(1) If the aggregate amount of the debt is $1,500 or less, deny or grant all or part of a waiver application pursuant to enclosure 2 of DoD Directive 5118.3. 1
 
 1 Available at *http://www.dtic.mil/whs/directives/.*
 
@@ -38,7 +38,7 @@
 
 (e) The *Director, Department of Defense Education Activity*, under the *Under Secretary of Defense for Personnel and Readiness* concerning debts of civilian employees resulting from that Component's activity shall:
 
-(1) If the aggregate amount of the debt is $1,500 or less, deny or grant all or part of a waiver application pursuant to enclosure 2 of DoD Directive 1342.6.2
+(1) If the aggregate amount of the debt is $1,500 or less, deny or grant all or part of a waiver application pursuant to enclosure 2 of DoD Directive 1342.6. 2
 
 2 Available at *http://www.dtic.mil/whs/directives/.*
 

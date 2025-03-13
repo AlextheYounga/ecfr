@@ -20,7 +20,7 @@
 
 (*a*) Complete a reserve obligation under the provisions of part 50 of this subchapter, or
 
-(*b*) Attend a recognized institution of learning under the early release program, as provided in DoD Instruction 1332.15, “Early Release of Military Enlisted Personnel for College or Vocational/Technical School Enrollment,” January 26, 1970.1
+(*b*) Attend a recognized institution of learning under the early release program, as provided in DoD Instruction 1332.15, “Early Release of Military Enlisted Personnel for College or Vocational/Technical School Enrollment,” January 26, 1970. 1
 
 1 Filed as part of original. Copies available from the U.S. Naval Publications and Forms Center, 5801 Tabor Avenue, Philadelphia, PA. 19120, Attention: Code 300.
 
@@ -60,7 +60,7 @@
 
 (c) *Naturalization of alien spouses and/or alien adopted children of military and civilian personnel ordered overseas.* Alien spouses and/or alien adopted children of military and civilian personnel of the Department of Defense who are authorized to accompany or join their sponsors overseas and who wish to obtain U.S. citizenship prior to departure will be given maximum assistance by commanders of military installations.
 
-(1) DD Form 1278, “Certificate of Overseas Assignment to Support Application to File Petition for Naturalization,”2 will be issued to alien dependents by military commanders at the times indicated below in order that the alien may file such certificate with the nearest Immigration and Naturalization Service Office to initiate naturalization proceedings. Only DD Form 1278 will be accepted by the Immigration and Naturalization Service. Military commanders will not issue memoranda or letters of any kind in lieu thereof.
+(1) DD Form 1278, “Certificate of Overseas Assignment to Support Application to File Petition for Naturalization,” 2 will be issued to alien dependents by military commanders at the times indicated below in order that the alien may file such certificate with the nearest Immigration and Naturalization Service Office to initiate naturalization proceedings. Only DD Form 1278 will be accepted by the Immigration and Naturalization Service. Military commanders will not issue memoranda or letters of any kind in lieu thereof.
 
 2 Filed as part of original. Copies may be obtained from Departments of the Army, Navy, and Air Force.
 

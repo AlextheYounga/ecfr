@@ -6,7 +6,7 @@ If your expenditure-based TIA provides for audits of a for-profit participant by
 
 (b) Who will pay for periodic and award-specific audits. The allocable portion of the costs of any audits by IPAs may be reimbursable under the TIA. The costs may be direct charges or allocated indirect costs, consistent with the participant's accounting system and practices.
 
-(c) The auditing standards that the IPA will use. Unless you receive prior approval from the OIG, DoD, to do otherwise, you must provide that the IPA will perform the audits in accordance with the Generally Accepted Government Auditing Standards.2
+(c) The auditing standards that the IPA will use. Unless you receive prior approval from the OIG, DoD, to do otherwise, you must provide that the IPA will perform the audits in accordance with the Generally Accepted Government Auditing Standards. 2
 
 2 The electronic document may be accessed at *www.gao.gov.* Printed copies may be purchased from the U.S. Government Printing Office; for ordering information, call (202) 512-1800 or access the Internet site at *www.gpo.gov.*
 

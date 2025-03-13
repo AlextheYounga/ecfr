@@ -1,14 +1,14 @@
 ##### § 611.100 Eligible applicant. #####
 
-Link to an amendment published at 89 FR 33203, Apr. 29, 2024.
-
 (a) In order to be eligible to receive a loan under this part, an applicant
 
-(1) Must be either—
+(1) Must be—
 
-(i) An automobile manufacturer that can demonstrate an improved fuel economy as specified in paragraph (b) of this section, or
+(i) An on-road advanced technology vehicle manufacturer that, if it is a light duty vehicle manufacturer, can demonstrate an improved fuel economy as specified in paragraph (b) of this section, or otherwise satisfies the applicable standards set forth in the definition of on-road advanced technology vehicle,
 
-(ii) A manufacturer of a qualifying component; and
+(ii) A manufacturer of a qualifying component, or
+
+(iii) A nonroad advanced technology vehicle manufacturer; and
 
 (2) Must be financially viable without receipt of additional Federal funding associated with the proposed eligible project.
 
@@ -41,3 +41,5 @@ Link to an amendment published at 89 FR 33203, Apr. 29, 2024.
 (8) Financial projections demonstrating the applicant's solvency through the period of time that the loan is outstanding.
 
 (d). For purposes of making a determination under paragraph (a)(2) of this section, additional Federal funding includes any loan, grant, guarantee, insurance, payment, rebate, subsidy, credit, tax benefit, or any other form of direct or indirect assistance from the Federal government, or any agency or instrumentality thereof, other than the proceeds of a loan approved under this Part, that is, or is expected to be made available with respect to, the project for which the loan is sought under this Part.
+
+[73 FR 66731, Nov. 12, 2008, as amended at 89 FR 33203, Apr. 29, 2024]

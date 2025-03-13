@@ -22,7 +22,7 @@
 
 (3) Maintaining a close working relationship with the personnel in the finance and accounting office responsible for making the payments. A good working relationship is necessary, to ensure timely and accurate handling of financial transactions for grants and cooperative agreements. Administrative grants officers:
 
-(i) Should be generally familiar with policies and procedures for disbursing offices that are contained in Chapter 19 of Volume 10 of the DoD Financial Management Regulation (the FMR, DoD 7000.14-R10).
+(i) Should be generally familiar with policies and procedures for disbursing offices that are contained in Chapter 19 of Volume 10 of the DoD Financial Management Regulation (the FMR, DoD 7000.14-R 10).
 
 10 See footnote 8 to § 22.715(a)(4).
 

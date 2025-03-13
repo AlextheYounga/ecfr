@@ -30,7 +30,7 @@
 
 (1) Provide administrative and logistic support, as the DoD Executive Agent, to the S&S organizations.
 
-(2) Support NAF and APF accounting and reporting procedures required by DoD Instruction 7000.125, in coordination with the Unified Commands and the Director of the AFIS.
+(2) Support NAF and APF accounting and reporting procedures required by DoD Instruction 7000.12 5, in coordination with the Unified Commands and the Director of the AFIS.
 
 5 See footnote 1 to § 246.4(c).
 
@@ -72,7 +72,7 @@
 
 (vii) Provides a current status briefing and 2-year financial forecast to the Director of the AFIS at the annual AFIS S&S meeting. Provides support to the S&S board of directors as required in appendix E to this part.
 
-(viii) Conducts frequent independent readership surveys, in accordance with DoD Instruction 1100.136, and readership focus groups to gather information.
+(viii) Conducts frequent independent readership surveys, in accordance with DoD Instruction 1100.13 6, and readership focus groups to gather information.
 
 6 See footnote 1 to § 246.4(c).
 

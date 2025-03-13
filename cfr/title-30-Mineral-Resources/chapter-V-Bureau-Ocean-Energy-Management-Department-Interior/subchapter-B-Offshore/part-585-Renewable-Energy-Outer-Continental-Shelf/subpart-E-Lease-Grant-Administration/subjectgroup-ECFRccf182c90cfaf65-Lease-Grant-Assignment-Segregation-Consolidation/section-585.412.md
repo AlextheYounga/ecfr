@@ -1,0 +1,5 @@
+##### § 585.412 How does an assignment affect the assignee's liability? #####
+
+(a) As assignee, you are liable for all lease or grant obligations that accrue after BOEM approves the assignment. As assignee, you must comply with all the terms and conditions of the lease or grant and all applicable regulations, remedy all existing environmental and operational problems on the lease or grant, and comply with all decommissioning requirements under 30 CFR part 285, subpart I.
+
+(b) Assignees are bound to comply with each term or condition of the lease or grant and the regulations in this part and 30 CFR part 285. You are jointly and severally liable for the performance of all obligations under the lease or grant and under the regulations in this part and 30 CFR part 285 with each prior and subsequent lessee who held an interest from the time the obligation accrued until it is satisfied, unless this part provides otherwise.

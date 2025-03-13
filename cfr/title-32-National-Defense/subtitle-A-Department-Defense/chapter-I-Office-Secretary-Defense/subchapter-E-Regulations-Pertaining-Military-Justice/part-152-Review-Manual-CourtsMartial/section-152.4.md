@@ -2,7 +2,7 @@
 
 (a) The General Counsel to the Department of Defense shall:
 
-(1) Administer this part, to include coordination on and approval of legislative proposals to amend the UCMJ, approval of the annual review of the MEM, and coordination of any proposed changes to the MCM under OMB Circular A-19.1
+(1) Administer this part, to include coordination on and approval of legislative proposals to amend the UCMJ, approval of the annual review of the MEM, and coordination of any proposed changes to the MCM under OMB Circular A-19. 1
 
 1 Available at *http://www.whitehouse.gov/omb/circulars/index.html.*
 
@@ -18,7 +18,7 @@
 
 (b) The Secretaries of the Military Departments shall ensure that the Judge Advocates General of the Military Departments and the Staff Judge Advocate to the Commandant of the Marine Corps appoint representatives to the JSC.
 
-(c) The JSC shall further the DoD policy established in section 3 of this part and perform additional studies or other duties related to the administration of military justice, as the General Counsel of the Department of Defense may direct. (See DoD Directive 5105.18, “DoD Committee Management Program”.2) The membership of the JSC shall consist of one representative of each of the following, who shall comprise the JSC Voting Group:
+(c) The JSC shall further the DoD policy established in section 3 of this part and perform additional studies or other duties related to the administration of military justice, as the General Counsel of the Department of Defense may direct. (See DoD Directive 5105.18, “DoD Committee Management Program”. 2) The membership of the JSC shall consist of one representative of each of the following, who shall comprise the JSC Voting Group:
 
 2 Available at *http://www.dtic.mil/whs/directives.*
 

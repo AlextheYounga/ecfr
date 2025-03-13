@@ -1,7 +1,5 @@
 ##### § 285.417 When may BSEE order a suspension? #####
 
-Link to an amendment published at 89 FR 42714, May 15, 2024.
-
 (a) BSEE may order a suspension under the following circumstances:
 
 (1) When necessary to comply with judicial decrees prohibiting some or all activities under your lease; or
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 42714, May 15, 2024.
 
 (1) You may be required to pay for the study;
 
-(2) You must furnish one paper copy and one electronic copy of the study and results to us;
+(2) You must furnish an electronic copy of the study and results to BSEE pursuant to § 285.110;
 
 (3) We will make the results available to other interested parties and to the public; and
 
@@ -21,3 +19,5 @@ Link to an amendment published at 89 FR 42714, May 15, 2024.
 (i) To decide if the suspension order can be lifted; and
 
 (ii) To determine any actions that you must take to mitigate or avoid any damage to natural resources; life (including human and wildlife); property; the marine, coastal, or human environment; or sites, structures, or objects of historical or archaeological significance.
+
+[88 FR 6413, Jan. 31, 2023, as amended at 89 FR 42714, May 15, 2024]

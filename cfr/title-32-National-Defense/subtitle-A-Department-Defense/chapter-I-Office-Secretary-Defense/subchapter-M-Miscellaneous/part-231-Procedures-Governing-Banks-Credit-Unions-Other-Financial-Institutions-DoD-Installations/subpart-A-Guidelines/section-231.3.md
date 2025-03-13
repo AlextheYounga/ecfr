@@ -20,7 +20,7 @@
 
 (6) Serve as principal liaison with banking institutions having offices on overseas DoD installations. In this capacity, monitor MBF managerial and operational policies, procedures, and operating results and take action as appropriate.
 
-(7) As necessary, assist in the formation of government-to-government agreements for the provision of banking services on overseas DoD installations, in accordance with DoD Directive 5530.32.
+(7) As necessary, assist in the formation of government-to-government agreements for the provision of banking services on overseas DoD installations, in accordance with DoD Directive 5530.3 2.
 
 2 See footnote 1 to § 231.1(a).
 
@@ -70,11 +70,11 @@
 
 (13) Make military locator services available to on-base financial institutions in accordance with the Privacy Act guidelines in subpart B of this part.
 
-(14) Permit DoD personnel to serve on volunteer boards or committees of on-base financial institutions, without compensation, when neither a conflict of duty nor a conflict of interest is involved, in accordance with DoD Directive 5500.7.3
+(14) Permit DoD personnel to serve on volunteer boards or committees of on-base financial institutions, without compensation, when neither a conflict of duty nor a conflict of interest is involved, in accordance with DoD Directive 5500.7. 3
 
 3 See footnote 1 to § 231.1(a).
 
-(15) Allow DoD personnel to attend conferences and meetings that bring together representatives of on-base financial institutions, when neither a conflict of duty nor a conflict of interest is involved, in accordance with DoD Directive 1327.5,4 subchapter 630 of the DoD Civilian Personnel Manual (DoD 1400.25-M5), and Comptroller General Decision B-212457.
+(15) Allow DoD personnel to attend conferences and meetings that bring together representatives of on-base financial institutions, when neither a conflict of duty nor a conflict of interest is involved, in accordance with DoD Directive 1327.5, 4 subchapter 630 of the DoD Civilian Personnel Manual (DoD 1400.25-M 5), and Comptroller General Decision B-212457.
 
 4 See footnote 1 to § 231.1(a).
 

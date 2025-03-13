@@ -1,7 +1,5 @@
 ##### § 285.116 Requests for information on the state of the offshore renewable energy industry. #####
 
-Link to an amendment published at 89 FR 42714, May 15, 2024.
+BSEE may publish a request for information (RFI) in the Federal Register to solicit information from industry, State and local agencies, federally recognized Tribes, and other interested entities for evaluating the offshore renewable energy industry, including the identification of potential challenges or obstacles to its continued development. An RFI may relate to the identification of environmental, technical, regulatory, or economic matters that promote or detract from continued development of renewable energy technologies on the OCS. BSEE may use the information received to refine its renewable energy program, including to facilitate OCS renewable energy development in a safe and environmentally responsible manner and to ensure a fair return to the United States for use of the OCS.
 
-(a) The Director may, from time to time, and at the Director's discretion, solicit information from industry and other relevant stakeholders (including State and local agencies), as necessary, to evaluate the state of the offshore renewable energy industry, including the identification of potential challenges or obstacles to its continued development. Such requests for information may relate to the identification of environmental, technical, regulatory, or economic matters that promote or detract from continued development of renewable energy technologies on the OCS. From the information received, the Director may evaluate potential refinements to the OCS alternative energy program that promote development of the industry in a safe and environmentally responsible manner.
-
-(b) BSEE will publish such requests for information by the Director in the Federal Register.
+[89 FR 42714, May 15, 2024]

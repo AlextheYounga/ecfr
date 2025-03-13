@@ -1,6 +1,6 @@
 ##### § 231.11 Guidelines. #####
 
-(a) The following guidelines govern the application of DoD Directive 5400.1115 to those financial institutions that operate under this part:
+(a) The following guidelines govern the application of DoD Directive 5400.11 15 to those financial institutions that operate under this part:
 
 15 See footnote 1 to § 231.1(a).
 
@@ -20,7 +20,7 @@ I hereby authorize the Department of Defense and its various Components to verif
 
 (ii) When the financial institution presents such signed authorizations, the receiving military command or installation shall provide the appropriate information.
 
-(4) Even though an agreement described in paragraph (a)(3) of this section has not been obtained, the Department of Defense may provide these financial institutions with salary information and, when pertinent, the length or type of civilian or military appointment, consistent with DoD Directives 5400.11 and 5400.7.16 Some examples of personal information pertaining to DoD personnel that normally can be released without creating an unwarranted invasion of personal privacy are name, rank, date of rank, salary, present and past duty assignments, future assignments that have been finalized, office phone number, source of commission, and promotion sequence number.
+(4) Even though an agreement described in paragraph (a)(3) of this section has not been obtained, the Department of Defense may provide these financial institutions with salary information and, when pertinent, the length or type of civilian or military appointment, consistent with DoD Directives 5400.11 and 5400.7. 16 Some examples of personal information pertaining to DoD personnel that normally can be released without creating an unwarranted invasion of personal privacy are name, rank, date of rank, salary, present and past duty assignments, future assignments that have been finalized, office phone number, source of commission, and promotion sequence number.
 
 16 See footnote 1 to 231.1(a).
 

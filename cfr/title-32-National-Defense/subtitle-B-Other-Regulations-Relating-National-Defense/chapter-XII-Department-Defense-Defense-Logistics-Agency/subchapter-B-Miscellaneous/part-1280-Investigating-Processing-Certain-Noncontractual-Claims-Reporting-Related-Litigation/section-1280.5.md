@@ -1,4 +1,4 @@
-##### § 1280.5 Procedures.1 #####
+##### § 1280.5 Procedures. 1 #####
 
 1 Copies of the Military Department regulations mentioned herein may be obtained from the Departments of the Army and Navy, and the Superintendent of Documents, U.S. Government Printing Office.
 

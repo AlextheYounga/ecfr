@@ -1,12 +1,12 @@
 ##### § 247.6 Procedures. #####
 
-(a) *General.* (1) National security information shall be protected in accordance with DoD Directive 5200.111 and DoD 5200.1-R.12
+(a) *General.* (1) National security information shall be protected in accordance with DoD Directive 5200.1 11 and DoD 5200.1-R. 12
 
 11 See footnote 1 to § 247.1.
 
 12 See footnote 1 to § 247.1.
 
-(2) Specific items of internal information of interest to DoD personnel and their family members prepared for publication in DoD publications may be made available to requesters if the information can be released as provided in DoD Directive 5400.713 and DoD 5400.1-R.14
+(2) Specific items of internal information of interest to DoD personnel and their family members prepared for publication in DoD publications may be made available to requesters if the information can be released as provided in DoD Directive 5400.7 13 and DoD 5400.1-R. 14
 
 13 See footnote 1 to § 247.1.
 
@@ -16,7 +16,7 @@
 
 (4) DoD editors of publications covered under this part shall conform to applicable policies, regulations, and laws involving the collection, processing, storage, use, publication and distribution of information by DoD Components (e.g., libel, photographic image alteration, copyright, sexually explicit materials, classification of information, protection of sensitive information and U.S. Government printing and postal regulations).
 
-(5) DoD publications shall comply with DoD Directive 5400.1115 regarding the DoD privacy program.
+(5) DoD publications shall comply with DoD Directive 5400.11 15 regarding the DoD privacy program.
 
 15 See footnote 1 to § 247.1.
 

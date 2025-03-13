@@ -10,7 +10,7 @@
 
 (ii) *Administration.* 10 U.S.C. chapter 55 also authorizes the Secretary of Defense to administer CHAMPUS for the Army, Navy, Air Force, and Marine Corps under DoD jurisdiction, the Secretary of Transportation to administer CHAMPUS for the Coast Guard, when the Coast Guard is not operating as a service in the Navy, and the Secretary of Health and Human Services to administer CHAMPUS for the Commissioned Corps of the NOAA and the USPHS.
 
-(2) *Organizational delegations and assignments*—(i) *Assistant Secretary of Defense (Health Affairs) (ASD(HA)).* The Secretary of Defense, by 32 CFR part 367, delegated authority to the ASD(HA) to provide policy guidance, management control and coordination as required for CHAMPUS, and to develop, issue, and maintain regulations with the coordination of the Military Departments and consistent with DoD 5025.1-M.1 Additional implementing authority is contained in DoD Directive 5105.46.2
+(2) *Organizational delegations and assignments*—(i) *Assistant Secretary of Defense (Health Affairs) (ASD(HA)).* The Secretary of Defense, by 32 CFR part 367, delegated authority to the ASD(HA) to provide policy guidance, management control and coordination as required for CHAMPUS, and to develop, issue, and maintain regulations with the coordination of the Military Departments and consistent with DoD 5025.1-M. 1 Additional implementing authority is contained in DoD Directive 5105.46. 2
 
 1 Copies may be obtained, if needed, from the National Technical Information Service (NTIS), U.S. Department of Commerce, 5285 Port Royal Road, Springfield, VA 22161.
 
@@ -90,7 +90,7 @@ The Director, OCHAMPUS, may also establish similar offices for OCHAMPUS Southern
 
 (2) *Unnecessary services.* The name and address of any provider of medical services, organization, or other person found, after consultation with an appropriate professional association or appropriate peer review body, to have provided unnecessary services. Such information will be released only for the purpose of conducting an investigation or prosecution, or for the administration of titles XVIII and XIX of the Social Security Act, provided that the information will be released only to the agency's enforcement branch and that the agency will preserve the confidentiality of the information received and will not disclose such information for other than program purposes.
 
-(m) *Disclosure of information to the public.* Records and information acquired in the administration of CHAMPUS are records of the Department of Defense and may be disclosed in accordance with DoD Directive 5400.73, DoD 5400.7-R4, and DoD 5400.11-R5 (codified in 32 CFR parts 286 and 286a), constituting the applicable DoD Directives and DoD Regulations implementing the Freedom of Information and the Privacy Acts.
+(m) *Disclosure of information to the public.* Records and information acquired in the administration of CHAMPUS are records of the Department of Defense and may be disclosed in accordance with DoD Directive 5400.7 3, DoD 5400.7-R 4, and DoD 5400.11-R 5 (codified in 32 CFR parts 286 and 286a), constituting the applicable DoD Directives and DoD Regulations implementing the Freedom of Information and the Privacy Acts.
 
 3 See footnote 2 to § 199.1(c)(2)(i)
 

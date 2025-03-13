@@ -18,7 +18,7 @@ Unless otherwise specified, the following definitions apply to this part:
 
 *Mainline highways* means the through travel lanes of any highway. Mainline highways specifically exclude ramps, shoulders, turn lanes, crossovers, rest areas, and other pavement surfaces that are not part of the roadway normally traveled by through traffic.
 
-*Maintenance area* as used in this part is defined in § 450.104 of this chapter, Transportation Planning and Programming Definitions. For the purposes of this part, areas that have reached the end of their 20-year maintenance period1 are not considered as maintenance areas.
+*Maintenance area* as used in this part is defined in § 450.104 of this chapter, Transportation Planning and Programming Definitions. For the purposes of this part, areas that have reached the end of their 20-year maintenance period 1 are not considered as maintenance areas.
 
 1 The maintenance period in CAA Section 175A (42 U.S.C. 7505a) requires the submittal of two maintenance plans totaling 20 years, unless the applicable implementation plan specifics a longer maintenance period. The end of the maintenance period is 20-years from the effective date of the re-designation to attainment and approval of the first 10-year maintenance plan.
 

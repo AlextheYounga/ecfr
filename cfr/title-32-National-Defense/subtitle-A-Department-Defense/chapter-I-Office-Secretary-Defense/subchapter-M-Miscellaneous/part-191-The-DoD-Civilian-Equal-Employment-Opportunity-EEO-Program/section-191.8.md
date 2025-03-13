@@ -6,7 +6,7 @@
 
 (c) The DoD SEP Boards shall be chaired by the DoD SEP Managers. These Boards shall be comprised of designated SEP Managers from the DoD Components and such other individuals as may be necessary to advise and assist in EEO activities and policy development in the Department of Defense. The Boards shall work with career management officials, other key management officials, and union representatives in developing policies, programs, and objectives.
 
-(d) The DEOC, Civilian EEO Review Board, and each SEP Board established at the DoD level shall have a Charter that describes its organization, management, functions, and operating procedures, consistent with DoD Directive 5105.18.10
+(d) The DEOC, Civilian EEO Review Board, and each SEP Board established at the DoD level shall have a Charter that describes its organization, management, functions, and operating procedures, consistent with DoD Directive 5105.18. 10
 
 10 See footnote 1 to § 191.2(c).
 

@@ -6,7 +6,7 @@
 
 *Banking institution.* An entity chartered by a State or the Federal Government to provide financial services.
 
-*Commercial sponsorship.* The act of providing assistance, funding, goods, equipment (including fixed assets), or services to an MWR program or event by an individual, agency, association, company or corporation, or other entity (sponsor) for a specified (limited) period of time in return for public recognition or advertising promotions. Enclosure 9 of DoD Instruction 1015.101 provides general policy governing commercial sponsorship.
+*Commercial sponsorship.* The act of providing assistance, funding, goods, equipment (including fixed assets), or services to an MWR program or event by an individual, agency, association, company or corporation, or other entity (sponsor) for a specified (limited) period of time in return for public recognition or advertising promotions. Enclosure 9 of DoD Instruction 1015.10 1 provides general policy governing commercial sponsorship.
 
 1 Copies may be obtained at *http://www.dtic.mil/whs/directives/.*
 
@@ -26,7 +26,7 @@
 
 *Insurer.* An entity licensed by the appropriate department to engage in the business of insurance.
 
-*Military services.* See Joint Publication 1-02, “DoD Dictionary of Military and Associated Terms.”2
+*Military services.* See Joint Publication 1-02, “DoD Dictionary of Military and Associated Terms.” 2
 
 2 See *http://www.dtic.mil/doctrine/jel/doddict/indexs.html.*
 

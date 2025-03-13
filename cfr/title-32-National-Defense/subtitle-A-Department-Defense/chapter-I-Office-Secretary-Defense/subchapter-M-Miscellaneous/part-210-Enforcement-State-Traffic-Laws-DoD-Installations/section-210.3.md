@@ -1,10 +1,10 @@
 ##### § 210.3 Policy. #####
 
-(a) It is the policy of the Department of Defense that an effective, comprehensive traffic safety program be established and maintained at all military installations as prescribed in DoD Directive 6055.4.1
+(a) It is the policy of the Department of Defense that an effective, comprehensive traffic safety program be established and maintained at all military installations as prescribed in DoD Directive 6055.4. 1
 
 (b) State vehicular and pedestrian traffic laws that are now or may hereafter be in effect shall be expressly adopted and made applicable on military installations to the extent provided by this part. All persons on a military installation shall comply with the vehicular and pedestrian traffic laws of the state in which the installation is located.
 
-(c) Pursuant to the authority established in the Enclosure 1 to DoD Directive 5525.42, installation commanders of all DoD installations in the United States and over which the United States has exclusive or concurrent legislative jurisdiction are delegated the authority to establish additional vehicular and pedestrian traffic rules and regulations for their installations. All persons on a military installation shall comply with locally established vehicular and pedestrian traffic rules and regulations.
+(c) Pursuant to the authority established in the Enclosure 1 to DoD Directive 5525.4 2, installation commanders of all DoD installations in the United States and over which the United States has exclusive or concurrent legislative jurisdiction are delegated the authority to establish additional vehicular and pedestrian traffic rules and regulations for their installations. All persons on a military installation shall comply with locally established vehicular and pedestrian traffic rules and regulations.
 
 2 See footnote 1 to § 210.1.
 

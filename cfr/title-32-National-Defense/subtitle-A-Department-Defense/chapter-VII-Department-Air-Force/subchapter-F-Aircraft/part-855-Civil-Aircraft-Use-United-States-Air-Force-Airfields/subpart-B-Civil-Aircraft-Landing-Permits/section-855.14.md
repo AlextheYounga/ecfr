@@ -30,7 +30,7 @@
 
 (E) Performance of minor maintenance.
 
-(F) Fuel or oil (AFM 67-1, vol 1, part three, chapter 1, Air Force Stock Fund and DPSC Assigned Item Procedures4).
+(F) Fuel or oil (AFM 67-1, vol 1, part three, chapter 1, Air Force Stock Fund and DPSC Assigned Item Procedures 4).
 
 4 See footnote 1 to § 855.6.
 

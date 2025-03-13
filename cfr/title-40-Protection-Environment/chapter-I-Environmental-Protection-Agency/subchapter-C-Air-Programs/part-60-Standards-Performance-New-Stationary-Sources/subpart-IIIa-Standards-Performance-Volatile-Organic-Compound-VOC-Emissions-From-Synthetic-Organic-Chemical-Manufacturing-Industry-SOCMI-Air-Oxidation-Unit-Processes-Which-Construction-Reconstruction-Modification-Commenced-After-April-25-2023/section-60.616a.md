@@ -1,0 +1,3 @@
+##### § 60.616a What do the terms associated with reconstruction mean for this subpart? #####
+
+For purposes of this subpart “fixed capital cost of the new components,” as used in § 60.15, includes the fixed capital cost of all depreciable components which are or will be replaced pursuant to all continuous programs of component replacement which are commenced within any 2-year period following April 25, 2023. For purposes of this section, “commenced” means that you have undertaken a continuous program of component replacement or that you have entered into a contractual obligation to undertake and complete, within a reasonable time, a continuous program of component replacement.

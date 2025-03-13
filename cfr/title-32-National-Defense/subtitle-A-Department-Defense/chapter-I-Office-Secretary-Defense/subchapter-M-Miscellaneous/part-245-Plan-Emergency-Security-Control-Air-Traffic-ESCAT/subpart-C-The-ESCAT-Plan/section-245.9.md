@@ -16,6 +16,6 @@
 
 (h) Homeland Security Act of 2002 (Pub. L. 107-296), establishes DHS and transfers the transportation security functions of the DOT and Secretary of Transportation and the TSA to DHS.
 
-(i) DoD Directive 5030.19,1 “DoD Responsibilities on Federal Aviation and National Airspace System Matters,” outlines DoD/ NORAD responsibilities for the development of plans and policies in concert with the DOT, FAA and USCG for the establishment of a system for identification and emergency security control of air traffic.
+(i) DoD Directive 5030.19, 1 “DoD Responsibilities on Federal Aviation and National Airspace System Matters,” outlines DoD/ NORAD responsibilities for the development of plans and policies in concert with the DOT, FAA and USCG for the establishment of a system for identification and emergency security control of air traffic.
 
 1 Copies may be obtained at *http://www.dtic.mil/whs/directives/corres/dir2.html.*

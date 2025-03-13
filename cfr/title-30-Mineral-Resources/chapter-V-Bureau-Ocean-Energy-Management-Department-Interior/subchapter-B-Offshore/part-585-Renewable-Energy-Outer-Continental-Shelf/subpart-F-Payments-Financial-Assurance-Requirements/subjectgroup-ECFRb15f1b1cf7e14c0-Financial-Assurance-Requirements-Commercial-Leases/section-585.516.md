@@ -1,0 +1,13 @@
+##### § 585.516 What are the financial assurance requirements for each stage of my commercial lease? #####
+
+(a) The financial assurance requirements for each stage of your commercial lease are:
+
+|                                 Before BOEM will . . .                                 |                                                                                                                                                    You must provide . . .                                                                                                                                                    |
+|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|(1) Execute a commercial lease or approve an assignment of an existing commercial lease.|                                                                                                                       A bond or other authorized financial assurance in the amount of 12 months' rent.                                                                                                                       |
+|                (2) Allow you to install facilities approved in your SAP                |                                                                            A supplemental bond or other authorized financial assurance in an amount determined by BOEM based on the anticipated decommissioning costs of the proposed facilities.                                                                            |
+|                (3) Allow you to install facilities approved in your COP                |A supplemental bond or other authorized financial assurance in an amount determined by BOEM based on anticipated decommissioning costs of the proposed facilities. If you propose to incrementally fund your financial assurance instrument, BOEM must approve the schedule for providing the appropriate financial assurance.|
+
+(b) Each bond or other authorized financial assurance must guarantee compliance with this part, the applicable plan approvals, and the terms and conditions of the lease.
+
+(c) For hydrokinetic commercial leases, supplemental financial assurance may be required in an amount determined by BOEM prior to installation of facilities pursuant to a FERC license.

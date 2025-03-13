@@ -6,7 +6,7 @@
 
 (ii) A specific appointment has been made for each meeting with the individual concerned. Each meeting is conducted only in family quarters or in other areas designated by the installation commander.
 
-(iii) The solicitor agrees to provide each person solicited the personal commercial solicitation evaluation included in DD Form 28853 during the initial appointment. The person being solicited is not required to complete the evaluation. However, completed evaluations should be sent by the person who was solicited to the office designated by the installation commander on the back of the evaluation form.
+(iii) The solicitor agrees to provide each person solicited the personal commercial solicitation evaluation included in DD Form 2885 3 during the initial appointment. The person being solicited is not required to complete the evaluation. However, completed evaluations should be sent by the person who was solicited to the office designated by the installation commander on the back of the evaluation form.
 
 3 Copies may be obtained from *http://www.dtic.mil/whs/directives/infomgt/forms/forminfo/forminfopage2239.html.*
 
@@ -54,7 +54,7 @@
 
 (4) Use of official military identification cards or DoD vehicle decals by active duty, retired or reserve members of the Military Services to gain access to DoD installations for the purpose of soliciting. When entering the installation for the purpose of solicitation, solicitors with military identification cards and/or DoD vehicle decals must present documentation issued by the installation authorizing solicitation.
 
-(5) Procuring, attempting to procure, supplying, or attempting to supply non-public listings of DoD personnel for purposes of commercial solicitation, except for releases made in accordance with DoD Directive 5400.7.4
+(5) Procuring, attempting to procure, supplying, or attempting to supply non-public listings of DoD personnel for purposes of commercial solicitation, except for releases made in accordance with DoD Directive 5400.7. 4
 
 4 See footnote 1 to § 50.3.
 
@@ -66,13 +66,13 @@
 
 (9) Using oral or written representations to suggest or give the appearance that the Department of Defense sponsors or endorses any particular company, its agents, or the goods, services, and commodities it sells.
 
-(10) DoD personnel making personal commercial solicitations or sales to DoD personnel who are junior in rank or grade, or to the family members of such personnel, except as authorized in Section 2-205 and 5-409 of the Joint Ethics Regulation, DoD 5500.7-R.5
+(10) DoD personnel making personal commercial solicitations or sales to DoD personnel who are junior in rank or grade, or to the family members of such personnel, except as authorized in Section 2-205 and 5-409 of the Joint Ethics Regulation, DoD 5500.7-R. 5
 
 5 See footnote 1 to § 50.3.
 
 (11) Entering into any unauthorized or restricted area.
 
-(12) Using any portion of installation facilities, including quarters, as a showroom or store for the sale of goods or services, except as specifically authorized by DoD Directive 1330.176 and DoD Instructions 1015.10, 1000.157 and 1330.21.8 This does not apply to normal home enterprises that comply with applicable State and local laws and installation rules.
+(12) Using any portion of installation facilities, including quarters, as a showroom or store for the sale of goods or services, except as specifically authorized by DoD Directive 1330.17 6 and DoD Instructions 1015.10, 1000.15 7 and 1330.21. 8 This does not apply to normal home enterprises that comply with applicable State and local laws and installation rules.
 
 6 See footnote 1 to § 50.3.
 
@@ -100,7 +100,7 @@
 
 (vi) The possession of, and any attempt to obtain supplies of direct deposit forms, or any other form or device used by Military Departments to direct a Service member's pay to a third party, or possession or use of facsimiles thereof. This includes using or assisting in using a Service member's “MyPay” account or other similar Internet medium for the purpose of establishing a direct deposit for the purchase of insurance or other investment product.
 
-(vii) Failure to incorporate and abide by the Standards of Fairness policies contained in DoD Instruction 1344.9.9
+(vii) Failure to incorporate and abide by the Standards of Fairness policies contained in DoD Instruction 1344.9. 9
 
 9 See footnote 1 to § 50.3.
 
@@ -126,11 +126,11 @@
 
 (3) Solicitors may provide commercial sponsorship to DoD Morale, Welfare and Recreation programs or events according to DoD Instruction 1015.10. However, sponsorship may not be used as a means to obtain personal contact information for any participant at these events without written permission from the individual participant. In addition, commercial sponsors may not use sponsorship to advertise products and/or services not specifically agreed to in the sponsorship agreement.
 
-(4) The installation commander may permit organizations to display sales literature in designated locations subject to command policies. In accordance with DoD 7000.14-R,10 Volume 7(a), distribution of competitive literature or forms by off-base banks and/or credit unions is prohibited on installations where an authorized on-base bank and/or credit union exists.
+(4) The installation commander may permit organizations to display sales literature in designated locations subject to command policies. In accordance with DoD 7000.14-R, 10 Volume 7(a), distribution of competitive literature or forms by off-base banks and/or credit unions is prohibited on installations where an authorized on-base bank and/or credit union exists.
 
 10 See footnote 1 to § 50.3.
 
-(g) *Educational programs.* (1) The Military Departments shall develop and disseminate information and provide educational programs for members of the Military Services on their personal financial affairs, including such subjects as insurance, Government benefits, savings, budgeting, and other financial education and assistance requirements outlined in DoD Instruction 1342.27.11 The Military Departments shall ensure that all instructors are qualified as appropriate for the subject matter presented. The services of representatives of authorized on-base banks and credit unions may be used for this purpose. Under no circumstances shall commercial agents, including representatives of loan, finance, insurance, or investment companies, be used for this purpose. Presentations shall only be conducted at the express request of the installation commander.
+(g) *Educational programs.* (1) The Military Departments shall develop and disseminate information and provide educational programs for members of the Military Services on their personal financial affairs, including such subjects as insurance, Government benefits, savings, budgeting, and other financial education and assistance requirements outlined in DoD Instruction 1342.27. 11 The Military Departments shall ensure that all instructors are qualified as appropriate for the subject matter presented. The services of representatives of authorized on-base banks and credit unions may be used for this purpose. Under no circumstances shall commercial agents, including representatives of loan, finance, insurance, or investment companies, be used for this purpose. Presentations shall only be conducted at the express request of the installation commander.
 
 11 See footnote 1 to § 50.3.
 

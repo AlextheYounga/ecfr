@@ -1,7 +1,5 @@
 ##### § 310.29 Office of the Secretary of Defense (OSD) exemptions. #####
 
-Link to an amendment published at 89 FR 37129, May 6, 2024.
-
 (a) *General information.* The Secretary of Defense designates those Office of the Secretary of Defense (OSD) systems of records which will be exempt from certain provisions of the Privacy Act. There are two types of exemptions, general and specific. The general exemption authorizes the exemption of a system of records from all but a few requirements of the Act. The specific exemption authorizes exemption of a system of records or portion thereof, from only a few specific requirements. If an OSD Component originates a new system of records for which it proposes an exemption, or if it proposes an additional or new exemption for an existing system of records, it shall submit the recommended exemption with the records system notice as outlined in § 311.6. No exemption of a system of records shall be considered automatic for all records in the system. The systems manager shall review each requested record and apply the exemptions only when this will serve significant and legitimate Government purpose.
 
 (b) *General exemptions.* The general exemption provided by 5 U.S.C. 552a(j)(2) may be invoked for protection of systems of records maintained by law enforcement activities. Certain functional records of such activities are not subject to access provisions of the Privacy Act of 1974. Records identifying criminal offenders and alleged offenders consisting of identifying data and notations of arrests, the type and disposition of criminal charges, sentencing, confinement, release, parole, and probation status of individuals are protected from disclosure. Other records and reports compiled during criminal investigations, as well as any other records developed at any stage of the criminal law enforcement process from arrest to indictment through the final release from parole supervision are excluded from release.
@@ -226,4 +224,24 @@ Link to an amendment published at 89 FR 37129, May 6, 2024.
 
 (iii) *Reasons.* From subsection 5 U.S.C. 552a(d) because granting access to information that is properly classified pursuant to E.O. 13526, as implemented by DoD Instruction 5200.01 and DoD Manual 5200.01, Volumes 1 and 3, may cause damage to the national security.
 
-[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 26672, May 17, 2021; 86 FR 31431, June 14, 2021; 87 FR 37999, June 27, 2022; 88 FR 42237, June 30, 2023]
+(29) *System identifier and name.* AARO-0001, All-domain Anomaly Resolution Office (AARO) Report System.
+
+(i) *Exemptions.* This system of records is exempt from 5 U.S.C. 552a(c)(3); (d)(1), (2), (3), and (4); (e)(1); (e)(4)(G), (H), and (I); and (f).
+
+(ii) *Authority.* 5 U.S.C. 552a(k)(1).
+
+(iii) *Exemption from the particular subsections.* Exemption from the particular subsections of the Privacy Act of 1974, as amended, pursuant to exemption (k)(1) is justified for the following reasons:
+
+(A) *Subsections (c)(3) and (d)(1) and (2).* Records in this system of records may contain information concerning individuals that is properly classified pursuant to executive order. Application of exemption (k)(1) for such records may be necessary because access to and amendment of the records, or release of the accounting of disclosures for such records, could reveal classified information. Disclosure of classified records to an individual may cause damage to national security and reveal sensitive sources and methods. Accordingly, application of exemption (k)(1) may be necessary.
+
+(B) *Subsections (d)(3) and (4).* These subsections are inapplicable to the extent an exemption is claimed from (d)(2).
+
+(C) *Subsection (e)(1).* Records within this system may be properly classified pursuant to executive order. In the collection of information for AARO reporting and analysis purposes, it may not always be possible to conclusively determine the relevance and necessity of particular information in the early stages of these types of activities. Additionally, disclosure of classified records to an individual may cause damage to national security and reveal sensitive sources and methods. Accordingly, application of exemption (k)(1) may be necessary.
+
+(D) *Subsections (e)(4)(G) and (H) and subsection (f).* These subsections are inapplicable to the extent exemption is claimed from the access and amendment provisions of subsection (d). Because portions of this system are exempt from the individual access and amendment provisions of subsection (d) for the reasons noted in paragraphs (c)(29)(iii)(A) and (B) of this section, DoD is not required to establish requirements, rules, or procedures with respect to such access or amendment provisions. Providing notice to individuals with respect to the existence of records pertaining to them in the system of records or otherwise setting up procedures pursuant to which individuals may access, view, and seek to amend records pertaining to themselves in the system would potentially undermine national security and the confidentiality of classified information. Accordingly, application of exemption (k)(1) may be necessary.
+
+(E) *Subsection (e)(4)(I).* To the extent that this provision is construed to require more detailed disclosure than the broad information currently published in the system notice concerning categories of sources of records in the system, an exemption from this provision is necessary to protect national security and the confidentiality of sources and methods, and other classified information.
+
+(iv) *Exempt records from other systems.* In the course of carrying out the overall purpose for this system, exempt records from other systems of records may in turn become part of the records maintained in this system. To the extent that copies of exempt records from those other systems of records are maintained in this system, the DoD claims the same exemptions for the records from those other systems that are entered into this system, as claimed for the prior system(s) of which they are a part, provided the reason for the exemption remains valid and necessary.
+
+[84 FR 14730, Apr. 11, 2019, as amended at 86 FR 26672, May 17, 2021; 86 FR 31431, June 14, 2021; 87 FR 37999, June 27, 2022; 88 FR 42237, June 30, 2023; 89 FR 37129, May 6, 2024]

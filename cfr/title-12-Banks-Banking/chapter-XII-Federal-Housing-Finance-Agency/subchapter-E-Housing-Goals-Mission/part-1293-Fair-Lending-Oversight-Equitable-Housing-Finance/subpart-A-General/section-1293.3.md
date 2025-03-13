@@ -1,0 +1,3 @@
+##### § 1293.3 Compliance and enforcement. #####
+
+FHFA may enforce compliance with this part in any manner and through any means within its authority, including but not limited to adverse examination findings or through supervision or enforcement under 12 U.S.C. 4511(b), 4513b, 4631, or 4636. The agency may conduct examinations of a regulated entity's activities related to this part pursuant to 12 U.S.C. 4517.

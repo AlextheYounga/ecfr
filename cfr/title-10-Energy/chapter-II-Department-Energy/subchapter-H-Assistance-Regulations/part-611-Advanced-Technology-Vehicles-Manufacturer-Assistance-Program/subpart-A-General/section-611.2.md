@@ -1,18 +1,10 @@
 ##### § 611.2 Definitions. #####
 
-Link to an amendment published at 89 FR 33203, Apr. 29, 2024.
-
 The definitions contained in this section apply to provisions contained in both this subpart and subpart B of this part.
 
 *Adjusted average fuel economy* means a harmonic production weighted average of the combined fuel economy of all vehicles in a fleet, which were subject to CAFE.
 
-*Advanced technology* vehicle means a passenger automobile or light truck that meets—
-
-(1) The Bin 5 Tier II emission standard established in regulations issued by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act (the Act) (42 U.S.C. 7521(i)), as of the date of application, or a lower-numbered Bin emission standard;
-
-(2) Any new emission standard in effect for fine particulate matter prescribed by the Administrator under the Act (42 U.S.C. 7401 *et seq.*), as of the date of application; and
-
-(3) At least 125 percent of the harmonic production weighted average combined fuel economy, for vehicles with substantially similar attributes in model year 2005.
+*Advanced technology vehicle* means an on-road advanced technology vehicle or a nonroad advanced technology vehicle.
 
 *Agreement* means the contractual loan arrangement between DOE and a Borrower for a loan made by and through the Federal Financing Bank with the full faith and credit of the United States Government on the principal and interest.
 
@@ -60,6 +52,28 @@ The definitions contained in this section apply to provisions contained in both 
 
 *Model year* is defined as that term is defined in 49 U.S.C. 32901.
 
+*Nonroad advanced technology vehicle* means:
+
+(1) A train or locomotive;
+
+(2) A maritime vessel;
+
+(3) An aircraft; and
+
+(4) Hyperloop technology That, in each case, emit, under any possible operational mode or condition, low or zero exhaust emissions of greenhouse gases.
+
+*On-road advanced technology vehicle* means
+
+(1) An ultra efficient vehicle or a light duty vehicle that meets—
+
+(i) The Bin 5 Tier II emission standard established in regulations issued by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act (the Act) (42 U.S.C. 7521(i)), as of the date of application, or a lower-numbered Bin emission standard;
+
+(ii) Any new emission standard in effect for fine particulate matter prescribed by the Administrator under the Act (42 U.S.C. 7401 *et seq.*), as of the date of application; and
+
+(iii) At least 125 percent of the harmonic production weighted average combined fuel economy, for vehicles with substantially similar attributes in model year 2005.
+
+(2) A medium duty vehicle or heavy duty vehicle that exceeds 125 percent of the greenhouse gas emissions and fuel efficiency standards established by the final rule of the Environmental Protection Agency entitled “Greenhouse Gas Emissions and Fuel Efficiency Standards for Medium- and Heavy-Duty Engines and Vehicles—Phase 2” (81 FR 73478 (October 25, 2016)).
+
 *Passenger automobile* is used as that term is defined in 49 CFR part 523.
 
 *Qualifying components* means components that the DOE determines are:
@@ -74,4 +88,12 @@ The definitions contained in this section apply to provisions contained in both 
 
 *Security* means all property, real or personal, tangible or intangible, required by the provisions of the Loan Documents to secure repayment of any indebtedness of the Borrower under the Loan Documents.
 
-[86 FR 3761, Jan. 15, 2021]
+*Ultra efficient vehicle* means a fully closed compartment vehicle designed to carry at least 2 adult passengers that achieves—
+
+(1) At least 75 miles per gallon while operating on gasoline or diesel fuel;
+
+(2) At least 75 miles per gallon equivalent while operating as a hybrid electric-gasoline or electric-diesel vehicle; or
+
+(3) At least 75 miles per gallon equivalent while operating as a fully electric vehicle.
+
+[86 FR 3761, Jan. 15, 2021, as amended at 89 FR 33203, Apr. 29, 2024]

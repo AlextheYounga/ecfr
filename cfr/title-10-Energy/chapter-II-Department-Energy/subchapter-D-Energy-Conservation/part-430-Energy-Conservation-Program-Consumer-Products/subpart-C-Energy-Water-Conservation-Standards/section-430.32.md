@@ -1,6 +1,6 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 89 FR 19126, Mar. 15, 2024.Link to an amendment published at 89 FR 31484, Apr. 24, 2024.
+Link to an amendment published at 89 FR 31484, Apr. 24, 2024.
 
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
@@ -463,40 +463,32 @@ The energy and water (in the case of faucets, showerheads, water closets, and ur
 
 (2) [Reserved]
 
-(g) *Clothes washers.* (1) Clothes washers manufactured on or after January 1, 2007 shall have a Modified Energy Factor no less than:
+(g) *Clothes washers.* (1) Clothes washers manufactured on or after January 1, 2018, shall have an Integrated Modified Energy Factor no less than, and an Integrated Water Factor no greater than:
 
-|                          Product class                           |Modified energy factor  <br/>(cu.ft./kWh/cycle)|
-|------------------------------------------------------------------|-----------------------------------------------|
-| i. Top-loading, Compact (less than 1.6 ft<sup>3</sup> capacity)  |                     0.65.                     |
-|ii. Top-loading, Standard (1.6 ft<sup>3</sup> or greater capacity)|                     1.26.                     |
-|                 iii. Top-Loading, Semi-Automatic                 |          Not Applicable.<sup>1</sup>          |
-|                        iv. Front-loading                         |                     1.26.                     |
-|                          v. Suds-saving                          |          Not Applicable.<sup>1</sup>          |
-|      <sup>1</sup> Must have an unheated rinse water option.      |                                               |
+|                            Product class                            |Integrated  <br/>modified  <br/>energy factor  <br/>(cu.ft./kWh/cycle)|Integrated  <br/>water factor  <br/>(gal/cycle/cu.ft.)|
+|---------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------|
+|  (i) Top-loading, Compact (less than 1.6 ft<sup>3</sup> capacity)   |                                 1.15                                 |                         12.0                         |
+| (ii) Top-loading, Standard (1.6 ft<sup>3</sup> or greater capacity) |                                 1.57                                 |                         6.5                          |
+|(iii) Front-loading, Compact (less than 1.6 ft<sup>3</sup> capacity) |                                 1.13                                 |                         8.3                          |
+|(iv) Front-loading, Standard (1.6 ft<sup>3</sup> or greater capacity)|                                 1.84                                 |                         4.7                          |
 
-(2) All top-loading or front-loading standard-size residential clothes washers manufactured on or after January 1, 2011, and before March 7, 2015, shall meet the following standard—
+(2) Clothes washers manufactured on or after March 1, 2028:
 
-(i) A Modified Energy Factor of at least 1.26; and
+(i) Shall have an Energy Efficiency Ratio and a Water Efficiency Ratio no less than:
 
-(ii) A Water Factor of not more than 9.5.
+|                                                                                                                       Product class                                                                                                                       |Energy efficiency ratio  <br/>(lb/kWh/cycle)|Water efficiency ratio  <br/>(lb/gal/cycle)|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------------------------------------|
+|                                                                                                              (A) Automatic Clothes Washers:                                                                                                               |                                            |                                           |
+|                                                                                           (1) Top-Loading Ultra-Compact (less than 1.6 ft<sup>3</sup> capacity)                                                                                           |                    3.79                    |                   0.29                    |
+|                                                                                    (2) Top-Loading Standard-Size (1.6 ft<sup>3</sup> or greater capacity) <sup>1</sup>                                                                                    |                    4.27                    |                   0.57                    |
+|                                                                                      (3) Front-Loading Compact (less than 3.0 ft<sup>3</sup> capacity) <sup>2</sup>                                                                                       |                    5.02                    |                   0.71                    |
+|                                                                                   (4) Front-Loading Standard-Size (3.0 ft<sup>3</sup> or greater capacity) <sup>3</sup>                                                                                   |                    5.52                    |                   0.77                    |
+|                                                                                                            (B) Semi-Automatic Clothes Washers                                                                                                             |                    2.12                    |                   0.27                    |
+|                                          <sup>1</sup> The energy conservation standards in this table do not apply to top-loading standard-size clothes washers with an average cycle time less than 30 minutes.                                          |                                            |                                           |
+|<sup>2</sup> The energy conservation standards in this table do not apply to front-loading clothes washers with a capacity greater than or equal to 1.6 ft<sup>3</sup> and less than 3.0 ft<sup>3</sup> with an average cycle time of less than 45 minutes.|                                            |                                           |
+|                                         <sup>3</sup> The energy conservation standards in this table do not apply to front-loading standard-size clothes washers with an average cycle time less than 45 minutes.                                         |                                            |                                           |
 
-(3) Clothes washers manufactured on or after March 7, 2015, and before January 1, 2018, shall have an Integrated Modified Energy Factor no less than, and an Integrated Water Factor no greater than:
-
-|                           Product class                            |Integrated modified energy factor  <br/>(cu.ft./kWh/cycle)|Integrated water  <br/>factor  <br/>(gal/cycle/cu.ft.)|
-|--------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------|
-|  i. Top-loading, Compact (less than 1.6 ft<sup>3</sup> capacity)   |                           0.86                           |                         14.4                         |
-| ii. Top-loading, Standard (1.6 ft<sup>3</sup> or greater capacity) |                           1.29                           |                         8.4                          |
-|iii. Front-loading, Compact (less than 1.6 ft<sup>3</sup> capacity) |                           1.13                           |                         8.3                          |
-|iv. Front-loading, Standard (1.6 ft<sup>3</sup> or greater capacity)|                           1.84                           |                         4.7                          |
-
-(4) Clothes washers manufactured on or after January 1, 2018, shall have an Integrated Modified Energy Factor no less than, and an Integrated Water Factor no greater than:
-
-|                            Product class                             |Integrated modified  <br/>energy factor  <br/>(cu.ft./kWh/cycle)|Integrated water factor  <br/>(gal/cycle/cu.ft.)|
-|----------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------|
-|  (i) Top-loading, Compact (less than 1.6 ft <sup>3</sup> capacity)   |                              1.15                              |                      12.0                      |
-| (ii) Top-loading, Standard (1.6 ft <sup>3</sup> or greater capacity) |                              1.57                              |                      6.5                       |
-|(iii) Front-loading, Compact (less than 1.6 ft <sup>3</sup> capacity) |                              1.13                              |                      8.3                       |
-|(iv) Front-loading, Standard (1.6 ft <sup>3</sup> or greater capacity)|                              1.84                              |                      4.7                       |
+(ii) The provisions of this paragraph (g)(2) are separate and severable from one another. Should a court of competent jurisdiction hold any provision(s) of this section to be stayed or invalid, such action shall not affect any other provisions of this section.
 
 (h) *Clothes dryers.* (1) Gas clothes dryers manufactured after January 1, 1988 shall not be equipped with a constant burning pilot.
 

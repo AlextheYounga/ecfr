@@ -4,7 +4,7 @@
 
 (2) The Deputy Assistant Judge Advocate General (Claims and Tort Litigation) (Code 15) is the manager of the Navy claims system established to evaluate, adjudicate, and provide litigation support for claims arising under the acts listed above and is responsible to the Judge Advocate General for the management of that system. The claims system consists of the Claims and Tort Litigation Division of the Office of the Judge Advocate General (Code 15), and the attorneys and support personnel assigned to the Tort Claims Unit at Naval Station, Norfolk, Virginia. For economy of language, Naval Legal Service Offices and Naval Legal Service Office Detachments are referred to as Naval Legal Service Command Activities.
 
-(3) Commanding officers of commands receiving claims are responsible for complying with the guidance on investigations in Sec. 750.2 and Sec. 750.3, the guidance on handling and forwarding claims found in Sec. 750.5, and the guidance provided in the JAG Instruction 5800.7E (JAGMAN)1 of 20 June 2007.
+(3) Commanding officers of commands receiving claims are responsible for complying with the guidance on investigations in Sec. 750.2 and Sec. 750.3, the guidance on handling and forwarding claims found in Sec. 750.5, and the guidance provided in the JAG Instruction 5800.7E (JAGMAN) 1 of 20 June 2007.
 
 1 JAG Instruction 5800.7E (JAGMAN) may be retrieved at the official Web site of the United States Navy Judge Advocate General's Corps at *http://www.jag.navy.mil.*
 

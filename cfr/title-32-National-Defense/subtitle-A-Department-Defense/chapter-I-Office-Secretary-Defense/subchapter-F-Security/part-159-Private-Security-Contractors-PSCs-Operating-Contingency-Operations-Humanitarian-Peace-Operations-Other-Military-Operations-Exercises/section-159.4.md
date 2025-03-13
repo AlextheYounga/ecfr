@@ -2,7 +2,7 @@
 
 (a) Consistent with the requirements of paragraph (a)(2) of section 862 of Public Law 110-181, as amended, the selection, training, equipping, and conduct of PSC personnel including the establishment of appropriate processes shall be coordinated between the DoD and the Department of State. Coordination shall encompass the contemplated use of PSC personnel during the planning stages of contingency operations so as to allow guidance to be developed under paragraphs (b) and (c) of this section and promulgated under § 159.5 in a timely manner that is appropriate for the needs of the contingency operation.
 
-(b) Combatant Commanders (CCDRs) with geographic Areas of Responsibility (AORs) will provide tailored PSC guidance and procedures for the operational environment in their Area of Responsibility (AOR) in accordance with this part, the Federal Acquisition Regulation (FAR)1 and the Defense Federal Acquisition Regulation Supplement (DFARS).2
+(b) Combatant Commanders (CCDRs) with geographic Areas of Responsibility (AORs) will provide tailored PSC guidance and procedures for the operational environment in their Area of Responsibility (AOR) in accordance with this part, the Federal Acquisition Regulation (FAR) 1 and the Defense Federal Acquisition Regulation Supplement (DFARS).2
 
 1 Published in Title 48 of the Code of Federal Regulations.
 

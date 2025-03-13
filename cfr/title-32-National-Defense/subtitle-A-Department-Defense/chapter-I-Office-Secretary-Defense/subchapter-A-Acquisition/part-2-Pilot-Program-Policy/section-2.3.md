@@ -1,6 +1,6 @@
 ##### § 2.3 Regulatory relief for participating programs. #####
 
-(a) A program participating in the Defense Acquisition Pilot Program will not be subject to any regulation, policy, directive, or administrative rule or guideline relating to the acquisition activities of the Department of Defense other than the Federal Acquisition Regulation (FAR)1, the Defense FAR Supplement (DFARS)2, or those regulatory requirements added by the Under Secretary of Defense for Acquisition and Technology, the Head of the Component, or the DoD Component Acquisition Executive.
+(a) A program participating in the Defense Acquisition Pilot Program will not be subject to any regulation, policy, directive, or administrative rule or guideline relating to the acquisition activities of the Department of Defense other than the Federal Acquisition Regulation (FAR) 1, the Defense FAR Supplement (DFARS) 2, or those regulatory requirements added by the Under Secretary of Defense for Acquisition and Technology, the Head of the Component, or the DoD Component Acquisition Executive.
 
 1 Copies of this Department of Defense publication may be obtained from the Government Printing Office, Superintendent of Documents, Washington, DC 20402.
 

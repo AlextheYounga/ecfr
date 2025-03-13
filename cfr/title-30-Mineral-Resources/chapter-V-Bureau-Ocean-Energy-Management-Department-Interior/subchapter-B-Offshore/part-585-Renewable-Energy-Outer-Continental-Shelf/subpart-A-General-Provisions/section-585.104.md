@@ -1,3 +1,3 @@
 ##### § 585.104 Do I need a BOEM lease or other authorization to produce or support the production of electricity or other energy product from a renewable energy resource on the OCS? #####
 
-Except as otherwise authorized by law, it will be unlawful for any person to construct, operate, or maintain any facility to produce, transport, or support generation of electricity or other energy product derived from a renewable energy resource on any part of the OCS, except under and in accordance with the terms of a lease, easement, or ROW issued pursuant to the OCS Lands Act.
+Except as otherwise authorized by law, it is unlawful for any person to construct, operate, or maintain any facility to produce, transport, or support generation of electricity or other energy product derived from a renewable energy resource on any part of the OCS, except in accordance with the terms of a lease, easement, or ROW issued under the OCS Lands Act.

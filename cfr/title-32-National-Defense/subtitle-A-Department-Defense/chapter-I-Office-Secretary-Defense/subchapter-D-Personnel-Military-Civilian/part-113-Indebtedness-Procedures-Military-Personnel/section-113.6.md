@@ -18,7 +18,7 @@
 
 (A) Just financial obligations are expected to be paid in a proper and timely manner, and what the member should do to comply with that policy;
 
-(B) Financial and legal counseling services are available under DoD Directive 1344.73 in resolving indebtedness; and
+(B) Financial and legal counseling services are available under DoD Directive 1344.7 3 in resolving indebtedness; and
 
 3 See footnote 1 to § 113.3(b).
 
@@ -198,6 +198,6 @@
 
 (vi) Upon receiving notice from an applicant that a judgment upon which an involuntary allotment is based has been satisfied, vacated, modified, or set aside, the designated DFAS official shall promptly adjust or discontinue the involuntary allotment.
 
-(vii) The Under Secretary of Defense (Comptroller) may, in DoD 7000.14-R4 Volume 7, Part A, designate the priority to be given to involuntary allotments pursuant to 32 CFR part 112 and this part, among the deductions and collections taken from a member's pay, except that they may not give precedence over deductions required to arrive at a member's disposable pay for garnishments or involuntary allotments authorized by statute for alimony and child support payments. In the absence of a contrary designation by the Comptroller, all other lawful deductions (except voluntary allotments by the member) and collections shall take precedence over these involuntary allotments.
+(vii) The Under Secretary of Defense (Comptroller) may, in DoD 7000.14-R 4 Volume 7, Part A, designate the priority to be given to involuntary allotments pursuant to 32 CFR part 112 and this part, among the deductions and collections taken from a member's pay, except that they may not give precedence over deductions required to arrive at a member's disposable pay for garnishments or involuntary allotments authorized by statute for alimony and child support payments. In the absence of a contrary designation by the Comptroller, all other lawful deductions (except voluntary allotments by the member) and collections shall take precedence over these involuntary allotments.
 
 4 See footnote 1 to § 113.3(b).

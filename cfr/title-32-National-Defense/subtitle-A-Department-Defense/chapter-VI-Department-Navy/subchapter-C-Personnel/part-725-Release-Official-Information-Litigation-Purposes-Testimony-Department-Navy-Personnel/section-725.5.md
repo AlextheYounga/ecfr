@@ -20,7 +20,7 @@
 
 (3) In response to requests by Federal Government counsel, or counsel representing the interests of the Federal Government, in litigation conducted, in whole or in part, on behalf of the United States (e.g., Medical Care Recovery Act claims, affirmative claims, or subpoenas issued by, or concurred in by, Government counsel when the United States is a party), but the regulation does apply to an action brought under the qui tam provisions of the False Claims Act in which a private party brings an action in the name of the United States but in which the Department of Justice either has not yet determined to intervene in the litigation or has declined to intervene;
 
-(4) As part of the assistance required by the Defense Industrial Personnel Security Clearance Review Program under DOD Directive 5220.62;
+(4) As part of the assistance required by the Defense Industrial Personnel Security Clearance Review Program under DOD Directive 5220.6 2;
 
 2 See footnote 1 to § 725.1.
 
@@ -28,7 +28,7 @@
 
 (6) Release of information by DON personnel to counsel retained on their behalf for purposes of litigation, unless that information is classified, privileged, or otherwise protected from disclosure (in the latter event, compliance with 32 CFR part 97 and this part is required);
 
-(7) Cases involving garnishment orders for child support and/or alimony. The release of official information in these cases is governed by 5 CFR 581 and SECNAVINST 7200.163, or;
+(7) Cases involving garnishment orders for child support and/or alimony. The release of official information in these cases is governed by 5 CFR 581 and SECNAVINST 7200.16 3, or;
 
 3 See footnote 1 to § 725.1.
 

@@ -10,7 +10,7 @@
 
 (3) Suspend or terminate a permit to operate a vending facility after consulting with the PDUSD(P&R) where circumstances warrant.
 
-(4) Ensure appropriate real property outgrants are accomplished in accordance with DoDI 4165.70, “Real Property Management,”1 and consistent with the Randolph-Sheppard Act (20 U.S.C. 107) and the implementing regulations (34 CFR part 395).
+(4) Ensure appropriate real property outgrants are accomplished in accordance with DoDI 4165.70, “Real Property Management,” 1 and consistent with the Randolph-Sheppard Act (20 U.S.C. 107) and the implementing regulations (34 CFR part 395).
 
 1 Available from *http://www.dtic.mil/whs/directives/corres/html/416570.htm.*
 

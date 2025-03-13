@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 89 FR 33193, Apr. 29, 2024.Link to an amendment published at 89 FR 53004, June 25, 2024.Link to an amendment published at 89 FR 57069, July 12, 2024.
+Link to an amendment published at 89 FR 53004, June 25, 2024.Link to an amendment published at 89 FR 57069, July 12, 2024.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -196,27 +196,25 @@ Renewed Amendment Number 16 [Reserved].
 
 *Certificate Number:* 1015.
 
-*Initial Certificate Effective Date:* November 20, 2000.
+*Initial Certificate Effective Date:* November 20, 2000, superseded by Renewed Initial Certificate on July 15, 2024.
 
-*Amendment Number 1 Effective Date:* February 20, 2001.
+*Amendment Number 1 Effective Date:* February 20, 2001, superseded by Renewed Amendment Number 1 on July 15, 2024.
 
-*Amendment Number 2 Effective Date:* December 31, 2001.
+*Amendment Number 2 Effective Date:* December 31, 2001, superseded by Renewed Amendment Number 2 on July 15, 2024.
 
-*Amendment Number 3 Effective Date:* March 31, 2004.
+*Amendment Number 3 Effective Date:* March 31, 2004, superseded by Renewed Amendment Number 3 on July 15, 2024.
 
-*Amendment Number 4 Effective Date:* October 11, 2005.
+*Amendment Number 4 Effective Date:* October 11, 2005, superseded by Renewed Amendment Number 4 on July 15, 2024.
 
-*Amendment Number 5 Effective Date:* January 12, 2009.
+*Amendment Number 5 Effective Date:* January 12, 2009, superseded by Renewed Amendment Number 5 on July 15, 2024.
 
-*Amendment Number 6 Effective Date:* January 7, 2019.
+*Amendment Number 6 Effective Date:* January 7, 2019, superseded by Renewed Amendment Number 6 on July 15, 2024.
 
-*Amendment Number 7 Effective Date:* July 29, 2019.
+*Amendment Number 7 Effective Date:* July 29, 2019, superseded by Renewed Amendment Number 7 on July 15, 2024.
 
-*Amendment Number 8 Effective Date:* October 19, 2021, as corrected (ADAMS
+*Amendment Number 8 Effective Date:* October 19, 2021, as corrected (ADAMS Accession No. ML21312A499); superseded by Renewed Amendment Number 8 on July 15, 2024.
 
-*Accession No.* ML21312A499).
-
-*Amendment Number 9 Effective Date:* August 29, 2022.
+*Amendment Number 9 Effective Date:* August 29, 2022, superseded by Renewed Amendment Number 9 on July 15, 2024.
 
 *SAR Submitted by:* NAC International, Inc.
 
@@ -224,7 +222,7 @@ Renewed Amendment Number 16 [Reserved].
 
 *Docket Number:* 72-1015.
 
-*Certificate Expiration Date:* November 20, 2020.
+*Renewed Certificate Expiration Date:* November 20, 2060.
 
 *Model Number:* NAC-UMS.
 

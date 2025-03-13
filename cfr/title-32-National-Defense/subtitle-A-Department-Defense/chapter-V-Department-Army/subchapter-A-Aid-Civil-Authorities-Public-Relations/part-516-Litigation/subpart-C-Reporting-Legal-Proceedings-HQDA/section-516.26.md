@@ -6,7 +6,7 @@
 
 I declare under penalty of perjury that the foregoing is true and correct. (28 U.S.C. 1746).
 
-Executed on(Date) (Signature)
+Executed on (Date) (Signature)
 
 (c) *When executed outside the United States.* Place the following at the end of the witness statement:
 

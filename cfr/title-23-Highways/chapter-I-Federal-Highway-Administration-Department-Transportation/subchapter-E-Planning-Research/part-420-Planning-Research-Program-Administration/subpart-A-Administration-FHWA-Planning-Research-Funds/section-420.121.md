@@ -1,6 +1,6 @@
 ##### § 420.121 What other requirements apply to the administration of FHWA planning and research funds? #####
 
-(a) *Audits.* Audits of the State DOTs and their subrecipients shall be performed in accordance with OMB Circular A-133, Audits of States, Local Governments, and Non-Profit Organizations.2 Audits of for-profit contractors are to be performed in accordance with State DOT or subrecipient contract administration procedures.
+(a) *Audits.* Audits of the State DOTs and their subrecipients shall be performed in accordance with OMB Circular A-133, Audits of States, Local Governments, and Non-Profit Organizations. 2 Audits of for-profit contractors are to be performed in accordance with State DOT or subrecipient contract administration procedures.
 
 2 See footnote 1.
 

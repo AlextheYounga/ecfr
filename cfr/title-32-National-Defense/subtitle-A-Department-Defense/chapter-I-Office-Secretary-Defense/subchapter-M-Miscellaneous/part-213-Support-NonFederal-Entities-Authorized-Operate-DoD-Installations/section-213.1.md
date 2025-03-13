@@ -2,11 +2,11 @@
 
 (a) Authorizes 32 CFR part 212.
 
-(b) Establishes policy and assigns responsibilities under DoD Directive 5124.81 for standardizing support to non-Federal entities authorized to operate on DoD installations.
+(b) Establishes policy and assigns responsibilities under DoD Directive 5124.8 1 for standardizing support to non-Federal entities authorized to operate on DoD installations.
 
 1 Copies may be obtained at *http://www.dtic.mil/whs/directives/.*
 
-(c) Designates the Secretary of the Army as the DoD Executive Agent (DoD EA) according to DoD Directive 5101.1:2
+(c) Designates the Secretary of the Army as the DoD Executive Agent (DoD EA) according to DoD Directive 5101.1: 2
 
 2 Copies may be obtained at *http://www.dtic.mil/whs/directives/.*
 

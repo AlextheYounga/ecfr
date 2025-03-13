@@ -6,7 +6,7 @@ All determinations to disseminate or withhold technical data subject to this par
 
 (b) Upon receipt of a request for technical data in the possession of, or under the control of, the Department of Defense, the controlling DoD office shall determine whether such data are governed by this part. The determination shall be based on the following:
 
-(1) The office's finding3 that such data would require an approval, authorization, or license for export under E.O. 12470 or the Arms Export Control Act and that such data may not be exported pursuant to a general, unrestricted license (15 CFR 379.3, EAR) (see § 250.7) or exemption (22 CFR 125.11, ITAR) (see § 250.8).
+(1) The office's finding 3 that such data would require an approval, authorization, or license for export under E.O. 12470 or the Arms Export Control Act and that such data may not be exported pursuant to a general, unrestricted license (15 CFR 379.3, EAR) (see § 250.7) or exemption (22 CFR 125.11, ITAR) (see § 250.8).
 
 3 May require consultation with the Department of State or the Department of Commerce, as appropriate.
 

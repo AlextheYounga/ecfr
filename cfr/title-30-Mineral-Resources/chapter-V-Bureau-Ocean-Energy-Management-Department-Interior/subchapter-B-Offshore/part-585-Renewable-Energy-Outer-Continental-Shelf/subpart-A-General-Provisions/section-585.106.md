@@ -8,6 +8,8 @@
 
 (d) Failure of a lessee, operator, or grant holder to take the actions specified in a notice of noncompliance issued under this part within the time limit specified provides the basis for issuance of a cessation order by BSEE, as provided in 30 CFR 285.401 and/or cancellation of the lease or grant by the Secretary as provided in § 585.422.
 
-(e) BOEM may assess civil penalties, as authorized by section 24 of the OCS Lands Act, if you fail to comply with any provision of this part or any term of a lease, grant, or order issued under the authority of this part, after notice of such failure and expiration of any reasonable period allowed for corrective action. Civil penalties will be determined and assessed in accordance with the procedures set forth in 30 CFR part 550, subpart N.
+(e) BOEM may assess civil penalties, as authorized by section 24 of the OCS Lands Act and as determined under the procedures set forth in 30 CFR part 550, subpart N, if you fail to comply with any provision of this part or any term of a lease, grant, or order issued under the authority of this part:
 
-(f) You may be subject to criminal penalties as authorized by section 24 of the OCS Lands Act.
+(1) After notice of such failure and expiration of any reasonable period allowed for corrective action; or
+
+(2) BOEM determines that the failure constitutes, or constituted, a threat of serious, irreparable, or immediate harm or damage to life (including fish and other aquatic life), property, or the marine, coastal, or human environment.

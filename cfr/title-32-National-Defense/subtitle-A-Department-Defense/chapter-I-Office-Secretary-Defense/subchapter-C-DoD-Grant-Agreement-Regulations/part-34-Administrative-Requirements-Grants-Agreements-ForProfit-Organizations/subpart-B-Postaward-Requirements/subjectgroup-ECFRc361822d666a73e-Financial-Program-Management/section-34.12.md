@@ -26,7 +26,7 @@
 
 (c) *Frequency of payments.* For either reimbursements or advance payments, recipients shall be authorized to submit requests for payment at least monthly.
 
-(d) *Forms for requesting payment.* DoD Components may authorize recipients to use the SF-270,1 “Request for Advance or Reimbursement;” the SF-271,2 “Outlay Report and Request for Reimbursement for Construction Programs;” or prescribe other forms or formats as necessary.
+(d) *Forms for requesting payment.* DoD Components may authorize recipients to use the SF-270, 1 “Request for Advance or Reimbursement;” the SF-271, 2 “Outlay Report and Request for Reimbursement for Construction Programs;” or prescribe other forms or formats as necessary.
 
 1 For copies of Standard Forms listed in this part, contact regional grants administration offices of the Office of Naval Research. Addresses for the offices are listed in the “Federal Directory of Contract Administration Services (CAS) Components,” which is available through the “CAS Directory” link at the Defense Contract Management Agency homepage (*http://www.dcma.mil*).
 

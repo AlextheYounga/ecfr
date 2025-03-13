@@ -1,7 +1,5 @@
 ##### § 285.112 Definitions. #####
 
-Link to an amendment published at 89 FR 42713, May 15, 2024.
-
 Terms used in this part have the meanings as defined in this section:
 P\>*Affected State* means with respect to any activities proposed, conducted, or approved under this part, any coastal State—
 
@@ -23,15 +21,19 @@ P\>*Affected State* means with respect to any activities proposed, conducted, or
 
 *Certified Verification Agent (CVA)* means an individual or organization, experienced in the design, fabrication, and installation of offshore marine facilities or structures, who will conduct specified third-party reviews, inspections, and verifications in accordance with this part.
 
-*Commercial activities* mean, for renewable energy leases and grants, all activities associated with the generation, storage, or transmission of electricity or other energy product from a renewable energy project on the OCS, and for which such electricity or other energy product is intended for distribution, sale, or other commercial use, except for electricity or other energy product distributed or sold pursuant to technology-testing activities on a limited lease. This term also includes activities associated with all stages of development, including initial site characterization and assessment, facility construction, and project decommissioning.
+*Commercial activities* means, under renewable energy leases and grants, all activities associated with the generation, storage, or transmission of electricity or other energy product from a renewable energy project on the OCS, and for which such electricity or other energy product is intended for distribution, sale, or other commercial use, except for electricity or other energy product distributed or sold pursuant to technology-testing activities on a limited lease. This term also includes activities associated with all stages of development, including initial site characterization and assessment, facility construction, and project decommissioning.
 
 *Commercial lease* means a lease issued under 30 CFR part 585 that specifies the terms and conditions under which a person can conduct commercial activities.
 
-*Commercial operations* mean the generation of electricity or other energy product for commercial use, sale, or distribution on a commercial lease.
+*Commercial operations* means the generation of electricity or other energy product for commercial use, sale, transmission, or distribution from a commercial lease.
 
-*Decommissioning* means removing BOEM and BSEE approved facilities and returning the site of the lease or grant to a condition that meets the requirements under subpart I of this part and 30 CFR part 585.
+*Critical Safety Systems and Equipment* means safety systems and equipment designed to prevent or ameliorate fires, spillages, or other major accidents that could result in harm to health, safety, or the environment in the area of your facilities.
+
+*Decommissioning* means removing BOEM and BSEE approved facilities and returning the site of the lease or grant to a condition that meets the requirements under subpart I of this part.
 
 *Director* means the Director of the Bureau of Safety and Environmental Enforcement (BSEE), of the U.S. Department of the Interior, or an official authorized to act on the Director's behalf.
+
+*Fabrication* means the cutting, fitting, welding, or other assembly of project elements.
 
 *Facility* means an installation that is permanently or temporarily attached to the seabed of the OCS. Facilities include any structures; devices; appurtenances; gathering, transmission, and distribution cables; pipelines; and permanently moored vessels. Any group of OCS installations interconnected with walkways, or any group of installations that includes a central or primary installation with one or more satellite or secondary installations, is a single facility. BOEM and BSEE may decide that the complexity of the installations justifies their classification as separate facilities.
 
@@ -55,6 +57,8 @@ P\>*Affected State* means with respect to any activities proposed, conducted, or
 
 *Project,* for the purposes of defining the source of revenues to be shared, means a lease ROW, RUE, or Alternate Use RUE on which the activities authorized under this part or 30 CFR parts 585 or 586 are conducted on the OCS. The term “project” may be used elsewhere in this rule to refer to these same authorized activities, the facilities used to conduct these activities, or to the geographic area of the project, *i.e.,* the project area.
 
+*Project Design Envelope (PDE)* means a reasonable range of design parameters proposed in a lessee's plan for components of the project, such as type, dimensions, and number of wind turbine generators; foundation type; location of the export cable route; location of an onshore substation; location of the grid connection point; and construction methods and timing.
+
 *Project easement* means an easement to which, upon approval of your Construction and Operations Plan (COP) or General Activities Plan (GAP), you are entitled as part of the lease for the purpose of installing, gathering, transmission, and distribution cables, pipelines, and appurtenances on the OCS as necessary for the full enjoyment of the lease.
 
 *Renewable energy* means energy resources other than oil and gas and minerals as defined in 30 CFR part 580. Such resources include, but are not limited to, wind, solar, and ocean waves, tides, and current.
@@ -69,8 +73,10 @@ P\>*Affected State* means with respect to any activities proposed, conducted, or
 
 *Significant archaeological resource* means an archaeological resource that meets the criteria of significance for eligibility for listing in the National Register of Historic Places, as defined in 36 CFR 60.4, or its successor.
 
-*Site assessment activities* mean those initial activities conducted to characterize a site on the OCS, such as resource assessment surveys (e.g., meteorological and oceanographic) or technology testing, involving the installation of bottom-founded facilities.
+*Site assessment activities* means those initial activities conducted to assess an area on the OCS, such as resource assessment surveys (e.g., meteorological and oceanographic) or technology testing, involving the installation of bottom-founded facilities.
 
 *We, us,* and *our* refer to the Bureau of Safety and Environmental Enforcement of the Department of the Interior, or its possessive, depending on the context.
 
 *You* and *your* means an applicant, lessee, the operator, or designated operator, ROW grant holder, RUE grant holder, or Alternate Use RUE grant holder under 30 CFR parts 585 or 586, or the designated agent of any of these, or the possessive of each, depending on the context. The terms *you* and *your* also include contractors and subcontractors of the entities specified in the preceding sentence.
+
+[88 FR 6413, Jan. 31, 2023, as amended at 89 FR 42713, May 15, 2024]

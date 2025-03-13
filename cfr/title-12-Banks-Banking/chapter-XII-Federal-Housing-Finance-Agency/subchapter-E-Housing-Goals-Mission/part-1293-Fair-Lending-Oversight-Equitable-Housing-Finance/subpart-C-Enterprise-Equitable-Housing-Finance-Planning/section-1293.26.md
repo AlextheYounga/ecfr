@@ -1,0 +1,3 @@
+##### § 1293.26 Enterprise board equitable housing and mission responsibilities. #####
+
+An Enterprise's board of directors shall appropriately consider the objectives, actions, and goals of the Enterprise's Equitable Housing Finance Plan, while also appropriately considering its affordable housing goals, Duty to Serve plans and targets, and other mission-related obligations, in the board's oversight of the Enterprise and the Enterprise's business activities.

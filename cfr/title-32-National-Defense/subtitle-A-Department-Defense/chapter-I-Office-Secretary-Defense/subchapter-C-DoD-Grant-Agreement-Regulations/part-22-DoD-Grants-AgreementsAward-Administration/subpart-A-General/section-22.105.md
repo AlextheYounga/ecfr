@@ -28,7 +28,7 @@ Other than the terms defined in this section, terms used in this part are define
 
 *Electronic commerce.* The conduct of business through the use of automation and electronic media, in lieu of paper transactions, direct personal contact, telephone, or other means. For grants and cooperative agreements, electronic commerce can include the use of electronic data interchange, electronic mail, electronic bulletin board systems, and electronic funds transfer for: program announcements or solicitations; applications or proposals; award documents; recipients' requests for payment; payment authorizations; and payments.
 
-*Electronic data interchange.* The exchange of standardized information communicated electronically between business partners, typically between computers. It is DoD policy that DoD Component EDI applications conform to the American National Standards Institute (ANSI), Accredited Standards Committee (ASC) X-12 standard.1
+*Electronic data interchange.* The exchange of standardized information communicated electronically between business partners, typically between computers. It is DoD policy that DoD Component EDI applications conform to the American National Standards Institute (ANSI), Accredited Standards Committee (ASC) X-12 standard. 1
 
 1 Available from Accredited Standards Committee, X-12 Secretariat, Data Interchange Standards Association, 1800 Diagonal Road, Suite 355, Alexandria, VA 22314-2852; Attention: Manager Maintenance and Publications.
 

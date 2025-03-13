@@ -8,4 +8,4 @@
 
 (d) A civil action begins with the filing of a complaint with the Court. The form of the complaint is as follows except as it may be modified to conform as appropriate to the particular action:
 
-In the Wake Island Court[Civil Action No. \_\_\_]\_\_\_\_\_\_ (*Plaintiff*) vs. \_\_\_\_\_\_\_, (*Defendant*)Complaint\_\_\_\_\_\_ plaintiff alleges that the defendant is indebted to plaintiff in the sum of $\_\_\_ that plaintiff has demanded payment of said sum; that defendant has refused to pay; that defendant resides at \_\_\_\_\_ on Wake Island; that plaintiff resides at \_\_\_\_\_\_.
+In the Wake Island Court[Civil Action No. \_\_\_]\_\_\_\_\_\_ (*Plaintiff*) vs. \_\_\_\_\_\_\_, (*Defendant*)Complaint \_\_\_\_\_\_ plaintiff alleges that the defendant is indebted to plaintiff in the sum of $\_\_\_ that plaintiff has demanded payment of said sum; that defendant has refused to pay; that defendant resides at \_\_\_\_\_ on Wake Island; that plaintiff resides at \_\_\_\_\_\_.

@@ -16,7 +16,7 @@
 
 (4) State statutes of limitation or repose are inapplicable.
 
-(d) *No claim for attorney's fees or expenses in addition to statutorily allowed amount.*In calculating the amount that may be paid under this part, consistent with section 2733a(c)(2), there is no additional amount permitted for attorneys' fees or expenses associated with filing a claim or participating in any process relating to the adjudication of the claim. The adjudication of claims under this part is not an adversarial proceeding and there is no prevailing party to be awarded costs.
+(d) *No claim for attorney's fees or expenses in addition to statutorily allowed amount.* In calculating the amount that may be paid under this part, consistent with section 2733a(c)(2), there is no additional amount permitted for attorneys' fees or expenses associated with filing a claim or participating in any process relating to the adjudication of the claim. The adjudication of claims under this part is not an adversarial proceeding and there is no prevailing party to be awarded costs.
 
 (e) *Claims adjudication based on national standards.* As required by the statute (section 2733a(f)(2)(B)), claims are adjudicated based on national standards consistent with generally accepted standards used in a majority of States in adjudicating claims under the FTCA. The determination of the applicable law is without regard to the place of occurrence of the alleged medical malpractice giving rise to the claim or the military or executive department or service of the member of the uniformed services. Foreign law has no role in the case of claims arising in foreign countries. The legal standards set forth in other sections of this part apply to determinations with respect to:
 

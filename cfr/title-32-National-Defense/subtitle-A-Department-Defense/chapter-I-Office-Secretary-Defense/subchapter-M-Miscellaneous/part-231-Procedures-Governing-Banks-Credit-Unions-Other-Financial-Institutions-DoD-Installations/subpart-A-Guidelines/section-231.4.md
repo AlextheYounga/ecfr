@@ -8,7 +8,7 @@
 
 (b) *Central locator services.* Military locator services shall be provided per the guidelines in subpart B of this part.
 
-(1) When appropriate, installations will process financial institution requests for central locator service to obtain military addresses of active duty personnel. This service will be used to locate persons for settling accounts, and recovering funds on checks that did not clear or loans that are delinquent or in default (see DoD Directive 1344.96). If delinquent loans or dishonored checks are not recouped within 48 hours, financial institutions operating on DoD installations may bring this information to the attention of the local commander, bank liaison officer, or other designee for assistance in effecting restitution of the amount due, if not otherwise prohibited by law. The financial institution will pay the appropriate fee for each request to the respective Military Department.
+(1) When appropriate, installations will process financial institution requests for central locator service to obtain military addresses of active duty personnel. This service will be used to locate persons for settling accounts, and recovering funds on checks that did not clear or loans that are delinquent or in default (see DoD Directive 1344.9 6). If delinquent loans or dishonored checks are not recouped within 48 hours, financial institutions operating on DoD installations may bring this information to the attention of the local commander, bank liaison officer, or other designee for assistance in effecting restitution of the amount due, if not otherwise prohibited by law. The financial institution will pay the appropriate fee for each request to the respective Military Department.
 
 6 See footnote 1 to § 231.1(a).
 
@@ -22,7 +22,7 @@
 
 (iv) For addresses of United States Marine Corps active, retired, separated and civilian personnel, financial institutions may telephone (703) 784-3942 or write to:
 
-ActiveU.S. Marine Corps—CMC, HQ MC MMS B 10, 2008 Elliot Road, Room 201, Quantico, VA 22134-5030.Retired-SeparatedQ U.S. MMRS-6, 280 Russell Road, Quantico, VA 22134-5105.CivilianCommanding General, 15303 Andrew Road, Kansas City, MO 64147-1207.
+Active U.S. Marine Corps—CMC, HQ MC MMS B 10, 2008 Elliot Road, Room 201, Quantico, VA 22134-5030. Retired-Separated Q U.S. MMRS-6, 280 Russell Road, Quantico, VA 22134-5105. Civilian Commanding General, 15303 Andrew Road, Kansas City, MO 64147-1207.
 
 (c) *Advertising.* (1) An on-base financial institution may use the unofficial section of that installation's daily bulletin, provided space is available, to inform DoD personnel of financial services and announce seminars, consumer information programs, and other matters of broad general interest. Announcements of free financial counseling services are encouraged. Such media may not be used for competitive or comparative advertising of, for example, specific interest rates on savings or loans.
 
@@ -30,7 +30,7 @@ ActiveU.S. Marine Corps—CMC, HQ MC MMS B 10, 2008 Elliot Road, Room 201, Quant
 
 (3) An on-base financial institution may include an insert in the installation's newcomers package (or equivalent). This insert should benefit newcomers by identifying the financial services that are available on the installation.
 
-(4) DoD Directive 5120.207 prevents use of the Armed Forces Radio and Television Service to promote a specific financial institution.
+(4) DoD Directive 5120.20 7 prevents use of the Armed Forces Radio and Television Service to promote a specific financial institution.
 
 7 See footnote 1 to § 231.1(a).
 
@@ -64,7 +64,7 @@ ActiveU.S. Marine Corps—CMC, HQ MC MMS B 10, 2008 Elliot Road, Room 201, Quant
 
 (f) *Staffing.* (1) On-base financial institutions shall be staffed adequately (i.e., commensurate with industry standards for similar numbers of accountholders and financial services rendered). Staffing at overseas MBFs operated under DoD contract shall be maintained within negotiated ceilings.
 
-(2) All staffing shall comply fully with applicable equal employment opportunity laws and with the spirit of DoD equal employment opportunity policies as set forth in DoD Directive 1440.1.8
+(2) All staffing shall comply fully with applicable equal employment opportunity laws and with the spirit of DoD equal employment opportunity policies as set forth in DoD Directive 1440.1. 8
 
 8 See footnote 1 to § 231.1(a).
 

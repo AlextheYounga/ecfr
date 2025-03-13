@@ -10,12 +10,12 @@
 
 (d) Disposition of hospitalized cases. When it is determined that a hospitalized ARNG member has obtained the maximum benefits from hospitalization and there is no disability remaining from the condition for which hospitalized, he/she will be returned to his/her duty station or, if none, to his/her home of record at the time of entry into the hospital.
 
-Appendixnotification of injury
+Appendix notification of injury
 
 Date \_\_\_\_\_\_\_\_\_\_\_\_
 
-SUBJECT: Notification of Medical Care and/or Hospitalized Beyond the End of Training Periods.THRU: The Adjutant General State of \_\_\_\_\_\_\_\_.TO: NGB-ARS, Washington, DC 20310.
+SUBJECT: Notification of Medical Care and/or Hospitalized Beyond the End of Training Periods. THRU: The Adjutant General State of \_\_\_\_\_\_\_\_. TO: NGB-ARS, Washington, DC 20310.
 
 In accordance with paragraph 8, NGR 40-3, notification of medical care is furnished below:
 
-Name:SSN:Grade:Parent unit and station:Type and inclusive dates of training:Date and place of incident:Diagnosis:LOD status:Name and distance of nearest Federal medical facility:Name and address of medical facilities utilized:Estimated cost and duration of treatment:Summary of incident:(32 U.S.C. 318-320 and 502-505)
+Name: SSN: Grade: Parent unit and station: Type and inclusive dates of training: Date and place of incident: Diagnosis: LOD status: Name and distance of nearest Federal medical facility: Name and address of medical facilities utilized: Estimated cost and duration of treatment: Summary of incident: (32 U.S.C. 318-320 and 502-505)

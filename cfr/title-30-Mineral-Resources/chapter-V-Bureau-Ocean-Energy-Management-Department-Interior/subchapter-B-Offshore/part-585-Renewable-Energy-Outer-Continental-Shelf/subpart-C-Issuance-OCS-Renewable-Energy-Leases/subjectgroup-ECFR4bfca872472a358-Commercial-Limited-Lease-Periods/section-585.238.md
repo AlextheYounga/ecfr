@@ -1,0 +1,3 @@
+##### § 585.238 May I develop my commercial lease in phases? #####
+
+In your COP, you may request development of your commercial lease in phases. In support of your request, you must provide details as to what portions of the lease will be initially developed for commercial operations and what portions of the lease will be reserved for subsequent phased development. You must also propose a lease period schedule for each phase described in your COP in accordance with § 585.235(c). BOEM may condition its approval of subsequent phases described in a phased development COP.

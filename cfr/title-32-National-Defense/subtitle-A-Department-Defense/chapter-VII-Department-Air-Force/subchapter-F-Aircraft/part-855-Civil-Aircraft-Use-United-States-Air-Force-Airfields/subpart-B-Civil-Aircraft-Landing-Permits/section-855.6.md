@@ -4,7 +4,7 @@
 
 (1) Any other US Government agency.
 
-(2) US Air Force aero clubs established as prescribed in AFI 34-117, Air Force Aero Club Program, and AFMAN 3-132, Air Force Aero Club Operations1.
+(2) US Air Force aero clubs established as prescribed in AFI 34-117, Air Force Aero Club Program, and AFMAN 3-132, Air Force Aero Club Operations 1.
 
 1 Copies of the publications are available, at cost, from the National Technical Information Service, U.S. Department of Commerce, 5285 Port Royal Road, Springfield, VA 22161.
 
@@ -44,6 +44,6 @@ For identification purposes, the aircraft will be marked with a sticker near the
 
 (7) Civil aircraft transporting critically ill or injured individuals or transplant organs to or from an Air Force installation.
 
-(8) Historic aircraft being delivered for Air Force museum exhibits under the provisions of AFI 84-103, Museum System.2
+(8) Historic aircraft being delivered for Air Force museum exhibits under the provisions of AFI 84-103, Museum System. 2
 
 2 See footnote 1 to § 855.6.

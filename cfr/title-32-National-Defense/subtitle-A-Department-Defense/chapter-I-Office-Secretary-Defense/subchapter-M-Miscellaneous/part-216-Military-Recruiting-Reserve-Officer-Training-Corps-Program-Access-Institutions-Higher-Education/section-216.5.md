@@ -24,7 +24,7 @@
 
 (4) Publish in the Federal Register at least once every 6 months a list of covered schools that are ineligible for contracts and grants by reason of a determination of the Secretary of Defense under 10 U.S.C. 983, as implemented by this part.
 
-(5) Enter information into the Excluded Parties List System1 about each covered school that the PDUSD(P&R) determines to be ineligible for contracts and grants under 10 U.S.C. 983 and/or this part, generally within 5 days of making the determination.
+(5) Enter information into the Excluded Parties List System 1 about each covered school that the PDUSD(P&R) determines to be ineligible for contracts and grants under 10 U.S.C. 983 and/or this part, generally within 5 days of making the determination.
 
 1 The Excluded Parties List System (EPLS) is the system that the General Services Administration maintains for Executive Branch agencies, with names and other pertinent information of persons who are debarred, suspended, or otherwise ineligible for Federal procurement and/or covered non-procurement transactions.
 

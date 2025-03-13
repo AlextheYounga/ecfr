@@ -20,6 +20,6 @@ DD Forms 2400 and 2401 are not required for fly-in participants if flying activi
 
 (2) The MAJCOM, FOA, or DRU ensures HQ USAF/XOOBC/XOOO and SAF/PAC are advised of the approval or disapproval for the fly-in.
 
-(3) Aerial performance by civil aircraft at an Air Force open house requires MAJCOM or FOA approval and an approved landing permit as specified in AFI 35-201, Community Relations3. Regardless of the aircraft's historic military significance, DD Forms 2400, 2401, and 2402 must be submitted and approved before the performance. The permit can be approved at MAJCOM, FOA, DRU, or installation level. Use will be authorized only for the period of the event. Fly-in procedures do not apply to aircraft transporting passengers (revenue or non-revenue) for the purpose of attending the open house or demonstration flights associated with marketing a product.
+(3) Aerial performance by civil aircraft at an Air Force open house requires MAJCOM or FOA approval and an approved landing permit as specified in AFI 35-201, Community Relations 3. Regardless of the aircraft's historic military significance, DD Forms 2400, 2401, and 2402 must be submitted and approved before the performance. The permit can be approved at MAJCOM, FOA, DRU, or installation level. Use will be authorized only for the period of the event. Fly-in procedures do not apply to aircraft transporting passengers (revenue or non-revenue) for the purpose of attending the open house or demonstration flights associated with marketing a product.
 
 3 See footnote 1 to § 855.6.

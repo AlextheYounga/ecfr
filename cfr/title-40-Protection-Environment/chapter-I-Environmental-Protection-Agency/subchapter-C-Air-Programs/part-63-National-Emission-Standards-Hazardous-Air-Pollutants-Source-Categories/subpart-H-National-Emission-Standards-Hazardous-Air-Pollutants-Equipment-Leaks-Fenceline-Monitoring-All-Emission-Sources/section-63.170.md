@@ -1,0 +1,7 @@
+##### § 63.170 Standards: Surge control vessels and bottoms receivers. #####
+
+(a) Except as specified in paragraph (b) of this section, each surge control vessel or bottoms receiver that is not routed back to the process and that meets the conditions specified in table 2 or table 3 of this subpart shall be equipped with a closed-vent system that routes the organic vapors vented from the surge control vessel or bottoms receiver back to the process or to a control device that complies with the requirements in § 63.172, except as provided in § 63.162(b), or comply with the requirements of § 63.119(b) or (c).
+
+(b) For each source as defined in § 63.101, and for each source as defined in § 63.191, beginning no later than the compliance dates specified in § 63.100(k)(10), paragraph (a) of this section no longer applies. Instead, each surge control vessel and bottoms receiver that is not routed back to the process and emits greater than or equal to 1.0 lb/hr of total organic HAP must be equipped with a closed-vent system that routes the organic vapors vented from the surge control vessel or bottoms receiver back to the process or to a control device that complies with the requirements in § 63.172, except as provided in § 63.162(b), or comply with the requirements of § 63.113(a)(1) or (a)(2).
+
+[89 FR 43224, May 16, 2024]

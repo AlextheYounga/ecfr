@@ -968,4 +968,4 @@ In any case in which the national CMAC calculated in accordance with paragraphs 
 
 (o) *Implementing Instructions.* The Director, OCHAMPUS, or a designee, shall issue CHAMPUS policies, instructions, procedures, and guidelines, as may be necessary to implement the intent of this section.
 
-[55 FR 13266, Apr. 10, 1990]Editorial Note:For Federal Register citations affecting § 199.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[55 FR 13266, Apr. 10, 1990] Editorial Note:For Federal Register citations affecting § 199.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

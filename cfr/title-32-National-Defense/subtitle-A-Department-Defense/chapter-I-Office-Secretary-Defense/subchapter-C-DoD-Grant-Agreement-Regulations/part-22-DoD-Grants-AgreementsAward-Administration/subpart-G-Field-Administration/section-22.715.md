@@ -16,7 +16,7 @@ The primary responsibility of cognizant grants administration offices shall be t
 
 (iii) Determining that governmental, university and nonprofit recipients have complied with requirements in subpart F of 2 CFR part 200, as implemented at subpart E of 2 CFR part 1128, to have single audits and submit audit reports to the Federal Audit Clearinghouse. If a recipient has not had a required audit, appropriate action must be taken (*e.g.,* contacting the recipient and coordinating with the Office of the Assistant Inspector General for Audit Policy and Oversight (OAIG(P&O)), Office of the Deputy Inspector General for Inspections and Policy, Office of the Inspector General of the Department of Defense (OIG, DoD), 4800 Mark Center Drive, Alexandria, VA 22350-1500).
 
-(4) Issuing timely management decisions, in accordance with DoD Instruction 7640.02, “Policy for Follow-up on Contract Audit Reports,”8 on single audit findings referred by the OIG, DoD, under DoD Instruction 7600.10, “Audits of States, Local Governments, and Non-Profit Organizations.”9
+(4) Issuing timely management decisions, in accordance with DoD Instruction 7640.02, “Policy for Follow-up on Contract Audit Reports,” 8 on single audit findings referred by the OIG, DoD, under DoD Instruction 7600.10, “Audits of States, Local Governments, and Non-Profit Organizations.” 9
 
 8 Electronic copies may be obtained at the Washington Headquarters Services Internet site *http://www.dtic.mil/whs/directives.* Paper copies may be obtained, at cost, from the National Technical Information Service, 5285 Port Royal Road, Springfield, VA 22161.
 

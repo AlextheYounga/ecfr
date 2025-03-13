@@ -1,3 +1,5 @@
-##### § 285.117 [Reserved] #####
+##### § 285.117 Severability. #####
 
-Link to an amendment published at 89 FR 42714, May 15, 2024.
+If a court holds any provisions of this subpart or their applicability to any persons or circumstances invalid, the remainder of the provisions and their applicability to any persons or circumstances will not be affected.
+
+[89 FR 42714, May 15, 2024]

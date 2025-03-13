@@ -2,7 +2,7 @@
 
 (a) The *Assistant Secretary of Defense (Force Management and Personnel* (ASD(FM&P)), or designee, shall:
 
-(1) Represent the Secretary of Defense in all matters related to the DoD Civilian EEO Program, consistent with DoD Directive 5124.23
+(1) Represent the Secretary of Defense in all matters related to the DoD Civilian EEO Program, consistent with DoD Directive 5124.2 3
 
 3 See footnote 1 to § 191.2(c).
 
@@ -32,7 +32,7 @@
 
 (14) Represent the Department of Defense on the Interagency Committee on Handicapped Employees under E.O. 11830, as amended, and the Council on Accessible Technology under General Services Administration Order ADM 5420.71A.
 
-(15) Represent the Department of Defense at meetings and conferences of non-Federal organizations concerned with EEO programs, and coordinate DoD support of such organizations' activities with the Assistant Secretary of Defense (Public Affairs) and with DoD General Counsel in accordance with DoD Directive 5410.184, DoD Instruction 5410.195, DoD Directive 5500.26, and DoD Directive 5500.77.
+(15) Represent the Department of Defense at meetings and conferences of non-Federal organizations concerned with EEO programs, and coordinate DoD support of such organizations' activities with the Assistant Secretary of Defense (Public Affairs) and with DoD General Counsel in accordance with DoD Directive 5410.18 4, DoD Instruction 5410.19 5, DoD Directive 5500.2 6, and DoD Directive 5500.7 7.
 
 4 See footnote 1 to § 191.2(c).
 

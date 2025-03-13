@@ -14,7 +14,7 @@
 
 (B) A description of how the movement of PSC personnel will be coordinated through areas of increased risk or planned or ongoing military operations, including how PSC personnel will be rapidly identified by members of the U.S. Armed Forces.
 
-(C) A communication plan, to include a description of how relevant threat information will be shared between PSC personnel and U.S. military forces and how appropriate assistance will be provided to PSC personnel who become engaged in hostile situations. DoD contractors performing private security functions are only to be used in accordance with DoD Instruction 1100.22, “Policy and Procedures for Determining Workforce Mix,”1 that is, they are limited to a defensive response to hostile acts or demonstrated hostile intent.
+(C) A communication plan, to include a description of how relevant threat information will be shared between PSC personnel and U.S. military forces and how appropriate assistance will be provided to PSC personnel who become engaged in hostile situations. DoD contractors performing private security functions are only to be used in accordance with DoD Instruction 1100.22, “Policy and Procedures for Determining Workforce Mix,” 1 that is, they are limited to a defensive response to hostile acts or demonstrated hostile intent.
 
 1 Available at *http://www.dtic.mil/whs/directives/corres/pdf/110022p.pdf.*
 

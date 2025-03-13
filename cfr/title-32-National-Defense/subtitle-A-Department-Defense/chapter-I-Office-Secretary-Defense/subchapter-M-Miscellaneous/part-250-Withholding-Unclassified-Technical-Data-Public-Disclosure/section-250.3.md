@@ -6,7 +6,7 @@
 
 (1) The individual who will act as recipient of the export-controlled technical data on behalf of the U.S. contractor is a U.S. citizen or a person admitted lawfully into the United States for permanent residence and is located in the United States.
 
-(2) Such data are needed to bid or perform on a contract with the Department of Defense, or other U.S. Government agency, or for other legitimate business purposes2 in which the U.S. contractor is engaged, or plans to engage. The purpose for which the data are needed shall be described sufficiently in such certification to permit an evaluation of whether subsequent requests for data, pursuant to § 250.5(d)(2) are related properly to such business purpose.
+(2) Such data are needed to bid or perform on a contract with the Department of Defense, or other U.S. Government agency, or for other legitimate business purposes 2 in which the U.S. contractor is engaged, or plans to engage. The purpose for which the data are needed shall be described sufficiently in such certification to permit an evaluation of whether subsequent requests for data, pursuant to § 250.5(d)(2) are related properly to such business purpose.
 
 2 This does not require a contract with or a grant from the U.S. Government.
 

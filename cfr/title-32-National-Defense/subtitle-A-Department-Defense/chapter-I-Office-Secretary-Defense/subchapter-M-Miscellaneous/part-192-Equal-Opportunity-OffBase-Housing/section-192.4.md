@@ -1,6 +1,6 @@
 ##### § 192.4 Policy. #####
 
-It is DoD policy that under DoD Directive 1350.21 the Department of Defense is fully committed to the goal of obtaining equal treatment for all DoD personnel. Specific guidance on off-base housing and fair housing enforcement is as follows:
+It is DoD policy that under DoD Directive 1350.2 1 the Department of Defense is fully committed to the goal of obtaining equal treatment for all DoD personnel. Specific guidance on off-base housing and fair housing enforcement is as follows:
 
 1 Copies of all DoD issuances listed in this part may be obtained, at cost, from the National Technical Information Service, 5285 Port Royal Road, Springfield, VA 22161.
 

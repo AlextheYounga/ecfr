@@ -2,7 +2,7 @@
 
 (a) *Appearance.* The presence and participation of a member of the Military Services, or an attorney of the member's choosing, throughout the judicial proceeding from which the judgment was issued that is the basis for a request for enforcement through involuntary allotment.
 
-(b) *Applicant.* The original judgment holder, a successor in interest, or attorney or agent thereof who requests an involuntary allotment from a member of the Military Services pursuant to DoD Directive 1344.9.1
+(b) *Applicant.* The original judgment holder, a successor in interest, or attorney or agent thereof who requests an involuntary allotment from a member of the Military Services pursuant to DoD Directive 1344.9. 1
 
 1 Copies may be obtained, at cost, from the National Technical Information Service, 5285 Port Royal Road, Springfield, VA 22161.
 
@@ -56,7 +56,7 @@
 
 (viii) Amounts otherwise required by law to be deducted from a member's pay (except payments under 42 U.S.C. 659, 661, 662, and 665).
 
-(d) *Preponderance of the evidence.* A greater weight of evidence that is more credible and convincing to the mind. That which best accords with reason and probability. (See Black's Law Dictionary2)
+(d) *Preponderance of the evidence.* A greater weight of evidence that is more credible and convincing to the mind. That which best accords with reason and probability. (See Black's Law Dictionary 2)
 
 2 Black's Law Dictionary, Fourth Edition, West Publishing Company, Saint Paul, Minnesota (1952).
 

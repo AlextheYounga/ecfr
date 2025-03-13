@@ -1,7 +1,11 @@
-##### § 585.116 Requests for information on the state of the offshore renewable energy industry. #####
+##### § 585.116 Requests for information. #####
 
-(a) The Director may, from time to time, and at the Director's discretion, solicit information from industry and other relevant stakeholders (including State and local agencies), as necessary, to evaluate the state of the offshore renewable energy industry, including the identification of potential challenges or obstacles to its continued development. Such requests for information may relate to the identification of environmental, technical, regulatory, or economic matters that promote or detract from continued development of renewable energy technologies on the OCS. From the information received, the Director may evaluate potential refinements to the OCS Alternative Energy Program that promote development of the industry in a safe and environmentally responsible manner, and that ensure fair value for use of the nation's OCS.
+BOEM may publish a request for information (RFI) in the Federal Register for the following reasons:
 
-(b) BOEM may make such requests for information on a regional basis and may tailor the requests to specific types of renewable energy technologies.
+(a) To solicit information from industry, federally recognized Tribes, State and local agencies, and other interested entities for evaluating the offshore renewable energy industry, including the identification of potential challenges or obstacles to its continued development. An RFI may relate to the identification of environmental, technical, regulatory, or economic matters that promote or detract from continued development of renewable energy technologies on the OCS. BOEM may use the information received to refine its renewable energy program, including to facilitate OCS renewable energy development in a safe and environmentally responsible manner and to ensure a fair return to the United States for use of the OCS.
 
-(c) BOEM will publish such requests for information by the Director in the Federal Register.
+(b) To assess interest in leasing all or part of the OCS for activities authorized in this part.
+
+(c) To determine whether there is competitive interest in a specific OCS renewable energy proposal received by BOEM, such as an unsolicited request for a lease under § 585.231(b) or a RUE or ROW grant under § 585.307(a).
+
+(d) To seek other information that BOEM needs for this program.

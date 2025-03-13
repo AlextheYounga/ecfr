@@ -6,11 +6,11 @@ This part:
 
 (b) Applies worldwide to all civilian employees and applicants for civilian employment within the Department of Defense in appropriated and non-appropriated fund positions.
 
-(c) Does not apply to military personnel, for whom equal opportunity is covered by DoD Directive 1350.21.
+(c) Does not apply to military personnel, for whom equal opportunity is covered by DoD Directive 1350.2 1.
 
 1 Copies may be obtained from the National Technical Information Service, 5285 Port Royal Road, Springfield, VA 22161.
 
-(d) Covers Federal employment issues under section 504 of the Rehabilitation Act of 1973, as amended, even though DoD Directive 1020.12 implements section 504 with respect to programs conducted and assisted by the Department of Defense. The standards established under section 501 of the Rehabilitation Act of 1973, as amended, (29 U.S.C. 791, 792, 793, and 795), are to be applied under section 504 of the Act with respect to civilian employees and applicants for civilian employment in Federal Agencies.
+(d) Covers Federal employment issues under section 504 of the Rehabilitation Act of 1973, as amended, even though DoD Directive 1020.1 2 implements section 504 with respect to programs conducted and assisted by the Department of Defense. The standards established under section 501 of the Rehabilitation Act of 1973, as amended, (29 U.S.C. 791, 792, 793, and 795), are to be applied under section 504 of the Act with respect to civilian employees and applicants for civilian employment in Federal Agencies.
 
 2 See footnote 1 to § 191.2(c).
 

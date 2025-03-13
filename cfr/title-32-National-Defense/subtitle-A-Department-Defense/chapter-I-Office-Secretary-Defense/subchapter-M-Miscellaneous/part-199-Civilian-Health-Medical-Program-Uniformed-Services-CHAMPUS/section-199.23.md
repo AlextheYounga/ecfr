@@ -24,7 +24,7 @@
 
 (A) Under 21 years of age; or
 
-(B) Incapable of self-support because of mental or physical incapacity and is in fact dependent on the member for more than1/2 of the child's support; or
+(B) Incapable of self-support because of mental or physical incapacity and is in fact dependent on the member for more than 1/2 of the child's support; or
 
 (C) Is under 23 years of age, is enrolled in a full-time course of study in an institution of higher education and is in fact dependent on the member for more than one-half of the child's support.
 

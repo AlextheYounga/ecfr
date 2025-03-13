@@ -4,7 +4,7 @@
 
 (b) The provision must provide, as a minimum, that any transfer of the:
 
-(1) Technology must be consistent with the U.S. export laws, regulations and policies (*e.g.,* the International Traffic in Arms Regulation at chapter I, subchapter M, title 22 of the CFR (22 CFR parts 120 through 130), the DoD Industrial Security Regulation in DoD 5220.22-R,3 and the Department of Commerce Export Regulation at chapter VII, subchapter C, title 15 of the CFR (15 CFR parts 730 through 774), as applicable.
+(1) Technology must be consistent with the U.S. export laws, regulations and policies (*e.g.,* the International Traffic in Arms Regulation at chapter I, subchapter M, title 22 of the CFR (22 CFR parts 120 through 130), the DoD Industrial Security Regulation in DoD 5220.22-R, 3 and the Department of Commerce Export Regulation at chapter VII, subchapter C, title 15 of the CFR (15 CFR parts 730 through 774), as applicable.
 
 3 Electronic copies may be obtained at the Washington Headquarters Services Internet site *http://www.dtic.mil/whs/directives.* Paper copies may be obtained, at cost, from the National Technical Information Service, 5285 Port Royal Road, Springfield, VA 22161.
 

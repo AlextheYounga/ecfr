@@ -322,4 +322,4 @@ The Director, OCHAMPUS, or a designee, may authorize a CHAMPUS fiscal intermedia
 
 (j) *General assignment of benefits not recognized.* CHAMPUS does not recognize any general assignment of CHAMPUS benefits to another person. All CHAMPUS benefits are payable as described in this and other Sections of this part.
 
-[51 FR 24008, July 1, 1986]Editorial Note:For Federal Register citations affecting § 199.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[51 FR 24008, July 1, 1986] Editorial Note:For Federal Register citations affecting § 199.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

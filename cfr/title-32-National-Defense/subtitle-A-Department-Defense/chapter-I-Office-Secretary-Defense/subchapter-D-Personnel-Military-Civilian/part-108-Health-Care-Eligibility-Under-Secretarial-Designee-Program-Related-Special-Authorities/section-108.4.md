@@ -56,7 +56,7 @@ It is DoD policy that:
 
 (h) *Emergency Health Care.* The Secretaries of the Military Departments and the USD(P&R) may designate emergency patients as eligible for emergency health care from MTFs in the United States pursuant to arrangements with local health authorities or in other appropriate circumstances. Such care shall be on a reimbursable basis, unless waived by the USD(P&R) or the Secretaries of the Military Departments when they are the approving authority.
 
-(i) *Research Subject Volunteers.* Research subjects are eligible for health care services from MTFs to the extent DoD Components are required by DoD Directive 3216.028 to establish procedures to protect subjects from medical expenses that are a direct result of participation in the research. Such care is on a non-reimbursable basis and limited to research injuries (unless the volunteer is otherwise an eligible health care beneficiary). Care is authorized during the pendency of the volunteer's involvement in the research, and may be extended further upon the approval of the USD(P&R).
+(i) *Research Subject Volunteers.* Research subjects are eligible for health care services from MTFs to the extent DoD Components are required by DoD Directive 3216.02 8 to establish procedures to protect subjects from medical expenses that are a direct result of participation in the research. Such care is on a non-reimbursable basis and limited to research injuries (unless the volunteer is otherwise an eligible health care beneficiary). Care is authorized during the pendency of the volunteer's involvement in the research, and may be extended further upon the approval of the USD(P&R).
 
 8 Copies available on the Internet at *http://www.dtic.mil/whs/directives/corres/pdf/321602p.pdf.*
 

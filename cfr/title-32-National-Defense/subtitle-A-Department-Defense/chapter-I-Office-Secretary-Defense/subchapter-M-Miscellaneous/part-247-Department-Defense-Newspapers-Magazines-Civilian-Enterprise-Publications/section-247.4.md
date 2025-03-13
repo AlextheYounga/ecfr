@@ -30,11 +30,11 @@ It is DoD policy that:
 
 (k) DoD publications shall not contain campaign news, partisan discussions, cartoons, editorials, or commentaries dealing with political campaigns, candidates, issues, or which advocate lobbying elected officials on specific issues. DoD CE publications shall not carry paid political advertisements for a candidate, party, which advocate a particular position on a political issue, or which advocate lobbying elected officials on a specific issue. This includes those advertisements advocating a position on any proposed DoD policy or policy under review.
 
-(l) DoD newspapers shall support the Federal Voting Assistance Program by carrying factual information about registration and voting laws, especially those on absentee voting requirements of the various States, the District of Columbia, Puerto Rico, and U.S. territories and possessions. DoD newspapers shall use voting materials provided by the Director, Federal Voting Assistance Program; the OSD; and the Military Departments. Such information is designed to encourage DoD personnel to register as voters and to exercise their right to vote as outlined in DoD Directive 1000.4.4
+(l) DoD newspapers shall support the Federal Voting Assistance Program by carrying factual information about registration and voting laws, especially those on absentee voting requirements of the various States, the District of Columbia, Puerto Rico, and U.S. territories and possessions. DoD newspapers shall use voting materials provided by the Director, Federal Voting Assistance Program; the OSD; and the Military Departments. Such information is designed to encourage DoD personnel to register as voters and to exercise their right to vote as outlined in DoD Directive 1000.4. 4
 
 4 See footnote 1 to § 247.1.
 
-(m) DoD publications shall comply with DoD Instruction 1100.135 pertaining to polls, surveys, and straw votes.
+(m) DoD publications shall comply with DoD Instruction 1100.13 5 pertaining to polls, surveys, and straw votes.
 
 5 See footnote 1 to § 247.1.
 
@@ -44,7 +44,7 @@ It is DoD policy that:
 
 (3) Opinion surveys must be in compliance with Military Service regulations.
 
-(n) DoD newspapers will support officially authorized fund-raising campaigns (e.g., Combined Federal Campaign (CFC)) within the Department of Defense in accordance with DoD Directive 5035.1.6 News coverage of the campaign will not discuss monetary goals, quotas, competition or tallies of solicitation between or among agencies. To avoid any appearance of endorsement, features and news coverage will discuss the campaign in general and not promote specific agencies within the CFC. Agencies may be mentioned routinely but must not be a main focus of features and news coverage.
+(n) DoD newspapers will support officially authorized fund-raising campaigns (e.g., Combined Federal Campaign (CFC)) within the Department of Defense in accordance with DoD Directive 5035.1. 6 News coverage of the campaign will not discuss monetary goals, quotas, competition or tallies of solicitation between or among agencies. To avoid any appearance of endorsement, features and news coverage will discuss the campaign in general and not promote specific agencies within the CFC. Agencies may be mentioned routinely but must not be a main focus of features and news coverage.
 
 6 See footnote 1 to § 247.1.
 
@@ -58,11 +58,11 @@ It is DoD policy that:
 
 (p) All commercial advertising, including advertising supplements, shall be clearly identifiable as such. Paid advertorials and advertising supplements may be included but must be clearly labeled as advertising and readily distinguishable from editorial content.
 
-(q) Alteration of official photographic and video imagery will comply with DoD Directive 5040.5.7
+(q) Alteration of official photographic and video imagery will comply with DoD Directive 5040.5. 7
 
 7 See footnote 1 to § 247.1.
 
-(r) Commercial sponsors of Armed Forces Professional Entertainment Program events and morale, welfare and recreation events may be mentioned routinely with other pertinent facts in news stories and announcements in DoD newspapers. (See DoD Instructions 1330.138 and 1015.2.9
+(r) Commercial sponsors of Armed Forces Professional Entertainment Program events and morale, welfare and recreation events may be mentioned routinely with other pertinent facts in news stories and announcements in DoD newspapers. (See DoD Instructions 1330.13 8 and 1015.2. 9
 
 8 See footnote 1 to § 247.1.
 

@@ -14,7 +14,7 @@
 
 (1) Perform the audit of the annual ARC accounts and prepare and submit the annual report according to 36 U.S.C. 300110 and this part.
 
-(2) Coordinate support to the BSA and GSUSA according to DoD Instruction 1015.95 and this part.
+(2) Coordinate support to the BSA and GSUSA according to DoD Instruction 1015.9 5 and this part.
 
 5 Copies may be obtained at *http://www.dtic.mil/whs/directives/.*
 
@@ -22,7 +22,7 @@
 
 (4) Designate a point of contact to coordinate matters regarding the DoD EA responsibilities, functions, and authorities.
 
-(c) The Secretary of the Air Force, as the designated DoD EA with responsibility for conducting the AFE program, shall administer the AFE program according to 10 U.S.C. 2554 and 2606, DoD Instruction 1330.136, and this part to include the following:
+(c) The Secretary of the Air Force, as the designated DoD EA with responsibility for conducting the AFE program, shall administer the AFE program according to 10 U.S.C. 2554 and 2606, DoD Instruction 1330.13 6, and this part to include the following:
 
 6 Copies may be obtained at *http://www.dtic.mil/whs/directives/.*
 

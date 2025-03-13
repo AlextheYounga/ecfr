@@ -70,11 +70,11 @@
 
 (B) Office space in a building that is accessible to most users and permits the maximum security. In addition, office space for MBF area and district administrations and storage space for retention of records, files, and storage of supplies.
 
-(C) DoD housing on a rental basis to assigned MBF staff that are designated as key and essential MBF managerial personnel who are unable to find suitable, reasonably priced housing in the vicinity of the DoD installation, subject to the assignment procedures and other requirements of DoD 4165.63-M.11
+(C) DoD housing on a rental basis to assigned MBF staff that are designated as key and essential MBF managerial personnel who are unable to find suitable, reasonably priced housing in the vicinity of the DoD installation, subject to the assignment procedures and other requirements of DoD 4165.63-M. 11
 
 11 See footnote 1 to § 231.1(a).
 
-(D) Education, on a space-available, tuition-paying basis, provided by the Department of Defense Education Activity to minor dependents of assigned staff in accordance with DoD Directive 1342.13.12
+(D) Education, on a space-available, tuition-paying basis, provided by the Department of Defense Education Activity to minor dependents of assigned staff in accordance with DoD Directive 1342.13. 12
 
 12 See footnote 1 to § 231.1(a).
 
@@ -86,7 +86,7 @@
 
 (H) Military guards, civilian guards (for use within the installation), military police, or other protective services to accompany shipments of money. This level of protective service also shall be provided at other times as required to include replenishment of ATM currency and receipts, alarm system failures, and to avoid undue risks or insurance costs on the part of the MBF.
 
-(I) U.S. Military Postal Service access in accordance with DoD Directive 4525.6.13 Use of free intra-theater delivery system (IDS) is authorized for all routine mail sent and received between Army Post Offices (APOs) and Fleet Post Offices (FPOs) within a theater.
+(I) U.S. Military Postal Service access in accordance with DoD Directive 4525.6. 13 Use of free intra-theater delivery system (IDS) is authorized for all routine mail sent and received between Army Post Offices (APOs) and Fleet Post Offices (FPOs) within a theater.
 
 13 See footnote 1 to § 231.1(a).
 

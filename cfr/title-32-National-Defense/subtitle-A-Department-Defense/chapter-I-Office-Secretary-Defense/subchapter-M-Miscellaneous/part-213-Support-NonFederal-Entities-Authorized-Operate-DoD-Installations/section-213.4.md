@@ -2,7 +2,7 @@
 
 It is DoD policy that:
 
-(a) DoD support for non-Federal entities shall be in accordance with relevant statutes as well as DoD 5500.7-R4. In accordance with DoD 5500.7-R and to avoid preferential treatment, DoD support should be uniform, recognizing that non-Federal entity support of Service members and their families can be important to their welfare.
+(a) DoD support for non-Federal entities shall be in accordance with relevant statutes as well as DoD 5500.7-R 4. In accordance with DoD 5500.7-R and to avoid preferential treatment, DoD support should be uniform, recognizing that non-Federal entity support of Service members and their families can be important to their welfare.
 
 4 Copies may be obtained at *http://www.dtic.mil/whs/directives/.*
 

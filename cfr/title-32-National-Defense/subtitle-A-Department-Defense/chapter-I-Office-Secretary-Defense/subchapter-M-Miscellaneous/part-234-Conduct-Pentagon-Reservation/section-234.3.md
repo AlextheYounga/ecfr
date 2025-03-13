@@ -1,6 +1,6 @@
 ##### § 234.3 Admission to property. #####
 
-(a) Access to the Pentagon Reservation or facilities thereon shall be restricted in accordance with AI Number 301 and other applicable Department of Defense rules and regulations in order to ensure the orderly and secure conduct of Department of Defense business. Admission to facilities or restricted areas shall be limited to employees and other persons with proper authorization. Forward written requests for copies of the document to Washington Headquarters Services, Executive Services Division, Freedom of Information Division, 1155 Defense Pentagon, Washington, DC 20301-1155.
+(a) Access to the Pentagon Reservation or facilities thereon shall be restricted in accordance with AI Number 30 1 and other applicable Department of Defense rules and regulations in order to ensure the orderly and secure conduct of Department of Defense business. Admission to facilities or restricted areas shall be limited to employees and other persons with proper authorization. Forward written requests for copies of the document to Washington Headquarters Services, Executive Services Division, Freedom of Information Division, 1155 Defense Pentagon, Washington, DC 20301-1155.
 
 1 Copies may be obtained at *http://www.dtic.mil/whs/directives/corres/ins2.html.*
 

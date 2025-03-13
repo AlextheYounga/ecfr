@@ -24,13 +24,13 @@
 
 (4) *Office of Public Affairs (SAF/PA):*
 
-(i) Reviews and clears environmental documents in accordance with Air Force Instruction (AFI) 35-101, Public Affairs Policies and Procedures3 prior to public release.
+(i) Reviews and clears environmental documents in accordance with Air Force Instruction (AFI) 35-101, Public Affairs Policies and Procedures 3 prior to public release.
 
 3 See footnote 1 to § 989.1.
 
 (ii) Assists the environmental planning function and the Air Force Legal Services Agency, Trial Judiciary Division (AFLOA/JAJT), in planning and conducting public scoping meetings and hearings.
 
-(iii) Ensures that public affairs aspects of all EIAP actions are conducted in accordance with this part and AFI 35-101.4
+(iii) Ensures that public affairs aspects of all EIAP actions are conducted in accordance with this part and AFI 35-101. 4
 
 4 See footnote 1 to § 989.1.
 
@@ -96,7 +96,7 @@ ProponentCivil Engineers/Environmental Planning FunctionStaff Judge AdvocatePubl
 
 (8) Prepares the NOI to prepare an EIS with assistance from the proponent and the Public Affairs Office.
 
-(9) Prepares applicable portions of the Certificate of Compliance for each military construction project according to AFI 32-1021, Planning and Programming of Facility Construction Projects.6
+(9) Prepares applicable portions of the Certificate of Compliance for each military construction project according to AFI 32-1021, Planning and Programming of Facility Construction Projects. 6
 
 6 See footnote 1 to § 989.1.
 
@@ -128,7 +128,7 @@ ProponentCivil Engineers/Environmental Planning FunctionStaff Judge AdvocatePubl
 
 (6) Determines and ensures Security Review requirements are met for all information proposed for public release.
 
-(7) For more comprehensive instructions about public affairs activities in environmental matters, see AFI 35-101.8
+(7) For more comprehensive instructions about public affairs activities in environmental matters, see AFI 35-101. 8
 
 8 See footnote 1 to § 989.1.
 
