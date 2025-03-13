@@ -68,7 +68,7 @@
 
 (2) *Farallon islands.* Under California law, commercial fishing for all groundfish is prohibited around the Farallon Islands, as defined at § 660.70. Vessels may transit through with all trawl gear stowed.
 
-(3) *Cordell Banks.* Commercial fishing for groundfish is prohibited in waters of depths less than 100-fm (183-m) around Cordell Banks, defined at § 660.70. Vessels may transit through with all trawl gear stowed.
+(3) *Cordell Bank.* Commercial fishing for groundfish is prohibited in waters of depths less than 100-fm (183-m) around Cordell Bank, defined at § 660.70. Vessels may transit through with all trawl gear stowed.
 
 (4) *Trawl RCA.* This GCA is off the coast of Washington, between the US/Canada border and 46°16′ N lat. Boundaries for the trawl RCA applicable to groundfish trawl vessels throughout the year are provided in the header to Table 1 (North) of this subpart and may be modified by NMFS inseason pursuant to § 660.60(c). Prohibitions at § 660.112(a)(5) do not apply under the following conditions and when the vessel has a valid declaration for the allowed fishing:
 
@@ -94,4 +94,4 @@
 
 (g) *Salmon bycatch.* This fishery may be closed through automatic action at § 660.60(d)(1)(iv) and (v).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78389, Dec. 15, 2010; 75 FR 82305, Dec. 30, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 76 FR 74741, Dec. 1, 2011; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 79 FR 71343, Dec. 2, 2014; 80 FR 12590, Mar. 10, 2015; 80 FR 31860, June 4, 2015; 80 FR 77272, Dec. 14, 2015; 82 FR 9658, Feb. 7, 2017; 83 FR 62277, Dec. 3, 2018; 83 FR 64002, Dec. 12, 2018; 83 FR 66638, Dec. 27, 2018; 84 FR 31159, June 28, 2019; 84 FR 49962, Sept. 24, 2019; 84 FR 63986, Nov. 19, 2019; 86 FR 10870, Feb. 23, 2021; 88 FR 81358, Nov. 22, 2023]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78389, Dec. 15, 2010; 75 FR 82305, Dec. 30, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 76 FR 74741, Dec. 1, 2011; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 79 FR 71343, Dec. 2, 2014; 80 FR 12590, Mar. 10, 2015; 80 FR 31860, June 4, 2015; 80 FR 77272, Dec. 14, 2015; 82 FR 9658, Feb. 7, 2017; 83 FR 62277, Dec. 3, 2018; 83 FR 64002, Dec. 12, 2018; 83 FR 66638, Dec. 27, 2018; 84 FR 31159, June 28, 2019; 84 FR 49962, Sept. 24, 2019; 84 FR 63986, Nov. 19, 2019; 86 FR 10870, Feb. 23, 2021; 88 FR 81358, Nov. 22, 2023; 88 FR 83848, Dec. 1, 2023]

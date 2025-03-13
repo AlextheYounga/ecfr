@@ -1,10 +1,8 @@
 ##### § 424.540 Deactivation of Medicare billing privileges. #####
 
-Link to an amendment published at 88 FR 77878, Nov. 13, 2023.
-
 (a) *Reasons for deactivation.* CMS may deactivate the Medicare billing privileges of a provider or supplier for any of the following reasons:
 
-(1) The provider or supplier does not submit any Medicare claims for 12 consecutive calendar months. The 12 month period will begin the 1st day of the 1st month without a claims submission through the last day of the 12th month without a submitted claim.
+(1) The provider or supplier does not submit any Medicare claims for 6 consecutive calendar months. The 6 month period will begin the 1st day of the 1st month without a claims submission through the last day of the 6th month without a submitted claim.
 
 (2) The provider or supplier does not report a change to the information supplied on the enrollment application within the applicable time period required under this title.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 88 FR 77878, Nov. 13, 2023.
 
 (e) *Payment prohibition.* A provider or supplier may not receive payment for services or items furnished while deactivated under this section.
 
-[71 FR 20776, Apr. 21, 2006, as amended at 74 FR 58134, Nov. 10, 2009; 77 FR 29030, May 16, 2012; 84 FR 47856, Sept. 10, 2019; 86 FR 62420, Nov. 9, 2021]
+[71 FR 20776, Apr. 21, 2006, as amended at 74 FR 58134, Nov. 10, 2009; 77 FR 29030, May 16, 2012; 84 FR 47856, Sept. 10, 2019; 86 FR 62420, Nov. 9, 2021; 88 FR 77878, Nov. 13, 2023]

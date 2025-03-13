@@ -1,7 +1,5 @@
 ##### § 660.73 Latitude/longitude coordinates defining the 100 fm (183 m) through 150 fm (274 m) depth contours. #####
 
-Link to an amendment published at 88 FR 83846, Dec. 1, 2023.
-
 Boundaries for some GCAs are defined by straight lines connecting a series of latitude/longitude coordinates. This section provides coordinates for the 100 fm (183 m) through 150 fm (274 m) depth contours.
 
 (a) The 100-fm (183-m) depth contour used between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:
@@ -798,7 +796,103 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (32) 34°12.89′ N lat., 120°29.31′ W long.
 
-(e) The 125-fm (229-m) depth contour used between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:
+(e) The 100 fm (183 m) depth contour around Santa Barbara Island off the State of California is defined by straight lines connecting all of the following points in the order stated:
+
+(1) 33°33.85′ N lat., 119°4.87′ W long.;
+
+(2) 33°33.27′ N lat., 119°5.67′ W long.;
+
+(3) 33°31.9′ N lat., 119°5.08′ W long.;
+
+(4) 33°28.62′ N lat., 119°7.28′ W long.;
+
+(5) 33°27.04′ N lat., 119°5.84′ W long.;
+
+(6) 33°26.2′ N lat., 119°3.24′ W long.;
+
+(7) 33°27.07′ N lat., 118°59.96′ W long.;
+
+(8) 33°28.7′ N lat., 118°58.76′ W long.;
+
+(9) 33°31′ N lat., 119°1.02′ W long.;
+
+(10) 33°31.99′ N lat., 119°2.86′ W long.; and
+
+(11) 33°33.85′ N lat., 119°4.87′ W long.
+
+(f) The 100 fm (183 m) depth contour around Tanner Bank off the State of California is defined by straight lines connecting all of the following points in the order stated:
+
+(1) 32°45.92′ N lat., 119°14.6′ W long.;
+
+(2) 32°44.34′ N lat., 119°16.43′ W long.;
+
+(3) 32°36.75′ N lat., 119°4.51′ W long.;
+
+(4) 32°41.41′ N lat., 119°2.93′ W long.;
+
+(5) 32° 45.85′ N lat., 119°10.62′ W long.; and
+
+(6) 32° 45.92′ N lat., 119°14.6′ W long.
+
+(g) The 100 fm (183 m) depth contour around San Nicholas Island off the State of California is defined by straight lines connecting all of the following points in the order stated:
+
+(1) 33°31.37′ N lat., 119°44.84′ W long.;
+
+(2) 33°28.82′ N lat., 119°52.19′ W long.;
+
+(3) 33°25.43′ N lat., 119°51.27′ W long.;
+
+(4) 33°18.01′ N lat., 119°47.18′ W long.;
+
+(5) 33°15.8′ N lat., 119°43.64′ W long.;
+
+(6) 33°14.22′ N lat., 119°37′ W long.;
+
+(7) 33°11.56′ N lat., 119°29.58′ W long.;
+
+(8) 33°11.28′ N lat., 119°26.54′ W long.;
+
+(9) 33°12.94′ N lat., 119°15.86′ W long.;
+
+(10) 33°14.48′ N lat., 119°16.97′ W long.;
+
+(11) 33°17.33′ N lat., 119°22.93′ W long.;
+
+(12) 33°21.28′ lat., 119°27.66′ W long.;
+
+(13) 33°23.38′ N lat., 119°33.29′ W long.; and
+
+(14) 33°31.37′ N lat., 119°44.84′ W long.
+
+(h) The 100 fm (183 m) depth contour around Cortes Bank off the State of California is defined by straight lines connecting all of the following points in the order stated:
+
+(1) 32°37.79′ N lat., 119°19.68′ W long.;
+
+(2) 32°36.19′ N lat., 119°21.84′ W long.;
+
+(3) 32°33.16′ N lat., 119°21.76′ W long.;
+
+(4) 32°30.92′ N lat., 119°20.46′ W long.;
+
+(5) 32°29.25′ N lat., 119°15.93′ W long.;
+
+(6) 32°29.44′ N lat., 119°15.44′ W long.;
+
+(7) 32°29.23′ N lat., 119°15.23′ W long.;
+
+(8) 32°27.48′ N lat., 119°15.56′ W long.;
+
+(9) 32°23.19′ N lat., 119°3.23′ W long.;
+
+(10) 32°22.94′ N lat., 118°57.58′ W long.;
+
+(11) 32°24.47′ N lat., 118°57.61′ W long.;
+
+(12) 32°27.3′ N lat., 119°1.06′ W long.; and
+
+(13) 32°37.79′ N lat., 119°19.68′ W long.
+
+(i) The 125-fm (229-m) depth contour used between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 48°15.00′ N. lat., 125°41.13′ W. long.;
 
@@ -1542,7 +1636,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (371) 32°34.54′ N lat., 117°23.04′ W long.
 
-(f) The 125 fm (229 m) depth contour around San Clemente Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
+(j) The 125 fm (229 m) depth contour around San Clemente Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 33°04.86′ N lat., 118°37.89′ W long.;
 
@@ -1574,7 +1668,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (15) 33°04.86′ N lat., 118°37.89′ W long.;
 
-(g) The 125 fm (229 m) depth contour around Santa Catalina Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
+(k) The 125 fm (229 m) depth contour around Santa Catalina Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 33°28.42′ N. lat., 118°39.85′ W. long.;
 
@@ -1612,7 +1706,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (18) 33°28.42′ N. lat., 118°39.85′ W. long.
 
-(h) The 125 fm (229 m) depth contour around Lasuen Knoll off the state of California is defined by straight lines connecting all of the following points in the order stated:
+(l) The 125 fm (229 m) depth contour around Lasuen Knoll off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 33°24.50′ N lat., 118°01.08′ W long.;
 
@@ -1624,7 +1718,105 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (5) 33°24.50′ N lat., 118°01.08′ W long.
 
-(i) The 150-fm (274-m) depth contour used between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:
+(m) The 125 fm (229 m) depth contour around Santa Barbara Island off the State of California is defined by straight lines connecting all of the following points in the order stated:
+
+(1) 33°33.96′ N lat., 119°4.88′ W long.;
+
+(2) 33°33.28′ N lat., 119°5.88′ W long.;
+
+(3) 33°30.98′ N lat., 119°6.32′ W long.;
+
+(4) 33°28.52′ N lat., 119°7.7′ W long.;
+
+(5) 33°26.93′ N lat., 119°5.94′ W long.;
+
+(6) 33°25.96′ N lat., 119°3.34′ W long.;
+
+(7) 33°27.01′ N lat., 118°59.73′ W long.;
+
+(8) 33°28.68′ N lat., 118°58.43′ W long.;
+
+(9) 33°31.2′ N lat., 119°1.09′ W long.;
+
+(10) 33°32.04′ N lat., 119° 2.77′ W long.; and
+
+(11) 33°33.96′ N lat., 119° 4.88′ W long.
+
+(n) The 125 fm (229 m) depth contour around Tanner Bank and Cortes Bank off the State of California is defined by straight lines connecting all of the following points in the order stated:
+
+(1) 32°46.01′ N lat., 119°14.63′ W long.;
+
+(2) 32°44.35′ N lat., 119°16.58′ W long.;
+
+(3) 32°40.85′ N lat., 119°11.61′ W long.;
+
+(4) 32°38.93′ N lat., 119°11.9′ W long.;
+
+(5) 32°41.32′ N lat., 119°18.11′ W long.;
+
+(6) 32°36.16′ N lat., 119°22.16′ W long.;
+
+(7) 32°33.09′ N lat., 119°21.89′ W long.;
+
+(8) 32°30.73′ N lat., 119°20.43′ W long.;
+
+(9) 32°28.94′ N lat., 119°15.4′ W long.;
+
+(10) 32°27.46′ N lat., 119°15.62′ W long.;
+
+(11) 32°24.58′ N lat., 119°9.83′ W long.;
+
+(12) 32°22.97′ N lat., 119°3′ W long.;
+
+(13) 32°22.03′ N lat., 118°56.26′ W long.;
+
+(14) 32°24.63′ N lat., 118°57.54′ W long.;
+
+(15) 32°34.72′ N lat., 119°10.24′ W long.;
+
+(16) 32°37.93′ N lat., 119°7.88′ W long.;
+
+(17) 32°36.55′ N lat., 119°4.42′ W long.;
+
+(18) 32°41.5′ N lat., 119°2.65′ W long.;
+
+(19) 32°45.98′ N lat., 119°10.71′ W long.; and
+
+(20) 32°46.01′ N lat., 119°14.63′ W long.
+
+(o) The 125 fm (229 m) depth contour around San Nicholas Island off the State of California is defined by straight lines connecting all of the following points in the order stated:
+
+(1) 33°31.65′ N lat., 119°44.84′ W long.;
+
+(2) 33°28.91′ N lat., 119°52.35′ W long.;
+
+(3) 33°25.39′ N lat., 119°51.44′ W long.;
+
+(4) 33°17.94′ N lat., 119°47.31′ W long.;
+
+(5) 33°15.33′ N lat., 119°43.4′ W long.;
+
+(6) 33°14.03′ N lat., 119°37.02′ W long.;
+
+(7) 33°11.49′ N lat., 119°29.58′ W long.;
+
+(8) 33°11.21′ N lat., 119°26.46′ W long.;
+
+(9) 33°12.9′ N lat., 119°15.74′ W long.;
+
+(10) 33°14.51′ N lat., 119°14.92′ W long.;
+
+(11) 33°14.76′ N lat., 119°17.07′ W long.;
+
+(12) 33°17.44′ N lat., 119°22.82′ W long.;
+
+(13) 33°21.37′ N lat., 119°27.53′ W long.;
+
+(14) 33°23.44′ N lat., 119°33.11′ W long.; and
+
+(15) 33°31.65′ N lat., 119°44.84′ W long.
+
+(p) The 150-fm (274-m) depth contour used between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 48°14.96′ N. lat., 125°41.24′ W. long.;
 
@@ -2258,7 +2450,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (316) 32°34.83′ N lat., 117°24.69′ W long.
 
-(j) The 150 fm (274 m) depth contour used around San Clemente Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
+(q) The 150 fm (274 m) depth contour used around San Clemente Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 32°47.95′ N. lat., 118°19.31′ W. long.;
 
@@ -2286,7 +2478,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (13) 32°47.95′ N. lat., 118°19.31′ W. long.
 
-(k) The 150 fm (274 m) depth contour used around Santa Catalina Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
+(r) The 150 fm (274 m) depth contour used around Santa Catalina Island off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 33°17.24′ N. lat., 118°12.94′ W. long.;
 
@@ -2316,7 +2508,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (14) 33°17.24′ N. lat., 118°12.94′ W. long.
 
-(l) The 150 fm (274 m) depth contour used around Lasuen Knoll off the state of California is defined by straight lines connecting all of the following points in the order stated:
+(s) The 150 fm (274 m) depth contour used around Lasuen Knoll off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 33°25.07′ N lat., 117°59.26′ W long.;
 
@@ -2328,7 +2520,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (5) 33°25.07′ N lat., 117°59.26′ W long.
 
-(m) The 150 fm (274 m) depth contour used between the U.S. border with Canada and 40°10′ N. lat., modified to allow fishing in petrale sole areas, is defined by straight lines connecting all of the following points in the order stated:
+(t) The 150 fm (274 m) depth contour used between the U.S. border with Canada and 40°10′ N. lat., modified to allow fishing in petrale sole areas, is defined by straight lines connecting all of the following points in the order stated:
 
 (1) 48°14.96′ N. lat., 125°41.24′ W. long.;
 
@@ -2698,4 +2890,134 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (184) 40°10.00′ N. lat., 124°22.96′ W. long.
 
-[69 FR 77059, Dec. 23, 2004; 70 FR 13119, Mar. 18, 2005, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 8500, Feb. 17, 2006; 71 FR 78678, Dec. 29, 2006; 74 FR 9905, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27531, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 82 FR 9640, Feb. 7, 2017; 83 FR 63992, Dec. 12, 2018; 83 FR 66639, Dec. 27, 2018; 84 FR 63974, Nov. 19, 2019; 85 FR 79893, Dec. 11, 2020; 86 FR 14381, Mar. 16, 2021; 87 FR 77017, Dec. 16, 2022]
+(u) The 150 fm (274 m) depth contour around Santa Barbara Island off the State of California is defined by straight lines connecting all of the following points in the order stated:
+
+(1) 33°34.6′ N lat., 119°4.57′ W long.;
+
+(2) 33°33.13′ N lat., 119°6.65′ W long.;
+
+(3) 33°28.13′ N lat., 119°8.17′ W long.;
+
+(4) 33°25.55′ N lat., 119°3.64′ W long.;
+
+(5) 33°26.96′ N lat., 118°59.58′ W long.;
+
+(6) 33°28.68′ N lat., 118°58.24′ W long.; and (7) 33°34.6′ N lat., 119°4.57′ W long.;
+
+(v) The 150 fm (274 m) depth contour around Tanner Bank and Cortes Bank off the State of California is defined by straight lines connecting all of the following points in the order stated:
+
+(1) 32°46.12′ N lat., 119°14.73′ W long.;
+
+(2) 32°44.37′ N lat., 119°16.82′ W long.;
+
+(3) 32°41.02′ N lat., 119°12.01′ W long.;
+
+(4) 32°39.28′ N lat., 119°12.18′ W long.;
+
+(5) 32°41.46′ N lat., 119°18.28′ W long.;
+
+(6) 32°36.17′ N lat., 119°22.31′ W long.;
+
+(7) 32°32.97′ N lat., 119°22.31′ W long.;
+
+(8) 32°30.57′ N lat., 119°20.54′ W long.;
+
+(9) 32°28.94′ N lat., 119°15.53′ W long.;
+
+(10) 32°27.45′ N lat., 119°15.79′ W long.;
+
+(11) 32°24.86′ N lat., 119°12.93′ W long.;
+
+(12) 32°21.43′ N lat., 118°55.1′ W long.;
+
+(13) 32°24.67′ N lat., 118°57.37′ W long.;
+
+(14) 32°34.34′ N lat., 119°9.28′ W long.;
+
+(15) 32°37.39′ N lat., 119°7.54′ W long.;
+
+(16) 32°36.38′ N lat., 119°4.32′ W long.;
+
+(17) 32°41.59′ N lat., 119°2.46′ W long.;
+
+(18) 32°46.07′ N lat., 119°10.68′ W long.; and
+
+(19) 32°46.12′ N lat., 119°14.73′ W long.
+
+(w) The 150 fm (274 m) depth contour around San Nicholas Island off the State of California is defined by straight lines connecting all of the following points in the order stated:
+
+(1) 33°33.22′ N lat., 119°46.7′ W long.;
+
+(2) 33°28.97′ N lat., 119°53.04′ W long.;
+
+(3) 33°24.67′ N lat., 119°51.27′ W long.;
+
+(4) 33°19.95′ N lat., 119°50.23′ W long.;
+
+(5) 33°13.07′ N lat., 119°41.99′ W long.;
+
+(6) 33°13.1′ N lat., 119°34.66′ W long.;
+
+(7) 33°11.45′ N lat., 119°29.57′ W long.;
+
+(8) 33°11.13′ N lat., 119°26.22′ W long.;
+
+(9) 33°11.8′ N lat., 119°20.64′ W long.;
+
+(10) 33°12.91′ N lat., 119°15.53′ W long.;
+
+(11) 33°14.52′ N lat., 119°14.72′ W long.;
+
+(12) 33°15.32′ N lat., 119°16.01′ W long.;
+
+(13) 33°14.78′ N lat., 119°16.97′ W long.;
+
+(14) 33°15.73′ N lat., 119°19.02′ W long.;
+
+(15) 33°16.73′ N lat., 119°18.97′ W long.;
+
+(16) 33°19.37′ N lat., 119°24.95′ W long.;
+
+(17) 33°21.69′ N lat., 119°27.44′ W long.;
+
+(18) 33°23.82′ N lat., 119°32.87′ W long.; and
+
+(19) 33°33.22′ N lat., 119°46.7′ W long.
+
+(x) The 150 fm (274 m) depth contour around Osborn Bank off the State of California is defined by straight lines connecting all of the following points in the order stated:
+
+(1) 33°23.53′ N lat., 119°3.73′ W long.;
+
+(2) 33°23.57′ N lat., 119°6.66′ W long.;
+
+(3) 33°23.12′ N lat., 119°7.25′ W long.;
+
+(4) 33°20.51′ N lat., 119°2.15′ W long.;
+
+(5) 33°20.58′ N lat., 119°0.48′ W long.;
+
+(6) 33°21.32′ N lat., 118°59.89′ W long.; and
+
+(7) 33°23.53′ N lat., 119°3.73′ W long.
+
+(y) The 150 fm (274 m) depth contour around the Eastern CCA area off the State of California is defined by straight lines connecting all of the following points in the order stated:
+
+(1) 32°41.41′ N lat., 117°59.05′ W long.;
+
+(2) 32°40.57′ N lat., 118°1.97′ W long.;
+
+(3) 32°40.04′ N lat.,118°1.23′ W long.;
+
+(4) 32°39.82′ N lat., 118°0.03′ W long.;
+
+(5) 32°38.02′ N lat., 117°57.86′ W long.;
+
+(6) 32°35.38′ N lat., 117°56.23′ W long.;
+
+(7) 32°36.68′ N lat., 117°55.02′ W long.;
+
+(8) 32°40.42′ N lat., 117°57.15′ W long.; and
+
+(9) 32°41.41′ N lat., 117°59.05′ W long.
+
+[69 FR 77059, Dec. 23, 2004; 70 FR 13119, Mar. 18, 2005, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 8500, Feb. 17, 2006; 71 FR 78678, Dec. 29, 2006; 74 FR 9905, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27531, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 82 FR 9640, Feb. 7, 2017; 83 FR 63992, Dec. 12, 2018; 83 FR 66639, Dec. 27, 2018; 84 FR 63974, Nov. 19, 2019; 85 FR 79893, Dec. 11, 2020; 86 FR 14381, Mar. 16, 2021; 87 FR 77017, Dec. 16, 2022; 88 FR 83846, Dec. 1, 2023]

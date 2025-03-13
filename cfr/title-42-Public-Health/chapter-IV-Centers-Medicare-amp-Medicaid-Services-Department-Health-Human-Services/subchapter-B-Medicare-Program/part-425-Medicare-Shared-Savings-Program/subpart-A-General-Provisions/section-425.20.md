@@ -1,7 +1,5 @@
 ##### § 425.20 Definitions. #####
 
-Link to an amendment published at 88 FR 79543, Nov. 16, 2023.
-
 As used in this part, unless otherwise indicated—
 
 *Accountable care organization* (ACO) means a legal entity that is recognized and authorized under applicable State, Federal, or Tribal law, is identified by a Taxpayer Identification Number (TIN), and is formed by one or more ACO participants(s) that is(are) defined at § 425.102(a) and may also include any other ACO participants described at § 425.102(b).
@@ -42,11 +40,21 @@ As used in this part, unless otherwise indicated—
 
 *Antitrust Agency* means the Department of Justice or Federal Trade Commission.
 
-*Assignable beneficiary* means a Medicare fee-for-service beneficiary who receives at least one primary care service with a date of service during a specified 12-month assignment window from a Medicare-enrolled physician who is a primary care physician or who has one of the specialty designations included in § 425.402(c).
+*Assignable beneficiary* means a Medicare fee-for-service beneficiary who receives at least one primary care service with a date of service during a specified 12-month assignment window from a Medicare-enrolled physician who is a primary care physician or who has one of the specialty designations included in § 425.402(c). For performance year 2025 and subsequent performance years, a Medicare fee-for-service beneficiary who does not meet this requirement but who meets both of the following criteria will also be considered an assignable beneficiary—
+
+(1) Receives at least one primary care service with a date of service during a specified 24-month expanded window for assignment from a Medicare-enrolled physician who is a primary care physician or who has one of the specialty designations included in § 425.402(c).
+
+(2) Receives at least one primary care service with a date of service during a specified 12-month assignment window from a Medicare-enrolled practitioner who is one of the following:
+
+(i) A physician assistant (as defined at § 410.74(a)(2) of this chapter).
+
+(ii) A nurse practitioner (as defined at § 410.75(b) of this chapter).
+
+(iii) A clinical nurse specialist (as defined at § 410.76(b) of this chapter).
 
 *Assignment* means the operational process by which CMS determines whether a beneficiary has chosen to receive a sufficient level of the requisite primary care services from ACO professionals so that the ACO may be appropriately designated as exercising basic responsibility for that beneficiary's care during a given benchmark or performance year.
 
-*Assignment window* means the 12-month period used to assign beneficiaries to an ACO.
+*Assignment window* means the 12-month period used to assign beneficiaries to an ACO, or to identify assignable beneficiaries, or both.
 
 *At-risk beneficiary* means, but is not limited to, a beneficiary who—
 
@@ -58,13 +66,23 @@ As used in this part, unless otherwise indicated—
 
 (4) Has a high utilization pattern;
 
-(5) Has one or more chronic conditions.
+(5) Has one or more chronic conditions;
 
-(6) Has had a recent diagnosis that is expected to result in increased cost.
+(6) Has had a recent diagnosis that is expected to result in increased cost;
 
-(7) Is entitled to Medicaid because of disability; or
+(7) Is entitled to Medicare because of disability; or
 
 (8) Is diagnosed with a mental health or substance abuse disorder.
+
+*Beneficiary eligible for Medicare CQMs* means a beneficiary identified for purposes of reporting Medicare CQMs for ACOs participating in the Medicare Shared Savings Program (Medicare CQMs), who is either of the following:
+
+(1) A Medicare fee-for-service beneficiary (as defined at § 425.20) who -
+
+(i) Meets the criteria for a beneficiary to be assigned to an ACO described at § 425.401(a); and
+
+(ii) Had at least one claim with a date of service during the measurement period from an ACO professional who is a primary care physician or who has one of the specialty designations included in § 425.402(c), or who is a physician assistant, nurse practitioner, or clinical nurse specialist.
+
+(2) A Medicare fee-for-service beneficiary who is assigned to an ACO in accordance with § 425.402(e) because the beneficiary designated an ACO professional participating in an ACO as responsible for coordinating their overall care.
 
 *BY* stands for benchmark year.
 
@@ -80,11 +98,13 @@ As used in this part, unless otherwise indicated—
 
 *Eligible professional* has the meanings given this term under section 1848(k)(3)(B) of the Act.
 
+*Expanded window for assignment* means the 24-month period used to assign beneficiaries to an ACO, or to identify assignable beneficiaries, or both that includes the applicable 12-month assignment window and the preceding 12 months.
+
 *Experienced with performance-based risk Medicare ACO initiatives* means an ACO that CMS determines meets the criteria in either paragraph (1) or (2) of this definition.
 
 (1) The ACO is the same legal entity as a current or previous ACO that is participating in, or has participated in, a performance-based risk Medicare ACO initiative as defined under this section, or that deferred its entry into a second Shared Savings Program agreement period under a two-sided model under § 425.200(e).
 
-(2) Forty percent or more of the ACO's ACO participants participated in a performance-based risk Medicare ACO initiative, as defined under this section, or in an ACO that deferred its entry into a second Shared Savings Program agreement period under a two-sided model under § 425.200(e), in any of the 5 most recent performance years.
+(2) Forty percent or more of the ACO's ACO participants participated in a performance-based risk Medicare ACO initiative, or in an ACO that deferred its entry into a second Shared Savings Program agreement period under a two-sided model under § 425.200(e), in any of the 5 most recent performance years. An ACO participant is considered to have participated in a performance-based risk Medicare ACO initiative if the ACO participant TIN was or will be included in financial reconciliation for one or more performance years under such initiative during any of the 5 most recent performance years.
 
 *Federally qualified health center (FQHC)* has the same meaning given to this term under § 405.2401(b) of this chapter.
 
@@ -96,7 +116,7 @@ As used in this part, unless otherwise indicated—
 
 (1) The ACO is a legal entity that has not participated in any performance-based risk Medicare ACO initiative as defined under this section, and has not deferred its entry into a second Shared Savings Program agreement period under a two-sided model under § 425.200(e).
 
-(2) Less than 40 percent of the ACO's ACO participants participated in a performance-based risk Medicare ACO initiative, as defined under this section, or in an ACO that deferred its entry into a second Shared Savings Program agreement period under a two-sided model under § 425.200(e), in each of the 5 most recent performance years.
+(2) Less than 40 percent of the ACO's ACO participants participated in a performance-based risk Medicare ACO initiative, or in an ACO that deferred its entry into a second Shared Savings Program agreement period under a two-sided model under § 425.200(e), in each of the 5 most recent performance years. An ACO participant is considered to have participated in a performance-based risk Medicare ACO initiative if the ACO participant TIN was or will be included in financial reconciliation for one or more performance years under such initiative during any of the 5 most recent performance years.
 
 *Low revenue ACO* means an ACO whose total Medicare Parts A and B fee-for-service revenue of its ACO participants based on revenue for the most recent calendar year for which 12 months of data are available, is less than 35 percent of the total Medicare Parts A and B fee-for-service expenditures for the ACO's assigned beneficiaries based on expenditures for the most recent calendar year for which 12 months of data are available.
 
@@ -182,7 +202,7 @@ As used in this part, unless otherwise indicated—
 
 *Reporting period,* for purposes of subpart F of this part, means the calendar year from January 1 to December 31.
 
-*Rural health center (RHC)* has the same meaning given to this term under § 405.2401(b).
+*Rural health clinic (RHC)* has the same meaning given to this term under § 405.2401(b) of this chapter.
 
 *Shared losses* means a portion of the ACO's performance year Medicare fee-for-service Parts A and B expenditures, above the applicable benchmark, it must repay to CMS. An ACO's eligibility for shared losses will be determined for each performance year. For an ACO requesting interim payment, shared losses may result from the interim payment calculation.
 
@@ -192,4 +212,4 @@ As used in this part, unless otherwise indicated—
 
 *Two-sided model* means a model under which the ACO may share savings with the Medicare program, if it meets the requirements for doing so, and is also liable for sharing any losses incurred under subpart G of this part.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32833, June 9, 2015; 80 FR 71385, Nov. 16, 2015; 81 FR 38013, June 10, 2016; 82 FR 53368, Nov. 15, 2017; 83 FR 60092, Nov. 23, 2018; 83 FR 68062, Dec. 31, 2018; 87 FR 70232, Nov. 18, 2022]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32833, June 9, 2015; 80 FR 71385, Nov. 16, 2015; 81 FR 38013, June 10, 2016; 82 FR 53368, Nov. 15, 2017; 83 FR 60092, Nov. 23, 2018; 83 FR 68062, Dec. 31, 2018; 87 FR 70232, Nov. 18, 2022; 88 FR 79543, Nov. 16, 2023]

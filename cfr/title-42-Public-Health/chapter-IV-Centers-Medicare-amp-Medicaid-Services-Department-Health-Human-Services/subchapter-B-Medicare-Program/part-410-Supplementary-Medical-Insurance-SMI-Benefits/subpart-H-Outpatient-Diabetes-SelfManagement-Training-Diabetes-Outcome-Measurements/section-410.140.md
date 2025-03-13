@@ -1,7 +1,5 @@
 ##### § 410.140 Definitions. #####
 
-Link to an amendment published at 88 FR 79529, Nov. 16, 2023.
-
 For purposes of this subpart, the following definitions apply:
 
 *ADA* stands for the American Diabetes Association.
@@ -10,7 +8,7 @@ For purposes of this subpart, the following definitions apply:
 
 *Deemed entity* means an individual, physician, or entity accredited by an approved organization, but that has not yet been approved by CMS under § 410.145(b) to furnish training.
 
-*Diabetes* means diabetes mellitus, a condition of abnormal glucose metabolism diagnosed using the following criteria: A fasting blood sugar greater than or equal to 126 mg/dL on two different occasions; a 2 hour post-glucose challenge greater than or equal to 200 mg/dL on 2 different occasions; or a random glucose test over 200 mg/dL for a person with symptoms of uncontrolled diabetes.
+*Diabetes* means diabetes mellitus, a condition of abnormal glucose metabolism.
 
 *NSDSMEP* stands for the National Standards for Diabetes Self Management Education Programs.
 
@@ -26,4 +24,4 @@ For purposes of this subpart, the following definitions apply:
 
 *Training* means outpatient diabetes self-management training.
 
-[65 FR 83148, Dec. 29, 2000, as amended at 68 FR 63261, Nov. 7, 2003; 76 FR 73471, Nov. 28, 2011]
+[65 FR 83148, Dec. 29, 2000, as amended at 68 FR 63261, Nov. 7, 2003; 76 FR 73471, Nov. 28, 2011, 88 FR 79529, Nov. 16, 2023]

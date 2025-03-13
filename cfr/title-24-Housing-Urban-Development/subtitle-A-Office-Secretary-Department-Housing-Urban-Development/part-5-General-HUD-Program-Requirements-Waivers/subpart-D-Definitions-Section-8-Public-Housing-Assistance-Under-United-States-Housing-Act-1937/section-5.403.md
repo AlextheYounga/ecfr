@@ -1,7 +1,5 @@
 ##### § 5.403 Definitions. #####
 
-Link to an amendment published at 88 FR 9655, Feb. 14, 2023.
-
 *Annual contributions contract* (ACC) means the written contract between HUD and a PHA under which HUD agrees to provide funding for a program under the 1937 Act, and the PHA agrees to comply with HUD requirements for the program.
 
 *Applicant* means a person or a family that has applied for housing assistance.
@@ -14,7 +12,11 @@ Link to an amendment published at 88 FR 9655, Feb. 14, 2023.
 
 *Family* includes, but is not limited to, the following, regardless of actual or perceived sexual orientation, gender identity, or marital status:
 
-(1) A single person, who may be an elderly person, displaced person, disabled person, near-elderly person, or any other single person; or
+(1) A single person, who may be:
+
+(i) An elderly person, displaced person, disabled person, near-elderly person, or any other single person;
+
+(ii) An otherwise eligible youth who has attained at least 18 years of age and not more than 24 years of age and who has left foster care, or will leave foster care within 90 days, in accordance with a transition plan described in section 475(5)(H) of the Social Security Act (42 U.S.C. 675(5)(H)), and is homeless or is at risk of becoming homeless at age 16 or older; or
 
 (2) A group of persons residing together, and such group includes, but is not limited to:
 
@@ -62,4 +64,4 @@ Link to an amendment published at 88 FR 9655, Feb. 14, 2023.
 
 (4) Means “individual with handicaps”, as defined in § 8.3 of this title, for purposes of reasonable accommodation and program accessibility for persons with disabilities.
 
-[61 FR 5665, Feb. 13, 1996, as amended at 63 FR 23853, Apr. 30, 1998; 65 FR 16715, Mar. 29, 2000; 77 FR 5674, Feb. 3, 2012]
+[61 FR 5665, Feb. 13, 1996, as amended at 63 FR 23853, Apr. 30, 1998; 65 FR 16715, Mar. 29, 2000; 77 FR 5674, Feb. 3, 2012; 88 FR 9655, Feb. 14, 2023]

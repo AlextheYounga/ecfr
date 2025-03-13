@@ -1,7 +1,5 @@
 ##### § 891.575 Leasing to eligible families. #####
 
-Link to an amendment published at 88 FR 75233, Nov. 2, 2023.
-
 (a) *Availability of assisted units for occupancy by eligible families.* (1) During the term of the HAP contract, a Borrower shall make available for occupancy by eligible families the total number of units for which assistance is committed under the HAP contract. For purposes of this section, making units available for occupancy by eligible families means that the Borrower:
 
 (i) Is conducting marketing in accordance with § 891.600(a);
@@ -10,7 +8,7 @@ Link to an amendment published at 88 FR 75233, Nov. 2, 2023.
 
 (iii) Has not rejected any such applicant family except for reasons acceptable to HUD.
 
-(2) If the Borrower is temporarily unable to lease all units for which assistance is committed under the HAP contract to eligible families, one or more units may, with the prior approval of HUD, be leased to otherwise eligible families that do not meet the income eligibility requirements of part 813 of this chapter. Failure on the part of the Borrower to comply with these requirements is a violation of the HAP contract and grounds for all available legal remedies, including an action for specific performance of the HAP contract, suspension or debarment from HUD programs, and reduction of the number of units under the HAP contract as set forth in paragraph (b) of this section.
+(2) If the Borrower is temporarily unable to lease all units for which assistance is committed under the HAP contract to eligible families, one or more units may, with the prior approval of HUD, be leased to otherwise eligible families that do not meet the income eligibility requirements of 24 CFR 5.653. Failure on the part of the Borrower to comply with these requirements is a violation of the HAP contract and grounds for all available legal remedies, including an action for specific performance of the HAP contract, suspension or debarment from HUD programs, and reduction of the number of units under the HAP contract as set forth in paragraph (b) of this section.
 
 (b) *Reduction of number of units covered by the HAP contract.* HUD may reduce the number of units covered by the HAP contract to the number of units available for occupancy by eligible families if:
 
@@ -38,4 +36,4 @@ Link to an amendment published at 88 FR 75233, Nov. 2, 2023.
 
 (f) The regulations of 24 CFR part 5, subpart L (Protection for Victims of Domestic Violence, Dating Violence, Sexual Assault, or Stalking) apply to this section.
 
-[61 FR 11956, Mar. 22, 1996, as amended at 73 FR 72343, Nov. 28, 2008; 75 FR 66262, Oct. 27, 2010; 81 FR 80815, Nov. 16, 2016]
+[61 FR 11956, Mar. 22, 1996, as amended at 73 FR 72343, Nov. 28, 2008; 75 FR 66262, Oct. 27, 2010; 81 FR 80815, Nov. 16, 2016; 88 FR 75233, Nov. 2, 2023]

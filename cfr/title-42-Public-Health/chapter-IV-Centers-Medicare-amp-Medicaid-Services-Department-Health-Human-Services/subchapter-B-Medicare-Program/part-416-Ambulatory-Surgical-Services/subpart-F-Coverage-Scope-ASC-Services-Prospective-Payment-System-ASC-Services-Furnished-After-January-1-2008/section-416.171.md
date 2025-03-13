@@ -1,7 +1,5 @@
 ##### § 416.171 Determination of payment rates for ASC services. #####
 
-Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
-
 (a) *Standard methodology.* The standard methodology for determining the national unadjusted payment rate for ASC services is to calculate the product of the applicable conversion factor and the relative payment weight established under § 416.167(b), unless otherwise indicated in this section.
 
 (1) *Conversion factor for CY 2008.* CMS calculates a conversion factor so that payment for ASC services furnished in CY 2008 would result in the same aggregate amount of expenditures as would be made if the provisions in this Subpart F did not apply, as estimated by CMS.
@@ -12,21 +10,21 @@ Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
 
 (ii) For CY 2010 through CY 2018, the update is the Consumer Price Index for All Urban Consumers (U.S. city average) as estimated by the Secretary for the 12-month period ending with the midpoint of the year involved.
 
-(iii) For CY 2019 through CY 2023, the update is the hospital inpatient market basket percentage increase applicable under section 1886(b)(3)(B)(iii) of the Act.
+(iii) For CY 2019 through CY 2025, the update is the hospital inpatient market basket percentage increase applicable under section 1886(b)(3)(B)(iii) of the Act.
 
-(iv) For CY 2024 and subsequent years, the update is the Consumer Price Index for All Urban Consumers (U.S. city average) as estimated by the Secretary for the 12-month period ending with the midpoint of the year involved.
+(iv) For CY 2026 and subsequent years, the update is the Consumer Price Index for All Urban Consumers (U.S. city average) as estimated by the Secretary for the 12-month period ending with the midpoint of the year involved.
 
 (v) For CY 2014 through CY 2018, the Consumer Price Index for All Urban Consumers update determined under paragraph (a)(2)(ii) of this section is reduced by 2.0 percentage points for an ASC that fails to meet the standards for reporting of ASC quality measures as established by the Secretary for the corresponding calendar year.
 
-(vi) For CY 2019 through CY 2023, the hospital inpatient market basket update determined under paragraph (a)(2)(iii) of this section is reduced by 2.0 percentage points for an ASC that fails to meet the standards for reporting of ASC quality measures as established by the Secretary for the corresponding calendar year.
+(vi) For CY 2019 through CY 2025, the hospital inpatient market basket update determined under paragraph (a)(2)(iii) of this section is reduced by 2.0 percentage points for an ASC that fails to meet the standards for reporting of ASC quality measures as established by the Secretary for the corresponding calendar year.
 
-(vii) For CY 2024 and subsequent years, the Consumer Price Index for All Urban Consumers update determined under paragraph (a)(2)(iv) of this section is reduced by 2.0 percentage points for an ASC that fails to meet the standards for reporting of ASC quality measures as established by the Secretary for the corresponding calendar year.
+(vii) For CY 2026 and subsequent years, the Consumer Price Index for All Urban Consumers update determined under paragraph (a)(2)(iv) of this section is reduced by 2.0 percentage points for an ASC that fails to meet the standards for reporting of ASC quality measures as established by the Secretary for the corresponding calendar year.
 
 (viii)(A) For CY 2011 through CY 2018, the Consumer Price Index for All Urban Consumers determined under paragraph (a)(2)(ii) of this section, after application of any reduction under paragraph (a)(2)(iv) of this section, is reduced by the productivity adjustment described in section 1886(b)(3)(B)(xi)(II) of the Act.
 
-(B) For CY 2019 through CY 2023, the hospital inpatient market basket update determined under paragraph (a)(2)(iii) of this section, after application of any reduction under paragraph (a)(2)(vi) of this section, is reduced by the productivity adjustment described in section 1886(b)(3)(B)(xi)(II) of the Act.
+(B) For CY 2019 through CY 2025, the hospital inpatient market basket update determined under paragraph (a)(2)(iii) of this section, after application of any reduction under paragraph (a)(2)(vi) of this section, is reduced by the productivity adjustment described in section 1886(b)(3)(B)(xi)(II) of the Act.
 
-(C) For CY 2024 and subsequent years, the Consumer Price Index for All Urban Consumers determined under paragraph (a)(2)(iv) of this section, after application of any reduction under paragraph (a)(2)(vii) of this section, is reduced by the productivity adjustment described in section 1886(b)(3)(B)(xi)(II) of the Act.
+(C) For CY 2026 and subsequent years, the Consumer Price Index for All Urban Consumers determined under paragraph (a)(2)(iv) of this section, after application of any reduction under paragraph (a)(2)(vii) of this section, is reduced by the productivity adjustment described in section 1886(b)(3)(B)(xi)(II) of the Act.
 
 (D) The application of the provisions of paragraph (a)(2)(viii)(A), (B), or (C) of this section may result in the update being less than zero percent for a year, and may result in payment rates for a year being less than the payment rates for the preceding year.
 
@@ -66,4 +64,4 @@ Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
 
 (2) For CY 2009 and subsequent calendar years, CMS adjusts the ASC relative payment weights under § 416.167(b)(2) as needed so that any updates and adjustments made under § 419.50(a) of this subchapter are budget neutral as estimated by CMS.
 
-[72 FR 42545, Aug. 2, 2007, as amended at 75 FR 72264, Nov. 24, 2010; 76 FR 74582, Nov. 30, 2011; 77 FR 277, Jan. 4, 2012; 77 FR 68558, Nov. 15, 2012; 79 FR 67030, Nov. 10, 2014; 81 FR 79879, Nov. 14, 2016; 83 FR 59178, Nov. 21, 2018; 84 FR 61490, Nov. 12, 2019; 86 FR 63993, Nov. 16, 2021]
+[72 FR 42545, Aug. 2, 2007, as amended at 75 FR 72264, Nov. 24, 2010; 76 FR 74582, Nov. 30, 2011; 77 FR 277, Jan. 4, 2012; 77 FR 68558, Nov. 15, 2012; 79 FR 67030, Nov. 10, 2014; 81 FR 79879, Nov. 14, 2016; 83 FR 59178, Nov. 21, 2018; 84 FR 61490, Nov. 12, 2019; 86 FR 63993, Nov. 16, 2021; 88 FR 82179, Nov. 22, 2023]

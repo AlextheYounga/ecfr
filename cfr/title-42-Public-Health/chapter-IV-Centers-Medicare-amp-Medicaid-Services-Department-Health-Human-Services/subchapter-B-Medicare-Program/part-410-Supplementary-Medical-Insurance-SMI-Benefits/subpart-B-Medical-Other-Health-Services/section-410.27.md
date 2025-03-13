@@ -1,7 +1,5 @@
 ##### § 410.27 Therapeutic outpatient hospital or CAH services and supplies incident to a physician's or nonphysician practitioner's service: Conditions. #####
 
-Link to an amendment published at 88 FR 82177, Nov. 22, 2023.
-
 (a) Medicare Part B pays for therapeutic hospital or CAH services and supplies furnished incident to a physician's or nonphysician practitioner's service, which are defined as all services and supplies furnished to hospital or CAH outpatients that are not diagnostic services and that aid the physician or nonphysician practitioner in the treatment of the patient, including drugs and biologicals which are not usually self-administered, if—
 
 (1) They are furnished—
@@ -18,7 +16,7 @@ Link to an amendment published at 88 FR 82177, Nov. 22, 2023.
 
 (B) Certain therapeutic services and supplies may be assigned either direct supervision or personal supervision.
 
-(*1*) For purposes of this section, direct supervision means that the physician or nonphysician practitioner must be immediately available to furnish assistance and direction throughout the performance of the procedure. It does not mean that the physician or nonphysician practitioner must be present in the room when the procedure is performed. For pulmonary rehabilitation, cardiac rehabilitation, and intensive cardiac rehabilitation services, direct supervision must be furnished by a doctor of medicine or a doctor of osteopathy, as specified in §§ 410.47 and 410.49, respectively. Until the later of the end of the calendar year in which the PHE as defined in § 400.200 of this subchapter ends or December 31, 2023, the presence of the physician for the purpose of the supervision of pulmonary rehabilitation, cardiac rehabilitation, and intensive cardiac rehabilitation services includes virtual presence through audio/video real-time communications technology (excluding audio-only); and
+(*1*) For purposes of this section, direct supervision means that the physician or nonphysician practitioner must be immediately available to furnish assistance and direction throughout the performance of the procedure. It does not mean that the physician or nonphysician practitioner must be present in the room when the procedure is performed. For pulmonary rehabilitation, cardiac rehabilitation, and intensive cardiac rehabilitation services, direct supervision must be furnished as specified in §§ 410.47 and 410.49, respectively. Through December 31, 2024, the presence of the physician or nonphysician practitioner for the purpose of the supervision of pulmonary rehabilitation, cardiac rehabilitation, and intensive cardiac rehabilitation services includes virtual presence through audio/video real-time communications technology (excluding audio-only); and
 
 (*2*) Personal supervision means the physician or nonphysician practitioner must be in attendance in the room during the performance of the procedure.
 
@@ -26,7 +24,7 @@ Link to an amendment published at 88 FR 82177, Nov. 22, 2023.
 
 (v) In accordance with applicable State law.
 
-(2) In the case of partial hospitalization services, also meet the conditions of paragraph (e) of this section.
+(2) In the case of partial hospitalization services or intensive outpatient services, also meet the conditions of paragraph (e) of this section.
 
 (b) Drugs and biologicals are also subject to the limitations specified in § 410.129.
 
@@ -34,7 +32,7 @@ Link to an amendment published at 88 FR 82177, Nov. 22, 2023.
 
 (d) Rules on emergency services furnished to outpatients in a foreign country are specified in subpart H of Part 424 of this chapter.
 
-(e) Medicare Part B pays for partial hospitalization services if they are—
+(e) Medicare Part B pays for partial hospitalization services and intensive outpatient services if they are—
 
 (1) Prescribed by a physician who certifies and recertifies the need for the services in accordance with subpart B of part 424 of this chapter; and
 
@@ -42,6 +40,6 @@ Link to an amendment published at 88 FR 82177, Nov. 22, 2023.
 
 (f) Services furnished by an entity other than the hospital are subject to the limitations specified in § 410.42(a).
 
-(g) For purposes of this section, “nonphysician practitioner'” means a clinical psychologist, licensed clinical social worker, physician assistant, nurse practitioner, clinical nurse specialist, or certified nurse-midwife.
+(g) For purposes of this section, *nonphysician practitioner* means a clinical psychologist, licensed clinical social worker, marriage and family therapist, mental health counselor, physician assistant, nurse practitioner, clinical nurse specialist, or certified nurse-midwife.
 
-[76 FR 74580, Nov. 30, 2011, as amended at 78 FR 75196, Dec. 10, 2013; 84 FR 61490, Nov. 12, 2019; 85 FR 8476, Feb. 14, 2020; 85 FR 19285, Apr. 6, 2020; 85 FR 86299, Dec. 29, 2020; 87 FR 72284, Nov. 23, 2022]
+[76 FR 74580, Nov. 30, 2011, as amended at 78 FR 75196, Dec. 10, 2013; 84 FR 61490, Nov. 12, 2019; 85 FR 8476, Feb. 14, 2020; 85 FR 19285, Apr. 6, 2020; 85 FR 86299, Dec. 29, 2020; 87 FR 72284, Nov. 23, 2022; 88 FR 82177, Nov. 22, 2023]

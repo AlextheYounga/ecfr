@@ -1,7 +1,5 @@
 ##### § 410.155 Outpatient mental health treatment limitation. #####
 
-Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
-
 (a) *Limitation.* For services subject to the limitation as specified in paragraph (b) of this section, the percentage of the expenses incurred for such services during a calendar year that is considered incurred expenses under Medicare Part B when determining the amount of payment and deductible under § 410.152 and § 410.160 of this part, respectively, is as follows:
 
 (1) For expenses incurred in years before 2010, 621/2 percent.
@@ -26,7 +24,7 @@ Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
 
 (ii) Brief office visits for the sole purpose of monitoring or changing drug prescriptions used in the treatment of mental, psychoneurotic, or personality disorders *billed under HCPCS code M0064 (or its successor).*
 
-(iii) Partial hospitalization services not directly provided by a physician.
+(iii) Partial hospitalization services or intensive outpatient services not directly provided by a physician.
 
 (iv) Psychiatric diagnostic services billed under CPT codes 90801 and 90802 (or successor codes) and diagnostic psychological and neuropsychological tests billed under CPT code range 96101 through 96125 (or successor codes) that are performed to establish a diagnosis.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
 
 (4) Subtract the Medicare payment amount from the Medicare-approved amount to obtain the patient liability amount.
 
-[63 FR 20129, Apr. 23, 1998, as amended at 73 FR 69934, Nov. 19, 2008; 74 FR 62005, Nov. 25, 2009]
+[63 FR 20129, Apr. 23, 1998, as amended at 73 FR 69934, Nov. 19, 2008; 74 FR 62005, Nov. 25, 2009; 88 FR 82179, Nov. 22, 2023]

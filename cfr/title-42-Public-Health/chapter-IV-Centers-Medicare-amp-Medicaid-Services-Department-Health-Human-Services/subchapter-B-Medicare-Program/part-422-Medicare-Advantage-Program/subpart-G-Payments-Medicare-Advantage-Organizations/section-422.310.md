@@ -1,7 +1,5 @@
 ##### § 422.310 Risk adjustment data. #####
 
-Link to an amendment published at 88 FR 79539, Nov. 16, 2023.
-
 (a) *Definition of risk adjustment data.* Risk adjustment data are all data that are used in the development and application of a risk adjustment payment model.
 
 (b) *Data collection: Basic rule.* Each MA organization must submit to CMS (in accordance with CMS instructions) the data necessary to characterize the context and purposes of each item and service provided to a Medicare enrollee by a provider, supplier, physician, or other practitioner. CMS may also collect data necessary to characterize the functional limitations of enrollees of each MA organization.
@@ -74,6 +72,8 @@ Link to an amendment published at 88 FR 79539, Nov. 16, 2023.
 
 (iii) CMS determines that extraordinary circumstances exist to release the data before reconciliation.
 
+(iv) CMS determines that releasing aggregated data before reconciliation is necessary and appropriate to support activities or authorized uses under paragraph (f)(1)(vii) of this section.
+
 (g) *Deadlines for submission of risk adjustment data.* Risk adjustment factors for each payment year are based on risk adjustment data submitted for items and services furnished during the 12-month period before the payment year that is specified by CMS. As determined by CMS, this 12-month period may include a 6-month data lag that may be changed or eliminated as appropriate. CMS may adjust these deadlines, as appropriate.
 
 (1) The annual deadline for risk adjustment data submission is the first Friday in September for risk adjustment data reflecting items and services furnished during the 12-month period ending the prior June 30, and the first Friday in March for data reflecting services furnished during the 12-month period ending the prior December 31.
@@ -86,4 +86,4 @@ Link to an amendment published at 88 FR 79539, Nov. 16, 2023.
 
 (3) Submission of corrected risk adjustment data in accordance with overpayments after the final risk adjustment data submission deadline, as described in paragraph (g)(2) of this section, must be made as provided in § 422.326.
 
-[73 FR 48757, Aug. 19, 2008, as amended at 79 FR 29956, May 23, 2014; 79 FR 50358, Aug. 22, 2014; 80 FR 7960, Feb. 12, 2015; 83 FR 16733, Apr. 16, 2018; 88 FR 6665, Feb. 1, 2023]
+[73 FR 48757, Aug. 19, 2008, as amended at 79 FR 29956, May 23, 2014; 79 FR 50358, Aug. 22, 2014; 80 FR 7960, Feb. 12, 2015; 83 FR 16733, Apr. 16, 2018; 88 FR 6665, Feb. 1, 2023; 88 FR 79539, Nov. 16, 2023]

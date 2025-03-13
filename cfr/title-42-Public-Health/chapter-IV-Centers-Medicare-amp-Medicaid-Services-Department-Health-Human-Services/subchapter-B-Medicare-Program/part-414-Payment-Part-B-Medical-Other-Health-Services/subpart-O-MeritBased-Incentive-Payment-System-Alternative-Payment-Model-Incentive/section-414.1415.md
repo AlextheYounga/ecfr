@@ -1,12 +1,14 @@
 ##### § 414.1415 Advanced APM criteria. #####
 
-Link to an amendment published at 88 FR 79538, Nov. 16, 2023.
-
 (a) *Use of certified electronic health record technology (CEHRT)*—(1) *Required use of CEHRT.* To be an Advanced APM, an APM must:
 
-(i) Require at least 50 percent, or for QP Performance Periods beginning in 2019, 75 percent of eligible clinicians in each participating APM Entity group, or for APMs in which hospitals are the APM Entities, each hospital, to use CEHRT to document and communicate clinical care to their patients or health care providers; or
+(i) For QP Performance Periods ending with 2018, require at least 50 percent, or for QP Performance Periods beginning with 2019 and ending with 2024, 75 percent, of eligible clinicians in each participating APM Entity group, or for APMs in which hospitals are the APM Entities, each hospital, to use CEHRT to document and communicate clinical care to their patients or health care providers;
 
-(ii) For QP Performance Periods prior to 2019, for the Shared Savings Program, apply a penalty or reward to an APM Entity based on the degree of the use of CEHRT of the eligible clinicians in the APM Entity.
+(ii) For QP Performance Periods prior to 2019, for the Shared Savings Program, apply a penalty or reward to an APM Entity based on the degree of the use of CEHRT of the eligible clinicians in the APM Entity; and
+
+(iii) For QP Performance Periods beginning with 2025, require use of CEHRT as defined at paragraph (3) under CEHRT at § 414.1305.
+
+(2) [Reserved].
 
 (b) *Payment based on quality measures.* (1) To be an Advanced APM, an APM must include quality measure performance as a factor when determining payment to participants for covered professional services under the terms of the APM.
 
@@ -84,4 +86,4 @@ Link to an amendment published at 88 FR 79538, Nov. 16, 2023.
 
 (7) *Medical Home Model 50 eligible clinician limit.* Beginning in the 2023 QP Performance Period, notwithstanding paragraphs (c)(2) and (4) of this section, if an APM Entity participating in a Medical Home Model is comprised of more than 50 eligible clinicians, as determined by that APM Entity's Participation List on any of the three QP determination dates (March 31, June 30, and August 31 of the QP Performance Period), the requirements of paragraphs (c)(1) and (3) of this section apply.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53960, Nov. 16, 2017; 83 FR 60090, Nov. 23, 2018; 84 FR 540, Jan. 31, 2019; 84 FR 63200, Nov. 15, 2019; 87 FR 70229, Nov. 18, 2022]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53960, Nov. 16, 2017; 83 FR 60090, Nov. 23, 2018; 84 FR 540, Jan. 31, 2019; 84 FR 63200, Nov. 15, 2019; 87 FR 70229, Nov. 18, 2022; 88 FR 79538, Nov. 16, 2023]

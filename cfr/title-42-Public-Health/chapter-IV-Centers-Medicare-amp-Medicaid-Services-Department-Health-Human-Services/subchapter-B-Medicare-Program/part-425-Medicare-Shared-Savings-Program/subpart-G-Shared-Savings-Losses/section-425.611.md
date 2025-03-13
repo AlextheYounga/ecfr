@@ -1,7 +1,5 @@
 ##### § 425.611 Adjustments to Shared Savings Program calculations to address the COVID-19 pandemic. #####
 
-Link to an amendment published at 88 FR 79548, Nov. 16, 2023.
-
 (a) *General.* This section describes adjustments CMS makes to Shared Savings Program calculations to address the impact of the COVID-19 pandemic.
 
 (b) *Episodes of care for treatment of COVID-19.* (1) CMS identifies an episode of care for treatment of COVID-19 based on either of the following:
@@ -26,7 +24,7 @@ Link to an amendment published at 88 FR 79548, Nov. 16, 2023.
 
 (B) Truncating expenditures for assignable beneficiaries in each county for purposes of determining county fee-for-service expenditures according to §§ 425.601(c)(3), 425.603(e)(3), and 425.654(a)(3).
 
-(iii) Determining national per capita expenditures for Parts A and B services under the original Medicare fee-for-service program for assignable beneficiaries for purposes of capping the regional adjustment to the ACO's historical benchmark according to §§ 425.601(a)(8)(ii)(C) and 425.656(c)(3), and capping the prior savings adjustment according to § 425.652(a)(8)(iv).
+(iii) Determining national per capita expenditures for Parts A and B services under the original Medicare fee-for-service program for assignable beneficiaries for purposes of capping the regional adjustment to the ACO's historical benchmark according to §§ 425.601(a)(8)(ii)(C) and 425.656(c)(3), and capping the prior savings adjustment according to § 425.658(c)(1)(ii).
 
 (iv) Determining the flat dollar equivalent of the projected absolute amount of growth in national per capita expenditures for Parts A and B services under the original Medicare fee-for-service program for assignable beneficiaries, for purposes of updating the ACO's historical benchmark according to § 425.602(b)(2).
 
@@ -38,4 +36,4 @@ Link to an amendment published at 88 FR 79548, Nov. 16, 2023.
 
 (5) Calculation or recalculation of the amount of the ACO's repayment mechanism arrangement according to § 425.204(f)(4).
 
-[85 FR 27625, May 8, 2020, as amended at 85 FR 85044, Dec. 28, 2020; 87 FR 70241, Nov. 18, 2022]
+[85 FR 27625, May 8, 2020, as amended at 85 FR 85044, Dec. 28, 2020; 87 FR 70241, Nov. 18, 2022; 88 FR 79548, Nov. 16, 2023]

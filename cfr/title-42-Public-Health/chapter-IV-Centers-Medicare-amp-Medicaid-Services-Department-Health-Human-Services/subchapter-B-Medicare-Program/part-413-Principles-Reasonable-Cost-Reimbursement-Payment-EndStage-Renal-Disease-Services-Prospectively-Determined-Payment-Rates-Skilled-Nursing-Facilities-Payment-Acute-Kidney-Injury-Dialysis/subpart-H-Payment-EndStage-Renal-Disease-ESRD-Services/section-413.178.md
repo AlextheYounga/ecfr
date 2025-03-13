@@ -1,7 +1,5 @@
 ##### § 413.178 ESRD quality incentive program. #####
 
-Link to an amendment published at 88 FR 76504, Nov. 6, 2023.
-
 (a) *Definitions.* As used in this section:
 
 (1) *Achievement threshold* means the 15th percentile of national ESRD facility performance on a clinical measure during the baseline period for a payment year.
@@ -18,7 +16,7 @@ Link to an amendment published at 88 FR 76504, Nov. 6, 2023.
 
 (7) *Improvement threshold* means an ESRD facility's performance on a clinical measure during the baseline period that applies to the measure for a payment year.
 
-(8) Minimum total performance score (mTPS) means, with respect to a payment year except payment year 2023, the total performance score that an ESRD facility would receive if, during the baseline period, it performed at the 50th percentile of national ESRD facility performance on all clinical measures and the median of national ESRD facility performance on all reporting measures.
+(8) *Minimum total performance score (mTPS)* means, with respect to a payment year except payment year 2023, the total performance score that an ESRD facility would receive if it performed at the 50th percentile of national ESRD facility performance on all clinical measures during the baseline period, and it performed at the median of national ESRD facility performance on all reporting measures using data from the most recently available year before the performance period.
 
 (9) *Payment reduction* means the reduction, as specified by CMS, to each payment that would otherwise be made to an ESRD facility under § 413.230 for a calendar year based on the TPS earned by the ESRD facility for the corresponding payment year that is lower than the mTPS score established for that payment year.
 
@@ -34,17 +32,59 @@ Link to an amendment published at 88 FR 76504, Nov. 6, 2023.
 
 (b) *Applicability of the ESRD QIP.* The ESRD QIP applies to ESRD facilities as defined at § 413.171 beginning the first day of the month that is 4 months after the facility CMS Certification Number (CCN) effective date.
 
-(c) *ESRD QIP measure selection.* CMS specifies measures for the ESRD QIP for a payment year and groups the measures into domains. The measures for a payment year include, but are not limited to:
+(c) *ESRD QIP measure selection, retention, and removal*—(1) *ESRD QIP measure selection.* CMS specifies measures for the ESRD QIP for a payment year and groups the measures into domains. The measures for a payment year include:
 
-(1) Measures on anemia management that reflect the labeling approved by the Food and Drug Administration for such management.
+(i) Measures on anemia management that reflect the labeling approved by the Food and Drug Administration for such management;
 
-(2) Measures on dialysis adequacy.
+(ii) Measures on dialysis adequacy;
 
-(3) To the extent feasible, a measure (or measures) of patient satisfaction.
+(iii) To the extent feasible, a measure (or measures) of patient satisfaction;
 
-(4) To the extent feasible, measures on iron management, bone mineral metabolism, and vascular access (including for maximizing the placement of arterial venous fistula).
+(iv) To the extent feasible, measures on iron management, bone mineral metabolism, and vascular access (including for maximizing the placement of arterial venous fistula);
 
-(5) Beginning with the 2016 payment year, measures specific to the conditions treated with oral-only drugs and that are, to the extent feasible, outcomes-based.
+(v) Beginning with the 2016 payment year, measures specific to the conditions treated with oral-only drugs and that are, to the extent feasible, outcomes-based; and
+
+(vi) Other measures that CMS specifies.
+
+(2) *Use of endorsed measures*—(i) *General rule.* Measures specified by CMS under paragraph (c)(1) of this section will be endorsed by the entity with a contract under section 1890(a) of the Social Security Act, unless the exception in paragraph (c)(2)(ii) of this section applies.
+
+(ii) *Exception.* CMS may specify a measure under paragraph (c)(1) of this section that does not meet the requirement in paragraph (c)(2)(i) of this section if:
+
+(A) CMS has determined that a specified area or medical topic is appropriate for inclusion in the ESRD QIP;
+
+(B) CMS has not identified a feasible and practical measure with respect to that specified area or medical topic that has been endorsed by the entity with a contract under section 1890(a) of the Social Security Act; and
+
+(C) CMS has given due consideration to measures that have been endorsed or adopted by a consensus organization.
+
+(3) *Updating of measure specifications.* CMS uses rulemaking to make substantive updates to the specifications of measures used in the ESRD QIP. CMS announces technical measure specification updates through the QualityNet website (*https://qualitynet.cms.gov*) and listserv announcements.
+
+(4) *Measure retention.* All measures specified for the ESRD QIP measure set remain in the measure set unless CMS, through rulemaking, removes or replaces them.
+
+(5) *Measure removal factors*—(i) *General rule.* CMS may remove or replace a measure based on one or more of the following factors:
+
+(A) *Factor 1.* Measure performance among the majority of ESRD facilities is so high and unvarying that meaningful distinctions in improvements or performance can no longer be made.
+
+(B) *Factor 2.* Performance or improvement on a measure does not result in better or the intended patient outcomes.
+
+(C) *Factor 3.* A measure no longer aligns with current clinical guidelines or practice.
+
+(D) *Factor 4.* A more broadly applicable (across settings, populations, or conditions) measure for the topic or a measure that is more proximal in time to desired patient outcomes for the particular topic becomes available.
+
+(E) *Factor 5.* A measure that is more strongly associated with desired patient outcomes for the particular topic becomes available.
+
+(F) *Factor 6.* Collection or public reporting of a measure leads to negative or unintended consequences.
+
+(G) *Factor 7.* It is not feasible to implement the measure specifications.
+
+(H) *Factor 8.* The costs associated with a measure outweigh the benefit of its continued use in the program.
+
+(ii) *Exception.* CMS may retain a measure that meets one or more of the measure removal factors described in paragraph (c)(5)(i) of this section for reasons including, but not limited to, that the measure addresses a gap in quality that is so significant that removing the measure would lower the quality of care furnished by facilities, or that the measure is statutorily required.
+
+(iii) *Patient safety exception.* Upon a determination by CMS that the continued requirement for facilities to submit data on a measure raises specific patient safety concerns, CMS may elect to immediately remove the measure from the ESRD QIP measure set. CMS will, upon removal of the measure—
+
+(A) Provide notice to facilities and the public at the time CMS removes the measure, along with a statement of the specific patient safety concerns that would be raised if facilities continued to submit data on the measure; and
+
+(B) Provide notice of the removal in the Federal Register.
 
 (d) *Data submission requirement.* (1) Except as provided in paragraph (d)(3) and (4) of this section, and for a payment year, facilities must submit to CMS data on each measure specified by CMS under paragraph (c) of this section. Facilities must submit these data in the form, manner, and at a time specified by CMS.
 
@@ -126,4 +166,4 @@ Link to an amendment published at 88 FR 76504, Nov. 6, 2023.
 
 (2) The mTPS for payment year 2023 is the total performance score that an ESRD facility would receive if, during the calendar year 2019 baseline period, it performed at the 50th percentile of national ESRD facility performance on Hypercalcemia clinical measure, NHSN Blood Stream Infection (BSI) clinical measure, and the median of national ESRD facility performance on Clinical Depression Screening and Follow-Up reporting measure, Standardized Transfusion Ratio (STrR) reporting measure, Ultrafiltration Rate reporting measure, NHSN Dialysis Event reporting measure, and Medication Reconciliation (MedRec) reporting measure.
 
-[83 FR 57068, Nov. 14, 2018, as amended at 84 FR 60803, Nov. 8, 2019; 85 FR 54872, Sept. 2, 2020; 86 FR 62020, Nov. 8, 2021; 87 FR 67302, Nov. 7, 2022]
+[83 FR 57068, Nov. 14, 2018, as amended at 84 FR 60803, Nov. 8, 2019; 85 FR 54872, Sept. 2, 2020; 86 FR 62020, Nov. 8, 2021; 87 FR 67302, Nov. 7, 2022; 88 FR 76504, Nov. 6, 2023]

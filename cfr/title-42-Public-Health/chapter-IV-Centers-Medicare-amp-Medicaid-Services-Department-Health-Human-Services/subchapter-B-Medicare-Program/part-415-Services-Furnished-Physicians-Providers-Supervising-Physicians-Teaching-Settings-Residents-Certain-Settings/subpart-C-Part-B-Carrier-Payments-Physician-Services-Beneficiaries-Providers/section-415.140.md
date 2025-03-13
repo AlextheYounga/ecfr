@@ -1,14 +1,12 @@
 ##### § 415.140 Conditions for payment: Split (or shared) visits. #####
 
-Link to an amendment published at 88 FR 79539, Nov. 16, 2023.
-
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 *Facility setting* for purposes of this section means institutional settings in which payment for services and supplies furnished incident to a physician or practitioner's professional services is prohibited under § 410.26(b)(1) of this subchapter.
 
 *Split (or shared)**visit* means an evaluation and management (E/M) visit in the facility setting that is performed in part by both a physician and a nonphysician practitioner who are in the same group, in accordance with applicable law and regulations such that the service could be could be billed by either the physician or nonphysician practitioner if furnished independently by only one of them.
 
-*Substantive portion* means more than half of the total time spent by the physician and nonphysician practitioner performing the split (or shared) visit, except as otherwise provided in this paragraph. For visits other than critical care visits furnished in calendar year 2022 and 2023, *substantive portion* means one of the three key components (history, exam or medical decision-making) or more than half of the total time spent by the physician and nonphysician practitioner performing the split (or shared) visit.
+*Substantive portion* means more than half of the total time spent by the physician and nonphysician practitioner performing the split (or shared) visit, or a substantive part of the medical decision making except as otherwise provided in this paragraph. For critical care visits, substantive portion means more than half of the total time spent by the physician and nonphysician practitioner performing the split (or shared) visit.
 
 (b) *Conditions of payment.* For purposes of this section, the following conditions of payment apply:
 
@@ -18,4 +16,4 @@ Link to an amendment published at 88 FR 79539, Nov. 16, 2023.
 
 (3) *Claim modifier.* The designated modifier must be included on the claim to identify that the service was a split (or shared) visit.
 
-[86 FR 65682, Nov. 19, 2021, as amended at 87 FR 70230, Nov. 18, 2022]
+[86 FR 65682, Nov. 19, 2021, as amended at 87 FR 70230, Nov. 18, 2022; 88 FR 79539, Nov. 16, 2023]

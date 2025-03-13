@@ -1,7 +1,5 @@
 ##### § 495.4 Definitions. #####
 
-Link to an amendment published at 88 FR 79553, Nov. 16, 2023.
-
 In this part, unless otherwise indicated—
 
 *Ambulatory surgical center-based EP* means an EP who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the codes used in the HIPAA standard transaction as an ASC setting in the calendar year that is 2 years before the payment adjustment year.
@@ -118,7 +116,7 @@ In this part, unless otherwise indicated—
 
 (iii) The definition for 2019 and subsequent years specified in paragraph (2) of this definition.
 
-(2) For 2019 and subsequent years, EHR technology (which could include multiple technologies) certified under the ONC Health IT Certification Program that meets the 2015 Edition Base EHR definition (as defined at 45 CFR 170.102) and has been certified to the 2015 Edition health IT certification criteria—
+(2) For 2019 and subsequent years, EHR technology (which could include multiple technologies) certified under the ONC Health IT Certification Program that meets the 2015 Edition Base EHR definition, or subsequent Base EHR definition (as defined at 45 CFR 170.102) and has been certified to the ONC health IT certification criteria, as adopted and updated in 45 CFR 170.315-
 
 (i) At 45 CFR 170.315(a)(12) (family health history) and 45 CFR 170.315(e)(3) (patient health information capture); and
 

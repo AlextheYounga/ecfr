@@ -1,8 +1,12 @@
 ##### § 414.902 Definitions. #####
 
-Link to an amendment published at 88 FR 79531, Nov. 16, 2023.
-
 As used in this subpart, unless the context indicates otherwise—
+
+*Applicable five-year period* means:
+
+(1) For a qualifying biosimilar biological product for which payment has been made under section 1847A(b)(8) of the Act as of September 30, 2022, the 5-year period beginning on October 1, 2022; and
+
+(2) For a qualifying biosimilar biological product for which payment is first made under section 1847A(b)(8) of the Act during a calendar quarter during the period beginning October 1, 2022 and ending December 31, 2027, the 5-year period beginning on the first day of such calendar quarter during which such payment is first made.
 
 *Approved CAP vendor* means an entity that has been awarded a contract by CMS to participate in the competitive acquisition program under 1847B of the Act.
 
@@ -26,9 +30,13 @@ As used in this subpart, unless the context indicates otherwise—
 
 *Local carrier* means an entity assigned by CMS to process and pay claims for administration of drugs and biologicals under the CAP.
 
+*Low volume dose* means, with respect to determination of whether an increased applicable percentage is warranted, an FDA-labeled dose of a drug for which the volume removed from the vial or container containing the labeled dose does not exceed 0.4 mL.
+
 *Manufacturer's average sales price* means the price calculated and reported by a manufacturer under part 414, subpart J of this chapter.
 
 *Multiple source drug* means a drug described by section 1847A(c)(6)(C) of the Act.
+
+*New refund quarter* means a calendar quarter that is included in a report described in § 414.940(a) that is sent in the first year following the year in which the calendar quarter occurs.
 
 *Pacific Territories* means, for purposes of the CAP, American Samoa, Guam, or the Northern Mariana Islands.
 
@@ -37,6 +45,8 @@ As used in this subpart, unless the context indicates otherwise—
 *Participating CAP physician election agreement* means the agreement that the physician signs to notify CMS of the physician's election to participate in the CAP and to agree to the terms and conditions of CAP participation as set forth in this subpart.
 
 *Prescription order* means a written order submitted by the participating CAP physician to the approved CAP vendor that meets the requirements of this subpart.
+
+*Qualifying biosimilar biological product* means a biosimilar biological product (as described in section 1847A(b)(1)(C) of the Act) with an average sales price (as described in section 1847A(b)(8)(A)(i) of the Act) less than the average sales price of the reference biological for a calendar quarter during the applicable 5-year period.
 
 *Reference biological product* means the biological product licensed under such section 351 of the PHSA that is referred to in the application of the biosimilar biological product as defined at section 1847A(c)(6)(I) of the Act.
 
@@ -56,6 +66,8 @@ As used in this subpart, unless the context indicates otherwise—
 
 *Unit* is defined as in part 414, subpart J of this chapter.
 
+*Updated refund quarter* means a calendar quarter that is included in a report described in § 414.940(a) that is sent in the second year following the year in which the calendar quarter occurs.
+
 *Wholesale acquisition cost (WAC)* means the price described by section 1847A(c)(6)(B) of the Act.
 
-[69 FR 66424, Nov. 15, 2004, as amended at 70 FR 39093, July 6, 2005; 75 FR 73626, Nov. 29, 2010; 87 FR 70226, Nov. 18, 2022]
+[69 FR 66424, Nov. 15, 2004, as amended at 70 FR 39093, July 6, 2005; 75 FR 73626, Nov. 29, 2010; 87 FR 70226, Nov. 18, 2022; 88 FR 79531, Nov. 16, 2023]

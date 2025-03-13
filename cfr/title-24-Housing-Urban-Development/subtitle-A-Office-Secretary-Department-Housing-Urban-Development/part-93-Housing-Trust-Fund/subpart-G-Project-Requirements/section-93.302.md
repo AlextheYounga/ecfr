@@ -1,7 +1,5 @@
 ##### § 93.302 Qualification as affordable housing: rental housing. #####
 
-Link to an amendment published at 88 FR 9665, Feb. 14, 2023.
-
 (a) *Eligible tenants.* The HTF-assisted units in a rental housing project must be occupied by households who are eligible families in accordance with the income targeting requirements in § 93.250.
 
 (b) *Rent limitations*—(1)(i) *Extremely low-income tenants.* The HTF rent plus utilities of an extremely low-income tenant shall not exceed the greater of 30 percent of the federal poverty line or 30 percent of the income of a family whose annual income equals 30 percent of the median income for the area, as determined by HUD, with adjustments for the number of bedrooms in the unit. HUD will publish the HTF rent limits on an annual basis.
@@ -24,9 +22,9 @@ Link to an amendment published at 88 FR 9665, Feb. 14, 2023.
 
 (5) The termination of the restrictions on the project does not terminate the grantee's repayment obligation under § 93.403.
 
-(e) *Tenant income.* (1) The income of each tenant must be determined initially in accordance with § 93.151. In addition, in each year during the period of affordability, the project owner must re-examine each tenant's annual income in accordance with one of the options in § 93.151(c) selected by the grantee.
+(e) *Tenant income.* (1) The income of each tenant must be determined initially in accordance with § 93.151. In addition, in each year during the period of affordability, the project owner must re-examine each tenant's annual income in accordance with one of the options in § 93.151(d) selected by the grantee.
 
-(2) An owner who re-examines a tenant's annual income through a statement and certification in accordance with § 93.151(a)(1)(iii) must examine the source documentation of the income of each tenant every 6th year of the affordability period, except that, for units that receive project-based assistance, the owner must re-examine the tenant's annual income in accordance with the project-based assistance rules. Otherwise, an owner who accepts the tenant's statement and certification in accordance with § 93.151(a)(1)(iii) is not required to examine the income of tenants, unless there is evidence that the tenant's written statement failed to completely and accurately state information about the family's size or income.
+(2) An owner who re-examines a tenant's annual income through a statement and certification in accordance with § 93.151(d)(2) must examine the source documentation of the income of each tenant every 6th year of the affordability period unless the tenant or unit is assisted under the public housing program, Federal or State project-based rental assistance program, or a Federal tenant-based rental assistance program (*e.g.,* housing choice voucher assistance, HOME tenant-based rental assistance, etc.). For families or units that receive assistance under the public housing program, a Federal or State project-based rental subsidy program, or Federal tenant-based rental assistance program, the grantee must accept the calculation of a tenant's annual and adjusted income in accordance with the rules of those programs pursuant to § 93.151(a)(1) through (3). Otherwise, an owner who accepts the tenant's statement and certification in accordance with § 93.151(d)(2) is not required to examine the income of tenants unless there is evidence that the tenant's written statement failed to completely and accurately state information about the family's size or income.
 
 (f) *Over-income tenants.* HTF-assisted units continue to qualify as affordable housing despite a temporary noncompliance caused by increases in the incomes of existing tenants if actions satisfactory to HUD are being taken to ensure that all vacancies are filled in accordance with this section until the noncompliance is corrected.
 
@@ -35,3 +33,5 @@ Link to an amendment published at 88 FR 9665, Feb. 14, 2023.
 (h) *Tenant selection.* The tenants must be selected in accordance with § 93.303.
 
 (i) *Onsite inspections and financial oversight.* See § 93.404(d) for the grantee's ongoing responsibilities for onsite inspections and financial oversight.
+
+[80 FR 5220, Jan. 30, 2015, as amended at 88 FR 9665, Feb. 14, 2023]

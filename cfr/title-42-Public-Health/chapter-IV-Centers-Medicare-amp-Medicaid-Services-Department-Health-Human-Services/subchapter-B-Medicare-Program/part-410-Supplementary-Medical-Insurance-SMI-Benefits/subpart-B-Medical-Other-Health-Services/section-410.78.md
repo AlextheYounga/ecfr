@@ -1,7 +1,5 @@
 ##### § 410.78 Telehealth services. #####
 
-Link to an amendment published at 88 FR 79528, Nov. 16, 2023.
-
 (a) *Definitions.* For the purposes of this section the following definitions apply:
 
 (1) *Asynchronous store and forward technologies* means the transmission of a patient's medical information from an originating site to the physician or practitioner at the distant site. The physician or practitioner at the distant site can review the medical case without the patient being present. An asynchronous telecommunications system in single media format does not include telephone calls, images transmitted via facsimile machines and text messages without visualization of the patient (electronic mail). Photographs visualized by a telecommunications system must be specific to the patient's medical condition and adequate for furnishing or confirming a diagnosis and or treatment plan. Dermatological photographs, for example, a photograph of a skin lesion, may be considered to meet the requirement of a single media format under this provision.
@@ -36,6 +34,12 @@ Link to an amendment published at 88 FR 79528, Nov. 16, 2023.
 
 (ix) A certified registered nurse anesthetist as described in § 410.69.
 
+(x) Any distant site practitioner who can appropriately bill for diabetes self-management training services may do so on behalf of others who personally furnish the services as part of the DSMT entity.
+
+(xi) A marriage and family therapist as described in 410.53.
+
+(xii) A mental health counselor as described in 410.54.
+
 (3) The services are furnished to a beneficiary at an originating site, which is one of the following:
 
 (i) The office of a physician or practitioner.
@@ -64,7 +68,7 @@ Link to an amendment published at 88 FR 79528, Nov. 16, 2023.
 
 (xiii) A rural emergency hospital (as defined in section 1861(kkk)(2) of the Act), for services furnished on or after January 1, 2023.
 
-(xiv) The home of a beneficiary for the purposes of diagnosis, evaluation, and/or treatment of a mental health disorder for services furnished on or after the day that is the 152nd day after the end of the PHE as defined in our regulation at § 400.200 except as otherwise provided in this paragraph. Payment will not be made for a telehealth service furnished under this paragraph unless the following conditions are met:
+(xiv) The home of a beneficiary for the purposes of diagnosis, evaluation, and/or treatment of a mental health disorder for services that are furnished during the period beginning on the first day after the end of the emergency period as defined in our regulation at § 400.200 and ending on December 31, 2024 except as otherwise provided in this paragraph. Payment will not be made for a telehealth service furnished under this paragraph unless the following conditions are met:
 
 (A) The physician or practitioner has furnished an item or service in-person, without the use of telehealth, for which Medicare payment was made (or would have been made if the patient were entitled to, or enrolled for, Medicare benefits at the time the item or service is furnished) within 6 months prior to the initial telehealth service;
 
@@ -88,7 +92,7 @@ Link to an amendment published at 88 FR 79528, Nov. 16, 2023.
 
 (C) Services furnished on or after July 1, 2019 to an individual with a substance use disorder diagnosis, for purposes of treatment of a substance use disorder or a co-occurring mental health disorder.
 
-(D) Services furnished on or after the first day after the end of the PHE as defined in our regulation at § 400.200 for the purposes of diagnosis, evaluation, and/or treatment of a mental health disorder. Payment will not be made for a telehealth service furnished under this paragraph unless the physician or practitioner has furnished an item or service in person, without the use of telehealth, for which Medicare payment was made (or would have been made if the patient were entitled to, or enrolled for, Medicare benefits at the time the item or service is furnished) within 6 months prior to the initial telehealth service and within 6 months of any subsequent telehealth service.
+(D) Services furnished on or after January 1, 2025 for the purposes of diagnosis, evaluation, and/or treatment of a mental health disorder. Payment will not be made for a telehealth service furnished under this paragraph unless the physician or practitioner has furnished an item or service in person, without the use of telehealth, for which Medicare payment was made (or would have been made if the patient were entitled to, or enrolled for, Medicare benefits at the time the item or service is furnished) within 6 months prior to the initial telehealth service and within 6 months of any subsequent telehealth service.
 
 (5) The medical examination of the patient is under the control of the physician or practitioner at the distant site.
 
@@ -96,10 +100,12 @@ Link to an amendment published at 88 FR 79528, Nov. 16, 2023.
 
 (d) *Exception to the interactive telecommunications system requirement.* For Federal telemedicine demonstration programs conducted in Alaska or Hawaii only, Medicare payment is permitted for telehealth when asynchronous store and forward technologies, in single or multimedia formats, are used as a substitute for an interactive telecommunications system.
 
-(e) *Limitations.* (1) A clinical psychologist and a clinical social worker may bill and receive payment for individual psychotherapy via a telecommunications system, but may not seek payment for medical evaluation and management services.
+(e) *Limitations.* (1) A clinical psychologist and a clinical social worker, a marriage and family therapist (MFT), and a mental health counselor (MHC) may bill and receive payment for individual psychotherapy via a telecommunications system, but may not seek payment for medical evaluation and management services.
 
 (2) The physician visits required under § 483.40(c) of this title may not be furnished as telehealth services.
 
+(3) The distant site practitioner who reports the DSMT services may bill and receive payment when a professional furnishes injection training for an insulin-dependent patient using interactive telecommunications technology when such training is included as part of the DSMT plan of care referenced at § 410.141(b)(2).
+
 (f) *Process for adding or deleting services.* Except as otherwise provided in this paragraph (f), changes to the list of Medicare telehealth services are made through the annual physician fee schedule rulemaking process. During the Public Health Emergency, as defined in § 400.200 of this chapter, we will use a subregulatory process to modify the services included on the Medicare telehealth list during the Public Health Emergency, taking into consideration infection control, patient safety, and other public health concerns resulting from the emergency. CMS maintains the list of services that are Medicare telehealth services under this section, including the current HCPCS codes that describe the services on the CMS website.
 
-[66 FR 55330, Nov. 1, 2001, as amended at 67 FR 80041, Dec. 31, 2002; 69 FR 66423, Nov. 15, 2004; 70 FR 70330, Nov. 21, 2005; 72 FR 66399, Nov. 27, 2007; 73 FR 69934, Nov. 19, 2008; 74 FR 62005, Nov. 25, 2009; 75 FR 73615, Nov. 29, 2010; 76 FR 73470, Nov. 28, 2011; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 80 FR 71373, Nov. 16, 2015; 83 FR 60073, Nov. 23, 2018; 85 FR 19286, Apr. 6, 2020; 85 FR 27621, May 8, 2020; 85 FR 85027, Dec. 28, 2020; 86 FR 65666, Nov. 19, 2021; 87 FR 70224, Nov. 18, 2022]
+[66 FR 55330, Nov. 1, 2001, as amended at 67 FR 80041, Dec. 31, 2002; 69 FR 66423, Nov. 15, 2004; 70 FR 70330, Nov. 21, 2005; 72 FR 66399, Nov. 27, 2007; 73 FR 69934, Nov. 19, 2008; 74 FR 62005, Nov. 25, 2009; 75 FR 73615, Nov. 29, 2010; 76 FR 73470, Nov. 28, 2011; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 80 FR 71373, Nov. 16, 2015; 83 FR 60073, Nov. 23, 2018; 85 FR 19286, Apr. 6, 2020; 85 FR 27621, May 8, 2020; 85 FR 85027, Dec. 28, 2020; 86 FR 65666, Nov. 19, 2021; 87 FR 70224, Nov. 18, 2022; 88 FR 79528, Nov. 16, 2023]

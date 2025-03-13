@@ -1,7 +1,5 @@
 ##### § 570.3 Definitions. #####
 
-Link to an amendment published at 88 FR 9665, Feb. 14, 2023.
-
 The terms Affirmatively Furthering Fair Housing, HUD, and Secretary are defined in 24 CFR part 5. All of the following definitions in this section that rely on data from the United States Bureau of the Census shall rely upon the data available from the latest decennial census or the American Community Survey.
 
 *Act* means title I of the Housing and Community Development Act of 1974 as amended (42 U.S.C. 5301 *et seq.*).
@@ -52,7 +50,7 @@ The terms Affirmatively Furthering Fair Housing, HUD, and Secretary are defined 
 
 *Income.* For the purpose of determining whether a family or household is low- and moderate-income under subpart C of this part, grantees may select any of the three definitions listed below for each activity, except that integrally related activities of the same type and qualifying under the same paragraph of § 570.208(a) shall use the same definition of income. The option to choose a definition does not apply to activities that qualify under § 570.208(a)(1) (Area benefit activities), except when the recipient carries out a survey under § 570.208(a)(1)(vi). Activities qualifying under § 570.208(a)(1) generally must use the area income data supplied to recipients by HUD. The three definitions are as follows:
 
-(1)(i) “Annual income” as defined under the Section 8 Housing Assistance Payments program at 24 CFR 813.106 (except that if the CDBG assistance being provided is homeowner rehabilitation under § 570.202, the value of the homeowner's primary residence may be excluded from any calculation of Net Family Assets); or
+(1)(i) “Annual income” as defined under the Section 8 Housing Assistance Payments program at 24 CFR 5.609 (except that if the CDBG assistance being provided is homeowner rehabilitation under § 570.202, the value of the homeowner's primary residence may be excluded from any calculation of Net Family Assets); or
 
 (ii) Annual income as reported under the Census long-form for the most recent available decennial Census. This definition includes:
 
@@ -114,4 +112,4 @@ The terms Affirmatively Furthering Fair Housing, HUD, and Secretary are defined 
 
 *Urban Development Action Grant* (UDAG) means a grant made by the Secretary pursuant to section 119 of the Act and subpart G of this part.
 
-[53 FR 34437, Sept. 6, 1988; 53 FR 41330, Oct. 21, 1988, as amended at 56 FR 56126, Oct. 31, 1991; 60 FR 1915, 1943, Jan. 5, 1995; 60 FR 56909, Nov. 9, 1995; 61 FR 5209, Feb. 9, 1996; 61 FR 11475, Mar. 20, 1996; 61 FR 18674, Apr. 29, 1996; 68 FR 69582, Dec. 12, 2003; 69 FR 32778, June 10, 2004; 77 FR 5675, Feb. 3, 2012; 80 FR 42366, July 16, 2015; 80 FR 69870, Nov. 12, 2015; 85 FR 47910, Aug. 7, 2020]
+[53 FR 34437, Sept. 6, 1988; 53 FR 41330, Oct. 21, 1988, as amended at 56 FR 56126, Oct. 31, 1991; 60 FR 1915, 1943, Jan. 5, 1995; 60 FR 56909, Nov. 9, 1995; 61 FR 5209, Feb. 9, 1996; 61 FR 11475, Mar. 20, 1996; 61 FR 18674, Apr. 29, 1996; 68 FR 69582, Dec. 12, 2003; 69 FR 32778, June 10, 2004; 77 FR 5675, Feb. 3, 2012; 80 FR 42366, July 16, 2015; 80 FR 69870, Nov. 12, 2015; 85 FR 47910, Aug. 7, 2020; 88 FR 9665, Feb. 14, 2023]

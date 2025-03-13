@@ -1,6 +1,4 @@
-##### § 485.918 Condition of participation: Organization, governance, administration of services, and partial hospitalization services. #####
-
-Link to an amendment published at 88 FR 82183, Nov. 22, 2023.
+##### § 485.918 Condition of participation: Organization, governance, administration of services, partial hospitalization services, and intensive outpatient services. #####
 
 The CMHC must organize, manage, and administer its resources to provide CMHC services, including specialized services for children, elderly individuals, individuals with serious mental illness, and residents of its mental health service area who have been discharged from an inpatient mental health facility.
 
@@ -14,7 +12,7 @@ The CMHC must organize, manage, and administer its resources to provide CMHC ser
 
 (ii) Provides 24-hour-a-day emergency care services.
 
-(iii) Provides day treatment, partial hospitalization services other than in an individual's home or in an inpatient or residential setting, or psychosocial rehabilitation services.
+(iii) Provides day treatment, partial hospitalization services, or intensive outpatient services, other than in an individual's home or in an inpatient or residential setting, or psychosocial rehabilitation services.
 
 (iv) Provides screening for clients being considered for admission to State mental health facilities to determine the appropriateness of such services, unless otherwise directed by State law.
 
@@ -80,4 +78,16 @@ The CMHC must organize, manage, and administer its resources to provide CMHC ser
 
 (4) Meet the content of certification and plan of treatment requirements as described in § 424.24(e) of this chapter.
 
-(g) *Standard: Compliance with Federal, State, and local laws and regulations related to the health and safety of clients.* The CMHC and its staff must operate and furnish services in compliance with all applicable Federal, State, and local laws and regulations related to the health and safety of clients. If State or local law provides for licensing of CMHCs, the CMHC must be licensed. The CMHC staff must follow the CMHC's policies and procedures.
+(g) *Standard: Intensive outpatient services.* A CMHC providing intensive outpatient services must—
+
+(1) Provide services as defined in § 410.2 of this chapter.
+
+(2) Provide the services and meet the requirements specified in § 410.44 of this chapter.
+
+(3) Meet the requirements for coverage as described in § 410.111 of this chapter.
+
+(4) Meet the content of certification and plan of treatment requirements as described in § 424.24(d) of this chapter.
+
+(h) *Standard: Compliance with Federal, State, and local laws and regulations related to the health and safety of clients.* The CMHC and its staff must operate and furnish services in compliance with all applicable Federal, State, and local laws and regulations related to the health and safety of clients. If State or local law provides for licensing of CMHCs, the CMHC must be licensed. The CMHC staff must follow the CMHC's policies and procedures.
+
+[78 FR 64630, Oct. 29, 2013, as amended at 88 FR 82183, Nov. 22, 2023]

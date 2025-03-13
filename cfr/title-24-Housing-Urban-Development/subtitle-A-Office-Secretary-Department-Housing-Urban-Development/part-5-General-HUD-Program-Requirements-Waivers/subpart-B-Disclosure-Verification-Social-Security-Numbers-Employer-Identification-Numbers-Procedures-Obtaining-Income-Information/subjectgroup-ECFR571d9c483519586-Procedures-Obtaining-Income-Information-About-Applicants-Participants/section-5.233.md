@@ -1,7 +1,5 @@
 ##### § 5.233 Mandated use of HUD's Enterprise Income Verification (EIV) System. #####
 
-Link to an amendment published at 88 FR 9655, Feb. 14, 2023.
-
 (a) *Programs subject to this section and requirements.* (1) The requirements of this section apply to entities administering assistance under the:
 
 (i) Public Housing program under 24 CFR part 960;
@@ -24,10 +22,10 @@ Link to an amendment published at 88 FR 9655, Feb. 14, 2023.
 
 (2) Processing entities must use HUD's EIV system in its entirety:
 
-(i) As a third party source to verify tenant employment and income information during mandatory reexaminations or recertifications of family composition and income, in accordance with § 5.236, and administrative guidance issued by HUD; and
+(i) As a third-party source to verify tenant employment and income information during annual and streamlined reexaminations of family composition and income, in accordance with § 5.236 and administrative guidance issued by HUD; and
 
 (ii) To reduce administrative and subsidy payment errors in accordance with HUD administrative guidance.
 
 (b) *Penalties for noncompliance.* Failure to use the EIV system in its entirety may result in the imposition of sanctions and/or the assessment of disallowed costs associated with any resulting incorrect subsidy or tenant rent calculations, or both.
 
-[74 FR 68934, Dec. 29, 2009]
+[74 FR 68934, Dec. 29, 2009, as amended at 88 FR 9655, Feb. 14, 2023]

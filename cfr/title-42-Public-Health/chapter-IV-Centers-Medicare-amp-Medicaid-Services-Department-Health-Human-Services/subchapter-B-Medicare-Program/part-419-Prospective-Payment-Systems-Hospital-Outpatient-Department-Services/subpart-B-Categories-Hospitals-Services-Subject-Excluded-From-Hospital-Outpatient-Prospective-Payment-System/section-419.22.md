@@ -1,7 +1,5 @@
 ##### § 419.22 Hospital services excluded from payment under the hospital outpatient prospective payment system. #####
 
-Link to an amendment published at 88 FR 82180, Nov. 22, 2023.
-
 The following services are not paid for under the hospital outpatient prospective payment system (except when packaged as a part of a bundled payment):
 
 (a) Physician services that meet the requirements of § 415.102(a) of this chapter for payment on a fee schedule basis.
@@ -50,4 +48,8 @@ The following services are not paid for under the hospital outpatient prospectiv
 
 (v) Effective January 1, 2017, items and services that do not meet the definition of excepted items and services under § 419.48(a).
 
-[65 FR 18542, Apr. 7, 2000, as amended at 66 FR 59922, Nov. 30, 2001; 69 FR 65863, Nov. 15, 2004; 75 FR 72265, Nov. 24, 2010; 78 FR 50969, Aug. 19, 2013; 78 FR 75196, Dec. 10, 2013; 79 FR 67031, Nov. 10, 2014; 81 FR 79879, Nov. 14, 2016; 82 FR 35, Jan. 3, 2017; 85 FR 86302, Dec. 29, 2020; 86 FR 63993, Nov. 16, 2021]
+(w) Services of marriage and family therapists, as defined in section 1861(lll)(1) of the Act.
+
+(x) Services of mental health counselors, as defined in section 1861(lll)(3) of the Act.
+
+[65 FR 18542, Apr. 7, 2000, as amended at 66 FR 59922, Nov. 30, 2001; 69 FR 65863, Nov. 15, 2004; 75 FR 72265, Nov. 24, 2010; 78 FR 50969, Aug. 19, 2013; 78 FR 75196, Dec. 10, 2013; 79 FR 67031, Nov. 10, 2014; 81 FR 79879, Nov. 14, 2016; 82 FR 35, Jan. 3, 2017; 85 FR 86302, Dec. 29, 2020; 86 FR 63993, Nov. 16, 2021; 88 FR 82180, Nov. 22, 2023]

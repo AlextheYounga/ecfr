@@ -1,14 +1,12 @@
 ##### § 455.416 Termination or denial of enrollment. #####
 
-Link to an amendment published at 88 FR 79552, Nov. 16, 2023.
-
 The State Medicaid agency—
 
 (a) Must terminate the enrollment of any provider where any person with a 5 percent or greater direct or indirect ownership interest in the provider did not submit timely and accurate information and cooperate with any screening methods required under this subpart.
 
 (b) Must deny enrollment or terminate the enrollment of any provider where any person with a 5 percent or greater direct or indirect ownership interest in the provider has been convicted of a criminal offense related to that person's involvement with the Medicare, Medicaid, or title XXI program in the last 10 years, unless the State Medicaid agency determines that denial or termination of enrollment is not in the best interests of the Medicaid program and the State Medicaid agency documents that determination in writing.
 
-(c) Must deny enrollment or terminate the enrollment of any provider that is terminated on or after January 1, 2011, under title XVIII of the Act or under the Medicaid program or CHIP of any other State.
+(c) Must deny enrollment or terminate the enrollment of any provider that is terminated on or after January 1, 2011, under title XVIII of the Act and under the Medicaid program or CHIP of any other State, and is currently included in the termination database under § 455.417.
 
 (d) Must terminate the provider's enrollment or deny enrollment of the provider if the provider or a person with an ownership or control interest or who is an agent or managing employee of the provider fails to submit timely or accurate information, unless the State Medicaid agency determines that termination or denial of enrollment is not in the best interests of the Medicaid program and the State Medicaid agency documents that determination in writing.
 
@@ -21,3 +19,5 @@ The State Medicaid agency—
 (1) Determines that the provider has falsified any information provided on the application; or
 
 (2) Cannot verify the identity of any provider applicant.
+
+[73 FR 77951, Dec. 19, 2008, as amended at 88 FR 79552, Nov. 16, 2023]

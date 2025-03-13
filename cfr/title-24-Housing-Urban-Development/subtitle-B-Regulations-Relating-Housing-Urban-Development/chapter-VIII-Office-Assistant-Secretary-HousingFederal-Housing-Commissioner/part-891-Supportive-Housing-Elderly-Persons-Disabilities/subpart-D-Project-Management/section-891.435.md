@@ -1,10 +1,8 @@
 ##### § 891.435 Security deposits. #####
 
-Link to an amendment published at 88 FR 9669, Feb. 14, 2023.
-
 This section shall apply to capital advances under the Section 202 Program and the Section 811 Program, as well as loans financed under subpart E of this part. For loans financed under subpart E of this part, the requirements in § 891.635 also apply.
 
-(a) *Collection of security deposits.* At the time of the initial execution of the lease, the Owner (or Borrower, as applicable) will require each household (or family, as applicable) occupying an assisted unit or residential space in a group home to pay a security deposit in an amount equal to one month's tenant payment or $50, whichever is greater. The household (or family) is expected to pay the security deposit from its own resources and other available public or private resources. The Owner (or Borrower) may collect the security deposit on an installment basis.
+(a) *Collection of security deposits.* At the time of the initial execution of the lease, the Owner (or Borrower, as applicable) will require each household (or family, as applicable) occupying an assisted unit or residential space in a group home to pay a security deposit in an amount equal to one month's tenant rent or $50, whichever is greater. The household (or family) is expected to pay the security deposit from its own resources or other available public or private resources. The Owner (or Borrower) may collect the security deposit on an installment basis.
 
 (b) *Security deposit provisions applicable to units*—(1) *Administration of security deposit.* The Owner (or Borrower, as applicable) must place the security deposits in a segregated interest-bearing account. The amount of the segregated, interest-bearing account maintained by the Owner (or Borrower) must at all times equal the total amount collected from the households (or families, as applicable) then in occupancy plus any accrued interest and less allowable administrative cost adjustments. The Owner (or Borrower) must comply with any applicable State and local laws concerning interest payments on security deposits.
 
@@ -24,4 +22,6 @@ This section shall apply to capital advances under the Section 202 Program and t
 
 (1) The amount owed the Owner (or Borrower); or
 
-(2) One month's per unit operating cost (or contract rent, if applicable), minus the amount of the household's (or family's) security deposit balance. Any reimbursement under this section will be applied first toward any unpaid tenant payment (or rent, if applicable) due under the lease. No reimbursement may be claimed for any unpaid tenant payment (or rent) for the period after termination of the tenancy. The Owner (or Borrower) may be eligible for vacancy payments following a vacancy in accordance with the requirements of § 891.445 (or §§ 891.650 or 891.790, as applicable).
+(2) One month's per unit operating cost (or contract rent, if applicable), minus the amount of the household's (or family's) security deposit balance. Any reimbursement under this section will be applied first toward any unpaid tenant rent due under the lease. No reimbursement may be claimed for any unpaid tenant rent for the period after termination of the tenancy. The Owner (or Borrower) may be eligible for vacancy payments following a vacancy in accordance with the requirements of § 891.445 (or §§ 891.650 or 891.790, as applicable).
+
+[61 FR 11956, Mar. 22, 1996, as amended at 88 FR 9669, Feb. 14, 2023]

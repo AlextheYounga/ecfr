@@ -1,7 +1,5 @@
 ##### § 660.13 Recordkeeping and reporting. #####
 
-Link to an amendment published at 88 FR 83840, Dec. 1, 2023.
-
 (a) This subpart recognizes that catch and effort data necessary for implementing the PCGFMP are collected by the States of Washington, Oregon, and California under existing state data collection requirements.
 
 (1) *Trawl logbook.* In the absence of a state trawl logbook requirement based on the port of landing, the authorized representative of the commercial trawl fishing vessel registered to a limited entry permit with a trawl gear endorsement participating in the Shorebased IFQ Program groundfish trawl fisheries must keep and submit a complete and accurate record of fishing activities in the trawl logbook form. The following requirements apply:
@@ -64,7 +62,7 @@ Link to an amendment published at 88 FR 83840, Dec. 1, 2023.
 
 (iii) During the period of time that a vessel has a valid declaration report on file with NMFS OLE, it cannot fish with a gear and monitoring type other than a gear type and monitoring type declared by the vessel or fish in a fishery other than the fishery most recently declared.
 
-(iv) Declaration reports will include: The vessel name and/or identification number, gear type, and monitoring type where applicable, (as defined in paragraph (d)(4)(iv)(A) of this section). Upon receipt of a declaration report, NMFS will provide a confirmation code or receipt to confirm that a valid declaration report was received for the vessel. Retention of the confirmation code or receipt to verify that a valid declaration report was filed and the declaration requirement was met is the responsibility of the vessel owner or operator. Vessels using non-trawl gear may declare more than one gear type with the exception of vessels participating in the Shorebased IFQ Program (*i.e.* gear switching); however, vessels using trawl gear may only declare one of the trawl gear types listed in paragraph (d)(4)(iv)(A) of this section on any trip and may not declare non-trawl gear on the same trip in which trawl gear is declared.
+(iv) Declaration reports will include: The vessel name and/or identification number, gear type, and monitoring type where applicable, (as defined in paragraph (d)(4)(iv)(A) of this section). Upon receipt of a declaration report, NMFS will provide a confirmation code or receipt to confirm that a valid declaration report was received for the vessel. Retention of the confirmation code or receipt to verify that a valid declaration report was filed and the declaration requirement was met is the responsibility of the vessel owner or operator. Vessels using non-trawl gear may declare more than one gear type with the exception of vessels participating in the Shorebased IFQ Program (*i.e.,* gear switching) and those vessels declaring to fish inside the Non-Trawl RCA with non-bottom contact stationary vertical jig gear or groundfish troll gear (*i.e.,* if one of these declarations is used, no other declaration may be made on that fishing trip); however, vessels using trawl gear may only declare one of the trawl gear types listed in paragraph (d)(4)(iv)(A) of this section on any trip and may not declare non-trawl gear on the same trip in which trawl gear is declared.
 
 (A) One of the following gear types or sectors, and monitoring type where applicable, must be declared:
 
@@ -126,24 +124,32 @@ Link to an amendment published at 88 FR 83840, Dec. 1, 2023.
 
 (*29*) Open access non-bottom contact troll gear (allowed inside or outside the non-trawl RCA) (declaration code 37);
 
-(*30*) Open access HMS line gear (declaration code 66);
+(*30*) Limited entry fixed gear non-bottom contact stationary vertical jig gear (allowed inside or outside the nontrawl RCA) (declaration code 12);
 
-(*31*) Open access salmon troll gear (declaration code 63);
+(*31*) Limited entry fixed gear non-bottom contact groundfish troll gear (allowed inside or outside the nontrawl RCA) (declaration code 13);
 
-(*32*) Open access California Halibut line gear (declaration code 64);
+(*32*) Limited entry groundfish non-trawl, shorebased IFQ, non-bottom contact stationary vertical jig gear (allowed inside or outside the nontrawl RCA) (declaration code 14);
 
-(*33*) Open access Coastal Pelagic Species net gear (declaration code 67);
+(*33*) Limited entry groundfish non-trawl, shorebased IFQ, non-bottom contact groundfish troll gear (allowed inside or outside the nontrawl RCA) (declaration code 15);
 
-(*34*) Other, a gear that is not listed above (declaration code 69);
+(*34*) Open access HMS line gear (declaration code 66);
 
-(*35*) Tribal trawl gear (declaration code 50);
+(*35*) Open access salmon troll gear (declaration code 63);
 
-(*36*) Open access set net or gillnet gear—California (declaration 68); or
+(*36*) Open access California Halibut line gear (declaration code 64);
 
-(*37*) Gear testing, Trawl Rationalization fishery (declaration code 70).
+(*37*) Open access Coastal Pelagic Species net gear (declaration code 67);
+
+(*38*) Other, a gear that is not listed above (declaration code 69);
+
+(*39*) Tribal trawl gear (declaration code 50);
+
+(*40*) Open access set net or gillnet gear—California (declaration 68); or
+
+(*41*) Gear testing, Trawl Rationalization fishery (declaration code 70).
 
 (B) [Reserved]
 
 (v) Upon receipt of a declaration report, NMFS will provide a confirmation code or receipt to confirm that a valid declaration report was received for the vessel. Vessel owners or operators are responsible for retaining the confirmation code or receipt to verify that a valid declaration report was filed.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 74733, Dec. 1, 2011; 81 FR 84425, Nov. 23, 2016; 83 FR 62275, Dec. 3, 2018; 83 FR 66637, Dec. 27, 2018; 84 FR 31158, June 28, 2019; 84 FR 32098, July 5, 2019; 85 FR 35600, June 11, 2020; 86 FR 10867, Feb. 23, 2021; 87 FR 59713, 59728, Oct. 3, 2022; 87 FR 74328, Dec. 5, 2022; 88 FR 12867, Mar. 1, 2023]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 74733, Dec. 1, 2011; 81 FR 84425, Nov. 23, 2016; 83 FR 62275, Dec. 3, 2018; 83 FR 66637, Dec. 27, 2018; 84 FR 31158, June 28, 2019; 84 FR 32098, July 5, 2019; 85 FR 35600, June 11, 2020; 86 FR 10867, Feb. 23, 2021; 87 FR 59713, 59728, Oct. 3, 2022; 87 FR 74328, Dec. 5, 2022; 88 FR 12867, Mar. 1, 2023; 88 FR 83840, Dec. 1, 2023]

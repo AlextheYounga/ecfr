@@ -1,10 +1,8 @@
 ##### § 416.320 Retention and removal of quality measures under the ASCQR Program. #####
 
-Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
-
 (a) *General rule for the retention of quality measures.* Quality measures adopted for an ASCQR Program measure set for a previous payment determination year are retained in the ASCQR Program for measure sets for subsequent payment determination years, except when they are removed, suspended, or replaced as set forth in paragraphs (b) and (c) of this section.
 
-(b) *Immediate measure removal*. In cases where CMS believes that the continued use of a measure as specified raises patient safety concerns, CMS will immediately remove a quality measure from the ASCQR Program and will promptly notify ASCs and the public of the removal of the measure and the reasons for its removal through the ASCQR Program ListServ and the ASCQR Program QualityNet Web site. CMS will confirm the removal of the measure for patient safety concerns in the next ASCQR Program rulemaking.
+(b) *Immediate measure removal.* In cases where CMS believes that the continued use of a measure as specified raises patient safety concerns, CMS will immediately remove a quality measure from the ASCQR Program and will promptly notify ASCs and the public of the removal of the measure and the reasons for its removal through the ASCQR Program ListServ and the ASCQR Program CMS website. CMS will confirm the removal of the measure for patient safety concerns in the next ASCQR Program rulemaking.
 
 (c) *Removal of quality measures*—(1) *General rule for the removal of quality measures.* Unless a measure raises specific safety concerns as set forth in paragraph (b) of this section, CMS will use the regular rulemaking process to remove, suspend, or replace quality measures in the ASCQR Program to allow for public comment.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
 
 (4) *Application of measure removal factors.* The benefits of removing a measure from the ASCQR Program will be assessed on a case-by-case basis. A measure will not be removed solely on the basis of meeting any specific factor or criterion.
 
-[80 FR 70604, Nov. 13, 2015, as amended at 83 FR 59178, Nov. 21, 2018]
+[80 FR 70604, Nov. 13, 2015, as amended at 83 FR 59178, Nov. 21, 2018; 88 FR 82179, Nov. 22, 2023]

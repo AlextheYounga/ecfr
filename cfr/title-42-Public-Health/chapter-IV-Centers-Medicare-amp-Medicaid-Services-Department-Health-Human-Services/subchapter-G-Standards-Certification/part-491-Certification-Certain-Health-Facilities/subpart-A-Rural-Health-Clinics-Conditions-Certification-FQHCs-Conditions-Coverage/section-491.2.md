@@ -1,16 +1,24 @@
 ##### § 491.2 Definitions. #####
 
-Link to an amendment published at 88 FR 79552, Nov. 16, 2023.
-
 As used in this subpart, unless the context indicates otherwise:
+
+*Certified nurse-midwife (CNM)* means an individual who meets the applicable education, training, and other requirements at § 410.77(a) of this chapter.
+
+*Clinical psychologist (CP)* means an individual who meets the applicable education, training, and other requirements of § 410.71(d) of this chapter.
+
+*Clinical social worker* means an individual who meets the applicable education, training, and other requirements at § 410.73(a) of this chapter.
 
 *Direct services* means services provided by the clinic's staff.
 
 *FQHC* means an entity as defined in § 405.2401(b).
 
-*Nurse practitioner* means a registered professional nurse who is currently licensed to practice in the State, who meets the State's requirements governing the qualifications of nurse practitioners, and who meets one of the following conditions:
+*Marriage and family therapist* means an individual who meets the applicable education, training, and other requirements at § 410.53 of this chapter.
 
-(1) Is currently certified as a primary care nurse practitioner by the American Nurses' Association or by the National Board of Pediatric Nurse Practitioners and Associates; or
+*Mental health counselor* means an individual who meets the applicable education, training, and other requirements at § 410.54 of this chapter.
+
+*Nurse practitioner* means a person who meets the applicable State requirements governing the qualifications for nurse practitioners, and who meets at least one of the following conditions:
+
+(1) Is certified as a nurse practitioner by a recognized national certifying body that has established standards for nurse practitioners and possesses a master's or doctoral degree in nursing practice; or
 
 (2) Has satisfactorily completed a formal 1 academic year educational program that:
 
@@ -50,4 +58,4 @@ As used in this subpart, unless the context indicates otherwise:
 
 *Secretary* means the Secretary of Health and Human Services, or any official to whom he has delegated the pertinent authority.
 
-[71 FR 55345, Sept. 22, 2006, as amended at 79 FR 27156, May 12, 2014]
+[71 FR 55345, Sept. 22, 2006, as amended at 79 FR 27156, May 12, 2014; 88 FR 79552, Nov. 16, 2023]

@@ -6,7 +6,7 @@
 
 |      Column A       |   |        Column B        |   |    Column C    |   | Column D |
 |---------------------|---|------------------------|---|----------------|---|----------|
-|Base Amount ($50,000)| \+|(Total Assessable Assets| × |Assessment Rate)|\= |Assessment|
+|Base Amount ($50,000)|\+ |(Total Assessable Assets| × |Assessment Rate)|\= |Assessment|
 
 (2) In any assessment period, if, at the time a company becomes a bank holding company or savings and loan holding company, it also becomes an assessed company, as defined in § 246.3, the Board shall pro-rate that company's assessment for that assessment period based on the number of quarters in which such company is an assessed company. For a nonbank financial company supervised by the Board, for the assessment period that the company is designated for Board supervision, Board shall pro-rate that company's assessment for that assessment period based on the number of quarters the company has been a nonbank financial company supervised by the Board.
 
@@ -14,16 +14,14 @@
 
 (1)(i) The assessment rate for Category IV and “other” firms will be calculated according to this formula:
 
-|                                                                                                                                              |
-|----------------------------------------------------------------------------------------------------------------------------------------------|
 |Assessment rate = [(Net Assessment Basis × Category IV and “other” firms' share of total assessable assets of all assessed companies) × (1−S)]|
+|----------------------------------------------------------------------------------------------------------------------------------------------|
 |                                            Category IV and “other” firms' total assessable assets                                            |
 
 (ii) The assessment rate for Category I, II, and III firms will be calculated according to this formula:
 
-|                                                                                                                                                                                                                                     |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Assessment rate = [(Net Assessment Basis × Category I, II, and III firms' share of total assessable assets of all assessed companies) + (Net Assessment Basis × Category IV and “other” firms' share of total assessable assets × S)]|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                                                                                       Category I, II, and III firms' total assessable assets                                                                                        |
 
 (2) For the calculation set forth in paragraph (c)(1) of this section, the number of assessed companies and the total assessable assets of all assessed companies will each be that of the relevant assessment period, provided, however, that for the assessment periods corresponding to 2012, 2013 and 2014, the Board shall use the number of assessed companies and the total assessable assets of the 2012 assessment period to calculate the assessment rate.
@@ -64,7 +62,7 @@
 
 (D) Edge Act and agreement corporations that are not reflected in the assets of a U.S.-domiciled parent's regulatory reporting form submission, calculated as claims on nonrelated organizations (line item 9, “consolidated total” column on Schedule RC of the Consolidated Report of Condition and Income for Edge and Agreement Corporations (FR 2886b)), plus claims on related organizations domiciled outside the United States (line items 2.a and 2.b, column A on Schedule RC-M), as reported on FR 2886b;
 
-(E) Banks and savings associations that are not reflected in the assets of a U.S.-domiciled parent's regulatory reporting form submission, calculated as: total assets (line item 12) as reported on Schedule RC—Balance Sheet of the Consolidated Reports of Condition and Income for a Bank with Domestic and Foreign Offices (FFIEC 031), or total assets (line item 12) as reported on Schedule RC—Balance Sheet of the Consolidated Reports of Condition and Income for a Bank with Domestic Offices Only (FFIEC 041), as applicable; and
+(E) Banks and savings associations that are not reflected in the assets of a U.S.-domiciled parent's regulatory reporting form submission, calculated as: total assets (line item 12) as reported on Schedule RC—Balance Sheet of the Consolidated Reports of Condition and Income for a Bank with Domestic and Foreign Offices (FFIEC 031), or total assets (line item 12) as reported on Schedule RC—Balance Sheet of the Consolidated reports of Condition and Income for a Bank with Domestic Offices Only (FFIEC 041), as applicable; and
 
 (F) Broker-dealers that are not reflected in the assets of a U.S.-domiciled parent's regulatory reporting form submission, calculated as: total assets as reported on statement of financial condition of the Securities and Exchange Commission's Form X-17A-5 (FOCUS REPORT), Part II line item 16, Part IIa, line item 12, or Part II CSE, line item 18, as applicable.
 

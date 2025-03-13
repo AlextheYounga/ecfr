@@ -1,7 +1,5 @@
 ##### § 411.15 Particular services excluded from coverage. #####
 
-Link to an amendment published at 88 FR 53345, Aug. 7, 2023.Link to an amendment published at 88 FR 79530, Nov. 16, 2023.
-
 The following services are excluded from coverage:
 
 (a) Routine physical checkups such as:
@@ -60,13 +58,15 @@ The following services are excluded from coverage:
 
 (3) *Inapplicability.* (i) Dental services that are inextricably linked to, and substantially related and integral to the clinical success of, a certain covered medical service are not excluded; payment may be made under Medicare Parts A and B for services furnished in the inpatient or outpatient setting. Such services include, but are not limited to:
 
-(A) Dental or oral examination performed as part of a comprehensive workup in either the inpatient or outpatient setting prior to Medicare-covered organ transplant, cardiac valve replacement, or valvuloplasty procedures; and, medically necessary diagnostic and treatment services to eliminate an oral or dental infection prior to, or contemporaneously with, the organ transplant, cardiac valve replacement, or valvuloplasty procedure.
+(A) Dental or oral examination performed as part of a comprehensive workup prior to, and medically necessary diagnostic and treatment services to eliminate an oral or dental infection prior to, or contemporaneously with, the following Medicare-covered services: organ transplant, hematopoietic stem cell transplant, bone marrow transplant, cardiac valve replacement, valvuloplasty procedures, chemotherapy when used in the treatment of cancer, chimeric antigen receptor (CAR) T-cell therapy when used in the treatment of cancer, and administration of high-dose bone-modifying agents (antiresorptive therapy) when used in the treatment of cancer.
 
 (B) The reconstruction of a dental ridge performed as a result of and at the same time as the surgical removal of a tumor.
 
 (C) The stabilization or immobilization of teeth in connection with the reduction of a jaw fracture, and dental splints only when used in conjunction with covered treatment of a covered medical condition such as dislocated jaw joints.
 
 (D) The extraction of teeth to prepare the jaw for radiation treatment of neoplastic disease.
+
+(E) Dental or oral examination performed as part of a comprehensive workup prior to, medically necessary diagnostic and treatment services to eliminate an oral or dental infection prior to or contemporaneously with, and medically necessary diagnostic and treatment services to address dental or oral complications after, treatment of head and neck cancer using radiation, chemotherapy, surgery, or any combination of these.
 
 (ii) Ancillary services and supplies furnished incident to covered dental services are not excluded, and Medicare payment may be made under Part A or Part B, as applicable, whether the service is performed in the inpatient or outpatient setting, including, but not limited to the administration of anesthesia, diagnostic x-rays, use of operating room, and other related procedures.
 
@@ -170,31 +170,35 @@ The following services are excluded from coverage:
 
 (v) Services performed by a qualified psychologist, as defined in section 1861(ii) of the Act.
 
-(vi) Services performed by a certified registered nurse anesthetist, as defined in section 1861(bb) of the Act.
+(vi) Services performed by a marriage and family therapist, as defined in section 1861(lll)(2) of the Act.
 
-(vii) Dialysis services and supplies, as defined in section 1861(s)(2)(F) of the Act, and those ambulance services that are furnished in conjunction with them.
+(vii) Services performed by a mental health counselor, as defined in section 1861(lll)(4) of the Act.
 
-(viii) Erythropoietin (EPO) for dialysis patients, as defined in section 1861(s)(2)(O) of the Act.
+(viii) Services performed by a certified registered nurse anesthetist, as defined in section 1861(bb) of the Act.
 
-(ix) Hospice care, as defined in section 1861(dd) of the Act.
+(ix) Dialysis services and supplies, as defined in section 1861(s)(2)(F) of the Act, and those ambulance services that are furnished in conjunction with them.
 
-(x) An ambulance trip that initially conveys an individual to the SNF to be admitted as a resident, or that conveys an individual from the SNF in connection with one of the circumstances specified in paragraphs (p)(3)(i) through (p)(3)(iv) of this section as ending the individual's status as an SNF resident.
+(x) Erythropoietin (EPO) for dialysis patients, as defined in section 1861(s)(2)(O) of the Act.
 
-(xi) The transportation costs of electrocardiogram equipment (HCPCS code R0076), but only with respect to those electrocardiogram test services furnished during 1998.
+(xi) Hospice care, as defined in section 1861(dd) of the Act.
 
-(xii) Services described in subparagraphs (p)(2)(i) through (vi) of this section when furnished via telehealth under section 1834(m)(4)(C)(ii)(VII) of the Act.
+(xii) An ambulance trip that initially conveys an individual to the SNF to be admitted as a resident, or that conveys an individual from the SNF in connection with one of the circumstances specified in paragraphs (p)(3)(i) through (p)(3)(iv) of this section as ending the individual's status as an SNF resident.
 
-(xiii) Those chemotherapy items identified, as of July 1, 1999, by HCPCS codes J9000-J9020, J9040-J9151, J9170-J9185, J9200-J9201, J9206-J9208, J9211, J9230-J9245, and J9265-J9600, and as of January 1, 2004, by HCPCS codes A9522, A9523, A9533, and A9534 (as subsequently modified by CMS), and any additional chemotherapy items identified by CMS.
+(xiii) The transportation costs of electrocardiogram equipment (HCPCS code R0076), but only with respect to those electrocardiogram test services furnished during 1998.
 
-(xiv) Those chemotherapy administration services identified, as of July 1, 1999, by HCPCS codes 36260-36262, 36489, 36530-36535, 36640, 36823, and 96405-96542 (as subsequently modified by CMS), and any additional chemotherapy administration services identified by CMS.
+(xiv) Services described in paragraphs (p)(2)(i) through (viii) of this section when furnished via telehealth under section 1834(m)(4)(C)(ii)(VII) of the Act.
 
-(xv) Those radioisotope services identified, as of July 1, 1999, by HCPCS codes 79030-79440 (as subsequently modified by CMS), and any additional radioisotope services identified by CMS.
+(xv) Those chemotherapy items identified, as of July 1, 1999, by HCPCS codes J9000-J9020, J9040-J9151, J9170-J9185, J9200-J9201, J9206-J9208, J9211, J9230-J9245, and J9265-J9600, and as of January 1, 2004, by HCPCS codes A9522, A9523, A9533, and A9534 (as subsequently modified by CMS), and any additional chemotherapy items identified by CMS.
 
-(xvi) Those customized prosthetic devices (including artificial limbs and their components) identified, as of July 1, 1999, by HCPCS codes L5050-L5340, L5500-L5611, L5613-L5986, L5988, L6050-L6370, L6400-6880, L6920-L7274, and L7362-L7366 (as subsequently modified by CMS) and any additional customized prosthetic devices identified by CMS, which are delivered for a resident's use during a stay in the SNF and intended to be used by the resident after discharge from the SNF.
+(xvi) Those chemotherapy administration services identified, as of July 1, 1999, by HCPCS codes 36260-36262, 36489, 36530-36535, 36640, 36823, and 96405-96542 (as subsequently modified by CMS), and any additional chemotherapy administration services identified by CMS.
 
-(xvii) Those blood clotting factors indicated for the treatment of patients with hemophilia and other bleeding disorders identified, as of July 1, 2020, by HCPCS codes J7170, J7175, J7177-J7183, J7185-J7190, J7192-J7195, J7198-J7203, J7205, and J7207-J7211 (as subsequently modified by CMS) and items and services related to the furnishing of such factors, and any additional blood clotting factors identified by CMS and items and services related to the furnishing of such factors.
+(xvii) Those radioisotope services identified, as of July 1, 1999, by HCPCS codes 79030-79440 (as subsequently modified by CMS), and any additional radioisotope services identified by CMS.
 
-(xviii) Those RHC and FQHC services that are described in § 405.2411(b)(2) of this chapter.
+(xviii) Those customized prosthetic devices (including artificial limbs and their components) identified, as of July 1, 1999, by HCPCS codes L5050-L5340, L5500-L5611, L5613-L5986, L5988, L6050-L6370, L6400-6880, L6920-L7274, and L7362-L7366 (as subsequently modified by CMS) and any additional customized prosthetic devices identified by CMS, which are delivered for a resident's use during a stay in the SNF and intended to be used by the resident after discharge from the SNF.
+
+(xix) Those blood clotting factors indicated for the treatment of patients with hemophilia and other bleeding disorders identified, as of July 1, 2020, by HCPCS codes J7170, J7175, J7177-J7183, J7185-J7190, J7192-J7195, J7198-J7203, J7205, and J7207-J7211 (as subsequently modified by CMS) and items and services related to the furnishing of such factors, and any additional blood clotting factors identified by CMS and items and services related to the furnishing of such factors.
+
+(xx) Those RHC and FQHC services that are described in § 405.2411(b)(2) of this chapter.
 
 (3) *SNF resident defined.* For purposes of this paragraph, a beneficiary who is admitted to a Medicare-participating SNF is considered to be a resident of the SNF for the duration of the beneficiary's covered Part A stay. In addition, for purposes of the services described in paragraph (p)(1)(i) of this section, a beneficiary who is admitted to a Medicare-participating SNF is considered to be a resident of the SNF regardless of whether the beneficiary is in a covered Part A stay. Whenever the beneficiary leaves the facility, the beneficiary's status as an SNF resident for purposes of this paragraph (along with the SNF's responsibility to furnish or make arrangements for the services described in paragraph (p)(1) of this section) ends when one of the following events occurs—
 

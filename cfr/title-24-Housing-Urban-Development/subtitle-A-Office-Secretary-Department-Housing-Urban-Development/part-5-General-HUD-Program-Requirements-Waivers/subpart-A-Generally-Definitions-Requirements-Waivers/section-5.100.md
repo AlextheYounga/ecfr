@@ -1,7 +1,5 @@
 ##### § 5.100 Definitions. #####
 
-Link to an amendment published at 88 FR 9654, Feb. 14, 2023.
-
 The following definitions apply to this part and also in other regulations, as noted:
 
 *1937 Act* means the United States Housing Act of 1937 (42 U.S.C. 1437 *et seq.*)
@@ -19,6 +17,8 @@ The following definitions apply to this part and also in other regulations, as n
 *Drug* means a controlled substance as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802).
 
 *Drug-related criminal activity* means the illegal manufacture, sale, distribution, or use of a drug, or the possession of a drug with intent to manufacture, sell, distribute or use the drug.
+
+*Earned income* means income or earnings from wages, tips, salaries, other employee compensation, and net income from self-employment. Earned income does not include any pension or annuity, transfer payments (meaning payments made or income received in which no goods or services are being paid for, such as welfare, social security, and governmental subsidies for certain benefits), or any cash or in-kind benefits.
 
 *Elderly Person* means an individual who is at least 62 years of age.
 
@@ -82,6 +82,8 @@ The following definitions apply to this part and also in other regulations, as n
 
 *Public Housing Agency (PHA)* means any State, county, municipality, or other governmental entity or public body, or agency or instrumentality of these entities, that is authorized to engage or assist in the development or operation of low-income housing under the 1937 Act.
 
+*Real property* as used in this part has the same meaning as that provided under the law of the State in which the property is located.
+
 *Rental housing counseling* means counseling related to the rental of residential property, which may include counseling regarding future homeownership opportunities when provided in connection with HUD's Housing Counseling Program, or required under or provided in connection with HUD Programs as defined in § 5.111. Rental housing counseling may also include the decision to rent, responsibilities of tenancy, affordability of renting and eviction prevention.
 
 *Responsible entity* means:
@@ -102,8 +104,10 @@ The following definitions apply to this part and also in other regulations, as n
 
 (2) Rehabilitation of the multifamily rental housing in which the pre-construction estimated cost of the rehabilitation is equal to or greater than 75 percent of the total estimated cost of replacing the multifamily rental housing after the rehabilitation is complete. In the case of multifamily rental housing with multiple buildings with more than 4 units, the replacement cost must be the replacement cost of the building undergoing rehabilitation.
 
+*Unearned income means* any annual income, as calculated under § 5.609, that is not earned income.
+
 *URA* means the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4201-4655).
 
 *Violent criminal activity* means any criminal activity that has as one of its elements the use, attempted use, or threatened use of physical force substantial enough to cause, or be reasonably likely to cause, serious bodily injury or property damage.
 
-[61 FR 5202, Feb. 9, 1996, as amended at 63 FR 23853, Apr. 30, 1998; 65 FR 16715, Mar. 29, 2000; 66 FR 28791, May 24, 2001; 77 FR 5674, Feb. 3, 2012; 81 FR 64782, Sept. 21, 2016; 81 FR 90657, Dec. 14, 2016; 81 FR 92635, Dec. 20, 2016]
+[61 FR 5202, Feb. 9, 1996, as amended at 63 FR 23853, Apr. 30, 1998; 65 FR 16715, Mar. 29, 2000; 66 FR 28791, May 24, 2001; 77 FR 5674, Feb. 3, 2012; 81 FR 64782, Sept. 21, 2016; 81 FR 90657, Dec. 14, 2016; 81 FR 92635, Dec. 20, 2016; 88 FR 9654, Feb. 14, 2023]

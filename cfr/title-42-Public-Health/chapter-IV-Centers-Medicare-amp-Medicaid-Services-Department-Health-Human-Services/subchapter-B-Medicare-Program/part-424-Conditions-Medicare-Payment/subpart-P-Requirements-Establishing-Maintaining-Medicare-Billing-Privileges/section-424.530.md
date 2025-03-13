@@ -1,10 +1,8 @@
 ##### § 424.530 Denial of enrollment in the Medicare program. #####
 
-Link to an amendment published at 88 FR 77878, Nov. 13, 2023.Link to an amendment published at 88 FR 79541, Nov. 16, 2023.
-
 (a) *Reasons for denial.* CMS may deny a provider's or supplier's enrollment in the Medicare program for the following reasons:
 
-(1) *Noncompliance.* The provider or supplier is determined to not be in compliance with the enrollment requirements in this subpart P or in the enrollment application applicable for its provider or supplier type, and has not submitted a plan of corrective action as outlined in part 488 of this chapter.
+(1) *Noncompliance.* The provider or supplier is determined to not be in compliance with the enrollment requirements described in this title 42, or in the enrollment application applicable for its provider or supplier type, and has not submitted a plan of corrective action as outlined in part 488 of this chapter.
 
 (2) *Provider or supplier conduct.* (i) The provider or supplier, or any owner, managing employee, managing organization, officer, director, authorized or delegated official, medical director, supervising physician, or other health care or administrative or management services personnel furnishing services payable by a federal health care program, of the provider or supplier is—
 
@@ -124,7 +122,7 @@ Link to an amendment published at 88 FR 77878, Nov. 13, 2023.Link to an amendmen
 
 (*1*) License restriction(s) pertaining to certain procedures or practices.
 
-(2) Required compliance appearances before State oversight board members.
+(*2*) Required compliance appearances before State oversight board members.
 
 (*3*) License restriction(s) regarding the ability to treat certain types of patients (for example, cannot be alone with members of a different gender after a sexual offense charge).
 
@@ -142,6 +140,34 @@ Link to an amendment published at 88 FR 77878, Nov. 13, 2023.Link to an amendmen
 
 (B) Required abstinence from drugs or alcohol and random drug testing.
 
+(16) [Reserved]
+
+(17) *False Claims Act (FCA).* (i) The provider or supplier, or any owner, managing employee or organization, officer, or director of the provider or supplier, has had a civil judgment under the FCA (31 U.S.C. 3729 through 3733) imposed against them within the previous 10 years.
+
+(ii) In determining whether a denial under this paragraph is appropriate, CMS considers the following factors:
+
+(A) The number of provider or supplier actions that the judgment incorporates (for example, the number of false claims submitted).
+
+(B) The types of provider or supplier actions involved.
+
+(C) The monetary amount of the judgment.
+
+(D) When the judgment occurred.
+
+(E) Whether the provider or supplier has any history of final adverse actions (as that term is defined in § 424.502 of this chapter).
+
+(F) Any other information that CMS deems relevant to its determination.
+
+(18) *Supplier standard or condition violation.* (i) The independent diagnostic testing facility is non-compliant with any provision in § 410.33(g).
+
+(ii) The DMEPOS supplier is non-compliant with any provision in § 424.57(c).
+
+(iii) The opioid treatment program is non-compliant with any provision in § 424.67(b).
+
+(iv) The home infusion therapy supplier is non-compliant with any provision in § 424.68(c).
+
+(v) The Medicare diabetes prevention program is non-compliant with any provision in § 424.205(b) or (d).
+
 (b) *Resubmission after denial.* A provider or supplier that is denied enrollment in the Medicare program cannot submit a new enrollment application until the following has occurred if the denial:
 
 (1) Was not appealed, the provider or supplier may reapply after its appeal rights have lapsed.
@@ -154,7 +180,7 @@ Link to an amendment published at 88 FR 77878, Nov. 13, 2023.Link to an amendmen
 
 (e) *Effective date of denial.* Denial becomes effective within 30 days of the initial denial notification.
 
-(f) *Reapplication bar.* CMS may prohibit a prospective provider or supplier from enrolling in Medicare for up to 3 years if its enrollment application is denied because the provider or supplier submitted false or misleading information on or with (or omitted information from) its application in order to gain enrollment in the Medicare program.
+(f) *Reapplication bar.* CMS may prohibit a prospective provider or supplier from enrolling in Medicare for up to 10 years if its enrollment application is denied because the provider or supplier submitted false or misleading information on or with (or omitted information from) its application in order to gain enrollment in the Medicare program.
 
 (1) The reapplication bar applies to the prospective provider or supplier under any of its current, former, or future names, numerical identifiers or business identities.
 
@@ -168,4 +194,8 @@ Link to an amendment published at 88 FR 77878, Nov. 13, 2023.Link to an amendmen
 
 (iv) Any other information that CMS deems relevant to its determination.
 
-[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69940, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 76 FR 5964, Feb. 2, 2011; 79 FR 29968, May 23, 2014; 79 FR 72531, Dec. 5, 2014; 84 FR 47853, Sept. 10, 2019; 84 FR 63203, Nov. 15, 2019; 86 FR 65682, Nov. 19, 2021; 87 FR 70231, Nov. 18, 2022]
+(3)(i) A provider or supplier that is currently subject to a reapplication bar under paragraph (f) of this section may not order, refer, certify, or prescribe Medicare-covered services, items, or drugs.
+
+(ii) Medicare does not pay for any otherwise covered service, item, or drug that is ordered, referred, certified, or prescribed by a provider or supplier that is currently under a reapplication bar.
+
+[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69940, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 76 FR 5964, Feb. 2, 2011; 79 FR 29968, May 23, 2014; 79 FR 72531, Dec. 5, 2014; 84 FR 47853, Sept. 10, 2019; 84 FR 63203, Nov. 15, 2019; 86 FR 65682, Nov. 19, 2021; 87 FR 70231, Nov. 18, 2022; 88 FR 77878, Nov. 13, 2023; 88 FR 79541, Nov. 16, 2023]

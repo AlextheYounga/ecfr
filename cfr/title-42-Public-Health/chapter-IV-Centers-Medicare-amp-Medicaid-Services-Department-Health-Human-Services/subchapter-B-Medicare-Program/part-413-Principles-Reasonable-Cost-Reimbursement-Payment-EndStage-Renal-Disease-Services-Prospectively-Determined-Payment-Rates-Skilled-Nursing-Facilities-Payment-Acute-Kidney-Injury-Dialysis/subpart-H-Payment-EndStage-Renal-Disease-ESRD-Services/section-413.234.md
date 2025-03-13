@@ -1,6 +1,6 @@
 ##### § 413.234 Drug designation process. #####
 
-Link to an amendment published at 87 FR 67302, Nov. 7, 2022.Link to an amendment published at 88 FR 76506, Nov. 6, 2023.
+Link to an amendment published at 87 FR 67302, Nov. 7, 2022.
 
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
@@ -18,6 +18,8 @@ Link to an amendment published at 87 FR 67302, Nov. 7, 2022.Link to an amendment
 
 (ii) Except as provided in paragraph (e) of this section, the new renal dialysis drug or biological product is paid for using the transitional drug add-on payment adjustment described in paragraph (c)(1) of this section.
 
+(iii) The new renal dialysis drug or biological product is paid for using the add-on payment adjustment described in paragraphs (c)(3) and (g) of this section, referred to as the post- transitional drug add-on payment adjustment (TDAPA) add-on payment adjustment.
+
 (2) If the new renal dialysis drug or biological product is used to treat or manage a condition for which there is not an ESRD PPS functional category, the new renal dialysis drug or biological product is not considered included in the ESRD PPS bundled payment and the following steps occur:
 
 (i) An existing ESRD PPS functional category is revised or a new ESRD PPS functional category is added for the condition that the new renal dialysis drug or biological product is used to treat or manage;
@@ -30,15 +32,17 @@ Link to an amendment published at 87 FR 67302, Nov. 7, 2022.Link to an amendment
 
 (1) A new renal dialysis drug or biological product that is considered included in the ESRD PPS base rate is paid the transitional drug add-on payment adjustment for 2 years.
 
-(i) Following payment of the transitional drug add-on payment adjustment the ESRD PPS base rate will not be modified.
+(i) Following payment of the transitional drug add-on payment adjustment, the new renal dialysis drug or biological product is paid the post-TDAPA add-on payment adjustment as set forth in paragraphs (c)(3) and (g) of this section.
 
-(ii) [Reserved]
+(ii) Following payment of the transitional drug add-on payment adjustment the ESRD PPS base rate will not be modified.
 
 (2) A new renal dialysis drug or biological product that is not considered included in the ESRD PPS base rate is paid the transitional drug add-on payment adjustment until sufficient claims data for rate setting analysis for the new renal dialysis drug or biological product is available, but not for less than 2 years.
 
 (i) Following payment of the transitional drug add-on payment adjustment the ESRD PPS base rate will be modified, if appropriate, to account for the new renal dialysis drug or biological in the ESRD PPS bundled payment.
 
 (ii) [Reserved]
+
+(3) For any new renal dialysis drug or biological product that is eligible for payment using the transitional drug add-on payment adjustment described in paragraphs (b)(1)(iii) and (c)(1) of this section, CMS applies a post-TDAPA add-on payment adjustment to all ESRD PPS claims that is calculated using the methodology set forth in paragraph (g) of this section. CMS will apply the post-TDAPA add-on payment adjustment beginning 8 calendar quarters after the first calendar quarter in which the transitional drug add-on payment adjustment is paid for the applicable product, and ending 12 calendar quarters after the end of the last calendar quarter in which the transitional drug add-on payment adjustment is paid for the applicable product. If CMS stops receiving the latest full calendar quarter of ASP data for the applicable renal dialysis drug or biological product during the applicable time period specified in paragraph (c)(1) of this section or during the 3-year period following such applicable time period, CMS will not pay any post-TDAPA add-on payment adjustment for such product in any future year.
 
 (d) *Oral-only drug determination.* An oral-only drug is no longer considered oral-only if an injectable or other form of administration of the oral-only drug is approved by the Food and Drug Administration.
 
@@ -166,4 +170,16 @@ Link to an amendment published at 87 FR 67302, Nov. 7, 2022.Link to an amendment
 
 (v) Calculates the amount added to the ESRD PPS base rate by reducing the average per treatment payment amount determined in paragraph (f)(2)(iv) of this section by 1 percent to account for the outlier policy under § 413.237.
 
-[80 FR 69077, Nov. 6, 2015, as amended at 83 FR 57070, Nov. 14, 2018; 84 FR 60803, Nov. 8, 2019; 85 FR 71485, Nov. 9, 2020]
+(g) *Post-TDAPA add-on payment adjustment methodology.* CMS uses the following methodology to calculate the post-TDAPA add-on payment adjustment described in paragraph (c)(3) of this section:
+
+(1) CMS bases the calculation on the most recent 12-month period of utilization for the new renal dialysis drug or biological product and the most recent available full calendar quarter of ASP data. If the most recent full calendar quarter of ASP data reflects zero or negative sales, then the calculation is based on 100 percent of WAC and, when WAC is not available, the payment is based on the drug manufacturer's invoice.
+
+(2) CMS calculates the post-TDAPA add-on payment adjustment annually as the expenditure for the new renal dialysis drug or biological product divided by the total number of ESRD PPS treatments during the same period.
+
+(3) CMS applies a reduction factor to the post-TDAPA add-on payment adjustment for case mix standardization to reflect estimated increases resulting from the application of the patient-level adjustments as described in paragraph (g)(5) of this section. This reduction factor is calculated based on the patient-level adjustments (as described in § 413.235) applicable to the most recent 12-month period of utilization of ESRD PPS claims.
+
+(4) The amount of the post-TDAPA add-on payment adjustment is equal to 65 percent of the amount calculated in paragraph (g)(2) of this section, multiplied by the reduction factor specified in paragraph (g)(3) of this section, and multiplied by the latest available forecast of annual growth in the ESRD bundled market basket composite price proxy for pharmaceuticals.
+
+(5) The post-TDAPA add-on payment adjustment that is applied to an ESRD PPS claim is adjsuted by any applicable patient-level case-mix adjustments under § 413.235.
+
+[80 FR 69077, Nov. 6, 2015, as amended at 83 FR 57070, Nov. 14, 2018; 84 FR 60803, Nov. 8, 2019; 85 FR 71485, Nov. 9, 2020; 88 FR 76506, Nov. 6, 2023]

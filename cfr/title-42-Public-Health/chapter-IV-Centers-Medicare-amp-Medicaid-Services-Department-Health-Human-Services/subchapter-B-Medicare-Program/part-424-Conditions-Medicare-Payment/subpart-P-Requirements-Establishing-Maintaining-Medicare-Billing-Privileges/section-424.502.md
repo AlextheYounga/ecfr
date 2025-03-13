@@ -1,6 +1,6 @@
 ##### § 424.502 Definitions. #####
 
-Link to an amendment published at 88 FR 77877, Nov. 13, 2023.Link to an amendment published at 88 FR 79540, Nov. 16, 2023.Link to an amendment published at 88 FR 80168, Nov. 17, 2023.
+Link to an amendment published at 88 FR 80168, Nov. 17, 2023.
 
 As used in this subpart, unless the context indicates otherwise—
 
@@ -18,9 +18,9 @@ As used in this subpart, unless the context indicates otherwise—
 
 *Approve/Approval* means the enrolling provider or supplier has been determined to be eligible under Medicare rules and regulations to receive a Medicare billing number and be granted Medicare billing privileges.
 
-*Authorized official* means an appointed official (for example, chief executive officer, chief financial officer, general partner, chairman of the board, or direct owner) to whom the organization has granted the legal authority to enroll it in the Medicare program, to make changes or updates to the organization's status in the Medicare program, and to commit the organization to fully abide by the statutes, regulations, and program instructions of the Medicare program.
+*Authorized official* means an appointed official (for example, chief executive officer, chief financial officer, general partner, chairman of the board, or direct owner) to whom the organization has granted the legal authority to enroll it in the Medicare program, to make changes or updates to the organization's status in the Medicare program, and to commit the organization to fully abide by the statutes, regulations, and program instructions of the Medicare program. For purposes of this definition only, the term “organization” means the enrolling entity as identified by its legal business name and tax identification number.
 
-*Change in majority ownership* occurs when an individual or organization acquires more than a 50 percent direct ownership interest in an HHA during the 36 months following the HHA's initial enrollment into the Medicare program or the 36 months following the HHA's most recent change in majority ownership (including asset sale, stock transfer, merger, and consolidation). This includes an individual or organization that acquires majority ownership in an HHA through the cumulative effect of asset sales, stock transfers, consolidations, or mergers during the 36-month period after Medicare billing privileges are conveyed or the 36-month period following the HHA's most recent change in majority ownership.
+*Change in majority ownership* occurs when an individual or organization acquires more than a 50 percent direct ownership interest in an HHA or hospice during the 36 months following the HHA's or hospice's initial enrollment into the Medicare program or the 36 months following the HHA's or hospice's most recent change in majority ownership (including asset sale, stock transfer, merger, and consolidation). This includes an individual or organization that acquires majority ownership in an HHA or hospice through the cumulative effect of asset sales, stock transfers, consolidations, or mergers during the 36-month period after Medicare billing privileges are conveyed or the 36-month period following the HHA's or hospice's most recent change in majority ownership.
 
 *Deactivate* means that the provider or supplier's billing privileges were stopped, but can be restored upon the submission of updated information.
 
@@ -76,9 +76,17 @@ As used in this subpart, unless the context indicates otherwise—
 
 (5) An exclusion or debarment from participation in a Federal or State health care program.
 
+*Indirect ownership interest* means as follows:
+
+(1)(i) Any ownership interest in an entity that has an ownership interest in the enrolling or enrolled provider or supplier.
+
+(ii) Any ownership interest in an indirect owner of the enrolling or enrolled provider or supplier.
+
+(2) The amount of indirect ownership interest is determined by multiplying the percentages of ownership in each entity. For example, if A owns 10 percent of the stock in a corporation that owns 80 percent of the provider or supplier, A's interest equates to an 8 percent indirect ownership interest in the provider or supplier and must be reported on the enrollment application. Conversely, if B owns 80 percent of the stock of a corporation that owns 5 percent of the stock of the provider or supplier, B's interest equates to a 4 percent indirect ownership interest in the provider or supplier and need not be reported.
+
 *Institutional provider* means any provider or supplier that submits a paper Medicare enrollment application using the CMS-855A, CMS-855B (not including physician and nonphysician practitioner organizations), CMS-855S, or an associated internet-based PECOS enrollment application.
 
-*Managing employee* means a general manager, business manager, administrator, director, or other individual that exercises operational or managerial control over, or who directly or indirectly conducts, the day-to-day operation of the provider or supplier, either under contract or through some other arrangement, whether or not the individual is a W-2 employee of the provider or supplier.
+*Managing employee* means a general manager, business manager, administrator, director, or other individual that exercises operational or managerial control over, or who directly or indirectly conducts, the day-to-day operation of the provider or supplier, either under contract or through some other arrangement, whether or not the individual is a W-2 employee of the provider or supplier. For purposes of this definition, this includes, but is not limited to, a hospice or skilled nursing facility administrator and a hospice or skilled nursing facility medical director.
 
 *Managing organization* means an entity that exercises operational or managerial control over, or that directly or indirectly conducts, the day-to-day operations of the provider or supplier, either under contract or through some other arrangement.
 
@@ -100,6 +108,16 @@ As used in this subpart, unless the context indicates otherwise—
 
 *State oversight board* means, for purposes of §§ 424.530(a)(15) and 424.535(a)(22) only, any State administrative body or organization, such as (but not limited to) a medical board, licensing agency, or accreditation body, that directly or indirectly oversees or regulates the provision of health care within the State.
 
+*Supplier* means, for purposes of this subpart, all of the following:
+
+(1) The individuals and entities that qualify as suppliers under § 400.202.
+
+(2) Physical therapists in private practice.
+
+(3) Occupational therapists in private practice.
+
+(4) Speech-language pathologists.
+
 *Voluntary termination* means that a provider or supplier, including an individual physician or nonphysician practitioner, submits written confirmation to CMS of its decision to discontinue enrollment in the Medicare program.
 
-[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69939, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 75 FR 73628, Nov. 29, 2010; 76 FR 5962, Feb. 2, 2011; 79 FR 72531, Dec. 5, 2014; 82 FR 53368, Nov. 15, 2017; 84 FR 47852, Sept. 10, 2019; 84 FR 63203, Nov. 15, 2019; 86 FR 65682, Nov. 19, 2021; 87 FR 70231, Nov. 18, 2022]
+[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69939, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 75 FR 73628, Nov. 29, 2010; 76 FR 5962, Feb. 2, 2011; 79 FR 72531, Dec. 5, 2014; 82 FR 53368, Nov. 15, 2017; 84 FR 47852, Sept. 10, 2019; 84 FR 63203, Nov. 15, 2019; 86 FR 65682, Nov. 19, 2021; 87 FR 70231, Nov. 18, 2022; 88 FR 77877, Nov. 13, 2023; 88 FR 79540, Nov. 16, 2023]

@@ -1,7 +1,5 @@
 ##### § 425.600 Selection of risk model. #####
 
-Link to an amendment published at 88 FR 79547, Nov. 16, 2023.
-
 (a) An ACO may elect to operate under one of the following tracks:
 
 (1) *Track 1.* For agreement periods beginning before July 1, 2019, an ACO in Track 1 operates under the one-sided model (as described under § 425.604) for the agreement period.
@@ -134,7 +132,7 @@ Link to an amendment published at 88 FR 79547, Nov. 16, 2023.
 
 (i) The quality performance standard as described in § 425.502(a) or § 425.512(a), as applicable.
 
-(ii) The weight used in calculating the regional adjustment to the ACO's historical benchmark as described in §§ 425.601(f), and 425.656(d).
+(ii) The weight used in calculating the regional adjustment to the ACO's historical benchmark as described in §§ 425.601(f), and 425.656(e).
 
 (iii) The use of equal weights to weight each benchmark year as specified in §§ 425.601(e), and 425.652(c)(2).
 
@@ -162,4 +160,4 @@ Link to an amendment published at 88 FR 79547, Nov. 16, 2023.
 
 (ii) Prior to entering performance-based risk, the ACO must meet all requirements to participate under performance-based risk, including establishing an adequate repayment mechanism as specified under § 425.204(f) and selecting a MSR/MLR from the options specified under § 425.605(b), in accordance with paragraph (a)(4)(i)(B)(*2*)(*v*) of this section or paragraph (a)(4)(i)(C)(*4*) of this section, as applicable. If the ACO fails to meet the requirements to participate under performance-based risk, the agreement is terminated in accordance with paragraph (a)(4)(i)(B)(*3*) of this section or paragraph (a)(4)(i)(C)(*5*) of this section, as applicable.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32841, June 9, 2015; 83 FR 68069, Dec. 31, 2018; 85 FR 27625, May 8, 2020; 85 FR 85041, Dec. 28, 2020; 86 FR 45521, Aug. 13, 2021; 87 FR 70235, Nov. 18, 2022]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32841, June 9, 2015; 83 FR 68069, Dec. 31, 2018; 85 FR 27625, May 8, 2020; 85 FR 85041, Dec. 28, 2020; 86 FR 45521, Aug. 13, 2021; 87 FR 70235, Nov. 18, 2022; 88 FR 79547, Nov. 16, 2023]

@@ -1,7 +1,5 @@
 ##### § 484.375 Appeals process for the Expanded Home Health Value-Based Purchasing (HHVBP) Model. #####
 
-Link to an amendment published at 88 FR 77879, Nov. 13, 2023.
-
 (a) *Requests for recalculation*—(1) *Matters for recalculation.* Subject to the limitations on judicial and administrative review under section 1115A of the Act, a HHA may submit a request for recalculation under this section if it wishes to dispute the calculation of the following:
 
 (i) Interim performance scores.
@@ -38,4 +36,22 @@ Link to an amendment published at 88 FR 77879, Nov. 13, 2023.
 
 (4) *Scope of review for reconsideration.* In conducting the reconsideration review, CMS reviews the applicable measures and performance scores, the evidence and findings upon which the determination was based, and any additional documentary evidence submitted by the HHA. CMS may also review any other evidence it believes to be relevant to the reconsideration. The HHA must prove its case by a preponderance of the evidence with respect to issues of fact.
 
-(5) *Reconsideration decision.* CMS reconsideration officials issue a written final determination.
+(5) *Reconsideration decision.* (i) CMS reconsideration officials issue a written decision that is final and binding upon issuance unless the CMS Administrator—
+
+(A) Renders a final determination reversing or modifying the reconsideration decision; or
+
+(B) Does not review the reconsideration decision within 14 days of the request.
+
+(ii) An HHA may request that the CMS Administrator review the reconsideration decision within 7 calendar days of the decision.
+
+(iii) If the CMS Administrator receives a request to review, the CMS Administrator must do one of the following:
+
+(A) Render a final determination based on his or her review of the reconsideration decision.
+
+(B) Decline to review a reconsideration decision made by CMS.
+
+(C) Choose to take no action.
+
+(iv) If the CMS Administrator does not review an HHA's request within 14 days (as described in paragraph (b)(5)(iii)(B) or (C) of this section), the reconsideration official's written reconsideration decision is final.
+
+[86 FR 62422, Nov. 9, 2021, as amended at 88 FR 77879, Nov. 13, 2023]

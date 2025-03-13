@@ -1,7 +1,5 @@
 ##### § 405.800 Appeals of CMS or a CMS contractor. #####
 
-Link to an amendment published at 88 FR 79523, Nov. 16, 2023.
-
 A CMS contractor's (that is, a carrier, Fiscal Intermediary or Medicare Administrative Contractor (MAC)) determination that a provider or supplier fails to meet the requirements for Medicare billing privileges.
 
 (a) *Denial of a provider or supplier enrollment application.* If CMS or a CMS contractor denies a provider's or supplier's enrollment application, CMS or the CMS contractor notifies the provider or supplier by certified mail. The notice includes the following:
@@ -34,4 +32,14 @@ A CMS contractor's (that is, a carrier, Fiscal Intermediary or Medicare Administ
 
 (2) Paragraph (c)(1) of this section applies only to the years added to the existing reenrollment bar under § 424.535(c)(2)(i) of this chapter and not to the original length of the reenrollment bar, which is not subject to appeal.
 
-[77 FR 29028, May 16, 2012, as amended at 84 FR 47852, Sept. 10, 2019]
+(d) *Scope of supplier.* For purposes of this subpart, the term “supplier” includes all of the following:
+
+(1) The individuals and entities that qualify as suppliers under § 400.202 of this chapter.
+
+(2) Physical therapists in private practice.
+
+(3) Occupational therapists in private practice.
+
+(4) Speech-language pathologists.
+
+[77 FR 29028, May 16, 2012, as amended at 84 FR 47852, Sept. 10, 2019; 88 FR 79523, Nov. 16, 2023]

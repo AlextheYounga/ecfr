@@ -1,7 +1,5 @@
 ##### § 405.400 Definitions. #####
 
-Link to an amendment published at 88 FR 79523, Nov. 16, 2023.
-
 For purposes of this subpart, the following definitions apply:
 
 *Beneficiary* means an individual who is enrolled in Part B of Medicare.
@@ -18,7 +16,7 @@ For purposes of this subpart, the following definitions apply:
 
 *Physician* means a doctor of medicine; doctor of osteopathy; doctor of dental surgery or of dental medicine; doctor of podiatric medicine; or doctor of optometry who is legally authorized to practice medicine, osteopathy, dental surgery, dental medicine, podiatric medicine, or optometry by the State in which he performs such function and who is acting within the scope of his license when he performs such functions.
 
-*Practitioner* means a physician assistant, nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, clinical psychologist, clinical social worker, registered dietitian or nutrition professional, who is currently legally authorized to practice in that capacity by each State in which he or she furnishes services to patients or clients.
+*Practitioner* means a physician assistant, nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, clinical psychologist, clinical social worker, marriage and family therapist, mental health counselor, registered dietitian or nutrition professional, who is currently legally authorized to practice in that capacity by each State in which he or she furnishes services to patients or clients.
 
 *Private contract* means a document that meets the criteria specified in § 405.415.
 
@@ -28,4 +26,4 @@ For purposes of this subpart, the following definitions apply:
 
 *Urgent care services* means services furnished to an individual who requires services to be furnished within 12 hours in order to avoid the likely onset of an emergency medical condition.
 
-[63 FR 58901, Nov. 2, 1998, as amended at 69 FR 1116, Jan. 7, 2004; 71 FR 69782, Dec. 1, 2006; 79 FR 68001, Nov. 13, 2014; 80 FR 71370, Nov. 16, 2015]
+[63 FR 58901, Nov. 2, 1998, as amended at 69 FR 1116, Jan. 7, 2004; 71 FR 69782, Dec. 1, 2006; 79 FR 68001, Nov. 13, 2014; 80 FR 71370, Nov. 16, 2015; 88 FR 79523, Nov. 16, 2023]

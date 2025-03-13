@@ -1,12 +1,16 @@
 ##### § 414.412 Submission of bids under a competitive bidding program. #####
 
-Link to an amendment published at 88 FR 77876, Nov. 13, 2023.
-
 (a) *Requirement to submit a bid.* Except as provided under § 414.404(b), in order for a supplier to receive payment for items furnished to beneficiaries under a competitive bidding program, the supplier must submit a bid to furnish those items and be awarded a contract under this subpart.
 
 (b) *Grouping of items into product categories.* (1) Composite bids, as defined in § 414.402, are submitted for lead items, as defined in § 414.402.
 
-(2) The bid submitted for each lead item and product category cannot exceed the payment amount that would otherwise apply to the lead item under subpart C of this part, without the application of § 414.210(g), or subpart D of this part, without the application of § 414.105.
+(2) The bid submitted for each lead item and product category cannot exceed the payment amount that would otherwise apply to the lead item under—
+
+(i) Subpart C of this part, without the application of § 414.210(g);
+
+(ii) Subpart D of this part, without the application of § 414.105; or
+
+(iii) Subpart Q of this part, without the application of § 414.1690.
 
 (3) The bids submitted for standard power wheelchairs paid in accordance with the special payment rules at § 414.409(a) cannot exceed the average monthly payment for the bundle of items and services that would otherwise apply to the item under subpart D of this part.
 
@@ -72,4 +76,4 @@ Link to an amendment published at 88 FR 77876, Nov. 13, 2023.
 
 (B) Is found to be in breach of contract for nonperformance of the contract to avoid forfeiture of the bid surety bond will have its contract terminated and will be precluded from participation in the in the next round of the DMEPOS Competitive Bidding Program.
 
-[72 FR 18085, Apr. 10, 2007, as amended at 79 FR 66264, Nov. 6, 2014; 81 FR 77966, Nov. 4, 2016; 83 FR 21925, May 11, 2018; 83 FR 57072, Nov. 14, 2018]
+[72 FR 18085, Apr. 10, 2007, as amended at 79 FR 66264, Nov. 6, 2014; 81 FR 77966, Nov. 4, 2016; 83 FR 21925, May 11, 2018; 83 FR 57072, Nov. 14, 2018; 88 FR 77876, Nov. 13, 2023]

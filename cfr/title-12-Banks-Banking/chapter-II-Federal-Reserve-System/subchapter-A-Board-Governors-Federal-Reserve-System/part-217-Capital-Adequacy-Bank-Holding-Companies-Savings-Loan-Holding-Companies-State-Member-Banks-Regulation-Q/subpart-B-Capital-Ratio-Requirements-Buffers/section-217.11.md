@@ -1,7 +1,5 @@
 ##### § 217.11 Capital conservation buffer, countercyclical capital buffer amount, and GSIB surcharge. #####
 
-Link to an amendment published at 88 FR 82969, Nov. 27, 2023.
-
 (a) *Capital conservation buffer*—(1) *Composition of the capital conservation buffer.* The capital conservation buffer is composed solely of common equity tier 1 capital.
 
 (2) *Definitions.* For purposes of this section, the following definitions apply:
@@ -45,8 +43,6 @@ Link to an amendment published at 88 FR 82969, Nov. 27, 2023.
 (B) Capital conservation buffer was less than 2.5 percent as of the end of the previous calendar quarter.
 
 (iv) Prior approval—notwithstanding the limitations in paragraphs (a)(4)(i) through (iii) of this section, the Board may permit a Board-regulated institution that is not subject to 12 CFR 225.8 or 238.170 to make a distribution or discretionary bonus payment upon a request of the Board-regulated institution, if the Board determines that the distribution or discretionary bonus payment would not be contrary to the purposes of this section, or to the safety and soundness of the Board-regulated institution. In making such a determination, the Board will consider the nature and extent of the request and the particular circumstances giving rise to the request.
-
-Table 1 to § 217.11(a)(4)(iv)—Calculation of Maximum Payout Amount
 
 |                                                                                                                         Capital conservation buffer                                                                                                                          |    Maximum  <br/>payout ratio     |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
@@ -152,20 +148,24 @@ Table 1 to § 217.11(a)(4)(iv)—Calculation of Maximum Payout Amount
 
 (iii) Notwithstanding paragraph (c)(4)(ii) of this section, if the global systemically important BHC's supplementary leverage ratio is less than or equal to 3 percent, the global systemically important BHC's leverage buffer is zero.
 
-Table 2 to § 217.11(c)(4)(iii)—Calculation of Maximum Payout Ratio
-
-|                                                                          Capital buffer<sup>1</sup>                                                                          |           Payout ratio            |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-|                                                Greater than the Board-regulated institution's buffer requirement<sup>2</sup>                                                 |No payout ratio limitation applies.|
-|Less than or equal to 100 percent of the Board-regulated institution's buffer requirement, and greater than 75 percent of the Board-regulated institution's buffer requirement|            60 percent.            |
-|    Less than or equal to 75 percent of the Board-regulated institution's buffer requirement, and greater than 50 percent of the bank holding company's buffer requirement    |            40 percent.            |
-|Less than or equal to 50 percent of the Board-regulated institution's buffer requirement, and greater than 25 percent of the Board-regulated institution's buffer requirement |            20 percent.            |
-|                                           Less than or equal to 25 percent of the Board-regulated institution's buffer requirement                                           |            0 percent.             |
-
-<sup>1</sup> A Board-regulated institution's “capital buffer” means each of, as applicable, its standardized approach capital conservation buffer, advanced approaches capital conservation buffer, and leverage buffer.
-
-<sup>2</sup> A Board-regulated institution's “buffer requirement” means each of, as applicable, its standardized approach capital conservation buffer requirement, advanced approaches capital conservation buffer requirement, and leverage buffer requirement.
+|                                                                                                                  Capital buffer <sup>1</sup>                                                                                                                   |           Payout ratio            |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
+|                                                                                         Greater than the Board-regulated institution's buffer requirement <sup>2</sup>                                                                                         |No payout ratio limitation applies.|
+|                                         Less than or equal to 100 percent of the Board-regulated institution's buffer requirement, and greater than 75 percent of the Board-regulated institution's buffer requirement                                         |            60 percent.            |
+|                                             Less than or equal to 75 percent of the Board-regulated institution's buffer requirement, and greater than 50 percent of the bank holding company's buffer requirement                                             |            40 percent.            |
+|                                         Less than or equal to 50 percent of the Board-regulated institution's buffer requirement, and greater than 25 percent of the Board-regulated institution's buffer requirement                                          |            20 percent.            |
+|                                                                                    Less than or equal to 25 percent of the Board-regulated institution's buffer requirement                                                                                    |            0 percent.             |
+|                    <sup>1</sup> A Board-regulated institution's “capital buffer” means each of, as applicable, its standardized approach capital conservation buffer, advanced approaches capital conservation buffer, and leverage buffer.                    |                                   |
+|<sup>2</sup> A Board-regulated institution's “buffer requirement” means each of, as applicable, its standardized approach capital conservation buffer requirement, advanced approaches capital conservation buffer requirement, and leverage buffer requirement.|                                   |
 
 (d) *GSIB surcharge.* A global systemically important BHC must use its GSIB surcharge calculated in accordance with subpart H of this part for purposes of determining its maximum payout ratio under Table 2 to § 217.11(c)(4)(iii).
 
-[Reg. Q, 85 FR 15596, Mar. 18, 2020, as amended at 86 FR 3762, Jan. 15, 2021; 86 FR 7938, Feb. 3, 2021; 86 FR 9261, Feb. 12, 2021]
+(e) *Insurance depository institution holding companies.* Notwithstanding any other provision of this section:
+
+(1) A Board-regulated institution that is an insurance bank holding company that is subject to subpart J of this part calculates its capital conservation buffer in accordance with § 217.604;
+
+(2) A Board-regulated institution that is an insurance savings and loan holding company that is subject to subpart J of this part calculates its capital conservation buffer in accordance with § 217.604; and
+
+(3) A Board-regulated institution that is an insurance mid-tier holding company is not subject to the provisions of this section.
+
+[Reg. Q, 85 FR 15596, Mar. 18, 2020, as amended at 86 FR 3762, Jan. 15, 2021; 86 FR 7938, Feb. 3, 2021; 86 FR 9261, Feb. 12, 2021; 88 FR 82969, Nov. 27, 2023]

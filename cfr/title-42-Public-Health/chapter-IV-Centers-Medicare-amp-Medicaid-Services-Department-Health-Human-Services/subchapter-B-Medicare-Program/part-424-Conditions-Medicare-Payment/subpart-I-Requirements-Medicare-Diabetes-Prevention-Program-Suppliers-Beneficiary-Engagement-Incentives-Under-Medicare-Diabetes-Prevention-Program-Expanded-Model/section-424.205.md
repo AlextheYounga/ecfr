@@ -1,7 +1,5 @@
 ##### § 424.205 Requirements for Medicare Diabetes Prevention Program suppliers. #####
 
-Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
-
 (a) *Definitions.* In addition to the definitions specified at § 410.79(b) and § 414.84(a) of this subchapter, the following definitions apply to this section:
 
 *Administrative location* means a physical location associated with the MDPP supplier's operations where they are the primary operator in the space, from where coaches are dispatched or based, and where MDPP services may or may not be furnished.
@@ -18,11 +16,9 @@ Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
 
 *Ineligible coach* means an individual whom CMS has screened and has determined cannot provide MDPP services on behalf of an MDPP supplier in accordance with paragraph (e) of this section.
 
-*MDPP interim preliminary recognition* means a status that CMS has granted to an entity in accordance with paragraph (c) of this section.
-
 (b) *Conditions for MDPP supplier enrollment.* An entity may enroll as an MDPP supplier only if it satisfies the following requirements and all other applicable Medicare enrollment requirements:
 
-(1) Has either an MDPP preliminary recognition, as defined in paragraph (c)(1) of this section or a full CDC DPRP recognition.
+(1) Has either preliminary, full, full plus CDC DPRP recognition.
 
 (2) Maintains an active and valid TIN and NPI at the organizational level.
 
@@ -40,23 +36,9 @@ Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
 
 (7) Revalidates its Medicare enrollment every 5 years after the effective date of enrollment.
 
-(c) *MDPP preliminary recognition.* For the purposes of this section, an MDPP preliminary recognition may include either:
+(c) *Medicare Diabetes Prevention Program supplier standards.* An MDPP supplier must meet and must certify in its CMS-approved enrollment application that it meets and will continue to meet the following standards.
 
-(1) Any preliminary recognition established by CDC for the purposes of the DPRP; or
-
-(2) An MDPP interim preliminary recognition.
-
-(i) *MDPP interim preliminary recognition application period.* Entities may apply to CDC for CMS' MDPP interim preliminary by submitting information at the time and in the form and manner specified by CMS.
-
-(ii) *MDPP Interim preliminary recognition requirements.* An entity may qualify for MDPP interim preliminary recognition if—
-
-(A) The entity has pending CDC recognition.
-
-(B) The entity submits a full 12 months of performance data to CDC on at least one completed cohort. The 12 month data submission includes at least 5 participants who attended at least 3 sessions in the first 6 months and whose time from first session attended to last session of the lifestyle change program was at least 9 months, at least 60 percent of whom attended at least 9 sessions in months 1 through 6, and at least 60 percent of whom attended at least 3 sessions in months 7 through 12.
-
-(d) *Medicare Diabetes Prevention Program supplier standards.* An MDPP supplier must meet and must certify in its CMS-approved enrollment application that it meets and will continue to meet the following standards.
-
-(1) The MDPP supplier must have and maintain MDPP preliminary recognition, as defined under paragraph (c)(1) of this section, or a full CDC DPRP recognition.
+(1) The MDPP supplier must have and maintain preliminary, full, or full plus CDC DPRP recognition.
 
 (2) The MDPP supplier must not currently have its billing privileges terminated for-cause or be excluded by a State Medicaid agency.
 
@@ -98,8 +80,6 @@ Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
 
 (ii) 1 in-person core maintenance session each month during months 7 through 12 (6 months total) of the MDPP services period.
 
-(iii) 1 in-person ongoing maintenance session each month for months 13 through 24 of the MDPP services period, as long as the beneficiary maintains eligibility to receive such services in accordance with § 410.79(c)(1)(ii) and (iii) of this chapter.
-
 (11) Before the initial core session is furnished, the MDPP supplier must disclose detailed information about the set of MDPP services to each MDPP beneficiary to whom it wishes to begin furnishing MDPP services. Such information must include all of the following:
 
 (i) Eligibility requirements under § 410.79(c)(1) of this chapter, including the once-per-lifetime nature of MDPP services.
@@ -112,11 +92,11 @@ Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
 
 (13) The MDPP supplier must maintain a crosswalk file which indicates how beneficiary identifications for the purposes of CDC performance data requirements correspond to corresponding beneficiary health insurance claims numbers or Medicare Beneficiary Identifiers for each MDPP beneficiary receiving MDPP services from the MDPP supplier. The MDPP supplier must submit the crosswalk file to CMS or its contractor.
 
-(14) The MDPP supplier must submit performance data for MDPP beneficiaries who attend ongoing maintenance sessions with data elements consistent with the CDC's DPRP standards for data elements required for the core services period.
+(14) The MDPP supplier must submit performance data for MDPP beneficiaries who ever attended ongoing maintenance sessions with data elements consistent with the CDC's DPRP standards for data elements required for the core services period.
 
 (15) The MDPP supplier must allow CMS or its agents to conduct onsite inspections or recordkeeping reviews in order to ascertain the MDPP supplier's compliance with these standards, and must adhere to the documentation requirements as outlined in paragraph (g) of this section.
 
-(e) *Coach eligibility*—(1) *Criteria.* To furnish MDPP services to a beneficiary, an MDPP coach must not:
+(d) *Coach eligibility*—(1) *Criteria.* To furnish MDPP services to a beneficiary, an MDPP coach must not:
 
 (i) Currently have Medicare billing privileges revoked and be currently subject to the reenrollment bar.
 
@@ -138,7 +118,7 @@ Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
 
 (2) *CMS determination of coach eligibility.* CMS will screen each individual identified on the roster of coaches included with the supplier's enrollment application described in paragraph (b)(4) of this section and updated in accordance with paragraph (d)(5) of this section to verify that the individual coach does not meet any of the conditions specified in paragraph (e)(1) of this section and that the coach can provide MDPP services on behalf of an MDPP supplier. For each individual coach successfully screened by CMS, his or her eligibility start date becomes effective and remains effective until an MDPP supplier or CMS takes action that results in an eligibility end date.
 
-(f) *Effective date for billing privileges.* (1) For MDPP suppliers initially enrolling and for newly established administrative locations that result in a new enrollment record or Provider Transaction Access Number, the effective date for Medicare billing privileges for MDPP suppliers is—
+(e) *Effective date for billing privileges.* (1) For MDPP suppliers initially enrolling and for newly established administrative locations that result in a new enrollment record or Provider Transaction Access Number, the effective date for Medicare billing privileges for MDPP suppliers is—
 
 (i) The later of—
 
@@ -152,7 +132,7 @@ Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
 
 (2) For any newly established administrative locations that do not result in a new enrollment record or Provider Transaction Access Number, the existing billing privilege effective date for their Provider Transaction Access Number will apply, but not earlier than April 1, 2018.
 
-(g) *Documentation retention and provision requirements.* An MDPP supplier must maintain all documentation related to participation in the MDPP in accordance with all applicable Federal and State laws. The MDPP supplier must provide to CMS, a contractor acting on CMS' behalf, the Office of the Inspector General, and the Comptroller General or their designee(s) scheduled and unscheduled access to the MDPP supplier's records, including, but not limited to, all books, contracts, records, documents, and other evidence sufficient to enable the audit, evaluation, inspection, or investigation of the MDPP supplier's compliance with the MDPP expanded model's requirements, including the MDPP expanded model requirements for in-kind beneficiary incentive engagements in § 424.210 of this chapter in the event that the MDPP supplier chooses to offer such incentives to any MDPP beneficiary.
+(f) *Documentation retention and provision requirements.* An MDPP supplier must maintain all documentation related to participation in the MDPP in accordance with all applicable Federal and State laws. The MDPP supplier must provide to CMS, a contractor acting on CMS' behalf, the Office of the Inspector General, and the Comptroller General or their designee(s) scheduled and unscheduled access to the MDPP supplier's records, including, but not limited to, all books, contracts, records, documents, and other evidence sufficient to enable the audit, evaluation, inspection, or investigation of the MDPP supplier's compliance with the MDPP expanded model's requirements, including the MDPP expanded model requirements for in-kind beneficiary incentive engagements in § 424.210 of this chapter in the event that the MDPP supplier chooses to offer such incentives to any MDPP beneficiary.
 
 (1) The documentation for the first core session must be established contemporaneous with the furnishing of MDPP services and must include at least all of the following:
 
@@ -164,7 +144,7 @@ Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
 
 (2) The documentation for each MDPP session attended by an MDPP must be established contemporaneous with the furnishing of MDPP services and must include at least all of the following:
 
-(i) Documentation of the type of session, whether a core session, a core maintenance session, an ongoing maintenance session, an in-person make-up session, or a virtual make-up session.
+(i) Documentation of the type of session, whether a core session, a core maintenance session, an in-person make-up session, or a virtual make-up session.
 
 (ii) Identification of which CDC-approved DPRP curriculum was associated with the session.
 
@@ -184,11 +164,9 @@ Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
 
 (ii) Has attended at least three core maintenance sessions, achieved required minimum weight loss, or both, as applicable, if the claim submitted is for a performance payment under § 414.84(b)(4) of this chapter.
 
-(iii) Has achieved the required minimum weight loss and attended at least three ongoing maintenance sessions within an ongoing maintenance session interval, if the claim submitted is for a performance payment under § 414.84(b)(5) of this chapter, if the claim submitted is for a performance payment under § 414.84(b)(6) of this chapter.
+(iii) Has achieved at least a 9-percent weight loss percentage as measured in accordance with § 410.79(e)(3)(iii) of this chapter during a core session or core maintenance session furnished by that supplier, if the claim submitted is for a performance payment under § 414.84(b)(7) of this chapter.
 
-(iv) Has achieved required minimum weight loss as measured in-person during a core session or core maintenance session furnished by that supplier, if the claim submitted is for a performance payment under § 414.84(b)(6) of this chapter.
-
-(v) Has achieved at least a 9-percent weight loss percentage as measured in-person during a core session, core maintenance session, or ongoing maintenance session furnished by that supplier, if the claim submitted is for a performance payment under § 414.84(b)(7) of this chapter.
+(iv) Has achieved at least a 9-percent weight loss percentage as measured in-person during a core session, core maintenance session, or ongoing maintenance session furnished by that supplier, if the claim submitted is for a performance payment under § 414.84(b)(7) of this chapter.
 
 (6) The MDPP supplier must maintain all records required under this section for a period of 10 years from the last day of the MDPP beneficiary's receipt of MDPP services provided by the MDPP supplier or from the date of completion of any audit, evaluation, inspection, or investigation, whichever is later, unless either of the following apply:
 
@@ -196,7 +174,7 @@ Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
 
 (ii) There has been a dispute or allegation of fraud or similar fault against the MDPP supplier, in which case the records must be maintained for an additional 6 years from the date of any resulting final resolution of the dispute or allegation of fraud or similar fault, as defined at § 405.902 of this chapter.
 
-(h) *Denial or revocation of MDPP supplier enrollment.* (1) An MDPP supplier is subject to enrollment denial or revocation of its MDPP supplier enrollment for one or more of the following reasons:
+(g) *Denial or revocation of MDPP supplier enrollment.* (1) An MDPP supplier is subject to enrollment denial or revocation of its MDPP supplier enrollment for one or more of the following reasons:
 
 (i) *Failure to meet enrollment requirements.* The MDPP supplier does not satisfy the conditions specified in paragraph (b) of this section.
 
@@ -204,7 +182,7 @@ Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
 
 (B) A revocation under this paragraph (h)(1)(i) is considered a revocation under § 424.535(a)(1).
 
-(C) An MDPP supplier that does not satisfy the requirements in paragraph (b)(1) of this section may become eligible to bill for MDPP services again if it successfully achieves MDPP preliminary recognition or full CDC DPRP recognition, and successfully enrolls again in Medicare as an MDPP supplier after any applicable reenrollment bar has expired.
+(C) An MDPP supplier that does not satisfy the requirements in paragraph (b)(1) of this section may become eligible to bill for MDPP services again if it successfully achieves preliminary, full, or full plus CDC DPRP recognition, and successfully enrolls again in Medicare as an MDPP supplier after any applicable reenrollment bar has expired.
 
 (ii) *Failure to meet MDPP supplier standards.* The MDPP supplier fails to meet the standards specified in paragraph (d) of this section.
 
@@ -228,4 +206,4 @@ Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
 
 (2) An MDPP supplier may appeal an enrollment denial or revocation decision in accordance with the procedures specified in part 498 of this chapter. References to suppliers in that section apply to MDPP suppliers.
 
-[82 FR 53364, Nov. 15, 2017,as amended at 86 FR 65682, Nov. 19, 2021]
+[82 FR 53364, Nov. 15, 2017,as amended at 86 FR 65682, Nov. 19, 2021; 88 FR 79540, Nov. 16, 2023]

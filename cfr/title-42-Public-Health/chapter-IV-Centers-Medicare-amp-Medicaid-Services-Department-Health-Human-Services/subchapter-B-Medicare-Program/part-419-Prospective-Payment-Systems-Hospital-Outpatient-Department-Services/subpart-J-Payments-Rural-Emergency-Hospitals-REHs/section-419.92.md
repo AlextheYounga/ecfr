@@ -1,7 +1,5 @@
 ##### § 419.92 Payment to rural emergency hospitals. #####
 
-Link to an amendment published at 88 FR 82181, Nov. 22, 2023.
-
 (a) *Payment for REH services*—(1) *Medicare payment.* A rural emergency hospital that furnishes a REH service on or after January 1, 2023, is paid an amount equal to the amount of payment that would otherwise apply under section 1833(t) of the Act for the equivalent covered OPD service, increased by 5 percent.
 
 (2) *Beneficiary copayment.* The beneficiary copayment for a REH service is the amount determined under section 1833(t)(8) of the Act for the equivalent covered OPD service, excluding the 5 percent payment increase described in paragraph (a)(1) of this section.
@@ -38,4 +36,8 @@ Link to an amendment published at 88 FR 82181, Nov. 22, 2023.
 
 (4) Direct graduate medical education payments to REHs made under this section are made from the Federal Hospital Insurance Trust Fund.
 
-[87 FR 72292, Nov. 23, 2022, as amended at 88 FR 59335, Aug. 28, 2023]
+(e) *Payment for Indian Health Service (IHS) or tribal REHs.* An IHS or tribal REH, as defined in paragraph (f) of this section will be paid under the outpatient hospital All-Inclusive Rate that is established and published annually by the IHS rather than the rates for REH services described in paragraph (a)(1) of this section.
+
+(f) *IHS or tribal REHs.* An IHS or tribal REH is an REH, as defined in § 485.502 of this chapter, that is operated by the IHS or by a tribe or tribal organization with funding authorized by Title I or V of the Indian Self-Determination and Education Assistance Act (Pub. L. 93-638).
+
+[87 FR 72292, Nov. 23, 2022, as amended at 88 FR 59335, Aug. 28, 2023; 88 FR 82181, Nov. 22, 2023]

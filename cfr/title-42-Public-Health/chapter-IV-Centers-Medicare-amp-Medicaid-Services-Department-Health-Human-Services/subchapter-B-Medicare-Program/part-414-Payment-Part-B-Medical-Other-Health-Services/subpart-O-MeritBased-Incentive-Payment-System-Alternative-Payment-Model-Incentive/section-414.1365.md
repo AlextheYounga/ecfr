@@ -1,7 +1,5 @@
 ##### § 414.1365 MIPS Value Pathways. #####
 
-Link to an amendment published at 88 FR 79535, Nov. 16, 2023.
-
 (a) *General.* (1) Beginning with the CY 2023 MIPS performance period/2025 MIPS payment year, CMS uses MVPs included in the MIPS final inventory of MVPs established by CMS through rulemaking to assess performance for the quality, cost, improvement activities, and Promoting Interoperability performance categories.
 
 (2) [Reserved]
@@ -80,7 +78,7 @@ Link to an amendment published at 88 FR 79535, Nov. 16, 2023.
 
 (2) *Reweighting MVP performance categories*—(i) General reweighting. For an MVP Participant that is not an APM Entity, in accordance with paragraph (e)(2)(iii) of this section, a scoring weight different from the weights described at § 414.1380(c)(1) will be assigned to a performance category, and its weight as described at § 414.1380(c)(1) will be redistributed to another performance category or categories, in the circumstances described at § 414.1380(c)(2)(i)(A)(2) through (9) and § 414.1380(c)(2)(i)(C). For an MVP Participant that is an APM Entity, the performance category weights will be redistributed in accordance with § 414.1317(b).
 
-(ii) *Subgroups.* For an MVP Participant that is a subgroup, any reweighting applied to its affiliated group will also be applied to the subgroup. In addition, if reweighting is not applied to the affiliated group, the subgroup may receive reweighting in the following circumstances independent of the affiliated group:
+(ii) *Subgroups.* For an MVP Participant that is a subgroup, any reweighting applied to its affiliated group will also be applied to the subgroup. In addition, for the CY 2023 performance period/2025 MIPS payment year, if reweighting is not applied to the affiliated group, the subgroup may receive reweighting in the following circumstances independent of the affiliated group:
 
 (A) A subgroup may submit an application to CMS demonstrating that it was subject to extreme and uncontrollable circumstances and receive reweighting in accordance with § 414.1380(c)(2)(i)(A)(6) and (c)(2)(i)(C)(2). In the event that a subgroup submits data for a performance category, the scoring weight described at § 414.1380(c)(1) would be applied and its weight would not be redistributed.
 
@@ -88,8 +86,12 @@ Link to an amendment published at 88 FR 79535, Nov. 16, 2023.
 
 (iii) *Reweighting scenarios.* For an MVP Participant that is not an APM Entity, a scoring weight different from the weights described at § 414.1380(c)(1) will be assigned to a performance category, and its weight as described at § 414.1380(c)(1) will be redistributed to another performance category or categories, in accordance with § 414.1380(c)(2)(ii). For an MVP Participant that is an APM Entity, the performance category weights will be redistributed in accordance with § 414.1317(b).
 
-(3) *Facility-based scoring.* If an MVP Participant, that is not an APM Entity, is eligible for facility-based scoring, a facility-based score also will be calculated in accordance with § 414.1380(e).
+(3) *Facility-based scoring.* If an MVP Participant, that is not an APM Entity or a subgroup, is eligible for facility-based scoring, a facility-based score also will be calculated in accordance with § 414.1380(e).
 
 (4) *Complex patient bonus.* A complex patient bonus will be added to the final score for an MVP Participant in accordance with § 414.1380(c)(3).
 
-[86 FR 65671, Nov. 19, 2021, as amended at 87 FR 70227, Nov. 18, 2022]
+(i) For subgroups, the affiliated group's complex patient bonus will be added to the final score.
+
+(ii) [Reserved]
+
+[86 FR 65671, Nov. 19, 2021, as amended at 87 FR 70227, Nov. 18, 2022; 88 FR 79535, Nov. 16, 2023]

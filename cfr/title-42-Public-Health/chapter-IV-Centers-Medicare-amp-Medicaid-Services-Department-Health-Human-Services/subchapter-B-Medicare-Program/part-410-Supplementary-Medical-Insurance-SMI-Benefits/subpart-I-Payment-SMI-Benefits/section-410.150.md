@@ -1,7 +1,5 @@
 ##### § 410.150 To whom payment is made. #####
 
-Link to an amendment published at 88 FR 79529, Nov. 16, 2023.Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
-
 (a) *General rules.* (1) Any SMI enrollee is, subject to the conditions, limitations, and exclusions set forth in this part and in parts 405, 416 and 424 of this chapter, entitled to have payment made as specified in paragraph (b) of this section.
 
 (2) The services specified in paragraphs (b)(5) through (b)(14) of this section must be furnished by a facility that has in effect a provider agreement or other appropriate agreement to participate in Medicare.
@@ -32,7 +30,7 @@ Link to an amendment published at 88 FR 79529, Nov. 16, 2023.Link to an amendmen
 
 (12) To a critical access hospital (CAH) on the individual's behalf for outpatient CAH services furnished by the CAH.
 
-(13) To a community mental health center (CMHC) on the individual's behalf, for partial hospitalization services furnished by the CMHC (or by others under arrangements made with them by the CMHC).
+(13) To a community mental health center (CMHC) on the individual's behalf, for partial hospitalization services or intensive outpatient services furnished by the CMHC (or by others under arrangements made with them by the CMHC).
 
 (14) To an SNF for services (other than those described in § 411.15(p)(2) of this chapter) that it furnishes to a resident (as defined in § 411.15(p)(3) of this chapter) of the SNF who is not in a covered Part A stay.
 
@@ -50,4 +48,8 @@ Link to an amendment published at 88 FR 79529, Nov. 16, 2023.Link to an amendmen
 
 (20) To a certified nurse-midwife for professional services furnished by the certified nurse-midwife in all settings and for services and supplies furnished incident to those services. Payment is made only if no facility or other provider charges or is paid any amount for the furnishing of the professional services of the certified nurse-midwife.
 
-[51 FR 41339, Nov. 14, 1986, as amended at 53 FR 6648, Mar. 2, 1988; 57 FR 24981, June 12, 1992; 58 FR 30668, May 26, 1993; 59 FR 6577, Feb. 11, 1994; 63 FR 20129, Apr. 23, 1998; 63 FR 26308, May 12, 1998; 63 FR 58909, Nov. 2, 1998; 65 FR 41211, July 3, 2000; 66 FR 39599, July 31, 2001; 75 FR 73615, Nov. 29, 2010; 86 FR 65667, Nov. 19, 2021]
+(21) To a marriage and family therapist on the individual's behalf for marriage and family therapist services.
+
+(22) To a mental health counselor on the individual's behalf for mental health counseling services.
+
+[51 FR 41339, Nov. 14, 1986, as amended at 53 FR 6648, Mar. 2, 1988; 57 FR 24981, June 12, 1992; 58 FR 30668, May 26, 1993; 59 FR 6577, Feb. 11, 1994; 63 FR 20129, Apr. 23, 1998; 63 FR 26308, May 12, 1998; 63 FR 58909, Nov. 2, 1998; 65 FR 41211, July 3, 2000; 66 FR 39599, July 31, 2001; 75 FR 73615, Nov. 29, 2010; 86 FR 65667, Nov. 19, 2021; 88 FR 79529, Nov. 16, 2023; 88 FR 82179, Nov. 22, 2023]

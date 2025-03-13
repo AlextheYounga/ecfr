@@ -1,7 +1,5 @@
 ##### § 660.78 EFHCAs off the Coast of Oregon. #####
 
-Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
-
 (a) *General.* Boundary line coordinates for EFHCAs off Oregon are provided in this section. Fishing activity that is prohibited or permitted within the EEZ in a particular area designated as a groundfish EFHCA is detailed at §§ 660.12, 660.112, 660.130, 660.212, 660.230, 660.312, 660.330, and 660.360.
 
 (b) *Astoria Deep.* The boundary of the Astoria Deep EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 46°03.00′ N lat., 124°57.36′ W long.:
@@ -104,7 +102,35 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (12) 45°51.74′ N lat., 124°30.85′ W long.
 
-(f) *Garibaldi Reef North.* The boundary of the Garibaldi Reef North EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 45°40.81′ N lat., 124°18.46′ W long.:
+(f) *Nehalem Bank East.* The boundary of the Nehalem Bank East EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 45°47.95′ N lat., 124°31.70′ W long.:
+
+(1) 45°47.95′ N lat., 124°31.70′ W long.;
+
+(2) 45°52.28′ N lat., 124°38.46′ W long.;
+
+(3) 45°56.45′ N lat., 124°38.00′ W long.;
+
+(4) 45°58.33′ N lat., 124°38.75′ W long.;
+
+(5) 46°00.83′ N lat., 124°36.78′ W long.;
+
+(6) 45°59.94′ N lat., 124°34.63′ W long.;
+
+(7) 45°58.90′ N lat., 124°33.47′ W long.;
+
+(8) 45°54.27′ N lat., 124°30.73′ W long.;
+
+(9) 45°53.62′ N lat., 124°30.83′ W long.;
+
+(10) 45°52.90′ N lat., 124°30.67′ W long.;
+
+(11) 45°52.03′ N lat., 124°30.60′ W long.;
+
+(12) 45°51.75′ N lat., 124°30.85′ W long.; and
+
+(13) 45°51.53′ N lat., 124°31.15′ W long.
+
+(g) *Garibaldi Reef North.* The boundary of the Garibaldi Reef North EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 45°40.81′ N lat., 124°18.46′ W long.:
 
 (1) 45°40.81′ N lat., 124°18.46′ W long.;
 
@@ -118,7 +144,7 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (6) 45°43.49′ N lat., 124°18.94′ W long.
 
-(g) *Garibaldi Reef South.* The boundary of the Garibaldi Reef South EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 45°34.53′ N lat., 124°15.47′ W long.:
+(h) *Garibaldi Reef South.* The boundary of the Garibaldi Reef South EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 45°34.53′ N lat., 124°15.47′ W long.:
 
 (1) 45°34.53′ N lat., 124°15.47′ W long.;
 
@@ -128,7 +154,7 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (4) 45°33.58′ N lat., 124°16.54′ W long.
 
-(h) *Siletz Deepwater.* The boundary of the Siletz Deepwater EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 44°42.72′ N lat., 125°18.49′ W long.:
+(i) *Siletz Deepwater.* The boundary of the Siletz Deepwater EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 44°42.72′ N lat., 125°18.49′ W long.:
 
 (1) 44°42.72′ N lat., 125°18.49′ W long.;
 
@@ -146,7 +172,7 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (8) 44°33.38′ N lat., 125°17.08′ W long.
 
-(i) *Daisy Bank/Nelson Island.* The boundary of the Daisy Bank/Nelson Island EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 44°39.24′ N lat., 124°38.65′ W long.:
+(j) *Daisy Bank/Nelson Island.* The boundary of the Daisy Bank/Nelson Island EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 44°39.24′ N lat., 124°38.65′ W long.:
 
 (1) 44°39.24′ N lat., 124°38.65′ W long.;
 
@@ -168,7 +194,7 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (10) 44°43.92′ N lat., 124°44.66′ W long.
 
-(j) *Newport Rockpile/Stonewall Bank.* The boundary of the Newport Rockpile/Stonewall Bank EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 44°27.42′ N lat., 124°19.52′ W long.:
+(k) *Newport Rockpile/Stonewall Bank.* The boundary of the Newport Rockpile/Stonewall Bank EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 44°27.42′ N lat., 124°19.52′ W long.:
 
 (1) 44°27.42′ N lat., 124°19.52′ W long.;
 
@@ -190,7 +216,7 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (10) 44°28.82′ N lat., 124°18.80′ W long.
 
-(k) *Hydrate Ridge.* The boundary of the Hydrate Ridge EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 44°28.31′ N lat., 125°11.42′ W long.:
+(l) *Hydrate Ridge.* The boundary of the Hydrate Ridge EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 44°28.31′ N lat., 125°11.42′ W long.:
 
 (1) 44°28.31′ N lat., 125°11.42′ W long.;
 
@@ -204,7 +230,7 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (6) 44°28.31′ N lat., 125°07.66′ W long.
 
-(l) *Heceta Bank.* The boundary of the Heceta Bank EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 44°22.27′ N lat., 124°37.63′ W long.:
+(m) *Heceta Bank.* The boundary of the Heceta Bank EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 44°22.27′ N lat., 124°37.63′ W long.:
 
 (1) 44°22.27′ N lat., 124°37.63′ W long.;
 
@@ -264,7 +290,7 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (29) 44°24.10′ N lat., 124°38.10′ W long.
 
-(m) *Deepwater off Coos Bay.* The boundary of the Deepwater off Coos Bay EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 43°29.32′ N lat., 125°20.11′ W long.:
+(n) *Deepwater off Coos Bay.* The boundary of the Deepwater off Coos Bay EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 43°29.32′ N lat., 125°20.11′ W long.:
 
 (1) 43°29.32′ N lat., 125°20.11′ W long.;
 
@@ -284,7 +310,7 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (9) 43°25.73′ N lat., 125°19.36′ W long.
 
-(n) *Arago Reef.* The boundary of the Arago Reef EFHCA is defined as the areas within the West Coast EEZ shoreward (east) of a boundary line defined by connecting the following coordinates in the order stated:
+(o) *Arago Reef.* The boundary of the Arago Reef EFHCA is defined as the areas within the West Coast EEZ shoreward (east) of a boundary line defined by connecting the following coordinates in the order stated:
 
 (1) 43°08.49′ N lat., 124°30.78′ W long.;
 
@@ -298,7 +324,35 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (6) 43°16.88′ N lat., 124°28.16′ W long.
 
-(o) *Bandon High Spot.* The boundary of the Bandon High Spot EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 42°57.18′ N lat., 124°46.01′ W long.:
+(p) *Arago Reef West.* The boundary of the Arago Reef West EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 43°16.24′ N lat., 124°27.66′ W long.:
+
+(1) 43°16.24′ N lat., 124°27.66′ W long.;
+
+(2) 43°14.23′ N lat., 124°29.28′ W long.;
+
+(3) 43°14.03′ N lat., 124°28.31′ W long.;
+
+(4) 43°11.92′ N lat., 124°28.26′ W long.;
+
+(5) 43°11.02′ N lat., 124°29.11′ W long.;
+
+(6) 43°10.13′ N lat., 124°29.15′ W long.;
+
+(7) 43°09.26′ N lat., 124°31.03′ W long.;
+
+(8) 43°08.60′ N lat., 124°30.98′ W long.;
+
+(9) 43°10.22′ N lat., 124°37.82′ W long.;
+
+(10) 43°16.91′ N lat., 124°37.50′ W long.;
+
+(11) 43°16.51′ N lat., 124°28.97′ W long.;
+
+(12) 43°16.88′ N lat., 124°28.16′ W long.; and
+
+(13) 43°16.24′ N lat., 124°27.66′ W long.
+
+(q) *Bandon High Spot.* The boundary of the Bandon High Spot EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 42°57.18′ N lat., 124°46.01′ W long.:
 
 (1) 42°57.18′ N lat., 124°46.01′ W long.;
 
@@ -328,7 +382,29 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (14) 43°00.94′ N lat., 124°46.57′ W long.
 
-(p) *President Jackson Seamount.* The boundary of the President Jackson Seamount EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 42°21.41′ N lat., 127°42.91′ W long.:
+(r) *Bandon High Spot East.* The boundary of the Bandon High Spot East EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 42°57.18′ N lat., 124°46.01′ W long.:
+
+(1) 42°57.18′ N lat., 124°46.01′ W long.;
+
+(2) 42°56.10′ N lat., 124°47.48′ W long.;
+
+(3) 42°56.66′ N lat., 124°48.79′ W long.;
+
+(4) 42°55.02′ N lat., 124°50.45′ W long.;
+
+(5) 42°55.70′ N lat., 124°52.79′ W long.;
+
+(6) 43°03.91′ N lat., 124°50.81 W long.;
+
+(7) 43°03.70′ N lat., 124°47.91′ W long.;
+
+(8) 43°03.20′ N lat., 124°47.52′ W long.;
+
+(9) 43°00.94′ N lat., 124°46.57′ W long.; and
+
+(10) 42°57.18′ N lat., 124°46.01′ W long.
+
+(s) *President Jackson Seamount.* The boundary of the President Jackson Seamount EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 42°21.41′ N lat., 127°42.91′ W long.:
 
 (1) 42°21.41′ N lat., 127°42.91′ W long.;
 
@@ -390,7 +466,7 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (30) 42°21.05′ N lat., 127°40.81′ W long.
 
-(q) *Rogue Canyon.* The boundary of the Rogue Canyon EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 42°41.33′ N lat., 125°16.61′ W long.:
+(t) *Rogue Canyon.* The boundary of the Rogue Canyon EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 42°41.33′ N lat., 125°16.61′ W long.:
 
 (1) 42°41.33′ N lat., 125°16.61′ W long.;
 
@@ -406,7 +482,7 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (7) 42°17.94′ N lat., 125°10.17′ W long.
 
-(r) *Rogue River Reef.* The boundary of the Rogue River Reef EFHCA is defined as the areas within the West Coast EEZ shoreward (east) of a boundary line defined by connecting the following coordinates in the order stated:
+(u) *Rogue River Reef.* The boundary of the Rogue River Reef EFHCA is defined as the areas within the West Coast EEZ shoreward (east) of a boundary line defined by connecting the following coordinates in the order stated:
 
 (1) 42°23.27′ N lat., 124°30.03′ W long.;
 
@@ -426,4 +502,4 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (9) 42°28.16′ N lat., 124°34.05′ W long.
 
-[84 FR 63976, Nov. 19, 2019; 84 FR 70905, Dec. 26, 2019]
+[84 FR 63976, Nov. 19, 2019, as amended at 88 FR 83848, Dec. 1, 2023]

@@ -1,14 +1,12 @@
 ##### § 405.2448 Preventive primary services. #####
 
-Link to an amendment published at 88 FR 79524, Nov. 16, 2023.
-
 (a) Preventive primary services are those health services that—
 
 (1) A FQHC is required to provide as preventive primary health services under section 330 of the PHS Act; and
 
-(2) Are furnished by a or under the direct supervision of a physician, nurse practitioner, physician assistant, certified nurse midwife, clinical psychologist or clinical social worker employed by or under contract with the FQHC.
+(2) Are furnished by a or under the direct supervision of a physician, nurse practitioner, physician assistant, certified nurse midwife, clinical psychologist, clinical social worker, marriage and family therapist, or mental health counselor employed by or under contract with the FQHC.
 
-(i) By a or under the direct supervision of a physician, nurse practitioner, physician assistant, certified nurse midwife, clinical psychologist or clinical social worker; or
+(i) By a or under the direct supervision of a physician, nurse practitioner, physician assistant, certified nurse midwife, clinical psychologist, clinical social worker, marriage and family therapist, or mental health counselor; or
 
 (ii) By a member of the FQHC's health care staff who is an employee of the FQHC or by a physician under arrangements with the FQHC.
 
@@ -70,4 +68,4 @@ Link to an amendment published at 88 FR 79524, Nov. 16, 2023.
 
 (e) Preventive primary services do not include eyeglasses, hearing aids, or preventive dental services.
 
-[57 FR 24980, June 12, 1992, as amended at 61 FR 14657, Apr. 3, 1996; 79 FR 25477, May 2, 2014; 80 FR 71371, Nov. 16, 2015]
+[57 FR 24980, June 12, 1992, as amended at 61 FR 14657, Apr. 3, 1996; 79 FR 25477, May 2, 2014; 80 FR 71371, Nov. 16, 2015; 88 FR 79524, Nov. 16, 2023]

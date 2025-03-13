@@ -1,7 +1,5 @@
 ##### § 891.520 Definitions applicable to 202/8 projects. #####
 
-Link to an amendment published at 88 FR 9669, Feb. 14, 2023.Link to an amendment published at 88 FR 75233, Nov. 2, 2023.
-
 The following definitions apply to projects for eligible families receiving assistance under section 8 of the United States Housing Act of 1937 in addition to reservations under section 202 of the Housing Act of 1959 (202/8 projects):
 
 *Adjusted income* as defined in part 5, subpart F of subtitle A of this title.
@@ -10,9 +8,7 @@ The following definitions apply to projects for eligible families receiving assi
 
 *Contract rent* means the total amount of rent specified in the HAP contract as payable by HUD and the tenant to the Borrower for an assisted unit.
 
-*Family (eligible family)* means an elderly or handicapped family that meets the project occupancy requirements approved by HUD and, if the family occupies an assisted unit, meets the requirements described in part 813 of this chapter.
-
-*Gross rent* is defined in part 5, subpart F of subtitle A of this title.
+*Family (eligible family)* means an elderly or handicapped family that meets the project occupancy requirements approved by HUD and, if the family occupies an assisted unit, meets the requirements described in 24 CFR 5.403.
 
 *HAP contract (housing assistance payments contract)* means the contract entered into by the Borrower and HUD setting forth the rights and duties of the parties with respect to the project and the payments under the HAP contract.
 
@@ -34,4 +30,4 @@ The following definitions apply to projects for eligible families receiving assi
 
 *Vacancy payment* means the housing assistance payment made to the Borrower by HUD for a vacant assisted unit if certain conditions are fulfilled, as provided in the HAP contract. The amount of the vacancy payment varies with the length of the vacancy period and is less after the first 60 days of any vacancy.
 
-[61 FR 11956, Mar. 22, 1996, as amended at 66 FR 6225, Jan. 19, 2001; 66 FR 8174, Jan. 30, 2001]
+[61 FR 11956, Mar. 22, 1996, as amended at 66 FR 6225, Jan. 19, 2001; 66 FR 8174, Jan. 30, 2001; 88 FR 9669, Feb. 14, 2023; 88 FR 75233, Nov. 2, 2023]

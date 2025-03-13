@@ -1,16 +1,14 @@
 ##### § 405.2468 Allowable costs. #####
 
-Link to an amendment published at 88 FR 79525, Nov. 16, 2023.Link to an amendment published at 88 FR 82176, Nov. 22, 2023.
-
 (a) *Applicability of general Medicare principles.* In determining whether and to what extent a specific type or item of cost is allowable, such as interest, depreciation, bad debts and owner compensation, the MAC applies the principles for reimbursement of provider costs, as set forth in part 413 of this subchapter.
 
 (b) *Typical RHC and FQHC costs.* The following types and items of cost are included in allowable costs to the extent that they are covered and reasonable:
 
-(1) Compensation for the services of a physician, physician assistant, nurse practitioner, certified nurse-midwife, visiting registered professional or licensed practical nurse, clinical psychologist, and clinical social worker who owns, is employed by, or furnishes services under contract to a FQHC or RHC.
+(1) Compensation for the services of a physician, physician assistant, nurse practitioner, certified nurse-midwife, visiting registered professional or licensed practical nurse, clinical psychologist, clinical social worker, marriage and family therapist, and mental health counselor who owns, is employed by, or furnishes services under contract to a FQHC or RHC.
 
 (2) Compensation for the duties that a supervising physician is required to perform under the agreement specified in § 491.8 of this chapter.
 
-(3) Costs of services and supplies incident to the services of a physician, physician assistant, nurse practitioner, nurse-midwife, qualified clinical psychologist, or clinical social worker.
+(3) Costs of services and supplies incident to the services of a physician, physician assistant, nurse practitioner, nurse-midwife, qualified clinical psychologist, clinical social worker, marriage and family therapist, or mental health counselor.
 
 (4) Overhead costs, including RHC or FQHC administration, costs applicable to use and maintenance of the entity, and depreciation costs.
 
@@ -24,7 +22,7 @@ Link to an amendment published at 88 FR 79525, Nov. 16, 2023.Link to an amendmen
 
 (i) Compensation for the professional and supervisory services of physicians and for the services of physician assistants, nurse practitioners, and nurse-midwives.
 
-(ii) Services of physicians, physician assistants, nurse practitioners, nurse-midwives, visiting nurses, qualified clinical psychologists, and clinical social workers.
+(ii) Services of physicians, physician assistants, nurse practitioners, nurse-midwives, visiting nurses, qualified clinical psychologists, clinical social workers, marriage and family therapists, and mental health counselors.
 
 (iii) The level of administrative and general expenses.
 
@@ -72,4 +70,8 @@ Link to an amendment published at 88 FR 79525, Nov. 16, 2023.Link to an amendmen
 
 (8) Direct graduate medical education payments to RHCs and FQHCs made under this section are made from the Federal Supplementary Medical Insurance Trust Fund.
 
-[43 FR 8261, Mar. 1, 1978. Redesignated and amended at 57 FR 24977, June 12, 1992; 60 FR 63176, Dec. 8, 1995; 61 FR 14658, Apr. 3, 1996; 63 FR 41002, July 31, 1998; 66 FR 39932, Aug. 1, 2001; 70 FR 47484, Aug. 12, 2005; 79 FR 25479, May 2, 2014; 79 FR 50351, Aug. 22, 2014]
+(g) *Intensive outpatient services.* (1) For RHCs, costs associated with intensive outpatient services are not used to determine the amount of payment for RHC services under the methodology for all-inclusive rates under section 1833(a)(3) of the Act as described in § 405.2464(a).
+
+(2) For FQHCs, costs associated with intensive outpatient services are not used to determine the amount of payment for FQHC services under the prospective payment system under section 1834(o)(2)(B) of the Act as described in § 405.2464(b).
+
+[43 FR 8261, Mar. 1, 1978. Redesignated and amended at 57 FR 24977, June 12, 1992; 60 FR 63176, Dec. 8, 1995; 61 FR 14658, Apr. 3, 1996; 63 FR 41002, July 31, 1998; 66 FR 39932, Aug. 1, 2001; 70 FR 47484, Aug. 12, 2005; 79 FR 25479, May 2, 2014; 79 FR 50351, Aug. 22, 2014; 88 FR 79525, Nov. 16, 2023; 88 FR 82176, Nov. 22, 2023]

@@ -1,7 +1,5 @@
 ##### § 414.1430 Qualifying APM participant determination: QP and partial QP thresholds. #####
 
-Link to an amendment published at 88 FR 79539, Nov. 16, 2023.
-
 (a) *Medicare Option*—(1) *QP payment amount threshold.* The QP payment amount thresholds are the following values for the indicated payment years:
 
 (i) 2019 and 2020: 25 percent.
@@ -10,7 +8,9 @@ Link to an amendment published at 88 FR 79539, Nov. 16, 2023.
 
 (iii) 2023 and 2024: 50 percent.
 
-(iv) 2025 and later: 75 percent.
+(iv) 2025: 50 percent.
+
+(v) 2026 and later: 75 percent.
 
 (2) *Partial QP payment amount threshold.* The Partial QP payment amount thresholds are the following values for the indicated payment years:
 
@@ -20,7 +20,9 @@ Link to an amendment published at 88 FR 79539, Nov. 16, 2023.
 
 (iii) 2023 and 2024: 40 percent.
 
-(iv) 2025 and later: 75 percent.
+(iv) 2025: 40 percent.
+
+(v) 2026 and later: 50 percent.
 
 (3) *QP patient count threshold.* The QP patient count thresholds are the following values for the indicated payment years:
 
@@ -30,7 +32,9 @@ Link to an amendment published at 88 FR 79539, Nov. 16, 2023.
 
 (iii) 2023 and 2024: 35 percent.
 
-(iv) 2025 and later: 50 percent.
+(iv) 2025: 35 percent.
+
+(v) 2026 and later: 50 percent.
 
 (4) *Partial QP patient count threshold.* The Partial QP patient count thresholds are the following values for the indicated payment years:
 
@@ -40,40 +44,42 @@ Link to an amendment published at 88 FR 79539, Nov. 16, 2023.
 
 (iii) 2023 and 2024: 25 percent.
 
-(iv) 2025 and later: 35 percent.
+(iv) 2025: 25 percent.
+
+(v) 2026 and later: 35 percent.
 
 (b) *All-Payer Combination Option*—(1) *QP payment amount threshold.*
 
 (i) The QP payment amount thresholds are the following values for the indicated payment years:
 
-(A) 2021 through 2024: 50 percent.
+(A) 2021 through 2025: 50 percent.
 
-(B) 2025 and later: 75 percent.
+(B) 2026 and later: 75 percent.
 
 (ii) To meet the QP payment amount threshold under this option, the eligible clinician must also meet a 25 percent QP payment amount threshold under the Medicare Option.
 
 (2) *Partial QP payment amount threshold.* (i) The Partial QP payment amount thresholds are the following values for the indicated payment years:
 
-(A) 2021 through 2024: 35 percent.
+(A) 2021 through 2025:40 percent.
 
-(B) 2025 and later: 50 percent.
+(B) 2026 and later: 50 percent.
 
 (ii) To meet the QP payment amount threshold under this option, the eligible clinician must also meet a 20 percent Partial QP payment amount threshold under the Medicare Option.
 
 (3) *QP patient count threshold.* (i) The QP patient count thresholds are the following values for the indicated payment years:
 
-(A) 2021 through 2024: 35 percent.
+(A) 2021 through 2025: 35 percent.
 
-(B) 2025 and later: 50 percent.
+(B) 2026 and later: 50 percent.
 
 (ii) To meet the QP patient count threshold under this option, the eligible clinician must also meet a 20 percent QP patient count threshold under the Medicare Option.
 
 (4) *Partial QP patient count threshold.* (i) The Partial QP patient count thresholds are the following values for the indicated payment years:
 
-(A) 2021 through 2024: 25 percent.
+(A) 2021 through 2025: 25 percent.
 
-(B) 2025 and later: 35 percent.
+(B) 2026 and later: 35 percent.
 
 (ii) To meet the Partial QP patient count threshold under this option, the eligible clinician group or eligible clinician must also meet a 10 percent QP patient count threshold under the Medicare Option.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 86 FR 65681, Nov. 19, 2021; 87 FR 70230, Nov. 18, 2022]
+[81 FR 77537, Nov. 4, 2016, as amended at 86 FR 65681, Nov. 19, 2021; 87 FR 70230, Nov. 18, 2022; 88 FR 79539, Nov. 16, 2023]

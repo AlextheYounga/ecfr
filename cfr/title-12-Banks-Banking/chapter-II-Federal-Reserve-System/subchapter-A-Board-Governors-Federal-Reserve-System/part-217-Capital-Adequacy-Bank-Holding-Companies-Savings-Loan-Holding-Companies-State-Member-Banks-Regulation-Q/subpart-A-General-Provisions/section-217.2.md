@@ -1,7 +1,5 @@
 ##### § 217.2 Definitions. #####
 
-Link to an amendment published at 88 FR 82968, Nov. 27, 2023.
-
 As used in this part:
 
 *Additional tier 1 capital* is defined in § 217.20(c).
@@ -258,19 +256,11 @@ As used in this part:
 
 (4) Provided that, for purposes of this definition, *covered debt instrument* does not include a debt instrument that qualifies as tier 2 capital pursuant to 12 CFR 217.20(d) or that is otherwise treated as regulatory capital by the primary supervisor of the issuer.
 
-*Covered savings and loan holding company* means a top-tier savings and loan holding company other than:
+*Covered savings and loan holding company* means a top-tier savings and loan holding company other than an institution that—
 
-(1) A top-tier savings and loan holding company that is:
+(1) Meets the requirements of section 10(c)(9)(C) of the Home Owners' Loan Act (12 U.S.C. 1467a(c)(9)(C)); and
 
-(i) An institution that meets the requirements of section 10(c)(9)(C) of HOLA (12 U.S.C. 1467a(c)(9)(C)); and
-
-(ii) As of June 30 of the previous calendar year, derived 50 percent or more of its total consolidated assets or 50 percent of its total revenues on an enterprise-wide basis (as calculated under GAAP) from activities that are not financial in nature under section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k));
-
-(2) A top-tier savings and loan holding company that is an insurance underwriting company; or
-
-(3)(i) A top-tier savings and loan holding company that, as of June 30 of the previous calendar year, held 25 percent or more of its total consolidated assets in subsidiaries that are insurance underwriting companies (other than assets associated with insurance for credit risk); and
-
-(ii) For purposes of paragraph (3)(i) of this definition, the company must calculate its total consolidated assets in accordance with GAAP, or if the company does not calculate its total consolidated assets under GAAP for any regulatory purpose (including compliance with applicable securities laws), the company may estimate its total consolidated assets, subject to review and adjustment by the Board.
+(2) As of June 30 of the previous calendar year, derived 50 percent or more of its total consolidated assets or 50 percent of its total revenues on an enterprise-wide basis (as calculated under GAAP) from activities that are not financial in nature under section 4(k) of the Bank Holding Company Act (12 U.S.C. 1843(k)).
 
 *Credit derivative* means a financial contract executed under standard industry credit derivative documentation that allows one party (the protection purchaser) to transfer the credit risk of one or more exposures (reference exposure(s)) to another party (the protection provider) for a certain period of time.
 
@@ -694,7 +684,33 @@ As used in this part:
 
 *Indirect exposure* means an exposure that arises from the Board-regulated institution's investment in an investment fund which holds an investment in the Board-regulated institution's own capital instrument or an investment in the capital of an unconsolidated financial institution. For an advanced approaches Board-regulated institution, indirect exposure also includes an investment in an investment fund that holds a covered debt instrument.
 
+*Insurance bank holding company* means:
+
+(1)(i) A bank holding company that is an insurance underwriting company; or
+
+(ii) A bank holding company that, as of June 30 of the previous calendar year, held 25 percent or more of its total consolidated assets in subsidiaries that are insurance underwriting companies (other than assets associated with insurance underwriting for credit risk).
+
+(2) For purposes of this definition, the company must calculate its total consolidated assets in accordance with GAAP, or if the company does not calculate its total consolidated assets under GAAP for any regulatory purpose (including compliance with applicable securities laws), the company may estimate its total consolidated assets, subject to review and adjustment by the Board.
+
 *Insurance company* means an insurance company as defined in section 201 of the Dodd-Frank Act (12 U.S.C. 5381).
+
+*Insurance mid-tier holding company* means a bank holding company, or savings and loan holding company, domiciled in the United States that:
+
+(1) Is a subsidiary of:
+
+(i) An insurance bank holding company to which subpart J of this part applies; or
+
+(ii) An insurance savings and loan holding company to which subpart J of this part applies; and
+
+(2) Is not an insurance underwriting company that is subject to state law capital requirements.
+
+*Insurance savings and loan holding company* means:
+
+(1)(i) A top-tier savings and loan holding company that is an insurance underwriting company; or
+
+(ii) A top-tier savings and loan holding company that, as of June 30 of the previous calendar year, held 25 percent or more of its total consolidated assets in subsidiaries that are insurance underwriting companies (other than assets associated with insurance underwriting for credit risk).
+
+(2) For purposes of this definition, the company must calculate its total consolidated assets in accordance with GAAP, or if the company does not calculate its total consolidated assets under GAAP for any regulatory purpose (including compliance with applicable securities laws), the company may estimate its total consolidated assets, subject to review and adjustment by the Board.
 
 *Insurance underwriting company* means an insurance company as defined in section 201 of the Dodd-Frank Act (12 U.S.C. 5381) that engages in insurance underwriting activities.
 
@@ -872,6 +888,8 @@ As used in this part:
 
 *Regulated financial institution* means a financial institution subject to consolidated supervision and regulation comparable to that imposed on the following U.S. financial institutions: Depository institutions, depository institution holding companies, nonbank financial companies supervised by the Board, designated financial market utilities, securities broker-dealers, credit unions, or insurance companies.
 
+*Regulated foreign subsidiary and regulated foreign affiliate* means a person described in section 171(a)(6) of the Dodd-Frank Act (12 U.S.C. 5371(a)(6)) and any subsidiary of such a person other than a state-regulated insurer.
+
 *Repo-style transaction* means a repurchase or reverse repurchase transaction, or a securities borrowing or securities lending transaction, including a transaction in which the Board-regulated institution acts as agent for a customer and indemnifies the customer against loss, provided that:
 
 (1) The transaction is based solely on liquid and readily marketable securities, cash, or gold;
@@ -999,6 +1017,8 @@ As used in this part:
 *State bank* means any bank incorporated by special law of any State, or organized under the general laws of any State, or of the United States, including a Morris Plan bank, or other incorporated banking institution engaged in a similar business.
 
 *State member bank or member bank* means a state bank that is a member of the Federal Reserve System.
+
+*State-regulated insurer* means a person regulated by a state insurance regulator as defined in section 1002(22) of the Dodd-Frank Act (12 U.S.C. 5481(22)), and any subsidiary of such a person, other than a regulated foreign subsidiary and regulated foreign affiliate.
 
 *Statutory multifamily mortgage* means a loan secured by a multifamily residential property that meets the requirements under section 618(b)(1) of the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991, and that meets the following criteria:9
 

@@ -1,7 +1,5 @@
 ##### § 410.72 Registered dietitians' and nutrition professionals' services. #####
 
-Link to an amendment published at 88 FR 79528, Nov. 16, 2023.
-
 (a) *Definition: Registered dietitians and nutrition professionals.* Meet the qualifications at § 410.134.
 
 (b) *Covered registered dietitian and nutrition professional services.* Medicare Part B covers:
@@ -22,10 +20,10 @@ Link to an amendment published at 88 FR 79528, Nov. 16, 2023.
 
 (3) Services furnished by a registered dietitian or nutrition professional to a patient in a Medicare-participating ESRD facility in accordance with the limitation on coverage of MNT service listed at § 410.132(b)(1).
 
-(d) *Professional services.* Registered dietitians and nutrition professionals can be paid for professional services only when the services have been directly performed by them.
+(d) *Professional services.* Except for DSMT services furnished as, or on behalf of, an accredited DSMT entity, registered dietitians and nutrition professionals can be paid for their professional MNT services only when the services have been directly performed by them.
 
 (e) *Telehealth services.* MNT and DSMT services may be provided as telehealth services (meeting the requirements in § 410.78) when registered dietitians or nutrition professionals act as distant site practitioners.
 
 (f) *Restrictions.* The services of a registered dietitian or nutrition professional are provided on an assignment-related basis, and a registered dietitian or nutrition professional may not charge a beneficiary in excess of the amounts permitted under 42 CFR 424.55. If a beneficiary has made payment for a service in excess of these limits, the registered dietitian or nutrition professional must refund the full amount of the impermissible charge to the beneficiary.
 
-[86 FR 65665, Nov. 19, 2021]
+[86 FR 65665, Nov. 19, 2021, as amended at 88 FR 79528, Nov. 16, 2023]

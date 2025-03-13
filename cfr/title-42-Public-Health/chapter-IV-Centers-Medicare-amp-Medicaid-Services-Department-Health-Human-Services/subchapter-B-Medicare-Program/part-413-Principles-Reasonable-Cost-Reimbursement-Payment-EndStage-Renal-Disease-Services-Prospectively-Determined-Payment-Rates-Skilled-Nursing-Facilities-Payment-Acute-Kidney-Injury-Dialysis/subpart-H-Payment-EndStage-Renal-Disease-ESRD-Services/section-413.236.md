@@ -1,7 +1,5 @@
 ##### § 413.236 Transitional add-on payment adjustment for new and innovative equipment and supplies. #####
 
-Link to an amendment published at 88 FR 76506, Nov. 6, 2023.
-
 (a) *Basis and definitions.* (1) Effective January 1, 2020, this section establishes an add-on payment adjustment to support ESRD facilities in the uptake of new and innovative renal dialysis equipment and supplies under the ESRD prospective payment system under the authority of section 1881(b)(14)(D)(iv) of the Social Security Act.
 
 (2) For purposes of this section, the following definitions apply:
@@ -22,7 +20,7 @@ Link to an amendment published at 88 FR 76506, Nov. 6, 2023.
 
 (1) Has been designated by CMS as a renal dialysis service under § 413.171;
 
-(2) Is new, meaning within 3 years beginning on the date of the Food and Drug Administration (FDA) marketing authorization;
+(2) Is new, meaning a complete application has been submitted to CMS under paragraph (c) of this section within 3 years of the date of the Food and Drug Administration (FDA) marketing authorization;
 
 (3) Is commercially available by January 1 of the particular calendar year, meaning the year in which the payment adjustment would take effect;
 
@@ -86,4 +84,4 @@ Link to an amendment published at 88 FR 76506, Nov. 6, 2023.
 
 (v) Effective January 1, 2022, CMS annually updates the amount determined in paragraph (f)(3)(iv) of this section by the ESRD bundled market basket percentage increase factor minus the productivity adjustment factor.
 
-[84 FR 60805, Nov. 8, 2019, as amended at 85 FR 71486, Nov. 9, 2020]
+[84 FR 60805, Nov. 8, 2019, as amended at 85 FR 71486, Nov. 9, 2020; 88 FR 76506, Nov. 6, 2023]

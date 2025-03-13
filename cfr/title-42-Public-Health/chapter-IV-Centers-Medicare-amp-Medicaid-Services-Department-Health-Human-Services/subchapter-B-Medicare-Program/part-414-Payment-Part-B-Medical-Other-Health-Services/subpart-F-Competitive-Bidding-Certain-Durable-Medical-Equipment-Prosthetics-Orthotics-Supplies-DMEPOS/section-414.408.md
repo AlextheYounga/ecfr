@@ -1,7 +1,5 @@
 ##### § 414.408 Payment rules. #####
 
-Link to an amendment published at 88 FR 77875, Nov. 13, 2023.
-
 (a) *Payment basis.* (1) The payment basis for an item furnished under a competitive bidding program is 80 percent of the single payment amount calculated for the item under § 414.416 for the CBA in which the beneficiary maintains a permanent residence.
 
 (2) If an item that is included in a competitive bidding program is furnished to a beneficiary who does not maintain a permanent residence in a CBA, the payment basis for the item is 80 percent of the lesser of the actual charge for the item, or the applicable fee schedule amount for the item, as determined under subpart C or subpart D.
@@ -47,6 +45,8 @@ Link to an amendment published at 88 FR 77875, Nov. 13, 2023.
 (3) Enteral nutrition supplies.
 
 (4) OTS orthotics.
+
+(5) Lymphedema compression treatment items.
 
 (h) *Rented equipment*—(1) *Capped rental DME.* Subject to the provisions of paragraph (h)(2) of this section, payment for capped rental durable medical equipment is made in an amount equal to 10 percent of the single payment amounts calculated for new durable medical equipment under paragraph (f)(1) of this section for each of the first 3 months, and 7.5 percent of the single payment amounts calculated for these items for each of the remaining months 4 through 13.
 
@@ -188,4 +188,4 @@ Link to an amendment published at 88 FR 77875, Nov. 13, 2023.
 
 (l) *Exceptions for certain items and services paid in accordance with special payment rules.* The payment rules in paragraphs (f) thru (h), (j)(2), (j)(3), and (j)(7), and (k) of this section do not apply to items and services paid in accordance with the special payment rules at § 414.409.
 
-[72 FR 18085, Apr. 10, 2007, as amended at 74 FR 2880, Jan. 16, 2009; 74 FR 62009, Nov. 25, 2009; 75 FR 73623, Nov. 29, 2010; 76 FR 70315, Nov. 10, 2011; 79 FR 66264, Nov. 6, 2014]
+[72 FR 18085, Apr. 10, 2007, as amended at 74 FR 2880, Jan. 16, 2009; 74 FR 62009, Nov. 25, 2009; 75 FR 73623, Nov. 29, 2010; 76 FR 70315, Nov. 10, 2011; 79 FR 66264, Nov. 6, 2014; 88 FR 77875, Nov. 13, 2023]

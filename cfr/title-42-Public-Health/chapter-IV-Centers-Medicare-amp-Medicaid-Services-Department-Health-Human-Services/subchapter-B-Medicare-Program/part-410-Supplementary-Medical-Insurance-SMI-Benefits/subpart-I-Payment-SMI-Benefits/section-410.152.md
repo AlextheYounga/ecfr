@@ -1,7 +1,5 @@
 ##### § 410.152 Amounts of payment. #####
 
-Link to an amendment published at 88 FR 79529, Nov. 16, 2023.
-
 (a) *General provisions*—(1) *Exclusion from incurred expenses.* As used in this section, “incurred expenses” are expenses incurred by an individual, during his or her coverage period, for covered Part B services, excluding the following:
 
 (i) Expenses incurred for services for which the beneficiary is entitled to have payment made under Medicare Part A or would be so entitled except for the application of the Part A deductible and coinsurance requirements.
@@ -22,7 +20,7 @@ Link to an amendment published at 88 FR 79529, Nov. 16, 2023.
 
 (iii) The special rules for payment to health maintenance organizations (HMOs), health care prepayment plans (HCPPs), and competitive medical plans (CMPs) that are set forth in part 417 of this chapter. (A prepayment organization that does not qualify as an HMO, CMP, or HCPP is paid in accordance with paragraph (b)(4) of this section.)
 
-(b) *Basic rules for payment.* Except as specified in paragraphs (c) through (h) of this section, Medicare Part B pays the following amounts:
+(b) *Basic rules for payment.* Except as specified in paragraphs (c) through (h) and (m) and (n) of this section, Medicare Part B pays the following amounts:
 
 (1) For services furnished by, or under arrangements made by, a provider other than a nominal charge provider, whichever of the following is less:
 
@@ -78,17 +76,33 @@ Link to an amendment published at 88 FR 79529, Nov. 16, 2023.
 
 (1) Effective January 1, 2022, for administration of an influenza, hepatitis B or pneumococcal vaccine, $30 per dose.
 
-(2) Effective January 1, 2022, for administration of a COVID-19 vaccine, $40 per dose.
+(2) For the administration of a COVID-19 vaccine:
 
-(3) For services furnished on or after January 1 of the year following the year in which the Secretary ends the Emergency Use Authorization for drugs and biologicals issued pursuant to section 564 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb-3), for administration of a COVID-19 vaccine, an amount equal to the amount that would be paid for the administration of a preventive vaccine described in paragraph (h)(1).
+(i) Effective January 1, 2022, for administration of a COVID-19 vaccine, $40 per dose.
 
-(4) The payment amount for the administration of a preventive vaccine described in paragraphs (h)(1) through (3) of this section is adjusted to reflect geographic cost variations:
+(ii) For services furnished on or after January 1 of the year following the year in which the Secretary ends the March 27, 2020 Emergency Use Authorization declaration for drugs and biologicals (issued at 85 FR 18250) pursuant to section 564 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb-3), for administration of a COVID-19 vaccine, an amount equal to the amount that would be paid for the administration of a preventive vaccine described in paragraph (h)(1) of this section.
+
+(3) Subject to conditions specified in this paragraph, in addition to the payment described in paragraph (h)(1) or (2) of this section, an additional payment for preventive vaccine administration in the patient's home:
+
+(i) Effective January 1, 2022 for administration of a COVID-19 vaccine in the home, an additional payment of $35.50.
+
+(ii) Effective January 1, 2024, for the administration of one or more of the preventive vaccines described in paragraphs (h)(1) and (2) of this section in the home, a payment equal to that of the payment in paragraph (h)(3)(i) of this section.
+
+(iii) An additional payment for preventive vaccine administration in the home can be made if:
+
+(A) The patient has difficulty leaving the home, or faces barriers to getting a vaccine in settings other than their home.
+
+(B) The sole purpose of the visit is to administer one or more preventive vaccines.
+
+(C) The home is not an institution that meets the requirements of sections 1861(e)(1), 1819(a)(1), or 1919(a)(1) of the Act, or §§ 409.42(a) of this subchapter.
+
+(4) The payment amount for the administration of a preventive vaccine described in paragraphs (h)(1) and (2) of this section, and the additional payment for the administration of a preventive vaccine in the home as described in paragraph (h)(3) of this section, is adjusted to reflect geographic cost variations:
 
 (i) For services furnished before January 1, 2023, using the Geographic Practice Cost Indices (GPCIs) established for the year, as described in section 1848(e)(1) of the Act and §§ 414.2 and 414.26 of this subchapter.
 
 (ii) For services furnished on or after January 1, 2023, using the Geographic Adjustment Factor (GAF) established for the year as described in section 1848(e)(2) of the Act and §§ 414.2 and 414.26 of this subchapter.
 
-(5) The payment amount for administration of a preventive vaccine described in paragraphs (h)(1) through (3) of this section is updated annually using the percentage change in the Medicare Economic Index (MEI) as described in section 1842(i)(3) of the Act and § 405.504(d) of this subchapter.
+(5) For services furnished on or after January 1, 2023, the payment amount for administration of a preventive vaccine described in paragraphs (h)(1) and (2) of this section, and the additional payment for the administration of a preventive vaccine in the home as described in paragraph (h)(3) of this section, is updated annually using the percentage change in the Medicare Economic Index (MEI), as described in section 1842(i)(3) of the Act and § 405.504(d) of this subchapter.
 
 (i) *Amount of payment: ASC facility services.* (1) For ASC facility services furnished on or after July 1, 1987 and before January 1, 2008, in connection with the surgical procedures specified in part 416 of this chapter, Medicare Part B pays 80 percent of a standard overhead amount as specified in § 416.120(c) of this chapter, except that, for screening flexible sigmoidoscopies and screening colonoscopies, Part B coinsurance is 25 percent of the standard overhead amount and Medicare Part B pays 75 percent of the standard overhead amount.
 
@@ -143,5 +157,9 @@ Link to an amendment published at 88 FR 79529, Nov. 16, 2023.
 (12) Initial Preventive Physical Examination (IPPE).
 
 (13) Annual Wellness Visit (AWV), providing Personalized Prevention Plan Services (PPPS).
+
+(m) *Amount of payment: Rebatable drugs.* In the case of a rebatable drug (as defined in section 1847A(i)(2)(A) of the Act), including a selected drug (as defined in section 1192(c) of the Act), furnished by providers on or after April 1, 2023, in a calendar quarter during which the payment amount for such drug as specified in section 1847A(i)(3)(A)(ii)(I)(aa) or (bb), as applicable, exceeds the inflation-adjusted amount (as defined in section 1847A(i)(3)(C) of the Act) for such drug, Medicare Part B pays, subject to the deductible, the difference between the allowed payment amount determined under section 1847A of the Act and 20 percent of the inflation-adjusted amount, which is applied as a percent to the payment amount for such calendar quarter.
+
+(n) *Amount of payment: Insulin furnished through an item of durable medical equipment.* For insulin furnished on or after July 1, 2023 through an item of durable medical equipment (as defined in § 414.202), Medicare Part B pays the difference between the applicable payment amount for such insulin and the coinsurance amount, with the coinsurance amount not to exceed $35 for a month's supply.
 
 [51 FR 41339, Nov. 14, 1986; 52 FR 4499, Feb. 12, 1987]Editorial Note:For Federal Register citations affecting § 410.152, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

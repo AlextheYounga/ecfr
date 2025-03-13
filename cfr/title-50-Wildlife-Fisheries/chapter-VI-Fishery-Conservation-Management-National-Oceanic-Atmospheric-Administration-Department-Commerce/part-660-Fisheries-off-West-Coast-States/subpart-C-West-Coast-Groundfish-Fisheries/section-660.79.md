@@ -1,7 +1,5 @@
 ##### § 660.79 EFHCAs off the Coast of California. #####
 
-Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
-
 (a) *General.* Boundary line coordinates for EFHCA off California are provided in this section. Fishing activity that is prohibited or permitted within the EEZ in a particular area designated as a groundfish EFHCA is detailed at §§ 660.12, 660.112, 660.130, 660.212, 660.230, 660.312, 660.330, and 660.360.
 
 (b) *Brush Patch.* The boundary of the Brush Patch EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 41°51.03′ N lat., 124°48.65′ W long.:
@@ -1018,7 +1016,7 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (5) 33°27.90′ N lat., 119°02.20′ W long.
 
-(yy) *Potato Bank.* Potato Bank is within the Western Cowcod Conservation Area, defined at § 660.70. The boundary of the Potato Bank EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 33°11.00' N lat., 119°55.67' W long.:
+(yy) *Potato Bank.* The boundary of the Potato Bank EFHCA is defined by straight lines connecting all of the following points in the order stated and connecting back to 33°11.00′ N lat., 119°55.67′ W long.:
 
 (1) 33°11.00′ N lat., 119°55.67′ W long.;
 
@@ -1028,7 +1026,7 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (4) 33°11.00′ N lat., 119°45.67′ W long.
 
-(zz) *Cherry Bank.* Cherry Bank is within the Cowcod Conservation Area West, an area south of Point Conception. The Cherry Bank EFH Conservation Area is defined by straight lines connecting all of the following points in the order stated and connecting back to 32°59.00′ N lat., 119°32.05′ W long.:
+(zz) *Cherry Bank.* The Cherry Bank EFH Conservation Area is defined by straight lines connecting all of the following points in the order stated and connecting back to 32°59.00′ N lat., 119°32.05′ W long.:
 
 (1) 32°59.00′ N lat., 119°32.05′ W long.;
 
@@ -1134,4 +1132,4 @@ Link to an amendment published at 88 FR 83848, Dec. 1, 2023.
 
 (iv) 32°34.18′ N lat., 117°21.08′ W long.
 
-[84 FR 63979, Nov. 19, 2019; 84 FR 70905, Dec. 26, 2019]
+[84 FR 63979, Nov. 19, 2019, as amended at 88 FR 83848, Dec. 1, 2023]

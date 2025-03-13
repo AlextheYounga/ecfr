@@ -236,7 +236,7 @@
 
 (3) *Approval of certain capital distributions.* (i) The Board, or the appropriate Reserve Bank with concurrence of the Board, will act on a request for prior approval of a capital distribution within 30 calendar days after the receipt of all the information required under paragraph (j)(2) of this section.
 
-(ii) In acting on a request for prior approval of a capital distribution, the Board, or appropriate Reserve Bank with concurrence of the Board, will apply the considerations and principles in paragraph (g) of this section, as appropriate. In addition, the Board, or the appropriate Reserve Bank with concurrence of the Board, may disapprove the transaction if the covered savings and loan holding company does not provide all of the information required to be submitted under paragraph (j)(2) of this section.
+(ii) In acting on a request for prior approval of a capital distribution, the Board, or appropriate Reserve Bank with concurrence of the Board, will apply the considerations and principles in paragraph (g) of this section, as appropriate. In addition, the Board, or the appropriate Reserve Bank with concurrence of the Board, may disapprovethe transaction if the covered savings and loan holding company does not provide all of the information required to be submitted under paragraph (j)(2) of this section.
 
 (4) *Disapproval and hearing.* (i) The Board, or the appropriate Reserve Bank with concurrence of the Board, will notify the covered savings and loan holding company in writing of the reasons for a decision to disapprove any proposed capital distribution. Within 15 calendar days after receipt of a disapproval by the Board, the covered savings and loan holding company may submit a written request for a hearing.
 

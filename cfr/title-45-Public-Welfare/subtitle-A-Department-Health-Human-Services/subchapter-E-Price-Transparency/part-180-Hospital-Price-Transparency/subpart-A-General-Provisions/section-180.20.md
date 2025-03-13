@@ -1,18 +1,22 @@
 ##### § 180.20 Definitions. #####
 
-Link to an amendment published at 88 FR 82184, Nov. 22, 2023.
-
 The following definitions apply to this part, unless specified otherwise:
 
 *Ancillary service* means an item or service a hospital customarily provides as part of or in conjunction with a shoppable primary service.
 
 *Chargemaster (Charge Description Master or CDM)* means the list of all individual items and services maintained by a hospital for which the hospital has established a charge.
 
+*CMS template* means a CSV format or JSON schema that CMS makes available for purposes of compliance with § 180.40(a).
+
 *De-identified maximum negotiated charge* means the highest charge that a hospital has negotiated with all third party payers for an item or service.
 
 *De-identified minimum negotiated charge* means the lowest charge that a hospital has negotiated with all third party payers for an item or service.
 
 *Discounted cash price* means the charge that applies to an individual who pays cash (or cash equivalent) for a hospital item or service.
+
+*Encode* means to convert hospital standard charge information into a machine-readable format that complies with § 180.50(c)(2).
+
+*Estimated allowed amount* means the average dollar amount that the hospital has historically received from a third party payer for an item or service.
 
 *Gross charge* means the charge for an individual item or service that is reflected on a hospital's chargemaster, absent any discounts.
 
@@ -30,7 +34,9 @@ The following definitions apply to this part, unless specified otherwise:
 
 (5) Any other items or services for which a hospital has established a standard charge.
 
-*Machine-readable format* means a digital representation of data or information in a file that can be imported or read into a computer system for further processing. Examples of machine-readable formats include, but are not limited to, .XML, .JSON and .CSV formats.
+*Machine-readable file* means a single digital file that is in a machine-readable format.
+
+*Machine-readable format* means a digital representation of data or information in a file that can be imported or read into a computer system for further processing.
 
 *Payer-specific negotiated charge* means the charge that a hospital has negotiated with a third party payer for an item or service.
 
@@ -54,4 +60,4 @@ The following definitions apply to this part, unless specified otherwise:
 
 *Third party payer* means an entity that is, by statute, contract, or agreement, legally responsible for payment of a claim for a healthcare item or service.
 
-[84 FR 65602, Nov. 27, 2019, as amended at 86 FR 63998, Nov. 16, 2021]
+[84 FR 65602, Nov. 27, 2019, as amended at 86 FR 63998, Nov. 16, 2021; 88 FR 82184, Nov. 22, 2023]

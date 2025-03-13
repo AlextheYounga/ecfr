@@ -1,7 +1,5 @@
 ##### § 425.402 Basic assignment methodology. #####
 
-Link to an amendment published at 88 FR 79545, Nov. 16, 2023.
-
 (a) For performance years 2012 through 2015, CMS employs the following step-wise methodology to assign Medicare beneficiaries to an ACO after identifying all patients that had at least one primary care service with a physician who is an ACO professional of that ACO:
 
 (1)(i) Identify all primary care services rendered by primary care physicians during one of the following:
@@ -24,7 +22,7 @@ Link to an amendment published at 88 FR 79545, Nov. 16, 2023.
 
 (b) For performance year 2016 and subsequent performance years, CMS employs the following step-wise methodology to assign Medicare fee-for-service beneficiaries to an ACO based on available claims information:
 
-(1) Identify all beneficiaries that had at least one primary care service with a physician who is an ACO professional in the ACO and who is a primary care physician as defined under § 425.20 or who has one of the primary specialty designations included in paragraph (c) of this section.
+(1) Identify all beneficiaries that had at least one primary care service during the applicable assignment window with a physician who is an ACO professional in the ACO and who is a primary care physician as defined under § 425.20 or who has one of the primary specialty designations included in paragraph (c) of this section.
 
 (2) Identify all primary care services furnished to beneficiaries identified in paragraph (b)(1) of this section by ACO professionals of that ACO who are primary care physicians as defined under § 425.20, non-physician ACO professionals, and physicians with specialty designations included in paragraph (c) of this section during the applicable assignment window.
 
@@ -40,7 +38,21 @@ Link to an amendment published at 88 FR 79545, Nov. 16, 2023.
 
 (ii) Who are unaffiliated with an ACO and are identified by a Medicare-enrolled billing TIN.
 
-(c) ACO professionals considered in the second step of the assignment methodology in paragraph (b)(4) of this section include physicians who have one of the following primary specialty designations:
+(5) For performance year 2025 and subsequent performance years, CMS employs the following third step to assign Medicare fee-for-service beneficiaries who were not identified by the criterion specified in paragraph (b)(1) of this section:
+
+(i) Identify all beneficiaries who had at least one primary care service with a non-physician ACO professional in the ACO during the applicable assignment window.
+
+(ii) For the beneficiaries identified in paragraph (b)(5)(i) of this section, identify those beneficiaries that had at least one primary care service with a physician who is an ACO professional in the ACO and who is a primary care physician as defined under § 425.20 or who has one of the primary specialty designations included in paragraph (c) of this section during the applicable expanded window for assignment.
+
+(iii) Identify all primary care services furnished to beneficiaries identified in paragraph (b)(5)(ii) of this section by ACO professionals in the ACO who are primary care physicians as defined under § 425.20, non-physician ACO professionals, and physicians with specialty designations included in paragraph (c) of this section during the applicable expanded window for assignment.
+
+(iv) A beneficiary identified in paragraph (b)(5)(ii) of this section is assigned to the ACO if the allowed charges for primary care services furnished to the beneficiary by ACO professionals in the ACO who are primary care physicians, physicians with specialty designations included in paragraph (c) of this section, or non-physician ACO professionals during the applicable expanded window for assignment are greater than the allowed charges for primary care services furnished by primary care physicians, physicians with specialty designations as specified in paragraph (c) of this section, nurse practitioners, physician assistants, and clinical nurse specialists who are—
+
+(A) ACO professionals in any other ACO; or
+
+(B) Not affiliated with any ACO and identified by a Medicare-enrolled billing TIN.
+
+(c) ACO professionals considered in the second and third step of the assignment methodology in paragraphs (b)(4) and (5) of this section include physicians who have one of the following primary specialty designations:
 
 (1) Cardiology.
 
@@ -100,7 +112,7 @@ Link to an amendment published at 88 FR 79545, Nov. 16, 2023.
 
 (ii) For performance years starting on January 1, 2019, and subsequent performance years:
 
-(A) The beneficiary meets the eligibility criteria established at § 425.401(a) and must not be excluded by the criteria at § 425.401(b). The exclusion criteria at § 425.401(b) apply for purposes of determining beneficiary eligibility for alignment to an ACO based on the beneficiary's designation of an ACO professional as responsible for coordinating their overall care under paragraph (e) of this section, regardless of the ACO's assignment methodology selection under § 425.400(a)(4)(ii).
+(A) The beneficiary meets the eligibility criteria established at § 425.401(a) and must not be excluded by the criteria at § 425.401(b). The exclusion criteria at § 425.401(b) apply for purposes of determining beneficiary eligibility for alignment to an ACO based on the beneficiary's designation of an ACO professional as responsible for coordinating their overall care under paragraph (e) of this section, regardless of the ACO's assignment methodology selection under § 425.226(a)(1).
 
 (B) The beneficiary must have designated an ACO professional as responsible for coordinating their overall care.
 
@@ -128,4 +140,4 @@ Link to an amendment published at 88 FR 79545, Nov. 16, 2023.
 
 (iii) If a CCN enrolled under the TIN of an ACO participant at the start of the performance year enrolls under a different TIN during a performance year, CMS will continue to treat services billed by the CCN as services furnished by the ACO participant it was enrolled under at the start of the performance year for purposes of determining beneficiary assignment to the ACO for the applicable performance year.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32841, June 9, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 60093, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018; 87 FR 70234, Nov. 18, 2022]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32841, June 9, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 60093, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018; 87 FR 70234, Nov. 18, 2022; 88 FR 79545, Nov. 16, 2023]

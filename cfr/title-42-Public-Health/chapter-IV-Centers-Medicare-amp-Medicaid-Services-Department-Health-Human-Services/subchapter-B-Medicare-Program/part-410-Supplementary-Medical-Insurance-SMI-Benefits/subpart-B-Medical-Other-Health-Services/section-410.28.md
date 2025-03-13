@@ -1,7 +1,5 @@
 ##### § 410.28 Hospital or CAH diagnostic services furnished to outpatients: Conditions. #####
 
-Link to an amendment published at 88 FR 82177, Nov. 22, 2023.
-
 (a) Medicare Part B pays for hospital or CAH diagnostic services furnished to outpatients, including drugs and biologicals required in the performance of the services (even if those drugs or biologicals are self-administered), if those services meet the following conditions:
 
 (1) They are furnished by or under arrangements made by a participating hospital or participating CAH, except in the case of an SNF resident as provided in § 411.15(p) of this chapter.
@@ -24,10 +22,10 @@ Link to an amendment published at 88 FR 82177, Nov. 22, 2023.
 
 (ii) For services furnished under arrangement in nonhospital locations, “direct supervision” means the physician or nonphysician practitioner must be present in the office suite and immediately available to furnish assistance and direction throughout the performance of the procedure. It does not mean that the physician or nonphysician practitioner must be present in the room when the procedure is performed.
 
-(iii) Until the later of the end of the calendar year in which the PHE as defined in § 400.200 of this chapter ends or December 31, 2021, the presence of the physician or nonphysician practitioner under paragraphs (e)(2)(i) and (ii) of this section includes virtual presence through audio/video real-time communications technology (excluding audio-only).
+(iii) Through December 31, 2024, the presence of the physician or nonphysician practitioner under paragraphs (e)(2)(i) and (ii) of this section includes virtual presence through audio/video real-time communications technology (excluding audio-only).
 
 (3) Personal supervision. Personal supervision means the physician or nonphysician practitioner must be in attendance in the room during the performance of the procedure.
 
 (f) The rules for clinical diagnostic laboratory tests set forth in §§ 410.32(a) and (d)(2) through (d)(4) of this subpart are applicable to those tests when furnished in hospitals and CAHs.
 
-[51 FR 41339, Nov. 14, 1986, as amended at 58 FR 30668, May 26, 1993; 63 FR 26307, May 12, 1998; 65 FR 18536, Apr. 7, 2000; 66 FR 58809, Nov. 23, 2001; 74 FR 60680, Nov. 20, 2009; 75 FR 72259, Nov. 24, 2010; 85 FR 19286, Apr. 6, 2020; 87 FR 72285, Nov. 23, 2022]
+[51 FR 41339, Nov. 14, 1986, as amended at 58 FR 30668, May 26, 1993; 63 FR 26307, May 12, 1998; 65 FR 18536, Apr. 7, 2000; 66 FR 58809, Nov. 23, 2001; 74 FR 60680, Nov. 20, 2009; 75 FR 72259, Nov. 24, 2010; 85 FR 19286, Apr. 6, 2020; 87 FR 72285, Nov. 23, 2022; 88 FR 82177, Nov. 22, 2023]

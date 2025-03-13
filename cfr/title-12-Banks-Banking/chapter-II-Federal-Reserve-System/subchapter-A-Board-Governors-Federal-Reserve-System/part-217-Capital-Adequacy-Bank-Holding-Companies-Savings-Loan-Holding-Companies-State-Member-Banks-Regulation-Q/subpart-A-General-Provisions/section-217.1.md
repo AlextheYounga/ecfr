@@ -1,18 +1,22 @@
 ##### § 217.1 Purpose, applicability, reservations of authority, and timing. #####
 
-Link to an amendment published at 88 FR 82967, Nov. 27, 2023.
-
 (a) *Purpose.* This part establishes minimum capital requirements and overall capital adequacy standards for entities described in paragraph (c)(1) of this section. This part includes methodologies for calculating minimum capital requirements, public disclosure requirements related to the capital requirements, and transition provisions for the application of this part.
 
 (b) *Limitation of authority.* Nothing in this part shall be read to limit the authority of the Board to take action under other provisions of law, including action to address unsafe or unsound practices or conditions, deficient capital levels, or violations of law or regulation, under section 8 of the Federal Deposit Insurance Act, section 8 of the Bank Holding Company Act, or section 10 of the Home Owners' Loan Act.
 
-(c) *Applicability.* (1) This part applies on a consolidated basis to every Board-regulated institution that is:
+(c) *Applicability*—(1)(i) *Applicability in general.* This part applies on a consolidated basis to every Board-regulated institution that is:
 
-(i) A state member bank;
+(A) A state member bank;
 
-(ii) A bank holding company domiciled in the United States that is not subject to 12 CFR part 225, appendix C, provided that the Board may by order apply any or all of this part 217 to any bank holding company, based on the institution's size, level of complexity, risk profile, scope of operations, or financial condition; or
+(B) A bank holding company domiciled in the United States that is not subject to 12 CFR part 225, appendix C, provided that the Board may by order apply any or all of this part to any bank holding company, based on the institution's size, level of complexity, risk profile, scope of operations, or financial condition; or
 
-(iii) A covered savings and loan holding company domiciled in the United States, other than a savings and loan holding company that meets the requirements of 12 CFR part 225, appendix C, as if the savings and loan holding company were a bank holding company and the savings association were a bank. For purposes of compliance with the capital adequacy requirements and calculations in this part, savings and loan holding companies that do not file the FR Y-9C should follow the instructions to the FR Y-9C.
+(C) A covered savings and loan holding company domiciled in the United States, other than a savings and loan holding company that meets the requirements of 12 CFR part 225, appendix C, as if the savings and loan holding company were a bank holding company and the savings association were a bank. For purposes of compliance with the capital adequacy requirements and calculations in this part, savings and loan holding companies that do not file form FR Y-9C or form FR Q-1 should follow the instructions to the FR Y-9C.
+
+(ii) *Mid-tier holding companies of insurance depository institution holding companies.* In the case of a bank holding company, or a covered savings and loan holding company, that does not calculate minimum risk-based capital requirements under subpart B of this part by operation of § 217.10(f)(1), this part applies to a depository institution holding company that is a subsidiary of such bank holding company or covered savings and loan holding company, provided that:
+
+(A) The subsidiary depository institution holding company is an insurance mid-tier holding company; and
+
+(B) The subsidiary depository institution holding company's assets and liabilities are not consolidated with those of a depository institution holding company that controls the subsidiary for purposes of determining the parent depository institution holding company's capital requirements and capital ratios under subparts B through F of this part.
 
 (2) *Minimum capital requirements and overall capital adequacy standards.* Each Board-regulated institution must calculate its minimum capital requirements and meet the overall capital adequacy standards in subpart B of this part.
 
@@ -86,4 +90,14 @@ Link to an amendment published at 88 FR 82967, Nov. 27, 2023.
 
 (5) A depository institution holding company, a U.S. intermediate holding company, or a state member bank that changes from one category of Board-regulated institution to another of such categories must comply with the requirements of its category in this part, including applicable transition provisions of the requirements in this part, no later than on the first day of the second quarter following the change in the company's category.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 24540, May 1, 2014; 79 FR 57744, Sept. 26, 2014; 80 FR 5670, Feb. 3, 2015; 80 FR 20157, Apr. 15, 2015; 80 FR 49103, Aug. 14, 2015; 83 FR 44198, Aug. 30, 2018; 84 FR 59269, Nov. 1, 2019]
+(g) *Depository institution holding companies and treatment of subsidiary state-regulated insurers, regulated foreign subsidiaries, and regulated foreign affiliates*—(1) *In general.* In complying with the capital adequacy requirements of this part (except for the requirements and calculations of subpart J of this part), including any determination of applicability under § 217.100 or § 217.201, an insurance bank holding company, insurance savings and loan holding company, or insurance mid-tier holding company may elect not to consolidate the assets and liabilities of its subsidiary state-regulated insurers, regulated foreign subsidiaries, and regulated foreign affiliates. Such an institution that makes this election must either:
+
+(i) Deduct from the sum of its common equity tier 1 capital elements the aggregate amount of its outstanding equity investment, including retained earnings, in such subsidiaries and affiliates; or
+
+(ii) Include in the risk-weighted assets of the Board-regulated institution the aggregate amount of its outstanding equity investment, including retained earnings, in such subsidiaries and affiliates and assign to these assets a 400 percent risk weight.
+
+(2) *Method of election.* (i) An insurance bank holding company, insurance savings and loan holding company, or insurance mid-tier holding company may make the election described in paragraph (g)(1) of this section by indicating that it has made this election on the applicable regulatory report, filed by the insurance bank holding company, insurance savings and loan holding company, or insurance mid-tier holding company for the first reporting period in which it is an insurance bank holding company, insurance savings and loan holding company, or insurance mid-tier holding company. The electing Board-regulated institution must indicate on the applicable regulatory report whether it elects to deduct from the sum of its common equity tier 1 capital elements in accordance with paragraph (g)(1)(i) of this section or whether it elects to include an amount in its risk-weighted assets in accordance with paragraph (g)(1)(ii) of this section.
+
+(ii) An insurance bank holding company, insurance savings and loan holding company, or insurance mid-tier holding company that has not made an effective election pursuant to paragraph (g)(2)(i) of this section, or that seeks to change its election (or its choice of treatment under paragraph (g)(1) of this section) due to a change in control, business combination, or other legitimate business purpose, may do so only with the prior approval of the Board, effective as of the first reporting period after the period in which the Board approves the election, or such other date specified in the approval.
+
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 24540, May 1, 2014; 79 FR 57744, Sept. 26, 2014; 80 FR 5670, Feb. 3, 2015; 80 FR 20157, Apr. 15, 2015; 80 FR 49103, Aug. 14, 2015; 83 FR 44198, Aug. 30, 2018; 84 FR 59269, Nov. 1, 2019; 88 FR 82967, Nov. 27, 2023]

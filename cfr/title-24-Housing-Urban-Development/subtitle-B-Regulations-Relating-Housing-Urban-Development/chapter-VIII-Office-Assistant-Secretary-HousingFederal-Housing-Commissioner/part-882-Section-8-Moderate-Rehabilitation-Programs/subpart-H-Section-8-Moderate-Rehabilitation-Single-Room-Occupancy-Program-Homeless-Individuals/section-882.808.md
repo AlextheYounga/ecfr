@@ -1,7 +1,5 @@
 ##### § 882.808 Management. #####
 
-Link to an amendment published at 88 FR 9668, Feb. 14, 2023.
-
 (a) *Outreach to homeless individuals and appropriate organizations.* (1) The HA or the owner must undertake outreach efforts to homeless individuals so that they may be brought into the program. The outreach effort should include notification to emergency shelter providers and other organizations that could provide referrals of homeless individuals. If the owner conducts the outreach effort, the owner must notify the HA so that it may provide referrals of homeless individuals.
 
 (2) *Additional outreach concerns.* If the procedures that the HA or owner intends to use to publicize the availability of this program are unlikely to reach persons of any particular race, color, religion, sex, age, national origin, or mental or physical disability who may qualify for admission to the program, the HA or owner must establish additional procedures that will ensure that such persons are made aware of the availability of the program. The HA or owner must also adopt and implement procedures to ensure that interested persons can obtain information concerning the existence and location of services and facilities that are accessible to persons with disabilities.
@@ -30,11 +28,19 @@ Link to an amendment published at 88 FR 9668, Feb. 14, 2023.
 
 (h) *Responsibility of the individual.* Section 882.413 applies to this program.
 
-(i) *Reexamination of individual income*—(1) *Regular reexaminations.* The HA must reexamine the income of all individuals at least once every 12 months. After consultation with the individual and upon verification of the information, the HA must make appropriate adjustments in the Total Tenant Payment in accordance with 24 CFR part 5, subpart F, and verify that only one individual is occupying the unit. The HA must adjust Tenant Rent and the Housing Assistance Payment to reflect any change in Total Tenant Payment. At each regular reexamination, the HA must follow the requirements of 24 CFR part 5, subpart E concerning verification of immigration status of any new family member.
+(i) *Reexamination of individual income*—(1) *Regular reexaminations.* The HA must reexamine the income of all individuals at least once every 12 months. After consultation with the individual and upon verification of the information, the HA must make appropriate adjustments in the Total Tenant Payment in accordance with 24 CFR part 5, subpart F, and verify that only one individual is occupying the unit. The HA must adjust Tenant Rent and the Housing Assistance Payment to reflect any change in Total Tenant Payment. At each regular reexamination, the HA must follow the requirements of 24 CFR part 5, subpart E concerning verification of immigration status of any new family member. For an individual with net family assets (as the term is defined in § 5.603 of this title) equal to or less than $50,000, which amount will be adjusted annually by HUD in accordance with the Consumer Price Index for Urban Wage Earners and Clerical Workers, a PHA may accept, for purposes of recertification of income, an individual's declaration under § 5.618(b) of this title, except that the PHA must obtain third-party verification of all family assets every 3 years.
 
 (2) *Interim reexaminations.* The individual shall supply such certification, release, information, or documentation as the PHA or HUD determines to be necessary, including submissions required for interim reexaminations of individual income and determinations as to whether only one individual is occupying the unit. In addition § 882.515(b) shall apply.
 
 (3) *Continuation of Housing Assistance Payments.* Section 882.515(d) applies to this program.
+
+(4) *Individual reporting of change.* The PHA must adopt policies consistent with this section prescribing when and under what conditions the individual must report a change in family income or composition.
+
+(5) *Accuracy of family income data.* The PHA must establish procedures that are appropriate and necessary to assure that income data provided by applicant or participant individuals is complete and accurate. The PHA will not be considered out of compliance with the requirements in this section solely due to de minimis errors in calculating family income but is still obligated to correct errors once the PHA becomes aware of the errors. A de minimis error is an error where the PHA determination of family income deviates from the correct income determination by no more than $30 per month in monthly adjusted income ($360 in annual adjusted income).
+
+(A) The PHA must take any corrective action necessary to credit or repay an individual if the individual has been overcharged for their Tenant Rent or Total Tenant Payment as a result of an error (including a de minimis error) in the income determination. Individuals will not be required to repay the PHA in instances where the PHA has miscalculated income resulting in an individual being undercharged for Tenant Rent or Total Tenant Payment.
+
+(B) HUD may revise the amount of de minimis error in this paragraph (i)(5) through a rulemaking published in the Federal Register for public comment.
 
 (j) *Overcrowded units.* If the HA determines that anyone other than, or in addition to, the eligible individual is occupying an SRO unit assisted under this program, the HA must take all necessary action, as soon as reasonably feasible, to ensure that the unit is occupied by only one eligible individual.
 
@@ -54,4 +60,4 @@ Link to an amendment published at 88 FR 9668, Feb. 14, 2023.
 
 (2) To the maximum extent practicable, each approved applicant must involve homeless individuals and families, through employment, volunteer services, or otherwise, in rehabilitating and operating facilities assisted under this subpart, and in providing services for occupants of such facilities.
 
-(Approved by the Office of Management and Budget under control number 2506-0131)[61 FR 48057, Sept. 11, 1996, as amended at 63 FR 23857, Apr. 30, 1998]
+(Approved by the Office of Management and Budget under control number 2506-0131)[61 FR 48057, Sept. 11, 1996, as amended at 63 FR 23857, Apr. 30, 1998; 88 FR 9668, Feb. 14, 2023]

@@ -1,7 +1,5 @@
 ##### § 92.252 Qualification as affordable housing: Rental housing. #####
 
-Link to an amendment published at 88 FR 9663, Feb. 14, 2023.
-
 The HOME-assisted units in a rental housing project must be occupied by households that are eligible as low- income families and must meet the requirements of this section to qualify as affordable housing. If the housing is not occupied by eligible tenants within six months following the date of project completion, HUD will require the participating jurisdiction to submit marketing information and, if appropriate, submit a marketing plan. HUD will require the participating jurisdiction to repay HOME funds invested in any housing unit that has not been rented to eligible tenants 18 months after the date of project completion. The affordability requirements also apply to the HOME- assisted non-owner-occupied units in single-family housing purchased with HOME funds in accordance with § 92.254. The tenant must have a written lease that complies with § 92.253.
 
 (a) *Rent limitation.* HUD provides the following maximum HOME rent limits. The rent limits apply to the rent plus the utilities or the utility allowance. The maximum HOME rents (High HOME Rents) are the lesser of:
@@ -14,7 +12,9 @@ The HOME-assisted units in a rental housing project must be occupied by househol
 
 (1) The rent does not exceed 30 percent of the annual income of a family whose income equals 50 percent of the median income for the area, as determined by HUD, with adjustments for smaller and larger families. HUD provides the HOME rent limits which include average occupancy per unit and adjusted income assumptions. However, if the rent determined under this paragraph is higher than the applicable rent under paragraph (a) of this section, then the maximum rent for units under this paragraph is that calculated under paragraph (a) of this section.
 
-(2) The rent does not exceed 30 percent of the family's adjusted income. If the unit receives Federal or State project-based rental subsidy and the very low-income family pays as a contribution toward rent not more than 30 percent of the family's adjusted income, then the maximum rent (i.e., tenant contribution plus project-based rental subsidy) is the rent allowable under the Federal or State project-based rental subsidy program.
+(2)(i) The rent does not exceed 30 percent of the family's adjusted income.
+
+(ii) If the unit receives Federal or State project-based rental subsidy and the very low-income family pays as a contribution toward rent not more than 30 percent of the family's adjusted income, then the maximum rent (*i.e.,* tenant contribution plus project-based rental subsidy) is the rent allowable under the Federal or State project-based rental subsidy program.
 
 (c) *Additional rent limitations for SRO projects.* (1) For SRO units that have both sanitary and food preparation facilities, the maximum HOME rent is based on the zero-bedroom fair market rent. The project must meet the requirements of paragraphs (a) and (b) of this section.
 
@@ -57,7 +57,7 @@ The HOME-assisted units in a rental housing project must be occupied by househol
 
 (2) HUD may adjust the HOME rent limits for a project, only if HUD finds that an adjustment is necessary to support the continued financial viability of the project and only by an amount that HUD determines is necessary to maintain continued financial viability of the project. HUD expects that this authority will be used sparingly.
 
-(h) *Tenant income.* The income of each tenant must be determined initially in accordance with § 92.203(a)(1)(i). In addition, each year during the period of affordability the project owner must re-examine each tenant's annual income in accordance with one of the options in § 92.203 selected by the participating jurisdiction. An owner of a multifamily project with an affordability period of 10 years or more who re-examines tenant's annual income through a statement and certification in accordance with § 92.203(a)(1)(ii), must examine the income of each tenant, in accordance with § 92.203(a)(1)(i), every sixth year of the affordability period. Otherwise, an owner who accepts the tenant's statement and certification in accordance with § 92.203(a)(1)(ii) is not required to examine the income of tenants in multifamily or single-family projects unless there is evidence that the tenant's written statement failed to completely and accurately state information about the family's size or income.
+(h) *Tenant income.* The income of each tenant must be determined initially in accordance with § 92.203(b)(1)(i). In addition, each year during the period of affordability the project owner must re-examine each tenant's annual income in accordance with one of the options in § 92.203(b)(1) selected by the participating jurisdiction. An owner of a multifamily project with an affordability period of ten years or more who re-examines tenant's annual income through a statement and certification in accordance with § 92.203(b)(1)(ii), must examine the income of each tenant, in accordance with § 92.203(b)(1)(i), every sixth year of the affordability period, except that, for units that receive Federal or State project-based rental subsidy, the owner must accept the income determination pursuant to § 92.203(a)(1); and for a Federal tenant-based rental assistance program (*e.g.* housing choice vouchers, etc.) a participating jurisdiction may accept the income determination pursuant to § 92.203(a)(2). Otherwise, an owner who accepts the tenant's statement and certification in accordance with § 92.203(b)(1)(ii) is not required to examine the income of tenants in multifamily or single-family projects unless there is evidence that the tenant's written statement failed to completely and accurately state information about the family's size or income.
 
 (i) *Over-income tenants.* (1) HOME-assisted units continue to qualify as affordable housing despite a temporary noncompliance caused by increases in the incomes of existing tenants if actions satisfactory to HUD are being taken to ensure that all vacancies are filled in accordance with this section until the noncompliance is corrected.
 
@@ -69,4 +69,4 @@ The HOME-assisted units in a rental housing project must be occupied by househol
 
 (l) *Ongoing responsibilities.* The participating jurisdiction's responsibilities for on-site inspections and financial oversight of rental projects are set forth in § 92.504(d).
 
-[61 FR 48750, Sept. 16, 1996, as amended at 62 FR 28929, May 28, 1997; 62 FR 44840, Aug. 22, 1997; 78 FR 44672, July 24, 2013]
+[61 FR 48750, Sept. 16, 1996, as amended at 62 FR 28929, May 28, 1997; 62 FR 44840, Aug. 22, 1997; 78 FR 44672, July 24, 2013; 88 FR 9663, Feb. 14, 2023]

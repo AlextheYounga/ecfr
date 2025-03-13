@@ -1,14 +1,12 @@
 ##### § 484.202 Definitions. #####
 
-Link to an amendment published at 88 FR 77878, Nov. 13, 2023.
-
 As used in this subpart—
 
 *Case-mix index* means a scale that measures the relative difference in resource intensity among different groups in the clinical model.
 
 *Discipline* means one of the six home health disciplines covered under the Medicare home health benefit (skilled nursing services, home health aide services, physical therapy services, occupational therapy services, speech- language pathology services, and medical social services).
 
-*Furnishing Negative Pressure Wound Therapy (NPWT) using a disposable device* means the application of a new applicable disposable device, as that term is defined in section 1834(s)(2) of the Act, which includes the professional services (specified by the assigned CPT® code) that are provided.
+*Furnishing Negative Pressure Wound Therapy (NPWT) using a disposable device* means the device is paid separately (specified by the assigned CPT® code) and does not include payment for the professional services. The nursing and therapy services are to be included as part of the payment under the home health prospective payment system.
 
 *HHCAHPS* stands for Home Health Care Consumer Assessment of Healthcare Providers and Systems.
 
@@ -20,4 +18,4 @@ As used in this subpart—
 
 *Urban area* means an area defined in § 412.64(b)(1)(ii)(A) and (B) of this chapter.
 
-[70 FR 68142, Nov. 9, 2005, as amended at 81 FR 76796, Nov. 3, 2016; 83 FR 56628, Nov. 13, 2018; 84 FR 60644, Nov. 8, 2019]
+[70 FR 68142, Nov. 9, 2005, as amended at 81 FR 76796, Nov. 3, 2016; 83 FR 56628, Nov. 13, 2018; 84 FR 60644, Nov. 8, 2019; 88 FR 77878, Nov. 13, 2023]

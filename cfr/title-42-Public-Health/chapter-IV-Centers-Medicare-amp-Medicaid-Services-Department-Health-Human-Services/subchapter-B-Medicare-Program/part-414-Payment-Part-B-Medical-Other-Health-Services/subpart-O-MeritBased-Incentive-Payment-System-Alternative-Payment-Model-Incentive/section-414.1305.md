@@ -1,7 +1,5 @@
 ##### § 414.1305 Definitions. #####
 
-Link to an amendment published at 88 FR 79533, Nov. 16, 2023.
-
 As used in this section, unless otherwise indicated—
 
 *Additional performance threshold* means the numerical threshold for a MIPS payment year against which the final scores of MIPS eligible clinicians are compared to determine the additional MIPS payment adjustment factors for exceptional performance.
@@ -56,7 +54,7 @@ As used in this section, unless otherwise indicated—
 
 *APM Incentive Payment* means the lump sum incentive payment for a year paid to an eligible clinician who is a QP for the year from 2019 through 2024.
 
-*Attestation* means a secure mechanism, specified by CMS, with respect to a particular performance period, whereby a MIPS eligible clinician or group may submit the required data for the Promoting Interoperability or the improvement activities performance categories of MIPS in a manner specified by CMS.
+*Attestation* means a secure mechanism, specified by CMS, with respect to a particular performance period, whereby a MIPS eligible clinician, subgroup, or group may submit the required data for the Promoting Interoperability or the improvement activities performance categories of MIPS in a manner specified by CMS.
 
 *Attributed beneficiary* means a beneficiary attributed to the APM Entity under the terms of the Advanced APM as indicated on the most recent available list of attributed beneficiaries at the time of a QP determination.
 
@@ -184,15 +182,21 @@ As used in this section, unless otherwise indicated—
 
 (iii) The definition for 2019 and subsequent years specified in paragraph (2) of this definition.
 
-(2) For 2019 and subsequent years, EHR technology (which could include multiple technologies) certified under the ONC Health IT Certification Program that meets the 2015 Edition Base EHR definition (as defined at 45 CFR 170.102) and has been certified to the 2015 Edition health IT certification criteria—
+(2) For 2019 and subsequent years, EHR technology (which could include multiple technologies) certified under the ONC Health IT Certification Program that meets the 2015 Edition Base EHR definition, or subsequent Base EHR definition (as defined in 45 CFR 170.102), and has been certified to the ONC health IT certification criteria as adopted and updated in 45 CFR 170.315—
 
 (i) At 45 CFR 170.315(a)(12) (family health history) and 45 CFR 170.315(e)(3) (patient health information capture); and
 
-(ii) Necessary to report on applicable objectives and measures specified for the MIPS Promoting Interoperability performance category including the following:
+(ii) Necessary to report on applicable objectives and measures specified for MIPS including the following:
 
 (A) The applicable measure calculation certification criterion at 45 CFR 170.315(g)(1) or (2) for all certification criteria that support an objective with a percentage-based measure.
 
 (B) Clinical quality measure certification criteria that support the calculation and reporting of clinical quality measures at 45 CFR 170.315(c)(2) and (c)(3)(i) and (ii) and optionally (c)(4), and can be electronically accepted by CMS.
+
+(3) For purposes of determinations under §§ 414.1415 and 414.1420, beginning for CY 2024, EHR technology (which could include multiple technologies) certified under the ONC Health IT Certification Program that meets—
+
+(i) The 2015 Edition Base EHR definition, or subsequent Base EHR definition (as defined in 45 CFR 170.102); and
+
+(ii) Any such ONC health IT certification criteria adopted or updated in 45 CFR 170.315 that are determined applicable for the APM, for the year, considering factors such as clinical practice area, promotion of interoperability, relevance to reporting on applicable quality measures, clinical care delivery objectives of the APM, or any other factor relevant to documenting and communicating clinical care to patients or their health care providers in the APM.
 
 *CMS-approved survey vendor* means a survey vendor that is approved by CMS for a particular performance period to administer the CAHPS for MIPS survey and to transmit survey measures data to CMS.
 
@@ -200,11 +204,7 @@ As used in this section, unless otherwise indicated—
 
 *CMS Web Interface* means a web product developed by CMS that is used by groups that have elected to utilize the CMS Web Interface to submit data on the MIPS measures and activities.
 
-*Collection type* means a set of quality measures with comparable specifications and data completeness criteria, as applicable, including, but not limited to: Electronic clinical quality measures (eCQMs); MIPS clinical quality measures (MIPS CQMs); QCDR measures; Medicare Part B claims measures; CMS Web Interface measures (except as provided in paragraph (1) of this definition, for the CY 2017 through CY 2022 performance periods/2019 through 2024 MIPS payment years); the CAHPS for MIPS survey; and administrative claims measures.
-
-(1) For the CY 2021 through CY 2024 performance periods/2023 through 2026 MIPS payment years, collection types include CMS Web Interface measures for APM Entities reporting through the APM Performance Pathway in accordance with § 414.1367.
-
-(2) [Reserved]
+*Collection type* means a set of quality measures with comparable specifications and data completeness criteria, as applicable, including, but not limited to: Electronic clinical quality measures (eCQMs); MIPS clinical quality measures (MIPS CQMs); QCDR measures; Medicare Part B claims measures; CMS Web Interface measures (except as provided in paragraph (1) of this definition, for the CY 2017 through CY 2022 performance periods/2019 through 2024 MIPS payment years); the CAHPS for MIPS survey measure; administrative claims measures; and Medicare Clinical Quality Measures for Accountable Care Organizations Participating in the Medicare Shared Savings Program (Medicare CQMs).
 
 *Covered professional services* has the meaning given by section 1848(k)(3)(A) of the Act.
 
@@ -452,6 +452,8 @@ As used in this section, unless otherwise indicated—
 
 (2) Beginning with the 2022 MIPS payment year, an entity that demonstrates clinical expertise in medicine and quality measurement development experience and collects medical or clinical data on behalf of a MIPS eligible clinician for the purpose of patient and disease tracking to foster improvement in the quality of care provided to patients.
 
+*Qualified posting* means the document made available that lists qualified registries or QCDRs available by CMS for use by MIPS eligible clinicians, groups, subgroups, virtual groups, and APM Entities.
+
 *Qualified registry* means a medical registry, a maintenance of certification program operated by a specialty body of the American Board of Medical Specialties or other data intermediary that, with respect to a particular performance period, has self-nominated and successfully completed a vetting process (as specified by CMS) to demonstrate its compliance with the MIPS qualification requirements specified by CMS for that performance period. The registry must have the requisite legal authority to submit MIPS data (as specified by CMS) on behalf of a MIPS eligible clinician or group to CMS.
 
 *Qualifying APM participant (QP)* means an eligible clinician determined by CMS to have met or exceeded the relevant QP payment amount or QP patient count threshold under § 414.1430(a)(1), (a)(3), (b)(1), or (b)(3) for a year based on participation in an APM Entity that is also participating in an Advanced APM.
@@ -494,7 +496,7 @@ As used in this section, unless otherwise indicated—
 
 (ii) [Reserved]
 
-*Submitter type* means the MIPS eligible clinician, group, Virtual Group, APM Entity, or third party intermediary acting on behalf of a MIPS eligible clinician, group, Virtual Group, or APM Entity, as applicable, that submits data on measures and activities under MIPS.
+*Submitter type* means the MIPS eligible clinician, group, Virtual Group, subgroup, APM Entity, or third party intermediary acting on behalf of a MIPS eligible clinician, group, Virtual Group, subgroup, APM Entity, as applicable, that submits data on measures and activities under MIPS.
 
 *Third party intermediary* means an entity that CMS has approved under § 414.1400 to submit data on behalf of a MIPS eligible clinician, group, virtual group, subgroup, or APM Entity for one or more of the quality, improvement activities, and Promoting Interoperability performance categories.
 
@@ -506,4 +508,4 @@ As used in this section, unless otherwise indicated—
 
 *Virtual group* means a combination of two or more TINs assigned to one or more solo practitioners or to one or more groups consisting of 10 or fewer eligible clinicians, or both, that elect to form a virtual group for a performance period for a year.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53950, Nov. 16, 2017; 83 FR 60075, Nov. 23, 2018; 84 FR 63194, Nov. 15, 2019; 85 FR 54872, Sept. 2, 2020; 85 FR 85029, Dec. 28, 2020; 86 FR 65670, Nov. 19, 2021; 86 FR 73159, Dec. 27, 2021; 87 FR 70227, Nov. 18, 2022]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53950, Nov. 16, 2017; 83 FR 60075, Nov. 23, 2018; 84 FR 63194, Nov. 15, 2019; 85 FR 54872, Sept. 2, 2020; 85 FR 85029, Dec. 28, 2020; 86 FR 65670, Nov. 19, 2021; 86 FR 73159, Dec. 27, 2021; 87 FR 70227, Nov. 18, 2022; 88 FR 79533, Nov. 16, 2023]

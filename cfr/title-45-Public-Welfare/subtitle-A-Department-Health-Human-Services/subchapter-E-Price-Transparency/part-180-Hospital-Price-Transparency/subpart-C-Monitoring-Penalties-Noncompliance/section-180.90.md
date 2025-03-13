@@ -1,7 +1,5 @@
 ##### § 180.90 Civil monetary penalties. #####
 
-Link to an amendment published at 88 FR 82185, Nov. 22, 2023.
-
 (a) *Basis for imposing civil monetary penalties.* CMS may impose a civil monetary penalty on a hospital identified as noncompliant according to § 180.70, and that fails to respond to CMS' request to submit a corrective action plan or comply with the requirements of a corrective action plan as described in § 180.80(d).
 
 (b) *Notice of imposition of a civil monetary penalty.* (1) If CMS imposes a penalty in accordance with this part, CMS provides a written notice of imposition of a civil monetary penalty to the hospital via certified mail or another form of traceable carrier.
@@ -20,7 +18,7 @@ Link to an amendment published at 88 FR 82185, Nov. 22, 2023.
 
 (B) If a hospital previously met the requirements of this part but did not update the information annually as required, the date 12 months after the date of the last annual update specified in information posted by the hospital.
 
-(C) A date determined by CMS, such as one resulting from monitoring activities specified in § 180.70, or development of a corrective action plan as specified in § 180.80.
+(C) A date determined by CMS, such as one resulting from monitoring and assessment activities specified in § 180.70, or development of a corrective action plan as specified in § 180.80.
 
 (iii) The amount of the penalty as of the date of the notice.
 
@@ -76,4 +74,4 @@ Link to an amendment published at 88 FR 82185, Nov. 22, 2023.
 
 (f) *Continuing violations.* CMS may issue subsequent notice(s) of imposition of a civil monetary penalty, according to paragraph (b) of this section, that result from the same instance(s) of noncompliance.
 
-[84 FR 65602, Nov. 27, 2019, as amended at 86 FR 63998, Nov. 16, 2021]
+[84 FR 65602, Nov. 27, 2019, as amended at 86 FR 63998, Nov. 16, 2021; 88 FR 82185, Nov. 22, 2023]

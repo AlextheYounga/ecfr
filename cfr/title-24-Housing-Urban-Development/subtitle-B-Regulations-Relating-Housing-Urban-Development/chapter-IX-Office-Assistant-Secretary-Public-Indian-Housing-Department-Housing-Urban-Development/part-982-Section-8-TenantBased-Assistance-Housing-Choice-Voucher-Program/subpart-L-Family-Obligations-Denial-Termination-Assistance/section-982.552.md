@@ -1,7 +1,5 @@
 ##### § 982.552 PHA denial or termination of assistance for family. #####
 
-Link to an amendment published at 88 FR 9676, Feb. 14, 2023.
-
 (a) *Action or inaction by family.* (1) A PHA may deny assistance for an applicant or terminate assistance for a participant under the programs because of the family's action or failure to act as described in this section or § 982.553. The provisions of this section do not affect denial or termination of assistance for grounds other than action or failure to act by the family.
 
 (2) Denial of assistance for an applicant may include any or all of the following: denying listing on the PHA waiting list, denying or withdrawing a voucher, refusing to enter into a HAP contract or approve a lease, and refusing to process or provide assistance under portability procedures.
@@ -19,6 +17,8 @@ Link to an amendment published at 88 FR 9676, Feb. 14, 2023.
 (4) The family must submit required evidence of citizenship or eligible immigration status. See part 5 of this title for a statement of circumstances in which the PHA must deny admission or terminate program assistance because a family member does not establish citizenship or eligible immigration status, and the applicable informal hearing procedures.
 
 (5) The PHA must deny or terminate assistance if any family member fails to meet the eligibility requirements concerning individuals enrolled at an institution of higher education as specified in 24 CFR 5.612.
+
+(6) The PHA must deny or terminate assistance based on the restrictions on net assets and property ownership when required by § 5.618 of this title.
 
 (c) *Authority to deny admission or terminate assistance*—(1) *Grounds for denial or termination of assistance.* The PHA may at any time deny program assistance for an applicant, or terminate program assistance for a participant, for any of the following grounds:
 
@@ -66,4 +66,4 @@ Link to an amendment published at 88 FR 9676, Feb. 14, 2023.
 
 (e) *Applicant screening.* The PHA may at any time deny program assistance for an applicant in accordance with the PHA policy, as stated in the PHA administrative plan, on screening of applicants for family behavior or suitability for tenancy.
 
-(Approved by the Office of Management and Budget under control number 2577-0169)[60 FR 34695, July 3, 1995, as amended at 60 FR 45661, Sept. 1, 1995; 61 FR 13627, Mar. 27, 1996; 63 FR 23865, Apr. 30, 1998; 64 FR 26650, May 14, 1999; 64 FR 49659, Sept. 14, 1999; 64 FR 56915, Oct. 21, 1999; 65 FR 16823, Mar. 30, 2000; 66 FR 28805, May 24, 2001; 70 FR 77744, Dec. 30, 2005; 73 FR 72345, Nov. 28, 2008; 75 FR 66264, Oct. 27, 2010; 80 FR 8247, Feb. 17, 2015; 81 FR 80817, Nov. 16, 2016]
+(Approved by the Office of Management and Budget under control number 2577-0169)[60 FR 34695, July 3, 1995, as amended at 60 FR 45661, Sept. 1, 1995; 61 FR 13627, Mar. 27, 1996; 63 FR 23865, Apr. 30, 1998; 64 FR 26650, May 14, 1999; 64 FR 49659, Sept. 14, 1999; 64 FR 56915, Oct. 21, 1999; 65 FR 16823, Mar. 30, 2000; 66 FR 28805, May 24, 2001; 70 FR 77744, Dec. 30, 2005; 73 FR 72345, Nov. 28, 2008; 75 FR 66264, Oct. 27, 2010; 80 FR 8247, Feb. 17, 2015; 81 FR 80817, Nov. 16, 2016; 88 FR 9676, Feb. 14, 2023]

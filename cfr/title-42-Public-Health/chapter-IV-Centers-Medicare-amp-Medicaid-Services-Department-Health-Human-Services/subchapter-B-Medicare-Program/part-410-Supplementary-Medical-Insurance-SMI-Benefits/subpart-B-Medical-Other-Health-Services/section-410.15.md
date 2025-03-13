@@ -1,7 +1,5 @@
 ##### § 410.15 Annual wellness visits providing Personalized Prevention Plan Services: Conditions for and limitations on coverage. #####
 
-Link to an amendment published at 88 FR 79525, Nov. 16, 2023.
-
 (a) *Definitions.* For purposes of this section—
 
 *A review of any current opioid prescriptions* means, with respect to the individual determined to have a current prescription for opioids, all of the following:
@@ -56,7 +54,9 @@ Link to an amendment published at 88 FR 79525, Nov. 16, 2023.
 
 (xii) Screening for potential substance use disorders including a review of the individual's potential risk factors for substance use disorder and referral for treatment as appropriate.
 
-(xiii) Any other element determined appropriate through the national coverage determination process.
+(xiii) At the discretion of the health professional and beneficiary, furnish a Social Determinants of Health Risk Assessment that is standardized, evidence-based, and furnished in a manner that all communication with the patient is appropriate for the beneficiary's educational, developmental, and health literacy level, and is culturally and linguistically appropriate.
+
+(xiv) Any other element determined appropriate through the national coverage determination process.
 
 *Health professional* means—
 
@@ -126,7 +126,9 @@ Link to an amendment published at 88 FR 79525, Nov. 16, 2023.
 
 (x) Screening for potential substance use disorders including a review of the individual's potential risk factors for substance use disorder and referral for treatment as appropriate.
 
-(xi) Any other element determined appropriate through the national coverage determination process.
+(xi) At the discretion of the health professional and beneficiary, furnish a Social Determinants of Health Risk Assessment that is standardized, evidence-based, and furnished in a manner that all communication with the patient is appropriate for the beneficiary's educational, developmental, and health literacy level, and is culturally and linguistically appropriate.
+
+(xii) Any other element determined appropriate through the national coverage determination process.
 
 (b) *Conditions for coverage of annual wellness visits providing personalized prevention plan services.* Medicare Part B pays for first and subsequent annual wellness visits providing personalized prevention plan services that are furnished to an eligible beneficiary, as described in this section, if they are furnished by a health professional, as defined in this section.
 
@@ -138,4 +140,4 @@ Link to an amendment published at 88 FR 79525, Nov. 16, 2023.
 
 (d) *Effective date.* Coverage for an annual wellness visit providing personalized prevention plan services is effective for services furnished on or after January 1, 2011.
 
-[75 FR 73613, Nov. 29, 2010, as amended at 76 FR 1367, Jan. 10, 2011; 76 FR 73470, Nov. 28, 2011; 80 FR 71372, Nov. 16, 2015; 85 FR 85025, Dec. 28, 2020]
+[75 FR 73613, Nov. 29, 2010, as amended at 76 FR 1367, Jan. 10, 2011; 76 FR 73470, Nov. 28, 2011; 80 FR 71372, Nov. 16, 2015; 85 FR 85025, Dec. 28, 2020; 88 FR 79525, Nov. 16, 2023]

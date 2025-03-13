@@ -1,10 +1,6 @@
 ##### § 405.2464 Payment rate. #####
 
-Link to an amendment published at 88 FR 79524, Nov. 16, 2023.Link to an amendment published at 88 FR 82176, Nov. 22, 2023.
-
-(a) *Payment rate for RHCs that are authorized to bill under the reasonable cost system.*
-
-(1) Except as specified in paragraphs (d) and (e) of this section, an RHC that is authorized to bill under the reasonable cost system is paid an all-inclusive rate that is determined by the MAC at the beginning of the cost reporting period.
+(a) *Payment rate for RHCs that are authorized to bill under the reasonable cost system.* (1) Except as specified in paragraphs (d) and (e) of this section, an RHC that is authorized to bill under the reasonable cost system is paid an all-inclusive rate that is determined by the MAC at the beginning of the cost reporting period.
 
 (2) The rate is determined by dividing the estimated total allowable costs by estimated total visits for RHC services.
 
@@ -34,10 +30,12 @@ Link to an amendment published at 88 FR 79524, Nov. 16, 2023.Link to an amendmen
 
 (B) A subsequent annual wellness visit.
 
-(c) *Payment for care management services.* For chronic care management services furnished between January 1, 2016 and December 31, 2017, payment to RHCs and FQHCs is at the physician fee schedule national non-facility payment rate. For care management services furnished on or after January 1, 2018, payment to RHCs and FQHCs is at the rate set for each of the RHC and FQHC payment codes for care management services.
+(c) *Payment for care management services.* For chronic care management services furnished between January 1, 2016 and December 31, 2017, payment to RHCs and FQHCs is at the physician fee schedule national non-facility payment rate. For care management services furnished between January 1, 2018 and December 31, 2023, payment to RHCs and FQHCs is at the rate set for each of the RHC and FQHC payment codes for care management services. For general care management services furnished on or after January 1, 2024, the payment amount is based on a weighted average of the services that comprise HCPCS code G0511 using the most recently available PFS utilization data.
 
 (d) *Payment for FQHCs that are authorized to bill as grandfathered tribal FQHCs.* Grandfathered tribal FQHCs are paid at the outpatient per visit rate for Medicare as set annually by the Indian Health Service for each beneficiary visit for covered services. There are no adjustments to this rate.
 
 (e) *Payment for communication technology-based and remote evaluation services.* For communication technology-based and remote evaluation services furnished on or after January 1, 2019, payment to RHCs and FQHCs is at the rate set for each of the RHC and FQHC payment codes for communication technology-based and remote evaluation services.
 
-[79 FR 25478, May 2, 2014, as amended at 80 FR 71372, Nov. 16, 2015; 83 FR 60073, Nov. 23, 2018]
+(f) *Payment for intensive outpatient services.* Payment to RHCs and FQHCs is at the rate determined under § 405.2462(j).
+
+[79 FR 25478, May 2, 2014, as amended at 80 FR 71372, Nov. 16, 2015; 83 FR 60073, Nov. 23, 2018; 88 FR 79524, Nov. 16, 2023; 88 FR 82176, Nov. 22, 2023]

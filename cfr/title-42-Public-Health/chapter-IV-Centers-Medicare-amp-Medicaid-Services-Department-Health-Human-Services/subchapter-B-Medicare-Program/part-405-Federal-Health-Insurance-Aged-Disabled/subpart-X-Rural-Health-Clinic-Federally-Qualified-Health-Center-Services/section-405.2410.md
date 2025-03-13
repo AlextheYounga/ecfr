@@ -1,7 +1,5 @@
 ##### § 405.2410 Application of Part B deductible and coinsurance. #####
 
-Link to an amendment published at 88 FR 82176, Nov. 22, 2023.
-
 (a) *Application of deductible.* (1) Medicare payment for RHC services begins only after the beneficiary has incurred the deductible.
 
 (2) Medicare payment for services covered under the FQHC benefit is not subject to the usual Part B deductible.
@@ -22,4 +20,8 @@ Link to an amendment published at 88 FR 82176, Nov. 22, 2023.
 
 (ii) The FQHC PPS rate for the covered service.
 
-[71 FR 55345, Sept. 22, 2006, as amended at 79 FR 25474, May 2, 2014; 80 FR 71371, Nov. 16, 2015]
+(c) *Application of deductible and coinsurance for RHCs and FQHCs paid on the basis of the special payment rule described under § 405.2462(j).* (1) For RHCs, a coinsurance amount that does not exceed 20 percent of the payment determined under § 405.2462(j)(1); or
+
+(2) For FQHCs, a coinsurance amount that does not exceed 20 percent of the payment determined under § 405.2462(j)(2).
+
+[71 FR 55345, Sept. 22, 2006, as amended at 79 FR 25474, May 2, 2014; 80 FR 71371, Nov. 16, 2015; 88 FR 82176, Nov. 22, 2023]

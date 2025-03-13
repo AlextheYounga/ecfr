@@ -1,7 +1,5 @@
 ##### § 93.2 Definitions. #####
 
-Link to an amendment published at 88 FR 9664, Feb. 14, 2023.
-
 *1937 Act* means the United States Housing Act of 1937 (42 U.S.C. 1437 *et seq.*).
 
 *Act* means the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, as amended (12 U.S.C. 4501 *et seq*).
@@ -35,6 +33,12 @@ Link to an amendment published at 88 FR 9664, Feb. 14, 2023.
 *Family* has the same meaning given that term in 24 CFR 5.403.
 
 *First-time homebuyer* means an individual and his or her spouse who have not owned a home during the 3-year period prior to purchase of a home with assistance under this part. The term first-time homebuyer also includes an individual who is a displaced homemaker or single parent, as those terms are defined in this section.
+
+*Foster adult* has the same meaning given that term in 24 CFR 5.603.
+
+*Foster child* has the same meaning given that term in 24 CFR 5.603.
+
+*Full-time student* has the same meaning given that term in 24 CFR 5.603.
 
 *Grantee* means the State or the State-designated entity that receives the HTF funds from HUD.
 
@@ -72,6 +76,8 @@ Link to an amendment published at 88 FR 9664, Feb. 14, 2023.
 
 *Insular areas* means Guam, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, and American Samoa.
 
+*Live-in aide* has the same meaning given that term in 24 CFR 5.403.
+
 *Neighborhood* means a geographic location designated in comprehensive plans, ordinances, or other local documents as a neighborhood, village, or similar geographical designation that is within the boundary but does not encompass the entire area of a unit of general local government; except that if the unit of general local government has a population under 25,000, the neighborhood may, but need not, encompass the entire area of a unit of general local government.
 
 *Poverty line* is defined in section 673 of the Omnibus Budget Reconciliation Act of 1981 (42 U.S.C. 9902).
@@ -95,6 +101,8 @@ Link to an amendment published at 88 FR 9664, Feb. 14, 2023.
 *Project* means a site or sites together with any building (including a manufactured housing unit) or buildings located on the site(s) that are under common ownership, management, and financing and are to be assisted with HTF funds as a single undertaking under this part. The project includes all the activities associated with the site and building.
 
 *Project completion* means that all necessary title transfer requirements and construction work have been performed, the project complies with the requirements of this part (including the property standards under § 93.301 of this part), the final drawdown has been disbursed for the project, and the project completion information has been entered in the disbursement and information system established by HUD, except that with respect to rental housing project completion, for the purposes of § 93.402(d) of this part, project completion occurs upon completion of construction before occupancy.
+
+*Public Housing Agency (PHA)* has the same meaning given that term in 24 CFR 5.100.
 
 *Recipient* means an organization, agency, or other entity (including a public housing agency, or a for-profit entity or a nonprofit entity) that receives HTF assistance from a grantee as an owner or developer to carry out an HTF-assisted project. A recipient must:
 
@@ -148,4 +156,4 @@ Link to an amendment published at 88 FR 9664, Feb. 14, 2023.
 
 *Very low-income families* means low-income families whose annual incomes are in excess of 30 percent but not greater than 50 percent of the median family income of a geographic area, as determined by HUD with adjustments for smaller and larger families. “Very low-income family” also includes any family that resides in a nonmetropolitan area that does not exceed the poverty line applicable to the family size involved.
 
-[80 FR 5220, Jan. 30, 2015, as amended at 81 FR 90657, Dec. 14, 2016]
+[80 FR 5220, Jan. 30, 2015, as amended at 81 FR 90657, Dec. 14, 2016; 88 FR 9664, Feb. 14, 2023]

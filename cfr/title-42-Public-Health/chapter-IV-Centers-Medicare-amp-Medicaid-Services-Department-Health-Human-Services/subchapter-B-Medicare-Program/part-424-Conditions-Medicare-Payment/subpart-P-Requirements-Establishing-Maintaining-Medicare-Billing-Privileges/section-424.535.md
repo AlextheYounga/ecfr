@@ -1,10 +1,8 @@
 ##### § 424.535 Revocation of enrollment in the Medicare program. #####
 
-Link to an amendment published at 88 FR 79541, Nov. 16, 2023.
-
 (a) *Reasons for revocation.* CMS may revoke a currently enrolled provider or supplier's Medicare enrollment and any corresponding provider agreement or supplier agreement for the following reasons:
 
-(1) *Noncompliance.* The provider or supplier is determined to not be in compliance with the enrollment requirements described in this subpart P or in the enrollment application applicable for its provider or supplier type, and has not submitted a plan of corrective action as outlined in part 488 of this chapter. The provider or supplier may also be determined not to be in compliance if it has failed to pay any user fees as assessed under part 488 of this chapter.
+(1) *Noncompliance.* The provider or supplier is determined to not be in compliance with the enrollment requirements described in this title 42, or in the enrollment application applicable for its provider or supplier type, and has not submitted a plan of corrective action as outlined in part 488 of this chapter. The provider or supplier may also be determined not to be in compliance if it has failed to pay any user fees as assessed under part 488 of this chapter.
 
 (i) CMS may request additional documentation from the provider or supplier to determine compliance if adverse information is received or otherwise found concerning the provider or supplier.
 
@@ -140,21 +138,43 @@ Link to an amendment published at 88 FR 79541, Nov. 16, 2023.
 
 (C) Whether the physician or eligible professional has a pattern or practice of prescribing drugs for indications that were not medically accepted—that is, for indications neither approved by the FDA nor medically accepted under section 1860D-2(e)(4) of the Act—and whether there is evidence that the physician or eligible professional acted in reckless disregard for the health and safety of the patient.
 
-(15)-(16) [Reserved]
+(15) *False Claims Act (FCA).* (i) The provider or supplier, or any owner, managing employee or organization, officer, or director of the provider or supplier, has had a civil judgment under the FCA (31 U.S.C. 3729 through 3733) imposed against them within the previous 10 years.
 
-(17) *Debt referred to the United States Department of Treasury.* The provider or supplier has an existing debt that CMS appropriately refers to the United States Department of Treasury. In determining whether a revocation under this paragraph (a)(17) is appropriate, CMS considers the following factors:
+(ii) In determining whether a revocation under this paragraph is appropriate, CMS considers the following factors:
 
-(i) The reason(s) for the failure to fully repay the debt (to the extent this can be determined).
+(A) The number of provider or supplier actions that the judgment incorporates (for example, the number of false claims submitted).
 
-(ii) Whether the provider or supplier has attempted to repay the debt (to the extent this can be determined).
+(B) The types of provider or supplier actions involved.
 
-(iii) Whether the provider or supplier has responded to CMS' requests for payment (to the extent this can be determined).
+(C) The monetary amount of the judgment.
 
-(iv) Whether the provider or supplier has any history of final adverse actions or Medicare or Medicaid payment suspensions.
+(D) When the judgment occurred.
 
-(v) The amount of the debt.
+(E) Whether the provider or supplier has any history of final adverse actions (as that term is defined in § 424.502).
 
-(vi) Any other evidence that CMS deems relevant to its determination.
+(F) Any other information that CMS deems relevant to its determination.
+
+(16) [Reserved]
+
+(17) *Debt referred to the United States Department of Treasury.* (i) The provider or supplier failed to repay a debt that CMS appropriately referred to the United States Department of Treasury. In determining whether a revocation under this paragraph (a)(17) is appropriate, CMS considers the following factors:
+
+(A) The reason(s) for the failure to fully repay the debt (to the extent this can be determined).
+
+(B) Whether the provider or supplier has attempted to repay the debt (to the extent this can be determined).
+
+(C) Whether the provider or supplier has responded to CMS' requests for payment (to the extent this can be determined).
+
+(D) Whether the provider or supplier has any history of final adverse actions or Medicare or Medicaid payment suspensions.
+
+(E) The amount of the debt.
+
+(F) Any other evidence that CMS deems relevant to its determination.
+
+(ii) Paragraph (17)(i) of this paragraph does not apply to the following situations:
+
+(A) The provider's or supplier's Medicare debt has been discharged by a bankruptcy court; or
+
+(B) The administrative appeals process concerning the debt has not been exhausted or the timeframe for filing such an appeal (at the appropriate level of appeal) has not expired.
 
 (18) *Revoked under different name, numerical identifier or business identity.* The provider or supplier is currently revoked under a different name, numerical identifier, or business identity, and the applicable reenrollment bar period has not expired. In determining whether a provider or supplier is a currently revoked provider or supplier under a different name, numerical identifier, or business identity, CMS investigates the degree of commonality by considering the following factors:
 
@@ -234,6 +254,16 @@ Link to an amendment published at 88 FR 79541, Nov. 16, 2023.
 
 (B) Required abstinence from drugs or alcohol and random drug testing.
 
+(23) *Supplier standard or condition violation.* (i) The independent diagnostic testing facility is non-compliant with any provision in 42 CFR 410.33(g).
+
+(ii) The DMEPOS supplier is non-compliant with any provision in § 424.57(c).
+
+(iii) The opioid treatment program is non-compliant with any provision in § 424.67(b) or (e).
+
+(iv) The home infusion therapy supplier is non-compliant with any provision in § 424.68(c) or (e).
+
+(v) The Medicare diabetes prevention program is non-compliant with any provision in § 424.205(b) or (d).
+
 (b) *Effect of revocation on provider agreements.* When a provider's or supplier's billing privilege is revoked, any provider agreement in effect at the time of revocation is terminated effective with the date of revocation.
 
 (c) *Reapplying after revocation.* (1) After a provider or supplier has had their enrollment revoked, they are barred from participating in the Medicare program from the effective date of the revocation until the end of the reenrollment bar. The reenrollment bar—
@@ -270,11 +300,43 @@ Link to an amendment published at 88 FR 79541, Nov. 16, 2023.
 
 (2) Providers must be resurveyed and recertified by the State survey agency as a new provider and must establish a new provider agreement with CMS's Regional Office.
 
-(e) *Reversal of revocation.* If the revocation was due to adverse activity (sanction, exclusion, or felony) against the provider's or supplier's owner, managing employee, managing organization, officer, director, authorized or delegated official, medical director, supervising physician, or other health care or administrative or management services personnel furnishing services payable by a Federal health care program, the revocation may be reversed if the provider or supplier terminates and submits proof that it has terminated its business relationship with that individual within 30 days of the revocation notification.
+(e) *Reversal of revocation.* If the revocation was due to adverse activity (sanction, exclusion, or felony) against the provider's or supplier's owner, managing employee, managing organization, officer, director, authorized or delegated official, medical director, supervising physician, or other health care or administrative or management services personnel furnishing services payable by a Federal health care program, the revocation may be reversed if the provider or supplier terminates and submits proof that it has terminated its business relationship with that party within 15 days of the revocation notification.
 
 (f) *Additional review.* When a provider or supplier is revoked from the Medicare program, CMS automatically reviews all other related Medicare enrollment files that the revoked provider or supplier has an association with (for example, as an owner or managing employee) to determine if the revocation warrants an adverse action of the associated Medicare provider or supplier.
 
-(g) *Effective date of revocation.* Revocation becomes effective 30 days after CMS or the CMS contractor mails notice of its determination to the provider or supplier, except if the revocation is based on Federal exclusion or debarment, felony conviction, license suspension or revocation, or the practice location is determined by CMS or its contractor not to be operational. When a revocation is based on a Federal exclusion or debarment, felony conviction, license suspension or revocation, or the practice location is determined by CMS or its contractor not to be operational, the revocation is effective with the date of exclusion or debarment, felony conviction, license suspension or revocation or the date that CMS or its contractor determined that the provider or supplier was no longer operational.
+(g) *Effective date of revocation.* (1) Except as described in paragraphs (g)(2) and (g)(3) of this section, a revocation becomes effective 30 days after CMS or the CMS contractor mails notice of its determination to the provider or supplier.
+
+(2) Except as described in paragraph (g)(3) of this section, the revocation effective dates in the situations identified in this paragraph (g)(2) are as follows:
+
+(i) For revocations based on a Federal exclusion or debarment, the date of the exclusion or debarment.
+
+(ii) For revocations based on a felony conviction, the date of the felony conviction.
+
+(iii) For revocations based on a State license suspension or revocation, the date of the license suspension or revocation.
+
+(iv) For revocations based on a CMS determination that the provider's or supplier's practice location is non-operational, the date on which the provider's or supplier's practice location was no longer operational (per CMS' or the CMS contractor's determination).
+
+(v) For revocations based on a State license surrender in lieu of further disciplinary action, the date of the license surrender.
+
+(vi) For revocations based on termination from a Federal health care program other than Medicare (for example, Medicaid), the date of the termination.
+
+(vii) For revocations based on termination of a provider agreement under part 489 of this chapter, and as applicable to the type of provider involved, the later of the following:
+
+(A) The date of the provider agreement termination; or
+
+(B) The date that CMS establishes under § 489.55.
+
+(viii) For revocations based on § 424.535(a)(23), the effective dates are as follows:
+
+(A) If the standard or condition violation involves the suspension, revocation, or termination (or surrender in lieu of further disciplinary action) of the provider's or supplier's Federal or State license, certification, accreditation, or MDPP recognition, the effective date is the date of the license, certification, accreditation, or MDPP recognition suspension, revocation, termination, or surrender.
+
+(B) If the standard or condition violation involves a non-operational practice location, the effective date is the date the non-operational status began.
+
+(C) If the standard violation involves a felony conviction of an individual or entity described in § 424.67(b)(6)(i), the effective date is the date of the felony conviction.
+
+(D) For all standard violations not addressed in paragraphs (A) through (C), the effective date in paragraph (g)(1) applies if the effective date in paragraph (g)(3) does not.
+
+(3) If the action that resulted in the revocation occurred prior to the effective date of the provider's or supplier's enrollment, the effective date of the revocation is the same as the effective date of enrollment.
 
 (h) *Submission of claims for services furnished before revocation.* (1)(i) Except for HHAs as described in paragraph (h)(1)(ii) of this section, a revoked provider or supplier must, within 60 calendar days after the effective date of revocation, submit all claims for items and services furnished before the date of the revocation letter.
 
@@ -310,4 +372,4 @@ Link to an amendment published at 88 FR 79541, Nov. 16, 2023.
 
 (2) A revocation under paragraph (j)(1) of this section is effective the day before the Medicare contractor receives the provider's or supplier's Form CMS-855 voluntary termination application.
 
-[71 FR 20776, Apr. 21, 2006, as amended at 72 FR 53648, Sept. 19, 2007; 73 FR 36461, June 27, 2008; 73 FR 69940, Nov. 19, 2008; 75 FR 24449, May 5, 2010; 75 FR 70465, Nov. 17, 2010; 76 FR 5964, Feb. 2, 2011; 77 FR 25318, Apr. 27, 2012; 77 FR 29030, May 16, 2012; 79 FR 29968, May 23, 2014; 79 FR 72532, Dec. 5, 2014; 84 FR 47854, Sept. 10, 2019; 84 FR 63204, Nov. 15, 2019; 86 FR 65682, Nov. 19, 2021; 87 FR 70232, Nov. 18, 2022]
+[71 FR 20776, Apr. 21, 2006, as amended at 72 FR 53648, Sept. 19, 2007; 73 FR 36461, June 27, 2008; 73 FR 69940, Nov. 19, 2008; 75 FR 24449, May 5, 2010; 75 FR 70465, Nov. 17, 2010; 76 FR 5964, Feb. 2, 2011; 77 FR 25318, Apr. 27, 2012; 77 FR 29030, May 16, 2012; 79 FR 29968, May 23, 2014; 79 FR 72532, Dec. 5, 2014; 84 FR 47854, Sept. 10, 2019; 84 FR 63204, Nov. 15, 2019; 86 FR 65682, Nov. 19, 2021; 87 FR 70232, Nov. 18, 2022; 88 FR 79541, Nov. 16, 2023]

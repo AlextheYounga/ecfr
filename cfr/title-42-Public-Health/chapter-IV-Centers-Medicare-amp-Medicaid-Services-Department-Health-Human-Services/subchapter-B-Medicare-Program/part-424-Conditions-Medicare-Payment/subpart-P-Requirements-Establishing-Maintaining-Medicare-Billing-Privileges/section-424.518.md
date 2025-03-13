@@ -1,7 +1,5 @@
 ##### § 424.518 Screening levels for Medicare providers and suppliers. #####
 
-Link to an amendment published at 88 FR 77877, Nov. 13, 2023.
-
 A Medicare contractor is required to screen all initial applications, revalidation applications, change of ownership applications pursuant to 42 CFR 489.18, applications to add a new practice location, and applications to report any new owner (regardless of ownership percentage) pursuant to a change of information or other enrollment transaction under title 42, based on a CMS assessment of risk and assignment to a level of “limited,” “moderate,” or “high.”
 
 (a) *Limited categorical risk*—(1) *Limited categorical risk: Provider and supplier categories.* CMS has designated the following providers and suppliers as “limited” categorical risk:
@@ -56,27 +54,21 @@ A Medicare contractor is required to screen all initial applications, revalidati
 
 (iii) Comprehensive outpatient rehabilitation facilities.
 
-(iv) Hospice organizations.
+(iv) Independent clinical laboratories.
 
-(v) Independent clinical laboratories.
+(v) Independent diagnostic testing facilities.
 
-(vi) Independent diagnostic testing facilities.
+(vi) Physical therapists enrolling as individuals or as group practices.
 
-(vii) Physical therapists enrolling as individuals or as group practices.
+(vii) Portable x-ray suppliers.
 
-(viii) Portable x-ray suppliers.
+(viii) Prospective (newly enrolling) and revalidating opioid treatment programs that have been fully and continuously certified by the Substance Abuse and Mental Health Services Administration (SAMHSA) since October 23, 2018.
 
-(ix) Revalidating home health agencies.
+(ix) Revalidating opioid treatment programs that have not been fully and continuously certified by SAMHSA since October 23, 2018, revalidating DMEPOS suppliers, revalidating MDPP suppliers, revalidating HHAs, revalidating SNFs, and revalidating hospices to which CMS applied the fingerprinting requirements outlined in paragraph (c)(2)(ii) of this section upon the provider's or supplier's—
 
-(x) Revalidating DMEPOS suppliers.
+(A) New/initial enrollment; or
 
-(xi) Revalidating MDPP suppliers.
-
-(xii) Prospective (newly enrolling) opioid treatment programs that have been fully and continuously certified by the Substance Abuse and Mental Health Services Administration (SAMHSA) since October 23, 2018.
-
-(xiii) Revalidating opioid treatment programs.
-
-(xiv) Revalidating skilled nursing facilities (SNFs)
+(B) Revalidation after CMS waived the fingerprinting requirements, under the circumstances described in paragraph (c)(1)(viii) of this section, when the provider or supplier initially enrolled in Medicare.
 
 (2) *Moderate screening level: Screening requirements.* When CMS designates a provider or supplier as a “moderate” categorical level of risk, the Medicare contractor does all of the following:
 
@@ -96,7 +88,11 @@ A Medicare contractor is required to screen all initial applications, revalidati
 
 (v) Prospective (newly enrolling) (SNFs).
 
-(vi) Enrolled OTPs that have not been fully and continuously certified by SAMHSA since October 23, 2018, DMEPOS suppliers, MDPP suppliers, HHAs, and SNFs that are submitting a change of ownership application pursuant to 42 CFR 489.18 or reporting any new owner (regardless of ownership percentage) pursuant to a change of information or other enrollment transaction under title 42.
+(vi) Prospective (newly enrolling) hospices.
+
+(vii) Enrolled opioid treatment programs that have not been fully and continuously certified by SAMHSA since October 23, 2018, DMEPOS suppliers, MDPP suppliers, HHAs, SNFs, and hospices that are submitting a change of ownership application pursuant to 42 CFR 489.18 or reporting any new owner (regardless of ownership percentage) pursuant to a change of information or other enrollment transaction under title 42.
+
+(viii) Except as stated in paragraph (b)(1)(ix) of this section, revalidating opioid treatment programs that have not been fully and continuously certified by SAMHSA since October 23, 2018, revalidating DMEPOS suppliers, revalidating MDPP suppliers, revalidating HHAs, revalidating SNFs, and revalidating hospices for which, upon their new/initial enrollment, CMS waived the fingerprinting requirements outlined in paragraph (c)(2)(ii) of this section in accordance with applicable legal authority due to a national, state, or local emergency declared under existing law.
 
 (2) *High screening level: Screening requirements.* When CMS designates a provider or supplier as a “high” categorical level of risk, the Medicare contractor does all of the following:
 
@@ -144,4 +140,4 @@ A Medicare contractor is required to screen all initial applications, revalidati
 
 (ii) Revoked under § 424.535(a)(1).
 
-[76 FR 5963, Feb. 2, 2011, as amended at 82 FR 53368, Nov. 15, 2017; 84 FR 63203, Nov. 15, 2019; 85 FR 70355, Nov. 4, 2020; 85 FR 85038, Dec. 28, 2020; 87 FR 70231, Nov. 18, 2022; 87 FR 72293, Nov. 23, 2022]
+[76 FR 5963, Feb. 2, 2011, as amended at 82 FR 53368, Nov. 15, 2017; 84 FR 63203, Nov. 15, 2019; 85 FR 70355, Nov. 4, 2020; 85 FR 85038, Dec. 28, 2020; 87 FR 70231, Nov. 18, 2022; 87 FR 72293, Nov. 23, 2022; 88 FR 77877, Nov. 13, 2023]

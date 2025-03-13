@@ -1,7 +1,5 @@
 ##### § 423.100 Definitions. #####
 
-Link to an amendment published at 87 FR 27899, May 9, 2022.
-
 As used in this part, unless otherwise specified-
 
 *Actual cost* means the negotiated price for a covered Part D drug when the drug is purchased at a network pharmacy, and the usual and customary price when a beneficiary purchases the drug at an out-of-network pharmacy consistent with § 423.124(a).
@@ -152,17 +150,19 @@ As used in this part, unless otherwise specified-
 
 *Long-term care network pharmacy* means a long-term care pharmacy that is a network pharmacy.
 
-*Negotiated prices* means prices for covered Part D drugs that meet all of the following:
+*Negotiated price* means the price for a covered Part D drug that—
 
-(1) The Part D sponsor (or other intermediary contracting organization) and the network dispensing pharmacy or other network dispensing provider have negotiated as the amount such network entity will receive, in total, for a particular drug.
+(1) The Part D sponsor (or other intermediary contracting organization) and the network dispensing pharmacy or other network dispensing provider have negotiated as the lowest possible reimbursement such network entity will receive, in total, for a particular drug;
 
-(2) Are inclusive of all price concessions from network pharmacies except those contingent price concessions that cannot reasonably be determined at the point-of-sale; and
+(2) Meets all of the following:
 
-(3) Include any dispensing fees; but
+(i) Includes all price concessions (as defined in this section) from network pharmacies or other network providers;
 
-(4) Excludes additional contingent amounts, such as incentive fees, if these amounts increase prices and cannot reasonably be determined at the point-of-sale.
+(ii) Includes any dispensing fees; and
 
-(5) Must not be rebated back to the Part D sponsor (or other intermediary contracting organization) in full or in part.
+(iii) Excludes additional contingent amounts, such as incentive fees, if these amounts increase prices; and
+
+(3) Is reduced by non-pharmacy price concessions and other direct or indirect remuneration that the Part D sponsor passes through to Part D enrollees at the point of sale.
 
 *Network pharmacy* means a licensed pharmacy that is under contract with a Part D sponsor to provide covered Part D drugs at negotiated prices to its Part D plan enrollees.
 
@@ -292,4 +292,4 @@ As used in this part, unless otherwise specified-
 
 *Valid prescription* means a prescription that complies with all applicable State law requirements constituting a valid prescription.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 1543, Jan. 12, 2009; 76 FR 21571, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 77 FR 32407, June 1, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16737, Apr. 16, 2018; 84 FR 15840, Apr. 16, 2019; 86 FR 6115, Jan. 19, 2021; 87 FR 27899, May 9, 2022]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 1543, Jan. 12, 2009; 76 FR 21571, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 77 FR 32407, June 1, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16737, Apr. 16, 2018; 84 FR 15840, Apr. 16, 2019; 86 FR 6115, Jan. 19, 2021; 87 FR 27899, May 9, 2022; 87 FR 27899, Jan. 1, 2024]

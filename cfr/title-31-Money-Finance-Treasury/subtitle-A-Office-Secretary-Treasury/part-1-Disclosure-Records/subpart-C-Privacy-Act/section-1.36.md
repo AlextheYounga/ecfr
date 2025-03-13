@@ -1,7 +1,5 @@
 ##### § 1.36 Systems exempt in whole or in part from provisions of the Privacy Act and this part. #####
 
-Link to an amendment published at 88 FR 81347, Nov. 22, 2023.
-
 (a) *In general.* In accordance with 5 U.S.C. 552a(j) and (k) and § 1.23(c), Treasury hereby exempts the systems of records identified in paragraphs (c) through (o) of this section from the following provisions of the Privacy Act for the reasons indicated.
 
 (b) *Authority.* The rules in this section are promulgated pursuant to the authority vested in the Secretary of the Treasury by 5 U.S.C. 552a(j) and (k) and pursuant to the authority of § 1.23(c).
@@ -334,6 +332,7 @@ Table 18 to Paragraph (g)(1)(ix)
 |         FinCEN .001         |                                                     FinCEN Database.                                                     |
 |         FinCEN .002         |                                          Suspicious Activity Reporting System.                                           |
 |FinCEN .003  <br/>FinCEN .004|Bank Secrecy Act Reports System.  <br/>Beneficial Ownership Information System (not exempt from 552a(e)(3) and (e)(4)(I)).|
+|         FinCEN .004         |        Beneficial Ownership Information System (not exempt from 5 U.S.C. 552a(e)(3) and 5 U.S.C. 552a(e)(4)(I)).         |
 
 (2) The Department hereby exempts the systems of records listed in paragraphs (g)(1)(i) through (ix) of this section from the following provisions of the Privacy Act, pursuant to 5 U.S.C. 552a(k)(2): 5 U.S.C. 552a(c)(3), 5 U.S.C. 552a(d)(1), (2), (3), (4), 5 U.S.C. 552a(e)(1), 5 U.S.C. 552a(e)(4)(G), (H), and (I), and 5 U.S.C. 552a(f).
 
@@ -479,4 +478,4 @@ Table 25 to Paragraph (m)(1)(ii)
 
 (o) *Exempt information included in another system.* Any information from a system of records for which an exemption is claimed under 5 U.S.C. 552a(j) or (k) which is also included in another system of records retains the same exempt status such information has in the system for which such exemption is claimed.
 
-[88 FR 88815, Dec. 26, 2023]
+[88 FR 88815, Dec. 26, 2023]Editorial Note:At 88 FR 81347, Nov. 22, 2023, § 1.36 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

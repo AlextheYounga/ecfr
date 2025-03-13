@@ -1,7 +1,5 @@
 ##### § 423.2305 Definitions. #####
 
-Link to an amendment published at 87 FR 27902, May 9, 2022.
-
 As used in this subpart, unless otherwise specified—
 
 *Applicable discount* means 50 percent or, with respect to a plan year after plan year 2018, 70 percent of the portion of the negotiated price (as defined in this section) of the applicable drug of a manufacturer that falls within the coverage gap and that remains after such negotiated price is reduced by any supplemental benefits that are available.
@@ -24,16 +22,20 @@ As used in this subpart, unless otherwise specified—
 
 *Negotiated price* for purposes of the Discount Program, means the price for a covered Part D drug that—
 
-(1) The Part D sponsor (or other intermediary contracting organization) and the network dispensing pharmacy or other network dispensing provider have negotiated as the amount such network entity will receive, in total, for a particular drug;
+(1) The Part D sponsor (or other intermediary contracting organization) and the network dispensing pharmacy or other network dispensing provider have negotiated as the lowest possible reimbursement such network entity will receive, in total, for a particular drug;
 
-(2) Is reduced by those discounts, direct or indirect subsidies, rebates, other price concessions, and direct or indirect remuneration that the Part D sponsor has elected to pass through to Part D enrollees at the point-of-sale; and
+(i) Includes all price concessions (as defined in § 423.100) from network pharmacies or other network providers; and
+
+(ii) Excludes additional contingent amounts, such as incentive fees, if these amounts increase prices;
+
+(2) Is reduced by those discounts, direct or indirect subsidies, rebates, non-pharmacy price concessions, and direct or indirect remuneration that the Part D sponsor has elected to pass through to Part D enrollees at the point-of-sale; and
 
 (3) Excludes any dispensing fee or vaccine administration fee for the applicable drug.
 
-In connection with applicable drugs dispensed by an out-of-network provider in accordance with the applicable beneficiary's Part D plan out-of-network policies, the negotiated price means the plan allowance as set forth in § 423.124, less any dispensing fee or vaccine administration fee.
+(4)In connection with applicable drugs dispensed by an out-of-network provider in accordance with the applicable beneficiary's Part D plan out-of-network policies, the negotiated price means the plan allowance as set forth in § 423.124, less any dispensing fee or vaccine administration fee.
 
 *Other health or prescription drug coverage* means any coverage or financial assistance under other health benefit plans or programs that provide coverage or financial assistance for the purchase or provision of prescription drug coverage on behalf of applicable beneficiaries, including, in the case of employer group health or waiver plans, other than basic prescription drug coverage as defined in § 423.100.
 
 *Third Party Administrator* (TPA) means the CMS contractor responsible for administering the requirements established by the CMS to carry out section 1860D-14A of the Act.
 
-[77 FR 22172, Apr. 12, 2012, as amended at 86 FR 6131, Jan. 19, 2021]
+[77 FR 22172, Apr. 12, 2012, as amended at 86 FR 6131, Jan. 19, 2021; 87 FR 27902, May 9, 2022]

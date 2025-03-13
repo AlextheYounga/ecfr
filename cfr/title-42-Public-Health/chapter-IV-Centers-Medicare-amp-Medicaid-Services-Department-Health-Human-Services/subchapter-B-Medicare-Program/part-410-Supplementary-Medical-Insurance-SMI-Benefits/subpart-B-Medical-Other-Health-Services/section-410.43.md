@@ -1,7 +1,5 @@
 ##### § 410.43 Partial hospitalization services: Conditions and exclusions. #####
 
-Link to an amendment published at 88 FR 82177, Nov. 22, 2023.
-
 (a) Partial hospitalization services are services that—
 
 (1) Are reasonable and necessary for the diagnosis or active treatment of the individual's condition;
@@ -12,11 +10,11 @@ Link to an amendment published at 88 FR 82177, Nov. 22, 2023.
 
 (4) Include any of the following:
 
-(i) Individual and group therapy with physicians or psychologists or other mental health professionals to the extent authorized under State law.
+(i) Individual and group therapy with physicians or psychologists or other mental health professionals (including substance use disorder professionals) to the extent authorized under State law.
 
 (ii) Occupational therapy requiring the skills of a qualified occupational therapist, provided by an occupational therapist, or under appropriate supervision of a qualified occupational therapist by an occupational therapy assistant as specified in part 484 of this chapter.
 
-(iii) Services of social workers, trained psychiatric nurses, and other staff trained to work with psychiatric patients.
+(iii) Services of social workers, trained psychiatric nurses, and other staff trained to work with psychiatric patients (including patients with substance use disorder).
 
 (iv) Drugs and biologicals furnished for therapeutic purposes, subject to the limitations specified in § 410.29.
 
@@ -50,10 +48,10 @@ Link to an amendment published at 88 FR 82177, Nov. 22, 2023.
 
 (4) Have an adequate support system while not actively engaged in the program;
 
-(5) Have a mental health diagnosis;
+(5) Have a mental health or substance use disorder diagnosis;
 
 (6) Are not judged to be dangerous to self or others; and
 
 (7) Have the cognitive and emotional ability to participate in the active treatment process and can tolerate the intensity of the partial hospitalization program.
 
-[59 FR 6577, Feb. 11, 1994, as amended at 65 FR 18536, Apr. 7, 2000; 72 FR 66399, Nov. 27, 2007; 73 FR 68811, Nov. 18, 2008]
+[59 FR 6577, Feb. 11, 1994, as amended at 65 FR 18536, Apr. 7, 2000; 72 FR 66399, Nov. 27, 2007; 73 FR 68811, Nov. 18, 2008; 88 FR 82177, Nov. 22, 2023]

@@ -1,7 +1,5 @@
 ##### § 405.2401 Scope and definitions. #####
 
-Link to an amendment published at 88 FR 79523, Nov. 16, 2023.Link to an amendment published at 88 FR 82176, Nov. 22, 2023.
-
 (a) *Scope.* This subpart establishes the requirements for coverage and reimbursement of rural health clinic and Federally qualified health center services under Medicare.
 
 (b) *Definitions.* As used in this subpart, unless the context indicates otherwise:
@@ -38,7 +36,13 @@ Link to an amendment published at 88 FR 79523, Nov. 16, 2023.Link to an amendmen
 
 *HRSA* means the Health Resources and Services Administration.
 
+*Intensive outpatient services* means a distinct and organized intensive ambulatory treatment program that offers less than 24-hour daily care other than in an individual's home or in an inpatient or residential setting and that furnishes the services as described in § 410.44 of this chapter.
+
+*Marriage and family therapist (MFT)* means an individual who meets the applicable education, training, and other requirements of § 410.53 of this chapter.
+
 *Medicare Administrative Contractor (MAC)* means an organization that has a contract with the Secretary to administer the benefits covered by this subpart as described in § 421.404 of this chapter.
+
+*Mental health counselor (MHC)* means an individual who meets the applicable education, training, and other requirements of § 410.54 of this chapter.
 
 *Nurse practitioner (NP)* means individuals who meet the applicable education, training, and other requirements of § 410.75(b) of this chapter.
 
@@ -58,4 +62,4 @@ Link to an amendment published at 88 FR 79523, Nov. 16, 2023.Link to an amendmen
 
 *Visiting nurse services* means part-time or intermittent nursing care and related medical supplies (other than drugs or biologicals) furnished by a registered professional nurse or licensed practical nurse to a homebound patient.
 
-(Secs. 1102, 1833, 1861(aa), 1871, 1902(a)(13), Social Security Act; 49 Stat. 647, 79 Stat. 302, 322, and 331, 91 Stat. 1485 (42 U.S.C. 1302, 1395*l,* 1395hh, 1395x(aa), and 1396(a)(13))[43 FR 8261, Mar. 1, 1978, as amended at 43 FR 30526, July 14, 1978; 47 FR 21049, May 17, 1982; 47 FR 23448, May 28, 1982; 51 FR 41351, Nov. 14, 1986; 57 FR 24975, June 12, 1992; 59 FR 26958, May 25, 1994; 60 FR 63176, Dec. 8, 1995; 61 FR 14657, Apr. 3, 1996; 69 FR 74815, Dec. 24, 2003; 71 FR 55345, Sept. 22, 2006; 79 FR 25473, May 2, 2014; 83 FR 60072, Nov. 23, 2018]
+(Secs. 1102, 1833, 1861(aa), 1871, 1902(a)(13), Social Security Act; 49 Stat. 647, 79 Stat. 302, 322, and 331, 91 Stat. 1485 (42 U.S.C. 1302, 1395*l,* 1395hh, 1395x(aa), and 1396(a)(13))[43 FR 8261, Mar. 1, 1978, as amended at 43 FR 30526, July 14, 1978; 47 FR 21049, May 17, 1982; 47 FR 23448, May 28, 1982; 51 FR 41351, Nov. 14, 1986; 57 FR 24975, June 12, 1992; 59 FR 26958, May 25, 1994; 60 FR 63176, Dec. 8, 1995; 61 FR 14657, Apr. 3, 1996; 69 FR 74815, Dec. 24, 2003; 71 FR 55345, Sept. 22, 2006; 79 FR 25473, May 2, 2014; 83 FR 60072, Nov. 23, 2018; 88 FR 79523, Nov. 16, 2023; 88 FR 82176, Nov. 22, 2023]

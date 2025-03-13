@@ -1,10 +1,8 @@
 ##### § 410.49 Cardiac rehabilitation program and intensive cardiac rehabilitation program: Conditions of coverage. #####
 
-Link to an amendment published at 88 FR 79526, Nov. 16, 2023.
-
 (a) *Definitions.* As used in this section:
 
-*Cardiac rehabilitation* (CR) means a physician-supervised program that furnishes physician prescribed exercise, cardiac risk factor modification, psychosocial assessment, and outcomes assessment.
+*Cardiac rehabilitation (CR)* means a physician or nonphysician practitioner supervised program that furnishes physician prescribed exercise, cardiac risk factor modification, psychosocial assessment, and outcomes assessment.
 
 *Individualized treatment plan* means a written plan tailored to each individual patient that includes all of the following:
 
@@ -14,11 +12,13 @@ Link to an amendment published at 88 FR 79526, Nov. 16, 2023.
 
 (iii) The goals set for the individual under the plan.
 
-*Intensive cardiac rehabilitation (ICR) program* means a physician-supervised program that furnishes cardiac rehabilitation and has shown, in peer-reviewed published research, that it improves patients' cardiovascular disease through specific outcome measurements described in paragraph (c) of this section.
+*Intensive cardiac rehabilitation (ICR) program* means a physician or nonphysician practitioner supervised program that furnishes cardiac rehabilitation and has shown, in peer-reviewed published research, that it improves patients' cardiovascular disease through specific outcome measurements described in paragraph (c) of this section.
 
 *Intensive cardiac rehabilitation site* means a hospital outpatient setting or physician's office that is providing intensive cardiac rehabilitation utilizing an approved ICR program.
 
 *Medical director* means the physician who oversees the cardiac rehabilitation or intensive cardiac rehabilitation program at a particular site.
+
+*Nonphysician practitioner* means a physician assistant, nurse practitioner, or clinical nurse specialist as those terms are defined in section 1861(aa)(5)(A) of the Act.
 
 *Outcomes assessment* means an evaluation of progress as it relates to the individual's rehabilitation which includes all of the following:
 
@@ -32,7 +32,7 @@ Link to an amendment published at 88 FR 79526, Nov. 16, 2023.
 
 *Psychosocial assessment* means an evaluation of an individual's mental and emotional functioning as it relates to the individual's rehabilitation which includes an assessment of those aspects of an individual's family and home situation that affects the individual's rehabilitation treatment, and psychosocial evaluation of the individual's response to and rate of progress under the treatment plan.
 
-*Supervising physician* means a physician that is immediately available and accessible for medical consultations and medical emergencies at all times items and services are being furnished to individuals under cardiac rehabilitation and intensive cardiac rehabilitation programs.
+*Supervising practitioner* means a physician or nonphysician practitioner that is immediately available and accessible for medical consultations and medical emergencies at all times items and services are being furnished to individuals under cardiac rehabilitation and intensive cardiac rehabilitation programs.
 
 (b) *General rule*—(1) *Covered conditions.* Medicare Part B covers cardiac rehabilitation and intensive cardiac rehabilitation for beneficiaries who have experienced one or more of the following:
 
@@ -70,7 +70,7 @@ Link to an amendment published at 88 FR 79526, Nov. 16, 2023.
 
 (B) A hospital outpatient setting.
 
-(ii) All settings must have a physician immediately available and accessible for medical consultations and emergencies at all times when items and services are being furnished under the program. This provision is satisfied if the physician meets the requirements for direct supervision for physician office services, at § 410.26 of this subpart; and for hospital outpatient services at § 410.27 of this subpart.
+(ii) All settings must have a physician or nonphysician practitioner immediately available and accessible for medical consultations and emergencies at all times when items and services are being furnished under the program. This provision is satisfied if the physician or nonphysician practitioner meets the requirements for direct supervision for physician office services, at § 410.26 of this subpart; and for hospital outpatient services at § 410.27 of this subpart.
 
 (c) *Standards for an intensive cardiac rehabilitation program.* (1) To be approved as an intensive cardiac rehabilitation program, a program must demonstrate through peer-reviewed, published research that it has accomplished one or more of the following for its patients:
 
@@ -106,16 +106,14 @@ Link to an amendment published at 88 FR 79526, Nov. 16, 2023.
 
 (3) Be licensed to practice medicine in the State in which the cardiac rehabilitation program is offered.
 
-(e) *Supervising physician standards.* Physicians acting as the supervising physician must possess all of the following:
+(e) *Supervising practitioner standards.* Physicians or nonphysician practitioners acting as the supervising practitioner must possess all of the following:
 
 (1) Expertise in the management of individuals with cardiac pathophysiology.
 
 (2) Cardiopulmonary training in basic life support or advanced cardiac life support.
 
-(3) Be licensed to practice medicine in the State in which the cardiac rehabilitation program is offered.
-
 (f) *Limitations on coverage*—(1) *Cardiac rehabilitation.* The number of cardiac rehabilitation sessions are limited to a maximum of 2 1-hour sessions per day for up to 36 sessions over up to 36 weeks with the option for an additional 36 sessions over an extended period of time if approved by the Medicare Administrative Contractor.
 
 (2) *Intensive cardiac rehabilitation.* Intensive cardiac rehabilitation sessions are limited to 72 1-hour sessions (as defined in section 1848(b)(5) of the Act), up to 6 sessions per day, over a period of up to 18 weeks.
 
-[74 FR 62003, Nov. 25, 2009, as amended at 84 FR 63188, Nov. 15, 2019; 86 FR 65663, Nov. 19, 2021]
+[74 FR 62003, Nov. 25, 2009, as amended at 84 FR 63188, Nov. 15, 2019; 86 FR 65663, Nov. 19, 2021; 88 FR 79526, Nov. 16, 2023]

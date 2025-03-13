@@ -1,7 +1,5 @@
 ##### § 425.106 Shared governance. #####
 
-Link to an amendment published at 88 FR 79544, Nov. 16, 2023.
-
 (a) *General rule.* (1) An ACO must maintain an identifiable governing body with ultimate authority to execute the functions of an ACO as defined under this part, including but not limited to, the processes defined under § 425.112 to promote evidence-based medicine and patient engagement, to report on quality and cost measures, and to coordinate care.
 
 (2) The governing body of the ACO must satisfy all of the following criteria:
@@ -38,7 +36,9 @@ Link to an amendment published at 88 FR 79544, Nov. 16, 2023.
 
 (4) The governing body members may serve in a similar or complementary manner for an ACO participant.
 
-(5) In cases in which the composition of the ACO's governing body does not meet the requirements of paragraphs (c)(2) and (c)(3) of this section, the ACO must describe why it seeks to differ from these requirements and how the ACO will involve ACO participants in innovative ways in ACO governance or provide meaningful representation in ACO governance by Medicare beneficiaries.
+(5)(i) In cases in which the composition of the ACO's governing body does not meet the requirements of paragraph (c)(2) of this section, the ACO must describe why it seeks to differ from these requirements and how the ACO will provide meaningful representation in ACO governance by Medicare beneficiaries.
+
+(ii) For agreement periods beginning before January 1, 2024, in cases in which the composition of the ACO's governing body does not meet the requirements of paragraph (c)(3) of this section, the ACO must describe why it seeks to differ from these requirements and how the ACO will involve ACO participants in innovative ways in ACO governance.
 
 (d) *Conflict of interest.* The ACO governing body must have a conflict of interest policy that applies to members of the governing body. The conflict of interest policy must—
 
@@ -48,4 +48,4 @@ Link to an amendment published at 88 FR 79544, Nov. 16, 2023.
 
 (3) The conflict of interest policy must address remedial action for members of the governing body that fail to comply with the policy.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32835, June 9, 2015]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32835, June 9, 2015; 88 FR 79544, Nov. 16, 2023]

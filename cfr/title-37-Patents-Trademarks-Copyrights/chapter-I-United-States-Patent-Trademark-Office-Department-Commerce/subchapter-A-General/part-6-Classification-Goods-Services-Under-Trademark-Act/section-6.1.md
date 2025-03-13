@@ -1,12 +1,12 @@
 ##### § 6.1 International schedule of classes of goods and services. #####
 
-Link to an amendment published at 88 FR 50769, Aug. 2, 2023.Goods
+GOODS
 
 1. Chemicals for use in industry, science and photography, as well as in agriculture, horticulture and forestry; unprocessed artificial resins, unprocessed plastics; fire extinguishing and fire prevention compositions; tempering and soldering preparations; substances for tanning animal skins and hides; adhesives for use in industry; putties and other paste fillers; compost, manures, fertilizers; biological preparations for use in industry and science.
 
 2. Paints, varnishes, lacquers; preservatives against rust and against deterioration of wood; colorants, dyes; inks for printing, marking and engraving; raw natural resins; metals in foil and powder form for use in painting, decorating, printing and art.
 
-3. Non-medicated cosmetics and toiletry preparations; non-medicated dentifrices; perfumery, essential oils; bleaching preparations and other substances for laundry use; cleaning, polishing, scouring and abrasive preparations.
+3. Non-medicated cosmetics and toiletry preparations; non-medicated dentifrices; perfumery, essential oils; bleaching preparations and other substances for laundry use; cleaning, polishing and abrasive preparations.
 
 4. Industrial oils and greases, wax; lubricants; dust absorbing, wetting and binding compositions; fuels and illuminants; candles and wicks for lighting.
 
@@ -70,7 +70,7 @@ Link to an amendment published at 88 FR 50769, Aug. 2, 2023.Goods
 
 34. Tobacco and tobacco substitutes; cigarettes and cigars; electronic cigarettes and oral vaporizers for smokers; smokers' articles; matches.
 
-Services
+SERVICES
 
 35. Advertising; business management, organization and administration; office functions.
 
@@ -94,4 +94,4 @@ Services
 
 45. Legal services; security services for the physical protection of tangible property and individuals; dating services, online social networking services; funerary services; babysitting.
 
-[87 FR 61246, Oct. 11, 2022]
+[88 FR 50769, Aug. 2, 2023]

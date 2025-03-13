@@ -1,7 +1,5 @@
 ##### § 891.445 Conditions for receipt of vacancy payments for assisted units. #####
 
-Link to an amendment published at 88 FR 9669, Feb. 14, 2023.
-
 (a) *General.* Vacancy payments under the PRAC will not be made unless the conditions for receipt of these project rental assistance payments set forth in this section are fulfilled.
 
 (b) *Vacancies during rent-up.* For each unit (or residential space in a group home) that is not leased as of the effective date of the PRAC, the Owner is entitled to vacancy payments in the amount of 50 percent of the per unit operating cost (or pro rata share of the group home operating cost) for the first 60 days of vacancy, if the Owner:
@@ -22,4 +20,6 @@ Link to an amendment published at 88 FR 9669, Feb. 14, 2023.
 
 (4) For any vacancy resulting from the Owner's eviction of an eligible household, certifies that it has complied with § 891.430.
 
-(d) *Prohibition of double compensation for vacancies.* If the Owner collects payments for vacancies from other sources (tenant payment, security deposits, payments under § 891.435(c), or governmental payments under other programs), the Owner shall not be entitled to collect vacancy payments to the extent these collections from other sources plus the vacancy payment exceed the approved per unit operating cost.
+(d) *Prohibition of double compensation for vacancies.* If the Owner collects payments for vacancies from other sources (tenant rent, security deposits, payments under § 891.435(c), or governmental payments under other programs), the Owner shall not be entitled to collect vacancy payments to the extent these collections from other sources plus the vacancy payment exceed the approved per unit operating cost.
+
+[61 FR 11956, Mar. 22, 1996, as amended at 88 FR 9669, Feb. 14, 2023]

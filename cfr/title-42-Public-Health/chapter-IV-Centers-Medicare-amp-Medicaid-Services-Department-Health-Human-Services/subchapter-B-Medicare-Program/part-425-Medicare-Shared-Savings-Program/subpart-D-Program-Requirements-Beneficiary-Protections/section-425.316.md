@@ -1,7 +1,5 @@
 ##### § 425.316 Monitoring of ACOs. #####
 
-Link to an amendment published at 88 FR 79544, Nov. 16, 2023.
-
 (a) *General rule.* (1) In order to ensure that the ACO continues to satisfy the eligibility and program requirements under this part, CMS monitors and assesses the performance of ACOs, their ACO participants, and ACO providers/suppliers.
 
 (2) CMS employs a range of methods to monitor and assess the performance of ACOs, ACO participants, and ACO providers/suppliers, including but not limited to any of the following, as appropriate:
@@ -54,12 +52,12 @@ Link to an amendment published at 88 FR 79544, Nov. 16, 2023.
 
 (e) *Monitoring ACO eligibility for advance investment payments.* (1) CMS monitors an ACO that receives advance investment payments pursuant to § 425.630 for changes in its ACO participants that may cause the ACO to no longer meet the standards specified in § 425.630(b)(3) and (4).
 
-(2) If CMS determines during any performance year of the agreement period that an ACO receiving advance investment payments is experienced with performance-based risk Medicare ACO initiatives or is a high revenue ACO, CMS—
+(2) If CMS determines that an ACO participating in advance investment payments became experienced with performance-based risk Medicare ACO initiatives during its first or second performance year of its agreement period or that the ACO became a high revenue ACO during any performance year of its agreement period, CMS—
 
-(i) Will cease payment of advance investment payments, starting the quarter after the ACO became experienced with performance-based risk Medicare ACO initiatives or became a high revenue ACO.
+(i) Will cease payment of advance investment payments no later than the quarter after the ACO became experienced with performance-based risk Medicare ACO initiatives or became a high revenue ACO.
 
 (ii) May take compliance action as specified in §§ 425.216 and 425.218.
 
 (3) If an ACO remains an ACO experienced with performance-based risk Medicare ACO initiatives or a high revenue ACO after a deadline specified by CMS pursuant to compliance action under this section, the ACO must repay all advance investment payments it received. CMS will provide written notification to the ACO of the amount due and the ACO must pay such amount no later than 90 days after the receipt of such notification.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 68069, Dec. 31, 2018; 85 FR 85039, Dec. 28, 2020; 87 FR 70233, Nov. 18, 2022]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 83 FR 68069, Dec. 31, 2018; 85 FR 85039, Dec. 28, 2020; 87 FR 70233, Nov. 18, 2022; 88 FR 79544, Nov. 16, 2023]

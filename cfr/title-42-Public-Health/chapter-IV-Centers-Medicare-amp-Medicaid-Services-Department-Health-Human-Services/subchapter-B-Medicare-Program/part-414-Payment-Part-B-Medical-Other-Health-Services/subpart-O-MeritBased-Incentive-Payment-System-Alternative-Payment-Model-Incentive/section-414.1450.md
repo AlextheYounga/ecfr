@@ -1,12 +1,16 @@
 ##### § 414.1450 APM incentive payment. #####
 
-Link to an amendment published at 88 FR 79539, Nov. 16, 2023.
-
 (a) *In general.* (1) CMS makes a lump sum payment to QPs in the amount described in paragraph (b) of this section in the manner described in paragraphs (d) and (e) of this section.
+
+(i) For payment years 2019 through 2025, CMS makes a lump sum payment to QPs in the amount described in paragraph (b) of this section in the manner described in paragraphs (d) and (e) of this section.
+
+(ii) [Reserved]
 
 (2) CMS provides notice of the amount of the APM Incentive Payment to QPs as soon as practicable following the calculation and validation of the APM Incentive Payment amount, but in any event no later than 1 year after the incentive payment base period.
 
-(b) *APM Incentive Payment amount.*(1) The amount of the APM Incentive Payment is equal to 5 percent of the estimated aggregate payments for covered professional services as defined in section 1848(k)(3)(A) of the Act furnished during the calendar year immediately preceding the payment year. CMS uses the paid amounts on claims for covered professional services to calculate the estimated aggregate payments on which CMS will calculate the APM Incentive Payment.
+(b) *APM Incentive Payment amount.*
+
+(1) For payment years 2019 through 2024, the amount of the APM Incentive Payment is equal to 5 percent or, with respect to payment year 2025, 3.5 percent of the estimated aggregate payments for covered professional services as defined in section 1848(k)(3)(A) of the Act furnished during the calendar year immediately preceding the payment year. CMS uses the paid amounts on claims for covered professional services to calculate the estimated aggregate payments on which CMS will calculate the APM Incentive Payment.
 
 (2) The estimated aggregate payment amount for covered professional services includes all such payments to any and all of the TIN/NPI combinations associated with the NPI of the QP.
 
@@ -56,4 +60,4 @@ Link to an amendment published at 88 FR 79539, Nov. 16, 2023.
 
 (f) *Treatment of APM Incentive Payment for other Medicare incentive payments and payment adjustments.* APM Incentive Payments made under this section will not be included in determining the amount of incentive payment made to eligible clinicians under section 1833(m), (x), and (y) of the Act.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 85 FR 85035, Dec. 28, 2020; 86 FR 65681, Nov. 19, 2021; 87 FR 70230, Nov. 18, 2022]
+[81 FR 77537, Nov. 4, 2016, as amended at 85 FR 85035, Dec. 28, 2020; 86 FR 65681, Nov. 19, 2021; 87 FR 70230, Nov. 18, 2022; 88 FR 79539, Nov. 16, 2023]

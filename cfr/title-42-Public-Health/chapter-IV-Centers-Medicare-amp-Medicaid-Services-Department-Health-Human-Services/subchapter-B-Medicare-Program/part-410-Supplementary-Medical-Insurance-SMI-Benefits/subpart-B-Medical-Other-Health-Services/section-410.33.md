@@ -1,7 +1,5 @@
 ##### § 410.33 Independent diagnostic testing facility. #####
 
-Link to an amendment published at 88 FR 79526, Nov. 16, 2023.
-
 (a) *General rule.* (1) Effective for diagnostic procedures performed on or after March 15, 1999, carriers will pay for diagnostic procedures under the physician fee schedule only when performed by a physician, a group practice of physicians, an approved supplier of portable x-ray services, a nurse practitioner, or a clinical nurse specialist when he or she performs a test he or she is authorized by the State to perform, or an independent diagnostic testing facility (IDTF). An IDTF may be a fixed location, a mobile entity, or an individual nonphysician practitioner. It is independent of a physician's office or hospital; however, these rules apply when an IDTF furnishes diagnostic procedures in a physician's office.
 
 (2) *Exceptions.* The following diagnostic tests that are payable under the physician fee schedule and furnished by a nonhospital testing entity are not required to be furnished in accordance with the criteria set forth in paragraphs (b) through (e) and (g) and (h) of this section.
@@ -38,7 +36,7 @@ Link to an amendment published at 88 FR 79526, Nov. 16, 2023.
 
 (1) Operates its business in compliance with all applicable Federal and State licensure and regulatory requirements for the health and safety of patients.
 
-(2) Provides complete and accurate information on its enrollment application. Changes in ownership, changes of location, changes in general supervision, and adverse legal actions must be reported to the Medicare fee-for-service contractor on the Medicare enrollment application within 30 calendar days of the change. All other changes to the enrollment application must be reported within 90 days.
+(2) Provides complete and accurate information on its enrollment application. Changes in ownership, changes of location (including additions and deletions of locations), changes in general supervision, and adverse legal actions must be reported to the Medicare fee-for-service contractor on the Medicare enrollment application within 30 calendar days of the change. All other changes to the enrollment application must be reported within 90 days.
 
 (3) Maintain a physical facility on an appropriate site. For the purposes of this standard, a post office box, commercial mailbox, hotel, or motel is not considered an appropriate site.
 
@@ -120,4 +118,4 @@ Link to an amendment published at 88 FR 79526, Nov. 16, 2023.
 
 (2) The date the IDTF first started furnishing services at its new practice location.
 
-[62 FR 59099, Oct. 31, 1997, as amended at 64 FR 59440, Nov. 2, 1999; 71 FR 69784, Dec. 1, 2006; 72 FR 18914, Apr. 16, 2007; 72 FR 66398, Nov. 27, 2007; 73 FR 2432, Jan. 15, 2008; 73 FR 69933, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 86 FR 65662, Nov. 19, 2021]
+[62 FR 59099, Oct. 31, 1997, as amended at 64 FR 59440, Nov. 2, 1999; 71 FR 69784, Dec. 1, 2006; 72 FR 18914, Apr. 16, 2007; 72 FR 66398, Nov. 27, 2007; 73 FR 2432, Jan. 15, 2008; 73 FR 69933, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 86 FR 65662, Nov. 19, 2021; 88 FR 79526, Nov. 16, 2023]

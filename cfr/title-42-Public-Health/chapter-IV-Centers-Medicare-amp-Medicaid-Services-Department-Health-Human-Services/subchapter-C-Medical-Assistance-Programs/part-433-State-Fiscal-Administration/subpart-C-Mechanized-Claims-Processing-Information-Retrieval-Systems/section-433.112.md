@@ -1,7 +1,5 @@
 ##### § 433.112 FFP for design, development, installation or enhancement of mechanized processing and information retrieval systems. #####
 
-Link to an amendment published at 88 FR 60312, Aug. 31, 2023.
-
 (a) Subject to paragraph (c) of this section, FFP is available at the 90 percent rate in State expenditures for the design, development, installation, or enhancement of a mechanized claims processing and information retrieval system only if the APD is approved by CMS prior to the State's expenditure of funds for these purposes.
 
 (b) CMS will approve the E&E or claims system described in an APD if certain conditions are met. The conditions that a system must meet are:
@@ -28,7 +26,7 @@ Link to an amendment published at 88 FR 60312, Aug. 31, 2023.
 
 (11) Align to, and advance increasingly, in MITA maturity for business, architecture, and data.
 
-(12) The agency ensures alignment with, and incorporation of, industry standards adopted by the Office of the National Coordinator for Health IT in accordance with 45 CFR part 170, subpart B: The HIPAA privacy, security and transaction standards; accessibility standards established under section 508 of the Rehabilitation Act, or standards that provide greater accessibility for individuals with disabilities, and compliance with Federal civil rights laws; standards adopted by the Secretary under section 1104 of the Affordable Care Act; and standards and protocols adopted by the Secretary under section 1561 of the Affordable Care Act.
+(12) The agency ensures alignment with, and incorporation of, standards and implementation specifications for health information technology adopted by the Office of the National Coordinator for Health IT in 45 CFR part 170, subpart B. The agency also ensures alignment with: the HIPAA privacy, security, breach notification and enforcement regulations in 45 CFR parts 160 and 164; and the transaction standards and operating rules adopted by the Secretary under HIPAA and/or section 1104 of the Affordable Care Act. The agency meets accessibility standards established under section 508 of the Rehabilitation Act, or standards that provide greater accessibility for individuals with disabilities, and compliance with Federal civil rights laws; standards and protocols adopted by the Secretary under section 1561 of the Affordable Care Act; standards and protocols for reporting on the Child and Adult Core Sets as adopted by the Secretary under sections 1139A, 1139B, and 1902(a)(6) of the Act, and 42 CFR part 437 subpart A; and standards and protocols for reporting on the Health Home Core Sets as adopted by the Secretary under sections 1902(a)(6), 1945(c)(4)(B) and (g), and 1945A(g) of the Act and 42 CFR part 437 subpart A.
 
 (13) Promote sharing, leverage, and reuse of Medicaid technologies and systems within and among States.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 88 FR 60312, Aug. 31, 2023.
 
 (2) Design, development, installation, or enhancement costs include costs for initial licensing of commercial off the shelf (COTS) software, and the minimum necessary costs to analyze the suitability of COTS software, install, configure and integrate the COTS software, and modify non-COTS software to ensure coordination of operations. The nature and extent of such costs must be expressly described in the approved APD.
 
-[43 FR 45201, Sept. 29, 1978, as amended at 44 FR 17937, Mar. 23, 1979; 45 FR 14213, Mar. 5, 1980; 50 FR 30846, July 30, 1985; 51 FR 45330, Dec. 18, 1986; 54 FR 41973, Oct. 13, 1989; 55 FR 1820, Jan. 19, 1990; 55 FR 4375, Feb. 7, 1990; 76 FR 21973, Apr. 19, 2011; 80 FR 75842, Dec. 4, 2015; 81 FR 3011, Jan. 20, 2016]
+[43 FR 45201, Sept. 29, 1978, as amended at 44 FR 17937, Mar. 23, 1979; 45 FR 14213, Mar. 5, 1980; 50 FR 30846, July 30, 1985; 51 FR 45330, Dec. 18, 1986; 54 FR 41973, Oct. 13, 1989; 55 FR 1820, Jan. 19, 1990; 55 FR 4375, Feb. 7, 1990; 76 FR 21973, Apr. 19, 2011; 80 FR 75842, Dec. 4, 2015; 81 FR 3011, Jan. 20, 2016; 88 FR 60312, Aug. 31, 2023]

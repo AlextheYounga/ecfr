@@ -1,7 +1,5 @@
 ##### § 410.47 Pulmonary rehabilitation program: Conditions for coverage. #####
 
-Link to an amendment published at 88 FR 79526, Nov. 16, 2023.
-
 (a) *Definitions.* As used in this section:
 
 *Individualized treatment plan* means a written plan tailored to each individual patient that includes all of the following:
@@ -13,6 +11,8 @@ Link to an amendment published at 88 FR 79526, Nov. 16, 2023.
 (iii) The goals set for the individual under the plan.
 
 *Medical director* means the physician who oversees the pulmonary rehabilitation program at a particular site.
+
+*Nonphysician practitioner* means a physician assistant, nurse practitioner, or clinical nurse specialist as those terms are defined in section 1861(aa)(5)(A) of the Act.
 
 *Outcomes assessment* means an evaluation of progress as it relates to the individual's rehabilitation which includes the following:
 
@@ -26,9 +26,9 @@ Link to an amendment published at 88 FR 79526, Nov. 16, 2023.
 
 *Psychosocial assessment* means an evaluation of an individual's mental and emotional functioning as it relates to the individual's rehabilitation or respiratory condition which includes an assessment of those aspects of an individual's family and home situation that affects the individual's rehabilitation treatment, and psychosocial evaluation of the individual's response to and rate of progress under the treatment plan.
 
-*Pulmonary rehabilitation* means a physician-supervised program for COPD and certain other chronic respiratory diseases designed to optimize physical and social performance and autonomy.
+*Pulmonary rehabilitation* means a physician or nonphysician practitioner supervised program for COPD and certain other chronic respiratory diseases designed to optimize physical and social performance and autonomy.
 
-*Supervising physician* means a physician that is immediately available and accessible for medical consultations and medical emergencies at all times items and services are being furnished to individuals under pulmonary rehabilitation programs.
+*Supervising practitioner* means a physician or nonphysician practitioner that is immediately available and accessible for medical consultations and medical emergencies at all times items and services are being furnished to individuals under pulmonary rehabilitation programs.
 
 (b) *General rule*—(1) *Covered conditions.* Medicare Part B covers pulmonary rehabilitation for beneficiaries:
 
@@ -58,7 +58,7 @@ Link to an amendment published at 88 FR 79526, Nov. 16, 2023.
 
 (ii) All settings must have the following:
 
-(A) A physician immediately available and accessible for medical consultations and emergencies at all times when items and services are being furnished under the program. This provision is satisfied if the physician meets the requirements for direct supervision for physician office services, at § 410.26 of this subpart; and for hospital outpatient services at § 410.27 of this subpart.
+(A) A physician or nonphysician practitioner immediately available and accessible for medical consultations and emergencies at all times when items and services are being furnished under the program. This provision is satisfied if the physician or nonphysician practitioner meets the requirements for direct supervision for physician office services, at § 410.26 of this subpart; and for hospital outpatient services at § 410.27 of this subpart.
 
 (B) The necessary cardio-pulmonary, emergency, diagnostic, and therapeutic life-saving equipment accepted by the medical community as medically necessary (for example, oxygen, cardiopulmonary resuscitation equipment, and defibrillator) to treat chronic respiratory disease.
 
@@ -70,16 +70,14 @@ Link to an amendment published at 88 FR 79526, Nov. 16, 2023.
 
 (3) Be licensed to practice medicine in the State in which the pulmonary rehabilitation program is offered.
 
-(d) *Supervising physician standards.* Physicians acting as the supervising physician must possess all of the following:
+(d) *Supervising practitioner standards.* Physicians or nonphysician practitioners acting as the supervising practitioner must possess all of the following:
 
 (1) Expertise in the management of individuals with respiratory pathophysiology.
 
 (2) Cardiopulmonary training in basic life support or advanced cardiac life support.
 
-(3) Be licensed to practice medicine in the State in which the pulmonary rehabilitation program is offered.
-
 (e) *Limitations on coverage:* The number of pulmonary rehabilitation sessions are limited to a maximum of 2 1-hour sessions per day for up to 36 sessions over up to 36 weeks with the option for an additional 36 sessions over an extended period of time if approved by the Medicare Administrative Contractor.
 
 (f) *Effective date.* Coverage for pulmonary rehabilitation program services is effective January 1, 2010.
 
-[74 FR 62002, Nov. 25, 2009, as amended at 86 FR 65662, Nov. 19, 2021]
+[74 FR 62002, Nov. 25, 2009, as amended at 86 FR 65662, Nov. 19, 2021; 88 FR 79526, Nov. 16, 2023]

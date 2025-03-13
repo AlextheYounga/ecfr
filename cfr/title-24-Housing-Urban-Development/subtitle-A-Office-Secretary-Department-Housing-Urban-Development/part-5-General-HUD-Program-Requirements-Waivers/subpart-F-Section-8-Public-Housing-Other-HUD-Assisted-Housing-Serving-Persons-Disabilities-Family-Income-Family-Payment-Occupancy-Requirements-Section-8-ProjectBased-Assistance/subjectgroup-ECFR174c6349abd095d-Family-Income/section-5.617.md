@@ -1,7 +1,5 @@
 ##### § 5.617 Self-sufficiency incentives for persons with disabilities—Disallowance of increase in annual income. #####
 
-Link to an amendment published at 88 FR 9660, Feb. 14, 2023.
-
 (a) *Applicable programs.* The disallowance of earned income provided by this section is applicable only to the following programs: HOME Investment Partnerships Program (24 CFR part 92); Housing Opportunities for Persons with AIDS (24 CFR part 574); Supportive Housing Program (24 CFR part 583); and the Housing Choice Voucher Program (24 CFR part 982).
 
 (b) *Definitions.* The following definitions apply for purposes of this section.
@@ -30,4 +28,8 @@ Link to an amendment published at 88 FR 9660, Feb. 14, 2023.
 
 (d) *Inapplicability to admission.* The disallowance of increases in income as a result of employment of persons with disabilities under this section does not apply for purposes of admission to the program (including the determination of income eligibility or any income targeting that may be applicable).
 
-[66 FR 6223, Jan. 19, 2001, as amended at 67 FR 6820, Feb. 13, 2002; 81 FR 12370, Mar. 8, 2016]
+(e) *Limitation.* This section applies to a family that is receiving the disallowance of earned income under this section on December 31, 2023
+
+(f) *Sunset.* This section will lapse on January 1, 2026.
+
+[66 FR 6223, Jan. 19, 2001, as amended at 67 FR 6820, Feb. 13, 2002; 81 FR 12370, Mar. 8, 2016; 88 FR 9660, Feb. 14, 2023]

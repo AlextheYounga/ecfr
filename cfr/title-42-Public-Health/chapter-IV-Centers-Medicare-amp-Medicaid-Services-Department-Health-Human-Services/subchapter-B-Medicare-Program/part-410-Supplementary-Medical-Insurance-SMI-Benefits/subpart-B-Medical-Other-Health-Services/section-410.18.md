@@ -1,16 +1,8 @@
 ##### § 410.18 Diabetes screening tests. #####
 
-Link to an amendment published at 88 FR 79525, Nov. 16, 2023.
-
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
-*Diabetes* means diabetes mellitus, a condition of abnormal glucose metabolism diagnosed using the following criteria: a fasting blood sugar greater than or equal to 126 mg/dL on two different occasions; a 2-hour post-glucose challenge greater than or equal to 200 mg/dL on two different occasions; or a random glucose test over 200 mg/dL for a person with symptoms of uncontrolled diabetes.
-
-*Pre-diabetes* means a condition of abnormal glucose metabolism diagnosed using the following criteria: a fasting glucose level of 100-125 mg/dL, or a 2-hour post-glucose challenge of 140-199 mg/dL. The term pre-diabetes includes the following conditions:
-
-(1) Impaired fasting glucose.
-
-(2) Impaired glucose tolerance.
+*Diabetes* means diabetes mellitus, a condition of abnormal glucose metabolism.
 
 (b) *General conditions of coverage.* Medicare Part B covers diabetes screening tests after a referral from a physician or qualified nonphysician practitioner to an individual at risk for diabetes for the purpose of early detection of diabetes.
 
@@ -20,13 +12,11 @@ Link to an amendment published at 88 FR 79525, Nov. 16, 2023.
 
 (2) Post-glucose challenges including, but not limited to, an oral glucose tolerance test with a glucose challenge of 75 grams of glucose for non-pregnant adults, a 2-hour post glucose challenge test alone.
 
-(3) Other tests as determined by the Secretary through a national coverage determination.
+(3) Hemoglobin A1C test.
 
-(d) *Amount of testing covered.* Medicare covers the following for individuals:
+(4) Other tests as determined by the Secretary through a national coverage determination.
 
-(1) Diagnosed with pre-diabetes, two screening tests per calendar year.
-
-(2) Previously tested who were not diagnosed with pre-diabetes, or who were never tested before, one screening test per year.
+(d) *Amount of testing covered.* Medicare covers two tests within the 12-month period following the date of the most recent diabetes screening test of that individual.
 
 (e) *Eligible risk factors.* Individuals with the following risk factors are eligible to receive the benefit:
 
@@ -48,4 +38,4 @@ Link to an amendment published at 88 FR 79525, Nov. 16, 2023.
 
 (iv) A history of gestational diabetes mellitus or delivery of a baby weighing more than 9 pounds.
 
-[69 FR 66421, Nov. 15, 2004]
+[69 FR 66421, Nov. 15, 2004, as amended at 88 FR 79525, Nov. 16, 2023]

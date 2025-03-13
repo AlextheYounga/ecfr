@@ -1,7 +1,5 @@
 ##### § 891.105 Definitions. #####
 
-Link to an amendment published at 88 FR 9668, Feb. 14, 2023.
-
 The following definitions apply, as appropriate, throughout this part. Other terms with definitions unique to the particular program are defined in §§ 891.205, 891.305, 891.505, and 891.805, as applicable.
 
 *Acquisition with or without repair* means the purchase of existing housing and related facilities.
@@ -16,6 +14,8 @@ The following definitions apply, as appropriate, throughout this part. Other ter
 
 *Family* is defined in 24 CFR 5.403.
 
+*Gross rent* means contract rent plus any utility allowance.
+
 *Household (eligible household)* means an elderly or disabled household (as defined in §§ 891.205 or 891.305, respectively), as applicable, that meets the project occupancy requirements approved by HUD and, if the household occupies an assisted unit, meets the very low-income requirements described in § 813.102 of this chapter, as modified by the definition of annual income in this section.
 
 *Housing and related facilities* means rental housing structures constructed, rehabilitated, or acquired as permanent residences for use by elderly or disabled households, as applicable. The term includes necessary community space. Except for intermediate care facilities for individuals with developmental disabilities, this term does not include nursing homes, hospitals, intermediate care facilities, or transitional care facilities. For the Loans for the Elderly and Persons with Disabilities Program, see § 891.505.
@@ -23,6 +23,8 @@ The following definitions apply, as appropriate, throughout this part. Other ter
 *Low-income families* shall have the same meaning provided in section 3(b)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437a).
 
 *National Sponsor* means a Sponsor that has one or more Section 202 or one or more Section 811 project(s) under reservation, construction, or management in two or more different HUD geographical regions.
+
+*Net family assets* is defined in § 5.603 of this title.
 
 *Operating costs* means HUD-approved expenses related to the provision of housing and includes:
 
@@ -56,7 +58,7 @@ The following definitions apply, as appropriate, throughout this part. Other ter
 
 *Start-up expenses* mean necessary costs (to plan a Section 202 or Section 811 project, as applicable) incurred by the Sponsor or Owner prior to initial closing.
 
-*Tenant payment to Owner* equals total tenant payment less utility allowance, if any.
+*Tenant rent* equals total tenant payment less utility allowance, if any.
 
 *Total tenant payment* means the monthly amount defined in, and determined in accordance with part 5, subpart F of subtitle A of this title.
 
@@ -64,4 +66,4 @@ The following definitions apply, as appropriate, throughout this part. Other ter
 
 *Very low-income families* shall have the same meaning provided in section 3(b)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437a).
 
-[61 FR 11956, Mar. 22, 1996, as amended at 66 FR 6225, Jan. 19, 2001; 66 FR 8175, Jan. 30, 2001; 68 FR 67320, Dec. 1, 2003; 70 FR 54209, Sept. 13, 2005; 77 FR 5675, Feb. 3, 2012; 78 FR 37112, June 20, 2013; 81 FR 80814, Nov. 16, 2016]
+[61 FR 11956, Mar. 22, 1996, as amended at 66 FR 6225, Jan. 19, 2001; 66 FR 8175, Jan. 30, 2001; 68 FR 67320, Dec. 1, 2003; 70 FR 54209, Sept. 13, 2005; 77 FR 5675, Feb. 3, 2012; 78 FR 37112, June 20, 2013; 81 FR 80814, Nov. 16, 2016; 88 FR 9668, Feb. 14, 2023]

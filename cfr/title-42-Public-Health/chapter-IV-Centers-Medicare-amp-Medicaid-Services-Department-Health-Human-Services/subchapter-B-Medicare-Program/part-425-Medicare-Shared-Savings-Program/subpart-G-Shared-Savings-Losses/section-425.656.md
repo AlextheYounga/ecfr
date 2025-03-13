@@ -1,7 +1,5 @@
 ##### § 425.656 Calculating the regional adjustment to the historical benchmark. #####
 
-Link to an amendment published at 88 FR 79550, Nov. 16, 2023.
-
 (a) *General.* This section describes the methodology for calculating the regional adjustment to the historical benchmark based on the ACO's regional service area expenditures, making separate calculations for the following populations of beneficiaries: ESRD, disabled, aged/dual eligible Medicare and Medicaid beneficiaries, and aged/non-dual eligible Medicare and Medicaid beneficiaries. This section applies to regional adjustment calculations for agreement periods beginning on January 1, 2024, and in subsequent years.
 
 (b) *Calculation of an average per capita expenditure amount for the ACO's regional service area.* To compute an average per capita expenditure amount for the ACO's regional service area, CMS does all of the following:
@@ -10,7 +8,7 @@ Link to an amendment published at 88 FR 79550, Nov. 16, 2023.
 
 (2) Determines the ACO's regional expenditures as specified under § 425.654 for BY3.
 
-(3) Adjusts for differences in severity and case mix between the ACO's assigned beneficiary population for BY3 and the assignable population of beneficiaries for the ACO's regional service area for BY3. The assignable population of beneficiaries is identified using the assignment window corresponding to BY3 that is consistent with the assignment window that applies under the beneficiary assignment methodology selected by the ACO for the performance year according to § 425.400(a)(4)(ii).
+(3) Adjusts for differences in severity and case mix between the ACO's assigned beneficiary population for BY3 and the assignable population of beneficiaries for the ACO's regional service area for BY3. The assignable population of beneficiaries is identified for BY3 using the assignment window or expanded window for assignment that is consistent with the beneficiary assignment methodology selected by the ACO for the performance year according to § 425.400(a)(4)(ii).
 
 (c) *Calculation of the adjustment.* To calculate the adjustment, CMS does all of the following:
 
@@ -24,7 +22,7 @@ Link to an amendment published at 88 FR 79550, Nov. 16, 2023.
 
 (iv) Aged/non-dual eligible Medicare and Medicaid beneficiaries.
 
-(2) Applies a percentage, as determined in paragraph (d) of this section.
+(2) Applies a percentage, as determined in paragraph (e) of this section.
 
 (3) Caps the per capita dollar amount for each Medicare enrollment type (ESRD, disabled, aged/dual eligible Medicare and Medicaid beneficiaries, aged/non-dual eligible Medicare and Medicaid beneficiaries) calculated under paragraph (c)(2) of this section at a dollar amount equal to a percentage of national per capita expenditures for Parts A and B services under the original Medicare fee-for-service program in BY3 for assignable beneficiaries in that enrollment type identified for the 12-month calendar year corresponding to BY3 using data from the CMS Office of the Actuary. The cap is applied as follows:
 
@@ -40,7 +38,11 @@ Link to an amendment published at 88 FR 79550, Nov. 16, 2023.
 
 (5) The offset factor described in paragraph (c)(4) of this section is subject to a minimum value of zero (representing no offset to the negative regional adjustment) and a maximum value of 1 (representing a full offset to the negative regional adjustment).
 
-(d) *Phase-in of weights used in regional adjustment calculation.* (1) The first time that an ACO's benchmark is adjusted based on the ACO's regional service area expenditures, CMS calculates the regional adjustment as follows:
+(d) *Expression of the regional adjustment as a single value.* (1) CMS expresses the regional adjustment as a single value by taking a person-year weighted average of the Medicare enrollment type-specific regional adjustment values determined in paragraph (c) of this section.
+
+(2) CMS uses the regional adjustment expressed as a single value for purposes of determining the adjustment, if any, that will be applied to the benchmark in accordance with § 425.652(a)(8).
+
+(e) *Phase-in of weights used in regional adjustment calculation.* (1) The first time that an ACO's benchmark is adjusted based on the ACO's regional service area expenditures, CMS calculates the regional adjustment as follows:
 
 (i) Using 35 percent of the difference between the average per capita amount of expenditures for the ACO's regional service area and the average per capita amount of the ACO's initial or rebased historical benchmark, if the ACO is determined to have lower spending than the ACO's regional service area.
 
@@ -64,16 +66,16 @@ Link to an amendment published at 88 FR 79550, Nov. 16, 2023.
 
 (i) Multiplies the difference between the average per capita amount of expenditures for the ACO's regional service area and the average per capita amount of the ACO's historical benchmark for each population of beneficiaries (ESRD, disabled, aged/dual eligible Medicare and Medicaid beneficiaries, aged/non-dual eligible Medicare and Medicaid beneficiaries) as calculated under paragraph (c)(1) of this section by the applicable proportion of the ACO's assigned beneficiary population (ESRD, disabled, aged/dual eligible Medicare and Medicaid beneficiaries, aged/non-dual eligible Medicare and Medicaid beneficiaries) for BY3 of the historical benchmark.
 
-(ii) Sums the amounts determined in paragraph (d)(5)(i) of this section across the populations of beneficiaries (ESRD, disabled, aged/dual eligible Medicare and Medicaid beneficiaries, aged/non-dual eligible Medicare and Medicaid beneficiaries).
+(ii) Sums the amounts determined in paragraph (e)(5)(i) of this section across the populations of beneficiaries (ESRD, disabled, aged/dual eligible Medicare and Medicaid beneficiaries, aged/non-dual eligible Medicare and Medicaid beneficiaries).
 
 (iii) If the resulting sum is a net positive value, the ACO is considered to have lower spending compared to the ACO's regional service area. If the resulting sum is a net negative value, the ACO is considered to have higher spending compared to the ACO's regional service area.
 
-(iv) If during the term of the agreement period CMS adjusts the ACO's benchmark, as specified in § 425.652(a)(9), CMS redetermines whether the ACO is considered to have lower spending or higher spending compared to the ACO's regional service area for purposes of determining the percentage in paragraphs (d)(1) through (3) of this section used in calculating the regional adjustment.
+(iv) If during the term of the agreement period CMS adjusts the ACO's benchmark, as specified in § 425.652(a)(9), CMS redetermines whether the ACO is considered to have lower spending or higher spending compared to the ACO's regional service area for purposes of determining the percentage in paragraphs (e)(1) through (3) of this section used in calculating the regional adjustment.
 
-(e) *Special rules for determining the weights used in the regional adjustment calculation for a re-entering ACO.* For a re-entering ACO whose prior agreement period benchmark was calculated according to § 425.603(c), CMS determines the weight used in the regional adjustment calculation described in paragraphs (b) through (d) of this section by considering the agreement period the ACO is entering into according to § 425.600(f) in combination with either of the following—
+(f) *Special rules for determining the weights used in the regional adjustment calculation for a re-entering ACO.* For a re-entering ACO whose prior agreement period benchmark was calculated according to § 425.603(c), CMS determines the weight used in the regional adjustment calculation described in paragraphs (b) through (e) of this section by considering the agreement period the ACO is entering into according to § 425.600(f) in combination with either of the following—
 
 (1) The weight previously applied to calculate the regional adjustment to the ACO's benchmark under § 425.603(c)(9) in its most recent prior agreement period; or
 
 (2) For a new ACO identified as a re-entering ACO, CMS considers the weight previously applied to calculate the regional adjustment to the benchmark under § 425.603(c)(9) in its most recent prior agreement period of the ACO in which the majority of the new ACO's participants were participating previously.
 
-[87 FR 70246, Nov. 18, 2022]
+[87 FR 70246, Nov. 18, 2022, as amended at 88 FR 79550, Nov. 16, 2023]

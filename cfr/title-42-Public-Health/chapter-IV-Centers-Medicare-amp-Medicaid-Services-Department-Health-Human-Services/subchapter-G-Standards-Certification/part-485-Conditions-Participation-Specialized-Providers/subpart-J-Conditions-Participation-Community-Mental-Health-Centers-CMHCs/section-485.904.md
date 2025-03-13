@@ -1,7 +1,5 @@
 ##### § 485.904 Condition of participation: Personnel qualifications. #####
 
-Link to an amendment published at 88 FR 82183, Nov. 22, 2023.
-
 (a) *Standard: General qualification requirements.* All professionals who furnish services directly, under an individual contract, or under arrangements with a CMHC, must be legally authorized (licensed, certified or registered) in accordance with applicable Federal, State and local laws, and must act only within the scope of their State licenses, certifications, or registrations. All personnel qualifications must be kept current at all times.
 
 (b) *Standard: Personnel qualifications for certain disciplines.* The following qualifications must be met:
@@ -18,7 +16,7 @@ Link to an amendment published at 88 FR 82183, Nov. 22, 2023.
 
 (ii) Has 1 year of social work experience in a psychiatric healthcare setting.
 
-(5) *Mental health counselor.* A professional counselor who is certified and/or licensed by the State in which he or she practices, and has the skills and knowledge to provide a range of behavioral health services to clients. The mental health counselor conducts assessments and provides services in areas such as psychotherapy, substance abuse, crisis management, psychoeducation, and prevention programs.
+(5) *Mental health counselor.* An individual who meets the applicable education, training, and other requirements of § 410.54 of this chapter.
 
 (6) *Occupational therapist.* A person who meets the requirements for the definition of “occupational therapist” at § 484.4 of this chapter.
 
@@ -36,4 +34,6 @@ Link to an amendment published at 88 FR 82183, Nov. 22, 2023.
 
 (11) *Psychiatrist.* An individual who specializes in assessing and treating persons having psychiatric disorders; is board certified, or is eligible to be board certified by the American Board of Psychiatry and Neurology, or has documented equivalent education, training or experience, and is fully licensed to practice medicine in the State in which he or she practices.
 
-[78 FR 64630, Oct. 29, 2013, as amended at 86 FR 61624, Nov. 5, 2021; 88 FR 36510, June 5, 2023]
+(12) *Marriage and family therapist.* An individual who meets the applicable education, training, and other requirements of § 410.53 of this chapter.
+
+[78 FR 64630, Oct. 29, 2013, as amended at 86 FR 61624, Nov. 5, 2021; 88 FR 36510, June 5, 2023; 88 FR 82183, Nov. 22, 2023]

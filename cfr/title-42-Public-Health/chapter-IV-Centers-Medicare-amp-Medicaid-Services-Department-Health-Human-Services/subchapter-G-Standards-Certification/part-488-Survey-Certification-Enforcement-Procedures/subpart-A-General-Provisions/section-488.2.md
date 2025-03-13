@@ -1,10 +1,6 @@
 ##### § 488.2 Statutory basis. #####
 
-Link to an amendment published at 88 FR 82183, Nov. 22, 2023.
-
 This part is based on the indicated provisions of the following sections of the Act:
-
-Table 1 to § 488.2
 
 |   Section    |                                                                                                         Subject                                                                                                         |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -17,7 +13,7 @@ Table 1 to § 488.2
 |     1822     |                                                                                   Hospice Program survey and enforcement procedures.                                                                                    |
 |1832(a)(2)(C) |                                                     Requirements for Organizations that provide outpatient physical therapy and speech language pathology services.                                                     |
 |1832(a)(2)(F) |                                                                                  Requirements for ambulatory surgical centers (ASCs).                                                                                   |
-|1832(a)(2)(J) |                                                         Requirements for partial hospitalization services provided by community mental health centers (CMHCs).                                                          |
+|1832(a)(2)(J) |                                                         Requirements for partial hospitalization services and intensive outpatient services provided by CMHCs.                                                          |
 |   1861(e)    |                                                                                               Requirements for hospitals.                                                                                               |
 |   1861(f)    |                                                                                         Requirements for psychiatric hospitals.                                                                                         |
 |   1861(m)    |                                                                                         Requirements for Home Health Services.                                                                                          |
@@ -43,4 +39,4 @@ Table 1 to § 488.2
 |     1913     |                                                                      Medicaid requirements for hospitals that provide nursing facility (NF) care.                                                                       |
 |     1919     |                                                                                             Medicaid requirements for NFs.                                                                                              |
 
-[88 FR 59335, Aug. 28, 2023]
+[88 FR 59335, Aug. 28, 2023, as amended at 88 FR 82183, Nov. 22, 2023]

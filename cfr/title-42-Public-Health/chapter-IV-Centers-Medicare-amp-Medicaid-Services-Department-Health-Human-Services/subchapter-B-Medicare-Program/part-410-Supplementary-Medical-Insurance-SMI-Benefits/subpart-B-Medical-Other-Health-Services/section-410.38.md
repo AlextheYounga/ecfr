@@ -1,7 +1,5 @@
 ##### § 410.38 Durable medical equipment, prosthetics, orthotics and supplies (DMEPOS): Scope and conditions. #####
 
-Link to an amendment published at 88 FR 77875, Nov. 13, 2023.
-
 (a) *General scope.* Medicare Part B pays for durable medical equipment, including ventilators, oxygen equipment, hospital beds, and wheelchairs, if the equipment is used in the patient's home or in an institution that is used as a home.
 
 (b) *Institutions that may not qualify as the patient's home.* An institution that is used as a home may not be a hospital or a CAH or a SNF as defined in sections 1861(e)(1), 1861(mm)(1) and 1819(a)(1) of the Act, respectively.
@@ -60,6 +58,32 @@ Link to an amendment published at 88 FR 77875, Nov. 13, 2023.
 
 (ii) The face-to-face encounter must be documented in the pertinent portion of the medical record (for example, history, physical examination, diagnostic tests, summary of findings, progress notes, treatment plans or other sources of information that may be appropriate). The supporting documentation must include subjective and objective beneficiary specific information used for diagnosing, treating, or managing a clinical condition for which the DMEPOS is ordered.
 
+(4) *Refills*—(i) *Definitions.* As used in this paragraph (d):
+
+*Date of service* (for refilled items) means either—
+
+(*1*) The date of delivery for the DMEPOS item; or
+
+(*2*) For items rendered via delivery or shipping service, the shipping date.
+
+*Refills* mean DMEPOS products that are provided on a recurring basis secondary to a medically necessary DMEPOS order.
+
+*Shipping date* means—
+
+(*1*) The date the delivery/shipping service label is created; or
+
+(*2*) The date that the item is retrieved for delivery. These dates must not demonstrate significant variation.
+
+(ii) *Documentation.* The DMEPOS supplier must document contact with the beneficiary or their representative to verify the refill is needed. This documentation must include both of the following:
+
+(A) Evidence of the beneficiary or their representative's affirmative response of the need for supplies, which should be obtained as close to the expected end of the current supply as possible. Contact and affirmative response must be within 30 calendar days from the expected end of the current supply.
+
+(B)(*1*) For shipped items, the beneficiary name, date of contact, the item requested, and an affirmative response from the beneficiary, indicative of the need for refill, prior to dispensing the product; or
+
+(*2*) For items obtained in-person from a retail store, the delivery slip signed by the beneficiary or their representative or a copy of the itemized sales receipt is sufficient documentation of a request for refill.
+
+(iii) *Delivery of DMEPOS items provided on a recurring basis.* The date of service for DMEPOS items provided on a recurring basis must be no earlier than 10 calendar days before the expected end of the current supply.
+
 (e) *Suspension of face-to-face encounter and written order prior to delivery requirements.* CMS may suspend face-to-face encounter and written order prior to delivery requirements generally or for a particular item or items at any time and without undertaking rulemaking, except those items for which inclusion on the Master List was statutorily imposed.
 
-[51 FR 41339, Nov. 14, 1986, as amended at 57 FR 57688, Dec. 7, 1992; 58 FR 30668, May 26, 1993; 70 FR 50946, Aug. 26, 2005; 71 FR 17030, Apr. 5, 2006; 77 FR 69362, Nov. 16, 2012; 84 FR 60802, Nov. 8, 2019]
+[51 FR 41339, Nov. 14, 1986, as amended at 57 FR 57688, Dec. 7, 1992; 58 FR 30668, May 26, 1993; 70 FR 50946, Aug. 26, 2005; 71 FR 17030, Apr. 5, 2006; 77 FR 69362, Nov. 16, 2012; 84 FR 60802, Nov. 8, 2019; 88 FR 77875, Nov. 13, 2023]

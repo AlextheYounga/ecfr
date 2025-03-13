@@ -1,7 +1,5 @@
 ##### § 407.47 Beginning of coverage under a State buy-in agreement. #####
 
-Link to an amendment published at 87 FR 66508, Nov. 3, 2022.
-
 (a) *General rule.* The beginning of an individual's coverage period depends on two factors:
 
 (1) The individual's meeting the SMI eligibility requirements and the requirements for being a member of the buy-in group; and
@@ -36,7 +34,9 @@ Link to an amendment published at 87 FR 66508, Nov. 3, 2022.
 
 (e) *Coverage based on erroneous report.* If the State erroneously reports to SSA that an individual is a member of its coverage group, the rules of paragraphs (a) through (d) of this section apply, and coverage begins as though the individual were in fact a member of the group. Coverage will end only as provided in § 407.48.
 
-(f) [Reserved]
+(f) *Exception to the general rule: Limitations on retroactive adjustments in the case of retroactive Medicare Part A entitlement.* (1) In cases in which a Medicaid beneficiary is retroactively entitled to Medicare Part A, beginning with retroactive determinations made on or after January 1, 2024, State liability for retroactive Medicare Part B premiums for Medicaid beneficiaries under a buy-in agreement is limited to a period of no greater than 36 months prior to the date of the Medicare eligibility determination.
+
+(2) The Secretary may grant good cause exceptions for periods of greater or less than 36 months if application of paragraph (f)(1) of the section would result in harm to a beneficiary or if the State cannot benefit from Medicare and further limiting State liability would not result in harm to the beneficiary.
 
 (g) *Part B enrollment under a buy-in agreement.* Individuals in a buy-in group can enroll in Part B at any time of the year, without regard to Medicare enrollment periods.
 

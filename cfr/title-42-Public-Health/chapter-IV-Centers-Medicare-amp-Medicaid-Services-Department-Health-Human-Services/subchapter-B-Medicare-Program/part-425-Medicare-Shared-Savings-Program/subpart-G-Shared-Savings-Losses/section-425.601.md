@@ -1,8 +1,6 @@
 ##### § 425.601 Establishing, adjusting, and updating the benchmark for agreement periods beginning on or after July 1, 2019, and before January 1, 2024. #####
 
-Link to an amendment published at 88 FR 79547, Nov. 16, 2023.
-
-(a) *Computing per capita Medicare Part A and Part B benchmark expenditures for an ACO's first agreement period.* For agreement periods beginning on July 1, 2019, and in subsequent years, in computing an ACO's historical benchmark for its first agreement period under the Shared Savings Program, CMS determines the per capita Parts A and B fee-for-service expenditures for beneficiaries that would have been assigned to the ACO in any of the 3 most recent years prior to the start of the agreement period using the ACO participant TINs identified before the start of the agreement period as required under § 425.118(a) and the beneficiary assignment methodology selected by the ACO for the first performance year of the agreement period as required under § 425.226(a)(1). CMS does all of the following:
+(a) *Computing per capita Medicare Part A and Part B benchmark expenditures for an ACO's first agreement period.* For agreement periods beginning on July 1, 2019, and in subsequent years, in computing an ACO's historical benchmark for its first agreement period under the Shared Savings Program, CMS determines the per capita Parts A and B fee-for-service expenditures for beneficiaries that would have been assigned to the ACO in any of the 3 most recent years prior to the start of the agreement period using the ACO participant TINs identified before the start of the agreement period as required under § 425.118(a) and the beneficiary assignment methodology selected by the ACO for the first performance year of the agreement period as required under § 425.400(a)(4)(ii). CMS does all of the following:
 
 (1) Calculates the payment amounts included in Parts A and B fee-for-service claims using a 3-month claims run out with a completion factor.
 
@@ -218,4 +216,4 @@ Link to an amendment published at 88 FR 79547, Nov. 16, 2023.
 
 (2) When updating the benchmark using the methodology set forth in paragraph (b) of this section and § 425.609(c), CMS updates the benchmark based on growth between BY3 and CY 2019.
 
-[83 FR 68071, Dec. 31, 2018, as amended at 85 FR 85042, Dec. 28, 2020; 87 FR 70237, Nov. 18, 2022]
+[83 FR 68071, Dec. 31, 2018, as amended at 85 FR 85042, Dec. 28, 2020; 87 FR 70237, Nov. 18, 2022; 88 FR 79547, Nov. 16, 2023]

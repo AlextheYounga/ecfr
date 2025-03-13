@@ -1,7 +1,5 @@
 ##### § 416.310 Data collection and submission requirements under the ASCQR Program. #####
 
-Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
-
 (a) *Requirements for claims-based measures using quality data codes (QDCs).* (1) ASCs must submit complete data on individual claims-based quality measures through a claims-based reporting mechanism by submitting the appropriate QDCs on the ASC's Medicare claims.
 
 (2) The data collection period for claims-based quality measures reported using QDCs is the calendar year 2 years prior to the payment determination year. Only claims for services furnished in each calendar year paid by the Medicare Administrative Contractor (MAC) by April 30 of the following year of the ending data collection period will be included in the data used for the payment determination year.
@@ -10,7 +8,7 @@ Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
 
 (b) *Requirements for claims-based measures not using QDCs.* The data collection period for claims-based quality measures not using QDCs is paid Medicare fee-for-service claims from the calendar year 2 years prior to the payment determination year. Only claims for services furnished in each calendar year paid by the MAC by April 30 of the following year of the ending data collection period will be included in the data used for the payment determination.
 
-(c) *Requirements for data submitted via an online data submission tool*—(1) *Requirements for data submitted via a CMS online data submission tool*—(i) *QualityNet account for web-based measures.* ASCs, and any agents submitting data on an ASC's behalf, must maintain a QualityNet account in order to submit quality measure data to the QualityNet website for all web-based measures submitted via a CMS online data submission tool. A QualityNet security official is necessary to set up such an account for the purpose of submitting this information.
+(c) *Requirements for data submitted via an online data submission tool*—(1) *Requirements for data submitted via a CMS online data submission tool*—(i) *CMS-designated information system account for web-based measures.* ASCs, and any agents submitting data on an ASC's behalf, must maintain an account for the CMS-designated information system in order to submit quality measure data to the CMS-designated information system for all web-based measures submitted via a CMS online data submission tool. A security official is necessary to set up such an account for the CMS-designated information system for the purpose of submitting this information.
 
 (ii) *Data collection requirements.* The data collection period for quality measures for which data are submitted via a CMS online data submission tool is for services furnished during the calendar year 2 years prior to the payment determination year. Beginning with the CY 2017 payment determination year, data collected must be submitted during the period of January 1 to May 15 in the year prior to the payment determination year.
 
@@ -20,7 +18,7 @@ Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
 
 (d) *Extraordinary circumstances exceptions.* CMS may grant an exception with respect to quality data reporting requirements in the event of extraordinary circumstances beyond the control of the hospital, such as when an act of nature affects an entire region or if CMS determines that a systemic problem with one of its data collection systems directly affected the ability of the hospitals to submit data. CMS may grant an exception as follows:
 
-(1) *Upon request of the ASC.* Specific requirements for submission of a request for an exception are available on the QualityNet Web site; or
+(1) *Upon request of the ASC.* Specific requirements for submission of a request for an exception are available on the CMS website.
 
 (2) *At the discretion of CMS.* CMS may grant exceptions to ASCs that have not requested them when CMS determines that an extraordinary circumstance has occurred.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
 
 (f) *Data submission deadlines.* All deadlines occurring on a Saturday, Sunday, or legal holiday, or on any other day all or part of which is declared to be a nonwork day for Federal employees by statute or Executive order are extended to the first day thereafter which is not a Saturday, Sunday, or legal holiday or any other day all or part of which is declared to be a nonwork day for Federal employees by statute or Executive order.
 
-[80 FR 70604, Nov. 13, 2015, as amended at 81 FR 79879, Nov. 14, 2016; 82 FR 52636, Nov. 13, 2017; 82 FR 59496, Dec. 14, 2017; 85 FR 86302, Dec. 29, 2020]
+[80 FR 70604, Nov. 13, 2015, as amended at 81 FR 79879, Nov. 14, 2016; 82 FR 52636, Nov. 13, 2017; 82 FR 59496, Dec. 14, 2017; 85 FR 86302, Dec. 29, 2020; 88 FR 82179, Nov. 22, 2023]

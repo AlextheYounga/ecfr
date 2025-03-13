@@ -1,7 +1,5 @@
 ##### § 425.204 Content of the application. #####
 
-Link to an amendment published at 88 FR 79544, Nov. 16, 2023.
-
 (a) *Accountability for beneficiaries.* As part of its application and participation agreement, the ACO must certify that the ACO, its ACO participants, and its ACO providers/suppliers have agreed to become accountable for the quality, cost, and overall care of the Medicare fee-for-service beneficiaries assigned to the ACO.
 
 (b) *Prior participation*. Upon request by CMS during the application cycle, the ACO must submit information regarding prior participation in the Medicare Shared Savings Program by the ACO, its ACO participants, or its ACO providers/suppliers, including such information as may be necessary for CMS to determine whether to approve an ACO's application in accordance with § 425.224(b).
@@ -54,9 +52,9 @@ Link to an amendment published at 88 FR 79544, Nov. 16, 2023.
 
 (i) Why it seeks to differ from the requirement; and
 
-(ii) If seeking an exception to (c)(2), how the ACO will provide meaningful representation in ACO governance by Medicare beneficiaries.
+(ii) If seeking an exception to § 425.106(c)(2), how the ACO will provide meaningful representation in ACO governance by Medicare beneficiaries.
 
-(iii) If seeking an exception to the requirement at (c)(3), why the ACO is unable to meet the requirement and how it will involve ACO participants in innovative ways in ACO governance.
+(iii) If seeking an exception to the requirement at § 425.106(c)(3), for agreement periods beginning before January 1, 2024, why the ACO is unable to meet the requirement and how it will involve ACO participants in innovative ways in ACO governance.
 
 (4)(i) An ACO must certify that it is recognized as a legal entity in the State, Federal or Tribal area in which it was established and that it is authorized to conduct business in each State or Tribal area in which it operates.
 
@@ -180,4 +178,4 @@ Link to an amendment published at 88 FR 79544, Nov. 16, 2023.
 
 (ii) Documentation sufficient to demonstrate that the acquired entity's TIN was merged with or purchased by the ACO participant.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32837, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 82 FR 53369, Nov. 15, 2017; 83 FR 68063, Dec. 31, 2018; 85 FR 85038, Dec. 28, 2020; 86 FR 65683, Nov. 19, 2021; 87 FR 70232, Nov. 18, 2022]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32837, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 82 FR 53369, Nov. 15, 2017; 83 FR 68063, Dec. 31, 2018; 85 FR 85038, Dec. 28, 2020; 86 FR 65683, Nov. 19, 2021; 87 FR 70232, Nov. 18, 2022; 88 FR 79544, Nov. 16, 2023]

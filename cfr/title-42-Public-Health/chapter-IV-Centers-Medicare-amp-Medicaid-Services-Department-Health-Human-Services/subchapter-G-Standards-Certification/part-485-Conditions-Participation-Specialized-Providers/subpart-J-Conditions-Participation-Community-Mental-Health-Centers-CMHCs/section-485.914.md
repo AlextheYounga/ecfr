@@ -1,12 +1,10 @@
 ##### § 485.914 Condition of participation: Admission, initial evaluation, comprehensive assessment, and discharge or transfer of the client. #####
 
-Link to an amendment published at 88 FR 82183, Nov. 22, 2023.
-
 The CMHC must ensure that all clients admitted into its program are appropriate for the services the CMHC furnishes in its facility.
 
 (a) *Standard: Admission.* (1) The CMHC must determine that each client is appropriate for the services it provides as specified in § 410.2 of this chapter.
 
-(2) For clients assessed and admitted to receive partial hospitalization services, the CMHC must also meet separate requirements as specified in § 485.918(f).
+(2) For clients assessed and admitted to receive partial hospitalization services and intensive outpatient services, the CMHC must also meet separate requirements as specified in § 485.918(f) and (g), as applicable.
 
 (b) *Standard: Initial evaluation.* (1) A licensed mental health professional employed by the CMHC and acting within his or her state scope of practice requirements must complete the initial evaluation within 24 hours of the client's admission to the CMHC.
 
@@ -64,7 +62,7 @@ The CMHC must ensure that all clients admitted into its program are appropriate 
 
 (d) *Standard: Update of the comprehensive assessment.* (1) The CMHC must update each client's comprehensive assessment via the CMHC interdisciplinary treatment team, in consultation with the client's primary health care provider (if any), when changes in the client's status, responses to treatment, or goal achievement have occurred and in accordance with current standards of practice.
 
-(2) For clients that receive PHP services, the assessment must be updated no less frequently than every 30 days.
+(2) For clients that receive partial hospitalization program (PHP) or intensive outpatient (IOP) services, the assessment must be updated no less frequently than every 30 days.
 
 (3) The update must include information on the client's progress toward desired outcomes, a reassessment of the client's response to care and therapies, and the client's goals.
 
@@ -92,4 +90,4 @@ The CMHC must ensure that all clients admitted into its program are appropriate 
 
 (4) The CMHC must adhere to all Federal and State-related requirements pertaining to the medical privacy and the release of client information.
 
-[78 FR 64630, Oct. 29, 2013, as amended at 84 FR 51829, Sept. 30, 2019]
+[78 FR 64630, Oct. 29, 2013, as amended at 84 FR 51829, Sept. 30, 2019; 88 FR 82183, Nov. 22, 2023]

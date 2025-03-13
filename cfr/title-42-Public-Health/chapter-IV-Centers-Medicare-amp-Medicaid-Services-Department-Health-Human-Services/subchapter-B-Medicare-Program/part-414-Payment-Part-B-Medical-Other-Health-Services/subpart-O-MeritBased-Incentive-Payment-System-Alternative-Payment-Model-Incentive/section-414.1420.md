@@ -1,7 +1,5 @@
 ##### § 414.1420 Other payer advanced APM criteria. #####
 
-Link to an amendment published at 88 FR 79539, Nov. 16, 2023.
-
 (a) *Other Payer Advanced APM criteria.* A payment arrangement with a payer other than Medicare is an Other Payer Advanced APM for a QP Performance Period if CMS determines that the arrangement meets the following criteria during the QP Performance Period:
 
 (1) Use of CEHRT, as described in paragraph (b) of this section;
@@ -14,7 +12,11 @@ Link to an amendment published at 88 FR 79539, Nov. 16, 2023.
 
 (ii) Is a Medicaid Medical Home Model that meets criteria comparable to Medical Home Models expanded under section 1115A(c) of the Act as described in paragraph (d) of this section.
 
-(b) *Use of CEHRT.* To be an Other Payer Advanced APM, CEHRT must be used by at least 50 percent, or for QP Performance Periods on or after January 1, 2020, 75 percent of participants in each participating APM Entity group, or each hospital if hospitals are the APM Entities, in the other payer arrangement to document and communicate clinical care.
+(b) *Use of CEHRT.* To be an Other Payer Advanced APM:
+
+(1) CEHRT must be used, for QP Performance Periods ending with 2019, by at least 50 percent; and for QP Performance Periods for 2020 through 2024, by at least 75 percent, of participants in each participating APM Entity group, or each hospital if hospitals are the APM Entities, in the other payer arrangement to document and communicate clinical care; and
+
+(2) For QP Performance Periods beginning on or after January 1, 2024, use of CEHRT (as defined in § 414.1305, paragraph (3) in the definition of “Certified Electronic Health Record Technology (CEHRT)”), must be a requirement of participation in the APM.
 
 (c) *Use of quality measures.* (1) To be an Other Payer Advanced APM, a payment arrangement must apply quality measures comparable to measures under the MIPS quality performance category, as described in paragraph (c)(2) of this section.
 
@@ -96,4 +98,4 @@ Link to an amendment published at 88 FR 79539, Nov. 16, 2023.
 
 (8) *Aligned Other Payer Medical Home Model and Medicaid Medical Home Model 50 eligible clinician limit.* Beginning with the 2023 QP Performance Period, notwithstanding paragraphs (d)(2) and (4) of this section, if an APM Entity participating in an Aligned Other Payer Medical Home Model or Medicaid Medical Home Model is comprised of 50 or more eligible clinicians is comprised of more than 50 eligible clinicians, as determined by the information submitted for any of the three QP determination dates (March 31, June 30, and August 31 of the QP Performance Period) as specified in § 414.1440(e), the requirements of paragraphs (d)(1) and (3) of this section apply.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53961, Nov. 16, 2017; 83 FR 23610, May 22, 2018; 83 FR 60090, Nov. 23, 2018; 84 FR 63200, Nov. 15, 2019; 87 FR 70230, Nov. 18, 2022]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53961, Nov. 16, 2017; 83 FR 23610, May 22, 2018; 83 FR 60090, Nov. 23, 2018; 84 FR 63200, Nov. 15, 2019; 87 FR 70230, Nov. 18, 2022; 88 FR 79539, Nov. 16, 2023]

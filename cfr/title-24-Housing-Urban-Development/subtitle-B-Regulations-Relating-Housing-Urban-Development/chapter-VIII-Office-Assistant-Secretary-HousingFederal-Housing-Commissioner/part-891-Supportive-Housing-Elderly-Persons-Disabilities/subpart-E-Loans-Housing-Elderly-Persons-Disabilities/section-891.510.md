@@ -1,7 +1,5 @@
 ##### § 891.510 Displacement, relocation, and real property acquisition. #####
 
-Link to an amendment published at 88 FR 75233, Nov. 2, 2023.
-
 (a) *Minimizing displacement.* Consistent with the other goals and objectives of subpart E of this part, Sponsors and Borrowers shall assure that they have taken all reasonable steps to minimize the displacement of persons (families, individuals, businesses, nonprofit organizations, and farms) as a result of a project assisted under subpart E of this part.
 
 (b) *Relocation assistance for displaced persons.* A displaced person (defined in paragraph (f) of this section) must be provided relocation assistance at the levels described in, and in accordance with the requirements of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, as amended (URA) (42 U.S.C. 4201-4655), as implemented by 49 CFR part 24. A displaced person shall be advised of his or her rights under the Fair Housing Act (42 U.S.C. 3601-3619). If the comparable replacement dwellings are located in areas of minority concentration, minority persons also must be given, if possible, referrals to suitable, decent, safe, and sanitary replacement dwellings not located in such areas.
@@ -28,7 +26,7 @@ Link to an amendment published at 88 FR 75233, Nov. 2, 2023.
 
 (*1*) The tenant's monthly rent and estimated average monthly utility costs before the Agreement; or
 
-(*2*) The total tenant payment, as determined under 24 CFR 813.107, if the tenant is low-income, or 30 percent of gross household income, if the tenant is not low-income; or
+(*2*) The total tenant payment, as determined under 24 CFR 5.628, if the tenant is low-income, or 30 percent of gross household income, if the tenant is not low-income; or
 
 (B) The tenant is required to relocate temporarily, does not return to the building/complex, and either:
 
@@ -49,3 +47,5 @@ Link to an amendment published at 88 FR 75233, Nov. 2, 2023.
 (iv) HUD determines that the person was not displaced as a direct result of acquisition, rehabilitation, or demolition for the project;
 
 (3) The Sponsor/Borrower may request, at any time, a HUD determination of whether a displacement is or would be covered by this section.
+
+[61 FR 11956, Mar. 22, 1996, as amended at 88 FR 75233, Nov. 2, 2023]

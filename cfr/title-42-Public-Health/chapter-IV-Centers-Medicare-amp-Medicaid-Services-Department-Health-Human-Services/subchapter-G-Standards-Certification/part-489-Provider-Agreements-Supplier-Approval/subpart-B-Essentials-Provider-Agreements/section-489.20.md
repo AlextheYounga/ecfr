@@ -1,7 +1,5 @@
 ##### § 489.20 Basic commitments. #####
 
-Link to an amendment published at 88 FR 53347, Aug. 7, 2023.
-
 The provider agrees to the following:
 
 (a) To limit its charges to beneficiaries and to other individuals on their behalf, in accordance with provisions of subpart C of this part.
@@ -84,31 +82,35 @@ The provider agrees to the following:
 
 (5) Services performed by a qualified psychologist, as defined in section 1861(ii) of the Act.
 
-(6) Services performed by a certified registered nurse anesthetist, as defined in section 1861(bb) of the Act.
+(6) Services performed by a marriage and family therapist, as defined in section 1861(lll)(2) of the Act.
 
-(7) Dialysis services and supplies, as defined in section 1861(s)(2)(F) of the Act, and those ambulance services that are furnished in conjunction with them.
+(7) Services performed by a mental health counselor, as defined in section 1861(lll)(4) of the Act.
 
-(8) Erythropoietin (EPO) for dialysis patients, as defined in section 1861(s)(2)(O) of the Act.
+(8) Services performed by a certified registered nurse anesthetist, as defined in section 1861(bb) of the Act.
 
-(9) Hospice care, as defined in section 1861(dd) of the Act.
+(9) Dialysis services and supplies, as defined in section 1861(s)(2)(F) of the Act, and those ambulance services that are furnished in conjunction with them.
 
-(10) An ambulance trip that initially conveys an individual to the SNF to be admitted as a resident, or that conveys an individual from the SNF in connection with one of the circumstances specified in § 411.15(p)(3)(i) through (p)(3)(iv) of this chapter as ending the individual's status as an SNF resident.
+(10) Erythropoietin (EPO) for dialysis patients, as defined in section 1861(s)(2)(O) of the Act.
 
-(11) The transportation costs of electrocardiogram equipment (HCPCS code R0076), but only with respect to those electrocardiogram test services furnished during 1998.
+(11) Hospice care, as defined in section 1861(dd) of the Act.
 
-(12) Services described in paragraphs (s)(1) through (6) of this section when furnished via telehealth under section 1834(m)(4)(C)(ii)(VII) of the Act.
+(12) An ambulance trip that initially conveys an individual to the SNF to be admitted as a resident, or that conveys an individual from the SNF in connection with one of the circumstances specified in § 411.15(p)(3)(i) through (p)(3)(iv) of this chapter as ending the individual's status as an SNF resident.
 
-(13) Those chemotherapy items identified, as of July 1, 1999, by HCPCS codes J9000-J9020, J9040-J9151, J9170-J9185, J9200-J9201, J9206-J9208, J9211, J9230-J9245, and J9265-J9600, and as of January 1, 2004, by HCPCS codes A9522, A9523, A9533, and A9534 (as subsequently modified by CMS), and any additional chemotherapy items identified by CMS.
+(13) The transportation costs of electrocardiogram equipment (HCPCS code R0076), but only with respect to those electrocardiogram test services furnished during 1998.
 
-(14) Those chemotherapy administration services identified, as of July 1, 1999, by HCPCS codes 36260-36262, 36489, 36530-36535, 36640, 36823, and 96405-96542 (as subsequently modified by CMS), and any additional chemotherapy administration services identified by CMS.
+(14) Services described in paragraphs (s)(1) through (8) of this section when furnished via telehealth under section 1834(m)(4)(C)(ii)(VII) of the Act.
 
-(15) Those radioisotope services identified, as of July 1, 1999, by HCPCS codes 79030-79440 (as subsequently modified by CMS), and any additional radioisotope services identified by CMS.
+(15) Those chemotherapy items identified, as of July 1, 1999, by HCPCS codes J9000-J9020, J9040-J9151, J9170-J9185, J9200-J9201, J9206-J9208, J9211, J9230-J9245, and J9265-J9600, and as of January 1, 2004, by HCPCS codes A9522, A9523, A9533, and A9534 (as subsequently modified by CMS), and any additional chemotherapy items identified by CMS.
 
-(16) Those customized prosthetic devices (including artificial limbs and their components) identified, as of July 1, 1999, by HCPCS codes L5050-L5340, L5500-L5611, L5613-L5986, L5988, L6050-L6370, L6400-6880, L6920-L7274, and L7362-L7366 (as subsequently modified by CMS) and any additional customized prosthetic devices identified by CMS, which are delivered for a resident's use during a stay in the SNF and intended to be used by the resident after discharge from the SNF.
+(16) Those chemotherapy administration services identified, as of July 1, 1999, by HCPCS codes 36260-36262, 36489, 36530-36535, 36640, 36823, and 96405-96542 (as subsequently modified by CMS), and any additional chemotherapy administration services identified by CMS.
 
-(17) Those blood clotting factors indicated for the treatment of patients with hemophilia and other bleeding disorders identified, as of July 1, 2020, by HCPCS codes J7170, J7175, J7177-J7183, J7185-J7190, J7192-J7195, J7198-J7203, J7205, and J7207-J7211 (as subsequently modified by CMS) and items and services related to the furnishing of such factors, and any additional blood clotting factors identified by CMS and items and services related to the furnishing of such factors.
+(17) Those radioisotope services identified, as of July 1, 1999, by HCPCS codes 79030-79440 (as subsequently modified by CMS), and any additional radioisotope services identified by CMS.
 
-(18) Those RHC and FQHC services that are described in § 405.2411(b)(2) of this chapter.
+(18) Those customized prosthetic devices (including artificial limbs and their components) identified, as of July 1, 1999, by HCPCS codes L5050-L5340, L5500-L5611, L5613-L5986, L5988, L6050-L6370, L6400-6880, L6920-L7274, and L7362-L7366 (as subsequently modified by CMS) and any additional customized prosthetic devices identified by CMS, which are delivered for a resident's use during a stay in the SNF and intended to be used by the resident after discharge from the SNF.
+
+(19) Those blood clotting factors indicated for the treatment of patients with hemophilia and other bleeding disorders identified, as of July 1, 2020, by HCPCS codes J7170, J7175, J7177-J7183, J7185-J7190, J7192-J7195, J7198-J7203, J7205, and J7207-J7211 (as subsequently modified by CMS) and items and services related to the furnishing of such factors, and any additional blood clotting factors identified by CMS and items and services related to the furnishing of such factors.
+
+(20) Those RHC and FQHC services that are described in § 405.2411(b)(2) of this chapter.
 
 (t) Hospitals that are not otherwise subject to the Occupational Safety and Health Act of 1970 (or a State occupational safety and health plan that is approved under section 18(b) of the Occupational Safety and Health Act) must comply with the bloodborne pathogens (BBP) standards under 29 CFR 1910.1030. A hospital that fails to comply with the BBP standards may be subject to a civil money penalty in accordance with section 17 of the Occupational Safety and Health Act of 1970, including any adjustments of the civil money penalty amounts under the Federal Civil Penalties Inflation Adjustment Act, for a violation of the BBP standards. A civil money penalty will be imposed and collected in the same manner as civil money penalties under section 1128A(a) of the Social Security Act.
 

@@ -1,7 +1,5 @@
 ##### § 5.659 Family information and verification. #####
 
-Link to an amendment published at 88 FR 9662, Feb. 14, 2023.
-
 (a) *Applicability.* This section states requirements for reexamination of family income and composition in the Section 8 project-based assistance programs, except for the moderate rehabilitation program and the project-based certificate or voucher programs.
 
 (b) *Family obligation to supply information.* (1) The family must supply any information that HUD or the owner determines is necessary in administration of the Section 8 program, including submission of required evidence of citizenship or eligible immigration status (as provided by part 5, subpart E of this title). “Information” includes any requested certification, release or other documentation.
@@ -30,10 +28,6 @@ Link to an amendment published at 88 FR 9662, Feb. 14, 2023.
 
 (4) Other factors that affect the determination of adjusted income.
 
-(e) *Verification of assets.* For a family with net assets equal to or less than $5,000, an owner may accept, for purposes of recertification of income, a family's declaration that it has net assets equal to or less than $5,000 without taking additional steps to verify the accuracy of the declaration, except as required in paragraph (e)(2) of this section.
+(e) *Verification of assets.* For a family with net family assets (as the term is defined in § 5.603) equal to or less than $50,000, which amount will be adjusted annually by HUD in accordance with the Consumer Price Index for Urban Wage Earners and Clerical Workers, an owner may accept, for purposes of recertification of income, a family's declaration under § 5.618(b), except that the owner must obtain third-party verification of all family assets every 3 years.
 
-(1) The declaration must state the amount of income the family expects to receive from such assets; this amount must be included in the family's income.
-
-(2) An owner must obtain third-party verification of all family assets every 3 years.
-
-[65 FR 16721, Mar. 29, 2000, as amended at 82 FR 58340, Dec. 12, 2017]
+[65 FR 16721, Mar. 29, 2000, as amended at 82 FR 58340, Dec. 12, 2017; 88 FR 9662, Feb. 14, 2023]

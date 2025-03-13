@@ -1,6 +1,6 @@
 ##### § 424.516 Additional provider and supplier requirements for enrolling and maintaining active enrollment status in the Medicare program. #####
 
-Link to an amendment published at 88 FR 79541, Nov. 16, 2023.Link to an amendment published at 88 FR 80168, Nov. 17, 2023.
+Link to an amendment published at 88 FR 80168, Nov. 17, 2023.
 
 (a) *Certifying compliance.* CMS enrolls and maintains an active enrollment status for a provider or supplier when that provider or supplier certifies that it meets, and continues to meet, and CMS verifies that it meets, and continues to meet, all of the following requirements:
 
@@ -26,13 +26,13 @@ Link to an amendment published at 88 FR 79541, Nov. 16, 2023.Link to an amendmen
 
 (ii) Any adverse legal action; or
 
-(iii) A change in practice location.
+(iii) A change, addition, or deletion of a practice location.
 
 (2) All other changes in enrollment must be reported within 90 days.
 
 (e) *Reporting requirements for all other providers and suppliers.* Reporting requirements for all other providers and suppliers not identified in paragraphs (a) through (d) of this section, with the exception of MDPP suppliers whose reporting requirements are established at § 424.205(d), must report to CMS the following information within the specified timeframes:
 
-(1) Within 30 days for a change of ownership or control, including changes in authorized official(s) or delegated official(s);
+(1) Within 30 days for a change of ownership or control (including changes in authorized official(s) or delegated official(s)) or a change, addition, or deletion of a practice location;
 
 (2) All other changes to enrollment must be reported within 90 days.
 
@@ -58,4 +58,4 @@ Link to an amendment published at 88 FR 79541, Nov. 16, 2023.Link to an amendmen
 
 (ii) The documentation includes written and electronic documents (including the NPI of the physician or, when permitted, other eligible professional who ordered, certified, referred, or prescribed the Part A or B service, item, or drug) relating to written orders, certifications, referrals, prescriptions or requests for payments for Part A or B services, items, or drugs.
 
-[73 FR 69939, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008, as amended at 75 FR 24449, May 5, 2010; 75 FR 73628, Nov. 29, 2010; 77 FR 25318, Apr. 27, 2012; 82 FR 53368, Nov. 15, 2017; 84 FR 47852, Sept. 10, 2019]
+[73 FR 69939, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008, as amended at 75 FR 24449, May 5, 2010; 75 FR 73628, Nov. 29, 2010; 77 FR 25318, Apr. 27, 2012; 82 FR 53368, Nov. 15, 2017; 84 FR 47852, Sept. 10, 2019; 88 FR 79541, Nov. 16, 2023]

@@ -1,7 +1,5 @@
 ##### § 92.2 Definitions. #####
 
-Link to an amendment published at 88 FR 9662, Feb. 14, 2023.
-
 The terms *1937 Act, ALJ,**Fair Housing Act, HUD,**Indian Housing Authority (IHA), Public housing,**Public Housing Agency (PHA),* and *Secretary* are defined in 24 CFR 5.100.
 
 *Act* means the HOME Investment Partnerships Act at title II of the Cranston-Gonzalez National Affordable Housing Act, as amended, 42 U.S.C. 12701 *et seq.*
@@ -88,6 +86,12 @@ The terms *1937 Act, ALJ,**Fair Housing Act, HUD,**Indian Housing Authority (IHA
 
 *First-time homebuyer* means an individual and his or her spouse who have not owned a home during the three-year period prior to purchase of a home with assistance under the American Dream Downpayment Initiative (ADDI) described in subpart M of this part. The term first-time homebuyer also includes an individual who is a displaced homemaker or single parent, as those terms are defined in this section. An individual shall not be excluded from consideration as a first-time homebuyer on the basis that the individual owns or owned, as a principal residence during the three-year period, a dwelling unit whose structure is not permanently affixed to a permanent foundation in accordance with local or other applicable regulations or is not in compliance with State, local, or model building codes, or other applicable codes, and cannot be brought into compliance with the codes for less than the cost of constructing a permanent structure.
 
+*Foster adult* has the same meaning given that term in 24 CFR 5.603.
+
+*Foster child* has the same meaning given that term in 24 CFR 5.603.
+
+*Full-time student* has the same meaning given that term in 24 CFR 5.603.
+
 *HOME funds* means funds made available under this part through allocations and reallocations, plus program income.
 
 *Homebuyer counseling* has the same meaning as homeownership counseling in 24 CFR 5.100, and is a type of housing counseling.
@@ -117,6 +121,8 @@ The terms *1937 Act, ALJ,**Fair Housing Act, HUD,**Indian Housing Authority (IHA
 *Insular areas* means Guam, the Northern Mariana Islands, the United States Virgin Islands, and American Samoa.
 
 *Jurisdiction* means a State or unit of general local government.
+
+*Live-in aide* has the same meaning given that term in 24 CFR 5.403.
 
 *Low-income families* means families whose annual incomes do not exceed 80 percent of the median income for the area, as determined by HUD, with adjustments for smaller and larger families, except that HUD may establish income ceilings higher or lower than 80 percent of the median for the area on the basis of HUD findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes. An individual does not qualify as a low-income family if the individual is a student who is not eligible to receive Section 8 assistance under 24 CFR 5.612.
 
@@ -200,4 +206,4 @@ The terms *1937 Act, ALJ,**Fair Housing Act, HUD,**Indian Housing Authority (IHA
 
 *Very low-income families* means low- income families whose annual incomes do not exceed 50 percent of the median family income for the area, as determined by HUD with adjustments for smaller and larger families, except that HUD may establish income ceilings higher or lower than 50 percent of the median for the area on the basis of HUD findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes. An individual does not qualify as a very low-income family if the individual is a student who is not eligible to receive Section 8 assistance under 24 CFR 5.612.
 
-[61 FR 48750, Sept. 16, 1996, as amended at 67 FR 61755, Oct. 1, 2002; 69 FR 16765, Mar. 30, 2004; 72 FR 16685, Apr. 4, 2007; 78 FR 44664, July 24, 2013; 80 FR 75934, Dec. 7, 2015; 81 FR 86952, Dec. 2, 2016; 81 FR 90657, Dec. 14, 2016; 88 FR 30496, May 11, 2023]
+[61 FR 48750, Sept. 16, 1996, as amended at 67 FR 61755, Oct. 1, 2002; 69 FR 16765, Mar. 30, 2004; 72 FR 16685, Apr. 4, 2007; 78 FR 44664, July 24, 2013; 80 FR 75934, Dec. 7, 2015; 81 FR 86952, Dec. 2, 2016; 81 FR 90657, Dec. 14, 2016; 88 FR 30496, May 11, 2023; 88 FR 9662, Feb. 14, 2023]

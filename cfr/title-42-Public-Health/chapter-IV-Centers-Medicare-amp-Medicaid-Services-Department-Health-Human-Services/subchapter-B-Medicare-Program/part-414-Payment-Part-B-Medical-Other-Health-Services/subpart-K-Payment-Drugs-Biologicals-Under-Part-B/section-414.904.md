@@ -1,7 +1,5 @@
 ##### § 414.904 Average sales price as the basis for payment. #####
 
-Link to an amendment published at 88 FR 79532, Nov. 16, 2023.
-
 (a) *Method of payment.* Payment for a drug furnished on or after January 1, 2005 is based on the lesser of—
 
 (1) The actual charge on the claim for program benefits; or
@@ -94,7 +92,19 @@ Link to an amendment published at 88 FR 79532, Nov. 16, 2023.
 
 (3) *Blood and blood products.* In the case of blood and blood products (other than blood clotting factors), the payment limits are determined in the same manner as the payment limits were determined on October 1, 2003.
 
-(4) *Payment limit in a case where the average sales price during the first quarter of sales is unavailable.* In the case of a drug during an initial period (not to exceed a full calendar quarter) in which data on the prices for sales of the drug are not sufficiently available from the manufacturer to compute an average sales price for the drug, the payment limit is based on the wholesale acquisition cost or the Medicare Part B drug payment methodology in effect on November 1, 2003.
+(4) *Payment amount in a case where the average sales price during the first quarter of sales is unavailable.* During an initial period (not to exceed a full calendar quarter) in which data on the prices for sales of the drug are not sufficiently available from the manufacturer to compute an average sales price:
+
+(i) *In general.* Except as provided in paragraph (e)(4)(ii) of this section,
+
+(A) For dates of service before January 1, 2019, the payment amount for the drug is based on the wholesale acquisition cost or the Medicare Part B drug payment methodology in effect on November 1, 2003.
+
+(B) For dates of service on or after January 1, 2019, the payment amount for the drug is an amount not to exceed 103 percent of the wholesale acquisition cost or based on the Medicare Part B drug payment methodologies in effect on November 1, 2003.
+
+(ii) *Limitation on payment amount for biosimilar biological products during initial period.* For dates of service on or after July 1, 2024, the payment amount for a biosimilar biological product (as defined in § 414.902) during the initial period is the lesser of the following:
+
+(A) The payment amount for the biosimilar biological product as determined under clause (e)(4)(i)(B) of this section or
+
+(B) 106 percent of the amount determined under section 1847A(b)(1)(B) of the Act for the reference biological product (as defined in § 414.902).
 
 (5) *Treatment of certain drugs.* Beginning with April 1, 2008, the payment amount for—
 
@@ -118,6 +128,8 @@ Link to an amendment published at 88 FR 79532, Nov. 16, 2023.
 
 (i) If manufacturer ASP data is not available prior to the publication deadline for quarterly payment limits and the unavailability of manufacturer ASP data significantly changes the quarterly payment limit for the billing code when compared to the prior quarter's billing code payment limit, the payment limit is calculated by carrying over the most recent available manufacturer ASP price from a previous quarter for an NDC in the billing code, adjusted by the weighted average of the change in the manufacturer ASPs for the NDCs that were reported for both the most recently available previous quarter and the current quarter.
 
-(j) *Biosimilar biological products*. Effective January 1, 2016, the payment amount for a biosimilar biological drug product (as defined in § 414.902) for all NDCs assigned to such product is the sum of the average sales price of all NDCs assigned to the biosimilar biological products included within the same billing and payment code as determined under section 1847A(b)(6) of the Act and 6 percent of the amount determined under section 1847A(b)(4) of the Act for the reference drug product (as defined in § 414.902).
+(j) *Biosimilar biological products*—(1) *In general.* Except as provided in paragraph (j)(2), effective January 1, 2016, the payment amount for a biosimilar biological product (as defined in § 414.902), for all NDCs assigned to such product, is the sum of the average sales price of all NDCs assigned to the biosimilar biological products included within the same billing and payment code as determined under section 1847A(b)(6) of the Act, and 6 percent of the amount determined under section 1847A(b)(4) of the Act for the reference biological product (as defined in § 414.902).
 
-[69 FR 66424, Nov. 15, 2004, as amended at 70 FR 70332, Nov. 21, 2005; 71 FR 69788, Dec. 1, 2006; 72 FR 66402, Nov. 27, 2007; 73 FR 69937, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 74 FR 62012, Nov. 25, 2009; 75 FR 73626, Nov. 29, 2010; 76 FR 73473, Nov. 28, 2011; 77 FR 69368, Nov. 16, 2012; 80 FR 71382, Nov. 16, 2015; 82 FR 53363, Nov. 15, 2017; 83 FR 60074, Nov. 23, 2018; 85 FR 71197, Nov. 6, 2020; 86 FR 65669, Nov. 19, 2021; 87 FR 70226, Nov. 18, 2022]
+(2) *Temporary increase in Medicare Part B payment for qualifying biosimilar biological products.* In the case of a qualifying biosimilar biological product (as defined in § 414.902) that is furnished during the applicable 5-year period (as defined in § 414.902) for such product, the payment amount for such product with respect to such period is the sum determined under as determined under section 1847A(b)(6) of the Act and 8 percent of the amount determined under section 1847A(b)(4) of the Act for the reference biological product (as defined in § 414.902).
+
+[69 FR 66424, Nov. 15, 2004, as amended at 70 FR 70332, Nov. 21, 2005; 71 FR 69788, Dec. 1, 2006; 72 FR 66402, Nov. 27, 2007; 73 FR 69937, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 74 FR 62012, Nov. 25, 2009; 75 FR 73626, Nov. 29, 2010; 76 FR 73473, Nov. 28, 2011; 77 FR 69368, Nov. 16, 2012; 80 FR 71382, Nov. 16, 2015; 82 FR 53363, Nov. 15, 2017; 83 FR 60074, Nov. 23, 2018; 85 FR 71197, Nov. 6, 2020; 86 FR 65669, Nov. 19, 2021; 87 FR 70226, Nov. 18, 2022; 88 FR 79532, Nov. 16, 2023]

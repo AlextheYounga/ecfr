@@ -1,7 +1,5 @@
 ##### § 424.210 Beneficiary engagement incentives under the Medicare Diabetes Prevention Program expanded model. #####
 
-Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
-
 (a) *Definitions.* In addition to the definitions specified at § 410.79(b) and § 424.205(a) of this chapter, the following definition applies to this section:
 
 *Engagement incentive period* means the period of time during which an MDPP supplier may furnish in-kind beneficiary engagement incentives to a given MDPP beneficiary to whom the MDPP supplier is furnishing MDPP services. This period begins when an MDPP supplier furnishes any MDPP service to an MDPP eligible beneficiary and ends when one of the following occurs, whichever occurs first:
@@ -16,7 +14,7 @@ Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
 
 (1) The item or service must be furnished directly to an MDPP beneficiary by an MDPP supplier or by an agent of the MDPP supplier, such as a coach, under the MDPP supplier's direction and control.
 
-(2) The item or service must be reasonably connected to the CDC-approved DPP curriculum furnished to the MDPP beneficiary during a core session, core maintenance session, or ongoing maintenance session furnished by the MDPP supplier.
+(2) The item or service must be reasonably connected to the CDC-approved National Diabetes Prevention Program curriculum furnished to the MDPP beneficiary during a core session or core maintenance session furnished by the MDPP supplier.
 
 (3) The item or service must be a preventive care item or service or an item or service that advances a clinical goal, as specified in paragraph (d) of this section, for an MDPP beneficiary by engaging him or her in better managing his or her own health.
 
@@ -44,7 +42,7 @@ Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
 
 (d) *Clinical goals of the MDPP expanded model.* The following are the clinical goals for MDPP beneficiaries that may be advanced through in-kind beneficiary engagement incentives:
 
-(1) Attendance at core sessions, core maintenance sessions, or ongoing maintenance sessions.
+(1) Attendance at core sessions or core maintenance sessions.
 
 (2) Weight loss.
 
@@ -73,3 +71,5 @@ Link to an amendment published at 88 FR 79540, Nov. 16, 2023.
 (3) The documentation regarding items involving technology exceeding $100 in retail value must also include contemporaneous documentation of any attempt to retrieve the item as required by paragraph (c)(3)(ii) of this section.
 
 (4) The MDPP supplier must retain and provide access to the documentation required in this section in accordance with § 424.205(g).
+
+[82 FR 53364, Nov. 15, 2017, as amended at 88 FR 79540, Nov. 16, 2023]

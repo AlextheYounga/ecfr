@@ -1,7 +1,5 @@
 ##### § 217.10 Minimum capital requirements. #####
 
-Link to an amendment published at 88 FR 82968, Nov. 27, 2023.
-
 (a) *Minimum capital requirements.* (1) A Board-regulated institution must maintain the following minimum capital ratios:
 
 (i) A common equity tier 1 capital ratio of 4.5 percent.
@@ -158,4 +156,10 @@ E\* = max {0, [ΣEi − ΣCi]}
 
 (2) A Board-regulated institution must have a process for assessing its overall capital adequacy in relation to its risk profile and a comprehensive strategy for maintaining an appropriate level of capital.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 57744, Sept. 26, 2014; 80 FR 41419, July 15, 2015; 84 FR 4242, Feb. 14, 2019; 84 FR 35259, July 22, 2019; 84 FR 59271, Nov. 1, 2019; 84 FR 61797, Nov. 13, 2019; 85 FR 4416, Jan. 24, 2020; 85 FR 4578, Jan. 27, 2020; 85 FR 57961, Sept. 17, 2020; 86 FR 732, Jan. 6, 2021]
+(f) *Insurance depository institution holding companies.* Notwithstanding paragraphs (a) through (d) of this section:
+
+(1) An insurance bank holding company that is a state-regulated insurer, or an insurance savings and loan holding company that is a state-regulated insurer, is not required to meet the minimum capital ratio requirements in paragraphs (a)(1)(i) through (iii) of this section if the company is subject to subpart J of this part; and
+
+(2) A Board-regulated institution that is an insurance bank holding company, insurance savings and loan holding company, or insurance mid-tier holding company is not required to meet the minimum capital ratio requirements in paragraphs (a)(1)(iv) and (v) of this section.
+
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 57744, Sept. 26, 2014; 80 FR 41419, July 15, 2015; 84 FR 4242, Feb. 14, 2019; 84 FR 35259, July 22, 2019; 84 FR 59271, Nov. 1, 2019; 84 FR 61797, Nov. 13, 2019; 85 FR 4416, Jan. 24, 2020; 85 FR 4578, Jan. 27, 2020; 85 FR 57961, Sept. 17, 2020; 86 FR 732, Jan. 6, 2021; 88 FR 82969, Nov. 27, 2023]

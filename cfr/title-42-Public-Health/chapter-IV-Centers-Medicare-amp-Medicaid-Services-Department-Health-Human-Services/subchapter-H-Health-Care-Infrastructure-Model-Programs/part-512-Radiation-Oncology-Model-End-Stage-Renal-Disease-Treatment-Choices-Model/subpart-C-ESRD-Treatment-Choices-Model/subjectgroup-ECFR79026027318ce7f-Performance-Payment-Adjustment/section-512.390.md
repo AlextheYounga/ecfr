@@ -1,7 +1,5 @@
 ##### § 512.390 Notification, data sharing, and targeted review. #####
 
-Link to an amendment published at 88 FR 76506, Nov. 6, 2023.
-
 (a) *Notification.* CMS will notify each ETC Participant, in a form and manner determined by CMS, of the ETC Participant's attributed beneficiaries, MPS, and PPA for a PPA Period no later than one month before the start of the applicable PPA Period.
 
 (b) *Data sharing with ETC Participants.* CMS shares certain beneficiary-identifiable data as described in paragraph (b)(1) of this section and certain aggregate data as described in paragraph (b)(2) of this section with ETC Participants regarding their attributed beneficiaries and performance under the ETC Model.
@@ -52,6 +50,16 @@ Link to an amendment published at 88 FR 76506, Nov. 6, 2023.
 
 (4) If, upon completion of a targeted review, CMS finds that there was an error in the calculation of the ETC Participant's MPS such that an incorrect PPA has been applied during the PPA period, CMS shall notify the ETC Participant and must resolve any resulting discrepancy in payment that arises from the application of an incorrect PPA in a time and manner determined by CMS.
 
-(5) Decisions based on targeted review are final, and there is no further review or appeal.
+(d) *Review of targeted review decisions.* The Administrator may review a targeted review request when administrative review is requested by an ETC Participant within 15-calendar days of a targeted review request determination made by CMS.
 
-[85 FR 61362, Sept. 29, 2020, as amended at 86 FR 62024, Nov. 8, 2021]
+(1) *Administrative review.* Within 45 days of the date of the ETC Participant's request for administrative review, the CMS Administrator may act as follows:
+
+(i) Decline to review a targeted review request determination made by CMS;
+
+(ii) Render a final decision based on the CMS Administrator's review of the targeted review request determination; or
+
+(iii) Choose to take no action on the request for administrative review.
+
+(2) *Administrative review determinations.* The targeted review determination made by the CMS Administrator is final if the CMS Administrator declines an ETC Participant's request for administrative review or if the CMS Administrator does not take any action on the ETC Participant's request for administrative review by the end of the 45-day period described in paragraph (d)(1) of this section. CMS-1782-F
+
+[85 FR 61362, Sept. 29, 2020, as amended at 86 FR 62024, Nov. 8, 2021; 88 FR 76506, Nov. 6, 2023]

@@ -1,7 +1,5 @@
 ##### § 416.172 Adjustments to national payment rates. #####
 
-Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
-
 (a) *General rule.* Contractors adjust the payment rates established for ASC services to determine Medicare program payment and beneficiary coinsurance amounts in accordance with paragraphs (b) through (g) of this section.
 
 (b) *Lesser of actual charge or geographically adjusted payment rate.* Payments to ASCs equal 80 percent of the lesser of—
@@ -14,7 +12,7 @@ Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
 
 (2) *Exception.* The geographic adjustment is not applied to the payment rates set for drugs, biologicals, devices with OPPS transitional pass-through payment status, and brachytherapy sources.
 
-(d) *Deductibles and coinsurance.* Part B deductible and coinsurance amounts apply as specified in §§ 410.152(a) and (i)(2) of this subchapter.
+(d) *Deductibles and coinsurance.* Part B deductible and coinsurance amounts apply as specified in §§ 410.152(a) and (i)(2) and 489.30(b)(6) of this chapter.
 
 (e) *Payment reductions for multiple surgical procedures*—(1) *General rule.* Except as provided in paragraph (e)(2) of this section, when more than one covered surgical procedure for which payment is made under the ASC payment system is performed during an operative session, the Medicare program payment amount and the beneficiary coinsurance amount are based on—
 
@@ -50,4 +48,4 @@ Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
 
 (B) The non-device portion is calculated in accordance with the methodology specified in § 416.171(a).
 
-[72 FR 42545, Aug. 2, 2007, as amended at 80 FR 70604, Nov. 13, 2015; 87 FR 72291, Nov. 23, 2022]
+[72 FR 42545, Aug. 2, 2007, as amended at 80 FR 70604, Nov. 13, 2015; 87 FR 72291, Nov. 23, 2022; 88 FR 82179, Nov. 22, 2023]

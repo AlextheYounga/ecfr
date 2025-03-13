@@ -1,22 +1,20 @@
-##### § 419.46 Participation, data submission, and validation requirements under the Hospital Outpatient Quality Reporting (OQR) Program. #####
-
-Link to an amendment published at 88 FR 82180, Nov. 22, 2023.
+##### § 419.46 Requirements under the Hospital Outpatient Quality Reporting (OQR) Program. #####
 
 (a) *Statutory authority.* Section 1833(t)(17) of the Act authorizes the Secretary to implement a quality reporting program in a manner so as to provide for a 2.0 percentage point reduction in the OPD fee schedule increase factor for a subsection (d) hospital (as defined in section 1886(d)(1)(B)) that does not submit data required to be submitted on measures in accordance with the Secretary's requirements in this part.
 
 (b) *Participation in the Hospital OQR Program.* To participate in the Hospital OQR Program, a hospital as defined in section 1886(d)(1)(B) of the Act and is paid under the OPPS must—
 
-(1) Register on the QualityNet website before beginning to report data;
+(1) Register on the CMS-designated information system before beginning to report data;
 
-(2) Identify and register a QualityNet security official as part of the registration process under paragraph (b)(1) of this section; and
+(2) Identify and register a CMS-designated information system security official as part of the registration process under paragraph (b)(1) of this section; and
 
 (3) Submit at least one data element.
 
-(c) *Withdrawal from the Hospital OQR Program.* A participating hospital may withdraw from the Hospital OQR Program by submitting to CMS a withdrawal form that can be found in the secure portion of the QualityNet website. The hospital may withdraw any time up to and including August 31 of the year prior to the affected annual payment updates. A withdrawn hospital will not be able to later sign up to participate in that payment update, is subject to a reduced annual payment update as specified under paragraph (i) of this section, and is required to renew participation as specified in paragraph (b) of this section in order to participate in any future year of the Hospital OQR Program.
+(c) *Withdrawal from the Hospital OQR Program.* A participating hospital may withdraw from the Hospital OQR Program by submitting to CMS a withdrawal form that can be found in the secure portion of the CMS-designated information system. The hospital may withdraw any time up to and including August 31 of the year prior to the affected annual payment updates. A withdrawn hospital will not be able to later sign up to participate in that payment update, is subject to a reduced annual payment update as specified under paragraph (i) of this section and is required to renew participation as specified in paragraph (b) of this section in order to participate in any future year of the Hospital OQR Program.
 
 (d) *Submission of Hospital OQR Program data.*(1) *General rule.* Except as provided in paragraph (e) of this section, hospitals that participate in the Hospital OQR Program must submit to CMS data on measures selected under section 1833(t)(17)(C) of the Act in a form and manner, and at a time, specified by CMS. Hospitals sharing the same CCN must combine data collection and submission across their multiple campuses for all clinical measures for public reporting purposes.
 
-(2) *Submission deadlines.* Submission deadlines by measure and by data type are posted on the QualityNet website. All deadlines occurring on a Saturday, Sunday, or legal holiday, or on any other day all or part of which is declared to be a nonwork day for Federal employees by statute or Executive order are extended to the first day thereafter which is not a Saturday, Sunday, or legal holiday or any other day all or part of which is declared to be a nonwork day for Federal employees by statute or Executive order.
+(2) *Submission deadlines.* Submission deadlines by measure and by data type are posted on the CMS website. All deadlines occurring on a Saturday, Sunday, or legal holiday, or on any other day all or part of which is declared to be a non-work day for Federal employees by statute or Executive order are extended to the first day thereafter which is not a Saturday, Sunday, or legal holiday or any other day all or part of which is declared to be a non-work day for Federal employees by statute or Executive order.
 
 (3) *Initial submission deadlines for a hospital that did not participate in the previous year's Hospital OQR Program.* (i) Hospitals that did not participate in the previous year's Hospital OQR Program must initially submit data beginning with encounters occurring during the first calendar quarter of the year prior to the affected annual payment update.
 
@@ -28,7 +26,7 @@ Link to an amendment published at 88 FR 82180, Nov. 22, 2023.
 
 (e) *Exception.* CMS may grant an exception to one or more data submission deadlines and requirements in the event of extraordinary circumstances beyond the control of the hospital, such as when an act of nature affects an entire region or locale or a systemic problem with one of CMS' data collection systems directly or indirectly affects data submission. CMS may grant an exception as follows:
 
-(1) *Upon request by the hospital.* Specific requirements for submission of a request for an exception are available on the QualityNet Web site.
+(1) *Upon request by the hospital.* Specific requirements for submission of a request for an exception are available on the CMS website.
 
 (2) *At the discretion of CMS.* CMS may grant exceptions to hospitals that have not requested them when CMS determines that an extraordinary circumstance has occurred.
 
@@ -52,7 +50,7 @@ Link to an amendment published at 88 FR 82180, Nov. 22, 2023.
 
 (4) Hospitals that are selected and receive a score for validation of chart-abstracted measures may request an educational review in order to better understand the results within 30 calendar days from the date the validation results are made available. If the results of an educational review indicate that a hospital's medical records selected for validation for chart-abstracted measures was incorrectly scored, the corrected quarterly validation score will be used to compute the hospital's final validation score at the end of the calendar year.
 
-(g) *Reconsiderations and appeals of Hospital OQR Program decisions.* (1) A hospital may request reconsideration of a decision by CMS that the hospital has not met the requirements of the Hospital OQR Program in paragraph (b) of this section for a particular calendar year. Except as provided in paragraph (e) of this section, a hospital must submit a reconsideration request to CMS via the QualityNet website, no later than March 17, or if March 17 falls on a nonwork day, on the first day after March 17 which is not a nonwork day as defined in paragraph (d)(2) of this section, of the affected payment year as determined using the date the request was mailed or submitted to CMS.
+(g) *Reconsiderations and appeals of Hospital OQR Program decisions.* (1) A hospital may request reconsideration of a decision by CMS that the hospital has not met the requirements of the Hospital OQR Program in paragraph (b) of this section for a particular calendar year. Except as provided in paragraph (e) of this section, a hospital must submit a reconsideration request to CMS via the CMS-designated information system, no later than March 17, or if March 17 falls on a nonwork day, on the first day after March 17 which is not a nonwork day as defined in paragraph (d)(2) of this section, of the affected payment year as determined using the date the request was mailed or submitted to CMS.
 
 (2) A reconsideration request must contain the following information:
 
@@ -82,7 +80,7 @@ Link to an amendment published at 88 FR 82180, Nov. 22, 2023.
 
 (i) *Retention and removal of quality measures under the Hospital OQR Program*—(1) *General rule for the retention of quality measures.* Quality measures adopted for the Hospital OQR Program measure set for a previous payment determination year are retained for use in subsequent payment determination years, except when they are removed, suspended, or replaced as set forth in paragraphs (i)(2) and (3) of this section.
 
-(2) *Immediate measure removal.* For cases in which CMS believes that the continued use of a measure as specified raises patient safety concerns, CMS will immediately remove a quality measure from the Hospital OQR Program and will promptly notify hospitals and the public of the removal of the measure and the reasons for its removal through the Hospital OQR Program ListServ and the QualityNet website.
+(2) *Immediate measure removal.* For cases in which CMS believes that the continued use of a measure as specified raises patient safety concerns, CMS will immediately remove a quality measure from the Hospital OQR Program and will promptly notify hospitals and the public of the removal of the measure and the reasons for its removal through the Hospital OQR Program ListServ and the CMS website.
 
 (3) *Measure removal, suspension, or replacement through the rulemaking process.* Unless a measure raises specific safety concerns as set forth in paragraph (i)(2) of this section, CMS will use the regular rulemaking process to remove, suspend, or replace quality measures in the Hospital OQR Program to allow for public comment.
 
@@ -112,4 +110,4 @@ Link to an amendment published at 88 FR 82180, Nov. 22, 2023.
 
 (iii) *Application of measure removal factors.* The benefits of removing a measure from the Hospital OQR Program will be assessed on a case-by-case basis. Under this case-by-case approach, a measure will not be removed solely on the basis of meeting any specific factor.
 
-[78 FR 75196, Dec. 10, 2013, as amended at 79 FR 67031, Nov. 10, 2014; 80 FR 70606, Nov. 13, 2015; 81 FR 79879, Nov. 14, 2016; 82 FR 52637, Nov. 13, 2017; 82 FR 59497, Dec. 14, 2017; 83 FR 59179, Nov. 21, 2018; 85 FR 86302, Dec. 29, 2020; 86 FR 63993, Nov. 16, 2021; 87 FR 72291, Nov. 23, 2022]
+[78 FR 75196, Dec. 10, 2013, as amended at 79 FR 67031, Nov. 10, 2014; 80 FR 70606, Nov. 13, 2015; 81 FR 79879, Nov. 14, 2016; 82 FR 52637, Nov. 13, 2017; 82 FR 59497, Dec. 14, 2017; 83 FR 59179, Nov. 21, 2018; 85 FR 86302, Dec. 29, 2020; 86 FR 63993, Nov. 16, 2021; 87 FR 72291, Nov. 23, 2022; 88 FR 82180, Nov. 22, 2023]

@@ -1,7 +1,5 @@
 ##### § 414.1375 Promoting Interoperability (PI) performance category. #####
 
-Link to an amendment published at 88 FR 79535, Nov. 16, 2023.
-
 (a) *Final score.* Unless a different scoring weight is assigned by CMS under sections 1848(o)(2)(D), 1848(q)(5)(E)(ii), or 1848(q)(5)(F) of the Act, performance in the Promoting Interoperability performance category comprises 25 percent of a MIPS eligible clinician's final score for each MIPS payment year.
 
 (b) *Reporting for the Promoting Interoperability performance category.* To earn a performance category score for the Promoting Interoperability performance category for inclusion in the final score, a MIPS eligible clinician must:
@@ -18,7 +16,9 @@ Link to an amendment published at 88 FR 79535, Nov. 16, 2023.
 
 (B) For each required measure, as applicable, report the numerator (of at least one) and denominator, or yes/no statement, or an exclusion for each measure that includes an option for an exclusion; and
 
-(C) Beginning with the 2024 MIPS payment year, report that the MIPS eligible clinician completed the actions included in the SAFER Guides measure during the year in which the performance period occurs.
+(C) Beginning with the 2024 MIPS payment year through the 2025 MIPS payment year, submit an attestation, with either an affirmative or negative response, with respect to whether the MIPS eligible clinician completed the annual self-assessment under the SAFER Guides measure during the year in which the performance period occurs.
+
+(D) Beginning with the 2026 MIPS payment year, submit an affirmative attestation regarding the MIPS eligible clinician's completion of the annual self-assessment under the SAFER Guides measure during the year in which the performance period occurs.
 
 (3) *Engaging in activities related to supporting providers with the performance of CEHRT; support for health information exchange and the prevention of information blocking; actions to limit or restrict the compatibility or interoperability of CEHRT.* (i) Supporting providers with the performance of CEHRT (SPPC). To engage in activities related to supporting providers with the performance of CEHRT, the MIPS eligible clinician—
 
@@ -56,4 +56,4 @@ Link to an amendment published at 88 FR 79535, Nov. 16, 2023.
 
 (B) [Reserved]
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53955, Nov. 16, 2017; 83 FR 60080, Nov. 23, 2018; 86 FR 65673, Nov. 19, 2021]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53955, Nov. 16, 2017; 83 FR 60080, Nov. 23, 2018; 86 FR 65673, Nov. 19, 2021; 88 FR 79535, Nov. 16, 2023]

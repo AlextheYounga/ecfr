@@ -1,7 +1,5 @@
 ##### § 960.255 Self-sufficiency incentives—Disallowance of increase in annual income. #####
 
-Link to an amendment published at 88 FR 9670, Feb. 14, 2023.
-
 (a) *Definitions.* The following definitions apply for purposes of this section.
 
 *Baseline income.* The annual income immediately prior to implementation of the disallowance described in paragraph (c)(1) of this section of a person who is a member of a qualified family.
@@ -50,4 +48,12 @@ Link to an amendment published at 88 FR 9670, Feb. 14, 2023.
 
 (6) If the family moves out of public housing, the PHA shall pay the tenant any balance in the account, minus any amounts owed to the PHA.
 
-[65 FR 16726, Mar. 29, 2000, as amended at 81 FR 12373, Mar. 8, 2016]
+(e) *Limitation.* This section applies to a family that is:
+
+(1) Receiving the disallowance of earned income under this section on December 31, 2023 or
+
+(2) Eligible to receive the Jobs Plus program rent incentive pursuant to the Jobs Plus FY2023 notice of funding opportunity (NOFO) or earlier appropriations and distributed through prior Jobs Plus NOFOs.
+
+(f) *Sunset.* This section will lapse on January 1, 2030.
+
+[65 FR 16726, Mar. 29, 2000, as amended at 81 FR 12373, Mar. 8, 2016; 88 FR 9670, Feb. 14, 2023]
