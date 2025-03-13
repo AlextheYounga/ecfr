@@ -1,5 +1,7 @@
 ##### § 769.159 Processing loan applications. #####
 
+Link to an amendment published at 89 FR 65062, Aug. 8, 2024.
+
 (a) *Application dates.* The opening and closing dates for the HPRP applications submission will be announced in Federal Register.
 
 (b) *Intermediary loan application review.* After the closing date, the Agency will review applications from intermediaries for compliance with the provisions of this subpart.

@@ -1,5 +1,7 @@
 ##### § 765.404 Transfer of security to and assumption of debt by ineligible applicants. #####
 
+Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
+
 (a) *General.* (1) The Agency will allow the transfer of real estate and chattel security property to applicants who are ineligible for the type of loan being assumed only on Non-program loan rates and terms.
 
 (2) The Agency will reclassify the assumed loan as a Non-program loan.

@@ -1,5 +1,7 @@
 ##### § 764.103 General security requirements. #####
 
+Link to an amendment published at 89 FR 65039, Aug. 8, 2024.
+
 (a) Security requirements specific to each loan program are outlined in subparts D through I of this part.
 
 (b) All loans must be secured by assets having a security value of at least 100 percent of the loan amount, except for EM loans as provided in subpart I of this part. If the applicant's assets do not provide adequate security, the Agency may accept:

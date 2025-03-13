@@ -1,5 +1,7 @@
 ##### § 765.403 Transfer of security to and assumption of debt by eligible applicants. #####
 
+Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
+
 (a) *Transfer of real estate and chattel security.* The Agency may approve transfers of security with assumption of FLP debt, other than EM loans for physical or production losses, by transferees eligible for the type of loan being assumed if:
 
 (1) The transferee meets all loan and security requirements in part 764 of this chapter for the type of loan being assumed; and

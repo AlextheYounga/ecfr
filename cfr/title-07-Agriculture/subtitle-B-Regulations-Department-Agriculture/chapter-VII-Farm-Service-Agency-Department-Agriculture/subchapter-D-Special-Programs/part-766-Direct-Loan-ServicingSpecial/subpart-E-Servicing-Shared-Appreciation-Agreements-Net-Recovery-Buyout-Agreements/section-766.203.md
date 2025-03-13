@@ -1,5 +1,7 @@
 ##### § 766.203 Payment of recapture. #####
 
+Link to an amendment published at 89 FR 65045, Aug. 8, 2024.
+
 (a) The borrower must pay on the due date or 30 days from Agency notification, whichever is later:
 
 (1) Seventy-five percent of the appreciation in the real estate security if the agreement is triggered within 4 years or less from the date of the writedown; or

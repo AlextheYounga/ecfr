@@ -1,5 +1,7 @@
 ##### § 764.457 Vendor requirements. #####
 
+Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
+
 (a) *Minimum experience.* The vendor must demonstrate a minimum of 3 years of experience in conducting training courses or teaching the subject matter.
 
 (b) *Training objectives.* The courses provided by a vendor must enable the applicant to accomplish one or more of the following objectives:

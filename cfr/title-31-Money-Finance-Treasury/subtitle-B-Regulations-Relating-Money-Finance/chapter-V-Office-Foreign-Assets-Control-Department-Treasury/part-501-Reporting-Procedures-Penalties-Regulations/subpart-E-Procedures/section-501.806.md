@@ -1,37 +1,31 @@
-##### § 501.806 Procedures for unblocking funds believed to have been blocked due to mistaken identity. #####
+##### § 501.806 Procedures for unblocking property believed to have been blocked and reported in error due to mistaken identity or typographical or similar errors. #####
 
-Link to an amendment published at 89 FR 40377, May 10, 2024.
+When a party believes it has blocked property pursuant to the applicable regulations of this chapter due to mistaken identity or typographical or similar errors, such party may seek to have such property unblocked pursuant to the following administrative procedures:
 
-When a transaction results in the blocking of funds at a financial institution pursuant to the applicable regulations of this chapter and a party to the transaction believes the funds have been blocked due to mistaken identity, that party may seek to have such funds unblocked pursuant to the following administrative procedures:
+(a) Any person who has blocked and reported to the Office of Foreign Assets Control (OFAC) property pursuant to § 501.603 may submit a request for authorization to release blocked property that was blocked in error due to mistaken identity or typographical or similar error.
 
-(a) Any person who is a party to the transaction may request the release of funds which the party believes to have been blocked due to mistaken identity.
+(b) Requests to release such property must be sent via email to *OFACReport@treasury.gov* and include the phrase “31 CFR 501.806—Request for a Compliance Release” in the subject line of the email.
 
-(b) Requests to release funds which a party believes to have been blocked due to mistaken identity must be made in writing and addressed to the Office of Foreign Assets Control, Complianc Division, U.S. Department of the Treasury, 1500 Pennsylvania Avenue NW, Freedman's Bank Building, Washington, DC 20220, or sent by email to the Compliance Division at *OFACreport@treasury.gov.*
+(c) A request to release property must include the name, address, telephone number, and email address of the person seeking the release of the property.
 
-(c) The written request to release funds must include the name, address, telephone number, and (where available) fax number of the party seeking the release of the funds. For individuals, the inclusion of a social security number is voluntary but will facilitate resolution of the request. For corporations or other entities, the application should include its principal place of business, the state of incorporation or organization, and the name and telephone number of the appropriate person to contact regarding the application.
+(d) A request to release property should include the following information, where known, concerning the blocked property:
 
-(d) A request to release funds should include the following information, where known, concerning the transaction:
+(1) The name of the person that holds the blocked property or filed the initial report of blocked property;
 
-(1) The name of the financial institution in which the funds are blocked;
+(2) The actual value, or if unknown, estimated value, in U.S. dollars of the blocked property, as included in the initial report of blocked property;
 
-(2) The amount blocked;
+(3) The date of the blocking included in the initial report of blocked property;
 
-(3) The date of the blocking;
+(4) A copy of a valid government-issued identification document, social security number or employer identification number for a person whose property is believed to have been blocked in error, when applicable;
 
-(4) The identity of the original remitter of the funds and any intermediary financial institutions;
+(5) The OFAC Reporting System (ORS) identification numbers associated with the initial report of blocked property filed with OFAC, when available;
 
-(5) The intended beneficiary of the blocked transfer;
+(6) A description of the property or underlying transaction; and
 
-(6) A description of the underlying transaction including copies of related documents (e.g., invoices, bills of lading, promissory notes, etc.);
+(7) A narrative description of the reasons why the applicant believes the property was blocked in error.
 
-(7) The nature of the applicant's interest in the funds; and
+(e) Upon receipt of the materials required by paragraph (d) of this section, OFAC may request additional material, if available, from the applicant concerning the blocked property pursuant to § 501.602.
 
-(8) A statement of the reasons why the applicant believes the funds were blocked due to mistaken identity.
+(f) Following review of all applicable submissions, OFAC will determine whether the property should be released. In the event that OFAC determines that the property should be released, it will direct the person to release the property to the appropriate party.
 
-(e) Upon receipt of the materials required by paragraph (d) of this section, OFAC may request additional material from the applicant concerning the transaction pursuant to § 501.602.
-
-(f) Following review of all applicable submissions, the Director of the Office of Foreign Assets Control will determine whether to release the funds. In the event the Director determines that the funds should be released, the Office of Foreign Assets Control will direct the financial institution to return the funds to the appropriate party.
-
-(g) For purposes of this section, the term “financial institution” shall include a banking institution, depository institution or United States depository institution, domestic bank, financial institution or U.S. financial institution, as those terms are defined in the applicable part of this chapter.
-
-[62 FR 45101, Aug. 25, 1997, as amended at 62 FR 52495, Oct. 8, 1997; 84 FR 29062, June 21, 2019; 89 FR 15740, Mar. 5, 2024]
+[89 FR 40378, May 10, 2024]

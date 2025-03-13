@@ -1,5 +1,7 @@
 ##### § 762.120 Applicant eligibility. #####
 
+Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
+
 Unless otherwise provided, applicants must meet all of the following requirements to be eligible for a guaranteed OL, FO, or CL.
 
 (a) *Agency loss.* (1) Except as provided in paragraph (a)(2) of this section, the applicant, and anyone who will execute the promissory note, has not caused the Agency a loss by receiving debt forgiveness on all or a portion of any direct or guaranteed loan made under the authority of the Act by debt write-down or write-off; compromise, adjustment, reduction, or charge-off under the provisions of section 331 of the Act; discharge in bankruptcy; or through payment of a guaranteed loss claim on:

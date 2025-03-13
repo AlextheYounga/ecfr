@@ -1,5 +1,7 @@
 ##### § 764.255 Security requirements. #####
 
+Link to an amendment published at 89 FR 65041, Aug. 8, 2024.
+
 An OL loan must be secured:
 
 (a) In accordance with §§ 764.103 through 764.106.

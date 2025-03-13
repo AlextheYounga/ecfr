@@ -1,5 +1,7 @@
 ##### § 766.52 Eligibility. #####
 
+Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
+
 (a) *Borrower eligibility.* The borrower must meet all of the following requirements to be eligible for a DSA:
 
 (1) The borrower must have operated the farm in a county designated or declared a disaster area or a contiguous county at the time of the disaster. Farmers who have rented out their land base for cash are not operating the farm.

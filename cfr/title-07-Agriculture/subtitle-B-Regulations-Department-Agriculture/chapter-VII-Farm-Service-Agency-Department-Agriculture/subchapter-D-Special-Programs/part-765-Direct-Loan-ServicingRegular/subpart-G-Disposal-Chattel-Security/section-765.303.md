@@ -1,5 +1,7 @@
 ##### § 765.303 Use of proceeds from chattel security. #####
 
+Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
+
 (a) *General.* (1) Proceeds from the sale of basic security and normal income security must be remitted to lienholders in order of lien priority.
 
 (2) Proceeds remitted to the Agency may be used as follows:

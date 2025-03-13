@@ -1,5 +1,7 @@
 ##### § 766.107 Consolidation and rescheduling. #####
 
+Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
+
 (a) *Loans eligible for consolidation.* The Agency may consolidate OL loans if:
 
 (1) The borrower meets the loan servicing eligibility requirements in § 766.104;

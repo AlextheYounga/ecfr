@@ -1,5 +1,7 @@
 ##### § 764.154 Rates and terms. #####
 
+Link to an amendment published at 89 FR 65040, Aug. 8, 2024.
+
 (a) *Rates.* (1) The interest rate is the Agency's Direct Farm Ownership rate, available in each Agency office.
 
 (2) The limited resource Farm Ownership interest rate is available to applicants who are unable to develop a feasible plan at regular interest rates.

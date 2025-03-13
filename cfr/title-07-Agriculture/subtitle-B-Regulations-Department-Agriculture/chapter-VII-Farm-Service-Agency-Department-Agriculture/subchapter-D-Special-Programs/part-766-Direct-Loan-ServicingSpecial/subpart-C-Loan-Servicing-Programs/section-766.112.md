@@ -1,5 +1,7 @@
 ##### § 766.112 Additional security for restructured loans. #####
 
+Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
+
 (a) If the borrower is delinquent prior to restructuring, the borrower, and all entity members in the case of an entity, must execute and provide to the Agency a lien on all of their assets, except as provided in paragraph (b) of this section, when the Agency is servicing a loan.
 
 (b) The Agency will take the best lien obtainable on all assets the borrower owns, except:

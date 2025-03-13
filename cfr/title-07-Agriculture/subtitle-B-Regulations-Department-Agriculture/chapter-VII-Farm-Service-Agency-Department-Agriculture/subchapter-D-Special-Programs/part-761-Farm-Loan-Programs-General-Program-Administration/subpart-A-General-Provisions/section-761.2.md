@@ -1,5 +1,7 @@
 ##### § 761.2 Abbreviations and definitions. #####
 
+Link to an amendment published at 89 FR 65035, Aug. 8, 2024.
+
 The following abbreviations and definitions are applicable to the Farm Loan Programs addressed in parts 761 through 767 and 769 unless otherwise noted.
 
 (a) *Abbreviations.*

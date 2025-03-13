@@ -1,5 +1,7 @@
 ##### § 766.54 Borrower application requirements. #####
 
+Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
+
 (a) *Requests for DSA.* (1) A borrower must submit a request for DSA in writing within eight months from the date the natural disaster was designated.
 
 (2) All borrowers must sign the DSA request.

@@ -1,5 +1,7 @@
 ##### § 766.102 Borrower application requirements. #####
 
+Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
+
 (a) Except as provided in paragraph (e) of this section, an application for primary loan servicing, conservation contract, current market value buyout, homestead protection, or some combination of these options, must include the following to be considered complete:
 
 (1) Completed acknowledgment form provided with the Agency notification and signed by all borrowers;

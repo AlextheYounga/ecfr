@@ -1,5 +1,7 @@
 ##### § 764.51 Loan application. #####
 
+Link to an amendment published at 89 FR 65039, Aug. 8, 2024.
+
 (a) A loan application must be submitted in the name of the actual operator of the farm. Two or more applicants applying jointly will be considered an entity applicant. The Agency will consider tax filing status and other business dealings as indicators of the operator of the farm.
 
 (b) A complete loan application, except as provided in paragraphs (c) through (f) of this section, will include:

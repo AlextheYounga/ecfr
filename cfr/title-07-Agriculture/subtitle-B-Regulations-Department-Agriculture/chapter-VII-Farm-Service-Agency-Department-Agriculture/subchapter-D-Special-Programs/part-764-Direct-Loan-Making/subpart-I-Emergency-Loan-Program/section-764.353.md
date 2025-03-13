@@ -1,5 +1,7 @@
 ##### § 764.353 Limitations. #####
 
+Link to an amendment published at 89 FR 65041, Aug. 8, 2024.
+
 (a) EM loans must comply with the general limitations established at § 764.102.
 
 (b) EM loans may not exceed the lesser of:

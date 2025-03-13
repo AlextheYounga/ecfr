@@ -1,5 +1,7 @@
 ##### § 768.1 Providing equitable relief. #####
 
+Link to an amendment published at 89 FR 65062, Aug. 8, 2024.
+
 (a) If the Farm Service Agency (Agency or FSA) determines that a borrower is not in compliance with Agency loan requirements in this chapter, the Agency may consider equitable relief as specified in this section:
 
 (1) *Requirements.* After determination that a borrower is in noncompliance with loan program requirements in this chapter, the Agency may provide equitable relief to a borrower if it is determined that the borrower:

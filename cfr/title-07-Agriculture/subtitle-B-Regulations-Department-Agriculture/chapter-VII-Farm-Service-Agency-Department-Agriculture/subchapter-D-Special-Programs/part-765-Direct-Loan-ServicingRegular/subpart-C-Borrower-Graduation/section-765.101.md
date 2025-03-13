@@ -1,5 +1,7 @@
 ##### § 765.101 Borrower graduation requirements. #####
 
+Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
+
 (a) In accordance with the promissory note and security instruments, the borrower must graduate to another source of credit if the Agency determines that:
 
 (1) The borrower has the ability to obtain credit from other sources; and

@@ -1,5 +1,7 @@
 ##### § 765.352 Use of proceeds. #####
 
+Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
+
 (a) Proceeds from transactions affecting the real estate security may only be used as follows:
 
 (1) Applied on liens in order of priority;

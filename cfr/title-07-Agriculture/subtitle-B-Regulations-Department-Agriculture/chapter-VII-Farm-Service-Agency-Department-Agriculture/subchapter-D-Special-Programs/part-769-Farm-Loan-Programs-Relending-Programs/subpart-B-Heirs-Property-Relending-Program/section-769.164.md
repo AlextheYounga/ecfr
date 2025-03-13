@@ -1,5 +1,7 @@
 ##### § 769.164 Post award requirements. #####
 
+Link to an amendment published at 89 FR 65063, Aug. 8, 2024.
+
 (a) *Applicability.* Whenever this subpart imposes a requirement on loan funds from the HPRP revolving loan fund, the requirement will apply to all loans made by an intermediary to an ultimate recipient from the intermediary's HPRP revolving loan fund for as long as any portion of the intermediary's HPRP loan remains unpaid.
 
 (b) *Applicability for HPRP loan funds.* Whenever this subpart imposes a requirement on loans made by intermediaries from HPRP loan funds, without specific reference to the HPRP revolving loan fund, such requirement only applies to loans made by an intermediary using HPRP loan funds, and will not apply to loans made from revolved funds.

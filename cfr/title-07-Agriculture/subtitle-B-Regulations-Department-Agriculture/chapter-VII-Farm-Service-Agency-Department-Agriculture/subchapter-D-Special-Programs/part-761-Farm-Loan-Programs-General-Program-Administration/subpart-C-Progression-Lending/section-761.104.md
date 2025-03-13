@@ -1,5 +1,7 @@
 ##### § 761.104 Developing the farm operating plan. #####
 
+Link to an amendment published at 89 FR 65037, Aug. 8, 2024.
+
 (a) An applicant or borrower must submit a farm operating plan to the Agency, upon request, for loan making or servicing purposes.
 
 (b) An applicant or borrower may request Agency assistance in developing the farm operating plan.

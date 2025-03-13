@@ -1,5 +1,7 @@
 ##### § 766.101 Initial Agency notification to borrower of loan servicing programs. #####
 
+Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
+
 (a) *Borrowers notified.* The Agency will provide servicing information under this section to borrowers who:
 
 (1) Have a current farm operating plan that demonstrates the borrower is financially distressed;

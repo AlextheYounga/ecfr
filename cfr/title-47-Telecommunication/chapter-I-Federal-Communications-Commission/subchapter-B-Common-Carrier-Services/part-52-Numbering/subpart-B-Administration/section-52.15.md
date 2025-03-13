@@ -1,7 +1,5 @@
 ##### § 52.15 Central office code administration. #####
 
-Link to an amendment published at 88 FR 80637, Nov. 20, 2023.
-
 (a) Central Office Code Administration shall be performed by the NANPA, or another entity or entities, as designated by the Commission.
 
 (b) Duties of the entity or entities performing central office code administration may include, but are not limited to:
@@ -84,29 +82,35 @@ Link to an amendment published at 88 FR 80637, Nov. 20, 2023.
 
 (A) The applicant's name, address, and telephone number and contact information for personnel qualified to address issues relating to regulatory requirements, compliance with Commission's rules in this chapter, 911, and law enforcement;
 
-(B) An acknowledgment that the authorization granted under this paragraph (g)(3) is subject to compliance with applicable Commission numbering rules in this part; numbering authority delegated to the states; and industry guidelines and practices regarding numbering as applicable to telecommunications carriers;
+(B) An acknowledgment that the authorization granted under this paragraph (g)(3) is subject to compliance with applicable Commission numbering rules in this part; numbering authority delegated to the states, and the state laws, regulations, and registration requirements applicable to businesses operating in each state where the applicant seeks numbering resources; and industry guidelines and practices regarding numbering as applicable to telecommunications carriers;
 
-(C)-(F) [Reserved]
+(C) A certification that the applicant will not use the numbers obtained pursuant to an authorization under this paragraph (g)(3) to knowingly transmit, encourage, assist, or facilitate illegal robocalls, illegal spoofing, or fraud, in violation of robocall, spoofing, and deceptive telemarketing obligations under §§ 64.1200, 64.1604, and 64.6300 through 64.6308 of this chapter and 16 CFR 310.3(b);
+
+(D) A certification that the applicant has fully complied with all applicable STIR/SHAKEN caller ID authentication and robocall mitigation program requirements and filed a certification in the Robocall Mitigation Database as required by §§ 64.6301 through 64.6305 of this chapter;
+
+(E) A certification with accompanying evidence that the applicant complies with its 911 obligations under part 9 of this chapter, and that it complies with the provisions of the Communications Assistance with Law Enforcement Act, 47 U.S.C. 1001 *et seq.* Wireline Competition Bureau (Bureau) or other Commission staff may request additional documentation from the applicant to demonstrate compliance with these public safety obligations, where necessary;
+
+(F) A certification that the applicant complies with the Access Stimulation rules under § 51.914 of this chapter;
 
 (G) An acknowledgment that the applicant must file requests for numbers with the relevant state commission(s) at least 30 days before requesting numbers from the Numbering Administrators;
 
 (H) Proof that the applicant is or will be capable of providing service within sixty (60) days of the numbering resources activation date in accordance with paragraph (g)(2) of this section;
 
-(I) [Reserved]
+(I) Proof that the applicant has filed FCC Forms 477 and 499, or a statement explaining why each such form is not yet applicable;
 
 (J) A certification that the applicant complies with its applicable Universal Service Fund contribution obligations under part 54, subpart H, of this chapter, its Telecommunications Relay Service contribution obligations under § 64.604(c)(5)(iii) of this chapter, its NANP and local number portability (LNP) administration contribution obligations under §§ 52.17 and 52.32 of this chapter, and its obligations to pay regulatory fees under § 1.1154 of this chapter;
 
-(K) A certification that the applicant possesses the financial, managerial, and technical expertise to provide reliable service. This certification must include the name of applicant's key management and technical personnel, such as the Chief Operating Officer and the Chief Technology Officer, or equivalent, and state that none of the identified personnel are being or have been investigated by the Commission or any law enforcement or regulatory agency for failure to comply with any law, rule, or order; and
+(K) A certification that the applicant possesses the financial, managerial, and technical expertise to provide reliable service. This certification must include the name of applicant's key management and technical personnel, such as the Chief Operating Officer and the Chief Technology Officer, or equivalent, and state that neither the applicant nor any of the identified personnel are being or have been investigated by the Commission, law enforcement, or any regulatory agency for failure to comply with any law, rule, or order, including the Commission's rules in this chapter applicable to unlawful robocalls or unlawful spoofing;
 
-(L) [Reserved]
+(L) The same information, disclosures, and certifications required by § 63.18(h) and (i) of this chapter;
 
-(M) A certification pursuant to §§ 1.2001 and 1.2002 of this chapter that no party to the application is subject to a denial of Federal benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988, *see* 21 U.S.C. 862.
+(M) A certification pursuant to §§ 1.2001 and 1.2002 of this chapter that no party to the application is subject to a denial of Federal benefits pursuant to section 5301 of the Anti-Drug Abuse Act of 1988, *see* 21 U.S.C. 862;
 
-(N) [Reserved]
+(N) A declaration under penalty of perjury pursuant to § 1.16 of this chapter that all statements in the application and any appendices are true and accurate. This declaration shall be executed by an officer or other authorized representative of the applicant.
 
 (iii) *Filing procedure.* An applicant for Commission authorization under this section must file its application electronically through the “Submit a Non-Docketed Filing” module of the Commission's Electronic Comment Filing System (ECFS). Each application shall be accompanied by the fee prescribed in part 1, subpart G, of this chapter.
 
-(iv) *Public notice and review period for streamlined pleading cycle.* Upon determination by the Wireline Competition Bureau (Bureau) that the applicant has filed a complete application that is appropriate for streamlined treatment, the Bureau will assign a docket number to the application and issue a public notice stating that the application has been accepted for filing as a streamlined application. The applicant must make all subsequent filings relating to its application in this docket. Parties may file comments addressing an application for authorization no later than 15 days after the Bureau releases a public notice stating that the application has been accepted for filing, unless the public notice specifies a different filing date. An application under this section is deemed granted by the Commission on the 31st day after the Commission releases a public notice stating that the application has been accepted for filing, unless the Bureau notifies the applicant that the grant will not be automatically effective.
+(iv) *Public notice and review period for streamlined pleading cycle.* Upon determination by the Bureau that the applicant has filed a complete application that is appropriate for streamlined treatment, the Bureau will assign a docket number to the application and issue a public notice stating that the application has been accepted for filing as a streamlined application. The applicant must make all subsequent filings relating to its application in this docket. Parties may file comments addressing an application for authorization no later than 15 days after the Bureau releases a public notice stating that the application has been accepted for filing, unless the public notice specifies a different filing date. An application under this section is deemed granted by the Commission on the 31st day after the Commission releases a public notice stating that the application has been accepted for filing, unless the Bureau notifies the applicant that the grant will not be automatically effective.
 
 (v) *Non-streamlined processing of applications.* If an application discloses that the applicant has reportable ownership by a foreign person or entity, the Bureau shall remove the application from streamlined processing. The Bureau may also remove an application from streamlined processing at its discretion for other reasons. The Bureau shall notify the applicant by public notice that it is removing the application from streamlined processing, and shall state the reason for the removal. An application may also receive non-streamlined processing if:
 
@@ -150,7 +154,7 @@ Link to an amendment published at 88 FR 80637, Nov. 20, 2023.
 
 (x) *Conditions applicable to all interconnected VoIP provider numbering authorizations.* An interconnected VoIP provider authorized to request numbering resources directly from the Numbering Administrators under this section shall:
 
-(A) Maintain the accuracy of all contact information and certifications in its application. If any contact information or certification is no longer accurate, the provider must file a correction with the Commission and each applicable state within thirty (30) days of the change of contact information or certification. The Commission may use the updated information or certification to determine whether a change in authorization status is warranted;
+(A) Maintain the accuracy of all contact information, certifications, and ownership or affiliation information in its application. If any contact information, certification, or affiliation information submitted in an application pursuant to this section, is no longer accurate, the provider must file a correction with the Commission and each applicable state within thirty (30) days of the change of contact information, certification, or affiliation information. Regarding ownership information, if the holders of equity and/or voting interests in the provider change such that a provider that previously did not have reportable ownership or control information under paragraph (g)(3)(ii)(L) of this section now has reportable ownership or control information, or there is a change to the reportable ownership or control information the provider previously reported under paragraph (g)(3)(ii)(L), the provider must file a correction with the Commission and each applicable state within thirty (30) days of the change to its ownership or control information. The Commission may use the updated contact information, certifications, or ownership or affiliation information to determine whether a change in authorization status is warranted;
 
 (B) Comply with the applicable Commission numbering rules in this part; numbering authority delegated to the states; and industry guidelines and practices regarding numbering as applicable to telecommunications carriers;
 
@@ -206,4 +210,4 @@ Link to an amendment published at 88 FR 80637, Nov. 20, 2023.
 
 (3) Requests for “for cause” audits shall be forwarded to the Chief of the Enforcement Bureau, with a copy to the Chief of the Common Carrier Bureau. Requests must state the reason for which a “for cause” audit is being requested and include documentation of the alleged anomaly, inconsistency, or violation of the Commission rules or orders or applicable industry guidelines. The Chief of the Enforcement Bureau will provide carriers up to 30 days to provide a written response to a request for a “for cause” audit.
 
-[61 FR 47353, Sept. 6, 1996, as amended at 62 FR 55182, Oct. 23, 1997; 65 FR 37707, June 16, 2000; 66 FR 9531, Feb. 8, 2001; 67 FR 6434, Feb. 12, 2002; 67 FR 13226, Mar. 21, 2002; 68 FR 25843, May 14, 2003; 71 FR 65750, Nov. 9, 2006; 80 FR 66479, Oct. 29, 2015; 84 FR 11232, Mar. 26, 2019; 88 FR 80636, Nov. 20, 2023]
+[61 FR 47353, Sept. 6, 1996, as amended at 62 FR 55182, Oct. 23, 1997; 65 FR 37707, June 16, 2000; 66 FR 9531, Feb. 8, 2001; 67 FR 6434, Feb. 12, 2002; 67 FR 13226, Mar. 21, 2002; 68 FR 25843, May 14, 2003; 71 FR 65750, Nov. 9, 2006; 80 FR 66479, Oct. 29, 2015; 84 FR 11232, Mar. 26, 2019; 88 FR 80636, Nov. 20, 2023; 89 FR 80637, Aug. 8, 2024]

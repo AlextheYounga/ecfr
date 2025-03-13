@@ -1,5 +1,7 @@
 ##### § 764.106 Exceptions to security requirements. #####
 
+Link to an amendment published at 89 FR 65040, Aug. 8, 2024.
+
 Notwithstanding any other provision of this part, the Agency will not take a security interest:
 
 (a) When adequate security is otherwise available and the lien will prevent the applicant from obtaining credit from other sources;

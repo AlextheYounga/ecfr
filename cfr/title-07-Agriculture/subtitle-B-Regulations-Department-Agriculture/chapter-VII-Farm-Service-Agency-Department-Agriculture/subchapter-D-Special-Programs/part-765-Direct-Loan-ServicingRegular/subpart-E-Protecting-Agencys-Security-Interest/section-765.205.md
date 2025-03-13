@@ -1,5 +1,7 @@
 ##### § 765.205 Subordination of liens. #####
 
+Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
+
 (a) *Borrower application requirements.* The borrower must submit the following, unless it already exists in the Agency's file and is still current as determined by the Agency:
 
 (1) Completed Agency application for subordination form;

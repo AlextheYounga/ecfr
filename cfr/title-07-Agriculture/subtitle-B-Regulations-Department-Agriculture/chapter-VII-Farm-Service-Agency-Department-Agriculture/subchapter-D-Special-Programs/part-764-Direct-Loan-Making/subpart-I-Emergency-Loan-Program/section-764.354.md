@@ -1,5 +1,7 @@
 ##### § 764.354 Rates and terms. #####
 
+Link to an amendment published at 89 FR 65041, Aug. 8, 2024.
+
 (a) *Rates.* (1) The interest rate is the Agency's Emergency Loan Actual Loss rate, available in each Agency office.
 
 (2) The interest rate charged will be the lower rate in effect at the time of loan approval or loan closing.

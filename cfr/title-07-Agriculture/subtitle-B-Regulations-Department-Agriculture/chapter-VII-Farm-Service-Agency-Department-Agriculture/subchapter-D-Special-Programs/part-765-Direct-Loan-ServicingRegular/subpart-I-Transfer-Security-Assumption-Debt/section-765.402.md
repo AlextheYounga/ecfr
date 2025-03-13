@@ -1,5 +1,7 @@
 ##### § 765.402 Transfer of security and loan assumption on same rates and terms. #####
 
+Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
+
 An eligible applicant may assume an FLP loan on the same rates and terms as the original note if:
 
 (a) The original borrower has died and the spouse, other relative, or joint tenant who is not obligated on the note inherits the security property;

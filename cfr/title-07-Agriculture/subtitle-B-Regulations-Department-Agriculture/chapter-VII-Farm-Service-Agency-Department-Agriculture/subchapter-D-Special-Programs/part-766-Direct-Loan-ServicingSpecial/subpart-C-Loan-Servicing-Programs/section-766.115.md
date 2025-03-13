@@ -1,5 +1,7 @@
 ##### § 766.115 Challenging the Agency appraisal. #####
 
+Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
+
 (a) A borrower considered for primary loan servicing who does not agree with the Agency's appraisal of the borrower's assets may:
 
 (1) Obtain a USPAP compliant technical appraisal review prepared by a State Certified General Appraiser of the Agency's appraisal and provide it to the Agency prior to reconsideration or the appeal hearing;

@@ -1,5 +1,7 @@
 ##### § 762.145 Restructuring guaranteed loans. #####
 
+Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
+
 (a) *General.* (1) To restructure guaranteed loans standard eligible lenders must:
 
 (i) Obtain prior written approval of the Agency for all restructuring actions; and,

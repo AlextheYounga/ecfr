@@ -1,5 +1,7 @@
 ##### § 762.150 Interest assistance program. #####
 
+Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
+
 (a) *Requests for interest assistance.* In addition to the loan application items required by § 762.110, to apply for interest assistance the lender's cash flow budget for the guaranteed applicant must reflect the need for interest assistance and the ability to cash flow with the subsidy. Interest assistance is available only on new guaranteed Operating Loans (OL).
 
 (b) *Eligibility requirements.* The lender must document that the following conditions have been met for the applicant to be eligible for interest assistance:

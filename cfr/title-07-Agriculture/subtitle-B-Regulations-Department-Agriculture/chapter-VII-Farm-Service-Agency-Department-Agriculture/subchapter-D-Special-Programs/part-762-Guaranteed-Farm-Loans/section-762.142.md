@@ -1,5 +1,7 @@
 ##### § 762.142 Servicing related to collateral. #####
 
+Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
+
 (a) *General.* The lender's responsibilities regarding servicing collateral include, but are not limited to, the following:
 
 (1) Obtain income and insurance assignments when required.

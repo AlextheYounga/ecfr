@@ -1,5 +1,7 @@
 ##### § 766.111 Writedown. #####
 
+Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
+
 (a) *Borrower eligibility.* The Agency will only consider a writedown if the borrower:
 
 (1) Meets the eligibility criteria in § 766.104;

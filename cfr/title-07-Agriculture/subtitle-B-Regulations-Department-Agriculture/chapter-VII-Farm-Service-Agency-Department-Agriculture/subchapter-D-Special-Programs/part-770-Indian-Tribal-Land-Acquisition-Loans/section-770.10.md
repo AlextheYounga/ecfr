@@ -1,5 +1,7 @@
 ##### § 770.10 Servicing. #####
 
+Link to an amendment published at 89 FR 65063, Aug. 8, 2024.
+
 (a) *Reamortization*—(1) *Eligibility.* The Agency may consider reamortization of a loan provided:
 
 (i) The borrower submits a completed Agency application form; and

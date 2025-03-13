@@ -1,7 +1,5 @@
 ##### § 210.34 Treatment of confidential and other sensitive information. #####
 
-Link to an amendment published at 89 FR 56617, July 9, 2024.
-
 (a) *General.* This section prescribes the rules under which the mechanical licensing collective and digital licensee coordinator shall ensure that confidential, private, proprietary, or privileged information received by the mechanical licensing collective or digital licensee coordinator or contained in their records is not improperly disclosed or used, in accordance with 17 U.S.C. 115(d)(12)(C), including with respect to disclosure or use by the board of directors, committee members, and personnel of the mechanical licensing collective or digital licensee coordinator.
 
 (b) *Definitions.* For purposes of this section:
@@ -56,7 +54,9 @@ Link to an amendment published at 89 FR 56617, July 9, 2024.
 
 (iii) Attorneys and other authorized agents of parties to proceedings before federal courts, the Copyright Office, or the Copyright Royalty Judges, or when such disclosure is required by court order or subpoena, subject to an appropriate protective order or agreement.
 
-(5) With the exception of persons receiving information pursuant to paragraph (c)(4) of this section, anyone to whom the mechanical licensing collective or digital licensee coordinator discloses Confidential Information as permitted in section shall not disclose such Confidential Information to anyone else except as expressly permitted in this section.
+(5) With the exception of persons receiving information pursuant to paragraph (c)(4) or (6) of this section, anyone to whom the mechanical licensing collective or digital licensee coordinator discloses Confidential Information as permitted in section shall not disclose such Confidential Information to anyone else except as expressly permitted in this section.
+
+(6) Notwithstanding paragraph (c)(1) of this section, where the mechanical licensing collective places any amount on hold pursuant to a dispute initiated under § 210.30(e), the mechanical licensing collective shall promptly disclose the total amount held for each disputed work (or share thereof) to the parties to the dispute, which shall include an identification of the approximate amount of royalties expected to have been distributed for each disputed work (or share thereof) in the first monthly distribution to occur after the initiation of the hold. Upon the written request of any party to the dispute, the mechanical licensing collective shall provide an update about the amount held to all parties to the dispute within a reasonable period of time, except that the mechanical licensing collective is not required to provide such an update more frequently than once every three months.
 
 (d) *Use of Confidential Information.* (1) The mechanical licensing collective shall not use any Confidential Information for any purpose other than the collective's authorized functions under 17 U.S.C. 115(d) and activities related directly thereto. Anyone to whom the mechanical licensing collective discloses Confidential Information as permitted in this section shall not use any Confidential Information for any purpose other than in performing their duties during the ordinary course of their work for the mechanical licensing collective or as otherwise permitted under paragraph (c)(4) of this section.
 
@@ -86,4 +86,4 @@ Link to an amendment published at 89 FR 56617, July 9, 2024.
 
 (h) *Confidentiality agreements.* The use of confidentiality agreements by the mechanical licensing collective and digital licensee coordinator shall not be inconsistent with the other provisions of this section.
 
-[86 FR 9019, Feb. 11, 2021]
+[86 FR 9019, Feb. 11, 2021, as amended at 89 FR 56617, July 9, 2024]

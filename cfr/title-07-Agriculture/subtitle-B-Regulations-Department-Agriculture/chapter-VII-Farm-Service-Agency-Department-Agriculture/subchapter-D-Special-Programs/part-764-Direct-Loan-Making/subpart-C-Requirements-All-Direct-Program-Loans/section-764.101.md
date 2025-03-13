@@ -1,5 +1,7 @@
 ##### § 764.101 General eligibility requirements. #####
 
+Link to an amendment published at 89 FR 65039, Aug. 8, 2024.
+
 The following requirements must be met unless otherwise provided in the eligibility requirements for the particular type of loan.
 
 (a) *Controlled substances.* The applicant, and anyone who will sign the promissory note, must not be ineligible for loans as a result of a conviction for controlled substances according to 7 CFR part 718 of this chapter.

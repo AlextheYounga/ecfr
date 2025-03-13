@@ -1,5 +1,7 @@
 ##### § 761.102 Borrower recordkeeping and reporting. #####
 
+Link to an amendment published at 89 FR 65037, Aug. 8, 2024.
+
 (a) A borrower must maintain accurate records sufficient to make informed management decisions and to allow the Agency to render loan making and servicing decisions in accordance with Agency regulations. These records must include the following:
 
 (1) Production (e.g., total and per unit for livestock and crops);

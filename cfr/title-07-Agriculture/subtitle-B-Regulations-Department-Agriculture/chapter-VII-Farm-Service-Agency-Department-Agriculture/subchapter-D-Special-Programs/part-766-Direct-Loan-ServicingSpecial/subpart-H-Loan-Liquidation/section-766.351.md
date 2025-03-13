@@ -1,5 +1,7 @@
 ##### § 766.351 Liquidation. #####
 
+Link to an amendment published at 89 FR 65045, Aug. 8, 2024.
+
 (a) *General.* (1) When a borrower cannot or will not meet a loan obligation, the Agency will consider liquidating the borrower's account in accordance with this subpart.
 
 (2) The Agency will charge protective advances against the borrower's account as necessary to protect the Agency's interests during liquidation in accordance with § 765.203 of this chapter.

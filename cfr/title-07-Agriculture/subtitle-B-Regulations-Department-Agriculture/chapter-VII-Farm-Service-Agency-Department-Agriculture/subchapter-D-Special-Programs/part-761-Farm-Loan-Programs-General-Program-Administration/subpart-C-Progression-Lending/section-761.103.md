@@ -1,5 +1,7 @@
 ##### § 761.103 Farm assessment. #####
 
+Link to an amendment published at 89 FR 65037, Aug. 8, 2024.
+
 (a) The Agency, in collaboration with the applicant, will assess the farming operation to:
 
 (1) Determine the applicant's financial condition, organizational structure, and management strengths and weaknesses;

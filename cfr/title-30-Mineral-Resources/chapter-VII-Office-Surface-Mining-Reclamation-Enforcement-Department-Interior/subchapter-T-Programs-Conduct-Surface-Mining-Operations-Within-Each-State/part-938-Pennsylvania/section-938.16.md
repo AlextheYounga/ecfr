@@ -1,5 +1,7 @@
 ##### § 938.16 Required regulatory program amendments. #####
 
+Link to an amendment published at 89 FR 64801, Aug. 8, 2024.
+
 Pursuant to 30 CFR 732.17, Pennsylvania is required to submit the following proposed program amendments by the dates specified.
 
 (a)-(e) [Reserved]

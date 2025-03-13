@@ -1,7 +1,5 @@
 ##### § 501.602 Reports to be furnished on demand. #####
 
-Link to an amendment published at 89 FR 40375, May 10, 2024.
-
 (a) Every person is required to furnish under oath, in the form of reports or otherwise, from time to time and at any time as may be required by the Office of Foreign Assets Control, complete information relative to any act or transaction, regardless of whether such act or transaction is effected pursuant to license or otherwise, subject to the provisions of this chapter or relative to any property in which any foreign country or any national thereof has or had any interest of any nature whatsoever, direct or indirect. The Office of Foreign Assets Control may require that such reports include the production of any books, contracts, letters, papers, or other hard copy or electronic documents relating to any such act, transaction, or property, in the custody or control of the persons required to make such reports. Reports with respect to transactions may be required either before, during, or after such transactions. Except as provided in parts 596 and 597, the Office of Foreign Assets Control may, through any person or agency, conduct investigations, hold hearings, administer oaths, examine witnesses, receive evidence, take depositions, and require by subpoena the attendance and testimony of witnesses and the production of any books, contracts, letters, papers, and other hard copy or electronic documents relating to any matter under investigation, regardless of whether any report has been required or filed in connection therewith.
 
 (b) For purposes of paragraph (a) of this section, the term “document” includes any written, recorded, or graphic matter or other means of preserving thought or expression (including in electronic format), and all tangible things stored in any medium from which information can be processed, transcribed, or obtained directly or indirectly, including correspondence, memoranda, notes, messages, contemporaneous communications such as text and instant messages, letters, emails, spreadsheets, metadata, contracts, bulletins, diaries, chronological data, minutes, books, reports, examinations, charts, ledgers, books of account, invoices, air waybills, bills of lading, worksheets, receipts, printouts, papers, schedules, affidavits, presentations, transcripts, surveys, graphic representations of any kind, drawings, photographs, graphs, video or sound recordings, and motion pictures or other film.
@@ -10,6 +8,10 @@ Link to an amendment published at 89 FR 40375, May 10, 2024.
 
 Note 1 to § 501.602:
 
+If OFAC has reason to believe an account or transaction (or class of transactions) may involve the property or interests in property of a blocked person, OFAC may issue an instruction to one or more financial institutions that: (1) provides information or criteria to aid in the identification of blocked property; and (2) requires the financial institution to report transactions that meet the specified criteria and notify OFAC prior to processing such transactions. Upon review, OFAC may determine that a reported transaction involves the property or interests in property of a blocked person and take further action.
+
+Note 2 to § 501.602:
+
 See subpart F of part 597 for the relationship between this section and part 597.
 
-[84 FR 29058, June 21, 2019]
+[84 FR 29058, June 21, 2019, as amended at 89 FR 40375, May 10, 2024]

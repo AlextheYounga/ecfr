@@ -1,5 +1,7 @@
 ##### § 766.356 Acceleration of loans to American Indian borrowers. #####
 
+Link to an amendment published at 89 FR 65045, Aug. 8, 2024.
+
 (a) *General.* (1) The Agency accelerates loans to American Indian borrowers whose real estate is located on an Indian reservation in accordance with this section, unless State law imposes separate restrictions on accelerations.
 
 (2) The Agency accelerates all of the borrower's loans at the same time, regardless of whether each individual loan is delinquent or not.

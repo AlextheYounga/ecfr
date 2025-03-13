@@ -1,5 +1,7 @@
 ##### § 764.402 Loan closing. #####
 
+Link to an amendment published at 89 FR 65041, Aug. 8, 2024.
+
 (a) *Signature requirements.* Signatures on loan documents are required as follows:
 
 (1) For individual applicants, only the applicant is required to sign the promissory note.

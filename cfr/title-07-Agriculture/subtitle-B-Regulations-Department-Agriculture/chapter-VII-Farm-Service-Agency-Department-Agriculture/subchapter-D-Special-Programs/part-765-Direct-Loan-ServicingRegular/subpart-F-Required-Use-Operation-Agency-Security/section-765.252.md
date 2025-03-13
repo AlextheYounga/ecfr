@@ -1,5 +1,7 @@
 ##### § 765.252 Lease of security. #####
 
+Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
+
 (a) *Real estate surface leases.* The borrower must request prior approval to lease the surface of real estate security. The Agency will approve requests provided the following conditions are met:
 
 (1) The lease will not adversely affect the Agency's security interest;

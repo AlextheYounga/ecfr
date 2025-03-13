@@ -1,5 +1,7 @@
 ##### § 762.147 Servicing shared appreciation agreements. #####
 
+Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
+
 (a) *Lender responsibilities.* The lender is responsible for:
 
 (1) Monitoring the borrower's compliance with the shared appreciation agreement;

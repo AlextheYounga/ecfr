@@ -1,5 +1,7 @@
 ##### § 766.104 Borrower eligibility requirements. #####
 
+Link to an amendment published at 89 FR 65044, Aug. 8, 2024.
+
 (a) A borrower must meet the following eligibility requirements to be considered for primary loan servicing:
 
 (1) The delinquency or financial distress is the result of reduced repayment ability due to one of the following circumstances beyond the borrower's control:

@@ -1,7 +1,5 @@
 ##### § 210.27 Reports of usage and payment for blanket licensees. #####
 
-Link to an amendment published at 89 FR 56612, July 9, 2024.
-
 (a) *General.* This section prescribes rules for the preparation and delivery of reports of usage and payment of royalties for the making and distribution of phonorecords of nondramatic musical works to the mechanical licensing collective by a digital music provider operating under a blanket license pursuant to 17 U.S.C. 115(d). A blanket licensee shall report and pay royalties to the mechanical licensing collective on a monthly basis in accordance with 17 U.S.C. 115(c)(2)(I), 17 U.S.C. 115(d)(4)(A), and this section. A blanket licensee shall also report to the mechanical licensing collective on an annual basis in accordance with 17 U.S.C. 115(c)(2)(I) and this section. A blanket licensee may make adjustments to its reports of usage and royalty payments in accordance with this section.
 
 (b) *Definitions.* For purposes of this section, in addition to those terms defined in § 210.22:
@@ -178,7 +176,17 @@ Link to an amendment published at 89 FR 56612, July 9, 2024.
 
 (i) The mechanical licensing collective shall engage in efforts to identify the musical works embodied in sound recordings reflected in such report, and the copyright owners of such musical works (and shares thereof).
 
-(ii) The mechanical licensing collective shall engage in efforts to confirm uses of musical works subject to voluntary licenses and individual download licenses, and, if applicable, the corresponding amounts to be deducted from royalties that would otherwise be due under the blanket license. These efforts may include providing copyright owners with information on usage of their respective musical works that was identified by a digital music provider as subject to a voluntary license or individual download license.
+(ii)(A) The mechanical licensing collective shall engage in efforts to confirm uses of musical works subject to voluntary licenses and individual download licenses, and, if applicable, the corresponding amounts to be deducted from royalties that would otherwise be due under the blanket license. These efforts may include providing copyright owners with information on usage of their respective musical works that was identified by a digital music provider as subject to a voluntary license or individual download license.
+
+(B) To the extent applicable to the mechanical licensing collective's efforts under paragraph (g)(2)(ii)(A) of this section:
+
+(*1*) The derivative works exception does not apply to any individual download license and no individual or entity may be construed as the copyright owner or royalty payee of a musical work (or share thereof) used pursuant to any such license based on the derivative works exception.
+
+(*2*) The derivative works exception does not apply to any voluntary license and no individual or entity may be construed as the copyright owner or royalty payee of a musical work (or share thereof) used pursuant to any such license based on the derivative works exception, unless and only to the extent that the mechanical licensing collective is directed otherwise pursuant to:
+
+(*i*) The resolution of a dispute regarding the application of the derivative works exception to a particular voluntary license or its underlying grant of authority; or
+
+(*ii*) A notice submitted under § 210.30(c)(1).
 
 (iii) Where the blanket licensee will not receive an invoice prior to delivering its royalty payment under paragraph (g)(1) of this section, the mechanical licensing collective shall engage in efforts to confirm proper payment of the royalties payable by the blanket licensee under the blanket license for the applicable monthly reporting period, computed in accordance with the requirements of this section and part 385 of this title, after accounting for, if applicable, amounts to be deducted under paragraph (g)(2)(ii) of this section.
 
@@ -366,4 +374,4 @@ I certify that (1) I am duly authorized to sign this monthly report of usage on 
 
 (2) The mechanical licensing collective shall maintain a current, free, and publicly accessible online list of all agreements made pursuant to paragraph (n)(1) of this section that includes the name of the blanket licensee (and, if different, the trade or consumer-facing brand name(s) of the services(s), including any specific offering(s), through which the blanket licensee engages in covered activities) and the start and end dates of the agreement. Any such agreement shall be considered a record that a copyright owner may access in accordance with 17 U.S.C. 115(d)(3)(M)(ii). Where an agreement made pursuant to paragraph (n)(1) of this section is made pursuant to an agreement to administer a voluntary license or any other agreement, only those portions that vary or supplement the procedures described in this section and that pertain to the administration of a requesting copyright owner's musical works must be made available to that copyright owner.
 
-[85 FR 58143, Sept. 17, 2020, as amended at 86 FR 12826, Mar. 5, 2021; 87 FR 31427, May 24, 2022; 88 FR 6632, Feb. 1, 2023]
+[85 FR 58143, Sept. 17, 2020, as amended at 86 FR 12826, Mar. 5, 2021; 87 FR 31427, May 24, 2022; 88 FR 6632, Feb. 1, 2023; 89 FR 56612, July 9, 2024]

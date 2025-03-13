@@ -1,5 +1,7 @@
 ##### § 764.453 Agency waiver of training requirements. #####
 
+Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
+
 (a) The applicant must request the waiver in writing.
 
 (b) The Agency will grant a waiver for training in production, financial management, or both, under the following conditions:

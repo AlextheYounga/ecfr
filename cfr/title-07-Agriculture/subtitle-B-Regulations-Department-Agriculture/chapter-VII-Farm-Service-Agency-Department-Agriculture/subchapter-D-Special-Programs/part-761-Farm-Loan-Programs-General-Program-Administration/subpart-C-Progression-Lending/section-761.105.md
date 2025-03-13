@@ -1,5 +1,7 @@
 ##### § 761.105 Year-end analysis. #####
 
+Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
+
 (a) The Agency conducts a year-end analysis at its discretion or if the borrower:
 
 (1) Is being considered for a new direct loan or subordination;

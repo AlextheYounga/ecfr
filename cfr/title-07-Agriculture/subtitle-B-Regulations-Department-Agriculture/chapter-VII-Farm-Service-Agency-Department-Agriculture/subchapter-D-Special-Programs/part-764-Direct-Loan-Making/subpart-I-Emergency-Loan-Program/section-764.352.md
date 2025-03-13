@@ -1,5 +1,7 @@
 ##### § 764.352 Eligibility requirements. #####
 
+Link to an amendment published at 89 FR 65041, Aug. 8, 2024.
+
 The applicant:
 
 (a) Must comply with the general eligibility requirements established at § 764.101.

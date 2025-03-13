@@ -1,5 +1,7 @@
 ##### § 764.452 Borrower training requirements. #####
 
+Link to an amendment published at 89 FR 65041, Aug. 8, 2024.
+
 (a) The applicant must agree to complete production and financial management training, unless the Agency provides a waiver in accordance with § 764.453, or the applicant has previously satisfied the training requirements. In the case of an entity:
 
 (1) Any individual member holding a majority interest in the entity or who is operating the farm must complete training on behalf of the entity, except as provided in paragraph (a)(2) of this section;

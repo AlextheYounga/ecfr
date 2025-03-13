@@ -1,5 +1,7 @@
 ##### § 765.305 Release of security interest. #####
 
+Link to an amendment published at 89 FR 65042, Aug. 8, 2024.
+
 (a) When Agency security is sold, exchanged, or consumed in accordance with the agreement for the use of proceeds, the Agency will release its security interest to the extent of the value of the security disposed.
 
 (b) Security interests on wool and mohair may be released when the security is marketed by consignment, provided all of the following conditions are met:

@@ -1,5 +1,7 @@
 ##### § 764.251 Operating loan uses. #####
 
+Link to an amendment published at 89 FR 65040, Aug. 8, 2024.
+
 (a) Except as provided in paragraph (b), OL and ML used for OL purposes loan funds may only be used for:
 
 (1) Costs associated with reorganizing a farm to improve its profitability;

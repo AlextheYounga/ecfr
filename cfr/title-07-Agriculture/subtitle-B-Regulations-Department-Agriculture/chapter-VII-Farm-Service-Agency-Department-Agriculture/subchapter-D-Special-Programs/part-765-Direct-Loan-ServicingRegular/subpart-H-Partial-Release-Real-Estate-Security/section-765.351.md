@@ -1,5 +1,7 @@
 ##### § 765.351 Requirements to obtain Agency consent. #####
 
+Link to an amendment published at 89 FR 65043, Aug. 8, 2024.
+
 The borrower must obtain prior consent from the Agency for any transactions affecting the real estate security, including, but not limited to, sale or exchange of security, a right-of-way across security, and a partial release. The Agency may consent to such transactions provided the conditions in this section are met.
 
 (a) *General.* The following conditions apply to all transactions affecting real estate:

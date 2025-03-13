@@ -1,5 +1,7 @@
 ##### § 762.124 Interest rates, terms, charges, and fees. #####
 
+Link to an amendment published at 89 FR 65038, Aug. 8, 2024.
+
 (a) *Interest rates.* (1) The interest rate on a guaranteed loan or line of credit may be fixed or variable as agreed upon between the borrower and the lender. The lender may charge different rates on the guaranteed and the non-guaranteed portions of the note. The guaranteed portion may be fixed while the unguaranteed portion may be variable, or vice versa. If both portions are variable, different bases may be used.
 
 (2) If a variable rate is used, it must be tied to an index or rate specifically agreed to between the lender and borrower in the loan instruments and the rate adjustments must be in accordance with normal practices of the lender for unguaranteed loans. Upon request, the lender must provide the Agency with copies of its written rate adjustment practices.

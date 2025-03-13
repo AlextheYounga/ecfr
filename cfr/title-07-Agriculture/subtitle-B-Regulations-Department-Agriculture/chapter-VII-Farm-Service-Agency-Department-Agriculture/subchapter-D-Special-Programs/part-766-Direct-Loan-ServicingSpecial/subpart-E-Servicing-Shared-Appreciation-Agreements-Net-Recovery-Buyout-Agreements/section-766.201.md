@@ -1,5 +1,7 @@
 ##### § 766.201 Shared Appreciation Agreement. #####
 
+Link to an amendment published at 89 FR 65045, Aug. 8, 2024.
+
 (a) *When a SAA is required.* The Agency requires a borrower to enter into a SAA with the Agency covering all real estate security when the borrower:
 
 (1) Owns any real estate that serves or will serve as loan security; and
