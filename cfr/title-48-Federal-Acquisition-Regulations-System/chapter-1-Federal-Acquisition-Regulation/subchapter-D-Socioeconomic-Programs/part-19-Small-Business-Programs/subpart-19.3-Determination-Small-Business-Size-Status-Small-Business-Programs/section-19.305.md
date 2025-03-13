@@ -1,5 +1,7 @@
 ##### 19.305 Reviews and protests of SDB status. #####
 
+Link to an amendment published at 88 FR 53752, Aug. 8, 2023.
+
 This section applies to reviews and protests of a small business concern's SDB status as a prime contractor or subcontractor.
 
 (a) SBA may initiate the review of SDB status on any firm that has represented itself to be an SDB on a prime contract or subcontract to a Federal prime contract whenever it receives credible information calling into question the SDB status of the firm.

@@ -1,5 +1,7 @@
 ##### § 679.4 Permits. #####
 
+Link to an amendment published at 88 FR 53732, Aug. 8, 2023.
+
 (a) *Requirements.* Only persons who are U.S. citizens are authorized to receive or hold permits under this section, with the exception that an IFQ hired master permit or a CDQ hired master permit need not be held by a U.S. citizen.
 
 (1) *What permits are available?* Various types of permits are issued for programs codified at 50 CFR parts 300 and 679. These permits are listed in the following table. The date of effectiveness for each permit is given along with certain reference paragraphs for further information.

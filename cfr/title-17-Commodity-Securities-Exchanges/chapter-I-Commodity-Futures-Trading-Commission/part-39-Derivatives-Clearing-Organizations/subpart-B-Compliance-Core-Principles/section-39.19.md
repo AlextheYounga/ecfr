@@ -1,5 +1,7 @@
 ##### § 39.19 Reporting. #####
 
+Link to an amendment published at 88 FR 53683, Aug. 8, 2023.
+
 (a) *General.* A derivatives clearing organization shall provide to the Commission the information specified in this section and any other information that the Commission determines to be necessary to conduct oversight of the derivatives clearing organization.
 
 (b) *Submission of reports*—(1) *General requirement.* A derivatives clearing organization shall submit the information required by this section to the Commission in a format and manner specified by the Commission.

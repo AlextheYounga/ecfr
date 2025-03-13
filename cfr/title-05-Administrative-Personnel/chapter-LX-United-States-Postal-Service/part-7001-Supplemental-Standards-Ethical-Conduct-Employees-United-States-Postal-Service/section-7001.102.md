@@ -1,5 +1,7 @@
 ##### § 7001.102 Restrictions on outside employment and business activities. #####
 
+Link to an amendment published at 88 FR 53354, Aug. 8, 2023.
+
 (a) *Prohibited outside employment and business activities.* No Postal Service employee shall:
 
 (1) Engage in outside employment or business activities with or for a person, including oneself, engaged in:

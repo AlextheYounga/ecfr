@@ -2,7 +2,7 @@
 
 (a) *Scope for fans and blowers other than air circulating fans.* A fan or blower, other than an air circulating fan is subject to the test procedure in this section if it meets the following criteria:
 
-(1) Is a centrifugal housed fan; radial housed fan; centrifugal inline fan; centrifugal unhoused fan; centrifugal power roof ventilator exhaust fan; centrifugal power roof ventilator supply fan; axial inline fan; axial panel fan; or axial centrifugal power roof ventilator fan;
+(1) Is a centrifugal housed fan; radial housed fan; centrifugal inline fan; centrifugal unhoused fan; centrifugal power roof ventilator exhaust fan; centrifugal power roof ventilator supply fan; axial inline fan; axial panel fan; or axial power roof ventilator fan;
 
 (2) Is not:
 
@@ -62,7 +62,7 @@
 
 (i)(A) Fan shaft input power equal to or greater than 1 horsepower; or
 
-(B) Fan electrical input power equal to or greater than 0.89 kW; and
+(B) Fan electrical power equal to or greater than 0.89 kW; and
 
 (ii)(A) Fan static air power equal to or less than 150 horsepower for fans using a static pressure basis fan energy index (“FEI”) in accordance with the required test configuration listed in table 7.1 of AMCA 214-21 (incorporated by reference, see § 431.173); or
 
@@ -70,8 +70,8 @@
 
 (b) *Scope for air circulating fans.* The test procedure in this section applies to all air circulating fans with input power greater than or equal to 125W at maximum speed.
 
-(c) *Testing and calculations for fans and blowers other than air circulating fans.* Determine the FEI, the fan electrical input power (“FEP”), and fan shaft power (as applicable) at each duty point, as specified by the manufacturer, using the test procedure set forth in appendix A of this subpart.
+(c) *Testing and calculations for fans and blowers other than air circulating fans.* Determine the FEI, the fan electrical power (“FEP”), and fan shaft power (as applicable) at each duty point, as specified by the manufacturer, using the test procedure set forth in appendix A of this subpart.
 
-(d) *Testing and calculations for air circulating fan.* Determine the FEI and the fan electrical input power (“FEP”) or the weighted-average FEI and weighted-average FEP as applicable, using the test procedure set forth in appendix B of this subpart.
+(d) *Testing and calculations for air circulating fan.* Determine the air circulating fan efficacy in cubic feet per minute per watt at maximum speed using the test procedure set forth in appendix B to this subpart.
 
-[88 FR 27391, May 1, 2023]
+[88 FR 27391, May 1, 2023, as amended at 88 FR 53375, Aug. 8, 2023]

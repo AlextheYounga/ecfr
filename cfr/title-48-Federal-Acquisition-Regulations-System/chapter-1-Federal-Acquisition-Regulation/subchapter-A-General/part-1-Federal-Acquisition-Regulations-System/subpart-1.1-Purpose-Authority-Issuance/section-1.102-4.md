@@ -1,5 +1,7 @@
 ##### 1.102-4 Role of the acquisition team. #####
 
+Link to an amendment published at 88 FR 53751, Aug. 8, 2023.
+
 (a) Government members of the Team must be empowered to make acquisition decisions within their areas of responsibility, including selection, negotiation, and administration of contracts consistent with the Guiding Principles. In particular, the contracting officer must have the authority to the maximum extent practicable and consistent with law, to determine the application of rules, regulations, and policies, on a specific contract.
 
 (b) The authority to make decisions and the accountability for the decision made will be delegated to the lowest level within the System, consistent with law.

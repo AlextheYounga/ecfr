@@ -4,7 +4,7 @@
 
 *Air circulating fan* means a fan that has no provision for connection to ducting or separation of the fan inlet from its outlet using a pressure boundary, operates against zero external static pressure loss, and is not a jet fan.
 
-*Air circulating fan discharge area:* area of a circle having a diameter equal to the blade tip diameter.
+*Air circulating fan discharge area* means the area of a circle having a diameter equal to the blade tip diameter.
 
 *Air circulating fan outlet area* means the gross inside area measured at the plane of the outlet opening.
 
@@ -38,7 +38,7 @@
 
 *Fan* or *blower* means a rotary bladed machine used to convert electrical or mechanical power to air power, with an energy output limited to 25 kilojoule (kJ)/kilogram (kg) of air. It consists of an impeller, a shaft and bearings and/or driver to support the impeller, as well as a structure or housing. A fan or blower may include a transmission, driver, and/or motor controller.
 
-*Fan static air power* means the static power delivered to air by the fan or blower; it is proportional to the product of the fan airflow rate, the fan static pressure and the compressibility coefficient and is calculated in accordance with section 7.8.1 of AMCA 210-16 (incorporated by reference, see § 431.173), using static pressure instead of total pressure.
+*Fan static air power* means the static power delivered to air by the fan or blower; it is proportional to the product of the fan airflow rate, the fan static pressure and the compressibility coefficient and is calculated in accordance with section 7.8.1 of AMCA 210-16 (incorporated by reference, see § 431.173), using fan static pressure instead of fan total pressure.
 
 *Fan total air power* means the total power delivered to air by the fan or blower; it is proportional to the product of the fan airflow rate, the fan total pressure and the compressibility coefficient and is calculated in accordance with section 7.8.1 of AMCA 210-16 (incorporated by reference, see § 431.173).
 
@@ -84,4 +84,4 @@
 
 *Unhoused air circulating fan head* means an air circulating fan without a housing, having an axial impeller with a ratio of fan-blade span (in inches) to maximum rate of rotation (in revolutions per minute) less than or equal to 0.06. The impeller may or may not be guarded.
 
-[88 FR 27389, May 1, 2023]
+[88 FR 27389, May 1, 2023, as amended at 88 FR 53375, Aug. 8, 2023]

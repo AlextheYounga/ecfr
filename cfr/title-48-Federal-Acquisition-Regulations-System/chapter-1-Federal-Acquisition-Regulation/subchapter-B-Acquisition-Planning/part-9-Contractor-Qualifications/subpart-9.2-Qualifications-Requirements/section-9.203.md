@@ -1,5 +1,7 @@
 ##### 9.203 QPL's, QML's, and QBL's. #####
 
+Link to an amendment published at 88 FR 53755, Aug. 8, 2023.
+
 (a) Qualification and listing in a QPL, QML, or QBL is the process by which products are obtained from manufacturers or distributors, examined and tested for compliance with specification requirements, or manufacturers or potential offerors, are provided an opportunity to demonstrate their abilities to meet the standards specified for qualification. The names of successful products, manufacturers, or potential offerors are included on lists evidencing their status. Generally, qualification is performed in advance and independently of any specific acquisition action. After qualification, the products, manufacturers, or potential offerors are included in a Federal or Military QPL, QML, or QBL. (See 9.202(a)(2) with regard to any product, manufacturer, or potential offeror not yet included on an applicable list.)
 
 (b) Specifications requiring a qualified product are included in the following publications:

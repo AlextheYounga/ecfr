@@ -1,5 +1,7 @@
 ##### 19.703 Eligibility requirements for participating in the program. #####
 
+Link to an amendment published at 88 FR 53752, Aug. 8, 2023.
+
 (a) Except as provided in paragraph (c) of this section, to be eligible as a subcontractor under the program, a concern must represent itself as a small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business concern.
 
 (1) To represent itself as a small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business concern, a concern must meet the appropriate definition (see 2.101 and 19.001). For subcontracting purposes, a concern is small if it does not exceed the size standard for the NAICS code that the prime contractor determines best describes the product or service being acquired by the subcontract.

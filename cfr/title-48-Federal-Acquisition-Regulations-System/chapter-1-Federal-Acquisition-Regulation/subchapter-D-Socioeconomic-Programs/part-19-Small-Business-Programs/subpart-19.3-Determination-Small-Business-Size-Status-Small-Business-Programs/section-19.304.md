@@ -1,5 +1,7 @@
 ##### 19.304 Small disadvantaged business status. #####
 
+Link to an amendment published at 88 FR 53752, Aug. 8, 2023.
+
 (a) The contracting officer may accept an offeror's representation that it is a small disadvantaged business concern (SDB) concern.
 
 (b) The provision at 52.219-1, Small Business Program Representations, or 52.212-3(c)(4), Offeror Representations and Certifications—Commercial Products and Commercial Services, is used to collect SDB data.

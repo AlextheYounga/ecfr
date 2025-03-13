@@ -1,5 +1,7 @@
 ##### § 39.25 Conflicts of interest. #####
 
+Link to an amendment published at 88 FR 53684, Aug. 8, 2023.
+
 A derivatives clearing organization shall:
 
 (a) Establish and enforce rules to minimize conflicts of interest in the decision-making process of the derivatives clearing organization;

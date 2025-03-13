@@ -1,5 +1,7 @@
 ##### § 39.5 Review of swaps for Commission determination on clearing requirement. #####
 
+Link to an amendment published at 88 FR 53682, Aug. 8, 2023.
+
 (a) *Eligibility to clear swaps.* (1) A derivatives clearing organization shall be presumed eligible to accept for clearing any swap that is within a group, category, type, or class of swaps that the derivatives clearing organization already clears. Such presumption of eligibility, however, is subject to review by the Commission.
 
 (2) A derivatives clearing organization that wishes to accept for clearing any swap that is not within a group, category, type, or class of swaps that the derivatives clearing organization already clears shall request a determination by the Commission of the derivatives clearing organization's eligibility to clear such a swap before accepting the swap for clearing. The request, which shall be filed electronically with the Secretary of the Commission, shall address the derivatives clearing organization's ability, if it accepts the swap for clearing, to maintain compliance with section 5b(c)(2) of the Act, specifically:

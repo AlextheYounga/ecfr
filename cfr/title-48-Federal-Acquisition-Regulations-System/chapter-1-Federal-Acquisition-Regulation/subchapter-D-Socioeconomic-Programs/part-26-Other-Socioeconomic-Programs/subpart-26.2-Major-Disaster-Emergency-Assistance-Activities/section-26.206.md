@@ -1,5 +1,7 @@
 ##### 26.206 Solicitation provision and contract clauses. #####
 
+Link to an amendment published at 88 FR 53751, Aug. 8, 2023.
+
 (a) The contracting officer shall insert the provision at 52.226-3, Disaster or Emergency Area Representation, in solicitations involving the local area set-aside. For commercial products and commercial services, see 12.301(e)(4).
 
 (b) The contracting officer shall insert the clause at 52.226-4, Notice of Disaster or Emergency Area Set-aside in solicitations and contracts involving local area set-asides.

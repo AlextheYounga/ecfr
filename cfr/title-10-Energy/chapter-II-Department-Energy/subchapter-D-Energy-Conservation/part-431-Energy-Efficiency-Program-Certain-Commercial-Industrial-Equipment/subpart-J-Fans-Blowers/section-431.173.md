@@ -4,7 +4,7 @@
 
 (b) *AMCA.* Air Movement and Control Association International, Inc., 30 West University Drive, Arlington Heights, IL 60004-1893; (847) 394-0150; *www.amca.org.*
 
-(1) ANSI/AMCA Standard 21016 (“AMCA 210-16”), *Laboratory Methods of Testing Fans for Certified Aerodynamic Performance Rating,* ANSI-approved August 26, 2016; IBR approved for § 431.172; appendix A to this subpart. (Co-published as ASHRAE 51-16).
+(1) ANSI/AMCA Standard 210-16 (“AMCA 210-16”), Laboratory Methods of Testing Fans for Certified Aerodynamic Performance Rating, ANSI-approved August 26, 2016; IBR approved for § 431.172; appendix A to this subpart. (Co-published as ASHRAE 51-16).
 
 (2) ANSI/AMCA Standard 214-21 (“AMCA 214-21”), *Test Procedure for Calculating Fan Energy Index (FEI) for Commercial and Industrial Fans and Blowers,* ANSI-approved March 1, 2021; IBR approved for § 431.174; appendix A to this subpart.
 
@@ -24,4 +24,4 @@
 
 (2) [Reserved].
 
-[88 FR 27390, May 1, 2023]
+[88 FR 27390, May 1, 2023, as amended at 88 FR 53375, Aug. 8, 2023]

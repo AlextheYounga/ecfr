@@ -1,5 +1,7 @@
 ##### 12.301 Solicitation provisions and contract clauses for the acquisition of commercial products and commercial services. #####
 
+Link to an amendment published at 88 FR 53751, Aug. 8, 2023.
+
 (a) In accordance with 41 U.S.C. 3307, contracts for the acquisition of commercial products or commercial services shall, to the maximum extent practicable, include only those clauses—
 
 (1) Required to implement provisions of law or executive orders applicable to the acquisition of commercial products or commercial services; or

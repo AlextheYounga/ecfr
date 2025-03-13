@@ -1,5 +1,7 @@
 ##### § 39.37 Additional disclosure for systemically important derivatives clearing organizations and subpart C derivatives clearing organizations. #####
 
+Link to an amendment published at 88 FR 53684, Aug. 8, 2023.
+
 In addition to the requirements of § 39.21, each systemically important derivatives clearing organization and subpart C derivatives clearing organization shall:
 
 (a) Complete and publicly disclose its responses to the Disclosure Framework for Financial Market Infrastructures published by the Committee on Payment and Settlement Systems and the Board of the International Organization of Securities Commissions;

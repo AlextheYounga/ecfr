@@ -1,5 +1,7 @@
 ##### 23.704 Electronic product environmental assessment tool. #####
 
+Link to an amendment published at 88 FR 53755, Aug. 8, 2023.
+
 (a) *General.* (1) As required by E.O.s 13423 and 13514, agencies, when acquiring an electronic product to meet their requirements, shall meet at least 95 percent of those requirements with Electronic Product Environmental Assessment Tool (EPEAT®)-registered electronic products, unless—
 
 (i) There is no EPEAT® standard for such product;

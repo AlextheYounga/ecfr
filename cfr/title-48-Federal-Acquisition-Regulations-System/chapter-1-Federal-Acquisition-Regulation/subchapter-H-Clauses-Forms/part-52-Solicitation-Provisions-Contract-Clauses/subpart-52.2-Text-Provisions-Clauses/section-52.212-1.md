@@ -1,5 +1,7 @@
 ##### 52.212-1 Instructions to Offerors—Commercial Products and Commercial Services. #####
 
+Link to an amendment published at 88 FR 53756, Aug. 8, 2023.
+
 As prescribed in 12.301(b)(1), insert the following provision:
 
 Instructions to Offerors—Commercial Products and Commercial Services (MAR 2023)

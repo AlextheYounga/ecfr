@@ -6,7 +6,7 @@
 
 (2) The practitioner is in compliance with DEA regulations regarding treatment qualifications, security, records, and unsupervised use of the drugs pursuant to the Act.
 
-(b) Nothing in this section shall prohibit a physician who is not specifically registered to conduct a narcotic treatment program from administering (but not prescribing) narcotic drugs to a person for the purpose of relieving acute withdrawal symptoms when necessary while arrangements are being made for referral for treatment. Not more than one day's medication may be administered to the person or for the person's use at one time. Such emergency treatment may be carried out for not more than three days and may not be renewed or extended.
+(b) Nothing in this section shall prohibit a practitioner, who is not specifically registered to conduct a narcotic treatment program, from dispensing (but not prescribing) narcotic drugs, in accordance with applicable Federal, State, and local laws relating to controlled substances, to one person or for one person's use at one time for the purpose of initiating maintenance treatment or detoxification treatment (or both). Not more than a three-day supply of such medication may be dispensed to the person or for the person's use at one time while arrangements are being made for referral for treatment. Such emergency treatment may not be renewed or extended.
 
 (c) This section is not intended to impose any limitations on a physician or authorized hospital staff to administer or dispense narcotic drugs in a hospital to maintain or detoxify a person as an incidental adjunct to medical or surgical treatment of conditions other than addiction, or to administer or dispense narcotic drugs to persons with intractable pain in which no relief or cure is possible or none has been found after reasonable efforts.
 
@@ -32,4 +32,4 @@
 
 (6) Notwithstanding any exceptions under section 307 of the Act (21 U.S.C. 827), the prescribing practitioner, and the practitioner administering the controlled substance, as applicable, shall maintain complete and accurate records of all controlled substances delivered, received, administered, or otherwise disposed of, under this paragraph (f), including the persons to whom the controlled substances were delivered and such other information as may be required under this chapter.
 
-[39 FR 37986, Oct. 25, 1974, as amended at 70 FR 36344, June 23, 2005; 85 FR 69167, Nov. 2, 2020]
+[39 FR 37986, Oct. 25, 1974, as amended at 70 FR 36344, June 23, 2005; 85 FR 69167, Nov. 2, 2020; 88 FR 53382, Aug. 8, 2023]

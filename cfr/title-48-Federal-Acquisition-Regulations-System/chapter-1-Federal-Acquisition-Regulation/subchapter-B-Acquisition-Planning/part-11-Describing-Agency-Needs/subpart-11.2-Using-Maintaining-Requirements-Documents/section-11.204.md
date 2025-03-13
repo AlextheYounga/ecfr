@@ -1,5 +1,7 @@
 ##### 11.204 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 88 FR 53755, Aug. 8, 2023.
+
 (a) The contracting officer shall insert the provision at 52.211-1, Availability of Specifications Listed in the GSA Index of Federal Specifications, Standards and Commercial Item Descriptions, FPMR Part 101-29, in solicitations that cite specifications listed in the Index that are not furnished with the solicitation.
 
 (b) The contracting officer shall insert the provision at 52.211-2, Availability of Specifications, Standards, and Data Item Descriptions Listed in the Acquisition Streamlining and Standardization Information System (ASSIST), in solicitations that cite specifications listed in the ASSIST that are not furnished with the solicitation.

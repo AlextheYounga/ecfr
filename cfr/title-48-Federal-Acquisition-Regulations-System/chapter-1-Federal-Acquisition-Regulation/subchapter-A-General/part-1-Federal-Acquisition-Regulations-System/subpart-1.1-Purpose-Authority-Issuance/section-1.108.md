@@ -1,5 +1,7 @@
 ##### 1.108 FAR conventions. #####
 
+Link to an amendment published at 88 FR 53751, Aug. 8, 2023.
+
 The following conventions provide guidance for interpreting the FAR:
 
 (a) *Words and terms.* Definitions in Part 2 apply to the entire regulation unless specifically defined in another part, subpart, section, provision, or clause. Words or terms defined in a specific part, subpart, section, provision, or clause have that meaning when used in that part, subpart, section, provision, or clause. Undefined words retain their common dictionary meaning.
