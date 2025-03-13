@@ -1,12 +1,10 @@
 ##### § 5.22 Responsibility for responding to requests for access to records. #####
 
-Link to an amendment published at 89 FR 14371, Feb. 27, 2024.
-
 (a) *In general.* Except as stated in paragraphs (c), (d), and (e) of this section, the component that first receives a request for access to a record, and has possession of that record, is the component responsible for responding to the request. In determining which records are responsive to a request, a component ordinarily will include only those records in its possession as of the date the component begins its search for them. If any other date is used, the component will inform the requester of that date.
 
 (b) *Authority to grant or deny requests.* The head of a component, or the component head's designee, is authorized to grant or deny any request for access or amendment to a record of that component.
 
-(c) *Consultations, coordination, and referrals.* All consultations, coordination, and referrals for requests of records subject to the Privacy Act or JRA will follow the same process and procedures as described in § 5.4(d), including how to handle those requests that pertain to law enforcement information, as specified in § 5.4(d)(2), and classified information, as specified in § 5.4(d)(2) and (e). Further, whenever a request is made for access to a record containing information that has been classified by or may be appropriate for classification by another component or agency under any relevant executive order concerning the classification of records, the receiving component will refer to § 5.24 for processing.
+(c) *Misdirected requests, consultations, coordination, and referrals.* All misdirected requests and consultations, coordination, and referrals for requests of records subject to the Privacy Act or JRA will follow the same process and procedures as described in § 5.4(c) and § 5.4(d), including how to handle those requests that pertain to law enforcement information, as specified in § 5.4(d)(2), and classified information, as specified in § 5.4(d)(2) and (e). Further, whenever a request is made for access to a record containing information that has been classified by or may be appropriate for classification by another component or agency under any relevant Executive order concerning the classification of records, the receiving component will refer to § 5.24 for processing.
 
 (d) *Release of medical records.* (1) Generally, an individual has the right to access their medical records maintained by the Department. Special procedures for requests from an individual requesting medical records that include psychological records for which direct release may cause harm to the individual requesting access are set forth in paragraph (d)(2) of this section.
 
@@ -19,3 +17,5 @@ Link to an amendment published at 89 FR 14371, Feb. 27, 2024.
 (f) *Timing of responses to consultations and referrals.* All consultations and referrals received by DHS will be handled according to the date the Privacy Act or JRA access request was initially received by the first component or agency, not any later date.
 
 (g) *Agreements regarding consultations and referrals.* Components may establish agreements with other components or agencies to eliminate the need for consultations or referrals with respect to types of records.
+
+[87 FR 68601, Nov. 16, 2022, as amended at 89 FR 14371, Feb. 27, 2024]

@@ -1,5 +1,7 @@
 ##### § 210.8-01 General requirements for Article 8. #####
 
+Link to an amendment published at 89 FR 21912, Mar. 28, 2024.
+
 Sections 210.8-01 through 210.8-08 (Article 8) shall be applicable to financial statements filed for smaller reporting companies. These sections are not applicable to financial statements prepared for the purposes of Item 17 or Item 18 of Form 20-F.
 
 (a) Financial statements of a smaller reporting company, as defined by § 229.10(f)(1) of this chapter, its predecessors or any businesses to which the smaller reporting company is a successor shall be prepared in accordance with generally accepted accounting principles in the United States.

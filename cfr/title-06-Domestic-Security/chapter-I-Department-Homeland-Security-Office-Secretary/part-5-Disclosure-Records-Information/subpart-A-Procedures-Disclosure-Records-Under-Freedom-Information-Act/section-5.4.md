@@ -1,12 +1,10 @@
 ##### § 5.4 Responsibility for responding to requests. #####
 
-Link to an amendment published at 89 FR 14371, Feb. 27, 2024.
-
 (a) *In general.* Except in the instances described in paragraphs (c) and (d) of this section, the component that first receives a request for a record and maintains that record is the component responsible for responding to the request. In determining which records are responsive to a request, a component ordinarily will include only records in its possession as of the date that it begins its search. If any other date is used, the component shall inform the requester of that date. A record that is excluded from the requirements of the FOIA pursuant to 5 U.S.C. 552(c), shall not be considered responsive to a request.
 
 (b) *Authority to grant or deny requests.* The head of a component, or designee, is authorized to grant or to deny any requests for records that are maintained by that component.
 
-(c) *Re-routing of misdirected requests.* Where a component's FOIA office determines that a request was misdirected within DHS, the receiving component's FOIA office shall route the request to the FOIA office of the proper component(s).
+(c) *Forwarding misdirected requests.* Where a component's FOIA office determines that a request was misdirected within DHS, the receiving component's FOIA office, within 10 working days, shall route the request to the FOIA office of the proper component(s) for processing. Once the misdirected request has been forwarded and received by the appropriate DHS component, the 20-working day-time period to respond to the request commences, but in any event not later than 10 days after the request is first received by any DHS component that is designated in the DHS regulations to receive FOIA requests. A request is not a misdirected request if the receiving DHS component may maintain records responsive to any portion of the request. In other words, the receiving DHS component is not obligated to forward to other DHS components that may maintain responsive records unless those other DHS components are explicitly listed in the request.
 
 (d) *Consultations, coordination and referrals.* When a component determines that it maintains responsive records that either originated with another component or agency, or which contains information provided by, or of substantial interest to, another component or agency, then it shall proceed in accordance with either paragraph (d)(1), (2), or (3) of this section, as appropriate:
 
@@ -33,3 +31,5 @@ Link to an amendment published at 89 FR 14371, Feb. 27, 2024.
 (ii) Creating a computer program that produces specific requested fields or records contained within a well-defined database structure usually is considered business as usual. The time to create this program is considered as programmer or operator search time for fee assessment purposes and the FOIA requester may be assessed fees in accordance with § 5.11(c)(1)(iii). However, creating a computer program to merge files with disparate data formats and extract specific elements from the resultant file is not considered business as usual, but a special service, for which additional fees may be imposed as specified in § 5.11. Components are not required to perform special services and creation of a computer program for a fee is up to the discretion of the component and is dependent on component resources and expertise.
 
 (3) *Data links.* Components are not required to expend DHS funds to establish data links that provide real time or near-real-time data to a FOIA requester.
+
+[81 FR 83632, Nov. 22, 2016, as amended at 89 FR 14371, Feb. 27, 2024]

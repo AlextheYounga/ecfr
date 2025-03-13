@@ -86,7 +86,7 @@
 
 *Subcontract or subcontracting* means, except for purposes of § 125.3, that portion of the contract performed by a business concern, other than the business concern awarded the contract, under a second contract, purchase order, or agreement for any parts, supplies, components, or subassemblies which are not available commercial off-the-shelf items, and which are manufactured in accordance with drawings, specifications, or designs furnished by the contractor, or by the government as a portion of the solicitation. Raw castings, forgings, and moldings are considered as materials, not as subcontracting costs. Where the prime contractor has been directed by the Government as part of the contract to use any specific source for parts, supplies, or components subassemblies, the costs associated with those purchases will be considered as part of the cost of materials, not subcontracting costs.
 
-*Substantial bundling* means any bundling that meets or exceeds the following dollar amounts (if the acquisition strategy contemplates multiple award contracts, orders placed under unrestricted multiple award contracts, or a Blanket Purchase Agreement issued against a GSA Schedule contract or a task or delivery order contract awarded by another agency, these thresholds apply to the cumulative estimated value of the Multiple Award Contracts, orders, or Blanket Purchase Agreement, including options):
+*Substantial bundling* means any bundling that meets or exceeds the following dollar amounts (if the acquisition strategy contemplates multiple award contracts, orders placed under unrestricted multiple award contracts, or a Blanket Purchase Agreement or a task or delivery order contract awarded by another agency, these thresholds apply to the cumulative estimated value of the Multiple Award Contracts, orders, or Blanket Purchase Agreement, including options):
 
 (1) $8.0 million or more for the Department of Defense;
 
@@ -94,4 +94,4 @@
 
 (3) $2.5 million or more for all other agencies.
 
-[78 FR 61134, Oct. 2, 2013, as amended at 81 FR 34261, May 31, 2016; 84 FR 65239, Nov. 26, 2019; 87 FR 50927, Aug. 19, 2022; 87 FR 73412, Nov. 29, 2022; 88 FR 26209, Apr. 27, 2023]
+[78 FR 61134, Oct. 2, 2013, as amended at 81 FR 34261, May 31, 2016; 84 FR 65239, Nov. 26, 2019; 87 FR 50927, Aug. 19, 2022; 87 FR 73412, Nov. 29, 2022; 88 FR 26209, Apr. 27, 2023; 89 FR 21432, Mar. 28, 2024]
