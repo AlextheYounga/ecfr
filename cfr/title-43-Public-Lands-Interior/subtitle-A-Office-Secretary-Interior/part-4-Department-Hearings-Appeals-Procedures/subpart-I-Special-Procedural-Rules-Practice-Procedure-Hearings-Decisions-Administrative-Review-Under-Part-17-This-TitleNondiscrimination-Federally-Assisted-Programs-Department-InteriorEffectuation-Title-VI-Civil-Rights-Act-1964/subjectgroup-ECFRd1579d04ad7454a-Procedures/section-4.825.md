@@ -1,5 +1,5 @@
 ##### § 4.825 Admissions as to facts and documents. #####
 
-Link to an amendment published at 90 FR 2426, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2426, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 Not later than 15 days prior to the date of the hearing any party may serve upon an opposing party a written request for the admission of the genuineness and authenticity of any relevant documents described in, and exhibited with, the request, or for the admission of the truth of any relevant matters of fact stated in the request. Each of the matters as to which an admission is requested shall be deemed admitted, unless within a period of 10 days, the party to whom the request is directed serves upon the requesting party a statement either (a) denying specifically the matters as to which an admission is requested, or (b) setting forth in detail the reasons why he cannot truthfully either admit or deny such matters.

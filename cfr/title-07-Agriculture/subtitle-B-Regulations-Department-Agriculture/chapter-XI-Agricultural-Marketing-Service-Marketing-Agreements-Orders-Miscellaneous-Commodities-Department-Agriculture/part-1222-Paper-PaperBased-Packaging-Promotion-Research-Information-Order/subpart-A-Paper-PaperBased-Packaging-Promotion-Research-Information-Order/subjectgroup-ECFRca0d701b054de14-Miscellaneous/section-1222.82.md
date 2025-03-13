@@ -1,6 +1,6 @@
 ##### § 1222.82 Suspension or termination. #####
 
-Link to an amendment published at 90 FR 6783, Jan. 21, 2025.
+Link to an amendment published at 90 FR 6783, Jan. 21, 2025.This amendment was delayed until Mar. 21, 2025 at 90 FR 9188, Feb. 10, 2025
 
 (a) The Secretary shall suspend or terminate this part or subpart or a provision thereof, if the Secretary finds that this part or subpart or a provision thereof obstructs or does not tend to effectuate the purposes of the Act, or if the Secretary determines that this subpart or a provision thereof is not favored by persons voting in a referendum conducted pursuant to the Act.
 

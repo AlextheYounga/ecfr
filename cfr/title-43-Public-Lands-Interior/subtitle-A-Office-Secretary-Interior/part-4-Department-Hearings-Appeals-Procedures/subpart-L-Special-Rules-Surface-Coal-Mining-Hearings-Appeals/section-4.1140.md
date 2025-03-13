@@ -1,6 +1,6 @@
 ##### § 4.1140 Production of documents and things and entry upon land for inspection and other purposes. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Any party may serve on any other party a request to—
 

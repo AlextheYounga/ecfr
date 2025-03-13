@@ -1,6 +1,6 @@
 ##### § 58.148 Plant records. #####
 
-Link to an amendment published at 90 FR 4587, Jan. 16, 2025.
+Link to an amendment published at 90 FR 4587, Jan. 16, 2025.This amendment was delayed until Mar. 21, 2025, at 90 FR 9187, Feb. 10, 2025.
 
 Adequate plant records shall be maintained of all required tests and analyses performed in the laboratory or throughout the plant during storage, processing and manufacturing, on all raw milk receipts and dairy products. Such records shall be available for examination at all reasonable times by the inspector. The following are the records which shall be maintained for examination at the plant or receiving station where performed.
 

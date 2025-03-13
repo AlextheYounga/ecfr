@@ -1,5 +1,5 @@
 ##### § 4.804 Extensions of time. #####
 
-Link to an amendment published at 90 FR 2426, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2426, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 A request for extension of time should be made to the designated administrative law judge or other appropriate Departmental official with respect to matters pending before him. Such request shall be served on all parties and set forth the reasons for the request. Extensions may be granted upon a showing of good cause by the applicant. Answers to such requests are permitted if made promptly.

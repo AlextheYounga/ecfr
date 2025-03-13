@@ -1,6 +1,6 @@
 ##### § 1222.81 Referenda. #####
 
-Link to an amendment published at 90 FR 6783, Jan. 21, 2025.
+Link to an amendment published at 90 FR 6783, Jan. 21, 2025.This amendment was delayed until Mar. 21, 2025 at 90 FR 9188, Feb. 10, 2025
 
 (a) *Initial referendum.* The Order shall not become effective unless the Order is approved by a majority of manufacturers and importers voting in the referendum who also represent a majority of the volume of paper and paper-based packaging represented in the referendum and who, during a representative period determined by the Secretary, have been engaged in the manufacturing or importation of paper and paper-based packaging. A single entity who domestically manufactures and imports paper and paper-based packaging may cast one vote in the referendum.
 

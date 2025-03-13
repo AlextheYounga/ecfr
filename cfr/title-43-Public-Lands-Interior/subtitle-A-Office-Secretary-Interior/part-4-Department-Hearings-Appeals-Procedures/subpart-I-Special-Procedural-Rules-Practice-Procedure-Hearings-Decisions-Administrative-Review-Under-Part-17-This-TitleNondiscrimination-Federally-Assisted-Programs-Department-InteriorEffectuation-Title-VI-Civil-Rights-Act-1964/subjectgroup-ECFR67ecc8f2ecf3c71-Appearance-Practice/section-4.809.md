@@ -1,6 +1,6 @@
 ##### § 4.809 Determination of parties. #####
 
-Link to an amendment published at 90 FR 2426, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2426, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) The affected applicant or recipient to whom a notice of hearing or a notice of an opportunity for hearing has been mailed in accordance with part 17 of this title and § 4.815, and the Director, are the initial parties to the proceeding.
 

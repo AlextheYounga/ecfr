@@ -1,6 +1,6 @@
 ##### § 1222.102 Voting. #####
 
-Link to an amendment published at 90 FR 6783, Jan. 21, 2025.
+Link to an amendment published at 90 FR 6783, Jan. 21, 2025.This amendment was delayed until Mar. 21, 2025 at 90 FR 9188, Feb. 10, 2025
 
 (a) Each eligible domestic manufacturer and importer of paper and paper-based packaging shall be entitled to cast only one ballot in the referendum. However, each domestic manufacturer in a landlord/tenant relationship or a divided ownership arrangement involving totally independent entities cooperating only to manufacture paper and paper-based manufacturing, in which more than one of the parties is a domestic manufacturer or importer, shall be entitled to cast one ballot in the referendum covering only such domestic manufacturer or importer's share of ownership.
 

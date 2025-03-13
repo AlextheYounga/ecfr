@@ -1,6 +1,6 @@
 ##### § 4.1134 Supplementation of responses. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 A party who has responded to a request for discovery with a response that was complete when made is under no duty to supplement his response to include information thereafter acquired, except as follows—
 

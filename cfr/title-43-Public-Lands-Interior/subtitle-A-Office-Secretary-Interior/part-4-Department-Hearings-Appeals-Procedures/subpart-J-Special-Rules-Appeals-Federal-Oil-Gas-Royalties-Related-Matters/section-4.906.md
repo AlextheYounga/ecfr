@@ -1,6 +1,6 @@
 ##### § 4.906 What if the Department does not issue a decision by the date my appeal ends? #####
 
-Link to an amendment published at 90 FR 2427, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2427, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) If the IBLA or an Assistant Secretary (or the Secretary or the Director of OHA) does not issue a final decision by the date an appeal ends under § 4.904(d), then under 30 U.S.C. 1724(h)(2), the Secretary will be deemed to have decided the appeal:
 

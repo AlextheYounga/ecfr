@@ -1,6 +1,6 @@
 ##### § 4.1200 Filing of the application for review with the Office of Hearings and Appeals. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Pursuant to 30 CFR 865.13, within 7 days of receipt of an application for review of alleged discriminatory acts, OSM shall file a copy of the application in the Hearings Division, OHA. OSM shall also file in the Hearings Division, OHA, a copy of any answer submitted in response to the application for review.
 

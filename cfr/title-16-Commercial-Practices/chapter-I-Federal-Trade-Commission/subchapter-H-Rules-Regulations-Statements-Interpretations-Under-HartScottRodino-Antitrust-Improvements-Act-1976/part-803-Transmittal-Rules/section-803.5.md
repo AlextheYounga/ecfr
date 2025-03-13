@@ -1,8 +1,6 @@
 ##### § 803.5 Affidavits required. #####
 
-Link to an amendment published at 89 FR 89339, Nov. 12, 2024.
-
-(a)(1) *Section 801.30 acquisitions.* For acquisitions to which § 801.30 applies, the notification required by the Act from each acquiring person shall contain an affidavit, attached to the front of the notification, or with the DVD submission, attesting that the issuer or unincorporated entity whose voting securities or non-corporate interests are to be acquired has received written notice delivered to an officer (or a person exercising similar functions in the case of an entity without officers) by email, certified or registered mail, wire, or hand delivery, at its principal executive offices, of:
+(a) *Section 801.30 acquisitions.* (1) For acquisitions to which § 801.30 of this chapter applies, the notification required by the act from each acquiring person shall contain an affidavit attesting that the issuer or unincorporated entity whose voting securities or non-corporate interests are to be acquired has received written notice delivered to an officer (or a person exercising similar functions in the case of an entity without officers) by email, certified or registered mail, wire, or hand delivery, at its principal executive offices, of:
 
 (i) The identity of the acquiring person;
 
@@ -32,8 +30,8 @@ In examples 2-5 assume that one percent of B's shares are valued at $15 million.
 
 5. “A” states, inter alia, that it has commenced a tender offer for “up to 55 percent of the outstanding voting securities of Company B.” “A” 's notice does not comply with § 803.5 because use of the term “up to” does not state an intent to meet or exceed any notification threshold. The filing will therefore be considered deficient within the meaning of § 803.10 (c)(2).
 
-(3) The affidavit required by this paragraph must have attached to it a copy of the written notice received by the acquired person pursuant to paragraph (a)(1) of this section. For DVD filings, the written notice (in a form specified in the instructions) must be included on the DVD.
+(3) The affidavit required by this paragraph must have attached to it a copy of the written notice received by the acquired person pursuant to paragraph (a)(1) of this section.
 
-(b) *Non-section 801.30 acquisitions.* For acquisitions to which § 801.30 does not apply, the notification required by the act shall contain an affidavit, attached to the front of the notification, or with the DVD submission, attesting that a contract, agreement in principle or letter of intent to merge or acquire has been executed, and further attesting to the good faith intention of the person filing notification to complete the transaction.
+(b) *Non-section 801.30 acquisitions.* For acquisitions to which § 801.30 of this chapter does not apply, the notification required by the act shall contain an affidavit attesting that a contract, agreement in principle, or letter of intent to merge or acquire has been executed, and further attesting to the good faith intention of the person filing notification to complete the transaction. If the executed agreement is not the definitive agreement, the affidavit must attest that a dated document that provides sufficient detail about the scope of the entire transaction that the parties intend to consummate has also been submitted.
 
-[43 FR 33548, July 31, 1978, as amended at 48 FR 34439, July 29, 1983; 52 FR 7082, Mar. 6, 1987; 66 FR 8695, Feb. 1, 2001; 70 FR 4996, Jan. 31, 2005; 71 FR 35998, June 23, 2006; 76 FR 42483, July 19, 2011; 81 FR 60259, Sept. 1, 2016; 83 FR 32771, July 16, 2018]
+[43 FR 33548, July 31, 1978, as amended at 48 FR 34439, July 29, 1983; 52 FR 7082, Mar. 6, 1987; 66 FR 8695, Feb. 1, 2001; 70 FR 4996, Jan. 31, 2005; 71 FR 35998, June 23, 2006; 76 FR 42483, July 19, 2011; 81 FR 60259, Sept. 1, 2016; 83 FR 32771, July 16, 2018; 89 FR 89339, Nov. 12, 2024]

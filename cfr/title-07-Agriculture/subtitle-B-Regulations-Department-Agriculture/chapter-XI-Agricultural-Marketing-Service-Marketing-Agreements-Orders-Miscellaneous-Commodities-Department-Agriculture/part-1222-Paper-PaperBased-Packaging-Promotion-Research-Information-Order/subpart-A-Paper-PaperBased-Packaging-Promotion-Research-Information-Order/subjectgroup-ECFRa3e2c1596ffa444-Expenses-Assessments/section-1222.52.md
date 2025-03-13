@@ -1,6 +1,6 @@
 ##### § 1222.52 Assessments. #####
 
-Link to an amendment published at 90 FR 6783, Jan. 21, 2025.
+Link to an amendment published at 90 FR 6783, Jan. 21, 2025.This amendment was delayed until Mar. 21, 2025 at 90 FR 9188, Feb. 10, 2025
 
 (a) The Board's programs and expenses shall be paid by assessments on manufacturers and importers, other income of the Board, and other funds available to the Board.
 

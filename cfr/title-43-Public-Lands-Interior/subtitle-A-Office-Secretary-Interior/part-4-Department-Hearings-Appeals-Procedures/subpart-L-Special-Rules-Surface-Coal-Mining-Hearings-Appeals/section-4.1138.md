@@ -1,6 +1,6 @@
 ##### § 4.1138 Use of depositions. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 At the hearing, any part or all of a deposition, so far as admissible, may be used against any party who was present or represented at the taking of the deposition, or who had reasonable notice thereof, in accordance with any of the following provisions—
 

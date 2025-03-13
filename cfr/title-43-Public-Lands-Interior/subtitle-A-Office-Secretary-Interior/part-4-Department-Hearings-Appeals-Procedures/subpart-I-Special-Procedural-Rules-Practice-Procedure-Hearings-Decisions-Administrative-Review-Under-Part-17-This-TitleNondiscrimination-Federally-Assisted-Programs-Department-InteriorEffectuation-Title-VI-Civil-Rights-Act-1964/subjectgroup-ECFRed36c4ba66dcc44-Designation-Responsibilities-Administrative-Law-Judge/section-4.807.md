@@ -1,6 +1,6 @@
 ##### § 4.807 Authority and responsibilities. #####
 
-Link to an amendment published at 90 FR 2426, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2426, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 The administrative law judge shall have all powers necessary to preside over the parties and the proceedings, conduct the hearing, and make decisions in accordance with 5 U.S.C. 554 through 557. His powers shall include, but not be limited to, the power to:
 

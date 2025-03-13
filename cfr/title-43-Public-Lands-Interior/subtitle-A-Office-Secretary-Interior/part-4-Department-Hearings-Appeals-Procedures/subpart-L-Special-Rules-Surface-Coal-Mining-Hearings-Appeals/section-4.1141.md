@@ -1,6 +1,6 @@
 ##### § 4.1141 Admissions. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) A party may serve upon any other party a written request for the admission, for purposes of the pending action only, of the genuineness and authenticity of any relevant document described in or attached to the request, or for the admission of the truth of any specified relevant matter of fact.
 

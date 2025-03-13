@@ -1,6 +1,6 @@
 ##### § 1222.47 Prohibited activities. #####
 
-Link to an amendment published at 90 FR 6782, Jan. 21, 2025.
+Link to an amendment published at 90 FR 6782, Jan. 21, 2025.This amendment was delayed until Mar. 21, 2025 at 90 FR 9188, Feb. 10, 2025
 
 The Board may not engage in, and shall prohibit the employees and agents of the Board from engaging in:
 

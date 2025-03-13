@@ -1,7 +1,5 @@
 ##### § 803.12 Withdraw and refile notification. #####
 
-Link to an amendment published at 89 FR 89339, Nov. 12, 2024.
-
 (a) *Voluntary.* An acquiring person, and in the case of an acquisition to which § 801.30 does not apply, an acquired person, may withdraw its notification by notifying the Federal Trade Commission and the Antitrust Division in writing by email or mail of such withdrawal.
 
 (b) *Upon public announcement of termination.* An acquiring person's notification or, in the case of an acquisition to which § 801.30 of this chapter does not apply, an acquiring or an acquired person's notification, will be deemed to have been withdrawn if any filing that publicly announces the expiration, termination or withdrawal of a tender offer or the termination of an agreement or letter of intent is made by the acquiring person or the acquired person with the U.S. Securities and Exchange Commission (“SEC”) under the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*) and rules promulgated under that act. The acquiring person or acquired person must notify the Federal Trade Commission and the Antitrust Division in writing by email or mail that such filing has been made with the SEC and the withdrawal shall be deemed effective on the date of the SEC filing. Withdrawal of the HSR notification(s) shall occur even if statements are made in the SEC filing indicating a desire to recommence the tender offer or enter into a new or amended agreement or letter of intent. This paragraph is inapplicable if the initial 15-day or 30-day waiting period has expired without issuance of a request for additional information or documentary material and without an agreement in place with the Agencies to delay closing of the transaction (“a timing agreement”); or early termination of that waiting period has been granted, without a timing agreement in place; or if a request for additional information or documentary material has been issued and the Agencies have either granted early termination or allowed the extended waiting period to expire following certification of compliance without a timing agreement in place.
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 89339, Nov. 12, 2024.
 
 (ii) The proposed acquisition does not change in any material way;
 
-(iii) The resubmitted notification is recertified, and the submission, as it relates to Items 4(a), 4(b), 4(c), and 4(d) of the Notification and Report Form, is updated to the date of the resubmission;
+(iii) The resubmitted notification is recertified, and the submission, as it relates to Transaction-Specific Agreements, Transaction-Related Documents, and Subsidies from Foreign Entities of Concern sections of the Notification and Report Form, is updated to the date of the resubmission;
 
 (iv) A new executed affidavit is provided with the resubmitted HSR filing; and
 
@@ -34,4 +32,4 @@ Examples:1. A commences a tender offer to acquire 100% of B's voting securities 
 
 7. A and B enter into a merger agreement and file premerger notification filings with the Agencies and Form 8-Ks with the SEC. The agencies complete their review and early termination of the initial 30-day waiting period is granted. Prior to the expiration of the one year period following the grant of early termination, A and B terminate the merger agreement and A files a Form 8-K with the SEC announcing the termination of an agreement. A's premerger notification filing is not deemed withdrawn as a result of the SEC filing because the initial 30-day premerger notification waiting period had been granted early termination. Therefore, the parties still have the full one year period prior to the expiration of the notification under § 803.7(a) to consummate the transaction should it be recommenced.
 
-[78 FR 41296, July 10, 2013, as amended at 83 FR 32771, July 16, 2018]
+[78 FR 41296, July 10, 2013, as amended at 83 FR 32771, July 16, 2018; 89 FR 89339, Nov. 12, 2024 ]

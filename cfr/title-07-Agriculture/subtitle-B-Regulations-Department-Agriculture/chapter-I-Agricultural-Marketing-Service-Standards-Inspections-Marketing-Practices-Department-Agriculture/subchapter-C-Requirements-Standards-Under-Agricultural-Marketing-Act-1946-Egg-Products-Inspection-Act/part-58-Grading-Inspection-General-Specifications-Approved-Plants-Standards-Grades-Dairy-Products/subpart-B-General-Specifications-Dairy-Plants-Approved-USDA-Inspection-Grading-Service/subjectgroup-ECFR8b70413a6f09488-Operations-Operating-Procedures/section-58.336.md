@@ -1,6 +1,6 @@
 ##### § 58.336 Frequency of sampling for quality control of cream, butter and related products. #####
 
-Link to an amendment published at 90 FR 4587, Jan. 16, 2025.
+Link to an amendment published at 90 FR 4587, Jan. 16, 2025.This amendment was delayed until Mar. 21, 2025, at 90 FR 9187, Feb. 10, 2025.
 
 (a) *Microbiological.* Samples shall be taken from churnings or batches and should be taken as often as is necessary to insure microbiological control.
 

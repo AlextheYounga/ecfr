@@ -1,6 +1,6 @@
 ##### § 205.2 Terms defined. #####
 
-Link to an amendment published at 89 FR 104392, Dec. 23, 2024.
+Link to an amendment published at 89 FR 104392, Dec. 23, 2024.This amendment was delayed until Mar. 21, 2025, at 90 FR 9187, Feb. 10, 2025.
 
 *Accreditation.* A determination made by the Secretary that authorizes a private, foreign, or State entity to conduct certification activities as a certifying agent under this part.
 

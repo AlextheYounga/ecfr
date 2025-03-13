@@ -1,6 +1,6 @@
 ##### § 4.200 How to use this subpart. #####
 
-Link to an amendment published at 90 FR 2410, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2410, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) The following table is a guide to the relevant contents of this subpart by subject matter.
 

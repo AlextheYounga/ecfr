@@ -1,0 +1,5 @@
+##### § 961.9 (Rule 9) Oral hearing or submission on the written record. #####
+
+(a) An oral hearing may be held at the sole discretion of the Hearing Official. An oral hearing may be conducted in-person, by telephone, by video conference, or other appropriate means at the discretion of the Hearing Official. The Hearing Official will arrange for the preparation of a transcript of the hearing. That transcript will be the official record of the hearing. In the event of an unexcused absence of one of the parties, the hearing may proceed without the absent party.
+
+(b) If an oral hearing is not held, the record may be supplemented with affidavits or declarations. The Hearing Official's decision will be based on the written submissions. Submission on the written record does not relieve the parties from the necessity of proving the facts supporting their allegations or defenses.

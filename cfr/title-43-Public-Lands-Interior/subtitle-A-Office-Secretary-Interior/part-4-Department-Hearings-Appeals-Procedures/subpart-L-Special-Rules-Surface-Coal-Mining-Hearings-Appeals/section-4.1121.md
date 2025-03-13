@@ -1,6 +1,6 @@
 ##### § 4.1121 Powers of administrative law judges. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Under the regulations of this part, an administrative law judge may—
 

@@ -1,6 +1,6 @@
 ##### § 4.811 Determination and participation of amici. #####
 
-Link to an amendment published at 90 FR 2426, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2426, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Any interested person or organization wishing to participate as amicus curiae in the proceeding shall file a petition before the commencement of the hearing. Such petition shall concisely state the petitioner's interest in the hearing and who will represent petitioner.
 

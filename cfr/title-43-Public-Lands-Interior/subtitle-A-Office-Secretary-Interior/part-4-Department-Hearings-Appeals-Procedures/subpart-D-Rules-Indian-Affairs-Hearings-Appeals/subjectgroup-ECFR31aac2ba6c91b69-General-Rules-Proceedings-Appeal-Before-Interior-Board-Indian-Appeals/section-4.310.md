@@ -1,6 +1,6 @@
 ##### § 4.310 Documents. #####
 
-Link to an amendment published at 90 FR 2411, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2411, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) *Filing.* The effective date for filing a notice of appeal or other document with the Board during the course of an appeal is:
 

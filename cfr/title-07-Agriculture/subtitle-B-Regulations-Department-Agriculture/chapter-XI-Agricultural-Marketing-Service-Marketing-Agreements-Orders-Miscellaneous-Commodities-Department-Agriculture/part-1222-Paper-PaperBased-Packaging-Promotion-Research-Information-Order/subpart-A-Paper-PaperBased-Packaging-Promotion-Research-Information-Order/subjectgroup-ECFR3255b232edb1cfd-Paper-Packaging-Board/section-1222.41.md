@@ -1,6 +1,6 @@
 ##### § 1222.41 Nominations and appointments. #####
 
-Link to an amendment published at 90 FR 6782, Jan. 21, 2025.
+Link to an amendment published at 90 FR 6782, Jan. 21, 2025.This amendment was delayed until Mar. 21, 2025 at 90 FR 9188, Feb. 10, 2025
 
 (a) Nominees must manufacture or import 100,000 short tons or more of paper and paper-based packaging in a marketing year.
 

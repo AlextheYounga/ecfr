@@ -1,6 +1,6 @@
 ##### § 4.1272 Interlocutory appeals. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) If a party has sought certification under § 4.1124, that party may petition the Board for permission to appeal from an interlocutory ruling by an administrative law judge.
 

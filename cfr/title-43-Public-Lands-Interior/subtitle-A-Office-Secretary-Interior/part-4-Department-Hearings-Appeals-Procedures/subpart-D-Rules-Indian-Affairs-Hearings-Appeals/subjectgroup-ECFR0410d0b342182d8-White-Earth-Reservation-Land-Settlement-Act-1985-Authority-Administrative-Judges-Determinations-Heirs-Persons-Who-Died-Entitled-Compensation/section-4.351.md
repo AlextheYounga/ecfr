@@ -1,6 +1,6 @@
 ##### § 4.351 Commencement of the determination process. #####
 
-Link to an amendment published at 90 FR 2413, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2413, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Unless an heirship determination which is recognized by the Act already exists, the Project Director shall commence the determination of the heirs of those persons who died entitled to receive compensation by filing with the administrative judge all data, identifying the purpose for which they are being submitted, shown in the records relative to the family of the decedent.
 

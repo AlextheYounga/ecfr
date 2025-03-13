@@ -1,6 +1,6 @@
 ##### § 4.1013 How must documents be served? #####
 
-Link to an amendment published at 90 FR 2428, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2428, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) *Filed documents.* Any document related to a case under this subpart must be served at the same time the document is delivered or sent for filing. Copies must be served on each party, using one of the methods of service in paragraph (c) of this section.
 

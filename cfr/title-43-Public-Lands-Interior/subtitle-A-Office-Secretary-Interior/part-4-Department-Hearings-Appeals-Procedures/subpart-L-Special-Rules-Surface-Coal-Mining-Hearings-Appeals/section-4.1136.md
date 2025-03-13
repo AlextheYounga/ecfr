@@ -1,6 +1,6 @@
 ##### § 4.1136 Failure to comply with orders compelling discovery. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 If a party or an officer, director, or other agent of a party fails to obey an order to provide or permit discovery, the administrative law judge before whom the action is pending may make such orders in regard to the failure as are just, including but not limited to the following—
 

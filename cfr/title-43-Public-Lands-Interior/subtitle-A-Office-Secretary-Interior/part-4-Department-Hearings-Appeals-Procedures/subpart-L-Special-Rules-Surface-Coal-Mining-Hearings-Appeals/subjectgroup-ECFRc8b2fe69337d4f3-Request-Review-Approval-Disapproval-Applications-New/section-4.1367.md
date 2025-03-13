@@ -1,6 +1,6 @@
 ##### § 4.1367 Request for temporary relief. #####
 
-Link to an amendment published at 90 FR 2431, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2431, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Where review is requested pursuant to § 4.1362, any party may file a request for temporary relief at any time prior to a decision by an Administrative Law Judge, so long as the relief sought is not the issuance of a permit where a permit application has been disapproved in whole or in part.
 

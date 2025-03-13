@@ -1,6 +1,6 @@
 ##### § 4.1386 Petition for temporary relief from decision; appeals from decisions granting or denying temporary relief. #####
 
-Link to an amendment published at 90 FR 2431, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2431, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Any party may file a petition for temporary relief from the decision of OSM in conjunction with the filing of the request for review or at any time before an initial decision is issued by the administrative law judge.
 

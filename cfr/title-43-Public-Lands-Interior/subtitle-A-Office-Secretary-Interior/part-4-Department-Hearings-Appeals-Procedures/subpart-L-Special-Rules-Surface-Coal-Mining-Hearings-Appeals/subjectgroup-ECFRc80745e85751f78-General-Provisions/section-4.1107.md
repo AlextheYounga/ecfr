@@ -1,6 +1,6 @@
 ##### § 4.1107 Filing of documents. #####
 
-Link to an amendment published at 90 FR 2429, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2429, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Any initial pleadings in a proceeding to be conducted or being conducted by an administrative law judge under these rules shall be filed with the Hearings Division by hand or by mail under the terms specified in the Standing Orders on Contact Information or by electronic transmission under the terms specified in OHA Standing Order*s* on Electronic Transmission.
 

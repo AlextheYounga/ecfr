@@ -1,6 +1,6 @@
 ##### § 4.1190 Initiation of proceedings. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) A proceeding on a show cause order issued by the Director of OSM pursuant to section 521(a)(4) of the Act shall be initiated by the Director of OSM filing a copy of such an order with the Hearings Division, OHA, promptly after the order is issued to the permittee.
 

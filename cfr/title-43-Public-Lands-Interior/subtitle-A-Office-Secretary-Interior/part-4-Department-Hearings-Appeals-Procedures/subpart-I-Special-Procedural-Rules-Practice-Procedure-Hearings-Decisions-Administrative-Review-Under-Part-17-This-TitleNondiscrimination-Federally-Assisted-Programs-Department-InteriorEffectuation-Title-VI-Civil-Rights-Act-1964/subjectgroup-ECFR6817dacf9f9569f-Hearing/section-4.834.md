@@ -1,6 +1,6 @@
 ##### § 4.834 Purpose. #####
 
-Link to an amendment published at 90 FR 2427, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2427, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) The hearing is directed primarily to receiving factual evidence and expert opinion testimony related to the issues in the proceeding. A hearing will be held only in cases where issues of fact must be resolved in order to determine whether the applicant or recipient has failed to comply with one or more applicable requirements of title VI of the Civil Rights Act of 1964 (sec. 602, 42 U.S.C. 2000d-1) and part 17 of this title. However, this shall not prevent the parties from entering into a stipulation of the facts.
 

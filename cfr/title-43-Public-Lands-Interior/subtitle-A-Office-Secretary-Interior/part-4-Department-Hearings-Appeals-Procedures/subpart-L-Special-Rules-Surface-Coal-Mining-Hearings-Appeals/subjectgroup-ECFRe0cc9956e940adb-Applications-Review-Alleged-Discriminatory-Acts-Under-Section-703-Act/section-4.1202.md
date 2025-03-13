@@ -1,6 +1,6 @@
 ##### § 4.1202 Response to request for the scheduling of a hearing. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Any person served with a copy of the request for the scheduling of a hearing shall file a response with the Hearings Division, OHA, within 20 days of service of such request.
 

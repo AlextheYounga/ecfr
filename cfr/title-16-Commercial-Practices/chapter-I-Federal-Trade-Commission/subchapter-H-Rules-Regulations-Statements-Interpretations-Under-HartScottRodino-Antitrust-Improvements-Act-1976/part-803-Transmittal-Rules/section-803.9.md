@@ -1,7 +1,5 @@
 ##### § 803.9 Filing fee. #####
 
-Link to an amendment published at 89 FR 89339, Nov. 12, 2024.
-
 (a) Each acquiring person shall pay the filing fee required by the act to the Federal Trade Commission, except as provided in *paragraphs (b), (c),* and *(f)* of this section. No additional fee is to be submitted to the Antitrust Division of the Department of Justice. Examples:
 
 (1) “A” wishes to acquire voting securities issued by B, where the greater of the acquisition price and the market price is in excess of $50 million (as adjusted) but less than $100 million (as adjusted) pursuant to § 801.10 of this chapter. When “A” files notification for the transaction, it must indicate the $50 million (as adjusted) threshold. If the value of the voting securities is less than $161.5 million (as adjusted), “A” must pay a filing fee of $30,000 (as adjusted) because the aggregate total amount of the acquisition is greater than $50 million (as adjusted) but less than $161.5 million (as adjusted). If the aggregate total value of the voting securities is at least $161.5 million (as adjusted), but less than $500 million (as adjusted), “A” must pay a filing fee of $100,000 (as adjusted).
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 89339, Nov. 12, 2024.
 
 (b) For a transaction described by § 801.2(d)(2)(iii), the parties shall pay only one filing fee. In accordance with § 801.2(d)(2)(iii), both parties to a consolidation are acquiring and acquired persons and must submit a Notification and Report Form where the transaction meets the reporting requirements of that act; however, only one filing fee is required in connection with such a transaction, and is payable by either party to the transaction. The filing fee is based on the greater of the two sizes of transaction in the consolidation.
 
-(c) For a reportable transaction in which the acquiring entity has two ultimate parent entities, both ultimate parent entities are acquiring persons; however, if the responses for both ultimate parent entities would be the same for item 5 of the Notification and Report Form, only one filing fee is required in connection with the transaction.
+(c) For a reportable transaction in which the acquiring entity has two ultimate parent entities, both ultimate parent entities are acquiring persons; however, if the responses for both ultimate parent entities would be the same for the NAICS Codes section of the Notification and Report Form, only one filing fee is required in connection with the transaction.
 
 (d) *Manner of payment.* Fees may be paid by United States postal money order, bank money order, bank cashier's check, certified check or by electronic wire transfer (EWT). The fee must be paid in U.S. currency.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 89 FR 89339, Nov. 12, 2024.
 
 (f) For a transaction described by paragraph (c) of § 803.12, the parties shall pay no additional filing fee.
 
-[66 FR 8695, Feb. 1, 2001, as amended at 68 FR 2431, Jan. 17, 2003; 70 FR 4997, Jan. 31, 2005; 78 FR 41296, July 10, 2013; 88 FR 5750, Jan. 30, 2023; 89 FR 7611, Feb. 5, 2024]
+[66 FR 8695, Feb. 1, 2001, as amended at 68 FR 2431, Jan. 17, 2003; 70 FR 4997, Jan. 31, 2005; 78 FR 41296, July 10, 2013; 88 FR 5750, Jan. 30, 2023; 89 FR 7611, Feb. 5, 2024; 89 FR 89339, Nov. 12, 2024]

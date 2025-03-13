@@ -1,6 +1,6 @@
 ##### § 4.321 How do I appeal a judge's decision or order? #####
 
-Link to an amendment published at 90 FR 2412, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2412, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) A person wishing to appeal a decision or order within the scope of § 4.320 must file a written notice of appeal within 30 days after the judge has mailed the decision or order and accurate appeal instructions. We will dismiss any appeal not filed by this deadline.
 

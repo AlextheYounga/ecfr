@@ -1,6 +1,6 @@
 ##### § 4.320 Who may appeal a judge's decision or order? #####
 
-Link to an amendment published at 90 FR 2412, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2412, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 Any interested party has a right to appeal to the Board if he or she is adversely affected by a decision or order of a judge under part 30 of this subtitle:
 

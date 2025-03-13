@@ -1,6 +1,6 @@
 ##### § 4.833 Prehearing conferences. #####
 
-Link to an amendment published at 90 FR 2427, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2427, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Within 15 days after the answer has been filed, the administrative law judge will establish a prehearing conference date for all parties including persons or organizations whose petition requesting party status has not been ruled upon. Written notice of the prehearing conference shall be sent by the administrative law judge.
 

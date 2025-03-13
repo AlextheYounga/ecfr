@@ -1,6 +1,6 @@
 ##### § 4.317 Standards of conduct. #####
 
-Link to an amendment published at 90 FR 2412, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2412, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) *Inquiries about cases.* All inquiries about any matter pending before the Board must be made to the Chief Administrative Judge of the Board or the administrative judge assigned the matter.
 

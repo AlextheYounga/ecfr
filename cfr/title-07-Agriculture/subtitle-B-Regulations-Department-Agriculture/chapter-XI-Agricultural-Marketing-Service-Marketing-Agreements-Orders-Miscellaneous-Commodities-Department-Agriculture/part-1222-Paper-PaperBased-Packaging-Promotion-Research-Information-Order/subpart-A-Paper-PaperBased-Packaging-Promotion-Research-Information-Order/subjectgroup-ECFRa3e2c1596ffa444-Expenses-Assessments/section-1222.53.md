@@ -1,6 +1,6 @@
 ##### § 1222.53 Exemption from assessment. #####
 
-Link to an amendment published at 90 FR 6783, Jan. 21, 2025.
+Link to an amendment published at 90 FR 6783, Jan. 21, 2025.This amendment was delayed until Mar. 21, 2025 at 90 FR 9188, Feb. 10, 2025
 
 (a) *Minimum quantity exemption.* (1) Manufacturers that manufacture less than 100,000 short tons of paper and paper-based packaging in a marketing year are exempt from paying assessments. Such manufacturers must apply to the Board, on a form provided by the Board, for a certificate of exemption prior to the start of the marketing year. This is an annual exemption and manufacturers must reapply each year. Such manufacturers shall certify that they will manufacture less than 100,000 short tons of paper and paper-based packaging during the marketing year for which the exemption is claimed. Upon receipt of an application for exemption, the Board shall determine whether an exemption may be granted. The Board may request past manufacturing data to support the exemption request. The Board will issue, if deemed appropriate, a certificate of exemption to the eligible manufacturer. It is the responsibility of the manufacturer to retain a copy of the certificate of exemption.
 

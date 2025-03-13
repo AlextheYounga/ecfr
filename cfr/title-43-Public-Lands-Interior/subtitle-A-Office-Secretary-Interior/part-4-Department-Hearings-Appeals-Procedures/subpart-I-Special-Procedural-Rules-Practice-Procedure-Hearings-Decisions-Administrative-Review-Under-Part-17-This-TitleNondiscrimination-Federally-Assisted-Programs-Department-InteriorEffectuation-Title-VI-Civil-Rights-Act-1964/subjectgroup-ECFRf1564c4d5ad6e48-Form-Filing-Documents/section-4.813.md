@@ -1,6 +1,6 @@
 ##### § 4.813 Filing and service. #####
 
-Link to an amendment published at 90 FR 2426, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2426, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) All documents submitted in a proceeding shall be served on all parties. The original and two copies of each document shall be submitted for filing. Filings shall be made with the administrative law judge or other appropriate Departmental official before whom the proceeding is pending. With respect to exhibits and transcripts of testimony, only originals need be filed.
 

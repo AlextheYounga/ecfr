@@ -1,6 +1,6 @@
 ##### § 4.904 When does my appeal commence and end? #####
 
-Link to an amendment published at 90 FR 2427, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2427, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 For purposes of the period in which the Department must issue a final decision in your appeal under § 4.906:
 

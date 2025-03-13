@@ -1,6 +1,6 @@
 ##### § 4.828 Use of depositions at hearing. #####
 
-Link to an amendment published at 90 FR 2427, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2427, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Any part or all of a deposition so far as admissible under § 4.835 applied as though the witness were then present and testifying, may be used against any party who was present or represented at the taking of the deposition or who had reasonable notice thereof as follows:
 

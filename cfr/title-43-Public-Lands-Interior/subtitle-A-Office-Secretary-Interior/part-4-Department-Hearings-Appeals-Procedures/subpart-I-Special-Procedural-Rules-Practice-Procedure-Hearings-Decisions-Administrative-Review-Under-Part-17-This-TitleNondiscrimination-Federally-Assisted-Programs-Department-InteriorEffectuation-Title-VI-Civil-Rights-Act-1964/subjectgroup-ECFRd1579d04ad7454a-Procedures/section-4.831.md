@@ -1,6 +1,6 @@
 ##### § 4.831 Sanctions. #####
 
-Link to an amendment published at 90 FR 2427, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2427, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) A party, upon reasonable notice to other parties and all persons affected thereby, may move for an order as follows:
 

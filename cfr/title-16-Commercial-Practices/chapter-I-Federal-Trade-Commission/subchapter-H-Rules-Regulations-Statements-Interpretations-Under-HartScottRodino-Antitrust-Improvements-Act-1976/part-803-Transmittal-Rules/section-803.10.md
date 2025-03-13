@@ -1,7 +1,5 @@
 ##### § 803.10 Running of time. #####
 
-Link to an amendment published at 89 FR 89339, Nov. 12, 2024.
-
 (a) *Beginning of waiting period.* The waiting period required by the act shall begin on the date of receipt of the notification required by the act, in the manner provided by these rules (or, if such notification is not completed, the notification to the extent completed and a statement of the reasons for such noncompliance in accordance with § 803.3) from:
 
 (1) In the case of acquisitions to which § 801.30 applies, the acquiring person;
@@ -22,12 +20,12 @@ Link to an amendment published at 89 FR 89339, Nov. 12, 2024.
 
 (c)(1) *Date of receipt and means of delivery.* For purposes of this section, these procedures shall apply.
 
-(i) For paper copy filings and DVD filings, the date of receipt shall be the date on which delivery is effected to the designated offices (Premerger Notification Office, Federal Trade Commission, Room 5301, 400 7th Street SW., Washington, DC 20024, and Director of Civil Enforcement, Office of Operations, Antitrust Division, Department of Justice, 950 Pennsylvania Avenue NW., Room #3335, Washington, DC 20530) during normal business hours. Delivery should be effected directly to the designated offices, either by hand or by certified or registered mail (including FedEx and UPS). In the event one or both of the delivery sites are unavailable, the FTC and DOJ may designate alternate sites for delivery of the filing. Notification of the alternate delivery sites will normally be made through a press release and, if possible, on the *http://www.ftc.gov* Web site.
+(i) The date of receipt shall be the date of electronic submission if such date is not a Saturday, Sunday, a legal public holiday (as defined in 5 U.S.C. 6103(a)), or a legal public holiday's observed date, and the submission is completed by 5 p.m. Eastern Time. In the event electronic submission is unavailable, the FTC and DOJ may designate procedures for the submission of the filing. Notification of the alternate delivery procedures will normally be made through a press release and, if possible, on the *https://www.ftc.gov* website.
 
-(ii) Delivery effected after 5 p.m. eastern time on a business day, or at any time on any day other than a business day, shall be deemed effected on the next following business day. If delivery of all required filings to all offices required to receive such filings is not effected on the same date, the date of receipt shall be the latest of the dates on which delivery is effected.
+(ii) Delivery effected after 5 p.m. Eastern Time on a business day, or at any time on any day other than a business day, shall be deemed effected on the next following business day. If submission of all required filings is not effected on the same date, the date of receipt shall be the latest of the dates on which submission is effected.
 
-Example:In an acquisition other than a tender offer, assume that requests for additional information are issued to both the acquiring and acquired persons on the 26th day of the waiting period. One person submits the additional information on the 35th day, while the other responds on the 44th day. Under this section, the waiting period expires thirty days following the last receipt of additional information, that is, it expires on the 74th day (unless that day is a Saturday, Sunday or legal public holiday).
+Example 1 to paragraph (c)(1):In an acquisition other than a tender offer, assume that requests for additional information are issued to both the acquiring and acquired persons on the 26th day of the waiting period. One person submits the additional information on the 35th day, while the other responds on the 44th day. Under this section, the waiting period expires thirty days following the last receipt of additional information, that is, it expires on the 74th day (unless that day is a Saturday, Sunday or legal public holiday).
 
 (2) *Deficient filings.* If notification or a response to a request for additional information or documentary material received by the Commission or Assistant Attorney General does not comply with these rules, the Commission or the Assistant Attorney General shall promptly notify the person filing such notification or response of the deficiencies in such filing, and the date of receipt shall be the date on which a filing which complies with these rules is received.
 
-[43 FR 33548, July 31, 1978; 43 FR 36054, Aug. 15, 1978, as amended at 52 FR 7083, Mar. 6, 1987; 66 FR 8696, Feb. 1, 2001; 70 FR 11514, Mar. 8, 2005; 71 FR 35998, June 23, 2006; 79 FR 25663, May 6, 2014; 81 FR 60260, Sept. 1, 2016]
+[43 FR 33548, July 31, 1978; 43 FR 36054, Aug. 15, 1978, as amended at 52 FR 7083, Mar. 6, 1987; 66 FR 8696, Feb. 1, 2001; 70 FR 11514, Mar. 8, 2005; 71 FR 35998, June 23, 2006; 79 FR 25663, May 6, 2014; 81 FR 60260, Sept. 1, 2016; 89 FR 89339, Nov. 12, 2024]

@@ -1,6 +1,6 @@
 ##### § 4.1100 Definitions. #####
 
-Link to an amendment published at 90 FR 2429, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2429, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 As used in the regulations in this subpart, the term—
 

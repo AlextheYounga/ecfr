@@ -1,6 +1,6 @@
 ##### § 4.353 Record. #####
 
-Link to an amendment published at 90 FR 2413, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2413, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) The administrative judge shall lodge the original record with the Project Director.
 

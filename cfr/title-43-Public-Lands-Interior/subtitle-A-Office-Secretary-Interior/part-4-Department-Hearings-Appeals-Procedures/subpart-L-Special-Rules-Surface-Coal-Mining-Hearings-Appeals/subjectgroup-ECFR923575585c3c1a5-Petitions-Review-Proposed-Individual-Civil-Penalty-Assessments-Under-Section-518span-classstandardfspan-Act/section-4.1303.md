@@ -1,6 +1,6 @@
 ##### § 4.1303 Contents and service of petition. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) An individual filing a petition for review of a notice of proposed individual civil penalty assessment shall provide—
 

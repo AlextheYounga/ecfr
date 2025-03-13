@@ -1,6 +1,6 @@
 ##### § 4.356 Appeals. #####
 
-Link to an amendment published at 90 FR 2413, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2413, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) A party aggrieved by a final order of an administrative judge under § 4.352, or by a final order upon reconsideration of an administrative judge under § 4.354, may appeal to the Board. A copy of the notice of appeal must also be sent to the Project Director and to the administrative judge whose decision is being appealed.
 

@@ -1,6 +1,6 @@
 ##### § 4.1203 Application for temporary relief from alleged discriminatory acts. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) On or after 10 days from the filing of an application for review under this part, any party may file an application for temporary relief from alleged discriminatory acts.
 

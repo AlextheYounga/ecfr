@@ -1,6 +1,6 @@
 ##### § 4.331 Who may appeal. #####
 
-Link to an amendment published at 90 FR 2413, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2413, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 Any interested party affected by a final administrative action or decision of an official of the Bureau of Indian Affairs issued under regulations in title 25 of the Code of Federal Regulations may appeal to the Board of Indian Appeals, except—
 

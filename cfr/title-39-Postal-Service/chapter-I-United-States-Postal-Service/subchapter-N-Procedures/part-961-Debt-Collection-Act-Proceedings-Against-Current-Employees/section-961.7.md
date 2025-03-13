@@ -1,0 +1,3 @@
+##### § 961.7 (Rule 7) Answer to petition. #####
+
+The Postal Service must file an answer to the petition by the date set out in the docketing notice. The Postal Service must attach all documents that are available and relevant to the Postal Service's debt claim and the proposed administrative salary offset schedule. The answer must include a clear and thorough description of the basis for the alleged debt, a calculation of the amount of the alleged debt, and a proposed offset schedule.

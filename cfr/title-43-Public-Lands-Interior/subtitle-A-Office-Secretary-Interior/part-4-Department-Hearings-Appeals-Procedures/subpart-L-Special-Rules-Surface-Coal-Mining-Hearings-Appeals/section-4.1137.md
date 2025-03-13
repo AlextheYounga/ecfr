@@ -1,6 +1,6 @@
 ##### § 4.1137 Depositions upon oral examination or upon written questions. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Any party desiring to take the testimony of any other party or other person by deposition upon oral examination or written questions shall, without leave of the administrative law judge, give reasonable notice in writing to every other party, to the person to be examined and to the administrative law judge of—
 

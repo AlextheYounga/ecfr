@@ -1,6 +1,6 @@
 ##### § 4.1101 Jurisdiction of the Board. #####
 
-Link to an amendment published at 90 FR 2429, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2429, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) The jurisdiction of the Board, as set forth in § 4.1(b)(3), and subject to §§ 4.21(d) and 4.5, includes the authority to exercise the final decisionmaking power of the Secretary under the act pertaining to—
 

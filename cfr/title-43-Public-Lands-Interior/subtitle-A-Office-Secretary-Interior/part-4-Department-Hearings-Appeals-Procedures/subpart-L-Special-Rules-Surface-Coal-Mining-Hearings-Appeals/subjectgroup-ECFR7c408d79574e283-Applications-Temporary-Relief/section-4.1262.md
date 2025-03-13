@@ -1,6 +1,6 @@
 ##### § 4.1262 Where to file. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 The application shall be filed with the administrative law judge to whom the case has been assigned. If no assignment has been made, the application shall be filed in the Hearings Division, OHA.
 

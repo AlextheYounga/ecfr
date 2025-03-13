@@ -1,6 +1,6 @@
 ##### § 4.1135 Motion to compel discovery. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) If a deponent fails to answer a question propounded, or a party upon whom a request is made pursuant to § 4.1140, or a party upon whom answers to interrogatories are served fails to adequately respond or objects to the request, or any part thereof, or fails to permit inspection as requested, the discovering party may move the administrative law judge for an order compelling a response or inspection in accordance with the request.
 

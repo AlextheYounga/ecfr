@@ -1,6 +1,6 @@
 ##### § 4.1161 Who may file. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 A permittee issued a notice or order by the Secretary pursuant to the provisions of section 521(a)(2) or section 521(a)(3) of the Act or any person having an interest which is or may be adversely affected by a notice or order subject to review under § 4.1160 may file an application for review with the Hearings Division, OHA.
 

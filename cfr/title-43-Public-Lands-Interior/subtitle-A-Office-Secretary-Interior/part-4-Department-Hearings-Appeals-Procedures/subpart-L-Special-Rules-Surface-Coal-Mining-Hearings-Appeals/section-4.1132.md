@@ -1,6 +1,6 @@
 ##### § 4.1132 Scope of discovery. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Unless otherwise limited by order of the administrative law judge in accordance with these rules, the parties may obtain discovery regarding any matter, not privileged, which is relevant to the subject matter involved in the proceeding, including the existence, description, nature, custody, condition, and location of any books, documents, or other tangible things and the identity and location of persons having knowledge of any discoverable matter.
 

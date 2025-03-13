@@ -1,6 +1,6 @@
 ##### § 4.1139 Written interrogatories to parties. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Any party may serve upon any other party written interrogatories to be answered in writing by the party served, or if the party served is a public or private corporation or a partnership or association or governmental agency, by any officer or agent, who shall furnish such information as is available to the party. A copy of the interrogatories, answers, and all related pleadings shall be served on the administrative law judge and upon all parties to the proceeding.
 

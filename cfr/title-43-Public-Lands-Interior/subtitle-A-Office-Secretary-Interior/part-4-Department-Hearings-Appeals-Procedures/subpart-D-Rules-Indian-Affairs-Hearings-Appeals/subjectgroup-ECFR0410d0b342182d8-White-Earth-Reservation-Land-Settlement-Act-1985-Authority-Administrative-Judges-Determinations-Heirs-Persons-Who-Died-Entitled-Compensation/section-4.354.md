@@ -1,6 +1,6 @@
 ##### § 4.354 Reconsideration or rehearing. #####
 
-Link to an amendment published at 90 FR 2413, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2413, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Any party aggrieved by the final order of the administrative judge may, within thirty (30) days after the date of mailing such decision, file with the administrative judge a written petition for reconsideration and/or rehearing. Such petition must be under oath and must state specifically and concisely the grounds upon which it is based. If it is based upon newly discovered evidence, it shall be accompanied by affidavits of witnesses stating fully what the new evidence or testimony is to be. It shall also state justifiable reasons for the prior failure to discover and present the evidence.
 

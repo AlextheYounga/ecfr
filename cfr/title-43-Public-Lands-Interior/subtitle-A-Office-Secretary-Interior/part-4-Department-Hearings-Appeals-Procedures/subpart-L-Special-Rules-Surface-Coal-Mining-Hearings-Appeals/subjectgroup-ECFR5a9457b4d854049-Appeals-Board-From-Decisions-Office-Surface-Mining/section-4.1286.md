@@ -1,6 +1,6 @@
 ##### § 4.1286 Motion for a hearing on an appeal involving issues of fact. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Any party may file a motion that the Board refer a case to an administrative law judge for a hearing. The motion must state:
 

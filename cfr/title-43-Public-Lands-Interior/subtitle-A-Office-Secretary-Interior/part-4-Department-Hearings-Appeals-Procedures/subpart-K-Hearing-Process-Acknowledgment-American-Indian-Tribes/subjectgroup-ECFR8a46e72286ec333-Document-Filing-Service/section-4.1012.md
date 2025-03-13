@@ -1,6 +1,6 @@
 ##### § 4.1012 Where and how must documents be filed? #####
 
-Link to an amendment published at 90 FR 2428, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2428, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) *Place of filing.* Any documents relating to a case under this subpart must be filed with DCHD. DCHD's contact information is identified in the OHA Standing Orders on Contact Information
 

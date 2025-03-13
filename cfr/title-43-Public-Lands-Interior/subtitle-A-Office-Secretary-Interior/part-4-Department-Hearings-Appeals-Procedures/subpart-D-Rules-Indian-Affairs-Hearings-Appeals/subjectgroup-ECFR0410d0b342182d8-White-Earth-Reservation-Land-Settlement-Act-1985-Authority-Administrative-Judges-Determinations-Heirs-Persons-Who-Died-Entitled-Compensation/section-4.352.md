@@ -1,6 +1,6 @@
 ##### § 4.352 Determination of administrative judge and notice thereof. #####
 
-Link to an amendment published at 90 FR 2413, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2413, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) Upon review of all data submitted by the Project Director, the administrative judge will determine whether or not there are any apparent issues of fact that need to be resolved.
 

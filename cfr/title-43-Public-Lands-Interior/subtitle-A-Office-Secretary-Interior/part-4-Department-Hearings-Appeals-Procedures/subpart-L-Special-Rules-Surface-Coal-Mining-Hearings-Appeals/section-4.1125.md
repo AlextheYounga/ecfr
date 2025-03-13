@@ -1,6 +1,6 @@
 ##### § 4.1125 Summary decision. #####
 
-Link to an amendment published at 90 FR 2430, Jan. 10, 2025.
+Link to an amendment published at 90 FR 2430, Jan. 10, 2025.This amendment is delayed until March 21, 2025, at 90 FR 9222, Feb. 10, 2025.
 
 (a) At any time after a proceeding has begun, a party may move for summary decision of the whole or part of a case.
 
