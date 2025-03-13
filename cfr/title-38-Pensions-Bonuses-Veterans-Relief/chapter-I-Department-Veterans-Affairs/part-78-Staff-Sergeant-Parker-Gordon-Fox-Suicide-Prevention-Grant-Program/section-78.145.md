@@ -1,5 +1,7 @@
 ##### § 78.145 Grantee reporting requirements. #####
 
+Link to an amendment published at 89 FR 62663, Aug. 1, 2024.
+
 (a) VA may require grantees to provide, in any form as may be prescribed, such reports or answers in writing to specific questions, surveys, or questionnaires as VA determines necessary to carry out SSG Fox SPGP.
 
 (b) At least once per year, each grantee must submit to VA a report that describes the projects carried out with such grant during the year covered by the report; and information relating to operational effectiveness, fiscal responsibility, suicide prevention services grant agreement compliance, and legal and regulatory compliance, including a description of the use of suicide prevention grant funds, the number of participants assisted, the types of suicide prevention services provided, and any other information that VA may request.

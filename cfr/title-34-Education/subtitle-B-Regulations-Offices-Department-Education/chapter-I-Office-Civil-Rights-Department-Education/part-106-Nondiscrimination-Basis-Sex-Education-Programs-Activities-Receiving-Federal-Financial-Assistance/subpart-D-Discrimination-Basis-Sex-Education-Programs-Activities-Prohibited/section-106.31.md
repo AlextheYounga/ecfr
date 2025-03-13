@@ -1,8 +1,14 @@
 ##### § 106.31 Education programs or activities. #####
 
-Link to an amendment published at 89 FR 33887, Apr. 29, 2024.
+(a) *General.* (1) Except as provided elsewhere in this part, no person shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or otherwise be subjected to discrimination under any academic, extracurricular, research, occupational training, or other education program or activity operated by a recipient that receives Federal financial assistance.
 
-(a) *General.* Except as provided elsewhere in this part, no person shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any academic, extracurricular, research, occupational training, or other education program or activity operated by a recipient which receives Federal financial assistance. This subpart does not apply to actions of a recipient in connection with admission of its students to an education program or activity of (1) a recipient to which subpart C does not apply, or (2) an entity, not a recipient, to which subpart C would not apply if the entity were a recipient.
+(2) In the limited circumstances in which Title IX or this part permits different treatment or separation on the basis of sex, a recipient must not carry out such different treatment or separation in a manner that discriminates on the basis of sex by subjecting a person to more than de minimis harm, except as permitted by 20 U.S.C. 1681(a)(1) through (9) and the corresponding regulations §§ 106.12 through 106.15, 20 U.S.C. 1686 and its corresponding regulation § 106.32(b)(1), or § 106.41(b). Adopting a policy or engaging in a practice that prevents a person from participating in an education program or activity consistent with the person's gender identity subjects a person to more than de minimis harm on the basis of sex.
+
+(3) This subpart does not apply to actions of a recipient in connection with admission of its students to an education program or activity of:
+
+(i) A recipient to which subpart C does not apply; or
+
+(ii) An entity, not a recipient, to which subpart C would not apply if the entity were a recipient.
 
 (b) *Specific prohibitions.* Except as provided in this subpart, in providing any aid, benefit, or service to a student, a recipient shall not, on the basis of sex:
 
@@ -30,4 +36,4 @@ Link to an amendment published at 89 FR 33887, Apr. 29, 2024.
 
 (ii) Shall not facilitate, require, permit, or consider such participation if such action occurs.
 
-[45 FR 30955, May 9, 1980, as amended at 47 FR 32527, July 28, 1982; 65 FR 68056, Nov. 13, 2000; 85 FR 30579, May 19, 2020]
+[45 FR 30955, May 9, 1980, as amended at 47 FR 32527, July 28, 1982; 65 FR 68056, Nov. 13, 2000; 85 FR 30579, May 19, 2020; 89 FR 33887, Apr. 29, 2024]

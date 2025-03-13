@@ -1,7 +1,5 @@
 ##### § 300.27 Incidental catch and tuna retention requirements. #####
 
-Link to an amendment published at 89 FR 54726, July 2, 2024.
-
 (a) *Tuna retention requirements for purse seine vessels.* Bigeye, skipjack, and yellowfin tuna caught in the Convention Area by a fishing vessel of the United States of class size 4-6 (more than 182 metric tons carrying capacity) using purse seine gear must be retained on board and landed, except for fish deemed unfit for human consumption for reasons other than size. This requirement shall not apply to the last set of a trip if the available well capacity is insufficient to accommodate the entire catch.
 
 (b) *Release requirements for fish species on purse seine vessels.* All purse seine vessels must release, as soon as practicable after being identified on board the vessel during the brailing operation, all billfish, rays (not including mobulid rays, which are subject to paragraph (i) of this section), dorado (*Coryphaena hippurus*), and other fish species. This requirement does not apply to tuna or tuna-like species, or to other fish retained for consumption aboard the vessel. Sharks caught in the IATTC Convention Area and that are not retained for consumption aboard the vessel must be released according to the requirements in paragraph (k) of this section. Tuna caught in the IATTC Convention Area are subject to the retention requirements in paragraph (a) of this section.
@@ -34,12 +32,32 @@ Link to an amendment published at 89 FR 54726, July 2, 2024.
 
 (2) Applicable to purse seine operations, large mobulid rays must be brailed out of the net by directly releasing the mobulid ray from the brailer into the ocean. Large mobulid rays that cannot be released without compromising the safety of persons or the mobulid ray before being landed on deck, must be returned to the water as soon as possible, either utilizing a ramp from the deck connecting to an opening on the side of the boat, or lowered with a sling or net, using a crane if available. The minimum size for the sling or net must be at least 25 feet in diameter.
 
-(k) *Shark handling and release requirements for purse seine vessels.* The crew, operator, and owner of a U.S. commercial purse seine fishing vessel must promptly release unharmed, to the extent practicable, any shark (whether live or dead) caught in the IATTC Convention Area, as soon as it is seen in the net or on the deck, without compromising the safety of any persons. If a shark is live when caught, the crew, operator, or owner must follow release procedures in the following two paragraphs.
+(k) *Shark handling and release requirements.* (1) For purse seine vessels: the crew, operator, or owner of a U.S. commercial purse seine fishing vessel must promptly release unharmed, to the extent practicable, any shark (whether live or dead) caught in the IATTC Convention Area, as soon as it is seen in the net or on the deck, without compromising the safety of any persons. If a shark is live when caught, the crew, operator, or owner must follow these release procedures:
 
-(1) Sharks must be released out of the purse seine net by directly releasing the shark from the brailer into the ocean. Sharks that cannot be released without compromising the safety of persons or the sharks before being landed on deck must be returned to the water as soon as possible, either utilizing a ramp from the deck connecting to an opening on the side of the boat, or through escape hatches. If ramps or escape hatches are not available, the sharks must be lowered with a sling or cargo net, using a crane or similar equipment, if available.
+(i) Sharks must be released out of the purse seine net by directly releasing the shark from the brailer into the ocean. Sharks that cannot be released without compromising the safety of persons or the sharks before being landed on deck must be returned to the water as soon as possible, either utilizing a ramp from the deck connecting to an opening on the side of the boat or through escape hatches. If ramps or escape hatches are not available, the sharks must be lowered with a sling or cargo net, using a crane or similar equipment, if available.
 
-(2) No shark may be gaffed or hooked, lifted by the head, tail, gill slits or spiracles, or lifted by using bind wire against or inserted through the body, and no holes may be punched through the bodies of sharks (*e.g.,* to pass a cable through for lifting the shark).
+(ii) No shark may be gaffed or hooked, lifted by the head, tail, gill slits or spiracles, or lifted by using bind wire against or inserted through the body, and no holes may be punched through the bodies of sharks (*e.g.,* to pass a cable through for lifting the shark).
+
+(2) For longline vessels: the crew, operator, or owner of a U.S. commercial longline fishing vessel must promptly release unharmed, to the extent practicable, any shark (whether live or dead) caught in the IATTC Convention Area that is not retained, as soon as it is seen on the line, without compromising the safety of any persons. If a shark is live when seen on the line, the crew, operator, or owner must follow these release procedures:
+
+(i) Leave the shark in the water.
+
+(ii) Use a line clipper meeting the minimum design standards in paragraph (m) of this section to cut the branchline so that less than 1 meter (or 3.3 ft) of line remains on the animal. If this is not possible without compromising the safety of any persons, cut the branchline as close to the hook as possible.
 
 (l) *Shark line prohibition for longline vessels.* Any U.S. longline vessel used to fish for tuna or swordfish is prohibited from using any shark line in the IATTC Convention Area.
 
-[81 FR 50403, Aug. 1, 2016, as amended at 81 FR 86970, Dec. 2, 2016; 82 FR 56178, Nov. 28, 2017; 84 FR 70048, Dec. 20, 2019; 85 FR 29669, May 18, 2020; 87 FR 40741, July 8, 2022]
+(m) *Possession and use of required mitigation gear.* (1) NMFS has established minimum design standards for line clippers. At least one line clipper meeting these design standards must be present onboard any longline vessel fishing in the IATTC Convention Area. The minimum design standards are as follows:
+
+(i) The line clipper must have a protected cutting blade. The cutting blade must be curved, recessed, contained in a holder, or otherwise afforded some protection to minimize direct contact of the cutting surface with animals or users of the cutting blade.
+
+(ii) The cutting blade edge must be capable of cutting 2.0-2.1 mm monofilament line and nylon or polypropylene multi-strand material commonly known as braided mainline or tarred mainline.
+
+(iii) The line clipper must have an extended reach handle or pole of at least 6 ft (1.82 m) for the cutting blade.
+
+(iv) The cutting blade must be securely fastened to the extended reach handle or pole to ensure effective deployment and use.
+
+(2) [Reserved]
+
+(n) *Prohibition on shark finning.* Vessel owners and operators must comply with regulations governing the harvest, possession, landing, purchase, and sale of shark fins found at 50 CFR part 600, subpart N.
+
+[81 FR 50403, Aug. 1, 2016, as amended at 81 FR 86970, Dec. 2, 2016; 82 FR 56178, Nov. 28, 2017; 84 FR 70048, Dec. 20, 2019; 85 FR 29669, May 18, 2020; 87 FR 40741, July 8, 2022; 89 FR 54726, July 2, 2024]

@@ -1,7 +1,5 @@
 ##### § 40.35 What training requirements must a collector meet for oral fluid collection? #####
 
-Link to an amendment published at 89 FR 51986, June 21, 2024.
-
 To be permitted to act as an oral fluid collector in the DOT drug testing program, you must meet each of the requirements of this section:
 
 (a) *Basic information.* You must be knowledgeable about this part, the current “DOT Oral Fluid Specimen Collection Procedures Guidelines,” and DOT agency regulations applicable to the employers for whom you perform collections. DOT agency regulations, guidelines, and other materials are available from ODAPC (Department of Transportation, 1200 New Jersey Avenue SE, Washington DC, 20590, 202-366-3784, or on the ODAPC website (*https://www.transportation.gov/odapc*). You must keep current on any changes to these materials. You must subscribe to the ODAPC list-serve at: *https://www.transportation.gov/odapc/get-odapc-email-updates.*

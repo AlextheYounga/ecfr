@@ -1,5 +1,7 @@
 ##### § 78.15 Applications for suicide prevention services grants. #####
 
+Link to an amendment published at 89 FR 62663, Aug. 1, 2024.
+
 (a) To apply for a suicide prevention services grant, an applicant must submit to VA a complete suicide prevention services grant application package, as described in the NOFO. A complete suicide prevention services grant application package includes the following:
 
 (1) Documentation evidencing the experience of the applicant and any identified community partners in providing or coordinating the provision of suicide prevention services to eligible individuals and their families.

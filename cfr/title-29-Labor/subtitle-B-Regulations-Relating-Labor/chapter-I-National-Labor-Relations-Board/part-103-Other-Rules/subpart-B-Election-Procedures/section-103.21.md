@@ -1,5 +1,7 @@
 ##### § 103.21 Processing of petitions filed after voluntary recognition. #####
 
+Link to an amendment published at 89 FR 63026, Aug. 1, 2024.
+
 (a) An employer's voluntary recognition of a labor organization as exclusive bargaining representative of an appropriate unit of the employer's employees under section 9(a) of the Act, and the first collective-bargaining agreement executed by the parties on or after the date of such voluntary recognition, will not bar the processing of an election petition unless:
 
 (1) The employer and/or the labor organization notifies the Regional Office that recognition has been granted;

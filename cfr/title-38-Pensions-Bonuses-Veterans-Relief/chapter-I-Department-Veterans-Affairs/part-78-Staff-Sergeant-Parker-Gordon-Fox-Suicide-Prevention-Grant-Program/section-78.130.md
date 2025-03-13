@@ -1,5 +1,7 @@
 ##### § 78.130 Faith-based organizations. #####
 
+Link to an amendment published at 89 FR 62663, Aug. 1, 2024.
+
 (a) Organizations that are faith-based are eligible, on the same basis as any other organization, to participate in SSG Fox SPGP under this part. Decisions about awards of Federal financial assistance must be free from political interference or even the appearance of such interference and must be made on the basis of merit, not on the basis of religion or religious belief or lack thereof.
 
 (b)(1) No organization may use direct financial assistance from VA under this part to pay for any of the following:

@@ -1,5 +1,7 @@
 ##### § 103.20 Election procedures and blocking charges. #####
 
+Link to an amendment published at 89 FR 63026, Aug. 1, 2024.
+
 (a) Whenever any party to a representation proceeding files an unfair labor practice charge together with a request that the charge block the election process, or whenever any party to a representation proceeding requests that its previously filed unfair labor practice charge block the election process, the party shall simultaneously file, but not serve on any other party, a written offer of proof in support of the charge. The offer of proof shall provide the names of the witnesses who will testify in support of the charge and a summary of each witness's anticipated testimony. The party seeking to block the election process shall also promptly make available to the regional director the witnesses identified in its offer of proof.
 
 (b) If charges are filed alleging violations other than those described in paragraph (c) of this section, the ballots will be promptly opened and counted at the conclusion of the election.

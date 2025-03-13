@@ -1,6 +1,6 @@
 ##### 512.301 Solicitation provisions and contract clauses for the acquisition of commercial products and commercial services. #####
 
-Link to an amendment published at 89 FR 55086, July 3, 2024.
+Link to an amendment published at 89 FR 55086, July 3, 2024.Link to an amendment published at 89 FR 62665, Aug. 1, 2024.
 
 (a) *Contract clauses.* Insert the following clauses in solicitations and contracts for the acquisition of commercial products and commercial services:
 

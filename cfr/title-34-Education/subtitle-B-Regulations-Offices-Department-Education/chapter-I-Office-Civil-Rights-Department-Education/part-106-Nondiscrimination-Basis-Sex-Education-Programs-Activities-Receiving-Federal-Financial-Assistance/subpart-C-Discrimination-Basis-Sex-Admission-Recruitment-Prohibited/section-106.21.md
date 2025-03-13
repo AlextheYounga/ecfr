@@ -1,8 +1,6 @@
 ##### § 106.21 Admission. #####
 
-Link to an amendment published at 89 FR 33886, Apr. 29, 2024.
-
-(a) *General.* No person shall, on the basis of sex, be denied admission, or be subjected to discrimination in admission, by any recipient to which this subpart applies, except as provided in §§ 106.16 and 106.17.
+(a) *Status generally.* No person shall, on the basis of sex, be denied admission, or be subjected to discrimination in admission, by any recipient to which this subpart applies.
 
 (b) *Specific prohibitions.* (1) In determining whether a person satisfies any policy or criterion for admission, or in making any offer of admission, a recipient to which this subpart applies shall not:
 
@@ -14,14 +12,16 @@ Link to an amendment published at 89 FR 33886, Apr. 29, 2024.
 
 (2) A recipient shall not administer or operate any test or other criterion for admission which has a disproportionately adverse effect on persons on the basis of sex unless the use of such test or criterion is shown to predict validly success in the education program or activity in question and alternative tests or criteria which do not have such a disproportionately adverse effect are shown to be unavailable.
 
-(c) *Prohibitions relating to marital or parental status.* In determining whether a person satisfies any policy or criterion for admission, or in making any offer of admission, a recipient to which this subpart applies:
+(c) *Parental, family, or marital status; pregnancy or related conditions.* In determining whether a person satisfies any policy or criterion for admission, or in making any offer of admission, a recipient to which this subpart applies:
 
-(1) Shall not apply any rule concerning the actual or potential parental, family, or marital status of a student or applicant which treats persons differently on the basis of sex;
+(1) Must treat pregnancy or related conditions in the same manner and under the same policies as any other temporary medical conditions; and
 
-(2) Shall not discriminate against or exclude any person on the basis of pregnancy, childbirth, termination of pregnancy, or recovery therefrom, or establish or follow any rule or practice which so discriminates or excludes;
+(2) Must not:
 
-(3) Shall treat disabilities related to pregnancy, childbirth, termination of pregnancy, or recovery therefrom in the same manner and under the same policies as any other temporary disability or physical condition; and
+(i) Adopt or implement any policy, practice, or procedure concerning the current, potential, or past parental, family, or marital status of a student or applicant that treats persons differently on the basis of sex;
 
-(4) Shall not make pre-admission inquiry as to the marital status of an applicant for admission, including whether such applicant is “Miss” or “Mrs.” A recipient may make pre-admission inquiry as to the sex of an applicant for admision, but only if such inquiry is made equally of such applicants of both sexes and if the results of such inquiry are not used in connection with discrimination prohibited by this part.
+(ii) Discriminate against any person on the basis of current, potential, or past pregnancy or related conditions, or adopt or implement any policy, practice, or procedure that so discriminates; and
 
-[45 FR 30955, May 9, 1980, as amended at 85 FR 30579, May 19, 2020]
+(iii) Make a pre-admission inquiry as to the marital status of an applicant for admission, including whether such applicant is “Miss or Mrs.” A recipient may ask an applicant to self-identify their sex, but only if this question is asked of all applicants and if the response is not used as a basis for discrimination prohibited by this part.
+
+[45 FR 30955, May 9, 1980, as amended at 85 FR 30579, May 19, 2020; 89 FR 33886, Apr. 29, 2024]

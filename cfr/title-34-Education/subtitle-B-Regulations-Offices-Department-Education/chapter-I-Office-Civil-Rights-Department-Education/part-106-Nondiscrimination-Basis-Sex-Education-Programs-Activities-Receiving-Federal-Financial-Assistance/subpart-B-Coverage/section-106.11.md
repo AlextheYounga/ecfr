@@ -1,7 +1,5 @@
 ##### § 106.11 Application. #####
 
-Link to an amendment published at 89 FR 33886, Apr. 29, 2024.
+Except as provided in this subpart, this part applies to every recipient and to all sex discrimination occurring under a recipient's education program or activity in the United States. For purposes of this section, conduct that occurs under a recipient's education program or activity includes but is not limited to conduct that occurs in a building owned or controlled by a student organization that is officially recognized by a postsecondary institution, and conduct that is subject to the recipient's disciplinary authority. A recipient has an obligation to address a sex-based hostile environment under its education program or activity, even when some conduct alleged to be contributing to the hostile environment occurred outside the recipient's education program or activity or outside the United States.
 
-Except as provided in this subpart, this part 106 applies to every recipient and to the education program or activity operated by such recipient which receives Federal financial assistance.
-
-[45 FR 86298, Dec. 30, 1980, as amended at 65 FR 68056, Nov. 13, 2000; 85 FR 30579, May 19, 2020]
+[89 FR 33886, Apr. 29, 2024]

@@ -1,7 +1,5 @@
 ##### § 622.34 Seasonal and area closures designed to protect Gulf reef fish. #####
 
-Link to an amendment published at 89 FR 59009, July 22, 2024.
-
 (a) *Closure provisions applicable to the Madison and Swanson sites, Steamboat Lumps, and the Edges.* For the purpose of this paragraph (a), fish means finfish, mollusks, crustaceans, and all other forms of marine animal and plant life other than marine mammals and birds. The provisions of this paragraph (a) do not apply to Atlantic highly migratory species, such as tunas, billfishes, and oceanic sharks. See 50 CFR part 635 for any provisions applicable to fishing for or possession of Atlantic highly migratory species in these areas.
 
 (1) *Descriptions of Areas.* (i) The Madison and Swanson sites are bounded by rhumb lines connecting, in order, the following points:
@@ -49,7 +47,7 @@ Link to an amendment published at 89 FR 59009, July 22, 2024.
 
 (b) *Seasonal closure of the recreational sector for red snapper.* The recreational sector for red snapper in or from the Gulf EEZ is closed from January 1 through May 31, each year. During the closure, the bag and possession limit for red snapper in or from the Gulf EEZ is zero. See § 622.23(a)(1) regarding the fishing season for states with an active delegation of state management of the red snapper private angling component. A person subject to the private angling component bag limit under an active delegation of state management must be in compliance with the fishing license (permit) requirements of the state in which they intend to land the fish and may not possess red snapper in the Gulf EEZ when that state season is closed.
 
-(c) *Seasonal closure of the recreational sector for greater amberjack.* The recreational sector for greater amberjack in or from the Gulf EEZ is closed from January 1 through April 30, June 1 through July 31, and November 1 through December 31, each year. During the closure, the bag and possession limit for greater amberjack in or from the Gulf EEZ is zero.
+(c) *Seasonal closure of the recreational sector for greater amberjack.* The recreational sector for greater amberjack in or from the Gulf EEZ is closed from January 1 through August 31 and from November 1 through December 31 each year. During the closure, the bag and possession limit for greater amberjack in or from the Gulf EEZ is zero.
 
 (d) *Seasonal closure of the recreational sector for shallow-water grouper (SWG).* The recreational sector for SWG in or from the Gulf EEZ is closed each year from February 1 through March 31 in the portion of the Gulf EEZ seaward of rhumb lines connecting the following points in order. During the closure, the bag and possession limits for SWG in or from the Gulf EEZ seaward of the following rhumb lines are zero.
 
@@ -96,4 +94,4 @@ Link to an amendment published at 89 FR 59009, July 22, 2024.
 
 (h) [Reserved]
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 33261, June 4, 2013; 81 FR 24039, Apr. 25, 2016; 82 FR 34580, July 25, 2017; 82 FR 59525, Dec. 15, 2017; 82 FR 61487, Dec. 28, 2017; 83 FR 13428, Mar. 29, 2018; 85 FR 6823, Feb. 6, 2020; 85 FR 20613, Apr. 14, 2020; 86 FR 38417, July 20, 2021; 88 FR 27708, May 3, 2023; 88 FR 69553, Oct. 6, 2023; 89 FR 40436, May 10, 2024]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 33261, June 4, 2013; 81 FR 24039, Apr. 25, 2016; 82 FR 34580, July 25, 2017; 82 FR 59525, Dec. 15, 2017; 82 FR 61487, Dec. 28, 2017; 83 FR 13428, Mar. 29, 2018; 85 FR 6823, Feb. 6, 2020; 85 FR 20613, Apr. 14, 2020; 86 FR 38417, July 20, 2021; 88 FR 27708, May 3, 2023; 88 FR 69553, Oct. 6, 2023; 89 FR 40436, May 10, 2024; 89 FR 59009, July 22, 2024]

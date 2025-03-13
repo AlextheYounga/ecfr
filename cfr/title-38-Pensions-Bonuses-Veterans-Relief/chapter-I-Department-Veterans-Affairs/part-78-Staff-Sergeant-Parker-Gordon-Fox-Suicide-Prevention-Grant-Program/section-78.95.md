@@ -1,5 +1,7 @@
 ##### § 78.95 General operation requirements. #####
 
+Link to an amendment published at 89 FR 62663, Aug. 1, 2024.
+
 (a) *Eligibility documentation.* Prior to providing suicide prevention services, grantees must verify, document, and classify each participant's eligibility for suicide prevention services, and determine and document each participant's degree of risk of suicide using tools identified in the suicide prevention services grant agreement. Documentation must be maintained consistent with § 78.150.
 
 (b) *Required screening prior to services ending.* Prior to services ending, grantees must provide or coordinate the provision of a mental health screening using the screening tool described in § 78.50(a) to all participants they serve, when possible.

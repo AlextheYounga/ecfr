@@ -1,7 +1,5 @@
 ##### § 300.24 Prohibitions. #####
 
-Link to an amendment published at 89 FR 54726, July 2, 2024.
-
 In addition to the prohibitions in § 300.4, it is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
 (a) Land any species of tuna during the closed season for that species in excess of the amount allowed by the Regional Administrator.
@@ -54,7 +52,7 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (y) Fail to install, activate, or operate a VMS unit as required in § 300.26(c).
 
-(z) In the event of VMS unit failure or interruption; fail to repair or replace a VMS unit; fail to notify the Special-Agent-In-Charge, NOAA Office of Law Enforcement, Pacific Islands Division (or designee); and follow the instructions provided; or otherwise fail to act as provided in § 300.26(c)(4).
+(z) In the event of VMS unit failure or interruption: fail to repair or replace a VMS unit; fail to notify the Assistant Director, NOAA Office of Law Enforcement, Pacific Islands Division (or designee) and follow the instructions provided; fail to manually report as required in § 300.26(c)(4)(ii); or otherwise fail to act as provided in § 300.26(c)(4).
 
 (aa) Disable, destroy, damage or operate improperly a VMS unit installed under § 300.26, or attempt to do any of the same, or fail to ensure that its operation is not impeded or interfered with, as provided in § 300.26(e).
 

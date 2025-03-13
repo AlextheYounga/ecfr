@@ -1,7 +1,5 @@
 ##### § 106.51 Employment. #####
 
-Link to an amendment published at 89 FR 33895, Apr. 29, 2024.
-
 (a) *General.* (1) No person shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination in employment, or recruitment, consideration, or selection therefor, whether full-time or part-time, under any education program or activity operated by a recipient which receives Federal financial assistance.
 
 (2) A recipient shall make all employment decisions in any education program or activity operated by such recipient in a nondiscriminatory manner and shall not limit, segregate, or classify applicants or employees in any way which could adversely affect any applicant's or employee's employment opportunities or status because of sex.
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 33895, Apr. 29, 2024.
 
 (5) The terms of any collective bargaining agreement;
 
-(6) Granting and return from leaves of absence, leave for pregnancy, childbirth, false pregnancy, termination of pregnancy, leave for persons of either sex to care for children or dependents, or any other leave;
+(6) Granting and return from leaves of absence, leave for pregnancy or related conditions, leave for persons of either sex to care for children or dependents, or any other leave;
 
 (7) Fringe benefits available by virtue of employment, whether or not administered by the recipient;
 
@@ -32,4 +30,4 @@ Link to an amendment published at 89 FR 33895, Apr. 29, 2024.
 
 (10) Any other term, condition, or privilege of employment.
 
-[45 FR 30955, May 9, 1980, as amended at 65 FR 68056, Nov. 13, 2000; 85 FR 30579, May 19, 2020]
+[45 FR 30955, May 9, 1980, as amended at 65 FR 68056, Nov. 13, 2000; 85 FR 30579, May 19, 2020; 89 FR 33895, Apr. 29, 2024]

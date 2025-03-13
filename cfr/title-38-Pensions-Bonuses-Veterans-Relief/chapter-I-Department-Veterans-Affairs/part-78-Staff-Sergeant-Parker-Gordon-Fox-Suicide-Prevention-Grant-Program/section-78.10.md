@@ -1,5 +1,7 @@
 ##### § 78.10 Eligible individuals. #####
 
+Link to an amendment published at 89 FR 62663, Aug. 1, 2024.
+
 (a) To be an eligible individual under this part, a person must be at risk of suicide and further meet the definition of eligible individual in section 201(q) of Public Law 116-171.
 
 (b) For purposes of paragraph (a) of this section, risk of suicide means exposure to, or the existence of, any of the following factors, to any degree, that increase the risk for suicidal ideation and/or behaviors:

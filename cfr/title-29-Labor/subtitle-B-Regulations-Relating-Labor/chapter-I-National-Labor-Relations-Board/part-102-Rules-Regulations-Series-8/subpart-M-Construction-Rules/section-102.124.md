@@ -1,0 +1,3 @@
+##### § 102.124 Petitions for issuance, amendment, or repeal of rules. #####
+
+Any interested person may petition the Board, in writing, for the issuance, amendment, or repeal of a rule or regulation. An original of such petition must be filed with the Board and must state the rule or regulation proposed to be issued, amended, or repealed, together with a statement of grounds in support of such petition.
