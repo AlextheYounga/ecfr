@@ -1,5 +1,7 @@
 ##### § 891.720 Leasing to eligible families. #####
 
+Link to an amendment published at 88 FR 75233, Nov. 2, 2023.
+
 (a) *Availability of assisted units for occupancy by eligible families.* During the term of the PAC, a Borrower shall make all units (or residential spaces in a group home) available for eligible families. For purposes of this section, making units or residential spaces available for occupancy by eligible families means that the Borrower:
 
 (1) Is conducting marketing in accordance with § 891.740(a);

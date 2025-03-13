@@ -1,5 +1,7 @@
 ##### § 891.740 Responsibilities of Borrower. #####
 
+Link to an amendment published at 88 FR 75233, Nov. 2, 2023.
+
 (a) *Marketing.* (1) The Borrower must commence and continue diligent marketing activities not later than 90 days before the anticipated date of availability for occupancy of the group home or the anticipated date of availability of the first unit in an independent living complex. Market activities shall include the provision of notices of the availability of housing under the program to operators of temporary housing for the homeless in the same housing market.
 
 (2) Marketing must be done in accordance with the HUD-approved affirmative fair housing marketing plan and all fair housing and equal opportunity requirements. The purpose of the plan and requirements is to achieve a condition in which eligible families of similar income levels in the same housing market have a like range of housing choices available to them regardless of their race, color, creed, religion, sex, or national origin.

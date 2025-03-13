@@ -1,6 +1,6 @@
 ##### § 891.655 Definitions applicable to 202/162 projects. #####
 
-Link to an amendment published at 88 FR 9669, Feb. 14, 2023.
+Link to an amendment published at 88 FR 9669, Feb. 14, 2023.Link to an amendment published at 88 FR 75233, Nov. 2, 2023.
 
 The following definitions apply to projects for eligible families receiving project assistance payments under section 202(h) of the Housing Act of 1959 in addition to reservations under section 202 (202/162 projects):
 

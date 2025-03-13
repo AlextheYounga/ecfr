@@ -1,5 +1,7 @@
 ##### § 891.510 Displacement, relocation, and real property acquisition. #####
 
+Link to an amendment published at 88 FR 75233, Nov. 2, 2023.
+
 (a) *Minimizing displacement.* Consistent with the other goals and objectives of subpart E of this part, Sponsors and Borrowers shall assure that they have taken all reasonable steps to minimize the displacement of persons (families, individuals, businesses, nonprofit organizations, and farms) as a result of a project assisted under subpart E of this part.
 
 (b) *Relocation assistance for displaced persons.* A displaced person (defined in paragraph (f) of this section) must be provided relocation assistance at the levels described in, and in accordance with the requirements of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, as amended (URA) (42 U.S.C. 4201-4655), as implemented by 49 CFR part 24. A displaced person shall be advised of his or her rights under the Fair Housing Act (42 U.S.C. 3601-3619). If the comparable replacement dwellings are located in areas of minority concentration, minority persons also must be given, if possible, referrals to suitable, decent, safe, and sanitary replacement dwellings not located in such areas.

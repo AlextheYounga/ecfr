@@ -1,5 +1,7 @@
 ##### § 891.575 Leasing to eligible families. #####
 
+Link to an amendment published at 88 FR 75233, Nov. 2, 2023.
+
 (a) *Availability of assisted units for occupancy by eligible families.* (1) During the term of the HAP contract, a Borrower shall make available for occupancy by eligible families the total number of units for which assistance is committed under the HAP contract. For purposes of this section, making units available for occupancy by eligible families means that the Borrower:
 
 (i) Is conducting marketing in accordance with § 891.600(a);
