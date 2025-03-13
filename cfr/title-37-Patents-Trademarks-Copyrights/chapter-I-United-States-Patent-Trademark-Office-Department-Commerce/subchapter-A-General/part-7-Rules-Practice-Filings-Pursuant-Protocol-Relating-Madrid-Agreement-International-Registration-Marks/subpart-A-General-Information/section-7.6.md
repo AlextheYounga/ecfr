@@ -1,6 +1,6 @@
 ##### § 7.6 Schedule of U.S. process fees. #####
 
-Link to an amendment published at 86 FR 64333, Nov. 17, 2021.Link to a delay of the above amendment published at 87 FR 62032, Oct. 13, 2022.Link to an amendment published at 88 FR 62463, Sept. 12, 2023.
+Link to an amendment published at 86 FR 64333, Nov. 17, 2021.Link to a delay of the above amendment published at 87 FR 62032, Oct. 13, 2022.The amendment of Nov. 17, 2021 was delayed indefinitely at 88 FR 62463, Sept. 12, 2023.
 
 (a) The Office requires the following process fees:
 
@@ -40,10 +40,6 @@ Link to an amendment published at 86 FR 64333, Nov. 17, 2021.Link to a delay of 
 
 (ii) For correcting a deficiency in a section 71 affidavit filed through TEAS—$100.00
 
-(9) *Extension of time for filing a response to an Office action under § 7.39(b) or § 7.40(c).* (i) For filing a request for extension of time for filing a response to an Office action under § 7.39(b) or § 7.40(c) on paper—$225.00.
-
-(ii) For filing a request for extension of time for filing a response to an Office action under § 7.39(b) or § 7.40(c) via TEAS—$125.00.
-
 (b) The fees required in paragraph (a) of this section must be paid in U.S. dollars at the time of submission of the requested action. *See* § 2.207 of this chapter for acceptable forms of payment and § 2.208 of this chapter for payments using a deposit account established in the Office.
 
-[81 FR 72708, Oct. 21, 2016, as amended at 85 FR 73217, Nov. 17, 2020; 86 FR 64333, Nov. 17, 2021]
+[81 FR 72708, Oct. 21, 2016, as amended at 85 FR 73217, Nov. 17, 2020]

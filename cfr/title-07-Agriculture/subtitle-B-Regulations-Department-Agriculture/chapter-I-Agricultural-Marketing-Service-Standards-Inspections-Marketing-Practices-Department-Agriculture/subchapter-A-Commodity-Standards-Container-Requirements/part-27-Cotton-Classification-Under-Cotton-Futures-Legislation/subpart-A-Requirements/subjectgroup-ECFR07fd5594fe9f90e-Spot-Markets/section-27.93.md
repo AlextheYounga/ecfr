@@ -2,7 +2,7 @@
 
 The following markets have been determined, after investigation, and are hereby designated to be bona fide spot markets within the meaning of the act:
 
-Southeastern, North Delta, South Delta, East Texas and Oklahoma, West Texas, Desert Southwest and San Joaquin Valley. Such markets will comprise the following areas:
+Southeastern; North Delta; South Delta; East Texas and South Texas; West Texas, Kansas and Oklahoma; Desert Southwest; and San Joaquin Valley. Such markets will comprise the following areas:
 
 Southeastern
 
@@ -16,13 +16,13 @@ South Delta
 
 All counties in the state of Louisiana and all counties in the state of Mississippi not included in the North Delta market.
 
-East Texas and Oklahoma
+East Texas and South Texas
 
-All counties in the states of Kansas and Oklahoma and the Texas counties east of and including Montague, Wise, Parker, Erath, Comanche, Mills, San Saba, Mason, Sutton, Edwards, Kinney, Maverick, Webb, Zapata, Star and Hidalgo counties.
+Texas counties east of and including Montague, Wise, Parker, Erath, Comanche, Mills, San Saba, Mason, Sutton, Edwards, Kinney, Maverick, Webb, Zapata, Star, and Hidalgo counties.
 
-West Texas
+West Texas, Kansas, and Oklahoma
 
-All Texas counties not included in the East Texas, Oklahoma and Desert Southwest Markets and the New Mexico counties of Union, Quay, Curry, Roosevelt and Lea.
+All counties in Kansas and Oklahoma, all Texas counties not included in the East Texas, South Texas, and Desert Southwest Markets, and the New Mexico counties of Union, Quay, Curry, Roosevelt, and Lea.
 
 Desert Southwest
 
@@ -32,4 +32,4 @@ San Joaquin Valley
 
 All California counties except those included in the Desert Southwest market.
 
-[53 FR 29326, Aug. 4, 1988, as amended at 78 FR 25182, Apr. 30, 2013]Editorial Note:At 88 FR 49994, Aug. 1, 2023, § 27.93 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[53 FR 29326, Aug. 4, 1988, as amended at 78 FR 25182, Apr. 30, 2013; 88 FR 49994, Aug. 1, 2023; 88 FR 69529, Oct. 6, 2023]

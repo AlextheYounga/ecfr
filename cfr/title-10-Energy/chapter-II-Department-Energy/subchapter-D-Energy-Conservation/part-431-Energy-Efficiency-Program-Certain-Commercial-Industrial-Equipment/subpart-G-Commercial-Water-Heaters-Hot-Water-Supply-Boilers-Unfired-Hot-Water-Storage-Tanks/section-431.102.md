@@ -1,5 +1,7 @@
 ##### § 431.102 Definitions concerning commercial water heaters, hot water supply boilers, unfired hot water storage tanks, and commercial heat pump water heaters. #####
 
+Link to an amendment published at 88 FR 69821, Oct. 6, 2023.
+
 The following definitions apply for purposes of this subpart G, and of subparts J through M of this part. Any words or terms not defined in this section or elsewhere in this part shall be defined as provided in section 340 of the Act, 42 U.S.C. 6311.
 
 *Air-source commercial heat pump water heater* means a commercial heat pump water heater that utilizes indoor or outdoor air as the heat source.

@@ -100,4 +100,4 @@
 
 (iv) The recreational ACL in gutted weight is 403,759 lb (183,142 kg). The recreational ACT in gutted weight is 362,374 lb (164,370 kg).
 
-[78 FR 22952, Apr. 17, 2013]Editorial Note:For Federal Register citations affecting § 622.41, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 88 FR 27708, May 3, 2023, § 622.41 was amended by suspending paragraph (d) and adding paragraph (r), effective May 3, 2023 to Oct. 30, 2023.
+[78 FR 22952, Apr. 17, 2013]Editorial Note:For Federal Register citations affecting § 622.41, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 88 FR 27708, May 3, 2023, § 622.41 was amended by suspending paragraph (d) and adding paragraph (r), effective May 3, 2023 to Oct. 30, 2023. At 88 FR 69553, Oct. 6, 2023, the effective date was extended to May 2, 2024.
