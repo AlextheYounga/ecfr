@@ -1,0 +1,5 @@
+##### § 242.814 Entity operating both a national securities exchange and security-based swap execution facility. #####
+
+(a) An entity that intends to operate both a national securities exchange and a security-based swap execution facility shall separately register the two facilities pursuant to section 6 of the Act and § 242.803, respectively.
+
+(b) A national securities exchange shall, to the extent that the exchange also operates a security-based swap execution facility and uses the same electronic trade execution system for listing and executing trades of security-based swaps on or through the exchange and the facility, identify whether electronic trading of such security-based swaps is taking place on or through the national securities exchange or the security-based swap execution facility.

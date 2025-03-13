@@ -12,7 +12,7 @@ The following clauses and provisions apply to FSS solicitations and contracts, u
 
 (b) Insert the following clauses and provisions in FSS solicitations and contracts as an addendum to FAR 52.212-1, Instructions to Offerors—Commercial Products and Commercial Services:
 
-(1) 552.238-73, Identification of Electronic Office Equipment Providing Accessibility for Individuals with Disabilities. the Handicapped. Use only in FSS solicitations for electronic office equipment.
+(1) 552.238-73, Identification of Electronic Office Equipment Providing Accessibility for Individuals with Disabilities. Use only in FSS solicitations for electronic office equipment.
 
 (2) 552.238-74, Introduction of New Supplies/Services (INSS). Only for those solicitations allowing the introduction of new supplies/services. Note: GSA Form 1649, Notification of Federal Supply Schedule Improvement, may be required if revising a Special Item Number (SIN).
 
@@ -122,6 +122,8 @@ The following clauses and provisions apply to FSS solicitations and contracts, u
 
 (36) 552.238-116, Option to Extend the Term of the FSS Contract. Use when appropriate.
 
+(37) 552.238-117, Price Adjustment—Failure to Provide Accurate Information. Use only in FSS solicitations and contracts under the MAS program. This clause is used when the contract contains the basic clause 552.238-80, Industrial Funding Fee and Sales Reporting.
+
 (e) Insert the following fill-in information within the blank of paragraph (d) of FAR clause 52.216-22, Indefinite Quantity: “the completion of customer order, including options, 60 months following the expiration of the FSS contract ordering period”.
 
-[89 FR 2173, Jan. 12, 2024]
+[89 FR 2173, Jan. 12, 2024, as amended at 89 FR 10007, Feb. 13, 2024]

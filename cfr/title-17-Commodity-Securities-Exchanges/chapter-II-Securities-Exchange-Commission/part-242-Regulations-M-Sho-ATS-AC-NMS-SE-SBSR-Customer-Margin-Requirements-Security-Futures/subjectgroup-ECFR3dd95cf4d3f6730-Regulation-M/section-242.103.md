@@ -1,0 +1,19 @@
+##### § 242.103 Nasdaq passive market making. #####
+
+(a) *Scope of section.* This section permits broker-dealers to engage in market making transactions in covered securities that are Nasdaq securities without violating the provisions of § 242.101; *Except That* this section shall not apply to any security for which a stabilizing bid subject to § 242.104 is in effect, or during any at-the-market offering or best efforts offering.
+
+(b) *Conditions to be met*—(1) *General limitations.* A passive market maker must effect all transactions in the capacity of a registered market maker on Nasdaq. A passive market maker shall not bid for or purchase a covered security at a price that exceeds the highest independent bid for the covered security at the time of the transaction, except as permitted by paragraph (b)(3) of this section or required by a rule promulgated by the Commission or the NASD governing the handling of customer orders.
+
+(2) *Purchase limitation.* On each day of the restricted period, a passive market maker's net purchases shall not exceed the greater of its 30% ADTV limitation or 200 shares (together, “purchase limitation”); *Provided, however,* That a passive market maker may purchase all of the securities that are part of a single order that, when executed, results in its purchase limitation being equalled or exceeded. If a passive market maker's net purchases equal or exceed its purchase limitation, it shall withdraw promptly its quotations from Nasdaq. If a passive market maker withdraws its quotations pursuant to this paragraph, it may not effect any bid or purchase in the covered security for the remainder of that day, irrespective of any later sales during that day, unless otherwise permitted by § 242.101.
+
+(3) *Requirement to lower the bid.* If all independent bids for a covered security are reduced to a price below the passive market maker's bid, the passive market maker must lower its bid promptly to a level not higher than the then highest independent bid; *Provided, however,* That a passive market maker may continue to bid and effect purchases at its bid at a price exceeding the then highest independent bid until the passive market maker purchases an aggregate amount of the covered security that equals or, through the purchase of all securities that are part of a single order, exceeds the lesser of two times the minimum quotation size for the security, as determined by NASD rules, or the passive market maker's remaining purchasing capacity under paragraph (b)(2) of this section.
+
+(4) *Limitation on displayed size.* At all times, the passive market maker's displayed bid size may not exceed the lesser of the minimum quotation size for the covered security, or the passive market maker's remaining purchasing capacity under paragraph (b)(2) of this section; *Provided, however,* That a passive market maker whose purchasing capacity at any time is between one and 99 shares may display a bid size of 100 shares.
+
+(5) *Identification of a passive market making bid.* The bid displayed by a passive market maker shall be designated as such.
+
+(6) *Notification and reporting to the NASD.* A passive market maker shall notify the NASD in advance of its intention to engage in passive market making, and shall submit to the NASD information regarding passive market making purchases, in such form as the NASD shall prescribe.
+
+(7) *Prospectus disclosure.* The prospectus for any registered offering in which any passive market maker intends to effect transactions in any covered security shall contain the information required in §§ 228.502, 228.508, 229.502, and 229.508 of this chapter.
+
+(c) *Transactions at prices resulting from unlawful activity.* No transaction shall be made at a price that the passive market maker knows or has reason to know is the result of activity that is fraudulent, manipulative, or deceptive under the securities laws, or any rule or regulation thereunder.

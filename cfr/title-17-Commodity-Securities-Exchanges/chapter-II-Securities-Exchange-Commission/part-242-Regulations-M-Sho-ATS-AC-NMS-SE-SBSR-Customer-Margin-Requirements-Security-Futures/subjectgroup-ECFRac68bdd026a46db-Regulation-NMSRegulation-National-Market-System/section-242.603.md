@@ -1,0 +1,15 @@
+##### § 242.603 Distribution, consolidation, and display of information with respect to quotations for and transactions in NMS stocks. #####
+
+(a) *Distribution of information.* (1) Any exclusive processor, or any broker or dealer with respect to information for which it is the exclusive source, that distributes information with respect to quotations for or transactions in an NMS stock to a securities information processor shall do so on terms that are fair and reasonable.
+
+(2) Any national securities exchange, national securities association, broker, or dealer that distributes information with respect to quotations for or transactions in an NMS stock to a securities information processor, broker, dealer, or other persons shall do so on terms that are not unreasonably discriminatory.
+
+(b) *Dissemination of information.* Every national securities exchange on which an NMS stock is traded and national securities association shall act jointly pursuant to one or more effective national market system plans for the dissemination of consolidated market data. Every national securities exchange on which an NMS stock is traded and national securities association shall make available to all competing consolidators and self-aggregators its information with respect to quotations for and transactions in NMS stocks, including all data necessary to generate consolidated market data, in the same manner and using the same methods, including all methods of access and the same format, as such national securities exchange or national securities association makes available any information with respect to quotations for and transactions in NMS stocks to any person.
+
+(c) *Display of information.* (1) No securities information processor, broker, or dealer shall provide, in a context in which a trading or order-routing decision can be implemented, a display of any information with respect to quotations for or transactions in an NMS stock without also providing, in an equivalent manner, a consolidated display for such stock.
+
+(2) The provisions of paragraph (c)(1) of this section shall not apply to a display of information on the trading floor or through the facilities of a national securities exchange or to a display in connection with the operation of a market linkage system implemented in accordance with an effective national market system plan.
+
+(d) *Exemptions.* The Commission, by order, may exempt from the provisions of this section, either unconditionally or on specified terms and conditions, any person, security, or item of information, or any class or classes of persons, securities, or items of information, if the Commission determines that such exemption is necessary or appropriate in the public interest, and is consistent with the protection of investors.
+
+[70 FR 37620, June 29, 2005, as amended at 86 FR 18811, Apr. 9, 2021]

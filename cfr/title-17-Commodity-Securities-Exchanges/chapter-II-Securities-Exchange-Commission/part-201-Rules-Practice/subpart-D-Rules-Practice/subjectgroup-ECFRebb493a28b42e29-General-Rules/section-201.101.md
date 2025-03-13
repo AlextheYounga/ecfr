@@ -1,7 +1,5 @@
 ##### § 201.101 Definitions. #####
 
-Link to an amendment published at 88 FR 87282, Dec. 15, 2023.
-
 (a) For purposes of these Rules of Practice, unless explicitly stated to the contrary:
 
 (1) *Commission* means the United States Securities and Exchange Commission, or a panel of Commissioners constituting a quorum of the Commission, or a single Commissioner acting as duty officer pursuant to 17 CFR 200.43;
@@ -38,6 +36,8 @@ Link to an amendment published at 88 FR 87282, Dec. 15, 2023.
 
 (viii) By the filing, pursuant to Section 11A(b)(5) of the Securities Exchange Act of 1934, of an application for review of a determination of a registered securities information processor;
 
+(ix) By the filing, pursuant to § 201.442, of an application for review of a determination of a security-based swap execution facility;
+
 (10) *Secretary* means the Secretary of the Commission;
 
 (11) *Temporary sanction* means a temporary cease-and-desist order or a temporary suspension of the registration of a broker, dealer, municipal securities dealer, government securities broker, government securities dealer, or transfer agent pending final determination whether the registration shall be revoked; and
@@ -46,4 +46,4 @@ Link to an amendment published at 88 FR 87282, Dec. 15, 2023.
 
 (b) [Reserved]
 
-[60 FR 32796, June 23, 1995, as amended at 69 FR 13175, Mar. 19, 2004; 70 FR 37617, June 29, 2005]
+[60 FR 32796, June 23, 1995, as amended at 69 FR 13175, Mar. 19, 2004; 70 FR 37617, June 29, 2005; 88 FR 87282, Dec. 15, 2023]

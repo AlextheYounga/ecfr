@@ -1,7 +1,5 @@
 ##### § 200.30-3 Delegation of authority to Director of Division of Trading and Markets. #####
 
-Link to an amendment published at 88 FR 87280, Dec. 15, 2023.
-
 Pursuant to sections 4A and 4B of the Securities Exchange Act of 1934, as amended (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Trading and Markets to be performed by the Director or under the Director's direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
 (a) With respect to the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*):
@@ -267,6 +265,86 @@ Pursuant to sections 4A and 4B of the Securities Exchange Act of 1934, as amende
 (93) Pursuant to section 806(e)(1) of the Payment, Clearing, and Settlement Supervision Act of 2010, 12 U.S.C. 5465(e)(1)(D), to require a designated clearing agency to provide any information necessary to assess the effect the proposed change would have on the nature or level of risks associated with the designated clearing agency's payment, clearing, or settlement activities and the sufficiency of any proposed risk management techniques.
 
 (94) Pursuant to section 806(e)(1) of the Payment, Clearing, and Settlement Supervision Act of 2010, 12 U.S.C. 5465(e)(1)(H), to extend the review period for an additional 60 days for proposed changes that raise novel or complex issues and provide the designated clearing agency with prompt written notice of such extension.
+
+(95) Pursuant to §§ 242.803 and 242.808(a) and (b) of this chapter (Rules 803 and 808(a) and (b)):
+
+(i) To publish notice on the Commission's website of a completed application (“Form SBSEF”), to register as a security-based swap execution facility;
+
+(ii) To make available on the Commission's website certain specified parts of a Form SBSEF;
+
+(iii) To notify the applicant that its application is incomplete and will not be deemed to have been submitted for purposes of the Commission's review;
+
+(iv) To request from the applicant any additional information and documentation necessary to review an application;
+
+(v) To notify the applicant that its application is materially incomplete and to specify the deficiencies in the application, for purposes of staying the 180-day period for Commission review of the Form SBSEF; and
+
+(vi) Upon receipt of a request submitted in good form by a security-based swap execution facility for vacation of its registration, to issue an order vacating the security-based swap execution facility's registration and to send a copy of the request and its order to all other security-based swap execution facilities, national securities exchanges that trade security-based swaps, and registered clearing agencies that clear security-based swaps.
+
+(96) Pursuant to §§ 242.804(c)(1) and (2) and 242.808(b) of this chapter:
+
+(i) To make publicly available on the Commission's website a security-based swap execution facility's filing of new products pursuant to the self-certification procedures of § 242.804 of this chapter;
+
+(ii) To stay for a period of up to 90 days the effectiveness of a security-based swap execution facility's self-certification of a new product;
+
+(iii) To publish notice on the Commission's website of a 30-day period for public comment; and
+
+(iv) To withdraw the stay or notify the security-based swap execution facility that the Commission objects to the proposed certification.
+
+(97) Pursuant to §§ 242.805(b) through (e) and 242.808(b) of this chapter:
+
+(i) To make publicly available on the Commission's website a security-based swap execution facility's filing of new products for Commission review and approval pursuant to § 242.805 of this chapter (Rule 805);
+
+(ii) To notify the submitting security-based swap execution facility that a submission for a new product does not comply with paragraph (a) of § 242.805 of this chapter (Rule 805);
+
+(iii) To extend by an additional 45 days the period for consideration of a new product voluntarily submitted by a security-based swap execution facility to the Commission for approval, if the product raises novel or complex issues that require additional time to analyze, and to notify the security-based swap execution facility of the extension within the initial 45-day review period and briefly describe the nature of the specific issue(s) for which additional time for review is required;
+
+(iv) To extend the period for consideration of a new product voluntarily submitted by a security-based swap execution facility to the Commission for approval by such longer period as to which the security-based swap execution facility agrees in writing;
+
+(v) To approve a proposed new product and provide notice of the approval to the security-based swap execution facility;
+
+(vi) To notify the security-based swap execution facility that the Commission will not, or is unable to, approve the product, and to specify the nature of the issues raised and the specific provision of the Act or the Commission's rules thereunder, including the form or content requirements § 242.805(a) of this chapter, that the product violates, appears to violate, or potentially violates but which cannot be ascertained from the submission.
+
+(98) Pursuant to §§ 242.806(b) through (e) and 242.808(b) of this chapter:
+
+(i) To make publicly available on the Commission's website a security-based swap execution facility's filing of new rules and rule amendments for Commission review and approval pursuant to § 242.806(a) of this chapter;
+
+(ii) To notify the submitting security-based swap execution facility that a submission for a new rule or rule amendment does not comply with § 242.806(a) of this chapter;
+
+(iii) To extend by an additional 45 days the period for consideration of a new rule or rule amendment voluntarily submitted by a security-based swap execution facility to the Commission, if the proposed rule or rule amendment raises novel or complex issues that require additional time to review or is of major economic significance, the submission is incomplete, or the requester does not respond completely to the Commission questions in a timely manner, and to notify the security-based swap execution facility of the extension within the initial 45-day review period and briefly describe the nature of the specific issue(s) for which additional time for review is required;
+
+(iv) To extend the period for consideration of a new rule amendment voluntarily submitted by a security-based swap execution facility to the Commission for approval by such longer period as to which the security-based swap execution facility agrees in writing;
+
+(v) To approve a proposed rule or rule amendment and provide notice of the approval to the security-based swap execution facility;
+
+(vi) To notify a security-based swap execution facility that the Commission will not, or is unable to, approve the new rule or rule amendment and to specify the nature of the issues raised and the specific provision of the Act or the Commission's rules thereunder, including the form or content requirements of this section, with which the new rule or rule amendment is inconsistent or appears to be inconsistent with the Act or the Commission's rules thereunder, including the form or content requirements of Rule 806, with which the new rule or rule amendment is inconsistent or appears to be inconsistent; and
+
+(vii) To approve a proposed rule or a rule amendment, including changes to terms and conditions of a product, on an expedited basis under such conditions as shall be specified in the written notification.
+
+(99) Pursuant to §§ 242.807(c) and 242.808(b) of this chapter:
+
+(i) To make publicly available on the Commission's website a security-based swap execution facility's filing of new rules and rule amendments pursuant to the self-certification procedures of § 242.807 of this chapter;
+
+(ii) To stay for a period of up to 90 days the effectiveness of a security-based swap execution facility's self-certification of a new rule or rule amendment;
+
+(iii) To publish notice on the Commission's website of a 30-day period for public comment; and
+
+(iv) To withdraw the stay or notify the security-based swap execution facility that the Commission objects to the proposed certification.
+
+(100) Pursuant to §§ 242.809 of this chapter, to provide written notice to a security-based swap execution facility of a stay or tolling pending issuance of a joint interpretation upon request for a joint interpretation of whether a proposed product is a swap, security-based swap, or mixed swap made pursuant to § 240.3a68-2 of this chapter by the security-based swap execution facility, the Commission, or the Commodity Futures Trading Commission.
+
+(101) Pursuant to § 242.811 of this chapter:
+
+(i) To request pursuant § 242.811(a) of this chapter that a security-based swap execution facility file with the Commission information related to its business as a security-based swap execution facility, and to specify the form, manner, and timeframe for the filing by the security-based swap execution facility;
+
+(ii) To request pursuant to § 242.811(b) of this chapter that a security-based swap execution facility file with the Commission a written demonstration, containing supporting data, information, and documents, that it is in compliance with one or more Core Principles or with its other obligations under the Act or the Commission's rules thereunder, to specify the Core Principles and other obligations under the Act or the Commission's rules that the security-based swap execution facility's filing must address, and to specify the form, manner, and timeframe for the security-based swap execution facility's filing;
+
+(iii) To specify, pursuant to § 242.811(c)(2) of this chapter, the form and manner of the notification required pursuant to § 242.811(c)(1) of this chapter by a security-based swap execution facility of any transaction involving the direct or indirect transfer of 50 percent or more of the equity interest in the security-based swap execution facility, and to request supporting documentation of the transaction;
+
+(iv) To specify the form and manner of the certification required pursuant to § 242.811(c)(4) of this chapter; and
+
+(v) To specify the form and manner of the submission by a security-based swap execution facility of documents filed in any material legal proceeding to which the security-based swap execution facility is a party or its property or assets is subject, as specified in § 242.811(d)(1) of this chapter, or in any material legal proceeding instituted against any officer, director, or other official of the security-based swap execution facility from conduct in such person's capacity as an official of the security-based swap execution facility, as specified in § 242.811(d)(2) of this chapter, and to request further documents.
+
+(102) Pursuant to § 242.822 of this chapter (Rule 822), to require that a security-based swap execution provide information in its possession to the Commission and to specify the form and manner of that provision, and to require a security-based swap execution facility to share information with other regulation organizations, data repositories, and third-party data reporting services as necessary and appropriate to fulfill the security-based swap execution facility's regulatory and reporting responsibilities.
 
 (b)-(c) [Reserved]
 

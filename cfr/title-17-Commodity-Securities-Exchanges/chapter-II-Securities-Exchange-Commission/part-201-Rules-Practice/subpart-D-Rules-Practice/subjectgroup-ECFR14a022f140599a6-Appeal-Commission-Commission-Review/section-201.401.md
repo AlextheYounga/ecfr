@@ -1,7 +1,5 @@
 ##### § 201.401 Consideration of stays. #####
 
-Link to an amendment published at 88 FR 87282, Dec. 15, 2023.
-
 (a) *Procedure.* A request for a stay shall be made by written motion, filed pursuant to § 201.154, and served on all parties pursuant to § 201.150. The motion shall state the reasons for the relief requested and the facts relied upon, and, if the facts are subject to dispute, the motion shall be supported by affidavits or other sworn statements or copies thereof. Portions of the record relevant to the relief sought, if available to the movant, shall be filed with the motion. The Commission may issue a stay based on such motion or on its own motion.
 
 (b) *Scope of relief.* The Commission may grant a stay in whole or in part, and may condition relief under this section upon such terms, or upon the implementation of such procedures, as it deems appropriate.
@@ -20,4 +18,10 @@ Link to an amendment published at 88 FR 87282, Dec. 15, 2023.
 
 (3) *Expedited consideration.* The Commission may expedite consideration of a motion to lift a stay of Board action, consistent with the Commission's other responsibilities. Where consideration is expedited, persons opposing the lifting of the stay may file a statement in opposition within two days of service of the motion requesting lifting of the stay unless the Commission, by written order, shall specify a different period.
 
-[60 FR 32796, June 23, 1995, as amended at 69 FR 13178, Mar. 19, 2004]
+(f) *Lifting of stay of action by a security-based swap execution facility.* (1) *Availability.* Any person aggrieved by a stay of action by a security-based swap execution facility entered in accordance with § 201.442(c) may make a motion to lift the stay. The Commission may, at any time, on its own motion determine whether to lift the automatic stay.
+
+(2) *Summary action.* The Commission may lift a stay summarily, without notice and opportunity for hearing.
+
+(3) *Expedited consideration.* The Commission may expedite consideration of a motion to lift a stay of action by a security-based swap execution facility, consistent with the Commission's other responsibilities. Where consideration is expedited, persons opposing the lifting of the stay may file a statement in opposition within two days of service of the motion requesting lifting of the stay unless the Commission, by written order, shall specify a different period.
+
+[60 FR 32796, June 23, 1995, as amended at 69 FR 13178, Mar. 19, 2004; 88 FR 87282, Dec. 15, 2023]

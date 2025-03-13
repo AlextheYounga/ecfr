@@ -1,0 +1,3 @@
+##### § 249.1701 Form SBSEF, for application for registration as a security-based swap execution facility or to amend such application or registration. #####
+
+This form shall be used for application for registration as a security-based swap execution facility, pursuant to section 3D of the Securities Exchange Act of 1934 (15 U.S.C. 78c-4) and § 242.803 of this chapter, or to amend such application or registration.
