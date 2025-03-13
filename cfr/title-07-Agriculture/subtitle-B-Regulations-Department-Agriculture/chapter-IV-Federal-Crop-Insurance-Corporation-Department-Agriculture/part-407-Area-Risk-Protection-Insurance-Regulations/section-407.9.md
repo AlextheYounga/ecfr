@@ -1,6 +1,6 @@
 ##### § 407.9 Area risk protection insurance policy. #####
 
-[FCIC policies]Department of AgricultureFederal Crop Insurance CorporationArea Risk Protection Insurance Policy[Reinsured policies](Appropriate title for insurance provider)(This is a continuous policy. Refer to Section 2.)[FCIC policies]
+Link to an amendment published at 88 FR 71732, Oct. 18, 2023.[FCIC policies]Department of AgricultureFederal Crop Insurance CorporationArea Risk Protection Insurance Policy[Reinsured policies](Appropriate title for insurance provider)(This is a continuous policy. Refer to Section 2.)[FCIC policies]
 
 Area Risk Protection Insurance (ARPI) provides protection against widespread loss of revenue or widespread loss of yield in a county. Individual farm revenues and yields are not considered under ARPI and it is possible that your individual farm may experience reduced revenue or reduced yield and you do not receive an indemnity under ARPI.
 

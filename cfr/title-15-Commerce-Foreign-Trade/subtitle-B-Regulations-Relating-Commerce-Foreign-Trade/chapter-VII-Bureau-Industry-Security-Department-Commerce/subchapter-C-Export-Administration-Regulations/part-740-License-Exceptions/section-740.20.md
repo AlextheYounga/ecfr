@@ -38,25 +38,17 @@ License Exception STA authorizes transfers (in-country) but is only needed to au
 
 (A) License Exception STA may not be used for 9B001 when destined to a country in Country Group A:6.
 
-(B) License Exception STA may not be used for 9D001 or 9D002 “software” that is specially designed or modified for the “development” or “production” of:
+(B) License Exception STA may not be used for 9D001 or 9D002 “software” that is “specially designed” or modified for the “development” or “production” of:
 
-(*1*) Components of engines controlled by ECCN 9A001 if such components incorporate any of the “technologies” controlled by 9E003.a.1, 9E003.a.2, 9E003.a.3, 9E003.a.4, 9E003.a.5, 9E003.c, 9E003.i (other than technology for fan or power turbines), 9E003.h; or
+(1) Components of engines controlled by ECCN 9A001 if such components incorporate any of the “technologies” controlled by 9E003.a.1, 9E003.a.2, 9E003.a.3, 9E003.a.4, 9E003.a.5, 9E003.c, 9E003.h, or 9E003.i (other than technology for fan or power turbines); or
 
-(*2*) Equipment controlled by 9B001.
+(2) Equipment controlled by 9B001.
 
-(C) License Exception STA may not be used for 9D001 “software” that is specially designed or modified for the “development” of “technology” controlled by 9E003.a.1, 9E003.a.2, 9E003.a.3, 9E003.a.4, 9E003.a.5, 9E003.c, 9E003.i (other than technology for fan or power turbines) or 9E003.h.
+(C) License Exception STA may not be used for 9D001 “software” that is “specially designed” or modified for the “development” of “technology” controlled by 9E003.a.1, 9E003.a.2, 9E003.a.3, 9E003.a.4, 9E003.a.5, 9E003.c, 9E003.h, or 9E003.i (other than technology for fan or power turbines).
 
 (D) License Exception STA may not be used for 9D004.f or 9D004.g “software”.
 
-(E) License Exception STA may not be used for 9E001 “technology” according to the General Technology Note for the “development” of 9A001.b engines or components of engines controlled by 9A001.b if such components incorporate:
-
-(*1*) Any of the “technologies” controlled by 9E003.a.1, 9E003.a.2, 9E003.a.3, 9E003.a.4, 9E003.a.5, 9E003.c, 9E003.i (other than technology for fan or power turbines) or 9E003.h;
-
-(*2*) Any of the 9D001 or 9D002 software in paragraphs (b)(2)(viii)(A) or (B) of this section.
-
-(F) License Exception STA may not be used for 9E002 “technology” according to the General Technology Note for the “production” of components of engines controlled by 9A001.b if such components incorporate any of the “technologies” controlled by 9E003.a.1, 9E003.a.2, 9E003.a.3, 9E003.a.4, 9E003.a.5, 9E003.c, 9E003.i (other than technology for fan or power turbines) 9E003.h.
-
-(G) License Exception STA may not be used for “technology” in 9E003.a.1, 9E003.a.2, 9E003.a.3, 9E003.a.4, 9E003.a.5, 9E003.c, 9E003.i (other than technology for fan or power turbines) 9E003.h.
+(E) License Exception STA may not be used for “technology” in 9E003.a.1, 9E003.a.2, 9E003.a.3, 9E003.a.4, 9E003.a.5, 9E003.c, 9E003.h, or 9E003.i (other than technology for fan or power turbines).
 
 (ix) [Reserved]
 
