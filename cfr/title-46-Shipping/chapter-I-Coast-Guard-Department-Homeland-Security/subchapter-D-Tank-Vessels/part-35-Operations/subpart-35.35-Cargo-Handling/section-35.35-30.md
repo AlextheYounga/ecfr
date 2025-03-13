@@ -4,7 +4,7 @@
 
 (b) The Declaration of Inspection may be in any form, but must contain at least:
 
-Declaration of Inspection Before Transfer of Liquid Cargo in Bulk DateVesselPort ofProduct[s] being transferred—(Classification[s] and Kind[s])
+Declaration of Inspection Before Transfer of Liquid Cargo in BulkDateVesselPort ofProduct[s] being transferred—(Classification[s] and Kind[s])
 
 I, \_\_\_\_\_\_\_\_\_\_, the person in charge of the transfer of liquid cargo in bulk about to begin, do certify that I have personally inspected this vessel with reference to the following requirements set forth in 46 CFR 35.35-20, and that opposite each of the applicable items listed below I have indicated whether the vessel complies with all pertinent regulations.
 

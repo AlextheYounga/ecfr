@@ -10,7 +10,7 @@ The following terms used in this subpart are defined as follows:
 
 *Bridge inspection experience.* Active participation in bridge inspections in accordance with the this subpart, in either a field inspection, supervisory, or management role. Some of the experience may come from relevant bridge design, bridge load rating, bridge construction, and bridge maintenance experience provided it develops the skills necessary to properly perform a NBIS bridge inspection.
 
-*Bridge inspection refresher training.* The National Highway Institute 1 (NHI) “Bridge Inspection Refresher Training Course” or other State, federally, or tribally developed instruction aimed to improve quality of inspections, introduce new techniques, and maintain consistency in the inspection program.
+*Bridge inspection refresher training.* The National Highway Institute1 (NHI) “Bridge Inspection Refresher Training Course” or other State, federally, or tribally developed instruction aimed to improve quality of inspections, introduce new techniques, and maintain consistency in the inspection program.
 
 1 The NHI training may be found at the following URL: *www.nhi.fhwa.dot.gov/.*
 

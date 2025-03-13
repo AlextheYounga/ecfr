@@ -40,7 +40,7 @@ As used in this part:
 
 *Flammable cargoes* includes the following liquefied gases from Table 4 (follows § 154.1872):
 
-Acetaldehyde Butadiene Butane Butylene Dimethylamine Ethane Ethylamine Ethyl chloride Ethylene Ethylene oxide Methane (LNG) Methyl acetylene-propadiene mixture Methyl bromide Methyl chloride Propane Propylene Vinyl chloride
+AcetaldehydeButadieneButaneButyleneDimethylamineEthaneEthylamineEthyl chlorideEthyleneEthylene oxideMethane (LNG)Methyl acetylene-propadiene mixtureMethyl bromideMethyl chloridePropanePropyleneVinyl chloride
 
 *Gas-dangerous space* includes the following spaces:
 
@@ -150,7 +150,7 @@ Acetaldehyde Butadiene Butane Butylene Dimethylamine Ethane Ethylamine Ethyl chl
 
 *Toxic cargoes* includes the following liquefied gases from Table 4 (follows § 154.1872):
 
-Acetaldehyde Ammonia, anhydrous Dimethylamine Ethylamine Ethyl chloride Ethylene oxide Methyl bromide Methyl chloride Sulfur dioxide Vinyl chloride
+AcetaldehydeAmmonia, anhydrousDimethylamineEthylamineEthyl chlorideEthylene oxideMethyl bromideMethyl chlorideSulfur dioxideVinyl chloride
 
 *Vapor pressure* means the absolute equilibrium pressure of the saturated vapor above the liquid, expressed in kPa (psia), at a specific temperature.
 

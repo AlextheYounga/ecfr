@@ -4,4 +4,4 @@
 
 (b) The material approved for incorporation by reference in this part, and the sections affected is:
 
-American Society for Testing and Materials (ASTM)100 Barr Harbor Drive, West Conshohocken, PA 19428-2959. ASTM F 1014-92, Standard Specification for Flashlights on Vessels—77.35-5[CGD 82-042, 53 FR 17704, May 18, 1988, as amended by CGD 95-072, 60 FR 50463, Sept. 29, 1995; CGD 96-041, 61 FR 50729, Sept. 27, 1996; CGD 97-057, 62 FR 51045, Sept. 30, 1997; USCG-1999-5151, 64 FR 67181, Dec. 1, 1999; USCG-2009-0702, 74 FR 49231, Sept. 25, 2009; USCG-2012-0832, 77 FR 59779, Oct. 1, 2012; USCG-2013-0671, 78 FR 60150, Sept. 30, 2013]
+American Society for Testing and Materials (ASTM)100 Barr Harbor Drive, West Conshohocken, PA 19428-2959.ASTM F 1014-92, Standard Specification for Flashlights on Vessels—77.35-5[CGD 82-042, 53 FR 17704, May 18, 1988, as amended by CGD 95-072, 60 FR 50463, Sept. 29, 1995; CGD 96-041, 61 FR 50729, Sept. 27, 1996; CGD 97-057, 62 FR 51045, Sept. 30, 1997; USCG-1999-5151, 64 FR 67181, Dec. 1, 1999; USCG-2009-0702, 74 FR 49231, Sept. 25, 2009; USCG-2012-0832, 77 FR 59779, Oct. 1, 2012; USCG-2013-0671, 78 FR 60150, Sept. 30, 2013]

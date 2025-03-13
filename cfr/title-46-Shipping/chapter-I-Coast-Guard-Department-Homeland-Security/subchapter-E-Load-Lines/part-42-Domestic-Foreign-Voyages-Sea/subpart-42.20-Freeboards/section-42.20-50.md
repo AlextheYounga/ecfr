@@ -4,7 +4,7 @@
 
 (b) In all cases where an enclosed superstructure of standard height is set in from the sides of the vessel as permitted in § 42.13-15(j), the effective length shall be the length modified by the ratio of *b/Bs,*
 
-where:*“b”* is the breadth of the superstructure at the middle of its length; *“Bs”* is the breadth of the vessel at the middle of the length of the superstructure.
+where:*“b”* is the breadth of the superstructure at the middle of its length;*“Bs”* is the breadth of the vessel at the middle of the length of the superstructure.
 
 (1) Where a superstructure is set in for a part of its length, this modification shall be applied only to the set in part.
 

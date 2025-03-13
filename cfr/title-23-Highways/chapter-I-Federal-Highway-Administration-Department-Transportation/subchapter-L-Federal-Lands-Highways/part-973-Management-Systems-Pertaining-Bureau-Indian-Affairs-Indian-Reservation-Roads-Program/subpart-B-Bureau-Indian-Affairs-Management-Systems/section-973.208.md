@@ -6,7 +6,7 @@ In addition to the requirements provided in § 973.204, the PMS must meet the fo
 
 (b) Where a tribe collects data for the tribe's PMS, the tribe shall provide the data to the BIA to be used in the nationwide PMS.
 
-(c) The nationwide and tribal PMSs may be based on the concepts described in the AASHTO's “Pavement Management Guide.” 1
+(c) The nationwide and tribal PMSs may be based on the concepts described in the AASHTO's “Pavement Management Guide.”1
 
 1 “Pavement Management Guide,” AASHTO, 2001, is available for inspection as prescribed at 49 CFR part 7. It is also available from the American Association of State Highway and Transportation Officials (AASHTO), Publication Order Dept., P.O. Box 96716, Washington, DC 20090-6716 or online at *http://www.transportation.org/publications/bookstore.nsf.*
 

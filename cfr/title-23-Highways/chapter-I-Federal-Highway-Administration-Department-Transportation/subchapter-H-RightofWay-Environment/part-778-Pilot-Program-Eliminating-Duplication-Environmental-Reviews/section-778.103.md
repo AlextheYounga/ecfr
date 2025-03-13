@@ -14,4 +14,6 @@
 
 (i) NEPA;
 
-(ii) Procedures governing the implementation of NEPA and related procedural laws under the authority of the Secretary, including 23 U.S.C. 109, 128, and 139; and ed regulations and executive orders. P\>(2) Compliance with State environmental laws and regulations may not substitute for the Secretary's responsibilities regarding compliance with any other Federal environmental laws other than those set forth in (b)(1).
+(ii) Procedures governing the implementation of NEPA and related procedural laws under the authority of the Secretary, including 23 U.S.C. 109, 128, and 139; and
+ed regulations and executive orders.
+P\>(2) Compliance with State environmental laws and regulations may not substitute for the Secretary's responsibilities regarding compliance with any other Federal environmental laws other than those set forth in (b)(1).

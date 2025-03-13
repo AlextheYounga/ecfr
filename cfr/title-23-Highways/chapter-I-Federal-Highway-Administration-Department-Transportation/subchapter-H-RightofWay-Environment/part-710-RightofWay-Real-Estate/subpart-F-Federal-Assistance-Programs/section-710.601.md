@@ -26,7 +26,8 @@
 
 (f) The FHWA may participate in the payment of fair market value or the functional replacement of impacted facilities under 710.509 and the reimbursement of the ordinary and reasonable direct costs of the Federal land management agency for the transfer when reimbursement is required by the Federal land management agency's governing laws as a condition of the transfer.
 
-(g) Deeds for conveyance of real property interests owned by the United States shall be prepared by the eligible party and must be certified as being legally sufficient by an attorney licensed within the State where the real property is located. Such deeds shall contain the clauses required by FHWA and 49 CF R 21.7(a)(2). After the eligible party prepares the deed, it will submit the proposed deed with the certification to FHWA for review and execution.
+(g) Deeds for conveyance of real property interests owned by the United States shall be prepared by the eligible party and must be certified as being legally sufficient by an attorney licensed within the State where the real property is located. Such deeds shall contain the clauses required by FHWA and 49 CF
+R 21.7(a)(2). After the eligible party prepares the deed, it will submit the proposed deed with the certification to FHWA for review and execution.
 
 (h) Following execution by FHWA, the eligible party shall record the deed in the appropriate land record office and so advise FHWA and the affected Federal land management agency.
 

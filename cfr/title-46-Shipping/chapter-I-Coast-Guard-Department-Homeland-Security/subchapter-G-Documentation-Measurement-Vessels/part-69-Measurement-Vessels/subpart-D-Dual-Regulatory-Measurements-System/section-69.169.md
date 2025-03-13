@@ -18,4 +18,5 @@ The tonnage of the following spaces is exempt from inclusion in tonnage:
 
 (3) Spaces available for carrying dry cargo and stores when located between the uppermost complete deck and the second deck.
 
-[CGD 87-015b, 54 FR 37657, Sept. 12, 1989, as amended by CGD 92-058, 57 FR 59938, Dec. 17, 1992; USCG-2011-0522, 81 FR 18731, Mar. 31, 2016] ]
+[CGD 87-015b, 54 FR 37657, Sept. 12, 1989, as amended by CGD 92-058, 57 FR 59938, Dec. 17, 1992; USCG-2011-0522, 81 FR 18731, Mar. 31, 2016]
+]

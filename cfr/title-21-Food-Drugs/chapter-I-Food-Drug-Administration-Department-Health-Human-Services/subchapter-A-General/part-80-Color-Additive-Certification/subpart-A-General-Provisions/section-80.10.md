@@ -1,5 +1,7 @@
 ##### § 80.10 Fees for certification services. #####
 
+Link to an amendment published at 89 FR 88641, Nov. 8, 2024.
+
 (a) *Fees for straight colors including lakes.* The fee for the services provided by the regulations in this part in the case of each request for certification submitted in accordance with § 80.21(j)(1) and (j)(2) shall be $0.35 per pound of the batch covered by such requests, but no such fee shall be less than $224.
 
 (b) *Fees for repacks of certified color additives and color additive mixtures.* The fees for the services provided under the regulations in this part in the case of each request for certification submitted in accordance with § 80.21(j)(3) and (j)(4) shall be:

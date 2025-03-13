@@ -34,7 +34,7 @@
 
 (2) Unlined hose must not be used in the machinery spaces.
 
-(3) Where 3/4-inch hose is permitted by Table 193.10-5(a) of this subpart, the hose and couplings must be of good commercial grade.
+(3) Where3/4-inch hose is permitted by Table 193.10-5(a) of this subpart, the hose and couplings must be of good commercial grade.
 
 (4) Each section of firehose used after January 1, 1980 must be lined commercial firehose that conforms to Underwriters' Laboratories, Inc. Standard 19 or Federal Specification ZZ-H-451E. Hose that bears the label of Underwriters' Laboratories, Inc. as lined firehose is accepted as conforming to this requirement. Each section of replacement firehose or any section of new firehose placed aboard a vessel after January 1, 1977 must also conform to the specification required by this paragraph.
 

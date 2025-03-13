@@ -10,6 +10,6 @@
 
 (2) A fire hose must be connected to each fire hydrant at all times the vessel is operating.
 
-(3) A fire hose on a vessel less than 79 feet (24 meters) in length must be at least 5/8 inch (16 millimeters) nominal diameter, be of good commercial grade and be fitted with a nozzle of corrosion resistant material capable of providing a solid stream and a spray pattern.
+(3) A fire hose on a vessel less than 79 feet (24 meters) in length must be at least5/8 inch (16 millimeters) nominal diameter, be of good commercial grade and be fitted with a nozzle of corrosion resistant material capable of providing a solid stream and a spray pattern.
 
 (4) A fire hose on a vessel 79 feet (24 meters) or more in length must be lined commercial fire hose and be fitted with a nozzle made of corrosion resistant material capable of providing a solid stream and a spray pattern.

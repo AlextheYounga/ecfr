@@ -28,4 +28,4 @@
 
 (k) Federal funds may participate in projects solely for the purpose of implementing safety corrective measures to reduce the roadside hazards of utility facilities to the highway user. Safety corrective measures should be developed in accordance with the provisions of 23 CFR 645.209(k).
 
-(Information collection requirements in paragraph (g) were approved by the Office of Management and Budget under control number 2125-0515) [50 FR 20345, May 15, 1985, as amended at 53 FR 24932, July 1, 1988]
+(Information collection requirements in paragraph (g) were approved by the Office of Management and Budget under control number 2125-0515)[50 FR 20345, May 15, 1985, as amended at 53 FR 24932, July 1, 1988]

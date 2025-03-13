@@ -1,6 +1,6 @@
 ##### § 72.05-30 Windows and airports. #####
 
-(a) For the purpose of this subpart, all glass in windows or airports shall be at least 1/4 inch thick. However, greater thickness may be required for strength purposes in certain locations. All glass shall be fitted in steel or equivalent metal frames and shall be retained by steel or equivalent metal glazing beads or angles.
+(a) For the purpose of this subpart, all glass in windows or airports shall be at least1/4 inch thick. However, greater thickness may be required for strength purposes in certain locations. All glass shall be fitted in steel or equivalent metal frames and shall be retained by steel or equivalent metal glazing beads or angles.
 
 (b) Where wire-inserted glass is required, and the single wire type is employed, the strands shall run horizontally and shall be not more than 2 inches apart.
 

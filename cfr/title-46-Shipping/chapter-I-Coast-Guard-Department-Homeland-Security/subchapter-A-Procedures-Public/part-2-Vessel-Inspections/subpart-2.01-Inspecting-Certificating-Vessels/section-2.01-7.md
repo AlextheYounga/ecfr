@@ -144,4 +144,4 @@
 
 (7) For towing vessels, see part 136 of subchapter M of this chapter.
 
-[CGFR 65-50, 30 FR 16604, Dec. 30, 1965] Editorial Note:For Federal Register citations affecting § 2.01-7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[CGFR 65-50, 30 FR 16604, Dec. 30, 1965]Editorial Note:For Federal Register citations affecting § 2.01-7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

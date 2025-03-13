@@ -30,7 +30,7 @@ The Administration may not approve the use, as defined in § 774.17, of Section 
 
 (2) The alternative selected must include all possible planning, as defined in § 774.17, to minimize harm to Section 4(f) property.
 
-(d) Programmatic Section 4(f) evaluations are a time-saving procedural alternative to preparing individual Section 4(f) evaluations under paragraph (a) of this section for certain minor uses of Section 4(f) property. Programmatic Section 4(f) evaluations are developed by the Administration based on experience with a specific set of conditions that includes project type, degree of use and impact, and evaluation of avoidance alternatives. 1 An approved programmatic Section 4(f) evaluation may be relied upon to cover a particular project only if the specific conditions in the programmatic evaluation are met
+(d) Programmatic Section 4(f) evaluations are a time-saving procedural alternative to preparing individual Section 4(f) evaluations under paragraph (a) of this section for certain minor uses of Section 4(f) property. Programmatic Section 4(f) evaluations are developed by the Administration based on experience with a specific set of conditions that includes project type, degree of use and impact, and evaluation of avoidance alternatives.1 An approved programmatic Section 4(f) evaluation may be relied upon to cover a particular project only if the specific conditions in the programmatic evaluation are met
 
 1 FHWA Section 4(f) Programmatic Evaluations can be found at *www.environment.fhwa.dot.gov/4f/4fnationwideevals.asp.*
 

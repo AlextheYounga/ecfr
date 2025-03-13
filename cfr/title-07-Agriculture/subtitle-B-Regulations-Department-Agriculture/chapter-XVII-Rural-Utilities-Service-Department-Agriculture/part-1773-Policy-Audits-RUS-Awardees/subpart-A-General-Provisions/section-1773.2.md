@@ -1,5 +1,7 @@
 ##### § 1773.2 Definitions. #####
 
+Link to an amendment published at 89 FR 88634, Nov. 8, 2024.
+
 As used in this part:
 
 *2 CFR part 200, subpart F* means 2 CFR part 200, Uniform Administrative Requirements, Cost Principles and Audit Requirements for Federal Awards, subpart F, Audit Requirements, as adopted by USDA in 2 CFR part 400.

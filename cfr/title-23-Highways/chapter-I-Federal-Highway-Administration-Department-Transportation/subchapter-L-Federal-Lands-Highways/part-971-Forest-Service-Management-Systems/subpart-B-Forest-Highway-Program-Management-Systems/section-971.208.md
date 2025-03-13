@@ -4,7 +4,7 @@ In addition to the requirements provided in § 971.204, the PMS must meet the fo
 
 (a) The tri-party partnership shall have PMS coverage of all FHs and other associated facilities, as appropriate, funded under the FLHP.
 
-(b) The PMS may be based on the concepts described in the AASHTO's “Pavement Management Guide.” 1
+(b) The PMS may be based on the concepts described in the AASHTO's “Pavement Management Guide.”1
 
 1 “Pavement Management Guide,” AASHTO, 2001, is available for inspection as prescribed at 49 CFR part 7. It is also available from the American Association of State Highway and Transportation Officials (AASHTO), Publication Order Dept., P.O. Box 96716, Washington, DC 20090-6716 or online at *http://www.transportation.org/publications/bookstore.nsf.*
 

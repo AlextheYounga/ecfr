@@ -6,7 +6,7 @@ In addition to the requirements provided in § 973.204, the SMS must meet the fo
 
 (b) Where a tribe collects data for the tribe's SMS, the tribe shall provide the data to the BIA to be used in the nationwide SMS.
 
-(c) The nationwide and tribal SMS may be based on the guidance in “Safety Management Systems: Good Practices for Development and Implementation.” 3
+(c) The nationwide and tribal SMS may be based on the guidance in “Safety Management Systems: Good Practices for Development and Implementation.”3
 
 3 “Safety Management Systems: Good Practices for Development and Implementation,” FHWA and NHTSA, May 1996, may be obtained at the FHWA, Office of Safety, 1200 New Jersey Avenue, SE., Washington, DC 20590, or electronically at *http://safety.fhwa.dot.gov/media/documents.htm.* It is available for inspection and copying as prescribed at 49 CFR part 7.
 

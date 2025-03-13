@@ -2,13 +2,13 @@
 
 Unless waived under § 153.483 or § 153.491, each Category B NLS cargo tank on ships built before July 1, 1986 must meet the following:
 
-(a) Unless the tank meets the interim standard provided by paragraph (b) of this section and is prewashed in accordance with § 153.1118, the tank must have a stripping quantity determined under § 153.1604 that is less than 0.35m 3.
+(a) Unless the tank meets the interim standard provided by paragraph (b) of this section and is prewashed in accordance with § 153.1118, the tank must have a stripping quantity determined under § 153.1604 that is less than 0.35m3.
 
-(b) Before October 3, 1994, the tank may have a total NLS residue determined under § 153.1608 that is less than 1.0 m3 or 1/3000th of the tank's capacity and an NLS residue discharge system meeting the following:
+(b) Before October 3, 1994, the tank may have a total NLS residue determined under § 153.1608 that is less than 1.0 m3 or1/3000th of the tank's capacity and an NLS residue discharge system meeting the following:
 
 (1) The system must be capable of discharging at a rate equal to or less than Q in the following formula:
 
-Q = K U1.4 L1.6 × 10−5 m3/hrwhere:K = 4.3, except K = 6.45 if the discharge is equally distributed between two NLS residue discharge outlets on opposite sides of the ship (see §§ 153.470(c) and 153.1126(b)). L = ship's length in meters. U = for a ship that is self-propelled, the minimum speed in knots specified in the approved Procedures and Arrangements Manual for discharging Category B NLS residue, but at least 7; U = for a ship that is not self-propelled, the minimum speed in knots specified in the approved Procedures and Arrangements Manual for discharging Category B NLS residue, but at least 4.
+Q = K U1.4 L1.6 × 10−5 m3/hrwhere:K = 4.3, except K = 6.45 if the discharge is equally distributed between two NLS residue discharge outlets on opposite sides of the ship (see §§ 153.470(c) and 153.1126(b)).L = ship's length in meters.U = for a ship that is self-propelled, the minimum speed in knots specified in the approved Procedures and Arrangements Manual for discharging Category B NLS residue, but at least 7;U = for a ship that is not self-propelled, the minimum speed in knots specified in the approved Procedures and Arrangements Manual for discharging Category B NLS residue, but at least 4.
 
 (2) The system must have equipment capable of automatically recording—
 

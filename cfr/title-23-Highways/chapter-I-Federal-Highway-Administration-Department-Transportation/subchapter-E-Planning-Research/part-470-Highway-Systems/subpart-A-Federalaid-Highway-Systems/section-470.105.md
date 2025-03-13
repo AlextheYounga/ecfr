@@ -1,6 +1,6 @@
 ##### § 470.105 Urban area boundaries and highway functional classification. #####
 
-(a) *Urban area boundaries.* Routes on the Federal-aid highway systems may be designated in both rural and urban areas. Guidance for determining the boundaries of urbanized and nonurbanized urban areas is provided in the FHWA's Functional Classification Guidelines. 1
+(a) *Urban area boundaries.* Routes on the Federal-aid highway systems may be designated in both rural and urban areas. Guidance for determining the boundaries of urbanized and nonurbanized urban areas is provided in the FHWA's Functional Classification Guidelines.1
 
 1 The Functional Classification Guidelines can be viewed at *http://www.fhwa.dot.gov/planning/fctoc.htm.*
 

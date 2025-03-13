@@ -76,4 +76,4 @@ As used in this chapter:
 
 *United States Registered Pilot* or *U.S. Registered Pilot* means a person, other than a member of the regular complement of a vessel, who holds an MMC with an officer endorsement authorizing navigation on the Great Lakes and suitably endorsed for pilotage on areas and routes specified therein, issued under the authority of the provisions of Title 46 of the United States Code, and who also currently holds a Certificate of Registration ID Card under the provisions of Subpart B of this part.
 
-[26 FR 951, Jan. 31, 1961] Editorial Note:For Federal Register citations affecting § 401.110, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[26 FR 951, Jan. 31, 1961]Editorial Note:For Federal Register citations affecting § 401.110, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

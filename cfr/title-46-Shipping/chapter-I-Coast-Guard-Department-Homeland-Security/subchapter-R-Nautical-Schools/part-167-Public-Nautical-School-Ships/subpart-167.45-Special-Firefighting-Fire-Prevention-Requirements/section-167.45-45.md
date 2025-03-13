@@ -2,11 +2,11 @@
 
 (a) When a carbon dioxide (CO2) smothering system is fitted in the boiler room, the quantity of carbon dioxide carried shall be sufficient to give a gas saturation of 25 percent of the gross volume of the largest boiler room from tank top to top of the boilers. Top of the boilers is to be considered as the top of the shell of a Scotch or leg type of boiler, and the top of the casing or drum, whichever is the higher, on water-tube boilers. The quantity of carbon dioxide required may be determined approximately by the following formula:
 
-![](/graphics/ec01mr91.001.gif)where:*W* = the weight of CO2 required in pounds. *L* = the length of the boiler room in feet. *B* = the breadth of the boiler room in feet. *D* = the distance in feet from tank top or flat forming lower boundary to top of boilers.
+![](/graphics/ec01mr91.001.gif)where:*W* = the weight of CO2 required in pounds.*L* = the length of the boiler room in feet.*B* = the breadth of the boiler room in feet.*D* = the distance in feet from tank top or flat forming lower boundary to top of boilers.
 
 (b) When a carbon dioxide (CO2) smothering system is fitted in the machinery space of a nautical school ship propelled by internal combustion engines, the quantity of carbon dioxide required may be determined approximately by the following formula:
 
-![](/graphics/ec01mr91.002.gif)where: *W* = the weight of CO2 required in pounds. *L* = the length of machinery space in feet. *B* = breadth of the machinery space in feet. *D* = distance in feet from tank top or flat forming lower boundary to the underside of deck forming the batch opening.
+![](/graphics/ec01mr91.002.gif)where:*W* = the weight of CO2 required in pounds.*L* = the length of machinery space in feet.*B* = breadth of the machinery space in feet.*D* = distance in feet from tank top or flat forming lower boundary to the underside of deck forming the batch opening.
 
 (c) The whole charge of gas shall be capable of being released simultaneously by operating one valve and control. All cylinders shall be completely discharged in not more than two minutes. The arrangement of the piping shall be such as to give a general and fairly uniform distribution over the entire area protected. An alarm which shall operate automatically with the operation of the system shall be provided to give a warning in the space when the carbon dioxide is about to be released. Provision shall be made to prevent the admission of air into the lower parts of the boiler or engine room while the system is in operation.
 

@@ -32,7 +32,7 @@ and duly authorized for assigning purposes under the provisions of this law for 
 
 (All measurements are to upper edge of the respective horizontal lines)
 
-The upper edge of the deck line from which these freeboards are measured is \_\_\_\_ inches above or below the top of the \_\_\_\_\_\_\_\_ deck at side; i.e., freeboard 1 deck.
+The upper edge of the deck line from which these freeboards are measured is \_\_\_\_ inches above or below the top of the \_\_\_\_\_\_\_\_ deck at side; i.e., freeboard1 deck.
 
 ![](/graphics/ec01fe91.007.gif)\* \* \* \* \* \* \*Date of initial or periodical survey
 
@@ -44,7 +44,7 @@ This is to certify that this ship has been surveyed and that the freeboards have
 
 This certificate remains in force until \_\_\_\_\_\_\_\_,2 subject to annual surveys in accordance with applicable Load Line Regulations, and endorsement thereof on the reverse side of the certificate.
 
-Issued at(Place of issue of certificate) (Date of issue) By (Signature of official issuing the certificate)  [Seal of issuing authority]notes
+Issued at(Place of issue of certificate) (Date of issue) By (Signature of official issuing the certificate) [Seal of issuing authority]notes
 
 1. When a ship departs from a port situated on a river or inland waters, deeper loading shall be permitted corresponding to the weight of fuel and all other materials required for consumption between the point of departure and the sea.
 
@@ -111,7 +111,7 @@ Coastwise Load Line Certificate[Form *C2*]\* \* \* \* \* \* \*
 
 (All measurements are to upper edge of the respective horizontal lines)
 
-The upper edge of the deck line from which these freeboards are measured is \_\_\_\_ inches above or below the top of the \_\_\_\_\_\_\_\_ deck at side; i.e., freeboard 1 deck.
+The upper edge of the deck line from which these freeboards are measured is \_\_\_\_ inches above or below the top of the \_\_\_\_\_\_\_\_ deck at side; i.e., freeboard1 deck.
 
 ![](/graphics/ec01fe91.008.gif)\* \* \* \* \* \* \*
 
@@ -134,7 +134,7 @@ The timber freeboards given in this certificate are applicable only when this sh
 
 (All measurements are to upper edge of the respective horizontal lines)
 
-The upper edge of the deck line from which these freeboards are measured is \_\_\_\_ inches above or below the top of the \_\_\_\_\_\_\_\_ deck at side; i.e., freeboard 1 deck.
+The upper edge of the deck line from which these freeboards are measured is \_\_\_\_ inches above or below the top of the \_\_\_\_\_\_\_\_ deck at side; i.e., freeboard1 deck.
 
 ![](/graphics/ec01fe91.009.gif)\* \* \* \* \* \* \*
 

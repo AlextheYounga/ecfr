@@ -82,4 +82,5 @@
 
 (k) *Rotational deployment of marine evacuation systems.* In addition to or in conjunction with the servicing intervals of marine evacuation systems required by paragraph (g)(1) of this section, each marine evacuation system must be deployed from the unit on a rotational basis. Each marine evacuation system must be deployed at least once every 6 years.
 
-[CGD 84-069, 61 FR 25301, May 20, 1996, as amended by CGD 85-205, 62 FR 35392, July 1, 1997; CGD 84-069, 63 FR 52816, Oct. 1, 1998; USCG-2001-11118, 67 FR 58541, Sept. 17, 2002; USCG-2014-0688, 79 FR 58283, Sept. 29, 2014; USCG-2020-0519, 89 FR 76700, Sept. 18, 2024 ]
+[CGD 84-069, 61 FR 25301, May 20, 1996, as amended by CGD 85-205, 62 FR 35392, July 1, 1997; CGD 84-069, 63 FR 52816, Oct. 1, 1998; USCG-2001-11118, 67 FR 58541, Sept. 17, 2002; USCG-2014-0688, 79 FR 58283, Sept. 29, 2014; USCG-2020-0519, 89 FR 76700, Sept. 18, 2024
+]

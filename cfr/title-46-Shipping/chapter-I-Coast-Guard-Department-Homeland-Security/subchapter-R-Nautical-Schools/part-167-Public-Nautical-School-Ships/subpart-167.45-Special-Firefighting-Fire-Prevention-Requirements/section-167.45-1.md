@@ -38,7 +38,7 @@
 
 (c) *Inert-gas systems.* (1) When a carbon dioxide (CO2) smothering system is fitted in the cargo hold, cargo 'tween-decks, or other closed cargo compartments, or cargo-oil deep tanks, the quantity of carbon dioxide shall be sufficient to give a gas saturation of 30 percent of the gross volume of the largest cargo hold. The quantity in pounds of carbon dioxide required may be determined approximately by the following formula:
 
-![](/graphics/ec01mr91.000.gif)where: *W* = the weight of CO2 required, in pounds. *L* = the length of the hold, in feet. *B* = the mean breadth of the hold, in feet, *D* = the depth from tank top or flat forming lower boundary to top of uppermost space in which freight may be carried, in feet.
+![](/graphics/ec01mr91.000.gif)where:*W* = the weight of CO2 required, in pounds.*L* = the length of the hold, in feet.*B* = the mean breadth of the hold, in feet,*D* = the depth from tank top or flat forming lower boundary to top of uppermost space in which freight may be carried, in feet.
 
 (2) When a carbon dioxide (CO2) smothering system is fitted in the lamp locker, oil room, or like compartments, the quantity in pounds of carbon dioxide required may be determined by dividing the gross volume of the space by a factor of 22. Lamp lockers, oil rooms, and like compartments, in all classes of vessels, shall be wholly and tightly lined with metal. The whole charge of gas shall be capable of being released simultaneously by operating one valve and control, and all cylinders shall be completely discharged in not more than two minutes.
 

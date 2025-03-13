@@ -2,7 +2,7 @@
 
 (a) Where the term *duct* is used in this section, it shall include trunks, plenums, and any other type of ventilation piping, chambers, or duct work.
 
-(b) Where automatic fire dampers are required, they shall be designed to operate at approximately 165 degrees F. for normal locations, and approximately 212 degrees F. for locations such as galleys. The dampers shall be so designed as to close against the anticipated draft in the duct. The damper shall be made accessible for periodic inspection by means of a hinged or bolted plate in the duct. The damper and the portion of duct containing the damper shall be constructed of at least 1/8 inch steel plate suitably stiffened. No insulation need be applied to the damper blade.
+(b) Where automatic fire dampers are required, they shall be designed to operate at approximately 165 degrees F. for normal locations, and approximately 212 degrees F. for locations such as galleys. The dampers shall be so designed as to close against the anticipated draft in the duct. The damper shall be made accessible for periodic inspection by means of a hinged or bolted plate in the duct. The damper and the portion of duct containing the damper shall be constructed of at least1/8 inch steel plate suitably stiffened. No insulation need be applied to the damper blade.
 
 (c) Where ventilation ducts are required to meet bulkhead requirements, the space within the duct shall be considered to be the same as the space served by the ventilator, and the duct shall be insulated to meet the applicable requirements of tables 72.05-10(d) and 72.05-10(e).
 

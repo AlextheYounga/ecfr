@@ -1,6 +1,6 @@
 ##### § 151.50-50 Elemental phosphorus in water. #####
 
-(a) Tanks shall be designed and tested for a head equivalent to the design lading of phosphorus and its water blanket extended to 8 feet above the tank top. In addition, tank design calculations shall demonstrate that the tank can withstand, without rupture, a single loading to the highest level to which the water blanket may rise, if that exceeds 8 feet. Tanks shall not be less than 5/16-inch thick.
+(a) Tanks shall be designed and tested for a head equivalent to the design lading of phosphorus and its water blanket extended to 8 feet above the tank top. In addition, tank design calculations shall demonstrate that the tank can withstand, without rupture, a single loading to the highest level to which the water blanket may rise, if that exceeds 8 feet. Tanks shall not be less than5/16-inch thick.
 
 (b) When a water displacement method of discharge is used, pressure vessel type cargo tanks, designed and tested in accordance with Subchapter F of this chapter shall be employed. Such tanks shall be designed for the maximum pressure to which they may be subjected when water pressure is used to discharge the cargo.
 

@@ -26,7 +26,7 @@
 
 *Metropolitan planning organization (MPO)* means the forum for cooperative transportation decision-making for the metropolitan planning area pursuant to 23 U.S.C. 134 and 49 U.S.C. 5303.
 
-*National Wildlife Refuge System (Refuge System)* means all the lands and waters reported by the FWS as being part of the National Wildlife Refuge System in the annual “Report of Lands Under Control of the U.S. FWS.” 1 Included in the Refuge System are those lands that are generally known as refuges, waterfowl production areas, wetland management districts, and coordination areas.
+*National Wildlife Refuge System (Refuge System)* means all the lands and waters reported by the FWS as being part of the National Wildlife Refuge System in the annual “Report of Lands Under Control of the U.S. FWS.”1 Included in the Refuge System are those lands that are generally known as refuges, waterfowl production areas, wetland management districts, and coordination areas.
 
 1 “Report of Lands under Control of the U.S. FWS,” U.S. FWS, (published annually on September 30). A free copy is available from the U.S. FWS, Division of Realty, 4401 N. Fairfax Drive, Suite 622, Arlington, VA 22203; telephone: (703) 358-1713.
 

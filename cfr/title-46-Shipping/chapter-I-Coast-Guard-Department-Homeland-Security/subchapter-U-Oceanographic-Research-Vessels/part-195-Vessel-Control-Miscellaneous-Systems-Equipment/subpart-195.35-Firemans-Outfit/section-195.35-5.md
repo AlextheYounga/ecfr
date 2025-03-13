@@ -6,7 +6,7 @@
 
 (c) Flashlights shall be Type II or Type III, constructed and marked in accordance with ASTM F 1014 (incorporated by reference, see § 195.01-3).
 
-(d) All lifelines shall be of steel or bronze wire rope. Steel wire rope shall be either inherently corrosion-resistant, or made so by galvanizing or tinning. Each end shall be fitted with a hook with keeper having throat opening which can be readily slipped over a 5/8-inch bolt. The total length of the lifeline shall be dependent upon the size and arrangement of the vessel, and more than one line may be hooked together to achieve the necessary length. No individual length of lifeline may be less than 50 feet in length. The assembled lifeline shall have a minimum breaking strength of 1,500 pounds.
+(d) All lifelines shall be of steel or bronze wire rope. Steel wire rope shall be either inherently corrosion-resistant, or made so by galvanizing or tinning. Each end shall be fitted with a hook with keeper having throat opening which can be readily slipped over a5/8-inch bolt. The total length of the lifeline shall be dependent upon the size and arrangement of the vessel, and more than one line may be hooked together to achieve the necessary length. No individual length of lifeline may be less than 50 feet in length. The assembled lifeline shall have a minimum breaking strength of 1,500 pounds.
 
 (e) All equipment shall be maintained in an operative condition, and it shall be the responsibility of the master and chief engineer to ascertain that a sufficient number of the crew are familiar with the operation of the equipment.
 

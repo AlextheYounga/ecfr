@@ -6,7 +6,7 @@
 
 (c) The float body must be supported so that the platform is suspended in the air by the net or equivalent supporting arrangement. A bag of sand, shot or similar granular material weighing 90 kg (200 lb.) must be dropped onto the center of the platform from a height of 3 m (10 ft.). The supporting arrangement and platform must not show any damage that would affect the serviceability of the float or platform.
 
-(d) As part of the buoyancy test required in § 160.010-7(e) of this chapter, the platform must be loaded with weights equal to 1/2 the rated capacity of the float. There must be no damage to the supporting arrangement or platform as a result of this test.
+(d) As part of the buoyancy test required in § 160.010-7(e) of this chapter, the platform must be loaded with weights equal to1/2 the rated capacity of the float. There must be no damage to the supporting arrangement or platform as a result of this test.
 
 Note:
 

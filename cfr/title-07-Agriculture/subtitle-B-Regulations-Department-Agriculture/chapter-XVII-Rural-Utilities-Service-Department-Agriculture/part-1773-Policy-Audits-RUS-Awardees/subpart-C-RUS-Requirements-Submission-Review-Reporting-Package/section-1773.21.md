@@ -1,5 +1,7 @@
 ##### § 1773.21 Auditee's review and submission of the reporting package. #####
 
+Link to an amendment published at 89 FR 88635, Nov. 8, 2024.
+
 (a) The auditee's governance board should note and record receipt of the reporting package and any action taken in response to the reporting package in the minutes of the board meeting at which such reporting package is presented.
 
 (b) The auditee must furnish RUS with an electronic copy of the reporting package, as described in paragraph (e) of this section, within 120 days of the audit date as provided for in § 1773.3.

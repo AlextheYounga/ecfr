@@ -14,7 +14,7 @@
 
 (b) On vessels of 1,000 gross tons or more on an international voyage, each required fire pump, while delivering water through the fire main system at a pressure corresponding to that required by paragraph (c) of this section, must have a minimum capacity of at least two-thirds of that required for an independent bilge pump. However, in no case shall the capacity of each fire pump be less than that otherwise required by this section.
 
-(c) Each pump must be capable of delivering water simultaneously from the outlets having the greatest pressure drop from the fire pumps to the nozzles which may not always be the two highest outlets, at a Pitot tube pressure of not less than 50 p.s.i. Where 11/2-inch hose is permitted in lieu of 21/2-inch hose by footnote 2 of Table 193.10-5(a), the pump capacity must be determined on the same basis as if 21/2-inch hose had been permitted. Where 3/4-inch hose is permitted by Table 193.10-5(a), the Pitot tube pressure may not be less than 35 p.s.i.
+(c) Each pump must be capable of delivering water simultaneously from the outlets having the greatest pressure drop from the fire pumps to the nozzles which may not always be the two highest outlets, at a Pitot tube pressure of not less than 50 p.s.i. Where 11/2-inch hose is permitted in lieu of 21/2-inch hose by footnote 2 of Table 193.10-5(a), the pump capacity must be determined on the same basis as if 21/2-inch hose had been permitted. Where3/4-inch hose is permitted by Table 193.10-5(a), the Pitot tube pressure may not be less than 35 p.s.i.
 
 (d) Fire pumps must be fitted on the discharge side with relief valves set to relieve at 25 p.s.i. in excess of the pressure necessary to maintain the requirements of paragraph (c) of this section or 125 p.s.i., whichever is greater. Relief valves may be omitted if the pumps, operating under shutoff conditions, are not capable of developing a pressure exceeding this amount.
 
@@ -32,9 +32,9 @@
 
 (A) One of the fire pumps; or
 
-(B) Another suitable pump capable of supplying one hose stream at a Pitot tube pressure of not less than 50 p.s.i. (35 p.s.i. for 3/4-inch hose); or,
+(B) Another suitable pump capable of supplying one hose stream at a Pitot tube pressure of not less than 50 p.s.i. (35 p.s.i. for3/4-inch hose); or,
 
-(C) A pressure tank capable of supplying one hose stream at a Pitot tube pressure of not less than 50 p.s.i. (35 p.s.i. for 3/4-inch hose) for five minutes.
+(C) A pressure tank capable of supplying one hose stream at a Pitot tube pressure of not less than 50 p.s.i. (35 p.s.i. for3/4-inch hose) for five minutes.
 
 (ii) An audible alarm must be installed to sound in a continuously manned space if the pressure in the fire main drops to less than that necessary to maintain the minimum Pitot tube pressures specified in § 193.10-5(i)(1)(i)(B).
 

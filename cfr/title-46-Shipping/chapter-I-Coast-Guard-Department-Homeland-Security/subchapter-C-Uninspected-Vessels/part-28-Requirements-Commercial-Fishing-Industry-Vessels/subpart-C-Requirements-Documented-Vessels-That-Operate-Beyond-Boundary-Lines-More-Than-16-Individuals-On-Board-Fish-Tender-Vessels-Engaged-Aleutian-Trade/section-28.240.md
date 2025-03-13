@@ -6,7 +6,7 @@
 
 (c) In a work space where background noise makes a general alarm system difficult to hear, a flashing red light must also be installed.
 
-(d) Each general alarm bell and flashing red light must be identified with red lettering at least 1/2 inch (13 millimeters) high as follows:
+(d) Each general alarm bell and flashing red light must be identified with red lettering at least1/2 inch (13 millimeters) high as follows:
 
 Attention
 

@@ -8,13 +8,13 @@
 
 (d) Barges, when tendered to the carrier for transportation, shall have all bilges and void spaces (except those used for ballasting) substantially free of water. Periodic inspections and necessary pumping shall be carried out to insure maintenance of such water-free condition in order to minimize the free surface effects, both in longitudinal and transverse directions. Except when otherwise considered necessary for inspection or pumping, all hatch covers and other hull closure devices for void spaces and hull compartments other than cargo spaces shall be closed and secured at all times.
 
-(e) *Cargo signs and cards.* (1) Warning signs shall be displayed on the vessel, port and starboard, facing outboard without obstructions, at all times except when the vessel is gas free. The warning sign shall be rectangular and a minimum of 3 feet wide and 2 feet high. It shall be of sufficient size to accommodate the required alerting information, which shall be shown in black block style letters and numerals (characters) at least 3 inches high on a white background. The minimum spacing between adjacent words and lines of characters shall be 2 inches. The minimum spacing between adjacent characters shall be one-half inch. All characters shall have a minimum stroke width of one-half inch and shall be a minimum of 2 inches wide, except for the letters “M” and “W”, which shall be a minimum of 3 inches wide, and except for the letter “I” and the Numeral “1”, which may be 1/2-inch wide. The signs shall have a 2-inch minimum white border clear of characters. The signs shall be maintained legible. The alerting information shall include the following:
+(e) *Cargo signs and cards.* (1) Warning signs shall be displayed on the vessel, port and starboard, facing outboard without obstructions, at all times except when the vessel is gas free. The warning sign shall be rectangular and a minimum of 3 feet wide and 2 feet high. It shall be of sufficient size to accommodate the required alerting information, which shall be shown in black block style letters and numerals (characters) at least 3 inches high on a white background. The minimum spacing between adjacent words and lines of characters shall be 2 inches. The minimum spacing between adjacent characters shall be one-half inch. All characters shall have a minimum stroke width of one-half inch and shall be a minimum of 2 inches wide, except for the letters “M” and “W”, which shall be a minimum of 3 inches wide, and except for the letter “I” and the Numeral “1”, which may be1/2-inch wide. The signs shall have a 2-inch minimum white border clear of characters. The signs shall be maintained legible. The alerting information shall include the following:
 
 WarningDangerous Cargo
 
 (This sign may be covered or removed when Subchapter *O* commodities are not being carried.)
 
-No Visitors No Smoking
+No VisitorsNo Smoking
 
 (This sign may be removed or covered when the commodity is not flammable or combustible.)
 

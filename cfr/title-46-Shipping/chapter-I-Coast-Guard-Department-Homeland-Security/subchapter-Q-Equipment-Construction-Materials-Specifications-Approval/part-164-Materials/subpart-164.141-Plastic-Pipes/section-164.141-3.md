@@ -26,7 +26,7 @@
 
 (3) The test sample should be fabricated by cutting pipes lengthwise into individual sections and then assembling the sections into a test sample as representative as possible of a flat surface. All cuts should be made normal to the pipe wall.
 
-(4) The number of sections that must be assembled together to form a square test sample with sides measuring 3 inches, should be that which corresponds to the nearest integral number of sections which will result in a test sample with an equivalent linearized surface width between 3 and 3 1/2 inches. The surface width is defined as the measured sum of the outer circumference of the assembled pipe sections normal to the lengthwise sections.
+(4) The number of sections that must be assembled together to form a square test sample with sides measuring 3 inches, should be that which corresponds to the nearest integral number of sections which will result in a test sample with an equivalent linearized surface width between 3 and 31/2 inches. The surface width is defined as the measured sum of the outer circumference of the assembled pipe sections normal to the lengthwise sections.
 
 (5) The test samples should be mounted on calcium silicate board and held in place by the edges of the test frame and, if necessary, by wire. There should be no gaps between individual sections and the samples should be constructed so that the edges of two adjacent sections coincide with the centerline of the test holder.
 

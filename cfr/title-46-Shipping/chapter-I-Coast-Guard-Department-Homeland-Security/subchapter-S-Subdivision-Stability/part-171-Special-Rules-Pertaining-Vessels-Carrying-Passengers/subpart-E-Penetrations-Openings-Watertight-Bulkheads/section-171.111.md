@@ -24,7 +24,7 @@
 
 (ii) Less than 9 inches (23 centimeters) above the margin line.
 
-(2) The penetration must not be located outboard from the centerline more than 1/4 of the beam of the vessel measured—
+(2) The penetration must not be located outboard from the centerline more than1/4 of the beam of the vessel measured—
 
 (i) On the bulkhead deck; and
 

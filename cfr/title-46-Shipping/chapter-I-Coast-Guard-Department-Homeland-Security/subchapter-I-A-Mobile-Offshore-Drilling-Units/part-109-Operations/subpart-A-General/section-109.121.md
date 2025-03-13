@@ -52,4 +52,4 @@
 
 (24) A schematic diagram of the emergency power system.
 
-(Approved by the Office of Management and Budget under control number 1625-0038) [CGD 83-071, 52 FR 6979, Mar. 6, 1987; 52 FR 9383, Mar. 24, 1987, as amended by CGD 95-028, 62 FR 51208, Sept. 30, 1997; USCG-2006-25697, 71 FR 55746, Sept. 25, 2006]
+(Approved by the Office of Management and Budget under control number 1625-0038)[CGD 83-071, 52 FR 6979, Mar. 6, 1987; 52 FR 9383, Mar. 24, 1987, as amended by CGD 95-028, 62 FR 51208, Sept. 30, 1997; USCG-2006-25697, 71 FR 55746, Sept. 25, 2006]

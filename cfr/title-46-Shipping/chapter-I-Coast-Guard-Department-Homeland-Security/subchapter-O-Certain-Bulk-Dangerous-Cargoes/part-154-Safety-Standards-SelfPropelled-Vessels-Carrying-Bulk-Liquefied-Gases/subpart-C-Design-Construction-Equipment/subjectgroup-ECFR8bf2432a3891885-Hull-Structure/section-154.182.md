@@ -4,7 +4,7 @@ If a portion of the contiguous hull structure is designed for a temperature cold
 
 (a) Bend tests under § 57.06-4 of this chapter.
 
-(b) A Charpy V-notch toughness test under § 57.06-5 of this chapter on one set of 3 specimens alternating the notch location on successive tests between the center of the weld and the most critical location in the heat affected zone. 2
+(b) A Charpy V-notch toughness test under § 57.06-5 of this chapter on one set of 3 specimens alternating the notch location on successive tests between the center of the weld and the most critical location in the heat affected zone.2
 
 2 The most critical location in the heat affected zone of the weld is based on procedure qualification results, except austenitic stainless steel need have notches only in the center of the weld.
 

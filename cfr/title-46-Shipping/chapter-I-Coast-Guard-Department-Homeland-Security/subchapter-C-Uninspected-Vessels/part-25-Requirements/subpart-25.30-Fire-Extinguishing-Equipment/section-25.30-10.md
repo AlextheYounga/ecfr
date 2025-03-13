@@ -18,7 +18,7 @@
 
 (1) When the date on the inspection record tag on the extinguishers shows that 6 months have elapsed since the last weight check ashore, then such extinguishers are no longer accepted as meeting required maintenance conditions until they are reweighed ashore, found to be in a serviceable condition, and within required weight conditions.
 
-(2) If the weight of the container is 1/4 ounce less than that stamped on the container, it must be serviced.
+(2) If the weight of the container is1/4 ounce less than that stamped on the container, it must be serviced.
 
 (3) If the outer seal or seals (which indicate tampering or use when broken) are not intact, the boarding officer or marine inspector will inspect such extinguishers to see that the frangible disc in the neck of the container is intact; and if such disc is not intact, the container must be serviced.
 

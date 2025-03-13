@@ -30,7 +30,7 @@
 
 (i) Signs bearing the legend:
 
-cancer—suspect agent in this area protective equipment required authorized personnel onlymust be posted whenever hazardous operations, such as tank cleaning, are in progress.
+cancer—suspect agent in this areaprotective equipment requiredauthorized personnel onlymust be posted whenever hazardous operations, such as tank cleaning, are in progress.
 
 (j) A tank barge undergoing cargo transfer operations must be designated a “regulated area” having access limited to authorized persons and requiring a daily roster of authorized persons who may board the barge.
 

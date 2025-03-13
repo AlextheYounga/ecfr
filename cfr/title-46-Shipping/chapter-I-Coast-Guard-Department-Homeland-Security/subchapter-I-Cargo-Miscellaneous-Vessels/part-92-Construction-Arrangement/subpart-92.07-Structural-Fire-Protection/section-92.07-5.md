@@ -2,7 +2,7 @@
 
 (a) *Standard fire test.* A “standard fire test” is one which develops in the test furnace a series of time temperature relationships as follows:
 
-5 minutes—1,000 °F. 10 minutes—1,300 °F. 30 minutes—1,550 °F. 60 minutes—1,700 °F.
+5 minutes—1,000 °F.10 minutes—1,300 °F.30 minutes—1,550 °F.60 minutes—1,700 °F.
 
 (b) *“A” Class divisions.* Bulkheads or decks of the “A” Class shall be composed of steel or equivalent metal construction, suitably stiffened and made intact with the main structure of the vessel; such as shell, structural bulkheads, and decks. They shall be so constructed, that if subjected to the standard fire test, they would be capable of preventing the passage of flame and smoke for one hour.
 

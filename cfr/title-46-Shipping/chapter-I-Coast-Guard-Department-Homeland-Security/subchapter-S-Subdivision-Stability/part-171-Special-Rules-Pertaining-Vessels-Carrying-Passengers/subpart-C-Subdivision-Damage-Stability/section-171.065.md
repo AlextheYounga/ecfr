@@ -10,7 +10,7 @@
 
 (2) The greater of the values of Y as determined by the following equations equals or exceeds the value of X in Table 171.065(b):
 
-![](/graphics/ec01mr91.018.gif)orY = (M + 2P1)/(V + P1−P)where—M, V, and P have the same value as listed in Table 171.065(a); and P1 = the smaller of the following:(i) 0.6LN (0.056LN) where—N = the total number of passengers; andL = LBP in feet (meters).(ii) The greater of the following:(A) 0.4LN (0.037LN).(B) The sum of P and the total volume of passenger spaces above the margin line.
+![](/graphics/ec01mr91.018.gif)orY = (M + 2P1)/(V + P1−P)where—M, V, and P have the same value as listed in Table 171.065(a); andP1 = the smaller of the following:(i) 0.6LN (0.056LN) where—N = the total number of passengers; andL = LBP in feet (meters).(ii) The greater of the following:(A) 0.4LN (0.037LN).(B) The sum of P and the total volume of passenger spaces above the margin line.
 
 (c) The distance A in Figure 171.065 between main transverse watertight bulkheads may exceed the maximum allowed by paragraphs (a) or (b) of this section if each of the distances B and C between adjacent main transverse watertight bulkheads in Figure 171.065 does not exceed the smaller of the following:
 

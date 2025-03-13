@@ -1,6 +1,6 @@
 ##### § 777.3 Background. #####
 
-(a) Executive Order 11990 (42 FR 26961, 3 CFR, 1977 Comp., p. 121) Protection of Wetlands, and DOT Order 5660.1A, 1 Preservation of the Nation's Wetlands, emphasize the important functions and values inherent in the Nation's wetlands. Federal agencies are directed to avoid new construction in wetlands unless the head of the agency determines that:
+(a) Executive Order 11990 (42 FR 26961, 3 CFR, 1977 Comp., p. 121) Protection of Wetlands, and DOT Order 5660.1A,1 Preservation of the Nation's Wetlands, emphasize the important functions and values inherent in the Nation's wetlands. Federal agencies are directed to avoid new construction in wetlands unless the head of the agency determines that:
 
 1 DOT Order 5660.1A is available for inspection and copying from FHWA headquarters and field offices as prescribed at 49 CFR part 7.
 

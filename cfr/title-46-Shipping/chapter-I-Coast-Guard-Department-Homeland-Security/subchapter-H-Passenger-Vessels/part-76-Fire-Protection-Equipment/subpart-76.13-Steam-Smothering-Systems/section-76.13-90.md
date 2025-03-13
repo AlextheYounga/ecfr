@@ -6,7 +6,7 @@
 
 (2) The main pipes and their branches to the cargo compartments and similar spaces shall be not less than 11/2-inch pipe size and shall emanate from not more than two stations in easily accessible locations. If located on the open deck, the distribution manifolds shall be suitably protected by an enclosing cabinet or casing which shall be marked as required by § 78.47-17 of this subchapter. Each branch line shall have a valve at the manifold which shall be marked as required by § 78.47-15 of this subchapter.
 
-(3) Branches to paint lockers and similar small spaces may be taken from the nearest stream supply line and shall be not less than 3/4-inch pipe size. The valve shall be marked as required by § 78.47-15 of this subchapter.
+(3) Branches to paint lockers and similar small spaces may be taken from the nearest stream supply line and shall be not less than3/4-inch pipe size. The valve shall be marked as required by § 78.47-15 of this subchapter.
 
 (b) Installations contracted for on or after July 1, 1935, but prior to November 19, 1952, shall meet the following requirements:
 

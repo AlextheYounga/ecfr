@@ -20,17 +20,17 @@
 
 (2) Fluid alcohol burners, where wet priming is used, must have—
 
-(i) A catch pan of not less than 3/4” depth secured inside the frame of the stove; or
+(i) A catch pan of not less than3/4” depth secured inside the frame of the stove; or
 
-(ii) The metal protection under the stove flanged up at least 3/4” to form a pan.
+(ii) The metal protection under the stove flanged up at least3/4” to form a pan.
 
 (c) Heating and lighting systems using kerosene or fuel oil must meet the following requirements:
 
 (1) Where wet priming is used, each system must have—
 
-(i) A catch pan of not less than 3/4” depth secured inside the frame of the stove; or
+(i) A catch pan of not less than3/4” depth secured inside the frame of the stove; or
 
-(ii) The metal protection under the stove flanged up at least 3/4” to form a pan.
+(ii) The metal protection under the stove flanged up at least3/4” to form a pan.
 
 (2) Fuel tanks must be—
 

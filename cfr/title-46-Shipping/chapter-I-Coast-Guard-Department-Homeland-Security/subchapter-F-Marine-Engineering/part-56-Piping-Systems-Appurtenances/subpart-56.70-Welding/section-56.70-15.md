@@ -28,7 +28,7 @@
 
 (ii) Reinforcements are permitted in accordance with table 1 to § 56.70-15.
 
-(iii) Undercuts must not exceed 1/32-inch and must not encroach on the minimum required section thickness.
+(iii) Undercuts must not exceed1/32-inch and must not encroach on the minimum required section thickness.
 
 (iv) If the surface of the weld requires grinding to meet the above criteria, care must be taken to avoid reducing the weld or base material below the minimum required thickness.
 
@@ -40,9 +40,9 @@
 
 (ii) Any slag inclusion or porosity greater than specified as acceptable in PW-51 of Section I of the ASME BPVC (incorporated by reference; see § 56.01-2).
 
-(iii) Undercuts in the external surfaces of butt welds more than 1/32-inch deep.
+(iii) Undercuts in the external surfaces of butt welds more than1/32-inch deep.
 
-(iv) Concavity on the root side of full penetration girth butt welds where the resulting weld thickness is less than the minimum pipe wall thickness required by this subchapter. Weld reinforcement up to a maximum of 1/32-inch thickness may be considered as pipe wall thickness in such cases.
+(iv) Concavity on the root side of full penetration girth butt welds where the resulting weld thickness is less than the minimum pipe wall thickness required by this subchapter. Weld reinforcement up to a maximum of1/32-inch thickness may be considered as pipe wall thickness in such cases.
 
 (c) *Longitudinal butt welds.* Longitudinal butt welds in piping components not made in accordance with the standards and specifications listed in § 56.60-1 must meet the requirements of paragraph 127.4.3 of ASME B31.1 (incorporated by reference; see § 56.01-2).
 
@@ -68,7 +68,7 @@
 
 (3) The notations and symbols used in this paragraph and in Figure 127.4.8D and F of ASME B31.1 are as follows:
 
-Figure 1 to § 56.70-15(g)(3)—Acceptable Types of Welded Pipe Connections![](/graphics/er12jn24.007.gif)tn = nominal thickness of branch wall less corrosion allowance, inches.tc = the smaller of 1/4 inch or 0.7tn.te = nominal thickness of reinforcing element (ring or saddle), inches (te = 0 if there is no added reinforcement).tmin = the smaller of tn or te.tw = dimension of partial penetration weld, inches.
+Figure 1 to § 56.70-15(g)(3)—Acceptable Types of Welded Pipe Connections![](/graphics/er12jn24.007.gif)tn = nominal thickness of branch wall less corrosion allowance, inches.tc = the smaller of1/4 inch or 0.7tn.te = nominal thickness of reinforcing element (ring or saddle), inches (te = 0 if there is no added reinforcement).tmin = the smaller of tn or te.tw = dimension of partial penetration weld, inches.
 
 (4) Branch connections (including specially made, integrally reinforced branch connection fittings) that abut the outside surface of the run wall, or that are inserted through an opening cut in the run wall, shall have opening and branch contour to provide a good fit and shall be attached by means of full penetration groove welds except as otherwise permitted in paragraph (g)(7) of this section. The full penetration groove welds shall be finished with cover fillet welds having a minimum throat dimension not less than 2tc. The limitation as to imperfection of these groove welds shall be as set forth in 127.4.2(C) of ASME B31.1 for girth welds.
 
@@ -84,19 +84,19 @@ Figure 1 to § 56.70-15(g)(3)—Acceptable Types of Welded Pipe Connections![](/
 
 (h) *Heat treatment.* Heat treatment for welds shall be in accordance with subpart 56.85.
 
-|                                                             Thickness (in inches) of base metal                                                             |Maximum thickness (in inches) of reinforcement for design temperature|                                               |              |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------|--------------|
-|                                                              Below 0 °F or  <br/>above 750 °F                                                               |                           350° to 750 °F                            |0 °F and above  <br/>but less than  <br/>350 °F|              |
-|                                                                    Up to 1/8, inclusive                                                                     |                                1/16                                 |                     3/32                      |     3/16     |
-|                                                                 Over 1/8 to 3/16, inclusive                                                                 |                                1/16                                 |                      1/8                      |     3/16     |
-|                                                                 Over 3/16 to 1/2, inclusive                                                                 |                                1/16                                 |                     5/32                      |     3/16     |
-|                                                                  Over 1/2 to 1, inclusive                                                                   |                                3/32                                 |                     3/16                      |     3/16     |
-|                                                                   Over 1 to 2, inclusive                                                                    |                                 1/8                                 |                      1/4                      |     1/4      |
-|                                                                           Over 2                                                                            |                                5/32                                 |                (<sup>1</sup>)                 |(<sup>1</sup>)|
-|                                      <sup>1</sup> The greater of 1/4 in. or 1/8 times the width of the weld in inches.                                      |                                                                     |                                               |              |
-|                                                                         **Notes:**                                                                          |                                                                     |                                               |              |
-|<sup>1</sup> For double welded butt joints, this limitation on reinforcement given above applies separately to both inside and outside surfaces of the joint.|                                                                     |                                               |              |
-|              <sup>2</sup> For single welded butt joints, the reinforcement limits given above apply to the outside surface of the joint only.               |                                                                     |                                               |              |
-|                  <sup>3</sup> The thickness of weld reinforcement is based on the thickness of the thinner of the materials being joined.                   |                                                                     |                                               |              |
-|                    <sup>4</sup> The weld reinforcement thicknesses must be determined for the higher of the abutting surfaces involved.                     |                                                                     |                                               |              |
-|               <sup>5</sup> For boiler external piping use the column titled “Below 0 °F or above 750 °F” for weld reinforcement thicknesses.                |                                                                     |                                               |              |
+|                                                             Thickness (in inches) of base metal                                                             |Maximum thickness (in inches) of reinforcement for design temperature|                                               |                          |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------|--------------------------|
+|                                                              Below 0 °F or  <br/>above 750 °F                                                               |                           350° to 750 °F                            |0 °F and above  <br/>but less than  <br/>350 °F|                          |
+|                                                         Up to <sup>1</sup>⁄<sub>8</sub>, inclusive                                                          |                     <sup>1</sup>⁄<sub>16</sub>                      |          <sup>3</sup>⁄<sub>32</sub>           |<sup>3</sup>⁄<sub>16</sub>|
+|                                           Over <sup>1</sup>⁄<sub>8</sub> to <sup>3</sup>⁄<sub>16</sub>, inclusive                                           |                     <sup>1</sup>⁄<sub>16</sub>                      |           <sup>1</sup>⁄<sub>8</sub>           |<sup>3</sup>⁄<sub>16</sub>|
+|                                           Over <sup>3</sup>⁄<sub>16</sub> to <sup>1</sup>⁄<sub>2</sub>, inclusive                                           |                     <sup>1</sup>⁄<sub>16</sub>                      |          <sup>5</sup>⁄<sub>32</sub>           |<sup>3</sup>⁄<sub>16</sub>|
+|                                                       Over <sup>1</sup>⁄<sub>2</sub> to 1, inclusive                                                        |                     <sup>3</sup>⁄<sub>32</sub>                      |          <sup>3</sup>⁄<sub>16</sub>           |<sup>3</sup>⁄<sub>16</sub>|
+|                                                                   Over 1 to 2, inclusive                                                                    |                      <sup>1</sup>⁄<sub>8</sub>                      |           <sup>1</sup>⁄<sub>4</sub>           |<sup>1</sup>⁄<sub>4</sub> |
+|                                                                           Over 2                                                                            |                     <sup>5</sup>⁄<sub>32</sub>                      |                (<sup>1</sup>)                 |      (<sup>1</sup>)      |
+|                                      <sup>1</sup> The greater of 1/4 in. or 1/8 times the width of the weld in inches.                                      |                                                                     |                                               |                          |
+|                                                                         **Notes:**                                                                          |                                                                     |                                               |                          |
+|<sup>1</sup> For double welded butt joints, this limitation on reinforcement given above applies separately to both inside and outside surfaces of the joint.|                                                                     |                                               |                          |
+|              <sup>2</sup> For single welded butt joints, the reinforcement limits given above apply to the outside surface of the joint only.               |                                                                     |                                               |                          |
+|                  <sup>3</sup> The thickness of weld reinforcement is based on the thickness of the thinner of the materials being joined.                   |                                                                     |                                               |                          |
+|                    <sup>4</sup> The weld reinforcement thicknesses must be determined for the higher of the abutting surfaces involved.                     |                                                                     |                                               |                          |
+|               <sup>5</sup> For boiler external piping use the column titled “Below 0 °F or above 750 °F” for weld reinforcement thicknesses.                |                                                                     |                                               |                          |

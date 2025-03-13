@@ -34,7 +34,7 @@
 
 (3) A clear and complete statement of the services to be provided under the contract, such as technical assistance, managerial assistance, counseling, certification assistance, and follow-up procedures as set forth in § 230.204(b) of this part;
 
-(4) The nondiscrimination provisions required by Title VI of the Civil Rights Act of 1964 as set forth in Form FHWA-1273, Required Contract Provisions, Federal-Aid Construction Contracts, 1 and a statement of nondiscrimination in employment because of race, color, religion, sex, or national origin;
+(4) The nondiscrimination provisions required by Title VI of the Civil Rights Act of 1964 as set forth in Form FHWA-1273, Required Contract Provisions, Federal-Aid Construction Contracts,1 and a statement of nondiscrimination in employment because of race, color, religion, sex, or national origin;
 
 1 Form FHWA-1273 is available for inspection and copying at the locations given in 49 CFR part 7, appendix D, under Document Inspection Facilities, and at all State highway agencies.
 

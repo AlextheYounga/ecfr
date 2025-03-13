@@ -14,11 +14,11 @@ State of \_\_\_\_\_\_\_\_ County of \_\_\_\_\_\_\_\_ Social Security Number: \_\
 
 2. That I am authorized by and in behalf of the Corporation to execute and deliver this Affidavit of U.S. Citizenship;
 
-3. That the names of the Chief Executive Officer, by whatever title, the Chairman of the Board of Directors, all Vice Presidents or other individuals who are authorized to act in the absence or disability of the Chief Executive Officer or Chairman of the Board of Directors, and the Directors of the Corporation are as follows: 1
+3. That the names of the Chief Executive Officer, by whatever title, the Chairman of the Board of Directors, all Vice Presidents or other individuals who are authorized to act in the absence or disability of the Chief Executive Officer or Chairman of the Board of Directors, and the Directors of the Corporation are as follows:1
 
 1 Offices that are currently vacant should be noted when listing Ofifcers and Directors in the Affidavit.
 
-Name Title Date and Place of Birth (The foregoing list should include the officers, whether or not they are also directors, and all directors, whether or not they are also officers.) Each of said individuals is a Citizen of the United States by virtue of birth in the United States, birth abroad of U.S. citizen parents, by naturalization, by naturalization during minority through the naturalization of a parent, by marriage (if a woman) to a U.S. citizen prior to September 22, 1922, or as otherwise authorized by law, except (give name and nationality of all Non-Citizen officers and directors, if any). The By-laws of the Corporation provide that \_\_\_\_ (Number) of the directors are necessary to constitute a quorum; therefore, the Non-Citizen directors named represent no more than a minority of the number necessary to constitute a quorum.
+Name TitleDate and Place of Birth(The foregoing list should include the officers, whether or not they are also directors, and all directors, whether or not they are also officers.) Each of said individuals is a Citizen of the United States by virtue of birth in the United States, birth abroad of U.S. citizen parents, by naturalization, by naturalization during minority through the naturalization of a parent, by marriage (if a woman) to a U.S. citizen prior to September 22, 1922, or as otherwise authorized by law, except (give name and nationality of all Non-Citizen officers and directors, if any). The By-laws of the Corporation provide that \_\_\_\_ (Number) of the directors are necessary to constitute a quorum; therefore, the Non-Citizen directors named represent no more than a minority of the number necessary to constitute a quorum.
 
 4. Information as to stock, where Corporation has 30 or more stockholders:
 
@@ -38,7 +38,7 @@ If a corporate stockholder, give information with respect to State of incorporat
 
 5. That 75% of the interest in (each) said Corporation, as established by the information hereinbefore set forth, is owned by Citizens of the United States; that the title to 75% of the stock of (each) class of the stock of (each) said Corporation is vested in Citizens of the United States free from any trust or fiduciary obligation in favor of any person not a Citizen of the United States; that such proportion of the voting power of (each) said Corporation is vested in Citizens of the United States; that through no contract or understanding is it so arranged that more than 25% the voting power of (each) said Corporation may be exercised, directly or indirectly, in behalf of any person who is not a Citizen of the United States; and that by no means whatsoever, is any interest in said Corporation in excess of 25% conferred upon or permitted to be exercised by any person who is not a Citizen of the United States; and
 
- or [Note: An entity that is required to comply with the controlling interest requirements of section 2(b) of the Shipping Act, 1916, 46 App. U.S.C. § 802(b), should use the following alternate paragraph (5) and strike the inapplicable paragraph (5).]
+ or[Note: An entity that is required to comply with the controlling interest requirements of section 2(b) of the Shipping Act, 1916, 46 App. U.S.C. § 802(b), should use the following alternate paragraph (5) and strike the inapplicable paragraph (5).]
 
 5. That the Controlling Interest in (each) said Corporation, as established by the information hereinbefore set forth, is owned by Citizens of the United States; that the title to a majority of the stock of (each) said Corporation is vested in Citizens of the United States free from any trust or fiduciary obligation in favor of any person not a Citizen of the United States; that such proportion of the voting power of (each) said Corporation is vested in Citizens of the United States; that through no contract or understanding is it so arranged that the majority of the voting power of (each) said Corporation may be exercised, directly or indirectly, in behalf of any person who is not a Citizen of the United States; and that by no means whatsoever, is control of (each) said Corporation conferred upon or permitted to be exercised by any person who is not a Citizen of the United States; and
 
@@ -53,7 +53,7 @@ If a corporate stockholder, give information with respect to State of incorporat
 
 7. That affiant has carefully examined this affidavit and asserts that all of the statements and representations contained therein are true to the best of his knowledge, information, and belief.
 
-(Name and title of affiant) (Signature of affiant) Date
+(Name and title of affiant)(Signature of affiant)Date
 
 Penalty for False Statement: A fine or imprisonment, or both, are provided for violation of the proscriptions contained in 18 U.S.C. § 1001 (see also, 18 U.S.C. §§ 286, 287).
 

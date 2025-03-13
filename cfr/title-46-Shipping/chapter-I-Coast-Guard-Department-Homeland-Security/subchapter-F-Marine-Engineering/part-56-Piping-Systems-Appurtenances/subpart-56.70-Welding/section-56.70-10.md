@@ -10,7 +10,7 @@
 
 (2) *Cleaning.* Surfaces for welding must be clean and must be free from paint, oil, rust, scale, or other material which is detrimental to welding.
 
-(3) *Alignment.* The inside diameters of piping components to be joined must be aligned as accurately as practicable. Alignment must be preserved during welding. Where ends are to be joined and the internal misalignment exceeds 1/16-inch, it is preferred that the component with the wall extending internally be internally trimmed (see Fig. 127.3) so that adjoining internal surfaces are approximately flush. However, this trimming must not reduce a piping component wall thickness below the minimum design thickness and the change in the contour may not exceed 30°.
+(3) *Alignment.* The inside diameters of piping components to be joined must be aligned as accurately as practicable. Alignment must be preserved during welding. Where ends are to be joined and the internal misalignment exceeds1/16-inch, it is preferred that the component with the wall extending internally be internally trimmed (see Fig. 127.3) so that adjoining internal surfaces are approximately flush. However, this trimming must not reduce a piping component wall thickness below the minimum design thickness and the change in the contour may not exceed 30°.
 
 (4) *Spacing.* The root opening of the joint must be as given in the procedure specification.
 

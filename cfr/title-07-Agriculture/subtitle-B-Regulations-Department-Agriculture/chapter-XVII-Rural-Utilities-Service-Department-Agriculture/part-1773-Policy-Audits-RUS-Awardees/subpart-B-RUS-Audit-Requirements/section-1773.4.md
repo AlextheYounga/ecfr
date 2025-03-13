@@ -1,5 +1,7 @@
 ##### § 1773.4 Auditee's responsibilities. #####
 
+Link to an amendment published at 89 FR 88634, Nov. 8, 2024.
+
 (a) *Selection of a qualified auditor.* The auditee's governance board is responsible for the selection of a qualified auditor that meets the requirements set forth in § 1773.5. When selecting an auditor, the auditee should consider, among other matters:
 
 (1) The qualifications of auditors available to do the work;

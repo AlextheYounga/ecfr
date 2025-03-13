@@ -1,5 +1,7 @@
 ##### § 1773.32 Reports on internal control; compliance with provisions of laws, regulations, contracts, and grant agreements; and instances of fraud. #####
 
+Link to an amendment published at 89 FR 88635, Nov. 8, 2024.
+
 (a) As required by GAGAS, the auditor must prepare a written report describing the scope of the auditor's testing of internal control over financial reporting and of compliance with provisions of laws, regulations, contracts, and grant agreements, and that the tests provided sufficient, appropriate evidence to support opinions on the effectiveness of internal control and on compliance with provisions of laws, regulations, contracts, and grant agreements. This report must include the manual, printed or digital signature of the audit firm and must include the following items as appropriate:
 
 (1) Significant deficiencies and material weaknesses in internal control;

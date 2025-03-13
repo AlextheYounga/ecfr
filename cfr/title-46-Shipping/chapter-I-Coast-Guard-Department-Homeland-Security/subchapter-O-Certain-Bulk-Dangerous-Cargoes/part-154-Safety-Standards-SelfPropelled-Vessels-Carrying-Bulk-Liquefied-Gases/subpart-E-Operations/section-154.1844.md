@@ -6,6 +6,6 @@
 
 (2) In excess of the volume determined under the following formula:
 
-![](/graphics/ec02fe91.089.gif)where: VL = maximum volume to which the tank may be loaded; V = volume of the tank; dr = density at the reference temperature specified in paragraph (b) of this section; and dL = density of the cargo at the loading temperature and pressure.
+![](/graphics/ec02fe91.089.gif)where:VL = maximum volume to which the tank may be loaded;V = volume of the tank;dr = density at the reference temperature specified in paragraph (b) of this section; anddL = density of the cargo at the loading temperature and pressure.
 
 (b) The reference temperature to be used in paragraph (a)(2) of this section is the temperature corresponding to the vapor pressure of the cargo at the set pressure of the pressure relief valves.

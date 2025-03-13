@@ -6,7 +6,7 @@ Under the authority delegated by the Secretary of Transportation in 49 CFR 1.46(
 
 (b) Materials listed in Table 151.05.
 
-(c) Materials listed in Table 1. 1
+(c) Materials listed in Table 1.1
 
 1 Those hazardous material cargoes designated Category A, B, C, or D in Table 1 are also Noxious Liquid Substances under Annex II and the Act to Prevent Pollution from Ships, 33 U.S.C. 1901 *et seq.*
 
@@ -22,7 +22,7 @@ Under the authority delegated by the Secretary of Transportation in 49 CFR 1.46(
 
 (3) Listed or within any of the definitions in subparts C through O of 49 CFR part 173.
 
-(g) Those liquid, liquefied gas, and compressed gas materials designated as hazardous in the permissions granted under § 153.900(c). 2
+(g) Those liquid, liquefied gas, and compressed gas materials designated as hazardous in the permissions granted under § 153.900(c).2
 
 2 The Coast Guard continues to propose in the Federal Register any addition of these designated hazardous materials to one of the tables referred to in paragraphs (a) through (d).
 

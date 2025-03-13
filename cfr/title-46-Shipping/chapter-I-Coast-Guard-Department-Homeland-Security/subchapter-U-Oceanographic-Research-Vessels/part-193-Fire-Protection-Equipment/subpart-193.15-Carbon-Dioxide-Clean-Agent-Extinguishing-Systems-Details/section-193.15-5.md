@@ -8,7 +8,7 @@
 
 (2) In addition to the amount required by paragraph (c)(1) of this section there shall be sufficient carbon dioxide available to permit delayed discharges of such quantity as to maintain at least a 25-percent concentration until the equipment can be stopped. If the initial discharge is such as to achieve this concentration until the equipment is stopped, no delayed discharge need be provided.
 
-(3) The piping for the delayed discharge shall not be less than 1/2-inch standard pipe, and no specific discharge rate need be applied to such systems. On small systems, this pipe may be incorporated with the initial discharge piping.
+(3) The piping for the delayed discharge shall not be less than1/2-inch standard pipe, and no specific discharge rate need be applied to such systems. On small systems, this pipe may be incorporated with the initial discharge piping.
 
 (4) The piping for the initial charge shall be in accordance with Table 193.15-5(d)(4), and the discharge of the required amount shall be completed within 2 minutes.
 

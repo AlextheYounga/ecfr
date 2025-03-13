@@ -1,5 +1,7 @@
 ##### § 1773.3 Annual audit. #####
 
+Link to an amendment published at 89 FR 88634, Nov. 8, 2024.
+
 (a) Each auditee must have its financial statements audited annually by an auditor selected by the auditee and approved by RUS as set forth in § 1773.4. All auditees, except those subject to the Single Audit Act, must submit audited financial statements on a comparative basis covering at least two consecutive 12-month periods, unless the entity has not been in existence for two consecutive 12-month audit periods. Financial statements should be prepared in accordance with GAAP, or if prepared using a special purpose framework, reconciling schedules should be included. Audits of consolidated financial statements of the parent are not an acceptable replacement for an audit of the auditee.
 
 (b) Each auditee must establish an annual audit date within 12 months of the date of the first advance and must prepare annual financial statements for the audit date established. Each auditee must notify RUS of the audit date at least 90 days prior to the selected audit date.

@@ -8,7 +8,7 @@
 
 (3) States and other Federal agencies shall adopt changes issued by the FHWA to the National MUTCD within two years from the effective date of the final rule. For those States that automatically adopt the MUTCD immediately upon the effective date of the latest edition or revision of the MUTCD, the FHWA Division Administrators have the flexibility to allow these States to install certain devices from existing inventory or previously approved construction plans that comply with the previous MUTCD during the two-year adoption period.
 
-(c) *Color specifications.* Color determinations and specifications of sign and pavement marking materials shall conform to requirements of the FHWA Color Tolerance Charts. 1 An alternate method of determining the color of retroreflective sign material is provided in the appendix.
+(c) *Color specifications.* Color determinations and specifications of sign and pavement marking materials shall conform to requirements of the FHWA Color Tolerance Charts.1 An alternate method of determining the color of retroreflective sign material is provided in the appendix.
 
 1 Available for inspection from the Office of Traffic Operations, Federal Highway Administration, 1200 New Jersey Avenue, SE., Washington, DC.
 

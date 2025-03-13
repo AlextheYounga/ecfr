@@ -16,6 +16,6 @@ The master or person in charge of a self-propelled unit shall ensure that the un
 
 (g) Current Tables.
 
-(h) All other nautical publications necessary. 1
+(h) All other nautical publications necessary.1
 
 1Note: For U.S. units in or on the navigable waters of the United States. See 33 CFR 164.33.

@@ -1,7 +1,5 @@
 ##### § 571.213 Child restraint systems; Applicable unless a vehicle or child restraint system is certified to § 571.213b. #####
 
-Link to an amendment published at 89 FR 81844, Oct. 9, 2024.
-
 S1. *Scope.* This standard specifies requirements for child restraint systems used in motor vehicles and aircraft.
 
 S2. *Purpose.* The purpose of this standard is to reduce the number of children killed or injured in motor vehicle crashes and in aircraft.
@@ -36,7 +34,7 @@ S4. *Definitions.*
 
 *Representative aircraft passenger seat* means either a Federal Aviation Administration approved production aircraft passenger seat or a simulated aircraft passenger seat conforming to Figure 6.
 
-*School bus child restraint system* means an add-on child restraint system (including a harness) manufactured and sold only for use on school bus seats, that has a label conforming with S5.3.1(b). (This definition applies to child restraint systems manufactured on or after December 5, 2024.)
+*School bus child restraint system* means an add-on child restraint system (including a harness) manufactured and sold only for use on school bus seats, that has a label conforming with S5.3.1(b). (This definition applies to child restraint systems manufactured on or after June 30, 2025.)
 
 *Seat orientation reference line* or *SORL* means the horizontal line through Point Z as illustrated in Figure 1A.
 
@@ -76,7 +74,7 @@ S5.1 *Dynamic performance.*
 
 S5.1.1 *Child restraint system integrity.* When tested in accordance with S6.1, each child restraint system shall meet the requirements of paragraphs (a) through (c) of this section.
 
-(a) Exhibit no complete separation of any load bearing structural element and no partial separation exposing either surfaces with a radius of less than1/4 inch or surfaces with protrusions greater than3/8 inch above the immediate adjacent surrounding contactable surface of any structural element of the system.
+(a) Exhibit no complete separation of any load bearing structural element and no partial separation exposing either surfaces with a radius of less than 6 mm or surfaces with protrusions greater than 9 mm above the immediate adjacent surrounding contactable surface of any structural element of the system.
 
 (b)(1) If adjustable to different positions, remain in the same adjustment position during the testing that it was in immediately before the testing, except as otherwise specified in paragraph (b)(2).
 
@@ -184,7 +182,7 @@ S5.2.2.2 Each forward-facing child restraint system shall have no fixed or movab
 
 S5.2.3 [Reserved]
 
-S5.2.4 *Protrusion limitation.* Any portion of a rigid structural component within or underlying a contactable surface, or any portion of a child restraint system surface that is subject to the requirements of S5.2.3 shall, with any padding or other flexible overlay material removed, have a height above any immediately adjacent restraint system surface of not more than3/8 inch and no exposed edge with a radius of less than1/4 inch.
+S5.2.4 *Protrusion limitation.* Any portion of a rigid structural component within or underlying a contactable surface, or any portion of a child restraint system surface that is subject to the requirements of S5.2.3 shall, with any padding or other flexible overlay material removed, have a height above any immediately adjacent restraint system surface of not more than 9 mm and no exposed edge with a radius of less than 6 mm.
 
 S5.3 *Installation.*
 
@@ -214,7 +212,7 @@ S5.3.2 Each add-on child restraint system shall be capable of meeting the requir
 |                       Belt-positioning seats                        |                                                            |                                                              |                          |       X       |   |
 |                     All other child restraints                      |                             X                              |                              X                               |            X             |               |   |
 
-S5.3.2.1 School bus child restraint systems manufactured on or after December 5, 2024, shall be capable of meeting the requirements of this standard when installed by seat back mount, or, seat back mount and seat pan mount.
+S5.3.2.1 School bus child restraint systems manufactured on or after June 30, 2025, shall be capable of meeting the requirements of this standard when installed by seat back mount, or, seat back mount and seat pan mount.
 
 S5.3.3 *Car beds.* Each car bed shall be designed to be installed on a vehicle seat so that the car bed's longitudinal axis is perpendicular to a vertical longitudinal plane through the longitudinal axis of the vehicle.
 
@@ -314,7 +312,7 @@ S5.5.2 The information specified in paragraphs (a) through (m) of this section s
 
 (e) The statement: “This child restraint system conforms to all applicable Federal motor vehicle safety standards.”
 
-(f) For child restraint systems manufactured before December 5, 2024, paragraph (f)(1) of this section applies. For child restraint systems manufactured on or after December 5, 2024, paragraph (f)(2) of this section applies.
+(f) For child restraint systems manufactured before June 30, 2025, paragraph (f)(1) of this section applies. For child restraint systems manufactured on or after June 30, 2025, paragraph (f)(2) of this section applies.
 
 (1) One of the following statements, as appropriate, inserting the manufacturer's recommendations for the maximum mass of children who can safely occupy the system, except that booster seats shall not be recommended for children whose masses are less than 13.6 kg. For child restraint systems that can only be used as belt-positioning seats, manufacturers must include the maximum and minimum recommended height, but may delete the reference to weight:
 
@@ -326,15 +324,15 @@ S5.5.2 The information specified in paragraphs (a) through (m) of this section s
 
 (iv) Use only with children who weigh between \_\_ and \_\_ pounds (*insert appropriate English and metric values; use of word “mass” is optional*) and whose height is between \_\_ and \_\_ (*insert appropriate values in English and metric units*).
 
-(2) For child restraint systems manufactured on or after December 5, 2024: Statements or a combination of statements and pictograms specifying the manufacturer's recommendations for the mass and height ranges (in English and metric units) of children who can safely occupy the system in each applicable mode (rear-facing, forward-facing, booster), except manufacturers shall not recommend forward-facing use for child restraint systems with internal harnesses for children of masses less than 12 kg (26.5 lb), and shall not recommend booster seats for children of masses less than 18.4 kg (40 lb).
+(2) For child restraint systems manufactured on or after June 30, 2025: Statements or a combination of statements and pictograms specifying the manufacturer's recommendations for the mass and height ranges (in English and metric units) of children who can safely occupy the system in each applicable mode (rear-facing, forward facing, booster), except manufacturers shall not recommend forward-facing use for child restraint systems with internal harnesses for children of masses less than 12 kg (26.5 lb), and shall not recommend booster seats for children of masses less than 18 kg (40 lb).
 
 (g) The statements specified in paragraphs (1) and (2):
 
 (1) A heading as specified in S5.5.2(k)(3)(i), with the statement “WARNING! DEATH or SERIOUS INJURY can occur,” capitalized as written and followed by bulleted statements in the following order:
 
-(i) As appropriate, the statements required by the following sections will be bulleted and placed after the statement required by 5.5.2(g)(1) in the following order: 5.5.2(k)(1), 5.5.2(h), 5.5.2(j), and 5.5.2(i). For child restraint systems manufactured on or after December 5, 2024, the statements required by 5.5.2(f) and 5.5.2(k)(2) need not be included.
+(i) As appropriate, the statements required by the following sections will be bulleted and placed after the statement required by 5.5.2(g)(1) in the following order: 5.5.2(k)(1), 5.5.2(h), 5.5.2(j), and 5.5.2(i). For child restraint systems manufactured on or after June 30, 2025, the statements required by 5.5.2(f) and 5.5.2(k)(2) need not be included.
 
-(ii) Secure this child restraint with the vehicle's child restraint anchorage system, if available, or with a vehicle belt. [For car beds, harnesses, and belt positioning seats, the first part of the statement regarding attachment by the child restraint anchorage system is optional.] [For belt-positioning seats, the second part of the statement regarding attachment by the vehicle belt does not apply.] [For child restraints manufactured from February 27, 2014 to February 26, 2015, the following statement applies.] Child restraint systems equipped with internal harnesses to restrain the child and with components to attach to a child restraint anchorage system and for which the combined weight of the child restraint system and the maximum recommended child weight for use with internal harnesses exceeds 65 pounds, must be labeled with the following statement: “Do not use the lower anchors of the child restraint anchorage system (LATCH system) to attach this child restraint when restraining a child weighing more than \* [\*insert a recommended weight value in English and metric units such that the sum of the recommended weight value and the weight of the child restraint system does not exceed 65 pounds (29.5 kg)] with the internal harnesses of the child restraint.”
+(ii) Secure this child restraint with the vehicle's child restraint anchorage system, if available, or with a vehicle belt. [For car beds, harnesses, and belt positioning seats, the first part of the statement regarding attachment by the child restraint anchorage system is optional.] [For belt-positioning seats, the second part of the statement regarding attachment by the vehicle belt does not apply.]
 
 (iii) Follow all instructions on this child restraint and in the written instructions located (*insert storage location on the restraint for the manufacturer's installation instruction booklet or sheet*).
 
@@ -376,7 +374,7 @@ S5.5.2 The information specified in paragraphs (a) through (m) of this section s
 
 (1) A seating position equipped with a continuous-loop lap/shoulder belt;
 
-(2)[Reserved]
+(2) A seating position equipped with only a lap belt, as specified in the manufacturer's instructions; and
 
 (3) A seating position equipped with a child restraint anchorage system. For child restraint systems manufactured on or after February 27, 2015, the following paragraphs (l)(3)(i) and (ii) apply, as appropriate.
 
@@ -492,13 +490,13 @@ S5.6.1.5 The instructions shall state that add-on child restraint systems should
 
 S5.6.1.6 Each add-on child restraint system shall have a location on the restraint for storing the manufacturer's instructions.
 
-S5.6.1.7 (a) For child restraint systems manufactured before December 5, 2024, one of the following statements, inserting an address and a U.S. telephone number. If a manufacturer opts to provide a website on the registration card as permitted in Figure 9a of this section, the manufacturer must include the statement in paragraph S5.6.1.7(a)(2):
+S5.6.1.7 (a) For child restraint systems manufactured before June 30, 2025, one of the following statements, inserting an address and a U.S. telephone number. If a manufacturer opts to provide a website on the registration card as permitted in Figure 9a of this section, the manufacturer must include the statement in paragraph S5.6.1.7(a)(2):
 
 (1) “Child restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, email address if available (preceding four words are optional), and the restraint's model number and manufacturing date to (*insert address*) or call (*insert a U.S. telephone number*). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to *www.NHTSA.gov.*”
 
 (2) “Child restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, email address if available (preceding four words are optional), and the restraint's model number and manufacturing date to (*insert address*) or call (*insert telephone number*) or register online at (*insert website for electronic registration form*). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to *www.NHTSA.gov.*”
 
-(b) For child restraint systems manufactured on or after December 5, 2024, the child restraint system shall include statements informing the owner of the importance of registering the child restraint for recall purposes and instructing the owner how to register the child restraint at least by mail and by telephone, providing a U.S. telephone number. The following statement must also be provided: “For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to *www.NHTSA.gov.*”
+(b) For child restraint systems manufactured on or after June 30, 2025, the child restraint system shall include statements informing the owner of the importance of registering the child restraint for recall purposes and instructing the owner how to register the child restraint at least by mail and by telephone, providing a U.S. telephone number. The following statement must also be provided: “For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to *www.NHTSA.gov.”*
 
 S5.6.1.8 In the case of each child restraint system that can be used in a position so that it is facing the rear of the vehicle, the instructions shall provide a warning against using rear-facing restraints at seating positions equipped with air bags, and shall explain the reasons for, and consequences of not following the warning. The instructions shall also include a statement that owners of vehicles with front passenger side air bags should refer to their vehicle owner's manual for child restraint installation instructions.
 
@@ -516,13 +514,9 @@ S5.6.1.10(a) For instructions for a booster seat that is recommended for use wit
 
 (c) The instructions for belt-positioning seats shall include the statement, “This restraint is not certified for aircraft use,” and the reasons for this statement.
 
-S5.6.1.11 (a) For harnesses that are manufactured before December 5, 2024, for use on school bus seats, the instructions must include the following statement:
+S5.6.1.11 (a) For harnesses that are manufactured before June 30, 2025, for use on school bus seats, the instructions must include the following statement: “WARNING! This restraint must only be used on school bus seats. Entire seat directly behind must be unoccupied or have restrained occupants.” The labeling requirement refers to a restrained occupant as: an occupant restrained by any user appropriate vehicle restraint or child restraint system (*e.g.,* lap belt, lap and shoulder belt, booster, child seat, harness . . .).
 
-“WARNING! This restraint must only be used on school bus seats. Entire seat directly behind must be unoccupied or have restrained occupants.” The labeling requirement refers to a restrained occupant as: an occupant restrained by any user appropriate vehicle restraint or child restraint system (*e.g.,* lap belt, lap and shoulder belt, booster, child seat, harness . . .).
-
-(b) For school bus child restraint systems manufactured on or after December 5, 2024, the instructions must include the following statement:
-
-“WARNING! This restraint must only be used on school bus seats. Entire seat directly behind must be unoccupied or have restrained occupants.” (The instruction's reference to a “restrained occupant” refers to an occupant restrained by any user-appropriate vehicle restraint or child restraint system (*e.g.,* lap belt, lap and shoulder belt, booster seat or other child restraint system.)
+(b) For school bus child restraint systems manufactured on or after June 30, 2025, the instructions must include the following statement: “WARNING! This restraint must only be used on school bus seats. Entire seat directly behind must be unoccupied or have restrained occupants.” (The instruction's reference to a “restrained occupant” refers to an occupant restrained by any user-appropriate vehicle restraint or child restraint system (*e.g.,* lap belt, lap and shoulder belt, booster seat or other child restraint system.)
 
 S5.6.1.12 (a) *Child restraint systems manufactured from February 27, 2014 to February 26, 2015.* The instructions for child restraint systems equipped with an internal harness to restrain the child and with components to attach to a child restraint anchorage system, and for which the combined weight of the child restraint system and the maximum recommended child weight for use with the internal harness exceeds 65 pounds, must include the following statement: “Do not use the lower anchors of the child restraint anchorage system (LATCH system) to attach this child restraint when restraining a child weighing more than “\*” [\*insert a recommended weight value in English and metric units such that the sum of the recommended weight value and the weight of the child restraint system does not exceed 65 pounds (29.5 kg)] with the internal harness of the child restraint.”
 
@@ -534,13 +528,13 @@ S5.6.2 *Built-in child restraint systems.* (a) Each built-in child restraint sys
 
 S5.6.2.1 The instructions shall explain the primary consequences of not following the manufacturer's warnings for proper use of the child restraint system in accordance with S5.5.5 (f) through (i).
 
-S5.6.2.2 (a) For child restraint systems manufactured before December 5, 2024, the instructions for each built-in child restraint system other than a factory-installed restraint, shall include one of the following statements, inserting an address and a U.S. telephone number. If a manufacturer opts to provide a website on the registration card as permitted in Figure 9a of this section, the manufacturer must include the statement in S5.6.2.2(a)(2):
+S5.6.2.2 (a) For child restraint systems manufactured before June 30, 2025, the instructions for each built in child restraint system other than a factory-installed restraint, shall include one of the following statements, inserting an address and a U.S. telephone number. If a manufacturer opts to provide a website on the registration card as permitted in Figure 9a of this section, the manufacturer must include the statement in S5.6.2.2(a)(2):
 
 (1) “Child restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, email address if available (preceding four words are optional), and the restraint's model number and manufacturing date to (*insert address*) or call (*insert a U.S. telephone number*). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to *www.NHTSA.gov.*”
 
 (2) “Child restraints could be recalled for safety reasons. You must register this restraint to be reached in a recall. Send your name, address, email address if available (preceding four words are optional), and the restraint's model number and manufacturing date to (*insert address*) or call (insert U.S. telephone number) or register online at (*insert website for electronic registration form*). For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to *www.NHTSA.gov.*”
 
-(b) For child restraint systems manufactured on or after December 5, 2024, the instructions for each built-in child restraint system other than a factory-installed restraint shall include statements informing the owner of the importance of registering the child restraint for recall purposes and instructing the owner how to register the child restraint at least by mail and by telephone, providing a U.S. telephone number. The following statement must also be provided: “For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to *www.NHTSA.gov.*”
+(b) For child restraint systems manufactured on or after June 30, 2025, the instructions for each built-in child restraint system other than a factory-installed restraint shall include statements informing the owner of the importance of registering the child restraint for recall purposes and instructing the owner how to register the child restraint at least by mail and by telephone, providing a U.S. telephone number. The following statement must also be provided: “For recall information, call the U.S. Government's Vehicle Safety Hotline at 1-888-327-4236 (TTY: 1-800-424-9153), or go to *www.NHTSA.gov.”*
 
 S5.6.2.3. Each built-in child restraint system other than a factory-installed built-in restraint, shall have a location on the restraint for storing the instructions.
 
@@ -554,7 +548,7 @@ S5.7 *Flammability.* Each material used in a child restraint system shall confor
 
 S5.8 Information requirements—attached registration form and electronic registration form.
 
-S5.8.1 *Attached registration form.* (a) For child restraint systems manufactured before December 5, 2024, each child restraint system, except a factory-installed built-in restraint system, shall have a registration form attached to any surface of the restraint that contacts the dummy when the dummy is positioned in the system in accordance with S6.1.2 of Standard 213.
+S5.8.1 *Attached registration form.* (a) For child restraint systems manufactured before June 30, 2025, each child restraint system, except a factory-installed built-in restraint system, shall have a registration form attached to any surface of the restraint that contacts the dummy when the dummy is positioned in the system in accordance with S6.1.2 of Standard 213.
 
 (b) Each attached form shall:
 
@@ -568,7 +562,7 @@ S5.8.1 *Attached registration form.* (a) For child restraint systems manufacture
 
 (d) Manufacturers may voluntarily provide a web address on the informational card enabling owners to register child restraints online, provided that the Web address is a direct link to the electronic registration form meeting the requirements of S5.8.2 of this section.
 
-S5.8.1.1 *Upgraded attached registration form.* For child restraint systems manufactured on or after December 5, 2024, each child restraint system, except a factory-installed built-in restraint system, shall have a registration form attached to any surface of the restraint that contacts the dummy when the dummy is positioned in the system in accordance with S6.1.2 of Standard 213. The form shall not have advertising or any information other than that related to registering the child restraint system.
+S5.8.1.1 *Upgraded attached registration form.* For child restraint systems manufactured on or after June 30, 2025, each child restraint system, except a factory-installed built-in restraint system, shall have a registration form attached to any surface of the restraint that contacts the dummy when the dummy is positioned in the system in accordance with S6.1.2 of Standard 213. The form shall not have advertising or any information other than that related to registering the child restraint system.
 
 (a) Each attached registration form shall provide a mail-in postcard that conforms in size, and in basic content and format to the forms depicted in Figures 9a' and 9b' of this section.
 
@@ -596,7 +590,7 @@ S5.8.1.1 *Upgraded attached registration form.* For child restraint systems manu
 
 (5) Manufacturers may optionally provide statements to the owner explaining that the registration card is not a warranty card, and that the information collected from the owner will not be used for marketing purposes
 
-S5.8.2 *Electronic registration form.* (a) Each electronic registration form provided for child restraint systems manufactured before December 5, 2024, shall:
+S5.8.2 *Electronic registration form.* (a) Each electronic registration form provided for child restraint systems manufactured before June 30, 2025, shall:
 
 (1) Contain the following statements at the top of the form:
 
@@ -920,4 +914,6 @@ S10.2.3 *Hybrid III 6-year-old in belt-positioning seats, Hybrid III weighted 6-
 
 (2) Rotate each dummy arm downwards in the plane parallel to the dummy's midsagittal plane until the arm contacts a surface of the child restraint system or the standard seat assembly, in the case of an add-on system, or the specific vehicle shell or specific vehicle, in the case of a built-in system, as appropriate. Position the arms, if necessary, so that the arm placement does not inhibit torso or head movement in tests conducted under S6.
 
-![](/graphics/er18jn03.012.gif)![](/graphics/er05mr99.001.gif)![](/graphics/er31au99.012.gif)![](/graphics/er31au99.013.gif)![](/graphics/ec01au91.100.gif)![](/graphics/ec01au91.101.gif)![](/graphics/er18jn03.013.gif)![](/graphics/ec01au91.102.gif)![](/graphics/ec01au91.103.gif)![](/graphics/ec01au91.104.gif)![](/graphics/ec01au91.105.gif)![](/graphics/ec01au91.106.gif)![](/graphics/ec01au91.107.gif)![](/graphics/er09se05.000.gif)![](/graphics/er05de23.005.gif)Figure 9a-2 to § 571.213![](/graphics/er09se05.001.gif)![](/graphics/er05de23.006.gif)Figure 9b-2 to § 571.213![](/graphics/er27no96.014.gif)![](/graphics/er05mr99.004.gif)![](/graphics/er09mr04.023.gif)![](/graphics/er27fe12.001.gif)![](/graphics/er27fe12.002.gif)[44 FR 72147, Dec. 13, 1979]Editorial Note:For Federal Register citations affecting § 571.213, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+![](/graphics/er18jn03.012.gif)![](/graphics/er05mr99.001.gif)![](/graphics/er31au99.012.gif)![](/graphics/er31au99.013.gif)![](/graphics/ec01au91.100.gif)![](/graphics/ec01au91.101.gif)![](/graphics/er18jn03.013.gif)![](/graphics/ec01au91.102.gif)![](/graphics/ec01au91.103.gif)![](/graphics/ec01au91.104.gif)![](/graphics/ec01au91.105.gif)![](/graphics/ec01au91.106.gif)![](/graphics/ec01au91.107.gif)![](/graphics/er09se05.000.gif)![](/graphics/er05de23.005.gif)Figure 9a-2 to § 571.213![](/graphics/er09se05.001.gif)![](/graphics/er05de23.006.gif)Figure 9b-2 to § 571.213![](/graphics/er27no96.014.gif)![](/graphics/er05mr99.004.gif)![](/graphics/er09mr04.023.gif)![](/graphics/er27fe12.001.gif)![](/graphics/er27fe12.002.gif)[44 FR 72147, Dec. 13, 1979]Editorial Notes:1. For Federal Register citations affecting § 571.213, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+
+2. At 89 FR 81844, Oct. 9, 2024, § 571.213 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.

@@ -4,7 +4,7 @@
 
 (b) *Composite materials.* When the hull, bulkheads, decks, deckhouse, or superstructure of a vessel is partially or completely constructed of a composite material, including fiber reinforced plastic, the resin used must be fire retardant and meet as accepted by the Commandant as meeting NPFC MIL-R-21607E(SH) (incorporated by reference, see 46 CFR 175.600). Resin systems that have not been accepted as meeting NPFC MIL-R-21607E(SH) may be accepted as fire retardant if they have an ASTM E-84 flame spread rating of not more than 100 when tested in laminate form. The laminate submitted for testing the resin system to ASTM E-84 must meet the following requirements:
 
-(1) The test specimen laminate total thickness must be between 3.2 and 6.4 millimeters (1/8 to 1/4 inch).
+(1) The test specimen laminate total thickness must be between 3.2 and 6.4 millimeters (1/8 to1/4 inch).
 
 (2) The test specimen laminate must be reinforced with glass fiber of any form and must have a minimum resin content of 40 percent by weight.
 
