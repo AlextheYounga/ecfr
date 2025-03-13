@@ -1,7 +1,5 @@
 ##### § 619.9146 Farm Credit institutions. #####
 
-Link to an amendment published at 88 FR 82244, Nov. 24, 2023.
+Except as otherwise defined, the term *Farm Credit institutions* refers to all institutions identified in section 1.2 of the Act and are chartered and regulated by the Farm Credit Administration but excludes bridge System banks chartered by the Farm Credit Administration Board pursuant to section 5.61C(h)(2) of the Act.
 
-Except as otherwise defined, the term *Farm Credit institutions* refers to all institutions chartered and regulated by the Farm Credit Administration as described in section 1.2 of the Act, and to the Funding Corporation.
-
-[55 FR 24889, June 19, 1990, as amended at 56 FR 2675, Jan. 24, 1991]
+[88 FR 82244, Nov. 24, 2023]

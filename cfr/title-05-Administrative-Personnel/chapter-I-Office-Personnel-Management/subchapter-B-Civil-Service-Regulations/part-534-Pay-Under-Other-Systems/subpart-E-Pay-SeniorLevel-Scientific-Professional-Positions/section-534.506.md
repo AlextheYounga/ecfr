@@ -1,5 +1,7 @@
 ##### § 534.506 Setting a rate of basic pay upon appointment. #####
 
+Link to an amendment published at 89 FR 5755, Jan. 30, 2024.
+
 (a) An authorized agency official may set the rate of basic pay of an individual who is not currently an SL or ST appointee of the agency at any rate within the applicable rate range under § 534.504(a) upon appointment to an SL or ST position in the agency, subject to the requirements of this section. In setting a new senior professional's rate of basic pay, an agency must consider the nature and quality of the individual's experience, accomplishments, and any unique skills, qualifications, or competencies the individual possesses as they relate to requirements of the senior professional position and its impact on the agency's performance. Rates of basic pay above the rate for level III of the Executive Schedule, but less than or equal to the rate for level II of the Executive Schedule, generally are reserved for those newly appointed senior professionals who possess superior leadership, scientific, professional or other competencies necessary to address key program and mission requirements, as determined by the agency through its strategic human capital planning process.
 
 (b) Consistent with the agency's written procedures and paragraph (a) of this section, an authorized agency official may set the rate of basic pay for an SL or ST employee upon transfer from another agency at any rate of basic pay within the pay range that applies to the SL or ST position under § 534.504(a), except as provided in § 534.509(a).

@@ -1,5 +1,7 @@
 ##### § 930.201 Coverage. #####
 
+Link to an amendment published at 89 FR 5756, Jan. 30, 2024.
+
 (a) This subpart applies to individuals appointed under 5 U.S.C. 3105 for proceedings required to be conducted in accordance with 5 U.S.C. 556 and 557 and to administrative law judge positions.
 
 (b) Administrative law judge positions are in the competitive service. Except as otherwise stated in this subpart, the rules and regulations applicable to positions in the competitive service apply to administrative law judge positions.

@@ -1,5 +1,7 @@
 ##### § 532.403 New appointments. #####
 
+Link to an amendment published at 89 FR 5755, Jan. 30, 2024.
+
 (a) Except as provided in paragraphs (b) and (c) of this section, a new appointment to a position shall be made at the minimum rate of the appropriate grade.
 
 (b) An agency may make a new appointment at a rate above the minimum rate of the appropriate grade in recognition of an appointees' special qualifications.

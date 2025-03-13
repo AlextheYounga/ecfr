@@ -1,5 +1,7 @@
 ##### § 531.212 Superior qualifications and special needs pay-setting authority. #####
 
+Link to an amendment published at 89 FR 5754, Jan. 30, 2024.
+
 (a) *Agency authority.* (1) An agency may use the superior qualifications or special needs pay-setting authority in 5 U.S.C. 5333 to set the payable rate of basic pay for an employee above the minimum rate of the highest applicable rate range for the employee's position of record. The superior qualifications or special needs pay-setting authority may be used for—
 
 (i) A first appointment (regardless of tenure) as a civilian employee of the Federal Government; or

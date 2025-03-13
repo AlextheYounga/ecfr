@@ -1,5 +1,7 @@
 ##### § 532.405 Use of highest previous rate. #####
 
+Link to an amendment published at 89 FR 5755, Jan. 30, 2024.
+
 (a)(1) Subject to the provisions of § 532.407 of this subpart and part 536 of this chapter, when an employee is reemployed, reassigned, transferred, promoted, or changed to a lower grade, the agency may fix the pay at any rate of the new grade which does not exceed the employee's highest previous rate.
 
 (2) However, if the employee's highest previous rate falls between two step-rates of the new grade, the agency may fix the pay at the higher of the two.

@@ -1,5 +1,7 @@
 ##### § 534.404 Setting and adjusting pay for senior executives. #####
 
+Link to an amendment published at 89 FR 5755, Jan. 30, 2024.
+
 (a) *Setting pay upon initial appointment to the SES.* An authorized agency official may set the rate of basic pay of an individual at any rate within the SES rate range upon initial appointment to the SES, subject to the limitation on the maximum rate of basic pay in § 534.403(a). Rates of basic pay above the rate for level III of the Executive Schedule but less than or equal to the rate for level II of the Executive Schedule generally are reserved for those newly appointed senior executives who possess superior leadership or other competencies, as determined by the agency as part of its strategic human capital plan. In setting a new senior executive's rate of basic pay, an agency must consider the nature and quality of the individual's experience, qualifications, and accomplishments as they relate to the requirements of the SES position, as well as the individual's current responsibilities.
 
 (b) *Adjusting the pay of SES members.* (1) An authorized agency official may adjust (increase or reduce) the rate of basic pay of a senior executive consistent with the agency's plan for setting and adjusting SES rates of basic pay under paragraph (g) of this section.

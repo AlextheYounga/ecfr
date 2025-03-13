@@ -1,5 +1,7 @@
 ##### § 531.221 Maximum payable rate rule. #####
 
+Link to an amendment published at 89 FR 5755, Jan. 30, 2024.
+
 (a) *General.* (1) An agency may apply the maximum payable rate rule as described in this section to determine an employee's payable rate of basic pay under the GS pay system at a rate higher than the otherwise applicable rate upon reemployment, transfer, reassignment, promotion, demotion, change in type of appointment, termination of a critical position pay authority under 5 CFR part 535, movement from a non-GS pay system, or termination of grade or pay retention under 5 CFR part 536. (Note: Special rules for GM employees are provided in § 531.247.) A payable rate set under this section must take effect on the effective date of the action involved. This section may not be used to set an employee's rate of basic pay retroactively unless a retroactive action is required to comply with a nondiscretionary agency policy.
 
 (2) At its discretion, an agency may set an employee's rate(s) of basic pay at the maximum rate identified under this section or at a lower rate. However, the employee's rate may not be lower than the rate to which he or she is entitled under any other applicable pay-setting rule.

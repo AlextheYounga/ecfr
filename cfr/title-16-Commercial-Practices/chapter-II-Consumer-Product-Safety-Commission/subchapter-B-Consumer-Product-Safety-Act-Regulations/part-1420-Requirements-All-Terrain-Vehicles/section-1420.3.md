@@ -1,6 +1,6 @@
 ##### § 1420.3 Requirements for four-wheel ATVs. #####
 
-Link to an amendment published at 89 FR 4195, Jan. 23, 2024.
+Link to an amendment published at 89 FR 4195, Jan. 23, 2024.Link to a correction of the above amendment published at 89 FR 5767, Jan. 30, 2024.
 
 (a) Each ATV shall comply with all applicable provisions of the American National Standard for Four-Wheel All-Terrain Vehicles (ANSI/SVIA 1-2017), ANSI-approved on June 8, 2017. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy from Specialty Vehicle Institute of America, 2 Jenner, Suite 150, Irvine, CA 92618-3806; telephone: 949-727-3727 ext. 3023; *www.svia.org.* You may inspect a copy at the Office of the Secretary, U.S. Consumer Product Safety Commission, Room 820, 4330 East-West Highway, Bethesda, MD. 20814, telephone: 301-504-7923, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 

@@ -1,0 +1,3 @@
+##### § 165.1701 Port Valdez, Valdez, Alaska—safety zone. #####
+
+The waters within the following boundaries are a safety zone—The area within 200 yards of any waterfront facility at the Trans-Alaska Pipeline Valdez Terminal complex or vessels moored or anchored at the Trans-Alaska Pipeline Valdez Terminal complex and the area within 200 yards of any tank vessel maneuvering to approach, moor, unmoor, or depart the Trans-Alaska Pipeline Valdez Terminal complex.

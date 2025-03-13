@@ -1,5 +1,7 @@
 ##### § 534.604 Pay administration. #####
 
+Link to an amendment published at 89 FR 5756, Jan. 30, 2024.
+
 (a) The head of each agency must fix the rate of basic pay for each administrative appeals judge position within the agency.
 
 (b) Upon initial appointment, an agency must set the rate of basic pay of an administrative appeals judge at the minimum rate AA-1 of the administrative appeals judge pay system, except as provided in paragraphs (b)(1), (b)(2), and (b)(3) of this section.

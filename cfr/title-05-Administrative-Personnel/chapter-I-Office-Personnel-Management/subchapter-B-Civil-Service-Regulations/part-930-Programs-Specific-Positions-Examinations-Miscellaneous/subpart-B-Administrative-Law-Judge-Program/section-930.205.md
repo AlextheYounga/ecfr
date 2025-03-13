@@ -1,5 +1,7 @@
 ##### § 930.205 Administrative law judge pay system. #####
 
+Link to an amendment published at 89 FR 5756, Jan. 30, 2024.
+
 (a) OPM assigns each administrative law judge position to one of the three levels of basic pay, AL-3, AL-2 or AL-1 of the administrative law judge pay system established under 5 U.S.C. 5372 in accordance with this section. Pay level AL-3 has six rates of basic pay, A, B, C, D, E, and F.
 
 (1) The rate of basic pay for AL-3, rate A, may not be less than 65 percent of the rate of basic pay for level IV of the Executive Schedule. The rate of basic pay for AL-1 may not exceed the rate for level IV of the Executive Schedule.

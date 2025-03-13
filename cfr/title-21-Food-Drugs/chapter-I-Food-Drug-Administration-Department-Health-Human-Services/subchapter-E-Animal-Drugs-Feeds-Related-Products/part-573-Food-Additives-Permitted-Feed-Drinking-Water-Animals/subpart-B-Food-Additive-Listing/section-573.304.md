@@ -1,4 +1,4 @@
-##### § 573.304 Chromium Propionate. #####
+##### § 573.304 Chromium propionate. #####
 
 The food additive chromium propionate may be safely used in animal feed as a source of supplemental chromium in accordance with the following prescribed conditions:
 
@@ -6,7 +6,7 @@ The food additive chromium propionate may be safely used in animal feed as a sou
 
 (b) The additive is added to feed as follows:
 
-(1) In complete feed for broiler chickens at a level not to exceed 0.2 milligrams (mg) of chromium from chromium propionate per kilogram feed.
+(1) In complete feed for broiler chickens and growing turkeys at a level not to exceed 0.2 milligrams (mg) of chromium from chromium propionate per kilogram feed.
 
 (2) In feed for horses at a level not to exceed an intake of 4 mg of chromium from chromium propionate per horse per day.
 
@@ -34,7 +34,7 @@ The food additive chromium propionate may be safely used in animal feed as a sou
 
 (3) Chromium from all sources of supplemental chromium cannot exceed:
 
-(i) A level of 0.2 ppm in complete feed for broiler chickens.
+(i) A level of 0.2 ppm in complete feed for broiler chickens and growing turkeys.
 
 (ii) An intake of 4 mg per horse per day.
 
@@ -48,8 +48,8 @@ The food additive chromium propionate may be safely used in animal feed as a sou
 
 (ii) Adequate directions for use and cautions for use including these statements: “Caution: Follow label directions” and consistent with the directions for use, the following:
 
-(A) For feed for broiler chickens, “Chromium from all sources of supplemental chromium cannot exceed 0.2 parts per million of the complete feed for broiler chickens.”
+(A) For feed for broiler chickens and growing turkeys, “Chromium from all sources of supplemental chromium cannot exceed 0.2 parts per million of the complete feed.”
 
 (B) For feed for horses, “Chromium from all sources of supplemental chromium cannot exceed 4 milligrams per horse per day.”
 
-[81 FR 35611, June 3, 2016, as amended at 85 FR 14566, Mar. 13, 2020; 85 FR 48650, Aug. 12, 2020]
+[81 FR 35611, June 3, 2016, as amended at 85 FR 14566, Mar. 13, 2020; 85 FR 48650, Aug. 12, 2020; 89 FR 5768, Jan. 30, 2024]
