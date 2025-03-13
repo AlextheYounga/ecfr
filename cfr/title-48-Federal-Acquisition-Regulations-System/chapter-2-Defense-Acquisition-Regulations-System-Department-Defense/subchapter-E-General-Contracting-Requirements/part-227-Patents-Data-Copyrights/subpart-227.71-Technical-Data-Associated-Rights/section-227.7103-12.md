@@ -1,5 +1,7 @@
 ##### 227.7103-12 Government right to establish conformity of markings. #####
 
+Link to an amendment published at 89 FR 103344, Dec. 18, 2024.
+
 (a) *Nonconforming markings.* (1) Authorized markings are identified in the clause at 252.227-7013, Rights in Technical Data—Other Than Commercial Products and Commercial Services. All other markings are nonconforming markings. An authorized marking that is not in the form, or differs in substance, from the marking requirements in the clause at 252.227-7013 is also a nonconforming marking.
 
 (2) The correction of nonconforming markings on technical data is not subject to 252.227-7037, Validation of Restrictive Markings on Technical Data. To the extent practicable, the contracting officer should return technical data bearing nonconforming markings to the person who has placed the nonconforming markings on such data to provide that person an opportunity to correct or strike the nonconforming marking at that person's expense. If that person fails to correct the nonconformity and return the corrected data within 60 days following the person's receipt of the data, the contracting officer may correct or strike the nonconformity at that person's expense. When it is impracticable to return technical data for correction, contracting officers may unilaterally correct any nonconforming markings at Government expense. Prior to correction, the data may be used in accordance with the proper restrictive marking.

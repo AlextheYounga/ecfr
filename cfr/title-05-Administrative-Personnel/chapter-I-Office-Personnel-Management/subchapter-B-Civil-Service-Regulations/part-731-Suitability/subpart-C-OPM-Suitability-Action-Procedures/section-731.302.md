@@ -1,5 +1,7 @@
 ##### § 731.302 Notice of proposed action. #####
 
+Link to an amendment published at 89 FR 102696, Dec. 18, 2024.
+
 (a) OPM will notify the applicant, appointee, or employee (hereinafter, the “respondent”) in writing of the proposed action, the charges against the respondent, and the availability of review, upon request, of the materials relied upon. The notice will set forth the specific reasons for the proposed action and state that the respondent has the right to answer the notice in writing. The notice will further inform the respondent of the time limit for the answer as well as the address to which an answer must be made.
 
 (b) The notice will inform the respondent that he or she may be represented by a representative of the respondent's choice and that if the respondent wishes to have such a representative, the respondent must designate the representative in writing.

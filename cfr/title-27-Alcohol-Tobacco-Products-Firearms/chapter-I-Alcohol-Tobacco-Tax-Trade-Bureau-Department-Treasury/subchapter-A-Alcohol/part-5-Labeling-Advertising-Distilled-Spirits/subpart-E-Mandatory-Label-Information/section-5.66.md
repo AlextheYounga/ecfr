@@ -1,5 +1,7 @@
 ##### § 5.66 Name and address for domestically bottled distilled spirits that were wholly made in the United States. #####
 
+Link to an amendment published at 89 FR 102735, Dec. 18, 2024.
+
 (a) *General.* Domestically bottled distilled spirits that were wholly made in the United States and contain no imported distilled spirits must be labeled in accordance with this section. (See §§ 5.67 and 5.68 for name and address requirements applicable to distilled spirits that are not wholly made in the United States.) For purposes of this section, a “processor” who solely bottles the labeled distilled spirits will be considered the “bottler.”
 
 (b) *Form of statement.* The bottler, distiller, or processor of the distilled spirits must be identified by a phrase describing the function performed by that person. If that person performs more than one function, the label may (but is not required to) so indicate.

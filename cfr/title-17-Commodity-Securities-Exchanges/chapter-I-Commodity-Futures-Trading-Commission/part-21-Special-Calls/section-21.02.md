@@ -26,4 +26,4 @@ Upon special call by the Commission for information relating to futures or optio
 
 (3) Whether any of the accounts in question are omnibus accounts and, if so, whether the originator of the omnibus account is another futures commission merchant, clearing member or foreign broker.
 
-(Approved by the Office of Management and Budget under control number 3038-0017) [46 FR 63036, Dec. 30, 1981, and 47 FR 57016, Dec. 22, 1982, as amended at 48 FR 35301, Aug. 3, 1983; 49 FR 1339, Jan. 11, 1984; 51 FR 4720, Feb. 7, 1986; 71 FR 37821, July 3, 2006; 72 FR 50211, Aug. 31, 2007; 74 FR 12192, Mar. 23, 2009]
+(Approved by the Office of Management and Budget under control number 3038-0017)[46 FR 63036, Dec. 30, 1981, and 47 FR 57016, Dec. 22, 1982, as amended at 48 FR 35301, Aug. 3, 1983; 49 FR 1339, Jan. 11, 1984; 51 FR 4720, Feb. 7, 1986; 71 FR 37821, July 3, 2006; 72 FR 50211, Aug. 31, 2007; 74 FR 12192, Mar. 23, 2009]

@@ -44,4 +44,4 @@
 
 (2) The Director of the Division of Market Oversight may submit any matter which has been delegated to the Director under paragraph (f)(1) of this section to the Commission for its consideration.
 
-(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended 7 U.S.C. 12a(5) and 23 (1982)) [49 FR 5529, Feb. 13, 1984, as amended at 50 FR 27, Jan. 2, 1985; 50 FR 2283, Jan. 16, 1985; 54 FR 41079, Oct. 5, 1989; 67 FR 62352, Oct. 7, 2002]
+(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended 7 U.S.C. 12a(5) and 23 (1982))[49 FR 5529, Feb. 13, 1984, as amended at 50 FR 27, Jan. 2, 1985; 50 FR 2283, Jan. 16, 1985; 54 FR 41079, Oct. 5, 1989; 67 FR 62352, Oct. 7, 2002]

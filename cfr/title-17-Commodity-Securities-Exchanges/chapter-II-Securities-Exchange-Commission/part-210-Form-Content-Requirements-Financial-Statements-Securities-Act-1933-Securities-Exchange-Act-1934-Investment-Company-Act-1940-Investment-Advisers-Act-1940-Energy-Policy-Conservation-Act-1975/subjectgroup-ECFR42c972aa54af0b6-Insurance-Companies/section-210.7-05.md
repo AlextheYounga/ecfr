@@ -16,7 +16,8 @@
 
 *Schedule II—Condensed financial information of registrant.* The schedule prescribed by § 210.12-04 shall be filed when the restricted net assets (§ 210.1.02(dd)) of consolidated subsidiaries exceed 25 percent of consolidated net assets as of the end of the most recently completed fiscal year.
 
-*Schedule III—Supplementary insurance information.* The schedule prescribed by § 210.12-16 shall be filed giving segment detail in support of various balance sheet and statement of comprehensive income captions. The required balance sheet information shall be presented as of the date of each audited balance sheet filed, and the statement of comprehensive income information shall be presented for each period for which an audited statement of comprehensive income is required to be filed, for each person or group.
+*Schedule III—Supplementary insurance information.* The schedule prescribed by § 210.12-16 shall be filed giving segment detail in support of various balance sheet and statement of comprehensive income captions. The required balance sheet information shall be presented as of the date of each audited balance
+sheet filed, and the statement of comprehensive income information shall be presented for each period for which an audited statement of comprehensive income is required to be filed, for each person or group.
 
 *Schedule IV—Reinsurance.* The schedule prescribed by § 210.12-17 shall be filed for reinsurance ceded and assumed.
 

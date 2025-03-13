@@ -26,10 +26,10 @@
 
 (c) Notwithstanding paragraph (b) of this section, the Commission, having due regard for the public interest and the protection of investors, may at any time extend the period of exemption of any security by this rule or may sooner terminate the exemption upon notice to the exchange and to the issuer of the extension or termination thereof.
 
-(d) The Exchange shall file with the Commission a notification on Form 26 1 promptly after taking action to admit any security to trading under this section: *Provided, however,* That no notification need be filed under this section concerning the admission or proposed admission to trading of additional amounts of a class of security admitted to trading on such exchange.
+(d) The Exchange shall file with the Commission a notification on Form 261 promptly after taking action to admit any security to trading under this section: *Provided, however,* That no notification need be filed under this section concerning the admission or proposed admission to trading of additional amounts of a class of security admitted to trading on such exchange.
 
 1 Copy filed with the Federal Register Division.
 
 (e) Section 240.10b-1 shall be applicable to all securities exempted from the operation of section 12(a) of the act by this section.
 
-(Secs. 3, 12, 48 Stat. 882, 892; 15 U.S.C. 78c (12), 78*l*) [13 FR 8185, Dec. 22, 1948, as amended at 19 FR 669, Feb. 5, 1954; 20 FR 2081, Apr. 2, 1955; 53 FR 41206, Oct. 20, 1988]
+(Secs. 3, 12, 48 Stat. 882, 892; 15 U.S.C. 78c (12), 78*l*)[13 FR 8185, Dec. 22, 1948, as amended at 19 FR 669, Feb. 5, 1954; 20 FR 2081, Apr. 2, 1955; 53 FR 41206, Oct. 20, 1988]

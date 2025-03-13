@@ -1,5 +1,7 @@
 ##### 227.7104 Contracts under the Small Business Innovation Research (SBIR) Program. #####
 
+Link to an amendment published at 89 FR 103344, Dec. 18, 2024.
+
 (a) Use the clause at 252.227-7018, Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research (SBIR) Program, when technical data or computer software will be generated during performance of contracts under the SBIR program.
 
 (b) Under the clause at 252.227-7018, the Government obtains SBIR data rights in technical data and computer software generated under the contract and marked with the SBIR data rights legend. SBIR data rights provide the Government limited rights in such technical data and restricted rights in such computer software during the SBIR data protection period commencing with contract award and ending five years after completion of the project under which the data were generated. Upon expiration of the five-year restrictive license, the Government has unlimited rights in the SBIR technical data and computer software.

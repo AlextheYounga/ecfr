@@ -1,5 +1,7 @@
 ##### § 120.123 Drug testing outside the territory of the United States. #####
 
+Link to an amendment published at 89 FR 103449, Dec. 18, 2024.
+
 (a) No part of the testing process (including specimen collection, laboratory processing, and MRO actions) shall be conducted outside the territory of the United States.
 
 (1) Each employee who is assigned to perform safety-sensitive functions solely outside the territory of the United States shall be removed from the random testing pool upon the inception of such assignment.

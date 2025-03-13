@@ -1,5 +1,7 @@
 ##### 252.227-7025 Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends. #####
 
+Link to an amendment published at 89 FR 103364, Dec. 18, 2024.
+
 As prescribed in 227.7103-6(c), 227.7104(f)(1), or 227.7203-6(d), use the following clause:
 
 Limitations on the Use or Disclosure of Government-Furnished Information Marked With Restrictive Legends (JAN 2023)

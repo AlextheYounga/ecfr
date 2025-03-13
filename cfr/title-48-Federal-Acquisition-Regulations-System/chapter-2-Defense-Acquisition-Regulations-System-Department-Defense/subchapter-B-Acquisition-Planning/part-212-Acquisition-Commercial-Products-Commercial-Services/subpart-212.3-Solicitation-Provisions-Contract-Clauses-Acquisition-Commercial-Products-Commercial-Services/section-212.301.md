@@ -1,6 +1,6 @@
 ##### 212.301 Solicitation provisions and contract clauses for the acquisition of commercial products and commercial services. #####
 
-Link to an amendment published at 89 FR 78991, Sept. 26, 2024.
+Link to an amendment published at 89 FR 78991, Sept. 26, 2024.Link to an amendment published at 89 FR 103342, Dec. 18, 2024.
 
 (c) Include an evaluation factor regarding supply chain risk (see subpart 239.73) when acquiring information technology, whether as a service or as a supply, that is a covered system, is a part of a covered system, or is in support of a covered system, as defined in 239.7301.
 

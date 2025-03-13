@@ -1,5 +1,7 @@
 ##### § 37.9 Standards for accessible transportation facilities. #####
 
+Link to an amendment published at 89 FR 102808, Dec. 18, 2024.
+
 (a) For purposes of this part, a transportation facility shall be considered to be readily accessible to and usable by individuals with disabilities if it meets the requirements of this part and the requirements set forth in Appendices B and D to 36 CFR part 1191, which apply to buildings and facilities covered by the Americans with Disabilities Act, as modified by Appendix A to this part.
 
 (b) Facility alterations begun before January 26, 1992, in a good faith effort to make a facility accessible to individuals with disabilities may be used to meet the key station requirements set forth in §§ 37.47 and 37.51 of this part, even if these alterations are not consistent with the requirements set forth in Appendices B and D to 36 CFR part 1191 and Appendix A to this part, if the modifications complied with the Uniform Federal Accessibility Standards (UFAS) or ANSI A117.1(1980) (American National Standards Specification for Making Buildings and Facilities Accessible to and Usable by the Physically Handicapped). This paragraph applies only to alterations of individual elements and spaces and only to the extent that provisions covering those elements or spaces are contained in UFAS or ANSI A117.1, as applicable.

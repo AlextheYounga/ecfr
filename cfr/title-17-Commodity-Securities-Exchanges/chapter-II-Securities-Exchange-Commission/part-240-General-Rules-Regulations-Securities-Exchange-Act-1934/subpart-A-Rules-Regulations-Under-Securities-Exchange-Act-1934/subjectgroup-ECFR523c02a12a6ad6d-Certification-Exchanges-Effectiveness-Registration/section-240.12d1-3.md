@@ -6,4 +6,4 @@
 
 (c) The certification must be filed in electronic format via the Commission's Electronic Data Gathering, Analysis, and Retrieval (EDGAR) system in accordance with the EDGAR rules set forth in § 232 of this chapter (Regulation S-T).
 
-(Sec. 12, 48 Stat. 892, as amended; 15 U.S.C. 78*l*) [19 FR 670, Feb. 5, 1954, as amended at 87 FR 35413, June 10, 2022]
+(Sec. 12, 48 Stat. 892, as amended; 15 U.S.C. 78*l*)[19 FR 670, Feb. 5, 1954, as amended at 87 FR 35413, June 10, 2022]

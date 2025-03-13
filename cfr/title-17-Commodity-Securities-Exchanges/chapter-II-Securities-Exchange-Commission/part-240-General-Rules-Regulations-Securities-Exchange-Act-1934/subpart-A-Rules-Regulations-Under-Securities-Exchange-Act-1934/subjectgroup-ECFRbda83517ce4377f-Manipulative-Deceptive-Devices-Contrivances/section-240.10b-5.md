@@ -8,4 +8,4 @@ It shall be unlawful for any person, directly or indirectly, by the use of any m
 
 (c) To engage in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person,
 
-in connection with the purchase or sale of any security. (Sec. 10; 48 Stat. 891; 15 U.S.C. 78j) [13 FR 8183, Dec. 22, 1948, as amended at 16 FR 7928, Aug. 11, 1951]
+in connection with the purchase or sale of any security.(Sec. 10; 48 Stat. 891; 15 U.S.C. 78j)[13 FR 8183, Dec. 22, 1948, as amended at 16 FR 7928, Aug. 11, 1951]

@@ -1,5 +1,7 @@
 ##### § 648.91 Monkfish regulated mesh areas and restrictions on gear and methods of fishing. #####
 
+Link to an amendment published at 89 FR 102838, Dec. 18, 2024.
+
 All vessels fishing for, possessing or landing monkfish must comply with the following minimum mesh size, gear, and methods of fishing requirements, unless otherwise exempted or prohibited:
 
 (a) *Northern Fishery Management Area (NFMA)*—*Area definition.* The NFMA (copies of a chart depicting the area are available from the Regional Administrator upon request) is that area defined by a line beginning at the intersection of 70° W. longitude and the south-facing shoreline of Cape Cod, MA (point A), then southward along 70° W. longitude to 41° N. latitude, then eastward to the U.S.-Canada maritime boundary, then in a northerly direction along the U.S.-Canada maritime boundary until it intersects the Maine shoreline, and then following the coastline in a southerly direction until it intersects with point A.

@@ -1,5 +1,7 @@
 ##### 252.227-7015 Technical Data—Commercial Products and Commercial Services. #####
 
+Link to an amendment published at 89 FR 103355, Dec. 18, 2024.
+
 As prescribed in 227.7102-4(a)(1), use the following clause:
 
 Technical Data—Commercial Products and Commercial Services (MAR 2023)

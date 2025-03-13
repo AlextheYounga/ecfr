@@ -1,5 +1,7 @@
 ##### § 731.402 Notice of proposed action. #####
 
+Link to an amendment published at 89 FR 102696, Dec. 18, 2024.
+
 (a) The agency must notify the applicant or appointee (hereinafter, the “respondent”) in writing of the proposed action, the charges against the respondent, and the availability for review, upon request, of the materials relied upon. The notice must set forth the specific reasons for the proposed action and state that the respondent has the right to answer the notice in writing. The notice must further inform the respondent of the time limit for the answer as well as the address to which such answer must be delivered.
 
 (b) The notice must inform the respondent that he or she may be represented by a representative of the respondent's choice and that if the respondent wishes to have such a representative, the respondent must designate the representative in writing.

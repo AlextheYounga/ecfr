@@ -1,5 +1,7 @@
 ##### § 214.2 Special requirements for admission, extension, and maintenance of status. #####
 
+Link to an amendment published at 89 FR 103196, Dec. 18, 2024.Link to an amendment published at 89 FR 103327, Dec. 18, 2024.
+
 |                                                                      (a) Foreign government officials                                                                       |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                                                                                (b) Visitors                                                                                 |

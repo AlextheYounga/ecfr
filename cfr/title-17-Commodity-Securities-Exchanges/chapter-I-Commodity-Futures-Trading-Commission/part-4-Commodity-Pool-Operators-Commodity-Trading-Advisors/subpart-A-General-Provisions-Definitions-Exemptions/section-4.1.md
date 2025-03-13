@@ -20,4 +20,4 @@
 
 (d) If graphic, image or audio material is included in a document delivered to a prospective or existing client or pool participant, and such material cannot be reproduced in an electronic filing, a fair and accurate narrative description, tabular representation or transcript of the omitted material must be included in the filed version of the document. Inclusion of such material in a Disclosure Document shall be subject to the requirements of § 4.24(v) in the case of pool Disclosure Documents, and § 4.34(n) in the case of commodity trading advisor Disclosure Documents.
 
-(Approved by the Office of Management and Budget under control number 3038-0005) [46 FR 26013, May 8, 1981, as amended at 46 FR 63035, Dec. 30, 1981; 62 FR 39115, July 22, 1997]
+(Approved by the Office of Management and Budget under control number 3038-0005)[46 FR 26013, May 8, 1981, as amended at 46 FR 63035, Dec. 30, 1981; 62 FR 39115, July 22, 1997]

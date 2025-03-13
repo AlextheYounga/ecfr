@@ -14,7 +14,7 @@
 
 (5) Be not misleading to the consumer.
 
-(c) *Retention.* A proprietor must keep on file at theirpremises a copy of the complete approved TTB F 5100.31 for the distinctive liquor bottle.
+(c) *Retention.* A proprietor must keep on file at their premises a copy of the complete approved TTB F 5100.31 for the distinctive liquor bottle.
 
 (d) *Cross reference.* For procedures regarding issuance, denial and revocation of distinctive liquor bottle approvals, as well as appeal procedures, see part 13 of this chapter.
 

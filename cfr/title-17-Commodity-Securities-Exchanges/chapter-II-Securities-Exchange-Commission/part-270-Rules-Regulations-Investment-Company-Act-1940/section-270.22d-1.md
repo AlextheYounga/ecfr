@@ -10,4 +10,4 @@ A registered investment company that is the issuer of redeemable securities, a p
 
 (d) The company advises existing shareholders of any new sales load variation within one year of the date when that variation is first made available to purchasers of the company's shares.
 
-(Secs. 6(c) (15 U.S.C. 80a-6(c)) and 38(a) (15 U.S.C. 80a-37(a))) [50 FR 7911, Feb. 27, 1985]
+(Secs. 6(c) (15 U.S.C. 80a-6(c)) and 38(a) (15 U.S.C. 80a-37(a)))[50 FR 7911, Feb. 27, 1985]

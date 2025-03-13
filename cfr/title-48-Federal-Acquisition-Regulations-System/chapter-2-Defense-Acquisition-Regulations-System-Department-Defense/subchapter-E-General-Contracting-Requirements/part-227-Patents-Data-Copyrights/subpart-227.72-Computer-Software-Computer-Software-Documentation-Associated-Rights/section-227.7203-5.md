@@ -1,5 +1,7 @@
 ##### 227.7203-5 Government rights. #####
 
+Link to an amendment published at 89 FR 103346, Dec. 18, 2024.
+
 The standard license rights in computer software that a licensor grants to the Government are unlimited rights, government purpose rights, or restricted rights. The standard license in computer software documentation conveys unlimited rights. Those rights are defined in the clause at 252.227-7014, Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation. In unusual situations, the standard rights may not satisfy the Government's needs or the Government may be willing to accept lesser rights in return for other consideration. In those cases, a special license may be negotiated. However, the licensor is not obligated to provide the Government greater rights and the contracting officer is not required to accept lesser rights than the rights provided in the standard grant of license. The situations under which a particular grant of license applies are enumerated in paragraphs (a) through (d) of this section.
 
 (a) *Unlimited rights.* The Government obtains an unlimited rights license in—

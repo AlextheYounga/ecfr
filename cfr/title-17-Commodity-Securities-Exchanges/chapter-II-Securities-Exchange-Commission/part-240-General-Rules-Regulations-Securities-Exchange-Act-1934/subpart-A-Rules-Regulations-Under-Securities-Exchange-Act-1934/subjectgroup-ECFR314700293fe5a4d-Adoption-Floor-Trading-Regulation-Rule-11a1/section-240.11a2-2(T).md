@@ -24,4 +24,4 @@
 
 (f) The provisions of this section shall not apply to transactions by exchange members to which, by operation of section 11(a)(3) of the Act, section 11(a)(1) of the Act is not effective.
 
-(Secs. 2, 3, 4, 6, 7, 11, 18, 89 Stat. 97, 104, 110, 111, 121, 155 (15 U.S.C. 78b, 78c, 78f, 78k, 78k-1, 78*o,* 78w); secs. 2, 3, 10, 23, 48 Stat. 881, 882, 891, 901, as amended (15 U.S.C. 78j)) [43 FR 11554, Mar. 17, 1978, as amended at 43 FR 18562, May 1, 1978]
+(Secs. 2, 3, 4, 6, 7, 11, 18, 89 Stat. 97, 104, 110, 111, 121, 155 (15 U.S.C. 78b, 78c, 78f, 78k, 78k-1, 78*o,* 78w); secs. 2, 3, 10, 23, 48 Stat. 881, 882, 891, 901, as amended (15 U.S.C. 78j))[43 FR 11554, Mar. 17, 1978, as amended at 43 FR 18562, May 1, 1978]

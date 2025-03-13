@@ -22,7 +22,7 @@
 
 Direct Order Transmittal Client Disclosure Statement
 
-This statement applies to the ability of authorized customers 1 of [FCM] to place orders for foreign futures and options transactions directly with non-US entities (each, an “Executing Firm”) that execute transactions on behalf of [FCM's] foreign futures and options customer omnibus accounts.
+This statement applies to the ability of authorized customers1 of [FCM] to place orders for foreign futures and options transactions directly with non-US entities (each, an “Executing Firm”) that execute transactions on behalf of [FCM's] foreign futures and options customer omnibus accounts.
 
 1 You should contact your account executive regarding your eligibility to participate in the direct order transmittal process.
 

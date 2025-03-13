@@ -56,4 +56,4 @@
 
 (3) A registered transfer agent shall be exempt if it is a bank or financial institution subject to regulation by the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency or the Federal Deposit Insurance Corporation, provided that it is not notified to the contrary by its appropriate regulatory agency and provided that a report similar in scope to the requirements of § 240.17Ad-13(a) is prepared for either the bank's board of directors or an audit committee of the board of directors.
 
-(Secs. 2, 17(a), 17A(d) and 23(a) thereof, 15 U.S.C. 78b, 78q(a), 78q-1(d) and 78w(a)) [48 FR 28248, June 21, 1983]
+(Secs. 2, 17(a), 17A(d) and 23(a) thereof, 15 U.S.C. 78b, 78q(a), 78q-1(d) and 78w(a))[48 FR 28248, June 21, 1983]

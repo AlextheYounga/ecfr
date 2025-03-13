@@ -10,4 +10,4 @@
 
 (b) A leverage transaction merchant must make complete refund of all monies received except for actual price losses as calculated in paragraph (a)(2) of this section, to the leverage customer who has rescinded a contract pursuant to paragraph (a) of this section within 24 hours of notification of rescission.
 
-(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982)) [49 FR 5540, Feb. 13, 1984, as amended at 50 FR 34, Jan. 2, 1985]
+(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982))[49 FR 5540, Feb. 13, 1984, as amended at 50 FR 34, Jan. 2, 1985]

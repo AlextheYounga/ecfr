@@ -1,5 +1,7 @@
 ##### § 208.33 Lawful pathways condition on asylum eligibility. #####
 
+Link to an amendment published at 89 FR 103414, Dec. 18, 2024.
+
 Notwithstanding any contrary section of this part, including §§ 208.2, 208.13, and 208.30—
 
 (a) *Condition on eligibility*—(1) *Applicability.* A rebuttable presumption of ineligibility for asylum applies to an alien who enters the United States from Mexico at the southwest land border or adjacent coastal borders without documents sufficient for lawful admission as described in section 212(a)(7) of the Act and whose entry was:

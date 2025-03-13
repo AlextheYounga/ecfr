@@ -1,5 +1,7 @@
 ##### § 302.203 Disqualifying factors. #####
 
+Link to an amendment published at 89 FR 102691, Dec. 18, 2024.
+
 (a) The qualification standards established by an agency or by an administrative level or subdivision of an agency may provide that certain reasons disqualify an applicant for appointment. The following, among others, may be included as disqualifying reasons:
 
 (1) Dismissal from employment for delinquency or misconduct;

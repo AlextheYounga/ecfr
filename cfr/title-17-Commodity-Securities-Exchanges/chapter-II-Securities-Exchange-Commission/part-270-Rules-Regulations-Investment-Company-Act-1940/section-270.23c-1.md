@@ -30,6 +30,6 @@
 
 (d) This rule relates exclusively to the requirements of section 23(c) of the Act, and the provisions hereof shall not be construed to authorize any action which contravenes any other applicable law, statutory or otherwise, or the provision of any indenture or other instrument pursuant to which securities of the issuer were issued.
 
-[Rule N-23C-1, 7 FR 10424, Dec. 15, 1942, as amended at 68 FR 64975, Nov. 17, 2003] Cross Reference:
+[Rule N-23C-1, 7 FR 10424, Dec. 15, 1942, as amended at 68 FR 64975, Nov. 17, 2003]Cross Reference:
 
 For interpretative release applicable to § 270.23c-1, see No. 78 in tabulation, part 271 of this chapter.

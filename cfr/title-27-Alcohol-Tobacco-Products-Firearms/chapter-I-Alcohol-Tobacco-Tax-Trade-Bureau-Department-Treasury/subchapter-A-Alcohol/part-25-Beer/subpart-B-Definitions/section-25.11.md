@@ -66,7 +66,7 @@ When used in this part, where not otherwise distinctly expressed or manifestly i
 
 *Removed for consumption or sale.* Except when used with respect to beer removed without payment of tax as authorized by law, (a) the sale and transfer of possession of beer for consumption at the brewery, or (b) any removal of beer from the brewery.
 
-*Secretary of the Treasury or Secretary.* The Secretary of the Treasury or a delegate of the Secretary.
+*Secretary of the Treasury* or *Secretary.* The Secretary of the Treasury or a delegate of the Secretary.
 
 *Service center.* An Internal Revenue Service Center in any of the Internal Revenue regions.
 

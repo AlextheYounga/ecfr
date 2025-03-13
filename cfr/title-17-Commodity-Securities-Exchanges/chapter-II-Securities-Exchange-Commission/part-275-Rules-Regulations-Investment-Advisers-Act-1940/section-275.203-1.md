@@ -26,4 +26,4 @@ Information on how to file with the IARD is available on the Commission's websit
 
 (6) *Form ADV-NR is a report.* Each Form ADV-NR (and any amendment to Form ADV-NR) required to be filed under this rule is a “report” within the meaning of sections 204 and 207 of the Act.
 
-[65 FR 57448, Sept. 22, 2000; 65 FR 81737, Dec. 27, 2000 as amended at 84 FR 33630, July 12, 2019; 87 FR 38977, June 30, 2022] Editorial Note:For Federal Register citations affecting Form ADV, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[65 FR 57448, Sept. 22, 2000; 65 FR 81737, Dec. 27, 2000 as amended at 84 FR 33630, July 12, 2019; 87 FR 38977, June 30, 2022]Editorial Note:For Federal Register citations affecting Form ADV, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

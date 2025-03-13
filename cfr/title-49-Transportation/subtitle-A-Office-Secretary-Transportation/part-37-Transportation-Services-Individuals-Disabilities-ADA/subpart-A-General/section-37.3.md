@@ -1,5 +1,7 @@
 ##### § 37.3 Definitions. #####
 
+Link to an amendment published at 89 FR 102808, Dec. 18, 2024.
+
 As used in this part:
 
 *Accessible* means, with respect to vehicles and facilities, complying with the accessibility requirements of parts 37 and 38 of this title.

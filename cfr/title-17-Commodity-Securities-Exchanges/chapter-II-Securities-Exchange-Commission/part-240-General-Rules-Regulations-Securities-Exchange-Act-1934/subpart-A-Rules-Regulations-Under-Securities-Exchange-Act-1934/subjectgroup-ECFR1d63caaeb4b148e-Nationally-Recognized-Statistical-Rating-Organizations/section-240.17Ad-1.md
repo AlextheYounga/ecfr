@@ -48,4 +48,4 @@ As used in this section and §§ 240.17Ad-2, 240.17Ad-3, 240.17Ad-4, 240.17Ad-5,
 
 (j) The term *depository-eligible securities issue* means an issue of securities that is eligible for deposit at any securities depository that is registered with the Commission under the Securities Exchange Act of 1934 as a clearing agency.
 
-(Secs. 2, 17, 17A and 23(a) (15 U.S.C. 78b, 78q, 78q-1 and 78w(a)); secs. 3, 17A and 23(a), 15 U.S.C. 78c, 78q-1 and 78w(a)) [42 FR 32411, June 24, 1977, as amended at 49 FR 40575, Oct. 17, 1984; 51 FR 36551, Oct. 14, 1986]
+(Secs. 2, 17, 17A and 23(a) (15 U.S.C. 78b, 78q, 78q-1 and 78w(a)); secs. 3, 17A and 23(a), 15 U.S.C. 78c, 78q-1 and 78w(a))[42 FR 32411, June 24, 1977, as amended at 49 FR 40575, Oct. 17, 1984; 51 FR 36551, Oct. 14, 1986]

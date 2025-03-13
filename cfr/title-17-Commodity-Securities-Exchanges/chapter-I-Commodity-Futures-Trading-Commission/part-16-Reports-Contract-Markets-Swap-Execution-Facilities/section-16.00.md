@@ -20,4 +20,4 @@
 
 (c) *Exclusively self-cleared contracts.* Unless determined otherwise by the Commission, paragraph (a) of this section shall not apply to transactions involving exclusively self-cleared contracts.
 
-(Approved by the Office of Management and Budget under control number 3038-0009) [46 FR 54526, Nov. 3, 1981, as amended at 46 FR 63036, Dec. 30, 1981; 47 FR 57014, Dec. 22, 1982; 51 FR 4717, Feb. 7, 1986; 52 FR 18910, May 20, 1987; 62 FR 24031, May 2, 1997; 69 FR 76398, Dec. 21, 2004; 71 FR 37818, July 3, 2006; 77 FR 66333, Nov. 2, 2012]
+(Approved by the Office of Management and Budget under control number 3038-0009)[46 FR 54526, Nov. 3, 1981, as amended at 46 FR 63036, Dec. 30, 1981; 47 FR 57014, Dec. 22, 1982; 51 FR 4717, Feb. 7, 1986; 52 FR 18910, May 20, 1987; 62 FR 24031, May 2, 1997; 69 FR 76398, Dec. 21, 2004; 71 FR 37818, July 3, 2006; 77 FR 66333, Nov. 2, 2012]

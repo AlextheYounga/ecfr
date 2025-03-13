@@ -1,5 +1,7 @@
 ##### 227.7103-16 Providing technical data to foreign governments, foreign contractors, or international organizations. #####
 
+Link to an amendment published at 89 FR 103344, Dec. 18, 2024.
+
 Technical data may be released or disclosed to foreign governments, foreign contractors, or international organizations only if release or disclosure is otherwise permitted both by Federal export controls and other national security laws or regulations. Subject to such laws and regulations, the Department of Defense—
 
 (a) May release or disclose technical data in which it has obtained unlimited rights to such foreign entities or authorize the use of such data by those entities; and

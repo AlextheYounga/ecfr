@@ -1,5 +1,7 @@
 ##### § 120.802 Definitions. #####
 
+Link to an amendment published at 89 FR 102701, Dec. 18, 2024.
+
 The following terms have the same meaning wherever they are used in this subpart. Defined terms are capitalized wherever they appear.
 
 *Area of Operations* is the geographic area where SBA has approved a CDC's request to provide 504 program services to small businesses on a permanent basis. The minimum Area of Operations is the State in which the CDC is incorporated.

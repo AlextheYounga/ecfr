@@ -1,5 +1,7 @@
 ##### 252.227-7030 Technical data—withholding of payment. #####
 
+Link to an amendment published at 89 FR 103365, Dec. 18, 2024.
+
 As prescribed at 227.7103-6(e)(2) or 227.7104(e)(4), use the following clause:
 
 Technical Data—Withholding of Payment (MAR 2000)

@@ -14,4 +14,4 @@
 
 (c) No commodity pool operator may commingle the property of any pool that it operates or that it intends to operate with the property of any other person.
 
-(Approved by the Office of Management and Budget under control number 3038-0005) [46 FR 26013, May 8, 1981, as amended at 46 FR 34311, July 1, 1981; 46 FR 63035, Dec. 30, 1981]
+(Approved by the Office of Management and Budget under control number 3038-0005)[46 FR 26013, May 8, 1981, as amended at 46 FR 34311, July 1, 1981; 46 FR 63035, Dec. 30, 1981]

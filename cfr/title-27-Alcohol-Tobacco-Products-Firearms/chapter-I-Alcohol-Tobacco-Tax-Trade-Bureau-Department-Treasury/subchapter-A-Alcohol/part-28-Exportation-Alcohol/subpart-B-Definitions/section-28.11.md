@@ -48,7 +48,7 @@ I declare under the penalties of perjury that this \_\_\_\_\_\_\_\_\_\_ (insert 
 
 *Liter.* A metric unit of capacity equal to 1,000 cubic centimeters of alcoholic beverage, and equivalent to 33.814 fluid ounces. A liter is divided into 1,000 milliliters. Milliliter or milliliters may be abbreviated as “ml”.
 
-*Manufacturing bonded warehouse.* A manufacturing bonded warehouse, class six, established under the provisions of the customs regulations (19 CFR, chapter I).
+*Manufacturing bonded warehouse.* A manufacturing bonded warehouse, class six, established under the provisions of the customs regulations (19 CFR chapter I).
 
 *Package.* Any cask, keg, barrel, drum, or similar portable container.
 
@@ -74,4 +74,4 @@ I declare under the penalties of perjury that this \_\_\_\_\_\_\_\_\_\_ (insert 
 
 *Zone operator.* The person to which the privilege of establishing, operating, and maintaining a foreign-trade zone has been granted by the Foreign-Trade Zones Board created by the Act of June 18, 1934, as amended.
 
-(68A Stat. 917, as amended (26 U.S.C. 7805); 49 Stat. 981, as amended (27 U.S.C. 205))[T.D. ATF-48, 43 FR 13552, Mar. 31, 1978, as amended by T.D. ATF-51, 43 FR 24243, June 2, 1978; 44 FR 55854, Sept. 28, 1979; T.D. ATF-62, 44 FR 71720, Dec. 11, 1979; T.D. ATF-199, 50 FR 9201, Mar. 6, 1985; T.D. ATF-224, 51 FR 7698, Mar. 5, 1986; T.D. ATF-477, 67 FR 18088, Apr. 15, 2002; T.D. TTB-8, 69 FR 3831, Jan. 27, 2004; T.D. TTB-146, 82 FR 1135, Jan. 4, 2017; T.D. TTB-196, 89 FR 87944, Nov. 6, 2024]
+[T.D. ATF-48, 43 FR 13552, Mar. 31, 1978, as amended by T.D. ATF-51, 43 FR 24243, June 2, 1978; 44 FR 55854, Sept. 28, 1979; T.D. ATF-62, 44 FR 71720, Dec. 11, 1979; T.D. ATF-199, 50 FR 9201, Mar. 6, 1985; T.D. ATF-224, 51 FR 7698, Mar. 5, 1986; T.D. ATF-477, 67 FR 18088, Apr. 15, 2002; T.D. TTB-8, 69 FR 3831, Jan. 27, 2004; T.D. TTB-146, 82 FR 1135, Jan. 4, 2017; T.D. TTB-196, 89 FR 87944, Nov. 6, 2024]

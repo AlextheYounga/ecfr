@@ -66,7 +66,7 @@ I declare under the penalties of perjury that this \_\_\_\_\_\_\_\_ (insert type
 
 *Rum.* Any spirits produced from sugar cane products and distilled at less than 190° proof in such manner that the spirits possess the taste, aroma, and characteristics generally attributed to rum.
 
-*Secretary of the Treasury or Secretary.* The Secretary of the Treasury or a delegate of the Secretary.
+*Secretary of the Treasury* or *Secretary.* The Secretary of the Treasury or a delegate of the Secretary.
 
 *Special industrial solvents.* Solvents which are manufactured with specially denatured alcohol under special industrial solvent general-use formula in this part.
 

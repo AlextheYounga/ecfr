@@ -56,4 +56,4 @@
 
 (c) Every registered transfer agent which, under the terms of its agency, maintains securityholder records for an issue shall, with respect to such issue, retain each cancelled registered bond, debenture, share, warrant or right, other registered evidence of indebtedness, or other certificate of ownership and all accompanying documentation, except legal papers returned to the presentor.
 
-(Secs. 2, 17, 17A and 23(a) (15 U.S.C. 78b, 78q, 78q-1 and 78w(a))) [42 FR 32413, June 24, 1977]
+(Secs. 2, 17, 17A and 23(a) (15 U.S.C. 78b, 78q, 78q-1 and 78w(a)))[42 FR 32413, June 24, 1977]

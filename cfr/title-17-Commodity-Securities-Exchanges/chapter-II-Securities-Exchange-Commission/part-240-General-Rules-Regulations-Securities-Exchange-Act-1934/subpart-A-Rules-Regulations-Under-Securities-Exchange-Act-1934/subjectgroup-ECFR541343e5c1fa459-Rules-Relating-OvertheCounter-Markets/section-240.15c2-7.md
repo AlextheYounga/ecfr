@@ -20,4 +20,4 @@
 
 (3) The term *correspondent* shall mean a broker or dealer who has a direct line of communication to another broker or dealer located in a different city or geographic area.
 
-(Sec. 15, 48 Stat. 895, as amended; 15 U.S.C. 78o) [29 FR 11530, Aug. 12, 1964, as amended at 41 FR 22826, June 7, 1976]
+(Sec. 15, 48 Stat. 895, as amended; 15 U.S.C. 78o)[29 FR 11530, Aug. 12, 1964, as amended at 41 FR 22826, June 7, 1976]

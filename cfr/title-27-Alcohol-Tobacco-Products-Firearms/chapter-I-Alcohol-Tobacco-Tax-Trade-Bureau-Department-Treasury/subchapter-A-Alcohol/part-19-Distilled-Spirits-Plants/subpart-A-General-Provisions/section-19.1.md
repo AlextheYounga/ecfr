@@ -150,7 +150,7 @@ As used in this part, the following terms shall have the meanings indicated unle
 
 *Season.* The period from January 1st through June 30th (spring season) or the period from July 1st through December 31st (fall season).
 
-*Secretary of the Treasury or Secretary.* The Secretary of the Treasury or a delegate of the Secretary.
+*Secretary of the Treasury* or *Secretary.* The Secretary of the Treasury or a delegate of the Secretary.
 
 *Service center.* An Internal Revenue Service Center in any of the Internal Revenue regions.
 

@@ -66,4 +66,4 @@
 
 (h) Withdrawal from registration does not constitute a release from liability for any violation of the Act or of any rule, regulation, or order thereunder.
 
-(Approved by the Office of Management and Budget under control number 3038-0008) [46 FR 48917, Oct. 5, 1981]Editorial Note:For Federal Register citations affecting § 3.33, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Approved by the Office of Management and Budget under control number 3038-0008)[46 FR 48917, Oct. 5, 1981]Editorial Note:For Federal Register citations affecting § 3.33, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

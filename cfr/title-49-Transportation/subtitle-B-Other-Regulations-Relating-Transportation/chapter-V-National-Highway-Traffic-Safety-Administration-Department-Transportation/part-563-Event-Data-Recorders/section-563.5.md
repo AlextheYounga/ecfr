@@ -1,5 +1,7 @@
 ##### § 563.5 Definitions. #####
 
+Link to an amendment published at 89 FR 102832, Dec. 18, 2024.
+
 (a) *Motor vehicle safety standard definitions.* Unless otherwise indicated, all terms that are used in this part and are defined in the Motor Vehicle Safety Standards, part 571 of this subchapter, are used as defined therein.
 
 (b) *Other definitions.*

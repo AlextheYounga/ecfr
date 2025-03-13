@@ -124,4 +124,4 @@ On the other hand, a potential grantor of a deep-out-of-the-money option should 
 
 (g) For purposes of this section, neither a futures commission merchant nor an introducing broker shall be deemed to be an option customer.
 
-(Approved by the Office of Management and Budget under control number 3038-0007) [46 FR 54529, Nov. 3, 1981, as amended at 46 FR 63036, Dec. 30, 1981; 48 FR 35302, Aug. 3, 1983; 49 FR 44893, Nov. 13, 1984; 51 FR 17475, May 13, 1986; 58 FR 17505, Apr. 5, 1993; 59 FR 34381, July 5, 1994; 63 FR 8571, Feb. 20, 1998; 63 FR 32732, June 16, 1998; 77 FR 25343, Apr. 27, 2012]
+(Approved by the Office of Management and Budget under control number 3038-0007)[46 FR 54529, Nov. 3, 1981, as amended at 46 FR 63036, Dec. 30, 1981; 48 FR 35302, Aug. 3, 1983; 49 FR 44893, Nov. 13, 1984; 51 FR 17475, May 13, 1986; 58 FR 17505, Apr. 5, 1993; 59 FR 34381, July 5, 1994; 63 FR 8571, Feb. 20, 1998; 63 FR 32732, June 16, 1998; 77 FR 25343, Apr. 27, 2012]

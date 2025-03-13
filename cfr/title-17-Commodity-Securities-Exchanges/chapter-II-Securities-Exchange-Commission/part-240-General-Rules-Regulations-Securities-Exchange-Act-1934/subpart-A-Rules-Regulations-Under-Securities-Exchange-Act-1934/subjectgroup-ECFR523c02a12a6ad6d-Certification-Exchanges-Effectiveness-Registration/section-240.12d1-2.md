@@ -14,4 +14,4 @@
 
 (2) If class of securities is concurrently being registered under the Securities Act, upon the later of the filing of the Form 8-A with the Commission or the effectiveness of the Securities Act registration statement relating to the class of securities.
 
-(Sec. 12, 48 Stat. 892, as amended; 15 U.S.C. 78*l*) [19 FR 670, Feb. 5, 1954, as amended at 59 FR 55347, Nov. 7, 1994; 62 FR 39766, July 24, 1997]
+(Sec. 12, 48 Stat. 892, as amended; 15 U.S.C. 78*l*)[19 FR 670, Feb. 5, 1954, as amended at 59 FR 55347, Nov. 7, 1994; 62 FR 39766, July 24, 1997]

@@ -1,5 +1,7 @@
 ##### 227.7108 Contractor data repositories. #####
 
+Link to an amendment published at 89 FR 103346, Dec. 18, 2024.
+
 (a) Contractor data repositories may be established when permitted by agency procedures. The contractual instrument establishing the data repository must require, as a minimum, the data repository management contractor to—
 
 (1) Establish and maintain adequate procedures for protecting technical data delivered to or stored at the repository from unauthorized release or disclosure;

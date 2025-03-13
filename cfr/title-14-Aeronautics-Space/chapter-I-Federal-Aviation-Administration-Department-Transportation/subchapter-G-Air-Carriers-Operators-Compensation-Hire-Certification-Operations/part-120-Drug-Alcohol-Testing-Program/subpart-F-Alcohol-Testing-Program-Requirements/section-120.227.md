@@ -1,5 +1,7 @@
 ##### § 120.227 Employees located outside the U.S. #####
 
+Link to an amendment published at 89 FR 103450, Dec. 18, 2024.
+
 (a) No covered employee shall be tested for alcohol misuse while located outside the territory of the United States.
 
 (1) Each covered employee who is assigned to perform safety-sensitive functions solely outside the territory of the United States shall be removed from the random testing pool upon the inception of such assignment.

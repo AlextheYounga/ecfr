@@ -12,7 +12,7 @@
 
 (i) As of the first day of the month, the individual is enrolled in a qualified health plan through an Exchange;
 
-(ii) The taxpayer pays the taxpayer's share of the premium for the individual's coverage under the plan for the month by the unextended due date for filing the taxpayer's income tax return for that taxable year, or the full premium for the month is paid by advance credit payments; and
+(ii) The taxpayer pays the taxpayer's share of the premium for the individual's coverage under the plan for the month by the unextended due date for filing the taxpayer's income tax return for that taxable year, the full premium for the month is paid by advance credit payments, or the amount of the premium paid (including by advance credit payments) for the month is sufficient to avoid termination of the individual's coverage for that month under one of the scenarios described in paragraph (c)(4) of this section; and
 
 (iii) The individual is not eligible for the full calendar month for minimum essential coverage (within the meaning of § 1.36B-2(c)) other than coverage described in section 5000A(f)(1)(C) (relating to coverage in the individual market).
 
@@ -20,9 +20,17 @@
 
 (3) *Premiums paid for a taxpayer.* Premiums another person pays for coverage of the taxpayer, taxpayer's spouse, or dependent are treated as paid by the taxpayer.
 
-(4) *Appeals of coverage eligibility.* A taxpayer who is eligible for advance credit payments pursuant to an eligibility appeal decision implemented under 45 CFR 155.545(c)(1)(ii) for coverage of a member of the taxpayer's coverage family who, based on the appeal decision, retroactively enrolls in a qualified health plan is considered to have met the requirement in paragraph (c)(1)(ii) of this section for a month if the taxpayer pays the taxpayer's share of the premiums for coverage under the plan for the month on or before the 120th day following the date of the appeals decision.
+(4) *Scenarios for payments sufficient to avoid coverage termination.* The scenarios under which the amount of the premium paid (including by advance credit payments) for the month is sufficient to avoid termination of an individual's coverage for that month under paragraph (c)(1)(ii) of this section are the following:
 
-(5) *Examples.* The following examples illustrate the provisions of this paragraph (c):
+(i) The first month of a grace period described in 45 CFR 156.270(d) for the individual.
+
+(ii) A month for which a premium payment threshold under 45 CFR 155.400(g) has been met and for which month the issuer of the individual's qualified health plan provides coverage.
+
+(iii) A month for which a State department of insurance has, during a declared emergency, issued an order prohibiting the issuer of the individual's qualified health plan from terminating the individual's coverage for the month irrespective of whether the full premium for the month is paid.
+
+(5) *Appeals of coverage eligibility.* A taxpayer who is eligible for advance credit payments pursuant to an eligibility appeal decision implemented under 45 CFR 155.545(c)(1)(ii) for coverage of a member of the taxpayer's coverage family who, based on the appeal decision, retroactively enrolls in a qualified health plan is considered to have met the requirement in paragraph (c)(1)(ii) of this section for a month if the taxpayer pays the taxpayer's share of the premiums for coverage under the plan for the month on or before the 120th day following the date of the appeals decision.
+
+(6) *Examples.* The following examples illustrate the provisions of this paragraph (c):
 
 Example 1.(i) Taxpayer M is single with no dependents. In December 2013, M enrolls in a qualified health plan for 2014 and the Exchange approves advance credit payments. M pays M's share of the premiums. On May 15, 2014, M enlists in the U.S. Army and is eligible immediately for government-sponsored minimum essential coverage.
 
@@ -40,7 +48,11 @@ Example 4.Q, an American Indian, enrolls in a qualified health plan for 2014. Q'
 
 (d) *Premium assistance amount*—(1) *Premium assistance amount.* The premium assistance amount for a coverage month is the lesser of—
 
-(i) The premiums for the month, reduced by any amounts that were refunded in the same taxable year as the premium liability is incurred, for one or more qualified health plans in which a taxpayer or a member of the taxpayer's family enrolls (enrollment premiums); or
+(i) The enrollment premiums, which are the premiums for the month for one or more qualified health plans in which a taxpayer or a member of the taxpayer's family enrolls, reduced by any amounts—
+
+(A) Refunded in the same taxable year as the premium liability is incurred; or
+
+(B) Unpaid as of the unextended due date for filing the taxpayer's income tax return for the taxable year that includes the month; or
 
 (ii) The excess of the adjusted monthly premium for the applicable benchmark plan (benchmark plan premium) over1/12 of the product of a taxpayer's household income and the applicable percentage for the taxable year (the taxpayer's contribution amount).
 
@@ -179,10 +191,12 @@ Example.(i) Taxpayer C and C's dependent, R, enroll in a qualified health plan. 
 
 (m) *Applicability date.* Paragraph (g)(1) of this section applies to taxable years beginning after December 31, 2013.
 
-(n) *Effective/applicability date.* (1) Except as provided in paragraphs (n)(2) and (3) of this section, this section applies to taxable years ending after December 31, 2013.
+(n) *Applicability dates.* (1) Except as provided in paragraphs (n)(2) through (4) of this section, this section applies to taxable years ending after December 31, 2013.
 
-(2) Paragraphs (c)(4), (d)(1) and (d)(2) of this section apply to taxable years beginning after December 31, 2016. Paragraph (f) of this section applies to taxable years beginning after December 31, 2018. Paragraphs (d)(1) and (d)(2) of § 1.36B-3, as contained in 26 CFR part I edition revised as of April 1, 2016, applies to taxable years ending after December 31, 2013, and beginning before January 1, 2017. Paragraph (f) of § 1.36B-3, as contained in 26 CFR part I edition revised as of April 1, 2016, applies to taxable years ending after December 31, 2013, and beginning before January 1, 2019.
+(2) Paragraphs (d)(1) (except for paragraph (d)(1)(i)) and (2) of this section apply to taxable years beginning after December 31, 2016. Paragraph (f) of this section applies to taxable years beginning after December 31, 2018. Paragraphs (d)(1) and (2) of § 1.36B-3, as contained in 26 CFR part 1 edition revised as of April 1, 2016, apply to taxable years ending after December 31, 2013, and beginning before January 1, 2017. Paragraph (f) of § 1.36B-3, as contained in 26 CFR part 1 edition revised as of April 1, 2016, applies to taxable years ending after December 31, 2013, and beginning before January 1, 2019.
 
-(3) Paragraph (d)(1)(i) of this section applies to taxable years beginning after December 31, 2022.
+(3) Paragraphs (c)(4) through (6) of this section apply to taxable years beginning on or after January 1, 2025. Paragraph (c)(4) of this section, as contained in 26 CFR part 1 edition revised as of April 1, 2024, applies to taxable years beginning after December 31, 2016, and beginning before January 1, 2025. Paragraph (c)(5) of this section, as contained in 26 CFR part 1 edition revised as of April 1, 2024, applies to taxable years ending after December 31, 2013, and beginning before January 1, 2025.
 
-[T.D. 9590, 77 FR 30385, May 23, 2012; 77 FR 41048, July 12, 2012; T.D. 9683, 79 FR 43627, July 28, 2014; T.D. 9745, 80 FR 78975, Dec. 18, 2015; 81 FR 2088, Jan. 15, 2016; T.D. 9804, 81 FR 91765, Dec. 19, 2016; T.D. 9822, 82 FR 34606, July 26, 2017; T.D. 9968, 87 FR 62002, Oct. 13, 2022]
+(4) Paragraph (d)(1)(i) of this section applies to taxable years beginning on or after January 1, 2025. Paragraph (d)(1)(i) of § 1.36B-3, as contained in 26 CFR part 1 edition revised as of April 1, 2016, applies to taxable years ending after December 31, 2013, and beginning before January 1, 2017. Paragraph (d)(1)(i) of § 1.36B-3, as contained in 26 CFR part 1 edition revised as of April 1, 2022, applies to taxable years beginning after December 31, 2016, and beginning before January 1, 2023. Paragraph (d)(1)(i) of § 1.36B-3, as contained in 26 CFR part 1 edition revised as of April 1, 2024, applies to taxable years beginning after December 31, 2022, and beginning before January 1, 2025.
+
+[T.D. 9590, 77 FR 30385, May 23, 2012; 77 FR 41048, July 12, 2012; T.D. 9683, 79 FR 43627, July 28, 2014; T.D. 9745, 80 FR 78975, Dec. 18, 2015; 81 FR 2088, Jan. 15, 2016; T.D. 9804, 81 FR 91765, Dec. 19, 2016; T.D. 9822, 82 FR 34606, July 26, 2017; T.D. 9968, 87 FR 62002, Oct. 13, 2022; T.D. 10019, 89 FR 102725, Dec. 18, 2024]

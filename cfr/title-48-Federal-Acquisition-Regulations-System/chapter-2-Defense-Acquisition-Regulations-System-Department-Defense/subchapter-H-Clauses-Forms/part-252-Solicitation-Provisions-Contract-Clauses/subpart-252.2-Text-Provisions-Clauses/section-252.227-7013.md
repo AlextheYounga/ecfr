@@ -1,5 +1,7 @@
 ##### 252.227-7013 Rights in Technical Data—Other Than Commercial Products and Commercial Services. #####
 
+Link to an amendment published at 89 FR 103347, Dec. 18, 2024.
+
 As prescribed in 227.7103-6(a), use the following clause:
 
 Rights in Technical Data—Other Than Commercial Products or Commercial Services (MAR 2023)

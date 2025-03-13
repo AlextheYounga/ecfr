@@ -1,5 +1,7 @@
 ##### 252.227-7028 Technical data or computer software previously delivered to the government. #####
 
+Link to an amendment published at 89 FR 103365, Dec. 18, 2024.
+
 As prescribed in 227.7103-6(d), 227.7104(f)(2), or 227.7203-6(e), use the following provision:
 
 Technical Data or Computer Software Previously Delivered to the Government (JUN 1995)

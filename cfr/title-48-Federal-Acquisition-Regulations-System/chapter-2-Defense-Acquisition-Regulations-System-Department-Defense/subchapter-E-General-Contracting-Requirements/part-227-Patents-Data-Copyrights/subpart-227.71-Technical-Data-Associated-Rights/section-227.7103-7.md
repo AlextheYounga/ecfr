@@ -1,5 +1,7 @@
 ##### 227.7103-7 Use and non-disclosure agreement. #####
 
+Link to an amendment published at 89 FR 103342, Dec. 18, 2024.
+
 (a) Except as provided in paragraph (b) of this subsection, technical data or computer software delivered to the Government with restrictions on use, modification, reproduction, release, performance, display, or disclosure may not be provided to third parties unless the intended recipient completes and signs the use and non-disclosure agreement at paragraph (c) of this subsection prior to release, or disclosure of the data.
 
 (1) The specific conditions under which an intended recipient will be authorized to use, modify, reproduce, release, perform, display, or disclose technical data subject to limited rights or computer software subject to restricted rights must be stipulated in an attachment to the use and non-disclosure agreement.

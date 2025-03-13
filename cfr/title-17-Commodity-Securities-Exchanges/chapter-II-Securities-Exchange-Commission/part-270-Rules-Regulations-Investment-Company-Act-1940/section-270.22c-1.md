@@ -94,4 +94,4 @@
 
 (d) The board of directors shall initially set the time or times during the day that the current net asset value shall be computed, and shall make and approve such changes as the board deems necessary.
 
-(Secs. 6(c), 22(c) and 38(a), 15 U.S.C. 80a-6(c), 80a-22(c) and 80a-37(a)) [44 FR 29647, May 22, 1979, as amended at 44 FR 48660, Aug. 20, 1979; 45 FR 12409, Feb. 26, 1980; 50 FR 7911, Feb. 27, 1985; 50 FR 24763, June 13, 1985; 50 FR 42682, Oct. 22, 1985; 58 FR 49922, Sept. 24, 1993; 81 FR 82137, Nov. 18, 2016; 87 FR 22446, Apr. 15, 2022]
+(Secs. 6(c), 22(c) and 38(a), 15 U.S.C. 80a-6(c), 80a-22(c) and 80a-37(a))[44 FR 29647, May 22, 1979, as amended at 44 FR 48660, Aug. 20, 1979; 45 FR 12409, Feb. 26, 1980; 50 FR 7911, Feb. 27, 1985; 50 FR 24763, June 13, 1985; 50 FR 42682, Oct. 22, 1985; 58 FR 49922, Sept. 24, 1993; 81 FR 82137, Nov. 18, 2016; 87 FR 22446, Apr. 15, 2022]

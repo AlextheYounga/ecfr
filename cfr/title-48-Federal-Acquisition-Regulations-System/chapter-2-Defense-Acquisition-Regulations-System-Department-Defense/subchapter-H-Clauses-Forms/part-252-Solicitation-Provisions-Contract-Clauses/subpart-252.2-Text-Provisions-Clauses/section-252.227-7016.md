@@ -1,5 +1,7 @@
 ##### 252.227-7016 Rights in Bid or Proposal Information. #####
 
+Link to an amendment published at 89 FR 103356, Dec. 18, 2024.
+
 As prescribed in 227.7103-6(e)(1), 227.7104(e)(1), or 227.7203-6(b), use the following clause:
 
 Rights In Bid or Proposal Information (JAN 2023)

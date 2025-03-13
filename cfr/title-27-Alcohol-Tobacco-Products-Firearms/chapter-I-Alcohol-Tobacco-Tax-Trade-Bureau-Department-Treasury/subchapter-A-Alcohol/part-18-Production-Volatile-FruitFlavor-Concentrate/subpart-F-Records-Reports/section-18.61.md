@@ -6,7 +6,7 @@
 
 (i) Enable any appropriate TTB officer to verify operations and to ascertain whether there has been compliance with law and regulations; and
 
-(ii) Enable the proprietor to prepare Form 1695(5520.2).
+(ii) Enable the proprietor to prepare Form 1695 (5520.2).
 
 (2) A proprietor need not prepare a specific record to meet the record requirements of this part. Any book, paper, invoice, bill of lading, or similar document that the proprietor prepares or receives for other purposes may be used, if all required information is shown.
 

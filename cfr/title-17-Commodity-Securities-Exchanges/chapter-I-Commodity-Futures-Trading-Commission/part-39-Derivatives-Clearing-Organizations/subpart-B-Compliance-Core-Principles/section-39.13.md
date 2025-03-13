@@ -22,7 +22,7 @@
 
 (g) *Margin requirements*—(1) *General.* Each model and parameter used in setting initial margin requirements shall be risk-based and reviewed on a regular basis.
 
-(2) *Methodology and coverage.* (i) A derivatives clearing organization shall have initial margin requirements that are commensurate with the risks of each product and portfolio, including any unusual characteristics of, or risks associated with, particular products or portfolios.
+(2) *Methodology and coverage.*(i) A derivatives clearing organization shall have initial margin requirements that are commensurate with the risks of each product and portfolio, including any unusual characteristics of, or risks associated with, particular products or portfolios.
 
 (ii) A derivatives clearing organization shall use models that generate initial margin requirements sufficient to cover the derivatives clearing organization's potential future exposures to clearing members based on price movements in the interval between the last collection of variation margin and the time within which the derivatives clearing organization estimates that it would be able to liquidate a defaulting clearing member's positions (liquidation time); *provided, however,* that a derivatives clearing organization shall use:
 
@@ -112,7 +112,7 @@
 
 (14) *Pledged assets.* If a derivatives clearing organization permits its clearing members to pledge assets for initial margin while retaining such assets in accounts in the names of such clearing members, the derivatives clearing organization shall ensure that such assets are unencumbered and that such a pledge has been validly created and validly perfected in the relevant jurisdiction.
 
-(h) *Other risk control mechanisms*—(1) *Risk limits.* (i) A derivatives clearing organization shall impose risk limits on each clearing member, by house origin and by each customer origin, in order to prevent a clearing member from carrying positions for which the risk exposure exceeds a specified threshold relative to the clearing member's and/or the derivatives clearing organization's financial resources. The derivatives clearing organization shall have reasonable discretion in determining:
+(h) *Other risk control mechanisms*—(1) *Risk limits.*(i) A derivatives clearing organization shall impose risk limits on each clearing member, by house origin and by each customer origin, in order to prevent a clearing member from carrying positions for which the risk exposure exceeds a specified threshold relative to the clearing member's and/or the derivatives clearing organization's financial resources. The derivatives clearing organization shall have reasonable discretion in determining:
 
 (A) The method of computing risk exposure;
 
@@ -134,7 +134,7 @@
 
 (4) *Portfolio compression.* A derivatives clearing organization shall make portfolio compression exercises available, on a regular and voluntary basis, for its clearing members that clear swaps, to the extent that such exercises are appropriate for those swaps that it clears; *provided, however,* a derivatives clearing organization is not required to develop its own portfolio compression services, and is only required to make such portfolio compression exercises available, if applicable portfolio compression services have been developed by a third party.
 
-(5) *Clearing members' risk management policies and procedures.* (i) A derivatives clearing organization shall have rules that:
+(5) *Clearing members' risk management policies and procedures.*(i) A derivatives clearing organization shall have rules that:
 
 (A) Require its clearing members to maintain current written risk management policies and procedures, which address the risks that such clearing members may pose to the derivatives clearing organization; and
 

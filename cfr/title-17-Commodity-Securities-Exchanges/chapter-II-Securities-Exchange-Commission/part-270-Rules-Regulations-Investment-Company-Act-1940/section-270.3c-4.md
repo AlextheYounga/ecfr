@@ -6,4 +6,4 @@ The term *common trust fund* as used in section 3(c)(3) of the Act (15 U.S.C. 80
 
 (b) The rights of persons for whose benefit a contributing bank acts as trustee, executor, administrator, or guardian would not be diminished by reason of the maintenance of such common trust fund by another bank member of the affiliated group.
 
-(15 U.S.C. 80a-6(c), 80a-37(a)) [43 FR 2393, Jan. 17, 1978]
+(15 U.S.C. 80a-6(c), 80a-37(a))[43 FR 2393, Jan. 17, 1978]

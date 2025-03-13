@@ -1,5 +1,7 @@
 ##### § 5.74 Statements of age, storage, and percentage. #####
 
+Link to an amendment published at 89 FR 102735, Dec. 18, 2024.
+
 (a) *General.* (1) As defined in § 5.1, age is the length of time during which, after distillation and before bottling, the distilled spirits have been stored in oak barrels. For bourbon whisky, rye whisky, wheat whisky, malt whisky, or rye malt whisky, and straight whiskies other than straight corn whisky, aging must occur in charred new oak barrels.
 
 (2) If an age statement is used, it is permissible to understate the age of a product, but overstatements of age are prohibited. However, the age statement may not conflict with the standard of identity, if aging is required as part of the standard of identity. For example, the standard of identity for straight rye whisky requires that the whisky be aged for a minimum of 2 years, so the age statement “Aged 1 year,” would be prohibited for a product designated as “straight” rye whisky, even if the spirits were actually aged for more than 2 years, because it is inconsistent with the standard of identity.

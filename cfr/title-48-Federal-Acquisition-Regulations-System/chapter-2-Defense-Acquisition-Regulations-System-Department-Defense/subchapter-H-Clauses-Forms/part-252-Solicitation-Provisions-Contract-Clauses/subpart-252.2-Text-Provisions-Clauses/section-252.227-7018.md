@@ -1,5 +1,7 @@
 ##### 252.227-7018 Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research (SBIR) Program. #####
 
+Link to an amendment published at 89 FR 103357, Dec. 18, 2024.
+
 As prescribed in 227.7104(a), use the following clause:
 
 Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research (SBIR) Program (NOV 2023)

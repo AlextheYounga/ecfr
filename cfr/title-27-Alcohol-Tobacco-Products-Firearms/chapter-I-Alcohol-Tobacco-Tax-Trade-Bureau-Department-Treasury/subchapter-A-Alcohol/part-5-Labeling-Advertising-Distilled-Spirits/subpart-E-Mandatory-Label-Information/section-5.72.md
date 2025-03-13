@@ -1,5 +1,7 @@
 ##### § 5.72 Coloring materials. #####
 
+Link to an amendment published at 89 FR 102735, Dec. 18, 2024.
+
 The words “artificially colored” must appear on a label of any distilled spirits product containing synthetic or natural materials that primarily contribute color, or when information on a label conveys the impression that a color was derived from a source other than the actual source of the color, except that:
 
 (a) If no coloring material other than a color exempt from certification under FDA regulations has been added, a truthful statement of the source of the color may appear in lieu of the words “artificially colored,” for example, “Contains Beta Carotene” or “Colored with beet extract.” See 21 CFR parts 73 and 74 for the list of such colors under Food and Drug Administration (FDA) regulations;

@@ -1,5 +1,7 @@
 ##### 252.227-7019 Validation of Asserted Restrictions—Computer Software. #####
 
+Link to an amendment published at 89 FR 103363, Dec. 18, 2024.
+
 As prescribed in 227.7104(e)(3) or 227.7203-6(c), use the following clause:
 
 Validation of Asserted Restrictions—Computer Software (JAN 2023)

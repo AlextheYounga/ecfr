@@ -12,4 +12,4 @@
 
 (2) Include only the net long or net short positions of the trader if the positions represent transactions on a reporting market which does not require long and short positions in the same future or option held in accounts for the same trader to be recorded and reported on a gross basis.
 
-(Approved by the Office of Management and Budget under control number 3038-0009) [46 FR 63036, Dec. 30, 1981, and 47 FR 21028, May 17, 1982, as amended at 62 FR 24034, May 2, 1997; 69 FR 76400, Dec. 21, 2004; 71 FR 37820, July 3, 2006; 74 FR 12191, Mar. 23, 2009]
+(Approved by the Office of Management and Budget under control number 3038-0009)[46 FR 63036, Dec. 30, 1981, and 47 FR 21028, May 17, 1982, as amended at 62 FR 24034, May 2, 1997; 69 FR 76400, Dec. 21, 2004; 71 FR 37820, July 3, 2006; 74 FR 12191, Mar. 23, 2009]

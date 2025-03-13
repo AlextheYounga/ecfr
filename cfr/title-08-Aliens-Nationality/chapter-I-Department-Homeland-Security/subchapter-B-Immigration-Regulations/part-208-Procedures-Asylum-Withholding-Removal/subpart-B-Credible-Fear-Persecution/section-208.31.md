@@ -1,5 +1,7 @@
 ##### § 208.31 Reasonable fear of persecution or torture determinations involving aliens ordered removed under section 238(b) of the Act and aliens whose removal is reinstated under section 241(a)(5) of the Act. #####
 
+Link to an amendment published at 89 FR 103413, Dec. 18, 2024.
+
 (a) *Jurisdiction.* This section shall apply to any alien ordered removed under section 238(b) of the Act or whose deportation, exclusion, or removal order is reinstated under section 241(a)(5) of the Act who, in the course of the administrative removal or reinstatement process, expresses a fear of returning to the country of removal. USCIS has exclusive jurisdiction to make reasonable fear determinations, and EOIR has exclusive jurisdiction to review such determinations.
 
 (b) *Initiation of reasonable fear determination process.* Upon issuance of a Final Administrative Removal Order under § 238.1 of this chapter, or notice under § 241.8(b) of this chapter that an alien is subject to removal, an alien described in paragraph (a) of this section shall be referred to an asylum officer for a reasonable fear determination. In the absence of exceptional circumstances, this determination will be conducted within 10 days of the referral.

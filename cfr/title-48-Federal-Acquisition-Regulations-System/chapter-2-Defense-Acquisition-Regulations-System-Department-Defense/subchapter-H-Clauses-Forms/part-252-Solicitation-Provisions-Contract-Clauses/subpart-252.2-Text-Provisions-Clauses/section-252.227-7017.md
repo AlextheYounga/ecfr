@@ -1,5 +1,7 @@
 ##### 252.227-7017 Identification and Assertion of Use, Release, or Disclosure Restrictions. #####
 
+Link to an amendment published at 89 FR 103356, Dec. 18, 2024.
+
 As prescribed in 227.7103-3(b), 227.7104(e)(2), or 227.7203-3(a), use the following provision:
 
 Identification and Assertion of Use, Release, or Disclosure Restrictions (JAN 2023)

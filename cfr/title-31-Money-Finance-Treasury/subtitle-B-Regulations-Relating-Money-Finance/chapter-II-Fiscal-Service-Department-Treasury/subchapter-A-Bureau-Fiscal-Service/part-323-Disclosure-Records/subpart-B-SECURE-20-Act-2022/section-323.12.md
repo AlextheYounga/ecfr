@@ -1,0 +1,3 @@
+##### § 323.12 Severability. #####
+
+The provisions of this subpart are severable, and if any section, subsection, clause, paragraph, or phrase of this subpart shall be adjudged to be invalid or unconstitutional by any court of competent jurisdiction, the judgment shall not affect, impair, or invalidate the remainder of this subpart, but shall be confined in its operation to the section, subsection, clause, paragraph, or phrase directly involved in the controversy in which such judgment shall have been rendered, and the remainder of this subpart shall continue to be in force and effect.

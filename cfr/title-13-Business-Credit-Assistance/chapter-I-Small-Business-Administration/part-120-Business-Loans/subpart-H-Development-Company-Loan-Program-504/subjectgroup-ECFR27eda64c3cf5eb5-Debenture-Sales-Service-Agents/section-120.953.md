@@ -1,5 +1,7 @@
 ##### § 120.953 Trustee. #####
 
+Link to an amendment published at 89 FR 102701, Dec. 18, 2024.
+
 SBA must appoint a Trustee to:
 
 (a) Issue Certificates;

@@ -1,5 +1,4 @@
-##### § 9.78 Ohio River Valley.
-] #####
+##### § 9.78 Ohio River Valley. #####
 
 (a) *Name.* The name of the viticultural area described in this section is “Ohio River Valley.”
 

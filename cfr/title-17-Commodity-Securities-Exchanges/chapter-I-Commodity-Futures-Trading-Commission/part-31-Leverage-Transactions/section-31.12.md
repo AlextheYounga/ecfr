@@ -38,4 +38,4 @@
 
 (h) The requirements of paragraphs (a) through (g) of this section shall not be applicable if the leverage transaction merchant is a member of a designated self-regulatory organization and conforms to minimum segregation standards and related reporting requirements set by such designated self-regulatory organization in its bylaws, rules, regulations or resolutions approved by the Commission pursuant to section 19 of the Act and § 31.28 of this part.
 
-(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982)) [49 FR 5535, Feb. 13, 1984, as amended at 50 FR 31, Jan. 2, 1985, 50 FR 34616, Sept. 6, 1985; 50 FR 40964, Oct. 8, 1985; 54 FR 41081, Oct. 5, 1989; 54 FR 46503, Nov. 3, 1989]
+(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982))[49 FR 5535, Feb. 13, 1984, as amended at 50 FR 31, Jan. 2, 1985, 50 FR 34616, Sept. 6, 1985; 50 FR 40964, Oct. 8, 1985; 54 FR 41081, Oct. 5, 1989; 54 FR 46503, Nov. 3, 1989]

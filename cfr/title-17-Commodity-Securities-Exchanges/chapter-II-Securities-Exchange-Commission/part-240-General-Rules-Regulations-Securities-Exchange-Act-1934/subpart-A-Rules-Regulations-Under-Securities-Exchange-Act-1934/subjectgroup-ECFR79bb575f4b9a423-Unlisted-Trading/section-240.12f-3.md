@@ -22,4 +22,4 @@
 
 (b) Unlisted trading privileges in any security on any national securities exchange may be suspended or terminated by such exchange in accordance with its rules.
 
-(Secs. 12(f) and 23, 15 U.S.C. 78*l* and 78w) [20 FR 6702, Sept. 13, 1955, as amended at 44 FR 75135, Dec. 19, 1979; 45 FR 36076, May 29, 1980; 60 FR 20896, Apr. 28, 1995]
+(Secs. 12(f) and 23, 15 U.S.C. 78*l* and 78w)[20 FR 6702, Sept. 13, 1955, as amended at 44 FR 75135, Dec. 19, 1979; 45 FR 36076, May 29, 1980; 60 FR 20896, Apr. 28, 1995]

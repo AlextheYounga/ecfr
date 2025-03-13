@@ -8,4 +8,4 @@
 
 (d) Leverage contracts liquidated by a leverage transaction merchant because of a margin deficiency must be liquidated in declining order of loss, commencing with the leverage contract with the greatest loss.
 
-(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982)) [49 FR 5540, Feb. 13, 1984, as amended at 50 FR 34, Jan. 2, 1985; 50 FR 36416, Sept. 6, 1985]
+(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982))[49 FR 5540, Feb. 13, 1984, as amended at 50 FR 34, Jan. 2, 1985; 50 FR 36416, Sept. 6, 1985]

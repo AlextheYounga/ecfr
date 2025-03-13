@@ -10,4 +10,4 @@ During any fiscal quarter in which elimination of securities from the portfolio 
 
 (d) Average value.
 
-For these purposes, a single method of elimination shall be used consistently with respect to all portfolio securities. In giving effect to eliminations pursuant to this section values shall be computed in accordance with section 2(a)(41)(A) of the Act (54 Stat. 790; 15 U.S.C. 80a-2(a)(41)(A)). [38 FR 8593, Apr. 4, 1973]
+For these purposes, a single method of elimination shall be used consistently with respect to all portfolio securities. In giving effect to eliminations pursuant to this section values shall be computed in accordance with section 2(a)(41)(A) of the Act (54 Stat. 790; 15 U.S.C. 80a-2(a)(41)(A)).[38 FR 8593, Apr. 4, 1973]

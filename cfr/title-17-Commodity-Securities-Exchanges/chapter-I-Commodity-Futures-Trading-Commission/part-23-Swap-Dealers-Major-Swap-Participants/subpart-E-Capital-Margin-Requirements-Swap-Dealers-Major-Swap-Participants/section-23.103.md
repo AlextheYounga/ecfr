@@ -16,7 +16,7 @@
 
 (3) In computing its minimum capital requirement under § 23.101(a)(2), a swap dealer must add the amount of the market risk capital charge computed under this section to the $20 million minimum capital requirement.
 
-(c) *Credit risk charges.* (1) A swap dealer that computes regulatory capital under § 23.101(a)(1)(ii) or (a)(2) shall compute counterparty credit risk charges using the applicable standardized credit risk charges set forth in § 240.18a-1 of this title and § 1.17 of this chapter for such positions.
+(c) *Credit risk charges.*(1) A swap dealer that computes regulatory capital under § 23.101(a)(1)(ii) or (a)(2) shall compute counterparty credit risk charges using the applicable standardized credit risk charges set forth in § 240.18a-1 of this title and § 1.17 of this chapter for such positions.
 
 (2) In computing its net capital under § 23.101(a)(1)(ii), a swap dealer shall reduce its tentative net capital by the sum of the counterparty credit risk charges computed under paragraph (c)(1) of this section.
 

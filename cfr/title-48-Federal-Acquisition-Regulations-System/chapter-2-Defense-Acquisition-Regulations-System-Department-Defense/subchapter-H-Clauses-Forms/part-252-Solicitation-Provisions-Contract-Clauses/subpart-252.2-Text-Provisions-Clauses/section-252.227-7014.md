@@ -1,5 +1,7 @@
 ##### 252.227-7014 Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation. #####
 
+Link to an amendment published at 89 FR 103351, Dec. 18, 2024.
+
 As prescribed in 227.7203-6(a)(1), use the following clause:
 
 Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation (MAR 2023)

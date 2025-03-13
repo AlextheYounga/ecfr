@@ -1,5 +1,7 @@
 ##### § 5.1 Definitions. #####
 
+Link to an amendment published at 89 FR 102734, Dec. 18, 2024.
+
 When used in this part and on forms prescribed under this part, the following terms have the meaning assigned to them in this section, unless the terms appear in a context that requires a different meaning. Any other term defined in the Federal Alcohol Administration Act (FAA Act) and used in this part has the same meaning assigned to it by the FAA Act.
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury.

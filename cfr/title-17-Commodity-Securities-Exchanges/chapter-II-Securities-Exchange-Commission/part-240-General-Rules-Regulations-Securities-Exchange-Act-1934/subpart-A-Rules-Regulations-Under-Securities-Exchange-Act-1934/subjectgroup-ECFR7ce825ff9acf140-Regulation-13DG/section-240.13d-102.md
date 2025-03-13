@@ -27,7 +27,7 @@ The information required in the remainder of this cover page shall not be deemed
 |                 (11) Percent of class represented by amount in Row (9)                 |   |
 |                    (12) Type of reporting person (see instructions)                    |   |
 
-Page \_\_ of \_\_ Pages *Instructions for Cover Page:*
+Page \_\_ of \_\_ Pages*Instructions for Cover Page:*
 
 (1) *Names of Reporting Persons*—Furnish the full legal name of each person for whom the report is filed—i.e., each person required to sign the schedule itself—including each member of a group. Do not include the name of a person required to be identified in the report but who is not a reporting person.
 
@@ -174,7 +174,7 @@ By signing below I certify that, to the best of my knowledge and belief, the sec
 
 Dated:\_\_\_\_
 
-\_\_\_\_\_\_\_\_\_\_. Signature. \_\_\_\_\_\_\_\_\_\_. Name/Title.
+\_\_\_\_\_\_\_\_\_\_.Signature.\_\_\_\_\_\_\_\_\_\_.Name/Title.
 
 The original statement shall be signed by each person on whose behalf the statement is filed or such person's authorized representative. If the statement is signed on behalf of a person by such person's authorized representative other than an executive officer or general partner of the filing person, evidence of the representative's authority to sign on behalf of such person shall be filed with the statement; *provided, however,* that a power of attorney for this purpose which is already on file with the Commission may be incorporated by reference. The name and any title of each person who signs the statement shall be typed or printed beneath such person's signature.
 

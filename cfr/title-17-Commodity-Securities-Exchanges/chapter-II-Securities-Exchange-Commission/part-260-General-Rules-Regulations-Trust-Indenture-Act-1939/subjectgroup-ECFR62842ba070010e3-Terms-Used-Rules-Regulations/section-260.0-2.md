@@ -24,7 +24,7 @@ Unless the context otherwise requires, the following terms, when used in this pa
 
 (k) *Rules and regulations.* The term “rules and regulations” means all rules and regulations adopted by the Commission pursuant to the act, including the forms and instructions thereto.
 
-(l) *Section.* The term “section” means a section of the act. 1
+(l) *Section.* The term “section” means a section of the act.1
 
 1 References to “this section” or to section number preceded by a section symbol are to sections in the Code of Federal Regulations.
 

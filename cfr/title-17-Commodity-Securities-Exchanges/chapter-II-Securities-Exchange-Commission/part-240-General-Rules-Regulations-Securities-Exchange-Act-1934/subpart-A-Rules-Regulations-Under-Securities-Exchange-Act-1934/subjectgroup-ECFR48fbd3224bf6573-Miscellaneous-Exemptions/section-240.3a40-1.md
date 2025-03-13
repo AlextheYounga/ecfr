@@ -10,4 +10,4 @@ The term *financial responsibility rules* for purposes of the Securities Investo
 
 (d) Any other rule adopted by the Commission or any self-regulatory organization relating to the protection of funds or securities.
 
-(Secs. 3, 15(c)(3), 17(a) and 23 (15 U.S.C. 78c, 78o, 78q(a) and 78u)) [44 FR 28318, May 15, 1979]
+(Secs. 3, 15(c)(3), 17(a) and 23 (15 U.S.C. 78c, 78o, 78q(a) and 78u))[44 FR 28318, May 15, 1979]
