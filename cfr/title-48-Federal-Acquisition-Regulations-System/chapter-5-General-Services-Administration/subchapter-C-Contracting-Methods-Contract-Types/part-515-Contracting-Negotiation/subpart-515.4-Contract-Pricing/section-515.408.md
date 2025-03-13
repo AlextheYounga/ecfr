@@ -1,6 +1,6 @@
 ##### 515.408 Solicitation provisions and contract clauses. #####
 
-MAS Requests for Information Other Than Cost or Pricing Data
+Link to an amendment published at 88 FR 62473, Sept. 12, 2023.MAS Requests for Information Other Than Cost or Pricing Data
 
 (a) Use Alternate IV of the FAR provision at 52.215-20, Requirements for Cost or Pricing Data or Information Other Than Cost or Pricing Data, for MAS solicitations to provide the format for submission of information other than cost or pricing data for MAS solicitations. To provide uniformity in requests under the MAS program, insert the following in paragraph (b) of the provision:
 

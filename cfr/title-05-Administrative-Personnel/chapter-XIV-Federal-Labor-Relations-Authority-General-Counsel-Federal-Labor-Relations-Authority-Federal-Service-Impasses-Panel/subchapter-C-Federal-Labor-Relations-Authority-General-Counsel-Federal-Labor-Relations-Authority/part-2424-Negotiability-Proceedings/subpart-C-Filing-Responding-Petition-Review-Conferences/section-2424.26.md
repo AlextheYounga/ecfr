@@ -1,5 +1,7 @@
 ##### § 2424.26 Agency's reply; purpose; time limits; content; service. #####
 
+Link to an amendment published at 88 FR 62458, Sept. 12, 2023.
+
 (a) *Purpose.* The purpose of the agency's reply is to inform the Authority and the exclusive representative whether and why it disagrees with any facts or arguments made for the first time in the exclusive representative's response. As more fully explained in paragraph (c) of this section, the Agency is required in the reply to, among other things, provide the reasons why the proposal or provision does not fit within any exceptions to management rights that were asserted by the exclusive representative in its response, and to explain why severance of the proposal or provision is not appropriate.
 
 (b) *Time limit for filing.* Unless the time limit for filing has been extended pursuant to § 2424.23 or part 2429 of this subchapter, within fifteen (15) days after the date the agency receives a copy of the exclusive representative's response to the agency's statement of position, the agency may file a reply.

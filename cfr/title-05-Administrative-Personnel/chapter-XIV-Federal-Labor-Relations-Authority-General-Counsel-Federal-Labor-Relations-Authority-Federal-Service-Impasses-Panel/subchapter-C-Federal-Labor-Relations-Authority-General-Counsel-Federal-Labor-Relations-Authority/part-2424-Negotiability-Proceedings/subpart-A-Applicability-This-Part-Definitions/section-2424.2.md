@@ -1,5 +1,7 @@
 ##### § 2424.2 Definitions. #####
 
+Link to an amendment published at 88 FR 62455, Sept. 12, 2023.
+
 In this part, the following definitions apply:
 
 (a) *Bargaining obligation dispute* means a disagreement between an exclusive representative and an agency concerning whether, in the specific circumstances involved in a particular case, the parties are obligated to bargain over a proposal that otherwise may be negotiable. Examples of bargaining obligation disputes include disagreements between an exclusive representative and an agency concerning agency claims that:

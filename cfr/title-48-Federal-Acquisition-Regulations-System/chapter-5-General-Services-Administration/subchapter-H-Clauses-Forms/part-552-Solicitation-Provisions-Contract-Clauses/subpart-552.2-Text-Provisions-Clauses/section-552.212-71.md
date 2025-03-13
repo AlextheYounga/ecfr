@@ -1,5 +1,7 @@
 ##### 552.212-71 Contract Terms and Conditions Applicable to GSA Acquisitions of Commercial Products and Commercial Services. #####
 
+Link to an amendment published at 88 FR 62473, Sept. 12, 2023.
+
 As prescribed in 512.301(a)(1), insert the following clause:
 
 Contract Terms and Conditions Applicable to GSA Acquisitions of Commercial Products and Commercial Services (JAN,2022)

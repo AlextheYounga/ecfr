@@ -1,5 +1,7 @@
 ##### § 2424.50 Illustrative criteria. #####
 
+Link to an amendment published at 88 FR 62460, Sept. 12, 2023.
+
 A compelling need exists for an agency rule or regulation concerning any condition of employment when the agency demonstrates that the rule or regulation meets one or more of the following illustrative criteria:
 
 (a) The rule or regulation is essential, as distinguished from helpful or desirable, to the accomplishment of the mission or the execution of functions of the agency or primary national subdivision in a manner that is consistent with the requirements of an effective and efficient government.

@@ -1,6 +1,6 @@
 ##### § 2.163 Acknowledgment of receipt of affidavit or declaration. #####
 
-Link to an amendment published at 86 FR 64332, Nov. 17, 2021.Link to a delay of the above amendment published at 87 FR 62032, Oct. 13, 2022.
+Link to an amendment published at 86 FR 64332, Nov. 17, 2021.Link to a delay of the above amendment published at 87 FR 62032, Oct. 13, 2022.Link to a delay of the above amendment published at 88 FR 62463, Sept. 12, 2023.
 
 The Office will issue a notice as to whether an affidavit or declaration is acceptable, or the reasons for refusal.
 

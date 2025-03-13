@@ -1,5 +1,7 @@
 ##### 552.215-72 Price Adjustment—Failure To Provide Accurate Information. #####
 
+Link to an amendment published at 88 FR 62474, Sept. 12, 2023.
+
 As prescribed in 515.408(d), insert the following clause:
 
 Price Adjustment—Failure To Provide Accurate Information (AUG 1997)

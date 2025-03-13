@@ -1,5 +1,7 @@
 ##### § 2424.24 Agency's statement of position; purpose; time limits; content; severance; service. #####
 
+Link to an amendment published at 88 FR 62457, Sept. 12, 2023.
+
 (a) *Purpose.* The purpose of an agency statement of position is to inform the Authority and the exclusive representative why a proposal or provision is not within the duty to bargain or contrary to law, respectively. As more fully explained in paragraph (c) of this section, the agency is required in the statement of position to, among other things, set forth its understanding of the proposal or provision, state any disagreement with the facts, arguments, or meaning of the proposal or provision set forth in the exclusive representative's petition for review, and supply all arguments and authorities in support of its position.
 
 (b) *Time limit for filing.* Unless the time limit for filing has been extended pursuant to § 2424.23 or part 2429 of this subchapter, the agency must file its statement of position within thirty (30) days after the date the head of the agency receives a copy of the petition for review.
