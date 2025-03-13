@@ -1,7 +1,5 @@
 ##### § 17.44 Special rules—fishes. #####
 
-Link to an amendment published at 88 FR 66295, Sept. 27, 2023.
-
 (a) Lahontan cutthroat trout, Paiute cutthroat trout, and Arizona trout (*Salmo clarki henshawi, Salmo clarki seleniris,* and *Salmo apache*). (1) All the provisions of § 17.31 apply to these species, except that they may be taken in accordance with applicable State law.
 
 (2) Violation of State law will also be a violation of the Act.
@@ -681,6 +679,48 @@ A listing of all countries that have not designated either a Management Authorit
 (C) Projects carried out in the DPS's range under the Working Lands for Wildlife program of the Natural Resources Conservation Service, U.S. Department of Agriculture, or similar projects conducted by the U.S. Fish and Wildlife Service's Partners for Fish and Wildlife Program or the Environmental Protection Agency's 319 Grant Program, that are implemented with a primary objective of improving environmental conditions to support the native, aquatic biodiversity of flowing water habitats.
 
 (D) Silviculture practices and forest management activities that implement State-approved best management practices to protect water and sediment quality and stream and riparian habitat.
+
+(v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+(gg) [Reserved]
+
+(hh) Relict darter (*Etheostoma chienense*).
+
+(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to relict darter. Except as provided under paragraph (hh)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *Exception*s *from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (4) for endangered wildlife.
+
+(iii) Take as set forth at § 17.31(b).
+
+(iv) Take incidental to an otherwise lawful activity caused by:
+
+(A) Channel restoration or improvement projects that create natural, physically stable, ecologically functioning streams (or stream and wetland systems) that are reconnected with their groundwater aquifers and, if the projects involve known relict darter spawning habitat, that take place between June 30 and March 1. These projects can be accomplished using a variety of methods, but the desired outcome is a natural channel with low shear stress (force of water moving against the channel); bank heights that enable reconnection to the floodplain; a reconnection of surface and groundwater systems, resulting in perennial flows in the channel; riffles and pools composed of existing soil, rock, and wood instead of large imported materials; low compaction of soils within adjacent riparian areas; and inclusion of riparian wetlands.
+
+(B) Streambank stabilization projects that use bioengineering methods to replace preexisting, bare, eroding stream banks with vegetated, stable stream banks, thereby reducing bank erosion and instream sedimentation and improving habitat conditions for the species and, if the projects involve known relict darter spawning habitat, that take place between June 30 and March 1. Stream banks may be stabilized using native live stakes (live, vegetative cuttings inserted or tamped into the ground in a manner that allows the stake to take root and grow), native live fascines (live branch cuttings, usually willows, bound together into long, cigar-shaped bundles), or brush layering (cuttings or branches of easily rooted tree species layered between successive lifts of soil fill). Stream banks must not be stabilized through the use of quarried rock (rip-rap) or the use of rock baskets or gabion structures.
+
+(C) Bridge and culvert replacement/removal projects or low head dam removal projects that remove migration barriers or generally allow for improved upstream and downstream movements of relict darters while maintaining normal stream flows, preventing bed and bank erosion, and improving habitat conditions for the species, if completed between June 30 and March 1.
+
+(D) Transportation projects that follow best management practices that eliminate sedimentation, do not block stream flow, do not channelize streams, and provide for fish passage under a wide range of hydrologic conditions at stream crossings and that are done between June 30 and March 1.
+
+(E) Projects carried out in the species' range by the Natural Resources Conservation Service, U.S. Department of Agriculture, that:
+
+(*1*) Do not alter habitats known to be used by the relict darter beyond the fish's tolerances; and
+
+(*2*) Are performed between June 30 and March 1 to avoid the time period when the relict darter will be found within its spawning habitat, if such habitat is affected by the activity.
 
 (v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
 

@@ -1,6 +1,6 @@
 ##### § 301.6721-0 Table of Contents. #####
 
-In order to facilitate the use of §§ 301.6721-1 through 6724-1, this § 301.6721-0 lists the paragraph headings contained in these sections.
+In order to facilitate the use of §§ 301.6721-1 through 301.6724-1, this section lists the paragraph headings contained in these sections.
 
 § 301.6721-1 Failure to file correct information returns.
 
@@ -22,7 +22,7 @@ In order to facilitate the use of §§ 301.6721-1 through 6724-1, this § 301.67
 
 (5) Examples.
 
-(6) Applications to returns not due on February 28 or March 15.
+(6) Applications to returns not due on January 31, February 28, or March 15.
 
 (c) Exception for inconsequential errors or omissions.
 
@@ -40,15 +40,27 @@ In order to facilitate the use of §§ 301.6721-1 through 6724-1, this § 301.67
 
 (3) Examples.
 
-(4) Nonapplication to returns not due on February 28 or March 15.
+(4) Nonapplication to returns not due on January 31, February 28, or March 15.
 
-(e) Lower limitations on the $250,000 maximum penalty amount with respect to persons with gross receipts of not more than $5,000,000.
+(e) Safe harbor exception for certain de minimis errors.
+
+(1) In general.
+
+(2) Definition of de minimis error.
+
+(3) Election to override the safe harbor exception.
+
+(4) Voluntary corrections.
+
+(5) Limitations on applicability.
+
+(f) Lower limitations on the $250,000 maximum penalty amount with respect to persons with gross receipts of not more than $5,000,000.
 
 (1) In general.
 
 (2) Gross receipts test.
 
-(f) Higher penalty for intentional disregard of requirement to file timely correct information returns.
+(g) Higher penalty for intentional disregard of requirement to file timely correct information returns.
 
 (1) Application of section 6721(e).
 
@@ -62,7 +74,7 @@ In order to facilitate the use of §§ 301.6721-1 through 6724-1, this § 301.67
 
 (6) Examples.
 
-(g) Definitions.
+(h) Definitions.
 
 (1) Information return.
 
@@ -75,6 +87,10 @@ In order to facilitate the use of §§ 301.6721-1 through 6724-1, this § 301.67
 (5) Payee.
 
 (6) Filer.
+
+(i) Adjustment for inflation.
+
+(j) Applicability date.
 
 § 301.6722-1 Failure to furnish correct payee statements.
 
@@ -100,13 +116,35 @@ In order to facilitate the use of §§ 301.6721-1 through 6724-1, this § 301.67
 
 (3) Computation of the penalty; aggregate dollar amount of items required to be shown correctly.
 
-(d) Definitions.
+(d) Safe harbor exception for certain de minimis errors.
+
+(1) In general.
+
+(2) Definition of de minimis error.
+
+(3) Election to override the safe harbor exception.
+
+(4) Record retention.
+
+(5) Examples.
+
+(6) Voluntary corrections.
+
+(7) Limitations on applicability.
+
+(e) Definitions.
 
 (1) Payee.
 
 (2) Payee statement.
 
 (3) Other items.
+
+(4) Filer.
+
+(f) Adjustment for inflation.
+
+(g) Applicability date.
 
 § 301.6723-1 Failure to comply with other information reporting requirements.
 
@@ -140,7 +178,7 @@ In order to facilitate the use of §§ 301.6721-1 through 6724-1, this § 301.67
 
 (3) Undue economic hardship relating to filing on magnetic media.
 
-(4) Actions of the Internal Revenue Service.
+(4) Actions of the IRS.
 
 (5) Actions of agent—imputed reasonable cause.
 
@@ -202,11 +240,7 @@ In order to facilitate the use of §§ 301.6721-1 through 6724-1, this § 301.67
 
 (3) Effective dates.
 
-(h) Transitional rules for information returns required to be filed (or payee statements required to be furnished) after December 31, 1989 (without regard to extensions), and on or before April 22, 1991.
-
-(1) In general.
-
-(2) Special rule on TINs.
+(h) Reasonable cause safe harbor after election under section 6722(c)(3)(B).
 
 (i) [Reserved]
 
@@ -220,4 +254,6 @@ In order to facilitate the use of §§ 301.6721-1 through 6724-1, this § 301.67
 
 (n) Manner of payment.
 
-[T.D. 8386, 56 FR 67182, Dec. 30, 1991, as amended by T.D. 8734, 62 FR 53496, Oct. 14, 1997]
+(o) Applicability date.
+
+[T.D. 8386, 56 FR 67182, Dec. 30, 1991, as amended by T.D. 8734, 62 FR 53496, Oct. 14, 1997; T.D. 9984, 88 FR 87700, Dec. 19, 2023]

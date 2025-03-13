@@ -1,5 +1,7 @@
 ##### § 655.601 Purpose. #####
 
+Link to an amendment published at 88 FR 87695, Dec. 19, 2023.
+
 To prescribe the policies and procedures of the Federal Highway Administration (FHWA) to obtain basic uniformity of traffic control devices on all streets and highways in accordance with the following references that are approved by the FHWA for application on Federal-aid projects:
 
 (a) MUTCD.
