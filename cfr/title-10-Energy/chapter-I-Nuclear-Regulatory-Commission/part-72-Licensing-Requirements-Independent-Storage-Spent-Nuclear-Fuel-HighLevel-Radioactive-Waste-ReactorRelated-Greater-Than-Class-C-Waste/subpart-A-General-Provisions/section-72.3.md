@@ -1,7 +1,5 @@
 ##### § 72.3 Definitions. #####
 
-Link to an amendment published at 88 FR 57879, Aug. 24, 2023.
-
 As used in this part:
 
 *Act* means the Atomic Energy Act of 1954 (68 Stat. 919) including any amendments thereto.
@@ -84,7 +82,11 @@ As used in this part:
 
 *Greater than Class C waste or GTCC waste* means low-level radioactive waste that exceeds the concentration limits of radionuclides established for Class C waste in § 61.55 of this chapter.
 
-*High-level radioactive waste* or *HLW* means (1) the highly radioacive material resulting from the reprocessing of spent nuclear fuel, including liquid waste produced directly in reprocessing and any solid material derived from such liquid waste that contains fission products in sufficient concentrations; and (2) other highly radioactive material that the Commission, consistent with existing law, determines by rule requires permanent isolation.
+*High-level radioactive waste* or *HLW* means—
+
+(1) the highly radioactive material resulting from the reprocessing of spent nuclear fuel, including liquid waste produced directly in reprocessing and any solid material derived from such liquid waste that contains fission products in sufficient concentrations; and
+
+(2) other highly radioactive material that the Commission, consistent with existing law, determines by rule requires permanent isolation.
 
 *Historical data* means a compilation of the available published and unpublished information concerning a particular type of event.
 
@@ -172,4 +174,4 @@ Source material does not include special nuclear material.
 
 (6) Are contained or incorporated by reference in the design bases.
 
-[53 FR 31658, Aug. 19, 1988, as amended at 59 FR 36038, July 15, 1994; 62 FR 39092, July 21, 1997; 64 FR 53614, Oct. 4, 1999; 64 FR 56121, Oct. 15, 1999; 66 FR 51839, Oct. 11, 2001; 72 FR 55933, Oct. 1, 2007; 73 FR 32462, June 9, 2008; 76 FR 8889, Feb. 16, 2011]
+[53 FR 31658, Aug. 19, 1988, as amended at 59 FR 36038, July 15, 1994; 62 FR 39092, July 21, 1997; 64 FR 53614, Oct. 4, 1999; 64 FR 56121, Oct. 15, 1999; 66 FR 51839, Oct. 11, 2001; 72 FR 55933, Oct. 1, 2007; 73 FR 32462, June 9, 2008; 76 FR 8889, Feb. 16, 2011; 88 FR 57879, Aug. 24, 2023]

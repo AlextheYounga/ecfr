@@ -1,0 +1,5 @@
+##### § 125.293 Crewmember: Tests and checks, grace provisions, accepted standards. #####
+
+(a) If a crewmember who is required to take a test or a flight check under this part completes the test or flight check in the calendar month before or after the calendar month in which it is required, that crewmember is considered to have completed the test or check in the calendar month in which it is required.
+
+(b) If a pilot being checked under this subpart fails any of the required maneuvers, the person giving the check may give additional training to the pilot during the course of the check. In addition to repeating the maneuvers failed, the person giving the check may require the pilot being checked to repeat any other maneuvers that are necessary to determine the pilot's proficiency. If the pilot being checked is unable to demonstrate satisfactory performance to the person conducting the check, the certificate holder may not use the pilot, nor may the pilot serve, in the capacity for which the pilot is being checked in operations under this part until the pilot has satisfactorily completed the check.

@@ -1,14 +1,12 @@
 ##### § 32.72 Manufacture, preparation, or transfer for commercial distribution of radioactive drugs containing byproduct material for medical use under part 35. #####
 
-Link to an amendment published at 88 FR 57878, Aug. 24, 2023.
-
 (a) An application for a specific license to manufacture, prepare, or transfer for commercial distribution radioactive drugs containing byproduct material for use by persons authorized pursuant to part 35 of this chapter will be approved if:
 
 (1) The applicant satisfies the general requirements specified in 10 CFR 30.33;
 
 (2) The applicant submits evidence that the applicant is at least one of the following:
 
-(i) Registered with the U.S. Food and Drug Administration (FDA) as the owner or operator of a drug establishment that engages in the manufacture, preparation, propagation, compounding, or processing of a drug under 21 CFR 207.20(a);
+(i) Registered with the U.S. Food and Drug Administration (FDA) as the owner or operator of a drug establishment that engages in the manufacture, preparation, propagation, compounding, or processing of a drug under 21 CFR 207.17(a);
 
 (ii) Registered or licensed with a state agency as a drug manufacturer;
 
@@ -70,4 +68,4 @@ Link to an amendment published at 88 FR 57878, Aug. 24, 2023.
 
 (e) Nothing in this section relieves the licensee from complying with applicable FDA, other Federal, and State requirements governing radioactive drugs.
 
-[59 FR 61780, Dec. 2, 1994; 59 FR 65244, Dec. 19, 1994, as amended at 60 FR 324, Jan. 4, 1995; 67 FR 20370, Apr. 24, 2002; 67 FR 62872, Oct. 9, 2002; 67 FR 77652, Dec. 19, 2002; 71 FR 15007, Mar. 27, 2006; 72 FR 45150, Aug. 13, 2007; 72 FR 55929, Oct. 1, 2007; 83 FR 33101, July 16, 2018]
+[59 FR 61780, Dec. 2, 1994; 59 FR 65244, Dec. 19, 1994, as amended at 60 FR 324, Jan. 4, 1995; 67 FR 20370, Apr. 24, 2002; 67 FR 62872, Oct. 9, 2002; 67 FR 77652, Dec. 19, 2002; 71 FR 15007, Mar. 27, 2006; 72 FR 45150, Aug. 13, 2007; 72 FR 55929, Oct. 1, 2007; 83 FR 33101, July 16, 2018; 88 FR 57878, Aug. 24, 2023]

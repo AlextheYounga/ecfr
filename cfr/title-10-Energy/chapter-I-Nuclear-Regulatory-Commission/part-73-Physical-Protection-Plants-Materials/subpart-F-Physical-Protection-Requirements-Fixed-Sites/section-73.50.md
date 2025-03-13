@@ -1,8 +1,6 @@
 ##### § 73.50 Requirements for physical protection of licensed activities. #####
 
-Link to an amendment published at 88 FR 57879, Aug. 24, 2023.
-
-Each licensee who is not subject to § 73.51, but who possesses, uses, or stores formula quantities of strategic special nuclear material that are not readily separable from other radioactive material and which have a total external radiation level in excess of 1 gray (100 rad) per hour at a distance of 1 meter (3.3 feet) from any accessible surfaces without intervening shielding other than at nuclear reactor facility licensed under parts 50 or 52 of this chapter, shall comply with the following:
+Each licensee who is not subject to § 73.51, but who possesses, uses, or stores formula quantities of strategic special nuclear material that are not readily separable from other radioactive material and which have a total external radiation level in excess of 1 gray (100 rad) per hour at a distance of 1 meter (3.3 feet) from any accessible surfaces without intervening shielding other than at a nuclear reactor facility licensed under parts 50 or 52 of this chapter, shall comply with the following:
 
 (a) *Physical security organization.* (1) The licensee shall establish a security organization, including guards, to protect his facility against radiological sabotage and the special nuclear material in his possession against theft.
 
@@ -84,4 +82,4 @@ Each licensee who is not subject to § 73.51, but who possesses, uses, or stores
 
 (h) Each licensee shall establish, maintain, and follow an NRC-approved training and qualifications plan outlining the processes by which guards, watchmen, armed response persons, and other members of the security organization will be selected, trained, equipped, tested, and qualified to ensure that these individuals meet the requirements of paragraph (a)(4) of this section.
 
-(Sec. 161i, Pub. L. 83-703, 68 Stat. 948, Pub. L. 93-377, 88 Stat. 475; secs. 201, 204(b)(1), Pub. L. 93-438, 88 Stat. 1242-1243, 1245, Pub. L. 94-79, 89 Stat. 413 (42 U.S.C. 2201, 5841, 5844))[38 FR 35430, Dec. 28, 1973, as amended at 42 FR 64103, Dec. 22, 1977; 43 FR 11965, Mar. 23, 1978; 43 FR 37426, Aug. 23, 1978; 44 FR 68198, Nov. 28, 1979; 53 FR 19259, May 27, 1988; 57 FR 33430, July 29, 1992; 57 FR 61787, Dec. 29, 1992; 59 FR 50689, Oct. 5, 1994; 63 FR 26962, May 15, 1998; 72 FR 49561, Aug. 28, 2007; 86 FR 43403, Aug. 9, 2021]
+(Sec. 161i, Pub. L. 83-703, 68 Stat. 948, Pub. L. 93-377, 88 Stat. 475; secs. 201, 204(b)(1), Pub. L. 93-438, 88 Stat. 1242-1243, 1245, Pub. L. 94-79, 89 Stat. 413 (42 U.S.C. 2201, 5841, 5844))[38 FR 35430, Dec. 28, 1973, as amended at 42 FR 64103, Dec. 22, 1977; 43 FR 11965, Mar. 23, 1978; 43 FR 37426, Aug. 23, 1978; 44 FR 68198, Nov. 28, 1979; 53 FR 19259, May 27, 1988; 57 FR 33430, July 29, 1992; 57 FR 61787, Dec. 29, 1992; 59 FR 50689, Oct. 5, 1994; 63 FR 26962, May 15, 1998; 72 FR 49561, Aug. 28, 2007; 86 FR 43403, Aug. 9, 2021; 88 FR 57879, Aug. 24, 2023]

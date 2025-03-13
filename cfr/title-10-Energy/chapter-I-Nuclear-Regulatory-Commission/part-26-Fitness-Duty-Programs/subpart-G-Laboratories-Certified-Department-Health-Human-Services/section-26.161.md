@@ -1,7 +1,5 @@
 ##### § 26.161 Cutoff levels for validity testing. #####
 
-Link to an amendment published at 87 FR 71460, Nov. 22, 2022.
-
 (a) *Validity test results.* Each validity test result for a specimen that the HHS-certified laboratory reports to the MRO as adulterated, substituted, dilute, or invalid must be based on performing an initial validity test on one aliquot and a confirmatory validity test on a second aliquot. Licensees and other entities shall ensure that the HHS-certified laboratory is capable of conducting, and conducts, confirmatory testing for at least one oxidizing adulterant and any other adulterants specified by the licensee's or other entity's testing program. If initial validity test results indicate that the specimen is valid under the criteria in paragraphs (c) through (f) of this section, the HHS-certified laboratory need not perform confirmatory validity testing of the specimen.
 
 (b) *Initial validity testing of urine.* The HHS-certified laboratory shall perform initial validity testing of each specimen as follows:

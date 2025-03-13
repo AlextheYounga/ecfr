@@ -1,12 +1,12 @@
 ##### § 119.1 Applicability. #####
 
-Link to an amendment published at 88 FR 48088, July 26, 2023.
-
 (a) This part applies to each person operating or intending to operate civil aircraft—
 
 (1) As an air carrier or commercial operator, or both, in air commerce; or
 
-(2) When common carriage is not involved, in operations of U.S.-registered civil airplanes with a seat configuration of 20 or more passengers, or a maximum payload capacity of 6,000 pounds or more.
+(2) When common carriage is not involved, in operations of any U.S.-registered civil airplane or powered-lift with a seat configuration of 20 or more passengers, or a maximum payload capacity of 6,000 pounds or more; or
+
+(3) When noncommon carriage is involved, except as provided in § 91.501(b) of this chapter, or in private carriage for compensation or hire, in operations of any U.S.-registered civil airplane or powered-lift with a passenger-seat configuration of less than 20 seats and a payload capacity of less than 6,000 pounds.
 
 (b) This part prescribes—
 
@@ -26,11 +26,11 @@ Link to an amendment published at 88 FR 48088, July 26, 2023.
 
 (d) This part does not govern operations conducted under part 91, subpart K (when common carriage is not involved) nor does it govern operations conducted under part 129, 133, 137, or 139 of this chapter.
 
-(e) Except for operations when common carriage is not involved conducted with airplanes having a passenger-seat configuration of 20 seats or more, excluding any required crewmember seat, or a payload capacity of 6,000 pounds or more, this part does not apply to—
+(e) Except for operations when common carriage is not involved conducted with any airplane or powered-lift having a passenger-seat configuration of 20 seats or more, excluding any required crewmember seat, or a payload capacity of 6,000 pounds or more, this part does not apply to—
 
 (1) Student instruction;
 
-(2) Nonstop Commercial Air Tours conducted after September 11, 2007, in an airplane or helicopter having a standard airworthiness certificate and passenger-seat configuration of 30 seats or fewer and a maximum payload capacity of 7,500 pounds or less that begin and end at the same airport, and are conducted within a 25-statute mile radius of that airport, in compliance with the Letter of Authorization issued under § 91.147 of this chapter. For nonstop Commercial Air Tours conducted in accordance with part 136, subpart B of this chapter, National Parks Air Tour Management, the requirements of part 119 of this chapter apply unless excepted in § 136.37(g)(2). For Nonstop Commercial Air Tours conducted in the vicinity of the Grand Canyon National Park, Arizona, the requirements of SFAR 50-2, part 93, subpart U, and part 119 of this chapter, as applicable, apply.
+(2) Nonstop Commercial Air Tours that occur in an airplane, powered-lift, or rotorcraft having a standard airworthiness certificate and passenger-seat configuration of 30 seats or fewer and a maximum payload capacity of 7,500 pounds or less that begin and end at the same airport, and are conducted within a 25-statute mile radius of that airport, in compliance with the Letter of Authorization issued under § 91.147 of this chapter. For nonstop Commercial Air Tours conducted in accordance with part 136, subpart B, of this chapter, National Parks Air Tour Management, the requirements of this part apply unless excepted in § 136.37(g)(2). For Nonstop Commercial Air Tours conducted in the vicinity of the Grand Canyon National Park, Arizona, the requirements of SFAR 50-2, part 93, subpart U, of the chapter and this part, as applicable, apply.
 
 (3) Ferry or training flights;
 
@@ -44,21 +44,21 @@ Link to an amendment published at 88 FR 48088, July 26, 2023.
 
 (iv) Fire fighting;
 
-(v) Helicopter operations in construction or repair work (but it does apply to transportation to and from the site of operations); and
+(v) Powered-lift or rotorcraft operations in construction or repair work (but part 119 of this chapter does apply to transportation to and from the site of operations); and
 
 (vi) Powerline or pipeline patrol;
 
-(5) Sightseeing flights conducted in hot air balloons;
+(5) Sightseeing flights conducted in hot air balloons or gliders;
 
 (6) Nonstop flights conducted within a 25-statute-mile radius of the airport of takeoff carrying persons or objects for the purpose of conducting intentional parachute operations.
 
-(7) Helicopter flights conducted within a 25 statute mile radius of the airport of takeoff if—
+(7) Powered-lift or rotorcraft flights conducted within a 25 statute mile radius of the airport of takeoff if—
 
-(i) Not more than two passengers are carried in the helicopter in addition to the required flightcrew;
+(i) Not more than two passengers are carried in the aircraft in addition to the required flightcrew;
 
 (ii) Each flight is made under day VFR conditions;
 
-(iii) The helicopter used is certificated in the standard category and complies with the 100-hour inspection requirements of part 91 of this chapter;
+(iii) The aircraft used is certificated in the standard category and complies with the 100-hour inspection requirements of part 91 of this chapter;
 
 (iv) The operator notifies the responsible Flight Standards office at least 72 hours before each flight and furnishes any essential information that the office requests;
 
@@ -66,7 +66,7 @@ Link to an amendment published at 88 FR 48088, July 26, 2023.
 
 (vi) Each flight has been approved by the Administrator; and
 
-(vii) Cargo is not carried in or on the helicopter;
+(vii) Cargo is not carried in or on the aircraft;
 
 (8) Operations conducted under part 133 of this chapter or 375 of this title;
 
@@ -76,4 +76,4 @@ Link to an amendment published at 88 FR 48088, July 26, 2023.
 
 (11) Small UAS operations conducted under part 107 of this chapter.
 
-[Doc. No. 28154, 60 FR 65913, Dec. 20, 1995, as amended by Amdt. 119-4, 66 FR 23557, May 9, 2001; Amdt. 119-5, 67 FR 9554, Mar. 1, 2002; Amdt. 119-7, 68 FR 54584, Sept. 17, 2003; 72 FR 6911, Feb. 13, 2007; Docket FAA-2015-0150, Amdt. 119-18, 81 FR 42214, June 28, 2016; Docket FAA-2018-0119, Amdt. 119-19, 83 FR 9172, Mar. 5, 2018]
+[Doc. No. 28154, 60 FR 65913, Dec. 20, 1995, as amended by Amdt. 119-4, 66 FR 23557, May 9, 2001; Amdt. 119-5, 67 FR 9554, Mar. 1, 2002; Amdt. 119-7, 68 FR 54584, Sept. 17, 2003; 72 FR 6911, Feb. 13, 2007; Docket FAA-2015-0150, Amdt. 119-18, 81 FR 42214, June 28, 2016; Docket FAA-2018-0119, Amdt. 119-19, 83 FR 9172, Mar. 5, 2018; Docket No. FAA-2022-1563; Amdt. No. 119-20, 88 FR 48088, July 26, 2023]

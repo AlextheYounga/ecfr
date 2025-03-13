@@ -1,12 +1,10 @@
 ##### § 119.5 Certifications, authorizations, and prohibitions. #####
 
-Link to an amendment published at 88 FR 48089, July 26, 2023.
-
 (a) A person authorized by the Administrator to conduct operations as a direct air carrier will be issued an Air Carrier Certificate.
 
-(b) A person who is not authorized to conduct direct air carrier operations, but who is authorized by the Administrator to conduct operations as a U.S. commercial operator, will be issued an Operating Certificate.
+(b) A person not authorized to conduct direct air carrier operations, but authorized by the Administrator to conduct operations as a U.S. commercial operator, will be issued an Operating Certificate.
 
-(c) A person who is not authorized to conduct direct air carrier operations, but who is authorized by the Administrator to conduct operations when common carriage is not involved as an operator of U.S.-registered civil airplanes with a seat configuration of 20 or more passengers, or a maximum payload capacity of 6,000 pounds or more, will be issued an Operating Certificate.
+(c) A person not authorized to conduct direct air carrier operations, but authorized by the Administrator to conduct operations when common carriage is not involved as an operator of any U.S.-registered civil airplane or powered-lift with a seat configuration of 20 or more passengers, or a maximum payload capacity of 6,000 pounds or more, will be issued an Operating Certificate.
 
 (d) A person authorized to engage in common carriage under part 121 or part 135 of this chapter, or both, shall be issued only one certificate authorizing such common carriage, regardless of the kind of operation or the class or size of aircraft to be operated.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 88 FR 48089, July 26, 2023.
 
 (l) No person may operate an aircraft under this part, part 121 of this chapter, or part 135 of this chapter in violation of an air carrier operating certificate, operating certificate, or appropriate operations specifications issued under this part.
 
-[Doc. No. 28154, 60 FR 65913, Dec. 20, 1995, as amended by Amdt. 119-3, 62 FR 13253, Mar. 19, 1997; 62 FR 15570, Apr. 1, 1997]
+[Doc. No. 28154, 60 FR 65913, Dec. 20, 1995, as amended by Amdt. 119-3, 62 FR 13253, Mar. 19, 1997; 62 FR 15570, Apr. 1, 1997; Docket No. FAA-2022-1563; Amdt. No. 119-20, 88 FR 48089, July 26, 2023]

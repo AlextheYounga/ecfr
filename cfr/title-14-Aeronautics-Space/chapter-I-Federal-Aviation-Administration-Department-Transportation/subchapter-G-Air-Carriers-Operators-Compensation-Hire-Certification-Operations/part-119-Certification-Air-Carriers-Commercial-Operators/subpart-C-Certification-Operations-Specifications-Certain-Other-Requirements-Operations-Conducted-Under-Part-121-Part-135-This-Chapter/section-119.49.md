@@ -1,7 +1,5 @@
 ##### § 119.49 Contents of operations specifications. #####
 
-Link to an amendment published at 88 FR 48089, July 26, 2023.
-
 (a) Each certificate holder conducting domestic, flag, or commuter operations must obtain operations specifications containing all of the following:
 
 (1) The specific location of the certificate holder's principal base of operations and, if different, the address that shall serve as the primary point of contact for correspondence between the FAA and the certificate holder and the name and mailing address of the certificate holder's agent for service.
@@ -30,7 +28,7 @@ Link to an amendment published at 88 FR 48089, July 26, 2023.
 
 (11) Aircraft wet lease information required by § 119.53(c).
 
-(12) Any authorized deviation and exemption granted from any requirement of this chapter.
+(12) Any authorized deviation or exemption from any requirement of this chapter that applies to the certificate holder.
 
 (13) An authorization permitting, or a prohibition against, accepting, handling, and transporting materials regulated as hazardous materials in transport under 49 CFR parts 171 through 180.
 
@@ -64,7 +62,7 @@ Link to an amendment published at 88 FR 48089, July 26, 2023.
 
 (11) Any authorization or requirement to conduct supplemental operations as provided by § 119.21(a)(3).
 
-(12) Any authorized deviation or exemption from any requirement of this chapter.
+(12) Any authorized deviation or exemption from any requirement of this chapter that applies to the certificate holder.
 
 (13) An authorization permitting, or a prohibition against, accepting, handling, and transporting materials regulated as hazardous materials in transport under 49 CFR parts 171 through 180.
 
@@ -96,10 +94,10 @@ Link to an amendment published at 88 FR 48089, July 26, 2023.
 
 (10) Aircraft wet lease information required by § 119.53(c).
 
-(11) Any authorized deviation or exemption from any requirement of this chapter.
+(11) Any authorized deviation or exemption from any requirement of this chapter that applies to the certificate holder.
 
 (12) An authorization permitting, or a prohibition against, accepting, handling, and transporting materials regulated as hazardous materials in transport under 49 CFR parts 171 through 180.
 
 (13) Any other item the Administrator determines is necessary.
 
-[Doc. No. 28154, 60 FR 65913, Dec. 20, 1995, as amended by Amdt. 119-10, 70 FR 58823, Oct. 7, 2005; Amdt. 119-13, 75 FR 26645, May 12, 2010]
+[Doc. No. 28154, 60 FR 65913, Dec. 20, 1995, as amended by Amdt. 119-10, 70 FR 58823, Oct. 7, 2005; Amdt. 119-13, 75 FR 26645, May 12, 2010; Docket No. FAA-2022-1563; Amdt. No. 119-20, 88 FR 48089, July 26, 2023]

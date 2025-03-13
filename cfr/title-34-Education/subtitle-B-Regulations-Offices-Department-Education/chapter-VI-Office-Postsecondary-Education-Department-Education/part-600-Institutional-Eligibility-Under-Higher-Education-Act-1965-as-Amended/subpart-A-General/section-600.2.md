@@ -52,6 +52,24 @@ The following definitions apply to terms used in this part:
 
 (iv) Has its own budgetary and hiring authority.
 
+*Clock hour:* (1) A period of time consisting of—
+
+(i) A 50- to 60-minute class, lecture, or recitation in a 60-minute period;
+
+(ii) A 50- to 60-minute faculty-supervised laboratory, shop training, or internship in a 60-minute period;
+
+(iii) Sixty minutes of preparation in a correspondence course; or
+
+(iv) In distance education, 50 to 60 minutes in a 60-minute period of attendance in—
+
+(A) A synchronous or asynchronous class, lecture, or recitation where there is opportunity for direct interaction between the instructor and students; or
+
+(B) An asynchronous learning activity involving academic engagement in which the student interacts with technology that can monitor and document the amount of time that the student participates in the activity.
+
+(2) A clock hour in a distance education program does not meet the requirements of this definition if it does not meet all accrediting agency and State requirements or if it exceeds an agency's or State's restrictions on the number of clock hours in a program that may be offered through distance education.
+
+(3) An institution must be capable of monitoring a student's attendance in 50 out of 60 minutes for each clock hour under this definition.
+
 *Confined or incarcerated individual:* An individual who is serving a criminal sentence in a Federal, State, or local penitentiary, prison, jail, reformatory, work farm, juvenile justice facility, or other similar correctional institution. An individual is not considered incarcerated if that individual is subject to or serving an involuntary civil commitment, in a half-way house or home detention, or is sentenced to serve only weekends.
 
 *Correspondence course:* (1) A course provided by an institution under which the institution provides instructional materials, by mail or electronic transmission, including examinations on the materials, to students who are separated from the instructors. Interaction between instructors and students in a correspondence course is limited, is not regular and substantive, and is primarily initiated by the student.

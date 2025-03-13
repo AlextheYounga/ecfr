@@ -1,10 +1,8 @@
 ##### § 2.1202 Authority and role of NRC staff. #####
 
-Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
-
 (a) During the pendency of any hearing under this subpart, consistent with the NRC staff's findings in its review of the application or matter which is the subject of the hearing and as authorized by law, the NRC staff is expected to promptly issue its approval or denial of the application, or take other appropriate action on the underlying regulatory matter for which a hearing was provided. When the NRC staff takes its action, it must notify the presiding officer and the parties to the proceeding of its action. That notice must include the NRC staff's explanation why the public health and safety is protected and why the action is in accord with the common defense and security despite the pendency of the contested matter before the presiding officer. The NRC staff's action on the matter is effective upon issuance by the staff, except in matters involving:
 
-(1) An application to construct and/or operate a production or utilization facility (including an application for a limited work authorization under 10 CFR 50.12, or an application for a combined license under subpart C of 10 CFR part 52);
+(1) An application to construct and/or operate a production or utilization facility (including an application for a limited work authorization under 10 CFR 50.10, or an application for a combined license under subpart C of 10 CFR part 52);
 
 (2) An application for an early site permit under subpart A of 10 CFR part 52;
 
@@ -26,4 +24,4 @@ Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
 
 (3) Once the NRC staff chooses to participate as a party, it shall have all the rights and responsibilities of a party with respect to the admitted contention/matter in controversy on which the staff chooses to participate.
 
-[69 FR 2267, Jan. 14, 2004, as amended at 72 FR 49483, Aug. 28, 2007; 77 FR 46598, Aug. 3, 2012]
+[69 FR 2267, Jan. 14, 2004, as amended at 72 FR 49483, Aug. 28, 2007; 77 FR 46598, Aug. 3, 2012; 88 FR 57877, Aug. 24, 2023]

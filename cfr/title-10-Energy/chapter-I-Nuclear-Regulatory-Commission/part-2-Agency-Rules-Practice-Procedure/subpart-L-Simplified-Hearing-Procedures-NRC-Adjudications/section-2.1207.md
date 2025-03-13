@@ -1,7 +1,5 @@
 ##### § 2.1207 Process and schedule for submissions and presentations in an oral hearing. #####
 
-Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
-
 (a) Unless otherwise limited by this subpart or by the presiding officer, participants in an oral hearing may submit and sponsor in the hearings:
 
 (1) Initial written statements of position and written testimony with supporting affidavits on the admitted contentions. These materials must be filed on the dates set by the presiding officer.
@@ -20,8 +18,10 @@ Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
 
 (3) Participants may designate and present their own witnesses to the presiding officer.
 
-(4) Testimony for the NRC staff will be presented only by persons designated by the Executive Director for Operations or his delegee for that purpose.
+(4) Testimony for the NRC staff will be presented only by persons designated by the Executive Director for Operations or their delegee for that purpose.
 
 (5) The presiding officer may accept written testimony from a person unable to appear at the hearing, and may request that person to respond in writing to questions.
 
 (6) Participants and witnesses will be questioned orally or in writing and only by the presiding officer or the presiding officer's designee (e.g., a Special Assistant appointed under § 2.322). The presiding officer will examine the participants and witnesses using questions prepared by the presiding officer or the presiding officer's designee, questions submitted by the participants at the discretion of the presiding officer, or a combination of both. Questions may be addressed to individuals or to panels of participants or witnesses. No party may submit proposed questions to the presiding officer at the hearing, except upon request by, and in the sole discretion of, the presiding officer.
+
+[69 FR 2267, Jan. 14, 2004, as amended at 88 FR 57877, Aug. 24, 2023]

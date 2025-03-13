@@ -1,7 +1,5 @@
 ##### § 26.165 Testing split specimens and retesting single specimens. #####
 
-Link to an amendment published at 87 FR 71461, Nov. 22, 2022.
-
 (a) *Testing split specimens.* (1) If a specimen has been split into Bottle A and Bottle B at the collection site, and the specimen was not initially tested at a licensee testing facility, then the HHS-certified laboratory shall perform initial and confirmatory validity and drug testing, if required, of the specimen in Bottle A.
 
 (2) If a specimen was initially tested at a licensee testing facility and positive or questionable validity test results were obtained, then the HHS-certified laboratory shall perform initial and confirmatory testing, if required, of the specimen in Bottle A.

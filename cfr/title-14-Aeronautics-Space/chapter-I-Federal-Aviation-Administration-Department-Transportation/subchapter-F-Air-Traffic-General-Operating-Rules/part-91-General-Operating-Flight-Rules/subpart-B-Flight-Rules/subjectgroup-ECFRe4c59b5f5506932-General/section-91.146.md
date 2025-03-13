@@ -1,7 +1,5 @@
 ##### § 91.146 Passenger-carrying flights for the benefit of a charitable, nonprofit, or community event. #####
 
-Link to an amendment published at 88 FR 48087, July 26, 2023.
-
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 *Charitable event* means an event that raises funds for the benefit of a charitable organization recognized by the Department of the Treasury whose donors may deduct contributions under section 170 of the Internal Revenue Code (26 U.S.C. Section 170).
@@ -10,21 +8,21 @@ Link to an amendment published at 88 FR 48087, July 26, 2023.
 
 *Non-profit event* means an event that raises funds for the benefit of a non-profit organization recognized under State or Federal law, as long as one of the organization's purposes is the promotion of aviation safety.
 
-(b) Passenger carrying flights for the benefit of a charitable, nonprofit, or community event identified in paragraph (c) of this section are not subject to the certification requirements of part 119 or the drug and alcohol testing requirements in part 120 of this chapter, provided the following conditions are satisfied and the limitations in paragraphs (c) and (d) are not exceeded:
+(b) Passenger-carrying flights in airplanes, powered-lift, or rotorcraft for the benefit of a charitable, nonprofit, or community event identified in paragraph (c) of this section are not subject to the certification requirements of part 119 of this chapter or the drug and alcohol testing requirements in part 120 of this chapter, provided the following conditions are satisfied and the limitations in paragraphs (c) and (d) of this section are not exceeded:
 
 (1) The flight is nonstop and begins and ends at the same airport and is conducted within a 25-statute mile radius of that airport;
 
-(2) The flight is conducted from a public airport that is adequate for the airplane or helicopter used, or from another location the FAA approves for the operation;
+(2) The flight is conducted from a public airport that is adequate for the aircraft used, or from another location the FAA approves for the operation;
 
-(3) The airplane or helicopter has a maximum of 30 seats, excluding each crewmember seat, and a maximum payload capacity of 7,500 pounds;
+(3) The aircraft has a maximum of 30 seats, excluding each crewmember seat, and a maximum payload capacity of 7,500 pounds;
 
 (4) The flight is not an aerobatic or a formation flight;
 
-(5) Each airplane or helicopter holds a standard airworthiness certificate, is airworthy, and is operated in compliance with the applicable requirements of subpart E of this part;
+(5) Each aircraft holds a standard airworthiness certificate, is airworthy, and is operated in compliance with the applicable requirements of subpart E of this part;
 
 (6) Each flight is made during day VFR conditions;
 
-(7) Reimbursement of the operator of the airplane or helicopter is limited to that portion of the passenger payment for the flight that does not exceed the pro rata cost of owning, operating, and maintaining the aircraft for that flight, which may include fuel, oil, airport expenditures, and rental fees;
+(7) Reimbursement of the operator of the aircraft is limited to that portion of the passenger payment for the flight that does not exceed the pro rata cost of owning, operating, and maintaining the aircraft for that flight, which may include fuel, oil, airport expenditures, and rental fees;
 
 (8) The beneficiary of the funds raised is not in the business of transportation by air;
 
@@ -48,4 +46,4 @@ Link to an amendment published at 88 FR 48087, July 26, 2023.
 
 (3) A signed statement from each pilot that lists all prior events under this section in which the pilot has participated during the current calendar year.
 
-[Doc. No. FAA-1998-4521, 72 FR 6910, Feb. 13, 2007, as amended by Amdt. 91-308, 74 FR 32804, July 9, 2009; Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9171, Mar. 5, 2018]
+[Doc. No. FAA-1998-4521, 72 FR 6910, Feb. 13, 2007, as amended by Amdt. 91-308, 74 FR 32804, July 9, 2009; Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9171, Mar. 5, 2018; Docket No. FAA-2022-1563; Amdt. Nos. 91-370, 88 FR 48087, July 26, 2023]

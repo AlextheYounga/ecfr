@@ -1,12 +1,10 @@
 ##### § 110.2 Definitions. #####
 
-Link to an amendment published at 88 FR 48087, July 26, 2023.
-
 For the purpose of this subchapter, the term—
 
 *All-cargo operation* means any operation for compensation or hire that is other than a passenger-carrying operation or, if passengers are carried, they are only those specified in § 121.583(a) or § 135.85 of this chapter.
 
-*Commercial air tour* means a flight conducted for compensation or hire in an airplane or helicopter where a purpose of the flight is sightseeing. The FAA may consider the following factors in determining whether a flight is a commercial air tour:
+*Commercial air tour* means a flight conducted for compensation or hire in an airplane, powered-lift, or rotorcraft where a purpose of the flight is sightseeing. The FAA may consider the following factors in determining whether a flight is a commercial air tour:
 
 (1) Whether there was a holding out to the public of willingness to conduct a sightseeing flight for compensation or hire;
 
@@ -26,23 +24,29 @@ For the purpose of this subchapter, the term—
 
 *Commuter operation* means any scheduled operation conducted by any person operating one of the following types of aircraft with a frequency of operations of at least five round trips per week on at least one route between two or more points according to the published flight schedules:
 
-(1) Airplanes, other than turbojet-powered airplanes, having a maximum passenger-seat configuration of 9 seats or less, excluding each crewmember seat, and a maximum payload capacity of 7,500 pounds or less; or
+(1) Rotorcraft; or
 
-(2) Rotorcraft.
+(2) Airplanes or powered-lift that:
+
+(i) Are not turbojet-powered;
+
+(ii) Have a maximum passenger-seat configuration of 9 seats or less, excluding each crewmember seat; and
+
+(iii) Have a maximum payload capacity of 7,500 pounds or less.
 
 *Direct air carrier* means a person who provides or offers to provide air transportation and who has control over the operational functions performed in providing that transportation.
 
 *DOD commercial air carrier evaluator* means a qualified Air Mobility Command, Survey and Analysis Office cockpit evaluator performing the duties specified in Public Law 99-661 when the evaluator is flying on an air carrier that is contracted or pursuing a contract with the U.S. Department of Defense (DOD).
 
-*Domestic operation* means any scheduled operation conducted by any person operating any airplane described in paragraph (1) of this definition at locations described in paragraph (2) of this definition:
+*Domestic operation* means any scheduled operation conducted by any person operating any aircraft described in paragraph (1) of this definition at locations described in paragraph (2) of this definition:
 
-(1) Airplanes:
+(1) Airplanes or powered-lift that:
 
-(i) Turbojet-powered airplanes;
+(i) Are turbojet-powered;
 
-(ii) Airplanes having a passenger-seat configuration of more than 9 passenger seats, excluding each crewmember seat; or
+(ii) Have a passenger-seat configuration of more than 9 passenger seats, excluding each crewmember seat; or
 
-(iii) Airplanes having a payload capacity of more than 7,500 pounds.
+(iii) Have a payload capacity of more than 7,500 pounds.
 
 (2) Locations:
 
@@ -56,21 +60,21 @@ For the purpose of this subchapter, the term—
 
 *Empty weight* means the weight of the airframe, engines, propellers, rotors, and fixed equipment. Empty weight excludes the weight of the crew and payload, but includes the weight of all fixed ballast, unusable fuel supply, undrainable oil, total quantity of engine coolant, and total quantity of hydraulic fluid.
 
-*Flag operation* means any scheduled operation conducted by any person operating any airplane described in paragraph (1) of this definition at the locations described in paragraph (2) of this definition:
+*Flag operation* means any scheduled operation conducted by any person operating any aircraft described in paragraph (1) of this definition at locations described in paragraph (2) of this definition:
 
-(1) Airplanes:
+(1) Airplanes or powered-lift that:
 
-(i) Turbojet-powered airplanes;
+(i) Are turbojet-powered;
 
-(ii) Airplanes having a passenger-seat configuration of more than 9 passenger seats, excluding each crewmember seat; or
+(ii) Have a passenger-seat configuration of more than 9 passenger seats, excluding each crewmember seat; or
 
-(iii) Airplanes having a payload capacity of more than 7,500 pounds.
+(iii) Have a payload capacity of more than 7,500 pounds.
 
 (2) Locations:
 
 (i) Between any point within the State of Alaska or the State of Hawaii or any territory or possession of the United States and any point outside the State of Alaska or the State of Hawaii or any territory or possession of the United States, respectively; or
 
-(ii) Between any point within the 48 contiguous States of the United States or the District of Columbia and any point outside the 48 contiguous States of the United States and the District of Columbia.
+(ii) Between any point within the 48 contiguous States of the United States or the District of Columbia and any point outside the 48 contiguous States of the United States and the District of Columbia; or
 
 (iii) Between any point outside the U.S. and another point outside the U.S.
 
@@ -108,19 +112,19 @@ For the purpose of this subchapter, the term—
 
 (1) Passenger-carrying operations conducted as a public charter under part 380 of this chapter or any operations in which the departure time, departure location, and arrival location are specifically negotiated with the customer or the customer's representative that are any of the following types of operations:
 
-(i) Common carriage operations conducted with airplanes, including turbojet-powered airplanes, having a passenger-seat configuration of 30 seats or fewer, excluding each crewmember seat, and a payload capacity of 7,500 pounds or less, except that operations using a specific airplane that is also used in domestic or flag operations and that is so listed in the operations specifications as required by § 119.49(a)(4) of this chapter for those operations are considered supplemental operations;
+(i) Common carriage operations conducted with airplanes or powered-lift, including any that are turbojet-powered, having a passenger-seat configuration of 30 seats or fewer, excluding each crewmember seat, and a payload capacity of 7,500 pounds or less. The operations described in this paragraph do not include operations using a specific airplane or powered-lift that is also used in domestic or flag operations and that is so listed in the operations specifications as required by § 119.49(a)(4) of this chapter for those operations are considered supplemental operations;
 
-(ii) Noncommon or private carriage operations conducted with airplanes having a passenger-seat configuration of less than 20 seats, excluding each crewmember seat, and a payload capacity of less than 6,000 pounds; or
+(ii) Noncommon or private carriage operations conducted with airplanes or powered-lift having a passenger-seat configuration of less than 20 seats, excluding each crewmember seat, and a payload capacity of less than 6,000 pounds; or
 
 (iii) Any rotorcraft operation.
 
-(2) Scheduled passenger-carrying operations conducted with one of the following types of aircraft with a frequency of operations of less than five round trips per week on at least one route between two or more points according to the published flight schedules:
+(2) Scheduled passenger-carrying operations conducted with one of the following types of aircraft, other than turbojet-powered aircraft, with a frequency of operations of less than five round trips per week on at least one route between two or more points according to the published flight schedules:
 
-(i) Airplanes, other than turbojet powered airplanes, having a maximum passenger-seat configuration of 9 seats or less, excluding each crewmember seat, and a maximum payload capacity of 7,500 pounds or less; or
+(i) Airplanes or powered-lift having a maximum passenger-seat configuration of 9 seats or less, excluding each crewmember seat, and a maximum payload capacity of 7,500 pounds or less; or
 
 (ii) Rotorcraft.
 
-(3) All-cargo operations conducted with airplanes having a payload capacity of 7,500 pounds or less, or with rotorcraft.
+(3) All-cargo operations conducted with airplanes or powered-lift having a payload capacity of 7,500 pounds or less, or with rotorcraft.
 
 *Passenger-carrying operation* means any aircraft operation carrying any person, unless the only persons on the aircraft are those identified in §§ 121.583(a) or 135.85 of this chapter, as applicable. An aircraft used in a passenger-carrying operation may also carry cargo or mail in addition to passengers.
 
@@ -132,23 +136,31 @@ For the purpose of this subchapter, the term—
 
 *Scheduled operation* means any common carriage passenger-carrying operation for compensation or hire conducted by an air carrier or commercial operator for which the certificate holder or its representative offers in advance the departure location, departure time, and arrival location. It does not include any passenger-carrying operation that is conducted as a public charter operation under part 380 of this chapter.
 
-*Supplemental operation* means any common carriage operation for compensation or hire conducted with any airplane described in paragraph (1) of this definition that is a type of operation described in paragraph (2) of this definition:
+*Supplemental operation* means any common carriage operation for compensation or hire conducted with any aircraft described in paragraph (1) of this definition that is a type of operation described in paragraph (2) of this definition:
 
-(1) Airplanes:
+(1) Airplanes or powered-lift that:
 
-(i) Airplanes having a passenger-seat configuration of more than 30 seats, excluding each crewmember seat;
+(i) Have a passenger-seat configuration of more than 30 seats, excluding each crewmember seat.
 
-(ii) Airplanes having a payload capacity of more than 7,500 pounds; or
+(ii) Have a payload capacity of more than 7,500 pounds.
 
-(iii) Each propeller-powered airplane having a passenger-seat configuration of more than 9 seats and less than 31 seats, excluding each crewmember seat, that is also used in domestic or flag operations and that is so listed in the operations specifications as required by § 119.49(a)(4) of this chapter for those operations; or
+(iii) Are propeller-powered and:
 
-(iv) Each turbojet powered airplane having a passenger seat configuration of 1 or more and less than 31 seats, excluding each crewmember seat, that is also used in domestic or flag operations and that is so listed in the operations specifications as required by § 119.49(a)(4) of this chapter for those operations.
+(A) Have a passenger-seat configuration of more than 9 seats and less than 31 seats, excluding each crewmember seat; and
+
+(B) Are used in domestic or flag operations but are so listed in the operations specifications as required by § 119.49(a)(4) of this chapter for such operations.
+
+(iv) Are turbojet-powered and:
+
+(A) Have a passenger seat configuration of 1 or more but less than 31 seats, excluding each crewmember seat; and
+
+(B) Are used in domestic or flag operations and are so listed in the operations specifications as required by § 119.49(a)(4) of this chapter for such operations.
 
 (2) Types of operation:
 
-(i) Operations for which the departure time, departure location, and arrival location are specifically negotiated with the customer or the customer's representative;
+(i) Operations for which the departure time, departure location, and arrival location are specifically negotiated with the customer or the customer's representative.
 
-(ii) All-cargo operations; or
+(ii) All-cargo operations.
 
 (iii) Passenger-carrying public charter operations conducted under part 380 of this chapter.
 
@@ -166,4 +178,4 @@ For the purpose of this subchapter, the term—
 
 *Years in service* means the calendar time elapsed since an aircraft was issued its first U.S. or first foreign airworthiness certificate.
 
-[Docket No. FAA-2009-0140, 76 FR 7486, Feb. 10, 2011, as amended by Docket FAA-2018-0119, Amdt. 110-2, 83 FR 9172, Mar. 5, 2018]
+[Docket No. FAA-2009-0140, 76 FR 7486, Feb. 10, 2011, as amended by Docket FAA-2018-0119, Amdt. 110-2, 83 FR 9172, Mar. 5, 2018; Docket No. FAA-2022-1563; Amdt. No. 110-3, 88 FR 48087, July 26, 2023]

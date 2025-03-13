@@ -1,8 +1,6 @@
 ##### § 2.702 Subpoenas. #####
 
-Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
-
-(a) On application by any party, the designated presiding officer or, if he or she is not available, the Chief Administrative Judge, or other designated officer will issue subpoenas requiring the attendance and testimony of witnesses or the production of evidence. The officer to whom application is made may require a showing of general relevance of the testimony or evidence sought, and may withhold the subpoena if such a showing is not made. However, the officer may not determine the admissibility of evidence.
+(a) On application by any party, the designated presiding officer or, if they are not available, the Chief Administrative Judge, or other designated officer will issue subpoenas requiring the attendance and testimony of witnesses or the production of evidence. The officer to whom application is made may require a showing of general relevance of the testimony or evidence sought, and may withhold the subpoena if such a showing is not made. However, the officer may not determine the admissibility of evidence.
 
 (b) Every subpoena will bear the name of the Commission, the name and office of the issuing officer and the title of the hearing, and will command the person to whom it is directed to attend and give testimony or produce specified documents or other things at a designated time and place. The subpoena will also advise of the quashing procedure provided in paragraph (f) of this section.
 
@@ -12,7 +10,7 @@ Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
 
 (e) The person serving the subpoena shall make proof of service by filing the subpoena and affidavit or acknowledgment of service with the officer before whom the witness is required to testify or produce evidence or with the Secretary. Failure to make proof of service does not affect the validity of the service.
 
-(f) On motion made promptly, and in any event at or before the time specified in the subpoena for compliance by the person to whom the subpoena is directed, and on notice to the party at whose instance the subpoena was issued, the presiding officer or, if he is unavailable, the Commission may:
+(f) On motion made promptly, and in any event at or before the time specified in the subpoena for compliance by the person to whom the subpoena is directed, and on notice to the party at whose instance the subpoena was issued, the presiding officer or, if they are unavailable, the Commission may:
 
 (1) Quash or modify the subpoena if it is unreasonable or requires evidence not relevant to any matter in issue, or
 
@@ -21,3 +19,5 @@ Link to an amendment published at 88 FR 57877, Aug. 24, 2023.
 (g) On application and for good cause shown, the Commission will seek judicial enforcement of a subpoena issued to a party and which has not been quashed.
 
 (h) The provisions of paragraphs (a) through (g) of this section are not applicable to the attendance and testimony of the Commissioners or NRC personnel, or to the production of records or documents in their custody.
+
+[69 FR 2256, Jan. 14, 2004, as amended at 88 FR 57877, Aug. 24, 2023]

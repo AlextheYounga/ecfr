@@ -1,0 +1,3 @@
+##### § 125.371 Continuing flight in unsafe conditions. #####
+
+(a) No pilot in command may allow a flight to continue toward any airport to which it has been released if, in the opinion of the pilot in command, the flight cannot be completed safely, unless, in the opinion of the pilot in command, there is no safer procedure. In that event, continuation toward that airport is an emergency situation.

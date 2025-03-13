@@ -1,5 +1,5 @@
 ##### § 136.5 Additional requirements for Hawaii. #####
 
-Link to an amendment published at 88 FR 48091, July 26, 2023.
+Any operator subject to this subpart who meets the criteria of § 136.71 must comply with the additional requirements and restrictions in subpart D of this part.
 
-No person may conduct a commercial air tour in the State of Hawaii unless they comply with the additional requirements and restrictions in appendix A to part 136.
+[Docket No. FAA-2022-1563; Amdt. No. 136-2, 88 FR 48091, July 26, 2023]

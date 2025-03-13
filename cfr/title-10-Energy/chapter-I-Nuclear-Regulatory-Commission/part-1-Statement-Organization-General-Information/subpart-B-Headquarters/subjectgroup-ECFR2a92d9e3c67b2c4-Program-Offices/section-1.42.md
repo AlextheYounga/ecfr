@@ -1,7 +1,5 @@
 ##### § 1.42 Office of Nuclear Material Safety and Safeguards. #####
 
-Link to an amendment published at 88 FR 57875, Aug. 24, 2023.
-
 (a) The Office of Nuclear Material Safety and Safeguards (NMSS) is responsible for regulating activities that provide for the safe and secure production of nuclear fuel used in commercial nuclear reactors; the safe storage, transportation, and disposal of low-level and high-level radioactive waste and spent nuclear fuel; the transportation of radioactive materials regulated under the Atomic Energy Act of 1954, as amended (the Act); and all other medical, industrial, academic, and commercial uses of radioactive isotopes. The NMSS ensures safety and security by implementing a regulatory program involving activities including licensing, inspection, assessment of environmental impacts for all nuclear material facilities and activities, assessment of licensee performance, events analysis, enforcement, and identification and resolution of generic issues. The NMSS leads, manages, and facilitates rulemaking activities for new, advanced, and operating power reactors, as well as non-power utilization facilities; nuclear materials, including production of nuclear fuel used in commercial nuclear reactors, as well as storage, transportation, and disposal of high-level radioactive waste and spent nuclear fuel, and the transportation of radioactive materials regulated by the NRC.
 
 (b) The Office of Nuclear Material Safety and Safeguards—
@@ -56,7 +54,7 @@ Link to an amendment published at 88 FR 57875, Aug. 24, 2023.
 
 (25) Develops, promulgates, and amends regulations generally associated with the materials regulated by NMSS and for all security-related regulations that will be applied to licensees and holders of certificates of compliance issued by NMSS;
 
-(26) Leads, manages, and facilitates the following rulemaking activities:
+(26) Through a Center of Expertise, leads, manages and facilitates the following rulemaking activities:
 
 (i) Develops and implements policies and procedures for the review and publication of NRC rulemakings, and ensures compliance with the Regulatory Flexibility Act and the Congressional Review Act;
 
@@ -76,10 +74,28 @@ Link to an amendment published at 88 FR 57875, Aug. 24, 2023.
 
 (29) Oversees safe management and disposal of low-level radioactive wastes;
 
-(30) Plans and directs program for financial assurance of NMSS licensees;
+(30) Through a Center of Expertise, plans and directs program for financial assurance of NRC licensees including:
+
+(i) Ensuring licensee compliance with decommissioning funding assurance requirements.
+
+(ii) Preparing safety evaluations for power reactor and research and test reactors, applicants for new reactors, and for actions associated with license transfers and exemption requests in which financial qualifications and decommissioning funding assurance requirements for reactor licensees are assessed.
+
+(iii) Ensuring compliance with power reactor financial protection requirements in the form of insurance and indemnity coverage, and evaluation of foreign ownership, control, or domination concerns for potential new licensees; and
+
+(iv) Ensuring that materials and Independent Spent Fuel Storage Installation licensees meet decommissioning funding assurance requirements.
+
+(v) Performing review and evaluation related to reactor facilities insurance, indemnity, and antitrust matters.
 
 (31) Manages the decommissioning of facilities and sites when their licensed functions are over; and
 
 (32) Identifies and takes action for activities under its responsibility, including consulting and coordinating with international, Federal, State, Tribal and local agencies, as appropriate.
 
-[79 FR 75737, Dec. 19, 2014, as amended at 80 FR 74978, Dec. 1, 2015; 83 FR 30287, June 28, 2018]
+(33) Through a Center of Expertise, supports public health, safety, and the environment through activities including:
+
+(i) Leading environmental reviews for the NRC's licensing actions as required by the National Environmental Policy Act, the Endangered Species Act, Magnuson-Stevens Fishery Conservation and Management Act, National Marine Sanctuaries Act, and the National Historic Preservation Act; and
+
+(ii) Developing and issuing Environmental Impact Statements and Environmental Assessments, and coordinating these activities with other Federal, State, Tribal and local agencies; and
+
+(iii) Monitoring licensee adherence to endangered and threatened species take limits and consulting with other Federal agencies on endangered and threatened species, critical habitats, essential fish habitats, and national marine sanctuary resources.
+
+[79 FR 75737, Dec. 19, 2014, as amended at 80 FR 74978, Dec. 1, 2015; 83 FR 30287, June 28, 2018; 88 FR 57875, Aug. 24, 2023]

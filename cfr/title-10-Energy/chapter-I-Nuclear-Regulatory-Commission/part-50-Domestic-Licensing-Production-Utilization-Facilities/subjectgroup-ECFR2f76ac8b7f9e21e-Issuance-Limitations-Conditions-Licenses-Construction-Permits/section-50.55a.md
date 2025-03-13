@@ -1,7 +1,5 @@
 ##### § 50.55a Codes and standards. #####
 
-Link to an amendment published at 88 FR 57878, Aug. 24, 2023.
-
 (a) *Documents approved for incorporation by reference.* The standards listed in this paragraph (a) have been approved for incorporation by reference by the Director of the Federal Register pursuant to 5 U.S.C. 552(a) and 1 CFR part 51. The standards are available for inspection, by appointment, at the NRC Technical Library, which is located at Two White Flint North, 11545 Rockville Pike, Rockville, Maryland 20852; telephone: 301-415-7000; email: *Library.Resource@nrc.gov;* or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fr.inspection@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (1) *American Society of Mechanical Engineers (ASME),* Three Park Avenue, New York, NY 10016; telephone: 1-800-843-2763; *https://www.asme.org/Codes/.*
@@ -386,8 +384,6 @@ Link to an amendment published at 88 FR 57878, Aug. 24, 2023.
 
 (ii) *Section III condition: Weld leg dimensions.* When applying the 1989 Addenda through the latest edition and addenda incorporated by reference in paragraph (a)(1) of this section, applicants and licensees may not apply the Section III provisions identified in table 1 to this paragraph (b)(1)(ii) for welds with leg size less than 1.09 tn:
 
-Table 1 to Paragraph (b)(1)(ii)—Prohibited Code Provisions
-
 |                                                Editions and addenda                                                |                            Code provision                             |
 |--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 |1989 Addenda through the latest edition and addenda incorporated by reference in paragraph (a)(1)(i) of this section|      Subparagraph NB-3683.4(c)(1); Subparagraph NB-3683.4(c)(2).      |
@@ -671,10 +667,6 @@ Table 1 to Paragraph (b)(1)(ii)—Prohibited Code Provisions
 
 (*4*) Table VIII-S7-1, “Flaw Locations and Orientations,” Supplement 7 to Appendix VIII, is conditioned as follows:
 
-Table 2 to Paragraph (b)(2)(xv)(K)(4)—Table VIII: S7-1—Modified
-
-[Flaw locations and orientations]
-
 |                        |Parallel  <br/>to weld|Perpendicular  <br/>to weld|
 |------------------------|----------------------|---------------------------|
 |    Inner 15 percent    |          X           |             X             |
@@ -811,7 +803,7 @@ For R \< 0, ΔKI depends on the crack depth (a), and the flow stress (σf). The 
 
 (*2*) [Reserved]
 
-(xliii) *Section XI condition: Section XI Condition: Regulatory Submittal Requirements.* Licensees shall submit for NRC review and approval the following analyses:
+(xliii) *Section XI condition: Regulatory Submittal Requirements.* Licensees shall submit for NRC review and approval the following analyses:
 
 (A) The analytical evaluation determining the effects of an out-of-limit condition on the structural integrity of the Reactor Coolant System, as described in IWB-3720(a);
 
@@ -844,8 +836,6 @@ For R \< 0, ΔKI depends on the crack depth (a), and the flow stress (σf). The 
 (D) *High risk non-safety systems.* Licensees must assess the operational readiness of pumps, valves, and dynamic restraints within the scope of the Regulatory Treatment of Non-Safety Systems for applicable reactor designs.
 
 (iv) *OM condition: Check valves (Appendix II).* Appendix II of the ASME OM Code, 2003 Addenda through the 2012 Edition, is acceptable for use with the following requirements. Trending and evaluation must support the determination that the valve or group of valves is capable of performing its intended function(s) over the entire interval. At least one of the Appendix II condition monitoring activities for a valve group must be performed on each valve of the group at approximate equal intervals not to exceed the maximum interval shown in the following table:
-
-Table 3 to Paragraph (b)(3)(iv)—Maximum Intervals for Use When Applying Interval Extensions
 
 |Group size|Maximum interval between activities of  <br/>member valves in the groups  <br/>(years)|Maximum interval between activities of each valve in the group  <br/>(years)|
 |----------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -1143,4 +1133,4 @@ Licensees using this option must also use the same edition and addenda of Append
 
 10 For inspections to be conducted once per interval, the inspections must be performed in accordance with the schedule in Section XI, paragraph IWB-2400, except for plants with inservice inspection programs based on a Section XI edition or addenda prior to the 1994 Addenda. For plants with inservice inspection programs based on a Section XI edition or addenda prior to the 1994 Addenda, the inspection must be performed in accordance with the schedule in Section XI, paragraph IWB-2400, of the 1994 Addenda.
 
-[79 FR 65798, Nov. 5, 2014, as amended at 79 FR 66603, Nov. 10, 2014; 79 FR 73462, Dec. 11, 2014; 82 FR 52825, Dec. 15, 2017; 83 FR 2354, Jan. 17, 2018; 83 FR 2526, Jan. 18, 2018; 84 FR 65644, Nov. 29, 2019; 85 FR 14756, Mar. 16, 2020; 85 FR 26576, May 4, 2020; 85 FR 34088, June 3, 2020; 85 FR 65662, Oct. 16, 2020; 87 FR 11949, Mar. 3, 2022; 87 FR 65148, Oct. 27, 2022; 87 FR 73633, Dec. 1, 2022]
+[79 FR 65798, Nov. 5, 2014, as amended at 79 FR 66603, Nov. 10, 2014; 79 FR 73462, Dec. 11, 2014; 82 FR 52825, Dec. 15, 2017; 83 FR 2354, Jan. 17, 2018; 83 FR 2526, Jan. 18, 2018; 84 FR 65644, Nov. 29, 2019; 85 FR 14756, Mar. 16, 2020; 85 FR 26576, May 4, 2020; 85 FR 34088, June 3, 2020; 85 FR 65662, Oct. 16, 2020; 87 FR 11949, Mar. 3, 2022; 87 FR 65148, Oct. 27, 2022; 87 FR 73633, Dec. 1, 2022; 88 FR 57878, Aug. 24, 2023]

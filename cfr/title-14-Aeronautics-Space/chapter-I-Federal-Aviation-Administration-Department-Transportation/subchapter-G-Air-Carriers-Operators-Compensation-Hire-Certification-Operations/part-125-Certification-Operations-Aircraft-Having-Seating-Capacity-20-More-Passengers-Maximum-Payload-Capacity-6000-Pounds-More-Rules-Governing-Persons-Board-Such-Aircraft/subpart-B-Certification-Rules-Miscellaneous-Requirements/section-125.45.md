@@ -1,0 +1,3 @@
+##### § 125.45 Inspection authority. #####
+
+Each certificate holder shall allow the Administrator, at any time or place, to make any inspections or tests to determine its compliance with the Federal Aviation Act of 1958, the Federal Aviation Regulations, its operating certificate and operations specifications, its letter of deviation authority, or its eligibililty to continue to hold its certificate or its letter of deviation authority.

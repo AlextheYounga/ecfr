@@ -1,14 +1,12 @@
 ##### § 119.65 Management personnel required for operations conducted under part 121 of this chapter. #####
 
-Link to an amendment published at 88 FR 48089, July 26, 2023.
-
 (a) Each certificate holder must have sufficient qualified management and technical personnel to ensure the highest degree of safety in its operations. The certificate holder must have qualified personnel serving full-time in the following or equivalent positions:
 
 (1) Director of Safety.
 
 (2) Director of Operations.
 
-(3) Chief Pilot.
+(3) Chief Pilot for each category of aircraft the certificate holder uses, as listed in § 61.5(b)(1) of this chapter.
 
 (4) Director of Maintenance.
 
@@ -18,7 +16,7 @@ Link to an amendment published at 88 FR 48089, July 26, 2023.
 
 (1) The kind of operation involved;
 
-(2) The number and type of airplanes used; and
+(2) The number and type of aircraft used; and
 
 (3) The area of operations.
 
@@ -50,4 +48,4 @@ Link to an amendment published at 88 FR 48089, July 26, 2023.
 
 (3) Notify the responsible Flight Standards office within 10 days of any change in personnel or any vacancy in any position listed.
 
-[Docket No. 28154, 60 FR 65913, Dec. 20, 1995, as amended by Docket FAA-2018-0119, Amdt. 119-19, 83 FR 9172, Mar. 5, 2018]
+[Docket No. 28154, 60 FR 65913, Dec. 20, 1995, as amended by Docket FAA-2018-0119, Amdt. 119-19, 83 FR 9172, Mar. 5, 2018; Docket No. FAA-2022-1563; Amdt. No. 119-20, 88 FR 48089, July 26, 2023]

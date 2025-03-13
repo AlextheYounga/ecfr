@@ -1,7 +1,5 @@
 ##### § 1.43 Office of Nuclear Reactor Regulation. #####
 
-Link to an amendment published at 88 FR 57876, Aug. 24, 2023.
-
 The Office of Nuclear Reactor Regulation—
 
 (a) Develops, promulgates and implements regulations and develops and implements policies, programs, and procedures for all aspects of licensing, inspection, and safeguarding of—
@@ -22,10 +20,8 @@ The Office of Nuclear Reactor Regulation—
 
 (d) Provides special assistance as required in matters involving reactor facilities exempt from licensing;
 
-(e) Provides guidance and implementation direction to Regional Offices on reactor licensing, inspection, and safeguards programs assigned to the Region, and appraises Regional program performance in terms of effectiveness and uniformity;
+(e) Provides guidance and implementation direction to Regional Offices on reactor licensing, inspection, and safeguards programs assigned to the Region, and appraises Regional program performance in terms of effectiveness and uniformity; and
 
-(f) Performs other functions required for implementation of the reactor licensing, inspection, and safeguard programs; and
+(f) Performs other functions required for implementation of the reactor licensing, inspection, and safeguard programs.
 
-(g) Performs review and evaluation related to regulated facilities insurance, indemnity, and antitrust matters.
-
-[70 FR 69422, Nov. 16, 2005, as amended at 72 FR 49470, Aug. 28, 2007]
+[70 FR 69422, Nov. 16, 2005, as amended at 72 FR 49470, Aug. 28, 2007; 88 FR 57876, Aug. 24, 2023]
