@@ -1,6 +1,6 @@
 ##### § 520.1604 Oclacitinib. #####
 
-(a) *Specifications.* Each tablet contains 3.6, 5.4, or 16 milligrams (mg) of oclacitinib as oclacitinib maleate.
+(a) *Specifications.* Each tablet or chewable tablet contains 3.6, 5.4, or 16 milligrams (mg) of oclacitinib as oclacitinib maleate.
 
 (b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
@@ -10,4 +10,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[78 FR 42007, July 15, 2013]
+[78 FR 42007, July 15, 2013, as amended at 88 FR 55563, Aug. 16, 2023]

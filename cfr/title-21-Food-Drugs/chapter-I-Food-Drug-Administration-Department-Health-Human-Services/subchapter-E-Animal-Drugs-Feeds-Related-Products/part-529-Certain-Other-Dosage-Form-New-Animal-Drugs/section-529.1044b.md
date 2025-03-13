@@ -8,6 +8,6 @@
 
 (2) *Indications for use.* As an aid in the reduction or elimination of the following microorganisms from turkey-hatching eggs: *Arizona hinshawii* (*paracolon*), *Salmonella* Saintpaul, and *Mycoplasma meleagridis.*
 
-(3) *Limitations.* For use in the dipping treatment of turkey-hatching eggs only. Eggs which have been dipped in the drug shall not be used for food. For No. 000061: Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+(3) *Limitations.* Eggs which have been dipped in the drug shall not be used for food. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[40 FR 13881, Mar. 27, 1975, as amended at 52 FR 7833, Mar. 13, 1987; 62 FR 22889, Apr. 28, 1997; 71 FR 13543, Mar. 16, 2006; 79 FR 10973, Feb. 27, 2014; 88 FR 16549, Mar. 20, 2023]
+[40 FR 13881, Mar. 27, 1975, as amended at 52 FR 7833, Mar. 13, 1987; 62 FR 22889, Apr. 28, 1997; 71 FR 13543, Mar. 16, 2006; 79 FR 10973, Feb. 27, 2014; 88 FR 16549, Mar. 20, 2023; 88 FR 55567, Aug. 16, 2023]

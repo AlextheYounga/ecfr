@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each milliliter of solution contains 0.5 milligrams (mg) of flumethasone.
 
-(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 054771 and 061133 in § 510.600(c) of this chapter.
 
 (c) *Conditions of use.* It is used as follows:
 
@@ -10,7 +10,7 @@
 
 (ii) *Indications for use.* For use in the treatment of musculoskeletal conditions due to inflammation, where permanent structural changes do not exist, e.g., bursitis, carpitis, osselets, and myositis; and allergic states, e.g., hives, urticaria, and insect bites.
 
-(iii) *Limitations.* Do not use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+(iii) *Limitations.* Not for use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
 (2) *Dogs*—(i) *Amount.* Administer 0.0625 to 0.25 mg daily by intravenous, intramuscular, or subcutaneous injection; 0.125 to 1.0 mg daily by intra-lesional injection, depending on the size and location of the lesion; or 0.166 to 1.0 mg daily by intra-articular injection, depending on the severity of the condition and the size of the involved joint.
 
@@ -24,4 +24,4 @@
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[79 FR 16188, Mar. 25, 2014]
+[79 FR 16188, Mar. 25, 2014, as amended at 88 FR 55564, Aug. 16, 2023]

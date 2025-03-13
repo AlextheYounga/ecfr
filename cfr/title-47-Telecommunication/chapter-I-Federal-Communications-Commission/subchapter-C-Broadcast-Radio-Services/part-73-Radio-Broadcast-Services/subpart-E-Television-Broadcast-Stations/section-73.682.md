@@ -1,7 +1,5 @@
 ##### § 73.682 TV transmission standards. #####
 
-Link to an amendment published at 88 FR 45366, July 17, 2023.
-
 (a) *Transmission standards.* (1) The width of the television broadcast channel shall be 6 MHz.
 
 (2) The visual carrier frequency shall be nominally 1.25 MHz above the lower boundary of the channel.
@@ -268,14 +266,10 @@ The signals on Fields 1 and 2 shall be distinct data streams, for example, to su
 
 (ii) In addition, such signals shall also comply with the standards set forth in ATSC A/322:2017 “Physical Layer Protocol” (June 6, 2017) (incorporated by reference, see § 73.8000) with respect to the transmission of at least one free over the air primary video programming stream.
 
-(iii) Paragraph (f)(2)(ii) of this section will sunset on March 6, 2023.
+(iii) Paragraph (f)(2)(ii) of this section will sunset on July 17, 2027.
 
 Note 1 to § 73.682:
 
 For additional information regarding this requirement, *see* Implementation of the Commercial Advertisement Loudness Mitigation (CALM) Act, FCC 11-182.
-
-Note 2 to § 73.682:
-
-Effective April 5, 2023, 47 CFR 73.682(f)(2)(iii) is stayed indefinitely.
 
 (Secs. 4, 5, 303, 48 Stat., as amended, 1066, 1068, 1082 (47 U.S.C. 154, 155, 303))[28 FR 13660, Dec. 14, 1963]Editorial Note:For Federal Register citations affecting § 73.682, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

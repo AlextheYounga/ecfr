@@ -16,7 +16,7 @@
 
 (i) *Indications for use.* Treatment of bacterial enteritis (scours) caused by *Escherichia coli* and bacterial pneumonia associated with *Pasteurella* spp., *Klesbsiella* spp., and *Haemophilus* spp.
 
-(ii) *Limitations.* Administer bolus directly by mouth or crush and dissolve in milk or water for drenching or bucket feeding; if no improvement is noted after 3 days of treatment, consult a veterinarian; do not use for more than 5 days; do not administer within 24 hours of slaughter.
+(ii) *Limitations.* Administer bolus directly by mouth or crush and dissolve in milk or water for drenching or bucket feeding. Do not use for more than 5 days. Do not administer within 24 hours of slaughter. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
 (2) *Amount.* One 25 milligram tablet for each 5 pounds of body weight every 12 hours daily for 3 to 5 days.
 
@@ -30,4 +30,4 @@
 
 (ii) *Limitations.* Do not use for more than 5 days. Do not administer within 24 hours of slaughter. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[57 FR 37325, Aug. 18, 1992, as amended at 67 FR 78355, Dec. 24, 2002. Redesignated and amended at 76 FR 49649, Aug. 11, 2011; 78 FR 21059, Apr. 9, 2013; 81 FR 17607, Mar. 30, 2016; 88 FR 16547, Mar. 20, 2023; 88 FR 27698, May 3, 2023]
+[57 FR 37325, Aug. 18, 1992, as amended at 67 FR 78355, Dec. 24, 2002. Redesignated and amended at 76 FR 49649, Aug. 11, 2011; 78 FR 21059, Apr. 9, 2013; 81 FR 17607, Mar. 30, 2016; 88 FR 16547, Mar. 20, 2023; 88 FR 27698, May 3, 2023; 88 FR 55563, Aug. 16, 2023]

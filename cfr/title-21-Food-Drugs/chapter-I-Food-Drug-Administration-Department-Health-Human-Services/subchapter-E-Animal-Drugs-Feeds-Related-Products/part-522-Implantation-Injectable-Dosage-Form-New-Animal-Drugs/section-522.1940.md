@@ -1,14 +1,16 @@
 ##### § 522.1940 Progesterone and estradiol benzoate. #####
 
-(a) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (c) of this section:
+(a) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (d) of this section.
 
-(1) No. 054771 for use as in paragraphs (c)(1)(i)(A), (c)(1)(ii), (c)(1)(iii), (c)(2)(i)(A), (c)(2)(ii), (c)(2)(iii), and (c)(3) of this section.
+(1) No. 054771 for use as in paragraphs (d)(1)(i)(A), (d)(1)(ii) and (iii), (d)(2)(i)(A), (d)(2)(ii) and (iii), and (d)(3) of this section.
 
-(2) No. 058198 for use as in paragraphs (c)(1) and (c)(2) of this section.
+(2) No. 058198 for use as in paragraphs (d)(1) and (2) of this section.
 
 (b) *Related tolerances.* See §§ 556.240 and 556.540 of this chapter.
 
-(c) *Conditions of use in cattle.* It is used for implantation as follows:
+(c) *Special considerations.* Labeling of implants described in paragraphs (d)(1)(i)(B) and (d)(2)(i)(B) of this section shall bear the following: “Federal law restricts this drug to use by or on the order of a licensed veterinarian.”.
+
+(d) *Conditions of use in cattle.* It is used for implantation as follows:
 
 (1) *Suckling beef calves at least 45 days old and up to 400 lb of body weight*—(i) *Amount.* (A) 100 milligrams (mg) progesterone and 10 mg estradiol benzoate (one implant consisting of 4 pellets, each pellet containing 25 mg progesterone and 2.5 mg estradiol benzoate) per implant dose.
 
@@ -32,4 +34,4 @@
 
 (iii) *Limitations.* For subcutaneous ear implantation. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
 
-[69 FR 70055, Dec. 2, 2004, as amended at 77 FR 31723, May 30, 2012; 79 FR 16194, Mar. 25, 2014; 81 FR 48702, July 26, 2016; 87 FR 17946, Mar. 29, 2022]
+[69 FR 70055, Dec. 2, 2004, as amended at 77 FR 31723, May 30, 2012; 79 FR 16194, Mar. 25, 2014; 81 FR 48702, July 26, 2016; 87 FR 17946, Mar. 29, 2022; 88 FR 55566, Aug. 16, 2023]

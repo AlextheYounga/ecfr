@@ -30,6 +30,6 @@
 
 (6) *Honey.* 750 ppb.
 
-(c) *Related conditions of use.* See §§ 520.1660a, 520.1660c, 520.1660d, 522.1660a, 522.1660b, 522.1662, 522.1664, 529.1660, 558.450, and 558.455 of this chapter.
+(c) *Related conditions of use.* See §§ 520.1660c, 520.1660d, 520.1664, 522.1660a, 522.1660b, 522.1662, 522.1664, 529.1660, 558.450, and 558.455 of this chapter.
 
-[84 FR 32993, July 11, 2019, as amended at 85 FR 18121, Apr. 1, 2020; 88 FR 16549, Mar. 20, 2023]
+[84 FR 32993, July 11, 2019, as amended at 85 FR 18121, Apr. 1, 2020; 88 FR 16549, Mar. 20, 2023, 88 FR 55567, Aug. 16, 2023]

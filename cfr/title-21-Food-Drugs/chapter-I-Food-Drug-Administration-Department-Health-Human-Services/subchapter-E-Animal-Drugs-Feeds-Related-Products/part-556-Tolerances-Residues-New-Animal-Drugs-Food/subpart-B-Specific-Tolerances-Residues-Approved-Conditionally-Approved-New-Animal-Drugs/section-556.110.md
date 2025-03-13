@@ -8,4 +8,6 @@
 
 (2) [Reserved]
 
-(c) *Related conditions of use.* See § 520.1660a of this chapter.
+(c) *Related conditions of use.* See § 520.1664 of this chapter.
+
+[84 FR 32993, July 11, 2019, as amended at 88 FR 55567, Aug. 16, 2023]

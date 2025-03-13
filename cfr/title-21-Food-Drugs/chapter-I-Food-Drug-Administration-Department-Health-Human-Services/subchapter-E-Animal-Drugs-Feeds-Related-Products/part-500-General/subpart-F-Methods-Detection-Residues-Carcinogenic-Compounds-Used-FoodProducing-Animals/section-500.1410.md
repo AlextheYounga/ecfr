@@ -16,6 +16,6 @@
 
 (ii) [Reserved]
 
-(c) *Related conditions of use.* See §§ 522.814 and 522.955 of this chapter.
+(c) *Related conditions of use.* See §§ 522.814, 522.955, and 522.1660a of this chapter.
 
-[87 FR 10966, Feb. 28, 2022]
+[87 FR 10966, Feb. 28, 2022, as amended at 88 FR 55562, Aug. 16, 2023]

@@ -49,7 +49,7 @@
 |                                                       HQ Specialty Pharma Corp., 120 Rte. 17 North, suite 130, Paramus, NJ 07652                                                       |     042791      |
 |                                                        Huvepharma EOOD, 5th Floor, 3A Nikolay Haytov Str., 1113 Sofia, Bulgaria                                                        |     016592      |
 |                                                            IMPAX Laboratories, Inc., 30831 Huntwood Ave., Hayward, CA 94544                                                            |     000115      |
-|                                                                   Intervet, Inc., 2 Giralda Farms, Madison, NJ 07940                                                                   |     000061      |
+|                                                                  Intervet, Inc., 126 E Lincoln Ave., Rahway, NJ 07065                                                                  |     000061      |
 |                                                  Ishihara Sangyo Kaisha, Ltd., 3-15, Edobori 1-chome, Nishi-ku, Osaka 550-0002, Japan                                                  |     064642      |
 |                                                          Ivaoes Animal Health, 4300 SW 73rd Ave., Suite 110, Miami, FL 33155                                                           |     086064      |
 |                                                         Jaguar Animal Health, 200 Pine St., Suite 600, San Francisco, CA 94104                                                         |     086149      |
@@ -106,7 +106,7 @@
 |Drug labeler code|                                                                                  Firm name and address                                                                                  |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     000010      |                                                  Boehringer Ingelheim Animal Health USA, Inc., 3239 Satellite Blvd., Duluth, GA 30096.                                                  |
-|     000061      |                                                                   Intervet, Inc., 2 Giralda Farms, Madison, NJ 07940.                                                                   |
+|     000061      |                                                                  Intervet, Inc., 126 E Lincoln Ave., Rahway, NJ 07065                                                                   |
 |     000115      |                                                            IMPAX Laboratories, Inc., 30831 Huntwood Ave., Hayward, CA 94544.                                                            |
 |     010797      |                                                            American Regent, Inc., Animal Health Division, Shirley, NY 11967.                                                            |
 |     011788      |                                                         Aiping Pharmaceutical, Inc., 350W Wireless Blvd., Hauppauge, NY 11788.                                                          |

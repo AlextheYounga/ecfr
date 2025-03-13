@@ -22,7 +22,7 @@ Link to an amendment published at 88 FR 45368, July 17, 2023.
 
 (2) For purposes of paragraph (b)(1) of this section, programming that airs at a different time on the ATSC 1.0 simulcast signal than on the primary video programming stream of the ATSC 3.0 signal is not considered “substantially similar.”
 
-(3) The “substantially similar” requirement in paragraph (b)(1) of this section will sunset on July 17, 2023.
+(3) The “substantially similar” requirement in paragraph (b)(1) of this section will sunset on July 17, 2027.
 
 (c) *Transitioning directly to ATSC 3.0.* LPTV and TV translator stations may transition directly from ATSC 1.0 to ATSC 3.0 operation without simulcasting.
 
@@ -130,4 +130,4 @@ Link to an amendment published at 88 FR 45368, July 17, 2023.
 
 (5) Next Gen TV stations may choose whether to provide notice as required by this section either by a letter notification or electronically via email if the relevant MVPD agrees to receive such notices by email. Letter notifications to MVPDs must be sent by certified mail, return receipt requested to the MVPD's address in the FCC's Online Public Inspection File (OPIF), if the MVPD has an online file. For cable systems that do not have an online file, notices must be sent to the cable system's official address of record provided in the system's most recent filing in the FCC's Cable Operations and Licensing System (COALS). For MVPDs with no official address in OPIF or COALS, the letter must be sent to the MVPD's official corporate address registered with their State of incorporation.
 
-[83 FR 5026, Feb. 2, 2018, as amended at 85 FR 43492, July 17, 2020]
+[83 FR 5026, Feb. 2, 2018, as amended at 85 FR 43492, July 17, 2020; 88 FR 45368, July 17, 2023]
