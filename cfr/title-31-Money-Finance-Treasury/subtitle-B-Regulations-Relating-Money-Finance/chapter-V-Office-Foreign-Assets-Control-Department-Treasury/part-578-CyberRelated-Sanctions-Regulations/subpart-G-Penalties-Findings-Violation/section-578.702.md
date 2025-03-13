@@ -10,10 +10,12 @@
 
 (ii) *Extensions of time for response.* If a due date falls on a Federal holiday or weekend, that due date is extended to include the following business day. Any other extensions of time will be granted, at the discretion of OFAC, only upon specific request to OFAC.
 
-(3) *Form and method of response.* A response to a Pre-Penalty Notice need not be in any particular form, but it must be typewritten and signed by the alleged violator or a representative thereof (electronic signature is acceptable), contain information sufficient to indicate that it is in response to the Pre-Penalty Notice, and include the OFAC identification number listed on the Pre-Penalty Notice. The response must be sent to OFAC's Office of Compliance and Enforcement by mail or courier or email and must be postmarked or date-stamped in accordance with paragraph (b)(2) of this section.
+(3) *Form and method of response.* A response to a Pre-Penalty Notice need not be in any particular form, but it must be typewritten and signed by the alleged violator or a representative thereof (electronic signature is acceptable), contain information sufficient to indicate that it is in response to the Pre-Penalty Notice, and include the OFAC identification number listed on the Pre-Penalty Notice. The response must be sent to OFAC's Office of Compliance and Enforcement Division by mail or courier or email and must be postmarked or date-stamped in accordance with paragraph (b)(2) of this section.
 
 (c) *Settlement.* Settlement discussion may be initiated by OFAC, the alleged violator, or the alleged violator's authorized representative. For a description of practices with respect to settlement, see appendix A to part 501 of this chapter.
 
 (d) *Guidelines.* Guidelines for the imposition or settlement of civil penalties by OFAC are contained in appendix A to part 501 of this chapter.
 
 (e) *Representation.* A representative of the alleged violator may act on behalf of the alleged violator, but any oral communication with OFAC prior to a written submission regarding the specific allegations contained in the Pre-Penalty Notice must be preceded by a written letter of representation, unless the Pre-Penalty Notice was served upon the alleged violator in care of the representative.
+
+[87 FR 59678, Oct. 3, 2022, as amended at 89 FR 15742, Mar. 5, 2024]

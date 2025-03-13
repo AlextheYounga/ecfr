@@ -10,7 +10,8 @@
 
 (1) *Email (preferred method): OFACReport@treasury.gov;* or
 
-(2) *U.S. mail:* Attention: Office of Compliance and Enforcement, Office of Foreign Assets Control, U.S. Department of the Treasury, 1500 Pennsylvania Avenue NW, Freedman's Bank Building, Washington, DC 20220.
+(2) *U.S. mail:* Attention: Compliance Division,
+Office of Foreign Assets Control, U.S. Department of the Treasury, 1500 Pennsylvania Avenue NW, Freedman's Bank Building, Washington, DC 20220.
 
 (c) Specific licenses may be issued on a case-by-case basis to authorize transactions outside the scope or time period authorized in paragraph (a) of this section by a U.S. financial institution with respect to a correspondent account or a payable-through account maintained by the U.S. financial institution for a foreign financial institution whose name is added to the CAPTA List. License applications should be filed in conformance with § 501.801 of the Reporting, Procedures and Penalties Regulations, 31 CFR part 501.
 
@@ -20,4 +21,4 @@ Note 1 to § 510.519:
 
 This section does not authorize a U.S. financial institution to unblock property or interests in property, or to engage in any transaction or dealing in property or interests in property, blocked pursuant to any other part of this chapter in the process of closing a correspondent account or a payable-through account for a foreign financial institution whose name has been added to the CAPTA List. *See* § 510.101.
 
-[83 FR 9187, Mar. 5, 2018, as amended at 84 FR 30870, June 28, 2019]
+[83 FR 9187, Mar. 5, 2018, as amended at 84 FR 30870, June 28, 2019; 89 FR 15741, Mar. 5, 2024]

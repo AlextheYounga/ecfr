@@ -1,0 +1,5 @@
+##### § 546.510 Official business of the United States Government. #####
+
+All transactions prohibited by this part that are for the conduct of the official business of the United States Government by employees, grantees, or contractors thereof are authorized.
+
+[87 FR 78474, Dec. 21, 2022. Redesignated at 89 FR 15749, Mar. 5, 2024]

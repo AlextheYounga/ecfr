@@ -18,10 +18,6 @@
 
 (v) The dates and duration of the transactions.
 
-(2) The reports, which must reference this section, are to be submitted to OFAC using one of the following methods:
+(2) The reports, which must reference this section, are to be submitted to OFAC via email to *OFACReport@treasury.gov*.
 
-(i) *Email (preferred method): OFAC.Regulations.Reports@treasury.gov;* or
-
-(ii) *U.S. mail:* OFAC Regulations Reports, Office of Foreign Assets Control, U.S. Department of the Treasury, 1500 Pennsylvania Avenue NW, Freedman's Bank Building, Washington, DC 20220.
-
-[86 FR 26667, May 17, 2021]
+[86 FR 26667, May 17, 2021, as amended at 89 FR 15741, Mar. 5, 2024]

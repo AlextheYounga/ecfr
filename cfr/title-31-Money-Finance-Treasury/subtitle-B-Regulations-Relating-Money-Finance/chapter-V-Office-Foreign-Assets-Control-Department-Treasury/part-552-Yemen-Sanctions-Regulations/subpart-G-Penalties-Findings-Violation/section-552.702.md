@@ -10,7 +10,7 @@
 
 (ii) *Extensions of time for response.* If a due date falls on a federal holiday or weekend, that due date is extended to include the following business day. Any other extensions of time will be granted, at the discretion of OFAC, only upon specific request to OFAC.
 
-(3) *Form and method of response.* A response to a Pre-Penalty Notice need not be in any particular form, but it must be typewritten and signed by the alleged violator or a representative thereof, contain information sufficient to indicate that it is in response to the Pre-Penalty Notice, and include the OFAC identification number listed on the Pre-Penalty Notice. A copy of the written response may be sent by facsimile, but the original also must be sent to OFAC's Office of Compliance and Enforcement by mail or courier and must be postmarked or date-stamped in accordance with paragraph (b)(2) of this section.
+(3) *Form and method of response.* A response to a Pre-Penalty Notice need not be in any particular form, but it must be typewritten and signed by the alleged violator or a representative thereof, contain information sufficient to indicate that it is in response to the Pre-Penalty Notice, and include the OFAC identification number listed on the Pre-Penalty Notice. A copy of the written response may be sent by facsimile, but the original also must be sent to OFAC's Enforcement Division by mail or courier and must be postmarked or date-stamped in accordance with paragraph (b)(2) of this section.
 
 (c) *Settlement.* Settlement discussion may be initiated by OFAC, the alleged violator, or the alleged violator's authorized representative. For a description of practices with respect to settlement, see appendix A to part 501 of this chapter.
 

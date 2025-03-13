@@ -24,8 +24,8 @@
 
 (c) *When reports are due.* Reports shall be filed within 10 business days of the rejected transaction prohibited by the provisions of this chapter.
 
-(d) *Where to report.* Reports under this section shall be submitted to OFAC using one of the following methods: Email: *OFACreport@treasury.gov;* U.S. mail: Office of Foreign Assets Control, Sanctions Compliance and Evaluation Division, U.S. Department of the Treasury, 1500 Pennsylvania Avenue, NW, Freedman's Bank Building, Washington, DC 20220; or any other official reporting option, including electronic, as specified by OFAC on its website (*http://www.treasury.gov/ofac*). OFAC strongly prefers to receive reports made pursuant to this section by email or any other official electronic reporting option, as specified by OFAC on its website.
+(d) *Where to report.* Reports under this section shall be submitted to OFAC using one of the following methods: Email: *OFACreport@treasury.gov;* U.S. mail: Office of Foreign Assets Control, Compliance Division, U.S. Department of the Treasury, 1500 Pennsylvania Avenue, NW, Freedman's Bank Building, Washington, DC 20220; or any other official reporting option, including electronic, as specified by OFAC on its website (*http://www.treasury.gov/ofac*). OFAC strongly prefers to receive reports made pursuant to this section by email or any other official electronic reporting option, as specified by OFAC on its website.
 
 (e) *Rules governing availability of information.* OFAC records are made available to the public in accordance with the Freedom of Information Act (FOIA) (5 U.S.C. 552) and the provisions of 31 CFR part 1. *See* 31 CFR 1.5 for provisions pertaining to business information. Reports on rejected transactions and the information required to be reported to OFAC pursuant to this section are subject to the FOIA. Information provided to OFAC pursuant to this section generally will be released upon the receipt of a valid FOIA request, unless OFAC determines that such information should be withheld in accordance with an applicable FOIA exemption.
 
-[84 FR 29060, June 21, 2019]
+[84 FR 29060, June 21, 2019, as amended at 89 FR 15740, Mar. 5, 2024]

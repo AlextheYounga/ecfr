@@ -4,7 +4,7 @@ When a transaction results in the blocking of funds at a financial institution p
 
 (a) Any person who is a party to the transaction may request the release of funds which the party believes to have been blocked due to mistaken identity.
 
-(b) Requests to release funds which a party believes to have been blocked due to mistaken identity must be made in writing and addressed to the Office of Foreign Assets Control, Sanctions Compliance & Evaluation Division, U.S. Department of the Treasury, 1500 Pennsylvania Avenue NW, Freedman's Bank Building, Washington, DC 20220, or sent by email to the Sanctions Compliance & Evaluation Division at *OFACreport@treasury.gov.*
+(b) Requests to release funds which a party believes to have been blocked due to mistaken identity must be made in writing and addressed to the Office of Foreign Assets Control, Complianc Division, U.S. Department of the Treasury, 1500 Pennsylvania Avenue NW, Freedman's Bank Building, Washington, DC 20220, or sent by email to the Compliance Division at *OFACreport@treasury.gov.*
 
 (c) The written request to release funds must include the name, address, telephone number, and (where available) fax number of the party seeking the release of the funds. For individuals, the inclusion of a social security number is voluntary but will facilitate resolution of the request. For corporations or other entities, the application should include its principal place of business, the state of incorporation or organization, and the name and telephone number of the appropriate person to contact regarding the application.
 
@@ -32,4 +32,4 @@ When a transaction results in the blocking of funds at a financial institution p
 
 (g) For purposes of this section, the term “financial institution” shall include a banking institution, depository institution or United States depository institution, domestic bank, financial institution or U.S. financial institution, as those terms are defined in the applicable part of this chapter.
 
-[62 FR 45101, Aug. 25, 1997, as amended at 62 FR 52495, Oct. 8, 1997; 84 FR 29062, June 21, 2019]
+[62 FR 45101, Aug. 25, 1997, as amended at 62 FR 52495, Oct. 8, 1997; 84 FR 29062, June 21, 2019; 89 FR 15740, Mar. 5, 2024]

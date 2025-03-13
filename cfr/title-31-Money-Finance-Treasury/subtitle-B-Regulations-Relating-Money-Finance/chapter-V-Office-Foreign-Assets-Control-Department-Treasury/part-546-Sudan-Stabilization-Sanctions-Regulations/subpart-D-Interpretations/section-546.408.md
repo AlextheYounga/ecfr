@@ -1,0 +1,5 @@
+##### § 546.408 Charitable contributions. #####
+
+Unless specifically authorized by OFAC pursuant to this part, no charitable contribution of funds, goods, services, or technology, including contributions to relieve human suffering, such as food, clothing, or medicine, may be made by, to, or for the benefit of a person whose property and interests in property are blocked pursuant to § 546.201. For the purposes of this part, a contribution is made by, to, or for the benefit of a person whose property and interests in property are blocked pursuant to § 546.201 if made by, to, or in the name of such a person; if made by, to, or in the name of an entity or individual acting for or on behalf of, or owned or controlled by, such a person; or if made in an attempt to violate, to evade, or to avoid the bar on the provision of contributions by, to, or for the benefit of such a person.
+
+[74 FR 25432, May 28, 2009, as amended at 89 FR 15752, Mar. 5, 2024]
