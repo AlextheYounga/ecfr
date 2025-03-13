@@ -1,5 +1,7 @@
 ##### § 1.1415 Overlashing. #####
 
+Link to an amendment published at 89 FR 2171, Jan. 12, 2024.
+
 (a) *Prior approval.* A utility shall not require prior approval for:
 
 (1) An existing attacher that overlashes its existing wires on a pole; or

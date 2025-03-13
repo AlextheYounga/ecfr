@@ -1,5 +1,7 @@
 ##### § 269.4 Cost of living adjustments of civil monetary penalties. #####
 
+Link to an amendment published at 89 FR 2146, Jan. 12, 2024.
+
 (a) The inflation adjustment under § 269.3 must be determined by increasing the maximum civil monetary penalty or the range of minimum and maximum civil monetary penalties, as applicable, for each civil monetary penalty by the cost-of-living adjustment. Any increase determined under this subsection shall be rounded to the nearest multiple of $1.
 
 (b) For purposes of paragraph (a) of this section, the term “cost-of-living adjustment” means the percentage (if any) for each civil monetary penalty by which the Consumer Price Index for the month of October preceding the date of the adjustment (January 15), exceeds the Consumer Price Index for the month of October in the previous calendar year. For example, if the Consumer Price Index for October 2016 is 1.0 and the Consumer Price Index for October 2015 was 0.75, then all applicable penalties will need to be positively adjusted by 0.25 by January 15, 2017.

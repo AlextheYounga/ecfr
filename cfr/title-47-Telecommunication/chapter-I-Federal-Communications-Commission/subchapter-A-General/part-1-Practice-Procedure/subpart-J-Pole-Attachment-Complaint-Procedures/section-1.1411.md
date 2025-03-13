@@ -1,5 +1,7 @@
 ##### § 1.1411 Timeline for access to utility poles. #####
 
+Link to an amendment published at 89 FR 2170, Jan. 12, 2024.
+
 (a) *Definitions.*
 
 (1) The term “attachment” means any attachment by a cable television system or provider of telecommunications service to a pole owned or controlled by a utility.

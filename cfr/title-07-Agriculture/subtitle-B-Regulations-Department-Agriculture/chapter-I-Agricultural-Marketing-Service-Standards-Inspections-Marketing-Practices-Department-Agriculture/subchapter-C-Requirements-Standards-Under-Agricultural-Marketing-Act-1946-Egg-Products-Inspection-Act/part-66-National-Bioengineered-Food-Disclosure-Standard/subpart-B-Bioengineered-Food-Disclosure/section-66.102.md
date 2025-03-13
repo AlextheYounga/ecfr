@@ -1,6 +1,6 @@
 ##### § 66.102 Text disclosure. #####
 
-A text disclosure must bear the text as described in this section. A text disclosure may use a plural form if applicable, *e.g.* if a food product includes more than one bioengineered food, then “bioengineered foods” or “bioengineered food ingredients” may be used.
+A text disclosure must bear the text as described in this section. A text disclosure may use a plural form if applicable, e.g. if a food product includes more than one bioengineered food, then “bioengineered foods” or “bioengineered food ingredients” may be used.
 
 (a) *Bioengineered foods.* If a food (including any ingredient produced from such food) is on the List of Bioengineered Foods, and records maintained by a regulated entity demonstrate that the food is bioengineered, the text disclosure must be one of the following, as applicable:
 

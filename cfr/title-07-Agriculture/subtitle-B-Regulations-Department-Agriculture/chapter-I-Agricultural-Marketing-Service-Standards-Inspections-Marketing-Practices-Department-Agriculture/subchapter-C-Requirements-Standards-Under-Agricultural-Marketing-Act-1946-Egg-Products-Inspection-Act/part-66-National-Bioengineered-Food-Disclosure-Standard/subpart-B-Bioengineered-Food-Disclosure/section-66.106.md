@@ -2,7 +2,7 @@
 
 If a required bioengineered food disclosure is made through an electronic or digital link printed on the label, the disclosure must comply with the requirements described in this section.
 
-(a) *Accompanying statement.* (1) An electronic or digital disclosure must be accompanied by, and be placed directly above or below, this statement: “Scan here for more food information” or equivalent language that only reflects technological changes (*e.g.,* “Scan anywhere on package for more food information” or “Scan icon for more food information”).
+(a) *Accompanying statement.* (1) An electronic or digital disclosure must be accompanied by, and be placed directly above or below, this statement: “Scan here for more food information” or equivalent language that only reflects technological changes (e.g., “Scan anywhere on package for more food information” or “Scan icon for more food information”).
 
 (2) The electronic or digital disclosure must also be accompanied by a telephone number that will provide the bioengineered food disclosure to the consumer, regardless of the time of day. The telephone number instructions must be in close proximity to the digital link and the accompanying statement described in paragraph (a)(1) of this section, must indicate that calling the telephone number will provide more food information, and must be accompanied by the statement “Call [1-000-000-0000] for more food information.”
 

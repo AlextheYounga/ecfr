@@ -20,6 +20,8 @@
 
 (2) INTERIOR/DOI-45, Personnel Security Program Files.
 
+(3) INTERIOR/OIG-02, Investigative Records.
+
 (c) *Law enforcement records exempt under 5 U.S.C. 552a(k)(2).* Pursuant to 5 U.S.C. 552a(k)(2), the following systems of records are exempted from paragraphs (c)(3), (d), (e)(1), (e)(4)(G), (H), and (I), and (f) of 5 U.S.C. 552a and the provisions of the regulations in this subpart implementing these paragraphs:
 
 (1) INTERIOR/OIG-2, Investigative Records.
@@ -66,6 +68,8 @@
 
 (2) INTERIOR/DOI-45, Personnel Security Program Files.
 
+(3) INTERIOR/OIG-02, Investigative Records.
+
 (e) *Investigatory records exempt under 5 U.S.C. 552a(k)(5).* Pursuant to 5 U.S.C. 552a(k)(5), the following systems of records have been exempted from paragraphs (c)(3), (d), (e)(1), (e)(4)(G), (H), and (I), and (f) of 5 U.S.C. 552a and the provisions of the regulations in this subpart implementing these paragraphs:
 
 (1) [Reserved]
@@ -82,10 +86,12 @@
 
 (7) INTERIOR/DOI-45, Personnel Security Program Files.
 
+(8) INTERIOR/OIG-02, Investigative Records.
+
 (f) *Records maintained on testing and examination material exempt under 5 U.S.C. 552a(k)(6).* Pursuant to U.S.C. 552a(k)(6), the following systems of records have been exempted from 5 U.S.C. 552a(c)(3), (d), (e)(1), (e)(4)(G), (H) and (I), and (f) and the provisions of the regulations in this subpart implementing these paragraphs.
 
 (1) INTERIOR/DOI-45, Personnel Security Program Files.
 
 (2) [Reserved]
 
-[86 FR 49928, Sept. 7, 2021, as amended at 87 FR 8428, Feb. 15, 2022; 88 FR 10480, Feb. 21, 2023]
+[86 FR 49928, Sept. 7, 2021, as amended at 87 FR 8428, Feb. 15, 2022; 88 FR 10480, Feb. 21, 2023; 89 FR 2148, Jan. 12, 2024]

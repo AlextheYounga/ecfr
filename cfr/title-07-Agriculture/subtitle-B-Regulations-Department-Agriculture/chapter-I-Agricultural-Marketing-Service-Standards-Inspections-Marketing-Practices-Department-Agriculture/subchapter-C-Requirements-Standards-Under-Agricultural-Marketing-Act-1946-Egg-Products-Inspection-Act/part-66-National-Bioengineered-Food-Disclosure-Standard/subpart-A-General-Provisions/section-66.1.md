@@ -34,7 +34,7 @@
 
 *Importer* means the importer of record, as determined by U.S. Customs and Border Protection (19 U.S.C. 1484(a)(2)(B)), who engages in the importation of food or food products labeled for retail sale into the United States.
 
-*Information panel* means that part of the label of a packaged product that is immediately contiguous to and to the right of the principal display panel as observed by an individual facing the principal display panel, unless another section of the label is designated as the information panel because of package size or other package attributes (*e.g.* irregular shape with one usable surface).
+*Information panel* means that part of the label of a packaged product that is immediately contiguous to and to the right of the principal display panel as observed by an individual facing the principal display panel, unless another section of the label is designated as the information panel because of package size or other package attributes (e.g. irregular shape with one usable surface).
 
 *Label* means a display of written, printed, or graphic matter upon the immediate container or outside wrapper of any retail package or article that is easily legible on or through the outside container or wrapper.
 

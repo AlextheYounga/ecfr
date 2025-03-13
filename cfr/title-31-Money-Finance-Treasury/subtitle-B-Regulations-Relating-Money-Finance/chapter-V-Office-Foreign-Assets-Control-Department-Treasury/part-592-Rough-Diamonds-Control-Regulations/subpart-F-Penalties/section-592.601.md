@@ -4,7 +4,7 @@
 
 (1) A civil penalty not to exceed the amount set forth in section 8 of the Act may be imposed on any person who violates, or attempts to violate, any order or regulation issued under the Act;
 
-(2) The applicable maximum civil penalty per violation of the Act is $16,108.
+(2) The applicable maximum civil penalty per violation of the Act is $16,630.
 
 (3) Whoever willfully violates, or willfully attempts to violate, any order or regulation issued under this Act shall, upon conviction, be fined not more than $50,000, or, if a natural person, may be imprisoned for not more than 10 years, or both; and any officer, director, or agent of any corporation who willfully participates in such violation may be punished by a like fine, imprisonment, or both; and
 

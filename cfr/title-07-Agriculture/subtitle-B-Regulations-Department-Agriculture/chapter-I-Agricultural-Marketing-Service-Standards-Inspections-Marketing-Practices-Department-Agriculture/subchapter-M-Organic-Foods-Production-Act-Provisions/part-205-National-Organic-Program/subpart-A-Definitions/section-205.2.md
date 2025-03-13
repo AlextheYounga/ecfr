@@ -1,7 +1,5 @@
 ##### § 205.2 Terms defined. #####
 
-Link to an amendment published at 88 FR 75444, Nov. 2, 2023.Link to an amendment published at 88 FR 86259, Dec. 13, 2023.Link to a correction of the above amendment published at 88 FR 89539, Dec. 28, 2023.
-
 *Accreditation.* A determination made by the Secretary that authorizes a private, foreign, or State entity to conduct certification activities as a certifying agent under this part.
 
 *Act.* The Organic Foods Production Act of 1990, as amended (7 U.S.C. 6501 *et seq.*).
@@ -30,6 +28,8 @@ Link to an amendment published at 88 FR 75444, Nov. 2, 2023.Link to an amendment
 
 *Audit trail.* Documentation that is sufficient to determine the source, transfer of ownership, and transportation of any agricultural product labeled as “100 percent organic,” the organic ingredients of any agricultural product labeled as “organic” or “made with organic (specified ingredients)” or the organic ingredients of any agricultural product containing less than 70 percent organic ingredients identified as organic in an ingredients statement.
 
+*Beak trimming.* The removal of not more than one-quarter to one-third of the upper beak or the removal of one-quarter to one-third of both the upper and lower beaks of a bird in order to control injurious pecking and cannibalism.
+
 *Biodegradable.* Subject to biological decomposition into simpler biochemical or chemical components.
 
 *Biodegradable biobased mulch film.* A synthetic mulch film that meets the following criteria:
@@ -47,6 +47,10 @@ Link to an amendment published at 88 FR 75444, Nov. 2, 2023.Link to an amendment
 *Buffer zone.* An area located between a certified production operation or portion of a production operation and an adjacent land area that is not maintained under organic management. A buffer zone must be sufficient in size or other features (e.g., windbreaks or a diversion ditch) to prevent the possibility of unintended contact by prohibited substances applied to adjacent land areas with an area that is part of a certified operation.
 
 *Bulk.* The presentation to consumers at retail sale of an agricultural product in unpackaged, loose form, enabling the consumer to determine the individual pieces, amount, or volume of the product purchased.
+
+*Caponization.* Castration of chickens, turkeys, pheasants, and other avian species.
+
+*Cattle wattling.* The surgical separation of two layers of the skin from the connective tissue along a 2-to-4-inch path on the dewlap, neck, or shoulders used for ownership identification.
 
 *Certification activity.* Any business conducted by a certifying agent, or by a person acting on behalf of a certifying agent, including but not limited to: certification management; administration; application review; inspection planning; inspections; sampling; inspection report review; material review; label review; records retention; compliance review; investigating complaints and taking adverse actions; certification decisions; and issuing transaction certificates.
 
@@ -88,6 +92,10 @@ Link to an amendment published at 88 FR 75444, Nov. 2, 2023.Link to an amendment
 
 *Cultural methods.* Methods used to enhance crop health and prevent weed, pest, or disease problems without the use of substances; examples include the selection of appropriate varieties and planting sites; proper timing and density of plantings; irrigation; and extending a growing season by manipulating the microclimate with green houses, cold frames, or wind breaks.
 
+*De-beaking.* The removal of more than one-third of the upper beak or removal of more than one-third of both the upper and lower beaks of a bird.
+
+*De-snooding.* The removal of the turkey snood (a fleshy protuberance on the forehead of male turkeys).
+
 *Detectable residue.* The amount or presence of chemical residue or sample component that can be reliably observed or found in the sample matrix by current approved analytical methodology.
 
 *Disease vectors.* Plants or animals that harbor or transmit disease organisms or pathogens which may attack crops or livestock.
@@ -101,6 +109,8 @@ Link to an amendment published at 88 FR 75444, Nov. 2, 2023.Link to an amendment
 *Dry matter demand.* The expected dry matter intake for a class of animal.
 
 *Dry matter intake.* Total pounds of all feed, devoid of all moisture, consumed by a class of animals over a given period of time.
+
+*Dubbing.* The removal of poultry combs and wattles.
 
 *Emergency pest or disease treatment program.* A mandatory program authorized by a Federal, State, or local agency for the purpose of controlling or eradicating a pest or disease.
 
@@ -150,6 +160,18 @@ Link to an amendment published at 88 FR 75444, Nov. 2, 2023.Link to an amendment
 
 *Inclement weather.* Weather that is violent, or characterized by temperatures (high or low), or characterized by excessive precipitation that can cause physical harm to a given species of livestock. Production yields or growth rates of livestock lower than the maximum achievable do not qualify as physical harm.
 
+*Indoors or indoor space.* The space inside of an enclosed building or housing structure available to livestock. Indoor space for avian species includes, but is not limited to:
+
+(1) *Mobile housing.* A mobile structure for avian species with solid or perforated flooring that is moved regularly and allows birds to continuously access areas outside the structure during daytime hours.
+
+(2) *Aviary housing.* A fixed structure for avian species that has multiple tiers or levels.
+
+(3) *Slatted/mesh floor housing.* A fixed structure for avian species that has both: a slatted floor where perches, feed, and water are provided over a pit or belt for manure collection; and litter covering the remaining solid floor.
+
+(4) *Floor litter housing.* A fixed structure for avian species that has absorbent litter covering the entire floor.
+
+*Induced molting.* Molting that is artificially initiated.
+
 *Inert ingredient.* Any substance (or group of substances with similar chemical structures if designated by the Environmental Protection Agency) other than an active ingredient which is intentionally included in any pesticide product (40 CFR 152.3(m)).
 
 *Information panel.* That part of the label of a packaged product that is immediately contiguous to and to the right of the principal display panel as observed by an individual facing the principal display panel, unless another section of the label is designated as the information panel because of package size or other package attributes (e.g., irregular shape with one usable surface).
@@ -178,6 +200,8 @@ Link to an amendment published at 88 FR 75444, Nov. 2, 2023.Link to an amendment
 
 *Mulch.* Any nonsynthetic material, such as wood chips, leaves, or straw, or any synthetic material included on the National List for such use, such as newspaper or plastic that serves to suppress weed growth, moderate soil temperature, or conserve soil moisture.
 
+*Mulesing.* The removal of skin from the buttocks of sheep, approximately 2 to 4 inches wide and running away from the anus to the hock to prevent fly strike.
+
 *Narrow range oils.* Petroleum derivatives, predominately of paraffinic and napthenic fractions with 50 percent boiling point (10 mm Hg) between 415 °F and 440 °F.
 
 *National List.* A list of allowed and prohibited substances as provided for in the Act.
@@ -189,6 +213,8 @@ Link to an amendment published at 88 FR 75444, Nov. 2, 2023.Link to an amendment
 *Natural resources of the operation.* The physical, hydrological, and biological features of a production operation, including soil, water, wetlands, woodlands, and wildlife.
 
 *Nonagricultural substance.* A substance that is not a product of agriculture, such as a mineral or a bacterial culture, that is used as an ingredient in an agricultural product. For the purposes of this part, a nonagricultural ingredient also includes any substance, such as gums, citric acid, or pectin, that is extracted from, isolated from, or a fraction of an agricultural product so that the identity of the agricultural product is unrecognizable in the extract, isolate, or fraction.
+
+*Non-ambulatory.* As defined in 9 CFR 309.2(b).
 
 *Nonsynthetic (natural).* A substance that is derived from mineral, plant, or animal matter and does not undergo a synthetic process as defined in section 6502(21) of the Act (7 U.S.C. 6502(21)). For the purposes of this part, nonsynthetic is used as a synonym for natural as the term is used in the Act.
 
@@ -214,11 +240,19 @@ Link to an amendment published at 88 FR 75444, Nov. 2, 2023.Link to an amendment
 
 *Organic system plan.* A plan of management of an organic production or handling operation that has been agreed to by the producer or handler and the certifying agent and that includes written plans concerning all aspects of agricultural production or handling described in the Act and the regulations in subpart C of this part.
 
-*Paper-based crop planting aid.* A material that is comprised of at least 60% cellulose-based fiber by weight, including, but not limited to, pots, seed tape, and collars that are placed in or on the soil and later incorporated into the soil, excluding biodegradable mulch film. Up to 40% of the ingredients can be nonsynthetic, other permitted synthetic ingredients in § 205.601(j), or synthetic strengthening fibers, adhesives, or resins. Contains no less than 80% biobased content as verified by a qualified third-party assessment (*e.g.,* laboratory test using ASTM D6866 or composition review by qualified personnel).
+*Outdoors or outdoor space.* Any area outside an enclosed building or enclosed housing structure. Enclosed housing structures with open sides (e.g., open-sided freestall barns) are not to be considered outdoors or outdoor space. Outdoor space for avian species includes, but is not limited to:
+
+(1) Pasture pens (avian). Floorless pens, with full or partial roofing, that are moved regularly, provide direct access to soil and vegetation, and allow birds to express natural behaviors.
+
+(2) Shade structures that are not enclosed.
+
+*Paper-based crop planting aid.* A material that is comprised of at least 60% cellulose-based fiber by weight, including, but not limited to, pots, seed tape, and collars that are placed in or on the soil and later incorporated into the soil, excluding biodegradable mulch film. Up to 40% of the ingredients can be nonsynthetic, other permitted synthetic ingredients in § 205.601(j), or synthetic strengthening fibers, adhesives, or resins. Contains no less than 80% biobased content as verified by a qualified third-party assessment (e.g., laboratory test using ASTM D6866 or composition review by qualified personnel).
 
 *Pasture.* Land used for livestock grazing that is managed to provide feed value and maintain or improve soil, water, and vegetative resources.
 
 *Peer review panel.* A panel of individuals who have expertise in organic production and handling methods and certification procedures and who are appointed by the Administrator to assist in evaluating applicants for accreditation as certifying agents.
+
+*Perch.* A rod- or branch-type structure above the floor or ground that accommodates roosting and allows birds to utilize vertical space.
 
 *Person.* An individual, partnership, corporation, association, cooperative, or other entity.
 
@@ -254,7 +288,11 @@ Link to an amendment published at 88 FR 75444, Nov. 2, 2023.Link to an amendment
 
 *Prohibited substance.* A substance the use of which in any aspect of organic production or handling is prohibited or not provided for in the Act or the regulations of this part.
 
+*Pullets.* Female chickens or other avian species being raised for egg production that have not yet started to lay eggs.
+
 *Records.* Any information in written, visual, or electronic form that documents the activities undertaken by a producer, handler, or certifying agent to comply with the Act and regulations in this part.
+
+*Religious (or ritual) slaughter.* Slaughtering in accordance with the ritual requirements of any religious faith that prescribes a method of slaughter whereby the animal suffers loss of consciousness by anemia of the brain caused by the simultaneous and instantaneous severance of the carotid arteries with a sharp instrument and handling in connection with such slaughtering.
 
 *Residual forage.* Forage cut and left to lie, or windrowed and left to lie, in place in the pasture.
 
@@ -288,6 +326,8 @@ Link to an amendment published at 88 FR 75444, Nov. 2, 2023.Link to an amendment
 
 *State organic program's governing State official.* The chief executive official of a State or, in the case of a State that provides for the statewide election of an official to be responsible solely for the administration of the agricultural operations of the State, such official who administers a State organic certification program.
 
+*Stocking density.* The liveweight or number of animals on a given area or unit of land.
+
 *Supply chain traceability audit.* The process of identifying and tracking the movement, sale, custody, handling, and organic status of an agricultural product along a supply chain to verify the agricultural product's compliance with this part.
 
 *Synthetic.* A substance that is formulated or manufactured by a chemical process or by a process that chemically changes a substance extracted from naturally occurring plant, animal, or mineral sources, except that such term shall not apply to substances created by naturally occurring biological processes.
@@ -297,6 +337,8 @@ Link to an amendment published at 88 FR 75444, Nov. 2, 2023.Link to an amendment
 *Temporary and Temporarily.* Occurring for a limited time only (e.g., overnight, throughout a storm, during a period of illness, the period of time specified by the Administrator when granting a temporary variance), not permanent or lasting.
 
 *Third-year transitional crop.* Crops and forage from land included in the organic system plan of a producer's operation that is not certified organic but is in the third year of organic management and is eligible for organic certification in one year or less.
+
+*Toe clipping.* The removal of the nail and distal joint of the back two toes of a bird.
 
 *Tolerance.* The maximum legal level of a pesticide chemical residue in or on a raw or processed agricultural commodity or processed food.
 
@@ -308,8 +350,10 @@ Link to an amendment published at 88 FR 75444, Nov. 2, 2023.Link to an amendment
 
 *Unavoidable residual environmental contamination (UREC).* Background levels of naturally occurring or synthetic chemicals that are present in the soil or present in organically produced agricultural products that are below established tolerances.
 
+*Vegetation.* Living plant matter that is anchored in the soil by roots and provides ground cover.
+
 *Wild crop.* Any plant or portion of a plant that is collected or harvested from a site that is not maintained under cultivation or other agricultural management.
 
 *Yards/Feeding pad.* An area for feeding, exercising, and outdoor access for livestock during the non-grazing season and a high traffic area where animals may receive supplemental feeding during the grazing season.
 
-[65 FR 80637, Dec. 21, 2000, as amended at 72 FR 70484, Dec. 12, 2007; 75 FR 7192, Feb. 17, 2010; 79 FR 58662, Sept. 30, 2014; 80 FR 6429, Feb. 5, 2015; 87 FR 19772, Apr. 5, 2022; 87 FR 68027, Nov. 14, 2022; 88 FR 3620, Jan. 19, 2023]
+[65 FR 80637, Dec. 21, 2000, as amended at 72 FR 70484, Dec. 12, 2007; 75 FR 7192, Feb. 17, 2010; 79 FR 58662, Sept. 30, 2014; 80 FR 6429, Feb. 5, 2015; 87 FR 19772, Apr. 5, 2022; 87 FR 68027, Nov. 14, 2022; 88 FR 3620, Jan. 19, 2023; 88 FR 75444, Nov. 2, 2023; 88 FR 86259, Dec. 13, 2023; 88 FR 89539, Dec. 28, 2023]

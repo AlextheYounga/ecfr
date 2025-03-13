@@ -4,7 +4,7 @@
 
 (2) Except as otherwise authorized, the grademark permitted to be used to officially identify USDA consumer-graded shell eggs shall be of the form and design indicated in Figures 2 through 4 of this section. The shield shall be of sufficient size so that the printing and other information contained therein is legible and in approximately the same proportion as shown in these figures.
 
-(3) The “Produced From” grademark in Figure 5 of this section may be used to identify products for which there are no official U.S. grade standards (*e.g.,* pasteurized shell eggs), provided that these products are approved by the Agency and are prepared from U.S. Consumer Grade AA or A shell eggs.
+(3) The “Produced From” grademark in Figure 5 of this section may be used to identify products for which there are no official U.S. grade standards (e.g., pasteurized shell eggs), provided that these products are approved by the Agency and are prepared from U.S. Consumer Grade AA or A shell eggs.
 
 (b) *Information required on grademark.* (1) Except as otherwise authorized by the Administrator, each grademark used shall include the letters “USDA” and the U.S. grade of the product it identifies, such as “A Grade,” as shown in Figure 2 of this section. Such information shall be printed with the shield and the wording within the shield in contrasting colors in a manner such that the design is legible and conspicuous on the material upon which it is printed.
 

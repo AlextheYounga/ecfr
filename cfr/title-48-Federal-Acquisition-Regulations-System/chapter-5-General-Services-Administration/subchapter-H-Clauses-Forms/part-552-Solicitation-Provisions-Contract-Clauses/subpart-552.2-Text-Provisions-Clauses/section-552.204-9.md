@@ -1,7 +1,5 @@
 ##### 552.204-9 Personal Identity Verification Requirements. #####
 
-Link to an amendment published at 88 FR 32142, May 19, 2023.
-
 As prescribed in 504.1303, insert the following clause:
 
 Personal Identity Verification Requirements (APR 2023)
@@ -10,4 +8,4 @@ Personal Identity Verification Requirements (APR 2023)
 
 (b) The Contractor shall insert this clause in all subcontracts when the subcontractor is required to have access to a GSA-controlled facility or access to a GSA-controlled information system.
 
-(End of clause)[77 FR 59793, Oct. 1, 2012, as amended at 85 FR 38337, June 26, 2020; 86 FR 28500, May 27, 2021; 88 FR 18075, Mar. 27, 2023; 88 FR 34096, May 26, 2023]
+(End of clause)[77 FR 59793, Oct. 1, 2012, as amended at 85 FR 38337, June 26, 2020; 86 FR 28500, May 27, 2021; 88 FR 18075, Mar. 27, 2023; 88 FR 32142, May 19, 2023; 88 FR 34096, May 26, 2023]
