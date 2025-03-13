@@ -1,6 +1,6 @@
 ##### § 2805.11 What does a grant contain? #####
 
-Link to an amendment published at 89 FR 25962, Apr. 12, 2024.Link to an amendment published at 89 FR 35679, May 1, 2024.
+Link to an amendment published at 89 FR 35679, May 1, 2024.
 
 The grant states what your rights are on the lands subject to the grant and contains information about:
 
@@ -16,7 +16,9 @@ The grant states what your rights are on the lands subject to the grant and cont
 
 (5) Will not result in unnecessary or undue degradation.
 
-(b) *How long you can use the right-of-way.* Each grant will state the length of time that you are authorized to use the right-of-way.
+(b) *Right of ingress and egress to a right-of-way.* To facilitate the use of a right-of-way, the authorized officer must include in the grant rights of ingress and egress, as may be necessary for access to and from the right-of-way. Access routes must be identified in the grant and may include existing roads or other infrastructure.
+
+(c) *How long you can use the right-of-way.* Each grant will state the length of time that you are authorized to use the right-of-way.
 
 (1) BLM will consider the following factors in establishing a reasonable term:
 
@@ -42,6 +44,6 @@ The grant states what your rights are on the lands subject to the grant and cont
 
 (3) All grants and leases, except those issued for a term of 3 years or less and those issued in perpetuity, will expire on December 31 of the final year of the grant or lease. For grants and leases with terms greater than 3 years, the actual term includes the number of full years specified, plus the initial partial year, if any.
 
-(c) *How you can use the right-of-way.* You may only use the right-of-way for the specific use the grant authorizes.
+(d) *How you can use the right-of-way.* You may only use the right-of-way for the specific use the grant authorizes.
 
-[70 FR 21058, Apr. 22, 2005, as amended at 73 FR 65071, Oct. 31, 2008; 81 FR 92213, Dec. 19, 2016]
+[70 FR 21058, Apr. 22, 2005, as amended at 73 FR 65071, Oct. 31, 2008; 81 FR 92213, Dec. 19, 2016; 89 FR 25962, Apr. 12, 2024]

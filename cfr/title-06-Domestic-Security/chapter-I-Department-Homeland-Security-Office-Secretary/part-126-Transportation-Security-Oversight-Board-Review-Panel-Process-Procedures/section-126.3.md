@@ -4,9 +4,11 @@
 
 *Communication technology* means telephone or a videoconferencing platform.
 
-*Other protected information* means other information that the government is authorized by statute, regulation, or Executive Order to withhold.
+*Other protected information* means other information that the government is authorized by statute, regulation, or Executive order to withhold.
 
 *Sensitive Security Information (SSI)* means information described in 49 CFR 1520.5.
+
+*Substantial evidence* means such relevant evidence as a reasonable mind might accept as adequate to support a conclusion.
 
 *Transportation Security Oversight Board (TSOB)* means the board established pursuant to 49 U.S.C. 115.
 

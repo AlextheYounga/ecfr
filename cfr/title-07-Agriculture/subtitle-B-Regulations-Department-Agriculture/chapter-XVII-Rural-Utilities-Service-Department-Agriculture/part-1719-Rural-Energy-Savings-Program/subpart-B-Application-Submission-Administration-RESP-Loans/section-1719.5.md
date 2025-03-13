@@ -24,7 +24,7 @@
 
 (i) Legal name and status of the entity seeking financing under this Part and its address and principal place of business.
 
-(ii) The Applicant's tax identification number, SAM Managed Identifier (SAMMI), Unique Entity Identifier, and such similar information as it may be subsequently amended or required for Federal funding.
+(ii) The Applicant's tax identification number, Unique Entity Identifier, and such similar information as it may be subsequently amended or required for Federal funding.
 
 (iii) A statement indicating if the Applicant is a current or a former RUS borrower.
 
@@ -100,4 +100,4 @@
 
 (G) The RESP applicant must provide a statement of compliance with the federal statutes as provided in § 1719.11.
 
-[85 FR 18418, Apr. 2, 2020, as amended at 89 FR 34957, May 1, 2024]
+[85 FR 18418, Apr. 2, 2020, as amended at 89 FR 34957, May 1, 2024; 89 FR 41300, May 13, 2024]

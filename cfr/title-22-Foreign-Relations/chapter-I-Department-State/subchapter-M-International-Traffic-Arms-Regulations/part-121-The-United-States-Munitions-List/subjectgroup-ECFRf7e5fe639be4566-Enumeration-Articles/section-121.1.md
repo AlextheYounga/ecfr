@@ -1,6 +1,6 @@
 ##### § 121.1 The United States Munitions List. #####
 
-Link to an amendment published at 86 FR 48022, Aug. 27, 2021.Link to an amendment published at 89 FR 20548, Mar. 25, 2024.
+Link to an amendment published at 86 FR 48022, Aug. 27, 2021.
 
 (a)-(b) [Reserved]
 
@@ -3247,4 +3247,4 @@ Category XXI—Articles, Technical Data, and Defense Services Not Otherwise Enum
 
 2. At 79 FR 61228, Oct. 10, 2014, § 121.1 was amended by removing the word “enumerated” and adding in its place the word “described” in one place in Note 1 to paragraph (i) of Category VI; however, the amendment could not be incorporated because of inaccurate amendatory instruction.
 
-Effective Date Note 2:At 88 FR 84074, Dec. 4, 2023, § 121.1 was amended by revising the note to paragraph (h)(1), effective from Dec. 4, 2023, until Dec. 1, 2024.
+Effective Date Note 2:At 88 FR 84074, Dec. 4, 2023, § 121.1, under Category VIII, was amended by revising the note to paragraph (h)(1), effective from Dec. 4, 2023, until Dec. 1, 2024.

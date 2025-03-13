@@ -8,7 +8,7 @@
 
 (c) *Brief requirements.* A brief submitted to a TSOB Review Panel must adhere to the following specifications:
 
-(1) The brief must be typewritten in Times New Roman, 12-point font, double-spaced, and, if submitted as a hard copy via certified U.S. mail, must be printed single-sided on 81/2-by-11 inch paper;
+(1) The brief must be typewritten in Times New Roman, 12-point font, double-spaced, and, if submitted as a hard copy via certified U.S. mail, must be printed single-sided on 8 1/2-by-11 inch paper;
 
 (2) The brief must set forth the name, address, email address, and telephone number of the party or attorney filing it;
 

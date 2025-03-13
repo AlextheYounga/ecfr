@@ -1,0 +1,3 @@
+##### § 2866.40 How will the BLM calculate rent for an authorization for ancillary Communications Uses associated with Communications Uses on the rent schedule? #####
+
+If the ancillary communication equipment is used solely in direct support of the primary use (see the definition of communications uses rent schedule in § 2861.5 and the definition of ancillary in § 2801.5 of this chapter), the BLM will calculate and charge rent only for the primary use.

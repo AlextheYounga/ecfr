@@ -1,5 +1,5 @@
-##### § 1228.3 Prospective application and effective date. #####
+##### § 1228.3 Limitation on applicability. #####
 
-Link to an amendment published at 89 FR 17716, Mar. 12, 2024.
+This part is not applicable to shared equity loans, or related securities, with promissory note dates prior to July 1, 2023, regardless of whether the loans met the Duty to Serve shared equity loan program criteria for resale restriction programs in § 1282.34(d)(4)(i)(A) and (d)(4)(ii) of this chapter.
 
-This part shall apply only to mortgages on properties encumbered by private transfer fee covenants if those covenants are created on or after February 8, 2011. This part shall not apply to mortgages on properties encumbered by private transfer fee covenants if those covenants are created pursuant to an agreement entered into before February 8, 2011, applicable to land that is identified in the agreement, and the agreement was in settlement of litigation or approved by a government agency or body. This part also applies to securities backed by mortgages to which this part applies, and to securities issued after February 8, 2011, backed by revenue from private transfer fees regardless of when the covenants were created. The regulated entities shall comply with this part not later July 16, 2012.
+[89 FR 17716, Mar. 12, 2024]

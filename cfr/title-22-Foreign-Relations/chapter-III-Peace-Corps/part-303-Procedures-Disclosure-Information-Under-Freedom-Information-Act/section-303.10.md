@@ -1,12 +1,12 @@
 ##### § 303.10 Responsibilities and authorities. #####
 
-Link to an amendment published at 89 FR 25525, Apr. 11, 2024.
-
 (a) *Legal counsel.* The General Counsel (GC) shall furnish legal advice to Peace Corps officials and staff as to their obligations under this part and shall take such other actions as may be necessary or appropriate to assure a consistent and equitable application of the provisions of this part by and within the Peace Corps. The OIG Legal Counsel will coordinate with GC, as appropriate and necessary, when furnishing legal advice to the OIG FOIA Officer and Inspector General.
 
 (b) *Authority to grant or deny requests.* The FOIA Officer is authorized to grant or deny requests for records, except for OIG records, under this part. The OIG FOIA Officer is authorized to grant or deny requests for OIG records under this part. The FOIA Officer and the OIG FOIA Officer shall consult with each other when a request includes both Peace Corps and OIG records in order to ensure consistency and lack of duplication in processing the request.
 
-(c)(1) *Records received from other agencies.* When the Peace Corps receives a request for a record in its possession that it has received from another agency, it shall determine whether the other agency is better qualified to decide whether the record is exempt from disclosure and, if so, whether it should be disclosed as a matter of discretion. If the Peace Corps determines it is better qualified to process the record in response to the request, then it shall do so. If the Peace Corps determines it is not better qualified to process the request, it shall either:
+(c) *Authority to grant or deny appeals.* The Associate Director for the Office of Management is authorized to grant or deny appeals under § 303.13(a) through (c) except in the case of appeals from denials of requests for OIG records. The Inspector General is authorized to grant or deny appeals under § 303.13(a) through (c) from denials of requests for OIG records. Both the Associate Director for the Office of Management and the Inspector General shall follow this part in processing appeals.
+
+(d)(1) *Records received from other agencies.* When the Peace Corps receives a request for a record in its possession that it has received from another agency, it shall determine whether the other agency is better qualified to decide whether the record is exempt from disclosure and, if so, whether it should be disclosed as a matter of discretion. If the Peace Corps determines it is better qualified to process the record in response to the request, then it shall do so. If the Peace Corps determines it is not better qualified to process the request, it shall either:
 
 (i) Consult with the other agency before responding to the request; or
 
@@ -24,4 +24,4 @@ Link to an amendment published at 89 FR 25525, Apr. 11, 2024.
 
 (5) *Agreements with other agencies.* The Peace Corps may make agreements with other agencies to eliminate the need for consultations or referrals for particular types of records.
 
-[68 FR 66008, Nov. 25, 2003, as amended at 79 FR 19819, Apr. 10, 2014]
+[68 FR 66008, Nov. 25, 2003, as amended at 79 FR 19819, Apr. 10, 2014; 89 FR 25525, Apr. 11, 2024]

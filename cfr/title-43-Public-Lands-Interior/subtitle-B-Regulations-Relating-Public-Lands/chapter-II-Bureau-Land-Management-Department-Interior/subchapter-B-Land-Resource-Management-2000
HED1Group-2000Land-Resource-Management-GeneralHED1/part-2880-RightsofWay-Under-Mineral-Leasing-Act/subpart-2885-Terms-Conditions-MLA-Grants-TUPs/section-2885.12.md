@@ -1,6 +1,4 @@
-##### § 2885.12 What rights does a grant or TUP convey? #####
-
-Link to an amendment published at 89 FR 25975, Apr. 12, 2024.
+##### § 2885.12 What rights does a grant or TUP provide? #####
 
 The grant or TUP conveys to you only those rights which it expressly contains. BLM issues it subject to the valid existing rights of others, including the United States. Rights which the grant or TUP conveys to you include the right to:
 

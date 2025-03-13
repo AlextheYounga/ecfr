@@ -5,3 +5,5 @@
 (b) *Supplementing the record.* (1) A party may file a motion to supplement the record when anything relevant to an issue on appeal occurs after the ALJ issued a decision, or the party can show good cause, as determined by the TSOB Review Panel, for failing to submit material for the record at an earlier stage of the administrative proceedings. When the TSA seeks to supplement the record with material that contains classified information, SSI or other protected information, it may file a motion to supplement the record ex parte.
 
 (2) A TSOB Review Panel may grant a motion to supplement the record when it finds that the supplemental material is relevant to an issue on appeal and that a condition described in paragraph (b)(1) of this section applies.
+
+(3) A TSOB Review Panel may grant a motion to supplement the record by remanding the case to the ALJ for additional proceedings, where good cause is shown.

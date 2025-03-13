@@ -1,7 +1,5 @@
 ##### § 314.4 Elements. #####
 
-Link to an amendment published at 88 FR 77508, Nov. 13, 2023.
-
 In order to develop, implement, and maintain your information security program, you shall:
 
 (a) Designate a qualified individual responsible for overseeing and implementing your information security program and enforcing your information security program (for purposes of this part, “Qualified Individual”). The Qualified Individual may be employed by you, an affiliate, or a service provider. To the extent the requirement in this paragraph (a) is met using a service provider or an affiliate, you shall:
@@ -24,7 +22,7 @@ In order to develop, implement, and maintain your information security program, 
 
 (2) You shall periodically perform additional risk assessments that reexamine the reasonably foreseeable internal and external risks to the security, confidentiality, and integrity of customer information that could result in the unauthorized disclosure, misuse, alteration, destruction, or other compromise of such information, and reassess the sufficiency of any safeguards in place to control these risks.
 
-(c) Design and implement safeguards to control the risks you identity through risk assessment, including by:
+(c) Design and implement safeguards to control the risks you identify through risk assessment, including by:
 
 (1) Implementing and periodically reviewing access controls, including technical and, as appropriate, physical controls to:
 
@@ -98,4 +96,22 @@ In order to develop, implement, and maintain your information security program, 
 
 (2) Material matters related to the information security program, addressing issues such as risk assessment, risk management and control decisions, service provider arrangements, results of testing, security events or violations and management's responses thereto, and recommendations for changes in the information security program.
 
-[86 FR 70307, Dec. 9, 2021]
+(j) Notify the Federal Trade Commission about notification events in accordance with paragraphs (j)(1) and (2) of this section.
+
+(1) *Notification requirement.* Upon discovery of a notification event as described in paragraph (j)(2) of this section, if the notification event involves the information of at least 500 consumers, you must notify the Federal Trade Commission as soon as possible, and no later than 30 days after discovery of the event. The notice shall be made electronically on a form to be located on the FTC's website, *https://www.ftc.gov.* The notice shall include the following:
+
+(i) The name and contact information of the reporting financial institution;
+
+(ii) A description of the types of information that were involved in the notification event;
+
+(iii) If the information is possible to determine, the date or date range of the notification event;
+
+(iv) The number of consumers affected or potentially affected by the notification event;
+
+(v) A general description of the notification event; and
+
+(vi) Whether any law enforcement official has provided you with a written determination that notifying the public of the breach would impede a criminal investigation or cause damage to national security, and a means for the Federal Trade Commission to contact the law enforcement official. A law enforcement official may request an initial delay of up to 30 days following the date when notice was provided to the Federal Trade Commission. The delay may be extended for an additional period of up to 60 days if the law enforcement official seeks such an extension in writing. Additional delay may be permitted only if the Commission staff determines that public disclosure of a security event continues to impede a criminal investigation or cause damage to national security.
+
+(2) *Notification event treated as discovered.* A notification event shall be treated as discovered as of the first day on which such event is known to you. You shall be deemed to have knowledge of a notification event if such event is known to any person, other than the person committing the breach, who is your employee, officer, or other agent.
+
+[86 FR 70307, Dec. 9, 2021, as amended at 88 FR 77508, Nov. 13, 2023]

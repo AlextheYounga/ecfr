@@ -1,16 +1,14 @@
 ##### § 1211.11 Requirements for photoelectric sensors. #####
 
-Link to an amendment published at 89 FR 18540, Mar. 14, 2024.
-
 (a) *Normal operation test.* When installed as described in § 1211.10(a)(1) through (4), a photoelectric sensor of a vertically moving door shall sense an obstruction as described in paragraph (c) of this section that is to be placed on the floor at three points over the width of the door opening, at distances of 1 foot (305 mm) from each end and the midpoint.
 
-(b) *Normal operation test—Horizontally moving door.* When installed as described in § 1211.10(a)(1) through (4), a photoelectric sensor of a horizontally moving door shall be tested per paragraph (c) of this section that is to be placed on a level surface within the path of the moving door. The sensor is to be tested with the obstruction at a total of five different locations over the height of the door or gate opening. The locations shall include distances 1 in (25.4 mm) from each end, 1 ft (305 mm) from each end, and the midpoint.
+(b) *Normal operation test—Horizontally moving door.* When installed as described in § 1211.10(a)(1) through (4), a photoelectric sensor of a horizontally moving door shall be tested per paragraph (c) of this section that is to be placed on a level surface within the path of the moving door. The sensor is to be tested with the obstruction at a total of five different locations over the height of the door. The locations shall include distances 1 in (25.4 mm) from each end, 1 ft (305 mm) from each end, and the midpoint.
 
 (c) *Normal operation test—Obstruction.* The obstruction noted in paragraphs (a) and (b) of this section shall consist of a white vertical surface 6 inches (152 mm) high by 12 inches (305 mm) long. The obstruction is to be centered in the opening perpendicular to the plane of the door when in the closed position. See Figure 3 to subpart A.
 
 (d) *Sensitivity test.* (1) When installed as described in § 1211.10(a)(1) through (4), a photoelectric sensor shall sense the presence of a moving object when tested according to paragraph (d)(2) of this section.
 
-(2) The moving object is to consist of a 17/8 inch (47.6 mm) diameter cylindrical rod, 341/2 inches (876 mm) long, with the axis point being 34 inches (864 mm) from the end. The axis point is to be fixed at a point centered directly above the beam of the photoelectric sensor 36 inches (914 mm) above the floor. The photoelectric sensor is to be mounted at the highest position as recommended by the manufacturer. The rod is to be swung as a pendulum through the photoelectric sensor's beam from a position 45 degrees from the plane of the door when in the closed position. See Figure 4 to subpart A.
+(2) The moving object is to consist of a 17/8 inch (47.6 mm) diameter cylindrical rod, 341/2 inches (876 mm) long, with the axis point being 34 inches (864 mm) from the end. The axis point is to be fixed at a point centered directly above the beam of the photoelectric sensor 36 inches (914 mm) above the level surface below the door. The rod is to be swung as a pendulum through the photoelectric sensor's beam from a position 45 degrees from the plane of the door when in the closed position. See figure 4 to this subpart.
 
 (3) The test described in paragraph (d)(2) of this section is to be conducted at three points over the width of the door opening, at distances of 1 foot (305 mm) from each end and the midpoint.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 89 FR 18540, Mar. 14, 2024.
 
 (5) When conducting the Ambient Light Test specified in paragraph (e) of this section, the position of the light source shall be aligned per paragraph (e)(2) of this section based on the axis of the lowest beam or detection zone. This arrangement shall be used to determine compliance with the requirements specified in paragraph (f)(2) of this section (with the obstruction at the floor level) and paragraph (f)(4) of this section, which are the only conditions for which the ambient light is required to be applied.
 
-[81 FR 20232, Apr. 7, 2016]
+[81 FR 20232, Apr. 7, 2016, as amended at 89 FR 18540, Mar. 14, 2024]

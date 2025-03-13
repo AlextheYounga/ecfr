@@ -1,7 +1,5 @@
-##### § 303.6 Procedures for use of public reading room. #####
+##### § 303.6 Index of records. #####
 
-Link to an amendment published at 89 FR 25523, Apr. 11, 2024.
+The Peace Corps will maintain a current index identifying any matter within the scope of § 303.4 or § 303.5(b)(1) through (5). The index will be maintained and made available for public inspection and copying at the Peace Corps' headquarters in Washington, DC. The cost of a copy of the index will not exceed the standard charge for duplication set out in § 303.13(e). The Peace Corps will also make the index available on its public Web site.
 
-Any member of the public may inspect or copy records described in § 303.5(b) in the public reading room during regular business hours. Because it will sometimes be impossible to produce records or copies of records on short notice, a person who wishes to inspect or copy records shall arrange a time in advance, by telephone or letter request made to the Peace Corps FOIA Officer. Persons submitting a request by telephone for a record in the public reading room will be notified whether a written request would be advisable to aid in the identification and expeditious processing of the records sought. Written requests should identify the records sought in the manner described in § 303.8(b) and should request a specific date for inspecting the records. The requester will be advised as promptly as possible if, for any reason, it may not be possible to make the records sought available on the date requested.
-
-[79 FR 19818, Apr. 10, 2014]
+[68 FR 66008, Nov. 25, 2003. Redesignated at 89 FR 25523, Apr. 11, 2024 ]

@@ -1,5 +1,7 @@
 ##### § 71.51 Dogs and cats. #####
 
+Link to an amendment published at 89 FR 41837, May 13, 2024.
+
 (a) *Definitions.* As used in this section the term:
 
 *Cat* means all domestic cats.

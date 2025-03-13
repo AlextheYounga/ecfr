@@ -1,13 +1,11 @@
 ##### § 2885.19 What is the rent for a linear right-of-way grant? #####
 
-Link to an amendment published at 89 FR 25975, Apr. 12, 2024.
-
 (a) The BLM will use the Per Acre Rent Schedule (see paragraph (b) of this section) to calculate the rent. Counties (or other geographical areas) are assigned to a County Zone Number and Per Acre Zone Value based upon 80 percent of their average per acre land and building value published in the NASS Census. The initial assignment of counties to the zones in the Per Acre Rent Schedule for the 5-year period from 2006 to 2010 is based upon data contained in the most recent NASS Census (2002). Subsequent assignments of counties will occur every 5 years following the publication of the NASS Census. The Per Acre Rent Schedule is also adjusted periodically as follows:
 
 (1) Each calendar year the BLM will adjust the per acre rent values in §§ 2806.20 and 2885.19(b) for all types of linear right-of-way facilities in each zone based on the average annual change in the IPD-GDP for the 10-year period immediately preceding the year that the NASS Census data becomes available. For example, the average annual change in the IPD-GDP from 1994 to 2003 (the 10-year period immediately preceding the year (2004) that the 2002 NASS Census data became available) is 1.9 percent. This annual adjustment factor is applied to years 2006 through 2015 of the Per Acre Rent Schedule. Likewise, the average annual change in the IPD-GDP from 2004 to 2013 (the 10-year period immediately preceding the year (2014) when the 2012 NASS Census data will become available) will be applied to years 2016 through 2025 of the Per Acre Rent Schedule.
 
 (2) The BLM will review the NASS Census data from the 2012 NASS Census, and each subsequent 10-year period, and as appropriate, revise the number of county zones and the per acre zone values. Any revision must include 100 percent of the number of counties and listed geographical areas for all states and the Commonwealth of Puerto Rico and must reasonably reflect the increases or decreases in the average per acre land and building values contained in the NASS Census.
 
-(b) You may obtain a copy of the current Per Acre Rent Schedule from any BLM State, district, or field office or by writing: U.S. Department of the Interior, Bureau of Land Management, 20 M Street SE., Room 2134LM, Washington, DC 20003. The BLM also posts the current rent schedule at *http://www.blm.gov.*
+(b) You may obtain a copy of the current Per Acre Rent Schedule at *https://www.blm.gov,* by contacting your local BLM state, district, or field office, or by writing: Attention to the Division of Lands, Realty and Cadastral Survey, U.S. Department of the Interior, Bureau of Land Management, 1849 C Street NW, Mail Stop 2134LM, Washington, DC 20240.
 
-[73 FR 65073, Oct. 31, 2008, as amended at 81 FR 92228, Dec. 19, 2016]
+[73 FR 65073, Oct. 31, 2008, as amended at 81 FR 92228, Dec. 19, 2016; 89 FR 25975, Apr. 12, 2024]

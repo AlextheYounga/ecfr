@@ -1,0 +1,3 @@
+##### § 2866.38 Can I combine multiple grants for facilities located at one site into a single grant? #####
+
+If you hold grants for two or more facilities on the same communications site, you may submit an SF-299 application and be subject to cost recovery for the BLM to authorize those facilities under a single grant. The highest value use in all the combined facilities determines the base rent. The BLM then charges for each remaining use in the combined facilities at 25 percent of the rent from the rent schedule. These uses include those uses the BLM previously calculated as base rents when the BLM authorized each of the facilities on an individual basis.

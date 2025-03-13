@@ -1,5 +1,7 @@
 ##### § 50.40 Certification of loss of U.S. nationality. #####
 
+Link to an amendment published at 89 FR 41310, May 13, 2024.
+
 (a) *Administrative presumption.* In adjudicating potentially expatriating acts pursuant to INA 349(a), the Department has adopted an administrative presumption regarding certain acts and the intent to commit them. U.S. citizens who naturalize in a foreign country; take a routine oath of allegiance; or accept non-policy level employment with a foreign government need not submit evidence of intent to retain U.S. nationality. In these three classes of cases, intent to retain U.S. citizenship will be presumed. A person who affirmatively asserts to a consular officer, after he or she has committed a potentially expatriating act, that it was his or her intent to relinquish U.S. citizenship will lose his or her U.S. citizenship. In other loss of nationality cases, the consular officer will ascertain whether or not there is evidence of intent to relinquish U.S. nationality.
 
 (b) Whenever a person admits that he or she had the intent to relinquish citizenship by the voluntary and intentional performance of one of the acts specified in Section 349(a) of the Immigration and Nationality Act, and the person consents to the execution of an affidavit to that effect, the diplomatic or consular officer shall attach such affidavit to the certificate of loss of nationality.

@@ -1,5 +1,7 @@
 ##### § 71.50 Scope and definitions. #####
 
+Link to an amendment published at 89 FR 41837, May 13, 2024.
+
 (a) The purpose of this subpart is to prevent the introduction, transmission, and spread of communicable human disease resulting from importations of various animal hosts or vectors or other etiological agents from foreign countries into the United States.
 
 (b) In addition to terms in § 71.1, the terms below, as used in this subpart, shall have the following meanings:

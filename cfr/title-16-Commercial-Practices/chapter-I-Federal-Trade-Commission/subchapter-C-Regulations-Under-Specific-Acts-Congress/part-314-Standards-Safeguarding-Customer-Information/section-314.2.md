@@ -1,7 +1,5 @@
 ##### § 314.2 Definitions. #####
 
-Link to an amendment published at 88 FR 77508, Nov. 13, 2023.
-
 (a) *Authorized user* means any employee, contractor, agent, customer, or other person that is authorized to access any of your information systems or data.
 
 (b)(1) *Consumer* means an individual who obtains or has obtained a financial product or service from you that is to be used primarily for personal, family, or household purposes, or that individual's legal representative.
@@ -156,9 +154,11 @@ Link to an amendment published at 88 FR 77508, Nov. 13, 2023.
 
 (ii) Nonpublic personal information does not include any list of individuals' names and addresses that contains only publicly available information, is not derived, in whole or in part, using personally identifiable financial information that is not publicly available, and is not disclosed in a manner that indicates that any of the individuals on the list is a consumer of a financial institution.
 
-(m) *Penetration testing* means a test methodology in which assessors attempt to circumvent or defeat the security features of an information system by attempting penetration of databases or controls from outside or inside your information systems.
+(m) *Notification event* means acquisition of unencrypted customer information without the authorization of the individual to which the information pertains. Customer information is considered unencrypted for this purpose if the encryption key was accessed by an unauthorized person. Unauthorized acquisition will be presumed to include unauthorized access to unencrypted customer information unless you have reliable evidence showing that there has not been, or could not reasonably have been, unauthorized acquisition of such information.
 
-(n)(1) *Personally identifiable financial information* means any information:
+(n) *Penetration testing* means a test methodology in which assessors attempt to circumvent or defeat the security features of an information system by attempting penetration of databases or controls from outside or inside your information systems.
+
+(o)(1) *Personally identifiable financial information* means any information:
 
 (i) A consumer provides to you to obtain a financial product or service from you;
 
@@ -190,7 +190,7 @@ Link to an amendment published at 88 FR 77508, Nov. 13, 2023.
 
 (B) Information that does not identify a consumer, such as aggregate information or blind data that does not contain personal identifiers such as account numbers, names, or addresses.
 
-(o)(1) *Publicly available information* means any information that you have a reasonable basis to believe is lawfully made available to the general public from:
+(p)(1) *Publicly available information* means any information that you have a reasonable basis to believe is lawfully made available to the general public from:
 
 (i) Federal, State, or local government records;
 
@@ -214,10 +214,10 @@ Link to an amendment published at 88 FR 77508, Nov. 13, 2023.
 
 (B) You have a reasonable basis to believe that an individual's telephone number is lawfully made available to the general public if you have located the telephone number in the telephone book or the consumer has informed you that the telephone number is not unlisted.
 
-(p) *Security event* means an event resulting in unauthorized access to, or disruption or misuse of, an information system, information stored on such information system, or customer information held in physical form.
+(q) *Security event* means an event resulting in unauthorized access to, or disruption or misuse of, an information system, information stored on such information system, or customer information held in physical form.
 
-(q) *Service provider* means any person or entity that receives, maintains, processes, or otherwise is permitted access to customer information through its provision of services directly to a financial institution that is subject to this part.
+(r) *Service provider* means any person or entity that receives, maintains, processes, or otherwise is permitted access to customer information through its provision of services directly to a financial institution that is subject to this part.
 
-(r) *You* includes each “financial institution” (but excludes any “other person”) over which the Commission has enforcement jurisdiction pursuant to section 505(a)(7) of the Gramm-Leach-Bliley Act.
+(s) *You* includes each “financial institution” (but excludes any “other person”) over which the Commission has enforcement jurisdiction pursuant to section 505(a)(7) of the Gramm-Leach-Bliley Act.
 
-[86 FR 70304, Dec. 9, 2021]
+[86 FR 70304, Dec. 9, 2021, as amended at 88 FR 77508, Nov. 13, 2023]

@@ -22,7 +22,7 @@ Link to an amendment published at 89 FR 30271, Apr. 23, 2024.
 
 (vi) To facilitate changes of category;
 
-(vii) To update information when significant changes take place in regard to exchange visitors' programs (*e.g.,* substantial changes in funding, change in primary sites of activity, or changes in actual and current U.S. address);
+(vii) To update information when significant changes take place in regard to exchange visitors' programs (e.g., substantial changes in funding, change in primary sites of activity, or changes in actual and current U.S. address);
 
 (viii) To facilitate the correction of a minor or technical infraction; or
 
@@ -44,9 +44,9 @@ Link to an amendment published at 89 FR 30271, Apr. 23, 2024.
 
 (iii) Responsible Officers or Alternate Responsible Officers sign paper Forms DS-2019 in ink or sign Forms DS-2019 using digital signatures.
 
-(c) *Transmission of Forms DS-2019.* Sponsors may transmit Forms DS-2019 either electronically (*e.g.,* via email) or by mailing them (*e.g.,* via postal or delivery service) to only the following individuals or entities: exchange visitors; accompanying spouses and dependents, if any; legal guardians of minor exchange visitors; sponsor staff; Fulbright Commissions and their staff; and Federal, State, or local government agencies or departments. In addition, sponsors may mail signed paper Forms DS-2019 via postal or delivery service to foreign third parties acting on their behalf for distribution to prospective exchange visitors.
+(c) *Transmission of Forms DS-2019.* Sponsors may transmit Forms DS-2019 either electronically (e.g., via email) or by mailing them (e.g., via postal or delivery service) to only the following individuals or entities: exchange visitors; accompanying spouses and dependents, if any; legal guardians of minor exchange visitors; sponsor staff; Fulbright Commissions and their staff; and Federal, State, or local government agencies or departments. In addition, sponsors may mail signed paper Forms DS-2019 via postal or delivery service to foreign third parties acting on their behalf for distribution to prospective exchange visitors.
 
-(d) *Allotment requests*—(1) *Annual Form DS-2019 allotment.* Sponsors must submit an electronic request via SEVIS to the Department of State for an annual allotment of Forms DS-2019 based on the annual reporting cycle (*e.g.,* academic, calendar, or fiscal year) stated in their letter of designation or redesignation. The Department of State has sole discretion to determine the number of Forms DS-2019 it will issue to sponsors.
+(d) *Allotment requests*—(1) *Annual Form DS-2019 allotment.* Sponsors must submit an electronic request via SEVIS to the Department of State for an annual allotment of Forms DS-2019 based on the annual reporting cycle (e.g., academic, calendar, or fiscal year) stated in their letter of designation or redesignation. The Department of State has sole discretion to determine the number of Forms DS-2019 it will issue to sponsors.
 
 (2) *Expansion of program.* Requests for program expansion must include information such as, but not limited to, the justification for and source of program growth, staff increases, confirmation of adequately trained employees, noted programmatic successes, current financial information, additional overseas affiliates, additional third-party entities, explanations of how the sponsor will accommodate the anticipated program growth, and any other information the Department of State may request. The Department of State will take into consideration the current size of sponsors programs and the projected expansion of their programs in the next 12 months and may consult with the Responsible Officer and/or Alternate Responsible Officers prior to determining the number of Forms DS-2019 it will issue.
 
@@ -56,6 +56,6 @@ Link to an amendment published at 89 FR 30271, Apr. 23, 2024.
 
 (3) Sponsors must use the reprint function in SEVIS when exchange visitors' Forms DS-2019 are lost, stolen, or damaged, regardless of whether they are transmitting forms electronically or mailing them.
 
-(4) Sponsors must destroy any damaged and/or unusable Forms DS-2019 (*e.g.,* forms with errors or forms damaged by a printer).
+(4) Sponsors must destroy any damaged and/or unusable Forms DS-2019 (e.g., forms with errors or forms damaged by a printer).
 
 [88 FR 18251, Mar. 28, 2023]

@@ -1,8 +1,6 @@
 ##### § 2884.11 What information must I submit in my application? #####
 
-Link to an amendment published at 89 FR 25973, Apr. 12, 2024.
-
-(a) File your application on Form SF-299 or as part of an Application for Permit to Drill or Reenter (BLM Form 3160-3) or Sundry Notice and Report on Wells (BLM Form 3160-5), available from any BLM office. Provide a complete description of the project, including:
+(a) File your application on Form SF-299 or as part of an Application for Permit to Drill or Reenter (BLM Form 3160-3) or Sundry Notice and Report on Wells (BLM Form 3160-5), available from any BLM office. The application must include the applicant's original signature or meet the BLM standards for electronic commerce. Your complete application must include:
 
 (1) The exact diameters of the pipes and locations of the pipelines;
 
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 25973, Apr. 12, 2024.
 
 (5) The estimated schedule for constructing, operating, maintaining, and terminating the project (a POD). Your POD must be consistent with the development schedule and other requirements as noted on the POD template for oil and gas pipelines at *http://www.blm.gov;*
 
-(6) A map of the project, showing its proposed location and showing existing facilities adjacent to the proposal;
+(6) A map of the project, showing its proposed location and showing existing facilities adjacent to the proposal. The required map may include Geographic Information Systems (GIS) file geodatabases (FGDB), or equivalent format such as shapefiles or .kmz files, as requested by the BLM;
 
 (7) A statement certifying that you are of legal age and authorized to do business in the state(s) where the right-of-way would be located, and that you have submitted correct information to the best of your knowledge;
 
@@ -46,4 +44,4 @@ Link to an amendment published at 89 FR 25973, Apr. 12, 2024.
 
 (e) If conditions or information affecting your application change, promptly notify BLM and submit to BLM in writing the necessary changes to your application. BLM may deny your application if you fail to do so.
 
-[70 FR 21078, Apr. 22, 2005, as amended at 81 FR 92226, Dec. 19, 2016]
+[70 FR 21078, Apr. 22, 2005, as amended at 81 FR 92226, Dec. 19, 2016; 89 FR 25973, Apr. 12, 2024]

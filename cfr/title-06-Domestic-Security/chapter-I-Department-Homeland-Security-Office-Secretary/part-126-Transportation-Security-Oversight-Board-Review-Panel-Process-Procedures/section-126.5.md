@@ -6,7 +6,7 @@
 
 (2) Hold a security clearance commensurate with the record under review;
 
-(3) Not be employed by TSA or FAA;
+(3) Not be employed by TSA or the Federal Aviation Administration (FAA);
 
 (4) To the extent practicable, have a legal background and be engaged in the practice of law on behalf of the United States Government; and
 

@@ -1,10 +1,10 @@
-##### § 2804.25 How will BLM process my application? #####
+##### § 2804.25 How will the BLM process my application? #####
 
-Link to an amendment published at 89 FR 25961, Apr. 12, 2024.Link to an amendment published at 89 FR 35678, May 1, 2024.
+Link to an amendment published at 89 FR 35678, May 1, 2024.
 
 (a) The BLM will notify you in writing when it receives your application. This notification will also:
 
-(1) Identify your processing fee described at § 2804.14; and
+(1) Identify your cost recovery fee described at § 2804.14, unless you are exempt from paying fees; and
 
 (2) Inform you of any other grant applications which involve all or part of the lands for which you applied.
 
@@ -18,14 +18,16 @@ Link to an amendment published at 89 FR 25961, Apr. 12, 2024.Link to an amendmen
 
 (1) For solar or wind energy development projects, and transmission lines with a capacity of 100 kV or more, you must commence any required resource surveys or inventories within one year of the request date, unless otherwise specified by the BLM; or
 
-(2) If you are unable to meet any of the requirements of this section, you must show good cause and submit a request for an alternative under § 2804.40.
+(2) For all powerline rights-of-way, you must submit an operating plan or agreement, unless you have an approved plan that meets the requirements of § 2805.21; or
 
-(d) *Customer service standard.* The BLM will process your completed application as follows:
+(3) If you are unable to meet any of the requirements of this section, you must show good cause and submit a request for an alternative under § 2804.40.
+
+(d) *Customer service standard.* The BLM will process your complete application as follows:
 
 |Processing  <br/>category|          Processing time           |                                                                                                           Conditions                                                                                                            |
 |-------------------------|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           1-4           |          60 calendar days          |If processing your application will take longer than 60 calendar days, the BLM will notify you in writing of this fact prior to the 30th calendar day and inform you of when you can expect a final decision on your application.|
-|            5            |As specified in the Master Agreement|                                                                                The BLM will process applications as specified in the Agreement.                                                                                 |
+|            5            |As specified in the Master Agreement|                                                                             The BLM will process applications as specified in the Master Agreement.                                                                             |
 |            6            |       Over 60 calendar days        |                                                        The BLM will notify you in writing within the initial 60-day processing period of the estimated processing time.                                                         |
 
 (e) In processing an application, the BLM will:
@@ -64,4 +66,4 @@ Link to an amendment published at 89 FR 25961, Apr. 12, 2024.Link to an amendmen
 
 (3) The segregation period may not exceed 2 years from the date of publication in the Federal Register of the notice initiating the segregation, unless the State Director determines and documents in writing, prior to the expiration of the segregation period, that an extension is necessary for the orderly administration of the public lands. If the State Director determines an extension is necessary, the BLM will extend the segregation for up to 2 years by publishing a notice in the Federal Register, prior to the expiration of the initial segregation period. Segregations under this part may only be extended once and the total segregation period may not exceed 4 years.
 
-[81 FR 92209, Dec. 19, 2016]
+[81 FR 92209, Dec. 19, 2016, as amended at 89 FR 25961, Apr. 12, 2024]

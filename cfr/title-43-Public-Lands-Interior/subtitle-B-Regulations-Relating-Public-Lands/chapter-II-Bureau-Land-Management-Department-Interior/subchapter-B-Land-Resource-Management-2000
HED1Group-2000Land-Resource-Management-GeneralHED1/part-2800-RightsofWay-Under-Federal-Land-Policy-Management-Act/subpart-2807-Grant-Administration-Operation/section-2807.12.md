@@ -1,7 +1,5 @@
 ##### § 2807.12 If I hold a grant, for what am I liable? #####
 
-Link to an amendment published at 89 FR 25964, Apr. 12, 2024.
-
 (a) If you hold a grant, you are liable to the United States and to third parties for any damage or injury they incur in connection with your use and occupancy of the right-of-way.
 
 (b) You are strictly liable for any activity or facility associated with your right-of-way area which BLM determines presents a foreseeable hazard or risk of damage or injury to the United States. BLM will specify in the grant any activity or facility posing such hazard or risk, and the financial limitations on damages commensurate with such hazard or risk.
@@ -24,4 +22,12 @@ Link to an amendment published at 89 FR 25964, Apr. 12, 2024.
 
 (f) We address liability of state, tribal, and local governments in § 2807.13 of this subpart.
 
-(g) The provisions of this section do not limit or exclude other remedies.
+(g) The BLM will not impose strict liability for damages or injuries resulting from:
+
+(1) The BLM unreasonably withholding or delaying approval of an operating plan or agreement submitted under § 2805.21; or
+
+(2) The BLM failing to adhere to an applicable schedule in an approved plan (see § 2805.21(d)).
+
+(h) The provisions of this section do not limit or exclude other remedies.
+
+[70 FR 21058, Apr. 22, 2005 , as amended at 89 FR 25964, Apr. 12, 2024]

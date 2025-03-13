@@ -1,7 +1,5 @@
 ##### § 2887.11 May I assign or make other changes to my grant or TUP? #####
 
-Link to an amendment published at 89 FR 25976, Apr. 12, 2024.
-
 (a) With the BLM's approval, you may assign, in whole or in part, any right or interest in a grant or TUP. Assignment actions that may require BLM approval include, but are not limited to, the following:
 
 (1) The transfer by the holder (assignor) of any right or interest in the grant or TUP to a third party (assignee); and
@@ -42,4 +40,6 @@ Link to an amendment published at 89 FR 25976, Apr. 12, 2024.
 
 (3) Your name change is not recognized until the BLM approves it in writing.
 
-[81 FR 92229, Dec. 19, 2016]
+(i) You must seek an amendment of your authorization if you propose a substantial deviation in location or use.
+
+[81 FR 92229, Dec. 19, 2016, as amended at 89 FR 25976, Apr. 12, 2024]

@@ -1,8 +1,6 @@
-##### § 2804.21 What other factors will BLM consider in determining processing and monitoring fees? #####
+##### § 2804.21 What other factors will the BLM consider in determining cost recovery fees? #####
 
-Link to an amendment published at 89 FR 25961, Apr. 12, 2024.
-
-(a) *Other factors.* If you include this information in your application, in arriving at your processing or monitoring fee in any category, the BLM State Director will consider whether:
+(a) *Other factors.* If you include this information in your application, in arriving at your cost recovery fee in any category, the BLM will consider whether:
 
 (1) Payment of actual costs would:
 
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 25961, Apr. 12, 2024.
 
 (ii) Create such undue financial hardship as to prevent your use and enjoyment of your right-of-way for a non-commercial purpose.
 
-(2) The costs of processing the application and monitoring the issued grant grossly exceed the costs of constructing the project;
+(2) The costs of performing any or all right-of-way activities grossly exceed the costs of constructing the project;
 
 (3) You are a non-profit organization, corporation, or association which is not controlled by or a subsidiary of a profit-making enterprise; and
 
@@ -24,6 +22,8 @@ Link to an amendment published at 89 FR 25961, Apr. 12, 2024.
 
 (6) You have a grant and need to secure a new grant to relocate facilities which you have to move because a Federal agency or federally-funded project needs the lands and the United States does not pay the costs associated with your relocation; or
 
-(7) For whatever other reason, such as public benefits or public services provided, collecting processing and monitoring fees would be inconsistent with prudent and appropriate management of public lands and with your equitable interests or the equitable interests of the United States.
+(7) For whatever other reason, such as public benefits or public services provided, cost recovery fees would be inconsistent with prudent and appropriate management of public lands and with your equitable interests or the equitable interests of the United States.
 
-(b) *Fee determination.* With your written application, submit your analysis of how each of the factors, as applicable, in paragraph (a) of this section pertain to your application. BLM will notify you in writing of the BLM State Director's fee determination. You may appeal this decision under § 2801.10 of this part.
+(b) *Fee determination.* With your written application, submit your analysis of how each of the factors, as applicable, in paragraph (a) of this section, pertains to your application. The BLM will notify you in writing of the fee determination. You may appeal this decision under § 2801.10 of this part.
+
+[70 FR 21058, Apr. 22, 2005, as amended at 89 FR 25961, Apr. 12, 2024]

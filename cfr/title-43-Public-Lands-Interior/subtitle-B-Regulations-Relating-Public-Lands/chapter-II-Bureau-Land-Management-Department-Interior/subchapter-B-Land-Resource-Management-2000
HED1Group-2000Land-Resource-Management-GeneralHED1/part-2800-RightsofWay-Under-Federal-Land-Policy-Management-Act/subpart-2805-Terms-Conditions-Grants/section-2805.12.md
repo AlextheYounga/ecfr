@@ -1,6 +1,6 @@
-##### § 2805.12 What terms and conditions must I comply with? #####
+##### § 2805.12 With what terms and conditions must I comply? #####
 
-Link to an amendment published at 89 FR 25962, Apr. 12, 2024.Link to an amendment published at 89 FR 35679, May 1, 2024.
+Link to an amendment published at 89 FR 35679, May 1, 2024.
 
 (a) By accepting a grant or lease, you agree to comply with and be bound by the following terms and conditions. During construction, operation, maintenance, and termination of the project you must:
 
@@ -10,7 +10,7 @@ Link to an amendment published at 89 FR 25962, Apr. 12, 2024.Link to an amendmen
 
 (3) Build and maintain suitable crossings for existing roads and significant trails that intersect the project;
 
-(4) Do everything reasonable to prevent and suppress wildfires on or in the immediate vicinity of the right-of-way area;
+(4) Do everything reasonable to prevent and suppress wildfires on or adjacent to the right-of-way;
 
 (5) Not discriminate against any employee or applicant for employment during any stage of the project because of race, creed, color, sex, sexual orientation, or national origin. You must also require subcontractors to not discriminate;
 
@@ -36,7 +36,7 @@ Link to an amendment published at 89 FR 25962, Apr. 12, 2024.Link to an amendmen
 
 (v) Protect the interests of individuals living in the general area who rely on the area for subsistence uses as that term is used in Title VIII of Alaska National Interest Lands Conservation Act (ANILCA) (16 U.S.C. 3111 *et seq.*);
 
-(vi) Ensure that you construct, operate, maintain, and terminate the facilities on the lands in the right-of-way in a manner consistent with the grant or lease, including the approved POD, if one was required;
+(vi) Ensure that you construct, operate, maintain, and decommission the facilities authorized by the right-of-way in a manner consistent with the grant, including the approved POD, if one was required, or any approved operating plan or agreement;
 
 (vii) When the State standards are more stringent than Federal standards, comply with State standards for public health and safety, environmental protection, and siting, constructing, operating, and maintaining any facilities and improvements on the right-of-way; and
 
@@ -76,7 +76,11 @@ Link to an amendment published at 89 FR 25962, Apr. 12, 2024.Link to an amendmen
 
 (4) Maintain all onsite electrical generation equipment and facilities in accordance with the design standards in the approved POD;
 
-(5) Repair and place into service, or remove from the site, damaged or abandoned facilities that have been inoperative for any continuous period of 3 months and that present an unnecessary hazard to the public lands. You must take appropriate remedial action within 30 days after receipt of a written noncompliance notice, unless you have been provided an extension of time by the BLM. Alternatively, you must show good cause for any delays in repairs, use, or removal; estimate when corrective action will be completed; provide evidence of diligent operation of the facilities; and submit a written request for an extension of the 30-day deadline. If you do not comply with this provision, the BLM may suspend or terminate the authorization under §§ 2807.17 through 2807.19; and
+(5) Repair and place into service, or remove from the site, damaged or abandoned facilities that:
+
+(i) Have been inoperative for any continuous period of 3 months and present a hazard to the public lands; or
+
+(ii) Present a hazard to human health or safety. You must take appropriate remedial action within 30 days after receipt of a written noncompliance notice unless you have been provided an extension of time by the BLM. Alternatively, you must show good cause for any delays in repairs, use, or removal; estimate when corrective action will be completed; provide evidence of diligent operation of the facilities; and submit a written request for an extension of the 30-day deadline. If you do not comply with this provision, the BLM may suspend or terminate the authorization under §§ 2807.17 through 2807.19; and
 
 (6) Comply with the diligent development provisions of the authorization or the BLM may suspend or terminate your grant or lease under §§ 2807.17 through 2807.19. Before suspending or terminating the authorization, the BLM will send you a notice that gives you a reasonable opportunity to correct any noncompliance or to start or resume use of the right-of-way (see § 2807.18). In response to this notice, you must:
 
@@ -94,7 +98,11 @@ Link to an amendment published at 89 FR 25962, Apr. 12, 2024.Link to an amendmen
 
 (2) You must maintain all onsite equipment and facilities in accordance with the approved design standards;
 
-(3) You must repair and place into service, or remove from the site, damaged or abandoned facilities that have been inoperative for any continuous period of 3 months and that present an unnecessary hazard to the public lands; and
+(3) You must repair and place into service, or remove from the site, damaged or abandoned facilities that:
+
+(i) Have been inoperative for any continuous period of 3 months and present a hazard to the public lands; or
+
+(ii) Present a hazard to human health or safety; and
 
 (4) If you do not comply with the diligent development provisions of either the site testing and monitoring authorization or the project testing and monitoring authorization, the BLM may terminate your authorization under § 2807.17.
 
@@ -102,4 +110,4 @@ Link to an amendment published at 89 FR 25962, Apr. 12, 2024.Link to an amendmen
 
 (2) You may also request that the BLM consider alternative stipulations, terms, or conditions. Any request for an alternative stipulation, term, or condition must comply with applicable law in order to be considered. Any proposed alternative to applicable bonding requirements must provide the United States with adequate financial assurance for potential liabilities associated with your right-of-way grant or lease. Any such request is not approved until you receive BLM approval in writing.
 
-[81 FR 92213, Dec. 19, 2016]
+[81 FR 92213, Dec. 19, 2016, as amended at 89 FR 25962, Apr. 12, 2024]

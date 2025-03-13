@@ -1,0 +1,3 @@
+##### § 673.31 Safety plan documentation. #####
+
+At all times, a transit agency must maintain documents that set forth its Public Transportation Agency Safety Plan, including those related to the implementation of its SMS, and results from SMS processes and activities. A transit agency must maintain documents that are included in whole, or by reference, that describe the programs, policies, and procedures that the transit agency uses to carry out its Public Transportation Agency Safety Plan. These documents must be made available upon request by FTA or other Federal entity, or a State or State Safety Oversight Agency having jurisdiction. A transit agency must maintain these documents for a minimum of three years after they are created.

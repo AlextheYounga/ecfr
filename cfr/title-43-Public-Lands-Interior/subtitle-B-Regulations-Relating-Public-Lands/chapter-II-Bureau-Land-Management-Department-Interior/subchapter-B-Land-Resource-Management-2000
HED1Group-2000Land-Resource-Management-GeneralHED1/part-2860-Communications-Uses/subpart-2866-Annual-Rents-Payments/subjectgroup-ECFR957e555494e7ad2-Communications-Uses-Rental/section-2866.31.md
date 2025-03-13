@@ -1,0 +1,11 @@
+##### § 2866.31 How will the BLM calculate rent for Communications Uses in the schedule? #####
+
+(a) *Basic rule.* The BLM calculates rents for:
+
+(1) Single-use facilities by applying the rent from the communications uses rent schedule (see § 2866.30) for the type of use and the population strata served; and
+
+(2) Multiple-use facilities, whose authorizations provide for subleasing, by setting the rent of the highest value use in the facility or facilities as the base rent (taken from the rent schedule) and adding to the base rent 25 percent of the rent from the rent schedule for all tenant uses in the facility or facilities that are not already being used as the base rent (rent = base rent + 25 percent of all rent due to additional tenant uses in the facility or facilities) (see also §§ 2866.32 and 2866.34).
+
+(b) *Exclusions.* When calculating rent, the BLM will exclude customer uses, except as provided for at §§ 2866.34(b)(4) and 2866.42. The BLM will also exclude those uses exempted from rent by § 2866.14 of this subpart, and any uses for which rent has been waived or reduced to zero as described in § 2866.15.
+
+(c) *Annual statement.* By October 15 of each year, you, as a grant holder, must submit to the BLM a certified statement listing any tenants and customers in your facility or facilities and the category of use for each tenant or customer as of September 30 of the same year. The BLM may require you to submit additional information to calculate your rent. The BLM will determine the rent based on the annual inventory certification statement provided. The BLM requires only facility owners or facility managers to hold a grant (unless you are an occupant in a federally owned facility as described in § 2866.42) and will charge you rent for your grant based on the total number of communications uses within the right-of-way and the type of uses and population strata the facility or site serves. If you fail to submit your annual inventory certification by October 15 (by electronic correspondence or postmarked), you may not receive any discounts, reductions, exemptions, or waivers (see §§ 2866.14, 2866.15, and 2866.34), to which you may have been entitled.

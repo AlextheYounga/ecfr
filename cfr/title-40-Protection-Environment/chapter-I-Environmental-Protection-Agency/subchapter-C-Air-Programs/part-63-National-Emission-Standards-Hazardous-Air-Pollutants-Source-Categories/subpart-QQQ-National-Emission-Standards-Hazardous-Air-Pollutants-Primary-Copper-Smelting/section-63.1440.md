@@ -1,0 +1,3 @@
+##### § 63.1440 What is the purpose of this subpart? #####
+
+This subpart establishes national emission standards for hazardous air pollutants (NESHAP) for primary copper smelters. This subpart also establishes requirements to demonstrate initial and continuous compliance with all applicable emission limitations, work practice standards, design standards, and operation and maintenance requirements in this subpart.

@@ -12,8 +12,8 @@
 
 (3) You have been granted an exemption under a statute providing for such; or
 
-(4) Electric or telephone facilities constructed on the right-of-way were financed in whole or in part, or eligible for financing, under the Rural Electrification Act of 1936, as amended (REA) (7 U.S.C. 901 *et seq.*), or are extensions of such facilities. You do not need to have sought financing from the Rural Utilities Service to qualify for this exemption. BLM may require you to document the facility's eligibility for REA financing. For communication site facilities, adding or including non-eligible facilities as, for example, by tenants or customers, on the right-of-way will subject the holder to rent in accordance with §§ 2806.30 through 2806.44 of this subpart.
+(4) Electric or telephone facilities constructed on the right-of-way were financed in whole or in part, or eligible for financing, under the Rural Electrification Act of 1936, as amended (REA) (7 U.S.C. 901 *et seq.*) or are extensions of such facilities. You do not need to have sought financing from the Rural Utilities Service to qualify for this exemption. The BLM may require you to document the facility's eligibility for REA financing.
 
 (b) The exemptions in this section do not apply if you are in trespass.
 
-[70 FR 21058, Apr. 22, 2005, as amended at 73 FR 65071, Oct. 31, 2008]
+[70 FR 21058, Apr. 22, 2005, as amended at 73 FR 65071, Oct. 31, 2008; 89 FR 25964, Apr. 12, 2024]

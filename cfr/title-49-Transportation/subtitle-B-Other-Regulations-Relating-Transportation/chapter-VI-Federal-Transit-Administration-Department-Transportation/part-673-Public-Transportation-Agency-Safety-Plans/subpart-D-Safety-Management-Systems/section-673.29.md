@@ -1,0 +1,7 @@
+##### § 673.29 Safety Promotion. #####
+
+(a) *Competencies and training.* (1) A transit agency must establish and implement a comprehensive safety training program that includes de-escalation training, safety concern identification and reporting training, and refresher training for all operations transit workers and transit workers directly responsible for safety in the transit agency's public transportation system. The training program must include refresher training, as necessary.
+
+(2) Large urbanized area providers must include maintenance transit workers in the safety training program.
+
+(b) *Safety communication.* A transit agency must communicate safety and safety performance information throughout the transit agency's organization that, at a minimum, conveys information on hazards and safety risk relevant to transit workers' roles and responsibilities and informs transit workers of safety actions taken in response to reports submitted through a transit worker safety reporting program. A transit agency must also communicate the results of cooperation with frontline transit worker representatives as described at § 673.17(b) or the Safety Committee activities described in § 673.19.

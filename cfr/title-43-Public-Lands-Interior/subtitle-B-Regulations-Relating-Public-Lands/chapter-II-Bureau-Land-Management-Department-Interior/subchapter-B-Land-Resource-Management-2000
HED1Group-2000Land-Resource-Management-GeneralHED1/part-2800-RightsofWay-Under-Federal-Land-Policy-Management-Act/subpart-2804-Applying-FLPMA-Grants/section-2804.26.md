@@ -1,6 +1,6 @@
 ##### § 2804.26 Under what circumstances may BLM deny my application? #####
 
-Link to an amendment published at 89 FR 25962, Apr. 12, 2024.Link to an amendment published at 89 FR 35679, May 1, 2024.
+Link to an amendment published at 89 FR 35679, May 1, 2024.
 
 (a) BLM may deny your application if:
 
@@ -30,8 +30,10 @@ Link to an amendment published at 89 FR 25962, Apr. 12, 2024.Link to an amendmen
 
 (8) The BLM's evaluation of your solar or wind application made under § 2804.25(e)(2)(iii) provides a basis for a denial.
 
+(9) You do not comply with a deficiency notice (see § 2804.25(c)) within the time specified in the notice or with a BLM request for additional information needed to process your application.
+
 (b) If BLM denies your application, you may appeal this decision under § 2801.10 of this part.
 
 (c) If you are unable to meet any of the requirements in this section you may request an alternative from the BLM (see § 2804.40).
 
-[70 FR 21058, Apr. 22, 2005, as amended at 81 FR 92211, Dec. 19, 2016]
+[70 FR 21058, Apr. 22, 2005, as amended at 81 FR 92211, Dec. 19, 2016; 89 FR 25962, Apr. 12, 2024]

@@ -1,6 +1,4 @@
-##### § 17.32 Permits—general. #####
-
-Link to an amendment published at 89 FR 26098, Apr. 12, 2024.
+##### § 17.32 Permits for threatened species. #####
 
 Upon receipt of a complete application, the Director may issue a permit for any activity otherwise prohibited with regard to threatened wildlife. The permit shall be governed by the provisions of this section unless a species-specific rule applicable to the wildlife and set forth in §§ 17.40 through 17.48 provides otherwise. A permit issued under this section must be for one of the following purposes: scientific purposes, or the enhancement of propagation or survival, or economic hardship, or zoological exhibition, or educational purposes, or incidental taking, or special purposes consistent with the purposes of the Act. Such a permit may authorize a single transaction, a series of transactions, or a number of activities over a specific period of time.
 
@@ -40,57 +38,79 @@ Upon receipt of a complete application, the Director may issue a permit for any 
 
 (4) *Duration of permits.* The duration of permits issued under this paragraph shall be designated on the face of the permit.
 
-(b)(1) *Application requirements for permits for incidental taking.* (i) A person wishing to get a permit for an activity prohibited by § 17.31 submits an application for activities under this paragraph.
+(b)(1) *Application requirements for an incidental take permit.* A person seeking authorization for incidental take that would otherwise be prohibited by § 17.31 or §§ 17.40 through 17.48 submits Form 3-200-56, a processing fee (if applicable), and a conservation plan. The Service will process the application when the Director determines the application is complete. A conservation plan must include the following:
 
-(ii) The director shall publish notice in the Federal Register of each application for a permit that is made under this section. Each notice shall invite the submission from interested parties, within 30 days after the date of the notice, of written data, views, or arguments with respect to the application.
+(i) *Project description.* A complete description of the project, including purpose, location, timing, and proposed covered activities.
 
-(iii) Each application must be submitted on an official application (Form 3-200) provided by the Service, and must include as an attachment, all of the following information:
+(ii) *Covered species.* As defined in § 17.3, common and scientific names of species sought to be covered by the permit, as well as the number, age, and sex, if known.
 
-(A) A complete description of the activity sought to be authorized;
+(iii) *Goals and objectives.* The measurable biological goals and objectives of the conservation plan.
 
-(B) The common and scientific names of the species sought to be covered by the permit, as well as the number, age, and sex of such species, if known;
+(iv) *Anticipated take.* Expected timing, geographic distribution, type and amount of take, and the likely impact of take on the species.
 
-(C) A conservation plan that specifies:
+(v) *Conservation program:* That explains the:
 
-(*1*) The impact that will likely result from such taking;
+(A) Conservation measures that will be taken to minimize and mitigate the impacts of the incidental take for all covered species commensurate with the taking;
 
-(*2*) What steps the applicant will take to monitor, minimize, and mitigate such impacts, the funding that will be available to implement such steps, and the procedures to be used to deal with unforeseen circumstances;
+(B) Roles and responsibilities of all entities involved in implementation of the conservation plan;
 
-(*3*) What alternative actions to such taking the applicant considered and the reasons why such alternatives are not proposed to be utilized; and
+(C) Changed circumstances and the planned responses in an adaptive management plan; and
 
-(*4*) Such other measures that the Director may require as being necessary or appropriate for purposes of the plan.
+(D) Procedures for dealing with unforeseen circumstances.
 
-(2) *Issuance criteria.* (i) Upon receiving an application completed in accordance with paragraph (b)(1) of this section, the Director will decide whether or not a permit should be issued. The Director shall consider the general issuance criteria in 13.21(b) of this subchapter, except for 13.21(b)(4), and shall issue the permit if he or she finds that:
+(vi) *Conservation timing.* The timing of mitigation relative to the incidental take of covered species.
 
-(A) The taking will be incidental;
+(vii) *Permit duration.* The rationale for the requested permit duration.
 
-(B) The applicant will, to the maximum extent practicable, minimize and mitigate the impacts of such takings;
+(viii) *Monitoring.* Monitoring of the effectiveness of the mitigation and minimization measures, progress towards achieving the biological goals and objectives, and permit compliance. The scope of the monitoring program should be commensurate with the scope and duration of the conservation program and the project impacts.
 
-(C) The applicant will ensure that adequate funding for the conservation plan and procedures to deal with unforeseen circumstances will be provided;
+(ix) *Funding needs and sources.* An accounting of the costs for properly implementing the conservation plan and the sources and methods of funding.
 
-(D) The taking will not appreciably reduce the likelihood of the survival and recovery of the species in the wild;
+(x) *Alternative actions.* The alternative actions to the taking the applicant considered and the reasons why such alternatives are not being used.
 
-(E) The measures, if any, required under paragraph (b)(1)(iii)(D) of this section will be met; and
+(xi) *Additional actions.* Other measures that the Director requires as necessary or appropriate, including those necessary or appropriate to meet the issuance criteria or other statutory responsibilities of the Service.
 
-(F) He or she has received such other assurances as he or she may require that the plan will be implemented.
+(2) *Issuance criteria.* Upon receiving an application completed in accordance with paragraph (b)(1) of this section, the Director will decide whether a permit should be issued. The Director will consider the general issuance criteria in § 13.21(b) of this subchapter, except for § 13.21(b)(4). In making a decision, the Director will consider the anticipated duration and geographic scope of the applicant's planned activities, including the amount of covered species' habitat that is involved and the degree to which covered species and their habitats are affected. The Director will issue the permit if the Director finds:
 
-(ii) In making his or her decision, the Director shall also consider the anticipated duration and geographic scope of the applicant's planned activities, including the amount of listed species habitat that is involved and the degree to which listed species and their habitats are affected.
+(i) The taking will be incidental to, and not the purpose of, carrying out an otherwise lawful activity.
 
-(3) *Permit conditions.* In addition to the general conditions set forth in part 13 of this subchapter, every permit issued under this paragraph shall contain such terms and conditions as the Director deems necessary or appropriate to carry out the purposes of the permit and the conservation plan including, but not limited to, monitoring and reporting requirements deemed necessary for determining whether such terms and conditions are being complied with. The Director shall rely upon existing reporting requirements to the maximum extent practicable.
+(ii) The applicant will, to the maximum extent practicable, minimize and mitigate the impacts of the taking.
 
-(4) *Duration of permits.* The duration of permits issued under this paragraph shall be sufficient to provide adequate assurances to the permittee to commit funding necessary for the activities authorized by the permit, including conservation activities and land use restrictions. In determining the duration of a permit, the Director shall consider the duration of the planned activities, as well as the possible positive and negative effects associated with permits of the proposed duration on listed species, including the extent to which the conservation plan will enhance the habitat of listed species and increase the long-term survivability of such species.
+(iii) The applicant will ensure that adequate funding for the conservation plan implementation will be provided.
 
-(5) *Assurances provided to permittee in case of changed or unforeseen circumstances.* The assurances in this paragraph (b)(5) apply only to incidental take permits issued in accordance with paragraph (b)(2) of this section where the conservation plan is being properly implemented, and apply only with respect to species adequately covered by the conservation plan. These assurances cannot be provided to Federal agencies. This rule does not apply to incidental take permits issued prior to March 25, 1998. The assurances provided in incidental take permits issued prior to March 25, 1998 remain in effect, and those permits will not be revised as a result of this rulemaking.
+(iv) The applicant has provided procedures to deal with unforeseen circumstances.
+
+(v) The taking will not appreciably reduce the likelihood of the survival and recovery of the species in the wild.
+
+(vi) The measures and conditions, if any, required under paragraph (b)(1)(xi) of this section will be met.
+
+(vii) The applicant has provided any other assurances the Director requires to ensure that the conservation plan will be implemented.
+
+(3) *Permit conditions.* In addition to the general conditions set forth in part 13 of this subchapter, every permit issued under the regulations in this section will contain terms and conditions that the Director deems necessary or appropriate to carry out the purposes of the permit and the conservation plan, including, but not limited to, additional conservation measures, if any, that may be required pursuant to paragraph (b)(1)(xi) of this section, specified deadlines, and monitoring and reporting requirements deemed necessary for determining whether the permittee is complying with those terms and conditions. The Director will rely upon existing reporting requirements to the maximum extent practicable.
+
+(4) *Permit duration and effective date.* In determining the duration of a permit, the Director will consider the duration of the activities for which coverage is requested; the time necessary to fully minimize and mitigate the impacts of the taking; and uncertainties related to the impacts of the taking, success of the mitigation, and external factors that could affect the success of the conservation plan.
+
+(i) Permits issued under this paragraph (b) become effective for listed covered species upon the date the permittee signs the incidental take permit, which must occur within 90 calendar days of issuance. For non-listed covered species, the permit's take authorization becomes effective upon the effective date of the species' listing provided the permittee signed the permit within 90 calendar days of issuance and has properly implemented the conservation plan.
+
+(ii) The permit expires on the date indicated on the face of the permit.
+
+(5) *Assurances provided to permittee in case of changed or unforeseen circumstances.* The assurances in this paragraph (b)(5) apply only to incidental take permits issued in accordance with paragraph (b)(2) of this section where the conservation plan is being properly implemented and the permittee is properly complying with the incidental take permit. The assurances apply only with respect to species covered by the conservation plan. These assurances do not apply to Federal agencies or to incidental take permits issued prior to March 25, 1998. The assurances provided in incidental take permits issued prior to March 25, 1998, remain in effect, and those permits will not be revised.
 
 (i) *Changed circumstances provided for in the plan.* If additional conservation and mitigation measures are deemed necessary to respond to changed circumstances and were provided for in the plan's operating conservation program, the permittee will implement the measures specified in the plan.
 
-(ii) *Changed circumstances not provided for in the plan.* If additional conservation and mitigation measures are deemed necessary to respond to changed circumstances and such measures were not provided for in the plan's operating conservation program, the Director will not require any conservation and mitigation measures in addition to those provided for in the plan without the consent of the permittee, provided the plan is being properly implemented.
+(ii) *Changed circumstances not provided for in the plan.* If additional conservation and mitigation measures are deemed necessary to respond to changed circumstances and were not provided for in the plan's operating conservation program, the Director will not require any conservation and mitigation measures in addition to those provided for in the plan without the consent of the permittee, provided the Director determines that the plan is being properly implemented.
 
-(iii) *Unforeseen circumstances.* (A) In negotiating unforeseen circumstances, the Director will not require the commitment of additional land, water, or financial compensation or additional restrictions on the use of land, water, or other natural resources beyond the level otherwise agreed upon for the species covered by the conservation plan without the consent of the permittee.
+(iii) *Unforeseen circumstances.* (A) In negotiating a response to unforeseen circumstances, the Director will not require the commitment of additional land, water, or financial compensation or additional restrictions on the use of land, water, or other natural resources beyond the level otherwise agreed upon for the species covered by the conservation plan without the consent of the permittee.
 
-(B) If additional conservation and mitigation measures are deemed necessary to respond to unforeseen circumstances, the Director may require additional measures of the permittee where the conservation plan is being properly implemented, but only if such measures are limited to modifications within conserved habitat areas, if any, or to the conservation plan's operating conservation program for the affected species, and maintain the original terms of the conservation plan to the maximum extent possible. Additional conservation and mitigation measures will not involve the commitment of additional land, water or financial compensation or additional restrictions on the use of land, water, or other natural resources otherwise available for development or use under the original terms of the conservation plan without the consent of the permittee.
+(B) If additional conservation and mitigation measures are deemed necessary to respond to unforeseen circumstances, the Director may require additional measures of the permittee where the conservation plan is being properly implemented, but only if such measures:
 
-(C) The Director will have the burden of demonstrating that such unforeseen circumstances exist, using the best scientific and commercial data available. These findings must be clearly documented and based upon reliable technical information regarding the status and habitat requirements of the affected species. The Director will consider, but not be limited to, the following factors:
+(*1*) Are limited to modifications within conserved habitat areas, if any, or to the conservation plan's operating conservation program for the affected species; and
+
+(*2*) Maintain the original terms of the conservation plan to the maximum extent possible.
+
+(*3*) Additional conservation and mitigation measures will not involve the commitment of additional land, water, or financial compensation or additional restrictions on the use of land, water, or other natural resources otherwise available for development or use under the original terms of the conservation plan, without the consent of the permittee.
+
+(C) The Director will have the burden of demonstrating that unforeseen circumstances exist, using the best scientific and commercial data available. These findings must be clearly documented and based upon reliable technical information regarding the status and habitat requirements of the affected species. The factors to be considered by the Director include, but are not limited to, the following:
 
 (*1*) Size of the current range of the affected species;
 
@@ -104,118 +124,98 @@ Upon receipt of a complete application, the Director may issue a permit for any 
 
 (*6*) Whether failure to adopt additional conservation measures would appreciably reduce the likelihood of survival and recovery of the affected species in the wild.
 
-(6) Nothing in this rule will be construed to limit or constrain the Director, any Federal, State, local, or Tribal government agency, or a private entity, from taking additional actions at its own expense to protect or conserve a species included in a conservation plan.
+(6) *Additional actions.* Nothing in this section will be construed to limit or constrain the Director, any Federal, State, local, or Tribal government agency, or a private entity from taking additional actions, at their own expense, to protect or conserve a species included in a conservation plan.
 
-(7) *Discontinuance of permit activity.* Notwithstanding the provisions of § 13.26 of this subchapter, a permittee under this paragraph (b) remains responsible for any outstanding minimization and mitigation measures required under the terms of the permit for take that occurs prior to surrender of the permit and such minimization and mitigation measures as may be required pursuant to the termination provisions of an implementing agreement, habitat conservation plan, or permit even after surrendering the permit to the Service pursuant to § 13.26 of this subchapter. The permit shall be deemed canceled only upon a determination by the Service that such minimization and mitigation measures have been implemented. Upon surrender of the permit, no further take shall be authorized under the terms of the surrendered permit.
+(7) *Permit amendment or renewal.* Any amendment or renewal of an existing permit issued under this part is a new agency decision and is therefore subject to all current relevant laws and regulations. The application will be evaluated based on the current policies and guidance in effect at the time of the amendment or renewal decision. Evaluation of an amendment extends only to the portion(s) of the conservation plan or permit for which the amendment is requested. Amendment or renewal applications must meet issuance criteria based upon the best available commercial and scientific data at the time of the permit decision.
 
-(8) *Criteria for revocation.* A permit issued under paragraph (b) of this section may not be revoked for any reason except those set forth in § 13.28(a)(1) through (4) of this subchapter or unless continuation of the permitted activity would be inconsistent with the criterion set forth in 16 U.S.C. 1539(a)(2)(B)(iv) and the inconsistency has not been remedied.
+(8) *Discontinuance of permit activity.* Notwithstanding the provisions of § 13.26 of this subchapter, a permittee under this paragraph (b) remains responsible for any outstanding minimization and mitigation measures required under the terms of the permit for take that occurs prior to surrender of the permit and such minimization and mitigation measures as may be required pursuant to the termination provisions of an implementing agreement, conservation plan, or permit even after surrendering the permit to the Service pursuant to § 13.26 of this subchapter.
 
-(c)(1) *Application requirements for permits for the enhancement of survival through Safe Harbor Agreements.* The applicant must submit an application for a permit under this paragraph (c) to the appropriate Regional Director, U.S. Fish and Wildlife Service, for the Region where the applicant resides or where the proposed action is to occur (for appropriate addresses, see 50 CFR 10.22), if the applicant wishes to engage in any activity prohibited by § 17.31. The applicant must submit an official Service application form (3-200.54) that includes the following information:
+(i) The Service will deem the permit canceled only upon a determination that such minimization and mitigation measures have been implemented.
 
-(i) The common and scientific names of the listed species for which the applicant requests incidental take authorization;
+(ii) Upon surrender of the permit, no further take by the permittee will be authorized under the terms of the surrendered permit.
 
-(ii) A description of how incidental take of the covered species pursuant to the Safe Harbor Agreement is likely to occur, both as a result of management activities and as a result of the return to baseline;
+(9) *Criteria for revocation.* A permit issued under this paragraph (b) may not be revoked for any reason except:
 
-(iii) A Safe Harbor Agreement that complies with the requirements of the Safe Harbor policy available from the Service; and
+(i) The reasons set forth in § 13.28(a)(1) through (4) of this subchapter; or
 
-(iv) The Director must publish notice in the Federal Register of each application for a permit that is made under this paragraph (c). Each notice must invite the submission from interested parties within 30 days after the date of the notice of written data, views, or arguments with respect to the application. The procedures included in § 17.22(e) for permit objection apply to any notice published by the Director under this paragraph (c).
+(ii) If continuation of the permitted activity would be inconsistent with the criterion set forth in 16 U.S.C. 1539(a)(2)(B)(iv) and the inconsistency has not been remedied.
 
-(2) *Issuance criteria.* Upon receiving an application completed in accordance with paragraph (c)(1) of this section, the Director will decide whether or not to issue a permit. The Director shall consider the general issuance criteria in § 13.21(b) of this subchapter, except for § 13.21(b)(4), and may issue the permit if he or she finds:
+(c)(1) *Application requirements for an enhancement of survival permit associated with conservation benefit agreements.* The applicant must submit Form 3-200-54, the processing fee (if applicable), and a conservation benefit agreement. The Service will process the application when the Director determines the application has met all statutory and regulatory requirements for a complete application. A conservation benefit agreement must include the following:
 
-(i) The take will be incidental to an otherwise lawful activity and will be in accordance with the terms of the Safe Harbor Agreement;
+(i) *Conservation measures.* A complete description of the conservation measure or measures, including the location of the activity or activities to be covered by the permit, and their intended outcome for the covered species.
 
-(ii) The implementation of the terms of the Safe Harbor Agreement is reasonably expected to provide a net conservation benefit to the affected listed species by contributing to the recovery of listed species included in the permit, and the Safe Harbor Agreement otherwise complies with the Safe Harbor policy available from the Service;
+(ii) *Covered species.* The common and scientific names of the covered species for which the applicant will conduct conservation measures and may need authorization for take.
 
-(iii) The probable direct and indirect effects of any authorized take will not appreciably reduce the likelihood of survival and recovery in the wild of any listed species;
+(iii) *Goals and objectives.* The measurable biological goals and objectives of the conservation measures in the agreement.
 
-(iv) Implementation of the terms of the Safe Harbor Agreement is consistent with applicable Federal, State, and Tribal laws and regulations;
+(iv) *Enrollment baseline.* The baseline condition of the property or area to be enrolled as defined in § 17.3.
 
-(v) Implementation of the terms of the Safe Harbor Agreement will not be in conflict with any ongoing conservation or recovery programs for listed species covered by the permit; and
+(v) *Net conservation benefit.* A description of how the measures are reasonably expected to improve each covered species' existing baseline condition on the enrolled property and result in a net conservation benefit as defined at § 17.3.
 
-(vi) The applicant has shown capability for and commitment to implementing all of the terms of the Safe Harbor Agreement.
+(vi) *Monitoring.* The steps the applicant will take to monitor and adaptively manage to ensure the goals and objectives of the conservation benefit agreement are met, the responsibilities of all parties are carried out, and the conservation benefit agreement will be properly implemented.
+
+(vii) *Neighboring property owners.* A description of the enrollment process to provide neighboring property owners take coverage under paragraph (c)(5)(ii) of this section, if applicable, or any other measures developed to protect the interests of neighboring property owners.
+
+(viii) *Return to baseline condition.* The applicant's choice between including authorization to return the enrolled property to baseline condition or forgoing that authorization. For applicants seeking authority to return to baseline condition, a description of steps that may be taken to return the property to baseline condition and measures to reduce the effects of the take to the covered species.
+
+(ix) *Additional actions.* Any other measures that the Director may require as necessary or appropriate to meet the issuance criteria in paragraph (c)(2) of this section or to avoid conflicts with other Service conservation efforts.
+
+(2) *Issuance criteria.* Upon receiving an application completed in accordance with paragraph (c)(1) of this section, the Director will decide whether to issue a permit. The Director will consider the general issuance criteria in § 13.21(b) of this subchapter, except for § 13.21(b)(4), and may issue the permit if the Director finds:
+
+(i) The take will be incidental to an otherwise lawful activity or purposeful if it is necessary for the implementation of the conservation benefit agreement and will be in accordance with the terms of the agreement.
+
+(ii) The implementation of the terms of the conservation benefit agreement is reasonably expected to provide a net conservation benefit to the affected covered species on the enrolled property that is included in the permit and for each individual property within a programmatic conservation benefit agreement, based upon: condition of the species or habitat, effects of conservation measures, and anticipated impacts of any permitted take.
+
+(iii) The direct and indirect effects of any authorized take are unlikely to appreciably reduce the likelihood of survival and recovery in the wild of any listed species.
+
+(iv) Implementation of the terms of the conservation benefit agreement will not conflict with any ongoing conservation or recovery programs for listed species and the covered species included in the permit.
+
+(v) The applicant has shown a capability for and commitment to implementing all terms of the conservation benefit agreement.
 
 (3) *Permit conditions.* In addition to any applicable general permit conditions set forth in part 13 of this subchapter, every permit issued under this paragraph (c) is subject to the following special conditions:
 
-(i) A requirement for the participating property owner to notify the Service of any transfer of lands subject to a Safe Harbor Agreement;
+(i) The participating property owner must notify the Service of any transfer of property subject to a conservation benefit agreement, at least 30 calendar days prior to the transfer.
 
-(ii) When appropriate, a requirement for the permittee to give the Service reasonable advance notice (generally at least 30 days) of when he or she expects to incidentally take any listed species covered under the permit. Such notification will provide the Service with an opportunity to relocate affected individuals of the species, if possible and appropriate; and
+(ii) The permittee must give the Service reasonable advance notice (generally at least 30 calendar days) of when take of any covered species is expected to occur, to provide the Service an opportunity to relocate affected individuals of the species, if possible and appropriate.
 
-(iii) Any additional requirements or conditions the Director deems necessary or appropriate to carry out the purposes of the permit and the Safe Harbor Agreement.
+(iii) Any additional requirements or conditions the Director deems necessary or appropriate to carry out the purposes of the permit and the conservation benefit agreement.
 
-(4) *Permit effective date.* Permits issued under this paragraph (c) become effective the day of issuance for species covered by the Safe Harbor Agreement.
+(4) *Permit duration and effective date.* The duration of permits issued under paragraph (c) of this section must be sufficient to provide a net conservation benefit to species covered in the enhancement of survival permit on the enrolled property.
 
-(5) *Assurances provided to permittee.* (i) The assurances in subparagraph (ii) of this paragraph (c)(5) apply only to Safe Harbor permits issued in accordance with paragraph (c)(2) of this section where the Safe Harbor Agreement is being properly implemented, and apply only with respect to species covered by the Agreement and permit. These assurances cannot be provided to Federal agencies. The assurances provided in this section apply only to Safe Harbor permits issued after July 19, 1999.
+(i) In determining the duration of a permit, the Director will consider the duration of the planned activities, the uncertainties related to the impacts of the taking, and the positive and negative effects of the planned activities covered by the permit on species covered by the conservation benefit agreement.
 
-(ii) The Director and the permittee may agree to revise or modify the management measures set forth in a Safe Harbor Agreement if the Director determines that such revisions or modifications do not change the Director's prior determination that the Safe Harbor Agreement is reasonably expected to provide a net conservation benefit to the listed species. However, the Director may not require additional or different management activities to be undertaken by a permittee without the consent of the permittee.
+(ii) Permits issued under this paragraph (c) become effective for listed covered species upon the date the permittee signs the enhancement of survival permit, which must be within 90 calendar days of issuance. For non-listed covered species, the take authorized through the permit becomes effective upon the effective date of the species' listing provided the permittee signed the permit within 90 calendar days of issuance and has properly implemented the conservation benefit agreement since signing the permit.
 
-(6) *Additional actions.* Nothing in this rule will be construed to limit or constrain the Director, any Federal, State, local or Tribal government agency, or a private entity, from taking additional actions at its own expense to protect or conserve a species included in a Safe Harbor Agreement.
+(5) *Assurances.* The assurances in paragraph (c)(5)(i) of this section apply only to enhancement of survival permits issued in accordance with paragraph (c)(2) of this section where the conservation benefit agreement is being properly implemented, apply only with respect to species covered by the permit, and are effective until the permit expires. The assurances provided in this section apply only to enhancement of survival permits issued after July 19, 1999.
 
-(7) *Criteria for revocation.* The Director may not revoke a permit issued under paragraph (c) of this section except as provided in this paragraph. The Director may revoke a permit for any reason set forth in § 13.28(a)(1) through (4) of this subchapter. The Director may revoke a permit if continuation of the permitted activity would either appreciably reduce the likelihood of survival and recovery in the wild of any listed species or directly or indirectly alter designated critical habitat such that it appreciably diminishes the value of that critical habitat for both the survival and recovery of a listed species. Before revoking a permit for either of the latter two reasons, the Director, with the consent of the permittee, will pursue all appropriate options to avoid permit revocation. These options may include, but are not limited to: extending or modifying the existing permit, capturing and relocating the species, compensating the landowner to forgo the activity, purchasing an easement or fee simple interest in the property, or arranging for a third-party acquisition of an interest in the property.
+(i) *Permittee and participating property owners.* The Director and the permittee may agree to revise or modify the conservation measures set forth in a conservation benefit agreement if the Director determines that those revisions or modifications do not change the Director's prior determination that the conservation benefit agreement is reasonably expected to provide a net conservation benefit to the covered species. However, the Director may not require additional or different conservation measures to be undertaken by a permittee without the consent of the permittee.
 
-(8) *Duration of permits.* The duration of permits issued under this paragraph (c) must be sufficient to provide a net conservation benefit to species covered in the enhancement of survival permit. In determining the duration of a permit, the Director will consider the duration of the planned activities, as well as the positive and negative effects associated with permits of the proposed duration on covered species, including the extent to which the conservation activities included in the Safe Harbor Agreement will enhance the survival and contribute to the recovery of listed species included in the permit.
+(ii) *Neighboring property owners.* The Director may provide take coverage in the enhancement of survival permit for owners of properties adjacent to properties covered by the conservation benefit agreement through enrollment procedures contained in the agreement. The take covered and the method of providing take coverage will be tailored to the specific conservation benefit agreement and needs of adjacent property owners. One method is to have the neighboring property owner sign a certificate that applies the authorization and assurances in the permit to the neighboring property owner. The certificate must:
 
-(d)(1) *Application requirements for permits for the enhancement of survival through Candidate Conservation Agreements with Assurances (CCAAs).* The applicant must submit an application for a permit under this paragraph (d) to the appropriate Regional Director, U.S. Fish and Wildlife Service, for the Region where the applicant resides or where the proposed activity is to occur (for appropriate addresses, see 50 CFR 10.22). When a species covered by a CCAA is listed as threatened and the applicant wishes to engage in activities identified in the Agreement and otherwise prohibited by § 17.31, the applicant must apply for an enhancement of survival permit for species covered by the Agreement. The permit will become valid if and when covered proposed, candidate or other unlisted species is listed as a threatened species. The applicant must submit an official Service application form (3-200.54) that includes the following information:
+(A) Establish a baseline condition for the covered species on their property; and
 
-(i) The common and scientific names of the species for which the applicant requests incidental take authorization;
+(B) Give permission to the Service, the permittee, or a representative of either to enter the property, with reasonable notice, to capture and relocate, salvage, or implement measures to reduce anticipated take of the covered species.
 
-(ii) A description of the land use or water management activity for which the applicant requests incidental take authorization; and
+(6) *Additional actions.* Nothing in this section will be construed to limit or constrain the Director, any Federal, State, local, or Tribal government agency, or a private entity from taking additional actions, at their own expense, to protect or conserve a species included in a conservation benefit agreement.
 
-(iii) A CCAA that complies with the requirements of the Candidate Conservation Agreement with Assurances policy available from the Service.
+(7) *Permit amendment or renewal.* Any amendment or renewal of an existing permit issued under this part is a new agency decision and is therefore subject to all current relevant laws and regulations. The application will be evaluated based on the current policies and guidance in effect at the time of the amendment or renewal decision. Evaluation of an amendment extends only to the portion(s) of the conservation benefit agreement or permit for the which the amendment is requested. Amendment or renewal applications must meet issuance criteria based upon the best available commercial and scientific data at the time of the permit decision.
 
-(iv) The Director must publish notice in the Federal Register of each application for a permit that is made under this paragraph (d). Each notice must invite the submission from interested parties within 30 days after the date of the notice of written data, views, or arguments with respect to the application. The procedures included in § 17.22(e) for permit objection apply to any notice published by the Director under this paragraph (d).
+(8) *Discontinuance of permit activity.* Notwithstanding the provisions of § 13.26 of this subchapter, a permittee under this paragraph (c) remains responsible for any outstanding conservation measures required under the terms of the permit for take that occurs prior to surrender of the permit and any conservation measures required pursuant to the termination provisions of the conservation benefit agreement or permit even after surrendering the permit to the Service pursuant to § 13.26 of this subchapter.
 
-(2) *Issuance criteria.* Upon receiving an application completed in accordance with paragraph (d)(1) of this section, the Director will decide whether or not to issue a permit. The Director shall consider the general issuance criteria in § 13.21(b) of this subchapter, except for § 13.21(b)(4), and may issue the permit if he or she finds:
+(i) The permittee of a programmatic conservation benefit agreement that conveys take authorization and assurances to participants or enrollees must follow the provisions of § 13.26 of this subchapter.
 
-(i) The take will be incidental to an otherwise lawful activity and will be in accordance with the terms of the CCAA;
+(ii) The permit will be deemed canceled only upon a determination by the Service that those conservation measure(s) have been implemented and the permittee has had ample time to return the permittee's property to baseline condition, if the permit authorized take associated with return to baseline and if the permittee chooses to exercise that authorization.
 
-(ii) The implementation of the terms of the CCAA is reasonably expected to provide a net conservation benefit to the affected covered species by contributing to the conservation of the species included in the permit, and the CCAA otherwise complies with the Candidate Conservation Agreement with Assurances policy available from the Service;
+(iii) Upon surrender of the permit, no further take will be authorized under the terms of the surrendered permit, and the assurances in paragraph (c)(5)(i) of this section will no longer apply.
 
-(iii) The probable direct and indirect effects of any authorized take will not appreciably reduce the likelihood of survival and recovery in the wild of any species;
+(9) *Criteria for revocation.* The Director may not revoke a permit issued under this paragraph (c) except as provided in this paragraph (c)(9).
 
-(iv) Implementation of the terms of the CCAA is consistent with applicable Federal, State, and Tribal laws and regulations;
+(i) The Director may revoke a permit for any reason set forth in § 13.28(a)(1) through (4) of this subchapter. The Director may revoke a permit if continuation of the covered activity would either:
 
-(v) Implementation of the terms of the CCAA will not be in conflict with any ongoing conservation programs for species covered by the permit; and
+(A) Appreciably reduce the likelihood of survival and recovery in the wild of any covered species; or
 
-(vi) The applicant has shown capability for and commitment to implementing all of the terms of the Candidate Conservation Agreement.
+(B) Directly or indirectly alter designated critical habitat such that the value of that critical habitat is appreciably diminished for both the survival and recovery of a covered species.
 
-(3) *Permit conditions.* In addition to any applicable general permit conditions set forth in part 13 of this subchapter, every permit issued under this paragraph (d) is subject to the following special conditions:
+(ii) Before revoking a permit for either of the reasons in paragraphs (c)(9)(i)(A) or (B) of this section, the Director, with the consent of the permittee, will pursue all appropriate options to avoid permit revocation. These options may include, but are not limited to, extending or modifying the existing permit, capturing and relocating the species, compensating the property owner to forgo the activity, purchasing an easement or fee simple interest in the property, or arranging for a third-party acquisition of an interest in the property.
 
-(i) A requirement for the property owner to notify the Service of any transfer of lands subject to a CCAA;
-
-(ii) When appropriate, a requirement for the permittee to give the Service reasonable advance notice (generally at least 30 days) of when he or she expects to incidentally take any listed species covered under the permit. Such notification will provide the Service with an opportunity to relocate affected individuals of the species, if possible and appropriate; and
-
-(iii) Any additional requirements or conditions the Director deems necessary or appropriate to carry out the purposes of the permit and the CCAA.
-
-(4) *Permit effective date.* Permits issued under this paragraph (d) become effective for a species covered by a CCAA on the effective date of a final rule that lists a covered species as threatened.
-
-(5) *Assurances provided to permittee in case of changed or unforeseen circumstances.* The assurances in this paragraph (d)(5) apply only to permits issued in accordance with paragraph (d)(2) where the CCAA is being properly implemented, and apply only with respect to species adequately covered by the CCAA. These assurances cannot be provided to Federal agencies.
-
-(i) *Changed circumstances provided for in the Agreement.* If the Director determines that additional conservation measures are necessary to respond to changed circumstances and these measures were set forth in the Agreement, the permittee will implement the measures specified in the Agreement.
-
-(ii) *Changed circumstances not provided for in the Agreement.* If the Director determines that additional conservation measures not provided for in the Agreement are necessary to respond to changed circumstances, the Director will not require any conservation measures in addition to those provided for in the Agreement without the consent of the permittee, provided the Agreement is being properly implemented.
-
-(iii) *Unforeseen circumstances.* (A) In negotiating unforeseen circumstances, the Director will not require the commitment of additional land, water, or financial compensation or additional restrictions on the use of land, water, or other natural resources beyond the level otherwise agreed upon for the species covered by the Agreement without the consent of the permittee.
-
-(B) If the Director determines additional conservation measures are necessary to respond to unforeseen circumstances, the Director may require additional measures of the permittee where the Agreement is being properly implemented, but only if such measures maintain the original terms of the Agreement to the maximum extent possible. Additional conservation measures will not involve the commitment of additional land, water, or financial compensation or additional restrictions on the use of land, water, or other natural resources otherwise available for development or use under the original terms of the Agreement without the consent of the permittee.
-
-(C) The Director will have the burden of demonstrating that unforeseen circumstances exist, using the best scientific and commercial data available. These findings must be clearly documented and based upon reliable technical information regarding the status and habitat requirements of the affected species. The Director will consider, but not be limited to, the following factors:
-
-(*1*) Size of the current range of the affected species;
-
-(*2*) Percentage of range adversely affected by the Agreement;
-
-(*3*) Percentage of range conserved by the Agreement;
-
-(*4*) Ecological significance of that portion of the range affected by the Agreement;
-
-(*5*) Level of knowledge about the affected species and the degree of specificity of the species' conservation program under the Agreement; and
-
-(*6*) Whether failure to adopt additional conservation measures would appreciably reduce the likelihood of survival and recovery of the affected species in the wild.
-
-(6) *Additional actions.* Nothing in this rule will be construed to limit or constrain the Director, any Federal, State, local or Tribal government agency, or a private entity, from taking additional actions at its own expense to protect or conserve a species included in a CCAA.
-
-(7) *Criteria for revocation.* The Director may not revoke a permit issued under paragraph (d) of this section except as provided in this paragraph. The Director may revoke a permit for any reason set forth in § 13.28(a)(1) through (4) of this subchapter. The Director may revoke a permit if continuation of the permitted activity would either appreciably reduce the likelihood of survival and recovery in the wild of any listed species or directly or indirectly alter designated critical habitat such that it appreciably diminishes the value of that critical habitat for both the survival and recovery of a listed species. Before revoking a permit for either of the latter two reasons, the Director, with the consent of the permittee, will pursue all appropriate options to avoid permit revocation. These options may include, but are not limited to: extending or modifying the existing permit, capturing and relocating the species, compensating the landowner to forgo the activity, purchasing an easement or fee simple interest in the property, or arranging for a third-party acquisition of an interest in the property.
-
-(8) *Duration.* The duration of a CCAA covered by a permit issued under this paragraph (d) must be sufficient to achieve a net conservation benefit to the species covered by the permit and the Agreement and otherwise comply with the Candidate Conservation Agreement with Assurances policy available from the Service.
-
-[50 FR 39689, Sept. 30, 1985, as amended at 63 FR 8871, Feb. 23, 1998; 63 FR 52635, Oct. 1, 1998; 64 FR 32714, June 17, 1999; 64 FR 52676, Sept. 30, 1999; 69 FR 24093, May 3, 2004; 69 FR 29670, May 25, 2004; 69 FR 71731, Dec. 10, 2004; 81 FR 95055, Dec. 27, 2016; 89 FR 23939, Apr. 5, 2024]
+[50 FR 39689, Sept. 30, 1985, as amended at 63 FR 8871, Feb. 23, 1998; 63 FR 52635, Oct. 1, 1998; 64 FR 32714, June 17, 1999; 64 FR 52676, Sept. 30, 1999; 69 FR 24093, May 3, 2004; 69 FR 29670, May 25, 2004; 69 FR 71731, Dec. 10, 2004; 81 FR 95055, Dec. 27, 2016; 89 FR 23939, Apr. 5, 2024; 89 FR 26098, Apr. 12, 2024]

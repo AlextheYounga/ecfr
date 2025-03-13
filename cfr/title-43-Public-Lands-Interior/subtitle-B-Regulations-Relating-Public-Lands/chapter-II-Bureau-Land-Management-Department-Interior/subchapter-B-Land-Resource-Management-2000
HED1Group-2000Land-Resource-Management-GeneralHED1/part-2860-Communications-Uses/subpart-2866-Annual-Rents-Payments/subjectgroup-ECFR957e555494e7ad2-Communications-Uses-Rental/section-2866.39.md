@@ -1,0 +1,5 @@
+##### § 2866.39 How will the BLM calculate rent for a grant for a facility manager's use? #####
+
+(a) The BLM will follow the provisions in § 2866.31 to calculate rent for a grant involving a facility manager's use. However, the BLM includes the rent from the rent schedule for a facility manager's use in the rental calculation only if the value of that use is equal to or greater than the value of any other use in the facility. The BLM excludes the facility manager's use in the 25 percent calculation (see § 2866.31(a)) when its value does not exceed the highest value in the facility.
+
+(b) If you are a facility owner and you terminate your use within the facility, but want to retain the grant for other purposes, the BLM will continue to charge you for your authorized use until the BLM amends the grant to change your use to facility manager or to some other communications use.

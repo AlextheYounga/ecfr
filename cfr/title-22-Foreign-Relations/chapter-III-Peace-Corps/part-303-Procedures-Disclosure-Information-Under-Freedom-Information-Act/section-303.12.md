@@ -1,13 +1,21 @@
-##### § 303.12 Appeals. #####
+##### § 303.12 Denials. #####
 
-Link to an amendment published at 89 FR 25525, Apr. 11, 2024.Link to an amendment published at 89 FR 25526, Apr. 11, 2024.Link to a correction of the above amendment published at 89 FR 40372, May 10, 2024.
+(a) A denial of a written request for a record or information that complies with the requirements of § 303.7 shall be in writing and shall include, as applicable:
 
-(a) Any person whose written request has been denied is entitled to appeal the denial within 30 business days by writing to the Associate Director of the Office of Management or, in the case of a denial of a request for OIG Records, the Inspector General, at the address given in 303.5(a). An appeal need not be in any particular form, but should adequately identify the denial, if possible, by describing the requested record, identifying the official who issued the denial, and providing the date on which the denial was issued. If the appeal is sent via mail, the envelope and the letter should be clearly marked “Freedom of Information Appeal” and the appeal shall be addressed to the Associate Director, Office of Management. Appeals by letter shall use the address given in § 303.5(a). Appeals are accepted via email. Appeals by email must be sent to the FOIA electronic mailbox, *foia@peacecorps.gov.* In appeals submitted via online web portal (accessible on the agency Web site, *www.peacecorps.gov*), requesters shall fill in all of the fields as required. Appeals by online web portal will be entered automatically in the FOIA tracking system. Persons submitting an appeal may utilize the online web portal for purpose of checking status of requests (open/closed) for requests from all sources.
+(1) The name and title or position of the responsible IDA;
 
-(b) A response to an appeal will advise the requester that the 2007 FOIA amendments created the Office of Government Information Services (OGIS) to offer mediation services to resolve disputes between FOIA requesters and Federal agencies as a non-exclusive alternative to litigation. A requester may contact OGIS in any of the following ways:
+(2) The signature of the agency's FOIA Officer, or in the case of denials of requests concerning OIG records, the signature of the Inspector General or designee;
 
-Office of Government Information Services, National Archives and Records Administration, 8601 Adelphi Road—OGIS, College Park, MD 20740, *ogis.archives.gov,* Email: *ogis@nara.gov,* Telephone: 202-741-5770, Facsimile: 202-741-5769, Toll-free: 1-877-684-6448.
+(3) A brief statement of the reasons for the denial, including any FOIA exemption applied in denying the request;
 
-(c) The decision of the Associate Director for the Office of Management or the Inspector General on an appeal shall be in writing and, in the event the denial is in whole or in part upheld, shall contain an explanation responsive to the arguments advanced by the requester, the matters described in § 303.11(a)(1) through (4), and the provisions for judicial review of such decision under section 552(a)(4) of the FOIA. The decision shall be dispatched to the requester within 20 business days after receipt of the appeal, unless an additional period is justified pursuant to § 303.8(i) and such period taken together with any earlier extension does not exceed 10 business days. The decision by the Associate Director for the Office of Management or the Inspector General shall constitute the final action of the Peace Corps. All such decisions shall be treated as final opinions under § 303.5(b).
+(4) An estimate of the volume of any records or information withheld, such as the number of pages or some other reasonable form of estimation, although such an estimate is not required if the volume is otherwise indicated by redactions marked on records that are disclosed in part or if providing an estimate would harm an interest protected by an applicable exemption;
 
-[68 FR 66008, Nov. 25, 2003, as amended at 79 FR 19819, Apr. 10, 2014]
+(5) For any information denied under Exemption 3, the specific statute relied upon to deny the information along with a short description of the statute;
+
+(6) A statement that the requester must appeal no later than 90 days after the date of the denial and along with instructions on how to appeal to the appellate authority. The instructions will include the appellate authority's duty title, the mailing address for the appeal, and instructions on how the requester can appeal electronically; as defined under § 303.13; and
+
+(7) A statement notifying the requester of the assistance available from the Peace Corps' FOIA Public Liaison and the dispute resolution services offered by OGIS.
+
+(b) [Reserved]
+
+[89 FR 25525, Apr. 11, 2024]

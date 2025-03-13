@@ -1,6 +1,6 @@
 ##### § 2806.52 Rents and fees for solar energy development grants. #####
 
-Link to an amendment published at 89 FR 25964, Apr. 12, 2024.
+Link to an amendment published at 89 FR 35680, May 1, 2024.
 
 You must pay an annual acreage rent and MW capacity fee for your solar energy development grant as follows:
 
@@ -30,19 +30,19 @@ You must pay an annual acreage rent and MW capacity fee for your solar energy de
 
 (v) E = the State-specific percent factor or 20 percent, whichever is greater.
 
-(3) The initial assignment of counties to the zones on the solar energy acreage rent schedule will be based upon the most recent NASS Census data (2012) for years 2016 through 2020. The BLM may on its own or in response to requests consider making regional adjustments to those initial assignments, based on evidence that the NASS Census values do not accurately reflect the value of the BLM-managed lands in a given area. The BLM will update this rent schedule once every 5 years by re-assigning counties to reflect the updated NASS Census values as described in § 2806.21 and recalculate the State-specific percent factor once every 10 years as described in § 2806.22(b).
+(3) *Basis of assignment.* The initial assignment of counties to the zones on the solar energy acreage rent schedule will be based upon the most recent NASS Census data (2012) for years 2016 through 2020. The BLM may on its own or in response to requests consider making regional adjustments to those initial assignments, based on evidence that the NASS Census values do not accurately reflect the value of the BLM-managed lands in a given area. The BLM will update this rent schedule once every 5 years by re-assigning counties to reflect the updated NASS Census values as described in § 2806.21 and recalculate the State-specific percent factor once every 10 years as described in § 2806.22(b).
 
 (4) *Acreage rent payment.* You must pay the acreage rent regardless of the stage of development or operations on the entire public land acreage described in the right-of-way authorization. The BLM State Director may approve a rental payment plan consistent with § 2806.15(c).
 
 (5) *Acreage rent adjustments.* This paragraph (a)(5) applies unless you selected the scheduled rate adjustment method (see § 2806.51). The BLM will adjust the acreage rent annually to reflect the change in the per acre zone rates as specified in paragraph (a)(1) of this section. The BLM will use the most current per acre zone rates to calculate the acreage rent for each year of the grant term.
 
-(6) You may obtain a copy of the current per acre zone rates for solar energy development (solar energy acreage rent schedule) from any BLM State, district, or field office or by writing: U.S. Department of the Interior, Bureau of Land Management, 20 M Street SE., Room 2134LM, Attention: Renewable Energy Coordination Office, Washington, DC 20003. The BLM also posts the current solar energy acreage rent schedule for solar energy development at *http://www.blm.gov.*
+(6) *Copies.* You may obtain a copy of the current per acre zone rates for solar energy development (solar energy acreage rent schedule) at *https://www.blm.gov,* from your local BLM state, district, or field office, or by writing: Attention to the National Renewable Energy Coordination Office, U.S. Department of the Interior, Bureau of Land Management, 1849 C Street NW, Mail Stop 2134LM, Washington, DC 20240.
 
 (b)  *MW capacity fee.* The MW capacity fee is calculated by multiplying the approved MW capacity by the MW rate (for the applicable type of technology employed by the project) from the MW rate schedule (see paragraph (b)(2) of this section). You must pay the MW capacity fee annually when electricity generation begins or is scheduled to begin in the approved POD, whichever comes first:
 
 (1) *MW rate.* The MW rate is calculated by multiplying the total hours per year, by the net capacity factor, by the MWh price, by the rate of return. For an explanation of each of these terms, see the definition of MW rate in § 2801.5(b).
 
-(2) *MW rate schedule.* You may obtain a copy of the current MW rate schedule for solar energy development from any BLM State, district, or field office or by writing: U.S. Department of the Interior, Bureau of Land Management, 20 M Street SE., Room 2134LM, Attention: Renewable Energy Coordination Office, Washington, DC 20003. The BLM also posts the current MW rate schedule for solar energy development at *http://www.blm.gov.*
+(2) *MW rate schedule.* You may obtain a copy of the current MW rate schedule for solar energy development at *https://www.blm.gov,* from your local BLM state, district, or field office, or by writing: Attention to the National Renewable Energy Coordination Office, U.S. Department of the Interior, Bureau of Land Management, 1849 C Street NW, Mail Stop 2134LM, Washington, DC 20240.
 
 (3) *Periodic adjustments in the MW rate.* This paragraph (b)(3) applies unless you selected the scheduled rate adjustment method (see § 2806.51). The BLM will adjust the MW rate applicable to your grant every 5 years, beginning in 2021, by recalculating the following two components of the MW rate formula:
 
@@ -94,4 +94,4 @@ You must pay an annual acreage rent and MW capacity fee for your solar energy de
 
 (iii) Subsequent increases will be performed as set forth in paragraphs (d)(2) and (3) of this section from the date of the initial adjustment under this paragraph (d).
 
-[81 FR 92217, Dec. 19, 2016]
+[81 FR 92217, Dec. 19, 2016, as amended at 89 FR 25964, Apr. 12, 2024]

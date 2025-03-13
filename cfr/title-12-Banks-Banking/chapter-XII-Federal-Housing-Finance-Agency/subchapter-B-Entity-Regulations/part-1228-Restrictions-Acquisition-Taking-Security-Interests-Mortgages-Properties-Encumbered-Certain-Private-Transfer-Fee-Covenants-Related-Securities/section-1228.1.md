@@ -1,7 +1,5 @@
 ##### § 1228.1 Definitions. #####
 
-Link to an amendment published at 89 FR 17716, Mar. 12, 2024.
-
 For the purposes of this part, the following definitions apply:
 
 *Adjacent or contiguous property* means property that borders the burdened community, *provided that* such adjacent or contiguous property may be separated from the burdened community by public right of way.
@@ -16,7 +14,11 @@ For the purposes of this part, the following definitions apply:
 
 (2) Are conducted on other property that is used primarily by residents of the burdened community.
 
-*Excepted transfer fee covenant* means a private transfer fee covenant that requires payment of a private transfer fee to a covered association and limits the use of such transfer fees exclusively to purposes which provide a direct benefit to the real property encumbered by the private transfer fee covenants.
+*Excepted transfer fee covenant* means a private transfer fee covenant that:
+
+(1) Requires payment of a private transfer fee to a covered association and limits the use of such transfer fees exclusively to purposes which provide a direct benefit to the real property encumbered by the private transfer fee covenants; or
+
+(2) Requires payment of a private transfer fee under a program meeting the Duty to Serve shared equity loan program criteria for resale restriction programs in § 1282.34(d)(4)(i)(A) and (d)(4)(ii) of this chapter, except that no household income limit shall apply.
 
 *Private transfer fee* means a transfer fee, including a charge or payment, imposed by a covenant, restriction, or other similar document and required to be paid in connection with or as a result of a transfer of title to real estate, and payable on a continuing basis each time a property is transferred (except for transfers specifically excepted) for a period of time or indefinitely. A *private transfer fee* does not include fees, charges, payments, or other obligations—
 
@@ -32,4 +34,4 @@ For the purposes of this part, the following definitions apply:
 
 *Transfer* means, with respect to real property, the sale, gift, grant, conveyance, assignment, inheritance, or other transfer of an interest in the real property.
 
-[77 FR 15574, Mar. 16, 2012, as amended at 78 FR 2323, Jan. 11, 2013]
+[77 FR 15574, Mar. 16, 2012, as amended at 78 FR 2323, Jan. 11, 2013; 89 FR 17716, Mar. 12, 2024]

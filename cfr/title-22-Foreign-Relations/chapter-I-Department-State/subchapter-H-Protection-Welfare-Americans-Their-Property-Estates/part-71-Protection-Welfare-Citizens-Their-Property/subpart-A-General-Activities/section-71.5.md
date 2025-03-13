@@ -1,3 +1,5 @@
 ##### § 71.5 Storage or safekeeping of private property. #####
 
+Link to an amendment published at 89 FR 41311, May 13, 2024.
+
 Except in a public emergency, no officer of the Foreign Service shall accept private property for storage or safekeeping in the office or for transmission to some other destination, unless it is property belonging to the estate of a deceased American citizen, or property over which the officer has jurisdiction as a result of a catastrophe at sea. In public emergencies, officers may accept private property for storage and safekeeping or for transmission to another destination, provided the owner signs a statement to the effect that the property is being accepted for deposit at his request, at his own risk, and with full knowledge that neither the Government of the United States nor any of its officers assumes responsibility therefor.

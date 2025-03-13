@@ -1,10 +1,8 @@
-##### § 2804.20 How does BLM determine reasonable costs for Processing Category 6 or Monitoring Category 6 applications? #####
+##### § 2804.20 How does the BLM determine reasonable costs for Category 6 right-of-way activities? #####
 
-Link to an amendment published at 89 FR 25961, Apr. 12, 2024.
+The BLM will consider the factors in paragraph (a) of this section and § 2804.21 of this subpart to determine reasonable costs. Submit to the BLM field office having jurisdiction over the lands covered by your application a written analysis of those factors applicable to your project unless you agree in writing to waive consideration of those factors and elect to pay actual costs (see § 2804.14(f) of this subpart). Submitting your analysis with the application will expedite its handling. The BLM may require you to submit additional information in support of your position. The BLM will continue to work on your application while you are responding to our request, as long as a deposit has been received by the BLM as provided in § 2804.19(a)(4).
 
-BLM will consider the factors in paragraph (a) of this section and § 2804.21 of this subpart to determine reasonable costs. Submit to the BLM field office having jurisdiction over the lands covered by your application a written analysis of those factors applicable to your project, unless you agree in writing to waive consideration of reasonable costs and elect to pay full actual costs (*see* § 2804.14(f) of this subpart). Submitting your analysis with the application will expedite its handling. BLM may require you to submit additional information in support of your position. While we consider your written analysis, BLM will not process your Category 6 application.
-
-(a) *FLPMA factors.* If your application is for a Processing Category 6, or a Monitoring Category 6 project, the BLM State Director having jurisdiction over the lands you are applying to use will apply the following factors set forth at section 304(b) of FLPMA, 43 U.S.C. 1734(b), to determine the amount you owe. With your application, submit your analysis of how each of the following factors applies to your application:
+(a) *FLPMA factors.* If the BLM determines that a Category 6 cost recovery fee is appropriate for your project, the BLM will apply the following factors as set forth in Section 304(b) of FLPMA, 43 U.S.C. 1734(b), to determine the amount you owe:
 
 (1) Actual costs to the Federal Government (exclusive of management overhead costs) of processing your application and of monitoring construction, operation, maintenance, and termination of a facility authorized by the right-of-way grant;
 
@@ -22,4 +20,4 @@ BLM will consider the factors in paragraph (a) of this section and § 2804.21 of
 
 (b) *Fee determination.* After considering your analysis and other information, BLM will notify you in writing of what you owe. If you disagree with BLM's determination, you may appeal it under § 2801.10 of this part.
 
-[70 FR 21058, Apr. 22, 2005, as amended at 81 FR 92209, Dec. 19, 2016]
+[70 FR 21058, Apr. 22, 2005, as amended at 81 FR 92209, Dec. 19, 2016; 89 FR 25961, Apr. 12, 2024]

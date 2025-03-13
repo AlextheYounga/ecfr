@@ -1,0 +1,3 @@
+##### § 2866.41 How will the BLM calculate rent for communications facilities ancillary to a linear grant or other use authorization? #####
+
+When a communications facility is authorized as ancillary to (*i.e.,* used for the sole purpose of internal communications) a grant or some other type of use authorization (*e.g.,* a mineral lease or sundry notice), the BLM will determine the rent using the linear rent schedule (see § 2866.20) or rent scheme associated with the other authorization, and not the communications uses rent schedule.

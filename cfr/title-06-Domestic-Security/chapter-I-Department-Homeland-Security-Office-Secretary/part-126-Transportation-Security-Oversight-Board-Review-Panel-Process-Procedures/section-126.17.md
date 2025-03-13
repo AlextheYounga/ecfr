@@ -1,4 +1,4 @@
-##### § 126.17 Procedures for classified information, sensitive security information (SSI), and other protected information. #####
+##### § 126.17 Procedures for classified information, Sensitive Security Information (SSI), and other protected information. #####
 
 (a) *Notice of protected information.* Within 30 calendar days of filing or being served with a notice of appeal, TSA must file a notice of protected information indicating whether the record of proceedings before the ALJ contains classified information, SSI, or other protected information. The notice of protected information must be filed with the TSOB Docket Clerk in accordance with § 126.13(b). If the TSA presented classified information, SSI, or other protected information to the ALJ at an ex parte proceeding or provided such information for in camera review during the ALJ proceedings, then the TSOB Review Panel will also consider that information at an ex parte proceeding or in camera.
 

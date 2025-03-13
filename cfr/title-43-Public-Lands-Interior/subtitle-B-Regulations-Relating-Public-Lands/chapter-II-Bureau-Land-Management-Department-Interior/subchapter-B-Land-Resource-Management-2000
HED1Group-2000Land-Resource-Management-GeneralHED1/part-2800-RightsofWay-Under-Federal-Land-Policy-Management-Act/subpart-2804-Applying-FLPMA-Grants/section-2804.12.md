@@ -1,8 +1,8 @@
 ##### § 2804.12 What must I do when submitting my application? #####
 
-Link to an amendment published at 89 FR 25959, Apr. 12, 2024.Link to an amendment published at 89 FR 35678, May 1, 2024.
+Link to an amendment published at 89 FR 35678, May 1, 2024.
 
-(a) File your application on Standard Form 299, available from any BLM office or at *http://www.blm.gov,* and fill in the required information as completely as possible. Your completed application must include the following:
+(a) File your application on Standard Form 299, available from any BLM office or at *https://www.blm.gov,* and fill in the required information. The application must include the applicant's original signature or meet the BLM standards for electronic commerce. Your complete application must include the following:
 
 (1) A description of the project and the scope of the facilities;
 
@@ -10,7 +10,7 @@ Link to an amendment published at 89 FR 25959, Apr. 12, 2024.Link to an amendmen
 
 (3) The estimated life of the project and the proposed construction and reclamation techniques;
 
-(4) A map of the project, showing its proposed location and existing facilities adjacent to the proposal;
+(4) A map of the project showing its proposed location and existing facilities adjacent to the proposal, and Geographic Information Systems (GIS) shapefiles, or equivalent format, when requested by the BLM;
 
 (5) A statement of your financial and technical capability to construct, operate, maintain, and terminate the project;
 
@@ -70,4 +70,4 @@ Link to an amendment published at 89 FR 25959, Apr. 12, 2024.Link to an amendmen
 
 (i) *Inter-agency coordination.* You may request, in writing, an exemption from the requirements of this section if you can demonstrate to the BLM that you have satisfied similar requirements by participating in an inter-agency coordination process with another Federal, State, local, or Tribal authority. No exemption is approved until you receive BLM approval in writing.
 
-[81 FR 92207, Dec. 19, 2016]
+[81 FR 92207, Dec. 19, 2016, as amended at 89 FR 25959, Apr. 12, 2024]
