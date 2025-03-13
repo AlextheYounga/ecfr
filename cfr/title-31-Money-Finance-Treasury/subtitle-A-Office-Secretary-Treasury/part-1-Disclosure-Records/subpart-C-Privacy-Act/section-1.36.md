@@ -12,9 +12,9 @@ Link to an amendment published at 88 FR 81347, Nov. 22, 2023.
 
 Table 1 to Paragraph (c)(1)(i)
 
-|     No.     |                                Name of system                                 |
-|-------------|-------------------------------------------------------------------------------|
-|Treasury .013|Department of the Treasury Civil Rights Complaints and Compliance Review Files.|
+|     No.     |                    Name of system                     |
+|-------------|-------------------------------------------------------|
+|Treasury .004|Freedom of Information Act/Privacy Act Request Records.|
 
 (ii) *Departmental Offices.*
 
@@ -29,72 +29,62 @@ Table 2 to Paragraph (c)(1)(ii)
 |DO .223|                                          SIGTARP Investigative Files Database.                                           |
 |DO .224|                                              SIGTARP Audit Files Database.                                               |
 |DO .303|                                              TIGTA General Correspondence.                                               |
-|DO .307|                       TIGTA Employee Relations Matters, Appeals, Grievances, and Complaint Files.                        |
+|DO .307|                       TIGTA Employee Relations Matters, Appeals, Grievances, and Com plaint Files.                       |
 |DO .308|                                                   TIGTA Data Extracts.                                                   |
-|DO .309|                                             TIGTA Chief Counsel Case Files.                                              |
-|DO .310|                                     TIGTA Chief Counsel Disclosure Section Records.                                      |
+|DO .309|                        TIGTA Chief Counsel Case Files. (also exempt from 552a subsection (d)(5).                         |
+|DO .310|                TIGTA Chief Counsel Disclosure Section Records. (also exempt from 552a subsection (d)(5)).                |
 |DO .311|                                          TIGTA Office of Investigations Files.                                           |
 
 (iii) *Special Investigator for Pandemic Recovery (SIGPR).*
 
 Table 3 to Paragraph (c)(1)(iii)
 
-|          |                                                 |
+|   No.    |                 Name of system                  |
 |----------|-------------------------------------------------|
 |SIGPR .420|         Audit and Evaluations Records.          |
 |SIGPR .421|Case Management System and Investigative Records.|
 |SIGPR .423|                 Legal Records.                  |
 
-(iv) *Alcohol and Tobacco and Trade Bureau (TTB).*
+(iv) *Office of the Comptroller of the Currency (OCC).*
 
 Table 4 to Paragraph (c)(1)(iv)
 
-|  No.   |           Name of system            |
-|--------|-------------------------------------|
-|TTB .003|Criminal Investigation Report System.|
+|  No.  |                                                Name of system                                                |
+|-------|--------------------------------------------------------------------------------------------------------------|
+|CC .110|                                      Reports of Suspicious Activities.                                       |
+|CC .120|                                        Bank Fraud Information System.                                        |
+|CC .220|Notices of Proposed Changes in Employees, Officers and Directors Tracking System (not exempt from 552a(c)(4)).|
+|CC .500|                                Chief Counsel's Management Information System.                                |
+|CC .510|                                        Litigation Information System.                                        |
 
-(v) *Office of the Comptroller of the Currency (OCC).*
+(v) *Internal Revenue Service.*
 
 Table 5 to Paragraph (c)(1)(v)
 
-|  No.  |                                 Name of system                                  |
-|-------|---------------------------------------------------------------------------------|
-|CC .110|                        Reports of Suspicious Activities.                        |
-|CC .120|                         Bank Fraud Information System.                          |
-|CC .220|Notices of Proposed Changes in Employees, Officers and Directors Tracking System.|
-|CC .500|                 Chief Counsel's Management Information System.                  |
-|CC .510|                         Litigation Information System.                          |
+|   No.    |                                           Name of system                                           |
+|----------|----------------------------------------------------------------------------------------------------|
+|IRS 46.002|                Criminal Investigation Management Information System and Case Files.                |
+|IRS 46.003|                     Confidential Informants, Criminal Investigation Division.                      |
+|IRS 46.005|          Electronic Surveillance and Monitoring Records, Criminal Investigation Division.          |
+|IRS 46.015|                       Relocated Witnesses, Criminal Investigation Division.                        |
+|IRS 46.050|                               Automated Information Analysis System.                               |
+|IRS 90.001|Chief Counsel Management Information System Records (not exempt from (c)(4), (e)(2), (e)(3) or (g)).|
+|IRS 90.003|                      Chief Counsel Litigation and Advice (Criminal) Records.                       |
+|IRS 90.004|  Chief Counsel Legal Processing Division Records (not exempt from (c)(4), (e)(2), (e)(3) or (g)).  |
+|IRS 90.005|           Chief Counsel Library Records (not exempt from (c)(4), (e)(2), (e)(3) or (g)).           |
 
-(vi) *Internal Revenue Service.*
+(vi) *Financial Crimes Enforcement Network.*
 
 Table 6 to Paragraph (c)(1)(vi)
 
-|   No.    |                                           Name of system                                            |
-|----------|-----------------------------------------------------------------------------------------------------|
-|IRS 34.022|         National Background Investigations Center Management Information System (NBICMIS).          |
-|IRS 46.002|                Criminal Investigation Management Information System and Case Files.                 |
-|IRS 46.003|                      Confidential Informants, Criminal Investigation Division.                      |
-|IRS 46.005|          Electronic Surveillance and Monitoring Records, Criminal Investigation Division.           |
-|IRS 46.009|Centralized Evaluation and Processing of Information Items (CEPIIs), Criminal Investigation Division.|
-|IRS 46.015|                        Relocated Witnesses, Criminal Investigation Division.                        |
-|IRS 46.016|                      Secret Service Details, Criminal Investigation Division.                       |
-|IRS 46.022|                         Treasury Enforcement Communications System (TECS).                          |
-|IRS 46.050|                               Automated Information Analysis System.                                |
-|IRS 90.001|                        Chief Counsel Management Information System Records.                         |
-|IRS 90.004|                          Chief Counsel Legal Processing Division Records.                           |
-|IRS 90.005|                                   Chief Counsel Library Records.                                    |
+|    No.    |                                  Name of system                                   |
+|-----------|-----------------------------------------------------------------------------------|
+|FinCEN .001|                  FinCEN Investigations and Examinations System.                   |
+|FinCEN .002|                       Suspicious Activity Reporting System.                       |
+|FinCEN .003|                         Bank Secrecy Act Reports System.                          |
+|FinCEN .004|Beneficial Ownership Information System (not exempt from 552a(e)(3) and (e)(4)(I)).|
 
-(vii) *Financial Crimes Enforcement Network.*
-
-Table 7 to Paragraph (c)(1)(vii)
-
-|    No.    |                Name of system                |
-|-----------|----------------------------------------------|
-|FinCEN .001|FinCEN Investigations and Examinations System.|
-|FinCEN .002|    Suspicious Activity Reporting System.     |
-|FinCEN .003|       Bank Secrecy Act Reports System.       |
-
-(2) The Department hereby exempts the systems of records listed in paragraphs (c)(1)(i) through (vii) of this section from the following provisions of the Privacy Act, pursuant to 5 U.S.C. 552a(j)(2): 5 U.S.C. 552a(c)(3) and (4), 5 U.S.C. 552a(d)(1), (2), (3), (4), 5 U.S.C. 552a(e)(1), (2) and (3), 5 U.S.C. 552a(e)(4)(G), (H), and (I), 5 U.S.C. 552a(e)(5) and (8), 5 U.S.C. 552a(f), and 5 U.S.C. 552a(g).
+(2) The Department hereby exempts the systems of records listed in paragraphs (c)(1)(i) through (vi) of this section from the following provisions of the Privacy Act, pursuant to 5 U.S.C. 552a(j)(2): 5 U.S.C. 552a(c)(3) and (4), 5 U.S.C. 552a(d)(1), (2), (3), (4), 5 U.S.C. 552a(e)(1), (2) and (3), 5 U.S.C. 552a(e)(4)(G), (H), and (I), 5 U.S.C. 552a(e)(5) and (8), 5 U.S.C. 552a(f), and 5 U.S.C. 552a(g).
 
 (d) *Reasons for exemptions under 5 U.S.C. 552a(j)(2).* (1) 5 U.S.C. 552a(e)(4)(G) and (f)(l) enable individuals to inquire whether a system of records contains records pertaining to them. Application of these provisions to the systems of records would give individuals an opportunity to learn whether they have been identified as suspects or subjects of investigation. As further described in the paragraphs (d)(2) through (12) of this section, access to such knowledge would impair the Department's ability to carry out its mission, since individuals could:
 
@@ -110,7 +100,7 @@ Table 7 to Paragraph (c)(1)(vii)
 
 (vi) Destroy evidence needed to prove the violation.
 
-(2) 5 U.S.C. 552a(d)(1), (e)(4)(H), and (f)(2), (3), and (5) grant individuals access to records pertaining to them. The application of these provisions to the systems of records would compromise the Department's ability to provide useful tactical and strategic information to law enforcement agencies.
+(2) 5 U.S.C. 552a(d)(1), (e)(4)(H) and (f)(2), (3) and (5) grant individuals access to records pertaining to them. The application of these provisions to the systems of records would compromise the Department's ability to provide useful tactical and strategic information to law enforcement agencies.
 
 (i) Permitting access to records contained in the systems of records would provide individuals with information concerning the nature of any current investigations and would enable them to avoid detection or apprehension by:
 
@@ -130,7 +120,7 @@ Table 7 to Paragraph (c)(1)(vii)
 
 (vi) Finally, the dissemination of certain information that the Department maintains in the systems of records is restricted by law.
 
-(3) 5 U.S.C. 552a(d)(2), (3), and (4), (e)(4)(H), and (f)(4) permit an individual to request amendment of a record pertaining to him or her and require the agency either to amend the record, or to note the disputed portion of the record and to provide a copy of the individual's statement of disagreement with the agency's refusal to amend a record to persons or other agencies to whom the record is thereafter disclosed. Since these provisions depend on the individual having access to his or her records, and since these rules exempt the systems of records from the provisions of the Privacy Act relating to access to records, for the reasons set out in paragraph (d)(2) of this section, these provisions should not apply to the systems of records.
+(3) 5 U.S.C. 552a(d)(2), (3) and (4), (e)(4)(H), and (f)(4) permit an individual to request amendment of a record pertaining to him or her and require the agency either to amend the record, or to note the disputed portion of the record and to provide a copy of the individual's statement of disagreement with the agency's refusal to amend a record to persons or other agencies to whom the record is thereafter disclosed. Since these provisions depend on the individual having access to his or her records, and since these rules exempt the systems of records from the provisions of the Privacy Act relating to access to records, for the reasons set out in paragraph (d)(2) of this section, these provisions should not apply to the systems of records.
 
 (4) 5 U.S.C. 552a(c)(3) requires an agency to make accountings of disclosures of a record available to the individual named in the record upon his or her request. The accountings must state the date, nature, and purpose of each disclosure of the record and the name and address of the recipient.
 
@@ -188,9 +178,17 @@ Table 7 to Paragraph (c)(1)(vii)
 
 (e) *Specific exemptions under 5 U.S.C. 552a(k)(1).* (1) Under 5 U.S.C. 552a(k)(1), the head of any agency may promulgate rules to exempt any system of records within the agency from certain provisions of the Privacy Act to the extent that the system contains information subject to the provisions of 5 U.S.C. 552(b)(1). This paragraph (e) applies to the following systems of records maintained by the Department of the Treasury:
 
-(i) *Departmental Offices.*
+(i) *Treasury-wide.*
 
-Table 8 to Paragraph (e)(1)(i)
+Table 7 to Paragraph (e)(1)(i)
+
+|     No.     |                    Name of system                     |
+|-------------|-------------------------------------------------------|
+|Treasury .004|Freedom of Information Act/Privacy Act Request Records.|
+
+(ii) *Departmental Offices.*
+
+Table 8 to Paragraph (e)(1)(ii)
 
 |  No.  |                                   Name of system                                   |
 |-------|------------------------------------------------------------------------------------|
@@ -198,7 +196,13 @@ Table 8 to Paragraph (e)(1)(i)
 |DO .227|Committee on Foreign Investment in the United States (CFIUS) Case Management System.|
 |DO .411|                           Intelligence Enterprise Files.                           |
 
-(ii) [Reserved]
+(iii) *Financial Crimes Enforcement Network.*
+
+Table 9 to Paragraph (e)(1)(iii)
+
+|    No.    |                Name of system                |
+|-----------|----------------------------------------------|
+|FinCEN .001|FinCEN Investigations and Examinations System.|
 
 (2) The Department of the Treasury hereby exempts the systems of records listed in paragraph (e)(1) of this section from the following provisions of the Privacy Act, pursuant to 5 U.S.C. 552a(k)(1): 5 U.S.C. 552a(c)(3), 5 U.S.C. 552a(d)(1), (2), (3), and (4), 5 U.S.C. 552a(e)(1), 5 U.S.C. 552a(e)(4)(G), (H), and (I), and 5 U.S.C. 552a(f).
 
@@ -206,9 +210,18 @@ Table 8 to Paragraph (e)(1)(i)
 
 (g) *Specific exemptions under 5 U.S.C. 552a(k)(2).* (1) Under 5 U.S.C. 552a(k)(2), the head of any agency may promulgate rules to exempt any system of records within the agency from certain provisions of the Privacy Act if the system is investigatory material compiled for law enforcement purposes and for the purposes of assuring the safety of individuals protected by the Department pursuant to the provisions of 18 U.S.C. 3056. This paragraph (g) applies to the following systems of records maintained by the Department of the Treasury:
 
-(i) *Departmental Offices.*
+(i) *Treasury-wide.*
 
-Table 9 to Paragraph (g)(1)(i)
+Table 10 to Paragraph (g)(1)(i)
+
+|     No.     |                                                 Name of system                                                 |
+|-------------|----------------------------------------------------------------------------------------------------------------|
+|Treasury .004|                            Freedom of Information Act/Privacy Act Request Records.                             |
+|Treasury .013|Department of the Treasury, Civil Rights Complaints, Compliance Reviews, and Fairness in Federal Programs Files.|
+
+(ii) *Departmental Offices.*
+
+Table 11 to Paragraph (g)(1)(ii)
 
 |  No.  |                                                      Name of system                                                      |
 |-------|--------------------------------------------------------------------------------------------------------------------------|
@@ -229,27 +242,27 @@ Table 9 to Paragraph (g)(1)(i)
 |DO .310|                                     TIGTA Chief Counsel Disclosure Section Records.                                      |
 |DO .311|                                          TIGTA Office of Investigations Files.                                           |
 
-(ii) *Special Investigator for Pandemic Recovery (SIGPR).*
+(iii) *Special Investigator for Pandemic Recovery (SIGPR).*
 
-Table 10 to Paragraph (g)(1)(ii)
+Table 12 to Paragraph (g)(1)(iii)
 
-|          |                                                 |
+|   No.    |                 Name of system                  |
 |----------|-------------------------------------------------|
 |SIGPR .420|         Audit and Evaluations Records.          |
 |SIGPR .421|Case Management System and Investigative Records.|
 |SIGPR .423|                 Legal Records.                  |
 
-(iii) *The Alcohol and Tobacco Tax and Trade Bureau (TTB).*
+(iv) *The Alcohol and Tobacco Tax and Trade Bureau (TTB).*
 
-Table 11 to Paragraph (g)(1)(iii)
+Table 13 to Paragraph (g)(1)(iv)
 
 |  No.   |           Name of system            |
 |--------|-------------------------------------|
 |TTB .001|Regulatory Enforcement Record System.|
 
-(iv) *Comptroller of the Currency.*
+(v) *Comptroller of the Currency.*
 
-Table 12 to Paragraph (g)(1)(iv)
+Table 14 to Paragraph (g)(1)(v)
 
 |  No.  |                                 Name of system                                  |
 |-------|---------------------------------------------------------------------------------|
@@ -259,93 +272,68 @@ Table 12 to Paragraph (g)(1)(iv)
 |CC .220|Notices of Proposed Changes in Employees, Officers and Directors Tracking System.|
 |CC .500|                 Chief Counsel's Management Information System.                  |
 |CC .510|                         Litigation Information System.                          |
+|CC .600|               Consumer Complaint and Inquiry Information Systems.               |
+|CC .800|               Office of Inspector General Investigations System.                |
 
-(v) *Bureau of Engraving and Printing.*
+(vi) *Bureau of Engraving and Printing.*
 
-Table 13 to Paragraph (g)(1)(v)
+Table 15 to Paragraph (g)(1)(vi)
 
 |  No.   |   Name of system   |
 |--------|--------------------|
 |BEP .021|Investigative files.|
 
-(vi) *Internal Revenue Service.*
+(vii) *Internal Revenue Service.*
 
-Table 14 to Paragraph (g)(1)(vi)
+Table 16 to Paragraph (g)(1)(vii)
 
-|   No.    |                                                                                  Name of system                                                                                  |
-|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|IRS 00.002|                                                           Correspondence File-Inquiries about Enforcement Activities.                                                            |
-|IRS 00.007|                                                               Employee Complaint and Allegation Referral Records.                                                                |
-|IRS 00.334|                                                                      Third Party Contact Reprisal Records.                                                                       |
-|IRS 22.061|                                                                  Wage and Information Returns Processing (IRP).                                                                  |
-|IRS 26.001|                                                                            Acquired Property Records.                                                                            |
-|IRS 26.006|                                                                       Form 2209, Courtesy Investigations.                                                                        |
-|IRS 26.008|                                                                      IRS and Treasury Employee Delinquency.                                                                      |
-|IRS 26.011|                                                                              Litigation Case Files.                                                                              |
-|IRS 26.012|                                                                         Offer in Compromise (OIC) Files.                                                                         |
-|IRS 26.013|                                                                       One-hundred Per Cent Penalty Cases.                                                                        |
-|IRS 26.016|                                                                        Returns Compliance Programs (RCP).                                                                        |
-|IRS 26.019|                                                                       TDA (Taxpayer Delinquent Accounts).                                                                        |
-|IRS 26.020|                                                                 TDI (Taxpayer Delinquency Investigations) Files.                                                                 |
-|IRS 26.021|                                                                                Transferee Files.                                                                                 |
-|IRS 26.022|                                                                         Delinquency Prevention Programs.                                                                         |
-|IRS 34.020|                                                                      IRS Audit Trail Lead Analysis System.                                                                       |
-|IRS 34.037|                                                                   IRS Audit Trail and Security Records System.                                                                   |
-|IRS 37.002|                                                                             Applicant Appeal Files.                                                                              |
-|IRS 37.003| Closed Files Containing Derogatory Information about individuals' Practice before the IRS and Files of Attorneys and Certified Public Accountants Formerly Enrolled to Practice. |
-|IRS 37.004|                                                                       Derogatory Information (No Action).                                                                        |
-|IRS 37.005|                                                  Present Suspensions and Disbarments Resulting from Administrative Proceeding.                                                   |
-|IRS 37.007|                                                                                    Inventory.                                                                                    |
-|IRS 37.009|                                                      Resigned Enrolled Agents (action pursuant to 31 CFR Section 10.55(b)).                                                      |
-|IRS 37.011|                                                      Present Suspensions from Practice Before the Internal Revenue Service.                                                      |
-|IRS 42.001|                                                                         Examination Administrative File.                                                                         |
-|IRS 42.008|                                                                   Audit Information Management System (AIMS).                                                                    |
-|IRS 42.012|                                                                           Combined Case Control Files.                                                                           |
-|IRS 42.016|                                                                 Classification and Examination Selection Files.                                                                  |
-|IRS 42.017|                                                                     International Enforcement Program Files.                                                                     |
-|IRS 42.021|                                                                     Compliance Programs and Projects Files.                                                                      |
-|IRS 42.029|                                                                         Audit Underreporter Case Files.                                                                          |
-|IRS 42.030|                                                               Discriminant Function File (DIF) Appeals Case Files.                                                               |
-|IRS 44.001|                                                                               Appeals Case Files.                                                                                |
-|IRS 46.050|                                                                      Automated Information Analysis System.                                                                      |
-|IRS 48.001|                                                                               Disclosure Records.                                                                                |
-|IRS 49.001|                                                                   Collateral and Information Requests System.                                                                    |
-|IRS 49.002|                                                          Component Authority and Index Card Microfilm Retrieval System.                                                          |
-|IRS 49.007|                                                                       Overseas Compliance Projects System.                                                                       |
-|IRS 60.000|                                                                       Employee Protection System Records.                                                                        |
-|IRS 90.002|                                                             Chief Counsel Disclosure Litigation Division Case Files.                                                             |
-|IRS 90.004|                                                                 Chief Counsel General Legal Services Case Files.                                                                 |
-|IRS 90.005|                                                                   Chief Counsel General Litigation Case Files.                                                                   |
-|IRS 90.009|                                                                     Chief Counsel Field Case Service Files.                                                                      |
-|IRS 90.010|Digest Room Files Containing Briefs, Legal Opinions, Digests of Documents Generated Internally or by the Department of Justice Relating to the Administration of the Revenue Laws.|
-|IRS 90.013|                         Legal case files of the Chief Counsel, Deputy Chief Counsel, Associate Chief Counsels (Enforcement Litigation) and (technical).                          |
-|IRS 90.016|                                                                    Counsel Automated Tracking System (CATS).                                                                     |
-
-(vii) *U.S. Mint.*
-
-Table 15 to Paragraph (g)(1)(vii)
-
-|   No.   |             Name of system              |
-|---------|-----------------------------------------|
-|Mint .008|Employee Background Investigations Files.|
+|                             No.                             |                                                                                     Name of system                                                                                      |
+|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                         IRS 00.002                          |                                                               Correspondence File-Inquiries about Enforcement Activities.                                                               |
+|                         IRS 00.007                          |                                                                   Employee Complaint and Allegation Referral Records.                                                                   |
+|                         IRS 00.334                          |                                                                          Third Party Contact Reprisal Records.                                                                          |
+|                 IRS 22.061  <br/>IRS 24.047                 |                                                  Wage and Information Returns Processing (IRP).  <br/>Audit Underreporter Case Files.                                                   |
+|                         IRS 26.001                          |                                                                               Acquired Property Records.                                                                                |
+|                         IRS 26.006                          |                                                                           Form 2209, Courtesy Investigations.                                                                           |
+|                         IRS 26.012                          |                                                                            Offer in Compromise (OIC) Files.                                                                             |
+|                         IRS 26.013                          |                                                                           One-hundred Per Cent Penalty Cases.                                                                           |
+|                         IRS 26.019                          |                                                                           TDA (Taxpayer Delinquent Accounts).                                                                           |
+|                         IRS 26.020                          |                                                                    TDI (Taxpayer Delinquency Investigations) Files.                                                                     |
+|                         IRS 26.021                          |                                                                                    Transferee Files.                                                                                    |
+|                         IRS 34.037                          |                                                                      IRS Audit Trail and Security Records System.                                                                       |
+|                         IRS 37.007                          |                                                                           Practitioner Disciplinary Records.                                                                            |
+|                         IRS 37.009                          |                                                               Enrolled Agent and Enrolled Retirement Plan Agent Records.                                                                |
+|IRS 37.111  <br/>IRS 42.001  <br/>IRS 42.002  <br/>IRS 42.005|              Preparer Tax Identification Number Records.  <br/>Examination Administrative File.  <br/>Excise<br/>Compliance Programs.  <br/>Whistleblower Office Records.               |
+|                         IRS 42.008                          |                                                                       Audit Information Management System (AIMS).                                                                       |
+|                         IRS 42.017                          |                                                                        International Enforcement Program Files.                                                                         |
+|                         IRS 42.021                          |                                                                         Compliance Programs and Projects Files.                                                                         |
+|                 IRS 42.031  <br/>IRS 44.001                 |                                                     Anti-Money laundering/Bank Secrecy Act and form 8300.  <br/>Appeals Case Files.                                                     |
+|                         IRS 46.050                          |                                                                         Automated Information Analysis System.                                                                          |
+|                         IRS 48.001                          |                                                                                   Disclosure Records.                                                                                   |
+|                         IRS 49.001                          |                                                                       Collateral and Information Requests System.                                                                       |
+|                         IRS 49.002                          |                                                             Component Authority and Index Card Microfilm Retrieval System.                                                              |
+|        IRS 50.222  <br/>IRS 60.000  <br/>IRS 90.001         |Tax Exempt/Government Entities (TE/GE) Case Management Records.  <br/>Employee Protection System<br/>Records.  <br/>Chief Counsel Management Information System Records (k2 and J2 only).|
+|                         IRS 90.002                          |                                                                Chief Counsel Disclosure Litigation Division Case Files.                                                                 |
+|                         IRS 90.004                          |                                                                    Chief Counsel General Legal Services Case Files.                                                                     |
+|                         IRS 90.005                          |                                                                      Chief Counsel General Litigation Case Files.                                                                       |
 
 (viii) *Bureau of the Fiscal Service.*
 
-Table 16 to Paragraph (g)(1)(viii)
+Table 17 to Paragraph (g)(1)(viii)
 
-|  No.  |                          Name of system                           |
-|-------|-------------------------------------------------------------------|
-|FS .009|Delegations and Designations of Authority for Disbursing Functions.|
+|  No.  |                  Name of system                  |
+|-------|--------------------------------------------------|
+|FS .020|U.S. Treasury Securities Fraud Information System.|
 
 (ix) *Financial Crimes Enforcement Network.*
 
-Table 17 to Paragraph (g)(1)(ix)
+Table 18 to Paragraph (g)(1)(ix)
 
-|    No.    |           Name of system            |
-|-----------|-------------------------------------|
-|FinCEN .001|          FinCEN Database.           |
-|FinCEN .002|Suspicious Activity Reporting System.|
-|FinCEN .003|  Bank Secrecy Act Reports System.   |
+|             No.             |                                                      Name of system                                                      |
+|-----------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|         FinCEN .001         |                                                     FinCEN Database.                                                     |
+|         FinCEN .002         |                                          Suspicious Activity Reporting System.                                           |
+|FinCEN .003  <br/>FinCEN .004|Bank Secrecy Act Reports System.  <br/>Beneficial Ownership Information System (not exempt from 552a(e)(3) and (e)(4)(I)).|
 
 (2) The Department hereby exempts the systems of records listed in paragraphs (g)(1)(i) through (ix) of this section from the following provisions of the Privacy Act, pursuant to 5 U.S.C. 552a(k)(2): 5 U.S.C. 552a(c)(3), 5 U.S.C. 552a(d)(1), (2), (3), (4), 5 U.S.C. 552a(e)(1), 5 U.S.C. 552a(e)(4)(G), (H), and (I), and 5 U.S.C. 552a(f).
 
@@ -407,15 +395,21 @@ Table 17 to Paragraph (g)(1)(ix)
 
 (i) *Specific exemptions under 5 U.S.C. 552a(k)(4).* (1) Under 5 U.S.C. 552a(k)(4), the head of any agency may promulgate rules to exempt any system of records within the agency from certain provisions of the Privacy Act if the system is required by statute to be maintained and used solely as statistical records. This paragraph (i) applies to the following system of records maintained by the Department, for which exemption is claimed under 5 U.S.C. 552a(k)(4).
 
-(i) *Internal Revenue Service.*
+(i) *Treasury-wide.*
 
-Table 18 to Paragraph (i)(1)(i)
+Table 19 to Paragraph (i)(1)(i)
+
+|     No.     |                    Name of system                     |
+|-------------|-------------------------------------------------------|
+|Treasury .004|Freedom of Information Act/Privacy Act Request Records.|
+
+(ii) *Internal Revenue Service.*
+
+Table 20 to Paragraph (i)(1)(ii)
 
 |   No.    |                   Name of system                   |
 |----------|----------------------------------------------------|
 |IRS 70.001|Individual Income Tax Returns, Statistics of Income.|
-
-(ii) [Reserved]
 
 (2) The Department hereby exempts the system of records listed in paragraph (i)(1) of this section from the following provisions of the Privacy Act, pursuant to 5 U.S.C. 552a(k)(4): 5 U.S.C. 552a(c)(3), 5 U.S.C. 552a(d)(1), (2), (3), and (4), 5 U.S.C. 552a(e)(1), 5 U.S.C. 552a(e)(4)(G), (H), and (I), and 5 U.S.C. 552a(f).
 
@@ -425,18 +419,27 @@ Table 18 to Paragraph (i)(1)(i)
 
 (k) *Specific exemptions under 5 U.S.C. 552a(k)(5).* (1) Under 5 U.S.C. 552a(k)(5), the head of any agency may promulgate rules to exempt any system of records within the agency from certain provisions of the Privacy Act if the system is investigatory material compiled solely for the purpose of determining suitability, eligibility, and qualifications for Federal civilian employment or access to classified information, but only to the extent that the disclosure of such material would reveal the identity of a source who furnished information to the Government under an express promise that the identity of the source would be held in confidence, or, prior to September 27, 1975, under an implied promise that the identity of the source would be held in confidence. Thus, to the extent that the records in this system can be disclosed without revealing the identity of a confidential source, they are not within the scope of this exemption and are subject to all the requirements of the Privacy Act. This paragraph (j) applies to the following systems of records maintained by the Department or one of its bureaus:
 
-(i) *Departmental Offices.*
+(i) *Treasury-wide.*
 
-Table 19 to Paragraph (k)(1)(i)
+Table 21 to Paragraph (k)(1)(i)
+
+|     No.     |                    Name of system                     |
+|-------------|-------------------------------------------------------|
+|Treasury .004|Freedom of Information Act/Privacy Act Request Records.|
+|Treasury .007|              Personnel Security System.               |
+
+(ii) *Departmental Offices.*
+
+Table 22 to Paragraph (k)(1)(ii)
 
 |  No.  |            Name of system             |
 |-------|---------------------------------------|
 |DO .004|      Personnel Security System.       |
 |DO .306|TIGTA Recruiting and Placement Records.|
 
-(ii) *Internal Revenue Service.*
+(iii) *Internal Revenue Service.*
 
-Table 20 to Paragraph (k)(1)(ii)
+Table 23 to Paragraph (k)(1)(iii)
 
 |   No.    |                     Name of system                      |
 |----------|---------------------------------------------------------|
@@ -452,9 +455,17 @@ Table 20 to Paragraph (k)(1)(ii)
 
 (m) *Exemption under 5 U.S.C. 552a(k)(6).* (1) Under 5 U.S.C. 552a(k)(6), the head of any agency may promulgate rules to exempt any system of records that is testing, or examination material used solely to determine individual qualifications for appointment or promotion in the Federal service the disclosure of which would compromise the objectivity or fairness of the testing or examination process. This paragraph (m) applies to the following system of records maintained by the Department, for which exemption is claimed under 5 U.S.C. 552a(k)(6).
 
-(i) *Departmental Offices.*
+(i) *Treasury-wide.*
 
-Table 21 to Paragraph (m)(1)(i)
+Table 24 to Paragraph (m)(1)(i)
+
+|     No.     |                    Name of system                     |
+|-------------|-------------------------------------------------------|
+|Treasury .004|Freedom of Information Act/privacy Act Request Records.|
+
+(ii) *Departmental Offices.*
+
+Table 25 to Paragraph (m)(1)(ii)
 
 |  No.  |            Name of system             |
 |-------|---------------------------------------|
@@ -467,3 +478,5 @@ Table 21 to Paragraph (m)(1)(i)
 (n) *Reasons for exemptions under 5 U.S.C. 552a(k)(6).* The reason for exempting the system of records is that disclosure of the material in the system would compromise the objectivity or fairness of the examination process.
 
 (o) *Exempt information included in another system.* Any information from a system of records for which an exemption is claimed under 5 U.S.C. 552a(j) or (k) which is also included in another system of records retains the same exempt status such information has in the system for which such exemption is claimed.
+
+[88 FR 88815, Dec. 26, 2023]

@@ -1,5 +1,7 @@
 ##### § 665.269 Annual Catch Limits (ACL). #####
 
+Link to an amendment published at 88 FR 88836, Dec. 26, 2023.
+
 (a) *General.* The ACLs limiting the amount of precious coral that may be taken in any precious coral permit area during the fishing year are listed in paragraph (c) of this section. Only live coral is counted toward the ACL. The accounting period for each fishing year for all precious coral ACLs begins July 1 and ends June 30 of the following year.
 
 (b) *Reserves and reserve release.* The ACL for exploratory area X-P-H will be held in reserve for harvest by vessels of the United States in the following manner:
