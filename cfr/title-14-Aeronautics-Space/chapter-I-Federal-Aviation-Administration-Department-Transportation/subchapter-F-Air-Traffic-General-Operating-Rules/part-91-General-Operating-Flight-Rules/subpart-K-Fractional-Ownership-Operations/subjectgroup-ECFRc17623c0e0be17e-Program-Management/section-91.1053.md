@@ -1,7 +1,5 @@
 ##### § 91.1053 Crewmember experience. #####
 
-Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
-
 (a) No program manager or owner may use any person, nor may any person serve, as a pilot in command or second in command of a program aircraft, or as a flight attendant on a program aircraft, in program operations under this subpart unless that person has met the applicable requirements of part 61 of this chapter and has the following experience and ratings:
 
 (1) Total flight time for all pilots:
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
 
 (2) For multi-engine turbine-powered fixed-wing and powered-lift aircraft, the following FAA certification and ratings requirements:
 
-(i) Pilot in command—Airline transport pilot and applicable type ratings.
+(i) Pilot in command—Airline transport pilot and applicable type ratings not limited to VFR only.
 
 (ii) Second in command—Commercial pilot and instrument ratings.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
 
 (b) The Administrator may authorize deviations from paragraph (a)(1) of this section if the Flight Standards office that issued the program manager's management specifications finds that the crewmember has comparable experience, and can effectively perform the functions associated with the position in accordance with the requirements of this chapter. Grants of deviation under this paragraph may be granted after consideration of the size and scope of the operation, the qualifications of the intended personnel and the circumstances set forth in § 91.1055(b)(1) through (3). The Administrator may, at any time, terminate any grant of deviation authority issued under this paragraph.
 
-[Docket No. FAA-2001-10047, 68 FR 54561, Sept. 17, 2003, as amended by Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9171, Mar. 5, 2018]
+[Docket No. FAA-2001-10047, 68 FR 54561, Sept. 17, 2003, as amended by Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9171, Mar. 5, 2018; FAA-2023-1275; Amdt. No. 91-379, 89 FR 92486, Nov. 21, 2024]

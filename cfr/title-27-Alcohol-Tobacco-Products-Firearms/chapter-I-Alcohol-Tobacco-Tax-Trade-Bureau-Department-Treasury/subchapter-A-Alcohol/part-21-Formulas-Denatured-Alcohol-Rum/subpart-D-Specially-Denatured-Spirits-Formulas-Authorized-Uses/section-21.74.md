@@ -1,6 +1,6 @@
 ##### § 21.74 Formula No. 40. #####
 
-(a) *Formula.* To every 100 gallons of alcohol add1/8 gallon of *tert*-butyl alcohol, and:
+(a) *Formula.* To every 100 gallons of alcohol add 1/8 gallon of *tert*-butyl alcohol, and:
 
 One and one-half avoirdupois ounces of either (1) brucine alkaloid, (2) brucine sulfate, N.F. IX, (3) quassin, or (4) any combination of two or of three of those denaturants.
 

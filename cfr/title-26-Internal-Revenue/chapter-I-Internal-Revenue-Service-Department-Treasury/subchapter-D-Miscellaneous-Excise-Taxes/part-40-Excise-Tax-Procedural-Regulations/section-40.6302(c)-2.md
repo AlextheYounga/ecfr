@@ -6,15 +6,15 @@
 
 (A) Determining the amount of net tax liability for regular method taxes reasonably expected to be incurred during the second semimonthly period in September;
 
-(B) Treating 11/15 of the amount determined under paragraph (a)(2)(i)(A) of this section as the net tax liability for regular method taxes incurred during the period September 16th through 26th; and
+(B) Treating11/15 of the amount determined under paragraph (a)(2)(i)(A) of this section as the net tax liability for regular method taxes incurred during the period September 16th through 26th; and
 
 (C) Treating the remainder of the amount determined under paragraph (a)(2)(i)(A) of this section (adjusted to reflect the amount of net tax liability for regular method taxes actually incurred through the end of September) as the net tax liability for regular method taxes incurred during the period September 27th through 30th.
 
 (ii) *Safe harbor rules.* The safe harbor rules in § 40.6302(c)-1(b)(2) do not apply for the third calendar quarter unless—
 
-(A) The deposit of taxes for the period September 16th through 26th is not less than 11/90 of the net tax liability for regular method taxes reported for the look-back quarter; and
+(A) The deposit of taxes for the period September 16th through 26th is not less than11/90 of the net tax liability for regular method taxes reported for the look-back quarter; and
 
-(B) The total deposit of taxes for the second semimonthly period in September is not less than 1/6 of the net tax liability for regular method taxes reported for the look-back quarter.
+(B) The total deposit of taxes for the second semimonthly period in September is not less than1/6 of the net tax liability for regular method taxes reported for the look-back quarter.
 
 (3) *Time to deposit.* (i) The deposit required for the period beginning September 16th must be made by September 29th unless—
 
@@ -28,7 +28,7 @@
 
 (1) *Periods.* The deposit periods for the separate deposits required under paragraph (a) of this section are September 16th through 25th and September 26th through 30th.
 
-(2) *Amount of deposit.* In computing the amount of deposit required under paragraph (a)(2)(i)(B) of this section, the applicable fraction is 10/15. In computing the amount of deposit required under paragraph (a)(2)(ii)(A) of this section, the applicable fraction is 10/90.
+(2) *Amount of deposit.* In computing the amount of deposit required under paragraph (a)(2)(i)(B) of this section, the applicable fraction is10/15. In computing the amount of deposit required under paragraph (a)(2)(ii)(A) of this section, the applicable fraction is10/90.
 
 (3) *Time to deposit.* In the case of the deposit required under paragraph (a) of this section for the period beginning September 16th, the deposit must be made by September 28th unless—
 

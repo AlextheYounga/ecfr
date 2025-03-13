@@ -42,4 +42,4 @@ A statement otherwise described in a subparagraph of this paragraph (d) shall no
 
 (f) *Penalty.* For the penalty imposed in the case of a failure to file the actuarial report required by this section, see section 6692 and § 301.6692-1.
 
-(Secs. 6059 and 7805 of the Internal Revenue Code of 1954 (88 Stat. 947, 68A Stat. 917; 26 U.S.C. 6059, 7805)) [T.D. 7798, 46 FR 57483, Nov. 24, 1981; 46 FR 60435, Dec. 10, 1981]
+(Secs. 6059 and 7805 of the Internal Revenue Code of 1954 (88 Stat. 947, 68A Stat. 917; 26 U.S.C. 6059, 7805))[T.D. 7798, 46 FR 57483, Nov. 24, 1981; 46 FR 60435, Dec. 10, 1981]

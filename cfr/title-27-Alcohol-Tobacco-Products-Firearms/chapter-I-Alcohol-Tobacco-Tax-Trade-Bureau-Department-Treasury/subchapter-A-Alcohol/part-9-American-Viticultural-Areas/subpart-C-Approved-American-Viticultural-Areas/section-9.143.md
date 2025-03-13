@@ -16,7 +16,7 @@
 
 (1) Beginning on the Calistoga quadrangle map at the Napa-Sonoma county line at the boundary line between sections 18 and 19 in T8N/R6W.
 
-(2) Then east along the boundary line between sections 18 and 19 for approximately3/4 of a mile to its intersection with Ritchie Creek at the boundary line between sections 17 and 20.
+(2) Then east along the boundary line between sections 18 and 19 for approximately 3/4 of a mile to its intersection with Ritchie Creek at the boundary line between sections 17 and 20.
 
 (3) Then northeast along Ritchie Creek approximately 2 miles, to the 400 foot contour line in the northeast corner in section 16 of T8N/R6W.
 

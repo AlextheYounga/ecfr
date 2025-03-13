@@ -1,7 +1,5 @@
 ##### § 10.407 Approval of training programs. #####
 
-Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
-
 (a) Training programs approved to qualify a mariner to hold an STCW or national endorsement must meet the standards in this section or the requirements in § 10.402 of this subpart. All such programs must also meet the same standards as those found in § 10.403 of this subpart. The Coast Guard will accept information submitted by training providers to state, regional, and/or national accrediting bodies as evidence such providers satisfy one or more of the requirements of this section.
 
 (b) *Categories.* The Coast Guard may approve programs designed to substitute for or fulfill any or all of the following:
@@ -114,7 +112,7 @@ Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 
 (2) If satisfied that the content and quality of instruction remain satisfactory, the Coast Guard will approve the request.
 
-(3) The renewed approval is valid as detailed in paragraph (d) of this section.
+(3) The renewed approval is valid as detailed in paragraph (e) of this section.
 
 (h) *Suspension of approval.* (1) The Coast Guard may suspend the approval, require the holder to surrender the certificate of approval, and may direct the holder to cease claiming the program is Coast Guard-approved, if it determines that a specific program does not comply with the—
 
@@ -145,3 +143,5 @@ Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 (iv) Falsifying any document required and integral to the conduct of the program, including, but not limited to, attendance records, written test grades, course completion grades, or assessment of practical demonstrations.
 
 (j) *Appeals of suspension or withdrawal of approval.* Anyone directly affected by a decision to suspend or withdraw an approval may appeal the decision to the Commandant as provided in § 1.03-40 of this chapter.
+
+[USCG-2004-17914, 78 FR 77903, Dec. 24, 2013, as amended by USCG-2021-0834, 89 FR 102334, Dec. 17, 2024]

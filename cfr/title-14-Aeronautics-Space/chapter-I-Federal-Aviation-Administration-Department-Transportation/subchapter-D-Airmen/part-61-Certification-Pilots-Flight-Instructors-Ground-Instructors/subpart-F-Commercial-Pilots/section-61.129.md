@@ -154,7 +154,7 @@
 
 (2) Thirty hours of pilot in command flight time in airships or performing the duties of pilot in command in an airship with an authorized instructor aboard, which consists of—
 
-(i) 10 hours of cross-country flight time in airships; and
+(i) 10 hours of cross-country time in airships; and
 
 (ii) 10 hours of night flight time in airships.
 
@@ -228,4 +228,4 @@
 
 (4) The display elements described in paragraphs (j)(1) and (2) of this section must be continuously visible.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-101, 62 FR 16892, Apr. 8, 1997; Amdt. 61-103, 62 FR 40904, July 30, 1997; Amdt. 61-104, 63 FR 20288, Apr. 23, 1998; Amdt. 61-124, 74 FR 42558, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53645, Oct. 20, 2009; Amdt. 61-142, 83 FR 30278, June 27, 2018]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-101, 62 FR 16892, Apr. 8, 1997; Amdt. 61-103, 62 FR 40904, July 30, 1997; Amdt. 61-104, 63 FR 20288, Apr. 23, 1998; Amdt. 61-124, 74 FR 42558, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53645, Oct. 20, 2009; Amdt. 61-142, 83 FR 30278, June 27, 2018; FAA-2023-1275; Amdt. No. 61-157, 89 FR 92483, Nov. 21, 2024]

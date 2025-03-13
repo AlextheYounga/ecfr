@@ -12,4 +12,4 @@
 
 (4) The reasons for the request to revoke the election.
 
-(74 Stat. 1001, 26 U.S.C. 180) [T.D. 6548, 26 FR 1486, Feb. 22, 1961]
+(74 Stat. 1001, 26 U.S.C. 180)[T.D. 6548, 26 FR 1486, Feb. 22, 1961]

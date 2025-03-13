@@ -190,7 +190,7 @@ This section lists the table of contents for §§ 1.41-1 through 1.41-9.
 
 (e) Effective dates.
 
-§ 1.41-5 Basic research for taxable years beginning after December 31, 1986. [Reserved] § 1.41-6 Aggregation of expenditures.
+§ 1.41-5 Basic research for taxable years beginning after December 31, 1986. [Reserved]§ 1.41-6 Aggregation of expenditures.
 
 (a) Controlled groups of corporations; trades or businesses under common control.
 

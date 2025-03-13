@@ -27,7 +27,7 @@ Example 2.(i) Y Corporation, an electing small business corporation which files 
 |       5        |   3,000    |
 |     Total      |   22,000   |
 
-On December 31, 1972, Y Corporation has 10 shares of stock outstanding which are owned as follows: A owns 3 shares, B owns 2 shares, and C owns 5 shares. (ii) Under this section, the WIN expenses are apportioned to the shareholders of Y Corporation as follows:
+On December 31, 1972, Y Corporation has 10 shares of stock outstanding which are owned as follows: A owns 3 shares, B owns 2 shares, and C owns 5 shares.(ii) Under this section, the WIN expenses are apportioned to the shareholders of Y Corporation as follows:
 
 |   WIN employees    |  1   |  2   |  3   |  4   |  5   |Total |
 |--------------------|------|------|------|------|------|------|

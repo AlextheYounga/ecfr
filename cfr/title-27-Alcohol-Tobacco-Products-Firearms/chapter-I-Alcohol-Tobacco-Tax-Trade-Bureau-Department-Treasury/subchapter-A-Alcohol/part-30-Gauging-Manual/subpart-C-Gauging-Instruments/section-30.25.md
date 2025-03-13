@@ -8,4 +8,4 @@ Example:The specific gravity hydrometer reading is 1.1525, the thermometer readi
 
 (b) 1.1525 divided by 0.996 = 1.1571, the corrected specific gravity.
 
-(Sec. 201, Pub. L. 85-859, 72 Stat. 1358, as amended (26 U.S.C. 5204))[T.D. ATF-198, 50 FR 8535, Mar. 1, 1985, as amended by T.D. TTB-196, 89 FR 87946, Nov. 6, 2024
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1358, as amended (26 U.S.C. 5204)) [T.D. ATF-198, 50 FR 8535, Mar. 1, 1985, as amended by T.D. TTB-196, 89 FR 87946, Nov. 6, 2024

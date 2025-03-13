@@ -1,6 +1,6 @@
 ##### § 61.51 Pilot logbooks. #####
 
-Link to an amendment published at 89 FR 80050, Oct. 1, 2024.Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
+Link to an amendment published at 89 FR 80050, Oct. 1, 2024.
 
 (a) *Training time and aeronautical experience.* Each person must document and record the following time in a manner acceptable to the Administrator:
 
@@ -110,7 +110,7 @@ Link to an amendment published at 89 FR 80050, Oct. 1, 2024.Link to an amendment
 
 (1) Is qualified in accordance with the second-in-command requirements of § 61.55, and occupies a crewmember station in an aircraft that requires more than one pilot by the aircraft's type certificate;
 
-(2) Holds the appropriate category, class, and instrument rating (if a class or instrument rating is required for the flight) for the aircraft being flown, and more than one pilot is required under the type certification of the aircraft or the regulations under which the flight is being conducted;
+(2) Holds the appropriate category, class, and instrument rating (if a class or instrument rating is required for the flight) for the aircraft being flown, and more than one pilot is required under the type certification of the aircraft or the regulations under which the flight is being conducted; or
 
 (3) Serves as second-in-command in operations conducted in accordance with § 135.99(c) of this chapter when a second pilot is not required under the type certification of the aircraft or the regulations under which the flight is being conducted, provided the requirements in § 61.159(c) are satisfied; or
 
@@ -196,4 +196,4 @@ Link to an amendment published at 89 FR 80050, Oct. 1, 2024.Link to an amendment
 
 (3) To log night vision goggle time to meet the recent night vision goggle experience requirements under § 61.57(f), a person must log the information required under § 61.51(b).
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40897, July 30, 1997; Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-110, 69 FR 44865, July 27, 2004; Amdt. 61-124, 74 FR 42549, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-142, 83 FR 30277, June 27, 2018; Doc. No. FAA-2023-0825; Amdt. No. 61-155, 89 FR 80050, Oct. 1, 2024; Doc. No. FAA-2023-1351; Amdt. No. 61-156, 89 FR 80339, Oct. 2, 2024]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40897, July 30, 1997; Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-110, 69 FR 44865, July 27, 2004; Amdt. 61-124, 74 FR 42549, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-142, 83 FR 30277, June 27, 2018; Doc. No. FAA-2023-0825; Amdt. No. 61-155, 89 FR 80050, Oct. 1, 2024; Doc. No. FAA-2023-1351; Amdt. No. 61-156, 89 FR 80339, Oct. 2, 2024; FAA-2023-1275; Amdt. No. 61-157, 89 FR 92484, Nov. 21, 2024]

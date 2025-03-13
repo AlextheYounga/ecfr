@@ -280,4 +280,4 @@ Example 1. Cash contribution and redemption—no mere change.C owns all of the s
 
 (5) *Effective/Applicability Date.* This paragraph (m) applies to transactions occurring on or after September 21, 2015.
 
-[T.D. 6500, 25 FR 11607, Nov. 26, 1960] Editorial Note:For Federal Register citations affecting § 1.368-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 6500, 25 FR 11607, Nov. 26, 1960]Editorial Note:For Federal Register citations affecting § 1.368-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

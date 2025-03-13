@@ -1,7 +1,5 @@
 ##### § 111.1 Applicability. #####
 
-Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
-
 (a) This part prescribes rules governing the use of the Pilot Records Database (PRD).
 
 (b) Except as provided in subsection (c) of this section, this part applies to:
@@ -12,11 +10,13 @@ Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
 
 (3) Each operator that holds a letter of authorization issued in accordance with § 91.147 of this chapter.
 
-(4) Each operator that operates two or more aircraft described in paragraph (b)(4)(i) or (ii) of this section, in furtherance of or incidental to a business, solely pursuant to the general operating and flight rules in part 91 of this chapter, or that operates aircraft pursuant to a Letter of Deviation Authority issued under § 125.3 of this chapter.
+(4) Each operator that operates two or more aircraft described in paragraph (b)(4)(i), (ii), or (iii) of this section, in furtherance of or incidental to a business, solely pursuant to the general operating and flight rules in part 91 of this chapter, or that operates aircraft pursuant to a Letter of Deviation Authority issued under § 125.3 of this chapter.
 
 (i) Standard airworthiness airplanes that require a type rating under § 61.31(a) of this chapter.
 
 (ii) Turbine-powered rotorcraft.
+
+(iii) Large powered-lift.
 
 (5) Each entity that conducts public aircraft operations as defined in 49 U.S.C. 40102(a)(41) on a flight that meets the qualification criteria for public aircraft status in 49 U.S.C. 40125, unless the entity is any branch of the United States Armed Forces, National Guard, or reserve component of the Armed Forces.
 
@@ -31,3 +31,5 @@ Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
 (8) Each person who is employed as a pilot by, or is seeking employment as a pilot with, an operator subject to the applicability of this part.
 
 (c) This part does not apply to foreign air carriers or operators subject to part 375 of this title.
+
+[Doc. No. FAA-2020-0246, Amdt. No. 111-1, 86 FR 31060, June 10, 2021, as amended by FAA-2023-1275, Amdt. No. 111-2, 89 FR 92486, Nov. 21, 2024]

@@ -1,7 +1,5 @@
 ##### § 12.407 General requirements for Lifeboat Operator endorsements. #####
 
-Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
-
 (a) *General.* Every person fulfilling the manning requirements as Lifeboat Operator on any United States vessel must hold an endorsement as Lifeboat Operator. No endorsement as Lifeboat Operator is required of any person employed on any unrigged vessel, except on a seagoing barge and on a tank barge navigating waters other than rivers and/or canals.
 
 (b) *Requirements for certification.* (1) To qualify for an endorsement as Lifeboat Operator, an applicant must—
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (ii) Pass the prescribed physical and medical examination requirements specified in 46 CFR, part 10, subpart C; and
 
-(iii) Present evidence of having passed a chemical test for dangerous drugs or as having qualified for an exemption for testing described in § 16.220 of this subchapter.
+(iii) Provide evidence of having passed a chemical test for dangerous drugs or as having qualified for an exemption for testing described in § 16.220 of this subchapter.
 
 (2) To be eligible for an endorsement as Lifeboat Operator, an applicant must meet one of the following sea service requirements:
 
@@ -44,4 +42,4 @@ Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (6) An applicant, to be eligible for an endorsement as Lifeboat Operator, must be able to speak and understand the English language as would be required in the rating of Lifeboat Operator and in an emergency aboard ship.
 
-[USCG-2021-0097, 89 FR 93100, Nov. 25, 2024]
+[USCG-2021-0097, 89 FR 93100, Nov. 25, 2024, as amended by USCG-2021-0834, 89 FR 102336, Dec. 17, 2024]

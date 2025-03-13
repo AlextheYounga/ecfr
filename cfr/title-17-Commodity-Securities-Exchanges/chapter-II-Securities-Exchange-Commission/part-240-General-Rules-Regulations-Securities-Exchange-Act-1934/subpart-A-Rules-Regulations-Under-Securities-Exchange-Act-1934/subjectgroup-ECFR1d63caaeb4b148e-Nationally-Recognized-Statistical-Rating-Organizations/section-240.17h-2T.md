@@ -1,5 +1,7 @@
 ##### § 240.17h-2T Risk assessment reporting requirements for brokers and dealers. #####
 
+Link to an amendment published at 90 FR 7369, Jan. 21, 2025.
+
 (a) *Reporting requirements of risk assessment information required to be maintained by section 240.17h-1T.* (1) Every broker or dealer registered with the Commission pursuant to section 15 of the Act, and every municipal securities dealer registered pursuant to section 15B of the Act for which the Commission is the appropriate regulatory agency, unless exempt pursuant to paragraph (b) of this section, shall file a Form 17-H within 60 calendar days after the end of each fiscal quarter. The Form 17-H for the fourth fiscal quarter shall be filed within 60 calendar days of the end of the fiscal year. The cumulative year-end financial statements required by section 240.17h-1T may be filed separately within 105 calendar days of the end of the fiscal year.
 
 (2) The reports required to be filed pursuant to paragraph (a)(1) of this section shall be considered filed when received at the Commission's principal office in Washington, DC.

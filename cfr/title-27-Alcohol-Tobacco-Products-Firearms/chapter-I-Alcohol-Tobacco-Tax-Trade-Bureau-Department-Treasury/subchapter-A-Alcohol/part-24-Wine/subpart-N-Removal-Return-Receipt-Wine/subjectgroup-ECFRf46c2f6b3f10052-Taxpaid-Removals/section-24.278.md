@@ -42,4 +42,4 @@
 
 (h) *Exception to credit.* The appropriate TTB officer will deny any tax credit taken under paragraph (a) of this section where it is determined that the allowance of the credit would benefit a person who would otherwise fail to qualify for the use of the credit.
 
-(26 U.S.C. 5041(c).)(Approved by the Office of Management and Budget under control number 1513-0104)[T.D. TTB-64, 72 FR 65454, Nov. 21, 2007]
+(26 U.S.C. 5041(c).) (Approved by the Office of Management and Budget under control number 1513-0104)[T.D. TTB-64, 72 FR 65454, Nov. 21, 2007]

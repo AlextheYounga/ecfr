@@ -36,7 +36,7 @@
 
 (3) *Model certificate.*
 
-CERTIFICATE OF PERSON BUYING AVIATION-GRADE KEROSENE FOR USE AS A FUEL IN AN AIRCRAFT (To support tax-free removals and entries of aviation-grade kerosene under section 4082 of the Internal Revenue Code.) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Buyer) certifies the followingName of Buyer
+CERTIFICATE OF PERSON BUYING AVIATION-GRADE KEROSENE FOR USE AS A FUEL IN AN AIRCRAFT(To support tax-free removals and entries of aviation-grade kerosene under section 4082 of the Internal Revenue Code.)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Buyer) certifies the followingName of Buyer
 
 under penalties of perjury:
 

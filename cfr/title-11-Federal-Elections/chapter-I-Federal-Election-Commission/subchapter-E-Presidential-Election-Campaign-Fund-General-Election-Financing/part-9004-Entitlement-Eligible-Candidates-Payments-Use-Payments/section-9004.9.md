@@ -48,4 +48,4 @@
 
 (v) *Petitions for rehearing.* The candidate may file a petition for rehearing of a final determination under this section in accordance with 11 CFR 9007.5(a).
 
-[56 FR 35919, July 29, 1991, as amended at 60 FR 31877, June 16, 1995; 64 FR 49363, Sept. 13, 1999; 89 FR 219, Jan. 2, 2024]
+[56 FR 35919, July 29, 1991, as amended at 60 FR 31877, June 16, 1995; 64 FR 49363, Sept. 13, 1999; 89 FR 220, Jan. 2, 2024]

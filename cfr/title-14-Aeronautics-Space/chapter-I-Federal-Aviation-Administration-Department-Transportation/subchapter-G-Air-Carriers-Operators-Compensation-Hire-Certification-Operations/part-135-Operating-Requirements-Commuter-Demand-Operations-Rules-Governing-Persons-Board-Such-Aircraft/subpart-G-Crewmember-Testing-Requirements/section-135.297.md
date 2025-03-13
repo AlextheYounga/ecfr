@@ -1,6 +1,6 @@
 ##### § 135.297 Pilot in command: Instrument proficiency check requirements. #####
 
-Link to an amendment published at 89 FR 92487, Nov. 21, 2024.Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
+Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
 
 (a) No certificate holder may use a pilot, nor may any person serve, as a pilot in command of an aircraft under IFR unless, since the beginning of the 6th calendar month before that service, that pilot has passed an instrument proficiency check under this section administered by the Administrator or an authorized check pilot.
 
@@ -10,9 +10,9 @@ Link to an amendment published at 89 FR 92487, Nov. 21, 2024.Link to an amendmen
 
 (1) The instrument proficiency check must—
 
-(i) For a pilot in command of an airplane under § 135.243(a), include the procedures and maneuvers for an airline transport pilot certificate in the particular type of airplane, if appropriate; and
+(i) For a pilot in command of an aircraft under § 135.243(a), include the procedures and maneuvers for an airline transport pilot certificate in the particular type of aircraft, if appropriate; and
 
-(ii) For a pilot in command of an airplane or helicopter under § 135.243(c), include the procedures and maneuvers for a commercial pilot certificate with an instrument rating and, if required, for the appropriate type rating.
+(ii) For a pilot in command of an aircraft under § 135.243(c), include the procedures and maneuvers for a commercial pilot certificate with an instrument rating and, if required, for the appropriate type rating.
 
 (2) The instrument proficiency check must be given by an authorized check pilot or by the Administrator.
 
@@ -28,6 +28,10 @@ Link to an amendment published at 89 FR 92487, Nov. 21, 2024.Link to an amendmen
 
 (2) Properly conduct air-ground communications and comply with complex air traffic control instructions.
 
-(3) Each pilot taking the autopilot check must show that, while using the autopilot, the airplane can be operated as proficiently as it would be if a second in command were present to handle air-ground communications and air traffic control instructions. The autopilot check need only be demonstrated once every 12 calendar months during the instrument proficiency check required under paragraph (a) of this section.
+(3) Each pilot taking the autopilot check must show that, while using the autopilot:
 
-[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978, as amended by Amdt. 135-15, 46 FR 30971, June 11, 1981; Amdt. 135-129, 79 FR 9975, Feb. 21, 2014; Docket No. FAA-2019-0360; Amdt. No. 135-145, 89 FR 51430, June 18, 2024]
+(i) The airplane or powered-lift can be operated as proficiently as it would be if a second in command were present to handle air-ground communications and air traffic control instructions. The autopilot check need only be demonstrated once every 12 calendar months during the instrument proficiency check required under paragraph (a) of this section.
+
+(ii) On and after July 21, 2025, rotorcraft can be operated as proficiently as it would be if a second in command were present to handle air-ground communications and air traffic control instructions. The autopilot check need only be demonstrated once every 12 calendar months during the instrument proficiency check required under paragraph (a) of this section.
+
+[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978, as amended by Amdt. 135-15, 46 FR 30971, June 11, 1981; Amdt. 135-129, 79 FR 9975, Feb. 21, 2014; Docket No. FAA-2019-0360; Amdt. No. 135-145, 89 FR 51430, June 18, 2024; FAA-2023-1275, Amdt. No. 135-147, 89 FR 92487, Nov. 21, 2024]

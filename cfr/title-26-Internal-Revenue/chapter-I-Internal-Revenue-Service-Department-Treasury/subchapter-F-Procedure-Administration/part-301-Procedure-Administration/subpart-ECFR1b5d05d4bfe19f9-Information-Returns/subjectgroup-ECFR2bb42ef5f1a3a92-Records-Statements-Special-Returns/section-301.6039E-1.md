@@ -22,4 +22,4 @@ Example.C, a citizen of the United States, makes an error in supplying informati
 
 (d) *Effective/applicability date.* This section applies to passport applications submitted after July 18, 2014.
 
-[T.D. 9679, 79 FR 41891, July 18, 2014] Information Concerning Transactions With Other Persons
+[T.D. 9679, 79 FR 41891, July 18, 2014]Information Concerning Transactions With Other Persons

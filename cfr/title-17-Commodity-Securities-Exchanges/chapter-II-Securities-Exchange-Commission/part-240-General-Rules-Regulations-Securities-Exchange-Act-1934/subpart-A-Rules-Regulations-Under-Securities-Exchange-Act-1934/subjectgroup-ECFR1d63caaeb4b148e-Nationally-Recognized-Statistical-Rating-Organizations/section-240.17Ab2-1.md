@@ -1,5 +1,7 @@
 ##### § 240.17Ab2-1 Registration of clearing agencies. #####
 
+Link to an amendment published at 90 FR 7369, Jan. 21, 2025.
+
 (a) An application for registration or for exemption from registration as a clearing agency, as defined in section 3(a)(23) of the Act, or an amendment to any such application shall be filed with the Commission on Form CA-1, in accordance with the instructions thereto.
 
 (b) Any applicant for registration or for exemption from registration as a clearing agency whose application is filed with the Commission on or before November 24, 1975, on and in accordance with the instructions to Form CA-1, with respect to the clearing agency activities described in the application shall, during the period from December 1, 1975 until the Commission grants registration, denies registration or grants an exemption from registration, be exempt from the registration provisions of section 17A(b) of the Act and the rules and regulations thereunder and, unless the Commission shall otherwise provide by rule or by order, the provisions of the Act and the rules and regulations thereunder which would be applicable to clearing agencies as a result of registration under the Act.

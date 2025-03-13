@@ -40,7 +40,7 @@ Example 2.(i) X Corporation maintains a qualified plan to which sections 410 and
 |         1988          |           200            |
 |         1989          |          1,000           |
 
-Employee A's status as a participant during this period is determined as follows: *1978:* Employee A was a plan participant on January 1, 1978, because he completed a year of service (1,000 hours) in 1977. He did not complete a year of service in 1978 because he completed fewer than 1,000 hours in that year. Because he completed more than 500 hours of service in 1978, however, Employee A did not incur a one-year break in service that year.
+Employee A's status as a participant during this period is determined as follows:*1978:* Employee A was a plan participant on January 1, 1978, because he completed a year of service (1,000 hours) in 1977. He did not complete a year of service in 1978 because he completed fewer than 1,000 hours in that year. Because he completed more than 500 hours of service in 1978, however, Employee A did not incur a one-year break in service that year.
 
 *1979:* Employee A completes a year of service in 1979. Because he did not incur a one-year break in service in 1978, the plan may not disregard his 1977 service for purposes of determining his years of service as of January 1, 1979.
 

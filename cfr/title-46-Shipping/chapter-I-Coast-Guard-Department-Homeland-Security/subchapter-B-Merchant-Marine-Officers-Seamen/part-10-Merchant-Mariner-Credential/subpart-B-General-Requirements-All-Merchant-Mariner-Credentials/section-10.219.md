@@ -1,7 +1,5 @@
 ##### § 10.219 Fees. #####
 
-Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
-
 (a) Use table 1 to § 10.219(a) to calculate the mandatory fees for MMCs and associated endorsements.
 
 |                                                              If you apply for                                                              |          And you need           |                              |               |
@@ -50,17 +48,7 @@ Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
 (c) If the examination is administered at a place other than a Regional Examination Center (REC), the examination fee must be paid to the REC at least one week before the scheduled examination date.
 
-(d) Unless the Coast Guard provides additional payment options, fees must be paid as follows:
-
-(1) Fee payments must be for the exact amount.
-
-(2) Fee payments may be made by electronic payment in a manner specified by the Coast Guard. For information regarding current forms of electronic payment, go to the National Maritime Center's (NMC) Web site, *www.uscg.mil/nmc.* To assist with the automation of mariner credential applications, applicants are encouraged to pay the fees electronically.
-
-(3) Payments may be made by cash, check, money order, or credit card.
-
-(4) Payments submitted by mail may not be made in cash. Mailed payments should specify the type of credential sought and the type of fee (e.g., evaluation, examination, issuance) being paid. The address for sending payment by mail can be found at the NMC Web site, *www.uscg.mil/nmc.*
-
-(5) Checks or money orders must be made payable to the U.S. Coast Guard, and the full legal name and last four digits of applicant's social security number must appear on the front of each check or money order.
+(d) Unless the Coast Guard provides additional payment options, fee payment must be for the exact amount and must be made by electronic payment in a manner specified by the Coast Guard. For information regarding current forms of electronic payment, go to the National Maritime Center's (NMC) website, *https://www.dco.uscg.mil/national\_maritime\_center/.*
 
 (e) Unless otherwise specified in this part, when two or more endorsements are processed on the same application the fees will be as follows:
 
@@ -82,7 +70,7 @@ Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
 (3) Youth oriented.
 
-(i) *Determination of eligibility.* (1) An organization may submit a written request to U.S. Coast Guard National Maritime Center, 100 Forbes Drive, Martinsburg, WV 25404, in order to be considered an eligible organization under the criteria set forth in paragraph (h) of this section. With the written request, the organization must provide evidence of its status as a youth-oriented, not-for-profit, charitable organization.
+(i) *Determination of eligibility.* (1) An organization may submit a written request in a manner prescribed by the Coast Guard that may include mail, email, or electronic means to U.S. Coast Guard National Maritime Center, 100 Forbes Drive, Martinsburg, WV 25404, at email *IASKNMC@uscg.mil,* in order to be considered an eligible organization under the criteria set forth in paragraph (h) of this section. With the written request, the organization must provide evidence of its status as a youth-oriented, not-for-profit, charitable organization.
 
 (2) The following organizations are accepted by the Coast Guard as meeting the requirements of paragraph (h) of this section and need not submit evidence of their status: Boy Scouts of America, Sea Explorer Association, Girl Scouts of the United States of America, and Young Men's Christian Association of the United States of America.
 
@@ -110,4 +98,4 @@ Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
 (iii) For the members of the commissioned corps of the Public Health Service, active duty has the meaning defined in 42 CFR 21.72(f).
 
-[USCG-2004-17914, 78 FR 77890, Dec. 24, 2013, as amended by USCG-2021-0288, 89 FR 63841, Aug. 6, 2024]
+[USCG-2004-17914, 78 FR 77890, Dec. 24, 2013, as amended by USCG-2021-0288, 89 FR 63841, Aug. 6, 2024; USCG-2021-0834, 89 FR 102333, Dec. 17, 2024]

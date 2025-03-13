@@ -1,7 +1,5 @@
 ##### § 61.43 Practical tests: General procedures. #####
 
-Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
-
 (a) Completion of the practical test for a certificate or rating consists of—
 
 (1) Performing the tasks specified in the areas of operation contained in the applicable Airman Certification Standards or Practical Test Standards (incorporated by reference, see § 61.14) as listed in appendix A of this part for the airman certificate or rating sought;
@@ -40,4 +38,6 @@ Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
 (4) Presents to the examiner for the retest a properly completed and signed application.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-124, 74 FR 42549, Aug. 21, 2009; Amdt. 61-142, 83 FR 30276, June 27, 2018; Docket No. FAA-2022-1463; Amdt. No.61-153, 89 FR 22517, Apr. 1, 2024]
+(g) A practical test for an airline transport pilot certificate with category and class rating (if a class rating is required) in an aircraft that requires a type rating or in a flight simulation training device that represents an aircraft that requires a type rating includes the same tasks and maneuvers as a practical test for a type rating.
+
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-124, 74 FR 42549, Aug. 21, 2009; Amdt. 61-142, 83 FR 30276, June 27, 2018; Docket No. FAA-2022-1463; Amdt. No.61-153, 89 FR 22517, Apr. 1, 2024; FAA-2023-1275; Amdt. No. 61-157, 89 FR 92484, Nov. 21, 2024]

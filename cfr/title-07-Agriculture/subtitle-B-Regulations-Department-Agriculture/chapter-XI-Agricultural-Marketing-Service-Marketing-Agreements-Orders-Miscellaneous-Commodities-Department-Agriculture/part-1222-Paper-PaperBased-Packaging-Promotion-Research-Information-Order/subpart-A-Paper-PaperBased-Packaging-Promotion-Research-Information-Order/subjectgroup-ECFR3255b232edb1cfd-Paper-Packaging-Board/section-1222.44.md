@@ -1,5 +1,7 @@
 ##### § 1222.44 Procedure. #####
 
+Link to an amendment published at 90 FR 6782, Jan. 21, 2025.
+
 (a) A majority of the Board members shall constitute a quorum.
 
 (b) Each member of the Board shall be entitled to one vote on any matter put to the Board and the motion will carry if supported by a majority of Board members, except for recommendations to change the assessment rate or to adopt a budget, both of which require affirmation by two-thirds of the total number of Board members.

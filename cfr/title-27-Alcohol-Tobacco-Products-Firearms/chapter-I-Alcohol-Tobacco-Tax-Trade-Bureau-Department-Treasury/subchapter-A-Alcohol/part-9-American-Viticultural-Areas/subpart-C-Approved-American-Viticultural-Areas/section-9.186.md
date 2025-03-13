@@ -4,7 +4,7 @@
 
 (b) *Approved Maps.* The appropriate maps for determining the boundaries of the “Niagara Escarpment” viticultural area are five United States Geological Survey 1:250,000 scale topographic maps. They are titled:
 
-(1) Lewiston, New York—Ontario, 1980;(2) Ransomville, New York, 1980;(3) Cambria, New York, 1980;(4) Lockport, New York, 1980; and(5) Gasport, New York, 1979.
+(1) Lewiston, New York—Ontario, 1980; (2) Ransomville, New York, 1980; (3) Cambria, New York, 1980; (4) Lockport, New York, 1980; and (5) Gasport, New York, 1979.
 
 (c) *Boundary.* The Niagara Escarpment viticultural area is located in Niagara County, New York. The boundary of the Niagara Escarpment viticultural area is as described below:
 

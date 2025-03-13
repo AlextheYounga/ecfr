@@ -74,4 +74,4 @@
 
 (j) *Effective date.* Paragraphs (a) through (g) of this section, inclusive, are effective for examinations scheduled after April 2, 1993.
 
-(Secs. 1441(c)(4) (80 Stat. 1553; 26 U.S.C. 1441(c)(4)), 3401(a)(6) (80 Stat. 1554; 26 U.S.C. 3401(a)(6)), and 7805 (68A Stat. 917; 26 U.S.C. 7805), Internal Revenue Code of 1954) [32 FR 15241, Nov. 3, 1967, as amended by T.D. 7146, 36 FR 20599, Oct. 27, 1971; T.D. 7977, 49 FR 36836, Sept. 20, 1984; T.D. 8297, 55 FR 12346, Apr. 3, 1990; T.D. 8469, 58 FR 17519, Apr. 5, 1993]
+(Secs. 1441(c)(4) (80 Stat. 1553; 26 U.S.C. 1441(c)(4)), 3401(a)(6) (80 Stat. 1554; 26 U.S.C. 3401(a)(6)), and 7805 (68A Stat. 917; 26 U.S.C. 7805), Internal Revenue Code of 1954)[32 FR 15241, Nov. 3, 1967, as amended by T.D. 7146, 36 FR 20599, Oct. 27, 1971; T.D. 7977, 49 FR 36836, Sept. 20, 1984; T.D. 8297, 55 FR 12346, Apr. 3, 1990; T.D. 8469, 58 FR 17519, Apr. 5, 1993]

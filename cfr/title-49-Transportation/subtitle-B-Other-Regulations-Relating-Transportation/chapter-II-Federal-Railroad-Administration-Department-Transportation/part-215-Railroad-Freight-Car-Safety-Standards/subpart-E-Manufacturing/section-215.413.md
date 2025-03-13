@@ -1,0 +1,5 @@
+##### § 215.413 Payment of penalty; compromise. #####
+
+(a) Payment of a civil monetary penalty may be made by credit card, certified check, money order, or wire transfer. Payment by credit card must be made via the internet at *https://www.pay.gov/paygov/.* Instructions for online payment are found on the website. Payments made by certified check or money order should be made payable to the Federal Railroad Administration and sent to DOT/FRA, M.M.A.C., AMK-324, HQ-RM 181, P.O. Box 25082, Oklahoma City, OK 73125. Overnight express payments may be sent to DOT/FRA, M.M.A.C., AMK-324, HQ-RM 181, 6500 South MacArthur Blvd., Oklahoma City, OK 73169.
+
+(b) At any time before an order requiring payment of a civil monetary penalty is referred to the Attorney General for collection, the respondent may offer to compromise for a specific amount by contacting the Office of the Chief Counsel.

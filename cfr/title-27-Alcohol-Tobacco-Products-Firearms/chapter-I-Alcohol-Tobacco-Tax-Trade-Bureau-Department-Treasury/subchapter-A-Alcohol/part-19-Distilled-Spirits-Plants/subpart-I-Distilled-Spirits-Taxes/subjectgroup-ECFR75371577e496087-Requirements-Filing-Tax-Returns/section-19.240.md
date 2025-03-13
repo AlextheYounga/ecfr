@@ -22,4 +22,4 @@
 
 (e) *Procedure.* Upon receipt of a notice filed pursuant to paragraph (b)(1) of this section, the appropriate TTB officer will provide the proprietor with a copy of the TTB Procedure entitled “Payment of Tax by Electronic Fund Transfer”. This publication outlines the procedure that the proprietor must follow when preparing returns and payments by EFT as required by this part. The proprietor must follow instructions provided by U.S. Customs and Border Protection (CBP) for submitting the EFT payments that must be made to CBP.
 
-(26 U.S.C. 5061, 6302)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-196, 89 FR 87939, Nov. 6, 2024]
+(26 U.S.C. 5061, 6302) [T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-196, 89 FR 87939, Nov. 6, 2024]

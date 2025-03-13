@@ -10,7 +10,7 @@ Ten gallons of ethyl ether.
 
 (2) As a raw material:
 
-523. Miscellaneous ethyl esters.561. Ethyl ether.562. Other ethers.575. Drugs and medicinal chemicals.579. Other chemicals.
+523. Miscellaneous ethyl esters.561. Ethyl ether. 562. Other ethers.575. Drugs and medicinal chemicals.579. Other chemicals.
 
 (3) Miscellaneous uses:
 

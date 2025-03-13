@@ -1,8 +1,6 @@
 ##### § 12.405 Examination and demonstration of ability for Able Seafarer endorsements. #####
 
-Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
-
-(a) Before an applicant is issued an endorsement as an Able Seafarer, he or she must prove, to the satisfaction of the Coast Guard, by oral or other means of examination, or by actual demonstration in a Coast Guard-approved course, their knowledge of seamanship and the ability to carry out effectively all the duties that may be required of an Able Seafarer, including those of a Lifeboat Operator or Lifeboat Operator-Limited.
+(a) Before an applicant is issued an endorsement as an Able Seafarer, they must prove, to the satisfaction of the Coast Guard, by oral or other means of examination, or by actual demonstration in a Coast Guard-approved course, their knowledge of seamanship and the ability to carry out effectively all the duties that may be required of an Able Seafarer, including those of a Lifeboat Operator or Lifeboat Operator-Limited.
 
 (b) The examination, whether administered orally or by other means, must be conducted only in the English language and must consist of questions regarding—
 
@@ -14,4 +12,4 @@ Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (d) The applicant must demonstrate, to the satisfaction of the Coast Guard, knowledge of pollution laws and regulations, procedures for discharge containment and cleanup, and methods for disposal of sludge and waste material from cargo and fueling operations.
 
-[USCG-2004-17914, 78 FR 77975, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93100, Nov. 25, 2024]
+[USCG-2004-17914, 78 FR 77975, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93100, Nov. 25, 2024; USCG-2021-0834, 89 FR 102336, Dec. 17, 2024]

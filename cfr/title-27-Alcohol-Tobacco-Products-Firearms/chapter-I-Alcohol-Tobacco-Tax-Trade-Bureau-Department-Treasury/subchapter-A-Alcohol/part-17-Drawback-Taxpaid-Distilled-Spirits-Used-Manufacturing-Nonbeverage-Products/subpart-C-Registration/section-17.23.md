@@ -4,4 +4,4 @@
 
 (b) *One EIN only.* Each claimant must obtain and use only one EIN, regardless of the number of places of business for which a claim is filed under this part.
 
-(26 U.S.C. 6109)[T.D. TTB-79, 74 FR 37402, July 28, 2009, as amended by T.D. TTB-196, 89 FR 87937, Nov. 6, 2024]
+(26 U.S.C. 6109) [T.D. TTB-79, 74 FR 37402, July 28, 2009, as amended by T.D. TTB-196, 89 FR 87937, Nov. 6, 2024]

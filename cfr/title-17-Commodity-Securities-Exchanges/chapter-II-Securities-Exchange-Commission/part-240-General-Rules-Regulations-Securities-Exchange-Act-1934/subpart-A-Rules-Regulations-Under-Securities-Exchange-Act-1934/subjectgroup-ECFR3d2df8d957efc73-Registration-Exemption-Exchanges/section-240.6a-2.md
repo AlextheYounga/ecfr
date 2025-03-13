@@ -1,5 +1,7 @@
 ##### § 240.6a-2 Amendments to application. #####
 
+Link to an amendment published at 90 FR 7363, Jan. 21, 2025.
+
 (a) A national securities exchange, or an exchange exempted from such registration based on limited volume, shall file an amendment to Form 1, (§ 249.1 of this chapter), which shall set forth the nature and effective date of the action taken and shall provide any new information and correct any information rendered inaccurate, on Form 1, (§ 249.1 of this chapter), within 10 days after any action is taken that renders inaccurate, or that causes to be incomplete, any of the following:
 
 (1) Information filed on the Execution Page of Form 1, or amendment thereto; or

@@ -2,7 +2,7 @@
 
 This section contains first a list of the section headings and then a list of the questions in each section in §§ 54.4980B-1 through 54.4980B-10.
 
-List of Sections§ 54.4980B-1 COBRA in general.§ 54.4980B-2 Plans that must comply.§ 54.4980B-3 Qualified beneficiaries.§ 54.4980B-4 Qualifying events.§ 54.4980B-5 COBRA continuation coverage.§ 54.4980B-6 Electing COBRA continuation coverage.§ 54.4980B-7 Duration of COBRA continuation coverage.§ 54.4980B-8 Paying for COBRA continuation coverage.§ 54.4980B-9 Business reorganizations and employer withdrawals from multiemployer plans. § 54.4980B-10 Interaction of FMLA and COBRA.List of Questions§ 54.4980B-1 COBRA in general.
+List of Sections§ 54.4980B-1 COBRA in general.§ 54.4980B-2 Plans that must comply.§ 54.4980B-3 Qualified beneficiaries.§ 54.4980B-4 Qualifying events.§ 54.4980B-5 COBRA continuation coverage.§ 54.4980B-6 Electing COBRA continuation coverage.§ 54.4980B-7 Duration of COBRA continuation coverage.§ 54.4980B-8 Paying for COBRA continuation coverage.§ 54.4980B-9 Business reorganizations and employer withdrawals from multiemployer plans.§ 54.4980B-10 Interaction of FMLA and COBRA.List of Questions§ 54.4980B-1 COBRA in general.
 
 Q-1: What are the health care continuation coverage requirements contained in section 4980B of the Internal Revenue Code and in ERISA?
 

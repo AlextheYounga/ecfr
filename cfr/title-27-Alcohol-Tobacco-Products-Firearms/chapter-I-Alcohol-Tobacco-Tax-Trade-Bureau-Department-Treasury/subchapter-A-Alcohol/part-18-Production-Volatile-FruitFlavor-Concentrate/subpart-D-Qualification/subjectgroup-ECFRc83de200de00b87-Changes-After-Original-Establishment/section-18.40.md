@@ -8,4 +8,4 @@ A proprietor of a volatile fruit-flavor concentrate plant operating a contiguous
 
 (c) A bond (TTB F 5120.36) or a consent of surety (TTB F 5000.18) to cover the proposed alternation of premises if the proprietor is required to hold a bond under § 24.146 of this chapter to cover the bonded wine cellar premises subject to alternation.
 
-(Approved by the Office of Management and Budget under control numbers 1513-0006, 1513-0009, and 1513-0013)[T.D. ATF-455, 66 FR 29482, May 31, 2001, as amended by T.D. TTB-146, 82 FR 1119, Jan. 4, 2017; T.D. TTB-196, 89 FR 87939, Nov. 6, 2024]
+(Approved by the Office of Management and Budget under control numbers 1513-0006, 1513-0009, and 1513-0013) [T.D. ATF-455, 66 FR 29482, May 31, 2001, as amended by T.D. TTB-146, 82 FR 1119, Jan. 4, 2017; T.D. TTB-196, 89 FR 87939, Nov. 6, 2024]

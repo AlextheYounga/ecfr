@@ -1,7 +1,5 @@
 ##### § 135.339 Initial and transition training and checking: Check pilots. #####
 
-Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
-
 (a) No certificate holder may use a person nor may any person serve as a check pilot unless—
 
 (1) That person has satisfactorily completed initial or transition check pilot training; and
@@ -36,9 +34,9 @@ Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
 
 (2) The potential results of improper, untimely, or nonexecution of safety measures during a check;
 
-(3) Training and practice in conducting flight checks from the left and right pilot seats in the required normal, abnormal, and emergency procedures to ensure competence to conduct the pilot flight checks required by this part; and
+(3) Training and practice in conducting flight checks from the left and right pilot seats, or in the case of powered-lift with one pilot seat from that seat as well as providing training and instruction from an observation seat, in the required normal, abnormal, and emergency procedures to ensure competence to conduct the pilot flight checks required by this part; and
 
-(4) The safety measures to be taken from either pilot seat for emergency situations that are likely to develop during checking.
+(4) The safety measures to be taken from either pilot seat, or in the case of powered-lift with one pilot seat from that seat as well as providing training and instruction from an observation seat, for emergency situations that are likely to develop during checking.
 
 (f) The requirements of paragraph (e) of this section may be accomplished in full or in part in flight, in a flight simulator, or in a flight training device, as appropriate.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
 
 (2) Training in the operation of flight simulators, flight training devices, or both, to ensure competence to conduct the flight checks required by this part.
 
-[Doc. No. 28471, 61 FR 30745, June 17, 1996; 62 FR 3739, Jan. 24, 1997, as amended by Docket No. FAA-2019-0360; Amdt. No. 135-145, 89 FR 51431, June 18, 2024; Docket No. FAA-2019-0360; Amdt. No. 135-145A, 89 FR 105448, Dec. 27, 2024]
+[Doc. No. 28471, 61 FR 30745, June 17, 1996; 62 FR 3739, Jan. 24, 1997, as amended by Docket No. FAA-2019-0360; Amdt. No. 135-145, 89 FR 51431, June 18, 2024; Amdt. No. 135-145A, 89 FR 105448, Dec. 27, 2024; FAA-2023-1275, Amdt. No. 135-147, 89 FR 92488, Nov. 21, 2024]

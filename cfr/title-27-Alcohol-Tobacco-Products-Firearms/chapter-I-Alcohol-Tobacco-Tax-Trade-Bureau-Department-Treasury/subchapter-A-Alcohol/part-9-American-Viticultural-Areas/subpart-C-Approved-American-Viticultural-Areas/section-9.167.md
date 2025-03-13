@@ -22,7 +22,7 @@
 
 (8) From this point southwest in a diagonal to the 700-foot elevation line and then following this 700-foot elevation through Section 15 and into section 16.
 
-(9) Then following the 700-foot elevation line southwest1/4 mile in a southwest diagonal until it meets the creek bed.
+(9) Then following the 700-foot elevation line southwest 1/4 mile in a southwest diagonal until it meets the creek bed.
 
 (10) Following the creek bed southwest through section 16, across the extreme southeast corner of section 17 and into the northeast corner of section 20 to a point where the creek bed meets the 560-foot elevation point.
 

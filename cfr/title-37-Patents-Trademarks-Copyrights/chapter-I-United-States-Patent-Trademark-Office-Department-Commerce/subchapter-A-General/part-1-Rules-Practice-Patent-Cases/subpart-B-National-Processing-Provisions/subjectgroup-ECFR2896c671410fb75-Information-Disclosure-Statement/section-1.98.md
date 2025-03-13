@@ -2,7 +2,7 @@
 
 Link to an amendment published at 89 FR 92008, Nov. 20, 2024.
 
-(a) Any information disclosure statement filed under § 1.97 shall include the items listed in paragraphs (a)(1), (a)(2) and (a)(3) of this section.
+(a) Any information disclosure statement filed under § 1.97 shall include the items listed in paragraphs (a)(1) through (4) of this section.
 
 (1) A list of all patents, publications, applications, or other information submitted for consideration by the Office. U.S. patents and U.S. patent application publications must be listed in a section separately from citations of other documents. Each page of the list must include:
 
@@ -26,6 +26,8 @@ Link to an amendment published at 89 FR 92008, Nov. 20, 2024.
 
 (ii) A copy of the translation if a written English-language translation of a non-English-language document, or portion thereof, is within the possession, custody, or control of, or is readily available to any individual designated in § 1.56(c).
 
+(4) A clear written assertion that the information disclosure statement is accompanied by the applicable information disclosure statement size fee under § 1.17(v) or a clear written assertion that no information disclosure statement size fee under § 1.17(v) is required.
+
 (b)(1) Each U.S. patent listed in an information disclosure statement must be identified by inventor, patent number, and issue date.
 
 (2) Each U.S. patent application publication listed in an information disclosure statement shall be identified by applicant, patent application publication number, and publication date.
@@ -44,4 +46,4 @@ Link to an amendment published at 89 FR 92008, Nov. 20, 2024.
 
 (2) The information disclosure statement submitted in the earlier application complies with paragraphs (a) through (c) of this section.
 
-[65 FR 54671, Sept. 8, 2000, as amended at 65 FR 57055, Sept. 20, 2000; 68 FR 38628, June 30, 2003; 69 FR 56542, Sept. 21, 2004]
+[65 FR 54671, Sept. 8, 2000, as amended at 65 FR 57055, Sept. 20, 2000; 68 FR 38628, June 30, 2003; 69 FR 56542, Sept. 21, 2004; 89 FR 92008, Nov. 20, 2024]

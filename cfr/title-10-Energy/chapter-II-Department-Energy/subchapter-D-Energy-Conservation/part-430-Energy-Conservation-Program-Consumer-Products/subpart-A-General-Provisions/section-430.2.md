@@ -866,13 +866,13 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (1) With respect to fluorescent lamps and general service fluorescent lamps:
 
-(i) If the lamp is listed in ANSI C78.81 (incorporated by reference; *see* § 430.3) or ANSI C78.901 (incorporated by reference; *see* § 430.3), the rated wattage of a lamp determined by the lamp designation of Clause 11.1 of ANSI C78.81 or ANSI C78.901;
+(i) If the lamp is listed in ANSI C78.81 (incorporated by reference; see § 430.3) or ANSI C78.901 (incorporated by reference; see § 430.3), the rated wattage of a lamp determined by the lamp designation of Clause 11.1 of ANSI C78.81 or ANSI C78.901;
 
-(ii) If the lamp is a residential straight-shaped lamp, and not listed in ANSI C78.81 (incorporated by reference; *see* § 430.3), the wattage of a lamp when operated on a reference ballast for which the lamp is designed; or
+(ii) If the lamp is a residential straight-shaped lamp, and not listed in ANSI C78.81 (incorporated by reference; see § 430.3), the wattage of a lamp when operated on a reference ballast for which the lamp is designed; or
 
 (iii) If the lamp is neither listed in one of the ANSI standards referenced in paragraph (1)(i) of this definition, nor a residential straight-shaped lamp, a represented value of electrical power for a basic model, determined according to 10 CFR 429.27, and derived from the measured initial input power of a lamp tested according to appendix R to subpart B of this part.
 
-(2) With respect to general service incandescent lamps, a represented value of electrical power for a basic model, determined according to 10 CFR 429.27, and derived from the measured initial input power of a lamp tested according to appendix R to subpart B of this part.
+(2) With respect to general service incandescent lamps, a represented value of electrical power for a basic model, determined according to 10 CFR 429.66, and derived from the measured initial input power of a lamp tested according to appendix R to subpart B of this part.
 
 (3) With respect to incandescent reflector lamps, a represented value of electrical power for a basic model, determined according to 10 CFR 429.55, and derived from the measured initial input power of a lamp tested according to appendix R to subpart B of this part.
 

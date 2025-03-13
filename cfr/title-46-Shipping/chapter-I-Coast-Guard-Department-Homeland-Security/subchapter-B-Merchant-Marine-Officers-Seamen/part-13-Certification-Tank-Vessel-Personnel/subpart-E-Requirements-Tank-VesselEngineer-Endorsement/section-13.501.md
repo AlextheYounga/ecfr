@@ -1,14 +1,12 @@
 ##### § 13.501 Original application for Tank Vessel-Engineer endorsement. #####
 
-Link to an amendment published at 89 FR 102337, Dec. 17, 2024.
-
 Each applicant for a Tank Vessel-Engineer endorsement must—
 
 (a) Be at least 18 years old;
 
 (b) Apply on a form provided by the Coast Guard;
 
-(c) Present evidence of—
+(c) Provide evidence of—
 
 (1) Passing a physical and medical examination according to § 13.125;
 
@@ -20,4 +18,4 @@ Each applicant for a Tank Vessel-Engineer endorsement must—
 
 (d) Be capable of speaking and understanding, in English, all instructions needed to commence, conduct, and complete a transfer of cargo or fuel.
 
-[USCG-2004-17914, 78 FR 77996, Dec. 24, 2013, as amended by USCG-2021-0348, 87 FR 3223, Jan. 21, 2022]
+[USCG-2004-17914, 78 FR 77996, Dec. 24, 2013, as amended by USCG-2021-0348, 87 FR 3223, Jan. 21, 2022; USCG-2021-0834, 89 FR 102337, Dec. 17, 2024]

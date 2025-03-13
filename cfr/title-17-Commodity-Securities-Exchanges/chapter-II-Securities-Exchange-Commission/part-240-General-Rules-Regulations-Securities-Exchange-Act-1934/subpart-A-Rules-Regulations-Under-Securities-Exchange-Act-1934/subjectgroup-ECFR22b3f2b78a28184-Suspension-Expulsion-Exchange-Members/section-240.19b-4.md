@@ -1,5 +1,7 @@
 ##### § 240.19b-4 Filings with respect to proposed rule changes by self-regulatory organizations. #####
 
+Link to an amendment published at 90 FR 7371, Jan. 21, 2025.
+
 (a) *Definitions.* As used in this section:
 
 (1) The term *advance notice* means a notice required to be made by a designated clearing agency pursuant to Section 806(e) of the Payment, Clearing and Settlement Supervision Act (12 U.S.C. 5465(e));

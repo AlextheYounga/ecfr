@@ -14,4 +14,4 @@
 
 (b) *Applicability date.* This section is applicable to relevant requests for consideration by Appeals made on or after February 14, 2025.
 
-[T.D. 10030, 90 FR 3662, Jan. 15, 2025] Miscellaneous Provisions
+[T.D. 10030, 90 FR 3662, Jan. 15, 2025]Miscellaneous Provisions

@@ -229,7 +229,7 @@ Example.(a) *Facts.* (1) Under the terms of a trust instrument, one-half of the 
 |<sup>2</sup> See paragraph (e)(3) of this example.|         |       |                  |                 |                    |
 |<sup>3</sup> See paragraph (f)(3) of this example.|         |       |                  |                 |                    |
 
-Thus, B will include in gross income for 1956 dividends of $13,770 (subject to the dividend exclusion), rents of $22,526, and taxable interest of $15,013, and will exclude the tax-exempt interest of $6,257. (2) *Computation of tax.* (i) For the purpose of computing B's tax liability, it is assumed that he was single during the taxable years 1954, 1955, and 1956, and that his taxable income (derived from salary) for each of the years 1954 and 1955 amounted to $13,400 on which a tax of $4,002 was paid for each year. It is also assumed that his income (other than distributions from the trust) for 1956 was $15,000 derived from salary, and he had allowable deductions of $10,600, which included the deduction for personal exemption.
+Thus, B will include in gross income for 1956 dividends of $13,770 (subject to the dividend exclusion), rents of $22,526, and taxable interest of $15,013, and will exclude the tax-exempt interest of $6,257.(2) *Computation of tax.* (i) For the purpose of computing B's tax liability, it is assumed that he was single during the taxable years 1954, 1955, and 1956, and that his taxable income (derived from salary) for each of the years 1954 and 1955 amounted to $13,400 on which a tax of $4,002 was paid for each year. It is also assumed that his income (other than distributions from the trust) for 1956 was $15,000 derived from salary, and he had allowable deductions of $10,600, which included the deduction for personal exemption.
 
 (ii) The computation of the tax for the taxable year 1956 attributable to the section 666 amounts which are included in B's gross income for such year, as provided in paragraph (a)(1) of § 1.668(a)-4, is as follows:
 
@@ -249,7 +249,7 @@ Thus, B will include in gross income for 1956 dividends of $13,770 (subject to t
 |Tax on income from which section 666 amounts are excluded|                                |             11,069             |
 |      1956 tax attributable to section 666 amounts       |                                |             19,520             |
 
-Only that portion of the dividends received by the trust after July 31, 1954, and deemed distributed to B under section 666, on the last day of such year is included in computing the dividend received credit shown in column (2). See paragraph (f)(3) of this example. (iii) The computation of the taxes for the preceding taxable years attributable to the section 666 amounts which are deemed distributed by the trust on the last day of these years, as provided in paragraph (a)(2) of § 1.668(a)-4, is as follows:
+Only that portion of the dividends received by the trust after July 31, 1954, and deemed distributed to B under section 666, on the last day of such year is included in computing the dividend received credit shown in column (2). See paragraph (f)(3) of this example.(iii) The computation of the taxes for the preceding taxable years attributable to the section 666 amounts which are deemed distributed by the trust on the last day of these years, as provided in paragraph (a)(2) of § 1.668(a)-4, is as follows:
 
 |                                       |Preceding taxable years|       |
 |---------------------------------------|-----------------------|-------|
@@ -266,7 +266,7 @@ Only that portion of the dividends received by the trust after July 31, 1954, an
 |             Tax liability             |         4,002         | 4,002 |
 |Tax attributable to section 666 amounts|         9,547         | 5,872 |
 
-Only that portion ($1,885) of the dividends received by the trust after July 31, 1954, and deemed distributed under section 666 on the last day of that year, is included in computing the dividend received credit of $75 for the year 1954. See paragraph (f)(3) of this example. (iv) Inasmuch as the aggregate of the taxes of $15,419 ($9,547 plus $5,872) attributable to the section 666 amounts as determined for the preceding taxable years is less than the tax of $19,520 determined for the taxable year 1956, the amount of $15,419 shall be added to the tax computed for 1956 without including the section 666 amounts. Thus, B's tax liability for 1956 is $26,488 ($11,069 plus $15,419).
+Only that portion ($1,885) of the dividends received by the trust after July 31, 1954, and deemed distributed under section 666 on the last day of that year, is included in computing the dividend received credit of $75 for the year 1954. See paragraph (f)(3) of this example.(iv) Inasmuch as the aggregate of the taxes of $15,419 ($9,547 plus $5,872) attributable to the section 666 amounts as determined for the preceding taxable years is less than the tax of $19,520 determined for the taxable year 1956, the amount of $15,419 shall be added to the tax computed for 1956 without including the section 666 amounts. Thus, B's tax liability for 1956 is $26,488 ($11,069 plus $15,419).
 
 (3) *Credits against the tax.* B is allowed under section 668(b) a credit of $12,516 ($5,401 for 1954 and $7,115 for 1955) against his 1956 tax liability for the taxes paid by the trust for the preceding taxable years and which may not be refunded or credited to the trust under section 667. See paragraphs (e)(4) and (f)(4) of this example.
 
@@ -284,7 +284,7 @@ Only that portion ($1,885) of the dividends received by the trust after July 31,
 |<sup>1</sup> See paragraph (d)(2) of this example.|         |      |                  |                 |                    |
 |<sup>2</sup> See paragraph (g)(2) of this example.|         |      |                  |                 |                    |
 
-Thus, B will include in gross income for the year 1957 dividends of $8,730 (subject to the dividend exclusion), rents of $12,474, and taxable interest of $9,987 and will exclude the tax-exempt interest of $3,743. (2) *Computation of tax.* (i) For the purpose of computing B's tax liability for 1957, it is assumed that he was single for the entire year and had income (other than distributions from the trust) of $15,000 from salary. Also, he had allowable deductions of $8,100, which included the deductions for personal exemption.
+Thus, B will include in gross income for the year 1957 dividends of $8,730 (subject to the dividend exclusion), rents of $12,474, and taxable interest of $9,987 and will exclude the tax-exempt interest of $3,743.(2) *Computation of tax.* (i) For the purpose of computing B's tax liability for 1957, it is assumed that he was single for the entire year and had income (other than distributions from the trust) of $15,000 from salary. Also, he had allowable deductions of $8,100, which included the deductions for personal exemption.
 
 (ii) The computation of the tax for the taxable year 1957 attributable to the section 666 amounts which are included in B's gross income for that year, as provided in paragraph (a)(1) of § 1.668(a)-4, is as follows:
 
@@ -304,7 +304,7 @@ Thus, B will include in gross income for the year 1957 dividends of $8,730 (subj
 |Tax on income from which section 666 amounts are excluded|                            |           11,069           |
 |      1957 tax attributable to section 666 amounts       |                            |           7,044            |
 
-See explanation following computation in paragraph (h)(2)(ii) of this example with respect to the computation of the dividend received credit on dividends received by the trust in 1954. (iii) The amount of tax, computed at 1954 rates, attributable to the section 666 amounts which are deemed to have been distributed by the trust on the last day of 1954, is $6,939, computed as follows:
+See explanation following computation in paragraph (h)(2)(ii) of this example with respect to the computation of the dividend received credit on dividends received by the trust in 1954.(iii) The amount of tax, computed at 1954 rates, attributable to the section 666 amounts which are deemed to have been distributed by the trust on the last day of 1954, is $6,939, computed as follows:
 
 |1954 taxable income as adjusted (paragraph (h)(2)(iii) of this example)|$24,659|   |
 |-----------------------------------------------------------------------|-------|---|
@@ -321,8 +321,8 @@ See explanation following computation in paragraph (h)(2)(ii) of this example wi
 |                                                                       | 9,874 |   |
 |    Tax attributable to the section 666 amounts distributed in 1957    | 6,939 |   |
 
-Only that portion ($3,750) of the dividends received by the trust after July 31, 1954, and deemed distributed under section 666 on the last day of that year, is included in computing the dividend received credit of $150. See paragraphs (f)(3) and (g)(2) of this example. (iv) Inasmuch as the tax of $6,939 attributable to the section 666 amounts as determined for the preceding taxable year 1954 is less than the tax of $7,044 attributable to these amounts for the year 1957, the amount of $6,939 shall be added to the tax computed for 1957 without including in gross income the section 666 amounts. Thus, B's tax liability for 1957 is $18,008 ($11,069 plus $6,939).
+Only that portion ($3,750) of the dividends received by the trust after July 31, 1954, and deemed distributed under section 666 on the last day of that year, is included in computing the dividend received credit of $150. See paragraphs (f)(3) and (g)(2) of this example.(iv) Inasmuch as the tax of $6,939 attributable to the section 666 amounts as determined for the preceding taxable year 1954 is less than the tax of $7,044 attributable to these amounts for the year 1957, the amount of $6,939 shall be added to the tax computed for 1957 without including in gross income the section 666 amounts. Thus, B's tax liability for 1957 is $18,008 ($11,069 plus $6,939).
 
 (3) *Credit against the tax.* B is allowed under section 668(b) a credit of $5,444 against his 1957 tax liability for the balance of the taxes paid by the trust for 1954 and which may not be refunded or credited to the trust under section 667. See paragraph (g)(3) of this example.
 
-(Sec. 669(a) as amended by sec. 331(a), Tax Reform Act 1969 (83 Stat. 592)) [T.D. 6500, 25 FR 11814, Nov. 26, 1960, as amended by T.D. 6989, 34 FR 738, Jan. 17, 1969]
+(Sec. 669(a) as amended by sec. 331(a), Tax Reform Act 1969 (83 Stat. 592))[T.D. 6500, 25 FR 11814, Nov. 26, 1960, as amended by T.D. 6989, 34 FR 738, Jan. 17, 1969]

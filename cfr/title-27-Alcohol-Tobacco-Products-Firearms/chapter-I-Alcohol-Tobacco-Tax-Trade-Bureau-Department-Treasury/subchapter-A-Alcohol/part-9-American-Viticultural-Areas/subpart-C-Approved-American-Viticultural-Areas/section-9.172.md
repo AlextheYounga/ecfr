@@ -12,7 +12,7 @@
 
 (4) Bowie Quadrangle (Colorado-Delta Co. 1965 (photorevised 1978).
 
-(c) *Boundaries.* The West Elks viticultural area is located in eastern Delta County, Colorado. The beginning point is found on the “Bowie Quadrangle” U.S.G.S. map at the1/4 corner common to Sections 19 and 20, Township 13 South, Range 91 West (T. 13 S., R. 91 W.);
+(c) *Boundaries.* The West Elks viticultural area is located in eastern Delta County, Colorado. The beginning point is found on the “Bowie Quadrangle” U.S.G.S. map at the 1/4 corner common to Sections 19 and 20, Township 13 South, Range 91 West (T. 13 S., R. 91 W.);
 
 (1) The boundary proceeds east following the center subdivision lines of Sections 20 and 21 to its intersection with Colorado Highway 133;
 
@@ -74,6 +74,6 @@
 
 (30) Then northeasterly following the Fire Mountain Canal through the extreme northwest corner of the Paonia, Colo. U.S.G.S. map to its intersection with the section line common to Sections 29 and 30, T. 13 S., R. 91 W., located on the Bowie, Colo. U.S.G.S. map;
 
-(31) Then north following the section lines common to Sections 29 and 30 and Sections 19 and 20 to the1/4 corner common to Sections 19 and 20, the point of beginning.
+(31) Then north following the section lines common to Sections 29 and 30 and Sections 19 and 20 to the 1/4 corner common to Sections 19 and 20, the point of beginning.
 
 [T.D. ATF-445, 66 FR 13430, Mar. 6, 2001]

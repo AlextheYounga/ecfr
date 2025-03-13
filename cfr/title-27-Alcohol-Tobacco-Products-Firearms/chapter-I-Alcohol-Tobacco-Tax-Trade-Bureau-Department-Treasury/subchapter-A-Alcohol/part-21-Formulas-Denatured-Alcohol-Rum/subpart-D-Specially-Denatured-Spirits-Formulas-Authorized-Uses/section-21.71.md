@@ -2,7 +2,7 @@
 
 (a) *Formula.* To every 100 gallons of alcohol add:
 
-Two and one-half gallons of diethyl phthalate and1/8 gallon of *tert-*butyl alcohol.
+Two and one-half gallons of diethyl phthalate and 1/8 gallon of *tert-*butyl alcohol.
 
 (b) *Authorized uses.* (1) As a solvent:
 

@@ -106,7 +106,8 @@
 
 (iii) *Excluded employees.* In determining whether the 85 percent threshold described in paragraph (b)(17)(i) of this section is met, an individual who is an excluded employee described in section 414(q)(5) is not treated as either an individual providing services or a covered employee.
 
-(iv) *Treatment for calendar quarter.* A covered employee will be considered a work site employee for the entirety of a calendar quarter if the employee qualifies as a work site employee at any time during that quarter. C
+(iv) *Treatment for calendar quarter.* A covered employee will be considered a work site employee for the entirety of a calendar quarter if the employee qualifies as a work site employee at any time during that quarter.
+C
 
 (v) *Separate determination for each work site.* The determination of whether a covered employee is a work site employee is made separately with regard to each work site at which the covered employee regularly provides services and for each customer for which the covered employee is providing services. A covered employee may be determined to be a work site employee of more than one work site during a calendar quarter.
 

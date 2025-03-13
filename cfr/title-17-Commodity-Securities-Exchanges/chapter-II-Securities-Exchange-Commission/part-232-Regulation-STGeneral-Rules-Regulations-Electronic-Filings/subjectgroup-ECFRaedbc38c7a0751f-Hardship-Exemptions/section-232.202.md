@@ -1,5 +1,7 @@
 ##### § 232.202 Continuing hardship exemption. #####
 
+Link to an amendment published at 90 FR 7360, Jan. 21, 2025.
+
 (a) An electronic filer may apply in writing for a continuing hardship exemption if all or part of a filing, group of filings or submission, other than a Form ID (§§ 239.63, 249.446, 269.7, and 274.402 of this chapter), a Form D (§ 239.500 of this chapter), or an Asset Data File (§ 232.11), otherwise to be filed or submitted in electronic format cannot be so filed or submitted, as applicable, without undue burden or expense. Such written application shall be made at least ten business days before the required due date of the filing(s) or submission(s) or the proposed filing or submission date, as appropriate, or within such shorter period as may be permitted. The written application shall contain the information set forth in paragraph (b) of this section.
 
 (1) The application shall not be deemed granted until the applicant is notified by the Commission or the staff.

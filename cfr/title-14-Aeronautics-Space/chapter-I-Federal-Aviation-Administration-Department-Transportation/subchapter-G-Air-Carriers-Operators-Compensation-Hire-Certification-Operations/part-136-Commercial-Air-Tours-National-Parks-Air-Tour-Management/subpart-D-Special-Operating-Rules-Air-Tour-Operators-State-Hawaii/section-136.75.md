@@ -1,8 +1,6 @@
 ##### § 136.75 Equipment and requirements. #####
 
-Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
-
-(a) *Flotation equipment.* No person may conduct an air tour in Hawaii in a rotorcraft beyond the shore of any island, regardless of whether the rotorcraft is within gliding distance of the shore, unless:
+(a) *Flotation equipment.* No person may conduct an air tour in Hawaii in a single-engine rotorcraft beyond the shore of any island, regardless of whether the rotorcraft is within gliding distance of the shore, unless:
 
 (1) The rotorcraft is amphibious or is equipped with floats adequate to accomplish a safe emergency ditching and approved flotation gear is easily accessible for each occupant; or
 
@@ -37,3 +35,5 @@ Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
 (2) Use of required flotation equipment; and
 
 (3) Emergency egress from the aircraft in event of a water landing.
+
+[Docket No. FAA-2022-1563, Amdt. No. 136-2, 88 FR 48092, July 26, 2023, as amended by FAA-2023-1275, Amdt. No. 136-4, 89 FR 92488, Nov. 21, 2024]

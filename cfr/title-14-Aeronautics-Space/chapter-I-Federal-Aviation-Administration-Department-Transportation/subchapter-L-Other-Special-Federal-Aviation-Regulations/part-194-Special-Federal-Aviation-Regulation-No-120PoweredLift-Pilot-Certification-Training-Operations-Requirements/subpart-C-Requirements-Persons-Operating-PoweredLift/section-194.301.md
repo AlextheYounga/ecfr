@@ -1,0 +1,3 @@
+##### § 194.301 Applicability. #####
+
+Unless otherwise specified by this part, persons operating powered-lift must continue to comply with rules applicable to all aircraft in parts 91, 135, and 136 of this chapter, as applicable to the operation. In addition, any sections or paragraphs within sections under parts 91 and 135 that refer to specific categories of aircraft and that are not referenced in the SFAR table to § 194.302 or § 194.306, do not apply to powered-lift.

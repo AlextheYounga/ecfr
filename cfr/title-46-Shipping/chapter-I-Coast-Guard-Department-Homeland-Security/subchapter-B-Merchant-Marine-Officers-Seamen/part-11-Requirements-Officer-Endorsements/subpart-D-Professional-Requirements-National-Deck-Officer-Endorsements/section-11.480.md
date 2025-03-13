@@ -1,7 +1,5 @@
 ##### § 11.480 Radar Observer. #####
 
-Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
-
 (a) This section contains the requirements that an applicant must meet to qualify as a Radar Observer.
 
 (b) If an applicant meets the requirements of this section, one of the following Radar Observer endorsements will be added to their MMC:
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (c) Radar Observer-Unlimited is valid on all waters. Radar Observer-Inland Waters and GIWW is valid only for those waters other than the Great Lakes covered by the Inland Navigational Rules. Radar Observer-Rivers is valid only on any river, canal, or similar body of water designated by the OCMI, but not beyond the boundary line.
 
-(d) Except as provided by paragraphs (f) or (g) of this section, each applicant for a Radar Observer endorsement or for renewal of a Radar Observer endorsement must complete the appropriate course approved by the Coast Guard, receive the appropriate certificate of training, and present the certificate or a copy of the certificate to the Coast Guard in person, by mail, fax, or other electronic means.
+(d) Except as provide by paragraphs (f) or (g) of this section, each applicant for a Radar Observer endorsement or for renewal of a Radar Observer endorsement must complete the appropriate course approved by the Coast Guard, receive the appropriate certificate of training, and present the certificate or a copy of the certificate to the Coast Guard in person, by mail, or other electronic means.
 
 (e) A Radar Observer endorsement issued under this section is valid until the expiration of the mariner's MMC.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (h) An applicant for renewal of an MMC who does not provide evidence of meeting the renewal requirements of paragraph (d), (f), or (g) of this section will not have a Radar Observer endorsement placed on their MMC.
 
-[USCG-2021-0097, 89 FR 93091, Nov. 25, 2024]
+[USCG-2021-0097, 89 FR 93091, Nov. 25, 2024, as amended by USCG-2021-0834, 89 FR 102336, Dec. 17, 2024]

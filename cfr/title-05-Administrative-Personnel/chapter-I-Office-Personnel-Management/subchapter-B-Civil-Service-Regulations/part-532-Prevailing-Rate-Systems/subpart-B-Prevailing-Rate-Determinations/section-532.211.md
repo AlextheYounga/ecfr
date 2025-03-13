@@ -1,5 +1,7 @@
 ##### § 532.211 Criteria for establishing appropriated fund wage areas. #####
 
+Link to an amendment published at 90 FR 7439, Jan. 21, 2025.
+
 (a) Each wage area shall consist of one or more survey areas along with nonsurvey areas, if any.
 
 (1) *Survey area:* A survey area is composed of the counties, parishes, cities, or townships in which survey data are collected. Except in very unusual circumstances, a wage area that includes a Metropolitan Statistical Area shall have the Metropolitan Statistical Area as the survey area or part of the survey area.

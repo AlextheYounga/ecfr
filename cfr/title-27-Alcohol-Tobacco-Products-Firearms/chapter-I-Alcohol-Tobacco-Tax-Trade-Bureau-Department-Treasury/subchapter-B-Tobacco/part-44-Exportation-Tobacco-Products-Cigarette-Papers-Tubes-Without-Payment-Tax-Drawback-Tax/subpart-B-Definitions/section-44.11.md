@@ -78,4 +78,4 @@ Manufacturer of tobacco products. (1) Any person who manufactures cigars, cigare
 
 *Zone restricted status.* The status assigned to tobacco products and cigarette papers and cigarette tubes taken into a foreign trade zone from the customs territory of the United States for the sole purpose of exportation or storage until exported.
 
-[T.D. ATF-48, 43 FR 13556, Mar. 31, 1978]Editorial Note:For Federal Register citations affecting § 44.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. ATF-48, 43 FR 13556, Mar. 31, 1978] Editorial Note:For Federal Register citations affecting § 44.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

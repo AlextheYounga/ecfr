@@ -20,4 +20,4 @@
 
 (6) With respect to an election that applies to paperbacks or records, the initial opening balance (computed in accordance with section 458(e)) in the suspense account for each trade or business for which an election is made.
 
-The statement of election should be made on a Form 3115 which need contain no information other than that required by this paragraph. [T.D. 7628, 44 FR 33398, June 11, 1979. Redesignated by T.D. 8426, 57 FR 38599, Aug. 26, 1992]
+The statement of election should be made on a Form 3115 which need contain no information other than that required by this paragraph.[T.D. 7628, 44 FR 33398, June 11, 1979. Redesignated by T.D. 8426, 57 FR 38599, Aug. 26, 1992]

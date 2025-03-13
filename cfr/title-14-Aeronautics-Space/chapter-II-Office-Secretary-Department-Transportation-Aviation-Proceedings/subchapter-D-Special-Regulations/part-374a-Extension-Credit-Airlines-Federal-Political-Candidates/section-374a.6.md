@@ -6,7 +6,7 @@
 
 (2) The reports required by this paragraph (b) shall be filed with the Office of Airline Information not later than the 20th day following the end of the calendar month to which the report pertains. They shall include the following data: (i) Name of account; (ii) the credit limit established for such account; (iii) the balance, if any, of the amount payable for transportation not paid for in advance; (iv) any unpaid balance of the charges for such transportation as of the last day of the month covered by the report, and the length of time that such balance has remained unpaid; and (v) a description of the type and value of any bond, collateral, or other security securing such unpaid balance.
 
-(3) The report required by this paragraph (b) shall be in the form attached hereto as appendix A. 1
+(3) The report required by this paragraph (b) shall be in the form attached hereto as appendix A.1
 
 1 Filed as part of the original document.
 

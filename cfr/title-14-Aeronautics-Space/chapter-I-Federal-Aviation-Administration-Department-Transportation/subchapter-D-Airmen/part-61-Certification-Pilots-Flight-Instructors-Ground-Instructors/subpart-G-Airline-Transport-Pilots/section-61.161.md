@@ -2,7 +2,7 @@
 
 (a) A person who is applying for an airline transport pilot certificate with a rotorcraft category and helicopter class rating, must have at least 1,200 hours of total time as a pilot that includes at least:
 
-(1) 500 hours of cross-country flight time;
+(1) 500 hours of cross-country time;
 
 (2) 100 hours of night flight time, of which 15 hours are in helicopters;
 
@@ -24,4 +24,4 @@
 
 (e) An applicant is entitled to an airline transport pilot certificate without the ICAO limitation specified under paragraph (d) of this section when the applicant presents satisfactory evidence of having met the ICAO requirements under paragraph (d) of this section and otherwise meets the aeronautical experience requirements of this section.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40906, July 30, 1997; Amdt. 61-104, 63 FR 20289, Apr. 23, 1998; Docket FAA-2016-6142, Amdt. 61-142, 83 FR 30279, June 27, 2018; Docket No. FAA-2023-1351; Amdt. No. 61-156, 89 FR 80340, Oct. 2, 2024]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40906, July 30, 1997; Amdt. 61-104, 63 FR 20289, Apr. 23, 1998; Docket FAA-2016-6142, Amdt. 61-142, 83 FR 30279, June 27, 2018; Docket No. FAA-2023-1351; Amdt. No. 61-156, 89 FR 80340, Oct. 2, 2024; FAA-2023-1275; Amdt. No. 61-157, 89 FR 92483, Nov. 21, 2024]

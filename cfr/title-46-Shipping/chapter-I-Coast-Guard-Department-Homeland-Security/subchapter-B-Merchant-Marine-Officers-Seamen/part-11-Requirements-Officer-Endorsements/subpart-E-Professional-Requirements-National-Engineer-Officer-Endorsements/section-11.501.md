@@ -1,7 +1,5 @@
 ##### § 11.501 Grades and types of national engineer endorsements issued. #####
 
-Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
-
 (a) National engineer endorsements are issued in the grades of—
 
 (1) Chief Engineer;
@@ -36,14 +34,14 @@ Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (2) Assistant Engineer-Limited may serve on ocean and near-coastal waters.
 
-(c) Engineer Licenses or MMC endorsements issued in the grades of Designated Duty Engineer of steam, motor, and/or gas turbine-propelled vessels allow the holder to serve within stated propulsion power limitations on vessels of less than 500 GRT in the following manner:
+(c) Engineer MMC endorsements issued in the grades of Designated Duty Engineer of steam, motor, and/or gas turbine-propelled vessels allow the holder to serve within stated propulsion power limitations on vessels of less than 500 GRT in the following manner:
 
 (1) Designated Duty Engineers-Limited to vessels of less than 1,000 HP or 4,000 HP may serve only on near-coastal or inland waters.
 
 (2) Designated Duty Engineers-Unlimited may serve on any waters.
 
-(d) An engineer officer License or MMC endorsement authorizes service on steam, motor, or gas turbine-propelled vessels or may authorize all modes of propulsion.
+(d) An engineer officer MMC endorsement authorizes service on steam, motor, or gas turbine-propelled vessels or may authorize all modes of propulsion.
 
-(e) A person holding an engineer License or MMC endorsement that is restricted to near-coastal waters may serve within the limitations of the License or MMC upon near-coastal, Great Lakes, and inland waters.
+(e) A person holding an engineer MMC endorsement that is restricted to near-coastal waters may serve within the limitations of the MMC upon near-coastal, Great Lakes, and inland waters.
 
-[USCG-2021-0097, 89 FR 93092, Nov. 25, 2024]
+[USCG-2021-0097, 89 FR 93092, Nov. 25, 2024, as amended by USCG-2021-0834, 89 FR 102336, Dec. 17, 2024]

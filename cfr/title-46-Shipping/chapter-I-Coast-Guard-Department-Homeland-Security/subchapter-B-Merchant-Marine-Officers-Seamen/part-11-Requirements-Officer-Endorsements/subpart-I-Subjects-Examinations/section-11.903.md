@@ -1,7 +1,5 @@
 ##### § 11.903 Officer endorsements requiring examinations. #####
 
-Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
-
 (a) The following officer endorsements require examinations for issuance:
 
 (1) Chief Mate of ocean or near-coastal self-propelled vessels of unlimited tonnage (examined at the management level).
@@ -88,7 +86,7 @@ Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (c) The following officer endorsements do not require examinations:
 
-(1) Master of oceans or near-coastal vessels of unlimited tonnage when upgrading from MMC officer endorsements, or a License as Chief Mate of oceans or near-coastal vessels of unlimited tonnage, provided the applicant has already been examined at the management level.
+(1) Master of oceans or near-coastal vessels of unlimited tonnage when upgrading from MMC officer endorsements, or an endorsement as Chief Mate of oceans or near-coastal vessels of unlimited tonnage, provided the applicant has already been examined at the management level.
 
 (2) Master of oceans or near-coastal vessels of unlimited tonnage when adding an endorsement as Offshore Installation Manager (OIM).
 
@@ -106,4 +104,4 @@ Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (9) Second Assistant Engineer when upgrading from Third Assistant Engineer, provided the applicant has already been examined at the operational level.
 
-[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58277, Sept. 29, 2014; USCG-2021-0097, 89 FR 93097, Nov. 25, 2024]
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58277, Sept. 29, 2014; USCG-2021-0097, 89 FR 93097, Nov. 25, 2024; USCG-2021-0834, 89 FR 102336, Dec. 17, 2024]

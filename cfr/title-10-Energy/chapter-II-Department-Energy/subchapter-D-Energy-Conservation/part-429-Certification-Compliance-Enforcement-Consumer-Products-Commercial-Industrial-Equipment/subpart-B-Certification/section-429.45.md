@@ -12,9 +12,7 @@ And, x is the sample mean; n is the number of samples; and xi is the ith sample;
 
 (ii) The upper 95 percent confidence limit (UCL) of the true mean divided by 1.10, where:
 
-![](/graphics/er09oc24.006.gif)
-
-And *x* is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.95 is the Student's t-Distribution Values for a 95 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A to this subpart).
+![](/graphics/er21ja25.084.gif)And x is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.95 is the Student's t-Distribution Values for a 95 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix A to this subpart).
 
 (3) The harvest rate of a basic model is the mean of the measured harvest rates for each tested unit of the basic model, based on the same tests to determine energy use and condenser water use, if applicable. Round the mean harvest rate to the nearest pound of ice per 24 hours (lb/24 h) for harvest rates above 50 lb/24 h; round the mean harvest rate to the nearest 0.1 lb/24 h for harvest rates less than or equal to 50 lb/24 h.
 
@@ -24,4 +22,4 @@ And *x* is the sample mean; *s* is the sample standard deviation; *n* is the num
 
 (3) For reporting, round harvest rate to the nearest 1 lb/24 h for harvest rates above 50 lb/24 h; round condenser water use to the nearest 1 gal/100 lb; and round energy use to the nearest 0.01 kWh/100 lb.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24776, May 2, 2011, as amended at 87 FR 65899, Nov. 1, 2022; 89 FR 82067, Oct. 9, 2024]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24776, May 2, 2011, as amended at 87 FR 65899, Nov. 1, 2022; 89 FR 82067, Oct. 9, 2024; 90 FR 6789, Jan. 21, 2025]

@@ -26,7 +26,7 @@ A single O&D Survey is conducted continuously by the large U.S. certificated air
 
 The Survey samples revenue passenger trips moving in whole or in part on domestic and/or international scheduled services of the carriers participating in the Survey. In general, these requirements do not apply to small certificated, all-cargo and all charter carriers.
 
-The source documents for the Survey data are passenger tickets. These data are collected from the “lifted” flight coupons of tickets (a portion of a multi-part ticket booklet of three 1 or more coupons, including one for each stage of the passenger's trip itinerary which is lifted by the carrier as the passenger boards a particular flight segment).
+The source documents for the Survey data are passenger tickets. These data are collected from the “lifted” flight coupons of tickets (a portion of a multi-part ticket booklet of three1 or more coupons, including one for each stage of the passenger's trip itinerary which is lifted by the carrier as the passenger boards a particular flight segment).
 
 1 Each ticket booklet is comprised of one or more *flight coupons* for passenger travel in a city-pair market, plus a *passenger coupon* (the traveler's receipt) and the *auditor coupon* (for the carrier's internal controls).
 
@@ -38,7 +38,7 @@ Prior to 1987, the Survey was generally based on a 10-percent sample of passenge
 
 Group tickets are included on the basis of a 10-percent sample when the number of passengers on such a group ticket is 10 or less. Group tickets with more than 10 passengers on each ticket are included on the basis of a 100 percent census, *i.e.,* all such tickets are sampled, regardless of serial number, and the total data listed are conformed to a 10 percent sample for inclusion in the O&D Survey.
 
-Following the selection of reportable flight coupons and the recording of data, each participating carrier shall edit and summarize 2 the data into a quarterly report to the Department.
+Following the selection of reportable flight coupons and the recording of data, each participating carrier shall edit and summarize2 the data into a quarterly report to the Department.
 
 2 These summarization procedures include showing two or more passengers with the same itinerary as one O&D record and compressing extremely lengthy itineraries (such as around-the-world tickets) into a standard trip stage length limit (which may be either seven or twenty-three stages, at the carrier's option), as explained in Section V.D.
 
@@ -79,7 +79,7 @@ D. [Reserved]
 
 E. All reports shall be filed with the Bureau of Transportation Statistics in a format specified in accounting and reporting directives issued by the Bureau of Transportation Statistics' Director of Airline Information.
 
-V. Selection of Sample and Recording of Data. 4
+V. Selection of Sample and Recording of Data.4
 
 4 Upon approval of the Director, Office of Airline Information, carriers may continue current reporting procedures (up to twenty-three stages of a passenger flight) and may report a uniform 10 percent sample of tickets lifted (each zero ending lifted coupon) without reducing the sample size from 10 percent to 1 percent for domestic major markets. Note that the domestic major markets will be reviewed each year at June 30, based on the prior 12 months O&D data, and the list amended as necessary. The list could remain static for more than a year, although it will be reviewed annually. Necessary amendments will be effective on January 1 of the following year.
 
@@ -133,7 +133,7 @@ D. *Recording of Data from Reportable Flight Coupons.* (1) The following items a
 
 (2) The individual items are to be recorded in the sequence of occurrence in the itinerary as follows:
 
-(a) All entries for *points* (airport codes 5) in an itinerary are to be recorded in three-letter airport code data to fit into the stage-length limitation (seven or twenty-three stages at the carrier's option), all airport codes are to be reported, including data on commuter, foreign, intra-state and other carriers' portions of itineraries. Normally codes are recorded as they appear on the ticket. However, if a code is obviously incorrect, *record the correct code.* For instance, if a ticket is coded DCA-NYC or Washington/National to New York when the flight stage actually operated from Washington, Dulles to Newark (EWR), record the correct airport code. When only name spellings of a city appear on the ticket for multi-airport cities (such as Washington, New York, San Francisco, or Los Angeles), record the specific *three letter airport code.* In cases where two airport codes are shown on the ticket for a point, such as when the passenger arrives at an airport such as San Francisco and departs from another local airport such as Oakland, record the code for the arrival airport, enter a surface segment indicator (—) to the departure airport, and record the departure airport code. (When the surface portion is at the beginning or end of an itinerary, the surface indicator is to be omitted). For example:
+(a) All entries for *points* (airport codes5) in an itinerary are to be recorded in three-letter airport code data to fit into the stage-length limitation (seven or twenty-three stages at the carrier's option), all airport codes are to be reported, including data on commuter, foreign, intra-state and other carriers' portions of itineraries. Normally codes are recorded as they appear on the ticket. However, if a code is obviously incorrect, *record the correct code.* For instance, if a ticket is coded DCA-NYC or Washington/National to New York when the flight stage actually operated from Washington, Dulles to Newark (EWR), record the correct airport code. When only name spellings of a city appear on the ticket for multi-airport cities (such as Washington, New York, San Francisco, or Los Angeles), record the specific *three letter airport code.* In cases where two airport codes are shown on the ticket for a point, such as when the passenger arrives at an airport such as San Francisco and departs from another local airport such as Oakland, record the code for the arrival airport, enter a surface segment indicator (—) to the departure airport, and record the departure airport code. (When the surface portion is at the beginning or end of an itinerary, the surface indicator is to be omitted). For example:
 
 5 Codes to be used are those appearing in the *Official Airline Guide* at the time the data are being recorded. If a code is not found in the OAG, contact the Director, Office of Airline Information (address inside front cover).
 
@@ -163,7 +163,7 @@ In the above example, the passenger trip stages or segments are compressed into 
 
 (c) Entries for fare-basis codes are to be taken from the “fare basis” and “fare description” portions of the ticket and simplified into the appropriate category, as shown below. No attempt shall be made to determine and record fare-basis codes for that portion of a conjunction ticket appearing in the ticket. Fare-basis codes are to be recorded in one-character alphabetic codes. The fare-basis codes are recorded as follows:
 
-C—Unrestricted Business Class D—Restricted Business Class F—Unrestricted First Class G—Restricted First Class X—Restricted Coach/Economy Class Y—Unrestricted Coach/Economy Class U—Unknown (This fare category is used when none is shown on a ticket coupon, or when a fare category is not discernible, or when two or more carrier fare codes are compressed into a single stage of a passenger trip).
+C—Unrestricted Business ClassD—Restricted Business ClassF—Unrestricted First ClassG—Restricted First ClassX—Restricted Coach/Economy ClassY—Unrestricted Coach/Economy ClassU—Unknown (This fare category is used when none is shown on a ticket coupon, or when a fare category is not discernible, or when two or more carrier fare codes are compressed into a single stage of a passenger trip).
 
 (d) In recording the number of passengers, each single-passenger ticket is to be recorded as one passenger. Tickets for infants under two years of age not occupying a seat are not to be counted. A revenue passenger is defined in Section X.
 

@@ -1,32 +1,36 @@
 ##### § 135.243 Pilot in command qualifications. #####
 
-Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
+(a) No certificate holder may use a person, nor may any person serve, as pilot in command in passenger-carrying operations-
 
-(a) No certificate holder may use a person, nor may any person serve, as pilot in command in passenger-carrying operations—
-
-(1) Of a turbojet airplane, of an airplane having a passenger-seat configuration, excluding each crewmember seat, of 10 seats or more, or of a multiengine airplane in a commuter operation as defined in part 119 of this chapter, unless that person holds an airline transport pilot certificate with appropriate category and class ratings and, if required, an appropriate type rating for that airplane.
+(1) Of a turbojet airplane, of an airplane having a passenger-seat configuration, excluding each crewmember seat, of 10 seats or more, or of a multiengine airplane in a commuter operation as defined in part 110 of this chapter, unless that person holds an airline transport pilot certificate with appropriate category and class ratings and, if required, an appropriate type rating for that airplane.
 
 (2) Of a helicopter in a scheduled interstate air transportation operation by an air carrier within the 48 contiguous states unless that person holds an airline transport pilot certificate, appropriate type ratings, and an instrument rating.
 
-(b) Except as provided in paragraph (a) of this section, no certificate holder may use a person, nor may any person serve, as pilot in command of an aircraft under VFR unless that person—
+(3) Of a turbojet-powered powered-lift, of a powered-lift having a passenger-seat configuration, excluding each crewmember seat, of 10 seats or more, or of a powered-lift in a commuter operation as defined in part 110 of this chapter, unless that person holds an airline transport pilot certificate with appropriate category rating, and appropriate type rating not limited to VFR for that powered-lift.
 
-(1) Holds at least a commercial pilot certificate with appropriate category and class ratings and, if required, an appropriate type rating for that aircraft; and
+(b) Except as provided in paragraph (a) of this section, no certificate holder may use a person, nor may any person serve, as pilot in command of an aircraft under VFR unless that person-
 
-(2) Has had at least 500 hours time as a pilot, including at least 100 hours of cross-country flight time, at least 25 hours of which were at night; and
+(1) Holds at least a commercial pilot certificate with appropriate category and class ratings; an appropriate type rating for that aircraft, if required; and for a powered-lift, a type rating for that aircraft not limited to VFR; and
+
+(2) Has had at least 500 hours' time as a pilot, including at least 100 hours of cross-country flight time, at least 25 hours of which were at night; and
 
 (3) For an airplane, holds an instrument rating or an airline transport pilot certificate with an airplane category rating; or
 
-(4) For helicopter operations conducted VFR over-the-top, holds a helicopter instrument rating, or an airline transport pilot certificate with a category and class rating for that aircraft, not limited to VFR.
+(4) For helicopter operations conducted VFR over-the-top, holds a helicopter instrument rating, or an airline transport pilot certificate with a category and class rating for that aircraft, not limited to VFR; or
 
-(c) Except as provided in paragraph (a) of this section, no certificate holder may use a person, nor may any person serve, as pilot in command of an aircraft under IFR unless that person—
+(5) For a powered-lift, holds an instrument-powered-lift rating or an airline transport pilot certificate with a powered-lift category rating.
 
-(1) Holds at least a commercial pilot certificate with appropriate category and class ratings and, if required, an appropriate type rating for that aircraft; and
+(c) Except as provided in paragraph (a) of this section, no certificate holder may use a person, nor may any person serve, as pilot in command of an aircraft under IFR unless that person-
+
+(1) Holds at least a commercial pilot certificate with appropriate category and class ratings, and if required, an appropriate type rating for that aircraft (the type rating for powered-lift may not be limited to VFR); and
 
 (2) Has had at least 1,200 hours of flight time as a pilot, including 500 hours of cross country flight time, 100 hours of night flight time, and 75 hours of actual or simulated instrument time at least 50 hours of which were in actual flight; and
 
 (3) For an airplane, holds an instrument rating or an airline transport pilot certificate with an airplane category rating; or
 
-(4) For a helicopter, holds a helicopter instrument rating, or an airline transport pilot certificate with a category and class rating for that aircraft, not limited to VFR.
+(4) For a helicopter, holds a helicopter instrument rating, or an airline transport pilot certificate with a category and class rating for that aircraft, not limited to VFR; or
+
+(5) For a powered-lift, holds an instrument-powered-lift rating or an airline transport pilot certificate with a powered-lift category rating.
 
 (d) Paragraph (b)(3) of this section does not apply when—
 
@@ -48,4 +52,4 @@ Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
 
 (7) The areas to be flown are approved by the responsible Flight Standards office and are listed in the certificate holder's operations specifications.
 
-[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978; Amdt. 135-1, 43 FR 49975, Oct. 26, 1978, as amended by Amdt. 135-15, 46 FR 30971, June 11, 1981; Amdt. 135-58, 60 FR 65939, Dec. 20, 1995; Docket FAA-2018-0119, Amdt. 135-139, 83 FR 9175, Mar. 5, 2018]
+[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978; Amdt. 135-1, 43 FR 49975, Oct. 26, 1978, as amended by Amdt. 135-15, 46 FR 30971, June 11, 1981; Amdt. 135-58, 60 FR 65939, Dec. 20, 1995; Docket FAA-2018-0119, Amdt. 135-139, 83 FR 9175, Mar. 5, 2018; FAA-2023-1275, Amdt. No. 135-147, 89 FR 92486, Nov. 21, 2024]

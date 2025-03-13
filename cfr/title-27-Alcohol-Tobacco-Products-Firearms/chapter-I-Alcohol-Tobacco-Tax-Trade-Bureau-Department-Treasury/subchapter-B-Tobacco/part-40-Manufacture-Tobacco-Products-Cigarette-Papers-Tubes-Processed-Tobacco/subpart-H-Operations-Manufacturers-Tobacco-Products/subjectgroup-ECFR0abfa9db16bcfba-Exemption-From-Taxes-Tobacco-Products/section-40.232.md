@@ -32,4 +32,4 @@ A manufacturer of tobacco products may use tobacco products for experimental pur
 
 (5) Disposition of any remaining tobacco products after the consignee's use.
 
-(Approved by the Office of Management and Budget under Control Number 1512-0562)(72 Stat. 1418, as amended; 26 U.S.C. 5704)[T.D. ATF-478, 67 FR 19333, Apr. 19, 2002]
+(Approved by the Office of Management and Budget under Control Number 1512-0562) (72 Stat. 1418, as amended; 26 U.S.C. 5704)[T.D. ATF-478, 67 FR 19333, Apr. 19, 2002]

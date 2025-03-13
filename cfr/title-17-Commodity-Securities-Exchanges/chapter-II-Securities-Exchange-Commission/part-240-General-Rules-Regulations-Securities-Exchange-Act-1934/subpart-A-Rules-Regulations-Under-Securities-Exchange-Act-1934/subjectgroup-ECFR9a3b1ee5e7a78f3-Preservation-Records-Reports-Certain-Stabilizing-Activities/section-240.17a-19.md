@@ -1,5 +1,7 @@
 ##### § 240.17a-19 Form X-17A-19 Report by national securities exchanges and registered national securities associations of changes in the membership status of any of their members. #####
 
+Link to an amendment published at 90 FR 7368, Jan. 21, 2025.
+
 Every national securities exchange and every registered national securities association shall file with the Commission at its principal office in Washington, DC, and with the Securities Investor Protection Corporation such information as is required by § 249.635 of this chapter on Form X-17A-19 within 5 business days of the occurrence of the initiation of the membership of any person or the suspension or termination of the membership of any member. Nothing in this section shall be deemed to relieve a national securities exchange or a registered national securities association of its responsibilities under § 240.17a-5(b)(5) except that, to the extent a national securities exchange or a registered national securities association promptly files a report on Form X-17A-19 including therewith, inter alia, information sufficient to satisfy the requirements of § 240.17a-5(b)(5), it shall not be required to file a report pursuant to § 240.17a-5(b). Upon the occurrence of the events described in this paragraph, every national securities exchange and every registered national securities association shall notify in writing such member of its responsibilities under § 240.17a-5(b).
 
 [45 FR 39841, June 12, 1980]

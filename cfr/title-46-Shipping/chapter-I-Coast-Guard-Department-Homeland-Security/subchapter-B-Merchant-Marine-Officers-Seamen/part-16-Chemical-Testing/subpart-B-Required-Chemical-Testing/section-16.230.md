@@ -1,7 +1,5 @@
 ##### § 16.230 Random testing requirements. #####
 
-Link to an amendment published at 89 FR 102340, Dec. 17, 2024.
-
 (a) Marine employers must establish programs for the chemical testing for dangerous drugs on a random basis of crewmembers on inspected vessels who:
 
 (1) Occupy a position, or perform the duties and functions of a position, required by the vessel's Certificate of Inspection;
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 102340, Dec. 17, 2024.
 
 (b) Marine employers must establish programs for the chemical testing for dangerous drugs on a random basis of crewmembers on uninspected vessels who:
 
-(1) Are required by law or regulation to hold a License issued by the Coast Guard in order to perform their duties on the vessel;
+(1) Are required by law or regulation to hold a credential issued by the Coast Guard in order to perform their duties on the vessel;
 
 (2) Perform duties and functions directly related to the safe operation of the vessel;
 
@@ -48,4 +46,4 @@ Link to an amendment published at 89 FR 102340, Dec. 17, 2024.
 
 (k) An individual may not be engaged or employed, including self-employment, on a vessel in a position as Master, operator, or Person in Charge for which a credential is required by law or regulation unless all crewmembers covered by this section are subject to the random testing requirements of this section.
 
-[CGD 90-014, 56 FR 31034, July 8, 1991, as amended by 59 FR 62227, Dec. 2, 1994; USCG-2006-24371, 74 FR 11264, Mar. 16, 2009]
+[CGD 90-014, 56 FR 31034, July 8, 1991, as amended by 59 FR 62227, Dec. 2, 1994; USCG-2006-24371, 74 FR 11264, Mar. 16, 2009; USCG-2021-0834, 89 FR 102340, Dec. 17, 2024]

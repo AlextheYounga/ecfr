@@ -10,7 +10,7 @@
 
 (1) Charge the appropriate account prescribed for each service purchased or expense element incurred expressly for the benefit of the air carrier regardless of whether incurred directly by the air carrier or through an agent or other intermediary, and (2) except as provided in objective account 77, Uncleared Expense Credits, credit or charge, as appropriate, the account prescribed for each expense element which may be involved in distributions of expenses between (i) separate operating entities of the air carrier, (ii) transport-related services and transport services, or transport functions, (iii) balance sheet and profit and loss elements, and (iv) the air carrier and others, when the expenses are incurred initially by or for the benefit of the air carrier. At the option of the air carrier, standard rates applicable to each objective account comprising a particular pool of expenses subject to assignment between two or more activities, may be established for proration purposes, provided the rates established are predicated upon the experience of the air carrier and are reviewed and modified as appropriate at least once each year.
 
-Transport Revenues 01 Passenger.
+Transport Revenues01 Passenger.
 
 (a) Record here revenue from the transportation of passengers by air, including infants transported at reduced fares, berth charges, surcharges for premium services and other similar charges. Revenue from airline employees, officers and directors, or other persons, except for ministers of religion, who are traveling under reduced-rate transportation authorized by 49 U.S.C. 41511(a) and 14 CFR part 223, as well as revenue from travel agents, cargo agents and tour conductors traveling at reduced fares, and revenues from service charges for passengers traveling on a nonrevenue basis shall be recorded in objective account 19 Air Transport—Other.
 
@@ -24,7 +24,7 @@ Record here revenue from the air transportation of passengers moving at either s
 
 Record here revenue from the air transportation of passengers moving at special fares reduced from the first class or premium fares which are predicated upon both the operation of specifically designated aircraft space and a reduction in the quality of service regularly and ordinarily provided.
 
-[ER-755, 37 FR 19726, Sept. 21, 1972, as amended by ER-980, 42 FR 36, Jan. 3, 1977; 60 FR 66723, Dec. 26, 1995] 05 Mail.
+[ER-755, 37 FR 19726, Sept. 21, 1972, as amended by ER-980, 42 FR 36, Jan. 3, 1977; 60 FR 66723, Dec. 26, 1995]05 Mail.
 
 (a) Record here revenue from the transportation by air of both United States and foreign mail.
 
@@ -44,7 +44,7 @@ Record here revenue from United States mail for which transportation by air is p
 
 Record here revenue from the transportation by air of mail other than United States mail.
 
-[ER-980, 42 FR 36, Jan. 3, 1977, as amended by Amdt. 241-58, 54 FR 5595, Feb. 6, 1989] 06 Property.
+[ER-980, 42 FR 36, Jan. 3, 1977, as amended by Amdt. 241-58, 54 FR 5595, Feb. 6, 1989]06 Property.
 
 (a) Record here revenue from the transportation by air of property including excess passenger baggage.
 
@@ -60,7 +60,7 @@ Record here revenue from the transportation by air of property other than passen
 
 Record here revenue from the transportation by air of passener baggage in excess of fixed free allowance.
 
-[ER-755, 37 FR 19726, Sept. 21, 1972, as amended by ER-1401, 50 FR 244, Jan. 3, 1985] 07 Charter.
+[ER-755, 37 FR 19726, Sept. 21, 1972, as amended by ER-1401, 50 FR 244, Jan. 3, 1985]07 Charter.
 
 (a) Record here the revenue from nonscheduled air transport services (except as otherwise required by profit and loss Account 86 Income from Nontransport Ventures) where the party receiving the transportation obtains exclusive use of an aircraft at either published tariff or other contractual rates and the remuneration paid by the party receiving transportation accrues directly to, and the responsibility for providing transportation is that of, the accounting air carrier. This account shall also include revenues from air transport services other than inter-airport services, whether scheduled or nonscheduled, where each passenger or shipment receiving transportation is individually documented and does not obtain exclusive use of an aircraft.
 
@@ -76,7 +76,7 @@ Record here revenue from the transportation of passengers and their personal bag
 
 Record here revenue from the transportation of property.
 
-[ER-755, 37 FR 19726, Sept. 21, 1972, as amended by ER-980, 42 FR 37, Jan. 3, 1977; ER-1401, 50 FR 244, Jan. 3, 1985]Transport Related Revenues and Expenses 08 Public Service Revenues (Subsidy).
+[ER-755, 37 FR 19726, Sept. 21, 1972, as amended by ER-980, 42 FR 37, Jan. 3, 1977; ER-1401, 50 FR 244, Jan. 3, 1985]Transport Related Revenues and Expenses08 Public Service Revenues (Subsidy).
 
 Record here amounts of compensation received pursuant to the provisions of 49 U.S.C. 41733 under rates established by the Department of Transportation for the provision of essential air service to small communities.
 
@@ -150,7 +150,7 @@ Record here amounts of compensation received pursuant to the provisions of 49 U.
 
 (c) This account shall be subdivided as follows by all air carrier groups:
 
-19.1 *Reservations Cancellation Fees.*19.9 *Miscellaneous Operating Revenue.*[ER-755, 37 FR 19726, Sept. 21, 1972, as amended by ER-820, 38 FR 24352, Sept. 7, 1973; ER-841, 39 FR 11997, Apr. 2, 1974; ER-980, 42 FR 37, Jan. 3, 1977; 60 FR 66723, Dec. 26, 1995]Transport Expenses 20 General Instructions.
+19.1 *Reservations Cancellation Fees.*19.9 *Miscellaneous Operating Revenue.*[ER-755, 37 FR 19726, Sept. 21, 1972, as amended by ER-820, 38 FR 24352, Sept. 7, 1973; ER-841, 39 FR 11997, Apr. 2, 1974; ER-980, 42 FR 37, Jan. 3, 1977; 60 FR 66723, Dec. 26, 1995]Transport Expenses20 General Instructions.
 
 (a) Each element of expense ordinarily associated with air transportation services shall be charged to the accounts established in this section in accordance with the objectives served by each expenditure. Basic objective accounts, applicable to all air carrier groups, are established for recording all expense elements. These basic accounts are in certain areas subdivided to provide greater detail for indicated air carrier groups.
 
@@ -360,7 +360,7 @@ Group I Air Carriers46.6 *Materials—Flight Equipment.*
 
 Record here the cost of materials and supplies consumed directly in the maintenance of flight equipment of all types and classes.
 
-All Air Carrier Groups 46.9 *Materials—Ground Property and Equipment.*
+All Air Carrier Groups46.9 *Materials—Ground Property and Equipment.*
 
 Record here the cost of materials and supplies consumed directly in the maintenance of ground property and equipment of all types and classes. The cost of materials and supplies consumed in the repair of general ground properties shall be charged to subfunction 5200 Direct Maintenance and materials and supplies consumed in the repair of maintenance buildings and equipment shall be charged to subfunction 5300 Maintenance Burden.
 
@@ -514,7 +514,7 @@ Record here mortization of the cost of intangibles not provided for otherwise.
 
 (b) This account shall be subdivided as follows:
 
-All Air Carrier Groups 75.1 *Depreciation—Airframes.*
+All Air Carrier Groups75.1 *Depreciation—Airframes.*
 
 Record here provisions for depreciation of property and equipment carried in balance subaccount 1601.1 Airframes.
 
@@ -530,7 +530,7 @@ Record here provisions for depreciation of spare airframe instruments and parts 
 
 Record here provisions for depreciation of spare aircraft engine instruments and parts carried in balance sheet subaccount 1608.5 Aircraft Engine Parts and Assemblies.
 
-All Air Carrier Groups 75.5 *Depreciation—Other Flight Equipment.*
+All Air Carrier Groups75.5 *Depreciation—Other Flight Equipment.*
 
 Record here provisions for depreciation of property and equipment carried in balance sheet account 1607 Improvements to Leased Flight Equipment (exclusive of capitalized overhauls accounted for on a deferral and amortization basis) and balance sheet subaccount 1608.9 Other Parts and Assemblies. Group I air carriers shall also include in this subaccount provisions for depreciation of property carried in balance sheet account 1608 Flight Equipment Rotable Parts and Assemblies.
 
@@ -560,7 +560,7 @@ Record here amortization charges applicable to flight equipment acquired under c
 
 Record here the amortization charges applicable to property and equipment, other than flight equipment, acquired under capital leases.
 
-[ER-1401, 50 FR 245, Jan. 3, 1985] 77 Uncleared Expense Credits.
+[ER-1401, 50 FR 245, Jan. 3, 1985]77 Uncleared Expense Credits.
 
 (a) Record here credits to operating expenses, which have not been cleared to the objective accounts to which applicable.
 
@@ -582,7 +582,7 @@ Record here credits to operating expenses, from other than operations under airc
 
 This classification is established for purposes of control by the BTS and shall include all charges to operating expenses for maintenance of flight equipment of all types and classes.
 
-[ER-755, 37 FR 19726, Sept. 21, 1972, as amended at 60 FR 66723, Dec. 26, 1995; Doc. No. DOT-OST-2014-0140, 84 FR 15931, Apr. 16, 2019] 79 Applied Burden Debit/Credit.
+[ER-755, 37 FR 19726, Sept. 21, 1972, as amended at 60 FR 66723, Dec. 26, 1995; Doc. No. DOT-OST-2014-0140, 84 FR 15931, Apr. 16, 2019]79 Applied Burden Debit/Credit.
 
 (a) This classification is established only for purposes of control by the BTS and reporting on Form 41 by air carriers, and shall reflect all maintenance burden applied in accordance with the provisions of section 24, schedule P-5 of this system of accounts and reports.
 

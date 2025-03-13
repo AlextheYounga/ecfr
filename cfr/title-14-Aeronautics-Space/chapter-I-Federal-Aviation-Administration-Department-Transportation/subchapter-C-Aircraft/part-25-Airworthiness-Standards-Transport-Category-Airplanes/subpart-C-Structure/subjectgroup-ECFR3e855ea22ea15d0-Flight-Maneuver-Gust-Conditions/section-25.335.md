@@ -32,7 +32,7 @@ The selected design airspeeds are equivalent airspeeds (EAS). Estimated values o
 
 (1) VB may not be less than
 
-![](/graphics/er09fe96.016.gif)where— VS1 = the 1-g stalling speed based on CNAmax with the flaps retracted at the particular weight under consideration; Vc = design cruise speed (knots equivalent airspeed); Uref = the reference gust velocity (feet per second equivalent airspeed) from § 25.341(a)(5)(i); w = average wing loading (pounds per square foot) at the particular weight under consideration.![](/graphics/er09fe96.017.gif)ρ = density of air (slugs/ft3); c = mean geometric chord of the wing (feet); g = acceleration due to gravity (ft/sec2); a = slope of the airplane normal force coefficient curve, CNA per radian;
+![](/graphics/er09fe96.016.gif)where—VS1 = the 1-g stalling speed based on CNAmax with the flaps retracted at the particular weight under consideration;Vc = design cruise speed (knots equivalent airspeed);Uref = the reference gust velocity (feet per second equivalent airspeed) from § 25.341(a)(5)(i);w = average wing loading (pounds per square foot) at the particular weight under consideration.![](/graphics/er09fe96.017.gif)ρ = density of air (slugs/ft3);c = mean geometric chord of the wing (feet);g = acceleration due to gravity (ft/sec2);a = slope of the airplane normal force coefficient curve, CNA per radian;
 
 (2) At altitudes where VC is limited by Mach number—
 

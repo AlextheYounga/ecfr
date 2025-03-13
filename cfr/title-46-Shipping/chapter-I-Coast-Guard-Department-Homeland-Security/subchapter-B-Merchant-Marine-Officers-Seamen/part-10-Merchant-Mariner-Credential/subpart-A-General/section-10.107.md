@@ -1,7 +1,5 @@
 ##### § 10.107 Definitions in subchapter B. #####
 
-Link to an amendment published at 89 FR 102332, Dec. 17, 2024.
-
 (a) With respect to part 16 of this subchapter only, if the definitions in paragraph (b) of this section differ from those set forth in § 16.105, the definition set forth in § 16.105 applies.
 
 (b) As used in this subchapter, the following terms apply only to merchant marine personnel credentialing and the manning of vessels subject to the manning provisions in the navigation and shipping laws of the United States:
@@ -280,7 +278,7 @@ Link to an amendment published at 89 FR 102332, Dec. 17, 2024.
 
 *Rating endorsement* is an annotation on an MMC that allows a mariner to serve in those capacities set out in § 10.109.
 
-*Regional examination center* or *REC* means a field office of the National Maritime Center that receives and screens credential applications, conducts approved course oversight, and administers Coast Guard examinations as required by this subchapter.
+*Regional examination center* or *REC* means a field office of the National Maritime Center that performs activities as required by this subchapter on behalf of the National Maritime Center.
 
 *Rest* means a period of time during which the person concerned is off duty, is not performing work (which includes administrative tasks such as chart correction or preparation of port-entry documents), and is allowed to sleep without interruption.
 
@@ -368,6 +366,8 @@ Link to an amendment published at 89 FR 102332, Dec. 17, 2024.
 
 (5) Those waters specified in 33 CFR 89.25.
 
+*Written, writing, or in writing* means handwritten in ink, mechanically or electronically printed, or any form of expression that can be read, reproduced, or later communicated including electronically submitted and stored information.
+
 *Year* means 360 days for the purpose of complying with the service requirements of this subchapter.
 
-[USCG-2004-17914, 78 FR 77882, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93054, Nov. 25, 2024]
+[USCG-2004-17914, 78 FR 77882, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93054, Nov. 25, 2024; USCG-2021-0834, 89 FR 102332, Dec. 17, 2024]

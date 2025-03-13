@@ -1,7 +1,5 @@
 ##### § 12.501 General requirements for a Qualified Member of the Engine Department. #####
 
-Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
-
 (a) *General.* A Qualified Member of the Engine Department (QMED) is any person below officer and above the rating of Coal Passer or Wiper, who holds an MMC or MMD endorsed as QMED by the Coast Guard.
 
 (b) *Categories.* (1) Each QMED rating must be endorsed separately, unless the applicant qualifies for all QMED ratings, in which case the endorsement will read “QMED—any rating.” The ratings are—
@@ -28,7 +26,7 @@ Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (2) Pass the prescribed physical and medical examination requirements specified in 46 CFR Part 10, subpart C;
 
-(3) Present evidence of having passed a chemical test for dangerous drugs or of having qualified for an exemption from testing, as described in § 16.220 of this subchapter;
+(3) Provide evidence of having passed a chemical test for dangerous drugs or of having qualified for an exemption from testing, as described in § 16.220 of this subchapter;
 
 (4) Meet the sea service or training requirements in § 12.503 of this subpart;
 
@@ -36,4 +34,4 @@ Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (6) Speak and understand the English language as would be required in performing the general duties of QMED and during an emergency aboard ship.
 
-[USCG-2004-17914, 78 FR 77975, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93101, Nov. 25, 2024]
+[USCG-2004-17914, 78 FR 77975, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93101, Nov. 25, 2024; USCG-2021-0834, 89 FR 102336, Dec. 17, 2024]

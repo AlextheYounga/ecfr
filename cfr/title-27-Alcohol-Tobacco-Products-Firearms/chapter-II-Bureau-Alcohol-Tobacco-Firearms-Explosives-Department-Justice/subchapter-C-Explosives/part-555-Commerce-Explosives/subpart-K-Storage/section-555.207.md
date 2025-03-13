@@ -14,17 +14,17 @@ A type 1 magazine is a permanent structure: a building, an igloo or “Army-type
 
 (5) *Foundations.* Foundations are to be constructed of brick, concrete, cement block, stone, or wood posts. If piers or posts are used, in lieu of a continuous foundation, the space under the buildings is to be enclosed with metal.
 
-(6) *Roof.* Except for buildings with fabricated metal roofs, the outer roof is to be covered with no less than number 26-guage iron or aluminum, fastened to at least7/8 inch sheathing.
+(6) *Roof.* Except for buildings with fabricated metal roofs, the outer roof is to be covered with no less than number 26-guage iron or aluminum, fastened to at least 7/8 inch sheathing.
 
 (7) *Bullet-resistant ceilings or roofs.* Where it is possible for a bullet to be fired directly through the roof and into the magazine at such an angle that the bullet would strike the explosives within, the magazine is to be protected by one of the following methods:
 
 (i) A sand tray lined with a layer of building paper, plastic, or other nonporous material, and filled with not less than four inches of coarse, dry sand, and located at the tops of inner walls covering the entire ceiling area, except that portion necessary for ventilation.
 
-(ii) A fabricated metal roof constructed of3/16-inch plate steel lined with four inches of hardwood. (For each additional1/16 inch of plate steel, the hardwood lining may be decreased one inch.)
+(ii) A fabricated metal roof constructed of 3/16-inch plate steel lined with four inches of hardwood. (For each additional 1/16 inch of plate steel, the hardwood lining may be decreased one inch.)
 
-(8) *Doors.* All doors are to be constructed of not less than1/4 inch plate steel and lined with at least two inches of hardwood. Hinges and hasps are to be attached to the doors by welding, riveting or bolting (nuts on inside of door). They are to be installed in such a manner that the hinges and hasps cannot be removed when the doors are closed and locked.
+(8) *Doors.* All doors are to be constructed of not less than 1/4 inch plate steel and lined with at least two inches of hardwood. Hinges and hasps are to be attached to the doors by welding, riveting or bolting (nuts on inside of door). They are to be installed in such a manner that the hinges and hasps cannot be removed when the doors are closed and locked.
 
-(9) *Locks.* Each door is to be equipped with (i) two mortise locks; (ii) two padlock fastened in separate hasps and staples; (iii) a combination of a mortise lock and a padlock; (iv) a mortise lock that requires two keys to open; or (v) a three-point lock. Padlocks must have at least five tumblers and a casehardened shackle of at least3/8 inch diameter. Padlocks must be protected with not less than1/4 inch steel hoods constructed so as to prevent sawing or lever action on the locks, hasps, and staples. These requirements do not apply to magazine doors that are adequately secured on the inside by means of a bolt, lock, or bar that cannot be actuated from the outside.
+(9) *Locks.* Each door is to be equipped with (i) two mortise locks; (ii) two padlock fastened in separate hasps and staples; (iii) a combination of a mortise lock and a padlock; (iv) a mortise lock that requires two keys to open; or (v) a three-point lock. Padlocks must have at least five tumblers and a casehardened shackle of at least 3/8 inch diameter. Padlocks must be protected with not less than 1/4 inch steel hoods constructed so as to prevent sawing or lever action on the locks, hasps, and staples. These requirements do not apply to magazine doors that are adequately secured on the inside by means of a bolt, lock, or bar that cannot be actuated from the outside.
 
 (10) *Ventilation.* Ventilation is to be provided to prevent dampness and heating of stored explosive materials. Ventilation openings must be screened to prevent the entrance of sparks. Ventilation openings in side walls and foundations must be offset or shielded for bullet-resistant purposes. Magazines having foundation and roof ventilators with the air circulating between the side walls and the floors and between the side walls and the ceiling must have a wooden lattice lining or equivalent to prevent the packages of explosive materials from being stacked against the side walls and blocking the air circulation.
 

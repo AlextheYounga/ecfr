@@ -18,4 +18,4 @@
 
 (d) *Correction factor for cylinder barrel temperatures.* Cylinder barrel temperatures must be corrected by adding to them 0.7 times the difference between the maximum ambient atmospheric temperature and the temperature of the ambient air at the time of the first occurrence of the maximum cylinder barrel temperature recorded during the cooling test.
 
-(Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c) of the Dept. of Transportation Act (49 U.S.C. 1655(c))) [Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-12, 41 FR 55473, Dec. 20, 1976; Amdt. 29-15, 43 FR 2327, Jan. 16, 1978; Amdt. 29-26, 53 FR 34218, Sept. 2, 1988]
+(Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c) of the Dept. of Transportation Act (49 U.S.C. 1655(c)))[Doc. No. 5084, 29 FR 16150, Dec. 3, 1964, as amended by Amdt. 29-12, 41 FR 55473, Dec. 20, 1976; Amdt. 29-15, 43 FR 2327, Jan. 16, 1978; Amdt. 29-26, 53 FR 34218, Sept. 2, 1988]

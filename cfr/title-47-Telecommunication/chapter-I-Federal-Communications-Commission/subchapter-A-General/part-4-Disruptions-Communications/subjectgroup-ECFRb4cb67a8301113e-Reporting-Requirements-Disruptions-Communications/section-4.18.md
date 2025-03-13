@@ -1,5 +1,7 @@
 ##### § 4.18 Mandatory Disaster Information Reporting System (DIRS) reporting for Cable Communications, Wireless, Wireline, and VoIP providers. #####
 
+Link to an amendment published at 90 FR 6840, Jan. 21, 2025.
+
 (a) Cable Communications, Wireline, Wireless, and Interconnected VoIP providers shall be required to report their infrastructure status information each day in the Disaster Information Reporting System (DIRS) when the Commission activates DIRS in geographic areas in which they provide service, even when their reportable infrastructure has not changed compared to the prior day. Cable Communications, Wireless, Wireline and Interconnected VoIP providers are subject to mandated reporting in DIRS and shall:
 
 (1) Provide daily reports on their infrastructure status from the start of DIRS activation until DIRS has been deactivated.

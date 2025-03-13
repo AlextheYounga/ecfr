@@ -2,7 +2,7 @@
 
 (a) *Formula.* To every 100 gallons of alcohol add:
 
-One pound of sucrose octaacetate and1/8 gallon of *tert*-butyl alcohol.
+One pound of sucrose octaacetate and 1/8 gallon of *tert*-butyl alcohol.
 
 (b) *Authorized uses.* (1) As a solvent:
 

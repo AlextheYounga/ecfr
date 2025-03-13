@@ -86,4 +86,4 @@ Example 1.G, a citizen and resident of Country Y, a country with which the Unite
 
 (3) *Effective/applicability date.* Paragraphs (b)(1)(i) and (ii), (b)(2)(iv)(D), and (c)(5)(i) of this section apply to withholding certificates and treaty statements provided on or after January 6, 2017.
 
-[T.D. 8734, 62 FR 53458, Oct. 14, 1997] Editorial Note:For Federal Register citations affecting § 1.1441-6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 8734, 62 FR 53458, Oct. 14, 1997]Editorial Note:For Federal Register citations affecting § 1.1441-6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

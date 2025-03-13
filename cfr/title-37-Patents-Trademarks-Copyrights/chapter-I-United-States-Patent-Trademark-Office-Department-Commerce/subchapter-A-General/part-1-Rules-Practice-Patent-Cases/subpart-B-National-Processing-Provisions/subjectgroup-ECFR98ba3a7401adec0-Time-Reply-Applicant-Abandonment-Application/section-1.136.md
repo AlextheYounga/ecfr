@@ -2,7 +2,7 @@
 
 Link to an amendment published at 89 FR 92008, Nov. 20, 2024.
 
-(a)(1) If an applicant is required to reply within a nonstatutory or shortened statutory time period, applicant may extend the time period for reply up to the earlier of the expiration of any maximum period set by statute or five months after the time period set for reply, if a petition for an extension of time and the fee set in § 1.17(a) are filed, unless:
+(a)(1) If an applicant is required to reply within a nonstatutory or shortened statutory time period, applicant may extend the time period for reply up to the earlier of the expiration of any maximum period set by statute or five months after the time period set for reply, if a petition for an extension of time and the fee set in § 1.17(a) or (u) are filed, unless:
 
 (i) Applicant is notified otherwise in an Office action;
 
@@ -30,4 +30,4 @@ Link to an amendment published at 89 FR 92008, Nov. 20, 2024.
 
 (d) See § 1.550(c) for extensions of time in *ex parte* reexamination proceedings, § 1.956 for extensions of time in *inter partes* reexamination proceedings; §§ 41.4(a) and 41.121(a)(3) of this chapter for extensions of time in contested cases before the Patent Trial and Appeal Board; § 42.5(c) of this chapter for extensions of time in trials before the Patent Trial and Appeal Board; and § 90.3 of this chapter for extensions of time to appeal to the U.S. Court of Appeals for the Federal Circuit or to commence a civil action.
 
-[62 FR 53194, Oct. 10, 1997, as amended at 65 FR 54674, Sept. 8, 2000; 65 FR 76773, Dec. 7, 2000; 66 FR 21092, Apr. 27, 2001; 69 FR 50000, Aug. 12, 2004; 69 FR 56543, Sept. 21, 2004; 70 FR 3891, Jan. 27, 2005; 72 FR 46842, Aug. 21, 2007; 74 FR 52691, Oct. 14, 2009; 77 FR 46625, Aug. 6, 2012; 77 FR 48821, Aug. 14, 2012; 78 FR 62405, Oct. 21, 2013]
+[62 FR 53194, Oct. 10, 1997, as amended at 65 FR 54674, Sept. 8, 2000; 65 FR 76773, Dec. 7, 2000; 66 FR 21092, Apr. 27, 2001; 69 FR 50000, Aug. 12, 2004; 69 FR 56543, Sept. 21, 2004; 70 FR 3891, Jan. 27, 2005; 72 FR 46842, Aug. 21, 2007; 74 FR 52691, Oct. 14, 2009; 77 FR 46625, Aug. 6, 2012; 77 FR 48821, Aug. 14, 2012; 78 FR 62405, Oct. 21, 2013; 89 FR 92008, Nov. 20, 2024]

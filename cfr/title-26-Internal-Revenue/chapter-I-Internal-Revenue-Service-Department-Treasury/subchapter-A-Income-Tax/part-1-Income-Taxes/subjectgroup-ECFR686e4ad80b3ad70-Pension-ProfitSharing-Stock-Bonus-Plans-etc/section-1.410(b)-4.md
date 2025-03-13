@@ -26,9 +26,9 @@
 
 (E) The extent to which the plan's average benefit percentage (determined under § 1.410(b)-5) exceeds 70 percent.
 
-(4) *Definitions*—(i) *Safe harbor percentage.* The safe harbor percentage of an employer is 50 percent, reduced by 3/4 of a percentage point for each whole percentage point by which the nonhighly compensated employee concentration percentage exceeds 60 percent. See paragraph (c)(4)(iv) for a table that illustrates the safe harbor percentage and unsafe harbor percentage.
+(4) *Definitions*—(i) *Safe harbor percentage.* The safe harbor percentage of an employer is 50 percent, reduced by3/4 of a percentage point for each whole percentage point by which the nonhighly compensated employee concentration percentage exceeds 60 percent. See paragraph (c)(4)(iv) for a table that illustrates the safe harbor percentage and unsafe harbor percentage.
 
-(ii) *Unsafe harbor percentage.* The unsafe harbor percentage of an employer is 40 percent, reduced by 3/4 of a percentage point for each whole percentage point by which the nonhighly compensated employee concentration percentage exceeds 60 percent. However, in no case is the unsafe harbor percentage less than 20 percent.
+(ii) *Unsafe harbor percentage.* The unsafe harbor percentage of an employer is 40 percent, reduced by3/4 of a percentage point for each whole percentage point by which the nonhighly compensated employee concentration percentage exceeds 60 percent. However, in no case is the unsafe harbor percentage less than 20 percent.
 
 (iii) *Nonhighly compensated employee concentration percentage.* The nonhighly compensated employee concentration percentage of an employer is the percentage of all the employees of the employer who are nonhighly compensated employees. Employees who are excludable employees for purposes of the average benefit test are not taken into account.
 

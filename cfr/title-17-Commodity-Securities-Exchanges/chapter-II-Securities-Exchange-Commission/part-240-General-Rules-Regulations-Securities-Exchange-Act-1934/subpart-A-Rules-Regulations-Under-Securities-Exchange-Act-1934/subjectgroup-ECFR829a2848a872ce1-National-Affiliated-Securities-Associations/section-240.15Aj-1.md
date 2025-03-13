@@ -1,5 +1,7 @@
 ##### § 240.15Aj-1 Amendments and supplements to registration statements of securities associations. #####
 
+Link to an amendment published at 90 FR 7365, Jan. 21, 2025.
+
 Every association applying for registration or registered as a national securities association or as an affiliated securities association shall keep its registration statement up-to-date in the manner prescribed below:
 
 (a) *Amendments.* Promptly after the discovery of any inaccuracy in the registration statement or in any amendment or supplement thereto the association shall file with the Commission an amendment correcting such inaccuracy.

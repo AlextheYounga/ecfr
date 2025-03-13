@@ -26,4 +26,4 @@
 
 (iv) Liability for special (occupational) tax, filing special tax returns, issuance and examination of special tax stamps, and notification of changes to special tax stamps.
 
-[T.D. ATF-251, 52 FR 19325, May 22, 1987]Editorial Note:For Federal Register citations affecting § 70.431, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. ATF-251, 52 FR 19325, May 22, 1987] Editorial Note:For Federal Register citations affecting § 70.431, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

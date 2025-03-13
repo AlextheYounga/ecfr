@@ -36,7 +36,8 @@
 
 (v) Any other information required by Form 8300 or its instructions.
 
-(3) *Manner of reporting*— (i) *Where to file.* Returns required by this section must be filed in accordance with the Form 8300 instructions and related publications. A copy of the information return required to be filed under this section must be retained for five years from the date of filing.
+(3) *Manner of reporting*—
+(i) *Where to file.* Returns required by this section must be filed in accordance with the Form 8300 instructions and related publications. A copy of the information return required to be filed under this section must be retained for five years from the date of filing.
 
 (ii) *Verification of identity.* A clerk required to make an information return under this section must, in accordance with § 1.6050I-1(e)(3)(ii), verify the identity of each payor of bail listed in the return.
 

@@ -1,0 +1,5 @@
+##### § 215.421 Presiding officer's decision. #####
+
+(a) After consideration of the evidence of record, the presiding officer may dismiss the demand letter in whole or in part. If the presiding officer does not dismiss the civil penalty enforcement action in whole, the presiding officer will issue and serve on the respondent an order assessing a civil penalty. The presiding officer's decision will include a statement of findings and conclusions as well as the reasons therefor on all material issues of fact, law, and discretion.
+
+(b) If, within twenty (20) days after service of an order assessing a civil penalty fine issued by the presiding officer under paragraph (a) of this section, the respondent does not pay the civil penalty fine, the case may be referred to the Attorney General with a request that an action to collect the penalty be brought in the appropriate United States District Court. In the civil action, the amount and appropriateness of the civil penalty shall not be subject to review.

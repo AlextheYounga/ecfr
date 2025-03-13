@@ -8,4 +8,4 @@
 
 (d) *Cases.* The brewer shall mark cases or shipping containers to show the nature of the product and the name or trade name and address of the brewer.
 
-(Sec. 201, Pub. L. 85-859, 72 Stat. 1389, as amended (26 U.S.C. 5411))[T.D. ATF-224, 51 FR 7673, Mar. 5, 1986, as amended by T.D. TTB-196, 89 FR 87943, Nov. 6, 2024]
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1389, as amended (26 U.S.C. 5411)) [T.D. ATF-224, 51 FR 7673, Mar. 5, 1986, as amended by T.D. TTB-196, 89 FR 87943, Nov. 6, 2024]

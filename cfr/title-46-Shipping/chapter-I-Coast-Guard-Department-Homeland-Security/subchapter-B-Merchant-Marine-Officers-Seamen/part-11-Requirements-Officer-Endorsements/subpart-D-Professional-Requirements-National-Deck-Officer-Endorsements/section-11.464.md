@@ -1,7 +1,5 @@
 ##### § 11.464 Requirements for national endorsements as Master of Towing Vessels. #####
 
-Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
-
 (a) An applicant for an endorsement as Master of Towing Vessels with a route listed in column 1 of table 1 to this section, must complete the service requirements indicated in columns 2 through 5. Applicants may serve on the subordinate routes listed in column 5 without further endorsement.
 
 |                                                                                                                                                                                                                                                                                      1                                                                                                                                                                                                                                                                                       |               2                |                            3                            |                       4                        |                 5                 |
@@ -26,13 +24,13 @@ Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
 | <sup>1</sup> Service is in months. |                                |                                                                                     |                                            |                                   |
 |<sup>2</sup> TOS is time of service.|                                |                                                                                     |                                            |                                   |
 
-(d) Those holding a License or MMC endorsement as Mate (Pilot) of Towing Vessels, may have Master of Towing Vessels-Limited added to their MMC for a limited local area within the scope of their current route.
+(d) Those holding an MMC endorsement as Mate (Pilot) of Towing Vessels, may have Master of Towing Vessels-Limited added to their MMC for a limited local area within the scope of their current route.
 
 (e) Before serving as Master of Towing Vessels on the Western Rivers, mariners must possess 90 days of observation and training and their MMC must include an endorsement for Western Rivers.
 
 (f) Each company must maintain evidence that every vessel it operates is under the direction and control of a mariner with the appropriate endorsement and experience, including 30 days of observation and training on the intended route other than Western Rivers.
 
-(g) Those holding a License or MMC endorsement as a Master of self-propelled vessels of more than 200 GRT, may operate towing vessels within any restrictions on their endorsement if they-
+(g) Those holding an MMC endorsement as a Master of self-propelled vessels of more than 200 GRT, may operate towing vessels within any restrictions on their endorsement if they-
 
 (1) Have a minimum of 30 days of training and observation on towing vessels for the route being assessed, except as noted in paragraph (e) of this section; and
 
@@ -44,4 +42,4 @@ Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
 
 (h) A License or MMC does not need to include a towing endorsement if mariners hold a TOAR or complete an approved training course.
 
-[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30882, June 28, 2019; USCG-2021-0097, 89 FR 93086, Nov. 25, 2024]
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30882, June 28, 2019; USCG-2021-0097, 89 FR 93086, Nov. 25, 2024; USCG-2021-0834, 89 FR 102335, Dec. 17, 2024]

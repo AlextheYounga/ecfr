@@ -1,10 +1,8 @@
 ##### § 61.167 Airline transport pilot privileges and limitations. #####
 
-Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
-
 (a) *Privileges.* (1) A person who holds an airline transport pilot certificate is entitled to the same privileges as a person who holds a commercial pilot certificate with an instrument rating.
 
-(2) A person who holds an airline transport pilot certificate and has met the aeronautical experience requirements of § 61.159 or § 61.161, and the age requirements of § 61.153(a)(1) of this part may instruct—
+(2) A person who holds an airline transport pilot certificate and has met the aeronautical experience requirements of § 61.159, 61.161, or 61.163, and the age requirements of § 61.153(a)(1) may instruct—
 
 (i) Other pilots in air transportation service in aircraft of the category, class, and type, as applicable, for which the airline transport pilot is rated and endorse the logbook or other training record of the person to whom training has been given;
 
@@ -28,4 +26,4 @@ Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
 
 (2) Serve as second in command in flag or supplemental operations in part 121 of this chapter requiring three or more pilots.
 
-[Doc. No. FAA-2010-0100, 78 FR 42376, July 15, 2013, as amended by Amdt. 61-130B, 78 FR 77574, Dec. 24, 2013; Amdt. 61-130C, 81 FR 2, Jan. 4, 2016]
+[Doc. No. FAA-2010-0100, 78 FR 42376, July 15, 2013, as amended by Amdt. 61-130B, 78 FR 77574, Dec. 24, 2013; Amdt. 61-130C, 81 FR 2, Jan. 4, 2016; FAA-2023-1275; Amdt. No. 61-157, 89 FR 92485, Nov. 21, 2024]

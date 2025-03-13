@@ -1,22 +1,10 @@
 ##### § 16.105 Definitions of terms used in this part. #####
 
-Link to an amendment published at 89 FR 102340, Dec. 17, 2024.
-
 *Chemical test* means a scientifically recognized test which analyzes an individual's breath, blood, urine, saliva, bodily fluids, or tissues for evidence of dangerous drug or alcohol use.
 
 *Consortium/Third party administrator (C/TPA)* means a service agent who provides or coordinates the provision of a variety of drug and alcohol testing services to employers. C/TPAs typically perform administrative tasks concerning the operation of the employers' drug and alcohol testing programs. This term includes, but is not limited to, groups of employers who join together to administer, as a single entity, the DOT drug and alcohol testing programs of its members.
 
-*Credential* is a term used to refer to any or all of the following:
-
-(1) Merchant Mariner's Document (MMD).
-
-(2) Merchant Mariner's License.
-
-(3) STCW endorsement.
-
-(4) Certificate of Registry (COR).
-
-(5) Merchant Mariner Credential (MMC).
+*Credential* is the same as defined in 46 CFR 10.107.
 
 *Crewmember* means an individual who is:
 
@@ -70,4 +58,4 @@ Link to an amendment published at 89 FR 102340, Dec. 17, 2024.
 
 *Vessel owned in the United States* means any vessel documented or numbered under the laws of the United States; and any vessel owned by a citizen of the United States that is not documented or numbered by any nation.
 
-[CGD 86-067, 53 FR 47079, Nov. 21, 1988; 53 FR 48367, Nov. 30, 1988, as amended by CGD 90-014, 56 FR 31033, July 8, 1991; CGD 90-053, 58 FR 31107, May 28, 1993; CGD 93-051, 59 FR 28792, June 3, 1994; 59 FR 62226, Dec. 2, 1994; CGD 91-223, 60 FR 4525, Jan. 23, 1995; USCG-2000-7759, 66 FR 42967, Aug. 16, 2001; USCG-2003-16414, 69 FR 6577, Feb. 11, 2004; USCG-2006-24371, 74 FR 11263, Mar. 16, 2009; USCG-2021-0097, 89 FR 93134, Nov. 25, 2024]
+[CGD 86-067, 53 FR 47079, Nov. 21, 1988; 53 FR 48367, Nov. 30, 1988, as amended by CGD 90-014, 56 FR 31033, July 8, 1991; CGD 90-053, 58 FR 31107, May 28, 1993; CGD 93-051, 59 FR 28792, June 3, 1994; 59 FR 62226, Dec. 2, 1994; CGD 91-223, 60 FR 4525, Jan. 23, 1995; USCG-2000-7759, 66 FR 42967, Aug. 16, 2001; USCG-2003-16414, 69 FR 6577, Feb. 11, 2004; USCG-2006-24371, 74 FR 11263, Mar. 16, 2009; USCG-2021-0097, 89 FR 93134, Nov. 25, 2024; USCG-2021-0834, 89 FR 102340, Dec. 17, 2024]

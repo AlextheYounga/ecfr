@@ -6,7 +6,7 @@
 
 (b) *Sponsors.* See sponsor numbers in § 510.600(c) of this chapter.
 
-(1) No. 027053 for use of product described in paragraph (a)(1) of this section.
+(1) No. 086119 for use of product described in paragraph (a)(1) of this section.
 
 (2) No. 057699 for use of product described in paragraph (a)(2) of this section.
 
@@ -16,4 +16,4 @@
 
 (3) *Limitations.* Do not use in horses intended for human consumption. Federal law prohibits the extralabel use of this product in female cattle 20 months of age or older. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[72 FR 27956, May 18, 2007]
+[72 FR 27956, May 18, 2007, as amended at 90 FR 6800, Jan. 21, 2025]

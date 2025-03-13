@@ -38,8 +38,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 (3) Was not subjected to distillation on distilled spirits plant premises such that the flavor does not remain in the finished product.
 
-*Eligible wine.* Wine on which tax would be imposed by paragraph (1), (2), or (3) of 26 U.S.C. 5041(b) but for its removal to distilled spirits plant premises and which has not been subject to distillation at a distilled spirits plant after receipt in bond.
-For purposes of this definition, the phrase “receipt in bond” applies to wine on which tax has not been determined or paid that is received by the proprietor of a distilled spirits plant, even if the proprietor, as authorized under the exemption set forth in § 19.151(d) of this chapter, is not required to provide a bond for the premises where the wine is received.
+*Eligible wine.* Wine on which tax would be imposed by paragraph (1), (2), or (3) of 26 U.S.C. 5041(b) but for its removal to distilled spirits plant premises and which has not been subject to distillation at a distilled spirits plant after receipt in bond. For purposes of this definition, the phrase “receipt in bond” applies to wine on which tax has not been determined or paid that is received by the proprietor of a distilled spirits plant, even if the proprietor, as authorized under the exemption set forth in § 19.151(d) of this chapter, is not required to provide a bond for the premises where the wine is received.
 
 *Gallon or wine gallon.* The liquid measure equivalent to the volume of 231 cubic inches. For purposes of this definition, the phrase “receipt in bond” applies to wine on which tax has not been determined or paid that is received by the proprietor of a distilled spirits plant, even if the proprietor, as authorized under the exemption set forth in § 19.151(d) of this chapter, is not required to provide a bond for the premises where the wine is received.
 

@@ -1,7 +1,5 @@
 ##### § 10.225 Requirements for original Merchant Mariner Credentials. #####
 
-Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
-
 (a) An applicant must apply as an original if the MMC sought is—
 
 (1) The first credential issued to the applicant;
@@ -38,6 +36,6 @@ Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
 (9) The oath as required in paragraph (c) of this section.
 
-(c) *Oath.* Every person who receives an original MMC must first take an oath, before an official authorized to give such an oath, that they will faithfully and honestly, according to their best skill and judgment, without concealment or reservation, perform all the duties required by law and obey all lawful orders of superior officers. An oath may be administered by any Coast Guard-designated individual or any person legally permitted to administer oaths in the jurisdiction where the person taking the oath resides. An oath administered at a location other than the Coast Guard must be verified in writing by the administering official and submitted to the same Regional Examination Center (REC) where the applicant applied for their MMC. This oath remains binding for any subsequently issued MMC and endorsements added to the MMC, unless specifically renounced in writing.
+(c) *Oath.* Every person who receives an original MMC must first solemnly swear or affirm, that they will faithfully and honestly, according to their best skill and judgment, without concealment or reservation, perform all the duties required by law and obey all lawful orders of superior officers. This affirmation remains binding for any subsequently issued MMC and endorsements added to the MMC, unless specifically renounced in writing.
 
-[USCG-2004-17914, 78 FR 77892, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93061, Nov. 25, 2024]
+[USCG-2004-17914, 78 FR 77892, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93061, Nov. 25, 2024; USCG-2021-0834, 89 FR 102333, Dec. 17, 2024]

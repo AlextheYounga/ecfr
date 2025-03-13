@@ -51,7 +51,7 @@
 
 (v) *Annuity and unitrust interests for a term of years or until the prior death of an individual*—(A) *Annuity interests*—(*1*) *In general.* (*i*) The present value of an annuity interest that is payable until the earlier to occur of the lapse of a specific number of years or the death of an individual may be computed with the use of commutation factors and an applicable adjustment factor. The commutation factors are computed directly with the set of formulas in Figure 1 to this paragraph (d)(2)(v)(A)(*1*)(*i*). The prescribed mortality table is Table 2010CM as set forth in § 20.2031-7(d)(7)(ii) of this chapter, or for periods before June 1, 2023, the appropriate table found in § 20.2031-7A of this chapter. For the convenience of taxpayers, commutation factors have been computed by the IRS and appear in Table H. Table H currently is available, at no charge, electronically via the IRS website at *https://www.irs.gov/retirement-plans/actuarial-tables* (or a corresponding URL as may be updated from time to time). Table H is referenced and explained by IRS Publication 1457, *Actuarial Valuations Version 4A,* which will be available within a reasonable time after June 1, 2023.
 
-Figure 1 to Paragraph (d)(2)(v)(A)(*1*)(*i*)—Formulas for Determining Commutation Factors ![](/graphics/er07jn23.016.gif)
+Figure 1 to Paragraph (d)(2)(v)(A)(*1*)(*i*)—Formulas for Determining Commutation Factors![](/graphics/er07jn23.016.gif)
 
 (*ii*) The applicable adjustment factor for annuities that are payable at the end of semiannual, quarterly, monthly, or weekly periods is computed by use of the formula in § 20.2031-7(d)(2)(iv)(B) of this chapter expressed to at least four decimal places. For the convenience of taxpayers, actuarial factors have been computed by the IRS and appear in Table K. Table K can be found on the IRS website at *https://www.irs.gov/retirement-plans/actuarial-tables.* For purposes of the example in paragraph (d)(2)(v)(A)(*2*) of this section, the relevant factors from Tables H(2.8) and K are:
 
@@ -69,11 +69,11 @@ Figure 1 to Paragraph (d)(2)(v)(A)(*1*)(*i*)—Formulas for Determining Commutat
 
 (*2*) *Example.* The donor transfers $100,000 into a trust on January 1, 2022 and retains the right to receive an annuity from the trust in the amount of $10,000 per year, payable in equal semiannual installments at the end of each period. The semiannual installments are to be made on each June 30th and December 31st. The annuity is payable for 10 years or until the donor's prior death. At the time of the transfer, the donor is 59 years and 6 months old. The donor's age is deemed to be 60 for purposes of computing the present value of the retained annuity. If the section 7520 rate for the month in which the transfer occurred is 2.8 percent, the present value of the donor's retained annuity interest for the shorter of life or term would be is $82,363.54, determined in Figure 2 to this paragraph (d)(2)(v)(A)(*2*).
 
-Figure 2 to Paragraph (d)(2)(v)(A)(*2*)—Illustration of Calculation of Present Value of the Donor's Retained Annuity Interest for the Shorter of Life or Term ![](/graphics/er07jn23.017.gif)
+Figure 2 to Paragraph (d)(2)(v)(A)(*2*)—Illustration of Calculation of Present Value of the Donor's Retained Annuity Interest for the Shorter of Life or Term![](/graphics/er07jn23.017.gif)
 
 (B) *Unitrust interests*—(*1*) *In general.* (*i*) The present value of a unitrust interest that is payable until the earlier to occur of the lapse of a specific number of years or the death of an individual may be computed with the use of an adjusted payout rate factor and unitrust commutation factors. The payout rate adjustment factor is determined by applying the formula in § 1.664-4(e)(6)(ii) of this chapter for the section 7520 interest rate applicable to the transfer and computing the result to at least six decimal places. For the convenience of taxpayers, payout rate adjustment factors have been computed by the IRS, for interest rates from 0.2 to 20 percent, inclusive, and appear in Tables F(0.2) through F(20.0). The unitrust commutation factors may be computed directly with the set of formulas in Figure 3 to this paragraph (d)(2)(v)(B)(*1*)(*i*). For the convenience of taxpayers, actuarial factors have been computed by the IRS and appear in Table Z. Tables F and Z can be found on the IRS website at *https://www.irs.gov/retirement-plans/actuarial-tables.*
 
-Figure 3 to Paragraph (d)(2)(v)(B)(*1*)(*i*)—Formulas for Determining Unitrust Commutation Factors ![](/graphics/er07jn23.018.gif)
+Figure 3 to Paragraph (d)(2)(v)(B)(*1*)(*i*)—Formulas for Determining Unitrust Commutation Factors![](/graphics/er07jn23.018.gif)
 
 (*ii*) For purposes of the example in paragraph (d)(2)(v)(B)(*2*) of this section, the relevant factors from Tables F(3.4), Z(4.8), and Z(5.0) are:
 
@@ -101,15 +101,15 @@ Figure 3 to Paragraph (d)(2)(v)(B)(*1*)(*i*)—Formulas for Determining Unitrust
 
 (*i*) Determine the terminal age, as illustrated in Figure 4 to this paragraph (d)(2)(v)(B)(*2*)(*i*).
 
-Figure 4 to Paragraph (d)(2)(v)(B)(*2*)(*i*)—Illustration of Determination of Terminal Age ![](/graphics/er07jn23.019.gif)
+Figure 4 to Paragraph (d)(2)(v)(B)(*2*)(*i*)—Illustration of Determination of Terminal Age![](/graphics/er07jn23.019.gif)
 
 (*ii*) Determine the Payout Interest Factor at the Table Z payout rates immediately below and above the adjusted payout rate, as illustrated in Figure 5 to this paragraph (d)(2)(v)(B)(*2*)(*ii*).
 
-Figure 5 to Paragraph (d)(2)(v)(B)(*2*)(*ii*)—Illustration of Determination of Payout Interest Factors ![](/graphics/er07jn23.020.gif)
+Figure 5 to Paragraph (d)(2)(v)(B)(*2*)(*ii*)—Illustration of Determination of Payout Interest Factors![](/graphics/er07jn23.020.gif)
 
 (*iii*) Interpolate between the Payout Interest Factors at 4.8% and 5.0% to determine the Payout Interest Factor at the adjusted rate of 4.876%, as illustrated in Figure 6 to this paragraph (d)(2)(v)(B)(*2*)(*iii*).
 
-Figure 6 to Paragraph (d)(2)(v)(B)(*2*)(*iii*)—Illustration of Interpolation ![](/graphics/er07jn23.021.gif)
+Figure 6 to Paragraph (d)(2)(v)(B)(*2*)(*iii*)—Illustration of Interpolation![](/graphics/er07jn23.021.gif)
 
 (3) *Transitional rule.* If the valuation date of a transfer of property by gift is after April 30, 2019, and on or before June 1, 2023, the fair market value of the interest transferred is determined by using the section 7520 interest rate for the month in which the valuation date occurs (see §§ 25.7520-1(b) and 25.7520-2(a)(2)) and the appropriate actuarial factors derived from the selected mortality table, either Table 2010CM in § 20.2031-7(d)(7)(ii) of this chapter or Table 2000CM in § 20.2031-7A(g)(4) of this chapter, at the option of the donor or the decedent's executor, as the case may be. If any previously filed gift tax return is supplemented to use the actuarial factors based on Table 2010CM, the supplemental return must state at the top “AMENDED PURSUANT TO TD 9974.” For the convenience of taxpayers, actuarial factors based on Table 2010CM appear in the current version of Table S, and actuarial factors based on Table 2000CM appear in the previous version of Table S. Both versions of Table S will be available as provided in paragraph (d)(4) of this section. With respect to each individual transaction, the donor must consistently use the same mortality basis with respect to each interest (income, remainder, partial, etc.) in the same property, and with respect to all transfers occurring on the same valuation date. For example, gift and income tax charitable deductions with respect to the same transfer must be determined based on factors with the same mortality basis, and all assets includible in the gross estate and/or estate tax deductions claimed must be valued based on factors with the same mortality basis.
 

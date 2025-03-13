@@ -28,4 +28,4 @@
 
 (d) *Perjury statement.* Each TTB Form 5630.5t must contain, or be verified by, a written declaration that the return has been executed under the penalties of perjury.
 
-(26 U.S.C. 5732, 6061, 6065, 6151, 7011)(Approved by the Office of Management and Budget under control number 1513-0112)
+(26 U.S.C. 5732, 6061, 6065, 6151, 7011) (Approved by the Office of Management and Budget under control number 1513-0112)

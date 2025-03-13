@@ -16,20 +16,20 @@
 
 (7) Branch lines to the various spaces other than cargo and similar spaces shall be as noted in table 34.15-90(a)(7). This table is based on cylinders having discharge outlets and siphon tubes of 3/8-inch diameter.
 
-|Number of cylinders|Nominal pipe size, inches|                 |
-|-------------------|-------------------------|-----------------|
-|       Over        |        Not over         |                 |
-|                   |            2            |  1/2-standard.  |
-|         2         |            4            |  3/4-standard.  |
-|         4         |            6            | 1-extra heavy.  |
-|         6         |           12            |11/4-extra heavy.|
-|        12         |           16            |11/2-extra heavy.|
-|        16         |           27            | 2-extra heavy.  |
-|        27         |           39            |21/2-extra heavy.|
-|        39         |           60            | 3-extra heavy.  |
-|        60         |           80            |31/2-extra heavy.|
-|        80         |           104           | 4-extra heavy.  |
-|        104        |           165           | 5-extra heavy.  |
+|Number of cylinders|Nominal pipe size, inches|                                       |
+|-------------------|-------------------------|---------------------------------------|
+|       Over        |        Not over         |                                       |
+|                   |            2            |  <sup>1</sup>⁄<sub>2</sub>-standard.  |
+|         2         |            4            |  <sup>3</sup>⁄<sub>4</sub>-standard.  |
+|         4         |            6            |            1-extra heavy.             |
+|         6         |           12            |1<sup>1</sup>⁄<sub>4</sub>-extra heavy.|
+|        12         |           16            |1<sup>1</sup>⁄<sub>2</sub>-extra heavy.|
+|        16         |           27            |            2-extra heavy.             |
+|        27         |           39            |2<sup>1</sup>⁄<sub>2</sub>-extra heavy.|
+|        39         |           60            |            3-extra heavy.             |
+|        60         |           80            |3<sup>1</sup>⁄<sub>2</sub>-extra heavy.|
+|        80         |           104           |            4-extra heavy.             |
+|        104        |           165           |            5-extra heavy.             |
 
 (b) Installations contracted for on or after November 19, 1952, but prior to January 1, 1962, shall meet the requirements of this paragraph.
 

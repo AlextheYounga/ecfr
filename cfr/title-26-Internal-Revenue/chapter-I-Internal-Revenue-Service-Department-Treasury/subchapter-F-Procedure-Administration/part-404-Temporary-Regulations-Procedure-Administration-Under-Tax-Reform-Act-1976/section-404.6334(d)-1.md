@@ -40,4 +40,4 @@ For purposes of subdivision (ii) of this subparagraph, “payroll period” shal
 
 (f) *Effective date.* The regulations prescribed by this section shall apply with respect to levies on wages, salary, and other income made after February 28, 1977.
 
-(Sec. 6334(d) (90 Stat. 1709; 68A Stat. 917; 26 U.S.C. 6334)) [T.D. 7468, 42 FR 12042, Mar. 2, 1977]
+(Sec. 6334(d) (90 Stat. 1709; 68A Stat. 917; 26 U.S.C. 6334))[T.D. 7468, 42 FR 12042, Mar. 2, 1977]

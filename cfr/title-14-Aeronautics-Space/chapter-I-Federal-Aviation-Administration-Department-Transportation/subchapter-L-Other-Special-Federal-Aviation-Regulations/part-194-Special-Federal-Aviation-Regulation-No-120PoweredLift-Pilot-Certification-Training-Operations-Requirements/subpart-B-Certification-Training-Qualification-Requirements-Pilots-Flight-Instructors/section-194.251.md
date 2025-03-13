@@ -1,0 +1,3 @@
+##### § 194.251 Alternate means to satisfy minimum curriculum content in training courses under part 142 of this chapter. #####
+
+A training course for which approval is requested is not required to consist of training on a task specified in an area of operation if the powered-lift is not capable of performing the task, provided the FAA has issued waiver authority for that task in accordance with § 194.207(b).

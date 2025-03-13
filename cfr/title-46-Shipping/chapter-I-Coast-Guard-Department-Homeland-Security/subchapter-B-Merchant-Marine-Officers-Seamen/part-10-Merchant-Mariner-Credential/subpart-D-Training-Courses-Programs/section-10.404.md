@@ -1,7 +1,5 @@
 ##### § 10.404 Substitution of training for required service, use of training-record books (TRBs), and use of towing officer assessment records (TOARs). #####
 
-Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
-
 (a) *Substitution of training for required service.* (1) Satisfactory completion of an approved training course may be substituted for a portion of the required service on deck or in the engine department for national deck or engineer endorsements. Satisfactory completion of an approved training program which includes sea service may be substituted for a portion of or all of the required service on deck or in the engine department, except as limited by law for ratings. The list of all currently approved courses and programs, including the equivalent service and applicable endorsements, is maintained by the NMC.
 
 (2) Unless otherwise allowed, recency requirements may not be achieved by service granted as a result of successful completion of approved training or by training on a simulator; however, underway service obtained as a portion of an approved course or program may be used for this purpose.
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 
 (vi) The printed name of each Qualified Instructor, including any MMC endorsements held, and the instructor's signature.
 
-(vii) The printed name of each Qualified Assessor, when any assessment of competence is recorded, including any MMC endorsement, License, or document held by the assessor, and the assessor's signature confirming that their initials certify that they have witnessed the practical demonstration of a particular task or skill by the applicant.
+(vii) The printed name of each Qualified Assessor, when any assessment of competence is recorded, including any MMC endorsement held by the assessor, and the assessor's signature confirming that their initials certify that they have witnessed the practical demonstration of a particular task or skill by the applicant.
 
 (2) The TRB referred to in paragraph (b) of this section may be maintained electronically, provided the electronic record meets Coast Guard-accepted standards for accuracy, integrity, and availability.
 
@@ -42,6 +40,6 @@ Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 
 (5) A means for a Designated Examiner (DE) to attest that the applicant has successfully completed a practical demonstration and has proved proficient in the task or skill under the criteria; and
 
-(6) Identification of each DE by their full name and reference number, job title, ship name and official number, and serial number of the MMC, License, or document held, and printed name and signature confirming that their initials certify that they have witnessed the practical demonstration of a particular task or skill by the applicant.
+(6) Identification of each DE by their full name and reference number, job title, ship name and official number, and serial number of the MMC held, and printed name and signature confirming that their initials certify that they have witnessed the practical demonstration of a particular task or skill by the applicant.
 
-[USCG-2004-17914, 78 FR 77903, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93068, Nov. 25, 2024]
+[USCG-2004-17914, 78 FR 77903, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93068, Nov. 25, 2024; USCG-2021-0834, 89 FR 102334, Dec. 17, 2024]

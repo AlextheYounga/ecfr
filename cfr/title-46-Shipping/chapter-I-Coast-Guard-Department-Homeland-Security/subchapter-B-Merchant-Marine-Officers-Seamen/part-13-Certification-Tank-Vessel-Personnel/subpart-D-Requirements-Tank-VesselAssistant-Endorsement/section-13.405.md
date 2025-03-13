@@ -1,10 +1,8 @@
 ##### § 13.405 Proof of service for Tank Vessel-Assistant endorsement. #####
 
-Link to an amendment published at 89 FR 102337, Dec. 17, 2024.
-
 Service must be proved by either—
 
-(a) A letter on company letterhead from the owner, operator, or Master of a tankship or self-propelled tank vessel. The letter must specify—
+(a) Evidence in a method prescribed by the Coast Guard from the owner, operator, or Master of a tankship or self-propelled tank vessel. The evidence must specify—
 
 (1) The name of the vessel(s), the applicable dates, and the port(s) or terminal(s);
 
@@ -20,4 +18,4 @@ Service must be proved by either—
 
 (2) A sense of responsibility that, in the opinion of the signer, will allow them to safely carry out duties respecting cargo and its equipment assigned by the PIC of the transfer without direct supervision by the PIC.
 
-[USCG-2004-17914, 78 FR 77996, Dec. 24, 2013]
+[USCG-2004-17914, 78 FR 77996, Dec. 24, 2013, as amended by USCG-2021-0834, 89 FR 102337, Dec. 17, 2024]

@@ -1,7 +1,5 @@
 ##### § 11.807 Experience requirements for registry. #####
 
-Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
-
 (a) The applicant for a certificate of registry as staff officer must submit evidence of experience as follows:
 
 (1) *Chief Purser.* Two years of service aboard vessels performing duties relating to work in the Purser's office.
@@ -24,6 +22,6 @@ Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (c) In computing the length of service required of an applicant for an endorsement, service of one season on vessels on the Great Lakes is counted as service of 1 year.
 
-(d) In the event an applicant for an endorsement, other than Medical Doctor or Professional Nurse, presents evidence of other qualifications that, in the opinion of the Coast Guard, is equivalent to the experience requirements of this section and is consistent with the duties of a staff officer, the Coast Guard may issue the MMC.
+(d) In the event an applicant for an endorsement, other than Medical Doctor or Professional Nurse, provides evidence of other qualifications that, in the opinion of the Coast Guard, is equivalent to the experience requirements of this section and is consistent with the duties of a staff officer, the Coast Guard may issue the MMC.
 
-[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93097, Nov. 25, 2024]
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93097, Nov. 25, 2024; USCG-2021-0834, 89 FR 102336, Dec. 17, 2024]

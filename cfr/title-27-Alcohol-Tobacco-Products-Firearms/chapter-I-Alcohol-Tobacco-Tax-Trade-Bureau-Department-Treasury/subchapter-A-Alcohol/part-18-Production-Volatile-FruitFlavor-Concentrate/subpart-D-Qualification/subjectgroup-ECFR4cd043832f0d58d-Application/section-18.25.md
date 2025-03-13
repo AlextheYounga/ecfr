@@ -10,4 +10,4 @@ The supporting information required by paragraph (d) of § 18.24 includes, as ap
 
 (d) In the case of an individual owner or a partnership, the name and address of every person interested in the concentrate plant, whether the interest appears in the name of the interested party or in the name of another for that party.
 
-(Approved by the Office of Management and Budget under control number 1513-0006)[T.D. ATF-104, 47 FR 23921, June 2, 1982, as amended by T.D. TTB-196, 89 FR 87937, 87938, Nov. 6, 2024]
+(Approved by the Office of Management and Budget under control number 1513-0006) [T.D. ATF-104, 47 FR 23921, June 2, 1982, as amended by T.D. TTB-196, 89 FR 87937, 87938, Nov. 6, 2024]

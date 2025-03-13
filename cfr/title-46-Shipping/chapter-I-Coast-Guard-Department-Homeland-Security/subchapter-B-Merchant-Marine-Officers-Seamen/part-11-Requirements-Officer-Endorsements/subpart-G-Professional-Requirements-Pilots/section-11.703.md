@@ -1,7 +1,5 @@
 ##### § 11.703 Service requirements. #####
 
-Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
-
 (a) The minimum service required to qualify an applicant for an endorsement as First-Class Pilot is predicated upon the nature of the waters for which pilotage is desired.
 
 (1) *General routes (routes not restricted to rivers, canals and small lakes).* The applicant must have at least 36 months of service in the deck department of self-propelled vessels navigating on oceans, coastwise, and Great Lakes, or bays, sounds, and lakes other than the Great Lakes, as follows:
@@ -18,6 +16,6 @@ Link to an amendment published at 89 FR 102336, Dec. 17, 2024.
 
 (c) Completion of an approved or accepted Pilot training course may be substituted for a portion of the service requirements of this section in accordance with § 10.404 of this subchapter. Additionally, roundtrips made during this training may apply toward the route familiarization requirements of § 11.705. An individual using substituted service must have at least 9 months of shipboard service.
 
-(d) An individual holding a License or MMC endorsement as Master or Mate of inspected self-propelled vessels of more than 1,600 GRT meets the service requirements of this section for an endorsement as First-Class Pilot.
+(d) An individual holding an MMC endorsement as Master or Mate of inspected self-propelled vessels of more than 1,600 GRT meets the service requirements of this section for an endorsement as First-Class Pilot.
 
-[USCG-2021-0097, 89 FR 93095, Nov. 25, 2024]
+[USCG-2021-0097, 89 FR 93095, Nov. 25, 2024, as amended by USCG-2021-0834, 89 FR 102336, Dec. 17, 2024]

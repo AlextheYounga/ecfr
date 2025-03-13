@@ -56,7 +56,7 @@ Link to an amendment published at 89 FR 92008, Nov. 20, 2024.
 
 (2) Except for a continued prosecution application filed under § 1.53(d), any nonprovisional application, international application designating the United States, or international design application designating the United States that claims the benefit of one or more prior-filed nonprovisional applications, international applications designating the United States, or international design applications designating the United States must contain or be amended to contain a reference to each such prior-filed application, identifying it by application number (consisting of the series code and serial number), international application number and international filing date, or international registration number and filing date under § 1.1023. If the later-filed application is a nonprovisional application, the reference required by this paragraph must be included in an application data sheet (§ 1.76(b)(5)). The reference also must identify the relationship of the applications, namely, whether the later-filed application is a continuation, divisional, or continuation-in-part of the prior-filed nonprovisional application, international application, or international design application.
 
-(3)(i) The reference required by 35 U.S.C. 120 and paragraph (d)(2) of this section must be submitted during the pendency of the later-filed application.
+(3)(i) The reference required by 35 U.S.C. 120 and paragraph (d)(2) of this section, and the applicable fee set forth in § 1.17(w), must be submitted during the pendency of the later-filed application.
 
 (ii) If the later-filed application is an application filed under 35 U.S.C. 111(a), this reference must also be submitted within the later of four months from the actual filing date of the later-filed application or sixteen months from the filing date of the prior-filed application. If the later-filed application is a nonprovisional application entering the national stage from an international application under 35 U.S.C. 371, this reference must also be submitted within the later of four months from the date on which the national stage commenced under 35 U.S.C. 371(b) or (f) (§ 1.491(a)), four months from the date of the initial submission under 35 U.S.C. 371 to enter the national stage, or sixteen months from the filing date of the prior-filed application. The time periods in this paragraph do not apply if the later-filed application is:
 
@@ -84,7 +84,7 @@ Link to an amendment published at 89 FR 92008, Nov. 20, 2024.
 
 (1) The reference required by 35 U.S.C. 120 and paragraph (d)(2) of this section to the prior-filed application, unless previously submitted;
 
-(2) The petition fee as set forth in § 1.17(m); and
+(2) The petition fee as set forth in § 1.17(m), and the applicable fee set forth in § 1.17(w); and
 
 (3) A statement that the entire delay between the date the benefit claim was due under paragraph (d)(3) of this section and the date the benefit claim was filed was unintentional. The Director may require additional information where there is a question whether the delay was unintentional.
 
@@ -100,4 +100,4 @@ Link to an amendment published at 89 FR 92008, Nov. 20, 2024.
 
 (k) *Time periods in this section.* The time periods set forth in this section are not extendable, but are subject to 35 U.S.C. 21(b) (and § 1.7(a)), PCT Rule 80.5, and Hague Agreement Rule 4(4).
 
-[80 FR 17959, Apr. 2, 2015]
+[80 FR 17959, Apr. 2, 2015, as amended at 89 FR 92008, Nov. 20, 2024]

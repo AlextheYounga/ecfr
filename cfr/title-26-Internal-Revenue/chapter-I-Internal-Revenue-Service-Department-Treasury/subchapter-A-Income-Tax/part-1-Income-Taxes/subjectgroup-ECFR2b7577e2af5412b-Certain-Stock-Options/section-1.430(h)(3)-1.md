@@ -84,7 +84,7 @@ The static mortality tables for valuation dates occurring in later calendar year
 
 (ii) *Projection period for static mortality tables*—(A) *In general.* The projection period is 8 years for males and 9 years for females, as adjusted based on age as provided in paragraph (c)(3)(ii)(B) of this section.
 
-(B) *Age adjustment.* For ages below 80, the projection period is increased by 1 year for each year below age 80. For ages above 80, the projection period is reduced (but not below zero) by 1/3 year for each year above 80.
+(B) *Age adjustment.* For ages below 80, the projection period is increased by 1 year for each year below age 80. For ages above 80, the projection period is reduced (but not below zero) by1/3 year for each year above 80.
 
 (iii) *Fractional projection periods.* If for an age the number of years in the projection period determined under paragraph (c)(3)(ii) of this section is not a whole number, then the mortality rate for that age is determined by using linear interpolation between—
 
@@ -92,7 +92,7 @@ The static mortality tables for valuation dates occurring in later calendar year
 
 (B) The mortality rate for that age that would be determined under paragraph (c)(3)(i) of this section if the number of years in the projection period were the next higher whole number.
 
-(iv) *Example.* For example, at age 85 the projection period for a male is 61/3 years (8 years minus 1/3 year for each of the 5 years above age 80). For a valuation date in 2024, the mortality rate in the static mortality table for an 85-year-old male is based on a projection of mortality improvement for 61/3 years beyond 2024. Under paragraph (c)(3)(iii) of this section, the mortality rate for an 85-year-old male annuitant in the static mortality table for 2024 is 2/3 times the projected mortality rate for a male annuitant that age in 2030 plus 1/3 times the projected mortality rate for a male annuitant that age in 2031. Accordingly, the mortality rate for an 85-year-old male annuitant in the static mortality table for 2024 is 0.08126 (2/3 times the projected mortality rate for an 85-year-old male annuitant in 2030 (0.08146) plus 1/3 times the projected mortality rate for an 85-year-old male annuitant in 2031 (0.08086)).
+(iv) *Example.* For example, at age 85 the projection period for a male is 61/3 years (8 years minus1/3 year for each of the 5 years above age 80). For a valuation date in 2024, the mortality rate in the static mortality table for an 85-year-old male is based on a projection of mortality improvement for 61/3 years beyond 2024. Under paragraph (c)(3)(iii) of this section, the mortality rate for an 85-year-old male annuitant in the static mortality table for 2024 is2/3 times the projected mortality rate for a male annuitant that age in 2030 plus1/3 times the projected mortality rate for a male annuitant that age in 2031. Accordingly, the mortality rate for an 85-year-old male annuitant in the static mortality table for 2024 is 0.08126 (2/3 times the projected mortality rate for an 85-year-old male annuitant in 2030 (0.08146) plus1/3 times the projected mortality rate for an 85-year-old male annuitant in 2031 (0.08086)).
 
 (d) *Base mortality tables.* The following are the base mortality tables. The base year for these tables is 2012.
 

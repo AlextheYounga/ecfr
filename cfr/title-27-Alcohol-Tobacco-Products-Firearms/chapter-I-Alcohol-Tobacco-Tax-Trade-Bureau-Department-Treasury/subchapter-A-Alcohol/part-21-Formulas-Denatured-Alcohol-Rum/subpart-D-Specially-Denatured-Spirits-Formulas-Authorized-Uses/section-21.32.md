@@ -2,7 +2,7 @@
 
 (a) *Formula.* To every 100 gallons of alcohol add:
 
-Four gallons of methyl alcohol and either1/8 avoirdupois ounce of denatonium benzoate, N.F.; 1 gallon of methyl isobutyl ketone; 1 gallon of mixed isomers of nitropropane; or 1 gallon of methyl *n-* butyl ketone.
+Four gallons of methyl alcohol and either 1/8 avoirdupois ounce of denatonium benzoate, N.F.; 1 gallon of methyl isobutyl ketone; 1 gallon of mixed isomers of nitropropane; or 1 gallon of methyl *n-* butyl ketone.
 
 (b) *Authorized uses.* (1) As a solvent:
 

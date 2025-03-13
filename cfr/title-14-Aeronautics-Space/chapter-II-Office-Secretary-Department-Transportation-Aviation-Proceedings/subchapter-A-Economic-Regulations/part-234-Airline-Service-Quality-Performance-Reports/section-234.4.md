@@ -74,7 +74,7 @@
 
 (h) Reporting carriers should use the following codes to identify causes for cancelled flights:
 
-Code A—Air Carrier B—Extreme Weather C—National Aviation System (NAS). D-Security
+CodeA—Air CarrierB—Extreme WeatherC—National Aviation System (NAS).D-Security
 
 (1) Air Carrier cancellations are due to circumstances that were within the control of the air carrier (e.g., lack of flight crew, maintenance, etc.).
 
@@ -86,7 +86,7 @@ Code A—Air Carrier B—Extreme Weather C—National Aviation System (NAS). D-S
 
 (i) Reporting carriers should use the following causes to identify the reasons for delayed flights:
 
-CAUSE Air Carrier Extreme weather NAS Security Late arriving aircraft
+CAUSEAir CarrierExtreme weatherNASSecurityLate arriving aircraft
 
 (1) Air carrier delays are due to circumstances within the control of the air carrier.
 

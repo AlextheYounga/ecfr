@@ -1,7 +1,5 @@
 ##### § 3560.60 Design requirements. #####
 
-Link to an amendment published at 89 FR 103630, Dec. 19, 2024.
-
 (a) *Standards.* All Agency-financed MFH will be constructed in accordance with 7 CFR part 1924, subpart A and will consist of two or more rental units plus appropriate related facilities. Single family structures may be used for group homes and cooperative housing. Also, manufactured homes may be used to create MFH and single family housing originally financed through section 502 of the Housing Act of 1949 may be converted to MFH. Maintenance requirements are listed in § 3560.103(a)(3).
 
 (b) *Residential design.* All MFH must be residential in character, except as provided for in § 3560.58(b), and must meet the needs of eligible residents.
@@ -39,3 +37,7 @@ Link to an amendment published at 89 FR 103630, Dec. 19, 2024.
 (iii) The requirements of the Americans with Disabilities Act of 1990, as applicable; and
 
 (iv) All other Federal, State, and local requirements. When architectural standards differ, the most stringent standard will be followed.
+
+(e) *Applicable codes and standards.* All housing and related facilities must meet the Qualifying Smoke Alarm requirements in § 3560.103(a)(3)(xx).
+
+[69 FR 69106, Nov. 26, 2004, as amended at 89 FR 103630, Dec. 19, 2024]

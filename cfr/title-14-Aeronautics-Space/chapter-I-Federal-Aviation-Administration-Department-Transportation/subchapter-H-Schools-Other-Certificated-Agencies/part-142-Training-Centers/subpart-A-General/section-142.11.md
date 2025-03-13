@@ -1,7 +1,5 @@
 ##### § 142.11 Application for issuance or amendment. #####
 
-Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
-
 (a) An application for a training center certificate and training specifications shall—
 
 (1) Be made on a form and in a manner prescribed by the Administrator;
@@ -48,7 +46,7 @@ Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
 
 (ii) The category, class, and type of aircraft that may be used for training, testing, and checking;
 
-(iii) For each flight simulator or flight training device, the make, model, and series of airplane or the set of airplanes being simulated and the qualification level assigned, or the make, model, and series of rotorcraft, or set of rotorcraft being simulated and the qualification level assigned;
+(iii) For each flight simulator or flight training device, the make model, and series of aircraft or the set of aircraft being simulated and the qualification level assigned;
 
 (iv) For each flight simulator and flight training device subject to qualification evaluation by the Administrator, the identification number assigned by the FAA;
 
@@ -82,4 +80,4 @@ Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
 
 (g) The certificate holder must file an application to amend a training center certificate at least 60 calendar days prior to the applicant's proposed effective amendment date unless a different filing period is approved by the Administrator.
 
-[Doc. No. 26933, 61 FR 34562, July 2, 1996, as amended by Amdt. 142-1, 62 FR 13791, Mar. 21, 1997; Docket FAA-2018-0119, Amdt. 142-10, 83 FR 9176, Mar. 5, 2018]
+[Doc. No. 26933, 61 FR 34562, July 2, 1996, as amended by Amdt. 142-1, 62 FR 13791, Mar. 21, 1997; Docket FAA-2018-0119, Amdt. 142-10, 83 FR 9176, Mar. 5, 2018; FAA-2023-1275, Amdt. No. 142-11, 89 FR 92488, Nov. 21, 2024]

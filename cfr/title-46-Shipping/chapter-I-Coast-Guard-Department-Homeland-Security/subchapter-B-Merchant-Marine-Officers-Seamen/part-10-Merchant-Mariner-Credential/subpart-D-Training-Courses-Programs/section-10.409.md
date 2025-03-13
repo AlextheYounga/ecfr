@@ -1,7 +1,5 @@
 ##### § 10.409 Coast Guard-accepted Quality Standard System (QSS) organizations. #####
 
-Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
-
 (a) Organizations wishing to serve as a Coast Guard-accepted QSS organization, to accept and monitor training on behalf of the Coast Guard, should apply to the National Maritime Center. An organization submitting an application may not act as a Coast Guard-accepted QSS organization until it has received its letter of acceptance.
 
 (b) *Validity of acceptance.* Organizations meeting the requirements in paragraph (e) of this section will be issued a letter of acceptance valid for a maximum period of 5 years from the date of issuance.
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 
 (d) Each person conducting evaluation and monitoring of the training must be knowledgeable about the subjects being evaluated or monitored and about the national and international requirements that apply to the training, and must not be involved in the training and assessment of students.
 
-(e) The documentation submitted to the Coast Guard must contain the information listed below. An organization approved as a recognized classification society in accordance with 46 CFR part 8, subpart B, need not present evidence of compliance with paragraphs (e)(1) and (e)(8) of this section.
+(e) The documentation submitted to the Coast Guard must contain the information listed below. An organization approved as a recognized classification society in accordance with 46 CFR part 8, subpart B, need not provide evidence of compliance with paragraphs (e)(1) and (e)(8) of this section.
 
 (1) Identification of the organization: Name of the organization, address, contact information, and organizational structure (including the QSS department).
 
@@ -63,3 +61,5 @@ Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 (2) If the Coast Guard determines that a Coast Guard-accepted QSS organization is not meeting its obligations to review, accept, and monitor training and assessment, the NMC will notify the organization in writing and will enclose information about the events that led to this determination. The organization will then have a specified period of time to correct the deficiency or appeal the conclusions to the Commandant (CG-5P). If the organization appeals, and the appeal is denied, or the deficiencies are not corrected within the allotted time, the NMC will withdraw the acceptance of the Coast Guard-accepted QSS organization. The NMC will notify all client organizations affected by this decision so that they may make arrangements to transfer to another Coast Guard-accepted QSS organization or seek NMC approval for their training.
 
 (i) A Coast Guard-accepted QSS organization may not approve courses provided by subsidiary organizations.
+
+[USCG-2004-17914, 78 FR 77903, Dec. 24, 2013, as amended by USCG-2021-0834, 89 FR 102334, Dec. 17, 2024]

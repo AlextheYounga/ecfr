@@ -16,4 +16,4 @@
 
 (d) *Supporting records.* The records of returned beer will be supported by invoices, credit memoranda or other commercial papers, and will differentiate between beer returned to the brewery from which removed and beer returned to a brewery different from the one from which removed.
 
-(Sec. 201, Pub. L. 85-859, 72 Stat. 1334, as amended, 1335, as amended, 1390, as amended (26 U.S.C. 5054, 5056, 5415))[T.D. ATF-224, 51 FR 7673, Mar. 5, 1986, as amended by T.D. TTB-196, 89 FR 87943, Nov. 6, 2024]
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1334, as amended, 1335, as amended, 1390, as amended (26 U.S.C. 5054, 5056, 5415)) [T.D. ATF-224, 51 FR 7673, Mar. 5, 1986, as amended by T.D. TTB-196, 89 FR 87943, Nov. 6, 2024]

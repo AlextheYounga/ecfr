@@ -34,4 +34,4 @@
 
 (iii) A constant airspeed for a portion of the altitude range for which certification is requested, and a constant amount less than power-on VNE for the remainder of the altitude range.
 
-(Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c) of the Dept. of Transportation Act (49 U.S.C. 1655(c))) [Amdt. 27-2, 33 FR 964, Jan. 26, 1968, and Amdt. 27-14, 43 FR 2325, Jan. 16, 1978; Amdt. 27-21, 49 FR 44435, Nov. 6, 1984]
+(Secs. 313(a), 601, 603, 604, and 605 of the Federal Aviation Act of 1958 (49 U.S.C. 1354(a), 1421, 1423, 1424, and 1425); and sec. 6(c) of the Dept. of Transportation Act (49 U.S.C. 1655(c)))[Amdt. 27-2, 33 FR 964, Jan. 26, 1968, and Amdt. 27-14, 43 FR 2325, Jan. 16, 1978; Amdt. 27-21, 49 FR 44435, Nov. 6, 1984]

@@ -104,4 +104,4 @@ When used in this part and in forms prescribed under this part, the following te
 
 *U.S.C.* The United States Code.
 
-(26 U.S.C. 7805 (68A Stat. 917), 27 U.S.C. 205 (49 Stat. 981 as amended), (82 Stat. 959), and Sec. 38, Arms Export Control Act (90 Stat. 744) Aug. 16, 1954, ch. 736, 68A Stat. 775, as amended (26 U.S.C. 6301); June 29, 1956, ch. 462, 70 Stat. 391 (26 U.S.C. 6301))[T.D. ATF-48, 43 FR 13553, Mar. 31, 1978]Editorial Note:For Federal Register citations affecting § 40.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(26 U.S.C. 7805 (68A Stat. 917), 27 U.S.C. 205 (49 Stat. 981 as amended), (82 Stat. 959), and Sec. 38, Arms Export Control Act (90 Stat. 744) Aug. 16, 1954, ch. 736, 68A Stat. 775, as amended (26 U.S.C. 6301); June 29, 1956, ch. 462, 70 Stat. 391 (26 U.S.C. 6301))[T.D. ATF-48, 43 FR 13553, Mar. 31, 1978] Editorial Note:For Federal Register citations affecting § 40.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -6,9 +6,10 @@
 
 (c) Registration by all air taxi operators shall be accomplished by filing with the Department at the address specified in paragraph (d) of this section the following:
 
-(1) Air Taxi Registration (OST Form 4507), executed in duplicate. 6 This form shall be certified by a responsible official and shall include the following information:
+(1) Air Taxi Registration (OST Form 4507), executed in duplicate.6 This form shall be certified by a responsible official and shall include the following information:
 
-6 OST Form 4507 can be obtained from the Manager, Technical Programs Branch, Federal Aviation Administration, AFS-260 at (202) 267-8166, or on the internet at *https://www.faa.gov/about/office\_org/headquarters\_offices/avs/offices/afx/afs/afs200/afs260/exemptions/*
+6 OST Form 4507 can be obtained from the Manager,
+Technical Programs Branch, Federal Aviation Administration, AFS-260 at (202) 267-8166, or on the internet at *https://www.faa.gov/about/office\_org/headquarters\_offices/avs/offices/afx/afs/afs200/afs260/exemptions/*
 
 (i) The name of the carrier and its mailing address;
 
@@ -16,7 +17,7 @@
 
 (iii) The carrier's FAA certificate number, if any, and the address and telephone number of the carrier's local FAA office;
 
-(iv) The type of service the carrier will offer (scheduled passenger, 7 scheduled cargo, mail under a U.S. Postal Service contract, on-demand passenger, on-demand cargo, or other service such as air ambulance operations, firefighting or seasonal operations);
+(iv) The type of service the carrier will offer (scheduled passenger,7 scheduled cargo, mail under a U.S. Postal Service contract, on-demand passenger, on-demand cargo, or other service such as air ambulance operations, firefighting or seasonal operations);
 
 7 Companies proposing to provide scheduled passenger service at the level established by this Part for commuter air carriers are not permitted to conduct such operations under their air taxi registration; such companies must first be found fit, willing and able to operate and be issued a Commuter Air Carrier Authorization by the Department.
 

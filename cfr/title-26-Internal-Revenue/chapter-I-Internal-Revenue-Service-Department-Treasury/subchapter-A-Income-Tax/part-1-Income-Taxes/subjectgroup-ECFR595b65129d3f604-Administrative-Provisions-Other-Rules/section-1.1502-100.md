@@ -28,6 +28,7 @@
 
 (ii) No charitable contributions deduction is taken into account under section 512(b)(10).
 
-(2) *Section 501(c)(2) organizations. See* sections 511(c) and 512(a)(3)(C) for special rules applicable to organizations described in section 501(c)(2). .
+(2) *Section 501(c)(2) organizations. See* sections 511(c) and 512(a)(3)(C) for special rules applicable to organizations described in section 501(c)(2).
+.
 
 See sections 511(c) and 512(a)(3)(C) for special rules applicable to organizations described in section 501(c)(2).[T.D. 7595, 44 FR 10382, Feb. 20, 1979, as amended by T.D. 8677, 61 FR 33325, June 27, 1996; T.D. 8823, 64 FR 36101, July 2, 1999; T.D. 9885, 84 FR 67044, Dec. 6, 2019; T.D. 10018, 89 FR 106878, Dec. 30, 2024]

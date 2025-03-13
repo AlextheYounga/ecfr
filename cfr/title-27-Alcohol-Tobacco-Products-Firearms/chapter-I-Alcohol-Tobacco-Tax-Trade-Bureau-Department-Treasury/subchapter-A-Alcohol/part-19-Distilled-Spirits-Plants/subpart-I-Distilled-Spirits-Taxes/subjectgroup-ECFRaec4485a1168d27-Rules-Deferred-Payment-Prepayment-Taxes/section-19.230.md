@@ -12,7 +12,6 @@ Under certain conditions, the proprietor must prepay the distilled spirits tax r
 
 (2) The proprietor fails to comply with any other provision of this part; or
 
-(d) When the proprietor's withdrawal bond, or the withdrawal coverage under its unit bond, is for less than the maximum penal sum. This condition does not apply to a proprietor who is exempt from furnishing a bond under § 19.151(d). The proprietor must prepay the tax to the extent that a withdrawal would cause the outstanding tax liability to exceed the limits of coverage under the bond.
-See also § 19.231 if the bond is for less than the maximum penal sum.
+(d) When the proprietor's withdrawal bond, or the withdrawal coverage under its unit bond, is for less than the maximum penal sum. This condition does not apply to a proprietor who is exempt from furnishing a bond under § 19.151(d). The proprietor must prepay the tax to the extent that a withdrawal would cause the outstanding tax liability to exceed the limits of coverage under the bond. See also § 19.231 if the bond is for less than the maximum penal sum.
 
 (26 U.S.C. 5213, 5555)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-146, 82 FR 1122, Jan. 4, 2017]

@@ -6,4 +6,4 @@
 
 (c) *Authority to break up grounds.* An appropriate TTB officer, and any person acting in his or her aid, may break up the ground on any part of a distilled spirits plant, or any other premises where spirits are produced or rectified, or any ground adjoining or near to such plant or premises, or any wall or partition thereof, or belonging thereto, or other place, to search for any pipe, cock, private conveyance, or utensil; and, upon finding any such pipe or conveyance leading therefrom or thereto, to break up any ground, house, wall, or other place through or into which such pipe or other conveyance leads, and to break or cut away such pipe or other conveyance, and turn any cock, or to determine whether such pipe or other conveyance conveys or conceals any spirits, mash, wort, or beer, or other liquor, from the sight or view of the appropriate TTB officer, so as to prevent or hinder such officer from taking a true account thereof.
 
-(68A Stat. 903, 72 Stat. 1357 (26 U.S.C. 7606, 5203))[T.D. ATF-450, 66 FR 29023, May 29, 2001]
+(68A Stat. 903, 72 Stat. 1357 (26 U.S.C. 7606, 5203)) [T.D. ATF-450, 66 FR 29023, May 29, 2001]

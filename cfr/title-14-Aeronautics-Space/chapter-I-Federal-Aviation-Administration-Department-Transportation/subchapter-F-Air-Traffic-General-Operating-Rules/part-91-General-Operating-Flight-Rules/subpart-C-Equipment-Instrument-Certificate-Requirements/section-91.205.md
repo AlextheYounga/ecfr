@@ -1,8 +1,6 @@
-##### § 91.205 Powered civil aircraft with standard category U.S. airworthiness certificates: Instrument and equipment requirements. #####
+##### § 91.205 Powered civil aircraft with standard U.S. airworthiness certificates: Instrument and equipment requirements. #####
 
-Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
-
-(a) *General.* Except as provided in paragraphs (c)(3) and (e) of this section, no person may operate a powered civil aircraft with a standard category U.S. airworthiness certificate in any operation described in paragraphs (b) through (f) of this section unless that aircraft contains the instruments and equipment specified in those paragraphs (or FAA-approved equivalents) for that type of operation, and those instruments and items of equipment are in operable condition.
+(a) *General.* Except as provided in paragraphs (c)(3) and (e) of this section, no person may operate a powered civil aircraft with a standard U.S. airworthiness certificate in any operation described in paragraphs (b) through (f) of this section unless that aircraft contains the instruments and equipment specified in those paragraphs (or FAA-approved equivalents) for that type of operation, and those instruments and items of equipment are in operable condition.
 
 (b) *Visual-flight rules (day).* For VFR flight during the day, the following instruments and equipment are required:
 
@@ -110,4 +108,4 @@ Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
 
 (i) *Exclusions.* Paragraphs (f) and (g) of this section do not apply to operations conducted by a holder of a certificate issued under part 121 or part 135 of this chapter.
 
-[Doc. No. 18334, 54 FR 34292, Aug. 18, 1989, as amended by Amdt. 91-220, 55 FR 43310, Oct. 26, 1990; Amdt. 91-223, 56 FR 41052, Aug. 16, 1991; Amdt. 91-231, 57 FR 42672, Sept. 15, 1992; Amdt. 91-248, 61 FR 5171, Feb. 9, 1996; Amdt. 91-251, 61 FR 34560, July 2, 1996; Amdt. 91-285, 69 FR 77599, Dec. 27, 2004; Amdt. 91-296, 72 FR 31679, June 7, 2007; Amdt. 91-309, 74 FR 42563, Aug. 21, 2009; Docket FAA-2015-1621, Amdt. 91-346, 81 FR 96700, Dec. 30, 2016]
+[Doc. No. 18334, 54 FR 34292, Aug. 18, 1989, as amended by Amdt. 91-220, 55 FR 43310, Oct. 26, 1990; Amdt. 91-223, 56 FR 41052, Aug. 16, 1991; Amdt. 91-231, 57 FR 42672, Sept. 15, 1992; Amdt. 91-248, 61 FR 5171, Feb. 9, 1996; Amdt. 91-251, 61 FR 34560, July 2, 1996; Amdt. 91-285, 69 FR 77599, Dec. 27, 2004; Amdt. 91-296, 72 FR 31679, June 7, 2007; Amdt. 91-309, 74 FR 42563, Aug. 21, 2009; Docket FAA-2015-1621, Amdt. 91-346, 81 FR 96700, Dec. 30, 2016; FAA-2023-1275; Amdt. No. 91-379, 89 FR 92486, Nov. 21, 2024]

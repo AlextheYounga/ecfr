@@ -87,7 +87,7 @@ Example (1).In 1973, H creates a trust which is to pay the income of the trust t
 
 (*3*) *Actuarial factor.* In paragraph (d)(2)(iv)(C)(*2*) of this section, the actuarial factor for determining the value of the private annuity is derived by the use of factors involving one life and a term of years. The factor is determined as illustrated in Figure 1 to this paragraph (d)(2)(iv)(C)(*3*).
 
-Figure 1 to Paragraph (d)(2)(iv)(C)(*3*)—Illustration of Calculation of Annuity Factor for Shorter of Term or Life ![](/graphics/er07jn23.022.gif)
+Figure 1 to Paragraph (d)(2)(iv)(C)(*3*)—Illustration of Calculation of Annuity Factor for Shorter of Term or Life![](/graphics/er07jn23.022.gif)
 
 (v) The present value of a unitrust interest described in paragraph (c)(2)(vii) of this section is to be determined by subtracting the present value of all interests in the transferred property other than the unitrust interest from the fair market value of the transferred property.
 
@@ -117,4 +117,4 @@ Figure 1 to Paragraph (d)(2)(iv)(C)(*3*)—Illustration of Calculation of Annuit
 
 (f) *Applicability date.* This section applies only to gifts made after July 31, 1969.
 
-[T.D. 7318, 39 FR 25458, July 11, 1974] Editorial Note:For Federal Register citations affecting § 25.2252(c)-3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 7318, 39 FR 25458, July 11, 1974]Editorial Note:For Federal Register citations affecting § 25.2252(c)-3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

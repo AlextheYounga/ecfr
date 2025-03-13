@@ -1,7 +1,5 @@
 ##### § 135.165 Communication and navigation equipment: Extended over-water or IFR operations. #####
 
-Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
-
 (a) *Aircraft navigation equipment requirements*—*General.* Except as provided in paragraph (g) of this section, no person may conduct operations under IFR or extended over-water unless—
 
 (1) The en route navigation aids necessary for navigating the aircraft along the route (e.g., ATS routes, arrival and departure routes, and instrument approach procedures, including missed approach procedures if a missed approach routing is specified in the procedure) are available and suitable for use by the navigation systems required by this section:
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
 
 (c) *VOR navigation equipment.* Whenever VOR navigation equipment is required by paragraph (a) or (b) of this section, no person may operate an aircraft unless it is equipped with at least one approved DME or suitable RNAV system.
 
-(d) *Airplane communication equipment requirements.* Except as permitted in paragraph (e) of this section, no person may operate a turbojet airplane having a passenger seat configuration, excluding any pilot seat, of 10 seats or more, or a multiengine airplane in a commuter operation, as defined in part 119 of this chapter, under IFR or in extended over-water operations unless the airplane is equipped with—
+(d) *Airplane communication equipment requirements.* Except as permitted in paragraph (e) of this section, no person may operate a turbojet airplane having a passenger seat configuration, excluding any pilot seat, of 10 seats or more, or a multiengine airplane in a commuter operation, as defined in part 110 of this chapter, under IFR or in extended over-water operations unless the airplane is equipped with—
 
 (1) At least two independent communication systems necessary under normal operating conditions to fulfill the functions specified in § 121.347(a) of this chapter; and
 
@@ -46,4 +44,4 @@ Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
 
 (3) The duration of the very high frequency communications gap.
 
-[Doc. No. FAA-2002-14002, 72 FR 31684, June 7, 2007]
+[Doc. No. FAA-2002-14002, 72 FR 31684, June 7, 2007, as amended by FAA-2023-1275, Amdt. No. 135-147, 89 FR 92486, Nov. 21, 2024]

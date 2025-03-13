@@ -8,7 +8,8 @@
 
 (i) The period beginning with the date of the sale (as determined under paragraph (b)(1)(iv), (v), and (vi) of § 400.4-1) and ending with the 120th day after such date, or
 
-(ii) The period for redemption of real property allowable, with resepct to other secured creditors, under local law of the place where the real property is located, whichever is longer.
+(ii) The period for redemption of real property allowable, with resepct to other secured creditors, under local law of the place where the real property is located,
+whichever is longer.
 
 (3) *Limitations.* In the event a sale does not ultimately discharge the property from the tax lien (whether by reason of local law or the provisions of section 7425(b)), the provisions of this section do not apply since the tax lien will continue to attach to the property after the sale. In a case in which the Internal Revenue Service is not entitled to a notice of sale under section 7425(b) and § 400.4-1, the United States does not have a right of redemption under section 7425(d). However, in such a case, if a tax lien has attached to the property at the time of sale, the United States has the same right of redemption, if any, which is afforded to any secured creditor under the local law of the place in which the property is situated.
 

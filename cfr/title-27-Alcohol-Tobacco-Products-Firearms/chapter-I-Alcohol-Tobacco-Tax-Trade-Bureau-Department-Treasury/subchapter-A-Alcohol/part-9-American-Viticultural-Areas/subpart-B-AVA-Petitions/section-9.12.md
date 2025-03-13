@@ -50,4 +50,4 @@
 
 (2) *Name change.* If a petition seeks to change the name of an existing AVA, the petition must establish the suitability of that name change by providing the name evidence specified in paragraph (a)(1) of this section.
 
-(Approved by the Office of Management and Budget under control number 1513-0127)[T.D. TTB-90, 76 FR 3500, Jan. 20, 2011, as amended by T.D. TTB-196 , 89 FR 87936, Nov. 6, 2024
+(Approved by the Office of Management and Budget under control number 1513-0127) [T.D. TTB-90, 76 FR 3500, Jan. 20, 2011, as amended by T.D. TTB-196 , 89 FR 87936, Nov. 6, 2024

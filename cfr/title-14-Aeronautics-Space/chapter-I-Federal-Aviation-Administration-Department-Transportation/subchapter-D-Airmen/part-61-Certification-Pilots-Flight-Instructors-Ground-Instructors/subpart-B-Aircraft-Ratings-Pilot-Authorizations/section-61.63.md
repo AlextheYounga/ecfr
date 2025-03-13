@@ -1,7 +1,5 @@
 ##### § 61.63 Additional aircraft ratings (other than for ratings at the airline transport pilot certification level). #####
 
-Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
-
 (a) *General.* For an additional aircraft rating on a pilot certificate, other than for an airline transport pilot certificate, a person must meet the requirements of this section appropriate to the additional aircraft rating sought.
 
 (b) *Additional aircraft category rating.* A person who applies to add a category rating to a pilot certificate:
@@ -60,14 +58,8 @@ Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
 
 (g) *Single engine airplane with a single-pilot station.* An applicant for a type rating, at other than the ATP certification level, in a single engine airplane with a single-pilot station must perform the practical test in the multi-seat version of that single engine airplane, or the practical test may be performed in the single-seat version of that airplane if the Examiner is in a position to observe the applicant during the practical test and there is no multi-seat version of that single engine airplane.
 
-(h) *Aircraft category and class rating for the operation of aircraft with an experimental certificate.* A person holding a recreational, private, or commercial pilot certificate may apply for a category and class rating limited to a specific make and model of experimental aircraft, provided—
-
-(1) The person logged 5 hours flight time while acting as pilot in command in the same category, class, make, and model of aircraft.
-
-(2) The person received a logbook endorsement from an authorized instructor who determined the pilot's proficiency to act as pilot in command of the same category, class, make, and model of aircraft.
-
-(3) The flight time specified under paragraph (h)(1) of this section was logged between September 1, 2004 and August 31, 2005.
+(h) [Reserved]
 
 (i) *Waiver authority.* An Examiner who conducts a practical test may waive any task for which the FAA has provided waiver authority.
 
-[Doc. No. FAA-2006-26661, 74 FR 42552, Aug. 21, 2009, as amended by Amdt. 61-125, 75 FR 5220, Feb. 1, 2010]
+[Doc. No. FAA-2006-26661, 74 FR 42552, Aug. 21, 2009, as amended by Amdt. 61-125, 75 FR 5220, Feb. 1, 2010; FAA-2023-1275; Amdt. No. 61-157, 89 FR 92485, Nov. 21, 2024]

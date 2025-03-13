@@ -2,7 +2,7 @@
 
 (a) *Formula.* To every 100 gallons of alcohol add:
 
-One-sixteenth avoirdupois ounce of denatonium benzoate, N.F., and1/8 gallon of *tert*-butyl alcohol.
+One-sixteenth avoirdupois ounce of denatonium benzoate, N.F., and 1/8 gallon of *tert*-butyl alcohol.
 
 (b) *Authorized uses.* (1) As a solvent:
 

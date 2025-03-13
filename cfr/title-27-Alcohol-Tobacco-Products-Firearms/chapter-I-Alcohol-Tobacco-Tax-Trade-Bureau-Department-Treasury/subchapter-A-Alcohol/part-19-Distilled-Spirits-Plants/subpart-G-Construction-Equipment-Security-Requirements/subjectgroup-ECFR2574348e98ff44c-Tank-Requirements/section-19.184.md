@@ -16,8 +16,8 @@
 
 (2) 5 percent of the total capacity of the weighing tank scale.
 
-(c) The weighing of lesser quantities for determination of tax may be authorized by the appropriate TTB officer where the beam of the scale is calibrated in1/2 pound or 1 pound graduations and it is found by actual test that the scales are accurate at each graduation.
+(c) The weighing of lesser quantities for determination of tax may be authorized by the appropriate TTB officer where the beam of the scale is calibrated in 1/2 pound or 1 pound graduations and it is found by actual test that the scales are accurate at each graduation.
 
-(d) Lots of spirits weighing 1,000 pounds or less shall be weighed on scales having1/2 pound graduations.
+(d) Lots of spirits weighing 1,000 pounds or less shall be weighed on scales having 1/2 pound graduations.
 
 (26 U.S.C. 5006, 5204, 5505)

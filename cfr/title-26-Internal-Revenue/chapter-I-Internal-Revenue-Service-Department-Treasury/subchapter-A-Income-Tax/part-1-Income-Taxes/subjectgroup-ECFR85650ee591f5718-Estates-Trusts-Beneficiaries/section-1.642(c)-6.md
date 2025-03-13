@@ -57,7 +57,7 @@ Example 1.(a) The pooled income fund maintained by W University has established 
 | 25% × $1,400  |  350  |
 |Sum of products| 3,050 |
 
-(d) The pooled income fund's yearly rate of return for 1971 is 5.157 percent, determined as follows: $5,000 ÷ $100,000 − $3,050 = 0.05157Example 2.(a) The pooled income fund maintained by X University has established determination dates on the first day of each calendar quarter. The pooled income fund is on a calendar-year basis. The pooled income fund earned $5,000 of income during 1971 and paid out $3,000 on December 15, 1971, and $2,000 on January 15, 1972, the last amount being treated under paragraph (b)(7) of § 1.642(c)-5 as paid on December 31, 1971. The fair market value of its property (determined without including any income earned by the fund) on the determination dates in 1971 and the income paid out during 1971 are as follows:
+(d) The pooled income fund's yearly rate of return for 1971 is 5.157 percent, determined as follows:$5,000 ÷ $100,000 − $3,050 = 0.05157Example 2.(a) The pooled income fund maintained by X University has established determination dates on the first day of each calendar quarter. The pooled income fund is on a calendar-year basis. The pooled income fund earned $5,000 of income during 1971 and paid out $3,000 on December 15, 1971, and $2,000 on January 15, 1972, the last amount being treated under paragraph (b)(7) of § 1.642(c)-5 as paid on December 31, 1971. The fair market value of its property (determined without including any income earned by the fund) on the determination dates in 1971 and the income paid out during 1971 are as follows:
 
 | Date  |Fair market value of property|Income payment|
 |-------|-----------------------------|--------------|
@@ -80,7 +80,7 @@ Example 1.(a) The pooled income fund maintained by W University has established 
 | 25% × $3,000  | $750  |
 |Sum of products|  750  |
 
-(d) The pooled income fund's yearly rate of return for 1971 is 5.038 percent, determined as follows: $5,000 ÷ $100,000 − $750 = 0.05038
+(d) The pooled income fund's yearly rate of return for 1971 is 5.038 percent, determined as follows:$5,000 ÷ $100,000 − $750 = 0.05038
 
 (d) *Valuation.* The present value of the remainder interest in property transferred to a pooled income fund on or after June 1, 2023, is determined under paragraph (e) of this section. The present value of the remainder interest in property transferred to a pooled income fund for which the valuation date is before June 1, 2023, is determined (subject to paragraph (e)(2) of this section) under the following sections:
 
@@ -121,7 +121,7 @@ Example 1.(a) The pooled income fund maintained by W University has established 
 
 (iii) *Example of interpolation.* After June 1, 2023, A, whose age is 54 years and 8 months, transfers $100,000 to a pooled income fund, and retains a life income interest in the property. The highest yearly rate of return earned by the fund for its 3 preceding taxable years is 5.43 percent. In Table S, the remainder factor opposite 55 years under 5.4 percent is 0.28442 and under 5.6 percent is 0.27363. The present value of the remainder interest is $28,280, computed as illustrated in Figure 1 to this paragraph (e)(5)(iii).
 
-Figure 1 to Paragraph (e)(5)(iii)—Illustration of Interpolation Method ![](/graphics/er07jn23.007.gif)
+Figure 1 to Paragraph (e)(5)(iii)—Illustration of Interpolation Method![](/graphics/er07jn23.007.gif)
 
 (6) *Actuarial tables.* In the case of transfers for which the valuation date is on or after June 1, 2023, the present value of a remainder interest dependent on the termination of one life in the case of a transfer to a pooled income fund is determined by using the formula in § 20.2031-7(d)(2)(ii)(B) of this chapter to derive a remainder factor from the appropriate mortality table to at least five decimal places. For the convenience of taxpayers, actuarial factors have been computed by the IRS and appear in Table S. Table S currently is available, at no charge, electronically via the IRS website at *https://www.irs.gov/retirement-plans/actuarial-tables.* Table S is referenced and explained in IRS Publication 1457, *Actuarial Valuations Version 4A,* which will be available within a reasonable time after June 1, 2023.
 

@@ -46,7 +46,7 @@
 
 (D) 2.5 percent for taxable years beginning after 2015.
 
-(c) *Monthly national average bronze plan premium. Monthly national average bronze plan premium* means, for a month for which a shared responsibility payment is imposed, 1/12 of the annual national average premium for qualified health plans that have a bronze level of coverage, would provide coverage for the taxpayer's shared responsibility family members who do not have minimum essential coverage for the month, and are offered through Exchanges for plan years beginning in the calendar year with or within which the taxable year ends.
+(c) *Monthly national average bronze plan premium. Monthly national average bronze plan premium* means, for a month for which a shared responsibility payment is imposed,1/12 of the annual national average premium for qualified health plans that have a bronze level of coverage, would provide coverage for the taxpayer's shared responsibility family members who do not have minimum essential coverage for the month, and are offered through Exchanges for plan years beginning in the calendar year with or within which the taxable year ends.
 
 (d) *Examples.* The following examples illustrate the provisions of this section. In each example the taxpayer's taxable year is a calendar year and all members of the taxpayer's shared responsibility family are ineligible for any of the exemptions described in § 1.5000A-3 for a month.
 

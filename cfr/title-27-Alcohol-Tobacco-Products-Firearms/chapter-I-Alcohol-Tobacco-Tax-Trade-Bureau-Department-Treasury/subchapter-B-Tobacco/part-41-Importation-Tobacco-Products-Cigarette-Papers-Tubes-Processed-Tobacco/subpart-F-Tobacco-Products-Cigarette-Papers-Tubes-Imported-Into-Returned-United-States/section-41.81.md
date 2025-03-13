@@ -52,4 +52,4 @@
 
 (3) Tax payments of cigars from class 6, customs bonded manufacturing warehouses (see § 41.151).
 
-(68A Stat. 907, as amended (26 U.S.C. 7652); sec. 202, Pub. L. 85-859, 72 Stat. 1417 (26 U.S.C. 5703))(Approved by the Office of Management and Budget under control number 1513-0064)[T.D. ATF-27, 41 FR 23951, June 14, 1976]Editorial Note:For Federal Register citations affecting § 41.81, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(68A Stat. 907, as amended (26 U.S.C. 7652); sec. 202, Pub. L. 85-859, 72 Stat. 1417 (26 U.S.C. 5703))(Approved by the Office of Management and Budget under control number 1513-0064) [T.D. ATF-27, 41 FR 23951, June 14, 1976] Editorial Note:For Federal Register citations affecting § 41.81, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

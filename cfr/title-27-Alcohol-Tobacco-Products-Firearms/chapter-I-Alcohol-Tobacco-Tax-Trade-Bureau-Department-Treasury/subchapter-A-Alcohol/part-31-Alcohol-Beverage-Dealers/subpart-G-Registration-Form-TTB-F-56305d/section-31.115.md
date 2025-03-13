@@ -4,4 +4,4 @@
 
 (b) *Application for employer identification number.* Each dealer who files a registration form and who has not already been assigned an employer identification number must file Internal Revenue Service (IRS) Form SS-4 to apply for one. The dealer shall apply for and be assigned only one employer identification number, regardless of the number of places of business for which the dealer is required to file a registration form under this part. The employer identification number shall be applied for no later than 7 days after the filing of the taxpayer's first registration form. IRS Form SS-4 may be obtained from the director of an IRS service center, from any IRS district director, from *https://www.irs.gov/,* or from TTB's National Revenue Center.
 
-(26 U.S.C. 6109)[T.D. TTB-79, 74 FR 37407, July 28, 2009, as amended by T.D. TTB-196, 89 FR 87946, Nov. 6, 2024]
+(26 U.S.C. 6109) [T.D. TTB-79, 74 FR 37407, July 28, 2009, as amended by T.D. TTB-196, 89 FR 87946, Nov. 6, 2024]

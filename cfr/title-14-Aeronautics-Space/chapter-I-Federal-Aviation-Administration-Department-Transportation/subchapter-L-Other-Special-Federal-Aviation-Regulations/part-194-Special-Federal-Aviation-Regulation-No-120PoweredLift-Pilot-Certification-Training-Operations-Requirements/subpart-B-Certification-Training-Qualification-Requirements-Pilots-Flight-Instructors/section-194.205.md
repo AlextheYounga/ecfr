@@ -1,0 +1,3 @@
+##### § 194.205 Limitations on flight training privileges for holders of airline transport pilot certificates under a part 135 of this chapter approved training program. #####
+
+Notwithstanding the privileges in § 61.167(a)(2) of this chapter, a person who holds an airline transport pilot certificate with powered-lift ratings must hold a flight instructor certificate with the appropriate powered-lift ratings to instruct pilots in accordance with a training curriculum approved to meet the requirements of § 194.243(a)(1).

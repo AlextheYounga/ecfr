@@ -60,4 +60,4 @@
 
 (b) *Applicability dates.* Except as otherwise provided in this paragraph (b), this section applies to domestic entity acquisitions completed on or after September 22, 2014. The following apply to domestic entity acquisitions completed on or after April 4, 2016: paragraph (a)(8) of this section; in paragraph (a)(6) of this section, the phrase “, including a corporation that succeeds to and takes into account amounts with respect to the domestic entity pursuant to section 381”; and the second sentence of paragraph (a)(10) of this section. For domestic entity acquisitions completed on or after September 22, 2014, and before April 4, 2016, however, taxpayers, may elect to apply the provisions in the immediately prior sentence.
 
-[T.D. 9834, 83 FR 32560, July 12, 2018] PUBLIC LAW 74, 84TH CONGRESS
+[T.D. 9834, 83 FR 32560, July 12, 2018]PUBLIC LAW 74, 84TH CONGRESS

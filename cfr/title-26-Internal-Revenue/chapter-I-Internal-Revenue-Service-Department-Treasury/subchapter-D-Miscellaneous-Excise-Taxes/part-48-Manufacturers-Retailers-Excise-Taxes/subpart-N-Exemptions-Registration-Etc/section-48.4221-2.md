@@ -26,7 +26,7 @@ The undersigned, or \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 I have not previously executed a statement in respect of such certificate of resale, and I understand that the fraudulent use of this statement may subject me and all parties making such fraudulent use of this statement to a fine of not more than $10,000, or imprisonment for not more than 5 years, or both, together with the costs of prosecution.
 
-(Signature) (Address)
+(Signature)(Address)
 
 (ii) *Period covered.* Any statement executed and signed by the manufacturer's vendee, as provided in subdivision (i) of this paragraph (c)(2), may be executed with respect to any one or more articles purchased tax free from a manufacturer and resold for use in further manufacture within the 6-month period prescribed in section 4221 (a)(1) and paragraph (c)(1) of this section. Such statement (or other prescribed proof of resale) must be retained for inspection by the district director as provided in section 6001.
 

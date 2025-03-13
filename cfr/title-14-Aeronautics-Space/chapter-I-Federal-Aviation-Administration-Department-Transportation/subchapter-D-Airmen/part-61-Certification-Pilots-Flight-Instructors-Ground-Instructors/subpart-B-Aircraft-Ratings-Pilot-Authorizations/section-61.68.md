@@ -18,7 +18,7 @@
 
 (ii) 40 hours of simulated instrument flight time if accomplished in an approved course conducted by an appropriately rated training center certificated under part 142 of this chapter.
 
-(3) 250 hours of cross-country flight time as pilot in command.
+(3) 250 hours of cross-country time as pilot in command.
 
 (c) *Practical test requirements.* (1) A practical test must be passed by a person who applies for—
 
@@ -120,4 +120,4 @@
 
 (D) In weather conditions anticipated in Category IIIb operations.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40900, July 30, 1997]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40900, July 30, 1997, as amended by FAA-2023-1275; Amdt. No. 61-157, 89 FR 92483, Nov. 21, 2024]

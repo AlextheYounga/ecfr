@@ -120,4 +120,4 @@ If subparagraph (1) of this paragraph applies, the amounts assessed or paid upon
 
 (l) *Effective/applicability dates.* Paragraph (d)(1) of this section applies to taxable years for which the due date of the original return (without regard to extensions) is on or after September 17, 2008.
 
-[T.D. 6894, 31 FR 11794, Sept. 8, 1966] Editorial Note:For Federal Register citations affecting § 1.1502-75, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 6894, 31 FR 11794, Sept. 8, 1966]Editorial Note:For Federal Register citations affecting § 1.1502-75, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 61.5 Certificates and ratings issued under this part. #####
 
-Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
-
 (a) The following certificates are issued under this part to an applicant who satisfactorily accomplishes the training and certification requirements for the certificate sought:
 
 (1) Pilot certificates—
@@ -80,9 +78,9 @@ Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
 (ii) Turbojet-powered airplanes.
 
-(iii) Other aircraft type ratings specified by the Administrator through the aircraft type certification procedures.
+(iii) Powered-lift.
 
-(iv) Second-in-command pilot type rating for aircraft that is certificated for operations with a minimum crew of at least two pilots.
+(iv) Other aircraft type ratings specified by the Administrator through the aircraft type certification procedures.
 
 (8) Instrument ratings (on private and commercial pilot certificates only)—
 
@@ -91,6 +89,8 @@ Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 (ii) Instrument—Helicopter.
 
 (iii) Instrument—Powered-lift.
+
+(9) Second-in-command pilot type rating for aircraft that is certificated for operations with a minimum crew of at least two pilots.
 
 (c) The following ratings are placed on a flight instructor certificate when an applicant satisfactorily accomplishes the training and certification requirements for the rating sought:
 
@@ -134,4 +134,4 @@ Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
 (3) Instrument.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-113, 70 FR 45271, Aug. 4, 2005]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-113, 70 FR 45271, Aug. 4, 2005; FAA-2023-1275; Amdt. No. 61-157, 89 FR 92484, Nov. 21, 2024]

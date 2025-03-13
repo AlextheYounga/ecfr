@@ -99,7 +99,7 @@ Example 3.On July 1, 1984, B purchases and places in service an item of listed p
 
 Example 8.(i) On July 1, 1984, G purchases for $60,000 and places in service a passenger automobile which is 3-year recovery property under section 168.
 
-(ii) In 1984, G's business use percentage is 80 percent and such use constitutes his total business/investment use. G elects under section 48(q)(4) to take a reduced investment tax credit in lieu of the basis adjustment under section 48(q)(1). The maximum amount of G's investment tax credit is $533.33 (*i.e.,* the lesser of .80 × 2/3 × $1,000 or $60,000 × .80 × .04).
+(ii) In 1984, G's business use percentage is 80 percent and such use constitutes his total business/investment use. G elects under section 48(q)(4) to take a reduced investment tax credit in lieu of the basis adjustment under section 48(q)(1). The maximum amount of G's investment tax credit is $533.33 (*i.e.,* the lesser of .80 ×2/3 × $1,000 or $60,000 × .80 × .04).
 
 (iii) In 1984, G does not elect under section 179 to expense a portion of the automobile's cost. G selects the use of the accelerated recovery percentages under section 168. G's unadjusted basis for purposes of section 168 is $60,000. The maximum amount of G's 1984 recovery deduction is $3,200 (*i.e.,* the lesser of .80 × $4,000 or .80 × .25 × $60,000).
 

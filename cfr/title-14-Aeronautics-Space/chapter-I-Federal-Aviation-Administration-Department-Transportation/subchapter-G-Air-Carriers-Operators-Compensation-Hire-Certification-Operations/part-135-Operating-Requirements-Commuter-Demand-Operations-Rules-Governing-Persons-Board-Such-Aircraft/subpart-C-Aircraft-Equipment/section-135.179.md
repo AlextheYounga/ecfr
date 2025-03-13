@@ -1,7 +1,5 @@
 ##### § 135.179 Inoperable instruments and equipment. #####
 
-Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
-
 (a) No person may take off an aircraft with inoperable instruments or equipment installed unless the following conditions are met:
 
 (1) An approved Minimum Equipment List exists for that aircraft.
@@ -20,7 +18,7 @@ Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
 
 (b) The following instruments and equipment may not be included in the Minimum Equipment List:
 
-(1) Instruments and equipment that are either specifically or otherwise required by the airworthiness requirements under which the airplane is type certificated and which are essential for safe operations under all operating conditions.
+(1) Instruments and equipment that are either specifically or otherwise required by the airworthiness requirements under which the aircraft is type certificated and which are essential for safe operations under all operating conditions.
 
 (2) Instruments and equipment required by an airworthiness directive to be in operable condition unless the airworthiness directive provides otherwise.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
 
 (c) Notwithstanding paragraphs (b)(1) and (b)(3) of this section, an aircraft with inoperable instruments or equipment may be operated under a special flight permit under §§ 21.197 and 21.199 of this chapter.
 
-[Doc. No. 25780, 56 FR 12311, Mar. 22, 1991; 56 FR 14920, Apr. 8, 1991, as amended by Amdt. 135-60, 61 FR 2616, Jan. 26, 1996; Amdt. 135-91, 68 FR 54586, Sept. 17, 2003; Docket FAA-2018-0119, Amdt. 135-139, 83 FR 9175, Mar. 5, 2018]
+[Doc. No. 25780, 56 FR 12311, Mar. 22, 1991; 56 FR 14920, Apr. 8, 1991, as amended by Amdt. 135-60, 61 FR 2616, Jan. 26, 1996; Amdt. 135-91, 68 FR 54586, Sept. 17, 2003; Docket FAA-2018-0119, Amdt. 135-139, 83 FR 9175, Mar. 5, 2018; FAA-2023-1275, Amdt. No. 135-147, 89 FR 92486, Nov. 21, 2024]

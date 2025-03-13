@@ -1,0 +1,5 @@
+##### § 194.105 Qualification of powered-lift FSTDs. #####
+
+(a) For flight simulation training devices (FSTDs) representing powered-lift for which qualification standards have not been issued under part 60 of this chapter, the applicable requirements will be the portions of the flight simulation training device qualification performance standards contained in appendices A through D to part 60 of this chapter that are found by the Administrator to be appropriate for the powered-lift and applicable to a specific type design, or such FSTD qualification criteria as the Administrator may find provide an equivalent level of safety to those FSTD qualification standards.
+
+(b) Proposed qualification performance standards as set forth by paragraph (a) of this section will be published in the Federal Register for comment, except when the FAA considers public notice to be unnecessary because previous opportunities to comment on substantially identical proposed qualification performance standards have been provided. In these instances, FAA will provide personal notice and opportunity for comment.

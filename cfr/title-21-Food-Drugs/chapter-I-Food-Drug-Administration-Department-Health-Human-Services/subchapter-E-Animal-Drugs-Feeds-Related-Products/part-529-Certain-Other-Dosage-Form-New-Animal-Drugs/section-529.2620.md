@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each milliliter of gel contains 100 micrograms (mcg) triptorelin as triptorelin acetate.
 
-(b) *Sponsor.* See No. 051233 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 051072 in § 510.600(c) of this chapter.
 
 (c) *Conditions of use in swine*—(1) *Amount.* Administer 200 mcg intravaginally approximately 96 hours after weaning.
 
@@ -10,4 +10,4 @@
 
 (3) *Limitations.* Not approved for use in gilts. Safety and effectiveness have not been evaluated in these animals. Should not be used in sows with obvious reproductive tract abnormalities.
 
-[77 FR 64717, Oct. 23, 2012]
+[77 FR 64717, Oct. 23, 2012, as amended at 90 FR 6801, Jan. 21, 2025]

@@ -8,4 +8,4 @@
 
 (d) Each person who is required by this section to make remittances by EFT shall make the EFT remittance in accordance with the requirements of CBP.
 
-(Approved by the Office of Management and Budget under Control Number 1513-0083)[T.D. ATF-245, 52 FR 532, Jan. 7, 1987, as amended by T.D. ATF-479, 67 FR 30798, May 8, 2002; T.D. TTB-196, 89 FR 87944, Nov. 6, 2024]
+(Approved by the Office of Management and Budget under Control Number 1513-0083) [T.D. ATF-245, 52 FR 532, Jan. 7, 1987, as amended by T.D. ATF-479, 67 FR 30798, May 8, 2002; T.D. TTB-196, 89 FR 87944, Nov. 6, 2024]

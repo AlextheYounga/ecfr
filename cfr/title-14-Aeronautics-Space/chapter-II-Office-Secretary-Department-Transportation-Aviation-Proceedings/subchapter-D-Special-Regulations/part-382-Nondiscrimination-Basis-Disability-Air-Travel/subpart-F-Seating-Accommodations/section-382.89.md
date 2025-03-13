@@ -16,4 +16,5 @@
 
 (3) When a passenger's personal wheelchair is not available at the door of the aircraft for the reasons set forth in paragraph (c)(2) of this section, an airport wheelchair must be available as close as possible to the door of the aircraft for the passenger's use.
 
-[DOT-OST-2022-0144, 89 FR 102442, Dec. 17, 2024]
+[DOT-OST-2022-0144,
+89 FR 102442, Dec. 17, 2024]

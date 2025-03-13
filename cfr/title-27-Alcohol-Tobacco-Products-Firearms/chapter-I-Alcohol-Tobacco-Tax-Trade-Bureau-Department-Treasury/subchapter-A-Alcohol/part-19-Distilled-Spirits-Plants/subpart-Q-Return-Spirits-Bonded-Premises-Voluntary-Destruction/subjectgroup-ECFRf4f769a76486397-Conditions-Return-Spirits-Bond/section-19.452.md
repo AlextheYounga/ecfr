@@ -22,4 +22,4 @@
 
 (d) *Applicability of Chapter 51 of the IRC.* All provisions of chapter 51 of the IRC and of this part that apply to spirits under TTB bond also apply to spirits when returned to bond under this section.
 
-(26 U.S.C. 5008, 5010, 5201, 5207, 5215)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-196 89 FR 87939, Nov. 6, 2024]
+(26 U.S.C. 5008, 5010, 5201, 5207, 5215) [T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-196 89 FR 87939, Nov. 6, 2024]

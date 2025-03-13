@@ -1,7 +1,5 @@
 ##### § 61.3 Requirement for certificates, ratings, and authorizations. #####
 
-Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
-
 (a) *Required pilot certificate for operating a civil aircraft of the United States.* No person may serve as a required pilot flight crewmember of a civil aircraft of the United States, unless that person:
 
 (1) Has in the person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate or authorization—
@@ -114,9 +112,9 @@ Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
 (e) *Instrument rating.* No person may act as pilot in command of a civil aircraft under IFR or in weather conditions less than the minimums prescribed for VFR flight unless that person holds:
 
-(1) The appropriate aircraft category, class, type (if required), and instrument rating on that person's pilot certificate for any airplane, helicopter, or powered-lift being flown;
+(1) The appropriate aircraft category, class, type (if a class or type rating is required), and instrument rating on that person's pilot certificate for any airplane, helicopter, or powered-lift being flown;
 
-(2) An airline transport pilot certificate with the appropriate aircraft category, class, and type rating (if required) for the aircraft being flown;
+(2) An airline transport pilot certificate with the appropriate aircraft category, class, and type rating (if a class or type rating is required) for the aircraft being flown;
 
 (3) For a glider, a pilot certificate with a glider category rating and an airplane instrument rating; or
 
@@ -132,9 +130,9 @@ Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
 (2) Act as second in command of a civil aircraft during Category II operations unless that person—
 
-(i) Holds a pilot certificate with category and class ratings for that aircraft and an instrument rating for that category aircraft;
+(i) Holds a pilot certificate with category and class ratings (if a class rating is required) for that aircraft and an instrument rating for that category aircraft;
 
-(ii) Holds an airline transport pilot certificate with category and class ratings for that aircraft; or
+(ii) Holds an airline transport pilot certificate with category and class ratings (if a class rating is required) for that aircraft; or
 
 (iii) In the case of a civil aircraft of foreign registry, is authorized by the country of registry to act as second in command of that aircraft during Category II operations.
 
@@ -148,9 +146,9 @@ Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
 (2) Act as second in command of a civil aircraft during Category III operations unless that person—
 
-(i) Holds a pilot certificate with category and class ratings for that aircraft and an instrument rating for that category aircraft;
+(i) Holds a pilot certificate with category and class ratings (if a class rating is required) for that aircraft and an instrument rating for that category aircraft;
 
-(ii) Holds an airline transport pilot certificate with category and class ratings for that aircraft; or
+(ii) Holds an airline transport pilot certificate with category and class ratings (if a class rating is required) for that aircraft; or
 
 (iii) In the case of a civil aircraft of foreign registry, is authorized by the country of registry to act as second in command of that aircraft during Category III operations.
 
@@ -208,4 +206,4 @@ Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
 (4) An authorized representative of the Transportation Security Administration.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40894, July 30, 1997; Amdt. 61-111, 67 FR 65861, Oct. 28, 2002; Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-123, 74 FR 34234, July 15, 2009; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53644, Oct. 20, 2009; Amdt. 61-131, 78 FR 56828, Sept. 16, 2013; Amdt. 61-134, 80 FR 33400, June 12, 2015; Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1306, Jan. 12, 2016; Doc. No. FAA-2016-9157, Amdt. 61-140, 82 FR 3164, Jan. 11, 2017; Amdt. 60-6, 83 FR 30276, June 27, 2018; Docket No. FAA-2021-1040, Amdt. Nos. 61-152, 87 FR 71236, Nov. 22, 2022; Docket No. FAA-2021-1040; Amdt. No. 61-152, 87 FR 71236, Nov. 22, 2022]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40894, July 30, 1997; Amdt. 61-111, 67 FR 65861, Oct. 28, 2002; Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-123, 74 FR 34234, July 15, 2009; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53644, Oct. 20, 2009; Amdt. 61-131, 78 FR 56828, Sept. 16, 2013; Amdt. 61-134, 80 FR 33400, June 12, 2015; Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1306, Jan. 12, 2016; Doc. No. FAA-2016-9157, Amdt. 61-140, 82 FR 3164, Jan. 11, 2017; Amdt. 60-6, 83 FR 30276, June 27, 2018; Docket No. FAA-2021-1040, Amdt. Nos. 61-152, 87 FR 71236, Nov. 22, 2022; Docket No. FAA-2021-1040; Amdt. No. 61-152, 87 FR 71236, Nov. 22, 2022; FAA-2023-1275; Amdt. No. 61-157, 89 FR 92484, Nov. 21, 2024]

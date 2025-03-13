@@ -6,7 +6,11 @@
 
 (2) 500 grams per kilogram for use as in paragraph (e)(2) of this section.
 
-(b) *Sponsor.* See No. 000061 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See sponsor numbers as in § 510.600(c) of this chapter.
+
+(1) No. 000061 for use of products described in paragraph (a) of this section as in paragraph (e) of this section.
+
+(2) No. 066104 for use of product described in paragraph (a)(2) of this section as in paragraph (e)(2) of this section.
 
 (c) *Related tolerances.* See § 556.283 of this chapter.
 
@@ -37,4 +41,4 @@
 |       (iii) 182 to 2,724       |                              Freshwater-reared finfish: For the control of mortality due to columnaris disease associated with Flavobacterium columnare                              |Feed as a sole ration for 10 consecutive days to deliver 10 to 15 mg florfenicol per kg of fish for freshwater-reared warmwater finfish and other freshwater-reared finfish. Feed containing florfenicol shall not be fed for more than 10 days. Following administration, fish should be reevaluated by a licensed veterinarian before initiating a further course of therapy. For catfish, a dose-related decrease in hematopoietic/lymphopoietic tissue may occur. The time required for hematopoietic/lymphopoietic tissues to regenerate was not evaluated. The effects of florfenicol on reproductive performance have not been determined. Feeds containing florfenicol must be withdrawn 15 days prior to slaughter.|
 |       (iv) 273 to 2,724        |                        Freshwater-reared warmwater finfish: For the control of mortality due to streptococcal septicemia associated with Streptococcus iniae                         |                                         Feed as a sole ration for 10 consecutive days to deliver 15 mg florfenicol per kg of fish. Feed containing florfenicol shall not be fed for more than 10 days. Following administration, fish should be reevaluated by a licensed veterinarian before initiating a further course of therapy. For catfish, a dose-related decrease in hematopoietic/lymphopoietic tissue may occur. The time required for hematopoietic/lymphopoietic tissues to regenerate was not evaluated. The effects of florfenicol on reproductive performance have not been determined. Feeds containing florfenicol must be withdrawn 15 days prior to slaughter.                                         |
 
-[70 FR 70047, Nov. 21, 2005, as amended at 71 FR 70304, Dec. 4, 2006; 72 FR 19798, Apr. 20, 2007; 72 FR 65885, Nov. 26, 2007; 77 FR 32012, May 31, 2012; 79 FR 18159, Apr. 1, 2014; 80 FR 76387, Dec. 9, 2015; 81 FR 17609, Mar. 30, 2016; 81 FR 67152, Sept. 30, 2016; 86 FR 14822, Mar. 19, 2021; 87 FR 10971, Feb. 28, 2022; 89 FR 85428, Oct. 28, 2024]
+[70 FR 70047, Nov. 21, 2005, as amended at 71 FR 70304, Dec. 4, 2006; 72 FR 19798, Apr. 20, 2007; 72 FR 65885, Nov. 26, 2007; 77 FR 32012, May 31, 2012; 79 FR 18159, Apr. 1, 2014; 80 FR 76387, Dec. 9, 2015; 81 FR 17609, Mar. 30, 2016; 81 FR 67152, Sept. 30, 2016; 86 FR 14822, Mar. 19, 2021; 87 FR 10971, Feb. 28, 2022; 89 FR 85428, Oct. 28, 2024; 90 FR 6802, Jan. 21, 2025]

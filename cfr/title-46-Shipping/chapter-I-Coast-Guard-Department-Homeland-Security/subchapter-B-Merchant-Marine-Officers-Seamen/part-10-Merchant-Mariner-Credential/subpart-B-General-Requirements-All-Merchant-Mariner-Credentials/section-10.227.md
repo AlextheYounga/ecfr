@@ -1,7 +1,5 @@
 ##### § 10.227 Requirements for renewal. #####
 
-Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
-
 (a) Except as provided in paragraph (g) of this section, an applicant for renewal of a credential must establish possession of all of the necessary qualifications before the MMC will be renewed.
 
 (b) A credential may be renewed at any time during its validity and for 1 year after expiration.
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
 (3) The appropriate fee as set forth in § 10.219 of this part.
 
-(4) Any uncanceled MMD, MMC, License, STCW endorsement, Certificate of Registry (COR), or Document of Continuity held by the applicant. If one or more of these credentials are still valid at the time of application, a photocopy—front, back, and all attachments—will satisfy this requirement.
+(4) Any expired or uncanceled MMD, MMC, License, STCW endorsement, Certificate of Registry (COR), or Document of Continuity held by the applicant. If one or more of these credentials are still valid at the time of application, a copy—front, back, and all attachments—will satisfy this requirement.
 
 (5) Evidence of having passed a chemical test for dangerous drugs or of qualifying for an exemption from testing in § 16.220 of this subchapter.
 
@@ -28,13 +26,13 @@ Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
 (1) The applicant must either—
 
-(i) Present evidence of at least 1 year of sea service during the past 5 years;
+(i) Provide evidence of at least 1 year of sea service during the past 5 years;
 
 (ii) Pass a comprehensive, open-book exercise covering the general subject matter contained in appropriate sections of subpart B of this part;
 
 (iii) Complete an approved refresher training course;
 
-(iv) Provide evidence of employment as a Qualified Instructor or in a position closely related to the operation, construction, or repair of vessels (either deck or engineer as appropriate) for at least 3 years during the past 5 years. An applicant for a deck license or officer endorsement with this type of employment must also demonstrate knowledge on an applicable Rules of the Road open-book exercise; or
+(iv) Provide evidence of employment as a Qualified Instructor or in a position closely related to the operation, construction, or repair of vessels (either deck or engineer as appropriate) for at least 3 years during the past 5 years. An applicant for a deck officer endorsement with this type of employment must also demonstrate knowledge on an applicable Rules of the Road open-book exercise; or
 
 (v) Provide evidence of being a Qualified Instructor who has taught a Coast Guard-approved or -accepted course relevant to the endorsement or credential being applied for, at least twice within the past 5 years, therefore meeting the standards needed to receive a course completion certificate for that course.
 
@@ -42,15 +40,15 @@ Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
 (3) Additional qualification requirements for renewal of an officer endorsement as First-Class Pilot as contained in § 11.713 of this subchapter.
 
-(4) An applicant for renewal of a Radio Officer endorsement must, in addition to meeting the requirements of this section, present a copy of a currently valid License as first- or second-class radiotelegraph operator issued by the Federal Communications Commission.
+(4) An applicant for renewal of a Radio Officer endorsement must, in addition to meeting the requirements of this section, provide a copy of a currently valid License as first- or second-class radiotelegraph operator issued by the Federal Communications Commission.
 
-(5) An applicant for renewal of an endorsement as Medical Doctor or Professional Nurse must, in addition to meeting the requirements of this section, present evidence that they hold a currently valid, appropriate license as physician, surgeon, or registered nurse issued under the authority of a State or territory of the United States, the Commonwealth of Puerto Rico, or the District of Columbia. Any such renewal will retain the limitations placed upon the medical License by the issuing body. There are no professional requirements for renewal of an endorsement as Marine Physician Assistant or Medical Technician.
+(5) An applicant for renewal of an endorsement as Medical Doctor or Professional Nurse must, in addition to meeting the requirements of this section, provide evidence that they hold a currently valid, appropriate license as physician, surgeon, or registered nurse issued under the authority of a State or territory of the United States, the Commonwealth of Puerto Rico, or the District of Columbia. Any such renewal will retain the limitations placed upon the medical License by the issuing body. There are no professional requirements for renewal of an endorsement as Marine Physician Assistant or Medical Technician.
 
 (6) An applicant for renewal of an endorsement as Master or Mate (Pilot) of Towing Vessels, in addition to the other requirements in this paragraph, must also submit satisfactory evidence of—
 
 (i) Having completed a practical demonstration of maneuvering and handling a towing vessel to the satisfaction of a Designated Examiner; or
 
-(ii) Ongoing participation in training and drills during the validity of the License or MMC being renewed.
+(ii) Ongoing participation in training and drills during the validity of the MMC being renewed.
 
 (7) An applicant seeking to renew a tank vessel endorsement must meet the additional requirements listed in § 13.120 of this subchapter.
 
@@ -100,9 +98,9 @@ Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
 (6) A holder of a Document of Continuity may obtain a properly endorsed, valid MMC, including STCW endorsements, at any time by satisfying the requirements for renewal as provided in paragraphs (d) and (f) of this section.
 
-(h) *Administrative grace period.* A credential may be renewed up to 12 months after expiration. For a credential to be re-issued by the Coast Guard more than 12 months after its expiration, an applicant must comply with the requirements of paragraph (i) of this section. When an applicant's credential expires during a time of service with the Armed Forces and there is no reasonable opportunity for renewal, including by mail, this period may be extended. The period of military service following the date of expiration which precluded renewal may be added to the 12-month grace period. The 12-month grace period and any extensions do not affect the expiration date of the credential. A license, MMD, COR, STCW endorsement, MMC, and any endorsements thereon, are not valid for use after the expiration date.
+(h) *Administrative grace period.* A credential may be renewed up to 12 months after expiration. For a credential to be re-issued by the Coast Guard more than 12 months after its expiration, an applicant must comply with the requirements of paragraph (i) of this section. When an applicant's credential expires during a time of service with the Armed Forces and there is no reasonable opportunity for renewal, including by mail, this period may be extended. The period of military service following the date of expiration which precluded renewal may be added to the 12-month grace period. The 12-month grace period and any extensions do not affect the expiration date of the credential. An MMC, and any endorsements thereon, is not valid for use after the expiration date.
 
-(i) *Re-issuance of expired credentials.* (1) If an applicant applies for re-issuance of an endorsement as deck officer, engineer officer, or qualified rating more than 12 months after its expiration, instead of the requirements of paragraph (e) of this section, the applicant must demonstrate continued professional knowledge by completing a course approved for this purpose, or by passing the complete examination for original issue of the endorsement. The examination may be oral-assisted if the expired credential was awarded based on the results of an oral exam. The fees set forth in § 10.219 apply to these examinations. In the case of an expired Radio Officer endorsement, the endorsement may be issued upon presentation of a valid first- or second-class radiotelegraph operator license issued by the Federal Communications Commission.
+(i) *Re-issuance of expired credentials.* (1) If an applicant applies for re-issuance of an endorsement as deck officer, engineer officer, or qualified rating more than 12 months after its expiration, instead of the requirements of paragraph (e) of this section, the applicant must demonstrate continued professional knowledge by completing a course approved for this purpose, or by passing the complete examination for original issue of the endorsement. The examination may be oral-assisted if the expired credential was awarded based on the results of an oral exam. The fees set forth in § 10.219 apply to these examinations. In the case of an expired Radio Officer endorsement, the endorsement may be issued upon providing evidence of a valid first- or second-class radiotelegraph operator license issued by the Federal Communications Commission.
 
 (2) An endorsement for Chief Purser, Purser, Senior Assistant Purser, Junior Assistant Purser, Medical Technician, Marine Physician Assistant, Medical Doctor, or Professional Nurse that has been expired for more than 12 months must be renewed in the same way as a current endorsement of that type. There are no additional requirements for re-issuing endorsements for Chief Purser, Purser, Senior Assistant Purser, Junior Assistant Purser, Medical Technician, Marine Physician Assistant, Medical Doctor, or Professional Nurse that have been expired for more than 12 months.
 
@@ -110,4 +108,4 @@ Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
 (4) Applicants applying for re-issuance of an endorsement as any tank vessel rating more than 12 months after expiration of the previous endorsement must meet the requirements in § 13.117 of this subchapter.
 
-[USCG-2004-17914, 78 FR 77892, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93061, Nov. 25, 2024]
+[USCG-2004-17914, 78 FR 77892, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93061, Nov. 25, 2024; USCG-2021-0834, 89 FR 102333, Dec. 17, 2024]

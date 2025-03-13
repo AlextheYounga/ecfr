@@ -10,4 +10,4 @@
 
 (4) For wine produced from any fruit (excluding grapes) or berry with a natural fixed acid of 20 parts per thousand or more (before any correction of such fruit or berry), the volume of ameliorating material added to juice or wine may not exceed 60 percent of the total volume of ameliorated juice or wine (calculated exclusive of pulp). If the starting fixed acid level is or exceeds 12.5 grams per liter, a maximum of 1,500 gallons of ameliorating material may be added to each 1,000 gallons of wine or juice.
 
-(26 U.S.C. 5383, 5384).[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-403, 64 FR 50253, Sept. 16, 1999; T.D. ATF-458, 66 FR 37578, July 19, 2001]
+(26 U.S.C. 5383, 5384). [T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-403, 64 FR 50253, Sept. 16, 1999; T.D. ATF-458, 66 FR 37578, July 19, 2001]

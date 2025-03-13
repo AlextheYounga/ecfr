@@ -10,7 +10,7 @@
 
 (2) Then south along State Route 90 to a point approximately one mile past the intersection of State Route 90 with State Route 326.
 
-(3) Then south along the primary, all-weather, hard surface road, approximately3/4 mile, until it becomes State Route 90 again at Union Springs.
+(3) Then south along the primary, all-weather, hard surface road, approximately 3/4 mile, until it becomes State Route 90 again at Union Springs.
 
 (4) Then south/southeast along State Route 90 until it intersects the light-duty, all-weather, hard or improved surface road, approximately 1.5 miles west of King Ferry.
 
@@ -22,7 +22,7 @@
 
 (8) Then southwest along State Routes 34/13, approximately 1.5 miles, until it intersects State Route 79, in Ithaca.
 
-(9) Then west along State Route 79, approximately1/2 mile, until it intersects State Route 96.
+(9) Then west along State Route 79, approximately 1/2 mile, until it intersects State Route 96.
 
 (10) Then along State Route 96, in a generally northwest direction, until it intersects State Routes 414 and 96A in Ovid.
 

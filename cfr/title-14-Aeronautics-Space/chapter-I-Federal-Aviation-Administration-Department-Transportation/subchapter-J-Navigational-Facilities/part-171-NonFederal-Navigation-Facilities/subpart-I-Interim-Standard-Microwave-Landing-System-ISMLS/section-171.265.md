@@ -16,7 +16,7 @@ This section prescribes the performance requirements for glide path equipment co
 
 (g) The glide path equipment must provide signals sufficient to allow satisfactory operation of a typical aircraft installation insectors of 8 degrees on each side of the centerline of the ISMLS glide path, to a distance of at least 10 nautical miles up to 1.75θ and down to 0.45θ above the horizontal or to such lower angle at which 0.22 DDM is realized.
 
-(h) To provide the coverage for glide path performance specified in paragraph (g) of this section, the minimum peak field strength within this coverage sector must be −82 dBW/m 2. The peak field strength must be provided on the glide path down to a height of 30 meters (100 feet) above the horizontal plane containing the threshold.
+(h) To provide the coverage for glide path performance specified in paragraph (g) of this section, the minimum peak field strength within this coverage sector must be −82 dBW/m2. The peak field strength must be provided on the glide path down to a height of 30 meters (100 feet) above the horizontal plane containing the threshold.
 
 (i) Bends in the glide path may not have amplitudes which exceed the following:
 

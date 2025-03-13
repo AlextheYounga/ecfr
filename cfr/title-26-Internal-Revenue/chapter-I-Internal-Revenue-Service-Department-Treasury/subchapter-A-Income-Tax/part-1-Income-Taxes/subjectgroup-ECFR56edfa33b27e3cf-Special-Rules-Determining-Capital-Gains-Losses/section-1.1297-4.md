@@ -144,7 +144,9 @@
 
 (10) *Mortgage insurance company.* For purposes of this section, *mortgage insurance company* means any insurance company whose sole business is to insure or reinsure against a lender's loss of all or a portion of the principal amount of a mortgage loan upon default of the mortgagor.
 
-(11) *Total assets.* For purposes of section 1297(f) and this section, a foreign corporation's *total assets* are the aggregate value of the real property and personal property that the foreign corporation reports on its applicable financial statement as of the financial statement end date.
+(11) *Total assets.* For purposes of section 1297(f) and this section, a foreign corporation's *total assets* are the
+aggregate value of the real property and personal property that the foreign corporation reports on its applicable financial statement as of the
+financial statement end date.
 
 (g) *Applicability date.* The rules of this section apply to taxable years of shareholders beginning on or after January 14, 2021. A shareholder may choose to apply such rules for any open taxable year beginning after December 31, 2017 and before January 14, 2021, provided that, with respect to a tested foreign corporation, it consistently applies the provisions of this section and § 1.1297-6 for such year and all subsequent years.
 

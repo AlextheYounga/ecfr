@@ -24,15 +24,18 @@
 
 (B) The certified IDR entity must then consider information submitted by a party that relates to the following circumstances:
 
-(*1*) The level of training, experience, and quality and outcomes measurements of the provider or facility that furnished the qualified IDR item or service (such as those endorsed by the consensus-based entity authorized in section 1890 of the Social Security Act).
+(*1*) The level of training, experience, and quality and outcomes measurements of the
+provider or facility that furnished the qualified IDR item or service (such as those endorsed by the consensus-based entity authorized in section 1890 of the Social Security Act).
 
-(*2*) The market share held by the provider or facility or that of the plan or issuer in the geographic region in which the qualified IDR item or service was provided.
+(*2*) The market share held by the provider or facility or that of the plan or issuer in the
+geographic region in which the qualified IDR item or service was provided.
 
 (*3*) The acuity of the participant or beneficiary receiving the qualified IDR item or service, or the complexity of furnishing the qualified IDR item or service to the participant or beneficiary.
 
 (*4*) The teaching status, case mix, and scope of services of the facility that furnished the qualified IDR item or service, if applicable.
 
-(*5*) Demonstration of good faith efforts (or lack thereof) made by the provider or facility or the plan or issuer to enter into network agreements with each other, and, if applicable, contracted rates between the provider or facility, as applicable, and the plan or issuer, as applicable, during the previous 4 plan years.
+(*5*) Demonstration of good faith efforts (or lack thereof) made by the provider or facility or the plan or issuer to enter into network agreements with each other, and, if applicable,
+contracted rates between the provider or facility, as applicable, and the plan or issuer, as applicable, during the previous 4 plan years.
 
 (C) The certified IDR entity must also consider information provided by a party in response to a request by the certified IDR entity under § 54.9816-8T(c)(4)(i)(A)(*2*) that relates to the offer for the payment amount for the qualified IDR item or service that is the subject of the payment determination and that does not include information on factors described in § 54.9816-8T(c)(4)(v).
 

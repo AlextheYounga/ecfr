@@ -2,7 +2,7 @@
 
 (a) Except as provided in paragraphs (b), (c), and (d) of this section, a person who is applying for an airline transport pilot certificate with an airplane category and class rating must have at least 1,500 hours of total time as a pilot that includes at least:
 
-(1) 500 hours of cross-country flight time.
+(1) 500 hours of cross-country time.
 
 (2) 100 hours of night flight time.
 
@@ -20,7 +20,7 @@
 
 (i) The flight time requirement must include at least—
 
-(A) 100 hours of cross-country flight time; and
+(A) 100 hours of cross-country time; and
 
 (B) 25 hours of night flight time.
 
@@ -64,4 +64,4 @@
 
 (f) An applicant is entitled to an airline transport pilot certificate without the ICAO limitation specified under paragraph (e) of this section when the applicant presents satisfactory evidence of having met the ICAO requirements under paragraph (e) of this section and otherwise meets the aeronautical experience requirements of this section.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-103, 62 FR 40906, July 30, 1997; Amdt. 61-104, 63 FR 20288, Apr. 23, 1998; Amdt. 61-109, 68 FR 54560, Sept. 17, 2003; Amdt. 61-124, 74 FR 42561, Aug. 21, 2009; Amdt. 61-130, 78 FR 42375, July 15, 2013; Admt. 61-130A, 78 FR 44874, July 25, 2013; Amdt. 61-130B, 78 FR 77573, Dec. 24, 2013; Amdt. 61-142, 83 FR 30278, June 27, 2018; Amdt. Nos. 61-150, 87 FR 57590, Sept. 21, 2022; Doc. No. FAA-2023-1351; Amdt. No. 61-156, 89 FR 80340, Oct. 2, 2024]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-103, 62 FR 40906, July 30, 1997; Amdt. 61-104, 63 FR 20288, Apr. 23, 1998; Amdt. 61-109, 68 FR 54560, Sept. 17, 2003; Amdt. 61-124, 74 FR 42561, Aug. 21, 2009; Amdt. 61-130, 78 FR 42375, July 15, 2013; Admt. 61-130A, 78 FR 44874, July 25, 2013; Amdt. 61-130B, 78 FR 77573, Dec. 24, 2013; Amdt. 61-142, 83 FR 30278, June 27, 2018; Amdt. Nos. 61-150, 87 FR 57590, Sept. 21, 2022; Doc. No. FAA-2023-1351; Amdt. No. 61-156, 89 FR 80340, Oct. 2, 2024; FAA-2023-1275; Amdt. No. 61-157, 89 FR 92483, Nov. 21, 2024]

@@ -1,38 +1,24 @@
 ##### § 215.5 Definitions. #####
 
-Link to an amendment published at 89 FR 103692, Dec. 19, 2024.
-
 As used in this part:
 
-(a) *Break* means a fracture resulting in complete separation into parts;
+*Break* means a fracture resulting in complete separation into parts.
 
-(b) *Cracked* means fractured without complete separation into parts, except that castings with shrinkage cracks or hot tears that do not significantly diminish the strength of the member are not considered to be “cracked”;
+*Component* means a part or subassembly of a railroad freight car.
 
-(c) *Railroad freight car* means a car designed to carry freight, or railroad personnel, by rail and includes a:
+*Control* means the power, whether direct or indirect and whether or not exercised, through the ownership of a majority or a dominant minority of the total outstanding voting interest in an entity; representation on the board of directors of an entity; proxy voting on the board of directors of an entity; a special share in the entity; a contractual arrangement with the entity; a formal or informal arrangement to act in concert with an entity; or any other means, to determine, direct, make decisions, or cause decisions to be made for the entity.
 
-(1) Box car;
+*Cost of sensitive technology* means the aggregate cost of the sensitive technology located on a railroad freight car.
 
-(2) Refrigerator car;
+*Country of concern* means a country that—
 
-(3) Ventilator car;
+(1) Was identified by the Department of Commerce as a nonmarket economy country (as defined in section 771(18) of the Tariff Act of 1930 (19 U.S.C. 1677(18))) as of November 15, 2021;
 
-(4) Stock car;
+(2) Was identified by the United States Trade Representative in the most recent report required by section 182 of the Trade Act of 1974 (19 U.S.C. 2242) as a foreign country included on the priority watch list (as defined in subsection (g)(3) of such section); and
 
-(5) Gondola car;
+(3) Is subject to monitoring by the Trade Representative under section 306 of the Trade Act of 1974 (19 U.S.C. 2416).
 
-(6) Hopper car;
-
-(7) Flat car;
-
-(8) Special car;
-
-(9) Caboose car;
-
-(10) Tank car; and
-
-(11) Yard car.
-
-(d) *Dedicated service* means the exclusive assignment of cars to the transportation of freight between specified points under the following conditions:
+*Dedicated service* means the exclusive assignment of cars to the transportation of freight between specified points under the following conditions:
 
 (1) The cars are operated—
 
@@ -58,7 +44,7 @@ As used in this part:
 
 (6) The railroad must—
 
-(i) Notify the FRA in writing that the cars are to be operated in dedicated service;
+(i) Notify FRA in writing that the cars are to be operated in dedicated service;
 
 (ii) Identify in that notice—
 
@@ -70,11 +56,11 @@ As used in this part:
 
 (D) The territorial and speed limits within which the cars will be operated; and
 
-(iii) File the notice required by this paragraph not less than 30 days before the cars operate in dedicated service;
+(iii) File the notice required by this paragraph (6)(iii) of the definition not less than 30 days before the cars operate in dedicated service.
 
-(e) *In service* when used in connection with a railroad freight car, means each railroad freight car subject to this part unless the car:
+*In service*, when used in connection with a railroad freight car, means each railroad freight car subject to this part unless the car:
 
-(1) Has a “bad order” or “home shop for repairs” tag or card containing the prescribed information attached to each side of the car and is being handled in accordance with § 215.9 of this part;
+(1) Has a “bad order” or “home shop for repairs” tag or card containing the prescribed information attached to each side of the car and is being handled in accordance with § 215.9;
 
 (2) Is in a repair shop or on a repair track;
 
@@ -82,8 +68,72 @@ As used in this part:
 
 (4) Has been delivered in interchange but has not been accepted by the receiving carrier.
 
-(f) *Railroad* means all forms of non-highway ground transportation that run on rails or electromagnetic guideways, including (1) commuter or other short-haul rail passenger service in a metropolitan or suburban area, and (2) high speed ground transportation systems that connect metropolitan areas, without regard to whether they use new technologies not associated with traditional railroads. Such term does not include rapid transit operations within an urban area that are not connected to the general railroad system of transportation.
+*Net cost* has the meaning given such term in chapter 4 of the USMCA or any subsequent free trade agreement between the United States, Mexico, and Canada.
 
-(g) *State inspector* means an inspector who is participating in investigative and surveillance activities under section 206 of the Federal Railroad Safety Act of 1970 (45 U.S.C. 435).
+*Qualified facility* means a facility that is not owned or under the control of a state-owned enterprise.
 
-[44 FR 77340, Dec. 31, 1979, as amended at 45 FR 26710, Apr. 21, 1980; 54 FR 33228, Aug. 14, 1989]
+*Qualified manufacturer* means a railroad freight car manufacturer that is not owned or under the control of a state-owned enterprise.
+
+*Railroad* means all forms of non-highway ground transportation that run on rails or electromagnetic guideways, including:
+
+(1) Commuter or other short-haul rail passenger service in a metropolitan or suburban area; and
+
+(2) High speed ground transportation systems that connect metropolitan areas, without regard to whether they use new technologies not associated with traditional railroads. Such term does not include rapid transit operations within an urban area that are not connected to the general railroad system of transportation.
+
+*Railroad freight car* means any car designed to carry freight or railroad personnel by rail, including—
+
+(1) A box car;
+
+(2) A refrigerator car;
+
+(3) A ventilator car;
+
+(4) An intermodal well car;
+
+(5) A gondola car;
+
+(6) A hopper car;
+
+(7) An auto rack car;
+
+(8) A flat car;
+
+(9) A special car;
+
+(10) A caboose car;
+
+(11) A tank car; and
+
+(12) A yard car.
+
+*Sensitive technology* means any device embedded with electronics, software, sensors, or other connectivity, that enables the device to connect to, collect data from, or exchange data with another device, including—
+
+(1) Onboard telematics;
+
+(2) Remote monitoring software;
+
+(3) Firmware;
+
+(4) Analytics;
+
+(5) Global positioning system satellite and cellular location tracking systems;
+
+(6) Event status sensors;
+
+(7) Predictive component condition and performance monitoring sensors; and
+
+(8) Similar sensitive technologies embedded into freight railcar components and sub-assemblies.
+
+*State inspector* means an inspector who is participating in investigative and surveillance activities under section 206 of the Federal Railroad Safety Act of 1970 (45 U.S.C. 435).
+
+*State-owned enterprise* means—
+
+(1) An entity that is owned by, or under the control of, a national, provincial, or local government of a country of concern, or an agency of such government; or
+
+(2) An individual acting under the direction or influence of a government or agency described in paragraph (1) of this definition.
+
+*Substantially transformed* means a component of a railroad freight car that undergoes an applicable change in tariff classification as a result of the manufacturing process, as described in chapter 4 and related annexes of the USMCA or any subsequent free trade agreement between the United States, Mexico, and Canada.
+
+*USMCA.* The acronym 'USMCA' has the meaning given the term in section 3 of the United States-Mexico-Canada Agreement Implementation Act (19 U.S.C. 4502).
+
+[89 FR 103692, Dec. 19, 2024]

@@ -10,4 +10,4 @@ The terms enumerated in this section are to be defined for the purposes of §§ 
 
 (d) “Outer Continental Shelf” means all submerged lands lying seaward and outside of the area of lands beneath navigable waters as defined in section 1301 of title 43 and of which the subsoil and seabed appertain to the United States and are subject to its jurisdiction and control;
 
-(Sec. 302(d) of the Outer Continental Shelf Lands Act Amendments of 1978 (92 Stat. 672) and sec. 7805 of the Internal Revenue Code of 1954 (68A Stat. 917; 26 U.S.C. 7805)) [T.D. 7697, 45 FR 33976, May 21, 1980]
+(Sec. 302(d) of the Outer Continental Shelf Lands Act Amendments of 1978 (92 Stat. 672) and sec. 7805 of the Internal Revenue Code of 1954 (68A Stat. 917; 26 U.S.C. 7805))[T.D. 7697, 45 FR 33976, May 21, 1980]

@@ -14,11 +14,11 @@ For purposes of this subpart—
 
 (d) *Commercial air tour operation*—
 
-(1) Means any flight, conducted for compensation or hire in a powered aircraft where a purpose of the flight is sightseeing over a national park, within 1/2 mile outside the boundary of any national park, or over tribal lands, during which the aircraft flies—
+(1) Means any flight, conducted for compensation or hire in a powered aircraft where a purpose of the flight is sightseeing over a national park, within1/2 mile outside the boundary of any national park, or over tribal lands, during which the aircraft flies—
 
 (i) Below 5,000 feet above ground level (except for the purpose of takeoff or landing, or as necessary for the safe operation of an aircraft as determined under the rules and regulations of the Federal Aviation Administration requiring the pilot-in-command to take action to ensure the safe operation of the aircraft);
 
-(ii) Less than 1 mile laterally from any geographic feature within the park (unless more than 1/2 mile outside the boundary); or
+(ii) Less than 1 mile laterally from any geographic feature within the park (unless more than1/2 mile outside the boundary); or
 
 (iii) Except as provided in § 136.35.
 

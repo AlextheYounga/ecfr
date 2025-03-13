@@ -164,13 +164,13 @@ Example 1.(i) *Facts.* Individual G is employed half-time in 2004 and 2005 as a 
 
 Example 2.(i) *Facts.* Individual H is employed as a part-time professor by public University U during the first semester of its two-semester 2004-2005 academic year. While H teaches one course generally for 3 hours a week during the first semester of the academic year, U's full-time faculty members generally teach for 9 hours a week during the full academic year.
 
-(ii) *Conclusion.* For purposes of calculating how much of a year of service H performs in the 2004-2005 academic year (before application of the special rules of paragraphs (e)(7) and (8) of this section concerning less than one year of service), paragraph (e)(5)(iv) of this section is applied as follows: since H teaches one course at U for 3 hours per week for 1 semester and other faculty members at U teach 9 hours per week for 2 semesters, H is considered to have completed 3/18 or 1/6 of a year of service during the 2004-2005 academic year, determined as follows:
+(ii) *Conclusion.* For purposes of calculating how much of a year of service H performs in the 2004-2005 academic year (before application of the special rules of paragraphs (e)(7) and (8) of this section concerning less than one year of service), paragraph (e)(5)(iv) of this section is applied as follows: since H teaches one course at U for 3 hours per week for 1 semester and other faculty members at U teach 9 hours per week for 2 semesters, H is considered to have completed3/18 or1/6 of a year of service during the 2004-2005 academic year, determined as follows:
 
 (A) The fractional year of service if H were a part-time employee for a full year is 3/9 (number of hours employed divided by the usual number of hours of work required for that position).
 
-(B) The fractional year of service if H were a full-time employee for half of a year is 1/2 (one semester, divided by the usual 2-semester annual work period).
+(B) The fractional year of service if H were a full-time employee for half of a year is1/2 (one semester, divided by the usual 2-semester annual work period).
 
-(C) These fractions are multiplied to obtain the fractional year of service: 3/9 times 1/2, or 3/18, equals 1/6 of a year of service.
+(C) These fractions are multiplied to obtain the fractional year of service:3/9 times1/2, or3/18, equals1/6 of a year of service.
 
 (f) *Excess contributions or deferrals*—(1) *Inclusion in gross income.* Any contribution made for a participant to a section 403(b) contract for the taxable year that exceeds either the maximum annual contribution limit set forth in paragraph (b) of this section or the maximum annual section 403(b) elective deferral limit set forth in paragraph (c) of this section constitutes an excess contribution that is included in gross income for that taxable year. See § 1.403(b)-3(d)(1)(iii) and (2)(i) for additional rules, including special rules relating to contracts that fail to be nonforfeitable. See also section 4973 for an excise tax applicable with respect to excess contributions to a custodial account and section 4979(f)(2)(B) for a special rule applicable if excess matching contributions, excess after-tax employee contributions, and excess section 403(b) elective deferrals do not exceed $100.
 

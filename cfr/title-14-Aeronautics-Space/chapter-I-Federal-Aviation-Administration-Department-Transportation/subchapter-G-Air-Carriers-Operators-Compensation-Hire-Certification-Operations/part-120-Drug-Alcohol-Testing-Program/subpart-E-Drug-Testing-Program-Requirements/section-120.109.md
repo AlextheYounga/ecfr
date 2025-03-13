@@ -72,4 +72,5 @@ Each employer shall conduct the types of testing described in this section in ac
 
 (4) Follow-up testing shall not exceed 60 months after the date the individual begins to perform or returns to the performance of a safety-sensitive function. The Substance Abuse Professional may terminate the requirement for follow-up testing at any time after the first six tests have been conducted, if the Substance Abuse Professional determines that such testing is no longer necessary.
 
-[Docket No. FAA-2008-0937, 74 FR 22653, May 14, 2009, as amended at 84 FR 16773, Apr. 23, 2019]
+[Docket No. FAA-2008-0937, 74 FR 22653, May 14, 2009,
+as amended at 84 FR 16773, Apr. 23, 2019]

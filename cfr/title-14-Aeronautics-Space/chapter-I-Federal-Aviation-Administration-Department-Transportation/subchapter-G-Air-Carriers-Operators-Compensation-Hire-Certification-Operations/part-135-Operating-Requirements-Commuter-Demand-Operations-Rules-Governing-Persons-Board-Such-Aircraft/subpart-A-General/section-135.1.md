@@ -1,7 +1,5 @@
 ##### § 135.1 Applicability. #####
 
-Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
-
 (a) This part prescribes rules governing—
 
 (1) The commuter or on-demand operations of each person who holds or is required to hold an Air Carrier Certificate or Operating Certificate under part 119 of this chapter.
@@ -29,5 +27,7 @@ Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
 (1) Aircraft maintenance or preventive maintenance on the operator's aircraft if the operator would otherwise be required to transport the aircraft more than 50 nautical miles further than the repair point closest to operator's principal place of operation to obtain these services; or
 
 (2) Emergency repairs on the operator's aircraft if the aircraft cannot be safely operated to a location where an employee subject to FAA-approved programs can perform the repairs.
+
+(d) Additional requirements for powered-lift operations, training, checking, and testing, are set forth in part 194 of this chapter.
 
 [Doc. No. 16097, 43 FR 46783, Oct. 10, 1978]Editorial Note:For Federal Register citations affecting § 135.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

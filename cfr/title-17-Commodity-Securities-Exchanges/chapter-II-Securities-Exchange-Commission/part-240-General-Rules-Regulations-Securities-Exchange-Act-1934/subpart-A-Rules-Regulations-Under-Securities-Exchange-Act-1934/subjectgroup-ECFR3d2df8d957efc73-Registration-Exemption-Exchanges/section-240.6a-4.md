@@ -1,5 +1,7 @@
 ##### § 240.6a-4 Notice of registration under Section 6(g) of the Act, amendment to such notice, and supplemental materials to be filed by exchanges registered under Section 6(g) of the Act. #####
 
+Link to an amendment published at 90 FR 7364, Jan. 21, 2025.
+
 (a) *Notice of registration.* (1) An exchange may register as a national securities exchange solely for the purposes of trading security futures products by filing Form 1-N (§ 249.10 of this chapter) (“notice of registration”), in accordance with the instructions contained therein, if:
 
 (i) The exchange is a board of trade, as that term in defined in the Commodity Exchange Act (7 U.S.C. 1a(2)), that:

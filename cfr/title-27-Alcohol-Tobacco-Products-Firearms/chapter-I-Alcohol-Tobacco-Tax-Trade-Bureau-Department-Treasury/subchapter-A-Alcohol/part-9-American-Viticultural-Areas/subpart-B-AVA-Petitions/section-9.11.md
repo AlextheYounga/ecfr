@@ -6,4 +6,4 @@
 
 (c) *Purpose and effect of submission of AVA petitions.* The submission of a petition under this subpart is intended to provide TTB with sufficient documentation to propose the establishment of a new AVA or to propose changing the name or boundary of an existing AVA. After considering the petition evidence and any other relevant information, TTB shall decide what action to take in response to a petition and shall so advise the petitioner. Nothing in this chapter shall, or shall be interpreted to, compel any Department of the Treasury official to proceed to rulemaking in response to a submitted petition.
 
-(Approved by the Office of Management and Budget under control number 1513-0127)[T.D. TTB-90, 76 FR 3500, Jan. 20, 2011, as amended T.D. TTB-196, 89 FR 87936, Nov. 7, 2024
+(Approved by the Office of Management and Budget under control number 1513-0127) [T.D. TTB-90, 76 FR 3500, Jan. 20, 2011, as amended T.D. TTB-196, 89 FR 87936, Nov. 7, 2024

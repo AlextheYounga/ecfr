@@ -1,8 +1,6 @@
 ##### § 11.465 Requirements for national endorsements as Mate (Pilot) of Towing Vessels. #####
 
-Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
-
-(a) To obtain an endorsement as Mate (Pilot) of Towing Vessels endorsed with a route listed in column 1 of table 1 to paragraph (a) of this section, applicants must complete the service in columns 2 through 5. Mariners holding a License or MMC endorsement as Master of Towing Vessels-Limited wishing to raise of grade to Mate (Pilot) of Towing Vessels must complete the service in columns 5 and 6. An endorsement with a route endorsed in column 1 authorizes service on the subordinate routes listed in column 7 without further endorsement. Time of service requirements as an Apprentice Mate of Towing Vessels may be reduced by an amount equal to the time specified in the approval letter for a completed Coast Guard-approved training program.
+(a) To obtain an endorsement as Mate (Pilot) of Towing Vessels endorsed with a route listed in column 1 of table 1 to paragraph (a) of this section, applicants must complete the service in columns 2 through 5. Mariners holding an MMC endorsement as Master of Towing Vessels-Limited wishing to raise of grade to Mate (Pilot) of Towing Vessels must complete the service in columns 5 and 6. An endorsement with a route endorsed in column 1 authorizes service on the subordinate routes listed in column 7 without further endorsement. Time of service requirements as an Apprentice Mate of Towing Vessels may be reduced by an amount equal to the time specified in the approval letter for a completed Coast Guard-approved training program.
 
 |                                                                                                           1                                                                                                           |               2                |                                   3                                    |           4           |                   5                   |                                                    6                                                     |                7                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|------------------------------------------------------------------------|-----------------------|---------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------|
@@ -21,7 +19,7 @@ Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
 
 (c) Each company must maintain evidence that every vessel it operates is under the direction and control of a mariner with the appropriate endorsement and experience, including 30 days of observation and training on the intended route other than Western Rivers.
 
-(d) Those holding a License or MMC endorsement as a Mate of inspected, self-propelled vessels of more than 200 GRT or one as First-Class Pilot, may operate towing vessels within any restrictions on their credential if they-
+(d) Those holding an MMC endorsement as a Mate of inspected, self-propelled vessels of more than 200 GRT or one as First-Class Pilot, may operate towing vessels within any restrictions on their credential if they-
 
 (1) Have a minimum of 30 days of training and observation on towing vessels for the route being assessed, except as noted in paragraph (b) of this section; and
 
@@ -43,4 +41,4 @@ Link to an amendment published at 89 FR 102335, Dec. 17, 2024.
 
 (h) A person holding this endorsement may qualify for an STCW endorsement, according to §§ 11.309, 11.317, 11.319, and 11.321 of this part.
 
-[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58277, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019; USCG-2021-0097, 89 FR 93087, Nov. 25, 2024]
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58277, Sept. 29, 2014; USCG-2018-0874, 84 FR 30882, June 28, 2019; USCG-2021-0097, 89 FR 93087, Nov. 25, 2024; USCG-2021-0834, 89 FR 102335, Dec. 17, 2024]

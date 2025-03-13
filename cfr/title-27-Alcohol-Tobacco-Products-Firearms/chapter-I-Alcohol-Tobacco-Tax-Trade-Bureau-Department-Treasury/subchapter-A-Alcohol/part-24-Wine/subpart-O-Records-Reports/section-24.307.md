@@ -16,4 +16,4 @@ A proprietor who produces nonbeverage wine or wine products shall maintain a rec
 
 (g) In the case of vinegar production, the acetic acid and ethyl alcohol content of the vinegar.
 
-When the proprietor sends nonbeverage wine or wine products free of tax to an adjacent or contiguous premises operated by the proprietor, records required by paragraphs (e) and (g) of this section will be maintained at each location.(Sec. 201, Pub. L. 85-859, 72 Stat. 1381, as amended (26 U.S.C. 5367))(Approved by the Office of Management and Budget under control number 1512-0298)
+When the proprietor sends nonbeverage wine or wine products free of tax to an adjacent or contiguous premises operated by the proprietor, records required by paragraphs (e) and (g) of this section will be maintained at each location. (Sec. 201, Pub. L. 85-859, 72 Stat. 1381, as amended (26 U.S.C. 5367))(Approved by the Office of Management and Budget under control number 1512-0298)

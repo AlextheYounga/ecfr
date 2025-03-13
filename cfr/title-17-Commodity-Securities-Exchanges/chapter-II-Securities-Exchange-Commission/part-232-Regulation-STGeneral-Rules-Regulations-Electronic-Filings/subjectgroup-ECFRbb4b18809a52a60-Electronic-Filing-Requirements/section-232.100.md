@@ -1,5 +1,7 @@
 ##### § 232.100 Persons and entities subject to mandated electronic filing. #####
 
+Link to an amendment published at 90 FR 7359, Jan. 21, 2025.
+
 The following persons or entities shall be subject to the electronic filing requirements of this part 232:
 
 (a) Registrants and other entities whose filings are subject to review by the Division of Corporation Finance;

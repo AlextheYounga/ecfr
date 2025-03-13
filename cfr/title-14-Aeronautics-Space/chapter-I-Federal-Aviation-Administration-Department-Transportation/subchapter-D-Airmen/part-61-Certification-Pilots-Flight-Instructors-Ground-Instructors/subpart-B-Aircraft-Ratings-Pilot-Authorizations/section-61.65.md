@@ -64,7 +64,7 @@
 
 (d) *Aeronautical experience for the instrument-airplane rating.* A person who applies for an instrument-airplane rating must have logged:
 
-(1) Except as provided in paragraph (g) of this section, 50 hours of cross-country flight time as pilot in command, of which 10 hours must have been in an airplane; and
+(1) Except as provided in paragraph (g) of this section, 50 hours of cross-country time as pilot in command, of which 10 hours must have been in an airplane; and
 
 (2) Forty hours of actual or simulated instrument time in the areas of operation listed in paragraph (c) of this section, of which 15 hours must have been received from an authorized instructor who holds an instrument-airplane rating, and the instrument time includes:
 
@@ -80,7 +80,7 @@
 
 (e) *Aeronautical experience for the instrument-helicopter rating.* A person who applies for an instrument-helicopter rating must have logged:
 
-(1) Except as provided in paragraph (g) of this section, 50 hours of cross-country flight time as pilot in command, of which 10 hours must have been in a helicopter; and
+(1) Except as provided in paragraph (g) of this section, 50 hours of cross-country time as pilot in command, of which 10 hours must have been in a helicopter; and
 
 (2) Forty hours of actual or simulated instrument time in the areas of operation listed under paragraph (c) of this section, of which 15 hours must have been with an authorized instructor who holds an instrument-helicopter rating, and the instrument time includes:
 
@@ -96,7 +96,7 @@
 
 (f) *Aeronautical experience for the instrument-powered-lift rating.* A person who applies for an instrument-powered-lift rating must have logged:
 
-(1) Except as provided in paragraph (g) of this section, 50 hours of cross-country flight time as pilot in command, of which 10 hours must have been in a powered-lift; and
+(1) Except as provided in paragraph (g) of this section, 50 hours of cross-country time as pilot in command, of which 10 hours must have been in a powered-lift; and
 
 (2) Forty hours of actual or simulated instrument time in the areas of operation listed under paragraph (c) of this section, of which 15 hours must have been received from an authorized instructor who holds an instrument-powered-lift rating, and the instrument time includes:
 
@@ -110,11 +110,11 @@
 
 (C) Three different kinds of approaches with the use of navigation systems.
 
-(g) An applicant for a combined private pilot certificate with an instrument rating may satisfy the cross-country flight time requirements of this section by crediting:
+(g) An applicant for a combined private pilot certificate with an instrument rating may satisfy the cross-country time requirements of this section by crediting:
 
-(1) For an instrument-airplane rating or an instrument-powered-lift rating, up to 45 hours of cross-country flight time performing the duties of pilot in command with an authorized instructor; or
+(1) For an instrument-airplane rating or an instrument-powered-lift rating, up to 45 hours of cross-country time performing the duties of pilot in command with an authorized instructor; or
 
-(2) For an instrument-helicopter rating, up to 47 hours of cross-country flight time performing the duties of pilot in command with an authorized instructor.
+(2) For an instrument-helicopter rating, up to 47 hours of cross-country time performing the duties of pilot in command with an authorized instructor.
 
 (h) *Use of full flight simulators or flight training devices.* If the instrument time was provided by an authorized instructor in a full flight simulator or flight training device—
 
@@ -132,4 +132,4 @@
 
 (j) Except as provided in paragraph (h)(1) of this section, a person may not credit more than 20 total hours of instrument time in a full flight simulator, flight training device, aviation training device, or a combination towards the instrument time requirements of this section.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40900, July 30, 1997; Amdt. 61-124, 74 FR 42554, Aug. 21, 2009; Amdt. 61-127, 76 FR 19267, Apr. 7, 2011; Amdt. 61-128, 76 FR 54106, Aug. 31, 2011; Docket FAA-2015-1846, Amdt. 61-136, 81 FR 21460, Apr. 12, 2016]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40900, July 30, 1997; Amdt. 61-124, 74 FR 42554, Aug. 21, 2009; Amdt. 61-127, 76 FR 19267, Apr. 7, 2011; Amdt. 61-128, 76 FR 54106, Aug. 31, 2011; Docket FAA-2015-1846, Amdt. 61-136, 81 FR 21460, Apr. 12, 2016; FAA-2023-1275; Amdt. No. 61-157, 89 FR 92483, Nov. 21, 2024]

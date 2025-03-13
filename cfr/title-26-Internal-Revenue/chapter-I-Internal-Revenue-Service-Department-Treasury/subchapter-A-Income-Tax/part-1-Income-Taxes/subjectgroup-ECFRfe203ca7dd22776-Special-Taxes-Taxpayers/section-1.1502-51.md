@@ -44,7 +44,8 @@
 
 (11) *GILTI inclusion amount.* With respect to a member, the term *GILTI inclusion amount* has the meaning provided in paragraph (b) of this section.
 
-(12) *Net CFC tested income.* With respect to a member, the term *net CFC tested income* means the excess (if any) of—
+(12) *Net CFC tested income.* With respect to a member, the term *net CFC tested income* means the excess (if any)
+of—
 
 (i) The member's aggregate tested income, over
 

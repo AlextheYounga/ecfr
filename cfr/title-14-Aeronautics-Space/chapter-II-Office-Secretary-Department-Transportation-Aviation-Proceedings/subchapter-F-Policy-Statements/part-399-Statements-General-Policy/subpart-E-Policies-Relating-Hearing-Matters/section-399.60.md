@@ -26,4 +26,4 @@
 
 (v) The relative availability of necessary staff members of the carriers, communities and the Department, in the light of other proceedings already in progress, to handle the processing of the case.
 
-Interested persons may urge upon the Department such considerations as they believe should lead it to accord a particular application a priority different from that which the Department has given it. [PS-21, 29 FR 1446, Jan. 29, 1964, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15947, Apr. 16, 2019]
+Interested persons may urge upon the Department such considerations as they believe should lead it to accord a particular application a priority different from that which the Department has given it.[PS-21, 29 FR 1446, Jan. 29, 1964, as amended by Doc. No. DOT-OST-2014-0140, 84 FR 15947, Apr. 16, 2019]

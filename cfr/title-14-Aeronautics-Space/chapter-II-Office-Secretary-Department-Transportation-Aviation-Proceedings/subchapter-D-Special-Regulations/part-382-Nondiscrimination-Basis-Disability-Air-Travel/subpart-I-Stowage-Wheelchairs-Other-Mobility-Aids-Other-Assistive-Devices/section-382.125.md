@@ -22,4 +22,5 @@
 
 (4) You must provide the notifications required by paragraphs (f)(1) and (3) of this section in an accessible format for individuals with disabilities.
 
-[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended by DOT-OST-2022-0144, 89 FR 102442, Dec. 17, 2024]
+[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended by DOT-OST-2022-0144,
+89 FR 102442, Dec. 17, 2024]

@@ -32,4 +32,4 @@ Example 1.A local police department's narcotics division has been gathering info
 
 (f) *Effective date.* This section applies with respect to information first provided to the Service by a State or local law enforcement agency after February 16, 1989.
 
-[T.D. 8255, 54 FR 21054, May 16, 1989, as amended by 57 FR 2840, Jan. 24, 1992. Redesignated by T.D. 8415, 57 FR 15017, Apr. 24, 1992] Supervision of Operations of Certain Manufacturers
+[T.D. 8255, 54 FR 21054, May 16, 1989, as amended by 57 FR 2840, Jan. 24, 1992. Redesignated by T.D. 8415, 57 FR 15017, Apr. 24, 1992]Supervision of Operations of Certain Manufacturers

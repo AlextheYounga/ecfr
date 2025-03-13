@@ -8,4 +8,4 @@ The proprietor must notify TTB of any changes in the list of stockholders or per
 
 (c) Must incorporate all changes submitted by letterhead notice in the next TTB F 5110.25 filed.
 
-(26 U.S.C. 5172, 5271)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-196, 89 FR 87939, Nov. 6, 2024]
+(26 U.S.C. 5172, 5271) [T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-196, 89 FR 87939, Nov. 6, 2024]

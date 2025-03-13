@@ -1,7 +1,5 @@
 ##### § 5.66 Name and address for domestically bottled distilled spirits that were wholly made in the United States. #####
 
-Link to an amendment published at 89 FR 102735, Dec. 18, 2024.
-
 (a) *General.* Domestically bottled distilled spirits that were wholly made in the United States and contain no imported distilled spirits must be labeled in accordance with this section. (See §§ 5.67 and 5.68 for name and address requirements applicable to distilled spirits that are not wholly made in the United States.) For purposes of this section, a “processor” who solely bottles the labeled distilled spirits will be considered the “bottler.”
 
 (b) *Form of statement.* The bottler, distiller, or processor of the distilled spirits must be identified by a phrase describing the function performed by that person. If that person performs more than one function, the label may (but is not required to) so indicate.
@@ -32,9 +30,9 @@ Link to an amendment published at 89 FR 102735, Dec. 18, 2024.
 
 (e) *Special rule for straight whiskies.* If “straight whiskies” (see § 5.143) of the same type are distilled in the same State by two or more different distillers and are combined (either at the time of bottling or at a warehouseman's bonded premises for further storage) and subsequently bottled and labeled as “straight whisky,” that “straight whisky” must bear a label that contains name and address information of the bottler. If that combined “straight whisky” is bottled by or for the distillers, in lieu of the name and address of the bottler, the label may contain the words “distilled by,” followed immediately by the names (or trade names) and addresses of the different distillers who distilled a portion of the “straight whisky” and the percentage of “straight whisky” distilled by each distiller, with a tolerance of plus or minus 2 percent. If “straight whisky” consists of a mixture of “straight whiskies” of the same type from two or more different distilleries of the same proprietor located within the same State, and if that “straight whisky” is bottled by or for that proprietor, in lieu of the name and address of the bottler, the “straight whisky” may bear a label containing the words “distilled by” followed by the name (or trade name) of the proprietor and the addresses of the different distilleries that distilled a portion of the “straight whisky.”
 
-(f) *State of distillation for whisky.* (1) The State of distillation, which is the State in which original distillation takes place, must appear on the label of any type of whisky defined in § 5.143(c)(2) through (7), which is distilled in the United States. The State of distillation may appear on any label and must be shown in at least one of the following ways:
+(f) *State of distillation for whisky.* (1) The State of distillation, which is the State in which original distillation takes place, must appear on the label of any type of whisky defined in § 5.143(c)(2) through (7), (15), and (16), which is distilled in the United States. The State of distillation may appear on any label and must be shown in at least one of the following ways:
 
-(i) By including a “distilled by” (or “distilled and bottled by” or any other phrase including the word “distilled”) statement as part of the mandatory name and address statement, followed by a single location.
+(i) By including a “distilled by” (or “distilled and bottled by” or any other phrase including the word “distilled”) statement as part of the mandatory name and address statement, followed by a single location;
 
 (ii) If the address shown in the “bottled by” statement includes the State in which distillation occurred, by including a “bottled by” statement as part of the mandatory name and address statement, followed by a single location;
 
@@ -47,3 +45,5 @@ Link to an amendment published at 89 FR 102735, Dec. 18, 2024.
 (3) In the case of “light whisky,” the State name “Kentucky” or “Tennessee” may not appear on any label, except as a part of a name and address as specified in paragraph (a)(1), (2), or (4) of this section.
 
 (g) *Trade or operating names.* The name of the person appearing on the label may be the trade name or the operating name, as long as it is identical to a trade or operating name appearing on the basic permit. In the case of a distillation statement for spirits bottled in bond, the name or trade name under which the spirits were distilled must be shown.
+
+[T.D. TTB-176, 87 7579, Feb. 9, 2022, as amended at T.D. TTB-199, 89 FR 102735, Dec. 18, 2024]

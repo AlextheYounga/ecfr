@@ -1,7 +1,5 @@
 ##### § 11.211 Creditable service and equivalents for national and STCW officer endorsements. #####
 
-Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
-
 (a) Applicants for officer endorsements should refer to § 10.232 of this subchapter for information regarding requirements for documentation and proof of sea service.
 
 (b) Service toward an oceans, near-coastal, or STCW endorsement will be credited as follows:
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 
 (2) Service on inland waters, other than Great Lakes, that are navigable waters of the United States, will be credited on a day-for-day basis for up to 50 percent of the total required service.
 
-(c) *Service on mobile offshore drilling units.* (1) MODU service is creditable for raise of grade of an officer endorsement. Evidence of 1 year of service on MODUs as Mate or equivalent while holding an officer endorsement or license as Third Mate, or as Engineering Officer of the Watch or equivalent while holding an officer endorsement or license as Third Assistant Engineer, is acceptable for a raise of grade to Second Mate or Second Assistant Engineer, respectively. However, any subsequent raises of grade of unlimited, non-restricted officer licenses or endorsements must include a minimum of 6 months of service on conventional vessels.
+(c) *Service on mobile offshore drilling units.* (1) MODU service is creditable for raise of grade of an officer endorsement. Evidence of 1 year of service on MODUs as Mate or equivalent while holding an officer endorsement licenses as Third Mate, or as Engineering Officer of the Watch or equivalent while holding an officer endorsement licenses as Third Assistant Engineer, is acceptable for a raise of grade to Second Mate or Second Assistant Engineer, respectively. However, any subsequent raises of grade of unlimited, non-restricted officer licenses or endorsements must include a minimum of 6 months of service on conventional vessels.
 
 (2) Service on MODUs maintaining station by means of dynamic positioning, may be credited as service on conventional vessels for any raise of grade; however, time more than 8 hours each day will not be credited.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 89 FR 102334, Dec. 17, 2024.
 
 (h) *Tonnage.* When determining sea service credit for officer endorsement applicants under subpart D of this part, the tonnage of a vessel solely admeasured using the Convention measurement scheme under 46 U.S.C. Chapter 143 will be credited as Gross Register Tonnage. This paragraph does not apply to those vessels measured under the optional regulatory measurement provisions of 46 U.S.C. 14305.
 
-[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30882, June 28, 2019; USCG-2021-0097, 89 FR 93070, Nov. 25, 2024]
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30882, June 28, 2019; USCG-2021-0097, 89 FR 93070, Nov. 25, 2024; USCG-2021-0834, 89 FR 102334, Dec. 17, 2024]

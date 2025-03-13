@@ -1,20 +1,18 @@
 ##### § 10.209 General application procedures. #####
 
-Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
-
 (a) The applicant for an MMC, whether for an original, renewal, duplicate, raise of grade, or a new endorsement on a previously issued MMC, must establish that they satisfy all the requirements for the MMC and endorsement(s) sought before the Coast Guard will issue the MMC. This section contains the general requirements for all applicants. Additional requirements for duplicates, renewals, new endorsements, and raises of grade appear later in this part.
 
 (b) The Coast Guard may refuse to process an incomplete MMC application. The requirements for a complete application for an original MMC are contained in § 10.225 of this part, the requirements for a renewal MMC application are contained in § 10.227 of this part, the requirements for a duplicate MMC application are contained in § 10.229 of this part, and the requirements for an application for a new endorsement or raise of grade are contained in § 10.231 of this part.
 
 (c) Applications are valid for 12 months from the date that the Coast Guard approves the application.
 
-(d) The application may be submitted in person, by mail, fax, or other electronic means. A complete MMC application, which is described in §§ 10.223, 10.225, 10.227, 10.229, and 10.231 may include—
+(d) The application may be submitted in a manner prescribed by the Coast Guard that may include in person, by mail, or other electronic means. A complete MMC application, which is described in §§ 10.223, 10.225, 10.227, 10.229, and 10.231 may include—
 
-(1) The application, consent for National Driver Register (NDR) check, and notarized oath on Coast Guard-furnished forms, and the evaluation fee required by § 10.219 of this part;
+(1) The application, consent for National Driver Register (NDR) check, oath, and the evaluation fee required by § 10.219 of this part;
 
-(2) The applicant's continuous discharge book, certificate of identification, MMD, MMC, License, STCW endorsement, Certificate of Registry (COR), or, if it has not expired, a photocopy of the credential, including the back and all attachments;
+(2) The applicant's continuous discharge book, certificate of identification, and MMC if expired;
 
-(3) Proof, documented on CG-719K or CG-719K/E, as appropriate, that the applicant passed the applicable vision, hearing, medical, or physical exam as required by subpart C of this part, or an unexpired medical certificate issued by the Coast Guard;
+(3) Proof, in a manner prescribed by the Coast Guard, which may include forms or other means, that the applicant passed the applicable vision, hearing, medical, or physical exam as required by subpart C of this part, or an unexpired medical certificate issued by the Coast Guard;
 
 (4) Copies of course completion certificates or other evidence of course completion;
 
@@ -42,4 +40,4 @@ Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
 (i) A mariner may obtain a ceremonial license when applying for their credential or Document of Continuity.
 
-[USCG-2004-17914, 78 FR 77888, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30881, June 28, 2019; USCG-2021-0097, 89 FR 93060, Nov. 25, 2024]
+[USCG-2004-17914, 78 FR 77888, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30881, June 28, 2019; USCG-2021-0097, 89 FR 93060, Nov. 25, 2024; USCG-2021-0834, 89 FR 102332, Dec. 17, 2024]

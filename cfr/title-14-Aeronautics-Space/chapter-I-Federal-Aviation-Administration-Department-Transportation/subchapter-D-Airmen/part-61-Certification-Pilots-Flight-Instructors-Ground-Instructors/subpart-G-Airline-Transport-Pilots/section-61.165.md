@@ -1,7 +1,5 @@
 ##### § 61.165 Additional aircraft category and class ratings. #####
 
-Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
-
 (a) *Rotorcraft category and helicopter class rating.* A person applying for an airline transport certificate with a rotorcraft category and helicopter class rating who holds an airline transport pilot certificate with another aircraft category rating must:
 
 (1) Meet the eligibility requirements of § 61.153 of this part;
@@ -74,12 +72,4 @@ Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
 
 (5) Pass a practical test on the areas of operation of § 61.157(e)(2).
 
-(g) *Category class ratings for the operation of aircraft with experimental certificates.* Notwithstanding the provisions of paragraphs (a) through (f) of this section, a person holding an airline transport certificate may apply for a category and class rating limited to a specific make and model of experimental aircraft, provided—
-
-(1) The person has logged at least 5 hours flight time while acting as pilot in command in the same category, class, make, and model of aircraft that has been issued an experimental certificate;
-
-(2) The person has received a logbook endorsement from an authorized instructor who has determined that he or she is proficient to act as pilot in command of the same category, class, make, and model of aircraft for which application is made; and
-
-(3) The flight time specified in paragraph (g)(1) of this section must be logged between September 1, 2004 and August 31, 2005.
-
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40906, July 30, 1997, as amended by Amdt. 61-110, 69 FR 44869, July 27, 2004; Amdt. 61-130, 78 FR 42376, July 15, 2013; Amdt. 61-130B, 78 FR 77574, Dec. 24, 2013; Amdt. 61-130C, 81 FR 2, Jan. 4, 2016]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40906, July 30, 1997, as amended by Amdt. 61-110, 69 FR 44869, July 27, 2004; Amdt. 61-130, 78 FR 42376, July 15, 2013; Amdt. 61-130B, 78 FR 77574, Dec. 24, 2013; Amdt. 61-130C, 81 FR 2, Jan. 4, 2016; FAA-2023-1275; Amdt. No. 61-157, 89 FR 92485, Nov. 21, 2024]

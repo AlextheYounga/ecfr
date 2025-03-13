@@ -16,4 +16,4 @@
 
 (c) Records maintained under this section prior to January 1, 2000, must reflect the date and number of books or sets of cigarette papers of each different numerical content and the date and number of cigarette tubes.
 
-(26 U.S.C. 5741.)[T.D. ATF-240, 64 FR 71941, Dec. 22, 1999]Reports
+(26 U.S.C. 5741.) [T.D. ATF-240, 64 FR 71941, Dec. 22, 1999]Reports

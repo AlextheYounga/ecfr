@@ -1,14 +1,12 @@
 ##### § 135.245 Second in command qualifications. #####
 
-Link to an amendment published at 89 FR 92487, Nov. 21, 2024.
-
 (a) Except as provided in paragraph (b) of this section, no certificate holder may use any person, nor may any person serve, as second in command of an aircraft unless that person holds at least a commercial pilot certificate with appropriate category and class ratings and an instrument rating.
 
 (b) A second in command of a helicopter operated under VFR, other than over-the-top, must have at least a commercial pilot certificate with an appropriate aircraft category and class rating.
 
 (c) No certificate holder may use any person, nor may any person serve, as second in command under IFR unless that person meets the following instrument experience requirements:
 
-(1) *Use of an airplane or helicopter for maintaining instrument experience.* Within the 6 calendar months preceding the month of the flight, that person performed and logged at least the following tasks and iterations in-flight in an airplane or helicopter, as appropriate, in actual weather conditions, or under simulated instrument conditions using a view-limiting device:
+(1) *Use of an airplane, powered-lift, or helicopter for maintaining instrument experience.* Within the 6 calendar months preceding the month of the flight, that person performed and logged at least the following tasks and iterations in-flight in an airplane, powered-lift, or helicopter, as appropriate, in actual weather conditions, or under simulated instrument conditions using a view-limiting device:
 
 (i) Six instrument approaches;
 
@@ -38,4 +36,4 @@ Link to an amendment published at 89 FR 92487, Nov. 21, 2024.
 
 (6) Postflight procedures.
 
-[44 FR 26738, May 7, 1979, as amended by Doc. No. FAA-2016-6142, 83 FR 30283, June 27, 2018]
+[44 FR 26738, May 7, 1979, as amended by Doc. No. FAA-2016-6142, 83 FR 30283, June 27, 2018; FAA-2023-1275, Amdt. No. 135-147, 89 FR 92487, Nov. 21, 2024]

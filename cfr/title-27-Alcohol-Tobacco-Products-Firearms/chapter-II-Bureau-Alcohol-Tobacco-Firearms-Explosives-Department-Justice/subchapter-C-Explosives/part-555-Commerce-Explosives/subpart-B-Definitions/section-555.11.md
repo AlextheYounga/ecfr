@@ -18,7 +18,7 @@ When used in this part, terms are defined as follows in this section. Words in t
 
 *Alien.* Any person who is not a citizen or national of the United States.
 
-*Ammunition.* Small arms ammunition or cartridge cases, primers, bullets, or smokeless propellants designed for use in small arms, including percussion caps, and3/32 inch and other external burning pyrotechnic hobby fuses. The term does not include black powder.
+*Ammunition.* Small arms ammunition or cartridge cases, primers, bullets, or smokeless propellants designed for use in small arms, including percussion caps, and 3/32 inch and other external burning pyrotechnic hobby fuses. The term does not include black powder.
 
 *Appropriate identifying information.* The term means, in relation to an individual:
 
@@ -48,7 +48,7 @@ When used in this part, terms are defined as follows in this section. Words in t
 
 *Bulk salutes.* Salute components prior to final assembly into aerial shells, and finished salute shells held separately prior to being packed with other types of display fireworks.
 
-*Bullet-sensitive explosive materials.* Explosive materials that can be exploded by 150-grain M2 ball ammunition having a nominal muzzle velocity of 2700 fps (824 mps) when fired from a .30 caliber rifle at a distance of 100 ft (30.5 m), measured perpendicular. The test material is at a temperature of 70 to 75 degrees F (21 to 24 degrees C) and is placed against a1/2 inch (12.4 mm) steel backing plate.
+*Bullet-sensitive explosive materials.* Explosive materials that can be exploded by 150-grain M2 ball ammunition having a nominal muzzle velocity of 2700 fps (824 mps) when fired from a .30 caliber rifle at a distance of 100 ft (30.5 m), measured perpendicular. The test material is at a temperature of 70 to 75 degrees F (21 to 24 degrees C) and is placed against a 1/2 inch (12.4 mm) steel backing plate.
 
 *Bureau.* The Bureau of Alcohol, Tobacco, Firearms and Explosives, Department of Justice.
 
@@ -68,9 +68,7 @@ When used in this part, terms are defined as follows in this section. Words in t
 
 *Customs officer.* Any officer of U.S. Customs and Border Protection, any commissioned, warrant, or petty officer of the Coast Guard, or any agent or other person authorized by law to perform the duties of a customs officer.
 
-*Dealer.* Any person engaged in the
-business of distributing explosive materials
-at wholesale or retail.
+*Dealer.* Any person engaged in the business of distributing explosive materials at wholesale or retail.
 
 *Detonator.* Any device containing a detonating charge that is used for initiating detonation in an explosive. The term includes, but is not limited to, electric blasting caps of instantaneous and delay types, blasting caps for use with safety fuses, detonating-cord delay connectors, and nonelectric instantaneous and delay blasting caps.
 
@@ -180,7 +178,7 @@ at wholesale or retail.
 
 *Salute.* An aerial shell, classified as a display firework, that contains a charge of flash powder and is designed to produce a flash of light and a loud report as the pyrotechnic effect.
 
-*Screen barricade.* Any barrier that will contain the embers and debris from a fire or deflagration in a process building, thus preventing propagation of fire to other buildings or areas. Such barriers shall be constructed of metal roofing,1/4 to1/2 inch (6 to 13 mm) mesh screen, or equivalent material. The barrier extends from floor level to a height such that a straight line from the top of any side wall of the donor building to the eave line of any exposed building intercepts the screen at a point not less than 5 feet (1.5 m) from the top of the screen. The top 5 feet (1.5 m) of the screen is inclined towards the donor building at an angle of 30 to 45 degrees.
+*Screen barricade.* Any barrier that will contain the embers and debris from a fire or deflagration in a process building, thus preventing propagation of fire to other buildings or areas. Such barriers shall be constructed of metal roofing, 1/4 to 1/2 inch (6 to 13 mm) mesh screen, or equivalent material. The barrier extends from floor level to a height such that a straight line from the top of any side wall of the donor building to the eave line of any exposed building intercepts the screen at a point not less than 5 feet (1.5 m) from the top of the screen. The top 5 feet (1.5 m) of the screen is inclined towards the donor building at an angle of 30 to 45 degrees.
 
 *Softwood.* Fir, pine, or other soft wood, free from loose knots, spaces, or similar defects.
 

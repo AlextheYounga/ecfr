@@ -160,4 +160,4 @@ The following definitions apply for purposes of this subpart:
 
 *Welding transformer* means a transformer designed for use in arc welding equipment or resistance welding equipment.
 
-[70 FR 60416, Oct. 18, 2005, as amended at 71 FR 24995, Apr. 27, 2006; 71 FR 60662, Oct. 16, 2006; 72 FR 58239, Oct. 12, 2007; 78 FR 23433, Apr. 18, 2013; 86 FR 51252, Sept. 14, 2021; 89 FR 30039, Apr. 22, 2024]
+[70 FR 60416, Oct. 18, 2005, as amended at 71 FR 24995, Apr. 27, 2006; 71 FR 60662, Oct. 16, 2006; 72 FR 58239, Oct. 12, 2007; 78 FR 23433, Apr. 18, 2013; 86 FR 51252, Sept. 14, 2021; 89 FR 30039, Apr. 22, 2024; 90 FR 6795, Jan. 21, 2025]

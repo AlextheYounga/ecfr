@@ -1,12 +1,10 @@
 ##### § 61.57 Recent flight experience: Pilot in command. #####
 
-Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
-
 (a) *General experience.* (1) Except as provided in paragraph (e) of this section, no person may act as a pilot in command of an aircraft carrying persons or of an aircraft certificated for more than one pilot flight crewmember unless that person has made at least three takeoffs and three landings within the preceding 90 days, and—
 
 (i) The person acted as the sole manipulator of the flight controls; and
 
-(ii) The required takeoffs and landings were performed in an aircraft of the same category, class, and type (if a type rating is required), and, if the aircraft to be flown is an airplane with a tailwheel, the takeoffs and landings must have been made to a full stop in an airplane with a tailwheel.
+(ii) The required takeoffs and landings were performed in an aircraft of the same category, class, and type (if a class or type rating is required), and, if the aircraft to be flown is an airplane with a tailwheel, the takeoffs and landings must have been made to a full stop in an airplane with a tailwheel.
 
 (2) For the purpose of meeting the requirements of paragraph (a)(1) of this section, a person may act as a pilot in command of an aircraft under day VFR or day IFR, provided no persons or property are carried on board the aircraft, other than those necessary for the conduct of the flight.
 
@@ -20,7 +18,7 @@ Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
 
 (i) That person acted as sole manipulator of the flight controls; and
 
-(ii) The required takeoffs and landings were performed in an aircraft of the same category, class, and type (if a type rating is required).
+(ii) The required takeoffs and landings were performed in an aircraft of the same category, class, and type (if a class or type rating is required).
 
 (2) The takeoffs and landings required by paragraph (b)(1) of this section may be accomplished in a full flight simulator that is—
 
@@ -130,16 +128,16 @@ Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
 
 (g) *Night vision goggle proficiency check.* A person must either meet the night vision goggle experience requirements of paragraphs (f)(1) or (f)(2) of this section or pass a night vision goggle proficiency check to act as pilot in command using night vision goggles. The proficiency check must be performed in the category of aircraft that is appropriate to the night vision goggle operation for which the person is seeking the night vision goggle privilege or in a full flight simulator or flight training device that is representative of that category of aircraft. The check must consist of the tasks listed in § 61.31(k), and the check must be performed by:
 
-(1) An Examiner who is qualified to perform night vision goggle operations in that same aircraft category and class;
+(1) An Examiner who is qualified to perform night vision goggle operations in that same aircraft category and class (if a class rating is required);
 
 (2) A person who is authorized by the U.S. Armed Forces to perform night vision goggle proficiency checks, provided the person being administered the check is also a member of the U.S. Armed Forces;
 
 (3) A company check pilot who is authorized to perform night vision goggle proficiency checks under parts 121, 125, or 135 of this chapter, provided that both the check pilot and the pilot being tested are employees of that operator;
 
-(4) An authorized flight instructor who is qualified to perform night vision goggle operations in that same aircraft category and class;
+(4) An authorized flight instructor who is qualified to perform night vision goggle operations in that same aircraft category and class (if a class rating is required);
 
 (5) A person who is qualified as pilot in command for night vision goggle operations in accordance with paragraph (f) of this section; or
 
 (6) A person approved by the FAA to perform night vision goggle proficiency checks.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40898, July 30, 1997] Editorial Note:For Federal Register citations affecting § 61.57, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40898, July 30, 1997]Editorial Note:For Federal Register citations affecting § 61.57, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

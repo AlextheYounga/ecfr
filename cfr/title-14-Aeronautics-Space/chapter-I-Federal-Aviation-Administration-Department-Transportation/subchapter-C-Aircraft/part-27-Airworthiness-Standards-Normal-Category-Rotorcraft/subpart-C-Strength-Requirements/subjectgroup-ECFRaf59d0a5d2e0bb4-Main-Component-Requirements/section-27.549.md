@@ -14,4 +14,4 @@
 
 (d) Each engine mount and adjacent fuselage structure must be designed to withstand the loads occurring under accelerated flight and landing conditions, including engine torque.
 
-(Secs. 604, 605, 72 Stat. 778, 49 U.S.C. 1424, 1425) [Doc. No. 5074, 29 FR 15695, Nov. 24, 1964, as amended by Amdt. 27-3, 33 FR 14105, Sept. 18, 1968]
+(Secs. 604, 605, 72 Stat. 778, 49 U.S.C. 1424, 1425)[Doc. No. 5074, 29 FR 15695, Nov. 24, 1964, as amended by Amdt. 27-3, 33 FR 14105, Sept. 18, 1968]

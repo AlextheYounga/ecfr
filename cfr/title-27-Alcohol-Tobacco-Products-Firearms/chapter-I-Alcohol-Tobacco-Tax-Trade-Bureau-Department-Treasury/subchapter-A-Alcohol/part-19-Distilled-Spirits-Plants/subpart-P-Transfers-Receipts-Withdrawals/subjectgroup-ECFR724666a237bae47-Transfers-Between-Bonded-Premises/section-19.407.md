@@ -24,4 +24,4 @@
 
 (2) Ensure that each conveyance is empty and has been thoroughly drained.
 
-(26 U.S.C. 5204, 5213, 5362)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-196, 89 FR 87939, Nov. 6, 2024]
+(26 U.S.C. 5204, 5213, 5362) [T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-196, 89 FR 87939, Nov. 6, 2024]

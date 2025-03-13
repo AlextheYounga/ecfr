@@ -30,4 +30,4 @@ For purposes of paragraphs (c) (1) and (2) of this section, the term “day” d
 
 (2) *Delayed payment in certain cases.* If, however, as described in paragraph (c)(2) of this section, the taxpayer may submit a statement of exemptions and filing status after the third day before payday, amounts payable to the taxpayer on that payday, to the extent not exempt from levy, are payable to the appropriate TTB officer on the third day following the date on which the taxpayer may timely submit the statement of exemptions and filing status under paragraph (c)(2) of this section. For purposes of this rule, the term “day” does not include Saturday, Sunday or a legal holiday within the meaning of 26 U.S.C. 7503.
 
-(26 U.S.C. 6334)[T.D. ATF-6, 38 FR 32445, Nov. 26, 1973, as amended by T.D. TTB-196, 89 FR 87951, Nov. 6, 2024]Periods of Limitation in Judicial Proceedings
+(26 U.S.C. 6334)[T.D. ATF-6, 38 FR 32445, Nov. 26, 1973, as amended by T.D. TTB-196, 89 FR 87951, Nov. 6, 2024] Periods of Limitation in Judicial Proceedings

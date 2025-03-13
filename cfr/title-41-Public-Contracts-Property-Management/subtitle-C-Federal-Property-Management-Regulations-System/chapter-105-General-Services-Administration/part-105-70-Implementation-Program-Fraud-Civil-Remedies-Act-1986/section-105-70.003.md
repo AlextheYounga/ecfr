@@ -14,7 +14,7 @@
 
 (C) Is a statement in which the person making such statement has a duty to include such material fact; or
 
-(iv) Is for payment for the provision of property or services which the person has not provided as claimed, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $13,400 for each such claim.
+(iv) Is for payment for the provision of property or services which the person has not provided as claimed, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $13,700 for each such claim.
 
 (2) Each voucher, invoice, claim form, or other individual request or demand for property, services, or money constitutes a separate claim.
 
@@ -32,7 +32,7 @@
 
 (B) Is false, fictitious, or fraudulent because it omits a material fact that the person making the statement has a duty to include in such statement; and
 
-(ii) Contains or is accompanied by an express certification or affirmation of the truthfulness and accuracy of the contents of the statement, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $13,400 for each such statement.
+(ii) Contains or is accompanied by an express certification or affirmation of the truthfulness and accuracy of the contents of the statement, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $13,700 for each such statement.
 
 (2) Each written representation, certification, or affirmation constitutes a separate statement.
 
@@ -44,4 +44,12 @@
 
 (e) In any case in which it is determined that more than one person is liable for making a claim under this section on which the Government has made payment (including transferred property or provided services), an assessment may be imposed against any such person or jointly and severally against any combination of such persons.
 
-[52 FR 45188, Nov. 25, 1987, as amended at 61 FR 67235, Dec. 20, 1996; 82 FR 40958, Aug. 29, 2017; 83 FR 1304, Jan. 11, 2018; 84 FR 53065, Oct. 4, 2019; 86 FR 21949, Apr. 26, 2021; 87 FR 2350, Jan. 14, 2022; 88 FR 2248, Jan. 13, 2023; 89 FR 1833, Jan. 11, 2024]
+(f) For violations occurring on or after January 1, 2025, the maximum penalty, which may be assessed under paragraphs (a)(1)(iv) or (b)(1)(ii) of this section, is the larger of:
+
+(1) The amount for the previous calendar year, or
+
+(2) An amount adjusted for inflation, calculated by multiplying the amount for the previous calendar year by the percentage by which the CPI-U for the month of October preceding the current calendar year exceeds the CPI-U for the month of October of the calendar year two years prior to the current calendar year, adding that amount to the amount for the previous calendar year, and rounding the total to the nearest hundred dollar increment.
+
+(g) Notice of the maximum penalty which may be assessed under paragraphs (a)(1)(iv) and (b)(1)(ii) of this section for calendar year 2026 and thereafter will be published by GSA in the Federal Register on an annual basis on or before January 15 of each calendar year.
+
+[52 FR 45188, Nov. 25, 1987, as amended at 61 FR 67235, Dec. 20, 1996; 82 FR 40958, Aug. 29, 2017; 83 FR 1304, Jan. 11, 2018; 84 FR 53065, Oct. 4, 2019; 86 FR 21949, Apr. 26, 2021; 87 FR 2350, Jan. 14, 2022; 88 FR 2248, Jan. 13, 2023; 89 FR 1833, Jan. 11, 2024; 89 FR 103663, Dec. 19, 2024]

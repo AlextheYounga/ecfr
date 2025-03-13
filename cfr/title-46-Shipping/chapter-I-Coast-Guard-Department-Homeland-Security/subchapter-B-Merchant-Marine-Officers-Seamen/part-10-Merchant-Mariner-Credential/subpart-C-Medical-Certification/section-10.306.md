@@ -8,4 +8,6 @@
 
 (d) *Hearing waivers.* An applicant who is unable to meet the hearing standards of the audiometer test, but who can pass the functional speech discrimination test; or who requires hearing aids to meet the hearing standards, may be eligible for a medical waiver in accordance with § 10.303 of this subpart.
 
-(e) *Hearing operational limitation.* If hearing aids are required in order to meet the hearing standards above, a mariner may not serve under the authority of the endorsement unless hearing aids are worn in the operational mode, and spare batteries are carried onboard a vessel. This operational limitation will be placed on his or her medical certificate.
+(e) *Hearing operational limitation.* If hearing aids are required in order to meet the hearing standards above, a mariner may not serve under the authority of the endorsement unless hearing aids are worn in the operational mode, and spare batteries are carried onboard a vessel. This operational limitation will be placed on their medical certificate.
+
+[USCG-2004-17914, 78 FR 77900, Dec. 24, 2013, as amended by USCG-2021-0834, 89 FR 102332, Dec. 17, 2024]

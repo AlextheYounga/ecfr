@@ -1,5 +1,7 @@
 ##### § 1222.101 Definitions. #####
 
+Link to an amendment published at 90 FR 6783, Jan. 21, 2025.
+
 For the purposes of this subpart:
 
 (a) *Administrator* means the Administrator of the Agricultural Marketing Service, with power to delegate, or any officer or employee of the U.S. Department of Agriculture to whom authority has been delegated or may hereafter be delegated to act in the Administrator's stead.

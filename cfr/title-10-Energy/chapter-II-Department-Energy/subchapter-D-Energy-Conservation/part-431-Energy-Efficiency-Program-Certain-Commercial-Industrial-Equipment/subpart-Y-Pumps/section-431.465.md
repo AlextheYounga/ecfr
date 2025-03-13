@@ -1,4 +1,4 @@
-##### § 431.465 Circulator pumps energy conservation standards and their compliance dates. #####
+##### § 431.465 Pumps energy conservation standards and their compliance dates. #####
 
 (a) For the purposes of paragraph (b) of this section, “PEICL” means the constant load pump energy index and “PEIVL” means the variable load pump energy index, both as determined in accordance with the test procedure in § 431.464. For the purposes of paragraph (c) of this section, “BEP” means the best efficiency point as determined in accordance with the test procedure in § 431.464.
 

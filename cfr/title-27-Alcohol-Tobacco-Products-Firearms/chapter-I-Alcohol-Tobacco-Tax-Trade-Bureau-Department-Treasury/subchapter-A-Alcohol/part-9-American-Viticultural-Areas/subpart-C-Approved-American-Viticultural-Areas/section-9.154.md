@@ -20,9 +20,9 @@
 
 (3) Then in a south-southeasterly direction approximately 3,800 feet along the Rancho Catacula/Rancho La Jota boundary line to the point where the Rancho Catacula boundary separates from the common boundary with Rancho La Jota;
 
-(4) Then in a southeasterly direction continuing along the Rancho Catacula boundary approximately 23,600 feet to a point of intersection, in the NE1/4 Sec. 19, T8N, R4W, on the Chiles Valley quadrangle map, with a county road known locally as Chiles and Pope Valley Road;
+(4) Then in a southeasterly direction continuing along the Rancho Catacula boundary approximately 23,600 feet to a point of intersection, in the NE 1/4 Sec. 19, T8N, R4W, on the Chiles Valley quadrangle map, with a county road known locally as Chiles and Pope Valley Road;
 
-(5) Then in a southwesterly direction along Chiles and Pope Valley Road to a point where it first crosses an unnamed blueline stream in the SE1/4 Section 19, T8N, R4W;
+(5) Then in a southwesterly direction along Chiles and Pope Valley Road to a point where it first crosses an unnamed blueline stream in the SE 1/4 Section 19, T8N, R4W;
 
 (6) Then following the unnamed stream in generally southeast direction to its intersection with the 1200 foot contour;
 

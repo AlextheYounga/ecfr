@@ -1,14 +1,14 @@
 ##### § 61.31 Type rating requirements, additional training, and authorization requirements. #####
 
-Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
-
 (a) *Type ratings required.* A person who acts as a pilot in command of any of the following aircraft must hold a type rating for that aircraft:
 
 (1) Large aircraft (except lighter-than-air).
 
 (2) Turbojet-powered airplanes.
 
-(3) Other aircraft specified by the Administrator through aircraft type certificate procedures.
+(3) Powered-lift.
+
+(4) Other aircraft specified by the Administrator through aircraft type certificate procedures.
 
 (b) *Authorization in lieu of a type rating.* A person may be authorized to operate without a type rating for up to 60 days an aircraft requiring a type rating, provided—
 
@@ -160,7 +160,7 @@ Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
 (B) Has logged at least 20 hours as pilot in command in night vision goggle operations.
 
-(l) *Exceptions.* (1) This section does not require a category and class rating for aircraft not type-certificated as airplanes, rotorcraft, gliders, lighter-than-air aircraft, powered-lifts, powered parachutes, or weight-shift-control aircraft.
+(l) *Exceptions.* (1) This section does not require a pilot to hold category and class ratings for an aircraft that is not identified by category or class under § 61.5(b).
 
 (2) The rating limitations of this section do not apply to—
 
@@ -180,4 +180,4 @@ Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
 (vi) The holder of a sport pilot certificate when operating a light-sport aircraft.
 
-[Doc. No. 25910, 62 FR 40896, July 30, 1997, as amended by Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-110, 69 FR 44865, July 27, 2004; Amdt. 61-124, 74 FR 42548, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-142, 83 FR 30276, June 27, 2018]
+[Doc. No. 25910, 62 FR 40896, July 30, 1997, as amended by Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-110, 69 FR 44865, July 27, 2004; Amdt. 61-124, 74 FR 42548, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-142, 83 FR 30276, June 27, 2018; FAA-2023-1275; Amdt. No. 61-157, 89 FR 92484, Nov. 21, 2024]

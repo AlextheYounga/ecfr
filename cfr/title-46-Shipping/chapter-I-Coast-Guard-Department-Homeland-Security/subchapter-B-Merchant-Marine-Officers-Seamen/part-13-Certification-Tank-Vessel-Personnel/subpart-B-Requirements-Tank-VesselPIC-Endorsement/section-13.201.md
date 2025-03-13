@@ -1,14 +1,12 @@
 ##### § 13.201 Original application for Tank Vessel-PIC endorsement. #####
 
-Link to an amendment published at 89 FR 102337, Dec. 17, 2024.
-
 Each applicant for an original Tank Vessel-PIC endorsement must—
 
 (a) Be at least 18 years old;
 
 (b) Apply on a form provided by the Coast Guard;
 
-(c) Present evidence of—
+(c) Provide evidence of—
 
 (1) Passing a physical and medical examination in accordance with § 13.125;
 
@@ -20,4 +18,4 @@ Each applicant for an original Tank Vessel-PIC endorsement must—
 
 (d) Be capable of speaking and understanding, in English, all instructions needed to commence, conduct, and complete a transfer of cargo, and be capable of reading and understanding the English language found in the Declaration of Inspection, vessel response plans, and Material Safety Data Sheet.
 
-[USCG-2004-17914, 78 FR 77995, Dec. 24, 2013, as amended by USCG-2021-0348, 87 FR 3223, Jan. 21, 2022]
+[USCG-2004-17914, 78 FR 77995, Dec. 24, 2013, as amended by USCG-2021-0348, 87 FR 3223, Jan. 21, 2022; USCG-2021-0834, 89 FR 102337, Dec. 17, 2024]

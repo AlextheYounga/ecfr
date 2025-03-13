@@ -2,7 +2,7 @@
 
 (a) *Formula.* To every 100 gallons of alcohol add:
 
-One-half gallon of rubber hydrocarbon solvent,1/2 gallon of toluene,1/2 gallon of heptane,1/2 gallon of hexane (mixed isomers), or1/2 gallon of *n*-hexane.
+One-half gallon of rubber hydrocarbon solvent, 1/2 gallon of toluene, 1/2 gallon of heptane, 1/2 gallon of hexane (mixed isomers), or 1/2 gallon of *n*-hexane.
 
 (b) *Authorized uses.* (1) As a solvent:
 

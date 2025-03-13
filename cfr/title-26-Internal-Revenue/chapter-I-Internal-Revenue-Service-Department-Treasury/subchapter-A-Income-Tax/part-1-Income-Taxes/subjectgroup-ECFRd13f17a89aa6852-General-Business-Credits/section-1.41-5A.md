@@ -34,4 +34,4 @@
 
 (6) Specifies the date on which the election is to become effective.
 
-If an election to be treated as a qualified fund is filed before February 1, 1982, the election may be made effective as of any date after June 30, 1981, and before January 1, 1986. If an election is filed on or after February 1, 1982, the election may be made effective as of any date on or after the date on which the election is filed. [T.D. 8251, 54 FR 21204, May 17, 1989. Redesignated and amended by T.D. 8930, 66 FR 295, Jan. 3, 2001]
+If an election to be treated as a qualified fund is filed before February 1, 1982, the election may be made effective as of any date after June 30, 1981, and before January 1, 1986. If an election is filed on or after February 1, 1982, the election may be made effective as of any date on or after the date on which the election is filed.[T.D. 8251, 54 FR 21204, May 17, 1989. Redesignated and amended by T.D. 8930, 66 FR 295, Jan. 3, 2001]

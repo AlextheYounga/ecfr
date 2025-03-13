@@ -16,4 +16,4 @@
 
 (d) *Waiver.* The appropriate TTB officer may waive the requirement to show any information required by this section, other than the kind of spirits, upon a showing that the country to which the spirits are to be exported prohibits the showing of such information. In regard to kind (class and type) of spirits, the appropriate TTB officer may waive the designation required by § 5.63(a)(2) of this chapter, only to the extent that the label need not bear the word “diluted” for distilled spirits bottled below the minimum bottling proof, and provided that this is in accordance with the rules of the country to which the product is to be exported.
 
-(26 U.S.C. 5201, 5301)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-196, 89 FR 87939, Nov. 6, 2024]
+(26 U.S.C. 5201, 5301) [T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-196, 89 FR 87939, Nov. 6, 2024]

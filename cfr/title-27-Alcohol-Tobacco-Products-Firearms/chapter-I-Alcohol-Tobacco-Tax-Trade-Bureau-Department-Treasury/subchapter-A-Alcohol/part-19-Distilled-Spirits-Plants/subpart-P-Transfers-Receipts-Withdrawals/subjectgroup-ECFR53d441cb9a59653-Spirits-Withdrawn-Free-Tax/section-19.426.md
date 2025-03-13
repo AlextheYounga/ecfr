@@ -12,4 +12,4 @@
 
 (b) *Withdrawal for beverage use.* Agencies of the United States Government that wish to obtain distilled spirits free of tax for beverage purposes under 26 U.S.C. 7510 must provide a proper purchase order signed by the head of the agency or an authorized designee. Each case of spirits withdrawn must bear a plain mark “For Use of the United States” in addition to the marks required by subpart S of this part. For each withdrawal under this paragraph, the proprietor must prepare a record containing the information required by § 19.611 for a record of tax determination and must mark this record “Free of Tax for Use of the United States.”
 
-(26 U.S.C. 7510);(26 U.S.C. 5271, 5313)
+(26 U.S.C. 7510); (26 U.S.C. 5271, 5313)

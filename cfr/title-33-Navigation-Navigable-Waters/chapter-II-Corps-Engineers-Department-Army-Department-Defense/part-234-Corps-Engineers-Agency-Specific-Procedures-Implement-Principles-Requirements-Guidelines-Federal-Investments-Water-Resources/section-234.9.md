@@ -1,0 +1,13 @@
+##### § 234.9 Evaluate effects of alternatives. #####
+
+(a) *Analysis of alternatives.* For the final array of alternatives, the analysis should describe, evaluate, and estimate the key social, environmental, and economic effects, and assess the contributions of each alternative to the Guiding Principles. The analysis should identify any impacts to Tribal treaty rights which were unknown earlier in the planning process and which prevent the selection of an alternative.
+
+(b) *Evaluation procedures.* In addition to assessing how alternatives perform with respect to the Guiding Principles, the evaluation procedures shall incorporate methods to evaluate:
+
+(1) How public benefits of an alternative compare to its costs, including full consideration of all important social, environmental, and economic benefits and costs.
+
+(2) How alternatives perform against the objectives of the study.
+
+(3) How alternatives perform against the four formulation criteria: completeness, effectiveness, efficiency, and acceptability.
+
+(c) *Consideration of benefits and costs.* The report should fully account for the effects to society of alternative plans and their respective contributions to the Federal Objective, relative to the No Action alternative. The analysis will evaluate the economic benefits and costs, environmental benefits and costs, and social benefits and costs of alternatives, regardless of how they are included (monetized, quantified, or described). The consideration of benefits to federally recognized Tribes will be done in direct consultation with the respective Tribal Nation and will supplement the public benefit analysis. To the extent practicable, such costs and benefits must be quantified in a scientifically valid and acceptable way, and such quantified costs shall be monetized where practicable. When monetization or quantification is not possible, costs and benefits must be described in sufficient detail to enable the decision-maker to understand the importance and magnitude of potential changes. For monetized costs and benefits, the present value cost of each alternative must be compared to the present value of the benefit to the public. For quantified but not monetized benefits and costs, the Corps would present the information on an average annual basis, and would also describe how the benefits and costs would accrue over the period of analysis. For qualitatively described benefits and costs, expectations would be described across the period of analysis. The effects of alternative plans are displayed in terms of costs and benefits.

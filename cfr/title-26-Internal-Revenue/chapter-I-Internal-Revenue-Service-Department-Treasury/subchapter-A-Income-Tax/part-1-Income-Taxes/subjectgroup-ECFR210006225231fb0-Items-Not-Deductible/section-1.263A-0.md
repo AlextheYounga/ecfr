@@ -732,7 +732,7 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (ii) Determination of whether personnel are engaged in purchasing activities.
 
-(A) 1/3-2/3 rule for allocating labor costs.
+(A)1/3-2/3 rule for allocating labor costs.
 
 (B) Example.
 

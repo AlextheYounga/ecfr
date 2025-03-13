@@ -14,7 +14,7 @@
 
 (b) The escrow agreement required under paragraph (a) of this section shall not be effective until approved by the Department. Claims against the escrow may be made only with respect to the non-performance of air transportation.
 
-(c) The carrier may elect, in lieu of furnishing an escrow agreement pursuant to paragraph (a) of this section, to furnish and file with the Department a surety bond with guarantees to the United States Government the performance of all charter trips (other than cargo charter trips) originating in the United States and of all overseas military personnel charter trips, as defined in part 372 of this chapter, to be performed, in whole or in part, by such carrier pursuant to any contracts entered into by such carrier. The amount of such bond shall be unlimited. 1 Claims under the bond may be made only with respect to the non-performance of air transportation.
+(c) The carrier may elect, in lieu of furnishing an escrow agreement pursuant to paragraph (a) of this section, to furnish and file with the Department a surety bond with guarantees to the United States Government the performance of all charter trips (other than cargo charter trips) originating in the United States and of all overseas military personnel charter trips, as defined in part 372 of this chapter, to be performed, in whole or in part, by such carrier pursuant to any contracts entered into by such carrier. The amount of such bond shall be unlimited.1 Claims under the bond may be made only with respect to the non-performance of air transportation.
 
 1 While the face amount of the bond is unlimited, claims are limited to amounts that are paid to carrier for U.S.-originating passenger charter flights that carrier fails to perform or to refund.
 

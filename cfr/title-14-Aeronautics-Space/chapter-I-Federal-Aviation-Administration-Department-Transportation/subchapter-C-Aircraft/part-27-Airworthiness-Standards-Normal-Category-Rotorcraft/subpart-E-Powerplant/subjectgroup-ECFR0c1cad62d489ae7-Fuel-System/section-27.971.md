@@ -1,6 +1,6 @@
 ##### § 27.971 Fuel tank sump. #####
 
-(a) Each fuel tank must have a drainable sump with an effective capacity in any ground attitude to be expected in service of 0.25 percent of the tank capacity or 1/16 gallon, whichever is greater, unless—
+(a) Each fuel tank must have a drainable sump with an effective capacity in any ground attitude to be expected in service of 0.25 percent of the tank capacity or1/16 gallon, whichever is greater, unless—
 
 (1) The fuel system has a sediment bowl or chamber that is accessible for preflight drainage and has a minimum capacity of 1 ounce for every 20 gallons of fuel tank capacity; and
 

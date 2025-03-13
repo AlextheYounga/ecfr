@@ -36,7 +36,7 @@
 
 (6) Then east, then generally northeasterly along the meandering Sacramento River to the point where it meets the Delta Cross Channel at the Southern Pacific Railroad.
 
-(7) Then northeast along the Southern Pacific Railroad for 2 miles, to a point1/3 mile past the intersection of the Southern Pacific Railroad and the eastern branch of Snodgrass Slough.
+(7) Then northeast along the Southern Pacific Railroad for 2 miles, to a point 1/3 mile past the intersection of the Southern Pacific Railroad and the eastern branch of Snodgrass Slough.
 
 (8) Then east approximately 21/2 miles along the levee to Interstate 5 (under construction).
 

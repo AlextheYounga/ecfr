@@ -16,4 +16,5 @@ An applicant for a remote pilot certificate with a small UAS rating under this s
 
 (3) The person making the application must, by logbook endorsement or other manner acceptable to the Administrator, show the applicant meets the flight review requirements specified in § 61.56 of this chapter.
 
-[Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, as amended by Docket FAA-2018-0119, Amdt. 107-2, 83 FR 9172, Mar. 5, 2018; Amdt. No. 107-8, 86 FR 4382, Jan. 15, 2021] ]
+[Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, as amended by Docket FAA-2018-0119, Amdt. 107-2, 83 FR 9172, Mar. 5, 2018; Amdt. No. 107-8, 86 FR 4382, Jan. 15, 2021]
+]

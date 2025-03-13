@@ -4,4 +4,5 @@
 
 (b) As a carrier, you must, except as otherwise provided in this subpart, provide boarding and deplaning assistance through the use of lifts or ramps at any U.S. commercial service airport with 10,000 or more annual enplanements where boarding and deplaning by level-entry loading bridges or accessible passenger lounges is not available.
 
-[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended by DOT-OST-2022-0144, 89 FR 102442, Dec. 17, 2024]
+[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended by DOT-OST-2022-0144,
+89 FR 102442, Dec. 17, 2024]

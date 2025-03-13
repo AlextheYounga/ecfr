@@ -1,7 +1,5 @@
 ##### § 136.1 Applicability and definitions. #####
 
-Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
-
 (a) This subpart applies to each person operating or intending to operate a commercial air tour in an airplane, powered-lift, or rotorcraft and, when applicable, to all occupants of those aircraft engaged in a commercial air tour. When any requirement of this subpart is more stringent than any other requirement of this chapter, the person operating the commercial air tour must comply with the requirement in this subpart.
 
 (b) This subpart applies to:
@@ -46,4 +44,6 @@ Link to an amendment published at 89 FR 92488, Nov. 21, 2024.
 
 (e) In an in-flight emergency requiring immediate action, the pilot in command may deviate from any rule of this subpart to the extent required to meet that emergency.
 
-[Docket No. FAA-1998-4521, 72 FR 6912, Feb. 13, 2007, as amended by Docket No. FAA-2022-1563; Amdt. No. 136-2, 88 FR 48091, July 26, 2023]
+(f) Additional requirements for powered-lift operations are set forth in part 194 of this chapter.
+
+[Docket No. FAA-1998-4521, 72 FR 6912, Feb. 13, 2007, as amended by Docket No. FAA-2022-1563, Amdt. No. 136-2, 88 FR 48091, July 26, 2023; FAA-2023-1275, Amdt. No. 136-4, 89 FR 92488, Nov. 21, 2024]

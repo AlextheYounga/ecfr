@@ -62,4 +62,4 @@
 
 (28) *Exportation of liquors.* Part 28 of title 27 CFR contains the regulations relating to exportation including, where applicable, lading for use on vessels and aircraft, transfer to a foreign-trade zone, or transfer to a manufacturing bonded warehouse, Class 6, of distilled spirits (including specially denatured spirits), beer (including beer concentrate), and wine, and transfer of distilled spirits and wine for deposit in a customs bonded warehouse, whether without payment of tax, free of tax, or with benefit of drawback. It includes requirements with respect to removal, shipment, lading, deposit, evidence of exportation, losses, claims, and bonds.
 
-[T.D. ATF-251, 52 FR 19325, May 22, 1987]Editorial Note:For Federal Register citations affecting § 70.411, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. ATF-251, 52 FR 19325, May 22, 1987] Editorial Note:For Federal Register citations affecting § 70.411, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

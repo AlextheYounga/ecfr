@@ -1,7 +1,5 @@
 ##### § 43.1 Applicability. #####
 
-Link to an amendment published at 89 FR 92483, Nov. 21, 2024.
-
 (a) Except as provided in paragraphs (b) and (d) of this section, this part prescribes rules governing the maintenance, preventive maintenance, rebuilding, and alteration of any—
 
 (1) Aircraft having a U.S. airworthiness certificate;
@@ -28,4 +26,6 @@ Link to an amendment published at 89 FR 92483, Nov. 21, 2024.
 
 (3) The listing of major alterations and major repairs specified in paragraphs (a) and (b) of appendix A of this part is not applicable to products not produced under an FAA approval.
 
-[Doc. No. 1993, 29 FR 5451, Apr. 23, 1964, as amended by Amdt. 43-23, 47 FR 41084, Sept. 16, 1982; Amdt. 43-37, 66 FR 21066, Apr. 27, 2001; Amdt. 43-38, 67 FR 2109, Jan. 15, 2002; Amdt. 43-39, 69 FR 44863, July 27, 2004; Amdt. 43-44, 75 FR 5219, Feb. 1, 2010; Docket FAA-2015-0150, Amdt. 43-48, 81 FR 42208, June 28, 2016; Docket FAA-2018-1087, Amdt. 43-51, 86 FR 4381, Jan. 15, 2021]
+(e) Additional applicability of maintenance provisions for powered-lift is set forth in part 194 of this chapter.
+
+[Doc. No. 1993, 29 FR 5451, Apr. 23, 1964, as amended by Amdt. 43-23, 47 FR 41084, Sept. 16, 1982; Amdt. 43-37, 66 FR 21066, Apr. 27, 2001; Amdt. 43-38, 67 FR 2109, Jan. 15, 2002; Amdt. 43-39, 69 FR 44863, July 27, 2004; Amdt. 43-44, 75 FR 5219, Feb. 1, 2010; Docket FAA-2015-0150, Amdt. 43-48, 81 FR 42208, June 28, 2016; Docket FAA-2018-1087, Amdt. 43-51, 86 FR 4381, Jan. 15, 2021; FAA-2023-1275, Amdt. No. 43-62, 89 FR 92483, Nov. 21, 2024]

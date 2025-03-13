@@ -1,12 +1,10 @@
 ##### § 61.45 Practical tests: Required aircraft and equipment. #####
 
-Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
-
 (a) *General.* Except as provided in paragraph (a)(2) of this section or when permitted to accomplish the entire flight increment of the practical test in a flight simulator or a flight training device, an applicant for a certificate or rating issued under this part must furnish:
 
 (1) An aircraft of U.S. registry for each required test that—
 
-(i) Is of the category, class, and type, if applicable, for which the applicant is applying for a certificate or rating; and
+(i) Is of the category, class, and type (if a class or type rating is required) for which the applicant is applying for a certificate or rating; and
 
 (ii) Has a standard airworthiness certificate or special airworthiness certificate in the limited, primary, or light-sport category.
 
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
 (i) An aircraft that has an airworthiness certificate other than a standard airworthiness certificate or special airworthiness certificate in the limited, primary, or light-sport category, but that otherwise meets the requirements of paragraph (a)(1) of this section;
 
-(ii) An aircraft of the same category, class, and type, if applicable, of foreign registry that is properly certificated by the country of registry; or
+(ii) An aircraft of the same category, class, and type (if a class or type rating is required) of foreign registry that is properly certificated by the country of registry; or
 
 (iii) A military aircraft of the same category, class, and type, if aircraft class and type are appropriate, for which the applicant is applying for a certificate or rating, and provided—
 
@@ -60,4 +58,4 @@ Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
 (3) Pilot certificate of an applicant successfully passing the test is issued a pilot certificate with a limitation “No passenger carriage and flight in a single-seat light-sport aircraft only.”
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40897, July 30, 1997; Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-110, 69 FR 44865, July 27, 2004; Amdt. 61-124, 74 FR 42549, Aug. 21, 2009]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40897, July 30, 1997; Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-110, 69 FR 44865, July 27, 2004; Amdt. 61-124, 74 FR 42549, Aug. 21, 2009; FAA-2023-1275; Amdt. No. 61-157, 89 FR 92484, Nov. 21, 2024]

@@ -20,7 +20,7 @@
 
 (e) Before denying an application because of information received from the NDR, the Coast Guard will make the information available to the applicant for review and written comment. The applicant may submit records from the applicable State concerning driving record and convictions to the Coast Guard processing the application. The Coast Guard will hold an application with NDR-listed convictions pending the completion of the evaluation and delivery by the individual of the underlying State records.
 
-(f) If an applicant has one or more alcohol or dangerous drug-related criminal or NDR-listed convictions, if the applicant has ever been the user of, or addicted to the use of, a dangerous drug, or if the applicant applies before the minimum assessment period for his or her conviction has elapsed, the Coast Guard may consider the following factors, as applicable, in assessing the applicant's suitability to hold an MMC. This list is intended as a guide for the Coast Guard. The Coast Guard may consider other factors which it judges appropriate to a particular applicant, such as—
+(f) If an applicant has one or more alcohol or dangerous drug-related criminal or NDR-listed convictions, if the applicant has ever been the user of, or addicted to the use of, a dangerous drug, or if the applicant applies before the minimum assessment period for their conviction has elapsed, the Coast Guard may consider the following factors, as applicable, in assessing the applicant's suitability to hold an MMC. This list is intended as a guide for the Coast Guard. The Coast Guard may consider other factors which it judges appropriate to a particular applicant, such as—
 
 (1) Proof of completion of an accredited alcohol or drug abuse rehabilitation program;
 
@@ -32,4 +32,4 @@
 
 (5) Successful completion of all conditions of parole or probation.
 
-[USCG-2004-17914, 78 FR 77889, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93054, Nov. 25, 2024]
+[USCG-2004-17914, 78 FR 77889, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93054, Nov. 25, 2024; USCG-2021-0834, 89 FR 102332, Dec. 17, 2024]

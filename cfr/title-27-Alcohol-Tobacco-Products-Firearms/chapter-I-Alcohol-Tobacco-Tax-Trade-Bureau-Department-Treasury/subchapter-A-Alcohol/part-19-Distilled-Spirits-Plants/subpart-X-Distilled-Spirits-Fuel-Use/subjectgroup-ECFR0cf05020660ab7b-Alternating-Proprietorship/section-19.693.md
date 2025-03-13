@@ -24,4 +24,4 @@
 
 (5) The provisions of § 19.685 regarding change of alcohol fuel plant type apply to each proprietor.
 
-(26 U.S.C. 5171, 5181, 5271)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-196, 89 FR 87939, Nov. 6, 2024]
+(26 U.S.C. 5171, 5181, 5271) [T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-196, 89 FR 87939, Nov. 6, 2024]

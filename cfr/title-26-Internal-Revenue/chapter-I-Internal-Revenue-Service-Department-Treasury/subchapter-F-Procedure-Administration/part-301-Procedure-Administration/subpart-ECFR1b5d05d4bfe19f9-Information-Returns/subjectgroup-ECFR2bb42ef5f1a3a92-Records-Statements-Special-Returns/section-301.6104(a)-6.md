@@ -10,4 +10,4 @@
 
 (d) *Copies.* Notes may be taken of the material open for inspection. Copies may be made manually or, if a person provides the equipment, photographically at the place of inspection. Photographic copying is subject to reasonable supervision with regard to the facilities and equipment used. Any fees the Internal Revenue Service may charge for furnishing copies under this section shall be no more than under the fee schedule promulgated pursuant to section (a)(4)(A)(i) of the Freedom of Information Act, 5 U.S.C. 552, by the Commissioner from time to time. Copies will be certified upon request.
 
-(Secs. 6104(a)(1)(A), 6104(a)(1)(B), and 7805 of the Internal Revenue Code of 1954 (72 Stat. 1660, 88 Stat. 940, 68A Stat. 917; 26 U.S.C. 6104(a)(1)(A), 6104(a)(1)(B), 7805)) [T.D. 7845, 47 FR 50490, Nov. 8, 1982, as amended by T.D. 9070, 68 FR 40769, July 9, 2003]
+(Secs. 6104(a)(1)(A), 6104(a)(1)(B), and 7805 of the Internal Revenue Code of 1954 (72 Stat. 1660, 88 Stat. 940, 68A Stat. 917; 26 U.S.C. 6104(a)(1)(A), 6104(a)(1)(B), 7805))[T.D. 7845, 47 FR 50490, Nov. 8, 1982, as amended by T.D. 9070, 68 FR 40769, July 9, 2003]

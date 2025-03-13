@@ -54,7 +54,7 @@ A qualified veterans' mortgage bond does not include any bond that is an industr
 
 In determining the number of calendar years after 1978 and before 1985 during which the State issued qualified veterans' mortgage bonds, any qualified veterans' mortgage bonds issued after June 22, 1984, shall not be taken into account. A State that did not issue qualified veterans' mortgage bonds during the period beginning on January 1, 1979, and ending on June 22, 1984, may not issue qualified veterans' mortgage bonds after June 22, 1984.
 
-(ii) In the case of any obligation which has a term of 1 year or less and which was issued to provide financing for property taxes, the amount taken into account under this paragraph with respect to such obligation shall be 1/15 of its principal amount.
+(ii) In the case of any obligation which has a term of 1 year or less and which was issued to provide financing for property taxes, the amount taken into account under this paragraph with respect to such obligation shall be1/15 of its principal amount.
 
 (3) *Examples.* The following examples illustrate the provisions of this paragraph:
 

@@ -4,4 +4,4 @@
 
 (b) Persons may obtain TTB forms by accessing the TTB Web site (*https://www.ttb.gov*) or by mailing a request to the TTB National Revenue Center, 550 Main Street, Suite 8002, Cincinnati, Ohio 45202.
 
-(26 U.S.C. 5207)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-196, 89 FR 87939, Nov. 6, 2024]
+(26 U.S.C. 5207) [T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-196, 89 FR 87939, Nov. 6, 2024]

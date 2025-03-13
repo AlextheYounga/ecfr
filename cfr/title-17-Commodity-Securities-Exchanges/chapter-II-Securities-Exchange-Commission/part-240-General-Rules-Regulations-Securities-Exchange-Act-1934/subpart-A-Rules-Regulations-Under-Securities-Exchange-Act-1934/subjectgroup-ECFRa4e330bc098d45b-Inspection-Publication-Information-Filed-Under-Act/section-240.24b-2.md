@@ -1,5 +1,7 @@
 ##### § 240.24b-2 Nondisclosure of information filed with the Commission and with any exchange. #####
 
+Link to an amendment published at 90 FR 7371, Jan. 21, 2025.
+
 Except as otherwise provided in this rule, confidential treatment requests shall be submitted in paper format only, whether or not the filer is required to submit a filing in electronic format.
 
 (a) Any person filing any registration statement, report, application, statement, correspondence, notice or other document (herein referred to as the material filed) pursuant to the Act may make written objection to the public disclosure of any information contained therein in accordance with the procedure set forth below. The procedure provided in this rule shall be the exclusive means of requesting confidential treatment of information required to be filed under the Act.

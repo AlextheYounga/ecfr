@@ -166,4 +166,4 @@ Example (1).In 1975, B dies bequeathing $20,000 in trust with the requirement th
 
 (6) *Applicability date.* Paragraphs (e)(3)(iii) and (f)(4) of this section apply on and after June 1, 2023.
 
-[T.D. 6296, 23 FR 4529, June 24, 1958] Editorial Note:For Federal Register citations affecting § 20.2055-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 6296, 23 FR 4529, June 24, 1958]Editorial Note:For Federal Register citations affecting § 20.2055-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

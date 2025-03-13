@@ -1,7 +1,5 @@
 ##### § 3560.103 Maintaining housing projects. #####
 
-Link to an amendment published at 89 FR 103631, Dec. 19, 2024.
-
 (a) *Physical maintenance.* (1) The purposes of physical maintenance are the following:
 
 (i) Provide decent, safe, and sanitary housing; and
@@ -50,7 +48,23 @@ Link to an amendment published at 89 FR 103631, Dec. 19, 2024.
 
 (xix) *Water heaters.* The housing project must have water heaters which are operating properly, free of leaks, supply adequate hot water, and are fitted with temperature and pressure relief valves.
 
-(xx) *Smoke alarms.* The housing project must have smoke alarms which are properly located according to local code and which operate properly.
+(xx) *Smoke alarms.* The housing project must have Qualifying Smoke Alarms which are installed in accordance with applicable codes and standards as set forth in sections 514(k), 515(m), and 516(c) of the Housing Act of 1949 (42 U.S.C. 1471 *et seq.*), in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
+
+(A) Dwelling units built before December 29, 2022, and not substantially rehabilitated after December 29, 2022, smoke alarms must:
+
+(*1*) Be hardwired; or
+
+(*2*) Use 10-year non rechargeable, nonreplaceable primary batteries,
+
+(*i*) Be sealed,
+
+(*ii*) Tamper resistant,
+
+(*iii*) Contain silencing means; and
+
+(*3*) Provide notification for persons with hearing loss as required by applicable standards set forth in sections 514(k), 515(m), and 516(c) of the Housing Act of 1949 (42 U.S.C. 1471 *et seq.*).
+
+(B) Dwelling units built or substantially rehabilitated after December 29, 2022; smoke alarms must be hardwired.
 
 (xxi) *Emergency call system.* If a housing project has an emergency call system, the switches must be located in the bathroom and bedroom, furnished with a pull cord, with the down position set to “ON”, and must operate properly.
 
@@ -109,3 +123,5 @@ Link to an amendment published at 89 FR 103631, Dec. 19, 2024.
 (4) As a part of the annual budget process, borrowers may request an increase in the amount to be contributed and held in the housing project reserve account to fund the needs identified in an Agency-approved capital needs assessment.
 
 (5) At any time, borrowers may request and the Agency may approve amendments to loan or grant documents to increase the amount of funds to be contributed and held in a reserve account to cover the cost of capital improvements based on the needs identified in an Agency approved capital needs assessment. Borrowers must assure improvements are performed as specified in the capital needs assessment.
+
+[69 FR 69106, Nov. 26, 2004, as amended at 89 FR 103630, Dec. 19, 2024]

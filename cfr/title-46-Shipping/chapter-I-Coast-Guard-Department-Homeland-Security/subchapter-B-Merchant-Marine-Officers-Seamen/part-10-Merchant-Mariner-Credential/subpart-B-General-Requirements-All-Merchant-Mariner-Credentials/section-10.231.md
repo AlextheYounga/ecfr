@@ -1,7 +1,5 @@
 ##### § 10.231 Requirements for raises of grade or new endorsements. #####
 
-Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
-
 (a) This section applies to applicants who already hold a valid credential and want to make either of the following transactions:
 
 (1) Add a new endorsement.
@@ -28,7 +26,7 @@ Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
 (4) The appropriate fee as contained in § 10.219 of this part.
 
-(5) Any uncanceled MMD, MMC, license, STCW endorsement, or COR held by the applicant. If one or more of these credentials are still valid at the time of application, a photocopy—front, back, and all attachments—will satisfy this requirement.
+(5) Any expired or uncanceled MMD, MMC, license, STCW endorsement, or COR held by the applicant. If one or more of these credentials are still valid at the time of application, a copy—front, back, and all attachments—will satisfy this requirement.
 
 (6) Applicants for the following endorsements must produce evidence of having passed a chemical test for dangerous drugs or of qualifying for an exemption from testing in § 16.220 of this subchapter:
 
@@ -54,4 +52,4 @@ Link to an amendment published at 89 FR 102333, Dec. 17, 2024.
 
 (iii) The general instructions for administration of examinations and the lists of subjects for all endorsements are found in part 11, subpart I; part 12, subpart E; and part 13, subpart A of this subchapter.
 
-[USCG-2004-17914, 78 FR 77894, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93062, Nov. 25, 2024]
+[USCG-2004-17914, 78 FR 77894, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93062, Nov. 25, 2024; USCG-2021-0834, 89 FR 102333, Dec. 17, 2024]

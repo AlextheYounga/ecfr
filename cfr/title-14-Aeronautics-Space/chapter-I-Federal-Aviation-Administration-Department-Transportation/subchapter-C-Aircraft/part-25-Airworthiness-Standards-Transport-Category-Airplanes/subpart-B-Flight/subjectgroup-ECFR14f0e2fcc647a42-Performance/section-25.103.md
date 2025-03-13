@@ -2,11 +2,11 @@
 
 (a) The reference stall speed, VSR, is a calibrated airspeed defined by the applicant. VSR may not be less than a 1-g stall speed. VSR is expressed as:
 
-![](/graphics/er26no02.001.gif)where: VCLMAX = Calibrated airspeed obtained when the load factor-corrected lift coefficient![](/graphics/er26no02.002.gif)
+![](/graphics/er26no02.001.gif)where:VCLMAX = Calibrated airspeed obtained when the load factor-corrected lift coefficient![](/graphics/er26no02.002.gif)
 
 is first a maximum during the maneuver prescribed in paragraph (c) of this section. In addition, when the maneuver is limited by a device that abruptly pushes the nose down at a selected angle of attack (e.g., a stick pusher), VCLMAX may not be less than the speed existing at the instant the device operates;
 
-nZW = Load factor normal to the flight path at VCLMAXW = Airplane gross weight; S = Aerodynamic reference wing area; and q = Dynamic pressure.
+nZW = Load factor normal to the flight path at VCLMAXW = Airplane gross weight;S = Aerodynamic reference wing area; andq = Dynamic pressure.
 
 (b) VCLMAX is determined with:
 

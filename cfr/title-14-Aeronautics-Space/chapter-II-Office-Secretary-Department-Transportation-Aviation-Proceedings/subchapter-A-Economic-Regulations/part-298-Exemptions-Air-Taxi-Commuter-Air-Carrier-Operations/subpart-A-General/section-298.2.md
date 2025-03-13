@@ -4,7 +4,7 @@ As used in this part:
 
 *Air taxi operator* means an air carrier as established by § 298.3(a).
 
-*Air transportation* means interstate air transportation, foreign air transportation, or the transportation of mail by aircraft as defined by the Statute. 1
+*Air transportation* means interstate air transportation, foreign air transportation, or the transportation of mail by aircraft as defined by the Statute.1
 
 1 Interstate air transportation is defined in section 40102(a)(25) as the transportation of passengers or property by aircraft as a common carrier for compensation, or the transportation of mail by aircraft (1) between a place in (i) a State, territory, or possession of the United States and a place in the District of Columbia or another State, territory, or possession of the United States; (ii) Hawaii and another place in Hawaii through the airspace over a place outside Hawaii; (iii) the District of Columbia and another place in the District of Columbia; or (iv) a territory or possession of the United States and another place in the same territory or possession; and (2) when any part of the transportation is by aircraft. Note: Operations wholly within the geographic limits of a single State are not considered interstate air transportation if in those operations the carrier transports no more than a *de minimis* volume of passengers or property moving as part of a continuous journey to or from a point outside the State.
 
@@ -36,7 +36,7 @@ Air transportation also is defined to include the transportation of mail by airc
 
 *Large aircraft* means any aircraft originally designed to have a maximum passenger capacity of more than 60 seats or a maximum payload capacity of more than 18,000 pounds.
 
-*Maximum certificated takeoff weight* means the maximum takeoff weight authorized by the terms of the aircraft airworthiness certificate. 2
+*Maximum certificated takeoff weight* means the maximum takeoff weight authorized by the terms of the aircraft airworthiness certificate.2
 
 2 This weight may be found in the airplane operating record or in the airplane flight manual, which is incorporated by regulation into the airworthiness certificate.
 
@@ -50,11 +50,11 @@ Air transportation also is defined to include the transportation of mail by airc
 
 (ii) Oil—350 pounds,
 
-(iii) Fuel—the minimum weight of fuel required under FAA regulations in 14 CFR chapter I for a flight between domestic points 200 miles apart, 4
+(iii) Fuel—the minimum weight of fuel required under FAA regulations in 14 CFR chapter I for a flight between domestic points 200 miles apart,4
 
 4 Assumes VFR weather conditions and flights not involving extended overwater operations.
 
-(2) *Provided, however*, That in the case of aircraft for which a maximum zero fuel weight is prescribed by the FAA, 5 maximum payload capacity means the maximum zero fuel weight, less the empty weight, less all justifiable aircraft equipment, and less the operating load (consisting of minimum flight crew, steward's supplies, etc., but not including disposable fuel or oil).
+(2) *Provided, however*, That in the case of aircraft for which a maximum zero fuel weight is prescribed by the FAA,5 maximum payload capacity means the maximum zero fuel weight, less the empty weight, less all justifiable aircraft equipment, and less the operating load (consisting of minimum flight crew, steward's supplies, etc., but not including disposable fuel or oil).
 
 5 The maximum zero fuel weight is the maximum permissible weight of an airplane with no disposable fuel or oil. The zero fuel weight figure may be found in the FAA's type certificate data sheets, and/or in FAA-approved flight manuals.
 

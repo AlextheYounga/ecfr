@@ -1,5 +1,7 @@
 ##### § 240.6a-3 Supplemental material to be filed by exchanges. #####
 
+Link to an amendment published at 90 FR 7363, Jan. 21, 2025.
+
 (a)(1) A national securities exchange, or an exchange exempted from such registration based on limited volume, shall file with the Commission any material (including notices, circulars, bulletins, lists, and periodicals) issued or made generally available to members of, or participants or subscribers to, the exchange. Such material shall be filed with the Commission within 10 days after issuing or making such material available to members, participants or subscribers.
 
 (2) If the information required to be filed under paragraph (a)(1) of this section is available continuously on an Internet web site controlled by an exchange, in lieu of filing such information with the Commission, such exchange may:

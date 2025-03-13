@@ -94,7 +94,7 @@
 
 (32) Proceed east-southeasterly in a straight line for 0.8 mile to the marked 641-foot peak in the Blucher land grant, T6N/R9W; then
 
-(33) Proceed northeast in a straight line for 1.2 miles, crossing through the intersection of an intermittent stream with Canfield Road, to the common Range8/9 boundary; then
+(33) Proceed northeast in a straight line for 1.2 miles, crossing through the intersection of an intermittent stream with Canfield Road, to the common Range 8/9 boundary; then
 
 (34) Proceed southeast in a straight line for 0.5 mile to the marked 542-foot peak; then
 

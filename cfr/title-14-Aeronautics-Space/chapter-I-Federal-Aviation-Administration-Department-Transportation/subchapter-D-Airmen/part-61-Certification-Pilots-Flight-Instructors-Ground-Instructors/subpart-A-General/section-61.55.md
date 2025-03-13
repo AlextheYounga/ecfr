@@ -1,14 +1,14 @@
 ##### § 61.55 Second-in-command qualifications. #####
 
-Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
+(a) A person may serve as a second-in-command of an aircraft type certificated for more than one required pilot flight crewmember or in operations requiring a second-in-command pilot flight crewmember only if that person meets the following requirements:
 
-(a) A person may serve as a second-in-command of an aircraft type certificated for more than one required pilot flight crewmember or in operations requiring a second-in-command pilot flight crewmember only if that person holds:
+(1) Holds at least a private pilot certificate with the appropriate category and class rating;
 
-(1) At least a private pilot certificate with the appropriate category and class rating; and
+(2) Holds an instrument rating or privilege that applies to the aircraft being flown if the flight is under IFR;
 
-(2) An instrument rating or privilege that applies to the aircraft being flown if the flight is under IFR; and
+(3) Holds at least a pilot type rating for the aircraft being flown unless the flight will be conducted as domestic flight operations within the United States airspace; and
 
-(3) At least a pilot type rating for the aircraft being flown unless the flight will be conducted as domestic flight operations within the United States airspace.
+(4) If serving as second-in-command of a powered-lift, satisfies the requirements specified in § 194.209 of this chapter.
 
 (b) Except as provided in paragraph (e) of this section, no person may serve as a second-in-command of an aircraft type certificated for more than one required pilot flight crewmember or in operations requiring a second-in-command unless that person has within the previous 12 calendar months:
 
@@ -92,4 +92,4 @@ Link to an amendment published at 89 FR 92484, Nov. 21, 2024.
 
 (j) When an applicant for an initial second-in-command qualification for a particular type of aircraft receives all the training in a flight simulator, that applicant must satisfactorily complete one takeoff and one landing in an aircraft of the same type for which the qualification is sought. This requirement does not apply to an applicant who completes a proficiency check under part 121 or competency check under subpart K, part 91, part 125, or part 135 for the particular type of aircraft.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40898, July 30, 1997; Amdt. 61-109, 68 FR 54559, Sept. 17, 2003; Amdt. 61-113, 70 FR 45271, Aug. 4, 2005; Amdt. 61-109, 70 FR 61890, Oct. 27, 2005; Amdt. 61-124, 74 FR 42550, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-130, 78 FR 42374, July 15, 2013; Docket FAA-2018-0119, Amdt. 61-141, 83 FR 9170, Mar. 5, 2018]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40898, July 30, 1997; Amdt. 61-109, 68 FR 54559, Sept. 17, 2003; Amdt. 61-113, 70 FR 45271, Aug. 4, 2005; Amdt. 61-109, 70 FR 61890, Oct. 27, 2005; Amdt. 61-124, 74 FR 42550, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-130, 78 FR 42374, July 15, 2013; Docket FAA-2018-0119, Amdt. 61-141, 83 FR 9170, Mar. 5, 2018; FAA-2023-1275; Amdt. No. 61-157, 89 FR 92484, Nov. 21, 2024]

@@ -1,5 +1,7 @@
 ##### § 1222.50 Budget and expenses. #####
 
+Link to an amendment published at 90 FR 6783, Jan. 21, 2025.
+
 (a) At least 60 calendar days prior to the beginning of each fiscal year, and as may be necessary thereafter, the Board shall prepare and submit to the Department a budget for the fiscal year covering its anticipated expenses and disbursements in administering this part. The budget for research, promotion or information may not be implemented prior to approval by the Secretary. Each such budget shall include:
 
 (1) A statement of objectives and strategy for each program, plan or project;

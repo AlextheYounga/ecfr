@@ -327,7 +327,7 @@ Example 15.(i) The facts are the same as in *Example 14,* except that the first 
 
 (D) The contribution paid October 15, 2017 is increased for 21/2 months at the effective interest rate ($30,000 × 1.0590(2.5/12) = $30,360).
 
-(E) The contribution paid January 15, 2018 is discounted for 1/2 month at the effective interest rate ($30,000 ÷ 1.0590(0.5/12) = $29,928).
+(E) The contribution paid January 15, 2018 is discounted for1/2 month at the effective interest rate ($30,000 ÷ 1.0590(0.5/12) = $29,928).
 
 (v) The amount deducted from valuation assets as of December 31, 2017 for contributions made before the valuation date is determined without regard to the special interest adjustment for late payment of the required installment due April 15, 2017 (and without regard to the contribution paid on January 15, 2018).
 

@@ -1,0 +1,7 @@
+##### § 194.207 Alternate requirement for practical tests and training in a powered-lift. #####
+
+(a) *Required equipment for the practical test.* Notwithstanding the equipment requirement in § 61.45(b)(1)(ii) of this chapter and the limitation specified in § 61.45(b)(2) of this chapter, an applicant for a certificate or rating may use a powered-lift that is precluded from performing all of the tasks required for the practical test without receiving a limitation on the applicant's certificate or rating, as appropriate.
+
+(b) *Waiver authority for a practical test conducted in a powered-lift.* An Examiner who conducts a practical test in a powered-lift may waive any task for which the FAA has provided waiver authority.
+
+(c) *Flight training on waived tasks.* Notwithstanding the requirements in §§ 61.107(a) and 61.127(a) of this chapter for training to include the areas of operation listed in § 61.107(b)(5) or § 61.127(b)(5) of this chapter, as applicable, an applicant seeking a private pilot certificate or commercial pilot certificate with a powered-lift category rating concurrently with a powered-lift type rating is not required to receive and log flight training on a task specified in an area of operation if the powered-lift is not capable of performing the task, provided the FAA has issued waiver authority for that task in accordance with paragraph (b) of this section.

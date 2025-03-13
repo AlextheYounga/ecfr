@@ -18,13 +18,13 @@
 
 (3) The boundary then follows the County Road 17 for approximately 2 miles to an unnamed southbound light duty road (referred to by the petitioner as County Road 95A);
 
-(4) The boundary then follows County Road 95A south for approximately1/2 mile to an unnamed westbound light duty road (referred to by the petitioner as County Road 17A);
+(4) The boundary then follows County Road 95A south for approximately 1/2 mile to an unnamed westbound light duty road (referred to by the petitioner as County Road 17A);
 
-(5) The boundary then proceeds west along County Road 17A for approximately3/8 mile to an unnamed southbound light duty road (referred to by the petitioner as County Road 95);
+(5) The boundary then proceeds west along County Road 17A for approximately 3/8 mile to an unnamed southbound light duty road (referred to by the petitioner as County Road 95);
 
 (6) The boundary then proceeds south along County Road 95 for approximately 1 mile to an unnamed light duty road which goes in a southwesterly direction (referred to by the petitioner as County Road 19);
 
-(7) The boundary then proceeds southwest along County Road 19 for approximately1/4 mile to an unnamed light duty road which travels south-southwest (referred to by the petitioner as County Road 94B);
+(7) The boundary then proceeds southwest along County Road 19 for approximately 1/4 mile to an unnamed light duty road which travels south-southwest (referred to by the petitioner as County Road 94B);
 
 (8) The boundary then proceeds southwest along County Road 94B approximately 11/4 mile until it intersects Cache Creek;
 

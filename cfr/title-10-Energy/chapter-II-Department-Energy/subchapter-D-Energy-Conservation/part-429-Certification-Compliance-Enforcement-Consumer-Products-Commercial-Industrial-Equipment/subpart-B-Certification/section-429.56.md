@@ -40,7 +40,7 @@
 
 (b) *Certification reports.* (1) The requirements of § 429.12 are applicable to integrated light-emitting diode lamps;
 
-(2) Values reported in certification reports are represented values. Pursuant to § 429.12(b)(13), a certification report must include the following public product-specific information: The testing laboratory's NVLAP identification number or other NVLAP-approved accreditation identification, the date of manufacture, initial lumen output in lumens (lm), input power in watts (W), lamp efficacy in lumens per watt (lm/W), CCT in kelvin (K), power factor, lifetime in years (and whether value is estimated), and life (and whether value is estimated). For lamps with multiple modes of operation (such as variable CCT or CRI), the certification report must also list which mode was selected for testing and include detail such that another laboratory could operate the lamp in the same mode. Lifetime and life are estimated values until testing is complete. When reporting estimated values, the certification report must specifically describe the prediction method, which must be generally representative of the methods specified in appendix BB. Manufacturers are required to maintain records per § 429.71 of the development of all estimated values and any associated initial test data.
+(2) Values reported in certification reports are represented values. Pursuant to § 429.12(b)(13), a certification report must include the following public product-specific information: The testing laboratory's ILAC accreditation body's identification number or other approved identification assigned by the ILAC accreditation body, the date of manufacture, initial lumen output in lumens (lm), input power in watts (W), lamp efficacy in lumens per watt (lm/W), CCT in kelvin (K), power factor, lifetime in hours (and whether value is estimated), and life in years (and whether value is estimated). For lamps with multiple modes of operation (such as variable CCT or CRI), the certification report must also list which mode was selected for testing and include detail such that another laboratory could operate the lamp in the same mode. Lifetime and life are estimated values until testing is complete. When reporting estimated values, the certification report must specifically describe the prediction method, which must be generally representative of the methods specified in appendix BB. Manufacturers are required to maintain records per § 429.71 of the development of all estimated values and any associated initial test data.
 
 (c) *Rounding requirements.* (1) Round input power to the nearest tenth of a watt.
 
@@ -58,4 +58,4 @@
 
 (8) Round standby mode power to the nearest tenth of a watt.
 
-[81 FR 43425, July 1, 2016]
+[81 FR 43425, July 1, 2016, as amended at 90 FR 6789, Jan. 21, 2025]

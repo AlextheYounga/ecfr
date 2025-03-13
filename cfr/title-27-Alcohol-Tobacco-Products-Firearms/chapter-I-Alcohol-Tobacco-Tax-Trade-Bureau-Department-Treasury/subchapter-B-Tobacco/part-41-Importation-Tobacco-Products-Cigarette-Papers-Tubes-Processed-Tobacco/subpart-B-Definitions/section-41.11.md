@@ -122,4 +122,4 @@ When used in this part and in forms prescribed under this part, the following te
 
 *U.S.C.* The United States Code.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 775, as amended (26 U.S.C. 6301); June 29, 1956, ch. 462, 70 Stat. 391 (26 U.S.C. 6301))[T.D. ATF-48, 43 FR 13554, Mar. 31, 1978]Editorial Note:For Federal Register citations affecting § 41.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Aug. 16, 1954, ch. 736, 68A Stat. 775, as amended (26 U.S.C. 6301); June 29, 1956, ch. 462, 70 Stat. 391 (26 U.S.C. 6301))[T.D. ATF-48, 43 FR 13554, Mar. 31, 1978] Editorial Note:For Federal Register citations affecting § 41.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

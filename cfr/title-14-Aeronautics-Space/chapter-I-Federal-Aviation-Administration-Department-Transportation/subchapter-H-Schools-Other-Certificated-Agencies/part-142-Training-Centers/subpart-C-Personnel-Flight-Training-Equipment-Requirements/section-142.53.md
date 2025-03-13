@@ -1,7 +1,5 @@
 ##### § 142.53 Training center instructor training and testing requirements. #####
 
-Link to an amendment published at 89 FR 92489, Nov. 21, 2024.
-
 (a) Except as provided in paragraph (c) of this section, prior to designation and every 12 calendar months beginning the first day of the month following an instructor's initial designation, a certificate holder must ensure that each of its instructors meets the following requirements:
 
 (1) Each instructor must satisfactorily demonstrate to an authorized evaluator knowledge of, and proficiency in, instructing in a representative segment of each curriculum for which that instructor is designated to instruct under this part.
@@ -58,13 +56,13 @@ Link to an amendment published at 89 FR 92489, Nov. 21, 2024.
 
 (2) Each instructor must have participated in an approved line-observation program under part 121 or part 135 of this chapter, and that—
 
-(i) Was accomplished in the same airplane type as the airplane represented by the flight simulator in which that instructor is designated to instruct; and
+(i) Was accomplished in the same aircraft type as the airplane represented by the flight simulator in which that instructor is designated to instruct; and
 
 (ii) Included line-oriented flight training of at least 1 hour of flight during which the instructor was the sole manipulator of the controls in a flight simulator that replicated the same type aircraft for which that instructor is designated to instruct; or
 
 (3) Each instructor must have participated in an approved in-flight observation training course that—
 
-(i) Consisted of at least 2 hours of flight time in an airplane of the same type as the airplane replicated by the flight simulator in which the instructor is designated to instruct; and
+(i) Consisted of at least 2 hours of flight time in an airplane of the same type as the aircraft replicated by the flight simulator in which the instructor is designated to instruct; and
 
 (ii) Included line-oriented flight training of at least 1 hour of flight during which the instructor was the sole manipulator of the controls in a flight simulator that replicated the same type aircraft for which that instructor is designated to instruct.
 
@@ -72,4 +70,4 @@ Link to an amendment published at 89 FR 92489, Nov. 21, 2024.
 
 (d) The Administrator may give credit for the requirements of paragraph (a) or (b) of this section to an instructor who has satisfactorily completed an instructor training course for a part 121 or part 135 certificate holder if the Administrator finds such a course equivalent to the requirements of paragraph (a) or (b) of this section.
 
-[Doc. No. 26933, 61 FR 34562, July 2, 1996, as amended by Amdt. 142-1, 62 FR 13791, Mar. 21, 1997]
+[Doc. No. 26933, 61 FR 34562, July 2, 1996, as amended by Amdt. 142-1, 62 FR 13791, Mar. 21, 1997; FAA-2023-1275, Amdt. No. 142-11, 89 FR 92489, Nov. 21, 2024]

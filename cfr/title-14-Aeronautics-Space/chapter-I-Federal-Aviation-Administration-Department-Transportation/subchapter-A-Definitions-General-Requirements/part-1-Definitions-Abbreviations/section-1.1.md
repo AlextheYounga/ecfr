@@ -1,8 +1,6 @@
 ##### § 1.1 General definitions. #####
 
-Link to an amendment published at 89 FR 92483, Nov. 21, 2024.
-
-As used in Subchapters A through K of this chapter, unless the context requires otherwise:
+As used in this chapter, unless the context requires otherwise:
 
 *Administrator* means the Federal Aviation Administrator or any person to whom he has delegated his authority in the matter concerned.
 
@@ -66,7 +64,7 @@ As used in Subchapters A through K of this chapter, unless the context requires 
 
 *Armed Forces* means the Army, Navy, Air Force, Marine Corps, and Coast Guard, including their regular and reserve components and members serving without component status.
 
-*Autorotation* means a rotorcraft flight condition in which the lifting rotor is driven entirely by action of the air when the rotorcraft is in motion.
+*Autorotation* means a rotorcraft or powered-lift flight condition in which the lifting rotor is driven entirely by action of the air when the rotorcraft or powered-lift is in motion.
 
 *Auxiliary rotor* means a rotor that serves either to counteract the effect of the main rotor torque on a rotorcraft or to maneuver the rotorcraft about one or more of its three principal axes.
 

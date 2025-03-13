@@ -1,7 +1,5 @@
 ##### § 135.152 Flight data recorders. #####
 
-Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
-
 (a) Except as provided in paragraph (k) of this section, no person may operate under this part a multi-engine, turbine-engine powered airplane or rotorcraft having a passenger seating configuration, excluding any required crewmember seat, of 10 to 19 seats, that was either brought onto the U.S. register after, or was registered outside the United States and added to the operator's U.S. operations specifications after, October 11, 1991, unless it is equipped with one or more approved flight recorders that use a digital method of recording and storing data and a method of readily retrieving that data from the storage medium. The parameters specified in either Appendix B or C of this part, as applicable must be recorded within the range, accuracy, resolution, and recording intervals as specified. The recorder shall retain no less than 25 hours of aircraft operation.
 
 (b) After October 11, 1991, no person may operate a multiengine, turbine-powered airplane having a passenger seating configuration of 20 to 30 seats or a multiengine, turbine-powered rotorcraft having a passenger seating configuration of 20 or more seats unless it is equipped with one or more approved flight recorders that utilize a digital method of recording and storing data, and a method of readily retrieving that data from the storage medium. The parameters in appendix D or E of this part, as applicable, that are set forth below, must be recorded within the ranges, accuracies, resolutions, and sampling intervals as specified.
@@ -276,7 +274,7 @@ Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
 
 (2) Commensurate with the capacity of the recording system, all additional parameters for which information sources are installed and which are connected to the recording system must be recorded within the ranges, accuracies, resolutions, and sampling intervals specified in Appendix F of this part.
 
-(j) For all turbine-engine-powered airplanes with a seating configuration, excluding any required crewmember seat, of 10 to 30 passenger seats, that are manufactured after August 19, 2002 the parameters listed in paragraph (a)(1) through (a)(88) of this section must be recorded within the ranges, accuracies, resolutions, and recording intervals specified in Appendix F of this part.
+(j) For all turbine-engine-powered airplanes with a seating configuration, excluding any required crewmember seat, of 10 to 30 passenger seats, that are manufactured after August 19, 2002, the parameters listed in paragraphs (h)(1) through (88) of this section must be recorded within the ranges, accuracies, resolutions, and recording intervals specified in appendix F to this part.
 
 (k) For aircraft manufactured before August 18, 1997, the following aircraft types need not comply with this section: Bell 212, Bell 214ST, Bell 412, Bell 412SP, Boeing Chinook (BV-234), Boeing/Kawasaki Vertol 107 (BV/KV-107-II), deHavilland DHC-6, Eurocopter Puma 330J, Sikorsky 58, Sikorsky 61N, Sikorsky 76A.
 
@@ -288,4 +286,4 @@ Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
 
 (2) Retains the 25 hours of recorded information required in paragraph (d) of this section using a recorder that meets the standards of TSO-C124a, or later revision.
 
-[Doc. No. 25530, 53 FR 26151, July 11, 1988, as amended by Amdt. 135-69, 62 FR 38396, July 17, 1997; 62 FR 48135, Sept. 12, 1997; Amdt. 135-89, 68 FR 42939, July 18, 2003; Amdt. 135-113, 73 FR 12570, Mar. 7, 2008; Amdt. 135-113, 74 FR 32801, July 9, 2009]
+[Doc. No. 25530, 53 FR 26151, July 11, 1988, as amended by Amdt. 135-69, 62 FR 38396, July 17, 1997; 62 FR 48135, Sept. 12, 1997; Amdt. 135-89, 68 FR 42939, July 18, 2003; Amdt. 135-113, 73 FR 12570, Mar. 7, 2008; Amdt. 135-113, 74 FR 32801, July 9, 2009; FAA-2023-1275, Amdt. No. 135-147, 89 FR 92486, Nov. 21, 2024]

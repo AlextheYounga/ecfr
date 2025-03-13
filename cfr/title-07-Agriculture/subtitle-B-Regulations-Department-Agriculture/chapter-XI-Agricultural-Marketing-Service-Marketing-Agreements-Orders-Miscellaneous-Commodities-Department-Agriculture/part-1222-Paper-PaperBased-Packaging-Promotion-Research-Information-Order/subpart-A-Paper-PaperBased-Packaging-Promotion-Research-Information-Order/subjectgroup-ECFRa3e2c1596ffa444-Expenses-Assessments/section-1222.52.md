@@ -1,5 +1,7 @@
 ##### § 1222.52 Assessments. #####
 
+Link to an amendment published at 90 FR 6783, Jan. 21, 2025.
+
 (a) The Board's programs and expenses shall be paid by assessments on manufacturers and importers, other income of the Board, and other funds available to the Board.
 
 (b) Subject to the exemptions specified in § 1222.53, each manufacturer and importer shall pay an assessment to the Board in the amount of 35 cents per short ton or its equivalent manufactured and imported. The assessment shall be on the roll of paper and paper-based packaging manufactured or imported, except that the assessment for cut-size printing and writing paper imported or made by domestic manufacturers prior to leaving the manufacturer's mill shall be on the cut-size paper.

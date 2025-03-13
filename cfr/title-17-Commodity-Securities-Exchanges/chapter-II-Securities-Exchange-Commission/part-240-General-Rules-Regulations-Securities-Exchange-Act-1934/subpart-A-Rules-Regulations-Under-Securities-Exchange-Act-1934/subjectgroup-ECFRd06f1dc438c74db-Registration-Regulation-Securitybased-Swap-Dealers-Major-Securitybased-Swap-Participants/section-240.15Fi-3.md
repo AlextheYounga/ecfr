@@ -1,5 +1,7 @@
 ##### § 240.15Fi-3 Security-based swap portfolio reconciliation. #####
 
+Link to an amendment published at 90 FR 7365, Jan. 21, 2025.
+
 (a) *Security-based swaps with security-based swap dealers or major security-based swap participants.* Each security-based swap dealer and major security-based swap participant shall engage in portfolio reconciliation as follows for all security-based swaps in which its counterparty is also a security-based swap dealer or major security-based swap participant.
 
 (1) Each security-based swap dealer or major security-based swap participant shall agree in writing with each of its counterparties on the terms of the portfolio reconciliation including, if applicable, agreement on the selection of any third party service provider who may be performing the portfolio reconciliation.

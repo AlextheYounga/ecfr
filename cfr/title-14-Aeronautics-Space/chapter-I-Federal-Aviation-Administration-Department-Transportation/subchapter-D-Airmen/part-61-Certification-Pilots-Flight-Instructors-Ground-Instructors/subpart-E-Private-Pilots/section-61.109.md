@@ -1,7 +1,5 @@
 ##### § 61.109 Aeronautical experience. #####
 
-Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
-
 (a) *For an airplane single-engine rating.* Except as provided in paragraph (k) of this section, a person who applies for a private pilot certificate with an airplane category and single-engine class rating must log at least 40 hours of flight time that includes at least 20 hours of flight training from an authorized instructor and 10 hours of solo flight training in the areas of operation listed in § 61.107(b)(1) of this part, and the training must include at least—
 
 (1) 3 hours of cross-country flight training in a single-engine airplane;
@@ -100,7 +98,7 @@ Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
 
 (4) 3 hours of flight training with an authorized instructor in a powered-lift in preparation for the practical test, which must have been performed within the preceding 2 calendar months from the month of the test; and
 
-(5) 10 hours of solo flight time in an airplane or powered-lift consisting of at least—
+(5) 10 hours of solo flight time in a powered-lift consisting of at least—
 
 (i) 5 hours cross-country time;
 
@@ -210,4 +208,4 @@ Link to an amendment published at 89 FR 92485, Nov. 21, 2024.
 
 (ii) For airplanes with a VH greater than 87 knots CAS, training on the control and maneuvering of an airplane solely by reference to the flight instruments, including straight and level flight, turns, descents, climbs, use of radio aids, and ATC directives, provided the training was received from a flight instructor with a sport pilot rating who holds an endorsement required by § 61.412(c).
 
-[Doc. No. 25910, 62 FR 40902, July 30, 1997, as amended by Amdt. 61-104, 63 FR 20287, Apr. 23, 1998; Amdt. 61-110, 69 FR 44868, July 27, 2004; Amdt. 61-124, 74 FR 42558, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53645, Oct. 20, 2009; Amdt. 61-125, 75 FR 5220, Feb. 1, 2010; Amdt. 61-142, 83 FR 30278, June 27, 2018]
+[Doc. No. 25910, 62 FR 40902, July 30, 1997, as amended by Amdt. 61-104, 63 FR 20287, Apr. 23, 1998; Amdt. 61-110, 69 FR 44868, July 27, 2004; Amdt. 61-124, 74 FR 42558, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53645, Oct. 20, 2009; Amdt. 61-125, 75 FR 5220, Feb. 1, 2010; Amdt. 61-142, 83 FR 30278, June 27, 2018; FAA-2023-1275; Amdt. No. 61-157, 89 FR 92485, Nov. 21, 2024]

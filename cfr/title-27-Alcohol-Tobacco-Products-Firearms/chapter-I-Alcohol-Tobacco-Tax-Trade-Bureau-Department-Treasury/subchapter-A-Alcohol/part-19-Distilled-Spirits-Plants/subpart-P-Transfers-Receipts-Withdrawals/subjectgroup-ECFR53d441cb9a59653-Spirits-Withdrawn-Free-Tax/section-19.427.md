@@ -16,4 +16,4 @@
 
 (d) *Articles.* A proprietor may remove articles from bonded premises in accordance with part 20 of this chapter.
 
-(19 U.S.C. 81c);(26 U.S.C. 5214, 5271)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-140, 81 FR 59455, Aug. 30, 2016]
+(19 U.S.C. 81c); (26 U.S.C. 5214, 5271)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-140, 81 FR 59455, Aug. 30, 2016]

@@ -1,7 +1,5 @@
 ##### § 91.1115 Inoperable instruments and equipment. #####
 
-Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
-
 (a) No person may take off an aircraft with inoperable instruments or equipment installed unless the following conditions are met:
 
 (1) An approved Minimum Equipment List exists for that aircraft.
@@ -20,7 +18,7 @@ Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
 
 (b) The following instruments and equipment may not be included in the Minimum Equipment List:
 
-(1) Instruments and equipment that are either specifically or otherwise required by the airworthiness requirements under which the airplane is type certificated and that are essential for safe operations under all operating conditions.
+(1) Instruments and equipment that are either specifically or otherwise required by the airworthiness requirements under which the aircraft is type certificated and that are essential for safe operations under all operating conditions.
 
 (2) Instruments and equipment required by an airworthiness directive to be in operable condition unless the airworthiness directive provides otherwise.
 
@@ -29,3 +27,5 @@ Link to an amendment published at 89 FR 92486, Nov. 21, 2024.
 (c) Notwithstanding paragraphs (b)(1) and (b)(3) of this section, an aircraft with inoperable instruments or equipment may be operated under a special flight permit under §§ 21.197 and 21.199 of this chapter.
 
 (d) A person authorized to use an approved Minimum Equipment List issued for a specific aircraft under part 121, 125, or 135 of this chapter must use that Minimum Equipment List to comply with this section.
+
+[Docket No. FAA-2001-10047, 68 FR 54561, Sept. 17, 2003, as amended by FAA-2023-1275; Amdt. No. 91-379, 89 FR 92486, Nov. 21, 2024]

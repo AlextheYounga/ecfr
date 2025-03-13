@@ -40,7 +40,7 @@
 
 (9) Then south along Woods Creek Road approximately 10.5 miles to its intersection with U.S. Highway 2 in the town of Monroe, T27N/R7E;
 
-(10) Then west along U.S. Highway 2 approximately1/2 mile to its intersection with State Highway 203, T27N/R6E;
+(10) Then west along U.S. Highway 2 approximately 1/2 mile to its intersection with State Highway 203, T27N/R6E;
 
 (11) Then south along State Highway 203 approximately 24 miles to its intersection with an unnamed secondary road (referred to in the petition as Preston-Fall City Road), at the town of Fall City, T24N/R7E;
 

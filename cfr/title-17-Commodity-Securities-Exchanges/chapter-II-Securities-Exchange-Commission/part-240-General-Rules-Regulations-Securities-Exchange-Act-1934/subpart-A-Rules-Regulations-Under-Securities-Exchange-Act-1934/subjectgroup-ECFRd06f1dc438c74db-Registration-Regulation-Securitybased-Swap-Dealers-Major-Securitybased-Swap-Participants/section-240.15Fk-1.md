@@ -1,5 +1,7 @@
 ##### § 240.15Fk-1 Designation of chief compliance officer for security-based swap dealers and major security-based swap participants. #####
 
+Link to an amendment published at 90 FR 7366, Jan. 21, 2025.
+
 (a) *In general.* A security-based swap dealer and major security-based swap participant shall designate an individual to serve as a chief compliance officer on its registration form.
 
 (b) *Duties.* The chief compliance officer shall:

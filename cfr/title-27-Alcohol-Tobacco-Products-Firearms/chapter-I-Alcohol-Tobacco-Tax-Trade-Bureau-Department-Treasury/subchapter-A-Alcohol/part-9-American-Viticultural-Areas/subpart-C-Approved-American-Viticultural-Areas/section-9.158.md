@@ -22,7 +22,7 @@
 
 (4) Then proceeding in a straight line in a northwesterly direction to the southwestern corner of section 14 in T13N/R14W;
 
-(5) Then directly north along the western line of section 14 in T13N/R14W to a point on the western line of section 14 approximately1/4 from the top where the Anderson Valley viticultural area boundary intersects the western line of section 14 in T13N/R14W;
+(5) Then directly north along the western line of section 14 in T13N/R14W to a point on the western line of section 14 approximately 1/4 from the top where the Anderson Valley viticultural area boundary intersects the western line of section 14 in T13N/R14W;
 
 (6) Then in a straight line, in a northwesterly direction, to the intersection of an unnamed creek and the south section line of section 14, T14N/R15W, on the U.S.G.S. 15 minute series map, “Boonville, California;”
 

@@ -2,7 +2,8 @@
 
 This section lists the captions that appear in the regulations under section 1031.
 
-§ 1.1031(a)-1 Property held for productive use in a trade or business or for investment.
+§ 1.1031(a)-1
+Property held for productive use in a trade or business or for investment.
 
 (a) In general.
 

@@ -1,14 +1,12 @@
 ##### § 5.1 Definitions. #####
 
-Link to an amendment published at 89 FR 102734, Dec. 18, 2024.
-
 When used in this part and on forms prescribed under this part, the following terms have the meaning assigned to them in this section, unless the terms appear in a context that requires a different meaning. Any other term defined in the Federal Alcohol Administration Act (FAA Act) and used in this part has the same meaning assigned to it by the FAA Act.
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury.
 
 *Advertisement or Advertising.* See § 5.232 for meaning of these terms as used in subpart N of this part.
 
-*Age.* The length of time during which, after distillation and before bottling, the distilled spirits have been stored in oak barrels. “Age” for bourbon whisky, rye whisky, wheat whisky, malt whisky, or rye malt whisky, and straight whiskies other than straight corn whisky, means the period the whisky has been stored in charred new oak barrels.
+*Age.* The length of time during which, after distillation and before bottling, the distilled spirits have been stored in oak barrels. “Age” for bourbon whisky, rye whisky, wheat whisky, malt whisky, or rye malt whisky, and straight whiskies other than straight corn whisky and straight American single malt whisky, means the period the whisky has been stored in charred new oak barrels.
 
 *American proof.* See *Proof.*
 
@@ -67,3 +65,5 @@ When used in this part and on forms prescribed under this part, the following te
 *TTB.* The Alcohol and Tobacco Tax and Trade Bureau of the Department of the Treasury.
 
 *United States (U.S.).* The 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+[T.D. TTB-176, 87 7579, Feb. 9, 2022, as amended by T.D. TTB-199, 89 FR 102734, Dec. 18, 2024]

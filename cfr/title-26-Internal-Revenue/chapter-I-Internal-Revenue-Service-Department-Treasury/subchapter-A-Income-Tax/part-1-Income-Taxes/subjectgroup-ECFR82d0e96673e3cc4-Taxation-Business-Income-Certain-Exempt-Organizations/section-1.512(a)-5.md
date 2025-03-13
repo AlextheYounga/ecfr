@@ -90,7 +90,7 @@
 
 (A) Incurred by the employer (without regard to section 461(h)) as of the close of the last taxable year of the Covered Entity ending before July 18, 1984; and
 
-(B) Actually contributed to the Covered Entity within 8 1/2 months following the close of such taxable year.
+(B) Actually contributed to the Covered Entity within 81/2 months following the close of such taxable year.
 
 (iii) In addition, section 512(a)(3)(E)(ii)(I) applies to existing reserves for such post-retirement benefits only to the extent that such “existing reserves” do not exceed the amount that could be accumulated under the principles set forth in Revenue Rulings 69-382, 1969-2 CB 28; 69-478, 1969-2 CB 29; and 73-599, 1973-2 CB 40. Thus, amounts attributable to any such excess “existing reserves” are not within the transition rule of section 512(a)(3)(E)(ii)(I) even though they were actually set aside on July 18, 1984. See § 601.601(d)(2)(ii)(*b*) of this chapter.
 

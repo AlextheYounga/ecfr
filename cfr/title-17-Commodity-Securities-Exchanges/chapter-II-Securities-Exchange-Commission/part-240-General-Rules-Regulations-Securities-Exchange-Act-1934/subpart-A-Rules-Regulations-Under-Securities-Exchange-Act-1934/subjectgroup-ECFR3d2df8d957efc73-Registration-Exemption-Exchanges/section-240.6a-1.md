@@ -1,5 +1,7 @@
 ##### § 240.6a-1 Application for registration as a national securities exchange or exemption from registration based on limited volume. #####
 
+Link to an amendment published at 90 FR 7363, Jan. 21, 2025.
+
 (a) An application for registration as a national securities exchange, or for exemption from such registration based on limited volume, shall be filed on Form 1 (§ 249.1 of this chapter), in accordance with the instructions contained therein.
 
 (b) Promptly after the discovery that any information filed on Form 1 was inaccurate when filed, the exchange shall file with the Commission an amendment correcting such inaccuracy.

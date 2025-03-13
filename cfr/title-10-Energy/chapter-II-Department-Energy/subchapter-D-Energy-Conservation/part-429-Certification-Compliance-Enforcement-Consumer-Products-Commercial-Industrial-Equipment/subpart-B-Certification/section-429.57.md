@@ -4,13 +4,13 @@
 
 (1) The requirements of § 429.11 are applicable to general service lamps, and
 
-(2) For general service incandescent lamps, use § 429.27(a);
+(2) For general service incandescent lamps, use § 429.66(a);
 
 (3) For compact fluorescent lamps, use § 429.35(a);
 
 (4) For integrated LED lamps, use § 429.56(a);
 
-(5) For other incandescent lamps, use § 429.27(a);
+(5) For other incandescent lamps, use § 429.66(a);
 
 (6) For other fluorescent lamps, use § 429.35(a); and
 
@@ -20,7 +20,7 @@
 
 (2) Values reported in certification reports are represented values;
 
-(3) For general service incandescent lamps, use § 429.27(b);
+(3) For general service incandescent lamps, use § 429.66(b);
 
 (4) For compact fluorescent lamps, use § 429.35(b);
 
@@ -38,4 +38,4 @@
 
 (5) Round standby mode power to the nearest tenth of a watt.
 
-[81 FR 72503, Oct. 20, 2016]
+[81 FR 72503, Oct. 20, 2016, as amended at 90 FR 6789, Jan. 21, 2025]

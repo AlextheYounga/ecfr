@@ -1,7 +1,5 @@
 ##### § 1.01-15 Organization; Districts; National Maritime Center. #####
 
-Link to an amendment published at 89 FR 102332, Dec. 17, 2024.
-
 (a) To assist the District Commander, and the Atlantic Area Commander with respect to Activities Europe, in carrying out the regulatory and enforcement aspects of marine safety, there is assigned to each District Commander and to the Atlantic Area Commander a staff officer designated as Chief, Marine Safety Division. The chain of military command is from the District Commander to each Officer in Charge, Marine Inspection, within the district and from the Atlantic Area Commander to the Officer in Charge, Activities Europe. The Chief of the Marine Safety Division is a staff officer assigned to the District Commanders and Atlantic Area Commander, and acts only on the basis of the authority and direction of the District Commanders, and the Atlantic Area Commanders with respect to Activities Europe.
 
 (1) The Chiefs, Marine Safety Division, in the District Offices, under the supervision of their respective District Commanders, direct the activities of their district relative to vessel, factory and shipyard inspections; reports and investigations of marine casualties and accidents; processing of violations of navigation and vessel inspection laws; the credentialing, shipment and discharge of seamen; the investigation and institution of proceedings looking to suspension and revocation under 46 U.S.C. chapter 77 of credentials held by persons; and all other marine safety regulatory activities except those functions related to recreational boating when under the supervision of the Chiefs, Boating Safety Division (CG-BSX-2), in the District Offices.
@@ -20,7 +18,7 @@ Link to an amendment published at 89 FR 102332, Dec. 17, 2024.
 
 (d) The Commanding Officer of the National Maritime Center has the same authority as an OCMI, subject to the policy and guidance of the Office of Merchant Mariner Credentialing (CG-MMC) for the purpose of carrying out the marine safety functions listed in paragraph (c) of this section pursuant to the provisions of subchapter B of this chapter.
 
-(e) Applicants for merchant mariner's documents, licenses, certificates or credentials may apply to the Coast Guard National Maritime Center or any of the NMC detachments. Applicants may contact the National Maritime Center at 100 Forbes Drive, Martinsburg, West Virginia 25404, or by telephone at 1-888-I-ASK-NMC (1-888-427-5662). A list of NMC detachment locations is available through the Coast Guard Web site at *http://www.uscg.mil.*
+(e) Applicants for merchant mariner credentials may apply to the Coast Guard National Maritime Center or any of the NMC detachments. Applicants may contact the National Maritime Center at 100 Forbes Drive, Martinsburg, West Virginia 25404, by telephone at 1-888-I-ASK-NMC (1-888-427-5662), by email at *IASKNMC@uscg.mil,* or online chat at website *https://www.dco.uscg.mil/national\_maritime\_center/.* A list of NMC detachment locations is available through the website.
 
 (f) For descriptions of Coast Guard districts and marine inspection zones, see 33 CFR part 3.
 

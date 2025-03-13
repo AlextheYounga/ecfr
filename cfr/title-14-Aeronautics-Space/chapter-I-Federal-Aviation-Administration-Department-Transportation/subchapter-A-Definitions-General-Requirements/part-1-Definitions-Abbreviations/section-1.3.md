@@ -1,8 +1,6 @@
 ##### § 1.3 Rules of construction. #####
 
-Link to an amendment published at 89 FR 92483, Nov. 21, 2024.
-
-(a) In Subchapters A through K of this chapter, unless the context requires otherwise:
+(a) In this chapter, unless the context requires otherwise:
 
 (1) Words importing the singular include the plural;
 
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 92483, Nov. 21, 2024.
 
 (3) Words importing the masculine gender include the feminine.
 
-(b) In Subchapters A through K of this chapter, the word:
+(b) In this chapter, the word:
 
 (1) *Shall* is used in an imperative sense;
 
@@ -18,4 +16,4 @@ Link to an amendment published at 89 FR 92483, Nov. 21, 2024.
 
 (3) *Includes* means “includes but is not limited to”.
 
-[Doc. No. 1150, 27 FR 4590, May 15, 1962, as amended by Amdt. 1-10, 31 FR 5055, Mar. 29, 1966]
+[Doc. No. 1150, 27 FR 4590, May 15, 1962, as amended by Amdt. 1-10, 31 FR 5055, Mar. 29, 1966; FAA-2023-1275, Amdt. No. 1-78, 89 FR 92483, Nov. 21, 2024]
