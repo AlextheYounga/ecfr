@@ -1,5 +1,7 @@
 ##### § 982.301 Information when family is selected. #####
 
+Link to an amendment published at 89 FR 38295, May 7, 2024.
+
 (a) *PHA briefing of family.* (1) When the PHA selects a family to participate in a tenant-based program, the PHA must give the family an oral briefing. The briefing must include information on the following subjects:
 
 (i) A description of how the program works;

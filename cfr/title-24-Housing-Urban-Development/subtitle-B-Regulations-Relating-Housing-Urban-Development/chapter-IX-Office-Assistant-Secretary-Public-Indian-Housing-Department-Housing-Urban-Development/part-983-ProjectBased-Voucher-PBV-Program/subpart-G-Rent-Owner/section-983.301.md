@@ -1,5 +1,7 @@
 ##### § 983.301 Determining the rent to owner. #####
 
+Link to an amendment published at 89 FR 38336, May 7, 2024.
+
 (a) *Initial and redetermined rents.* (1) The amount of the initial and redetermined rent to owner is determined in accordance with this section and § 983.302.
 
 (2) The amount of the initial rent to owner is established at the beginning of the HAP contract term. For rehabilitated or newly constructed housing, the Agreement states the estimated amount of the initial rent to owner, but the actual amount of the initial rent to owner is established at the beginning of the HAP contract term.

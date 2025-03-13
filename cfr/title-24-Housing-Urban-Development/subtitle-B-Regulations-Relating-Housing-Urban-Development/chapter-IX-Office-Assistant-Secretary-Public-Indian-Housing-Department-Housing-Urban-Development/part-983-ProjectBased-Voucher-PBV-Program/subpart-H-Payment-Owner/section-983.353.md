@@ -1,5 +1,7 @@
 ##### § 983.353 Tenant rent; payment to owner. #####
 
+Link to an amendment published at 89 FR 38338, May 7, 2024.
+
 (a) *PHA determination.* (1) The tenant rent is the portion of the rent to owner paid by the family. The PHA determines the tenant rent in accordance with HUD requirements.
 
 (2) Any changes in the amount of the tenant rent will be effective on the date stated in a notice by the PHA to the family and the owner.

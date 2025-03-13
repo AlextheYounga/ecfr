@@ -1,6 +1,6 @@
 ##### § 983.101 Housing quality standards. #####
 
-Link to an amendment published at 88 FR 30504, May 11, 2023.
+Link to an amendment published at 88 FR 30504, May 11, 2023.Link to an amendment published at 89 FR 38315, May 7, 2024.
 
 (a) *HQS applicability.* As defined in § 983.3, housing quality standards (HQS) refers to the minimum quality standards developed by HUD in accordance with 24 CFR 5.703 of this title for housing assisted under the PBV program or a HUD approved alternative standard for the PHA under 24 CFR 5.703(g).
 

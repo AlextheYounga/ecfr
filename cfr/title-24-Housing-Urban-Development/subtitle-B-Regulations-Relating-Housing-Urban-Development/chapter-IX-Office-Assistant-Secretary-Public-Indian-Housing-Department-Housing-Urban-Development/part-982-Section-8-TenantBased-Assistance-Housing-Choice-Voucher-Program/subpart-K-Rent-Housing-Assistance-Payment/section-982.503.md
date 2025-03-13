@@ -1,5 +1,7 @@
 ##### § 982.503 Payment standard amount and schedule. #####
 
+Link to an amendment published at 89 FR 38300, May 7, 2024.
+
 (a) *Payment standard schedule.* (1) HUD publishes the fair market rents for each market area in the United States (see part 888 of this title). The PHA must adopt a payment standard schedule that establishes voucher payment standard amounts for each FMR area in the PHA jurisdiction. For each FMR area, the PHA must establish payment standard amounts for each “unit size.” Unit size is measured by number of bedrooms (zero-bedroom, one-bedroom, and so on).
 
 (2) The payment standard amounts on the PHA schedule are used to calculate the monthly housing assistance payment for a family (§ 982.505).

@@ -1,5 +1,7 @@
 ##### § 982.406 Use of alternative inspections. #####
 
+Link to an amendment published at 89 FR 38298, May 7, 2024.
+
 (a) *In general.* (1) A PHA may comply with the inspection requirement in § 982.405(a) by relying on an alternative inspection (*i.e.,* an inspection conducted for another housing assistance program) only if the PHA is able to obtain the results of the alternative inspection.
 
 (2) If an alternative inspection method employs sampling, then a PHA may rely on such alternative inspection method to comply with the requirement in § 982.405(a) only if HCV units are included in the population of units forming the basis of the sample.

@@ -1,5 +1,7 @@
 ##### § 903.6 What information must a PHA provide in the 5-Year Plan? #####
 
+Link to an amendment published at 89 FR 38292, May 7, 2024.
+
 (a) A PHA must include in its 5-Year Plan a statement of:
 
 (1) The PHA's mission for serving the needs of low-income, very low-income and extremely low-income families in the PHA's jurisdiction; and

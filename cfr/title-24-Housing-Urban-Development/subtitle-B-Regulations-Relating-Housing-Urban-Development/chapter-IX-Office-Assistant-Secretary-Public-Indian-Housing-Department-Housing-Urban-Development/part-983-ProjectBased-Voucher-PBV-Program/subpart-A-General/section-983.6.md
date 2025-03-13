@@ -1,5 +1,7 @@
 ##### § 983.6 Maximum amount of PBV assistance. #####
 
+Link to an amendment published at 89 FR 38307, May 7, 2024.
+
 (a) The PHA may select owner proposals to provide project-based assistance for up to 20 percent of the amount of budget authority allocated to the PHA by HUD in the PHA voucher program. PHAs are not required to reduce the number of PBV units selected under an Agreement or HAP contract if the amount of budget authority is subsequently reduced.
 
 (b) All PBC and project-based voucher units for which the PHA has issued a notice of proposal selection or which are under an Agreement or HAP contract for PBC or project-based voucher assistance count against the 20 percent maximum.

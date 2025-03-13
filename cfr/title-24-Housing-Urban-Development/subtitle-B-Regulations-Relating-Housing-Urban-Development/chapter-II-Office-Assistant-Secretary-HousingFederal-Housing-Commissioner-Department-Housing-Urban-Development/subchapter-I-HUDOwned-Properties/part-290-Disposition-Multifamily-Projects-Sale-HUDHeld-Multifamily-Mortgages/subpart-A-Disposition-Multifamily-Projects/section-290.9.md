@@ -1,5 +1,7 @@
 ##### § 290.9 Setting rental rates. #####
 
+Link to an amendment published at 89 FR 38291, May 7, 2024.
+
 Because of the subsidies involved in making multifamily housing projects affordable, the setting of rents involves two steps: first, establishing the rent on a unit that will be paid to the owner, and second, determining the rent that the tenant pays (with the difference made up by a subsidy), using a number of procedures to obtain income verification and notify tenants of changes in rent. These procedures for a property owned by HUD or where HUD is mortgagee-in-possession are explained below.
 
 (a) *Setting unit rents.* Except as modified by this section, for a property where HUD is mortgagee-in-possession (MIP), HUD will set unit rents in accordance with the rent setting requirements of the project's mortgage insurance or direct loan program; or for a property owned by HUD, rents will be set in accordance with the rent setting requirements of the project's mortgage insurance or direct loan program in effect immediately before HUD became the owner of the project.

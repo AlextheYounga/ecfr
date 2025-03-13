@@ -1,5 +1,7 @@
 ##### § 983.208 Condition of contract units. #####
 
+Link to an amendment published at 89 FR 38328, May 7, 2024.
+
 (a) *Owner maintenance and operation.* (1) The owner must maintain and operate the contract units and premises in accordance with the HQS, including performance of ordinary and extraordinary maintenance.
 
 (2) The owner must provide all the services, maintenance, equipment, and utilities specified in the HAP contract with the PHA and in the lease with each assisted family.

@@ -1,5 +1,7 @@
 ##### § 982.635 Homeownership option: Amount and distribution of monthly homeownership assistance payment. #####
 
+Link to an amendment published at 89 FR 38304, May 7, 2024.
+
 (a) *Amount of monthly homeownership assistance payment.* While the family is residing in the home, the PHA shall pay a monthly homeownership assistance payment on behalf of the family that is equal to the *lower of:*
 
 (1) The payment standard minus the total tenant payment; or

@@ -1,5 +1,7 @@
 ##### § 982.630 Homeownership option: Homeownership counseling. #####
 
+Link to an amendment published at 89 FR 38304, May 7, 2024.
+
 (a) Before commencement of homeownership assistance for a family, the family must attend and satisfactorily complete the pre-assistance homeownership and housing counseling program required by the PHA (pre-assistance counseling).
 
 (b) Suggested topics for the PHA-required pre-assistance counseling program include:

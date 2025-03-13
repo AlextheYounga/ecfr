@@ -1,5 +1,7 @@
 ##### § 5.632 Utility reimbursements. #####
 
+Link to an amendment published at 89 FR 38290, May 7, 2024.
+
 (a) *Applicability.* This section is applicable to:
 
 (1) The Section 8 programs other than the Section 8 voucher program (for distribution of a voucher housing assistance payment that exceeds rent to owner, see § 982.514(b) of this title);

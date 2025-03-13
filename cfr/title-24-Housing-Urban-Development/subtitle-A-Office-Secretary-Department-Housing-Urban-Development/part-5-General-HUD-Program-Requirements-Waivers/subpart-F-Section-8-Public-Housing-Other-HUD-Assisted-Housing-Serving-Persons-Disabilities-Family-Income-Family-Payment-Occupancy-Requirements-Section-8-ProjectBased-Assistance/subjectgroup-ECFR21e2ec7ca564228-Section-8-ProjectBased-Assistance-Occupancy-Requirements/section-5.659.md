@@ -1,5 +1,7 @@
 ##### § 5.659 Family information and verification. #####
 
+Link to an amendment published at 89 FR 38290, May 7, 2024.
+
 (a) *Applicability.* This section states requirements for reexamination of family income and composition in the Section 8 project-based assistance programs, except for the moderate rehabilitation program and the project-based certificate or voucher programs.
 
 (b) *Family obligation to supply information.* (1) The family must supply any information that HUD or the owner determines is necessary in administration of the Section 8 program, including submission of required evidence of citizenship or eligible immigration status (as provided by part 5, subpart E of this title). “Information” includes any requested certification, release or other documentation.

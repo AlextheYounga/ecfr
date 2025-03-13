@@ -1,5 +1,7 @@
 ##### § 983.204 When HAP contract is executed. #####
 
+Link to an amendment published at 89 FR 38324, May 7, 2024.Link to an amendment published at 89 FR 38325, May 7, 2024.
+
 (a) *PHA inspection of housing.* (1) Before execution of the HAP contract, the PHA must inspect each contract unit in accordance with § 983.103(b).
 
 (2) The PHA may not enter into a HAP contract for any contract unit until the PHA has determined that the unit complies with the HQS.

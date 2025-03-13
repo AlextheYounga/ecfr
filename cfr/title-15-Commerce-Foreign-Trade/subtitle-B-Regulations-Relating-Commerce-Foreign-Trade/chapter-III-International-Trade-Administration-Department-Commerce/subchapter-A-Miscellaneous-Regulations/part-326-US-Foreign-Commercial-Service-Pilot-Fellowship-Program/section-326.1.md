@@ -1,0 +1,3 @@
+##### § 326.1 What is the Fellowship Program? #####
+
+The U.S. and Foreign Commercial Service Pilot Fellowship Program targets graduate students interested in increasing the level of knowledge and awareness of and employment with the Foreign Service, consistent with 22 U.S.C. 3905. The Program develops a source of trained individuals, from academic disciplines representing the skill needs of the Department, who are dedicated to representing the United States' commercial interests abroad.

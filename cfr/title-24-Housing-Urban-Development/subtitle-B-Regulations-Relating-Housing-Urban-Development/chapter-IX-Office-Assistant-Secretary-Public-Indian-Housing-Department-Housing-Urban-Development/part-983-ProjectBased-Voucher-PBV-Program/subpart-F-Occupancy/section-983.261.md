@@ -1,5 +1,7 @@
 ##### § 983.261 Family right to move. #####
 
+Link to an amendment published at 89 FR 38335, May 7, 2024.
+
 (a) The family may terminate the assisted lease at any time after the first year of occupancy. The family must give the owner advance written notice of intent to vacate (with a copy to the PHA) in accordance with the lease.
 
 (b) If the family has elected to terminate the lease in this manner, the PHA must offer the family the opportunity for continued tenant-based rental assistance, in the form of either assistance under the voucher program or other comparable tenant-based rental assistance.

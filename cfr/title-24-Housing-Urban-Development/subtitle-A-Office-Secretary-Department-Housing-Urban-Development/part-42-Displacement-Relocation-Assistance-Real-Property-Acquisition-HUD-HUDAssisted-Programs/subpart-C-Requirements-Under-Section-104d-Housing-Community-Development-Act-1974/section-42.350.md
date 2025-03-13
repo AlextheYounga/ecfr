@@ -1,5 +1,7 @@
 ##### § 42.350 Relocation assistance for displaced persons. #####
 
+Link to an amendment published at 89 FR 38290, May 7, 2024.
+
 A displaced person may choose to receive either assistance under the URA and implementing regulations at 49 CFR part 24 or assistance under section 104(d) of the HCD Act of 1974, including:
 
 (a) *Advisory services.* Advisory services at the levels described in 49 CFR part 24. A displaced person must be advised of his or her rights under the Fair Housing Act (42 U.S.C. 3601-19). If the comparable replacement dwelling to be provided to a minority person is located in an area of minority concentration, as defined in the recipient's consolidated plan, if applicable, the minority person must also be given, if possible, referrals to comparable and suitable decent, safe, and sanitary replacement dwellings not located in such areas.

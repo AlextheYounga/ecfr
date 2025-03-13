@@ -1,5 +1,7 @@
 ##### § 943.120 What programs of a PHA are included in a consortium's functions? #####
 
+Link to an amendment published at 89 FR 38293, May 7, 2024.
+
 (a) A PHA may enter a consortium under this subpart for administration of any of the following program categories:
 
 (1) The PHA's public housing program (which may include either the operating fund or the capital fund, or both);

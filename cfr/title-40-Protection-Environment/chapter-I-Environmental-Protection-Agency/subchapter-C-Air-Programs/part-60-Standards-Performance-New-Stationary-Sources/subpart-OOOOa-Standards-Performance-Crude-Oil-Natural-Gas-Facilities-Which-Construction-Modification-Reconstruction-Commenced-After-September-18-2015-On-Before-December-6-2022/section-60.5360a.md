@@ -1,0 +1,13 @@
+##### § 60.5360a What is the purpose of this subpart? #####
+
+(a) *Scope.* This subpart establishes emission standards and compliance schedules for the control of the pollutant greenhouse gases (GHG). The greenhouse gas standard in this subpart is in the form of a limitation on emissions of methane from affected facilities in the crude oil and natural gas source category that commence construction, modification, or reconstruction after September 18, 2015. This subpart also establishes emission standards and compliance schedules for the control of volatile organic compounds (VOC) and sulfur dioxide (SO2) emissions from affected facilities in the crude oil and natural gas source category that commence construction, modification, or reconstruction after September 18, 2015, and on or before December 6, 2022.
+
+(b) *Prevention of Significant Deterioration (PSD) and title V thresholds for Greenhouse Gases.* (1) For the purposes of 40 CFR 51.166(b)(49)(ii), with respect to GHG emissions from affected facilities, the “pollutant that is subject to the standard promulgated under section 111 of the Act” shall be considered to be the pollutant that otherwise is subject to regulation under the Act as defined in 40 CFR 51.166(b)(48) and in any State Implementation Plan (SIP) approved by the EPA that is interpreted to incorporate, or specifically incorporates, 40 CFR 51.166(b)(48).
+
+(2) For the purposes of 40 CFR 52.21(b)(50)(ii), with respect to GHG emissions from affected facilities, the “pollutant that is subject to the standard promulgated under section 111 of the Act” shall be considered to be the pollutant that otherwise is subject to regulation under the Clean Air Act as defined in 40 CFR 52.21(b)(49).
+
+(3) For the purposes of 40 CFR 70.2, with respect to greenhouse gas emissions from affected facilities, the “pollutant that is subject to any standard promulgated under section 111 of the Act” shall be considered to be the pollutant that otherwise is “subject to regulation” as defined in 40 CFR 70.2.
+
+(4) For the purposes of 40 CFR 71.2, with respect to greenhouse gas emissions from affected facilities, the “pollutant that is subject to any standard promulgated under section 111 of the Act” shall be considered to be the pollutant that otherwise is “subject to regulation” as defined in 40 CFR 71.2.
+
+[89 FR 17036, Mar. 8, 2024]

@@ -1,5 +1,7 @@
 ##### § 50.17 Decision points for projects. #####
 
+Link to an amendment published at 89 FR 38290, May 7, 2024.
+
 Either an EA and FONSI or an EIS for individual projects shall be completed before the applicable program decision points below for projects not meeting the criteria of § 50.20. Compliance with applicable authorities cited in § 50.4 shall be completed before the applicable program decision points below unless the project meets the criteria for exclusion under § 50.19.
 
 (a) *New Construction.* (1) Project mortgage insurance or other financial assistance for multifamily housing projects (including sections 202 and 811), nursing homes, hospitals, group practice facilities and manufactured home parks: Issuance of Site Appraisal and Market Analysis (SAMA) Letter or initial equivalent indication of HUD approval of a specific site;

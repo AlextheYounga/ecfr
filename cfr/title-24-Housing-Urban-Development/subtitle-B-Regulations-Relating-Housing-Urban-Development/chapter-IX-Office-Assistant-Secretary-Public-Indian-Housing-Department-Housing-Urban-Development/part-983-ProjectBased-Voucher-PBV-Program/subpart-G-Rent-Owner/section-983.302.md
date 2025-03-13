@@ -1,5 +1,7 @@
 ##### § 983.302 Redetermination of rent to owner. #####
 
+Link to an amendment published at 89 FR 38337, May 7, 2024.
+
 (a) The PHA must redetermine the rent to owner:
 
 (1) Upon the owner's request; or

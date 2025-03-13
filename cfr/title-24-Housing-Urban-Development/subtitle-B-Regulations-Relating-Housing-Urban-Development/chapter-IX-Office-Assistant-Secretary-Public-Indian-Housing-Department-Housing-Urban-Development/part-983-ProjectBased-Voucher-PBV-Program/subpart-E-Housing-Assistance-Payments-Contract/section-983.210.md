@@ -1,5 +1,7 @@
 ##### § 983.210 Owner certification. #####
 
+Link to an amendment published at 89 FR 38329, May 7, 2024.
+
 By execution of the HAP contract, the owner certifies that at such execution and at all times during the term of the HAP contract:
 
 (a) All contract units are in good and tenantable condition. The owner is maintaining the premises and all contract units in accordance with the HQS.

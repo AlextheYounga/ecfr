@@ -1,5 +1,7 @@
 ##### § 5.902 Definitions. #####
 
+Link to an amendment published at 89 FR 38290, May 7, 2024.
+
 (a) *Terms found elsewhere.* The following terms used in this subpart are defined in subpart A of this part: *1937 Act, drug, federally assisted housing, household, HUD, public housing, public housing agency (PHA), Section 8.*
 
 (b) *Additional terms* used in this subpart are as follows:

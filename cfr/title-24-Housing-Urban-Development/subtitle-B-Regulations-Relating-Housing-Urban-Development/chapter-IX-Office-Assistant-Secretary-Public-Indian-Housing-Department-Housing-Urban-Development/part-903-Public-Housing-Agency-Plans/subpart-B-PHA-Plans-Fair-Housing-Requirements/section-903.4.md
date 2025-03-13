@@ -1,5 +1,7 @@
 ##### § 903.4 What are the public housing agency plans? #####
 
+Link to an amendment published at 89 FR 38292, May 7, 2024.
+
 (a) *Types of plans.* There are two public housing agency plans. They are:
 
 (1) The 5-Year Plan (the 5-Year Plan) that a public housing agency (PHA) must submit to HUD once every five PHA fiscal years. The 5-Year Plan covers the five PHA fiscal years immediately following the date on which the 5-Year Plan is due to HUD; and

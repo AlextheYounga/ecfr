@@ -1,5 +1,7 @@
 ##### § 983.260 Overcrowded, under-occupied, and accessible units. #####
 
+Link to an amendment published at 89 FR 38334, May 7, 2024.
+
 (a) *Family occupancy of wrong-size or accessible unit.* The PHA subsidy standards determine the appropriate unit size for the family size and composition. If the PHA determines that a family is occupying a:
 
 (1) Wrong-size unit, or

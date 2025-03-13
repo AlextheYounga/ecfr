@@ -1,5 +1,7 @@
 ##### § 888.113 Fair market rents for existing housing: Methodology. #####
 
+Link to an amendment published at 89 FR 38291, May 7, 2024.
+
 (a) *Basis for setting fair market rents.* Fair Market Rents (FMRs) are estimates of rent plus the cost of utilities, except telephone. FMRs are housing market-wide estimates of rents that provide opportunities to rent standard quality housing throughout the geographic area in which rental housing units are in competition. The level at which FMRs are set is expressed as a percentile point within the rent distribution of standard quality rental housing units in the FMR area. FMRs are set at the 40th percentile rent, the dollar amount below which the rent for 40 percent of standard quality rental housing units fall within the FMR area. The 40th percentile rent is drawn from the distribution of rents of all units within the FMR area that are occupied by recent movers. Adjustments are made to exclude public housing units, newly built units and substandard units.
 
 (b) *Setting FMRs at the 40th percentile rent.* Generally, HUD will set the FMRs at the 40th percentile rent, but no lower than 90 percent of the previous year's FMR for the FMR area.

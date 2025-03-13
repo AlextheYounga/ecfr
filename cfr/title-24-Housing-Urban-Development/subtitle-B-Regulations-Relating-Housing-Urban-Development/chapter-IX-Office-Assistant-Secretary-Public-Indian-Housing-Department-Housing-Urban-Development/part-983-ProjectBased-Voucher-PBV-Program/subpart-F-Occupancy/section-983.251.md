@@ -1,5 +1,7 @@
 ##### § 983.251 How participants are selected. #####
 
+Link to an amendment published at 89 FR 38331, May 7, 2024.
+
 (a) *Who may receive PBV assistance?* (1) The PHA may select families who are participants in the PHA's tenant-based voucher program and families who have applied for admission to the voucher program.
 
 (2) Except for voucher participants (determined eligible at original admission to the voucher program), the PHA may only select families determined eligible for admission at commencement of PBV assistance.

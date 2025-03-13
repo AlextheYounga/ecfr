@@ -1,5 +1,7 @@
 ##### § 290.39 Nondiscrimination in admitting certificate and voucher holders. #####
 
+Link to an amendment published at 89 FR 38291, May 7, 2024.
+
 (a) *Nondiscrimination requirement.* For any mortgage described in paragraphs (c) or (d) of this section that HUD sells without FHA mortgage insurance, the project owner shall not unreasonably refuse to lease a dwelling unit offered for rent, offer to sell cooperative stock, or otherwise discriminate in the terms of tenancy or cooperative purchase and sale because any tenant or purchaser is a certificate or voucher holder under 24 CFR part 982.
 
 (b) *Inapplicability to current mortgages securing unsubsidized projects that receive no project based-assistance.* The nondiscrimination requirements of this section do not apply to any mortgage that is current under the terms of the mortgage at the time HUD offers it for sale, if the mortgage secures an unsubsidized project that does not receive any of the forms of project-based assistance enumerated in paragraphs (4)(i) to (4)(iv) of the “subsidized project” definition in § 290.3.

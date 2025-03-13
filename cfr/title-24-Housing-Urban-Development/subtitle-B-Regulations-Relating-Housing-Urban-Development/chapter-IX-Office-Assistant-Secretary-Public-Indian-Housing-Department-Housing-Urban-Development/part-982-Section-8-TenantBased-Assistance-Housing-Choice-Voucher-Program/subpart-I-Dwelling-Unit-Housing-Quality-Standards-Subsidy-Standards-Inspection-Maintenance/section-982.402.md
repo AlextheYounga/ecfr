@@ -1,5 +1,7 @@
 ##### § 982.402 Subsidy standards. #####
 
+Link to an amendment published at 89 FR 38296, May 7, 2024.
+
 (a) *Purpose.* (1) The PHA must establish subsidy standards that determine the number of bedrooms needed for families of different sizes and compositions.
 
 (2) For each family, the PHA determines the appropriate number of bedrooms under the PHA subsidy standards (family unit size).

@@ -1,5 +1,7 @@
 ##### § 8.28 Housing certificate and housing voucher programs. #####
 
+Link to an amendment published at 89 FR 38290, May 7, 2024.
+
 (a) In carrying out the requirements of this subpart, a recipient administering a Section 8 Existing Housing Certificate program or a housing voucher program shall:
 
 (1) In providing notice of the availability and nature of housing assistance for low-income families under program requirements, adopt suitable means to assure that the notice reaches eligible individuals with handicaps;

@@ -1,6 +1,6 @@
 ##### § 982.4 Definitions. #####
 
-Link to an amendment published at 88 FR 30503, May 11, 2023.
+Link to an amendment published at 88 FR 30503, May 11, 2023.Link to an amendment published at 89 FR 38293, May 7, 2024.
 
 (a) *Definitions found elsewhere*—(1) *General definitions.* The following terms are defined in part 5, subpart A of this title: 1937 Act, covered person, drug, drug-related criminal activity, federally assisted housing, guest, household, HUD, MSA, other person under the tenant's control, public housing, Section 8, and violent criminal activity.
 

@@ -1,5 +1,7 @@
 ##### § 983.206 Statutory notice requirements: Contract termination or expiration. #####
 
+Link to an amendment published at 89 FR 38325, May 7, 2024.
+
 (a) Notices required in accordance with this section must be provided in the form prescribed by HUD.
 
 (b) Not less than one year before termination of a PBV or PBC HAP contract, the owner must notify the PHA and assisted tenants of the termination.

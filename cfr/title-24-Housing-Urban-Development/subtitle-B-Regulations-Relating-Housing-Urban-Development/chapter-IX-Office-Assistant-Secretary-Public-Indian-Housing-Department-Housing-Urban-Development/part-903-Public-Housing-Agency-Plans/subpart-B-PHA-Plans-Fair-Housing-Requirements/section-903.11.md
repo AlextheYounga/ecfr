@@ -1,5 +1,7 @@
 ##### § 903.11 Are certain PHAs eligible to submit a streamlined Annual Plan? #####
 
+Link to an amendment published at 89 FR 38292, May 7, 2024.
+
 (a) Yes, the following PHAs may submit a streamlined Annual Plan, as described in paragraph (b) of this section:
 
 (1) PHAs that are determined to be high performing PHAs as of the last annual or interim assessment of the PHA before the submission of the 5-Year or Annual Plan;

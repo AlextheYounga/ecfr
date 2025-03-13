@@ -1,5 +1,7 @@
 ##### § 891.125 Site and neighborhood standards. #####
 
+Link to an amendment published at 89 FR 38292, May 7, 2024.
+
 All sites must meet the following site and neighborhood requirements:
 
 (a) The site must be adequate in size, exposure, and contour to accommodate the number and type of units proposed, and adequate utilities (water, sewer, gas, and electricity) and streets must be available to service the site.

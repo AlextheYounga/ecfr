@@ -1,5 +1,7 @@
 ##### § 5.100 Definitions. #####
 
+Link to an amendment published at 89 FR 38289, May 7, 2024.
+
 The following definitions apply to this part and also in other regulations, as noted:
 
 *1937 Act* means the United States Housing Act of 1937 (42 U.S.C. 1437 *et seq.*)

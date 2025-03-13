@@ -1,5 +1,7 @@
 ##### § 300-3.1 What do the following terms mean? #####
 
+Link to an amendment published at 89 FR 37978, May 7, 2024.
+
 *Accompanied baggage*—Government property and personal property of the traveler necessary for official travel.
 
 *Actual expense*—Payment of authorized actual expenses incurred, up to the limit prescribed by the Administrator of GSA or agency, as appropriate. Entitlement to reimbursement is contingent upon entitlement to per diem, and is subject to the same definitions and rules governing per diem.

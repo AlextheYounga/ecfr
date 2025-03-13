@@ -1,5 +1,7 @@
 ##### § 983.5 Description of the PBV program. #####
 
+Link to an amendment published at 89 FR 38306, May 7, 2024.
+
 (a) *How PBV works.* (1) The PBV program is administered by a PHA that already administers the tenant-based voucher program under an annual contributions contract (ACC) with HUD. In the PBV program, the assistance is “attached to the structure.” (See description of the difference between “project-based” and “tenant-based” rental assistance at 24 CFR 982.1(b).)
 
 (2) The PHA enters into a HAP contract with an owner for units in existing housing or in newly constructed or rehabilitated housing.

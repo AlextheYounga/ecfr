@@ -1,5 +1,7 @@
 ##### § 5.504 Definitions. #####
 
+Link to an amendment published at 89 FR 38289, May 7, 2024.
+
 (a) The definitions *1937 Act, HUD, Public Housing Agency (PHA),* and *Section 8* are defined in subpart A of this part.
 
 (b) As used in this subpart E:

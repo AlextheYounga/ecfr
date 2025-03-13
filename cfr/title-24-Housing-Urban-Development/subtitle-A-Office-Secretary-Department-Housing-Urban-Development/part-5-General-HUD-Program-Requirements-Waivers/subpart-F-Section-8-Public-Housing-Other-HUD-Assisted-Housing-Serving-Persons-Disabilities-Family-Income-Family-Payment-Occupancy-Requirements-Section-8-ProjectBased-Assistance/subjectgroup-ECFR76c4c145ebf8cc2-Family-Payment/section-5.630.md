@@ -1,5 +1,7 @@
 ##### § 5.630 Minimum rent. #####
 
+Link to an amendment published at 89 FR 38290, May 7, 2024.
+
 (a) *Minimum rent.* (1) The PHA must charge a family no less than a minimum monthly rent established by the responsible entity, except as described in paragraph (b) of this section.
 
 (2) For the public housing program and the section 8 moderate rehabilitation, and certificate or voucher programs, the PHA may establish a minimum rent of up to $50.

@@ -1,5 +1,7 @@
 ##### § 92.508 Recordkeeping. #####
 
+Link to an amendment published at 89 FR 38290, May 7, 2024.
+
 (a) *General.* Each participating jurisdiction must establish and maintain sufficient records to enable HUD to determine whether the participating jurisdiction has met the requirements of this part. At a minimum, the following records are needed:
 
 (1) *Records concerning designation as a participating jurisdiction.* (i) For a consortium, the consortium agreement among the participating member units of general local government as required by § 92.101.

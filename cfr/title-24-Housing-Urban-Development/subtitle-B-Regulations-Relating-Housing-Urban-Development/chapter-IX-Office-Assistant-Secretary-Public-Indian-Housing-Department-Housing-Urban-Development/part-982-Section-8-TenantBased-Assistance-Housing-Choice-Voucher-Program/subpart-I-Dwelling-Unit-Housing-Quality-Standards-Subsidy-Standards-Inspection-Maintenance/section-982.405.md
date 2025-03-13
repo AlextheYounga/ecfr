@@ -1,5 +1,7 @@
 ##### § 982.405 PHA initial and periodic unit inspection. #####
 
+Link to an amendment published at 89 FR 38298, May 7, 2024.
+
 (a)(1) *General requirements.* The PHA must inspect the unit leased to a family prior to the initial term of the lease, at least biennially during assisted occupancy, and at other times as needed, to determine if the unit meets the HQS. (*See* § 982.305(b)(2) concerning timing of initial inspection by the PHA.)
 
 (2) *Small rural PHAs.* Instead of biennially, a small rural PHA as defined in § 902.101 of this chapter must inspect a unit during occupancy at least once every three years.

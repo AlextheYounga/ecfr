@@ -1,5 +1,7 @@
 ##### § 91.2 Applicability. #####
 
+Link to an amendment published at 89 FR 38290, May 7, 2024.
+
 (a) The following formula grant programs are covered by the consolidated plan:
 
 (1) The Community Development Block Grant (CDBG) programs (see 24 CFR part 570, subparts D and I);

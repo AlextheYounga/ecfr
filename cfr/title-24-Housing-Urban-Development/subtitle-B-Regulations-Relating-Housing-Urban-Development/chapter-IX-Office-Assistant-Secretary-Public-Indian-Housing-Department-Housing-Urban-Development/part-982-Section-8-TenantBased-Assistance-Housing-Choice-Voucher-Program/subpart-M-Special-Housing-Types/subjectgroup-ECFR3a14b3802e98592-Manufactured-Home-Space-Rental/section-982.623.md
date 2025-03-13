@@ -1,5 +1,7 @@
 ##### § 982.623 Manufactured home space rental: Housing assistance payment. #####
 
+Link to an amendment published at 89 FR 38303, May 7, 2024.
+
 (a) There is a separate fair market rent for a manufactured home space. The FMR for a manufactured home space is determined in accordance with § 888.113(e) of this title. The FMR for a manufactured home space is generally 40 percent of the published FMR for a two-bedroom unit.
 
 (b) The payment standard shall be determined in accordance with § 982.505.

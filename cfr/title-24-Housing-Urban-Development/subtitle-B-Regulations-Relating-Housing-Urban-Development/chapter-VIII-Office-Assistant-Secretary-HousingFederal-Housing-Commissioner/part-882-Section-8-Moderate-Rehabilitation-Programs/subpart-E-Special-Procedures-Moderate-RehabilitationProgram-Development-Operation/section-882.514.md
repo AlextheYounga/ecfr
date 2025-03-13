@@ -1,5 +1,7 @@
 ##### § 882.514 Family participation. #####
 
+Link to an amendment published at 89 FR 38291, May 7, 2024.
+
 (a) *Initial determination of family eligibility.* (1) The PHA is responsible for receipt and review of applications, and determination of family eligibility for participation in accordance with HUD regulations (see 24 CFR parts 5, 750 and 760). The PHA is responsible for verifying the sources and amount of the family's income and other information necessary for determining income eligibility and the amount of the assistance payments.
 
 (2) PHA records on applicants and Families selected to participate must be maintained so as to provide HUD with racial, gender, and ethnic data.

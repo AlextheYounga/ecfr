@@ -1,6 +1,6 @@
 ##### § 982.352 Eligible housing. #####
 
-Link to an amendment published at 88 FR 30503, May 11, 2023.
+Link to an amendment published at 88 FR 30503, May 11, 2023.Link to an amendment published at 89 FR 38296, May 7, 2024.
 
 (a) *Ineligible housing.* The following types of housing may not be assisted by a PHA in the tenant-based programs:
 

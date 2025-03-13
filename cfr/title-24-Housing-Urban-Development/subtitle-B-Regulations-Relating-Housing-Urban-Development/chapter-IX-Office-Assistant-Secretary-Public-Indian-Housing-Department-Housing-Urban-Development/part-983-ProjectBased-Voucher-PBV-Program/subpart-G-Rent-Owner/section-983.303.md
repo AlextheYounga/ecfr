@@ -1,5 +1,7 @@
 ##### § 983.303 Reasonable rent. #####
 
+Link to an amendment published at 89 FR 38338, May 7, 2024.
+
 (a) *Comparability requirement.* At all times during the term of the HAP contract, the rent to the owner for a contract unit may not exceed the reasonable rent as determined by the PHA, except that where the PHA has elected in the HAP contract to not reduce rents below the initial rent under the initial HAP contract, the rent to owner shall not be reduced below the initial rent in accordance with § 983.302(e)(2).
 
 (b) *Redetermination.* The PHA must redetermine the reasonable rent:

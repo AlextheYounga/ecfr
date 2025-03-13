@@ -1,5 +1,7 @@
 ##### § 302-17.21 What relocation expenses does the WTA cover? #####
 
+Link to an amendment published at 89 FR 37984, May 7, 2024.
+
 The WTA covers certain allowances, reimbursements, and/or direct payments to vendors, to the extent that each of them is taxable income. In particular, the WTA covers:
 
 (a) En route lodging, meals and incidental expenses—Reimbursements for lodging, meals and incidental expenses while en route to the new official station for you and your immediate family member(s). (See part 302-4 of this chapter).

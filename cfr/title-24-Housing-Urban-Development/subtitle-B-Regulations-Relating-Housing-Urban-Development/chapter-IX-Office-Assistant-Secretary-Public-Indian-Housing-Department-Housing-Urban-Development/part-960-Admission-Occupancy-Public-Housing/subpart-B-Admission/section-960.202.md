@@ -1,5 +1,7 @@
 ##### § 960.202 Tenant selection policies. #####
 
+Link to an amendment published at 89 FR 38293, May 7, 2024.
+
 (a) *Selection policies, generally.* (1) The PHA shall establish and adopt written policies for admission of tenants.
 
 (2) These policies shall provide for and include the following:

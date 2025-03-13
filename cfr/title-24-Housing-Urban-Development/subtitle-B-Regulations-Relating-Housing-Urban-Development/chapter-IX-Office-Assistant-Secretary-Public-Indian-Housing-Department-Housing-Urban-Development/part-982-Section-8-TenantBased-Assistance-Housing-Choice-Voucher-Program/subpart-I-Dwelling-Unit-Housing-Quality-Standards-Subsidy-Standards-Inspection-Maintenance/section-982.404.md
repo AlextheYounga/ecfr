@@ -1,5 +1,7 @@
 ##### § 982.404 Maintenance: Owner and family responsibility; PHA remedies. #####
 
+Link to an amendment published at 89 FR 38296, May 7, 2024.
+
 (a) *Owner obligation.* (1) The owner must maintain the unit in accordance with HQS.
 
 (2) If the owner fails to maintain the dwelling unit in accordance with HQS, the PHA must take prompt and vigorous action to enforce the owner obligations. PHA remedies for such breach of the HQS include termination, suspension or reduction of housing assistance payments and termination of the HAP contract.

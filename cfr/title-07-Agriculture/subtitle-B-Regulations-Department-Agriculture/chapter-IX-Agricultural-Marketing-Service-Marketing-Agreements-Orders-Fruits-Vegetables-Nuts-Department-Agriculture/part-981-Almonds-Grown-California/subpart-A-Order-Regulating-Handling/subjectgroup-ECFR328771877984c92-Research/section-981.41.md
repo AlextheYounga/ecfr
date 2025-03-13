@@ -1,5 +1,7 @@
 ##### § 981.41 Research and development. #####
 
+Link to an amendment published at 89 FR 37968, May 7, 2024.
+
 (a) *General.* The Board, with the approval of the Secretary, may establish or provide for the establishment of projects involving production research, marketing research and development projects, and marketing promotion including paid advertising, designed to assist, improve, or promote the marketing, distribution, consumption or efficient production of almonds. The Board may also provide for crediting the pro rata expense assessment obligations of a handler with such portion of his direct expenditure for such marketing promotion including paid advertising as may be authorized. The expenses of such projects shall be paid from funds collected pursuant to § 981.81(a) or credited pursuant to paragraph (c) of this section.
 
 (b) *Authorization.* If, on the basis of a Control Board recommendation pursuant to § 981.40(e) with respect to projects pursuant to this section, and appertaining rules and regulations established by the Secretary on recommendation of the Board, and other available information, the Secretary concurs that such activities should be permitted, he shall authorize such activities.

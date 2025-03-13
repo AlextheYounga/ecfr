@@ -1,5 +1,7 @@
 ##### § 982.641 Homeownership option: Applicability of other requirements. #####
 
+Link to an amendment published at 89 FR 38304, May 7, 2024.
+
 (a) *General.* The following types of provisions (located in other subparts of this part) do not apply to assistance under the homeownership option:
 
 (1) Any provisions concerning the Section 8 owner or the HAP contract between the PHA and owner;

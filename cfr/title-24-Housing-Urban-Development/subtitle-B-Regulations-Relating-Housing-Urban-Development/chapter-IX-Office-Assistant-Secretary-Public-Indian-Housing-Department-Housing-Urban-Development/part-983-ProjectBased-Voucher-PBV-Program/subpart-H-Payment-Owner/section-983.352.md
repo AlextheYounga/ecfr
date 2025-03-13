@@ -1,5 +1,7 @@
 ##### § 983.352 Vacancy payment. #####
 
+Link to an amendment published at 89 FR 38338, May 7, 2024.
+
 (a) *Payment for move-out month.* If an assisted family moves out of the unit, the owner may keep the housing assistance payment payable for the calendar month when the family moves out (“move-out month”). However, the owner may not keep the payment if the PHA determines that the vacancy is the owner's fault.
 
 (b) *Vacancy payment at PHA discretion.* (1) At the discretion of the PHA, the HAP contract may provide for vacancy payments to the owner (in the amounts determined in accordance with paragraph (b)(2) of this section) for a PHA-determined period of vacancy extending from the beginning of the first calendar month after the move-out month for a period not exceeding two full months following the move-out month.

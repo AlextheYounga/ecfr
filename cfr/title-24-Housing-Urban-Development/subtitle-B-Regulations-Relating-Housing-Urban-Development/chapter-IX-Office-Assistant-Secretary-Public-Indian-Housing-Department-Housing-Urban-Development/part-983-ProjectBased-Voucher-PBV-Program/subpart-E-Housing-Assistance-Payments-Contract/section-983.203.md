@@ -1,5 +1,7 @@
 ##### § 983.203 HAP contract information. #####
 
+Link to an amendment published at 89 FR 38324, May 7, 2024.
+
 The HAP contract must specify:
 
 (a) The total number of contract units by number of bedrooms;

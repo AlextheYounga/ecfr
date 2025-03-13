@@ -1,5 +1,7 @@
 ##### § 982.54 Administrative plan. #####
 
+Link to an amendment published at 89 FR 38294, May 7, 2024.
+
 (a) The PHA must adopt a written administrative plan that establishes local policies for administration of the program in accordance with HUD requirements. The administrative plan and any revisions of the plan must be formally adopted by the PHA Board of Commissioners or other authorized PHA officials. The administrative plan states PHA policy on matters for which the PHA has discretion to establish local policies.
 
 (b) The administrative plan must be in accordance with HUD regulations and requirements. The administrative plan is a supporting document to the PHA plan (part 903 of this title) and must be available for public review. The PHA must revise the administrative plan if needed to comply with HUD requirements.

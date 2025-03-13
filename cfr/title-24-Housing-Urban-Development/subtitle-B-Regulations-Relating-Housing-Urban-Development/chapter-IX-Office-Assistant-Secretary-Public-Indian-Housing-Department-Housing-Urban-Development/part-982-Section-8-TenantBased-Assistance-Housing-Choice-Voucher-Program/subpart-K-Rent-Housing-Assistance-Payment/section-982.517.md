@@ -1,5 +1,7 @@
 ##### § 982.517 Utility allowance schedule. #####
 
+Link to an amendment published at 89 FR 38302, May 7, 2024.
+
 (a) *Maintaining schedule.* (1) The PHA must maintain a utility allowance schedule for all tenant-paid utilities (except telephone), for cost of tenant-supplied refrigerators and ranges, and for other tenant-paid housing services (e.g., trash collection (disposal of waste and refuse)).
 
 (2) The PHA must give HUD a copy of the utility allowance schedule. At HUD's request, the PHA also must provide any information or procedures used in preparation of the schedule.

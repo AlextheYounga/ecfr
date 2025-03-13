@@ -1,5 +1,7 @@
 ##### § 354.3 User fees for certain international services. #####
 
+Link to an amendment published at 89 FR 38636, May 7, 2024.
+
 (a) *Definitions.* Whenever in this section the following terms are used, unless the context otherwise requires, they shall be construed, respectively, to mean:
 
 *APHIS.* The Animal and Plant Health Inspection Service of the United States Department of Agriculture.
@@ -55,8 +57,6 @@
 (vii) Vessels returning to the United States after traveling to Canada solely to take on fuel.
 
 (c) *Fee for inspection of commercial trucks.* (1) The driver or other person in charge of a commercial truck that is enteing the customs territory of the United States and that is subject to inspection under part 330 of this chapter or under 9CFR, chapter I, subchapter D, must, upon arrival, proceed to Customs and pay and AQI user fee for each arrival, as shown in the following table:
-
-Table 2 to Paragraph (c)(1)
 
 |     Effective date     |Amount|
 |------------------------|------|
@@ -172,14 +172,11 @@ Table 2 to Paragraph (c)(1)
 
 (f) *Fee for inspection of international passengers.* (1) Except as specified in paragraph (f)(2) of this section, each passenger aboard a commercial aircraft or cruise ship who is subject to inspection under part 330 of this chapter or 9 CFR, chapter I, subchapter D, upon arrival from a place outside of the customs territory of the United States, must pay an AQI user fee. The AQI user fee will apply to tickets purchased beginning March 17, 2023. The fees are shown in the following table:
 
-Table 5 to Paragraph (f)(1)
-
-|Effective dates<sup>1</sup>|  Passenger type   |Amount|
-|---------------------------|-------------------|------|
-| Beginning March 17, 2023  |Commercial aircraft|$3.83 |
-| Beginning March 17, 2023  |    Cruise ship    | 1.68 |
-
-<sup>1</sup>Persons who issue international airline and cruise line tickets or travel documents are responsible for collecting the AQI international airline passenger user fee and the international cruise ship passenger user fee from ticket purchasers. Issuers must collect the fee applicable at the time tickets are sold. In the event that ticket sellers do not collect the AQI user fee when tickets are sold, the air carrier or cruise line must collect the user fee that is applicable at the time of departure from the passenger upon departure.
+|                                                                                                                                                                                                                                                                   Effective dates <sup>1</sup>                                                                                                                                                                                                                                                                    |  Passenger type   |Amount|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|------|
+|                                                                                                                                                                                                                                                                     Beginning March 17, 2023                                                                                                                                                                                                                                                                      |Commercial aircraft|$3.83 |
+|                                                                                                                                                                                                                                                                     Beginning March 17, 2023                                                                                                                                                                                                                                                                      |    Cruise ship    | 1.68 |
+|<sup>1</sup> Persons who issue international airline and cruise line tickets or travel documents are responsible for collecting the AQI international airline passenger user fee and the international cruise ship passenger user fee from ticket purchasers. Issuers must collect the fee applicable at the time tickets are sold. In the event that ticket sellers do not collect the AQI user fee when tickets are sold, the air carrier or cruise line must collect the user fee that is applicable at the time of departure from the passenger upon departure.|                   |      |
 
 (2) The following categories of passengers are exempt from paying an AQI user fee:
 

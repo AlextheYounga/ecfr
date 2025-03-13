@@ -1,5 +1,7 @@
 ##### § 983.254 Vacancies. #####
 
+Link to an amendment published at 89 FR 38334, May 7, 2024.
+
 (a) *Filling vacant units.* (1) The owner must promptly notify the PHA of any vacancy or expected vacancy in a contract unit. After receiving the owner notice, the PHA must make every reasonable effort to refer promptly a sufficient number of families for the owner to fill such vacancies.
 
 (2) The owner must lease vacant contract units only to eligible families on the PHA waiting list referred by the PHA.

@@ -1,5 +1,7 @@
 ##### § 945.103 General policies. #####
 
+Link to an amendment published at 89 FR 38293, May 7, 2024.
+
 (a) *Agency participation.* Participation in this program is limited to public housing agencies (PHAs) (as this term is defined in 24 CFR 913.102) that elect to designate public housing projects for occupancy by disabled families, elderly families, or disabled families and elderly families, as provided by this part.
 
 (b) *Eligible housing*—(1) *Designation of public housing.* Projects eligible for designation under this part are public housing projects as described in the definition of “project” in § 945.105.

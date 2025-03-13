@@ -1,5 +1,7 @@
 ##### § 982.605 SRO: Housing quality standards. #####
 
+Link to an amendment published at 89 FR 38303, May 7, 2024.
+
 (a) *HQS standards for SRO.* As defined in § 982.4, housing quality standards (HQS) refers to the minimum quality standards developed by HUD in accordance with 24 CFR 5.703 for housing assisted under the HCV program or a HUD approved alternative standard for the PHA under 24 CFR 5.703(g). However, the standards in this section apply in place of standards related to sanitary facilities, food preparation and refuse disposal, and space and security. Since the SRO units will not house children, the standards at 24 CFR part 35, subparts A, B, H, and R, applying to the PBC program, concerning lead-based paint, do not apply to SRO housing.
 
 (b) *Performance requirements.* (1) SRO housing is subject to the additional performance requirements in this paragraph (b).

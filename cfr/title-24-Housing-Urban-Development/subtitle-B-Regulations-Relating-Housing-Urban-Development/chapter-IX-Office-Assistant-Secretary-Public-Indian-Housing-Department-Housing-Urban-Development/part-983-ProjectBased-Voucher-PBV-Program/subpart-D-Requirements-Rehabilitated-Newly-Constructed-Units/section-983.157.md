@@ -1,5 +1,7 @@
 ##### § 983.157 Broadband infrastructure. #####
 
+Link to an amendment published at 89 FR 38321, May 7, 2024.
+
 Any new construction or substantial rehabilitation, as substantial rehabilitation is defined by 24 CFR 5.100, of a building with more than 4 rental units and where the date of the notice of owner proposal selection or the start of the rehabilitation while under a HAP contract is after January 19, 2017 must include installation of broadband infrastructure, as this term is also defined in 24 CFR 5.100, except where the owner determines and documents the determination that:
 
 (a) The location of the new construction or substantial rehabilitation makes installation of broadband infrastructure infeasible;

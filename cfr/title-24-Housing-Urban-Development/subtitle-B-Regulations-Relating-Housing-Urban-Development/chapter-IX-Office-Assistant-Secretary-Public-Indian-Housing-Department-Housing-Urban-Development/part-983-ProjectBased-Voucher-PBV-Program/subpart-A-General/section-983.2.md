@@ -1,5 +1,7 @@
 ##### § 983.2 When the tenant-based voucher rule (24 CFR part 982) applies. #####
 
+Link to an amendment published at 89 FR 38304, May 7, 2024.
+
 (a) *24 CFR Part 982.* Part 982 is the basic regulation for the tenant-based voucher program. Paragraphs (b) and (c) of this section describe the provisions of part 982 that do not apply to the PBV program. The rest of part 982 applies to the PBV program. For use and applicability of voucher program definitions at § 982.4, see § 983.3.
 
 (b) *Types of 24 CFR part 982 provisions that do not apply to PBV.* The following types of provisions in 24 CFR part 982 do not apply to PBV assistance under part 983.

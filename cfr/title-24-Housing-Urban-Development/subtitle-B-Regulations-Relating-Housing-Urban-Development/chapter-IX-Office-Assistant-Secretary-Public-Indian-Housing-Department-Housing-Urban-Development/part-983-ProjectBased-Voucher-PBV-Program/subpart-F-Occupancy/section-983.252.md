@@ -1,5 +1,7 @@
 ##### § 983.252 PHA information for accepted family. #####
 
+Link to an amendment published at 89 FR 38333, May 7, 2024.
+
 (a) *Oral briefing.* When a family accepts an offer of PBV assistance, the PHA must give the family an oral briefing. The briefing must include information on the following subjects:
 
 (1) A description of how the program works; and

@@ -1,5 +1,7 @@
 ##### § 983.10 Project-based certificate (PBC) program. #####
 
+Link to an amendment published at 89 FR 38308, May 7, 2024.
+
 (a) *What is it?* “PBC program” means project-based assistance attached to units pursuant to an Agreement executed by a PHA and owner before January 16, 2001, and in accordance with:
 
 (1) The regulations for the PBC program at 24 CFR part 983, codified as of May 1, 2001 and contained in 24 CFR part 983 revised as of April 1, 2002; and

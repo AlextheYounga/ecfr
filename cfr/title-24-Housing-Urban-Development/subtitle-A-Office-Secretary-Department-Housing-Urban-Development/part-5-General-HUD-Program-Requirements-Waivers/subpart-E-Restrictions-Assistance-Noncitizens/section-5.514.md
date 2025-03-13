@@ -1,5 +1,7 @@
 ##### § 5.514 Delay, denial, reduction or termination of assistance. #####
 
+Link to an amendment published at 89 FR 38290, May 7, 2024.
+
 (a) *General.* Assistance to a family may not be delayed, denied, reduced or terminated because of the immigration status of a family member except as provided in this section.
 
 (b) *Restrictions on delay, denial, reduction or termination of assistance*—(1) *Restrictions on reduction, denial or termination of assistance for applicants and tenants.* Assistance to an applicant or tenant shall not be delayed, denied, reduced, or terminated, on the basis of ineligible immigration status of a family member if:

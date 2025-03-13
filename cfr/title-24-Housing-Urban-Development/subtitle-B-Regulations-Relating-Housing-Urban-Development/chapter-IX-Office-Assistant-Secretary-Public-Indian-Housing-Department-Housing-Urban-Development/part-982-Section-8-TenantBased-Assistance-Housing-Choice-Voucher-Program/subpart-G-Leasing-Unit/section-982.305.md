@@ -1,5 +1,7 @@
 ##### § 982.305 PHA approval of assisted tenancy. #####
 
+Link to an amendment published at 89 FR 38295, May 7, 2024.
+
 (a) *Program requirements.* The PHA may not give approval for the family of the assisted tenancy, or execute a HAP contract, until the PHA has determined that all the following meet program requirements:
 
 (1) The unit is eligible;

@@ -1,5 +1,7 @@
 ##### § 903.3 What is the purpose of this subpart? #####
 
+Link to an amendment published at 89 FR 38292, May 7, 2024.
+
 (a) This subpart specifies the requirements for PHA plans, required by section 5A of the United States Housing Act of 1937 (42 U.S.C. 1437c-1) (the Act), as amended.
 
 (b) The purpose of the plans is to provide a strategic planning framework for PHA management operations and capital planning:

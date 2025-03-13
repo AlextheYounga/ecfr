@@ -1,5 +1,7 @@
 ##### § 983.262 When occupancy may exceed 25 percent cap on the number of PBV units in each project. #####
 
+Link to an amendment published at 89 FR 38335, May 7, 2024.
+
 (a) Except as provided in § 983.56(b), the PHA may not pay housing assistance under the HAP contract for contract units in excess of the 25 percent cap pursuant to § 983.56(a).
 
 (b) In referring families to the owner for admission to excepted units, the PHA must give preference to elderly and/or disabled families, or to families receiving supportive services.

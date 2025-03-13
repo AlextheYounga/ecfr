@@ -1,5 +1,7 @@
 ##### § 5.903 What special authority is there to obtain access to criminal records? #####
 
+Link to an amendment published at 89 FR 38290, May 7, 2024.
+
 (a) *Authority.* If you are a PHA that administers the Section 8 program and/or the public housing program, this section authorizes you to obtain criminal conviction records from a law enforcement agency, as defined in § 5.902. You may use the criminal conviction records that you obtain from a law enforcement agency under the authority of this section to screen applicants for admission to covered housing programs and for lease enforcement or eviction of families residing in public housing or receiving Section 8 project-based assistance.
 
 (b) *Consent for release of criminal conviction records.* (1) In order to obtain access to records under this section, as a responsible entity you must require every applicant family to submit a consent form signed by each adult household member.

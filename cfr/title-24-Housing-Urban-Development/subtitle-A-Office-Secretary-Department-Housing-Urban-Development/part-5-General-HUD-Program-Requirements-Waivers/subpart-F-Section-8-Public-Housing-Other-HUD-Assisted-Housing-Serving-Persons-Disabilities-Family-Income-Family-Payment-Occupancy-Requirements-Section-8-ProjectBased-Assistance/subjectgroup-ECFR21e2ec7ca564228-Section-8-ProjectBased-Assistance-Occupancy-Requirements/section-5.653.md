@@ -1,5 +1,7 @@
 ##### § 5.653 Section 8 project-based assistance programs: Admission—Income-eligibility and income-targeting. #####
 
+Link to an amendment published at 89 FR 38290, May 7, 2024.
+
 (a) *Applicability.* This section describes requirements concerning income-eligibility and income-targeting that apply to the Section 8 project-based assistance programs, except for the moderate rehabilitation and the project-based certificate or voucher programs.
 
 (b) *Who is eligible?*—(1) *Basic eligibility.* An applicant must meet all eligibility requirements in order to receive housing assistance. At a minimum, the applicant must be a family, as defined in § 5.403, and must be income-eligible, as described in this section. Such eligible applicants include single persons.

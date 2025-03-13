@@ -1,0 +1,3 @@
+##### § 60.5360c What is the purpose of this subpart? #####
+
+This subpart establishes emission guidelines and compliance schedules for the control of greenhouse gas (GHG) emissions from designated facilities in the crude oil and natural gas source category as defined in the Model Rule at § 60.5430c, in accordance with section 111(d) of the Clean Air Act and subpart Ba of this part. The designated facilities, standards section reference and compliance dates are listed in table 1 to this subpart. To the extent any requirement of this subpart is inconsistent with the requirements of subpart A or Ba of this part, the requirements of this subpart will apply.

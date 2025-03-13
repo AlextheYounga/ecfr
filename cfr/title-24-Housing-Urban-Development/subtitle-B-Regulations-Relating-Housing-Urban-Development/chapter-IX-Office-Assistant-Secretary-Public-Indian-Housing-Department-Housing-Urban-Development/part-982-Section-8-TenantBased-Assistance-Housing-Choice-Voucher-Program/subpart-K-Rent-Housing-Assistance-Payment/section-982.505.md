@@ -1,5 +1,7 @@
 ##### § 982.505 How to calculate housing assistance payment. #####
 
+Link to an amendment published at 89 FR 38302, May 7, 2024.
+
 (a) *Use of payment standard.* A payment standard is used to calculate the monthly housing assistance payment for a family. The “payment standard” is the maximum monthly subsidy payment.
 
 (b) *Amount of monthly housing assistance payment.* The PHA shall pay a monthly housing assistance payment on behalf of the family that is equal to the *lower* of:

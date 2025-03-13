@@ -1,0 +1,5 @@
+##### § 326.3 Who can receive a grant? #####
+
+(a) *Grants to students.* The Department of Commerce may award a competitive grant directly to a student for the purpose of increasing the level of knowledge and awareness of and interest in employment with the U.S. and Foreign Commercial Service, consistent with 22 U.S.C. 3905 and employment through ITA Pathways Programs consistent with the Executive Order No. 13562.
+
+(b) *Grants to Institutions of Higher Education.* The Department of Commerce may award a competitive grant to an institution of higher education as defined in 20 U.S.C. 1001 to administer a program to award grants to students for the purpose of increasing the level of knowledge and awareness of and interest in employment with the U.S. and Foreign Commercial Service, consistent with 22 U.S.C. 3905.

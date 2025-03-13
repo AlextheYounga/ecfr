@@ -1,5 +1,7 @@
 ##### § 982.625 Homeownership option: General. #####
 
+Link to an amendment published at 89 FR 38304, May 7, 2024.
+
 (a) The homeownership option is used to assist a family residing in a home purchased and owned by one or more members of the family.
 
 (b) A family assisted under the homeownership option may be a newly admitted or existing participant in the program.

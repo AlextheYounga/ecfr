@@ -1,5 +1,7 @@
 ##### § 982.451 Housing assistance payments contract. #####
 
+Link to an amendment published at 89 FR 38300, May 7, 2024.
+
 (a)(1) The HAP contract must be in the form required by HUD.
 
 (2) The term of the HAP contract is the same as the term of the lease.

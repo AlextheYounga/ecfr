@@ -1,5 +1,7 @@
 ##### § 1000.302 What are the definitions applicable for the IHBG formula? #####
 
+Link to an amendment published at 89 FR 38339, May 7, 2024.
+
 *Allowable Expense Level (AEL) factor.* In rental projects, AEL is the per-unit per-month dollar amount of expenses which was used to compute the amount of operating subsidy used prior to October 1, 1997 for the Low Rent units developed under the 1937 Act. The “AEL factor” is the relative difference between a local area AEL and the national weighted average for AEL.
 
 *Date of Full Availability (DOFA)* means the last day of the month in which substantially all the units in a housing development are available for occupancy.

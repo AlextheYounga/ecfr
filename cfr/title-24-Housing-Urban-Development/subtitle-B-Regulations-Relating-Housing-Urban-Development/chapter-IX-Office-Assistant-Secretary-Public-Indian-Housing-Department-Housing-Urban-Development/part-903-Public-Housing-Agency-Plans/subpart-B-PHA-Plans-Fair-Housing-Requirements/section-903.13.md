@@ -1,5 +1,7 @@
 ##### § 903.13 What is a Resident Advisory Board and what is its role in development of the Annual Plan? #####
 
+Link to an amendment published at 89 FR 38293, May 7, 2024.
+
 (a) A Resident Advisory Board refers to a board or boards, as provided in paragraph (b) of this section, whose membership consists of individuals who adequately reflect and represent the residents assisted by the PHA.
 
 (1) The role of the Resident Advisory Board (or Resident Advisory Boards) is to assist and make recommendations regarding the development of the PHA plan, and any significant amendment or modification to the PHA plan.

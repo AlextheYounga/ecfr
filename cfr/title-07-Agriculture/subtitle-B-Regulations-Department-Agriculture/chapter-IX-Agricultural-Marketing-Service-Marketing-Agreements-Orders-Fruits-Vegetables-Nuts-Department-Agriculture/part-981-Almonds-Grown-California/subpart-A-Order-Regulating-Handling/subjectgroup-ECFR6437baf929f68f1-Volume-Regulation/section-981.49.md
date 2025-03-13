@@ -1,5 +1,7 @@
 ##### § 981.49 Board estimates and recommendations. #####
 
+Link to an amendment published at 89 FR 37968, May 7, 2024.
+
 To aid the Secretary in fixing the salable and reserve percentages, the Board shall furnish to the Secretary, not later than August 1, the following estimates (kernel weight basis) and recommendations for the crop year, each of which, or any later revisions thereof, shall be adopted by the affirmative vote of at least six members:
 
 (a) The quantity of marketable almonds to be produced;

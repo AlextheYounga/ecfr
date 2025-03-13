@@ -1,0 +1,3 @@
+##### § 60.5369c Is there an approval process for a negative declaration letter? #####
+
+No. The EPA has no formal review process for negative declaration letters. Once your negative declaration letter has been received, the EPA will place a copy in the public docket and publish a notice in the Federal Register. If, at a later date, a designated facility for which construction commenced on or before December 6, 2022, is found in your state, that designated facility must be subject to a state, Tribal, or Federal plan in accordance with the requirements of this subpart and subpart Ba.

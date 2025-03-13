@@ -1,5 +1,7 @@
 ##### § 972.218 Conversion assessment components. #####
 
+Link to an amendment published at 89 FR 38293, May 7, 2024.
+
 The conversion assessment contains five elements, as described below:
 
 (a) *Cost analysis.* A PHA must conduct a cost analysis comparing the cost of providing Section 8 tenant-based assistance with the cost of continuing to operate the development as public housing for the remainder of its useful life. The cost methodology necessary to conduct the cost comparisons for voluntary conversions has not yet been finalized. PHAs may not undertake conversions under this subpart until the effective date of the cost methodology, which will be announced in the Federal Register. Once effective, the cost methodology will be codified as an appendix to this part.

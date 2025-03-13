@@ -1,5 +1,7 @@
 ##### § 983.259 Security deposit: amounts owed by tenant. #####
 
+Link to an amendment published at 89 FR 38334, May 7, 2024.
+
 (a) The owner may collect a security deposit from the tenant.
 
 (b) The PHA may prohibit security deposits in excess of private market practice, or in excess of amounts charged by the owner to unassisted tenants.

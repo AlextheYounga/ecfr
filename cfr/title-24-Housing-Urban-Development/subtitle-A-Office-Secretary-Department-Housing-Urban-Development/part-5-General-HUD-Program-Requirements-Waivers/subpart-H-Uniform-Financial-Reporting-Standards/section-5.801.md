@@ -1,6 +1,6 @@
 ##### § 5.801 Uniform financial reporting standards. #####
 
-Link to an amendment published at 89 FR 30276, Apr. 23, 2024.
+Link to an amendment published at 89 FR 30276, Apr. 23, 2024.Link to an amendment published at 89 FR 38290, May 7, 2024.
 
 (a) *Applicability.* This subpart H implements uniform financial reporting standards for:
 

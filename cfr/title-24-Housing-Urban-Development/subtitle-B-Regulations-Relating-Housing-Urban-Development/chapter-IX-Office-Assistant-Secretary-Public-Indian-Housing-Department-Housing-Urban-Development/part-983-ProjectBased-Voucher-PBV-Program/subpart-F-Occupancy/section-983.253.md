@@ -1,5 +1,7 @@
 ##### § 983.253 Leasing of contract units. #####
 
+Link to an amendment published at 89 FR 38334, May 7, 2024.
+
 (a) *Owner selection of tenants.* (1) During the term of the HAP contract, the owner must lease contract units only to eligible families selected and referred by the PHA from the PHA waiting list.
 
 (2) The owner is responsible for adopting written tenant selection procedures that are consistent with the purpose of improving housing opportunities for very low-income families and reasonably related to program eligibility and an applicant's ability to perform the lease obligations.

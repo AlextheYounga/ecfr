@@ -1,5 +1,7 @@
 ##### § 290.3 Definitions. #####
 
+Link to an amendment published at 89 FR 38290, May 7, 2024.
+
 The terms *Department* and *URA* are defined in 24 CFR part 5. The following definitions apply to this part:
 
 *Cooperative* means a nonprofit, limited equity, or consumer cooperative as defined under 24 CFR part 213. It may include mutual housing associations.

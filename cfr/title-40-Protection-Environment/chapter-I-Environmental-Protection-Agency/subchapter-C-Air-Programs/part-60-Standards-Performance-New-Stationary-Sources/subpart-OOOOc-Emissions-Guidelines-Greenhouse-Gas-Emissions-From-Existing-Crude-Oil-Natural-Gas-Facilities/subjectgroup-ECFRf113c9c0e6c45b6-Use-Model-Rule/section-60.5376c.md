@@ -1,0 +1,5 @@
+##### § 60.5376c What is the “model rule” in this subpart? #####
+
+(a) The model rule is the portion of these emission guidelines (§§ 60.5385c through 60.5430c of this subpart) that includes the presumptive standards for designated facilities as well as associated measures to assure compliance including monitoring, recordkeeping, and reporting. The model rule is organized in regulation format. You must develop a state or Tribal plan that is at least as protective as the model rule, or comply with § 60.5365c. You may use the model rule language as part of your state or Tribal plan. Alternative language may be used in your state or Tribal plan if you demonstrate that the alternative language is at least as protective as the model rule contained in this subpart, or comply with § 60.5365c.
+
+(b) In the model rule of §§ 60.5385c through 60.5430c, “Administrator” has the meaning specified in § 60.2.
