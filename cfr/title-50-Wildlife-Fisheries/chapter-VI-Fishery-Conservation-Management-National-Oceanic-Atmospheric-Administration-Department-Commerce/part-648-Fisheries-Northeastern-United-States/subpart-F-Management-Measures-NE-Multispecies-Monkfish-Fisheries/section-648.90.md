@@ -134,94 +134,93 @@ For the NE multispecies framework specification process described in this sectio
 
 (*4*) *Windowpane AM Areas.* The AM areas defined below are bounded by the following coordinates, connected in the order listed by rhumb lines, unless otherwise noted.
 
-|                           Point                           |     N latitude      |     W longitude     |
-|-----------------------------------------------------------|---------------------|---------------------|
-| Northern Windowpane Flounder and Ocean Pout Small AM Area |                     |                     |
-|                             1                             |       41°10′        |       67°40′        |
-|                             2                             |       41°10′        |       67°20′        |
-|                             3                             |       41°00′        |       67°20′        |
-|                             4                             |       41°00′        |       67°00′        |
-|                             5                             |       40°50′        |       67°00′        |
-|                             6                             |       40°50′        |       67°40′        |
-|                             1                             |       41°10′        |       67°40′        |
-| Northern Windowpane Flounder and Ocean Pout Large AM Area |                     |                     |
-|                             1                             |       42°10′        |       67°40′        |
-|                             2                             |       42°10′        |       67°20′        |
-|                             3                             |       41°00′        |       67°20′        |
-|                             4                             |       41°00′        |       67°00′        |
-|                             5                             |       40°50′        |       67°00′        |
-|                             6                             |       40°50′        |       67°40′        |
-|                             1                             |       42°10′        |       67°40′        |
-| Southern Windowpane Flounder and Ocean Pout Small AM Area |                     |                     |
-|                             1                             |       41°10′        |       71°30′        |
-|                             2                             |       41°10′        |       71°20′        |
-|                             3                             |       40°50′        |       71°20′        |
-|                             4                             |       40°50′        |       71°30′        |
-|                             1                             |       41°10′        |       71°30′        |
-|Southern Windowpane Flounder and Ocean Pout Large AM Area 1|                     |                     |
-|                             1                             |       41°10′        |       71°50′        |
-|                             2                             |       41°10′        |       71°10′        |
-|                             3                             |       41°00′        |       71°10′        |
-|                             4                             |       41°00′        |       71°20′        |
-|                             5                             |       40°50′        |       71°20′        |
-|                             6                             |       40°50′        |       71°50′        |
-|                             1                             |       41°10′        |       71°50′        |
-|Southern Windowpane Flounder and Ocean Pout Large AM Area 2|                     |                     |
-|                             1                             |   (<sup>1</sup>)    |       73°30′        |
-|                             2                             |       40°30′        |       73°30′        |
-|                             3                             |       40°30′        |       73°50′        |
-|                             4                             |       40°20′        |       73°50′        |
-|                             5                             |       40°20′        |   (<sup>2</sup>)    |
-|                             6                             |   (<sup>3</sup>)    |      73°58.5′       |
-|                             7                             |   (<sup>4</sup>)    |      73°58.5′       |
-|                             8                             |<sup>5</sup> 40°32.6′|<sup>5</sup> 73°56.4′|
-|                             1                             |   (<sup>1</sup>)    |       73°30′        |
-|       Southern Windowpane Flounder Large AM Area 3        |                     |                     |
-|                             1                             |       41°10′        |       71°30′        |
-|                             2                             |       41°10′        |       71°10′        |
-|                             3                             |       41°00′        |       71°10′        |
-|                             4                             |       41°00′        |       71°20′        |
-|                             5                             |       40°50′        |       71°20′        |
-|                             6                             |       40°50′        |       71°30′        |
-|                             1                             |       41°10′        |       71°30′        |
-
-<sup>1</sup> The southernmost coastline of Long Island, NY, at 73°30′ W longitude.
-
-<sup>2</sup> The easternmost coastline of NJ at 40°20′ N latitude, then northward along the NJ coastline to Point 6.
-
-<sup>3</sup> The northernmost coastline of NJ at 73°58.5′ W longitude.
-
-<sup>4</sup> The southernmost coastline of Long Island, NY, at 73°58.5′ W longitude.
-
-<sup>5</sup> The approximate location of the southwest corner of the Rockaway Peninsula, Queens, NY, then eastward along the southernmost coastline of Long Island, NY (excluding South Oyster Bay), back to Point 1.
+|                                                                                                        Point                                                                                                        |     N latitude      |     W longitude     |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|---------------------|
+|                                                                            **Northern Windowpane Flounder and Ocean Pout Small AM Area**                                                                            |                     |                     |
+|                                                                                                          1                                                                                                          |       41°10′        |       67°40′        |
+|                                                                                                          2                                                                                                          |       41°10′        |       67°20′        |
+|                                                                                                          3                                                                                                          |       41°00′        |       67°20′        |
+|                                                                                                          4                                                                                                          |       41°00′        |       67°00′        |
+|                                                                                                          5                                                                                                          |       40°50′        |       67°00′        |
+|                                                                                                          6                                                                                                          |       40°50′        |       67°40′        |
+|                                                                                                          1                                                                                                          |       41°10′        |       67°40′        |
+|                                                                            **Northern Windowpane Flounder and Ocean Pout Large AM Area**                                                                            |                     |                     |
+|                                                                                                          1                                                                                                          |       42°10′        |       67°40′        |
+|                                                                                                          2                                                                                                          |       42°10′        |       67°20′        |
+|                                                                                                          3                                                                                                          |       41°00′        |       67°20′        |
+|                                                                                                          4                                                                                                          |       41°00′        |       67°00′        |
+|                                                                                                          5                                                                                                          |       40°50′        |       67°00′        |
+|                                                                                                          6                                                                                                          |       40°50′        |       67°40′        |
+|                                                                                                          1                                                                                                          |       42°10′        |       67°40′        |
+|                                                                            **Southern Windowpane Flounder and Ocean Pout Small AM Area**                                                                            |                     |                     |
+|                                                                                                          1                                                                                                          |       41°10′        |       71°30′        |
+|                                                                                                          2                                                                                                          |       41°10′        |       71°20′        |
+|                                                                                                          3                                                                                                          |       40°50′        |       71°20′        |
+|                                                                                                          4                                                                                                          |       40°50′        |       71°30′        |
+|                                                                                                          1                                                                                                          |       41°10′        |       71°30′        |
+|                                                                           **Southern Windowpane Flounder and Ocean Pout Large AM Area 1**                                                                           |                     |                     |
+|                                                                                                          1                                                                                                          |       41°10′        |       71°50′        |
+|                                                                                                          2                                                                                                          |       41°10′        |       71°10′        |
+|                                                                                                          3                                                                                                          |       41°00′        |       71°10′        |
+|                                                                                                          4                                                                                                          |       41°00′        |       71°20′        |
+|                                                                                                          5                                                                                                          |       40°50′        |       71°20′        |
+|                                                                                                          6                                                                                                          |       40°50′        |       71°50′        |
+|                                                                                                          1                                                                                                          |       41°10′        |       71°50′        |
+|                                                                           **Southern Windowpane Flounder and Ocean Pout Large AM Area 2**                                                                           |                     |                     |
+|                                                                                                          1                                                                                                          |   (<sup>1</sup>)    |       73°30′        |
+|                                                                                                          2                                                                                                          |       40°30′        |       73°30′        |
+|                                                                                                          3                                                                                                          |       40°30′        |       73°50′        |
+|                                                                                                          4                                                                                                          |       40°20′        |       73°50′        |
+|                                                                                                          5                                                                                                          |       40°20′        |   (<sup>2</sup>)    |
+|                                                                                                          6                                                                                                          |   (<sup>3</sup>)    |      73°58.5′       |
+|                                                                                                          7                                                                                                          |   (<sup>4</sup>)    |      73°58.5′       |
+|                                                                                                          8                                                                                                          |<sup>5</sup> 40°32.6′|<sup>5</sup> 73°56.4′|
+|                                                                                                          1                                                                                                          |   (<sup>1</sup>)    |       73°30′        |
+|                                                                                  **Southern Windowpane Flounder Large AM Area 3**                                                                                   |                     |                     |
+|                                                                                                          1                                                                                                          |       41°10′        |       71°30′        |
+|                                                                                                          2                                                                                                          |       41°10′        |       71°10′        |
+|                                                                                                          3                                                                                                          |       41°00′        |       71°10′        |
+|                                                                                                          4                                                                                                          |       41°00′        |       71°20′        |
+|                                                                                                          5                                                                                                          |       40°50′        |       71°20′        |
+|                                                                                                          6                                                                                                          |       40°50′        |       71°30′        |
+|                                                                                                          1                                                                                                          |       41°10′        |       71°30′        |
+|                                                                 <sup>1</sup> The southernmost coastline of Long Island, NY, at 73°30′ W longitude.                                                                  |                     |                     |
+|                                                <sup>2</sup> The easternmost coastline of NJ at 40°20′ N latitude, then northward along the NJ coastline to Point 6.                                                 |                     |                     |
+|                                                                       <sup>3</sup> The northernmost coastline of NJ at 73°58.5′ W longitude.                                                                        |                     |                     |
+|                                                                <sup>4</sup> The southernmost coastline of Long Island, NY, at 73°58.5′ W longitude.                                                                 |                     |                     |
+|<sup>5</sup> The approximate location of the southwest corner of the Rockaway Peninsula, Queens, NY, then eastward along the southernmost coastline of Long Island, NY (excluding South Oyster Bay), back to Point 1.|                     |                     |
 
 (*5*) *Reducing the size of an AM.* If the overall northern or southern windowpane flounder ACL is exceeded by more than 20 percent and NMFS determines that the stock is rebuilt, and the biomass criterion, as defined by the Council, is greater than the most recent fishing year's catch, then only the small AM may be implemented as described in this paragraph (a)(5)(i)(E), consistent with the Administrative Procedure Act. This provision applies to a limited access NE multispecies permitted vessel fishing on a NE multispecies DAS or sector trip, and to all vessels fishing with trawl gear with a codend mesh size equal to or greater than 5 inches (12.7 cm) in other, non-specified sub-components of the fishery, including, but not limited to, exempted fisheries that occur in Federal waters and fisheries harvesting exempted species specified in § 648.80(b)(3).
 
 (*6*) *Reducing the duration of an AM.* If the northern or southern windowpane flounder AM is implemented in the third fishing year following the year of an overage, as described in paragraph (a)(5)(i)(D) of this section, and NMFS subsequently determines that the applicable windowpane flounder ACL was not exceeded by any amount the year immediately after which the overage occurred (*i.e.,* the second year), on or after September 1 the AM can be removed once year-end data are complete. This reduced duration does not apply if NMFS determines during year 3 that a year 3 overage of the applicable windowpane flounder ACL has occurred. This provision applies to a limited access NE multispecies permitted vessel fishing on a NE multispecies DAS or sector trip, and to all vessels fishing with trawl gear with a codend mesh size equal to or greater than 5 inches (12.7 cm) in other, non-specified sub-components of the fishery, including, but not limited to, exempted fisheries that occur in Federal waters and fisheries harvesting exempted species specified in § 648.80(b)(3).
 
-(F) *Atlantic halibut.* If NMFS determines the overall ACL for Atlantic halibut is exceeded, as described in this paragraph (a)(5)(i)(F), by any amount greater than the management uncertainty buffer, the applicable AM areas shall be implemented and any vessel issued a Federal permit for any fishery management plan may not fish for, possess, or land Atlantic halibut for the fishing year in which the AM is implemented, as specified in paragraph (a)(5)(i)(F) of this section. Vessels issued only a charter/party permit, and/or an Atlantic highly migratory species angling permit, and/or an Atlantic highly migratory species charter/headboat permit are exempt from the AM. A vessel issued a permit that is not exempt from the AM in addition to an exempt permit may not fish for, possess, or land Atlantic halibut for the fishing year in which the AM is implemented. If the overall ACL is exceeded by more than 20 percent, the applicable AM area(s) for the stock shall be implemented, as specified in paragraph (a)(5)(i)(F) of this section, and the Council shall revisit the AM in a future action. The AM areas defined below are bounded by the following coordinates, connected in the order listed by rhumb lines, unless otherwise noted. Any vessel issued a limited access NE multispecies permit and fishing with trawl gear in the Atlantic Halibut Trawl Gear AM Area may only use a haddock separator trawl, as specified in § 648.85(a)(3)(iii)(A); a Ruhle trawl, as specified in § 648.85(b)(6)(iv)(J)(*3*); a rope separator trawl, as specified in § 648.84(e); or any other gear approved consistent with the process defined in § 648.85(b)(6); except that selective trawl gear is not required in the portion of the Trawl Gear AM Area between 41 degrees 40 minutes and 42 degrees from April 1 through July 31. When in effect, a limited access NE multispecies permitted vessel with gillnet gear may not fish or be in the Atlantic Halibut Fixed Gear AM Area from March 1 through October 31, unless transiting with its gear stowed and not available for immediate use as defined in § 648.2, or such gear was approved consistent with the process defined in § 648.85(b)(6). If a sub-ACL for Atlantic halibut is allocated to another fishery, consistent with the process specified at § 648.90(a)(4), and there are AMs for that fishery, the multispecies fishery AM shall only be implemented if the sub-ACL allocated to the multispecies fishery is exceeded (*i.e.,* the sector and common pool catch for a particular stock, including the common pool's share of any overage of the overall ACL caused by excessive catch by other sub-components of the fishery pursuant to § 648.90(a)(5), exceeds the common pool sub-ACL) and the overall ACL is also exceeded.
+(F) *Atlantic halibut.* If NMFS determines, as described in paragraph (a)(5)(i)(D) of this section, that the overall ACL for Atlantic halibut is exceeded by catch from U.S. Federal and state fisheries by any amount greater than the management uncertainty buffer and, after accounting for the amount of landings of Atlantic halibut from Canadian fisheries, as appropriate, that the total ABC for Atlantic halibut has also been exceeded, the applicable AM shall be implemented as described in paragraph (a)(5)(i)(F)(*1*) of this section. If a sub-ACL for Atlantic halibut is allocated to another fishery, consistent with the process specified at § 648.90(a)(4), and there are AMs for that fishery, the multispecies fishery AM shall only be implemented if the sub-ACL allocated to the multispecies fishery is exceeded (*i.e.,* the sector and common pool catch for a particular stock, including the common pool's share of any overage of the overall ACL caused by excessive catch by other sub-components of the fishery pursuant to § 648.90(a)(5), exceeds the common pool sub-ACL) and the overall ACL is also exceeded.
 
-Atlantic Halibut Trawl Gear AM Area
+(*1*) *Description of AM.* When the AM is implemented, any vessel issued a Federal permit for any fishery management plan may not fish for, possess, or land Atlantic halibut for the fishing year in which the AM is implemented, as specified in paragraph (a)(5)(i)(F) of this section, unless otherwise specified in paragraph (a)(5)(i)(F)(*2*) of this section. Additionally, the applicable AM areas, as defined in paragraph (a)(5)(i)(F)(*4*) of this section, shall be implemented as follows: Any vessel issued a limited access NE multispecies permit and fishing with trawl gear in the Atlantic Halibut Trawl Gear AM Area may only use a haddock separator trawl, as specified in § 648.85(a)(3)(iii)(A); a Ruhle trawl, as specified in § 648.85(b)(6)(iv)(J)(*3*); a rope separator trawl, as specified in § 648.84(e); or any other gear approved consistent with the process defined in § 648.85(b)(6), except that selective trawl gear is not required in the portion of the Trawl Gear AM Area between 41 degrees 40 minutes and 42 degrees from April 1 through July 31. When in effect, a limited access NE multispecies permitted vessel with gillnet gear may not fish or be in the Atlantic Halibut Fixed Gear AM Area from March 1 through October 31, unless transiting with its gear stowed and not available for immediate use as defined in § 648.2, or such gear was approved consistent with the process defined in § 648.85(b)(6).
 
-|Point|N latitude|W longitude|
-|-----|----------|-----------|
-|  1  |  42°00′  |  69°20′   |
-|  2  |  42°00′  |  68°20′   |
-|  3  |  41°30′  |  68°20′   |
-|  4  |  41°30′  |  69°20′   |
+(*2*) *Vessels exempt from the no possession AM.* Vessels issued only a charter/party permit, and/or an Atlantic highly migratory species angling permit, and/or an Atlantic highly migratory species charter/headboat permit are exempt from the no possession AM. This exemption does not apply to any vessel that is issued any other permit that is subject to the AM. For example, a vessel issued a Northeast multispecies charter/party permit and a bluefish charter/party permit would be exempt from the no possession AM, but a vessel issued a Northeast multispecies charter/party permit and a commercial bluefish permit would not be exempt from the no possession AM.
 
-Atlantic Halibut Gillnet Gear AM Area
+(*3*) *Review of the AM.* If the overall ACL is exceeded by more than 20 percent, the Council shall revisit the AM in a future action.
 
-|Point|N latitude|W longitude|
-|-----|----------|-----------|
-|  1  |  43°10′  |  69°40′   |
-|  2  |  43°10′  |  69°30′   |
-|  3  |  43°00′  |  69°30′   |
-|  4  |  43°00′  |  69°40′   |
+(*4*) *Atlantic halibut AM area.* The AM areas defined below are bounded by the following coordinates, connected in the order listed by rhumb lines, unless otherwise noted.
+
+|Atlantic halibut trawl gear AM area|          |           |
+|-----------------------------------|----------|-----------|
+|              Points               |N latitude|W longitude|
+|                 1                 |  42°00′  |  69°20′   |
+|                 2                 |  42°00′  |  68°20′   |
+|                 3                 |  41°30′  |  68°20′   |
+|                 4                 |  41°30′  |  69°20′   |
+
+|Atlantic halibut gillnet gear AM area|          |           |
+|-------------------------------------|----------|-----------|
+|               Points                |N latitude|W longitude|
+|                  1                  |  43°10′  |  69°40′   |
+|                  2                  |  43°10′  |  69°30′   |
+|                  3                  |  43°00′  |  69°30′   |
+|                  4                  |  43°00′  |  69°40′   |
 
 (G) *Atlantic wolffish.* If NMFS determines the overall ACL for Atlantic wolffish is exceeded, as described in this paragraph (a)(5)(i)(G), by any amount greater than the management uncertainty buffer, the applicable AM areas shall be implemented, as specified in this paragraph (a)(5)(i)(G). If the overall ACL is exceeded by more than 20 percent, the applicable AM area(s) for the stock shall be implemented, as specified in this paragraph (a)(5)(i)(G), and the Council shall revisit the AM in a future action. The AM areas defined below are bounded by the following coordinates, connected in the order listed by rhumb lines, unless otherwise noted. Any vessel issued a limited access NE multispecies permit and fishing with trawl gear in the Atlantic Wolffish Trawl Gear AM Area may only use a haddock separator trawl, as specified in § 648.85(a)(3)(iii)(A); a Ruhle trawl, as specified in § 648.85(b)(6)(iv)(J)(*3*); a rope separator trawl, as specified in § 648.84(e); or any other gear approved consistent with the process defined in § 648.85(b)(6). When in effect, a limited access NE multispecies permitted vessel with gillnet or longline gear may not fish or be in the Atlantic Wolffish Fixed Gear AM Areas, unless transiting with its gear stowed and not available for immediate use as defined in § 648.2, or such gear was approved consistent with the process defined in § 648.85(b)(6). If a sub-ACL for Atlantic wolffish is allocated to another fishery, consistent with the process specified at § 648.90(a)(4), and AMs are developed for that fishery, the multispecies fishery AM shall only be implemented if the sub-ACL allocated to the multispecies fishery is exceeded (*i.e.,* the sector and common pool catch for a particular stock, including the common pool's share of any overage of the overall ACL caused by excessive catch by other sub-components of the fishery pursuant to § 648.90(a)(5), exceeds the common pool sub-ACL) and the overall ACL is also exceeded.
-
-Atlantic Wolffish Trawl Gear AM Area
 
 |Point|N latitude|W longitude|
 |-----|----------|-----------|
@@ -234,16 +233,12 @@ Atlantic Wolffish Trawl Gear AM Area
 |  7  |  42°20′  |  70°20′   |
 |  8  |  42°20′  |  70°30′   |
 
-Atlantic Wolffish Fixed Gear AM Area 1
-
 |Point|N latitude|W longitude|
 |-----|----------|-----------|
 |  1  |  41°40′  |  69°40′   |
 |  2  |  41°40′  |  69°30′   |
 |  3  |  41°30′  |  69°30′   |
 |  4  |  41°30′  |  69°40′   |
-
-Atlantic Wolffish Fixed Gear AM Area 2
 
 |Point|N latitude|W longitude|
 |-----|----------|-----------|
@@ -268,7 +263,7 @@ Atlantic Wolffish Fixed Gear AM Area 2
 
 (A) *Threshold for implementing the Atlantic sea scallop fishery AMs.* If scallop fishery catch exceeds the scallop fishery sub-ACLs for any groundfish stocks in paragraph (a)(4) of this section by 50 percent or more, or if scallop fishery catch exceeds the scallop fishery sub-ACL by any amount and total catch exceeds the overall ACL for a given stock, then the applicable scallop fishery AM will take effect, as specified in § 648.64 of the Atlantic sea scallop regulations.
 
-(B) [Reserved]
+(B) *2024 and 2025 fishing year threshold for implementing the Atlantic sea scallop fishery AM for GB yellowtail flounder.* For the 2024 and 2025 fishing years, if scallop fishery catch exceeds the GB yellowtail flounder sub-ACL specified in paragraph (a)(4) of this section, and total catch exceeds the overall ACL for that stock, then the applicable scallop fishery AM will take effect, as specified in § 648.64 of the Atlantic sea scallop regulations. For the 2026 fishing year and onward, the threshold for implementing scallop fishery AMs for GB yellowtail flounder will return to that listed in paragraph (a)(5)(iv)(A) of this section.
 
 (v) *AM if the small-mesh fisheries GB yellowtail flounder sub-ACL is exceeded.* If NMFS determines that the sub-ACL of GB yellowtail flounder allocated to the small-mesh fisheries, pursuant to paragraph (a)(4)(iii)(G) of this section, is exceeded, NMFS shall implement the AM specified in this paragraph consistent with the Administrative Procedures Act. The AM requires that small-mesh fisheries vessels, as defined in paragraph (a)(4)(iii)(G)(*1*) of this section, use one of the following approved selective trawl gear in the GB yellowtail flounder stock area, as defined at § 648.85(b)(6)(v)(H): A haddock separator trawl, as specified in § 648.85(a)(3)(iii)(A); a Ruhle trawl, as specified in § 648.85(b)(6)(iv)(J)(*3*); a rope separator trawl, as specified in § 648.84(e); a large-mesh belly panel trawl, as specified in § 648.84(f); or any other gear approved consistent with the process defined in § 648.85(b)(6). If reliable information is available, the AM shall be implemented in the fishing year immediately following the year in which the overage occurred only if there is sufficient time to do so in a manner consistent with the Administrative Procedure Act. Otherwise, the AM shall be implemented in the second fishing year after the fishing year in which the overage occurred. For example, if NMFS determined after the start of Year 2 that the small-mesh fisheries sub-ACL for GB yellowtail flounder was exceeded in Year 1, the applicable AM would be implemented at the start of Year 3. If updated catch information becomes available subsequent to the implementation of an AM that indicates that an overage of the small-mesh fisheries sub-ACL did not occur, NMFS shall rescind the AM, consistent with the Administrative Procedure Act.
 

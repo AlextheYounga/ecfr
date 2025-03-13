@@ -1,5 +1,7 @@
 ##### § 4.4 Availability of records. #####
 
+Link to an amendment published at 89 FR 35687, May 2, 2024.
+
 (a) In accordance with 5 U.S.C. 552(a)(2), the Commission shall make the following materials available for public inspection and copying:
 
 (1) Statements of policy and interpretation which have been adopted by the Commission;

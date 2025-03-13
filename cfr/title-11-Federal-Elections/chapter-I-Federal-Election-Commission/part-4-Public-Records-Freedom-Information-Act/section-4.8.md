@@ -1,5 +1,7 @@
 ##### § 4.8 Appeal of denial. #####
 
+Link to an amendment published at 89 FR 35687, May 2, 2024.
+
 (a) Any person who has been notified pursuant to § 4.7(h) of this part that his/her request for inspection of a record or for a copy has been denied, or who has received no response within twenty working days (or within such extended period as is permitted under § 4.7(c) of this part) after the request has been received by the Commission, may appeal the adverse determination or the failure to respond by requesting the Commission to direct that the record be made available.
 
 (b) The appeal request shall be in writing, shall clearly and prominently state on the envelope or subject line, or in a similarly prominent location, “FOIA Appeal”, and shall identify the record in the form in which it was originally requested.

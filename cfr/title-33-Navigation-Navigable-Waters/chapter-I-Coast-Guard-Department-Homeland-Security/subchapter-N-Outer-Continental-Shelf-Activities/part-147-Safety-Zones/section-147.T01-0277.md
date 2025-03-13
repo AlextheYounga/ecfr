@@ -1,5 +1,7 @@
 ##### § 147.T01-0277 Safety Zones; Vineyard Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OCS-A 0501, Offshore Massachusetts, Atlantic Ocean. #####
 
+Link to an amendment published at 89 FR 35711, May 2, 2024.
+
 (a) *Description.* The area within 500-meters of the center point of the positions provided in the following table is a safety zone:
 
 Table 1 to Paragraph (a)

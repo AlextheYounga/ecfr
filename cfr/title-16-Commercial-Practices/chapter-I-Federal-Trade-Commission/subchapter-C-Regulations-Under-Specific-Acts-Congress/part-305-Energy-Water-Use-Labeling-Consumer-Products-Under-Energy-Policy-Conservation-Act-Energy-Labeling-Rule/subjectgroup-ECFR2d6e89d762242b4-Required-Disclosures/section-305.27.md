@@ -1,7 +1,5 @@
 ##### § 305.27 Paper catalogs and websites. #####
 
-Link to an amendment published at 89 FR 7269, Feb. 2, 2024.
-
 (a) *Covered products offered for sale on the Internet.* Any manufacturer, distributor, retailer, or private labeler who advertises a covered product on an Internet Web site in a manner that qualifies as a catalog under this Part shall disclose energy information as follows:
 
 (1) *Content.*—(i) *Products required to bear EnergyGuide or Lighting Facts labels.* All websites advertising covered refrigerators, refrigerator-freezers, freezers, room air conditioners, portable air conditioners, clothes washers, dishwashers, ceiling fans, pool heaters, water heaters, central air conditioners, heat pumps, furnaces, general service lamps, specialty consumer lamps (for products offered for sale after May 2, 2018), and televisions must display, for each model, a recognizable and legible image of the label required for that product by this part. The website may hyperlink to the image of the label using the sample EnergyGuide and Lighting Facts icons depicted in appendix L of this part. The website must hyperlink the image in a way that does not require consumers to save the hyperlinked image to view it.
@@ -28,7 +26,7 @@ Link to an amendment published at 89 FR 7269, Feb. 2, 2024.
 
 (E) *Ceiling fans.* All the information required by § 305.21.
 
-(F) *Televisions.* The estimated annual operating cost determined in accordance with this part and a disclosure stating “Your energy cost depends on your utility rates and use. The estimated cost is based on 12 cents per kWh and 5 hours of use per day. For more information, visit *www.ftc.gov/energy*.”
+(F) *Televisions.* The estimated annual operating cost determined in accordance with this part, and a disclosure stating “Your energy cost depends on your utility rates and use. The estimated cost is based on 16 cents per kWh and 5 hours of use per day. For more information, visit *www.ftc.gov/energy.”*
 
 (G) *Central air conditioners, heat pumps, and furnaces (including boilers), and pool heaters.* The capacity of the model determined in accordance with this part and the energy efficiency or thermal efficiency ratings determined in accordance with this part on each page that lists the covered product.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 89 FR 7269, Feb. 2, 2024.
 
 (2) *Format.* The required disclosures, whether text, label image, or icon, must appear clearly and conspicuously on each page that contains a detailed description of the covered product and its price. If a catalog displays an image of the full label, the size of the label may be altered to accommodate the catalog's design, as long as the label remains clear and conspicuous to consumers. For text disclosures made pursuant to § 305.27(b)(1)(i) and (ii), the required disclosure may be displayed once per page per type of product if the catalog offers multiple covered products of the same type on a page, as long as the disclosure remains clear and conspicuous.
 
-[78 FR 2209, Jan. 10, 2013, as amended at 80 FR 67300, Nov. 2, 2015; 82 FR 29236, June 28, 2017. Redesignated at 84 FR 58029, Oct. 30, 2019, as amended at 84 FR 58037, Oct. 30, 2019; 86 FR 9283, Feb. 12, 2021; 87 FR 61467, Oct. 12, 2022]
+[78 FR 2209, Jan. 10, 2013, as amended at 80 FR 67300, Nov. 2, 2015; 82 FR 29236, June 28, 2017. Redesignated at 84 FR 58029, Oct. 30, 2019, as amended at 84 FR 58037, Oct. 30, 2019; 86 FR 9283, Feb. 12, 2021; 87 FR 61467, Oct. 12, 2022; 89 FR 7269, Feb. 2, 2024]

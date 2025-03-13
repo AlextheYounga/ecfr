@@ -1,5 +1,7 @@
 ##### § 4.7 Requests for records. #####
 
+Link to an amendment published at 89 FR 35687, May 2, 2024.
+
 (a) [Reserved]
 
 (b)(1) Requests for copies of records pursuant to the Freedom of Information Act shall be addressed to the Chief FOIA Officer and filed pursuant to 11 CFR 100.19(g). The request shall reasonably describe the records sought with sufficient specificity with respect to names, dates, and subject matter, to permit the records to be located. A requester will be promptly advised if the records cannot be located on the basis of the description given and that further identifying information must be provided before the request can be satisfied.

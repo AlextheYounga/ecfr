@@ -1,5 +1,7 @@
 ##### § 4.9 Fees. #####
 
+Link to an amendment published at 89 FR 35687, May 2, 2024.
+
 (a) *Exceptions to fee charges*—(1) *General.* Except for a commercial use requester, the Commission will not charge a fee to any requester for the first two hours of search time and the first 100 pages of duplication in response to any FOIA request.
 
 (2) *Definition of pages.* For purposes of this paragraph, the word *pages* refers to paper copies of a standard agency size which will normally be 81/2″ × 11″ or 81/2″ × 14″. Thus, while a requester would not be entitled to 100 free digital storage devices, for example, a requester would be entitled to 100 free pages of a computer printout.
