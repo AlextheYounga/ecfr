@@ -1,5 +1,7 @@
 ##### § 4280.403 Definitions. #####
 
+Link to an amendment published at 88 FR 86570, Dec. 14, 2023.
+
 *Administrator.* The Administrator of RBS or designees or successors.
 
 *Agency.* Rural Business-Cooperative Service (RBS) or successor.

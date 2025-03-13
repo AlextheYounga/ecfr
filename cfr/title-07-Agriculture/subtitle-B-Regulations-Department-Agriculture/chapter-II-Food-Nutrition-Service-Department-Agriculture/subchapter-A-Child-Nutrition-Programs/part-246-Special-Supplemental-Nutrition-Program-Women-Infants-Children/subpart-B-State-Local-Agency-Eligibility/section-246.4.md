@@ -1,5 +1,7 @@
 ##### § 246.4 State plan. #####
 
+Link to an amendment published at 88 FR 86562, Dec. 14, 2023.
+
 (a) *Requirements.* By August 15 of each year, each State agency shall submit to FNS for approval a State Plan for the following fiscal year as a prerequisite to receiving funds under this section. The State agency may submit the State Plan in the format provided by FNS guidance. Alternatively, the State agency may submit the Plan in combination with other federally required planning documents or develop its own format, provided that the information required below is included. FNS requests advance notification that a State agency intends to use an alternative format. The State Plan shall be signed by the State designated official responsible for ensuring that the Program is operated in accordance with the State Plan. FNS will provide written approval or denial of a completed State Plan or amendment within 30 days of receipt. Within 15 days after FNS receives an incomplete Plan, FNS will notify the State agency that additional information is needed to complete the Plan. Any disapproval will be accompanied by a statement of the reasons for the disapproval. After receiving approval of the State Plan, each State agency shall only submit to FNS for approval substantive changes in the State Plan. A complete and approved Plan shall include:
 
 (1) An outline of the State agency's goals and objectives for improving Program operations, to include EBT and/or EBT implementation.

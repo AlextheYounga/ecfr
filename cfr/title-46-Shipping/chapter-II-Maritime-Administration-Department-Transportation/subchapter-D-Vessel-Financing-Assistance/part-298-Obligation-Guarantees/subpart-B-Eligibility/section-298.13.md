@@ -1,5 +1,7 @@
 ##### § 298.13 Financial requirements. #####
 
+Link to an amendment published at 88 FR 86611, Dec. 14, 2023.
+
 (a) *In general.* To be eligible for guarantees, you and/or your parent organization (when applicable), and any other participants in the project having a significant financial or contractual relationship with you must submit information, respectively, on their financial condition. You must submit this information at the time of the application. You must supplement this information if we require it in subsequent requests. You must submit information satisfactory to us to show that financial resources are available to support the Title XI project.
 
 (b) *Cost of the project.* You must submit the following cost information with respect to the project:

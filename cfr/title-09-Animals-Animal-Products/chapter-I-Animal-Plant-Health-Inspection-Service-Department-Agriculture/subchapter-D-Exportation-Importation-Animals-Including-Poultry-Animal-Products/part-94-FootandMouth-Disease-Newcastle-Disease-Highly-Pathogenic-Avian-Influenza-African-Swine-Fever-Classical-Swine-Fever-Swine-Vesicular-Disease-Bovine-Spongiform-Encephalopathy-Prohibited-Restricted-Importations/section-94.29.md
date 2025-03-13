@@ -1,16 +1,14 @@
 ##### § 94.29 Restrictions on importation of fresh (chilled or frozen) beef and ovine meat from specified regions. #####
 
-Link to an amendment published at 88 FR 77888, Nov. 14, 2023.
-
-Notwithstanding any other provisions of this part, fresh (chilled or frozen) beef from a region in Argentina located north of Patagonia South and Patagonia North B, referred to as Northern Argentina (the region sometimes referred to as Patagonia North A is included in Northern Argentina); fresh (chilled or frozen) beef from a region in Brazil composed of the States of Bahia, Distrito Federal, Espírito Santo, Goiás, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Paraná, Rio Grande do Sul, Rio de Janeiro, Rondônia, São Paulo, Sergipe, and Tocantins; and fresh (chilled or frozen) beef and ovine meat from Uruguay may be exported to the United States under the following conditions:
+Notwithstanding any other provisions of this part, fresh (chilled or frozen) beef from a region in Argentina located north of Patagonia South and Patagonia North B, referred to as Northern Argentina (the region sometimes referred to as Patagonia North A is included in Northern Argentina); fresh (chilled or frozen) beef from a region in Brazil composed of the States of Bahia, Distrito Federal, Espírito Santo, Goiás, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Paraná, Rio Grande do Sul, Rio de Janeiro, Rondônia, São Paulo, Sergipe, and Tocantins; fresh (chilled or frozen) beef from Paraguay; and fresh (chilled or frozen) beef and ovine meat from Uruguay may be exported to the United States under the following conditions:
 
 (a) The meat is:
 
-(1) Beef from animals that have been born, raised, and slaughtered in the exporting regions of Argentina or Brazil; or
+(1) Beef from animals that have been born, raised, and slaughtered in the exporting regions of Argentina or Brazil or in Paraguay; or
 
 (2) Beef or ovine meat from Uruguay derived from animals that have been born, raised, and slaughtered in Uruguay.
 
-(b) Foot-and-mouth disease has not been diagnosed in the exporting region of Argentina (for beef from Argentina), the exporting region of Brazil (for beef from Brazil), or in Uruguay (for beef or ovine meat from Uruguay) within the previous 12 months.
+(b) Foot-and-mouth disease has not been diagnosed in the exporting region of Argentina (for beef from Argentina), the exporting region of Brazil (for beef from Brazil), in Paraguay (for beef from Paraguay), or in Uruguay (for beef or ovine meat from Uruguay) within the previous 12 months.
 
 (c) The meat comes from bovines or sheep that originated from premises where foot-and-mouth disease has not been present during the lifetime of any bovines and sheep slaughtered for the export of beef and ovine meat to the United States.
 
@@ -42,4 +40,4 @@ Notwithstanding any other provisions of this part, fresh (chilled or frozen) bee
 
 (k) The establishment in which the bovines and sheep are slaughtered allows periodic on-site evaluation and subsequent inspection of its facilities, records, and operations by an APHIS representative.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0372, 0579-0414, 0579-0428, and 0579-0449)[80 FR 37952, July 2, 2015, as amended at 82 FR 6212, Jan. 19, 2017; 82 FR 42732, Sept. 12, 2017]
+(Approved by the Office of Management and Budget under control numbers 0579-0372, 0579-0414, 0579-0428, 0579-0449, and 0579-0487)[80 FR 37952, July 2, 2015, as amended at 82 FR 6212, Jan. 19, 2017; 82 FR 42732, Sept. 12, 2017; 88 FR 77888, Nov. 14, 2023]

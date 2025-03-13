@@ -1,5 +1,7 @@
 ##### § 246.16a Infant formula and authorized foods cost containment. #####
 
+Link to an amendment published at 88 FR 86562, Dec. 14, 2023.
+
 (a) *Who must use cost containment procedures for infant formula?* All State agencies must continuously operate a cost containment system for infant formula that is implemented in accordance with this section except:
 
 (1) State agencies with home delivery or direct distribution food delivery systems;

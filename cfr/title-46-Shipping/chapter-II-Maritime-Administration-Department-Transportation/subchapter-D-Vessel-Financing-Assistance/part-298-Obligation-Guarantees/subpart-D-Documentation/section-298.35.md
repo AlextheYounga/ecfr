@@ -1,5 +1,7 @@
 ##### § 298.35 Title XI Reserve Fund and Financial Agreement. #####
 
+Link to an amendment published at 88 FR 86612, Dec. 14, 2023.
+
 (a) *Purpose.* In order to provide us with further security and to ensure payment of the interest and principal due on the Obligations, we will require the Company to enter into a Title XI Reserve Fund and Financial Agreement (Agreement) at the first Closing at which the Company issues Obligations. We may waive or modify provisions of the Agreement based on our evaluation of the aggregate security for the Guarantees.
 
 (b) *Financial covenants.* There will be two sets of covenants. One set of covenants will be imposed regardless of the Company's financial condition (primary covenants). The other set of covenants will be imposed only if the Company does not meet specific financial conditions (supplemental covenants). The primary and supplemental covenants are to be set forth in the Agreement. Covenants shall be imposed on the Company as follows:
