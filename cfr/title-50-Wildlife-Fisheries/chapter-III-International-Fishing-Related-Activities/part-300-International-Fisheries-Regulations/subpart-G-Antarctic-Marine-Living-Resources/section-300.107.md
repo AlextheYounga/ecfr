@@ -1,5 +1,7 @@
 ##### § 300.107 Vessel permits and requirements. #####
 
+Link to an amendment published at 89 FR 20138, Mar. 21, 2024.
+
 (a) *General.* In addition to the High Seas Fishing Permit requirements at 50 CFR part 300, subpart R:
 
 (1) Every vessel of the United States that attempts to harvest or harvests any AMLR must have a vessel permit authorizing the harvest issued under this subpart, unless the attempt or harvest occurs during recreational fishing or is covered by an individual permit. Boats launched from a vessel issued a vessel permit do not require a separate permit, but are covered by the permit issued to the launching vessel. Any enforcement action that results from the activities of a launched boat will be taken against the owner and operator of the launching vessel.

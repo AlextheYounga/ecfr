@@ -1,5 +1,7 @@
 ##### § 300.113 CCAMLR Ecosystem Monitoring Program sites. #####
 
+Link to an amendment published at 89 FR 20138, Mar. 21, 2024.
+
 (a) *General.* (1) Any person subject to the jurisdiction of the United States must apply for and be granted an entry permit authorizing specific activities prior to entering a CCAMLR Ecosystem Monitoring Program (CEMP) site designated in accordance with the CCAMLR conservation measure describing the procedure for according protection for CEMP sites.
 
 (2) If a CEMP site is also a site specially protected under the Antarctic Treaty (or the Protocol on Environmental Protection to the Antarctic Treaty and its Annexes, such as the sites listed in 45 CFR 670.29), an applicant seeking to enter such site must apply to the Director of the NSF for a permit under applicable provisions of the ACA or any superseding legislation. The permit granted by NSF shall constitute a joint CEMP/ACA Protected Site permit and any person holding such a permit must comply with the appropriate CEMP site management plan. In all other cases, an applicant seeking a permit to enter a CEMP site must apply to the Assistant Administrator for a CEMP permit in accordance with the provisions of this section.

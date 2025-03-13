@@ -1,5 +1,7 @@
 ##### § 300.105 Preapproval for importation of frozen Dissostichus species. #####
 
+Link to an amendment published at 89 FR 20137, Mar. 21, 2024.
+
 (a) A NMFS-issued preapproval certificate is required to import each shipment of frozen *Dissostichus* species.
 
 (b) *Application.* Application forms for a preapproval certificate are available from NMFS Headquarters and the National Seafood Inspection Laboratory. With the exception of the U.S. Customs 7501 entry number, a complete and accurate application must be received by NMFS for each preapproval certificate at least 10 working days before the anticipated date of the importation. Dealers must supply the U.S. Customs 7501 entry number at least three working days prior to the expected arrival of a shipment of frozen *Dissostichus* species at a U.S. port.

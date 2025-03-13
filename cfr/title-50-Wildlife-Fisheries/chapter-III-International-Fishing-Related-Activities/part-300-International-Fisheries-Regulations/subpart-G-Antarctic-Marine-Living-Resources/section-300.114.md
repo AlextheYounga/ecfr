@@ -1,5 +1,7 @@
 ##### § 300.114 Prohibitions. #####
 
+Link to an amendment published at 89 FR 20138, Mar. 21, 2024.
+
 In addition to the prohibitions in § 300.4, it is unlawful for any person to:
 
 (a) Harvest any AMLR without a permit for such activity as required by § 300.107.

@@ -1,5 +1,7 @@
 ##### § 64.606 Internet-based TRS provider and TRS program certification. #####
 
+Link to an amendment published at 89 FR 20133, Mar. 21, 2024.
+
 (a) *Documentation*—(1) *Certified state program.* Any state, through its office of the governor or other delegated executive office empowered to provide TRS, desiring to establish a state program under this section shall submit documentation to the Commission addressed to the Federal Communications Commission, Chief, Consumer and Governmental Affairs Bureau, TRS Certification Program, Washington, DC 20554, and captioned “TRS State Certification Application.” All documentation shall be submitted in narrative form, shall clearly describe the state program for implementing intrastate TRS, and the procedures and remedies for enforcing any requirements imposed by the state program. The Commission shall give public notice of state applications for certification.
 
 (2) *Internet-based TRS provider.* Any entity desiring to provide Internet-based TRS and to receive compensation from the Interstate TRS Fund, shall submit documentation to the Commission addressed to the Federal Communications Commission, Chief, Consumer and Governmental Affairs Bureau, TRS Certification Program, Washington, DC 20554, and captioned “Internet-based TRS Certification Application.” The documentation shall include, in narrative form:

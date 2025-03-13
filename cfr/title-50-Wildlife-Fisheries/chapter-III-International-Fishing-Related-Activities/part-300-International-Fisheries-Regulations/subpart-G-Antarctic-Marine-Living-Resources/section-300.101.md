@@ -1,5 +1,7 @@
 ##### § 300.101 Definitions. #####
 
+Link to an amendment published at 89 FR 20137, Mar. 21, 2024.
+
 In addition to the terms defined in § 300.2, in the Act, and in the Convention on the Conservation of Antarctic Marine Living Resources, done at Canberra, Australia, May 7, 1980 (Convention) the terms used in this subpart have the following meanings for purposes of this subpart. If a term is defined differently in § 300.2, than in the Act, or Convention, the definition in this section shall apply.
 
 *ACA* means the Antarctic Conservation Act of 1978 (16 U.S.C. 2401, *et seq.*).

@@ -1,5 +1,7 @@
 ##### § 300.115 Facilitation of enforcement and inspection. #####
 
+Link to an amendment published at 89 FR 20138, Mar. 21, 2024.
+
 In addition to the facilitation of enforcement provisions of § 300.5, the following requirements apply to this subpart.
 
 (a) *Access and records.* (1) The owners and operator of each harvesting vessel must provide authorized officers and CCAMLR inspectors access to all spaces where work is conducted or business papers and records are prepared or stored, including but not limited to personal quarters and areas within personal quarters. If inspection of a particular area would interfere with specific on-going scientific research, and if the operator of the harvesting vessel makes such assertion and produces an individual permit that covers that specific research, the authorized officer or CCAMLR inspector will not disturb the area, but will record the information pertaining to the denial of access.

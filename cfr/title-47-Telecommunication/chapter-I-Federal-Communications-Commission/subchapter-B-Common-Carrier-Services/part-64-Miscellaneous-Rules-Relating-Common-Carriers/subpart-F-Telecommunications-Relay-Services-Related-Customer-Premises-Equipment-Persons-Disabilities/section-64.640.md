@@ -1,5 +1,7 @@
 ##### § 64.640 Compensation for IP Relay. #####
 
+Link to an amendment published at 89 FR 20133, Mar. 21, 2024.
+
 (a) For the period from July 1, 2022, through June 30, 2026, TRS Fund compensation for the provision of IP Relay shall be as described in this section.
 
 (b) For Fund Year 2022-23, comprising the period from July 1, 2022, through June 30, 2023, the Compensation Level for IP Relay shall be $1.9576 per minute.

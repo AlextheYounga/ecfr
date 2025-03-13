@@ -1,5 +1,7 @@
 ##### § 300.106 Catch Documentation Scheme (CDS): Documentation and other requirements. #####
 
+Link to an amendment published at 89 FR 20137, Mar. 21, 2024.
+
 (a) *General.* (1) CCAMLR CDS document(s) must accompany all shipments of *Dissostichus* species as required in this section.
 
 (2) No shipment of *Dissostichus* species shall be released for entry into the United States unless accompanied by an accurate, complete, valid and validated CCAMLR CDS document.

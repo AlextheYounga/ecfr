@@ -18,7 +18,7 @@
 
 (iv) Shipped as cargo for which Electronic Export Information (EEI) is filed to the Automated Export System (AES) in accordance with the requirements of the Foreign Trade Regulations (FTR) (15 CFR part 30), except EEI is not required to be filed when any of the commodities, other than fuel, is exported by U.S. airlines to their own aircraft abroad for their own use, see 15 CFR 30.37(o) of the FTR.
 
-(2) *Exports to U.S. or Canadian Airline's Installation or Agent.* Exports, reexports, and transfers (in-country) of the commodities described in paragraph (e) of this section, except fuel, may be made to a U.S. or Canadian airline's installation or agent in any foreign destination except Country Group D:1 (excluding the PRC), (see supplement no. 1 to part 740) provided such commodities are all of the following:
+(2) *Exports, reexports, and transfers (in-country) to U.S. or Canadian Airline's Installation or Agent.* Exports, reexports, and transfers (in-country) of the commodities described in paragraph (e) of this section, except fuel, may be made to a U.S. or Canadian airline's installation or agent in any foreign destination except Country Group D:1 (excluding the PRC), (see supplement no. 1 to part 740) provided such commodities are all of the following:
 
 (i) Ordered by a U.S. or Canadian airline and consigned to its own installation or agent abroad;
 
@@ -44,4 +44,4 @@
 
 (vii) Equipment and spare parts.
 
-[61 FR 12802, Mar. 25, 1996, as amended at 65 FR 38160, June 19, 2000; 68 FR 50472, Aug. 21, 2003; 70 FR 67348, Nov. 7, 2005; 79 FR 4616, Jan. 29, 2014; 81 FR 29486, May 12, 2016; 88 FR 12181, Feb. 27, 2023]
+[61 FR 12802, Mar. 25, 1996, as amended at 65 FR 38160, June 19, 2000; 68 FR 50472, Aug. 21, 2003; 70 FR 67348, Nov. 7, 2005; 79 FR 4616, Jan. 29, 2014; 81 FR 29486, May 12, 2016; 88 FR 12181, Feb. 27, 2023; 89 FR 20115, Mar. 21, 2024]
