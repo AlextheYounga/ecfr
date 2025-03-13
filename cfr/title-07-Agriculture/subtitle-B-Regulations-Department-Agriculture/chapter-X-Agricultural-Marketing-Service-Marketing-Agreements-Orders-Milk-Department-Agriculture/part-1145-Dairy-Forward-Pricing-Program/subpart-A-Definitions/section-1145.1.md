@@ -1,12 +1,10 @@
 ##### § 1145.1 Definitions. #####
 
-Link to an amendment published at 89 FR 12950, Feb. 21, 2024.
-
 (a) *Program* means the dairy forward pricing program as established by Section 1502 of Public Law No. 110-246.
 
 (b) *Eligible milk* means the quantity of milk equal to the contracting handler's Class II, III and IV utilization of producer milk, in product pounds, during the month, combining all plants of a single handler regulated under the same Federal milk marketing order.
 
-(c) *Forward contract* means an agreement covering the terms and conditions for the sale of Class II, III or IV milk from a producer defined in 7 CFR 1001.12, 1005.12, 1006.12, 1007.12, 1030.12, 1032.12, 1033.12, 1124.12, 1126.12, 1131.12 or a cooperative association of producers defined in 7 CFR 1000.18, and a handler defined in 7 CFR 1000.9.
+(c) *Forward contract* means an agreement covering the terms and conditions for the sale of Class II, III or IV milk from a producer defined in 7 CFR 1001.12, 1005.12, 1006.12, 1007.12, 1030.12, 1032.12, 1033.12, 1051.12, 1124.12, 1126.12, 1131.12 or a cooperative association of producers defined in 7 CFR 1000.18, and a handler defined in 7 CFR 1000.9.
 
 (d) *Contract milk* means the producer milk regulated under a Federal milk marketing order covered by a forward contract.
 
@@ -21,3 +19,5 @@ I am voluntarily entering into a forward contract with [insert handler's name]. 
 Printed Name:Signature:Date:Address:Producer Number:
 
 (f) *Other definitions.* The definition of any term in parts 1000-1131 of this chapter apply to, and are hereby made a part of this part, as appropriate.
+
+[73 FR 64871, Oct. 31, 2008, as amended at 89 FR 12950, Feb. 21, 2024]

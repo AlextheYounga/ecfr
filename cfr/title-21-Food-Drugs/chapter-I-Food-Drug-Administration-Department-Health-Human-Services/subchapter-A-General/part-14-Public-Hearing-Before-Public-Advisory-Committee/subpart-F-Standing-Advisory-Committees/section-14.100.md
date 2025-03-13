@@ -126,6 +126,12 @@ Standing advisory committees and the dates of their establishment are as follows
 
 (ii) Function: Provides advice to the Commissioner on complex issues relating to medical devices, the regulation of devices, and their use by patients. Agency guidance and policies, clinical trial or registry design, patient preference study design, benefit-risk determinations, device labeling, unmet clinical needs, available alternatives, patient reported outcomes, and device-related quality of life or health status issues are among the topics that may be considered by the Committee. The Committee provides relevant skills and perspectives in order to improve communication of benefits, risks, and clinical outcomes, and increase integration of patient perspectives into the regulatory process for medical devices. It performs its duties by identifying new approaches, promoting innovation, recognizing unforeseen risks or barriers, and identifying unintended consequences that could result from FDA policy.
 
+(6) Digital Health Advisory Committee.
+
+(i) Date established: October 11, 2023.
+
+(ii) Function: Advises the Commissioner of Food and Drugs or designee in discharging responsibilities as they relate to ensuring that digital health technologies (DHTs) intended for use as a stand-alone medical product, as part of a medical product, or as a companion, complement, or adjunct to a medical product are safe and effective for human use.
+
 (e) *National Center for Toxicological Research*—*Science Advisory Board.* (1) Date established: June 2, 1973.
 
 (2) Function: Advises on establishment and implementation of a research program that will assist the Commissioner of Food and Drugs to fulfill regulatory responsibilities.
