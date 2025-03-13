@@ -1,5 +1,7 @@
 ##### § 302-17.44 What if I incur income tax liability to the Commonwealth of Puerto Rico? #####
 
+Link to an amendment published at 89 FR 12256, Feb. 16, 2024.
+
 A Federal employee who is relocated to or from a point, or between points, in the Commonwealth of Puerto Rico may be subject to income tax by both the Federal Government and the government of Puerto Rico. However, under current Puerto Rico law, an employee receives a credit on his/her Puerto Rico income tax for the amount of taxes paid to the Federal Government. Therefore:
 
 (a) If the applicable Puerto Rico marginal tax rate, as shown in the tables provided by the Commonwealth of Puerto Rico, is *equal to or lower* than the applicable Federal marginal tax rate, then your agency uses the Federal marginal tax rates and the formula in § 302-17.40(c) in calculating your CMTR.

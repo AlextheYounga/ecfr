@@ -1,5 +1,7 @@
 ##### § 301-70.907 What information must we report on the use of Government aircraft to carry senior Federal officials and non-Federal travelers and when must it be reported? #####
 
+Link to an amendment published at 89 FR 12252, Feb. 16, 2024.
+
 You must report on a semi-annual basis to the General Services Administration (GSA) information about Senior Federal officials and non-Federal travelers who fly aboard your aircraft. The reporting periods are October 1 through March 31 and April 1 through September 30 of each fiscal year. A report is due to GSA not later than 30 calendar days after the close of each reporting period and must contain the following information:
 
 (a) The person's name with indication that he/she is either a senior Federal official or a non-Federal traveler, whichever is appropriate.

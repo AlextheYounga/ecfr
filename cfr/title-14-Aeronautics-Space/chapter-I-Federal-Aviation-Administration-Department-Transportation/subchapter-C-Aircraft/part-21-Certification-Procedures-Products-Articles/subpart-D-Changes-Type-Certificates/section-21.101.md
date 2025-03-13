@@ -1,5 +1,7 @@
 ##### § 21.101 Designation of applicable regulations. #####
 
+Link to an amendment published at 89 FR 12653, Feb. 16, 2024.
+
 (a) An applicant for a change to a type certificate must show that the change and areas affected by the change comply with the airworthiness requirements applicable to the category of the product in effect on the date of the application for the change and with parts 34 and 36 of this chapter. Exceptions are detailed in paragraphs (b) and (c) of this section.
 
 (b) Except as provided in paragraph (g) of this section, if paragraphs (b)(1), (2), or (3) of this section apply, an applicant may show that the change and areas affected by the change comply with an earlier amendment of a regulation required by paragraph (a) of this section, and of any other regulation the FAA finds is directly related. However, the earlier amended regulation may not precede either the corresponding regulation included by reference in the type certificate, or any regulation in §§ 25.2, 27.2, or 29.2 of this chapter that is related to the change. The applicant may show compliance with an earlier amendment of a regulation for any of the following:

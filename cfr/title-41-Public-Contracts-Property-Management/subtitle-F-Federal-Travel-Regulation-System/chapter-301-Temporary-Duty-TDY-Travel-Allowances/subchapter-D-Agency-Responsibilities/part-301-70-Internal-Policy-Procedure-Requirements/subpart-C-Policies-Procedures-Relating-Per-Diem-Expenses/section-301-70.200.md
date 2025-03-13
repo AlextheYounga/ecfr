@@ -1,5 +1,7 @@
 ##### § 301-70.200 What governing policies must we establish for authorization and payment of per diem expenses? #####
 
+Link to an amendment published at 89 FR 12252, Feb. 16, 2024.
+
 You must establish policies and procedures governing:
 
 (a) Who will authorize a rest period;

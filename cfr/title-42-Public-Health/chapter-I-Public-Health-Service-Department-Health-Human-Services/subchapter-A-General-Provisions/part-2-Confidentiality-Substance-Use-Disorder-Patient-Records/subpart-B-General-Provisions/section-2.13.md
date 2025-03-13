@@ -1,5 +1,7 @@
 ##### § 2.13 Confidentiality restrictions and safeguards. #####
 
+Link to an amendment published at 89 FR 12621, Feb. 16, 2024.
+
 (a) *General.* The patient records subject to the regulations in this part may be disclosed or used only as permitted by the regulations in this part and may not otherwise be disclosed or used in any civil, criminal, administrative, or legislative proceedings conducted by any federal, state, or local authority. Any disclosure made under the regulations in this part must be limited to that information which is necessary to carry out the purpose of the disclosure.
 
 (b) *Unconditional compliance required.* The restrictions on disclosure and use in the regulations in this part apply whether or not the part 2 program or other lawful holder of the patient identifying information believes that the person seeking the information already has it, has other means of obtaining it, is a law enforcement agency or official or other government official, has obtained a subpoena, or asserts any other justification for a disclosure or use which is not permitted by the regulations in this part.

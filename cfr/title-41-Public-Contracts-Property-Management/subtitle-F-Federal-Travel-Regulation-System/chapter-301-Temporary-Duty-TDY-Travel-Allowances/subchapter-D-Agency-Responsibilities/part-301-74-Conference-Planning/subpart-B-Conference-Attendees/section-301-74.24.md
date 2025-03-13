@@ -1,5 +1,7 @@
 ##### § 301-74.24 What is the traveler required to do if he/she is unable to attend an event for which they were reimbursed for an advanced discounted payment of a conference or training registration fee? #####
 
+Link to an amendment published at 89 FR 12253, Feb. 16, 2024.
+
 In all cases where a traveler is unable to attend an event for which a discounted registration fee was paid and reimbursed in advance of the event, the traveler must seek a refund of the registration fee and repay the agency with any refund received. If no refund is made, the agency must absorb the advanced payment if the traveler's failure to attend the event was caused either by an agency decision or for reasons beyond the employee's control that are acceptable to the agency, e.g., unforeseen illness or emergency. If no refund is made, and the traveler's failure to attend the scheduled event is due to reasons deemed unexcusable by the agency, the traveler must repay the agency for the amount advanced.
 
 [FTR Amdt. 2006-02, 71 FR 24598, Apr. 26, 2006. Redesignated by FTR Amdt. 2013-01, 78 FR 65212, Oct. 31, 2013]

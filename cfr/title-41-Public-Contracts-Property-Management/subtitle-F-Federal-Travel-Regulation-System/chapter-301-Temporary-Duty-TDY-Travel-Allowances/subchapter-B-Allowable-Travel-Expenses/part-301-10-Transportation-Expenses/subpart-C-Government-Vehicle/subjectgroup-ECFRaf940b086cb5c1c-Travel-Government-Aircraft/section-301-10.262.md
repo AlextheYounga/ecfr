@@ -1,5 +1,7 @@
 ##### § 301-10.262 How will my agency authorize travel on Government aircraft? #####
 
+Link to an amendment published at 89 FR 12251, Feb. 16, 2024.
+
 Your agency will authorize your travel on Government aircraft as follows:
 
 (a) *Required use travelers.* Your agency's senior legal official or his/her principal deputy must authorize your required-use travel on a trip-by-trip basis, in advance, in writing, and in compliance with the agency's written policies describing the special circumstances under which the agency will require a traveler to use Government aircraft, unless—

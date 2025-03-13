@@ -1,5 +1,7 @@
 ##### § 302-2.103 How must we administer the authorization for relocation of an employee? #####
 
+Link to an amendment published at 89 FR 12254, Feb. 16, 2024.
+
 To administer the authorization for relocation of an employee, you must:
 
 (a) Issue an employee a TA for relocation before he/she transfers to his/her new official station;

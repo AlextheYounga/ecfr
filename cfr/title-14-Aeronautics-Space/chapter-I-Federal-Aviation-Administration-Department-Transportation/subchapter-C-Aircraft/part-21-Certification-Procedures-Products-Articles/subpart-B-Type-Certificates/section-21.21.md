@@ -1,5 +1,7 @@
 ##### § 21.21 Issue of type certificate: normal, utility, acrobatic, commuter, and transport category aircraft; manned free balloons; special classes of aircraft; aircraft engines; propellers. #####
 
+Link to an amendment published at 89 FR 12653, Feb. 16, 2024.
+
 An applicant is entitled to a type certificate for an aircraft in the normal, utility, acrobatic, commuter, or transport category, or for a manned free balloon, special class of aircraft, or an aircraft engine or propeller, if—
 
 (a) The product qualifies under § 21.27; or

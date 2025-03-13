@@ -1,5 +1,7 @@
 ##### § 21.5 Airplane or Rotorcraft Flight Manual. #####
 
+Link to an amendment published at 89 FR 12653, Feb. 16, 2024.
+
 (a) With each airplane or rotorcraft not type certificated with an Airplane or Rotorcraft Flight Manual and having no flight time before March 1, 1979, the holder of a type certificate (including amended or supplemental type certificates) or the licensee of a type certificate must make available to the owner at the time of delivery of the aircraft a current approved Airplane or Rotorcraft Flight Manual.
 
 (b) The Airplane or Rotorcraft Flight Manual required by paragraph (a) of this section must contain the following information:

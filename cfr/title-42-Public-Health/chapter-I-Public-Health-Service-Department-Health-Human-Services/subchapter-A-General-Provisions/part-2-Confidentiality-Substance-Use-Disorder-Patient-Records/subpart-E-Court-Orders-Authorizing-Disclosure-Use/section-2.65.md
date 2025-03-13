@@ -1,5 +1,7 @@
 ##### § 2.65 Procedures and criteria for orders authorizing disclosure and use of records to criminally investigate or prosecute patients. #####
 
+Link to an amendment published at 89 FR 12629, Feb. 16, 2024.
+
 (a) *Application.* An order authorizing the disclosure or use of patient records to investigate or prosecute a patient in connection with a criminal proceeding may be applied for by the person holding the records or by any law enforcement or prosecutorial officials who are responsible for conducting investigative or prosecutorial activities with respect to the enforcement of criminal laws. The application may be filed separately, as part of an application for a subpoena or other compulsory process, or in a pending criminal action. An application must use a fictitious name such as John Doe, to refer to any patient and may not contain or otherwise disclose patient identifying information unless the court has ordered the record of the proceeding sealed from public scrutiny.
 
 (b) *Notice and hearing.* Unless an order under § 2.66 is sought in addition to an order under this section, the person holding the records must be provided:

@@ -1,5 +1,7 @@
 ##### § 302-11.404 What controls must we establish for paying allowances for expenses incurred in connection with residence transactions? #####
 
+Link to an amendment published at 89 FR 12256, Feb. 16, 2024.
+
 When paying allowances for expenses incurred in connection with residence transactions, you must:
 
 (a) Determine who will authorize and approve residence transactions expenses on the employee's travel authorization;

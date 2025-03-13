@@ -1,5 +1,7 @@
 ##### § 302-6.303 What factors should we consider in determining whether the TQSE allowance is actually necessary? #####
 
+Link to an amendment published at 89 FR 12255, Feb. 16, 2024.
+
 The factors you should consider include:
 
 (a) *The length of time the employee should reasonably be expected to occupy his/her residence at the old official station prior to reporting for duty at the new official station.* An employee and his/her immediate family should continue to occupy the residence at the old official station for as long as practicable to avoid the necessity for temporary quarters.

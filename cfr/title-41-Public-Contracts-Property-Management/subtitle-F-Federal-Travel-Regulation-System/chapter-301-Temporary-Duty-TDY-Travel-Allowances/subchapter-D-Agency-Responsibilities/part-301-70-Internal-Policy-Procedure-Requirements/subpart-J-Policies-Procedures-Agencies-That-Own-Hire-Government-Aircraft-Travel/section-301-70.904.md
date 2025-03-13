@@ -1,3 +1,5 @@
 ##### § 301-70.904 Must travelers whom we carry on Government aircraft be authorized to travel? #####
 
+Link to an amendment published at 89 FR 12252, Feb. 16, 2024.
+
 Yes, every traveler on one of your aircraft must have a written travel authorization from an authorizing executive agency, and he/she must present that authorization, before the flight, to the aircraft management office or its representative in the organization that owns or hires the Government aircraft. In addition to all passengers, those crewmembers and qualified non-crewmembers on a flight in which they are also traveling (*i.e.,* being transported from point to point) are considered travelers and must also be authorized to travel on Government aircraft.

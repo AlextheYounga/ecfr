@@ -1,5 +1,7 @@
 ##### § 301-70.803 How must we authorize travel on a Government aircraft? #####
 
+Link to an amendment published at 89 FR 12252, Feb. 16, 2024.
+
 You must authorize travel on a Government aircraft as follows:
 
 (a) *For required-use travel.* Your agency must first establish written standards for determining the special circumstances under which it will require travelers to use Government aircraft. Then, following those standards, your agency's senior legal official or his/her principal deputy must authorize required-use travel on a trip-by-trip basis in advance and in writing, unless—

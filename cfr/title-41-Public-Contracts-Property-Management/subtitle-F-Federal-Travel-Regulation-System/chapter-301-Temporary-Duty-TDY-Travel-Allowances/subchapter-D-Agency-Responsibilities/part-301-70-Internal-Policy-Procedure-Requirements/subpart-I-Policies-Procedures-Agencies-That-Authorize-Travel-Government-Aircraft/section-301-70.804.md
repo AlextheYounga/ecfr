@@ -1,5 +1,7 @@
 ##### § 301-70.804 What amount must the Government be reimbursed for travel on a Government aircraft? #####
 
+Link to an amendment published at 89 FR 12252, Feb. 16, 2024.
+
 (a) No reimbursement is required for official travel on a Government aircraft.
 
 (b) For personal travel on Government aircraft, reimbursement depends upon which of the following special cases applies:

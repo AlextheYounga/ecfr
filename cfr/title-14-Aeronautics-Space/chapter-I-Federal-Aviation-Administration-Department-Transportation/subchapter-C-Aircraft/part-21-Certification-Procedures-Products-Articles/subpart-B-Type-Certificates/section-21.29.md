@@ -1,5 +1,7 @@
 ##### § 21.29 Issue of type certificate: import products. #####
 
+Link to an amendment published at 89 FR 12653, Feb. 16, 2024.
+
 (a) The FAA may issue a type certificate for a product that is manufactured in a foreign country or jurisdiction with which the United States has an agreement for the acceptance of these products for export and import and that is to be imported into the United States if—
 
 (1) The applicable State of Design certifies that the product has been examined, tested, and found to meet—

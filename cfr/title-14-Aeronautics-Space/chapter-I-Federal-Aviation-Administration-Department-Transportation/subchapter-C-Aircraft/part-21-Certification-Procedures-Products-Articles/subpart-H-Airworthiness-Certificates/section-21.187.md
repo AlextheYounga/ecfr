@@ -1,5 +1,7 @@
 ##### § 21.187 Issue of multiple airworthiness certification. #####
 
+Link to an amendment published at 89 FR 12654, Feb. 16, 2024.
+
 (a) An applicant for an airworthiness certificate in the restricted category, and in one or more other categories except primary category, is entitled to the certificate, if—
 
 (1) He shows compliance with the requirements for each category, when the aircraft is in the configuration for that category; and

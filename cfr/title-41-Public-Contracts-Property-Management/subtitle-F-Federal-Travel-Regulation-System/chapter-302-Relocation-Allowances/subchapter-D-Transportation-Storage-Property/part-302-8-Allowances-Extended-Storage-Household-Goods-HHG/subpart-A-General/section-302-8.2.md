@@ -1,5 +1,7 @@
 ##### § 302-8.2 What is the purpose of extended storage? #####
 
+Link to an amendment published at 89 FR 12255, Feb. 16, 2024.
+
 The purpose of extended storage is to assist in protecting personal items when you are:
 
 (a) Authorized a temporary change of station (TCS) under § 302-3.400 of this chapter;

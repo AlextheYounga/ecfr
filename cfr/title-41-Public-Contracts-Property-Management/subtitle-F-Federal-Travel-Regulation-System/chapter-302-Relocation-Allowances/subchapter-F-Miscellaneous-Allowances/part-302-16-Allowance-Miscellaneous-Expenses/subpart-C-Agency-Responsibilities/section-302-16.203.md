@@ -1,5 +1,7 @@
 ##### § 302-16.203 What are examples of types of costs not covered by the MEA? #####
 
+Link to an amendment published at 89 FR 12256, Feb. 16, 2024.
+
 Examples of costs which are not reimbursable from this allowance are:
 
 (a) Losses in selling or buying real and personal property and cost related to such transactions;

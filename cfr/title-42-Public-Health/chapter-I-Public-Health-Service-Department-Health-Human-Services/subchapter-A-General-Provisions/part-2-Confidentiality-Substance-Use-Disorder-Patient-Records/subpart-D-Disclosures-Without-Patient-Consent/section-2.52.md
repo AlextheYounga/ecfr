@@ -1,5 +1,7 @@
 ##### § 2.52 Research. #####
 
+Link to an amendment published at 89 FR 12628, Feb. 16, 2024.
+
 (a) Notwithstanding other provisions of this part, including paragraph (b)(2) of this section, patient identifying information may be disclosed for the purposes of the recipient conducting scientific research if:
 
 (1) The individual designated as director or managing director, or individual otherwise vested with authority to act as chief executive officer or their designee, of a part 2 program or other lawful holder of part 2 data, makes a determination that the recipient of the patient identifying information is:

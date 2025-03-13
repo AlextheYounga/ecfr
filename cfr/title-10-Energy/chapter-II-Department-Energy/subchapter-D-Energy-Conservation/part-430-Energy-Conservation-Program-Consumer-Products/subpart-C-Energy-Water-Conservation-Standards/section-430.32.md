@@ -1,6 +1,6 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 88 FR 87648, Dec. 18, 2023.Link to an amendment published at 89 FR 3113, Jan. 17, 2024.Link to an amendment published at 89 FR 11547, Feb. 14, 2024.
+Link to an amendment published at 89 FR 3113, Jan. 17, 2024.Link to an amendment published at 89 FR 11547, Feb. 14, 2024.
 
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
@@ -263,21 +263,30 @@ Table 4 to Paragraph (b)(2)
 
 <sup>1</sup> Annual Fuel Utilization Efficiency, as determined in § 430.23(n)(2) of this part.
 
-(ii) The AFUE of residential furnaces shall not be less than the following starting on the compliance date indicated in the table below:
+(ii) The AFUE for non-weatherized gas furnaces (not including mobile home gas furnaces) manufactured on or after November 19, 2015, but before December 18, 2028; mobile home gas furnaces manufactured on or after November 19, 2015, but before December 18, 2028; non-weatherized oil-fired furnaces (not including mobile home furnaces) manufactured on or after May 1, 2013, mobile home oil-fired furnaces manufactured on or after September 1, 1990; weatherized gas-fired furnaces manufactured on or after January 1, 2015; weatherized oil-fired furnaces manufactured on or after January 1, 1992; and electric furnaces manufactured on or after January 1, 1992; shall not be less than the following:
 
-|                               Product class                               |AFUE  <br/>(percent)<sup>1</sup>| Compliance date  |
-|---------------------------------------------------------------------------|--------------------------------|------------------|
-|   (A) Non-weatherized gas furnaces (not including mobile home furnaces)   |               80               |November 19, 2015.|
-|                       (B) Mobile Home gas furnaces                        |               80               |November 19, 2015.|
-|(C) Non-weatherized oil-fired furnaces (not including mobile home furnaces)|               83               |   May 1, 2013.   |
-|                    (D) Mobile Home oil-fired furnaces                     |               75               |September 1, 1990.|
-|                       (E) Weatherized gas furnaces                        |               81               | January 1, 2015. |
-|                    (F) Weatherized oil-fired furnaces                     |               78               | January 1, 1992. |
-|                           (G) Electric furnaces                           |               78               | January 1, 1992. |
+|                               Product class                               |AFUE  <br/>(percent)<sup>1</sup>|
+|---------------------------------------------------------------------------|--------------------------------|
+|   (A) Non-weatherized gas furnaces (not including mobile home furnaces)   |              80.0              |
+|                       (B) Mobile home gas furnaces                        |              80.0              |
+|(C) Non-weatherized oil-fired furnaces (not including mobile home furnaces)|              83.0              |
+|                    (D) Mobile home oil-fired furnaces                     |              75.0              |
+|                       (E) Weatherized gas furnaces                        |              81.0              |
+|                    (F) Weatherized oil-fired furnaces                     |              78.0              |
+|                           (G) Electric furnaces                           |              78.0              |
 
-<sup>1</sup> Annual Fuel Utilization Efficiency, as determined in § 430.23(n)(2) of this part.
+<sup>1</sup> Annual Fuel Utilization Efficiency, as determined in § 430.23(n)(2).
 
-(iii) Furnaces manufactured on or after May 1, 2013, shall have an electrical standby mode power consumption (PW,SB) and electrical off mode power consumption (PW,OFF) not more than the following:
+(iii) The AFUE for non-weatherized gas (not including mobile home gas furnaces) manufactured on and after December 18, 2028; and mobile home gas furnaces manufactured on and after December 18, 2028, shall not be less than the following:
+
+|                              Product class                              |AFUE  <br/>(percent)<sup>1</sup>|
+|-------------------------------------------------------------------------|--------------------------------|
+|(A) Non-weatherized gas furnaces (not including mobile home gas furnaces)|              95.0              |
+|                      (B) Mobile home gas furnaces                       |              95.0              |
+
+<sup>1</sup> Annual Fuel Utilization Efficiency, as determined in § 430.23(n)(2).
+
+(iv) Furnaces manufactured on or after May 1, 2013, shall have an electrical standby mode power consumption (PW,SB) and electrical off mode power consumption (PW,OFF) not more than the following:
 
 |                             Product class                             |Maximum standby mode electrical power consumption, PW,SB (watts)|Maximum off mode electrical power consumption, PW,OFF (watts)|
 |-----------------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------|

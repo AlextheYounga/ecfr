@@ -1,5 +1,7 @@
 ##### § 301-70.701 Who has the authority to grant exemptions to mandatory use of Government contractor-issued travel charge card for official travel? #####
 
+Link to an amendment published at 89 FR 12252, Feb. 16, 2024.
+
 (a) The Administrator of General Services will exempt any payment, person, type or class of payments, or type or class of personnel in any case in which—
 
 (1) It is in the best interest of the United States to do so;

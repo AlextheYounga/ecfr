@@ -1,5 +1,7 @@
 ##### § 302-7.1 Who is eligible for the transportation and temporary storage of household goods (HHG) at Government expense? #####
 
+Link to an amendment published at 89 FR 12255, Feb. 16, 2024.
+
 The following are eligible for the transportation and temporary storage of household goods (HHG) at Government expense when a relocation has been determined to be in the interest of the Government:
 
 (a) An employee transferred between official stations, within or outside the continental United States (CONUS);

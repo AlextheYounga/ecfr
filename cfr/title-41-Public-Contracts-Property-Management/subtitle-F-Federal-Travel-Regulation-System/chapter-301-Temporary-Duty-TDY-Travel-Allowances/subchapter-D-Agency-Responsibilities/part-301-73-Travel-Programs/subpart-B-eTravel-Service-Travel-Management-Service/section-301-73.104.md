@@ -1,5 +1,7 @@
 ##### § 301-73.104 May further exceptions to the required use of the E-Gov Travel Service be approved? #####
 
+Link to an amendment published at 89 FR 12253, Feb. 16, 2024.
+
 (a) The Administrator of General Services or his/her designee may grant an agency-wide exception (or exempt a component thereof) from the required use of ETS when requested by the head of a Department (cabinet-level agency) or head of an Independent agency when—
 
 (1) The agency has presented a business case analysis to the General Services Administration that proves that it has an alternative TMS to the ETS that is in the best interest of the Government and the taxpayer (*i.e.,* the agency has evaluated the economic and service values offered by the ETS contractor(s) compared to those offered by the agency's current Travel Management Service (TMS) and has determined that the agency's current TMS is a better value);

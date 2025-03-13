@@ -1,5 +1,7 @@
 ##### § 302-3.511 What must we consider when determining return travel for immediate family member(s) for compassionate reasons prior to completion of the service agreement? #####
 
+Link to an amendment published at 89 FR 12254, Feb. 16, 2024.
+
 You must determine that the public interest requires the return of the immediate family for compelling personal reasons of a humanitarian or compassionate nature, which may involve:
 
 (a) His/her physical or mental health;

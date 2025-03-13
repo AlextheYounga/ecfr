@@ -1,5 +1,7 @@
 ##### § 302-15.70 What governing policies must we establish for the allowance for property management services? #####
 
+Link to an amendment published at 89 FR 12256, Feb. 16, 2024.
+
 You must establish policies and procedures governing:
 
 (a) When you will authorize payment for property management services for an employee who transfers in the interest of the Government;

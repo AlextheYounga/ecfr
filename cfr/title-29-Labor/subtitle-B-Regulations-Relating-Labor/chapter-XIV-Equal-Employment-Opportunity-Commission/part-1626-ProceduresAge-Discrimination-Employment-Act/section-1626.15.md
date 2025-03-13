@@ -6,8 +6,8 @@
 
 (c) Any agreement reached as a result of efforts undertaken pursuant to this section shall, as far as practicable, require the respondent to eliminate the unlawful practice(s) and provide appropriate affirmative relief. Such agreement shall be reduced to writing and will ordinarily be signed by the Commission's delegated representative, the respondent, and the charging party, if any. The signed agreement shall be sent to all the signatories thereto.
 
-(d) Upon the failure of informal conciliation, conference and persuasion under section 7(b) of the Act, the Commission may initiate and conduct litigation. Any conciliation process under this paragraph shall follow the procedures as described in § 1626.12.
+(d) Upon the failure of informal conciliation, conference and persuasion under section 7(b) of the Act, the Commission may initiate and conduct litigation.
 
 (e) The District Directors, Field Directors, Area Directors, and Local Directors, the Director of the Office of Field Programs or their designees, are hereby delegated authority to exercise the powers enumerated in § 1626.15(a) (1) through (7) and (b) and (c). The General Counsel or his/her designee is hereby delegated the authority to exercise the powers in paragraph (a) of this section and at the direction of the Commission to initiate and conduct litigation.
 
-[48 FR 140, Jan. 3, 1983, as amended at 54 FR 32063, Aug. 4, 1989; 54 FR 33503, Aug. 15, 1989; 68 FR 70152, Dec. 17, 2003; 71 FR 26831, May 9, 2006; 85 FR 65219, Oct. 15, 2020; 86 FR 2985, Jan. 14, 2021]
+[48 FR 140, Jan. 3, 1983, as amended at 54 FR 32063, Aug. 4, 1989; 54 FR 33503, Aug. 15, 1989; 68 FR 70152, Dec. 17, 2003; 71 FR 26831, May 9, 2006; 85 FR 65219, Oct. 15, 2020; 86 FR 2985, Jan. 14, 2021; 89 FR 12233, Feb. 16, 2024]

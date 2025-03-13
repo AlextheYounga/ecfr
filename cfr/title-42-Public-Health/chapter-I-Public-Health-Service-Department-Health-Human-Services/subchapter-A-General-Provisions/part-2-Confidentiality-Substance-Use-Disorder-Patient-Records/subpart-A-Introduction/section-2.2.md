@@ -1,5 +1,7 @@
 ##### § 2.2 Purpose and effect. #####
 
+Link to an amendment published at 89 FR 12618, Feb. 16, 2024.
+
 (a) *Purpose.* Pursuant to 42 U.S.C. 290dd-2(g), the regulations in this part impose restrictions upon the disclosure and use of substance use disorder patient records which are maintained in connection with the performance of any part 2 program. The regulations in this part include the following subparts:
 
 (1) Subpart B of this part: General Provisions, including definitions, applicability, and general restrictions;

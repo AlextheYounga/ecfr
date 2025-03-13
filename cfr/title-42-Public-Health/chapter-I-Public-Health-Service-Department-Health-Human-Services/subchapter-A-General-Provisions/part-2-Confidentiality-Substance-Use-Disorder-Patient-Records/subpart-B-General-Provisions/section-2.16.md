@@ -1,5 +1,7 @@
 ##### § 2.16 Security for records. #####
 
+Link to an amendment published at 89 FR 12622, Feb. 16, 2024.
+
 (a) The part 2 program or other lawful holder of patient identifying information must have in place formal policies and procedures to reasonably protect against unauthorized uses and disclosures of patient identifying information and to protect against reasonably anticipated threats or hazards to the security of patient identifying information. These formal policies and procedures must address:
 
 (1) Paper records, including:

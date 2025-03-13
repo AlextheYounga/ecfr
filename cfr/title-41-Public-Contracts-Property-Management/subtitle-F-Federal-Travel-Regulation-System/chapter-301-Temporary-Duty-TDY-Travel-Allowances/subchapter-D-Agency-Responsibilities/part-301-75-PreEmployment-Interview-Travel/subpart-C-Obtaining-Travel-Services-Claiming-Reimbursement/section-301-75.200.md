@@ -1,5 +1,7 @@
 ##### § 301-75.200 How will we pay for pre-employment interviewee travel expenses? #####
 
+Link to an amendment published at 89 FR 12253, Feb. 16, 2024.
+
 |                                           For                                            |                                                                          You will                                                                           |
 |------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Common carrier transportation expenses other than transit systems at the agency's location|Bill the expenses to a centrally billed or other agency established account or provide the traveler with a GTR when no other option is available or feasible.|

@@ -1,5 +1,7 @@
 ##### § 21.31 Type design. #####
 
+Link to an amendment published at 89 FR 12653, Feb. 16, 2024.
+
 The type design consists of—
 
 (a) The drawings and specifications, and a listing of those drawings and specifications, necessary to define the configuration and the design features of the product shown to comply with the requirements of that part of this subchapter applicable to the product;

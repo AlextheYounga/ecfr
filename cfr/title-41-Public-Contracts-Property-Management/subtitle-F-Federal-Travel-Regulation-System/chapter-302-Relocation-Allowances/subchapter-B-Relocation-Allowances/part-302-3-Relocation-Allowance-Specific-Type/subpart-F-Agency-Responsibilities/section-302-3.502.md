@@ -1,5 +1,7 @@
 ##### § 302-3.502 What factors should we consider in determining whether to authorize a TCS for a long-term assignment? #####
 
+Link to an amendment published at 89 FR 12254, Feb. 16, 2024.
+
 You should consider the following factors in determining whether to authorize a TCS:
 
 (a) *Cost considerations.* You should consider the cost of each alternative. A long-term temporary duty travel assignment requires the payment of either per diem or actual subsistence expenses for the entire period of the assignment. This could be very costly to the agency over an extended period. A TCS will require fairly substantial relocation allowance payments at the beginning and end of the assignment, and less substantial payments for extended storage and property management services, when authorized, during the period of the assignment. Agencies should estimate the total cost of each alternative and authorize the one that is most advantageous for the agency, cost and other factors considered;

@@ -1,5 +1,7 @@
 ##### § 302-11.407 What documentation must we require the employee to submit before paying residence transaction expenses? #####
 
+Link to an amendment published at 89 FR 12256, Feb. 16, 2024.
+
 Before paying residence transaction expenses, you must require the employee to submit:
 
 (a) A copy of his/her financial documents which prove that only the employee and or a member(s) of the immediate family made payments on the property;

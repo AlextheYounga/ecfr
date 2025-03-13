@@ -1,5 +1,7 @@
 ##### § 301-72.101 What information should we provide an employee before authorizing the use of common carrier transportation? #####
 
+Link to an amendment published at 89 FR 12252, Feb. 16, 2024.
+
 You should provide the employee:
 
 (a) Notice that he/she is accountable for all tickets, GTRs and other transportation documents;

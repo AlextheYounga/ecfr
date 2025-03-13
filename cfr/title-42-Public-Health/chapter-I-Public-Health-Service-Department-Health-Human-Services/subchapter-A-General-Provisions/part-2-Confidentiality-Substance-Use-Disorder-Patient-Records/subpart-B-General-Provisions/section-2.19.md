@@ -1,5 +1,7 @@
 ##### § 2.19 Disposition of records by discontinued programs. #####
 
+Link to an amendment published at 89 FR 12622, Feb. 16, 2024.
+
 (a) *General.* If a part 2 program discontinues operations or is taken over or acquired by another program, it must remove patient identifying information from its records or destroy its records, including sanitizing any associated hard copy or electronic media, to render the patient identifying information non-retrievable in a manner consistent with the policies and procedures established under § 2.16, unless:
 
 (1) The patient who is the subject of the records gives written consent (meeting the requirements of § 2.31) to a transfer of the records to the acquiring program or to any other program designated in the consent (the manner of obtaining this consent must minimize the likelihood of a disclosure of patient identifying information to a third party); or

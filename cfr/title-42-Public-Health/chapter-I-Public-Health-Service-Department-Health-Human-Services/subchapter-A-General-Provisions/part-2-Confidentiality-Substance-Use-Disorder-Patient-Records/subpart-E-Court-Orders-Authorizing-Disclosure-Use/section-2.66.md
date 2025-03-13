@@ -1,5 +1,7 @@
 ##### § 2.66 Procedures and criteria for orders authorizing disclosure and use of records to investigate or prosecute a part 2 program or the person holding the records. #####
 
+Link to an amendment published at 89 FR 12630, Feb. 16, 2024.
+
 (a) *Application.* (1) An order authorizing the disclosure or use of patient records to investigate or prosecute a part 2 program or the person holding the records (or employees or agents of that part 2 program or person holding the records) in connection with a criminal or administrative matter may be applied for by any administrative, regulatory, supervisory, investigative, law enforcement, or prosecutorial agency having jurisdiction over the program's or person's activities.
 
 (2) The application may be filed separately or as part of a pending civil or criminal action against a part 2 program or the person holding the records (or agents or employees of the part 2 program or person holding the records) in which the applicant asserts that the patient records are needed to provide material evidence. The application must use a fictitious name, such as John Doe, to refer to any patient and may not contain or otherwise disclose any patient identifying information unless the court has ordered the record of the proceeding sealed from public scrutiny or the patient has provided written consent (meeting the requirements of § 2.31) to that disclosure.

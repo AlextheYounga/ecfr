@@ -1,5 +1,7 @@
 ##### § 304-5.3 What does our approving official need to consider before authorizing acceptance of payment from a non-Federal source for travel expenses for a meeting? #####
 
+Link to an amendment published at 89 FR 12257, Feb. 16, 2024.
+
 (a) The approving official must not authorize acceptance of the payment if he/she determines that acceptance of the payment under the circumstances would cause a reasonable person with knowledge of all the facts relevant to a particular case to question the integrity of agency programs or operations. The approving official must be guided by all relevant considerations, including but not limited to the—
 
 (1) Identity of the non-Federal source;

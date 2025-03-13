@@ -1,5 +1,7 @@
 ##### § 301-71.206 What must we do if we disallow a travel claim? #####
 
+Link to an amendment published at 89 FR 12252, Feb. 16, 2024.
+
 You must:
 
 (a) Pay the employee the amount of the travel claim which is not in dispute;

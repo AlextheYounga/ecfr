@@ -1,5 +1,7 @@
 ##### § 2.31 Consent requirements. #####
 
+Link to an amendment published at 89 FR 12625, Feb. 16, 2024.
+
 (a) *Required elements for written consent.* A written consent to a disclosure under the regulations in this part may be paper or electronic and must include:
 
 (1) The name of the patient.

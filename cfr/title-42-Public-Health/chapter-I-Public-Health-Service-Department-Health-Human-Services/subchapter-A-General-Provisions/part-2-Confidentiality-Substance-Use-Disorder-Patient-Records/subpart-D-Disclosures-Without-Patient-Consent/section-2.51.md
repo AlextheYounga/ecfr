@@ -1,5 +1,7 @@
 ##### § 2.51 Medical emergencies. #####
 
+Link to an amendment published at 89 FR 12628, Feb. 16, 2024.
+
 (a) *General rule.* Under the procedures required by paragraph (c) of this section, patient identifying information may be disclosed to medical personnel to the extent necessary to:
 
 (1) Meet a bona fide medical emergency in which the patient's prior written consent cannot be obtained; or

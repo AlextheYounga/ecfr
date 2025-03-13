@@ -1,5 +1,7 @@
 ##### § 301-75.202 What must we do if the interviewee exchanges the ticket he or she has been issued? #####
 
+Link to an amendment published at 89 FR 12253, Feb. 16, 2024.
+
 |                             If                              |                                                                                                                                You will inform the traveler                                                                                                                                 |
 |-------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |The new ticket is more expensive than the ticket you provided|                                                                                  That he/she must pay the difference using personal funds and he/she will not receive reimbursement for the extra amount.                                                                                   |

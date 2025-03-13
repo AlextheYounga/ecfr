@@ -1,5 +1,7 @@
 ##### § 2.64 Procedures and criteria for orders authorizing disclosures for noncriminal purposes. #####
 
+Link to an amendment published at 89 FR 12629, Feb. 16, 2024.
+
 (a) *Application.* An order authorizing the disclosure of patient records for purposes other than criminal investigation or prosecution may be applied for by any person having a legally recognized interest in the disclosure which is sought. The application may be filed separately or as part of a pending civil action in which the applicant asserts that the patient records are needed to provide evidence. An application must use a fictitious name, such as John Doe, to refer to any patient and may not contain or otherwise disclose any patient identifying information unless the patient is the applicant or has given written consent (meeting the requirements of the regulations in this part) to disclosure or the court has ordered the record of the proceeding sealed from public scrutiny.
 
 (b) *Notice.* The patient and the person holding the records from whom disclosure is sought must be provided:

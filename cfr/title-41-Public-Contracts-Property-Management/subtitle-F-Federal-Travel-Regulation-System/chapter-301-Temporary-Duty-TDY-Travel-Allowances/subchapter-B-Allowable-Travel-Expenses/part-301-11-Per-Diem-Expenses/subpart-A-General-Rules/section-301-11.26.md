@@ -2,10 +2,8 @@
 
 If you travel to a location where the per diem rate is insufficient to meet necessary expenses, you may submit a request, containing pertinent lodging & meal cost data, through your agency's Travel Manager asking that the location be reviewed. Depending on the location in question your agency's Travel Manager may submit the review request to:
 
-Table 1 to § 301-11.26
-
 |                                         For CONUS locations                                          |                                                      For non-foreign area locations                                                      |                                     For foreign area locations                                      |
 |------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 |General Services Administration, Office of Government-wide Policy, 1800 F St. NW, Washington, DC 20405|Defense Travel Management Office, Attn: Policy and Regulations Division, 4800 Mark Center Drive, Suite 04J25-01, Alexandria, VA 22350-9000|Director, Office of Allowances, Department of State, Annex 1, Suite L-314, Washington, DC 20522-0103.|
 
-[FTR Amdt. 70, 63 FR 15961, Apr. 1, 1998, as amended by FTR Amdt. 108, 67 FR 57965, Sept. 13, 2002; FTR Amdt. 2010-04, 75 FR 59095, Sept. 27, 2010; FTR Amdt. 2011-03, 76 FR 55275, Sept. 7, 2011; 85 FR 39848, July 2, 2020; FTR Case 2020-300-1, 87 FR 55705, Sept. 12, 2022]
+[FTR Amdt. 70, 63 FR 15961, Apr. 1, 1998, as amended by FTR Amdt. 108, 67 FR 57965, Sept. 13, 2002; FTR Amdt. 2010-04, 75 FR 59095, Sept. 27, 2010; FTR Amdt. 2011-03, 76 FR 55275, Sept. 7, 2011; FTR Case 2020-300-1, 87 FR 55705, Sept. 12, 2022]

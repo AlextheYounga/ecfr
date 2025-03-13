@@ -1,5 +1,7 @@
 ##### § 303-70.1 When must we authorize payment of expenses related to an employee's death? #####
 
+Link to an amendment published at 89 FR 12256, Feb. 16, 2024.
+
 You must authorize payment of expenses when, at the time of death, the employee was:
 
 (a) On official travel status (away from the official station); or

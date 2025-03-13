@@ -1,5 +1,7 @@
 ##### § 2.22 Notice to patients of federal confidentiality requirements. #####
 
+Link to an amendment published at 89 FR 12623, Feb. 16, 2024.
+
 (a) *Notice required.* At the time of admission to a part 2 program or, in the case that a patient does not have capacity upon admission to understand his or her medical status, as soon thereafter as the patient attains such capacity, each part 2 program shall:
 
 (1) Communicate to the patient that federal law and regulations protect the confidentiality of substance use disorder patient records; and

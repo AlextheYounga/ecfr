@@ -1,5 +1,7 @@
 ##### § 21.115 Applicable requirements. #####
 
+Link to an amendment published at 89 FR 12653, Feb. 16, 2024.
+
 (a) Each applicant for a supplemental type certificate must show that the altered product meets applicable requirements specified in § 21.101 and, in the case of an acoustical change described in § 21.93(b), show compliance with the applicable noise requirements of part 36 of this chapter and, in the case of an emissions change described in § 21.93(c), show compliance with the applicable fuel venting and exhaust emissions requirements of part 34 of this chapter.
 
 (b) Each applicant for a supplemental type certificate must meet §§ 21.33 and 21.53 with respect to each change in the type design.

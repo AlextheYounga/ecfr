@@ -1,5 +1,7 @@
 ##### § 21.17 Designation of applicable regulations. #####
 
+Link to an amendment published at 89 FR 12653, Feb. 16, 2024.
+
 (a) Except as provided in §§ 25.2, 27.2, 29.2, and in parts 26, 34, and 36 of this subchapter, an applicant for a type certificate must show that the aircraft, aircraft engine, or propeller concerned meets—
 
 (1) The applicable requirements of this subchapter that are effective on the date of application for that certificate unless—

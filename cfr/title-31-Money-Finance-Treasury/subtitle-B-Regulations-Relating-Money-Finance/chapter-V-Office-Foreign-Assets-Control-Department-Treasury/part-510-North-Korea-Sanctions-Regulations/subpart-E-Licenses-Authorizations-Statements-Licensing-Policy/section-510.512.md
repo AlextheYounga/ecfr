@@ -1,35 +1,61 @@
-##### § 510.512 Certain services in support of nongovernmental organizations' activities. #####
+##### § 510.512 Certain transactions in support of nongovernmental organizations' activities. #####
 
-(a) Nongovernmental organizations are authorized to export or reexport services to North Korea that would otherwise be prohibited by this part in support of the following not-for-profit activities:
+(a) Except as provided in paragraph (d) of this section, and subject to the reporting requirements set forth in paragraph (e) of this section, all transactions, including the payment of reasonable and customary taxes, fees, and import duties to, and purchase or receipt of permits, licenses, or public utility services from, the Government of North Korea that are ordinarily incident and necessary to the activities described in paragraph (b) of this section by a nongovernmental organization (NGO) are authorized, provided that the NGO is not a person whose property and interests in property are blocked pursuant to this part.
 
-(1) Activities to support humanitarian projects to meet basic human needs in North Korea, including drought, flood, and disaster relief; the distribution of food, medicine, and clothing intended to be used to relieve human suffering; the provision of shelter; the provision of clean water, sanitation, and hygiene assistance; the provision of health-related services; assistance for individuals with disabilities; and environmental programs;
+Note 1 to paragraph (a).
 
-(2) Activities to support democracy building in North Korea, including rule of law, citizen participation, government accountability, universal human rights and fundamental freedoms, access to information, and civil society development projects;
+The authorization in paragraph (a) of this section includes the exportation or reexportation of items (commodities, software, or technology) not subject to the Export Administration Regulations (15 CFR parts 730 through 774) (EAR) that are ordinarily incident and necessary to activities described in paragraph (b) of this section, except for items described in paragraph (d)(3) of this section. Pursuant to 15 CFR 746.4(a), a license from the Department of Commerce is required to export or reexport any item subject to the EAR to North Korea, except food and medicine designated as EAR99, unless a license exception applies.
 
-(3) Activities to support non-commercial development projects directly benefiting the North Korean people, including preventing infectious disease and promoting maternal/child health, sustainable agriculture, and clean water assistance; and
+(b) The activities referenced in paragraph (a) of this section are non-commercial activities designed to directly benefit the civilian population that fall into one of the following categories:
 
-(4) Activities to support environmental protection, including the preservation and protection of threatened or endangered species and the remediation of pollution or other environmental damage.
+(1) Activities to support humanitarian projects to meet basic human needs, including disaster, drought, or flood relief; food, nutrition, or medicine distribution; the provision of health services; assistance for vulnerable or displaced populations, including individuals with disabilities and the elderly; and environmental programs;
 
-(b) Nongovernmental organizations are authorized to export or reexport to North Korea from a third country food, as defined in paragraph (f)(1) of this section, and medicine, as defined in paragraph (f)(2) of this section, in support of the activities authorized in paragraph (a) of this section, provided that the food and medicine are not subject to the Export Administration Regulations (15 CFR parts 730 through 774) (EAR). For export or reexport by a U.S. person to North Korea from a third country of other items that are not subject to the EAR, a specific license from OFAC is required.
+(2) Activities to support democracy building, including activities to support rule of law, citizen participation, government accountability and transparency, human rights and fundamental freedoms, access to information, and civil society development projects;
 
-Note 1 to paragraph (b):
+(3) Activities to support education at or below a secondary school level, including combating illiteracy, increasing access to education at the primary or secondary school level, and assisting education reform projects, provided that such education excludes the subjects of math, sciences, technology, engineering, and computer programming;
 
-Pursuant to 15 CFR 746.4(a), a license from the Department of Commerce is required to export or reexport any item subject to the EAR to North Korea, except food and medicine designated as EAR99.
+(4) Activities to support non-commercial development projects directly benefiting civilians, including those related to health, food security, and water and sanitation;
 
-Note 2 to paragraphs (a) and (b):
+(5) Activities to support environmental and natural resource protection, including the preservation and protection of threatened or endangered species, responsible and transparent management of natural resources, and the remediation of pollution or other environmental damage; and
 
-The authorizations in paragraphs (a) and (b) of this section do not eliminate the need to comply with other applicable provisions of law, including any requirements of agencies other than the Department of the Treasury's Office of Foreign Assets Control. Such requirements include the EAR administered by the Department of Commerce and the International Traffic in Arms Regulations (22 CFR parts 120 through 130) administered by the Department of State.
+(6) Activities to support disarmament, demobilization, and reintegration (DDR) programs and peacebuilding, conflict prevention, and conflict resolution programs.
 
-(c) U.S. depository institutions, U.S.-registered brokers or dealers in securities, and U.S.-registered money transmitters are authorized to process transfers of funds on behalf of U.S. or third-country nongovernmental organizations, including transfers of funds to or from North Korea, in support of the activities authorized by paragraphs (a) and (b) of this section.
+(c) U.S. depository institutions, U.S.-registered brokers or dealers in securities, and U.S.-registered money transmitters are authorized to process transfers of funds on behalf of U.S. or third-country NGOs, including transfers of funds to or from North Korea, in support of the activities authorized by paragraph (a) of this section.
 
-(d) Nongovernmental organizations are authorized to engage in transactions with the Government of North Korea that are necessary for the activities authorized by paragraphs (a) and (b) of this section, including payment of reasonable and customary taxes, fees, and import duties to, and purchase or receipt of permits, licenses, or public utility services from, the Government of North Korea.
+(d) This section does not authorize the following transactions:
 
-Note 3 to paragraph (d):
+(1) The exportation or reexportation of services to, charitable donations to or for the benefit of, or any other transactions involving the Government of North Korea, the Workers' Party of Korea, or any other person whose property and interests in property are blocked pursuant to § 510.201, except as ordinarily incident and necessary to an activity authorized in paragraph (a) of this section;
 
-This paragraph (d) only authorizes nongovernmental organizations to conduct limited transactions with the Government of North Korea that are necessary for the activities described in paragraphs (a) and (b) of this section, such as payment of reasonable and customary taxes and other fees. Partnerships and partnership agreements between nongovernmental organizations and the Government of North Korea or other blocked persons that are necessary for nongovernmental organizations to provide authorized services are not permitted without a specific license from OFAC.
+(2) Partnerships or partnership agreements with any military, intelligence, or law enforcement entity owned or controlled by the Government of North Korea, except as necessary to export or import items to or from North Korea that are licensed or otherwise authorized pursuant to this part or pursuant to the EAR; or
 
-(e) Except as authorized in paragraph (d) of this section, this section does not authorize the exportation or reexportation of services to, charitable donations to or for the benefit of, or any other transactions involving the Government of North Korea, the Workers' Party of Korea, or any other person whose property and interests in property are blocked pursuant to § 510.201(a). Specific licenses may be issued on a case-by-case basis for these purposes.
+(3) Exportation or reexportation of any item that would not be designated as EAR99 if it were located in the United States, unless exempt or authorized.
 
-(f)(1) For purposes of this section, the term *food* means items that are consumed by and provide nutrition to humans and animals, and seeds, with the exception of castor bean seeds, that germinate into items that will be consumed by and provide nutrition to humans and animals. Examples of “food” include processed or unprocessed food items for human consumption, feed, vitamins, minerals, food additives, dietary supplements, and containers of drinking water. The term *food* does not include livestock, cigarettes, alcoholic beverages, gum, castor beans, castor bean seeds, certified pathogen-free eggs (unfertilized or fertilized), dried egg albumin, live animals (excluding cattle embryos), Rosary/Jequirity peas, non-food-grade gelatin powder, peptones and their derivatives, super absorbent polymers, western red cedar, and all fertilizers.
+(e) NGOs relying on the authorization in paragraph (a) of this section must submit a report to the U.S. Department of State via email at *DPRK-NGO-GL-Notification-DL@state.gov* no fewer than 30 days before commencement of the authorized activity with the following:
 
-(2) The term *medicine* means an item that falls within the definition of the term “drug” in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321) and that, in the case of an item subject to the EAR, is designated as EAR99 or, in the case of an item not subject to the EAR, is not listed under any multilateral export control regime.
+(1) *UN Security Council 1718 Committee (“1718 Committee”) report.* (i) If the NGO has received 1718 Committee approval with respect to its activities to be conducted pursuant to this section, a copy of such approval along with the exemption request submitted to the 1718 Committee; or
+
+(ii) If the NGO has not received 1718 Committee approval with respect to its activities to be conducted pursuant to this section, either:
+
+(A) A copy of any 1718 Committee exemption request or notification that has been or will be submitted to the 1718 Committee with respect to the NGO's activities; or
+
+(B) A detailed explanation of why the NGO's proposed activities do not require such an exemption or notification, including:
+
+(*1*) Items the NGO plans to transport to North Korea related to activities described in paragraph (b) of this section, including items for personal use by persons regularly employed by the NGO;
+
+(*2*) Estimated or actual dollar value of the transaction(s), as determined by the value of goods, services, or contracts;
+
+(*3*) The parties involved, including any persons owned, controlled, or acting on behalf of the Government of North Korea or the Workers Party of Korea, as well as financial institutions that may be involved in processing such transactions;
+
+(*4*) The type and scope of activities conducted; and
+
+(*5*) The dates or duration of the activities.
+
+(2) *U.S. Department of State confirmation.* The U.S. Department of State may notify an NGO within the 2-week period following submission of the report described in this paragraph (e) to inform the NGO that it may not rely upon this section.
+
+(f) Specific licenses may be issued on a case-by-case basis to authorize NGOs or other entities to engage in other activities designed to directly benefit the civilian population, including support for the removal of landmines and economic development projects to directly benefit the civilian population of North Korea.
+
+Note 2 to § 510.512.
+
+This section does not relieve any person authorized thereunder from complying with any other applicable laws or regulations.
+
+[89 FR 12234, Feb. 16, 2024]

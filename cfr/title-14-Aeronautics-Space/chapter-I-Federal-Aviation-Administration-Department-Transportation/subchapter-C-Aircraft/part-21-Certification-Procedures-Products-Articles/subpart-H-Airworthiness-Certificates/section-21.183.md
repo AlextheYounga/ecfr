@@ -1,5 +1,7 @@
 ##### § 21.183 Issue of standard airworthiness certificates for normal, utility, acrobatic, commuter, and transport category aircraft; manned free balloons; and special classes of aircraft. #####
 
+Link to an amendment published at 89 FR 12654, Feb. 16, 2024.
+
 (a) *New aircraft manufactured under a production certificate.* An applicant for a standard airworthiness certificate for a new aircraft manufactured under a production certificate is entitled to a standard airworthiness certificate without further showing, except that the FAA may inspect the aircraft to determine conformity to the type design and condition for safe operation.
 
 (b) *New aircraft manufactured under type certificate.* An applicant for a standard airworthiness certificate for a new aircraft manufactured under a type certificate is entitled to a standard airworthiness certificate upon presentation, by the holder or licensee of the type certificate, of the statement of conformity prescribed in § 21.130 if the FAA finds after inspection that the aircraft conforms to the type design and is in condition for safe operation.

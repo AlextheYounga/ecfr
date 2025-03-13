@@ -1,5 +1,7 @@
 ##### § 100.801 Annual Marine Events in the Eighth Coast Guard District. #####
 
+Link to an amendment published at 89 FR 12237, Feb. 16, 2024.
+
 The regulations in this section apply to the marine events listed in Tables 1 through 7 of this section. These regulations will be effective annually, for the duration of each event listed in Tables 1 through 7. Annual notice of the exact dates and times of the effective period of the regulation with respect to each event, the geographical area, and details concerning the nature of the event and the number of participants and type(s) of vessels involved will also be published in local notices to mariners. Sponsors of events listed in Tables 1 through 7 of this section must submit an application each year in accordance with § 100.15.
 
 (a) The Coast Guard may patrol the event area under the direction of a designated Coast Guard Patrol Commander. The Patrol Commander may be contacted on Channel 16 VHF-FM (156.8 MHz) by the call sign “PATCOM.”

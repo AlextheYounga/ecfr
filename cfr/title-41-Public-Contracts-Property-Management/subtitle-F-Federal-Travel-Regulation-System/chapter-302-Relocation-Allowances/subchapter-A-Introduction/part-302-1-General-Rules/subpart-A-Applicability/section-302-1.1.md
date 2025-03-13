@@ -1,5 +1,7 @@
 ##### § 302-1.1 Who is eligible for relocation expense allowances under this chapter? #####
 
+Link to an amendment published at 89 FR 12254, Feb. 16, 2024.
+
 You are generally eligible for relocation expense allowances under this chapter if you are:
 
 (a) A new appointee appointed to your first official station (as discussed in this chapter);

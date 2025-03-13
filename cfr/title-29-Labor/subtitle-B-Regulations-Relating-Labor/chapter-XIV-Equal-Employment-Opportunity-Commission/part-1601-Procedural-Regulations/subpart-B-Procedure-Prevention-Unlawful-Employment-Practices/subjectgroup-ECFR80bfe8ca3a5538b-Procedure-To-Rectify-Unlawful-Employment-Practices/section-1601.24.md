@@ -6,20 +6,4 @@
 
 (c) Proof of compliance with title VII, the ADA, GINA, or the PWFA in accordance with the terms of the agreement shall be obtained by the Commission before the case is closed. In those instances in which a person claiming to be aggrieved or a member of the class claimed to be aggrieved by the practices alleged in the charge is not a party to such an agreement, the agreement shall not extinguish or in any way prejudice the rights of such person to proceed in court under section 706(f)(1) of title VII, the ADA, GINA, or the PWFA.
 
-(d) In any conciliation process pursuant to this section, after the respondent has agreed to engage in conciliation, the Commission will:
-
-(1) To the extent it has not already done so, provide the respondent with a written summary of the known facts and non-privileged information that the Commission relied on in its reasonable cause finding, including identifying known aggrieved individuals or known groups of aggrieved individuals for whom relief is being sought, unless the individual(s) has requested anonymity. In the event that it is anticipated that a claims process will be used subsequently to identify aggrieved individuals, to the extent it has not already done so, identify for respondent the criteria that will be used to identify victims from the pool of potential class members. In cases in which that information does not provide an accurate assessment of the size of the class, for example, in harassment or reasonable accommodation cases, the Commission shall provide more detail to respondent, such as the identities of the harassers or supervisors, if known, or a description of the testimony or facts we have gathered from identified class members during the investigation. The Commission will disclose the current class size and, if class size is expected to grow, an estimate of potential additional class members to the extent known;
-
-(2) To the extent it has not already done so, provide the respondent with a written summary of the Commission's legal basis for finding reasonable cause, including an explanation as to how the law was applied to the facts. In addition, the Commission may, but is not required to, provide a response to the defenses raised by respondent;
-
-(3) Provide the respondent with the basis for monetary or other relief, including the calculations underlying the initial conciliation proposal and an explanation thereof in writing. A written explanation is not required for subsequent offers and counteroffers;
-
-(4) If it has not already done so, and if there is a designation at the time of the conciliation, advise the respondent in writing that the Commission has designated the case as systemic, class, or pattern or practice as well as the basis for the designation; and
-
-(5) Provide the respondent at least 14 calendar days to respond to the Commission's initial conciliation proposal.
-
-(e) The Commission shall not disclose any information pursuant to paragraph (d) of this section where another federal law prohibits disclosure of that information or where the information is protected by privilege.
-
-(f) Any information the Commission provides pursuant to paragraph (d) of this section to the Respondent, except for information about another charging party or aggrieved individual, will also be provided to the charging party, upon request. Any information the Commission provides pursuant to paragraph (d) of this section about an aggrieved individual will also be provided to the aggrieved individual, upon request.
-
-[42 FR 55388, Oct. 14, 1977, as amended at 48 FR 19165, Apr. 28, 1983; 49 FR 13024, Apr. 2, 1984; 49 FR 13874, Apr. 9, 1984; 52 FR 26959, July 17, 1987; 54 FR 32061, Aug. 4, 1989; 56 FR 9624, 9625, Mar. 7, 1991; 71 FR 26828, May 9, 2006; 74 FR 63982, Dec. 7, 2009; 85 FR 65218, Oct. 15, 2020, 86 FR 2985, Jan. 14, 2021; 89 FR 11169, Feb. 14, 2024]
+[42 FR 55388, Oct. 14, 1977, as amended at 48 FR 19165, Apr. 28, 1983; 49 FR 13024, Apr. 2, 1984; 49 FR 13874, Apr. 9, 1984; 52 FR 26959, July 17, 1987; 54 FR 32061, Aug. 4, 1989; 56 FR 9624, 9625, Mar. 7, 1991; 71 FR 26828, May 9, 2006; 74 FR 63982, Dec. 7, 2009; 85 FR 65218, Oct. 15, 2020, 86 FR 2985, Jan. 14, 2021; 89 FR 11169, Feb. 14, 2024; 89 FR 12232, Feb. 16, 2024]

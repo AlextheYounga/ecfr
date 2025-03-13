@@ -1,5 +1,7 @@
 ##### § 2.35 Disclosures to elements of the criminal justice system which have referred patients. #####
 
+Link to an amendment published at 89 FR 12627, Feb. 16, 2024.
+
 (a) A part 2 program may disclose information about a patient to those individuals within the criminal justice system who have made participation in the part 2 program a condition of the disposition of any criminal proceedings against the patient or of the patient's parole or other release from custody if:
 
 (1) The disclosure is made only to those individuals within the criminal justice system who have a need for the information in connection with their duty to monitor the patient's progress (*e.g.,* a prosecuting attorney who is withholding charges against the patient, a court granting pretrial or post-trial release, probation or parole officers responsible for supervision of the patient); and

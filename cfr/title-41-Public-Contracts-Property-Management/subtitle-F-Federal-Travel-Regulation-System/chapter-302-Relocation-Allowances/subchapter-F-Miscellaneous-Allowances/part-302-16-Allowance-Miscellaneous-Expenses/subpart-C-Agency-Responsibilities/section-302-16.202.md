@@ -1,5 +1,7 @@
 ##### § 302-16.202 Are there any restrictions to the types of costs we may cover? #####
 
+Link to an amendment published at 89 FR 12256, Feb. 16, 2024.
+
 Yes, a MEA cannot be used to reimburse:
 
 (a) Costs or expenses incurred which exceed maximums provided by statute or in this subtitle;

@@ -1,5 +1,7 @@
 ##### § 302-3.504 What information should we include in a service agreement? #####
 
+Link to an amendment published at 89 FR 12254, Feb. 16, 2024.
+
 The service agreement should include, but not be limited to the following:
 
 (a) The employee's name;

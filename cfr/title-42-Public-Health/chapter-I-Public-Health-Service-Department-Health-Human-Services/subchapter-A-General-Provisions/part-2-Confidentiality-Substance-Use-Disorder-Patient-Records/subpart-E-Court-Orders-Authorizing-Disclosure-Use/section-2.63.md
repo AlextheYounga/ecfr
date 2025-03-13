@@ -1,5 +1,7 @@
 ##### § 2.63 Confidential communications. #####
 
+Link to an amendment published at 89 FR 12629, Feb. 16, 2024.
+
 (a) A court order under the regulations in this part may authorize disclosure of confidential communications made by a patient to a part 2 program in the course of diagnosis, treatment, or referral for treatment only if:
 
 (1) The disclosure is necessary to protect against an existing threat to life or of serious bodily injury, including circumstances which constitute suspected child abuse and neglect and verbal threats against third parties;

@@ -1,5 +1,7 @@
 ##### § 301-71.201 What are the reviewing official's responsibilities? #####
 
+Link to an amendment published at 89 FR 12252, Feb. 16, 2024.
+
 The reviewing official must have full knowledge of the employee's activities. He/she must ensure:
 
 (a) The claim is properly prepared in accordance with the pertinent regulations and agency procedures;

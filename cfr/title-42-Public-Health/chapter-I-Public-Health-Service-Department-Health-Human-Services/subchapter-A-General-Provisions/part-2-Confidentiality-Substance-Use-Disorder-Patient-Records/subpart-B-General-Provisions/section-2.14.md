@@ -1,5 +1,7 @@
 ##### § 2.14 Minor patients. #####
 
+Link to an amendment published at 89 FR 12621, Feb. 16, 2024.
+
 (a) *State law not requiring parental consent to treatment.* If a minor patient acting alone has the legal capacity under the applicable state law to apply for and obtain substance use disorder treatment, any written consent for disclosure authorized under subpart C of this part may be given only by the minor patient. This restriction includes, but is not limited to, any disclosure of patient identifying information to the parent or guardian of a minor patient for the purpose of obtaining financial reimbursement. These regulations do not prohibit a part 2 program from refusing to provide treatment until the minor patient consents to the disclosure necessary to obtain reimbursement, but refusal to provide treatment may be prohibited under a state or local law requiring the program to furnish the service irrespective of ability to pay.
 
 (b) *State law requiring parental consent to treatment.* (1) Where state law requires consent of a parent, guardian, or other individual for a minor to obtain treatment for a substance use disorder, any written consent for disclosure authorized under subpart C of this part must be given by both the minor and their parent, guardian, or other individual authorized under state law to act in the minor's behalf.

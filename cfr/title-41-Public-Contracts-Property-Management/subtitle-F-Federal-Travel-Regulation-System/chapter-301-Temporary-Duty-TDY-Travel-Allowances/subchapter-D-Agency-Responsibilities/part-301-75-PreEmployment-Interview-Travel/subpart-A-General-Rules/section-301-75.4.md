@@ -1,5 +1,7 @@
 ##### § 301-75.4 What other responsibilities do we have for pre-employment interview travel? #####
 
+Link to an amendment published at 89 FR 12253, Feb. 16, 2024.
+
 You must:
 
 (a) Provide your interviewees with a list of FEMA approved accommodations in the vicinity of the interview, and encourage them to stay in an approved accommodation;

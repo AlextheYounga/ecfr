@@ -1,3 +1,5 @@
 ##### § 302-3.203 If I am transferring in the interest of the Government and my employed immediate family member(s) transfer is not in the interest of the Government, will he/she receive relocation allowances? #####
 
+Link to an amendment published at 89 FR 12254, Feb. 16, 2024.
+
 Yes, your employed immediate family member(s) whose transfer is not in the interest of the Government will receive relocation allowances, but solely as a member of your immediate family.
