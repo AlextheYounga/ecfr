@@ -1218,7 +1218,7 @@ Note:
 
 *For gyroscopes and accelerometers, “stability” can be estimated by determining the Allan variance noise-analysis value at the integration period (i.e., sample time) consistent with the stated measurement period, which may include extrapolating the Allan variance noise analysis beyond the instability point into the rate/acceleration random walk or rate/acceleration ramp regions to an integration period consistent with the stated measurement period (Reference: IEEE Std. 952-1997 [R2008] or IEEE Std 1293-1998 [R2008]).*
 
-*Standards-related activity.* “Standards-related activity” includes the development, adoption, or application of a standard (*i.e.,* any document or other writing that provides, for common and repeated use, rules, guidelines, technical or other characteristics for products or related processes and production methods, with which compliance is not mandatory), including but not limited to conformity assessment procedures, with the intent that the resulting standard will be “published.” A “standards-related activity” includes an action taken for the purpose of developing, promulgating, revising, amending, reissuing, interpreting, implementing or otherwise maintaining or applying such a standard.
+*Standards-related activity.* See § 734.10 of the EAR.
 
 *Steady state mode.* (Cat 9) The term “steady state mode” defines engine operation conditions, where the engine parameters, such as thrust/power, rpm and others, have no appreciable fluctuations, when the ambient air temperature and pressure at the engine inlet are constant.
 

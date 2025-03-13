@@ -10,7 +10,7 @@
 
 (4) A copy of the constitution and bylaws of the organization, a roster of the organization's officers and representatives, and a statement of the organization's objectives, together with a statement that these documents have also been supplied to the GAO;
 
-(5) A declaration by the signer of the petition, under penalties of the Criminal Code (18 U.S.C. 1001), that the petition's contents are true and correct, to the best of his or her knowledge and belief;
+(5) A declaration by the signer of the petition, under penalties of the Criminal Code (18 U.S.C. 1001), that the petition's contents are true and correct, to the best of their knowledge and belief;
 
 (6) The signature of the representative of the petitioner, including title and telephone number; and
 
@@ -24,4 +24,4 @@
 
 (e) Petitions under § 28.112(a)(5) (by any person seeking clarification or amendment of a certification, or raising any other representation matter) shall be filed on forms to be supplied by the Board upon request.
 
-[58 FR 61992, Nov. 23, 1993, as amended at 68 FR 69303, Dec. 12, 2003; 76 FR 76874, Dec. 9, 2011]
+[58 FR 61992, Nov. 23, 1993, as amended at 68 FR 69303, Dec. 12, 2003; 76 FR 76874, Dec. 9, 2011; 89 FR 51399, June 18, 2024]

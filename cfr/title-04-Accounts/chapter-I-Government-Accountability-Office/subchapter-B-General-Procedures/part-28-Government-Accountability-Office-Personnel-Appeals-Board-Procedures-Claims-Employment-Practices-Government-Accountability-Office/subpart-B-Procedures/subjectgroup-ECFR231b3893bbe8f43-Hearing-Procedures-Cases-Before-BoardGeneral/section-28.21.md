@@ -14,7 +14,7 @@
 
 (6) Motions for extension of time will be granted only upon a showing of good cause.
 
-(7) *Oral argument.* The administrative judge may allow oral argument on the motion at his or her discretion.
+(7) *Oral argument.* The administrative judge may allow oral argument on the motion at their discretion.
 
 (c) *Motions for summary judgment.* (1) Either party may move for summary judgment by filing a written motion no later than 14 days prior to the commencement of the hearing or as otherwise ordered by the administrative judge.
 

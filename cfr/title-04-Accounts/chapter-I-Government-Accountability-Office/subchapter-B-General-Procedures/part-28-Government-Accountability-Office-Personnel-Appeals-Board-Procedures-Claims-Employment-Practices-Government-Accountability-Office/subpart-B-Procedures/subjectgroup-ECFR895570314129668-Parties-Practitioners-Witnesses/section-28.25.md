@@ -4,6 +4,6 @@
 
 (b) A party may choose any representative so long as the person is willing and available to serve. However, the other party or parties may challenge the representative on the grounds of conflict of interest or conflict of position. This challenge must be made by motion to the administrative judge within 10 days of service of the notice of designation, and shall be ruled upon by the administrative judge prior to any further proceeding in the case. These procedures apply equally to original and subsequent designations of representatives. In the event the selected representative is disqualified, the party affected shall be given a reasonable time to obtain another representative.
 
-(c) The administrative judge, on his or her own motion, may disqualify a party's representative on the grounds described in paragraph (b) of this section.
+(c) The administrative judge, on their own motion, may disqualify a party's representative on the grounds described in paragraph (b) of this section.
 
-[58 FR 61992, Nov. 23, 1993, as amended at 68 FR 69301, Dec. 12, 2003]
+[58 FR 61992, Nov. 23, 1993, as amended at 68 FR 69301, Dec. 12, 2003; 89 FR 51399, June 18, 2024]

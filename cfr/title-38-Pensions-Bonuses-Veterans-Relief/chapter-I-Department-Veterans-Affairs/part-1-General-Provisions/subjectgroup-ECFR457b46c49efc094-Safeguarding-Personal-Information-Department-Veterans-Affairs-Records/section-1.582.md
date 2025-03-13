@@ -132,4 +132,20 @@
 
 (viii) The notice requirement of Privacy Act subsection (e)(8) could prematurely reveal an ongoing criminal investigation to the subject of the investigation.
 
-(Authority: 5 U.S.C. 552a (j) and (k); 38 U.S.C. 501)[48 FR 29847, June 29, 1983, as amended at 68 FR 35298, June 13, 2003]
+(e) *Exemption of Harassment Prevention Program Records.* The Department of Veterans Affairs provides limited access to Harassment Prevention Program (HPP) records as indicated.
+
+(1) The system of records is exempted pursuant to the provisions of 5 U.S.C. 552a(k)(2) from subsections (c)(3), (d), (e)(1), (e)(4), (G), (H), (I), and (f): Diversity and Equal Employment Opportunity (EEO) Program Records (203VA08).
+
+(2) This exemption applies to the extent that information in these systems is subject to exemption pursuant to 5 U.S.C. 552a(k)(2).
+
+(3) For the reasons set forth, the system of records listed above is exempted under 5 U.S.C. 552a(k)(2) from the following provisions of 5 U.S.C. 552a:
+
+(i) 5 U.S.C. 552a(c)(3) requires that an agency make available to the individual to whom the records pertain upon request an accounting of disclosures of records that includes the date, nature and purpose of each disclosure of the record and the name and address of the recipient. Providing an individual with an accounting of disclosures of HPP records could reveal the existence of an investigation of alleged harassment and the allegations being investigated and therefore result in the alternation or destruction of evidence, improper influencing of witnesses, and other activities that could impede or compromise the investigation.
+
+(ii) 5 U.S.C. 552a(d), (e)(4), (G), (H), and (f) relate to an individual's right to be notified of the existence of records pertaining to such individual; requirements for identifying an individual who requests access to records; and the agency procedures relating to access to records and the contest of information contained in such records. Providing an individual with notification of, access to, or the right to seek amendment of HPP records could disclose the identity of confidential sources, reveal investigative techniques, and interfere with enforcement proceedings.
+
+(iii) 5 U.S.C. 552a(e)(4)(I) requires the publication of the categories of sources of records in each system of records. Revealing the sources of information in HPP records could discourage such sources from cooperating with investigations of alleged harassment for fear of reprisal. In addition, the disclosure of VA's investigative techniques and procedures and compromise the ability to conduct impartial investigations into workplace and sexual harassment allegations.
+
+(iv) 5 U.S.C. 552a(e)(1) requires each agency to maintain in its records only such information about an individual that is relevant and necessary to accomplish a purpose of the agency required by statute or Executive Order. The relevance or necessity of specific information in HPP records often cannot be detected in the early stages of an investigation and can only be established after the information is evaluated. Further, a thorough and complete investigation could involve information that at first appears incidental but ultimately becomes critical to the investigation.
+
+(Authority: 5 U.S.C. 552a(j) and (k); 38 U.S.C. 501) [48 FR 29847, June 29, 1983, as amended at 68 FR 35298, June 13, 2003; 89 FR 51443, June 18, 2024]

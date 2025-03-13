@@ -1,12 +1,10 @@
 ##### § 135.340 Initial and transition training and checking: Flight instructors (aircraft), flight instructors (simulator). #####
 
-Link to an amendment published at 89 FR 51432, June 18, 2024.
-
 (a) No certificate holder may use a person nor may any person serve as a flight instructor unless—
 
 (1) That person has satisfactorily completed initial or transition flight instructor training; and
 
-(2) Within the preceding 24 calendar months, that person satisfactorily conducts instruction under the observation of an FAA inspector, an operator check airman, or an aircrew designated examiner employed by the operator. The observation check may be accomplished in part or in full in an aircraft, in a flight simulator, or in a flight training device. This paragraph applies after March 19, 1997.
+(2) Within the preceding 24 calendar months, that person satisfactorily conducts instruction under the observation of an FAA inspector, an operator check pilot, or an aircrew designated examiner employed by the operator. The observation check may be accomplished in part or in full in an aircraft, in a flight simulator, or in a flight training device.
 
 (b) The observation check required by paragraph (a)(2) of this section is considered to have been completed in the month required if completed in the calendar month before, or the calendar month after, the month in which it is due.
 
@@ -50,10 +48,10 @@ Link to an amendment published at 89 FR 51432, June 18, 2024.
 
 (f) The requirements of paragraph (e) of this section may be accomplished in full or in part in flight, in a flight simulator, or in a flight training device, as appropriate.
 
-(g) The initial and transition flight training for a flight instructor (simulator) must include the following:
+(g) The initial and transition flight training for a flight instructor (FSTD) must include the following:
 
 (1) Training and practice in the required normal, abnormal, and emergency procedures to ensure competence to conduct the flight instruction required by this part. These maneuvers and procedures must be accomplished in full or in part in a flight simulator or in a flight training device.
 
 (2) Training in the operation of flight simulators, flight training devices, or both, to ensure competence to conduct the flight instruction required by this part.
 
-[Doc. No. 28471, 61 FR 30745, June 17, 1996; 61 FR 34927, July 3, 1996; 62 FR 3739, Jan. 24, 1997]
+[Doc. No. 28471, 61 FR 30745, June 17, 1996; 61 FR 34927, July 3, 1996; 62 FR 3739, Jan. 24, 1997, as amended by Docket No. FAA-2019-0360; Amdt. No. 135-145, 89 FR 51432, June 18, 2024]

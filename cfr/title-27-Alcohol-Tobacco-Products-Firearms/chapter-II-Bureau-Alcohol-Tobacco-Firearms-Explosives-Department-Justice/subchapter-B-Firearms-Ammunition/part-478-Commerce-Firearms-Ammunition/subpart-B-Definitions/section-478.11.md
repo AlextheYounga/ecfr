@@ -1,7 +1,5 @@
 ##### § 478.11 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 28630, Apr. 19, 2024.Link to a correction published at 89 FR 53488, June 27, 2024.
-
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this subpart. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.
 
 *Act.* 18 U.S.C. Chapter 44.
@@ -80,6 +78,14 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Customs officer.* Any officer of U.S. Customs and Border Protection, any commissioned, warrant, or petty officer of the Coast Guard, or any agent or other person authorized by law to perform the duties of a customs officer.
 
+*Dating relationship.* A relationship between individuals who have or have recently had a continuing serious relationship of a romantic or intimate nature. A casual acquaintanceship or ordinary fraternization in a business or social context does not constitute a dating relationship. Whether a relationship constitutes a dating relationship shall be determined based on consideration of—
+
+(1) The length of the relationship;
+
+(2) The nature of the relationship; and
+
+(3) The frequency and type of interaction between the individuals involved in the relationship.
+
 *Dealer.* Any person engaged in the business of selling firearms at wholesale or retail; any person engaged in the business of repairing firearms or of making or fitting special barrels, stocks, or trigger mechanisms to firearms; or any person who is a pawnbroker. The term shall include any person who engages in such business or occupation on a part-time basis. The term shall include such activities wherever, or through whatever medium, they are conducted, such as at a gun show or event, flea market, auction house, or gun range or club; at one's home; by mail order; over the internet (*e.g.,* online broker or auction); through the use of other electronic means (*e.g.,* text messaging service, social media raffle, or website); or at any other domestic or international public or private marketplace or premises.
 
 *Destructive device.* (a) Any explosive, incendiary, or poison gas (1) bomb, (2) grenade, (3) rocket having a propellant charge of more than 4 ounces, (4) missile having an explosive or incendiary charge of more than one-quarter ounce, (5) mine, or (6) device similar to any of the devices described in the preceding paragraphs of this definition; (b) any type of weapon (other than a shotgun or a shotgun shell which the Director finds is generally recognized as particularly suitable for sporting purposes) by whatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and (c) any combination of parts either designed or intended for use in converting any device into any destructive device described in paragraph (a) or (b) of this section and from which a destructive device may be readily assembled. The term shall not include any device which is neither designed nor redesigned for use as a weapon; any device, although originally designed for use as a weapon, which is redesigned for use as a signalling, pyrotechnic, line throwing, safety, or similar device; surplus ordnance sold, loaned, or given by the Secretary of the Army pursuant to the provisions of section 4684(2), 4685, or 4686 of title 10, United States Code; or any other device which the Director finds is not likely to be used as a weapon, is an antique, or is a rifle which the owner intends to use solely for sporting, recreational, or cultural purposes.
@@ -91,6 +97,10 @@ When used in this part and in forms prescribed under this part, where not otherw
 *Discharged under dishonorable conditions.* Separation from the U.S. Armed Forces resulting from a dishonorable discharge or dismissal adjudged by a general court-martial. The term does not include any separation from the Armed Forces resulting from any other discharge, e.g., a bad conduct discharge.
 
 *Division.* A Bureau of Alcohol, Tobacco, Firearms, and Explosives Division.
+
+*Drug trafficking crime.* (1) Any felony punishable under the Controlled Substances Act (21 U.S.C. 801 *et seq.*), the Controlled Substances Import and Export Act (21 U.S.C. 951 *et seq.*), or 46 U.S.C. chapter 705; and
+
+(2) Any felony punishable under the law of a State for which the conduct constituting the offense would constitute a felony punishable under the statutes cited in paragraph (1) of this definition.
 
 *Engaged in the business*—(1) *Manufacturer of firearms.* A person who devotes time, attention, and labor to manufacturing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms manufactured;
 
@@ -116,7 +126,11 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 “I declare under the penalties of perjury that this—(insert type of document, such as, statement, application, request, certificate), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete.”
 
+*Federal crime of terrorism.* Any offense as defined under 18 U.S.C. 2332b(g)(5).
+
 *Federal Firearms Act.* 15 U.S.C. Chapter 18.
+
+*Felony.* Any offense under Federal or State law punishable by imprisonment for a term exceeding one year.
 
 *Firearm.* Any weapon, including a starter gun, which will or is designed to or may readily be converted to expel a projectile by the action of an explosive; the frame or receiver of any such weapon; any firearm muffler or firearm silencer; or any destructive device; but the term shall not include an antique firearm. In the case of a licensed collector, the term shall mean only curios and relics. The term shall include a weapon parts kit that is designed to or may readily be completed, assembled, restored, or otherwise converted to expel a projectile by the action of an explosive. The term shall not include a weapon, including a weapon parts kit, in which the frame or receiver of such weapon is destroyed as described in the definition “frame or receiver”.
 
@@ -160,33 +174,45 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Licensed manufacturer.* A manufacturer licensed under the provisions of this part.
 
+*Local law enforcement authority.* A bureau, office, department, or other authority of a State or local government or Tribe that has jurisdiction to investigate a violation or potential violation of, or enforce, a State, local, or Tribal law.
+
 *Machine gun.* Any weapon which shoots, is designed to shoot, or can be readily restored to shoot, automatically more than one shot, without manual reloading, by a single function of the trigger. The term shall also include the frame or receiver of any such weapon, any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machine gun, and any combination of parts from which a machine gun can be assembled if such parts are in the possession or under the control of a person. For purposes of this definition, the term “automatically” as it modifies “shoots, is designed to shoot, or can be readily restored to shoot,” means functioning as the result of a self-acting or self-regulating mechanism that allows the firing of multiple rounds through a single function of the trigger; and “single function of the trigger” means a single pull of the trigger and analogous motions. The term “machine gun” includes a bump-stock-type device, *i.e.,* a device that allows a semi-automatic firearm to shoot more than one shot with a single pull of the trigger by harnessing the recoil energy of the semi-automatic firearm to which it is affixed so that the trigger resets and continues firing without additional physical manipulation of the trigger by the shooter.
 
 *Manufacturer.* Any person engaged in the business of manufacturing firearms or ammunition. The term shall include any person who engages in such business on a part-time basis.
 
 *Mental institution.* Includes mental health facilities, mental hospitals, sanitariums, psychiatric facilities, and other facilities that provide diagnoses by licensed professionals of mental retardation or mental illness, including a psychiatric ward in a general hospital.
 
-*Misdemeanor crime of domestic violence.* (a) Is a Federal, State or local offense that:
+*Misdemeanor crime of domestic violence.* (1) Is a Federal, State or local offense that:
 
-(1) Is a misdemeanor under Federal or State law or, in States which do not classify offenses as misdemeanors, is an offense punishable by imprisonment for a term of one year or less, and includes offenses that are punishable only by a fine. (This is true whether or not the State statute specifically defines the offense as a “misdemeanor” or as a “misdemeanor crime of domestic violence.” The term includes all such misdemeanor convictions in Indian Courts established pursuant to 25 CFR part 11.);
+(i) Is a misdemeanor under Federal, State, Tribal, or local law or, in States which do not classify offenses as misdemeanors, is an offense punishable by imprisonment for a term of one year or less, and includes offenses that are punishable only by a fine. (This is true whether or not the State statute specifically defines the offense as a “misdemeanor” or as a “misdemeanor crime of domestic violence.” The term includes all such misdemeanor convictions in Indian Courts established pursuant to 25 CFR part 11.);
 
-(2) Has, as an element, the use or attempted use of physical force (e.g., assault and battery), or the threatened use of a deadly weapon; and
+(ii) Has, as an element, the use or attempted use of physical force (e.g., assault and battery), or the threatened use of a deadly weapon; and
 
-(3) Was committed by a current or former spouse, parent, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabiting with or has cohabited with the victim as a spouse, parent, or guardian, (e.g., the equivalent of a “common law” marriage even if such relationship is not recognized under the law), or a person similarly situated to a spouse, parent, or guardian of the victim (e.g., two persons who are residing at the same location in an intimate relationship with the intent to make that place their home would be similarly situated to a spouse).
+(iii) Was committed by a current or former spouse, parent, or guardian of the victim; by a person with whom the victim shares a child in common; by a person who is cohabiting with or has cohabited with the victim as a spouse, parent, or guardian, (*e.g.,* the equivalent of a “common law” marriage even if such relationship is not recognized under the law); by a person similarly situated to a spouse, parent, or guardian of the victim (*e.g.,* two persons who are residing at the same location in an intimate relationship with the intent to make that place their home would be similarly situated to a spouse); or by a person who has a current or recent former dating relationship with the victim.
 
-(b) A person shall not be considered to have been convicted of such an offense for purposes of this part unless:
+(2) A person shall not be considered to have been convicted of such an offense for purposes of this part unless:
 
-(1) The person is considered to have been convicted by the jurisdiction in which the proceedings were held.
+(i) The person is considered to have been convicted by the jurisdiction in which the proceedings were held.
 
-(2) The person was represented by counsel in the case, or knowingly and intelligently waived the right to counsel in the case; and
+(ii) The person was represented by counsel in the case, or knowingly and intelligently waived the right to counsel in the case; and
 
-(3) In the case of a prosecution for which a person was entitled to a jury trial in the jurisdiction in which the case was tried, either
+(iii) In the case of a prosecution for which a person was entitled to a jury trial in the jurisdiction in which the case was tried, either
 
-(i) The case was tried by a jury, or
+(A) The case was tried by a jury, or
 
-(ii) The person knowingly and intelligently waived the right to have the case tried by a jury, by guilty plea or otherwise.
+(B) The person knowingly and intelligently waived the right to have the case tried by a jury, by guilty plea or otherwise.
 
-(c) A person shall not be considered to have been convicted of such an offense for purposes of this part if the conviction has been expunged or set aside, or is an offense for which the person has been pardoned or has had civil rights restored (if the law of the jurisdiction in which the proceedings were held provides for the loss of civil rights upon conviction for such an offense) unless the pardon, expunction, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms, and the person is not otherwise prohibited by the law of the jurisdiction in which the proceedings were held from receiving or possessing any firearms.
+(3) A person shall not be considered to have been convicted of such an offense for purposes of this part if the conviction has been expunged or set aside, or is an offense for which the person has been pardoned or has had civil rights restored (if the law of the jurisdiction in which the proceedings were held provides for the loss of civil rights upon conviction for such an offense) unless the pardon, expunction, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms, and the person is not otherwise prohibited by the law of the jurisdiction in which the proceedings were held from receiving or possessing any firearms.
+
+(4)(i) Subject to paragraphs (4)(ii) and (iii) of this definition, a person shall not be considered to have been convicted of a misdemeanor crime of domestic violence against an individual in a dating relationship if the conviction was entered before June 25, 2022, has been expunged or set aside, or is an offense for which the person has been pardoned or has had firearm rights restored, unless the expungement, pardon, or restoration of rights expressly provides that the person may not ship, transport, possess, or receive firearms.
+
+(ii) In the case of a person who has not more than one conviction of a misdemeanor crime of domestic violence against an individual in a dating relationship, and is not otherwise prohibited under 18 U.S.C. chapter 44, the person shall not be disqualified from shipping, transport, possession, receipt, or purchase of a firearm under 18 U.S.C. chapter 44 if:
+
+(A) Five years have elapsed from the later of the judgment of conviction or the completion of the person's custodial or supervisory sentence, if any; and
+
+(B) The person has not subsequently been convicted of another such offense, or any misdemeanor under Federal, State, local, or Tribal law that has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon, or any other offense that would disqualify the person under 18 U.S.C. 922(g).
+
+(iii) Restoration under paragraph (4)(ii) of this definition only removes the disqualification from shipping, transport, possession, receipt, or purchase of a firearm under this part. Restoration under paragraph (4)(ii) is not available for a current or former spouse, parent, or guardian of the victim; a person with whom the victim shares a child in common; a person who is cohabiting with or has cohabited with the victim as a spouse, parent, or guardian; or a person similarly situated to a spouse, parent, or guardian of the victim.
 
 *National Firearms Act.* 26 U.S.C. Chapter 53.
 

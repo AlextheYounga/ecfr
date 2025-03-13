@@ -1,6 +1,6 @@
 ##### § 83.12 Procedures for individual access to records. #####
 
-(a) Upon written request by any individual outside of GAO or upon written or oral request by any officer or employee of GAO to gain access to his or her record or to any information pertaining to the individual which is contained in a system of personnel records, and not otherwise exempted, GAO shall permit the individual and upon the individual's request a person of his or her own choosing to accompany him or her, to review the record and have a copy made of all or any portion thereof in a form comprehensible to him or her, except that GAO may require the individual to furnish a written statement authorizing discussion of that individual's record in the accompanying person's presence. When access to the records has been granted by a system manager or designee:
+(a) Upon written request by any individual outside of GAO or upon written or oral request by any officer or employee of GAO to gain access to his or her record or to any information pertaining to the individual which is contained in a system of personnel records, and not otherwise exempted, GAO shall permit the individual and upon the individual's request a person of his or her own choosing to accompany them, to review the record and have a copy made of all or any portion thereof in a form comprehensible to them, except that GAO may require the individual to furnish a written statement authorizing discussion of that individual's record in the accompanying person's presence. When access to the records has been granted by a system manager or designee:
 
 (1) Inspection in person may be made in the office designated in the system notice during the hours specified by GAO.
 
@@ -49,3 +49,5 @@
 (ii) From the data subject's parent, legal guardian, or authorized representative, contain sufficient information to locate the record, match identity with the data subject, and such documentation of association or authorization as is prescribed in paragraphs (c) and (d) of this section.
 
 (f) The signed request from the data subject, or from the data subject's parent, legal guardian, or authorized representative specified in paragraph (c) of this section shall be sufficient proof of identity of the requester, unless for good cause, the system manager or designee determines that there is a need to require some notarized or certified evidence of the identity of the requester.
+
+[50 FR 13162, Apr. 3, 1985, as amended at 89 FR 51399, June 18, 2024]

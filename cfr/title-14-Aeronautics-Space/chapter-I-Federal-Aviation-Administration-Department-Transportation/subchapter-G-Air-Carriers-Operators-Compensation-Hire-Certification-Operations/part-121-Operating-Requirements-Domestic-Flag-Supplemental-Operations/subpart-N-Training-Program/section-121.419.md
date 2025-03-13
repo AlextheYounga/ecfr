@@ -1,7 +1,5 @@
 ##### § 121.419 Pilots and flight engineers: Initial, transition, conversion and upgrade ground training. #####
 
-Link to an amendment published at 89 FR 51427, June 18, 2024.Link to an amendment published at 89 FR 57730, July 16, 2024.
-
 (a) Except as provided in paragraph (b) of this section, initial and conversion ground training for pilots and initial and transition ground training for flight engineers, must include instruction in at least the following as applicable to their assigned duties:
 
 (1) General subjects—
@@ -76,7 +74,7 @@ Link to an amendment published at 89 FR 51427, June 18, 2024.Link to an amendmen
 
 (2) The training required by paragraph (a)(2) of this section for the airplane type.
 
-(c) Beginning on April 27, 2022, and in addition to the requirements in paragraph (a) or (b) of this section, as applicable, initial ground training for pilots in command must include instruction and facilitated discussion on the following:
+(c) In addition to the requirements in paragraph (a) or (b) of this section, as applicable, initial ground training for pilots in command must include instruction and facilitated discussion on the following:
 
 (1) Leadership and command, including flightcrew member duties under § 121.542; and
 
@@ -102,10 +100,8 @@ Link to an amendment published at 89 FR 51427, June 18, 2024.Link to an amendmen
 
 (2) Group II airplanes, 110 hours.
 
-(f) *Compliance and pilot programmed hours.* (1) Compliance with the requirements identified in paragraphs (a)(2)(xi) and (a)(2)(xii) of this section is required no later than March 12, 2019.
+(f) Initial programmed hours applicable to pilots as specified in paragraphs (d) and (e) of this section must include 2 additional hours to meet the requirements in paragraphs (a)(2)(xi) and (xii) of this section.
 
 (2) Beginning March 12, 2019, initial programmed hours applicable to pilots as specified in paragraphs (d) and (e) of this section must include 2 additional hours.
 
-(g) Before April 27, 2022, upgrade ground training must include either the instruction specified in paragraph (a) of this section or the instruction specified in § 121.420. Beginning on April 27, 2022, upgrade ground training must include the instruction specified in § 121.420.
-
-[Doc. No. FAA-2010-0100, 78 FR 42377, July 15, 2013, as amended by Amdt. 121-366, 78 FR 67839, Nov. 12, 2013; Amdt. 121-382, 85 FR 10922, Feb. 25, 2020]
+[Doc. No. FAA-2010-0100, 78 FR 42377, July 15, 2013, as amended by Amdt. 121-366, 78 FR 67839, Nov. 12, 2013; Amdt. 121-382, 85 FR 10922, Feb. 25, 2020; Docket No. FAA-2019-0360; Amdt. No. 121-392, 89 FR 51427, June 18, 2024; Amdt. No. 121-392A, 89 FR 57730, July 16, 2024]

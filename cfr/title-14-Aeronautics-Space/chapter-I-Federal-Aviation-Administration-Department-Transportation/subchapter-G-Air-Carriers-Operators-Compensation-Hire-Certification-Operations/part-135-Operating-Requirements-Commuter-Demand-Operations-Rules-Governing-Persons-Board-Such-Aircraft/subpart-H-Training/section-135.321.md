@@ -1,12 +1,10 @@
 ##### § 135.321 Applicability and terms used. #####
 
-Link to an amendment published at 89 FR 51430, June 18, 2024.
-
 (a) Except as provided in § 135.3, this subpart prescribes the requirements applicable to—
 
 (1) A certificate holder under this part which contracts with, or otherwise arranges to use the services of a training center certificated under part 142 to perform training, testing, and checking functions;
 
-(2) Each certificate holder for establishing and maintaining an approved training program for crewmembers, check airmen and instructors, and other operations personnel employed or used by that certificate holder; and
+(2) Each certificate holder for establishing and maintaining an approved training program for crewmembers, check pilots and instructors, and other operations personnel employed or used by that certificate holder; and
 
 (3) Each certificate holder for the qualification, approval, and use of aircraft simulators and flight training devices in the conduct of the program.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 89 FR 51430, June 18, 2024.
 
 (iii) Line checks required by § 135.299.
 
-[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978, as amended by Amdt. 121-250, 60 FR 65950, Dec. 20, 1995; Amdt. 135-63, 61 FR 34561, July 2, 1996; Amdt. 135-91, 68 FR 54588, Sept. 17, 2003]
+[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978, as amended by Amdt. 121-250, 60 FR 65950, Dec. 20, 1995; Amdt. 135-63, 61 FR 34561, July 2, 1996; Amdt. 135-91, 68 FR 54588, Sept. 17, 2003; Docket No. FAA-2019-0360; Amdt. No. 135-145, 89 FR 51430, June 18, 2024]

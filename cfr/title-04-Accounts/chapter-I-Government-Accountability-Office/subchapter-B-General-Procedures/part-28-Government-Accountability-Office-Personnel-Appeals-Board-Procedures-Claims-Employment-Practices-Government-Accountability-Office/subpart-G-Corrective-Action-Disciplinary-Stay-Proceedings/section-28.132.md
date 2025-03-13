@@ -1,6 +1,6 @@
 ##### § 28.132 Disciplinary proceedings. #####
 
-(a) If the General Counsel determines after any investigation under 31 U.S.C. 752(b) that disciplinary action should be initiated against an employee, the General Counsel shall prepare a written complaint against the employee containing his or her determination, together with a statement of the supporting facts, and present the complaint and the statement to the employee and the Board in accordance with paragraphs (b) and (c) of this section.
+(a) If the General Counsel determines after any investigation under 31 U.S.C. 752(b) that disciplinary action should be initiated against an employee, the General Counsel shall prepare a written complaint against the employee containing their determination, together with a statement of the supporting facts, and present the complaint and the statement to the employee and the Board in accordance with paragraphs (b) and (c) of this section.
 
 (b) In the case of an employee in a confidential, policy making, policy-determining, or policy-advocating position appointed by the President, by and with the advice and consent of the Senate, the complaint and statement referred to in paragraph (a) of this section, with any response by the employee, shall be presented to the Congress for appropriate action in lieu of being presented under paragraph (d) of this section.
 
@@ -20,4 +20,4 @@
 
 (e) An employee subject to a final decision ordering disciplinary action under this section may obtain judicial review of the order in the U.S. Court of Appeals for the Federal Circuit in accordance with 31 U.S.C. 755.
 
-[58 FR 61992, Nov. 23, 1993, as amended at 68 FR 69304, Dec. 12, 2003]
+[58 FR 61992, Nov. 23, 1993, as amended at 68 FR 69304, Dec. 12, 2003; 89 FR 51399, June 18, 2024]

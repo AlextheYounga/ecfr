@@ -1,12 +1,10 @@
-##### § 478.99 Certain prohibited sales or deliveries. #####
-
-Link to an amendment published at 89 FR 28631, Apr. 19, 2024.
+##### § 478.99 Certain prohibited sales, purchases, or deliveries. #####
 
 (a) *Interstate sales or deliveries.* A licensed importer, licensed manufacturer, licensed dealer, or licensed collector shall not sell or deliver any firearm to any person not licensed under this part and who the licensee knows or has reasonable cause to believe does not reside in (or if a corporation or other business entity, does not maintain a place of business in) the State in which the licensee's place of business or activity is located: *Provided,* That the foregoing provisions of this paragraph (1) shall not apply to the sale or delivery of a rifle or shotgun (curio or relic, in the case of a licensed collector) to a resident of a State other than the State in which the licensee's place of business or collection premises is located if the requirements of § 478.96(c) are fully met, and (2) shall not apply to the loan or rental of a firearm to any person for temporary use for lawful sporting purposes (see § 478.97).
 
 (b) *Sales or deliveries to underaged persons.* A licensed importer, licensed manufacturer, licensed dealer, or licensed collector shall not sell or deliver (1) any firearm or ammunition to any individual who the importer, manufacturer, dealer, or collector knows or has reasonable cause to believe is less than 18 years of age, and, if the firearm, or ammunition, is other than a shotgun or rifle, or ammunition for a shotgun or rifle, to any individual who the importer, manufacturer, dealer, or collector knows or has reasonable cause to believe is less than 21 years of age, or (2) any firearm to any person in any State where the purchase or possession by such person of such firearm would be in violation of any State law or any published ordinance applicable at the place of sale, delivery, or other disposition, unless the importer, manufacturer, dealer, or collector knows or has reasonable cause to believe that the purchase or possession would not be in violation of such State law or such published ordinance.
 
-(c) *Sales or deliveries to prohibited categories of persons.* A licensed manufacturer, licensed importer, licensed dealer, or licensed collector shall not sell or otherwise dispose of any firearm or ammunition to any person knowing or having reasonable cause to believe that such person:
+(c) *Sales or deliveries to prohibited categories of persons.* No person may sell or otherwise dispose of any firearm or ammunition to any person knowing or having reasonable cause to believe that such person, including as a juvenile:
 
 (1) Is, except as provided by § 478.143, under indictment for, or, except as provided by § 478.144, has been convicted in any court of a crime punishable by imprisonment for a term exceeding 1 year;
 
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 28631, Apr. 19, 2024.
 
 (3) Is an unlawful user of or addicted to any controlled substance (as defined in section 102 of the Controlled Substance Act, 21 U.S.C. 802);
 
-(4) Has been adjudicated as a mental defective or has been committed to any mental institution;
+(4) Has been adjudicated as a mental defective or has been committed to a mental institution at 16 years of age or older;
 
 (5) Is an alien illegally or unlawfully in the United States or, except as provided in § 478.32(f), is an alien who has been admitted to the United States under a nonimmigrant visa: *Provided,* That the provisions of this paragraph (c)(5) do not apply to any alien who has been lawfully admitted to the United States under a nonimmigrant visa if that alien is—
 
@@ -36,9 +34,13 @@ Link to an amendment published at 89 FR 28631, Apr. 19, 2024.
 
 (ii)(A) Includes a finding that such person represents a credible threat to the physical safety of such intimate partner or child; or
 
-(B) By its terms explicitly prohibits the use, attempted use, or threatened use of physical force against such intimate partner or child that would reasonably be expected to cause bodily injury, or
+(B) By its terms explicitly prohibits the use, attempted use, or threatened use of physical force against such intimate partner or child that would reasonably be expected to cause bodily injury;
 
-(9) Has been convicted of a misdemeanor crime of domestic violence.
+(9) Has been convicted of a misdemeanor crime of domestic violence;
+
+(10) Intends to sell or otherwise dispose of the firearm or ammunition in furtherance of a felony, a Federal crime of terrorism, or a drug trafficking offense; or
+
+(11) Intends to sell or otherwise dispose of the firearm or ammunition to a person described in any of paragraphs (c)(1) through (10) of this section.
 
 (d) *Manufacture, importation, and sale of armor piercing ammunition by licensed importers and licensed manufacturers.* A licensed importer or licensed manufacturer shall not import or manufacture armor piercing ammunition or sell or deliver such ammunition, except:
 
@@ -50,4 +52,20 @@ Link to an amendment published at 89 FR 28631, Apr. 19, 2024.
 
 (e) *Transfer of armor piercing ammunition by licensed dealers.* A licensed dealer shall not willfully transfer armor piercing ammunition: *Provided,* That armor piercing ammunition received and maintained by the licensed dealer as business inventory prior to August 28, 1986, may be transferred to any department or agency of the United States or any State or political subdivision thereof if a record of such ammunition is maintained in the form and manner prescribed by § 478.125(c). Any licensed dealer who violates this paragraph is subject to license revocation. See subpart E of this part. For purposes of this paragraph, the Director shall furnish each licensed dealer information defining which projectiles are considered armor piercing. Such information may not be all-inclusive for purposes of the prohibition on manufacture, importation, or sale or delivery by a manufacturer or importer of such ammunition or 18 U.S.C. 929 relating to criminal misuse of such ammunition.
 
-[T.D. ATF-270, 53 FR 10497, Mar. 31, 1988, as amended by T.D. ATF-363, 60 FR 17454, Apr. 6, 1995; T.D. ATF-401, 63 FR 35523, June 30, 1998; T.D. ATF-471, 67 FR 5426, Feb. 5, 2002; ATF-24F, 77 FR 33629, June 7, 2012]
+(f) *Purchase for, or conspire to purchase for, or sell or otherwise dispose of firearms to certain prohibited persons.* It is unlawful for any person to knowingly purchase, or conspire to purchase, any firearm in or otherwise affecting interstate or foreign commerce for, on behalf of, or at the request or demand of any other person, knowing or having reasonable cause to believe that such other person:
+
+(1) Meets the criteria of one or more subsections of 18 U.S.C. 922(d);
+
+(2) Intends to use, carry, possess, or sell or otherwise dispose of, the firearm in furtherance of a felony, a Federal crime of terrorism, or a drug trafficking crime; or
+
+(3) Intends to sell or otherwise dispose of the firearm to a person described in paragraph (f)(1) or (2) of this section.
+
+(g) *Transfer, otherwise dispose of, or attempt or conspire to dispose of, ship, transport, or cause to be transported, firearms when use, carrying, possession, or receipt constitutes a felony.* It shall be unlawful for any person to:
+
+(1) Transfer, otherwise dispose of, ship, transport, or cause to be transported, any firearm to another person in or otherwise affecting interstate or foreign commerce, knowing or having reasonable cause to believe that it would constitute a felony for the recipient to use, carry, or possess a firearm;
+
+(2) Receive any firearm in or otherwise affecting interstate or foreign commerce if the recipient knows or has reasonable cause to believe that receiving the firearm would constitute a felony; or
+
+(3) Attempt or conspire to commit the conduct described in paragraph (g)(1) or (2) of this section.
+
+[T.D. ATF-270, 53 FR 10497, Mar. 31, 1988, as amended by T.D. ATF-363, 60 FR 17454, Apr. 6, 1995; T.D. ATF-401, 63 FR 35523, June 30, 1998; T.D. ATF-471, 67 FR 5426, Feb. 5, 2002; ATF-24F, 77 FR 33629, June 7, 2012; ATF 2022R-09, 89 FR 28631, Apr. 19, 2024]

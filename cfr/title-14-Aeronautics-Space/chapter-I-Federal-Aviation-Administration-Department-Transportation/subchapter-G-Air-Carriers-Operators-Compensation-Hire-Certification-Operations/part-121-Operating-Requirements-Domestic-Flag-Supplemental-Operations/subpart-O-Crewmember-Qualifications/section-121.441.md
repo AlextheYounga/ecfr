@@ -1,22 +1,12 @@
 ##### § 121.441 Proficiency checks. #####
 
-Link to an amendment published at 89 FR 51428, June 18, 2024.
-
 (a) No certificate holder may use any person nor may any person serve as a required pilot flight crewmember unless that person has satisfactorily completed either a proficiency check, or an approved FFS course of training under § 121.409, as follows:
 
 (1) For a pilot in command—
 
-(i) Before March 12, 2019,
+(i) A proficiency check within the preceding 12 calendar months in the aircraft type in which the person is to serve and,
 
-(A) A proficiency check within the preceding 12 calendar months and,
-
-(B) In addition, within the preceding 6 calendar months, either a proficiency check or the approved FFS course of training.
-
-(ii) Beginning on March 12, 2019,
-
-(A) A proficiency check within the preceding 12 calendar months in the aircraft type in which the person is to serve and,
-
-(B) In addition, within the preceding 6 calendar months, either a proficiency check or the approved FFS course of training.
+(ii) In addition, within the preceding 6 calendar months, either a proficiency check or the approved FFS course of training.
 
 (2) For all other pilots—
 
@@ -28,7 +18,7 @@ Link to an amendment published at 89 FR 51428, June 18, 2024.
 
 (1) It must include at least the procedures and maneuvers set forth in appendix F to this part unless otherwise specifically provided in that appendix.
 
-(2) It must be given by the Administrator or a pilot check airman.
+(2) It must be given by the Administrator or a check pilot.
 
 (c) An approved FFS or FTD may be used in the conduct of a proficiency check as provided in appendix F to this part.
 
@@ -62,4 +52,4 @@ Link to an amendment published at 89 FR 51428, June 18, 2024.
 
 (3) The administrator may, at any time, terminate a grant of deviation authority issued under this paragraph (f).
 
-[Doc. No. 9509, 35 FR 96, Jan. 3, 1970, as amended by Amdt. 121-103, 38 FR 12203, May 10, 1973, Amdt. 121-108, 38 FR 35446, Dec. 28, 1973; Amdt. 121-144, 43 FR 22648, May 25, 1978; Amdt. 121-263, 62 FR 13791, Mar. 21, 1997; Amdt. 121-366, 78 FR 67841, Nov. 12, 2013; Docket FAA-2016-9526, Amdt. 121-377, 81 FR 90983, Dec. 16, 2016; Amdt. 121-377A, 81 FR 95860, Dec. 29, 2016; Amdt. 121-377B, 83 FR 12475, Mar. 22, 2018; Amdt. 121-382, 85 FR 10926, Feb. 25, 2020]
+[Doc. No. 9509, 35 FR 96, Jan. 3, 1970, as amended by Amdt. 121-103, 38 FR 12203, May 10, 1973, Amdt. 121-108, 38 FR 35446, Dec. 28, 1973; Amdt. 121-144, 43 FR 22648, May 25, 1978; Amdt. 121-263, 62 FR 13791, Mar. 21, 1997; Amdt. 121-366, 78 FR 67841, Nov. 12, 2013; Docket FAA-2016-9526, Amdt. 121-377, 81 FR 90983, Dec. 16, 2016; Amdt. 121-377A, 81 FR 95860, Dec. 29, 2016; Amdt. 121-377B, 83 FR 12475, Mar. 22, 2018; Amdt. 121-382, 85 FR 10926, Feb. 25, 2020; Docket No. FAA-2019-0360; Amdt. No. 121-392, 89 FR 51428, June 18, 2024]

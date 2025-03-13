@@ -1,7 +1,5 @@
 ##### § 135.3 Rules applicable to operations subject to this part. #####
 
-Link to an amendment published at 89 FR 51430, June 18, 2024.
-
 (a) Each person operating an aircraft in operations under this part shall—
 
 (1) While operating inside the United States, comply with the applicable rules of this chapter; and
@@ -14,12 +12,12 @@ Link to an amendment published at 89 FR 51430, June 18, 2024.
 
 (d) Additional limitations applicable to certificate holders that are required by paragraph (b) of this section or authorized in accordance with paragraph (c) of this section, to comply with part 121, subparts N and O of this chapter instead of subparts E, G, and H of this part.
 
-(1) *Upgrade training.* (i) Each certificate holder must include in upgrade ground training for pilots, instruction in at least the subjects identified in § 121.419(a) of this chapter, as applicable to their assigned duties; and, for pilots serving in crews of two or more pilots, beginning on April 27, 2022, instruction and facilitated discussion in the subjects identified in § 121.419(c) of this chapter.
+(1) *Upgrade training.* (i) Each certificate holder must include in upgrade ground training for pilots, instruction in at least the subjects identified in § 121.419(a) of this chapter, as applicable to their assigned duties; and, for pilots serving in crews of two or more pilots, instruction and facilitated discussion in the subjects identified in § 121.419(c) of this chapter.
 
-(ii) Each certificate holder must include in upgrade flight training for pilots, flight training for the maneuvers and procedures required in § 121.424(a), (c), (e), and (f) of this chapter; and, for pilots serving in crews of two or more pilots, beginning on April 27, 2022, the flight training required in § 121.424(b) of this chapter.
+(ii) Each certificate holder must include in upgrade flight training for pilots, flight training for the maneuvers and procedures required in § 121.424(a), (c), (e), and (f) of this chapter; and, for pilots serving in crews of two or more pilots, the flight training required in § 121.424(b) of this chapter.
 
-(2) *Initial and recurrent leadership and command and mentoring training.* Certificate holders are not required to include leadership and command training in §§ 121.409(b)(2)(ii)(B)(*6*), 121.419(c)(1), 121.424(b) and 121.427(d)(1) of this chapter and mentoring training in §§ 121.419(c)(2) and 121.427(d)(1) of this chapter in initial and recurrent training for pilots in command who serve in operations that use only one pilot.
+(2) Initial and recurrent leadership and command and mentoring training. Certificate holders are not required to include leadership and command training in §§ 121.409(b)(2)(ii)(F), 121.419(c)(1), 121.424(b) and 121.427(d)(1) of this chapter and mentoring training in §§ 121.419(c)(2) and 121.427(d)(1) of this chapter in initial and recurrent training for pilots in command who serve in operations that use only one pilot.
 
 (3) *One-time leadership and command and mentoring training.* Section 121.429 of this chapter does not apply to certificate holders conducting operations under this part when those operations use only one pilot.
 
-[Doc. No. 27993, 60 FR 65949, Dec. 20, 1995, as amended by Amdt. 135-65, 61 FR 30435, June 14, 1996; Amdt. 135-127A, 78 FR 77574, Dec. 24, 2013; Docket FAA-2010-0100, Amdt. 135-127B, 81 FR 2, Jan. 4, 2016; Amdt. 135-142, 85 FR 10935, Feb. 25, 2020]
+[Doc. No. 27993, 60 FR 65949, Dec. 20, 1995, as amended by Amdt. 135-65, 61 FR 30435, June 14, 1996; Amdt. 135-127A, 78 FR 77574, Dec. 24, 2013; Docket FAA-2010-0100, Amdt. 135-127B, 81 FR 2, Jan. 4, 2016; Amdt. 135-142, 85 FR 10935, Feb. 25, 2020; Docket No. FAA-2019-0360; Amdt. No. 135-145, 89 FR 51430, June 18, 2024]

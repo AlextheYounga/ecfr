@@ -1,5 +1,7 @@
 ##### § 1217.41 Nominations and appointments. #####
 
+Link to an amendment published at 89 FR 58251, July 18, 2024.
+
 Nominations shall be conducted as follows:
 
 (a) The Board shall conduct outreach to all segments of the softwood lumber industry. Softwood lumber domestic manufacturers and importers may submit nominations to the Board. Nominees must domestically manufacture and/or import 15 million board feet or more of softwood lumber per fiscal year;

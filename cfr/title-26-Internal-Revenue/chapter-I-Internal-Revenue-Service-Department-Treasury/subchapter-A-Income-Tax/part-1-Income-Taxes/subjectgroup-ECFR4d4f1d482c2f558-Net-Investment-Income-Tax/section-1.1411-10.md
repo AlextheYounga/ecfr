@@ -42,11 +42,11 @@
 
 (iv) *Gain or loss attributable to the disposition of interests in domestic partnerships or S corporations that own directly or indirectly stock of CFCs or QEFs.* With respect to stock of a CFC or QEF for which an election under paragraph (g) of this section is not in effect, for purposes of calculating the net gain under §§ 1.1411-4(a)(1)(iii) and 1.1411-4(d) that is attributable to the disposition of an interest in a domestic partnership or S corporation that directly or indirectly owns that stock, basis is determined in accordance with the provisions of paragraph (d) of this section.
 
-(3) *Application of section 1248.* With respect to stock of a CFC or QEF for which an election under paragraph (g) of this section is not in effect, for purposes of section 1411 and § 1.1411-4—
+(3) *Application of sections 1248 and 367(b).* With respect to stock of a foreign corporation that is a CFC (or that was a CFC at any time during the 5-year period ending on the date of sale or exchange) or QEF for which an election under paragraph (g) of this section is not in effect, for purposes of section 1411 and § 1.1411-4—
 
-(i) In determining the gain recognized on the sale or exchange of stock of a foreign corporation for section 1248(a) purposes, basis is determined in accordance with the provisions of paragraph (d) of this section; and
+(i) In determining the amount of gain recognized on the sale or exchange of stock of a foreign corporation under section 1248(a) or the amount of gain realized on the exchange of stock of a foreign corporation under § 1.367(b)-4 or 1.367(b)-5, basis is determined in accordance with the provisions of paragraph (d) of this section; and
 
-(ii) Section 1248(a) applies without regard to the exclusion for certain earnings and profits under sections 1248(d)(1) and (d)(6), except that those exclusions will apply with respect to the earnings and profits of a foreign corporation that are attributable to:
+(ii) Section 1248(a), and § 1.367(b)-2(c)(1) and (d)(2)(ii) apply without regard to the exclusions for certain earnings and profits under section 1248(d)(1) and (6), except that those exclusions will apply with respect to the earnings and profits of a foreign corporation that are attributable to:
 
 (A) Amounts taken into account as net investment income under paragraph (b) of this section; and
 
@@ -87,6 +87,8 @@
 (3) *Special rules for S corporation shareholders that own interests in S corporations that own directly or indirectly stock of CFCs or QEFs.* The rules of this paragraph (d)(3) apply with respect to stock of a CFC or QEF for which an election under paragraph (g) of this section is not in effect, and that is held by an S corporation, directly or indirectly through one or more entities each of which is foreign. In such case, the basis increases provided in section 1367(a)(1)(A) to its shareholders for chapter 1 purposes that are attributable to amounts that the S corporation includes or included in gross income for chapter 1 purposes under section 951(a) or section 1293(a) for taxable years beginning after December 31, 2012, are not taken into account for purposes of section 1411. Instead, each shareholder's adjusted basis of stock in the S corporation is increased by its share of the distributions to the S corporation from the CFC or QEF that are treated as dividends for purposes of section 1411 under paragraph (c)(1)(i) of this section. Similar rules apply when the S corporation holds an interest in a CFC or QEF through a partnership. For purposes of determining net investment income under section 1411 and the regulations thereunder, the shareholder's adjusted basis in the stock of the S corporation as calculated under this paragraph (d)(3) is used to determine all tax consequences related to tax basis (for example, loss limitation rules and the characterization of S corporation distributions).
 
 (4) *Special rules for participants in common trust funds.* Rules similar to the rules in paragraphs (d)(2) and (3) of this section apply to ownership interests in common trust funds (as defined in section 584).
+
+(5) *Basis adjustments under section 367(b).* With respect to stock of a foreign corporation that is exchanged in a transaction subject to section 367(b), the portion of the basis increase provided by § 1.367(b)-2(e)(3)(ii) by reason of paragraph (c)(3)(ii) of this section is made solely for purposes of section 1411.
 
 (e) *Conforming adjustments to modified adjusted gross income and adjusted gross income*—(1) *Individuals.* Solely for purposes of section 1411(a)(1)(B)(i) and the regulations thereunder, the term *modified adjusted gross income* means modified adjusted gross income as defined in § 1.1411-2(c)(1)—
 
@@ -184,6 +186,6 @@ Example 6. Domestic partnership's sale of QEF stock.(i) *Facts.* Same facts as *
 
 (B) Based on PRS's basis in the stock of QEF for section 1411 purposes, PRS has a gain for section 1411 purposes of $110,000 ($170,000 minus $60,000), which in the absence of an election by PRS under paragraph (g) of this section, results in gain of $55,000 to C, $27,500 to D, and $27,500 to E. Therefore, C has net investment income of $55,000, and D and E each have net investment income of $27,500. Pursuant to paragraph (e)(1)(ii) of this section, C increases his modified adjusted gross income by $30,000, and D and E each increase their modified adjusted gross income by $15,000.
 
-(i) *Effective/applicability date.* This section applies to taxable years beginning after December 31, 2013. However, taxpayers may apply this section to taxable years beginning after December 31, 2012, in accordance with § 1.1411-1(f).
+(i) *Effective/applicability date.* This section applies to taxable years beginning after December 31, 2013. However, taxpayers may apply this section to taxable years beginning after December 31, 2012, in accordance with § 1.1411-1(f). Paragraph (c)(3) of this section, to the extent it references regulations issued under section 367(b), and paragraph (d)(5) of this section, apply to transactions completed on or after October 5, 2023, and to any transactions treated as completed before October 5, 2023, as a result of an entity classification election made under § 301.7701-3 of this chapter that is filed on or after October 5, 2023.
 
-[T.D. 9644, 78 FR 72424, Dec. 2, 2013, as amended at 79 FR 18160, Apr. 1, 2014]
+[T.D. 9644, 78 FR 72424, Dec. 2, 2013, as amended at 79 FR 18160, Apr. 1, 2014; T.D. 10004, 89 FR 58285, July 18, 2024]

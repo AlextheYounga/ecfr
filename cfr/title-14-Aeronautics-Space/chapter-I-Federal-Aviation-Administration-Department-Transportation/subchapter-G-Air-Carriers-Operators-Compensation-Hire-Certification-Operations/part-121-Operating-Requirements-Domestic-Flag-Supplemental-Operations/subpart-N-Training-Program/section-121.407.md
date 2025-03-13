@@ -1,7 +1,5 @@
 ##### § 121.407 Training program: Approval of flight simulation training devices. #####
 
-Link to an amendment published at 89 FR 51425, June 18, 2024.
-
 (a) Each FSTD used to satisfy a training requirement of this part in an approved training program, must meet all of the following requirements:
 
 (1) Be specifically approved by the Administrator for—
@@ -18,7 +16,7 @@ Link to an amendment published at 89 FR 51425, June 18, 2024.
 
 (4) Be given a daily functional preflight check before being used.
 
-(5) Have a daily discrepancy log kept with each discrepancy entered in that log by the appropriate instructor or check airman at the end of each training or check flight.
+(5) Have a daily discrepancy log kept with each discrepancy entered in that log by the appropriate instructor, check pilot, or check flight engineer at the end of each training or check flight.
 
 (b) A particular FSTD may be approved for use by more than one certificate holder.
 
@@ -30,6 +28,6 @@ Link to an amendment published at 89 FR 51425, June 18, 2024.
 
 (d) An FFS approved under this section must be used instead of the airplane to satisfy the pilot flight training requirements prescribed in the certificate holder's approved low-altitude windshear flight training program set forth in § 121.409(d) of this part.
 
-(e) An FFS approved under this section must be used instead of the airplane to satisfy the pilot flight training requirements prescribed in the extended envelope training set forth in § 121.423 of this part. Compliance with this paragraph is required no later than March 12, 2019.
+(e) An FFS approved under this section must be used instead of the airplane to satisfy the pilot flight training requirements prescribed in the extended envelope training set forth in § 121.423 of this part.
 
-[Doc. No. 9509, 35 FR 90, Jan. 3, 1970, as amended by Amdt. 121-161, 45 FR 44183, June 30, 1980; Amdt. 121-199, 53 FR 37696, Sept. 27, 1988; Amdt. 121-366, 78 FR 67836, Nov. 12, 2013; Amdt. 121-382, 85 FR 10921, Feb. 25, 2020]
+[Doc. No. 9509, 35 FR 90, Jan. 3, 1970, as amended by Amdt. 121-161, 45 FR 44183, June 30, 1980; Amdt. 121-199, 53 FR 37696, Sept. 27, 1988; Amdt. 121-366, 78 FR 67836, Nov. 12, 2013; Amdt. 121-382, 85 FR 10921, Feb. 25, 2020; Docket No. FAA-2019-0360; Amdt. No. 121-392, 89 FR 51425, June 18, 2024]

@@ -1,5 +1,7 @@
 ##### § 1217.44 Procedure. #####
 
+Link to an amendment published at 89 FR 58251, July 18, 2024.
+
 (a) A majority of Board members (exclusive of vacant seats) will constitute a quorum so long as at least two of the members present are importer members and five of the members present are domestic manufacturers. If participation by telephone or other means is permitted, members participating by such means shall count as present in determining quorum or other voting requirements set forth in this section.
 
 (b) All votes at meetings of the Board, executive committee, and other committees will be cast in person or by electronic voting or other means as the Board and Secretary deem appropriate to allow members participating by telephone or other electronic means to cast votes. Voting by proxy will not be allowed.

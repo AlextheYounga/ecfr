@@ -8,6 +8,10 @@
 
 (iv) Section 1.367(b)-4(b)(1)(i)(B)(*2*), § 1.367(b)-4(b)(1)(ii), § 1.367(b)-4(b)(1)(iii), *Example 4* and *Example 5* apply to section 367(b) exchanges that occur on or after April 18, 2013. For guidance with respect to § 1.367(b)-4(b)(1)(i)(B)(*2*), § 1.367(b)-4(b)(1)(ii) and § 1.367(b)-4(b)(1)(iii), *Example 4,* for exchanges that occur before April 18, 2013, see 26 CFR part 1 revised as of April 1, 2012.
 
+(v) Section 1.367(b)-2(j)(2) applies to transactions completed on or after October 5, 2023, and to any transactions treated as completed before October 5, 2023, as a result of an entity classification election made under § 301.7701-3 of this chapter that is filed on or after October 5, 2023.
+
+(vi) Section 1.367(b)-1(c)(2)(vi), (c)(4)(viii), and (c)(4)(ix) apply to taxable years ending on or after October 5, 2023. However, a taxpayer and its related parties (within the meaning of sections 267(b) and 707(b)(1)) may choose to apply the rules referred to in the preceding sentence to all open taxable years ending before October 5, 2023, provided that the taxpayer and its related parties consistently apply such rules and § 1.367(b)-3(g) for such years.
+
 (2) *Exception.* A taxpayer may, however, elect to have §§ 1.367(b)-1 through 1.367(b)-5, and this section, apply to section 367(b) exchanges that occur (or occurred) before February 23, 2000, if the due date for the taxpayer's timely filed Federal tax return (including extensions) for the taxable year in which the section 367(b) exchange occurs (or occurred) is after February 23, 2000. The election under this paragraph (a)(2) will be valid only if—
 
 (i) The electing taxpayer makes the election on a timely filed section 367(b) notice;
@@ -24,4 +28,4 @@
 
 (d) *Effect of removal of attribution rules.* To the extent that the rules under §§ 7.367(b)-9 and 7.367(b)-10(h) of this chapter, as in effect prior to February 23, 2000 (see 26 CFR part 1, revised as of April 1, 1999), attributed earnings and profits to the stock of a foreign corporation in connection with an exchange described in section 351, 354, 355, or 356 before February 23, 2000, the foreign corporation shall continue to be subject to the rules of § 7.367(b)-12 of this chapter in the event of any subsequent exchanges and distributions with respect to such stock, notwithstanding the fact that such subsequent exchange or distribution occurs on or after the effective date described in paragraph (a) of this section.
 
-[T.D. 8862, 65 FR 3608, Jan. 24, 2000, as amended by T.D. 9243, 71 FR 4289, Jan. 26, 2006; T.D. 9250, 71 FR 8805, Feb. 21, 2006; T.D. 9243, 71 FR 28266, May 16, 2006; T.D. 9273, 71 FR 44895, Aug. 8, 2006; 73 FR 14386, Mar. 18, 2008; T.D. 9614, 78 FR 17041, Mar. 19, 2013; T.D. 9834, 83 FR 32536, July 12, 2018]
+[T.D. 8862, 65 FR 3608, Jan. 24, 2000, as amended by T.D. 9243, 71 FR 4289, Jan. 26, 2006; T.D. 9250, 71 FR 8805, Feb. 21, 2006; T.D. 9243, 71 FR 28266, May 16, 2006; T.D. 9273, 71 FR 44895, Aug. 8, 2006; 73 FR 14386, Mar. 18, 2008; T.D. 9614, 78 FR 17041, Mar. 19, 2013; T.D. 9834, 83 FR 32536, July 12, 2018; T.D. 10004, 89 FR 58283, July 18, 2024]

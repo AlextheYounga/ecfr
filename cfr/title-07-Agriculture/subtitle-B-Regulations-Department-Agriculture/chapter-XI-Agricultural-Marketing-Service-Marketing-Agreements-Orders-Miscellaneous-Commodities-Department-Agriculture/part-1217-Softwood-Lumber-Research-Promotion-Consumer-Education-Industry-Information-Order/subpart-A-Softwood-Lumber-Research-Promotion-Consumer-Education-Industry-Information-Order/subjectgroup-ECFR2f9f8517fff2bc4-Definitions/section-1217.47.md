@@ -1,5 +1,7 @@
 ##### § 1217.47 Prohibited activities. #####
 
+Link to an amendment published at 89 FR 58251, July 18, 2024.Link to an amendment published at 89 FR 58252, July 18, 2024.
+
 The Board may not engage in, and shall prohibit the employees and agents of the Board from engaging in:
 
 (a) Any action that would be a conflict of interest;

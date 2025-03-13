@@ -1,7 +1,5 @@
 ##### § 121.426 Pilots: Upgrade flight training. #####
 
-Link to an amendment published at 89 FR 51428, June 18, 2024.
-
 (a) Upgrade flight training for pilots must include the following:
 
 (1) Seat dependent maneuvers and procedures, as applicable;
@@ -36,6 +34,4 @@ Link to an amendment published at 89 FR 51428, June 18, 2024.
 
 (2) With respect to § 121.409(d), training and practice in at least the maneuvers and procedures set forth in the certificate holder's approved low-altitude windshear flight training program that are capable of being performed in an FFS in which the maneuvers and procedures are specifically authorized.
 
-(d) Compliance dates: Beginning on April 27, 2022, upgrade flight training must satisfy the requirements of this section.
-
-[Amdt. 121-382, 85 FR 10924, Feb. 25, 2020]
+[Amdt. 121-382, 85 FR 10924, Feb. 25, 2020, as amended by Docket No. FAA-2019-0360; Amdt. No. 121-392, 89 FR 51428, June 18, 2024]

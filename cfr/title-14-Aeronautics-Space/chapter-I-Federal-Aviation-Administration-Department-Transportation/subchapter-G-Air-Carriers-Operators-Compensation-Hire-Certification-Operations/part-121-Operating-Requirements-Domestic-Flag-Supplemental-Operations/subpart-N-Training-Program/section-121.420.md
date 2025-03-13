@@ -1,7 +1,5 @@
 ##### § 121.420 Pilots: Upgrade ground training. #####
 
-Link to an amendment published at 89 FR 51427, June 18, 2024.
-
 (a) Upgrade ground training must include instruction in at least the following subjects as applicable to the duties assigned to the pilot in command:
 
 (1) Seat dependent procedures, as applicable;
@@ -16,6 +14,4 @@ Link to an amendment published at 89 FR 51427, June 18, 2024.
 
 (2) Mentoring, including techniques for reinforcing the highest standards of technical performance, airmanship, and professional development in newly hired pilots.
 
-(c) Compliance date: Beginning on April 27, 2022, upgrade ground training must satisfy the requirements of this section.
-
-[Amdt. 121-382, 85 FR 10923, Feb. 25, 2020]
+[Amdt. 121-382, 85 FR 10923, Feb. 25, 2020 as amended by Docket No. FAA-2019-0360; Amdt. No. 121-392, 89 FR 51427, June 18, 2024]

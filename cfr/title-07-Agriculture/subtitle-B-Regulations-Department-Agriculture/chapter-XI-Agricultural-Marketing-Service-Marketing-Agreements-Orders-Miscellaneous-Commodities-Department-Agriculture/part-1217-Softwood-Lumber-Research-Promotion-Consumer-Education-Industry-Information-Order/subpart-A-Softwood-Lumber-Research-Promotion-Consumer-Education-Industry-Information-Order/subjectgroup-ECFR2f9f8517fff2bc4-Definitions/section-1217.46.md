@@ -1,5 +1,7 @@
 ##### § 1217.46 Powers and duties. #####
 
+Link to an amendment published at 89 FR 58251, July 18, 2024.Link to an amendment published at 89 FR 58252, July 18, 2024.
+
 The Board shall have the following powers and duties:
 
 (a) To administer this Order in accordance with its terms and conditions and to collect assessments;

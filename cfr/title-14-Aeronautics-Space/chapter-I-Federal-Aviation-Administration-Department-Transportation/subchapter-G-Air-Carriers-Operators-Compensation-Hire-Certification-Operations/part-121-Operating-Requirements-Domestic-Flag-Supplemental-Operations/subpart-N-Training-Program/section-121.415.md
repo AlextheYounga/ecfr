@@ -1,7 +1,5 @@
 ##### § 121.415 Crewmember and dispatcher training program requirements. #####
 
-Link to an amendment published at 89 FR 51427, June 18, 2024.
-
 (a) Each training program must provide the following ground training as appropriate to the particular assignment of the crewmember or dispatcher:
 
 (1) Basic indoctrination ground training for newly hired crewmembers or dispatchers including 40 programmed hours of instruction, unless reduced under § 121.405 or as specified in § 121.401(d), in at least the following—
@@ -26,11 +24,7 @@ Link to an amendment published at 89 FR 51427, June 18, 2024.
 
 (d) Each training program must provide the differences training specified in § 121.418(a) if the Administrator finds that, due to differences between airplanes of the same type operated by the certificate holder, additional training is necessary to insure that each crewmember and dispatcher is adequately trained to perform their assigned duties.
 
-(e) Upgrade training:
-
-(1) Upgrade training as specified in §§ 121.420 and 121.426 for a particular type airplane may be included in the training program for flightcrew members who have qualified and served as second in command pilot on that airplane; or
-
-(2) Before April 27, 2022, upgrade training as specified in §§ 121.419 and 121.424 for a particular type airplane may be included in the training program for flightcrew members who have qualified and served as second in command pilot on that airplane.
+(e) Upgrade training as specified in §§ 121.420 and 121.426 for a particular type airplane may be included in the training program for flightcrew members who have qualified and served as second in command pilot on that airplane.
 
 (f) Conversion training as specified in §§ 121.419 and 121.424 for a particular type airplane may be included in the training program for flightcrew members who have qualified and served as flight engineer on that airplane.
 
@@ -46,6 +40,4 @@ Link to an amendment published at 89 FR 51427, June 18, 2024.
 
 (j) Each training program must include methods for remedial training and tracking of pilots identified in the analysis performed in accordance with paragraph (i) of this section.
 
-(k) Compliance with paragraphs (i) and (j) of this section is required no later than March 12, 2019.
-
-[Doc. No. 9509, 35 FR 90, Jan. 3, 1970, as amended by Amdt. 121-130, 41 FR 47229, Oct. 28, 1976; Amdt. 121-281, 66 FR 19043, Apr. 12, 2001; Amdt. 121-329, 72 FR 1881, Jan. 16, 2007; Amdt. 121-366, 78 FR 67839, Nov. 12, 2013; Amdt. 121-382, 85 FR 10922, Feb. 25, 2020]
+[Doc. No. 9509, 35 FR 90, Jan. 3, 1970, as amended by Amdt. 121-130, 41 FR 47229, Oct. 28, 1976; Amdt. 121-281, 66 FR 19043, Apr. 12, 2001; Amdt. 121-329, 72 FR 1881, Jan. 16, 2007; Amdt. 121-366, 78 FR 67839, Nov. 12, 2013; Amdt. 121-382, 85 FR 10922, Feb. 25, 2020; Docket No. FAA-2019-0360; Amdt. No. 121-392, 89 FR 51427, June 18, 2024]

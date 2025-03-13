@@ -1,7 +1,5 @@
 ##### § 121.427 Recurrent training. #####
 
-Link to an amendment published at 89 FR 51428, June 18, 2024.
-
 (a) Recurrent training must ensure that each crewmember or aircraft dispatcher is adequately trained and currently proficient with respect to the type airplane (including differences training, if applicable) and crewmember position involved.
 
 (b) Recurrent ground training for crewmembers and dispatchers must include at least the following:
@@ -76,7 +74,7 @@ Link to an amendment published at 89 FR 51428, June 18, 2024.
 
 (A) The number of programmed inflight hours is not specified; and
 
-(B) Satisfactory completion of a proficiency check may be substituted for recurrent flight training as permitted in § 121.433(c) and (e) of this part.
+(B) Satisfactory completion of a proficiency check may be substituted for recurrent flight training as permitted in § 121.433(c) and (d).
 
 (2) For flight engineers, flight training as provided by § 121.425(a) except as follows—
 
@@ -84,10 +82,6 @@ Link to an amendment published at 89 FR 51428, June 18, 2024.
 
 (ii) The flight check, other than the preflight inspection, may be conducted in an FSTD. The preflight inspection may be conducted in an airplane, or by using an approved pictorial means that realistically portrays the location and detail of preflight inspection items and provides for the portrayal of abnormal conditions. Satisfactory completion of an approved line-oriented flight training may be substituted for the flight check.
 
-(f) Compliance and pilot programmed hours:
+(f) Recurrent programmed hours applicable to pilots as specified in paragraph (c)(1) of this section must include 30 additional minutes to meet the requirements in paragraph (e)(1)(i) of this section.
 
-(1) Compliance with the requirements identified in paragraph (e)(1)(i) of this section is required no later than March 12, 2019.
-
-(2) After March 12, 2019, recurrent programmed hours applicable to pilots as specified in paragraph (c)(1) of this section must include 30 additional minutes.
-
-[Doc. No. 9509, 35 FR 90, Jan. 30, 1970, as amended by Amdt. 121-80, 36 FR 19362, Oct. 5, 1971; Amdt. 121-144, 43 FR 22647, May 25, 1978; Amdt.121-199, 53 FR 37697, Sept. 27, 1988; Amdt. 121-250, 60 FR 65949, Dec. 20, 1995; Amdt. 121-281, 66 FR 19043, Apr. 12, 2001; Amdt. 121-366, 78 FR 67840, Nov. 12, 2013; Amdt. 121-382, 85 FR 10924, Feb. 25, 2020]
+[Doc. No. 9509, 35 FR 90, Jan. 30, 1970, as amended by Amdt. 121-80, 36 FR 19362, Oct. 5, 1971; Amdt. 121-144, 43 FR 22647, May 25, 1978; Amdt.121-199, 53 FR 37697, Sept. 27, 1988; Amdt. 121-250, 60 FR 65949, Dec. 20, 1995; Amdt. 121-281, 66 FR 19043, Apr. 12, 2001; Amdt. 121-366, 78 FR 67840, Nov. 12, 2013; Amdt. 121-382, 85 FR 10924, Feb. 25, 2020; Docket No. FAA-2019-0360; Amdt. No. 121-392, 89 FR 51428, June 18, 2024]

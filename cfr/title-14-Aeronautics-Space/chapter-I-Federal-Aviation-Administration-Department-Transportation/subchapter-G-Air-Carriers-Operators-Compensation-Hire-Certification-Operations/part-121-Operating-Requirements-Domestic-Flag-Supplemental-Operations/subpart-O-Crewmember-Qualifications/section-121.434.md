@@ -1,7 +1,5 @@
 ##### § 121.434 Operating experience, operating cycles, and consolidation of knowledge and skills. #####
 
-Link to an amendment published at 89 FR 51428, June 18, 2024.
-
 (a) No certificate holder may use a person nor may any person serve as a required crewmember of an airplane unless the person has satisfactorily completed, on that type airplane and in that crewmember position, the operating experience, operating cycles, and the line operating flight time for consolidation of knowledge and skills, required by this section, except as follows:
 
 (1) Crewmembers other than pilots in command may serve as provided herein for the purpose of meeting the requirements of this section.
@@ -52,7 +50,7 @@ Link to an amendment published at 89 FR 51428, June 18, 2024.
 
 (iii) In the case of transition training where the certificate holder's approved training program includes a course of training in an FFS under § 121.409(c), each pilot in command must comply with the requirements prescribed in paragraph (c)(3)(i) of this section for initial training.
 
-(d) A flight engineer must perform the duties of a flight engineer under the supervision of a check airman or a qualified flight engineer for at least the following number of hours:
+(d) A flight engineer must perform the duties of a flight engineer under the supervision of a check flight engineer or a qualified flight engineer for at least the following number of hours:
 
 (1) Group I reciprocating powered airplanes, 8 hours.
 
@@ -94,4 +92,4 @@ Link to an amendment published at 89 FR 51428, June 18, 2024.
 
 (i) Notwithstanding the reductions in programmed hours permitted under §§ 121.405 and 121.409 of subpart N of this part, the hours of operating experience for crewmembers are not subject to reduction other than as provided in accordance with a deviation authorized under paragraph (a) of this section or as provided in paragraphs (e) and (f) of this section.
 
-[Doc. No. 9509, 35 FR 95, Jan. 3, 1970, as amended by Amdt. 121-74, 36 FR 12284, June 30, 1971; Amdt. 121-91, 37 FR 10729, May 27, 1972; Amdt. 121-140, 43 FR 9599, Mar. 9, 1978; Amdt. 121-144, 43 FR 22647, May 25, 1978; Amdt. 121-159, 45 FR 41593, June 19, 1980; Amdt. 121-248, 60 FR 20870, Apr. 27, 1995; Amdt. 121-366, 78 FR 67840, Nov. 12, 2013; Amdt. 121-382, 85 FR 10925, Feb. 25, 2020]
+[Doc. No. 9509, 35 FR 95, Jan. 3, 1970, as amended by Amdt. 121-74, 36 FR 12284, June 30, 1971; Amdt. 121-91, 37 FR 10729, May 27, 1972; Amdt. 121-140, 43 FR 9599, Mar. 9, 1978; Amdt. 121-144, 43 FR 22647, May 25, 1978; Amdt. 121-159, 45 FR 41593, June 19, 1980; Amdt. 121-248, 60 FR 20870, Apr. 27, 1995; Amdt. 121-366, 78 FR 67840, Nov. 12, 2013; Amdt. 121-382, 85 FR 10925, Feb. 25, 2020; Docket No. FAA-2019-0360; Amdt. No. 121-392, 89 FR 51428, June 18, 2024]

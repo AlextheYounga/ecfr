@@ -1,8 +1,6 @@
 ##### § 121.429 Pilots in command: Leadership and command and mentoring training. #####
 
-Link to an amendment published at 89 FR 51428, June 18, 2024.
-
-(a) Beginning on April 27, 2023, no certificate holder may use a pilot as pilot in command in an operation under this part unless the pilot has completed the following ground training in accordance with the certificate holder's approved training program:
+(a) No certificate holder may use a pilot as pilot in command in an operation under this part unless the pilot has completed the following ground training in accordance with the certificate holder's approved training program:
 
 (1) Leadership and command training in § 121.419(c)(1) and mentoring training in § 121.419(c)(2); or
 
@@ -14,4 +12,4 @@ Link to an amendment published at 89 FR 51428, June 18, 2024.
 
 (2) In granting credit for the training required by paragraph (a) of this section, the Administrator may consider training aids, devices, methods, and procedures used by the certificate holder in voluntary leadership and command and mentoring instruction.
 
-[Amdt. 121-382, 85 FR 10925, Feb. 25, 2020]
+[Amdt. 121-382, 85 FR 10925, Feb. 25, 2020, as amended by Docket No. FAA-2019-0360; Amdt. No. 121-392, 89 FR 51428, June 18, 2024]

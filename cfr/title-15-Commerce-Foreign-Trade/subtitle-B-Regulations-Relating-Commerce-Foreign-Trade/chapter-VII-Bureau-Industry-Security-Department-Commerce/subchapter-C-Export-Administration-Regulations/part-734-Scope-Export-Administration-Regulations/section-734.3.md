@@ -50,7 +50,7 @@ If a defense article or service is controlled by the U.S. Munitions List set for
 
 (iii) Are released by instruction in a catalog course or associated teaching laboratory of an academic institution;
 
-(iv) Appear in patents or open (published) patent applications available from or at any patent office, unless covered by an invention secrecy order, or are otherwise patent information as described in § 734.10;
+(iv) Appear in patents or open (published) patent applications available from or at any patent office, unless covered by an invention secrecy order, or are otherwise patent information or are for a standards-related activity as described in § 734.10;
 
 (v) Are non-proprietary system descriptions; or
 
