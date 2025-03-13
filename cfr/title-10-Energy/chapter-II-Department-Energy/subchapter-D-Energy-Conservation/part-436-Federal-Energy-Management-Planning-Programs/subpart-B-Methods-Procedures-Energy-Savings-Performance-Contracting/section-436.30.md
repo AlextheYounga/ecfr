@@ -1,6 +1,6 @@
 ##### § 436.30 Purpose and scope. #####
 
-(a) *General.* This subpart provides procedures and methods which apply to Federal agencies with regard to the award and administration of energy savings performance contracts awarded on or before September 30, 2003. This subpart applies in addition to the Federal Acquisition Regulation at Title 48 of the CFR and related Federal agency regulations. The provisions of this subpart are controlling with regard to energy savings performance contracts notwithstanding any conflicting provisions of the Federal Acquisition Regulation and related Federal agency regulations.
+(a) *General.* This subpart provides procedures and methods which apply to Federal agencies with regard to the award and administration of energy savings performance contracts. This subpart applies in addition to the Federal Acquisition Regulation at Title 48 of the CFR and related Federal agency regulations. The provisions of this subpart are controlling with regard to energy savings performance contracts notwithstanding any conflicting provisions of the Federal Acquisition Regulation and related Federal agency regulations.
 
 (b) *Utility incentive programs.* Nothing in this subpart shall preclude a Federal agency from—
 
@@ -14,4 +14,4 @@
 
 (d) *Interpretations.* The permissive provisions of this subpart shall be liberally construed to effectuate the objectives of Title VIII of the National Energy Conservation Policy Act, 42 U.S.C. 8287-8287c.
 
-[60 FR 18334, Apr. 10, 1995, as amended at 60 FR 19343, Apr. 18, 1995; 65 FR 39786, June 28, 2000]
+[60 FR 18334, Apr. 10, 1995, as amended at 60 FR 19343, Apr. 18, 1995; 65 FR 39786, June 28, 2000; 89 FR 19501, Mar. 19, 2024]
