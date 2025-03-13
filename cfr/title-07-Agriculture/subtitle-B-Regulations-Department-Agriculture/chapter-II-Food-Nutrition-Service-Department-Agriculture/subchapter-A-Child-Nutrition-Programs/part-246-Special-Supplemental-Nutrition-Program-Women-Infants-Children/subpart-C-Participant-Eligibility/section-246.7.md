@@ -1,5 +1,7 @@
 ##### § 246.7 Certification of participants. #####
 
+Link to an amendment published at 89 FR 28518, Apr. 18, 2024.
+
 (a) *Integration with health services.* To lend administrative efficiency and participant convenience to the certification process, whenever possible, Program intake procedures shall be combined with intake procedures for other health programs or services administered by the State and local agencies. Such merging may include verification procedures, certification interviews, and income computations. Local agencies shall maintain and make available for distribution to all pregnant, postpartum, and breastfeeding women and to parents or caretakers of infants and children applying for and participating in the Program a list of local resources for drug and other harmful substance abuse counseling and treatment.
 
 (b) *Program referral and access.* State and local agencies shall provide WIC Program applicants and participants or their designated proxies with information on other health-related and public assistance programs, and when appropriate, shall refer applicants and participants to such programs.

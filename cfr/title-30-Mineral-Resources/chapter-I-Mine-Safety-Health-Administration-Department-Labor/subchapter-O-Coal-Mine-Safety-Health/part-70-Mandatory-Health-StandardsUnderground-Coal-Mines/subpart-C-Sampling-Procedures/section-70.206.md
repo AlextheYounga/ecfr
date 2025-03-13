@@ -1,5 +1,7 @@
 ##### § 70.206 Bimonthly sampling; mechanized mining units. #####
 
+Link to an amendment published at 89 FR 28474, Apr. 18, 2024.
+
 Until January 31, 2016:
 
 (a) Each operator shall take five valid representative samples from the designated occupation (DO) in each mechanized mining unit (MMU) during each bimonthly period. DO samples shall be collected on consecutive normal production shifts or normal production shifts each of which is worked on consecutive days. The bimonthly periods are:

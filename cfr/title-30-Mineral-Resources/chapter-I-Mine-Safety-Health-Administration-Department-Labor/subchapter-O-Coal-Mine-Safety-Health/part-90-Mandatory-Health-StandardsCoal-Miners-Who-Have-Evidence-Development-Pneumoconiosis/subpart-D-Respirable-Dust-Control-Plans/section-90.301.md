@@ -1,5 +1,7 @@
 ##### § 90.301 Respirable dust control plan; approval by District Manager; copy to part 90 miner. #####
 
+Link to an amendment published at 89 FR 28485, Apr. 18, 2024.
+
 (a) The District Manager will approve respirable dust control plans on a mine-by-mine basis. When approving respirable dust control plans, the District Manager shall consider whether:
 
 (1) The respirable dust control measures would be likely to maintain concentrations of respirable coal mine dust at or below the applicable standard; and

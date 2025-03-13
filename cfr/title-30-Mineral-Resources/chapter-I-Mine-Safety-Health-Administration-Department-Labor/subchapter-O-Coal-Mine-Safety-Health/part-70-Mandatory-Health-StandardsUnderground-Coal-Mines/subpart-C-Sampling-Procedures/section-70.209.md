@@ -1,5 +1,7 @@
 ##### § 70.209 Quarterly sampling; designated areas. #####
 
+Link to an amendment published at 89 FR 28475, Apr. 18, 2024.Link to an amendment published at 89 FR 28476, Apr. 18, 2024.
+
 On February 1, 2016:
 
 (a) The operator shall sample quarterly each designated area (DA) on consecutive production shifts until five valid representative samples are taken. The quarterly periods are:

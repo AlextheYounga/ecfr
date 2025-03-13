@@ -1,5 +1,7 @@
 ##### § 90.104 Waiver of rights; re-exercise of option. #####
 
+Link to an amendment published at 89 FR 28483, Apr. 18, 2024.
+
 (a) A part 90 miner may waive his or her rights and be removed from MSHA's active list of miners who have rights under part 90 by:
 
 (1) Giving written notification to the Chief, Division of Health, Coal Mine Safety and Health, MSHA, that the miner waives all rights under this part;

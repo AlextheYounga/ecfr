@@ -1,5 +1,7 @@
 ##### § 70.208 Quarterly sampling; mechanized mining units. #####
 
+Link to an amendment published at 89 FR 28474, Apr. 18, 2024.Link to an amendment published at 89 FR 28475, Apr. 18, 2024.
+
 On February 1, 2016:
 
 (a) The operator shall sample each calendar quarter:

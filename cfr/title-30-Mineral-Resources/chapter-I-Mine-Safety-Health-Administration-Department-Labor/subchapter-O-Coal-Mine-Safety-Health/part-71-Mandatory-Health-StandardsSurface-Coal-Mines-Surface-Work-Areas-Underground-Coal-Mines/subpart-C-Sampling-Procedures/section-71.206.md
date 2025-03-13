@@ -1,5 +1,7 @@
 ##### § 71.206 Quarterly sampling; designated work positions. #####
 
+Link to an amendment published at 89 FR 28477, Apr. 18, 2024.Link to an amendment published at 89 FR 28478, Apr. 18, 2024.
+
 (a) Each operator shall take one valid representative sample from the DWP during each quarterly period. The quarterly periods are:
 
 January 1-March 31April 1-June 30July 1-September 30October 1-December 31.
@@ -60,8 +62,6 @@ January 1-March 31April 1-June 30July 1-September 30October 1-December 31.
 
 (l) A citation for violation of the applicable standard shall be terminated by MSHA when the equivalent concentration of each of the five valid representative samples is at or below the applicable standard.
 
-Table 71-1—Excessive Concentration Values (ECV) Based on Single, Full-Shift CMDPSU/CPDM Concentration Measurements
-
 |Applicable standard  <br/>(mg/m<sup>3</sup>)|ECV  <br/>(mg/m<sup>3</sup>)|    |
 |--------------------------------------------|----------------------------|----|
 |                   CMDPSU                   |            CPDM            |    |
@@ -84,8 +84,6 @@ Table 71-1—Excessive Concentration Values (ECV) Based on Single, Full-Shift CM
 |                    0.4                     |            0.65            |0.46|
 |                    0.3                     |            0.54            |0.34|
 |                    0.2                     |            0.44            |0.23|
-
-Table 71-2—Excessive Concentration Values (ECV) Based on the Average of 5 Full-Shift CMDPSU/CPDM Concentration Measurements
 
 |Applicable standard  <br/>(mg/m<sup>3</sup>)|ECV  <br/>(mg/m<sup>3</sup>)|    |
 |--------------------------------------------|----------------------------|----|

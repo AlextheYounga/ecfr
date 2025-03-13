@@ -1,5 +1,7 @@
 ##### § 90.300 Respirable dust control plan; filing requirements. #####
 
+Link to an amendment published at 89 FR 28485, Apr. 18, 2024.
+
 (a) If an operator abates a violation of the applicable standard by reducing the respirable dust level in the position of the part 90 miner, the operator shall submit to the District Manager for approval a written respirable dust control plan for the part 90 miner in the position identified in the citation within 15 calendar days after the citation is terminated. The respirable dust control plan and revisions thereof shall be suitable to the conditions and the mining system of the coal mine and shall be adequate to continuously maintain respirable dust to at or below the applicable standard for that part 90 miner.
 
 (b) Each respirable dust control plan shall include at least the following:

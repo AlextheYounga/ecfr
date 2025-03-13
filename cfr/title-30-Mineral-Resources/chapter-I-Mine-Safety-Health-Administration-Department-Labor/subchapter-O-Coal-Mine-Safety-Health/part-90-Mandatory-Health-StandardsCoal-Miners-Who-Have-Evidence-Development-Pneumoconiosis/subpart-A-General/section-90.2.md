@@ -1,5 +1,7 @@
 ##### § 90.2 Definitions. #####
 
+Link to an amendment published at 89 FR 28480, Apr. 18, 2024.Link to an amendment published at 89 FR 28482, Apr. 18, 2024.
+
 The following definitions apply in this part:
 
 *Act.* The Federal Mine Safety and Health Act of 1977, Public Law 91-173, as amended by Public Law 95-164 and Public Law 109-236.

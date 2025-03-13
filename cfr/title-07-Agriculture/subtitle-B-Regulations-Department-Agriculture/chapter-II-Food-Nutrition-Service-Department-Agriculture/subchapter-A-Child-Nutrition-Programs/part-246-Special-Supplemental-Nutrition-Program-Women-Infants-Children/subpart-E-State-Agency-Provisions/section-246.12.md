@@ -1,5 +1,7 @@
 ##### § 246.12 Food delivery methods. #####
 
+Link to an amendment published at 89 FR 28528, Apr. 18, 2024.
+
 (a) *General.* This section sets forth design and operational requirements for food delivery systems. In recognition of emergent electronic benefit transfer (EBT) technology, FNS may, on a case-by-case basis, modify regulatory provisions to the extent FNS determines the particular EBT system provides adequate safeguards that serve the purpose of the provisions being modified. By October 1, 2020, each State agency shall implement EBT statewide, unless granted an exemption under paragraph (w)(2) of this section.
 
 (1) *Management.* The State agency is responsible for the fiscal management of, and accountability for, food delivery systems under its jurisdiction. The State agency may permit only authorized vendors, farmers and farmers' markets, home food delivery contractors, and direct distribution sites to accept food instruments and cash-value vouchers.

@@ -1,5 +1,7 @@
 ##### § 90.206 Exercise of option or transfer sampling. #####
 
+Link to an amendment published at 89 FR 28484, Apr. 18, 2024.
+
 (a) The operator shall take five valid representative dust samples for each part 90 miner within 15 calendar days after:
 
 (1) The 20-day period specified for each part 90 miner in § 90.100; and

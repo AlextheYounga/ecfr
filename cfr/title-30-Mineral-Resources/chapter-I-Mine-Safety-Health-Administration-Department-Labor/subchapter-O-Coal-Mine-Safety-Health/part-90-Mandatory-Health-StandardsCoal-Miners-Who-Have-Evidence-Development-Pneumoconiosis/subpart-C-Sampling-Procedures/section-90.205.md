@@ -1,5 +1,7 @@
 ##### § 90.205 Approved sampling devices; operation; air flowrate. #####
 
+Link to an amendment published at 89 FR 28483, Apr. 18, 2024.
+
 (a) Approved sampling devices shall be operated at the flowrate of 2.0 L/min if using a CMDPSU; at 2.2 L/min if using a CPDM; or at a different flowrate recommended by the manufacturer.
 
 (b) If using a CMDPSU, each approved sampling device shall be examined each shift, by a person certified in sampling during:

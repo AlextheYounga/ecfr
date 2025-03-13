@@ -1,5 +1,7 @@
 ##### § 71.301 Respirable dust control plan; approval by District Manager and posting. #####
 
+Link to an amendment published at 89 FR 28478, Apr. 18, 2024.Link to an amendment published at 89 FR 28479, Apr. 18, 2024.
+
 (a) The District Manager will approve respirable dust control plans on a mine-by-mine basis. When approving respirable dust control plans, the District Manager shall consider whether:
 
 (1) The respirable dust control measures would be likely to maintain concentrations of respirable coal mine dust at or below the applicable standard; and

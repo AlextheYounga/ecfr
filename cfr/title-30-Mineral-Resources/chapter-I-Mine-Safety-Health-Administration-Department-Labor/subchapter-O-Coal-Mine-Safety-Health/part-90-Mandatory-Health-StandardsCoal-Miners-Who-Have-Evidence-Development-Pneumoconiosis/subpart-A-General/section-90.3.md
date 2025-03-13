@@ -1,5 +1,7 @@
 ##### § 90.3 Part 90 option; notice of eligibility; exercise of option. #####
 
+Link to an amendment published at 89 FR 28482, Apr. 18, 2024.
+
 (a) Any miner employed at a coal mine who, in the judgment of the Secretary of HHS, has evidence of the development of pneumoconiosis based on a chest X-ray, read and classified in the manner prescribed by the Secretary of HHS, or based on other medical examinations shall be afforded the option to work in an area of a mine where the average concentration of respirable dust in the mine atmosphere during each shift to which that miner is exposed is continuously maintained at or below the applicable standard. Each of these miners shall be notified in writing of eligibility to exercise the option.
 
 (b) Any miner who is a section 203(b) miner on January 31, 1981, shall be a part 90 miner on February 1, 1981, entitled to full rights under this part to retention of pay rate, future actual wage increases, and future work assignment, shift and respirable dust protection.

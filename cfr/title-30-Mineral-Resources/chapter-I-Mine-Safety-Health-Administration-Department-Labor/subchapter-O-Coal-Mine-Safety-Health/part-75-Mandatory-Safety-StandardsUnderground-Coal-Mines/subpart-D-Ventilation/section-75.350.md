@@ -1,5 +1,7 @@
 ##### § 75.350 Belt air course ventilation. #####
 
+Link to an amendment published at 89 FR 28479, Apr. 18, 2024.Link to an amendment published at 89 FR 28480, Apr. 18, 2024.
+
 (a) The belt air course must not be used as a return air course; and except as provided in paragraph (b) of this section, the belt air course must not be used to provide air to working sections or to areas where mechanized mining equipment is being installed or removed.
 
 (1) The belt air course must be separated with permanent ventilation controls from return air courses and from other intake air courses except as provided in paragraph (c) of this section.

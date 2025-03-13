@@ -1,5 +1,7 @@
 ##### § 70.207 Bimonthly sampling; designated areas. #####
 
+Link to an amendment published at 89 FR 28474, Apr. 18, 2024.
+
 Until January 31, 2016:
 
 (a) Each operator shall take one valid representative sample from each designated area (DA) on a production shift during each bimonthly period. The bimonthly periods are:

@@ -1,5 +1,7 @@
 ##### § 404.1560 When we will consider your vocational background. #####
 
+Link to an amendment published at 89 FR 27667, Apr. 18, 2024.
+
 (a) *General.* If you are applying for a period of disability, or disability insurance benefits as a disabled worker, or child's insurance benefits based on disability which began before age 22, or widow's or widower's benefits based on disability for months after December 1990, and we cannot decide whether you are disabled at one of the first three steps of the sequential evaluation process (*see* § 404.1520), we will consider your residual functional capacity together with your vocational background, as discussed in paragraphs (b) and (c) of this section.
 
 (b) *Past relevant work.* We will first compare our assessment of your residual functional capacity with the physical and mental demands of your past relevant work. See § 404.1520(h) for an exception to this rule.

@@ -1,5 +1,7 @@
 ##### § 246.16 Distribution of funds. #####
 
+Link to an amendment published at 89 FR 28529, Apr. 18, 2024.
+
 (a) *General.* This paragraph describes the timeframes for distribution of appropriated funds by the Department to participating State agencies and the authority for the Secretary to use appropriated funds for evaluation studies and demonstration projects.
 
 (1) Authorized appropriations to carry out the provisions of this section may be made not more than 1 year in advance of the beginning of the fiscal year in which the funds shall become available for disbursement to the State agencies. The funds shall remain available for the purposes for which appropriated until expended.
