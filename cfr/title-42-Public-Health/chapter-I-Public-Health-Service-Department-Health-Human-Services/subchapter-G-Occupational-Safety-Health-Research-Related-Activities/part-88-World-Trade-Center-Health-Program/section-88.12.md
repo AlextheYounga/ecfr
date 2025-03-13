@@ -10,8 +10,10 @@
 
 (3) The WTC Health Program may deny certified-eligible survivor status of an otherwise eligible and qualified screening-eligible survivor if the Act's numerical limitations for certified-eligible survivors have been met.
 
-(i) No more than 25,000 individuals, other than those described in § 88.7, may be determined to be certified-eligible survivors at any time. The Administrator of the WTC Health Program may decide, based on the best available evidence, that sufficient funds are available under the WTC Health Program Fund to provide treatment and monitoring only for individuals who have already been certified as certified-eligible survivors at that time.
+(i) No more than the number of individuals specified in the Act, as amended, other than those described in § 88.7, may be determined to be certified-eligible survivors at any time.
 
-(ii) [Reserved]
+(ii) The Administrator of the WTC Health Program may decide, based on the best available evidence, that sufficient funds are available under the Act to provide treatment and monitoring only for individuals who have already been certified as certified-eligible survivors at that time.
 
 (4) No individual who is determined to be a positive match to the terrorist watch list maintained by the Federal government may qualify to be a certified-eligible survivor in the WTC Health Program.
+
+[81 FR 90938, Dec. 15, 2016, as amended at 89 FR 73601, Sept. 11, 2024]

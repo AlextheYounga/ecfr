@@ -38,18 +38,48 @@
 
 (5) Vehicle-maintenance worker. The individual was a vehicle-maintenance worker who was exposed to debris from the former World Trade Center while retrieving, driving, cleaning, repairing, and maintaining vehicles contaminated by airborne toxins from the September 11, 2001, terrorist attacks; and conducted such work for at least 1 day during the period beginning on September 11, 2001, and ending on July 31, 2002.
 
-(b) Responders to the Pentagon site of the September 11, 2001, terrorist attacks, may apply for enrollment in the WTC Health Program on or after April 29, 2013. Individuals must meet the criteria below to be considered eligible for enrollment:
+(b) Responders to the Pentagon site of the September 11, 2001, terrorist attacks, may apply for enrollment in the WTC Health Program. Individuals must meet the criteria in paragraphs (b)(1) through (3) of this section to be considered eligible for enrollment.
 
-(1) The individual was an active or retired member of a fire or police department (fire or emergency personnel), worked for a recovery or cleanup contractor, or was a volunteer; and
+(1) The individual was one of the following:
 
-(2) Performed rescue, recovery, demolition, debris cleanup, or other related services at the Pentagon site of the September 11, 2001, terrorist attacks, for at least 1 day beginning September 11, 2001, and ending on November 19, 2001.
+(i) An active or retired member of a fire or police department (fire or emergency personnel);
 
-(c) Responders to the Shanksville, Pennsylvania site of the September 11, 2001, terrorist attacks, may apply for enrollment in the WTC Health Program on or after April 29, 2013. Individuals must meet the criteria below to be considered eligible for enrollment:
+(ii) Worked for a recovery or cleanup contractor;
 
-(1) The individual was an active or retired member of a fire or police department (fire or emergency personnel), worked for a recovery or cleanup contractor, or was a volunteer; and
+(iii) A volunteer;
 
-(2) Performed rescue, recovery, demolition, debris cleanup, or other related services at the Shanksville, Pennsylvania site of the September 11, 2001, terrorist attacks, for at least 1 day beginning September 11, 2001, and ending on October 3, 2001.
+(iv) An employee of the Department of Defense or any other Federal agency;
+
+(v) Worked for a contractor of the Department of Defense or any other Federal agency during the period beginning on September 11, 2001, and ending on September 18, 2001; or
+
+(vi) A member of a regular or reserve component of the uniformed services;
+
+(2) The individual performed rescue, recovery, demolition, debris cleanup, or other related services at the Pentagon site of the September 11, 2001, terrorist attacks; and
+
+(3) The individual performed the activities in paragraph (b)(2) of this section for at least 1 day beginning September 11, 2001, and ending on November 19, 2001.
+
+(c) Responders to the Shanksville, Pennsylvania site of the September 11, 2001, terrorist attacks, may apply for enrollment in the WTC Health Program. Individuals must meet the criteria in paragraphs (c)(1) through (3) of this section to be considered eligible for enrollment:
+
+(1) The individual was one of the following:
+
+(i) An active or retired member of a fire or police department (fire or emergency personnel);
+
+(ii) Worked for a recovery or cleanup contractor;
+
+(iii) A volunteer;
+
+(iv) An employee of the Department of Defense or any other Federal agency;
+
+(v) Worked for a contractor of the Department of Defense or any other Federal agency during the period beginning on September 11, 2001, and ending on September 18, 2001; or
+
+(vi) A member of a regular or reserve component of the uniformed services;
+
+(2) The individual performed rescue, recovery, demolition, debris cleanup, or other related services at the Shanksville, Pennsylvania site of the September 11, 2001, terrorist attacks; and
+
+(3) The individual performed the activities in paragraph (c)(2) of this section for at least 1 day beginning September 11, 2001, and ending on October 3, 2001.
 
 (d) [Reserved]
 
 (e) The WTC Health Program will maintain a list of WTC responders.
+
+[81 FR 90938, Dec. 15, 2016, as amended at 89 FR 73600, Sept. 11, 2024]

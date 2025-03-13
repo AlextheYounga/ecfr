@@ -1,6 +1,6 @@
 ##### § 88.1 Definitions. #####
 
-*Act* means Title XXXIII of the Public Health Service Act, as amended, 42 U.S.C. 300mm through 300mm-61 (codifying Title I of the James Zadroga 9/11 Health and Compensation Act of 2010, Pub. L. 111-347, as amended by Pub. L. 114-113), which created the World Trade Center (WTC) Health Program.
+*Act* means Title XXXIII of the Public Health Service Act, as amended, 42 U.S.C. 300mm through 300mm-64 (codifying Title I of the James Zadroga 9/11 Health and Compensation Act of 2010, Pub. L. 111-347, as amended by Pub. L. 114-113, Pub. L. 116-59, Pub. L. 117-328, and Pub. L. 118-31), which created the World Trade Center (WTC) Health Program.
 
 *Aggravating* means a health condition that existed on September 11, 2001, and that, as a result of exposure to airborne toxins, any other hazard, or any other adverse condition resulting from the September 11, 2001, terrorist attacks, requires medical treatment that is (or will be) in addition to, more frequent than, or of longer duration than the medical treatment that would have been required for such condition in the absence of such exposure.
 
@@ -33,6 +33,8 @@
 (6) Meet periodically with the corresponding CCE(s) to obtain input on the analysis and reporting of data and on development of monitoring, initial health evaluation, and treatment protocols.
 
 *Designated representative* means an individual selected by an applicant, WTC responder, or a screening-eligible or certified-eligible survivor to represent his or her interests to the WTC Health Program.
+
+*Federal agency* means an agency, office, or other establishment in the executive, legislative, or judicial branch of the Federal Government.
 
 *Ground Zero* means a site in Lower Manhattan bounded by Vesey Street to the north, the West Side Highway to the west, Liberty Street to the south, and Church Street to the east in which stood the former World Trade Center complex.
 
@@ -76,9 +78,11 @@
 
 *Terrorist watch list* means the lists maintained by the Federal government that will be utilized to screen for known terrorists.
 
+*Uniformed services* means the armed forces, the commissioned corps of the National Oceanic and Atmospheric Administration, and the commissioned corps of the Public Health Service.
+
 *WTC* means World Trade Center.
 
-*WTC Health Program* means the program established by Title XXXIII of the Public Health Service Act as amended, 42 U.S.C. 300mm to 300mm-61 (codifying Title I of the James Zadroga 9/11 Health and Compensation Act of 2010, Pub. L. 111-347, as amended by Pub. L. 114-113) to provide medical monitoring and treatment benefits for eligible responders to the September 11, 2001, terrorist attacks and initial health evaluation, monitoring, and treatment benefits for residents and other building occupants and area workers in New York City who were directly impacted and adversely affected by such attacks.
+*WTC Health Program* means the program established by Title XXXIII of the Public Health Service Act, as amended, 42 U.S.C. 300mm to 300mm-64 (codifying Title I of the James Zadroga 9/11 Health and Compensation Act of 2010, Pub. L. 111-347, as amended by Pub. L. 114-113, Pub. L. 116-59, Pub. L. 117-328, and Pub. L. 118-31) to provide medical monitoring and treatment benefits for eligible responders to the September 11, 2001, terrorist attacks and initial health evaluation, monitoring, and treatment benefits for residents and other building occupants and area workers in New York City who were directly impacted and adversely affected by such attacks.
 
 *WTC Health Program member* means any responder, screening-eligible survivor, or certified-eligible survivor enrolled in the WTC Health Program.
 
@@ -91,3 +95,5 @@
 *WTC-related musculoskeletal disorder* means a health condition eligible for coverage in the WTC Health Program as described in § 88.15(c)(1) of this part.
 
 *WTC responder* means an individual who has been identified as eligible for monitoring and treatment as described in § 88.3 or who meets the eligibility criteria in § 88.4.
+
+[81 FR 90938, Dec. 15, 2016, as amended at 89 FR 73600, Sept. 11, 2024]
