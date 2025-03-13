@@ -1,6 +1,6 @@
 ##### § 405.2446 Scope of services. #####
 
-Link to an amendment published at 88 FR 79524, Nov. 16, 2023.
+Link to an amendment published at 88 FR 79524, Nov. 16, 2023.Link to an amendment published at 88 FR 82176, Nov. 22, 2023.
 
 (a) For purposes of this section, the terms rural health clinic and RHC when they appear in the cross references in paragraph (b) of this section also mean Federally qualified health centers and FQHCs.
 

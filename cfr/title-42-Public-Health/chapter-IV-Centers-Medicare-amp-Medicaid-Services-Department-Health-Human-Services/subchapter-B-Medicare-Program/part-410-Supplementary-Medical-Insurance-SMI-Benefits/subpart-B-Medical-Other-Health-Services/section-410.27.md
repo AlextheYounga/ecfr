@@ -1,5 +1,7 @@
 ##### § 410.27 Therapeutic outpatient hospital or CAH services and supplies incident to a physician's or nonphysician practitioner's service: Conditions. #####
 
+Link to an amendment published at 88 FR 82177, Nov. 22, 2023.
+
 (a) Medicare Part B pays for therapeutic hospital or CAH services and supplies furnished incident to a physician's or nonphysician practitioner's service, which are defined as all services and supplies furnished to hospital or CAH outpatients that are not diagnostic services and that aid the physician or nonphysician practitioner in the treatment of the patient, including drugs and biologicals which are not usually self-administered, if—
 
 (1) They are furnished—

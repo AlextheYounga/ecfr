@@ -1,5 +1,7 @@
 ##### § 419.46 Participation, data submission, and validation requirements under the Hospital Outpatient Quality Reporting (OQR) Program. #####
 
+Link to an amendment published at 88 FR 82180, Nov. 22, 2023.
+
 (a) *Statutory authority.* Section 1833(t)(17) of the Act authorizes the Secretary to implement a quality reporting program in a manner so as to provide for a 2.0 percentage point reduction in the OPD fee schedule increase factor for a subsection (d) hospital (as defined in section 1886(d)(1)(B)) that does not submit data required to be submitted on measures in accordance with the Secretary's requirements in this part.
 
 (b) *Participation in the Hospital OQR Program.* To participate in the Hospital OQR Program, a hospital as defined in section 1886(d)(1)(B) of the Act and is paid under the OPPS must—

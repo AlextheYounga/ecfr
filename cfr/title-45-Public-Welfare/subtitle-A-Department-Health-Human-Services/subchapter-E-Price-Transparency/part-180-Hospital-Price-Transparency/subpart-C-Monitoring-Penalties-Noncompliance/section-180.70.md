@@ -1,5 +1,7 @@
 ##### § 180.70 Monitoring and enforcement. #####
 
+Link to an amendment published at 88 FR 82185, Nov. 22, 2023.
+
 (a) *Monitoring.* (1) CMS evaluates whether a hospital has complied with the requirements under §§ 180.40, 180.50, and 180.60.
 
 (2) CMS may use methods to monitor and assess hospital compliance with the requirements under this part, including, but not limited to, the following, as appropriate:

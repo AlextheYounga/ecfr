@@ -646,7 +646,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |      Paradise      |                        20                         |   |
 |        Reno        |            8, 11, 12, \*15, 20, 23, 26            |   |
 |      Tonopah       |                         9                         |   |
-|     Winnemucca     |                         7                         |   |
+|     Winnemucca     |                        16                         |   |
 |   New Hampshire    |                                                   |   |
 |      Concord       |                        23                         |   |
 |       Derry        |                         S                         |   |

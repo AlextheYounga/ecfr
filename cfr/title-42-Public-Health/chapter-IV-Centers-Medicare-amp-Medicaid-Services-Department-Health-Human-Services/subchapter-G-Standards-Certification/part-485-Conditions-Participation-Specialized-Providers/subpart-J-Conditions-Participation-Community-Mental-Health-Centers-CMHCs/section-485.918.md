@@ -1,5 +1,7 @@
 ##### § 485.918 Condition of participation: Organization, governance, administration of services, and partial hospitalization services. #####
 
+Link to an amendment published at 88 FR 82183, Nov. 22, 2023.
+
 The CMHC must organize, manage, and administer its resources to provide CMHC services, including specialized services for children, elderly individuals, individuals with serious mental illness, and residents of its mental health service area who have been discharged from an inpatient mental health facility.
 
 (a) *Standard: Governing body and administrator.* (1) A CMHC must have a designated governing body made up of two or more designated persons, one of which may be the administrator, that assumes full legal authority and responsibility for the management of the CMHC, the services it furnishes, its fiscal operations, and continuous quality improvement. One member of the governing body must possess knowledge and experience as a mental health clinician.

@@ -1,5 +1,7 @@
 ##### § 410.43 Partial hospitalization services: Conditions and exclusions. #####
 
+Link to an amendment published at 88 FR 82177, Nov. 22, 2023.
+
 (a) Partial hospitalization services are services that—
 
 (1) Are reasonable and necessary for the diagnosis or active treatment of the individual's condition;

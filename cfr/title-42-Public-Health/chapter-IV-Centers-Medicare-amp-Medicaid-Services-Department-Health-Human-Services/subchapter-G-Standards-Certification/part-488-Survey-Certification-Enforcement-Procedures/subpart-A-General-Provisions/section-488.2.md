@@ -1,5 +1,7 @@
 ##### § 488.2 Statutory basis. #####
 
+Link to an amendment published at 88 FR 82183, Nov. 22, 2023.
+
 This part is based on the indicated provisions of the following sections of the Act:
 
 Table 1 to § 488.2

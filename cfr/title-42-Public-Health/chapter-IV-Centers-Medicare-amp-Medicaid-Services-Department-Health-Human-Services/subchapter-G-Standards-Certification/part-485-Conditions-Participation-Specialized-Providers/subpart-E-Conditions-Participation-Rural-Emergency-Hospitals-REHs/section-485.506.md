@@ -1,5 +1,7 @@
 ##### § 485.506 Designation and certification of REHs. #####
 
+Link to an amendment published at 88 FR 82183, Nov. 22, 2023.
+
 CMS certifies a facility as an REH if the facility was, as of December 27, 2020—
 
 (a) A critical access hospital; or

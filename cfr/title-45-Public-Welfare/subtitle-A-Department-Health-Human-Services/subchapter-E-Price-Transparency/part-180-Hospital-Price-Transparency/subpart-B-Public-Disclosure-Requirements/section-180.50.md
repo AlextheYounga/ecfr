@@ -1,5 +1,7 @@
 ##### § 180.50 Requirements for making public hospital standard charges for all items and services. #####
 
+Link to an amendment published at 88 FR 82184, Nov. 22, 2023.
+
 (a) *General rules.* (1) A hospital must establish, update, and make public a list of all standard charges for all items and services online in the form and manner specified in this section.
 
 (2) Each hospital location operating under a single hospital license (or approval) that has a different set of standard charges than the other location(s) operating under the same hospital license (or approval) must separately make public the standard charges applicable to that location.

@@ -1,6 +1,6 @@
 ##### § 405.2464 Payment rate. #####
 
-Link to an amendment published at 88 FR 79524, Nov. 16, 2023.
+Link to an amendment published at 88 FR 79524, Nov. 16, 2023.Link to an amendment published at 88 FR 82176, Nov. 22, 2023.
 
 (a) *Payment rate for RHCs that are authorized to bill under the reasonable cost system.*
 

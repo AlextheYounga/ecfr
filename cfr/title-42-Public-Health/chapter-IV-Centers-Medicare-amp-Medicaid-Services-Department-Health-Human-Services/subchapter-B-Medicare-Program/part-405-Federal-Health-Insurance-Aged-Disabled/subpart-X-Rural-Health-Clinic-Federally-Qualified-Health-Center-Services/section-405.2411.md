@@ -1,6 +1,6 @@
 ##### § 405.2411 Scope of benefits. #####
 
-Link to an amendment published at 88 FR 79523, Nov. 16, 2023.
+Link to an amendment published at 88 FR 79523, Nov. 16, 2023.Link to an amendment published at 88 FR 82176, Nov. 22, 2023.
 
 (a) The following RHC and FQHC services are reimbursable under this subpart:
 

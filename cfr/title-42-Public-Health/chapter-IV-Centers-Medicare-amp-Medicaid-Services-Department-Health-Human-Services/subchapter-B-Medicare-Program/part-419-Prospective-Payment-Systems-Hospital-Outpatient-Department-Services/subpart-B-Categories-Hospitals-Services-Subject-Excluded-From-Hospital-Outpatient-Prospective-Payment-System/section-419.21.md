@@ -1,5 +1,7 @@
 ##### § 419.21 Hospital services subject to the outpatient prospective payment system. #####
 
+Link to an amendment published at 88 FR 82180, Nov. 22, 2023.
+
 Except for services described in § 419.22, effective for services furnished on or after July 1, 2000, payment is made under the hospital outpatient prospective payment system for the following:
 
 (a) Medicare Part B services furnished to hospital outpatients designated by the Secretary under this part.

@@ -1,5 +1,7 @@
 ##### § 405.2462 Payment for RHC and FQHC services. #####
 
+Link to an amendment published at 88 FR 82176, Nov. 22, 2023.
+
 (a) *Payment to independent RHCs that are authorized to bill under the reasonable cost system.* (1) RHCs that are authorized to bill under the reasonable cost system are paid on the basis of an all-inclusive rate, subject to a payment limit per visit determined in paragraph (b) of this section, for each beneficiary visit for covered services. This rate is determined by the Medicare Administration Contractor (MAC), in accordance with this subpart and general instructions issued by CMS.
 
 (2) The amount payable by the MAC for a visit is determined in accordance with paragraphs (i)(1) and (2) of this section.

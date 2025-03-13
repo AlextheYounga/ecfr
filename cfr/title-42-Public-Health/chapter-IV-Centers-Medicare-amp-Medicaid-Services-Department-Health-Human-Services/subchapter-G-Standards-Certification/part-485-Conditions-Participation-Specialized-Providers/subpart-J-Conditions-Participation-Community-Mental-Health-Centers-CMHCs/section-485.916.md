@@ -1,5 +1,7 @@
 ##### § 485.916 Condition of participation: Treatment team, person-centered active treatment plan, and coordination of services. #####
 
+Link to an amendment published at 88 FR 82183, Nov. 22, 2023.
+
 The CMHC must designate an interdisciplinary treatment team that is responsible, with the client, for directing, coordinating, and managing the care and services furnished for each client. The interdisciplinary treatment team is composed of individuals who work together to meet the physical, medical, psychosocial, emotional, and therapeutic needs of CMHC clients.
 
 (a) *Standard: Delivery of services.* (1) An interdisciplinary treatment team, led by a physician, NP, PA, CNS, clinical psychologist, or clinical social worker, must provide the care and services offered by the CMHC.

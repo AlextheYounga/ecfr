@@ -1,5 +1,7 @@
 ##### § 416.320 Retention and removal of quality measures under the ASCQR Program. #####
 
+Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
+
 (a) *General rule for the retention of quality measures.* Quality measures adopted for an ASCQR Program measure set for a previous payment determination year are retained in the ASCQR Program for measure sets for subsequent payment determination years, except when they are removed, suspended, or replaced as set forth in paragraphs (b) and (c) of this section.
 
 (b) *Immediate measure removal*. In cases where CMS believes that the continued use of a measure as specified raises patient safety concerns, CMS will immediately remove a quality measure from the ASCQR Program and will promptly notify ASCs and the public of the removal of the measure and the reasons for its removal through the ASCQR Program ListServ and the ASCQR Program QualityNet Web site. CMS will confirm the removal of the measure for patient safety concerns in the next ASCQR Program rulemaking.

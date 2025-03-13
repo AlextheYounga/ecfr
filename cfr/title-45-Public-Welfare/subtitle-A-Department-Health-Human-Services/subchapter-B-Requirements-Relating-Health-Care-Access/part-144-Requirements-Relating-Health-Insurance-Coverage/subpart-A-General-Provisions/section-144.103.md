@@ -220,4 +220,4 @@ This coverage is not required to comply with certain federal market requirements
 
 *Waiting period* has the meaning given the term in 45 CFR 147.116(b).
 
-[69 FR 78781, Dec. 30, 2004]Editorial Note:For Federal Register citations affecting § 144.103, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[69 FR 78781, Dec. 30, 2004]Editorial Note:For Federal Register citations affecting § 144.103, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

@@ -1,5 +1,7 @@
 ##### § 410.3 Scope of benefits. #####
 
+Link to an amendment published at 88 FR 82177, Nov. 22, 2023.
+
 (a) *Covered services.* The SMI program helps pay for the following:
 
 (1) Medical and other health services such as physicians' services, outpatient services furnished by a hospital or a CAH, diagnostic tests, outpatient physical therapy and speech pathology services, rural health clinic services, Federally qualified health center services, IHS, Indian tribe, or tribal organization facility services, and outpatient renal dialysis services.

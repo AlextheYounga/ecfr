@@ -1,5 +1,7 @@
 ##### § 416.310 Data collection and submission requirements under the ASCQR Program. #####
 
+Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
+
 (a) *Requirements for claims-based measures using quality data codes (QDCs).* (1) ASCs must submit complete data on individual claims-based quality measures through a claims-based reporting mechanism by submitting the appropriate QDCs on the ASC's Medicare claims.
 
 (2) The data collection period for claims-based quality measures reported using QDCs is the calendar year 2 years prior to the payment determination year. Only claims for services furnished in each calendar year paid by the Medicare Administrative Contractor (MAC) by April 30 of the following year of the ending data collection period will be included in the data used for the payment determination year.

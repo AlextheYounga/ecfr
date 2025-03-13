@@ -1,5 +1,7 @@
 ##### § 416.305 Participation and withdrawal requirements under the ASCQR Program. #####
 
+Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
+
 (a) *Participation in the ASCQR Program.* Except as provided in paragraph (c) of this section, an ambulatory surgical center (ASC) is considered as participating in the ASCQR Program once the ASC submits any quality measure data to the ASCQR Program and has been designated as open in the Certification and Survey Provider Enhanced Reporting system for at least four months prior to the beginning of data collection for a payment determination.
 
 (b) *Withdrawal from the ASCQR Program*. (1) An ASC may withdraw from the ASCQR Program by submitting to CMS a withdrawal of participation form that can be found in the secure portion of the QualityNet Web site.

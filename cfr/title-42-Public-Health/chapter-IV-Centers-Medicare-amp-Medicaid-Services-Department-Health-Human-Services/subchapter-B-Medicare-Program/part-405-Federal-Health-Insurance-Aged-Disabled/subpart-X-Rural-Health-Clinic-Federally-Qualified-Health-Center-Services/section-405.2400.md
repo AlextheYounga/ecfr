@@ -1,5 +1,7 @@
 ##### § 405.2400 Basis. #####
 
+Link to an amendment published at 88 FR 82176, Nov. 22, 2023.
+
 Subpart X is based on the provisions of the following sections of the Act:
 
 (a) Section 1833—Amounts of payment for supplementary medical insurance services.

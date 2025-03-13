@@ -1,5 +1,7 @@
 ##### § 660.603 Electronic monitoring provider permits and responsibilities. #####
 
+Link to an amendment published at 88 FR 81359, Nov. 22, 2023.
+
 (a) *General.* This section contains requirements for EM service providers providing EM services, pursuant to contracts with vessel owners whose vessels operate in the Shorebased IFQ Program (§ 660.140) or the MS Co-op Program (§ 660.150) and use EM under this subpart. A person must obtain a permit and endorsement as provided under § 660.603(b) in order to be an EM service provider. An EM service provider must:
 
 (1) Operate under a NMFS-accepted EM Service Plan (see paragraph (b)(1)(vii) of this section).

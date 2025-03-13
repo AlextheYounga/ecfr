@@ -1,6 +1,6 @@
 ##### § 410.2 Definitions. #####
 
-Link to an amendment published at 88 FR 77874, Nov. 13, 2023.
+Link to an amendment published at 88 FR 77874, Nov. 13, 2023.Link to an amendment published at 88 FR 82177, Nov. 22, 2023.
 
 As used in this part—
 

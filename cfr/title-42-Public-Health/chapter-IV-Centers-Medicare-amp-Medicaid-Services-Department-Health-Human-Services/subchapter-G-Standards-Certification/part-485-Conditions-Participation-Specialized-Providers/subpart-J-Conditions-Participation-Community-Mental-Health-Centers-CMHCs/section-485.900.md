@@ -1,5 +1,7 @@
 ##### § 485.900 Basis and scope. #####
 
+Link to an amendment published at 88 FR 82183, Nov. 22, 2023.
+
 (a) *Basis.* This subpart is based on the following sections of the Social Security Act:
 
 (1) Section 1832(a)(2)(J) of the Act specifies that payments may be made under Medicare Part B for partial hospitalization services furnished by a community mental health center (CMHC) as described in section 1861(ff)(3)(B) of the Act.

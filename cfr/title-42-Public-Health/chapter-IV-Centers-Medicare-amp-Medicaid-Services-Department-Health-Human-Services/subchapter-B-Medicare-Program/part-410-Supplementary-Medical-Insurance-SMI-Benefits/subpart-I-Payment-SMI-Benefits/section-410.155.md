@@ -1,5 +1,7 @@
 ##### § 410.155 Outpatient mental health treatment limitation. #####
 
+Link to an amendment published at 88 FR 82179, Nov. 22, 2023.
+
 (a) *Limitation.* For services subject to the limitation as specified in paragraph (b) of this section, the percentage of the expenses incurred for such services during a calendar year that is considered incurred expenses under Medicare Part B when determining the amount of payment and deductible under § 410.152 and § 410.160 of this part, respectively, is as follows:
 
 (1) For expenses incurred in years before 2010, 621/2 percent.

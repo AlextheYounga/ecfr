@@ -1,5 +1,7 @@
 ##### § 485.904 Condition of participation: Personnel qualifications. #####
 
+Link to an amendment published at 88 FR 82183, Nov. 22, 2023.
+
 (a) *Standard: General qualification requirements.* All professionals who furnish services directly, under an individual contract, or under arrangements with a CMHC, must be legally authorized (licensed, certified or registered) in accordance with applicable Federal, State and local laws, and must act only within the scope of their State licenses, certifications, or registrations. All personnel qualifications must be kept current at all times.
 
 (b) *Standard: Personnel qualifications for certain disciplines.* The following qualifications must be met:

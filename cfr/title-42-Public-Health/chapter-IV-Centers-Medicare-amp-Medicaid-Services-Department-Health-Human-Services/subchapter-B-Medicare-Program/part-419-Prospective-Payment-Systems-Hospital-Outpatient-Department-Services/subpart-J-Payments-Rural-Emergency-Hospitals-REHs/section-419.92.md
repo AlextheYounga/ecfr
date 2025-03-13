@@ -1,5 +1,7 @@
 ##### § 419.92 Payment to rural emergency hospitals. #####
 
+Link to an amendment published at 88 FR 82181, Nov. 22, 2023.
+
 (a) *Payment for REH services*—(1) *Medicare payment.* A rural emergency hospital that furnishes a REH service on or after January 1, 2023, is paid an amount equal to the amount of payment that would otherwise apply under section 1833(t) of the Act for the equivalent covered OPD service, increased by 5 percent.
 
 (2) *Beneficiary copayment.* The beneficiary copayment for a REH service is the amount determined under section 1833(t)(8) of the Act for the equivalent covered OPD service, excluding the 5 percent payment increase described in paragraph (a)(1) of this section.

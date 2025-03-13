@@ -1,6 +1,6 @@
 ##### § 405.2463 What constitutes a visit. #####
 
-Link to an amendment published at 88 FR 79524, Nov. 16, 2023.
+Link to an amendment published at 88 FR 79524, Nov. 16, 2023.Link to an amendment published at 88 FR 82176, Nov. 22, 2023.
 
 (a) *Visit—General.* (1) For RHCs, a visit is either of the following:
 

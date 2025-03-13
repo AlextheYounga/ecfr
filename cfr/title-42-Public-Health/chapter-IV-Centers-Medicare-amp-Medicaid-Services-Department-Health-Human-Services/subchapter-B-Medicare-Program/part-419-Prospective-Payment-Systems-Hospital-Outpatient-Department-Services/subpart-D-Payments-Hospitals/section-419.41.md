@@ -1,5 +1,7 @@
 ##### § 419.41 Calculation of national beneficiary copayment amounts and national Medicare program payment amounts. #####
 
+Link to an amendment published at 88 FR 82180, Nov. 22, 2023.
+
 (a) To calculate the unadjusted copayment amount for each APC group, CMS—
 
 (1) Standardizes 1996 hospital charges for the services within each APC group to offset variations in hospital labor costs across geographic areas;
