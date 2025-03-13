@@ -1,7 +1,5 @@
 ##### § 15.37 Transition provisions for compliance with this part. #####
 
-Link to an amendment published at 88 FR 47394, July 24, 2023.
-
 (a) The manufacture or importation of scanning receivers, and frequency converters designed or marketed for use with scanning receivers, that do not comply with the provisions of § 15.121 shall cease on or before October 25, 1999. Effective July 26, 1999, the Commission will not grant equipment authorization for receivers that do not comply with the provisions of § 15.121. This paragraph does not prohibit the sale or use of authorized receivers manufactured in the United States, or imported into the United States, prior to October 25, 1999.
 
 (b) Effective October 16, 2002, an equipment approval may no longer be obtained for medical telemetry equipment operating under the provisions of § 15.241 or § 15.242. The requirements for obtaining an approval for medical telemetry equipment after this date are found in subpart H of part 95 of this chapter.
@@ -52,4 +50,6 @@ Link to an amendment published at 88 FR 47394, July 24, 2023.
 
 (q) All fixed white space devices which are approved by Telecommunication Certification Bodies on or after February 19, 2020 or that are marketed on or after February 19, 2021 shall comply with the requirements of § 15.711(c). Fixed white space devices which are approved or marketed before the dates in the preceding sentence shall comply with either the requirements of § 15.711(c) or the requirements of § 15.711(c) as in effect prior to August 19, 2019 (see 47 CFR part 15 as revised October 1, 2018).
 
-[77 FR 4913, Feb. 1, 2012, as amended at 78 FR 34927, June 11, 2013; 79 FR 24578, May 1, 2014; 80 FR 71728, Nov. 17, 2015; 80 FR 73068, Nov. 23, 2015; 82 FR 41559, Sept. 1, 2017; 82 FR 43870, Sept. 20, 2017; 82 FR 50832, Nov. 2, 2017; 83 FR 10640, 10642, Mar. 12, 2018; 84 FR 34796, July 19, 2019; 87 FR 18992, Apr. 1, 2022]
+(r) Field disturbance sensor/radar devices being marketed or operating in the frequency band 57-64 GHz approved by Telecommunication Certification Bodies as being in compliance with previously adopted rules or waivers thereof on or before [six months after the effective date of the rules] may continue to be marketed and operate in accordance with their certifications. All other field disturbance sensor/radar devices shall comply with the requirements in § 15.255.
+
+[77 FR 4913, Feb. 1, 2012, as amended at 78 FR 34927, June 11, 2013; 79 FR 24578, May 1, 2014; 80 FR 71728, Nov. 17, 2015; 80 FR 73068, Nov. 23, 2015; 82 FR 41559, Sept. 1, 2017; 82 FR 43870, Sept. 20, 2017; 82 FR 50832, Nov. 2, 2017; 83 FR 10640, 10642, Mar. 12, 2018; 84 FR 34796, July 19, 2019; 87 FR 18992, Apr. 1, 2022, 88 FR 47394, July 24, 2023]

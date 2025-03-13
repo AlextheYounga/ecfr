@@ -1,5 +1,7 @@
 ##### § 235.4 Allocation of funds to States. #####
 
+Link to an amendment published at 88 FR 57858, Aug. 23, 2023.
+
 (a) *Nondiscretionary SAE Funds.* For each fiscal year, FNS shall allocate the following:
 
 (1) To each State which administers the National School Lunch, School Breakfast or Special Milk Programs an amount equal to one (1) percent of the funds expended by such State during the second preceding fiscal year under sections 4 and 11 of the National School Lunch Act, as amended, and sections 3, 4 and 17A of the Child Nutrition Act of 1966, as amended. However, the total amount allocated to any State under this paragraph shall not be less than $200,000 or the amount allocated to the State in the fiscal year ending September 30, 1981, whichever is greater. On October 1, 2008 and each October 1 thereafter, the minimum dollar amount for a fiscal year for administrative costs shall be adjusted to reflect the percentage change between the value of the index for State and local government purchases, as published by the Bureau of Economic Analysis of the Department of Commerce, for the 12-month period ending June 30 of the second preceding fiscal year, and the value of that index for the 12-month period ending June 30 of the preceding fiscal year.

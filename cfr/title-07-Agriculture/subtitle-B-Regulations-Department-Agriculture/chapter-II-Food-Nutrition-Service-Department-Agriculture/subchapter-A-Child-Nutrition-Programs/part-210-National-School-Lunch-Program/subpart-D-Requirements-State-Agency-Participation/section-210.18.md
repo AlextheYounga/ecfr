@@ -1,5 +1,7 @@
 ##### § 210.18 Administrative reviews. #####
 
+Link to an amendment published at 88 FR 57845, Aug. 23, 2023.
+
 (a) *Programs covered and methodology.* Each State agency must follow the requirements of this section to conduct administrative reviews of school food authorities participating in the National School Lunch Program and the School Breakfast Program (part 220 of this chapter). These procedures must also be followed, as applicable, to conduct administrative reviews of the National School Lunch Program's Afterschool Snacks and Seamless Summer Option, the Special Milk Program (part 215 of this chapter), and the Fresh Fruit and Vegetable Program. To conduct a program review, the State agency must gather and assess information off-site and/or on-site, observe the school food service operation, and use a risk-based approach to evaluate compliance with specific program requirements.
 
 (b) *Definitions.* The following definitions are provided in alphabetical order in order to clarify State agency administrative review requirements:

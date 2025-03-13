@@ -1,5 +1,7 @@
 ##### § 1.3 Obtaining and compiling wage rate information. #####
 
+Link to an amendment published at 88 FR 57723, Aug. 23, 2023.
+
 For the purpose of making wage determinations, the Administrator will conduct a continuing program for the obtaining and compiling of wage rate information.
 
 (a) The Administrator will encourage the voluntary submission of wage rate data by contractors, contractors' associations, labor organizations, public officials and other interested parties, reflecting wage rates paid to laborers and mechanics on various types of construction in the area. The Administrator may also obtain data from agencies on wage rates paid on construction projects under their jurisdiction. The information submitted should reflect not only the wage rates paid a particular classification in an area, but also the type or types of construction on which such rate or rates are paid, and whether or not such rates were paid on Federal or federally assisted projects subject to Davis-Bacon prevailing wage requirements.

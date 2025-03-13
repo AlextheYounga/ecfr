@@ -1,5 +1,7 @@
 ##### § 226.25 Other provisions. #####
 
+Link to an amendment published at 88 FR 57858, Aug. 23, 2023.
+
 (a) *Grant closeout procedures.* Grant closeout procedures for the Program shall be in accordance with 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415, as applicable.
 
 (b) *State requirements.* Nothing contained in this part shall prevent a State agency from imposing additional requirements for participation in the Program which are not inconsistent with the provisions of this part; however, any additional requirements shall be approved by FNSRO and may not deny the Program to an eligible institution.

@@ -1,5 +1,7 @@
 ##### § 5.6 Enforcement. #####
 
+Link to an amendment published at 88 FR 57739, Aug. 23, 2023.
+
 (a)(1) It shall be the responsibility of the Federal agency to ascertain whether the clauses required by § 5.5 have been inserted in the contracts subject to the labor standards provisions of the Acts contained in § 5.1. Agencies which do not directly enter into such contracts shall promulgate the necessary regulations or procedures to require the recipient of the Federal assistance to insert in its contracts the provisions of § 5.5. No payment, advance, grant, loan, or guarantee of funds shall be approved by the Federal agency unless the agency insures that the clauses required by § 5.5 and the appropriate wage determination of the Secretary of Labor are contained in such contracts. Furthermore, no payment, advance, grant, loan, or guarantee of funds shall be approved by the Federal agency after the beginning of construction unless there is on file with the agency a certification by the contractor that the contractor and its subcontractors have complied with the provisions of § 5.5 or unless there is on file with the agency a certification by the contractor that there is a substantial dispute with respect to the required provisions.
 
 (2) Payrolls and Statements of Compliance submitted pursuant to § 5.5(a)(3)(ii) shall be preserved by the Federal agency for a period of 3 years from the date of completion of the contract and shall be produced at the request of the Department of Labor at any time during the 3-year period.

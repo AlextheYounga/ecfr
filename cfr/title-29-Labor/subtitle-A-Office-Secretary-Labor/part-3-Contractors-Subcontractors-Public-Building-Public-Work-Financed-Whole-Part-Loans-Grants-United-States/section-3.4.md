@@ -1,5 +1,7 @@
 ##### § 3.4 Submission of weekly statements and the preservation and inspection of weekly payroll records. #####
 
+Link to an amendment published at 88 FR 57730, Aug. 23, 2023.
+
 (a) Each weekly statement required under § 3.3 shall be delivered by the contractor or subcontractor, within seven days after the regular payment date of the payroll period, to a representative of a Federal or State agency in charge at the site of the building or work, or, if there is no representative of a Federal or State agency at the site of the building or work, the statement shall be mailed by the contractor or subcontractor, within such time, to a Federal or State agency contracting for or financing the building or work. After such examination and check as may be made, such statement, or a copy thereof, shall be kept available, or shall be transmitted together with a report of any violation, in accordance with applicable procedures prescribed by the United States Department of Labor.
 
 (b) Each contractor or subcontractor shall preserve his weekly payroll records for a period of three years from date of completion of the contract. The payroll records shall set out accurately and completely the name and address of each laborer and mechanic, his correct classification, rate of pay, daily and weekly number of hours worked, deductions made, and actual wages paid. Such payroll records shall be made available at all times for inspection by the contracting officer or his authorized representative, and by authorized representatives of the Department of Labor.

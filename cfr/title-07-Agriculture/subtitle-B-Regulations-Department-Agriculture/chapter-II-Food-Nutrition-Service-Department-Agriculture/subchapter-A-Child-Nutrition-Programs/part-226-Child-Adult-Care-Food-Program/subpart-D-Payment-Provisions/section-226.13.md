@@ -1,5 +1,7 @@
 ##### § 226.13 Food service payments to sponsoring organizations for day care homes. #####
 
+Link to an amendment published at 88 FR 57856, Aug. 23, 2023.
+
 (a) Payments shall be made only to sponsoring organizations operating under an agreement with the State agency for the meal types specified in the agreement served to enrolled nonresident children and eligible enrolled children of day care home providers, at approved day care homes.
 
 (b) Each sponsoring organization shall report each month to the State agency the total number of meals, by type (breakfasts, lunches, suppers, and snacks) and by category (tier I and tier II), served to children enrolled in approved day care homes. Prior to submitting its consolidated monthly claim to the State agency, each sponsoring organization must conduct reasonable edit checks on the day care homes' meal claims which, at a minimum, include those edit checks specified at § 226.10(c).

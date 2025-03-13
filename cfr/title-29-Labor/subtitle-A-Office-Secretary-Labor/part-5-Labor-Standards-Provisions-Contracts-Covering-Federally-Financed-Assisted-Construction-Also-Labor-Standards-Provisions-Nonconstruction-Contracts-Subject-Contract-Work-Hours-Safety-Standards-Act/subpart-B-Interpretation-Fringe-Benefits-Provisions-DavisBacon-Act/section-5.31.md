@@ -1,5 +1,7 @@
 ##### § 5.31 Meeting wage determination obligations. #####
 
+Link to an amendment published at 88 FR 57746, Aug. 23, 2023.
+
 (a) A contractor or subcontractor performing work subject to a Davis-Bacon wage determination may discharge his minimum wage obligations for the payment of both straight time wages and fringe benefits by paying in cash, making payments or incurring costs for “bona fide” fringe benefits of the types listed in the applicable wage determination or otherwise found prevailing by the Secretary of Labor, or by a combination thereof.
 
 (b) A contractor or subcontractor may discharge his obligations for the payment of the basic hourly rates and the fringe benefits where both are contained in a wage determination applicable to his laborers or mechanics in the following ways:

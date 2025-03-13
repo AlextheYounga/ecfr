@@ -1,5 +1,7 @@
 ##### § 200.322 Domestic preferences for procurements. #####
 
+Link to an amendment published at 88 FR 57790, Aug. 23, 2023.
+
 (a) As appropriate and to the extent consistent with law, the non-Federal entity should, to the greatest extent practicable under a Federal award, provide a preference for the purchase, acquisition, or use of goods, products, or materials produced in the United States (including but not limited to iron, aluminum, steel, cement, and other manufactured products). The requirements of this section must be included in all subawards including all contracts and purchase orders for work or products under this award.
 
 (b) For purposes of this section:

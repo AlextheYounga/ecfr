@@ -1,3 +1,5 @@
 ##### § 5.22 Effect of the Davis-Bacon fringe benefits provisions. #####
 
+Link to an amendment published at 88 FR 57744, Aug. 23, 2023.
+
 The Davis-Bacon Act and the prevailing wage provisions of the related statutes listed in § 1.1 of this subtitle confer upon the Secretary of Labor the authority to predetermine, as minimum wages, those wage rates found to be prevailing for corresponding classes of laborers and mechanics employed on projects of a character similar to the contract work in the area in which the work is to be performed. See paragraphs (a) and (b) of § 1.2 of this subtitle. The fringe benefits amendments enlarge the scope of this authority by including certain bona fide fringe benefits within the meaning of the terms “wages”, “scale of wages”, “wage rates”, “minimum wages” and “prevailing wages”, as used in the Davis-Bacon Act.

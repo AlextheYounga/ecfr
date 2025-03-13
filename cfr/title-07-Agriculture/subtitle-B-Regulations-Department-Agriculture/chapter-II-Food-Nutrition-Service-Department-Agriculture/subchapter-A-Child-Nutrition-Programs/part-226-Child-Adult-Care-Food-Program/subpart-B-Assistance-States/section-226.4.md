@@ -1,5 +1,7 @@
 ##### § 226.4 Payments to States and use of funds. #####
 
+Link to an amendment published at 88 FR 57851, Aug. 23, 2023.
+
 (a) *Availability of funds.* For each fiscal year based on funds provided to the Department, FNS must make funds available to each State agency to reimburse institutions for their costs in connection with food service operations, including administrative expenses, under this part. Funds must be made available in an amount no less than the sum of the totals obtained under paragraphs (b), (c), (d), (e), (f), (g), and (j) of this section. However, in any fiscal year, the aggregate amount of assistance provided to a State under this part must not exceed the sum of the Federal funds provided by the State to participating institutions within the State for that fiscal year and any funds used by the State under paragraphs (j) and (l) of this section.
 
 (b) *Center funds.* For meals served to participants in child care centers, adult day care centers and outside-school-hours care centers, funds shall be made available to each State agency in an amount no less than the sum of the products obtained by multiplying:

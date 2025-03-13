@@ -1,5 +1,7 @@
 ##### § 5.15 Limitations, variations, tolerances, and exemptions under the Contract Work Hours and Safety Standards Act. #####
 
+Link to an amendment published at 88 FR 57743, Aug. 23, 2023.
+
 (a) *General.* Upon his or her own initiative or upon the request of any Federal agency, the Secretary of Labor may provide under section 105 of the Contract Work Hours and Safety Standards Act reasonable limitations and allow variations, tolerances, and exemptions to and from any or all provisions of that Act whenever the Secretary finds such action to be necessary and proper in the public interest to prevent injustice, or undue hardship, or to avoid serious impairment of the conduct of Government business. Any request for such action by the Secretary shall be submitted in writing, and shall set forth the reasons for which the request is made.
 
 (b) *Exemptions.* Pursuant to section 105 of the Contract Work Hours and Safety Standards Act, the following classes of contracts are found exempt from all provisions of that Act in order to prevent injustice, undue hardship, or serious impairment of Government business:

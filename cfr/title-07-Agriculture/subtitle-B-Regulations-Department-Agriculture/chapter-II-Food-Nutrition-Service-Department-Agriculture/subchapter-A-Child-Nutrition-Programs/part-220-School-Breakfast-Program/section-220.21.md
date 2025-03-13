@@ -1,5 +1,7 @@
 ##### § 220.21 Program information. #####
 
+Link to an amendment published at 88 FR 57849, Aug. 23, 2023.
+
 School Food Authorities desiring information concerning the program should write to their State educational agency or to the appropriate Food and Nutrition Service Regional Office as indicated below:
 
 (a) In the States of Delaware, District of Columbia, Maryland, New Jersey, Pennsylvania, Puerto Rico, Virginia, Virgin Islands, and West Virginia: Mid-Atlantic Regional Office, FNS, U.S. Department of Agriculture, 300 Corporate Boulevard, Robbinsville, New Jersey 08691-1598.

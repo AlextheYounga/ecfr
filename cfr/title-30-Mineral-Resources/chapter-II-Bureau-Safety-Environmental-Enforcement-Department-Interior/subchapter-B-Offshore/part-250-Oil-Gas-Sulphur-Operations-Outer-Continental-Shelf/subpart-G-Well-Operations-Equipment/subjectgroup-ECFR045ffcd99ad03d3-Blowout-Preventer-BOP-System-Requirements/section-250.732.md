@@ -1,5 +1,7 @@
 ##### § 250.732 What are the independent third party requirements for BOP systems and system components? #####
 
+Link to an amendment published at 88 FR 57347, Aug. 23, 2023.
+
 (a) Prior to beginning any operation requiring the use of any BOP, you must submit verification by an independent third party and supporting documentation as required by this paragraph to the appropriate District Manager and Regional Supervisor.
 
 |You must submit verification and documentation related to:|                                                                                                                                                                                                     That:                                                                                                                                                                                                     |

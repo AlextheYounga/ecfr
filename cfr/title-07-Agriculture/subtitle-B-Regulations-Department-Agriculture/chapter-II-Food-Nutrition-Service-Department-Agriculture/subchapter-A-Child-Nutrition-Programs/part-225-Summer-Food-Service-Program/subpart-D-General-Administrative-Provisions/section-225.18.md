@@ -1,5 +1,7 @@
 ##### § 225.18 Miscellaneous administrative provisions. #####
 
+Link to an amendment published at 88 FR 57850, Aug. 23, 2023.
+
 (a) *Grant closeout procedures.* Grant closeout procedures for the Program shall be in accordance with 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415, as applicable.
 
 (b) *Termination for cause.* (1) FNS may terminate a State agency's participation in the Program in whole, or in part, whenever it is determined that the State agency has failed to comply with the conditions of the Program. FNS shall promptly notify the State agency in writing of the termination and reason for the termination, together with the effective date, and shall allow the State 30 calendar days to respond. In instances where the State does respond, FNS shall inform the State of its final determination no later than 30 calendar days after the State responds.

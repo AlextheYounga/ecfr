@@ -1,5 +1,7 @@
 ##### § 5.2 Definitions. #####
 
+Link to an amendment published at 88 FR 57731, Aug. 23, 2023.
+
 (a) The term *Secretary* includes the Secretary of Labor, the Deputy Under Secretary for Employment Standards, and their authorized representatives.
 
 (b) The term *Administrator* means the Administrator of the Wage and Hour Division, U.S. Department of Labor, or authorized representative.

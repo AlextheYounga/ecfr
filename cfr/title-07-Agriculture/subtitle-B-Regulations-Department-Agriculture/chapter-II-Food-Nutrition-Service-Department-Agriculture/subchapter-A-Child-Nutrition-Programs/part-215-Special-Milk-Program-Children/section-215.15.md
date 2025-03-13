@@ -1,5 +1,7 @@
 ##### § 215.15 Withholding payments. #####
 
+Link to an amendment published at 88 FR 57848, Aug. 23, 2023.
+
 In accordance with Departmental regulations 2 CFR 200.338 through 200.342, the State agency shall withhold Program payments in whole or in part, to any school food authority which has failed to comply with the provisions of this part. Program payments shall be withheld until the school food authority takes corrective action satisfactory to the State agency, or gives evidence that such corrective actions will be taken, or until the State agency terminates the grant in accordance with § 215.16. Subsequent to the State agency's acceptance of the corrective actions, payments will be released for any milk served in accordance with the provisions of this part during the period the payments were withheld.
 
 [72 FR 61493, Oct. 31, 2007, as amended at 81 FR 66490, Sept. 28, 2016]

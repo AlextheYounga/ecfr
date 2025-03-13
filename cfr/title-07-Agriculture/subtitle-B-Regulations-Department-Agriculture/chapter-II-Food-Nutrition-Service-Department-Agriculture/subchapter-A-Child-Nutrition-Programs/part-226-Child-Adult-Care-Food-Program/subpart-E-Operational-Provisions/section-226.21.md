@@ -1,5 +1,7 @@
 ##### § 226.21 Food service management companies. #####
 
+Link to an amendment published at 88 FR 57857, Aug. 23, 2023.
+
 (a) Any institution may contract with a food service management company. An institution which contracts with a food service management company shall remain responsible for ensuring that the food service operation conforms to its agreement with the State agency. All procurements of meals from food service management companies shall adhere to the procurement standards set forth in § 226.22. Public institutions shall follow applicable State or local laws governing bid procedures. In the absence of any applicable State or local laws, and in addition to the procurement provisions set forth in § 226.22, the State agency may mandate that each institution with Program meal contracts of an aggregate value in excess of $10,000 formally advertise such contracts and comply with the following procedures intended to prevent fraud, waste, and Program abuse:
 
 (1) All proposed contracts shall be publicly announced at least once 14 calendar days prior to the opening of bids. The announcement shall include the time and place of the bid opening;

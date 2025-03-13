@@ -1,5 +1,7 @@
 ##### § 5.23 The statutory provisions. #####
 
+Link to an amendment published at 88 FR 57744, Aug. 23, 2023.
+
 The fringe benefits provisions of the 1964 amendments to the Davis-Bacon Act are, in part, as follows:
 
 (b) As used in this Act the term “wages”, “scale of wages”, “wage rates”, “minimum wages”, and “prevailing wages” shall include—

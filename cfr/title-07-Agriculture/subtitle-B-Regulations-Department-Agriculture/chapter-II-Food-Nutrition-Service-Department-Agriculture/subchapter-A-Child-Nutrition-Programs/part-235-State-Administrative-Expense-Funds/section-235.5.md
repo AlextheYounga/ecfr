@@ -1,5 +1,7 @@
 ##### § 235.5 Payments to States. #####
 
+Link to an amendment published at 88 FR 57858, Aug. 23, 2023.
+
 (a) *Method of payment.* FNS will specify the terms and conditions of the State agency's annual grant of SAE funds in conjunction with the grant award document and will make funds available for payment by means of a Letter of Credit issued in favor of the State agency. The total amount of a State agency's grant shall be equal to the sum of the amounts allocated to such agency under § 235.4 plus or minus any adjustments resulting from the reallocation provisions under paragraph (d) of this section plus any transfers under § 235.6(a) and/or § 235.6(c) of this part. The amount of SAE funds made available for payment to a State agency in any fiscal year shall be determined by FNS upon approval of the State agency's administrative plan under paragraph (b) of this section and any amendments to such plan under paragraph (c) of this section. Funds shall not be made available before the State agency's plan or amendment to such plan, as applicable, has been approved by FNS. However, if the plan has not been approved by October 1 of the base year, FNS may advance SAE funds to the State agency, in amounts determined appropriate by FNS, pending approval of the plan.
 
 (b) *Administrative plan.* (1) Each State agency shall submit, subject to FNS approval, an initial State Administrative Expense plan based upon guidance provided by FNS. This base year plan shall include:

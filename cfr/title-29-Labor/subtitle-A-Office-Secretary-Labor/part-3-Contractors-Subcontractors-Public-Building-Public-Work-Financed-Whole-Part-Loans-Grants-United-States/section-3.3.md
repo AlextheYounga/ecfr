@@ -1,5 +1,7 @@
 ##### § 3.3 Weekly statement with respect to payment of wages. #####
 
+Link to an amendment published at 88 FR 57729, Aug. 23, 2023.
+
 (a) As used in this section, the term *employee* shall not apply to persons in classifications higher than that of laborer or mechanic and those who are the immediate supervisors of such employees.
 
 (b) Each contractor or subcontractor engaged in the construction, prosecution, completion, or repair of any public building or public work, or building or work financed in whole or in part by loans or grants from the United States, shall furnish each week a statement with respect to the wages paid each of its employees engaged on work covered by this part 3 and part 5 of this title during the preceding weekly payroll period. This statement shall be executed by the contractor or subcontractor or by an authorized officer or employee of the contractor or subcontractor who supervises the payment of wages, and shall be on the back of Form WH 347, “Payroll (For Contractors Optional Use)” or on any form with identical wording. Copies of WH 347 may be obtained from the Government contracting or sponsoring agency or from the Wage and Hour Division Web site at *http://www.dol.gov/whd/forms/index.htm* or its successor site.

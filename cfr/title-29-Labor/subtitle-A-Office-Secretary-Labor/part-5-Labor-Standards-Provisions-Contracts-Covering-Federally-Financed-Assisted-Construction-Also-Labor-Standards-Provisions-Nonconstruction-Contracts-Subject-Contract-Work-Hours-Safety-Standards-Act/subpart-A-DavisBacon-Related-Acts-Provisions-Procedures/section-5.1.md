@@ -1,5 +1,7 @@
 ##### § 5.1 Purpose and scope. #####
 
+Link to an amendment published at 88 FR 57731, Aug. 23, 2023.
+
 (a) The regulations contained in this part are promulgated under the authority conferred upon the Secretary of Labor by Reorganization Plan No. 14 of 1950 and the Copeland Act in order to coordinate the administration and enforcement of the labor standards provisions of each of the following acts by the Federal agencies responsible for their administration and of such additional statutes as may from time to time confer upon the Secretary of Labor additional duties and responsibilities similar to those conferred upon the Secretary of Labor under Reorganization Plan No. 14 of 1950:
 
 1. The Davis-Bacon Act (sec. 1-7, 46 Stat. 1949, as amended; Pub. L. 74-403, 40 U.S.C. 276a-276a-7).

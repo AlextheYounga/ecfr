@@ -1,5 +1,7 @@
 ##### § 5.11 Disputes concerning payment of wages. #####
 
+Link to an amendment published at 88 FR 57741, Aug. 23, 2023.
+
 (a) This section sets forth the procedure for resolution of disputes of fact or law concerning payment of prevailing wage rates, overtime pay, or proper classification. The procedures in this section may be initiated upon the Administrator's own motion, upon referral of the dispute by a Federal agency pursuant to § 5.5(a)(9), or upon request of the contractor or subcontractor(s).
 
 (b)(1) In the event of a dispute described in paragraph (a) of this section in which it appears that relevant facts are at issue, the Administrator will notify the affected contractor and subcontractor(s) (if any), by registered or certified mail to the last known address, of the investigation findings. If the Administrator determines that there is reasonable cause to believe that the contractor and/or subcontractor(s) should also be subject to debarment under the Davis-Bacon Act or § 5.12(a)(1), the letter will so indicate.

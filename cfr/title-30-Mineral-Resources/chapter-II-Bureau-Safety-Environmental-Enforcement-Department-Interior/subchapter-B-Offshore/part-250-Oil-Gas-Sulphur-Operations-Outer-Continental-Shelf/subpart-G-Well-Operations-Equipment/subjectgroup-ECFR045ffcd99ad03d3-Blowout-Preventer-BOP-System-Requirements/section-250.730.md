@@ -1,5 +1,7 @@
 ##### § 250.730 What are the general requirements for BOP systems and system components? #####
 
+Link to an amendment published at 88 FR 57347, Aug. 23, 2023.
+
 (a) You must ensure that the BOP system and system components are designed, installed, maintained, inspected, tested, and used properly to ensure well control. The working-pressure rating of each BOP component (excluding annular(s)) must exceed MASP as defined for the operation. For a subsea BOP, the MASP must be determined at the mudline. The BOP system includes the BOP stack, control system, and any other associated system(s) and equipment. The BOP system and individual components must be able to perform their expected functions and be compatible with each other. Your BOP system must be capable of closing and sealing the wellbore in the event of flow due to a kick, including under anticipated flowing conditions for the specific well conditions, without losing ram closure time and sealing integrity due to the corrosiveness, volume, and abrasiveness of any fluids in the wellbore that the BOP system may encounter. Your BOP system must meet the following requirements:
 
 (1) The BOP requirements of API Standard 53 (incorporated by reference in § 250.198) and the requirements of §§ 250.733 through 250.739. If there is a conflict between API Standard 53 and the requirements of this subpart, you must follow the requirements of this subpart.

@@ -1,5 +1,7 @@
 ##### § 802.227 Military installation. #####
 
+Link to an amendment published at 88 FR 57350, Aug. 23, 2023.
+
 The term *military installation* means any site that meets the following category descriptions, as identified in the list at appendix A to this part:
 
 (a) Active Air Force ballistic missile fields;

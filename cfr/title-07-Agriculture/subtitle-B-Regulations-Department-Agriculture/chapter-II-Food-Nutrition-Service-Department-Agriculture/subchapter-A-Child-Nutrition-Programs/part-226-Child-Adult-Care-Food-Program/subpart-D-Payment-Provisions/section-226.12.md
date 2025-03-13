@@ -1,5 +1,7 @@
 ##### § 226.12 Administrative payments to sponsoring organizations for day care homes. #####
 
+Link to an amendment published at 88 FR 57856, Aug. 23, 2023.
+
 (a) *General.* Sponsoring organizations for day care homes shall receive payments for administrative costs. During any fiscal year, administrative costs payments to a sponsoring organization may not exceed the lesser of (1) actual expenditures for the costs of administering the Program less income to the Program, or (2) the amount of administrative costs approved by the State agency in the sponsoring organization's budget, or (3) the sum of the products obtained by multiplying each month the sponsoring organization's:
 
 (i) Initial 50 day care homes by 42 dollars;

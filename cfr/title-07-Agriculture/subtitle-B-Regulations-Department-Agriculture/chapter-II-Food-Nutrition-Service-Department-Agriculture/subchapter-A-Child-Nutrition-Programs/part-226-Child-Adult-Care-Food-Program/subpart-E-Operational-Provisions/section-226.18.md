@@ -1,5 +1,7 @@
 ##### § 226.18 Day care home provisions. #####
 
+Link to an amendment published at 88 FR 57857, Aug. 23, 2023.
+
 (a) Day care homes shall have current Federal, State or local licensing or approval to provide day care services to children. Day care homes which cannot obtain their license because they lack the funding to comply with licensing standards may request a total limit per home of $300 in administrative funds from a sponsoring organization to assist them in obtaining their license. Day care homes that, at the option of their sponsoring organization, receive administrative funds for licensing-related expenses must complete documentation requested by their sponsor as described in § 226.16(k) prior to receiving any funds. The agreement must be signed by the sponsoring organization and the provider and must include the provider's full name, mailing address, and date of birth. Day care homes which are complying with applicable procedures to renew licensing or approval may participate in the Program during the renewal process, unless the State agency has information which indicates that renewal will be denied. If licensing or approval is not available, a day care home may participate in the Program if:
 
 (1) It receives title XX funds for providing child care; or

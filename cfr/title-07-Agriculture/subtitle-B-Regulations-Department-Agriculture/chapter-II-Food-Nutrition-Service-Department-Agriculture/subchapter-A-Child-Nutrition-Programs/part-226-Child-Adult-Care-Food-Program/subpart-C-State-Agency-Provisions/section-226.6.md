@@ -1,5 +1,7 @@
 ##### § 226.6 State agency administrative responsibilities. #####
 
+Link to an amendment published at 88 FR 57851, Aug. 23, 2023.
+
 (a) *State agency personnel.* Each State agency must provide sufficient consultative, technical, and managerial personnel to:
 
 (1) Administer the Program;

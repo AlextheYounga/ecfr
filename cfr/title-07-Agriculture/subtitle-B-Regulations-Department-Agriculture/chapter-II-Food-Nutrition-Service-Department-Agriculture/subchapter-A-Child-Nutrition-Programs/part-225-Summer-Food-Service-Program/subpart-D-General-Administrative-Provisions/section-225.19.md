@@ -1,5 +1,7 @@
 ##### § 225.19 Regional office addresses. #####
 
+Link to an amendment published at 88 FR 57850, Aug. 23, 2023.
+
 Persons desiring information concerning the Program may write to the appropriate State agency or Regional Office of FNS as indicated below:
 
 (a) In the States of Connecticut, Maine, Massachusetts, New Hampshire, New York, Rhode Island, and Vermont: Northeast Regional Office, FNS, U.S. Department of Agriculture, 10 Causeway Street, Room 501, Boston, MA 02222-1065.

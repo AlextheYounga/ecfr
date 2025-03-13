@@ -1,5 +1,7 @@
 ##### § 5.10 Restitution, criminal action. #####
 
+Link to an amendment published at 88 FR 57741, Aug. 23, 2023.
+
 (a) In cases other than those forwarded to the Attorney General of the United States under paragraph (b), of this section, where violations of the labor standards clauses contained in § 5.5 and the applicable statutes listed in § 5.1 result in underpayment of wages to employees, the Federal agency or an authorized representative of the Department of Labor shall request that restitution be made to such employees or on their behalf to plans, funds, or programs for any type of bona fide fringe benefits within the meaning of section 1(b)(2) of the Davis-Bacon Act.
 
 (b) In cases where the Agency Head or the Administrator finds substantial evidence that such violations are willful and in violation of a criminal statute, the matter shall be forwarded to the Attorney General of the United States for prosecution if the facts warrant. In all such cases the Administrator shall be informed simultaneously of the action taken.

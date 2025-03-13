@@ -1,5 +1,7 @@
 ##### § 210.16 Food service management companies. #####
 
+Link to an amendment published at 88 FR 57845, Aug. 23, 2023.
+
 (a) *General.* Any school food authority (including a State agency acting in the capacity of a school food authority) may contract with a food service management company to manage its food service operation in one or more of its schools. However, no school or school food authority may contract with a food service management company to operate an a la carte food service unless the company agrees to offer free, reduced price and paid reimbursable lunches to all eligible children. Any school food authority that employs a food service management company in the operation of its nonprofit school food service shall:
 
 (1) Adhere to the procurement standards specified in § 210.21 when contracting with the food service management company;

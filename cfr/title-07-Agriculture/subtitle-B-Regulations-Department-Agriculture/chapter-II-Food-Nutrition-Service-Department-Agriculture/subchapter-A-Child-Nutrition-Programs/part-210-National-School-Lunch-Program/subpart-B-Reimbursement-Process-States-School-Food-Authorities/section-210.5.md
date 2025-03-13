@@ -1,5 +1,7 @@
 ##### § 210.5 Payment process to States. #####
 
+Link to an amendment published at 88 FR 57844, Aug. 23, 2023.
+
 (a) *Grant award.* FNS will specify the terms and conditions of the State agency's grant in a grant award document and will generally make payments available by means of a Letter of Credit issued in favor of the State agency. The State agency shall obtain funds for reimbursement to participating school food authorities through procedures established by FNS in accordance with 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415. State agencies shall limit requests for funds to such times and amounts as will permit prompt payment of claims or authorized advances. The State agency shall disburse funds received from such requests without delay for the purpose for which drawn. FNS may, at its option, reimburse a State agency by Treasury Check. FNS will pay by Treasury Check with funds available in settlement of a valid claim if payment for that claim cannot be made within the grant closeout period specified in paragraph (d) of this section.
 
 (b) *Cash-in-lieu of donated foods.* All Federal funds to be paid to any State in place of donated foods will be made available as provided in part 240 of this chapter.

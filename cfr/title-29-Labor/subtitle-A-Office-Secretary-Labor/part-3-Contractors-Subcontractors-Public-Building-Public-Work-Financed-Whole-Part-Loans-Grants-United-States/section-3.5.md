@@ -1,5 +1,7 @@
 ##### § 3.5 Payroll deductions permissible without application to or approval of the Secretary of Labor. #####
 
+Link to an amendment published at 88 FR 57730, Aug. 23, 2023.
+
 Deductions made under the circumstances or in the situations described in the paragraphs of this section may be made without application to and approval of the Secretary of Labor:
 
 (a) Any deduction made in compliance with the requirements of Federal, State, or local law, such as Federal or State withholding income taxes and Federal social security taxes.

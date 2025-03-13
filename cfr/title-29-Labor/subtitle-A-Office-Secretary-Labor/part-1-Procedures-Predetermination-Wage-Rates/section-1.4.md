@@ -1,3 +1,5 @@
 ##### § 1.4 Outline of agency construction programs. #####
 
+Link to an amendment published at 88 FR 57724, Aug. 23, 2023.
+
 To the extent practicable, at the beginning of each fiscal year each agency using wage determinations under any of the various statutes listed in appendix A will furnish the Administrator with a general outline of its proposed construction programs for the coming year indicating the estimated number of projects for which wage determinations will be required, the anticipated types of construction, and the locations of construction. During the fiscal year, each agency will notify the Administrator of any significant changes in its proposed construction programs, as outlined at the beginning of the fiscal year. This report has been cleared in accordance with FPMR 101-11.11 and assigned interagency report control number 1671-DOL-AN.

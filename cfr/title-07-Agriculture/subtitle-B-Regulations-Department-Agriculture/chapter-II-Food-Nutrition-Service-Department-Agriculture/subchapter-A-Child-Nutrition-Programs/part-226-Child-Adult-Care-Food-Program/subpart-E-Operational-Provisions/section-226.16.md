@@ -1,5 +1,7 @@
 ##### § 226.16 Sponsoring organization provisions. #####
 
+Link to an amendment published at 88 FR 57856, Aug. 23, 2023.
+
 (a) Each sponsoring organization shall comply with all provisions of § 226.15.
 
 (b) Each sponsoring organization must submit to the State agency with its application all information required for its approval, and the approval of the facilities under its jurisdiction, as set forth in §§ 226.6(b) and 226.6(f). The application must demonstrate that the institution has the administrative and financial capability to operate the Program in accordance with the Program regulations. In addition to the information required in §§ 226.6(b) and 226.6(f), the application must include:

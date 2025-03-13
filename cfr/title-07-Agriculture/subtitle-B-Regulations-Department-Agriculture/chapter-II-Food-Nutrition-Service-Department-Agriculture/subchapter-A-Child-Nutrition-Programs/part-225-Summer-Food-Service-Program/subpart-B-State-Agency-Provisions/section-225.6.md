@@ -1,5 +1,7 @@
 ##### § 225.6 State agency responsibilities. #####
 
+Link to an amendment published at 88 FR 57849, Aug. 23, 2023.
+
 (a) *General responsibilities.* (1) The State agency shall provide sufficient qualified consultative, technical, and managerial personnel to administer the Program, monitor performance, and measure progress in achieving Program goals. The State agency shall assign Program responsibilities to personnel to ensure that all applicable requirements under this part are met.
 
 (2) By February 1 of each fiscal year, each State agency shall announce the purpose, eligibility criteria, and availability of the Program throughout the State, through appropriate means of communication. As part of this effort, each State agency shall identify rural areas, Indian tribal territories, and areas with a concentration of migrant farm workers which qualify for the Program and actively seek eligible applicant sponsors to serve such areas. State agencies shall identify priority outreach areas in accordance with FNS guidance and target outreach efforts in these areas. State agencies must have established criteria for approving closed enrolled sites to ensure that operation of a site as closed enrolled does not limit Program access in the area that the site is located.

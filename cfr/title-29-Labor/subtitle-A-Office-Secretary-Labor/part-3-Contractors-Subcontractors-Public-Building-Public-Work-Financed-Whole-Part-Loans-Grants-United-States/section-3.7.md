@@ -1,5 +1,7 @@
 ##### § 3.7 Applications for the approval of the Secretary of Labor. #####
 
+Link to an amendment published at 88 FR 57731, Aug. 23, 2023.
+
 Any application for the making of payroll deductions under § 3.6 shall comply with the requirements prescribed in the following paragraphs of this section:
 
 (a) The application shall be in writing and shall be addressed to the Secretary of Labor.

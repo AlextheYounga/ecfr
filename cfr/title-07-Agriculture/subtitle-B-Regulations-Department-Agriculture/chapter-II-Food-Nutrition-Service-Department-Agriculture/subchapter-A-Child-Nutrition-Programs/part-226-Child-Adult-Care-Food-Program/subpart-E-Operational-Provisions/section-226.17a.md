@@ -1,5 +1,7 @@
 ##### § 226.17a At-risk afterschool care center provisions. #####
 
+Link to an amendment published at 88 FR 57856, Aug. 23, 2023.
+
 (a) *Organizations eligible to receive reimbursement for at-risk afterschool snacks and at-risk afterschool meals*—(1) *Eligible organizations.* To receive reimbursement for at-risk afterschool snacks, organizations must meet the criteria in paragraphs (a)(1)(i) through (a)(1)(iv) of this section. To receive reimbursement for at-risk afterschool meals, organizations must meet the criteria in paragraphs (a)(1)(i) through (a)(1)(v) of this section.
 
 (i) Organizations must meet the definition of an *At-risk afterschool care center* in § 226.2. An organization may participate in the Program either as an independent center or as a child care facility under the auspices of a sponsoring organization. Public and private nonprofit centers may not participate under the auspices of a for-profit sponsoring organization.

@@ -1,5 +1,7 @@
 ##### § 1.2 Definitions.1 #####
 
+Link to an amendment published at 88 FR 57723, Aug. 23, 2023.
+
 1 These definitions are not intended to restrict the meaning of the terms as used in the applicable statutes.
 
 (a)(1) The *prevailing wage* shall be the wage paid to the majority (more than 50 percent) of the laborers or mechanics in the classification on similar projects in the area during the period in question. If the same wage is not paid to a majority of those employed in the classification, the *prevailing wage* shall be the average of the wages paid, weighted by the total employed in the classification.

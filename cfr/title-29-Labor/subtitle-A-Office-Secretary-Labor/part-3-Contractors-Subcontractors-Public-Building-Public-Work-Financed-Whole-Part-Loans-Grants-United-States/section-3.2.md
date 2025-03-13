@@ -1,5 +1,7 @@
 ##### § 3.2 Definitions. #####
 
+Link to an amendment published at 88 FR 57729, Aug. 23, 2023.
+
 As used in the regulations in this part:
 
 (a) The terms *building* or *work* generally include construction activity as distinguished from manufacturing, furnishing of materials, or servicing and maintenance work. The terms include, without limitation, buildings, structures, and improvements of all types, such as bridges, dams, plants, highways, parkways, streets, subways, tunnels, sewers, mains, powerlines, pumping stations, railways, airports, terminals, docks, piers, wharves, ways, lighthouses, buoys, jetties, breakwaters, levees, and canals; dredging, shoring, scaffolding, drilling, blasting, excavating, clearing, and landscaping. Unless conducted in connection with and at the site of such a building or work as is described in the foregoing sentence, the manufacture or furnishing of materials, articles, supplies, or equipment (whether or not a Federal or State agency acquires title to such materials, articles, supplies, or equipment during the course of the manufacture or furnishing, or owns the materials from which they are manufactured or furnished) is not a *building* or *work* within the meaning of the regulations in this part.

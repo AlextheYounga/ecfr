@@ -1,5 +1,7 @@
 ##### § 5.28 Unfunded plans. #####
 
+Link to an amendment published at 88 FR 57744, Aug. 23, 2023.
+
 (a) The costs to a contractor or subcontractor which may be reasonably anticipated in providing benefits of the types described in the act pursuant to an enforceable commitment to carry out a financially responsible plan or program, are considered fringe benefits within the meaning of the act (see 1(b)(2)(B) of the act). The legislative history suggests that these provisions were intended to permit the consideration of fringe benefits meeting, among others, these requirements and which are provided from the general assets of a contractor or subcontractor. (Report of the House Committee on Education and Labor, H. Rep. No. 308, 88th Cong., 1st Sess., p. 4.)
 
 (b) No type of fringe benefit is eligible for consideration as a so-called unfunded plan unless:

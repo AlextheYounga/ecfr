@@ -1,7 +1,5 @@
 ##### § 15.31 Measurement standards. #####
 
-Link to an amendment published at 88 FR 47394, July 24, 2023.
-
 (a) The following measurement procedures are used by the Commission to determine compliance with the technical requirements in this part. Except where noted, copies of these procedures are available from the Commission's current duplicating contractor whose name and address are available from the Commission's Consumer and Governmental Affairs Bureau at 1-888-CALL-FCC (1-888-225-5322).
 
 (1) FCC/OET MP-2: Measurement of UHF Noise Figures of TV Receivers.
@@ -18,7 +16,7 @@ Digital devices tested to show compliance with the provisions of § 15.109(g)(2)
 
 (b) All parties making compliance measurements on equipment subject to the requirements of this part are urged to use these measurement procedures. Any party using other procedures should ensure that such other procedures can be relied on to produce measurement results compatible with the FCC measurement procedures. The description of the measurement procedure used in testing the equipment for compliance and a list of the test equipment actually employed shall be made part of an application for certification or included with the data required to be retained by the party responsible for devices authorized pursuant to Supplier's Declaration of Conformity.
 
-(c) Except as otherwise indicated in § 15.256, for swept frequency equipment, measurements shall be made with the frequency sweep stopped at those frequencies chosen for the measurements to be reported.
+(c) Except as otherwise indicated in §§ 15.255 and 15.256, for swept frequency equipment, measurements shall be made with the frequency sweep stopped at those frequencies chosen for the measurements to be reported.
 
 (d) Field strength measurements shall be made, to the extent possible, on an open area test site. Test sites other than open area test sites may be employed if they are properly calibrated so that the measurement results correspond to what would be obtained from an open area test site. In the case of equipment for which measurements can be performed only at the installation site, such as perimeter protection systems, carrier current systems, and systems employing a “leaky” coaxial cable as an antenna, measurements for Supplier's Declaration of Conformity or for obtaining a grant of equipment authorization shall be performed at a minimum of three installations that can be demonstrated to be representative of typical installation sites.
 
@@ -70,4 +68,4 @@ Digital devices tested to show compliance with the provisions of § 15.109(g)(2)
 
 (2) Except as provided in paragraph (q)(1) of this section, an LPR device shall be placed in testing positions that ensure the field strength values of the radiated emissions are maximized, including in the main beam of the LPR antenna.
 
-[54 FR 17714, Apr. 25, 1989, as amended at 56 FR 13083, Mar. 29, 1991; 57 FR 24990, June 12, 1992; 57 FR 33448, July 29, 1992; 58 FR 37430, July 12, 1993; 58 FR 51249, Oct. 1, 1993; 61 FR 14502, Apr. 2, 1996; 62 FR 41881, Aug. 4, 1997; 62 FR 45333, Aug. 27, 1997; 63 FR 36602, July 7, 1998; 63 FR 42278, Aug. 7, 1998; 65 FR 58466, Sept. 29, 2000; 68 FR 68545, Dec. 9, 2003; 69 FR 54034, Sept. 7, 2004; 70 FR 1373, Jan. 7, 2005; 76 FR 71908, Nov. 21, 2011; 77 FR 4913, Feb. 1, 2012; 77 FR 43013, July 23, 2012; 79 FR 12677, Mar. 6, 2014; 80 FR 2838, Jan. 21, 2015; 80 FR 33447, June 12, 2015; 82 FR 50831, Nov. 2, 2017]
+[54 FR 17714, Apr. 25, 1989, as amended at 56 FR 13083, Mar. 29, 1991; 57 FR 24990, June 12, 1992; 57 FR 33448, July 29, 1992; 58 FR 37430, July 12, 1993; 58 FR 51249, Oct. 1, 1993; 61 FR 14502, Apr. 2, 1996; 62 FR 41881, Aug. 4, 1997; 62 FR 45333, Aug. 27, 1997; 63 FR 36602, July 7, 1998; 63 FR 42278, Aug. 7, 1998; 65 FR 58466, Sept. 29, 2000; 68 FR 68545, Dec. 9, 2003; 69 FR 54034, Sept. 7, 2004; 70 FR 1373, Jan. 7, 2005; 76 FR 71908, Nov. 21, 2011; 77 FR 4913, Feb. 1, 2012; 77 FR 43013, July 23, 2012; 79 FR 12677, Mar. 6, 2014; 80 FR 2838, Jan. 21, 2015; 80 FR 33447, June 12, 2015; 82 FR 50831, Nov. 2, 2017; 88 FR 47394, July 24, 2023]

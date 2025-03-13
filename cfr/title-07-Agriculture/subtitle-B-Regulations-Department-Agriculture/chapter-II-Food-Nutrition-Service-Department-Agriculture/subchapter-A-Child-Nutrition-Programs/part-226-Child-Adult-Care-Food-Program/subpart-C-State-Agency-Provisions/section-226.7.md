@@ -1,5 +1,7 @@
 ##### § 226.7 State agency responsibilities for financial management. #####
 
+Link to an amendment published at 88 FR 57854, Aug. 23, 2023.
+
 (a) This section prescribes standards of financial management systems in administering Program funds by the State agency and institutions.
 
 (b) Each State agency shall maintain an acceptable financial management system, adhere to financial management standards and otherwise carry out financial management policies in accordance with 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415, as applicable. State agencies or FNSRO's, where applicable, shall also have a system in place for monitoring and reviewing the institutions' documentation of their nonprofit status to ensure that all Program reimbursement funds are used: (1) Solely for the conduct of the food service operation; or (2) to improve such food service operations, principally for the benefit of the participants.

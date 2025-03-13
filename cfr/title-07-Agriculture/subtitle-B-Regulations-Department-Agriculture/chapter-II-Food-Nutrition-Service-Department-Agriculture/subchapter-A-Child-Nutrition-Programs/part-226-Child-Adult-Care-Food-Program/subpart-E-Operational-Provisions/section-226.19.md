@@ -1,5 +1,7 @@
 ##### § 226.19 Outside-school-hours care center provisions. #####
 
+Link to an amendment published at 88 FR 57857, Aug. 23, 2023.
+
 (a) Outside-school-hours care centers may participate in the Program either as independent centers or under the auspices of a sponsoring organization; *Provided, however,* That public and private nonprofit centers shall not be eligible to participate in the Program under the auspices of a for-profit sponsoring organization. Outside-school-hours care centers participating as independent centers shall comply with the provisions of § 226.15.
 
 (b) All outside-school-hours care centers, independent or sponsored, shall meet the following requirements:

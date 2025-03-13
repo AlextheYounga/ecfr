@@ -1,5 +1,7 @@
 ##### § 226.10 Program payment procedures. #####
 
+Link to an amendment published at 88 FR 57855, Aug. 23, 2023.
+
 (a) If a State agency elects to issue advance payments to all or some of the participating institutions in the State, it must provide such advances no later than the first day of each month to those eligible institutions electing to receive advances in accordance with § 226.6 (f)(3)(iv)(F). Advance payments shall equal the full level of claims estimated by the State agency to be submitted in accordance with paragraph (c) of this section, considering prior reimbursement claims and other information such as fluctuations in enrollment. The institution may decline to receive all or any part of the advance.
 
 (b) For each fiscal year, the amount of payment made, including funds advanced to an institution, shall not exceed the amount of valid reimbursement claimed by that institution. To ensure that institutions do not receive excessive advance payments, the State agency shall observe the following procedures:

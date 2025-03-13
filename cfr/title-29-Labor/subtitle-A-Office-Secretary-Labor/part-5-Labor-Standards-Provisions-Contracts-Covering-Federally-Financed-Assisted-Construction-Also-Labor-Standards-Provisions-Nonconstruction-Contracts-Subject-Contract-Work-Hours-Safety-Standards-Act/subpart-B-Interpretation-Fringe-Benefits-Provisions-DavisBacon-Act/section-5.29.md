@@ -1,5 +1,7 @@
 ##### § 5.29 Specific fringe benefits. #####
 
+Link to an amendment published at 88 FR 57745, Aug. 23, 2023.
+
 (a) The act lists all types of fringe benefits which the Congress considered to be common in the construction industry as a whole. These include the following: Medical or hospital care, pensions on retirement or death, compensation for injuries or illness resulting from occupational activity, or insurance to provide any of the foregoing, unemployment benefits, life insurance, disability and sickness insurance, or accident insurance, vacation and holiday pay, defrayment of costs of apprenticeship or other similar programs, or other bona fide fringe benefits, but only where the contractor or subcontractor is not required by other Federal, State, or local law to provide any of such benefits.
 
 (b) The legislative history indicates that it was not the intent of the Congress to impose specific standards relating to administration of fringe benefits. It was assumed that the majority of fringe benefits arrangements of this nature will be those which are administered in accordance with requirements of section 302(c)(5) of the National Labor Relations Act, as amended (S. Rep. No. 963, p. 5).

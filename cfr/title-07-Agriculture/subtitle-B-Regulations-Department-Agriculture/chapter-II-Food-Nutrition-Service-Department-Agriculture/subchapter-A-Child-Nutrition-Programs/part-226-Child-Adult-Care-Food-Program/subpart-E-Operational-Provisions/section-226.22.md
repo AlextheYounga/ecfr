@@ -1,5 +1,7 @@
 ##### § 226.22 Procurement standards. #####
 
+Link to an amendment published at 88 FR 57857, Aug. 23, 2023.
+
 (a) This section establishes standards and guidelines for the procurement of foods, supplies, equipment, and other goods and services. These standards are furnished to ensure that such materials and services are obtained efficiently and economically and in compliance with the provisions of applicable Federal law and Executive orders.
 
 (b) These standards shall not relieve the institution of any contractual responsibilities under its contracts. The institution is responsible, in accordance with good administrative practice and sound business judgment, for the settlement of all contractual and administrative issues arising out of procurements entered into in support of the Program. These include, but are not limited to: source evaluation, protests of award, disputes, and claims. Violations of the law shall be referred to the local, State, or Federal authority having proper jurisdiction.
