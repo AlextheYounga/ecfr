@@ -1,39 +1,37 @@
 ##### § 130.630 Dispute resolution procedures. #####
 
-Link to an amendment published at 88 FR 76648, Nov. 7, 2023.
+(a) *Financial disputes.* (1) A recipient organization wishing to resolve a financial dispute must submit a written statement to the appropriate Grants Management Officer with copies to the Project Officer describing the subject of the dispute, along with any relevant documentation. The Grants Management Officer will respond in writing to the recipient organization within 30 calendar days of receipt of the descriptive statement.
 
-(a) *Financial Disputes.* (1) A recipient organization wishing to resolve a financial Dispute formally must submit a written statement describing the subject of the Dispute, together with any relevant documents or other evidence bearing on the Dispute, to the Grants Management Specialist, with copies to the Project Officer. The Grants Management Specialist shall respond in writing to the recipient organization within 30 calendar days of receipt of the descriptive statement.
+(2) If the recipient organization receives an unfavorable decision from the SBA, it may file an appeal with the AA/SBDC within 30 calendar days of the date of receipt of the unfavorable decision.
 
-(2) If the recipient organization receives an unfavorable decision from the Grants Management Specialist, it may file an appeal with the AA/SBDCs within 30 calendar days of issuance of the unfavorable decision. The AA/SBDCs shall respond in writing to the recipient organization within 15 calendar days of receipt of the appeal.
+(3) The AA/SBDC may request additional information or documentation from the recipient organization at any stage of the proceedings. The response to the request for additional information must be provided in writing to the AA/SBDC within 15 calendar days of receipt of the request. The AA/SBDC will transmit a written decision to the recipient organization within 15 calendar days of receipt of the appeal or within 15 calendar days of receipt of additional information requested.
 
-(3) If the recipient organization receives an unfavorable decision from the AA/SBDCs, it may make a final appeal to the SBA Grants and Cooperative Agreements Appeals Committee (the “Committee”) within 30 calendar days of the date of issuance of the AA/SBDCs' written decision. Copies of the appeal shall also be sent to the Grants Management Specialist and the Project Officer.
+(4) If the recipient organization receives an unfavorable decision from the AA/SBDC, it may make a final appeal to the SBA Grants and cooperative agreements Appeals Committee (the “Committee”). The final appeal to the Committee must be filed within 30 calendar days of the date of receipt of the AA/SBDC's written decision. Copies of the appeal must also be sent to the Grants Management Specialist and the Program Manager. If the recipient organization elects not to file an appeal with the Committee, the decision of the AA/SBDC becomes the final Agency decision on the matter.
 
-(4) Appeals must be in writing. Formal briefs and other technical forms of pleading are not required. Requests for a hearing will not be granted unless there are material facts substantially in dispute. Appeals must contain at least the following:
+(5) A recipient organization may request a hearing before the Committee, but such requests will not be granted, unless material facts are substantially in dispute. Legal briefs and other technical forms of pleading are not required. However, appeals to the Committee must be in writing and contain at least the following information and supporting documentation:
 
 (i) Name and address of the recipient organization;
 
-(ii) The SBA field office;
+(ii) Name and address of the appropriate SBA District Office(s);
 
-(iii) The Cooperative Agreement;
+(iii) A copy of the underlying cooperative agreement, including all amendments;
 
 (iv) A statement of the grounds for appeal, with reasons why the appeal should be sustained;
 
-(v) The specific relief desired on appeal; and
+(v) A statement of the specific relief desired on appeal; and
 
-(vi) If a hearing is requested, a statement of the material facts which are substantially in dispute.
+(vi) If a hearing is requested, a statement of the material facts the recipient organization believes are substantially in dispute. In the event a recipient organization fails to provide any of the information specified in paragraphs (a)(5)(i) through (v) of this section, the Committee may dismiss the appeal.
 
-(5) The AA/SBDCs or the Committee may request from the SBDC or the District Office additional information or documentation at any stage in the proceedings.
+(6) The Committee may request additional information or documentation from the recipient organization at any stage in the proceedings. The recipient organization's response to the Committee must be submitted, in writing, within 15 calendar days of receipt of the request.
 
-(6) If a request for a hearing is granted, the Committee will provide the recipient organization with written instructions, and will afford the parties an opportunity to present their positions to the Committee.
+(7) If a request for a hearing is granted, the Committee will provide the recipient organization with written instructions and will afford the parties the opportunity to present their respective positions to the Committee.
 
-(7) The Committee will reach a decision on the merits of the appeal within 30 days of the hearing date.
+(8) The Chairperson of the Committee, with the advice of the SBA's Office of General Counsel (OGC), will issue a final written decision within 30 calendar days of receipt of all information or within 30 calendar days of the completion of the hearing. Copies of the decision will be provided to the recipient organization, the AA/SBDC, the Grants Management Specialist, and the SBA Project Officer.
 
-(8) The Chairperson, with advice from the Office of General Counsel, shall prepare and transmit a written final decision to the recipient organization with copies to the Grants Management Specialist and the Project Officer.
+(9) Where a recipient organization's appeal to the Committee commences or is pending within 120 days of the end of the current budget period, the recipient organization has the right to request, in writing, that the matter be handled under an expedited appeal process. In such circumstances, the Committee, by an affirmative vote of its membership, may expedite the appeals process to attain final resolution of a dispute before the anticipated issuance date of a new cooperative agreement.
 
-(9) *Expedited Dispute appeal process.* By an affirmative vote constituting a majority of its total membership, the Committee may shorten response times to attain final resolution of a Dispute before the issuance date of a new Cooperative Agreement. At any time within 120 days of the end of the budget period, the recipient organization may submit a written request to use an expedited process. If a Dispute affects refunding, the Committee must meet to consider the matter prior to the end of the budget period, provided that the recipient organization has supplied the Committee with all requested documentation.
+(b) *Programmatic (non-financial) disputes.* (1) The SBDC Lead Center and the SBA District Office must make every effort to resolve any disputes that arise between the SBDC network and SBA involving non-financial, programmatic issues. If the recipient organization is not satisfied with the resolution, it may, by written request to the AA/SBDC, seek reconsideration of the programmatic dispute within 30 calendar days. When a recipient organization requests reconsideration of a programmatic dispute, the appropriate Program Manager will forward a written summary of the dispute, including comments from the SBDC Lead Center Director, the SBA District Office, and all other pertinent background information to the AA/SBDC within 15 calendar days of SBA's receipt of the request.
 
-(b) *Programmatic (non-financial) Disputes.* (1) If a programmatic Dispute is not resolved at the SBA District Office level, the recipient organization may request its submission to the next SBA administrative level having authority to review such matter. The Project Officer shall refer the Dispute in writing, including comments of the SBDC Director, within 15 calendar days of receipt of the request.
+(2) The AA/SBDC will transmit a final, written decision to the recipient organization, the Lead Center Director, the SBA Project Officer, and the SBA District Office within 30 calendar days of the receipt of such documentation, unless the recipient organization agrees to an extension of time.
 
-(2) If the programmatic Dispute is not resolved at an intermediate SBA administrative level within 15 calendar days of receipt thereof, it shall be forwarded, in writing, to the AA/SBDCs for final resolution. All comments of the SBDC Director must be included in any package forwarded to the AA/SBDCs.
-
-(3) The AA/SBDCs shall transmit a final, written decision to the recipient organization, the SBDC Director, the SBA Project Officer and other appropriate SBA field office personnel within 30 calendar days of receipt of such documentation, unless an extension of time is mutually agreed upon by the recipient organization and the AA/SBDCs.
+[88 FR 76648, Nov. 7, 2023]

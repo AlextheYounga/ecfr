@@ -1,5 +1,7 @@
 ##### § 490.109 Assessing significant progress toward achieving the performance targets for the National Highway Performance Program and the National Highway Freight Program. #####
 
+Link to an amendment published at 88 FR 85392, Dec. 7, 2023.
+
 (a) *In general.* The FHWA will assess each of the State DOT targets separately for the NHPP measures specified in § 490.105(c)(1) through (5) and the Freight Reliability measure specified in § 490.105(c)(6) to determine the significant progress made toward the achievement of those targets.
 
 (b) *Frequency.* The FHWA will determine whether a State DOT has or has not made significant progress toward the achievement of applicable targets as described in paragraph (e) of this section at the midpoint and the end of each performance period.

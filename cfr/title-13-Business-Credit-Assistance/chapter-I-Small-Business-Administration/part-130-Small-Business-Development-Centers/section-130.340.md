@@ -1,17 +1,17 @@
-##### § 130.340 SBDC services and restrictions on service. #####
+##### § 130.340 Specific program responsibilities. #####
 
-Link to an amendment published at 88 FR 76642, Nov. 7, 2023.Link to an amendment published at 88 FR 76643, Nov. 7, 2023.
+(a) *Policy development.* The AA/SBDC will establish program policies and procedures to improve the delivery of services by SBDCs to the small business community, and to enhance compliance with applicable laws, regulations, OMB guidelines, and Executive orders. The AA/SBDC will, to the extent practicable, consult with the recognized association.
 
-(a) *Services.* The SBDC network must provide prospective and existing small business persons and entities with Counseling, Training and Specialized Services, concerning the formation, financing, management and operation of small business enterprises, reflecting local needs. The recipient organization shall primarily utilize institutions of higher education to provide services to the small business community. To the extent possible, SBDCs shall use other Federal, State, and local government programs that assist small business. Services periodically should be assessed and improved to keep pace with changing small business needs.
+(b) *Program administration.* The AA/SBDC or designee will recommend the annual program budget, establish appropriate funding levels in compliance with the statute, and review the annual budgets submitted by each applicant. The AA/SBDC will also select applicants to participate in the Program, to maintain a clearinghouse to provide for the dissemination and exchange of information between SBDCs, and to conduct audits of recipients of SBDC grants.
 
-(b) *Access to Capital.* (1) SBDCs are encouraged to provide counseling services that increase a small business concern's access to capital, such as business plan development, financial statement preparation and analysis, and cash flow preparation and analysis.
+(c) *Responsibilities of SBDC Lead Center Directors.* (1) The SBDC Lead Center Director must be an individual dedicating not less than 75 percent of their time to the supervision and control of the SBDC on behalf of the recipient organization. The position may not be held by a company or contractor.
 
-(2) SBDCs should help prepare their clients to represent themselves to lending institutions. While SBDCs may attend meetings with lenders to assist clients in preparing financial packages, the SBDCs may not take a direct role in representing clients in loan negotiations.
+(2) The SBDC Lead Center Director position must have direct reporting authority, at a minimum, equivalent to that of a college dean in a university setting or the third level of management or administration within a state agency.
 
-(3) SBDCs should inform their clients that financial packaging assistance does not guarantee receipt of a loan.
+(3) The Lead Center Director will direct and monitor program activities and financial affairs of the SBDC network to ensure effective delivery of services to the small business community, and compliance with applicable laws, regulations, 2 CFR part 200, and the terms and conditions of the cooperative agreement.
 
-(4) SBDCs may not make loans, service loans or make credit decisions regarding the award of loans.
+(4) The SBDC Lead Center Director must have the authority necessary to control all personnel, budgets, and expenditures under the cooperative agreement.
 
-(5) With respect to SBA guaranty programs, SBDCs may assist clients to formulate a business plan, prepare financial statements, complete forms which are part of a loan application, and accompany an applicant appearing before SBA. Unless authorized by the SBA Administrator with respect to a specific program, an SBDC may not advocate, recommend approval or otherwise attempt in any manner to influence SBA to provide financial assistance to any of its clients. An SBDC cannot collect fees for helping a client to prepare an application for SBA financial assistance.
+(5) The SBDC Lead Center Director will serve as the SBA's principal contact for all matters involving the SBDC network including, but not limited to, ensuring that state and local needs are addressed; financial and programmatic reporting are submitted; service centers are providing access to training; employees have experience necessary to conduct meaningful counseling; etc.
 
-(c) *Special emphasis initiatives.* From time to time, SBA may identify portions of the general population to be targeted for assistance by SBDCs. Support of SBA special emphasis initiatives will be negotiated each year as part of the application process and included in the Cooperative Agreement when appropriate.
+[88 FR 76643, Nov. 7, 2023]

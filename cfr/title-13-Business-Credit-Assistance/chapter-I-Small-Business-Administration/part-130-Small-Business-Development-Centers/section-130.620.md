@@ -1,23 +1,17 @@
-##### § 130.620 Revisions and amendments to cooperative agreement. #####
+##### § 130.620 Revisions and amendments to cooperative agreements. #####
 
-Link to an amendment published at 88 FR 76647, Nov. 7, 2023.
+(a) *Requests for revisions.* The cooperative agreement may not be unilaterally amended, modified, or revised by the recipient organization. Rather, a recipient organization must submit a written request to AA/SBDC along with a copy to the appropriate District Office when it wants to make one or more revisions to the cooperative agreement. Written approval from the AA/SBDC is required prior to the implementation of a proposed revision. Revisions that require amendment of the cooperative agreement include:
 
-(a) *Requests for revisions.* The recipient organization may request at any time one or more revisions to the Cooperative Agreement on an appropriate SBA form signed by the recipient organization's authorized representative (including a revised budget and budget narrative, if applicable). Revisions will normally relate to changes in scope, work or funding during the specified budget year.
+(1) Any change in project scope or objectives that will substantially change outcomes described in the cooperative agreement;
 
-(b) *Revisions which require amendment to Cooperative Agreement.* The Cooperative Agreement shall list the revisions which require Project Officer concurrence, review by the Program Manager and the Grants Management Specialist, approval of the AA/SBDCs and amendment of the Cooperative Agreement. No application for an amendment shall be effective until it is approved and incorporated into the Cooperative Agreement. Revisions which require amendments shall include:
+(2) Budget revisions exceeding the limit established in the cooperative agreement; and
 
-(1) Any change in project scope or objectives;
+(3) Any proposed sole-source or one-bid contracts exceeding the limits established by applicable administrative regulations or OMB.
 
-(2) The addition or deletion of any subgrants or contracts;
+(b) *Emergency authorizations.* (1) In consultation with the Recognized Organization, the AA/SBDC may amend one or more cooperative agreements to authorize unanticipated out-of-state travel by SBDC personnel responding to a need for services in a presidentially or SBA Administrator declared major disaster area. Notification of this type of authorization will be accomplished through the publication of an SBA Notice in the Federal Register.
 
-(3) The addition of any new budget line items;
+(2) Proposed and actual travel costs incurred under an emergency authorization must comply with the requirements of § 130.460(h), as well as the relevant notice of funding opportunity and OMB guidelines.
 
-(4) Budget revisions and fund reallocations exceeding the limit established by applicable administrative regulations or OMB Circulars, either individually or in the aggregate (*see* paragraphs (c)(1) and (c)(2) of this section);
+(c) *Supplemental funding.* If supplemental funds are available for distribution, SBA will publish a notice of funding opportunity in consultation with the Recognized Organization.
 
-(5) Any proposed sole-source or one-bid contracts exceeding the limits established by applicable regulations or OMB Circulars; and
-
-(6) The carryover from one budget period to the next budget period of unobligated, unexpended SBA funds allocable under the Cooperative Agreement to nonrecurring, nonseverable bona fide needs of the SBDC network as provided in applicable OMB Circulars and the annual Program Announcement.
-
-(c) *Revisions which do not require amendments to the Cooperative Agreement*—(1) *Budget revisions.* Any budget revision, except those which are covered by paragraph (b)(4) of this section. Budget revisions require approval of the SBA Project Officer and the AA/SBDCs as prescribed by applicable OMB Circulars or 13 CFR 143.30.
-
-(2) *Reallocation of funds.* Reallocation of funds must be conducted in accordance with applicable OMB Circulars or 13 CFR 143.30. Additional guidance on this matter may be included in the annual Program Announcement.
+[88 FR 76647, Nov. 7, 2023]

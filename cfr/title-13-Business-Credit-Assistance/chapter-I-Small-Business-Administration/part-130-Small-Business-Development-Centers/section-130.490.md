@@ -1,3 +1,5 @@
-##### § 130.490 xxx #####
+##### § 130.490 Property standard. #####
 
-Link to an amendment published at 88 FR 76647, Nov. 7, 2023.
+See 2 CFR part 200, subpart D.
+
+[88 FR 76647, Nov. 7, 2023]

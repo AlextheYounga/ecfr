@@ -1,19 +1,17 @@
-##### § 130.360 SBDC advisory boards. #####
+##### § 130.360 Selection of the SBDC Lead Center Director. #####
 
-Link to an amendment published at 88 FR 76642, Nov. 7, 2023.Link to an amendment published at 88 FR 76643, Nov. 7, 2023.Link to an amendment published at 88 FR 76644, Nov. 7, 2023.
+(a) *Selection.* Selection of an SBDC Lead Center Director must be accomplished in accordance with the guidelines set forth in the notice of funding opportunity and cooperative agreement.
 
-(a) *State/Regional Advisory Boards.* (1) The Lead Center must establish an advisory board to advise, counsel, and confer with the SBDC Director on matters pertaining to the operation of the SBDC network.
+(b) *Vacancy.* (1) The recipient organization must notify the appropriate SBA District Director (DD), Regional Administrator, and AA/SBDC within ten business days of either:
 
-(2) The advisory board shall be referred to as a State SBDC Advisory Board in an Area of Service having only one recipient organization, and a Regional SBDC Advisory Board in an Area of Service having more than one recipient organization.
+(i) Being notified by the incumbent SBDC Lead Center Director of their intent to vacate the position; or
 
-(3) These advisory boards must include small business owners and other representatives from the entire Area of Service.
+(ii) Its formal decision to remove the incumbent SBDC Lead Center Director.
 
-(4) New Lead Centers must establish a State or Regional SBDC Advisory Board no later than the second budget period.
+(2) If the position will be vacated prior to the selection of a replacement, the recipient organization must appoint an interim SBDC Lead Center Director, prior to the vacancy, who will serve in that capacity until a permanent SBDC Lead Center Director is in position.
 
-(5) A State or Regional SBDC Advisory Board member may also be a member of the National SBDC Advisory Board.
+(3) The recipient organization must inform the SBA District Director, Regional Administrator, and the AA/SBDC within ten business days of the appointment of the interim SBDC Lead Center Director and provide that individual's contact information.
 
-(6) The reasonable cost of travel of any Board member for official Board activities may be paid out of the SBDC's budgeted funds.
+(4) An interim Lead Center Director must allocate at least 75 percent of their time and effort to the SBDC Program until a permanent SBDC Lead Center Director is in position. This must be documented in accordance with the policies of the recipient organization. An interim SBDC Lead Center Director must be knowledgeable about sponsored programs. The appointment period for such interim SBDC Lead Center Director will not exceed 120 days. Should more time be needed the recipient organization must obtain prior approval from the AA/SBDC for an extension.
 
-(b) *National SBDC Advisory Board.* (1) SBA shall establish a National SBDC Advisory Board consisting of nine members who are not Federal employees, appointed by the SBA Administrator. The Board shall elect a Chair. Three members of the Board shall be from universities or their affiliates and six shall be from small businesses or associations representing small businesses. Board members shall serve staggered three year terms, with three Board members appointed each year. The SBA Administrator may appoint successors to fill unexpired terms.
-
-(2) The National SBDC Advisory Board shall advise and confer with SBA's AA/SBDCs on policy matters pertaining to the operation of the SBDC program. The Board shall meet with the AA/SBDCs at least semiannually.
+[88 FR 76644, Nov. 7, 2023]

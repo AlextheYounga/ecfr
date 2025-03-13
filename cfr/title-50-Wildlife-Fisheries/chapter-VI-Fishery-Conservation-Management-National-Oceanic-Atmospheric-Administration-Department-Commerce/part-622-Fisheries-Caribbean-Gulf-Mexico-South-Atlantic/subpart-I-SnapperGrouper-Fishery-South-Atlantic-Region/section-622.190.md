@@ -1,6 +1,6 @@
 ##### § 622.190 Quotas. #####
 
-Link to an amendment published at 88 FR 76701, Nov. 7, 2023.Link to an amendment published at 88 FR 83868, Dec. 1, 2023.
+Link to an amendment published at 88 FR 83868, Dec. 1, 2023.
 
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section provides quotas and specific quota closure restrictions for South Atlantic snapper-grouper.
 
@@ -12,11 +12,29 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (iii) Any unused portion of the quota specified in paragraph (a)(1)(i) of this section will be added to the quota specified in paragraph (a)(1)(ii) of this section. Any unused portion of the quota specified in paragraph (a)(1)(ii) of this section, including any addition of quota specified in paragraph (a)(1)(i) of this section that was unused, will become void and will not be added to any subsequent quota.
 
-(2) *Golden tilefish.* (i) *Commercial sector (hook-and-line and longline components combined)*—331,740 lb (150,475 kg).
+(2) *Golden tilefish*—(i) *Commercial sector* (*hook-and-line and longline components combined*). (A) For the 2023 fishing year—420,645 lb (190,801 kg).
 
-(ii) *Hook-and-line component*—82,935 lb (37,619 kg).
+(B) For the 2024 fishing year—433,216 lb (196,503 kg).
 
-(iii) *Longline component*—248,805 lb (112,856 kg).
+(C) For the 2025 fishing year—442,886 lb (200,890 kg).
+
+(D) For the 2026 and subsequent fishing years—450,622 lb (204,399 kg).
+
+(ii) *Hook-and-line component.* (A) For the 2023 fishing year—105,161 lb (47,700 kg).
+
+(B) For the 2024 fishing year—108,304 lb (49,126 kg).
+
+(C) For the 2025 fishing year—110,722 lb (50,223 kg).
+
+(D) For the 2026 and subsequent fishing years—112,656 lb (51,100 kg).
+
+(iii) *Longline component.* (A) For the 2023 fishing year—315,484 lb (143,101 kg).
+
+(B) For the 2024 fishing year—324,912 lb (147,378 kg).
+
+(C) For the 2025 fishing year—332,165 lb (150,668 kg).
+
+(D) For the 2026 and subsequent fishing years—337,967 lb (153,299 kg).
 
 (3) *Greater amberjack*—(i) For the period of March 1 through August 31 each year.
 
@@ -144,4 +162,4 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (2) [Reserved]
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49195, Aug. 13, 2013]; 78 FR 58253, Sept. 23, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 80 FR 48278, Aug. 12, 2015; 81 FR 3738, Jan. 22, 2016; 83 FR 62512, Dec. 4, 2018; 83 FR 14024, Apr. 9, 2019; 85 FR 4594, Jan. 27, 2020; 87 FR 77747, Dec. 20, 2022; 88 FR 65146, Sept. 21, 2023; 88 FR 65822, Sept. 26, 2023]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49195, Aug. 13, 2013]; 78 FR 58253, Sept. 23, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 80 FR 48278, Aug. 12, 2015; 81 FR 3738, Jan. 22, 2016; 83 FR 62512, Dec. 4, 2018; 83 FR 14024, Apr. 9, 2019; 85 FR 4594, Jan. 27, 2020; 87 FR 77747, Dec. 20, 2022; 88 FR 65146, Sept. 21, 2023; 88 FR 65822, Sept. 26, 2023; 88 FR 76701, Nov. 7, 2023]

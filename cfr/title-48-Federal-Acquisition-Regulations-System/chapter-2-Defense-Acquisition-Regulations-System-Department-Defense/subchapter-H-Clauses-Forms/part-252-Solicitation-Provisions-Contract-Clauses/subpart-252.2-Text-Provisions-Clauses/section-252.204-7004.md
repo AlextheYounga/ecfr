@@ -16,6 +16,6 @@ Antiterrorism Awareness Training for Contractors (JAN 2023)
 
 (c) *Additional information.* Information and guidance pertaining to DoD antiterrorism awareness training is available at *https://jko.jten.mil/* or as otherwise identified in the performance work statement.
 
-(d) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (d), in subcontracts, including subcontracts for commercial products and commercial services , when subcontractor performance requires routine physical access to a Federally-controlled facility or military installation.
+(d) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (d), in subcontracts, including subcontracts for commercial products and commercial services, when subcontractor performance requires routine physical access to a Federally-controlled facility or military installation.
 
 (End of clause)[84 FR 4364, Feb. 15, 2019, as amended at 88 FR 6589, Jan. 31, 2023]

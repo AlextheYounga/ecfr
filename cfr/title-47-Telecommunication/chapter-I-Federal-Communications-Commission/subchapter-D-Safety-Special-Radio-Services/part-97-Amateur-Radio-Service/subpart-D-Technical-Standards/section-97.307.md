@@ -1,5 +1,7 @@
 ##### § 97.307 Emission standards. #####
 
+Link to an amendment published at 88 FR 85128, Dec. 7, 2023.
+
 (a) No amateur station transmission shall occupy more bandwidth than necessary for the information rate and emission type being transmitted, in accordance with good amateur practice.
 
 (b) Emissions resulting from modulation must be confined to the band or segment available to the control operator. Emissions outside the necessary bandwidth must not cause splatter or keyclick interference to operations on adjacent frequencies.

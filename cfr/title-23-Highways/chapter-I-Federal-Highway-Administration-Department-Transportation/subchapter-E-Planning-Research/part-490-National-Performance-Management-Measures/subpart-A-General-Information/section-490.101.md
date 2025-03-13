@@ -1,5 +1,7 @@
 ##### § 490.101 Definitions. #####
 
+Link to an amendment published at 88 FR 85390, Dec. 7, 2023.
+
 Unless otherwise specified, the following definitions apply to this part:
 
 *American Community Survey (ACS)* is a national level ongoing survey from the U.S. Census Bureau that includes data on jobs, occupations, educational attainment, transportations patterns, and other topics of the Nation's population.

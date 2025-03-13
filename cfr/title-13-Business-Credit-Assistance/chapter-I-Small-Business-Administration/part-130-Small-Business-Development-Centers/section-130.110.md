@@ -1,65 +1,135 @@
 ##### § 130.110 Definitions. #####
 
-Link to an amendment published at 88 FR 76639, Nov. 7, 2023.
+*Accreditation process.* An evaluation process to assist an SBDC with assessing its processes and outlining areas needing improvement by providing recommendations to strengthen delivery of services and assistance.
 
-*Applicant organization.* An entity, described in § 130.200(a), which applies to establish and operate an SBDC network.
+*Applicant organization.* A qualified eligible entity that applies for Federal financial assistance to establish, administer, and operate an SBDC network under a new or renewed cooperative agreement.
 
-*Application.* The written submission by a new applicant organization or an existing recipient organization explaining its projected SBDC activities for the upcoming budget period and requesting SBA funding for use in its operations.
+*Application.* Also referred to as the proposal or the renewal application, the written submission by a new applicant organization or an existing recipient organization describing its projected SBDC activities for the upcoming budget period and requesting SBA funding for use in its operations.
 
-*Area of Service.* The State or territory, or portion of a State or territory (when there is more than one SBDC in a State or territory), or the District of Columbia, in which an applicant organization proposes to provide services or in which a recipient organization provides services.
+*Area of service.* As designated in the cooperative agreement, the state or region in which an applicant organization proposes to provide services, or in which a recipient organization currently provides services.
+
+*Associate Administrator/Entrepreneurial Development* (*AA/ED*). The individual who is appointed by the SBA Administrator to oversee the Office of Entrepreneurial Development (OED), where the SBDC Program is located.
+
+*Associate Administrator/Small Business Development Centers* (*AA/SBDC*). The individual who is statutorily mandated to administer the SBDC Program.
 
 *Budget period.* The 12-month period in which expenditure obligations are incurred by an SBDC network, coinciding with either the calendar year or the Federal fiscal year.
 
-*Cash Match.* Non-Federal funds allocated specifically to the operation of the SBDC network equalling no less than fifty percent of the Federal funds. Cash Match includes direct costs committed by the applicant or recipient organization and sponsoring SBDC organizations, to the extent that such costs are committed as part of the verified, specific, line item direct costs prior to funding. Cash Match does not include indirect costs, overhead costs or in-kind contributions.
+*Cash match.* Non-Federal funds budgeted and expended by the recipient organization and/or sponsoring SBDC organization for direct costs of the project. Cash match excludes indirect costs, overhead costs, in-kind contributions, and program income. See 2 CFR 200.306.
 
-*Cognizant Agency.* The Federal agency, other than SBA, from which a recipient organization or sponsoring SBDC organization receives its largest grant or greatest amount of Federal funding, and from which it obtains an indirect cost rate for budgetary and funding purposes, applicable throughout the Federal government.
+*Clearinghouse.* A source of market and industry information made available to all SBDC networks to assist clients and supports the exchange of information between SBDCs.
 
-*Cooperative Agreement.* The written contract between SBA and a recipient organization, describing the conditions under which SBA awards Federal funds and recipient organizations provide services to the small business community.
+*Client.* A nascent entrepreneur or existing small business seeking services provided by the SBDC.
+
+*Cognizant agency.* The Federal awarding agency that provides the predominant amount of direct funding to a recipient. See 29 CFR 99.105.
+
+*Cooperative agreement.* A legal instrument of financial assistance between a Federal awarding agency or pass-through entity and a non-Federal entity that, consistent with 31 U.S.C. 6302-6305:
+
+(1) Is used to enter into a relationship the principal purpose of which is to transfer anything of value from the Federal awarding agency or passthrough entity to the non-Federal entity to carry out a public purpose authorized by a law of the United States (see 31 U.S.C. 6101(3)); and not to acquire property or services for the Federal Government or pass-through entity's direct benefit or use.
+
+(2) Is distinguished from a grant in that it provides for substantial involvement between the Federal awarding agency or pass-through entity and the non-Federal entity in carrying out the activity contemplated by the Federal award.
+
+(3) The term does not include:
+
+(i) A cooperative research and development agreement as defined in 15 U.S.C. 3710a; or
+
+(ii) An agreement that provides only:
+
+(A) Direct United States Government cash assistance to an individual;
+
+(B) A subsidy;
+
+(C) A loan;
+
+(D) A loan guarantee; or
+
+(E) Insurance.
+
+(4) Is a negotiated legal agreement between SBA and a recipient organization containing the terms and conditions under which SBA provides Federal funds for the performance of SBDC activities.
 
 *Cosponsorship.* A “Cosponsorship” as defined in and governed by § 8(b)(1)(A) of the Act and SBA's Standard Operating Procedures.
 
-*Counseling.* Individual advice, guidance or instruction given to a small business person or entity.
+*Counseling.* Qualifying technical or management assistance, as defined in the cooperative agreement, provided through the SBDC Program to clients on an individual basis, as established by policy.
 
-*Direct costs:* “Direct costs” as defined in Office of Management and Budget (OMB) Circulars A-21, A-87 and A-122. Recipient organizations must allocate at least 80 percent of the Federal funds provided through the Cooperative Agreement to the direct costs of program delivery.
+*Counseling record.* A record that provides individual client contact information, demographics about the client/business and data on the counseling provided.
 
-*Dispute.* Dispute means a program or financial disagreement which the recipient organization requests be handled with SBA in a formal manner.
+*Direct costs.* Expenditures that can be identified specifically with a final cost objective and are further defined in 2 CFR part 200.
+
+*Dispute.* A programmatic or financial disagreement that the recipient organization requests be handled in accordance with the dispute resolution procedures set forth at § 130.630.
+
+*District Office.* The local SBA office, in collaboration with the OSBDC, is charged with: ensuring that small business market needs are met by the SBDC; conducting the regularly scheduled compliance reviews; monitoring statements as required; and collaborating with the SBDC to perform joint events and trainings.
 
 *Grants and Cooperative Agreement Appeals Committee.* The SBA committee, appointed by the SBA Administrator, which resolves appeals arising from financial Disputes between a recipient organization and SBA.
 
-*Grants Management Specialist.* An SBA employee designated by the AA/SBDCs who is responsible for the financial review, award, and administration of one or more SBDC Cooperative Agreements.
+*Grants Management Specialist.* An SBA employee within the Office of SBDC, designated by the AA/SBDC, who meets the Office of Management and Budget (OMB) standards and certifications and is responsible for the budgetary review, award, and administration of one or more SBDC cooperative agreements.
 
-*In-kind contributions.* Property, facilities, services or other non-monetary contributions from non-federal sources. *See* OMB Circular A-87, A-102, or A-110, as appropriate.
+*In-kind contributions.* Property, facilities, services, or other nonmonetary contributions from non-Federal sources. See 2 CFR part 215 (OMB Circular A-110) and part 143 of this chapter, as applicable.
 
-*Indirect costs.* “Indirect costs” as defined in Office of Management and Budget (OMB) Circular A-21, A-87 or A-122.
+*Indirect costs.* Costs generally incurred for a common or joint purpose. See 2 CFR part 220 (OMB Circular A- 21), 225 (OMB Circular A- 87), and/or 230 (OMB Circular A-122).
 
-*Lead Center.* The entity which administers and operates the SBDC network.
+*Insular areas.* Territories include the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Government of the Northern Mariana Islands. See 48 U.S.C. 1469a.
 
-*Lobbying.* Lobbying as described in OMB Circulars A-21, A-87 and A-122, and Pub. L. 101-121, section 319.
+*Key personnel.* Principal staff of the Lead Center and SBDC service centers, including SBDC Lead Center Directors, SBDC Service Center Directors, or managers of International Trade Centers, Technology Program Centers, and directors of other SBDC specialty programs and any other leadership positions identified by the SBDC network.
 
-*Overmatched Amount.* Non-Federal Contributions to SBDC project costs, including cash, in-kind contributions and indirect costs, in excess of the statutorily required amount.
+*Lead Center.* The administrative office of the recipient organization that operates and manages an SBDC network.
+
+*Lobbying.* “Lobbying” as described in 2 CFR parts 220 (OMB Circular A-21), 225 (OMB Circular A-87), and 230 (OMB Circular A-122) and Public Law 101-121, section 319, which discuss the limitations on use of appropriated funds to influence decisions of certain of Federal officials, including Members of Congress, Federal contracting, and financial transactions.
+
+*Matching funds.* The combined amounts of non-Federal cash and noncash resources proposed for the cooperative agreement or claimed to fulfill statutory match requirements.
+
+*Notice of funding opportunity.* The annual solicitation that an applicant organization or recipient organization must respond to in its initial or renewal application.
+
+*Notice of non-renewal.* A notice provided to an SBDC stating that the SBA will not renew the cooperative agreement with the current recipient organization.
+
+*Notice of suspension.* A notice provided to an SBDC stating that the SBDC is under suspension.
+
+*Notice of termination.* A notice provided to an SBDC stating that the SBDC is terminated.
+
+*Office of Small Business Development Centers (OSBDC).* The SBA program office providing leadership and program oversight, managing the funding formula, program budget, and the establishment and maintenance of all program policy over the national SBDC network.
+
+*Overmatched amount.* Contributions of non-Federal cash and of non-cash resources for authorized SBDC activities in excess of the statutorily required match.
+
+*Prior approval.* The written concurrence from the appropriate SBA AA/SBDC, Deputy Associate Administrator for the Office of Small Business Development Centers, Grants Management Officer, Grants Management Specialist, or Program Manager for a proposed action or amendment to the SBDC cooperative agreement.
 
 *Program Announcement.* SBA's annual publication of requirements which an applicant or recipient organization must address in its initial or renewal application.
 
-*Program income.* Income earned or received by the SBDC network from any SBDC supported activity as defined in Attachment D of OMB Circular A-110 and Attachment E of OMB Circular A-102.
+*Program funds.* Also referred to as project funds and defined as all funds authorized under the cooperative agreement including, but not limited to, Federal funds, cash match, non-cash match from indirect costs, in-kind contributions, and program income revenues.
 
-*Program manager.* An SBA employee responsible for overseeing the operations of one or more SBDCs.
+*Program income.* Gross income earned as a result of the Federal award during the period of performance, including funds received under a sponsorship agreement, as defined in 2 CFR 200.80.
 
-*Project officer.* An SBA employee who negotiates the annual Cooperative Agreement and monitors the ongoing operations of an SBDC.
+*Program Manager.* An SBA employee designated by the AA/SBDC who oversees and monitors the SBDC network operations, including meeting the statutorily required programmatic reviews.
 
-*Project period.* The period of time, usually in twelve (12) month increments, during which the SBDC network operates, beginning on the day of award and continuing over a number of budget periods.
+*Program performance data.* Any anonymous data or information that captures the outputs of the SBDC service center and outcomes of services provided to clients.
 
-*Recipient organization.* The name given to an applicant organization after funding is approved and the applicant organization enters into a Cooperative Agreement. The recipient organization receives the Federal funds and is responsible for establishing the Lead Center.
+*Project Officer.* The individual who serves as the primary local contact for the SBDC, conducts regular compliance oversight as required by AA/SBDC, and works in conjunction with the Program Manager.
+
+*Project period.* The total annual period of performance for an award made under the notice of funding opportunity.
+
+*Proposal.* Also known as the application, the written submission by a new applicant organization or an existing recipient organization describing its projected SBDC activities for the upcoming budget period and requesting Federal funding for use in its operations.
+
+*Recipient organization.* The selected applicant organization receiving Federal funding to deliver SBDC services under a cooperative agreement.
 
 *Recognized Organization.* The organization whose members include a majority of SBDCs and which is recognized as an SBDC representative by SBA in accordance with § 21(a)(3)(A) of the Small Business Act, 15 U.S.C. 648(a)(3)(A).
 
 *SBDC Director.* The full-time senior manager designated by each recipient organization and approved by SBA.
 
-*SBDC network.* The Lead Center and SBDC service providers.
+*SBDC Lead Center Director.* Also referred to as the State/Region Director, an individual or position whose time is allocated to the SBDC grant program or other related small business grant programs that provide comparable management and technical assistance to the small business community in accordance with the cooperative agreement. For the purposes of meeting the Program requirements, no less than 75 percent of the SBDC Lead Center Director's time and effort must be devoted specifically to the SBDC grant. The SBDC Lead Center Director has clear and complete control of all SBDC Program funds.
+
+*SBDC network.* The Lead Center, SBDC service centers, and SBDC satellite locations funded and affiliated by sub-agreements and comprising a single service delivery network administered by a recipient organization.
+
+*SBDC satellite location.* A geographic point of service delivery that operates on a full- or part-time basis under direct management of an SBDC Lead Center Director or SBDC Service Center Director.
+
+*SBDC service center.* An entity operating full-time authorized by the Lead Center to perform SBDC counseling and training services. Any applicant commencing after January 1, 1992, establishing service centers within its area of service, to the extent practicable, should be primarily housed within institutions of higher education or a Women's Business Center (WBC) operating pursuant to section 29 of the Small Business Act (15 U.S.C. 656) as stated in section 21(a)(1) of the Small Business Act (15 U.S.C. 648(a)(1)).
+
+*SBDC Service Center Director.* The individual responsible for SBDC Program implementation and management at an SBDC service center within an SBDC network.
 
 *SBDC service providers.* SBDC network participants, including the Lead Center, subcenters (at times referred to as regional centers), satellite locations, and any other entity authorized by the recipient organization to perform SBDC services.
 
-*Specialized Services.* SBDC services other than Counseling and Training.
+*Specialized services.* SBDC services other than counseling or training, *e.g.,* extensive research, hiring outside consultants for a client, translation services, etc.
 
 *Sponsoring SBDC organizations.* Organizations or entities which establish one or more SBDC service providers as part of the SBDC network under a contract or agreement with the recipient organization.
 
-*Training.* The provision of advice, guidance and instruction to groups of prospective and existing small business persons and entities, whether by in-person group sessions or by such communication modes as teleconferences, videos, publications and electronic media.
+*Training.* An educational activity or event presented by an SBDC that delivers a structured program of knowledge on an entrepreneurial or business-related subject, as established in the cooperative agreement.
+
+*Training record.* A record that provides aggregate data about a training event to include training topic and program format.
+
+[60 FR 31056, June 13, 1995, as amended at 88 FR 76639, Nov. 7, 2023]

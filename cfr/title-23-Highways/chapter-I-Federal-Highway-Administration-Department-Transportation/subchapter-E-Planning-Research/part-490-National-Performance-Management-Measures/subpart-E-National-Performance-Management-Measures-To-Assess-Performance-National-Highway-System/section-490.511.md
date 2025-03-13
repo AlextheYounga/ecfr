@@ -1,5 +1,7 @@
 ##### § 490.511 Calculation of National Highway System performance metrics. #####
 
+Link to an amendment published at 88 FR 85393, Dec. 7, 2023.
+
 (a) Two performance metrics are required for the NHS Performance measures specified in § 490.507. These are:
 
 (1) Level of Travel Time Reliability (LOTTR) for the Travel Time Reliability measures in § 490.507(a) (referred to as the LOTTR metric).

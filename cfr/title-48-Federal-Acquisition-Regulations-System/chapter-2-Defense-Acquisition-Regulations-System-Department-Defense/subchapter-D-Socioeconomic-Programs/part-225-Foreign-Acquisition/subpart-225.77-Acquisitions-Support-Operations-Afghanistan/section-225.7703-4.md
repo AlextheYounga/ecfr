@@ -1,6 +1,6 @@
 ##### 225.7703-4 Solicitation provisions and contract clauses. #####
 
-(a) Use the provision at 252.225-7023, Preference for Products or Services from Afghanistan, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services , that provide a preference for products or services from Afghanistan in accordance with 225.7703-1(a)(1). The contracting officer may modify the 50 percent evaluation factor in accordance with contracting office procedures.
+(a) Use the provision at 252.225-7023, Preference for Products or Services from Afghanistan, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services, that provide a preference for products or services from Afghanistan in accordance with 225.7703-1(a)(1). The contracting officer may modify the 50 percent evaluation factor in accordance with contracting office procedures.
 
 (b) Use the clause at 252.225-7024, Requirement for Products or Services from Afghanistan, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services, that include the provision at 252.225-7023, Preference for Products or Services from Afghanistan, and in the resulting contract.
 
@@ -10,7 +10,7 @@
 
 (2) Will be directed to a particular source or sources from Afghanistan in accordance with 225.7703-1(a)(3).
 
-(d) Use the clause at 252.225-7029, Acquisition of Uniform Components for Afghan Military or Afghan National Police, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, for the acquisition of any textile components that DoD intends to supply to the Afghan National Army or the Afghan National Police for purposes of production of uniforms.
+(d) Use the clause at 252.225-7029, Acquisition of Uniform Components for Afghan Military or Afghan National Police, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services, for the acquisition of any textile components that DoD intends to supply to the Afghan National Army or the Afghan National Police for purposes of production of uniforms.
 
 (e) When the Trade Agreements Act applies to the acquisition, use the appropriate clause and provision as prescribed at 225.1101 (5) and (6).
 

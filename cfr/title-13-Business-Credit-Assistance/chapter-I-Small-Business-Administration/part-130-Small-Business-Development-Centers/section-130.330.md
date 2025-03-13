@@ -1,13 +1,19 @@
-##### § 130.330 Operating requirements. #####
+##### § 130.330 SBDC services and restrictions on service. #####
 
-Link to an amendment published at 88 FR 76642, Nov. 7, 2023.
+(a) *Services.* The SBDC network, to the extent practicable, must provide prospective entrepreneurs and existing small businesses, known as clients, with counseling, access to training, and specialized services. The SBDC must create counseling records for clients when required by the cooperative agreement. The services provided must relate to the formation, financing, management, and operation of small business enterprises. The network must provide services that meet local needs as determined through periodic needs assessments, which are continually improved to keep pace with changing local small business needs. It is the responsibility of the recipient organization to change local SBDC service centers, as necessary, to meet the needs of the communities it serves in accordance with §§ 130.310 and 130.620. See section 21(c)(3) of the Small Business Act (15 U.S.C. 648(c)(36)) for the full list of compulsory services. To the extent possible, SBDCs will work in collaboration with other Federal, state, tribal, and local government programs that assist small businesses and will coordinate and cooperate, to the extent practicable, with other local public and private providers of small business assistance. An SBDC Lead Center should use and compensate qualified small business vendors as one of its resources.
 
-(a) The Lead Center must be an independent entity within the recipient organization, having its own staff, including a full-time SBDC Director.
+(b) *Access to Capital.* (1) SBDCs must provide counseling services that increase a small business concern's access to capital, such as business plan development, financial statement preparation and analysis, and cash flow preparation and analysis.
 
-(b) A Lead Center must provide administrative services and coordination for the SBDC network, including program development, program management, financial management, reports management, promotion and public relations, program assessment and evaluation, and internal quality control.
+(2) SBDCs may provide assistance and guidance with the necessary documentation required for applications for capital assistance; including assistance for SBA loan products and services, including small dollar loans, free of charge as stated in § 130.470.
 
-(c) The Lead Center shall be open to the public throughout the year during the normal business hours of the recipient organization. Anticipated closures shall be included in the annual renewal application. Emergency closures shall be reported to the SBA Project Officer as soon as is feasible. Other SBDC service providers shall be open during the normal business hours of their sponsoring SBDC organizations.
+(3) SBDCs should prepare their clients to represent themselves to lending institutions. SBDCs may attend meetings with lenders to assist clients in preparing financial packages; however, SBDCs may not attest to a client's readiness or creditworthiness to the lending institution either verbally or in writing.
 
-(d) The Lead Center and other SBDC service providers must have a conflict of interest policy applicable to their SBDC consultants, employees, instructors and volunteers.
+(4) SBDCs may participate on boards and panels of financial institutions and with outside organizations but may not be involved in any final credit decisions involving SBDC clients or in making or servicing loans.
 
-(e) The SBDC network shall comply with 13 CFR parts 112, 113 and 117, which require that no person shall be excluded on the grounds of age, color, handicap, marital status, national origin, race, religion or sex from participation in, be denied that benefits of, or otherwise be subjected to discrimination under, any program or activity for which the recipient organization received Federal financial assistance from SBA.
+(5) With respect to SBA loan guaranty programs, SBDCs may accompany an applicant organization appearing before SBA or a lender but may not advocate for, promote, recommend approval or otherwise attempt in any manner to influence SBA or a lender to provide financial assistance to any of its clients.
+
+(c) *Special emphasis initiatives.* Periodically, SBA may identify, and include in the cooperative agreement, portions of the general population to be targeted for assistance by SBDCs and specific focus areas including, but not limited to: base closure assistance; cybersecurity and preparedness; employee ownership program; and intellectual property protections. (Refer to current cooperative agreement.)
+
+(d) *Portable assistance.* The current cooperative agreement is a startup and sustainability non-matching program to be conducted by eligible SBDCs in communities that are economically challenged as a result of a business or government facility downsizing or closing, which has resulted in the loss of jobs or small business instability. The funds will be used for small business development center personnel expenses and related small business programs and services.
+
+[60 FR 31056, June 13, 1995. Redesignated and amended at 88 FR 76642, 76643, Nov. 7, 2023]

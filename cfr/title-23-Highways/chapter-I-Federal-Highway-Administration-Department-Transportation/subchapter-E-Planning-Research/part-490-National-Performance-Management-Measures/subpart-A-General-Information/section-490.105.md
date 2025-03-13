@@ -1,5 +1,7 @@
 ##### § 490.105 Establishment of performance targets. #####
 
+Link to an amendment published at 88 FR 85390, Dec. 7, 2023.
+
 (a) *In general.* State DOTs shall establish performance targets for all measures specified in paragraph (c) of this section for the respective target scope identified in paragraph (d) of this section with the requirements specified in paragraph (e) of this section. The MPOs shall establish performance targets for all measures specified in paragraph (c) of this section for respective target scope identified in paragraph (d) of this section with the requirements specified in paragraph (f) of this section.
 
 (b) *Highway Safety Improvement Program measures.* State DOTs and MPOs shall establish performance targets for the Highway Safety Improvement Program (HSIP) measures in accordance with § 490.209.

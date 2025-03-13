@@ -1,5 +1,7 @@
 ##### § 490.507 National performance management measures for system performance. #####
 
+Link to an amendment published at 88 FR 85392, Dec. 7, 2023.
+
 There are two performance measures to assess the performance of the Interstate System and the performance of the non-Interstate NHS for the purpose of carrying out the National Highway Performance Program (referred to collectively as the NHS Performance measures).
 
 (a) Two measures are used to assess reliability (referred to collectively as the Travel Time Reliability measures). They are:

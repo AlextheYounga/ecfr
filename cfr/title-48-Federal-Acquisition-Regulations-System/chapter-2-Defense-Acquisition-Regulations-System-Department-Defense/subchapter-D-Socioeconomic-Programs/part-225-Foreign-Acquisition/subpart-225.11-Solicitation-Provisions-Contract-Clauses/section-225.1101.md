@@ -1,12 +1,12 @@
 ##### 225.1101 Acquisition of supplies. #####
 
-(1) Use the basic or the alternate of the provision at 252.225-7000, Buy American—Balance of Payments Program Certificate, instead of the provision at FAR 52.225-2, Buy American Certificate, in any solicitation, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services , that includes the basic or the alternate of the clause at 252.225-7001, Buy American and Balance of Payments Program. If the solicitation includes the provision at FAR 52.204-7, do not separately list the provision 252.225-7000 in the solicitation.
+(1) Use the basic or the alternate of the provision at 252.225-7000, Buy American—Balance of Payments Program Certificate, instead of the provision at FAR 52.225-2, Buy American Certificate, in any solicitation, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services, that includes the basic or the alternate of the clause at 252.225-7001, Buy American and Balance of Payments Program. If the solicitation includes the provision at FAR 52.204-7, do not separately list the provision 252.225-7000 in the solicitation.
 
 (i) Use the basic provision when the solicitation includes the basic clause at 252.225-7001.
 
 (ii) Use the alternate I provision when the solicitation includes alternate I of the clause at 252.225-7001.
 
-(2)(i) Use the basic or the alternate of the clause at 252.225-7001, Buy American Act and Balance of Payments Program, instead of the clause at FAR 52.225-1, Buy American —Supplies, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services , unless—
+(2)(i) Use the basic or the alternate of the clause at 252.225-7001, Buy American Act and Balance of Payments Program, instead of the clause at FAR 52.225-1, Buy American —Supplies, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services, unless—
 
 (A) All line items will be acquired from a particular source or sources under the authority of FAR 6.302-3;
 
@@ -38,7 +38,7 @@
 
 (4) Use the clause at 252.225-7013, Duty-Free Entry, instead of the clause at FAR 52.225-8. Do not use the clause for acquisitions of supplies that will not enter the customs territory of the United States.
 
-(5) Use the basic or the alternate of the provision at 252.225-7020, Trade Agreements Certificate, instead of the provision at FAR 52.225-6, Trade Agreements Certificate, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services , that include the basic or alternate II of the clause at 252.225-7021, Trade Agreements. If the solicitation includes the provision at FAR 52.204-7, do not separately list the provision 252.225-7020 in the solicitation.
+(5) Use the basic or the alternate of the provision at 252.225-7020, Trade Agreements Certificate, instead of the provision at FAR 52.225-6, Trade Agreements Certificate, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services, that include the basic or alternate II of the clause at 252.225-7021, Trade Agreements. If the solicitation includes the provision at FAR 52.204-7, do not separately list the provision 252.225-7020 in the solicitation.
 
 (i) Use the basic provision if the solicitation includes the basic clause at 252.225-7021.
 
@@ -102,7 +102,7 @@
 
 (A) Purchase from foreign sources is restricted (see 225.401(a)(2)), unless the contracting officer anticipates a waiver of the restriction;
 
-(B) Acquiring information technology that is a commercial product, using fiscal year 2004 or subsequent funds sSection 535 of Division F of the Consolidated Appropriations Act, 2004 (Pub. L. 108-199), and the same provision in subsequent appropriations acts); or
+(B) Acquiring information technology that is a commercial product, using fiscal year 2004 or subsequent funds section 535 of Division F of the Consolidated Appropriations Act, 2004 (Pub. L. 108-199), and the same provision in subsequent appropriations acts); or
 
 (C) Using a procedure specified in 225.7703-1(a).
 

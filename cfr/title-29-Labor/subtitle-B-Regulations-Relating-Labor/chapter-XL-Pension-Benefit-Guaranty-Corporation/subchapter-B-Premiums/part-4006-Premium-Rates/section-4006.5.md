@@ -1,7 +1,5 @@
 ##### § 4006.5 Exemptions and special rules. #####
 
-Link to an amendment published at 88 FR 76664, Nov. 7, 2023.
-
 (a) *Variable-rate premium exemptions.* A plan described in any of paragraphs (a)(1) through (5) of this section is not required to determine or report its unfunded vested benefits under § 4006.4 and does not owe a variable-rate premium under § 4006.3(b).
 
 (1) *Plans without vested participants.* A plan is described in this paragraph if it does not have any participants with vested benefits as of the UVB valuation date.
@@ -28,7 +26,7 @@ Link to an amendment published at 88 FR 76664, Nov. 7, 2023.
 
 (ii) It is a new plan or a newly covered plan.
 
-(b) *Reporting exemption for plans paying capped variable-rate premium.* A plan that qualifies for the variable-rate premium cap described in ERISA section 4006(a)(3)(H) is not required to determine or report its unfunded vested benefits under § 4006.4 if it reports that it qualifies for the cap and pays a variable-rate premium equal to the amount of the cap.
+(b) *Reporting exemption for plans paying capped variable-rate premium.* A plan that qualifies for the variable-rate premium cap described in section 4006(a)(3)(I) of ERISA for certain small employers is not required to determine or report its unfunded vested benefits under § 4006.4 if it reports that it qualifies for the cap and pays a variable-rate premium equal to the amount of the cap.
 
 (c) *Participant count date; in general.* Except as provided in paragraphs (d) and (e) of this section, the participant count date of a plan is the last day of the plan year preceding the premium payment year.
 
@@ -70,4 +68,4 @@ Link to an amendment published at 88 FR 76664, Nov. 7, 2023.
 
 (2) A revocation of an election under this paragraph (g) to use the alternative premium funding target for a plan must specify the premium payment year to which it first applies and must be filed by the plan's variable-rate premium due date for that premium payment year. The premium payment year to which the revocation first applies must begin at least five years after the beginning of the premium payment year to which the election first applied.
 
-[61 FR 34016, July 1, 1996, as amended at 62 FR 60428, Nov. 7, 1997; 65 FR 75163, Dec. 1, 2000; 71 FR 31081, June 1, 2005; 73 FR 15075, Mar. 21, 2008; 79 FR 13560, Mar. 11, 2014; 85 FR 6058, Feb. 4, 2020]
+[61 FR 34016, July 1, 1996, as amended at 62 FR 60428, Nov. 7, 1997; 65 FR 75163, Dec. 1, 2000; 71 FR 31081, June 1, 2005; 73 FR 15075, Mar. 21, 2008; 79 FR 13560, Mar. 11, 2014; 85 FR 6058, Feb. 4, 2020; 88 FR 76664, Nov. 7, 2023]

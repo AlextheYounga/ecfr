@@ -1,9 +1,11 @@
 ##### § 130.480 Program income. #####
 
-Link to an amendment published at 88 FR 76647, Nov. 7, 2023.
+(a) Program income and interest earned on program income, may only be used for authorized purposes, in accordance with 2 CFR 200.307 and the cooperative agreement, such as to expand the quantity or quality of services, resources or outreach provided by the SBDC network.
 
-(a) Program income for recipient organizations or SBDC service providers based in universities or nonprofit organizations shall be subject to OMB requirements (see OMB Circular A-110). Program income for recipient organizations or SBDC service providers based in State or local governments shall be subject to OMB requirements (see the provisions of § 7.e and Attachment E of OMB Circular A-102) and 13 CFR 143.25.
+(b) Program income may not be reported or used as a matching resource. Unused program income must be carried over to the subsequent budget period by the SBDC network; however, the aggregate amount of network program income cannot exceed 25 percent of the total SBDC budget (Federal and matching expenditures).
 
-(b) Program income, including any interest earned on Program income, must be used to expand the quantity or quality of services, resources or outreach provided by the SBDC network. It cannot be used to satisfy the requirements for Matching Funds. The Project Officer shall monitor the use of Program income. Any unused Program income will be carried over to a subsequent budget period.
+(c) Program income exceeding 25 percent of the total approved SBDC budget must be expended by the SBDC network prior to the end of the budget/project period in which the excess occurs.
 
-(c) SBDCs must report in detail on standard SBA forms receipts and expenditures of program income, including any income received through cosponsored activities. A narrative description of how Program income was used to accomplish Program objectives shall be included.
+(d) The Lead Center must report the consolidated program income sources and uses as an attachment to the financial status report for the SBDC network during the budget period. The SBDC must provide a narrative describing how program income was used to further program objectives.
+
+[88 FR 76647, Nov. 7, 2023]

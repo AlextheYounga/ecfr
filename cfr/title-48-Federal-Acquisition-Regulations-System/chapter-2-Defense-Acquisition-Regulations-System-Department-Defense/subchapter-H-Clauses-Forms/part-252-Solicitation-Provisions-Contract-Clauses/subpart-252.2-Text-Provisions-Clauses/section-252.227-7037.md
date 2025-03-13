@@ -18,7 +18,7 @@ Validation of Restrictive Markings on Technical Data (JAN 2023)
 
 (e) *Challenge.* (1) Notwithstanding any provision of this contract concerning inspection and acceptance, if the Contracting Officer determines that a challenge to the restrictive marking is warranted, the Contracting Officer will send a written challenge notice to the Contractor or subcontractor asserting the restrictive markings. The challenge notice and all related correspondence shall be subject to handling procedures for classified information and controlled unclassified information. Such challenge will—
 
-(i) State the specific grounds for challenging the asserted restriction including, for commercial products or commercial services , sufficient information to reasonably demonstrate that the commercial product or commercial service was not developed exclusively at private expense;
+(i) State the specific grounds for challenging the asserted restriction including, for commercial products or commercial services, sufficient information to reasonably demonstrate that the commercial product or commercial service was not developed exclusively at private expense;
 
 (ii) Require a response within 60 days justifying and providing sufficient evidence as to the current validity of the asserted restriction;
 
@@ -68,6 +68,6 @@ Validation of Restrictive Markings on Technical Data (JAN 2023)
 
 (k) *Privity of contract.* The Contractor or subcontractor agrees that the Contracting Officer may transact matters under this clause directly with subcontractors at any tier that assert restrictive markings. However, this clause neither creates nor implies privity of contract between the Government and subcontractors.
 
-(l) *Flowdown.* The Contractor or subcontractor agrees to insert this clause in contractual instruments, including subcontracts and other contractual instruments for commercial products or commercial services , with its subcontractors or suppliers at any tier requiring the delivery of technical data.
+(l) *Flowdown.* The Contractor or subcontractor agrees to insert this clause in contractual instruments, including subcontracts and other contractual instruments for commercial products or commercial services, with its subcontractors or suppliers at any tier requiring the delivery of technical data.
 
 (End of clause)[60 FR 33505, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 64 FR 51077, Sept. 21, 1999; 69 FR 31912, June 8, 2004; 76 FR 58138, 58149, Sept. 20, 2011; 77 FR 23632, Apr. 20, 2012; 77 FR 76938, Dec. 31, 2012; 78 FR 37990, June 25, 2013; 81 FR 65567, Sept. 23, 2016; 87 FR 25151, Apr. 28, 2022; 87 FR 76998, Dec. 16, 2022; 88 FR 6595, Jan. 31, 2023]

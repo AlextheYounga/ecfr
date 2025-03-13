@@ -1,7 +1,21 @@
 ##### § 130.420 Renewal applications. #####
 
-Link to an amendment published at 88 FR 76645, Nov. 7, 2023.
+(a) The recipient organization will submit the renewal application to the OSBDC using the submission process outlined in the annual notice of funding opportunity.
 
-(a) SBDCs shall comply with the requirements in the annual Program Announcement, including format and due dates, to receive consideration of their renewal applications. The SBA Project Officer, with the concurrence of the Program Manager, may grant an extension. The recipient organization shall submit the renewal application to the SBA office in the District in which the recipient organization is located. The annual Program Announcement will include a timetable for SBA review.
+(b) If the OSBDC chooses to not renew the award of an existing recipient organization or the recipient organization elects not to reapply, the OSBDC will award a cooperative agreement for the conduct of an SBDC project to a new recipient organization in the same area of service using a competitive process. If the OSBDC has initiated a non-renewal or termination action, the Agency will not issue the new award until all administrative remedies have been exhausted. For further information regarding the termination and non-renewal procedures, see § 130.700.
 
-(b) After review by the SBA Project Officer and written recommendation for approval by the District Director, the Program Manager and Grants Management Specialist shall review the renewal application for conformity with the Program Announcement, OMB Circulars and all other statutory, financial and regulatory requirements. SBA officials may request supplemental information and documentation prior to issuing the Cooperative Agreement.
+(c) Significant factors considered in the renewal application review will include:
+
+(1) The applicant's ability to obtain matching funds;
+
+(2) The quality of prior performance under the cooperative agreement as measured by client satisfaction rate;
+
+(3) The results of any examination conducted pursuant to § 130.810(b);
+
+(4) Corrective measures implemented as a result of examinations conducted; and
+
+(5) The accreditation provisions of § 130.810(c) including any conditions, the most current accreditation report, and corrective measures implemented, affecting the recipient organization and the SBDC network.
+
+(d) The OSBDC will review the renewal application for conformity with the notice of funding opportunity. The AA/SBDC may request additional information and documentation prior to issuing the cooperative agreement.
+
+[88 FR 76645, Nov. 7, 2023]

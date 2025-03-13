@@ -1,5 +1,7 @@
 ##### § 490.505 Definitions. #####
 
+Link to an amendment published at 88 FR 85392, Dec. 7, 2023.
+
 All definitions in § 490.101 apply to this subpart. Unless otherwise specified in this subpart, the following definitions apply to this subpart:
 
 *Level of Travel Time Reliability* is a comparison, expressed as a ratio, of the 80th percentile travel time of a reporting segment to the “normal” (50th percentile) travel time of a reporting segment occurring throughout a full calendar year.

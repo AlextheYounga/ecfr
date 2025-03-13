@@ -1,5 +1,7 @@
 ##### § 490.513 Calculation of National Highway System performance measures. #####
 
+Link to an amendment published at 88 FR 85393, Dec. 7, 2023.
+
 (a) The NHS Performance measures in § 490.507 shall be calculated in accordance with this section by State DOTs and MPOs to carry out the Interstate System and non-Interstate NHS performance-related requirements of this part, and by FHWA to make the significant progress determinations specified in § 490.109 and to report on system performance.
 
 (b) The Interstate Travel Time Reliability measure specified in § 490.507(a)(1) shall be computed to the nearest tenth of a percent as follows:

@@ -1,7 +1,5 @@
 ##### § 622.187 Bag and possession limits. #####
 
-Link to an amendment published at 88 FR 76701, Nov. 7, 2023.
-
 (a) *Additional applicability provisions for South Atlantic snapper-grouper.* Section 622.11(a) provides the general applicability for bag and possession limits. However, § 622.11(a) notwithstanding:
 
 (1) The bag and other limits specified in § 622.182(b) apply for South Atlantic snapper-grouper in or from the EEZ to a person aboard a vessel for which a commercial permit for South Atlantic snapper-grouper has been issued that has on board a longline in the longline closed area.
@@ -28,7 +26,7 @@ Link to an amendment published at 88 FR 76701, Nov. 7, 2023.
 
 (iii) No more than one fish may be a golden tilefish; and
 
-(iv) [Reserved]
+(iv) No more than two fish may be blueline tilefish. However, no blueline tilefish may be retained by the captain or crew of a vessel operating as a charter vessel or headboat. The bag limit for such captain and crew is zero.
 
 (v) No goliath grouper or Nassau grouper may be retained.
 
@@ -64,4 +62,4 @@ Link to an amendment published at 88 FR 76701, Nov. 7, 2023.
 
 (2) A person aboard a vessel may not possess red porgy in or from the EEZ in excess of one per day or one per trip, whichever is more restrictive.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44465, July 24, 2013; 78 FR 78775, Dec. 27, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 80688, Dec. 28, 2015; 81 FR 45248, July 13, 2016; 82 FR 34594, July 25, 2017; 83 FR 1309, Jan. 11, 2018; 83 FR 35435, July 26, 2018; 85 FR 11309, Feb. 27, 2020; 87 FR 77747, Dec. 20, 2022; 88 FR 65146, Sept. 21, 2023]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44465, July 24, 2013; 78 FR 78775, Dec. 27, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 80688, Dec. 28, 2015; 81 FR 45248, July 13, 2016; 82 FR 34594, July 25, 2017; 83 FR 1309, Jan. 11, 2018; 83 FR 35435, July 26, 2018; 85 FR 11309, Feb. 27, 2020; 87 FR 77747, Dec. 20, 2022; 88 FR 65146, Sept. 21, 2023; 88 FR 76701, Nov. 7, 2023]
