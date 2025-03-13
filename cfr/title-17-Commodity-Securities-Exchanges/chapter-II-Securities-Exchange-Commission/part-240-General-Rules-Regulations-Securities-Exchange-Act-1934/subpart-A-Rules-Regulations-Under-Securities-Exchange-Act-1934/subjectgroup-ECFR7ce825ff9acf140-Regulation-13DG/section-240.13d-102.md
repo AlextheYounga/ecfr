@@ -1,6 +1,6 @@
 ##### § 240.13d-102 Schedule 13G—Information to be included in statements filed pursuant to § 240.13d-1(b), (c), and (d) and amendments thereto filed pursuant to § 240.13d-2. #####
 
-Link to an amendment published at 88 FR 76984, Nov. 7, 2023.Securities and Exchange Commission, Washington, D.C. 20549Schedule 13GUnder the Securities Exchange Act of 1934(Amendment No.\_\_)\*(Name of Issuer)(Title of Class of Securities)(CUSIP Number)(Date of Event Which Requires Filing of this Statement)
+Securities and Exchange Commission, Washington, D.C. 20549Schedule 13GUnder the Securities Exchange Act of 1934(Amendment No.\_\_)\*(Name of Issuer)(Title of Class of Securities)(CUSIP Number)(Date of Event Which Requires Filing of this Statement)
 
 Check the appropriate box to designate the rule pursuant to which this Schedule is filed:
 
@@ -11,7 +11,7 @@ Check the appropriate box to designate the rule pursuant to which this Schedule 
 The information required in the remainder of this cover page shall not be deemed to be “filed” for the purpose of Section 18 of the Securities Exchange Act of 1934 (“Act”) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however, see the Notes).
 
 |                                 CUSIP No.\_\_\_\_\_\_                                  |   |
-|:--------------------------------------------------------------------------------------:|---|
+|----------------------------------------------------------------------------------------|---|
 |                             (1) Names of reporting persons                             |   |
 |                  (2) Check the appropriate box if a member of a group                  |(a)|
 |                                   (see instructions)                                   |(b)|
@@ -152,7 +152,7 @@ Provide the following information regarding the aggregate number and percentage 
 
 Item 8. Identification and Classification of Members of the Group
 
-If a group has filed this schedule pursuant to § 240.13d-1(b)(1)(ii)(J), so indicate under Item 3(j) and attach an exhibit stating the identity and Item 3 classification of each member of the group. If a group has filed this schedule pursuant to Rule 13d-1(c) or Rule 13d-1(d), attach an exhibit stating the identity of each member of the group.
+If a group has filed this schedule pursuant to § 240.13d-1(b)(1)(ii)(K), so indicate under Item 3(k) and attach an exhibit stating the identity and Item 3 classification of each member of the group. If a group has filed this schedule pursuant to Rule 13d-1(c) or Rule 13d-1(d), attach an exhibit stating the identity of each member of the group.
 
 *Item 9.* Notice of Dissolution of Group. Notice of dissolution of a group may be furnished as an exhibit stating the date of the dissolution and that all further filings with respect to transactions in the security reported on will be filed, if required, by members of the group, in their individual capacity. See Item 5.
 
@@ -176,12 +176,8 @@ Dated:\_\_\_\_
 
 \_\_\_\_\_\_\_\_\_\_.Signature.\_\_\_\_\_\_\_\_\_\_.Name/Title.
 
-The original statement shall be signed by each person on whose behalf the statement is filed or his authorized representative. If the statement is signed on behalf of a person by his authorized representative other than an executive officer or general partner of the filing person, evidence of the representative's authority to sign on behalf of such person shall be filed with the statement, *Provided, however,* That a power of attorney for this purpose which is already on file with the Commission may be incorporated by reference. The name and any title of each person who signs the statement shall be typed or printed beneath his signature.
-
-Note:
-
-Schedules filed in paper format shall include a signed original and five copies of the schedule, including all exhibits. See Rule 13d-7 for other parties for whom copies are to be sent.
+The original statement shall be signed by each person on whose behalf the statement is filed or such person's authorized representative. If the statement is signed on behalf of a person by such person's authorized representative other than an executive officer or general partner of the filing person, evidence of the representative's authority to sign on behalf of such person shall be filed with the statement; *provided, however,* that a power of attorney for this purpose which is already on file with the Commission may be incorporated by reference. The name and any title of each person who signs the statement shall be typed or printed beneath such person's signature.
 
 Attention: Intentional misstatements or omissions of fact constitute Federal criminal violations (see 18 U.S.C. 1001).
 
-[43 FR 18499, Apr. 28, 1978, as amended at 43 FR 55756, Nov. 29, 1978; 44 FR 2148, Jan. 9, 1979; 44 FR 11751, Mar. 2, 1979; 61 FR 49959, Sept. 24, 1996; 62 FR 35340, July 1, 1997; 63 FR 2867, Jan. 16, 1998; 63 FR 15287, Mar. 31, 1998; 72 FR 45112, Aug. 10, 2007; 73 FR 17813, Apr. 1, 2008; 73 FR 60089, Oct. 9, 2008; 75 FR 56780, Sept. 16, 2010]
+[43 FR 18499, Apr. 28, 1978, as amended at 43 FR 55756, Nov. 29, 1978; 44 FR 2148, Jan. 9, 1979; 44 FR 11751, Mar. 2, 1979; 61 FR 49959, Sept. 24, 1996; 62 FR 35340, July 1, 1997; 63 FR 2867, Jan. 16, 1998; 63 FR 15287, Mar. 31, 1998; 72 FR 45112, Aug. 10, 2007; 73 FR 17813, Apr. 1, 2008; 73 FR 60089, Oct. 9, 2008; 75 FR 56780, Sept. 16, 2010; 88 FR 76984, Nov. 7, 2023]

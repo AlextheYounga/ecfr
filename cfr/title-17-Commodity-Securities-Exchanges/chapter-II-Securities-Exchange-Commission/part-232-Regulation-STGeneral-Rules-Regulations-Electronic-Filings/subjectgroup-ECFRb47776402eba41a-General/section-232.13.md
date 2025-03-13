@@ -1,7 +1,5 @@
 ##### § 232.13 Date of filing; adjustment of filing date. #####
 
-Link to an amendment published at 88 FR 76981, Nov. 7, 2023.
-
 (a) *General.* (1) Except as provided in paragraph (b) of this section, the business day on which a filing is received by the Commission shall be the date of filing thereof, if:
 
 (i) All requirements of the Acts and rules applicable to such filing have been complied with;
@@ -14,9 +12,9 @@ Link to an amendment published at 88 FR 76981, Nov. 7, 2023.
 
 (3) Notwithstanding paragraph (a)(2) of this section, any registration statement or any post-effective amendment thereto filed pursuant to § 230.462(b) of this chapter (Rule 462(b)) by direct transmission commencing on or before 10 p.m. Eastern Standard Time or Eastern Daylight Savings Time whichever is currently in effect, shall be deemed filed on the same business day.
 
-(4) Notwithstanding paragraph (a)(2) of this section, a Form 3, 4, or 5 (§§ 249.103, 249.104, and 249.105 of this chapter, respectively), a Schedule 14N (§ 240.14n-101 of this chapter), or a Form 144 (§ 239.144 of this chapter) submitted by direct transmission commencing on or before 10 p.m. Eastern Standard Time or Eastern Daylight Saving Time, whichever is currently in effect, shall be deemed filed on the same business day.
+(4) Notwithstanding paragraph (a)(2) of this section, a Form 3, 4, or 5 (referenced in §§ 249.103, 249.104, and 249.105 of this chapter, respectively), a Schedule 14N (referenced in § 240.14n-101 of this chapter), a Form 144 (referenced in § 239.144 of this chapter), or a Schedule 13D or Schedule 13G, inclusive of any amendments thereto (§§ 240.13d-101 and 240.13d-102 of this chapter), submitted by direct transmission commencing on or before 10 p.m. Eastern Standard Time or Eastern Daylight Time, whichever is currently in effect, shall be deemed filed on the same business day.
 
-Note:
+Note 1 to paragraph (a):
 
 Electronic filings that have an automatic or immediate effective date must be deemed filed, as provided in paragraph (a) of this section, before any waiting period for automatic effectiveness commences or before the filing becomes immediately effective, whichever applies.
 
@@ -30,4 +28,4 @@ All filing fees paid by electronic filers must be submitted to the lockbox depos
 
 (d) Where the Commission's rules, schedules and forms provide that a document must be filed on the same day it is published, furnished, sent or given to security holders or others, an electronic filer may file the document with the Commission electronically before or on the date the document is published, furnished, sent or given, or if such publication or distribution does not occur during the official business hours of the Commission, as soon as practicable on the next business day. Any associated time periods shall be calculated on the basis of the publication or distribution date (as applicable), and not on the basis of the date of filing.
 
-[58 FR 14670, Mar. 18, 1993, as amended at 59 FR 67761, Dec. 30, 1994; 60 FR 26618, May 17, 1995; 62 FR 47938, Sept. 12, 1997; 64 FR 61451, Nov. 10, 1999; 68 FR 25799, May 13, 2003; 75 FR 56780, Sept. 16, 2010; 86 FR 70200, Dec. 9, 2021; 88 FR 12209, Feb. 27, 2023]
+[58 FR 14670, Mar. 18, 1993, as amended at 59 FR 67761, Dec. 30, 1994; 60 FR 26618, May 17, 1995; 62 FR 47938, Sept. 12, 1997; 64 FR 61451, Nov. 10, 1999; 68 FR 25799, May 13, 2003; 75 FR 56780, Sept. 16, 2010; 86 FR 70200, Dec. 9, 2021; 88 FR 12209, Feb. 27, 2023; 88 FR 76981, Nov. 7, 2023]

@@ -1,7 +1,5 @@
 ##### § 240.13d-3 Determination of beneficial owner. #####
 
-Link to an amendment published at 88 FR 76983, Nov. 7, 2023.
-
 (a) For the purposes of sections 13(d) and 13(g) of the Act a beneficial owner of a security includes any person who, directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise has or shares:
 
 (1) Voting power which includes the power to vote, or to direct the voting of, such security; and/or,
@@ -20,7 +18,7 @@ Link to an amendment published at 88 FR 76983, Nov. 7, 2023.
 
 (2) A member of a national securities exchange shall not be deemed to be a beneficial owner of securities held directly or indirectly by it on behalf of another person solely because such member is the record holder of such securities and, pursuant to the rules of such exchange, may direct the vote of such securities, without instruction, on other than contested matters or matters that may affect substantially the rights or privileges of the holders of the securities to be voted, but is otherwise precluded by the rules of such exchange from voting without instruction.
 
-(3) A person who in the ordinary course of his business is a pledgee of securities under a written pledge agreement shall not be deemed to be the beneficial owner of such pledged securities until the pledgee has taken all formal steps necessary which are required to declare a default and determines that the power to vote or to direct the vote or to dispose or to direct the disposition of such pledged securities will be exercised, provided, that:
+(3) A person who in the ordinary course of such person's business is a pledgee of securities under a written pledge agreement shall not be deemed to be the beneficial owner of such pledged securities until the pledgee has taken all formal steps necessary which are required to declare a default and determines that the power to vote or to direct the vote or to dispose or to direct the disposition of such pledged securities will be exercised, provided, that:
 
 (i) The pledgee agreement is bona fide and was not entered into with the purpose nor with the effect of changing or influencing the control of the issuer, nor in connection with any transaction having such purpose or effect, including any transaction subject to Rule 13d-3(b);
 
@@ -32,6 +30,6 @@ Link to an amendment published at 88 FR 76983, Nov. 7, 2023.
 
 (B) The power to dispose or direct the disposition of the pledged securities, other than the grant of such power(s) pursuant to a pledge agreement under which credit is extended subject to regulation T (12 CFR 220.1 to 220.8) and in which the pledgee is a broker or dealer registered under section 15 of the act.
 
-(4) A person engaged in business as an underwriter of securities who acquires securities through his participation in good faith in a firm commitment underwriting registered under the Securities Act of 1933 shall not be deemed to be the beneficial owner of such securities until the expiration of forty days after the date of such acquisition.
+(4) A person engaged in business as an underwriter of securities who acquires securities through such person's participation in good faith in a firm commitment underwriting registered under the Securities Act of 1933 shall not be deemed to be the beneficial owner of such securities until the expiration of 40 days after the date of such acquisition.
 
-(Secs. 3(b), 13(d)(1), 13(d)(2), 13(d)(5), 13(d)(6), 14(d)(1), 23; 48 Stat. 882, 894, 895, 901; sec. 203(a), 49 Stat. 704, sec. 8, 49 Stat. 1379; sec. 10, 78 Stat. 88a; secs. 2, 3, 82 Stat. 454, 455; secs. 1, 2, 3-5, 84 Stat. 1497; secs. 3, 18, 89 Stat. 97, 155 (15 U.S.C. 78c(b), 78m(d)(1), 89m(d)(2), 78m(d)(5), 78m(d)(6), 78n(d)(1), 78w)[43 FR 18495, Apr. 28, 1978, as amended at 43 FR 29768, July 11, 1978; 63 FR 2867, Jan. 16, 1998]
+[43 FR 18495, Apr. 28, 1978, as amended at 43 FR 29768, July 11, 1978; 63 FR 2867, Jan. 16, 1998; 88 FR 76983, Nov. 7, 2023]

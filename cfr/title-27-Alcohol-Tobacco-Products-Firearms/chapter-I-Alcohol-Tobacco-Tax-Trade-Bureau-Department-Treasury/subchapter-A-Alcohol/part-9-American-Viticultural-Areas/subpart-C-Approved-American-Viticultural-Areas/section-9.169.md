@@ -1,5 +1,7 @@
 ##### § 9.169 Red Hills Lake County. #####
 
+Link to an amendment published at 89 FR 7620, Feb. 5, 2024.
+
 (a) *Name.* The name of the viticultural area described in this section is “Red Hills Lake County”.
 
 (b) *Approved Map.* The appropriate maps for determining the boundary of the Red Hills Lake County viticultural area are four 1:24,000 Scale U.S.G.S. topography maps. They are titled:

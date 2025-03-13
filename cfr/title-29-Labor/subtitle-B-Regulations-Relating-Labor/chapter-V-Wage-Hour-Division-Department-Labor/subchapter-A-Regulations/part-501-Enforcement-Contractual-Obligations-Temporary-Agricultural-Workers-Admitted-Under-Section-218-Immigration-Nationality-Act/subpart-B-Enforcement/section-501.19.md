@@ -1,7 +1,5 @@
 ##### § 501.19 Civil money penalty assessment. #####
 
-Link to an amendment published at 89 FR 1815, Jan. 11, 2024.
-
 (a) A civil money penalty may be assessed by the WHD Administrator for each violation of the work contract, or the obligations imposed by 8 U.S.C. 1188, 20 CFR part 655, subpart B, or this part. Each failure to pay an individual worker properly or to honor the terms or conditions of a worker's employment required by 8 U.S.C. 1188, 20 CFR part 655, subpart B, or this part constitutes a separate violation.
 
 (b) In determining the amount of penalty to be assessed for each violation, the WHD Administrator shall consider the type of violation committed and other relevant factors. The factors that the WHD Administrator may consider include, but are not limited to, the following:
@@ -20,7 +18,7 @@ Link to an amendment published at 89 FR 1815, Jan. 11, 2024.
 
 (7) The extent to which the violator achieved a financial gain due to the violation(s), or the potential financial loss or potential injury to the worker(s).
 
-(c) A civil money penalty for each violation of the work contract or a requirement of 8 U.S.C. 1188, 20 CFR part 655, subpart B, or this part will not exceed $2,045 per violation, with the following exceptions:
+(c) A civil money penalty for each violation of the work contract or a requirement of 8 U.S.C. 1188, 20 CFR part 655, subpart B, or this part will not exceed $2,111 per violation, with the following exceptions:
 
 (1) A civil money penalty for each willful violation of the work contract or a requirement of 8 U.S.C. 1188, 20 CFR part 655, subpart B, or this part, or for each act of discrimination prohibited by § 501.4 shall not exceed $7,104;
 

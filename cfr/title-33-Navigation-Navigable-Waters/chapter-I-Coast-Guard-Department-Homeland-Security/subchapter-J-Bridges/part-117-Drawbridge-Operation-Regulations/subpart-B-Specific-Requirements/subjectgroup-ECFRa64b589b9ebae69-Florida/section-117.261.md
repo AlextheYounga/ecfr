@@ -1,7 +1,5 @@
 ##### § 117.261 Atlantic Intracoastal Waterway from St. Marys River to Key Largo. #####
 
-Link to an amendment published at 89 FR 7288, Feb. 2, 2024.
-
 (a) *General.* Public vessels of the United States and tugs with tows must be passed through the drawspan of each drawbridge listed in this section at anytime.
 
 (b)-(c) [Reserved]
@@ -28,7 +26,9 @@ Link to an amendment published at 89 FR 7288, Feb. 2, 2024.
 
 (n) *A1A North Causeway Bridge, mile 964.8 at Fort Pierce.* The draw shall open on the hour and half-hour.
 
-(o)-(p) [Reserved]
+(o) [Reserved]
+
+(p) *Indiantown Road Bridge, mile 1006.2, at Jupiter.* The draw shall open on the hour and half hour except that the draw need not open daily from 7 to 9 a.m. and 4 to 6 p.m.
 
 (q) *Indiantown Road bridge, mile 1006.2.* The draw shall open on the hour and half-hour.
 
@@ -116,4 +116,4 @@ Link to an amendment published at 89 FR 7288, Feb. 2, 2024.
 
 (pp)—(ss) [Reserved]
 
-[CGD7-84-29, 50 FR 51248, Dec. 16, 1985]Editorial Note:For Federal Register citations affecting § 117.261, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[CGD7-84-29, 50 FR 51248, Dec. 16, 1985]Editorial Note:For Federal Register citations affecting § 117.261, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:By USCG-2023-0652, 89 FR 7288, Feb. 2, 2024, § 117.261 was amended by adding paragraph (p) and staying paragraph (q), effective Feb. 5, 2024 through Aug. 31, 2025.

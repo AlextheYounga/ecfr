@@ -1,7 +1,5 @@
 ##### § 571.5 Matter incorporated by reference. #####
 
-Link to an amendment published at 88 FR 84586, Dec. 5, 2023.
-
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the National Highway Traffic Safety Administration (NHTSA) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at NHTSA and at the National Archives and Records Administration (NARA). Contact NHTSA at: NHTSA, 1200 New Jersey Avenue SE, Washington, DC 20590, (202) 366-2588, website: *https://www.nhtsa.gov/about-nhtsa/electronic-reading-room*. For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html*. The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) American Association of Textile Chemists and Colorists (AATCC), 1 Davis Dr., P.O. Box 12215, Research Triangle Park, NC 27709. Web site: *https://www.aatcc.org.*
@@ -9,6 +7,8 @@ Link to an amendment published at 88 FR 84586, Dec. 5, 2023.
 (1) AATCC Test Method 30-1981, “Fungicides, Evaluation on Textiles: Mildew and Rot Resistance of Textiles,” into § 571.209.
 
 (2) AATCC Gray Scale for Evaluating Change in Color into §§ 571.209; 571.213.
+
+(3) AATCC Evaluation Procedure (EP) 1-2007, Gray Scale for Color Change, reaffirmed 2007; into § 571.213b.
 
 (c) American National Standards Institute (ANSI), 1899 L St., NW., 11th floor, Washington, DC 20036. Telephone: (202) 293-8020; Fax: (202) 293-9287; Web site: *https://www.ansi.org.* Copies of ANSI/RESNA Standard WC/Vol.1-1998 Section 13 may also be obtained from Rehabilitation Engineering and Assistive Technology Society of North America (RESNA), 1700 North Moore St., Suite 1540, Arlington, VA 22209-1903. Telephone: (703) 524-6686; Web site *https://www.resna.org.*
 
@@ -54,7 +54,7 @@ Link to an amendment published at 88 FR 84586, Dec. 5, 2023.
 
 (15) ASTM D1003-92, “Standard Test Method for Haze and Luminous Transmittance of Transparent Plastics,” approved October 15, 1992, into § 571.108.
 
-(16) ASTM D1056-07, “Standard Specification for Flexible Cellular Materials—Sponge or Expanded Rubber,” approved March 1, 2007, into § 571.213.
+(16) ASTM D1056-07, *Standard Specification for Flexible Cellular Materials-Sponge or Expanded Rubber,* approved March 1, 2007; into §§ 571.213; 571.213b.
 
 (17) ASTM D1121-67, “Standard Method of Test for Reserve Alkalinity of Engine Antifreezes and Antirusts,” accepted June 12, 1967, into § 571.116.
 
@@ -66,39 +66,41 @@ Link to an amendment published at 88 FR 84586, Dec. 5, 2023.
 
 (21) ASTM D2515-66, “Standard Specification for Kinematic Glass Viscometers,” adopted 1966, into § 571.116.
 
-(22) ASTM D4329-99, “Standard Practice for Fluorescent UV Exposure of Plastics,” approved January 10, 1999, into § 571.106.
+(22) ASTM D3574-11, *Standard Test Methods for Flexible Cellular Materials—Slab, Bonded, and Molded Urethane Foams,* approved December 1, 2011; into § 571.213b.
 
-(23) ASTM D4956-90, “Standard Specification for Retroreflective Sheeting for Traffic Control,” approved October 26, 1990, into § 571.108.
+(23) ASTM D4329-99, “Standard Practice for Fluorescent UV Exposure of Plastics,” approved January 10, 1999, into § 571.106.
 
-(24) ASTM E1-68, “Standard Specifications for ASTM Thermometers” (including tentative revisions), accepted September 13, 1968, into § 571.116.
+(24) ASTM D4956-90, “Standard Specification for Retroreflective Sheeting for Traffic Control,” approved October 26, 1990, into § 571.108.
 
-(25) ASTM E4-79, “Standard Methods of Load Verification of Testing Machines,” approved June 11, 1979, into § 571.209.
+(25) ASTM E1-68, “Standard Specifications for ASTM Thermometers” (including tentative revisions), accepted September 13, 1968, into § 571.116.
 
-(26) ASTM E4-03, “Standard Practices for Force Verification of Testing Machines,” approved August 10, 2003, into § 571.106.
+(26) ASTM E4-79, “Standard Methods of Load Verification of Testing Machines,” approved June 11, 1979, into § 571.209.
 
-(27) ASTM E8-89, “Standard Test Methods of Tension Testing of Metallic Materials,” approved May 15, 1989, into § 571.221.
+(27) ASTM E4-03, “Standard Practices for Force Verification of Testing Machines,” approved August 10, 2003, into § 571.106.
 
-(28) ASTM E77-66, “Standard Method for Inspection, Test, and Standardization of Etched-Stem Liquid-in-Glass Thermometers,” revised 1966, into § 571.116.
+(28) ASTM E8-89, “Standard Test Methods of Tension Testing of Metallic Materials,” approved May 15, 1989, into § 571.221.
 
-(29) ASTM E274-65T, “Tentative Method of Test for Skid Resistance of Pavements Using a Two-Wheel Trailer,” issued 1965, into §§ 571.208; 571.301.
+(29) ASTM E77-66, “Standard Method for Inspection, Test, and Standardization of Etched-Stem Liquid-in-Glass Thermometers,” revised 1966, into § 571.116.
 
-(30) ASTM E274-70, “Standard Method of Test for Skid Resistance of Paved Surfaces Using a Full-Scale Tire,” revised July 1974, into §§ 571.105; 571.122a.
+(30) ASTM E274-65T, “Tentative Method of Test for Skid Resistance of Pavements Using a Two-Wheel Trailer,” issued 1965, into §§ 571.208; 571.301.
 
-(31) ASTM E298-68, “Standard Methods for Assay of Organic Peroxides,” effective September 13, 1968, into § 571.116.
+(31) ASTM E274-70, “Standard Method of Test for Skid Resistance of Paved Surfaces Using a Full-Scale Tire,” revised July 1974, into §§ 571.105; 571.122a.
 
-(32) ASTM E308-66, “Standard Practice for Spectrophotometry and Description of Color in CIE 1931 System,” reapproved 1981, into § 571.108.
+(32) ASTM E298-68, “Standard Methods for Assay of Organic Peroxides,” effective September 13, 1968, into § 571.116.
 
-(33) [Reserved]
+(33) ASTM E308-66, “Standard Practice for Spectrophotometry and Description of Color in CIE 1931 System,” reapproved 1981, into § 571.108.
 
-(34) ASTM E1337-19, “Standard Test Method for Determining Longitudinal Peak Braking Coefficient (PBC) of Paved Surfaces Using Standard Reference Test Tire,” approved December 1, 2019, into §§ 571.105; 571.121; 571.122; 571.126; 571.135; 571.136; 571.500.
+(34) [Reserved]
 
-(35) ASTM F1805-20, “Standard Test Method for Single Wheel Driving Traction in a Straight Line on Snow- and Ice-Covered Surfaces,” approved May 1, 2020; into § 571.139.
+(35) ASTM E1337-19, “Standard Test Method for Determining Longitudinal Peak Braking Coefficient (PBC) of Paved Surfaces Using Standard Reference Test Tire,” approved December 1, 2019, into §§ 571.105; 571.121; 571.122; 571.126; 571.135; 571.136; 571.500.
 
-(36) ASTM G23-81, “Standard Practice for Generating Light-Exposure Apparatus (Carbon-Arc Type) With and Without Water for Exposure of Nonmetallic Materials,” approved March 26, 1981, into § 571.209.
+(36) ASTM F1805-20, “Standard Test Method for Single Wheel Driving Traction in a Straight Line on Snow- and Ice-Covered Surfaces,” approved May 1, 2020; into § 571.139.
 
-(37) ASTM G151-97, “Standard Practice for Exposing Nonmetallic Materials in Accelerated Test Devices that Use Laboratory Light Sources,” approved July 10, 1997, into § 571.106.
+(37) ASTM G23-81, “Standard Practice for Generating Light-Exposure Apparatus (Carbon-Arc Type) With and Without Water for Exposure of Nonmetallic Materials,” approved March 26, 1981, into § 571.209.
 
-(38) ASTM G154-00, “Standard Practice for Operating Fluorescent Light Apparatus for UV Exposure of Nonmetallic Materials,” approved February 10, 2000, into § 571.106.
+(38) ASTM G151-97, “Standard Practice for Exposing Nonmetallic Materials in Accelerated Test Devices that Use Laboratory Light Sources,” approved July 10, 1997, into § 571.106.
+
+(39) ASTM G154-00, “Standard Practice for Operating Fluorescent Light Apparatus for UV Exposure of Nonmetallic Materials,” approved February 10, 2000, into § 571.106.
 
 (e) Department of Defense, DODSSP Standardization Document Order Desk, 700 Robbins Ave., Philadelphia, PA 19111-5098. Web site: *https://dodssp.daps.dla.mil/.*
 
@@ -154,15 +156,19 @@ Link to an amendment published at 88 FR 84586, Dec. 5, 2023.
 
 (5) “Parts List and Drawings, NHTSA Standard Seat Assembly; FMVSS No. 213a—Side impact No. NHTSA-213a-2021, CHILD SIDE IMPACT SLED” dated December 2021; into § 571.213a.
 
+(6) NHTSA Standard Seat Assembly; FMVSS No. 213, No. NHTSA-213-2021, *Parts List and Drawings, NHTSA Standard Seat Assembly; FMVSS No. 213, No. NHTSA-213-2021, Child Frontal Impact Sled,* March 2023; into § 571.213b.
+
+(7) Drawing No. 210-5000-1 (L), -2(R), Leg Assembly, *Parts List and Drawings, Subpart P Hybrid III 3-year-old child crash test dummy, (H-III3C, Alpha version),* September 2001, Drawing No. 210-5000-1(L), -2(R), Leg Assembly; into § 571.213b.
+
 (l) SAE International, 400 Commonwealth Drive, Warrendale, PA 15096. Telephone: (724) 776-4841; Web site: *https://www.sae.org.*
 
 (1) SAE Recommended Practice J100-1995, “Class ‘A’ Vehicle Glazing Shade Bands,” revised June 1995, into § 571.205.
 
 (2) SAE Recommended Practice J211a, “Instrumentation for Impact Tests,” revised December 1971, into § 571.222.
 
-(3) SAE Recommended Practice J211, “Instrumentation for Impact Tests,” revised June 1980, into §§ 571.213; 571.218.
+(3) SAE Recommended Practice J211, *Instrumentation for Impact Tests,* revised June 1980; into § 571.218.
 
-(4) SAE Recommended Practice J211/1, “Instrumentation for Impact Tests-Part 1—Electronic Instrumentation”; revised March 1995; into §§ 571.202a; 571.208; 571.213a; 571.218; 571.403.
+(4) SAE Recommended Practice J211/1, *Instrumentation for Impact Tests—Part 1—Electronic Instrumentation;* revised March 1995; §§ 571.202a; 571.208; 571.213; 571.213a; 571.213b; 571.218; 571.403.
 
 (5) SAE Recommended Practice J211-1 DEC2003, “Instrumentation for Impact Test—Part 1—Electronic Instrumentation,” revised December 2003, into §§ 571.206; 571.209.
 
@@ -262,4 +268,4 @@ Link to an amendment published at 88 FR 84586, Dec. 5, 2023.
 
 (2) UNECE Regulation 48 “Uniform Provisions Concerning the Approval of Vehicles With Regard to the Installation of Lighting and Light-Signaling Devices,” E/ECE/324-E/ECE/TRANS/505, Rev.1/Add.47/Rev.1/Corr.2 (February 26, 1996), into § 571.108.
 
-[77 FR 752, Jan. 6, 2012, as amended at 77 FR 11647, Feb. 27, 2012; 77 FR 51671, Aug. 24, 2012; 78 FR 21852, Apr. 12, 2013; 79 FR 19243, Apr. 7, 2014; 80 FR 36100, June 23, 2015; 81 FR 90514, Dec. 14, 2016; 87 FR 34808, June 8, 2022; 87 FR 39309, Aug. 1, 2022]
+[77 FR 752, Jan. 6, 2012, as amended at 77 FR 11647, Feb. 27, 2012; 77 FR 51671, Aug. 24, 2012; 78 FR 21852, Apr. 12, 2013; 79 FR 19243, Apr. 7, 2014; 80 FR 36100, June 23, 2015; 81 FR 90514, Dec. 14, 2016; 87 FR 34808, June 8, 2022; 87 FR 39309, Aug. 1, 2022; 88 FR 84586, Dec. 5, 2023]

@@ -1,19 +1,15 @@
 ##### § 240.13d-101 Schedule 13D—Information to be included in statements filed pursuant to § 240.13d-1(a) and amendments thereto filed pursuant to § 240.13d-2(a). #####
 
-Link to an amendment published at 88 FR 76984, Nov. 7, 2023.Securities and Exchange Commission, Washington, D.C. 20549Schedule 13DUnder the Securities Exchange Act of 1934(Amendment No.\_\_)\*(Name of Issuer)(Title of Class of Securities)(CUSIP Number)(Name, Address and Telephone Number of Person Authorized to Receive Notices and Communications)(Date of Event Which Requires Filing of This Statement)
+Securities and Exchange Commission, Washington, D.C. 20549Schedule 13DUnder the Securities Exchange Act of 1934(Amendment No.\_\_)\*(Name of Issuer)(Title of Class of Securities)(CUSIP Number)(Name, Address and Telephone Number of Person Authorized to Receive Notices and Communications)(Date of Event Which Requires Filing of This Statement)
 
 If the filing person has previously filed a statement on Schedule 13G to report the acquisition that is the subject of this Schedule 13D, and is filing this schedule because of §§ 240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check the following box. □
-
-Note:
-
-Schedules filed in paper format shall include a signed original and five copies of the schedule, including all exhibits. See Rule 13d-7 for other parties to whom copies are to be sent.
 
 \* The remainder of this cover page shall be filled out for a reporting person's initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information which would alter disclosures provided in a prior cover page.
 
 The information required on the remainder of this cover page shall not be deemed to be “filed” for the purpose of section 18 of the Securities Exchange Act of 1934 (“Act”) or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however, see the Notes).
 
 |                                  CUSIP No.\_\_\_\_\_\_                                  |   |
-|:---------------------------------------------------------------------------------------:|---|
+|-----------------------------------------------------------------------------------------|---|
 |                             (1) Names of reporting persons                              |   |
 |                  (2) Check the appropriate box if a member of a group                   |(a)|
 |                                   (see instructions)                                    |(b)|
@@ -156,7 +152,7 @@ C. If the statement is filed by a general or limited partnership, syndicate, or 
 
 *Instruction.* For computations regarding securities which represent a right to acquire an underlying security, see Rule 13d-3(d)(1) and the note thereto.
 
-*Item 6. Contracts, Arrangements, Understandings or Relationships With Respect to Securities of the Issuer.* Describe any contracts, arrangements, understandings or relationships (legal or otherwise) among the persons named in Item 2 and between such persons and any person with respect to any securities of the issuer, including but not limited to transfer or voting of any of the securities, finder's fees, joint ventures, loan or option arrangements, puts or calls, guarantees of profits, division of profits or loss, or the giving or withholding of proxies, naming the persons with whom such contracts, arrangements, understandings or relationships have been entered into. Include such information for any of the securities that are pledged or otherwise subject to a contingency the occurrence of which would give another person voting power or investment power over such securities except that disclosure of standard default and similar provisions contained in loan agreements need not be included.
+*Item 6. Contracts, Arrangements, Understandings or Relationships With Respect to Securities of the Issuer.* Describe any contracts, arrangements, understandings, or relationships (legal or otherwise) among the persons named in Item 2 and between such persons and any person with respect to any securities of the issuer, including any class of such issuer's securities used as a reference security, in connection with any of the following: call options, put options, security-based swaps or any other derivative securities, transfer or voting of any of the securities, finder's fees, joint ventures, loan or option arrangements, guarantees of profits, division of profits or loss, or the giving or withholding of proxies, naming the persons with whom such contracts, arrangements, understandings, or relationships have been entered into. Include such information for any of the securities that are pledged or otherwise subject to a contingency the occurrence of which would give another person voting power or investment power over such securities except that disclosure of standard default and similar provisions contained in loan agreements need not be included.
 
 *Item 7. Material to be Filed as Exhibits.* The following shall be filed as exhibits: Copies of written agreements relating to the filing of joint acquisition statements as required by Rule 13d-1(k) and copies of all written agreements, contracts, arrangements, understanding, plans or proposals relating to: (1) The borrowing of funds to finance the acquisition as disclosed in Item 3; (2) the acquisition of issuer control, liquidation, sale of assets, merger, or change in business or corporate structure, or any other matter as disclosed in Item 4; and (3) the transfer or voting of the securities, finder's fees, joint ventures, options, puts, calls, guarantees of loans, guarantees against loss or of profit, or the giving or withholding of any proxy as disclosed in Item 6.
 
@@ -164,8 +160,8 @@ C. If the statement is filed by a general or limited partnership, syndicate, or 
 
 DateSignatureName/Title
 
-The original statement shall be signed by each person on whose behalf the statement is filed or his authorized representative. If the statement is signed on behalf of a person by his authorized representative (other than an executive officer or general partner of the filing person), evidence of the representative's authority to sign on behalf of such person shall be filed with the statement: *Provided, however,* That a power of attorney for this purpose which is already on file with the Commission may be incorporated by reference. The name and any title of each person who signs the statement shall be typed or printed beneath his signature.
+The original statement shall be signed by each person on whose behalf the statement is filed or such person's authorized representative. If the statement is signed on behalf of a person by such person's authorized representative (other than an executive officer or general partner of the filing person), evidence of the representative's authority to sign on behalf of such person shall be filed with the statement; *provided, however,* that a power of attorney for this purpose which is already on file with the Commission may be incorporated by reference. The name and any title of each person who signs the statement shall be typed or printed beneath such person's signature.
 
 Attention—Intentional misstatements or omissions of fact constitute Federal criminal violations (See 18 U.S.C. 1001).
 
-[44 FR 2145, Jan. 9, 1979; 44 FR 11751, Mar. 2, 1979; 44 FR 70340, Dec. 6, 1979; 47 FR 11466, Mar. 16, 1982; 61 FR 49959, Sept. 24, 1996; 62 FR 35340, July 1, 1997; 63 FR 2867, Jan. 16, 1998; 63 FR 15287, Mar. 31, 1998; 72 FR 45111, Aug. 10, 2007; 73 FR 17813, Apr. 1, 2008]
+[44 FR 2145, Jan. 9, 1979; 44 FR 11751, Mar. 2, 1979; 44 FR 70340, Dec. 6, 1979; 47 FR 11466, Mar. 16, 1982; 61 FR 49959, Sept. 24, 1996; 62 FR 35340, July 1, 1997; 63 FR 2867, Jan. 16, 1998; 63 FR 15287, Mar. 31, 1998; 72 FR 45111, Aug. 10, 2007; 73 FR 17813, Apr. 1, 2008; 88 FR 76984, Nov. 7, 2023]
