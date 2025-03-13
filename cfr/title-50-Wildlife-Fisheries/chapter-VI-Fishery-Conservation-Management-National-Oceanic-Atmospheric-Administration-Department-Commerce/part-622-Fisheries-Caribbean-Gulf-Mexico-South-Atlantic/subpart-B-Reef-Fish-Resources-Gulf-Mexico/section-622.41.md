@@ -1,7 +1,5 @@
 ##### § 622.41 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
-Link to an amendment published at 89 FR 41899, May 14, 2024.
-
 (a) *Greater amberjack*—(1) *Commercial sector.* (i) If commercial landings, as estimated by the SRD, reach or are projected to reach the annual catch target (ACT) specified in § 622.39(a)(1)(v)(commercial quota), the Assistant Administrator for Fisheries, NOAA, (AA) will file a notification with the Office of the Federal Register to close the commercial sector for the remainder of the fishing year.
 
 (ii) In addition to the measures specified in paragraph (a)(1)(i) of this section, if commercial landings, as estimated by the SRD, exceed the commercial ACL, as specified in (a)(1)(iii) of this section, the AA will file a notification with the Office of the Federal Register, at or near the beginning of the following fishing year to reduce the commercial ACT (commercial quota) and the commercial ACL for that following year by the amount of any commercial ACL overage in the prior fishing year.
@@ -82,7 +80,7 @@ Link to an amendment published at 89 FR 41899, May 14, 2024.
 
 (k) *Lane snapper.* If the sum of the commercial and recreational landings, as estimated by the SRD, reaches or is projected to reach the stock ACL, as specified in this paragraph (k), the AA will file a notification with the Office of the Federal Register to close the commercial and recreational sectors for the remainder of the fishing year. The stock ACL for lane snapper is 1,028,973 lb (466,734 kg), round weight.
 
-(l) *Gray snapper.* If the sum of the commercial and recreational landings, as estimated by the SRD, exceeds the stock ACL, then during the following fishing year, if the sum of commercial and recreational landings reaches or is projected to reach the stock ACL, the AA will file a notification with the Office of the Federal Register to close the commercial and recreational sectors for the remainder of that fishing year. The stock ACL for gray snapper, in round weight, is 2.24 million lb (1.02 million kg) for the 2020 fishing year, and 2.23 million lb (1.01 million kg) for the 2021 and subsequent fishing years.
+(l) *Gray snapper.* If the sum of the commercial and recreational landings, as estimated by the SRD, exceeds the stock ACL, then during the following fishing year, if the sum of commercial and recreational landings reaches or is projected to reach the stock ACL, the AA will file a notification with the Office of the Federal Register to close the commercial and recreational sectors for the remainder of that fishing year. The stock ACL for gray snapper is 5.728 million lb (2.598 million kg), round weight.
 
 (m) *Cubera snapper.* If the sum of the commercial and recreational landings, as estimated by the SRD, exceeds the stock ACL, then during the following fishing year, if the sum of commercial and recreational landings reaches or is projected to reach the stock ACL, the AA will file a notification with the Office of the Federal Register to close the commercial and recreational sectors for the remainder of that fishing year. The stock ACL for cubera snapper is 5,065 lb (2,297 kg), round weight.
 

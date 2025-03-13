@@ -1,6 +1,6 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 89 FR 11547, Feb. 14, 2024.Link to an amendment published at 89 FR 28962, Apr. 19, 2024.Link to an amendment published at 89 FR 37942, May 6, 2024.
+Link to an amendment published at 89 FR 28962, Apr. 19, 2024.Link to an amendment published at 89 FR 37942, May 6, 2024.
 
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows—
 
@@ -821,6 +821,12 @@ For purposes of this part, words shall be defined as provided for in section 321
 *Portable electric heater* means an electric heater which is intended to stand unsupported, and can be moved from place to place within a structure. It is connected to electric supply by means of a cord and plug, and transfers heat by radiation and/or convention (either natural or forced).
 
 *Portable electric spa* means a factory-built electric spa or hot tub, supplied with equipment for heating and circulating water at the time of sale or sold separately for subsequent attachment.
+
+*Portable indoor conventional cooking top* means a conventional cooking top designed—
+
+(1) For indoor use; and
+
+(2) To be moved from place to place.
 
 *Pot filler* means a terminal fitting that can accommodate only a single supply water inlet, with an articulated arm or the equivalent that allows the product to reach to fill vessels when in use and allows the product to be retracted when not in use.
 
