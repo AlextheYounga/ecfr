@@ -1,5 +1,7 @@
 ##### § 731.103 Delegation to agencies. #####
 
+Link to an amendment published at 88 FR 60330, Sept. 1, 2023.
+
 (a) Subject to the limitations and requirements of paragraphs (f) and (g) of this section, OPM delegates to the heads of agencies authority for making suitability determinations and taking suitability actions (including limited, agency-specific debarments under § 731.205) in cases involving *applicants* for and *appointees* to covered positions in the agency.
 
 (b) When an agency, acting under delegated authority from OPM, determines that a Governmentwide debarment by OPM under § 731.204(a) may be an appropriate action, it must refer the case to OPM for debarment consideration. Agencies must make these referrals prior to any proposed suitability action, but only after sufficient resolution of the suitability issue(s), through subject contact or investigation, to determine if a Governmentwide debarment appears warranted.

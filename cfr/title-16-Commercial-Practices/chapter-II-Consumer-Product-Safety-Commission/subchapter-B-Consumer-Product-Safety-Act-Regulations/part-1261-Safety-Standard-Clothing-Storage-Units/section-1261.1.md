@@ -1,11 +1,5 @@
-##### § 1261.1 Scope, purpose, application, and exemptions. #####
+##### § 1261.1 Scope and purpose. #####
 
-(a) *Scope and purpose.* This part, a consumer product safety standard, prescribes the safety requirements, including labeling and hang tag requirements, for clothing storage units, as defined in § 1261.2(a). The requirements in this part are intended to reduce or eliminate an unreasonable risk of death or injury to consumers from clothing storage unit tip overs.
+(a) *Scope and purpose.* This part, a consumer product safety standard, prescribes safety requirements for clothing storage units, as defined in paragraph (b) of this section. The requirements in this part are intended to protect children up to 72 months of age from tip-over-related death or injury.
 
-(b) *Application.* Except as provided in paragraph (c) of this section, all clothing storage units that are manufactured after May 24, 2023, are subject to the requirements of this part.
-
-(c) *Exemptions.* The following products are exempt from this part:
-
-(1) Clothes lockers, as defined in § 1261.2(b); and
-
-(2) Portable storage closets, as defined in § 1261.2(t).
+(b) *Application.* Clothing storage unit means any free-standing furniture item manufactured in the United States or imported for use in the United States that is intended for the storage of clothing, typical of bedroom furniture. All clothing storage units that are manufactured after September 1, 2023, are subject to the requirements of this part.

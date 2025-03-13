@@ -18,15 +18,15 @@
 
 (C) *Calculating the living donor SAC.*—(*1*) *Initial living donor SAC.* A TH calculates its initial living donor SAC for each living donor organ type as follows:
 
-(i) By estimating the reasonable and necessary organ acquisition costs it expects to incur for services furnished to living donors, and pre-admission services furnished to recipients of living donor organs during the hospital's cost reporting period.
+(*i*) By estimating the reasonable and necessary organ acquisition costs it expects to incur for services furnished to living donors, and pre-admission services furnished to recipients of living donor organs during the hospital's cost reporting period.
 
-(ii) By dividing the estimated amount described in paragraph (b)(3)(i)(C)(1)(i) of this section by the projected number of usable living donor organs to be procured by the TH during the TH's cost reporting period.
+(*ii*) By dividing the estimated amount described in paragraph (b)(3)(i)(C)(*1*)(*i*) of this section by the projected number of usable living donor organs to be procured by the TH during the TH's cost reporting period.
 
-(2) *Subsequent living donor SAC.* A TH calculates its subsequent years' living donor SAC for each living donor organ type as follows:
+(*2*) *Subsequent living donor SAC.* A TH calculates its subsequent years' living donor SAC for each living donor organ type as follows:
 
-(i) By using the TH's actual organ acquisition costs for the living donor organ type from the prior year's Medicare cost report, adjusted for any changes in the current year.
+(*i*) By using the TH's actual organ acquisition costs for the living donor organ type from the prior year's Medicare cost report, adjusted for any changes in the current year.
 
-(ii) Dividing the costs in paragraph (b)(3)(i)(C)(2)(i) of this section by the actual number of usable living donor organs procured by the TH during that prior cost reporting period.
+(*ii*) Dividing the costs in paragraph (b)(3)(i)(C)(*2*)(*i*) of this section by the actual number of usable living donor organs procured by the TH during that prior cost reporting period.
 
 (D) *Costs used to develop the living donor SAC.* Costs that may be used to develop the living donor SAC include, but are not limited to the following:
 
@@ -46,21 +46,27 @@
 
 (*8*) Transportation costs of the excised organ as specified in § 413.402(b)(8)(i) of this subpart.
 
-(ii) *Deceased donor SAC for TH/HOPOs*—(A) Definition. The deceased donor SAC is an average cost that a TH/HOPO incurs to procure a deceased donor organ.
+(ii) *Deceased donor SAC for TH/HOPOs*—(A) *Definition.* The deceased donor SAC is an average cost that a TH/HOPO incurs to procure a deceased donor organ.
 
-(B) *Calculating the deceased donor SAC*—(1) Initial deceased donor SAC. A TH/HOPO calculates its initial deceased donor SAC for each deceased donor organ type as follows:
+(B) *Calculating the deceased donor SAC*—(*1*)—*Initial deceased donor SAC.* A TH/HOPO calculates its initial deceased donor SAC for each deceased donor organ type as follows:
 
-(i) By estimating the reasonable and necessary costs it expects to incur to procure deceased donor organs, combined with the expected costs of acquiring deceased donor organs from OPOs or other THs.
+(*i*) By estimating the reasonable and necessary costs it expects to incur to procure deceased donor organs, combined with the expected costs of acquiring deceased donor organs from OPOs or other THs.
 
-(ii) By dividing the estimated amount described in paragraph (b)(3)(ii)(B)(1)(i) of this section by the projected number of usable deceased donor organs to be procured by the TH/HOPO within the TH's cost reporting period.
+(*ii*) By dividing the estimated amount described in paragraph (b)(3)(ii)(B)(*1*)(*i*) of this section by the projected number of usable deceased donor organs to be procured by the TH/HOPO within the TH's cost reporting period.
+
+(*2*) *Subsequent deceased donor SAC.* A TH/HOPO calculates its subsequent years' deceased donor SAC for each deceased donor organ type as follows:
+
+(*i*) By using the TH's actual organ acquisition costs for the deceased donor organ type from the prior year's Medicare cost report, adjusted for any changes in the current year.
+
+(*ii*) By dividing the costs in paragraph (b)(3)(ii)(B)( *2*)(*i*) of this section by the actual number of usable deceased donor organs procured by the TH/HOPO during that prior cost reporting period.
 
 (C) *Costs to develop the deceased donor SAC.* Costs that may be used to develop the deceased donor SAC include, but are not limited to the following:
 
-(1) Costs of organs acquired from other THs or OPOs.
+(*1*) Costs of organs acquired from other THs or OPOs.
 
-(2) Costs of transportation as specified in § 413.402(b)(8).
+(*2*) Costs of transportation as specified in § 413.402(b)(8).
 
-(3) Surgeons' fees for excising deceased donor organs (currently limited to $1,250 for kidneys).
+(*3*) Surgeons' fees for excising deceased donor organs (currently limited to $1,250 for kidneys).
 
 (c) *Independent OPO SACs*—(1) *Non-renal SAC.* An IOPO establishes non-renal SACs based on its costs of procuring non-renal organs for each organ type, by—
 
@@ -70,11 +76,9 @@
 
 (iii) An IOPO may adjust its non-renal SACs during the year if necessary to account for cost changes.
 
-(2) *Kidney SAC.* (i) General. An IOPO's contractor establishes the kidney SAC based on an estimate of,
-initial year projected or subsequent years' actual, reasonable and necessary costs the IOPO expects to incur to procure deceased donor kidneys during the IOPO's cost reporting period, divided by the, initial year projected or subsequent years' actual, number of usable deceased donor kidneys the IOPO expects to procure.
+(2) *Kidney SAC.* (i) *General.* An IOPO's contractor establishes the kidney SAC based on an estimate of, initial year projected or subsequent years' actual, reasonable and necessary costs the IOPO expects to incur to procure deceased donor kidneys during the IOPO's cost reporting period, divided by the, initial year projected or subsequent years' actual, number of usable deceased donor kidneys the IOPO expects to procure.
 
-(ii) *Initial year.* The contractor develops the IOPO's initial kidney SAC based on the
-IOPO's budget information.
+(ii) *Initial year.* The contractor develops the IOPO's initial kidney SAC based on the IOPO's budget information.
 
 (iii) *Subsequent years.* The contractor computes the kidney SAC for subsequent years using the IOPO's costs related to kidney acquisition that were incurred in the prior cost reporting period and dividing those costs by the number of usable deceased donor kidneys procured during that cost reporting period. The kidney SAC amount is the interim payment made by the TH or other OPO to the IOPO, as set forth in § 413.420(d)(1).
 
@@ -84,4 +88,4 @@ IOPO's budget information.
 
 (3) *Billing SACs for organs generally.* When an IOPO obtains an organ from another IOPO, the receiving IOPO is responsible for paying the procuring IOPO's SAC. The receiving IOPO uses its SAC for each organ type and not the procuring IOPO's SAC when billing the TH receiving the organ.
 
-[86 FR 73515, Dec. 27, 2021, as amended at 87 FR 72288, Nov. 3, 2022]
+[86 FR 73515, Dec. 27, 2021, as amended at 87 FR 72288, Nov. 23, 2022]
