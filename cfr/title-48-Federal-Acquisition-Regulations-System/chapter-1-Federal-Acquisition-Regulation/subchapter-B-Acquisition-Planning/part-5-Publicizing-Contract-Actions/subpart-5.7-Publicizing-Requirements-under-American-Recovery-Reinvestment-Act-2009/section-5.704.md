@@ -1,5 +1,7 @@
 ##### 5.704 Publicizing preaward. #####
 
+Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
+
 (a)(1) Follow the publication procedures at 5.201.
 
 (2) In addition, notices of proposed contract actions are required for orders exceeding $25,000, funded in whole or in part by the Recovery Act, which are issued under task or delivery order contracts. This does not include modifications to existing orders, but these modifications are covered postaward, see 5.705. These notices are for “informational purposes only,” therefore, 5.203 does not apply. Contracting officers should concurrently use their usual solicitation practice (*e.g.*, e-Buy).

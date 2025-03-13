@@ -1,5 +1,7 @@
 ##### 52.223-22 Public Disclosure of Greenhouse Gas Emissions and Reduction Goals—Representation. #####
 
+Link to an amendment published at 89 FR 30249, Apr. 22, 2024.
+
 As prescribed in 23.804(b), insert the following provision:
 
 Public Disclosure of Greenhouse Gas Emissions and Reduction Goals—Representation (DEC 2016)

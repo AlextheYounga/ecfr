@@ -1,5 +1,7 @@
 ##### 52.223-12 Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners. #####
 
+Link to an amendment published at 89 FR 30249, Apr. 22, 2024.
+
 As prescribed in 23.804(a)(2) , insert the following clause:
 
 Maintenance, Service, Repair, or Disposal of Refrigeration Equipment and Air Conditioners (JUN 2016)

@@ -1,5 +1,7 @@
 ##### 23.504 Policy. #####
 
+Link to an amendment published at 89 FR 30245, Apr. 22, 2024.
+
 (a) No offeror other than an individual shall be considered a responsible source (see 9.104-1(g) and 19.602-1(a)(2)(i)) for a contract that exceeds the simplified acquisition threshold, unless it agrees that it will provide a drug-free workplace by—
 
 (1) Publishing a statement notifying its employees that the unlawful manufacture, distribution, dispensing, possession, or use of a controlled substance is prohibited in the contractor's workplace, and specifying the actions that will be taken against employees for violations of such prohibition;

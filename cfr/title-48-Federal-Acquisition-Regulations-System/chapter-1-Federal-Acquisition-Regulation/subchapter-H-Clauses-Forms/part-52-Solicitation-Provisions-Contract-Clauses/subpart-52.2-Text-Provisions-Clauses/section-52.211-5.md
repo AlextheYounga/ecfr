@@ -1,5 +1,7 @@
 ##### 52.211-5 Material Requirements. #####
 
+Link to an amendment published at 89 FR 30246, Apr. 22, 2024.
+
 As prescribed in 11.304, insert the following clause:
 
 Material Requirements (AUG 2000)

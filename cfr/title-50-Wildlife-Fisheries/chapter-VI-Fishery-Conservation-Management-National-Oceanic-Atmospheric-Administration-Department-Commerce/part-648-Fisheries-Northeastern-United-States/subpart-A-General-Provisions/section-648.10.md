@@ -1,10 +1,6 @@
 ##### § 648.10 VMS and DAS requirements for vessel owners/operators. #####
 
-Link to an amendment published at 89 FR 20348, Mar. 22, 2024.
-
 (a) *VMS Demarcation Line.* The VMS Demarcation Line is defined by straight lines connecting the following coordinates in the order stated (a copy of a map showing the line is available from the Regional Administrator upon request):
-
-VMS Demarcation Line
 
 |                  Description                  |N. lat. |W. long.|
 |-----------------------------------------------|--------|--------|
@@ -90,7 +86,7 @@ VMS Demarcation Line
 
 (i) At least every hour, 24 hr a day, throughout the year; or
 
-(ii) At least twice per hour, 24 hr a day, throughout the year, for vessels issued a scallop permit.
+(ii) For vessels issued a Federal scallop permit and equipped with a VMS unit, at least once every 30 minutes, 24 hours a day, throughout the year, when not on a declared federal scallop trip or when shoreward of the VMS Demarcation Line. With the exception of vessels on a declared state waters exemption trip, all vessels issued a Federal scallop permit and equipped with a VMS unit shall be polled at a minimum of once every 5 minutes when on a declared federal scallop trip and seaward of the VMS Demarcation Line.
 
 (2) *Power-down exemption.* (i) Any vessel required to transmit the vessel's location at all times, as required in paragraph (c)(1) of this section, is exempt from this requirement if it meets one or more of the following conditions and requirements:
 
@@ -296,79 +292,64 @@ VMS Demarcation Line
 
 (i) *GOM Stock Area 1.* The GOM Stock Area 1 is bounded on the east by the U.S./Canadian maritime boundary and straight lines connecting the following points in the order stated:
 
-GOM Stock Area 1
-
-|Point| N. latitude  | W. longitude |
-|-----|--------------|--------------|
-| G1  |(<sup>1</sup>)|(<sup>1</sup>)|
-|CII3 |(<sup>1</sup>)|    67°20′    |
-| G6  |    42°20′    |    67°20′    |
-| G10 |    42°20′    |    70°00′    |
-| G9  |(<sup>2</sup>)|    70°00′    |
-
-<sup>1</sup> The intersection of the shoreline and the U.S.-Canada maritime boundary.
-
-<sup>2</sup> The intersection of the Cape Cod, MA, coastline and 70°00′ W. long.
+|                                        Point                                        | N. latitude  | W. longitude |
+|-------------------------------------------------------------------------------------|--------------|--------------|
+|                                         G1                                          |(<sup>1</sup>)|(<sup>1</sup>)|
+|                                        CII3                                         |(<sup>1</sup>)|    67°20′    |
+|                                         G6                                          |    42°20′    |    67°20′    |
+|                                         G10                                         |    42°20′    |    70°00′    |
+|                                         G9                                          |(<sup>2</sup>)|    70°00′    |
+|<sup>1</sup> The intersection of the shoreline and the U.S.-Canada maritime boundary.|              |              |
+|  <sup>2</sup> The intersection of the Cape Cod, MA, coastline and 70°00′ W. long.   |              |              |
 
 (ii) *Inshore GB Stock Area 2.* The inshore GB Stock Area is defined by straight lines connecting the following points in the order stated:
 
-Inshore GB Stock Area 2
-
-|Point| N. latitude  |W. longitude|
-|-----|--------------|------------|
-| G9  |(<sup>1</sup>)|   70°00′   |
-| G10 |    42°20′    |   70°00′   |
-|IGB1 |    42°20′    |   68°50′   |
-|IGB2 |    41°00′    |   68°50′   |
-|IGB3 |    41°00′    |   69°30′   |
-|IGB4 |    41°10′    |   69°30′   |
-|IGB5 |    41°10′    |   69°50′   |
-|IGB6 |    41°20′    |   69°50′   |
-|IGB7 |    41°20′    |   70°00′   |
-| G12 |(<sup>2</sup>)|   70°00′   |
-
-<sup>1</sup> The intersection of the Cape Cod, MA, coastline and 70°00′ W. long.
-
-<sup>2</sup> South-facing shoreline of Cape Cod, MA.
+|                                     Point                                      | N. latitude  |W. longitude|
+|--------------------------------------------------------------------------------|--------------|------------|
+|                                       G9                                       |(<sup>1</sup>)|   70°00′   |
+|                                      G10                                       |    42°20′    |   70°00′   |
+|                                      IGB1                                      |    42°20′    |   68°50′   |
+|                                      IGB2                                      |    41°00′    |   68°50′   |
+|                                      IGB3                                      |    41°00′    |   69°30′   |
+|                                      IGB4                                      |    41°10′    |   69°30′   |
+|                                      IGB5                                      |    41°10′    |   69°50′   |
+|                                      IGB6                                      |    41°20′    |   69°50′   |
+|                                      IGB7                                      |    41°20′    |   70°00′   |
+|                                      G12                                       |(<sup>2</sup>)|   70°00′   |
+|<sup>1</sup> The intersection of the Cape Cod, MA, coastline and 70°00′ W. long.|              |            |
+|              <sup>2</sup> South-facing shoreline of Cape Cod, MA.              |              |            |
 
 (iii) *Offshore GB Stock Area 3.* The Offshore GB Stock Area 3 is bounded on the east by the U.S./Canadian maritime boundary and defined by straight lines connecting the following points in the order stated:
 
-Offshore GB Stock Area 3
-
-|Point| N. latitude  | W. longitude |
-|-----|--------------|--------------|
-|IGB1 |    42°20′    |    68°50′    |
-| G6  |    42°20′    |    67°20′    |
-|CII3 |(<sup>1</sup>)|    67°20′    |
-|SNE2 |    39°00′    |(<sup>1</sup>)|
-|SNE3 |    39°00′    |    69°00′    |
-|SNE4 |    39°50′    |    69°00′    |
-|SNE5 |    39°50′    |    68°50′    |
-|IGB1 |    42°20′    |    68°50′    |
-
-<sup>1</sup> The U.S.-Canada maritime boundary as it intersects with the EEZ.
+|                                    Point                                    | N. latitude  | W. longitude |
+|-----------------------------------------------------------------------------|--------------|--------------|
+|                                    IGB1                                     |    42°20′    |    68°50′    |
+|                                     G6                                      |    42°20′    |    67°20′    |
+|                                    CII3                                     |(<sup>1</sup>)|    67°20′    |
+|                                    SNE2                                     |    39°00′    |(<sup>1</sup>)|
+|                                    SNE3                                     |    39°00′    |    69°00′    |
+|                                    SNE4                                     |    39°50′    |    69°00′    |
+|                                    SNE5                                     |    39°50′    |    68°50′    |
+|                                    IGB1                                     |    42°20′    |    68°50′    |
+|<sup>1</sup> The U.S.-Canada maritime boundary as it intersects with the EEZ.|              |              |
 
 (iv) *SNE/MA Stock Area 4.* The SNE/MA Stock Area 4 is the area bounded on the north and west by the coastline of the United States, bounded on the south by a line running from the east-facing coastline of North Carolina at 35° N. lat. until its intersection with the EEZ, and bounded on the east by straight lines connecting the following points in the order stated:
 
-SNE/MA Stock Area 4
-
-|Point| N. latitude  | W. longitude |
-|-----|--------------|--------------|
-| G12 |(<sup>1</sup>)|    70°00′    |
-|IGB7 |    41°20′    |    70°00′    |
-|IGB6 |    41°20′    |    69°50′    |
-|IGB5 |    41°10′    |    69°50′    |
-|IGB4 |    41°10′    |    69°30′    |
-|IGB3 |    41°00′    |    69°30′    |
-|IGB2 |    41°00′    |    68°50′    |
-|SNE4 |    39°50′    |    68°50′    |
-|SNE3 |    39°50′    |    69°00′    |
-|SNE5 |    39°00′    |    69°00′    |
-|SNE6 |    39°00′    |(<sup>2</sup>)|
-
-<sup>1</sup> South-facing shoreline of Cape Cod, MA.
-
-<sup>2</sup> The U.S.-Canada maritime boundary as it intersects with the EEZ.
+|                                    Point                                    | N. latitude  | W. longitude |
+|-----------------------------------------------------------------------------|--------------|--------------|
+|                                     G12                                     |(<sup>1</sup>)|    70°00′    |
+|                                    IGB7                                     |    41°20′    |    70°00′    |
+|                                    IGB6                                     |    41°20′    |    69°50′    |
+|                                    IGB5                                     |    41°10′    |    69°50′    |
+|                                    IGB4                                     |    41°10′    |    69°30′    |
+|                                    IGB3                                     |    41°00′    |    69°30′    |
+|                                    IGB2                                     |    41°00′    |    68°50′    |
+|                                    SNE4                                     |    39°50′    |    68°50′    |
+|                                    SNE3                                     |    39°50′    |    69°00′    |
+|                                    SNE5                                     |    39°00′    |    69°00′    |
+|                                    SNE6                                     |    39°00′    |(<sup>2</sup>)|
+|            <sup>1</sup> South-facing shoreline of Cape Cod, MA.             |              |              |
+|<sup>2</sup> The U.S.-Canada maritime boundary as it intersects with the EEZ.|              |              |
 
 (l) [Reserved]
 

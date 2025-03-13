@@ -1,5 +1,7 @@
 ##### 9.406-4 Period of debarment. #####
 
+Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
+
 (a)(1) Debarment shall be for a period commensurate with the seriousness of the cause(s). Generally, debarment should not exceed 3 years, except that—
 
 (i) Debarment for violation of the provisions of 41 U.S.C. chapter 81, Drug-Free Workplace (see 23.506) may be for a period not to exceed 5 years;

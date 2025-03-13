@@ -1,11 +1,21 @@
 ##### § 334.1110 Military Ocean Terminal Concord; restricted area. #####
 
-Link to an amendment published at 89 FR 20319, Mar. 22, 2024.
+(a) *The area.* (1) Beginning at point A on the shore west of the mouth of a small slough (known as Hastings Slough) and passing east of buoy R “6” bearing 60°30′ for 2,860 yards, through Point B on the eastern end of the two Seal Islands, to point C on the southern edge of the Roe Island Channel near buoy R “16A”; thence in a generally easterly direction running along the southern edge of the Roe Island Channel, Port Chicago Reach and Middle Ground West Reach (points D and E) to point F directly north of the eastern shore boundary (point G); thence 180° to point G on the shore line; thence following the high water shore line in a general westerly direction to the point of beginning. The coordinates for the points in paragraph (a)(1) of this section are provided in Table 1.
 
-(a) *The area.* Beginning at a point on the shore and on the easterly side of the mouth of a small slough (known as Hastings Slough) bearing 189°, 2,412 yards from Tripon at Preston Point on Roe Island; thence 340°30′, 400 yards, to the shore line of the westerly of the two Seal Islands; thence 60°30′, 940 yards; thence 75°, 1,650 yards; thence 102°, 1,850 yards; thence 99°, 1,880 yards; thence 180°, 435 yards, to the shore line; thence following the high water shore line in a general westerly direction to the point of beginning.
+|                   |Latitude|Longitude|
+|-------------------|--------|---------|
+|Point A (shoreline)|38.0513 |−122.0576|
+|      Point B      |38.0579 |−122.0430|
+|      Point C      |38.0630 |−122.0307|
+|      Point D      |38.0611 |−122.0205|
+|      Point E      |38.0593 |−122.0010|
+|      Point F      |38.0594 |−121.9882|
+|Point G (shoreline)|38.0521 |−121.9882|
+
+(2) The datum for these coordinates is NAD-83.
 
 (b) *The regulations.* (1) No person, vessel, watercraft, conveyance or device shall enter or cause to enter or remain in this area. No person shall refuse or fail to remove any person or property in his custody or under his control from this area upon the request of the Commanding Officer of Military Ocean Terminal Concord or his/her authorized representative.
 
 (2) The regulations in this section shall be enforced by the Commanding Officer, Military Ocean Terminal Concord, and such agencies as he/she shall designate.
 
-[26 FR 11201, Nov. 28, 1961, as amended at 42 FR 17120, Mar. 31, 1977. Redesignated at 50 FR 42696, Oct. 22, 1985, as amended at 61 FR 43970, Aug. 27, 1996; 83 FR 64026, Dec. 13, 2018]
+[26 FR 11201, Nov. 28, 1961, as amended at 42 FR 17120, Mar. 31, 1977. Redesignated at 50 FR 42696, Oct. 22, 1985, as amended at 61 FR 43970, Aug. 27, 1996; 83 FR 64026, Dec. 13, 2018; 89 FR 20319, Mar. 22, 2024]

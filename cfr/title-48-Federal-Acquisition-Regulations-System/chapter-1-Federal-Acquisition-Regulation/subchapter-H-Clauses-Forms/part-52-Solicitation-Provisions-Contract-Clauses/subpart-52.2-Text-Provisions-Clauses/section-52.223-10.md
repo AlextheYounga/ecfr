@@ -1,5 +1,7 @@
 ##### 52.223-10 Waste Reduction Program. #####
 
+Link to an amendment published at 89 FR 30248, Apr. 22, 2024.
+
 As prescribed in 23.705(a), insert the following clause:
 
 Waste Reduction Program (MAY 2011)

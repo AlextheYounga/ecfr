@@ -1,5 +1,6 @@
-##### § 431.192 Definitions.
-Link #####
+##### § 431.192 Definitions. #####
+
+Link to an amendment published at 89 FR 30039, Apr. 22, 2024.
 
 The following definitions apply for purposes of this subpart:
 
@@ -111,8 +112,6 @@ The following definitions apply for purposes of this subpart:
 
 *Special-impedance transformer* means any transformer built to operate at an impedance outside of the normal impedance range for that transformer's kVA rating. The normal impedance range for each kVA rating for liquid-immersed and dry-type transformers is shown in Tables 1 and 2, respectively.
 
-Table 1—Normal Impedance Ranges for Liquid-Immersed Transformers
-
 |Single-phase transformers|Three-phase transformers|     |                   |
 |-------------------------|------------------------|-----|-------------------|
 |           kVA           |  Impedance  <br/>(%)   | kVA |Impedance  <br/>(%)|
@@ -130,8 +129,6 @@ Table 1—Normal Impedance Ranges for Liquid-Immersed Transformers
 |           667           |        5.0-7.5         |1500 |      5.0-7.5      |
 |           833           |        5.0-7.5         |2000 |      5.0-7.5      |
 |                         |                        |2500 |      5.0-7.5      |
-
-Table 2—Normal Impedance Ranges for Dry-Type Transformers
 
 |Single-phase transformers|Three-phase transformers|     |                   |
 |-------------------------|------------------------|-----|-------------------|

@@ -1,5 +1,7 @@
 ##### 8.405-1 Ordering procedures for supplies, and services not requiring a statement of work. #####
 
+Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
+
 (a) Ordering activities shall use the procedures of this subsection when ordering supplies and services that are listed in the schedules contracts at a fixed price for the performance of a specific task, where a statement of work is not required (*e.g.*, installation, maintenance, and repair). For establishing BPAs and for orders under BPAs *see* 8.405-3.
 
 (b) *Orders at or below the micro-purchase threshold.* Ordering activities may place orders at, or below, the micro-purchase threshold with any Federal Supply Schedule contractor that can meet the agency's needs. Although not required to solicit from a specific number of schedule contractors, ordering activities should attempt to distribute orders among contractors.

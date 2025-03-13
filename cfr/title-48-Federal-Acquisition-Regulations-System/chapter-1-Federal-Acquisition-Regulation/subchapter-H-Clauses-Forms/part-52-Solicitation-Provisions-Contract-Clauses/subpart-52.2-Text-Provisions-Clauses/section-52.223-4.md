@@ -1,5 +1,7 @@
 ##### 52.223-4 Recovered Material Certification. #####
 
+Link to an amendment published at 89 FR 30248, Apr. 22, 2024.
+
 As prescribed in 23.406(c), insert the following provision:
 
 Recovered Material Certification (MAY 2008)

@@ -1,14 +1,12 @@
 ##### § 300.107 Vessel permits and requirements. #####
 
-Link to an amendment published at 89 FR 20138, Mar. 21, 2024.
-
 (a) *General.* In addition to the High Seas Fishing Permit requirements at 50 CFR part 300, subpart R:
 
 (1) Every vessel of the United States that attempts to harvest or harvests any AMLR must have a vessel permit authorizing the harvest issued under this subpart, unless the attempt or harvest occurs during recreational fishing or is covered by an individual permit. Boats launched from a vessel issued a vessel permit do not require a separate permit, but are covered by the permit issued to the launching vessel. Any enforcement action that results from the activities of a launched boat will be taken against the owner and operator of the launching vessel.
 
 (2) Any vessel of the United States that receives or attempts to receive any harvested AMLR from another vessel at sea, regardless of whether such transshipment occurs in the Convention Area or that receives, or attempts to receive any other goods or materials from another vessel in the Convention Area, must have a vessel permit authorizing transshipment issued under this subpart. Transshipment vessels must comply with the permitting provisions of this section. This requirement does not apply to scientific research vessels or to transshipments covered under an individual permit.
 
-(3) Permits issued under this section do not authorize vessels or persons subject to the jurisdiction of the United States to harass, capture, harm, kill, harvest, or importo Marine mammals. No marine mammals may be taken in the course of commercial fishing operations unless the taking is authorized under the Marine Mammal Protection Act and/or the Endangered Species Act pursuant to an exemption or permit granted by the appropriate agency.
+(3) Permits issued under this section do not authorize vessels or persons subject to the jurisdiction of the United States to harass, capture, harm, kill, harvest, or import marine mammals. No marine mammals may be taken in the course of commercial fishing operations unless the taking is authorized under the Marine Mammal Protection Act and/or the Endangered Species Act pursuant to an exemption or permit granted by the appropriate agency.
 
 (b) *Responsibility of owners and operators.* (1) The owners and operators of vessels permitted, or required to be permitted, under this subpart are jointly and severally responsible for compliance with the Act, this subpart, and any permit issued under the Act and this subpart.
 
@@ -81,3 +79,5 @@ Link to an amendment published at 89 FR 20138, Mar. 21, 2024.
 (4) Install a NMFS-approved EMTU on board U.S. flagged vessels harvesting AMLR for use in real-time C-VMS port-to-port reporting to a NMFS-designated land-based fisheries monitoring center or centers. The requirements for the installation and operation of the VMS are set forth in § 300.112.
 
 (5) Provide advance notice of the vessel's entry into port using the CCAMLR Port Inspection Report, including the written declaration that the vessel has not engaged in or supported illegal, unreported and unregulated (IUU) fishing in the Convention Area and has complied with relevant CCAMLR requirements. The CCAMLR Port Inspection Report, and instructions for its submission, is available from NMFS Headquarters.
+
+[82 FR 6223, Jan. 19, 2017, as amended at 89 FR 20137, Mar. 21, 2024]

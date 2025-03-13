@@ -1,5 +1,7 @@
 ##### 52.223-3 Hazardous Material Identification and Material Safety Data. #####
 
+Link to an amendment published at 89 FR 30248, Apr. 22, 2024.
+
 As prescribed in 23.303, insert the following clause:
 
 Hazardous Material Identification and Material Safety Data (FEB 2021)

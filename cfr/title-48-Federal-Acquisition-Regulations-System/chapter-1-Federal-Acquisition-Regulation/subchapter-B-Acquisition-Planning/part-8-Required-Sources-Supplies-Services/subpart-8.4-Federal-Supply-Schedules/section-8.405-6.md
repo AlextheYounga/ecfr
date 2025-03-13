@@ -1,5 +1,7 @@
 ##### 8.405-6 Limiting sources. #####
 
+Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
+
 Orders placed or BPAs established under Federal Supply Schedules are exempt from the requirements in part 6. However, an ordering activity must justify its action when restricting consideration in accordance with paragraph (a) or (b) of this section—
 
 (a) *Orders or BPAs exceeding the micro-purchase threshold based on a limited sources justification*—(1) *Circumstances justifying limiting the source.* (i) For a proposed order or BPA with an estimated value exceeding the micro-purchase threshold not placed or established in accordance with the procedures in 8.405-1, 8.405-2, or 8.405-3, the only circumstances that may justify the action are—

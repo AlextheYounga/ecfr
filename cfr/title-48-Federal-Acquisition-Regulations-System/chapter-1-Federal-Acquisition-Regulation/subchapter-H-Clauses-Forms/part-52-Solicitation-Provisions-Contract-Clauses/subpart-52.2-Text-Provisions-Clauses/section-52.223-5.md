@@ -1,5 +1,7 @@
 ##### 52.223-5 Pollution Prevention and Right-to-Know Information. #####
 
+Link to an amendment published at 89 FR 30248, Apr. 22, 2024.
+
 As prescribed in 23.1005, insert the following clause:
 
 Pollution Prevention and Right-to-Know Information (MAY 2011)

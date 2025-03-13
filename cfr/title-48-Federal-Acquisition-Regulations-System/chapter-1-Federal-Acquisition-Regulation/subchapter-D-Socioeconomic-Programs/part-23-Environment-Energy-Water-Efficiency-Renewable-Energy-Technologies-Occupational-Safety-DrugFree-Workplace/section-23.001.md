@@ -1,5 +1,7 @@
 ##### 23.001 Definitions. #####
 
+Link to an amendment published at 89 FR 30238, Apr. 22, 2024.
+
 As used in this part—
 
 *Environmental* means environmental aspects of internal agency operations and activities, including those aspects related to energy and transportation functions.

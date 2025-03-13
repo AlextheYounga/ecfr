@@ -1,5 +1,7 @@
 ##### 11.303 Special requirements for paper. #####
 
+Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
+
 (a) The following applies when agencies acquire paper in the United States (as defined in 23.001):
 
 (1) Section 2(d)(ii) of Executive Order 13423, Strengthening Federal Environmental, Energy, and Transportation Management, establishes a 30 percent postconsumer fiber content standards for agency paper use. Section 2(d)(ii) requires that an agency's paper products must meet or exceed the minimum content standard.

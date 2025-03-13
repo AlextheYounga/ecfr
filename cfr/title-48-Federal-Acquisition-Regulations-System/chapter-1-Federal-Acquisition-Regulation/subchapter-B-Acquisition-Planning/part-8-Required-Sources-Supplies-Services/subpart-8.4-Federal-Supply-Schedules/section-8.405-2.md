@@ -1,5 +1,7 @@
 ##### 8.405-2 Ordering procedures for services requiring a statement of work. #####
 
+Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
+
 (a) *General.* Ordering activities shall use the procedures in this subsection when ordering services priced at hourly rates as established by the schedule contracts. The applicable services will be identified in the Federal Supply Schedule publications and the contractor's pricelists. For establishing BPAs and for orders under BPAs *see* 8.405-3.
 
 (b) *Statements of Work (SOWs).* All Statements of Work shall include a description of work to be performed; location of work; period of performance; deliverable schedule; applicable performance standards; and any special requirements (*e.g.*, security clearances, travel, special knowledge). To the maximum extent practicable, agency requirements shall be performance-based statements (see subpart 37.6).

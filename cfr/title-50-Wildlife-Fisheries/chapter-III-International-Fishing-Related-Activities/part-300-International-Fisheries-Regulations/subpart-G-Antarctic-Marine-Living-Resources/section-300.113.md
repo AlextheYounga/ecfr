@@ -1,10 +1,8 @@
 ##### § 300.113 CCAMLR Ecosystem Monitoring Program sites. #####
 
-Link to an amendment published at 89 FR 20138, Mar. 21, 2024.
-
 (a) *General.* (1) Any person subject to the jurisdiction of the United States must apply for and be granted an entry permit authorizing specific activities prior to entering a CCAMLR Ecosystem Monitoring Program (CEMP) site designated in accordance with the CCAMLR conservation measure describing the procedure for according protection for CEMP sites.
 
-(2) If a CEMP site is also a site specially protected under the Antarctic Treaty (or the Protocol on Environmental Protection to the Antarctic Treaty and its Annexes, such as the sites listed in 45 CFR 670.29), an applicant seeking to enter such site must apply to the Director of the NSF for a permit under applicable provisions of the ACA or any superseding legislation. The permit granted by NSF shall constitute a joint CEMP/ACA Protected Site permit and any person holding such a permit must comply with the appropriate CEMP site management plan. In all other cases, an applicant seeking a permit to enter a CEMP site must apply to the Assistant Administrator for a CEMP permit in accordance with the provisions of this section.
+(2) If a CEMP site is also an area specially protected under the Antarctic Treaty (such as the sites listed in 45 CFR 670.29(a)), an applicant seeking to enter such site must apply to the Director of the NSF for a permit under applicable provisions of the ACA or any superseding legislation. The permit granted by NSF shall constitute a joint CEMP/ACA Protected Site permit and any person holding such a permit must comply with the appropriate CEMP site management plan. In all other cases, an applicant seeking a permit to enter a CEMP site must apply to the Assistant Administrator for a CEMP permit in accordance with the provisions of this section.
 
 (b) *Responsibility of CEMP permit holders and persons designated as agents under a CEMP permit.* (1) The CEMP permit holder and person designated as agents under a CEMP permit are jointly and severally responsible for compliance with the Act, this subpart, and any permit issued under this subpart.
 
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 20138, Mar. 21, 2024.
 
 (c) *Prohibitions regarding the Antarctic Treaty System and other applicable treaties and statutes.* Holders of permits to enter CEMP Protected Sites are not authorized to undertake any activities within a CEMP Protected Site that are not in compliance with the conditions of the CEMP permit and the provisions of:
 
-(1) The Antarctic Treaty, including the Agreed Measures for the Conservation of Antarctic Fauna and Flora (including the Protocol on the Environmental Protection to the Antarctic Treaty and its Annexes), as implemented by the ACA and any superseding legislation. (Persons interested in conducting activities subject to the Antarctic Treaty or the Protocol should contact the Office of Polar Programs, NSF).
+(1) The Antarctic Treaty as implemented by the ACA and any superseding legislation. (Persons interested in conducting activities subject to the Antarctic Treaty should contact the Office of Polar Programs, NSF).
 
 (2) The Convention for the Conservation of Antarctic Seals.
 
@@ -48,4 +46,6 @@ Link to an amendment published at 89 FR 20138, Mar. 21, 2024.
 
 (k) *Exceptions.* Entry into a CEMP site is lawful if committed under emergency conditions to prevent the loss of human life, avoid compromising human safety, prevent the loss of vessels or aircraft, or to prevent environmental damage.
 
-(l) *Protected sites.* Sites protected by the Antarctic Treaty and regulated under the ACA are listed at 45 CFR part 670 subpart F.
+(l) *Protected areas.* Specially protected areas designated under the Antarctic Treaty and regulated under the ACA are listed at 45 CFR 670.29(a). See also: *https://www.ats.aq/e/protected.html.*
+
+[82 FR 6223, Jan. 19, 2017, as amended at 89 FR 20137, Mar. 21, 2024]

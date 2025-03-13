@@ -1,5 +1,7 @@
 ##### 11.301 Definitions. #####
 
+Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
+
 As used in this subpart—
 
 *Postconsumer material* means a material or finished product that has served its intended use and has been discarded for disposal or recovery, having completed its life as a consumer item. Postconsumer material is a part of the broader category of “recovered material.” For paper and paper products, postconsumer material means “postconsumer fiber” defined by the U.S. Environmental Protection Agency (EPA) as—

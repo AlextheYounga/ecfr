@@ -1,5 +1,7 @@
 ##### 23.302 Policy. #####
 
+Link to an amendment published at 89 FR 30243, Apr. 22, 2024.
+
 (a) The Occupational Safety and Health Administration (OSHA) is responsible for issuing and administering regulations that require Government activities to apprise their employees of—
 
 (1) All hazards to which they may be exposed;

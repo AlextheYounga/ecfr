@@ -104,17 +104,17 @@ Link to an amendment published at 89 FR 3351, Jan. 18, 2024.
 
 (ii) GB/T 22048-2008, “Toys and Children's Products—Determination of Phthalate Plasticizers in Polyvinyl Chloride Plastic”;
 
-(32) 16 CFR part 1250, safety standard for toys. The CPSC only requires certain provisions of ASTM F963-17 to be subject to third party testing; and therefore, the CPSC only accepts the accreditation of third party conformity assessment bodies for testing under the following toy safety standards:
+(32) 16 CFR part 1250, safety standard for toys. CPSC only requires certain provisions of ASTM F963-23 to be subject to third party testing; therefore, CPSC only accepts the accreditation of third-party conformity assessment bodies for testing under the following toy safety standards:
 
 (i) [Reserved]
 
-(ii) ASTM F963-17:
+(ii) ASTM F963-23:
 
 (A) Section 4.3.5.1(2), Surface Coating Materials—Soluble Test for Metals
 
 (B) Section 4.3.5.2, Toy Substrate Materials
 
-(C) Section 4.3.6.3, Cleanliness of Liquids, Pastes, Putties, Gels, and Powders (except for cosmetics and tests on formulations used to prevent microbial degradation)
+(C) Section 4.3.6, Cleanliness of Liquids, Pastes, Putties, Gels, and Powders, and Items of Avian Feather Origin (except for cosmetics and tests on formulations used to prevent microbial degradation).
 
 (D) Section 4.3.7, Stuffing Materials
 
@@ -236,7 +236,7 @@ Link to an amendment published at 89 FR 3351, Jan. 18, 2024.
 
 (i) ASTM F2853-10, “Standard Test Method for Determination of Lead in Paint Layers and Similar Coatings or in Substrates and Homogenous Materials by Energy Dispersive X-Ray Fluorescence Spectrometry Using Multiple Monochromatic Excitation Beams,” July 1, 2010;
 
-(ii) ASTM F963-17, “Standard Consumer Safety Specification for Toy Safety,” May 1, 2017.
+(ii) ASTM F963-23, “Standard Consumer Safety Specification for Toy Safety,” August 1, 2023.
 
 (2) Code of China, Room 2118, New Fortune International Plaza, No.71 Chaoyang Road, Chaoyang District, Beijing, 100123, China: *http://www.codeofchina.com/.*
 

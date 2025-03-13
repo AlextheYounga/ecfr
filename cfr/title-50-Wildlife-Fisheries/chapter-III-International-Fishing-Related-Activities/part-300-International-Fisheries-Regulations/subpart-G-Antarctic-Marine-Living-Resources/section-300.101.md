@@ -1,10 +1,8 @@
 ##### § 300.101 Definitions. #####
 
-Link to an amendment published at 89 FR 20137, Mar. 21, 2024.
-
 In addition to the terms defined in § 300.2, in the Act, and in the Convention on the Conservation of Antarctic Marine Living Resources, done at Canberra, Australia, May 7, 1980 (Convention) the terms used in this subpart have the following meanings for purposes of this subpart. If a term is defined differently in § 300.2, than in the Act, or Convention, the definition in this section shall apply.
 
-*ACA* means the Antarctic Conservation Act of 1978 (16 U.S.C. 2401, *et seq.*).
+*ACA* means the Antarctic Conservation Act, 16 U.S.C. 2401, *et seq.,* as amended.
 
 *Annual or biennial measure* means a conservation measure that:
 
@@ -79,8 +77,6 @@ In addition to the terms defined in § 300.2, in the Act, and in the Convention 
 
 *National observer* means a U.S. national placed and operating onboard a vessel of the United States as a scientific observer in accordance with § 300.111.
 
-*National Seafood Inspection Laboratory* means the NMFS laboratory located at 3209 Frederic Street, Pascagoula, MS 39567, telephone (228) 769-8964, email *PTFReporting@noaa.gov.*
-
 *Office of Law Enforcement (OLE)* refers to the NOAA Office of Law Enforcement.
 
 *Port-to-port* means from the time the vessel leaves port to the time that the vessel returns to port and at all points in between.
@@ -98,3 +94,5 @@ In addition to the terms defined in § 300.2, in the Act, and in the Convention 
 *Transship or transshipment* means the transfer of fish or fish products, other AMLRs, or any other goods or materials directly from one vessel to another. However, for purposes of catch documentation as provided for in § 300.106, transship or transshipment means the transfer of *Dissostichus* spp. that has not been previously landed, from one vessel directly to another, either at sea or in port.
 
 *Vessel Monitoring System (VMS)* means a system that uses satellite-linked EMTUs installed on vessels to allow a flag State or other entity to receive automatic transmission of positional and other information related to vessel activity.
+
+[82 FR 6223, Jan. 19, 2017, as amended at 89 FR 20137, Mar. 21, 2024]

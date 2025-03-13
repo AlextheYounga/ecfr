@@ -1,5 +1,7 @@
 ##### 52.223-20 Aerosols. #####
 
+Link to an amendment published at 89 FR 30249, Apr. 22, 2024.
+
 As prescribed in 23.804(a)(3), insert the following clause:
 
 Aerosols (JUN 2016)

@@ -1,5 +1,7 @@
 ##### 9.406-1 General. #####
 
+Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
+
 (a) It is the debarring official's responsibility to determine whether debarment is in the Government's interest. The debarring official may, in the public interest, debar a contractor for any of the causes in 9.406-2, using the procedures in 9.406-3. The existence of a cause for debarment, however, does not necessarily require that the contractor be debarred; the seriousness of the contractor's acts or omissions and any remedial measures or mitigating factors should be considered in making any debarment decision. Before arriving at any debarment decision, the debarring official should consider factors such as the following:
 
 (1) Whether the contractor had effective standards of conduct and internal control systems in place at the time of the activity which constitutes cause for debarment or had adopted such procedures prior to any Government investigation of the activity cited as a cause for debarment.

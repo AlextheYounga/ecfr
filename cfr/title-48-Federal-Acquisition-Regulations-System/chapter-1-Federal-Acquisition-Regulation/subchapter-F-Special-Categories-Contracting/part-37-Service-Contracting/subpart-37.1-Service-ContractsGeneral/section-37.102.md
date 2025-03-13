@@ -1,5 +1,7 @@
 ##### 37.102 Policy. #####
 
+Link to an amendment published at 89 FR 30245, Apr. 22, 2024.
+
 (a) Performance-based acquisition (see Subpart 37.6) is the preferred method for acquiring services (Public Law 106-398, section 821). When acquiring services, including those acquired under supply contracts or orders, agencies must—
 
 (1) Use performance-based acquisition methods to the maximum extent practicable, except for—

@@ -1,5 +1,7 @@
 ##### 52.223-6 Drug-Free Workplace. #####
 
+Link to an amendment published at 89 FR 30248, Apr. 22, 2024.Link to an amendment published at 89 FR 30250, Apr. 22, 2024.
+
 As prescribed in 23.505, insert the following clause:
 
 Drug-Free Workplace (MAY 2001)

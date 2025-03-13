@@ -1,5 +1,7 @@
 ##### 8.405-3 Blanket purchase agreements (BPAs). #####
 
+Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
+
 (a) *Establishment.* (1) Ordering activities may establish BPAs under any schedule contract to fill repetitive needs for supplies or services. Ordering activities shall establish the BPA with the schedule contractor(s) that can provide the supply or service that represents the best value.
 
 (2) In addition to price (*see* 8.404(d) and 8.405-4), when determining best value, the ordering activity may consider, among other factors, the following:

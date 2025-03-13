@@ -1,7 +1,5 @@
 ##### § 300.106 Catch Documentation Scheme (CDS): Documentation and other requirements. #####
 
-Link to an amendment published at 89 FR 20137, Mar. 21, 2024.
-
 (a) *General.* (1) CCAMLR CDS document(s) must accompany all shipments of *Dissostichus* species as required in this section.
 
 (2) No shipment of *Dissostichus* species shall be released for entry into the United States unless accompanied by an accurate, complete, valid and validated CCAMLR CDS document.
@@ -46,20 +44,48 @@ Link to an amendment published at 89 FR 20137, Mar. 21, 2024.
 
 (i) Submit to NMFS a complete and accurate application for a NMFS *Dissostichus* re-export document, and
 
-(ii) Obtain validation by a responsible official(s) designated by NMFS and receive an electronically-generated DRED.
+(ii) Obtain validation by a responsible official(s) designated by NMFS and receive an electronically-generated DRED before re-exporting shipments of *Dissostichus* species.
 
 (2) When applying for a re-export approval, a person must reference or include the approval number issued by NOAA, for the original validated *Dissostichus* import document.
+
+(3) A DRED will not be issued for any shipment of *Dissostichus* species:
+
+(i) Determined to have been harvested or transshipped in contravention of any CCAMLR conservation measure in force at the time of harvest or transshipment;
+
+(ii) Determined to have been taken, possessed, transported, or sold in violation of any foreign law or regulation or international agreement which is a treaty within the meaning of section II of article II of the U.S. Constitution;
+
+(iii) Determined to have been taken, possessed, transported, or sold in contravention of any binding conservation measure adopted by an international agreement or organization to which the United States is a party;
+
+(iv) Determined to have been harvested or transshipped by a vessel identified by CCAMLR as having engaged in illegal, unreported, and unregulated (IUU) fishing;
+
+(v) Accompanied by inaccurate, incomplete, invalid, or improperly validated CDS documentation; or
+
+(vi) Imported in violation of AMLRCA or this subpart.
 
 (g) *Export.* (1) To export U.S.-harvested *Dissostichus* species, the person must possess an IFTP issued under § 300.322 and:
 
 (i) Submit to NMFS a complete and accurate NMFS application for a DED; and
 
-(ii) Obtain validation by a responsible official(s) designated by NMFS and receive an electronically-generated DED.
+(ii) Obtain validation by a responsible official(s) designated by NMFS and receive an electronically-generated DED before exporting shipments of *Dissostichus* species.
 
 (2) Any person who exports *Dissostichus* species must include the original validated DED with the export shipment.
+
+(3) A DED will not be issued for any shipment of *Dissostichus* species:
+
+(i) Determined to have been harvested or transshipped in contravention of a CCAMLR conservation measure, AMLRCA, or this subpart;
+
+(ii) Determined to have been taken, possessed, transported, or sold in violation of any foreign law or regulation or international agreement which is a treaty within the meaning of section II of article II of the U.S. Constitution;
+
+(iii) Determined to have been taken, possessed, transported, or sold in contravention of any binding conservation measure adopted by an international agreement or organization to which the United States is a party;
+
+(iv) Determined to have been harvested or transshipped by a vessel identified by CCAMLR as having engaged in illegal, unreported, and unregulated (IUU) fishing; or
+
+(v) Accompanied by inaccurate, incomplete, invalid, or improperly validated CDS documentation.
 
 (h) *Recordkeeping.* Any person who imports, exports or re-exports *Dissostichus* spp. must:
 
 (1) Retain a copy of all CDS documents at the person's place of business for a period of 2 years from the date on the documents and provide copies as needed to NMFS; and
 
 (2) Make the IFTP and all CDS documents and other records and reports required by this subpart available for inspection upon request of an authorized officer.
+
+[82 FR 6223, Jan. 19, 2017, as amended at 89 FR 20137, Mar. 21, 2024]

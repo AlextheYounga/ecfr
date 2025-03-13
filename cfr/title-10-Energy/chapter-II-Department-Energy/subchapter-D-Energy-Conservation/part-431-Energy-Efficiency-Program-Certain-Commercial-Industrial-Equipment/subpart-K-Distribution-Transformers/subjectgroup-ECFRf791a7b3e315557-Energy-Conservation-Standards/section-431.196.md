@@ -1,5 +1,7 @@
 ##### § 431.196 Energy conservation standards and their effective dates. #####
 
+Link to an amendment published at 89 FR 30040, Apr. 22, 2024.
+
 (a) *Low-Voltage Dry-Type Distribution Transformers.* (1) The efficiency of a low-voltage, dry-type distribution transformer manufactured on or after January 1, 2007, but before January 1, 2016, shall be no less than that required for the applicable kVA rating in the table below. Low-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
 |Single-phase|Three-phase|     |    |
@@ -92,27 +94,26 @@ All efficiency values are at 50 percent per-unit load.
 
 (c) *Medium-Voltage Dry-Type Distribution Transformers.* (1) The efficiency of a medium-voltage dry-type distribution transformer manufactured on or after January 1, 2010, but before January 1, 2016, shall be no less than that required for their kVA and BIL rating in the table below. Medium-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
-|    Single-phase    |    Three-phase     |                    |                    |                    |                    |     |     |
-|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|-----|-----|
-|        kVA         |       BIL\*        |        kVA         |        BIL         |                    |                    |     |     |
-|      20-45 kV      |      46-95 kV      |       ≥96 kV       |      20-45 kV      |      46-95 kV      |       ≥96 kV       |     |     |
-|Efficiency  <br/>(%)|Efficiency  <br/>(%)|Efficiency  <br/>(%)|Efficiency  <br/>(%)|Efficiency  <br/>(%)|Efficiency  <br/>(%)|     |     |
-|         15         |       98.10        |       97.86        |                    |         15         |       97.50        |97.18|     |
-|         25         |       98.33        |       98.12        |                    |         30         |       97.90        |97.63|     |
-|        37.5        |       98.49        |       98.30        |                    |         45         |       98.10        |97.86|     |
-|         50         |       98.60        |       98.42        |                    |         75         |       98.33        |98.12|     |
-|         75         |       98.73        |       98.57        |       98.53        |       112.5        |       98.49        |98.30|     |
-|        100         |       98.82        |       98.67        |       98.63        |        150         |       98.60        |98.42|     |
-|        167         |       98.96        |       98.83        |       98.80        |        225         |       98.73        |98.57|98.53|
-|        250         |       99.07        |       98.95        |       98.91        |        300         |       98.82        |98.67|98.63|
-|        333         |       99.14        |       99.03        |       98.99        |        500         |       98.96        |98.83|98.80|
-|        500         |       99.22        |       99.12        |       99.09        |        750         |       99.07        |98.95|98.91|
-|        667         |       99.27        |       99.18        |       99.15        |        1000        |       99.14        |99.03|98.99|
-|        833         |       99.31        |       99.23        |       99.20        |        1500        |       99.22        |99.12|99.09|
-|                    |                    |                    |                    |        2000        |       99.27        |99.18|99.15|
-|                    |                    |                    |                    |        2500        |       99.31        |99.23|99.20|
-
-\* BIL means basic impulse insulation level.
+|                Single-phase                |    Three-phase     |                    |                    |                    |                    |     |     |
+|--------------------------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|-----|-----|
+|                    kVA                     |       BIL\*        |        kVA         |        BIL         |                    |                    |     |     |
+|                  20-45 kV                  |      46-95 kV      |       ≥96 kV       |      20-45 kV      |      46-95 kV      |       ≥96 kV       |     |     |
+|            Efficiency  <br/>(%)            |Efficiency  <br/>(%)|Efficiency  <br/>(%)|Efficiency  <br/>(%)|Efficiency  <br/>(%)|Efficiency  <br/>(%)|     |     |
+|                     15                     |       98.10        |       97.86        |                    |         15         |       97.50        |97.18|     |
+|                     25                     |       98.33        |       98.12        |                    |         30         |       97.90        |97.63|     |
+|                    37.5                    |       98.49        |       98.30        |                    |         45         |       98.10        |97.86|     |
+|                     50                     |       98.60        |       98.42        |                    |         75         |       98.33        |98.12|     |
+|                     75                     |       98.73        |       98.57        |       98.53        |       112.5        |       98.49        |98.30|     |
+|                    100                     |       98.82        |       98.67        |       98.63        |        150         |       98.60        |98.42|     |
+|                    167                     |       98.96        |       98.83        |       98.80        |        225         |       98.73        |98.57|98.53|
+|                    250                     |       99.07        |       98.95        |       98.91        |        300         |       98.82        |98.67|98.63|
+|                    333                     |       99.14        |       99.03        |       98.99        |        500         |       98.96        |98.83|98.80|
+|                    500                     |       99.22        |       99.12        |       99.09        |        750         |       99.07        |98.95|98.91|
+|                    667                     |       99.27        |       99.18        |       99.15        |        1000        |       99.14        |99.03|98.99|
+|                    833                     |       99.31        |       99.23        |       99.20        |        1500        |       99.22        |99.12|99.09|
+|                                            |                    |                    |                    |        2000        |       99.27        |99.18|99.15|
+|                                            |                    |                    |                    |        2500        |       99.31        |99.23|99.20|
+|\* BIL means basic impulse insulation level.|                    |                    |                    |                    |                    |     |     |
 
 Note 5 to paragraph (c)(1):
 
@@ -120,27 +121,26 @@ All efficiency values are at 50 percent per-unit load.
 
 (2) The efficiency of a medium- voltage dry-type distribution transformer manufactured on or after January 1, 2016, shall be no less than that required for their kVA and BIL rating in the table below. Medium-voltage dry-type distribution transformers with kVA ratings not appearing in the table shall have their minimum efficiency level determined by linear interpolation of the kVA and efficiency values immediately above and below that kVA rating.
 
-|    Single-phase    |    Three-phase     |                    |                    |                    |                    |     |     |
-|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|-----|-----|
-|        kVA         |       BIL\*        |        kVA         |        BIL         |                    |                    |     |     |
-|      20-45 kV      |      46-95 kV      |       ≥96 kV       |      20-45 kV      |      46-95 kV      |       ≥96 kV       |     |     |
-|Efficiency  <br/>(%)|Efficiency  <br/>(%)|Efficiency  <br/>(%)|Efficiency  <br/>(%)|Efficiency  <br/>(%)|Efficiency  <br/>(%)|     |     |
-|         15         |       98.10        |       97.86        |                    |         15         |       97.50        |97.18|     |
-|         25         |       98.33        |       98.12        |                    |         30         |       97.90        |97.63|     |
-|        37.5        |       98.49        |       98.30        |                    |         45         |       98.10        |97.86|     |
-|         50         |       98.60        |       98.42        |                    |         75         |       98.33        |98.13|     |
-|         75         |       98.73        |       98.57        |       98.53        |       112.5        |       98.52        |98.36|     |
-|        100         |       98.82        |       98.67        |       98.63        |        150         |       98.65        |98.51|     |
-|        167         |       98.96        |       98.83        |       98.80        |        225         |       98.82        |98.69|98.57|
-|        250         |       99.07        |       98.95        |       98.91        |        300         |       98.93        |98.81|98.69|
-|        333         |       99.14        |       99.03        |       98.99        |        500         |       99.09        |98.99|98.89|
-|        500         |       99.22        |       99.12        |       99.09        |        750         |       99.21        |99.12|99.02|
-|        667         |       99.27        |       99.18        |       99.15        |        1000        |       99.28        |99.20|99.11|
-|        833         |       99.31        |       99.23        |       99.20        |        1500        |       99.37        |99.30|99.21|
-|                    |                    |                    |                    |        2000        |       99.43        |99.36|99.28|
-|                    |                    |                    |                    |        2500        |       99.47        |99.41|99.33|
-
-\* BIL means basic impulse insulation level.
+|                Single-phase                |    Three-phase     |                    |                    |                    |                    |     |     |
+|--------------------------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|-----|-----|
+|                    kVA                     |       BIL\*        |        kVA         |        BIL         |                    |                    |     |     |
+|                  20-45 kV                  |      46-95 kV      |       ≥96 kV       |      20-45 kV      |      46-95 kV      |       ≥96 kV       |     |     |
+|            Efficiency  <br/>(%)            |Efficiency  <br/>(%)|Efficiency  <br/>(%)|Efficiency  <br/>(%)|Efficiency  <br/>(%)|Efficiency  <br/>(%)|     |     |
+|                     15                     |       98.10        |       97.86        |                    |         15         |       97.50        |97.18|     |
+|                     25                     |       98.33        |       98.12        |                    |         30         |       97.90        |97.63|     |
+|                    37.5                    |       98.49        |       98.30        |                    |         45         |       98.10        |97.86|     |
+|                     50                     |       98.60        |       98.42        |                    |         75         |       98.33        |98.13|     |
+|                     75                     |       98.73        |       98.57        |       98.53        |       112.5        |       98.52        |98.36|     |
+|                    100                     |       98.82        |       98.67        |       98.63        |        150         |       98.65        |98.51|     |
+|                    167                     |       98.96        |       98.83        |       98.80        |        225         |       98.82        |98.69|98.57|
+|                    250                     |       99.07        |       98.95        |       98.91        |        300         |       98.93        |98.81|98.69|
+|                    333                     |       99.14        |       99.03        |       98.99        |        500         |       99.09        |98.99|98.89|
+|                    500                     |       99.22        |       99.12        |       99.09        |        750         |       99.21        |99.12|99.02|
+|                    667                     |       99.27        |       99.18        |       99.15        |        1000        |       99.28        |99.20|99.11|
+|                    833                     |       99.31        |       99.23        |       99.20        |        1500        |       99.37        |99.30|99.21|
+|                                            |                    |                    |                    |        2000        |       99.43        |99.36|99.28|
+|                                            |                    |                    |                    |        2500        |       99.47        |99.41|99.33|
+|\* BIL means basic impulse insulation level.|                    |                    |                    |                    |                    |     |     |
 
 Note 6 to paragraph (c)(2):
 

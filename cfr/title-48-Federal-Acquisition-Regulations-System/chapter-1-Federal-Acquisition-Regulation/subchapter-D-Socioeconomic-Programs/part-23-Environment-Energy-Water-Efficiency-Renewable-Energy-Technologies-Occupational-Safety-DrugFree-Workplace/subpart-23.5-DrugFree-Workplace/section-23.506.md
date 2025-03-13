@@ -1,5 +1,7 @@
 ##### 23.506 Suspension of payments, termination of contract, and debarment and suspension actions. #####
 
+Link to an amendment published at 89 FR 30245, Apr. 22, 2024.
+
 (a) After determining in writing that adequate evidence to suspect any of the causes at paragraph (d) of this section exists, the contracting officer may suspend contract payments in accordance with the procedures at 32.503-6(a)(1).
 
 (b) After determining in writing that any of the causes at paragraph (d) of this section exists, the contracting officer may terminate the contract for default.

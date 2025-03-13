@@ -1,10 +1,8 @@
 ##### § 300.102 Relationship to other treaties, conventions, laws, and regulations. #####
 
-Link to an amendment published at 89 FR 20137, Mar. 21, 2024.
-
 (a) Other conventions and treaties to which the United States is a party and other Federal statutes and implementing regulations may impose additional restrictions on the harvesting and importation into the United States of AMLRs.
 
-(b) The ACA implements the Antarctic Treaty Agreed Measures for the Conservation of Antarctic Fauna and Flora (12 U.S.T. 794). The ACA and its implementing regulations (45 CFR part 670) apply to certain defined activities of U.S. citizens south of 60° S. lat.
+(b) The ACA implements the Protocol on Environmental Protection to the Antarctic Treaty. The ACA and its implementing regulations (including, but not limited to, 45 CFR part 670) apply to certain defined activities of U.S. citizens south of 60° S lat.
 
 (c) The Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 *et seq.*), the Endangered Species Act of 1973 (16 U.S.C. 1531 *et seq.*), the Migratory Bird Treaty Act (16 U.S.C. 701 *et seq.*), and their implementing regulations also apply to the harvesting and importation of AMLRs.
 
@@ -19,3 +17,5 @@ Link to an amendment published at 89 FR 20137, Mar. 21, 2024.
 (ii) With respect to which the Secretary of State does not notify the Commission in accordance with section 305(a)(1) of AMLRCA within the time period allotted for objections under Article IX of the Convention.
 
 (e) Annual or biennial measures. NMFS may implement annual or biennial measures adopted by CCAMLR as conditions to vessel permits issued under section 300.107, instead of through rulemaking.
+
+[82 FR 6223, Jan. 19, 2017, as amended at 89 FR 20137, Mar. 21, 2024]

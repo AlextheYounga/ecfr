@@ -1,5 +1,7 @@
 ##### 4.1702 Applicability. #####
 
+Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
+
 (a) This subpart applies to—
 
 (1) All FAIR Act agencies, except DoD as specified in 4.1705;

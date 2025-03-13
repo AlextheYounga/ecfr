@@ -1,5 +1,7 @@
 ##### 52.204-4 Printed or Copied Double-Sided on Postconsumer Fiber Content Paper. #####
 
+Link to an amendment published at 89 FR 30245, Apr. 22, 2024.
+
 As prescribed in 4.303, insert the following clause:
 
 Printed or Copied Double-Sided on Postconsumer Fiber Content Paper (MAY 2011)

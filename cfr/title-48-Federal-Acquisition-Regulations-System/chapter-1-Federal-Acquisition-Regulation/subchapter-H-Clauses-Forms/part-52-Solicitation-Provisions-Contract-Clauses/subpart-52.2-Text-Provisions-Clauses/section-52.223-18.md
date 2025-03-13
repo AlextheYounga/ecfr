@@ -1,5 +1,7 @@
 ##### 52.223-18 Encouraging Contractor Policies To Ban Text Messaging While Driving. #####
 
+Link to an amendment published at 89 FR 30249, Apr. 22, 2024.Link to an amendment published at 89 FR 30250, Apr. 22, 2024.
+
 As prescribed in 23.1105, insert the following clause:
 
 Encouraging Contractor Policies To Ban Text Messaging While Driving (JUN 2020)

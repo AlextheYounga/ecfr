@@ -1,5 +1,7 @@
 ##### 11.002 Policy. #####
 
+Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
+
 (a) In fulfilling requirements of 10 U.S.C. 3206(a), 10 U.S.C. 3453, 41 U.S.C. 3306(a), and 41 U.S.C. 3307, agencies shall—
 
 (1) Specify needs using market research in a manner designed to—

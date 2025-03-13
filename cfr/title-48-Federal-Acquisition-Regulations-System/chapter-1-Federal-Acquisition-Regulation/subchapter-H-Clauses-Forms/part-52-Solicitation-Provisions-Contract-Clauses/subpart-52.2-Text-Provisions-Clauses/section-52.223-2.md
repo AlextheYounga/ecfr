@@ -1,5 +1,7 @@
 ##### 52.223-2 Affirmative Procurement of Biobased Products Under Service and Construction Contracts. #####
 
+Link to an amendment published at 89 FR 30248, Apr. 22, 2024.
+
 As prescribed in 23.406(b), insert the following clause:
 
 Affirmative Procurement of Biobased Products Under Service and Construction Contracts (SEP 2013)

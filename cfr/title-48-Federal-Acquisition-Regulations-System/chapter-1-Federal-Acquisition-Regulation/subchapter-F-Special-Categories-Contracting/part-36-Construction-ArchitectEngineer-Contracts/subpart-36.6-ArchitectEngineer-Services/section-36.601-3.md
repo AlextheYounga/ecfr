@@ -1,5 +1,7 @@
 ##### 36.601-3 Applicable contracting procedures. #####
 
+Link to an amendment published at 89 FR 30245, Apr. 22, 2024.
+
 (a)(1) For facility design contracts, the statement of work shall require that the architect-engineer specify, in the construction design specifications, use of the maximum practicable amount of recovered materials consistent with the performance requirements, availability, price reasonableness, and cost-effectiveness. Where appropriate, the statement of work also shall require the architect-engineer to consider energy conservation, pollution prevention, and waste reduction to the maximum extent practicable in developing the construction design specifications.
 
 (2) Facility design solicitations and contracts that include the specification of energy-consuming products must comply with the requirements at subpart 23.2.

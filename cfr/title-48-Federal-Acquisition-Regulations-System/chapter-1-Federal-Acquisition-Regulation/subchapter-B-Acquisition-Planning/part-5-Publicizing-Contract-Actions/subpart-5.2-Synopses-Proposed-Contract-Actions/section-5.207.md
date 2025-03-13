@@ -1,5 +1,7 @@
 ##### 5.207 Preparation and transmittal of synopses. #####
 
+Link to an amendment published at 89 FR 30236, Apr. 22, 2024.
+
 (a) *Content.* Each synopsis transmitted to the GPE must address the following data elements, as applicable:
 
 (1) Action Code.

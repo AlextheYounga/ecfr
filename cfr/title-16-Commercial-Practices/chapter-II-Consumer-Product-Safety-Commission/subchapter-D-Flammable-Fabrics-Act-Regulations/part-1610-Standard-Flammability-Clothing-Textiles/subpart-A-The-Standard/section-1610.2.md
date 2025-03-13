@@ -1,10 +1,8 @@
 ##### § 1610.2 Definitions. #####
 
-Link to an amendment published at 88 FR 73230, Oct. 25, 2023.
-
 In addition to the definitions given in Section 2 of the Flammable Fabrics Act as amended (15 U.S.C. 1191), the following definitions apply for this part 1610.
 
-(a) *Base burn* (also known as base fabric ignition or fusing) means the point at which the flame burns the ground (base) fabric of a raised surface textile fabric and provides a self-sustaining flame. Base burns, used to establish a Class 3 fabric, are those burns resulting from surface flash that occur on specimens in places other than the point of impingement when the warp and fill yarns of a raised surface textile fabric undergo combustion. Base burns can be identified by an opacity change, scorching on the reverse side of the fabric, or when a physical hole is evident.
+(a) *Base burn* (also known as base fabric ignition or fusing) means the point at which the flame burns the ground (base) fabric of a raised surface textile fabric and provides a self-sustaining flame. Base burns, used to establish a Class 2 or 3 fabric, are those burns resulting from surface flash that occur on specimens in places other than the point of impingement (test result code SFBB) when the warp and fill yarns of a raised surface textile fabric undergo combustion. Base burns can be identified by an opacity change, scorching on the reverse side of the fabric, or when a physical hole is evident.
 
 (b) *Burn time* means the time elapsed from ignition until the stop thread is severed as measured by the timing mechanism of the test apparatus.
 
@@ -34,8 +32,10 @@ In addition to the definitions given in Section 2 of the Flammable Fabrics Act a
 
 (o) *Specimen* means a 50 mm by 150 mm (2 in by 6 in) section of sample.
 
-(p) *Stop thread supply* means No. 50, white, mercerized, 100% cotton sewing thread.
+(p) *Stop thread supply* means 3-ply, white, mercerized, 100% cotton sewing thread, with a Tex size of 40 ±5.
 
 (q) *Surface flash* means a rapid burning of the pile fibers and yarns on a raised fiber surface textile that may or may not result in base burning.
 
 (r) *Textile fabric* means any coated or uncoated material subject to the Act, except film and fabrics having a nitro-cellulose fiber, finish, or coating, which is woven, knitted, felted or otherwise produced from any natural or manmade fiber, or substitute therefore, or combination thereof, of 50 mm (2 in) or more in width, and which is in a form or state ready for use in wearing apparel, including fabrics which have undergone further processing, such as dyeing and finishing, in garment form, for consumer use.
+
+[73 FR 15640, Mar. 25, 2008, as amended at 88 FR 73230, Oct. 25, 2023]

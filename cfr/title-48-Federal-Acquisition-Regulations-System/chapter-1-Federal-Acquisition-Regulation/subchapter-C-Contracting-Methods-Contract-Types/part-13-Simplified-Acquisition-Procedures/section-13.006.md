@@ -1,5 +1,7 @@
 ##### 13.006 Inapplicable provisions and clauses. #####
 
+Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
+
 While certain statutes still apply, pursuant to Public Law 103-355, the following provisions and clauses are inapplicable to contracts and subcontracts at or below the simplified acquisition threshold:
 
 (a) 52.203-5, Covenant Against Contingent Fees.

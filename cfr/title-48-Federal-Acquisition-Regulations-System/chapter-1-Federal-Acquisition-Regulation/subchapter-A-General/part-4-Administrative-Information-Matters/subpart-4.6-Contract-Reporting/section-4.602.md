@@ -1,5 +1,7 @@
 ##### 4.602 General. #####
 
+Link to an amendment published at 89 FR 30236, Apr. 22, 2024.
+
 (a) The FPDS provides a comprehensive web-based tool for agencies to report contract actions. The resulting data provides—
 
 (1) A basis for recurring and special reports to the President, the Congress, the Government Accountability Office, Federal executive agencies, and the general public;

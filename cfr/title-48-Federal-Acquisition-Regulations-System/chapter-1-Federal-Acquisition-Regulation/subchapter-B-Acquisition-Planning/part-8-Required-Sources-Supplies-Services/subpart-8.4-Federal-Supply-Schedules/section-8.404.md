@@ -1,5 +1,7 @@
 ##### 8.404 Use of Federal Supply Schedules. #####
 
+Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
+
 (a) *General.* Parts 13 (except 13.303-2(c)(3)), 14, 15, and 19 (except for the requirements at 19.102(b)(3) and 19.202-1(e)(1)(iii))do not apply to BPAs or orders placed against Federal Supply Schedules contracts (but see 8.405-5). BPAs and orders placed against a MAS, using the procedures in this subpart, are considered to be issued using full and open competition (see 6.102(d)(3)). Therefore, when establishing a BPA (as authorized by 13.303-2(c)(3)), or placing orders under Federal Supply Schedule contracts using the procedures of 8.405, ordering activities shall not seek competition outside of the Federal Supply Schedules or synopsize the requirement; but *see* paragraph (g) of this section.
 
 (b)(1) The contracting officer, when placing an order or establishing a BPA, is responsible for applying the regulatory and statutory requirements applicable to the agency for which the order is placed or the BPA is established. The requiring agency shall provide the information on the applicable regulatory and statutory requirements to the contracting officer responsible for placing the order.

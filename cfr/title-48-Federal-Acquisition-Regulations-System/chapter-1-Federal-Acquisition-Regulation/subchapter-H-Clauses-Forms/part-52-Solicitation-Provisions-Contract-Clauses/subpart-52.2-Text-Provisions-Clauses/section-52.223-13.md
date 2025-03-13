@@ -1,5 +1,7 @@
 ##### 52.223-13 Acquisition of EPEAT®-Registered Imaging Equipment. #####
 
+Link to an amendment published at 89 FR 30249, Apr. 22, 2024.
+
 As prescribed in 23.705(b)(1), insert the following clause:
 
 Acquisition of Epeat®-Registered Imaging Equipment (JUN 2014)

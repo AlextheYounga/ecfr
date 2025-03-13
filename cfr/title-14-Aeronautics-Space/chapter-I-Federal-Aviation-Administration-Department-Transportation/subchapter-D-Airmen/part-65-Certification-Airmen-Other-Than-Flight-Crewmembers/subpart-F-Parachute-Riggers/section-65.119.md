@@ -1,6 +1,6 @@
 ##### § 65.119 Master parachute rigger certificate: Experience, knowledge, and skill requirements. #####
 
-Link to an amendment published at 89 FR 22520, Apr. 1, 2024.
+Link to an amendment published at 89 FR 22520, Apr. 1, 2024.Link to an amendment published at 89 FR 29252, Apr. 22, 2024.
 
 An applicant for a master parachute rigger certificate must meet the following requirements:
 

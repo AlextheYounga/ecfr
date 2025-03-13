@@ -1,5 +1,7 @@
 ##### 19.305 Reviews of SDB status. #####
 
+Link to an amendment published at 89 FR 30254, Apr. 22, 2024.
+
 This section applies to reviews of a small business concern's SDB status as a prime contractor or subcontractor.
 
 (a) SBA may initiate the review of SDB status on any firm that has represented itself to be an SDB on a prime contract or subcontract to a Federal prime contract whenever it receives credible information calling into question the SDB status of the firm.

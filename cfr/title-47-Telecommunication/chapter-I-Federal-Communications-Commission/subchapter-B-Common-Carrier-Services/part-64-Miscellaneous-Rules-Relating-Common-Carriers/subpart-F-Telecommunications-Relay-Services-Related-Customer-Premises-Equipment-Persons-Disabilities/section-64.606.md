@@ -1,7 +1,5 @@
 ##### § 64.606 Internet-based TRS provider and TRS program certification. #####
 
-Link to an amendment published at 89 FR 20133, Mar. 21, 2024.
-
 (a) *Documentation*—(1) *Certified state program.* Any state, through its office of the governor or other delegated executive office empowered to provide TRS, desiring to establish a state program under this section shall submit documentation to the Commission addressed to the Federal Communications Commission, Chief, Consumer and Governmental Affairs Bureau, TRS Certification Program, Washington, DC 20554, and captioned “TRS State Certification Application.” All documentation shall be submitted in narrative form, shall clearly describe the state program for implementing intrastate TRS, and the procedures and remedies for enforcing any requirements imposed by the state program. The Commission shall give public notice of state applications for certification.
 
 (2) *Internet-based TRS provider.* Any entity desiring to provide Internet-based TRS and to receive compensation from the Interstate TRS Fund, shall submit documentation to the Commission addressed to the Federal Communications Commission, Chief, Consumer and Governmental Affairs Bureau, TRS Certification Program, Washington, DC 20554, and captioned “Internet-based TRS Certification Application.” The documentation shall include, in narrative form:
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 20133, Mar. 21, 2024.
 
 (*1*) Operating five or fewer call centers within the United States, a copy of each deed or lease for each call center operated by the applicant within the United States;
 
-(*2*) Operating more than five call centers within the United States, a copy of each deed or lease for a representative sampling (taking into account size (by number of communications assistants) and location) of five call centers operated by the applicant within the United States, together with a list of all other call centers that they operate that includes the information required under § 64.604(c)(5)(iii)(N)(*2*);
+(*2*) Operating more than five call centers within the United States, a copy of each deed or lease for a representative sampling (taking into account size (by number of communications assistants) and location) of five call centers operated by the applicant within the United States, together with a list of all other call centers that they operate that includes the information required under § 64.604(d)(2).
 
 (*3*) Operating call centers outside of the United States, a copy of each deed or lease for each call center operated by the applicant outside of the United States;
 
@@ -46,7 +44,7 @@ Link to an amendment published at 89 FR 20133, Mar. 21, 2024.
 
 (3) *Assessment of internet-based TRS provider certification application.* In order to assess the merits of a certification application submitted by an Internet-based TRS provider, the Commission may conduct one or more on-site visits of the applicant's premises, to which the applicant must consent.
 
-(4) *At-home VRS call handling.* An applicant for initial VRS certification that desires to provide at-home VRS call handling shall include a detailed plan describing how the VRS provider will ensure compliance with the requirements of § 64.604(b)(8).
+(4) *At-home VRS call handling.* An applicant for initial VRS certification that desires to provide at-home VRS call handling shall include a detailed plan describing how the VRS provider will ensure compliance with the requirements of § 64.604(d)(7).
 
 (b)(1) *Requirements for state certification.* After review of state documentation, the Commission shall certify, by letter, or order, the state program if the Commission determines that the state certification documentation:
 

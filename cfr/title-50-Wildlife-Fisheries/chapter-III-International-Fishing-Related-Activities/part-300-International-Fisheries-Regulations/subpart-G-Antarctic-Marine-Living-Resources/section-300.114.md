@@ -1,7 +1,5 @@
 ##### § 300.114 Prohibitions. #####
 
-Link to an amendment published at 89 FR 20138, Mar. 21, 2024.
-
 In addition to the prohibitions in § 300.4, it is unlawful for any person to:
 
 (a) Harvest any AMLR without a permit for such activity as required by § 300.107.
@@ -32,7 +30,21 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person to:
 
 (n) Receive AMLR from a vessel, without holding an AMLR first receiver permit as required under § 300.104, or receive AMLR from a fishing vessel that does not hold a valid vessel permit issued under § 300.107.
 
-(o) Import, export or re-export *Dissostichus* spp. harvested or transshipped by a vessel identified by CCAMLR as having engaged in illegal, unreported and unregulated (IUU) fishing, originating from a high seas area designated by the Food and Agriculture Organization of the United Nations as Statistical Area 51 or Statistical Area 57 or accompanied by inaccurate, incomplete, invalid, or improperly validated CDS documentation or import or re-export *Dissostichus spp.* accompanied by a SVDCD.
+(o) Import, export, or re-export *Dissostichus* species that were:
+
+(1) Harvested or transshipped in contravention of a CCAMLR conservation measure, AMLRCA, or this subpart;
+
+(2) Taken, possessed, transported, or sold in violation of:
+
+(i) Any foreign law or regulation or
+
+(ii) Any international agreement which is a treaty within the meaning of section II of article II of the U.S. Constitution;
+
+(3) Taken, possessed, transported, or sold in contravention of any binding conservation measure adopted by an international agreement or organization to which the United States is a party;
+
+(4) Harvested or transshipped by a vessel identified by CCAMLR as having engaged in illegal, unreported, and unregulated (IUU) fishing, or
+
+(5) Unaccompanied by CDS documentation, accompanied by inaccurate, incomplete, invalid, or improperly validated CDS documentation, or accompanied by a SVDCD.
 
 (p) Import shipments of frozen *Dissostichus* spp. without a preapproval issued under § 300.105.
 
@@ -75,3 +87,5 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person to:
 (t) Harvest any AMLR in the Convention Area without a vessel permit required by this subpart.
 
 (u) Ship, transport, offer for sale, sell, purchase, import, export, re-export or have custody, control, or possession of, any frozen *Dissostichus* species without verifiable documentation that the harvesting vessel reported to CCAMLR's C-VMS continuously and in real-time, from port-to-port, regardless of where such *Dissostichus* species were harvested.
+
+[82 FR 6223, Jan. 19, 2017, as amended at 89 FR 20137, Mar. 21, 2024]

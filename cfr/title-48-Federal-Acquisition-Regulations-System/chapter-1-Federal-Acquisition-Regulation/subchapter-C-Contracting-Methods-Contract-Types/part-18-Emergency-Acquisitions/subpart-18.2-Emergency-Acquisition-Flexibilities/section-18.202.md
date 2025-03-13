@@ -1,5 +1,7 @@
 ##### 18.202 Defense or recovery from certain events. #####
 
+Link to an amendment published at 89 FR 30238, Apr. 22, 2024.
+
 (a) *Micro-purchase threshold.* The threshold increases when the head of the agency determines the supplies or services are to be used to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to facilitate provision of international disaster assistance; or to support response to an emergency or major disaster. (See 2.101.)
 
 (b) *Simplified acquisition threshold.* The threshold increases when the head of the agency determines the supplies or services are to be used to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to facilitate provision of international disaster assistance; or to support response to an emergency or major disaster. (See 2.101.)

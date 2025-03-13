@@ -1,5 +1,7 @@
 ##### 52.223-11 Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons. #####
 
+Link to an amendment published at 89 FR 30248, Apr. 22, 2024.
+
 As prescribed in in 23.804(a)(1), insert the following clause:
 
 Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons (JUN 2016)

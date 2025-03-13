@@ -1,5 +1,7 @@
 ##### 9.406-2 Causes for debarment. #####
 
+Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
+
 The debarring official may debar—
 
 (a) A contractor for a conviction of or civil judgment for—

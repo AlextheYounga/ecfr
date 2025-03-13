@@ -1,9 +1,5 @@
 ##### § 64.604 Mandatory minimum standards. #####
 
-Link to an amendment published at 89 FR 20130, Mar. 21, 2024.Link to an amendment published at 89 FR 20132, Mar. 21, 2024.
-
-The standards in this section are applicable December 18, 2000, except as stated in paragraphs (c)(2) and (c)(7) of this section.
-
 (a) *Operational standards*—(1) *Communications assistant (CA).* (i) TRS providers are responsible for requiring that all CAs be sufficiently trained to effectively meet the specialized communications needs of individuals with hearing and speech disabilities.
 
 (ii) CAs must have competent skills in typing, grammar, spelling, interpretation of typewritten ASL, and familiarity with hearing and speech disability cultures, languages and etiquette. CAs must possess clear and articulate voice communications.
@@ -70,9 +66,7 @@ The standards in this section are applicable December 18, 2000, except as stated
 
 (5) *STS called numbers.* Relay providers must offer STS users the option to maintain at the relay center a list of names and telephone numbers which the STS user calls. When the STS user requests one of these names, the CA must repeat the name and state the telephone number to the STS user. This information must be transferred to any new STS provider.
 
-(6) *Visual privacy screens/idle calls.* A VRS CA may not enable a visual privacy screen or similar feature during a VRS call. A VRS CA must disconnect a VRS call if the caller or the called party to a VRS call enables a privacy screen or similar feature for more than five minutes or is otherwise unresponsive or unengaged for more than five minutes, unless the call is a 9-1-1 emergency call or the caller or called party is legitimately placed on hold and is present and waiting for active communications to commence. Prior to disconnecting the call, the CA must announce to both parties the intent to terminate the call and may reverse the decision to disconnect if one of the parties indicates continued engagement with the call.
-
-(7) *International calls.* VRS calls that originate from an international IP address will not be compensated, with the exception of calls made by a U.S. resident who has pre-registered with his or her default provider prior to leaving the country, during specified periods of time while on travel and from specified regions of travel, for which there is an accurate means of verifying the identity and location of such callers. For purposes of this section, an international IP address is defined as one that indicates that the individual initiating the call is located outside the United States.
+(6)-(7)[Reserved]
 
 (b) *Technical standards*—(1) *ASCII and Baudot.* TTY-based relay service shall be capable of communicating with ASCII and Baudot format, at any speed generally in use. Other forms of TRS are not subject to this requirement.
 
@@ -108,51 +102,7 @@ The standards in this section are applicable December 18, 2000, except as stated
 
 (7) *STS 711 Calls.* An STS provider shall, at a minimum, employ the same means of enabling an STS user to connect to a CA when dialing 711 that the provider uses for all other forms of TRS. When a CA directly answers an incoming 711 call, the CA shall transfer the STS user to an STS CA without requiring the STS user to take any additional steps. When an interactive voice response (IVR) system answers an incoming 711 call, the IVR system shall allow for an STS user to connect directly to an STS CA using the same level of prompts as the IVR system uses for all other forms of TRS.
 
-(8) *At-home VRS call handling*—(i) *Limit on minutes handled.* In any calendar month, a VRS provider authorized by the Commission to employ at-home CAs may be compensated for minutes handled from home workstations up to a maximum of the greater of:
-
-(A) Fifty percent (50%) of a VRS provider's total minutes for which compensation is paid in that month; or
-
-(B) Fifty percent (50%) of the provider's average projected monthly conversation minutes for the calendar year, according to the projections most recently filed with the TRS Fund administrator.
-
-(ii) *Personnel safeguards.* A VRS provider shall:
-
-(A) Allow a CA to work at home only if the CA is a qualified interpreter with at least three years of professional interpreting experience, has the experience, skills, and knowledge necessary to effectively interpret VRS calls without in-person supervision, has learned the provider's protocols for at-home call handling, and understands and follows the TRS mandatory minimum standards set out in this section; and
-
-(B) Provide at-home CAs equivalent support to that provided to CAs working from call centers, including, where appropriate, the opportunity to team-interpret and consult with supervisors, and ensure that supervisors are readily available to resolve problems that may arise during a relay call.
-
-(iii) *Technical and environmental safeguards.* A VRS provider shall ensure that each home workstation enables the provision of confidential and uninterrupted service to the same extent as the provider's call centers and is seamlessly integrated into the provider's call routing, distribution, tracking, and support systems. Each home workstation shall:
-
-(A) Reside in a separate, secure workspace where access during working hours is restricted solely to the CA;
-
-(B) Allow a CA to use all call-handling technology to the same extent as call-center CAs;
-
-(C) Be capable of supporting VRS in compliance with the applicable mandatory minimum standards set out in this section to the same degree as at call centers;
-
-(D) Be equipped with an effective means to prevent eavesdropping and outside interruptions; and
-
-(E) Be connected to the provider's network over a secure connection to ensure caller privacy.
-
-(iv) *Monitoring and oversight obligations.* A VRS provider shall:
-
-(A) Inspect each home workstation and its home environment to confirm their compliance with paragraph (b)(8)(iii) of this section before activating the workstation for use;
-
-(B) Assign a unique workstation identification number to each VRS home workstation;
-
-(C) Equip each home workstation with monitoring technology sufficient to ensure that off-site supervision approximates the level of supervision at the provider's call center and regularly analyze the records and data produced by such monitoring to proactively address possible waste, fraud, and abuse;
-
-(D) Keep all records pertaining to home workstations, except records of the content of interpreted conversations, for a minimum of five years; and
-
-(E) Conduct random and unannounced inspections of at least five percent (5%) of all home workstations, including their home environments, in each 12-month period.
-
-(v) *Commission audits and inspections.* Home workstations and workstation records shall be subject to review, audit, and inspection by the Commission and the TRS Fund administrator and unannounced on-site inspections by the Commission to the same extent as call centers and call center records subject to the rules in this chapter.
-
-(vi) *Monthly reports.* With its monthly requests for compensation, a VRS provider employing at-home CAs shall report the following information to the TRS Fund administrator for each home workstation:
-
-(A) The home workstation identification number and full street address (number, street, city, state, and zip code);
-
-(B) The CA identification number of each individual handling VRS calls from that home workstation; and
-
-(C) The call center identification number, street address, and name of supervisor of the call center responsible for oversight of that workstation.
+(8) [Reserved]
 
 (c) *Functional standards*—(1) *Consumer complaint logs.* (i) States and interstate providers must maintain a log of consumer complaints including all complaints about TRS in the state, whether filed with the TRS provider or the State, and must retain the log until the next application for certification is granted. The log shall include, at a minimum, the date the complaint was filed, the nature of the complaint, the date of resolution, and an explanation of the resolution.
 
@@ -250,6 +200,8 @@ I swear under penalty of perjury that:
 
 (*7*) *Call data record retention.* Internet-based TRS providers shall retain the data required to be submitted by this section, and all other call detail records, other records that support their claims for payment from the TRS Fund, and records used to substantiate the costs and expense data submitted in the annual relay service data request form, in an electronic format that is easily retrievable, for a minimum of five years.
 
+(*8*) [Reserved]
+
 (E) *Payments to TRS providers.* (*1*) TRS Fund payments shall be distributed to TRS providers based on formulas approved or modified by the Commission. The administrator shall file schedules of payment formulas with the Commission. Such formulas shall be designed to compensate TRS providers for reasonable costs of providing interstate TRS, and shall be subject to Commission approval. Such formulas shall be based on total monthly interstate TRS minutes of use. The formulas should appropriately compensate interstate providers for the provision of TRS, whether intrastate or interstate.
 
 (*2*) TRS minutes of use for purposes of interstate cost recovery under the TRS Fund are defined as the minutes of use for completed interstate TRS calls placed through the TRS center beginning after call set-up and concluding after the last message call unit.
@@ -296,29 +248,7 @@ I swear under penalty of perjury that:
 
 (M) *Whistleblower protections.* Providers shall not take any reprisal in the form of a personnel action against any current or former employee or contractor who discloses to a designated manager of the provider, the Commission, the TRS Fund administrator or to any Federal or state law enforcement entity, any information that the reporting person reasonably believes evidences known or suspected violations of the Communications Act or TRS regulations, or any other activity that the reporting person reasonably believes constitutes waste, fraud, or abuse, or that otherwise could result in the improper billing of minutes of use to the TRS Fund and discloses that information to a designated manager of the provider, the Commission, the TRS Fund administrator or to any Federal or state law enforcement entity. Providers shall provide an accurate and complete description of these TRS whistleblower protections, including the right to notify the FCC's Office of Inspector General or its Enforcement Bureau, to all employees and contractors, in writing. Providers that already disseminate their internal business policies to its employees in writing (*e.g.* in employee handbooks, policies and procedures manuals, or bulletin board postings—either online or in hard copy) must include an accurate and complete description of these TRS whistleblower protections in those written materials.
 
-(N) In addition to the provisions set forth above, VRS providers shall be subject to the following provisions:
-
-(*1*) *Eligibility for reimbursement from the TRS Fund.* (*i*) Only an eligible VRS provider, as defined in paragraph (c)(5)(iii)(F) of this section, may hold itself out to the general public as providing VRS.
-
-(*ii*) VRS service must be offered under the name by which the eligible VRS provider offering such service became certified and in a manner that clearly identifies that provider of the service. Where a TRS provider also utilizes sub-brands to identify its VRS, each sub-brand must clearly identify the eligible VRS provider. Providers must route all VRS calls through a single URL address used for each name or sub-brand used.
-
-(*iii*) An eligible VRS provider may not contract with or otherwise authorize any third party to provide interpretation services or call center functions (including call distribution, call routing, call setup, mapping, call features, billing, and registration) on its behalf, unless that authorized third party also is an eligible provider.
-
-(*iv*) To the extent that an eligible VRS provider contracts with or otherwise authorizes a third party to provide any other services or functions related to the provision of VRS other than interpretation services or call center functions, that third party must not hold itself out as a provider of VRS, and must clearly identify the eligible VRS provider to the public. To the extent an eligible VRS provider contracts with or authorizes a third party to provide any services or functions related to marketing or outreach, and such services utilize VRS, those VRS minutes are not compensable on a per minute basis from the TRS fund.
-
-(*v*) All third-party contracts or agreements entered into by an eligible provider must be in writing. Copies of such agreements shall be made available to the Commission and to the TRS Fund administrator upon request.
-
-(*2*) *Call center reports.* VRS providers shall file a written report with the Commission and the TRS Fund administrator, on April 1st and October 1st of each year for each call center that handles VRS calls that the provider owns or controls, including centers located outside of the United States, that includes:
-
-(*i*) The complete street address of the center;
-
-(*ii*) The number of individual CAs and CA managers; and
-
-(*iii*) The name and contact information (phone number and e-mail address) of the manager(s) at the center. VRS providers shall also file written notification with the Commission and the TRS Fund administrator of any change in a center's location, including the opening, closing, or relocation of any center, at least 30 days prior to any such change.
-
-(*3*) *Compensation of CAs.* VRS providers may not compensate, give a preferential work schedule or otherwise benefit a CA in any manner that is based upon the number of VRS minutes or calls that the CA relays, either individually or as part of a group.
-
-(*4*) *Remote training session calls.* VRS calls to a remote training session or a comparable activity will not be compensable from the TRS Fund when the provider submitting minutes for such a call has been involved, in any manner, with such a training session. Such prohibited involvement includes training programs or comparable activities in which the provider or any affiliate or related party thereto, including but not limited to its subcontractors, partners, employees or sponsoring organizations or entities, has any role in arranging, scheduling, sponsoring, hosting, conducting or promoting such programs or activities.
+(N) [Reserved]
 
 (6) *Complaints*—(i) *Referral of complaint.* If a complaint to the Commission alleges a violation of this subpart with respect to intrastate TRS within a state and certification of the program of such state under § 64.606 is in effect, the Commission shall refer such complaint to such state expeditiously.
 
@@ -408,13 +338,7 @@ I swear under penalty of perjury that:
 
 (v) IP CTS providers shall ensure that their informational materials and websites used to market, advertise, educate, or otherwise inform consumers and professionals about IP CTS include the following language in a prominent location in a clearly legible font: “FEDERAL LAW PROHIBITS ANYONE BUT REGISTERED USERS WITH HEARING LOSS FROM USING INTERNET PROTOCOL (IP) CAPTIONED TELEPHONES WITH THE CAPTIONS TURNED ON. IP Captioned Telephone Service may use a live operator. The operator generates captions of what the other party to the call says. These captions are then sent to your phone. There is a cost for each minute of captions generated, paid from a federally administered fund.” For IP CTS provider websites, the language shall be included on the website's home page, each page that provides consumer information about IP CTS, and each page that provides information on how to order IP CTS or IP CTS equipment. IP CTS providers that do not make any use of live CAs to generate captions may shorten the notice to leave out the second, third, and fourth sentences.
 
-(12) *Discrimination and preferences.* A VRS provider shall not:
-
-(i) Directly or indirectly, by any means or device, engage in any unjust or unreasonable discrimination related to practices, facilities, or services for or in connection with like relay service,
-
-(ii) Engage in or give any undue or unreasonable preference or advantage to any particular person, class of persons, or locality, or
-
-(iii) Subject any particular person, class of persons, or locality to any undue or unreasonable prejudice or disadvantage.
+(12) [Reserved]
 
 (13) *Unauthorized and unnecessary use of VRS or IP CTS.* (i) A VRS or IP CTS provider shall not engage in any practice that the provider knows or has reason to know will cause or encourage:
 
@@ -440,6 +364,6 @@ I swear under penalty of perjury that:
 
 (iii) Calls between captioned telephone relay service or IP CTS users and VRS users.
 
-(d) *Other standards.* The applicable requirements of § 9.14 of this chapter and §§ 64.611, 64.615, 64.621, 64.631, 64.632, 64.5105, 64.5107, 64.5108, 64.5109, and 64.5110 are to be considered mandatory minimum standards.
+(e) *Other standards.* The applicable requirements of § 9.14 of this chapter and §§ 64.611, 64.615, 64.621, 64.631, 64.632, 64.5105, 64.5107, 64.5108, 64.5109, and 64.5110 are to be considered mandatory minimum standards.
 
 [65 FR 38436, June 21, 2000]Editorial Note:For Federal Register citations affecting § 64.604, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

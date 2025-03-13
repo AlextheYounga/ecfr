@@ -1,5 +1,7 @@
 ##### 52.223-9 Estimate of Percentage of Recovered Material Content for EPA-Designated Items. #####
 
+Link to an amendment published at 89 FR 30248, Apr. 22, 2024.
+
 As prescribed in 23.406(d), insert the following clause:
 
 Estimate of Percentage of Recovered Material Content for EPA-Designated Items (MAY 2008)

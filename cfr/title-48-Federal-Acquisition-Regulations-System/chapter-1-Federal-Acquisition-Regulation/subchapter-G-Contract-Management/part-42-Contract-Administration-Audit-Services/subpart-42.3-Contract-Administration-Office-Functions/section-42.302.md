@@ -1,5 +1,7 @@
 ##### 42.302 Contract administration functions. #####
 
+Link to an amendment published at 89 FR 30245, Apr. 22, 2024.
+
 (a) The contracting officer normally delegates the following contract administration functions to a CAO. The contracting officer may retain any of these functions, except those in paragraphs (a)(5), (a)(9), (a)(11), and (a)(12) of this section, unless the cognizant Federal agency (see 2.101) has designated the contracting officer to perform these functions.
 
 (1) Review the contractor's compensation structure.

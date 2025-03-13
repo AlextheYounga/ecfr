@@ -1,5 +1,7 @@
 ##### 1.401 Definition. #####
 
+Link to an amendment published at 89 FR 30253, Apr. 22, 2024.
+
 *Deviation* means any one or combination of the following:
 
 (a) The issuance or use of a policy, procedure, solicitation provision (see definition in 2.101), contract clause (see definition in 2.101), method, or practice of conducting acquisition actions of any kind at any stage of the acquisition process that is inconsistent with the FAR.

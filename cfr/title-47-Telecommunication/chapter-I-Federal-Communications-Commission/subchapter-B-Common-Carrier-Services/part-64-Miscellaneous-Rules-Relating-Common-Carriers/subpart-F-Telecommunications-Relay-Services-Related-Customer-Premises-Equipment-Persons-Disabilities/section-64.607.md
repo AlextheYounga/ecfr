@@ -8,4 +8,4 @@
 
 (2) The compatibility of any TT with other such devices and computers.
 
-[56 FR 36731, Aug. 1, 1991, as amended at 72 FR 43560, Aug. 6, 2007; 73 FR 21252, Apr. 21, 2008. Redesignated at 73 FR 21259, Apr. 21, 2008]
+[56 FR 36731, Aug. 1, 1991, as amended at 72 FR 43560, Aug. 6, 2007; 73 FR 21252, Apr. 21, 2008. Redesignated at 73 FR 21259, Apr. 21, 2008; 89 FR 20133, Mar. 21, 2024]

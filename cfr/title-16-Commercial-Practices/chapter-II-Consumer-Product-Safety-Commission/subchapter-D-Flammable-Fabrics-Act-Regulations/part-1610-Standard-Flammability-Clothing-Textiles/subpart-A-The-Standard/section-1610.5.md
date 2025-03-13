@@ -1,7 +1,5 @@
 ##### § 1610.5 Test apparatus and materials. #####
 
-Link to an amendment published at 88 FR 73231, Oct. 25, 2023.
-
 (a) *Flammability apparatus.* The flammability test apparatus consists of a draft-proof ventilated chamber enclosing a standardized ignition mechanism, sample rack, and automatic timing mechanism. The flammability apparatus shall meet the minimum requirements for testing as follows.
 
 (1) *Test chamber*—(i) *Test chamber structure.* The test chamber shall be a metal, draft-proof ventilated chamber. The test chamber shall have inside dimensions of 35.3 cm high by 36.8 cm wide by 21.6 cm deep (14 in by 14.5 in by 8.5 in). There shall be eleven or twelve 12.7 mm diameter (0.5 in) holes equidistant along the rear of the top closure. The front of the chamber shall be a close fitting door with an insert made of clear material (i.e., glass, plexiglass) to permit observation of the entire test. A ventilating strip is provided at the base of the door in the front of the apparatus. The test chamber to be used in this test method is illustrated in Figures 1 and 2 of this part.
@@ -24,7 +22,7 @@ Link to an amendment published at 88 FR 73231, Oct. 25, 2023.
 
 (2) *Stop thread and thread guides*—(i) *Stop thread.* The stop thread shall be stretched from the spool through suitable thread guides provided on the specimen holder and chamber walls.
 
-(ii) *Stop thread supply.* This supply, consisting of a spool of No. 50, white, mercerized, 100% cotton sewing thread, shall be fastened to the side of the chamber and can be withdrawn by releasing the thumbscrew holding it in position.
+(ii) *Stop thread supply.* This supply, consisting of a spool of 3-ply, white, mercerized, 100% cotton sewing thread, with a Tex size of 40 ±5 Tex, shall be fastened to the side of the chamber and can be withdrawn by releasing the thumbscrew holding it in position.
 
 (iii) *Thread Guides.* The thread guides permit the lacing of the stop thread in the proper position exactly 127 mm (5 in) from the point where the center of the ignition flame impinges on the test specimen. The stop thread shall be 9.5 mm (0.37 in) above and parallel to the lower surface of the top plate of the specimen holder. This condition can be achieved easily and reproducibly with the use of a thread guide popularly referred to as a “sky hook” suspended down from the top panel along with two L-shaped thread guides attached to the upper end of the top plate of the specimen holder. Two other thread guides can be installed on the rear panel to draw the thread away from directly over the test flame. The essential condition, however, is the uniform height of 9.5 mm (0.37 in) for the stop thread and not the number, placement or design of the thread guides.
 
@@ -48,9 +46,9 @@ Link to an amendment published at 88 FR 73231, Oct. 25, 2023.
 
 (5) *Automatic tumble dryer.* The automatic tumble dryer shall be as described in § 1610.6(b)(1)(ii).
 
-(6) *Commercial dry cleaning machine.* The commercial dry cleaning machine shall be capable of providing a complete automatic dry-to-dry cycle using perchloroethylene solvent and a cationic drycleaning detergent as specified in § 1610.6(b)(1)(i).
+(6) *Commercial dry cleaning machine.* The commercial dry cleaning machine shall be capable of providing a complete automatic dry-to-dry cycle using perchloroethylene solvent or hydrocarbon solvent and a cationic dry cleaning detergent as specified in § 1610.6(b)(1)(i).
 
-(7) *Dry cleaning solvent.* The solvent shall be perchloroethylene, commercial grade.
+(7) *Dry cleaning solvent.* The solvent shall be perchloroethylene, commercial grade, or hydrocarbon solvent, commercial grade.
 
 (8) *Dry cleaning detergent.* The dry cleaning detergent shall be cationic class.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 88 FR 73231, Oct. 25, 2023.
 
 (10) *Brushing device.* The brushing device shall consist of a base board over which a small carriage is drawn. See Figure 7 of this part. This carriage runs on parallel tracks attached to the edges of the upper surface of the base board. The brush is hinged with pin hinges at the rear edge of the base board and rests on the carriage vertically with a pressure of 150 gf (0.33 lbf). The brush shall consist of two rows of stiff nylon bristles mounted with the tufts in a staggered position. The bristles are 0.41 mm (0.016 in) in diameter and 19 mm (0.75 in) in length. There are 20 bristles per tuft and 4 tufts per inch. See Figure 8 of this part. A clamp is attached to the forward edge of the movable carriage to permit holding the specimen on the carriage during the brushing operation. The purpose of the metal plate or “template” on the carriage of the brushing device is to support the specimen during the brushing operation. The template shall be 3.2 mm (0.13 in) thick. See Figure 9 of this part.
 
-[73 FR 15640, Mar. 25, 2008, as amended at 73 FR 62187, Oct. 20, 2008]
+[73 FR 15640, Mar. 25, 2008, as amended at 73 FR 62187, Oct. 20, 2008; 88 FR 73230, Oct. 25, 2023]

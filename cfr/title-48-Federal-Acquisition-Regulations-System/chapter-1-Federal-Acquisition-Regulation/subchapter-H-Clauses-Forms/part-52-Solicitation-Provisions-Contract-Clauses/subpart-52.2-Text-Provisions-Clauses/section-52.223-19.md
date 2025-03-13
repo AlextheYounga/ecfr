@@ -1,5 +1,7 @@
 ##### 52.223-19 Compliance with Environmental Management Systems. #####
 
+Link to an amendment published at 89 FR 30249, Apr. 22, 2024.
+
 As prescribed in 23.903, insert the following clause:
 
 Compliance With Environmental Management Systems (MAY 2011)

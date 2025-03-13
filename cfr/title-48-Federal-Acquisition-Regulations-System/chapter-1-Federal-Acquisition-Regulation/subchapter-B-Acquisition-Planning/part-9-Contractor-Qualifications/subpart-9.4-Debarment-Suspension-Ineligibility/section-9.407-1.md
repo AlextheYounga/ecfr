@@ -1,5 +1,7 @@
 ##### 9.407-1 General. #####
 
+Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
+
 (a) The suspending official may, in the public interest, suspend a contractor for any of the causes in 9.407-2, using the procedures in 9.407-3.
 
 (b)(1) Suspension is a serious action to be imposed on the basis of adequate evidence, pending the completion of investigation or legal proceedings, when it has been determined that immediate action is necessary to protect the Government's interest. In assessing the adequacy of the evidence, agencies should consider how much information is available, how credible it is given the circumstances, whether or not important allegations are corroborated, and what inferences can reasonably be drawn as a result. This assessment should include an examination of basic documents such as contracts, inspection reports, and correspondence.

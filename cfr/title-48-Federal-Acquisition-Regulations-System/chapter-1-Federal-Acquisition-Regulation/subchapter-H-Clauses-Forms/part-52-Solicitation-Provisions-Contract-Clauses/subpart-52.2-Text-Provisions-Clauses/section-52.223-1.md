@@ -1,5 +1,7 @@
 ##### 52.223-1 Biobased Product Certification. #####
 
+Link to an amendment published at 89 FR 30248, Apr. 22, 2024.
+
 As prescribed in 23.406(a), insert the following provision:
 
 Biobased Product Certification (MAY 2012)

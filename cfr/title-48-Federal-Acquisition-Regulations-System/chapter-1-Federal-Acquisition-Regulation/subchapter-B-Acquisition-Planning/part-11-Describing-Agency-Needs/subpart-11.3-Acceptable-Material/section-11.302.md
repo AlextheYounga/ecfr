@@ -1,5 +1,7 @@
 ##### 11.302 Policy. #####
 
+Link to an amendment published at 89 FR 30237, Apr. 22, 2024.
+
 (a) Agencies must not require virgin material or supplies composed of or manufactured using virgin material unless compelled by law or regulation or unless virgin material is vital for safety or meeting performance requirements of the contract.
 
 (b)(1) When acquiring products other than commercial products as defined in 2.101, agencies must require offerors to identify used, reconditioned, or remanufactured supplies; or unused former Government surplus property proposed for use under the contract. These supplies or property may not be used in contract performance unless authorized by the contracting officer.
