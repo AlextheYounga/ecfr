@@ -1,5 +1,7 @@
 ##### § 51-5.2 Mandatory source requirement. #####
 
+Link to an amendment published at 89 FR 20339, Mar. 22, 2024.
+
 (a) Nonprofit agencies designated by the Committee are mandatory sources of supply for all entities of the Government for commodities and services included on the Procurement List, as provided in § 51-1.2 of this chapter.
 
 (b) Purchases of commodities on the Procurement List by entities of the Government shall be made from sources authorized by the Committee. These sources may include nonprofit agencies, central nonprofit agencies, Government central supply agencies such as the Defense Logistics Agency and the General Services Administration, and certain commercial distributors. Identification of the authorized sources for a particular commodity may be obtained from the central nonprofit agencies at the addresses noted in § 51-6.2 of this chapter.

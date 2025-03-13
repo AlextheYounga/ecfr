@@ -1,5 +1,7 @@
 ##### § 648.53 Overfishing limit (OFL), acceptable biological catch (ABC), annual catch limits (ACL), annual catch targets (ACT), annual projected landings (APL), DAS allocations, and individual fishing quotas (IFQ). #####
 
+Link to an amendment published at 89 FR 20349, Mar. 22, 2024.
+
 (a) The following determinations and allocations for the sea scallop rotational areas are defined as follows and shall be established through the specifications or framework adjustment process:
 
 (1) *OFL.* OFL shall be based on an updated scallop resource and fishery assessment provided by either the Scallop PDT or a formal stock assessment. OFL shall include all sources of scallop mortality and shall include an upward adjustment to account for catch of scallops in state waters by vessels not issued Federal scallop permits. The fishing mortality rate (*i.e.* F) associated with OFL shall be the threshold F, above which overfishing is occurring in the scallop fishery. The F associated with OFL shall be used to derive specifications for ABC, ACL, and ACT, as defined in paragraph (a) of this section.

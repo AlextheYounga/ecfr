@@ -1,5 +1,7 @@
 ##### § 648.10 VMS and DAS requirements for vessel owners/operators. #####
 
+Link to an amendment published at 89 FR 20348, Mar. 22, 2024.
+
 (a) *VMS Demarcation Line.* The VMS Demarcation Line is defined by straight lines connecting the following coordinates in the order stated (a copy of a map showing the line is available from the Regional Administrator upon request):
 
 VMS Demarcation Line

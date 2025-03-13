@@ -1,5 +1,7 @@
 ##### § 648.60 Sea Scallop Rotational Areas. #####
 
+Link to an amendment published at 89 FR 20351, Mar. 22, 2024.
+
 (a) [Reserved]
 
 (b) *Area II Scallop Rotational Area*—(1) *Area II Scallop Rotational Area boundary.* The Area II Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):

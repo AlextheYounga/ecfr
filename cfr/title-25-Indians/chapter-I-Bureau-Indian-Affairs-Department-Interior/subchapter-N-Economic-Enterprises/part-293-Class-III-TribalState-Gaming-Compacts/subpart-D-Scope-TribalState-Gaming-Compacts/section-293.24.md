@@ -1,0 +1,3 @@
+##### § 293.24 May a compact or amendment include provisions addressing rights of employees? #####
+
+Yes. Notwithstanding § 293.23(c)(8), a compact or amendment may include provisions or procedures addressing the organizational and representational rights of employees, including service or hospitality workers, where such provisions or procedures are “directly related” to the operation of gaming activities as articulated by the Ninth Circuit in *Chicken Ranch Rancheria of Me-Wuk Indians* v. *California,* 42 F.4th 1024, 1035-1040 & n.2 (citing *Coyote Valley Band of Pomo Indians* v. *California (In re Indian Gaming Related Cases Chemehuevi Indian Tribe),* 331 F.3d 1094, 1116 (9th Cir. 2003)).

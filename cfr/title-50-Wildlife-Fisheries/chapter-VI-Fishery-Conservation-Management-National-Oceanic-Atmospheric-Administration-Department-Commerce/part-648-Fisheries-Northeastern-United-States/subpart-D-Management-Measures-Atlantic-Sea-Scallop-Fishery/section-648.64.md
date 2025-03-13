@@ -1,5 +1,7 @@
 ##### § 648.64 Flounder Stock sub-ACLs and AMs for the scallop fishery. #####
 
+Link to an amendment published at 89 FR 20353, Mar. 22, 2024.
+
 (a) As specified in § 648.55(d), and pursuant to the biennial framework adjustment process specified in § 648.90, the scallop fishery shall be allocated a sub-ACL for the Georges Bank and Southern New England/Mid-Atlantic stocks of yellowtail flounder and the northern and southern stocks of windowpane flounder. The sub-ACLs for the yellowtail flounder stocks and the windowpane flounder stocks are specified in § 648.90(a)(4)(iii)(C) and (E) of the NE multispecies regulations, respectively.
 
 (b) *Accountability Measure Areas*—(1) *Georges Bank Accountability Measure Area.* The Georges Bank Accountability Measure Area is defined by straight lines, except where noted, connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):

@@ -121,6 +121,7 @@ Table 1 to Paragraph (b)
 |     Dunkerton      |          280A           |
 |     Keosauqua      |          271C3          |
 |      Moville       |          246A           |
+|   North English    |          246A           |
 |      Rockford      |          225A           |
 |        Rudd        |          268A           |
 |       KANSAS       |                         |
@@ -128,6 +129,7 @@ Table 1 to Paragraph (b)
 |      KENTUCKY      |                         |
 |     Irvington      |          261A           |
 |     LOUISIANA      |                         |
+|       Colfax       |          267A           |
 |      Florien       |          222A           |
 |   Golden Meadow    |          289C2          |
 |    Haynesville     |          286A           |
@@ -153,6 +155,7 @@ Table 1 to Paragraph (b)
 |   Grand Portage    |          251A           |
 |    MISSISSIPPI     |                         |
 |       Bruce        |          233A           |
+|    Calhoun City    |          272A           |
 |     Cleveland      |          226C2          |
 |     Greenwood      |          230C3          |
 |       McLain       |          245A           |
@@ -171,6 +174,7 @@ Table 1 to Paragraph (b)
 |      NEBRASKA      |                         |
 |       Bayard       |          251A           |
 |       NEVADA       |                         |
+|  Battle Mountain   |          253C2          |
 |      Caliente      |          264A           |
 |       Owyhee       |          247C1          |
 |      Tonopah       |          224A           |
@@ -217,7 +221,9 @@ Table 1 to Paragraph (b)
 |       OREGON       |                         |
 |     Arlington      |          295C2          |
 |    Diamond Lake    |          251A           |
-|     Huntington     |          228C1          |
+|     Huntington     |      228C1, 294C1       |
+|    Independence    |          274C0          |
+|      Monument      |          280C3          |
 |        Vale        |          288C           |
 |    PENNSYLVANIA    |                         |
 |      Liberty       |          298A           |
@@ -226,8 +232,10 @@ Table 1 to Paragraph (b)
 |     Edgefield      |          238A           |
 |    SOUTH DAKOTA    |                         |
 |      Edgemont      |          289C1          |
+|       Murdo        |          265A           |
 |     TENNESSEE      |                         |
 |     Englewood      |          250A           |
+|       Selmer       |          288A           |
 |       TEXAS        |                         |
 |       Albany       |          255A           |
 |      Asherton      |          284A           |
@@ -237,9 +245,11 @@ Table 1 to Paragraph (b)
 |      Big Lake      |246A, 252C2, 281C1, 296C3|
 |       Bogata       |          247A           |
 |       Bruni        |          293A           |
+|     Camp Wood      |          251C3          |
 |      Canadian      |          235C1          |
 |  Carrizo Springs   |       228A, 295A        |
 |    Centerville     |          274A           |
+|      Cotulla       |          289A           |
 |   Crystal Beach    |          268A           |
 |      Dalhart       |          261C2          |
 |    Denver City     |          248C2          |
@@ -267,6 +277,7 @@ Table 1 to Paragraph (b)
 |       Leakey       |       275A, 299A        |
 |      Lockney       |          271C3          |
 |       Lometa       |          253A           |
+|     Los Ybanez     |          253C2          |
 |      Lovelady      |          288A           |
 |      Marathon      |          276C1          |
 |      Marquez       |          296A           |
@@ -281,6 +292,7 @@ Table 1 to Paragraph (b)
 |       Munday       |          270C1          |
 |     O'Donnell      |          249A           |
 |       Olney        |          282A           |
+|       Ozona        |          275A           |
 |      Palacios      |          259C1          |
 |      Pearsall      |          277A           |
 |      Premont       |       264C3, 287A       |
@@ -299,6 +311,7 @@ Table 1 to Paragraph (b)
 |     Silverton      |          221A           |
 |       Sonora       |          272C3          |
 | South Padre Island |          288A           |
+|      Stamford      |          233A           |
 |       Teague       |          237C3          |
 |      Trinity       |          251A           |
 |       Turkey       |          221C2          |

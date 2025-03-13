@@ -1,0 +1,3 @@
+##### § 293.16 May a compact or amendment include provisions addressing the application of the Tribe's or the State's criminal and civil laws and regulations? #####
+
+Yes. A compact or amendment may include provisions addressing the application of the criminal and civil laws and regulations of the Tribe or the State that are directly related to and necessary for the licensing and regulation of the gaming activity. At the request of the Secretary pursuant to § 293.8(e), the parties must show that these laws and regulations are both directly related to and necessary for the licensing and regulation of the gaming activity.

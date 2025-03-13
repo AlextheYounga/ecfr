@@ -1,0 +1,5 @@
+##### § 16.4 Findings of discrimination. #####
+
+(a) *Discriminatory treatment.* The Commission may find that a covered entity engaged in intentional discrimination by direct evidence or circumstantial evidence that the covered entity's policy or practice was adopted, implemented, or utilized with the intent to differentially impact consumers' access to covered services or covered elements of service on one or more of the bases listed in section 60506(b) of the Infrastructure Act.
+
+(b) *Discriminatory effect.* The Commission may find that a covered entity adopted, implemented, or utilized a policy or practice that had a discriminatory effect on one or more of the bases listed in section 60506(b) of the Infrastructure Act. A discriminatory effect occurs when a facially neutral policy or practice differentially impacts consumers' access to covered services or covered elements of service.

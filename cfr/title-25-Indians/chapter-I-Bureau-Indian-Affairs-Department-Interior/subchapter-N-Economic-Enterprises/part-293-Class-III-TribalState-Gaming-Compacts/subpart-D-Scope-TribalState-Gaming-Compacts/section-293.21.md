@@ -1,0 +1,3 @@
+##### § 293.21 May a compact or amendment include provisions addressing standards for the operation of gaming activity and maintenance of the gaming facility? #####
+
+Yes. A compact or amendment may include provisions addressing the Tribe's standards for the operation of the gaming activity within gaming spaces, as well as the Tribe's standards for the maintenance of the gaming facility, including licensing. If a compact or amendment mandates that the Tribe adopt standards equivalent or comparable to the standards set forth in a State law or regulation, the parties must show that these mandated Tribal standards are both directly related to and necessary for the licensing and regulation of the gaming activity.

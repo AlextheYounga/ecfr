@@ -1,5 +1,7 @@
 ##### § 334.1110 Military Ocean Terminal Concord; restricted area. #####
 
+Link to an amendment published at 89 FR 20319, Mar. 22, 2024.
+
 (a) *The area.* Beginning at a point on the shore and on the easterly side of the mouth of a small slough (known as Hastings Slough) bearing 189°, 2,412 yards from Tripon at Preston Point on Roe Island; thence 340°30′, 400 yards, to the shore line of the westerly of the two Seal Islands; thence 60°30′, 940 yards; thence 75°, 1,650 yards; thence 102°, 1,850 yards; thence 99°, 1,880 yards; thence 180°, 435 yards, to the shore line; thence following the high water shore line in a general westerly direction to the point of beginning.
 
 (b) *The regulations.* (1) No person, vessel, watercraft, conveyance or device shall enter or cause to enter or remain in this area. No person shall refuse or fail to remove any person or property in his custody or under his control from this area upon the request of the Commanding Officer of Military Ocean Terminal Concord or his/her authorized representative.

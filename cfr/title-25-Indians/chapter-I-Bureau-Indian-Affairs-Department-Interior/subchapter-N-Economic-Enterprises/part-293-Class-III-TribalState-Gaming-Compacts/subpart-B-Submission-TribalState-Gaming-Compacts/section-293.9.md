@@ -1,0 +1,3 @@
+##### § 293.9 Where should a compact or amendment or other requests under this part be submitted for review and approval? #####
+
+Submit compacts, amendments, and all other requests under this part to the Director, Office of Indian Gaming, U.S. Department of the Interior, 1849 C Street NW, Mail Stop 3543, Washington, DC 20240. If this address changes, a document with the new address will be sent for publication in the Federal Register within five business days. Compacts and amendments may also be submitted electronically to *IndianGaming@bia.gov* as long as the original copy is submitted to the address listed in this section.

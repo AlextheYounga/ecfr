@@ -1,0 +1,3 @@
+##### § 293.18 May a compact or amendment include provisions addressing the State's costs for regulating gaming activities? #####
+
+Yes. If the compact or amendment includes a negotiated allocation of jurisdiction to the State for the regulation of the gaming activity, the compact or amendment may include provisions to defray the State's actual and reasonable costs for regulating the specific Tribe's gaming activity. If the compact does not include requirements for the State to show actual and reasonable annual expenses for regulating the specific Tribe's gaming activity over the life of the compact, the lack of such a requirement may be considered evidence of a violation of IGRA.

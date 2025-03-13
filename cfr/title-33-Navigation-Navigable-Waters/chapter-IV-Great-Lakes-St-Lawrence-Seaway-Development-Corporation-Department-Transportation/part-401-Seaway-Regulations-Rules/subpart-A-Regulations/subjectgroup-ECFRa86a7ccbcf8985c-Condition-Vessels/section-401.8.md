@@ -1,8 +1,6 @@
 ##### § 401.8 Landing booms. #####
 
-Link to an amendment published at 89 FR 15960, Mar. 6, 2024.
-
-(a) Vessels of more than 50 m in overall length and a freeboard of 2m or more shall either be equipped with landing booms or make provisions for tie-up service at the approach walls.
+(a) Vessels of more than 50 m in overall length and a freeboard of 2m or more shall either be equipped with landing booms or make their own provisions for tie-up at the approach walls.
 
 (b) For vessels with landing booms:
 
@@ -20,6 +18,12 @@ Link to an amendment published at 89 FR 15960, Mar. 6, 2024.
 
 (iii) Documented tests and maintenance records of landing boom equipment.
 
-(c) Vessels not equipped with or not using landing booms shall make arrangements with a third party tie-up service provider for tie-up at Seaway Approach walls at the Canadian Locks prior to commencing transit of the Seaway.
+(c) At the U.S. Locks, vessels not equipped with or not using landing booms may be tied up at the approach walls based on Lock personnel availability.
 
-[88 FR 14267, Mar. 8, 2023]
+(d) At the Canadian Locks, vessels not equipped with or not using landing booms should make alternate arrangements for tie-up at approach walls prior to commencing transit of the Seaway. Example: ship contract in place with a 3rd party service provider where ship is responsible for contacting provider.
+
+(1) Vessels that do not have a tie-up strategy in place for the lock approach walls may be delayed and/or put to anchor until such time that the traffic pattern can accommodate their transit.
+
+(2) [Reserved]
+
+[89 FR 15960, Mar. 6, 2024]

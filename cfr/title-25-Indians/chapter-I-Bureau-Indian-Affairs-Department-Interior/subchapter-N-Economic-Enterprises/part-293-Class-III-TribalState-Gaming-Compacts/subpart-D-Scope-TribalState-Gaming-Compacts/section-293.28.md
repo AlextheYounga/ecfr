@@ -1,0 +1,3 @@
+##### § 293.28 May a compact or extension include provisions that limit the duration of the compact? #####
+
+Yes. However, IGRA anticipates compacts are long-term agreements between a Tribe and a State. These agreements reflect carefully negotiated compromises between sovereigns. A refusal to negotiate a long-term compact, or a short-term extension of at least one year to allow for negotiations to continue, may be considered evidence of a violation of IGRA.

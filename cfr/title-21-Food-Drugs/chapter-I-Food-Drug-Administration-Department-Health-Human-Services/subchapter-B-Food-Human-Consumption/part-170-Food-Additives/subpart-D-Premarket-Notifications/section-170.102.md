@@ -1,5 +1,7 @@
 ##### § 170.102 Confidentiality of information in a premarket notification for a food contact substance (FCN). #####
 
+Link to an amendment published at 89 FR 20315, Mar. 22, 2024.
+
 (a) During the 120-day period of the Food and Drug Administration (FDA) review of an FCN, FDA will not disclose publicly any information in that FCN.
 
 (b) FDA will not disclose publicly the information in an FCN that is withdrawn prior to the completion of FDA's review.

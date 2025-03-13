@@ -1,0 +1,3 @@
+##### § 293.11 When will the 45-day timeline begin? #####
+
+The 45-day timeline will begin when a compact or amendment is received either electronically or hard copy submission and date stamped by the Office of Indian Gaming. The Department will provide an email acknowledgement to the Tribe and the State of receipt and provide the date on which the Secretary's 45-day review period will expire for electronically submitted compacts or amendments.

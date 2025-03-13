@@ -1,0 +1,3 @@
+##### § 293.19 May a compact or amendment include provisions addressing the Tribe's taxation of gaming? #####
+
+Yes. A compact or amendment may include provisions addressing the Tribe's taxation of tribally licensed gaming activity in amounts comparable to the State's taxation of State licensed gaming activities. A compact may not include provisions addressing the Tribe's taxation of other activities that may occur within or near the Tribe's gaming facility. The inclusion of provisions addressing the Tribe's taxation of other activities may be considered evidence of a violation of IGRA.

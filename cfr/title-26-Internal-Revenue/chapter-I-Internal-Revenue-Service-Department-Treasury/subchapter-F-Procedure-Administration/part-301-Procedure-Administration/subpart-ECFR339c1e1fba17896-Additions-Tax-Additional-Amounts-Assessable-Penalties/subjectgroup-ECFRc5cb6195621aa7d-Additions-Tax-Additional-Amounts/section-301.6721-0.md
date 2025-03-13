@@ -22,7 +22,7 @@ In order to facilitate the use of §§ 301.6721-1 through 301.6724-1, this secti
 
 (5) Examples.
 
-(6) Applications to returns not due on January 31, February 28, or March 15.
+(6) Application to returns not due on January 31, February 28, or March 15.
 
 (c) Exception for inconsequential errors or omissions.
 
@@ -254,6 +254,6 @@ In order to facilitate the use of §§ 301.6721-1 through 301.6724-1, this secti
 
 (n) Manner of payment.
 
-(o) Applicability date.
+(o) Applicability dates.
 
-[T.D. 8386, 56 FR 67182, Dec. 30, 1991, as amended by T.D. 8734, 62 FR 53496, Oct. 14, 1997; T.D. 9984, 88 FR 87700, Dec. 19, 2023]
+[T.D. 8386, 56 FR 67182, Dec. 30, 1991, as amended by T.D. 8734, 62 FR 53496, Oct. 14, 1997; T.D. 9984, 88 FR 87700, Dec. 19, 2023; 89 FR 20317, Mar. 22, 2024]

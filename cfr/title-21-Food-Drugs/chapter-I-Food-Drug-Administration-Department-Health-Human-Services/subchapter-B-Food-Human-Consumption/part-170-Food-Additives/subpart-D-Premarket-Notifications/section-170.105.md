@@ -1,5 +1,7 @@
 ##### § 170.105 The Food and Drug Administration's (FDA's) determination that a premarket notification for a food contact substance (FCN) is no longer effective. #####
 
+Link to an amendment published at 89 FR 20316, Mar. 22, 2024.
+
 (a) If data or other information available to FDA, including data not submitted by the manufacturer or supplier, demonstrate that the intended use of the food contact substance is no longer safe, FDA may determine that the authorizing FCN is no longer effective.
 
 (b) If FDA determines that an FCN is no longer effective, FDA will inform the manufacturer or supplier in writing of the basis for that determination. FDA will give the manufacturer or supplier an opportunity to show why the FCN should continue to be effective and will specify the time that the manufacturer or supplier will have to respond.

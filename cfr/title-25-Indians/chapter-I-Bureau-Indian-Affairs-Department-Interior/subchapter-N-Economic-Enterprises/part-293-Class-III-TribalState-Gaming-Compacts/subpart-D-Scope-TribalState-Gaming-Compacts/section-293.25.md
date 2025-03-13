@@ -1,0 +1,3 @@
+##### § 293.25 May a compact or amendment include provisions addressing employee background investigations and licensing? #####
+
+Yes. Consistent with 25 CFR 558.1, a compact or amendment may include provisions addressing the Tribe's standards and requirements for employee background investigations and licensing. If the compact or amendment includes a negotiated allocation to the State for concurring in or processing employee background investigations or licenses, the parties must show that the licensing process is as stringent and timely as the background investigation and licensing requirements of 25 CFR parts 556 and 558. The compact may also include provisions for the reasonable reimbursement of background investigation and licensing fees.

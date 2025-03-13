@@ -1,0 +1,3 @@
+##### § 293.5 Are extensions to compacts or amendments subject to review and approval? #####
+
+No. Approval of an extension to a compact or amendment is not required if the extension does not include any changes to any of the other terms of the compact or amendment. However, the parties must submit the documents required by § 293.8(a) through (c). The extension becomes effective only upon publication in the Federal Register.
