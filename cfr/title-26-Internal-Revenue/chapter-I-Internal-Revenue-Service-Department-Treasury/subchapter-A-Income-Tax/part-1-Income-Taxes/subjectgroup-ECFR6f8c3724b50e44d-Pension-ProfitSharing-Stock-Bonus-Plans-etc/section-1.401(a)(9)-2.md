@@ -1,5 +1,7 @@
 ##### § 1.401(a)(9)-2 Distributions commencing during an employee's lifetime. #####
 
+Link to an amendment published at 89 FR 58907, July 19, 2024.
+
 Q-1. In the case of distributions commencing during an employee's lifetime, how must the employee's entire interest be distributed in order to satisfy section 401(a)(9)(A)?
 
 A-1. (a) In order to satisfy section 401(a)(9)(A), the entire interest of each employee must be distributed to such employee not later than the required beginning date, or must be distributed, beginning not later than the required beginning date, over the life of the employee or joint lives of the employee and a designated beneficiary or over a period not extending beyond the life expectancy of the employee or the joint life and last survivor expectancy of the employee and the designated beneficiary.

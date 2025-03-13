@@ -1,5 +1,7 @@
 ##### § 1.401(a)(9)-6 Required minimum distributions for defined benefit plans and annuity contracts. #####
 
+Link to an amendment published at 89 FR 58907, July 19, 2024.
+
 Q-1. How must distributions under a defined benefit plan be paid in order to satisfy section 401(a)(9)?
 
 A-1. (a) *General rules.* In order to satisfy section 401(a)(9), except as otherwise provided in this section, distributions of the employee's entire interest under a defined benefit plan must be paid in the form of periodic annuity payments for the employee's life (or the joint lives of the employee and beneficiary) or over a period certain that does not exceed the maximum length of the period certain determined in accordance with A-3 of this section. The interval between payments for the annuity must be uniform over the entire distribution period and must not exceed one year. Once payments have commenced over a period, the period may only be changed in accordance with A-13 of this section. Life (or joint and survivor) annuity payments must satisfy the minimum distribution incidental benefit requirements of A-2 of this section. Except as otherwise provided in this section (such as permitted increases described in A-14 of this section), all payments (whether paid over an employee's life, joint lives, or a period certain) also must be nonincreasing.

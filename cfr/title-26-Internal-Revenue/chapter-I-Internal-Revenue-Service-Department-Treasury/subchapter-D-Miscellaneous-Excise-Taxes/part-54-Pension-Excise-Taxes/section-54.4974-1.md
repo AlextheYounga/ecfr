@@ -1,5 +1,7 @@
 ##### § 54.4974-1 Excise tax on accumulations in individual retirement accounts or annuities. #####
 
+Link to an amendment published at 89 FR 58951, July 19, 2024.
+
 (a) *General rule.* A tax equal to 50 percent of the amount by which the minimum amount required to be distributed from an individual retirement account or annuity described in section 408 during the taxable year of the payee under paragraph (b) of this section exceeds the amount actually distributed during the taxable year is imposed by section 4974 on the payee.
 
 (b) *Minimum amount required to be distributed.* For purposes of this section, the minimum amount required to be distributed is the amount required under § 1.408-2(b)(6)(v) to be distributed in the taxable year described in paragraph (a) of this section.

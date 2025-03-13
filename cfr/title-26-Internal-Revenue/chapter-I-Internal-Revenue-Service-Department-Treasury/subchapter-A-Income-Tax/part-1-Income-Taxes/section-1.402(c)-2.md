@@ -1,5 +1,7 @@
 ##### § 1.402(c)-2 Eligible rollover distributions; questions and answers. #####
 
+Link to an amendment published at 89 FR 58939, July 19, 2024.
+
 The following questions and answers relate to the rollover rules under section 402(c) of the Internal Revenue Code of 1986, as added by sections 521 and 522 of the Unemployment Compensation Amendments of 1992, Public Law 102-318, 106 Stat. 290 (UCA). For additional UCA guidance under sections 401(a)(31), 402(f), 403(b)(8) and (10), and 3405(c), see §§ 1.401(a)(31)-1, 1.402(f)-1, and 1.403(b)-7(b), and § 31.3405(c)-1 of this chapter, respectively.
 
 List of Questions

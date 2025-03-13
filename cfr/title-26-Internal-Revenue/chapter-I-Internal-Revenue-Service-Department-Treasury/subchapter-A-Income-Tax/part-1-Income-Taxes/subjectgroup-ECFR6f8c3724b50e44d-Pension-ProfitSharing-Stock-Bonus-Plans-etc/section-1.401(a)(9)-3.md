@@ -1,5 +1,7 @@
 ##### § 1.401(a)(9)-3 Death before required beginning date. #####
 
+Link to an amendment published at 89 FR 58907, July 19, 2024.
+
 Q-1. If an employee dies before the employee's required beginning date, how must the employee's entire interest be distributed in order to satisfy section 401(a)(9)?
 
 A-1. (a) Except as otherwise provided in A-10 of § 1.401(a)(9)-6, if an employee dies before the employee's required beginning date (and, thus, before distributions are treated as having begun in accordance with section 401(a)(9)(A)(ii)), distribution of the employee's entire interest must be made in accordance with one of the methods described in section 401(a)(9)(B)(ii) or (iii) and (iv). One method (the 5-year rule in section 401(a)(9)(B)(ii)) requires that the entire interest of the employee be distributed within 5 years of the employee's death regardless of who or what entity receives the distribution. Another method (the life expectancy rule in section 401(a)(9)(B)(iii) and (iv)) requires that any portion of an employee's interest payable to (or for the benefit of) a designated beneficiary be distributed, commencing within one year of the employee's death, over the life of such beneficiary (or over a period not extending beyond the life expectancy of such beneficiary). Section 401(a)(9)(B)(iv) provides special rules where the designated beneficiary is the surviving spouse of the employee, including a special commencement date for distributions under section 401(a)(9)(B)(iii) to the surviving spouse.

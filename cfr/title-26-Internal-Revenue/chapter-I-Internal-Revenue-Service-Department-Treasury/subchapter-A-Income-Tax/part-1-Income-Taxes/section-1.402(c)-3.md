@@ -1,5 +1,7 @@
 ##### § 1.402(c)-3 Eligible rollover distributions; Qualified plan loan offsets. #####
 
+Link to an amendment published at 89 FR 58946, July 19, 2024.
+
 (a)(1) *Q-1.* What special rollover rules apply to a plan loan offset amount (including a qualified plan loan offset amount)?
 
 (2) *A-1*—(i) *In general*—(A) *Eligible rollover distribution.* A distribution of a plan loan offset amount, as defined in paragraph (a)(2)(iii)(A) of this section (including a qualified plan loan offset amount, a type of plan loan offset amount defined in paragraph (a)(2)(iii)(B) of this section), is an eligible rollover distribution if it satisfies § 1.402(c)-2, Q&A-3 and 4.

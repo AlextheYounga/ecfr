@@ -1,5 +1,7 @@
 ##### § 1.408-8 Distribution requirements for individual retirement plans. #####
 
+Link to an amendment published at 89 FR 58948, July 19, 2024.
+
 The following questions and answers relate to the distribution rules for IRAs provided in sections 408(a)(6) and 408(b)(3).
 
 Q-1. Is an IRA subject to the distribution rules provided in section 401(a)(9) for qualified plans?

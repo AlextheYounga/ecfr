@@ -1,5 +1,7 @@
 ##### § 1.401(m)-2 ACP test. #####
 
+Link to an amendment published at 89 FR 58906, July 19, 2024.
+
 (a) *Actual contribution percentage (ACP) test*—(1) *In general—(i) ACP test formula.* A plan satisfies the ACP test for a plan year only if—
 
 (A) The ACP for the eligible HCEs for the plan year is not more than the ACP for the eligible NHCEs for the applicable year multiplied by 1.25; or

@@ -1,5 +1,7 @@
 ##### § 1.401(k)-4 SIMPLE 401(k) plan requirements. #####
 
+Link to an amendment published at 89 FR 58906, July 19, 2024.
+
 (a) *General rule.* A cash or deferred arrangement satisfies the SIMPLE 401(k) plan provision of section 401(k)(11) for a plan year if the arrangement satisfies the requirements of paragraphs (b) through (i) of this section for that year. A plan that contains a cash or deferred arrangement that satisfies this section is referred to as a SIMPLE 401(k) plan. Pursuant to section 401(k)(11), a SIMPLE 401(k) plan is treated as satisfying the ADP test of section 401(k)(3)(A)(ii) for that year.
 
 (b) *Eligible employer*—(1) *General rule.* A SIMPLE 401(k) plan must be established by an eligible employer. Eligible employer for purposes of this section means, with respect to any plan year, an employer that had no more than 100 employees who each received at least $5,000 of SIMPLE compensation, as defined in paragraph (e)(5) of this section, from the employer for the prior calendar year.

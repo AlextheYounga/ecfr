@@ -1,5 +1,7 @@
 ##### § 1.408A-6 Distributions. #####
 
+Link to an amendment published at 89 FR 58906, July 19, 2024.
+
 This section sets forth the following questions and answers that provide rules regarding distributions from Roth IRAs:
 
 Q-1. How are distributions from Roth IRAs taxed?

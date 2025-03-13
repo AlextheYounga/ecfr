@@ -1,5 +1,7 @@
 ##### § 1.401(a)(9)-7 Rollovers and transfers. #####
 
+Link to an amendment published at 89 FR 58907, July 19, 2024.
+
 Q-1. If an amount is distributed by one plan (distributing plan) and is rolled over to another plan, is the required minimum distribution under the distributing plan affected by the rollover?
 
 A-1. No, if an amount is distributed by one plan and is rolled over to another plan, the amount distributed is still treated as a distribution by the distributing plan for purposes of section 401(a)(9), notwithstanding the rollover. See A-1 of § 1.402(c)-2 for the definition of a rollover and A-7 of § 1.402(c)-2 for rules for determining the portion of any distribution that is not eligible for rollover because it is a required minimum distribution.

@@ -1,5 +1,7 @@
 ##### § 31.3405(c)-1 Withholding on eligible rollover distributions; questions and answers. #####
 
+Link to an amendment published at 89 FR 58951, July 19, 2024.
+
 The following questions and answers relate to withholding on eligible rollover distributions under section 3405(c) of the Internal Revenue Code of 1986, as added by section 522(b) of the Unemployment Compensation Amendments of 1992 (Public Law 102-318, 106 Stat. 290) (UCA). For additional UCA guidance under sections 401(a)(31), 402(c), 402(f), and 403(b)(8) and (10), see §§ 1.401(a)(31)-1, 1.402(c)-2, 1.402(f)-1, and 1.403(b)-2 of this chapter, respectively.
 
 List of Questions

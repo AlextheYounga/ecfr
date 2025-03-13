@@ -1,5 +1,7 @@
 ##### § 1.401(a)(31)-1 Requirement to offer direct rollover of eligible rollover distributions; questions and answers. #####
 
+Link to an amendment published at 89 FR 58906, July 19, 2024.
+
 The following questions and answers relate to the qualification requirement imposed by section 401(a)(31) of the Internal Revenue Code of 1986, pertaining to the direct rollover option for eligible rollover distributions from pension, profit-sharing, and stock bonus plans. Section 401(a)(31) was added by section 522(a) of the Unemployment Compensation Amendments of 1992, Public Law 102-318, 106 Stat. 290 (UCA). For additional UCA guidance under sections 402(c), 402(f), 403(b)(8) and (10), and 3405(c), see §§ 1.402(c)-2, 1.402(f)-1, and 1.403(b)-7(b), and § 31.3405(c)-1 of this chapter, respectively.
 
 List of Questions

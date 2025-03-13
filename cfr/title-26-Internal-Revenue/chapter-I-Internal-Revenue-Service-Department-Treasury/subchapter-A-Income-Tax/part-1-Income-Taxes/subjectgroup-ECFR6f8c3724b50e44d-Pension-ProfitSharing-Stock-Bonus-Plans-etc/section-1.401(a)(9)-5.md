@@ -1,5 +1,7 @@
 ##### § 1.401(a)(9)-5 Required minimum distributions from defined contribution plans. #####
 
+Link to an amendment published at 89 FR 58907, July 19, 2024.
+
 Q-1. If an employee's benefit is in the form of an individual account under a defined contribution plan, what is the amount required to be distributed for each calendar year?
 
 A-1. (a) *General rule.* If an employee's accrued benefit is in the form of an individual account under a defined contribution plan, the minimum amount required to be distributed for each distribution calendar year, as defined in paragraph (b) of this A-1, is equal to the quotient obtained by dividing the account (determined under A-3 of this section) by the applicable distribution period (determined under A-4 or A-5 of this section, whichever is applicable). However, the required minimum distribution amount will never exceed the entire account balance on the date of the distribution. See A-8 of this section for rules that apply if a portion of the employee's account is not vested. Further, the minimum distribution required to be distributed on or before an employee's required beginning date is always determined under section 401(a)(9)(A)(ii) and this A-1 and not section 401(a)(9)(A)(i).

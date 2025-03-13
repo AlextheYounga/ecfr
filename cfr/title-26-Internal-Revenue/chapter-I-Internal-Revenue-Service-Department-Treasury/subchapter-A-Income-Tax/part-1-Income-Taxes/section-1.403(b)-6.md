@@ -1,5 +1,7 @@
 ##### § 1.403(b)-6 Timing of distributions and benefits. #####
 
+Link to an amendment published at 89 FR 58946, July 19, 2024.
+
 (a) *Distributions generally.* This section provides special rules regarding the timing of distributions from, and the benefits that may be provided under, a section 403(b) contract, including limitations on when early distributions can be made (in paragraphs (b) through (d) of this section), required minimum distributions (in paragraph (e) of this section), and special rules relating to loans (in paragraph (f) of this section) and incidental benefits (in paragraph (g) of this section).
 
 (b) *Distributions from contracts other than custodial accounts or amounts attributable to section 403(b) elective deferrals.* Except as provided in paragraph (c) of this section relating to distributions from custodial accounts, paragraph (d) of this section relating to distributions attributable to section 403(b) elective deferrals, § 1.403(b)-4(f) (relating to correction of excess deferrals), or § 1.403(b)-10(a) (relating to plan termination), a section 403(b) contract is permitted to distribute retirement benefits to the participant no earlier than upon the earlier of the participant's severance from employment or upon the prior occurrence of some event, such as after a fixed number of years, the attainment of a stated age, or disability. See § 1.401-1(b)(1)(ii) for additional guidance. This paragraph (b) does not apply to after-tax employee contributions or earnings thereon.

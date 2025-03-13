@@ -1,5 +1,7 @@
 ##### § 1.401(k)-2 ADP test. #####
 
+Link to an amendment published at 89 FR 58906, July 19, 2024.
+
 (a) *Actual deferral percentage (ADP) test*—(1) *In general*—(i) *ADP test formula.* A cash or deferred arrangement satisfies the ADP test for a plan year only if—
 
 (A) The ADP for the eligible HCEs for the plan year is not more than the ADP for the eligible NHCEs for the applicable year multiplied by 1.25; or

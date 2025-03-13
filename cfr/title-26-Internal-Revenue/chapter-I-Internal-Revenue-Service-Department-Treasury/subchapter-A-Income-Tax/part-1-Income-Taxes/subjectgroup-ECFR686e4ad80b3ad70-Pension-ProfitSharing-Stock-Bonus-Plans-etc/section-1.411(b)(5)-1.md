@@ -1,5 +1,7 @@
 ##### § 1.411(b)(5)-1 Reduction in rate of benefit accrual under a defined benefit plan. #####
 
+Link to an amendment published at 89 FR 58906, July 19, 2024.
+
 (a) *In general*—(1) *Organization of regulation.* This section sets forth certain rules for determining whether a reduction occurs in the rate of benefit accrual under a defined benefit plan because of the attainment of any age for purposes of section 411(b)(1)(H)(i). Paragraph (b) of this section describes safe harbors for certain plan designs (including statutory hybrid plans) that are deemed to satisfy the age discrimination rules under section 411(b)(1)(H). Paragraph (c) of this section describes rules relating to statutory hybrid plan conversion amendments. Paragraph (d) of this section describes rules restricting interest credits (or equivalent amounts) under a statutory hybrid plan to a market rate of return. Paragraph (e) of this section contains additional rules related to market rates of return. Paragraph (f) of this section contains effective/applicability dates.
 
 (2) *Definitions.* The definitions of accumulated benefit, lump sum-based benefit formula, statutory hybrid benefit formula, statutory hybrid plan, and variable annuity benefit formula in § 1.411(a)(13)-1(d) apply for purposes of this section.

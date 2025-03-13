@@ -1,5 +1,7 @@
 ##### § 1.401(a)(9)-9 Life expectancy and distribution period tables. #####
 
+Link to an amendment published at 89 FR 58938, July 19, 2024.
+
 (a) *In general.* This section specifies the life expectancy and applicable distribution period tables that apply for purposes of determining required minimum distributions under section 401(a)(9). Paragraphs (b), (c), and (d) of this section set forth these tables. Paragraph (e) of this section provides the mortality rates that are used to develop these tables. Paragraph (f) of this section provides applicability date rules.
 
 (b) *Single Life Table.* The following table, referred to as the Single Life Table, sets forth the life expectancy of an individual at each age.

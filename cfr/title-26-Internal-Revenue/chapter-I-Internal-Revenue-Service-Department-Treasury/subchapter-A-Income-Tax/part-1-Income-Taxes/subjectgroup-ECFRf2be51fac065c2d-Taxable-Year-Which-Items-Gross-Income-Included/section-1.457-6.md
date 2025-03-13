@@ -1,5 +1,7 @@
 ##### § 1.457-6 Timing of distributions under eligible plans. #####
 
+Link to an amendment published at 89 FR 58951, July 19, 2024.
+
 (a) *In general.* Except as provided in paragraph (c) of this section (relating to distributions on account of an unforeseeable emergency), paragraph (e) of this section (relating to distributions of small accounts), § 1.457-10(a) (relating to plan terminations), or § 1.457-10(c) (relating to domestic relations orders), amounts deferred under an eligible plan may not be paid to a participant or beneficiary before the participant has a severance from employment with the eligible employer or when the participant attains age 701/2, if earlier. For rules relating to loans, see paragraph (f) of this section. This section does not apply to distributions of excess amounts under § 1.457-4(e). However, except to the extent set forth by the Commissioner in revenue rulings, notices, and other guidance published in the Internal Revenue Bulletin (see § 601.601(d) of this chapter), this section applies to amounts held in a separate account for eligible rollover distributions maintained by an eligible governmental plan as described in § 1.457-10(e)(2).
 
 (b) *Severance from employment*—(1) *Employees.* An employee has a severance from employment with the eligible employer if the employee dies, retires, or otherwise has a severance from employment with the eligible employer. See regulations under section 401(k) for additional guidance concerning severance from employment.

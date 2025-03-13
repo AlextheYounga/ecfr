@@ -1,5 +1,7 @@
 ##### § 1.401(a)(9)-1 Minimum distribution requirement in general. #####
 
+Link to an amendment published at 89 FR 58907, July 19, 2024.
+
 Q-1. What plans are subject to the minimum distribution requirement under section 401(a)(9), this section, and §§ 1.401(a)(9)-2 through 1.401(a)(9)-9?
 
 A-1. Under section 401(a)(9), all stock bonus, pension, and profit-sharing plans qualified under section 401(a) and annuity contracts described in section 403(a) are subject to required minimum distribution rules. See this section and §§ 1.401(a)(9)-2 through 1.401(a)(9)-9 for the distribution rules applicable to these plans. Under section 403(b)(10), annuity contracts or custodial accounts described in section 403(b) are subject to required minimum distribution rules. See § 1.403(b)-6e for the distribution rules applicable to these annuity contracts or custodial accounts. Under section 408(a)(6) and 408(b)(3), individual retirement plans (including, for some purposes, Roth IRAs under section 408A) are subject to required minimum distribution rules. See § 1.408-8 for the distribution rules applicable to individual retirement plans and see § 1.408A-6 for the distribution rules applicable to Roth IRAs under section 408A. Under section 457(d)(2), certain deferred compensation plans for employees of tax exempt organizations or state and local government employees are subject to required minimum distribution rules.

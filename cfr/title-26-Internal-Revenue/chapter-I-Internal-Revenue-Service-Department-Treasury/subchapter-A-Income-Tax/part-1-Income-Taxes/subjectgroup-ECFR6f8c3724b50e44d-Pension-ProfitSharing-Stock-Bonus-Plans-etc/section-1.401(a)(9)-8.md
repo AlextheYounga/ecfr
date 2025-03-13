@@ -1,5 +1,7 @@
 ##### § 1.401(a)(9)-8 Special rules. #####
 
+Link to an amendment published at 89 FR 58907, July 19, 2024.
+
 Q-1. What distribution rules apply if an employee is a participant in more than one plan?
 
 A-1. If an employee is a participant in more than one plan, the plans in which the employee participates are not permitted to be aggregated for purposes of testing whether the distribution requirements of section 401(a)(9) are met. The distribution of the benefit of the employee under each plan must separately meet the requirements of section 401(a)(9). For this purpose, a plan described in section 414(k) is treated as two separate plans, a defined contribution plan to the extent benefits are based on an individual account and a defined benefit plan with respect to the remaining benefits.

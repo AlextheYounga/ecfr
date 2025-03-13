@@ -1,5 +1,7 @@
 ##### § 1.402A-1 Designated Roth Accounts. #####
 
+Link to an amendment published at 89 FR 58906, July 19, 2024.
+
 Q-1. What is a designated Roth account?
 
 A-1. A designated Roth account is a separate account under a qualified cash or deferred arrangement under a section 401(a) plan, or under a section 403(b) plan, to which designated Roth contributions are permitted to be made in lieu of elective contributions and that satisfies the requirements of § 1.401(k)-1(f) (in the case of a section 401(a) plan) or § 1.403(b)-3(c) (in the case of a section 403(b) plan).
