@@ -1,6 +1,6 @@
 ##### § 457.131 Macadamia nut crop insurance provisions. #####
 
-The macadamia nut crop insurance provisions for the 2024 and succeeding crop years are as follows:
+The macadamia nut crop insurance provisions for the 2025 and succeeding crop years are as follows:
 
 FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Macadamia Nut Crop Provisions1. Definitions
 
@@ -210,4 +210,4 @@ You select the 65 percent coverage level and 100 percent of the price election o
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 35664, July 2, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 75 FR 15887, Mar. 30, 2010; 75 FR 59057, Sept. 27, 2010; 80 FR 20412, Apr. 16, 2015; 87 FR 38893, June 30, 2022; 87 FR 52853, Aug. 30, 2022; 88 FR 59790, Aug. 30, 2023]
+[62 FR 35664, July 2, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 75 FR 15887, Mar. 30, 2010; 75 FR 59057, Sept. 27, 2010; 80 FR 20412, Apr. 16, 2015; 87 FR 38893, June 30, 2022; 87 FR 52853, Aug. 30, 2022; 88 FR 59790, Aug. 30, 2023; 88 FR 70339, Oct. 11, 2023]

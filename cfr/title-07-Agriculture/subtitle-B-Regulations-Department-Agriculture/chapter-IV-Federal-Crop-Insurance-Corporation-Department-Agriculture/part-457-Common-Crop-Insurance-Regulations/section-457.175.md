@@ -1,6 +1,6 @@
 ##### § 457.175 California avocado crop insurance provisions. #####
 
-The California avocado crop provisions for the 2024 and succeeding crop years are as follows:
+The California avocado crop provisions for the 2025 and succeeding crop years are as follows:
 
 FCIC policies:
 
@@ -258,4 +258,4 @@ Assume the unit produced 15,000 lbs. Your share is 100 percent.
 
 The indemnity is calculated as follows:
 
-2,871 × 10 acres = 28,710 lbs.28,710 lbs. −15,000 lbs. = 13,710 lbs.13,710 lbs. × $0.90 × 1.000 = $12,339.[82 FR 61131, Dec. 27, 2017, as amended at 83 FR 16767, Apr. 17, 2018; 87 FR 38900, June 30, 2022; 87 FR 52854, Aug. 30, 2022; 88 FR 59790, Aug. 30, 2023]
+2,871 × 10 acres = 28,710 lbs.28,710 lbs. −15,000 lbs. = 13,710 lbs.13,710 lbs. × $0.90 × 1.000 = $12,339.[82 FR 61131, Dec. 27, 2017, as amended at 83 FR 16767, Apr. 17, 2018; 87 FR 38900, June 30, 2022; 87 FR 52854, Aug. 30, 2022; 88 FR 59790, Aug. 30, 2023; 88 FR 70339, Oct. 11, 2023]

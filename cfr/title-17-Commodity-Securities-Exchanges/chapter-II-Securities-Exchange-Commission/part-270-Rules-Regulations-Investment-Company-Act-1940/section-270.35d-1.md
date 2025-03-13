@@ -1,5 +1,7 @@
 ##### § 270.35d-1 Investment company names. #####
 
+Link to an amendment published at 88 FR 70509, Oct. 11, 2023.
+
 (a) For purposes of section 35(d) of the Act (15 U.S.C. 80a-34(d)), a materially deceptive and misleading name of a Fund includes:
 
 (1) *Names suggesting guarantee or approval by the United States government.* A name suggesting that the Fund or the securities issued by it are guaranteed, sponsored, recommended, or approved by the United States government or any United States government agency or instrumentality, including any name that uses the words “guaranteed” or “insured” or similar terms in conjunction with the words “United States” or “U.S. government.”

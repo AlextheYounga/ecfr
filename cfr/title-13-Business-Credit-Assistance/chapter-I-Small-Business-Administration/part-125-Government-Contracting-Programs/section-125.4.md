@@ -22,6 +22,8 @@
 
 (4) Leases involving rights to minerals, petroleum, coal, and vegetation; and
 
-(5) Sales of surplus real and personal property.
+(5) These provisions are contained in §§ 121.501 through 121.512 of this chapter.
 
 (d) SBA has established specific small business size standards and rules for the sale or lease of the different kinds of Government property. These provisions are contained in §§ 121.501 through 121.514 of this chapter.
+
+[61 FR 3312, Jan. 31, 1996, as amended at 88 FR 70343, Oct. 11, 2023]

@@ -1,5 +1,7 @@
 ##### § 402.1 Basis and scope. #####
 
+Link to an amendment published at 88 FR 70372, Oct. 11, 2023.
+
 (a) *Basis.* This part is based on the sections of the Act that are specified in paragraph (c) of this section.
 
 (b) *Scope.* This part—

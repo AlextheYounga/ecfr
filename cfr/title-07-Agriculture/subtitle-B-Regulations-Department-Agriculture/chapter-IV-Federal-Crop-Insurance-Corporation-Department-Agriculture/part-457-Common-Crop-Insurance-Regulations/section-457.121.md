@@ -1,6 +1,6 @@
 ##### § 457.121 Arizona-California citrus crop insurance provisions. #####
 
-The Arizona-California citrus crop insurance provisions for the 2024 and succeeding crop years are as follows:
+The Arizona-California citrus crop insurance provisions for the 2025 and succeeding crop years are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationArizona-California Citrus Crop Provisions1. Definitions
 
@@ -182,7 +182,7 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 (a) In accordance with the requirements of section 14 of the Basic Provisions, you must leave representative samples. In lieu of section 14(c)(3) of the Basic Provisions, we will determine which trees must remain unharvested as your representative sample so that we may inspect them in accordance with procedures.
 
-(b)In addition to the requirements of section 14 of the Basic Provisions (§ 457.8), the following will apply:
+(b) In addition to the requirements of section 14 of the Basic Provisions (§ 457.8), the following will apply:
 
 (1) If the Special Provisions permit or a written agreement authorizing direct marketing exists, you must notify us at least 15 days before any production from any unit will be harvested for direct marketing. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be harvested for direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
 
@@ -246,4 +246,4 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[61 FR 44147, Aug. 28, 1996, as amended at 62 FR 65170, Dec. 10, 1997; 78 FR 46253, July 31, 2013; 87 FR 38892, June 30, 2022; 88 FR 59789, Aug. 30, 2023]
+[61 FR 44147, Aug. 28, 1996, as amended at 62 FR 65170, Dec. 10, 1997; 78 FR 46253, July 31, 2013; 87 FR 38892, June 30, 2022; 88 FR 59789, Aug. 30, 2023; 88 FR 70339, Oct. 11, 2023]

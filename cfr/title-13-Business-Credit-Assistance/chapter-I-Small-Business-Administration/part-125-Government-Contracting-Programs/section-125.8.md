@@ -18,7 +18,7 @@
 
 (iii) Stating that with respect to a separate legal entity joint venture, the small business must own at least 51% of the joint venture entity;
 
-(iv) Stating that the small business participant(s) must receive profits from the joint venture commensurate with the work performed by them, or a percentage agreed to by the parties to the joint venture whereby the small business participant(s) receive profits from the joint venture that exceed the percentage commensurate with the work performed by them, and that at the conclusion of the joint venture contract(s) and/or the termination of a joint venture, any funds remaining in the joint venture bank account shall distributed at the discretion of the joint venture members according to percentage of ownership;
+(iv) Stating that the small business participant(s) must receive profits from the joint venture commensurate with the work performed by them, or a percentage agreed to by the parties to the joint venture whereby the small business participant(s) receive profits from the joint venture that exceed the percentage commensurate with the work performed by them, and that at the termination of a joint venture, any funds remaining in the joint venture bank account shall be distributed according to the percentage of ownership;
 
 (v) Providing for the establishment and administration of a special bank account in the name of the joint venture. This account must require the signature or consent of all parties to the joint venture for any payments made by the joint venture to its members for services performed. All payments due the joint venture for performance on a contract set aside or reserved for small business will be deposited in the special account; all expenses incurred under the contract will be paid from the account as well;
 
@@ -72,4 +72,4 @@
 
 (j) *Compliance with performance of work requirements.* Any person with information concerning a joint venture's compliance with the performance of work requirements may report that information to SBA and/or the SBA Office of Inspector General.
 
-[81 FR 48585, July 25, 2016, as amended at 81 FR 94941, Dec. 27, 2016; 85 FR 66193, Oct. 16, 2020; 88 FR 26211, Apr. 27, 2023]
+[81 FR 48585, July 25, 2016, as amended at 81 FR 94941, Dec. 27, 2016; 85 FR 66193, Oct. 16, 2020; 88 FR 26211, Apr. 27, 2023; 88 FR 70343, Oct. 11, 2023]

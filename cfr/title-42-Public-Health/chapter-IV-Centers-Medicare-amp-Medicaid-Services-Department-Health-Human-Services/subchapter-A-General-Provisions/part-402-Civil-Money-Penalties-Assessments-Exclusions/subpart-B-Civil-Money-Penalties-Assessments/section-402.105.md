@@ -1,5 +1,7 @@
 ##### § 402.105 Amount of penalty. #####
 
+Link to an amendment published at 88 FR 70372, Oct. 11, 2023.
+
 (a) *$2,000.* Except as provided in paragraphs (b) through (h) of this section, CMS or OIG may impose a penalty of not more than $2,000 as adjusted annually under 45 CFR part 102 for each service, bill, or refusal to issue a timely refund that is subject to a determination under this part and for each incident involving the knowing, willful, and repeated failure of an entity furnishing a service to submit a properly completed claim form or to include on the claim form accurate information regarding the availability of other health insurance benefit plans (§ 402.1(c)(21)).
 
 (b) *$1,000.* CMS or OIG may impose a penalty of not more than $1,000 as adjusted annually under 45 CFR part 102 for the following:

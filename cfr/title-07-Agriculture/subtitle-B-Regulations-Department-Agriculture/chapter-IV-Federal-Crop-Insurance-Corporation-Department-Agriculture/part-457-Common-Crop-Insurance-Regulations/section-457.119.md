@@ -1,6 +1,6 @@
 ##### § 457.119 Texas citrus fruit crop insurance provisions. #####
 
-The Texas citrus fruit crop insurance provisions for the 2024 and succeeding crop years are as follows:
+The Texas citrus fruit crop insurance provisions for the 2025 and succeeding crop years are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationTexas Citrus Fruit Crop Provisions1. Definitions
 
@@ -254,4 +254,4 @@ If individual records of juice content are not available, an average juice conte
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[61 FR 41300, Aug. 8, 1996; 61 FR 57583, Nov. 7, 1996, as amended at 62 FR 65169, Dec. 10, 1997; 81 FR 38065, June 13, 2016; 81 FR 52590, June 10, 2016; 87 FR 38892, June 30, 2022; 88 FR 59789, Aug. 30, 2023]
+[61 FR 41300, Aug. 8, 1996; 61 FR 57583, Nov. 7, 1996, as amended at 62 FR 65169, Dec. 10, 1997; 81 FR 38065, June 13, 2016; 81 FR 52590, June 10, 2016; 87 FR 38892, June 30, 2022; 88 FR 59789, Aug. 30, 2023; 88 FR 70339, Oct. 11, 2023]
