@@ -76,4 +76,4 @@
 
 (g) *Trefoil symbol.* The trefoil symbol on the RADIOACTIVE WHITE-I, RADIOACTIVE YELLOW-II, and RADIOACTIVE YELLOW-III labels must meet the appropriate specifications in appendix B of this part.
 
-[Amdt. 172-123, 55 FR 52595, Dec. 21, 1990] Editorial Note:For Federal Register citations affecting § 172.407, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[Amdt. 172-123, 55 FR 52595, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 172.407, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

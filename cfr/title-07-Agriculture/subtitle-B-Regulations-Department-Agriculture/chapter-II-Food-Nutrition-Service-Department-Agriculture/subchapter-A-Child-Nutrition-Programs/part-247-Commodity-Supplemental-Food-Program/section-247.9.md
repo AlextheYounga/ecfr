@@ -1,6 +1,6 @@
 ##### § 247.9 Eligibility requirements. #####
 
-Link to an amendment published at 89 FR 87245, Oct. 31, 2024.
+Link to an amendment published at 89 FR 87245, Oct. 31, 2024.Link to a correction published at 89 FR 104393, Dec. 23, 2024.
 
 (a) *Who is eligible for CSFP?* To be eligible for CSFP, individuals must be at least 60 years of age and meet the income eligibility requirements outlined in paragraph (b) of this section.
 

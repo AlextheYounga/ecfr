@@ -46,6 +46,6 @@
 
 (2) The impact forces that the glazed window is required to resist as specified in this section.
 
-(e) *Stenciling.* Each car that is fully equipped with glazing materials that meet the requirements of this section shall be stenciled on an interior wall as follows: “Fully Equipped with FRA Part 238 Glazing” or similar words conveying that meaning, in letters at least 3/8 of an inch high.
+(e) *Stenciling.* Each car that is fully equipped with glazing materials that meet the requirements of this section shall be stenciled on an interior wall as follows: “Fully Equipped with FRA Part 238 Glazing” or similar words conveying that meaning, in letters at least3/8 of an inch high.
 
 [64 FR 25660, May 12, 1999, as amended at 67 FR 19992, Apr. 23, 2002]

@@ -24,7 +24,7 @@
 
 (e) *Duplicate labeling.* Generally, only one of each different required label must be displayed on a package. However, duplicate labels must be displayed on at least two sides or two ends (other than the bottom) of—
 
-(1) Each package or overpack having a volume of 1.8 m 3 (64 cubic feet) or more;
+(1) Each package or overpack having a volume of 1.8 m3 (64 cubic feet) or more;
 
 (2) Each non-bulk package containing a radioactive material;
 

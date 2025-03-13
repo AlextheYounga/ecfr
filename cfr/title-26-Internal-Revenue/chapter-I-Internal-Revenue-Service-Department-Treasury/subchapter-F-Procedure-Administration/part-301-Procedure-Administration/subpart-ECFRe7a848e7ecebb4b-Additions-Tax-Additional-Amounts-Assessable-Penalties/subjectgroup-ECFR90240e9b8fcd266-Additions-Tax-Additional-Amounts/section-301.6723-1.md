@@ -1,0 +1,35 @@
+##### § 301.6723-1 Failure to comply with other information reporting requirements. #####
+
+(a) *Imposition of penalty*—(1) *General rule.* A penalty of $50 is imposed for each failure to comply timely with a specified information reporting requirement (as defined in paragraph (a)(4) of this section) or for each failure to include correct specified information. Multiple penalties are imposed with respect to a document with failures to comply with more than one of the requirements set forth in paragraph (a)(4) of this section or multiple instances of failures to comply with any one of these requirements. Nonetheless, if a failure that occurs with respect to any requirement defined in paragraph (a)(4) of this section would be subject to a penalty under both paragraph (a)(2)(i) and paragraph (a)(2)(ii) of this section, no more than one penalty is imposed for such failure. The total amount imposed on any person for all failures during any calendar year with respect to all specified information reporting requirements shall not exceed $100,000. See paragraph (a) of § 301.6724-1 for the waiver of the penalty for a failure that is due to reasonable cause.
+
+(2) *Failures subject to the penalty.* The failures to which paragraph (a)(1) of this section apply are—
+
+(i) A failure to comply timely with a specified information reporting requirement on or before the date prescribed therefor (“failure to comply timely”), and
+
+(ii) A failure to include all the information required by a specified information reporting requirement or the inclusion of incorrect information (“failure to include correct information”).
+
+(3) *Exception for inconsequential errors or omissions.* An inconsequential error or omission is not considered a failure to comply with a specified information reporting requirement. For purposes of paragraph (a)(3) of this section, an error or omission is considered inconsequential if it does not frustrate the purpose or use for which the information is intended.
+
+(4) *Specified information reporting requirement defined.* For purposes of section 6723 and this section, a “specified information reporting requirement” means—
+
+(i) The requirement to provide the notice under section 6050K(c)(1) (relating to the requirement that a transferor notify the partnership of an exchange of a partnership interest);
+
+(ii) Any requirement contained in the regulations under section 6109 that a person—
+
+(A) Include his or her taxpayer identification number (“TIN”) on any return, statement, or other document (other than an information return or payee statement),
+
+(B) Include on any return, statement, or other document (other than an information return or payee statement) made with respect to another person the TIN of such person, or
+
+(C) Furnish his or her TIN to another person;
+
+(iii) Any requirement contained in the regulations under section 215 that a person—
+
+(A) Furnish his or her TIN to another person, or
+
+(B) Include on his or her return the TIN of another person; and
+
+(iv) The requirement under section 6109(e) that a person include the TIN of any dependent on his or her return.
+
+(b) *Examples.* The provisions of paragraph (a) of this section may be illustrated by the following examples which do not take into account the reasonable cause waiver under section 6724(a) and paragraph (a)(1) of § 301.6724-1.
+
+Example 1.Individual A, who has two dependents ages 7 and 9, files his 1990 Form 1040 in 1991. The Form 1040 requires him to provide the TINs of his two dependents, which A fails to do. Because A fails to comply timely with two requirements to include on his return the TIN of another person, a $50 penalty under paragraph (a) of this section is imposed on A for each of the two failures, for a total penalty of $100.Example 2.In 1991 Individual B opens with Bank X an account which pays reportable interest under section 6049. When B opens the account, Bank X requests that B provide his TIN on a Form W-9. B does not provide his TIN as required by § 301.6109-1(b). As a result B fails to comply timely with a specified information reporting requirement under paragraph (a) of this section for furnishing his TIN to another person. Therefore, a $50 penalty is imposed on B under paragraph (a) of this section for the failure. See section 6721(a) for the penalty to which X may be subject if X files a Form 1099-INT (relating to payments of interest) for calendar year 1991 without B's TIN. See section 3406(a)(1)(A) which requires X to impose backup withholding on reportable payments of interest to B's account.Example 3.In 1991 Individual C is a nonresident alien with an account inside the U.S. with Bank Z. The account pays interest that would be reportable under section 6049 but for the fact that it is paid to a nonresident alien. Under section 6109 and § 301.6109-1(b), Bank Z is required to request the TIN from C. C claims that he is a nonresident alien and that his account is not subject to information reporting under section 6049. Because of this, C contends he is not required to provide any TIN information. As a result of this discussion, Bank Z then requests C to provide it with a Form W-8 in order for C to certify that he is a nonresident alien which C fails to do. C fails to comply timely with a specified information reporting requirement under paragraph (a) of this section to furnish his TIN to another person. Therefore, a penalty is imposed on C under paragraph (a) of this section for the failure. See section 6721(a) for the penalty that may be imposed on Z if Z files a Form 1099-INT for calendar year 1991 without C's TIN. See section 3406(a)(1)(A) under which Z is required to impose backup withholding on reportable payment of interest to C's account.Example 4.In 1991 Partnership D opens with Bank Y an account that pays reportable interest under section 6049. When D opens the account, Y requests the partnership's employer identification number (EIN) on a Form W-9 as required under § 301.6109-1(b). The partnership provides its EIN on the Form W-9. Y files an information return with respect to D for the 1991 calendar year. Subsequently, the Internal Revenue Service later notifies Y that D's EIN is incorrect as defined under section 3406 and § 35a.3406-1(a)(6). D fails to comply timely with a specified reporting requirement under paragraph (a) of this section of furnishing its correct EIN to another person. Therefore, a penalty is imposed on D under paragraph (a) of this section for the failure. See section 6721(a) for the penalty to which Y may be subject if Y files a Form 1099-INT for calendar year 1991 without D's correct EIN. See section 3406(a)(1)(B), which requires Y to impose backup withholding on reportable payments of interest to B's account when the Internal Revenue Service or a broker has notified Y that the EIN is incorrect.[T.D. 8386, 56 FR 67182, Dec. 30, 1991]

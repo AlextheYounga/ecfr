@@ -71,4 +71,4 @@ Acetyl acetone peroxideCyclohexanone peroxide(s)Diacetone alcohol peroxidesMethy
 
 (k) Notwithstanding any other provision of this subchapter, including subpart C of part 171 and 175.10(a)(2) of this subchapter, an oxygen generator (chemical) as cargo on a passenger-carrying aircraft. This prohibition does not apply to an oxygen generator for medical or personal use of a passenger that meets the requirements of § 175.10(a)(7) of this subchapter.
 
-[Amdt. 173-224, 55 FR 52609, Dec. 21, 1990] Editorial Note:For Federal Register citations affecting § 173.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Amdt. 173-224, 55 FR 52609, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

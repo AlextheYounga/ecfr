@@ -14,7 +14,7 @@
 
 (3) In pipe to be operated at a pressure that produces a hoop stress of 40 percent or more of SMYS, a dent that has a depth of:
 
-(i) More than 1/4 inch (6.4 millimeters) in pipe 123/4 inches (324 millimeters) or less in outer diameter; or
+(i) More than1/4 inch (6.4 millimeters) in pipe 123/4 inches (324 millimeters) or less in outer diameter; or
 
 (ii) More than 2 percent of the nominal pipe diameter in pipe over 123/4 inches (324 millimeters) in outer diameter.
 

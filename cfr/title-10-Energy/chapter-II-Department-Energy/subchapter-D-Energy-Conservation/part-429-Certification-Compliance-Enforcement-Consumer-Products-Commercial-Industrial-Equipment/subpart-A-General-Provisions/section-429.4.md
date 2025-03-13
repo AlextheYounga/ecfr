@@ -1,16 +1,12 @@
 ##### § 429.4 Materials incorporated by reference. #####
 
-Link to an amendment published at 89 FR 82059, Oct. 9, 2024.
-
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at DOE and at the National Archives and Records Administration (NARA). Contact DOE at: U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, www.energy.gov/eere/buildings/building-technologies-office.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to:*www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) *AHAM.* Association of Home Appliance Manufacturers, 1111 19th Street, NW., Suite 402, Washington, DC 20036, 202-872-5955, or go to *www.aham.org.*
 
-(1) ANSI/AHAM DW-1-2010, *Household Electric Dishwashers,* (ANSI approved September 18, 2010), IBR approved for § 429.19.
+(1) ANSI/AHAM PAC-1-2015 (“ANSI/AHAM PAC-1-2015”), Portable Air Conditioners, June 19, 2015, IBR approved for § 429.62.
 
-(2) ANSI/AHAM PAC-1-2015 (“ANSI/AHAM PAC-1-2015”), Portable Air Conditioners, June 19, 2015, IBR approved for § 429.62.
-
-(3) AHAM PAC-1-2022, *Energy Measurement Test Procedure for Portable Air Conditioners,* Copyright 2022. IBR approved for § 429.62.
+(2) AHAM PAC-1-2022, *Energy Measurement Test Procedure for Portable Air Conditioners,* Copyright 2022. IBR approved for § 429.62.
 
 (c) *AHRI.* Air-Conditioning, Heating, and Refrigeration Institute, 2111 Wilson Blvd., Suite 500, Arlington, VA 22201, (703) 524-8800, or go to: *www.ahrinet.org.*
 
@@ -58,4 +54,4 @@ Link to an amendment published at 89 FR 82059, Oct. 9, 2024.
 
 (2) [Reserved]
 
-[76 FR 12451, Mar. 7, 2011, as amended at 77 FR 65977, Oct. 31, 2012; 80 FR 79668, Dec. 23, 2015; 81 FR 35264, June 1, 2016; 81 FR 89303, Dec. 9, 2016; 81 FR 90118, Dec. 13, 2016; 82 FR 36917, Aug. 7, 2017; 87 FR 63891, Oct. 20, 2022; 87 FR 75166, Dec. 7, 2022; 87 FR 77317, Dec. 16, 2022; 88 FR 21836, Apr. 11, 2023; 88 FR 31126, May 15, 2023; 88 FR 67040, Sept. 28, 2023; 88 FR 84226, Dec. 4, 2023; 89 FR 44032, May 20, 2024]
+[76 FR 12451, Mar. 7, 2011, as amended at 77 FR 65977, Oct. 31, 2012; 80 FR 79668, Dec. 23, 2015; 81 FR 35264, June 1, 2016; 81 FR 89303, Dec. 9, 2016; 81 FR 90118, Dec. 13, 2016; 82 FR 36917, Aug. 7, 2017; 87 FR 63891, Oct. 20, 2022; 87 FR 75166, Dec. 7, 2022; 87 FR 77317, Dec. 16, 2022; 88 FR 21836, Apr. 11, 2023; 88 FR 31126, May 15, 2023; 88 FR 67040, Sept. 28, 2023; 88 FR 84226, Dec. 4, 2023; 89 FR 44032, May 20, 2024; 89 FR 82059, Oct. 9, 2024]

@@ -47,7 +47,7 @@ S = PD / 4tEWhere:S = wall stress in pounds psi;P = test pressure prescribed for
 
 (2) Calculation for a cylinder must be made by the following formula:
 
-S = [P(1.3D 2 + 0.4d 2)] / (D 2 − d 2)Where:S = wall stress in pounds psi;P = test pressure prescribed for water jacket test, i.e., at least 2 times service pressure, in psig;D = outside diameter in inches;d = inside diameter in inches.
+S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in pounds psi;P = test pressure prescribed for water jacket test, i.e., at least 2 times service pressure, in psig;D = outside diameter in inches;d = inside diameter in inches.
 
 (g) *Heat treatment.* The completed containers must be uniformly and properly heat-treated prior to tests. Heat-treatment of containers of the authorized analysis must be as follows:
 
@@ -97,7 +97,7 @@ S = [P(1.3D 2 + 0.4d 2)] / (D 2 − d 2)Where:S = wall stress in pounds psi;P = 
 
 (i) The test must be performed after the hydrostatic test.
 
-(ii) The test cylinder must be placed between wedge-shaped knife edges having a 60° angle, rounded to a 1/2-inch radius.
+(ii) The test cylinder must be placed between wedge-shaped knife edges having a 60° angle, rounded to a1/2-inch radius.
 
 (l) *Radiographic inspection.* Radiographic examinations is required on all welded joints which are subjected to internal pressure, except that at the discretion of the disinterested inspector, openings less than 25 percent of the sphere diameter need not be subjected to radiographic inspection. Evidence of any defects likely to seriously weaken the container must be cause for rejection.
 
@@ -105,13 +105,13 @@ S = [P(1.3D 2 + 0.4d 2)] / (D 2 − d 2)Where:S = wall stress in pounds psi;P = 
 
 (1) A physical test for a sphere is required on 2 specimens cut from a flat representative sample plate of the same heat taken at random from the steel used to produce the sphere. This flat steel from which the 2 specimens are to be cut must receive the same heat-treatment as the spheres themselves. Sample plates to be taken for each lot of 200 or less spheres.
 
-(2) Specimens for spheres have a gauge length of 2 inches with a width not over 11/2 inches, or a gauge length at least 24 times thickness with a width not over 6 times thickness is authorized when wall of sphere is not over 3/16 inch thick.
+(2) Specimens for spheres have a gauge length of 2 inches with a width not over 11/2 inches, or a gauge length at least 24 times thickness with a width not over 6 times thickness is authorized when wall of sphere is not over3/16 inch thick.
 
 (3) A physical test for cylinders is required on 2 specimens cut from 1 cylinder taken at random out of each lot of 200 or less.
 
 (4) Specimens for cylinder must conform to the following:
 
-(i) A gauge length of 8 inches with a width not over 11/2 inches, a gauge length of 2 inches with a width not over 11/2 inches, a gauge length at least 24 times thickness with a width not over 6 times thickness is authorized when a cylinder wall is not over 3/16 inch thick.
+(i) A gauge length of 8 inches with a width not over 11/2 inches, a gauge length of 2 inches with a width not over 11/2 inches, a gauge length at least 24 times thickness with a width not over 6 times thickness is authorized when a cylinder wall is not over3/16 inch thick.
 
 (ii) The specimen, exclusive of grip ends, may not be flattened. Grip ends may be flattened to within 1 inch of each end of the reduced section.
 
@@ -125,7 +125,7 @@ S = [P(1.3D 2 + 0.4d 2)] / (D 2 − d 2)Where:S = wall stress in pounds psi;P = 
 
 (iii) For the purpose of strain measurement, the initial strain must be set while the specimen is under a stress of 12,000 psi and the strain indicator reading being set at the calculated corresponding strain.
 
-(iv) Cross-head speed of the testing machine may not exceed 1/8 inch per minute during yield strength determination.
+(iv) Cross-head speed of the testing machine may not exceed1/8 inch per minute during yield strength determination.
 
 (n) *Acceptable results for physical, flattening, and burst tests.* The following are acceptable results of the physical, flattening and burst test:
 

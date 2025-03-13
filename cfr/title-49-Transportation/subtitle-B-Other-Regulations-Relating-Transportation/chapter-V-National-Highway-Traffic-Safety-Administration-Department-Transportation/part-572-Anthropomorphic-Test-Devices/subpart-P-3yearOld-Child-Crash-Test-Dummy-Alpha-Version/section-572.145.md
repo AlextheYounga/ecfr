@@ -12,11 +12,11 @@
 
 (2) Assemble the complete dummy (with or without the lower legs) and seat it on a rigid flat-surface table, as shown in Figure P5 of this subpart.
 
-(i) Unzip the torso jacket and remove the four 1/4-20 × 3/4″ bolts which attach the lumbar load transducer or its structural replacement to the pelvis weldment (drawing 210-4510) as shown in Figure P5 of this subpart.
+(i) Unzip the torso jacket and remove the four1/4-20 ×3/4″ bolts which attach the lumbar load transducer or its structural replacement to the pelvis weldment (drawing 210-4510) as shown in Figure P5 of this subpart.
 
 (ii) Position the matching end of the rigid pelvis attachment fixture around the lumbar spine and align it over the four bolt holes.
 
-(iii) Secure the fixture to the dummy with the four 1/4-20 × 3/4″ bolts and attach the fixture to the table. Tighten the mountings so that the pelvis-lumbar joining surface is horizontal within ±1 deg and the buttocks and upper legs of the seated dummy are in contact with the test surface.
+(iii) Secure the fixture to the dummy with the four1/4-20 ×3/4″ bolts and attach the fixture to the table. Tighten the mountings so that the pelvis-lumbar joining surface is horizontal within ±1 deg and the buttocks and upper legs of the seated dummy are in contact with the test surface.
 
 (iv) Attach the loading adapter bracket to the upper part of the torso as shown in Figure P5 of this subpart and zip up the torso jacket.
 

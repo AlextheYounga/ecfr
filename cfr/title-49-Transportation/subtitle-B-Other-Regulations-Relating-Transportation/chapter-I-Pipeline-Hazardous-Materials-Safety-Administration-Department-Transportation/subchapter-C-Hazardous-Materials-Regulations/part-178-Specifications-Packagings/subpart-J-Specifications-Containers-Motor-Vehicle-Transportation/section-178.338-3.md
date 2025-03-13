@@ -14,7 +14,7 @@
 
 (c) Stresses resulting from static and dynamic loadings, or a combination thereof, are not uniform throughout the cargo tank motor vehicle. The following is a simplified procedure for calculating the effective stress in the tank resulting from static and dynamic loadings. The effective stress (the maximum principal stress at any point) must be determined by the following formula:
 
-S = 0.5 (Sy + Sx) ±(0.25(Sy − Sx)2 + Ss2) 0.5Where:
+S = 0.5 (Sy + Sx) ±(0.25(Sy − Sx)2 + Ss2)0.5Where:
 
 (1) S = effective stress at any given point under the most severe combination of static and dynamic loadings that can occur at the same time, in psi.
 

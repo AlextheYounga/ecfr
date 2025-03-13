@@ -1,5 +1,7 @@
 ##### § 4044.54 Interest assumptions. #####
 
+Link to an amendment published at 89 FR 104425, Dec. 23, 2024.
+
 (a) *General rule.* The plan administrator must use the interest rates prescribed in this section to value benefits under § 4044.52.
 
 (b) *Interest rate.* The interest rate used to discount an expected benefit payment is the interest rate from the applicable 4044 yield curve determined under paragraph (c) of this section for the maturity point that corresponds to the period of time from the valuation date to the date the benefit is expected to be paid unless that period of time exceeds 30 years. In that case, the interest rate used is the interest rate that corresponds to the maturity point at year 30.0. To address the timing of benefit payments during a year, reasonable approximations may be used to value benefit payments that are expected to be made during a plan year.

@@ -26,7 +26,7 @@ This section contains requirements for the forward end structure of the cab of a
 
 (d) *Skin.* The skin covering the forward-facing end of each power car shall be:
 
-(1) Equivalent to a 1/2-inch steel plate with a 25,000 pounds-per-square-inch yield strength—material of a higher yield strength may be used to decrease the required thickness of the material provided at least an equivalent level of strength is maintained;
+(1) Equivalent to a1/2-inch steel plate with a 25,000 pounds-per-square-inch yield strength—material of a higher yield strength may be used to decrease the required thickness of the material provided at least an equivalent level of strength is maintained;
 
 (2) Securely attached to the end structure; and
 

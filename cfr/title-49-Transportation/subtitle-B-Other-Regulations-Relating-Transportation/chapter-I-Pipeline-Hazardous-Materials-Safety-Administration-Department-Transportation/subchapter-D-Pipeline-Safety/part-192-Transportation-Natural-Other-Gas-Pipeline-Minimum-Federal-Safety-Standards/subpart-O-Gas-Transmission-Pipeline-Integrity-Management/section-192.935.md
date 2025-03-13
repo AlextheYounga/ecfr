@@ -56,7 +56,7 @@
 
 (2) Either monitor excavations near the pipeline, or conduct patrols as required by § 192.705 of the pipeline at bi-monthly intervals. If an operator finds any indication of unreported construction activity, the operator must conduct a follow up investigation to determine if mechanical damage has occurred.
 
-(3) Perform instrumented leak surveys using leak detector equipment at least twice each calendar year, at intervals not exceeding 7 1/2 months. For unprotected pipelines or cathodically protected pipe where electrical surveys are impractical, instrumented leak surveys must be performed at least four times each calendar year, at intervals not exceeding 4 1/2 months. Electrical surveys are indirect assessments that include close interval surveys, alternating current voltage gradient surveys, direct current voltage gradient surveys, or their equivalent.
+(3) Perform instrumented leak surveys using leak detector equipment at least twice each calendar year, at intervals not exceeding 71/2 months. For unprotected pipelines or cathodically protected pipe where electrical surveys are impractical, instrumented leak surveys must be performed at least four times each calendar year, at intervals not exceeding 41/2 months. Electrical surveys are indirect assessments that include close interval surveys, alternating current voltage gradient surveys, direct current voltage gradient surveys, or their equivalent.
 
 (e) *Plastic transmission pipeline.* An operator of a plastic transmission pipeline must apply the requirements in paragraphs (b)(1)(i), (b)(1)(iii) and (b)(1)(iv) of this section to the covered segments of the pipeline.
 

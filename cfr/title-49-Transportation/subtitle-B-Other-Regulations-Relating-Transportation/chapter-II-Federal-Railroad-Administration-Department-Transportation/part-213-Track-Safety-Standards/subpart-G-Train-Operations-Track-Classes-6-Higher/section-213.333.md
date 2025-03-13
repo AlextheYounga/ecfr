@@ -16,7 +16,7 @@
 
 (2) Track geometry measurements shall be taken and recorded on a distance-based sampling interval preferably at 1 foot not exceeding 2 feet; and
 
-(3) Calibration procedures and parameters are assigned to the system which assure that measured and recorded values accurately represent track conditions. Track geometry measurements recorded by the system shall not differ on repeated runs at the same site at the same speed more than 1/8 inch.
+(3) Calibration procedures and parameters are assigned to the system which assure that measured and recorded values accurately represent track conditions. Track geometry measurements recorded by the system shall not differ on repeated runs at the same site at the same speed more than1/8 inch.
 
 (c) A qualifying TGMS shall be capable of measuring and processing the necessary track geometry parameters to determine compliance with—
 

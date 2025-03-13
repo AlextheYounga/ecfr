@@ -16,7 +16,7 @@
 
 (3) Assemble the complete dummy (with or without the legs below the femurs) and attach to the fixture in a seated posture as shown in Figure T5.
 
-(4) Secure the pelvis to the fixture at the pelvis instrument cavity rear face by threading four 1/4-inch cap screws into the available threaded attachment holes. Tighten the mountings so that the test material is rigidly affixed to the test fixture and the pelvic-lumbar joining surface is 18 degrees from horizontal and the legs are parallel with the test fixture.
+(4) Secure the pelvis to the fixture at the pelvis instrument cavity rear face by threading four1/4-inch cap screws into the available threaded attachment holes. Tighten the mountings so that the test material is rigidly affixed to the test fixture and the pelvic-lumbar joining surface is 18 degrees from horizontal and the legs are parallel with the test fixture.
 
 (5) Attach the loading adaptor bracket to the spine of the dummy as shown in Figure T5.
 

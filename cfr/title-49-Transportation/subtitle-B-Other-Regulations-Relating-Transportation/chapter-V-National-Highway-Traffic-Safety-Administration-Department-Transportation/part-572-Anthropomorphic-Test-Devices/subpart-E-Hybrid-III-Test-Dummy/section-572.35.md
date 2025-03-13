@@ -26,7 +26,7 @@
 
 (iii) Insert a lever arm into the femur shaft opening of the upper leg structure assembly (78051-43/44) and firmly secure it using the 3/8-16 socket head cap screws.
 
-(iv) Lift the lever arm parallel to the midsagittal plane at a rotation rate of 5 to 10 deg. per second while maintaining the 1/2 in. shoulder bolt longitudinal centerline horizontal throughout the range of motion until the 150 ft-lbf torque level is reached. Record the torque and angle of rotation of the femur.
+(iv) Lift the lever arm parallel to the midsagittal plane at a rotation rate of 5 to 10 deg. per second while maintaining the1/2 in. shoulder bolt longitudinal centerline horizontal throughout the range of motion until the 150 ft-lbf torque level is reached. Record the torque and angle of rotation of the femur.
 
 (v) Operating environment and temperature are the same as specified in paragraph (b)(2)(ii) of this section.
 

@@ -2,7 +2,7 @@
 
 (a) All valves, fittings, pressure relief devices, and other accessories to the tank proper shall be protected in accordance with paragraph (b) of this section against such damage as could be caused by collision with other vehicles or objects, jack-knifing and overturning. In addition, pressure relief valves shall be so protected that in the event of overturn of the vehicle onto a hard surface, their opening will not be prevented and their discharge will not be restricted.
 
-(b) The protective devices or housing must be designed to withstand static loading in any direction equal to twice the weight of the tank and attachments when filled with the lading, using a safety factor of not less than four, based on the ultimate strength of the material to be used, without damage to the fittings protected, and must be made of metal at least 3/16-inch thick.
+(b) The protective devices or housing must be designed to withstand static loading in any direction equal to twice the weight of the tank and attachments when filled with the lading, using a safety factor of not less than four, based on the ultimate strength of the material to be used, without damage to the fittings protected, and must be made of metal at least3/16-inch thick.
 
 (c) *Rear-end tank protection.* Rear-end tank protection devices must:
 

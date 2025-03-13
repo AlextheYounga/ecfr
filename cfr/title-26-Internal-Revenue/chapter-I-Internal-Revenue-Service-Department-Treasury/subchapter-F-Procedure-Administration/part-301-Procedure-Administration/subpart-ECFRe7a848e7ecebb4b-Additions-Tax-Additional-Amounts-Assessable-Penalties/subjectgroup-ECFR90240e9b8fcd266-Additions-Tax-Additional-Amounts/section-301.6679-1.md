@@ -1,0 +1,11 @@
+##### § 301.6679-1 Failure to file returns, etc. with respect to foreign corporations or foreign partnerships for taxable years beginning after September 3, 1982. #####
+
+(a) *Civil penalty*—(1) *In general.* In addition to any criminal penalty provided by law, each U.S. citizen, resident, or person filing a separate or joint information return or on whose behalf a return is filed, pursuant to sections 6035, 6046, or 6046A, and the regulations thereunder, who fails to file such a return within the time provided, or who files a return which does not show the required information, shall pay a penalty of $1,000, unless such failure is shown to be due to reasonable cause.
+
+(2) *Joint return.* The penalty imposed by section 6679 and this section shall apply to each U.S. citizen, resident, or person filing a joint return pursuant to the provisions of section 6035, 6046, or 6046A, which does not show the required information.
+
+(3) *Showing of reasonable cause.* The district director, the director of the Internal Revenue service center, and the director of International Operations are authorized to make the determination that such failure was due to a reasonable cause and that, accordingly, the penalty imposed by section 6679 shall not apply. An affirmative showing of reasonable cause must be made in the form of a written statement, containing a declaration that it is made under the penalties of perjury, setting forth all the facts alleged as a reasonable cause. If the taxpayer exercises ordinary business care and prudence and is nevertheless unable to furnish any item of information required under section 6035, 6046, or 6046A and the regulations thereunder, such failure shall be considered due to a reasonable cause. In determining the extent of a taxpayer's ability to obtain information, the percentage of stock owned by such taxpayer and the nature of the other interests in the foreign corporation will be considered.
+
+(b) *Deficiency procedures not to apply.* The penalty imposed by section 6679 may be assessed and collected without regard to the deficiency procedures provided by subchapter B of chapter 63 of the Code.
+
+[32 FR 15421, Nov. 3, 1967, as amended by T.D. 7288, 38 FR 27215, Oct. 1, 1973; T.D. 7542, 43 FR 18552, May 1, 1978; T.D. 8028, 50 FR 23409, June 4, 1985]

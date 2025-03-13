@@ -1,6 +1,6 @@
 ##### § 230.109 Tender trucks. #####
 
-(a) *Tender truck frames.* A tender truck frame shall not be broken, or have a crack in a stress area that affects its structural integrity. Tender truck center plates shall be securely fastened, maintained in a safe and suitable condition for service, and provided with a center pin properly secured. The male center plate must extend into the female center plate at least 3/4 inch. Shims may be used between truck center plates.
+(a) *Tender truck frames.* A tender truck frame shall not be broken, or have a crack in a stress area that affects its structural integrity. Tender truck center plates shall be securely fastened, maintained in a safe and suitable condition for service, and provided with a center pin properly secured. The male center plate must extend into the female center plate at least3/4 inch. Shims may be used between truck center plates.
 
 (b) *Tender truck bolsters.* Truck bolsters shall be maintained approximately level.
 
@@ -24,4 +24,4 @@
 
 (f) *Friction side bearings.* Friction side bearings shall not be run in contact, and shall not be considered to be in contact if there is clearance between them on either side when measured on tangent level track.
 
-(g) *Side bearings.* All rear trucks shall be equipped with side bearings. When the spread of side bearings is 50 inches, their maximum clearance shall be 3/8 inch on each side for rear trucks and 3/4 inch on each side for front trucks, where used. When the spread of the side bearings is increased, the maximum clearance shall be increased proportionately.
+(g) *Side bearings.* All rear trucks shall be equipped with side bearings. When the spread of side bearings is 50 inches, their maximum clearance shall be3/8 inch on each side for rear trucks and3/4 inch on each side for front trucks, where used. When the spread of the side bearings is increased, the maximum clearance shall be increased proportionately.

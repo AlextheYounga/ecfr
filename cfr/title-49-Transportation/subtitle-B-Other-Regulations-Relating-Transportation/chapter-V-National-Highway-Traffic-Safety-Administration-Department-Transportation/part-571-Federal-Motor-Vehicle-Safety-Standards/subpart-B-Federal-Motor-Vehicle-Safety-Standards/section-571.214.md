@@ -140,7 +140,7 @@ S7.1.2 When using the Part 572 Subpart F dummy (SID), the following performance 
 
 (2) 90 g for a passenger car with two side doors, when calculated in accordance with the following formula:
 
-TI(d) = 1/2(GR + GLS)Where the term “GR” is the greater of the peak accelerations of either the upper or lower rib, expressed in g's and the term “GLS” is the lower spine (T12) peak acceleration, expressed in g's. The peak acceleration values are obtained in accordance with the procedure specified in S11.5.
+TI(d) =1/2(GR + GLS)Where the term “GR” is the greater of the peak accelerations of either the upper or lower rib, expressed in g's and the term “GLS” is the lower spine (T12) peak acceleration, expressed in g's. The peak acceleration values are obtained in accordance with the procedure specified in S11.5.
 
 (b) *Pelvis.* The peak lateral acceleration of the pelvis, as measured in accordance with S11.5, shall not exceed 130 g's.
 
@@ -568,7 +568,7 @@ S12.3.1 *General provisions and definitions.*
 
 (8) For leg and thigh angles, use the following references:
 
-(i) Thigh—a straight line on the thigh skin between the center of the 1/2-13 UNC-2B tapped hole in the upper leg femur clamp and the knee pivot shoulder bolt.
+(i) Thigh—a straight line on the thigh skin between the center of the1/2-13 UNC-2B tapped hole in the upper leg femur clamp and the knee pivot shoulder bolt.
 
 (ii) Leg—a straight line on the leg skin between the center of the ankle shell and the knee pivot shoulder bolt.
 

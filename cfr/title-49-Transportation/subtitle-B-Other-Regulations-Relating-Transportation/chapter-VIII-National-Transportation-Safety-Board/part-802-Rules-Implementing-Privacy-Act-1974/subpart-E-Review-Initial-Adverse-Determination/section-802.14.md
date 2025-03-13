@@ -36,13 +36,13 @@
 
 (4) To the Bureau of the Census for purposes of planning or carrying out a census or survey, or related activity pursuant to the provisions of title 13 of the U.S.C.;
 
-(5) To a recipient who has provided NTSB with adequate advance written assurance that the record will be used solely as a statistical research or reporting record and that the record is transferred in a form that is not identifiable with respect to individuals; 1
+(5) To a recipient who has provided NTSB with adequate advance written assurance that the record will be used solely as a statistical research or reporting record and that the record is transferred in a form that is not identifiable with respect to individuals;1
 
 1 The advance written statement of assurance shall state the purpose for which the record is requested and certify that it will be used only for statistical purposes. Prior to release under this paragraph, the record shall be stripped of all personally identifiable information and reviewed to ensure that the identity of any individual cannot reasonably be determined by combining two or more statistical records.
 
 (6) To the National Archives of the United States as a record which has sufficient historical or other value to warrant its continued preservation by the U.S. Government, or to the Administrator of the General Services Administration, or his designee, for evaluation to determine whether the record has such value;
 
-(7) To another agency or to an instrumentality of any governmental jurisdiction within or under the control of the United States for a civil or criminal law enforcement activity if the activity is authorized by law, and if the head of the agency or instrumentality has made a written request to NTSB specifying the particular portion of the record desired and the law enforcement activity for which the record is sought; 2
+(7) To another agency or to an instrumentality of any governmental jurisdiction within or under the control of the United States for a civil or criminal law enforcement activity if the activity is authorized by law, and if the head of the agency or instrumentality has made a written request to NTSB specifying the particular portion of the record desired and the law enforcement activity for which the record is sought;2
 
 2 A record may be disclosed to a law enforcement agency at the initiative of NTSB if criminal conduct is suspected, provided that such disclosure has been established as a routine use by publication in the Federal Register, and the instance of misconduct is directly related to the purpose for which the record is maintained.
 

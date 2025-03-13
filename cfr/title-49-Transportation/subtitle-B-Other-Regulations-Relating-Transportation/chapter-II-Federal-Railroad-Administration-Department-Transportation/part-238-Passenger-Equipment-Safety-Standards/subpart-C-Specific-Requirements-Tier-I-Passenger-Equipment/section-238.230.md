@@ -8,7 +8,7 @@
 
 (i) The bracket or support is welded to a surface of the equipment's body that is at a minimum 3/16-inch sheet steel or structurally reinforced to provide the equivalent strength and rigidity of 3/16-inch sheet steel;
 
-(ii) The area of the weld is sufficient to ensure a minimum weld strength, based on yield, of three times the strength of the number of SAE grade 2, 1/2 inch diameter bolts that would be required for each attachment;
+(ii) The area of the weld is sufficient to ensure a minimum weld strength, based on yield, of three times the strength of the number of SAE grade 2,1/2 inch diameter bolts that would be required for each attachment;
 
 (iii) Except for any access required for attachment of the safety appliance, the weld is continuous around the perimeter of the surface of the bracket or support;
 

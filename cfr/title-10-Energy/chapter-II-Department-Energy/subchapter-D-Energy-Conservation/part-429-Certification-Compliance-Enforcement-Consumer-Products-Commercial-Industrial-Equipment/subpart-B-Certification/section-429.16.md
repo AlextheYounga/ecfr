@@ -1,7 +1,5 @@
 ##### § 429.16 Central air conditioners and central air conditioning heat pumps. #####
 
-Link to an amendment published at 89 FR 82060, Oct. 9, 2024.
-
 (a) *Determination of Represented Value*—(1) *Required represented values.* Determine the represented values (including SEER, EER, HSPF, SEER2, EER2, HSPF2, PW,OFF, cooling capacity, and heating capacity, as applicable) for the individual models/combinations (or “tested combinations”) specified in the following table.
 
 |                                        Category                                         |                                                                 Equipment subcategory                                                                 |                                                                                                                                                                                                                                                               Required represented values                                                                                                                                                                                                                                                               |
@@ -61,7 +59,7 @@ Link to an amendment published at 89 FR 82060, Oct. 9, 2024.
 
 (B) The upper 90 percent confidence limit (UCL) of the true mean divided by 1.05, where:
 
-![](/graphics/er08jn16.001.gif)And x is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.90 is the t statistic for a 90 percent one-tailed confidence interval with n−1 degrees of freedom (from appendix D). Round represented values of off-mode power consumption to the nearest watt.
+![](/graphics/er09oc24.000.gif)And *x* is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.90 is the Student's t-Distribution Values for a 90 percent one-tailed confidence interval with n−1 degrees of freedom (from appendix A to this subpart). Round represented values of off-mode power consumption to the nearest watt.
 
 (ii) *SEER, EER, HSPF, SEER2, EER2, and HSPF2.* Any represented value of the energy efficiency or other measure of energy consumption for which consumers would favor higher values shall be less than or equal to the lower of:
 
@@ -69,9 +67,9 @@ Link to an amendment published at 89 FR 82060, Oct. 9, 2024.
 
 ![](/graphics/er05ja17.000.gif)and, *x* is the sample mean; *n* is the number of samples; and xi is the ith sample; or,
 
-(*B*) The lower 90 percent confidence limit (LCL) of the true mean divided by 0.95, where:
+(B) The lower 90 percent confidence limit (LCL) of the true mean divided by 0.95, where:
 
-![](/graphics/er05ja17.001.gif)And *x* is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.90 is the t statistic for a 90 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix D). Round represented values of EER, SEER, HSPF, EER2, SEER2, and HSPF2 to the nearest 0.05.
+![](/graphics/er09oc24.001.gif)And *x* is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.90 is the Student's t-Distribution Values for a 90 percent one-tailed confidence interval with n−1 degrees of freedom (from appendix A to this subpart). Round represented values of EER, SEER, HSPF, EER2, SEER2, and HSPF2 to the nearest 0.05.
 
 (iii) *Cooling Capacity and Heating Capacity.* The represented values of cooling capacity and heating capacity must each be a self-declared value that is:
 
@@ -83,7 +81,7 @@ Link to an amendment published at 89 FR 82060, Oct. 9, 2024.
 
 (*2*) The lower 90 percent confidence limit (LCL) of the true mean divided by 0.95, where:
 
-![](/graphics/er05ja17.003.gif)And *x* is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.90 is the t statistic for a 90 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix D).
+![](/graphics/er09oc24.002.gif)And *x* is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.90 is the Student's t-Distribution Values for a 90 percent one-tailed confidence interval with n−1 degrees of freedom (from appendix A to this subpart).
 
 (B) Rounded according to:
 
@@ -147,7 +145,9 @@ Link to an amendment published at 89 FR 82060, Oct. 9, 2024.
 
 (iv) For multi-split, multiple-circuit, and multi-head mini-split systems (including VRF and SDHV), when certifying compliance with January 1, 2015, energy conservation standards, whether the represented value is for a non-ducted, ducted, mixed non-ducted/ducted system, SDHV, mixed non-ducted/SDHV system, or mixed ducted/SDHV system;
 
-(v) For all split systems including outdoor units with no match, the refrigerant.
+(v) For all split systems including outdoor units with no match, the refrigerant; and
+
+(vi) For variable-speed coil only systems; whether the represented value is based on a non-communicating or communicating control system.
 
 (3) *Basic and individual model numbers.* The basic model number and individual model number(s) required to be reported under § 429.12(b)(6) must consist of the following:
 
@@ -167,7 +167,7 @@ Link to an amendment published at 89 FR 82060, Oct. 9, 2024.
 
 (iii) For ducted systems having multiple indoor fans within a single indoor unit, the number of indoor fans; the nominal cooling capacity of the indoor unit and outdoor unit; which fan(s) operate to attain the full-load air volume rate when controls limit the simultaneous operation of all fans within the single indoor unit; and the allocation of the full-load air volume rate to each operational fan when different capacity blowers are connected to the common duct;
 
-(iv) For blower coil systems, the airflow-control settings associated with full load cooling operation; and the airflow-control settings or alternative instructions for setting fan speed to the speed upon which the rating is based;
+(iv) For blower coil systems, the airflow-control settings associated with full load cooling operation; the airflow-control settings or alternative instructions for setting fan speed to the speed upon which the rating is based; and whether the system varies blower speeds with outdoor air conditions;
 
 (v) For models with time-adaptive defrost control, the frosting interval to be used during Frost Accumulation tests and the procedure for manually initiating the defrost at the specified time;
 
@@ -273,4 +273,4 @@ Link to an amendment published at 89 FR 82060, Oct. 9, 2024.
 
 (7) *Annual Operating Cost—Rounding.* Round any represented values of estimated annual operating cost determined in paragraphs (f)(1) through (6) of this section to the nearest dollar per year.
 
-[81 FR 37049, June 8, 2016, as amended at 81 FR 55112, Aug. 18, 2016; 82 FR 1468, Jan. 5, 2017; 86 FR 68393, Dec. 2, 2021; 87 FR 64583, Oct. 25, 2022]
+[81 FR 37049, June 8, 2016, as amended at 81 FR 55112, Aug. 18, 2016; 82 FR 1468, Jan. 5, 2017; 86 FR 68393, Dec. 2, 2021; 87 FR 64583, Oct. 25, 2022; 89 FR 82060, Oct. 9, 2024]

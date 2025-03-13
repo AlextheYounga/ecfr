@@ -8,7 +8,7 @@
 
 (2) Is a segment that is relocated, replaced, or substantially altered.
 
-(c) All other buried or submerged pipelines that have an effective external coating must have cathodic protection. 1 Except as provided by paragraph (d) of this section, this requirement does not apply to breakout tanks and does not apply to buried piping in breakout tank areas and pumping stations until December 29, 2003.
+(c) All other buried or submerged pipelines that have an effective external coating must have cathodic protection.1 Except as provided by paragraph (d) of this section, this requirement does not apply to breakout tanks and does not apply to buried piping in breakout tank areas and pumping stations until December 29, 2003.
 
 1 A pipeline does not have an effective external coating material if the current required to cathodically protect the pipeline is substantially the same as if the pipeline were bare.
 

@@ -6,8 +6,8 @@ Certificate of Compliance with Buy America Rolling Stock Requirements
 
 The bidder or offeror hereby certifies that it will comply with the requirements of 49 U.S.C. 5323(j), and the applicable regulations of 49 CFR 661.11.
 
-Date Signature Company Name Title Certificate of Non-Compliance with Buy America Rolling Stock Requirements
+DateSignatureCompanyNameTitle Certificate of Non-Compliance with Buy America Rolling Stock Requirements
 
 The bidder or offeror hereby certifies that it cannot comply with the requirements of 49 U.S.C. 5323(j), but may qualify for an exception to the requirement consistent with 49 U.S.C. 5323(j)(2)(C), and the applicable regulations in 49 CFR 661.7.
 
-Date Signature Company Name Title[71 FR 14117, Mar. 21, 2006, as amended at 72 FR 53698, Sept. 20, 2007; 74 FR 30239, June 25, 2009]
+DateSignatureCompanyNameTitle[71 FR 14117, Mar. 21, 2006, as amended at 72 FR 53698, Sept. 20, 2007; 74 FR 30239, June 25, 2009]

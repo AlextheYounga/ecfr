@@ -8,7 +8,7 @@
 
 (iii) Result in an operating transportation facility that provides a revenue producing service;
 
-(iv) Be undertaken through a public and private partnership, with at least 1/3 of Full Project Costs paid using non-Federal funds;
+(iv) Be undertaken through a public and private partnership, with at least1/3 of Full Project Costs paid using non-Federal funds;
 
 (v) Satisfy applicable statewide and metropolitan planning requirements;
 
@@ -46,7 +46,7 @@
 
 (C) Shows total benefits equal to or exceeding total costs.
 
-(4) *Funding Limits and Sources.* The project description shall include a financing plan that demonstrates project completion with the $950 million in Federal Maglev Funds, funds remaining unobligated from the $55 million in contract authority, and the funds made available under STP and CMAQ. The project that is selected will be eligible for other forms of financial assistance provided under title 23 and TEA 21, including loans, loan guarantees, and lines of credit. However, at least 1/3 of Full Project Costs must come from non-Federal Funds.
+(4) *Funding Limits and Sources.* The project description shall include a financing plan that demonstrates project completion with the $950 million in Federal Maglev Funds, funds remaining unobligated from the $55 million in contract authority, and the funds made available under STP and CMAQ. The project that is selected will be eligible for other forms of financial assistance provided under title 23 and TEA 21, including loans, loan guarantees, and lines of credit. However, at least1/3 of Full Project Costs must come from non-Federal Funds.
 
 (5) *Project Management.* The State, the technology owner, and all other relevant project partners must include in the project description, an agreed upon—
 

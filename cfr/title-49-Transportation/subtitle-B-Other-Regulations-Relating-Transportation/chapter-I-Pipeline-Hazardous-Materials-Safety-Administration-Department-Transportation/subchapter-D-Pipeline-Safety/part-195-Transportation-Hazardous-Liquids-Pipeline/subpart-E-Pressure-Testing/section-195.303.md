@@ -12,13 +12,13 @@
 
 (1) The location indicator is—
 
-(i) High risk if an area is non-rural or environmentally sensitive 1; or
+(i) High risk if an area is non-rural or environmentally sensitive1; or
 
 (ii) Medium risk; or
 
 (iii) Low risk if an area is not high or medium risk.
 
-(2) The product indicator is 1
+(2) The product indicator is1
 
 1 (See Appendix B, Table C).
 

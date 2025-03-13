@@ -10,7 +10,8 @@
 
 (2) The pressure obtained by dividing the pressure to which the pipeline segment was tested after construction as follows:
 
-(i) For plastic pipe in all locations, the test pressure is divided by a factor of 1.5.
+(i) For plastic pipe in all locations, the test pressure is divided by
+a factor of 1.5.
 
 (ii) For steel pipe operated at 100 psi (689 kPa) gage or more, the test pressure is divided by a factor determined in accordance with the Table 1 to paragraph (a)(2)(ii):
 
@@ -68,4 +69,4 @@
 
 (3) Operators of pipelines placed in operation after July 1, 2020 must make and retain records establishing MAOP for the life of the pipeline.
 
-[35 FR 13257, Aug. 19, 1970] Editorial Note:For Federal Register citations affecting § 192.619, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[35 FR 13257, Aug. 19, 1970]Editorial Note:For Federal Register citations affecting § 192.619, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

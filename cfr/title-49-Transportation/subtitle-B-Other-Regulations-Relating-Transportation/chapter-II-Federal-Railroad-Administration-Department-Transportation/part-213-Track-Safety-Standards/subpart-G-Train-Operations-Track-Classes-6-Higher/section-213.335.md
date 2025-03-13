@@ -22,7 +22,7 @@
 
 (2) Split or otherwise impaired to the extent the crossties will allow the ballast to work through, or will not hold spikes or rail fasteners;
 
-(3) So deteriorated that the tie plate or base of rail can move laterally 3/8 inch relative to the crossties;
+(3) So deteriorated that the tie plate or base of rail can move laterally3/8 inch relative to the crossties;
 
 (4) Cut by the tie plate through more than 40 percent of a crosstie's thickness;
 
@@ -36,9 +36,9 @@
 
 (2) Configured with less than 2 fasteners on the same rail;
 
-(3) So deteriorated in the vicinity of the rail fastener such that the fastener assembly may pull out or move laterally more than 3/8 inch relative to the crosstie;
+(3) So deteriorated in the vicinity of the rail fastener such that the fastener assembly may pull out or move laterally more than3/8 inch relative to the crosstie;
 
-(4) So deteriorated that the fastener base plate or base of rail can move laterally more than 3/8 inch relative to the crossties;
+(4) So deteriorated that the fastener base plate or base of rail can move laterally more than3/8 inch relative to the crossties;
 
 (5) So deteriorated that rail seat abrasion is sufficiently deep so as to cause loss of rail fastener toeload;
 

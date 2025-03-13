@@ -388,7 +388,7 @@ S4.3.2.2 *Second option—belt system.* The vehicle shall, at each designated se
 
 (a) An automatic locking retractor used at a front outboard seating position that has some type of suspension system for the seat shall be attached to the seat structure that moves as the suspension system functions.
 
-(b) The lap belt or lap belt portion of a seat belt assembly equipped with an automatic locking retractor that is installed at a front outboard seating position must allow at least 3/4 inch, but less than 3 inches, of webbing movement before retracting webbing to the next locking position.
+(b) The lap belt or lap belt portion of a seat belt assembly equipped with an automatic locking retractor that is installed at a front outboard seating position must allow at least3/4 inch, but less than 3 inches, of webbing movement before retracting webbing to the next locking position.
 
 (c) Compliance with S4.3.2.2(b) of this standard is determined as follows:
 
@@ -398,7 +398,7 @@ S4.3.2.2 *Second option—belt system.* The vehicle shall, at each designated se
 
 (3) Within a 30 second period, the 20 pound load is slowly decreased, until the retractor moves to the next locking position. The position of the free end of the belt assembly is recorded again.
 
-(4) The difference between the two positions recorded for the free end of the belt assembly shall be at least 3/4 inch but less than 3 inches.
+(4) The difference between the two positions recorded for the free end of the belt assembly shall be at least3/4 inch but less than 3 inches.
 
 S4.4 Buses manufactured on or after November 28, 2016.
 
@@ -448,7 +448,7 @@ S4.4.3.1.5 Any rear side-facing designated seating position shall be equipped wi
 
 S4.4.3.2 Each school bus with a gross vehicle weight rating of 4,536 kg (10,000 pounds) or less shall comply with the requirements of S4.4.3.2.1 and S4.4.3.2.2.
 
-S4.4.3.2.1 The driver's designated seating position and any outboard designated seating position not rearward of the driver's seating position shall be equipped with a Type 2 seat belt assembly. For a school bus without a driver's designated seating position, the outboard designated seating positions in the front row of seats shall be equipped with Type 2 seat belt assemblies. The seat belt assembly shall comply with Standard No. 209 (49 CFR 571.209) and with S7.1 and S7.2 of this standard. The lap belt portion of the seat belt assembly shall include either an emergency locking retractor or an automatic locking retractor. An automatic locking retractor shall not retract webbing to the next locking position until at least 3/4 inch of webbing has moved into the retractor. In determining whether an automatic locking retractor complies with this requirement, the webbing is extended to 75 percent of its length and the retractor is locked after the initial adjustment. If the seat belt assembly installed in compliance with this requirement incorporates any webbing tension-relieving device, the vehicle owner's manual shall include the information specified in S7.4.2(b) of this standard for the tension-relieving device, and the vehicle shall comply with S7.4.2(c) of this standard.
+S4.4.3.2.1 The driver's designated seating position and any outboard designated seating position not rearward of the driver's seating position shall be equipped with a Type 2 seat belt assembly. For a school bus without a driver's designated seating position, the outboard designated seating positions in the front row of seats shall be equipped with Type 2 seat belt assemblies. The seat belt assembly shall comply with Standard No. 209 (49 CFR 571.209) and with S7.1 and S7.2 of this standard. The lap belt portion of the seat belt assembly shall include either an emergency locking retractor or an automatic locking retractor. An automatic locking retractor shall not retract webbing to the next locking position until at least3/4 inch of webbing has moved into the retractor. In determining whether an automatic locking retractor complies with this requirement, the webbing is extended to 75 percent of its length and the retractor is locked after the initial adjustment. If the seat belt assembly installed in compliance with this requirement incorporates any webbing tension-relieving device, the vehicle owner's manual shall include the information specified in S7.4.2(b) of this standard for the tension-relieving device, and the vehicle shall comply with S7.4.2(c) of this standard.
 
 S4.4.3.2.2 Passenger seating positions, other than those specified in S4.4.3.2.1, shall be equipped with Type 2 seat belt assemblies that comply with the requirements of S7.1.1.5, S7.1.5 and S7.2 of this standard.
 
@@ -464,7 +464,7 @@ S4.4.4.1.2 *Second option—belt system.* The vehicle shall, at the driver's des
 
 (a) An automatic locking retractor used at a driver's seating position that has some type of suspension system for the seat shall be attached to the seat structure that moves as the suspension system functions.
 
-(b) The lap belt or lap belt portion of a seat belt assembly equipped with an automatic locking retractor that is installed at the driver's seating position must allow at least 3/4; inch, but less than 3 inches, of webbing movement before retracting webbing to the next locking position.
+(b) The lap belt or lap belt portion of a seat belt assembly equipped with an automatic locking retractor that is installed at the driver's seating position must allow at least3/4; inch, but less than 3 inches, of webbing movement before retracting webbing to the next locking position.
 
 (c) Compliance with S4.4.4.2.1(b) of this standard is determined as follows:
 
@@ -474,7 +474,7 @@ S4.4.4.1.2 *Second option—belt system.* The vehicle shall, at the driver's des
 
 (3) Within a 30 second period, the 20 pound load is slowly decreased, until the retractor moves to the next locking position. The position of the free end of the belt assembly is recorded again.
 
-(4) The difference between the two positions recorded for the free end of the belt assembly shall be at least 3/4; inch but less than 3 inches.
+(4) The difference between the two positions recorded for the free end of the belt assembly shall be at least3/4; inch but less than 3 inches.
 
 S4.4.4.2 Each school bus with a GVWR of more than 4,536 kg (10,000 lb) but not greater than 11,793 kg (26,000 lb) shall be equipped with a Type 2 seat belt assembly at the driver's designated seating position. The seat belt assembly shall comply with Standard No. 209 (49 CFR 571.209) and with S7.1 and S7.2 of this standard. If a seat belt assembly installed in compliance with this requirement includes an automatic locking retractor for the lap belt portion, that seat belt assembly shall comply with paragraphs (a) through (c) of S4.4.4.1.2 of this standard. If a seat belt assembly installed in compliance with this requirement incorporates any webbing tension-relieving device, the vehicle owner's manual shall include the information specified in S7.4.2(b) of this standard for the tension-relieving device, and the vehicle shall comply with S7.4.2(c) of this standard.
 
@@ -1061,7 +1061,7 @@ S9.2 *Explosive devices.* An explosive device shall not exhibit any of the chara
 
 S10. *Test dummy positioning procedures.*
 
-S10.1 *Head.* The transverse instrumentation platform of the head shall be level within 1/2 degree. To level the head of the test dummy, the following sequences must be followed. First, adjust the position of the H point within the limits set forth in S10.4.2.1 to level the transverse instrumentation platform of the head of the test dummy. If the transverse instrumentation platform of the head is still not level, then adjust the pelvic angle of the test dummy within the limits specified in S10.4.2.2 of this standard. If the transverse instrumentation platform of the head is still not level, then adjust the neck bracket of the dummy the minimum amount necessary from the non-adjusted “0” setting to ensure that the transverse instrumentation platform of the head is horizontal within 1/2 degree. The test dummy shall remain within the limits specified in S10.4.2.1 and S10.4.2.2. after any adjustment of the neck bracket.
+S10.1 *Head.* The transverse instrumentation platform of the head shall be level within1/2 degree. To level the head of the test dummy, the following sequences must be followed. First, adjust the position of the H point within the limits set forth in S10.4.2.1 to level the transverse instrumentation platform of the head of the test dummy. If the transverse instrumentation platform of the head is still not level, then adjust the pelvic angle of the test dummy within the limits specified in S10.4.2.2 of this standard. If the transverse instrumentation platform of the head is still not level, then adjust the neck bracket of the dummy the minimum amount necessary from the non-adjusted “0” setting to ensure that the transverse instrumentation platform of the head is horizontal within1/2 degree. The test dummy shall remain within the limits specified in S10.4.2.1 and S10.4.2.2. after any adjustment of the neck bracket.
 
 S10.2 *Upper Arms.*
 
@@ -1085,7 +1085,7 @@ S10.4.1.2 In vehicles equipped with bucket seats, the upper torso of the driver 
 
 S10.4.2 *Lower Torso.*
 
-S10.4.2.1 *H-point.* The H-points of the driver and any front outboard passenger test dummies shall coincide within 1/2 inch in the vertical dimension and 1/2 inch in the horizontal dimension of a point 1/4 inch below the position of the H-point determined by using the equipment and procedures specified in SAE Standard J826-1980 (incorporated by reference, see § 571.5), except that the length of the lower leg and thigh segments of the H-point machine shall be adjusted to 16.3 and 15.8 inches, respectively, instead of the 50th percentile values specified in Table 1 of SAE Standard J826-1980.
+S10.4.2.1 *H-point.* The H-points of the driver and any front outboard passenger test dummies shall coincide within1/2 inch in the vertical dimension and1/2 inch in the horizontal dimension of a point1/4 inch below the position of the H-point determined by using the equipment and procedures specified in SAE Standard J826-1980 (incorporated by reference, see § 571.5), except that the length of the lower leg and thigh segments of the H-point machine shall be adjusted to 16.3 and 15.8 inches, respectively, instead of the 50th percentile values specified in Table 1 of SAE Standard J826-1980.
 
 S10.4.2.2 *Pelvic angle.* As determined using the pelvic angle gage (GM drawing 78051-532, incorporated by reference in part 572, subpart E of this chapter) which is inserted into the H-point gaging hole of the dummy, the angle measured from the horizontal on the three inch flat surface of the gage shall be 221/2 degrees plus or minus 21/2 degrees.
 
@@ -2027,7 +2027,7 @@ S22.1.5 The definitions provided in S16.3.1 through S16.3.10 apply to the tests 
 
 S22.1.6 For leg and thigh angles use the following references:
 
-(a) *Thigh*—a straight line on the thigh skin between the center of the 5/16 × 1/2 in. screw (part 9001024, item 10 in drawing 210-0000 sheet 2 of 7, complete assembly (HYB III 3 YR OLD)) and the knee bolt (part 210-5301 in drawing 210-5000-1 & -1, leg assembly).
+(a) *Thigh*—a straight line on the thigh skin between the center of the5/16 ×1/2 in. screw (part 9001024, item 10 in drawing 210-0000 sheet 2 of 7, complete assembly (HYB III 3 YR OLD)) and the knee bolt (part 210-5301 in drawing 210-5000-1 & -1, leg assembly).
 
 (b) *Leg*—a straight line on the leg skin between the center of the ankle bolt (part 210-5701 in drawing 210-5000-1 & -2, leg assembly) and the knee bolt (part 210-5301 in drawing 210-5000-1 & -2, leg assembly).
 
@@ -2663,7 +2663,7 @@ S29.3 A manufacturer exercising this option shall upon request:
 
 (b) Provide NHTSA with a method to assure that the same test results would be obtained if the air bag were not deactivated.
 
-Figures to § 571.208 Figure 1. [Reserved]![](/graphics/ec01au91.084.gif)![](/graphics/ec01au91.089.gif)![](/graphics/ec01au91.087.gif)![](/graphics/ec01au91.088.gif)![](/graphics/er28de98.000.gif)![](/graphics/er11jn03.006.gif)![](/graphics/er11jn03.007.gif)![](/graphics/er27no96.012.gif)![](/graphics/er11jn03.008.gif)![](/graphics/er11jn03.009.gif)![](/graphics/er11jn03.010.gif)![](/graphics/er12my00.011.gif)![](/graphics/er06ja03.001.gif)![](/graphics/er20au03.019.gif)![](/graphics/er19no03.000.gif)Appendix A to § 571.208—Selection of Child Restraint Systems
+Figures to § 571.208Figure 1. [Reserved]![](/graphics/ec01au91.084.gif)![](/graphics/ec01au91.089.gif)![](/graphics/ec01au91.087.gif)![](/graphics/ec01au91.088.gif)![](/graphics/er28de98.000.gif)![](/graphics/er11jn03.006.gif)![](/graphics/er11jn03.007.gif)![](/graphics/er27no96.012.gif)![](/graphics/er11jn03.008.gif)![](/graphics/er11jn03.009.gif)![](/graphics/er11jn03.010.gif)![](/graphics/er12my00.011.gif)![](/graphics/er06ja03.001.gif)![](/graphics/er20au03.019.gif)![](/graphics/er19no03.000.gif)Appendix A to § 571.208—Selection of Child Restraint Systems
 
 This appendix A applies to vehicles manufactured before September 1, 2025, and to not more than 60 percent of a manufacturer's vehicles manufactured on or after September 1, 2025, and before September 1, 2026, as specified in S14.8 of this standard. This appendix does not apply to vehicles manufactured on or after September 1, 2026.
 

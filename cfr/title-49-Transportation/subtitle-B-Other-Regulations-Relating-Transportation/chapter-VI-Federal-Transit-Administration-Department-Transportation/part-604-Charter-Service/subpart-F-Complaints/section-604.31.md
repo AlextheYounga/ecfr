@@ -14,7 +14,7 @@ If any of the above items change during the proceeding, the person shall promptl
 
 (c) *Who must be served.* Copies of all documents filed with FTA shall be served by the entity filing them on all parties to the proceeding. A certificate of service shall accompany all documents when they are tendered for filing and shall certify concurrent service on FTA and all parties. Certificates of service shall be in substantially the following form:
 
-I hereby certify that I have this day served the foregoing [name of document] on the following persons at the following addresses and e-mail or facsimile numbers (if also served by e-mail or facsimile) by [specify method of service]:[list persons, addresses, and e-mail or facsimile numbers] Dated this \_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_, 20\_\_\_\_.[signature], for [party]
+I hereby certify that I have this day served the foregoing [name of document] on the following persons at the following addresses and e-mail or facsimile numbers (if also served by e-mail or facsimile) by [specify method of service]:[list persons, addresses, and e-mail or facsimile numbers]Dated this \_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_, 20\_\_\_\_.[signature], for [party]
 
 (d) *Method of service.* Except as otherwise provided in § 604.26, or agreed by the parties and the Presiding Official, as appropriate, the method of service is personal delivery or U.S. mail.
 

@@ -42,7 +42,7 @@
 
 (i) The distance between the guard arm and the knuckle nose is not more than 51/8 inches on standard type couplers (MCB contour 1904), or not more than 55/16 inches on D&E couplers;
 
-(ii) The free slack in the coupler or drawbar not absorbed by friction devices or draft gears is not more than 1/2 inch; and
+(ii) The free slack in the coupler or drawbar not absorbed by friction devices or draft gears is not more than1/2 inch; and
 
 (iii) The draft gear is not broken, to the extent possible without dropping cover plates.
 

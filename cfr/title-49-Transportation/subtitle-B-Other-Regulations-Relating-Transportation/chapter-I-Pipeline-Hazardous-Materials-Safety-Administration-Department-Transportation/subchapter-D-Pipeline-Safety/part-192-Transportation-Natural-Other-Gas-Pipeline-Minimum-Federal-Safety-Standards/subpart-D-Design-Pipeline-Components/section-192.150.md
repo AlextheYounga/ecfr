@@ -14,7 +14,7 @@
 
 (6) Transmission lines, operated in conjunction with a distribution system which are installed in Class 4 locations;
 
-(7) Offshore transmission lines, except transmission lines 10 3/4 inches (273 millimeters) or more in outside diameter on which construction begins after December 28, 2005, that run from platform to platform or platform to shore unless—
+(7) Offshore transmission lines, except transmission lines 103/4 inches (273 millimeters) or more in outside diameter on which construction begins after December 28, 2005, that run from platform to platform or platform to shore unless—
 
 (i) Platform space or configuration is incompatible with launching or retrieving instrumented internal inspection devices; or
 

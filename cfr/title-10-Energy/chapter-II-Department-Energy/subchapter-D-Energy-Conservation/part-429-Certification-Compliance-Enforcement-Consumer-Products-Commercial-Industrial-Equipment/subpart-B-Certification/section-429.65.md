@@ -1,7 +1,5 @@
 ##### § 429.65 Dedicated-purpose pool pump motors. #####
 
-Link to an amendment published at 89 FR 82068, Oct. 9, 2024.
-
 (a) *Applicability.* This section applies to dedicated purpose motors that are subject to requirements in subpart Z of part 431 of this subchapter. Starting on the compliance date for any standards for dedicated-purpose pool pump motors published after January 1, 2021, manufacturers of dedicated-purpose pool pump motors subject to such standards must make representations of energy efficiency, including representations for certification of compliance, in accordance with this section. Prior to the compliance date for any standards for dedicated-purpose pool pump motors published after January 1, 2021, and on or after April 17, 2023, manufacturers of dedicated-purpose pool pump motors subject to test procedures in subpart Z of part 431 of this subchapter choosing to make representations of energy efficiency must follow the provisions in paragraph (c) of this section.
 
 (b) *Compliance certification.* A manufacturer may not certify the compliance of a dedicated-purpose pool pump motor pursuant to 10 CFR 429.12 unless:
@@ -46,4 +44,20 @@ where *Std* is the value of any applicable energy conservation standard. If the 
 
 (2) NIST/NVLAP is under the auspices of the National Institute of Standards and Technology (NIST)/National Voluntary Laboratory Accreditation Program (NVLAP), which is part of the U.S. Department of Commerce. NIST/NVLAP accreditation is granted on the basis of conformance with criteria published in 15 CFR part 285. The National Voluntary Laboratory Accreditation Program, “Procedures and General Requirements,” NIST Handbook 150-10, April 2020, (referenced for guidance only, *see* § 429.3) present the technical requirements of NVLAP for the Efficiency of Electric Motors field of accreditation. This handbook supplements NIST Handbook 150, National Voluntary Laboratory Accreditation Program “Procedures and General Requirements,” which contains 15 CFR part 285 plus all general NIST/NVLAP procedures, criteria, and policies. Information regarding NIST/NVLAP and its Efficiency of Electric Motors Program (EEM) can be obtained from NIST/NVLAP, 100 Bureau Drive, Mail Stop 2140, Gaithersburg, MD 20899-2140, (301) 975-4016 (telephone), or (301) 926-2884 (fax).
 
-[87 FR 63648, Oct. 19, 2022]
+(e) *Certification reports for dedicated purpose pool pump motors.* (1) The requirements of § 429.12 apply to dedicated-purpose pool pump motors.
+
+(2) Pursuant to § 429.12(b)(13), a certification report must include the following public, product-specific information for each basic model:
+
+(i) The dedicated-purpose pool pump motor total horsepower as described in paragraph (c)(1)(v) of this section;
+
+(ii) For all basic models with total horsepower less than 0.5 THP, the full-load efficiency in percent (%) as described in this section; and
+
+(iii) For all basic models with total horsepower greater than or equal to 0.5 THP: a statement confirming that the motor is a variable speed control dedicated purpose pool pump motor, as defined at § 431.483 of this chapter; and a statement regarding whether freeze protection is shipped enabled or disabled; for dedicated-purpose pool pump motors distributed in commerce with freeze protection controls enabled: The default dry-bulb air temperature setting (in °F), default run time setting (in minutes), maximum operating speed (in revolutions per minute, or rpm), and default motor speed in freeze protection mode (in revolutions per minute, or rpm).
+
+(f) *Rounding requirements.* (1) Round dedicated-purpose-pool pump motor total horsepower to the nearest hundredth of a THP;
+
+(2) Round full-load efficiency to the nearest tenth of a percent; and
+
+(3) For dedicated-purpose pool pump motor basic models with total horsepower greater than or equal to 0.5 THP and distributed in commerce with freeze protection controls enabled, round the dry-bulb temperature setting, run time setting, maximum operating speed, and default motor speed in freeze protection mode to the nearest whole number.
+
+[87 FR 63648, Oct. 19, 2022, as amended at 89 FR 82068, Oct. 9, 2024]

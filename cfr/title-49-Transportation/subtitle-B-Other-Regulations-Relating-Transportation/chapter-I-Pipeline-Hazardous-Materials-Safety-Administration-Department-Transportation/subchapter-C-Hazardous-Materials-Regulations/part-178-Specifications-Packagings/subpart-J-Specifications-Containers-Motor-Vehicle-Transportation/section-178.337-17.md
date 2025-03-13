@@ -2,7 +2,7 @@
 
 (a) *General.* Each cargo tank certified after October 1, 2004 must have a corrosion-resistant metal name plate (ASME Plate); and each cargo tank motor vehicle certified after October 1, 2004 must have a specification plate, permanently attached to the cargo tank by brazing, welding, or other suitable means on the left side near the front, in a place accessible for inspection. If the specification plate is attached directly to the cargo tank wall by welding, it must be welded to the tank before the cargo tank is postweld heat treated.
 
-(1) The plates must be legibly marked by stamping, embossing, or other means of forming letters into the metal of the plate, with the information required in paragraphs (b) and (c) of this section, in addition to that required by the ASME Code, in characters at least 3/16 inch high (parenthetical abbreviations may be used). All plates must be maintained in a legible condition.
+(1) The plates must be legibly marked by stamping, embossing, or other means of forming letters into the metal of the plate, with the information required in paragraphs (b) and (c) of this section, in addition to that required by the ASME Code, in characters at least3/16 inch high (parenthetical abbreviations may be used). All plates must be maintained in a legible condition.
 
 (2) Each insulated cargo tank must have additional plates, as described, attached to the jacket in the location specified unless the specification plate is attached to the chassis and has the information required in paragraphs (b) and (c) of this section.
 

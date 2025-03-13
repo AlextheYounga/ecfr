@@ -26,7 +26,7 @@
 
 (i) A vapor or liquid discharge opening of less than 11/4 NPT equipped with an excess flow valve together with a manually operated external stop valve in place of an internal self-closing stop valve.
 
-(ii) An engine fuel line on a truck-mounted cargo tank of not more than 3/4 NPT equipped with a valve having an integral excess flow valve or excess flow feature.
+(ii) An engine fuel line on a truck-mounted cargo tank of not more than3/4 NPT equipped with a valve having an integral excess flow valve or excess flow feature.
 
 (iii) A cargo tank motor vehicle used to transport refrigerated liquids such as argon, carbon dioxide, helium, krypton, neon, nitrogen, and xenon, or mixtures thereof.
 

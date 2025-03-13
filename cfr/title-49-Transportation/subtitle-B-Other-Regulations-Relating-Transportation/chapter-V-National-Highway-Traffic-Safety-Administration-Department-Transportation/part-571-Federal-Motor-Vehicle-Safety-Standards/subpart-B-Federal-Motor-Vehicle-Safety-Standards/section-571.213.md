@@ -80,7 +80,7 @@ S5.1.1 *Child restraint system integrity.* When tested in accordance with S6.1, 
 
 (2)(i) Subject to paragraph (b)(2)(ii), a rear-facing child restraint system may have a means for repositioning the seating surface of the system that allows the system's occupant to move from a reclined position to an upright position and back to a reclined position during testing.
 
-(ii) No opening that is exposed and is larger than 1/4 inch before the testing shall become smaller during the testing as a result of the movement of the seating surface relative to the restraint system as a whole.
+(ii) No opening that is exposed and is larger than1/4 inch before the testing shall become smaller during the testing as a result of the movement of the seating surface relative to the restraint system as a whole.
 
 (c) If a front facing child restraint system, not allow the angle between the system's back support surfaces for the child and the system's seating surface to be less than 45 degrees at the completion of the test.
 

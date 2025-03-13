@@ -14,7 +14,7 @@
 
 (C) Is a statement in which the person making such statement has a duty to include such material fact; or
 
-(iv) Is for payment for the provision of property or services which the person has not provided as claimed, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $5,500 for each such claim. 1
+(iv) Is for payment for the provision of property or services which the person has not provided as claimed, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $5,500 for each such claim.1
 
 1 As adjusted in accordance with the Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-140), as amended by the Debt Collection Improvement Act of 1996 (Pub. L. 104-143, section 31001).
 
@@ -34,7 +34,7 @@
 
 (B) Is false, fictitious, or fraudulent because it omits a material fact that the person making the statement has a duty to include in such statement; and
 
-(ii) Contains, or is accompanied by, an express certification or affirmation of the truthfulness and accuracy of the contents of the statement, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $5,500. 2
+(ii) Contains, or is accompanied by, an express certification or affirmation of the truthfulness and accuracy of the contents of the statement, shall be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $5,500.2
 
 2 As adjusted in accordance with the Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-140), as amended by the Debt Collection Improvement Act of 1996 (Pub. L. 104-143, section 31001).
 

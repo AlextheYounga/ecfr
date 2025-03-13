@@ -6,6 +6,6 @@
 
 (c) *Minimum length of safety chains or bars.* Safety chains or safety bar(s) shall be of the minimum length consistent with the curvature of the railroad on which the steam locomotive is operated.
 
-(d) *Lost motion.* Lost motion between steam locomotives and tenders not equipped with spring buffers shall be kept to a minimum and shall not exceed 1/2 inch.
+(d) *Lost motion.* Lost motion between steam locomotives and tenders not equipped with spring buffers shall be kept to a minimum and shall not exceed1/2 inch.
 
-(e) *Spring buffers.* When spring buffers are used between steam locomotives and tenders the spring shall be applied with not less than 3/4 inch compression, and shall at all times be under sufficient compression to keep the chafing faces in contact.
+(e) *Spring buffers.* When spring buffers are used between steam locomotives and tenders the spring shall be applied with not less than3/4 inch compression, and shall at all times be under sufficient compression to keep the chafing faces in contact.

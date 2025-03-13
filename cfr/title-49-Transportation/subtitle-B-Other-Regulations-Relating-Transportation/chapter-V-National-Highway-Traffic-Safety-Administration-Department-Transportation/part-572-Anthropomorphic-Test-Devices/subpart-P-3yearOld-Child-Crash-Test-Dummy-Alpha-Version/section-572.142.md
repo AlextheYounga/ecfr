@@ -1,6 +1,6 @@
 ##### § 572.142 Head assembly and test procedure. #####
 
-(a) The head assembly (refer to § 572.140(a)(1)(i)) for this test consists of the head (drawing 210-1000), adapter plate (drawing ATD 6259), accelerometer mounting block (drawing SA 572-S80), structural replacement of 1/2 mass of the neck load transducer (drawing TE-107-001), head mounting washer (drawing ATD 6262), one 1/2-20 × 1″ flat head cap screw (FHCS) (drawing 9000150), and 3 accelerometers (drawing SA-572-S4).
+(a) The head assembly (refer to § 572.140(a)(1)(i)) for this test consists of the head (drawing 210-1000), adapter plate (drawing ATD 6259), accelerometer mounting block (drawing SA 572-S80), structural replacement of1/2 mass of the neck load transducer (drawing TE-107-001), head mounting washer (drawing ATD 6262), one1/2-20 × 1″ flat head cap screw (FHCS) (drawing 9000150), and 3 accelerometers (drawing SA-572-S4).
 
 (b) When the head assembly in paragraph (a) of this section is dropped from a height of 376.0±1.0 mm (14.8±0.04 in) in accordance with paragraph (c) of this section, the peak resultant acceleration at the location of the accelerometers at the head CG shall not be less than 250 g or more than 280 g. The resultant acceleration versus time history curve shall be unimodal, and the oscillations occurring after the main pulse shall be less than 10 percent of the peak resultant acceleration. The lateral acceleration shall not exceed ±15 G (zero to peak).
 

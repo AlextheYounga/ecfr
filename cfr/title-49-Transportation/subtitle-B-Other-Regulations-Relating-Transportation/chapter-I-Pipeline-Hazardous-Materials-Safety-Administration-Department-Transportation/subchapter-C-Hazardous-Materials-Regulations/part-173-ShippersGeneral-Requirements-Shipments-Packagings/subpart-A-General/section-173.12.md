@@ -78,4 +78,4 @@
 
 (3) The outside of the shrink-wrap or stretch-wrap must be marked on opposite sides with “Waste, Limited Quantity.”
 
-[Amdt. 173-224, 55 FR 52609, Dec. 21, 1990] Editorial Note:For Federal Register citations affecting § 173.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Amdt. 173-224, 55 FR 52609, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

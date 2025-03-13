@@ -10,7 +10,7 @@ Revenue freight originating on respondent's road:
 
 Terminating on line:
 
-Number of carloads. Number of tons (2,000 pounds).
+Number of carloads.Number of tons (2,000 pounds).
 
 Delivered to connecting rail carriers.
 

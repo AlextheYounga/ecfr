@@ -72,7 +72,7 @@
 
 (10) *Safety Concern.* For vehicle tests for which NHTSA reports a safety concern as part of the star rating, the label must:
 
-(i) Depict, as a superscript to the star rating, the related symbol, as depicted in Figure 4 of this section, at 2/3 the font size of the base star, and
+(i) Depict, as a superscript to the star rating, the related symbol, as depicted in Figure 4 of this section, at2/3 the font size of the base star, and
 
 (ii) Include at the bottom of the relevant area (i.e., frontal crash area, side crash area, rollover area), as the last line of that area, the related symbol, as depicted in Figure 4 of this section, as a superscript of the rest of the line, and the text “Safety Concern: Visit *www.safercar.gov* or call 1-888-327-4236 for more details.”
 

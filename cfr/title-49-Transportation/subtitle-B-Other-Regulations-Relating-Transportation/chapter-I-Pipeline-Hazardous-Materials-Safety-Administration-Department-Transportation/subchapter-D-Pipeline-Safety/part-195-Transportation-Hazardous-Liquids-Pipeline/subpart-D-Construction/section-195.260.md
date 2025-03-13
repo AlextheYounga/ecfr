@@ -18,7 +18,7 @@ A valve must be installed at each of the following locations:
 
 (f) On each side of a reservoir holding water for human consumption.
 
-(g) On each highly volatile liquid (HVL) pipeline that is located in a high-population area or other populated area, as defined in § 195.450, and that is constructed, or where 2 or more miles of pipe have been replaced within any 5 contiguous miles within any 24-month period, after April 10, 2023, with a maximum valve spacing of 71/2 miles. The maximum valve spacing intervals may be increased by 1.25 times the distance up to a 9 3/8-mile spacing, provided the operator:
+(g) On each highly volatile liquid (HVL) pipeline that is located in a high-population area or other populated area, as defined in § 195.450, and that is constructed, or where 2 or more miles of pipe have been replaced within any 5 contiguous miles within any 24-month period, after April 10, 2023, with a maximum valve spacing of 71/2 miles. The maximum valve spacing intervals may be increased by 1.25 times the distance up to a 93/8-mile spacing, provided the operator:
 
 (1) Submits for PHMSA review a notification pursuant to § 195.18 requesting alternative spacing because installation of a valve at a particular location between a 7-mile to a 71/2-mile spacing would be economically, technically, or operationally infeasible, and that an alternative spacing would not adversely impact safety; and
 

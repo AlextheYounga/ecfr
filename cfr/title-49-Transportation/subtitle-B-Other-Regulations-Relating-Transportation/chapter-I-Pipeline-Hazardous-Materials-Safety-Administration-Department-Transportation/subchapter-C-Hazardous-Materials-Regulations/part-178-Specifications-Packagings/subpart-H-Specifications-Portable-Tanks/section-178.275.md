@@ -78,7 +78,7 @@
 
 (h) *Fusible elements.* Fusible elements must operate at a temperature between 110 °C (230 °F) and 149 °C (300.2 °F), provided that the pressure in the shell at the fusing temperature will not exceed the test pressure. They must be placed at the top of the shell with their inlets in the vapor space and in no case may they be shielded from external heat. Fusible elements must not be utilized on portable tanks with a test pressure which exceeds 2.65 bar (265.0 kPa); however, fusible elements are authorized on portable tanks for the transportation of certain organometallic materials in accordance with § 172.102, special provision TP36 of this subchapter. Fusible elements used on portable tanks intended for the transport of elevated temperature hazardous materials must be designed to operate at a temperature higher than the maximum temperature that will be experienced during transport and must be designed to the satisfaction of the approval agency.
 
-(i) *Capacity of pressure relief devices.* (1) The reclosing pressure relief device required by paragraph (g)(1) of this section must have a minimum cross sectional flow area equivalent to an orifice of 31.75 mm (1.3 inches) diameter. Vacuum-relief devices, when used, must have a cross sectional flow area not less than 284 mm 2 (11.2 inches 2).
+(i) *Capacity of pressure relief devices.* (1) The reclosing pressure relief device required by paragraph (g)(1) of this section must have a minimum cross sectional flow area equivalent to an orifice of 31.75 mm (1.3 inches) diameter. Vacuum-relief devices, when used, must have a cross sectional flow area not less than 284 mm2 (11.2 inches2).
 
 (2) The combined delivery capacity of the pressure relief system (taking into account the reduction of the flow when the portable tank is fitted with frangible-discs preceding spring-loaded pressure-relief devices or when the spring-loaded pressure-relief devices are provided with a device to prevent the passage of the flame), in condition of complete fire engulfment of the portable tank must be sufficient to limit the pressure in the shell to 20% above the start to discharge pressure limiting device (pressure relief device). The total required capacity of the relief devices may be determined using the formula in paragraph (i)(2)(i)(A) of this section or the table in paragraph (i)(2)(iii) of this section.
 
@@ -88,7 +88,7 @@
 
 (B) The constant C, as shown in the formula in paragraph (i)(2)(i)(A) of this section, is derived from one of the following formulas as a function of the ratio k of specific heats:
 
-![](/graphics/er01oc08.001.gif)Where:*c*p is the specific heat at constant pressure; and *c*v is the specific heat at constant volume.
+![](/graphics/er01oc08.001.gif)Where:*c*p is the specific heat at constant pressure; and*c*v is the specific heat at constant volume.
 
 (C) When k \>1:
 

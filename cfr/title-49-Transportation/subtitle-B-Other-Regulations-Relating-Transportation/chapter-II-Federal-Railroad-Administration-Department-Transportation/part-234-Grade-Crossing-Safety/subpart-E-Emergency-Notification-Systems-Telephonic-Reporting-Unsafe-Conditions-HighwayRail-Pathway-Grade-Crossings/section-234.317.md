@@ -6,9 +6,9 @@
 
 (c) *Railroads with ENS signs of nonconforming size.* (1) If a railroad subject to this subpart already has ENS signs in place, and those signs do not conform to the requirements in § 234.309 on August 13, 2012, the railroad's ENS signs shall conform to § 234.309 no later than as required below:
 
-(i) If the railroad's sign size is greater than or equal to 60 square inches and the height of the lettering on the sign is greater than or equal to 3/4 inch for the information required in § 234.309(b)(1) and (b)(3), and greater than or equal to 3/8 inch for the information required in § 234.309(b)(2) on August 13, 2012, the railroad may maintain the sign for its useful life.
+(i) If the railroad's sign size is greater than or equal to 60 square inches and the height of the lettering on the sign is greater than or equal to3/4 inch for the information required in § 234.309(b)(1) and (b)(3), and greater than or equal to3/8 inch for the information required in § 234.309(b)(2) on August 13, 2012, the railroad may maintain the sign for its useful life.
 
-(ii) If the railroad's sign size is greater than or equal to 60 square inches but the height of the lettering is either less than 3/4 inch for the information required in § 234.309(b)(1) and (b)(3), or less than 3/8 inch for the information required in § 234.309(b)(2) on August 13, 2012, the railroad's sign must conform to § 234.309 no later than September 1, 2017.
+(ii) If the railroad's sign size is greater than or equal to 60 square inches but the height of the lettering is either less than3/4 inch for the information required in § 234.309(b)(1) and (b)(3), or less than3/8 inch for the information required in § 234.309(b)(2) on August 13, 2012, the railroad's sign must conform to § 234.309 no later than September 1, 2017.
 
 (iii) If the railroad's sign size is less than 60 square inches, regardless of the height of the lettering for the information required in § 234.309(b), on August 13, 2012, the railroad's sign must conform to § 234.309 no later than September 1, 2015.
 

@@ -68,7 +68,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in psi;P = minimum tes
 
 (2) Specimens must conform to the following:
 
-(i) A gauge length of 8 inches with a width not over 11/2 inches, a gauge length of 2 inches with a width not over 11/2 inches, or a gauge length at least 24 times the thickness with a width not over 6 times thickness is authorized when the cylinder wall is not over 3/16 inch thick.
+(i) A gauge length of 8 inches with a width not over 11/2 inches, a gauge length of 2 inches with a width not over 11/2 inches, or a gauge length at least 24 times the thickness with a width not over 6 times thickness is authorized when the cylinder wall is not over3/16 inch thick.
 
 (ii) The specimen, exclusive of grip ends, may not be flattened. Grip ends may be flattened to within one inch of each end of the reduced section.
 
@@ -84,7 +84,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in psi;P = minimum tes
 
 (iii) For the purpose of strain measurement, the initial strain reference must be set while the specimen is under a stress of 12,000 psi and the strain indicator reading being set at the calculated corresponding strain.
 
-(iv) Cross-head speed of the testing machine may not exceed 1/8 inch per minute during yield strength determination.
+(iv) Cross-head speed of the testing machine may not exceed1/8 inch per minute during yield strength determination.
 
 (k) *Elongation.* Physical test specimens must show at least a 40 percent elongation for 2-inch gauge lengths or at least a 20 percent elongation in other cases. Except that these elongation percentages may be reduced numerically by 2 for 2-inch specimens and by 1 in other cases for each 7,500 psi increment of tensile strength above 50,000 psi to a maximum of four such increments.
 
@@ -104,7 +104,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in psi;P = minimum tes
 
 (2) On neck, valve boss, valve protection sleeve, or similar part permanently attached to top end of cylinder.
 
-(3) On a plate attached to the top of the cylinder or permanent part thereof: sufficient space must be left on the plate to provide for stamping at least six retest dates: the plate must be at least 1/16 inch thick and must be attached by welding or by brazing at a temperature of at least 1100 °F, throughout all edges of the plate.
+(3) On a plate attached to the top of the cylinder or permanent part thereof: sufficient space must be left on the plate to provide for stamping at least six retest dates: the plate must be at least1/16 inch thick and must be attached by welding or by brazing at a temperature of at least 1100 °F, throughout all edges of the plate.
 
 (4) Variations in location of markings authorized only when necessitated by lack of space.
 

@@ -1,7 +1,5 @@
 ##### § 429.68 Air cleaners. #####
 
-Link to an amendment published at 89 FR 82069, Oct. 9, 2024.
-
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to air cleaners; and
 
 (2) For each basic mode of air cleaners, a sample of sufficient size shall be randomly selected and tested to ensure that—
@@ -22,7 +20,7 @@ Or,
 
 And
 
-(ii) Any represented value of the integrated energy factor or other measure of energy consumption of a basic mode for which consumers would favor higher values shall be less than or equal to the high:
+(ii) Any represented value of the integrated energy factor or other measure of energy consumption of a basic mode for which consumers would favor higher values shall be less than or equal to the lower of:
 
 (A) The mean of the sample:
 
@@ -48,7 +46,21 @@ And
 
 (6) Round the value of the integrated energy factor of a basic model to the nearest 0.1 CADR/W.
 
-(b) [Reserved]
+(b) *Certification reports.* (1) The requirements of § 429.12 are applicable to air cleaners; and
 
-[88 FR 14043, Mar. 6, 2023]
+(2) Pursuant to § 429.12(b)(13), a certification report shall include the following public product-specific information:
+
+(i) Smoke clean air delivery rate (CADR) in cubic feet per minute (cfm);
+
+(ii) Dust CADR in cfm;
+
+(iii) PM2.5 CADR in cfm;
+
+(iv) Annual energy consumption in kilowatt hours per year (kWh/yr);
+
+(v) Integrated energy factor in PM2.5 CADR per watt; and
+
+(vi) Effective room size in square feet.
+
+[88 FR 14043, Mar. 6, 2023, as amended at 89 FR 82069, Oct. 9, 2024]
 ]

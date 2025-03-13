@@ -1,5 +1,7 @@
 ##### § 7.90 Chattahoochee River National Recreation Area. #####
 
+Link to an amendment published at 89 FR 104430, Dec. 23, 2024.
+
 (a) *Bicycling.* (1) *Where may I ride a bicycle within Chattahoochee River National Recreation Area?* The following routes are designated for bicycle use:
 
 (i) The approximately 500-foot-long segment of paved multi-use trail along the Chattahoochee River located within the boundary of the Vickery Creek unit.

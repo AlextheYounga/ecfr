@@ -4,7 +4,7 @@
 
 (b) *Unstayed portions of the boiler containing carbon steel not exceeding 0.25 percent carbon.* The steam locomotive owner and/or operator shall perform any welding to unstayed portions of the boiler in accordance with an accepted national standard for boiler repairs. The steam locomotive owner and/or operator shall satisfy reporting requirements in § 230.20 at this time.
 
-(c) *Wastage.* The steam locomotive owner and/or operator shall submit a written request for approval to the FRA Regional Administrator before performing weld build up on wasted areas of unstayed surfaces of the boiler that exceed a total of 100 square inches or the smaller of 25 percent of minimum required wall thickness or 1/2 inch. Wasted sheets shall not be repaired by weld build up if the wasted sheet has been reduced to less than 60 percent of the minimum required thickness as required by this part.
+(c) *Wastage.* The steam locomotive owner and/or operator shall submit a written request for approval to the FRA Regional Administrator before performing weld build up on wasted areas of unstayed surfaces of the boiler that exceed a total of 100 square inches or the smaller of 25 percent of minimum required wall thickness or1/2 inch. Wasted sheets shall not be repaired by weld build up if the wasted sheet has been reduced to less than 60 percent of the minimum required thickness as required by this part.
 
 (d) *Flush patches.* The steam locomotive owner and/or operator shall submit a written request for approval to the FRA Regional Administrator for the installation of flush patches of any size on unstayed portions of the boiler.
 

@@ -24,4 +24,4 @@
 
 (c) Hazardous materials which are required to be labeled POISON may be transported in the same motor vehicle with material that is marked or known to be foodstuffs, feed or any edible material intended for consumption by humans or animals provided the hazardous material is marked, labeled, and packaged in accordance with this subchapter, conforms to the requirements of paragraph (a) of this section and is overpacked as specified in § 177.841(e) of this subchapter or in an overpack which is a UN 1A2, 1B2, or 1N2 drum tested and marked for a Packing Group II or higher performance level.
 
-[Amdt. 173-165, 48 FR 28099, June 20, 1983] Editorial Note:For Federal Register citations affecting § 173.25, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Amdt. 173-165, 48 FR 28099, June 20, 1983]Editorial Note:For Federal Register citations affecting § 173.25, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

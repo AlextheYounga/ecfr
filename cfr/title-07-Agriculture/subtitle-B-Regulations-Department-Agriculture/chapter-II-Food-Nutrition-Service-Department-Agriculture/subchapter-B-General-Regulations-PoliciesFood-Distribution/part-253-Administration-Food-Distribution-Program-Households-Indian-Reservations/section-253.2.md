@@ -1,6 +1,6 @@
 ##### § 253.2 Definitions. #####
 
-Link to an amendment published at 89 FR 87254, Oct. 31, 2024.
+Link to an amendment published at 89 FR 87254, Oct. 31, 2024.Link to a correction published at 89 FR 104393, Dec. 23, 2024.
 
 *Disabled member* means a member of a household who:
 

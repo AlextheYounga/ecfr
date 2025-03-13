@@ -10,6 +10,6 @@
 
 (2) “Marked test pressure” is that pressure in psig which is indicated by the figures substituted for the \*\*\*\* in the marking DOT-107A \*\*\*\* stamped on the marked end of tank.
 
-(d) The gas pressure at 130 °F in the tank shall not exceed 7/10 of the marked test pressure of the tank.
+(d) The gas pressure at 130 °F in the tank shall not exceed7/10 of the marked test pressure of the tank.
 
 [Amdt. 179-32, 48 FR 27708, June 16, 1983, as amended at 66 FR 45186, 45391, Aug. 28, 2001]

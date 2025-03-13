@@ -142,7 +142,7 @@ S = PD / 4tWhere:S = Wall stress, in psi;P = Test pressure i psig;D = Outside di
 
 (B) For cylinders manufactured on or after October 1, 1996: “Federal law forbids transportation if refilled-penalty up to $500,000 fine and 5 years imprisonment (49 U.S.C. 5124).”
 
-(3) The markings required by paragraphs (i)(2)(i) through (i)(2)(v) of this section must be in numbers and letters at least 1/8 inch high and displayed sequentially. For example:
+(3) The markings required by paragraphs (i)(2)(i) through (i)(2)(v) of this section must be in numbers and letters at least1/8 inch high and displayed sequentially. For example:
 
 DOT-39 NRC 250/500 M1001.
 

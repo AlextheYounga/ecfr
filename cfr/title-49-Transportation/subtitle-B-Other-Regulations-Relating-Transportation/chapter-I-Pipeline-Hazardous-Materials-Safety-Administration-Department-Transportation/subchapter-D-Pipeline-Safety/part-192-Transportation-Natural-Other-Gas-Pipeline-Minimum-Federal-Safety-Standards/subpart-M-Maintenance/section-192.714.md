@@ -16,7 +16,7 @@
 
 (i) Metal loss anomalies where a calculation of the remaining strength of the pipe at the location of the anomaly shows a predicted failure pressure, determined in accordance with § 192.712(b), of less than or equal to 1.1 times the MAOP.
 
-(ii) A dent located between the 8 o'clock and 4 o'clock positions (upper 2/3 of the pipe) that has metal loss, cracking, or a stress riser, unless an engineering analysis performed in accordance with § 192.712(c) demonstrates critical strain levels are not exceeded.
+(ii) A dent located between the 8 o'clock and 4 o'clock positions (upper2/3 of the pipe) that has metal loss, cracking, or a stress riser, unless an engineering analysis performed in accordance with § 192.712(c) demonstrates critical strain levels are not exceeded.
 
 (iii) Metal loss greater than 80 percent of nominal wall regardless of dimensions.
 
@@ -34,11 +34,11 @@
 
 (2) *Two-year conditions.* An operator must repair the following conditions within 2 years of discovery:
 
-(i) A smooth dent located between the 8 o'clock and 4 o'clock positions (upper 2/3 of the pipe) with a depth greater than 6 percent of the pipeline diameter (greater than 0.50 inches in depth for a pipeline diameter less than Nominal Pipe Size (NPS) 12), unless an engineering analysis performed in accordance with § 192.712(c) demonstrates critical strain levels are not exceeded.
+(i) A smooth dent located between the 8 o'clock and 4 o'clock positions (upper2/3 of the pipe) with a depth greater than 6 percent of the pipeline diameter (greater than 0.50 inches in depth for a pipeline diameter less than Nominal Pipe Size (NPS) 12), unless an engineering analysis performed in accordance with § 192.712(c) demonstrates critical strain levels are not exceeded.
 
 (ii) A dent with a depth greater than 2 percent of the pipeline diameter (0.250 inches in depth for a pipeline diameter less than NPS 12) that affects pipe curvature at a girth weld or at a longitudinal or helical (spiral) seam weld, unless an engineering analysis performed in accordance with § 192.712(c) demonstrates critical strain levels are not exceeded.
 
-(iii) A dent located between the 4 o'clock and 8 o'clock positions (lower 1/3 of the pipe) that has metal loss, cracking, or a stress riser, unless an engineering analysis performed in accordance with § 192.712(c) demonstrates critical strain levels are not exceeded.
+(iii) A dent located between the 4 o'clock and 8 o'clock positions (lower1/3 of the pipe) that has metal loss, cracking, or a stress riser, unless an engineering analysis performed in accordance with § 192.712(c) demonstrates critical strain levels are not exceeded.
 
 (iv) For metal loss anomalies, a calculation of the remaining strength of the pipe shows a predicted failure pressure, determined in accordance with § 192.712(b) at the location of the anomaly, of less than 1.39 times the MAOP for Class 2 locations, or less than 1.50 times the MAOP for Class 3 and 4 locations. For metal loss anomalies in Class 1 locations with a predicted failure pressure greater than 1.1 times MAOP, an operator must follow the remediation schedule specified in ASME/ANSI B31.8S-2004 (incorporated by reference, *see* § 192.7), section 7, Figure 4, as specified in paragraph (c) of this section.
 
@@ -50,9 +50,9 @@
 
 (3) *Monitored conditions.* An operator must record and monitor the following conditions during subsequent risk assessments and integrity assessments for any change that may require remediation.
 
-(i) A dent that is located between the 4 o'clock and 8 o'clock positions (bottom 1/3 of the pipe) with a depth greater than 6 percent of the pipeline diameter (greater than 0.50 inches in depth for a pipeline diameter less than NPS 12), and where an engineering analysis, performed in accordance with § 192.712(c), demonstrates critical strain levels are not exceeded.
+(i) A dent that is located between the 4 o'clock and 8 o'clock positions (bottom1/3 of the pipe) with a depth greater than 6 percent of the pipeline diameter (greater than 0.50 inches in depth for a pipeline diameter less than NPS 12), and where an engineering analysis, performed in accordance with § 192.712(c), demonstrates critical strain levels are not exceeded.
 
-(ii) A dent located between the 8 o'clock and 4 o'clock positions (upper 2/3 of the pipe) with a depth greater than 6 percent of the pipeline diameter (greater than 0.50 inches in depth for a pipeline diameter less than NPS 12), and where an engineering analysis performed in accordance with § 192.712(c) determines that critical strain levels are not exceeded.
+(ii) A dent located between the 8 o'clock and 4 o'clock positions (upper2/3 of the pipe) with a depth greater than 6 percent of the pipeline diameter (greater than 0.50 inches in depth for a pipeline diameter less than NPS 12), and where an engineering analysis performed in accordance with § 192.712(c) determines that critical strain levels are not exceeded.
 
 (iii) A dent with a depth greater than 2 percent of the pipeline diameter (0.250 inches in depth for a pipeline diameter less than NPS 12) that affects pipe curvature at a girth weld or longitudinal or helical (spiral) seam weld, and where an engineering analysis of the dent and girth or seam weld, performed in accordance with § 192.712(c), demonstrates critical strain levels are not exceeded. These analyses must consider weld mechanical properties.
 

@@ -145,4 +145,5 @@
 
 (vi) When dry ice or liquid nitrogen is optionally used as a coolant for quality control measures, all applicable requirements of this subchapter must be met. Interior supports must be provided to secure the inner packagings in the original position after the ice or dry ice has dissipated. If ice is used, the outside packaging or overpack must be leakproof. If dry ice is used, the requirements in § 173.217 must be met. The inner and outer packagings must maintain their integrity at the temperature of the refrigerant used as well as the temperatures and the pressures which could result if refrigeration were lost.
 
-[Amdt. 173-241, 59 FR 67511, Dec. 29, 1994] ] Editorial Note:For Federal Register citations affecting § 173.224, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[Amdt. 173-241, 59 FR 67511, Dec. 29, 1994]
+]Editorial Note:For Federal Register citations affecting § 173.224, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

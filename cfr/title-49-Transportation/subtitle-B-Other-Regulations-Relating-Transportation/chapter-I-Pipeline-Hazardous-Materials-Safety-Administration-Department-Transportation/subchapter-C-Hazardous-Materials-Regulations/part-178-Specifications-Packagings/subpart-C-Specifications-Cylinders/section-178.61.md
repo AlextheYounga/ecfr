@@ -18,7 +18,7 @@
 
 (2) Circumferential seams must be by electric-arc welding. Joints must be butt with one member offset (joggle butt) or with a lap joint. Joints must have a minimum overlap of at least four (4) times nominal sheet thickness.
 
-(3) Longitudinal electric-arc welded seams (in shells) must be of the butt welded type. Welds must be made by a machine process including automatic feed and welding guidance mechanisms. Longitudinal seams must have complete joint penetration, and must be free from undercuts, overlaps or abrupt ridges or valleys. Misalignment of mating butt edges may not exceed 1/6 inch of nominal sheet thickness or 1/32 inch whichever is less. All joints with nominal sheet thickness up to and including 1/8 inch must be tightly butted. When nominal sheet thickness is greater than 1/8 inch, the joint must be gapped with maximum distance equal to one-half the nominal sheet thickness or 1/32 inch whichever is less. Joint design, preparation, and fit-up must be such that requirements of this paragraph (d) are satisfied.
+(3) Longitudinal electric-arc welded seams (in shells) must be of the butt welded type. Welds must be made by a machine process including automatic feed and welding guidance mechanisms. Longitudinal seams must have complete joint penetration, and must be free from undercuts, overlaps or abrupt ridges or valleys. Misalignment of mating butt edges may not exceed1/6 inch of nominal sheet thickness or1/32 inch whichever is less. All joints with nominal sheet thickness up to and including1/8 inch must be tightly butted. When nominal sheet thickness is greater than1/8 inch, the joint must be gapped with maximum distance equal to one-half the nominal sheet thickness or1/32 inch whichever is less. Joint design, preparation, and fit-up must be such that requirements of this paragraph (d) are satisfied.
 
 (4) Welding procedures and operators must be qualified in accordance with CGA C-3 (IBR, see § 171.7 of this subchapter).
 
@@ -94,7 +94,8 @@ S = [2P(1.3D2 + 0.4d2)]/[E(D2 − d2)]Where:S = wall stress, psig;P = service pr
 
 (2) Specimens must conform to the following:
 
-(i) When a cylinder wall is 3/16 inch thick or less, one the following gauge lengths is authorized: A gauge length of 8 inches with a width not over 11/2 inches, a gauge length of 2 inches with a width not over 11/2 inches, or a gauge length at least twenty-four (24) times the thickness with a width not over six (6) times the thickness.
+(i) When a cylinder wall is3/16 inch thick or less, one the following gauge lengths is authorized: A gauge length of 8 inches with a width not over
+11/2 inches, a gauge length of 2 inches with a width not over 11/2 inches, or a gauge length at least twenty-four (24) times the thickness with a width not over six (6) times the thickness.
 
 (ii) The specimen, exclusive of grip ends, may not be flattened. Grip ends may be flattened to within 1 inch of each end of the reduced section.
 
@@ -110,7 +111,7 @@ S = [2P(1.3D2 + 0.4d2)]/[E(D2 − d2)]Where:S = wall stress, psig;P = service pr
 
 (iii) For strain measurement, the initial strain reference must be set while the specimen is under a stress of 12,000 psig, and the strain indicator reading must be set at the calculated corresponding strain.
 
-(iv) Cross-head speed of the testing machine may not exceed 1/8 inch per minute during yield strength determination.
+(iv) Cross-head speed of the testing machine may not exceed1/8 inch per minute during yield strength determination.
 
 (k) *Elongation.* Mechanical test specimens must show at least a 40 percent elongation for a 2-inch gauge length or at least 20 percent in other cases. However, elongation percentages may be reduced numerically by 2 percent for 2-inch specimens, and by 1 percent in other cases, for each 7,500 psi increase of tensile strength above 50,000 psig. The tensile strength may be incrementally increased by four increments of 7,500 psig for a maximum total of 30,000 psig.
 
@@ -134,7 +135,7 @@ S = [2P(1.3D2 + 0.4d2)]/[E(D2 − d2)]Where:S = wall stress, psig;P = service pr
 
 (iii) On a cylindrical portion of the shell that extends beyond the recessed bottom of the cylinder constituting an integral and non-pressure part of the cylinder.
 
-(iv) On a plate attached to the top of the cylinder or permanent part thereof; sufficient space must be left on the plate to provide for stamping at least six retest dates; the plate must be at least 1/16-inch thick and must be attached by welding at a temperature of 1,100 °F, throughout all edges of the plate.
+(iv) On a plate attached to the top of the cylinder or permanent part thereof; sufficient space must be left on the plate to provide for stamping at least six retest dates; the plate must be at least1/16-inch thick and must be attached by welding at a temperature of 1,100 °F, throughout all edges of the plate.
 
 (v) On the neck, neckring, valve boss, valve protection sleeve, or similar part permanently attached to the top of the cylinder.
 

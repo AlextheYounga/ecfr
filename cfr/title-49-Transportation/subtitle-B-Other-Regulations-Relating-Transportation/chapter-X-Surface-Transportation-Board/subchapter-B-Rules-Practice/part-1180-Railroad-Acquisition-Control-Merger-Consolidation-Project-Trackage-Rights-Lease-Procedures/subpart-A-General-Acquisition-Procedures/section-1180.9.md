@@ -10,7 +10,7 @@ The following information shall be provided for *major* transactions, and for ca
 
 (3) In the *third* column, *pro forma* adjustments and eliminations; and
 
-(4) In the *fourth* column, transferee's balance sheet giving effect to consumation of the proposed transaction. 4
+(4) In the *fourth* column, transferee's balance sheet giving effect to consumation of the proposed transaction.4
 
 4 Where the purchase of a line or line segment is involved, a procedure utilizing three columns should be followed. The *first* column should show transferee's actual balance sheet on a corporate entity basis for the latest available 12-month period, the *second* column should show the adjustments necessitated by the purchase, and the *third* is a compilation of the first two columns into a *pro forma* balance sheet.
 
@@ -22,7 +22,7 @@ All adjustments to these balance sheets shall be supported in footnotes to the a
 
 Each adjustment and elimination shall be properly footnoted and fully explained. A *pro forma balance sheet shall be submitted for the number of years following consummation necessary to effect the operating plan.*
 
-(b) *Pro forma* income statement (exhibit 17). Where the transaction involves a proceeding other than a control, submit a *pro forma* income statement showing transferee's estimate of revenues, expenses, and net income for at least each of the 3 years following consummation of the transaction. 5 The *pro forma* data shall be presented in columnar form, showing
+(b) *Pro forma* income statement (exhibit 17). Where the transaction involves a proceeding other than a control, submit a *pro forma* income statement showing transferee's estimate of revenues, expenses, and net income for at least each of the 3 years following consummation of the transaction.5 The *pro forma* data shall be presented in columnar form, showing
 
 5 If the operating plan requires more than 3 years to be put into effect, the *pro forma* income statement shall be prepared for as many years as necessary to implement fully the operating plan.
 
@@ -32,7 +32,7 @@ Each adjustment and elimination shall be properly footnoted and fully explained.
 
 (3) in the *third* column, forecasted adjustments to the combined revenues, expenses, and net income to reflect increases or decreases anticipated under the unified operations, and
 
-(4) in the fourth column, a compilation of the first three columns into a *pro forma* income statement. 6
+(4) in the fourth column, a compilation of the first three columns into a *pro forma* income statement.6
 
 6 Where the purchase of a line or line segment is involved, a procedure utilizing three columns should be followed. The *first* column should show transferee's actual income statement on a corporate entity basis for the latest available 12-month period, the *second* column should show the adjustment necessitated by the purchase, and the *third* column is a compilation of the first two columns into a *pro forma* income statement.
 
@@ -44,7 +44,7 @@ All adjustments to these income statements shall be supported in footnotes to th
 
 The adjustments are to be supported by a statement explaining the basis used in determining the estimated changes in revenues, expenses, and net income appearing in the *third* column. Additionally, if the major financial advantages to be derived from the proposed transaction will not occur within 3 years after consummation, then applicant shall furnish additional information to reflect the number of years within which the financial advantages will be realized. The basis for all such data furnished shall be fully explained and supported.
 
-(c) Sources and application of funds (exhibit 18). Transferor's and transferee's statement of sources and application of funds for the current year, and a forecast 7 of sources and application of funds for each carrier (if a merger or consolidation, the surviving or resulting corporation) for the year following consummation of the proposed transaction, and the years necessary to effectuate the operating plan. 8 The form and content of these statements should be constructed in accordance with the schedule: “Statement of Changes in Financial Position” required in the most recently filed Annual Report R-1 for Class I railroads.
+(c) Sources and application of funds (exhibit 18). Transferor's and transferee's statement of sources and application of funds for the current year, and a forecast7 of sources and application of funds for each carrier (if a merger or consolidation, the surviving or resulting corporation) for the year following consummation of the proposed transaction, and the years necessary to effectuate the operating plan.8 The form and content of these statements should be constructed in accordance with the schedule: “Statement of Changes in Financial Position” required in the most recently filed Annual Report R-1 for Class I railroads.
 
 7 The forecast should reflect only changes anticipated to result from the proposed transaction. Forecasts are not required to reflect general economic conditions unrelated to the proposed transaction.
 

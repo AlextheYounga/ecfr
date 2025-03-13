@@ -1,8 +1,6 @@
 ##### § 3179.2 Scope. #####
 
-Link to an amendment published at 89 FR 92605, Nov. 22, 2024.
-
-(a) Except as provided in provided paragraph (b), this subpart applies to:
+(a) Except as provided in paragraph (b), this subpart applies to:
 
 (1) All onshore Federal and Indian (other than The Osage Nation) oil and gas leases, units, and communitized areas;
 
@@ -15,3 +13,5 @@ Link to an amendment published at 89 FR 92605, Nov. 22, 2024.
 (b) Sections 3179.50, 3179.90, and 3179.100 through 3179.102 apply only to operations and production equipment located on a Federal or Indian surface estate. They do not apply to operations and production equipment on State or private tracts, even where those tracts are committed to a federally approved unit or communitization agreement.
 
 (c) For purposes of this subpart, the term “lease” also includes IMDA agreements.
+
+[89 FR 25426, Apr. 10, 2024, as amended at 89 FR 92605, Nov. 22, 2024]

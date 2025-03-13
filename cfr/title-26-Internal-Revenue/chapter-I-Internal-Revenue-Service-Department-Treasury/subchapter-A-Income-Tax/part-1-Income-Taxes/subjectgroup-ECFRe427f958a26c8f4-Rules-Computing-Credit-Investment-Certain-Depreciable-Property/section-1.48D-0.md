@@ -1,10 +1,260 @@
 ##### § 1.48D-0. Table of contents. #####
 
-Link to an amendment published at 89 FR 84751, Oct. 23, 2024.Link to a correction published at 89 FR 92793, Nov. 25, 2024.
-
 This section lists the table of contents for §§ 1.48D-1 through 1.48D-6.
 
-§ 1.48D-1—1.48D-5 [Reserved]§ 1.48D-6 Elective payment election.
+*§ 1.48D-1 Advanced manufacturing investment credit determined.*
+
+(a) Overview.
+
+(b) Determination of credit.
+
+(c) Coordination with section 47.
+
+(1) In general.
+
+(2) Example.
+
+(d) Applicability date.
+
+§ 1.48D-2 Definitions.
+
+(a) In general.
+
+(b) Applicable transaction.
+
+(c) Basis.
+
+(1) In general.
+
+(2) Transition rule.
+
+(d) Beginning of construction.
+
+(e) Eligible taxpayer.
+
+(f) Foreign entities.
+
+(1) Foreign entity.
+
+(2) Foreign entity of concern.
+
+(g) Manufacturing of semiconductors.
+
+(h) Manufacturing of semiconductor manufacturing equipment.
+
+(i) Placed in service.
+
+(j) Qualified investment.
+
+(1) In general.
+
+(2) Special rules for certain passthrough entities.
+
+(i) Partnership.
+
+(ii) S corporation.
+
+(iii) Estate or trust.
+
+(3) Qualified progress expenditures election.
+
+(i) In general.
+
+(ii) Special rules for certain passthrough entities.
+
+(4) Examples.
+
+(i) Example 1.
+
+(ii) Example 2.
+
+(k) Section 48D credit.
+
+(l) Section 48D regulations.
+
+(m) Semiconductor.
+
+(n) Semiconductor manufacturing.
+
+(1) Semiconductor wafer production.
+
+(2) Semiconductor fabrication.
+
+(3) Semiconductor packaging.
+
+(4) Assembly.
+
+(5) Testing.
+
+(6) Advanced packaging.
+
+(o) Semiconductor manufacturing equipment.
+
+(p) Statutory references.
+
+(1) Chapter 1.
+
+(2) Code.
+
+(3) Subtitle A.
+
+(q) Applicability date.
+
+§ 1.48D-3 Qualified property.
+
+(a) In general.
+
+(b) Qualified property.
+
+(c) Tangible depreciable property.
+
+(1) In general.
+
+(2) Exception.
+
+(3) Buildings or portions of a building not excluded by section 48D(b)(2)(B)(ii).
+
+(d) Constructed, reconstructed, or erected by the taxpayer.
+
+(e) Original use.
+
+(1) In general.
+
+(2) Treatment of inventory.
+
+(f) Part of an advanced manufacturing facility.
+
+(1) In general.
+
+(2) Property that is not located or co-located at an advanced manufacturing facility or on a contiguous piece of land to the advanced manufacturing facility.
+
+(g) Integral to the operation of an advanced manufacturing facility.
+
+(1) In general.
+
+(2) Vertically integrated manufacturers.
+
+(3) Specific examples of integral property.
+
+(4) Research or storage facilities.
+
+(5) Examples.
+
+(i) Example 1.
+
+(ii) Example 2.
+
+(h) Applicability date.
+
+§ 1.48D-4 Advanced manufacturing facility of an eligible taxpayer.
+
+(a) In general.
+
+(b) Advanced manufacturing facility.
+
+(c) Primary purpose.
+
+(1) In general.
+
+(2) No primary purpose.
+
+(3) Examples.
+
+(i) Example 1: Primary purpose; in general.
+
+(ii) Example 2: Primary purpose; semiconductor wafer production.
+
+(iii) Example 3: Primary purpose; vertically integrated manufacturer.
+
+(iv) Example 4: No primary purpose; vertically integrated manufacturer.
+
+(d) Applicability date.
+
+§ 1.48D-5 Beginning of construction.
+
+(a) Termination of credit.
+
+(1) In general.
+
+(2) Property.
+
+(3) Single advanced manufacturing facility project.
+
+(i) In general.
+
+(ii) Related taxpayers.
+
+(A) Definition.
+
+(B) Related taxpayer rule.
+
+(iii) Example.
+
+(iv) Timing of single advanced manufacturing facility project determination.
+
+(v) Disaggregation.
+
+(vi) Example.
+
+(b) Beginning of construction.
+
+(1) In general.
+
+(2) Continuity requirement.
+
+(c) Physical work test.
+
+(1) In general.
+
+(2) Physical work of significant nature.
+
+(i) In general.
+
+(ii) Exceptions.
+
+(d) Five percent safe harbor.
+
+(1) In general.
+
+(2) Costs.
+
+(3) Cost overruns.
+
+(i) Single advanced manufacturing facility project.
+
+(ii) Example.
+
+(iii) Single property.
+
+(iv) Example.
+
+(e) Continuity requirement.
+
+(1) In general.
+
+(2) Continuous construction.
+
+(3) Continuous efforts.
+
+(4) Excusable disruptions to continuous construction and continuous efforts tests.
+
+(i) In general.
+
+(ii) Effect of excusable disruptions on continuity safe harbor.
+
+(iii) Non-exclusive list of construction disruptions.
+
+(5) Timing of excusable disruption determination.
+
+(6) Continuity safe harbor.
+
+(i) In general.
+
+(ii) Example.
+
+(f) Applicability date.
+
+§ 1.48D-6 Elective payment election.
 
 (a) Elective payment election.
 
@@ -140,4 +390,4 @@ This section lists the table of contents for §§ 1.48D-1 through 1.48D-6.
 
 (2) Prior taxable years.
 
-[T.D. 9989, 89 FR 17606, Mar. 11, 2024]
+[T.D. 10009, 89 FR 84751, Oct. 23, 2024, as amended by T.D. 10009, 89 FR 92793, Nov. 25, 2024]

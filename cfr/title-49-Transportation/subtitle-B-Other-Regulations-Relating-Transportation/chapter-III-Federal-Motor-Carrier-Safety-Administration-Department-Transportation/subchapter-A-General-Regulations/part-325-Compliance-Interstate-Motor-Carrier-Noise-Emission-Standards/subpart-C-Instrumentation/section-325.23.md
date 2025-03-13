@@ -1,6 +1,6 @@
 ##### § 325.23 Type of measurement systems which may be used. #####
 
-The sound level measurement system must meet or exceed the requirements of American National Standard Specification for Sound Level Meters (ANSI S1.4-1971), approved April 27, 1971, issued by the American National Standards Institute, 1 throughout the applicable frequency range for either:
+The sound level measurement system must meet or exceed the requirements of American National Standard Specification for Sound Level Meters (ANSI S1.4-1971), approved April 27, 1971, issued by the American National Standards Institute,1 throughout the applicable frequency range for either:
 
 1 Copies of the specification may be secured from the American National Standards Institute, 1430 Broadway, New York, New York, 10018.
 

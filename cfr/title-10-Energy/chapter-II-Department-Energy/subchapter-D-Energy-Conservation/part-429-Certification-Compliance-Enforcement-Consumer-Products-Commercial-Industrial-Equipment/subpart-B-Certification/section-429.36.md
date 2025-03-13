@@ -1,7 +1,5 @@
 ##### § 429.36 Dehumidifiers. #####
 
-Link to an amendment published at 89 FR 82062, Oct. 9, 2024.
-
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to dehumidifiers; and
 
 (2) For each basic model of dehumidifier selected for testing, a sample of sufficient size shall be randomly selected and tested to ensure that—
@@ -38,8 +36,8 @@ Link to an amendment published at 89 FR 82062, Oct. 9, 2024.
 
 (2) Pursuant to § 429.12(b)(13), a certification report must include the following public product-specific information:
 
-(i) For dehumidifiers tested in accordance with appendix X: The energy factor in liters per kilowatt hour (liters/kWh) and capacity in pints per day.
+(i) For dehumidifiers tested in accordance with appendix X1: The integrated energy factor in liters per kilowatt hour (liters/kWh), capacity in pints per day, and for whole-home dehumidifiers, case volume in cubic feet.
 
-(ii) For dehumidifiers tested in accordance with appendix X1: The integrated energy factor in liters per kilowatt hour (liters/kWh), capacity in pints per day, and for whole-home dehumidifiers, case volume in cubic feet.
+(ii) [Reserved]
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24773, May 2, 2011, as amended at 77 FR 65977, Oct. 31, 2012; 80 FR 45824, July 31, 2015; 81 FR 38395, June 13, 2016]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24773, May 2, 2011, as amended at 77 FR 65977, Oct. 31, 2012; 80 FR 45824, July 31, 2015; 81 FR 38395, June 13, 2016; 89 FR 82062, Oct. 9, 2024]

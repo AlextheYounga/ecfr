@@ -12,7 +12,7 @@
 
 (2) Attach the dummy (with or without the legs below the femurs) to the fixture in a seated posture as shown in Figure N5.
 
-(3) Secure the pelvis at the pelvis instrument cavity rear face by threading four 1/4 in cap screws into the available threaded attachment holes. Tighten the mountings so that the test material is rigidly affixed to the test fixture and the pelvic-lumbar joining surface is horizontal.
+(3) Secure the pelvis at the pelvis instrument cavity rear face by threading four1/4 in cap screws into the available threaded attachment holes. Tighten the mountings so that the test material is rigidly affixed to the test fixture and the pelvic-lumbar joining surface is horizontal.
 
 (4) Flex the thorax forward three times between vertical and until the torso reference plane, as shown in figure N5, reaches 30 ±2 degrees from vertical. Bring the torso to vertical orientation, remove all externally applied flexion forces, and wait 30 minutes before conducting the test. During the 30-minute waiting period, the dummy's upper torso shall be externally supported at or near its vertical orientation to prevent sagging.
 

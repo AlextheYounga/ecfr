@@ -10,7 +10,7 @@ The following service criteria apply to complementary paratransit required by §
 
 (iv) For purposes of this paragraph, the core service area is that area in which corridors with a width of three-fourths of a mile on each side of each fixed route merge together such that, with few and small exceptions, all origins and destinations within the area would be served.
 
-(2) *Rail.* (i) For rail systems, the service area shall consist of a circle with a radius of 3/4 of a mile around each station.
+(2) *Rail.* (i) For rail systems, the service area shall consist of a circle with a radius of3/4 of a mile around each station.
 
 (ii) At end stations and other stations in outlying areas, the entity may designate circles with radii of up to 11/2 miles as part of its service area, based on local circumstances.
 

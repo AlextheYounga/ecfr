@@ -249,7 +249,7 @@ S5.3.3 (a) Each indicator lamp activated due to a condition specified in S5.3.1 
 
 S5.3.4 When an indicator lamp is activated it may be steady burning or flashing.
 
-S5.3.5 (a) Each indicator lamp shall display word, words or abbreviation, in accordance with the requirements of Standard No. 101 (49 CFR 571.101) and/or this section, which shall have letters not less than 1/8-inch high and be legible to the driver in daylight when lighted. Words in addition to those required by Standard No. 101 and/or this section and symbols may be provided for purposes of clarity.
+S5.3.5 (a) Each indicator lamp shall display word, words or abbreviation, in accordance with the requirements of Standard No. 101 (49 CFR 571.101) and/or this section, which shall have letters not less than1/8-inch high and be legible to the driver in daylight when lighted. Words in addition to those required by Standard No. 101 and/or this section and symbols may be provided for purposes of clarity.
 
 (b) If a single common indicator is used, the lamp shall display the word “Brake”. The letters and background of a single common indicator shall be of contrasting colors, one of which is red.
 

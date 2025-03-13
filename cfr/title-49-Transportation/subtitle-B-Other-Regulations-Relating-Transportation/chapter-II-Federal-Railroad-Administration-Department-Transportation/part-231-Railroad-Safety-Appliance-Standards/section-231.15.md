@@ -34,7 +34,7 @@
 
 (ii) One on each side of tender near gangway; 1 on each side of locomotive at gangway; applied vertically.
 
-(4) *Manner of application.* Side handholds shall be securely fastened with not less than 1/2-inch bolts or rivets.
+(4) *Manner of application.* Side handholds shall be securely fastened with not less than1/2-inch bolts or rivets.
 
 (e) *Rear-end handholds*—(1) *Number.* Two.
 
@@ -42,7 +42,7 @@
 
 (3) *Location.* Horizontal, one near each side of rear end of tender on face of end sill. Clearance of outer end of handhold shall be not more than 16 inches from side of tender.
 
-(4) *Manner of application.* Rear-end handholds shall be securely fastened with not less than 1/2-inch bolts or rivets.
+(4) *Manner of application.* Rear-end handholds shall be securely fastened with not less than1/2-inch bolts or rivets.
 
 (f) *Uncoupling levers*—(1) *Number.* Two double levers, operative from either side.
 

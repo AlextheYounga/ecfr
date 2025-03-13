@@ -251,9 +251,9 @@ S6.1.1 *Summary of procedure.* Sixty milliliters (ml.) of brake fluid are boiled
 
 S6.1.2 *Apparatus.* (See Figure 1) The test apparatus shall consist of—
 
-(a) *Flask.* (See Figure 2) A 100-ml. round-bottom, short-neck heat-resistant glass flask having a neck with a 19/38 standard taper, female ground-glass joint and a side-entering tube, with an outside diameter of 10 millimeters (mm.), which centers the thermometer bulb in the flask 6.5 mm. from the bottom;
+(a) *Flask.* (See Figure 2) A 100-ml. round-bottom, short-neck heat-resistant glass flask having a neck with a19/38 standard taper, female ground-glass joint and a side-entering tube, with an outside diameter of 10 millimeters (mm.), which centers the thermometer bulb in the flask 6.5 mm. from the bottom;
 
-(b) *Condenser.* A water-cooled, reflux, glass-tube type, condenser having a jacket 200 mm. in length, the bottom end of which has a 19/38 standard-taper, drip-tip, male ground-glass joint;
+(b) *Condenser.* A water-cooled, reflux, glass-tube type, condenser having a jacket 200 mm. in length, the bottom end of which has a19/38 standard-taper, drip-tip, male ground-glass joint;
 
 (c) *Boiling stones.* Three clean, unused silicon carbide grains (approximately 2 mm. (0.08 inch) in diameter, grit No. 8);
 
@@ -577,7 +577,7 @@ S6.11.3 *Reagents and materials.*
 
 (d) *SBR cups.* Two unused, approximately one-eighth sections of a standard SAE SBR WC cup (as described in S7.6).
 
-(e) *Machine screw and nut.* Two clean oil-free, No. 6 or 8-32 × 3/8− or 1/2-inch long (or equivalent metric size), round or fillister head, uncoated mild steel machine screws, with matching plain nuts.
+(e) *Machine screw and nut.* Two clean oil-free, No. 6 or 8-32 ×3/8− or1/2-inch long (or equivalent metric size), round or fillister head, uncoated mild steel machine screws, with matching plain nuts.
 
 S6.11.4 *Preparation.*
 

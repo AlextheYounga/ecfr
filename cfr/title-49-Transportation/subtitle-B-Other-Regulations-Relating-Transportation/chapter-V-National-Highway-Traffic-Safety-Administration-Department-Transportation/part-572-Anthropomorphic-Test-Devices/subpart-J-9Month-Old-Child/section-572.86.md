@@ -14,7 +14,7 @@
 
 (4) With the complete torso in an upright position and upper arm in a vertical position, mount the forearm in a horizontal position and tighten the elbow hinge bolt and nut firmly. Adjust the elbow joint nut until the forearm just starts moving.
 
-(d) With the torso assembled in an upright position, the adjustment nut for the lumbar vertebrae is tightened until the spring is compressed to 2/3 of its unloaded length.
+(d) With the torso assembled in an upright position, the adjustment nut for the lumbar vertebrae is tightened until the spring is compressed to2/3 of its unloaded length.
 
 (e) Performance tests are conducted at any temperature from 66 to 78 degrees F and at any relative humidity from 10 percent to 70 percent after exposure of the dummy to these conditions for a period of not less than four hours.
 

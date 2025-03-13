@@ -58,4 +58,5 @@
 
 (vi) Ex parte memoranda submitted under this section will be posted on the Board's website in the docket for the informal rulemaking proceeding within five days of submission. If a presenter has requested confidential treatment for all or part of a memorandum, only the public version will appear on the Board's website. Persons seeking access to the confidential version must do so pursuant to the protective order governing the proceeding.
 
-[47 FR 49548, Nov. 1, 1982, as amended at 58 FR 42027, Aug. 6, 1993; 74 FR 52905, Oct. 15, 2009; 81 FR 8853, Feb. 23, 2016; 83 FR 9231, Mar. 5, 2018 ]
+[47 FR 49548, Nov. 1, 1982, as amended at 58 FR 42027, Aug. 6, 1993; 74 FR 52905, Oct. 15, 2009; 81 FR 8853, Feb. 23, 2016; 83 FR 9231, Mar. 5, 2018
+]

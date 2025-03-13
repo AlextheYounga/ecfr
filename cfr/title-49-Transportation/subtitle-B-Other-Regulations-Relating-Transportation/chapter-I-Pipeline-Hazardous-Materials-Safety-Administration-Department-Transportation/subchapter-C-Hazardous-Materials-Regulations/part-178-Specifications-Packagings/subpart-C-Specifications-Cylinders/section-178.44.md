@@ -65,7 +65,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = Wall stress in psi;P = Minimum tes
 
 (1) The test must be by water-jacket or direct expansion method as prescribed in CGA C-1 (IBR; see § 171.7 of this subchapter). The testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
 
-(2) Each cylinder must be tested to minimum of 5/3 times service pressure.
+(2) Each cylinder must be tested to minimum of5/3 times service pressure.
 
 (3) The minimum test pressure must be maintained at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and previous to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1, section 5.7.2.
 
@@ -83,7 +83,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = Wall stress in psi;P = Minimum tes
 
 (k) *Burst test.* One cylinder taken at random out of each lot of cylinders must be hydrostatically tested to destruction.
 
-(l) *Flattening test.* A flattening test must be performed on one cylinder taken at random out of each lot of 200 or less, by placing the cylinder between wedge shaped knife edges having a 60° included angle, rounded to 1/2-inch radius. The longitudinal axis of the cylinder must be at a 90-degree angle to knife edges during the test. For lots of 30 or less, flattening tests are authorized to be made on a ring at least 8 inches long cut from each cylinder and subjected to same heat treatment as the finished cylinder.
+(l) *Flattening test.* A flattening test must be performed on one cylinder taken at random out of each lot of 200 or less, by placing the cylinder between wedge shaped knife edges having a 60° included angle, rounded to1/2-inch radius. The longitudinal axis of the cylinder must be at a 90-degree angle to knife edges during the test. For lots of 30 or less, flattening tests are authorized to be made on a ring at least 8 inches long cut from each cylinder and subjected to same heat treatment as the finished cylinder.
 
 (m) *Physical tests.* A physical test must be conducted to determine yield strength, tensile strength, elongation, and reduction of area of material, as follows:
 
@@ -103,13 +103,13 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = Wall stress in psi;P = Minimum tes
 
 (iii) For the purpose of strain measurement, the initial strain must be set while the specimen is under a stress of 12,000 psi, the strain indicator reading being set at the calculated corresponding strain.
 
-(iv) Cross-head speed of the testing machine may not exceed 1/8 inch per minute during yield strength determination.
+(iv) Cross-head speed of the testing machine may not exceed1/8 inch per minute during yield strength determination.
 
 (n) *Magnetic particle inspection.* Inspection must be performed on the inside of each container before closing and externally on each finished container after heat treatment. Evidence of discontinuities, which in the opinion of a qualified inspector may appreciably weaken or decrease the durability of the cylinder, must be cause for rejection.
 
 (o) *Leakage test.* All spun cylinders and plugged cylinders must be tested for leakage by dry gas or dry air pressure after the bottom has been cleaned and is free from all moisture, subject to the following conditions and limitations:
 
-(1) Pressure, approximately the same as but not less than service pressure, must be applied to one side of the finished bottom over an area of at least 1/16 of the total area of the bottom but not less than 3/4 inch in diameter, including the closure, for at least one minute, during which time the other side of the bottom exposed to pressure must be covered with water and closely examined for indications of leakage. Except as provided in paragraph (q) of this section, a cylinder must be rejected if there is leakage.
+(1) Pressure, approximately the same as but not less than service pressure, must be applied to one side of the finished bottom over an area of at least1/16 of the total area of the bottom but not less than3/4 inch in diameter, including the closure, for at least one minute, during which time the other side of the bottom exposed to pressure must be covered with water and closely examined for indications of leakage. Except as provided in paragraph (q) of this section, a cylinder must be rejected if there is leakage.
 
 (2) A spun cylinder is one in which an end closure in the finished cylinder has been welded by the spinning process.
 
@@ -127,7 +127,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = Wall stress in psi;P = Minimum tes
 
 (ii) The tensile strength may not exceed 165,000 p.s.i.
 
-(3) The burst pressure must be at least 4/3 times the test pressure.
+(3) The burst pressure must be at least4/3 times the test pressure.
 
 (4) Cycling-at least 10,000 pressurizations.
 

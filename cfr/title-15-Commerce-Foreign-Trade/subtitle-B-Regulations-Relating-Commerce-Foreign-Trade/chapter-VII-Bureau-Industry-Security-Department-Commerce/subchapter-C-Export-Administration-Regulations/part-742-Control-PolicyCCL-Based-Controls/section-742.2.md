@@ -4,7 +4,7 @@
 
 (1) If CB Column 1 of the Country Chart (supplement no. 1 to part 738 of the EAR) is indicated in the appropriate ECCN, a license is required to all destinations, including Australia, Canada, and the United Kingdom, for the following:
 
-(i) Toxins identified in ECCNs 1C351.d.14 and .15;
+(i) Toxins identified in ECCNs 1C351.d.15 and .16;
 
 (ii) Genetic elements (ECCN 1C353) of the toxins described in paragraph (a)(1)(i) of this section; and
 
@@ -24,7 +24,7 @@
 
 (*2*) Test kits that contain no more than 300 grams of any chemical controlled by ECCN 1C350.d (CB-controlled chemicals not also identified as Schedule 1, 2, or 3 chemicals under the CWC). Such test kits are controlled by ECCN 1C995 for AT reasons.
 
-(ii) Human pathogens, zoonoses, toxins, animal pathogens, genetically modified microorganisms and plant pathogens identified in ECCNs 1C351 (except .d.14 and .15), 1C353 (except genetic elements of toxins in ECCN 1C351.d.14 and .15), and 1C354; and
+(ii) Human pathogens, zoonoses, toxins, animal pathogens, genetically modified microorganisms and plant pathogens identified in ECCNs 1C351 (except .d.15 and .16), 1C353 (except genetic elements of toxins in ECCN 1C351.d.15 and .16), and 1C354; and
 
 (iii) Software (ECCN 1D390) for process control that is specifically configured to control or initiate production of the chemical precursors controlled by ECCN 1C350.
 
@@ -46,7 +46,7 @@
 
 (A) Production and/or disposal of chemical precursors described in ECCN 1C350; and
 
-(B) Production and/or disposal of microbiological commodities described in paragraph (a)(2)(ii) of this section (except toxins and genetic elements of those toxins in ECCN 1C351.d.14 and .15).
+(B) Production and/or disposal of microbiological commodities described in paragraph (a)(2)(ii) of this section (except toxins and genetic elements of those toxins in ECCN 1C351.d.15 and .16).
 
 (vii) Equipment and materials identified in ECCN 2B350 or 2B351 on the CCL, chemical detection systems controlled by 1A004.c for detecting chemical warfare agents and having the characteristics of toxic gas monitoring systems described in 2B351.a, and valves controlled by ECCN 2A226 having the characteristics of those described in 2B350.g, which can be used in the production of chemical weapons precursors or chemical warfare agents.
 

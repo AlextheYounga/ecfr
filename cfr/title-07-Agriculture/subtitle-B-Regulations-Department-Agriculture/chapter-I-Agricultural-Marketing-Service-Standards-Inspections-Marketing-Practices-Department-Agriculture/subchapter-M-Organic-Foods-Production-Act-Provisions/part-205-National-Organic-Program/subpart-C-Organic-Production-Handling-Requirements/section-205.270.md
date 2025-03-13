@@ -1,5 +1,7 @@
 ##### § 205.270 Organic handling requirements. #####
 
+Link to an amendment published at 89 FR 104393, Dec. 23, 2024.
+
 (a) Mechanical or biological methods, including but not limited to cooking, baking, curing, heating, drying, mixing, grinding, churning, separating, distilling, extracting, slaughtering, cutting, fermenting, eviscerating, preserving, dehydrating, freezing, chilling, or otherwise manufacturing, and the packaging, canning, jarring, or otherwise enclosing food in a container may be used to process an organically produced agricultural product for the purpose of retarding spoilage or otherwise preparing the agricultural product for market.
 
 (b) Nonagricultural substances allowed under § 205.605 and nonorganically produced agricultural products allowed under § 205.606 may be used:

@@ -28,7 +28,7 @@
 
 (d) *Requalification markings.* Each cylinder successfully passing requalification must be marked with the RIN set in a square pattern, between the month and year of the requalification date. The first character of the RIN must appear in the upper left corner of the square pattern; the second in the upper right; the third in the lower right; and the fourth in the lower left. Example: A cylinder requalified in September 2006, and approved by a person who has been issued RIN “A123”, would be marked plainly and permanently into the metal of the cylinder in accordance with location requirements of the cylinder specification or on a metal plate permanently secured to the cylinder in accordance with paragraph (b) of this section. An example of the markings prescribed in this paragraph (d) is as follows:
 
- A1 9 06 X 32Where:“9” is the month of requalification “A123” is the RIN “06” is the year of requalification, and “X” represents the symbols described in paragraphs (f)(2) through (f)(8) of this section.
+ A1 9 06 X 32Where:“9” is the month of requalification“A123” is the RIN“06” is the year of requalification, and“X” represents the symbols described in paragraphs (f)(2) through (f)(8) of this section.
 
 (1) Upon written request, variation from the marking requirement may be approved by the Associate Administrator.
 

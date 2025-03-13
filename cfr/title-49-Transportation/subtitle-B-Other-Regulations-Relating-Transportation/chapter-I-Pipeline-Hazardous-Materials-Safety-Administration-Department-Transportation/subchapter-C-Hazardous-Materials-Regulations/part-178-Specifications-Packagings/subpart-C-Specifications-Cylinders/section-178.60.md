@@ -56,7 +56,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in pounds psi;P = 750 
 
 (1) The test is required on 2 specimens cut longitudinally from 1 cylinder or part thereof taken at random out of each lot of 200 or less, after heat treatment.
 
-(2) Specimens must conform to a gauge length of 8 inches with a width not over 11/2 inches, a gauge length 2 inches with a width not over 11/2 inches, or a gauge length at least 24 times thickness with a width not over 6 times thickness is authorized when a cylinder wall is not over 3/16 inch thick.
+(2) Specimens must conform to a gauge length of 8 inches with a width not over 11/2 inches, a gauge length 2 inches with a width not over 11/2 inches, or a gauge length at least 24 times thickness with a width not over 6 times thickness is authorized when a cylinder wall is not over3/16 inch thick.
 
 (3) The yield strength in tension must be the stress corresponding to a permanent strain of 0.2 percent of the gauge length. The following conditions apply:
 
@@ -66,7 +66,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in pounds psi;P = 750 
 
 (iii) For the purpose of strain measurement, the initial strain must be set while the specimen is under a stress of 12,000 psi, the strain indicator reading being set at the calculated corresponding strain.
 
-(iv) Cross-head speed of the testing machine may not exceed 1/8 inch per minute during yield strength determination.
+(iv) Cross-head speed of the testing machine may not exceed1/8 inch per minute during yield strength determination.
 
 (m) *Elongation.* Physical test specimens must show at least a 40 percent elongation for a 2 inch gauge length or at least a 20 percent elongation in other cases. Except that these elongation percentages may be reduced numerically by 2 for 2 inch specimens and 1 in other cases for each 7,500 psi increment of tensile strength above 50,000 psi to a maximum of four such increments.
 
@@ -86,7 +86,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in pounds psi;P = 750 
 
 (ii) The filling material must be uniform in quality and free of voids, except that a well drilled into the filling material beneath the valve is authorized if the well is filled with a material of such type that the functions of the filling material are not impaired;
 
-(iii) Overall shrinkage of the filling material is authorized if the total clearance between the cylinder shell and filling material, after solvent has been added, does not exceed 1/2 of 1 percent of the respective diameter or length but not to exceed 1/8 inch, measured diametrically and longitudinally;
+(iii) Overall shrinkage of the filling material is authorized if the total clearance between the cylinder shell and filling material, after solvent has been added, does not exceed1/2 of 1 percent of the respective diameter or length but not to exceed1/8 inch, measured diametrically and longitudinally;
 
 (iv) The clearance may not impair the functions of the filling material;
 
@@ -145,6 +145,6 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in pounds psi;P = 750 
 
 (ii) On neck, valve boss, valve protection sleeve, or similar part permanently attached to the top end of cylinder; or
 
-(iii) On a plate of ferrous material attached to the top of the cylinder or permanent part thereof; the plate must be at least 1/16 inch thick, and must be attached by welding, or by brazing at a temperature of at least 1,100 °F throughout all edges of the plate. Sufficient space must be left on the plate to provide for stamping at least four (4) retest dates.
+(iii) On a plate of ferrous material attached to the top of the cylinder or permanent part thereof; the plate must be at least1/16 inch thick, and must be attached by welding, or by brazing at a temperature of at least 1,100 °F throughout all edges of the plate. Sufficient space must be left on the plate to provide for stamping at least four (4) retest dates.
 
 [Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45386, 45388, Aug. 28, 2001; 67 FR 51654, Aug. 8, 2002; 68 FR 75748, 75749, Dec. 31, 2003; 85 FR 85428, Dec. 28, 2020]

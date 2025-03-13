@@ -8,7 +8,7 @@ Two-way end-of-train devices shall be designed and perform with the features app
 
 (c) The rear unit, on receipt of a properly coded command, shall open a valve in the brake line and hold it open for a minimum of 15 seconds. This opening of the valve shall cause the brake line to vent to the exterior.
 
-(d) The valve opening shall have a minimum diameter of 3/4 inch and the internal diameter of the hose shall be 5/8 inch to effect an emergency brake application.
+(d) The valve opening shall have a minimum diameter of3/4 inch and the internal diameter of the hose shall be5/8 inch to effect an emergency brake application.
 
 (e) The front unit shall have a manually operated switch which, when activated, shall initiate an emergency brake transmission command to the rear unit or the locomotive shall be equipped with a manually operated switch on the engineer control stand designed to perform the equivalent function. The switch shall be labeled “Emergency” and shall be protected so that there will exist no possibility of accidental activation.
 

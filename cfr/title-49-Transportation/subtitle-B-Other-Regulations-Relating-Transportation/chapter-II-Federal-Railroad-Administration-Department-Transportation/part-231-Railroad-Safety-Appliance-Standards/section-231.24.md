@@ -1,4 +1,4 @@
-##### § 231.24 Box and other house cars with roofs, 16 feet 10 inches or more above top of rail. 1 #####
+##### § 231.24 Box and other house cars with roofs, 16 feet 10 inches or more above top of rail.1 #####
 
 1 (a) Each car of this type built or rebuilt after (January 1, 1976) or under construction prior thereto and placed in service after (effective date) shall be equipped as specified in § 231.27(a) through (h) and (j) or, if it has roof hatches, as specified in § 231.28.
 

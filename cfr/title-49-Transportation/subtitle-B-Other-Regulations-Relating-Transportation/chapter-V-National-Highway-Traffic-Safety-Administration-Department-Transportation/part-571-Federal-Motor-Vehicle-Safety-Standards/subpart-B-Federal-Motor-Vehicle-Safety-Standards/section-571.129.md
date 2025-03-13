@@ -48,7 +48,7 @@ S4.2.1 *General.* Each tire shall conform to the following:
 
 (a) Its load rating shall be that specified in a submission made by a manufacturer, pursuant to S4.4(a), or in one of the publications described in S4.4(b) for its non-pneumatic tire identification code designation.
 
-(b) It shall incorporate a tread wear indicator that will provide a visual indication that the tire has worn to a tread depth of 1/16 inch.
+(b) It shall incorporate a tread wear indicator that will provide a visual indication that the tire has worn to a tread depth of1/16 inch.
 
 (c) It shall, before being subjected to either the endurance test procedure specified in S5.4 or the high speed performance procedure specified in S5.5, exhibit no visual evidence of tread or carcass separation, chunking or cracking.
 

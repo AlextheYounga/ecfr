@@ -16,7 +16,7 @@
 
 (d) *Performance standard for automated inspection measurement system.* The automated inspection measurement system must be capable of indicating and processing rail seat deterioration requirements that specify the following:
 
-(1) An accuracy, to within 1/8 of an inch;
+(1) An accuracy, to within1/8 of an inch;
 
 (2) A distance-based sampling interval, which shall not exceed five feet; and
 
@@ -30,7 +30,7 @@
 
 (3) All field-verified exceptions are subject to all the requirements of this part.
 
-(4) Exception reports must note areas identified between 3/8 of an inch and 1/2 of an inch as an “alert.”
+(4) Exception reports must note areas identified between3/8 of an inch and1/2 of an inch as an “alert.”
 
 (f) *Recordkeeping requirements.* The track owner shall maintain and make available to FRA a record of the inspection data and the exception record for the track inspected in accordance with this paragraph for a minimum of two years. The exception reports must include the following:
 

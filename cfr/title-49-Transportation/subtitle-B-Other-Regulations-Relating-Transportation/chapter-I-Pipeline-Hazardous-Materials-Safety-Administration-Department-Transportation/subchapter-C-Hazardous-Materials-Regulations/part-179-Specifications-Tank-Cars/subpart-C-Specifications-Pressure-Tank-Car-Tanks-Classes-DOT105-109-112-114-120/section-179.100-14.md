@@ -6,11 +6,11 @@
 
 (2) Bottom washout shall be of cast, forged or fabricated metal and shall be fusion-welded to the tank. It shall be of good weldable quality in conjunction with metal of tank.
 
-(3) If the bottom washout nozzle extends 6 inches or more from shell of tank, a V-shaped breakage groove shall be cut (not cast) in the upper part of the outlet nozzle at a point immediately below the lowest part of the inside closure seat or plug. In no case may the nozzle wall thickness at the root of the “V” be more than 1/4-inch. Where the nozzle is not a single piece, provision shall be made for the equivalent of the breakage groove. The nozzle must be of a thickness to insure that accidental breakage will occur at or below the “V” groove or its equivalent. On cars without continuous center sills, the breakage groove or its equivalent may not be more than 15 inches below the tank shell. On cars with continuous center sills, the breakage groove or its equivalent must be above the bottom of the center sill construction.
+(3) If the bottom washout nozzle extends 6 inches or more from shell of tank, a V-shaped breakage groove shall be cut (not cast) in the upper part of the outlet nozzle at a point immediately below the lowest part of the inside closure seat or plug. In no case may the nozzle wall thickness at the root of the “V” be more than1/4-inch. Where the nozzle is not a single piece, provision shall be made for the equivalent of the breakage groove. The nozzle must be of a thickness to insure that accidental breakage will occur at or below the “V” groove or its equivalent. On cars without continuous center sills, the breakage groove or its equivalent may not be more than 15 inches below the tank shell. On cars with continuous center sills, the breakage groove or its equivalent must be above the bottom of the center sill construction.
 
 (4) The closure plug and seat shall be readily accessible or removable for repairs.
 
-(5) The closure of the washout nozzle must be equipped with a 3/4-inch solid screw plug. Plug must be attached by at least a 1/4-inch chain.
+(5) The closure of the washout nozzle must be equipped with a3/4-inch solid screw plug. Plug must be attached by at least a1/4-inch chain.
 
 (6) Joints between closures and their seats may be gasketed with suitable material.
 

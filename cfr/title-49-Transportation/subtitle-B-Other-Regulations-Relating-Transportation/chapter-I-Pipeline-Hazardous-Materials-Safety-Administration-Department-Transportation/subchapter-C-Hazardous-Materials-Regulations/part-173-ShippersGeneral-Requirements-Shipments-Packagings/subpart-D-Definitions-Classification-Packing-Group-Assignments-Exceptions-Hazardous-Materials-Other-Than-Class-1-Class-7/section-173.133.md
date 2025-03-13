@@ -78,7 +78,7 @@
 
 (A) A sample of the liquid mixture is vaporized and diluted with air to create a test atmosphere of 5000 mL/m3 vaporized mixture in air. Ten albino rats (five male and five female) are exposed to the test atmosphere for one hour and observed for fourteen days. If five or more of the animals die within the fourteen-day observation period, the mixture is presumed to have an LC50 equal to or less than 5000 mL/m3.
 
-(B) The vapor pressure of the liquid mixture is measured and if the vapor concentration is equal to or greater than 1000 mL/m3, the mixture is presumed to have a volatility equal to or greater than 1/5 the mixture LC50.
+(B) The vapor pressure of the liquid mixture is measured and if the vapor concentration is equal to or greater than 1000 mL/m3, the mixture is presumed to have a volatility equal to or greater than1/5 the mixture LC50.
 
 (c) *Transitional provisions.* The criteria for packing group assignments in effect on December 31, 2006, may continue to be used until January 1, 2012.
 

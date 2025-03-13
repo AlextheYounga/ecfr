@@ -36,4 +36,4 @@
 
 (ii) When the concentration of gas in air reaches 50 percent or more of the lower explosive limit in a building which has a source of ignition.
 
-For the purpose of paragraph (c)(2)(ii) of this section, an electrical facility which conforms to Class 1, Group D, of the National Electrical Code is not a source of ignition. [35 FR 13257, Aug. 19, 1970, as amended by Amdt. 192-27, 41 FR 34605, Aug. 16, 1976; Amdt. 192-85, 63 FR 37503, July 13, 1998]
+For the purpose of paragraph (c)(2)(ii) of this section, an electrical facility which conforms to Class 1, Group D, of the National Electrical Code is not a source of ignition.[35 FR 13257, Aug. 19, 1970, as amended by Amdt. 192-27, 41 FR 34605, Aug. 16, 1976; Amdt. 192-85, 63 FR 37503, July 13, 1998]

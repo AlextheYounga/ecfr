@@ -26,7 +26,7 @@
 |<sup>1</sup> “D” represents specimen diameters. When the cylinder wall is greater than 3/16 inch thick, a retest without reheat treatment using the 4D size specimen is authorized if the test using the 2 inch size specimen fails to meet elongation requirements.|                    |                                                                  |               |
 |                                                             <sup>2</sup> When cylinder wall is not over 3/16-inch thick, 10 percent elongation is authorized when using a 24t × 6t size test specimen.                                                             |                    |                                                                  |               |
 
-(5) All starting stock must be 100 percent ultrasonically inspected, along the length at right angles to the central axis from two positions at 90° to one another. The equipment and continuous scanning procedure must be capable of detecting and rejecting internal defects such as cracks which have an ultrasonic response greater than that of a calibration block with a 5/64-inch diameter flat bottomed hole.
+(5) All starting stock must be 100 percent ultrasonically inspected, along the length at right angles to the central axis from two positions at 90° to one another. The equipment and continuous scanning procedure must be capable of detecting and rejecting internal defects such as cracks which have an ultrasonic response greater than that of a calibration block with a5/64-inch diameter flat bottomed hole.
 
 (6) Cast stock must have uniform equiaxed grain structure not to exceed 500 microns maximum.
 
@@ -114,7 +114,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = Wall stress in psi;P = Prescribed 
 
 (ii) Two (2) times the service pressure for cylinders having service pressure less than 500 psig; or
 
-(iii) 5/3 times the service pressure for cylinders having a service pressure of 500 psig or greater.
+(iii)5/3 times the service pressure for cylinders having a service pressure of 500 psig or greater.
 
 (3) The minimum test pressure must be maintained at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat treatment and prior to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1, section 5.7.2, however, if a second failure to maintain the test pressure occurs the cylinder being tested must be rejected.
 
@@ -142,7 +142,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = Wall stress in psi;P = Prescribed 
 
 (1) The results of the test must conform to at least the minimum acceptable mechanical property limits for aluminum alloys as specified in paragraph (b) of this section.
 
-(2) Specimens must be 4D bar or gauge length 2 inches with width not over 11/2 inch taken in the direction of extrusion approximately 180° from each other; provided that gauge length at least 24 times thickness with width not over 6 times thickness is authorized, when cylinder wall is not over 3/16 inch thick. The specimen, exclusive of grip ends, may not be flattened. Grip ends may be flattened to within one inch of each end of the reduced section. When the size of the cylinder does not permit securing straight specimens, the specimens may be taken in any location or direction and may be straightened or flattened cold by pressure only, not by blows. When such specimens are used, the inspector's report must show that the specimens were so taken and prepared. Heating of specimens for any purpose is forbidden.
+(2) Specimens must be 4D bar or gauge length 2 inches with width not over 11/2 inch taken in the direction of extrusion approximately 180° from each other; provided that gauge length at least 24 times thickness with width not over 6 times thickness is authorized, when cylinder wall is not over3/16 inch thick. The specimen, exclusive of grip ends, may not be flattened. Grip ends may be flattened to within one inch of each end of the reduced section. When the size of the cylinder does not permit securing straight specimens, the specimens may be taken in any location or direction and may be straightened or flattened cold by pressure only, not by blows. When such specimens are used, the inspector's report must show that the specimens were so taken and prepared. Heating of specimens for any purpose is forbidden.
 
 (3) The yield strength in tension must be the stress corresponding to a permanent strain of 0.2 percent of the gauge length.
 
@@ -152,7 +152,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = Wall stress in psi;P = Prescribed 
 
 (iii) For the purpose of strain measurement, the initial strain must be set while the specimen is under a stress of 6,000 psi, the strain indicator reading being set at the calculated corresponding strain.
 
-(iv) Cross-head speed of the testing machine may not exceed 1/8 inch per minute during yield strength determination.
+(iv) Cross-head speed of the testing machine may not exceed1/8 inch per minute during yield strength determination.
 
 (j) *Rejected cylinder.* Reheat treatment of rejected cylinders is authorized one time. Subsequent thereto, cylinders must pass all prescribed tests to be acceptable.
 

@@ -20,6 +20,6 @@ States, groups of States, or designated authorities that have Maglev projects ar
 
 (f) Letters supporting the application from the heads of all State departments of transportation involved, as well as from responsible officials of the Metropolitan Planning Organizations of all metropolitan areas to be served by the proposed project;
 
-(g) A certification from the State, or from the authority designated by one or more States, that the 1/3 matching funds required for work under the planning grant are, or will be, available by the time the grants are announced. The source(s) of the matching must be shown in the financial plan under paragraph (e); and
+(g) A certification from the State, or from the authority designated by one or more States, that the1/3 matching funds required for work under the planning grant are, or will be, available by the time the grants are announced. The source(s) of the matching must be shown in the financial plan under paragraph (e); and
 
 (h) If the applicant has made a definitive choice of the particular Maglev technology proposed to be included, a description of that technology and the degree to which it has been produced and tested should be submitted. Further, if the applicant has identified organizations that would form members of the team that would implement the project, the names of those organizations and the persons representing them should also be submitted.

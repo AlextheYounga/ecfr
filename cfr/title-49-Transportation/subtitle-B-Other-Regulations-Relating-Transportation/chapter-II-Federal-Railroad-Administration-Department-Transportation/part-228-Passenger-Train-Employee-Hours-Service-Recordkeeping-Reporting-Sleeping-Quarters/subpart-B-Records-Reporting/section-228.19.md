@@ -74,7 +74,7 @@
 
 (3) A signal employee returns to duty without at least 10 consecutive hours off duty during the preceding 24 hours.
 
-(f) Except as provided in paragraph (h) of this section, reports required by paragraphs (b) through (e) of this section shall be filed in writing on FRA Form F-6180-3 3 with the Office of Railroad Safety, Federal Railroad Administration, Washington, DC 20590. A separate form shall be used for each instance reported.
+(f) Except as provided in paragraph (h) of this section, reports required by paragraphs (b) through (e) of this section shall be filed in writing on FRA Form F-6180-33 with the Office of Railroad Safety, Federal Railroad Administration, Washington, DC 20590. A separate form shall be used for each instance reported.
 
 3 Form may be obtained from the Office of Railroad Safety, Federal Railroad Administration, Washington, DC 20590. Reproduction is authorized.
 

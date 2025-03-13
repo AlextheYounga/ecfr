@@ -70,17 +70,17 @@
 
 (i) A single flat spot that is 21/2 inches or more in length, or two adjoining spots that are each two or more inches in length;
 
-(ii) A gouge or chip in the flange that is more than 11/2 inches in length and 1/2 inch in width;
+(ii) A gouge or chip in the flange that is more than 11/2 inches in length and1/2 inch in width;
 
-(iii) A broken rim, if the tread, measured from the flange at a point 5/8 of an inch above the tread, is less than 33/4 inches in width;
+(iii) A broken rim, if the tread, measured from the flange at a point5/8 of an inch above the tread, is less than 33/4 inches in width;
 
 (iv) A shelled-out spot 21/2 inches or more in length, or two adjoining spots that are each two or more inches in length;
 
 (v) A seam running lengthwise that is within 33/4 inches of the flange;
 
-(vi) A flange worn to a 7/8 inch thickness or less, gauged at a point 3/8 of an inch above the tread;
+(vi) A flange worn to a7/8 inch thickness or less, gauged at a point3/8 of an inch above the tread;
 
-(vii) A tread worn hollow 5/16 of an inch or more;
+(vii) A tread worn hollow5/16 of an inch or more;
 
 (viii) A flange height of 11/2 inches or more measured from the tread to the top of the flange;
 

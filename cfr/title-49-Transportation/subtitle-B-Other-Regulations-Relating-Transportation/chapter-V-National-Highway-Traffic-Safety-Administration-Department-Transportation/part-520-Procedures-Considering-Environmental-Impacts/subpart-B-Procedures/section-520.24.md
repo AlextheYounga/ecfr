@@ -6,7 +6,7 @@ Before circulating a DEIS for external review, the official responsible for the 
 
 (b) Attach the DEIS;
 
-(c) Identify the Federal, State, and local agencies and private sources from which comments on the DEIS are proposed to be solicited (see Attachment 2); 1 and
+(c) Identify the Federal, State, and local agencies and private sources from which comments on the DEIS are proposed to be solicited (see Attachment 2);1 and
 
 1 Filed as part of the original document.
 

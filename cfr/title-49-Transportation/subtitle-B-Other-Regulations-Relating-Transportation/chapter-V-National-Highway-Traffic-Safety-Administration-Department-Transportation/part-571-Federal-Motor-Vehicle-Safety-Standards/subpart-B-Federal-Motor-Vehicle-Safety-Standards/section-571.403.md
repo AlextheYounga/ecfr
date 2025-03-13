@@ -200,7 +200,7 @@ S6.4.9.9 When tested in accordance with S7.12.2, each handrail must withstand 1,
 
 S6.4.10 *Platform markings on public use lifts.* Throughout the range of passenger operation, all edges of the platform surface, the visible edge of the vehicle floor or bridging device adjacent to the platform lift, and any designated standing area on a public use lift must be outlined. The outlines must be at least 25 mm (1 in) wide and of a color that contrasts with its background by 60 percent, determined according to the following equation:
 
-Contrast = 100 × [(L1−L2)/L1] Where: L1 = luminance of the lighter color or shade, andL2 = luminance of the darker color or shade.L1 and L2 are measured perpendicular to the platform surface with illumination provided by a diffuse light and a resulting luminance of the platform surface of 323 lm/m2 (30 lumen/sqft).
+Contrast = 100 × [(L1−L2)/L1]Where:L1 = luminance of the lighter color or shade, andL2 = luminance of the darker color or shade.L1 and L2 are measured perpendicular to the platform surface with illumination provided by a diffuse light and a resulting luminance of the platform surface of 323 lm/m2 (30 lumen/sqft).
 
 S6.4.11 *Platform slip resistance.* When tested in accordance with S7.2, the coefficient of friction, in any direction, of any part of a wet platform surface may not be less than 0.65.
 

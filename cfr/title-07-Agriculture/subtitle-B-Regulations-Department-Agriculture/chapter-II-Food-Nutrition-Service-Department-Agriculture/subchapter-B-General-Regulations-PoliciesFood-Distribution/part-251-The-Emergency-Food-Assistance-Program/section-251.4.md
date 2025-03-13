@@ -1,6 +1,6 @@
 ##### § 251.4 Availability of commodities. #####
 
-Link to an amendment published at 89 FR 87250, Oct. 31, 2024.
+Link to an amendment published at 89 FR 87250, Oct. 31, 2024.Link to a correction published at 89 FR 104393, Dec. 23, 2024.
 
 (a) *General.* The Department shall make commodities available for distribution and use in accordance with the provisions of this part and also in accordance with the terms and conditions of part 250 of this chapter to the extent that the part 250 terms and conditions are not inconsistent with this part.
 

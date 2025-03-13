@@ -18,7 +18,7 @@
 
 (ii) Circumferential seams must be made by welding or by brazing. Heads attached by brazing must have a driving fit with the shell unless the shell is crimped, swedged, or curled over the skirt or flange of the head and must be thoroughly brazed until complete penetration by the brazing material of the brazed joint is secured. Depth of brazing from end of the shell must be at least four (4) times the thickness of shell metal.
 
-(iii) Longitudinal seams in shells must be made by copper brazing, copper alloy brazing, or by silver alloy brazing. Copper alloy composition must be: Copper 95 percent minimum, Silicon 1.5 percent to 3.85 percent, Manganese 0.25 percent to 1.10 percent. The melting point of the silver alloy brazing material must be in excess of 1,000 °F. The plate edge must be lapped at least eight times the thickness of plate, laps being held in position, substantially metal to metal, by riveting or by electric spot-welding. Brazing must be done by using a suitable flux and by placing brazing material on one side of seam and applying heat until this material shows uniformly along the seam of the other side. Strength of longitudinal seam: Copper brazed longitudinal seam must have strength at least 3/2 times the strength of the steel wall.
+(iii) Longitudinal seams in shells must be made by copper brazing, copper alloy brazing, or by silver alloy brazing. Copper alloy composition must be: Copper 95 percent minimum, Silicon 1.5 percent to 3.85 percent, Manganese 0.25 percent to 1.10 percent. The melting point of the silver alloy brazing material must be in excess of 1,000 °F. The plate edge must be lapped at least eight times the thickness of plate, laps being held in position, substantially metal to metal, by riveting or by electric spot-welding. Brazing must be done by using a suitable flux and by placing brazing material on one side of seam and applying heat until this material shows uniformly along the seam of the other side. Strength of longitudinal seam: Copper brazed longitudinal seam must have strength at least3/2 times the strength of the steel wall.
 
 (2) Welding procedures and operators must be qualified in conformance with CGA C-3 (IBR, see § 171.7 of this subchapter).
 
@@ -90,7 +90,7 @@ S = PD/4tEWhere:S = wall stress in psig;P = minimum test pressure prescribed for
 
 (2) Specimens must comply with the following:
 
-(i) When a cylinder wall is 3/16 inch thick or less, one the following gauge lengths is authorized: A gauge length of 8 inches with a width not over 11/2 inches, a gauge length of 2 inches with a width not over 11/2 inches, or a gauge length at least twenty-four (24) times the thickness with a width not over six (6) times the thickness.
+(i) When a cylinder wall is3/16 inch thick or less, one the following gauge lengths is authorized: A gauge length of 8 inches with a width not over 11/2 inches, a gauge length of 2 inches with a width not over 11/2 inches, or a gauge length at least twenty-four (24) times the thickness with a width not over six (6) times the thickness.
 
 (ii) The specimen, exclusive of grip ends, may not be flattened. Grip ends may be flattened to within one inch of each end of the reduced section.
 
@@ -126,7 +126,7 @@ S = PD/4tEWhere:S = wall stress in psig;P = minimum test pressure prescribed for
 
 (iii) On a cylindrical portion of the shell that extends beyond the recessed bottom of the cylinder constituting an integral and non-pressure part of the cylinder;
 
-(iv) On a plate attached to the top of the cylinder or permanent part thereof; sufficient space must be left on the plate to provide for stamping at least six retest dates; the plate must be at least 1/16 inch thick and must be attached by welding, or by brazing at a temperature of at least 1100 °F., throughout all edges of the plate;
+(iv) On a plate attached to the top of the cylinder or permanent part thereof; sufficient space must be left on the plate to provide for stamping at least six retest dates; the plate must be at least1/16 inch thick and must be attached by welding, or by brazing at a temperature of at least 1100 °F., throughout all edges of the plate;
 
 (v) On the neck, neckring, valve boss, valve protection sleeve, or similar part permanently attached to the top of the cylinder; or
 

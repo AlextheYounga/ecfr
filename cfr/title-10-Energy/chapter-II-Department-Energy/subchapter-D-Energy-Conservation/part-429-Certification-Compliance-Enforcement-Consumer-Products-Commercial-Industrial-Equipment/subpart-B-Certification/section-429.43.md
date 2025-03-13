@@ -1,6 +1,4 @@
-##### § 429.43 Commercial heating, ventilating, air conditioning (HVAC) equipment (excluding air-cooled, three-phase, small commercial package air conditioning and heating equipment with a cooling capacity of less than 65,000 British thermal units per hour and air-cooled, three-phase, variable refrigerant flow multi-split air conditioners and heat pumps with less than 65,000 British thermal units per hour cooling capacity). #####
-
-Link to an amendment published at 89 FR 82064, Oct. 9, 2024.
+##### § 429.43 Commercial heating, ventilating, air conditioning (HVAC) equipment. #####
 
 (a) Determination of represented values. Manufacturers must determine the represented values, which include the certified ratings, for each basic model of commercial HVAC equipment either by testing, in conjunction with the applicable sampling provisions, or by applying an AEDM.
 
@@ -236,9 +234,17 @@ Link to an amendment published at 89 FR 82064, Oct. 9, 2024.
 
 (iv) Packaged terminal heat pumps: The energy efficiency ratio (EER in British thermal units per Watt-hour (Btu/W-h)), the coefficient of performance (COP), the rated cooling capacity in British thermal units per hour (Btu/h), the wall sleeve dimensions in inches (in), and the duration of the break-in period (hours).
 
-(v) Single package vertical air conditioners: The energy efficiency ratio (EER in British thermal units per Watt-hour (Btu/Wh)) and the rated cooling capacity in British thermal units per hour (Btu/h).
+(v) Single package vertical air conditioners:
 
-(vi) Single package vertical heat pumps: The energy efficiency ratio (EER in British thermal units per Watt-hour (Btu/Wh)), the coefficient of performance (COP), and the rated cooling capacity in British thermal units per hour (Btu/h).
+(A) When certifying compliance with an EER standard: The energy efficiency ratio (EER in British thermal units per Watt-hour (Btu/Wh)), and the rated cooling capacity in British thermal units per hour (Btu/h).
+
+(B) When certifying compliance with an IEER standard: the integrated energy efficiency ratio (IEER in British thermal units per Watt-hour (Btu/Wh)), the rated cooling capacity in British thermal units per hour (Btu/h), and the rated airflow in standard cubic feet per minute (SCFM). For units with rated cooling capacity \<65,000 Btu/h: whether the unit is weatherized or non-weatherized; and if non-weatherized, the airflow rate of outdoor ventilation air which is drawn in and conditioned as determined in accordance with § 429.134(x)(3), while the equipment is operating with the same drive kit and motor settings used to determine the certified efficiency rating of the equipment.
+
+(vi) Single package vertical heat pumps:
+
+(A) When certifying compliance with an EER standard: the energy efficiency ratio (EER in British thermal units per Watt-hour (Btu/Wh)), and the coefficient of performance (COP), and the rated cooling capacity in British thermal units per hour (Btu/h).
+
+(B) When certifying compliance with an IEER standard: the integrated energy efficiency ratio (IEER in British thermal units per Watt-hour (Btu/Wh)), and the coefficient of performance (COP), the rated cooling capacity in British thermal units per hour (Btu/h), and the rated airflow in standard cubic feet per minute (SCFM). For units with cooling capacity \<65,000 Btu/h: whether the unit is weatherized or non-weatherized; and if non-weatherized, the airflow rate of outdoor ventilation air which is drawn in and conditioned as determined in accordance with § 429.134(x)(3), while the equipment is operating with the same drive kit and motor settings used to determine the certified efficiency rating of the equipment.
 
 (vii) Variable refrigerant flow multi-split air-cooled air conditioners (other than air-cooled with rated cooling capacity less than 65,000 btu/h):
 
@@ -252,15 +258,29 @@ Link to an amendment published at 89 FR 82064, Oct. 9, 2024.
 
 (B) When certifying compliance with an IEER standard, the following must be certified for each tested combination as required under paragraph (a)(3)(ii)(C) of this section: The integrated energy efficiency ratio (IEER) in British thermal units per Watt-hour (Btu/Wh); the coefficient of performance (COP); the rated cooling capacity in British thermal units per hour (Btu/h); the rated heating capacity (Btu/h); whether the represented values are for a non-ducted, ducted, or SDHV tested combination, or for a mixed representation of any two of the tested combinations; and the outdoor unit(s) and indoor units identified in the tested combination. The following must be certified for each basic model: the type(s) of heating used (*i.e.,* electric, gas, hydronic, none); and the refrigerant used to determine the represented values.
 
-(ix) Computer room air-conditioners: The net sensible cooling capacity in British thermal units per hour (Btu/h), the net cooling capacity in British thermal units per hour (Btu/h), the configuration (upflow/downflow), economizer presence (yes or no), condenser medium (air, water, or glycol-cooled), sensible coefficient of performance (SCOP), and rated airflow in standard cubic feet per minute (SCFM).
+(ix) Computer room air-conditioners:
+
+(A) When certifying compliance with a SCOP standard: The net sensible cooling capacity in British thermal units per hour (Btu/h), the net cooling capacity in British thermal units per hour (Btu/h), the configuration (upflow/downflow), economizer presence (yes or no), condenser medium (air, water, or glycol-cooled), sensible coefficient of performance (SCOP), and rated airflow in standard cubic feet per minute (SCFM).
+
+(B) When certifying compliance with an NSenCOP standard: The net sensible cooling capacity in British thermal units per hour (Btu/h), the net total cooling capacity in British thermal units per hour (Btu/h), whether the basic model is split system or single-package, the configuration (downflow, upflow ducted, upflow non-ducted, horizontal flow, ceiling-mounted ducted, ceiling-mounted non-ducted), fluid economizer presence (yes or no), condenser heat rejection medium (air, water, or glycol-cooled), net sensible coefficient of performance (NSenCOP), rated airflow in standard cubic feet per minute (SCFM), and the refrigerant used to determine the represented values.
 
 (x) Water source heat pumps (other than variable refrigerant flow): The energy efficiency ratio (EER in British thermal units per Watt-hour (Btu/Wh)), the coefficient of performance (COP), the rated cooling capacity in British thermal units per hour (Btu/h), and the type(s) of heating used by the basic model (e.g., electric, gas, hydronic, none).
+
+(xi) Direct-expansion dedicated outdoor air systems:
+
+(A) When certifying compliance with an ISMRE2 standard: the integrated seasonal moisture removal efficiency 2 (ISMRE2 in lbs. of moisture per kilowatt-hour (lb/kWh)), the rated moisture removal capacity at Standard Rating Condition A according to appendix B to subpart F of part 431 of this chapter (MRC in lbs of moisture per hour (lb/h)), and the rated supply airflow rate for 100 percent outdoor air applications (QSA in standard cubic feet per minute).
+
+(B) When certifying compliance with an ISCOP2 standard: the integrated seasonal coefficient of performance 2 (ISCOP2 in Watts of heating per Watts of power input (W/W)).
+
+(C) The configuration of the basic model number (*i.e.,* “single-package” or “split system”) shall also be provided.
 
 (3) Pursuant to § 429.12(b)(13), a certification report must include the following additional equipment-specific information:
 
 (i) Whether the basic model is engineered-to-order; and
 
 (ii) For any basic model rated with an AEDM, whether the manufacturer elects the witness test option for verification testing. (See § 429.70(c)(5)(iii) for options). However, the manufacturer may not select more than 10% of AEDM-rated basic models.
+
+(iii) For direct-expansion dedicated outdoor air systems with ventilation energy recovery systems, method of determination of the exhaust air transfer ratio (EATR), sensible effectiveness, and latent effectiveness of the ventilation energy recovery system (name and version of certified performance modeling software or if the device was directly tested). The test method (*i.e.,* Option 1 or Option 2) for units rated based on testing and motor control settings (including rotational speed) for energy recovery wheels shall also be provided.
 
 (4) Pursuant to § 429.12(b)(13), a certification report must include supplemental information submitted in PDF format. The equipment-specific, supplemental information must include any additional testing and testing set up instructions (*e.g.,* charging instructions) for the basic model; identification of all special features that were included in rating the basic model; and all other information (*e.g.,* operational codes or component settings) necessary to operate the basic model under the required conditions specified by the relevant test procedure. A manufacturer may also include with a certification report other supplementary items in PDF format (*e.g.,* manuals) for DOE consideration in performing testing under subpart C of this part. The equipment-specific, supplemental information must include at least the following:
 
@@ -282,16 +302,52 @@ Link to an amendment published at 89 FR 82064, Oct. 9, 2024.
 
 (v) Water source heat pumps: The nominal cooling capacity in British thermal units per hour (Btu/h); rated heating capacity in British thermal units per hour (Btu/h); rated airflow in standard cubic feet per minute (SCFM) for each indoor unit; water flow rate in gallons per minute (gpm); rated static pressure in inches of water; refrigerant charging instructions, (e.g., refrigerant charge, superheat and/or subcooling temperatures); frequency set points for variable speed components (e.g., compressors, VFDs), including the required dip switch/control settings for step or variable components; a statement whether the model will operate at test conditions without manufacturer programming; any additional testing instructions if applicable; if a variety of motors/drive kits are offered for sale as options in the basic model to account for varying installation requirements, the model number and specifications of the motor (to include efficiency, horsepower, open/closed, and number of poles) and the drive kit, including settings, associated with that specific motor that were used to determine the certified rating; and which, if any, special features were included in rating the basic model.
 
-(vi) Single package vertical air conditioners: Any additional testing instructions, if applicable; if a variety of motors/drive kits are offered for sale as options in the basic model to account for varying installation requirements, the model number and specifications of the motor (to include efficiency, horsepower, open/closed, and number of poles) and the drive kit, including settings, associated with that specific motor that were used to determine the certified rating; and which, if any, special features were included in rating the basic model.
+(vi) Single package vertical air-conditioners:
 
-(vii) Single package vertical heat pumps: Any additional testing instructions, if applicable; if a variety of motors/drive kits are offered for sale as options in the basic model to account for varying installation requirements, the model number and specifications of the motor (to include efficiency, horsepower, open/closed, and number of poles) and the drive kit, including settings, associated with that specific motor that were used to determine the certified rating; and which, if any, special features were included in rating the basic model.
+(A) When certifying compliance with an EER standard: Any additional testing instructions, if applicable; if a variety of motors/drive kits are offered for sale as options in the basic model to account for varying installation requirements, the model number and specifications of the motor (to include efficiency, horsepower, open/closed, and number of poles) and the drive kit, including settings, associated with that specific motor that were used to determine the certified rating; and which, if any, special features were included in rating the basic model.
 
-(viii) Computer room air-conditioners: Any additional testing instructions, if applicable; and which, if any, special features were included in rating the basic model.
+(B) When certifying compliance with an IEER standard: Compressor break-in period duration; rated indoor airflow in standard cubic feet per minute (SCFM); frequency or control set points including the required dip switch/control settings for step or variable-speed components (*e.g.,* compressors, VFDs); rated indoor airflow in SCFM for each part-load point used in the IEER calculation and any special instructions required to obtain operation at each part-load point, such as frequency or control set points including dip switch/control settings for step or variable-speed components (*e.g.,* compressors, VFDs); a statement whether the model will operate at test conditions without manufacturer programming; outdoor air-side attachments used for testing; any additional testing instructions, if applicable; and if a variety of motors/drive kits are offered for sale as options in the basic model to account for varying installation requirements, the model number and specifications of the motor (to include efficiency, horsepower, open/closed, and number of poles) and the drive kit, including settings, associated with that specific motor that were used to determine the certified rating; any additional applicable testing instructions, are also required.
+
+(vii) Single package vertical heat pumps:
+
+(A) *When certifying compliance with an EER standard:* Any additional testing instructions, if applicable; if a variety of motors/drive kits are offered for sale as options in the basic model to account for varying installation requirements, the model number and specifications of the motor (to include efficiency, horsepower, open/closed, and number of poles) and the drive kit, including settings, associated with that specific motor that were used to determine the certified rating; and which, if any, special features were included in rating the basic model.
+
+(B) *When certifying compliance with an IEER standard:* The rated heating capacity in British thermal units per hour (Btu/h); compressor break-in period duration; rated indoor airflow in standard cubic feet per minute (SCFM) (in cooling mode); rated airflow in SCFM in heating mode if the unit is designed to operate with different airflow rates for cooling and heating mode; frequency or control set points including the required dip switch/control settings for step or variable-speed components (*e.g.,* compressors, VFDs); rated indoor airflow in SCFM for each part-load point used in the IEER calculation and any special instructions required to obtain operation at each part-load point, such as frequency or control set points including dip switch/control settings for step or variable-speed components (*e.g.,* compressors, VFDs); a statement whether the model will operate at test conditions without manufacturer programming; outdoor air-side attachments used for testing; any additional testing instructions, if applicable; and if a variety of motors/drive kits are offered for sale as options in the basic model to account for varying installation requirements, the model number and specifications of the motor (to include efficiency, horsepower, open/closed, and number of poles) and the drive kit, including settings, associated with that specific motor that were used to determine the certified rating; or any additional applicable testing instructions, are also required.
+
+(viii) *Computer room air-conditioners:*
+
+(A) *When certifying compliance with a SCOP standard:* Any additional testing instructions, if applicable; and which, if any, special features were included in rating the basic model.
+
+(B) *When certifying compliance with a NSenCOP standard:* Compressor break-in period duration; frequency or control set points including the required dip switch/control settings for step or variable-speed components (*e.g.,* compressors, VFDs); a statement whether the model will operate at test conditions without manufacturer programming; any additional testing instructions, if applicable; if a variety of motors/drive kits are offered for sale as options in the basic model to account for varying installation requirements, the model number and specifications of the motor (to include efficiency, horsepower, open/closed, and number of poles) and the drive kit, including settings, associated with that specific motor that were used to determine the certified rating.
 
 (ix) Package terminal air conditioners and package terminal heat pumps: Any additional testing instructions, if applicable.
 
+(x) *Direct-expansion dedicated outdoor air systems:*
+
+(A) *For units without ventilation energy recovery systems:* water flow rate in gallons per minute (gpm) for water-cooled and water-source units; rated ESP in inches of water column for the supply air stream; frequency or control set points for variable-speed components (*e.g.,* compressors, VFDs); required dip switch/control settings for step or variable-speed components (*e.g.,* reheat or head pressure control valves); a statement whether the model will operate at test conditions without manufacturer programming; if a variety of motors/drive kits are offered for sale as options in the basic model to account for varying installation requirements, the model number and specifications of the motor (to include efficiency, horsepower, open/closed, and number of poles) and the drive kit, including settings, associated with that specific motor that were used to determine the certified rating; and any additional testing instructions specified in appendix B to subpart F of part 431 of this chapter, if applicable (*e.g.,* supply air dry-bulb temperatures for ISMRE2 tests, equipment settings for airflow, installation priority for split-system units, defrost control settings for air-source heat pump units, break-in period, or condenser head pressure controls.
+
+(B) *For units with ventilation energy recovery systems,* the requirements in paragraph (b)(4)(x)(A) of this section apply, in addition to: rated ESP in inches of water column for the return air stream; exhaust air transfer ratio at the rated supply airflow rate and a neutral pressure difference between return and supply airflow (EATR as a percent value); sensible and latent effectiveness of the ventilation energy recovery system at 75 percent of the nominal supply airflow and zero pressure differential in accordance with the DOE test procedure in appendix B to subpart F of part 431 of this chapter; sensible and latent effectiveness of the ventilation energy recovery system at 100 percent of the nominal supply airflow and zero pressure differential in accordance with the DOE test procedure in appendix B to subpart F of part 431 of this chapter; and any additional testing instructions, if applicable (*e.g.,* deactivation of VERS or VERS bypass in accordance with appendix B to subpart F of part 431 of this chapter).
+
 (5) For variable refrigerant flow multi-split air conditioners and heat pumps (other than air-cooled with rated cooling capacity less than 65,000 btu/h), if a manufacturer has knowledge that any of its certified operational settings for critical parameters to be controlled during IEER tests (per paragraph (b)(4)(vii)(B) or (b)(4)(viii)(B) of this section) are invalid according to the results of a controls verification procedure conducted according to § 429.134(v)(3), then the manufacturer must re-rate and re-certify using valid operational settings for critical parameters for all affected basic models.
+
+(6) *Basic and individual model numbers.* The basic model number and individual model number(s) required to be reported under § 429.12(b)(6) must consist of the following:
+
+(i) *For computer room air-conditioners:*
+
+|Single-package or split system?|        Basic model No.         |Individual model No(s).|             |
+|-------------------------------|--------------------------------|-----------------------|-------------|
+|               1               |               2                |                       |             |
+|        Single-Package         |Number unique to the basic model|        Package        |    N/A.     |
+|         Split System          |Number unique to the basic model|      Indoor Unit      |Outdoor Unit.|
+
+(ii) *For direct-expansion dedicated outdoor air systems:*
+
+|Equipment configuration|        Basic model No.         |Individual model No(s).|            |
+|-----------------------|--------------------------------|-----------------------|------------|
+|           1           |               2                |                       |            |
+|    Single-Package     |Number unique to the basic model|        Package        |    N/A.    |
+|     Split System      |Number unique to the basic model|     Outdoor Unit      |Indoor Unit.|
 
 (c) Alternative methods for determining efficiency or energy use for commercial HVAC equipment can be found in § 429.70 of this subpart.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24775, May 2, 2011, as amended at 78 FR 79594, Dec. 31, 2013; 79 FR 25501, May 5, 2014; 80 FR 151, Jan. 5, 2015; 80 FR 37147, June 30, 2015; 80 FR 79668, Dec. 23, 2015; 87 FR 45195, July 27, 2022; 87 FR 63892, Oct. 20, 2022; 87 FR 65667, Nov. 1, 2022; 87 FR 75166, Dec. 7, 2022; 87 FR 77317, Dec. 16, 2022; 88 FR 21836, Apr. 11, 2023; 88 FR 84226, Dec.4, 2023; 89 FR 44033, May 20, 2024]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24775, May 2, 2011, as amended at 78 FR 79594, Dec. 31, 2013; 79 FR 25501, May 5, 2014; 80 FR 151, Jan. 5, 2015; 80 FR 37147, June 30, 2015; 80 FR 79668, Dec. 23, 2015; 87 FR 45195, July 27, 2022; 87 FR 63892, Oct. 20, 2022; 87 FR 65667, Nov. 1, 2022; 87 FR 75166, Dec. 7, 2022; 87 FR 77317, Dec. 16, 2022; 88 FR 21836, Apr. 11, 2023; 88 FR 84226, Dec.4, 2023; 89 FR 44033, May 20, 2024; 89 FR 82064, Oct. 9, 2024]

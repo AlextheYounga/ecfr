@@ -6,7 +6,7 @@
 
 (b) *Sill steps*—(1) *Number.* Four.
 
-(2) *Dimensions.* Minimum length of tread, 10, preferably 12, inches. Minimum cross-sectional area, 1/2 by 11/2 inches or equivalent, wrought iron or steel. Minimum clear depth, 8 inches.
+(2) *Dimensions.* Minimum length of tread, 10, preferably 12, inches. Minimum cross-sectional area,1/2 by 11/2 inches or equivalent, wrought iron or steel. Minimum clear depth, 8 inches.
 
 (3) *Location.* (i) One near each end on each side not more than 24 inches from corner of car to center of tread of sill step.
 
@@ -16,7 +16,7 @@
 
 (4) *Manner of application.* (i) Steps exceeding 18 inches in depth shall have an additional tread and be laterally braced.
 
-(ii) Sill steps shall be securely fastened with not less than 1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than 1/2-inch rivets.
+(ii) Sill steps shall be securely fastened with not less than1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than1/2-inch rivets.
 
 (c) *Side handholds*—(1) *Number.* Four.
 
@@ -54,13 +54,13 @@
 
 (f) *Side-door steps*—(1) *Number.* One under each door.
 
-(2) *Dimensions.* Minimum length of tread, 10, preferably 12, inches. Minimum cross-sectional area, 1/2 by 11/2 inches or equivalent, wrought iron or steel. Minimum clear depth, 8 inches.
+(2) *Dimensions.* Minimum length of tread, 10, preferably 12, inches. Minimum cross-sectional area,1/2 by 11/2 inches or equivalent, wrought iron or steel. Minimum clear depth, 8 inches.
 
 (3) *Location.* Outside edge of tread of step not more than 2 inches inside of face of side of car. Tread not more than 24, preferably not more than 22, inches above the top of rail.
 
 (4) *Manner of application.* (i) Steps exceeding 18 inches in depth shall have an additional tread and be laterally braced.
 
-(ii) Side-door steps shall be securely fastened with not less than 1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than 1/2-inch rivets.
+(ii) Side-door steps shall be securely fastened with not less than1/2-inch bolts with nuts outside (when possible) and riveted over, or with not less than1/2-inch rivets.
 
 (iii) A vertical handhold not less than 24 inches in clear length shall be applied above each side-door step on door post.
 

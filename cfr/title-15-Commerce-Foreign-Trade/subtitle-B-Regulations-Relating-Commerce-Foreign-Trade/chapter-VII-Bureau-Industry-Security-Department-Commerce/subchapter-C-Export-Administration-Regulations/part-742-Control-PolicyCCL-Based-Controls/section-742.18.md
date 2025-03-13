@@ -2,7 +2,7 @@
 
 States that are parties to the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, also known as the Chemical Weapons Convention (CWC or Convention), undertake never to develop, produce, acquire, stockpile, transfer, or use chemical weapons. As a State Party to the Convention, the United States is subjecting certain toxic chemicals and their precursors listed in Schedules within the Convention to trade restrictions. Trade restrictions include: a prohibition on the export of Schedule 1 chemicals to States not Party to the CWC; a prohibition on the reexport of Schedule 1 chemicals to all destinations (both States Parties to the CWC and States not Party to the CWC); license requirements for the export of Schedule 1 chemicals to all States Parties; a prohibition on the export of Schedule 2 chemicals to States not Party to the CWC; and an End-Use Certificate requirement for exports of Schedule 3 chemicals to States not Party to the CWC. Exports of CWC chemicals that do not require a license for CW reasons (e.g., exports and reexports of Schedule 2 and Schedule 3 chemicals to States Parties to the CWC) may require a license for other reasons set forth in the EAR. (*See,* in particular, the license requirements in § 742.2 of the EAR that apply to exports and reexports of precursor chemicals controlled by ECCN 1C350, for CB reasons. Also note the end-use and end-user restrictions in part 744 of the EAR and the restrictions that apply to embargoed countries in part 746 of the EAR.)
 
-(a) *License requirements*—(1) *Schedule 1 chemicals and mixtures controlled under ECCN 1C351.* A license is required for CW reasons to export or reexport Schedule 1 chemicals controlled under ECCN 1C351.d.14 or .d.15 to all destinations including Australia, Canada, and the United Kingdom. CW applies to 1C351.d.14 for ricin in the form of Ricinus Communis AgglutininII (RCAII), which is also known as ricin D or Ricinus Communis LectinIII (RCLIII), and Ricinus Communis LectinIV (RCLIV), which is also known as ricin E. CW applies to 1C351.d.15 for saxitoxin identified by C.A.S. #35523-89-8. (Note that the advance notification procedures and annual reporting requirements described in § 745.1 of the EAR also apply to exports of Schedule 1 chemicals.)
+(a) *License requirements*—(1) *Schedule 1 chemicals and mixtures controlled under ECCN 1C351.* A license is required for CW reasons to export or reexport Schedule 1 chemicals controlled under ECCN 1C351.d.15 or .d.16 to all destinations including Australia, Canada, and the United Kingdom. CW applies to 1C351.d.15 for ricin in the form of Ricinus Communis AgglutininII (RCAII), which is also known as ricin D or Ricinus Communis LectinIII (RCLIII), and Ricinus Communis LectinIV (RCLIV), which is also known as ricin E. CW applies to 1C351.d.16 for saxitoxin identified by C.A.S. #35523-89-8. (Note that the advance notification procedures and annual reporting requirements described in § 745.1 of the EAR also apply to exports of Schedule 1 chemicals.)
 
 (2) *Schedule 2 and 3 chemicals and mixtures controlled under ECCN 1C350, ECCN 1C355, or ECCN 1C395*—(i) *States Parties to the CWC.* Neither a license nor an End-Use Certificate is required for CW reasons to export or reexport Schedule 2 or 3 chemicals and mixtures controlled under ECCN 1C350, ECCN 1C355, or ECCN 1C395 to States Parties to the CWC (destinations listed in supplement no. 2 to part 745 of the EAR).
 
@@ -16,7 +16,9 @@ States that are parties to the Convention on the Prohibition of the Development,
 
 (C) *Technology controlled under ECCN 1E355.* A license is required for CW reasons to export or reexport technology controlled under ECCN 1E355 to all States not Party to the CWC (destinations *not* listed in supplement no. 2 to part 745 of the EAR), except for Israel and Taiwan.
 
-(b) *Licensing Policy*—(1) *Schedule 1 chemicals and mixtures*—(i) *Exports to States Parties to the CWC.* Applications to export Schedule 1 Chemicals controlled under ECCN 1C351.d.14 or .d.15 to States Parties to the CWC (destinations listed in supplement no. 2 to part 745 of the EAR) generally will be denied, unless all of the following conditions are met:
+(b) *Licensing Policy*—(1) *Schedule 1 chemicals and mixtures*—
+
+(i) *Exports to States Parties to the CWC.* Applications to export Schedule 1 Chemicals controlled under ECCN 1C351.d.15 or .d.16 to States Parties to the CWC (destinations listed in supplement no. 2 to part 745 of the EAR) generally will be denied, unless all of the following conditions are met:
 
 (A) The chemicals are destined only for purposes not prohibited under the CWC (*i.e.,* research, medical, pharmaceutical, or protective purposes);
 
@@ -26,9 +28,9 @@ States that are parties to the Convention on the Prohibition of the Development,
 
 (D) The aggregate amount of Schedule 1 chemicals in the country of destination at any given time is equal to or less than one metric ton *and* receipt of the proposed export will *not* cause the country of destination to acquire or to have acquired one metric ton or more of Schedule 1 chemicals in any calendar year.
 
-(ii) *Exports to States not party to the CWC.* Applications to export Schedule 1 chemicals controlled under ECCN 1C351.d.14 or .d.15 to States not Party to the CWC (destinations not listed in supplement no. 2 to part 745 of the EAR) generally will be denied, consistent with U.S. obligations under the CWC to prohibit exports of these chemicals to States not Party to the CWC.
+(ii) *Exports to States not party to the CWC.* Applications to export Schedule 1 chemicals controlled under ECCN 1C351.d.15 or .d.16 to States not Party to the CWC (destinations not listed in supplement no. 2 to part 745 of the EAR) generally will be denied, consistent with U.S. obligations under the CWC to prohibit exports of these chemicals to States not Party to the CWC.
 
-(iii) *Reexports.* Applications to reexport Schedule 1 chemicals controlled under ECCN 1C351.d.14 or .d.15 generally will be denied to all destinations (including both States Parties to the CWC and States not Party to the CWC).
+(iii) *Reexports.* Applications to reexport Schedule 1 chemicals controlled under ECCN 1C351.d.15 or .d.16 generally will be denied to all destinations (including both States Parties to the CWC and States not Party to the CWC).
 
 (2) *Schedule 2 chemicals and mixtures.* Applications to export or reexport Schedule 2 chemicals and mixtures controlled under ECCN 1C350.b, ECCN 1C355.a, or ECCN 1C395 to States not Party to the CWC (destinations *not* listed in supplement no. 2 to part 745 of the EAR) generally will be denied, consistent with U.S. obligations under the CWC to prohibit exports of these chemicals to States not Party to the CWC.
 
@@ -40,4 +42,4 @@ States that are parties to the Convention on the Prohibition of the Development,
 
 (c) *Contract sanctity.* Contract sanctity provisions are not available for license applications reviewed under this section.
 
-[67 FR 37982, May 31, 2002, as amended at 69 FR 42865, July 19, 2004; 76 FR 56101, Sept. 12, 2011; 88 FR 2511, Jan. 17, 2023; 89 FR 28600, Apr. 19, 2024]
+[67 FR 37982, May 31, 2002, as amended at 69 FR 42865, July 19, 2004; 76 FR 56101, Sept. 12, 2011; 88 FR 2511, Jan. 17, 2023; 89 FR 28600, Apr. 19, 2024; 89 FR 104412, Dec. 23, 2024]

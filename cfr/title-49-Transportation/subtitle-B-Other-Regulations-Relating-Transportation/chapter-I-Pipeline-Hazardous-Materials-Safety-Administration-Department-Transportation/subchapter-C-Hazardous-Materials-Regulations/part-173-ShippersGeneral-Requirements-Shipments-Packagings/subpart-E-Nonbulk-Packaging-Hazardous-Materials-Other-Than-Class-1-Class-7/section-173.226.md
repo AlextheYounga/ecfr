@@ -34,7 +34,7 @@ Division 6.1, Packing Group I, Zone A poisonous by inhalation (see § 173.133) m
 
 (1) Outer packagings:
 
-Steel drum: 1A2 Aluminum drum: 1B2 Metal drum, other than steel or aluminum: 1N2 Plywood drum: 1D Fiber drum: 1G Plastic drum: 1H2 Steel box: 4A Aluminum box: 4B Natural wood box: 4C1 or 4C2 Plywood box: 4D Reconstituted wood box: 4F Fiberboard box: 4G Expanded plastic box: 4H1 Solid plastic box: 4H2Metal box other than steel or aluminum: 4N
+Steel drum: 1A2Aluminum drum: 1B2Metal drum, other than steel or aluminum: 1N2Plywood drum: 1DFiber drum: 1GPlastic drum: 1H2Steel box: 4AAluminum box: 4BNatural wood box: 4C1 or 4C2Plywood box: 4DReconstituted wood box: 4FFiberboard box: 4GExpanded plastic box: 4H1Solid plastic box: 4H2Metal box other than steel or aluminum: 4N
 
 (2) Inner packaging system. The inner packaging system consists of two packagings:
 

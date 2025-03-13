@@ -6,7 +6,7 @@ A railroad may not place or continue in service a car, if the car has—
 
 (1) Is broken; or
 
-(2) Has a crack of 1/4 of an inch or more in the transverse direction on a tension member;
+(2) Has a crack of1/4 of an inch or more in the transverse direction on a tension member;
 
 (b) A truck equipped with a snubbing device that is ineffective, as evidenced by—
 
@@ -26,9 +26,9 @@ A railroad may not place or continue in service a car, if the car has—
 
 (2) The bearings at one end of the car, on both sides, are in contact with the body bolster (except by design);
 
-(3) The bearings at one end of the car have a total clearance from the body bolster of more than 3/4 of an inch; or
+(3) The bearings at one end of the car have a total clearance from the body bolster of more than3/4 of an inch; or
 
-(4) At diagonally opposite sides of the car, the bearings have a total clearance from the body bolsters of more than 3/4 of an inch;
+(4) At diagonally opposite sides of the car, the bearings have a total clearance from the body bolsters of more than3/4 of an inch;
 
 (d) Truck springs—
 

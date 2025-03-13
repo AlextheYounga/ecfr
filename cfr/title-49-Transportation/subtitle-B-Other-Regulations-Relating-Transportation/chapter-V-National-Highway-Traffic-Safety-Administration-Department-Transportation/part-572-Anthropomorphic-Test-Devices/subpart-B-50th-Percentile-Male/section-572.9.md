@@ -13,7 +13,7 @@
 
 (c) Test procedure: (1) Assemble the thorax, lumbar spine, pelvic, and upper leg assemblies (above the femur force transducers), ensuring that all component surfaces are clean, dry, and untreated unless otherwise specified, and attach them to the horizontal fixture shown in Figure 5 at the two link rod pins and with the mounting brackets for the lumbar test fixtures illustrated in Figures 6 to 9.
 
-(2) Attach the rear mounting of the pelvis to the pelvic instrument cavity rear face at the four 1/4″ cap screw holes and attach the front mounting at the femur axial rotation joint. Tighten the mountings so that the pelvic-lumbar adapter is horizontal and adjust the femur friction plungers at each hip socket joint to 240 inch-pounds torque.
+(2) Attach the rear mounting of the pelvis to the pelvic instrument cavity rear face at the four1/4″ cap screw holes and attach the front mounting at the femur axial rotation joint. Tighten the mountings so that the pelvic-lumbar adapter is horizontal and adjust the femur friction plungers at each hip socket joint to 240 inch-pounds torque.
 
 (3) Flex the thorax forward 50° and then rearward as necessary to return it to its initial position in accordance with Figure 11 unsupported by external means.
 

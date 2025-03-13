@@ -221,7 +221,7 @@
 
 (12) Subject to conditions of paragraph (a) of this section for the methyl chloride and sulfur dioxide optional portable tanks, one or more fusible plugs examined by the Bureau of Explosives and approved by the Associate Administrator may be used on these tanks in place of safety relief valves of the spring-loaded type. The fusible plug or plugs must be in accordance with CGA Pamphlet S-1.2, to prevent a pressure rise in the tank of more than 120 percent of the design pressure. If the tank is over 30 inches long, each end must have the total specified safety discharge area.
 
-(13) A safety relief valve on a chlorine cargo tank must conform to one of the following standards of The Chlorine Institute, Inc.: Type 1 1/2 JQ225, Dwg. H51970 (IBR, see § 171.7 of this subchapter); or Type 1 1/2 JQ225, Dwg. H50155 (IBR, see § 171.7 of this subchapter).
+(13) A safety relief valve on a chlorine cargo tank must conform to one of the following standards of The Chlorine Institute, Inc.: Type 11/2 JQ225, Dwg. H51970 (IBR, see § 171.7 of this subchapter); or Type 11/2 JQ225, Dwg. H50155 (IBR, see § 171.7 of this subchapter).
 
 (j) *Consumer storage containers.* (1) Storage containers for liquefied petroleum gas or propane charged to five percent of their capacity or less and intended for permanent installation on consumer premises may be shipped by private motor carrier under the following conditions:
 
@@ -329,7 +329,7 @@
 
 (v) After each nurse tank has successfully passed the visual, thickness, and pressure tests, welded repairs on the tank are prohibited.
 
-(vi) After the nurse tank has successfully passed the visual, thickness, and pressure tests, it must be marked in accordance with § 180.415(b), and permanently marked near the test and inspection markings with a unique owner's identification number in letters and numbers at least 1/2 inch in height and width.
+(vi) After the nurse tank has successfully passed the visual, thickness, and pressure tests, it must be marked in accordance with § 180.415(b), and permanently marked near the test and inspection markings with a unique owner's identification number in letters and numbers at least1/2 inch in height and width.
 
 (vii) Each nurse tank owner must maintain a copy of the test inspection report prepared by the inspector. The test report must contain the results of the test and meet the requirements in § 180.417(b) and be made available to a DOT representative upon request.
 

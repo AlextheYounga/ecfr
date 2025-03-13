@@ -1,0 +1,5 @@
+##### § 301.6657-1 Bad checks. #####
+
+(a) *In general.* Except as provided in paragraph (b) of this section, if a check or money order is tendered in the payment of any amount receivable under the Code, and such check or money order is not paid upon presentment, a penalty of one percent of the amount of the check or money order, in addition to any other penalties provided by law shall be paid by the person who tendered such check or money order. If, however, the amount of the check or money order is less than $500, the penalty shall be $5 or the amount of the check or money order, whichever amount is the lesser. Such penalty shall be paid in the same manner as tax upon the issuance of a notice and demand therefor.
+
+(b) *Reasonable cause.* If payment is refused upon presentment of any check or money order and the person who tendered such check or money order establishes to the satisfaction of the district director that it was tendered in good faith with reasonable cause to believe that it would be duly paid, the penalty set forth in paragraph (a) of this section shall not apply.

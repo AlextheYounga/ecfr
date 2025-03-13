@@ -34,7 +34,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in psi;P = minimum tes
 
 (4) Permanent volumetric expansion may not exceed 10 percent of total volumetric expansion at test pressure.
 
-(j) *Flattening test.* A flattening test must be performed on one cylinder taken at random out of each lot of 200 or less, by placing the cylinder between wedge shaped knife edges having a 60° included angle, rounded to 1/2-inch radius. The longitudinal axis of the cylinder must be at a 90-degree angle to knife edges during the test. For lots of 30 or less, flattening tests are authorized to be made on a ring at least 8 inches long cut from each cylinder and subjected to same heat treatment as the finished cylinder.
+(j) *Flattening test.* A flattening test must be performed on one cylinder taken at random out of each lot of 200 or less, by placing the cylinder between wedge shaped knife edges having a 60° included angle, rounded to1/2-inch radius. The longitudinal axis of the cylinder must be at a 90-degree angle to knife edges during the test. For lots of 30 or less, flattening tests are authorized to be made on a ring at least 8 inches long cut from each cylinder and subjected to same heat treatment as the finished cylinder.
 
 (k) *Physical test.* A physical test must be conducted to determine yield strength, tensile strength, elongation, and reduction of area of material, as follows:
 
@@ -42,7 +42,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in psi;P = minimum tes
 
 (2) Specimens must conform to the following:
 
-(i) A gauge length of 8 inches with a width of not over 11/2 inches, a gauge length of 2 inches with a width of not over 11/2 inches, or a gauge length of at least 24 times the thickness with a width not over 6 times thickness is authorized when a cylinder wall is not over 3/16 inch thick.
+(i) A gauge length of 8 inches with a width of not over 11/2 inches, a gauge length of 2 inches with a width of not over 11/2 inches, or a gauge length of at least 24 times the thickness with a width not over 6 times thickness is authorized when a cylinder wall is not over3/16 inch thick.
 
 (ii) The specimen, exclusive of grip ends, may not be flattened. Grip ends may be flattened to within one inch of each end of the reduced section.
 
@@ -58,7 +58,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in psi;P = minimum tes
 
 (iii) For the purpose of strain measurement, the initial strain must be set while the specimen is under a stress of 12,000 psi, and the strain indicator reading must be set at the calculated corresponding strain.
 
-(iv) Cross-head speed of the testing machine may not exceed 1/8 inch per minute during yield strength determination.
+(iv) Cross-head speed of the testing machine may not exceed1/8 inch per minute during yield strength determination.
 
 (l) *Acceptable results for physical and flattening tests.* Either of the following is an acceptable result:
 

@@ -23,7 +23,7 @@
 
 (g) The following applicable items of information must be entered in the blank spaces on the RADIOACTIVE label by legible printing (manual or mechanical), using a durable weather resistant means of marking:
 
-(1) *Contents.* Except for LSA-1 material, the names of the radionuclides as taken from the listing of radionuclides in § 173.435 of this subchapter (symbols which conform to established radiation protection terminology are authorized, *i.e.*, 99Mo, 60Co, etc.). For mixtures of radionuclides, with consideration of space available on the label, the radionuclides that must be shown must be determined in accordance with § 173.433(g) of this subchapter. For LSA-I material, the term “LSA-I” may be used in place of the names of the radionuclides.
+(1) *Contents.* Except for LSA-1 material, the names of the radionuclides as taken from the listing of radionuclides in § 173.435 of this subchapter (symbols which conform to established radiation protection terminology are authorized, *i.e.*,99Mo,60Co, etc.). For mixtures of radionuclides, with consideration of space available on the label, the radionuclides that must be shown must be determined in accordance with § 173.433(g) of this subchapter. For LSA-I material, the term “LSA-I” may be used in place of the names of the radionuclides.
 
 (2) *Activity.* The maximum activity of the radioactive contents in the package during transport must be expressed in appropriate SI units (*e.g.,* Becquerels (Bq), Terabecquerels (TBq)). The activity may also be stated in appropriate customary units (*e.g.,* Curies (Ci), milliCuries (mCi), microCuries (uCi)) in parentheses following the SI units. Abbreviations are authorized. Except for plutonium-239 and plutonium-241, the weight in grams or kilograms of fissile radionuclides (or the mass of each fissile nuclide for mixtures when appropriate) may be inserted instead of activity units. For plutonium-239 and plutonium-241, the weight in grams of fissile radionuclides (or the mass of each fissile nuclide for mixtures when appropriate) may be inserted in addition to the activity units.
 
@@ -43,4 +43,4 @@
 
 (6) For fissile material, the criticality safety index which must be entered on the overpack FISSILE label is the sum of the criticality safety indices of the individual packages in the overpack, as stated in the certificate of approval for the package design issued by the NRC or the U.S. Competent Authority.
 
-[Amdt. 172-29, 41 FR 15996, Apr. 15, 1976] Editorial Note:For Federal Register citations affecting § 172.403, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[Amdt. 172-29, 41 FR 15996, Apr. 15, 1976]Editorial Note:For Federal Register citations affecting § 172.403, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

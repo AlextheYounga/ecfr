@@ -10,4 +10,4 @@
 
 (2) A 11/4-inch (32 millimeters) tap may be made in a 4-inch (102 millimeters) cast iron or ductile iron pipe, without reinforcement.
 
-However, in areas where climate, soil, and service conditions may create unusual external stresses on cast iron pipe, unreinforced taps may be used only on 6-inch (152 millimeters) or larger pipe. [35 FR 13257, Aug. 19, 1970, as amended by Amdt. 192-85, 63 FR 37502, July 13, 1998]
+However, in areas where climate, soil, and service conditions may create unusual external stresses on cast iron pipe, unreinforced taps may be used only on 6-inch (152 millimeters) or larger pipe.[35 FR 13257, Aug. 19, 1970, as amended by Amdt. 192-85, 63 FR 37502, July 13, 1998]

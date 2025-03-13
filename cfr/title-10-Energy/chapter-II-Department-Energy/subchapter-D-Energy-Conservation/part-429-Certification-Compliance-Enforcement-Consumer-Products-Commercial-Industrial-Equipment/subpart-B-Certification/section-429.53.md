@@ -1,7 +1,5 @@
 ##### § 429.53 Walk-in coolers and walk-in freezers. #####
 
-Link to an amendment published at 89 FR 82067, Oct. 9, 2024.
-
 (a) *Determination of represented value.* (1) The requirements of § 429.11 apply to walk-in coolers and walk-in freezers; and
 
 (2) For each basic model of walk-in cooler and walk-in freezer refrigeration system, the annual walk-in energy factor (AWEF) must be determined either by testing, in accordance with § 431.304 of this chapter and the provisions of this section, or by application of an AEDM that meets the requirements of § 429.70 and the provisions of this section.
@@ -80,22 +78,52 @@ And *x* is the sample mean, *s* is the sample standard deviation; *n* is the num
 
 (2) Pursuant to § 429.12(b)(13), a certification report must include the following public product-specific information:
 
-(i) For doors: The door type, R-value of the door insulation, and a declaration that the manufacturer has incorporated the applicable design requirements. In addition, for those walk-in coolers and walk-in freezers with transparent reach-in doors and windows, the glass type of the doors and windows (*e.g.,* double-pane with heat reflective treatment, triple-pane glass with gas fill), and the power draw of the antisweat heater in watts per square foot of door opening must also be included.
+(i) For display and non-display doors:
 
-(ii) For walk-in cooler and walk-in freezer panels: The R-value of the insulation.
+(A) The door type;
 
-(iii) For walk-in cooler and walk-in freezer refrigeration systems: The installed motor's functional purpose (*i.e.,* evaporator fan motor or condenser fan motor), its rated horsepower, and a declaration that the manufacturer has incorporated the applicable walk-in-specific design requirements into the motor.
+(B) R-value of the door insulation (as applicable);
 
-(3) Pursuant to § 429.12(b)(13), starting on June 5, 2017, a certification report must include the following public product-specific information in addition to the information listed in paragraph (b)(2) of this section:
+(C) A declaration that the manufacturer has incorporated the applicable design requirements;
 
-(i) For walk-in cooler and walk-in freezer doors: The door energy consumption and rated surface area in square feet.
+(D) For transparent reach-in display doors and windows, the glass type of the doors and windows (*e.g.,* double-pane with heat reflective treatment, triple-pane glass with gas fill);
 
-(ii) For refrigeration systems that are medium-temperature dedicated condensing units, medium-temperature single-package dedicated systems, or medium-temperature matched systems: The refrigeration system AWEF, net capacity, the configuration tested for certification (*e.g.,* condensing unit only, unit cooler only, single-package dedicated system, or matched-pair), and if an indoor dedicated condensing unit is also certified as an outdoor dedicated condensing unit and, if so, the basic model number for the outdoor dedicated condensing unit.
+(E) Power draw of the anti-sweat heater in watts per square foot of door opening;
 
-(4) Pursuant to § 429.12(b)(13), starting on June 5, 2017, a certification report must include the following product-specific information in addition to the information listed in paragraphs (b)(2) and (3) of this section:
+(F) Door energy consumption in kilowatt-hours per day;
 
-(i) For walk-in cooler and walk-in freezer doors: the rated power of each light, heater wire, and/or other electricity consuming device associated with each basic model of display and non-display door; and whether such device(s) has a timer, control system, or other demand-based control reducing the device's power consumption.
+(G) Rated surface area in square feet; and
 
-(5) When certifying compliance to the AWEF refrigeration standards for WICF refrigeration systems except those specified in (b)(3)(ii) of this section, a certification report must include the following public product-specific information in addition to the information listed in paragraph (b)(2) of this section: For refrigeration systems that are low-temperature dedicated condensing units, low-temperature matched systems, low-temperature single-package dedicated systems, or medium and low-temperature unit coolers: The refrigeration system AWEF, net capacity, the configuration tested for certification (*e.g.,* condensing unit only, unit cooler only, single-package dedicated system, or matched-pair), and if an indoor dedicated condensing unit is also certified as an outdoor dedicated condensing unit and, if so, the basic model number for the outdoor dedicated condensing unit.
+(H) For doors with anti-sweat heater controls, the range of temperature conditions (in degrees Fahrenheit) and/or relative humidity conditions (in percent, %) at which the anti-sweat heater turns on.
 
-[81 FR 95799, Dec. 28, 2016, as amended at 88 FR 28835, May 4, 2023]
+(ii) For panels: The R-value of the insulation.
+
+(iii) For refrigeration systems:
+
+(A) The installed motor's functional purpose (*i.e.,* evaporator fan motor or condenser fan motor), its rated horsepower, and a declaration that the manufacturer has incorporated the applicable walk-in-specific design requirements into the motor;
+
+(B) The refrigeration system AWEF and net capacity in BTU/h;
+
+(C) The configuration tested for certification (*e.g.,* condensing unit only, unit cooler only, single-packaged dedicated system matched-pair, attached split-system, or detachable single-packaged system);
+
+(D) Whether an indoor dedicated condensing unit is also certified as an outdoor dedicated condensing unit and, if so, the basic model number for the outdoor dedicated condensing unit; and
+
+(E) Whether the certified basic model meets the definition of a CO2 unit cooler.
+
+(3) Pursuant to § 429.12(b)(13), a certification report must include the following non-public product-specific information in addition to the information listed in paragraph (b)(2) of this section:
+
+(i) *For display and non-display doors:*
+
+(A) The rated power of each light, heater wire, and/or other electricity consuming device associated with each basic model of display and non-display door; and whether such device(s) has a timer, control system, or other demand-based control reducing the device's power consumption; and
+
+(B) The conduction load through the door in Btu/h.
+
+(ii) *For refrigeration systems:*
+
+(A) Whether the dedicated condensing system using flooded head pressure controls; and
+
+(B) The compressor break-in period, if used.
+
+(4) Pursuant to § 429.12(b)(13), a certification report must include supplemental information submitted in PDF format. The equipment-specific supplemental information must be consistent with the equipment's installation or operating instructions; include any additional testing and testing set up instructions (*e.g.,* charging instructions) for the basic model; identify all special features that were included in rating the basic model; and include all other information (*e.g.,* any specific settings or controls) necessary to operate the basic model under the required conditions specified by the relevant test procedure. A manufacturer may also include with a certification report other supplementary items in PDF format (*e.g.,* operating manuals and/or installation instructions) for DOE to consider when performing testing under appendix C and appendix C1 to subpart R of part 431.
+
+[81 FR 95799, Dec. 28, 2016, as amended at 88 FR 28835, May 4, 2023; 89 FR 82067, Oct. 9, 2024]

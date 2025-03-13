@@ -1,6 +1,6 @@
 ##### § 179.400-24 Stamping. #####
 
-(a) A tank that complies with all specification requirements must have the following information plainly and permanently stamped into the metal near the center of the head of the outer jacket at the “B” end of the car, in letters and figures at least 3/8-inch high, in the following order:
+(a) A tank that complies with all specification requirements must have the following information plainly and permanently stamped into the metal near the center of the head of the outer jacket at the “B” end of the car, in letters and figures at least3/8-inch high, in the following order:
 
 |                                                                                      |Example of required stamping|
 |--------------------------------------------------------------------------------------|----------------------------|

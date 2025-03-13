@@ -1,5 +1,7 @@
 ##### § 1210.515 Levy of assessments. #####
 
+Link to an amendment published at 89 FR 104398, Dec. 23, 2024.
+
 (a) An assessment of three cents per hundredweight shall be levied on all watermelons produced for ultimate consumption as human food, and an assessment of three cents per hundredweight shall be levied on all watermelons first handled for ultimate consumption as human food. An assessment of six cents per hundredweight shall be levied on all watermelons imported into the United States for ultimate consumption as human food at the time of entry in the United States.
 
 (b) The import assessment shall be uniformly applied to imported watermelons that are identified by the numbers 0807.11.30 and 0807.11.40 in the Harmonized Tariff Scheudle of the United States of any other number used to identify fresh watermelons for consumption as human food. The U.S. Customs Service (USCS) will collect assessments on such watermelons at the time of entry and will forward such assessment as per the agreement between USCS and USDA. Any importer or agent who is exempt from payment of assessments may submit the Board adequate proof of the volume handled by such importer for the exemption to be granted.

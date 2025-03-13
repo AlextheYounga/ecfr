@@ -12,4 +12,4 @@
 
 (3) Financial assistance arrangements under 49 U.S.C. 10904 (*see* 49 CFR 1152.27).
 
-Finally, no environmental analysis is necessary for abandonments that are authorized by a bankruptcy court, or transfers of rail lines under plans of reorganization, where our function is merely advisory under 11 U.S.C. 1166, 1170, and 1172. [56 FR 36105, July 31, 1991; 56 FR 49821, Oct. 1, 1991; 81 FR 8853, Feb. 23, 2016]
+Finally, no environmental analysis is necessary for abandonments that are authorized by a bankruptcy court, or transfers of rail lines under plans of reorganization, where our function is merely advisory under 11 U.S.C. 1166, 1170, and 1172.[56 FR 36105, July 31, 1991; 56 FR 49821, Oct. 1, 1991; 81 FR 8853, Feb. 23, 2016]

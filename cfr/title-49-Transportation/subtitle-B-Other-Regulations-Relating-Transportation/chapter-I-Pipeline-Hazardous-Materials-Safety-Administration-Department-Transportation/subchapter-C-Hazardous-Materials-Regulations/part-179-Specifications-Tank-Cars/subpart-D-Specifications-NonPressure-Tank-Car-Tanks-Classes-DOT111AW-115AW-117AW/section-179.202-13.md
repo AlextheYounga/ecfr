@@ -6,11 +6,11 @@
 
 (c) *Thickness of plates.* The wall thickness after forming of the tank shell and heads must be, at a minimum, 7/16 of an inch, and constructed with steel authorized by the HMR at the time of construction.
 
-(d) *Tank head puncture resistance system.* The DOT-117R specification tank car must have a tank head puncture resistance system in conformance with § 179.16(c). The full height head shields must have a minimum thickness of 1/2 inch.
+(d) *Tank head puncture resistance system.* The DOT-117R specification tank car must have a tank head puncture resistance system in conformance with § 179.16(c). The full height head shields must have a minimum thickness of1/2 inch.
 
 (e) *Thermal protection system.* (1) The DOT Specification 117R tank car must have a thermal protection system. The thermal protection system must conform to § 179.18 of this part and include a reclosing pressure relief device in accordance with § 173.31 of this subchapter.
 
-(2) A non-jacketed tank car modified to the DOT Specification 117R must be equipped with a thermal protection blanket with at least 1/2-inch-thick material that meets § 179.18(c) of this part.
+(2) A non-jacketed tank car modified to the DOT Specification 117R must be equipped with a thermal protection blanket with at least1/2-inch-thick material that meets § 179.18(c) of this part.
 
 (f) *Jackets.* The entire thermal protection system must be covered with a metal jacket of a thickness not less than 11 gauge A1011 steel or equivalent; and flashed around all openings so as to be weather tight. The exterior surface of a carbon steel tank and the inside surface of a carbon steel jacket must be given a protective coating.
 

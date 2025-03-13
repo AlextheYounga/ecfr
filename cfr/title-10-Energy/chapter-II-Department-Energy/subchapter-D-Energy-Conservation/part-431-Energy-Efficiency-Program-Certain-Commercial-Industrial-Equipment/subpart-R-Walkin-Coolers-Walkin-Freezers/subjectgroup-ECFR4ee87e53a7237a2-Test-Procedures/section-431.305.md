@@ -1,12 +1,12 @@
 ##### § 431.305 Walk-in cooler and walk-in freezer labeling requirements. #####
 
-Link to an amendment published at 89 FR 82071, Oct. 9, 2024.
+(a) Panel nameplate— (1) *Required information.* The permanent nameplate of a walk-in cooler or walk-in freezer panel for which standards are prescribed in § 431.306 must be marked clearly with the following information:
 
-(a) Panel nameplate—(1) Required information. The permanent nameplate of a walk-in cooler or walk-in freezer panel for which standards are prescribed in § 431.306 must be marked clearly with the following information:
+(i) The panel brand or manufacturer;
 
-(i) The panel brand or manufacturer; and
+(ii) The date of manufacture; and
 
-(ii) One of the following statements, as appropriate:
+(iii) One of the following statements, as appropriate:
 
 (A) “This panel is designed and certified for use in walk-in cooler applications.”
 
@@ -16,11 +16,13 @@ Link to an amendment published at 89 FR 82071, Oct. 9, 2024.
 
 (2) Display of required information. All orientation, spacing, type sizes, typefaces, and line widths to display this required information must be the same as or similar to the display of the other performance data included on the panel's permanent nameplate. The permanent nameplate must be visible unless the panel is assembled into a completed walk-in.
 
-(b) Door nameplate—(1) Required information. The permanent nameplate of a walk-in cooler or walk-in freezer door for which standards are prescribed in § 431.306 must be marked clearly with the following information:
+(b) Door nameplate— (1) *Required information.* The permanent nameplate of a walk-in cooler or walk-in freezer door for which standards are prescribed in § 431.306 must be marked clearly with the following information:
 
-(i) The door brand or manufacturer; and
+(i) The door brand or manufacturer;
 
-(ii) One of the following statements, as appropriate:
+(ii) For non-display doors manufactured with foam insulation, the date of manufacture; and
+
+(iii) One of the following statements, as appropriate:
 
 (A) “This door is designed and certified for use in walk-in cooler applications.”
 
@@ -64,4 +66,4 @@ Link to an amendment published at 89 FR 82071, Oct. 9, 2024.
 
 (4) The information that must appear on a walk-in cooler or walk-in freezer component's permanent nameplate pursuant to paragraphs (a)-(c) of this section must also be prominently displayed in each catalog that lists the component and all materials used to market the component.
 
-[81 FR 95802, Dec. 28, 2016]
+[81 FR 95802, Dec. 28, 2016, as amended at 89 FR 82071, Oct. 9, 2024]

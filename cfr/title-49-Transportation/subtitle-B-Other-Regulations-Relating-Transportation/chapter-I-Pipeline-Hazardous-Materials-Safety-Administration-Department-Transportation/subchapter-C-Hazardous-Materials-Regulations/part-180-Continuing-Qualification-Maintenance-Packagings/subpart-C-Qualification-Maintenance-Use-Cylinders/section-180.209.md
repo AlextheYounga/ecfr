@@ -135,7 +135,7 @@
 
 (i) The water-jacket or direct expansion method. A requalification must be performed 12 years after the original test date and at 12-year intervals thereafter.
 
-(ii) Each cylinder must be tested to a minimum of 5/3 times service pressure.
+(ii) Each cylinder must be tested to a minimum of5/3 times service pressure.
 
 (iii) When testing using the water-jacket or direct expansion test method, the permanent volumetric expansion may not exceed 10 percent of total volumetric expansion at test pressure.
 
