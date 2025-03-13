@@ -1,5 +1,7 @@
 ##### § 600.2 Definitions. #####
 
+Link to an amendment published at 90 FR 503, Jan. 3, 2025.
+
 The following definitions apply to terms used in this part:
 
 *Academic engagement:* Active participation by a student in an instructional activity related to the student's course of study that—

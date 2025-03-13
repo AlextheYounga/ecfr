@@ -1,5 +1,7 @@
 ##### § 207.61 Responses to notice of institution. #####
 
+Link to an amendment published at 90 FR 236, Jan. 3, 2025.
+
 (a) *When information must be filed.* Responses to the notice of institution shall be submitted to the Commission no later than 30 days after its publication in the Federal Register.
 
 (b) *Information to be filed with the Secretary.* The notice of institution shall direct each interested party to make a filing pursuant to §§ 201.6, 201.8 and 207.3 of this chapter containing the following:

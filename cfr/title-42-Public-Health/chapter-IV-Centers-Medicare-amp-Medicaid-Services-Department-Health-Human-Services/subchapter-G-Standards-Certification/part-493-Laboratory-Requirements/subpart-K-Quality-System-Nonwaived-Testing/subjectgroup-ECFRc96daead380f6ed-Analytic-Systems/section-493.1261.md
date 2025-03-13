@@ -2,7 +2,7 @@
 
 (a) The laboratory must check the following for positive and negative reactivity using control organisms:
 
-(1) Each day of use for beta-lactamase methods other than CefinaseTM.
+(1) Each day of use for beta-lactamase methods other than Cefinase TM.
 
 (2) Each week of use for Gram stains.
 

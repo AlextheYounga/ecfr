@@ -1,5 +1,7 @@
 ##### § 3555.203 Ownership requirements. #####
 
+Link to an amendment published at 90 FR 203, Jan. 3, 2025.
+
 After the loan is closed, the borrower must have an acceptable ownership interest in the property as evidenced by one of the following:
 
 (a) *Fee-simple ownership.* Acceptable fee-simple ownership is evidenced by a fully marketable title with a deed vesting a fee-simple interest in the property to the borrower.

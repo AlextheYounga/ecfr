@@ -80,11 +80,11 @@
 
 (A) For the first of the theoretical 4 years, 1.
 
-(B) For the second of the theoretical 4 years,3/4.
+(B) For the second of the theoretical 4 years, 3/4.
 
-(C) For the third of the theoretical 4 years,1/2.
+(C) For the third of the theoretical 4 years, 1/2.
 
-(D) For the fourth of the theoretical 4 years,1/4.
+(D) For the fourth of the theoretical 4 years, 1/4.
 
 (2) *Medicaid share.* The Medicaid share specified under this paragraph for an eligible hospital is equal to a fraction—
 

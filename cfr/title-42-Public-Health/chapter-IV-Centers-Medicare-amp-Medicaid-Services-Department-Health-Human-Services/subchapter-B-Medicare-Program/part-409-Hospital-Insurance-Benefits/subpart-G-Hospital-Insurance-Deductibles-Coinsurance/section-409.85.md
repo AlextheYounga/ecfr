@@ -2,7 +2,7 @@
 
 (a) *General provisions.* (1) SNF care coinsurance is the amount chargeable to a beneficiary after the first 20 days of SNF care in a benefit period.
 
-(2) For each day from the 21st through the 100th day, the coinsurance is1/8 of the applicable inpatient hospital deductible.
+(2) For each day from the 21st through the 100th day, the coinsurance is 1/8 of the applicable inpatient hospital deductible.
 
 (3) For coinsurance days before January 1, 1982, the coinsurance amount is based on the deductible applicable for the year in which the benefit period began. The coinsurance amounts do not change during a beneficiary's benefit period even though the coinsurance days may fall in a subsequent year for which a higher deductible amount has been determined.
 

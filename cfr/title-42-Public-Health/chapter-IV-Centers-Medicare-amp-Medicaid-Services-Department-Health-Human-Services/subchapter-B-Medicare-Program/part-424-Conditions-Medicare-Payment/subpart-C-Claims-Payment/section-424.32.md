@@ -14,7 +14,7 @@
 
 (b) The prescribed forms for claims are the following:
 
-CMS-1450—Uniform Institutional Provider Bill. (This form is for institutional provider billing for Medicare inpatient, outpatient and home health services.)CMS-1490S—Request for Medicare payment. (For use by a patient to request payment for medical expenses.)CMS-1500—Health Insurance Claim Form. (For use by physicians and other suppliers to request payment for medical services.)CMS-1660—Request for Information-Medicare Payment for Services to a Patient now Deceased. (For use in requesting amounts payable under title XVIII to a deceased beneficiary.)
+CMS-1450—Uniform Institutional Provider Bill. (This form is for institutional provider billing for Medicare inpatient, outpatient and home health services.)CMS-1490S—Request for Medicare payment. (For use by a patient to request payment for medical expenses.) CMS-1500—Health Insurance Claim Form. (For use by physicians and other suppliers to request payment for medical services.) CMS-1660—Request for Information-Medicare Payment for Services to a Patient now Deceased. (For use in requesting amounts payable under title XVIII to a deceased beneficiary.)
 
 (c) *Where claims forms are available.* Excluding forms CMS-1450 and CMS-1500, all claims forms prescribed for use in the Medicare program are distributed free-of-charge to the public, institutions, or organizations. The CMS-1450 and CMS-1500 may be obtained only by commercial purchase. All other claims forms can be obtained upon request from CMS or any Social Security branch or district office, or from Medicare intermediaries or carriers. The CMS-1490S is also available at local Social Security Offices.
 

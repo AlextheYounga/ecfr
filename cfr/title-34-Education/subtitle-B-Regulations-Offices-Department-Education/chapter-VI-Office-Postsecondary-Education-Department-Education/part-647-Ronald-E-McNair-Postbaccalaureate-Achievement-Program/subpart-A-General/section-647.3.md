@@ -1,5 +1,7 @@
 ##### § 647.3 Who is eligible to participate in a McNair project? #####
 
+Link to an amendment published at 90 FR 504, Jan. 3, 2025.
+
 A student is eligible to participate in a McNair project if the student meets all the following requirements:
 
 (a)(1) Is a citizen or national of the United States; or

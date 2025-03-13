@@ -1,5 +1,7 @@
 ##### § 210.10 Institution of investigation. #####
 
+Link to an amendment published at 90 FR 239, Jan. 3, 2025.
+
 (a)(1) The Commission shall determine whether the complaint is properly filed and whether an investigation should be instituted on the basis of the complaint. That determination shall be made within 30 days after the complaint is filed, unless—
 
 (i) Exceptional circumstances preclude adherence to a 30-day deadline;

@@ -2,8 +2,7 @@
 
 (a) For purposes of this section, Non-Emergency Medical Transportation (NEMT) PAHP means an entity that provides only NEMT services to enrollees under contract with the State, and on the basis of prepaid capitation payments, or other payment arrangements that do not use State plan payment rates.
 
-(b) Unless listed in this paragraph (b), a requirement of this part does not apply to NEMT PAHPs, NEMT PAHP contracts, or States in connection with a NEMT PAHP. The following requirements and options apply
-to NEMT PAHPs, NEMT PAHP contracts, and States in connection with NEMT PAHPs, to the same extent that they apply to PAHPs, PAHP contracts, and States in connection with PAHPs.
+(b) Unless listed in this paragraph (b), a requirement of this part does not apply to NEMT PAHPs, NEMT PAHP contracts, or States in connection with a NEMT PAHP. The following requirements and options apply to NEMT PAHPs, NEMT PAHP contracts, and States in connection with NEMT PAHPs, to the same extent that they apply to PAHPs, PAHP contracts, and States in connection with PAHPs.
 
 (1) All contract provisions in § 438.3 except requirements for:
 

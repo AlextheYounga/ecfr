@@ -1,5 +1,7 @@
 ##### § 644.3 Who is eligible to participate in a project? #####
 
+Link to an amendment published at 90 FR 504, Jan. 3, 2025.
+
 (a) An individual is eligible to participate in an Educational Opportunity Centers project if the individual meets all of the following requirements:
 
 (1)(i) Is a citizen or national of the United States;

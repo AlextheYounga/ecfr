@@ -1,5 +1,7 @@
 ##### § 207.62 Rulings on adequacy and nature of Commission review. #####
 
+Link to an amendment published at 90 FR 236, Jan. 3, 2025.
+
 (a) *Basis for rulings on adequacy.* The Commission will assess the adequacy of aggregate interested party responses to the notice of institution with respect to each order or suspension agreement under review and, where the underlying affirmative Commission determination found multiple domestic like products, on the basis of each domestic like product.
 
 (b) *Comments to the Commission.* (1) Comments to the Commission concerning whether the Commission should conduct an expedited review may be submitted by:

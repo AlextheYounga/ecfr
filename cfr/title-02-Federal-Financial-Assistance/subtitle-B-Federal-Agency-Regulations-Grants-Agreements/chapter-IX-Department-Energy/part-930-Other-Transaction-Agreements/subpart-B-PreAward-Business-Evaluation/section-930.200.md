@@ -1,0 +1,3 @@
+##### § 930.200 Scope. #####
+
+This subpart addresses administrative matters that do not impose organization-wide requirements on an awardee's business (financial management, property management, or purchasing) systems. An organization does not have to redesign its business systems to accommodate variations in these requirements. Agreements may differ in the requirements that they specify based on the awardee and the specific circumstances of the research, development, and demonstration project.

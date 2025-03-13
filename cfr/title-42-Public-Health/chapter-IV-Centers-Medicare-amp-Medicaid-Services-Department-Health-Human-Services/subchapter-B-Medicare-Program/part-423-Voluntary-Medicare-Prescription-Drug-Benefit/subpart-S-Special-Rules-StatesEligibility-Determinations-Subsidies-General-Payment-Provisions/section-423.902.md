@@ -32,7 +32,7 @@ The following definitions apply to this subpart:
 
 *Phased-down State contribution factor* for a month in 2006 is 90 percent; in 2007 is 881/3 percent; in 2008 is 862/3 percent; in 2009 is 85 percent; in 2010 is 831/3 percent; in 2011 is 812/3 percent; in 2012 is 80 percent; in 2013 is 781/3 percent; in 2014 is 762/3 percent; or after December 2014, is 75 percent.
 
-*Phased-down State contribution payment* refers to the States' monthly payment made to the Federal government beginning in 2006 to defray a portion of the Medicare drug expenditures for full-benefit dual eligible individuals whose Medicaid drug coverage is assumed by Medicare Part D. The contribution is calculated as1/12th of the base year (2003) Medicaid per capita expenditures for prescription drugs (that is, covered Part D drugs) for full-benefit dual eligible individuals,
+*Phased-down State contribution payment* refers to the States' monthly payment made to the Federal government beginning in 2006 to defray a portion of the Medicare drug expenditures for full-benefit dual eligible individuals whose Medicaid drug coverage is assumed by Medicare Part D. The contribution is calculated as 1/12th of the base year (2003) Medicaid per capita expenditures for prescription drugs (that is, covered Part D drugs) for full-benefit dual eligible individuals,
 
 (1) Multiplied by the State medical assistance percentage;
 

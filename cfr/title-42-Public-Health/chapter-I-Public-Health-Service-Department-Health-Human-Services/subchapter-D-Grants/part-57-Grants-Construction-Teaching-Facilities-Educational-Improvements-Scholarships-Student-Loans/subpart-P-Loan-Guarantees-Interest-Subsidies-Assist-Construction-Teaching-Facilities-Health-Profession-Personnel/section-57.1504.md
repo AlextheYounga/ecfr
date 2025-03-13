@@ -1,6 +1,6 @@
 ##### § 57.1504 Application. #####
 
-Each applicant desiring to have a loan guaranteed or to have interest subsidies paid on its behalf, or any combination of such loan guarantee or interest subsidies, shall submit an application for such assistance in such form and manner and at such time as the Secretary may require.1
+Each applicant desiring to have a loan guaranteed or to have interest subsidies paid on its behalf, or any combination of such loan guarantee or interest subsidies, shall submit an application for such assistance in such form and manner and at such time as the Secretary may require. 1
 
 1 Applications and instructions are available from the Division of Facilities Conversion and Utilization, Bureau of Health Maintenance Organizations and Resources Development, Parklawn Building, 5600 Fishers Lane, Rockville, MD 20857.
 

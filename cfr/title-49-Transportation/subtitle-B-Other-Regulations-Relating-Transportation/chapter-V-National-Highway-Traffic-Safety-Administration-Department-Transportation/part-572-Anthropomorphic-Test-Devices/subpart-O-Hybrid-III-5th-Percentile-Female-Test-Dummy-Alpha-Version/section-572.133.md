@@ -1,5 +1,7 @@
 ##### § 572.133 Neck assembly and test procedure. #####
 
+Link to an amendment published at 90 FR 263, Jan. 3, 2025.
+
 (a) The neck assembly (refer to § 572.130(a)(1)(ii)) for the purposes of this test consists of the assembly of components shown in drawing 880105-250.
 
 (b) When the head-neck assembly consisting of the head (drawing 880105-100X), neck (drawing 880105-250), bib simulator (drawing 880105-371), upper neck adjusting bracket (drawing 880105-207), lower neck adjusting bracket (drawing 880105-208), six-axis neck transducer (drawing SA572-S11), and either three accelerometers (drawing SA572-S4) or their mass equivalent installed in the head assembly as specified in drawing 880105-100X, is tested according to the test procedure in subsection (c) of this section, it shall have the following characteristics:

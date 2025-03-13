@@ -1,8 +1,6 @@
 ##### 52.204-2 Security Requirements. #####
 
-Link to an amendment published at 89 FR 101831, Dec. 16, 2024.
-
-As prescribed in 4.404(a), insert the following clauses:
+As prescribed in 4.404(a), insert the following clause:
 
 Security Requirements (MAR 2021)
 
@@ -28,4 +26,4 @@ Security Requirements (MAR 2021)
 
 (e) The Contractor shall be responsible for furnishing to each employee and for requiring each employee engaged on the work to display such identification as may be approved and directed by the Contracting Officer. All prescribed identification shall immediately be delivered to the Contracting Officer, for cancellation upon the release of any employee. When required by the Contracting Officer, the Contractor shall obtain and submit fingerprints of all persons employed or to be employed on the project.
 
-[48 FR 42478, Sept. 19, 1983, as amended at 61 FR 31617, June 20, 1996; 86 FR 13794, Mar. 10, 2021]
+[48 FR 42478, Sept. 19, 1983, as amended at 61 FR 31617, June 20, 1996; 86 FR 13794, Mar. 10, 2021; 89 FR 101831, Dec. 16, 2024]

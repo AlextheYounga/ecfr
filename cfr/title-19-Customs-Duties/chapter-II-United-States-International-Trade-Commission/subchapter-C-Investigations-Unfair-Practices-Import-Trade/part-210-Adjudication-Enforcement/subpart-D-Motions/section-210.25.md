@@ -1,5 +1,7 @@
 ##### § 210.25 Sanctions. #####
 
+Link to an amendment published at 90 FR 242, Jan. 3, 2025.
+
 (a)(1) Any party may file a motion for sanctions for abuse of process under 210.4(d)(1), abuse of discovery under § 210.27(g)(3), failure to make or cooperate in discovery under § 210.33(b) or (c), or violation of a protective order under § 210.34(c). A motion alleging abuse of process should be filed promptly after the requirements of § 210.4(d)(1)(i) have been satisfied. A motion alleging abuse of discovery, failure to make or cooperate in discovery, or violation of a protective order should be filed promptly after the allegedly sanctionable conduct is discovered.
 
 (2) The administrative law judge (when the investigation or related proceeding is before the administrative law judge) or the Commission (when the investigation or related proceeding is before it) also may raise the sanctions issue sua sponte. (See also §§ 210.4(d)(1)(ii), 210.27(g)(3), 210.33(c), and 210.34(c).)

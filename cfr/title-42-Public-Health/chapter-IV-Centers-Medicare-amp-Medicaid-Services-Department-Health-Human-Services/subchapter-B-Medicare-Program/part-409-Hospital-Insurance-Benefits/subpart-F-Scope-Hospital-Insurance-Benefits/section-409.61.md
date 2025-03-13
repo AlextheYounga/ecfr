@@ -20,7 +20,7 @@
 
 (c) *Renewal of inpatient benefits.* The beneficiary's full entitlement to the 90 inpatient hospital or inpatient CAH regular benefit days, and the 100 SNF benefit days, is renewed each time he or she begins a benefit period. However, once lifetime reserve days are used, they can never be renewed.
 
-(d) *Home health services.* Medicare Part A pays for all covered home health services1 with no deductible, and subject to the following limitations on payment for durable medical equipment (DME):
+(d) *Home health services.* Medicare Part A pays for all covered home health services 1 with no deductible, and subject to the following limitations on payment for durable medical equipment (DME):
 
 1 Before July 1, 1981, Medicare Part A paid for not more than 100 home health visits during one year following the beneficiary's most recent discharge from a hospital or a SNF.
 

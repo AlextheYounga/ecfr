@@ -66,89 +66,89 @@
 
 (A) 1 for FY 2011;
 
-(B)3/4 for FY 2012;
+(B) 3/4 for FY 2012;
 
-(C)1/2 for FY 2013; and
+(C) 1/2 for FY 2013; and
 
-(D)1/4 for FY 2014.
+(D) 1/4 for FY 2014.
 
 (ii) For hospitals whose first payment year is FY 2012—
 
 (A) 1 for FY 2012;
 
-(B)3/4 for FY 2013;
+(B) 3/4 for FY 2013;
 
-(C)1/2 for FY 2014; and
+(C) 1/2 for FY 2014; and
 
-(D)1/4 for FY 2015;
+(D) 1/4 for FY 2015;
 
 (iii) For hospitals whose first payment year is FY 2013—
 
 (A) 1 for FY 2013;
 
-(B)3/4 for FY 2014;
+(B) 3/4 for FY 2014;
 
-(C)1/2 for FY 2015; and
+(C) 1/2 for FY 2015; and
 
-(D)1/4 for FY 2016.
+(D) 1/4 for FY 2016.
 
 (iv) For hospitals whose first payment year is FY 2014—
 
-(A)3/4 for FY 2014;
+(A) 3/4 for FY 2014;
 
-(B)1/2 for FY 2015; and
+(B) 1/2 for FY 2015; and
 
-(C)1/4 for FY 2016.
+(C) 1/4 for FY 2016.
 
 (v) For hospitals whose first payment year is FY 2015—
 
-(A)1/2 for FY 2015; and
+(A) 1/2 for FY 2015; and
 
-(B)1/4 for FY 2016.
+(B) 1/4 for FY 2016.
 
 (vi) For Puerto Rico eligible hospitals whose first payment year is FY 2016—
 
 (A) 1 for FY 2016;
 
-(B)3/4 for FY 2017;
+(B) 3/4 for FY 2017;
 
-(C)1/2 for FY 2018; and
+(C) 1/2 for FY 2018; and
 
-(D)1/4 for FY 2019.
+(D) 1/4 for FY 2019.
 
 (vii) For Puerto Rico eligible hospitals whose first payment year is FY 2017—
 
 (A) 1 for FY 2017;
 
-(B)3/4 for FY 2018;
+(B) 3/4 for FY 2018;
 
-(C)1/2 for FY 2019; and
+(C) 1/2 for FY 2019; and
 
-(D)1/4 for FY 2020;
+(D) 1/4 for FY 2020;
 
 (viii) For Puerto Rico eligible hospitals whose first payment year is FY 2018—
 
 (A) 1 for FY 2018;
 
-(B)3/4 for FY 2019;
+(B) 3/4 for FY 2019;
 
-(C)1/2 for FY 2020; and
+(C) 1/2 for FY 2020; and
 
-(D)1/4 for FY 2021.
+(D) 1/4 for FY 2021.
 
 (ix) For Puerto Rico eligible hospitals whose first payment year is FY 2019—
 
-(A)3/4 for FY 2019;
+(A) 3/4 for FY 2019;
 
-(B)1/2 for FY 2020; and
+(B) 1/2 for FY 2020; and
 
-(C)1/4 for FY 2021.
+(C) 1/4 for FY 2021.
 
 (x) For Puerto Rico eligible hospitals whose first payment year is FY 2020—
 
-(A)1/2 for FY 2020; and
+(A) 1/2 for FY 2020; and
 
-(B)1/4 for FY 2021.
+(B) 1/4 for FY 2021.
 
 (d) No incentive payment for nonqualifying hospitals. After the first payment year, an eligible hospital will not receive an incentive payment for any payment year during which it is not a qualifying hospital.
 

@@ -1,5 +1,7 @@
 ##### 25.702-3 Remedies. #####
 
+Link to an amendment published at 90 FR 516, Jan. 3, 2025.
+
 Upon the determination of a false certification under subsection 25.702-2—
 
 (a) The contracting officer may terminate the contract;

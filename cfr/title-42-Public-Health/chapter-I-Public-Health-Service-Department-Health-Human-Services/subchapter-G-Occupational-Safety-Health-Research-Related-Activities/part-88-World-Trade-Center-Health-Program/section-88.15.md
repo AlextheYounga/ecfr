@@ -112,7 +112,7 @@ WTC-related health conditions include the following disorders and conditions:
 
 (24) Childhood cancers: any type of cancer diagnosed in a person less than 20 years of age.
 
-(25) Rare cancers: any type of cancer1 that occurs in less than 15 cases per 100,000 persons per year in the United States.
+(25) Rare cancers: any type of cancer 1 that occurs in less than 15 cases per 100,000 persons per year in the United States.
 
 1 Based on 2005-2009 average annual data age-adjusted to the 2000 U.S. population. *See* Glenn Copeland, Andrew Lake, Rick Firth, *et al.* (eds), *Cancer in North America: 2005-2009. Volume One: Combined Cancer Incidence for the United States, Canada and North America,* Springfield, IL: North American Association of Central Cancer Registries, Inc., June 2012.
 

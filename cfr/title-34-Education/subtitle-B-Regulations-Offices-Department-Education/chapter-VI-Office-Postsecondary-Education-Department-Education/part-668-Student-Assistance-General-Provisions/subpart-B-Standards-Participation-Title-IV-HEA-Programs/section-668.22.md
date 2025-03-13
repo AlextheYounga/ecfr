@@ -1,5 +1,7 @@
 ##### § 668.22 Treatment of title IV funds when a student withdraws. #####
 
+Link to an amendment published at 90 FR 504, Jan. 3, 2025.
+
 (a) *General.* (1) When a recipient of title IV grant or loan assistance withdraws from an institution during a payment period or period of enrollment in which the recipient began attendance, the institution must determine the amount of title IV grant or loan assistance that the student earned as of the student's withdrawal date in accordance with paragraph (e) of this section.
 
 (2)(i) Except as provided in paragraphs (a)(2)(ii) and (a)(2)(iii) of this section, a student is considered to have withdrawn from a payment period or period of enrollment if—

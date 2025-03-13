@@ -2,7 +2,7 @@
 
 Surgical procedures must be performed in a safe manner by qualified physicians who have been granted clinical privileges by the governing body of the ASC in accordance with approved policies and procedures of the ASC.
 
-(a) *Standard: Anesthetic risk and evaluation.*(1) Immediately before surgery—
+(a) *Standard: Anesthetic risk and evaluation.* (1) Immediately before surgery—
 
 (i) A physician must examine the patient to evaluate the risk of the procedure to be performed; and
 

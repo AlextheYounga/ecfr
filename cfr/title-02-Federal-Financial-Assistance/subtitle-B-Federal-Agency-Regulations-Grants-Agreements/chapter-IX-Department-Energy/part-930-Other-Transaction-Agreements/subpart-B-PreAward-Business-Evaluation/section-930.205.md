@@ -1,0 +1,5 @@
+##### § 930.205 Financial management standards. #####
+
+(a) Any awardees that currently perform under other expenditure-based Federal procurement contracts or assistance awards are subject to the same standards for financial management systems that apply to those other Federal awards.
+
+(b) Any awardees that do not currently perform under expenditure-based Federal procurement contracts or assistance awards should be allowed to use their existing financial management system as long as the system, at a minimum, effectively controls all project funds, including Federal funds and any required cost share. The system must have complete, accurate, and current records that document the sources of funds and the purposes for which they are disbursed. Awardees also must have procedures for ensuring that project funds are used only for purposes permitted by the agreement.

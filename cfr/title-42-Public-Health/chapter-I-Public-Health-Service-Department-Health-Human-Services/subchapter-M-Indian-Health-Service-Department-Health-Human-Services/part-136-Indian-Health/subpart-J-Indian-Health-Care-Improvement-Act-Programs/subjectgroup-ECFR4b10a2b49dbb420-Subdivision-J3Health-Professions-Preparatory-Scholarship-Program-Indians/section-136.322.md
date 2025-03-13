@@ -1,6 +1,6 @@
 ##### § 136.322 Application and selection. #####
 
-(a) An application for a preparatory scholarship grant under this subdivision shall be submitted in such form and at such time as the Secretary acting through the Service may prescribe.1 However, an application must indicate:
+(a) An application for a preparatory scholarship grant under this subdivision shall be submitted in such form and at such time as the Secretary acting through the Service may prescribe. 1 However, an application must indicate:
 
 1 Applications and instructions may be obtained from the appropriate Indian Health Service Area or Program Office.
 

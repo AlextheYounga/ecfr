@@ -1,5 +1,7 @@
 ##### § 201.13 Conduct of nonadjudicative hearings. #####
 
+Link to an amendment published at 90 FR 233, Jan. 3, 2025.
+
 (a) *In general.* Public hearings are held by the Commission when required by law or, if not required by law, when in the judgment of the Commission there is good and sufficient reason therefor. Public hearings will be held at the time and place specified in notices issued under § 201.10. Public hearings are ordinarily held in the Hearing Room of the International Trade Commission Building, in Washington, DC, but may be held elsewhere at the Commission's discretion.
 
 (b) *Presiding officials*—(1) *Who presides.* Public hearings or conferences in nonadjudicative investigations will be conducted by the Commission or by one or more Commissioners. When the Commission deems it necessary, such hearings will be conducted by one or more designated employees. In all cases the transcript of the testimony at a hearing will be presented for the consideration of the Commission.

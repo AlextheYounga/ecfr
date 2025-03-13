@@ -1,0 +1,7 @@
+##### § 930.330 Research and technology security and U.S. manufacturing and competitiveness requirements. #####
+
+(a) *Foreign access to technology.* Consistent with the objective of enhancing national security and United States competitiveness by increasing the public's reliance on United States commercial technology, the Agreements Officer, meaning the cognizant warranted Department of Energy (DOE) or National Nuclear Security Administration official authorized to execute and administer other transaction (OT) agreements, must include provisions in an OT agreement that addresses foreign access to technology developed under the OT agreement. Provisions must be included in an OT that provide, at a minimum, that any transfer of the technology must be consistent with the U.S. export control laws, regulations and the Department of Commerce Export Regulation at Chapter VII, Subchapter C, Title 15 of the CFR (15 CFR parts 730-774), as applicable.
+
+(b) *DOE research and technology security policies.* All DOE research and technology security policies apply to OTs unless the activities being funded are outside the scope of the policies or otherwise exempted from the policies.
+
+(c) *U.S. manufacturing and competitiveness.* Notice should be included in the OT indicating that products embodying any invention or produced through the use of any invention are subject to the U.S. Competitiveness terms outlined in modified 37 CFR 401.14. These terms may not be modified or waived without approval from cognizant DOE intellectual property counsel.

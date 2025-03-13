@@ -1,0 +1,5 @@
+##### § 512.459 Application of the CMS-sponsored model arrangements and patient incentives safe harbor. #####
+
+(a) *Application of the CMS-sponsored model arrangements safe harbor.* CMS has determined that the Federal anti-kickback statute safe harbor for CMS-sponsored model arrangements (42 CFR 1001.952(ii)(1)) is available to protect remuneration furnished in the IOTA Model in the form of the Sharing Arrangement's gainsharing payments, the Sharing Arrangement's alignment payments, and the Distribution Arrangement's distribution payments that meet all safe harbor requirements set forth in 42 CFR 1001.952(ii), 512.452, and 512.454.
+
+(b) *Application of the CMS-sponsored model patient incentives safe harbor.* CMS has determined that the Federal anti-kickback statute safe harbor for CMS-sponsored model patient incentives (42 CFR 1001.952(ii)(2)) is available to protect remuneration furnished in the IOTA Model in the form of Part B and Part D immunosuppressive drug cost sharing support and the attributed patient engagement incentives that meet all safe harbor requirements set forth in 42 CFR 1001.952(ii), 512.456 and 512.458.

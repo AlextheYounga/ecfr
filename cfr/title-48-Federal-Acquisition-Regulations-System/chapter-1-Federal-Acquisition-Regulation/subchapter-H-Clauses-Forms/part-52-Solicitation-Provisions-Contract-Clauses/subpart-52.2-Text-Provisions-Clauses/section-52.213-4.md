@@ -1,10 +1,10 @@
 ##### 52.213-4 Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services). #####
 
-Link to an amendment published at 89 FR 101827, Dec. 16, 2024.
+Link to an amendment published at 90 FR 517, Jan. 3, 2025.Link to an amendment published at 90 FR 525, Jan. 3, 2025.
 
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (NOV 2024)
+Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (JAN 2025)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -111,6 +111,8 @@ Terms and Conditions—Simplified Acquisitions (Other Than Commercial Products a
 (xxii) 52.240-1, Prohibition on Unmanned Aircraft Systems Manufactured or Assembled by American Security Drone Act—Covered Foreign Entities (NOV 2024). (Sections 1821-1826, Pub. L. 118-31, 41 U.S.C. 3901 note prec.).
 
 (xxiii) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305) (Applies to supplies transported by ocean vessels (except for the types of subcontracts listed at 47.504(d).)
+
+(xxiv) 52.247-69, Reporting Requirement for U.S.-Flag Air Carriers Regarding Training to Prevent Human Trafficking (JAN 2025) (49 U.S.C. 40118(g)). (Applies to contracts with a U.S.-flag carrier for the transportation by air of passengers; does not apply to contracts awarded by the Department of Defense or contracts for commercial products).
 
 (2) Listed below are additional clauses that may apply:
 

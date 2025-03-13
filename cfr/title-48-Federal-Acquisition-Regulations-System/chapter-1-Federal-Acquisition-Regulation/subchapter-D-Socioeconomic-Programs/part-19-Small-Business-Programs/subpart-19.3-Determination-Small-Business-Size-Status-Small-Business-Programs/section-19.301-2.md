@@ -1,5 +1,7 @@
 ##### 19.301-2 Rerepresentation by a contractor that represented itself as a small business concern. #####
 
+Link to an amendment published at 90 FR 522, Jan. 3, 2025.
+
 (a) *Definition.* As used in this subsection—
 
 *Long-term contract* means a contract of more than five years in duration, including options. However, the term does not include contracts that exceed five years in duration because the period of performance has been extended for a cumulative period not to exceed six months under the clause at 52.217-8, Option to Extend Services, or other appropriate authority.

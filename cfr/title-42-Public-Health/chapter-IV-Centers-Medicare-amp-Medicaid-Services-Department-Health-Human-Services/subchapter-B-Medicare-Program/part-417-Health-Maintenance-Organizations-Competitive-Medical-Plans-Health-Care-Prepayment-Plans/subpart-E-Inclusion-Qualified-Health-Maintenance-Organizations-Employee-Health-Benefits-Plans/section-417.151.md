@@ -1,6 +1,6 @@
 ##### § 417.151 Applicability. #####
 
-(a) *Basic rule.* Effective October 24, 1995,1 this subpart applies to any employing entity that offers a health benefits plan to its employees, meets the conditions specified in paragraphs (b) through (e) of this section, and elects to include one or more qualified HMOs in the health plan alternatives it offers its employees.
+(a) *Basic rule.* Effective October 24, 1995, 1 this subpart applies to any employing entity that offers a health benefits plan to its employees, meets the conditions specified in paragraphs (b) through (e) of this section, and elects to include one or more qualified HMOs in the health plan alternatives it offers its employees.
 
 1 Before October 24, 1995, an employing entity that met the conditions specified in § 417.151 was required to include one or more qualified HMOs, if it received from at least one qualified HMO a written request for inclusion and that request met the timing, content, and procedural requirements specified in § 417.152.
 

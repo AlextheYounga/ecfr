@@ -80,4 +80,4 @@ The term does not include a provider of services (as specified in § 489.2(b) of
 
 (g) *Reports.* The agency must provide any reports and documentation on compliance with this section that the Administrator may require.
 
-(Secs. 1102 and 1902(a)(37) of the Social Security Act (42 U.S.C. 1302, 1396a(a)(37)))[44 FR 30344, May 25, 1979, as amended at 55 FR 1434, Jan. 16, 1990]
+(Secs. 1102 and 1902(a)(37) of the Social Security Act (42 U.S.C. 1302, 1396a(a)(37))) [44 FR 30344, May 25, 1979, as amended at 55 FR 1434, Jan. 16, 1990]

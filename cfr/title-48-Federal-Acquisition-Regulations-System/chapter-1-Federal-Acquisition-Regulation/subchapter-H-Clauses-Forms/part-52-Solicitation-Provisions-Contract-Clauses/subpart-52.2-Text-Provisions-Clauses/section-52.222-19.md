@@ -1,5 +1,7 @@
 ##### 52.222-19 Child Labor—Cooperation with Authorities and Remedies. #####
 
+Link to an amendment published at 90 FR 517, Jan. 3, 2025.
+
 As prescribed in 22.1505(b), insert the following clause:
 
 Child Labor—Cooperation With Authorities and Remedies (FEB 2024)

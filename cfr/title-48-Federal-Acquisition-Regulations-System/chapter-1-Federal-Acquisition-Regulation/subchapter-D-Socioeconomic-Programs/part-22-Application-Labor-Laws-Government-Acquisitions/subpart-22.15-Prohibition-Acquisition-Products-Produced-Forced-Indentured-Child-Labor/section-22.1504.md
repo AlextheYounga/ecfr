@@ -1,5 +1,7 @@
 ##### 22.1504 Violations and remedies. #####
 
+Link to an amendment published at 90 FR 516, Jan. 3, 2025.
+
 (a) *Violations.* The Government may impose remedies set forth in paragraph (b) of this section for the following violations (note that the violations in paragraphs (a)(3) and (a)(4) of this section go beyond violations of the requirements relating to certification of end products) (see 22.1503):
 
 (1) The contractor has submitted a false certification regarding knowledge of the use of forced or indentured child labor.

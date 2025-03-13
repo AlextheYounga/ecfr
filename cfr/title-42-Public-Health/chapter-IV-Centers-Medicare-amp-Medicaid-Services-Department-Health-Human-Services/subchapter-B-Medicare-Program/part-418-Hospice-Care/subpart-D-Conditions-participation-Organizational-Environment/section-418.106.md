@@ -2,11 +2,11 @@
 
 Medical supplies and appliances, as described in § 410.36 of this chapter; durable medical equipment, as described in § 410.38 of this chapter; and drugs and biologicals related to the palliation and management of the terminal illness and related conditions, as identified in the hospice plan of care, must be provided by the hospice while the patient is under hospice care.
 
-(a) *Standard: Managing drugs and biologicals.*(1) A hospice that provides inpatient care directly in its own facility must provide pharmacy services under the direction of a qualified licensed pharmacist who is an employee of or under contract with the hospice. The provided pharmacist services must include evaluation of a patient's response to medication therapy, identification of potential adverse drug reactions, and recommended appropriate corrective action.
+(a) *Standard: Managing drugs and biologicals.* (1) A hospice that provides inpatient care directly in its own facility must provide pharmacy services under the direction of a qualified licensed pharmacist who is an employee of or under contract with the hospice. The provided pharmacist services must include evaluation of a patient's response to medication therapy, identification of potential adverse drug reactions, and recommended appropriate corrective action.
 
-(2) [Reserved]
+ (2) [Reserved]
 
-(b) *Standard: Ordering of drugs.*(1) Drugs may be ordered by any of the following practitioners:
+(b) *Standard: Ordering of drugs.* (1) Drugs may be ordered by any of the following practitioners:
 
 (i) A physician as defined by section 1861(r)(1) of the Act.
 

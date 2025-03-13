@@ -16,4 +16,4 @@ Link to an amendment published at 89 FR 80066, Oct. 2, 2024.
 
 (iii) Any other amounts due pursuant to 45 CFR 75.307, 75.371 through 75.385, and 75.316 through 75.325.
 
-Such total sum shall constitute a debt owed by the grantee to the Federal Government and shall be recovered from the grantee or its successors or assignees by setoff or other action as provided by law.[42 FR 60406, Nov. 25, 1977, as amended at 81 FR 3008, Jan. 20, 2016]
+Such total sum shall constitute a debt owed by the grantee to the Federal Government and shall be recovered from the grantee or its successors or assignees by setoff or other action as provided by law. [42 FR 60406, Nov. 25, 1977, as amended at 81 FR 3008, Jan. 20, 2016]

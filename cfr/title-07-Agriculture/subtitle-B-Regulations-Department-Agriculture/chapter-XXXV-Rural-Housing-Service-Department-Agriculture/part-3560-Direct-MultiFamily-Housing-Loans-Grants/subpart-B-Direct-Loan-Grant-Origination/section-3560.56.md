@@ -1,5 +1,7 @@
 ##### § 3560.56 Processing section 515 housing proposals. #####
 
+Link to an amendment published at 89 FR 106980, Dec. 31, 2024.
+
 Processing requirements for farm labor housing proposals are found in subpart L of this part for Off-Farm and subpart M of this part for On-Farm.
 
 (a) *Notice of Funding Availability (NOFA) responses.* (1) The Agency will publish an annual NOFA with deadlines and other information related to submission of new construction MFH proposals, including expansion of existing MFH in designated places selected in accordance with § 3560.57.

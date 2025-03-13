@@ -1,5 +1,7 @@
 ##### § 201.15 Attorneys or agents. #####
 
+Link to an amendment published at 90 FR 233, Jan. 3, 2025.
+
 (a) *In general.* No register of attorneys or agents who may practice before the Commission is maintained. No application for admission to practice is required. Any person desiring to appear as attorney or agent before the Commission may be required to show to the satisfaction of the Commission his acceptability in that capacity. Any attorney or agent practicing before the Commission, or desiring so to practice, may for good cause shown be suspended or barred from practicing before the Commission, or have imposed on him such lesser sanctions as the Commission deems appropriate, but only after he has been accorded an opportunity to present his views in the matter.
 
 (b) *Former officers or employees.* No former officer or employee of the Commission who personally and substantially participated in a matter which was pending in any manner or form in the Commission during his employment shall be eligible to appear before the Commission as attorney or agent in connection with such matter. No former officer or employee of the Commission shall be eligible to appear as attorney or agent before the Commission in connection with any matter which was pending in any manner or form in the Commission during his employment, unless he first obtains written consent from the Commission.

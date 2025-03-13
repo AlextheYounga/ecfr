@@ -350,8 +350,7 @@
 
 (7) *Exclusion from improvement measures.* Any measure that reverts back to the data underlying the previous year's Star Rating due to the adjustments made in paragraph (i) of this section is excluded from both the count of measures and the applicable improvement measures for the current and next year's Star Ratings for the affected contract. Contracts affected by extreme and uncontrollable circumstances do not have the option of reverting to the prior year's improvement rating.
 
-(8) *Missing data.* For an affected contract that has missing data in the current or previous year, the final measure rating comes from the current year unless any of the exemptions described in paragraphs (i)(2)(ii), (i)(3)(ii), and (i)(4)(ii) of this section apply.
-Missing data includes data where there is a data integrity issue as defined at § 422.164(g)(1).
+(8) *Missing data.* For an affected contract that has missing data in the current or previous year, the final measure rating comes from the current year unless any of the exemptions described in paragraphs (i)(2)(ii), (i)(3)(ii), and (i)(4)(ii) of this section apply. Missing data includes data where there is a data integrity issue as defined at § 422.164(g)(1).
 
 (9) *Cut points for non-CAHPS measures.* (i) Through the 2025 Star Ratings, CMS excludes the numeric values for affected contracts with 60 percent or more of their enrollees in the FEMA-designated Individual Assistance area at the time of the extreme and uncontrollable circumstance from the clustering algorithms described in paragraph (a)(2) of this section.
 

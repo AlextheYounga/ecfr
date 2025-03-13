@@ -1,5 +1,7 @@
 ##### § 207.15 Written briefs and conference. #####
 
+Link to an amendment published at 90 FR 235, Jan. 3, 2025.
+
 Each party may submit to the Commission on or before a date specified in the notice of investigation issued pursuant to 207.12 a written brief containing information and arguments pertinent to the subject matter of the investigation. Briefs shall be signed, shall include a table of contents, and shall contain no more than fifty (50) double-spaced and single-sided pages of textual material, and shall be filed electronically, and nine (9) true paper copies shall be submitted on the same business day (on paper measuring 8.5 × 11 inches, double-spaced and single-sided). Any person not a party may submit a brief written statement of information pertinent to the investigation within the time specified and the same manner specified for the filing of briefs. In addition, the presiding official may permit persons to file within a specified time answers to questions or requests made by the Commission's staff. If he deems it appropriate, the Director shall hold a conference. The conference, if any, shall be held in accordance with the procedures in § 201.13 of this chapter, except that in connection with its presentation a party may provide written witness testimony at the conference; if written testimony is provided, nine (9) true paper copies shall be submitted. The Director may request the appearance of witnesses, take testimony, and administer oaths.
 
 [79 FR 35924, June 25, 2014]

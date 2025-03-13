@@ -1,7 +1,5 @@
 ##### 52.204-7 System for Award Management. #####
 
-Link to an amendment published at 89 FR 101831, Dec. 16, 2024.
-
 As prescribed in 4.1105(a)(1), use the following provision.
 
 System for Award Management (NOV 2024)
@@ -50,8 +48,10 @@ System for Award Management (NOV 2024)
 
 (d) Processing time should be taken into consideration when registering. Offerors who are not registered in SAM should consider applying for registration immediately upon receipt of this solicitation. See *https://www.sam.gov* for information on registration.
 
+(End of provision)
+
 *Alternate I* (OCT 2018). As prescribed in 4.1105(a)(2), substitute the following paragraph (b)(1) for paragraph (b)(1) of the basic provision:
 
 (b)(1) An Offeror is required to be registered in SAM as soon as possible. If registration is not possible when submitting an offer or quotation, the awardee shall be registered in SAM in accordance with the requirements of clause 52.204-13, System for Award Management Maintenance.
 
-[68 FR 56674, Oct. 1, 2003, as amended at 68 FR 69259, Dec. 11, 2003; 71 FR 36925, June 28, 2006; 73 FR 21778, Apr. 22, 2008; 74 FR 52849, Oct. 14, 2009; 77 FR 188, Jan. 3, 2012; 77 FR 44058, July 26, 2012; 77 FR 69719, Nov. 20, 2012; 78 FR 37680, June 21, 2013; 81 FR 67739, Sept. 30, 2016; 83 FR 48698, Sept. 26, 2018; 89 FR 89475, Nov. 12, 2024]
+[68 FR 56674, Oct. 1, 2003, as amended at 68 FR 69259, Dec. 11, 2003; 71 FR 36925, June 28, 2006; 73 FR 21778, Apr. 22, 2008; 74 FR 52849, Oct. 14, 2009; 77 FR 188, Jan. 3, 2012; 77 FR 44058, July 26, 2012; 77 FR 69719, Nov. 20, 2012; 78 FR 37680, June 21, 2013; 81 FR 67739, Sept. 30, 2016; 83 FR 48698, Sept. 26, 2018; 89 FR 89475, Nov. 12, 2024; 89 FR 101831, Dec. 16, 2024]

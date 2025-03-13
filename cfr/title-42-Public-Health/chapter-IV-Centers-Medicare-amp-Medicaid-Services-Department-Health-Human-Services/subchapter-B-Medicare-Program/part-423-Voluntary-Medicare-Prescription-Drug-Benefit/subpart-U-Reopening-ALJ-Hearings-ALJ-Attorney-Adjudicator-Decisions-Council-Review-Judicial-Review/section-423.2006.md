@@ -8,7 +8,7 @@
 
 (b) *Judicial review.* To be entitled to judicial review, the enrollee must meet the amount in controversy requirements of this subpart at the time it requests judicial review. For review requests, the required amount remaining in controversy must be $1,000 or more, adjusted as specified in paragraphs (a)(1) and (2) of this section.
 
-(c) *Calculating the amount remaining in controversy.*(1) The amount remaining in controversy is computed as the projected value described in paragraph (c)(2) or (3) of this section, reduced by any cost sharing amounts, including deductible, coinsurance, or copayment amounts that may be collected from the enrollee for the Part D drug(s).
+(c) *Calculating the amount remaining in controversy.* (1) The amount remaining in controversy is computed as the projected value described in paragraph (c)(2) or (3) of this section, reduced by any cost sharing amounts, including deductible, coinsurance, or copayment amounts that may be collected from the enrollee for the Part D drug(s).
 
 (2) If the basis for the appeal is the refusal by the Part D plan sponsor to provide drug benefits, the projected value of those benefits is used to compute the amount remaining in controversy. The projected value of a Part D drug or drugs must include any costs the enrollee could incur based on the number of refills prescribed for the drug(s) in dispute during the plan year.
 

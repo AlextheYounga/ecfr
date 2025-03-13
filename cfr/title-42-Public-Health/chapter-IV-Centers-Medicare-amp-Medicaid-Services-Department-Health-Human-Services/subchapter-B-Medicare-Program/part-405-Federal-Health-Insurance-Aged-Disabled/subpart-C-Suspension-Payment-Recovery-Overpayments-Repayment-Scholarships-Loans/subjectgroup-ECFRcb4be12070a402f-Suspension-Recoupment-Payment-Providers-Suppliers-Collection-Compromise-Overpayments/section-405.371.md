@@ -50,5 +50,4 @@
 
 (2) In the case of an unfiled hospice cap determination report, the provisions of § 405.372 do not apply. (See § 405.372(a)(2) concerning failure to furnish other information.)
 
-[76 FR 5961, Feb. 2, 2011, as amended at 79 FR 50509, Aug. 22, 2014; 84 FR 47852, Sept. 10, 2019]
-i
+[76 FR 5961, Feb. 2, 2011, as amended at 79 FR 50509, Aug. 22, 2014; 84 FR 47852, Sept. 10, 2019] i

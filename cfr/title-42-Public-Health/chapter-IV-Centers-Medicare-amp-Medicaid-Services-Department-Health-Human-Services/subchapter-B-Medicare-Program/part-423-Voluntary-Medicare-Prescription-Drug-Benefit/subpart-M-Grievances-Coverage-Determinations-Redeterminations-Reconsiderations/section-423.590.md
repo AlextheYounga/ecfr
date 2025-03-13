@@ -4,7 +4,7 @@
 
 (2) If the Part D plan sponsor makes a redetermination that affirms, in whole or in part, its adverse coverage determination or at-risk determination, it must notify the enrollee in writing of its redetermination as expeditiously as the enrollee's health condition requires, but no later than 7 calendar days from the date it receives the request for a standard redetermination.
 
-(b) *Standard redetermination—request for payment.*(1) If the Part D plan sponsor makes a redetermination that is completely favorable to the enrollee, the Part D plan sponsor must issue its redetermination (and effectuate it in accordance with § 423.636(a)(2)) no later than 14 calendar days from the date it receives the request for redetermination.
+(b) *Standard redetermination—request for payment.* (1) If the Part D plan sponsor makes a redetermination that is completely favorable to the enrollee, the Part D plan sponsor must issue its redetermination (and effectuate it in accordance with § 423.636(a)(2)) no later than 14 calendar days from the date it receives the request for redetermination.
 
 (2) If the Part D plan sponsor affirms, in whole or in part, its adverse coverage determination, it must notify the enrollee in writing of its redetermination no later than 14 calendar days from the date it receives the request for redetermination.
 

@@ -1,5 +1,7 @@
 ##### § 201.8 Filing of documents. #####
 
+Link to an amendment published at 90 FR 232, Jan. 3, 2025.
+
 (a) *Applicability; where to file; date of filing.* This section applies to all Commission proceedings except, notwithstanding any other section of this chapter, those conducted under 19 U.S.C. 1337, which are covered by requirements set out in part 210 of this chapter. Documents shall be filed at the office of the Secretary of the Commission in Washington, DC. Such documents, if properly filed within the hours of operation specified in § 201.3(c), will be deemed to be filed on the date on which they are actually received in the Commission.
 
 (b) *Conformity with rules.* Each document filed with the Commission for the purpose of initiating any investigation shall be considered properly filed if it conforms with the pertinent rules prescribed in this chapter. Substantial compliance with the pertinent rules may be accepted by the Commission provided good and sufficient reason is stated in the document for inability to comply fully with the pertinent rules.

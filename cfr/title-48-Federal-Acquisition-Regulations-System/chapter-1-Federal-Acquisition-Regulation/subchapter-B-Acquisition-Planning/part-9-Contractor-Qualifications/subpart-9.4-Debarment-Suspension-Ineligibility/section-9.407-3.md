@@ -1,5 +1,7 @@
 ##### 9.407-3 Procedures. #####
 
+Link to an amendment published at 90 FR 515, Jan. 3, 2025.
+
 (a) *Investigation and referral.* Agencies shall establish procedures for the prompt reporting, investigation, and referral to the suspending official of matters appropriate for that official's consideration.
 
 (b) *Decisionmaking process.* (1) Agencies shall establish procedures governing the suspension decisionmaking process that are as informal as is practicable, consistent with principles of fundamental fairness. These procedures shall afford the contractor (and any specifically named affiliates) an opportunity, following the imposition of suspension, to submit, in person, in writing, or through a representative, information and argument in opposition to the suspension.

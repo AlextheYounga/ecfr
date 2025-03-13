@@ -1,6 +1,6 @@
 ##### § 52d.4 Application. #####
 
-(a) Application for a grant under this subpart shall be made on an authorized form.1 Applicants shall submit completed forms, on or before the dates the Director, NCI, may prescribe.
+(a) Application for a grant under this subpart shall be made on an authorized form. 1 Applicants shall submit completed forms, on or before the dates the Director, NCI, may prescribe.
 
 1 Applications and instructions are available from the Division of Cancer Research Resources and Centers, Education Branch, Westwood Building, 5333 Westbard Avenue, Bethesda, MD 20205.
 

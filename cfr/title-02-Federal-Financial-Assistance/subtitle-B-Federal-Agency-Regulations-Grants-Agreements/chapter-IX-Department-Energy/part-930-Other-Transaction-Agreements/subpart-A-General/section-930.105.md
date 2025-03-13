@@ -1,0 +1,3 @@
+##### § 930.105 Other transaction (OT) agreements. #####
+
+For purposes of this part, An other transaction (OT) agreement means any agreement, including technology investment agreement (TIA) between the Department of Energy and/or the National Nuclear Security Administration and a non-Federal entity for the principal purpose of carrying out an research, development, and demonstration project for which the use of a Federal procurement contract, grant, or cooperative agreement is not feasible or appropriate. The OT agreement must comply with the regulations set forth in this part. Additional requirements for TIAs are set forth in subpart D of this part.

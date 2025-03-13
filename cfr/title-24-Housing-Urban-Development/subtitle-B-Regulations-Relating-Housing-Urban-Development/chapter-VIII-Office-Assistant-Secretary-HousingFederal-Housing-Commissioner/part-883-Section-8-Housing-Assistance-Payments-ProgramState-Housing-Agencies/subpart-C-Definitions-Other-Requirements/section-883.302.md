@@ -1,7 +1,5 @@
 ##### § 883.302 Definitions. #####
 
-Link to an amendment published at 89 FR 96098, Dec. 4, 2024.
-
 The terms *Fair Market Rent (FMR), HUD,* and *Public Housing Agency (PHA)* are defined in 24 CFR part 5.
 
 *ACC (Annual Contributions Contract).* The contract between the State Agency and HUD under which HUD commits to provide the Agency with the funds needed to make housing assistance payments to the Owner and to pay the Agency for administrative fees in cases where it is eligible for them.
@@ -32,6 +30,8 @@ The terms *Fair Market Rent (FMR), HUD,* and *Public Housing Agency (PHA)* are d
 
 *Gross Rent.* As defined in part 813 of this chapter.
 
+*HFA (Housing Finance Agency).* While the Annual Contributions Contract between the State Agency and HUD is in effect, “Housing Finance Agency” and “HFA” means a State Agency that provided permanent financing for newly constructed or substantially rehabilitated housing processed under this part and financed without Federal mortgage insurance or a Federal guarantee except coinsurance under section 244 of the National Housing Act. When the Annual Contributions Contract between the State Agency and HUD is no longer in effect, “Housing Finance Agency” and “HFA,” as used in this part and in the Housing Assistance Payments Contract, means “Contract Administrator,” as defined in 24 CFR 880.201.
+
 *Household type.* The three household types are (1) elderly and handicapped, (2) family, and (3) large family.
 
 *Housing Assistance Payment.* The payment made to the Owner of an assisted unit by the State Agency as provided in the Contract. Where the unit is leased to an eligible Family, the payment is the difference between the Contract Rent and the Tenant Rent. An additional payment is made to the Family when the Utility Allowance is greater than Total Tenant Payment. In the case of a Family renting only a manufactured home space as provided in § 883.303(i), the Housing Assistance Payment is the difference between Gross Rent and the Total Tenant Payment, but such payment may not exceed the Contract Rent for the space, and no additional payment is made to the Family. A Housing Assistance Payment, known as a “vacancy payment”, may be made to the Owner when an assisted unit is vacant, as provided in § 883.712.
@@ -39,8 +39,6 @@ The terms *Fair Market Rent (FMR), HUD,* and *Public Housing Agency (PHA)* are d
 *Housing Assistance Plan (HAP).* A housing plan submitted by a unit of general local or State government and approved by HUD as being acceptable under the standards of 24 CFR part 570.
 
 *Housing type.* The three housing types are new construction, substantial rehabilitation, and existing housing/moderate rehabilitation.
-
-*HFA (Housing Finance Agency).* A State Agency which provides permanent financing for newly constructed or substantially rehabilitated housing processed under subpart D and financed without Federal mortgage insurance or a Federal guarantee except coinsurance under Section 244 of the National Housing Act.
 
 *Independent Public Accountant.* Certified Public Accountant or a licensed or registered public accountant, none of which has a business relationship with the owner or State Agency except for the performance of audit, systems work and tax preparation. If not certified, the Independent Public Accountant must have been licensed or registered by a regulatory authority of a State or other political subdivision of the United States on or before December 31, 1970. In States that do not regulate the use of the title “public accountant,” only Certified Public Accountants may be used.
 
@@ -78,7 +76,7 @@ The terms *Fair Market Rent (FMR), HUD,* and *Public Housing Agency (PHA)* are d
 
 *Small Project.* A project for non-elderly families under this part which includes a total of 50 or fewer units (assisted and unassisted).
 
-*State Agency (Agency).* An agency which has been notified by HUD in accordance with § 883.203 that it is authorized to apply for a set-aside and/or to use the Fast Track Procedures of this part.
+*State Agency (Agency).* While the Annual Contributions Contract between the State Agency and HUD is in effect, “State Agency” and “Agency” means an agency that has been notified by HUD that it is authorized to apply for a set-aside and/or to use the Fast Track Procedures of this part. When the Annual Contributions Contract between the State Agency and HUD is no longer in effect, “State Agency” and “Agency,” as used in this part and in the Housing Assistance Payments Contract, mean “Contract Administrator,” as defined in 24 CFR 880.201.
 
 *Substantial rehabilitation.* (a) The improvement of a property to decent, safe and sanitary condition in accordance with the standards of this part from a condition below these standards. Substantial Rehabilitation may vary in degree from gutting and extensive reconstruction to the cure of substantial accumulation of deferred maintenance. Cosmetic improvements alone do not qualify as Substantial Rehabilitation under this definition.
 
@@ -104,4 +102,4 @@ The terms *Fair Market Rent (FMR), HUD,* and *Public Housing Agency (PHA)* are d
 
 *Very Low-Income Family.* As defined in part 813 of this chapter.
 
-[45 FR 6889, Jan. 30, 1980, as amended at 45 FR 56326, Aug. 22, 1980; 48 FR 12708, Mar. 28, 1983; 49 FR 17449, Apr. 24, 1984; 49 FR 19946, May 10, 1984; 61 FR 5213, Feb. 9, 1996; 61 FR 13592, Mar. 27, 1996; 63 FR 46579, Sept. 1, 1998; 70 FR 77744, Dec. 30, 2005; 81 FR 80813, Nov. 16, 2016]
+[45 FR 6889, Jan. 30, 1980, as amended at 45 FR 56326, Aug. 22, 1980; 48 FR 12708, Mar. 28, 1983; 49 FR 17449, Apr. 24, 1984; 49 FR 19946, May 10, 1984; 61 FR 5213, Feb. 9, 1996; 61 FR 13592, Mar. 27, 1996; 63 FR 46579, Sept. 1, 1998; 70 FR 77744, Dec. 30, 2005; 81 FR 80813, Nov. 16, 2016; 89 FR 96098, Dec. 4, 2024]

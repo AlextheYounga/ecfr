@@ -1,5 +1,7 @@
 ##### § 210.51 Period for concluding investigation. #####
 
+Link to an amendment published at 90 FR 246, Jan. 3, 2025.
+
 (a) *Permanent relief.* Within 45 days after institution of an original investigation on whether there is a violation of section 337, or an investigation which is a formal enforcement proceeding, the administrative law judge shall issue an order setting a target date for completion of the investigation. After the target date has been set, it can be modified by the administrative law judge for good cause shown before the investigation is certified to the Commission or by the Commission after the investigation is certified to the Commission.
 
 (1) *Original investigations.* If the target date does not exceed 16 months from the date of institution of an original investigation, the order of the administrative law judge shall be final and not subject to interlocutory review. If the target date exceeds 16 months, the order of the administrative law judge shall constitute an initial determination. Any extension of the target date beyond 16 months, before the investigation is certified to the Commission, shall be by initial determination.

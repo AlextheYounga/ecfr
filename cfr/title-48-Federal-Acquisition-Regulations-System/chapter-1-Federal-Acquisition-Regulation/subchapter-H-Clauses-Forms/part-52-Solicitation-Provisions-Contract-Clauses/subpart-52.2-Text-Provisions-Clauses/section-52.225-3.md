@@ -1,7 +1,5 @@
 ##### 52.225-3 Buy American—Free Trade Agreements—Israeli Trade Act. #####
 
-Link to an amendment published at 89 FR 101831, Dec. 16, 2024.
-
 As prescribed in 25.1101(b)(1)(i), insert the following clause:
 
 Buy American—Free Trade Agreements—Israeli Trade Act (NOV 2023)
@@ -84,9 +82,9 @@ Buy American—Free Trade Agreements—Israeli Trade Act (NOV 2023)
 
 *Alternate I* [Reserved]
 
-*Alternate II* (DEC 2022). As prescribed in 25.1101(b)(1)(ii), substitute the following paragraph (c) for paragraph (c) of the basic clause:
+*Alternate II* (JAN 2025). As prescribed in 25.1101(b)(1)(ii), substitute the following paragraph (c) for paragraph (c) of the basic clause:
 
-(c) *Delivery of end products.* 41 U.S.C. chapter 83 provides a preference for domestic end products for supplies acquired for use in the United States. In accordance with 41 U.S.C. 1907, the domestic content test of the Buy American statute is waived for an end product that is a COTS item (see 12.505(a)(1)), except that for an end product that consists wholly or predominantly of iron or steel or a combination of both, the domestic content test is applied only to the iron and steel content of the end product, excluding COTS fasteners. In addition, the Contracting Officer has determined that the Israeli Trade Act applies to this acquisition. Unless otherwise specified, this trade agreement applies to all items in the Schedule. The Contractor shall deliver under this contract only domestic end products except to the extent that, in its offer, it specified delivery of foreign end products in the provision entitled “Buy American—Free Trade Agreements—Israeli Trade Act.” If the Contractor specified in its offer that the Contractor would supply an Israeli end product, then the Contractor shall supply an Israeli end product or, at the Contractor's option, a domestic end product.
+(c) *Delivery of end products.* 41 U.S.C. chapter 83 provides a preference for domestic end products for supplies acquired for use in the United States. In accordance with 41 U.S.C. 1907, the domestic content test of the Buy American statute is waived for an end product that is a COTS item (see 12.505(a)(1)), except that for an end product that consists wholly or predominantly of iron or steel or a combination of both, the domestic content test is applied only to the iron and steel content of the end product, excluding COTS fasteners. In addition, the Contracting Officer has determined that the Israeli Trade Act applies to this acquisition. Unless otherwise specified, this trade agreement applies to all items in the Schedule. The Contractor shall deliver under this contract only domestic end products except to the extent that, in its offer, it specified delivery of foreign end products in the provision entitled “Buy American—Free Trade Agreements—Israeli Trade Act Certificate.” If the Contractor specified in its offer that the Contractor would supply an Israeli end product, then the Contractor shall supply an Israeli end product or, at the Contractor's option, a domestic end product.
 
 *Alternate III* (FEB 2024). As prescribed in 25.1101(b)(1)(iii), delete the definition of “Bahraini, Moroccan, Omani, Panamanian, or Peruvian end product” and add in its place the following definition of “Korean end product” in paragraph (a) of the basic clause; and substitute the following paragraph (c) for paragraph (c) of the basic clause.
 

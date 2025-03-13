@@ -92,7 +92,7 @@
 
 (2) The new medical service or technology is the subject of a complete and active FDA marketing authorization request and documentation of FDA acceptance or filing of the request is provided to CMS.
 
-(f) *Announcement of determinations and deadline for consideration of new medical service or technology applications, and conditional approval for certain antimicrobial products.*(1) CMS will consider whether a new medical service or technology meets the eligibility criteria specified in paragraph (b), (c), or (d) of this section and announce the results in the Federal Register as part of its annual updates and changes to the IPPS. CMS will only consider any particular new medical service or technology for add-on payments under paragraph (b), (c), or (d) of this section.
+(f) *Announcement of determinations and deadline for consideration of new medical service or technology applications, and conditional approval for certain antimicrobial products.* (1) CMS will consider whether a new medical service or technology meets the eligibility criteria specified in paragraph (b), (c), or (d) of this section and announce the results in the Federal Register as part of its annual updates and changes to the IPPS. CMS will only consider any particular new medical service or technology for add-on payments under paragraph (b), (c), or (d) of this section.
 
 (2) Except as provided for in paragraph (f)(3) of this section, CMS only considers, for add-on payments for a particular fiscal year, an application for which the new medical service or technology has received FDA marketing authorization by May 1 prior to the particular fiscal year.
 

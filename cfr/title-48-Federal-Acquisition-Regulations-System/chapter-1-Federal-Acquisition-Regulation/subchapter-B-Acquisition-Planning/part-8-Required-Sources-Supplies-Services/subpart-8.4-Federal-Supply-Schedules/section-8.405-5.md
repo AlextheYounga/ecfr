@@ -1,5 +1,7 @@
 ##### 8.405-5 Small business. #####
 
+Link to an amendment published at 90 FR 522, Jan. 3, 2025.
+
 (a) Although the preference programs of part 19 are not mandatory in this subpart, in accordance with section 1331 of Public Law 111-240 (15 U.S.C. 644(r))—
 
 (1) Ordering activity contracting officers may, at their discretion—

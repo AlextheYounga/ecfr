@@ -1,5 +1,7 @@
 ##### 25.206 Noncompliance. #####
 
+Link to an amendment published at 90 FR 516, Jan. 3, 2025.
+
 The contracting officer must—
 
 (a) Review allegations of Buy American statute violations;

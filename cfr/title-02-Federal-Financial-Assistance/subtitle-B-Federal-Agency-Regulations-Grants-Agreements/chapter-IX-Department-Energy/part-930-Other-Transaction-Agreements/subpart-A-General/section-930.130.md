@@ -1,0 +1,3 @@
+##### § 930.130 Fee or profit. #####
+
+The Agreements Officer, meaning the cognizant warranted Department of Energy or National Nuclear Security Administration official authorized to execute and administer other transaction (OT) agreements, may not issue an OT agreement if any awardee, subawardees or participant is to receive fee or profit for the research, development, and demonstration (RD&D) efforts. This requirement extends to all awardees and performers funded under the project, including any subawards for substantive program performance, but it does not preclude participants' or subawardees' payment of reasonable fee or profit when making purchases from suppliers of goods (*e.g.,* supplies and equipment) or services needed to carry out the RD&D.

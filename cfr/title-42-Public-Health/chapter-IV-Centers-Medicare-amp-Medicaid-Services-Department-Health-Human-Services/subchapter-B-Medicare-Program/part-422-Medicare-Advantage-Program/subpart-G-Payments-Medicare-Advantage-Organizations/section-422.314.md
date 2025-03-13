@@ -18,9 +18,9 @@
 
 (c) *Deposit in the MA MSA.* (1) The payment is calculated as follows:
 
-(i) The monthly MA MSA premium is compared with1/12 of the annual capitation rate applied under this section for the.
+(i) The monthly MA MSA premium is compared with 1/12 of the annual capitation rate applied under this section for the.
 
-(ii) If the monthly MA MSA premium is less than1/12 of the annual capitation rate applied under this section for the area, the difference is the amount to be deposited in the MA MSA for each month for which the beneficiary is enrolled in the MSA plan.
+(ii) If the monthly MA MSA premium is less than 1/12 of the annual capitation rate applied under this section for the area, the difference is the amount to be deposited in the MA MSA for each month for which the beneficiary is enrolled in the MSA plan.
 
 (2) CMS deposits the full amount to which a beneficiary is entitled under paragraph (c)(1)(ii) of this section for the calendar year, beginning with the month in which MA MSA coverage begins.
 

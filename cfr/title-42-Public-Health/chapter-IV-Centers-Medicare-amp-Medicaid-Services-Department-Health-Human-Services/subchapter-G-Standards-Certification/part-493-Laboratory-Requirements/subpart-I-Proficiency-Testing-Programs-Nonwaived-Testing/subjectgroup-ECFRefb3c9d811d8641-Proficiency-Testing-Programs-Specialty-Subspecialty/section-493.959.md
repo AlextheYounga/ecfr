@@ -14,7 +14,7 @@
 
 (c) *Challenges per testing event.* The minimum number of challenges per testing event a program must provide for each analyte or test procedure is five.
 
-Analyte or Test ProcedureABO group (excluding subgroups)D (Rho) typingUnexpected antibody detectionCompatibility testingAntibody identification
+Analyte or Test Procedure ABO group (excluding subgroups) D (Rho) typing Unexpected antibody detection Compatibility testing Antibody identification
 
 (d) *Evaluation of a laboratory's analyte or test performance.* HHS approves only those programs that assess the accuracy of a laboratory's response in accordance with paragraphs (d)(1) through (5) of this section.
 

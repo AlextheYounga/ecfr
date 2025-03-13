@@ -26,7 +26,7 @@
 
 (iv) CMS reduces the payment rate for each renal dialysis treatment by the same amount that CMS is authorized to reduce the amount of each composite rate payment for each treatment as set forth in section 1881(b)(7) of the Act. These funds are to be used to help pay for the ESRD network program in the same manner as similar reductions are used in original Medicare.
 
-(2) *MSA enrollees.* In the case of an MSA plan, CMS pays the unadjusted MA area-specific non-drug monthly benchmark amount for the service area, determined in accordance with § 422.314(c) and subject to risk adjustment as set forth at § 422.308(c), less1/12 of the annual lump sum amount (if any) CMS deposits to the enrollee's MA MSA.
+(2) *MSA enrollees.* In the case of an MSA plan, CMS pays the unadjusted MA area-specific non-drug monthly benchmark amount for the service area, determined in accordance with § 422.314(c) and subject to risk adjustment as set forth at § 422.308(c), less 1/12 of the annual lump sum amount (if any) CMS deposits to the enrollee's MA MSA.
 
 (3) *RFB plan enrollees.* For RFB plan enrollees, CMS adjusts the capitation payments otherwise determined under this subpart to ensure that the payment level is appropriate for the actuarial characteristics and experience of these enrollees. That adjustment can be made on an individual or organization basis.
 

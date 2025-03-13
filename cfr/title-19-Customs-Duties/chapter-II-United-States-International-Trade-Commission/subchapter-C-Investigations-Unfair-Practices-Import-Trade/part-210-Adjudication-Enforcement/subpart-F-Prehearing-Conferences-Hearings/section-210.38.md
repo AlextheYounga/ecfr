@@ -1,5 +1,7 @@
 ##### § 210.38 Record. #####
 
+Link to an amendment published at 90 FR 245, Jan. 3, 2025.
+
 (a) *Definition of the record.* The record shall consist of all pleadings, the notice of investigation, motions and responses, all briefs and written statements, and other documents and things properly filed with the Secretary, in addition to all orders, notices, and initial determinations of the administrative law judge, orders and notices of the Commission, hearing and conference transcripts, evidence admitted into the record (including physical exhibits), and any other items certified into the record by the administrative law judge or the Commission.
 
 (b) *Reporting and transcription.* Hearings shall be reported and transcribed by the official reporter of the Commission under the supervision of the administrative law judge, and the transcript shall be a part of the record.

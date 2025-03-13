@@ -4,6 +4,6 @@
 
 (Note:
 
-These are prescribed in chapter 3-140 of the Department Grants Administration Manual2).
+These are prescribed in chapter 3-140 of the Department Grants Administration Manual 2).
 
 (b) Payments of stipends and allowances will, at the discretion of the Secretary, be made directly to the trainee or to the sponsoring institution for payment directly to the trainee.

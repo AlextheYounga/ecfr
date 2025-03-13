@@ -132,7 +132,7 @@
 
 (ii) Expenditures that benefit multiple contracts, or contracts other than those being reported, including but not limited to those that are for or benefit self-funded plans, must be reported on a pro rata share.
 
-(2) *Description of the methods used to allocate expenses.*(i) Allocation to each category must be based on a generally accepted accounting method that is expected to yield the most accurate results. Specific identification of an expense with an activity that is represented by one of the categories in paragraph (b) or (c) of this section will generally be the most accurate method.
+(2) *Description of the methods used to allocate expenses.* (i) Allocation to each category must be based on a generally accepted accounting method that is expected to yield the most accurate results. Specific identification of an expense with an activity that is represented by one of the categories in paragraph (b) or (c) of this section will generally be the most accurate method.
 
 (ii) Shared expenses, including expenses under the terms of a management contract, must be apportioned pro rata to the entities incurring the expense.
 

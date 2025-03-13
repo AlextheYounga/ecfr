@@ -1,6 +1,6 @@
 ##### § 52e.4 How to apply. #####
 
-(a) Application for a grant under this subpart shall be made on an authorized form.2 Applicants shall submit completed forms on or before the dates the Director may prescribe.
+(a) Application for a grant under this subpart shall be made on an authorized form. 2 Applicants shall submit completed forms on or before the dates the Director may prescribe.
 
 2 Applications and instructions are available from the Division of Extramural Affairs, National Heart, Lung, and Blood Institute, National Institutes of Health, 9000 Rockville Pike, Bethesda, MD 20205.
 

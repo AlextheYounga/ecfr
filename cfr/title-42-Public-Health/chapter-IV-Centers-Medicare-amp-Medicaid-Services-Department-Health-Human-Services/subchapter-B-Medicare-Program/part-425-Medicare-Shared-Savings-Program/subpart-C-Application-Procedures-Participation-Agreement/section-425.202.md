@@ -6,8 +6,7 @@
 
 (3) An ACO that seeks to participate in the Shared Savings Program must agree that CMS can share a copy of their application with the Antitrust Agencies.
 
-(b) *Condensed application form.* For determining eligibility for agreement periods beginning before July 1, 2019:
-(1) PGP demonstration sites applying to participate in the Shared Savings Program will have an opportunity to complete a condensed application form.
+(b) *Condensed application form.* For determining eligibility for agreement periods beginning before July 1, 2019: (1) PGP demonstration sites applying to participate in the Shared Savings Program will have an opportunity to complete a condensed application form.
 
 (2) A Pioneer ACO may use a condensed application form to apply for participation in the Shared Savings Program if it satisfies all of the following criteria:
 

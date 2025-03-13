@@ -1,5 +1,7 @@
 ##### 9.403 Definitions. #####
 
+Link to an amendment published at 90 FR 511, Jan. 3, 2025.
+
 As used in this subpart—
 
 *Affiliates.* (1) Business concerns, organizations, or individuals are affiliates of each other if, directly or indirectly—

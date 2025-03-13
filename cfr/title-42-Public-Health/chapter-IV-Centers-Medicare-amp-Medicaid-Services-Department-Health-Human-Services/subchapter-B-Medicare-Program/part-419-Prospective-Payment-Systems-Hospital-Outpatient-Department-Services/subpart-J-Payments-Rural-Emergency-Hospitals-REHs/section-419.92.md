@@ -4,7 +4,7 @@
 
 (2) *Beneficiary copayment.* The beneficiary copayment for a REH service is the amount determined under section 1833(t)(8) of the Act for the equivalent covered OPD service, excluding the 5 percent payment increase described in paragraph (a)(1) of this section.
 
-(b) *Monthly facility payment.* Effective January 1, 2023, REHs are paid a monthly facility payment equal to1/12 of the annual additional facility payment amount described in paragraphs (b)(1) and (2) of this section.
+(b) *Monthly facility payment.* Effective January 1, 2023, REHs are paid a monthly facility payment equal to 1/12 of the annual additional facility payment amount described in paragraphs (b)(1) and (2) of this section.
 
 (1) *Calculation of monthly facility payment for 2023.* For calendar year 2023, the annual additional facility payment amount is:
 

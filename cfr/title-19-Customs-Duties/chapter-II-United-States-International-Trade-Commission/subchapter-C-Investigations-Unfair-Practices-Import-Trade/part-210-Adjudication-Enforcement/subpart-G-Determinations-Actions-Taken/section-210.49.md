@@ -1,5 +1,7 @@
 ##### § 210.49 Implementation of Commission action. #####
 
+Link to an amendment published at 90 FR 246, Jan. 3, 2025.
+
 (a) *Service of Commission determination upon the parties.* A Commission determination pursuant to § 210.45(c) or a termination on the basis of a licensing or other agreement, a consent order or an arbitration agreement pursuant to § 210.21(b), (c) or (d), respectively, shall be served upon each party to the investigation.
 
 (b) *Publication and transmittal to the President.* A Commission determination that there is a violation of section 337 of the Tariff Act of 1930 or that there is reason to believe that there is a violation, together with the action taken relative to such determination under § 210.50(a) or § 210.50(d) of this part, or the modification or rescission in whole or in part of an action taken under § 210.50(a), shall promptly be published in the Federal Register. It shall also be promptly transmitted to the President or an officer assigned the functions of the President under 19 U.S.C. 1337(j)(1)(B), 1337(j)(2), and 1337(j)(4), together with the record upon which the determination and the action are based.

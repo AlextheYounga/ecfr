@@ -1,6 +1,6 @@
 ##### § 128.203 Who does SBA consider to control a VOSB or SDVOSB? #####
 
-Link to an amendment published at 89 FR 96094, Dec. 4, 2024.Link to an amendment published at 89 FR 102508, Dec. 17, 2024.
+Link to an amendment published at 89 FR 102508, Dec. 17, 2024.
 
 (a) *General.* To be an eligible VOSB, the management and daily business operations of the concern must be controlled by one or more veterans. To be an eligible SDVOSB, the management and daily business operations of the concern must be controlled by one or more service-disabled veterans (or in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran). Control by one or more qualifying veterans means that one or more qualifying veterans controls both the long-term decision-making and the day-to-day operations of the Applicant or Participant.
 
@@ -52,7 +52,11 @@ Link to an amendment published at 89 FR 96094, Dec. 4, 2024.Link to an amendment
 
 (ii) Receive compensation from the concern in any form as a director, officer, or employee, that exceeds the compensation to be received by the qualifying veteran who holds the highest officer position (usually Chief Executive Officer or President), unless the concern demonstrates that the compensation to be received by the non-qualifying veteran is commercially reasonable or that the qualifying veteran has elected to take lower compensation to benefit the concern.
 
-(i) *Limitation on outside employment.* The qualifying veteran who holds the highest officer position of the business concern may not engage in outside employment that prevent the qualifying veteran from devoting the time and attention to the concern necessary to control its management and daily business operations. A qualifying veteran generally must devote full-time during the business's normal hours of operations, unless the concern demonstrates that the qualifying veteran has ultimate managerial and supervisory control over both the long-term decision making and day-to-day management of the concern. Where a qualifying veteran claiming to control a business concern devotes fewer hours to the business than its normal hours of operation, SBA will assume that the qualifying veteran does not control the concern, unless the concern demonstrates that the qualifying veteran has ultimate managerial and supervisory control over both the long-term decision making and day-to-day management of the business.
+(i) *Limitation on outside employment.* (1) A qualifying veteran generally must devote full time to the business concern during its normal hours of operations. The qualifying veteran who holds the highest officer position of the business concern may not engage in outside employment that prevents the qualifying veteran from devoting the time and attention to the concern necessary to control its management and daily business operations.
+
+(2) Where a qualifying veteran claiming to control a business concern devotes fewer hours to the business than its normal hours of operation, SBA will assume that the qualifying veteran does not control the business concern, unless the concern demonstrates that the qualifying veteran has ultimate managerial and supervisory control over both the long-term decision making and day-to-day management of the business.
+
+(3) Any qualifying veteran who seeks to engage in outside employment after certification must notify SBA of the nature and anticipated duration of the outside employment and demonstrate to SBA that the outside employment will not prevent the qualifying veteran from controlling the business concern.
 
 (j) *Exception for extraordinary circumstances.* SBA will not find that a lack of control exists where a qualifying veteran does not have the unilateral power and authority to make decisions regarding the following extraordinary circumstances:
 
@@ -68,4 +72,4 @@ Link to an amendment published at 89 FR 96094, Dec. 4, 2024.Link to an amendment
 
 (k) *Exception for active duty.* Notwithstanding the requirements of this section, where a qualifying veteran is a reserve component member in the United States military who has been called to active duty, the concern may elect to designate in writing one or more individuals to control the concern on behalf of the qualifying veteran during the period of active duty. The concern must keep records evidencing the qualifying veteran's active duty status and the written designation of control and provide those documents to SBA.
 
-[87 FR 73412, Nov. 29, 2022, as amended at 88 FR 26216, Apr. 27, 2023]
+[87 FR 73412, Nov. 29, 2022, as amended at 88 FR 26216, Apr. 27, 2023; 89 FR 96094, Dec. 4, 2024]

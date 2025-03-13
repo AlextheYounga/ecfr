@@ -1,5 +1,7 @@
 ##### § 210.15 Motions. #####
 
+Link to an amendment published at 90 FR 242, Jan. 3, 2025.
+
 (a) *Presentation and disposition.* (1) During the period between the institution of an investigation and the assignment of the investigation to a presiding administrative law judge, all motions shall be addressed to the chief administrative law judge. During the time that an investigation or related proceeding is before an administrative law judge, all motions therein shall be addressed to the administrative law judge.
 
 (2) When an investigation or related proceeding is before the Commission, all motions shall be addressed to the Chairman of the Commission. All such motions shall be filed with the Secretary and shall be served upon each party. Motions may not be filed with the Commission during preinstitution proceedings except for motions for temporary relief pursuant to § 210.53.

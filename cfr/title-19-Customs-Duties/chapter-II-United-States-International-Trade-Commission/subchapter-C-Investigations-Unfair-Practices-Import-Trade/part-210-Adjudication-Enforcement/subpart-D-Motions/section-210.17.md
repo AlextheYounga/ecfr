@@ -1,5 +1,7 @@
 ##### § 210.17 Other failure to act and default. #####
 
+Link to an amendment published at 90 FR 242, Jan. 3, 2025.
+
 Failures to act other than the defaults listed in § 210.16 may provide a basis for the presiding administrative law judge or the Commission to draw adverse inferences and to issue findings of fact, conclusions of law, determinations (including a determination on violation of section 337 of the Tariff Act of 1930), and orders that are adverse to the party who fails to act. Such failures include, but are not limited to:
 
 (a) Failure to respond to a motion that materially alters the scope of the investigation or a related proceeding;

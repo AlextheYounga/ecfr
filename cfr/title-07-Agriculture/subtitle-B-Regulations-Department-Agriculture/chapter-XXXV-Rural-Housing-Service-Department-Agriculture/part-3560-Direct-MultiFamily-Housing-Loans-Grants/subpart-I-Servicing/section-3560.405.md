@@ -1,5 +1,7 @@
 ##### § 3560.405 Borrower organizational structure or ownership interest changes. #####
 
+Link to an amendment published at 89 FR 106980, Dec. 31, 2024.
+
 (a) *General.* The requirements of this section apply to changes in a borrower entity's organizational structure or to a change in a borrower entity's controlling interest. If 100 percent of a borrower entity's ownership interest is transferred, within a 12-month period, the change will be considered a housing project transfer and the provisions of § 3560.406, which covers transfers or sales of housing projects, will apply.
 
 (b) *Agency requirements.* Borrowers must notify the Agency prior to the implementation of any changes in a borrower entity's organizational structure. The Agency must give its consent prior to the implementation of changes in a borrower entity's controlling interest.

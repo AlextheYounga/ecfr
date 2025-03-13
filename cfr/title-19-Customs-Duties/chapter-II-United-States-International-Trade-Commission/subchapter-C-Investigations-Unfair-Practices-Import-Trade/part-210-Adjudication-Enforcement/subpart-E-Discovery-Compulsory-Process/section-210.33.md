@@ -1,5 +1,7 @@
 ##### § 210.33 Failure to make or cooperate in discovery; sanctions. #####
 
+Link to an amendment published at 90 FR 244, Jan. 3, 2025.
+
 (a) *Motion for order compelling discovery.* A party may apply to the administrative law judge for an order compelling discovery upon reasonable notice to other parties and all persons affected thereby.
 
 (b) *Non-monetary sanctions for failure to comply with an order compelling discovery.* If a party or an officer or agent of a party fails to comply with an order including, but not limited to, an order for the taking of a deposition or the production of documents, an order to answer interrogatories, an order issued pursuant to a request for admissions, or an order to comply with a subpoena, the administrative law judge, for the purpose of permitting resolution of relevant issues and disposition of the investigation without unnecessary delay despite the failure to comply, may take such action in regard thereto as is just, including, but not limited to the following:

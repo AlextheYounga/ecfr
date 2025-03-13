@@ -30,7 +30,7 @@
 
 (5) For 2005 and 2006, the fee schedule amounts determined under paragraph (b)(4) of this section are reduced using the methodology described in section 1834(a)(21)(A) of the Act.
 
-(c) *Monthly fee schedule amount for items furnished from 2007 through 2018.*(1) For 2007, national limited monthly payment rates are calculated and paid as the monthly fee schedule amounts for the following classes of items:
+(c) *Monthly fee schedule amount for items furnished from 2007 through 2018.* (1) For 2007, national limited monthly payment rates are calculated and paid as the monthly fee schedule amounts for the following classes of items:
 
 (i) Stationary oxygen equipment (including stationary concentrators) and oxygen contents (stationary and portable).
 
@@ -52,7 +52,7 @@
 
 (6) For 2008 through 2018, CMS makes an annual adjustment to the national limited monthly payment rate for items described in paragraph (c)(1)(i) of this section to ensure that such payment rates do not result in expenditures for any year that are more or less than the expenditures that would have been made if such classes had not been established.
 
-(d) *Application of monthly fee schedule amounts for items furnished from 2007 through 2018.*(1) The fee schedule amount for items described in paragraph (c)(1)(i) of this section is paid when the beneficiary rents stationary oxygen equipment.
+(d) *Application of monthly fee schedule amounts for items furnished from 2007 through 2018.* (1) The fee schedule amount for items described in paragraph (c)(1)(i) of this section is paid when the beneficiary rents stationary oxygen equipment.
 
 (2) Subject to the limitation set forth in paragraph (g)(2) of this section, the fee schedule amount for items described in paragraphs (c)(1)(ii) and (c)(1)(iii) of this section is paid when the beneficiary rents portable oxygen equipment.
 

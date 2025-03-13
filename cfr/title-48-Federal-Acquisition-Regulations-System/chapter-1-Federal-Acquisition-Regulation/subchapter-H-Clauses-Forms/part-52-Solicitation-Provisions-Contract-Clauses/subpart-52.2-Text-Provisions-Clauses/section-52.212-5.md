@@ -1,10 +1,10 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 89 FR 101827, Dec. 16, 2024.Link to an amendment published at 89 FR 101831, Dec. 16, 2024.
+Link to an amendment published at 90 FR 517, Jan. 3, 2025.Link to an amendment published at 90 FR 522, Jan. 3, 2025.Link to an amendment published at 90 FR 525, Jan. 3, 2025.
 
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services (NOV 2024)
+Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services (JAN 2025)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial products and commercial services:
 
@@ -100,7 +100,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_(29) 52.219-32, Orders Issued Directly Under Small Business Reserves (MAR 2020) (15 U.S.C. 644(r)).
 
-\_\_(30) 52.219-33, Nonmanufacturer Rule (SEP 2021) (15 U.S.C. 657s).
+\_\_(30) 52.219-33, Nonmanufacturer Rule (SEP 2021) (15 U.S.C. 637(a)(17)).
 
 \_\_(31) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
@@ -156,7 +156,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (ii) Alternate I [Reserved].
 
-\_\_ (iii) Alternate II (DEC 2022) of 52.225-3.
+\_\_ (iii) Alternate II (JAN 2025) of 52.225-3.
 
 \_\_ (iv) Alternate III (FEB 2024) of 52.225-3.
 
@@ -217,6 +217,8 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 \_\_ (8) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2022) (E.O. 13706).
 
 \_\_ (9) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020) (42 U.S.C. 1792).
+
+\_\_ (10) 52.247-69, Reporting Requirement for U.S.-Flag Air Carriers Regarding Training to Prevent Human Trafficking (JAN 2025) (49 U.S.C. 40118(g)).
 
 (d) *Comptroller General Examination of Record.* The Contractor shall comply with the provisions of this paragraph (d) if this contract was awarded using other than sealed bid, is in excess of the simplified acquisition threshold, as defined in FAR 2.101, on the date of award of this contract, and does not contain the clause at 52.215-2, Audit and Records—Negotiation.
 

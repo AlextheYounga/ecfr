@@ -60,8 +60,7 @@
 
 *State eligibility system* means any system, within the State or with a state-delegated contractor, that is used by the state to determine Medicaid and/or CHIP eligibility and/or that maintains documentation related to Medicaid and/or CHIP eligibility determinations.
 
-*State error* includes, but is not limited to, data
-processing errors and eligibility errors as described in § 431.960(b) and (d), as determined in accordance with documented State and Federal policies. State errors do not include the errors described in paragraph § 431.960(e)(2).
+*State error* includes, but is not limited to, data processing errors and eligibility errors as described in § 431.960(b) and (d), as determined in accordance with documented State and Federal policies. State errors do not include the errors described in paragraph § 431.960(e)(2).
 
 *State payment system* means any system within the State or with a state-delegated contractor that is used to adjudicate and pay Medicaid and/or CHIP FFS claims and/or managed care payments.
 

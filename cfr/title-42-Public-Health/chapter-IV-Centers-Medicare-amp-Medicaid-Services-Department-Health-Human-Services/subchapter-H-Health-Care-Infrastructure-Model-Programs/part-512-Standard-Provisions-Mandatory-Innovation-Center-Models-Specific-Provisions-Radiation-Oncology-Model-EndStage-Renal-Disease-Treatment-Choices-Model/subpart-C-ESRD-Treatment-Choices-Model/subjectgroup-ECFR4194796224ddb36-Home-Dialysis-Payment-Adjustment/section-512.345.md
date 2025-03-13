@@ -1,0 +1,3 @@
+##### § 512.345 Payments subject to the Clinician HDPA. #####
+
+CMS adjusts the amount otherwise paid under Medicare Part B with respect to MCP claims on claim lines with CPT codes 90965 and 90966 by the Clinician HDPA when the claim is submitted by a Managing Clinician who is an ETC Participant with a claim service date during a calendar year subject to adjustment as described in § 512.350 and the beneficiary is at least 18 years old before the first day of the month.

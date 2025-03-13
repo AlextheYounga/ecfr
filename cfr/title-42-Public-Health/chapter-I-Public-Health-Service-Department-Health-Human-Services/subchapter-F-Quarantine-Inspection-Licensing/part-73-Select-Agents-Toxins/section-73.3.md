@@ -6,11 +6,11 @@ Link to an amendment published at 89 FR 101952, Dec. 17, 2024.
 
 (b) HHS select agents and toxins:
 
-Abrin*Bacillus cereus* Biovar *anthracis*\*Botulinum neurotoxins\*Botulinum neurotoxin producing species of *Clostridium*\*Conotoxins (Short, paralytic alpha conotoxins containing the following amino acid sequence X1CCX2PACGX3X4X5X6CX7)1
+Abrin*Bacillus cereus* Biovar *anthracis*\*Botulinum neurotoxins\*Botulinum neurotoxin producing species of *Clostridium*\*Conotoxins (Short, paralytic alpha conotoxins containing the following amino acid sequence X1CCX2PACGX3X4X5X6CX7) 1
 
 1 C = Cysteine residues are all present as disulfides, with the 1st and 3rd Cysteine, and the 2nd and 4th Cysteine forming specific disulfide bridges; The consensus sequence includes known toxins α-MI and α-GI (shown above) as well as α-GIA, Ac1.1a, α-CnIA, α-CnIB; X1 = any amino acid(s) or Des-X; X2 = Asparagine or Histidine; P = Proline; A = Alanine; G = Glycine; X3 = Arginine or Lysine; X4 = Asparagine, Histidine, Lysine, Arginine, Tyrosine, Phenylalanine or Tryptophan; X5 = Tyrosine, Phenylalanine, or Tryptophan; X6 = Serine, Threonine, Glutamate, Aspartate, Glutamine, or Asparagine; X7 = Any amino acid(s) or Des X and; “Des X” = “an amino acid does not have to be present at this position.” For example if a peptide sequence were XCCHPA then the related peptide CCHPA would be designated as Des-X.
 
-*Coxiella burnetii*Crimean-Congo hemorrhagic fever virusDiacetoxyscirpenolEastern equine encephalitis virusEbola virus\**Francisella tularensis*\*Lassa fever virusLujo virusMarburg virus\*Monkeypox virusReconstructed replication competent forms of the 1918 pandemic influenza virus containing any portion of the coding regions of all eight gene segments (Reconstructed 1918 influenza virus)Ricin*Rickettsia prowazekii*SARS coronavirus (SARS-CoV)SARS-CoV/SARS-CoV-2 chimeric viruses resulting from any deliberate manipulation of SARS-CoV-2 to incorporate nucleic acids coding for SARS-CoV virulence factors.SaxitoxinSouth American hemorrhagic fever viruses:
+*Coxiella burnetii*Crimean-Congo hemorrhagic fever virusDiacetoxyscirpenolEastern equine encephalitis virusEbola virus\**Francisella tularensis*\*Lassa fever virusLujo virusMarburg virus\*Monkeypox virusReconstructed replication competent forms of the 1918 pandemic influenza virus containing any portion of the coding regions of all eight gene segments (Reconstructed 1918 influenza virus)Ricin*Rickettsia prowazekii*SARS coronavirus (SARS-CoV)SARS-CoV/SARS-CoV-2 chimeric viruses resulting from any deliberate manipulation of SARS-CoV-2 to incorporate nucleic acids coding for SARS-CoV virulence factors. SaxitoxinSouth American hemorrhagic fever viruses:
 
 Chapare
 

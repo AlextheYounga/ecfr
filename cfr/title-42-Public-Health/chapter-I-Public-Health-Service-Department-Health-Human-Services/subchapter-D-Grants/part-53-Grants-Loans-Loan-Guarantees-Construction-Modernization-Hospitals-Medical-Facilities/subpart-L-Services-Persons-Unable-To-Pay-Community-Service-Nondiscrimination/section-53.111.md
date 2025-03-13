@@ -12,7 +12,7 @@
 
 (4) The term *operating costs* means the actual operating costs of the applicant for a fiscal year as determined in accordance with cost determination principles and requirements under title XVIII of the Social Security Act (42 U.S.C. 1395): *Provided,* That such “operating costs” shall be determined for the applicant's entire facility and for all patients regardless of the source of payment for such care: *And provided further,* That in determining such operating costs there shall be deducted the amount of all actual or estimated reimbursements, as applicable, for services received or to be received pursuant to title XVIII and XIX of the Social Security Act (42 U.S.C. 1395 and 1936);
 
-(5) The term *reasonable cost* means the cost of providing services to a specific patient determined in accordance with the cost determination principles and requirements under title XVIII of the Social Security Act (42 U.S.C. 1395) and subpart D of the regulations thereunder (20 CFR part 405,1 part 401 *et seq.*);
+(5) The term *reasonable cost* means the cost of providing services to a specific patient determined in accordance with the cost determination principles and requirements under title XVIII of the Social Security Act (42 U.S.C. 1395) and subpart D of the regulations thereunder (20 CFR part 405, 1 part 401 *et seq.*);
 
 1 Redesignated as 42 CFR part 405 at 42 FR 52826, Sept. 30, 1977.
 

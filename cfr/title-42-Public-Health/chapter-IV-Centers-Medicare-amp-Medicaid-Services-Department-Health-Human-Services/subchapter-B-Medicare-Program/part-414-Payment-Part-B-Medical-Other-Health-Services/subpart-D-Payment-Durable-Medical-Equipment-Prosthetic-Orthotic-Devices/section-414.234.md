@@ -10,7 +10,7 @@
 
 *Unnecessary utilization* means the furnishing of items that do not comply with one or more of Medicare's coverage, coding, and payment rules.
 
-(b) *Master List of Items Potentially Subject to Face-To-Face Encounter and Written Order Prior to Delivery and/or Prior Authorization Requirements.*(1) Master List Inclusion Criteria are as follows:
+(b) *Master List of Items Potentially Subject to Face-To-Face Encounter and Written Order Prior to Delivery and/or Prior Authorization Requirements.* (1) Master List Inclusion Criteria are as follows:
 
 (i) Any DMEPOS items included in the DMEPOS Fee Schedule that have an average purchase fee of $500 (adjusted annually for inflation using consumer price index for all urban consumers (CPI-U), and reduced by the 10-year moving average of changes in annual economy-wide private nonfarm business multifactor productivity (MFP) (as projected by the Secretary for the 10-year period ending with the applicable FY, year, cost reporting period, or other annual period)) or greater, or an average monthly rental fee schedule of $50 (adjusted annually for inflation using consumer price index for all urban consumers (CPI-U), and reduced by the 10-year moving average of changes in annual economy-wide private nonfarm business multifactor productivity (MFP) (as projected by the Secretary for the 10-year period ending with the applicable FY, year, cost reporting period, or other annual period)) or greater, or are identified as accounting for at least 1.5 percent of Medicare expenditures for all DMEPOS items over a 12-month period that are:
 

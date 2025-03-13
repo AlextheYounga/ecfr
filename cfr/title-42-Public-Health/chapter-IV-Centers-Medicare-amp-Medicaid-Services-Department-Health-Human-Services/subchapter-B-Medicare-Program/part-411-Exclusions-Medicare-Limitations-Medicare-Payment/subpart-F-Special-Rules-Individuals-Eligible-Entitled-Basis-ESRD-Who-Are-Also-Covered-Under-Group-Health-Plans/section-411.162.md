@@ -16,7 +16,7 @@
 
 (A) Furnished to Medicare beneficiaries who have declined to enroll in the GHP;
 
-(B) Not covered under the plan;1
+(B) Not covered under the plan; 1
 
 1 CMS does not pay if noncoverage of services constitutes differentiation as prohibited by § 411.161(b).
 

@@ -16,7 +16,7 @@
 
 (iii) In determining final assignment for a benchmark or performance year, CMS will exclude any services furnished during the benchmark or performance year that are billed through the TIN of an ACO participant that is an ACO participant in more than one ACO.
 
-(3) *Prospective assignment.*(i) Medicare fee-for-service beneficiaries are prospectively assigned to an ACO at the beginning of each benchmark or performance year based on the beneficiary's use of primary care services in the most recent 12 or 24 months, as applicable, for which data are available, using the assignment methodology described in §§ 425.402 and 425.404.
+(3) *Prospective assignment.* (i) Medicare fee-for-service beneficiaries are prospectively assigned to an ACO at the beginning of each benchmark or performance year based on the beneficiary's use of primary care services in the most recent 12 or 24 months, as applicable, for which data are available, using the assignment methodology described in §§ 425.402 and 425.404.
 
 (ii) Beneficiaries that are prospectively assigned to an ACO under paragraph (a)(3)(i) of this section will remain assigned to the ACO at the end of the benchmark or performance year unless they meet any of the exclusion criteria under § 425.401(b).
 

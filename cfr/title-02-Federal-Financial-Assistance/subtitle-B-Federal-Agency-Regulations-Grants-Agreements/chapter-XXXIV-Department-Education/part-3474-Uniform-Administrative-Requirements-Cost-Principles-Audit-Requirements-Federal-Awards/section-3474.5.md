@@ -1,4 +1,4 @@
-##### § 3474.5 How exceptions are made to 2 CFR part 200.1 #####
+##### § 3474.5 How exceptions are made to 2 CFR part 200. 1 #####
 
 1 C. Ref. 2 CFR 200.102.
 

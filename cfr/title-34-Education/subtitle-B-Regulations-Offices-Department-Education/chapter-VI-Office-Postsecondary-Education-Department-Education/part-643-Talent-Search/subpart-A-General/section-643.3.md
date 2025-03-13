@@ -1,5 +1,7 @@
 ##### § 643.3 Who is eligible to participate in a project? #####
 
+Link to an amendment published at 90 FR 504, Jan. 3, 2025.
+
 (a) An individual is eligible to participate in a Talent Search project if the individual meets all the following requirements:
 
 (1)(i) Is a citizen or national of the United States;

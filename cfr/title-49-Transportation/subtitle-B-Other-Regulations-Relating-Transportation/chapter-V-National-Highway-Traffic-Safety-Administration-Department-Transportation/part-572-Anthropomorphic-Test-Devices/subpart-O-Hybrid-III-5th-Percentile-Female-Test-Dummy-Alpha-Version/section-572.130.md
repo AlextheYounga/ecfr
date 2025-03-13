@@ -1,5 +1,7 @@
 ##### § 572.130 Incorporation by reference. #####
 
+Link to an amendment published at 90 FR 263, Jan. 3, 2025.
+
 (a) The following materials are hereby incorporated into this Subpart by reference:
 
 (1) A drawings and specification package entitled “Parts List and Drawings, Part 572 Subpart O Hybrid III Fifth Percentile Small Adult Female Crash Test Dummy (HIII-5F, Alpha Version)” (June 2002), incorporated by reference in “572.131, and consisting of:

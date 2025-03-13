@@ -1,5 +1,7 @@
 ##### 25.607 Noncompliance. #####
 
+Link to an amendment published at 90 FR 516, Jan. 3, 2025.
+
 The contracting officer must—
 
 (a) Review allegations of violations of section 1605 of the Recovery Act or Buy American statute;

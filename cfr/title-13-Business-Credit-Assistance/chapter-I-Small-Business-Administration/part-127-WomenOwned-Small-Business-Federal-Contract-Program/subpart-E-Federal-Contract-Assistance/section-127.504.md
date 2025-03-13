@@ -1,8 +1,8 @@
 ##### § 127.504 What requirements must an EDWOSB or WOSB meet to be eligible for an EDWOSB or WOSB requirement? #####
 
-Link to an amendment published at 89 FR 96094, Dec. 4, 2024.Link to an amendment published at 89 FR 102507, Dec. 17, 2024.
+Link to an amendment published at 89 FR 102507, Dec. 17, 2024.
 
-(a) *General.* In order for a concern to submit an offer on a specific EDWOSB or WOSB set-aside requirement, the concern must qualify as a small business concern under the size standard corresponding to the NAICS code assigned to the contract, and either be a certified EDWOSB or WOSB pursuant to § 127.300, or represent that it has submitted a complete application for WOSB or EDWOSB certification to SBA or a third-party certifier and has not received a negative determination regarding that application from SBA or the third party certifier.
+(a) *General.* In order for a concern to submit an offer on a specific EDWOSB or WOSB set-aside requirement, the concern must qualify as a small business concern under the size standard corresponding to the NAICS code assigned to the contract, and either be a certified EDWOSB or WOSB pursuant to § 127.300, or represent that it has submitted a complete application for WOSB or EDWOSB certification to SBA or a third-party certifier and has not received a negative determination regarding that application from SBA or the third party certifier. An application is pending upon notification from SBA that the application is deemed complete and has sufficient documentation for full analysis.
 
 (1) If a concern becomes the apparent successful offeror while its application for WOSB or EDWOSB certification is pending, either at SBA or a third-party certifier, the contracting officer for the particular contract must immediately inform SBA's D/GC. SBA will then prioritize the concern's WOSB or EDWOSB application and make a determination regarding the firm's status as a WOSB or EDWOSB within 15 calendar days from the date that SBA received the contracting officer's notification. Where the application is pending with a third-party certifier, SBA will immediately contact the third-party certifier to require the third-party certifier to complete its determination within 15 calendar days.
 
@@ -46,4 +46,4 @@ Link to an amendment published at 89 FR 96094, Dec. 4, 2024.Link to an amendment
 
 (6) A concern's status will be determined at the time of a response to a solicitation for an Agreement and each order issued pursuant to the Agreement.
 
-[85 FR 66197, Oct. 16, 2020, as amended at 86 FR 10732, Feb. 23, 2021; 88 FR 26215, Apr. 27, 2023]
+[85 FR 66197, Oct. 16, 2020, as amended at 86 FR 10732, Feb. 23, 2021; 88 FR 26215, Apr. 27, 2023; 89 FR 96094, Dec. 4, 2024]

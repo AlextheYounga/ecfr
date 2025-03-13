@@ -22,7 +22,7 @@
 
 (v) Other information that the Secretary prescribes.
 
-(3) *Institution of suit.* Not later than 10 days after being served with a summons or complaint the facility shall notify the HHS Regional Health Administrator1 for the Region in which it is located of any legal action brought against it alleging that it has failed to comply with the requirements of this subpart.
+(3) *Institution of suit.* Not later than 10 days after being served with a summons or complaint the facility shall notify the HHS Regional Health Administrator 1 for the Region in which it is located of any legal action brought against it alleging that it has failed to comply with the requirements of this subpart.
 
 1 The addresses of the HHS Regional Offices are set out in 45 CFR 5.31.
 

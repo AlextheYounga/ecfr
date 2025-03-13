@@ -76,8 +76,7 @@
 
 (C) A general description of alternative Medicare health and drug coverage options available to an individual in his or her Initial Coverage Election Period.
 
-(d) *Conversion of enrollment (seamless continuation of coverage*)—
-(1) *Basic rule.* An MA plan offered by an MA organization must accept any individual (regardless of whether the individual has end-stage renal disease) who requests enrollment during his or her Initial Coverage Election Period while enrolled in a health plan offered by the MA organization during the month immediately preceding the MA plan enrollment effective date, and who meets the eligibility requirements at § 422.50.
+(d) *Conversion of enrollment (seamless continuation of coverage*)— (1) *Basic rule.* An MA plan offered by an MA organization must accept any individual (regardless of whether the individual has end-stage renal disease) who requests enrollment during his or her Initial Coverage Election Period while enrolled in a health plan offered by the MA organization during the month immediately preceding the MA plan enrollment effective date, and who meets the eligibility requirements at § 422.50.
 
 (2) *Reserved vacancies.* Subject to CMS's approval, an MA organization may set aside a reasonable number of vacancies in order to accommodate enrollment of conversions. Any set aside vacancies that are not filled within a reasonable time must be made available to other MA eligible individuals.
 

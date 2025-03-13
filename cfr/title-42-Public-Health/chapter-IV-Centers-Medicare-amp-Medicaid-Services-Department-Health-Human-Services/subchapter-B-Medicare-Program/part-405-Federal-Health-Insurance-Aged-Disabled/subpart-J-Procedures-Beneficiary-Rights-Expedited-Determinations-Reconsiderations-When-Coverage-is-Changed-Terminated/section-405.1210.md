@@ -40,6 +40,6 @@
 
 (4) *If an eligible beneficiary refuses to sign the notice.* The hospital may annotate its notice to indicate the refusal, and the date of refusal is considered the date of receipt of the notice.
 
-[89 FR 83292, Oct. 15, 2024]Editorial Notes:1. At 89 FR 83292, Oct. 15, 2024, § 405.1210 was added, with incorrect paragraph designations for the two subparagraphs in (b)(3).
+[89 FR 83292, Oct. 15, 2024] Editorial Notes:1. At 89 FR 83292, Oct. 15, 2024, § 405.1210 was added, with incorrect paragraph designations for the two subparagraphs in (b)(3).
 
 2. At 89 FR 106364, Dec. 30, 2024, § 405.1210 was amended by adding paragraph (b)(3); however, the amendment could not be incorporated due to inaccurate amendatory instruction.

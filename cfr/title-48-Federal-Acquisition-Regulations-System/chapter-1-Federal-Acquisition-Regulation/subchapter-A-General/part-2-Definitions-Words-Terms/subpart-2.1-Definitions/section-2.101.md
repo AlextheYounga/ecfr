@@ -1,5 +1,7 @@
 ##### 2.101 Definitions. #####
 
+Link to an amendment published at 90 FR 511, Jan. 3, 2025.Link to an amendment published at 90 FR 525, Jan. 3, 2025.
+
 A word or a term, defined in this section, has the same meaning throughout this chapter (the Federal Acquisition Regulation (FAR)) unless the context in which the word or term is used clearly requires a different meaning or another FAR part, subpart, or section provides a different definition for the particular part or portion of the part. If a word or term that is defined in this section is defined differently in another part, subpart, or section of this chapter, the definition in this section includes a cross-reference to the other definitions and that part, subpart, or section applies to the word or term when used in that part, subpart, or section.
 
 *Acquisition* means the acquiring by contract with appropriated funds of supplies or services (including construction) by and for the use of the Federal Government through purchase or lease, whether the supplies or services are already in existence or must be created, developed, demonstrated, and evaluated. Acquisition begins at the point when agency needs are established and includes the description of requirements to satisfy agency needs, solicitation and selection of sources, award of contracts, contract financing, contract performance, contract administration, and those technical and management functions directly related to the process of fulfilling agency needs by contract.

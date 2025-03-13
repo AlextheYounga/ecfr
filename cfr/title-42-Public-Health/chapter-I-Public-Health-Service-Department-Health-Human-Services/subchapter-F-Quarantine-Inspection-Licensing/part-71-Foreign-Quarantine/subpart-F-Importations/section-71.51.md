@@ -550,4 +550,4 @@
 
 (2) CDC may request that the U.S. Department of Justice investigate, and if determined appropriate based on the outcome of such investigation, prosecute any person who the Director has reason to believe may have violated Federal law, including by forcibly assaulting, resisting, opposing, impeding, intimidating, or interfering with a U.S. government employee while engaged in or on account of the performance of their official duties in violation of 18 U.S.C. 111, by obstructing an agency proceeding in violation of 18 U.S.C. 1505, or by otherwise engaging in conduct contrary to law.
 
-(Approved by the Office of Management and Budget under control number 0920-0134)[50 FR 1519, Jan. 11, 1985, as amended at 89 FR 41837, May 13, 2024]
+(Approved by the Office of Management and Budget under control number 0920-0134) [50 FR 1519, Jan. 11, 1985, as amended at 89 FR 41837, May 13, 2024]

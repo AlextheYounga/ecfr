@@ -8,7 +8,7 @@
 
 (3) The provider receives partial credit for the cost of a replaced device but only where the amount of the device credit is greater than or equal to 50 percent of the cost of the new replacement device being implanted.
 
-(b) *Amount of reduction to the APC payment.*(1) The amount of the reduction to the APC payment made under paragraphs (a)(1) and (2) of this section is calculated as the lesser of the device offset amount that would be applied if the device implanted during a procedure assigned to the APC had transitional pass-through status under § 419.66 or the amount of the credit described in paragraph (a)(2) of this section.
+(b) *Amount of reduction to the APC payment.* (1) The amount of the reduction to the APC payment made under paragraphs (a)(1) and (2) of this section is calculated as the lesser of the device offset amount that would be applied if the device implanted during a procedure assigned to the APC had transitional pass-through status under § 419.66 or the amount of the credit described in paragraph (a)(2) of this section.
 
 (2) The amount of the reduction to the APC payment made under paragraph (a)(3) of this section is calculated as the lesser of the device offset amount that would be applied if the device implanted during a procedure assigned to the APC had transitional pass-through status under § 419.66 or the amount of the credit described in paragraph (a)(3) of this section.
 

@@ -1,5 +1,7 @@
 ##### 33.102 General. #####
 
+Link to an amendment published at 90 FR 516, Jan. 3, 2025.
+
 (a) Without regard to the protest venue, contracting officers shall consider all protests and seek legal advice, whether protests are submitted before or after award and whether filed directly with the agency, the Government Accountability Office (GAO), or the U.S. Court of Federal Claims. (*See* 19.302 for protests of small business status, 19.305 for protests of disadvantaged business status, 19.306 for protests of HUBZone small business status, and 19.307 for protests of service-disabled veteran-owned small business status, and 19.308 for protests of the status of an economically disadvantaged women-owned small business concern or of a women-owned small business concern eligible under the Women-Owned Small Business Program.)
 
 (b) If, in connection with a protest, the head of an agency determines that a solicitation, proposed award, or award does not comply with the requirements of law or regulation, the head of the agency may—

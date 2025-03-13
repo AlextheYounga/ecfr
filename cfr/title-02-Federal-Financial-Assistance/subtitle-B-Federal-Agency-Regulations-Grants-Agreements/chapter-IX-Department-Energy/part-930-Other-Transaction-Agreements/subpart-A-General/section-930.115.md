@@ -1,0 +1,5 @@
+##### § 930.115 Deviation authority. #####
+
+(a) *Deviation.* A deviation from this part is defined as the issuance or use of a policy, procedure, solicitation provision, article, method, or practice of conducting actions of any kind at any stage of the award process or administration period that is inconsistent with this part. Deviations may affect one or more than one other transaction (OT) agreements.
+
+(b) *Request for deviation.* Requests for deviation(s) shall be submitted by the Agreements Officer, meaning the cognizant warranted Department of Energy or National Nuclear Security Administration official authorized to execute and administer OT agreements, to the cognizant Senior Procurement Executive, as defined by 41 U.S.C. 1702(c), for approval. Requests shall cite the specific section from which it is desired to deviate, shall set forth the nature of the proposed deviation(s), and shall give the reasons for the action requested.

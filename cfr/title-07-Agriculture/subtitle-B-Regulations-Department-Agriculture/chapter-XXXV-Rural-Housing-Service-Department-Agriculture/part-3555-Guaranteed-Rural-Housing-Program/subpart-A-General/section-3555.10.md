@@ -1,5 +1,7 @@
 ##### § 3555.10 Definitions and abbreviations. #####
 
+Link to an amendment published at 90 FR 203, Jan. 3, 2025.
+
 The definitions and abbreviations in this section apply to this part.
 
 *Acceleration.* Demand for immediate repayment of the entire balance of a debt if the covenants in the promissory note, assumption agreement, or security instruments are breached.

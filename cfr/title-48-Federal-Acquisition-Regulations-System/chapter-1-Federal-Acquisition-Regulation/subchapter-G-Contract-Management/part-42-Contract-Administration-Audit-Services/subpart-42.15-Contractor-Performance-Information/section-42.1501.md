@@ -1,5 +1,7 @@
 ##### 42.1501 General. #####
 
+Link to an amendment published at 90 FR 525, Jan. 3, 2025.
+
 (a) Past performance information (including the ratings and supporting narratives) is relevant information, for future source selection purposes, regarding a contractor's actions under previously awarded contracts or orders. It includes, for example, the contractor's record of—
 
 (1) Conforming to requirements and to standards of good workmanship;

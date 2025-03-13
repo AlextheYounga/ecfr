@@ -18,4 +18,4 @@
 
 (4) The prescription is consistent with all other requirements of 21 CFR part 1306.
 
-[89 FR 91257, Nov. 19, 2024]Effective Date Note:At 89 FR 91257, Nov. 19, 2024, § 12.1 was revised, effective Jan. 1, 2025 through Dec. 31, 2025.
+[88 FR 30042, May 10, 2023, as amended at 88 FR 69883, Oct. 10, 2023; 89 FR 91257, Nov. 19, 2024]Effective Date Note:At 89 FR 91257, Nov. 19, 2024, § 12.1 was amended, effective Jan. 1, 2025 through Dec. 31, 2025.

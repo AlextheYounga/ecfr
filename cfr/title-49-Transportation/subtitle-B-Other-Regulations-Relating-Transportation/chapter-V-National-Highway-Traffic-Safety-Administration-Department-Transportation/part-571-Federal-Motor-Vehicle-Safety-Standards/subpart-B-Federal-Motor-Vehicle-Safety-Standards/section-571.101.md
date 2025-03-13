@@ -1,5 +1,7 @@
 ##### § 571.101 Standard No. 101; Controls and displays. #####
 
+Link to an amendment published at 90 FR 459, Jan. 3, 2025.
+
 S1. *Scope.* This standard specifies performance requirements for location, identification, color, and illumination of motor vehicle controls, telltales and indicators.
 
 S2. *Purpose.* The purpose of this standard is to ensure the accessibility, visibility and recognition of motor vehicle controls, telltales and indicators, and to facilitate the proper selection of controls under daylight and nighttime conditions, in order to reduce the safety hazards caused by the diversion of the driver's attention from the driving task, and by mistakes in selecting controls.

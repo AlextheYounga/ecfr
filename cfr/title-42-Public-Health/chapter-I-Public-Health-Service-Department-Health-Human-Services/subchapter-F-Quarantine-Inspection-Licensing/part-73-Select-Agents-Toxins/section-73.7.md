@@ -16,7 +16,7 @@
 
 (2) Federal, State, or local governmental agencies, including public accredited academic institutions, are exempt from the security risk assessments for the entity and the individual who owns or controls such entity.
 
-(3) An individual will be deemed to own or control an entity under the following conditions:1
+(3) An individual will be deemed to own or control an entity under the following conditions: 1
 
 1 These conditions may apply to more than one individual.
 

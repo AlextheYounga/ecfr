@@ -1,5 +1,7 @@
 ##### § 210.45 Review of initial determinations on matters other than temporary relief. #####
 
+Link to an amendment published at 90 FR 246, Jan. 3, 2025.
+
 (a) *Briefs and oral argument.* In the event the Commission orders review of an initial determination pertaining to issues other than temporary relief, the parties may be requested to file briefs on the issues under review at a time and of a size and nature specified in the notice of review. The parties, within the time provided for filing the review briefs, may submit a written request for a hearing to present oral argument before the Commission, which the Commission in its discretion may grant or deny. The Commission shall grant the request when at least one of the participating Commissioners votes in favor of granting the request.
 
 (b) *Scope of review.* Only the issues set forth in the notice of review, and all subsidiary issues therein, will be considered by the Commission.

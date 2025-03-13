@@ -20,7 +20,7 @@
 
 (d) *Clarification.* In no case will a MIPS payment adjustment factor (or additional MIPS payment adjustment factor) apply to payments for items and services furnished during a year by a eligible clinician, including an eligible clinician described in paragraph (b) or (c) of this section, who is not a MIPS eligible clinician, including an eligible clinician who voluntarily reports on applicable measures and activities under MIPS.
 
-(e) *Requirements for groups.*(1) Except as provided under §§ 414.1315(a)(2), 414.1317(b), 414.1318(b), and 414.1370(f)(2) each MIPS eligible clinician in the group receives a final score based on the group's combined performance assessment.
+(e) *Requirements for groups.* (1) Except as provided under §§ 414.1315(a)(2), 414.1317(b), 414.1318(b), and 414.1370(f)(2) each MIPS eligible clinician in the group receives a final score based on the group's combined performance assessment.
 
 (2) For individual MIPS eligible clinicians to participate in MIPS as a group, all of the following requirements must be met:
 

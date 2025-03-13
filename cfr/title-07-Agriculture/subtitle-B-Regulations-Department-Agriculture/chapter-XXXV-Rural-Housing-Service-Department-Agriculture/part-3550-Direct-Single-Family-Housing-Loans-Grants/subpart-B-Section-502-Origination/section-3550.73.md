@@ -1,5 +1,7 @@
 ##### § 3550.73 Manufactured homes. #####
 
+Link to an amendment published at 90 FR 203, Jan. 3, 2025.
+
 With the exception of the restrictions and additional requirements contained in this section, section 502 loans on manufactured homes are subject to the same conditions as all other section 502 loans.
 
 (a) *Eligible costs.* In addition to the eligible costs described in § 3550.52(d), RHS may finance the following activities related to manufactured homes when a real estate mortgage covers both the unit and the site:

@@ -1,7 +1,5 @@
 ##### 52.225-4 Buy American—Free Trade Agreements—Israeli Trade Act Certificate. #####
 
-Link to an amendment published at 89 FR 101831, Dec. 16, 2024.
-
 As prescribed in 25.1101(b)(2)(i), insert the following provision:
 
 Buy American—Free Trade Agreements—Israeli Trade Act Certificate (NOV 2023)
@@ -44,11 +42,11 @@ Line Item No. \_\_\_\_\_\_
 
 *Alternate I* [Reserved]
 
-*Alternate II* (DEC 2022). As prescribed in 25.1101(b)(2)(ii), substitute the following paragraph (b) for paragraph (b) of the basic provision:
+*Alternate II* (JAN 2025). As prescribed in 25.1101(b)(2)(ii), substitute the following paragraph (b) for paragraph (b) of the basic provision:
 
-(b) The offeror certifies that the following supplies are Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act—Balance of Payments Program”:
+(b) The offeror certifies that the following supplies are Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act”.
 
-*Israeli End Products*
+Israeli End Products:
 
 |Line Item No|   |   |
 |------------|---|---|
@@ -58,9 +56,9 @@ Line Item No. \_\_\_\_\_\_
 
 [List as necessary]
 
-*Alternate III* (FEB 2024). As prescribed in 25.1101(b)(2)(iii), substitute the following paragraph (b) for paragraph (b) of the basic provision:
+*Alternate III* (JAN 2025). As prescribed in 25.1101(b)(2)(iii), substitute the following paragraph (b) for paragraph (b) of the basic provision:
 
-(b) The Offeror certifies that the following supplies are Korean end products or Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act”:
+(b) The Offeror certifies that the following supplies are Korean end products or Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act”.
 
 Korean End Products or Israeli End Products:
 

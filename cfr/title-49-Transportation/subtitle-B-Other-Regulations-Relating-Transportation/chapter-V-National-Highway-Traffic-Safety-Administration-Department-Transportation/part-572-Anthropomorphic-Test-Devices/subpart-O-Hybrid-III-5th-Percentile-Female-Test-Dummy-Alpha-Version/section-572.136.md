@@ -1,5 +1,7 @@
 ##### § 572.136 Knees and knee impact test procedure. #####
 
+Link to an amendment published at 90 FR 264, Jan. 3, 2025.
+
 (a) *Knee assembly.* The knee assembly (refer to §§ 572.130(a)(1)(v) and (vi)) for the purpose of this test is the part of the leg assembly shown in drawing 880105-560.
 
 (b)(1) When the knee assembly, consisting of sliding knee assembly (drawing 880105-528R or -528L), lower leg structural replacement (drawing 880105-603), lower leg flesh (drawing 880105-601), ankle assembly (drawing 880105-660), foot assembly (drawing 880105-651 or 650), and femur load transducer (drawing SA572-S14) or its structural replacement (drawing 78051-319) is tested according to the test procedure in subsection (c), the peak resistance force as measured with the test probe-mounted accelerometer must be not less than 3450 N (776 lbf) and not more than 4060 N (913 lbf).

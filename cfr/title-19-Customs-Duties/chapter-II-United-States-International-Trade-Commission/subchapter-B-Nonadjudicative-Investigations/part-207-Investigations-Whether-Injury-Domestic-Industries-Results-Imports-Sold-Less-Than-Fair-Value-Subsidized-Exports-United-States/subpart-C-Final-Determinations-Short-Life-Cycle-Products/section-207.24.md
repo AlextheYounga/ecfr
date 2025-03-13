@@ -1,5 +1,7 @@
 ##### § 207.24 Hearing. #####
 
+Link to an amendment published at 90 FR 235, Jan. 3, 2025.
+
 (a) *In general.* The Commission shall hold a hearing concerning an investigation before making a final determination under section 705(b) or section 735(b) of the Act.
 
 (b) *Procedures.* Any hearing shall be conducted after notice published in the Federal Register. The hearing shall not be subject to the provisions of 5 U.S.C. subchapter II, chapter 5, or to 5 U.S.C. 702. Each party shall limit its presentation at the hearing to a summary of the information and arguments contained in its prehearing brief, an analysis of the information and arguments contained in the prehearing briefs described in § 207.23, and information not available at the time its prehearing brief was filed. Unless a portion of the hearing is closed, presentations at the hearing shall not include business proprietary information. Notwithstanding § 201.13(f) of this chapter, in connection with its presentation, a party may provide written witness testimony at the hearing; if written testimony is provided, eight (8) true paper copies shall be submitted. In the case of testimony to be presented at a closed session held in response to a request under § 207.24(d), confidential and non-confidential versions shall be filed in accordance with § 207.3. Any person not a party may make a brief oral statement of information pertinent to the investigation.

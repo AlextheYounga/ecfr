@@ -1,5 +1,7 @@
 ##### § 210.16 Default. #####
 
+Link to an amendment published at 90 FR 242, Jan. 3, 2025.
+
 (a) *Definition of default.* (1) A party shall be found in default if it fails to respond to the complaint and notice of investigation in the manner prescribed in § 210.13 or § 210.59(c), or otherwise fails to answer the complaint and notice, and fails to show cause why it should not be found in default.
 
 (2) A party may be found in default as a sanction for abuse of process, under § 210.4(c), or failure to make or cooperate in discovery, under § 210.33(b).

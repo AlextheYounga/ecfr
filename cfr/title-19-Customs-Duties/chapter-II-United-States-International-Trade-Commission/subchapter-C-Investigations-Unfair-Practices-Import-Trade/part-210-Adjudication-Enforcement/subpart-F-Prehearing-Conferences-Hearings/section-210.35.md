@@ -1,5 +1,7 @@
 ##### § 210.35 Prehearing conferences. #####
 
+Link to an amendment published at 90 FR 245, Jan. 3, 2025.
+
 (a) *When appropriate.* The administrative law judge in any investigation may direct counsel or other representatives for all parties to meet with him for one or more conferences to consider any or all of the following:
 
 (1) Simplification and clarification of the issues;

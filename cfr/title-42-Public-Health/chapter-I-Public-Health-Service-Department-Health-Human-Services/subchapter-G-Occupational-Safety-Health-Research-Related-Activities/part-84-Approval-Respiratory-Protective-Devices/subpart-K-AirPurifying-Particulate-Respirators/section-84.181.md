@@ -2,7 +2,7 @@
 
 (a) Powered air-purifying respirators must be designed to allow for proper communication while worn.
 
-(b) A Modified Rhyme Test7 will be used to test the wearer's ability to communicate efficiently.
+(b) A Modified Rhyme Test 7 will be used to test the wearer's ability to communicate efficiently.
 
 7 The Modified Rhyme Test is used in speech intelligibility experiments. *See https://www.nist.gov/ctl/pscr/modified-rhyme-test-audio-library.*
 

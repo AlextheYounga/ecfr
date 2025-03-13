@@ -8,7 +8,7 @@
 
 (3) The facility shall provide a copy of any report to the HSA for the area when submitting it to the Secretary.
 
-(4) *Institution of suit.* Not later than 10 days after being served with a summons or complaint, the applicant shall notify the Regional Health Administrator for the Region of HHS in which it is located of any legal action brought against it alleging that it has failed to comply with the requirements of this subpart.1
+(4) *Institution of suit.* Not later than 10 days after being served with a summons or complaint, the applicant shall notify the Regional Health Administrator for the Region of HHS in which it is located of any legal action brought against it alleging that it has failed to comply with the requirements of this subpart. 1
 
 1 The addresses of the Regional Office of HHS are set out in 45 CFR 5.31.
 

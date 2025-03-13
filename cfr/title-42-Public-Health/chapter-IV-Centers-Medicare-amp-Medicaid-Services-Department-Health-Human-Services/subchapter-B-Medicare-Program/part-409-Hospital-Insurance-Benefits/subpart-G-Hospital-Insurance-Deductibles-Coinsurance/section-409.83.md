@@ -2,9 +2,9 @@
 
 (a) *General provisions*—(1) Inpatient hospital coinsurance is the amount chargeable to a beneficiary for each day after the first 60 days of inpatient hospital care or inpatient CAH care or both in a benefit period.
 
-(2) For each day from the 61st to the 90th day, the coinsurance amount is1/4 of the applicable deductible.
+(2) For each day from the 61st to the 90th day, the coinsurance amount is 1/4 of the applicable deductible.
 
-(3) For each day from the 91st to the 150th day (lifetime reserve days), the coinsurance amount is1/2 of the applicable deductible.
+(3) For each day from the 91st to the 150th day (lifetime reserve days), the coinsurance amount is 1/2 of the applicable deductible.
 
 (4) For coinsurance days before January 1, 1982, the coinsurance amount is based on the deductible applicable for the calendar year in which the benefit period began. The coinsurance amounts do not change during a beneficiary's benefit period even though the coinsurance days may fall in a subsequent year for which a higher deductible amount has been determined.
 

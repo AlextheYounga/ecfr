@@ -1,5 +1,7 @@
 ##### § 3560.406 MFH ownership transfers or sales. #####
 
+Link to an amendment published at 89 FR 106980, Dec. 31, 2024.
+
 (a) *General.* The provisions of this section apply to ownership transfers or sales (e.g., title transfers) involving an Agency financed housing project. The provisions cover situations where Agency loans are being assumed as a part of a housing project transfer or sale.
 
 (b) *Agency consent requirements.* Agency consent must be obtained prior to an ownership transfer or sale and Agency consent will only be given when the transfer or sale is in the best interest of the Federal Government. Any ownership transfer or sale without the consent of the Agency will be considered a default and will be handled in accordance with subpart J of this part.

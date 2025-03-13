@@ -1,5 +1,7 @@
 ##### 52.222-54 Employment Eligibility Verification. #####
 
+Link to an amendment published at 90 FR 517, Jan. 3, 2025.
+
 As prescribed in 22.1803, insert the following clause:
 
 Employment Eligibility Verification (MAY 2022)

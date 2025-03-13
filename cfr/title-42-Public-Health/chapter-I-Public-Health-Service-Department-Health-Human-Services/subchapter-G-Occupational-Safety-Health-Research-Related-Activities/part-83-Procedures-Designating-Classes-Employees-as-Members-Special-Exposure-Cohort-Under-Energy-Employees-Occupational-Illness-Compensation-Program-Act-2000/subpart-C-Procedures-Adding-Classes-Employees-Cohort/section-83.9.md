@@ -6,11 +6,11 @@
 
 (c) The petition must include the following:
 
-(1) A proposed class definition1 specifying:
+(1) A proposed class definition 1 specifying:
 
 1 HHS will determine the final class definition(s) for each petition (see § 83.16).
 
-(i) The DOE facility or AWE facility2 at which the class worked;
+(i) The DOE facility or AWE facility 2 at which the class worked;
 
 2 Depending on the factual circumstances present, a facility that meets the definition of an AWE facility or DOE facility covered under EEOICPA (42 U.S.C. 7384l(5) and (12)) could, among other possibilities, constitute a single building or structure, including the grounds upon which it is located, or a site encompassing numerous buildings or structures, including the grounds upon which it is located.
 
@@ -36,7 +36,7 @@
 
 (i) Medical evidence that one or more members of the class may have incurred a high level radiation dose from the incident, such as a depressed white blood cell count associated with radiation exposure or the application of chelation therapy; or
 
-(ii) NIOSH will consider evidence provided by affidavit from one or more employees who witnessed the incident. If the petitioner cannot provide such affidavits because such employees are deceased, prevented by reasons of poor health or impairment, or cannot be identified or located, then the requirement for evidence provided by affidavit can be met by providing such an affidavit from one or more individuals who did not witness the incident, provided the individual was directly informed by one or more employees who witnessed the incident.3
+(ii) NIOSH will consider evidence provided by affidavit from one or more employees who witnessed the incident. If the petitioner cannot provide such affidavits because such employees are deceased, prevented by reasons of poor health or impairment, or cannot be identified or located, then the requirement for evidence provided by affidavit can be met by providing such an affidavit from one or more individuals who did not witness the incident, provided the individual was directly informed by one or more employees who witnessed the incident. 3
 
 3 An affidavit may be from a petitioner but HHS does not require that an affidavit be from a petitioner.
 

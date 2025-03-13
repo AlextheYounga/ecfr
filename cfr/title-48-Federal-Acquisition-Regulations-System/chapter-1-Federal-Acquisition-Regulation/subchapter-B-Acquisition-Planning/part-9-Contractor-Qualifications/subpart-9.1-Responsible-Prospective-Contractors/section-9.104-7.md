@@ -1,5 +1,7 @@
 ##### 9.104-7 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 90 FR 511, Jan. 3, 2025.
+
 (a) The contracting officer shall insert the provision at 52.209-5, Certification Regarding Responsibility Matters, in solicitations where the contract value is expected to exceed the simplified acquisition threshold.
 
 (b) The contracting officer shall insert the provision at 52.209-7, Information Regarding Responsibility Matters, in solicitations where the resultant contract value is expected to exceed $600,000.

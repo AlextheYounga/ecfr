@@ -14,7 +14,7 @@
 
 (ii) If the individual files the request more than 30 days but not more than 6 months after buy-in coverage ends, entitlement ends on the last day of the month in which the request is filed.
 
-(iii) If the individual files the request later than the 6th month after buy-in coverage ends, entitlement ends at the end of the month after the month in which request is filed.1
+(iii) If the individual files the request later than the 6th month after buy-in coverage ends, entitlement ends at the end of the month after the month in which request is filed. 1
 
 1 For requests filed before July 1987, entitlement ended on the last day of the calendar quarter after the quarter in which the disenrollment request was filed.
 

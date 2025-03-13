@@ -1,0 +1,3 @@
+##### § 512.584 Cooperation in model evaluation and monitoring. #####
+
+The TEAM participant and its TEAM collaborators must comply with the requirements of § 403.1110(b) of this chapter and must otherwise cooperate with CMS' TEAM evaluation and monitoring activities as may be necessary to enable CMS to evaluate TEAM in accordance with section 1115A(b)(4) of the Act and to conduct monitoring activities under § 512.590, including producing such data as may be required by CMS to evaluate or monitor TEAM, which may include protected health information as defined in 45 CFR 160.103 and other individually-identifiable data.

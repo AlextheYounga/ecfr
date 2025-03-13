@@ -4,7 +4,7 @@
 
 (b) NIOSH will evaluate the ease and speed with which users can don the CCER, as follows:
 
-(1) Each test subject will be provided with manufacturer instructions, and must be able to don the CCER correctly, isolating the lungs within 30 seconds;1 and
+(1) Each test subject will be provided with manufacturer instructions, and must be able to don the CCER correctly, isolating the lungs within 30 seconds; 1 and
 
 1 This time limit does not apply to any additional steps that might be required after the lungs are protected to adjust the unit for wear.
 

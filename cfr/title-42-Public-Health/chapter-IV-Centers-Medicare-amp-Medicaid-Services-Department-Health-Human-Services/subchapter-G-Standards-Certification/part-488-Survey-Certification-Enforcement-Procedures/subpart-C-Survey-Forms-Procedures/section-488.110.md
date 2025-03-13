@@ -74,7 +74,7 @@ Use this survey process for all surveys of SNFs and ICFs—whether freestanding,
 
 • Ask the facility for a list showing names of residents by room number with each of the following care needs/treatments identified for each resident to whom they apply:
 
-—Decubitus care—Restraints—Catheters—Injections—Parenteral fluids—Rehabilitation service—Colostomy/ileostomy care—Respiratory care—Tracheostomy care—Suctioning—Tube feeding
+—Decubitus care —Restraints —Catheters —Injections —Parenteral fluids —Rehabilitation service —Colostomy/ileostomy care —Respiratory care —Tracheostomy care —Suctioning —Tube feeding
 
 Use this list for selecting the resident sample.
 
@@ -104,7 +104,7 @@ Note that the calculation is based on the resident census, not beds. After deter
 
 (2) *Special Care Needs/Treatments.* The survey form specifies several care needs/treatments that must always be reviewed when they apply to any facility residents. These include:
 
-• Decubitus Care• Restraints• Catheters• Injections, Parenteral Fluids, Colostomy/Ileostomy, Respiratory Care, Tracheostomy Care, Suctioning, Tube Feeding• Rehabilitative Services (physical therapy, speech pathology and audiology services, occupational therapy)
+• Decubitus Care • Restraints • Catheters • Injections, Parenteral Fluids, Colostomy/Ileostomy, Respiratory Care, Tracheostomy Care, Suctioning, Tube Feeding • Rehabilitative Services (physical therapy, speech pathology and audiology services, occupational therapy)
 
 Due to the relatively low prevalence of these care needs/treatments, appropriate residents may be either under-
 
@@ -132,7 +132,7 @@ Always knock and/or get permission before entering a room or interrupting privac
 
 (3) *Resident Needs.* While touring, focus on the residents' needs—physical, emotional, psychosocial, or spiritual—and whether those needs are being met. Refer to the following list as needed:
 
-—Personal hygiene, grooming, and appropriate dress—Position—Assistive and other restorative devices—Rehabilitation issues—Functional limitations in ADL—Functional limitations in gait, balance and coordination—Hydration and nutritional status—Resident rights—Activity for time of day (appropriate or inappropriate)—Emotional status—Level of orientation—Awareness of surroundings—Behaviors—Cleanliness of immediate environment (wheelchair, bed, bedside table, etc.)—Odors—Adequate clothing and care supplies as well as maintenance and cleanliness of same
+—Personal hygiene, grooming, and appropriate dress —Position —Assistive and other restorative devices —Rehabilitation issues —Functional limitations in ADL —Functional limitations in gait, balance and coordination —Hydration and nutritional status —Resident rights —Activity for time of day (appropriate or inappropriate) —Emotional status —Level of orientation —Awareness of surroundings —Behaviors —Cleanliness of immediate environment (wheelchair, bed, bedside table, etc.) —Odors —Adequate clothing and care supplies as well as maintenance and cleanliness of same
 
 (4) *Review of the Physical Environment.* As you tour each resident's room and auxiliary rooms, also examine them in connection with the physical environment requirements. You need not document physical environment on the Tour Notes Worksheet. Instead, you may note any negative findings directly on the Survey Report Form in the remarks section.
 
@@ -172,7 +172,7 @@ Transcribe notes of a negative nature onto the SRF in the “Remarks” column u
 
 (1) *Observation.* Conduct observations concurrently with interviews of residents, family/significant others, and discussions with direct care staff [of the various disciplines involved. In multi-facility operations, whenever possible, observe staff that is regularly assigned to the facility in order to gain an understanding of the care and services usually provided.] Maintain respect for resident privacy. Minimize disruption of the operations of the facility or impositions upon any resident as much as possible. Based upon your observations of the residents' needs, gather information about any of the following areas, as appropriate:
 
-Bowel and bladder trainingCatheter careRestraintsInjectionsParenteral fluidsTube feeding/gastrostomyColostomy/ileostomyRespiratory therapyTracheostomy careSuctioning
+Bowel and bladder training Catheter care Restraints Injections Parenteral fluids Tube feeding/gastrostomy Colostomy/ileostomy Respiratory therapy Tracheostomy care Suctioning
 
 (2) *Interviews.* Interview each resident in private unless he/she independently requests that a facility staff member or other individual be present. Conduct the in-depth interview in a nonthreatening and noninvasive fashion so as to decrease anxiety and defensiveness. The open-ended approach described in the section on the Resident Council is also appropriate for the in-depth interview. While prolonged time expenditure is not usually a worthwhile use of resources or the resident's time, do allow time initially to establish rapport.
 
@@ -192,17 +192,17 @@ At each interview:
 
 • When residents experience difficulty expressing themselves:
 
-—Avoid pressuring residents to verbalize—Accept and respond to all communication—Ignore mistakes in word choice—Allow time for recollection of words—Encourage self-expression through any means available
+—Avoid pressuring residents to verbalize —Accept and respond to all communication —Ignore mistakes in word choice —Allow time for recollection of words —Encourage self-expression through any means available
 
 • When interviewing residents with decreased receptive capacity:
 
-—Speak slowly and distinctly—Speak at conversational voice level—Sit within the resident's line of vision• Listen to all resident information/allegations without judgment. Information gathered subsequently may substantiate or repudiate an allegation.
+—Speak slowly and distinctly —Speak at conversational voice level—Sit within the resident's line of vision • Listen to all resident information/allegations without judgment. Information gathered subsequently may substantiate or repudiate an allegation.
 
 The length of the interview varies, depending on the condition and wishes of the resident and the amount of information supplied. Expect the average interview, however, to last approximately 15 minutes. Courteously terminate an interview whenever the resident is unable or unwilling to continue, or is too confused or disoriented to continue. Do, however, perform the other activities of this task (observation and record review). If, in spite of your conversing during the tour, you find that less than 40 percent of the residents in your sample are sufficiently alert and willing to be interviewed, try to select replacements so that a complete OIRR is performed for a group this size, if possible. There may be situations, however, where the resident population has a high percentage of confused individuals and this percentage is not achievable. Expect that the information from confused individuals can be, but is not necessarily, less reliable than that from more alert individuals.
 
 Include the following areas in the interview of each resident in the sample:
 
-Activities of daily livingGrooming/hygieneNutrition/dietaryRestorative/rehabilitation care and servicesActivitiesSocial servicesResident rights
+Activities of daily living Grooming/hygiene Nutrition/dietary Restorative/rehabilitation care and services Activities Social services Resident rights
 
 Refer to the Care Guidelines “evaluation factors” as a resource for possible elements to consider when focusing on particular aspects of care and resident needs.
 

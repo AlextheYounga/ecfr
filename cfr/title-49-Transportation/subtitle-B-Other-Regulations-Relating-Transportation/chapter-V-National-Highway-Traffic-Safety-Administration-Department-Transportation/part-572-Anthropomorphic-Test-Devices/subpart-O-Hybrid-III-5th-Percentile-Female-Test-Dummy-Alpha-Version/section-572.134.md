@@ -1,5 +1,7 @@
 ##### § 572.134 Thorax assembly and test procedure. #####
 
+Link to an amendment published at 90 FR 264, Jan. 3, 2025.
+
 (a) Thorax (Upper Torso) Assembly (refer to § 572.130(a)(1)(iii)). The thorax consists of the part of the torso assembly shown in drawing 880105-300.
 
 (b) When the anterior surface of the thorax of a completely assembled dummy (drawing 880105-000) is impacted by a test probe conforming to section 572.137(a) at 6.71 ±0.12 m/s (22.0 ±0.4 ft/s) according to the test procedure in subsection (c) of this section:

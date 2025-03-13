@@ -1,5 +1,7 @@
 ##### § 210.7 Service of process and other documents; publication of notices. #####
 
+Link to an amendment published at 90 FR 238, Jan. 3, 2025.
+
 (a) *Manner of service.* (1) The service of process and all documents issued by or on behalf of the Commission or the administrative law judge—and the service of all documents issued by parties under §§ 210.27 through 210.34 of this part—shall be in accordance with § 201.16 of this chapter, unless the Commission, the administrative law judge, or this or another section of this part specifically provides otherwise.
 
 (2) The service of all initial determinations as defined in § 210.42, all cease and desist orders as set forth in § 210.50(a)(1), and all documents containing confidential business information as defined in § 201.6(a), issued by or on behalf of the Commission or the administrative law judge on a private party, shall be effected by serving a copy of the document by express delivery, as defined in § 201.16(e), on the person to be served, on a member of the partnership to be served, on the president, secretary, other executive officer, or member of the board of directors of the corporation, association, or other organization to be served, or, if an attorney represents any of the above in connection with an investigation under this subtitle, by serving a copy by express delivery on such attorney.

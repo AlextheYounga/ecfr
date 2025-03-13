@@ -1,5 +1,7 @@
 ##### § 210.14 Amendments to pleadings and notice; supplemental submissions; counterclaims; consolidation of investigations. #####
 
+Link to an amendment published at 90 FR 241, Jan. 3, 2025.
+
 (a) *Preinstitution amendments.* The complaint may be amended at any time prior to the institution of the investigation. If, prior to institution, the complainant seeks to amend a complaint to add a respondent or to assert an additional unfair act not in the original complaint, including asserting a new patent or patent claim, then the complaint shall be treated as if it had been filed on the date the amendment is filed for purposes of §§ 210.8(b) and (c), 210.9, and 210.10(a).
 
 (b) *Postinstitution amendments generally.* (1) After an investigation has been instituted, the complaint or notice of investigation may be amended only by leave of the Commission for good cause shown and upon such conditions as are necessary to avoid prejudicing the public interest and the rights of the parties to the investigation. A motion for amendment must be made to the presiding administrative law judge. A motion to amend the complaint and notice of investigation to name an additional respondent after institution shall be served on the proposed respondent. If the proposed amendment of the complaint would require amending the notice of investigation, the presiding administrative law judge may grant the motion only by filing with the Commission an initial determination. All other dispositions of such motions shall be by order.

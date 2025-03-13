@@ -1,5 +1,7 @@
 ##### § 210.37 Evidence. #####
 
+Link to an amendment published at 90 FR 245, Jan. 3, 2025.
+
 (a) *Burden of proof.* The proponent of any factual proposition shall be required to sustain the burden of proof with respect thereto.
 
 (b) *Admissibility.* Relevant, material, and reliable evidence shall be admitted. Irrelevant, immaterial, unreliable, or unduly repetitious evidence shall be excluded. Immaterial or irrelevant parts of an admissible document shall be segregated and excluded as far as practicable.

@@ -1,5 +1,7 @@
 ##### § 645.3 Who is eligible to participate in an Upward Bound project? #####
 
+Link to an amendment published at 90 FR 504, Jan. 3, 2025.
+
 An individual is eligible to participate in a Regular, Veterans, or a Math and Science Upward Bound project if the individual meets all of the following requirements:
 
 (a)(1) Is a citizen or national of the United States.

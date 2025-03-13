@@ -1,4 +1,4 @@
-##### § 57.314 Repayment of loans made after November 17, 1971, for failure to complete a program of study.2 #####
+##### § 57.314 Repayment of loans made after November 17, 1971, for failure to complete a program of study. 2 #####
 
 2 Effective November 26, 1984, the Secretary stopped accepting applications under § 57.314 because Federal funds are not available for this provision.
 

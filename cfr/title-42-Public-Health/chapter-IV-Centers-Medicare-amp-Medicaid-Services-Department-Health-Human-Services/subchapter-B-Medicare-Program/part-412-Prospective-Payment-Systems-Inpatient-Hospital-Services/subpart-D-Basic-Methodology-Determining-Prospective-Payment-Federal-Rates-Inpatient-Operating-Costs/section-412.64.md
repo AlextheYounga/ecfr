@@ -110,8 +110,7 @@
 
 (3) To the extent CMS determines that changes to the DRG classification and recalibrations of the DRG relative weights for a previous year (or estimates that such adjustments for a future fiscal year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year that are a result of changes in coding or classification of discharges that do not reflect real changes in case mix, CMS may adjust the standardized amount for subsequent fiscal years so as to eliminate the effect of such coding and classification changes.
 
-(4) CMS makes an adjustment to the wage index to ensure that aggregate payments after implementation of the rural floor under section 4410 of the Balanced Budget Act of 1997 (Pub. L. 105-33) and, for discharges on or after October 1, 2004, and before October 1, 2018, the imputed floor under paragraph (h)(4) of this section are equal to the aggregate prospective payments that would have been made in the absence of such provisions as follows
-:
+(4) CMS makes an adjustment to the wage index to ensure that aggregate payments after implementation of the rural floor under section 4410 of the Balanced Budget Act of 1997 (Pub. L. 105-33) and, for discharges on or after October 1, 2004, and before October 1, 2018, the imputed floor under paragraph (h)(4) of this section are equal to the aggregate prospective payments that would have been made in the absence of such provisions as follows :
 
 (i) Beginning October 1, 2008, such adjustment is transitioned from a nationwide to a statewide adjustment as follows:
 
@@ -219,4 +218,4 @@
 
 (ii) CMS will include a listing of qualifying frontier States and denote the hospitals receiving a wage index increase attributable to this provision in its annual updates to the hospital inpatient prospective payment system published in the Federal Register.
 
-[69 FR 49242, Aug. 11, 2004]Editorial Note:For Federal Register citations affecting § 412.64, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[69 FR 49242, Aug. 11, 2004] Editorial Note:For Federal Register citations affecting § 412.64, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

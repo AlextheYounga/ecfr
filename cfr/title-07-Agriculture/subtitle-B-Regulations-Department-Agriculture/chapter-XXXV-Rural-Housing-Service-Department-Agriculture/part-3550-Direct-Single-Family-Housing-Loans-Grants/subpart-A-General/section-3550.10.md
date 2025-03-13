@@ -1,5 +1,7 @@
 ##### § 3550.10 Definitions. #####
 
+Link to an amendment published at 90 FR 203, Jan. 3, 2025.
+
 *Acceleration.* Demand for immediate repayment of the entire balance of a debt if the security instruments are breached.
 
 *Adjusted income.* Used to determine whether an applicant is income-eligible. Adjusted income provides for deductions to account for varying household circumstances and expenses. See § 3550.54 for a complete description of adjusted income.

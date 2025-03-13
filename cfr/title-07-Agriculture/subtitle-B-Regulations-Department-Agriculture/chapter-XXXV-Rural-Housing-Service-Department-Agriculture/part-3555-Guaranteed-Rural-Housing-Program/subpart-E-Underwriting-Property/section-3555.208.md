@@ -1,5 +1,7 @@
 ##### § 3555.208 Special requirements for manufactured homes. #####
 
+Link to an amendment published at 90 FR 203, Jan. 3, 2025.
+
 Loans may be guaranteed for manufactured homes if all the requirements in this section are met.
 
 (a) *Eligible costs.* In addition to the loan purposes described in § 3555.101, Rural Development may guarantee a loan used for the following purposes related to manufactured homes when a real estate mortgage covers both the unit and the site:

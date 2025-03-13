@@ -1,5 +1,7 @@
 ##### 9.104-6 Federal Awardee Performance and Integrity Information System. #####
 
+Link to an amendment published at 90 FR 511, Jan. 3, 2025.
+
 (a)(1) Before awarding a contract in excess of the simplified acquisition threshold, the contracting officer shall review the performance and integrity information available in the Federal Awardee Performance and Integrity Information System (FAPIIS), (available at *https://www.cpars.gov* , including FAPIIS information from the System for Award Management (SAM) Exclusions and the Contractor Performance Assessment Reporting System (CPARS)
 
 (2) In accordance with 41 U.S.C. 2313(d)(3), FAPIIS also identifies—

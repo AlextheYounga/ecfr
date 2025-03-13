@@ -1,6 +1,6 @@
 ##### § 417.430 Application procedures. #####
 
-(a) *Application forms and other enrollment mechanisms.*(1) The application form must comply with CMS instructions regarding content and format and be approved by CMS as described in § 422.2262 of this chapter. The application must be completed by an HMO or CMP eligible (or soon to become eligible) individual and include authorization for disclosure between HHS and its designees and the HMO or CMP.
+(a) *Application forms and other enrollment mechanisms.* (1) The application form must comply with CMS instructions regarding content and format and be approved by CMS as described in § 422.2262 of this chapter. The application must be completed by an HMO or CMP eligible (or soon to become eligible) individual and include authorization for disclosure between HHS and its designees and the HMO or CMP.
 
 (2) The HMO or CMP must file and retain application forms for the period specified in CMS instructions.
 

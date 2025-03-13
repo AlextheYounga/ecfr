@@ -114,4 +114,4 @@
 
 (5) An approved CAP vendor that has billed and been paid for CAP drugs that have not been administered must refund any payments made by CMS or the beneficiary and his or her supplemental insurer in accordance with § 414.914(h)(3)(i)(2) of this chapter.
 
-[70 FR 39098, July 6, 2005, as amended at 72 FR 66403, Nov. 27, 2007; 74 FR 62013, Nov. 25, 2009]Editorial Note:At 72 FR 66222, November 27, 2007, § 414.917 was amended by adding paragraph (d), which contained two paragraphs labeled (d)(1)(ii).
+[70 FR 39098, July 6, 2005, as amended at 72 FR 66403, Nov. 27, 2007; 74 FR 62013, Nov. 25, 2009] Editorial Note:At 72 FR 66222, November 27, 2007, § 414.917 was amended by adding paragraph (d), which contained two paragraphs labeled (d)(1)(ii).

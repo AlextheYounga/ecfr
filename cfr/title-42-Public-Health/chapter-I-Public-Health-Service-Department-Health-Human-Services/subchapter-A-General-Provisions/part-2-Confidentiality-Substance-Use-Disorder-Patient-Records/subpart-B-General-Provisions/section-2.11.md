@@ -30,8 +30,7 @@ For purposes of the regulations in this part:
 
 *Intermediary* means a person, other than a part 2 program, covered entity, or business associate, who has received records under a general designation in a written patient consent to be disclosed to one or more of its member participant(s) who has a treating provider relationship with the patient.
 
-*Investigative agency* means a Federal, state, Tribal, territorial, or local administrative, regulatory, supervisory, investigative, law enforcement, or prosecutorial agency having jurisdiction over the activities of a part 2 program or other person
-holding records under this part.
+*Investigative agency* means a Federal, state, Tribal, territorial, or local administrative, regulatory, supervisory, investigative, law enforcement, or prosecutorial agency having jurisdiction over the activities of a part 2 program or other person holding records under this part.
 
 *Lawful holder* means a person who is bound by this part because they have received records as the result of one of the following:
 

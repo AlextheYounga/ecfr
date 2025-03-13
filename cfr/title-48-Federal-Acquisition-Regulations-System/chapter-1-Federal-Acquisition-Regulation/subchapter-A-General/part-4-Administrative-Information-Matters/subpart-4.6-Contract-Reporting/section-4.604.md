@@ -1,5 +1,7 @@
 ##### 4.604 Responsibilities. #####
 
+Link to an amendment published at 90 FR 521, Jan. 3, 2025.
+
 (a) The Senior Procurement Executive in coordination with the head of the contracting activity is responsible for developing and monitoring a process to ensure timely and accurate reporting of contractual actions to FPDS.
 
 (b)(1) The responsibility for the completion and accuracy of the individual contract action report (CAR) resides with the contracting officer who awarded the contract action. CARs in a draft or error status in FPDS are not considered complete.

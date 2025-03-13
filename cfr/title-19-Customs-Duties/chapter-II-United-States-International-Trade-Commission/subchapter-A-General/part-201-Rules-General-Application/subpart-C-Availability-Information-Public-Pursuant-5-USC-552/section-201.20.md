@@ -1,5 +1,7 @@
 ##### § 201.20 Fees. #####
 
+Link to an amendment published at 90 FR 234, Jan. 3, 2025.
+
 (a) *In general.* Fees pursuant to 5 U.S.C. 552 shall be assessed according to the schedule contained in paragraph (b) of this section for services rendered by agency personnel in responding to and processing requests for records under this subpart. All fees so assessed shall be charged to the requester, except where the charging of fees is limited under paragraph (c) of this section or where a waiver or reduction of fees is granted under paragraph (d) of this section. The Secretary will collect all applicable fees. Requesters shall pay fees by check or money order made payable to the Treasury of the United States.
 
 (b) *Charges.* In responding to requests under this subpart, the following fees shall be assessed, unless a waiver or reduction of fees has been granted pursuant to paragraph (d) of this section:

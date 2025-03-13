@@ -1,6 +1,6 @@
 ##### § 23.4 How must an entity apply for assignment? #####
 
-(a) An application for the assignment of National Health Service Corps personnel must be submitted to the Secretary by an eligibe applicant in the form and at the time prescribed by the Secretary.1 The application must be signed by an individual authorized to act for the applicant and to assume on behalf of the applicant the obligations imposed by law, the Act, this regulation, and any additional conditions of assignment imposed under these authorities.
+(a) An application for the assignment of National Health Service Corps personnel must be submitted to the Secretary by an eligibe applicant in the form and at the time prescribed by the Secretary. 1 The application must be signed by an individual authorized to act for the applicant and to assume on behalf of the applicant the obligations imposed by law, the Act, this regulation, and any additional conditions of assignment imposed under these authorities.
 
 1 Applications and instructions may be obtained from Regional Offices of the Department of Health and Human Services at the addresses set forth at 45 CFR 5.31(b).
 

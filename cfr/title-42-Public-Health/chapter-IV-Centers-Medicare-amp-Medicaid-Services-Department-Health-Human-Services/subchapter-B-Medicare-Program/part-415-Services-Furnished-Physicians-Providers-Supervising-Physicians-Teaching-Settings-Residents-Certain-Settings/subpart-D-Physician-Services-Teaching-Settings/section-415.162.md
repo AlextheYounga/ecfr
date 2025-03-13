@@ -54,7 +54,7 @@
 
 (2) The following examples illustrate how the allowable imputed value for volunteer services is determined. In each example, it has been assumed that the average salary equivalent hourly rate is equal to the hourly rate for the individual physician's compensated services.
 
-Example No: 1.Dr. Jones received $3,000 a year from Hospital X for services other than direct medical services to all patients, for example, utilization review and administrative services. Dr. Jones also voluntarily furnished direct medical services to beneficiaries. The imputed value of the volunteer services amounted to $10,000 for the cost reporting period. The full imputed value of Dr. Jones' volunteer direct medical services would be allowed since the total amount of the imputed value ($10,000) and the compensated services ($3,000) does not exceed $30,000.Example No: 2.Dr. Smith received $25,000 from Hospital X for services as a department head in a teaching hospital. Dr. Smith also voluntarily furnished direct medical services to beneficiaries. The imputed value of the volunteer services amounted to $10,000. Only $5,000 of the imputed value of volunteer services would be allowed since the total amount of the imputed value ($10,000) and the compensated services ($25,000) exceeds the $30,000 maximum amount allowable for all of Dr. Smith's services.Computation:
+Example No: 1.Dr. Jones received $3,000 a year from Hospital X for services other than direct medical services to all patients, for example, utilization review and administrative services. Dr. Jones also voluntarily furnished direct medical services to beneficiaries. The imputed value of the volunteer services amounted to $10,000 for the cost reporting period. The full imputed value of Dr. Jones' volunteer direct medical services would be allowed since the total amount of the imputed value ($10,000) and the compensated services ($3,000) does not exceed $30,000.Example No: 2.Dr. Smith received $25,000 from Hospital X for services as a department head in a teaching hospital. Dr. Smith also voluntarily furnished direct medical services to beneficiaries. The imputed value of the volunteer services amounted to $10,000. Only $5,000 of the imputed value of volunteer services would be allowed since the total amount of the imputed value ($10,000) and the compensated services ($25,000) exceeds the $30,000 maximum amount allowable for all of Dr. Smith's services. Computation:
 
 |   Maximum amount allowable for all services performed by Dr. Smith for purposes of this computation    |$30,000|
 |--------------------------------------------------------------------------------------------------------|-------|
@@ -105,7 +105,7 @@ Example No. 3.Dr. Brown is not compensated by Hospital X for any services furnis
 
 (i) *Application.* (1) The following illustrates how apportionment based on the aggregate per diem method for costs of physician direct medical and surgical services furnished in a teaching hospital to patients is determined.
 
-Teaching Hospital YStatistical and financial data:
+Teaching Hospital Y Statistical and financial data:
 
 |                     Total inpatient days as defined in paragraph (h)(2) of this section and outpatient visit days as defined in paragraph (h)(3) of this section                      |  75,000  |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|

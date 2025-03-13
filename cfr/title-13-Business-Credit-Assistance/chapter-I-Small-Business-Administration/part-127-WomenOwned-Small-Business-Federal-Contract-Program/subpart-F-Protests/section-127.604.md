@@ -1,7 +1,5 @@
 ##### § 127.604 How will SBA process an EDWOSB or WOSB status protest? #####
 
-Link to an amendment published at 89 FR 96094, Dec. 4, 2024.
-
 (a) *Notice of receipt of protest.* Upon receipt of the protest, SBA will notify the contracting officer and the protestor of the date SBA received the protest and whether SBA will process the protest or dismiss it under paragraph (b) of this section. The contracting officer may award the contract after receipt of a protest if the contracting officer determines in writing that an award must be made to protect the public interest. Notwithstanding such a determination, the provisions of paragraph (f) of this section apply to the procurement in question.
 
 (b) *Dismissal of protest.* If SBA determines that the protest is premature, untimely, nonspecific, or is based on nonprotestable allegations, SBA will dismiss the protest and will send the contracting officer and the protestor a notice of dismissal, citing the reason(s) for the dismissal. Notwithstanding SBA's dismissal of the protest, SBA may, in its sole discretion, consider the protest allegations in determining whether to conduct an examination of the protested concern pursuant to subpart D of this part or submit a protest itself.
@@ -32,4 +30,12 @@ Link to an amendment published at 89 FR 96094, Dec. 4, 2024.
 
 (4) A concern that has been found to be ineligible will be decertified from the program and may not submit an offer as a WOSB or EDWOSB on another procurement until it is recertified. A concern may be recertified by reapplying to the program pursuant to § 127.305.
 
-[75 FR 62282, Oct. 7, 2010, as amended at 77 FR 1861, Jan. 12, 2012; 78 FR 61148, Oct. 2, 2013; 85 FR 27665, May 11, 2020]
+(5) Once a final determination has been made that a concern does not meet the requirements of a WOSB or EDWOSB, the concern cannot self-certify as a WOSB or EDWOSB, as applicable, for any WOSB or EDWOSB contract. If a concern does so, it may be in violation of criminal laws, including section 16(d) of the Small Business Act, 15 U.S.C. 645(d). If the concern has already certified itself as a WOSB or EDWOSB on a pending procurement, the concern must immediately inform the contracting officer for the procuring agency of its decertification.
+
+(i) Not later than two days after the date on which a final determination is made, such concern must update its WOSB/EDWOSB status in the System for Award Management (or any successor system).
+
+(ii) If a business concern fails to update its WOSB/EDWOSB status in the System for Award Management (or any successor system) in response to the final determination, SBA will make such update within two business days of the concern's failure to do so.
+
+(iii) A concern required to make an update in the System for Award Management (or any successor system) shall notify a contracting officer for each contract with respect to which such concern has an offer or bid pending of the determination made, if the concern finds, in good faith, that such determination affects the eligibility of the concern to perform such contract.
+
+[75 FR 62282, Oct. 7, 2010, as amended at 77 FR 1861, Jan. 12, 2012; 78 FR 61148, Oct. 2, 2013; 85 FR 27665, May 11, 2020; 89 FR 96094, Dec. 4, 2024]

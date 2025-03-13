@@ -1,0 +1,3 @@
+##### § 930.310 Pre-award costs. #####
+
+Pre-award costs may be reimbursed only with the specific approval of the Agreements Officer (AO), meaning the cognizant warranted Department of Energy (DOE) or National Nuclear Security Administration official authorized to execute and administer other transaction agreements. All pre-award costs are incurred at the applicant's and/or awardee's risk. DOE is not obligated to reimburse the costs if, for any reason, the applicant does not receive an award, the award is less than anticipated and inadequate to cover the costs, or the AO did not provide prior approval for the reimbursement of the pre-award costs.

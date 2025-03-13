@@ -158,8 +158,7 @@
 
 (iv) The minimum number of member months necessary for an MCO's, PIHP's, or PAHP's medical loss ratio to be determined fully credible will be set so that the minimum credibility adjustment for any partially credible MCO, PIHP, or PAHP would be greater than 1 percent. Any MCO, PIHP, or PAHP with enrollment greater than this number of member months will be determined to be fully credible.
 
-(v) A MCO, PIHP, or PAHP with a number of enrollee member months
-between the levels established for non-credible and fully credible plans will be deemed partially credible, and CMS will develop adjustments, using linear interpolation, based on the number of enrollee member months.
+(v) A MCO, PIHP, or PAHP with a number of enrollee member months between the levels established for non-credible and fully credible plans will be deemed partially credible, and CMS will develop adjustments, using linear interpolation, based on the number of enrollee member months.
 
 (vi) CMS may adjust the number of enrollee member months necessary for a MCO's, PIHP's, or PAHP's experience to be non-credible, partially credible, or fully credible so that the standards are rounded for the purposes of administrative simplification. The number of member months will be rounded to 1,000 or a different degree of rounding as appropriate to ensure that the credibility thresholds are consistent with the objectives of this regulation.
 

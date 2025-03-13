@@ -30,7 +30,7 @@
 
 (2) An enrollee may request that a Part D plan sponsor reopen its coverage determination or redetermination within 4 years from the date of the coverage determination or redetermination for good cause in accordance with § 423.1986.
 
-(d) *Time frame and requirements for reopening reconsiderations, decisions and reviews initiated by an IRE, ALJ or attorney adjudicator, or the Council.*(1) An IRE may reopen its reconsideration on its own motion within 180 calendar days from the date of the reconsideration for good cause in accordance with § 423.1986. If the IRE's reconsideration was procured by fraud or similar fault, then the IRE may reopen at any time.
+(d) *Time frame and requirements for reopening reconsiderations, decisions and reviews initiated by an IRE, ALJ or attorney adjudicator, or the Council.* (1) An IRE may reopen its reconsideration on its own motion within 180 calendar days from the date of the reconsideration for good cause in accordance with § 423.1986. If the IRE's reconsideration was procured by fraud or similar fault, then the IRE may reopen at any time.
 
 (2) An ALJ or attorney adjudicator may reopen his or her decision, or the Council may reopen an ALJ or attorney adjudicator decision on its own motion within 180 calendar days from the date of the decision for good cause in accordance with § 423.1986. If the decision was procured by fraud or similar fault, then the ALJ or attorney adjudicator may reopen his or her decision, or the Council may reopen an ALJ or attorney adjudicator decision at any time.
 

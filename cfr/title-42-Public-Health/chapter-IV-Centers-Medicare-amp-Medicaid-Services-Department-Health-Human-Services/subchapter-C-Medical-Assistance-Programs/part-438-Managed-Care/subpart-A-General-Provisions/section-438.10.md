@@ -40,8 +40,7 @@
 
 (iii) The information is provided in an electronic form which can be electronically retained and printed;
 
-(iv) The information is consistent with the content and language
-requirements of this section; and
+(iv) The information is consistent with the content and language requirements of this section; and
 
 (v) The enrollee is informed that the information is available in paper form without charge upon request and provides it upon request within 5 business days.
 

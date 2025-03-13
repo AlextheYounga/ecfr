@@ -2,7 +2,7 @@
 
 For the purposes of this subpart, the following definitions apply:
 
-*Chronic renal insufficiency* means the stage of renal disease associated with a reduction in renal function not severe enough to require dialysis or transplantation (glomerular filtration rate [GFR] 15-59 ml/min/1.73m2).
+*Chronic renal insufficiency* means the stage of renal disease associated with a reduction in renal function not severe enough to require dialysis or transplantation (glomerular filtration rate [GFR] 15-59 ml/min/1.73m 2).
 
 *Diabetes* means diabetes mellitus, a condition of abnormal glucose metabolism .
 

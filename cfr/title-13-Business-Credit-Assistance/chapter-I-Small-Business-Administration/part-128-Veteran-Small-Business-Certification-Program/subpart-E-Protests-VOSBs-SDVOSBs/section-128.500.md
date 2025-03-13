@@ -1,6 +1,6 @@
 ##### § 128.500 What are the requirements for filing a VOSB or SDVOSB status protest? #####
 
-Link to an amendment published at 89 FR 96094, Dec. 4, 2024.Link to an amendment published at 89 FR 102510, Dec. 17, 2024.
+Link to an amendment published at 89 FR 102510, Dec. 17, 2024.
 
 (a) All challenges to the inclusion in the certification database of a VOSB or SDVOSB based on the status of the concern as a small business concern or the ownership or control of the concern, shall be heard by the Office of Hearings and Appeals of the Small Business Administration in accordance with part 134 of this chapter. The decision of the Office of Hearings and Appeals shall be considered final agency action.
 
@@ -14,4 +14,8 @@ Link to an amendment published at 89 FR 96094, Dec. 4, 2024.Link to an amendment
 
 (2) If a business concern fails to update its VOSB or SDVOSB status in the System for Award Management (or any successor system) in response to decertification, SBA will make such update within two days of the business's failure to do so.
 
-[87 FR 73412, Nov. 29, 2022, as amended at 88 FR 26216, Apr. 27, 2023]
+(3) A concern required to make an update in the System for Award Management (or any successor system) shall notify a contracting officer for each contract with respect to which such concern has an offer or bid pending of the determination made, if the concern finds, in good faith, that such determination affects the eligibility of the concern to perform such contract.
+
+(e) Only interested parties may protest the VOSB or SDVOSB status of an apparent successful offeror for a VOSB or SDVOSB contract. An interested party means any certified VOSB or SDVOSB that submits an offer for a specific VOSB or SDVOSB set-aside contract (including a multiple award contract) or order, or SBA.
+
+[87 FR 73412, Nov. 29, 2022, as amended at 88 FR 26216, Apr. 27, 2023; 89 FR 96094, Dec. 4, 2024]

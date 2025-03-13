@@ -1,5 +1,7 @@
 ##### § 210.30 Requests for production of documents and things and entry upon land. #####
 
+Link to an amendment published at 90 FR 244, Jan. 3, 2025.
+
 (a) *Scope.* Any party may serve on any other party a request:
 
 (1) To produce and permit the party making the request, or someone acting on his behalf, to inspect and copy any designated documents (including writings, drawings, graphs, charts, photographs, and other data compilations from which information can be obtained), or to inspect and copy, test, or sample any tangible things that are in the possession, custody, or control of the party upon whom the request is served; or

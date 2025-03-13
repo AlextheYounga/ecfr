@@ -1,5 +1,7 @@
 ##### § 572.132 Head assembly and test procedure. #####
 
+Link to an amendment published at 90 FR 263, Jan. 3, 2025.
+
 (a) The head assembly (refer to § 572.130(a)(1)(i)) for this test consists of the complete head (drawing 880105-100X), a six-axis neck transducer (drawing SA572-S11) or its structural replacement (drawing 78051-383X), and 3 accelerometers (drawing SA572-S4).
 
 (b) When the head assembly is dropped from a height of 376.0 ±1.0 mm (14.8 ±0.04 in) in accordance with subsection (c) of this section, the peak resultant acceleration at the location of the accelerometers at the head CG may not be less than 250 G or more than 300 G. The resultant acceleration vs. time history curve shall be unimodal; oscillations occurring after the main pulse must be less than 10 percent of the peak resultant acceleration. The lateral acceleration shall not exceed 15 G (zero to peak).

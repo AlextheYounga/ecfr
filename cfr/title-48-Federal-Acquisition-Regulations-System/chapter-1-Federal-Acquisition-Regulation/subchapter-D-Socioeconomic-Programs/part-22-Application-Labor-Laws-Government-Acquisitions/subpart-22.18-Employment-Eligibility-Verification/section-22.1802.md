@@ -1,5 +1,7 @@
 ##### 22.1802 Policy. #####
 
+Link to an amendment published at 90 FR 516, Jan. 3, 2025.
+
 (a) Statutes and Executive orders require employers to abide by the immigration laws of the United States and to employ in the United States only individuals who are eligible to work in the United States. The E-Verify program provides an Internet-based means of verifying employment eligibility of workers employed in the United States, but is not a substitute for any other employment eligibility verification requirements.
 
 (b) Contracting officers shall include in solicitations and contracts, as prescribed at 22.1803, requirements that Federal contractors must—

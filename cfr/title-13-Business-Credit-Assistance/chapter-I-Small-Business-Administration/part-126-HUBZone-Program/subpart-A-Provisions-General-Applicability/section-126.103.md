@@ -1,6 +1,6 @@
 ##### § 126.103 What definitions are important in the HUBZone program? #####
 
-Link to an amendment published at 89 FR 96093, Dec. 4, 2024.Link to an amendment published at 89 FR 102495, Dec. 17, 2024.
+Link to an amendment published at 89 FR 102495, Dec. 17, 2024.
 
 *Administrator* means the Administrator of the United States Small Business Administration (SBA).
 
@@ -108,7 +108,7 @@ Link to an amendment published at 89 FR 96093, Dec. 4, 2024.Link to an amendment
 
 *Indian Tribal Government* means the governing body of any Indian tribe, band, nation, pueblo, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-*Interested party* means any concern that submits an offer for a specific HUBZone set-aside contract (including Multiple Award Contracts) or order, any concern that submitted an offer in full and open competition and its opportunity for award will be affected by a price evaluation preference given a qualified HUBZone small business concern, any concern that submitted an offer in a full and open competition and its opportunity for award will be affected by a reserve of an award given to a qualified HUBZone small business concern, the contracting activity's contracting officer, or SBA.
+*Interested party* means any certified HUBZone small business concern that submits an offer for a specific HUBZone set-aside contract (including a multiple award contract) or order, any concern that submitted an offer in full and open competition and its opportunity for award will be affected by a price evaluation preference given to a certified HUBZone small business concern or by a reserve of an award given to a certified HUBZone small business concern, the contracting activity's contracting officer, or SBA.
 
 *Lands within the external boundaries of an Indian reservation* include all lands within the perimeter of an Indian reservation, whether tribally owned and governed or not. For example, land that is individually owned and located within the perimeter of an Indian reservation is “lands within the external boundaries of an Indian reservation.” By contrast, an Indian-owned parcel of land that is located outside the perimeter of an Indian reservation is not “lands within the external boundaries of an Indian reservation.”
 
@@ -178,4 +178,4 @@ Link to an amendment published at 89 FR 96093, Dec. 4, 2024.Link to an amendment
 
 *Small business concern (SBC)* means a concern that, with its affiliates, meets the size standard for its primary industry, pursuant to part 121 of this chapter.
 
-[63 FR 31908, June 11, 1998, as amended at 66 FR 4645, Jan. 18, 2001; 69 FR 29421, May 24, 2004; 70 FR 51248, Aug. 30, 2005; 72 FR 50041, Aug. 30, 2007; 74 FR 45754, Sept. 4, 2009; 74 FR 56702, Nov. 3, 2009; 78 FR 61144, Oct. 2, 2013; 81 FR 51313, Aug. 4, 2016; 82 FR 48904, Oct. 23, 2017; 84 FR 62449, Nov. 15, 2019; 84 FR 65239, Nov. 26, 2019; 86 FR 23864, May 5, 2021; 88 FR 21088, Apr. 10, 2023]
+[63 FR 31908, June 11, 1998, as amended at 66 FR 4645, Jan. 18, 2001; 69 FR 29421, May 24, 2004; 70 FR 51248, Aug. 30, 2005; 72 FR 50041, Aug. 30, 2007; 74 FR 45754, Sept. 4, 2009; 74 FR 56702, Nov. 3, 2009; 78 FR 61144, Oct. 2, 2013; 81 FR 51313, Aug. 4, 2016; 82 FR 48904, Oct. 23, 2017; 84 FR 62449, Nov. 15, 2019; 84 FR 65239, Nov. 26, 2019; 86 FR 23864, May 5, 2021; 88 FR 21088, Apr. 10, 2023; 89 FR 96093, Dec. 4, 2024]

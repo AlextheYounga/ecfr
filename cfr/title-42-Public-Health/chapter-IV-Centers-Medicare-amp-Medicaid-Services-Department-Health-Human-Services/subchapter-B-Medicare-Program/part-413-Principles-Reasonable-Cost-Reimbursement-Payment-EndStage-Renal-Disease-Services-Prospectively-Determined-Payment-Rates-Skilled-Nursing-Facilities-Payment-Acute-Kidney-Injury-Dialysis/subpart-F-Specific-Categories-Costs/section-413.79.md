@@ -432,4 +432,4 @@ Subject to the provisions in § 413.80, CMS determines a hospital's number of FT
 
 (q) *Determination of an increase in the otherwise applicable resident cap under section 4122 of the Consolidated Appropriations Act (Pub. L. 117-328).* For portions of cost reporting periods beginning on or after July 1, 2026, a hospital may receive an increase in its otherwise applicable FTE resident cap (as determined by CMS) if the hospital meets the requirements and qualifying criteria under section 1886(h)(10) of the Act and if the hospital submits an application to CMS within the timeframe specified by CMS.
 
-[69 FR 49254, Aug. 11, 2004]Editorial Note:For Federal Register citations affecting § 413.79, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[69 FR 49254, Aug. 11, 2004] Editorial Note:For Federal Register citations affecting § 413.79, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

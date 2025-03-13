@@ -1,5 +1,7 @@
 ##### 9.402 Policy. #####
 
+Link to an amendment published at 90 FR 511, Jan. 3, 2025.
+
 (a) Agencies shall solicit offers from, award contracts to, and consent to subcontracts with responsible contractors only. Debarment and suspension are discretionary actions that, taken in accordance with this subpart, are appropriate means to effectuate this policy.
 
 (b) The serious nature of debarment and suspension requires that these sanctions be imposed only in the public interest for the Government's protection and not for purposes of punishment. Agencies shall impose debarment or suspension to protect the Government's interest and only for the causes and in accordance with the procedures set forth in this subpart.

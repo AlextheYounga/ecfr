@@ -22,7 +22,7 @@
 
 (3) Calculated using the following formula:
 
-L10% = (a1 + u2 + u3)/9;L10% = 10 Percent Limit for a fiscal yeara1 = Total computable amount of expenditures for the fiscal year under section 2105(a)(1) of the Act for which Federal payments are available at the enhanced FMAP described in Section 2105(b) of the Act;u2 = Total computable expenditures for medical assistance for which Federal payments are made during the fiscal year based on the enhanced FMAP described in sections 1905(b) and 2105(b) of the Act for individuals described in section 1905(u)(2) of the Act; andu3 = Total computable expenditures for medical assistance for which Federal payments are made during the fiscal year based on the enhanced FMAP described in sections 1905(b) and 2105(b) of the Act for individuals described in section 1905(u)(3) of the Act.
+L10% = (a1 + u2 + u3)/9; L10% = 10 Percent Limit for a fiscal year a1 = Total computable amount of expenditures for the fiscal year under section 2105(a)(1) of the Act for which Federal payments are available at the enhanced FMAP described in Section 2105(b) of the Act; u2 = Total computable expenditures for medical assistance for which Federal payments are made during the fiscal year based on the enhanced FMAP described in sections 1905(b) and 2105(b) of the Act for individuals described in section 1905(u)(2) of the Act; and u3 = Total computable expenditures for medical assistance for which Federal payments are made during the fiscal year based on the enhanced FMAP described in sections 1905(b) and 2105(b) of the Act for individuals described in section 1905(u)(3) of the Act.
 
 (d) The expenditures under section 2105(a)(2) of the Act that are subject to the 10 percent limit are applied—
 

@@ -1,5 +1,7 @@
 ##### 19.702 Statutory requirements. #####
 
+Link to an amendment published at 90 FR 525, Jan. 3, 2025.
+
 Any contractor receiving a contract with a value greater than the simplified acquisition threshold must agree in the contract that small business, veteran-owned small business (VOSB), service-disabled veteran-owned small business (SDVOSB), HUBZone small business, small disadvantaged business (SDB), and women-owned small business (WOSB) concerns will have the maximum practicable opportunity to participate in contract performance consistent with its efficient performance. It is further the policy of the United States that its prime contractors establish procedures to ensure the timely payment of amounts due pursuant to the terms of their subcontracts with small business, VOSB concerns, SDVOSB concerns, HUBZone small business concerns, SDB concerns, and WOSB concerns.
 
 (a)(1) Except as stated in paragraph (b) of this section, section 8(d) of the Small Business Act (15 U.S.C. 637(d)) imposes the following requirements regarding subcontracting with small businesses and small business subcontracting plans:

@@ -1,5 +1,7 @@
 ##### 3.104-7 Violations or possible violations. #####
 
+Link to an amendment published at 90 FR 511, Jan. 3, 2025.
+
 (a) A contracting officer who receives or obtains information of a violation or possible violation of 41 U.S.C. 2102, 2103, or 2104 (see 3.104-3) must determine if the reported violation or possible violation has any impact on the pending award or selection of the contractor.
 
 (1) If the contracting officer concludes that there is no impact on the procurement, the contracting officer must forward the information concerning the violation or possible violation and documentation supporting a determination that there is no impact on the procurement to an individual designated in accordance with agency procedures.

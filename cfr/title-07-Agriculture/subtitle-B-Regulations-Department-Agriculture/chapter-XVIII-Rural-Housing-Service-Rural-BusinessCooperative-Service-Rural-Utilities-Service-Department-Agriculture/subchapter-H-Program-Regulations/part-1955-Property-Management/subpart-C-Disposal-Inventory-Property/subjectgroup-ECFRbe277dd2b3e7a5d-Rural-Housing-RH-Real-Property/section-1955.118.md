@@ -1,5 +1,7 @@
 ##### § 1955.118 Processing cash sales or MFH credit sales on NP terms. #####
 
+Link to an amendment published at 89 FR 106980, Dec. 31, 2024.
+
 (a) *Cash sales.* Cash sales will be closed by the servicing official collecting the purchase price (less any earnest money deposit or bid deposit) and delivering the deed to the purchaser.
 
 (b) *Credit sales.* The following provisions apply to MFH credit sales on NP terms:

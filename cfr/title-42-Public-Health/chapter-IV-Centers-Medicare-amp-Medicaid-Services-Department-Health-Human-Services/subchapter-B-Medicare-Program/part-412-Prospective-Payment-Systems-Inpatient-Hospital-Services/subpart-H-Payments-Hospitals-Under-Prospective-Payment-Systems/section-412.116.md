@@ -22,7 +22,7 @@
 
 (B) Has 100 or fewer beds available for use.
 
-(2) *Frequency of payment.* The intermediary estimates a hospital's prospective payments as described in paragraph (b)(3) of this section and makes biweekly payments equal to1/26 of the total estimated amount of payment for the year. Each payment is made two weeks after the end of a biweekly period of service, as described in § 413.64(h)(5) of this chapter. These payments are subject to final settlement.
+(2) *Frequency of payment.* The intermediary estimates a hospital's prospective payments as described in paragraph (b)(3) of this section and makes biweekly payments equal to 1/26 of the total estimated amount of payment for the year. Each payment is made two weeks after the end of a biweekly period of service, as described in § 413.64(h)(5) of this chapter. These payments are subject to final settlement.
 
 (3) *Amount of payment.* (i) The biweekly interim payment amount is based on the total estimated Medicare discharges for the reporting period multiplied by the hospital's estimated average prospective payment amount as described in paragraph (b)(3)(ii) of this paragraph. These interim payments are reviewed at least twice during the reporting period and adjusted if necessary. Fewer reviews may be necessary if a hospital receives interim payments for less than a full reporting period.
 

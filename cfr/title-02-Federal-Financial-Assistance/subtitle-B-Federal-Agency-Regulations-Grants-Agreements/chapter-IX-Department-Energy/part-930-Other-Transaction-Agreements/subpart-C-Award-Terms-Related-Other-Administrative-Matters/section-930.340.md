@@ -1,0 +1,5 @@
+##### § 930.340 Access to records. #####
+
+(a) The Department of Energy (DOE), through the Agreements Officer (AO), meaning the cognizant warranted DOE or National Nuclear Security Administration official authorized to execute and administer other transaction agreements, has an unfettered right of timely access to any documents, papers, or other records of the awardee which are pertinent to the Federal award, in order to inspect and make copies, audits, examinations, excerpts, and/or transcripts. The right also includes timely and reasonable access to the awardee's personnel for the purpose of interview and discussion related to such documents. The exercise of this authority is at the discretion of the AO.
+
+(b) Inspectors General and the Comptroller General of the United States may have independent legal authority to access to records or personnel related to the Federal award. Consistent with the independent legal authority, recipients should follow the laws and regulations applicable to requests for access to records or personnel from Inspectors General and the Comptroller General of the United States.

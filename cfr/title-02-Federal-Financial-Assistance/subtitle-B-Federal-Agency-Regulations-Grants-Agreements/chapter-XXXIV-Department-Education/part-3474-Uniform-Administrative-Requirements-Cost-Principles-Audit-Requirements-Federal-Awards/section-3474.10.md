@@ -1,4 +1,4 @@
-##### § 3474.10 Clarification regarding 2 CFR 200.207.2 #####
+##### § 3474.10 Clarification regarding 2 CFR 200.207. 2 #####
 
 2 C. Ref. 2 CFR 200.205, 200.207.
 

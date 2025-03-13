@@ -1,10 +1,8 @@
 ##### 52.204-8 Annual Representations and Certifications. #####
 
-Link to an amendment published at 89 FR 101831, Dec. 16, 2024.
-
 As prescribed in 4.1202(a), insert the following provision:
 
-Annual Representations and Certifications (MAY 2024)
+Annual Representations and Certifications (JAN 2025)
 
 (a)(1) The North American Industry Classification System (NAICS) code for this acquisition is \_\_\_\_\_\_\_ [*insert NAICS code*].
 
@@ -82,7 +80,7 @@ Annual Representations and Certifications (MAY 2024)
 
 (xviii) 52.223-4, Recovered Material Certification. This provision applies to solicitations that are for, or specify the use of, EPA-designated items.
 
-(xix) 52.223-22, Public Disclosure of Greenhouse Gas Emissions and Reduction Goals—Representation. This provision applies to solicitations that include the clause at 52.204-7.
+(xix) 52.223-22, Public Disclosure of Greenhouse Gas Emissions and Reduction Goals—Representation. This provision applies to solicitations that include the provision at 52.204-7.
 
 (xx) 52.225-2, Buy American Certificate. This provision applies to solicitations containing the clause at 52.225-1.
 

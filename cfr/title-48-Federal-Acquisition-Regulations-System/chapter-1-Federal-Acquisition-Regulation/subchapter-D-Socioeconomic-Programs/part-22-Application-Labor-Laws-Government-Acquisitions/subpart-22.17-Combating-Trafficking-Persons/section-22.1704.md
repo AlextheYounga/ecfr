@@ -1,5 +1,7 @@
 ##### 22.1704 Violations and remedies. #####
 
+Link to an amendment published at 90 FR 516, Jan. 3, 2025.
+
 (a) *Violations.* It is a violation of the Trafficking Victims Protection Act of 2000, as amended, (22 U.S.C. chapter 78), E.O. 13627, or the policies of this subpart if—
 
 (1) The contractor, contractor employee, subcontractor, subcontractor employee, or agent engages in severe forms of trafficking in persons during the period of performance of the contract;

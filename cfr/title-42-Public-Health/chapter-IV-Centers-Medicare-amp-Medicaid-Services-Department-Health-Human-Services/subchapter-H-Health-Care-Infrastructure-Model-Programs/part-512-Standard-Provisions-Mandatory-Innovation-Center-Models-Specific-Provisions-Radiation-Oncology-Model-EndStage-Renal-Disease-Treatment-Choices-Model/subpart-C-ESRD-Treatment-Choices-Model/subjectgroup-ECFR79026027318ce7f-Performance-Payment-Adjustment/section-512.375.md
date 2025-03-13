@@ -1,0 +1,5 @@
+##### § 512.375 Payments subject to adjustment. #####
+
+(a) *Facility PPA.* CMS adjusts the Adjusted ESRD PPS per Treatment Base Rate by the Facility PPA on claim lines with Type of Bill 072X, when the claim is submitted by an ETC Participant that is an ESRD facility and the beneficiary is at least 18 years old before the first day of the month, on claims with claim service dates during the applicable PPA Period as described in § 512.355(c).
+
+(b) *Clinician PPA.* CMS adjusts the amount otherwise paid under Medicare Part B with respect to MCP claims on claim lines with CPT codes 90957, 90958, 90959, 90960, 90961, 90962, 90965 and 90966 by the Clinician PPA when the claim is submitted by an ETC Participant who is a Managing Clinician and the beneficiary is at least 18 years old before the first day of the month, on claims with claim service dates during the applicable PPA Period as described in § 512.355(c).

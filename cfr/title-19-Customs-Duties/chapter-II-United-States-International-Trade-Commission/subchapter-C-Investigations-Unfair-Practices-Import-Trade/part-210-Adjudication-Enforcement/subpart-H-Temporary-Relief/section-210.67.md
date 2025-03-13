@@ -1,5 +1,7 @@
 ##### § 210.67 Remedy, the public interest, and bonding. #####
 
+Link to an amendment published at 90 FR 247, Jan. 3, 2025.
+
 The procedure for arriving at the Commission's determination of the issues of the appropriate form of temporary relief, whether the public interest factors enumerated in the statute preclude such relief, and the amount of the bond under which respondents' merchandise will be permitted to enter the United States during the pendency of any temporary relief order issued by the Commission, is as follows:
 
 (a) While the motion for temporary relief is before the administrative law judge, he may compel discovery on matters relating to remedy, the public interest and bonding (as provided in § 210.61). The administrative law judge also is authorized to make findings pertaining to the public interest, as provided in § 210.66(a). Such findings may be superseded, however, by Commission findings on that issue as provided in paragraph (c) of this section.

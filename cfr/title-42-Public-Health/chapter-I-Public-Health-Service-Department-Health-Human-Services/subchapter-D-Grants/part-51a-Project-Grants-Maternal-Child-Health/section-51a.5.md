@@ -2,7 +2,7 @@
 
 (a) The Secretary will determine the allocation of funds available under sections 502(a) and 502(b)(1)(A) of the Act for each of the activities described in § 51a.1.
 
-(b) Within the limit of funds determined by the Secretary to be available for each of the activities described in § 51a.1, the Secretary may award Federal funding for projects under this part to applicants which will, in his or her judgment, best promote the purpose of title V of the Social Security Act and address achievement of Healthy Children 2000 objectives,1 taking, the following factors into account:
+(b) Within the limit of funds determined by the Secretary to be available for each of the activities described in § 51a.1, the Secretary may award Federal funding for projects under this part to applicants which will, in his or her judgment, best promote the purpose of title V of the Social Security Act and address achievement of Healthy Children 2000 objectives, 1 taking, the following factors into account:
 
 1 Healthy Children 2000: National Health Promotion and Disease Prevention Objectives Related to Mothers, Infants, Children, Adolescents, and Youth is a special compendium of health status goals and national health objectives affecting mothers, infants, children, adolescents, and youth originally published in Healthy People 2000 in September 1990. Potential applicants may obtain a copy of Healthy People 2000 (Full Report: Stock No. 017-001-00474-0 or Healthy People 2000 (Summary Report; Stock No. 017-001-00473-1) through the Superintendent of Documents, Government Printing Office Washington, DC 20402-9325, (telephone: 202 512-1800).
 
