@@ -1,7 +1,5 @@
 ##### § 250.490 Hydrogen sulfide. #####
 
-Link to an amendment published at 89 FR 71120, Aug. 30, 2024.
-
 (a) *What precautions must I take when operating in an H*2*S area?* You must:
 
 (1) Take all necessary and feasible precautions and measures to protect personnel from the toxic effects of H2S and to mitigate damage to property and the environment caused by H2S. You must follow the requirements of this section when conducting drilling, well-completion/well-workover, and production operations in zones with H2S present and when conducting operations in zones where the presence of H2S is unknown. You do not need to follow these requirements when operating in zones where the absence of H2S has been confirmed; and
@@ -366,7 +364,7 @@ Link to an amendment published at 89 FR 71120, Aug. 30, 2024.
 
 (6) Use surface test units and related equipment that is designed for H2S service.
 
-(p) *Metallurgical properties of equipment.* When operating in a zone with H2S present, you must use equipment that is constructed of materials with metallurgical properties that resist or prevent sulfide stress cracking (also known as hydrogen embrittlement, stress corrosion cracking, or H2S embrittlement), chloride-stress cracking, hydrogen-induced cracking, and other failure modes. You must do all of the following:
+(p) *Metallurgical properties of equipment.* When operating in a zone with H2S present or when the concentration of H2S in the produced fluid may exceed 0.05 psi partial pressure of H2S, you must use equipment that is constructed of materials with metallurgical properties that resist or prevent sulfide stress cracking (also known as hydrogen embrittlement, stress corrosion cracking, or H2S embrittlement), chloride-stress cracking, hydrogen-induced cracking, and other failure modes. You must do all of the following:
 
 (1) Use tubulars and other equipment, casing, tubing, drill pipe, couplings, flanges, and related equipment that is designed for H2S service.
 
@@ -405,3 +403,5 @@ Link to an amendment published at 89 FR 71120, Aug. 30, 2024.
 (13) *Deck drains.* You must equip open deck drains with traps or similar devices to prevent the escape of H2S gas into the atmosphere.
 
 (14) *Sealed voids.* You must take precautions to eliminate sealed spaces in piping designs (e.g., slip-on flanges, reinforcing pads) which can be invaded by atomic hydrogen when H2S is present.
+
+[76 FR 64462, Oct. 18, 2011, as amended at 89 FR 71120, Aug. 30, 2024]

@@ -1,7 +1,5 @@
 ##### § 250.105 Definitions. #####
 
-Link to an amendment published at 89 FR 71111, Aug. 30, 2024.
-
 Terms used in this part will have the meanings given in the Act and as defined in this section:
 
 *Act* means the OCS Lands Act, as amended (43 U.S.C. 1331 *et seq.*).
@@ -41,6 +39,8 @@ Terms used in this part will have the meanings given in the Act and as defined i
 *Best available and safest technology (BAST)* means the best available and safest technologies that the BSEE Director determines to be economically feasible wherever failure of equipment would have a significant effect on safety, health, or the environment.
 
 *Best available control technology (BACT)* means an emission limitation based on the maximum degree of reduction for each air pollutant subject to regulation, taking into account energy, environmental and economic impacts, and other costs. The Regional Supervisor will verify the BACT on a case-by-case basis, and it may include reductions achieved through the application of processes, systems, and techniques for the control of each air pollutant.
+
+*BOP systems and related equipment* includes all pressure controlling and pressure containing well control equipment that may or will be exposed to the well's MASP during drilling, completion, workover, intervention, or abandonment. Well control equipment includes equipment that is installed for the purpose of pressure control and pressure containment when it becomes necessary to physically enter a well bore during drilling, completion, workover, intervention, or abandonment modes of operation.
 
 *Cap and flow system* means an integrated suite of equipment and vessels, including a capping stack and associated flow lines, that, when installed or positioned, is used to control the flow of fluids escaping from the well by conveying the fluids to the surface to a vessel or facility equipped to process the flow of oil, gas, and water. A cap and flow system is a high pressure system that includes the capping stack and piping necessary to convey the flowing fluids through the choke manifold to the surface equipment.
 
@@ -113,6 +113,14 @@ Terms used in this part will have the meanings given in the Act and as defined i
 *H*2*S present* means drilling, logging, coring, testing, or producing operations have confirmed the presence of H2S in concentrations and volumes that could potentially result in atmospheric concentrations of 20 ppm or more of H2S.
 
 *H*2*S unknown* means the designation of a zone or geologic formation where neither the presence nor absence of H2S has been confirmed.
+
+*HPHT environment* means when one or more of the following well conditions exist:
+
+(1) The drilling, completion, workover, intervention, injection, production, or abandonment of the well requires pressure controlling or pressure containing equipment, including well control equipment, assigned a pressure rating greater than 15,000 psia or a temperature rating greater than 350 degrees Fahrenheit;
+
+(2) The MASP or SITP is greater than 15,000 psia at the seafloor for a well with a subsea wellhead or at the surface for a well with a surface wellhead; or
+
+(3) The flowing temperature is greater than 350 degrees Fahrenheit at the seafloor for a well with a subsea wellhead or at the surface for a well with a surface wellhead.
 
 *Human environment* means the physical, social, and economic components, conditions, and factors that interactively determine the state, condition, and quality of living conditions, employment, and health of those affected, directly or indirectly, by activities occurring on the OCS.
 
@@ -248,4 +256,4 @@ Terms used in this part will have the meanings given in the Act and as defined i
 
 *You* means a lessee, the owner or holder of operating rights, a designated operator or agent of the lessee(s), a pipeline right-of-way holder, or a State lessee granted a right-of-use and easement.
 
-[76 FR 64462, Oct. 18, 2011, as amended at 78 FR 20439, Apr. 5, 2013; 81 FR 46560, July 15, 2016; 88 FR 23579, Apr. 18, 2023]
+[76 FR 64462, Oct. 18, 2011, as amended at 78 FR 20439, Apr. 5, 2013; 81 FR 46560, July 15, 2016; 88 FR 23579, Apr. 18, 2023; 89 FR 71111, Aug. 30, 2024]

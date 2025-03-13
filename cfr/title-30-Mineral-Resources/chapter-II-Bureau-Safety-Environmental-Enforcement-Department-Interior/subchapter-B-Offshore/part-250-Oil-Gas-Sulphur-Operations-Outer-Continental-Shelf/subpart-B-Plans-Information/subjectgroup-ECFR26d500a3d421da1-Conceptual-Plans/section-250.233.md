@@ -1,0 +1,3 @@
+##### § 250.233 General requirements for any I3P Report. #####
+
+An I3P Report as required in § 250.232 must be a standalone document that clearly summarizes the required verification and validation work performed and must contain a sufficient level of detail (*e.g.,* quantitative information) and clarity to establish the basis of the I3P's findings. Each report must identify the OEM or operator documents reviewed, describe the detailed I3P review, and convey the results of the I3P's review without requiring BSEE to review of any other referenced documents.

@@ -1,0 +1,3 @@
+##### § 250.211 What are my new or unusual technology failure reporting requirements? #####
+
+If you have an approved new or unusual technology and it experiences a failure (*i.e.,* any condition that prevents the equipment from meeting its functional specification) during or post-installation, you must notify the applicable Regional Supervisor within 30 days of the failure. You must also provide a failure analysis report as soon as it is available following notification. The failure analysis report must include any results of and potential root cause(s) of the failure. You must also follow all applicable failure or incident reporting requirements associated with the failure (*e.g.,* §§ 250.188, 250.730, and 250.803).

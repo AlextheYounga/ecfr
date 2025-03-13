@@ -1,7 +1,5 @@
 ##### § 250.732 What are the independent third party requirements for BOP systems and system components? #####
 
-Link to an amendment published at 89 FR 71121, Aug. 30, 2024.
-
 (a) Prior to beginning any operation requiring the use of any BOP, you must submit verification by an independent third party and supporting documentation as required by this paragraph to the appropriate District Manager and Regional Supervisor.
 
 |You must submit verification and documentation related to:|                                                                                                                                                                                                     That:                                                                                                                                                                                                     |
@@ -19,15 +17,20 @@ Link to an amendment published at 89 FR 71121, Aug. 30, 2024.
 
 (b) The independent third party must be a technical classification society, a licensed professional engineering firm, or a registered professional engineer capable of providing the required certifications and verifications. You must submit the independent third party qualifications to BSEE with the associated permit application (e.g., APD and APM). BSEE will evaluate the submitted qualifications to ensure they meet the regulatory requirements for permit approval.
 
-(c) For wells in an HPHT environment, as defined by § 250.804(b), you must submit verification by an independent third party that it conducted a comprehensive review of the BOP system and related equipment you propose to use. You must provide the independent third party access to any facility associated with the BOP system or related equipment during the review process. You must submit the verifications required by this paragraph (c) to the appropriate District Manager and Regional Supervisor before you begin any operations in an HPHT environment with the proposed equipment.
+(c) Before you begin any operations in an HPHT environment, as defined by § 250.105, with the proposed equipment, you must include the following in your applicable permit:
 
-|                                                                                                             You must submit:                                                                                                              |                                                                                                            Including:                                                                                                             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                       (1) Verification that the independent third party conducted a detailed review of the design package to ensure that all critical components and systems meet recognized engineering practices,                       |                                                                                                                                                                                                                                   |
-|(2) Verification that the designs of individual components and the overall system have been proven in a testing process that demonstrates the performance and reliability of the equipment in a manner that is repeatable and reproducible,|(i) Identification of all reasonable potential modes of failure; and  <br/>(ii) Evaluation of the design verification tests. The design verification tests must assess the equipment for the identified potential modes of failure.|
-|                                               (3) Verification that the BOP equipment will perform as designed in the temperature, pressure, and environment that will be encountered, and                                                |                                                                                                                                                                                                                                   |
-|                   (4) Verification that the fabrication, manufacture, and assembly of individual components and the overall system uses recognized engineering practices and quality control and assurance mechanisms.                    | For the quality control and assurance mechanisms, complete material and quality controls over all contractors, subcontractors, distributors, and suppliers at every stage in the fabrication, manufacture, and assembly process.  |
+(1) The I3P certification required in § 250.731(c);
+
+(2) A description of any new or unusual technology being used;
+
+(3) A reference to the previously approved associated New or Unusual Technology Barrier Equipment Conceptual Plan;
+
+(4) The final report and statements in accordance with § 250.232(c); and
+
+(5) The fit for service statement required in § 250.230.
+
+You may not deploy your proposed BOP systems and related equipment that will or may be exposed to an HPHT environment until BSEE approves the New or Unusual Technology Barrier Equipment Conceptual Plan and appropriate permits (*e.g.,* APD and APM).
 
 (d) You must make all documentation that demonstrates compliance with the requirements of this section available to BSEE upon request.
 
-[84 FR 21978, May 15, 2019, as amended at 88 FR 57347, Aug. 23, 2023]
+[84 FR 21978, May 15, 2019, as amended at 88 FR 57347, Aug. 23, 2023; 89 FR 71121, Aug. 30, 2024]

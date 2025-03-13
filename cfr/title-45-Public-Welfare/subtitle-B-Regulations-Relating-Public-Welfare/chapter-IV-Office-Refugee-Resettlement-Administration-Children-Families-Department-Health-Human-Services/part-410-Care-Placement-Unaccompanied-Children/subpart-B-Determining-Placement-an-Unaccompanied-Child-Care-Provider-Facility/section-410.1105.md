@@ -26,7 +26,7 @@
 
 (iii) Has displayed a pattern of severity of behavior, either prior to entering ORR custody or while in ORR care, that requires an increase in supervision by trained staff;
 
-(iv) Has a non-violent criminal or delinquent history not warranting placement in a secure facility, such as isolated or petty offenses as described in paragraph (b)(2)(iii) of this section; or
+(iv) Has a non-violent criminal or delinquent history not warranting placement in a secure facility, such as isolated or petty offenses as described in paragraph (a)(3)(i) of this section;
 
 (v) Is assessed as ready for step-down from a secure facility, including an RTC.
 
@@ -37,3 +37,5 @@
 (3) The criteria for placement in or transfer to an RTC also apply to transfers to or placements in OON RTCs. Care provider facilities may request ORR to transfer an unaccompanied child to an RTC in accordance with § 410.1601(d).
 
 (d) For an unaccompanied child with one or more disabilities, consistent with section 504 of the Rehabilitation Act, 29 U.S.C. 794(a), ORR's determination under § 410.1105 whether to place the unaccompanied child in a restrictive placement shall include consideration whether there are any reasonable modifications to the policies, practices, or procedures of an available less restrictive placement or any provision of auxiliary aids and services that would allow the unaccompanied child to be placed in that less restrictive facility. ORR's consideration of reasonable modifications and auxiliary aids and services to facilitate less restrictive placement shall also apply to transfer decisions under § 410.1601 and will be incorporated into restrictive placement case reviews under § 410.1901. However, ORR is not required to take any action that it can demonstrate would fundamentally alter the nature of a program or activity.
+
+[89 FR 34584, Apr. 30, 2024; 89 FR 53361, June 26, 2024]

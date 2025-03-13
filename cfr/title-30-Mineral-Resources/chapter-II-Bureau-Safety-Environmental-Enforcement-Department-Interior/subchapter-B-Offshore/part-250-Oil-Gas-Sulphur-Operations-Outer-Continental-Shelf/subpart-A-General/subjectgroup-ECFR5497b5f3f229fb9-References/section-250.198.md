@@ -1,8 +1,6 @@
 ##### § 250.198 Documents incorporated by reference. #####
 
-Link to an amendment published at 89 FR 71111, Aug. 30, 2024.
-
-Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All incorporated material is available for inspection at the Houston BSEE office at 1919 Smith Street Suite 14042, Houston, Texas 77002 and is available from the sources indicated in this section. It is also available for inspection at the National Archives and Records Administration (NARA). To make an appointment to inspect incorporated material at the Houston BSEE office, call 1-844-259-4779. For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
+Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at BSEE and at the National Archives and Records Administration (NARA). Contact BSEE at: the Houston BSEE office at 1919 Smith Street Suite 14042, Houston, Texas 77002; 1-844-259-4779. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations* or email: *fr.inspection@nara.gov.* The material may be obtained from the following sources:
 
 (a) American Concrete Institute (ACI), ACI Standards, 38800 Country Club Drive, Farmington Hills, MI 48331-3439: *http://www.concrete.org;* phone: 248-848-3700:
 
@@ -198,7 +196,7 @@ Certain material is incorporated by reference into this part with the approval o
 
 (81) API Spec. 2C, Specification for Offshore Pedestal Mounted Cranes, Sixth Edition, March 2004, Effective Date: September 2004; incorporated by reference at § 250.108;
 
-(82) ANSI/API Spec. 6A, Specification for Wellhead and Christmas Tree Equipment, Twentieth Edition, October 2010; Addendum 1, November 2011; Errata 2, November 2011; Addendum 2, November 2012; Addendum 3, March 2013; Errata 3, June 2013; Errata 4, August 2013; Errata 5, November 2013; Errata 6, March 2014; Errata 7, December 2014; Errata 8, February 2016; Addendum 4, June 2016; Errata 9, June 2016; Errata 10, August 2016; incorporated by reference at §§ 250.730, 250.802(a), 250.803(a), 250.833, 250.873(b), 250.874(g), and 250.1002(b);
+(82) ANSI/API Spec. 6A, Specification for Wellhead and Christmas Tree Equipment, Twentieth Edition, October 2010; Addendum 1, November 2011; Errata 2, November 2011; Addendum 2, November 2012; Addendum 3, March 2013; Errata 3, June 2013; Errata 4, August 2013; Errata 5, November 2013; Errata 6, March 2014; Errata 7, December 2014; Errata 8, February 2016; Addendum 4, June 2016; Errata 9, June 2016; Errata 10, August 2016; incorporated by reference at §§ 250.518(c), 250.619(c), 250.730, 250.802(a), 250.803(a), 250.833, 250.873(b), 250.874(g); 250.1002(b).
 
 (83) API Spec. 6AV1, Specification for Verification Test of Wellhead Surface Safety Valves and Underwater Safety Valves for Offshore Service, Second Edition, February 2013; incorporated by reference at §§ 250.802(a), 250.833, 250.873(b), and 250.874(g);
 
@@ -206,7 +204,7 @@ Certain material is incorporated by reference into this part with the approval o
 
 (85) ANSI/API Spec. 6D, Specification for Pipeline Valves, Twenty-third Edition, April 2008; Effective Date: October 1, 2008, Errata 1, June 2008; Errata 2, November 2008; Errata 3, February 2009; Addendum 1, October 2009; Contains API Monogram Annex as Part of U.S. National Adoption; ISO 14313:2007 (Identical), Petroleum and natural gas industries—Pipeline transportation systems—Pipeline valves; incorporated by reference at § 250.1002(b);
 
-(86) ANSI/API Spec. 11D1, Packers and Bridge Plugs, Second Edition, July 2009; incorporated by reference at §§ 250.518, 250.619, and 250.1703;
+(86) ANSI/API Spec. 11D1, Packers and Bridge Plugs, Third Edition, April 2015; including Errata 1, August 2019; incorporated by reference at §§ 250.518(e), 250.619(e); 250.1703.
 
 (87) ANSI/API Spec. 14A, Specification for Subsurface Safety Valve Equipment, Eleventh Edition, October 2005, reaffirmed, June 2012; incorporated by reference at §§ 250.802 and 250.803(a);
 
@@ -216,7 +214,7 @@ Certain material is incorporated by reference into this part with the approval o
 
 (90) API Spec. 16D, Specification for Control Systems for Drilling Well Control Equipment and Control Systems for Diverter Equipment, Second Edition, July 2004, reaffirmed August 2013; incorporated by reference at § 250.730;
 
-(91) ANSI/API Spec. 17D, Design and Operation of Subsea Production Systems—Subsea Wellhead and Tree Equipment, Second Edition, May 2011; incorporated by reference at § 250.730;
+(91) ANSI/API Spec. 17D, Design and Operation of Subsea Production Systems—Subsea Wellhead and Tree Equipment, Second Edition, Reaffirmed November 2018; Addendum 1, September 2015; Errata, September 2011; Errata 2, January 2012; Errata 3, June 2013; Errata 4, July 2013; Errata 5, October 2013; Errata 6, August 2015; Errata 7, October 2015; incorporated by reference at §§ 250.518(c); 250.619(c); 250.730.
 
 (92) ANSI/API Spec. 17J, Specification for Unbonded Flexible Pipe, Third Edition, July 2008, incorporated by reference at §§ 250.852(e), 250.1002(b), and 250.1007(a).
 
@@ -264,7 +262,7 @@ Certain material is incorporated by reference into this part with the approval o
 
 (i) National Association of Corrosion Engineers (NACE) International, NACE Standards, Park Ten Place, Houston, TX 77084; *http://www.nace.org;* phone: 281-228-6200:
 
-(1) NACE Standard MR0175-2003, Standard Material Requirements, Metals for Sulfide Stress Cracking and Stress Corrosion Cracking Resistance in Sour Oilfield Environments, Revised January 17, 2003; incorporated by reference at §§ 250.490 and 250.901;
+(1) NACE Standard MR0175-2003, Standard Material Requirements, Metals for Sulfide Stress Cracking and Stress Corrosion Cracking Resistance in Sour Oilfield Environments, Revised January 17, 2003; incorporated by reference at §§ 250.490; 250.518(a); 250.619(a); 250.901.
 
 (2) NACE Standard RP0176-2003, Standard Recommended Practice, Corrosion Control of Steel Fixed Offshore Structures Associated with Petroleum Production; incorporated by reference at § 250.901.
 
@@ -284,4 +282,4 @@ Certain material is incorporated by reference into this part with the approval o
 
 (3) COS Safety Publication COS-2-04, Requirements for Accreditation of Audit Service Providers Performing SEMS Audits and Certification of Deepwater Operations, First Edition, Effective Date October 2012; incorporated by reference at §§ 250.1900, 250.1903, 250.1904, and 250.1922.
 
-[84 FR 21969, May 15, 2019, as amended at 85 FR 84236, Dec. 30, 2020]
+[84 FR 21969, May 15, 2019, as amended at 85 FR 84236, Dec. 30, 2020; 89 FR 71111, Aug. 30, 2024]

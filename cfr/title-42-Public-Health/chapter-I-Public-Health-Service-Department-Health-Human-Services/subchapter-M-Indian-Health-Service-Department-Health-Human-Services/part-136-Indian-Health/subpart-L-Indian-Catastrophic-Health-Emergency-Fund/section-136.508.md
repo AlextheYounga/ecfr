@@ -1,0 +1,3 @@
+##### § 136.508 Recovery of reimbursement funds. #####
+
+In the event a Service Unit has been reimbursed from the CHEF for an episode of care and that same episode of care becomes eligible for and is paid by any Federal, State, local, or private source (including third party insurance) the Service Unit shall return all the CHEF funds received for that episode of care to the CHEF at the IHS Headquarters. These recovered CHEF funds will be used to reimburse other valid CHEF requests.

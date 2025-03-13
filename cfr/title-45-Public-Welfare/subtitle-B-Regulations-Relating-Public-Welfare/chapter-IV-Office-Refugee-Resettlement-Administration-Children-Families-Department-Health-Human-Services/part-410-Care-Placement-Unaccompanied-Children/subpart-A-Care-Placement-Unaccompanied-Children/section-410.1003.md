@@ -8,8 +8,10 @@
 
 (d) ORR encourages unaccompanied children, as developmentally appropriate and in their best interests, to be active participants in ORR's decision-making process relating to their care and placement.
 
-(e) ORR strives to provide quality care tailored to the individualized needs of each unaccompanied child in its custody, ensuring the interests of the child are considered, and that unaccompanied children are protected from traffickers and other persons seeking to victimize or otherwise engage them in criminal, harmful, or exploitative activity, both while in ORR custody and upon release from the UC Program.
+(e) ORR strives to provide quality care tailored to the individualized needs of each unaccompanied child in its custody, ensuring the interests of the child are considered, and that unaccompanied children are protected from traffickers and other persons seeking to victimize or otherwise engage them in criminal, harmful, or exploitative activity, both while in ORR custody and upon release from the UC Bureau.
 
 (f) In making placement determinations, ORR shall place each unaccompanied child in the least restrictive setting that is in the best interests of the child, giving consideration to the child's danger to self, danger to others, and runaway risk.
 
 (g) When requesting information or consent from unaccompanied children ORR consults with parents, legal guardians, child advocates, and attorneys of record or DOJ Accredited Representatives as needed.
+
+[89 FR 34584, Apr. 30, 2024; 89 FR 53361, June 26, 2024]

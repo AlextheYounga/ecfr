@@ -1,0 +1,17 @@
+##### § 136.504 Reimbursement procedure. #####
+
+Service Units whose scope of work and funding include the purchase of medical services from private or public vendors under PRC are eligible to participate. The CHEF payments shall be based only on valid PRC expenditures, including expenditures for exigent medical circumstances without prior PRC authorization. Reimbursement from the CHEF will not be made if applicable PRC requirements are not followed.
+
+(a) *Claim submission.* Requests for reimbursement from the CHEF must be submitted to the appropriate IHS Area Office. Area PRC programs will review requests for reimbursement to ensure compliance with PRC requirements, including but not limited to: patient eligibility, medical necessity, notification requirements for emergent and non-emergent care, medical priorities, allowable expenditures, and eligibility for alternate resources. Following this review, Area PRC programs may provide Service Units an opportunity to submit missing information or to resubmit documents that are indecipherable. Area PRC programs will then forward all requests to the Division of Contract Care, along with any recommendations or observations from the Area PRC program regarding compliance with PRC or other CHEF requirements. The Division of Contract Care will adjudicate the claim based upon an independent review of the claim documentation, but it may consider any recommendations or observations from the Area PRC program.
+
+(b) *Content of claims.* All claims submitted for reimbursement may be submitted electronically utilizing the secure IHS system(s) established for this purpose or may be submitted in paper form but must include:
+
+(1) A fully completed Catastrophic Health Emergency Fund Reimbursement Request Form.
+
+(2) A statement of the provider's charges on a form that complies with the format required for the submission of claims under title XVIII of the Social Security Act. For example, charges may be printed on forms such as the Centers for Medicare & Medicaid Services (CMS) 1500, UB-04 (formerly CMS-1450), American Dental Association (ADA) dental claim form, or National Council for Prescription Drug Program (NCPDP) universal claim forms. The forms submitted for review must include specific appropriate diagnostic and procedure codes.
+
+(3) An explanation of benefits or statement of payment identifying how much was paid to the provider by the Service Unit for the catastrophic illness or disaster. Payments to the patient or any other entity are ineligible for the CHEF reimbursement.
+
+(4) The Division of Contract Care may request additional medical documentation describing the medical treatment or service provided, including but not limited to discharge summaries and/or medical progress notes. Cases may be submitted for 50% reimbursement of eligible expenses pending discharge summaries. Medical documentation must be received to close the CHEF case.
+
+(c) *Limitation of funds and reimbursement procedure.* Because of the limitations of funds, full reimbursement cannot be guaranteed on all requests and will be based on the availability of funds at the time the IHS processes the claim. To the extent funds are available, the CHEF funds may not be used to cover the cost of services or treatment for which the funds were not approved. Unused funds, including but not limited to, funds unused due to overestimates, alternate resources, and cancellations must be returned to the CHEF.

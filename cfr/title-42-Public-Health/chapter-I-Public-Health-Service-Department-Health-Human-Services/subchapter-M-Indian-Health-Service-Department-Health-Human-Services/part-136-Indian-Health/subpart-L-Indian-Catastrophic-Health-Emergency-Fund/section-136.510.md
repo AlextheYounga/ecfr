@@ -1,0 +1,3 @@
+##### § 136.510 Severability. #####
+
+If any provision of this subpart is held to be invalid or unenforceable by its terms, as applied to any person or circumstance, or stayed pending further agency action, the provision shall be construed to continue to give the maximum effect to the provision permitted by law, including as applied to those not similarly situated or to dissimilar circumstances. However, if such holding is that the provision of this subpart is invalid and unenforceable in all circumstances, the provision shall be severable from the remainder of this subpart and shall not affect the remainder thereof.

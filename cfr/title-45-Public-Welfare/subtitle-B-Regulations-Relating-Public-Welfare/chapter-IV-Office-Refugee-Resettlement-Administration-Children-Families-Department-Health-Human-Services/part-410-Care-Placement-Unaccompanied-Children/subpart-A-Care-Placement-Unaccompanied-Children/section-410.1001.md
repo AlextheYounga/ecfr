@@ -70,7 +70,7 @@ For the purposes of this part, the following definitions apply.
 
 *LGBTQI+* includes lesbian, gay, bisexual, transgender, queer or questioning, and intersex.
 
-*Mechanical restraint* means any device attached or adjacent to the child's body that the child cannot easily remove that restricts freedom of movement or normal access to the child's body. For purposes of the Unaccompanied Children Program, mechanical restraints are prohibited across all care provider types except in secure facilities, where they are permitted only as consistent with State licensure requirements.
+*Mechanical restraint* means any device attached or adjacent to the child's body that the child cannot easily remove that restricts freedom of movement or normal access to the child's body. For purposes of the Unaccompanied Children Bureau, mechanical restraints are prohibited across all care provider types except in secure facilities, where they are permitted only as consistent with State licensure requirements.
 
 *Medical services requiring heightened ORR involvement* means:
 
@@ -209,3 +209,5 @@ For the purposes of this part, the following definitions apply.
 (ii) No parent or legal guardian in the United States is available to provide care and physical custody.
 
 *Unaccompanied Refugee Minors (URM) Program* means the child welfare services program available pursuant to 8 U.S.C. 1522(d).
+
+[89 FR 34584, Apr. 30, 2024; 89 FR 53361, June 26, 2024]

@@ -28,7 +28,7 @@ Standard programs and secure facilities shall:
 
 (viii) An assessment of the unaccompanied child's personal goals, strengths, and weaknesses; and
 
-(iv) Identifying information regarding immediate family members, other relatives, godparents, or friends who may be residing in the United States and may be able to assist in family unification;
+(ix) Identifying information regarding immediate family members, other relatives, godparents, or friends who may be residing in the United States and may be able to assist in family unification;
 
 (3) Educational services appropriate to the unaccompanied child's level of development, communication skills, and disability, if applicable, in a structured classroom setting, Monday through Friday, which concentrate on the development of basic academic competencies and on English Language Training (ELT), as well as acculturation and life skills development including:
 
@@ -71,3 +71,5 @@ Standard programs and secure facilities shall:
 (d) Deliver services in a manner that is sensitive to the age, culture, native or preferred language, and the complex needs of each unaccompanied child.
 
 (e) Develop a comprehensive and realistic individual service plan for the care of each unaccompanied child in accordance with the unaccompanied child 's needs as determined by the individualized needs assessment. Individual plans must be implemented and closely coordinated through an operative case management system. Service plans should identify individualized, person-centered goals with measurable outcomes and with steps or tasks to achieve the goals, be developed with input from the unaccompanied child, and be reviewed and updated at regular intervals. Unaccompanied children ages 14 and older should be given a copy of the plan, and unaccompanied children under age 14 should be given a copy of the plan when appropriate for that particular child's development. Individual plans shall be in that child's native or preferred language or other mode of auxiliary aid or services and/or use clear, easily understood language, using concise and concrete sentences and/or visual aids and checking for understanding where appropriate.
+
+[89 FR 34584, Apr. 30, 2024; 89 FR 53361, June 26, 2024]
