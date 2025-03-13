@@ -1,3 +1,5 @@
 ##### § 302-4.201 How are my authorized en route travel days and per diem determined for relocation travel? #####
 
+Link to an amendment published at 89 FR 20859, Mar. 26, 2024.
+
 Your authorized en route travel days and per diem are determined as follows: The number of authorized travel days is the actual number of days used to complete the trip, but not to exceed an amount based on a minimum driving distance per day determined to be reasonable by your agency. The minimum driving distance shall be not less than an average of 300 miles per calendar day. An exception to the daily minimum driving distance may be made when delay is beyond control of the employee, such as when it results from acts of God or restrictions by Government officials; when the employee is physically handicapped; or for other reasons acceptable to the agency.

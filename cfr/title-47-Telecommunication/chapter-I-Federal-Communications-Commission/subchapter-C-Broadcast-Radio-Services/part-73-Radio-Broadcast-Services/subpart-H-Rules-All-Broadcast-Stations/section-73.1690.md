@@ -1,7 +1,5 @@
 ##### § 73.1690 Modification of transmission systems. #####
 
-Link to an amendment published at 89 FR 7256, Feb. 1, 2024.
-
 The following procedures and restrictions apply to licensee modifications of authorized broadcast transmission system facilities.
 
 (a) The following changes are prohibited:
@@ -10,13 +8,13 @@ The following procedures and restrictions apply to licensee modifications of aut
 
 (2) Those that would cause the transmission system to exceed the equipment performance measurements prescribed for the class of service (AM, § 73.44; FM, §§ 73.317, 73.319, and 73.322; TV and Class A TV, §§ 73.682 and 73.687).
 
-(b) The following changes may be made only after the grant of a construction permit application on FCC Form 301 for commercial stations or Form 340 for noncommercial educational stations:
+(b) The following changes may be made only after the grant of a construction permit application on FCC Form 2100 (see § 73.3500 for Schedules) for AM, FM, and TV stations or Form 2100, Schedule 340 for noncommercial educational stations:
 
 (1) Any construction of a new tower structure for broadcast purposes, except for replacement of an existing tower with a new tower of identical height and geographic coordinates.
 
 (2) Any change in station geographic coordinates, including coordinate corrections of more than 3 seconds latitude and/or 3 seconds longitude. FM and TV directional stations must also file a construction permit application for any move of the antenna to another tower structure located at the same coordinates.
 
-(3) Any change which would require an increase along any azimuth in the composite directional antenna pattern of an FM station from the composite directional antenna pattern authorized (see § 73.316), or any increase from the authorized directional antenna pattern for a TV broadcast (see § 73.685) or Class A TV station (see § 73.6025).
+(3) Any change which would require an increase along any azimuth in the composite directional antenna pattern of an FM station from the composite directional antenna pattern authorized (see § 73.316), or any increase from the authorized directional antenna pattern for a TV broadcast (see § 73.625) or Class A TV station (see § 73.6025).
 
 (4) Any change in the directional radiation characteristics of an AM directional antenna system. *See* § 73.45 and § 73.150.
 
@@ -54,7 +52,7 @@ The following procedures and restrictions apply to licensee modifications of aut
 
 (v) A certification from a qualified engineer who oversaw installation of the directional antenna that the antenna was installed pursuant to the manufacturer's instructions.
 
-(3) A directional TV on Channels 2 through 13 or 22 through 36 or a directional Class A TV on Channels 2 through 13 or 22 through 36, or a directional TV or Class A TV station on Channels 15 through 21 which is in excess of 341 km (212 miles) from a cochannel land mobile operation or in excess of 225 km (140 miles) from a first-adjacent channel land mobile operation (*see* § 74.709(a) and (b) of this chapter for tables of urban areas and reference coordinates of potentially affected land mobile operations), may replace a directional TV or Class A TV antenna by a license modification application, if the proposed horizontal theoretical directional antenna pattern does not exceed the licensed horizontal directional antenna pattern at any azimuth and where no change in effective radiated power will result. The modification of license application on Form 302-TV or Form 302-CA must contain all of the data set forth in § 73.685(f) or § 73.6025(a), as applicable.
+(3) A directional TV on Channels 2 through 13 or 22 through 36 or a directional Class A TV on Channels 2 through 13 or 22 through 36, or a directional TV or Class A TV station on Channels 15 through 21 which is in excess of 341 km (212 miles) from a cochannel land mobile operation or in excess of 225 km (140 miles) from a first-adjacent channel land mobile operation (*see* § 74.709(a) and (b) of this chapter for tables of urban areas and reference coordinates of potentially affected land mobile operations), may replace a directional TV or Class A TV antenna by a license modification application, if the proposed horizontal theoretical directional antenna pattern does not exceed the licensed horizontal directional antenna pattern at any azimuth and where no change in effective radiated power will result. The modification of license application on Form 2100 (see § 73.3500 for Schedules) must contain all of the data set forth in § 73.625(c)(3) or § 73.6025(a), as applicable.
 
 (4) Commercial and noncommercial educational FM stations operating on Channels 221 through 300 (except Class D), Class A TV stations operating on Channels 2 through 13 and 22 through 36, and TV and Class A TV stations operating on Channels 15 through 21 that are in excess of 341 km (212 miles) from a cochannel land mobile operation or in excess of 225 km (140 miles) from a first-adjacent channel land mobile operation (*see* § 74.709(a) and (b) of this chapter for tables of urban areas and reference coordinates of potentially affected land mobile operations), which operate omnidirectionally, may increase the vertically polarized effective radiated power up to the authorized horizontally polarized effective radiated power in a license modification application. Noncommercial educational FM licensees and permittees on Channels 201 through 220, that do not use separate antennas mounted at different heights for the horizontally polarized ERP and the vertically polarized ERP, and are located in excess of the separations from a Channel 6 television station listed in Table A of § 73.525(a)(1), may also increase the vertical ERP, up to (but not exceeding) the authorized horizontally polarized ERP via a license modification application. Program test operations may commence at full power pursuant to § 73.1620(a)(1).
 

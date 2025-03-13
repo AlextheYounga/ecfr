@@ -1,5 +1,7 @@
 ##### § 2472.6 Filing and service. #####
 
+Link to an amendment published at 89 FR 20844, Mar. 26, 2024.
+
 (a) *Filing and service of request.* (1) Any party submitting a request for Panel consideration of an impasse filed pursuant to § 2472.3 of these rules shall file an original and one copy with the Panel unless the request is filed electronically through use of the FLRA's eFiling system. A clean copy may be submitted for the original. Requests may be submitted in person, electronically, or by registered mail, certified mail, regular mail, or commercial delivery. Requests will also be accepted by the Panel if transmitted to the facsimile machine of its office. A party submitting a request by facsimile shall also file an original for the Panel's records, but failure to do so shall not affect the validity of the filing by facsimile, if otherwise proper.
 
 (2) The party submitting the request shall serve a copy of such request upon all counsel of record or other designated representative(s) of parties, and upon parties not so represented. Service upon such counsel or representative shall constitute service upon the party, but a copy also shall be transmitted to the party. Service of a request may be made in person or by registered mail, certified mail, regular mail, or commercial delivery. With the permission of the person receiving the request, service may be made by facsimile or electronic transmission, or by any other agreed-upon method.

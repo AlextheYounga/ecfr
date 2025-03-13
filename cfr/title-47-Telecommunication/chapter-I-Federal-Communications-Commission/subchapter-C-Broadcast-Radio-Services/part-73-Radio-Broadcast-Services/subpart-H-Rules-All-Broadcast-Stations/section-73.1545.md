@@ -8,8 +8,6 @@
 
 (c) [Reserved]
 
-(2) The departure of the aural carrier frequency of a TV station may not exceed ±1000 Hz from the actual visual carrier frequency plus exactly 4.5 MHz.
-
 (d) *International broadcast stations.* The departure of the carrier frequency of an International broadcast station may not exceed 0.0015% of the assigned frequency on which the station is transmitting.
 
 [44 FR 58734, Oct. 11, 1979; 44 FR 64408, Nov. 7, 1979, as amended at 47 FR 13165, Mar. 29, 1982; 65 FR 30004, May 10, 2000; 67 FR 21691, May 1, 2001; 89 FR 7255, Feb. 1, 2024]

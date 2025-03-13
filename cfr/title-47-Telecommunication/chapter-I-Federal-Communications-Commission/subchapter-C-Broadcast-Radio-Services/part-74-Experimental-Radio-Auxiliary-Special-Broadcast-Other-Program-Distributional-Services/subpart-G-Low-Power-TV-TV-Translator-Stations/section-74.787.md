@@ -16,7 +16,7 @@
 
 (iv) [Reserved]
 
-(v) *Pre-auction digital service area* is the geographic area within the full power station's noise-limited contour that was protected in the incentive auction repacking process. The service area of the digital-to-digital replacement translator shall be limited to only the demonstrated loss area within the full power station's pre-auction digital service area, provided that an applicant for a digital-to-digital replacement television translator may propose a *de minimis* expansion of its full power pre-auction digital service area upon demonstrating that the expansion is necessary to replace a loss In its pre-auction digital service area.
+(v) *Pre-auction digital service area* is the geographic area within the full power station's noise-limited contour that was protected in the incentive auction repacking process. The service area of the digital-to-digital replacement translator shall be limited to only the demonstrated loss area within the full power station's pre-auction digital service area, provided that an applicant for a digital-to-digital replacement television translator may propose a *de minimis* expansion of its full power pre-auction digital service area upon demonstrating that the expansion is necessary to replace a loss in its pre-auction digital service area.
 
 (vi) The license for the analog-to-digital and digital-to-digital replacement television translator will be associated with the full power station's main license, will be assigned the same call sign, may not be separately assigned or transferred, and will be renewed with the full power station's main license.
 

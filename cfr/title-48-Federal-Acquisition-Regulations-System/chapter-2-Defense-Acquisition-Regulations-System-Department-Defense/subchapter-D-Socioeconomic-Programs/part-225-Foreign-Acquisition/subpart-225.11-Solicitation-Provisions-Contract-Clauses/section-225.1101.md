@@ -56,7 +56,7 @@
 
 (ii) Use the alternate I provision if the solicitation includes alternate II of the clause at 252.225-7021.
 
-(6) Except as provided in paragraph (6)(iv) of this section, use the basic or an alternate of the clause at 252.225-7021, Trade Agreements, instead of the clause at FAR 52.225-5, Trade Agreements, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services , if the World Trade Organization Government Procurement Agreement applies, i.e., the acquisition is of end products listed at 225.401-70, the value of the acquisition equals or exceeds $183,000, and none of the exceptions at 25.401(a) applies.
+(6) Except as provided in paragraph (6)(iv) of this section, use the basic or an alternate of the clause at 252.225-7021, Trade Agreements, instead of the clause at FAR 52.225-5, Trade Agreements, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services, if the World Trade Organization Government Procurement Agreement applies, *i.e.,* the acquisition is of end products listed at 225.401-70, the value of the acquisition equals or exceeds $174,000, and none of the exceptions at 25.401(a) applies.
 
 (i) Use the basic clause in solicitations and contracts that are not of end products in support of operations in Afghanistan, or that include the clause at 252.225-7024, Requirement for Products or Services from Afghanistan.
 
@@ -104,35 +104,35 @@
 
 (vi) Use the alternate V provision when the solicitation includes alternate V or alternate XI of the clause at 252.225-7036.
 
-(10)(i) Except as provided in paragraph (10)(ii) of this section, use the basic or an alternate of the clause at 252.225-7036, Buy American—Free Trade Agreements—Balance of Payments Program, instead of the clause at FAR 52.225-3, Buy American—Free Trade Agreements—Israeli Trade Act, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services, for the items listed at 225.401-70, when the estimated value is less than $183,000, unless an exception at FAR 25.401 or 225.401 applies.
+(10)(i) Except as provided in paragraph (10)(ii) of this section, use the basic or an alternate of the clause at 252.225-7036, Buy American—Free Trade Agreements—Balance of Payments Program, instead of the clause at FAR 52.225-3, Buy American—Free Trade Agreements—Israeli Trade Act, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services, for the items listed at 225.401-70, when the estimated value is less than $174,000, unless an exception at FAR 25.401 or 225.401 applies.
 
-(A) Use the basic clause in solicitations and contracts when the estimated value equals or exceeds $100,000, but is less than $183,000, except if the acquisition is of end products in support of operations in Afghanistan.
+(A) Use the basic clause in solicitations and contracts when the estimated value equals or exceeds $100,000, but is less than $174,000, except if the acquisition is of end products in support of operations in Afghanistan.
 
-(B) Use the alternate I clause in solicitations and contracts when the estimated value is less than $92,319, except if the acquisition is of end products in support of operations in Afghanistan.
+(B) Use the alternate I clause in solicitations and contracts when the estimated value is less than $102,280, except if the acquisition is of end products in support of operations in Afghanistan.
 
-(C) Use the alternate II clause in solicitations and contracts when the estimated value is less than $183,000, and the acquisition is of end products in support of operations in Afghanistan.
+(C) Use the alternate II clause in solicitations and contracts when the estimated value equals or exceeds $100,000 but is less than $174,000, and the acquisition is of end products in support of operations in Afghanistan.
 
-(D) Use the alternate III clause in solicitations and contracts when the estimated value is less than $92,319, and the acquisition is of end products in support of operations in Afghanistan.
+(D) Use the alternate III clause in solicitations and contracts when the estimated value is less than $102,280, and the acquisition is of end products in support of operations in Afghanistan.
 
-(E) Use the alternate IV clause in solicitations and contracts when the estimated value equals or exceeds $92,319 but is less than $100,000, except if the acquisition is of end products in support of operations in Afghanistan.
+(E) Use the alternate IV clause in solicitations and contracts when the estimated value equals or exceeds $102,280 but is less than $174,000, except if the acquisition is of end products in support of operations in Afghanistan.
 
-(F) Use the alternate V clause in solicitations and contracts when the estimated value equals or exceeds $92,319 but is less than $100,000 and the acquisition is of end products in support of operations in Afghanistan.
+(F) Use the alternate V clause in solicitations and contracts when the estimated value equals or exceeds $102,280 but is less than $174,000 and the acquisition is of end products in support of operations in Afghanistan.
 
 (G) Use the alternate VI clause in lieu of the basic clause in solicitations and contracts, except if the acquisition is of end products in support of operations in Afghanistan, when—
 
-(*1*) The estimated value equals or exceeds $100,000 but is less than $183,000; and
+(*1*) The estimated value equals or exceeds $100,000 but is less than $174,000; and
 
 (*2*) An alternate domestic content threshold will apply to the entire period of performance as approved by the senior procurement executive (see 225.101(d)).
 
 (H) Use the alternate VII clause in lieu of the alternate I clause in solicitations and contracts, except if the acquisition is of end products in support of operations in Afghanistan, when—
 
-(*1*) The estimated value is less than $92,319; and
+(*1*) The estimated value is less than $102,280; and
 
 (*2*) An alternate domestic content threshold will apply to the entire period of performance as approved by the senior procurement executive (see 225.101(d)).
 
 (I) Use the alternate VIII clause in lieu of the alternate II clause in solicitations and contracts when—
 
-(*1*) The estimated value is less than $183,000;
+(*1*) The estimated value equals or exceeds $100,000, but is less than $174,000;
 
 (*2*) The acquisition is of end products in support of operations in Afghanistan; and
 
@@ -140,7 +140,7 @@
 
 (J) Use the alternate IX clause in lieu of the alternate III clause in solicitations and contracts when—
 
-(*1*) The estimated value is less than $92,319;
+(*1*) The estimated value is less than $102,280;
 
 (*2*) The acquisition is of end products in support of operations in Afghanistan; and
 
@@ -148,13 +148,13 @@
 
 (K) Use the alternate X clause in lieu of the alternate IV clause in solicitations and contracts, except if the acquisition is of end products in support of operations in Afghanistan, when—
 
-(*1*) The estimated value equals or exceeds $92,319 but is less than $100,000; and
+(*1*) The estimated value equals or exceeds $102,280 but is less than $174,000; and
 
 (*2*) An alternate domestic content threshold will apply to the entire period of performance as approved by the senior procurement executive (see 225.101(d)).
 
 (L) Use the alternate XI clause in lieu of the alternate V clause in solicitations and contracts when—
 
-(*1*) The estimated value equals or exceeds $92,319 but is less than $100,000;
+(*1*) The estimated value equals or exceeds $102,280 but is less than $174,000;
 
 (*2*) The acquisition is of end products in support of operations in Afghanistan; and
 
@@ -170,4 +170,4 @@
 
 (iii) The acquisition of eligible and noneligible products under the same contract may result in the application of a Free Trade Agreement to only some of the items acquired. In such case, indicate in the Schedule those items covered by the Buy American —Free Trade Agreements—Balance of Payments Program clause.
 
-[75 FR 81916, Dec. 29, 2010, as amended at 77 FR 4630, Jan. 30, 2012; 77 FR 30357, May 22, 2012; 77 FR 35880, June 15, 2012; 78 FR 37986, June 25, 2013; 78 FR 40043, July 3, 2013; 78 FR 59857, Sept. 30, 2013; 78 FR 79621, Dec. 31, 2013; 79 FR 3520, Jan. 22, 2014; 79 FR 11342, Feb. 28, 2014; 79 FR 65817, Nov. 5, 2014; 80 FR 2021, Jan. 15, 2015; 80 FR 36898, June 26, 2015; 80 FR 81471, Dec. 30, 2015; 81 FR 17048, Mar. 25, 2016; 82 FR 61482, Dec. 28, 2017; 84 FR 72246, Dec. 31, 2019; 86 FR 74377, Dec. 30, 2021; 87 FR 76986, Dec. 16, 2022; 88 FR 6584, Jan. 31, 2023; 88 FR 55940, Aug. 17, 2023; 89 FR 11954, Feb. 15, 2024]
+[75 FR 81916, Dec. 29, 2010, as amended at 77 FR 4630, Jan. 30, 2012; 77 FR 30357, May 22, 2012; 77 FR 35880, June 15, 2012; 78 FR 37986, June 25, 2013; 78 FR 40043, July 3, 2013; 78 FR 59857, Sept. 30, 2013; 78 FR 79621, Dec. 31, 2013; 79 FR 3520, Jan. 22, 2014; 79 FR 11342, Feb. 28, 2014; 79 FR 65817, Nov. 5, 2014; 80 FR 2021, Jan. 15, 2015; 80 FR 36898, June 26, 2015; 80 FR 81471, Dec. 30, 2015; 81 FR 17048, Mar. 25, 2016; 82 FR 61482, Dec. 28, 2017; 84 FR 72246, Dec. 31, 2019; 86 FR 74377, Dec. 30, 2021; 87 FR 76986, Dec. 16, 2022; 88 FR 6584, Jan. 31, 2023; 88 FR 55940, Aug. 17, 2023; 89 FR 11954, Feb. 15, 2024; 89 FR 20872, Mar. 26, 2024]

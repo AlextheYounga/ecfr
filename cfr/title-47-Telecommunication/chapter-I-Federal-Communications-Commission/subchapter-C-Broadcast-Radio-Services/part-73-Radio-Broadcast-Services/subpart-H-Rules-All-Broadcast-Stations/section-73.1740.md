@@ -1,7 +1,5 @@
 ##### § 73.1740 Minimum operating schedule. #####
 
-Link to an amendment published at 89 FR 7257, Feb. 1, 2024.
-
 (a) All commercial broadcast stations are required to operate not less than the following minimum hours:
 
 (1) *AM and FM stations.* Two-thirds of the total hours they are authorized to operate between 6 a.m. and 6 p.m. local time and two-thirds of the total hours they are authorized to operate between 6 p.m. and midnight, local time, each day of the week except Sunday.
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 7257, Feb. 1, 2024.
 
 (3) “Operation” includes the period during which the station is operated pursuant to temporary authorization or program tests, as well as during the license period.
 
-(4) In the event that causes beyond the control of a licensee make it impossible to adhere to the operating schedule of this section or to continue operating, the station may limit or discontinue operation for a period of not more than 30 days without further authority from the FCC. Notification must be sent to the FCC in Washington, D.C. not later than the 10th day of limited or discontinued operation. During such period, the licensee shall continue to adhere to the requirements in the station license pertaining to the lighting of antenna structures. In the event normal operation is restored prior to the expiration of the 30 day period, the licensee will so notify the FCC of this date. If the causes beyond the control of the licensee make it impossible to comply within the allowed period, informal written request shall be made to the FCC no later than the 30th day for such additional time as may be deemed necessary.
+(4) In the event that causes beyond the control of a licensee make it impossible to adhere to the operating schedule of this section or to continue operating, the station may limit or discontinue operation for a period of not more than 30 days without further authority from the FCC. A “Reduced Power” or “Suspension of Operation” Notification must be made via LMS not later than the 10th day of limited or discontinued operation. During such period, the licensee shall continue to adhere to the requirements in the station license pertaining to the lighting of antenna structures. In the event normal operation is restored prior to the expiration of the 30 day period, the licensee will so notify the FCC of this date. If the causes beyond the control of the licensee make it impossible to comply within the allowed period, informal written request shall be made to the FCC no later than the 30th day for such additional time as may be deemed necessary.
 
 (5) *Class A TV stations.* Not less than 18 hours in each day of the week.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 89 FR 7257, Feb. 1, 2024.
 
 (c) The license of any broadcasting station that fails to transmit broadcast signals for any consecutive 12-month period expires as a matter of law at the end of that period, notwithstanding any provision, term, or condition of the license to the contrary.
 
-[43 FR 45850, Oct. 4, 1978, as amended at 53 FR 1032, Jan. 15, 1988; 56 FR 64873, Dec. 12, 1991; 61 FR 28767, June 6, 1996; 65 FR 30006, May 10, 2000]
+[43 FR 45850, Oct. 4, 1978, as amended at 53 FR 1032, Jan. 15, 1988; 56 FR 64873, Dec. 12, 1991; 61 FR 28767, June 6, 1996; 65 FR 30006, May 10, 2000; 89 FR 7257, Feb. 1, 2024]

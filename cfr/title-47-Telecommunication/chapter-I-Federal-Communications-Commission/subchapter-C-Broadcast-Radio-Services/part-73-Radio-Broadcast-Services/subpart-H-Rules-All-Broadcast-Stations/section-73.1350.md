@@ -1,7 +1,5 @@
 ##### § 73.1350 Transmission system operation. #####
 
-Link to an amendment published at 89 FR 7255, Feb. 1, 2024.
-
 (a) Each licensee is responsible for maintaining and operating its broadcast station in a manner which complies with the technical rules set forth elsewhere in this part and in accordance with the terms of the station authorization.
 
 (b) The licensee must designate a chief operator in accordance with § 73.1870. The licensee may designate one or more technically competent persons to adjust the transmitter operating parameters for compliance with the technical rules and the station authorization.
@@ -26,7 +24,7 @@ Link to an amendment published at 89 FR 7255, Feb. 1, 2024.
 
 (2) AM directional antenna monitoring points, *see* § 73.158;
 
-(3) TV visual waveform, *see* § 73.691(b);
+(3) [Reserved]
 
 (4) Reduced power operation, *see* § 73.1560(d);
 
@@ -36,8 +34,8 @@ Link to an amendment published at 89 FR 7255, Feb. 1, 2024.
 
 (g) The transmission system must be maintained and inspected in accordance with § 73.1580.
 
-(h) Whenever a transmission system control point is established at a location other than the main studio or transmitter, a letter of notification of that location must be sent to the FCC in Washington, DC, Attention: Audio Division (radio) or Video Division (television), Media Bureau, within 3 days of the initial use of that point. The letter should include a list of all control points in use, for clarity. This notification is not required if responsible station personnel can be contacted at the transmitter or studio site during hours of operation.
+(h) Whenever a transmission system control point is established at a location other than the main studio or transmitter, a letter of notification of that location must be sent to the FCC via a Change of Control Point Notice in LMS within 3 days of the initial use of that point. The letter should include a list of all control points in use, for clarity. This notification is not required if responsible station personnel can be contacted at the transmitter or studio site during hours of operation.
 
 (i) The licensee must ensure that the station is operated in compliance with Part 11 of this chapter, the rules governing the Emergency Alert System (EAS).
 
-[60 FR 55481, Nov. 1, 1995, as amended at 63 FR 33877, June 22, 1998; 67 FR 13232, Mar. 21, 2002; 72 FR 44423, Aug. 8, 2007]
+[60 FR 55481, Nov. 1, 1995, as amended at 63 FR 33877, June 22, 1998; 67 FR 13232, Mar. 21, 2002; 72 FR 44423, Aug. 8, 2007; 89 FR 7255, Feb. 1, 2024]

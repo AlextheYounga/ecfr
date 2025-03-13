@@ -1,6 +1,6 @@
 ##### § 4.17 Mandatory Disaster Response Initiative. #####
 
-Link to an amendment published at 89 FR 5113, Jan. 26, 2024.
+Link to an amendment published at 89 FR 20869, Mar. 26, 2024.
 
 (a) Facilities-based mobile wireless providers are required to perform, or have established, the following procedures when:
 

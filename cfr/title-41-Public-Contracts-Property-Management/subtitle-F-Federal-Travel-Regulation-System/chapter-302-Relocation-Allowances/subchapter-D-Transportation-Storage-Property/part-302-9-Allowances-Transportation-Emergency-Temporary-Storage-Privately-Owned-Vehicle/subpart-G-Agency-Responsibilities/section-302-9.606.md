@@ -1,5 +1,7 @@
 ##### § 302-9.606 What must we consider in determining whether transportation of a POV within CONUS is cost effective? #####
 
+Link to an amendment published at 89 FR 20860, Mar. 26, 2024.
+
 When determining whether transportation of a POV within CONUS is cost effective, you must consider the:
 
 (a) Cost of traveling by POV;

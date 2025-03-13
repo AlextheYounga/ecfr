@@ -82,8 +82,16 @@ Table 3 to Paragraph (b)(3)(i)—Maximum Allowable ERP and Antenna Height for TV
 
 ERPmax = 72.57−17.08 \* log10(HAAT)Where:ERPmax = Maximum Effective Radiated Power measured in decibels above 1 kW (dBk).HAAT = Height Above Average Terrain measured in meters.
 
-(4) - (5) [Reserved]
+(4)-(5) [Reserved]
 
 (c) *Determination of applicable rules.* The zone in which the transmitter of a television station is located or proposed to be located determines the applicable rules with respect to maximum antenna heights and powers for VHF stations when the transmitter is located in Zone I and the channel to be employed is located in Zone II, or the transmitter is located in Zone II and the channel to be employed is located in Zone I.
+
+(6) The effective radiated power in any horizontal or vertical direction may not exceed the maximum values permitted by this section, except that licensees and permittees may request an increase in either ERP in some azimuthal direction or antenna HAAT, or both, up to the maximum permissible limits on TV power set forth in paragraph (b)(1), (2), or (3) of this section, as appropriate, up to that needed to provide the same geographic coverage area as the largest station within their market. Such requests must be accompanied by a technical showing that the increase complies with the technical criteria in § 73.620, and thereby will not result in new interference exceeding the *de minimis* standard set forth in that section, or statements agreeing to the change from any co-channel or adjacent channel stations that might be affected by potential new interference, in accordance with § 73.620(e). For the purposes of this paragraph:
+
+(i) The maximum ERP value shall not exceed the maximum permitted at any height within the relevant zone consistent with the values permitted in paragraph (b)(1), (2), or (3) of this section. The associated maximum height for that given ERP may be exceeded.
+
+(ii) Stations in the same Nielsen DMA are considered to be in the same market.
+
+(iii) “Geographic coverage area” is defined as the number of square kilometers found within a station's F(50,90) contour as calculated in § 73.619. A station taking advantage of this provision need not specify coverage that is congruent with or encompassed by the largest station in the market.
 
 [28 FR 13660, Dec. 14, 1963, as amended at 42 FR 20823, Apr. 22, 1977; 42 FR 48881, Sept. 26, 1977; 47 FR 35990, Aug. 18, 1982; 50 FR 23698, June 5, 1985; 56 FR 49707, Oct. 1, 1991; 58 FR 51250, Oct. 1, 1993; 86 FR 66195, Nov. 22, 2021; 89 FR 7244, Feb. 1, 2024]
