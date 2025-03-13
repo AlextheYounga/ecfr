@@ -6,4 +6,4 @@ Date of Incurrence of Cost (APR 1984)
 
 The Contractor is entitled to reimbursement for allowable, allocable costs incurred during the period of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the award date of this contract in an amount not to exceed
 
-$All terms and conditions of this contract are in effect from(End of clause)
+$ All terms and conditions of this contract are in effect from(End of clause)

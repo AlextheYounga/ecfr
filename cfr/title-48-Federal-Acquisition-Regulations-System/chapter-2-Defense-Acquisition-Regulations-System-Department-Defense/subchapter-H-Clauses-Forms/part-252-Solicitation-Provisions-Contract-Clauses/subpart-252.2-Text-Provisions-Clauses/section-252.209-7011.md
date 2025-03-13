@@ -18,4 +18,4 @@ Representation for Restriction on the Use of Certain Institutions of Higher Educ
 
 (2) The Offeror has obtained a waiver approved by OUSD(R&E).
 
-(End of provision)[88 FR 67609, Sept. 29, 2023]
+(End of provision) [88 FR 67609, Sept. 29, 2023]

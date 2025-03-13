@@ -36,4 +36,4 @@ The FAR clauses 52.236-2, Differing Site Conditions; 52.243-4, Changes; and 52.2
 
 (3) Where a change involves credit items only, a proper measure of the amount of downward adjustment in the contract price is the reasonable cost to the Contractor if it had performed the deleted work. A reasonable allowance for overhead and profit are properly includable as part of the downward adjustment for a deductive change. The amount of such allowance is subject to negotiation.
 
-(End of clause)[84 FR 45683, Aug. 30, 2019]
+(End of clause) [84 FR 45683, Aug. 30, 2019]

@@ -2,8 +2,7 @@
 
 (a)(1) Corporate sureties offered for bonds furnished with contracts performed in the United States or its outlying areas must appear on the list contained in the Department of the Treasury's Listing of Approved Sureties (Treasury Department Circular 570), “Companies Holding Certificates of Authority as Acceptable Sureties on Federal Bonds and as Acceptable Reinsuring Companies.”
 
-(2) The penal amount of the bond should not exceed the surety's underwriting limit stated in the Treasury Department Circular 570.
-If the penal amount exceeds the underwriting limit, the bond will be acceptable only if (i) the amount which exceeds the specified limit is coinsured or reinsured and (ii) the amount of coinsurance or reinsurance does not exceed the underwriting limit of each coinsurer or reinsurer.
+(2) The penal amount of the bond should not exceed the surety's underwriting limit stated in the Treasury Department Circular 570. If the penal amount exceeds the underwriting limit, the bond will be acceptable only if (i) the amount which exceeds the specified limit is coinsured or reinsured and (ii) the amount of coinsurance or reinsurance does not exceed the underwriting limit of each coinsurer or reinsurer.
 
 (3) Coinsurance or reinsurance agreements shall conform to the Department of the Treasury (Treasury) regulations in 31 CFR 223.10 and 223.11. When reinsurance is contemplated, the contracting office generally shall require reinsurance agreements to be executed and submitted with the bonds before making a final determination on the bonds.
 

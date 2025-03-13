@@ -14,4 +14,4 @@ If the offeror checked “Yes” above, the offeror shall—
 
 (2) Submit a description of the changed cost accounting practice to the Contracting Officer and the Cognizant Federal Agency Official as pricing support for the proposal.
 
-(End of provision)[70 FR 11761, Mar. 9, 2005]
+(End of provision) [70 FR 11761, Mar. 9, 2005]

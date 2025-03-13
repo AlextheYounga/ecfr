@@ -20,4 +20,4 @@ Exemption From Application of the Service Contract Labor Standards to Contracts 
 
 (f) The Contractor shall include the substance of this clause, including this paragraph (f), in subcontracts for exempt services under this contract.
 
-(End of clause)[72 FR 63082, Nov. 7, 2007, as amended at 79 FR 24220, Apr. 29, 2014]
+(End of clause) [72 FR 63082, Nov. 7, 2007, as amended at 79 FR 24220, Apr. 29, 2014]

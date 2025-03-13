@@ -38,7 +38,7 @@ Security Requirements for Unclassified Information Technology Resources (SEP 200
 
 (f) *Warning notices.* The Contractor shall ensure that the following banners are displayed on all DOS systems (both public and private) operated by the Contractor prior to allowing anyone access to the system:
 
-Government Warning\*\*WARNING\*\*WARNING\*\*WARNING\*\*
+Government Warning \*\*WARNING\*\*WARNING\*\*WARNING\*\*
 
 Unauthorized access is a violation of U.S. law and Department of State policy, and may result in criminal or administrative penalties. Users shall not access other user's or system files without proper authority. Absence of access controls IS NOT authorization for access! DOS information systems and related equipment are intended for communication, transmission, processing and storage of U.S. Government information. These systems and equipment are subject to monitoring by law enforcement and authorized Department officials. Monitoring may result in the acquisition, recording, and analysis of all data being communicated, transmitted, processed or stored in this system by law enforcement and authorized Department officials. Use of this system constitutes consent to such monitoring.
 

@@ -62,4 +62,4 @@ Inspection and Manner of Doing Work (DEC 2003)
 
 (j) The Contractor shall at all times keep the site of the work on the vessel free from accumulation of waste material or rubbish caused by its employees or the work. At the completion of the work, unless the contract specifies otherwise, the Contractor shall remove all rubbish from the site of the work and leave the immediate vicinity of the work area “broom clean.”
 
-(End of clause)[68 FR 67871, Dec. 4, 2003, as amended at 86 FR 17317, Apr. 2, 2021]
+(End of clause) [68 FR 67871, Dec. 4, 2003, as amended at 86 FR 17317, Apr. 2, 2021]

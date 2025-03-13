@@ -62,4 +62,4 @@ Scientific Integrity (Month Year)
 
 (g) *Additional Resources.* For more information about the EPA's Scientific Integrity Policy, an introductory video can be accessed at: *https://youtu.be/FQJCy8BXXq8.* A training video is available at: *https://youtu.be/Zc0T7fooot8.*
 
-(End of clause)[85 FR 66269, Oct. 19, 2020]
+(End of clause) [85 FR 66269, Oct. 19, 2020]

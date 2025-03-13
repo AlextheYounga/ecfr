@@ -30,4 +30,4 @@
 
 (2) Offerors that participate in any procurement under this part are required to meet the definition of “small business concern” at 2.101 and the definition of “concern” at 19.001.
 
-[48 FR 42240, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 19.000, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[48 FR 42240, Sept. 19, 1983] Editorial Note:For Federal Register citations affecting section 19.000, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

@@ -6,8 +6,7 @@ To be determined responsible, a prospective contractor must—
 
 (b) Be able to comply with the required or proposed delivery or performance schedule, taking into consideration all existing commercial and governmental business commitments;
 
-(c) Have a satisfactory performance record (see 9.104-3(b)
-and subpart 42.15). A prospective contractor shall not be determined responsible or nonresponsible solely on the basis of a lack of relevant performance history, except as provided in 9.104-2;
+(c) Have a satisfactory performance record (see 9.104-3(b) and subpart 42.15). A prospective contractor shall not be determined responsible or nonresponsible solely on the basis of a lack of relevant performance history, except as provided in 9.104-2;
 
 (d) Have a satisfactory record of integrity and business ethics (for example, see subpart 42.15);
 

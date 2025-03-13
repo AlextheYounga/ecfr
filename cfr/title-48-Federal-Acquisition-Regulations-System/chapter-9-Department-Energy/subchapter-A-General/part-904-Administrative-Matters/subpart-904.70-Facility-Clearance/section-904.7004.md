@@ -1,7 +1,6 @@
 ##### 904.7004 Findings, determination, and contract award or termination. #####
 
-(a) Based on the information disclosed by the offeror(s) or contractor, and after consulting with the DOE Office of Environment, Health, Safety and Security, the contracting officer must determine that award of a contract to an offeror(s) or continued performance of a contract by a contractor will not pose an undue risk to the common defense and security.
-The contracting officer need not prepare a separate finding and determination addressing FOCI; however, the memorandum of negotiation shall include a discussion of the applicability of this subpart and the resulting determination.
+(a) Based on the information disclosed by the offeror(s) or contractor, and after consulting with the DOE Office of Environment, Health, Safety and Security, the contracting officer must determine that award of a contract to an offeror(s) or continued performance of a contract by a contractor will not pose an undue risk to the common defense and security. The contracting officer need not prepare a separate finding and determination addressing FOCI; however, the memorandum of negotiation shall include a discussion of the applicability of this subpart and the resulting determination.
 
 (b) In those cases where FOCI does exist, and the DOE determines that an undue risk to the common defense and security may exist, the offeror(s) or contractor shall be requested to propose within a prescribed period of time a plan of action to avoid or mitigate the foreign influences by isolation of the foreign interest.
 

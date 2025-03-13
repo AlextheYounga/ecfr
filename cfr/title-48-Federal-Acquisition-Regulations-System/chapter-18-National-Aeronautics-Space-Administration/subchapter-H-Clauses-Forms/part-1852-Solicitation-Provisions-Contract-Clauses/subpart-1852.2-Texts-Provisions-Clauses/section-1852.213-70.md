@@ -44,15 +44,15 @@ Offeror Representations and Certifications—Other Than Commercial Products and 
 
 (3) Taxpayer Identification Number (TIN).
 
-[ ] TIN:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.[ ] TIN has been applied for.[ ] TIN is not required because:[ ] Offeror is a nonresident alien, foreign corporation, or foreign partnership that does not have income effectively connected with the conduct of a trade or business in the United States and does not have an office or place of business or a fiscal paying agent in the United States;[ ] Offeror is an agency or instrumentality of a foreign government;[ ] Offeror is an agency or instrumentality of the Federal Government.
+[ ] TIN:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. [ ] TIN has been applied for. [ ] TIN is not required because: [ ] Offeror is a nonresident alien, foreign corporation, or foreign partnership that does not have income effectively connected with the conduct of a trade or business in the United States and does not have an office or place of business or a fiscal paying agent in the United States; [ ] Offeror is an agency or instrumentality of a foreign government; [ ] Offeror is an agency or instrumentality of the Federal Government.
 
 (4) Type of organization.
 
-[ ] Sole proprietorship;[ ] Partnership;[ ] Corporate entity (not tax-exempt);[ ] Corporate entity (tax-exempt);[ ] Government entity (Federal, State, or local);[ ] Foreign government;[ ] International organization per 26 CFR 1.6049-4;[ ] Other \_\_\_\_\_\_\_\_\_\_.
+[ ] Sole proprietorship; [ ] Partnership; [ ] Corporate entity (not tax-exempt); [ ] Corporate entity (tax-exempt); [ ] Government entity (Federal, State, or local); [ ] Foreign government; [ ] International organization per 26 CFR 1.6049-4; [ ] Other \_\_\_\_\_\_\_\_\_\_.
 
 (5) Common parent.
 
-[ ] Offeror is not owned or controlled by a common parent;[ ] Name and TIN of common parent:Name \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.TIN\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+[ ] Offeror is not owned or controlled by a common parent; [ ] Name and TIN of common parent: Name \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. TIN\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 (c) Offerors must complete the following representations when the resulting contract will be performed in the United States or its outlying areas. Check all that apply.
 
@@ -98,7 +98,7 @@ Demonstration Program and for the Targeted Industry Categories under the Small B
 
 (8) (Complete if dollar value of the resultant contract is expected to exceed $25,000 and the offeror has represented itself as disadvantaged in paragraph (c)(4) of this provision.) [The offeror shall check the category in which its ownership falls]:
 
-— Black American.— Hispanic American.— Native American (American Indians, Eskimos, Aleuts, or Native Hawaiians).— Asian-Pacific American (persons with origins from Burma, Thailand, Malaysia, Indonesia, Singapore, Brunei, Japan, China, Taiwan, Laos, Cambodia (Kampuchea), Vietnam, Korea, The Philippines, U.S. Trust Territory of the Pacific Islands (Republic of Palau), Republic of the Marshall Islands, Federated States of Micronesia, the Commonwealth of the Northern Mariana Islands, Guam, Samoa, Macao, Hong Kong, Fiji, Tonga, Kiribati, Tuvalu, or Nauru).— Subcontinent Asian (Asian-Indian) American (persons with origins from India, Pakistan, Bangladesh, Sri Lanka, Bhutan, the Maldives Islands, or Nepal).— Individual/concern, other than one of the preceding.
+— Black American. — Hispanic American. — Native American (American Indians, Eskimos, Aleuts, or Native Hawaiians). — Asian-Pacific American (persons with origins from Burma, Thailand, Malaysia, Indonesia, Singapore, Brunei, Japan, China, Taiwan, Laos, Cambodia (Kampuchea), Vietnam, Korea, The Philippines, U.S. Trust Territory of the Pacific Islands (Republic of Palau), Republic of the Marshall Islands, Federated States of Micronesia, the Commonwealth of the Northern Mariana Islands, Guam, Samoa, Macao, Hong Kong, Fiji, Tonga, Kiribati, Tuvalu, or Nauru). — Subcontinent Asian (Asian-Indian) American (persons with origins from India, Pakistan, Bangladesh, Sri Lanka, Bhutan, the Maldives Islands, or Nepal). — Individual/concern, other than one of the preceding.
 
 (d) Representations required to implement provisions of Executive Order 11246—
 
@@ -120,7 +120,7 @@ Demonstration Program and for the Targeted Industry Categories under the Small B
 
 (2) Foreign End Products:
 
-Line Item No. and Country of Origin[List as necessary]
+Line Item No. and Country of Origin [List as necessary]
 
 (3) The Government will evaluate offers in accordance with the policies and procedures of FAR part 25.
 
@@ -130,13 +130,13 @@ Line Item No. and Country of Origin[List as necessary]
 
 (ii) The offeror certifies that the following supplies are NAFTA country end products or Israeli end products as defined in the clause of this solicitation entitled “Buy American Act—Free Trade Agreements—Israeli Trade Act: NAFTA Country or Israeli End Products:
 
-Line Item No. and Country of Origin[List as necessary]
+Line Item No. and Country of Origin [List as necessary]
 
 (iii) The offeror shall list those supplies that are foreign end products (other than those listed in paragraph (f)(1)(ii) of this provision) as defined in the clause of this solicitation entitled “Buy American Act—North American Free Trade Agreement—Israeli Trade Act.” The offeror shall list as other foreign end products those end products manufactured in the United States that do not qualify as domestic end products.
 
 Other Foreign End Products:
 
-Line Item No. and Country of Origin[List as necessary]
+Line Item No. and Country of Origin [List as necessary]
 
 (iv) The Government will evaluate offers in accordance with the policies and procedures of FAR part 25.
 
@@ -146,7 +146,7 @@ Line Item No. and Country of Origin[List as necessary]
 
 Canadian End Products:
 
-Line Item No.(List as necessary)
+Line Item No. (List as necessary)
 
 (3) Buy American Act—Free Trade Agreements—Israeli Trade Act Certificate, Alternate II (JAN 2004). If Alternate II to the clause at FAR 52.225-3 is included in this solicitation, substitute the following paragraph (f)(1)(ii) for paragraph (f)(1)(ii) of the basic provision:
 
@@ -164,7 +164,7 @@ Line Item No. and Country of Origin[List as necessary]
 
 Other End Products:
 
-Line Item No. and Country of Origin[List as necessary]
+Line Item No. and Country of Origin [List as necessary]
 
 (iii) The Government will evaluate offers in accordance with the policies and procedures of FAR part 25. For line items subject to the Trade Agreements Act, the Government will evaluate offers of U.S.-made, designated country, Caribbean Basin country, or FTA country end products without regard to the restrictions of the Buy American Act. The Government will consider for award only offers of U.S.-made, designated country, Caribbean Basin country, or FTA country end products unless the Contracting Officer determines that there are no offers for such products or that the offers for such products are insufficient to fulfill the requirements of the solicitation.
 

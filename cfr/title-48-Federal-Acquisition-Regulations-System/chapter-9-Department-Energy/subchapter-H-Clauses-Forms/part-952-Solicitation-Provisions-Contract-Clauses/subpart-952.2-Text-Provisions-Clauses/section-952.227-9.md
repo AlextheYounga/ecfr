@@ -6,8 +6,7 @@ Refund of Royalties (DEC 2024)
 
 (a) The contract price includes certain amounts for royalties payable by the Contractor or subcontractors or both, which amounts have been reported to the Contracting Officer.
 
-(b) *Definition.* “Royalties” means any costs or charges in the nature of royalties, license fees, patent or license amortization costs, or the like, for the use of or for rights in patents and patent applications in connection with performing this contract or any subcontract here-under.
-The term also includes any costs or charges associated with the access to, use of, or other right pertaining to data that is represented to be proprietary and is related to the performance of this contract or the copying of such data or data that is copyrighted.
+(b) *Definition.* “Royalties” means any costs or charges in the nature of royalties, license fees, patent or license amortization costs, or the like, for the use of or for rights in patents and patent applications in connection with performing this contract or any subcontract here-under. The term also includes any costs or charges associated with the access to, use of, or other right pertaining to data that is represented to be proprietary and is related to the performance of this contract or the copying of such data or data that is copyrighted.
 
 (c) The Contractor shall furnish to the Contracting Officer, before final payment under this contract, a statement of royalties paid or required to be paid in connection with performing this contract and subcontracts hereunder together with the reasons. For contracts greater than five years in duration, the contractor shall furnish the statement to the Contracting Officer every five years.
 

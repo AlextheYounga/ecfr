@@ -32,4 +32,4 @@ The Contractor, \_\_\_\_\_\_\_\_, hereby declares that, to the best of its knowl
 
 (3) The withholding of any reserve under this clause, or the subsequent payment of the reserve, shall not be construed as a waiver of any Government rights.
 
-(End of clause)[72 FR 63073, Nov. 7, 2007, as amended at 79 FR 24223, Apr. 29, 2014]
+(End of clause) [72 FR 63073, Nov. 7, 2007, as amended at 79 FR 24223, Apr. 29, 2014]

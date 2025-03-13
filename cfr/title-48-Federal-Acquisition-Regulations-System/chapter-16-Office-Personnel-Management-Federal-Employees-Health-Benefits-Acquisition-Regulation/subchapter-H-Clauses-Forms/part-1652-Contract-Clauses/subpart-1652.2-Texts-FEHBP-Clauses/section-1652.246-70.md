@@ -12,4 +12,4 @@ FEHB Inspection (JUL 2005)
 
 (d) The carrier shall insert this clause, including this subsection (d), in all subcontracts for underwriting and claim payments and administrative services and in all Large Provider Agreements and shall substitute “contractor” “Large Provider,” or other appropriate reference for the term “carrier.”
 
-(End of clause)[70 FR 31384, June 1, 2005, as amended at 71 FR 3016, Jan. 19, 2006]
+(End of clause) [70 FR 31384, June 1, 2005, as amended at 71 FR 3016, Jan. 19, 2006]

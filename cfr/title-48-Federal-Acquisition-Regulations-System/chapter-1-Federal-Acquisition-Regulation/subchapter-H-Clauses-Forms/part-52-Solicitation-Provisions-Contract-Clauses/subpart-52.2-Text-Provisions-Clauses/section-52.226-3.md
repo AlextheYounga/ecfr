@@ -34,4 +34,4 @@ Disaster or Emergency Area Representation (NOV 2007)
 
 (e) If the offeror represents it resides or primarily does business in the set-aside area, the offeror shall furnish documentation to support its representation if requested by the Contracting Officer. The solicitation may require the offeror to submit with its offer documentation to support the representation.
 
-(End of provision)[72 FR 63088, Nov. 7, 2007, as amended at 74 FR 52849, Oct. 14, 2009]
+(End of provision) [72 FR 63088, Nov. 7, 2007, as amended at 74 FR 52849, Oct. 14, 2009]

@@ -12,4 +12,4 @@ Additional Data Requirements (JUN 1987)
 
 (d) The Contracting Officer may release the Contractor from the requirements of this clause for specifically identified data items at any time during the 3-year period set forth in paragraph (a) of this clause.
 
-(End of clause)[52 FR 18153, May 13, 1987, as amended 62 FR 40238, July 25, 1997; 72 FR 63072, Nov. 7, 2007]
+(End of clause) [52 FR 18153, May 13, 1987, as amended 62 FR 40238, July 25, 1997; 72 FR 63072, Nov. 7, 2007]

@@ -1,7 +1,6 @@
 ##### 34.203 Solicitation provisions and contract clause. #####
 
-(a) The contracting officer shall insert a provision that is substantially the same as the provision at FAR 52.234-2, Notice of Earned Value Management System—Preaward Integrated Baseline Review
-, in solicitations for contracts that require the contractor to use an Earned Value Management System (EVMS) and for which the Government requires an Integrated Baseline Review (IBR) prior to award.
+(a) The contracting officer shall insert a provision that is substantially the same as the provision at FAR 52.234-2, Notice of Earned Value Management System—Preaward Integrated Baseline Review , in solicitations for contracts that require the contractor to use an Earned Value Management System (EVMS) and for which the Government requires an Integrated Baseline Review (IBR) prior to award.
 
 (b) The contracting officer shall insert a provision that is substantially the same as the provision at 52.234-3, Notice of Earned Value Management System—Postaward Integrated Baseline Review , in solicitations for contracts that require the contractor to use an Earned Value Management System (EVMS) and for which the Government requires an Integrated Baseline Review (IBR) after contract award.
 

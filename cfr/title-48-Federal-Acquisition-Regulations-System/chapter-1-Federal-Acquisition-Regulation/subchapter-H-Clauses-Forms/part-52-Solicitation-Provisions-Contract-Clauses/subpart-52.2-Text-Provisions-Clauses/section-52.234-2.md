@@ -4,8 +4,7 @@ As prescribed in 34.203(a) use the following provision:
 
 Notice of Earned Value Management System—Preaward Integrated Baseline Review (NOV 2016)
 
-(a) The offeror shall provide documentation that the Cognizant Federal Agency has determined that the proposed earned value management system (EVMS) complies with the EVMS guidelines in Electronic Industries Alliance Standard 748 (EIA-748)
-(current version at time of solicitation).
+(a) The offeror shall provide documentation that the Cognizant Federal Agency has determined that the proposed earned value management system (EVMS) complies with the EVMS guidelines in Electronic Industries Alliance Standard 748 (EIA-748) (current version at time of solicitation).
 
 (b) If the offeror proposes to use a system that has not been determined to be in compliance with the requirements of paragraph (a) of this provision, the offeror shall submit a comprehensive plan for compliance with the EVMS guidelines.
 

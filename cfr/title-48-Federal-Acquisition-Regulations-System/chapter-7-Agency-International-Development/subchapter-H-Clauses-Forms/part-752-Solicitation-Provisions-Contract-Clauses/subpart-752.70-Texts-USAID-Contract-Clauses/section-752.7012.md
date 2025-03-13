@@ -10,4 +10,4 @@ Protection of the Individual as a Research Subject (AUG 1995)
 
 (c) Since the welfare of the research subject is a matter of concern to USAID as well as to the contractor, USAID staff, consultants and advisory groups may independently review and inspect research, and research processes and procedures involving human subjects, and based on such findings, the CHSO may prohibit research which presents unacceptable hazards or otherwise fails to comply with USAID procedures. Informed consent documents must include the stipulation that the subject's records may be subject to such review.
 
-(End of clause)[61 FR 39095, July 26, 1996, as amended at 89 FR 4209, Jan. 23, 2024]
+(End of clause) [61 FR 39095, July 26, 1996, as amended at 89 FR 4209, Jan. 23, 2024]

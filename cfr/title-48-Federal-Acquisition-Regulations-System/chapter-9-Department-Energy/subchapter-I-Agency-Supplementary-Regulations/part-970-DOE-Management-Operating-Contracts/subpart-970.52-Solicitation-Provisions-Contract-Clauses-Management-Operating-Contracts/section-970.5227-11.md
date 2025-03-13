@@ -108,4 +108,4 @@ Patent Rights—Management and Operating Contracts, for-Profit Contractor, Non-T
 
 (o) *Unauthorized Access.* The contractor will protect all invention reports, unpublished patent applications and other invention related information from unauthorized access and disclosure using at least commonly available techniques and practices. In the event that the Contractor becomes aware of unauthorized access to invention reports, unpublished patent applications and other invention related information, the Contractor shall notify Patent Counsel within 7 days.
 
-(End of clause)(End of clause)[65 FR 81009, Dec. 22, 2000, as amended at 80 FR 15520, Mar. 24, 2015; 89 FR 89817, Nov. 13, 2024]
+(End of clause) (End of clause)[65 FR 81009, Dec. 22, 2000, as amended at 80 FR 15520, Mar. 24, 2015; 89 FR 89817, Nov. 13, 2024]

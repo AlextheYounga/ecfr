@@ -28,4 +28,4 @@ Commercial Computer Software License (DEC 2007)
 
 Notice—Notwithstanding any other lease or license agreement that may pertain to, or accompany the delivery of, this computer software, the rights of the Government regarding its use, reproduction and disclosure are as set forth in Government Contract No. \_\_\_\_\_\_\_\_.
 
-(End of clause)[72 FR 63073, Nov. 7, 2007]
+(End of clause) [72 FR 63073, Nov. 7, 2007]

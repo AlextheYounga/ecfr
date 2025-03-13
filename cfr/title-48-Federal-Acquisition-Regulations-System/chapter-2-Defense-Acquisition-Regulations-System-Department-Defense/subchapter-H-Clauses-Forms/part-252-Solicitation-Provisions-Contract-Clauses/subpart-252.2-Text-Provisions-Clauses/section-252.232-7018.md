@@ -24,4 +24,4 @@ Progress Payments—Multiple Lots (MAY 2023)
 
 (c) Submit a separate progress payment request for U.S. and FMS requirements in accordance with the DFARS clause 252.232-7002, Progress Payments for Foreign Military Sales Acquisitions, of this contract.
 
-(End of clause)[88 FR 33833, May 25, 2023]
+(End of clause) [88 FR 33833, May 25, 2023]

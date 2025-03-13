@@ -76,4 +76,4 @@
 
 (f) Agencies may supplement the provisions and clauses prescribed in this part (to require use of additional provisions and clauses) only as necessary to reflect agency unique statutes applicable to the acquisition of commercial products or commercial services or as may be approved by the agency senior procurement executive, or the individual responsible for representing the agency on the FAR Council, without power of delegation.
 
-[60 FR 48241, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 12.301, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[60 FR 48241, Sept. 18, 1995] Editorial Note:For Federal Register citations affecting section 12.301, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

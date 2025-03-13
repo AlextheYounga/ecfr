@@ -20,10 +20,7 @@
 
 (iv) Documentation to support actual costs incurred shall be in accordance with the contractor's established practices, subject to paragraph (a)(7) of this section, and provided that a receipt is required for each expenditure of $75.00 or more. The approved justification required by paragraph (a)(3)(ii) of this section and, if applicable, paragraph (a)(3)(iii) of this section must be retained.
 
-(4) Paragraphs (a)(2) and (3) of this section and paragraphs
-(a)(2)(i), (ii), and (iii) of this section
-do not incorporate the regulations cited in paragraphs (a)(2)(i), (ii), and (iii) of this section
-in their entirety. Only the maximum per diem rates, the definitions of lodging, meals, and incidental expenses, and the regulatory coverage dealing with special or unusual situations are incorporated herein.
+(4) Paragraphs (a)(2) and (3) of this section and paragraphs (a)(2)(i), (ii), and (iii) of this section do not incorporate the regulations cited in paragraphs (a)(2)(i), (ii), and (iii) of this section in their entirety. Only the maximum per diem rates, the definitions of lodging, meals, and incidental expenses, and the regulatory coverage dealing with special or unusual situations are incorporated herein.
 
 (5) An advance agreement (see 31.109) with respect to compliance with paragraphs (a)(2) and (3) of this section may be useful and desirable.
 

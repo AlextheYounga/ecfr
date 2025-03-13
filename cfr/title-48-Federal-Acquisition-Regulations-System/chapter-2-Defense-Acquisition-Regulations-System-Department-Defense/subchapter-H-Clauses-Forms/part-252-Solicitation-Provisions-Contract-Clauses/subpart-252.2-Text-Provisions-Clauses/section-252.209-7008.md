@@ -14,4 +14,4 @@ Notice of Prohibition Relating to Organizational Conflict of Interest—Major De
 
 (e) *Incorporation of Organizational Conflict of Interest Mitigation Plan in contract.* If the apparently successful offeror submitted an acceptable Organizational Conflict of Interest Mitigation Plan, and the head of the contracting activity determines that DoD needs the domain experience and expertise of the highly qualified, apparently successful offeror in accordance with FAR 209.571-7(c), then the Contracting Officer will incorporate the Organizational Conflict of Interest Mitigation Plan into the resultant contract, and paragraph (d) of the clause at 252.209-7009 will become applicable.
 
-(End of provision)[75 FR 81914, Dec. 29, 2010]
+(End of provision) [75 FR 81914, Dec. 29, 2010]

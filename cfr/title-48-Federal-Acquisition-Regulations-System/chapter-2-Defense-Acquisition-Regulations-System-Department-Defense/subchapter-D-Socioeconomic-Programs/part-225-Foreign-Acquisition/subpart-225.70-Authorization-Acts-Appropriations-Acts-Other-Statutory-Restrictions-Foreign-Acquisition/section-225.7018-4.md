@@ -1,6 +1,6 @@
 ##### 225.7018-4 Nonavailability determination. #####
 
-(a) *Individual nonavailability determinations.*(1) The head of the contracting activity is authorized to make a nonavailability determination described in 225.7018-3(d) on an individual basis (*i.e.,* applies to only one contract).
+(a) *Individual nonavailability determinations.* (1) The head of the contracting activity is authorized to make a nonavailability determination described in 225.7018-3(d) on an individual basis (*i.e.,* applies to only one contract).
 
 (2) The supporting documentation for the determination shall include an analysis and written certification by the requiring activity that describes, with specificity, why alternatives that would not require a nonavailability determination are unacceptable. The template for an individual nonavailability determination is available at PGI 225.7018-4(a)(2).
 

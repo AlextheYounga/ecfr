@@ -22,4 +22,4 @@ Pollution Prevention and Right-to-Know Information (MAY 2024)
 
 (5) The toxic chemical release inventory of section 313 of EPCRA, which includes the reduction and recycling information required by section 6607 of PPA.
 
-(End of clause)[68 FR 43870, July 24, 2003, as amended at 76 FR 31402, May 31, 2011; 89 FR 30248, Apr. 22, 2024]
+(End of clause) [68 FR 43870, July 24, 2003, as amended at 76 FR 31402, May 31, 2011; 89 FR 30248, Apr. 22, 2024]

@@ -10,4 +10,4 @@ Quality Assurance Requirements (OCT 2005)
 
 (c) The Contracting Officer or his or her representative has the right to inspect and test all services called for by the contract, to the extent practicable, at all times and places during the term of the contract and for as long afterward as the contract requires. The Contracting Officer or his or her representative shall perform any inspections and tests in a manner that will not unduly delay the work.
 
-(End of clause)[58 FR 40381, July 28, 1993, as amended at 70 FR 41157, July 18, 2005]
+(End of clause) [58 FR 40381, July 28, 1993, as amended at 70 FR 41157, July 18, 2005]

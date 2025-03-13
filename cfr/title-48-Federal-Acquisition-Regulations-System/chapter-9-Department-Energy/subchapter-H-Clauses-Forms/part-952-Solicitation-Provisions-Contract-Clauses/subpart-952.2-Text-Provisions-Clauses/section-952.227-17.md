@@ -10,4 +10,4 @@
 
 (c)(1)(ii) If the Government desires to obtain copyright in data first produced in the performance of this contract and permission has not been granted as set forth in paragraph (c)(1)(i) of this clause, the DOE Patent Counsel may direct the Contractor to assign (with or without registration), or obtain the assignment of, the copyright to the Government or its designated assignee.
 
-(End of alternate)[89 FR 89770, Nov. 13, 2024]
+(End of alternate) [89 FR 89770, Nov. 13, 2024]

@@ -14,4 +14,4 @@ The cost sharing for cost underruns is: Government \_\_\_\_ percent; Contractor 
 
 The cost sharing for cost overruns is: Government \_\_\_\_ percent; Contractor \_\_\_\_ percent.
 
-(End of clause)[62 FR 3486, Jan. 23, 1997, as amended at 62 FR 36733, July 9, 1997]
+(End of clause) [62 FR 3486, Jan. 23, 1997, as amended at 62 FR 36733, July 9, 1997]

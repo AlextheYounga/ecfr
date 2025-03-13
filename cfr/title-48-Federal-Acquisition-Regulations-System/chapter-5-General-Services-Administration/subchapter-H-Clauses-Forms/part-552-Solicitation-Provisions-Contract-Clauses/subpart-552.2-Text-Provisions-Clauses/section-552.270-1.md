@@ -1,5 +1,7 @@
 ##### 552.270-1 Instructions to Offerors—Acquisition of Leasehold Interests in Real Property. #####
 
+Link to an amendment published at 90 FR 8683, Jan. 31, 2025.
+
 As prescribed in 570.702, insert the following provision:
 
 Instructions to Offerors—Acquisition of Leasehold Interests in Real Property (JAN 2025)

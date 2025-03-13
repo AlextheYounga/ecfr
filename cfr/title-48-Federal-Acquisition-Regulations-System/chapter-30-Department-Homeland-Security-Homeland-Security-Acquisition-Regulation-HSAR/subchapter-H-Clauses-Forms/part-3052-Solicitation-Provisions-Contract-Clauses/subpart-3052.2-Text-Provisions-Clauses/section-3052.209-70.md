@@ -66,4 +66,4 @@ Prohibition on Contracts With Corporate Expatriates (JUN 2006)
 
 (g) A copy of the approved waiver, if a waiver has already been granted, or the waiver request, if a waiver has been applied for, shall be attached to the bid or proposal.
 
-(End of provision)[68 FR 67871, Dec. 4, 2003, as amended at 71 FR 25774, May 2, 2006; 76 FR 70661, Nov. 15, 2011; 86 FR 17317, Apr. 2, 2021]
+(End of provision) [68 FR 67871, Dec. 4, 2003, as amended at 71 FR 25774, May 2, 2006; 76 FR 70661, Nov. 15, 2011; 86 FR 17317, Apr. 2, 2021]

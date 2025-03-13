@@ -16,4 +16,4 @@ Restrictions on Subcontracting Outside Disaster or Emergency Area (NOV 2007)
 
 (4) *Construction by special trade Contractors.* The Contractor will perform at least 25 percent of the cost of the contract, not including the cost of materials, with its own employees or employees of other businesses residing or primarily doing business in the set-aside area.
 
-(End of clause)[72 FR 63088, Nov. 7, 2007, as amended at 74 FR 52849, Oct. 14, 2009]
+(End of clause) [72 FR 63088, Nov. 7, 2007, as amended at 74 FR 52849, Oct. 14, 2009]

@@ -30,4 +30,4 @@ TIN:
 
 □ Name and TIN of common parent:
 
-NameTIN(End of clause)[70 FR 41154, July 18, 2005]
+Name TIN(End of clause)[70 FR 41154, July 18, 2005]

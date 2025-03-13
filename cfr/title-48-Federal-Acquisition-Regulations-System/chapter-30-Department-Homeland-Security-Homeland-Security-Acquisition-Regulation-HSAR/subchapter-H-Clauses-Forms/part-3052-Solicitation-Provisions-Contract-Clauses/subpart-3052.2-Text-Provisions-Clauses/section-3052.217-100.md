@@ -20,4 +20,4 @@ Guarantee (USCG) (JUN 2006)
 
 (f) At the option of the Contracting officer, defects and deficiencies may be left uncorrected. In that event, the Contractor and Contracting Officer shall negotiate an equitable reduction in the contract price. Failure to agree upon an equitable reduction shall constitute a dispute under the Disputes clause of this contract.
 
-(End of clause)[68 FR 67871, Dec. 4, 2003, as amended at 71 FR 25775, May 2, 2006]
+(End of clause) [68 FR 67871, Dec. 4, 2003, as amended at 71 FR 25775, May 2, 2006]

@@ -16,8 +16,7 @@
 
 (C) Do not use the letter C or H for contracts or agreements with provisions for orders or calls.
 
-(4) *Positions 10 through 17.* In accordance with FAR 4.1603(a)(4), DoD-issued PIIDs shall only use positions 10 through 13 to complete the PIID. Enter the serial number of the instrument in these positions. A separate series of serial numbers may be used for any type of instrument listed in FAR 4.1603(a)(3). DoD components assign such series of PIID numbers sequentially. A DoD component may reserve blocks of numbers or alpha-numeric numbers for use by its various activities.
-Use C in position 10 to identify the solicitation as a commercial solutions opening.
+(4) *Positions 10 through 17.* In accordance with FAR 4.1603(a)(4), DoD-issued PIIDs shall only use positions 10 through 13 to complete the PIID. Enter the serial number of the instrument in these positions. A separate series of serial numbers may be used for any type of instrument listed in FAR 4.1603(a)(3). DoD components assign such series of PIID numbers sequentially. A DoD component may reserve blocks of numbers or alpha-numeric numbers for use by its various activities. Use C in position 10 to identify the solicitation as a commercial solutions opening.
 
 (b) *Elements of a supplementary PIID.* In addition to the supplementary PIID numbering procedures in FAR 4.1603(b), follow the procedures contained in paragraphs (b)(2)(ii)(*1*) and (*2*) of this section. See PGI 204.1603(b) for examples of proper supplementary PIID numbering.
 

@@ -8,4 +8,4 @@ Rejected Goods (OCT 2018)
 
 (b) *Perishable supplies.* The Contractor shall remove rejected perishable supplies within 48 hours after notice of rejection. Supplies determined to be unfit for human consumption will not be removed without permission of the local health authorities. Supplies not removed within the allowed time may be destroyed. The Department of Veterans Affairs will not be responsible for, nor pay for, products rejected. The Contractor will be liable for costs incident to examination of rejected products.
 
-(End of Clause)[83 FR 48262, Sept. 24, 2018]
+(End of Clause) [83 FR 48262, Sept. 24, 2018]

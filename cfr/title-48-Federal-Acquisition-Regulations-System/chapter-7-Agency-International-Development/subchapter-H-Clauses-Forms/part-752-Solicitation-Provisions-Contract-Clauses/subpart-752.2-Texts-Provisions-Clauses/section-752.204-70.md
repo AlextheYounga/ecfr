@@ -42,4 +42,4 @@ Offerors who submit using non-secure methods of transmission do so at their own 
 
 (g) *Award.* At the time of award, the contracting officer will confirm with the vetting official that the apparently successful offeror has passed vetting. The contracting officer may award only to an apparently successful offeror that has passed vetting.
 
-(End of clause)[77 FR 8171, Feb. 14, 2012, as amended at 79 FR 74988, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]
+(End of clause) [77 FR 8171, Feb. 14, 2012, as amended at 79 FR 74988, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]

@@ -28,4 +28,4 @@ NASA Mentor-ProtÉGÉ Program (OCT 2023)
 
 (d) Eligible businesses and research institutions interested in participating in the program are encouraged to contact the NASA MPPO.
 
-(End of clause)[74 FR 25676, May 29, 2009, as amended at 80 FR 12947, Mar. 12, 2015; 80 FR 50212, Aug. 19, 2015; 88 FR 69886, Oct. 10, 2023]
+(End of clause) [74 FR 25676, May 29, 2009, as amended at 80 FR 12947, Mar. 12, 2015; 80 FR 50212, Aug. 19, 2015; 88 FR 69886, Oct. 10, 2023]

@@ -74,4 +74,4 @@ As prescribed in (HSAR) 48 CFR 3004.470-4(c), insert the following clause:
 
 (vi) Information for registrants to contact customer service representatives and fraud resolution representatives for credit monitoring assistance.
 
-(End of clause)[88 FR 40602, June 21, 2023]
+(End of clause) [88 FR 40602, June 21, 2023]

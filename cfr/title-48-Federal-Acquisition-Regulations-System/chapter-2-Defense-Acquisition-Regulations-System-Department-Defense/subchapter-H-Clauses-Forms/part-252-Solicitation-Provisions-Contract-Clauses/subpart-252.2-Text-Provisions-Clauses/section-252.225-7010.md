@@ -16,4 +16,4 @@ Commercial Derivative Military Article—Specialty Metals Compliance Certificate
 
 (d) For the purposes of this provision, the amount of specialty metal that is required to carry out the production of the commercial derivative military article includes specialty metal contained in any item, including commercially available off-the-shelf items, incorporated into such commercial derivative military articles.
 
-(End of provision)[74 FR 37639, July 29, 2009]
+(End of provision) [74 FR 37639, July 29, 2009]

@@ -12,4 +12,4 @@ Restriction On Acquisition of Certain Satellite Components (MAY 2024)
 
 (c) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (c), in subcontracts for star trackers that exceed the simplified acquisition threshold, including subcontracts for commercial products and commercial services.
 
-(End of clause)[89 FR 46816, May 30, 2024]
+(End of clause) [89 FR 46816, May 30, 2024]

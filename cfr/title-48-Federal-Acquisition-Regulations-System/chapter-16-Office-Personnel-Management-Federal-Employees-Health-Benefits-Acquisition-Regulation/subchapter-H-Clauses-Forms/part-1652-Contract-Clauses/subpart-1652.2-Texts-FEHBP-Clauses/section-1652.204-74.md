@@ -42,4 +42,4 @@ Large Provider Agreements (OCT 2005)
 
 (e) The carrier will insert this clause, 1652.204-74, in all Large Provider Agreements.
 
-(End of clause)[70 FR 31382, June 1, 2005, as amended at 71 FR 3016, Jan. 19, 2006]
+(End of clause) [70 FR 31382, June 1, 2005, as amended at 71 FR 3016, Jan. 19, 2006]

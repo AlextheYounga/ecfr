@@ -20,4 +20,4 @@ Transfer and Adoption of Military Animals (Feb 2024)
 
 (2) The dog cannot be used by another department or agency of the Federal Government due to age, injury, or performance.
 
-(End of clause)[89 FR 11747, Feb. 15, 2024]
+(End of clause) [89 FR 11747, Feb. 15, 2024]

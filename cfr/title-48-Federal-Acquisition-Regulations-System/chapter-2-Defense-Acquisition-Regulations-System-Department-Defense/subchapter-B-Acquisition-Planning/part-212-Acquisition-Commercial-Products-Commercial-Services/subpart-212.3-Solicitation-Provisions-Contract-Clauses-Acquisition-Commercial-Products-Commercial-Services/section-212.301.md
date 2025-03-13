@@ -72,7 +72,7 @@
 
 (vii) *Part 216—Types of Contracts.* Use the clause at 252.216-7010, Postaward Debriefings for Task Orders and Delivery Orders, as prescribed in 216.506-70(b), to comply with section 818 of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91).
 
-(viii) *Part 219—Small Business Programs.*(A) Use the provision at 252.219-7000, Advancing Small Business Growth, as prescribed in 219.309(1), to comply with 10 U.S.C. 4959.
+(viii) *Part 219—Small Business Programs.* (A) Use the provision at 252.219-7000, Advancing Small Business Growth, as prescribed in 219.309(1), to comply with 10 U.S.C. 4959.
 
 (B) Use the clause at 252.219-7003, Small Business Subcontracting Plan (DoD Contracts), to comply with 15 U.S.C. 637.
 

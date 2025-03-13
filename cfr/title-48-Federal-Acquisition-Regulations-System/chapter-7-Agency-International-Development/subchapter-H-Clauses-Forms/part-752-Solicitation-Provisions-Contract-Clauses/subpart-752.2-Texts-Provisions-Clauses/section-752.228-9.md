@@ -6,4 +6,4 @@ Cargo Insurance (DEC 1998)
 
 Preface: To the extent that marine insurance is necessary or appropriate under this contract, the contractor shall ensure that U.S. marine insurance companies are offered a fair opportunity to bid for such insurance. This requirement shall be included in all subcontracts under this contract.
 
-(End of clause)[53 FR 50632, Dec. 16, 1988, as amended at 79 FR 74999, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]
+(End of clause) [53 FR 50632, Dec. 16, 1988, as amended at 79 FR 74999, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]

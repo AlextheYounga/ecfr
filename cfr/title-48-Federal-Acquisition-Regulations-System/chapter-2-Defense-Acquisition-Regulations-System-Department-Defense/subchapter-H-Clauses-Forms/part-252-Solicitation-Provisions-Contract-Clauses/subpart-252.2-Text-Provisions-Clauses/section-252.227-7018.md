@@ -1,5 +1,4 @@
-##### 252.227-7018 Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research Program and Small Business Technology Transfer Program.
-As prescribed in 227.7104-4(a)(1), use the following clause: #####
+##### 252.227-7018 Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research Program and Small Business Technology Transfer Program. As prescribed in 227.7104-4(a)(1), use the following clause: #####
 
 Rights in Other Than Commercial Technical Data and Computer Software—Small Business Innovation Research Program and Small Business Technlogy Transfer Program (JAN 2025)
 
@@ -345,4 +344,4 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 (5) In no event shall the Contractor use its obligation to recognize and protect subcontractor or supplier rights in technical data or computer software as an excuse for failing to satisfy its contractual obligation to the Government.
 
-(End of clause)[60 FR 33499, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 76 FR 3538, Jan. 20, 2011; 76 FR 11369, Mar. 2, 2011; 78 FR 30239, May 22, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 76997, Dec. 16, 2022; 88 FR 6594, Jan. 31, 2023; 88 FR 17345, Mar. 22, 2023; 88 FR 80467, Nov. 17, 2023; 89 FR 103357, Dec. 18, 2024]
+(End of clause) [60 FR 33499, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 76 FR 3538, Jan. 20, 2011; 76 FR 11369, Mar. 2, 2011; 78 FR 30239, May 22, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 76997, Dec. 16, 2022; 88 FR 6594, Jan. 31, 2023; 88 FR 17345, Mar. 22, 2023; 88 FR 80467, Nov. 17, 2023; 89 FR 103357, Dec. 18, 2024]

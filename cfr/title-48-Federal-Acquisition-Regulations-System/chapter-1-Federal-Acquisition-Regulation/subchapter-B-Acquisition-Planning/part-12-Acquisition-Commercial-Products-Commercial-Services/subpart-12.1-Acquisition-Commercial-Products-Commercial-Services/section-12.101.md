@@ -1,6 +1,6 @@
 ##### 12.101 Policy. #####
 
-The head of the agency shall—
+ The head of the agency shall—
 
 (a) Conduct market research to determine whether commercial products, commercial services, or nondevelopmental items are available that could meet the agency's requirements;
 

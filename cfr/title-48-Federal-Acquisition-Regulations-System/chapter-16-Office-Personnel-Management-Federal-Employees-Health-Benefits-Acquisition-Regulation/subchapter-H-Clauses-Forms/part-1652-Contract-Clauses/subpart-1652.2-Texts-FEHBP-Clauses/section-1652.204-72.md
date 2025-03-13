@@ -84,4 +84,4 @@ Filing Health Benefit Claims/Court Review of Disputed Claims (MAR 1995)
 
 (iii) Will be limited to the record that was before OPM when it rendered its decision affirming the Carrier's denial of benefits.
 
-(End of clause)[61 FR 15198, Apr. 5, 1996, as amended at 62 FR 47576, Sept. 10, 1997]
+(End of clause) [61 FR 15198, Apr. 5, 1996, as amended at 62 FR 47576, Sept. 10, 1997]

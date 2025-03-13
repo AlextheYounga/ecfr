@@ -164,4 +164,4 @@ Ground and Flight Risk (MAR 2023)
 
 (2) The Contractor shall not incorporate the requirements of this clause in subcontracts with Federal Aviation Administration (FAA) part 145 repair stations performing work pursuant to their FAA license.
 
-(End of clause)[88 FR 17352, Mar. 22, 2023]
+(End of clause) [88 FR 17352, Mar. 22, 2023]

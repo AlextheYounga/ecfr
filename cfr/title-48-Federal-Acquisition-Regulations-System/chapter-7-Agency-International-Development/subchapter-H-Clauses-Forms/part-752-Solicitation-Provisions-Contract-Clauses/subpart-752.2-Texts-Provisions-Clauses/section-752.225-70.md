@@ -38,4 +38,4 @@ Source and Nationality Requirements (FEB 2012)
 
 If USAID determines that the contractor has procured any of these specific restricted goods under this contract without the prior written authorization of the contracting officer or fails to comply with required procedures under an applicable waiver as provided by the contracting officer, and has received payment for such purposes, the contracting officer may require the contractor to refund the entire amount of the purchase.
 
-(End of clause)[79 FR 74998, Dec. 16, 2014, as amended at 89 FR 4209, Jan. 23, 2024]
+(End of clause) [79 FR 74998, Dec. 16, 2014, as amended at 89 FR 4209, Jan. 23, 2024]

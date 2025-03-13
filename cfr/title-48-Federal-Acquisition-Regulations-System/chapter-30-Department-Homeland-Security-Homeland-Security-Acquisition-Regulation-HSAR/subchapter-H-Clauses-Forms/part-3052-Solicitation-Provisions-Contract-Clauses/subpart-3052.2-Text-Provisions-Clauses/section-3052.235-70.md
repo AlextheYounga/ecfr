@@ -10,4 +10,4 @@ Dissemination of Information—Educational Institutions (DEC 2003)
 
 (c) Publication under the terms of this clause does not release the Contractor from the obligation of preparing and submitting to the Contracting Officer a final report containing the findings and results of research, as set forth in the schedule of the contract.
 
-(End of clause)[68 FR 67871, Dec. 4, 2003. Redesignated and amended at 71 FR 25775, May 2, 2006; 77 FR 50637, Aug. 22, 2012]
+(End of clause) [68 FR 67871, Dec. 4, 2003. Redesignated and amended at 71 FR 25775, May 2, 2006; 77 FR 50637, Aug. 22, 2012]

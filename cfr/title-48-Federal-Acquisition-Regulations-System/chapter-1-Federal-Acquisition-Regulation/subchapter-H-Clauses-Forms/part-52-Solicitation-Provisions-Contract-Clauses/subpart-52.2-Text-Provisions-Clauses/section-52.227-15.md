@@ -20,4 +20,4 @@ Representation of Limited Rights Data and Restricted Computer Software (DEC 2007
 
 (c) Any identification of limited rights data or restricted computer software in the offeror's response is not determinative of the status of the data should a contract be awarded to the offeror.
 
-(End of provision)[72 FR 63068, Nov. 7, 2007]
+(End of provision) [72 FR 63068, Nov. 7, 2007]

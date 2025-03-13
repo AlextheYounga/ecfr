@@ -20,4 +20,4 @@ Standards for Accessibility for the Disabled in USAID Construction Contracts (JU
 
 (2) emergency construction (which may entail the provision of plastic sheeting or tents, minor repair and upgrading of existing structures, rebuilding of part of existing structures, or provision of temporary structures) intended to be temporary in nature. A portion of emergency construction assistance may be provided to people with disabilities as part of the process of identifying disaster- and crisis-affected people as “most vulnerable.”
 
-(End of clause)[79 FR 75000, Dec. 16, 2014, as amended at 89 FR 4209, Jan. 23, 2024]
+(End of clause) [79 FR 75000, Dec. 16, 2014, as amended at 89 FR 4209, Jan. 23, 2024]

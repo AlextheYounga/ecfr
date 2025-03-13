@@ -56,7 +56,7 @@ TO: [U.S. Government agency]
 
 6. If this credit expires during an interruption of business of this financial institution as described in Article 17 of the UCP, the financial institution specifically agrees to effect payment if this credit is drawn against within 30 days after the resumption of our business.
 
-Sincerely,
+ Sincerely,
 
 [Issuing financial institution]
 

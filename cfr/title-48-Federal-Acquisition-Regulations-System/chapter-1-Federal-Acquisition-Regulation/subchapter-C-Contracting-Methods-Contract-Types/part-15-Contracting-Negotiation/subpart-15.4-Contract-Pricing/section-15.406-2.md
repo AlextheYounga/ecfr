@@ -6,7 +6,7 @@ Certificate of Current Cost or Pricing Data
 
 This is to certify that, to the best of my knowledge and belief, the cost or pricing data (as defined in section 2.101 of the Federal Acquisition Regulation (FAR) and required under FAR subsection 15.403-4) submitted, either actually or by specific identification in writing, to the Contracting Officer or to the Contracting Officer's representative in support of \_\_\_\_\* are accurate, complete, and current as of \_\_\_\_\*\*. This certification includes the cost or pricing data supporting any advance agreements and forward pricing rate agreements between the offeror and the Government that are part of the proposal.
 
-FirmSignatureNameTitleDate of execution\*\*\*
+Firm Signature Name Title Date of execution\*\*\*
 
 \* Identify the proposal, request for price adjustment, or other submission involved, giving the appropriate identifying number (e.g., RFP No.).
 

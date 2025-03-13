@@ -1,7 +1,6 @@
 ##### 19.804-2 Agency offering. #####
 
-(a) After completing its evaluation, the contracting office shall notify the SBA of the extent of its plans to place 8(a) contracts with the SBA for specific quantities of items or work, including 8(a) contracts that are reserved in accordance with 19.503.
-The notification, referred to as an offering letter, shall identify the time frames within which resulting 8(a) awards must be completed in order for the agency to meet its responsibilities. The offering letter shall also contain the following information applicable to each prospective contract:
+(a) After completing its evaluation, the contracting office shall notify the SBA of the extent of its plans to place 8(a) contracts with the SBA for specific quantities of items or work, including 8(a) contracts that are reserved in accordance with 19.503. The notification, referred to as an offering letter, shall identify the time frames within which resulting 8(a) awards must be completed in order for the agency to meet its responsibilities. The offering letter shall also contain the following information applicable to each prospective contract:
 
 (1) A description of the work to be performed or items to be delivered, and a copy of the statement of work, if available.
 

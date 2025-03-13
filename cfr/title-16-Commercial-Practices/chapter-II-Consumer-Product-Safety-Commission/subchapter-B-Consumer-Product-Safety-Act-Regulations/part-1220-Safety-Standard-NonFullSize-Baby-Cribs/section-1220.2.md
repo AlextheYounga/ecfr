@@ -1,5 +1,7 @@
 ##### § 1220.2 Requirements for non-full-size baby cribs. #####
 
+Link to an amendment published at 90 FR 8682, Jan. 31, 2025.
+
 (a) Except as provided in paragraph (b) of this section, each non-full-size baby crib shall comply with all applicable provisions of ASTM F406-22, *Standard Consumer Safety Specification for Non-Full-Size Baby Cribs/Play Yards,* approved on October 1, 2022. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. This material is available for inspection at the U.S. Consumer Product Safety Commission and at the National Archives and Records Administration (NARA). Contact the U.S. Consumer Product Safety Commission at: the Office of the Secretary, U.S. Consumer Product Safety Commission, 4330 East-West Highway, Bethesda, MD 20814, telephone (301) 504-7479, email: *cpsc-os@cpsc.gov.* For information on the availability of this material at NARA, email *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* A free, read-only copy of the standard is available for viewing on the ASTM website at *https://www.astm.org/READINGLIBRARY/.* You may also obtain a copy from ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959; phone: (610) 832-9585; *www.astm.org.*
 
 (b) Comply with the ASTM F406-22 standard with the following exclusions:

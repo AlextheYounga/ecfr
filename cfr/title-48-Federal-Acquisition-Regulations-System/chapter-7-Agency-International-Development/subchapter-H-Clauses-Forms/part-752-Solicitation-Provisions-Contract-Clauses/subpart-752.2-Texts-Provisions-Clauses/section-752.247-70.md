@@ -36,4 +36,4 @@ Preference for Privately Owned U.S.-Flag Commercial Vessels (OCT 1996)
 
 (ix) Total ocean freight revenue in U.S. dollars.
 
-(End of clause)[64 FR 5009, Feb. 2, 1999, as amended at 72 FR 19670, Apr. 19, 2007; 79 FR 75001, Dec. 16, 2014; 81 FR 47047, July 20, 2016; 89 FR 4209, Jan. 23, 2024]
+(End of clause) [64 FR 5009, Feb. 2, 1999, as amended at 72 FR 19670, Apr. 19, 2007; 79 FR 75001, Dec. 16, 2014; 81 FR 47047, July 20, 2016; 89 FR 4209, Jan. 23, 2024]

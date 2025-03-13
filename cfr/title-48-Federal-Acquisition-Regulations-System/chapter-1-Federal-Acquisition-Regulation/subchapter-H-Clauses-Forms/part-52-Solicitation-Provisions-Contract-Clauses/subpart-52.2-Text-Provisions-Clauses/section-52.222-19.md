@@ -30,4 +30,4 @@ Child Labor—Cooperation With Authorities and Remedies (JAN 2025)
 
 (3) The suspending and debarring official may debar the Contractor for a period not to exceed 3 years in accordance with the procedures in FAR subpart 9.4.
 
-(End of clause)[66 FR 5349, Jan. 18, 2001]Editorial Note:For Federal Register citations affecting section 52.222-19, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(End of clause) [66 FR 5349, Jan. 18, 2001]Editorial Note:For Federal Register citations affecting section 52.222-19, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

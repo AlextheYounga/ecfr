@@ -8,4 +8,4 @@ Contract Funding (JUN 1990)
 
 (b) An additional amount of $\_\_\_\_\_\_\_\_\_\_\_\_ is obligated under this contract for payment of fee.
 
-(End of clause)[54 FR 28340, July 5, 1989, as amended at 55 FR 27090, June 29, 1990; 57 FR 40856, Sept. 8, 1992]
+(End of clause) [54 FR 28340, July 5, 1989, as amended at 55 FR 27090, June 29, 1990; 57 FR 40856, Sept. 8, 1992]

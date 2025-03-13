@@ -16,4 +16,4 @@ Project Employee Confidentiality Agreement (MAY 1994)
 
 (d) The Contractor agrees to insert in each subcontract or consultant agreement placed hereunder provisions which shall conform substantially to the language of this clause, including this paragraph (d), unless otherwise authorized by the Contracting Officer.
 
-(End of clause)[59 FR 18624, Apr. 19, 1994, as amended at 79 FR 76241, Dec. 22, 2014; 82 FR 33023, July 19, 2017]
+(End of clause) [59 FR 18624, Apr. 19, 1994, as amended at 79 FR 76241, Dec. 22, 2014; 82 FR 33023, July 19, 2017]

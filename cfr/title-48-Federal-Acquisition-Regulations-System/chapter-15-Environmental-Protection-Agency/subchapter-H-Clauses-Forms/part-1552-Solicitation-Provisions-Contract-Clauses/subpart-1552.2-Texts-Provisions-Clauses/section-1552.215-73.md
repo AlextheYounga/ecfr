@@ -39,7 +39,7 @@ If a division or subsidiary corporation, name parent company:
 
 (i) Manpower:
 
-Total Employees:Direct:Indirect:Standard Work Week (Hours): (j) Commercial Products:
+Total Employees: Direct: Indirect: Standard Work Week (Hours):  (j) Commercial Products:
 
 (k) Attach a current organizational chart of the company.
 

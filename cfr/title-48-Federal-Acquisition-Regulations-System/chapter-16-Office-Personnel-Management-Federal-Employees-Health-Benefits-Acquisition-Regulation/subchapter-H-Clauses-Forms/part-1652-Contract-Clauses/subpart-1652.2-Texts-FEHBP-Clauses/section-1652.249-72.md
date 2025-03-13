@@ -26,4 +26,4 @@ FEHBP Termination for Default—Negotiated Benefits Contracts (JAN 1998)
 
 (g) The rights and remedies of the Government in this clause are in addition to any other rights and remedies provided by law or under this contract.
 
-(End of clause)[62 FR 47580, Sept. 10, 1997]
+(End of clause) [62 FR 47580, Sept. 10, 1997]

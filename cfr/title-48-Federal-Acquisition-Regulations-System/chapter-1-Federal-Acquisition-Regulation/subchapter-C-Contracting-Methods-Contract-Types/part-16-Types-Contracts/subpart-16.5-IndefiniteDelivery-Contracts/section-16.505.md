@@ -232,7 +232,7 @@
 
 (5*) Time-and-materials or labor-hour orders.* For additional requirements for time-and-materials or labor-hour orders, see 16.601(e).
 
-(6) *Postaward notices and debriefing of awardees for orders exceeding $6 million.*The contracting officer shall notify unsuccessful awardees when the total price of a task or delivery order exceeds $6 million.
+(6) *Postaward notices and debriefing of awardees for orders exceeding $6 million.* The contracting officer shall notify unsuccessful awardees when the total price of a task or delivery order exceeds $6 million.
 
 (i) The procedures at 15.503(b)(1) shall be followed when providing postaward notification to unsuccessful awardees.
 

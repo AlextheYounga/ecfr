@@ -48,4 +48,4 @@ Requirement for Use of Certain Domestic Commodities (NOV 2024)
 
 (3) To items that are eligible products per (FAR) 48 CFR Subpart 25.4.
 
-(End of clause)[74 FR 41350, Aug. 17, 2009, as amended at 89 FR 92852, Nov. 25, 2024]
+(End of clause) [74 FR 41350, Aug. 17, 2009, as amended at 89 FR 92852, Nov. 25, 2024]

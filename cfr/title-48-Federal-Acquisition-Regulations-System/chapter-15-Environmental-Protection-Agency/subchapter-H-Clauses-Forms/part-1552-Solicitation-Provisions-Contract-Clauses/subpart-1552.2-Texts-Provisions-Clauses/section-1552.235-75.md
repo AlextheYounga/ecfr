@@ -8,4 +8,4 @@ In order to perform duties under the contract, the Contractor will need to be au
 
 Until EPA has inspected and approved the Contractor's facilities, the Contractor may not be authorized for TSCA CBI access away from EPA facilities.
 
-(End of provision)[61 FR 14265, Apr. 1, 1996]
+(End of provision) [61 FR 14265, Apr. 1, 1996]

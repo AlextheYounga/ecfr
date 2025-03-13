@@ -12,4 +12,4 @@ Evaluation—F.o.b. Origin (JUN 2003)
 
 (d) When tentative destinations are indicated, the Government will use them only for evaluation purposes. The Government has the right to use any other means of transportation or any other destination at the time of shipment.
 
-(End of provision)[68 FR 28088, May 22, 2003]
+(End of provision) [68 FR 28088, May 22, 2003]

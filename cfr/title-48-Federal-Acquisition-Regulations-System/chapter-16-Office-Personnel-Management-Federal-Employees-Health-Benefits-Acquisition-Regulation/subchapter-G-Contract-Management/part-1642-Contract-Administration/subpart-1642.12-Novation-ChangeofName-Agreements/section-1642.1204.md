@@ -60,7 +60,7 @@ I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, certify that I am the Secretary
 
 Witness my hand and the seal of this corporation this \_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 19\_\_\_\_,
 
-By(Corporate Seal)(End of agreement)
+By (Corporate Seal)(End of agreement)
 
 (b) Failure to submit the properly completed and signed Novation Agreement in a timely manner shall be cause for termination of the contract by OPM in accordance with FEHBAR 1652.249-70.
 

@@ -34,7 +34,7 @@ Descriptive Literature (APR 2002)
 
 (f) The Contracting Officer may waive the requirement for furnishing descriptive literature if the offeror has supplied a product that is the same as that required by this solicitation under a prior contract. A bidder that requests a waiver of this requirement shall provide the following information:
 
-Prior contract numberDate of prior contractLine item number of productsuppliedName and address of Government activity to which delivery was madeDate of final delivery product supplied
+Prior contract number Date of prior contract Line item number of productsupplied Name and address of Government activity to which delivery was made Date of final delivery product supplied
 
 (g) Bidders shall submit bids on the basis of required descriptive literature or on the basis of a previously supplied product under paragraph (f) of this provision. A bidder submitting a bid on one of these two bases may not elect to have its bid considered on the alternative basis after the time specified for receipt of bids. The Government will disregard a bidder's request for a waiver under paragraph (f) if that bidder has submitted the descriptive literature requested under this solicitation.
 

@@ -28,4 +28,4 @@ The differentials and allowances authorized in this clause apply only to U.S. em
 
 (2) Danger pay is an allowance that provides additional compensation above basic compensation to an employee in a foreign area where civil insurrection, civil war, terrorism or wartime conditions threaten physical harm or imminent danger to the health or well-being of the employee. The danger pay allowance is in lieu of that part of the post differential which is attributable to political violence. Consequently, the post differential may be reduced while danger pay is in effect to avoid dual crediting for political violence.
 
-(End of clause)[49 FR 13259, Apr. 3, 1984, as amended at 51 FR 11450, Apr. 3, 1986; 53 FR 50632, Dec. 16, 1988; 61 FR 39096, July 26, 1996; 61 FR 51235, Oct. 1, 1996; 79 FR 75002, Dec. 16, 2014; 89 FR 4208, Jan. 23, 2024]
+(End of clause) [49 FR 13259, Apr. 3, 1984, as amended at 51 FR 11450, Apr. 3, 1986; 53 FR 50632, Dec. 16, 1988; 61 FR 39096, July 26, 1996; 61 FR 51235, Oct. 1, 1996; 79 FR 75002, Dec. 16, 2014; 89 FR 4208, Jan. 23, 2024]

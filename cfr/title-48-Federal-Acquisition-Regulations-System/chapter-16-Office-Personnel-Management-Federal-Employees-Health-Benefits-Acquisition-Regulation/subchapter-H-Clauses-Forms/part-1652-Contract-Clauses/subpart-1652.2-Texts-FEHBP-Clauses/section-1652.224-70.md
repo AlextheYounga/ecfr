@@ -22,4 +22,4 @@ Confidentiality of Records (JAN 1991)
 
 (c) If the carrier uses medical records for the administration of the contract, or for bona fide medical research or educational purposes, it shall so state in the plan's brochure.
 
-(End of clause)[52 FR 16044, May 1, 1987, as amended at 55 FR 27417, July 2, 1990]
+(End of clause) [52 FR 16044, May 1, 1987, as amended at 55 FR 27417, July 2, 1990]

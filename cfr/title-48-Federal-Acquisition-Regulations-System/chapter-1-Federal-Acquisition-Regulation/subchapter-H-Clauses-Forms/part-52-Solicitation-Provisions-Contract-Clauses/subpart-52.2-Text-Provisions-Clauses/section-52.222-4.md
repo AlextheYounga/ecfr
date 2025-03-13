@@ -4,7 +4,7 @@ As prescribed in 22.305, insert the following clause:
 
 Contract Work Hours and Safety Standards—Overtime Compensation (MAY 2018)
 
-(a) *Overtime requirements.* No Contractor or subcontractor employing laborers or mechanics (see Federal Acquisition Regulation 22.300) shall require or permit them to work over 40 hours in any workweek unless they are paid at least 1 and1/2 times the basic rate of pay for each hour worked over 40 hours.
+(a) *Overtime requirements.* No Contractor or subcontractor employing laborers or mechanics (see Federal Acquisition Regulation 22.300) shall require or permit them to work over 40 hours in any workweek unless they are paid at least 1 and 1/2 times the basic rate of pay for each hour worked over 40 hours.
 
 (b) *Violation; liability for unpaid wages; liquidated damages.* The responsible Contractor and subcontractor are liable for unpaid wages if they violate the terms in paragraph (a) of this clause. In addition, the Contractor and subcontractor are liable for liquidated damages payable to the Government. The Contracting Officer will assess liquidated damages at the rate specified at 29 CFR 5.5(b)(2) per affected employee for each calendar day on which the employer required or permitted the employee to work in excess of the standard workweek of 40 hours without paying overtime wages required by the Contract Work Hours and Safety Standards statute (found at 40 U.S.C. chapter 37). In accordance with the Federal Civil Penalties Inflation Adjustment Act of 1990 (28 U.S.C. 2461 Note), the Department of Labor adjusts this civil monetary penalty for inflation no later than January 15 each year.
 

@@ -130,4 +130,4 @@ Use, reproduction, or disclosure is subject to restrictions set forth in the Lon
 
 (f) This “limited rights data” may be disclosed in future solicitations for the continuation or completion of the work contemplated under this contract under the restriction that the “limited rights data” be retained in confidence and not be further disclosed.
 
-(End of alternate)(End of Alternate)[65 FR 81009, Dec. 22, 2000, as amended at 80 FR 15519, Mar. 24, 2015; 89 FR 89799, Nov. 13, 2024]
+(End of alternate) (End of Alternate)[65 FR 81009, Dec. 22, 2000, as amended at 80 FR 15519, Mar. 24, 2015; 89 FR 89799, Nov. 13, 2024]

@@ -20,4 +20,4 @@ Restriction on Acquisition of Components of T-AO 205 AND T-ARC Class Vessels (MA
 
 (b) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (b), in subcontracts for the components described in paragraph (a)(1) of this clause that exceed the simplified acquisition threshold, including subcontracts for commercial products and commercial services.
 
-(End of Clause)[89 FR 46816, May 30, 2024]
+(End of Clause) [89 FR 46816, May 30, 2024]

@@ -88,7 +88,7 @@ Special Reports of Government Property (FEB 2015)
 
 “I hereby affirm that a physical inventory of the government property (as defined in Federal Acquisition Regulation (FAR) 45.101) of Department of State contract number (*insert contract number*) has been completed as of (*insert date*), the inventory has been reconciled to our records and the property information in our report, and that to the best of my knowledge and belief, this inventory is accurate, current, and complete.
 
-Signed:Printed:Title:Date:
+Signed: Printed: Title: Date:
 
 (g) In addition to the information required above, the Contractor shall include in all property reports:
 

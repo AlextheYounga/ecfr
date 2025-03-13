@@ -40,7 +40,7 @@ Authorization
 
 (All prior authorizations for advance payments under Contract No. \_\_\_\_\_\_ are superseded.)
 
-(*Signature*)(*Name typed*)(*Title of authorized official*)
+(*Signature*) (*Name typed*) (*Title of authorized official*)
 
 [*Each Findings, Determination, and Authorization shall be individually prepared to fit the particular circumstances at hand. Subparagraphs (a)(1), (2), (3) and (4) and paragraphs (b) and (c) shall be used in each case. If the contract is (a) for experimental, developmental, or research work and with a nonprofit educational or research institution, or (b) only for management and operation of a Government-owned plant, subparagraph (a)(5) should not be included. If the advance payment is to be made without interest to the contractor, include subparagraph (a)(6), (7), or (8). If any advance payments have previously been authorized for the contract, include the final sentence of paragraph (c). The alternate parenthetical wording or other modifications may be used as appropriate. The paragraphs actually used shall be renumbered sequentially*].
 

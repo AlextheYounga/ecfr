@@ -10,4 +10,4 @@ Prohibition of Procurement of Fluorinated Fire-Fighting Agent for Use on Militar
 
 (c) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (c), in all subcontracts, including subcontracts for commercial products and commercial services, relating to fire-fighting on a military installation.
 
-(End of clause)[89 FR 20871, Mar. 26, 2024]
+(End of clause) [89 FR 20871, Mar. 26, 2024]

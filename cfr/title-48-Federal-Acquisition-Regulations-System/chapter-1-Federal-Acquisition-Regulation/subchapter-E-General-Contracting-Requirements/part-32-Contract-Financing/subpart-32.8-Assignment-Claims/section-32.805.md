@@ -32,7 +32,7 @@ Very truly yours,[*name of assignee*]By[*signature of signing officer*Title[*tit
 
 Receipt is acknowledged of the above notice and of a copy of the instrument of assignment. They were received at \_\_\_\_ (a.m.) (p.m.) on \_\_\_\_\_\_\_\_, 20\_\_\_\_.
 
-[*signature*][*title*]
+[*signature*] [*title*]
 
 On behalf of
 

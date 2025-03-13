@@ -16,4 +16,4 @@ For the purpose of evaluating bids and for no other purpose, the delivered price
 |New York, New York |  5   |
 | Total of factors  |  20  |
 
-(End of Provision)[83 FR 48262, Sept. 24, 2018]
+(End of Provision) [83 FR 48262, Sept. 24, 2018]

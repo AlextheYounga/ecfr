@@ -20,5 +20,4 @@
 
 (d) Nothing in this section shall be construed to preclude the contracting officer from requiring the contractor to supply information that is sufficient to determine the reasonableness of price, regardless of whether or not the contractor was required to provide such information in connection with any earlier procurement. If the contracting officer determines that the pricing information submitted is not sufficient to determine the reasonableness of price, the contracting officer may request other relevant information regarding the basis for price or cost, including uncertified cost data such as labor costs, material costs, and other direct and indirect costs.
 
-[83 FR 4442, Jan. 31, 2018, as amended at 85 FR 34531, June
-5, 2020; 87 FR 76991, Dec. 16, 2022; 88 FR 6582, Jan. 31, 2023; 89 FR 46808, May 30, 2024]
+[83 FR 4442, Jan. 31, 2018, as amended at 85 FR 34531, June 5, 2020; 87 FR 76991, Dec. 16, 2022; 88 FR 6582, Jan. 31, 2023; 89 FR 46808, May 30, 2024]

@@ -16,4 +16,4 @@ Treatment of Confidential Business Information (TSCA)(APR 1996)
 
 (b) The Contractor agrees to obtain the written consent of the CO, after a written determination by the appropriate program office, prior to entering into any subcontract that will involve the disclosure of CBI by the Contractor to the subcontractor. The Contractor agrees to include this clause, including this paragraph (b), in all subcontracts awarded pursuant to this contract that require the furnishing of CBI to the subcontractor.
 
-(End of clause)[61 FR 14266, Apr. 1, 1996, as amended at 61 FR 57339, Nov. 6, 1996]
+(End of clause) [61 FR 14266, Apr. 1, 1996, as amended at 61 FR 57339, Nov. 6, 1996]

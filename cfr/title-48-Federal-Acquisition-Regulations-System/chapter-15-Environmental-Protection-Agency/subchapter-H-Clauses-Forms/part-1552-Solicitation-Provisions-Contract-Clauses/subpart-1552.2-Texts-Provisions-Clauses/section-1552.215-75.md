@@ -64,4 +64,4 @@ Past Performance Information (OCT 2000)
 
 (i) In accordance with FAR 15.305 (a) (2) (iv), offerors with no relevant past performance history, or for whom information on past performance is not available, will be evaluated neither favorably nor unfavorably on past performance.
 
-\* Indicates that the contracting officer inserts applicable dollar figure and number.(End of clause)[65 FR 58925, Oct. 3, 2000]
+\* Indicates that the contracting officer inserts applicable dollar figure and number.(End of clause) [65 FR 58925, Oct. 3, 2000]

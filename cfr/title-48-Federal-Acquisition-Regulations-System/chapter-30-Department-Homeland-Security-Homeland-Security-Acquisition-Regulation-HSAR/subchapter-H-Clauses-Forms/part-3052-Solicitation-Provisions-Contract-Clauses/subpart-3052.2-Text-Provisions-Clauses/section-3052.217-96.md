@@ -10,4 +10,4 @@ Title (DEC 2003)
 
 (c) The vessel, its equipment, movable stores, cargo, or other ship's materials shall not be considered Government-furnished property.
 
-(End of clause)[68 FR 67871, Dec. 4, 2003, as amended at 86 FR 17317, Apr. 2, 2021]
+(End of clause) [68 FR 67871, Dec. 4, 2003, as amended at 86 FR 17317, Apr. 2, 2021]

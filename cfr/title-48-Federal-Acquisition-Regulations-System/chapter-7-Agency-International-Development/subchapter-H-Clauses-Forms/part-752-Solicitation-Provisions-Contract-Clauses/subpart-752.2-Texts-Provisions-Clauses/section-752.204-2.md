@@ -8,4 +8,4 @@ Pursuant to the Foreign Affairs Manual, 12 FAM 540 (*http://www.state.gov/docume
 
 (a) This clause applies to the extent that this contract involves access to classified (`Confidential', `Secret', or `Top Secret'), or administratively controlled (`Sensitive But Unclassified') information.
 
-(End of clause)[79 FR 74997, Dec. 16, 2014, as amended at 89 FR 4209, Jan. 23, 2024]
+(End of clause) [79 FR 74997, Dec. 16, 2014, as amended at 89 FR 4209, Jan. 23, 2024]

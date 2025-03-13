@@ -4,8 +4,7 @@ As prescribed in 836.521, insert the following clause:
 
 Specifications and Drawings for Construction (APR 2019)
 
-The clause entitled “Specifications and Drawings for Construction” in FAR
-52.236-21 is supplemented as follows:
+The clause entitled “Specifications and Drawings for Construction” in FAR 52.236-21 is supplemented as follows:
 
 (a) The Contracting Officer's interpretation of the drawings and specifications will be final, subject to the Disputes clause.
 

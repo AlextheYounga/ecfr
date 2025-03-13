@@ -8,4 +8,4 @@ Notice of Disaster or Emergency Area Set-Aside (NOV 2007)
 
 (b) This set-aside is in addition to any small business set-aside contained in this contract.
 
-(End of clause)[72 FR 63088, Nov. 7, 2007, as amended at 74 FR 52849, Oct. 14, 2009]
+(End of clause) [72 FR 63088, Nov. 7, 2007, as amended at 74 FR 52849, Oct. 14, 2009]

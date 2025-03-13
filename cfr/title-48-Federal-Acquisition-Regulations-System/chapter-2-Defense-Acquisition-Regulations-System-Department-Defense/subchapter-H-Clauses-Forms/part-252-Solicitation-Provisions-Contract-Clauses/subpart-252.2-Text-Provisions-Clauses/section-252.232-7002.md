@@ -16,4 +16,4 @@ If this contract includes foreign military sales (FMS) requirements, the Contrac
 
 (e) Distribute costs among the countries in a manner acceptable to the Administrative Contracting Officer.
 
-(End of clause)[88 FR 33833, May 25, 2023]
+(End of clause) [88 FR 33833, May 25, 2023]

@@ -96,4 +96,4 @@ When the Department has determined contract employee access to controlled unclas
 
 (h) Contractors shall identify in their proposals, the names and citizenship of all non-U.S. citizens proposed to work under the contract. Any additions or deletions of non-U.S. citizens after contract award shall also be reported to the Contracting Officer.
 
-(End of clause)[88 FR 40598, June 21, 2023; 88 FR 47054, July 21, 2023]
+(End of clause) [88 FR 40598, June 21, 2023; 88 FR 47054, July 21, 2023]

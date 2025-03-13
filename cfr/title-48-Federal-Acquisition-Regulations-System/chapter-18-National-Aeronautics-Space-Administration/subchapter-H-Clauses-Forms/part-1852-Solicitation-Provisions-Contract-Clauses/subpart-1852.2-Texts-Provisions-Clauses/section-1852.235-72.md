@@ -22,7 +22,7 @@ Instructions for Responding to NASA Research Announcements (JUL 2016)
 
 (c) The following information is needed to permit consideration in an objective manner. NRAs will generally specify topics for which additional information or greater detail is desirable. Each proposal copy shall contain all submitted material, including a copy of the transmittal letter if it contains substantive information.
 
-(1) *Transmittal letter or prefatory material.*(i) The legal name and address of the organization and specific division or campus identification if part of a larger organization;
+(1) *Transmittal letter or prefatory material.* (i) The legal name and address of the organization and specific division or campus identification if part of a larger organization;
 
 (ii) A brief, scientifically valid project title intelligible to a scientifically literate reader and suitable for use in the public press;
 

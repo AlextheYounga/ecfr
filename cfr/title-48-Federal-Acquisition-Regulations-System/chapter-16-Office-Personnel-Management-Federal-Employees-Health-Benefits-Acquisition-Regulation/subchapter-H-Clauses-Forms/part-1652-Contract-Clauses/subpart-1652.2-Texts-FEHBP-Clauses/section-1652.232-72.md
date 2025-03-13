@@ -10,4 +10,4 @@ Non-Commingling of Funds (JAN 1991)
 
 (c) The Carrier shall incorporate this clause in all subcontracts that exceed $25,000 and shall substitute “contractor” or other appropriate reference for “Carrier and/or its underwriter.”
 
-(End of clause)[52 FR 16044, May 1, 1987. Redesignated at 53 FR 51784, Dec. 23, 1988, and amended at 55 FR 27418, July 2, 1990]
+(End of clause) [52 FR 16044, May 1, 1987. Redesignated at 53 FR 51784, Dec. 23, 1988, and amended at 55 FR 27418, July 2, 1990]

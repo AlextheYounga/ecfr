@@ -33,4 +33,4 @@ The Government has the option to extend the term of this contract for \_\_\_\_ a
 |           |             |
 |           |             |
 
-(End of clause)[65 FR 58925, Oct. 3, 2000, as amended at 82 FR 33021, July 19, 2017]
+(End of clause) [65 FR 58925, Oct. 3, 2000, as amended at 82 FR 33021, July 19, 2017]

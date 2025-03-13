@@ -12,8 +12,7 @@ The responsibilities of agency activities that establish qualification requireme
 
 (c) Listing manufacturers and suppliers whose products are qualified in accordance with agency procedures.
 
-(d) Furnishing QPL's, OML's, or QBL's or the qualification requirements themselves to prospective offerors and the public upon request(see
-9.202(a)(2)(i)).
+(d) Furnishing QPL's, OML's, or QBL's or the qualification requirements themselves to prospective offerors and the public upon request(see 9.202(a)(2)(i)).
 
 (e) Clarifying, as necessary, qualification requirements.
 

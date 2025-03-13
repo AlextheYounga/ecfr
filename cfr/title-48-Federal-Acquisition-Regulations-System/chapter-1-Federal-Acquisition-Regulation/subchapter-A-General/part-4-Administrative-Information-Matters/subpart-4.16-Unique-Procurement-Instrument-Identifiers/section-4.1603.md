@@ -2,8 +2,7 @@
 
 (a) *Elements of a PIID.* The PIID consists of a combination of thirteen to seventeen alpha and/or numeric characters sequenced to convey certain information. Do not use special characters (such as hyphens, dashes, or spaces).
 
-(1) *Positions 1 through 6.* The first six positions identify the department/agency and office issuing the instrument. Use the AAC assigned to the issuing office for positions 1 through 6. Civilian agency points of contact for obtaining an AAC are on the AAC Contact list maintained by the General Services Administration and can be found at *https://community.max.gov/x/24foL”*.
-For Department of Defense (DoD) inquiries, contact the service/agency Central Service Point or DoDAAC Monitor, or if unknown, email *DODAADHQ@DLA.MIL* for assistance.
+(1) *Positions 1 through 6.* The first six positions identify the department/agency and office issuing the instrument. Use the AAC assigned to the issuing office for positions 1 through 6. Civilian agency points of contact for obtaining an AAC are on the AAC Contact list maintained by the General Services Administration and can be found at *https://community.max.gov/x/24foL”*. For Department of Defense (DoD) inquiries, contact the service/agency Central Service Point or DoDAAC Monitor, or if unknown, email *DODAADHQ@DLA.MIL* for assistance.
 
 (2) *Positions 7 through 8.* The seventh and eighth positions are the last two digits of the fiscal year in which the procurement instrument is issued or awarded. This is the date the action is signed, not the effective date if the effective date is different.
 

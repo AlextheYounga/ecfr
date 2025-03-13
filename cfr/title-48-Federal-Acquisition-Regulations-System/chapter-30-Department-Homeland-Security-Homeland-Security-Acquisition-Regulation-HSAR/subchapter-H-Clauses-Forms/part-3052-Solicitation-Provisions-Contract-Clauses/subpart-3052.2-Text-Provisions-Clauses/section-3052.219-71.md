@@ -20,5 +20,4 @@ DHS Mentor-Protégé Program (JUN 2006)
 
 (e) Contractors interested in participating in the program are encouraged to contact the DHS OSDBU for more information.
 
-(End of clause)[68 FR 67871, Dec. 4, 2003, as amended at 71 FR 25775, May 2, 2006;
-86 FR 17317, Apr. 2, 2021]
+(End of clause)[68 FR 67871, Dec. 4, 2003, as amended at 71 FR 25775, May 2, 2006; 86 FR 17317, Apr. 2, 2021]

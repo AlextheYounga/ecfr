@@ -8,4 +8,4 @@ Post Privileges (JUL 1993)
 
 (b) Privileges such as the use of APO, PX's, commissaries, and officer's clubs are established at posts abroad pursuant to agreements between the U.S. and Cooperating Governments. These facilities are intended for and usually limited to members of the official U.S. establishment including the Embassy, USAID Mission, U.S. Information Service, and the Military. Normally, the agreements do not permit these facilities to be made available to nonofficial Americans.
 
-(End of clause)[49 FR 13259, Apr. 3, 1984, as amended at 56 FR 7587, Feb. 25, 1991; 58 FR 58596, Nov. 2, 1993; 62 FR 40471, July 29, 1997; 89 FR 4209, Jan. 23, 2024]
+(End of clause) [49 FR 13259, Apr. 3, 1984, as amended at 56 FR 7587, Feb. 25, 1991; 58 FR 58596, Nov. 2, 1993; 62 FR 40471, July 29, 1997; 89 FR 4209, Jan. 23, 2024]

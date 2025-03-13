@@ -2,7 +2,7 @@
 
 As prescribed at 227.7012, insert the following clause in patent releases, license agreements, and assignments:
 
-(Contract No.)Patent License and Release Contract (DEC 2022)
+(Contract No.) Patent License and Release Contract (DEC 2022)
 
 This CONTRACT is effective as of the \_\_\_\_ day of [month, year], between the UNITED STATES OF AMERICA (hereinafter called the Government), and \_\_\_\_\_\_\_\_\_\_ (hereinafter called the Contractor), (a corporation organized and existing under the laws of the State of \_\_\_\_\_\_\_\_\_\_), (a partnership consisting of \_\_\_\_\_\_\_\_\_\_), (an individual trading as \_\_\_\_\_\_\_\_\_\_), of the City of \_\_\_\_\_\_\_\_\_\_, in the State of \_\_\_\_\_\_\_\_\_\_.
 
@@ -60,4 +60,4 @@ THE UNITED STATES OF AMERICAByDate(Signature and Title ofContractor Representati
 
 \*\*When the Contractor is an individual, change “successors” to “heirs”; if a partnership, modify appropriately.
 
-(End of clause)[64 FR 49685, Sept. 14, 1999, as amended at 87 FR 76997, Dec. 16, 2022]
+(End of clause) [64 FR 49685, Sept. 14, 1999, as amended at 87 FR 76997, Dec. 16, 2022]

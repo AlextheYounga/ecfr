@@ -50,4 +50,4 @@ Activity Monitoring, Evaluation, and Learning Plan (JUN 2024)
 
 (v) Roles and responsibilities for all proposed AMELP tasks.
 
-[End of clause][89 FR 37963, May 6, 2024]
+[End of clause] [89 FR 37963, May 6, 2024]

@@ -4,8 +4,7 @@
 
 (b) Multiyear contracting is a flexible contract method applicable to a wide range of acquisitions. The extent to which cancellation terms are used in multiyear contracts will depend on the unique circumstances of each contract. Accordingly, for multiyear contracts, the agency head may authorize modification of the requirements of this subpart and the clause at 52.217-2, Cancellation Under Multiyear Contracts.
 
-(c) Agency funding of multiyear contracts shall conform to the policies in OMB Circular A-11 (Preparation, Submission, and Execution of the Budget) and other applicable guidance regarding the funding of multiyear contracts.
-As provided by that guidance, the funds obligated for multiyear contracts must be sufficient to cover any potential cancellation and/or termination costs; and multiyear contracts for the acquisition of fixed assets should be fully funded or funded in stages that are economically or programmatically viable.
+(c) Agency funding of multiyear contracts shall conform to the policies in OMB Circular A-11 (Preparation, Submission, and Execution of the Budget) and other applicable guidance regarding the funding of multiyear contracts. As provided by that guidance, the funds obligated for multiyear contracts must be sufficient to cover any potential cancellation and/or termination costs; and multiyear contracts for the acquisition of fixed assets should be fully funded or funded in stages that are economically or programmatically viable.
 
 (d) The termination for convenience procedure may apply to any Government contract, including multiyear contracts. As contrasted with cancellation, termination can be effected at any time during the life of the contract (cancellation is effected between fiscal years) and can be for the total quantity or partial quantity (where as cancellation must be for all subsequent fiscal years' quantities).
 

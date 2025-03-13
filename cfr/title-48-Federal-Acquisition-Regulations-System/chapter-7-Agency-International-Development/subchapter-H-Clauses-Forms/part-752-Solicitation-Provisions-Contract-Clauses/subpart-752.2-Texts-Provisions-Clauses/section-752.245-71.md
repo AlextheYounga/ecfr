@@ -12,4 +12,4 @@ Title to and Care of Property (APR 1984)
 
 (2) For non-expendable property titled to the Cooperating Government, the Contractor shall, within 90 days after completion of this contract, or at such other date as may be fixed by the contracting officer, submit an inventory schedule covering all items of non-expendable property under its custody, which have not been consumed in the performance of this contract. The Contractor shall also indicate what disposition has been made of such property.
 
-(End of clause)[49 FR 13259, Apr. 3, 1984, as amended at 62 FR 40470, July 29, 1997; 64 FR 5009, Feb. 2, 1999; 79 FR 74988, 75001, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]
+(End of clause) [49 FR 13259, Apr. 3, 1984, as amended at 62 FR 40470, July 29, 1997; 64 FR 5009, Feb. 2, 1999; 79 FR 74988, 75001, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]

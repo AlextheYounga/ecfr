@@ -12,4 +12,4 @@ In addition to the FAR clause at 52.219-8, Utilization of Small Business Concern
 
 (3) Address where invitations or specifications may be obtained.
 
-(End of clause)[79 FR 74998, Dec. 16, 2014, as amended at 89 FR 4209, Jan. 23, 2024]
+(End of clause) [79 FR 74998, Dec. 16, 2014, as amended at 89 FR 4209, Jan. 23, 2024]

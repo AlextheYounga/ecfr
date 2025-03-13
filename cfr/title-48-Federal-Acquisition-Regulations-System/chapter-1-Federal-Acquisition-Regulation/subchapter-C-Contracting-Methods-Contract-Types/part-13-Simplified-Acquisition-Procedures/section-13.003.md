@@ -52,8 +52,7 @@
 
 (2) $7.5 million ($15 million for acquisitions as described in 13.500(c)), for commercial products or commercial services, use any appropriate combination of the procedures in parts 12, 13, 14, and 15 (see paragraph (d) of this section).
 
-(h) In addition to other considerations, contracting officers
-shall—
+(h) In addition to other considerations, contracting officers shall—
 
 (1) Promote competition to the maximum extent practicable (see 13.104);
 
@@ -63,4 +62,4 @@ shall—
 
 (4) Use innovative approaches, to the maximum extent practicable, in awarding contracts using simplified acquisition procedures.
 
-[62 FR 64917, Dec. 9, 1997, as amended at 87 FR 49502, Aug. 10, 2022]Editorial Note:For Federal Register citations affecting § 13.003, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[62 FR 64917, Dec. 9, 1997, as amended at 87 FR 49502, Aug. 10, 2022] Editorial Note:For Federal Register citations affecting § 13.003, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

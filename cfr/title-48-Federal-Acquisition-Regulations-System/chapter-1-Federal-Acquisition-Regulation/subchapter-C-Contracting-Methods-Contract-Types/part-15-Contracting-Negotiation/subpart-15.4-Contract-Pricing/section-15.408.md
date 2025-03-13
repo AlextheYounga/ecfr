@@ -150,8 +150,7 @@ C. As part of the specific information required, you must submit, with your prop
 
 (ii) The nature and amount of any contingencies included in the proposed price.
 
-D. You must show the relationship between line item prices and the total contract price.
-You must attach cost-element breakdowns for each proposed line item, using the appropriate format prescribed in the “Formats for Submission of Line Item Summaries” section of this table. You must furnish supporting breakdowns for each cost element, consistent with your cost accounting system.
+D. You must show the relationship between line item prices and the total contract price. You must attach cost-element breakdowns for each proposed line item, using the appropriate format prescribed in the “Formats for Submission of Line Item Summaries” section of this table. You must furnish supporting breakdowns for each cost element, consistent with your cost accounting system.
 
 E. When more than one line item is proposed, you must also provide summary total amounts covering all line items for each element of cost.
 

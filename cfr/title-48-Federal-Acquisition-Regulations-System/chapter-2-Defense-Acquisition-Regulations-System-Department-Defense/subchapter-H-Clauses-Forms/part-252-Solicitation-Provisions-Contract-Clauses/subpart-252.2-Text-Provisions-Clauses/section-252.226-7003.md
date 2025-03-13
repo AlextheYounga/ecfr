@@ -42,4 +42,4 @@ Drug-Free Work Force (Aug 2024)
 
 (e) The provisions of this clause pertaining to drug testing program shall not apply to the extent they are inconsistent with state or local law, or with an existing collective bargaining agreement; provided that with respect to the latter, the Contractor agrees that those issues that are in conflict will be a subject of negotiation at the next collective bargaining session.
 
-(End of clause)[89 FR 66284, Aug. 15, 2024]
+(End of clause) [89 FR 66284, Aug. 15, 2024]

@@ -1,3 +1,3 @@
 ##### 1002.70 Abbreviations. #####
 
-*BCPO* Bureau Chief Procurement Officer*COR* Contracting Officer's Representative*HCA* Head of the Contracting Activity*IPP* Invoice Processing Platform*OPE* Office of the Procurement Executive*OSDBU* Office of Small and Disadvantaged Business Utilization*SPE* Senior Procurement Executive[76 FR 42057, July 18, 2011, as amended at 77 FR 40304, July 9, 2012; 80 FR 11595, Mar. 3, 2015]
+*BCPO* Bureau Chief Procurement Officer*COR* Contracting Officer's Representative *HCA* Head of the Contracting Activity*IPP* Invoice Processing Platform*OPE* Office of the Procurement Executive*OSDBU* Office of Small and Disadvantaged Business Utilization*SPE* Senior Procurement Executive[76 FR 42057, July 18, 2011, as amended at 77 FR 40304, July 9, 2012; 80 FR 11595, Mar. 3, 2015]

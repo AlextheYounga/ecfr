@@ -254,4 +254,4 @@ For the purpose of administering the Cost Accounting Standards (CAS) requirement
 
 (n) For subcontracts containing the clause or substance of the clause at FAR 52.230-2, FAR 52.230-3, FAR 52.230-4, or FAR 52.230-5, require the subcontractor to comply with all Standards in effect on the date of award or of final agreement on price, as shown on the subcontractor's signed Certificate of Current Cost or Pricing Data, whichever is earlier.
 
-(End of clause)[70 FR 11759, Mar. 9, 2005, as amended at 73 FR 10967, Feb. 28, 2008; 75 FR 34285, June 16, 2010]
+(End of clause) [70 FR 11759, Mar. 9, 2005, as amended at 73 FR 10967, Feb. 28, 2008; 75 FR 34285, June 16, 2010]

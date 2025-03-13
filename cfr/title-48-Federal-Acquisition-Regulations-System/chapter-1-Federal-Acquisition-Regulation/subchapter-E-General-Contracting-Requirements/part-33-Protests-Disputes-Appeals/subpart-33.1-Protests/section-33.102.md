@@ -28,4 +28,4 @@
 
 (f) No person may file a protest at GAO for a procurement integrity violation unless that person reported to the contracting officer the information constituting evidence of the violation within 14 days after the person first discovered the possible violation (41 U.S.C. 2106).
 
-[50 FR 2270, Jan. 15, 1985]Editorial Note:For Federal Register citations affecting § 33.102, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[50 FR 2270, Jan. 15, 1985] Editorial Note:For Federal Register citations affecting § 33.102, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

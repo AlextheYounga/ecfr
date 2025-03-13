@@ -68,8 +68,7 @@
 
 (1) An unmanufactured end product mined or produced in a qualifying country; or
 
-(2) An end product manufactured in a qualifying country if—
-:
+(2) An end product manufactured in a qualifying country if— :
 
 (i) The cost of the following types of components exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, unless an alternate percentage is established for a contract:
 
@@ -79,7 +78,7 @@
 
 (C) Components of foreign origin of a class or kind for which the Government has determined that sufficient and reasonably available commercial quantities of a satisfactory quality are not mined, produced, or manufactured in the United States. Components of unknown origin are treated as foreign; or
 
-(ii) The end product is a COTS item.*Qualifying country end product* is also defined in the clause at 252.225-7021, Trade Agreements.
+(ii) The end product is a COTS item. *Qualifying country end product* is also defined in the clause at 252.225-7021, Trade Agreements.
 
 *Qualifying country offer* means an offer of a qualifying country end product, including the price of transportation to destination.
 

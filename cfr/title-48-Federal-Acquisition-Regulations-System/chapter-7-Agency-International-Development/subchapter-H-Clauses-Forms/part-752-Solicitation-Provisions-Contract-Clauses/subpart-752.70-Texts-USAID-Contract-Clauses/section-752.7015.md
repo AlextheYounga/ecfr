@@ -24,4 +24,4 @@ Use of Pouch Facilities (JUL 1997)
 
 (c) Specific additional guidance on use of pouch facilities in accordance with this clause is available from the Post Communication Center at the Embassy or USAID Mission.
 
-(End of clause)[49 FR 13259, Apr. 3, 1984, as amended at 56 FR 2699, Jan. 24, 1991; 57 FR 5237, Feb. 13, 1992; 62 FR 40471, July 29, 1997; 62 FR 45334, Aug. 27, 1997; 79 FR 75002, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]
+(End of clause) [49 FR 13259, Apr. 3, 1984, as amended at 56 FR 2699, Jan. 24, 1991; 57 FR 5237, Feb. 13, 1992; 62 FR 40471, July 29, 1997; 62 FR 45334, Aug. 27, 1997; 79 FR 75002, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]

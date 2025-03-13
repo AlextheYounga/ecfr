@@ -62,6 +62,6 @@ The offeror shall indicate below whether award of the contemplated contract woul
 
 □ (i) A Disclosure Statement Filing Due Date of \_\_\_\_\_\_\_\_\_ has been established with the cognizant Federal agency.
 
-(ii) The Disclosure Statement will be submitted within the 6-month period ending \_\_\_\_\_\_\_ months after receipt of this award.
+ (ii) The Disclosure Statement will be submitted within the 6-month period ending \_\_\_\_\_\_\_ months after receipt of this award.
 
 Name and Address of Cognizant ACO or Federal Official Where Disclosure Statement is to be Filed:[57 FR 39591, Aug. 31, 1992; 57 FR 43409, 43495, Sept. 21, 1992, as amended at 59 FR 67043, Dec. 28, 1994; 61 FR 18918, Apr. 29, 1996; 63 FR 9061, Feb. 23, 1998; 65 FR 36030, June 6, 2000; 73 FR 54012, Sept. 17, 2008; 77 FR 27551, May 10, 2012; 80 FR 38300, July 2, 2015; 85 FR 27096, May 6, 2020]

@@ -26,4 +26,4 @@ BY:TITLE:DATE:
 
 (d) The Contractor agrees that all approvals of the Mission Director and the Contracting Officer which are required by the provisions of this contract shall be preserved and made available as part of the Contractor's records which are required to be presented and made available by the clause of this contract entitled “Audit and Records—Negotiation”.
 
-(End of clause)[53 FR 6829, Mar. 3, 1988, as amended at 64 FR 5009, Feb. 2, 1999; 79 FR 74988, 75001, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]
+(End of clause) [53 FR 6829, Mar. 3, 1988, as amended at 64 FR 5009, Feb. 2, 1999; 79 FR 74988, 75001, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]

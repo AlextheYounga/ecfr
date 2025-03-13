@@ -8,4 +8,4 @@ Patent Reporting Procedures (AUG 1999)
 
 (b) Reports on utilization of subject inventions as required under (48 CFR) FAR 52.227-11(f) must be provided to the USAID contracting officer's technical representative annually, and the last report under an agreement must be provided within 90 days of the expiration of the agreement.
 
-(End of clause)[79 FR 74999, Dec. 16, 2014, as amended at 89 FR 4209, Jan. 23, 2024]
+(End of clause) [79 FR 74999, Dec. 16, 2014, as amended at 89 FR 4209, Jan. 23, 2024]

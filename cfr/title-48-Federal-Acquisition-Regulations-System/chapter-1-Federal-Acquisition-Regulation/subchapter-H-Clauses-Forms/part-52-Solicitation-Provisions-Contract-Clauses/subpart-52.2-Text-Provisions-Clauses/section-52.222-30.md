@@ -14,4 +14,4 @@ Construction Wage Rate Requirements—Price Adjustment (None or Separately Speci
 
 (3) An increase in wages and benefits resulting from any other requirement applicable to workers subject to the Construction Wage Rate Requirements statute.
 
-(End of clause)[66 FR 53482, Oct. 22, 2001, as amended at 79 FR 24218, Apr. 29, 2014; 83 FR 42575, Aug. 22, 2018]
+(End of clause) [66 FR 53482, Oct. 22, 2001, as amended at 79 FR 24218, Apr. 29, 2014; 83 FR 42575, Aug. 22, 2018]

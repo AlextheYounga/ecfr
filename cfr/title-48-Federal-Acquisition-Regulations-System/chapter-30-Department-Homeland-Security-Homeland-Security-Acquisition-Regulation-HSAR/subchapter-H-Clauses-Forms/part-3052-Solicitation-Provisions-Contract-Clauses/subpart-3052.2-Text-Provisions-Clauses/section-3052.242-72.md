@@ -8,4 +8,4 @@ Contracting Officer's Representative (DEC 2003)
 
 (b) The Contracting Officer cannot authorize the COR or any other representative to sign documents, such as contracts, contract modifications, etc., that require the signature of the Contracting Officer.
 
-(End of clause)[86 FR 17317, Apr. 2, 2021]
+(End of clause) [86 FR 17317, Apr. 2, 2021]

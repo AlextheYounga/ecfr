@@ -10,4 +10,4 @@ Organizational Conflict of Interest Notification (APR 1984)
 
 (c) If the Contracting Officer determines that a potential conflict exists, the prospective Contractor shall not receive an award unless the conflict can be avoided or otherwise resolved through the inclusion of a special contract clause or other appropriate means. The terms of any special clause are subject to negotiation.
 
-(End of provision)[49 FR 8867, Mar. 8, 1994, as amended at 59 FR 18620, Apr. 19, 1994; 62 FR 33573, June 20, 1997]
+(End of provision) [49 FR 8867, Mar. 8, 1994, as amended at 59 FR 18620, Apr. 19, 1994; 62 FR 33573, June 20, 1997]

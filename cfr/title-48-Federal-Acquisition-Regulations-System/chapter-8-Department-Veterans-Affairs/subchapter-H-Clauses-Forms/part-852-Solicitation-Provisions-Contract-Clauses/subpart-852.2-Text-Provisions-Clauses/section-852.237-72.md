@@ -8,4 +8,4 @@ Crime Control Act—Reporting of Child Abuse (OCT 2019)
 
 (b) The Contractor shall comply with the requirements of the Act. The Act also applies to all applicable subcontracts awarded under this contract. Accordingly, the Contractor shall ensure that each of its employees, and any subcontractor staff, is made aware of, understands, and complies with the provisions of the Act.
 
-(End of clause)[84 FR 46456, Sept. 4, 2019]
+(End of clause) [84 FR 46456, Sept. 4, 2019]

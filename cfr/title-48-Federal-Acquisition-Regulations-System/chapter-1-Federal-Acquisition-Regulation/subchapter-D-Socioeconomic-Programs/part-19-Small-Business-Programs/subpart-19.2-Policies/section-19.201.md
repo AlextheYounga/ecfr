@@ -4,8 +4,7 @@
 
 (b) Heads of contracting activities are responsible for effectively implementing the small business programs within their activities, including achieving program goals. They are to ensure that contracting and technical personnel maintain knowledge of small business program requirements and take all reasonable action to increase participation in their activities' contracting processes by these businesses.
 
-(c) The Small Business Act requires each agency with contracting authority to establish an Office of Small and Disadvantaged Business Utilization (see section 15(k) of the Small Business Act). For the Department of Defense, in accordance with section 904 of Public Law 109-163 (10 U.S.C. 144 note), the Office of Small and Disadvantaged Business Utilization has been redesignated as the Office of Small Business Programs.
-Management of the office is the responsibility of an officer or employee of the agency who, in carrying out the purposes of the Act—
+(c) The Small Business Act requires each agency with contracting authority to establish an Office of Small and Disadvantaged Business Utilization (see section 15(k) of the Small Business Act). For the Department of Defense, in accordance with section 904 of Public Law 109-163 (10 U.S.C. 144 note), the Office of Small and Disadvantaged Business Utilization has been redesignated as the Office of Small Business Programs. Management of the office is the responsibility of an officer or employee of the agency who, in carrying out the purposes of the Act—
 
 (1) Is known as the Director of the Office of Small and Disadvantaged Business Utilization, or for the Department of Defense, the Director of the Office of Small Business Programs;
 

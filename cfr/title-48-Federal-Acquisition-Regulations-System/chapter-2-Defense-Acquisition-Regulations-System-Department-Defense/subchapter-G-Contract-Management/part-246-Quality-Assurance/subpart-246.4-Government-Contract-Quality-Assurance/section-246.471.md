@@ -10,8 +10,7 @@
 
 (b) *Alternative Procedures—Contract Release for Shipment.*
 
-(1) For foreign military sales contracts, do not use alternative procedures.
-(2) The contract administration office may authorize, in writing, the contractor to release supplies for shipment when—
+(1) For foreign military sales contracts, do not use alternative procedures. (2) The contract administration office may authorize, in writing, the contractor to release supplies for shipment when—
 
 (i) The stamping or signing of the shipping papers by a representative of the contract administration office interferes with the operation of the Government contract quality assurance program or takes too much of the Government representative's time;
 

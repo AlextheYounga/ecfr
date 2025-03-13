@@ -40,8 +40,7 @@ Balance of Payments Program—Construction Material—Alternate I (Feb 2024)
 
 (ii) A construction material manufactured in the United States, if—
 
-(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, unless an alternate percentage is established for a contract in accordance with FAR 25.201(c).
-Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, unless an alternate percentage is established for a contract in accordance with FAR 25.201(c). Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
 
 (B) The construction material is a COTS item; or
 
@@ -103,8 +102,7 @@ Balance of Payments Program—Construction Material—Basic (Feb 2024)
 
 (ii) A construction material manufactured in the United States, if—
 
-(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, unless an alternate percentage is established for a contract in accordance with FAR 25.201(c).
-Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, unless an alternate percentage is established for a contract in accordance with FAR 25.201(c). Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
 
 (B) The construction material is a COTS item; or
 
@@ -268,4 +266,4 @@ Commercially available off-the-shelf (COTS) item—
 
 *[Contracting Officer to list applicable excepted materials or indicate “none”].*
 
-(End of clause)[67 FR 20695, Apr. 26, 2002, as amended at 70 FR 2365, Jan. 13, 2005; 70 FR 35548, June 21, 2005; 74 FR 2424, Jan. 15, 2009; 75 FR 66686, Oct. 29, 2010; 75 FR 81920, Dec. 29, 2010; 77 FR 35882, June 15, 2012; 79 FR 65830, Nov. 5, 2014; 80 FR 36899, June 26, 2015; 87 FR 37450, June 23, 2022; 88 FR 6592, Jan. 31, 2023; 89 FR 11985, Feb. 15, 2024]
+(End of clause) [67 FR 20695, Apr. 26, 2002, as amended at 70 FR 2365, Jan. 13, 2005; 70 FR 35548, June 21, 2005; 74 FR 2424, Jan. 15, 2009; 75 FR 66686, Oct. 29, 2010; 75 FR 81920, Dec. 29, 2010; 77 FR 35882, June 15, 2012; 79 FR 65830, Nov. 5, 2014; 80 FR 36899, June 26, 2015; 87 FR 37450, June 23, 2022; 88 FR 6592, Jan. 31, 2023; 89 FR 11985, Feb. 15, 2024]

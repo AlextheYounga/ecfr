@@ -26,4 +26,4 @@ Pilot Program To Incentivize Contracting With Employee-Owned Businesses (NOV 202
 
 (4) Challenges, if any, the Contractor experienced, due to its corporate ownership structure, in obtaining capital necessary to bridge funding gaps, for example, between prototype demonstration and full-scale development.
 
-(End of clause)[89 FR 82186, Oct. 10, 2024]
+(End of clause) [89 FR 82186, Oct. 10, 2024]

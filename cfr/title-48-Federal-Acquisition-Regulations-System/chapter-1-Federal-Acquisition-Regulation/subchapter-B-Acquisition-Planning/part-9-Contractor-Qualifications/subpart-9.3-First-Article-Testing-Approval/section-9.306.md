@@ -16,8 +16,7 @@ Solicitations containing a testing and approval requirement shall—
 
 (2) The tests to which the first article will be subjected for approval;
 
-(c) Inform offerors that the requirement may be waived when supplies identical or similar to those called for have previously been delivered by the offeror and accepted by the Government (see 52.209-3(h) and 52.209-
-4(i));
+(c) Inform offerors that the requirement may be waived when supplies identical or similar to those called for have previously been delivered by the offeror and accepted by the Government (see 52.209-3(h) and 52.209- 4(i));
 
 (d) Permit the submission of alternative offers, one including testing and approval and the other excluding testing and approval (if eligible under paragraph (c) of this section);
 

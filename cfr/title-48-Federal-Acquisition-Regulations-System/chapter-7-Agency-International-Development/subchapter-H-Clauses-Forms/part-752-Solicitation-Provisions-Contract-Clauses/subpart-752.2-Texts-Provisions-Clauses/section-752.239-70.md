@@ -28,4 +28,4 @@ Information Technology Authorization (May 2024)
 
 (d) *Subcontracts.* The Contractor must insert the substance of this clause, including this paragraph (d), in all subcontracts. The Contractor is responsible for requesting any approval required under paragraphs (b) and (c) of this clause for any applicable subcontractor information technology acquisition.
 
-(End of clause)[89 FR 19759, Mar. 20, 2024]
+(End of clause) [89 FR 19759, Mar. 20, 2024]

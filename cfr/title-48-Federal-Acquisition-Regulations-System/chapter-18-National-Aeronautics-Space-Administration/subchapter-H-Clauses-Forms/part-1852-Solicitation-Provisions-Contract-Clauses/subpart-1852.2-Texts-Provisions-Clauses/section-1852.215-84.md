@@ -8,4 +8,4 @@ Ombudsman (NOV 2023)
 
 (b) If resolution cannot be made by the contracting officer, interested parties may contact the installation ombudsman, whose name, address, telephone number, facsimile number, and email address may be found at *https://www.hq.nasa.gov/office/procurement/regs/Procurement-Ombuds-Comp-Advocate-Listing.pdf.* Concerns, issues, disagreements, and recommendations which cannot be resolved at the installation may be referred to the Agency ombudsman identified at the above URL. Please do not contact the ombudsman to request copies of the solicitation, verify offer due date, or clarify technical requirements. Such inquiries shall be directed to the Contracting Officer or as specified elsewhere in this document.
 
-(End of clause)[62 FR 3484, Jan. 23, 1997, as amended at 65 FR 38777, June 22, 2000; 68 FR 62023, Oct. 31, 2003; 76 FR 72329, Nov. 23, 2011; 88 FR 80639, Nov. 20, 2023]
+(End of clause) [62 FR 3484, Jan. 23, 1997, as amended at 65 FR 38777, June 22, 2000; 68 FR 62023, Oct. 31, 2003; 76 FR 72329, Nov. 23, 2011; 88 FR 80639, Nov. 20, 2023]

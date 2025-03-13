@@ -80,8 +80,7 @@
 
 (3) Is numbered similarly to the DFARS, except that each PGI numerical designation is preceded by the letters “PGI”; and
 
-(4) Is available
-at *https://www.acq.osd.mil/dpap/dars/dfarspgi/current/index.html.*
+(4) Is available at *https://www.acq.osd.mil/dpap/dars/dfarspgi/current/index.html.*
 
 *Senior procurement executive* means, for DoD—
 

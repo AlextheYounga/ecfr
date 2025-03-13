@@ -28,4 +28,4 @@ Reflagging or Repair Work (OCT 2024)
 
 (2) Corrective and preventive maintenance or repair work for the duration of the contract, to the greatest extent practicable.
 
-(End of clause)[89 FR 78996, Sept. 26, 2024]
+(End of clause) [89 FR 78996, Sept. 26, 2024]

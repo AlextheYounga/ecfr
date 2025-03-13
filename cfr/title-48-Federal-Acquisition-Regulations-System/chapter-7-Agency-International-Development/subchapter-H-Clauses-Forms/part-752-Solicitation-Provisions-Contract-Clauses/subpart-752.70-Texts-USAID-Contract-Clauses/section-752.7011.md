@@ -22,4 +22,4 @@ Orientation and Language Training (APR 1984)
 
 (d) Travel expenses not to exceed one round trip from regular employee's residence to place of orientation and return will be reimbursed, pursuant to the cost principles applicable to this contract. Allowable salary costs during the period of orientation are also reimbursable.
 
-(End of clause)[49 FR 13259, Apr. 3, 1984, as amended at 79 FR 74988, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]
+(End of clause) [49 FR 13259, Apr. 3, 1984, as amended at 79 FR 74988, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]

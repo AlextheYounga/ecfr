@@ -2,13 +2,7 @@
 
 (a) Contracting officers and prime contractors, acting in good faith, may rely on the representation of an Indian organization or Indian-owned economic enterprise as to its eligibility, unless an interested party challenges its status or the contracting officer has independent reason to question that status.
 
-(b) In the event of a challenge to the representation
-of a subcontractor, the contracting officer shall refer the
-matter to the U.S. Department of the Interior, Bureau of
-Indian Affairs (BIA), Attn: Acquisition Management
-Director, 12220 Sunrise Valley Drive, Reston, VA 20191.
-The BIA will determine the eligibility and notify the
-contracting officer.
+(b) In the event of a challenge to the representation of a subcontractor, the contracting officer shall refer the matter to the U.S. Department of the Interior, Bureau of Indian Affairs (BIA), Attn: Acquisition Management Director, 12220 Sunrise Valley Drive, Reston, VA 20191. The BIA will determine the eligibility and notify the contracting officer.
 
 (c) The BIA will acknowledge receipt of the request from the contracting officer within 5 working days. Within 45 additional working days, BIA will advise the contracting officer, in writing, of its determination.
 

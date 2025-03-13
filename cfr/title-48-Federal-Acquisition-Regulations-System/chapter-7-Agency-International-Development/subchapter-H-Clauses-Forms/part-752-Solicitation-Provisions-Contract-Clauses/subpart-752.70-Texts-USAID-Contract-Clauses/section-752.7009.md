@@ -12,4 +12,4 @@ Marking (JAN 1993)
 
 (d) A copy of any specific marking instructions or waivers from marking requirements is to be sent to the contracting officer; the original should be retained by the Contractor.
 
-(End of clause)[49 FR 13259, Apr. 3, 1984, as amended at 58 FR 8703, Feb. 17, 1993; 79 FR 74988, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]
+(End of clause) [49 FR 13259, Apr. 3, 1984, as amended at 58 FR 8703, Feb. 17, 1993; 79 FR 74988, Dec. 16, 2014; 89 FR 4209, Jan. 23, 2024]

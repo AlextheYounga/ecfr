@@ -52,4 +52,4 @@
 
 (20) *Transfer* means a change of an employee, without a break in service of 1 full workday, from a position in one agency to a position in another agency.
 
-[33 FR 12407, Sept. 4, 1968, as amended at 34 FR 19495, Dec. 10, 1969; 38 FR 22535, Aug. 22, 1973; 89 FR 25045, Apr. 9, 2024]
+[33 FR 12407, Sept. 4, 1968, as amended at 34 FR 19495, Dec. 10, 1969; 38 FR 22535, Aug. 22, 1973; 89 FR 25045, Apr. 9, 2024] Effective Date Note:At 90 FR 8626, Jan. 31, 2025, in § 210.102, paragraphs (b)(3) and (b)(4) were stayed indefinitely.

@@ -16,4 +16,4 @@ USAID Disability Policy (DEC 2004)
 
 (b) USAID therefore requires that the contractor not discriminate against people with disabilities in the implementation of USAID programs and that it make every effort to comply with the objectives of the USAID Disability Policy in performing this contract. To that end and within the scope of the contract, the contractor's actions must demonstrate a comprehensive and consistent approach for including men, women, and children with disabilities.
 
-(End of clause)[79 FR 74998, Dec. 16, 2014, as amended at 89 FR 4209, Jan. 23, 2024]
+(End of clause) [79 FR 74998, Dec. 16, 2014, as amended at 89 FR 4209, Jan. 23, 2024]

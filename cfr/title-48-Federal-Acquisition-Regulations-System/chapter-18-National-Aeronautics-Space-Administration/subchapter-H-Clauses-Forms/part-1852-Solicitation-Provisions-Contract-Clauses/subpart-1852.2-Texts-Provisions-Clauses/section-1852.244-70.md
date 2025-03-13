@@ -10,4 +10,4 @@ Geographic Participation in the Aerospace Program (APR 1985)
 
 (c) The Contractor further agrees to insert this clause in all subcontracts of $100,000 and over.
 
-(End of clause)[54 FR 28340, July 5, 1989, as amended at 62 FR 14034, Mar. 25, 1997]
+(End of clause) [54 FR 28340, July 5, 1989, as amended at 62 FR 14034, Mar. 25, 1997]

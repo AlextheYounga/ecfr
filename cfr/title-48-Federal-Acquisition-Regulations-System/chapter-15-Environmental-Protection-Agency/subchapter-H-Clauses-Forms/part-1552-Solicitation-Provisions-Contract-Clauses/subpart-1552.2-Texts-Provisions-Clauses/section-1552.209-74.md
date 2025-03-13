@@ -22,7 +22,7 @@ Limitation of Future Contracting (RAC) (APR 2004)
 
 (i) A review process available to the Contractor when an adverse determination is received shall consist of a request for reconsideration to the Contracting Officer or a request for review submitted to the next administrative level within the Contracting Officer's organization. An adverse determination resulting from a request for reconsideration by the Contracting Officer will not preclude the contractor from requesting a review by the next administrative level. Either a request for review or a request for reconsideration must be submitted to the appropriate level within 30 calendar days after receipt of the initial adverse determination.
 
-(End of clause)Limitation of Future Contracting Alternate I (ERRS) (APR 2004)
+(End of clause) Limitation of Future Contracting Alternate I (ERRS) (APR 2004)
 
 (a) The parties to this contract agree that the Contractor will be restricted in its future contracting in the manner described below. Except as specifically provided in this clause, the Contractor shall be free to compete for contracts on an equal basis with other companies.
 
@@ -50,7 +50,7 @@ Limitation of Future Contracting (RAC) (APR 2004)
 
 (j) A review process available to the Contractor when an adverse determination is received shall consist of a request for reconsideration to the Contracting Officer or a request for review submitted to the next administrative level within the Contracting Officer's organization. An adverse determination resulting from a request for reconsideration by the Contracting Officer will not preclude the Contractor from requesting a review by the next administrative level. Either a request for review or a request for reconsideration must be submitted to the appropriate level within 30 calendar days after receipt of the initial adverse determination.
 
-(End of clause)Limitation of Future Contracting Alternate II (Start) (APR 2004)
+(End of clause) Limitation of Future Contracting Alternate II (Start) (APR 2004)
 
 (a) The parties to this contract agree that the Contractor will be restricted in its future contracting in the manner described below. Except as specifically provided in this clause, the Contractor shall be free to compete for contracts on an equal basis with other companies.
 
@@ -78,7 +78,7 @@ Limitation of Future Contracting (RAC) (APR 2004)
 
 (j) A review process available to the Contractor when an adverse determination is received shall consist of a request for reconsideration to the Contracting Officer or a request for review submitted to the next administrative level within the Contracting Officer's organization. An adverse determination resulting from a request for reconsideration by the Contracting Officer will not preclude the Contractor from requesting a review by the next administrative level. Either a request for review or a request for reconsideration must be submitted to the appropriate level within 30 calendar days after receipt of the initial adverse determination.
 
-(End of clause)Limitation of Future Contracting Alternate III (ESAT) (APR 2004)
+(End of clause) Limitation of Future Contracting Alternate III (ESAT) (APR 2004)
 
 (a) The parties to this contract agree that the Contractor will be restricted in its future contracting in the manner described below. Except as specifically provided in this clause, the Contractor shall be free to compete for contracts on an equal basis with other companies.
 
@@ -94,7 +94,7 @@ Limitation of Future Contracting (RAC) (APR 2004)
 
 (g) A review process available to the Contractor when an adverse determination is received shall consist of a request for reconsideration to the Contracting Officer or a request for review submitted to the next administrative level within the Contracting Officer's organization. An adverse determination resulting from a request for reconsideration by the Contracting Officer will not preclude the Contractor from requesting a review by the next administrative level. Either a request for review or a request for reconsideration must be submitted to the appropriate level within 30 calendar days after receipt of the initial adverse determination.
 
-(End of clause)Limitation of Future Contracting, Alternate IV (ESS) (SEP 2013)
+(End of clause) Limitation of Future Contracting, Alternate IV (ESS) (SEP 2013)
 
 (a) The parties to this contract agree that the Contractor will be restricted in its future contracting in the manner described below. Except as specifically provided in this clause, the Contractor shall be free to compete for contracts on an equal basis with other companies.
 
@@ -116,7 +116,7 @@ Limitation of Future Contracting (RAC) (APR 2004)
 
 (j) A review process available to the Contractor when an adverse determination is received shall consist of a request for reconsideration to the Contracting Officer or a request for review submitted to the next administrative level within the Contracting Officer's organization. An adverse determination resulting from a request for reconsideration by the Contracting Officer will not preclude the Contractor from requesting a review by the next administrative level. Either a request for review or a request for reconsideration must be submitted to the appropriate level within 30 calendar days after receipt of the initial adverse determination.
 
-(End of clause)Limitation of Future Contracting, Alternate V (Headquarters Support) (APR 2004)
+(End of clause) Limitation of Future Contracting, Alternate V (Headquarters Support) (APR 2004)
 
 (a) The parties to this contract agree that the Contractor will be restricted in its future contracting in the manner described below. Except as specifically provided in this clause, the Contractor shall be free to compete for contracts on an equal basis with other companies.
 

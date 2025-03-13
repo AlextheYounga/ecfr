@@ -12,7 +12,7 @@
 
 (2) If an award to an educational institution is contemplated prior to July 1, 1997, the contracting officer shall use the basic provision set forth below with its Alternate I, unless the contract is to be performed by an FFRDC (see 9903.201(c)(5)), or the provision at 9903.201(c)(6) applies.
 
-Cost Accounting Standards Notices and Certification (JUL 2011)Note:
+Cost Accounting Standards Notices and Certification (JUL 2011) Note:
 
 This notice does not apply to small businesses or foreign governments.
 
@@ -38,13 +38,13 @@ The offeror hereby certifies that, as a part of the offer, copies of the Disclos
 
 (Disclosure must be on Form No. CASB DS-1 or CASB DS-2, as applicable. Forms may be obtained from the cognizant ACO or cognizant Federal agency official acting in that capacity and/or from the looseleaf version of the Federal Acquisition Regulation.)
 
-Date of Disclosure Statement:Name and Address of Cognizant ACO or Federal Official where filed:
+Date of Disclosure Statement: Name and Address of Cognizant ACO or Federal Official where filed:
 
 The offeror further certifies that the practices used in estimating costs in pricing this proposal are consistent with the cost accounting practices disclosed in the Disclosure Statement.
 
 □ (2) Certificate of Previously Submitted Disclosure Statement. The offeror hereby certifies that the required Disclosure Statement was filed as follows:
 
-Date of Disclosure Statement:Name and Address of Cognizant ACO or Federal Official where filed:
+Date of Disclosure Statement: Name and Address of Cognizant ACO or Federal Official where filed:
 
 The offeror further certifies that the practices used in estimating costs in pricing this proposal are consistent with the cost accounting practices disclosed in the applicable Disclosure Statement.
 
@@ -84,4 +84,4 @@ The offeror shall indicate below whether award of the contemplated contract woul
 
 □ (b) The Disclosure Statement will be submitted within the six month period ending \_\_\_\_\_\_ months after receipt of this award.
 
-Name and Address of Cognizant ACO or Federal Official where Disclosure Statement is to be filed:(End of Alternate I)[57 FR 14153, Apr. 17, 1992; 57 FR 34079, Aug. 3, 1992, as amended at 58 FR 58802, Nov. 4, 1993; 58 FR 61844, Nov. 23, 1993; 58 FR 65556, Dec. 15, 1993; 59 FR 55754, Nov. 8, 1994; 61 FR 39361, July 29, 1996; 65 FR 36769, June 9, 2000; 72 FR 32810, June 14, 2007; 76 FR 40819, July 12, 2011]
+Name and Address of Cognizant ACO or Federal Official where Disclosure Statement is to be filed: (End of Alternate I)[57 FR 14153, Apr. 17, 1992; 57 FR 34079, Aug. 3, 1992, as amended at 58 FR 58802, Nov. 4, 1993; 58 FR 61844, Nov. 23, 1993; 58 FR 65556, Dec. 15, 1993; 59 FR 55754, Nov. 8, 1994; 61 FR 39361, July 29, 1996; 65 FR 36769, June 9, 2000; 72 FR 32810, June 14, 2007; 76 FR 40819, July 12, 2011]

@@ -30,4 +30,4 @@ Contract Definitization (MAY 2023)
 
 (e) The definitive contract resulting from this undefinitized contract action will include a negotiated\_\_\_ *[insert “cost/price ceiling” or “firm-fixed price”]* in no event to exceed\_\_*[insert the not-to-exceed amount].*
 
-(End of clause)[88 FR 33838, May 25, 2023]
+(End of clause) [88 FR 33838, May 25, 2023]

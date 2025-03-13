@@ -32,4 +32,4 @@ REPORT OF INTENDED PERFORMANCE OUTSIDE THE UNITED STATES AND CANADA—SUBMISSION
 
 (e) The Offeror may obtain a copy of DD Form 2139 from the Contracting Officer or via the Internet at *http://www.dtic.mil/whs/directives/infomgt/forms/formsprogram.htm.*
 
-(End of provision)[70 FR 20839, Apr. 22, 2005, as amended at 70 FR 35546, June 21, 2005; 71 FR 75893, Dec. 19, 2006; 75 FR 45074, Aug. 2, 2010; 80 FR 36905, June 26, 2015; 85 FR 61504, Sept. 29, 2020; 90 FR 5736, Jan. 17, 2025]
+(End of provision) [70 FR 20839, Apr. 22, 2005, as amended at 70 FR 35546, June 21, 2005; 71 FR 75893, Dec. 19, 2006; 75 FR 45074, Aug. 2, 2010; 80 FR 36905, June 26, 2015; 85 FR 61504, Sept. 29, 2020; 90 FR 5736, Jan. 17, 2025]

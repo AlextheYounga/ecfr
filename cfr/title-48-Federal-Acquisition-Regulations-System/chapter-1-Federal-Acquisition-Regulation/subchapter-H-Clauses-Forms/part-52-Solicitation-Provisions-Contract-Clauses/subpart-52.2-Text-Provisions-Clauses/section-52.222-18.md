@@ -26,4 +26,4 @@ Certification Regarding Knowledge of Child Labor for Listed End Products (FEB 20
 
 □ (2) The offeror may supply an end product listed in paragraph (b) of this provision that was mined, produced, or manufactured in the corresponding country as listed for that product. The offeror certifies that it has made a good faith effort to determine whether forced or indentured child labor was used to mine, produce, or manufacture such end product. On the basis of those efforts, the offeror certifies that it is not aware of any such use of child labor.
 
-(End of provision)[66 FR 5349, Jan. 18, 2001, as amended at 86 FR 3688, Jan. 14, 2021]
+(End of provision) [66 FR 5349, Jan. 18, 2001, as amended at 86 FR 3688, Jan. 14, 2021]

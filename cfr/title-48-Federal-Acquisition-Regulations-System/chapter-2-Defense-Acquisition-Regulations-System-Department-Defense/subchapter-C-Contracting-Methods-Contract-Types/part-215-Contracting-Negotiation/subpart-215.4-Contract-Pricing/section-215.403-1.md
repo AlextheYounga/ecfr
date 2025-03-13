@@ -18,7 +18,7 @@
 
 (B) If only one offer is received in response to a competitive solicitation, see 215.371-3.
 
-(3) *Commercial products or commercial services.*(A) Follow the procedures at PGI 215.403-1(c)(3) for pricing commercial products or commercial services, except see 234.7002(e) for pricing commercial subsystems of major weapon systems and components and spare parts of major weapon systems and of subsystems of major weapon systems.
+(3) *Commercial products or commercial services.* (A) Follow the procedures at PGI 215.403-1(c)(3) for pricing commercial products or commercial services, except see 234.7002(e) for pricing commercial subsystems of major weapon systems and components and spare parts of major weapon systems and of subsystems of major weapon systems.
 
 (B) When applying the commercial item exception under FAR 15.403-1(b)(3), see 212.102(a)(ii) regarding prior commercial product or commercial service determinations.
 

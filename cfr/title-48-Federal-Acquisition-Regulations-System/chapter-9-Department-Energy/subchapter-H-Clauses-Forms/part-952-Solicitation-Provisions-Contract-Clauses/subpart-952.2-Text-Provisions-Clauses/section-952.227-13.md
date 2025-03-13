@@ -198,4 +198,4 @@ The Contracting Officer shall insert the following paragraph (n):
 
 (2) Sell, assign, or otherwise transfer title or exclusive rights in the invention(s), then the assignment, license, or other transfer of rights in the subject invention(s) is/are suspended until approved in writing by DOE. The Contractor and any successor assignee will convey to DOE, upon written request from DOE, title to any subject invention, upon a breach of this paragraph. The Contractor will include this paragraph in all subawards/contracts, regardless of tier, for experimental, developmental or research work.
 
-(End of alternate)[60 FR 11819, Mar. 2, 1995, as amended at 62 FR 42075, Aug. 5, 1997; 63 FR 10507, Mar. 4, 1998; 67 FR 14872, Mar. 28, 2002; 89 FR 89768, Nov. 13, 2024]
+(End of alternate) [60 FR 11819, Mar. 2, 1995, as amended at 62 FR 42075, Aug. 5, 1997; 63 FR 10507, Mar. 4, 1998; 67 FR 14872, Mar. 28, 2002; 89 FR 89768, Nov. 13, 2024]

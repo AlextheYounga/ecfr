@@ -8,4 +8,4 @@ Nonsmoking Policy for Children's Services (OCT 2019)
 
 (b) By acceptance of this contract or order, the Contractor agrees to comply with the requirements of the Act. The Act also applies to all subcontracts awarded under this contract for the specified children's services. Accordingly, the Contractor shall ensure that each of its employees, and any subcontractor staff, is made aware of, understands, and complies with the provisions of the Act. Failure to comply with the Act may result in the imposition of a civil monetary penalty in an amount not to exceed $1,000 for each violation and/or the imposition of an administrative compliance order on the responsible entity. Each day a violation continues constitutes a separate violation.
 
-(End of clause)[84 FR 46455, Sept. 4, 2019]
+(End of clause) [84 FR 46455, Sept. 4, 2019]

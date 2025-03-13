@@ -364,4 +364,4 @@ Transportation of Supplies by Sea—Alternate II (OCT 2024)
 
 (2) The Contractor shall insert the substance of paragraphs (a) through (f) of this clause, and this paragraph (j), in subcontracts that are at or below the simplified acquisition threshold in part 2 of the Federal Acquisition Regulation.
 
-(End of clause)[56 FR 36479, July 31, 1991, as amended at 60 FR 61602, Nov. 30, 1995; 65 FR 14401, Mar. 16, 2000; 67 FR 38022, May 31, 2002; 72 FR 49206, Aug. 28, 2007; 77 FR 76938, Dec. 31, 2012; 78 FR 37991, June 25, 2013; 79 FR 22039, Apr. 21, 2014; 80 FR 36900, June 26, 2015; 84 FR 4371, Feb. 15, 2019; 88 FR 6596, Jan. 31, 2023; 89 FR 78991, 78995, Sept. 26, 2024]
+(End of clause) [56 FR 36479, July 31, 1991, as amended at 60 FR 61602, Nov. 30, 1995; 65 FR 14401, Mar. 16, 2000; 67 FR 38022, May 31, 2002; 72 FR 49206, Aug. 28, 2007; 77 FR 76938, Dec. 31, 2012; 78 FR 37991, June 25, 2013; 79 FR 22039, Apr. 21, 2014; 80 FR 36900, June 26, 2015; 84 FR 4371, Feb. 15, 2019; 88 FR 6596, Jan. 31, 2023; 89 FR 78991, 78995, Sept. 26, 2024]

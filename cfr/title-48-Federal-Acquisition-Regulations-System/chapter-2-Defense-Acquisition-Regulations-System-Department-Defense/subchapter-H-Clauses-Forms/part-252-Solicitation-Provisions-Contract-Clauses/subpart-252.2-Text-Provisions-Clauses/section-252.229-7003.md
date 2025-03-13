@@ -42,4 +42,4 @@ Tax Exemptions (Italy) (MAR 2012)
 
 (7) Imposta di Bollo (Stamp Tax).
 
-(End of clause)[67 FR 4210, Jan. 29, 2002, as amended at 77 FR 19131, Mar. 30, 2012]
+(End of clause) [67 FR 4210, Jan. 29, 2002, as amended at 77 FR 19131, Mar. 30, 2012]

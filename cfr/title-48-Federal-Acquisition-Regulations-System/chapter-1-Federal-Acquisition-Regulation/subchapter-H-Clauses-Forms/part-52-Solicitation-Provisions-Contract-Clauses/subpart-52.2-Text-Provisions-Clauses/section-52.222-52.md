@@ -32,4 +32,4 @@ The offeror □ does □ does not certify that—
 
 (d) The Contracting Officer may not make an award to the offeror, if the offeror fails to execute the certification in paragraph (a) of this provision or to contact the Contracting Officer as required in paragraph (c) of this provision.
 
-(End of provision)[72 FR 63082, Nov. 7, 2007, as amended at 79 FR 24220, Apr. 29, 2014]
+(End of provision) [72 FR 63082, Nov. 7, 2007, as amended at 79 FR 24220, Apr. 29, 2014]

@@ -6,7 +6,7 @@ Limitation of Funds (Fixed-Price Contract) (MAR 1989)
 
 (a) Of the total price of items \_\_\_\_ through \_\_\_\_, the sum of $\_\_\_\_ is presently available for payment and allotted to this contract. It is anticipated that from time to time additional funds will be allocated to the contract in accordance with the following schedule, until the total price of said items is allotted:
 
-Schedule for Allotment of FundsDate Amounts
+Schedule for Allotment of Funds Date Amounts
 
 (b) The Contractor agrees to perform or have performed work on the items specified in paragraph (a) of this clause up to the point at which, if this contract is terminated pursuant to the Termination for Convenience of the Government clause of this contract, the total amount payable by the Government (including amounts payable for subcontracts and settlement costs) pursuant to paragraphs (f) and (g) of that clause would, in the exercise of reasonable judgment by the Contractor, approximate the total amount at the time allotted to the contract. The Contractor is not obligated to continue performance of the work beyond that point. The Government is not obligated in any event to pay or reimburse the Contractor more than the amount from time to time allotted to the contract, anything to the contrary in the Termination for Convenience of the Government clause notwithstanding.
 

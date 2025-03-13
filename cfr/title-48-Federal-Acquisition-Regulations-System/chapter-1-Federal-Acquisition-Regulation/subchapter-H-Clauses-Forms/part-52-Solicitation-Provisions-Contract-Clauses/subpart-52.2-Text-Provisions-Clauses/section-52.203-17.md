@@ -10,4 +10,4 @@ Contractor Employee Whistleblower Rights (NOV 2023)
 
 (c) The Contractor shall insert the substance of this clause, including this paragraph (c), in all subcontracts.
 
-(End of clause)[88 FR 69522, Oct. 5, 2023]
+(End of clause) [88 FR 69522, Oct. 5, 2023]

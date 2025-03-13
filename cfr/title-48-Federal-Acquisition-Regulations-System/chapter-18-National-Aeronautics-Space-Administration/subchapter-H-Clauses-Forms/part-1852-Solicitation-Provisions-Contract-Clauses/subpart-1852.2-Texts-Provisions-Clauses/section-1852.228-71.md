@@ -26,4 +26,4 @@ Aircraft Flight Risks (DEC 1988)
 
 (2) In determining the amount of adjustment in the fee that is equitable, any fault of the Contractor, its employees, or any subcontractor that materially contributed to the damage, loss, or destruction shall be taken into consideration.
 
-(End of clause)[54 FR 28340, July 5, 1989, as amended at 61 FR 55774, Oct. 29, 1996; 81 FR 24501, Apr. 26, 2016]
+(End of clause) [54 FR 28340, July 5, 1989, as amended at 61 FR 55774, Oct. 29, 1996; 81 FR 24501, Apr. 26, 2016]

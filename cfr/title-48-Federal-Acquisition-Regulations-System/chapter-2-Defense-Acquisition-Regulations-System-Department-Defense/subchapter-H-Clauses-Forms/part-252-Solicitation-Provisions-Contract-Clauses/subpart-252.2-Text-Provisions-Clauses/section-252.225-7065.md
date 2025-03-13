@@ -28,4 +28,4 @@ Restriction on Acquisition of Fuel for Overseas Contingency Operations (Oct 2024
 
 (d) *Reporting requirement.* The Offeror shall, prior to contract award, promptly report to the Contracting Officer any instance of unsupported denial of access to a facility or equipment by a host-nation government that may prevent it from complying with the terms and conditions of the solicitation.
 
-(End of provision)[89 FR 78999, Sept. 26, 2024]
+(End of provision) [89 FR 78999, Sept. 26, 2024]

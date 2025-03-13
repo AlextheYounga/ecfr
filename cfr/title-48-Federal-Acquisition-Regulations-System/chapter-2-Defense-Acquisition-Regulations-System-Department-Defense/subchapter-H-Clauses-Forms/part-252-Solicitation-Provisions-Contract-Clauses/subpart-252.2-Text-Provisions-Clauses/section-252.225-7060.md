@@ -14,4 +14,4 @@ Prohibition on Certain Procurements From the Xinjiang Uyghur Autonomous Region (
 
 (c) *Subcontracts.* The Contractor shall insert this clause, including this paragraph (c), without alteration other than to identify the appropriate parties, in subcontracts including subcontracts for commercial products, commercial services, and commercially available off-the-shelf items.
 
-(End of clause)[87 FR 76984, Dec. 16, 2022, as amended at 88 FR 6593, Jan. 31, 2023; 88 FR 37797, June 9, 2023]
+(End of clause) [87 FR 76984, Dec. 16, 2022, as amended at 88 FR 6593, Jan. 31, 2023; 88 FR 37797, June 9, 2023]

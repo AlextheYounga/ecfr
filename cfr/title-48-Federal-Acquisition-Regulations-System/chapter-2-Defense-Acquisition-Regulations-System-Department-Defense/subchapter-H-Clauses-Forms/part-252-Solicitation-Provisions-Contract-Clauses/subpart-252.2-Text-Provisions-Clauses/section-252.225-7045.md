@@ -60,8 +60,7 @@ Balance of Payments Program—Construction Material Under Trade Agreements—Bas
 
 (ii) A construction material manufactured in the United States, if—
 
-(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, unless an alternate percentage is established for a contract in accordance with FAR 25.201(c).
-Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, unless an alternate percentage is established for a contract in accordance with FAR 25.201(c). Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
 
 (B) The construction material is a COTS item; or
 
@@ -169,8 +168,7 @@ Balance of Payments Program—Construction Material Under Trade Agreements—Alt
 
 (ii) A construction material manufactured in the United States, if—
 
-(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, unless an alternate percentage is established for a contract in accordance with FAR 25.201(c).
-Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, unless an alternate percentage is established for a contract in accordance with FAR 25.201(c). Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
 
 (B) The construction material is a COTS item; or
 
@@ -270,8 +268,7 @@ Balance of Payments Program—Construction Material Under Trade Agreements—Alt
 
 (ii) A construction material manufactured in the United States, if—
 
-(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, unless an alternate percentage is established for a contract in accordance with FAR 25.201(c).
-Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, unless an alternate percentage is established for a contract in accordance with FAR 25.201(c). Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
 
 (B) The construction material is a COTS item; or
 
@@ -383,8 +380,7 @@ Balance of Payments Program—Construction Material Under Trade Agreements—Alt
 
 (ii) A construction material manufactured in the United States, if—
 
-(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, unless an alternate percentage is established for a contract in accordance with FAR 25.201(c).
-Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029, unless an alternate percentage is established for a contract in accordance with FAR 25.201(c). Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
 
 (B) The construction material is a COTS item; or
 

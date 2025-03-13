@@ -22,7 +22,7 @@ The (insert new Carrier name), a corporation duly organized and existing under t
 
 (2) Each party has executed this Agreement effective the day and year stated in paragraph (a)(2).
 
-UNITED STATES OF AMERICA,\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Title(Enter new Carrier name)By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Title(Corporate Seal)Certificate
+UNITED STATES OF AMERICA,\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Title (Enter new Carrier name)By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Title(Corporate Seal) Certificate
 
 I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, certify that I am the Secretary of (insert new Carrier name); that \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, who signed this Agreement for this corporation, was then (insert position held) of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers.
 

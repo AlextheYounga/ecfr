@@ -28,4 +28,4 @@ Contract Termination (USCG) (MAR 2023)
 
 (e) The Contractor shall insert the substance of this clause in contracts and subcontracts, including contracts for commercial items, with a total value of more than $1,000,000.
 
-(End of clause)[88 FR 9772, Feb. 15, 2023]
+(End of clause) [88 FR 9772, Feb. 15, 2023]
