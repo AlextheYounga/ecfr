@@ -1,5 +1,7 @@
 ##### § 456.1 Definitions. #####
 
+Link to an amendment published at 89 FR 60774, July 26, 2024.
+
 (a) A *patient* is any person who has had an eye examination.
 
 (b) An *eye examination* is the process of determining the refractive condition of a person's eyes or the presence of any visual anomaly by the use of objective or subjective tests.

@@ -1,11 +1,25 @@
-##### § 51.1431 U.S. No. 1 Halves and Pieces. #####
+##### § 51.1431 U.S. Fancy. #####
 
-The requirements for this grade are the same as those for U.S. No. 1 Halves except:
+“U.S. Fancy” consists of pecan kernels which meet the following requirements:
 
-(a) For size:
+(a) For quality:
 
-(1) At least 50 percent, by weight, are half-kernels;
+(1) Well dried;
 
-(2) Both halves and pieces will not pass through a5/16-inch round opening; and,
+(2) Moisture content shall not be more than 4.5 percent, unless otherwise specified;
 
-(3) Comply with tolerances for undersize. (See Table III.)
+(3) Fairly well developed;
+
+(4) Uniform in color;
+
+(5) Not darker than “light amber,” unless specified to a lighter color classification;
+
+(6) Free from damage by any cause; and
+
+(7) Comply with tolerances for defects (see § 51.1437).
+
+(b) For size:
+
+(1) Uniform in size; and
+
+(2) Conform to size classification or count specified.

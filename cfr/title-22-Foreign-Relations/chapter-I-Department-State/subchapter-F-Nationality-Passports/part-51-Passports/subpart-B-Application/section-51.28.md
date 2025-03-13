@@ -1,5 +1,7 @@
 ##### § 51.28 Minors. #####
 
+Link to an amendment published at 89 FR 60568, July 26, 2024.
+
 (a) *Minors under age 16*—(1) *Personal appearance.* Minors under 16 years of age applying for a passport must appear in person, unless the personal appearance of the minor is specifically excused by a senior passport authorizing officer, pursuant to guidance issued by the Department. In cases where personal appearance is excused, the person(s) executing the passport application on behalf of the minor shall appear in person and verify the application by oath or affirmation before a person authorized by the Secretary to administer oaths or affirmations, unless these requirements are also excused by a senior passport authorizing officer pursuant to guidance issued by the Department.
 
 (2) *Execution of passport application by both parents or by each legal guardian.* Except as specifically provided in this section, both parents or each of the minor's legal guardians, if any, whether applying for a passport for the first time or for a renewal, must execute the application on behalf of a minor under age 16 and provide documentary evidence of parentage or legal guardianship showing the minor's name, date and place of birth, and the names of the parent or parents or legal guardian.

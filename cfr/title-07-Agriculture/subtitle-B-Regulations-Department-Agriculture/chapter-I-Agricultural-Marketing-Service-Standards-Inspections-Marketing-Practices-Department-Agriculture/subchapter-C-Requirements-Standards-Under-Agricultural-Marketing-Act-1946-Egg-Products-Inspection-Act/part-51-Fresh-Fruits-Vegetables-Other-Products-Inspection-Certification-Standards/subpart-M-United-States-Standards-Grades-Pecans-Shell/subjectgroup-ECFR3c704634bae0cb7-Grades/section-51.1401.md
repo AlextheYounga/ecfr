@@ -1,7 +1,27 @@
-##### § 51.1401 U.S. No. 2. #####
+##### § 51.1401 U.S. Fancy. #####
 
-The requirements for this grade are the same as for U.S. No. 1 except for:
+“U.S. Fancy” consists of pecans in the shell which meet the following requirements:
 
-(a) No requirement for uniformity of color of shells; and,
+(a) Free from loose extraneous or foreign material.
 
-(b) Increased tolerances for defects see § 51.1404.
+(b) Shells are:
+
+(1) Uniform in color; and
+
+(2) Free from damage by any cause.
+
+(c) Kernels are:
+
+(1) Fairly well developed;
+
+(2) Well cured;
+
+(3) Moisture content shall be not more than 6 percent, unless otherwise specified;
+
+(4) Uniform in color;
+
+(5) Not darker than “light amber,” unless specified to a lighter color classification; and
+
+(6) Free from damage by any cause.
+
+(d) For tolerances see § 51.1406.

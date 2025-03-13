@@ -1,27 +1,25 @@
-##### § 51.1430 U.S. No. 1 Halves. #####
+##### § 51.1430 U.S. Extra Fancy. #####
 
-“U.S. No. 1 Halves” consists of pecan half-kernels which meet the following requirements:
+“U.S. Extra Fancy” consists of pecan kernels which meet the following requirements:
 
 (a) For quality:
 
 (1) Well dried;
 
-(2) Fairly well developed;
+(2) Moisture content shall not be more than 4.5 percent, unless otherwise specified;
 
-(3) Fairly uniform in color;
+(3) Well developed;
 
-(4) Not darker than “amber” skin color;
+(4) Uniform in color;
 
-(5) Free from damage or serious damage by any cause;
+(5) Not darker than “light;”
 
-(6) Free from pieces of shell, center wall and foreign material; and,
+(6) Free from damage by any cause; and
 
-(7) Comply with tolerances for defects (see § 51.1439); and,
+(7) Comply with tolerances for defects (see § 51.1437).
 
 (b) For size:
 
-(1) Halves are fairly uniform in size;
+(1) Uniform in size; and
 
-(2) Halves conform to size classification or count specified; and,
-
-(3) Comply with tolerances for pieces, particles, and dust (see § 51.1437).
+(2) Conform to size classification or count specified.

@@ -1,0 +1,31 @@
+##### § 51.1435 Size classifications for halves. #####
+
+The size of pecan halves in a lot may be specified in accordance with one of the size classifications shown in table 1 to this section.
+
+(a) *Halves per pound.* The number of halves per pound shall be based upon the weight of half-kernels after all pieces, meal and flour, shell, center wall, and foreign material have been removed.
+
+(b) *Tolerance for count per pound.* In order to allow for variations incident to proper sizing, a tolerance shall be permitted as follows:
+
+(1) When an exact number of halves per pound is specified, the actual count per pound may vary not more than 5 percent from the specified number, and
+
+(2) When any size classification shown in table 1 to this section or a range in count per pound is specified, no tolerance shall be allowed for counts outside of the specified range.
+
+(c) *Tolerances for pieces, meal, and flour.* In order to allow for variations incident to proper sizing and handling, tolerances are provided for pieces, meal, and flour in any lot of halves. The tolerances, by weight, are as shown in table 2 to this section.
+
+|                                                                                         Size classification for halves                                                                                          |Number of halves @per pound|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+|                                                                                                     Mammoth                                                                                                     |       250 or less.        |
+|                                                                                                 Junior Mammoth                                                                                                  |         251-350.          |
+|                                                                                                      Jumbo                                                                                                      |         351-450.          |
+|                                                                                                      Large                                                                                                      |         451-550.          |
+|                                                                                                     Medium                                                                                                      |         551-650.          |
+|                                                                                                     Topper                                                                                                      |         651-750.          |
+|                                                                                                   King Topper                                                                                                   |       751 or more.        |
+|In lieu of the size classifications in this table, the size of pecan halves in a lot may be specified in terms of the number of halves or a range of number of halves per pound. For example, “400” or “600-700.”|                           |
+
+|                                                                        Tolerances for pieces, meal, and flour                                                                         |U.S.  <br/>extra fancy  <br/>premier  <br/>halves  <br/>(%)|U.S.  <br/>extra fancy  <br/>halves  <br/>(%)|U.S.  <br/>fancy  <br/>halves  <br/>(%)|U.S.  <br/>choice  <br/>halves  <br/>(%)|U.S.  <br/>standard  <br/>halves  <br/>(%)|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------|---------------------------------------|----------------------------------------|------------------------------------------|
+|                                                                             A. Less than 7/8 half-kernel                                                                              |                            10                             |                                             |                                       |                                        |                                          |
+|                                                                             B. Less than 3/4 half-kernel                                                                              |                                                           |                     10                      |                  15                   |                   20                   |                    20                    |
+|C. Less than 1/2 half-kernel (included in A.—U.S. Extra Fancy Premier Halves) (included in B.—U.S. Extra Fancy Halves, U.S. Fancy Halves, U.S. Choice Halves, and U.S. Standard Halves)|                             3                             |                      3                      |                   5                   |                   5                    |                    5                     |
+|                                                                          D. Less than 4/64″ (included in C.)                                                                          |                             1                             |                      1                      |                   1                   |                   1                    |                    1                     |

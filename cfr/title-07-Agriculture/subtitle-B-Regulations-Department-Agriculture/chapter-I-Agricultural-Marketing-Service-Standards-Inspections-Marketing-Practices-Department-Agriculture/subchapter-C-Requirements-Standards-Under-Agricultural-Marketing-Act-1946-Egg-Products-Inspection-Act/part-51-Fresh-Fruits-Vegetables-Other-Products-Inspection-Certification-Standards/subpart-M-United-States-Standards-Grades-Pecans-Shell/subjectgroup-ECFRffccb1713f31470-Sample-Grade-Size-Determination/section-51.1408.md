@@ -1,0 +1,3 @@
+##### § 51.1408 Sample for grade or size determination. #####
+
+Each sample shall consist of 100 pecans. The individual sample shall be drawn at random from a sufficient number of packages to form a 100-count composite sample. The number of such individual 100-count samples drawn for grade or size determination will vary with the size of the lot. When practicable, at point of packaging the sample may be obtained from the grading belt after sorting has been completed.

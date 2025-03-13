@@ -1,5 +1,7 @@
 ##### § 456.2 Separation of examination and dispensing. #####
 
+Link to an amendment published at 89 FR 60774, July 26, 2024.
+
 It is an unfair act or practice for an ophthalmologist or optometrist to:
 
 (a) Fail to provide to the patient one copy of the patient's prescription immediately after the eye examination is completed. Provided: An ophthalmologist or optometrist may refuse to give the patient a copy of the patient's prescription until the patient has paid for the eye examination, but only if that ophthalmologist or optometrist would have required immediate payment from that patient had the examination revealed that no ophthalmic goods were required;

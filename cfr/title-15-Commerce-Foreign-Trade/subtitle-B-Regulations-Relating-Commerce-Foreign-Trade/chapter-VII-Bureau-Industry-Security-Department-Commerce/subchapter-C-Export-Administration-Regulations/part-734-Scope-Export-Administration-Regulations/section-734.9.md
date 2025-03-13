@@ -186,22 +186,28 @@ These end-use requirements under paragraph (h) apply when any entity headquarter
 
 (ii) Incorporated into, or used in the “development,” or “production,” of any “part,” “component,” or “equipment” that will be used in a “supercomputer” located in or destined to the PRC or Macau.
 
-(j) *Iran FDP rule.* A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (j)(1) of this section and the destination scope in paragraph (j)(2) of this section. See § 746.7 of the EAR for license requirements, license review policy, and license exceptions applicable to foreign-produced items that are subject to the EAR pursuant to this paragraph (j).
+(j) *Iran FDP rule.* A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (j)(1) of this section and the destination and end-use scope in paragraph (j)(2) of this section or meets both the product scope in paragraph (j)(1) of this section and the end-user scope in paragraph (j)(3) of this section. See § 746.7 of the EAR for license requirements and license application review policy applicable to foreign-produced items that are subject to the EAR pursuant to this paragraph, as well as certain exclusions from those license requirements.
 
-(1) *Product scope of Iran FDP rule.* The product scope applies if a foreign-produced item meets the conditions of either paragraph (j)(1)(i) or (ii) of this section.
+(1) *Product scope of the Iran FDP rule.* The product scope applies if a foreign-produced item meets the conditions of either paragraph (j)(1)(i) or (ii) of this section.
 
 (i) *“Direct product” of “technology” or “software.”* A foreign-produced item meets the product scope of this paragraph (j)(1)(i) if the foreign-produced item meets both of the following conditions:
 
-(A) The foreign-produced item is the “direct product” of U.S.-origin “technology” or “software” subject to the EAR that is specified in any ECCN in product groups D or E in Categories 3 through 5 or 7 of the CCL; and
+(A) The foreign-produced item is the “direct product” of U.S.-origin “technology” or “software” subject to the EAR that is specified in any ECCN in product groups D or E in Categories 3 through 9 of the CCL; and
 
-(B) The foreign-produced item is identified in supplement no. 7 to part 746 of the EAR or is specified in any ECCN on the CCL in Categories 3 through 5 or 7 of the CCL; or
+(B) The foreign-produced item is identified in supplement no. 7 to part 746 of the EAR or is specified in any ECCN on the CCL in Categories 3 through 9 of the CCL; or
 
-(ii) *Product of a complete plant or 'major component' of a plant that is a “direct product.”* A foreign-produced item meets the product scope of this paragraph (j)(1)(ii) if it meets both of the following conditions:
+(ii) *Product of a complete plant or `major component' of a plant that is a “direct product.”* A foreign-produced item meets the product scope of this paragraph (j)(1)(ii) if it meets both of the following conditions:
 
-(A) The foreign-produced item is produced by any plant or 'major component' of a plant that is located outside the United States, when the plant or 'major component' of a plant, whether made in the United States or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” subject to the EAR that is specified in any ECCN in product groups D or E in Categories 3 through 5 or 7 of the CCL; and
+(A) The foreign-produced item is produced by any plant or `major component' of a plant that is located outside the United States, when the plant or 'major component' of a plant, whether made in the United States or a foreign country, itself is a “direct product” of U.S.-origin “technology” or “software” subject to the EAR that is specified in any ECCN in product groups D or E in Categories 3 through 9 of the CCL; and
 
-(B) The foreign-produced item is identified in supplement no. 7 to part 746 of the EAR or is specified in any ECCN on the CCL in Categories 3 through 5 or 7 of the CCL.
+(B) The foreign-produced item is identified in supplement no. 7 to part 746 of the EAR or is specified in any ECCN on the CCL in Categories 3 through 9 of the CCL.
 
-(2) *Destination scope of the Iran FDP rule.* A foreign-produced item meets the destination scope of this paragraph (j)(2) if there is “knowledge” that the foreign-produced item is destined to Iran or will be incorporated into or used in the “production” or “development” of any “part,” “component,” or “equipment,” including any modified or designed “components,” “parts,” “accessories,” and “attachments” therefor, identified in supplement no. 7 to part 746 of the EAR or is specified in any ECCN on the CCL in Categories 3 through 5 or 7 of the CCL that is located in or destined to Iran.
+(2) *Destination and end-use scope of the Iran FDP rule.* A foreign-produced item meets the scope of this paragraph (j)(2) if there is “knowledge” that the foreign-produced item:
 
-[87 FR 6024, Feb. 3, 2022, as amended at 87 FR 12236, Mar. 3, 2022; 87 FR 13055, Mar. 8, 2022; 87 FR 22131, Apr. 14, 2022; 87 FR 57078, Sept. 16, 2022; 87 FR 62195, Oct. 13, 2022; 88 FR 2824, Jan. 18, 2023; 88 FR 12153, Feb. 27, 2023; 88 FR 33428, May 23, 2023; 88 FR 73488, Oct. 25, 2023]
+(i) Is destined to Iran; or
+
+(ii) Will be incorporated into or used in the “production” or “development” of any “part,” “component,” or “equipment,” including any modified or designed “components,” “parts,” “accessories,” and “attachments” therefor, identified in supplement no. 7 to part 746 of the EAR or specified in any ECCN in Categories 3 through 9 of the CCL, and located in or destined to Iran.
+
+(3) *End-user scope of the Iran FDP rule.* A transaction meets the end-user scope of this paragraph (j)(3) if the reexporter or transferor has “knowledge” that the Government of Iran is a party to any transaction involving the foreign-produced item, *e.g.,* as a “purchaser,” “intermediate consignee,” “ultimate consignee,” or “end-user.”
+
+[87 FR 6024, Feb. 3, 2022, as amended at 87 FR 12236, Mar. 3, 2022; 87 FR 13055, Mar. 8, 2022; 87 FR 22131, Apr. 14, 2022; 87 FR 57078, Sept. 16, 2022; 87 FR 62195, Oct. 13, 2022; 88 FR 2824, Jan. 18, 2023; 88 FR 12153, Feb. 27, 2023; 88 FR 33428, May 23, 2023; 88 FR 73488, Oct. 25, 2023; 89 FR 60564, July 26, 2024]
