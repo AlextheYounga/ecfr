@@ -1,5 +1,7 @@
 ##### § 115.810 Fire protection. #####
 
+Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
+
 (a) At each initial and subsequent inspection for certification, the owner or managing operator shall be prepared to conduct tests and have the vessel ready for inspection of its fire protection equipment, including the following:
 
 (1) Inspection of each hand portable fire extinguisher, semiportable fire extinguisher, and fixed gas fire extinguishing system to check for excessive corrosion and general condition;

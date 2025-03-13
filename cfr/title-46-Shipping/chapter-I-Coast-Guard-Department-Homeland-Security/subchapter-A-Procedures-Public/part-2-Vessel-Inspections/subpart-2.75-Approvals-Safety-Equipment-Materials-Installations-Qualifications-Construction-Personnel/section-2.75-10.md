@@ -1,5 +1,7 @@
 ##### § 2.75-10 Procedures for obtaining approvals. #####
 
+Link to an amendment published at 89 FR 76695, Sept. 18, 2024.
+
 (a) The requirements for obtaining approvals of items covered by specifications and bearing official Coast Guard approval numbers are set forth in parts 159 through 164 of this chapter. For other items, the requirements are described in the regulations governing such items.
 
 (b) Unless otherwise specified, correspondence concerning approvals should be addressed to the Commandant (CG-ENG), Attn: Office of Design and Engineering Systems, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509. When plans, drawings, test data, etc., are required to be submitted by the manufacturer, the material being transmitted with the application should be clearly identified.

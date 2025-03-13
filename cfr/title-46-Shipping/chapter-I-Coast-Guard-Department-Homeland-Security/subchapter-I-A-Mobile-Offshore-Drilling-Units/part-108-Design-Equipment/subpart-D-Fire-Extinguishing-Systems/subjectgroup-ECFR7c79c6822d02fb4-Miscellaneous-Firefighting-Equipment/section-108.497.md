@@ -1,5 +1,7 @@
 ##### § 108.497 Fireman's outfits. #####
 
+Link to an amendment published at 89 FR 76700, Sept. 18, 2024.
+
 Each unit must have at least 2 fireman's outfits. Each fireman's outfit on a unit must consist of—
 
 (a) A pressure-demand, open-circuit, self-contained breathing apparatus, approved by the Mine Safety and Health Administration (MSHA) and by the National Institute for Occupational Safety and Health (NIOSH) and having at a minimum a 30-minute air supply, a full facepiece, and a spare charge; but a self-contained compressed-air breathing apparatus previously approved by MSHA and NIOSH under part 160, subpart 160.011, of this chapter may continue in use as required equipment if it was part of the vessel's equipment on November 23, 1992, and as long as it is maintained in good condition to the satisfaction of the Officer in Charge, Marine Inspection;

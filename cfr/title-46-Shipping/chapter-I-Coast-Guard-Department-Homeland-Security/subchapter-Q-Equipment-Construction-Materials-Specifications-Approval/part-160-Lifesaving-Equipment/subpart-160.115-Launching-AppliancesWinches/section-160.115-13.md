@@ -1,5 +1,7 @@
 ##### § 160.115-13 Approval inspections and tests for prototype winches. #####
 
+Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
+
 (a) If the manufacturer is notified that the information submitted in accordance with § 160.115-9 of this subpart is satisfactory to the Commandant, the manufacturer may proceed with fabrication of the prototype winch and the approval inspections and tests required under this section.
 
 (b) Except as provided in paragraph (f) of this section, the Coast Guard must conduct the approval inspections and witness the approval tests required under this section.

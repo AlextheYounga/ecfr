@@ -1,5 +1,7 @@
 ##### § 160.156-7 Design, construction and performance of rescue boats and fast rescue boats. #####
 
+Link to an amendment published at 89 FR 76702, Sept. 18, 2024.
+
 (a) To seek Coast Guard approval of a rescue boat, including a fast rescue boat, a manufacturer must comply with, and each rescue boat must meet, the requirements of the following:
 
 (1) IMO LSA Code chapter V (incorporated by reference, see § 160.156-5 of this subpart);

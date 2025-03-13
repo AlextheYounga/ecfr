@@ -1,5 +1,7 @@
 ##### § 39.2011 Vapor overpressure and vacuum protection—TB/ALL. #####
 
+Link to an amendment published at 89 FR 76697, Sept. 18, 2024.
+
 (a) The cargo tank venting system required by 46 CFR 32.55 must—
 
 (1) Be capable of discharging cargo vapor at the maximum transfer rate plus the vapor growth for the cargo such that the pressure in the vapor space of each tank connected to the vapor control system (VCS) does not exceed—

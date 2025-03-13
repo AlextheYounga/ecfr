@@ -18,13 +18,13 @@
 
 (5) Interior stairs, including stringers and treads, shall be of steel.
 
-(6) Except for washrooms and toilet spaces, deck coverings within accommodation spaces shall be of an approved type. However, overlays for leveling or finishing purposes which do not meet the requirements for an approved deck covering may be used in thicknesses not exceeding3/8 of an inch.
+(6) Except for washrooms and toilet spaces, deck coverings within accommodation spaces shall be of an approved type. However, overlays for leveling or finishing purposes which do not meet the requirements for an approved deck covering may be used in thicknesses not exceeding 3/8 of an inch.
 
 (7) Ceilings, linings, and insulation, including pipe and duct laggings, shall be of approved incombustible materials.
 
 (8) Any sheathing, furring or holding pieces incidental to the securing of any bulkhead, ceiling, lining, or insulation shall be of approved incombustible materials.
 
-(9) Bulkheads, linings, and ceilings may have a combustible veneer within a room not to exceed2/28 of an inch in thickness. However, combustible veneers, trim, decorations, etc., shall not be used in corridors or hidden spaces. This is not intended to preclude the use of an approved interior finish or a reasonable number of coat of paint.
+(9) Bulkheads, linings, and ceilings may have a combustible veneer within a room not to exceed 2/28 of an inch in thickness. However, combustible veneers, trim, decorations, etc., shall not be used in corridors or hidden spaces. This is not intended to preclude the use of an approved interior finish or a reasonable number of coat of paint.
 
 (e) Wood hatch covers may be used between cargo spaces or between stores spaces. Hatch covers in other locations shall be of steel or equivalent metal construction. Tonnage openings shall be closed by means of steel plates.
 

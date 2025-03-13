@@ -14,7 +14,7 @@
 
 (b) On vessels of 1,000 gross tons or more on an international voyage, each required fire pump, while delivering water thru the fire main system at a pressure corresponding to that required by paragraph (c) of this section, must have a minimum capacity of at least two-thirds of that required for an independent bilge pump. However, in no case may the capacity of each fire pump be less than that otherwise required by this section.
 
-(c) Each pump must be capable of delivering water simultaneously from the two highest outlets at a Pitot tube pressure of approximately 50 p.s.i. Where 11/2-inch hose is permitted in lieu of 21/2-inch hose by footnote 2 of Table 95.10-5(a), the pump capacity must be determined on the same basis as if 21/2-inch hose had been permitted. Where3/4-inch hose is permitted by Table 95.10-5(a), the Pitot tube pressure need be only 35 p.s.i.
+(c) Each pump must be capable of delivering water simultaneously from the two highest outlets at a Pitot tube pressure of approximately 50 p.s.i. Where 11/2-inch hose is permitted in lieu of 21/2-inch hose by footnote 2 of Table 95.10-5(a), the pump capacity must be determined on the same basis as if 21/2-inch hose had been permitted. Where 3/4-inch hose is permitted by Table 95.10-5(a), the Pitot tube pressure need be only 35 p.s.i.
 
 (d) Fire pumps must be fitted on the discharge side with relief valves set to relieve at 25 p.s.i. in excess of the pressure necessary to maintain the requirements of paragraph (c) of this section or 125 p.s.i., whichever is greater. Relief valves may be omitted if the pumps, operating under shut-off conditions, are not capable of developing a pressure exceeding this amount.
 

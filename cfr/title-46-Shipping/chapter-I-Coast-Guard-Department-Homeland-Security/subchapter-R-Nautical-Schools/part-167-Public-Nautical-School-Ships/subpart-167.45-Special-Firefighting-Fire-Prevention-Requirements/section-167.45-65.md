@@ -1,5 +1,7 @@
 ##### § 167.45-65 Portable fire extinguishers in accommodation spaces. #####
 
+Link to an amendment published at 89 FR 76706, Sept. 18, 2024.
+
 (a) All nautical school ships shall be provided with such number of good and efficient portable fire extinguishers approved by the Navy or Coast Guard as follows:
 
 (1) Nautical school ships less than 150 feet in length shall have at least two fire extinguishers on each passenger deck.

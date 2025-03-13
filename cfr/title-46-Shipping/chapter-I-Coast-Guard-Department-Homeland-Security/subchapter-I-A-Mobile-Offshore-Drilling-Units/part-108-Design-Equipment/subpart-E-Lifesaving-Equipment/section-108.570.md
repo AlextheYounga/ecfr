@@ -1,5 +1,7 @@
 ##### § 108.570 Rescue boat embarkation, launching and recovery arrangements. #####
 
+Link to an amendment published at 89 FR 76700, Sept. 18, 2024.
+
 (a) Each rescue boat must be capable of being launched with the unit making headway of 5 knots in calm water, or with the unit anchored or bearing on the bottom in a current of up to 5 knots. A painter may be used to meet this requirement.
 
 (b) Each rescue boat embarkation and launching arrangement must permit the rescue boat to be boarded and launched in the shortest possible time.

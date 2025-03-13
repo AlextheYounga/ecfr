@@ -14,7 +14,7 @@
 |Class A-15|                 15 minutes.                 |
 |Class A-0 |0 minutes (i.e., no insulation requirements).|
 
-(2) Bulkheads of the “B” Class shall be constructed with approved incombustible materials and made intact from deck to deck (or to ceiling as provided in paragraph (h) of this section) and to shell or other boundaries. They shall be so constructed that, if subjected to the standard fire test, they would be capable of preventing the passage of flame for1/2 hour. In addition, their insulation value shall be such that the average temperature of the unexposed side would not rise more than 250 °F. above the original temperature, nor would the temperature at any one point, including any joint, rise more than 405 °F. above the original temperature within the time listed below:
+(2) Bulkheads of the “B” Class shall be constructed with approved incombustible materials and made intact from deck to deck (or to ceiling as provided in paragraph (h) of this section) and to shell or other boundaries. They shall be so constructed that, if subjected to the standard fire test, they would be capable of preventing the passage of flame for 1/2 hour. In addition, their insulation value shall be such that the average temperature of the unexposed side would not rise more than 250 °F. above the original temperature, nor would the temperature at any one point, including any joint, rise more than 405 °F. above the original temperature within the time listed below:
 
 |Class B-15|                 15 minutes.                 |
 |----------|---------------------------------------------|
@@ -107,13 +107,13 @@
 
 (i) Where Class B-15 bulkhead panels are required to go beyond the ceiling to the deck above, or beyond the lining to the shell, the portion of the bulkhead panel within the void space need only meet B-0 requirements.
 
-(j) Where “B” Class panels are used, all four edges of the panel shall be retained by continuous steel or equivalent metal flanges on both sides of the panel offering at least3/4 inch coverage. The top and bottom flanges shall be so attached to the structural decks above and below so as to support and restrain the panels in the event of fire. Other methods of construction may be specifically approved by the Commandant if determined to be equivalent.
+(j) Where “B” Class panels are used, all four edges of the panel shall be retained by continuous steel or equivalent metal flanges on both sides of the panel offering at least 3/4 inch coverage. The top and bottom flanges shall be so attached to the structural decks above and below so as to support and restrain the panels in the event of fire. Other methods of construction may be specifically approved by the Commandant if determined to be equivalent.
 
 (k) Any sheathing, furring, or holding pieces incidental to the securing of structural insulation shall be of approved incombustible materials.
 
 (l) Where linings or bulkhead panels are framed away from the shell or structural bulkheads, the deck within the void space so formed need only meet Class A-0 requirements.
 
-(m) Decks within accommodation spaces and inside safety areas may have an overlay for leveling or finishing purposes which need not meet the requirements for an approved deck covering. Such an overlay will not be considered as giving any insulating value and may not in general exceed3/8 of an inch in thickness. Greater thicknesses may be specifically approved by the Commandant for specific locations.
+(m) Decks within accommodation spaces and inside safety areas may have an overlay for leveling or finishing purposes which need not meet the requirements for an approved deck covering. Such an overlay will not be considered as giving any insulating value and may not in general exceed 3/8 of an inch in thickness. Greater thicknesses may be specifically approved by the Commandant for specific locations.
 
 (n) Rugs and carpets may be used in addition to any deck covering or overlay installed. Rugs and carpets used in stairways or corridors shall be of wool, or other materials having equivalent fire-resistive qualities.
 

@@ -1,5 +1,7 @@
 ##### § 164.009-9 Procedure for approval. #####
 
+Link to an amendment published at 89 FR 76704, Sept. 18, 2024.
+
 (a) An application for approval of a material under this subpart must be sent to the Commandant (CG-ENG), Attn: Office of Design and Engineering Systems, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509.
 
 (b) The application is examined by the Coast Guard to determine the probability that the material meets the requirements for approval. The Coast Guard notifies the applicant of the results of the examination and of the sample size necessary for submission to the designated laboratory.

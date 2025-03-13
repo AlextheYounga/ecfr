@@ -1,5 +1,7 @@
 ##### § 109.301 Operational readiness, maintenance, and inspection of lifesaving equipment. #####
 
+Link to an amendment published at 89 FR 76700, Sept. 18, 2024.
+
 (a) *Operational readiness.* Except as provided in § 109.301(b)(3), each lifesaving appliance must be in good working order and ready for immediate use at all times when the unit is in operation.
 
 (b) *Maintenance.* (1) The manufacturer's instructions for onboard maintenance of lifesaving appliances must be onboard and must include the following for each appliance—

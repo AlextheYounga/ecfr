@@ -1,5 +1,7 @@
 ##### § 76.50-10 Location. #####
 
+Link to an amendment published at 89 FR 76697, Sept. 18, 2024.
+
 (a) Approved portable and semi-portable extinguishers must be installed in accordance with table 76.50-10(a) of this section.
 
 (b) Table 76.50-10(a) indicates the minimum required number and type of extinguisher for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table.

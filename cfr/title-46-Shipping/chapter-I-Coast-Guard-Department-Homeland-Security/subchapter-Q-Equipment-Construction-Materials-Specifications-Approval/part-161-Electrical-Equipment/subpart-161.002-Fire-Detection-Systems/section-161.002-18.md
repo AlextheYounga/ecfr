@@ -1,5 +1,7 @@
 ##### § 161.002-18 System method of applications for type approval. #####
 
+Link to an amendment published at 89 FR 76703, Sept. 18, 2024.
+
 (a) The manufacturer must submit the following material to Commandant (CG-ENG-4), Attn: Office of Design and Engineering Systems, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509:
 
 (1) A formal written request that the system be reviewed for approval.

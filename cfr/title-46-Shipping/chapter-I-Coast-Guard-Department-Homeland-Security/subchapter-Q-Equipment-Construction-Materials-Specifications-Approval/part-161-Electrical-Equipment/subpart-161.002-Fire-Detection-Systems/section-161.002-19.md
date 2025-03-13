@@ -1,5 +1,7 @@
 ##### § 161.002-19 Device method of application for type approval. #####
 
+Link to an amendment published at 89 FR 76703, Sept. 18, 2024.
+
 (a) The manufacturer must submit the following material to Commandant (CG-ENG-4), U.S. Coast Guard Headquarters, 2703 Martin Luther King Jr. Avenue SE., Stop 7509, Washington, DC 20593-7509 or they may electronically submit material to *typeapproval@uscg.mil*:
 
 (1) A formal written request that the device be reviewed for approval.

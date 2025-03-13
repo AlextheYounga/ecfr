@@ -1,5 +1,7 @@
 ##### § 160.174-3 Incorporation by reference. #####
 
+Link to an amendment published at 89 FR 76702, Sept. 18, 2024.
+
 (a) Certain materials are incorporated by reference into this subchapter with the approval of the Director of the Federal Register. The Office of the Federal Register publishes a table, “Material Approved for Incorporation by Reference,” which appears in the Finding Aids section of this volume. In that table is found citations to the particular sections of this part where the material is incorporated and the date of the approval by the Director of the Federal Register. To enforce any edition other than the one listed in paragraph (b) of the section, notice of change must be published in the Federal Register and the material made available. All approved material is on file at the Office of the Federal Register, Washington, DC 20408, and at Coast Guard Headquarters. Contact Commandant (CG-ENG-4), Attn: Lifesaving and Fire Safety Division, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue, SE., Washington, DC 20593-7509, Washington, DC 20593-7126.
 
 (b) The materials approved for incorporation by reference in this subpart are:

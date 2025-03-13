@@ -1,5 +1,7 @@
 ##### § 107.235 Servicing of portable fire extinguishers, semi-portable fire extinguishers and fixed fire extinguishing systems. #####
 
+Link to an amendment published at 89 FR 76699, Sept. 18, 2024.
+
 (a) Except as provided in the following paragraphs, portable and semi-portable extinguishers must be inspected and maintained in accordance with NFPA 10, Standard for Portable Fire Extinguishers, 2010 Edition, effective December 5, 2009. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy from National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169, 617-770-3000, *http://www.nfpa.org*. You may inspect a copy at the U.S. Coast Guard, Office of Design and Engineering Standards (CG-ENG), 2703 Martin Luther King Jr. Avenue SE., Stop 7509, Washington, DC 20593; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html*.
 
 (1) Certification or licensing by a state or local jurisdiction as a fire extinguisher servicing agency will be accepted by the Coast Guard as meeting the personnel certification requirements of NFPA 10 for annual maintenance and recharging of extinguishers.

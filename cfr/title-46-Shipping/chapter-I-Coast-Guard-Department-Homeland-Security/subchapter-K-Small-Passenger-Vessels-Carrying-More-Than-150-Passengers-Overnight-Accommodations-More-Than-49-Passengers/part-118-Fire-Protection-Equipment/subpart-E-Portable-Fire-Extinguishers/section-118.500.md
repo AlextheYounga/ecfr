@@ -1,5 +1,7 @@
 ##### § 118.500 Required number, type, and location. #####
 
+Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
+
 (a) Each portable fire extinguisher on a vessel must be of a type approved by the Commandant. The minimum number of portable fire extinguishers required on a vessel must be acceptable to the cognizant OCMI, but must be not less than the minimum number required by Table 118.500(a) of this section and other provisions of this section.
 
 (b) Table 118.500(a) of this section indicates the minimum required number and type of extinguisher for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table.

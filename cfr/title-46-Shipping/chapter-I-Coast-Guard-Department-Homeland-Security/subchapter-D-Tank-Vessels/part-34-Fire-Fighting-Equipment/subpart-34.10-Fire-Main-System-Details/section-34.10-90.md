@@ -1,5 +1,7 @@
 ##### § 34.10-90 Installations contracted for prior to May 26, 1965—T/ALL. #####
 
+Link to an amendment published at 89 FR 76695, Sept. 18, 2024.
+
 (a) Installations contracted for prior to January 1, 1962, shall meet the following requirements:
 
 (1) Existing arrangements, materials and facilities previously approved shall be considered satisfactory so long as they meet the minimum requirements of this paragraph and they are maintained in good condition to the satisfaction of the Officer in Charge, Marine Inspection. Minor repairs and alterations may be made to the same standards as the original installation.

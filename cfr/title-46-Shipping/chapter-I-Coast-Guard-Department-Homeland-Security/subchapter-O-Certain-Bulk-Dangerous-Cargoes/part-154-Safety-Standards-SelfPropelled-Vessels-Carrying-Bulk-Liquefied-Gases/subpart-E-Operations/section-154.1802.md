@@ -2,13 +2,13 @@
 
 (a) No person may operate on the navigable waters of the United States a foreign flag vessel, whose flag administration issues IMO Certificates, unless the vessel has:
 
-(1) An IMO Certificate issued by the flag administration that is endorsed with the name of the cargo that it is allowed to carry, and, except when entering United States waters to be examined as required by § 154.150, a Certificate of Compliance1 issued by the Coast Guard endorsed under this part with the name of the cargo that it is allowed to carry; or
+(1) An IMO Certificate issued by the flag administration that is endorsed with the name of the cargo that it is allowed to carry, and, except when entering United States waters to be examined as required by § 154.150, a Certificate of Compliance 1 issued by the Coast Guard endorsed under this part with the name of the cargo that it is allowed to carry; or
 
 (2) Special approval under § 154.30.
 
 (b) No person may operate on the navigable waters of the United States a foreign flag vessel, whose flag administration does not issue IMO Certificates, unless the vessel has:
 
-(1) Except when entering United States waters to be examined as required by § 154.150, a Certificate of Compliance1 issued by the Coast Guard endorsed under this part with the name of the cargo it is allowed to carry; or
+(1) Except when entering United States waters to be examined as required by § 154.150, a Certificate of Compliance 1 issued by the Coast Guard endorsed under this part with the name of the cargo it is allowed to carry; or
 
 1 Until the Certificate of Compliance form is developed, the Letter of Compliance with a Subchapter O endorsement for the carriage of liquefied gases will serve the purpose of the endorsed Certificate of Compliance.
 

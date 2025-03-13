@@ -8,7 +8,7 @@ Note:
 
 On vessels on an international voyage, all ring life buoys shall be international orange in color.)
 
-(c) *Grab line.* The grab line shall be3/8-inch diameter polyethylene, polypropylene, or other suitable buoyant type synthetic material having a minimum breaking strength of 1,350 pounds.
+(c) *Grab line.* The grab line shall be 3/8-inch diameter polyethylene, polypropylene, or other suitable buoyant type synthetic material having a minimum breaking strength of 1,350 pounds.
 
 (d) *Beckets.* The beckets for securing the grab line shall be 2-inch polyethylene, polypropylene, nylon, saran or other suitable synthetic material having a minimum breaking strength of 585 pounds. In addition, polyethylene and polypropylene shall be weather-resistant type which is stabilized as to heat, oxidation, and ultraviolet light degradation.
 

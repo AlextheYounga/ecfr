@@ -1,5 +1,7 @@
 ##### § 35.30-20 Emergency equipment—TB/ALL #####
 
+Link to an amendment published at 89 FR 76696, Sept. 18, 2024.
+
 (a) Two emergency outfits, stored for use in widely separated, accessible locations, are required for the following:
 
 (1) All tankships on international voyage.

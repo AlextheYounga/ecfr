@@ -1,5 +1,7 @@
 ##### § 161.012-5 Approval procedures. #####
 
+Link to an amendment published at 89 FR 76703, Sept. 18, 2024.
+
 (a) An application for approval of a PFD light under this subpart must be sent to the Commandant (CG-ENG), Attn: Office of Design and Engineering Systems, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue, SE., Washington, DC 20593-7509.
 
 (b) Each application for approval must contain—(1) The name and address of the applicant;

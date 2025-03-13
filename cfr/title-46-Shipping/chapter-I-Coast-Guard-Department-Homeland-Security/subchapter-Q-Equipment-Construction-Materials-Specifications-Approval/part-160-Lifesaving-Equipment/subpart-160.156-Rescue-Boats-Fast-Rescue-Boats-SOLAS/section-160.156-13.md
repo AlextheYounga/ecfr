@@ -1,5 +1,7 @@
 ##### § 160.156-13 Approval inspections and tests for prototype rescue boats and fast rescue boats. #####
 
+Link to an amendment published at 89 FR 76702, Sept. 18, 2024.
+
 (a) After the Commandant notifies the manufacturer that the prototype rescue boat is in compliance with the requirements of § 160.156-11 of this subpart, the manufacturer may proceed with the prototype approval inspections and tests required under this section. The prototype rescue boat, the construction of which was witnessed under § 160.135-11 of this part, must be used for the tests in this section.
 
 (b) Except as provided in paragraph (f) of this section, the Coast Guard must conduct the approval inspections and witness the approval tests required under this section.

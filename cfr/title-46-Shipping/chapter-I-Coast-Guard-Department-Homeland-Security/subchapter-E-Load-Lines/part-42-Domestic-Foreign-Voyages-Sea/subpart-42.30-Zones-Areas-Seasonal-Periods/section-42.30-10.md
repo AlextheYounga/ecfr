@@ -6,4 +6,4 @@
 
 (2) Seasonal periods:
 
-Winter: April 16 to October 15.Summer: October 16 to April 15.[CGFR 68-60, 33 FR 10068, July 12, 1968]
+Winter: April 16 to October 15. Summer: October 16 to April 15.[CGFR 68-60, 33 FR 10068, July 12, 1968]

@@ -1,5 +1,7 @@
 ##### § 116.400 Application. #####
 
+Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
+
 (a) This subpart applies to:
 
 (1) Vessels carrying more than 150 passengers; or

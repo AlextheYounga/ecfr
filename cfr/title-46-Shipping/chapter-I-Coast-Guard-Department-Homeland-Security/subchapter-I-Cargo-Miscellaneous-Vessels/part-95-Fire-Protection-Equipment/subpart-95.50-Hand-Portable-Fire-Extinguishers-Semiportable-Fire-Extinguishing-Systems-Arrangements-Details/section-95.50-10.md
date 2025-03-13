@@ -1,5 +1,7 @@
 ##### § 95.50-10 Location. #####
 
+Link to an amendment published at 89 FR 76699, Sept. 18, 2024.
+
 (a) Approved portable fire extinguishers and semi-portable fire extinguishing systems must be installed in accordance with Table 95.50-10(a) of this section. The location of the equipment must be to the satisfaction of the Officer in Charge, Marine Inspection. Nothing in this paragraph should be construed as limiting the Officer in Charge, Marine Inspection, from requiring such additional equipment as he or she deems necessary for the proper protection of the vessel.
 
 (b) Table 95.50-10(a) indicates the minimum required number and type of extinguisher for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table.

@@ -1,5 +1,7 @@
 ##### § 31.10-18 Fire fighting equipment: General—TB/ALL. #####
 
+Link to an amendment published at 89 FR 76695, Sept. 18, 2024.
+
 (a) The owner, master, or person-in-charge of a tank vessel must ensure that portable and semi-portable extinguishers are inspected and maintained in accordance with NFPA 10 (incorporated by reference, see § 31.01-2) as specified in paragraphs (a)(1) through (4) of this section.
 
 (1) Certification or licensing by a state or local jurisdiction as a fire extinguisher servicing agency will be accepted by the Coast Guard as meeting the personnel certification requirements of NFPA 10 for annual maintenance and recharging of extinguishers.

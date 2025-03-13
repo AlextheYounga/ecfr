@@ -8,7 +8,7 @@
 
 (2) Although separate piping shall be led to each cargo hold and 'tween deck, for the purpose of determining the amount of carbon dioxide required, a cargo compartment will be considered as the space between watertight or firescreen bulkheads and from the tank top or lowest deck to the deck head of the uppermost space on which cargo may be carried. If a trunk extends beyond such deck, the trunk volume shall be included. Tonnage openings shall be considered as sealed for this purpose.
 
-(3) Branch lines to the various cargo holds and 'tween decks shall not be less than3/4-inch standard pipe size.
+(3) Branch lines to the various cargo holds and 'tween decks shall not be less than 3/4-inch standard pipe size.
 
 (4) No specific discharge rate need be applied to such systems.
 

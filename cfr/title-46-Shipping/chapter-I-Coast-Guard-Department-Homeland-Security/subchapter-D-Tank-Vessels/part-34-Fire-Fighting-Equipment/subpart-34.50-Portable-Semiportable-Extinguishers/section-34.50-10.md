@@ -1,5 +1,7 @@
 ##### § 34.50-10 Location, number, and installation of fire extinguishers—TB/ALL. #####
 
+Link to an amendment published at 89 FR 76695, Sept. 18, 2024.
+
 (a) Approved portable and semi-portable extinguishers must be installed in accordance with table 34.50-10(a) of this section. The location of the equipment must be, in the opinion of the Officer in Charge, Marine Inspection, convenient in case of emergency. Where special circumstances exist, not covered by table 34.50-10(a) of this section, the Officer in Charge, Marine Inspection, may require additional equipment as deemed necessary for the proper protection of the vessel.
 
 (b) For additional portable extinguishers as a substitute for sand, see § 34.55-10.

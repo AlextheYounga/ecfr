@@ -1,5 +1,7 @@
 ##### § 161.013-11 Prototype test. #####
 
+Link to an amendment published at 89 FR 76704, Sept. 18, 2024.
+
 (a) Each manufacturer must test a prototype light identical to the lights to be certified prior to the labeling required by § 161.013-13.
 
 (b) If the prototype light fails to meet any of the general performance requirements of § 161.013-3 the lights must not be certified under this subpart.

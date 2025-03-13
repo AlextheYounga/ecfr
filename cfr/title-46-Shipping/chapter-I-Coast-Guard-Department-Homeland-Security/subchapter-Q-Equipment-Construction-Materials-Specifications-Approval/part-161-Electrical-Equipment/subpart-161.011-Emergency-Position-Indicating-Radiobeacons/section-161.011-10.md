@@ -1,5 +1,7 @@
 ##### § 161.011-10 EPIRB approval. #####
 
+Link to an amendment published at 89 FR 76703, Sept. 18, 2024.
+
 (a) The Coast Guard approves the class of EPIRB's listed in § 161.011-5(a) of this subpart.
 
 (b) An application for type approval or type acceptance of an EPIRB should be submitted to the FCC in accordance with Title 47 of the Code of Federal Regulations, Part 2. When requested by the FCC, the Coast Guard reviews the test results in the application that concern installation and automatic operation (if required) of the EPIRB. The Coast Guard provides the results of the review to the manufacturer, and to the FCC for its use in acting upon the application.

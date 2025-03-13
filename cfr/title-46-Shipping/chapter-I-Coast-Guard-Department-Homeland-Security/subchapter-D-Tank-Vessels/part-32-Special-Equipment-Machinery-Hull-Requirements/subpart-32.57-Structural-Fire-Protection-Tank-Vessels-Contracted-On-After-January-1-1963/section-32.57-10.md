@@ -18,7 +18,7 @@
 
 (5) Interior stairs, including stringers and treads shall be of steel or other suitable material having in mind the risk of fire. This is not intended to preclude the use of other material for nosing, walking surfaces, etc., over the steel.
 
-(6) Except for washrooms and toilet spaces, deck coverings within accommodation spaces shall be of an approved type. However, overlays for leveling or finishing purposes which do not meet the requirements for an approved deck covering may be used in thicknesses not exceeding3/8 of an inch.
+(6) Except for washrooms and toilet spaces, deck coverings within accommodation spaces shall be of an approved type. However, overlays for leveling or finishing purposes which do not meet the requirements for an approved deck covering may be used in thicknesses not exceeding 3/8 of an inch.
 
 (7) Except as provided in paragraph (d)(7-a) of this section, ceilings, linings, and insulation, including pipe and duct laggings, must be made of approved incombustible material.
 

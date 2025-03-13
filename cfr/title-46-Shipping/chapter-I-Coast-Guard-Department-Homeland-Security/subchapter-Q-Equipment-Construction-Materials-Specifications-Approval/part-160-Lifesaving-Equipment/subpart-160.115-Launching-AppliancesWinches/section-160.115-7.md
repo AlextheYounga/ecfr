@@ -1,5 +1,7 @@
 ##### § 160.115-7 Design, construction, and performance of winches. #####
 
+Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
+
 (a) To seek Coast Guard approval of a winch, a manufacturer must comply with, and each winch must meet, the requirements of the following—
 
 (1) IMO LSA Code, chapter I/1.2.2 and chapter VI/6.1. (incorporated by reference, see § 160.115-5 of this subpart) applicable to the design and intended service of the winch;

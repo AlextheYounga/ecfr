@@ -6,4 +6,4 @@
 
 (b) *Equipment.* (1) The rescue boat shall be provided with one pair of oars of suitable size and material.
 
-(2) A painter shall be attached to the bow and to the stern fittings. Each shall be of suitable material, at least3/8-inch in diameter, and at least 30 feet long.
+(2) A painter shall be attached to the bow and to the stern fittings. Each shall be of suitable material, at least 3/8-inch in diameter, and at least 30 feet long.

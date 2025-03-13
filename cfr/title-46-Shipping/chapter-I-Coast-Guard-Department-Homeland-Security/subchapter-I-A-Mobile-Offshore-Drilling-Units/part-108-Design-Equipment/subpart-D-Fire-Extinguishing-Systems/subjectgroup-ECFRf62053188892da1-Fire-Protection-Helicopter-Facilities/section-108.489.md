@@ -1,5 +1,7 @@
 ##### § 108.489 Helicopter fueling facilities. #####
 
+Link to an amendment published at 89 FR 76699, Sept. 18, 2024.
+
 (a) Each helicopter fueling facility must have a fire protection system that discharges one of the following agents in the amounts prescribed for the agents over the area of the fuel containment systems around marine portable tanks, fuel transfer pumps and fuel hose reels:
 
 (1) Protein foam at the rate of 6.52 liters per minute for each square meter (.16 gallons per minute for each square foot) of area covered for five minutes.

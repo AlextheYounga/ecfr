@@ -1,5 +1,7 @@
 ##### § 164.106-3 Testing, marking, and inspection requirements. #####
 
+Link to an amendment published at 89 FR 76705, Sept. 18, 2024.
+
 (a) Each primary deck covering submitted for type approval must be tested in accordance with the flame spread procedures specified in Part 6 of Annex 1 and the smoke density and toxicity criteria in Part 2 of Annex 1 of the FTP Code (incorporated by reference, see § 164.106-2).
 
 (b) All testing and inspections required by this subpart must be performed by an independent laboratory accepted by the Coast Guard under subpart 159.010 of this chapter. A list of independent laboratories accepted as meeting subpart 159.010 of this chapter is available online at *http://psix.uscg.mil/EQLabs/Default.aspx*.

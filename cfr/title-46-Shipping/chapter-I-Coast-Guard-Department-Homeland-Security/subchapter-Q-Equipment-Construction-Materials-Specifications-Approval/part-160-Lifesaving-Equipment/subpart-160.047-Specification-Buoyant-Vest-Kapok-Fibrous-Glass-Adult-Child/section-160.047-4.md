@@ -36,7 +36,7 @@
 
 (e) *Body strap, hardware, and reinforcing tape.* The body strap, hardware, and reinforcing tape shall be arranged as shown on the drawings and attached to the envelope with the seams and stitching indicated.
 
-(f) *Stitching.* All stitching shall be a short lock stitch conforming to Stitch Type 301 of Federal Standard No. 751, and there shall be not less than 7 nor more than 9 stitches to the inch. Both ends of the stitching forming the shoulder hinge seams and the top and bottom closing seams of the envelope shall be backstitched approximately1/2 inch.
+(f) *Stitching.* All stitching shall be a short lock stitch conforming to Stitch Type 301 of Federal Standard No. 751, and there shall be not less than 7 nor more than 9 stitches to the inch. Both ends of the stitching forming the shoulder hinge seams and the top and bottom closing seams of the envelope shall be backstitched approximately 1/2 inch.
 
 (g) *Workmanship.* Buoyant vests shall be of first-class workmanship and shall be free from any defects materially affecting their appearance or serviceability.
 

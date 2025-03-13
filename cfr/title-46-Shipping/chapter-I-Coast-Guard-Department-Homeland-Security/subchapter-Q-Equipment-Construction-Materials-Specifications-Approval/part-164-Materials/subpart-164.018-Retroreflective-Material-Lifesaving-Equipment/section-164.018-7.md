@@ -1,5 +1,7 @@
 ##### § 164.018-7 Approval procedures. #####
 
+Link to an amendment published at 89 FR 76705, Sept. 18, 2024.
+
 (a) An application for approval of retroreflective material must be sent to the Commandant (CG-ENG-4), Attn: Lifesaving and Fire Safety Division, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509.
 
 (b) Each application for approval must contain—(1) The name and address of the applicant;

@@ -1,5 +1,7 @@
 ##### § 116.405 General arrangement and outfitting. #####
 
+Link to an amendment published at 89 FR 76701, Sept. 18, 2024.
+
 (a) *Fire hazards to be minimized.* The general construction of the vessel must be such as to minimize fire hazards insofar as it is reasonable and practicable.
 
 (b) *Combustible materials to be limited.* Limited amounts of combustible materials such as wiring insulation, pipe hanger linings, nonmetallic (plastic) pipe, and cable ties are permitted in concealed spaces except as otherwise prohibited by this subpart.

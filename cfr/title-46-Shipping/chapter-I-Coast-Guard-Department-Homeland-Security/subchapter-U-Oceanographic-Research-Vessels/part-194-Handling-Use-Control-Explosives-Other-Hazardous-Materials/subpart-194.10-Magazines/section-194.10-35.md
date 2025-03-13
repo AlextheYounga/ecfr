@@ -4,11 +4,11 @@
 
 (b) The access door to magazines and magazine vans shall bear the inscription:
 
-MAGAZINEKEEP OPEN LIGHTS AND FIRE AWAYKEEP DOOR CLOSEDREMOVE MATCHES AND LIGHTERS PRIOR TO ENTERING
+MAGAZINE KEEP OPEN LIGHTS AND FIRE AWAY KEEP DOOR CLOSED REMOVE MATCHES AND LIGHTERS PRIOR TO ENTERING
 
 (c) Magazine chests shall be marked in a conspicuous location, preferably the top, with the inscription:
 
-MAGAZINE CHESTKEEP OPEN LIGHTS AND FIRE AWAY
+MAGAZINE CHEST KEEP OPEN LIGHTS AND FIRE AWAY
 
 (d) Magazine chests used for blasting caps, detonators, or boosters shall be marked in a conspicuous location with the inscription as appropriate:
 
@@ -20,11 +20,11 @@ DETONATOR LOCKER
 
 or
 
-BOOSTER LOCKERKEEP OPEN LIGHTS AND FIRE AWAY
+BOOSTER LOCKER KEEP OPEN LIGHTS AND FIRE AWAY
 
 (e) Magazine van, unless specifically approved as a portable magazine under provisions of 49 CFR 176.137 shall bear the additional statements on each side:
 
-MAGAZINEWARNINGDO NOT LIFT WITH CONTENTS
+MAGAZINE WARNING DO NOT LIFT WITH CONTENTS
 
 (f) Control locations for magazine sprinkler systems, in addition to the operating instructions required by § 76.20-20 of Subchapter H (Passenger Vessels) of this chapter shall bear the inscription:
 

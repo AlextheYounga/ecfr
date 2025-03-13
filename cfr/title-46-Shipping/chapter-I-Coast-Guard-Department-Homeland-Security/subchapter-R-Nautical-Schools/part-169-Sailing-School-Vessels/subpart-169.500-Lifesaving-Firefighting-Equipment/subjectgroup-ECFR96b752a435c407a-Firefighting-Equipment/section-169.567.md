@@ -1,5 +1,7 @@
 ##### § 169.567 Portable fire extinguishers. #####
 
+Link to an amendment published at 89 FR 76706, Sept. 18, 2024.
+
 (a) The minimum number of portable fire extinguishers required on each vessel is determined by the Officer in Charge, Marine Inspection, in accordance with Table 169.567(a) of this section and other provisions of this subpart.
 
 |                            Space                            |Portable fire extinguishers|                                             |

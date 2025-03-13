@@ -30,4 +30,4 @@
 
 (g) This waiver order shall remain in effect until terminated by proper authority and notice of cancellation is published in the Federal Register.
 
-[CGFR 64-86, 30 FR 89, Jan. 6, 1965]Editorial Note:For Federal Register citations affecting § 6.06, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[CGFR 64-86, 30 FR 89, Jan. 6, 1965] Editorial Note:For Federal Register citations affecting § 6.06, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

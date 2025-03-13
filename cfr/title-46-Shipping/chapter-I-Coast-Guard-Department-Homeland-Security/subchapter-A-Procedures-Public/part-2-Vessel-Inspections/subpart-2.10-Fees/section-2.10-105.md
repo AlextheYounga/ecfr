@@ -6,7 +6,7 @@
 
 (c) The total of the annual fees for the requested prepayment period will be discounted to its net present value using the following formula:
 
-![](/graphics/er13mr95.000.gif)Where:PV is the Present Value of the series of annual user fees to be prepaid (the net amount to be prepaid)RO is the published user fee of the vesseli is the interest rate for 10-year Treasury notes at the time of prepayment calculationπ is the rate of inflation (based on projected military personnel costs at the time of prepayment calculation)n is the total number of years to be prepaidt is the number of years after prepayment of the fee, for each annual increment (t = 0, 1, 2, 3 ... n)
+![](/graphics/er13mr95.000.gif)Where:PV is the Present Value of the series of annual user fees to be prepaid (the net amount to be prepaid) RO is the published user fee of the vessel i is the interest rate for 10-year Treasury notes at the time of prepayment calculation π is the rate of inflation (based on projected military personnel costs at the time of prepayment calculation) n is the total number of years to be prepaid t is the number of years after prepayment of the fee, for each annual increment (t = 0, 1, 2, 3 ... n)
 
 (d) When the annual vessel inspection fee has been prepaid, the entitlement to inspection services for the prepayment period attaches to the vessel and remains with the vessel if it is sold. The entitlement to inspection services may not be transferred to any other vessel.
 

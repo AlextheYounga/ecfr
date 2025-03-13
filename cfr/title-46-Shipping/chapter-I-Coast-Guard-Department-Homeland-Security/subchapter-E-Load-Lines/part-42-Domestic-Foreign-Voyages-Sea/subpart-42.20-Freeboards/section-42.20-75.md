@@ -14,7 +14,7 @@
 
 (e) *Fresh water freeboard.* (1) The minimum freeboard in fresh water of unit density shall be obtained by deducting from the minimum freeboard in salt water:
 
-(Δ/40 *T*) incheswhere:Δ = displacement in salt water in tons at the summer load waterline; and,*T* = tons per inch immersion in salt water at the summer load waterline.
+(Δ/40 *T*) incheswhere: Δ = displacement in salt water in tons at the summer load waterline; and, *T* = tons per inch immersion in salt water at the summer load waterline.
 
 (2) Where the displacement at the summer load waterline cannot be certified, the deduction shall be one forty-eighth of summer draft, measured from the top of the keel to the center of the ring of the load line mark.
 

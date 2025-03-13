@@ -6,7 +6,7 @@
 
 (c) All safety relief valves shall be so constructed that the failure of any part cannot obstruct the free and full discharge of vapors from the valve.
 
-(d) The nominal size of a safety relief valve shall be the inside diameter of the inlet opening to the individual valve disk. No safety relief valve shall be smaller than3/4 inch nor larger than 6 inches. Safety relief valves shall have flanged or welded end inlet connections and either flanged or screwed outlet connections, except outlets exceeding 4 inches in diameter shall be flanged.
+(d) The nominal size of a safety relief valve shall be the inside diameter of the inlet opening to the individual valve disk. No safety relief valve shall be smaller than 3/4 inch nor larger than 6 inches. Safety relief valves shall have flanged or welded end inlet connections and either flanged or screwed outlet connections, except outlets exceeding 4 inches in diameter shall be flanged.
 
 (e) Safety relief valves shall be of the angle or straight-through type, fitted with side or top outlet discharge connections.
 
@@ -18,6 +18,6 @@
 
 (g) The design and construction of safety relief valves shall permit easy access for inspection and repair.
 
-(h) Safety relief valves shall be tapped for not less than1/4 inch pipe size drain at the lowest practicable point where liquid can collect.
+(h) Safety relief valves shall be tapped for not less than 1/4 inch pipe size drain at the lowest practicable point where liquid can collect.
 
 [CGFR 52-43, 17 FR 9540, Oct. 18, 1952]

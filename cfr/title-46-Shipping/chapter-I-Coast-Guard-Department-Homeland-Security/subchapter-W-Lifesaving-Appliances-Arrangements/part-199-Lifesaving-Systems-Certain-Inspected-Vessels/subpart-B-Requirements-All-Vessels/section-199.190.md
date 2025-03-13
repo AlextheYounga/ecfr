@@ -1,5 +1,7 @@
 ##### § 199.190 Operational readiness, maintenance, and inspection of lifesaving equipment. #####
 
+Link to an amendment published at 89 FR 76707, Sept. 18, 2024.
+
 (a) *Operational readiness.* Before the vessel leaves port and at all times during the voyage, each lifesaving appliance must be in working order and ready for immediate use.
 
 (b) *Maintenance.* (1) The manufacturer's instructions for onboard maintenance of lifesaving appliances must be on board the vessel. The following must be provided for each appliance.

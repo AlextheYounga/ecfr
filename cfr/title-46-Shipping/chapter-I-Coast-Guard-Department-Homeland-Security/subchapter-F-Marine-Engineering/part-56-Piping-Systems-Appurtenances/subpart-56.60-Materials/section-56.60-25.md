@@ -1,5 +1,7 @@
 ##### § 56.60-25 Nonmetallic materials. #####
 
+Link to an amendment published at 89 FR 76697, Sept. 18, 2024.
+
 (a) Plastic pipe installations must be in accordance with IMO Resolution A.753(18) and IMO Resolution MSC.313(88) (both incorporated by reference, see § 56.01-2) and the following supplemental requirements.
 
 (1) Plastic pipe and associated fittings must be approved to approval series 164.141 as follows:

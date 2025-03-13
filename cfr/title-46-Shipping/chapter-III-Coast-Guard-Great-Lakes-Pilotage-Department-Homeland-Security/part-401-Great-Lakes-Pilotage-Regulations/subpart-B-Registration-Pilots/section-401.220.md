@@ -32,4 +32,4 @@ Link to an amendment published at 89 FR 76349, Sept. 17, 2024.
 
 (e) The Director may, when necessary to assure adequate and efficient pilotage service, issue a temporary certificate of registration for a period of less than 1 year to any person found qualified under this subpart regardless of age.
 
-[29 FR 10465, July 28, 1964]Editorial Note:For Federal Register citations affecting § 401.220, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[29 FR 10465, July 28, 1964] Editorial Note:For Federal Register citations affecting § 401.220, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

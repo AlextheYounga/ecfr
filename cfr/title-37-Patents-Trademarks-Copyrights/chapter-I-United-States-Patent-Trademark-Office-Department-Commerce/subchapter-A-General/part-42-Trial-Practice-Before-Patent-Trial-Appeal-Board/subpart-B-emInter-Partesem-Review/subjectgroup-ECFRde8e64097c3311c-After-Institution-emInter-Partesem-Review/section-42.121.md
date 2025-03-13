@@ -1,5 +1,7 @@
 ##### § 42.121 Amendment of the patent. #####
 
+Link to an amendment published at 89 FR 76429, Sept. 18, 2024.
+
 (a) *Motion to amend.* A patent owner may file one motion to amend a patent, but only after conferring with the Board.
 
 (1) *Due date.* Unless a due date is provided in a Board order, a motion to amend must be filed no later than the filing of a patent owner response.

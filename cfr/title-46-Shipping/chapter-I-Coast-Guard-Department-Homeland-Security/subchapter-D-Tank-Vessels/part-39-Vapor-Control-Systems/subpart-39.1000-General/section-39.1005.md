@@ -1,5 +1,7 @@
 ##### § 39.1005 Incorporation by reference—TB/ALL. #####
 
+Link to an amendment published at 89 FR 76697, Sept. 18, 2024.
+
 (a) Certain material is incorporated by reference (IBR) into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Coast Guard must publish notice of change in the Federal Register and the material must be available to the public. All approved material is available for inspection at the Coast Guard Headquarters, Commandant (CG-ENG), Attn: Office of Design and Engineering Standards, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7509, telephone 202-372-1418 and at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Also, it is available from the sources indicated in this section.
 
 (b) American National Standards Institute (ANSI), 25 West 43rd Street, 4th floor, New York, NY 10036.

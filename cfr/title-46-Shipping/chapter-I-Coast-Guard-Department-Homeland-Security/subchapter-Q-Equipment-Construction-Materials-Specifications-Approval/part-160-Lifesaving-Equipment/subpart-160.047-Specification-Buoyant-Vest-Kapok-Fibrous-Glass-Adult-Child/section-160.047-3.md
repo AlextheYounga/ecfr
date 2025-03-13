@@ -10,7 +10,7 @@
 
 (e) *Pad covering.* The covering for the buoyant pad inserts shall be flexible vinyl film not less than 0.006″ in thickness meeting the requirements of Federal Specification L-P-375 for Type I or II, class 1, film.
 
-(f) *Tie tapes and body strap loops.* The tie tapes and body strap loops for an adult or child size buoyant vest specified by this subpart must be3/4-inch cotton webbing meeting the requirements in military specification MIL-T-43566 (Class I) for Type I webbing.
+(f) *Tie tapes and body strap loops.* The tie tapes and body strap loops for an adult or child size buoyant vest specified by this subpart must be 3/4-inch cotton webbing meeting the requirements in military specification MIL-T-43566 (Class I) for Type I webbing.
 
 (f-1) *Body straps.* The complete body strap assembly, including hardware, must have a breaking strength of 150 pounds for an adult size and 115 pounds for a child size. The specifications for the webbing are as follows:
 
@@ -18,7 +18,7 @@
 
 (2) For a child size vest, the webbing must be three-fourth inch and meet the requirements of military specification MIL-W-530 for Type IIa webbing.
 
-(f-2) *Reinforcing tape.* The reinforcing tape around the neck of a buoyant vest specified by this subpart must be3/4-inch cotton tape weighing 0.18 ounce or more per linear yard and having a minimum breaking strength of 120 pounds.
+(f-2) *Reinforcing tape.* The reinforcing tape around the neck of a buoyant vest specified by this subpart must be 3/4-inch cotton tape weighing 0.18 ounce or more per linear yard and having a minimum breaking strength of 120 pounds.
 
 (g) [Reserved]
 

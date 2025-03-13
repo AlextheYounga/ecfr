@@ -1,5 +1,7 @@
 ##### § 96.40-1 Pilot boarding equipment. #####
 
+Link to an amendment published at 89 FR 76699, Sept. 18, 2024.
+
 (a) This section applies to each vessel that normally embarks or disembarks a pilot from a pilot boat or other vessel.
 
 (b) Each vessel must have suitable pilot boarding equipment available for use on each side of the vessel. If a vessel has only one set of equipment, the equipment must be capable of being easily transferred to and rigged for use on either side of the vessel.

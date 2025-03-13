@@ -1,5 +1,7 @@
 ##### § 162.017-6 Procedure for approval. #####
 
+Link to an amendment published at 89 FR 76704, Sept. 18, 2024.
+
 (a) *General.* Pressure-vacuum relief valves intended for use on tank vessels must be approved for such use by the Commanding Officer, U.S. Coast Guard Marine Safety Center. Applications for approval may be delivered by visitors to the Commanding Officer, Marine Safety Center, U.S. Coast Guard, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593, or transmitted by mail to: Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430, in a written or electronic format. Information for electronic submittals can be found at *https://www.uscg.mil/HQ/MSC*.
 
 (b) *Drawings and specifications.* Manufacturers desiring approval of a new design or type of pressure-vacuum relief valve shall submit drawings in quadruplicate showing the design of the valve, the sizes for which approval is requested, method of operation, thickness and material specification of component parts, diameter of seat opening and lift of discs, mesh and size of wire of flame screens.

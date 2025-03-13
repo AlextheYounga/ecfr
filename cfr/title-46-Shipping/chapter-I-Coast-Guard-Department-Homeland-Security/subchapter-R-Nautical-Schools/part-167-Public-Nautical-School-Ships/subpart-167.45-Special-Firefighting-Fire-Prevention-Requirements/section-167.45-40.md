@@ -1,5 +1,7 @@
 ##### § 167.45-40 Fire-fighting equipment on nautical school ships using oil as fuel. #####
 
+Link to an amendment published at 89 FR 76705, Sept. 18, 2024.
+
 Steam-propelled nautical school ships burning oil for fuel shall be fitted with the fire-fighting equipment of the following type and character:
 
 (a) In each boiler room and in each of the machinery spaces of a nautical school ship propelled by steam, in which a part of the fuel-oil installation is situated, 2 or more approved fire extinguishers of the foam type of not less than 9.5 liters (21/2 gallons) each or 2 or more approved fire extinguishers of the carbon dioxide type of not less than 33 kilograms (15 pounds) each must be placed where accessible and ready for immediate use. On a nautical school ship of 1,000 gross tons and under, only 1 of the fire extinguishers may be required.

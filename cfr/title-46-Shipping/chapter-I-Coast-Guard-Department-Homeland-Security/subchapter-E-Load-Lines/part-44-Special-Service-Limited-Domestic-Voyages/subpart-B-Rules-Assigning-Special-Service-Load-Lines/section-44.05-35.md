@@ -8,11 +8,11 @@ Issued under the authority of the Commandant, U.S. Coast Guard, United States of
 
 [Seal]
 
-Issued byCertificate No.
+Issued by Certificate No.
 
 This certificate is valid only for coastwise or inter-island voyages that are between the limits of \_\_\_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_ provided the vessel is engaged solely in the trade stated herein.
 
-ShipOfficial No.Port of registryTrade of vesselGross tonnage
+ShipOfficial No. Port of registryTrade of vessel Gross tonnage
 
 |Freeboard from deck line|                Load line                 |
 |------------------------|------------------------------------------|
@@ -26,7 +26,7 @@ ShipOfficial No.Port of registryTrade of vesselGross tonnage
 
 The upper edge of the deck line from
 
-which these freeboards are measured isinches above the top of the\_\_\_\_deck at side.![](/graphics/ec01fe91.012.gif)
+which these freeboards are measured is inches above the top of the\_\_\_\_deck at side.![](/graphics/ec01fe91.012.gif)
 
 This is to certify that this ship has been surveyed and the freeboards and load lines shown above have been found to be correctly marked upon the vessel in manner and location as provided by the Load Line Regulations of the Commandant, U.S. Coast Guard, applicable to vessels engaged on this special service voyage.
 

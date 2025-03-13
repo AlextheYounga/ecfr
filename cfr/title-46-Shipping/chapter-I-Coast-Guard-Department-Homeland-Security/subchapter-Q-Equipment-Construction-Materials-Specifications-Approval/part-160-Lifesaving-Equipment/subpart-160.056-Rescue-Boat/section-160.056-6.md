@@ -4,4 +4,4 @@
 
 (b) The following information shall appear on the name plate:
 
-RescueBoatU.S.C.G. Specification 160.056Prototype approved(Date)Approved by OCMI(Port)Date of manufacture(Date)Manufacturer's serial No.Manufacturer's name and address
+RescueBoatU.S.C.G. Specification 160.056Prototype approved(Date) Approved by OCMI(Port) Date of manufacture(Date) Manufacturer's serial No.Manufacturer's name and address

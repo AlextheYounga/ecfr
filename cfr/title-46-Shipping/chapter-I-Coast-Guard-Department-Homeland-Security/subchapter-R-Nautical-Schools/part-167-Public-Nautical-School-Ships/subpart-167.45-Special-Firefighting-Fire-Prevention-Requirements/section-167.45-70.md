@@ -1,5 +1,7 @@
 ##### § 167.45-70 Portable fire extinguishers, general requirements. #####
 
+Link to an amendment published at 89 FR 76706, Sept. 18, 2024.
+
 (a) Extra charges shall be carried on board for 50 percent of each size and variety of fire extinguishers provided. If 50 percent of each size and variety of fire extinguishers carried gives a fractional result, extra charges shall be provided for the next largest whole number.
 
 (1) The following is an example:

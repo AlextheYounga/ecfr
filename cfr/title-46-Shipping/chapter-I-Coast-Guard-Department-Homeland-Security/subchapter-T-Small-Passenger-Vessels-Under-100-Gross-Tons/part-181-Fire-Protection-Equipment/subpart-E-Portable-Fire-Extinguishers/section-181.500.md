@@ -1,5 +1,7 @@
 ##### § 181.500 Required number, type, and location. #####
 
+Link to an amendment published at 89 FR 76707, Sept. 18, 2024.
+
 (a) Each portable fire extinguisher on a vessel must be of an approved type. The minimum number of portable fire extinguishers required on a vessel must be acceptable to the cognizant Officer in Charge, Marine Inspection, but must not be fewer than the minimum number required by Table 181.500(b) and other provisions of this section.
 
 (b) Table 181.500(b) of this section indicates the minimum required classification for each space listed. Extinguishers with larger numerical ratings or multiple letter designations may be used if the extinguishers meet the requirements of the table.
