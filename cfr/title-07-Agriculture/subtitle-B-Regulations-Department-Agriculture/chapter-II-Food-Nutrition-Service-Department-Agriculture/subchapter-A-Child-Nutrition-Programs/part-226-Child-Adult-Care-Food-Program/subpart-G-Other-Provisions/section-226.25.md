@@ -1,7 +1,5 @@
 ##### § 226.25 Other provisions. #####
 
-Link to an amendment published at 88 FR 57858, Aug. 23, 2023.
-
 (a) *Grant closeout procedures.* Grant closeout procedures for the Program shall be in accordance with 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415, as applicable.
 
 (b) *State requirements.* Nothing contained in this part shall prevent a State agency from imposing additional requirements for participation in the Program which are not inconsistent with the provisions of this part; however, any additional requirements shall be approved by FNSRO and may not deny the Program to an eligible institution.
@@ -30,4 +28,36 @@ Link to an amendment published at 88 FR 57858, Aug. 23, 2023.
 
 (i) *Drinking water.* A child care institution or facility must offer and make potable drinking water available to children throughout the day.
 
-[47 FR 36527, Aug. 20, 1982, as amended at 53 FR 52597, Dec. 28, 1988; 54 FR 13049, Mar. 30, 1989; 69 FR 53547, Sept. 1, 2004; 71 FR 39519, July 13, 2006; 72 FR 24183, May 2, 2007; 76 FR 37982, June 29, 2011; 81 FR 24383, Apr. 25, 2016; 81 FR 66492, Sept. 28, 2016]
+(j) *Fines.* (1) An institution that is a school food authority may be subject to fines. The State agency may establish an assessment when it has determined that the institution or its facility has:
+
+(i) Failed to correct severe mismanagement of the Program;
+
+(ii) Disregarded a Program requirement of which the institution or its facility had been informed; or
+
+(iii) Failed to correct repeated violations of Program requirements.
+
+(2) FNS may direct the State agency to establish a fine against any institution when it has determined that the institution or its facility has committed one or more acts under paragraph (j)(1) of this section.
+
+(3) Funds used to pay a fine established under this paragraph must be derived from non-Federal sources. In calculating an assessment, the State agency must calculate the fine based on the amount of Program reimbursement earned by the institution or its facility for the most recent fiscal year for which full year data is available, provided that the fine does not exceed the equivalent of:
+
+(i) For the first fine, 1 percent of the amount of meal reimbursement earned for the fiscal year;
+
+(ii) For the second fine, 5 percent of the amount of meal reimbursement earned for the fiscal year; and
+
+(iii) For the third or subsequent fine, 10 percent of the amount of meal reimbursement earned for the fiscal year.
+
+(4) The State agency must inform FNS at least 30 days prior to establishing the fine under this paragraph. The State agency must send the institution written notification of the fine established under this paragraph and provide a copy of the notification to FNS. The notification must:
+
+(i) Specify the violations or actions which constitute the basis for the fine and indicate the amount of the fine;
+
+(ii) Inform the institution that it may appeal the fine and advise the institution of the appeal procedures established under § 226.6(k);
+
+(iii) Indicate the effective date and payment procedures should the institution not exercise its right to appeal within the specified timeframe.
+
+(5) Any institution subject to a fine under paragraph (j)(1) of this section may appeal the State agency's determination. In appealing a fine, the institution must submit to the State agency any pertinent information, explanation, or evidence addressing the Program violations identified by the State agency. Any institution seeking to appeal the State agency determination must follow State agency appeal procedures.
+
+(6) The decision of the State agency review official is final and not subject to further administrative or judicial review. Failure to pay a fine established under this paragraph may be grounds for suspension or termination.
+
+(7) Money received by the State agency as a result of a fine established under this paragraph against an institution and any interest charged in the collection of these fines must be remitted to FNS, and then remitted to the United States Treasury.
+
+[47 FR 36527, Aug. 20, 1982, as amended at 53 FR 52597, Dec. 28, 1988; 54 FR 13049, Mar. 30, 1989; 69 FR 53547, Sept. 1, 2004; 71 FR 39519, July 13, 2006; 72 FR 24183, May 2, 2007; 76 FR 37982, June 29, 2011; 81 FR 24383, Apr. 25, 2016; 81 FR 66492, Sept. 28, 2016; 88 FR 57858, Aug. 23, 2023]

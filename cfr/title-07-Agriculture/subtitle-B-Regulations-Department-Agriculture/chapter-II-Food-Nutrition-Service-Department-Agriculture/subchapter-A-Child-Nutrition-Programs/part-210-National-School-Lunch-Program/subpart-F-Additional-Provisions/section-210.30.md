@@ -1,7 +1,5 @@
 ##### § 210.30 School nutrition program professional standards. #####
 
-Link to an amendment published at 88 FR 57848, Aug. 23, 2023.
-
 (a) *General.* School food authorities that operate the National School Lunch Program, or the School Breakfast Program (7 CFR part 220), must establish and implement professional standards for school nutrition program directors, managers, and staff, as defined in § 210.2.
 
 (b) *Minimum standards for all school nutrition program directors.* Each school food authority must ensure that all newly hired school nutrition program directors meet minimum hiring standards and ensure that all new and existing directors have completed the minimum annual training/education requirements for school nutrition program directors, as set forth below:
@@ -101,4 +99,6 @@ Link to an amendment published at 88 FR 57848, Aug. 23, 2023.
 
 (2) Each employee has completed the applicable training requirements in paragraphs (c) and (d) of this section no later than the end of each school year.
 
-[80 FR 11092, Mar. 2, 2015; 80 FR 26181, May 7, 2015. Redesignated at 81 FR 50169, July 29, 2016 and further redesignated and amended at 81 FR 93792, Dec. 22, 2016; 84 FR 6959, Mar. 1, 2019; 84 FR 8247, Mar. 7, 2019]
+(3) Each employee tasked with Program procurement has completed annual procurement training, as required under § 210.21(h), by the end of each school year.
+
+[80 FR 11092, Mar. 2, 2015; 80 FR 26181, May 7, 2015. Redesignated at 81 FR 50169, July 29, 2016 and further redesignated and amended at 81 FR 93792, Dec. 22, 2016; 84 FR 6959, Mar. 1, 2019; 84 FR 8247, Mar. 7, 2019; 88 FR 57848, Aug. 23, 2023]

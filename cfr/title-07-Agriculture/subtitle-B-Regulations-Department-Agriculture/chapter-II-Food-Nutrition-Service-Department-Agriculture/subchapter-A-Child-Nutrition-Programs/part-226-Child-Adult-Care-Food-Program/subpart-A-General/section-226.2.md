@@ -1,7 +1,5 @@
 ##### § 226.2 Definitions. #####
 
-Link to an amendment published at 88 FR 57850, Aug. 23, 2023.
-
 *2 CFR part 200,* means the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards published by OMB. The part reference covers applicable: Acronyms and Definitions (subpart A), General Provisions (subpart B), Post Federal Award Requirements (subpart D), Cost Principles (subpart E), and Audit Requirements (subpart F). (NOTE: Pre-Federal Award Requirements and Contents of Federal Awards (subpart C) does not apply to the National School Lunch Program).
 
 *Act* means the National School Lunch Act, as amended.
@@ -114,7 +112,7 @@ Link to an amendment published at 88 FR 57850, Aug. 23, 2023.
 
 *Expansion payments* means financial assistance made available to a sponsoring organization for its administrative expenses associated with expanding a food service program to day care homes located in low-income or rural areas. These expansion payments may include administrative expenses associated with outreach and recruitment of unlicensed family or group day care homes and the allowable licensing-related expenses of such homes.
 
-*Facility* means a sponsored center or a family day care home.
+*Facility* means a sponsored center or a day care home.
 
 *Family* means, in the case of children, a group of related or nonrelated individuals, who are not residents of an institution or boarding house, but who are living as one economic unit or, in the case of adult participants, the adult participant, and if residing with the adult participant, the spouse and dependent(s) of the adult participant.
 
@@ -206,7 +204,7 @@ Link to an amendment published at 88 FR 57850, Aug. 23, 2023.
 
 *National disqualified list* means the list, maintained by the Department, of institutions, responsible principals and responsible individuals, and day care homes disqualified from participation in the Program.
 
-*New institution* means an institution applying to participate in the Program for the first time, or an institution applying to participate in the Program after a lapse in participation.
+*New institution* means a sponsoring organization or an independent center making an application to participate in the Program or applying to participate in the Program after a lapse in participation.
 
 *Nonpricing program* means an institution, child care facility, or adult day care facility in which there is no separate identifiable charge made for meals served to participants.
 
@@ -224,6 +222,8 @@ Link to an amendment published at 88 FR 57850, Aug. 23, 2023.
 
 *Participants* means “Children” or “Adult participants” as defined in this section.
 
+*Participating institution* means a sponsoring organization or an independent center, including a renewing institution, that holds a current agreement with the State agency to operate the Program.
+
 *Personal property* means property of any kind except real property. It may be tangible—having physical existence—or intangible—having no physical existence such as patents, inventions, and copyrights.
 
 *Persons with disabilities* means persons of any age who have one or more disabilities, as determined by the State, and who are enrolled in an institution or child care facility serving a majority of persons who are age 18 and under.
@@ -240,7 +240,7 @@ Link to an amendment published at 88 FR 57850, Aug. 23, 2023.
 
 *Reimbursement* means Federal financial assistance paid or payable to institutions for Program costs within the rates assigned by the State agency.
 
-*Renewing institution* means an institution that is participating in the Program at the time it submits a renewal application.
+*Renewing institution* means a sponsoring organization or an independent center that is participating in the Program at the time it submits annual renewal information.
 
 *Responsible principal or responsible individual* means:
 
@@ -262,15 +262,23 @@ Link to an amendment published at 88 FR 57850, Aug. 23, 2023.
 
 *SNAP household* means any individual or group of individuals which is currently certified to receive assistances as a household from *SNAP,* the Supplemental Nutrition Assistance Program, as defined in § 245.2 of this chapter.
 
+*Sponsored center* means a child care center, an at-risk afterschool care center, an adult day care center, an emergency shelter, or an outside-school-hours care center that operates the Program under the auspices of a sponsoring organization. The two types of sponsored centers are as follows:
+
+(1) An affiliated center is a part of the same legal entity as the CACFP sponsoring organization; or
+
+(2) An unaffiliated center is legally distinct from the sponsoring organization.
+
 *Sponsoring organization* means a public or nonprofit private organization that is entirely responsible for the administration of the food program in:
 
-(a) One or more day care homes;
+(1) One or more day care homes;
 
-(b) A child care center, emergency shelter, at-risk afterschool care center, outside-school-hours care center, or adult day care center which is a legally distinct entity from the sponsoring organization;
+(2) A child care center, emergency shelter, at-risk afterschool care center, outside-school-hours care center, or adult day care center which is a legally distinct entity from the sponsoring organization;
 
-(c) Two or more child care centers, emergency shelters, at-risk afterschool care centers, outside-school-hours care center, or adult day care centers; or
+(3) Two or more child care centers, emergency shelters, at-risk afterschool care centers, outside-school-hours care center, or adult day care centers; or
 
-(d) Any combination of child care centers, emergency shelters, at-risk afterschool care centers, outside-school-hours care centers, adult day care centers, and day care homes. The term “sponsoring organization” also includes an organization that is entirely responsible for administration of the Program in any combination of two or more child care centers, at-risk afterschool care centers, adult day care centers or outside-school-hours care centers, which meet the definition of *For-profit center* in this section and are part of the same legal entity as the sponsoring organization.
+(4) Any combination of child care centers, emergency shelters, at-risk afterschool care centers, outside-school-hours care centers, adult day care centers, and day care homes.
+
+The term “sponsoring organization” also includes an organization that is entirely responsible for administration of the Program in any combination of two or more child care centers, at-risk afterschool care centers, adult day care centers or outside-school-hours care centers, which meet the definition of *For-profit center* in this section and are part of the same legal entity as the sponsoring organization.
 
 *Start-up payments* means financial assistance made available to a sponsoring organization for its administrative expenses associated with developing or expanding a food service program in day care homes and initiating successful Program operations. These start-up payments may include administrative expenses associated with outreach and recruitment of unlicensed family or group day care homes and the allowable licensing-related expenses of such homes.
 
@@ -296,9 +304,17 @@ Link to an amendment published at 88 FR 57850, Aug. 23, 2023.
 
 *Termination for cause* means the termination of a day care home's Program agreement by the sponsoring organization due to the day care home's violation of the agreement.
 
-*TANF recipient* means an individual or household receiving assistance (as defined in 45 CFR 260.31) under a State-administered Temporary Assistance to Needy Families program.
+*TANF recipient* means an individual or household receiving assistance (as defined in 45 CFR 260.31) under a State-administered Temporary Assistance for Needy Families program.
 
-*Termination for convenience* means termination of a day care home's Program agreement by either the sponsoring organization or the day care home, due to considerations unrelated to either party's performance of Program responsibilities under the agreement.
+*Termination for convenience* means termination of a Program agreement due to considerations unrelated to either party's performance of Program responsibilities under the agreement between:
+
+(1) A State agency and the independent center,
+
+(2) A State agency and the sponsoring organization,
+
+(3) A sponsoring organization and the unaffiliated center, or
+
+(4) A sponsoring organization and the day care home.
 
 *Tier I day care home* means (a) a day care home that is operated by a provider whose household meets the income standards for free or reduced-price meals, as determined by the sponsoring organization based on a completed free and reduced price application, and whose income is verified by the sponsoring organization of the home in accordance with § 226.23(h)(6);
 

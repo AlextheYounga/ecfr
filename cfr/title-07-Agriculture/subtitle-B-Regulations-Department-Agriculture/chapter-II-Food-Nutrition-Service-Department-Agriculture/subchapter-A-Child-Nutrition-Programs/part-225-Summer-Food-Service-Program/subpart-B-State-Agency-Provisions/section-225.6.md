@@ -1,7 +1,5 @@
 ##### § 225.6 State agency responsibilities. #####
 
-Link to an amendment published at 88 FR 57849, Aug. 23, 2023.
-
 (a) *General responsibilities.* (1) The State agency shall provide sufficient qualified consultative, technical, and managerial personnel to administer the Program, monitor performance, and measure progress in achieving Program goals. The State agency shall assign Program responsibilities to personnel to ensure that all applicable requirements under this part are met.
 
 (2) By February 1 of each fiscal year, each State agency shall announce the purpose, eligibility criteria, and availability of the Program throughout the State, through appropriate means of communication. As part of this effort, each State agency shall identify rural areas, Indian tribal territories, and areas with a concentration of migrant farm workers which qualify for the Program and actively seek eligible applicant sponsors to serve such areas. State agencies shall identify priority outreach areas in accordance with FNS guidance and target outreach efforts in these areas. State agencies must have established criteria for approving closed enrolled sites to ensure that operation of a site as closed enrolled does not limit Program access in the area that the site is located.
@@ -46,7 +44,7 @@ Link to an amendment published at 88 FR 57849, Aug. 23, 2023.
 
 (11) The State agency shall not approve the application of any applicant sponsor which submits fraudulent information or documentation when applying for Program participation or which knowingly withholds information that may lead to the disapproval of its application. Complete information regarding such disapproval of an applicant shall be submitted by the State agency through FNSRO to OIG.
 
-(c) *Content of sponsor application*—(1) *Application form.* (i) The sponsor must submit a written application to the State agency for participation in the Program. The State agency may use the application form developed by FNS, or develop its own application form. Application to sponsor the Program must be made on a timely basis within the deadlines established under paragraph (b)(1) of this section.
+(c) *Content of sponsor application*—(i) The sponsor must submit a written application to the State agency for participation in the Program. The State agency may use the application form developed by FNS, or develop its own application form, provided that the form requests the full legal name, any previously used names, mailing address; date of birth of the sponsor's responsible principals, which include the executive director and board chair; and the sponsor's Federal Employer Identification Number (FEIN) or Unique Entity Identifier (UEI). Application to sponsor the Program must be made on a timely basis within the deadlines established under paragraph (b)(1) of this section.
 
 (ii) At the discretion of the State agency, sponsors proposing to serve an area affected by an unanticipated school closure may be exempt from submitting a new application if they have participated in the Program at any time during the current year or in either of the prior two calendar years.
 
@@ -324,7 +322,7 @@ Link to an amendment published at 88 FR 57849, Aug. 23, 2023.
 
 (v) Upon approval of its application or any adjustment to its maximum approved levels, the sponsor shall inform the food service management company with which it contracts of the approved level for each meal service at each site served by the food service management company. This notification of any adjustments in approved levels shall take place within the time frames set forth in the contract for adjusting meal orders. Whenever the sponsor notifies the food service management company of the approved levels or any adjustments to these levels for any of its sites, the sponsor shall clearly inform the food service management company that an approved level of meal service represents the maximum number of meals which may be served at a site and is not a standing order for a specific number of meals at that site. When the number of children attending is below the site's approved level, the sponsor shall adjust meal orders with the objective of serving only one meal per child as required under § 225.15(b)(3).
 
-(i) *State-Sponsor Agreement.* A sponsor approved for participation in the Program must enter into a permanent written agreement with the State agency. All sponsors must agree in writing to:
+(i) *State-Sponsor agreement.* A sponsor approved for participation in the Program must enter into a permanent written agreement with the State agency. The existence of a valid permanent agreement does not limit the State agency's ability to terminate the agreement, as provided under § 225.11(c). The State agency must terminate the sponsor's agreement whenever a sponsor's participation in the Program ends. The State agency or sponsor may terminate the agreement at its convenience for considerations unrelated to the sponsor's performance of Program responsibilities under the agreement. However, any action initiated by the State agency to terminate an agreement for its convenience requires prior consultation with FNS. All sponsors must agree in writing to:
 
 (1) Operate a nonprofit food service during the period specified, as follows:
 
@@ -428,4 +426,4 @@ Link to an amendment published at 88 FR 57849, Aug. 23, 2023.
 
 (m) *Meal pattern exceptions.* The State agency shall review and act upon requests for exceptions to the meal pattern in accordance with the guidelines and limitations set forth in § 225.16.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13467, Apr. 10, 1990; ; 64 FR 72484, Dec. 28, 1999; 64 FR 72896, Dec. 29, 1999; 72 FR 10895, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13450, Feb. 28, 2013; 83 FR 25357, June 1, 2018; 84 FR 15501, Apr. 16, 2019; 87 FR 57356, Sept. 19, 2022]
+[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13467, Apr. 10, 1990; ; 64 FR 72484, Dec. 28, 1999; 64 FR 72896, Dec. 29, 1999; 72 FR 10895, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13450, Feb. 28, 2013; 83 FR 25357, June 1, 2018; 84 FR 15501, Apr. 16, 2019; 87 FR 57356, Sept. 19, 2022; 88 FR 57849, Aug. 23, 2023]

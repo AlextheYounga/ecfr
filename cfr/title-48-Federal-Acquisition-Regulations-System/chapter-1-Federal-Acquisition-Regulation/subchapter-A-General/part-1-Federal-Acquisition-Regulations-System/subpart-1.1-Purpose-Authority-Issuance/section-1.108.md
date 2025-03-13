@@ -1,12 +1,10 @@
 ##### 1.108 FAR conventions. #####
 
-Link to an amendment published at 88 FR 53751, Aug. 8, 2023.
-
 The following conventions provide guidance for interpreting the FAR:
 
 (a) *Words and terms.* Definitions in Part 2 apply to the entire regulation unless specifically defined in another part, subpart, section, provision, or clause. Words or terms defined in a specific part, subpart, section, provision, or clause have that meaning when used in that part, subpart, section, provision, or clause. Undefined words retain their common dictionary meaning.
 
-(b) *Delegation of authority.* Each authority is delegable unless specifically stated otherwise (see 1.102-4(b)).
+(b) *Delegation of authority.* Each authority is delegable unless specifically stated otherwise (see 1.102-5(b)).
 
 (c) *Dollar thresholds.* Unless otherwise specified, a specific dollar threshold for the purpose of applicability is the final anticipated dollar value of the action, including the dollar value of all options. If the action establishes a maximum quantity of supplies or services to be acquired or establishes a ceiling price or establishes the final price to be based on future events, the final anticipated dollar value must be the highest final priced alternative to the Government, including the dollar value of all options.
 
@@ -22,4 +20,4 @@ The following conventions provide guidance for interpreting the FAR:
 
 (f) *Imperative sentences.* When an imperative sentence directs action, the contracting officer is responsible for the action, unless another party is expressly cited.
 
-[65 FR 36015, June 6, 2000]
+[65 FR 36015, June 6, 2000, as amended at 88 FR 53751, Aug. 8, 2023]

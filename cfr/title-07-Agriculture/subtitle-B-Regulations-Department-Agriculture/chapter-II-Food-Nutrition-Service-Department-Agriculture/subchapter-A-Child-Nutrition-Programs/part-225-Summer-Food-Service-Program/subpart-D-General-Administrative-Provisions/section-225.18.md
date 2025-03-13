@@ -1,7 +1,5 @@
 ##### § 225.18 Miscellaneous administrative provisions. #####
 
-Link to an amendment published at 88 FR 57850, Aug. 23, 2023.
-
 (a) *Grant closeout procedures.* Grant closeout procedures for the Program shall be in accordance with 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415, as applicable.
 
 (b) *Termination for cause.* (1) FNS may terminate a State agency's participation in the Program in whole, or in part, whenever it is determined that the State agency has failed to comply with the conditions of the Program. FNS shall promptly notify the State agency in writing of the termination and reason for the termination, together with the effective date, and shall allow the State 30 calendar days to respond. In instances where the State does respond, FNS shall inform the State of its final determination no later than 30 calendar days after the State responds.
@@ -36,4 +34,36 @@ Link to an amendment published at 88 FR 57850, Aug. 23, 2023.
 
 (j) *Program evaluations.* States, State agencies, sponsors, sites and contractors must cooperate in studies and evaluations conducted by or on behalf of the Department, related to programs authorized under the Richard B. Russell National School Lunch Act and the Child Nutrition Act of 1966, as amended.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13471, Apr. 10, 1990; 64 FR 72488, Dec. 28, 1999; 71 FR 39518, July 13, 2006; 72 FR 24183, May 2, 2007; 76 FR 37982, June 29, 2011; 78 FR 13450, Feb. 28, 2013; 81 FR 66492, Sept. 28, 2016]
+(k) *Fines.* (1) A sponsor that is a school food authority may be subject to fines. The State agency may establish an assessment when it has determined that the sponsor or its site has:
+
+(i) Failed to correct severe mismanagement of the Program;
+
+(ii) Disregarded a Program requirement of which the sponsor or its site had been informed; or
+
+(iii) Failed to correct repeated violations of Program requirements.
+
+(2) FNS may direct the State agency to establish a fine against any sponsor when it has determined that the sponsor or its site has committed one or more acts under paragraph (k)(1) of this section.
+
+(3) Funds used to pay a fine established under this paragraph must be derived from non-Federal sources. In calculating an assessment, the State agency must calculate the fine based on the amount of Program reimbursement earned by the sponsor or its site for the most recent fiscal year for which full year data is available, provided that the fine does not exceed the equivalent of:
+
+(i) For the first fine, 1 percent of the amount of meal reimbursement earned for the fiscal year;
+
+(ii) For the second fine, 5 percent of the amount of meal reimbursement earned for the fiscal year; and
+
+(iii) For the third or subsequent fine, 10 percent of the amount of meal reimbursement earned for the fiscal year.
+
+(4) The State agency must inform FNS at least 30 days prior to establishing the fine under this paragraph. The State agency must send the sponsor written notification of the fine established under this paragraph and provide a copy of the notification to FNS. The notification must:
+
+(i) Specify the violations or actions which constitute the basis for the fine and indicate the amount of the fine;
+
+(ii) Inform the institution that it may appeal the fine and advise the sponsor of the appeal procedures established under § 225.13;
+
+(iii) Indicate the effective date and payment procedures should the sponsor not exercise its right to appeal within the specified timeframe.
+
+(5) Any sponsor subject to a fine under paragraph (k)(1) of this section may appeal the State agency's determination. In appealing a fine, the sponsor must submit to the State agency any pertinent information, explanation, or evidence addressing the Program violations identified by the State agency. Any sponsor seeking to appeal the State agency determination must follow State agency appeal procedures.
+
+(6) The decision of the State agency review official is final and not subject to further administrative or judicial review. Failure to pay a fine established under this paragraph may be grounds for suspension or termination.
+
+(7) Money received by the State agency as a result of a fine established under this paragraph against a sponsor and any interest charged in the collection of these fines must be remitted to FNS, and then remitted to the United States Treasury.
+
+[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13471, Apr. 10, 1990; 64 FR 72488, Dec. 28, 1999; 71 FR 39518, July 13, 2006; 72 FR 24183, May 2, 2007; 76 FR 37982, June 29, 2011; 78 FR 13450, Feb. 28, 2013; 81 FR 66492, Sept. 28, 2016; 88 FR 57850, Aug. 23, 2023]

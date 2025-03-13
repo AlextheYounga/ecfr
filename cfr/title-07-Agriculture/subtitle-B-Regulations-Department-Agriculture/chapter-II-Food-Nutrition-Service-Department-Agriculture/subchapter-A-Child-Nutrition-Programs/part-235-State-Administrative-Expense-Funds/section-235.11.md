@@ -1,7 +1,5 @@
 ##### § 235.11 Other provisions. #####
 
-Link to an amendment published at 88 FR 57859, Aug. 23, 2023.
-
 (a) *State funds.* Expenditures of funds from State sources in any fiscal year for the administration of the National School Lunch Program, School Breakfast Program, Special Milk Program, Child and Adult Care Food Program shall not be less than that expended or obligated in fiscal year 1977. Failure of a State to maintain this level of funding will result in the total withdrawal of SAE funds. State agencies shall follow the provisions of 2 CFR part 200, subpart E and USDA implementing regulations 2 CFR part 400 and part 415 in identifying and documenting expenditures of funds from State revenues to meet the State funding requirement of this paragraph.
 
 (b) *Sanctions imposed.* (1) FNS may recover, withhold or cancel payment of up to one hundred (100) percent of the funds payable to a State agency under this part, whenever it is determined by FNS that the State agency has failed to comply with the requirements contained in this part and in parts 210, 215, 220 and 226 of this title and in part 250 of this title as it applies to the operation of the Food Distribution Program in schools and child and adult care institutions.
@@ -42,25 +40,43 @@ Link to an amendment published at 88 FR 57859, Aug. 23, 2023.
 
 (7) Any State agency which has a sanction imposed against it in accordance with this paragraph shall not be eligible to participate in any reallocation of SAE funds under § 235.5(d) of this part during any fiscal year in which such sanction is being applied.
 
-(c) *Termination for convenience.* FNS and the State agency may terminate the State agency's participation under this part in whole, or in part, when both parties agree that continuation would not produce beneficial results commensurate with the further expenditure of funds. The two parties shall agree upon the termination conditions, including the effective date and, in the case of partial termination, the portion to be terminated. The State agency shall not incur new obligations for the terminated portion after the effective date, and shall cancel as many outstanding obligations as possible. FNS shall allow full credit to the State agency for the Federal share of the noncancellable obligations, properly incurred by the State agency prior to termination.
+(c) *Fines.* (1) FNS may establish a fine against any State agency administering the programs under parts 210, 215, 220, 225, 226, and 250 of this chapter, as it applies to the operation of the Food Distribution Program in schools and child and adult care institutions, when it has determined that the State agency has:
 
-(d) In taking any action under paragraphs (b) or (c) of this section, FNS and the State agency shall comply with the provisions of 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415 concerning grant suspension, termination and closeout procedures.
+(i) Failed to correct severe mismanagement of the programs;
 
-(e) *State requirements.* Nothing contained in this part shall prevent a State agency from imposing additional operating requirements which are not inconsistent with the provisions of this part.
+(ii) Disregarded a program requirement of which the State has been informed; or
 
-(f) *Administrative review process.* When FNS asserts a sanction against a State agency under the provisions of paragraph (b) of this section, the State agency may appeal the case and be afforded a review by an FNS Administrative Review Officer of the record including any additional written submissions prepared by the State agency.
+(iii) Failed to correct repeated violations of program requirements.
 
-(1) FNS shall provide a written notice and shall ensure the receipt of such notice when asserting a sanction against a State agency.
+(2) Funds used to pay a fine established under paragraph (c)(1) of this section must be derived from non-Federal sources. The amount of the fine will not exceed the equivalent of:
 
-(2) A State agency aggrieved by a sanction asserted against it may file a written request with the Director, Administrative Review Staff, U.S. Department of Agriculture, Food and Nutrition Service, 3101 Park Center Drive, Alexandria, Va. 22302 for a review of the record. Such request must be postmarked within 30 calendar days of the date of delivery of the sanction notice and the envelope containing the request shall be prominently marked “REQUEST FOR REVIEW.” If the State agency does not request a review within 30 calendar days of the date of delivery of the sanction notice, the administrative decision on the sanction shall be final.
+(i) For the first fine, 1 percent of all allocations made available under § 235.4 during the most recent fiscal year for which full year data are available;
 
-(3) Upon receipt of a request for review, FNS shall promptly provide the State agency with a written acknowledgment of the request. The acknowledgment shall include the name and address of the FNS Administrative Review Officer reviewing the sanction. The acknowledgment shall also notify the State agency that any additional information in support of its position must be submitted within 30 calendar days of the receipt of the acknowledgment.
+(ii) For the second fine, 5 percent of all allocations made available under § 235.4 during the most recent fiscal year for which full year data are available; and
+
+(iii) For the third or subsequent fines, 10 percent of all allocations made available under § 235.4 during the most recent fiscal year for which full year data are available.
+
+(3) State agencies seeking to appeal a fine established under this paragraph must follow the procedures set forth in this paragraph (g).
+
+(d) *Termination for convenience.* FNS and the State agency may terminate the State agency's participation under this part in whole, or in part, when both parties agree that continuation would not produce beneficial results commensurate with the further expenditure of funds. The two parties shall agree upon the termination conditions, including the effective date and, in the case of partial termination, the portion to be terminated. The State agency shall not incur new obligations for the terminated portion after the effective date, and shall cancel as many outstanding obligations as possible. FNS shall allow full credit to the State agency for the Federal share of the noncancellable obligations, properly incurred by the State agency prior to termination.
+
+(e) In taking any action under paragraphs (b), (c), or (d) of this section, FNS and the State agency shall comply with the provisions of 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415 concerning grant suspension, termination and closeout procedures.
+
+(f) *State requirements.* Nothing contained in this part shall prevent a State agency from imposing additional operating requirements which are not inconsistent with the provisions of this part.
+
+(g) *Administrative review process.* When FNS asserts a sanction or fine against a State agency under the provisions of paragraphs (b) and (c) of this section, the State agency may appeal the case and be afforded a review by an FNS Administrative Review Officer of the record including any additional written submissions prepared by the State agency.
+
+(1) FNS shall provide a written notice and shall ensure the receipt of such notice when asserting a sanction or fine against a State agency.
+
+(2) A State agency aggrieved by a sanction or fine asserted against it may file a written request with the Director, Administrative Review Staff, U.S. Department of Agriculture, Food and Nutrition Service, 3101 Park Center Drive, Alexandria, Va. 22302 for a review of the record. Such request must be postmarked within 30 calendar days of the date of delivery of the sanction or fine notice and the envelope containing the request shall be prominently marked “REQUEST FOR REVIEW.” If the State agency does not request a review within 30 calendar days of the date of delivery of the sanction or fine notice, the administrative decision on the sanction or fine shall be final.
+
+(3) Upon receipt of a request for review, FNS shall promptly provide the State agency with a written acknowledgment of the request. The acknowledgment shall include the name and address of the FNS Administrative Review Officer reviewing the sanction or fine. The acknowledgment shall also notify the State agency that any additional information in support of its position must be submitted within 30 calendar days of the receipt of the acknowledgment.
 
 (4) When a review is requested, the FNS Administrative Review Officer shall review all available information and shall make a final determination within 45 calendar days after receipt of the State agency's additional information. The final determination shall take effect upon delivery of the written notice of this final decision to the State agency.
 
 (5) The final determination of the FNS Administrative Review Officer will be the Department's final decision in the case and will not be subject to reconsideration.
 
-(g) *Professional standards.* State agencies must meet the minimum hiring and training standards established by FNS.
+(h) *Professional standards.* State agencies must meet the minimum hiring and training standards established by FNS.
 
 (1) *Hiring standards for State directors of school nutrition programs.* Beginning July 1, 2015, newly hired State agency directors with responsibility for the administration of the National School Lunch Program under part 210 of this chapter and the School Breakfast Program under part 220 of this chapter must have:
 
@@ -88,7 +104,7 @@ Link to an amendment published at 88 FR 57859, Aug. 23, 2023.
 
 (iv) It is also strongly preferred that new hires possess at least five years of experience in institutional food service operations.
 
-(3) *Continuing education/training standards for State directors of school nutrition programs and distributing agencies.* Each school year, all State directors with responsibility for the National School Lunch Program under part 210 of this chapter and the School Breakfast Program under part 220 of this chapter, as well as those responsible for the distribution of USDA donated foods under part 250 of this chapter, must complete a minimum of 15 hours of training in core areas that may include nutrition, operations, administration, communications and marketing. Additional hours and topics may be specified by FNS, as needed, to address Program integrity and other critical issues.
+(3) *Continuing education and training standards for State directors of school nutrition programs and distributing agencies.* Each school year, all State directors with responsibility for the National School Lunch Program under part 210 of this chapter and the School Breakfast Program under part 220 of this chapter, as well as those responsible for the distribution of USDA donated foods under part 250 of this chapter, must complete a minimum of 15 hours of training in core areas that may include nutrition, operations, administration, communications and marketing. State directors tasked with National School Lunch Program procurement responsibilities must complete annual procurement training, as required under § 210.21(h) of this chapter. Additional hours and topics may be specified by FNS, as needed, to address program integrity and other critical issues.
 
 (4) *Provision of annual training.* At least annually, State agencies with responsibility for the National School Lunch Program under part 210 of this chapter and the School Breakfast Program under part 220 of this chapter, as well as State agencies with responsibility for the distribution of USDA donated foods under part 250 of this chapter, must provide or ensure that State agency staff receive annual continuing education/training.
 

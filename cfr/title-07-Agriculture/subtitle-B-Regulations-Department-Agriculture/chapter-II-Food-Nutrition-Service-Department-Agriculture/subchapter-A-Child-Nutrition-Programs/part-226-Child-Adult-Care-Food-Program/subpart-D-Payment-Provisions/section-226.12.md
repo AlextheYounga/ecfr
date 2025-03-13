@@ -1,18 +1,26 @@
 ##### § 226.12 Administrative payments to sponsoring organizations for day care homes. #####
 
-Link to an amendment published at 88 FR 57856, Aug. 23, 2023.
+(a) *General.* Sponsoring organizations of day care homes receive payments for administrative costs, subject to the following conditions:
 
-(a) *General.* Sponsoring organizations for day care homes shall receive payments for administrative costs. During any fiscal year, administrative costs payments to a sponsoring organization may not exceed the lesser of (1) actual expenditures for the costs of administering the Program less income to the Program, or (2) the amount of administrative costs approved by the State agency in the sponsoring organization's budget, or (3) the sum of the products obtained by multiplying each month the sponsoring organization's:
+(1) Sponsoring organizations will receive reimbursement for the administrative costs of the sponsoring organization in an amount that is not less than the product obtained each month by multiplying:
 
-(i) Initial 50 day care homes by 42 dollars;
+(i) The number of day care homes of the sponsoring organization submitting a claim for reimbursement during the month, by
 
-(ii) Next 150 day care homes by 32 dollars;
+(ii) The appropriate administrative rates announced annually in the Federal Register.
 
-(iii) Next 800 day care homes by 25 dollars; and
+(2) FNS determines administrative reimbursement by annually adjusting the following base administrative rates, as set forth in § 226.4(i):
 
-(iv) Additional day care homes by 22 dollars.
+(i) Initial 50 day care homes, 42 dollars;
 
-During any fiscal year, administrative payments to a sponsoring organization may not exceed 30 percent of the total amount of administrative payments and food service payments for day care home operations.
+(ii) Next 150 day care homes, 32 dollars;
+
+(iii) Next 800 day care homes, 25 dollars;
+
+(iv) Additional day care homes, 22 dollars.
+
+(3) With State agency approval, a sponsoring organization may carry over a maximum of 10 percent of administrative funds received under paragraph (a)(1) of this section for use in the following fiscal year. If any carryover funds are not obligated or expended in the following fiscal year, they must be returned to the State agency, as described in § 226.7(j).
+
+(4) State agencies must recover any administrative funds not properly payable, as described in FNS Instruction 796-2.
 
 (b) *Start-up and expansion payments.* (1) Prospective sponsoring organizations of day care homes, participating sponsoring organizations of child care centers or outside-school-hours care centers, independent centers, and participating sponsoring organizations of less than 50 homes which meet the criteria in paragraph (b)(2) of this section shall be entitled to receive start-up payments to develop or expand successful Program operations in day care homes. Participating sponsoring organizations of day care homes which meet the criteria in paragraph (b)(2) of this section shall be entitled to receive expansion payments to initiate or expand Program operations in day care homes in low-income or rural areas. The State agency shall approve start-up payments only once for any eligible sponsoring organization, but may approve expansion payments for any eligible sponsoring organization more than once, provided that: the request must be for expansion into an area(s) other than that specified in their initial or prior request; and 12 months has elapsed since the sponsoring organization has satisfied all obligations under its initial or prior expansion agreement. Eligible sponsoring organizations which have received start-up payments shall be eligible to apply for expansion payments at a date no earlier than 12 months after it has satisfied all its obligations under its start-up agreement with the State agency.
 
@@ -42,4 +50,4 @@ During any fiscal year, administrative payments to a sponsoring organization may
 
 (6) Upon expiration of the time allotted to the sponsoring organization for initiating or expanding Program operations in day care homes, the State agency shall obtain and review documentation of activities performed and costs incurred by the sponsoring organization under the terms of the start-up or expansion agreement. If the sponsoring organization has not made every reasonable effort to carry out the activities specified in the agreement, the State agency shall demand repayment of all or part of the payment. The sponsoring organization may retain start-up or expansion payments for all day care homes which initiate Program operations. However, no sponsoring organization may retain any start-up or expansion payments in excess of its actual costs for the expenditures specified in the agreement.
 
-[47 FR 36527, Aug. 20, 1982; 47 FR 46072, Oct. 15, 1982, as amended at 53 FR 52590, Dec. 28, 1988; 63 FR 9728, Feb. 26, 1998; 67 FR 43490, June 27, 2002]
+[47 FR 36527, Aug. 20, 1982; 47 FR 46072, Oct. 15, 1982, as amended at 53 FR 52590, Dec. 28, 1988; 63 FR 9728, Feb. 26, 1998; 67 FR 43490, June 27, 2002; 88 FR 57856, Aug. 23, 2023]

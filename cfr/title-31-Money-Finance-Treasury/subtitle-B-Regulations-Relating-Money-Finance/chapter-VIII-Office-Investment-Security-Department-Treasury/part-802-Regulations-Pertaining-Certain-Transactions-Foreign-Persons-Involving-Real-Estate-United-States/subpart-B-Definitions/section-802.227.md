@@ -1,7 +1,5 @@
 ##### § 802.227 Military installation. #####
 
-Link to an amendment published at 88 FR 57350, Aug. 23, 2023.
-
 The term *military installation* means any site that meets the following category descriptions, as identified in the list at appendix A to this part:
 
 (a) Active Air Force ballistic missile fields;
@@ -28,10 +26,12 @@ The term *military installation* means any site that meets the following categor
 
 (l) Marine Corps bases and air stations and major annexes thereof, excluding detachments, installations, logistics battalions, recruit depots, and support facilities;
 
-(m) Military ranges as defined in 10 U.S.C. 101(e)(1) owned by the Navy or Air Force, or joint forces training centers that are located in any of the following states: Oregon, Nevada, Idaho, Wisconsin, Mississippi, North Carolina, or Florida;
+(m) Military ranges as defined in 10 U.S.C. 101(e)(1) owned by the Navy or Air Force, or joint forces training centers that are located in any of the following states: Arizona, California, Florida, Idaho, Iowa, Mississippi, Nevada, North Carolina, North Dakota, Oregon, South Dakota, Texas, or Wisconsin;
 
 (n) Naval bases and air stations containing squadrons and supporting commands of the Submarine Force Atlantic or Submarine Force Pacific and major offices thereof;
 
 (o) Naval surface, air, and undersea warfare centers and research laboratories and major annexes thereof; and
 
 (p) Navy off-shore range complexes and off-shore operating areas.
+
+{85 FR 3166, Jan. 17, 2020, as amended at 88 FR 57350, Aug. 23, 2023]

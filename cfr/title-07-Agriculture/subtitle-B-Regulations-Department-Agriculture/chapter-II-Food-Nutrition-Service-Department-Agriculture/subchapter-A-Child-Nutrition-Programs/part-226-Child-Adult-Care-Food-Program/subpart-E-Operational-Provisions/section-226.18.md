@@ -1,7 +1,5 @@
 ##### § 226.18 Day care home provisions. #####
 
-Link to an amendment published at 88 FR 57857, Aug. 23, 2023.
-
 (a) Day care homes shall have current Federal, State or local licensing or approval to provide day care services to children. Day care homes which cannot obtain their license because they lack the funding to comply with licensing standards may request a total limit per home of $300 in administrative funds from a sponsoring organization to assist them in obtaining their license. Day care homes that, at the option of their sponsoring organization, receive administrative funds for licensing-related expenses must complete documentation requested by their sponsor as described in § 226.16(k) prior to receiving any funds. The agreement must be signed by the sponsoring organization and the provider and must include the provider's full name, mailing address, and date of birth. Day care homes which are complying with applicable procedures to renew licensing or approval may participate in the Program during the renewal process, unless the State agency has information which indicates that renewal will be denied. If licensing or approval is not available, a day care home may participate in the Program if:
 
 (1) It receives title XX funds for providing child care; or
@@ -30,17 +28,25 @@ Link to an amendment published at 88 FR 57857, Aug. 23, 2023.
 
 (10) If the State agency has approved a time limit for submission of meal records by day care homes, that time limit shall be stated in the agreement;
 
-(11) The responsibility of the sponsoring organization to inform tier II day care homes of all of their options for receiving reimbursement for meals served to enrolled children. These options include: electing to have the sponsoring organization attempt to identify all income-eligible children enrolled in the day care home, through collection of free and reduced price applications and/or possession by the sponsoring organization or day care home of other proof of a child or household's participation in a categorically eligible program, and receiving tier I rates of reimbursement for the meals served to identified income-eligible children; electing to have the sponsoring organization identify only those children for whom the sponsoring organization or day care home possess documentation of the child or household's participation in a categorically eligible program, under the expanded categorical eligibility provision contained in § 226.23(e)(1), and receiving tier I rates of reimbursement for the meals served to these children; or receiving tier II rates of reimbursement for all meals served to enrolled children;
+(11) The responsibility of the sponsoring organization to inform tier II day care homes of all of their options for receiving reimbursement for meals served to enrolled children. These options include:
+
+(i) Receiving tier I rates for the meals served to eligible enrolled children, by electing to have the sponsoring organization identify all income-eligible children through the collection of free and reduced-price applications and the sponsoring organization or day care home's possession of other proof of a child or household's participation in a categorically eligible program;
+
+(ii) Receiving tier I rates for the meals served to eligible enrolled children, by electing to have the sponsoring organization identify only those children for whom the sponsoring organization or day care home possess documentation of the child or household's participation in a categorically eligible program, under the expanded categorical eligibility provision, as described in § 226.23(e)(1); or
+
+(iii) Receiving tier II rates of reimbursement for all meals served to enrolled children;
 
 (12) The responsibility of the sponsoring organization, upon the request of a tier II day care home, to collect applications and determine the eligibility of enrolled children for free or reduced price meals;
 
-(13) The State agency's policy to restrict transfers of day care homes between sponsoring organizations;
+(13) The right of the tier II day care home to assist in collecting applications from households and transmitting the applications to the sponsoring organization. However, a tier II day care home may not review the collected applications. The sponsoring organizations may prohibit a tier II day care home from assisting in collection and transmittal of applications if the day care home does not comply with the process, as described in § 226.23(e)(2)(viii);
 
-(14) The responsibility of the day care home to notify their sponsoring organization in advance whenever they are planning to be out of their home during the meal service period. The agreement must also state that, if this procedure is not followed and an unannounced review is conducted when the children are not present in the day care home, claims for meals that would have been served during the unannounced review will be disallowed;
+(14) The State agency's policy to restrict transfers of day care homes between sponsoring organizations;
 
-(15) The day care home's opportunity to request an administrative review if a sponsoring organization issues a notice of proposed termination of the day care home's Program agreement, or if a sponsoring organization suspends participation due to health and safety concerns, in accordance with § 226.6(1)(2); and
+(15) The responsibility of the day care home to notify their sponsoring organization in advance whenever they are planning to be out of their home during the meal service period. The agreement must also state that, if this procedure is not followed and an unannounced review is conducted when the children are not present in the day care home, claims for meals that would have been served during the unannounced review will be disallowed;
 
-(16) If so instructed by its sponsoring organization, the day care home's responsibility to distribute to parents a copy of the sponsoring organization's notice to parents.
+(16) The day care home's opportunity to request an administrative review if a sponsoring organization issues a notice of proposed termination of the day care home's Program agreement, or if a sponsoring organization suspends participation due to health and safety concerns, in accordance with § 226.6(1)(2); and
+
+(17) If so instructed by its sponsoring organization, the day care home's responsibility to distribute to parents a copy of the sponsoring organization's notice to parents.
 
 (c) Each day care home must serve one or more of the following meal types—breakfast, lunch, supper, and snack. Reimbursement may not be claimed for more than two meals and one snack, or one meal and two snacks, provided daily to each child.
 

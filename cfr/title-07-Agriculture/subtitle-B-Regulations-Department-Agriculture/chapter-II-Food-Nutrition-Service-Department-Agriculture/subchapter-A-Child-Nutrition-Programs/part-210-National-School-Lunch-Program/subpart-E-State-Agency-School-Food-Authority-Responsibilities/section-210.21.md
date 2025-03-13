@@ -1,7 +1,5 @@
 ##### § 210.21 Procurement. #####
 
-Link to an amendment published at 88 FR 57847, Aug. 23, 2023.
-
 (a) *General.* State agencies and school food authorities shall comply with the requirements of this part and 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415, as applicable, which implement the applicable requirements, concerning the procurement of all goods and services with nonprofit school food service account funds.
 
 (b) *Contractual responsibilities.* The standards contained in this part and 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415, as applicable, do not relieve the State agency or school food authority of any contractual responsibilities under its contracts. The State agency or school food authority is the responsible authority, without recourse to FNS, regarding the settlement and satisfaction of all contractual and administrative issues arising out of procurements entered into in connection with the Program. This includes, but is not limited to source evaluation, protests, disputes, claims, or other matters of a contractual nature. Matters concerning violation of law are to be referred to the local, State, or Federal authority that has proper jurisdiction.
@@ -54,4 +52,10 @@ Link to an amendment published at 88 FR 57847, Aug. 23, 2023.
 
 (2) For the purpose of applying the optional geographic procurement preference in paragraph (g)(1) of this section, “unprocessed locally grown or locally raised agricultural products” means only those agricultural products that retain their inherent character. The effects of the following food handling and preservation techniques shall not be considered as changing an agricultural product into a product of a different kind or character: Cooling; refrigerating; freezing; size adjustment made by peeling, slicing, dicing, cutting, chopping, shucking, and grinding; forming ground products into patties without any additives or fillers; drying/dehydration; washing; packaging (such as placing eggs in cartons), vacuum packing and bagging (such as placing vegetables in bags or combining two or more types of vegetables or fruits in a single package); the addition of ascorbic acid or other preservatives to prevent oxidation of produce; butchering livestock and poultry; cleaning fish; and the pasteurization of milk.
 
-[53 FR 29147, Aug. 2, 1988, as amended at 64 FR 50741, Sept. 20, 1999; 70 FR 70033, Nov. 21, 2005; 71 FR 39516, July 13, 2006; 72 FR 61491, Oct. 31, 2007; 76 FR 22607, Apr. 22, 2011; 77 FR 4153, Jan. 26, 2012; 81 FR 66489, Sept. 28, 2016]
+(h) *Procurement training.* (1) State directors of school nutrition programs, State directors of distributing agencies, and school nutrition program directors, management, and staff tasked with National School Lunch Program procurement responsibilities must complete annual training on Federal procurement standards annually.
+
+(2) Procurement training may count towards the professional standards training standards at § 210.30(g) of this part and § 235.11(h) of this chapter.
+
+(3) State agencies and school food authorities must retain records to document compliance with the requirement in this section.
+
+[53 FR 29147, Aug. 2, 1988, as amended at 64 FR 50741, Sept. 20, 1999; 70 FR 70033, Nov. 21, 2005; 71 FR 39516, July 13, 2006; 72 FR 61491, Oct. 31, 2007; 76 FR 22607, Apr. 22, 2011; 77 FR 4153, Jan. 26, 2012; 81 FR 66489, Sept. 28, 2016; 88 FR 57847, Aug. 23, 2023]

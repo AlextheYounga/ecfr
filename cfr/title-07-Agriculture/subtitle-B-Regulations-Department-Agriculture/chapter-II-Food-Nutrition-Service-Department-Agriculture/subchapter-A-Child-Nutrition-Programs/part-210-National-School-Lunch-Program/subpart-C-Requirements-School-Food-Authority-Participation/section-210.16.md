@@ -1,7 +1,5 @@
 ##### § 210.16 Food service management companies. #####
 
-Link to an amendment published at 88 FR 57845, Aug. 23, 2023.
-
 (a) *General.* Any school food authority (including a State agency acting in the capacity of a school food authority) may contract with a food service management company to manage its food service operation in one or more of its schools. However, no school or school food authority may contract with a food service management company to operate an a la carte food service unless the company agrees to offer free, reduced price and paid reimbursable lunches to all eligible children. Any school food authority that employs a food service management company in the operation of its nonprofit school food service shall:
 
 (1) Adhere to the procurement standards specified in § 210.21 when contracting with the food service management company;
@@ -38,6 +36,8 @@ Link to an amendment published at 88 FR 57845, Aug. 23, 2023.
 
 (3) No payment is to be made for meals that are spoiled or unwholesome at time of delivery, do not meet detailed specifications as developed by the school food authority for each food component specified in § 210.10, or do not otherwise meet the requirements of the contract. Specifications shall cover items such a grade, purchase units, style, condition, weight, ingredients, formulations, and delivery time.
 
+(4) Provisions in part 250, subpart D of this chapter must be included to ensure the value of donated foods, *i.e.,* USDA Foods, are fully used in the nonprofit food service and credited to the nonprofit school food service account.
+
 (d) *Duration of contract.* The contract between a school food authority and food service management company shall be of a duration of no longer than 1 year; and options for the yearly renewal of a contract signed after February 16, 1988, may not exceed 4 additional years. All contracts shall include a termination clause whereby either party may cancel for cause with 60-day notification.
 
-[53 FR 29147, Aug. 2, 1988, as amended at 60 FR 31215, June 13, 1995; 65 FR 26912, May 9, 2000; 72 FR 61491, Oct. 31, 2007]
+[53 FR 29147, Aug. 2, 1988, as amended at 60 FR 31215, June 13, 1995; 65 FR 26912, May 9, 2000; 72 FR 61491, Oct. 31, 2007; 88 FR 57845, Aug. 23, 2023]

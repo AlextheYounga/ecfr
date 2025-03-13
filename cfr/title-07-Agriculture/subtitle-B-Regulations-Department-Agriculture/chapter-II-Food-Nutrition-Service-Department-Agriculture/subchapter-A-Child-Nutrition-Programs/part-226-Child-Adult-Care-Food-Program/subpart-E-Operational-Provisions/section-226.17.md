@@ -1,7 +1,5 @@
 ##### § 226.17 Child care center provisions. #####
 
-Link to an amendment published at 88 FR 57856, Aug. 23, 2023.
-
 (a) Child care centers may participate in the Program either as independent centers or under the auspices of a sponsoring organization; provided, however, that public and private nonprofit centers shall not be eligible to participate in the Program under the auspices of a for-profit sponsoring organization. Child care centers participating as independent centers shall comply with the provisions of § 226.15.
 
 (b) All child care centers, independent or sponsored, shall meet the following requirements
@@ -30,4 +28,8 @@ Link to an amendment published at 88 FR 57856, Aug. 23, 2023.
 
 (d) If so instructed by its sponsoring organization, a sponsored center must distribute to parents a copy of the sponsoring organization's notice to parents.
 
-[47 FR 36527, Aug. 20, 1982, as amended at 52 FR 36907, Oct. 2, 1987; 53 FR 52591, Dec. 28, 1988; 54 FR 26724, June 26, 1989; Amdt. 22, 55 FR 1378, Jan. 14, 1990; 61 FR 25554, May 22, 1996; 62 FR 23619, May 1, 1997; 63 FR 9729, Feb. 26, 1998; 64 FR 72261, Dec. 27, 1999; 67 FR 43493, June 27, 2002; 69 FR 53546, Sept. 1, 2004; 70 FR 43262, July 27, 2005; 72 FR 41608, July 31, 2007; 75 FR 16328, Apr. 1, 2010; 78 FR 13451, Feb. 28, 2013]
+(e) Unaffiliated sponsored child care centers must enter into a written permanent agreement with the sponsoring organization. The agreement must specify the rights and responsibilities of both parties. At a minimum, the agreement must include the provisions set forth in paragraph (b) of this section.
+
+(f) Independent child care centers must enter into a written permanent agreement with the State agency. The agreement must specify the rights and responsibilities of both parties as required by § 226.6(b)(4). At a minimum, the agreement must include the provisions set forth in paragraph (b) of this section.
+
+[47 FR 36527, Aug. 20, 1982, as amended at 52 FR 36907, Oct. 2, 1987; 53 FR 52591, Dec. 28, 1988; 54 FR 26724, June 26, 1989; Amdt. 22, 55 FR 1378, Jan. 14, 1990; 61 FR 25554, May 22, 1996; 62 FR 23619, May 1, 1997; 63 FR 9729, Feb. 26, 1998; 64 FR 72261, Dec. 27, 1999; 67 FR 43493, June 27, 2002; 69 FR 53546, Sept. 1, 2004; 70 FR 43262, July 27, 2005; 72 FR 41608, July 31, 2007; 75 FR 16328, Apr. 1, 2010; 78 FR 13451, Feb. 28, 2013; 88 FR 57856, Aug. 23, 2023]

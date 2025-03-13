@@ -1,7 +1,5 @@
 ##### § 226.17a At-risk afterschool care center provisions. #####
 
-Link to an amendment published at 88 FR 57856, Aug. 23, 2023.
-
 (a) *Organizations eligible to receive reimbursement for at-risk afterschool snacks and at-risk afterschool meals*—(1) *Eligible organizations.* To receive reimbursement for at-risk afterschool snacks, organizations must meet the criteria in paragraphs (a)(1)(i) through (a)(1)(iv) of this section. To receive reimbursement for at-risk afterschool meals, organizations must meet the criteria in paragraphs (a)(1)(i) through (a)(1)(v) of this section.
 
 (i) Organizations must meet the definition of an *At-risk afterschool care center* in § 226.2. An organization may participate in the Program either as an independent center or as a child care facility under the auspices of a sponsoring organization. Public and private nonprofit centers may not participate under the auspices of a for-profit sponsoring organization.
@@ -54,9 +52,13 @@ Link to an amendment published at 88 FR 57856, Aug. 23, 2023.
 
 (f) *State agency action on applications*—(1) *State agency approval.* The State agency must determine the eligibility of the afterschool care program for each sponsored afterschool care center based on the information submitted by the sponsoring organization in accordance with §§ 226.6(b)(1) and 226.15(g) and the requirements of this section. The State agency must determine the eligibility of the afterschool care programs of independent afterschool care centers based on the information submitted by the independent center in accordance with § 226.6(b)(1) and the requirements of this section. The State agency must determine the area eligibility of independent at-risk afterschool care centers in accordance with the requirements of § 226.6(f)(1)(ix)(B). An approved organization must enter into an agreement with the State agency as described in paragraph (f)(2) of this section.
 
-(2) *Agreement.* The State agency must enter into a permanent agreement with an institution approved to operate one or more at-risk afterschool care centers pursuant to § 226.6(b)(4). The agreement must describe the approved afterschool care program(s) and list the approved center(s). The agreement must also require the institution to comply with the applicable requirements of this part.
+(2) *Agreements.* The State agency must enter into a permanent agreement with an institution approved to operate one or more at-risk afterschool care centers, as described in § 226.6(b)(4). The agreement must describe the approved afterschool care programs and list the approved centers. The agreement must also require the institution to comply with the applicable requirements of this part 226.
 
-(g) *Application process in subsequent years.* To continue participating in the Program, independent at-risk afterschool care centers or sponsoring organizations of at-risk afterschool care centers must reapply at time intervals required by the State agency, as described in § 226.6(b)(3) and (f)(2). Sponsoring organizations of at-risk afterschool care centers must provide area eligibility data in compliance with the provisions of § 226.15(g). In accordance with § 226.6(f)(3)(ii), State agencies must determine the area eligibility of each independent at-risk afterschool care center that is reapplying to participate in the Program.
+(i) Unaffiliated sponsored afterschool care centers must enter into a written permanent agreement with the sponsoring organization. The agreement must specify the rights and responsibilities of both parties. At a minimum, the agreement must include the applicable provisions set forth in this section.
+
+(ii) Independent afterschool care centers must enter into a written permanent agreement with the State agency. The agreement must specify the rights and responsibilities of both parties as required by § 226.6(b)(4). At a minimum, the agreement must include the applicable provisions set forth in this section.
+
+(g) *Application process in subsequent years.* To continue participating in the Program, independent at-risk afterschool care centers must comply with the annual information submission requirements, as described in §§ 226.6(b)(2)(i) and (f)(3)(ii). Sponsoring organizations of at-risk afterschool care centers must comply with the annual information submission requirements, as described in in § 226.6(b)(2)(ii), and provide area eligibility data, as described in § 226.15(g).
 
 (h) *Changes to participating centers.* Independent at-risk afterschool care centers or sponsors of at-risk afterschool care centers must advise the State agency of any substantive changes to the afterschool care program. Sponsoring organizations that want to add new at-risk afterschool care centers must provide the State agency with the information sufficient to demonstrate that the new centers meet the requirements of this section.
 
@@ -94,4 +96,4 @@ Link to an amendment published at 88 FR 57856, Aug. 23, 2023.
 
 (q) *Monitoring requirements.* State agencies must monitor independent centers in accordance with § 226.6(m). Sponsoring organizations of at-risk afterschool care centers must monitor their centers in accordance with § 226.16(d)(4).
 
-[72 FR 41608, July 31, 2007, as amended at 75 FR 16328, Apr. 1, 2010; 78 FR 13451, Feb. 28, 2013]
+[72 FR 41608, July 31, 2007, as amended at 75 FR 16328, Apr. 1, 2010; 78 FR 13451, Feb. 28, 2013; 88 FR 57856, Aug. 23, 2023]

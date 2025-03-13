@@ -1,8 +1,6 @@
 ##### § 226.21 Food service management companies. #####
 
-Link to an amendment published at 88 FR 57857, Aug. 23, 2023.
-
-(a) Any institution may contract with a food service management company. An institution which contracts with a food service management company shall remain responsible for ensuring that the food service operation conforms to its agreement with the State agency. All procurements of meals from food service management companies shall adhere to the procurement standards set forth in § 226.22. Public institutions shall follow applicable State or local laws governing bid procedures. In the absence of any applicable State or local laws, and in addition to the procurement provisions set forth in § 226.22, the State agency may mandate that each institution with Program meal contracts of an aggregate value in excess of $10,000 formally advertise such contracts and comply with the following procedures intended to prevent fraud, waste, and Program abuse:
+(a) Any institution may contract with a food service management company. An institution which contracts with a food service management company must remain responsible for ensuring that the food service operation conforms to its agreement with the State agency. All procurements of meals from food service management companies must adhere to the procurement standards set forth in § 226.22 and comply with the following procedures intended to prevent fraud, waste, and Program abuse:
 
 (1) All proposed contracts shall be publicly announced at least once 14 calendar days prior to the opening of bids. The announcement shall include the time and place of the bid opening;
 
@@ -28,4 +26,4 @@ Link to an amendment published at 88 FR 57857, Aug. 23, 2023.
 
 (e) A food service management company may not subcontract for the total meal, with or without milk, or for the assembly of the meal.
 
-[47 FR 36527, Aug. 20, 1982, as amended at 53 FR 52594, Dec. 28, 1988; 83 FR 63791, Dec. 12, 2018]
+[47 FR 36527, Aug. 20, 1982, as amended at 53 FR 52594, Dec. 28, 1988; 83 FR 63791, Dec. 12, 2018; 88 FR 57857, Aug. 23, 2023]

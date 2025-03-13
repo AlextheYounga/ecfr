@@ -1,7 +1,5 @@
 ##### § 220.2 Definitions. #####
 
-Link to an amendment published at 88 FR 57848, Aug. 23, 2023.
-
 For the purpose of this part the term:
 
 *2 CFR part 200,* means the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards published by OMB. The part reference covers applicable: Acronyms and Definitions (subpart A), General Provisions (subpart B), Post Federal Award Requirements (subpart D), Cost Principles (subpart E), and Audit Requirements (subpart F). (NOTE: Pre-Federal Award Requirements and Contents of Federal Awards (subpart C) does not apply to the National School Lunch Program).
@@ -31,6 +29,8 @@ For the purpose of this part the term:
 *Fiscal year* means the period of 15 calendar months beginning July 1, 1976, and ending September 30, 1977; and the period of 12 calendar months beginning October 1, 1977, and each October 1 of any calendar year thereafter and ending September 30 of the following calendar year.
 
 *Fixed fee* means an agreed upon amount that is fixed at the inception of the contract. In a cost reimbursable contract, the fixed fee includes the contractor's direct and indirect administrative costs and profit allocable to the contract.
+
+*Fixed-price contract* means a contract that charges a fixed cost per meal, or a fixed cost for a certain time period. Fixed-price contracts may include an economic price adjustment tied to a standard index.
 
 *FNS* means the Food and Nutrition Service of the Department.
 

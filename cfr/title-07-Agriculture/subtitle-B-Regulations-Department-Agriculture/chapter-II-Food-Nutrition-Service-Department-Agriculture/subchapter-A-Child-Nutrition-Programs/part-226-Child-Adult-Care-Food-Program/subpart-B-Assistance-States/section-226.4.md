@@ -1,7 +1,5 @@
 ##### § 226.4 Payments to States and use of funds. #####
 
-Link to an amendment published at 88 FR 57851, Aug. 23, 2023.
-
 (a) *Availability of funds.* For each fiscal year based on funds provided to the Department, FNS must make funds available to each State agency to reimburse institutions for their costs in connection with food service operations, including administrative expenses, under this part. Funds must be made available in an amount no less than the sum of the totals obtained under paragraphs (b), (c), (d), (e), (f), (g), and (j) of this section. However, in any fiscal year, the aggregate amount of assistance provided to a State under this part must not exceed the sum of the Federal funds provided by the State to participating institutions within the State for that fiscal year and any funds used by the State under paragraphs (j) and (l) of this section.
 
 (b) *Center funds.* For meals served to participants in child care centers, adult day care centers and outside-school-hours care centers, funds shall be made available to each State agency in an amount no less than the sum of the products obtained by multiplying:
@@ -62,10 +60,18 @@ Link to an amendment published at 88 FR 57851, Aug. 23, 2023.
 
 (3) The rate for administrative payments to day care home sponsoring organizations shall be adjusted annually, on July 1, on the basis of changes in the series for all items of the Consumer Price Index for All Urban Consumers published by the Department of Labor. Such adjustments shall be made to the nearest dollar based on changes measured over the most recent twelve-month period for which data are available.
 
-(j) *Audit funds.* For the expense of conducting audits and reviews under § 226.8, funds shall be made available to each State agency in an amount equal to one and one-half percent of the Program reimbursement provided to institutions within the State during the second fiscal year preceding the fiscal year for which these funds are to be made available. The amount of assistance provided to a State under this paragraph in any fiscal year may not exceed the State's expenditures under § 226.8 during such fiscal year.
+(j) *Audit funds.* (1) Funds are available to each State agency in an amount equal to 1.5 percent of the Program funds used by the State during the second fiscal year preceding the fiscal year for which these funds are to be made available. These funds are for the expense of conducting audits under § 226.8 and Program monitoring under § 226.6(m).
+
+(2) State agencies may request an increase in the amount of funds made available under this paragraph.
+
+(i) FNS approval for increased funding will be based on the State agency's expressed need for an increase in resources to meet audit requirements, fulfill monitoring requirements, or effectively improve Program management.
+
+(ii) The total amount of audit funds made available to any State agency under this paragraph may not exceed 2 percent of Program funds used by the State during the second fiscal year preceding the fiscal year for which the funds are made available.
+
+(iii) The amount of assistance provided to a State agency under this paragraph in any fiscal year may not exceed the State's expenditures under §§ 226.6(m) and 226.8 during the fiscal year in which the funds are made available.
 
 (k) *Method of funding.* FNS shall authorize funds for State agencies in accordance with 2 CFR part 200, subpart D, and USDA implementing regulations 2 CFR part 400 and part 415, as applicable.
 
 (l) *Special developmental projects.* The State agency may use in carrying out special developmental projects an amount not to exceed one percent of Program funds used in the second prior fiscal year. Special developmental projects shall conform to FNS guidance and be approved in writing by FNS.
 
-[47 FR 36527, Aug. 20, 1982, as amended at 52 FR 36906, Oct. 2, 1987; 53 FR 52588, Dec. 28, 1988; 62 FR 902, Jan. 7, 1997; 63 FR 9728, Feb. 26, 1998; 69 FR 53536, Sept. 1, 2004; 71 FR 4, Jan. 3, 2006; 71 FR 39518, July 13, 2006; 72 FR 41603, 41604, July 31, 2007; 75 FR 16327, Apr. 1, 2010; 76 FR 34569, June 13, 2011; 78 FR 13451, Feb. 28, 2013; 81 FR 66492, Sept. 28, 2016]Editorial Note:At 75 FR 16327, Apr. 1, 2010, § 226.4 was amended in paragraph (d) by inserting “Richard B. Russell” before “National School Lunch Program” in the first sentence;; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[47 FR 36527, Aug. 20, 1982, as amended at 52 FR 36906, Oct. 2, 1987; 53 FR 52588, Dec. 28, 1988; 62 FR 902, Jan. 7, 1997; 63 FR 9728, Feb. 26, 1998; 69 FR 53536, Sept. 1, 2004; 71 FR 4, Jan. 3, 2006; 71 FR 39518, July 13, 2006; 72 FR 41603, 41604, July 31, 2007; 75 FR 16327, Apr. 1, 2010; 76 FR 34569, June 13, 2011; 78 FR 13451, Feb. 28, 2013; 81 FR 66492, Sept. 28, 2016; 88 FR 57851, Aug. 23, 2023]

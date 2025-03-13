@@ -1,7 +1,5 @@
 ##### § 226.23 Free and reduced-price meals. #####
 
-Link to an amendment published at 88 FR 57858, Aug. 23, 2023.
-
 (a) The State agency must not enter into a Program agreement with a new institution until the institution has submitted, and the State agency has approved, a written policy statement concerning free and reduced-price meals to be used in all child and adult day care facilities under its jurisdiction, as described in paragraph (b) of this section. The State agency must not require an institution to revise its free and reduced-price policy statement or its nondiscrimination statement unless the institution makes a substantive change to either policy. Pending approval of a revision to these statements, the existing policy must remain in effect.
 
 (b) Institutions that may not serve meals at a separate charge to children (including emergency shelters, at-risk afterschool care centers, and sponsoring organizations of emergency shelters, at-risk afterschool care centers, and day care homes) and other institutions that elect to serve meals at no separate charge must develop a policy statement consisting of an assurance to the State agency that all participants are served the same meals at no separate charge, regardless of race, color, national origin, sex, age, or disability and that there is no discrimination in the course of the food service.This statement shall also contain an assurance that there will be no identification of children in day care homes in which meals are reimbursed at both the tier I and tier II reimbursement rates, and that the sponsoring organization will not make any free and reduced price eligibility information concerning individual households available to day care homes and will otherwise limit the use of such information to persons directly connected with the administration and enforcement of the Program.
@@ -91,6 +89,16 @@ Link to an amendment published at 88 FR 57858, Aug. 23, 2023.
 (B) The signature of an adult member of the household as provided in paragraph (e)(1)(iii)(F) of this section. In accordance with paragraph (e)(1)(iii)(G) of this section, if a SNAP or FDPIR case number or SSI or Medicaid assistance identification number is provided, it may be used to verify the current SNAP, FDPIR, SSI, or Medicaid certification for the adult(s) for whom free meal benefits are being claimed. Whenever households apply for benefits for adults not receiving SNAP, FDPIR, SSI, or Medicaid benefits, they must apply in accordance with the requirements set forth in paragraph (e)(1)(iii) of this section.
 
 (vi) A sponsoring organization of day care homes may identify enrolled children eligible for free and reduced price meals (i.e., tier I rates), without distributing free and reduced price applications, by documenting the child's or household's participation in or receipt of benefits under a Federally or State supported child care or other benefit program with an income eligibility limit that does not exceed the eligibility standard for free and reduced price meals. Documentation shall consist of official evidence, available to the tier II day care home or sponsoring organization, and in the possession of the sponsoring organization, of the household's participation in the qualifying program.
+
+(vii) If a tier II day care home elects to assist in collecting and transmitting the applications to the sponsoring organization, it is the responsibility of the sponsoring organization to establish procedures to ensure the provider does not review or alter the application. The household consent form must explain that:
+
+(A) The household is not required to complete the income eligibility form in order for their children to participate in CACFP:
+
+(B) The household may return the application to either the sponsoring organization or the day care home provider;
+
+(C) By signing the letter and giving it to the day care home provider, the household has given the day care home provider written consent to collect and transmit the household's application to the sponsoring organization; and
+
+(D) The application will not be reviewed by the day care home provider.
 
 (2) *Letter to households.* Institutions shall distribute a letter to households or guardians of enrolled participants in order to inform them of the procedures regarding eligibility for free and reduced-price meals. The letter shall accompany the application required under paragraph (e)(1) of this section and shall contain:
 

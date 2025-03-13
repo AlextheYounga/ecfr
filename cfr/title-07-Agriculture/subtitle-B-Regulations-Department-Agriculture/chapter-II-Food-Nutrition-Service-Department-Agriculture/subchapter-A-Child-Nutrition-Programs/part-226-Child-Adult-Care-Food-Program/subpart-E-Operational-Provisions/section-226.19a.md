@@ -1,7 +1,5 @@
 ##### § 226.19a Adult day care center provisions. #####
 
-Link to an amendment published at 88 FR 57857, Aug. 23, 2023.
-
 (a) Adult day care centers may participate in the Program either as independent centers or under the auspices of a sponsoring organization; provided, however, that public and private nonprofit centers shall not be eligible to participate in the Program under the auspices of a for-profit sponsoring organization. Adult day care centers participating as independent centers shall comply with the provisions of § 226.15.
 
 (b) All adult day care centers, independent or sponsored, shall meet the following requirements:
@@ -30,4 +28,8 @@ Link to an amendment published at 88 FR 57857, Aug. 23, 2023.
 
 (c) Each adult day care center shall comply with the recordkeeping requirements established in § 226.10(d), in paragraph (b) of this section and, if applicable, in § 226.15(e). Failure to maintain such records shall be grounds for the denial of reimbursement.
 
-[53 FR 52591, Dec. 28, 1988, as amended by Amdt. 22, 55 FR 1378, Jan. 14, 1990; 61 FR 25554, May 22, 1996; 62 FR 23619, May 1, 1997; 64 FR 72261, Dec. 27, 1999; 67 FR 43493, June 27, 2002; 69 FR 53546, Sept. 1, 2004; 72 FR 41610, July 31, 2007]
+(d) Unaffiliated sponsored adult day care centers must enter into a written permanent agreement with the sponsoring organization. The agreement must specify the rights and responsibilities of both parties. At a minimum, the agreement must address the provisions set forth in paragraph (b) this section.
+
+(e) Independent adult day care centers must enter into a written permanent agreement with the State agency. The agreement must specify the rights and responsibilities of both parties as required by § 226.6(b)(4). At a minimum, the agreement must include the provisions described in paragraph (b) of this section.
+
+[53 FR 52591, Dec. 28, 1988, as amended by Amdt. 22, 55 FR 1378, Jan. 14, 1990; 61 FR 25554, May 22, 1996; 62 FR 23619, May 1, 1997; 64 FR 72261, Dec. 27, 1999; 67 FR 43493, June 27, 2002; 69 FR 53546, Sept. 1, 2004; 72 FR 41610, July 31, 2007; 88 FR 57857, Aug. 23, 2023]

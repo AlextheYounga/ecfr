@@ -1,14 +1,14 @@
 ##### § 210.18 Administrative reviews. #####
 
-Link to an amendment published at 88 FR 57845, Aug. 23, 2023.Link to an amendment published at 88 FR 63833, Sept. 18, 2023.
-
 (a) *Programs covered and methodology.* Each State agency must follow the requirements of this section to conduct administrative reviews of school food authorities participating in the National School Lunch Program and the School Breakfast Program (part 220 of this chapter). These procedures must also be followed, as applicable, to conduct administrative reviews of the National School Lunch Program's Afterschool Snacks and Seamless Summer Option, the Special Milk Program (part 215 of this chapter), and the Fresh Fruit and Vegetable Program. To conduct a program review, the State agency must gather and assess information off-site and/or on-site, observe the school food service operation, and use a risk-based approach to evaluate compliance with specific program requirements.
 
 (b) *Definitions.* The following definitions are provided in alphabetical order in order to clarify State agency administrative review requirements:
 
-*Administrative reviews* means the comprehensive off-site and/or on-site evaluation of all school food authorities participating in the programs specified in paragraph (a) of this section. The term “administrative review” is used to reflect a review of both critical and general areas in accordance with paragraphs (g) and (h) of this section, as applicable for each reviewed program, and includes other areas of program operations determined by the State agency to be important to program performance.
+*Administrative reviews* means the comprehensive evaluation of all school food authorities participating in the programs specified in paragraph (a) of this section. It includes a review of both critical and general areas in accordance with paragraphs (g) and (h) of this section, as applicable for each reviewed program. With FNS approval, the administrative review may include other areas of program operations determined by the State agency.
 
 *Critical areas* means the following two performance standards described in detail in paragraph (g) of this section:
+
+*General areas* means the areas of review specified in paragraph (h) of this section. These areas include free and reduced-price process, civil rights, school food authority on-site monitoring, reporting and recordkeeping, food safety, competitive food services, water, program outreach, resource management, Buy American, and other areas identified by FNS.
 
 (i) *Performance Standard 1*—All free, reduced price and paid school meals claimed for reimbursement are served only to children eligible for free, reduced price and paid school meals, respectively; and are counted, recorded, consolidated and reported through a system which consistently yields correct claims.
 
@@ -24,11 +24,13 @@ Link to an amendment published at 88 FR 57845, Aug. 23, 2023.Link to an amendmen
 
 *Review period* means the most recent month for which a Claim for Reimbursement was submitted, provided that it covers at least ten (10) operating days.
 
-(c) *Timing of reviews.* State agencies must conduct administrative reviews of all school food authorities participating in the National School Lunch Program (including the Afterschool Snacks and the Seamless Summer Option) and School Breakfast Program at least once during a 3-year review cycle, provided that each school food authority is reviewed at least once every 4 years. For each State agency, the first 3-year review cycle started the school year that began on July 1, 2013, and ended on June 30, 2014. At a minimum, the on-site portion of the administrative review must be completed during the school year in which the review was begun.
+(c) *Review cycle.* State agencies must conduct administrative reviews of all school food authorities participating in the National School Lunch Program (including Afterschool Snacks and the Seamless Summer Option) and the School Breakfast Program at least once during a 5-year review cycle, provided that each school food authority is reviewed at least once every 6 years, depending on review cycle observed. At a minimum, the on-site portion of the administrative review must be completed during the school year in which the review began.
 
-(1) *Review cycle exceptions.* FNS may, on an individual school food authority basis, approve written requests for 1-year extensions to the 3-year review cycle specified in paragraph (c) of this section if FNS determines this 3-year cycle requirement conflicts with efficient State agency management of the programs.
+(1) *Targeted follow-up reviews.* A State agency that reviews school food authorities on a cycle longer than 3 years must identify school food authorities that are high-risk to receive a targeted follow-up review. A State agency must develop and receive FNS approval of a plan to identify school food authorities that meet the high-risk criteria.
 
-(2) *Follow-up reviews.* The State agency may conduct follow-up reviews in school food authorities where significant or repeated critical or general violations exist. The State agency may conduct follow-up reviews in the same school year as the administrative review.
+(2) *High-risk criteria for targeted follow-up reviews.* At a minimum, a State plan should identify as high-risk those school food authorities that during the most recent administrative review conducted in accordance with this § 210.18 had one or more of the following risk factors as determined by the State Agency: a 10 percent or greater certification and benefit issuance error rate; incomplete verification for the review year; or one or more significant or systemic errors in Performance Standard 1 as defined at (g)(1) of this section, Performance Standard 2 as defined at paragraph (g)(2) of this section, or allowable costs.
+
+(3) *Timing and scope of targeted follow-up reviews.* Within two years of the review, high-risk school food authorities must receive a targeted follow-up review. Targeted follow-up reviews must include the areas of significant or systemic error identified in the previous review, and may include other areas at the discretion of the State agency. The State agency may conduct targeted follow-up reviews in the same school year as the administrative review, and may conduct any additional reviews at its discretion.
 
 (d) *Scheduling school food authorities.* The State agency must use its own criteria to schedule school food authorities for administrative reviews; provided that the requirements of paragraph (c) of this section are met. State agencies may take into consideration the findings of the claims review process required under § 210.8(b)(2) in the selection of school food authorities.
 
@@ -100,17 +102,21 @@ Table B
 
 (5) *Noncompliance with meal pattern requirements.* If the State agency determines there is significant noncompliance with the meal pattern and nutrition requirements set forth in § 210.10 and § 220.8 of this chapter, as applicable, the State agency must select the school food authority for administrative review earlier in the review cycle.
 
-(f) *Scope of review.* During the course of an administrative review for the National School Lunch Program and the School Breakfast Program, the State agency must monitor compliance with the critical and general areas in paragraphs (g) and (h) of this section, respectively. State agencies may add additional review areas with FNS approval. Selected critical and general areas must be monitored when reviewing the National School Lunch Program's Afterschool Snacks and the Seamless Summer Option, the Special Milk Program, and the Fresh Fruit and Vegetable Program, as applicable and as specified in the FNS *Administrative Review Manual.*
+(f) *Scope of review.* During the course of an administrative review for the National School Lunch Program and the School Breakfast Program, the State agency must monitor compliance with the critical and general areas in paragraphs (g) and (h) of this section, respectively. Selected critical and general areas must be monitored when reviewing the National School Lunch Program's Afterschool Snacks and the Seamless Summer Option, the Special Milk Program, and the Fresh Fruit and Vegetable Program, as applicable and as specified in the FNS Administrative Review Manual. State agencies may add additional review areas with FNS approval.
 
 (1) *Review forms.* State agencies must use the administrative review forms, tools and workbooks prescribed by FNS.
 
-(2) *Timeframes covered by the review.* (i) The timeframes covered by the administrative review includes the review period and the day of review, as defined in paragraph (b) of this section.
+(2) *Timeframes covered by the review.* (i) The timeframes covered by the administrative review include the review period and the day of review, as defined in paragraph (b) of this section.
 
 (ii) Subject to FNS approval, the State agency may conduct a review early in the school year, prior to the submission of a Claim for Reimbursement. In such cases, the review period must be the prior month of operation in the current school year, provided that such month includes at least 10 operating days.
 
-(3) *Audit findings.* To prevent duplication of effort, the State agency may use any recent and currently applicable findings from Federally-required audit activity or from any State-imposed audit requirements. Such findings may be used only insofar as they pertain to the reviewed school(s) or the overall operation of the school food authority and they are relevant to the review period. The State agency must document the source and the date of the audit.
+(3) *Audit results.* The State agency may use any recent and currently applicable results from Federal, State, or local audit activity to meet FNS monitoring requirements. Such results may be used only when they pertain to the reviewed school(s) or the overall operation of the school food authority, when they are relevant to the review period, and when they adhere to audit standards contained in 2 CFR part 200, subpart F. The State agency must document the source and the date of the audit. The content of local level audits activity requires the approval of FNS to ensure that these audits align with Federal audit standards.
 
-(g) *Critical areas of review.* The performance standards listed in this paragraph are directly linked to meal access and reimbursement, and to the meal pattern and nutritional quality of the reimbursable meals offered. These critical areas must be monitored by the State agency when conducting administrative reviews of the National School Lunch Program and the School Breakfast Program. Selected aspects of these critical areas must also be monitored, as applicable, when conducting administrative reviews of the National School Lunch Program's Afterschool Snacks and the Seamless Summer Option, and of the Special Milk Program.
+(4) *Completion of review requirements outside the administrative review.* State agencies may, with FNS approval, omit specific, redundant areas of the administrative review, when sufficient oversight is conducted outside of the administrative review.
+
+(5) *Error reduction strategies.* State agencies may omit designated areas of review, in part or entirely, where a school food authority or State agency has implemented FNS-approved error reduction strategies or utilized FNS-approved monitoring efficiencies.
+
+(g) *Critical areas of review.* The performance standards listed in this paragraph are directly linked to meal access and reimbursement, and to the meal pattern and nutritional quality of the reimbursable meals offered. These critical areas must be monitored by the State agency when conducting administrative reviews of the National School Lunch Program and the School Breakfast Program. Selected aspects of these critical areas must also be monitored, as applicable, when conducting administrative reviews of the National School Lunch Program's Afterschool Snacks and the Seamless Summer Option, and of the Special Milk Program. State agencies may omit designated critical areas of review, in part or entirely, where school food authority or State agency has implemented FNS-specified error reduction strategies or utilized FNS-specified monitoring efficiencies.
 
 (1) *Performance Standard 1 (All free, reduced price and paid school meals claimed for reimbursement are served only to children eligible for free, reduced price and paid school meals, respectively; and are counted, recorded, consolidated and reported through a system which consistently yields correct claims.)* The State agency must follow review procedures stated in this section and as specified in the FNS *Administrative Review Manual* to ensure that the school food authority's certification and benefit issuance processes for school meals offered under the National School Lunch Program, and School Breakfast Program are conducted as required in part 245 of this chapter, as applicable. In addition, the State agency must ensure that benefit counting, consolidation, recording and claiming are conducted as required in this part and part 220 of this chapter for the National School Lunch Program and the School Breakfast Program, respectively. The State agency must also follow procedures consistent with this section, and as specified in the FNS *Administrative Review Manual,* to review applicable areas of Performance Standard 1 in the National School Lunch Program's Afterschool Snacks and Seamless Summer Option, and in the Special Milk Program.
 
@@ -146,9 +152,9 @@ Table B
 
 (iii) *Performance-based cash assistance.* If the school food authority is receiving performance-based cash assistance under § 210.7(d), the State agency must assess the school food authority's meal service and documentation of lunches served and determine its continued eligibility for the performance-based cash assistance.
 
-(h) *General areas of review.* The general areas listed in this paragraph reflect requirements that must be monitored by the State agency when conducting administrative reviews of the National School Lunch Program and the School Breakfast Program. Selected aspects of these general areas must also be monitored, as applicable and as specified in the FNS *Administrative Review Manual,* when conducting administrative reviews of the National School Lunch Program's Afterschool Snacks and Seamless Summer Option, the Fresh Fruit and Vegetable Program, and the Special Milk Program. The general areas of review must include, but are not limited to, the following:
+(h) *General areas of review.* The general areas listed in this paragraph reflect requirements that must be monitored by the State agency when conducting administrative reviews of the National School Lunch Program and the School Breakfast Program. Selected aspects of these general areas must also be monitored, as applicable and as specified in the FNS Administrative Review Manual, when conducting administrative reviews of the National School Lunch Program's Afterschool Snacks and Seamless Summer Option, the Fresh Fruit and Vegetable Program, and the Special Milk Program. State agencies may omit designated general areas of review, in part or entirely, where the school food authority or State agency has implemented FNS-specified error reduction strategies or utilized FNS-specified monitoring efficiencies. State agencies may omit designated general areas of review, in part or entirely, where the school food authority or State agency has implemented FNS-specified error reduction strategies or utilized FNS-specified monitoring efficiencies. The general areas of review must include, but are not limited to, the following:
 
-(1) *Resource management.* The State agency must conduct an off-site assessment of the school food authority's nonprofit school food service to evaluate the risk of noncompliance with resource management requirements. If risk indicators show that the school food authority is at high risk for noncompliance with resource management requirements, the State agency must conduct a comprehensive review including, but not limited to, the following areas using procedures specified in the FNS *Administrative Review Manual.*
+(1) *Resource management.* The State agency must conduct an assessment of the school food authority's nonprofit school food service account to evaluate the risk of noncompliance with resource management requirements. If risk indicators show that the school food authority is at high risk for noncompliance with resource management requirements, the State agency must conduct a comprehensive review including, but not limited to, the following areas using procedures specified in the FNS Administrative Review Manual.
 
 (i) *Maintenance of the nonprofit school food service account.* The State agency must confirm the school food authority's resource management is consistent with the maintenance of the nonprofit school food service account requirements in §§ 210.2, 210.14, 210.19(a), and 210.21.
 
@@ -188,6 +194,8 @@ Table B
 
 (x) *Local school wellness.* The State agency shall ensure the local educational agency complies with the local school wellness requirements set forth in § 210.30.
 
+(xi) *Buy American.* The State agency must ensure that the school food authority complies with the Buy American requirements set forth in § 210.21(d) and 7 CFR 220.16(d), as specified in the FNS Administrative Review Manual.
+
 (i) *Entrance and exit conferences and notification*—(1) *Entrance conference.* The State agency may hold an entrance conference with the appropriate school food authority staff at the beginning of the on-site administrative review to discuss the results of any off-site assessments, the scope of the on-site review, and the number of schools to be reviewed.
 
 (2) *Exit conference.* The State agency must hold an exit conference at the close of the administrative review and of any subsequent follow-up review to discuss the violations observed, the extent of the violations and a preliminary assessment of the actions needed to correct the violations. The State agency must discuss an appropriate deadline(s) for completion of corrective action, provided that the deadline(s) results in the completion of corrective action on a timely basis.
@@ -216,7 +224,7 @@ Table B
 
 (4) *Failure to withhold payments.* FNS may suspend or withhold Program payments, in whole or in part, to those State agencies failing to withhold Program payments in accordance with paragraph (k)(1) of this section and may withhold administrative funds in accordance with § 235.11(b) of this chapter. The withholding of Program payments will remain in effect until such time as the State agency documents compliance with paragraph (k)(1) of this section to FNS. Subsequent to the documentation of compliance, any withheld administrative funds will be released and payment will be released for any meals served in accordance with the provisions of this part during the period the payments were withheld.
 
-(l) *Fiscal action.* The State agency must take fiscal action for all Performance Standard 1 violations and specific Performance Standard 2 violations identified during an administrative review as specified in this section. Fiscal action must be taken in accordance with the principles in § 210.19(c) and the procedures established in the FNS *Administrative Review Manual.* The State agency must follow the fiscal action formula prescribed by FNS to calculate the correct entitlement for a school food authority or a school. While there is no fiscal action required for general area violations, the State agency has the ability to withhold funds for repeat or egregious violations occurring in the majority of the general areas as described in paragraph (k)(1)(iv).
+(l) *Fiscal action.* The State agency must take fiscal action for all Performance Standard 1 violations and specific Performance Standard 2 violations identified during an administrative review, including targeted follow-up review or other reviews, as specified in this section. Fiscal action must be taken in accordance with the principles in § 210.19(c) and the procedures established in the FNS Administrative Review Manual. The State agency must follow the fiscal action formula prescribed by FNS to calculate the correct entitlement for a school food authority or a school. While there is no fiscal action required for general area violations, the State agency has the ability to withhold funds for repeat or egregious violations occurring in the majority of the general areas as described in paragraph (k)(1)(iv) of this section.
 
 (1) *Performance Standard 1 violations.* A State agency is required to take fiscal action for Performance Standard 1 violations, in accordance with this paragraph and paragraph (l)(3).
 
@@ -224,35 +232,33 @@ Table B
 
 (ii) For meal counting and claiming errors cited under paragraph (g)(1)(ii) of this section, the State agency must apply fiscal action to the incorrect meal counts at the school food authority level, or only to the reviewed schools where violations were identified, as applicable.
 
-(2) *Performance Standard 2 violations.* Except as noted in paragraphs (l)(2)(iii) and (l)(2)(iv) of this section, a State agency is required to apply fiscal action for Performance Standard 2 violations as follows:
+(2) *Performance Standard 2 violations.* Fiscal action for Performance Standard 2 violations applies as follows:
 
 (i) For missing food components or missing production records cited under paragraph (g)(2) of this section, the State agency must apply fiscal action.
 
-(ii) For repeated violations involving milk type and vegetable subgroups cited under paragraph (g)(2) of this section, the State agency must apply fiscal action as follows:
+(ii) For repeated violations involving food quantities, whole grain-rich foods, milk type, and vegetable subgroups cited under paragraph (g)(2) of this section, the State agency has discretion to apply fiscal action as follows:
 
-(A) If an unallowable milk type is offered or there is no milk variety, any meals selected with the unallowable milk type or when there is no milk variety must also be disallowed/reclaimed; and
+(A) If the meals contain insufficient quantities of the required food components, the deficient meals may be disallowed and reclaimed.
 
-(B) If one vegetable subgroup is not offered over the course of the week reviewed, the reviewer should evaluate the cause(s) of the error to determine the appropriate fiscal action. All meals served in the deficient week may be disallowed/reclaimed.
+(B) If no whole grain-rich foods are offered during the week of review, meals for up to the entire week of review may be disallowed and reclaimed.
 
-(iii) For repeated violations involving food quantities and whole grain-rich foods cited under paragraph (g)(2) of this section, the State agency has discretion to apply fiscal action as follows:
+(C) If insufficient whole grain-rich foods are offered during the week of review, meals for up to the entire week of review may be disallowed and/or reclaimed.
 
-(A) If the meals contain insufficient quantities of the required food components, the affected meals may be disallowed/reclaimed;
+(D) If an unallowable milk type is offered, or no milk variety is offered, the deficient meals may be disallowed and reclaimed.
 
-(B) If no whole grain-rich foods are offered during the week of review, meals for the entire week of review may be disallowed and/or reclaimed;
+(E) If one vegetable subgroup is not offered over the course of the week of review, meals for up to the entire week of review may be disallowed and reclaimed.
 
-(C) If insufficient whole grain-rich foods are offered during the week of review, meals for one or more days during the week of review may be disallowed/reclaimed.
+(F) If a weekly vegetable subgroup is offered in insufficient quantity to meet the weekly vegetable subgroup requirement, meals for one day of the week of review may be disallowed and reclaimed.
 
-(D) If a weekly vegetable subgroup is offered in insufficient quantity to meet the weekly vegetable subgroup requirement, meals for one day of the week of review may be disallowed/reclaimed; and
+(G) If the amount of juice offered exceeds the weekly limitation, meals for up to the entire week of review may be disallowed and/or reclaimed.
 
-(E) If the amount of juice offered exceeds the weekly limitation, meals for the entire week of review may be disallowed/reclaimed.
+(iii) For repeated violations of calorie, saturated fat, sodium, and trans fat dietary specifications cited under paragraph (g)(2)(ii) of this section, the State agency has discretion to apply fiscal action to the reviewed school as follows:
 
-(iv) For repeated violations of calorie, saturated fat, sodium, and trans fat dietary specifications cited under paragraph (g)(2)(ii) of this section, the State agency has discretion to apply fiscal action to the reviewed school as follows:
-
-(A) If the average meal offered over the course of the week of review does not meet one of the dietary specifications, meals for the entire week of review may be disallowed/reclaimed; and
+(A) If the average meal offered over the course of the week of review does not meet one of the dietary specifications, meals for the entire week of review may be disallowed and reclaimed; and
 
 (B) Fiscal action is limited to the school selected for the targeted menu review and must be supported by a nutrient analysis of the meals at issue using USDA-approved software.
 
-(v) The following conditions must be met prior to applying fiscal action as described in paragraphs (l)(2)(ii) through (iv) of this section:
+(iv) The following conditions must be met prior to applying fiscal action as described in paragraphs (l)(2)(ii) and (iii) of this section:
 
 (A) Technical assistance has been given by the State agency;
 
@@ -292,9 +298,9 @@ Table B
 
 (2) Documentation demonstrating compliance with the statistical sampling requirements in accordance with paragraph (g)(1)(i) of this section, if applicable.
 
-(p) *School food authority appeal of State agency findings.* Except for FNS-conducted reviews authorized under § 210.29(d)(2), each State agency shall establish an appeal procedure to be followed by a school food authority requesting a review of a denial of all or a part of the Claim for Reimbursement or withholding payment arising from administrative review activity conducted by the State agency under § 210.18. State agencies may use their own appeal procedures provided the same procedures are applied to all appellants in the State and the procedures meet the following requirements: Appellants are assured of a fair and impartial hearing before an independent official at which they may be represented by legal counsel; decisions are rendered in a timely manner not to exceed 120 days from the date of the receipt of the request for review; appellants are afforded the right to either a review of the record with the right to file written information, or a hearing which they may attend in person; and adequate notice is given of the time, date, place and procedures of the hearing. If the State agency has not established its own appeal procedures or the procedures do not meet the above listed criteria, the State agency shall observe the following procedures at a minimum:
+(p) *School food authority appeal of State agency findings.* Except for FNS-conducted reviews authorized under § 210.29(d)(2), each State agency must establish an appeal procedure to be followed by a school food authority requesting a review of a denial of all or a part of the Claim for Reimbursement, withholding payment arising from administrative or follow-up review activity conducted by the State agency under this § 210.18, or fines established under § 210.26, or § 215.15 or § 220.18 of this chapter. State agencies may use their own appeal procedures provided the same procedures are applied to all appellants in the State and the procedures meet the following requirements: Appellants are assured of a fair and impartial hearing before an independent official at which they may be represented by legal counsel; decisions are rendered in a timely manner not to exceed 120 days from the date of the receipt of the request for review; appellants are afforded the right to either a review of the record with the right to file written information, or a hearing which they may attend in person; and adequate notice is given of the time, date, place and procedures of the hearing. If the State agency has not established its own appeal procedures or the procedures do not meet the above listed criteria, the State agency shall observe the following procedures at a minimum:
 
-(1) The written request for a review shall be postmarked within 15 calendar days of the date the appellant received the notice of the denial of all or a part of the Claim for Reimbursement or withholding of payment, and the State agency shall acknowledge the receipt of the request for appeal within 10 calendar days;
+(1) The written request for a review must be postmarked within 15 calendar days of the date the appellant received the notice of the denial of all or a part of the Claim for Reimbursement, withholding of payment, or fines established under § 210.26, or § 215.15 or § 220.18 of this chapter, and the State agency must acknowledge the receipt of the request for appeal within 10 calendar days;
 
 (2) The appellant may refute the action specified in the notice in person and by written documentation to the review official. In order to be considered, written documentation must be filed with the review official not later than 30 calendar days after the appellant received the notice. The appellant may retain legal counsel, or may be represented by another person. A hearing shall be held by the review official in addition to, or in lieu of, a review of written information submitted by the appellant only if the appellant so specifies in the letter of request for review. Failure of the appellant school food authority's representative to appear at a scheduled hearing shall constitute the appellant school food authority's waiver of the right to a personal appearance before the review official, unless the review official agrees to reschedule the hearing. A representative of the State agency shall be allowed to attend the hearing to respond to the appellant's testimony and to answer questions posed by the review official;
 
@@ -314,4 +320,4 @@ Table B
 
 (q) *FNS review activity.* The term “State agency” and all the provisions specified in paragraphs (a) through (h) of this section refer to FNS when FNS conducts administrative reviews in accordance with § 210.29(d)(2). FNS will notify the State agency of the review findings and the need for corrective action and fiscal action. The State agency shall pursue any needed follow-up activity.
 
-[81 FR 50185, July 29, 2016, as amended at 83 FR 25357, June 1, 2018]
+[81 FR 50185, July 29, 2016, as amended at 83 FR 25357, June 1, 2018; 88 FR 57845, Aug. 23, 2023]

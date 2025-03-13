@@ -1,7 +1,5 @@
 ##### § 225.2 Definitions. #####
 
-Link to an amendment published at 88 FR 57849, Aug. 23, 2023.
-
 *2 CFR part 200,* means the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards published by OMB. The part reference covers applicable: Acronyms and Definitions (subpart A), General Provisions (subpart B), Post Federal Award Requirements (subpart D), Cost Principles (subpart E), and Audit Requirements (subpart F). (NOTE: Pre-Federal Award Requirements and Contents of Federal Awards (subpart C) does not apply to the National School Lunch Program).
 
 *Act* means the National School Lunch Act, as amended.
@@ -168,6 +166,12 @@ Link to an amendment published at 88 FR 57849, Aug. 23, 2023.
 
 *TANF* means the State funded program under part A of title IV of the Social Security Act that the Secretary determines complies with standards established by the Secretary that ensure that the standards under the State program are comparable to or more restrictive than those in effect on June 1, 1995. This program is commonly referred to as Temporary Assistance for Needy Families, although States may refer to the program by another name.
 
+*Termination for convenience* means:
+
+(1) Termination of a State agency's participation in the Program in whole, or in part, when FNS and the State agency agree that the continuation of the Program would not produce beneficial results commensurate with the further expenditure of funds; or
+
+(2) Termination of a permanent operating agreement by a State agency or sponsor due to considerations unrelated to either party's performance of Program responsibilities under the agreement.
+
 *Unaffiliated site* means a site that is legally distinct from the sponsor.
 
 *Unanticipated school closure* means any period from October through April (or any time of the year in an area with a continuous school calendar) during which children who are not in school due to a natural disaster, building repair, court order, labor-management disputes, or, when approved by the State agency, similar cause, may be served meals at non-school sites through the Summer Food Service Program.
@@ -190,4 +194,4 @@ Link to an amendment published at 88 FR 57849, Aug. 23, 2023.
 
 *Yogurt* means commercially prepared coagulated milk products obtained by the fermentation of specific bacteria, that meet milk fat or milk solid requirements and to which flavoring foods or ingredients may be added. These products are covered by the Food and Drug Administration's Standard of Identity for yogurt, lowfat yogurt, and nonfat yogurt, (21 CFR 131.200), (21 CFR 131.203), (21 CFR 131.206), respectively.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 54 FR 27153, June 28, 1989; 55 FR 13466, Apr. 10, 1990; 61 FR 25553, May 22, 1996; 64 FR 72483, Dec. 28, 1999; 64 FR 72895, Dec. 29, 1999; 66 FR 2202, Jan. 11, 2001; 71 FR 39518, July 13, 2006; 72 FR 10895, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13449, Feb. 28, 2013; 81 FR 66492, Sept. 28, 2016; 83 FR 25357, June 1, 2018; 87 FR 57355, Sept. 19, 2022; 87 FR 79213, Dec. 27, 2022]
+[54 FR 18208, Apr. 27, 1989, as amended at 54 FR 27153, June 28, 1989; 55 FR 13466, Apr. 10, 1990; 61 FR 25553, May 22, 1996; 64 FR 72483, Dec. 28, 1999; 64 FR 72895, Dec. 29, 1999; 66 FR 2202, Jan. 11, 2001; 71 FR 39518, July 13, 2006; 72 FR 10895, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13449, Feb. 28, 2013; 81 FR 66492, Sept. 28, 2016; 83 FR 25357, June 1, 2018; 87 FR 57355, Sept. 19, 2022; 87 FR 79213, Dec. 27, 2022; 88 FR 57849, Aug. 23, 2023]

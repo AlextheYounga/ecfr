@@ -1,8 +1,6 @@
 ##### § 226.13 Food service payments to sponsoring organizations for day care homes. #####
 
-Link to an amendment published at 88 FR 57856, Aug. 23, 2023.
-
-(a) Payments shall be made only to sponsoring organizations operating under an agreement with the State agency for the meal types specified in the agreement served to enrolled nonresident children and eligible enrolled children of day care home providers, at approved day care homes.
+(a) Payments will be made only to sponsoring organizations operating under an agreement with the State agency for the meal types specified in the agreement served to enrolled nonresident children and eligible enrolled children of day care home providers, at approved day care homes. Each State agency must base reimbursement to each approved day care home on daily meal counts recorded by the provider.
 
 (b) Each sponsoring organization shall report each month to the State agency the total number of meals, by type (breakfasts, lunches, suppers, and snacks) and by category (tier I and tier II), served to children enrolled in approved day care homes. Prior to submitting its consolidated monthly claim to the State agency, each sponsoring organization must conduct reasonable edit checks on the day care homes' meal claims which, at a minimum, include those edit checks specified at § 226.10(c).
 
@@ -22,4 +20,4 @@ Link to an amendment published at 88 FR 57856, Aug. 23, 2023.
 
 (iii) Determine a blended per-meal rate of reimbursement, not less frequently than semiannually, for each such day care home by adding the products obtained by multiplying the applicable rates of reimbursement for each category (tier I and tier II) by the claiming percentage for that category, as established in accordance with paragraph (d)(3)(ii) of this section. The State agency may require a sponsoring organization to recalculate the blended rate for any of its day care homes before the required semiannual calculation if the State agency has reason to believe that a home's percentage of income-eligible children has changed significantly or was incorrectly established in the previous calculation. Under this system, day care homes shall be required to submit the number of meals served, by type, to enrolled children.
 
-[47 FR 36527, Aug. 20, 1982, as amended at 62 FR 903, Jan. 7, 1997; 62 FR 5519, Feb. 6, 1997; 63 FR 9105, Feb. 24, 1998; 69 FR 53544, Sept. 1, 2004; 72 FR 41603, July 31, 2007]
+[47 FR 36527, Aug. 20, 1982, as amended at 62 FR 903, Jan. 7, 1997; 62 FR 5519, Feb. 6, 1997; 63 FR 9105, Feb. 24, 1998; 69 FR 53544, Sept. 1, 2004; 72 FR 41603, July 31, 2007; 88 FR 57856, Aug. 23, 2023]

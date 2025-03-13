@@ -1,7 +1,5 @@
 ##### 12.301 Solicitation provisions and contract clauses for the acquisition of commercial products and commercial services. #####
 
-Link to an amendment published at 88 FR 53751, Aug. 8, 2023.
-
 (a) In accordance with 41 U.S.C. 3307, contracts for the acquisition of commercial products or commercial services shall, to the maximum extent practicable, include only those clauses—
 
 (1) Required to implement provisions of law or executive orders applicable to the acquisition of commercial products or commercial services; or
@@ -66,13 +64,15 @@ Link to an amendment published at 88 FR 53751, Aug. 8, 2023.
 
 (e) *Discretionary use of FAR provisions and clauses.* The contracting officer may include in solicitations and contracts by addendum other FAR provisions and clauses when their use is consistent with the limitations contained in 12.302. For example:
 
-(1) The contracting officer may include appropriate clauses when an indefinite-delivery type of contract will be used. The clauses prescribed at 16.506 may be used for this purpose.
+(1) The contracting officer may use the provision at 52.201-1, Acquisition 360: Voluntary Survey, as prescribed in 1.102-3(b).
 
-(2) The contracting officer may include appropriate provisions and clauses when the use of options is in the Government's interest. The provisions and clauses prescribed in 17.208 may be used for this purpose. If the provision at 52.212-2 is used, paragraph (b) provides for the evaluation of options.
+(2) The contracting officer may include appropriate clauses when an indefinite-delivery type of contract will be used. The clauses prescribed at 16.506 may be used for this purpose.
 
-(3) The contracting officer may use the provisions and clauses contained in Part 23 regarding the use of products containing recovered materials and biobased products when appropriate for the item being acquired.
+(3) The contracting officer may include appropriate provisions and clauses when the use of options is in the Government's interest. The provisions and clauses prescribed in 17.208 may be used for this purpose. If the provision at 52.212-2 is used, paragraph (b) provides for the evaluation of options.
 
-(4) When setting aside under the Stafford Act (Subpart 26.2), include the provision at 52.226-3, Disaster or Emergency Area Representation, in the solicitation. The representation in this provision is not in the System for Award Management.
+(4) The contracting officer may use the provisions and clauses contained in Part 23 regarding the use of products containing recovered materials and biobased products when appropriate for the item being acquired.
+
+(5) When setting aside under the Stafford Act (Subpart 26.2), include the provision at 52.226-3, Disaster or Emergency Area Representation, in the solicitation. The representation in this provision is not in the System for Award Management.
 
 (f) Agencies may supplement the provisions and clauses prescribed in this part (to require use of additional provisions and clauses) only as necessary to reflect agency unique statutes applicable to the acquisition of commercial products or commercial services or as may be approved by the agency senior procurement executive, or the individual responsible for representing the agency on the FAR Council, without power of delegation.
 

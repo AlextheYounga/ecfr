@@ -1,7 +1,5 @@
-##### § 210.32 State agency and Regional office addresses. #####
+##### § 210.32 Program information. #####
 
-Link to an amendment published at 88 FR 57848, Aug. 23, 2023.
+Persons seeking information about this Program should contact their State administering agency or the appropriate FNSRO. The FNS website has contact information for State agencies at *https://www.fns.usda.gov/contacts* and FNSROs at *https://www.fns.usda.gov/fns-regional-offices.*
 
-School food authorities and schools desiring information about the Program should contact their State educational agency or the appropriate FNS Regional Office at the address or telephone number listed on the FNS Web site (*www.fns.usda.gov/cnd*).
-
-[77 FR 4153, Jan. 26, 2012. Redesignated at 80 FR 11092, Mar. 2, 2015, and further redesignated at 81 FR 50169, July 29, 2016]
+[88 FR 57848, Aug. 23, 2023]

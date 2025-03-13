@@ -1,10 +1,8 @@
 ##### § 226.15 Institution provisions. #####
 
-Link to an amendment published at 88 FR 57856, Aug. 23, 2023.
-
 (a) *Tax exempt status.* Except for for-profit centers and sponsoring organizations of such centers, institutions must be public, or have tax exempt status under the Internal Revenue Code of 1986.
 
-(b) *New applications and renewals.* Each institution must submit to the State agency with its application all information required for its approval as set forth in § 226.6(b) and 226.6(f). Such information must demonstrate that a new institution has the administrative and financial capability to operate the Program in accordance with this part and with the performance standards set forth in § 226.6(b)(1)(xviii), and that a renewing institution has the administrative and financial capability to operate the Program in accordance with this part and with the performance standards set forth in § 226.6(b)(2)(vii).
+(b) *New applications and renewals.* Each new institution must submit to the State agency an application with all information required for its approval, as set forth in §§ 226.6(b)(1) and 226.6(f). This information must demonstrate that a new institution has the administrative and financial capability to operate the Program, as described in the performance standards set forth in § 226.6(b)(1)(xviii). Renewing institutions must annually certify that they are capable of operating the Program, as set forth in § 226.6(b)(2).
 
 (c) *Responsibility.* Each institution shall accept final administrative and financial responsibility for Program operations. No institution may contract out for management of the Program.
 

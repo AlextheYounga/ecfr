@@ -1,7 +1,5 @@
 ##### § 235.4 Allocation of funds to States. #####
 
-Link to an amendment published at 88 FR 57858, Aug. 23, 2023.
-
 (a) *Nondiscretionary SAE Funds.* For each fiscal year, FNS shall allocate the following:
 
 (1) To each State which administers the National School Lunch, School Breakfast or Special Milk Programs an amount equal to one (1) percent of the funds expended by such State during the second preceding fiscal year under sections 4 and 11 of the National School Lunch Act, as amended, and sections 3, 4 and 17A of the Child Nutrition Act of 1966, as amended. However, the total amount allocated to any State under this paragraph shall not be less than $200,000 or the amount allocated to the State in the fiscal year ending September 30, 1981, whichever is greater. On October 1, 2008 and each October 1 thereafter, the minimum dollar amount for a fiscal year for administrative costs shall be adjusted to reflect the percentage change between the value of the index for State and local government purchases, as published by the Bureau of Economic Analysis of the Department of Commerce, for the 12-month period ending June 30 of the second preceding fiscal year, and the value of that index for the 12-month period ending June 30 of the preceding fiscal year.
@@ -14,7 +12,7 @@ Link to an amendment published at 88 FR 57858, Aug. 23, 2023.
 
 (1) Allocate $30,000 to each State which administers the Child and Adult Care Food Program (7 CFR part 226).
 
-(2) $30,000 to each State which administers the Food Distribution Program (part 250 of this chapter) in schools and/or institutions which participate in programs under parts 210, 220, and 226 of this chapter; provided that the State meets the training requirements set forth in § 235.11(g).
+(2) $30,000 to each State which administers the Food Distribution Program (part 250 of this chapter) in schools and/or institutions which participate in programs under parts 210, 220, and 226 of this chapter; provided that the State meets the training requirements set forth in § 235.11(h).
 
 (3) Amounts derived by application of the following four-part formula to each State agency which is allocated funds under paragraph (a) of this section:
 
