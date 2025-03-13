@@ -18,6 +18,6 @@
 
 (i) CFG funds can be used for up to 75 percent of the cost to develop the facility, notwithstanding that other contributions may be from other Federal sources.
 
-(j) The Office of Management and Budget (OMB) issued guidance on Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards at 2 CFR part 200 on December 26, 2013. In 2 CFR part 400.1, the Department adopted OMB's guidance in subparts A through F of 2 CFR part 200, as supplemented by 2 CFR part 400, as the Departments' policies and procedures for uniform administrative requirements, cost principles, and audit requirements for federal awards. As a result this regulation contains references to 2 CFR part 200 as it has regulatory effect for the Department's programs and activities.
+(j) The Office of Management and Budget (OMB) issued guidance on Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards at 2 CFR part 200. In 2 CFR part 400.1, the Department adopted OMB's guidance in subparts A through F of 2 CFR part 200, as supplemented by 2 CFR part 400, as the Department's policies and procedures for uniform administrative requirements, cost principles, and audit requirements for federal awards. As a result, this regulation contains references to 2 CFR part 200 as it has regulatory effect for the Department's programs and activities.
 
-[64 FR 32388, June 17, 1999, as amended at 79 FR 76012, Dec. 19, 2014; 80 FR 9912, Feb. 24, 2015]
+[64 FR 32388, June 17, 1999, as amended at 79 FR 76012, Dec. 19, 2014; 80 FR 9912, Feb. 24, 2015; 89 FR 96860, Dec. 6, 2024]

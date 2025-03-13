@@ -1,7 +1,5 @@
 ##### § 46.72 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87950, Nov. 6, 2024.
-
 When used in this subpart, the following terms shall have the meanings given in this section, unless the context clearly indicates otherwise. Words in the plural form shall include the singular, and vice versa, and words indicating the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude things not listed which are in the same general class.
 
 *Act.* The Excise Tax Technical Changes Act of 1958 (Pub. L. 85-859, 72 Stat. 1275), enacted September 2, 1958.
@@ -10,7 +8,7 @@ When used in this subpart, the following terms shall have the meanings given in 
 
 *Claimant.* The person who held the tobacco products or cigarette papers and tubes for sale at the time of the disaster and who files claim under this subpart.
 
-*Commissioner of Customs.* The Commissioner of Customs, U.S. Customs Service, The Department of the Treasury, Washington, DC.
+*Commissioner of Customs.* The Commissioner of U.S. Customs and Border Protection, Department of Homeland Security, Washington, DC.
 
 *Disaster.* A flood, fire, hurricane, earthquake, storm, or other catastrophe which has occurred in any part of the United States on and after the day following the date of enactment of the act and which the President of the United States has determined, under the Act of September 30, 1950 (64 Stat. 1109; 42 U.S.C. 1855), was a “major disaster” as defined in such Act.
 
@@ -22,7 +20,7 @@ When used in this subpart, the following terms shall have the meanings given in 
 
 *Sale price.* The price for which large cigars are sold by the manufacturer or importer, determined in accordance with §§ 40.22 or 41.39 and used in computation of the tax.
 
-*Tax paid or determined.* The internal revenue tax on tobacco products and cigarette papers and tubes which has acutally been paid, or which has been determined pursuant to 26 U.S.C. 5703(b), and regulations thereunder, at the time of their removal subject to tax payable on the basis of a return.
+*Tax paid or determined.* The internal revenue tax on tobacco products and cigarette papers and tubes which has actually been paid, or which has been determined pursuant to 26 U.S.C. 5703(b), and regulations thereunder, at the time of their removal subject to tax payable on the basis of a return.
 
 *Tobacco Products.* Cigars, cigarettes, smokeless tobacco, pipe tobacco, and roll-your-own tobacco.
 

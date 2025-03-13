@@ -12,7 +12,7 @@
 
 (b) *Entries.* (1) Each entry required by this part to be made in daily records will be made not later than the close of the business day next succeeding the day on which the transaction occurs.
 
-(2) When the brewer prepares transaction or business records concurrenty with the individual operation or transaction and these records contain all the required information with respect to the operation or transaction, entries in daily records may be made not later than the close of business the third business day succeeding the day on which the operation or transaction occurs.
+(2) When the brewer prepares transaction or business records concurrently with the individual operation or transaction and these records contain all the required information with respect to the operation or transaction, entries in daily records may be made not later than the close of business the third business day succeeding the day on which the operation or transaction occurs.
 
 (c) *Content.* (1) All entries in the daily records required by this subpart will show the date of the operation or transaction.
 
@@ -28,4 +28,4 @@
 
 (3) The brewer shall maintain daily records required by this part so they clearly and accurately reflect all mandatory information. When the format or arrangement of the daily records is such that the information is not clearly or accurately shown, the appropriate TTB officer may require a format or arrangement which will clearly and accurately show the information.
 
-(Sec. 201, Pub. L. 85-859, 72 Stat. 1390, as amended (26 U.S.C. 5415))
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1390, as amended (26 U.S.C. 5415))[T.D. ATF-224, 51 FR 7673, Mar. 5, 1986, as amended by T.D TTB-196, 89 FR 87943, Nov. 6, 2024]

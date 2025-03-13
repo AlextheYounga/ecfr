@@ -1,5 +1,7 @@
 ##### § 160.064-4 Marking. #####
 
+Link to an amendment published at 89 FR 97394, Dec. 6, 2024.
+
 (a) *Labels.* Each water safety buoyant device must be marked in accordance with the recognized laboratory's listing and labeling requirements in accordance with § 160.064-3(a). At a minimum, all labels must include—
 
 (1) Size information, as appropriate;

@@ -1,5 +1,7 @@
 ##### § 160.076-5 Definitions. #####
 
+Link to an amendment published at 89 FR 97394, Dec. 6, 2024.
+
 As used in this part:
 
 *Commandant* means the Chief of the Lifesaving and Fire Safety Standards Division. Address: Commandant (CG-ENG-4), Attn: Lifesaving and Fire Safety Division, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509; telephone 202-372-1392 or fax 202-372-1924.

@@ -1,7 +1,5 @@
 ##### § 53.133 Tax-free sale of articles for export, or for resale by the purchaser to a second purchaser for export. #####
 
-Link to an amendment published at 89 FR 87950, Nov. 6, 2024.
-
 (a) *In general.* (1) An article subject to tax under chapter 32 of the Code may be sold tax free by the manufacturer, pursuant to section 4221(a)(2) of the Code and this section, for export, or for resale by the purchaser to a second purchaser for export. See § 53.11 for the meaning of the term “exportation”. An article may be sold tax free by the manufacturer under the provisions of this section only if the person to whom the manufacturer sells the article intends either to export the article or to resell it to a person who intends to export it. An article may not be sold tax free under the provisions of this section by a manufacturer to a purchaser for resale to a second purchaser which does not intend to export the article itself but plans to resell it to a third purchaser for export. See section 6416(b)(2)(A) of the Code and § 53.177 for the circumstances under which credit or refund of tax is available where tax-paid articles are exported from the United States.
 
 (2) If an article, otherwise taxable under chapter 32 of the Code:
@@ -56,6 +54,6 @@ then the importer is liable for the tax imposed by chapter 32 of the Code on the
 
 (3) The statement executed and signed by the manufacturer's vendee, as provided in paragraph (d)(2) of this section, may be executed with respect to any one or more articles purchased tax free from a manufacturer and exported within the 6-month period prescribed in section 4221(b)(2) of the Code and paragraph (c) of this section. Such statement shall be kept for inspection by the appropriate TTB officer as provided in section 6001 of the Code.
 
-(4) *TTB I 5600.36.* A preprinted statement, TTB I 5600.36, Statement of Manufacturer's Vendee, which is available as provided in § 53.21(b), when completed, contains all necessary information for a properly executed statement. Extra copies of TTB I 5600.36 may be reproduced as needed.
+(4) *TTB F 5600.36.* A preprinted statement, TTB F 5600.36, Statement of Manufacturer's Vendee, which is available as provided in § 53.21(b), when completed, contains all necessary information for a properly executed statement. Extra copies of TTB F 5600.36 may be reproduced as needed.
 
-[T.D. ATF-308, 56 FR 303, Jan. 3, 1991, as amended by T.D. ATF-344, 58 FR 40354, July 28, 1993; T.D. 372, 61 FR 20724, May 8, 1996; T.D. ATF-380, 61 FR 37006, July 16, 1996]
+[T.D. ATF-308, 56 FR 303, Jan. 3, 1991, as amended by T.D. ATF-344, 58 FR 40354, July 28, 1993; T.D. 372, 61 FR 20724, May 8, 1996; T.D. ATF-380, 61 FR 37006, July 16, 1996; T.D. TTB-196, 89 FR 87950, Nov. 6, 2024]

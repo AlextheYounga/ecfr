@@ -1,5 +1,7 @@
 ##### § 160.076-29 Production oversight. #####
 
+Link to an amendment published at 89 FR 97395, Dec. 6, 2024.
+
 (a) Production tests and inspections must be conducted in accordance with this section and subpart 159.007 of this chapter unless the Commandant authorizes alternative tests and inspections. The Commandant may prescribe additional production tests and inspections necessary to maintain quality control and to monitor compliance with the requirements of this subpart.
 
 (b) Production oversight must be performed by the same laboratory that performs the approval tests unless the Commandant determines that the employees of an alternative laboratory have received training and have access to the same information as the inspectors of the laboratory that conducted the approval testing.

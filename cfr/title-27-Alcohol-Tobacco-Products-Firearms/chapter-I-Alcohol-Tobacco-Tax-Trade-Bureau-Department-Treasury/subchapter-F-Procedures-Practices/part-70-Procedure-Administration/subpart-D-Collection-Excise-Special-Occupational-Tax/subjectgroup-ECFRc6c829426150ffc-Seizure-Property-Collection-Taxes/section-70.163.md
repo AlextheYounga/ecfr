@@ -1,7 +1,5 @@
 ##### § 70.163 Surrender of property subject to levy. #####
 
-Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
-
 (a) *Requirement*—(1) *In general.* Except as otherwise provided in 26 U.S.C. 6332, relating to levy in the case of banks or life insurance and endowment contracts, any person in possession of (or obligated with respect to) property or rights to property subject to levy and upon which a levy has been made shall, upon demand of the officer who made the levy, surrender the property or rights (or discharge the obligation) to the officer who made the levy, except that part of the property or rights (or obligation) which, at the time of the demand, is actually or constructively under the jurisdiction of a court because of an attachment or execution under any judicial process.
 
 (2) *Property held by banks.* (i) Any bank shall surrender any deposits (including interest thereon) in such bank only after 21 days after service of levy.
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
 
 (A) That the taxpayer is within the jurisdiction of a U.S. court at the time the levy is made and that the bank is in possession of (or obligated with respect to) deposits of the taxpayer in an office of the bank outside the United States or a possession of the United States; or
 
-(B) That the taxpayer is not within the jurisdiction of a U.S. court a the time the levy is made, that the bank is in possession of (or obligated with respect to) deposits of the taxpayer in an office outside the United States or a possession of the United States, and that such deposits consist, in whole or in part, of funds transferred from the United States or a possession of the United States in order to hinder or delay the collection of a tax imposed by provisions of 26 U.S.C. enforced and administered by the Bureau.
+(B) That the taxpayer is not within the jurisdiction of a U.S. court at the time the levy is made, that the bank is in possession of (or obligated with respect to) deposits of the taxpayer in an office outside the United States or a possession of the United States, and that such deposits consist, in whole or in part, of funds transferred from the United States or a possession of the United States in order to hinder or delay the collection of a tax imposed by provisions of 26 U.S.C. enforced and administered by the Bureau.
 
 (b) *Enforcement of levy*—(1) *Extent of personal liability.* Any person who, upon demand of the appropriate TTB officer, fails or refuses to surrender any property or right to property subject to levy is liable in his/her own person and estate in a sum equal to the value of the property or rights not so surrendered, together with costs and interests. The liability, however, may not exceed the amount of the taxes for the collection of which the levy was made. Interest is to be computed at the annual rate referred to in regulations under 26 U.S.C. 6221 from the date of the levy, or, in the case of a continuing levy on salary or wages (see 26 U.S.C. 6331(e)), from the date the person would otherwise have been obligated to pay over the wages or salary to the taxpayer. Any amount recovered, other than cost, will be credited against the tax liability for the collection of which the levy was made.
 
@@ -20,4 +18,4 @@ Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
 
 (d) *Person defined.* In addition to the definition given in § 70.11 of this part, the term “person,” as used in 26 U.S.C.A 6332(a) and this section, includes an officer or employee of a corporation or a member or employee of a partnership, who is under a duty to surrender the property or rights to property or to discharge the obligation. In the case of a levy upon the salary or wages of an officer, employee, or elected or appointed official of the United States, the District of Columbia, or any agency or instrumentality of either, the term “person” includes the officer or employee of the United States, of the District of Columbia, or of such agency or instrumentality who is under a duty to discharge the obligation. As to the officer or employee who is under such duty, see § 70.161(a)(4)(i) of this part.
 
-(26 U.S.C. 6332)[T.D. ATF-6, 38 FR 32445, Nov. 26, 1973, as amended by T.D. ATF-450, 66 FR 29026, May 29, 2001]
+(26 U.S.C. 6332)[T.D. ATF-6, 38 FR 32445, Nov. 26, 1973, as amended by T.D. ATF-450, 66 FR 29026, May 29, 2001; T.D. TTB-196, 89 FR 87951, Nov. 6, 2024]

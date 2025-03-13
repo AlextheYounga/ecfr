@@ -1,10 +1,8 @@
 ##### § 40.22 Determination of sale price of large cigars. #####
 
-Link to an amendment published at 89 FR 87947, Nov. 6, 2024.
-
 (a) *General rule.* The tax imposed on large cigars is computed based on the sale price (the price for which the large cigars are sold by the manufacturer). In addition to money, goods or services exchanged for cigars may be considered as part of the sale price.
 
-(b) *Special cases*—(1) *In general.* If there is any question concerning the applicable sale price for tax purposes, the appropriate TTB officer will determine such price, applying rules similar to the constructive sale price rules in 26 U.S.C. 4216(b) and the implementing regulations in 26 CFR 48.4216(b)-1 through 48.4216(b)-4. These constructive sale price rules apply to cigars sold by a manufacturer at retail, sold on consignment, or sold (otherwise than through an arm's length transaction) at less than the fair market price. Sales of cigars between affiliated corporations may be analyzed under the constructive sale price rules. The appropriate TTB officer may make this analysis on his or her own initiative or upon the written request of a manufacturer. If TTB decides it is necessary, we will publish constructive sale price determinations in the TTB Bulletin in accordance with § 70.701(d) of this chapter.
+(b) *Special cases*—(1) *In general.* If there is any question concerning the applicable sale price for tax purposes, the appropriate TTB officer will determine such price, applying rules similar to the constructive sale price rules in 26 U.S.C. 4216(b) and the implementing regulations in 26 CFR 48.4216(b)-1 through 48.4216(b)-4. These constructive sale price rules apply to cigars sold by a manufacturer at retail, sold on consignment, or sold (otherwise than through an arm's length transaction) at less than the fair market price. Sales of cigars between affiliated corporations may be analyzed under the constructive sale price rules. The appropriate TTB officer may make this analysis on his or her own initiative or upon the written request of a manufacturer.
 
 (2) *Adjustments in sale price*—(i) *Reasons for adjustment.* Adjustments to the sale price may occur as a result of a discount or price increase by the manufacturer or as a result of a TTB determination pursuant to paragraph (b)(1) above. In either case, the manufacturer must make conforming changes to the tax that was computed on the sale price before the adjustment.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 89 FR 87947, Nov. 6, 2024.
 
 (6) *Removals for another person.* If a manufacturer makes taxable removals of a brand and size of cigar only for distribution by others who establish the sale price, the tax is based on such sale price even though the manufacturer who makes the removals does not establish the price.
 
-[T.D. ATF-420, 64 FR 71939, Dec. 22, 1999, as amended by T.D. TTB-91, 76 FR 5479, Feb. 1, 2011]
+[T.D. ATF-420, 64 FR 71939, Dec. 22, 1999, as amended by T.D. TTB-91, 76 FR 5479, Feb. 1, 2011; T.D. TTB-196, 89 FR 87947, Nov. 6, 2024]

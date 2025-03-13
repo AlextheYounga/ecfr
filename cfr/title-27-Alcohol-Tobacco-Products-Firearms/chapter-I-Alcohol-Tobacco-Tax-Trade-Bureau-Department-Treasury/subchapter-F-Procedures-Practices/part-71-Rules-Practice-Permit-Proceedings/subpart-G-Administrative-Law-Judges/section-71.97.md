@@ -1,7 +1,25 @@
 ##### § 71.97 Powers. #####
 
-Link to an amendment published at 89 FR 87952, Nov. 6, 2024.
+Administrative law judges shall have authority to:
 
-Administrative law judges shall have authority to (a) administer oaths and affirmations; (b) issue subpoenas authorized by law; (c) rule upon offers of proof and receive relevant evidence; (d) take or cause depositions to be taken whenever the ends of justice would be served thereby; (e) regulate the course of the hearing; (f) hold conferences for the settlement or simplification of the issues by consent of the parties; (g) dispose of procedural requests or similar matters; (h) render recommended decisions in proceedings on applications for permits, and in suspension, revocation, or annulment proceedings against permits; (i) call, examine and cross-examine witnesses, including hostile or adverse witnesses when he deems such action to be necessary to a just disposition of the cause, and introduce into the record documentary or other evidence; and (j) take any other action authorized by rule of the Alcohol and Tobacco Tax and Trade Bureau consistent with the Administrative Procedure Act.
+(a) Administer oaths and affirmations;
 
-[21 FR 1441, Mar. 6, 1956. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55846, Sept. 28, 1979; T.D. ATF-119, 50 FR 9197, Mar. 6, 1985]
+(b) Issue subpoenas authorized by law;
+
+(c) Rule upon offers of proof and receive relevant evidence;
+
+(d) Take or cause depositions to be taken whenever the ends of justice would be served thereby;
+
+(e) Regulate the course of the hearing;
+
+(f) Hold conferences for the settlement or simplification of the issues by consent of the parties;
+
+(g) Dispose of procedural requests or similar matters;
+
+(h) Render recommended decisions in proceedings on applications for permits, and initial decisions in suspension, revocation, or annulment proceedings against permits;
+
+(i) Call, examine and cross-examine witnesses, including hostile or adverse witnesses when they deem such action to be necessary to a just disposition of the cause, and introduce into the record documentary or other evidence; and
+
+(j) Take any other action authorized by rule of the Alcohol and Tobacco Tax and Trade Bureau consistent with the Administrative Procedure Act.
+
+[T.D. TTB-196, 89 FR 87952, Nov. 6, 2024]

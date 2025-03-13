@@ -1,5 +1,7 @@
 ##### § 160.076-1 Scope. #####
 
+Link to an amendment published at 89 FR 97394, Dec. 6, 2024.
+
 (a) This subpart contains structural and performance standards for approval of inflatable recreational personal flotation devices (PFDs), as well as requirements for production follow-up inspections, associated manuals, information pamphlets, and markings.
 
 (b) Inflatable PFDs approved under this subpart rely entirely upon inflation for buoyancy.

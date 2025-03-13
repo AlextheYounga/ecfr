@@ -1,7 +1,5 @@
 ##### § 70.183 Administration and disposition of real estate acquired by the United States. #####
 
-Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
-
 (a) *Persons charged with.* The appropriate TTB officer shall have charge of all real estate which has been or shall be assigned, set off, or otherwise conveyed by purchase or otherwise to the United States in payment of debts or penalties arising under provisions of 26 U.S.C. enforced and administered by the Bureau or which has been or shall be vested in the United States by mortgage, or other security for payment of such debts, or which has been redeemed by the United States, or which has been or shall be acquired by the United States for payment of or as security for debts arising under provisions of 26 U.S.C. enforced and administered by the Bureau, and of all trusts created for the use of the United States in payment of such debts due the United States.
 
 (b) *Sale.* The appropriate TTB officer may sell any real estate owned or held by the United States as aforesaid, subject to the following rules:
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
 
 (4) *Rejection of bids and adjournment of sale.* The officer conducting the sale reserves the right to reject any and all bids and withdraw the property from the sale. When it appears to the officer conducting the sale that an adjournment of the sale will best serve the interest of the United States, that officer may order the sale adjourned from time to time. If the sale is adjourned for more than 30 days in the aggregate, public notice of the sale must be given again in accordance with paragraph (b)(2) of this section.
 
-(5) *Liquidated damages.* The notice shall state whether, in the cae of default in payment of the bid price, any amount deposited with the United States will be retained as liquidated damages. In case liquidated damages are provided, the amount thereof shall not exceed $200.
+(5) *Liquidated damages.* The notice shall state whether, in the case of default in payment of the bid price, any amount deposited with the United States will be retained as liquidated damages. In case liquidated damages are provided, the amount thereof shall not exceed $200.
 
 (6) *Agreement to bid.* The appropriate TTB officer may, before giving notice of sale, solicit offers from prospective bidders and enter into agreements with such persons that they will bid at least a specified amount in case the property is offered for sale. In such cases, the appropriate TTB officer may also require such persons to make deposits to secure the performance of their agreements. Any such deposit, but not more than $200, shall be retained as liquidated damages in case such person fails to bid the specified amount and the property is not sold for as much as the amount specified in such agreement.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
 
 (f) *Authority of appropriate TTB officer.* Notwithstanding the other paragraphs of this section, the appropriate TTB officer may, when such officer deems it advisable, take charge of, and assume responsibility for, any real estate to which this section is applicable. In such case, such officer will notify in writing the appropriate TTB officer from whom he or she is taking charge and assuming responsibility. Also, in any case where a single parcel of real estate is situated in an area in which more than one officer has jurisdiction, the appropriate TTB officer may designate in writing one officer who is to be in charge of, and responsible for, the entire property.
 
-(26 U.S.C. 7506)[T.D. ATF-301, 55 FR 47627, Nov. 14, 1990, as amended by T.D. ATF-450, 66 FR 29027, May 29, 2001]
+(26 U.S.C. 7506)[T.D. ATF-301, 55 FR 47627, Nov. 14, 1990, as amended by T.D. ATF-450, 66 FR 29027, May 29, 2001; T.D. TTB-196, 89 FR 87951, Nov. 6, 2024]

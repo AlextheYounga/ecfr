@@ -1,5 +1,7 @@
 ##### § 160.055-5 Construction—standard life preservers. #####
 
+Link to an amendment published at 89 FR 97390, Dec. 6, 2024.
+
 (a) *General.* This specification covers life preservers which essentially consist of plastic foam buoyant material arranged and distributed so as to provide the flotation characteristics and buoyancy required to hold the wearer in an upright or slightly backward position with head and face clear of the water. The life preservers are also arranged so as to be reversible and are fitted with straps and hardware to provide proper adjustment and fit to the bodies of various size wearers.
 
 (b) *Construction—standard, vinyl dip coated life preserver.* This device is constructed from one piece of unicellular plastic foam with neck hole and the body slit in the front, vinyl dip coating, and fitted and adjustable body strap.

@@ -1,7 +1,5 @@
 ##### § 9.110 San Benito. #####
 
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “San Benito.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundaries of San Benito viticultural area are six U.S.G.S. maps. They are titled:
@@ -38,7 +36,7 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (ix) Then westward along that southern border to the 1400-foot contour line.
 
-(x) Then following the 1400-foot contour line through the folloowing sections: Sections 28, 29, and 30, Township 14 South, Range 6 East; Section 25, Township 14 South, Range 5 East; Sections 30, 19, 20, and returning to 19, Township 14 South, Range 6 East; to the point where the 1400-foot contour line intersects the section line between Sections 19 and 18, Township 14 South, Range 6 East.
+(x) Then following the 1400-foot contour line through the following sections: Sections 28, 29, and 30, Township 14 South, Range 6 East; Section 25, Township 14 South, Range 5 East; Sections 30, 19, 20, and returning to 19, Township 14 South, Range 6 East; to the point where the 1400-foot contour line intersects the section line between Sections 19 and 18, Township 14 South, Range 6 East.
 
 (xi) From there in a straight line due northward to the 1200-foot contour line in Section 18, Township 14 South, Range 6 East.
 
@@ -66,4 +64,4 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (xxiii) Then southward along the eastern border of Sections 20, 29, and 32, Township 14 South, Range 7 East, and continuing southward along the eastern border of Sections 5, 8, and 17, Township 15 South, Range 7 East, to the starting point.
 
-[T.D. ATF-258, 52 FR 37137, Oct. 5, 1987]
+[T.D. ATF-258, 52 FR 37137, Oct. 5, 1987, as amended by T.D. TTB-196, 89 FR 87936, Nov. 6, 2024]

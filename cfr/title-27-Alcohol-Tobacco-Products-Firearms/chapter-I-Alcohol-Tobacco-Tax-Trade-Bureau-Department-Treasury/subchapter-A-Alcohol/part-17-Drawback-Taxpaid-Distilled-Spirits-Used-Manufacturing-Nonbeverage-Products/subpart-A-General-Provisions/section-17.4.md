@@ -1,7 +1,5 @@
 ##### § 17.4 OMB control numbers assigned under the Paperwork Reduction Act. #####
 
-Link to an amendment published at 89 FR 87937, Nov. 6, 2024.
-
 (a) *Purpose.* This section collects and displays the control numbers assigned to the information collection requirements of this part by the Office of Management and Budget under the Paperwork Reduction Act of 1995.
 
 (b) *OMB control number 1513-0013.* OMB control number 1513-0013 is assigned to the following section in this part: § 17.106.
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 87937, Nov. 6, 2024.
 
 (d) *OMB control number 1513-0021.* OMB control number 1513-0021 is assigned to the following sections in this part: §§ 17.121, 17.126, 17.127, 17.132, and 17.136.
 
-(e) *OMB control number 1513-0130.* OMB control number 1513-0130 is assigned to the following sections in this part: §§ 17.142, 17.145, and 17.146.
+(e) *OMB control number 1513-0030.* OMB control number 1513-0030 is assigned to the following sections in this part: §§ 17.142, 17.145, and 17.146.
 
 (f) *OMB control number 1513-0036.* OMB control number 1513-0036 is assigned to the following section in this part: § 17.6.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 89 FR 87937, Nov. 6, 2024.
 
 (j) *OMB control number 1513-0098.* OMB control number 1513-0098 is assigned to the following sections in this part: §§ 17.147 and 17.182.
 
-[T.D. ATF-379, 61 FR 31412, June 20, 1996, as amended by T.D. TTB-79, 74 FR 37401, July 28, 2009]
+[T.D. ATF-379, 61 FR 31412, June 20, 1996, as amended by T.D. TTB-79, 74 FR 37401, July 28, 2009; T.D. TTB-196, 89 FR 87937, Nov. 6, 2024]

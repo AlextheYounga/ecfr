@@ -1,5 +1,7 @@
 ##### § 160.064-6 Examinations, tests and inspections. #####
 
+Link to an amendment published at 89 FR 97394, Dec. 6, 2024.
+
 (a) *Manufacturer's inspection and tests.* Manufacturers of listed and labeled water safety buoyant devices shall maintain quality control of the materials used, manufacturing methods and the finished product so as to meet the applicable requirements, and shall make sufficient inspections and tests of representative samples and components produced to maintain the quality of the finished product. Records of tests conducted by the manufacturer and records of materials, including affidavits by suppliers that applicable requirements are met, entering into construction shall be made available to the recognized laboratory inspector or to the Coast Guard marine inspector, or both, for review upon request.
 
 (b) *Laboratory inspections and tests.* Such examinations, inspections and tests as are required by the recognized laboratory for listed and labeled devices produced will be conducted by the laboratory inspector at the place of manufacture or other location at the option of the laboratory.

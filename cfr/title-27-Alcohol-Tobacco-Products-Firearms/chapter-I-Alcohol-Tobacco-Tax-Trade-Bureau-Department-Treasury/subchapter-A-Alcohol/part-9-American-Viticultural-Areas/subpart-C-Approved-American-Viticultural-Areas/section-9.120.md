@@ -1,7 +1,5 @@
 ##### § 9.120 Sierra Foothills. #####
 
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “Sierra Foothills.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundary of the Sierra Foothills viticultural area are four U.S.G.S. topographical maps of the 1:250,000 scale:
@@ -32,7 +30,7 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (8) Then south, in a straight line, approximately 14.1 miles, along the Sacramento County—Amador County line, to the point where the county line meets Dry Creek in the northwestern corner of T. 5 N., R. 9 E.;
 
-(9) Then in a south southeasterly direction, in a stright line, approximately 5.4 miles. along the San Joaquin County—Amador County line, to the point where the Mokelumne River forms the Amador County—Calaveras County line in T. 4 N., R. 9 E.;
+(9) Then in a south southeasterly direction, in a straight line, approximately 5.4 miles. along the San Joaquin County—Amador County line, to the point where the Mokelumne River forms the Amador County—Calaveras County line in T. 4 N., R. 9 E.;
 
 (10) Then continuing in a south southeasterly direction, in a straight line, approximately 10.4 miles, along the San Joaquin County-Calaveras County line, to the point where the power line meets the western border of T. 3 N., R. 10 E.;
 
@@ -56,4 +54,4 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (20) Then west, approximately five miles, along the north border of T. 18 N., R. 6 E., to the point of beginning.
 
-[T.D. ATF-261, 52 FR 44105, Nov. 18, 1987]
+[T.D. ATF-261, 52 FR 44105, Nov. 18, 1987, as amended by T.D. TTB-196 89 FR 87936, Nov. 6, 2024]

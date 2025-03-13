@@ -1,5 +1,7 @@
 ##### § 791.4 Determination of foreign adversaries. #####
 
+Link to an amendment published at 89 FR 96893, Dec. 6, 2024.
+
 (a) The Secretary has determined that the following foreign governments or foreign non-government persons have engaged in a long-term pattern or serious instances of conduct significantly adverse to the national security of the United States or security and safety of United States persons and, therefore, constitute foreign adversaries solely for the purposes of the Executive Order, this rule, and any subsequent rule:
 
 (1) The People's Republic of China, including the Hong Kong Special Administrative Region (China);

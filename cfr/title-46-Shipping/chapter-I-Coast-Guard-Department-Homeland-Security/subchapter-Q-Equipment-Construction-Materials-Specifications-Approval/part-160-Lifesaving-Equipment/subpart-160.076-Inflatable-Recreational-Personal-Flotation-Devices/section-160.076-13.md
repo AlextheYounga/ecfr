@@ -1,5 +1,7 @@
 ##### § 160.076-13 Approval procedures for inflatable PFDs. #####
 
+Link to an amendment published at 89 FR 97395, Dec. 6, 2024.
+
 (a) Manufacturers seeking approval of an inflatable PFD design shall follow the procedures of this section and subpart 159.005 of this chapter.
 
 (b) Each application for approval of an inflatable PFD must contain the information specified in § 159.005-5 of this chapter. The application must be submitted to a recognized laboratory. One copy of the application and, except as provided in paragraph (c)(2) of this section, a prototype PFD must be submitted to the Commandant for preapproval review. If a similar design has already been approved, the Commandant may authorize the recognized laboratory to waive the preapproval review under §§ 159.005-5 and 159.005-7 of this chapter.

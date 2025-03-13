@@ -1,5 +1,7 @@
 ##### § 160.055-7 Sampling, tests, and inspections. #####
 
+Link to an amendment published at 89 FR 97390, Dec. 6, 2024.
+
 (a) Production tests and inspections must be conducted by the manufacturer of a life preserver and the accepted laboratory inspector in accordance with this section and § 160.001-5.
 
 (b) *Buoyancy test.* The buoyancy of the pad inserts from the life preserver shall be determined according to § 160.001-5(f) of this part with each compartment of the buoyant pad insert covers slit so as not to entrap air. The period of submersion must be at least 48 hours.

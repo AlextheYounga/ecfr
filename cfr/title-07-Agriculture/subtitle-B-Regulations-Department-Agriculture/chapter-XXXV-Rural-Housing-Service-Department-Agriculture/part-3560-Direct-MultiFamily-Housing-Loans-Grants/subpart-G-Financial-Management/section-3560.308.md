@@ -2,9 +2,9 @@
 
 (a) *General.* (1) For-profit borrowers that receive $500,000 or more in combined Federal financial assistance must include an independent auditor's report that includes, financial statements and notes to the financial statements, supplemental information containing Agency approved forms for project budgets and borrower balance sheets, a report on internal control over financial reporting and on compliance and other matters based on an audit of financial statements in accordance with Government Auditing Standards; a report on compliance for each major program and internal control over compliance (if applicable). Federal Financial Assistance is defined in accordance with 2 CFR 200.40.
 
-(2) Non-profit borrowers that receive $750,000 or more in combined Federal financial assistance must meet the audit requirements set forth by OMB, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, found at 2 CFR parts 200 and 400. Borrowers must provide a copy of this audit to RHS in compliance with these financial reporting requirements.
+(2) Non-profit borrowers that receive $1 million or more in combined Federal financial assistance must meet the audit requirements set forth by OMB, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, found at 2 CFR parts 200 and 400. Borrowers must provide a copy of this audit to RHS in compliance with these financial reporting requirements.
 
-(3) Non-profit borrowers that receive less than $750,000, and for-profit borrowers that receive less than $500,000in combined Federal financial assistance will submit annual owner certified prescribed forms on the accrual method of accounting in accordance with the Statements on Standards for Accounting and Review Services promulgated by the Accounting and Review Services Committee of the American Institute of Certified Public Accountants (AICPA). Borrowers may use a CPA to prepare this compilation report of the prescribed forms.
+(3) Non-profit borrowers that receive less than $1 million, and for-profit borrowers that receive less than $500,000 in combined Federal financial assistance will submit annual owner certified prescribed forms on the accrual method of accounting in accordance with the Statements on Standards for Accounting and Review Services promulgated by the Accounting and Review Services Committee of the American Institute of Certified Public Accountants (AICPA). Borrowers may use a CPA to prepare this compilation report of the prescribed forms.
 
 (b) *Performance standards.* All Borrowers must certify that the housing meets the performance standards below:
 
@@ -34,4 +34,4 @@
 
 (3) Any audits independently obtained by the borrower also must be submitted to the Agency.
 
-[69 FR 69106, Nov. 26, 2004, as amended at 82 FR 49286, Oct. 25, 2017]
+[69 FR 69106, Nov. 26, 2004, as amended at 82 FR 49286, Oct. 25, 2017; 89 FR 96859, Dec. 6, 2024]

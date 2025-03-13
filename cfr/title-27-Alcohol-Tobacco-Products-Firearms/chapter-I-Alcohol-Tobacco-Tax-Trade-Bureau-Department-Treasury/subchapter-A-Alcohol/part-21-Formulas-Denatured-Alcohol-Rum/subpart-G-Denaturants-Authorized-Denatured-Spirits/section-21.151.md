@@ -1,7 +1,5 @@
 ##### § 21.151 List of denaturants authorized for denatured spirits. #####
 
-Link to an amendment published at 89 FR 87941, Nov. 6, 2024.
-
 Following is an alphabetical listing of denaturants authorized for use in denatured spirits:
 
 |                     Acetaldehyde                      |             S.D.A. 29.             |
@@ -47,7 +45,6 @@ Following is an alphabetical listing of denaturants authorized for use in denatu
 |                       Gasoline                        |    C.D.A. 18, 19; S.D.A. 28-A.     |
 |                  Gasoline, unleaded                   |   C.D.A. 18, 19, 20; S.D.A 28-A.   |
 |              Glycerin (Glycerol), U.S.P               |            S.D.A. 31-A.            |
-|                   Green soap, U.S.P                   |               S.D.A.               |
 |                    Guaiacol, N.F.X                    |            S.D.A. 38-B.            |
 |                        Heptane                        |  C.D.A. 18, 19; S.D.A. 2-B, 28-A.  |
 |                        Hexane                         |            S.D.A. 2-B.             |
@@ -110,4 +107,4 @@ Following is an alphabetical listing of denaturants authorized for use in denatu
 |                        Vinegar                        |             S.D.A. 18.             |
 |                 Zinc chloride, U.S.P                  |            S.D.A. 38-F.            |
 
-[T.D. ATF-133, 48 FR 24673, June 2, 1983, as amended by T.D. ATF-442, 66 FR 12854, Mar. 1, 2001; T.D. TTB-140, 81 FR 59463, Aug. 30, 2016]
+[T.D. ATF-133, 48 FR 24673, June 2, 1983, as amended by T.D. ATF-442, 66 FR 12854, Mar. 1, 2001; T.D. TTB-140, 81 FR 59463, Aug. 30, 2016; T.D. TTB-196, 89 FR 87940, Nov. 6, 2024]

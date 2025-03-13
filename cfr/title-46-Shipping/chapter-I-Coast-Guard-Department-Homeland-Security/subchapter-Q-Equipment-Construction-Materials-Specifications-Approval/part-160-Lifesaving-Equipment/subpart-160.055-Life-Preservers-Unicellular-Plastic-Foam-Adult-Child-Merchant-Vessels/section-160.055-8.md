@@ -1,5 +1,7 @@
 ##### § 160.055-8 Marking. #####
 
+Link to an amendment published at 89 FR 97390, Dec. 6, 2024.
+
 Each life preserver must have the following information clearly marked in waterproof lettering:
 
 (a) In letters three-fourths of an inch or more in height;

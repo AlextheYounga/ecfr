@@ -1,7 +1,5 @@
 ##### § 9.135 Virginia's Eastern Shore. #####
 
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “Virginia's Eastern Shore.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundaries of the “Virginia's Eastern Shore” viticultural area are 3 U.S.G.S. Quadrangle (1:250,000 Series) maps. They are titled:
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (1) The beginning point is the intersection of the Virginia/Maryland border and Chincoteague Bay, near Greenbackville on the Salisbury, MD., U.S.G.S. map;
 
-(2) From the beginning point, the boundary follows the coastline in a southwesterly direction. Where there are marshes indicated on the U.S.G.S. maps, the boundry is the inland side of these marshes;
+(2) From the beginning point, the boundary follows the coastline in a southwesterly direction. Where there are marshes indicated on the U.S.G.S. maps, the boundary is the inland side of these marshes;
 
 (3) When the boundary reaches the southernmost point of the peninsula, on the Eastville, VA., U.S.G.S. map, the boundary turns and proceeds in a northwesterly direction, again following the coastline around Cherrystone Inlet on the Richmond, VA., U.S.G.S. map;
 
@@ -24,4 +22,4 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (5) The boundary then follows the Virginia/Maryland border back to the beginning point at Chincoteague Bay on the Salisbury, MD., U.S.G.S. map.
 
-[T.D. ATF-309, 56 FR 24, Jan. 2, 1991]
+[T.D. ATF-309, 56 FR 24, Jan. 2, 1991, as amended by T.D. TTB-196, 89 FR 87936, Nov. 6, 2024]

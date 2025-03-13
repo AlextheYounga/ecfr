@@ -1,7 +1,5 @@
 ##### § 25.56 Filing of formulas. #####
 
-Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
-
 (a) *What are the general requirements for filing a formula?* (1) You must file your formula in writing. Your formula must identify each brewery where the formula applies by including each brewery name, address, and registry number.
 
 (2) You must serially number each formula, commencing with “1” and continuing in numerical sequence.
@@ -10,6 +8,6 @@ Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
 
 (4) You must file two copies of each formula with TTB.
 
-(b) *Where do I file a formula?* File your formula with the Assistant Chief, Advertising, Labeling and Formulation Division, Alcohol and Tobacco Tax and Trade Bureau, 1310 G Street, NW., Washington, DC 20220.
+(b) *Where do I file a formula?* File your formula with the Assistant Director, Alcohol Labeling and Formulation Division, Alcohol and Tobacco Tax and Trade Bureau, 1310 G Street NW, Box 12, Washington, DC 20005.
 
-(26 U.S.C. 5401, 7805)
+[70 FR 235, Jan. 3, 2005, as amended by T.D. TTB-196, 89 FR 87943, Nov. 6, 2024]

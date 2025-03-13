@@ -1,7 +1,5 @@
 ##### § 28.11 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87945, Nov. 6, 2024.
-
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meaning ascribed in this section. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude things not enumerated which are in the same general class.
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury, Washington, DC.
@@ -24,9 +22,9 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Container.* Any receptacle, vessel, or any form of package, bottle, can, tank, or pipeline used, or capable of being used, for holding, storing, transferring, or conveying liquors.
 
-*Customs bonded warehouse.* A customs bonded warehouse, class 2, 3, or 8, established under the provisions of Customs Regulations (19 CFR chapter I).
+*Customs bonded warehouse.* A customs bonded warehouse, class 2, 3, or 8, established under the provisions of the customs regulations (19 CFR chapter I).
 
-*Customs officer.* Any officer of the Customs Service or any commissioned, warrant, or petty officer of the Coast Guard, or any agent or other person authorized by law or designated by the Secretary of the Treasury to perform the duties of an officer of the Customs Service.
+*Customs officer.* An officer of U.S. Customs and Border Protection (CBP) or any agent or other person authorized by law to perform the duties of such an officer.
 
 *Delegate.* Any officer, employee, or agency of the Department of the Treasury authorized by the Secretary of the Treasury directly, or indirectly by one or more redelegations of authority, to perform the function mentioned or described in the context.
 
@@ -50,7 +48,7 @@ I declare under the penalties of perjury that this \_\_\_\_\_\_\_\_\_\_ (insert 
 
 *Liter.* A metric unit of capacity equal to 1,000 cubic centimeters of alcoholic beverage, and equivalent to 33.814 fluid ounces. A liter is divided into 1,000 milliliters. Milliliter or milliliters may be abbreviated as “ml”.
 
-*Manufacturing bonded warehouse.* A manufacturing bonded warehouse, class six, established under the provisions of Customs Regulations (19 CFR, chapter I).
+*Manufacturing bonded warehouse.* A manufacturing bonded warehouse, class six, established under the provisions of the customs regulations (19 CFR, chapter I).
 
 *Package.* Any cask, keg, barrel, drum, or similar portable container.
 
@@ -62,7 +60,7 @@ I declare under the penalties of perjury that this \_\_\_\_\_\_\_\_\_\_ (insert 
 
 *Proprietor.* The person who operates the brewery, distilled spirits plant, bonded wine cellar, taxpaid wine bottling house, or manufacturing bonded warehouse, as the case may be, referred to in this part.
 
-*Secretary.* The Secretary of the Treasury or his delegate.
+*Secretary of the Treasury* or *Secretary.* The Secretary of the Treasury or a delegate of the Secretary.
 
 *Specially denatured spirits.* Alcohol or rum, as defined in part 21 of this chapter, denatured pursuant to the formulas authorized in part 21 for specially denatured alcohol or rum.
 
@@ -76,4 +74,4 @@ I declare under the penalties of perjury that this \_\_\_\_\_\_\_\_\_\_ (insert 
 
 *Zone operator.* The person to which the privilege of establishing, operating, and maintaining a foreign-trade zone has been granted by the Foreign-Trade Zones Board created by the Act of June 18, 1934, as amended.
 
-(68A Stat. 917, as amended (26 U.S.C. 7805); 49 Stat. 981, as amended (27 U.S.C. 205))[T.D. ATF-48, 43 FR 13552, Mar. 31, 1978, as amended by T.D. ATF-51, 43 FR 24243, June 2, 1978; 44 FR 55854, Sept. 28, 1979; T.D. ATF-62, 44 FR 71720, Dec. 11, 1979; T.D. ATF-199, 50 FR 9201, Mar. 6, 1985; T.D. ATF-224, 51 FR 7698, Mar. 5, 1986; T.D. ATF-477, 67 FR 18088, Apr. 15, 2002; T.D. TTB-8, 69 FR 3831, Jan. 27, 2004; T.D. TTB-146, 82 FR 1135, Jan. 4, 2017]
+(68A Stat. 917, as amended (26 U.S.C. 7805); 49 Stat. 981, as amended (27 U.S.C. 205))[T.D. ATF-48, 43 FR 13552, Mar. 31, 1978, as amended by T.D. ATF-51, 43 FR 24243, June 2, 1978; 44 FR 55854, Sept. 28, 1979; T.D. ATF-62, 44 FR 71720, Dec. 11, 1979; T.D. ATF-199, 50 FR 9201, Mar. 6, 1985; T.D. ATF-224, 51 FR 7698, Mar. 5, 1986; T.D. ATF-477, 67 FR 18088, Apr. 15, 2002; T.D. TTB-8, 69 FR 3831, Jan. 27, 2004; T.D. TTB-146, 82 FR 1135, Jan. 4, 2017; T.D. TTB-196, 89 FR 87944, Nov. 6, 2024]

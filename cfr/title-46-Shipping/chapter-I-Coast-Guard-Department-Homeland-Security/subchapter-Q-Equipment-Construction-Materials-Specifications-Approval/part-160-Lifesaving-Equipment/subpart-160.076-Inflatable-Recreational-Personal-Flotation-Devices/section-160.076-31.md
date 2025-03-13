@@ -1,5 +1,7 @@
 ##### § 160.076-31 Production tests and examinations. #####
 
+Link to an amendment published at 89 FR 97395, Dec. 6, 2024.
+
 (a) Samples used in testing must be selected in accordance with § 160.076-29(e).
 
 (b) On each sample selected—

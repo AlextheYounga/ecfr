@@ -1,5 +1,7 @@
 ##### § 160.060-3 Materials—standard vests. #####
 
+Link to an amendment published at 89 FR 97392, Dec. 6, 2024.
+
 (a) *General.* All components used in the construction of buoyant vests must meet the applicable requirements of subpart 164.019 of this chapter. The requirements for materials specified in this section are minimum requirements, and consideration will be given to the use of alternate materials in lieu of those specified. Detailed technical data and samples of all proposed alternate materials must be submitted for approval before those materials are incorporated in the finished product.
 
 (b) *Unicellular polyethylene foam.* The unicellular polyethylene foam shall be all new material complying with specification subpart 164.013 of this subchapter.

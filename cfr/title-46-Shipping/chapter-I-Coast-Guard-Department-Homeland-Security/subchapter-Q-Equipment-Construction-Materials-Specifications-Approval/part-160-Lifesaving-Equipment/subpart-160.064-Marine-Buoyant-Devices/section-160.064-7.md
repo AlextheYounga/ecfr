@@ -1,5 +1,7 @@
 ##### § 160.064-7 Recognized laboratory. #####
 
+Link to an amendment published at 89 FR 97394, Dec. 6, 2024.
+
 (a) A manufacturer seeking Coast Guard approval of a product under this subpart shall follow the approval procedures of subpart 159.005 of this chapter, and shall apply for approval directly to a recognized independent laboratory. The following laboratories are recognized under § 159.010-7 of this part, to perform testing and approval functions under this subpart:
 
 Underwriters Laboratories, 12 Laboratory Drive, P.O. Box 13995, Research Triangle Park, NC 27709-3995, (919) 549-1400.

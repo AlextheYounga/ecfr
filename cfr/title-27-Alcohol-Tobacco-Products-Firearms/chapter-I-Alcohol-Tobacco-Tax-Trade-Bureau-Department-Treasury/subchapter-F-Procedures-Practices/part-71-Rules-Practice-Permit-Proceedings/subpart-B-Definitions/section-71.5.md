@@ -1,7 +1,5 @@
 ##### § 71.5 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87952, Nov. 6, 2024.
-
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meaning ascribed in this subpart. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “include” and “including” do not exclude things not enumerated which are in the same general class.
 
 *Administrative law judge.* The person appointed pursuant to 5 U.S.C. 3105, designated to preside over any administrative proceedings under this part.
@@ -22,7 +20,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Initial decision.* The decision of the appropriate TTB officer or administrative law judge in a proceeding on the suspension, revocation or annulment of a permit.
 
-*Other term.* Any other term defined in the Federal Alcohol Administration Act (27 U.S.C. 201), the Internal Revenue Code (26 U.S.C.) or the Administrative Procedure Act (5 U.S.C. 1001), where used in this part, shall have the meaning assigned to it therein.
+*Other term.* Any other term defined in the Federal Alcohol Administration Act (27 U.S.C. 201), the Internal Revenue Code (26 U.S.C.) or the Administrative Procedure Act (5 U.S.C. 551), where used in this part, shall have the meaning assigned to it therein.
 
 *Permit*—(a) *Alcohol fuel permit.* The document issued under 26 U.S.C. 5181, authorizing the person named therein to engage in the business described therein.
 
@@ -42,4 +40,4 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Respondent.* Any person holding a permit against which an order has been issued to show cause why such permit should not be suspended, revoked or annulled.
 
-[T.D. ATF-48, 43 FR 13543, Mar. 31, 1978; 44 FR 55845, Sept. 28, 1978, and amended by T.D. ATF-62, 44 FR 71696, Dec. 11, 1979; T.D. ATF-199, 50 FR 9196, Mar. 6, 1985; T.D ATF-244, 51 FR 45762, Dec. 22, 1986; T.D. ATF-374, 61 FR 29956, June 13, 1996; T.D. ATF-414, 64 FR 49084, Sept. 10, 1999; T.D. TTB-44, 71 FR 16964, Apr. 4, 2006]
+[T.D. ATF-48, 43 FR 13543, Mar. 31, 1978; 44 FR 55845, Sept. 28, 1978, and amended by T.D. ATF-62, 44 FR 71696, Dec. 11, 1979; T.D. ATF-199, 50 FR 9196, Mar. 6, 1985; T.D ATF-244, 51 FR 45762, Dec. 22, 1986; T.D. ATF-374, 61 FR 29956, June 13, 1996; T.D. ATF-414, 64 FR 49084, Sept. 10, 1999; T.D. TTB-44, 71 FR 16964, Apr. 4, 2006; T.D. TTB-196, 89 FR 87952, Nov. 6, 2024]

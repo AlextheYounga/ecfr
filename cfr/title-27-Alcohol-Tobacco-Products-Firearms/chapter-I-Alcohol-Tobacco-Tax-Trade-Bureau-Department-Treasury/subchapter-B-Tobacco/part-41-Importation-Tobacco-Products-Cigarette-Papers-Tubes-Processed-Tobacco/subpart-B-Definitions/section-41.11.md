@@ -1,7 +1,5 @@
 ##### § 41.11 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87947, Nov. 6, 2024.
-
 When used in this part and in forms prescribed under this part, the following terms shall have the meanings given in this section, unless the context clearly indicates otherwise. Words in the plural form shall include the singular, and vice versa, and words indicating the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude things not listed which are in the same general class.
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury, Washington, DC.
@@ -50,7 +48,7 @@ When used in this part and in forms prescribed under this part, the following te
 
 *HTS.* The Harmonized Tariff Schedule of the United States, as published by the United States International Trade Commission.
 
-*Importer.* Any person in the United States to whom non-taxpaid tobacco products or cigarette papers or tubes, or any processed tobacco manufactured in a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States are shipped or consigned; any person who removes cigars for sale or consumption in the United States from a Customs bonded manufacturing warehouse; and any person who smuggles or otherwise unlawfully brings tobacco products or cigarette papers or tubes, or any processed tobacco into the United States.
+*Importer.* Any person in the United States to whom non-taxpaid tobacco products or cigarette papers or tubes, or any processed tobacco manufactured in a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States are shipped or consigned; any person who removes cigars for sale or consumption in the United States from a customs bonded manufacturing warehouse; and any person who smuggles or otherwise unlawfully brings tobacco products or cigarette papers or tubes, or any processed tobacco into the United States.
 
 *Large cigarettes.* Cigarettes weighing more than three pounds per thousand.
 

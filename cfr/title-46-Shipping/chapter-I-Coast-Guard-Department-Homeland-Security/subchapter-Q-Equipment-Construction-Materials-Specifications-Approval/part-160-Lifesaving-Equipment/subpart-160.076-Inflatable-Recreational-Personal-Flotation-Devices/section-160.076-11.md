@@ -1,5 +1,7 @@
 ##### § 160.076-11 Incorporation by reference. #####
 
+Link to an amendment published at 89 FR 97394, Dec. 6, 2024.
+
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at Coast Guard Headquarters and at the National Archives and Records Administration (NARA). Contact the Coast Guard at: Commandant (CG-ENG-4), U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7509; or email *typeapproval@uscg.mil* or visit *https://www.dco.uscg.mil/CG-ENG-4/.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the source in the following paragraph of this section.
 
 (b) Underwriters Laboratories (UL) *Underwriters Laboratories, Inc., 333 Pfingsten Road, Northbrook, IL 60062-2096 (Phone (847) 272-8800; Facsimile: (847) 272-8129; Web site: www.ul.com).*

@@ -1,5 +1,7 @@
 ##### § 160.055-9 Procedure for approval—standard and nonstandard life preservers. #####
 
+Link to an amendment published at 89 FR 97390, Dec. 6, 2024.
+
 (a) *General.* Manufacturers seeking approval of a life preserver design shall follow the procedures of subpart 159.005 of this chapter, as explained in § 160.001-3 of this part.
 
 (b) *Assignment of inspector; standard life preservers.* Upon receipt of an approval of a standard life preserver, a Coast Guard inspector is assigned to the factory to:

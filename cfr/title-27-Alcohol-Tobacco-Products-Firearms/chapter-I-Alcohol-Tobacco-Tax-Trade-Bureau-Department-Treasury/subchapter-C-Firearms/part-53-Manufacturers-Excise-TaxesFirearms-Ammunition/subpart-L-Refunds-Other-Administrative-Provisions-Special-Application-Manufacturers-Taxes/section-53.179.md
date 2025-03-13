@@ -1,7 +1,5 @@
 ##### § 53.179 Supporting evidence required in case of manufacturers tax involving exportations, uses, sales, or resales. #####
 
-Link to an amendment published at 89 FR 87950, Nov. 6, 2024.
-
 (a) *Evidence to be submitted by claimant.* No claim for credit or refund of an overpayment, within the meaning of section 6416(b)(2) of the Code and § 53.178, of tax under chapter 32 of the Code shall be allowed unless the person who paid the tax submits with the claim the evidence required by § 53.172(b)(2) and a statement, supported by sufficient available evidence:
 
 (1) Showing the amount claimed in respect of each category of exportations, uses, sales, or resales on which the claim is based and which give rise to a right of credit or refund under section 6416(b)(2) of the Code and § 53.177,
@@ -38,8 +36,8 @@ Link to an amendment published at 89 FR 87950, Nov. 6, 2024.
 
 (G) Description of all articles covered by the certificate, with the corresponding vendor's invoice number, date of resale of article, quantity, whether articles were exported or used and the use made of article or to be made of article.
 
-(iv) *TTB I 5600.33.* TTB I 5600.33, Statement of Ultimate Vendor, which is available as provided in § 53.21(b), when completed, contains all necessary information for a properly executed certificate. Additional copies may be reproduced as needed.
+(iv) *TTB F 5600.33.* TTB F 5600.33, Statement of Ultimate Vendor, which is available as provided in § 53.21(b), when completed, contains all necessary information for a properly executed certificate. Additional copies may be reproduced as needed.
 
 (2) *Repayment or consent of ultimate vendor.* If the person claiming credit or refund or an overpayment to which this section applies has repaid, or agreed to repay, the amount of the overpayment to the ultimate vendor or if the ultimate vendor consents to the allowance of the credit or refund, a statement to that effect, signed by the ultimate vendor, must be shown on, or made a part of, the supporting evidence required under this section to be retained by the person claiming the credit or refund. In this regard, see § 53.172(b)(2).
 
-[T.D. ATF-308, 56 FR 303, Jan. 3, 1991, as amended by T.D. ATF-380, 61 FR 37007, July 16, 1996; T.D. TTB-44, 71 FR 16958, Apr. 4, 2006]
+[T.D. ATF-308, 56 FR 303, Jan. 3, 1991, as amended by T.D. ATF-380, 61 FR 37007, July 16, 1996; T.D. TTB-44, 71 FR 16958, Apr. 4, 2006; T.D. TTB-196, 89 FR 87950, Nov. 6, 2024]

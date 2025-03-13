@@ -1,7 +1,4 @@
-##### § 25.11 Meaning of terms.
-- #####
-
-Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
+##### § 25.11 Meaning of terms. #####
 
 When used in this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms have the meanings given in this section.
 
@@ -69,7 +66,7 @@ When used in this part, where not otherwise distinctly expressed or manifestly i
 
 *Removed for consumption or sale.* Except when used with respect to beer removed without payment of tax as authorized by law, (a) the sale and transfer of possession of beer for consumption at the brewery, or (b) any removal of beer from the brewery.
 
-*Secretary.* The Secretary of the Treasury or his or her delegate.
+*Secretary of the Treasury or Secretary.* The Secretary of the Treasury or a delegate of the Secretary.
 
 *Service center.* An Internal Revenue Service Center in any of the Internal Revenue regions.
 
@@ -83,4 +80,4 @@ When used in this part, where not otherwise distinctly expressed or manifestly i
 
 *Wort.* The product of brewing before fermentation which results in beer.
 
-[T.D. ATF-224, 51 FR 7673, Mar. 5, 1986, as amended by T.D. ATF-345, 58 FR 40357, July 28, 1993; T.D. ATF-437, 66 FR 5478, Jan. 19, 2001; T.D. TTB-21, 70 FR 235, Jan. 3, 2005; T.D. TTB-44, 71 FR 16941, Apr. 4, 2006; T.D. TTB-91, 76 FR 5478, Feb. 1, 2011; T.D. TTB-146, 82 FR 1126, Jan. 4, 2017]
+[T.D. ATF-224, 51 FR 7673, Mar. 5, 1986, as amended by T.D. ATF-345, 58 FR 40357, July 28, 1993; T.D. ATF-437, 66 FR 5478, Jan. 19, 2001; T.D. TTB-21, 70 FR 235, Jan. 3, 2005; T.D. TTB-44, 71 FR 16941, Apr. 4, 2006; T.D. TTB-91, 76 FR 5478, Feb. 1, 2011; T.D. TTB-146, 82 FR 1126, Jan. 4, 2017; T.D. TTB-196, 89 FR 87943, Nov. 6, 2024]

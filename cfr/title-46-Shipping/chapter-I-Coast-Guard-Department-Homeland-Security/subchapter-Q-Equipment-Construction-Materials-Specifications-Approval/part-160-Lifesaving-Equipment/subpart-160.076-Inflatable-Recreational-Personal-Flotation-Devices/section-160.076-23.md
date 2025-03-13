@@ -1,5 +1,7 @@
 ##### § 160.076-23 Construction and performance requirements. #####
 
+Link to an amendment published at 89 FR 97395, Dec. 6, 2024.
+
 (a) Each inflatable PFD design must—
 
 (1) Meet the requirements in UL 1180 (incorporated by reference, see § 160.076-11); and

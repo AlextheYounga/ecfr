@@ -1,12 +1,10 @@
 ##### § 70.482 Offers in compromise of liabilities (other than forfeiture) under 26 U.S.C. #####
 
-Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
-
 (a) *In general.* The appropriate TTB officer may compromise any civil or criminal liability arising under the provisions of 26 U.S.C. enforced and administered by TTB prior to reference of a case involving such liability to the Department of Justice for prosecution or defense. (For compromise of forfeiture liability, see § 70.484 of this part.) Any such liability may be compromised only upon one or both of the following two grounds:
 
 (1) Doubt as to liability; or
 
-(2) Doubt as to collectibility.
+(2) Doubt as to collectability.
 
 No such liability will be compromised if the liability has been established by a valid judgment or is certain, and there is no doubt as to the ability of the Government to collect the amounts owing with respect to such liability.
 
@@ -38,4 +36,4 @@ However, no such opinion shall be required with respect to the offer in compromi
 
 (g) *Inspection with respect to accepted offers in compromise.* For provisions relating to the inspection of returns and accepted offers in compromise, *see* 26 U.S.C. 6103(k)(l).
 
-(26 U.S.C. 7122)(Approved by the Office of Management and Budget under control number 1512-0472)[T.D. ATF-301, 55 FR 47655, Nov. 14, 1990, as amended by T.D. ATF-331, 57 FR 40329, Sept. 3, 1992; T.D. ATF-450, 66 FR 29029, May 29, 2001]
+(26 U.S.C. 7122)(Approved by the Office of Management and Budget under control number 1512-0472)[T.D. ATF-301, 55 FR 47655, Nov. 14, 1990, as amended by T.D. ATF-331, 57 FR 40329, Sept. 3, 1992; T.D. ATF-450, 66 FR 29029, May 29, 2001; T.D. TTB-196, 89 FR 87951, Nov. 6, 2024]

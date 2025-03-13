@@ -1,5 +1,7 @@
 ##### § 160.060-2 Type and model. #####
 
+Link to an amendment published at 89 FR 97392, Dec. 6, 2024.
+
 Each buoyant vest specified in this subpart is a:
 
 (a) Standard:

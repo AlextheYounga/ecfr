@@ -1,7 +1,5 @@
 ##### § 5.235 Prohibited practices. #####
 
-Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
-
 (a) *Restrictions.* An advertisement of distilled spirits shall not contain:
 
 (1) Any statement that is false or untrue in any material particular, or that, irrespective of falsity, directly, or by ambiguity, omission, or inference, or by the addition of irrelevant, scientific or technical matter tends to create a misleading impression.
@@ -20,7 +18,7 @@ Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
 
 (i) It refers to a particular ingredient used in the production of the distilled spirits, and is a truthful representation about the ingredient; or
 
-(ii) It is part of the bona fide name of a permittee or retailer from whom the distilled spirits are bottled; or
+(ii) It is part of the bona fide name of a permittee or retailer for whom the distilled spirits are bottled; or
 
 (iii) It is part of the bona fide name of the permittee who bottled the distilled spirits.
 
@@ -62,4 +60,4 @@ Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
 
 (i) Any use of the term “organic” in the advertising of distilled spirits must comply with the United States Department of Agriculture's (USDA) National Organic Program rules, 7 CFR part 205, as interpreted by the USDA.
 
- T.D. TTB-176, 87 7579, Feb. 9, 2022, as amended by T. D.TTB-187, 88 FR 2228, Jan. 13, 2023]
+ T.D. TTB-176, 87 7579, Feb. 9, 2022, as amended by T. D.TTB-187, 88 FR 2228, Jan. 13, 2023; T.D. TTB-196, 89 FR 87935, Nov. 6, 2024]

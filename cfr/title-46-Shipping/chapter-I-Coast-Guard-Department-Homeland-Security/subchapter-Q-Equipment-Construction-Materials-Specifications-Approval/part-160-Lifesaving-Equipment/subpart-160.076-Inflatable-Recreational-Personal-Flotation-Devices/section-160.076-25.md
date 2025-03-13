@@ -1,5 +1,7 @@
 ##### § 160.076-25 Approval testing. #####
 
+Link to an amendment published at 89 FR 97395, Dec. 6, 2024.
+
 (a) To obtain approval of an inflatable PFD design, approval tests specified in UL 1180 (incorporated by reference, see § 160.076-11) and this section must be conducted or supervised by a recognized laboratory using PFDs that have been constructed in accordance with the plans and specifications submitted with the application for approval.
 
 (b) Each PFD design must pass the tests required by UL 1180 and this section.

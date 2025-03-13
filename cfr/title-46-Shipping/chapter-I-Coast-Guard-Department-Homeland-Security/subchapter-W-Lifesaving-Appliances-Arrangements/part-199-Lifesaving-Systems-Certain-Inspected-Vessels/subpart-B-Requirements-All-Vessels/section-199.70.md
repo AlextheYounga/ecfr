@@ -1,5 +1,7 @@
 ##### § 199.70 Personal lifesaving appliances. #####
 
+Link to an amendment published at 89 FR 97401, Dec. 6, 2024.
+
 (a) *Lifebuoys.* Each vessel must carry lifebuoys approved under approval series 160.150 as follows:
 
 (1) *Stowage.* Lifebuoys must be stowed as follows:

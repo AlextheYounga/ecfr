@@ -1,7 +1,5 @@
 ##### § 53.11 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
-
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this section. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury, Washington, DC.
@@ -26,7 +24,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Firearms.* Any portable weapons, such as rifles, carbines, machine guns, shotguns, or fowling pieces, from which a shot, bullet, or other projectile may be discharged by an explosive.
 
-*Importer.* Any person who brings a taxable article into the United States from a source outside the United States, or who withdraws such an article from a customs bonded warehouse for sale or use in the United States. If the nominal importer of a taxable article is not its beneficial owner (for example, the nominal importer is a customs broker engaged by the beneficial owner), the beneficial owner is the “importer” of the article for purposes of chapter 32 of the Code and is liable for tax on his sale or use of the article in the United States. See section 4219 of the Code and 27 CFR 53.121 for the circumstances under which sales by persons other than the manufacturer or importer are subject to the manufacturers excise tax.
+*Importer.* Any person who brings a taxable article into the United States from a source outside the United States, or who withdraws such an article from a customs bonded warehouse for sale or use in the United States. If the nominal importer of a taxable article is not its beneficial owner (for example, the nominal importer is a customs broker engaged by the beneficial owner), the beneficial owner is the “importer” of the article for purposes of chapter 32 of the Code and is liable for tax on their sale or use of the article in the United States. See section 4219 of the Code and 27 CFR 53.121 for the circumstances under which sales by persons other than the manufacturer or importer are subject to the manufacturers excise tax.
 
 *Knockdown condition.* A taxable article that is unassembled but complete as to all component parts.
 
@@ -46,7 +44,7 @@ A manufacturer who sells a taxable article in a knockdown condition is liable fo
 
 *Sale.* An agreement whereby the seller transfers the property (that is, the title or the substantial incidents of ownership in goods) to the buyer for a consideration called the price, which may consist of money, services, or other things.
 
-*Secretary.* The Secretary of the Treasury or his delegate.
+*Secretary of the Treasury* or *Secretary.* The Secretary of the Treasury or a delegate of the Secretary.
 
 *Shells and cartridges.* Include any article consisting of a projectile, explosive, and container that is designed, assembled, and ready for use without further manufacture in firearms, pistols or revolvers. A person who reloads used shell or cartridge casings is a manufacturer of shells or cartridges within the meaning of section 4181 if such reloaded shells or cartridges are sold by the reloader. However, the reloader is not a manufacturer of shells or cartridges if, in return for a fee and expenses, he reloads casings of shells or cartridges submitted by a customer and returns the reloaded shells or cartridges with the identical casings provided by the customer to that customer. Under such circumstances, the customer would be the manufacturer of the shells or cartridges and may be liable for tax on the sale of articles. See section 4218 of the Code and § 53.112.
 
@@ -56,4 +54,4 @@ A manufacturer who sells a taxable article in a knockdown condition is liable fo
 
 *Vendor.* Includes a lessor where the lessor is also the manufacturer of the article.
 
-[T.D. ATF-308, 56 FR 303, Jan. 3, 1991, as amended by T.D. ATF-312, 56 FR 31083, July 9, 1991; T.D. ATF-330, 57 FR 40325, Sept. 3, 1992; T.D. ATF-365, 60 FR 33670, June 28, 1995; T.D. ATF-404, 63 FR 52603, Oct. 1, 1998; T.D. ATF-447, 66 FR 19088, Apr. 13, 2001; T.D. TTB-44, 71 FR 16957, Apr. 4, 2006]
+[T.D. ATF-308, 56 FR 303, Jan. 3, 1991, as amended by T.D. ATF-312, 56 FR 31083, July 9, 1991; T.D. ATF-330, 57 FR 40325, Sept. 3, 1992; T.D. ATF-365, 60 FR 33670, June 28, 1995; T.D. ATF-404, 63 FR 52603, Oct. 1, 1998; T.D. ATF-447, 66 FR 19088, Apr. 13, 2001; T.D. TTB-44, 71 FR 16957, Apr. 4, 2006; T.D. TTB-196, 89 FR 87951, Nov. 6, 2024]

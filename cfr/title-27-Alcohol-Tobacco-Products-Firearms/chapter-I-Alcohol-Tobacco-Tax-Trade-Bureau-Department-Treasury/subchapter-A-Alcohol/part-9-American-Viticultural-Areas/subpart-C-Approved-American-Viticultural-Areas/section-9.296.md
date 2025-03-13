@@ -26,4 +26,4 @@
 
 (8) Proceed easterly along White Cottage Road for approximately 130 feet, returning to the beginning point.
 
-[T.D. TTB-197, 89 FR 83434, Oct. 16, 2024]
+[T.D. TTB-196, 89 FR 83434, Oct. 16, 2024]

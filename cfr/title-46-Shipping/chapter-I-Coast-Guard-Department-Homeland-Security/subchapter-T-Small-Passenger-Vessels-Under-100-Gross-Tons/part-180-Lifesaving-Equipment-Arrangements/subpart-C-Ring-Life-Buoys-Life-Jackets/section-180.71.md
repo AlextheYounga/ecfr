@@ -1,5 +1,7 @@
 ##### § 180.71 Life jackets. #####
 
+Link to an amendment published at 89 FR 97401, Dec. 6, 2024.
+
 (a) An adult life jacket must be provided for each person carried on board a vessel.
 
 (b) In addition, a number of child size life jackets equal to at least 10% of the number of persons permitted on board must be provided, or such greater number as necessary to provide a life jacket for each person being carried that is smaller than the lower size limit of the adult life jackets provided to meet this section, except that:

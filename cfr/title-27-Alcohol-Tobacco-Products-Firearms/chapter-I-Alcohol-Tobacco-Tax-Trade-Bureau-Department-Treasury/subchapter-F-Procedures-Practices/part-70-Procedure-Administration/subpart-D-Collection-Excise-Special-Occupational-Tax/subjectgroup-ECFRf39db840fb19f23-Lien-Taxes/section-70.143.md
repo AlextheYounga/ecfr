@@ -1,8 +1,6 @@
 ##### § 70.143 Definitions. #####
 
-Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
-
-(a) *Security interest*—(1) *In general.* The term *security interest* means any interest in property acquired by contract for the purpose of securing payment or performance of an obligation or indemnifying against loss or liability. A security interest exists ay any time:
+(a) *Security interest*—(1) *In general.* The term *security interest* means any interest in property acquired by contract for the purpose of securing payment or performance of an obligation or indemnifying against loss or liability. A security interest exists at any time:
 
 (i) If, at such time, the property is in existence and the interest has become protected under local law against a subsequent judgment lien (as provided in paragraph (a)(2) of this section) arising out of an unsecured obligation; and
 
@@ -50,4 +48,4 @@ For purposes of paragraph (a)(2) of this section, the dates described in paragra
 
 (g) *Judgment lien creditor.* The term *judgment lien creditor* means a person who has obtained a valid judgment, in a court of record and of competent jurisdiction, for the recovery of specifically designated property or for a certain sum of money. In the case of a judgment for the recovery of a certain sum of money, a judgment lien creditor is a person who has perfected a lien under the judgment on the property involved. A judgment lien is not perfected until the identity of the lienor, the property subject to the lien, and the amount of the lien are established. Accordingly, a judgment lien does not include an attachment or garnishment lien until the lien has ripened into judgment, even though under local law the lien of the judgment relates back to an earlier date. If recording or docketing is necessary under local law before a judgment becomes effective against third parties acquiring liens on real property, a judgment lien under such local law is not perfected with respect to real property until the time of such recordation or docketing. If, under local law, levy or seizure is necessary before a judgment lien becomes effective against third parties acquiring liens on personal property, then a judgment lien under such local law is not perfected until levy or seizure of the personal property involved. The term “judgment” does not include the determination of a quasi-judicial body or of an individual acting in a quasi-judicial capacity such as the action of State taxing authorities.
 
-(26 U.S.C. 6323)
+(26 U.S.C. 6323)[T.D. ATF-6, 38 FR 32445, Nov. 26, 1973, as amended by T.D. TTB-196, 89 FR 87951, Nov. 6, 2024]

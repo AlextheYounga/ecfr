@@ -1,7 +1,5 @@
 ##### § 9.146 Lake Wisconsin. #####
 
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “Lake Wisconsin.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundary of the “Lake Wisconsin” viticultural area are two U.S.G.S. 7.5 minute series topographical maps of the 1:24,000 scale. They are titled:
@@ -18,7 +16,7 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (3) Then continue along the southern shoreline of the Wisconsin River, west and south past Goose Egg Hill, Columbia County, on the “Sauk City, Wisc.” quadrangle map, and then west to a southwest bend in the shoreline opposite Wiegands Bay, Sauk County, where the Wisconsin River becomes Lake Wisconsin again on the map;
 
-(4) Then southwest and south along the eastern shoreline of Lake Wisconsin, to the powerplant that defines where Lake Wisconsin ends and the Wisconsin River begins again;
+(4) Then southwest and south along the eastern shoreline of Lake Wisconsin, to the power plant that defines where Lake Wisconsin ends and the Wisconsin River begins again;
 
 (5) Then continuing south along the Wisconsin River shoreline to where it intersects with U.S. Highway 12 opposite Sauk City, Sauk County;
 
@@ -36,4 +34,4 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (12) Then follow Spring Creek in a northwesterly direction to where it enters Lake Wisconsin, the point of beginning.
 
-[T.D. ATF-352, 59 FR 539, Jan. 5, 1994]
+[T.D. ATF-352, 59 FR 539, Jan. 5, 1994, as amended by T.D. TTB-196, 89 FR 87936, Nov. 6, 2024]

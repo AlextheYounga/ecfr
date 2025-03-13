@@ -1,7 +1,5 @@
 ##### § 9.256 Lewis-Clark Valley. #####
 
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “Lewis-Clark Valley”. For purposes of part 4 of this chapter, “Lewis-Clark Valley” is a term of viticultural significance.
 
 (b) *Approved maps.* The three United States Geographical Survey (USGS) 1:100,000 (metric) scale topographic maps used to determine the boundary of the Lewis-Clark Valley viticultural area are titled:
@@ -46,7 +44,7 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (16) Proceed west along the southern boundary lines of section 25 and 26, crossing onto the Clarkston map, and continuing along the southern boundary lines of section 26 to the 600-meter elevation contour west of Joseph Creek; then
 
-(17) Proceed southeast along the meandering 600-meter elevation contour to the western boundary line of section 34, T7N/R46E; then
+(17) Proceed southwest along the meandering 600-meter elevation contour to the western boundary line of section 34, T7N/R46E; then
 
 (18) Proceed north along the western boundary lines of sections 34 and 27, T7N/R46E, crossing over the Grande Ronde River, to the 600-meter elevation contour; then
 
@@ -54,4 +52,4 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (20) Proceed north along the Garfield-Asotin County line, returning to the beginning point.
 
-[T.D. TTB-136, 81 FR 23161, Apr. 20, 2016]
+[T.D. TTB-136, 81 FR 23161, Apr. 20, 2016, as amended by T.D. TTB-196, 89 FR 87936, Nov. 6, 2024]

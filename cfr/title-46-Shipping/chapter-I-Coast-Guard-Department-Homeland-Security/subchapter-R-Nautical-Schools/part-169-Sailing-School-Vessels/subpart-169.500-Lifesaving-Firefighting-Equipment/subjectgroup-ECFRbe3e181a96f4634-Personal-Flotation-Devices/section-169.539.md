@@ -1,5 +1,7 @@
 ##### § 169.539 Type required. #####
 
+Link to an amendment published at 89 FR 97401, Dec. 6, 2024.
+
 All personal flotation devices (PFDs) must be—
 
 (a) Approved under subpart 160.055, 160.002, or 160.005 of Subchapter Q (specification) of this chapter;

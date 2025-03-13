@@ -1,5 +1,7 @@
 ##### § 791.3 Scope of Covered ICTS Transactions. #####
 
+Link to an amendment published at 89 FR 96893, Dec. 6, 2024.
+
 (a) This part applies only to an ICTS Transaction that:
 
 (1) Is conducted by any person subject to the jurisdiction of the United States or involves property subject to the jurisdiction of the United States;

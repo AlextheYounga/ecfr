@@ -1,7 +1,5 @@
 ##### § 9.98 Monterey. #####
 
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “Monterey.”
 
 (b) *Approved maps.* The approved maps for determining the boundary of the Monterey viticultural area are 36 U.S.G.S. quadrangle maps in the 7.5 minute series, as follows:
@@ -204,7 +202,7 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (60) Then south along the coastline of Monterey Bay to its intersection with the northwesternmost boundary of Fort Ord Military Reservation, T. 14 S., R. 1 E.
 
-(61) Then following the boundry line of the Fort Ord Military Reservation in an irregular line generally east, then south, then west to the point where the boundary line of the military reservation meets the Pacific Ocean, T. 15 S., R. 1 E.
+(61) Then following the boundary line of the Fort Ord Military Reservation in an irregular line generally east, then south, then west to the point where the boundary line of the military reservation meets the Pacific Ocean, T. 15 S., R. 1 E.
 
 (62) Then following the coastline of the Monterey Peninsula south along the coastline of Carmel Bay to Carmel Point, the northwesternmost point of Point Lobos State Reserve on the Carmel Peninsula.
 
@@ -236,7 +234,7 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (76) Then east along the southern boundary of section 33 to the northeast corner of section 4, T. 18 S., R. 5 E.
 
-(77) Then southeast in a diagonal line acros sections 3 and 11 to the southeast corner of section 11, T. 18 S., R. 5 E.
+(77) Then southeast in a diagonal line across sections 3 and 11 to the southeast corner of section 11, T. 18 S., R. 5 E.
 
 (78) Then south along the western boundary of section 13 to the southwest corner of section 13, T. 18 S., R. 5 E.
 
@@ -258,4 +256,4 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (87) Then south in a straight line along the western boundary of section 22 to the point of beginning.
 
-[T.D. ATF-178, 49 FR 24718, June 15, 1984, as amended by T.D. ATF-249, 52 FR 5960, Feb. 27, 1987]
+[T.D. ATF-177, 49 FR 24718, June 15, 1984, as amended by T.D. ATF-249, 52 FR 5960, Feb. 27, 1987; T.D. TTB-196, 89 FR 87936, Nov. 6, 2024]

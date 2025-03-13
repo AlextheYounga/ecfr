@@ -1,5 +1,7 @@
 ##### § 160.064-3 Requirements. 1 #####
 
+Link to an amendment published at 89 FR 97393, Dec. 6, 2024.
+
 1 The manufacturer of a personal flotation device must meet 33 CFR 181.701 through 33 CFR 181.705 which require an instruction pamphlet for each device that is sold or offered for sale for use on recreational boats.
 
 (a) *General.* Every water safety buoyant device shall conform to the requirements as accepted by the Commandant for listing and labeling by a recognized laboratory, and shall be of such design, materials, and construction as to meet the requirements specified in this section.

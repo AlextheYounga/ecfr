@@ -1,5 +1,7 @@
 ##### § 791.102 Confidentiality of information. #####
 
+Link to an amendment published at 89 FR 96894, Dec. 6, 2024.
+
 (a) Information or documentary materials, not otherwise publicly or commercially available, submitted or filed with the Secretary under this part will not be released publicly except to the extent required by law.
 
 (b) The Secretary may disclose information or documentary materials that are not otherwise publicly or commercially available and referenced in paragraph (a) in the following circumstances:

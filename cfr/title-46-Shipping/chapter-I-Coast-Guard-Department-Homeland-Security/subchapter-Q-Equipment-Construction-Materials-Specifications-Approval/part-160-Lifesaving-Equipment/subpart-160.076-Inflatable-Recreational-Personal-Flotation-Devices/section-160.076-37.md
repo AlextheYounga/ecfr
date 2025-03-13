@@ -1,5 +1,7 @@
 ##### § 160.076-37 Owner's manual. #####
 
+Link to an amendment published at 89 FR 97395, Dec. 6, 2024.
+
 (a) *General.* The manufacturer must provide an owner's manual with each inflatable PFD sold or offered for sale. A draft of the manual for each model must be submitted for approval in accordance with § 160.076-13.
 
 (b) *Manual contents.* Each owner's manual must contain the information specified in UL 1180 (incorporated by reference, see § 160.076-11), and, if the PFD is conditionally approved, an explanation of the meaning of, and reasons for, the approval conditions.

@@ -1,7 +1,5 @@
 ##### § 45.11 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87949, Nov. 6, 2024.
-
 When used in this part and in forms prescribed under this part, the following terms shall have the meanings given in this section, unless the context clearly indicates otherwise. Words in the plural form shall include the singular, and vice versa, and words indicating the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude things not listed which are in the same general class.
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury, Washington, DC.
@@ -24,7 +22,7 @@ When used in this part and in forms prescribed under this part, the following te
 
 *Cigarette tube.* Cigarette paper made into a hollow cylinder for use in making cigarettes.
 
-*Factory.* The premises of a manufacturer of tobacco products or cigarette papers and tubes in which he carries on such business.
+*Factory.* The premises of a manufacturer of tobacco products or cigarette papers and tubes in which the manufacturer carries on such business.
 
 *Federal agency.* A department or agency of the United States Government, including the American National Red Cross, and the U.S. Soldiers Home, Washington, D.C.
 
@@ -32,13 +30,13 @@ When used in this part and in forms prescribed under this part, the following te
 
 *Large cigars.* Cigars weighing more than three pounds per thousand.
 
-*Manufacturer of cigarette papers and tubes.* Any person who manufactures cigarette paper, or makes up cigarette paper into tubes, except for his own personal use or consumption.
+*Manufacturer of cigarette papers and tubes.* Any person who manufactures cigarette paper, or makes up cigarette paper into tubes, except for their own personal use or consumption.
 
 *Manufacturer of tobacco products.* Any person who manufactures cigars, cigarettes, smokeless tobacco, pipe tobacco, or roll-your-own tobacco but does not include:
 
 (1) A person who produces tobacco products solely for that person's own consumption or use; or
 
-(2) A proprietor of a Customs bonded manufacturing warehouse with respect to the operation of such warehouse.
+(2) A proprietor of a customs bonded manufacturing warehouse with respect to the operation of such warehouse.
 
 *Package.* The immediate container in which tobacco products, processed tobacco, or cigarette papers or tubes are put up by the manufacturer and offered for sale or delivery to the ultimate consumer. For purposes of this definition, a container of processed tobacco, the contents of which weigh 10 pounds or less (including any added non-tobacco ingredients or constituents), that is removed within the meaning of this part, is deemed to be a package offered for sale or delivery to the ultimate consumer.
 
@@ -60,7 +58,7 @@ When used in this part and in forms prescribed under this part, the following te
 
 *Snuff.* Any finely cut, ground, or powdered tobacco that is not intended to be smoked.
 
-*This chapter.* Chapter I, title 26, Code of Federal Regulations.
+*This chapter.* Chapter I, title 27, Code of Federal Regulations.
 
 *Tobacco products.* Cigars, cigarettes, smokeless tobacco, pipe tobacco, and roll-your-own tobacco.
 

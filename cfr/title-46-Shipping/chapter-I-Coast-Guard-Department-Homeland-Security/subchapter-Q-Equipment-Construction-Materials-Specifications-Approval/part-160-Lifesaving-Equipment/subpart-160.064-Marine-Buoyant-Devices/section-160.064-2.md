@@ -1,5 +1,7 @@
 ##### § 160.064-2 Types and models. #####
 
+Link to an amendment published at 89 FR 97393, Dec. 6, 2024.
+
 (a) *Types.* Water safety buoyant devices covered by this subpart shall be of two general types, viz, those intended to be worn on the body and those intended to be thrown.
 
 (b) *Models.* Water safety buoyant devices may be of different models which incorporate characteristics considered valuable for safety in various fields of water sports or boating activities.

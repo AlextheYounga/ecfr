@@ -1,5 +1,7 @@
 ##### § 791.109 Final determination. #####
 
+Link to an amendment published at 89 FR 96896, Dec. 6, 2024.
+
 (a) For each transaction for which the Secretary issues an initial determination that an ICTS Transaction is prohibited, the Secretary shall issue a final determination as to whether the ICTS Transaction is:
 
 (1) Prohibited;

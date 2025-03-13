@@ -1,5 +1,7 @@
 ##### § 791.1 Purpose. #####
 
+Link to an amendment published at 89 FR 96892, Dec. 6, 2024.
+
 (a) This part sets forth the procedures by which the Secretary may:
 
 (1) Determine whether any acquisition, importation, transfer, installation, dealing in, or use of any information and communications technology or service, including but not limited to connected software applications, (ICTS Transaction) that has been designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of foreign adversaries poses certain undue or unacceptable risks as identified in the Executive Order. For purposes of these regulations, the Secretary will consider ICTS to be designed, developed, manufactured, or supplied by a person owned by, controlled by, or subject to the jurisdiction of a foreign adversary where such a person operates, manages, maintains, or services the ICTS;

@@ -1,8 +1,6 @@
 ##### § 27.264 CBMA import refund claim submission. #####
 
-Link to an amendment published at 89 FR 87944, Nov. 6, 2024.
-
-(a) *General.* An importer who has elected to receive an assignment of CBMA tax benefits from a foreign producer may file a claim in accordance with this section for a partial refund of the tax paid to Customs and Border Protection (CBP) on alcohol produced by the assigning foreign producer and imported into the United States by that importer. Refunds are to be determined no more frequently than quarterly. The amount of refund is calculated as provided at 26 U.S.C. 5001(c)(4)(B) for distilled spirits, 5041(c)(7)(B) for wine, and 5051(a)(6)(B) for beer, on such products entered for consumption within the calendar quarter and for which the importer has received an assignment of CBMA tax benefits and paid to CBP the tax determined on such products.
+(a) *General.* An importer who has elected to receive an assignment of CBMA tax benefits from a foreign producer may file a claim in accordance with this section for a partial refund of the tax paid to U.S. Customs and Border Protection (CBP) on alcohol produced by the assigning foreign producer and imported into the United States by that importer. Refunds are to be determined no more frequently than quarterly. The amount of refund is calculated as provided at 26 U.S.C. 5001(c)(4)(B) for distilled spirits, 5041(c)(7)(B) for wine, and 5051(a)(6)(B) for beer, on such products entered for consumption within the calendar quarter and for which the importer has received an assignment of CBMA tax benefits and paid to CBP the tax determined on such products.
 
 (b) *Election to receive CBMA tax benefits.* An importer who has been assigned CBMA tax benefits by a foreign producer is presumed to have elected to receive such assignment unless and until the importer rejects the assignment through the online system prior to filing a claim for a refund based on that assignment.
 
@@ -45,3 +43,5 @@ Link to an amendment published at 89 FR 87944, Nov. 6, 2024.
 (f) *Authorization.* Each person authorized to sign or act on behalf of the importer must be authorized pursuant to a duly executed power of attorney. TTB may collect additional information from the authorized person, as needed, to verify their identity. Such information may include identifying numbers (*e.g.,* Social Security Number) as provided in 26 U.S.C. 6109.
 
 (g) *Electronic filing required.* To be eligible for a refund under this section, an importer must submit the information required by paragraphs (c) and (d) of this section electronically in the formats prescribed by CBP and TTB, respectively.
+
+[20 FR 3561, May 21, 1955, as amended by T.D. TTB-196, 89 FR 87944, Nov. 6, 2024]

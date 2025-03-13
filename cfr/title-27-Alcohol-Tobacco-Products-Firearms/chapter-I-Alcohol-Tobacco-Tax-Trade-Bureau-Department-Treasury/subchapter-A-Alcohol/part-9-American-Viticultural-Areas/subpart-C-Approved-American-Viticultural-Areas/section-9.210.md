@@ -1,10 +1,8 @@
 ##### § 9.210 Lehigh Valley. #####
 
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “Lehigh Valley”. For purposes of part 4 of this chapter, “Lehigh Valley” and “Lehigh” are terms of viticultural significance.
 
-(b) *Approved maps.* The seven United Stages Geological Survey 1:50,000 scale topographic maps used to determine the boundary of the Lehigh Valley viticultural area are titled:
+(b) *Approved maps.* The seven United States Geological Survey 1:50,000 scale topographic maps used to determine the boundary of the Lehigh Valley viticultural area are titled:
 
 (1) Berks County, Pennsylvania, 1978;
 
@@ -62,4 +60,4 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (20) From the Conrail rail line junction in Sinking Springs, follow the single track Conrail rail line through Montello, Fritztown, and Vinemont, and return to the beginning point.
 
-[TTB-66, 73 FR 12874, Mar. 11, 2008]
+[TTB-66, 73 FR 12874, Mar. 11, 2008, as amended by T.D. TTB-196, 89 FR 87936, Nov. 6, 2024]

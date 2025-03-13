@@ -1,5 +1,7 @@
 ##### § 160.055-3 Materials—standard life preservers. #####
 
+Link to an amendment published at 89 FR 97390, Dec. 6, 2024.
+
 (a) *General.* All components used in the construction of life preservers must meet the applicable requirements of subpart 164.019 of this chapter. The requirements for materials specified in this section are minimum requirements, and consideration will be given to the use of alternate materials in lieu of those specified. Detailed technical data and samples of all proposed alternate materials must be submitted for approval before those materials are incorporated in the finished product.
 
 (b) *Unicellular plastic foam.* The unicellular plastic foam shall be all new material complying with the requirements of Subpart 164.015 of this chapter for Type A foam.

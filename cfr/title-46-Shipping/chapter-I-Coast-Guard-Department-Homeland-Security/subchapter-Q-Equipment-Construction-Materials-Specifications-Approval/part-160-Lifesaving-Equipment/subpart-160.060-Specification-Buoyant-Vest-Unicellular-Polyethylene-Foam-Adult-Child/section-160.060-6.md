@@ -1,5 +1,7 @@
 ##### § 160.060-6 Construction—nonstandard vests. #####
 
+Link to an amendment published at 89 FR 97392, Dec. 6, 2024.
+
 (a) *General.* The construction methods used for a nonstandard buoyant vest must be equivalent to the requirements in § 160.060-5 for standard vests and also meet the requirements specified in this section.
 
 (b) *Sizes.* Each nonstandard vest must contain the following volume of unicellular polyethylene foam buoyant material, determined by the displacement method:

@@ -1,5 +1,7 @@
 ##### § 791.100 General. #####
 
+Link to an amendment published at 89 FR 96893, Dec. 6, 2024.
+
 In implementing this part, the Secretary of Commerce may:
 
 (a) Consider any and all relevant information held by, or otherwise made available to, the Federal Government that is not otherwise restricted by law for use for this purpose, including:

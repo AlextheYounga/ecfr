@@ -1,12 +1,12 @@
 ##### § 29.45 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87946, Nov. 6, 2024.
-
 When used in this subpart and in the forms prescribed under this subpart, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meaning ascribed in this section. Words in the plural form shall include the singular, and vice versa, and words in the masculine shall include the feminine. The terms “includes” and “including” do not exclude things not enumerated which are in the same general class.
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury, Washington, DC.
 
 *Appropriate TTB officer.* An officer or employee of the Alcohol and Tobacco Tax and Trade Bureau (TTB) authorized to perform any functions relating to the administration or enforcement of this part by TTB Order 1135.29, Delegation of the Administrator's Authorities in 27 CFR Part 29, Stills and Miscellaneous Regulations.
+
+*Condenser.* Any apparatus capable of being used when connected with a still, for condensing or liquefying alcoholic or spirituous vapors, but shall not include condensers to be used with laboratory stills or stills used for distilling water or other nonalcoholic materials where the cubic distilling capacity is one gallon or less.
 
 *Distilling spirits or spirits.* That substance known as ethyl alcohol, ethanol, or spirits of wine in any form (including all dilutions and mixtures thereof, from whatever source or by whatever process produced).
 
@@ -28,4 +28,4 @@ When used in this subpart and in the forms prescribed under this subpart, where 
 
 *U.S.C.* The United States Code.
 
-[T.D. ATF-207, 50 FR 23682, June 5, 1985; 50 FR 28572, July 15, 1985, as amended by T.D. ATF-439, 66 FR 8770, Feb. 2, 2001; T.D. TTB-44, 71 FR 16947, Apr. 4, 2006]
+[T.D. ATF-207, 50 FR 23682, June 5, 1985; 50 FR 28572, July 15, 1985, as amended by T.D. ATF-439, 66 FR 8770, Feb. 2, 2001; T.D. TTB-44, 71 FR 16947, Apr. 4, 2006;T.D. TTB-196, 89 FR 87946, Nov. 6, 2024]

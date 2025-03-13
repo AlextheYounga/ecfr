@@ -1,9 +1,7 @@
 ##### § 44.129 Release of bonds, notes, and obligations. #####
 
-Link to an amendment published at 89 FR 87949, Nov. 6, 2024.
+(a) Bonds, notes, and other obligations of the United States, pledged and deposited as security in connection with bonds required by this part, shall be released only in accordance with the provisions of 31 CFR part 225 regarding acceptance of bonds secured by Government obligations in lieu of bonds with sureties. When the appropriate TTB officer is satisfied that it is no longer necessary to hold such security, he shall fix the date or dates on which a part or all of such security may be released. At any time prior to the release of such security, the appropriate TTB officer may, for proper cause, extend the date of release of such security for such additional length of time as in his judgment may be appropriate.
 
-(a) Bonds, notes, and other obligations of the United States, pledged and deposited as security in connection with bonds required by this part, shall be released only in accordance with the provisions of Treasury Department Circular No. 154 (31 CFR Part 225—Acceptance of Bonds, Notes or Other Obligations Issued or Guaranteed by the United States as Security in Lieu of Surety or Sureties on Penal Bonds). When the appropriate TTB officer is satisfied that it is no longer necessary to hold such security, he shall fix the date or dates on which a part or all of such security may be released. At any time prior to the release of such security, the appropriate TTB officer may, for proper cause, extend the date of release of such security for such additional length of time as in his judgment may be appropriate.
+(b) [Reserved]
 
-(b) Treasury Department Circular No. 154 is periodically revised and contains the provisions of 31 CFR part 225 and the forms prescribed in 31 CFR part 225. Copies of the circular may be obtained from the Audit Staff, Bureau of Government Financial Operations, Department of the Treasury, Washington, DC 20226.
-
-(Sec. 202, Pub. L. 85-859, 72 Stat. 1421 (26 U.S.C. 5711); July 30, 1947, ch. 390, 61 Stat. 650 (6 U.S.C. 15))[T.D. ATF-92, 46 FR 46923, Sept. 23, 1981; 46 FR 48644, Oct. 2, 1981]
+[T.D. ATF-92, 46 FR 46923, Sept. 23, 1981; 46 FR 48644, Oct. 2, 1981, as amended by T.D. TTB-196, 89 FR 87949, Nov. 6, 2024]

@@ -1,5 +1,7 @@
 ##### § 160.055-1 Incorporation by reference. #####
 
+Link to an amendment published at 89 FR 97390, Dec. 6, 2024.
+
 (a) *Specifications and Standards.* This subpart makes reference to the following documents:
 
 (1) *Military Specifications:*

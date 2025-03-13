@@ -1,7 +1,5 @@
 ##### § 24.272 Payment of tax by electronic fund transfer. #####
 
-Link to an amendment published at 89 FR 87942, Nov. 6, 2024.
-
 (a) *General.* (1) During a calendar year any proprietor who is liable for a gross amount of wine excise tax equal to or exceeding $5 million combining tax liabilities incurred under this part and parts 26 and 27 of this chapter, shall during the succeeding calendar year use a financial institution in making payment by electronic fund transfer (EFT) of wine taxes for that year. A proprietor who is required by this section to make remittance by EFT may not effect payment of wine taxes by cash, check, or money order as described in § 24.271.
 
 (2) For the purposes of this section, the dollar amount of tax liability is defined as the gross tax liability on all taxable withdrawals and importations (including wines brought into the United States from Puerto Rico or the Virgin Islands) during the calendar year, without regard to any drawback, credit, or refund, for all premises from which the activities are conducted by the proprietor.
@@ -24,6 +22,6 @@ Link to an amendment published at 89 FR 87942, Nov. 6, 2024.
 
 (d) *Failure to make a taxpayment by EFT.* The proprietor is subject to a penalty imposed by 26 U.S.C. 5684, 6651, and 6656, as applicable, for failure to make a taxpayment by EFT on or before the close of business on the prescribed last day for filing.
 
-(e) *Procedure.* Upon the notification required under paragraph (b)(1) of this section, the appropriate TTB officer will issue to the proprietor a TTB Procedure entitled, Payment of Tax by Electronic Fund Transfer. This publication outlines the procedure a proprietor follows when preparing returns and EFT remittances in accordance with this subpart. The United States Customs Service will provide the proprietor with instructions for preparing EFT remittances for payments to be made to the United States Customs Service for payment of excise tax on imported wine.
+(e) *Procedure.* Upon the notification required under paragraph (b)(1) of this section, the appropriate TTB officer will issue to the proprietor a TTB Procedure entitled, Payment of Tax by Electronic Fund Transfer. This publication outlines the procedure a proprietor follows when preparing returns and EFT remittances in accordance with this subpart. U.S. Customs and Border Protection (CBP) will provide the proprietor with instructions for preparing EFT remittances for payments to be made to CBP for payment of excise tax on imported wine.
 
-(Sec. 201, Pub. L. 85-859, 72 Stat. 1335, as amended (26 U.S.C. 5061))(Approved by the Office of Management and Budget under control numbers 1512-0467 and 1512-0492)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13683, 13685, Mar. 22, 1999; T.D. ATF-459, 66 FR 38550, July 25, 2001; T.D. ATF-479, 67 FR 30798, May 8, 2002; T.D. TTB-91, 76 FR 5478, Feb. 1, 2011]
+(Approved by the Office of Management and Budget under control numbers 1513-0083 and 1513-0088)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13683, 13685, Mar. 22, 1999; T.D. ATF-459, 66 FR 38550, July 25, 2001; T.D. ATF-479, 67 FR 30798, May 8, 2002; T.D. TTB-91, 76 FR 5478, Feb. 1, 2011; T.D. TTB-196, 89 FR 87942, Nov. 6, 2024]

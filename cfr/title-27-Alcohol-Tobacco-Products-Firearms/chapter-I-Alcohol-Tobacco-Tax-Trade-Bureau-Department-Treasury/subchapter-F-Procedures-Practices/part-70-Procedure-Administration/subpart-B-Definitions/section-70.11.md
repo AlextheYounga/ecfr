@@ -1,7 +1,5 @@
 ##### § 70.11 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
-
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meaning ascribed in this section. Words in the plural form shall include the singular, and vice versa, and words imparting the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude things not enumerated which are in the same general class.
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury, Washington, DC.
@@ -28,7 +26,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Provisions of 26 U.S.C. enforced and administered by the Bureau.* Sections 4181 and 4182 of the IRC; subchapters F and G of chapter 32 of the IRC insofar as they relate to activities administered and enforced with respect to sections 4181 and 4182 of the IRC; chapters 51 and 52 of subtitle E of the IRC; and subtitle F of the IRC insofar as it relates to any of the foregoing.
 
-*Secretary.* The Secretary of the Treasury or designated delegate.
+*Secretary of the Treasury or Secretary.* The Secretary of the Treasury or a delegate of the Secretary.
 
 *Seizure.* The act of taking possession of property to satisfy a tax liability or by virtue of an execution.
 
@@ -36,4 +34,4 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *U.S.C.* The United States Code.
 
-(Aug. 16, 1954, Ch. 736, 68A Stat. 775 (26 U.S.C. 6301); June 29, 1956, Ch. 462, 70 Stat. 391 (26 U.S.C. 6301))[T.D. ATF-48, 43 FR 13535, Mar. 31, 1978; 44 FR 55841, Sept. 28,979, as amended by T.D. ATF-77, 46 FR 3002, Jan. 13, 1981; T.D. ATF-301, 55 FR 47608, Nov. 14, 1990; T.D. ATF-331, 57 FR 40327, Sept. 3, 1992; T.D. ATF-378, 61 FR 29955, June 13, 1996; T.D. ATF-450, 66 FR 29022, May 29, 2001; T.D. TTB-44, 71 FR 16959, Apr. 4, 2006; T.D. TTB-91, 76 FR 5481, Feb. 1, 2011]
+(Aug. 16, 1954, Ch. 736, 68A Stat. 775 (26 U.S.C. 6301); June 29, 1956, Ch. 462, 70 Stat. 391 (26 U.S.C. 6301))[T.D. ATF-48, 43 FR 13535, Mar. 31, 1978; 44 FR 55841, Sept. 28,979, as amended by T.D. ATF-77, 46 FR 3002, Jan. 13, 1981; T.D. ATF-301, 55 FR 47608, Nov. 14, 1990; T.D. ATF-331, 57 FR 40327, Sept. 3, 1992; T.D. ATF-378, 61 FR 29955, June 13, 1996; T.D. ATF-450, 66 FR 29022, May 29, 2001; T.D. TTB-44, 71 FR 16959, Apr. 4, 2006; T.D. TTB-91, 76 FR 5481, Feb. 1, 2011; T.D. TTB-196, 89 FR 87951, Nov. 6, 2024]

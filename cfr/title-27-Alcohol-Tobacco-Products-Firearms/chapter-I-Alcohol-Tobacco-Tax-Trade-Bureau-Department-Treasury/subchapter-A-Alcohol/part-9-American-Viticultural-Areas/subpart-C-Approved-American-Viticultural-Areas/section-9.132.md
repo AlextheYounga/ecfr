@@ -1,12 +1,10 @@
 ##### § 9.132 Rogue Valley. #####
 
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “Rouge Valley.”
 
 (b) *Approved map.* The appropriate map for determining the boundaries of the Rogue Valley viticultural area is one U.S.G.S. map titled “Medford,” scale 1:250,000 (1955, revised 1976).
 
-(c) *Boundaries.* The Rogue Valey viticultural area is located entirely within Jackson and Josephine Counties in southwestern Oregon. The boundaries are as follows:
+(c) *Boundaries.* The Rogue Valley viticultural area is located entirely within Jackson and Josephine Counties in southwestern Oregon. The boundaries are as follows:
 
 (1) Beginning at the point of intersection of Interstate 5 and the Josephine County/Douglas County line approximately 20 miles north of Grants Pass, the boundary proceeds southerly and southwesterly along U.S. Interstate 5 to and including the town of Wolf Creek;
 
@@ -62,4 +60,4 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (27) Then westerly along the Josephine County/Douglas County line to U.S. Interstate 5, the point of beginning.
 
-[T.D. ATF-310, 56 FR 2435, Jan. 23, 1991]
+[T.D. ATF-310, 56 FR 2435, Jan. 23, 1991, as amended by T.D. TTB-196, 89 FR 87936, Nov. 6, 2024]

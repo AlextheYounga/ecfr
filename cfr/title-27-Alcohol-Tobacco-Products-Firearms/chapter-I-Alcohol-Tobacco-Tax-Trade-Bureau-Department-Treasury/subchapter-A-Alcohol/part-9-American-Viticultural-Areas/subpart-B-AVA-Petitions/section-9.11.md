@@ -1,9 +1,9 @@
 ##### § 9.11 Submission of AVA petitions. #####
 
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
-
 (a) *Procedure for petitioner.* Any person may submit an AVA petition to TTB to establish a grape-growing region as a new AVA, to change the boundary of an existing AVA, or to change the name of an existing AVA. The petitioner is responsible for including with the petition all of the information specified in § 9.12. The person submitting the petition is also responsible for providing timely and complete responses to TTB requests for additional information to support the petition.
 
-(b) *How and where to submit an AVA petition.* The AVA petition may be sent to TTB using the U.S. Postal Service or a private delivery service. A petition sent through the U.S. Postal Service should be addressed to: Regulations and Rulings Division, Alcohol and Tobacco Tax and Trade Bureau, 1310 G Street, NW., Washington, DC 20220. A petition sent via a private delivery service should be directed to: Regulations and Rulings Division, Alcohol and Tobacco Tax and Trade Bureau, Suite 200E, 1310 G Street, NW., Washington, DC 20005.
+(b) *How and where to submit an AVA petition.* The AVA petition may be sent to TTB via the U.S. Postal Service or a private delivery service. A petition sent via the U.S. Postal Service should be addressed to: Regulations and Rulings Division, Alcohol and Tobacco Tax and Trade Bureau, 1310 G Street NW, Box 12, Washington, DC 20005. A petition sent via a private delivery service should be directed to: Regulations and Rulings Division, Alcohol and Tobacco Tax and Trade Bureau, 1310 G Street NW, Room 300 East, Washington, DC 20005.
 
 (c) *Purpose and effect of submission of AVA petitions.* The submission of a petition under this subpart is intended to provide TTB with sufficient documentation to propose the establishment of a new AVA or to propose changing the name or boundary of an existing AVA. After considering the petition evidence and any other relevant information, TTB shall decide what action to take in response to a petition and shall so advise the petitioner. Nothing in this chapter shall, or shall be interpreted to, compel any Department of the Treasury official to proceed to rulemaking in response to a submitted petition.
+
+(Approved by the Office of Management and Budget under control number 1513-0127)[T.D. TTB-90, 76 FR 3500, Jan. 20, 2011, as amended T.D. TTB-196, 89 FR 87936, Nov. 7, 2024

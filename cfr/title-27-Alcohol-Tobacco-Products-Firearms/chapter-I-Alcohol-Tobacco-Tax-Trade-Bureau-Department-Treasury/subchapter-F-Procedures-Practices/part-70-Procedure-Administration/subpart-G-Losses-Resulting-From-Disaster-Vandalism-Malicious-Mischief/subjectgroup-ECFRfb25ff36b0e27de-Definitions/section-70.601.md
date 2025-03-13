@@ -1,7 +1,5 @@
 ##### § 70.601 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87952, Nov. 6, 2024.
-
 When used in this subpart, terms are defined as follows in this section. Words in the plural shall include the singular, and vice versa, and words indicating the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not named which are in the same general class or are otherwise within the scope of the term defined.
 
 *Alcoholic liquors or liquors.* Distilled spirits, wines, and beer lost, made unmarketable, or condemned, as provided in this subpart.
@@ -10,7 +8,7 @@ When used in this subpart, terms are defined as follows in this section. Words i
 
 *Claimant.* The person who held the liquors for sale at the time of the disaster or other specified cause of loss and who files a claim under this subpart.
 
-*Commissioner of Customs.* The Commissioner of Customs, U.S. Customs Service, the Department of the Treasury, Washington, DC.
+*Commissioner of Customs.* The Commissioner of U.S. Customs and Border Protection, Department of Homeland Security, Washington, DC.
 
 *Distilled spirits, or spirits.* Ethyl alcohol and other distillates such as whisky, brandy, rum, gin, vodka, in any form (including all dilutions and mixtures thereof, from whatever source or by whatever process produced), on which the internal revenue tax has been paid or determined and, if imported, on which duties have been paid.
 
@@ -30,4 +28,4 @@ When used in this subpart, terms are defined as follows in this section. Words i
 
 *Wines.* All still wines, effervescent wines, and flavored wines, on which internal revenue wine tax has been paid or determined, and if imported, on which duty has been paid.
 
-[T.D. ATF-376, 61 FR 31033, June 19, 1996, as amended by T.D. ATF-450, 66 FR 29030, May 29, 2001]
+[T.D. ATF-376, 61 FR 31033, June 19, 1996, as amended by T.D. ATF-450, 66 FR 29030, May 29, 2001; T.D. TTB-196, 89 FR 87952, Nov. 6, 2024]

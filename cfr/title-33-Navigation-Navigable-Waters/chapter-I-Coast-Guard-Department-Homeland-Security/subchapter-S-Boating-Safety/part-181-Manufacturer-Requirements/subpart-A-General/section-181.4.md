@@ -1,5 +1,7 @@
 ##### § 181.4 Incorporation by reference. #####
 
+Link to an amendment published at 89 FR 97386, Dec. 6, 2024.
+
 (a) Certain materials are incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a). To enforce any edition other than the one listed in paragraph (b) of this section, notice of change must be published in the Federal Register and the material made available to the public. All approved material is available for inspection at the Coast Guard Headquarters. Contact Commandant (CG-ENG-4), Attn: Lifesaving and Fire Safety Division, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509. It is also available at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* All approved material is available from the sources listed in paragraph (b) of this section.
 
 (b) The materials approved for incorporation by reference in this part, and the sections affected are:

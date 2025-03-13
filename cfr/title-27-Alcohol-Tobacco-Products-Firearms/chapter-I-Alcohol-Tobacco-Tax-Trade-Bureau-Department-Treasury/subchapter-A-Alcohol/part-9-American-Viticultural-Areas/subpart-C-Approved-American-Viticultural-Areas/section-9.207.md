@@ -1,7 +1,5 @@
 ##### § 9.207 Outer Coastal Plain. #####
 
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “Outer Coastal Plain”. For purposes of part 4 of this chapter, “Outer Coastal Plain” is a term of viticultural significance.
 
 (b) *Approved maps.* The appropriate maps for determining the boundary of the Outer Coastal Plain viticultural area are 10 United States Geological Survey topographic maps. They are titled:
@@ -68,7 +66,7 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (20) Proceed northerly along Holmdel Road, crossing onto the Keyport, New Jersey-New York map, to the road's intersection with the Garden State Parkway, north of Crawford Corners; then
 
-(21) Proceed north on the Garden State Parkway to its intersection with SR 36 and proceed east along SR 36 onto the Long Branch map; then
+(21) Proceed southeasterly on the Garden State Parkway to its intersection with SR 36 and proceed east along SR 36 onto the Long Branch map; then
 
 (22) Using the Long Branch map, continue east on SR 36 to where it intersects with Joline Avenue; then
 
@@ -78,4 +76,4 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (25) Proceed west, then north, along the eastern bank of the Delaware River, onto the Atlantic City, Dover, and Wilmington maps to the beginning point.
 
-[T.D. TTB-58, 72 FR 6167, Feb. 9, 2007, as amended by T.D. TTB-148, 82 FR 57659, Dec. 7, 2017]
+[T.D. TTB-58, 72 FR 6167, Feb. 9, 2007, as amended by T.D. TTB-148, 82 FR 57659, Dec. 7, 2017; T.D. TTB-196, 89 FR 87936, Nov. 6, 2024]

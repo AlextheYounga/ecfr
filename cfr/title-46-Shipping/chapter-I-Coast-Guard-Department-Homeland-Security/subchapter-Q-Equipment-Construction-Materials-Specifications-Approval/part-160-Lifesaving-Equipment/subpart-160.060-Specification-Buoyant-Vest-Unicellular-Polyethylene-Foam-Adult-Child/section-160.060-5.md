@@ -1,5 +1,7 @@
 ##### § 160.060-5 Construction—standard vests. #####
 
+Link to an amendment published at 89 FR 97392, Dec. 6, 2024.
+
 (a) *General.* This specification covers buoyant vests which essentially consist of a fabric envelope in which are enclosed inserts of buoyant material arranged and distributed so as to provide the flotation characteristics and buoyancy required to hold the wearer in an upright or slightly backward position with head and face out of water. The buoyant vests are also fitted with straps and hardware to provide for proper adjustment and close and comfortable fit to the bodies of various size wearers.
 
 (b) *Envelope.* The envelope or cover shall be made of three pieces. Two pieces of fabric shall be cut to the pattern shown on Dwg. No. 160.060-1, Sheet 1 for the adult size, and Sheets 2 and 3 for child sizes, and joined together with a third piece which forms a 21/4″ finished gusset strip all around. Reinforcing strips of the same material as the envelope shall be stitched to the inside of the front piece of the envelope in way of the strap attachments as shown by the drawings.

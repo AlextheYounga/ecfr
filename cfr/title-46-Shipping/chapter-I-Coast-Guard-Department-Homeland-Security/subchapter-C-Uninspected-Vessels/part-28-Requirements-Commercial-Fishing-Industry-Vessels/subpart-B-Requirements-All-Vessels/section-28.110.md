@@ -1,5 +1,7 @@
 ##### § 28.110 Life preservers or other personal flotation devices. #####
 
+Link to an amendment published at 89 FR 97387, Dec. 6, 2024.
+
 (a) Except as provided by § 28.305 of this chapter, each vessel must be equipped with at least one immersion suit, exposure suit, or wearable personal flotation device of the proper size for each individual on board as specified in table 28.110 and part 25, subpart 25.25 of this chapter. Notwithstanding the provisions of paragraphs (c) and (d) of § 25.25-1 of this chapter, each commercial fishing industry vessel propelled by sail or a manned barge employed in commercial fishing activities must meet the requirements of this paragraph.
 
 (b) Each wearable personal flotation device must be stowed so that it is readily accessible to the individual for whom it is intended, from both the individual's normal work station and berthing area. If there is no location accessible to both the work station and the berthing area, an appropriate device must be stowed in both locations.

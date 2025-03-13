@@ -1,5 +1,7 @@
 ##### § 25.25-5 Life preservers and other lifesaving equipment required. #####
 
+Link to an amendment published at 89 FR 97387, Dec. 6, 2024.
+
 (a) No person may operate a vessel to which this subpart applies unless it meets the requirements of this subpart.
 
 (b) (1) Each vessel not carrying passengers for hire and less than 40 feet in length must have on board at least one wearable personal flotation device (PFD) approved under subchapter Q of this chapter, and of a suitable size for each person on board.

@@ -1,7 +1,5 @@
 ##### § 9.66 Russian River Valley. #####
 
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “Russian River Valley.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundaries of the Russian River Valley viticultural area are 11 United States Geological Survey 1:24,000 Scale topographic maps. They are titled:
@@ -88,7 +86,7 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (28) Proceed 4.8 miles north-northwest along Mark West Springs Road, which becomes Porter Creek Road, to its intersection with Franz Valley Road, a light-duty road to the north of Porter Creek Road, in section 12, T8N, R8W, on the Mark West Springs map.
 
-(29) Proceed in a northerly direction along Franz Vally Road to the northerly most crossing of Franz Creek.
+(29) Proceed in a northerly direction along Franz Valley Road to the northerly most crossing of Franz Creek.
 
 (30) Proceed west along Franz Creek until it intersects the line separating Section 21 and Section 22.
 
@@ -112,4 +110,4 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (40) Proceed south along Healdsburg Avenue through the city of Healdsburg on the *Healdsburg map* to the point where it crosses the Russian River at the point of beginning.
 
-[T.D. ATF-159, 48 FR 48813, Oct. 21, 1983, as amended by T.D. ATF-249, 52 FR 5959, Feb. 27, 1987; T.D. TTB-7, 68 FR 67370, Dec. 2, 2003; T.D. TTB-32, 70 FR 53299, Sept. 8, 2005; T.D. TTB-97, 76 FR 70877, Nov. 16, 2011]
+[T.D. ATF-159, 48 FR 48813, Oct. 21, 1983, as amended by T.D. ATF-249, 52 FR 5959, Feb. 27, 1987; T.D. TTB-7, 68 FR 67370, Dec. 2, 2003; T.D. TTB-32, 70 FR 53299, Sept. 8, 2005; T.D. TTB-97, 76 FR 70877, Nov. 16, 2011; T.D. TTB-196, 89 FR 87936, Nov. 6, 2024]

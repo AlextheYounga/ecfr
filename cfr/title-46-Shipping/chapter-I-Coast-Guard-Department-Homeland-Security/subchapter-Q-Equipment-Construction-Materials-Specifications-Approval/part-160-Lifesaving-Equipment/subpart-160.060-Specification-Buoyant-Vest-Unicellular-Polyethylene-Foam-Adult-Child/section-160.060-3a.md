@@ -1,5 +1,7 @@
 ##### § 160.060-3a Materials—Dee ring and snap hook assemblies and other instruments of closure for buoyant vests. #####
 
+Link to an amendment published at 89 FR 97392, Dec. 6, 2024.
+
 (a) *Specifications.* Dee ring and snap hook assemblies and other instruments of closure for buoyant vests may have decorative platings in any thickness and must meet the following specifications:
 
 (1) The device must be constructed of inherently corrosion resistant materials. As used in this section the term *inherently corrosion resistant materials* includes, but is not limited to, brass, bronze, and stainless steel.

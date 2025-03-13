@@ -1,7 +1,5 @@
 ##### § 53.134 Tax-free sale of articles for use by the purchaser as supplies for vessels or aircraft. #####
 
-Link to an amendment published at 89 FR 87950, Nov. 6, 2024.
-
 (a) *Supplies for vessels or aircraft*—(1) *In general.* An article subject to tax under chapter 32 of the Code may be sold tax free by the manufacturer, pursuant to section 4221(a)(3) of the Code and this section, for use by the purchaser as supplies for vessels or aircraft. See paragraph (b) of this section for the meaning of the term “supplies for vessels or aircraft.” An article may be sold tax free under the provisions of this section only in those cases where the sale of an article by the manufacturer is made directly to the owner, officer, charterer, or authorized agent of a vessel or aircraft for use as supplies for the vessel or aircraft. No sale may be made tax free to a dealer for resale for use as supplies for vessels or aircraft, even though it is known at the time of sale by the manufacturer that the article will be so resold. See section 6416(b)(2)(B) of the Code and paragraph (c) of § 53.178 for circumstances under which credit or refund of tax is available where tax-paid articles are used, or sold for use, as supplies for vessels or aircraft. An article may not be sold tax free under the provisions of this section by the manufacturer to passengers or members of the crew of a vessel or aircraft.
 
 (2) *Civil aircraft of foreign registry.* In the case of any article sold by the manufacturer for use by the purchaser as supplies for civil aircraft of foreign registry employed in foreign trade or in trade between the United States and any of its possessions, the provisions of this paragraph apply only if the reciprocity requirements of section 4221(e)(1) of the Code are met. See paragraph (c) of this section.
@@ -82,6 +80,6 @@ See paragraph (c) of § 53.131 for the evidence required to establish exemption 
 
 (J) Date, name, signature, and address of person executing the certificate.
 
-(iv) *TTB I 5600.34.* A preprinted certificate, TTB I 5600.34, Exemption Certificate, which is available as provided in § 53.21(b), when completed, contains all necessary information for a properly executed certificate. Extra copies of TTB I 5600.34 may be reproduced as needed.
+(iv) *TTB F 5600.34.* A preprinted certificate, TTB F 5600.34, Exemption Certificate, which is available as provided in § 53.21(b), when completed, contains all necessary information for a properly executed certificate. Extra copies of TTB F 5600.34 may be reproduced as needed.
 
-[T.D. ATF-308, 56 FR 303, Jan. 3, 1991, as amended by T.D. ATF-380, 61 FR 37006, July 16, 1996; T.D. TTB-44, 71 FR 16957, Apr. 4, 2006]
+[T.D. ATF-308, 56 FR 303, Jan. 3, 1991, as amended by T.D. ATF-380, 61 FR 37006, July 16, 1996; T.D. TTB-44, 71 FR 16957, Apr. 4, 2006; T.D. TTB-196, 89 FR 87950, Nov. 6, 2024]

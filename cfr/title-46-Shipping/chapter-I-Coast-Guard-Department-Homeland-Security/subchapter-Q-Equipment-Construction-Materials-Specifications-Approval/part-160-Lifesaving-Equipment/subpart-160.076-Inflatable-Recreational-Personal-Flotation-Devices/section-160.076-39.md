@@ -1,5 +1,7 @@
 ##### § 160.076-39 Marking. #####
 
+Link to an amendment published at 89 FR 97395, Dec. 6, 2024.
+
 Each inflatable PFD must be marked as specified in UL 1180 (incorporated by reference, *see* § 160.076-11). At a minimum, all labels must include—
 
 (a) Size information, as appropriate;

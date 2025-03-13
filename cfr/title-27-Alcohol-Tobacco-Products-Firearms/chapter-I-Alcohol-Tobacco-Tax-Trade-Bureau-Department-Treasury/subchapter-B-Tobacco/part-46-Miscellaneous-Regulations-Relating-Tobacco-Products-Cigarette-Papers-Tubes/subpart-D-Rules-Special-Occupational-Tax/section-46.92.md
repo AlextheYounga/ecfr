@@ -1,7 +1,5 @@
 ##### § 46.92 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87950, Nov. 6, 2024.
-
 As used in this subpart, the following terms shall have the meanings indicated unless either the context in which they are used requires a different meaning, or a different definition is prescribed for a particular section or portion of this subpart:
 
 *Appropriate TTB officer.* An officer or employee of the Alcohol and Tobacco Tax and Trade Bureau (TTB) authorized to perform any functions relating to the administration or enforcement of this part by TTB Order 1135.46, Delegation of the Administrator's Authorities in 27 CFR Part 46, Miscellaneous Regulations Relating to Tobacco Products and Cigarette Papers and Tubes.
@@ -16,7 +14,7 @@ As used in this subpart, the following terms shall have the meanings indicated u
 
 *Export warehouse proprietor.* Any person who operates an export warehouse.
 
-*Manufacturer of cigarette papers and tubes.* Any person who manufactures cigarette paper, or makes up cigarette paper into tubes, except for his own personal use or consumption.
+*Manufacturer of cigarette papers and tubes.* Any person who manufactures cigarette paper, or makes up cigarette paper into tubes, except for their own personal use or consumption.
 
 *Manufacturer of tobacco products.* Any person who manufactures tobacco products.
 
@@ -31,3 +29,5 @@ As used in this subpart, the following terms shall have the meanings indicated u
 *Tobacco products.* Cigars, cigarettes, smokeless tobacco, pipe tobacco, and roll-your-own tobacco.
 
 *U.S.C.* The United States Code.
+
+[T.D. TTB-79, 74 FR 37420, July 28, 2009, as amended by T.D. TTB-196, 89 FR 87950, Nov. 6, 2024]

@@ -1,5 +1,7 @@
 ##### § 133.70 Personal lifesaving appliances. #####
 
+Link to an amendment published at 89 FR 97388, Dec. 6, 2024.
+
 (a) *Lifebuoys.* Each OSV must carry lifebuoys approved under approval series 160.150 or 160.050 as follows:
 
 (1) *Number.* The number of lifebuoys carried must be as prescribed in table 133.70 of this section.

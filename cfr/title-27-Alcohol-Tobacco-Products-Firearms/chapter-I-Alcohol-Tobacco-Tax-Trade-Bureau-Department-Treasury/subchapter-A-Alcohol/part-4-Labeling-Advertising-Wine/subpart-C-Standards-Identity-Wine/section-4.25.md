@@ -1,7 +1,5 @@
 ##### § 4.25 Appellations of origin. #####
 
-Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
-
 (a) *Definition*—(1) *American wine.* An American appellation of origin is: (i) The United States; (ii) a State; (iii) two or no more than three States which are all contiguous; (iv) a county (which must be identified with the word “county”, in the same size of type, and in letters as conspicuous as the name of the county); (v) two or no more than three counties in the same State; or (vi) a viticultural area (as defined in paragraph (e) of this section).
 
 (2) *Imported wine.* An appellation of origin for imported wine is:
@@ -46,7 +44,7 @@ Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
 
 (3) *Requirements for use.* A wine may be labeled with a viticultural area appellation if:
 
-(i) The appellation has been approved under part 9 of this title or by the appropriate foreign government;
+(i) The appellation has been approved under part 9 of this chapter or by the appropriate foreign government;
 
 (ii) Not less than 85 percent of the wine is derived from grapes grown within the boundaries of the viticultural area;
 

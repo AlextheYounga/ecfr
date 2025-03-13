@@ -1,7 +1,5 @@
 ##### § 28.148 Brewer's report. #####
 
-Link to an amendment published at 89 FR 87945, Nov. 6, 2024.
+The brewer's records shall reflect the quantity of beer or beer concentrate removed without payment of tax under this subpart, and the brewer must report the quantity of beer or beer concentrate so removed on their monthly or quarterly report of operations, as appropriate. The total quantity of beer or beer concentrate involved in all export shipments returned during any reporting period also must be recorded as a separate entry on the appropriate report of operations. Brewers required to submit monthly reports of operations must use form TTB F 5130.9, while brewers required to submit quarterly reports of operations may use either form TTB F 5130.9 or form TTB F 5130.26 (or any successor forms). For requirements regarding monthly and quarterly reporting, see 27 CFR 25.297.
 
-The brewer's records shall reflect the quantity of beer or beer concentrate removed without payment of tax under this subpart, and the brewer shall report the quantity of beer or beer concentrate so removed on Form 5130.9. The total quantity of beer or beer concentrate involved in all export shipments returned during any reporting period will be reported as a separate entry on Form 5130.9.
-
-(Approved by the Office of Management and Budget under control number 1512-0052)(Sec. 201, Pub. L. 85-859, 72 Stat. 1334, as amended (26 U.S.C. 5053))[T.D. ATF-224, 51 FR 7699, Mar. 5, 1986, as amended by T.D. ATF-345, 58 FR 40358, July 28, 1993]
+(Approved by the Office of Management and Budget under control number 1513-0007)[T.D. TTB-196, 89 FR 87945, Nov. 6, 2024]

@@ -44,4 +44,4 @@
 
 (d) *Transition Period.* A label containing the word “Calistoga” in the brand name approved prior to December 8, 2009 may not be used on wine bottled on or after December 10, 2012 if the wine does not conform to the standards for use of the label set forth in § 4.39(i) of this chapter.
 
-[T.D. TTB-83, 74 FR 64612, Dec. 8, 2009, as amended by T.D. TTB-197, 89 FR 83434, Oct. 16, 2024]
+[T.D. TTB-83, 74 FR 64612, Dec. 8, 2009, as amended by T.D. TTB-196, 89 FR 83434, Oct. 16, 2024]

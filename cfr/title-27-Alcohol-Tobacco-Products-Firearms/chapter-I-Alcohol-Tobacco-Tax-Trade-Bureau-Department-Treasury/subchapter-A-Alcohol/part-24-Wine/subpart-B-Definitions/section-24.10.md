@@ -1,7 +1,5 @@
 ##### § 24.10 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87942, Nov. 6, 2024.
-
 When used in this part and in the forms prescribed under this part, terms will have the meanings ascribed in this section. Words in the plural form also include the singular, and *vice versa,* and words indicating the masculine gender also include the feminine. The terms “includes” and “including” do not exclude items not enumerated which are in the same general class. The definitions in this section do not supersede or affect the requirements of part 4 of this chapter, relative to the labeling of wine under the provisions of the Federal Alcohol Administration Act (49 Stat. 981; 27 U.S.C. 205).
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury, Washington, DC.
@@ -135,7 +133,7 @@ Additionally, the term refers to wine withdrawn without payment of tax under 26 
 
 *Same kind of fruit.* In the case of grapes, all of the species and varieties of grapes. In the case of fruits other than grapes, this term includes all of the several species and varieties of any given kind; except that this will not preclude a more precise identification of the composition of the product for the purpose of its designation.
 
-*Secretary.* The Secretary of the Treasury or the Secretary's designated delegate.
+*Secretary of the Treasury* or *Secretary.* The Secretary of the Treasury or a delegate of the Secretary.
 
 *Sparkling hard cider.* Hard cider containing more than 0.392 but not more than 0.64 gram of carbon dioxide per 100 milliliters of wine, resulting solely from the secondary fermentation of the wine within a closed container.
 
@@ -189,4 +187,4 @@ Additionally, the term refers to wine withdrawn without payment of tax under 26 
 
 *Wine spirits.* Brandy or wine spirits authorized under 26 U.S.C. 5373 and § 24.225 for use in wine production.
 
-[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31077, July 9, 1991; T.D. ATF-398, 63 FR 44783, Aug. 21, 1998; T.D. ATF-409, 64 FR 13683, Mar. 22, 1999; T.D. TTB-41, 71 FR 5602, Feb. 2, 2006; T.D. TTB-44, 71 FR 16938, Apr. 4, 2006; T.D. TTB-89, 76 FR 3509, Jan. 20, 2011; T.D. TTB-94, 76 FR 52862, Aug. 24, 2011; T.D. TTB-130, 80 FR 55248, Sept. 15, 2015; T.D. TTB-146, 82 FR 1123, Jan. 4, 2017; T.D. TTB-147, 82 FR 7662, Jan. 23, 2017; T.D. TTB-185, 87 FR 51896, Aug. 24, 2022]
+[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31077, July 9, 1991; T.D. ATF-398, 63 FR 44783, Aug. 21, 1998; T.D. ATF-409, 64 FR 13683, Mar. 22, 1999; T.D. TTB-41, 71 FR 5602, Feb. 2, 2006; T.D. TTB-44, 71 FR 16938, Apr. 4, 2006; T.D. TTB-89, 76 FR 3509, Jan. 20, 2011; T.D. TTB-94, 76 FR 52862, Aug. 24, 2011; T.D. TTB-130, 80 FR 55248, Sept. 15, 2015; T.D. TTB-146, 82 FR 1123, Jan. 4, 2017; T.D. TTB-147, 82 FR 7662, Jan. 23, 2017; T.D. TTB-185, 87 FR 51896, Aug. 24, 2022; T.D. TTB-196, 89 FR 87942, Nov. 6, 2024]

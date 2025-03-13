@@ -11,3 +11,5 @@
 (e) Following the Agency's review of the lender's financial analysis, the Agency will notify the lender in writing of any concerns. The lender must address each concern identified in the Agency's findings by the due date stated in the correspondence.
 
 (f) The lender should routinely confirm the outstanding principal balance of a guarantee held by a holder to avoid any discrepancy and delay in reconciliation in the event of a lender or Agency repurchase of the guaranteed loan from a holder in accordance with § 5001.511.
+
+[85 FR 42518, July 14, 2020, as amended at 89 FR 96860, Dec. 6, 2024]

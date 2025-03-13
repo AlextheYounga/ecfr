@@ -1,7 +1,5 @@
 ##### § 9.30 North Coast. #####
 
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “North Coast.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundaries of the North Coast viticultural area are five U.S.G.S. maps. They are entitled:
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (2) Then northeast along the shoreline of Tomales Bay approximately 1 mile to the mouth of Walker Creek opposite benchmark (BM) 10 on State Highway 1;
 
-(3) Then southeast in a straight line for 1.3 miles to the marked 714-foot peak;
+(3) Then southeast in a straight line for 1.3 miles to the marked 741-foot peak;
 
 (4) Then southeast in a straight line for 3.1 miles, crossing onto the Point Reyes NE map, to the marked 804-foot peak;
 
@@ -74,4 +72,4 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (28) Then southeast following the Pacific Ocean shoreline to the point of beginning.
 
-[T.D. ATF-145, 48 FR 42977, Sept. 21, 1983, as amended by T.D. TTB-149, 82 FR 57662, Dec. 7, 2017; T.D. TTB-188, 88 FR 42881, July 5, 2023]
+[T.D. ATF-145, 48 FR 42977, Sept. 21, 1983, as amended by T.D. TTB-149, 82 FR 57662, Dec. 7, 2017; T.D. TTB-188, 88 FR 42881, July 5, 2023; T.D. TTB-196, 89 FR 87936, Nov. 6, 2024]

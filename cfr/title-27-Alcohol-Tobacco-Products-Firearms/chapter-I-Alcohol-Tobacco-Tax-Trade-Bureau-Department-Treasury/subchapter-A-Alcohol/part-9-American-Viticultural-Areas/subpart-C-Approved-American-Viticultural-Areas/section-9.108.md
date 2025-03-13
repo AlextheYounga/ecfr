@@ -1,7 +1,5 @@
 ##### § 9.108 Ozark Mountain. #####
 
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “Ozark Mountain.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundaries of Ozark Mountain viticultural area are 11 U.S.G.S. maps in the scale of 1:250,000. They are titled—
@@ -60,7 +58,7 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (xv) Then generally eastward along the Arkansas River to Cadron Creek;
 
-(xvi) Then northeastward and eastward along Cadron Creek, for about 21/2 miles, until it pases under U.S. Highway 64, approximately 31/2 miles west of Conway, Arkansas;
+(xvi) Then northeastward and eastward along Cadron Creek, for about 21/2 miles, until it passes under U.S. Highway 64, approximately 31/2 miles west of Conway, Arkansas;
 
 (xvii) Then eastward along U.S. Highway 64 until it intersects U.S. Highway 67, near Beebe, Arkansas (on the Memphis map);
 
@@ -74,4 +72,4 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (xxii) Then northward along the Mississippi River to the starting point.
 
-[T.D. ATF-231, 51 FR 24144, July 2, 1986; 51 FR 25366, July 14, 1986]
+[T.D. ATF-231, 51 FR 24144, July 2, 1986; 51 FR 25366, July 14, 1986; T.D. TTB-196, 89 FR 87936, Nov. 6, 2024]

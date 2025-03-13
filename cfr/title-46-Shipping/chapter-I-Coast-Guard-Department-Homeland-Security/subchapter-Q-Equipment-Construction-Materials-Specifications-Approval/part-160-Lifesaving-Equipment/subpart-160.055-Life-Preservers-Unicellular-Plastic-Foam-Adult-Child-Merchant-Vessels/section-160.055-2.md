@@ -1,5 +1,7 @@
 ##### § 160.055-2 Type and model. #####
 
+Link to an amendment published at 89 FR 97390, Dec. 6, 2024.
+
 Each life preserver specified in this subpart is a:
 
 (a) Standard, bib type, vinyl dip coated:

@@ -1,7 +1,5 @@
 ##### § 9.36 McDowell Valley. #####
 
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “McDowell Valley.”
 
 (b) *Approved maps.* The appropriate map for determining the boundaries of the McDowell Valley viticultural area is a USGS map. That map is titled: “Hopland Quadrangle California” 7.5 minute series.
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (8) Then westerly and then meandering generally to the north and east along the 1000-foot contour line to the intersection of the 1000-foot contour line and section line between Sections 26 and 25.
 
-(9) Then continuing along the 1000-foot countour line easterly and then northwesterly in Section 25 to the intersection of the 1000-foot contour line and the section line between Sections 26 and 25.
+(9) Then continuing along the 1000-foot contour line easterly and then northwesterly in Section 25 to the intersection of the 1000-foot contour line and the section line between Sections 26 and 25.
 
 (10) Then northerly along the 1000-foot contour line to the intersection of the 1000-foot contour line and the section line between Sections 23 and 24.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (14) Then southerly along the section approximately 100 feet to the northwest corner of Section 22 and to the point of beginning.
 
-[T.D. ATF-97, 46 FR 59243, Dec. 4, 1981, as amended by T.D. ATF-249, 52 FR 5956, Feb. 27, 1987]
+[T.D. ATF-97, 46 FR 59243, Dec. 4, 1981, as amended by T.D. ATF-249, 52 FR 5956, Feb. 27, 1987; T.D. TTB-196, 89 FR 87936, Nov. 6, 2024]

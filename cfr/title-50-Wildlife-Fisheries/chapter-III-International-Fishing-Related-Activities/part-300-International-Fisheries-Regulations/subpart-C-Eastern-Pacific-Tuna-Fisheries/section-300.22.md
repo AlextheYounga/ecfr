@@ -1,5 +1,7 @@
 ##### § 300.22 Recordkeeping and reporting requirements. #####
 
+Link to an amendment published at 89 FR 96909, Dec. 6, 2024.
+
 (a) *Logbooks*—(1) *General logbook reporting.* The master or other person in charge of a commercial fishing vessel or commercial passenger fishing vessel (CPFV) authorized to fish for tuna and tuna-like species in the Convention Area, or a person authorized in writing to serve as the agent for either person, must keep an accurate log of operations conducted from the fishing vessel.
 
 (2) *Longline and other non-purse seine logbooks.* Maintaining and submitting any logbook required by existing state or Federal regulation will be sufficient to comply with paragraph (a)(1) of this section.

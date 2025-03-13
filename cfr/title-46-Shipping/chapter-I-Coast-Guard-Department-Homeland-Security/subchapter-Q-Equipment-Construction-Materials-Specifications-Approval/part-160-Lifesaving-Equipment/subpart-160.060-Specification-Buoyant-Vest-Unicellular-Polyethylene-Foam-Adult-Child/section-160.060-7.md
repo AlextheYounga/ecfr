@@ -1,5 +1,7 @@
 ##### § 160.060-7 Inspections and tests—standard and nonstandard vests. 1 #####
 
+Link to an amendment published at 89 FR 97392, Dec. 6, 2024.
+
 1 The manufacturer of a personal flotation device must meet 33 CFR 181.701 through 33 CFR 181.705 which require an instruction pamphlet for each device that is sold or offered for sale for use on recreational boats.
 
 (a) *General.* Manufacturers of listed and labeled buoyant vests shall—

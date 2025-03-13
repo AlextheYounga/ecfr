@@ -1,5 +1,7 @@
 ##### § 160.076-33 Manufacturer records. #####
 
+Link to an amendment published at 89 FR 97395, Dec. 6, 2024.
+
 (a) Each manufacturer of inflatable PFDs shall keep the records of production inspections and tests as required by § 159.007-13 of this chapter, except that they must be retained for at least 120 months after the month in which the inspection or test was conducted.
 
 (b) In addition to the information required by § 159.007-13 of this chapter, the manufacturer's records must also include the following information:

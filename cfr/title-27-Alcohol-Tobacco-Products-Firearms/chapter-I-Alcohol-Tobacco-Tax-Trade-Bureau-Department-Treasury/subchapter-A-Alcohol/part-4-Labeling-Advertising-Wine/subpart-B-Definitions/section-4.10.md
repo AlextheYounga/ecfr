@@ -1,10 +1,6 @@
 ##### § 4.10 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
-
 As used in this part, unless the context otherwise requires, terms shall have the meaning ascribed in this part.
-
-*Act.* The Federal Alcohol Administration Act.
 
 *Added brandy.* Brandy or wine spirits for use in fortification of wine as permitted by internal revenue law.
 
@@ -44,11 +40,11 @@ As used in this part, unless the context otherwise requires, terms shall have th
 
 *Person.* Any individual, partnership, joint-stock company, business trust, association, corporation, or other form of business enterprise, including a receiver, trustee, or liquidating agent, and including an officer or employee of any agency of a State or political subdivision thereof.
 
-*Pure condensed must.* The dehydrated juice or must of sound, ripe grapes, or other fruit or agricultual products, concentrated to not more than 80° (Balling), the composition thereof remaining unaltered except for removal of water.
+*Pure condensed must.* The dehydrated juice or must of sound, ripe grapes, or other fruit or agricultural products, concentrated to not more than 80° (Balling), the composition thereof remaining unaltered except for removal of water.
 
 *Restored pure condensed must.* Pure condensed must to which has been added an amount of water not exceeding the amount removed in the dehydration process.
 
-*Sugar.* Pure cane, beet, or dextrose sugar in dry for containing, respectively, not less than 95 percent of actual sugar calculated on a dry basis.
+*Sugar.* Pure cane, beet, or dextrose sugar containing, respectively, not less than 95 percent of actual sugar calculated on a dry basis.
 
 *Total solids.* The degrees Brix of the dealcoholized wine restored to its original volume.
 
@@ -62,4 +58,4 @@ As used in this part, unless the context otherwise requires, terms shall have th
 
 (2) Other alcoholic beverages not so defined, but made in the manner of wine, including sparkling and carbonated wine, wine made from condensed grape must, wine made from other agricultural products than the juice of sound, ripe grapes, imitation wine, compounds sold as wine, vermouth, cider, perry, and sake, only if for nonindustrial use and containing not less than 7 percent and not more than 24 percent of alcohol by volume.
 
-[T.D. ATF-48, 43 FR 13532, Mar. 31, 1978, as amended by T.D. ATF-49, 43 FR 19848, May 9, 1978; T.D. ATF-53, 43 FR 37675, Aug. 23, 1978; 44 FR 55838, Sept. 29, 1979; T.D. ATF-66, 45 FR 40544, June 13, 1980; T.D. ATF-94, 46 FR 55095, Nov. 6, 1981; T.D. ATF-299, 55 FR 24988, June 19, 1990; T.D. ATF-425, 65 FR 11891, Mar. 7, 2000; T.D. TTB-44, 71 FR 16921, Apr. 4, 2006; T.D. TTB-91, 76 FR 5476, Feb. 1, 2011; T.D. TTB-145, 81 FR 94196, Dec. 22, 2016; T.D. TTB-158, 85 FR 18721, Apr. 2, 2020]
+[T.D. ATF-48, 43 FR 13532, Mar. 31, 1978, as amended by T.D. ATF-49, 43 FR 19848, May 9, 1978; T.D. ATF-53, 43 FR 37675, Aug. 23, 1978; 44 FR 55838, Sept. 29, 1979; T.D. ATF-66, 45 FR 40544, June 13, 1980; T.D. ATF-94, 46 FR 55095, Nov. 6, 1981; T.D. ATF-299, 55 FR 24988, June 19, 1990; T.D. ATF-425, 65 FR 11891, Mar. 7, 2000; T.D. TTB-44, 71 FR 16921, Apr. 4, 2006; T.D. TTB-91, 76 FR 5476, Feb. 1, 2011; T.D. TTB-145, 81 FR 94196, Dec. 22, 2016; T.D. TTB-158, 85 FR 18721, Apr. 2, 2020; T.D. TTB-196, 89 FR 87935, Nov. 6, 2024]

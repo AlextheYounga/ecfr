@@ -1,6 +1,5 @@
-##### § 9.78 Ohio River Valley. #####
-
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
+##### § 9.78 Ohio River Valley.
+] #####
 
 (a) *Name.* The name of the viticultural area described in this section is “Ohio River Valley.”
 
@@ -38,7 +37,7 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (3) From the intersection of Interstate Route 64 and the Wabash River, the boundary proceeds in a straight line northeasterly to the town of Oatsville in Pike County, Indiana (Vincennes map).
 
-(4) The boundary proceeds in a straight line southeasterly to the point in Spencer County, Indiana, at which State Route 162 diverges northerly from U.S. Route 460, which is knownlocally as State Route 62 (Vincennes map).
+(4) The boundary proceeds in a straight line southeasterly to the point in Spencer County, Indiana, at which State Route 162 diverges northerly from U.S. Route 460, which is known locally as State Route 62 (Vincennes map).
 
 (5) The boundary proceeds in a straight line southeasterly to the confluence of the Anderson River and the Ohio River at Troy, Indiana (Evansville map).
 
@@ -84,4 +83,4 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (d) *Transition period.* A label containing the words “Ohio River Valley” in the brand name or as an appellation of origin approved prior to March 7, 2013 may be used on wine bottled before March 9, 2015, if the wine conforms to the standards for use of the label set forth in § 4.25 or § 4.39(i) of this chapter in effect prior to March 7, 2013.
 
-[T.D. ATF-144, 48 FR 40379, Sept. 7, 1983, as amended by T.D. ATF-249, 52 FR 5959, Feb. 27, 1987; T.D. TTB-110, 78 FR, 8021, Feb. 5, 2013]
+[T.D. ATF-144, 48 FR 40379, Sept. 7, 1983, as amended by T.D. ATF-249, 52 FR 5959, Feb. 27, 1987; T.D. TTB-110, 78 FR, 8021, Feb. 5, 2013; T.D. TTB-196, 89 FR 87936, Nov. 6, 2024]

@@ -1,7 +1,5 @@
 ##### § 9.103 Mimbres Valley. #####
 
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “Mimbres Valley.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundaries of the Mimbres Valley viticultural area are 28 U.S.G.S. quadrangle maps (26-7.5 minute series and 2-15 minute series). They are entitled:
@@ -32,7 +30,7 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (13) “Faywood Station, N. Mex.,” 7.5 minute series, edition of 1947;
 
-(14) “Florida Gap, N. Mex.,” 7.5 mintue series, edition of 1964;
+(14) “Florida Gap, N. Mex.,” 7.5 minute series, edition of 1964;
 
 (15) “Goat Ridge, N. Mex.,” 7.5 minute series, edition of 1964;
 
@@ -64,7 +62,7 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (c) *Boundaries.* The Mimbres Valley viticultural area is located within Grant and Luna Counties, New Mexico. The boundaries are as follows: The beginning point is located at Faywood Station on an unimproved dirt road at benchmark 4911 in Luna County, New Mexico on the northern part of Section 2, Township 21 South (T21S), Range 12 West (R12W) on the Faywood Station Quadrangle U.S.G.S. map;
 
-(1) From the beginning point the boundary runs northeast 2.25 miles along an unimproved dirt road until it intersects U.S. Routh 180 (indicated on map as U.S. Rte. 260) at New Mexico Highway 61 (indicated on map as an unnumbered secondary highway) at the south portion of Sec. 30, T20S/R11W;
+(1) From the beginning point the boundary runs northeast 2.25 miles along an unimproved dirt road until it intersects U.S. Route 180 (indicated on map as U.S. Rte. 260) at New Mexico Highway 61 (indicated on map as an unnumbered secondary highway) at the south portion of Sec. 30, T20S/R11W;
 
 (2) The boundary proceeds in a generally northerly direction on N.M. Hwy. 61 for 34.5 miles crossing over U.S. Rte. 90 (indicated on map as U.S. Rte. 180) west of San Lorenzo, N.M. until it meets an unimproved dirt road near Bear Canyon Dam at the west line of Sec. 28, T16S/R11W on the San Lorenzo, N. Mex. U.S.G.S. map;
 
@@ -156,4 +154,4 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (46) Finally it follows the Atchison, Topeka and Santa Fe Railroad tracks in a northwesterly direction for 5 miles until it reaches the beginning point at benchmark 4911 on an unimproved dirt road in Faywood Station at Sec. 2, T21S/R12W on the Faywood Station, N. Mex. U.S.G.S. map.
 
-[T.D. ATF-217, 50 FR 48081, Nov. 21, 1985]
+[T.D. ATF-217, 50 FR 48081, Nov. 21, 1985, as amended by T.D. TTB-196, 89 FR 87936, Nov. 6, 2024]

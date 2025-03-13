@@ -1,7 +1,5 @@
 ##### § 4.32b Petitions for exemption from major food allergen labeling. #####
 
-Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
-
 (a) *Submission of petition.* Any person may petition the appropriate TTB officer to exempt a particular product or class of products from the labeling requirements of § 4.32a. The burden is on the petitioner to provide scientific evidence (including the analytical method used to produce the evidence) that demonstrates that the finished product or class of products, as derived by the method specified in the petition, either:
 
 (1) Does not cause an allergic response that poses a risk to human health; or
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
 
 (c) *Resubmission of a petition.* After a petition for exemption is denied under this section, the petitioner may resubmit the petition along with supporting materials for reconsideration at any time. TTB will treat this submission as a new petition for purposes of the time frames for decision set forth in paragraph (b) of this section.
 
-(d) *Availability of information*—(1) *General.* TTB will promptly post to its public Web site, *http://www.ttb.gov,* all petitions received under this section as well as TTB's responses to those petitions. Any information submitted in support of the petition that is not posted to the TTB Web site will be available to the public pursuant to 5 U.S.C. 552, except where a request for confidential treatment is granted under paragraph (d)(2) of this section.
+(d) *Availability of information*—(1) *General.* TTB will promptly post to its public Web site, *https://www.ttb.gov,* all petitions received under this section as well as TTB's responses to those petitions. Any information submitted in support of the petition that is not posted to the TTB Web site will be available to the public pursuant to 5 U.S.C. 552, except where a request for confidential treatment is granted under paragraph (d)(2) of this section.
 
 (2) *Requests for confidential treatment of business information.* A person who provides trade secrets or other commercial or financial information in connection with a petition for exemption under this section may request that TTB give confidential treatment to that information. A failure to request confidential treatment at the time the information in question is submitted to TTB will constitute a waiver of confidential treatment. A request for confidential treatment of information under this section must conform to the following standards:
 
@@ -26,4 +24,4 @@ Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
 
 (v) The request must be supported by a signed statement by the interested person, or by an authorized officer or employee of that person, certifying that the information in question is a trade secret or other confidential commercial or financial information and that the information is not already in the public domain.
 
-[T.D. TTB-53, 71 FR 42267, July 26, 2006]
+[T.D. TTB-53, 71 FR 42267, July 26, 2006, as amended by T.D. TTB-196, 89 FR 87935, Nov. 6, 2024]

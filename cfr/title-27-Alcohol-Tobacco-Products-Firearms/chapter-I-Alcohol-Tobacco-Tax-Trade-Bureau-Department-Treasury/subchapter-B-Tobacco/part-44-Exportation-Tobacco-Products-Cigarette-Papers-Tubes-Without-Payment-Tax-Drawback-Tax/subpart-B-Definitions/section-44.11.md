@@ -1,7 +1,5 @@
 ##### § 44.11 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87948, Nov. 6, 2024.
-
 When used in this part and in forms prescribed under this part, the following terms shall have the meanings given in this section, unless the context clearly indicates otherwise. Words in the plural form shall include the singular, and vice versa, and words indicating the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude things not listed which are in the same general class.
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury, Washington, DC.
@@ -20,6 +18,8 @@ When used in this part and in forms prescribed under this part, the following te
 
 *Cigarette tube.* Cigarette paper made into a hollow cylinder for use in making cigarettes.
 
+*Customs officer.* An officer of U.S. Customs and Border Protection (CBP) or any agent or other person authorized by law to perform the duties of such an officer.
+
 *Customs warehouse.* A customs bonded manufacturing warehouse, class 6, where cigars are manufactured of imported tobacco.
 
 *District director of customs.* The district director of customs at a headquarters port of the district (except the district of New York, N.Y.); the area directors of customs in the district of New York, N.Y.; and the port director at a port not designated as a headquarters port.
@@ -30,7 +30,7 @@ When used in this part and in forms prescribed under this part, the following te
 
 *Export warehouse proprietor.* Any person who operates an export warehouse.
 
-*Factory.* The premises of a manufacturer of tobacco products or cigarette papers and tubes in which he carries on such business.
+*Factory.* The premises of a manufacturer of tobacco products or cigarette papers and tubes in which that person carries on such business.
 
 *Foreign-trade zone.* A foreign-trade zone established and operated pursuant to the Act of June 18, 1934, as amended.
 

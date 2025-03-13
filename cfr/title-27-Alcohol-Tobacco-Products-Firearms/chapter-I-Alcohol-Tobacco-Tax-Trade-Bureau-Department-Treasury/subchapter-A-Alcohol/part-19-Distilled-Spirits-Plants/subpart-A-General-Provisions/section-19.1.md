@@ -1,7 +1,5 @@
 ##### § 19.1 Definitions. #####
 
-Link to an amendment published at 89 FR 87940, Nov. 6, 2024.
-
 As used in this part, the following terms shall have the meanings indicated unless either the context in which they are used requires a different meaning, or a different definition is prescribed for a particular subpart, section, or portion of this part:
 
 *Accurate mass flow meter.* A mass flow meter for making volume determinations of bulk distilled spirits. A mass flow meter used for tax determination of bulk spirits must be certified by the manufacturer of the meter or other qualified person as accurate within a tolerance of plus or minus 0.1 percent. A mass flow meter used for all other required volume determinations of bulk spirits must be certified by the manufacturer of the meter or other qualified person as accurate within a tolerance of plus or minus 0.5 percent.
@@ -152,7 +150,7 @@ As used in this part, the following terms shall have the meanings indicated unle
 
 *Season.* The period from January 1st through June 30th (spring season) or the period from July 1st through December 31st (fall season).
 
-*Secretary.* The Secretary of the Treasury or his delegate or designee.
+*Secretary of the Treasury or Secretary.* The Secretary of the Treasury or a delegate of the Secretary.
 
 *Service center.* An Internal Revenue Service Center in any of the Internal Revenue regions.
 
@@ -188,4 +186,4 @@ As used in this part, the following terms shall have the meanings indicated unle
 
 *Wine spirits.* Spirits authorized for use in wine production by 26 U.S.C. 5373.
 
-[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-92a, 76 FR 19908, Apr. 11, 2011; T.D. TTB-146, 82 FR 1119, Jan. 4, 2017]
+[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-92a, 76 FR 19908, Apr. 11, 2011; T.D. TTB-146, 82 FR 1119, Jan. 4, 2017; T.D. TTB-196, 89 FR 87940, Nov. 6, 2024]

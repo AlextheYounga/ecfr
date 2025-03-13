@@ -1,7 +1,5 @@
 ##### § 70.96 Failure to file tax return or to pay tax. #####
 
-Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
-
 (a) *Addition to the tax*—(1) *Failure to file tax return.* In the case of failure to file a return required under authority of:
 
 (i) Title 26 U.S.C. 61, relating to returns and records;
@@ -10,7 +8,7 @@ Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
 
 (iii) Title 26 U.S.C. 52, relating to tobacco products, and cigarette papers and tubes; or
 
-(iv) Title 26 U.S.C. 53, relating to machine guns, destructive devices, and certain other firearms; and the regulations thereunder, on or before the date prescribed for filing (determined with regard to any extension of time for such filing), there shall be added to the tax required to be shown on the return the amount specified below unless the failure to file the return within the prescribed time is shown to the satisfaction of the appropriate TTB officer to be due to reasonable cause and not to willful neglect. The amount to be added to the tax is 5 percent therof if the failure is not for more than one month, with an additional 5 percent for each additional month or fraction thereof during which the failure continues, but not to exceed 25 percent in the aggregate. The amount of any addition under paragraph (a)(1) of this section shall be reduced by the amount of the addition under paragraph (a)(2) of this section for any month to which an addition to tax applies under both paragraphs (a)(1) and (a)(2) of this section.
+(iv) Title 26 U.S.C. 53, relating to machine guns, destructive devices, and certain other firearms; and the regulations thereunder, on or before the date prescribed for filing (determined with regard to any extension of time for such filing), there shall be added to the tax required to be shown on the return the amount specified below unless the failure to file the return within the prescribed time is shown to the satisfaction of the appropriate TTB officer to be due to reasonable cause and not to willful neglect. The amount to be added to the tax is 5 percent thereof if the failure is not for more than one month, with an additional 5 percent for each additional month or fraction thereof during which the failure continues, but not to exceed 25 percent in the aggregate. The amount of any addition under paragraph (a)(1) of this section shall be reduced by the amount of the addition under paragraph (a)(2) of this section for any month to which an addition to tax applies under both paragraphs (a)(1) and (a)(2) of this section.
 
 (2) *Failure to pay tax shown on return.* In case of failure to pay the amount shown as tax on any return required to be filed after December 31, 1969 (without regard to any extension of time for filing thereof), specified in paragraph (a)(1) of this section, on or before the date prescribed for payment of such tax (determined with regard to any extension of time for payment), there shall be added to the tax shown on the return the amount specified below unless the failure to pay the tax within the prescribed time is shown to the satisfaction of the appropriate TTB officer to be due to reasonable cause and not to willful neglect. The amount to be added to the tax is 0.5 percent of the amount of tax shown on the return if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which the failure continues, but not to exceed 25 percent in the aggregate.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 89 FR 87951, Nov. 6, 2024.
 
 (e) *No addition to tax if fraud penalty assessed.* No addition to the tax under section 6651 of the Internal Revenue Code shall be assessed with respect to an underpayment of tax if an addition to the tax for fraud is assessed with respect to the same underpayment under section 6653(b). See section 6653(d) of the Internal Revenue Code.
 
-(26 U.S.C. 6651)[T.D. ATF-251, 52 FR 19314, May 22, 1987, as amended by T.D ATF-301, 55 FR 47614, Nov. 14, 1990; T.D. ATF-353, 59 FR 2522, Jan. 18, 1994; T.D. ATF-450, 66 FR 29025, May 29, 2001; T.D. TTB-79, 74 FR 37424, July 28, 2009]
+(26 U.S.C. 6651)[T.D. ATF-251, 52 FR 19314, May 22, 1987, as amended by T.D ATF-301, 55 FR 47614, Nov. 14, 1990; T.D. ATF-353, 59 FR 2522, Jan. 18, 1994; T.D. ATF-450, 66 FR 29025, May 29, 2001; T.D. TTB-79, 74 FR 37424, July 28, 2009; T.D. TTB-196, 89 FR 87951, Nov. 6, 2024]

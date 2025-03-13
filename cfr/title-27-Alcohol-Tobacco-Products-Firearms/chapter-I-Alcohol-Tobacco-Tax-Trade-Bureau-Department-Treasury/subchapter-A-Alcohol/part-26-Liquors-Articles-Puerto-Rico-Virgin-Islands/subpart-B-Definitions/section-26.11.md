@@ -1,7 +1,5 @@
 ##### § 26.11 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87944, Nov. 6, 2024.
-
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meaning ascribed in this section. Words in the plural form shall include the singular and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude things not enumerated which are in the same general class.
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury, Washington, DC.
@@ -114,8 +112,8 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *U.S.C.* The United States Code.
 
-*Virgin Islands regulations.* Regulations issued or adopted by the Governor of the Virgin Islands, or his duly authorized agents, with the concurrence of the Secretary of the Treasury of the United States, or his delegate, under the provisions of 26 U.S.C. 5314, as amended, and § 26.201a.
+*Virgin Islands regulations.* Regulations adopted or issued by the Governor of the Virgin Islands, or by the Governor's duly authorized agents, with the concurrence of the Secretary of the Treasury of the United States or the Secretary's delegate, under the provisions of 26 U.S.C. 5314, as amended, and § 26.201a.
 
 *Wine.* Still wine, vermouth, or other aperitif wine, imitation, substandard, or artificial wine, compounds designated as wine, flavored, rectified, or sweetened wine, champagne or sparkling wine, and artificially carbonated wine, containing not over 24 percent of alcohol by volume. Wines containing more than 24 percent of alcohol by volume are classed and taxed as distilled spirits.
 
-(68A Stat. 917, as amended (26 U.S.C. 7805); 49 Stat. 981, as amended (27 U.S.C. 205) Aug. 16, 1954, ch. 736, 68A Stat. 775 (26 U.S.C. 6301); June 29, 1956, ch. 462, 70 Stat. 391 (26 U.S.C. 6301))[T.D. ATF-48, 43 FR 13551, Mar. 31, 1978]Editorial Note:For Federal Register citations affecting § 26.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. ATF-48, 43 FR 13551, Mar. 31, 1978]Editorial Note:For Federal Register citations affecting § 26.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

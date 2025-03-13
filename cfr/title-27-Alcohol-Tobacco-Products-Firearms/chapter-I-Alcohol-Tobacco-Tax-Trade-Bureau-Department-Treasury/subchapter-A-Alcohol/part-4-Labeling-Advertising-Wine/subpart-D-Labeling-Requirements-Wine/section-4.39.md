@@ -1,7 +1,5 @@
 ##### § 4.39 Prohibited practices. #####
 
-Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
-
 (a) *Statements on labels.* Containers of wine, or any label on such containers, or any individual covering, carton, or other wrapper of such container, or any written, printed, graphic, or other matter accompanying such container to the consumer shall not contain:
 
 (1) Any statement that is false or untrue in any particular, or that, irrespective of falsity, directly, or by ambiguity, omission, or inference, or by the addition of irrelevant, scientific or technical matter, tends to create a misleading impression.
@@ -14,7 +12,7 @@ Link to an amendment published at 89 FR 87935, Nov. 6, 2024.
 
 (5) Any statement, design, device or representation of or relating to any guarantee, irrespective of falsity, which the appropriate TTB officer finds to be likely to mislead the consumer. Money-back guarantees are not prohibited.
 
-(6) A trade or brand name that is the name of any living individual of public prominence, or existing private or public organization, or is a name that is in simulation or is an abbreviation thereof, or any graphic, pictorial, or emblematic representation of any such individual or organization, if the use of such name or representation is likely falsely to lead the consumer to believe that the product has been endorsed, made, or used by, or produced for, or under the supervision of, or in accordance with the specifications of, such individual or organization; *Provided,* That this paragraph shall not apply to the use of the name of any person engaged in business as a producer, blender, rectifier, importer, wholesaler, retailer, bottler, or warehouseman of wine, nor to the use by any person of a trade or brand name that is the name of any living individual of public prominence or existing private or public organization, provided such trade or brand name was used by him or his predecessors in interest prior to August 29, 1935.
+(6) A trade or brand name that is the name of any living individual of public prominence, or existing private or public organization, or is a name that is in simulation or is an abbreviation thereof, or any graphic, pictorial, or emblematic representation of any such individual or organization, if the use of such name or representation is likely falsely to lead the consumer to believe that the product has been endorsed, made, or used by, or produced for, or under the supervision of, or in accordance with the specifications of, such individual or organization; *Provided,* That this paragraph shall not apply to the use of the name of any person engaged in business as a producer, blender, rectifier, importer, wholesaler, retailer, bottler, or warehouseman of wine, nor to the use by any person of a trade or brand name that is the name of any living individual of public prominence or existing private or public organization, provided such trade or brand name was used by that person or their predecessors in interest prior to August 29, 1935.
 
 (7) Any statement, design, device, or representation (other than a statement of alcohol content in conformity with § 4.36), which tends to create the impression that a wine:
 

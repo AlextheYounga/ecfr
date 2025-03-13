@@ -1,7 +1,5 @@
 ##### § 22.11 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87941, Nov. 6, 2024.
-
 When used in this part and in forms prescribed under this part, the following terms have the meanings given in this section. Words in the plural form include the singular, and vice versa, and words importing the masculine gender include the feminine. The terms “includes” and “including” do not exclude things not enumerated which are in the same general class.
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury, Washington, DC.
@@ -14,7 +12,7 @@ When used in this part and in forms prescribed under this part, the following te
 
 *Clinic.* When used in this part the term includes veterinary clinics.
 
-*Executed under penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to the claim, form, or other document or, where no form of declaration is prescribed, with the declaration “I declare under the penalities of perjury that this \_\_\_\_\_\_\_\_\_\_ (insert type of document, such as statement, report, certificate, application, claim, or other document), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete.”
+*Executed under penalties of perjury.* Signed with the prescribed declaration under the penalties of perjury as provided on or with respect to the claim, form, or other document or, where no form of declaration is prescribed, with the declaration “I declare under the penalties of perjury that this \_\_\_\_\_\_\_\_\_\_ (insert type of document, such as statement, report, certificate, application, claim, or other document), including the documents submitted in support thereof, has been examined by me and, to the best of my knowledge and belief, is true, correct, and complete.”
 
 *Fiduciary.* A guardian, trustee, executor, administrator, receiver, conservator, or any person acting in any fiduciary capacity for any person.
 
@@ -38,7 +36,7 @@ When used in this part and in forms prescribed under this part, the following te
 
 *Restoration.* Restoring to the original state of recovered tax-free alcohol, including redistillation of the recovered alcohol to 190° or more of proof and the removal of foreign materials by redistillation, filtration, or other suitable means.
 
-*Secretary.* The Secretary of the Treasury or his delegate.
+*Secretary of the Treasury* or *Secretary.* The Secretary of the Treasury or a delegate of the Secretary.
 
 *Spirits or distilled spirits.* The substance known as ethyl alcohol, ethanol, or spirits of wine, having a proof of 190° or more when withdrawn from bond, including all subsequent dilutions and mixtures thereof, from whatever source or by whatever process produced.
 
@@ -46,4 +44,4 @@ When used in this part and in forms prescribed under this part, the following te
 
 *U.S.C.* The United States Code.
 
-[T.D. ATF-199, 50 FR 9183, Mar. 6, 1985, as amended by T.D. ATF-435, 66 FR 5475, Jan. 19, 2001; T.D. TTB-44, 71 FR 16937, Apr. 4, 2006]
+[T.D. ATF-199, 50 FR 9183, Mar. 6, 1985, as amended by T.D. ATF-435, 66 FR 5475, Jan. 19, 2001; T.D. TTB-44, 71 FR 16937, Apr. 4, 2006; T.D. TTB-196, 89 FR 87941, Nov. 6, 2024]

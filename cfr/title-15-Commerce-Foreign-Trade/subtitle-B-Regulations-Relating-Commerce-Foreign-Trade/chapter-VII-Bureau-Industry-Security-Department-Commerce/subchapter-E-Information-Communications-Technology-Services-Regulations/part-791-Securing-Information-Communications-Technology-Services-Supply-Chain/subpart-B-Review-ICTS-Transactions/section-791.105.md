@@ -1,5 +1,7 @@
 ##### § 791.105 Initial determination. #####
 
+Link to an amendment published at 89 FR 96895, Dec. 6, 2024.
+
 (a) If, after the consultation required by § 791.104, the Secretary determines that the ICTS Transaction does not meet the criteria set forth in § 791.103(c):
 
 (1) The transaction shall no longer be under review; and

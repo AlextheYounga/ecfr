@@ -1,5 +1,7 @@
 ##### § 141.340 Lifejackets. #####
 
+Link to an amendment published at 89 FR 97388, Dec. 6, 2024.
+
 (a) Each towing vessel must carry at least one appropriately-sized lifejacket, approved under approval series 160.002, 160.005, 160.055, 160.155, or 160.176, for each person on board.
 
 (b) For towing vessels with berthing aboard, a sufficient number of additional lifejackets must be carried so that a lifejacket is immediately available for persons at each normally manned watch station.

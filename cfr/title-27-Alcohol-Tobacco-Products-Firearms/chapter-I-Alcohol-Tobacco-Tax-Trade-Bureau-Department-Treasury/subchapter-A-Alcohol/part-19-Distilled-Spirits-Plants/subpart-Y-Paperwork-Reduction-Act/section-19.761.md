@@ -1,7 +1,5 @@
 ##### § 19.761 OMB control numbers assigned under the Paperwork Reduction Act. #####
 
-Link to an amendment published at 89 FR 87940, Nov. 6, 2024.
-
 (a) *Purpose.* This subpart displays the control numbers assigned to information collection requirements in this part by the Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1995, Public Law 104-13.
 
 (b) *Display.* The following display identifies each section in this part that contains an information collection requirement and the OMB control number that is assigned to that information collection requirement.
@@ -232,6 +230,7 @@ Link to an amendment published at 89 FR 87940, Nov. 6, 2024.
 |              19.452               |             1513-0030             |
 |                                   |             1513-0056             |
 |              19.454               |             1513-0056             |
+|              19.455               |             1513-0042             |
 |              19.457               |             1513-0056             |
 |              19.459               |             1513-0048             |
 |                                   |             1513-0056             |
@@ -391,3 +390,5 @@ Link to an amendment published at 89 FR 87940, Nov. 6, 2024.
 |              19.749               |             1513-0052             |
 |                                   |             1513-0052             |
 |              19.752               |             1513-0052             |
+
+[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-196, 89 FR 87940, Nov. 6, 2024]

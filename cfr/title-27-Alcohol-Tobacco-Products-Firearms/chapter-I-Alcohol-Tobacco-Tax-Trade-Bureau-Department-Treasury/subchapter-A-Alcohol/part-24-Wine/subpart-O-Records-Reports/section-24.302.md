@@ -1,7 +1,5 @@
 ##### § 24.302 Effervescent wine record. #####
 
-Link to an amendment published at 89 FR 87941, Nov. 6, 2024.
-
 A proprietor who produces or receives effervescent wine in bond shall maintain records showing the transaction date and details of production, receipt, storage, removal, and any loss incurred. Records will be maintained for each specific process used (bulk or bottle fermented, injection of carbon dioxide) and by the specific kind of wine, *e.g.,* grape, apple, pear, cherry, hard cider. The record will contain the following:
 
 (a) The volume of still wine or still hard cider filled into bottles or pressurized tanks prior to secondary fermentation or prior to the addition of carbon dioxide;
@@ -26,4 +24,4 @@ A proprietor who produces or receives effervescent wine in bond shall maintain r
 
 (k) The amount of carbon dioxide in artificially carbonated hard cider or sparkling hard cider.
 
-(Sec. 201, Pub. L. 85-859, 72 Stat. 1381, as amended (26 U.S.C. 5367))(Approved by the Office of Management and Budget under control number 1513-0115 and 1513-XXXX)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31082, July 9, 1991; T.D. TTB-31, 70 FR 49483, Aug. 24, 2005; T.D. TTB-147, 82 FR 7665, Jan. 23, 2017]
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1381, as amended (26 U.S.C. 5367))(Approved by the Office of Management and Budget under control number 1513-0115 and 1513-0139)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31082, July 9, 1991; T.D. TTB-31, 70 FR 49483, Aug. 24, 2005; T.D. TTB-147, 82 FR 7665, Jan. 23, 2017; T.D. TTB-196, 89 FR 87941, Nov. 6, 2024]

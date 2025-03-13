@@ -1,7 +1,5 @@
 ##### § 13.11 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87937, Nov. 6, 2024.
-
 Where used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meaning ascribed in this subpart. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “include” and “including” do not exclude things not enumerated that are in the same general class.
 
 *Act.* The Federal Alcohol Administration Act.
@@ -18,7 +16,7 @@ Where used in this part and in forms prescribed under this part, where not other
 
 *Certificate of exemption from label approval.* A certificate issued on Form 5100.31 which authorizes the bottling of wine or distilled spirits, under the condition that the product will under no circumstances be sold, offered for sale, shipped, delivered for shipment, or otherwise introduced by the applicant, directly or indirectly, into interstate or foreign commerce.
 
-*Certificate of label approval.* A certificate issued on Form 5100.31 that authorizes the bottling or packing of wine, distilled spirits, or malt beverages, or the removal of bottled wine, distilled spirits, or malt beverages from customs custody for introduction into commerce, as long as the project bears labels identical to the labels affixed to the face of the certificate, or labels with changes authorized by the certificate.
+*Certificate of label approval.* A certificate issued on Form 5100.31 that authorizes the bottling or packing of wine, distilled spirits, or malt beverages, or the removal of bottled wine, distilled spirits, or malt beverages from customs custody for introduction into commerce, as long as the product bears labels identical to the labels affixed to the face of the certificate, or labels with changes authorized by the certificate.
 
 *Distilled spirits.* Ethyl alcohol, hydrated oxide of ethyl, spirits of wine, whisky, rum, brandy, gin, and other distilled spirits, including all dilutions and mixtures thereof for nonindustrial use. The term “distilled spirits” does not include mixtures containing wine, bottled at 48 degrees of proof or less, if the mixture contains more than 50 percent wine on a proof gallon basis.
 
@@ -46,4 +44,4 @@ Where used in this part and in forms prescribed under this part, where not other
 
 (2) Other alcoholic beverages not so defined, but made in the manner of wine, including sparkling and carbonated wine, wine made from condensed grape must, wine made from other agricultural products than the juice of sound, ripe grapes, imitation wine, compounds sold as wine, vermouth, cider, perry, and sake, only if for nonindustrial use and containing not less than 7 percent and not more than 24 percent of alcohol by volume.
 
-[T.D. ATF-406, 64 FR 2129, Jan. 13, 1999, as amended by T.D. ATF-449, 66 FR 19085, Apr. 13, 2001; T.D. TTB-44, 71 FR 16924, Apr. 4, 2006; T.D. TTB-91, 76 FR 5477, Feb. 1, 2011]
+[T.D. ATF-406, 64 FR 2129, Jan. 13, 1999, as amended by T.D. ATF-449, 66 FR 19085, Apr. 13, 2001; T.D. TTB-44, 71 FR 16924, Apr. 4, 2006; T.D. TTB-91, 76 FR 5477, Feb. 1, 2011; T.D. TTB-196, 89 FR 87937, Nov. 6, 2024]

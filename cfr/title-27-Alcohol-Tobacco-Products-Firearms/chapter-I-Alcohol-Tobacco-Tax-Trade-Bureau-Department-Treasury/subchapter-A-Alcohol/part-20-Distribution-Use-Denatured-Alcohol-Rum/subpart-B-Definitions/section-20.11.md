@@ -1,7 +1,5 @@
 ##### § 20.11 Meaning of terms. #####
 
-Link to an amendment published at 89 FR 87940, Nov. 6, 2024.
-
 When used in this part and in forms prescribed under this part, the following terms have the meanings given in this section. Words in the plural form include the singular, and vice versa, and words importing the masculine gender include the feminine. The terms “includes” and “including” do not exclude things not enumerated which are in the same general class.
 
 *Administrator.* The Administrator, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury, Washington, DC.
@@ -68,7 +66,7 @@ I declare under the penalties of perjury that this \_\_\_\_\_\_\_\_ (insert type
 
 *Rum.* Any spirits produced from sugar cane products and distilled at less than 190° proof in such manner that the spirits possess the taste, aroma, and characteristics generally attributed to rum.
 
-*Secretary.* The Secretary of the Treasury or his delegate.
+*Secretary of the Treasury or Secretary.* The Secretary of the Treasury or a delegate of the Secretary.
 
 *Special industrial solvents.* Solvents which are manufactured with specially denatured alcohol under special industrial solvent general-use formula in this part.
 
@@ -90,4 +88,4 @@ I declare under the penalties of perjury that this \_\_\_\_\_\_\_\_ (insert type
 
 *U.S.C.* The United States Code.
 
-(Approved by the Office of Management and Budget under control number 1513-0061)[T.D. ATF-199, 50 FR 9162, Mar. 6, 1985; 50 FR 20099, May 14, 1985, as amended by ATF-332, 57 FR 40849, Sept. 8, 1992; T.D. ATF-435, 66 FR 5473, Jan. 19, 2001; T.D. TTB-44, 71 FR 16934, Apr. 4, 2006; T.D.TTB-140, 81 FR 59455, Aug. 30, 2016]
+(Approved by the Office of Management and Budget under control number 1513-0061)[T.D. ATF-199, 50 FR 9162, Mar. 6, 1985; 50 FR 20099, May 14, 1985, as amended by ATF-332, 57 FR 40849, Sept. 8, 1992; T.D. ATF-435, 66 FR 5473, Jan. 19, 2001; T.D. TTB-44, 71 FR 16934, Apr. 4, 2006; T.D.TTB-140, 81 FR 59455, Aug. 30, 2016; T.D. TTB-196, 89 FR 87940, Nov. 6, 2024]

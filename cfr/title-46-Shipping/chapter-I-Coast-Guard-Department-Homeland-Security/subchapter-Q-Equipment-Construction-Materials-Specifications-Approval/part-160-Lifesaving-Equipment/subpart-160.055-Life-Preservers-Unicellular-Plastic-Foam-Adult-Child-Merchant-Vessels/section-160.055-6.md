@@ -1,5 +1,7 @@
 ##### § 160.055-6 Construction—nonstandard, life preservers. #####
 
+Link to an amendment published at 89 FR 97390, Dec. 6, 2024.
+
 (a) *General.* The construction methods used for a nonstandard life preserver must be equivalent to the requirements in § 160.055-5 for a standard life preserver and also meet the requirements in this section.
 
 (b) *Size.* Each nonstandard life preserver must contain the following volume of plastic foam buoyant material, determined by the displacement method:

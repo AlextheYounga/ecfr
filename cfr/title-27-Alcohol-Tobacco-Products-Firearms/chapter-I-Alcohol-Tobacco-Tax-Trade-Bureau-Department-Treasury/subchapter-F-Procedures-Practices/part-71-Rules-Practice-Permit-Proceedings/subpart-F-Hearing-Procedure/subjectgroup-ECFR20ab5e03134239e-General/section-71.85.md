@@ -1,7 +1,5 @@
 ##### § 71.85 Reopening of the hearing. #####
 
-Link to an amendment published at 89 FR 87952, Nov. 6, 2024.
+The Administrator, the appropriate TTB officer, or the administrative law judge, as the case may be, may, as to all matters pending before that official, in his or her discretion reopen the hearing (a) in case of default where applicant failed to request a hearing or to appear after one was set, upon petition setting forth reasonable grounds for such failure, and (b) in case any party desires leave to adduce additional evidence upon petition summarizing such evidence, establishing its materiality and stating reasonable grounds why such party with due diligence was unable to produce such evidence at the hearing.
 
-The Administrator, the appropriate TTB officer, or the administrative law judge, as the case may be, may, as to all matters pending before him, in his discretion reopen the hearing (a) in case of default where applicant failed to request a hearing or to appear after one was set, upon petition setting forth reasonable grounds for such failure, and (b) in case any party desires leave to adduce additional evidence upon petition summarizing such evidence, establishing its materiality and stating reasonable grounds why such party with due diligence was unable to produce such evidence at the hearing.
-
-[21 FR 1441, Mar. 6, 1956. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 43 FR 13531, Mar. 31, 1978; 44 FR 55846, Sept. 28, 1979; T.D. ATF-374, 61 FR 29957, June 13, 1996]
+[21 FR 1441, Mar. 6, 1956. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 43 FR 13531, Mar. 31, 1978; 44 FR 55846, Sept. 28, 1979; T.D. ATF-374, 61 FR 29957, June 13, 1996; T.D. TTB-196, 89 FR 87952, Nov. 6, 2024]

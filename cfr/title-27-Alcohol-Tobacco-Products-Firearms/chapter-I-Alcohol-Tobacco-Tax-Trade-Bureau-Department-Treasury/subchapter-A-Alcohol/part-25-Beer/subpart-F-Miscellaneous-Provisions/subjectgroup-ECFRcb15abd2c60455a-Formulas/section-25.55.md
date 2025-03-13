@@ -1,7 +1,5 @@
 ##### § 25.55 Formulas for fermented products. #####
 
-Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
-
 (a) *For what fermented products must a formula be filed?* You must file a formula for approval by TTB if you intend to produce:
 
 (1) Any fermented product that will be treated by any processing, filtration, or other method of manufacture that is not generally recognized as a traditional process in the production of a fermented beverage designated as “beer,” “ale,” “porter,” “stout,” “lager,” or “malt liquor.” For purposes of this paragraph:
@@ -34,7 +32,7 @@ Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
 
 (f) *Determinations by TTB regarding specific processes and ingredients.* (1) The appropriate TTB officer may determine whether or not use of a process not listed in paragraph (a)(1) of this section requires you to file a formula for approval. The appropriate TTB officer may also exempt the use of a particular coloring, flavoring, or food material from the formula filing requirement of paragraph (a)(3) or paragraph (a)(4) of this section upon a finding that the coloring, flavoring, or food material in question is generally recognized as a traditional ingredient in the production of a fermented beverage designated as “beer,” “ale,” “porter,” “stout,” “lager,” or “malt liquor.”
 
-(2) You may request a determination from TTB on whether or not the use of a process not listed in paragraph (a)(1) of this section will require the filing of a formula or whether the use of a particular coloring, flavoring or food material may be exempted from the formula filing requirement of paragraph (a)(3) or paragraph (a)(4) of this section. You should mail your request to the Assistant Chief, Advertising, Labeling and Formulation Division, Alcohol and Tobacco Tax and Trade Bureau, 1310 G Street, NW., Washington, DC 20220.
+(2) You may request a determination from TTB on whether or not the use of a process not listed in paragraph (a)(1) of this section will require the filing of a formula or whether the use of a particular coloring, flavoring, or food material may be exempted from the formula filing requirement of paragraph (a)(3) or paragraph (a)(4) of this section. You should mail your request to the Assistant Director, Alcohol Labeling and Formulation Division, Alcohol and Tobacco Tax and Trade Bureau, 1310 G Street NW, Box 12, Washington, DC 20005.
 
 (i) When requesting a determination as to whether a process is subject to the formula filing and approval requirement, the request must include:
 
@@ -51,3 +49,5 @@ Link to an amendment published at 89 FR 87943, Nov. 6, 2024.
 (B) Evidence establishing that the proposed ingredient is generally recognized as a traditional ingredient in the production of a fermented beverage designated as “beer,” “ale,” “porter,” “stout,” “lager,” or “malt liquor”; and
 
 (C) An explanation of the effect of the proposed ingredient in the production of a fermented product.
+
+[70 FR 235, Jan. 3, 2005, as amended by T.D. TTB-196, 89 FR 87943, Nov. 62, 2024]

@@ -1,5 +1,7 @@
 ##### § 791.200 Penalties. #####
 
+Link to an amendment published at 89 FR 96896, Dec. 6, 2024.
+
 (a) Maximum penalties.
 
 (1) *Civil penalty.* A civil penalty not to exceed the amount set forth in Section 206 of IEEPA, 50 U.S.C. 1705, may be imposed on any person who violates, attempts to violate, conspires to violate, or causes any knowing violation of any final determination or direction issued pursuant to this part, including any violation of a mitigation agreement issued or other condition imposed under this part. IEEPA provides for a maximum civil penalty not to exceed the greater of $250,000, subject to inflationary adjustment, or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.

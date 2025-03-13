@@ -1,5 +1,7 @@
 ##### § 117.72 Personal flotation devices carried in addition to life jackets. #####
 
+Link to an amendment published at 89 FR 97387, Dec. 6, 2024.
+
 (a) Equipment carried under this section is not acceptable in lieu of any portion of the required number of approved life jackets and must not be substituted for the approved life jackets required to be worn during drills and emergencies.
 
 (b) Wearable marine buoyant devices that include “ski vests,” “boating vests,” and “fishing vests,” approved in accordance with § 160.064 in subchapter Q of this chapter, or other standard specified by the Commandant, may be carried as additional equipment.

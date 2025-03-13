@@ -1,6 +1,6 @@
 ##### § 40.2 Listing products for trading by certification. #####
 
-Link to an amendment published at 89 FR 88623, Nov. 7, 2024.
+Link to an amendment published at 89 FR 88623, Nov. 7, 2024.Link to a correction of the above amendment published at 89 FR 96897, Dec. 6, 2024.
 
 (a) A designated contract market or a swap execution facility must comply with the submission requirements of this section prior to listing a product for trading that has not been approved under § 40.3 of this part or that remains dormant subsequent to being submitted under this section or approved under § 40.3 of this part. A submission shall comply with the following conditions:
 

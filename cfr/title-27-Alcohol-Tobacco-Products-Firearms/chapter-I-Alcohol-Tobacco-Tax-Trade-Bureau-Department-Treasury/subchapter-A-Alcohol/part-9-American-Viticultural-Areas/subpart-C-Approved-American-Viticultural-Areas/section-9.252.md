@@ -1,7 +1,5 @@
 ##### § 9.252 Eagle Foothills. #####
 
-Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
-
 (a) *Name.* The name of the viticultural area described in this section is “Eagle Foothills”. For purposes of part 4 of this chapter, “Eagle Foothills” is a term of viticultural significance.
 
 (b) *Approved maps.* The 6 United States Geological Survey (USGS) 1:24,000 scale topographic maps used to determine the boundary of the Eagle Foothills viticultural area are titled:
@@ -22,9 +20,9 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (1) The beginning point is on the Southwest Emmett map at the intersection of the Ada, Gem, and Canyon County lines at the southwestern corner of section 31, T6N/R1W.
 
-(2) From the beginning point, proceed north along the western boundary of sections 31 and 30 to the northwest corner of section 31, T6N/R1W; then
+(2) From the beginning point, proceed north along the western boundary of section 31 to the southwest corner of section 30, T6N/R1W; then
 
-(3) Proceed north-northeast in a straight line to the marked 3,109-foot elevation point near the southwest corner of section 31, T6N/R1W; then
+(3) Proceed north-northeast in a straight line to the marked 3,109-foot elevation point near the southwest corner of section 30, T6N/R1W; then
 
 (4) Proceed northeast in a straight line, crossing onto the Southeast Emmett map, to the marked 3,230-foot elevation point in section 22, T6N/R1W; then
 
@@ -36,7 +34,7 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (8) Proceed northeast in a straight line to the intersection of the marked 4-wheel drive trail with the R1W range line; then
 
-(9) Proceed north along the R1W range line to its first intersection with the 3,400-foor elevation contour; then
+(9) Proceed north along the R1W range line to its first intersection with the 3,400-foot elevation contour; then
 
 (10) Proceed east along the meandering 3,400-foot elevation contour, crossing onto the Pearl map, then continuing easterly, then southerly, along the meandering 3,400-foot elevation contour, crossing Schiller Creek, the North and South Forks of Willow Creek, and Big Gulch Creek, to the first intersection of the 3,400-foot contour line with the R1E/R2E range line, which forms the eastern boundary of section 13, T5N/R1E; then
 
@@ -72,4 +70,4 @@ Link to an amendment published at 89 FR 87936, Nov. 6, 2024.
 
 (26) Proceed north along the Ada-Canyon County line, crossing onto the Southwest Emmett map, to the beginning point.
 
-[T.D. TTB-131, 80 FR 73660, Nov. 25, 2015]
+[T.D. TTB-131, 80 FR 73660, Nov. 25, 2015; T.D. TTB-196 , 89 FR 87936, Nov. 6, 2024]

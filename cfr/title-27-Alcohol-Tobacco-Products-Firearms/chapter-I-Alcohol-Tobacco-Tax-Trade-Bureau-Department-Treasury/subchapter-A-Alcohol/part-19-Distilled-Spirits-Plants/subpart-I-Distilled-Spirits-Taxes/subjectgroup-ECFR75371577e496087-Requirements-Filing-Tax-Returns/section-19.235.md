@@ -1,7 +1,5 @@
 ##### § 19.235 Deferred payment return periods—annual, quarterly, and semimonthly. #####
 
-Link to an amendment published at 89 FR 87939, Nov. 6, 2024.
-
 (a) *Three types of return periods.* The IRC provides for three different return periods for those taxpayers who pay their taxes on a deferred basis: Annual, quarterly, and semimonthly. Taxpayers who meet certain criteria are eligible to use annual or quarterly return periods and pay their taxes on an annual or quarterly basis as provided in paragraphs (b) and (c) of this section, respectively. Other taxpayers must use semimonthly return periods and pay their taxes on a semimonthly basis as provided in paragraph (e) of this section.
 
 (b) *Annual return period.* Subject to paragraph (d) of this section, a taxpayer who reasonably expects to be liable for not more than $1,000 in taxes with respect to distilled spirits imposed by 26 U.S.C. 5001 and 7652 for the current calendar year, and that was liable for not more than $1,000 in such taxes in the preceding calendar year, may choose to use an annual return period. However, the taxpayer may not use the annual return period procedure for any portion of the calendar year following the first date on which the aggregate amount of tax due from the taxpayer during the calendar year exceeds $1,000, and any tax which has not been paid on that date will be due on the 14th day after the last day of the quarterly or semimonthly period in which that date occurs. A taxpayer may choose to use either quarterly or semimonthly return periods as authorized under paragraph (c) or (e) of this section.
@@ -26,6 +24,6 @@ Link to an amendment published at 89 FR 87939, Nov. 6, 2024.
 
 *Reasonably expects.* When used with reference to a taxpayer, *reasonably expects* means that there is no existing or anticipated circumstances known to the taxpayer (such as an increase in production capacity) that would cause the taxpayer's tax liability to exceed the prescribed limit.
 
-*Taxpayer.* A *taxpayer* is an individual, corporation, partnership, or other entity that is assigned a single Employer Identification Number (EIN) as defined in 26 CFR 301.7702.12.
+*Taxpayer.* A *taxpayer* is an individual, corporation, partnership, or other entity that is assigned a single Employer Identification Number (EIN) as defined in 26 CFR 301.7701-12.
 
-(26 U.S.C. 5061)[T.D. TTB-146, 82 FR 1122, Jan. 4, 2017]
+(26 U.S.C. 5061)[T.D. TTB-146, 82 FR 1122, Jan. 4, 2017, as amended by T.D TTB-196, 89 FR 87939, Nov. 6, 2024]

@@ -1,5 +1,7 @@
 ##### § 791.107 Procedures governing response and mitigation. #####
 
+Link to an amendment published at 89 FR 96895, Dec. 6, 2024.
+
 Within 30 days of service of the Secretary's notification pursuant to § 791.105, a party to an ICTS Transaction may respond to the Secretary's initial determination or assert that the circumstances resulting in the initial determination no longer apply, and thus seek to have the initial determination rescinded or mitigated pursuant to the following administrative procedures:
 
 (a) A party may submit arguments or evidence that the party believes establishes that insufficient basis exists for the initial determination, including any prohibition of the ICTS Transaction;

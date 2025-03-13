@@ -1,5 +1,7 @@
 ##### § 791.2 Definitions. #####
 
+Link to an amendment published at 89 FR 96892, Dec. 6, 2024.
+
 *Appropriate agency heads* means the Secretary of the Treasury, the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, the United States Trade Representative, the Director of National Intelligence, the Administrator of General Services, the Chairman of the Federal Communications Commission, and the heads of any other executive departments and agencies the Secretary determines is appropriate.
 
 *Commercial item* has the same meaning given to it in Federal Acquisition Regulation (48 CFR part 2.101).
