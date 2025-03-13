@@ -6,7 +6,7 @@
 
 (c) *Envelope.* The buoyant vest envelope, or cover, shall be made from 39″, 2.85 cotton jeans cloth, with a thread count of approximately 96 × 64. The finished goods shall weigh not less than 4.2 ounces per square yard, shall have thread count of not less than 94 × 60, and shall have a breaking strength of not less than 85 pounds in the warp and 50 pounds in the filling. Other cotton fabrics having a weight and breaking strength not less than the above will be acceptable. There are no restrictions as to color, but the fastness of the color to laundering, water, crocking, and light shall be rated “good” when tested in accordance with Federal Test Method Standard No. 191, Methods 5610, 5630, 5650, and 5660.
 
-(d) *Tie tapes and body strap loops.* The tie tapes and body strap loops for both adult and child sizes must be3/4-inch cotton webbing meeting the requirements of military specification MIL-T-43566 (Class I) for Type I webbing.
+(d) *Tie tapes and body strap loops.* The tie tapes and body strap loops for both adult and child sizes must be 3/4-inch cotton webbing meeting the requirements of military specification MIL-T-43566 (Class I) for Type I webbing.
 
 (d-1) *Body straps.* The complete body strap assembly, including hardware, must have a minimum breaking strength of 150 pounds for an adult size and 115 pounds for a child size. The specifications for the webbing are as follows:
 

@@ -34,4 +34,4 @@
 
 (j) Any decision made by the Commandant, or by the Deputy Commandant for Operations (DCO-D), or by the Assistant Commandant for Prevention Policy (CG-5P), or by a Director or an office chief pursuant to authority delegated by the Commandant is final agency action on the appeal.
 
-[CGD 88-033, 54 FR 50376, Dec. 6, 1989]Editorial Note:For Federal Register citations affecting § 1.03-15, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[CGD 88-033, 54 FR 50376, Dec. 6, 1989] Editorial Note:For Federal Register citations affecting § 1.03-15, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

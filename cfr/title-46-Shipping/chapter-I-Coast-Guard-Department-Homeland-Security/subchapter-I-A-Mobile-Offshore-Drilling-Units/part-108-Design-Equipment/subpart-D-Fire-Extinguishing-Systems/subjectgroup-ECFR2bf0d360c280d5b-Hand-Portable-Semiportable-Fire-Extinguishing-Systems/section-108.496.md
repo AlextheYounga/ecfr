@@ -1,7 +1,6 @@
 ##### § 108.496 Semi-portable fire extinguishers. #####
 
-(a) The frame or support of each semi-portable
-fire extinguisher required by Table 108.495(a), except a wheeled semi-portable extinguisher provided for a helicopter landing deck, must be welded or otherwise permanently attached to a bulkhead or deck.
+(a) The frame or support of each semi-portable fire extinguisher required by Table 108.495(a), except a wheeled semi-portable extinguisher provided for a helicopter landing deck, must be welded or otherwise permanently attached to a bulkhead or deck.
 
 (b) If the following semi-portable fire extinguishers have wheels, they must be securely stowed when not in use to prevent them from rolling out of control under heavy sea conditions:
 

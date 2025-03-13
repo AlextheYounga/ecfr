@@ -16,7 +16,7 @@
 
 (f) *Depth for freeboard* (*D*). (1) The depth for freeboard (*D*) is the molded depth amidships, plus the thickness of the freeboard deck stringer plate, where fitted, plus
 
-T(L−S)/Lif the exposed freeboard deck is sheathed;where:*T* is the mean thickness of the exposed sheathing clear of deck openings; and*S* is the total length of superstructures as defined in paragraph (j)(4) of this section.
+T(L−S)/Lif the exposed freeboard deck is sheathed; where:*T* is the mean thickness of the exposed sheathing clear of deck openings; and *S* is the total length of superstructures as defined in paragraph (j)(4) of this section.
 
 (2) The depth for freeboard (*D*) in a vessel having a rounded gunwale with a radius greater than 4 percent of the breadth (*B*) or having topsides of unusual form is the depth for freeboard of a vessel having a midship section with vertical topsides and with the same round of beam and area of topside section equal to that provided by the actual midship section.
 

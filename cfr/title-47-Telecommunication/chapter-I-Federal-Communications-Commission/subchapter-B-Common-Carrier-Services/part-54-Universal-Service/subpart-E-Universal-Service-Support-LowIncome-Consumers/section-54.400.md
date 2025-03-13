@@ -44,8 +44,8 @@ As used in this subpart, the following terms shall be defined as follows:
 
 (2) At least one member of the household has applied for and been approved to receive benefits under the free and reduced price lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 *et seq.*) or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773), or at least one member of the household is enrolled in a school or school district that participates in the Community Eligibility Provision (42 U.S.C. 1759a);
 
-(3) At least one member of the household has received a Federal Pell Grant under section 401 of the Higher Education Act of 1965 (20 U.S.C. 1070a) in the current award year, if such award is verifiable through the National Verifier or National Lifeline Accountability Database or the participating provider verifies eligibility under § 54.1806(a)(2); and
+(3) At least one member of the household has received a Federal Pell Grant under section 401 of the Higher Education Act of 1965 (20 U.S.C. 1070a) in the current award year, if such award is verifiable through the National Verifier or National Lifeline Accountability Database or the participating provider verifies eligibility under § 54.1806(a)(2);
 
 (4) At least one member of the household receives assistance through the special supplemental nutritional program for women, infants and children established by section 17 of the Child Nutrition Act of 1996 (42 U.S.C. 1786).
 
-[77 FR 12966, Mar. 2, 2012, as amended at 80 FR 40935, July 14, 2015; 81 FR 33089, May 24, 2016; 84 FR 71327, Dec. 27, 2019; 86 FR 1021, Jan.7, 2021; 88 FR 84446, Dec. 5, 2023]
+[77 FR 12966, Mar. 2, 2012, as amended at 80 FR 40935, July 14, 2015; 81 FR 33089, May 24, 2016; 84 FR 71327, Dec. 27, 2019; 86 FR 1021, Jan.7, 2021; 88 FR 84446, Dec. 5, 2023; 89 FR 87517, Nov. 4, 2024]

@@ -6,15 +6,15 @@ A unit is issued a Certificate of Inspection under § 107.211 or § 107.215(c) i
 
 (1) Part 108 of this subchapter;
 
-(2) Subchapter J of this chapter, Electrical Engineering;1
+(2) Subchapter J of this chapter, Electrical Engineering; 1
 
 1 Requirements for industrial systems and components are in Subpart 111.94 of this chapter.
 
-(3) Subchapter F of this chapter, Marine Engineering;2
+(3) Subchapter F of this chapter, Marine Engineering; 2
 
 2 Requirements for industrial systems and components are in Subpart 58.60 of this chapter.
 
-(4) Subchapter E of this chapter, Load Lines;3
+(4) Subchapter E of this chapter, Load Lines; 3
 
 3 Requirements for load lines are not applicable to bottom supported units when they are being supported by, or being lowered to or raised from the seabed.
 

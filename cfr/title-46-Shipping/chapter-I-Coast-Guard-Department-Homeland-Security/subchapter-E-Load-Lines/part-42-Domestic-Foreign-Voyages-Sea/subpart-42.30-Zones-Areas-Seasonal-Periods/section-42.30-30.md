@@ -6,7 +6,7 @@
 
 (i) Seasonal periods:
 
-Winter: November 1 to March 31.Summer: April 1 to October 31.
+Winter: November 1 to March 31. Summer: April 1 to October 31.
 
 (b) *Black Sea.* This sea is included in the Summer Zones.
 
@@ -14,7 +14,7 @@ Winter: November 1 to March 31.Summer: April 1 to October 31.
 
 (i) Seasonal periods:
 
-Winter: December 1 to February 28/29.Summer: March 1 to November 30.
+Winter: December 1 to February 28/29. Summer: March 1 to November 30.
 
 (c) *Mediterranean.* This sea is included in the Summer Zones.
 
@@ -22,7 +22,7 @@ Winter: December 1 to February 28/29.Summer: March 1 to November 30.
 
 (i) Seasonal periods:
 
-Winter: December 16 to March 15.Summer: March 16 to December 15.
+Winter: December 16 to March 15. Summer: March 16 to December 15.
 
 (d) *Sea of Japan.* This sea south of the parallel of latitude 50° N. is included in the Summer Zones.
 
@@ -30,4 +30,4 @@ Winter: December 16 to March 15.Summer: March 16 to December 15.
 
 (i) Seasonal periods:
 
-Winter: December 1 to February 28/29.Summer: March 1 to November 30.[CGFR 68-60, 33 FR 10069, July 12, 1968, as amended by CGFR 68-126, 34 FR 9016, June 5, 1969]
+Winter: December 1 to February 28/29. Summer: March 1 to November 30.[CGFR 68-60, 33 FR 10069, July 12, 1968, as amended by CGFR 68-126, 34 FR 9016, June 5, 1969]

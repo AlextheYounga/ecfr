@@ -8,4 +8,6 @@
 
 (d) The draws of the bridges above Meridian need not be opened for the passage of vessels.
 
-[USCG-2011-1138, 77 FR 74777, Dec. 18, 2012]
+(e) The draw of the California Department of Transportation Rio Vista (State Route 12) highway bridge, mile 12.8, at Rio Vista, shall open on signal through August 29, 2025 if at least 4 hours' notice is given to the drawtender.
+
+[USCG-2011-1138, 77 FR 74777, Dec. 18, 2012, as amended by USCG-2024-0745, 89 FR 87500, Nov. 4, 2024]Effective Date Note:By USCG-2024-0745, 89 FR 87500, Nov. 4, 2024, § 117.189 was amended by adding a new paragraph (e), effective Nov. 4, 2024 through Aug. 29, 2025.

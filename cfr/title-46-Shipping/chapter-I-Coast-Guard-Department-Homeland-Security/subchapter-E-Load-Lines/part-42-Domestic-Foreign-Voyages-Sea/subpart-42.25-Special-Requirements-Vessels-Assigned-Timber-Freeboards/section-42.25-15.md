@@ -12,7 +12,7 @@
 
 (c) *Lashings.* (1) Timber deck cargo shall be efficiently secured throughout its length by independent overall lashings spaced not more than 9.8 feet apart. Eye plates for these lashings shall be efficiently attached to the sheer strake or to the deck stringer plate at intervals of not more than 9.8 feet. The distance from an end bulkhead of a superstructure to the first eye plate shall be not more than 6.6 feet. Eye plates and lashings shall be provided 231/2 inches and 4.9 feet from the ends of timber deck cargoes where there is no bulkhead.
 
-(2) Lashings shall be not less than3/4-inch close link chain or flexible wire rope of equivalent strength, fitted with sliphooks and turnbuckles, which shall be accessible at all times. Wire rope lashings shall have a short length of long link chain to permit the length of lashings to be regulated.
+(2) Lashings shall be not less than 3/4-inch close link chain or flexible wire rope of equivalent strength, fitted with sliphooks and turnbuckles, which shall be accessible at all times. Wire rope lashings shall have a short length of long link chain to permit the length of lashings to be regulated.
 
 (3) When timber is in lengths less than 11.8 feet the spacing of the lashings shall be reduced or other suitable provisions made to suit the length of timber.
 

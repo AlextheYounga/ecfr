@@ -1,6 +1,6 @@
 ##### § 45.61 Correction for superstructures and trunks. #####
 
-(a) Where the effective length *E* of superstructures and trunks that meet the requirements of subpart D of this part is 1.0*L,* the minimum summer freeboard may be corrected by subtracting1/2Hs.
+(a) Where the effective length *E* of superstructures and trunks that meet the requirements of subpart D of this part is 1.0*L,* the minimum summer freeboard may be corrected by subtracting 1/2Hs.
 
 (b) Where the effective length of superstructures and trunks is less than 1.0*L* the minimum summer freeboard may be corrected by subtracting a percentage of one-half of the standard superstructure height (*H*s) determined by the formula:
 

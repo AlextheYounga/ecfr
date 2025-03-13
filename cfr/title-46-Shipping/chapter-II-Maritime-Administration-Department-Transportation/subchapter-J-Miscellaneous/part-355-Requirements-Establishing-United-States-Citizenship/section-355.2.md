@@ -20,7 +20,7 @@ I, \_\_\_\_\_\_\_\_\_\_, (Name) of \_\_\_\_\_\_\_\_\_\_, (Residence address) bei
 
 (The foregoing list should include the officers, whether or not they are also directors, and all directors, whether or not they are also officers.)and that each of said individuals is a citizen of the United States by virtue of birth in the United States, birth abroad of U.S. citizen parents, by naturalization, by naturalization during minority through the naturalization of a parent, by marriage (if a woman) to a U.S. citizen prior to September 22, 1922, or as otherwise authorized by law, except (give name and nationality of alien directors, if any); however, the Bylaws of the Corporation provide that \_\_\_\_\_\_(Number) of the directors are necessary to constitute a quorum; therefore, the alien directors named represent no more than a minority of the number necessary to constitute a quorum. [In the case of corporations under title VI, Merchant Marine Act, 1936, as amended, all directors must be citizens of the United States. Further, obtaining evidence necessary to support this Affidavit of U.S. Citizenship is the responsibility of the affiant.];
 
-4. Information as to stock, where Corporation has 30 or more stockholders:1
+4. Information as to stock, where Corporation has 30 or more stockholders: 1
 
 1 Strike inapplicable paragraph 4.
 
@@ -30,9 +30,9 @@ That the registered addresses of \_\_\_\_\_\_ owners of record of \_\_\_\_\_\_ s
 
 (The same statement should be made with reference to each class or series of stock, if there is more than one class or series.)
 
-4. Information as to stock, where Corporation has less than 30 stockholders:1
+4. Information as to stock, where Corporation has less than 30 stockholders: 1
 
-That the information as to stock ownership, upon which the Corporation relies to establish that the required percentage2 of stock ownership is vested in citizens of the United States, is as follows:
+That the information as to stock ownership, upon which the Corporation relies to establish that the required percentage 2 of stock ownership is vested in citizens of the United States, is as follows:
 
 2 75% if Corporation is operating in the coastwise trade, on the Great Lakes, or on bays, sounds, rivers, harbors, or inland lakes of the United States; and controlling interest if Corporation is operating solely in the foreign trade, both terms as defined in section 2, Shipping Act, 1916, as amended.
 
@@ -47,7 +47,7 @@ and that each of said individual stockholders is a citizen of the United States 
 
 If a corporate stockholder, give information with respect to State of incorporation, the names of the officers, directors, and stockholders in the appropriate percentage of shares held, with statement that they are all U.S. citizens. Nominee holders of record of 5 percent or more of any class or series of stock and the beneficial owners thereof should be named and their U.S. citizenship affirmed.
 
-5. That the controlling interest (or 75% of the interest)3 in (each) said Corporation, as established by the data hereinbefore set forth, is owned by citizens of the United States; that the title to a majority (or 75%)3 of the stock of (each) said Corporation is vested in citizens of the United States free from any trust or fiduciary obligation in favor of any person not a citizen of the United States; that such proportion of the voting power of (each) said Corporation is vested in citizens of the United States; that through no contract or understanding is it so arranged that the majority (or more than 25%)3 of the voting power of (each) said Corporation may be exercised, directly or indirectly, in behalf of any person who is not a citizen of the United States; and that by no means whatsoever, is control of (each) said Corporation (or any interest in said Corporation in excess of 25%)3 conferred upon or permitted to be exercised by any person who is not a citizen of the United States; and
+5. That the controlling interest (or 75% of the interest) 3 in (each) said Corporation, as established by the data hereinbefore set forth, is owned by citizens of the United States; that the title to a majority (or 75%) 3 of the stock of (each) said Corporation is vested in citizens of the United States free from any trust or fiduciary obligation in favor of any person not a citizen of the United States; that such proportion of the voting power of (each) said Corporation is vested in citizens of the United States; that through no contract or understanding is it so arranged that the majority (or more than 25%) 3 of the voting power of (each) said Corporation may be exercised, directly or indirectly, in behalf of any person who is not a citizen of the United States; and that by no means whatsoever, is control of (each) said Corporation (or any interest in said Corporation in excess of 25%) 3 conferred upon or permitted to be exercised by any person who is not a citizen of the United States; and
 
 3 Strike inappropriate language.
 
@@ -59,7 +59,7 @@ Dated: \_\_\_\_\_\_
 
 Subscribed and sworn to before me, a Notary Public in and for the State and County aforesaid, this \_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_19\_\_\_\_.
 
-(Notary Public)My Commission expires:
+(Notary Public) My Commission expires:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

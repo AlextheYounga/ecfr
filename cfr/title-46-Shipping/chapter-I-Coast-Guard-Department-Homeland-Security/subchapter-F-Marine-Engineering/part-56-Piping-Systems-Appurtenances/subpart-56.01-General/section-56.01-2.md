@@ -28,7 +28,7 @@ Certain material is incorporated by reference into this part with the approval o
 
 (9) ASME B16.4-2016, Gray Iron Threaded Fittings, Classes 125 and 250, issued November 11, 2016 (“ASME B16.4”); IBR approved for § 56.60-1 table 2.
 
-(10) ASME B16.5-2017, Pipe Flanges and Flanged Fittings, NPS1/2 Through NPS 24 Metric/Inch Standard, issued November 20, 2017, (“ASME B16.5”); IBR approved for §§ 56.25-20(a); 56.30-10(b); 56.60-1 table 2.
+(10) ASME B16.5-2017, Pipe Flanges and Flanged Fittings, NPS 1/2 Through NPS 24 Metric/Inch Standard, issued November 20, 2017, (“ASME B16.5”); IBR approved for §§ 56.25-20(a); 56.30-10(b); 56.60-1 table 2.
 
 (11) ASME B16.11-2016, Forged Fittings, Socket-Welding and Threaded, issued January 1, 2017 including errata (“ASME B16.11”); IBR approved for §§ 56.30-5(c); 56.60-1 tables 1 and 2.
 

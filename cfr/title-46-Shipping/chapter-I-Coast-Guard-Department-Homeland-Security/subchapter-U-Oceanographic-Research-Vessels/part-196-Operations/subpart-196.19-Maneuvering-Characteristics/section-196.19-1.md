@@ -26,7 +26,7 @@ For each ocean and coastwise vessel of 1,600 gross tons or over, the following a
 
 (c) At the bottom of the fact sheet, the following statement must appear:
 
-WarningThe response of the (name of the vessel) may be different from those listed above if any of the following conditions, upon which the maneuvering information is based, are varied:
+Warning The response of the (name of the vessel) may be different from those listed above if any of the following conditions, upon which the maneuvering information is based, are varied:
 
 (1) Calm weather—wind 10 knots or less, calm sea;
 

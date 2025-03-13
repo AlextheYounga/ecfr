@@ -12,7 +12,7 @@
 
 (5) In miscellaneous spaces other than cargo or main machinery spaces the number of pounds of carbon dioxide required shall be equal to the gross volume of the space divided by 22.
 
-(6) Branch lines to the various spaces other than cargo and similar spaces shall be as noted in Table 193.15-90(a)(6). This table is based on cylinders having discharge outlets and siphon tubes of3/8-inch diameter.
+(6) Branch lines to the various spaces other than cargo and similar spaces shall be as noted in Table 193.15-90(a)(6). This table is based on cylinders having discharge outlets and siphon tubes of 3/8-inch diameter.
 
 |Number of cylinders|Nominal pipe size, inches|                 |
 |-------------------|-------------------------|-----------------|

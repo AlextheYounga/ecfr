@@ -20,4 +20,4 @@
 
 (2) [Reserved]
 
-[CGD 88-032, 56 FR 35820, July 29, 1991]Editorial Note:For Federal Register citations affecting § 32.01-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[CGD 88-032, 56 FR 35820, July 29, 1991] Editorial Note:For Federal Register citations affecting § 32.01-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

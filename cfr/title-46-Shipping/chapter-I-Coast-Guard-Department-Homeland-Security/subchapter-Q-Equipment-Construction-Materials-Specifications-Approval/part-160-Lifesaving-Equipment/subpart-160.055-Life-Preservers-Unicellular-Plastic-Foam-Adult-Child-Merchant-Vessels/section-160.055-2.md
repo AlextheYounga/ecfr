@@ -16,9 +16,9 @@ Each life preserver specified in this subpart is a:
 
 (c) Nonstandard, shaped type:
 
-(1) Model,1 adult (for persons weighing over 90 pounds); or
+(1) Model, 1 adult (for persons weighing over 90 pounds); or
 
-(2) Model,1 child (for persons weighing less than 90 pounds).
+(2) Model, 1 child (for persons weighing less than 90 pounds).
 
 1 A model designation for each nonstandard life preserver is to be assigned by the manufacturer. That designation must be different from any standard lifesaving device designation.
 

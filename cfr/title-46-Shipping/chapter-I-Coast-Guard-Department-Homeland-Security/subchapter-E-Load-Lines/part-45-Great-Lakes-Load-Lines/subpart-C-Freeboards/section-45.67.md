@@ -8,4 +8,4 @@
 
 (d) In ships with a step or break in the topsides, the sheer must be measured from the equivalent depth amidships.
 
-(e) In vessels with a superstructure of standard height that extends over the whole length of the freeboard deck, the sheer must be measured on the superstructure deck. Where the height of superstructure exceeds the standard, the least difference (Z) between the actual and standard heights must be added to each end ordinate. Similarly, the intermediate ordinates at distance of1/6*L* and1/3*L* from each perpendicular must be increased by 0.444 Z and 0.111 Z respectively.
+(e) In vessels with a superstructure of standard height that extends over the whole length of the freeboard deck, the sheer must be measured on the superstructure deck. Where the height of superstructure exceeds the standard, the least difference (Z) between the actual and standard heights must be added to each end ordinate. Similarly, the intermediate ordinates at distance of 1/6*L* and 1/3*L* from each perpendicular must be increased by 0.444 Z and 0.111 Z respectively.

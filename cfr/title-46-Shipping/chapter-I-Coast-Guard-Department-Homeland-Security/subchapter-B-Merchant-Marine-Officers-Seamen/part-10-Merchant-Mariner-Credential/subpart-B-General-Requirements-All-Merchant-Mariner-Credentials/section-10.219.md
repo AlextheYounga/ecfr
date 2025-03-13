@@ -1,7 +1,5 @@
 ##### § 10.219 Fees. #####
 
-Link to an amendment published at 89 FR 63841, Aug. 6, 2024.
-
 (a) Use table 1 to § 10.219(a) to calculate the mandatory fees for MMCs and associated endorsements.
 
 |                                                              If you apply for                                                              |          And you need           |                              |               |
@@ -92,4 +90,22 @@ Link to an amendment published at 89 FR 63841, Aug. 6, 2024.
 
 (l) The holder of a no-fee MMC issued under paragraph (h) of this section may have the restriction removed by paying the appropriate evaluation, examination, and issuance fees that would have otherwise applied.
 
-[USCG-2004-17914, 78 FR 77890, Dec. 24, 2013]
+(m) For members of the uniformed services, a qualified applicant under this section is exempt from paying evaluation, examination, or issuance fees for an MMC as described in paragraph (b)(2) of this section.
+
+(1) For purposes of paragraph (m) of this section, *qualified applicant* means an individual who, at the time of submission of an application, is—
+
+(i) A member of the uniformed services listed in 10 U.S.C. 101(a)(5) on active duty;
+
+(ii) A member of the Selected Reserve, as described in 10 U.S.C. 10143(a), of a reserve component named in 10 U.S.C. 10101; or
+
+(iii) A member of the Ready Reserve Corps of the Public Health Service established in 42 U.S.C. 204(a)(1).
+
+(2) For purposes of paragraph (m)(1)(i) of this section—
+
+(i) For the members of the armed forces, as defined in 10 U.S.C. 101(a)(4), active duty is defined by 10 U.S.C. 101(d)(1);
+
+(ii) For the commissioned corps of the National Oceanic and Atmospheric Administration, active duty has the same meaning as found in 33 U.S.C. 3002(b)(1); and
+
+(iii) For the members of the commissioned corps of the Public Health Service, active duty has the meaning defined in 42 CFR 21.72(f).
+
+[USCG-2004-17914, 78 FR 77890, Dec. 24, 2013, as amended by USCG-2021-0288, 89 FR 63841, Aug. 6, 2024]

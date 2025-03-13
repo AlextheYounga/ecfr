@@ -26,10 +26,10 @@
 
 (i) The GMR is the sum of the increments of GM (GMI) multiplied by the correction factor, f and r.
 
-Where:r = (available freeboard) (beam) of the vessel andf = 1 if r is \>0.268 orf = (0.268 r) if r is \<0.268.
+Where:r = (available freeboard) (beam) of the vessel and f = 1 if r is \>0.268 or f = (0.268 r) if r is \<0.268.
 
 (ii) The GMI for each compartment which has a slack surface of grain, *i.e.*, is not trimmed full, is calculated by the following formula:
 
-GMI = (B3 × L × 0.0661)(Disp. × SF))where:B = breadth of slack grain surface (mL = Length of compartment (m)Disp. = Displacement of vessel (tons)SF = Stowage factor of grain in compartment (cubic meters/tons)
+GMI = (B3 × L × 0.0661)(Disp. × SF)) where:B = breadth of slack grain surface (mL = Length of compartment (m) Disp. = Displacement of vessel (tons) SF = Stowage factor of grain in compartment (cubic meters/tons)
 
 (c) Vessels which do not have the Document of Authorization required by § 172.015 may carry grain in bulk up to one third of their deadweight tonnage provided the stability complies with the requirements of Section 9 of the International Code for the Safe Carriage of Grain in Bulk.

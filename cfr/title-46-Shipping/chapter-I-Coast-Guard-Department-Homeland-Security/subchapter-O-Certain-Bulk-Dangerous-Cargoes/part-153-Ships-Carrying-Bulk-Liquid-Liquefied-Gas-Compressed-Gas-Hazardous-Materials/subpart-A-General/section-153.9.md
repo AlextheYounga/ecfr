@@ -30,4 +30,4 @@
 
 (2) Correspondence with the Coast Guard and vessel information submitted under this part must be in English except IMO Certificates which may be in French.
 
-[CGD 73-96, 42 FR 49027, Sept. 26, 1977]Editorial Note:For Federal Register citations affecting § 153.9, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[CGD 73-96, 42 FR 49027, Sept. 26, 1977] Editorial Note:For Federal Register citations affecting § 153.9, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

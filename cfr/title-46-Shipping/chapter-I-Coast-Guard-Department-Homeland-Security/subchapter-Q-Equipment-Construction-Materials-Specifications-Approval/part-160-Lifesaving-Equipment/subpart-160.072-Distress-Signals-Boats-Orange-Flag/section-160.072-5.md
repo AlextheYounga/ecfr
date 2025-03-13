@@ -1,6 +1,6 @@
 ##### § 160.072-5 Accelerated weathering test. #####
 
-(a) Condition the flag, folded to1/16th its size or as packaged, whichever is smaller, by submersion in 5% by weight sodium chloride solution for 2 hours followed immediately by storage at 95% (±5) related humidity and 40 °C (±3°) (100 °F ±5°) for at least 15 days.
+(a) Condition the flag, folded to 1/16th its size or as packaged, whichever is smaller, by submersion in 5% by weight sodium chloride solution for 2 hours followed immediately by storage at 95% (±5) related humidity and 40 °C (±3°) (100 °F ±5°) for at least 15 days.
 
 (b) Unfold and suspend flag by the lines provided, secured through each grommet.
 

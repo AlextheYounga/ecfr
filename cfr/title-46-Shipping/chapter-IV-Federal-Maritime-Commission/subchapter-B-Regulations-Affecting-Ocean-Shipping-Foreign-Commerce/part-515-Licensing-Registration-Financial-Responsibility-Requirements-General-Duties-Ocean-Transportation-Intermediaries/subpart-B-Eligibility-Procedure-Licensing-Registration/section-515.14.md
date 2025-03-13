@@ -10,8 +10,7 @@
 
 (d) *License renewal process.* (1) The licensee shall submit the renewal electronically to the Director of the Bureau of Certification and Licensing (BCL) no later than the renewal date as published on the Commission website. The renewal date (month/day) will remain the same for subsequent renewals irrespective of the date on which the license renewal is submitted or when the renewal is accepted by the Commission, unless another renewal date is assigned by the Commission.
 
-(2) Where information identified in an OTI's license renewal process is changed from that set out in its current Form FMC-18 and requires Commission approval pursuant to § 515.20, the licensee must promptly submit a request for such approval on Form FMC-18 together with the required filing fee.
-The licensee may continue to operate as an ocean transportation intermediary during the pendency of the Commission's approval process.
+(2) Where information identified in an OTI's license renewal process is changed from that set out in its current Form FMC-18 and requires Commission approval pursuant to § 515.20, the licensee must promptly submit a request for such approval on Form FMC-18 together with the required filing fee. The licensee may continue to operate as an ocean transportation intermediary during the pendency of the Commission's approval process.
 
 (3) Though the foregoing license renewal process is not intended to result in a re-evaluation of a licensee's character, the Commission may review a licensee's character at any time, including at the time of renewal, based upon information received from the licensee or other sources.
 

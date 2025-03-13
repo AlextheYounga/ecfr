@@ -8,13 +8,13 @@
 
 (3) Description of method of attachment to or protection of the steel deck together with the trade name and designation of adhesive or protective coating if used.
 
-(4) A sample of the molded deck covering at least 6 inches square and1/4 inch thick. This may or may not be attached to a backing material at the manufacturer's option.
+(4) A sample of the molded deck covering at least 6 inches square and 1/4 inch thick. This may or may not be attached to a backing material at the manufacturer's option.
 
 (b) The material submitted will be examined and the manufacturer advised as to the number and thicknesses of samples to be submitted together with the estimated cost of the tests.
 
 (c) If the deck covering is indicated as being suitable, the manufacturer shall then submit the following:
 
-(1) Two samples of each thickness to be tested laid in the manner designated on a1/4″ × 12″ × 27″ steel plate for the purpose of the smoke test and fire resistance and integrity test noted in § 164.006-4 (b) and (c).
+(1) Two samples of each thickness to be tested laid in the manner designated on a 1/4″ × 12″ × 27″ steel plate for the purpose of the smoke test and fire resistance and integrity test noted in § 164.006-4 (b) and (c).
 
 (2) Sufficient bulk material (unmixed) to lay a sample one inch thick on an area of 12″ × 27″. If an adhesive or protective coating is used, a liberal sample shall be supplied.
 

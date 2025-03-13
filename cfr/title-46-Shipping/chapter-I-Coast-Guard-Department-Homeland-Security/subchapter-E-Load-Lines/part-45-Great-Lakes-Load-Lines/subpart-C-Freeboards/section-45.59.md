@@ -14,9 +14,9 @@ For the purpose of §§ 45.58 through 45.61—
 
 (e) Where the height of an enclosed superstructure or trunk is less than the standard height (*H*s),the effective length (*E*) is its length reduced in the ratio of its height to *H*s.
 
-(f) The effective length (*E*) of a raised quarter deck of2/3*H*s or greater that has no openings in the front bulkhead is its length up to a maximum of 0.6*L.*
+(f) The effective length (*E*) of a raised quarter deck of 2/3*H*s or greater that has no openings in the front bulkhead is its length up to a maximum of 0.6*L.*
 
-(g) The effective length (*E*) of a raised quarter deck of less than2/3*H*s or that does not have an intact front bulkhead is its length reduced by the ratio of its height to *H*s.
+(g) The effective length (*E*) of a raised quarter deck of less than 2/3*H*s or that does not have an intact front bulkhead is its length reduced by the ratio of its height to *H*s.
 
 |Length of Ship (feet)|Value of P|
 |---------------------|----------|

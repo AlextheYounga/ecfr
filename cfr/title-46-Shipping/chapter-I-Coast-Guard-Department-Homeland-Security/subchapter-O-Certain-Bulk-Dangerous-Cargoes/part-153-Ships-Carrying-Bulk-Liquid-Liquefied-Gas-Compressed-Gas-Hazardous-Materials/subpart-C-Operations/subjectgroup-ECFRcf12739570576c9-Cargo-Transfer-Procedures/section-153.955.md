@@ -20,15 +20,15 @@
 
 (1) Be 7.5 cm (approx. 3 in.) high;
 
-(2) Be 5 cm (approx. 2 in.) wide except for “M” and “W” which must be 7.5 cm (approx. 3 in.) wide and the letter “I” which may be 1.3 cm (approx.1/2 in.) wide; and
+(2) Be 5 cm (approx. 2 in.) wide except for “M” and “W” which must be 7.5 cm (approx. 3 in.) wide and the letter “I” which may be 1.3 cm (approx. 1/2 in.) wide; and
 
 ![](/graphics/ec02fe91.082.gif)
 
-(3) Have 1.3 cm (approx.1/2 in.) stroke width.
+(3) Have 1.3 cm (approx. 1/2 in.) stroke width.
 
 (e) The spacing must be:
 
-(1) 1.3 cm (approx.1/2 in.) between letters of the same word;
+(1) 1.3 cm (approx. 1/2 in.) between letters of the same word;
 
 (2) 5 cm (approx. 2 in.) between words;
 

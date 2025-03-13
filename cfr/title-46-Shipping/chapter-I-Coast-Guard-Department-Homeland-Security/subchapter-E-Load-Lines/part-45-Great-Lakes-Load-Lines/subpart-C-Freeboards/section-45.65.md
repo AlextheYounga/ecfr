@@ -38,7 +38,7 @@ The decrease in freeboard allowed in § 45.63 is limited as follows:
 
 (d) Where an enclosed poop or forecastle is of standard height with greater sheer than that of the freeboard deck, or is greater than standard height, an addition to the sheer of the freeboard deck may be made using the following formula:
 
-S=*vL*′/3*L*Where*s* = sheer credit, to be deducted from the deficiency or added to the excess of sheer.*v* = difference between actual and standard height of superstructure at the end ordinate.*L*′ = mean enclosed length of poop or forecastle up to a maximum length of 0.5 *L.*The superstructure deck must not be less than standard height above this curve at any point. This curve must be used in determining the sheer profile for forward and after halves of the vessel.
+S=*vL*′/3*L*Where*s* = sheer credit, to be deducted from the deficiency or added to the excess of sheer. *v* = difference between actual and standard height of superstructure at the end ordinate. *L*′ = mean enclosed length of poop or forecastle up to a maximum length of 0.5 *L.*The superstructure deck must not be less than standard height above this curve at any point. This curve must be used in determining the sheer profile for forward and after halves of the vessel.
 
 (e) The maximum decreased for excess sheer must be no more than 11/2 inches per 100 feet of length.
 

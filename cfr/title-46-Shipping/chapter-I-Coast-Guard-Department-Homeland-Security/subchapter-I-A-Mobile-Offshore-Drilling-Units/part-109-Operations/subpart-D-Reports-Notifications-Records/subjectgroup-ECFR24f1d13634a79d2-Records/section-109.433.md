@@ -1,4 +1,4 @@
-##### § 109.433 Logbook entries.1 #####
+##### § 109.433 Logbook entries. 1 #####
 
 1Note: 46 U.S.C. 11301 requires that certain entries be made in an official logbook, in addition to the entries required by this section; and 46 U.S.C. 11302 prescribes the manner of making those entries.
 

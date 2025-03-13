@@ -94,7 +94,6 @@
 
 (n) *Other spaces.* Except for those spaces listed in paragraphs (e) through (k), a space that has a direct opening to any space listed in paragraphs (e) through (l) must have only the electric installations that are allowed for the space to which it opens.
 
-(o) *Duct keels.* The lighting and ventilation systems, and the gas detection system, if installed, for each pipe tunnel must meet section 5C-1-7/31.17 of ABS Marine Vessel Rules (incorporated by reference; see 46 CFR 110.10-1)
-.
+(o) *Duct keels.* The lighting and ventilation systems, and the gas detection system, if installed, for each pipe tunnel must meet section 5C-1-7/31.17 of ABS Marine Vessel Rules (incorporated by reference; see 46 CFR 110.10-1) .
 
 [CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by CGD 82-096, 49 FR 4947, Feb. 9, 1984; CGD 94-108, 61 FR 28285, June 4, 1996; 61 FR 33045, June 26, 1996; 62 FR 23909, May 1, 1997; USCG-2003-16630, 73 FR 65200, Oct. 31, 2008; USCG-2012-0832, 77 FR 59781, Oct. 1, 2012; USCG-2020-0075, 88 FR 16366, Mar. 16, 2023]

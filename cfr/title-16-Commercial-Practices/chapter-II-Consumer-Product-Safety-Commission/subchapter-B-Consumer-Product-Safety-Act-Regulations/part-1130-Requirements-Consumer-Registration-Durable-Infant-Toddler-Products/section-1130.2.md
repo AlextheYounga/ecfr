@@ -1,6 +1,6 @@
 ##### § 1130.2 Definitions. #####
 
-Link to an amendment published at 89 FR 85414, Oct. 25, 2024.
+Link to an amendment published at 89 FR 85414, Oct. 25, 2024.Link to an amendment published at 89 FR 87487, Nov. 4, 2024.
 
 In addition to the definitions given in section 3 of the Consumer Product Safety Act (15 U.S.C. 2052), the following definitions apply:
 
