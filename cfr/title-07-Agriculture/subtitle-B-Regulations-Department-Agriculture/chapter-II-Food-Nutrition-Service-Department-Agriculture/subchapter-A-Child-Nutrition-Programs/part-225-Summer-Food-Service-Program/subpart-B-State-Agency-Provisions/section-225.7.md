@@ -6,17 +6,31 @@
 
 (c) *Food specifications and meal quality standards.* With the assistance of the Department, each State agency shall develop and make available to all sponsors minimum food specifications and model meal quality standards which shall become part of all contracts between vended sponsors and food service management companies.
 
-(d) *Pre-approval visits.* The State agency must conduct pre-approval visits of sponsors and sites, as specified below, to assess the applicant sponsor's or site's potential for successful Program operations and to verify information provided in the application. The State agency must visit prior to approval:
+(d) *Pre-approval visits.* The State agency must conduct pre-approval visits of sponsors and sites, as specified in paragraph (d)(1) through (4) of this section, to assess the applicant sponsor's or site's potential for successful Program operations and to verify information provided in the application.
 
-(1) All applicant sponsors that did not participate in the program in the prior year. However, if a sponsor is a school food authority, was reviewed by the State agency under the National School Lunch Program during the preceding 12 months, and had no significant deficiencies noted in that review, a pre-approval visit may be conducted at the discretion of the State agency. In addition, pre-approval visits of sponsors proposing to operate the Program during unanticipated school closures may be conducted at the discretion of the State agency;
+(1) The State agency must visit, prior to approval:
 
-(2) All applicant sponsors that had operational problems noted in the prior year; and
+(i) All applicant sponsors that did not participate in the program in the prior year;
 
-(3) All sites that the State agency has determined need a pre-approval visit.
+(ii) All applicant sponsors that had operational problems noted in the prior year; and
+
+(iii) All sites that the State agency has determined need a pre-approval visit.
+
+(2) If a sponsor is a school food authority or Child and Adult Care Food Program institution and was reviewed by the State agency under their respective programs during the preceding 12 months, and had no significant deficiencies noted in that review, a pre-approval visit may be conducted at the discretion of the State agency.
+
+(3) Pre-approval visits of sponsors proposing to operate the Program during unanticipated school closures may be conducted at the discretion of the State agency.
+
+(4) Each State agency must establish a process to determine which sites need pre-approval visits. Characteristics that must be considered include, but are not limited to:
+
+(i) Sites that did not participate in the program in the prior year;
+
+(ii) Existing sites that are new to non-congregate meal service; and
+
+(iii) Existing sites that exhibited operational problems in the prior year.
 
 (e) *Sponsor and site reviews*—(1) *Purpose.* The State agency must review sponsors and sites to ensure compliance with Program regulations, the Department's non-discrimination regulations (7 CFR part 15), and any other applicable instructions issued by the Department.
 
-(2) *Sample selection.* In determining which sponsors and sites to review, the State agency must, at a minimum, consider the sponsors and sites' previous participation in the Program, their current and previous Program performance, and the results of previous reviews.
+(2) *Sample selection.* In determining which sponsors and sites to review, the State agency must, at a minimum, consider the sponsors and sites' previous participation in the Program, their current and previous Program performance, whether they operate as congregate or non-congregate sites, and the results of previous reviews.
 
 (3) *School food authorities.* When the same school food authority personnel administer this Program as well as the National School Lunch Program (7 CFR part 210), the State agency is not required to conduct a sponsor or site review in the same year in which the National School Lunch Program operations have been reviewed and determined to be satisfactory.
 
@@ -24,13 +38,13 @@
 
 (i) Conduct a review of every new sponsor at least once during the first year of operation;
 
-(ii) Annually review a number of sponsors whose program reimbursements, in the aggregate, accounted for at least one-half of the total program meal reimbursements in the State in the prior year;
+(ii) Annually review every sponsor that experienced significant operational problems in the prior year;
 
-(iii) Annually review every sponsor that experienced significant operational problems in the prior year;
+(iii) Review each sponsor at least once every 3 years;
 
-(iv) Review each sponsor at least once every three years; and
+(iv) Review more frequently those sponsors that, in the determination of the State agency, require additional technical assistance; and
 
-(v) As part of each sponsor review, conduct reviews of at least 10 percent of each reviewed sponsor's sites, or one site, whichever number is greater.
+(v) As part of each sponsor review, conduct reviews of at least 10 percent of each reviewed sponsor's sites, or one site, whichever number is greater. The review sample must include sites representative of all meal service models operated by the sponsor.
 
 (5) *Site selection criteria.* (i) State agencies must develop criteria for site selection when selecting sites to meet the minimum number of sites required under paragraph (e)(4)(v) of this section. State agencies should, to the maximum extent possible, select sites that reflect the sponsor's entire population of sites. Characteristics that should be reflected in the sites selected for review include:
 
@@ -44,9 +58,13 @@
 
 (E) Type of physical location (*e.g.,* school, outdoor area, community center);
 
-(F) Rural designation (*i.e.,* rural, as defined in § 225.2, or non-rural); and
+(F) Rural designation (*i.e.,* rural, as defined in § 225.2, or non-rural);
 
-(G) Affiliation with the sponsor, as defined in § 225.2.
+(G) Type of meal service (*i.e.,* congregate or non-congregate);
+
+(H) If non-congregate, meal distribution method (*e.g.,* meal pick-up, delivery); and
+
+(I) Affiliation with the sponsor, as defined in § 225.2.
 
 (ii) The State agency may use additional criteria to select sites including, but not limited to: recommendations from the sponsor; findings from other audits or reviews; or any indicators of potential error in daily meal counts (*e.g.,* identical or very similar claiming patterns, large changes in free meal counts).
 
@@ -98,7 +116,25 @@
 
 (3) Funds provided in § 225.5(f) may be used for conducting meal preparation facility reviews.
 
-(j) *Forms for reviews by sponsors.* Each State agency must develop and provide monitor review forms to all approved sponsors. These forms must be completed by sponsor monitors. The monitor review form must include, but not be limited to, the time of the reviewer's arrival and departure, the site supervisor's printed name and signature, a certification statement to be signed by the monitor, the number of meals prepared or delivered, the number of meals served to children, the deficiencies noted, the corrective actions taken by the sponsor, and the date of such actions.
+(j) *Forms for reviews by sponsors.* Each State agency must develop and provide monitor review forms to all approved sponsors. These forms must be completed by sponsor monitors. The monitor review form must include, but not be limited to:
+
+(1) The time of the reviewer's arrival and departure;
+
+(2) The site supervisor's printed name and signature;
+
+(3) A certification statement to be signed by the monitor;
+
+(4) The number of meals prepared or delivered;
+
+(5) Whether the meal service is congregate or non-congregate;
+
+(6) The number of meals served to children;
+
+(7) The deficiencies noted;
+
+(8) The corrective actions taken by the sponsor; and
+
+(9) The date of such actions.
 
 (k) *Corrective actions.* Corrective actions which the State agency may take when Program violations are observed during the conduct of a review are discussed in § 225.11. The State agency must conduct follow-up reviews as appropriate when corrective actions are required.
 
@@ -114,10 +150,10 @@
 
 (4) A significant portion of the food served is privately donated or purchased at a very low price.
 
-(n) *Nondiscrimination.* (1) Each State agency must comply with all requirements of title VI of the Civil Rights Act of 1964, title IX of the Education Amendments of 1972, section 504 of the Rehabilitation Act of 1973, the Age Discrimination Act of 1975, and the Department's regulations concerning nondiscrimination (7 CFR parts 15, 15a, and 15b), including requirements for racial and ethnic participation data collection, public notification of the nondiscrimination policy, and reviews to assure compliance with such policy, to the end that no person must, on the grounds of race, color, national origin, sex, age, or disability, be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under, the Program.
+(n) *Nondiscrimination.* (1) Each State agency must comply with all requirements of title VI of the Civil Rights Act of 1964, title IX of the Education Amendments of 1972, section 504 of the Rehabilitation Act of 1973, the Age Discrimination Act of 1975, and the Department's regulations concerning nondiscrimination (7 CFR parts 15, 15a, and 15b), including requirements for racial and ethnic participation data collection, public notification of the nondiscrimination policy, and reviews to assure compliance with such policy, to the end that no person must, on the grounds of race, color, national origin, sex (including gender identity and sexual orientation), age, or disability, be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under the Program.
 
 (2) Complaints of discrimination filed by applicants or participants must be referred to FNS or the Secretary of Agriculture, Washington, DC 20250. A State agency which has an established grievance or complaint handling procedure may resolve sex and disability discrimination complaints before referring a report to FNS.
 
 (o) *Sponsor site visit.* Each State agency must establish criteria that sponsors will use to determine which sites with operational problems in the prior year are required to receive a site visit during the first two weeks of program operations in accordance with § 225.15(d)(2).
 
-[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13468, Apr. 10, 1990; 64 FR 72485, Dec. 28, 1999; 64 FR 72898, Dec. 29, 1999; 71 FR 39518, July 13, 2006; 76 FR 22798, Apr. 25, 2011; 81 FR 66492, Sept. 28, 2016; 83 FR 25358, June 1, 2018; 87 FR 57360, Sept. 19, 2022]
+[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13468, Apr. 10, 1990; 64 FR 72485, Dec. 28, 1999; 64 FR 72898, Dec. 29, 1999; 71 FR 39518, July 13, 2006; 76 FR 22798, Apr. 25, 2011; 81 FR 66492, Sept. 28, 2016; 83 FR 25358, June 1, 2018; 87 FR 57360, Sept. 19, 2022; 88 FR 90352, Dec. 29, 2023]

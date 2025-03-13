@@ -2,7 +2,21 @@
 
 (a) *General responsibilities.* (1) The State agency shall provide sufficient qualified consultative, technical, and managerial personnel to administer the Program, monitor performance, and measure progress in achieving Program goals. The State agency shall assign Program responsibilities to personnel to ensure that all applicable requirements under this part are met.
 
-(2) By February 1 of each fiscal year, each State agency shall announce the purpose, eligibility criteria, and availability of the Program throughout the State, through appropriate means of communication. As part of this effort, each State agency shall identify rural areas, Indian tribal territories, and areas with a concentration of migrant farm workers which qualify for the Program and actively seek eligible applicant sponsors to serve such areas. State agencies shall identify priority outreach areas in accordance with FNS guidance and target outreach efforts in these areas. State agencies must have established criteria for approving closed enrolled sites to ensure that operation of a site as closed enrolled does not limit Program access in the area that the site is located.
+(2) By February 1 of each fiscal year, each State agency must announce the purpose, eligibility criteria, and availability of the Program throughout the State, through appropriate means of communication. As part of this effort, each State agency must:
+
+(i) Identify areas in which poor economic conditions exist to qualify for the Program and actively seek eligible applicant sponsors to serve:
+
+(A) Rural areas;
+
+(B) Indian Tribal territories; and
+
+(C) Areas with a concentration of migrant farm workers.
+
+(ii) The State agency must identify rural areas with no congregate meal service and encourage participating sponsors to provide non-congregate meals to eligible children in those areas.
+
+(iii) The State agency must target outreach efforts to priority outreach areas.
+
+(iv) For approval of closed enrolled sites, the State agency must establish criteria to ensure that operation of a closed enrolled site does not limit Program access for eligible children in the area where the site is located.
 
 (3) Each State agency shall require applicant sponsors submitting Program application site information sheets, Program agreements, or a request for advance payments, and sponsors submitting claims for reimbursement to certify that the information submitted on these forms is true and correct and that the sponsor is aware that deliberate misrepresentation or withholding of information may result in prosecution under applicable State and Federal statutes.
 
@@ -32,17 +46,23 @@
 
 (v) If two or more sponsors that qualify under paragraph (b)(5)(ii) of this section apply to serve the same area, the State agency must determine on a case-by-case basis which sponsor or sponsors it will select to serve the needy children in the area. The State agency should consider the resources and capabilities of each applicant.
 
-(6) The State agency must not approve any sponsor to operate more than 200 sites or to serve more than an average of 50,000 children per day. However, the State agency may approve exceptions if the applicant can demonstrate that it has the capability of managing a program larger than these limits.
+(6) The State agency must not approve any sponsor to operate more than 200 sites or to serve more than an average of 50,000 children per day. However, the State agency may approve exceptions if:
+
+(i) The applicant demonstrates that it has the capability of managing a program larger than the limits in this paragraph (b)(6); and
+
+(ii) The State agency has the capacity to conduct reviews of at least 10 percent of the sponsor's sites, as described in § 225.7(e)(4)(v).
 
 (7) The State agency shall review each applicant's administrative budget as a part of the application approval process in order to assess the applicant's ability to operate in compliance with these regulations within its projected reimbursement. In approving the applicant's administrative budget, the State agency shall take into consideration the number of sites and children to be served, as well as any other relevant factors. A sponsor's administrative budget shall be subject to review for adjustments by the State agency if the sponsor's level of site participation or the number of meals served to children changes significantly. State agencies may exempt school food authorities applying to operate the SFSP from submitting a separate budget to the State agency, if the school food authority submits an annual budget for the National School Lunch Program and the submitted budget includes the operation of SFSP.
 
-(8) Applicants which qualify as camps shall be approved for reimbursement only for meals served free to enrolled children who meet the Program's eligibility standards.
+(8) Applicants which qualify as camps and sponsors of conditional non-congregate sites must be approved for reimbursement only for meals served free to enrolled children who meet the Program's income standards.
 
 (9) The State agency shall not approve the application of any applicant sponsor identifiable through its organization or principals as a sponsor which has been determined to be seriously deficient as described in § 225.11(c). However, the State agency may approve the application of a sponsor which has been disapproved or terminated in prior years in accordance with this paragraph if the applicant demonstrates to the satisfaction of the State agency that it has taken appropriate corrective actions to prevent recurrence of the deficiencies.
 
 (10) If the sponsor's application to participate is denied, the official making the determination of denial must notify the applicant sponsor in writing stating all of the grounds on which the State agency based the denial. Pending the outcome of a review of a denial, the State agency shall proceed to approve other applicants in accordance with its responsibilities under paragraph (b)(5) of this section, without regard to the application under review.
 
 (11) The State agency shall not approve the application of any applicant sponsor which submits fraudulent information or documentation when applying for Program participation or which knowingly withholds information that may lead to the disapproval of its application. Complete information regarding such disapproval of an applicant shall be submitted by the State agency through FNSRO to OIG.
+
+(12) The State agency must not deny a sponsor's application based solely on the sponsor's intent to provide a non-congregate meal service.
 
 (c) *Content of sponsor application*—(i) The sponsor must submit a written application to the State agency for participation in the Program. The State agency may use the application form developed by FNS, or develop its own application form, provided that the form requests the full legal name, any previously used names, mailing address; date of birth of the sponsor's responsible principals, which include the executive director and board chair; and the sponsor's Federal Employer Identification Number (FEIN) or Unique Entity Identifier (UEI). Application to sponsor the Program must be made on a timely basis within the deadlines established under paragraph (b)(1) of this section.
 
@@ -74,9 +94,11 @@
 
 (viii) A summary of how meals will be obtained at each site (*e.g.,* self-prepared at each site, self-prepared and distributed from a central kitchen, purchased from a school food authority, competitively procured from a food service management company);
 
-(ix) If an invitation for bid is required under § 225.15(m), a schedule for bid dates and a copy of the invitation for bid; and
+(ix) If an invitation for bid is required under § 225.15(m), a schedule for bid dates and a copy of the invitation for bid;
 
-(x) For each sponsor which seeks approval as a unit of local, municipal, county or State government under § 225.14(b)(3) or as a private nonprofit organization under § 225.14(b)(5), certification that the sponsor has administrative oversight, as required under § 225.14(d)(3).
+(x) For each sponsor which seeks approval as a unit of local, municipal, county or State government under § 225.14(b)(3) or as a private nonprofit organization under § 225.14(b)(5), certification that the sponsor has administrative oversight, as required under § 225.14(d)(3); and
+
+(xi) Procedures that document meals are only distributed, to a reasonable extent, to eligible children and that duplicate meals are not distributed to any child, if the applicant sponsor is electing to use the non-congregate meal service options described in § 225.16(i)(1) and (2).
 
 (3) *Application requirements for experienced sponsors.* The following information must be included in the applications of experienced sponsors:
 
@@ -94,9 +116,11 @@
 
 (B) Information in sufficient detail to enable the State agency to assess the sponsor's ability to operate the Program within its estimated reimbursement.
 
-(vi) If the method of obtaining meals is changed, a summary of how meals will be obtained at each site (*e.g.,* self-prepared at each site, self-prepared and distributed from a central kitchen, purchased from a school food authority, competitively procured from a food service management company); and
+(vi) If the method of obtaining meals is changed, a summary of how meals will be obtained at each site (*e.g.,* self-prepared at each site, self-prepared and distributed from a central kitchen, purchased from a school food authority, competitively procured from a food service management company);
 
-(vii) If an invitation for bid is required under § 225.15(m), a schedule for bid dates, and a copy of the invitation for bid, if it is changed from the previous year.
+(vii) If an invitation for bid is required under § 225.15(m), a schedule for bid dates, and a copy of the invitation for bid, if it is changed from the previous year; and
+
+(viii) Procedures that document meals are only distributed, to a reasonable extent, to eligible children and that duplicate meals are not distributed to any child, if the applicant sponsor is electing to use the non-congregate meal service options described in § 225.16(i)(1) and (2).
 
 (4) *Applications for school food authorities and Child and Adult Care Food Program institutions.* At the discretion of the State agency, school food authorities in good standing in the National School Lunch Program or School Breakfast Program, as applicable, and institutions in good standing in the Child and Adult Care Food Program may apply to operate the Summer Food Service Program at the same sites where they provide meals through the aforementioned Programs by following the procedures for experienced sponsors outlined in paragraph (c)(3) of this section.
 
@@ -184,25 +208,25 @@
 
 (A) An assurance that all children are served the same meals and that there is no discrimination in the course of the food service; and
 
-(B) Except for camps, a statement that the meals served are free at all sites.
+(B) Except for camps and conditional non-congregate sites, a statement that the meals served are free at all sites.
 
-(ii) A school sponsor must submit the policy statement only once, with the initial application to participate as a sponsor. However, if there is a substantive change in the school's free and reduced-price policy, a revised policy statement must be provided at the State agency's request.
+(ii) A school sponsor must submit the policy statement only once, with the initial application to participate as a sponsor. However, if there is a substantive change in the school's free and reduced price policy, a revised policy statement must be provided at the State agency's request.
 
-(iii) In addition to the information described in paragraph (i) of this section, the policy statement of all camps that charge separately for meals must also include:
+(iii) In addition to the information described in paragraph (i) of this section, the policy statement of all camps and conditional non-congregate sites that charge separately for meals must also include:
 
-(A) A statement that the eligibility standards conform to the Secretary's family size and income standards for reduced-price school meals;
+(A) A statement that the eligibility standards conform to the Secretary's family size and income standards for reduced price school meals;
 
 (B) A description of the method to be used in accepting applications from families for Program meals that ensures that households are permitted to apply on behalf of children who are members of households receiving SNAP, FDPIR, or TANF benefits using the categorical eligibility procedures described in § 225.15(f);
 
-(C) A description of the method to be used by camps for collecting payments from children who pay the full price of the meal while preventing the overt identification of children receiving a free meal;
+(C) A description of the method to be used for collecting payments from children who pay the full price of the meal while preventing the overt identification of children receiving a free meal;
 
-(D) An assurance that the camp will establish hearing procedures for families requesting to appeal a denial of an application for free meals. These procedures must meet the requirements set forth in paragraph (f)(2) of this section;
+(D) An assurance that the sponsor will establish hearing procedures for families requesting to appeal a denial of an application for free meals. These procedures must meet the requirements set forth in paragraph (f)(2) of this section;
 
 (E) An assurance that, if a family requests a hearing, the child will continue to receive free meals until a decision is rendered; and
 
-(F) An assurance that there will be no overt identification of free meal recipients and no discrimination against any child on the basis of race, color, national origin, sex, age, or disability.
+(F) An assurance that there will be no overt identification of free meal recipients and no discrimination against any child on the basis of race, color, national origin, sex (including gender identity and sexual orientation), age, or disability.
 
-(2) *Hearing procedures statement.* Each camp must submit a copy of its hearing procedures with its application. At a minimum, the camp's procedures must provide that:
+(2) *Hearing procedures statement.* Each camp or sponsor of a conditional non-congregate site must submit a copy of its hearing procedures with its application. At a minimum, the procedures must provide that:
 
 (i) A simple, publicly announced method will be used for a family to make an oral or written request for a hearing;
 
@@ -230,99 +254,129 @@
 
 (g) *Site information sheet.* The State agency must develop a site information sheet for sponsors.
 
-(1) *New sites.* The application submitted by sponsors must include a site information sheet for each site where a food service operation is proposed. At a minimum, the site information sheet must demonstrate or describe the following:
+(1) *New sites.* The application submitted by sponsors must include a site information sheet for each site where a food service operation is proposed. Where a non-congregate meal service operation is proposed for the first time, the sponsor must follow the requirements of this paragraph (g)(1). At a minimum, the site information sheet must demonstrate or describe the following:
 
-(i) An organized and supervised system for serving meals to children who come to the site;
+(i) An organized and supervised system for serving meals to children;
 
 (ii) The estimated number of meals to be served, types of meals to be served, and meal service times;
 
-(iii) Whether the site is rural, as defined in § 225.2, or non-rural;
+(iii) Whether the site is rural, as defined in § 225.2, or non-rural. Documentation supporting the rural designation is required. New documentation is required every 5 years, or earlier, if the State agency determines that an area's rural status has changed significantly since the last designation;
 
-(iv) Whether the site's food service will be self-prepared or vended, as defined in § 225.2;
+(iv) Whether the meal service is congregate or non-congregate;
 
-(v) Arrangements for delivery and holding of meals until meal service times and storing and refrigerating any leftover meals until the next day, within standards prescribed by State or local health authorities;
+(v) Whether the site is a self-preparation site or a vended site, as defined in § 225.2;
 
-(vi) Access to a means of communication to make necessary adjustments in the number of meals delivered, based on changes in the number of children in attendance at each site;
+(vi) Arrangements for delivery and holding of meals until meal service times and storing and refrigerating any leftover meals until the next day, within standards prescribed by State or local health authorities;
 
-(vii) Arrangements for food service during periods of inclement weather; and
+(vii) Access to a means of communication to make necessary adjustments in the number of meals delivered, based on changes in the number of children in attendance at each site;
 
-(viii) For open sites and restricted open sites:
+(viii) Arrangements for food service during periods of inclement weather;
+
+(ix) For open sites and restricted open sites:
 
 (A) Documentation supporting the eligibility of each site as serving an area in which poor economic conditions exist;
 
-(B) When school data are used, new documentation is required every five years;
+(B) When school data are used, new documentation is required every 5 years;
 
-(C) When census data are used, new documentation is required every five years, or earlier, if the State agency believes that an area's socioeconomic status has changed significantly since the last census; and
+(C) When census data are used, new documentation is required every 5 years, or earlier, if the State agency determines that an area's socioeconomic status has changed significantly since the last census; and
 
-(D) At the discretion of the State agency, sponsors proposing to serve an area affected by an unanticipated school closure may be exempt from submitting new site documentation if the sponsor has participated in the Program at any time during the current year or in either of the prior 2 calendar years.
+(D) At the discretion of the State agency, sponsors proposing to serve an area affected by an unanticipated school closure may be exempt from submitting new site documentation if the sponsor has participated in the Program at any time during the current year or in either of the prior 2 calendar years;
 
-(ix) For closed enrolled sites:
+(x) For closed enrolled sites:
 
-(A) The projected number of children enrolled and the projected number of children eligible for free and reduced-price school meals for each of these sites; or documentation supporting the eligibility of each site as serving an area in which poor economic conditions exist;
+(A) The projected number of children enrolled and the projected number of children eligible for free and reduced price school meals for each of these sites; or documentation supporting the eligibility of each site as serving an area in which poor economic conditions exist;
 
-(B) When school data are used, new documentation is required every five years;
+(B) When school data are used, new documentation is required every 5 years; and
 
-(C) When census data are used, new documentation is required every five years, or earlier, if the State agency believes that an area's socioeconomic status has changed significantly since the last census.
+(C) When census data are used, new documentation is required every 5 years, or earlier, if the State agency determines that an area's socioeconomic status has changed significantly since the last census;
 
-(x) For NYSP sites, certification from the sponsor that all of the children who will receive Program meals are enrolled participants in the NYSP.
+(xi) For NYSP sites, certification from the sponsor that all of the children who will receive Program meals are enrolled participants in the NYSP;
 
-(xi) For camps, the number of children enrolled in each session who meet the Program's income standards. If such information is not available at the time of application, this information must be submitted as soon as possible thereafter, and in no case later than the filing of the camp's claim for reimbursement for each session;
+(xii) For camps, the number of children enrolled in each session who meet the Program's income standards. If such information is not available at the time of application, this information must be submitted as soon as possible thereafter, and in no case later than the filing of the camp's claim for reimbursement for each session;
 
-(xii) For sites that will serve children of migrant workers:
+(xiii) For sites that will serve children of migrant workers:
 
 (A) Certification from a migrant organization, which attests that the site serves children of migrant workers; and
 
-(B) Certification from the sponsor that the site primarily serves children of migrant workers, if non-migrant children are also served.
+(B) Certification from the sponsor that the site primarily serves children of migrant workers, if non-migrant children are also served; and
+
+(xiv) For conditional non-congregate sites, the number of children enrolled who meet the Program's income standards. If such information is not available at the time of application, this information must be submitted as soon as possible thereafter, and in no case later than the filing of the sponsor's claim for reimbursement.
 
 (2) *Experienced sites.* The application submitted by sponsors must include a site information sheet for each site where a food service operation is proposed. The State agency may require sponsors of experienced sites to provide information described in paragraph (g)(1) of this section. At a minimum, the site information sheet must demonstrate or describe the following:
 
-(i) The estimated number of meals, types of meals to be served, and meal service times; and
+(i) The estimated number of meals, types of meals to be served, and meal service times;
 
-(ii) For open sites and restricted open sites:
+(ii) Whether the site is rural, as defined in § 225.2, or non-rural. Documentation supporting the rural designation is required. New documentation is required every 5 years, or earlier, if the State agency determines that an area's rural status has changed significantly since the last designation;
+
+(iii) Whether the meal service is congregate or non-congregate;
+
+(iv) For open sites and restricted open sites:
 
 (A) Documentation supporting the eligibility of each site as serving an area in which poor economic conditions exist;
 
 (B) When school data are used, new documentation is required every 5 years;
 
-(C) When census data are used, new documentation is required every 5 years, or earlier, if the State agency believes that an area's socioeconomic status has changed significantly since the last census; and
+(C) When census data are used, new documentation is required every 5 years, or earlier, if the State agency determines that an area's socioeconomic status has changed significantly since the last census; and
 
-(D) Any site that a sponsor proposes to serve during an unanticipated school closure, which has participated in the Program at any time during the current year or in either of the prior 2 calendar years, is considered eligible without new documentation.
+(D) Any site that a sponsor proposes to serve during an unanticipated school closure, which has participated in the Program at any time during the current year or in either of the prior 2 calendar years, is considered eligible without new documentation;
 
-(iii) For closed enrolled sites:
+(v) For closed enrolled sites:
 
-(A) The projected number of children enrolled and the projected number of children eligible for free and reduced-price school meals for each of these sites; or documentation supporting the eligibility of each site as serving an area in which poor economic conditions exist;
+(A) The projected number of children enrolled and the projected number of children eligible for free and reduced price school meals for each of these sites; or documentation supporting the eligibility of each site as serving an area in which poor economic conditions exist;
 
-(B) When school data are used, new documentation is required every 5 years;
+(B) When school data are used, new documentation is required every 5 years; and
 
-(C) When census data are used, new documentation is required every 5 years, or earlier, if the State agency believes that an area's socioeconomic status has changed significantly since the last census.
+(C) When census data are used, new documentation is required every 5 years, or earlier, if the State agency determines that an area's socioeconomic status has changed significantly since the last census;
 
-(iv) For NYSP sites, certification from the sponsor that all of the children who will receive Program meals are enrolled participants in the NYSP.
+(vi) For NYSP sites, certification from the sponsor that all of the children who will receive Program meals are enrolled participants in the NYSP;
 
-(v) For camps, the number of children enrolled in each session who meet the Program's income standards. If such information is not available at the time of application, this information must be submitted as soon as possible thereafter, and in no case later than the filing of the camp's claim for reimbursement for each session.
+(vii) For camps, the number of children enrolled in each session who meet the Program's income standards. If such information is not available at the time of application, this information must be submitted as soon as possible thereafter, and in no case later than the filing of the camp's claim for reimbursement for each session; and
 
-(h) *Approval of sites.* (1) When evaluating a proposed food service site, the State agency shall ensure that:
+(viii) For conditional non-congregate sites, the number of children enrolled who meet the Program's income standards. If such information is not available at the time of application, this information must be submitted as soon as possible thereafter, and in no case later than the filing of the sponsor's claim for reimbursement.
 
-(i) If not a camp, the proposed site serves an area in which poor economic conditions exist, as defined by § 225.2;
+(h) *Approval of sites.* (1) When evaluating a proposed food service site, the State agency must ensure that:
+
+(i) If not a camp or a conditional non-congregate site, the proposed site serves an area in which poor economic conditions exist, as defined by § 225.2;
 
 (ii) The area which the site proposes to serve is not or will not be served in whole or in part by another site, unless it can be demonstrated to the satisfaction of the State agency that each site will serve children not served by any other site in the same area for the same meal;
 
-(iii) The site is approved to serve no more than the number of children for which its facilities are adequate and;
+(iii) The site is approved to serve no more than the number of children for which its facilities are adequate; and
 
 (iv) If it is a site proposed to operate during an unanticipated school closure, it is a non-school site.
 
-(2) When approving the application of a site which will serve meals prepared by a food service management company, the State agency shall establish for each meal service an approved level for the maximum number of children's meals which may be served under the Program. These approved levels shall be established in accordance with the following provisions:
+(2) When approving the application of a site which will serve meals prepared by a food service management company, the State agency must establish for each meal service an approved level for the maximum number of children's meals which may be served under the Program. These approved levels must be established in accordance with the following provisions:
 
-(i) The initial maximum approved level must be based upon the historical record of attendance at the site if such a record has been established in prior years and the State agency determines that it is accurate. The State agency must develop a procedure for establishing initial maximum approved levels for sites when no accurate record from prior years is available. The State agency may consider participation at other similar sites located in the area, documentation of programming taking place at the site, statistics on the number of children residing in the area, and other relevant information.
+(i) The initial maximum approved level must be based upon the historical record of the number of meals served at the site if such a record has been established in prior years and the State agency determines that it is accurate. The State agency must develop a procedure for establishing initial maximum approved levels for sites when no accurate record from prior years is available. The State agency may consider participation at other similar sites located in the area, documentation of programming taking place at the site, statistics on the number of children residing in the area, and other relevant information.
 
-(ii) The maximum approved level shall be adjusted, if warranted, based upon information collected during site reviews. If attendance at the site on the day of the review is significantly below the site's approved level, the State agency should consider making a downward adjustment in the approved level with the objective of providing only one meal per child.
+(ii) The maximum approved level must be adjusted, if warranted, based upon information collected during site reviews. If the number of meals served at the site on the day of the review is significantly below the site's approved level, the State agency should consider making a downward adjustment in the approved level with the objective of providing only one meal per child.
 
-(iii) The sponsor may seek an upward adjustment in the approved level for its sites by requesting a site review or by providing the State agency with evidence that attendance exceeds the sites' approved levels. The sponsor may request an upward adjustment at any point prior to submitting the claim for the impacted reimbursement period.
+(iii) The sponsor may seek an upward adjustment in the approved level for its sites by requesting a site review or by providing the State agency with evidence that the number of meals served exceeds the sites' approved levels. The sponsor may request an upward adjustment at any point prior to submitting the claim for the impacted reimbursement period.
 
-(iv) Whenever the State agency establishes or adjusts approved levels of meal service for a site, it shall document the action in its files, and it shall provide the sponsor with immediate written confirmation of the approved level.
+(iv) Whenever the State agency establishes or adjusts approved levels of meal service for a site, it must document the action in its files, and it shall provide the sponsor with immediate written confirmation of the approved level.
 
-(v) Upon approval of its application or any adjustment to its maximum approved levels, the sponsor shall inform the food service management company with which it contracts of the approved level for each meal service at each site served by the food service management company. This notification of any adjustments in approved levels shall take place within the time frames set forth in the contract for adjusting meal orders. Whenever the sponsor notifies the food service management company of the approved levels or any adjustments to these levels for any of its sites, the sponsor shall clearly inform the food service management company that an approved level of meal service represents the maximum number of meals which may be served at a site and is not a standing order for a specific number of meals at that site. When the number of children attending is below the site's approved level, the sponsor shall adjust meal orders with the objective of serving only one meal per child as required under § 225.15(b)(3).
+(v) Upon approval of its application or any adjustment to its maximum approved levels, the sponsor must inform the food service management company with which it contracts of the approved level for each meal service at each site served by the food service management company. This notification of any adjustments in approved levels must take place within the time frames set forth in the contract for adjusting meal orders. Whenever the sponsor notifies the food service management company of the approved levels or any adjustments to these levels for any of its sites, the sponsor must clearly inform the food service management company that an approved level of meal service represents the maximum number of meals which may be served at a site and is not a standing order for a specific number of meals at that site. When the number of children being served meals is below the site's approved level, the sponsor must adjust meal orders with the objective of serving only one meal per child as required under § 225.15(b)(3).
 
-(i) *State-Sponsor agreement.* A sponsor approved for participation in the Program must enter into a permanent written agreement with the State agency. The existence of a valid permanent agreement does not limit the State agency's ability to terminate the agreement, as provided under § 225.11(c). The State agency must terminate the sponsor's agreement whenever a sponsor's participation in the Program ends. The State agency or sponsor may terminate the agreement at its convenience for considerations unrelated to the sponsor's performance of Program responsibilities under the agreement. However, any action initiated by the State agency to terminate an agreement for its convenience requires prior consultation with FNS. All sponsors must agree in writing to:
+(3) When approving the application of a site that will provide a non-congregate meal service, the State agency must ensure that the proposed site:
+
+(i) Meets the requirements described in paragraphs (h)(1) and (2) of this section.
+
+(ii) Is rural, as defined in § 225.2.
+
+(iii) Will not serve an area where children would receive the same meal at an approved congregate meal site, unless it can be demonstrated to the satisfaction of the State agency that the site will serve a different group of children who may not be otherwise served.
+
+(iv) Serves an area in which poor economic conditions exist or is approved for reimbursement only for meals served free to enrolled children who meet the Program's income standards.
+
+(v) Distributes up to the allowable number of reimbursable meals that would be provided over a 10-calendar day period. The State agency may establish a shorter calendar day period on a case-by-case basis and without regard to sponsor type.
+
+(4) When approving the application of a site which will provide both congregate and non-congregate meal services, the State agency must ensure that:
+
+(i) The proposed site meets the requirements in paragraphs (h)(1) through (3) of this section.
+
+(ii) The proposed site will only conduct a non-congregate meal service when the site is not providing a congregate meal service.
+
+(iii) The sponsor proposes an organized and supervised system which prevents overlap between meal services and reasonably ensures children are not receiving more than the daily maximum allowance of meals as required in § 225.16(b)(3).
+
+(i) *State-sponsor agreement.* A sponsor approved for participation in the Program must enter into a permanent written agreement with the State agency. The existence of a valid permanent agreement does not limit the State agency's ability to terminate the agreement, as provided under § 225.11(c). The State agency must terminate the sponsor's agreement whenever a sponsor's participation in the Program ends. The State agency or sponsor may terminate the agreement at its convenience, upon mutual agreement, due to considerations unrelated to either party's performance of Program responsibilities under the agreement. However, any action initiated by the State agency to terminate an agreement for its convenience requires prior consultation with FNS. All sponsors must agree in writing to:
 
 (1) Operate a nonprofit food service during the period specified, as follows:
 
@@ -332,21 +386,21 @@
 
 (iii) During the period from October through April, if it serves an area affected by an unanticipated school closure due to a natural disaster, major building repairs, court orders relating to school safety or other issues, labor-management disputes, or, when approved by the State agency, a similar cause.
 
-(2) For school food authorities, offer meals which meet the requirements and provisions set forth in § 225.16 during times designated as meal service periods by the sponsor, and offer the same meals to all children;
+(2) For school food authorities, offer meals which meet the requirements and provisions set forth in § 225.16 during times designated as meal service periods by the sponsor and offer the same meals to all children.
 
-(3) For all other sponsors, serve meals which meet the requirements and provisions set forth in § 225.16 during times designated as meal service periods by the sponsor, and serve the same meals to all children;
+(3) For all other sponsors, serve meals which meet the requirements and provisions set forth in § 225.16 during times designated as meal service periods by the sponsor and serve the same meals to all children.
 
-(4) Serve meals without cost to all children, except that camps may charge for meals served to children who are not served meals under the Program;
+(4) Serve meals without cost to all children, except that camps and conditional non-congregate sites may charge for meals served to children who are not served meals under the Program.
 
-(5) Issue a free meal policy statement in accordance with § 225.6(c);
+(5) Issue a free meal policy statement in accordance with paragraph (c) of this section.
 
-(6) Meet the training requirement for its administrative and site personnel, as required under § 225.15(d)(1);
+(6) Meet the training requirement for its administrative and site personnel, as required under § 225.15(d)(1).
 
 (7) Claim reimbursement only for the types of meals specified in the agreement that are served:
 
-(i) Without charge to children at approved sites, except camps, during the approved meal service time;
+(i) Without charge to children at approved sites, except camps and conditional non-congregate sites, during the approved meal service time;
 
-(ii) Without charge to children who meet the Program's income standards in camps;
+(ii) Without charge to children who meet the Program's income standards in camps and conditional non-congregate sites;
 
 (iii) Within the approved level for the maximum number of children's meals that may be served, if a maximum approved level is required under paragraph (h)(2) of this section;
 
@@ -354,21 +408,21 @@
 
 (v) At the approved site, unless the requirements in § 225.16(g) are met.
 
-(8) Submit claims for reimbursement in accordance with procedures established by the State agency, and those stated in § 225.9;
+(8) Submit claims for reimbursement in accordance with procedures established by the State agency, and those stated in § 225.9.
 
-(9) In the storage, preparation and service of food, maintain proper sanitation and health standards in conformance with all applicable State and local laws and regulations;
+(9) In the storage, preparation and service of food, maintain proper sanitation and health standards in conformance with all applicable State and local laws and regulations.
 
-(10) Accept and use, in quantities that may be efficiently utilized in the Program, such foods as may be offered as a donation by the Department;
+(10) Accept and use, in quantities that may be efficiently utilized in the Program, such foods as may be offered as a donation by the Department.
 
-(11) Have access to facilities necessary for storing, preparing, and serving food;
+(11) Have access to facilities necessary for storing, preparing, and serving food.
 
-(12) Maintain a financial management system as prescribed by the State agency;
+(12) Maintain a financial management system as prescribed by the State agency.
 
-(13) Maintain on file documentation of site visits and reviews in accordance with § 225.15(d) (2) and (3);
+(13) Maintain on file documentation of site visits and reviews in accordance with § 225.15(d) (2) and (3).
 
-(14) Upon request, make all accounts and records pertaining to the Program available to State, Federal, or other authorized officials for audit or administrative review, at a reasonable time and place. The records shall be retained for a period of 3 years after the end of the fiscal year to which they pertain, unless audit or investigative findings have not been resolved, in which case the records shall be retained until all issues raised by the audit or investigation have been resolved;
+(14) Upon request, make all accounts and records pertaining to the Program available to State, Federal, or other authorized officials for audit or administrative review, at a reasonable time and place. The records shall be retained for a period of 3 years after the end of the fiscal year to which they pertain, unless audit or investigative findings have not been resolved, in which case the records shall be retained until all issues raised by the audit or investigation have been resolved.
 
-(15) Maintain children on site while meals are consumed. Sponsors may allow a child to take one fruit, vegetable, or grain item off-site for later consumption if the requirements in § 225.16(h) are met; and
+(15) For approved congregate meal service, maintain children on site while meals are consumed. Sponsors may allow a child to take one fruit, vegetable, or grain item off-site for later consumption if the requirements in § 225.16(h) are met.
 
 (16) Retain final financial and administrative responsibility for its program.
 
@@ -426,4 +480,4 @@
 
 (m) *Meal pattern exceptions.* The State agency shall review and act upon requests for exceptions to the meal pattern in accordance with the guidelines and limitations set forth in § 225.16.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13467, Apr. 10, 1990; ; 64 FR 72484, Dec. 28, 1999; 64 FR 72896, Dec. 29, 1999; 72 FR 10895, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13450, Feb. 28, 2013; 83 FR 25357, June 1, 2018; 84 FR 15501, Apr. 16, 2019; 87 FR 57356, Sept. 19, 2022; 88 FR 57849, Aug. 23, 2023]
+[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13467, Apr. 10, 1990; ; 64 FR 72484, Dec. 28, 1999; 64 FR 72896, Dec. 29, 1999; 72 FR 10895, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13450, Feb. 28, 2013; 83 FR 25357, June 1, 2018; 84 FR 15501, Apr. 16, 2019; 87 FR 57356, Sept. 19, 2022; 88 FR 57849, Aug. 23, 2023; 88 FR 90349, Dec. 29, 2023]

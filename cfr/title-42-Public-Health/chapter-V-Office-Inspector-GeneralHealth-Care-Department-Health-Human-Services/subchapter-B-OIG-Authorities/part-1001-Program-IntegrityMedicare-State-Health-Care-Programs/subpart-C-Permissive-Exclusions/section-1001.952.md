@@ -1516,4 +1516,4 @@ For purposes of paragraph (x) of this section, *group practice* shall have the m
 
 (kk) *ACO Beneficiary Incentive Program.* As used in section 1128B of the Act, “remuneration” does not include an incentive payment made by an ACO to an assigned beneficiary under a beneficiary incentive program established under section 1899(m) of the Act, as amended by Congress from time to time, if the incentive payment is made in accordance with the requirements found in such subsection.
 
-[57 FR 3330, Jan. 29, 1992]Editorial Note:For Federal Register citations affecting § 1001.952, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[57 FR 3330, Jan. 29, 1992]Editorial Note:For Federal Register citations affecting § 1001.952, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.Effective Date Note:At 88 FR 90126, Dec. 29, 2023, § 1001.952(h)(5)(viii), (h)(6) through (9), (cc), and (dd) were stayed, effective Dec. 29, 2023, until Jan. 1, 2032.

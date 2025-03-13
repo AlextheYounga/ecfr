@@ -1,5 +1,7 @@
 ##### § 51.51 What special terms must I know to understand leasehold surrender interest? #####
 
+Link to an amendment published at 88 FR 90118, Dec. 29, 2023.
+
 To understand leasehold surrender interest, you must refer to these definitions, applicable in the singular or the plural, whenever these terms are used in this part:
 
 *Arbitration* means binding arbitration conducted by an arbitration panel. All arbitration proceedings conducted under the authority of this subpart or subpart H of this part will utilize the following procedures unless otherwise agreed by the concessioner and the Director. One member of the arbitration panel will be selected by the concessioner, one member will be selected by the Director, and the third (neutral) member will be selected by the two party-appointed members. The neutral arbiter must be a licensed real estate appraiser. The expenses of the neutral arbiter and other associated common costs of the arbitration will be borne equally by the concessioner and the Director. The arbitration panel will adopt procedures that treat each party equally, give each party the opportunity to be heard, and give each party a fair opportunity to present its case. Adjudicative procedures are not encouraged but may be adopted by the panel if determined necessary in the circumstances of the dispute. Determinations must be made by a majority of the members of the panel and will be binding on the concessioner and the Director.

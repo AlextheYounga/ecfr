@@ -84,6 +84,8 @@ OIG means the Office of the Inspector General of the Department.
 
 *School week* means the period of time used to determine compliance with the meal requirements in § 220.8 and § 220.23. The period must be a normal school week of five consecutive days; however, to accommodate shortened weeks resulting from holidays and other scheduling needs, the period must be a minimum of three consecutive days and a maximum of seven consecutive days. Weeks in which school breakfasts are offered less than three times must be combined with either the previous or the coming week.
 
+*Seamless Summer Option* means the meal service alternative authorized by section 13(a)(8) of the Richard B. Russell National School Lunch Act, 42 U.S.C. 1761(a)(8), under which public or nonprofit school food authorities participating in the National School Lunch Program or School Breakfast Program offer meals at no cost to children during the traditional summer vacation periods and, for year-round schools, vacation periods longer than 10 school days.
+
 *Secretary* means the Secretary of Agriculture.
 
 *State* means any of the 50 States, District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and, as applicable, American Samoa and the Commonwealth of the Northern Marianas.

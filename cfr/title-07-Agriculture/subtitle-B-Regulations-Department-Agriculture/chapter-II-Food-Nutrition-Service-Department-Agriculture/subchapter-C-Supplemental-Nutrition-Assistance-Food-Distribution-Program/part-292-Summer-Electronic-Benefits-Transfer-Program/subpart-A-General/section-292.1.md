@@ -1,0 +1,5 @@
+##### § 292.1 General purpose and scope. #####
+
+(a) This part establishes the regulations under which the Secretary will administer the Summer Electronic Benefits Transfer (Summer EBT) Program. Section 13A of the Richard B. Russell National School Lunch Act authorizes the Secretary to establish a Program under which States, and Indian Tribal Organizations (ITOs) that administer the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC), electing to participate in the Summer EBT Program must, beginning in Summer 2024 and annually thereafter, issue to each eligible household Summer EBT benefits.
+
+(b) This program was established for the purpose of providing nutrition assistance during the summer months for each eligible child, to ensure continued access to food when school is not in session for the summer.

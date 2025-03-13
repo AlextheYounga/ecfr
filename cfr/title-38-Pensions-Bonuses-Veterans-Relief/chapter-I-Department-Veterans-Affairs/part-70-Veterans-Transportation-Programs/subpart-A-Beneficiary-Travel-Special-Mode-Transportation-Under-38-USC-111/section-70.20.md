@@ -1,6 +1,6 @@
 ##### § 70.20 Application. #####
 
-Link to an amendment published at 88 FR 10037, Feb. 16, 2023.
+Link to an amendment published at 88 FR 10037, Feb. 16, 2023.This amendment was delayed until Feb. 16, 2025, at 88 FR 90120, Dec. 29, 2023.
 
 (a) A claimant may apply for beneficiary travel orally or in writing but must provide VA the receipt for each expense other than for mileage.
 

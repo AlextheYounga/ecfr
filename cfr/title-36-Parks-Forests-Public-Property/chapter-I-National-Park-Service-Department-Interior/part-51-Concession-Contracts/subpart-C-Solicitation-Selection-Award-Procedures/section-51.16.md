@@ -1,5 +1,7 @@
 ##### § 51.16 How will the Director evaluate proposals and select the best one? #####
 
+Link to an amendment published at 88 FR 90118, Dec. 29, 2023.
+
 (a) The Director will apply the selection factors set forth in § 51.17 by assessing each timely proposal under each of the selection factors on the basis of a narrative explanation, discussing any subfactors when applicable. For each selection factor, the Director will assign a score that reflects the determined merits of the proposal under the applicable selection factor and in comparison to the other proposals received, if any. The first four principal selection factors will be scored from zero to five. The fifth selection factor will be scored from zero to four (with a score of one for agreeing to the minimum franchise fee contained in the prospectus). The secondary factor set forth in § 51.17(b)(1) will be scored from zero to three. Any additional secondary selection factors set forth in the prospectus will be scored as specified in the prospectus provided that the aggregate possible point score for all additional secondary selection factors may not exceed a total of three.
 
 (b) The Director will then assign a cumulative point score to each proposal based on the assigned score for each selection factor.

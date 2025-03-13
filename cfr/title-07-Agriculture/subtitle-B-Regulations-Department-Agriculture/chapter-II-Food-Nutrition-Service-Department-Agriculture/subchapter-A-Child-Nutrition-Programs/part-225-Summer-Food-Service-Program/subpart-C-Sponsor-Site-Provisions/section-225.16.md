@@ -22,17 +22,27 @@
 
 (4) *Sites which serve children of migrant families.* Food service sites that primarily serve children from migrant families may be approved to serve each day up to three meals or two meals and one snack. These sites shall serve children in areas where poor economic conditions exist as defined in § 225.2. A sponsor which operates in accordance with this part shall receive reimbursement for all meals served to children at these sites. A site which primarily serves children from migrant families shall only be approved to serve more than one meal each day if it has the administrative capability to do so; if the service period of the different meals does not coincide or overlap; and, where applicable, if it has adequate food preparation and holding facilities.
 
+(5) *Non-congregate meal service.* A sponsor of a site must have the administrative capability; the capacity to meet State and local health, safety, and sanitation requirements; and, where applicable, have adequate food preparation and holding facilities to be approved to serve non-congregate meals. Sponsors of sites that are approved to provide non-congregate meals in rural areas with no congregate meal service must:
+
+(i) Obtain prior written parental consent, if meals are to be delivered to a child's home, as described in § 225.14(d)(6).
+
+(ii) Serve meals as described in paragraph (b)(3) of this section.
+
+(iii) Comply with meal service time requirements described in paragraphs (c)(1), (4), and (5) of this section.
+
+(iv) Claim reimbursement for all eligible meals served to children at sites in areas in which poor economic conditions exist, as defined in § 225.2. At all other sites, only the non-congregate meals served to children who meet the eligibility standards for this Program may be reimbursed.
+
 (c) *Meal service times.* (1) Meal service times must be:
 
 (i) Established by sponsors for each site;
 
 (ii) Included in the sponsor's application; and
 
-(iii) Approved by the State agency.
+(iii) Approved by the State agency. Approval of meal service times must be in accordance with the State agency or sponsor's capacity to monitor the full meal service during a review.
 
-(2) Breakfast meals must be served at or close to the beginning of a child's day. Three component meals served after a lunch or supper meal service are not eligible for reimbursement as a breakfast.
+(2) Except for non-congregate meal service, breakfast meals must be served at or close to the beginning of a child's day. Three component meals served after a lunch or supper meal service are not eligible for reimbursement as a breakfast.
 
-(3) At all sites except residential camps, meal services must start at least one hour after the end of the previous meal or snack.
+(3) At all sites except residential camps and non-congregate meal service, meal services must start at least one hour after the end of the previous meal or snack.
 
 (4) Meals served outside the approved meal service time:
 
@@ -42,7 +52,7 @@
 
 (5) The State agency must approve any permanent or planned changes in meal service time.
 
-(6) If meals are not prepared on site:
+(6) If congregate meals are not prepared on site:
 
 (i) Meal deliveries must arrive before the approved meal service time; and
 
@@ -70,7 +80,7 @@
 
 (3) Enriched macaroni with fortified protein may be used to meet part but not all of the meat/meat alternate requirement. The Department will provide guidance to State agencies on the part of the meat/meat alternate requirement which these foods may be used to meet. If enriched macaroni with fortified protein is served as a meat alternate it shall not be counted toward the bread requirement.
 
-(4) If the sponsor believes that the recommended portion size of any meat or meat alternate is too large to be appealing to children, the sponsor may reduce the portion size of that meat or meat alternate and supplement it with another meat or meat alternate to meet the full requirement.
+(4) If the sponsor determines that the recommended portion size of any meat or meat alternate is too large to be appealing to children, the sponsor may reduce the portion size of that meat or meat alternate and supplement it with another meat or meat alternate to meet the full requirement.
 
 (5) Nuts and seeds and their butters listed in program guidance are nutritionally comparable to meat or other meat alternates based on available nutritional data. Acorns, chestnuts, and coconuts shall not be used as meat alternates due to their low protein content. Nut and seed meals or flours shall not be used as a meat alternate except as defined in this section under paragraph (e)(3) and in this part under Appendix A: Alternate Foods for Meals. As noted in paragraph (d)(2) of this section, nuts or seeds may be used to meet no more than one-half of the meat/meat alternate requirement for lunch or supper. Therefore, nuts or seeds must be combined with another meat/meat alternate to fulfill the requirement. For the supplemental food pattern, nuts or seeds may be used to fulfill all of the meat/meat alternate requirement.
 
@@ -110,6 +120,24 @@
 
 (2) The State agency may determine that meals served away from the approved site location are not reimbursable if the sponsor did not provide notification in advance of the meal service. The State agency may establish guidelines for the amount of advance notice needed.
 
-(h) *Off-site consumption of food items.* Sponsors may allow a child to take one fruit, vegetable, or grain item off-site for later consumption without prior State agency approval provided that all applicable State and local health, safety, and sanitation standards will be met. Sponsors should only allow an item to be taken off-site if the site has adequate staffing to properly administer and monitor the site. A State agency may prohibit individual sponsors on a case-by-case basis from using this option if the State agency determines that the sponsor's ability to provide adequate oversight is in question. The State agency's decision to prohibit a sponsor from utilizing this option is not an appealable action.
+(h) *Off-site consumption of food items.* For congregate meal services, sponsors may allow a child to take one fruit, vegetable, or grain item off-site for later consumption without prior State agency approval provided that all applicable State and local health, safety, and sanitation standards will be met. Sponsors should only allow an item to be taken off-site if the site has adequate staffing to properly administer and monitor the site. A State agency may prohibit individual sponsors on a case-by-case basis from using this option if the State agency determines that the sponsor's ability to provide adequate oversight is in question. The State agency's decision to prohibit a sponsor from utilizing this option is not an appealable action.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 54 FR 27153, June 28, 1989; Amdt. 2, 55 FR 1377, Jan. 14, 1990; 55 FR 13470, Apr. 10, 1990; 61 FR 37672, July 19, 1996; 62 FR 10191, Mar. 6, 1997; 64 FR 72487, Dec. 28, 1999; 64 FR 72487, Dec. 28, 1999; 65 FR 12437, Mar. 9, 2000; 65 FR 82251, Dec. 28, 2000; 87 FR 57365, Sept. 19, 2022; 87 FR 79213, Dec. 27, 2022]
+(i) *Non-congregate meal service options.* The options described in this paragraph (i) are available to all types of sponsors in good standing, as defined in § 225.2, that are approved to operate non-congregate meal service sites. The State agency may limit the use of these options on a case-by-case basis, if it determines that a sponsor does not have the capability to operate or oversee non-congregate meal services at their sites. The State agency may not limit the use of options to only certain types of sponsors. The State agency's decision to prohibit a sponsor from using the options described in this paragraph (i) is not an appealable action. Sponsors in good standing may elect to use any of the following options:
+
+(1) *Multi-day meal issuance.* Approved sponsors may distribute up to the allowable number of reimbursable meals that would be provided over a 10-calendar day period. The State agency may establish a shorter time period, on a case-by-case basis. Sponsors electing this option must have documented procedures, submitted with their application, in place to ensure that the proper number of meals are distributed to each eligible child.
+
+(2) *Parent or guardian pick-up of meals.* Approved sponsors may distribute meals to parents or guardians to take home to their children. Sponsors electing this option must have documented procedures, submitted with their application, in place to ensure that meals are only distributed to parents or guardians of eligible children and that duplicate meals are not distributed to any child.
+
+(3) *Bulk meal components.* Approved self-preparation sponsors may provide bulk food items that meet the minimum amounts of each food component of a reimbursable meal breakfast, lunch, supper, or snack, as described in paragraph (d) of this section. Sponsors electing this option must ensure that:
+
+(i) Required food components for each reimbursable meal are served, as described in paragraph (d) of this section.
+
+(ii) All food items that contribute to a reimbursable meal are clearly identifiable.
+
+(ii) Menus are provided and clearly indicate the food items and portion sizes for each reimbursable meal.
+
+(iv) Food preparation, such as heating or warming, is minimal. Sponsors may offer food items that require further preparation only with State agency and FNSRO approval.
+
+(v) The maximum number of reimbursable meals provided to a child does not exceed the number of meals that could be provided over a 5-calendar day period. The State agency may establish a shorter or longer time period, which may not exceed the time period for which the sponsor is approved for multi-day meal issuance, on a case-by-case basis.
+
+[54 FR 18208, Apr. 27, 1989, as amended at 54 FR 27153, June 28, 1989; Amdt. 2, 55 FR 1377, Jan. 14, 1990; 55 FR 13470, Apr. 10, 1990; 61 FR 37672, July 19, 1996; 62 FR 10191, Mar. 6, 1997; 64 FR 72487, Dec. 28, 1999; 64 FR 72487, Dec. 28, 1999; 65 FR 12437, Mar. 9, 2000; 65 FR 82251, Dec. 28, 2000; 87 FR 57365, Sept. 19, 2022; 87 FR 79213, Dec. 27, 2022; 88 FR 90354, Dec. 29, 2023]

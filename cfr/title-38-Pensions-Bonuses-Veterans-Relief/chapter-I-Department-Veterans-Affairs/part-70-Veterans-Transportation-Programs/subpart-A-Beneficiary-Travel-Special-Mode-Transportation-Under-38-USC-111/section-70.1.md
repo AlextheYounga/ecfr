@@ -1,6 +1,6 @@
 ##### § 70.1 Purpose and scope. #####
 
-Link to an amendment published at 88 FR 10037, Feb. 16, 2023.
+Link to an amendment published at 88 FR 10037, Feb. 16, 2023.This amendment was delayed until Feb. 16, 2025, at 88 FR 90120, Dec. 29, 2023.
 
 (a) This part provides a mechanism under 38 U.S.C. 111 for the Veterans Health Administration (VHA) to make payments for travel expenses incurred in the United States to help veterans and other persons obtain care or services from VHA.
 

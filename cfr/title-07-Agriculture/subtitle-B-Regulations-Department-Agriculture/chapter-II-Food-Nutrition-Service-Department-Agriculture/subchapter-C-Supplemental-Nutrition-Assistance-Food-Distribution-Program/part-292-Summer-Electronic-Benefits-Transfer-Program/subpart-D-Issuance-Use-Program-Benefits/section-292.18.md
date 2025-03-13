@@ -1,0 +1,3 @@
+##### § 292.18 Requirements specific to States that administer Nutrition Assistance Program (NAP) programs. #####
+
+Summer EBT benefits issued by a Territory that administers the Nutrition Assistance Program in lieu of SNAP may only be used by the eligible household that receives such summer benefits to purchase eligible foods from retail food stores that have been approved for participation in the Nutrition Assistance Program in American Samoa, the Commonwealth of Puerto Rico, and the Commonwealth of the Northern Mariana Islands. States that administer NAP shall establish issuance and accountability systems which ensure that only certified eligible households receive Summer EBT benefits.

@@ -1,7 +1,5 @@
 ##### § 209.4 Amounts and payments for subscriptions and cancellations; timing and rate of dividends. #####
 
-Link to an amendment published at 88 FR 83318, Nov. 29, 2023.
-
 (a) *Amount of subscription.* The total subscription of a member bank (other than a mutual savings bank) shall equal six percent of its capital and surplus as shown on its most recent Call Report. After a member bank files a Call Report, the appropriate Reserve Bank will adjust the member bank's Reserve Bank capital stock subscription to equal six percent of the member bank's capital and surplus.
 
 (b) *Mutual savings banks.* The total subscription of a member bank that is a mutual savings bank shall equal six-tenths of 1 percent of its total deposit liabilities as shown on its most recent Call Report. After a member bank that is a mutual savings bank files a Call Report, the appropriate Reserve Bank will adjust the member bank's Reserve Bank capital stock subscription to equal six-tenths of 1 percent of the member bank's total deposit liabilities. If a mutual savings bank has a deposit with the appropriate Reserve Bank in lieu of Reserve Bank capital stock, its deposit obligation shall be adjusted in a like manner.
@@ -12,9 +10,9 @@ Link to an amendment published at 88 FR 83318, Nov. 29, 2023.
 
 (ii) Accrued dividends equal to the paid-in subscription amount in paragraph (c)(1)(i) of this section multiplied by—
 
-(A) In the case of a bank with total consolidated assets of more than $12,124,000,000, an annual rate equal to the lesser of the high yield of the 10-year Treasury note auctioned at the last auction held prior to the date of the last dividend payment and 6 percent, adjusted to reflect the period from the last dividend payment date to the subscription date according to the dividend proration basis.
+(A) In the case of a bank with total consolidated assets of more than $12,517,000,000, an annual rate equal to the lesser of the high yield of the 10-year Treasury note auctioned at the last auction held prior to the date of the last dividend payment and 6 percent, adjusted to reflect the period from the last dividend payment date to the subscription date according to the dividend proration basis.
 
-(B) In the case of a bank with total consolidated assets of $12,124,000,000 or less, 6 percent, adjusted to reflect the period from the last dividend payment date to the subscription date according to the dividend proration basis.
+(B) In the case of a bank with total consolidated assets of $12,517,000,000 or less, 6 percent, adjusted to reflect the period from the last dividend payment date to the subscription date according to the dividend proration basis.
 
 (2) A Reserve Bank shall obtain settlement for the payment described in paragraph (c)(1) of this section by debit to an account on the Reserve Bank's books or other form of settlement to which the Reserve Bank agrees.
 
@@ -32,9 +30,9 @@ Link to an amendment published at 88 FR 83318, Nov. 29, 2023.
 
 (ii) Pay accrued dividends equal to the paid-in subscription of the canceled stock in paragraph (d)(1)(i) of this section multiplied by—
 
-(A) In the case of a bank with total consolidated assets of more than $12,124,000,000, an annual rate equal to the lesser of the high yield of the 10-year Treasury note auctioned at the last auction held prior to the date of cancellation and 6 percent, adjusted to reflect the period from the last dividend payment date to the cancellation date according to the dividend proration basis; or
+(A) In the case of a bank with total consolidated assets of more than $12,517,000,000, an annual rate equal to the lesser of the high yield of the 10-year Treasury note auctioned at the last auction held prior to the date of cancellation and 6 percent, adjusted to reflect the period from the last dividend payment date to the cancellation date according to the dividend proration basis; or
 
-(B) In the case of a bank with total consolidated assets of $12,124,000,000 or less, 6 percent, adjusted to reflect the period from the last dividend payment date to the cancellation date according to the dividend proration basis.
+(B) In the case of a bank with total consolidated assets of $12,517,000,000 or less, 6 percent, adjusted to reflect the period from the last dividend payment date to the cancellation date according to the dividend proration basis.
 
 (2) The sum of the payments under paragraph (d)(1) of this section cannot exceed the book value of the stock.5
 
@@ -44,9 +42,9 @@ Link to an amendment published at 88 FR 83318, Nov. 29, 2023.
 
 (e) *Dividend.* (1) After all necessary expenses of a Reserve Bank have been paid or provided for, the stockholders of a Reserve Bank shall be entitled to receive a dividend on paid-in capital stock of—
 
-(i) in the case of a bank with total consolidated assets of more than $12,124,000,000, the lesser of the annual rate equal to the high yield of the 10-year Treasury note auctioned at the last auction held prior to the payment of such dividend and an annual rate of 6 percent, or
+(i) in the case of a bank with total consolidated assets of more than $12,517,000,000, the lesser of the annual rate equal to the high yield of the 10-year Treasury note auctioned at the last auction held prior to the payment of such dividend and an annual rate of 6 percent, or
 
-(ii) in the case of a bank with total consolidated assets of $12,124,000,000 or less, an annual rate of 6 percent.
+(ii) in the case of a bank with total consolidated assets of $12,517,000,000 or less, an annual rate of 6 percent.
 
 (2) The dividend pursuant to paragraph (e)(1) of this section will be adjusted to reflect the period from the last dividend payment date to the current dividend payment date according to the dividend proration basis.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 88 FR 83318, Nov. 29, 2023.
 
 (f) *Annual adjustment to total consolidated* assets. The dollar amounts for total consolidated assets specified in paragraphs (c), (d), and (e) of this section and §§ 209.2 and 209.3 shall be adjusted annually to reflect the change in the Gross Domestic Product Price Index, published by the Bureau of Economic Analysis.
 
-[63 FR 37663, July 13, 1998, as amended by Reg. I, 81 FR 9088, Feb. 24, 2016; 82 FR 11502, Feb. 24, 2017; 82 FR 52174, Nov. 13, 2017; 83 FR 58467, Nov. 20, 2018; 84 FR 68326, Dec. 16, 2019; 85 FR 79390, Dec. 10, 2020; 86 FR 69579, Dec. 8, 2021; 87 FR 2030, Jan. 13, 2022; 87 FR 73635, Dec. 1, 2022]
+[63 FR 37663, July 13, 1998, as amended by Reg. I, 81 FR 9088, Feb. 24, 2016; 82 FR 11502, Feb. 24, 2017; 82 FR 52174, Nov. 13, 2017; 83 FR 58467, Nov. 20, 2018; 84 FR 68326, Dec. 16, 2019; 85 FR 79390, Dec. 10, 2020; 86 FR 69579, Dec. 8, 2021; 87 FR 2030, Jan. 13, 2022; 87 FR 73635, Dec. 1, 2022; 88 FR 83318, Nov. 29, 2023]

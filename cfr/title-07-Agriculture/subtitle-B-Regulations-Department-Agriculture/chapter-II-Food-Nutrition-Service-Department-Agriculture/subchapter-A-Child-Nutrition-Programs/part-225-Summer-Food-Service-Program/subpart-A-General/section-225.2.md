@@ -22,11 +22,19 @@
 
 *Camps* means residential summer camps and nonresidential day camps which offer a regularly scheduled food service as part of an organized program for enrolled children. Nonresidential camp sites shall offer a continuous schedule of organized cultural or recreational programs for enrolled children between meal services.
 
-*Children* means (a) persons 18 years of age and under, and (b) persons over 18 years of age who are determined by a State educational agency or a local public educational agency of a State to be mentally or physically handicapped and who participate in a public or nonprofit private school program established for the mentally or physically handicapped.
+*Children* means:
+
+(1) Persons 18 years of age and under; and
+
+(2) Persons over 18 years of age who are determined by a State educational agency or a local public educational agency of a State to be mentally or physically disabled and who participate in a public or nonprofit private school program established for the mentally or physically disabled.
 
 *Children's Health Insurance Program (CHIP)* means the State medical assistance program under title XXI of the Social Security Act (42 U.S.C. 1397aa *et seq.*).
 
 *Closed enrolled site* means a site which is open only to enrolled children, as opposed to the community at large, and in which at least 50 percent of the enrolled children at the site are eligible for free or reduced-price school meals under the National School Lunch Program and the School Breakfast Program, as determined by approval of applications in accordance with § 225.15(f), or on the basis of documentation that the site meets paragraph (1), (2), or (3) of the definition of “Areas in which poor economic conditions exist” as provided in this section.
+
+*Conditional non-congregate site* means a site which qualifies for Program participation because it conducts a non-congregate meal service for eligible children in an area that does not meet the definition of “areas in which poor economic conditions exist” and is not a “Camp,” as defined in this section.
+
+*Congregate meal service* means a food service at which meals that are provided to children are consumed on site in a supervised setting.
 
 *Continuous school calendar* means a situation in which all or part of the student body of a school is (a) on a vacation for periods of 15 continuous school days or more during the period October through April and (b) in attendance at regularly scheduled classes during most of the period May through September.
 
@@ -76,6 +84,8 @@
 
 *Foster child* means a child who is formally placed by a court or a State child welfare agency, as defined in § 245.2 of this chapter.
 
+*Good standing* means the status of a program operator that meets its Program responsibilities, is current with its financial obligations, and, if applicable, has fully implemented all corrective actions within the required period of time.
+
 *Household* means “family,” as defined in this section.
 
 *Income accruing to the program* means all funds used by a sponsor in its food service program, including but not limited to all monies, other than program payments, received from Federal, State and local governments, from food sales to adults, and from any other source including cash donations or grants. Income accruing to the Program will be deducted from combined operating and administrative costs.
@@ -92,9 +102,11 @@
 
 *Net cash resources* means all monies, as determined in accordance with the State agency's established accounting system that are available to or have accrued to a sponsor's nonprofit food service at any given time, less cash payable. Such monies may include, but are not limited to, cash on hand, cash receivable, earnings on investments, cash on deposit and the value of stocks, bonds, or other negotiable securities.
 
-*New site* means a site which did not participate in the Program in the prior year, or, as determined by the State agency, a site which has experienced significant staff turnover from the prior year.
+*New site* means a site which did not participate in the Program in the prior year, an experienced site that is proposing to operate a non-congregate meal service for the first time, or, as determined by the State agency, a site which has experienced significant staff turnover from the prior year.
 
 *New sponsor* means a sponsor which did not participate in the Program in the prior year, or, as determined by the State agency, a sponsor which has experienced significant staff turnover from the prior year.
+
+*Non-congregate meal service* means a food service at which meals are provided for children to consume all of the components off site. Non-congregate meal service must only be operated at sites designated as “Rural” with no “Congregate meal service,” as determined in § 225.6(h)(3) and (4).
 
 *Nonprofit food service* means all food service operations conducted by the sponsor principally for the benefit of children, all of the revenue from which is used solely for the operation or improvement of such food services.
 
@@ -108,11 +120,33 @@
 
 *Open site* means a site at which meals are made available to all children in the area and which is located in an area in which at least 50 percent of the children are from households that would be eligible for free or reduced price school meals under the National School Lunch Program and the School Breakfast Program, as determined in accordance with paragraph (1), (2), or (3) of the definition of “Areas in which poor economic conditions exist.”
 
-*Operating costs* means the cost of operating a food service under the Program,
+*Operating costs* means the cost of operating a food service under the Program:
 
-(a) Including the (1) cost of obtaining food, (2) labor directly involved in the preparation and service of food, (3) cost of nonfood supplies, (4) rental and use allowances for equipment and space, and (5) cost of transporting children in rural areas to feeding sites in rural areas, but
+(1) Including the:
 
-(b) Excluding (1) the cost of the purchase of land, acquisition or construction of buildings, (2) alteration of existing buildings, (3) interest costs, (4) the value of in-kind donations, and (5) administrative costs.
+(i) Cost of obtaining food;
+
+(ii) Labor directly involved in the preparation and service of food;
+
+(iii) Cost of nonfood supplies;
+
+(iv) Rental and use allowances for equipment and space; and
+
+(v) Cost of transporting children in rural areas to feeding sites in rural areas;
+
+(vi) Cost of delivering non-congregate meals in rural areas; but
+
+(2) Excluding:
+
+(i) The cost of the purchase of land, acquisition or construction of buildings;
+
+(ii) Alteration of existing buildings;
+
+(iii) Interest costs;
+
+(iv) The value of in-kind donations; and
+
+(v) Administrative costs.
 
 *Private nonprofit* means tax exempt under section 501(a) of the Internal Revenue Code of 1986, as amended.
 
@@ -136,7 +170,21 @@
 
 *Restricted open site* means a site which is initially open to broad community participation, but at which the sponsor restricts or limits attendance for reasons of security, safety or control. Site eligibility for a restricted open site shall be documented in accordance with paragraph (1), (2), or (3) of the definition of “Areas in which poor economic conditions exist.”
 
-*Rural* means (a) any area in a county which is not a part of a Metropolitan Statistical Area or (b) any “pocket” within a Metropolitan Statistical Area which, at the option of the State agency and with FNSRO concurrence, is determined to be geographically isolated from urban areas.
+*Rural* means:
+
+(1) Any area in a county which is not a part of a Metropolitan Statistical Area based on the Office of Management and Budget's Delineations of Metropolitan Statistical Areas;
+
+(2) Any area in a county classified as a non-metropolitan area based on USDA Economic Research Service's Rural-Urban Continuum Codes and Urban Influence Codes;
+
+(3) Any census tract classified as a non-metropolitan area based on USDA Economic Research Service's Rural-Urban Commuting Area codes;
+
+(4) Any area of a Metropolitan Statistical Area which is not part of a Census Bureau-defined urban area;
+
+(5) Any area of a State which is not part of an urban area as determined by the Secretary;
+
+(6) Any subsequent substitution or update of the aforementioned classification schemes that Federal governing bodies create; or
+
+(7) Any “pocket” within a Metropolitan Statistical Area which, at the option of the State agency and with FNSRO approval, is determined to be rural in character based on other data sources.
 
 *School food authority* means the governing body which is responsible for the administration of one or more schools and which has the legal authority to operate a lunch program in those schools. In addition, for the purpose of determining the applicability of food service management company registration and bid procedure requirements, “school food authority” also means any college or university which participates in the Program.
 
@@ -148,9 +196,9 @@
 
 *Session* means a specified period of time during which an enrolled group of children attend camp.
 
-*Site* means a physical location at which a sponsor provides a food service for children and at which children consume meals in a supervised setting.
+*Site* means the place where a child receives a program meal. A site may be the indoor or outdoor location where congregate meals are served, a stop on a delivery route of a mobile congregate meal service, or the distribution location or route for a non-congregate meal service. However, a child's residence is not considered a non-congregate meal site for Program monitoring purposes.
 
-*Site supervisor* means the individual on site for the duration of the meal service, who has been trained by the sponsor, and is responsible for all administrative and management activities at the site, including, but not limited to: maintaining documentation of meal deliveries, ensuring that all meals served are safe, and maintaining accurate point of service meal counts.
+*Site supervisor* means the individual who has been trained by the sponsor and is responsible for all administrative and management activities at the site, including, but not limited to: maintaining documentation of meal deliveries, ensuring that all meals served are safe, and maintaining accurate point of service meal counts. Except for non-congregate meal service sites using delivery services, the individual is on site for the duration of the food service.
 
 *SNAP household* means any individual or group of individuals which is currently certified to receive assistance as a household from SNAP, the Supplemental Nutrition Assistance Program, as defined in § 245.2 of this chapter.
 
@@ -194,4 +242,4 @@
 
 *Yogurt* means commercially prepared coagulated milk products obtained by the fermentation of specific bacteria, that meet milk fat or milk solid requirements and to which flavoring foods or ingredients may be added. These products are covered by the Food and Drug Administration's Standard of Identity for yogurt, lowfat yogurt, and nonfat yogurt, (21 CFR 131.200), (21 CFR 131.203), (21 CFR 131.206), respectively.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 54 FR 27153, June 28, 1989; 55 FR 13466, Apr. 10, 1990; 61 FR 25553, May 22, 1996; 64 FR 72483, Dec. 28, 1999; 64 FR 72895, Dec. 29, 1999; 66 FR 2202, Jan. 11, 2001; 71 FR 39518, July 13, 2006; 72 FR 10895, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13449, Feb. 28, 2013; 81 FR 66492, Sept. 28, 2016; 83 FR 25357, June 1, 2018; 87 FR 57355, Sept. 19, 2022; 87 FR 79213, Dec. 27, 2022; 88 FR 57849, Aug. 23, 2023]
+[54 FR 18208, Apr. 27, 1989, as amended at 54 FR 27153, June 28, 1989; 55 FR 13466, Apr. 10, 1990; 61 FR 25553, May 22, 1996; 64 FR 72483, Dec. 28, 1999; 64 FR 72895, Dec. 29, 1999; 66 FR 2202, Jan. 11, 2001; 71 FR 39518, July 13, 2006; 72 FR 10895, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13449, Feb. 28, 2013; 81 FR 66492, Sept. 28, 2016; 83 FR 25357, June 1, 2018; 87 FR 57355, Sept. 19, 2022; 87 FR 79213, Dec. 27, 2022; 88 FR 57849, Aug. 23, 2023; 88 FR 90347, Dec. 29, 2023]

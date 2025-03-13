@@ -22,8 +22,10 @@
 
 (ii) The hours and type(s) of approved meal service at each site;
 
-(iii) The type of site approval—open, restricted open, closed enrolled, or camp; and
+(iii) The type of site approval—open, restricted open, closed enrolled, conditional non-congregate, or camp; and
 
-(iv) Any other important details about each site that would help the FNSRO plan reviews, including whether the site is rural or urban, or vended or self-preparation.
+(iv) Any other important details about each site that would help the FNSRO plan reviews, including whether the site is rural or urban, congregate or non-congregate, or vended or self-preparation.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13469, Apr. 10, 1990; 64 FR 72485, Dec. 28, 1999; 65 FR 82251, Dec. 28, 2000; 81 FR 66492, Sept. 28, 2016]
+(e) By June 30 of each year, or a later date approved by the appropriate FNSRO, the State agency must submit to FNS a list of open site locations and their operational details and provide a minimum of two updates during the summer operational period. State agencies are encouraged to submit updates weekly if there are any changes to their data.
+
+[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13469, Apr. 10, 1990; 64 FR 72485, Dec. 28, 1999; 65 FR 82251, Dec. 28, 2000; 81 FR 66492, Sept. 28, 2016; 88 FR 90353, Dec. 29, 2023]

@@ -26,7 +26,7 @@
 
 (2) Has not been seriously deficient in operating the Program;
 
-(3) Will conduct a regularly scheduled food service for children from areas in which poor economic conditions exist, or qualifies as a camp;
+(3) Will conduct a regularly scheduled food service for children from areas in which poor economic conditions exist, or qualifies as a camp or a conditional non-congregate site;
 
 (4) Has adequate supervisory and operational personnel for overall monitoring and management of each site, including a site supervisor, and adequate personnel to conduct the visits and reviews required in § 225.15(d)(2) and (3), as demonstrated in the management plan submitted with the program application described under § 225.6(e);
 
@@ -46,17 +46,9 @@
 
 (ii) Exercising management control over Program operations at sites throughout the period of Program participation by performing the functions specified in § 225.15.
 
-(4) If the sponsor administers homeless feeding sites, it must:
+(4) If the sponsor administers NYSP sites, it must ensure that all children at these sites are enrolled participants in the NYSP.
 
-(i) Document that the site is not a residential child-care institution as defined in paragraph (c) of the definition of 'School' contained in § 210.2 of this chapter;
-
-(ii) Document that the primary purpose of the homeless feeding site is to provide shelter and meals to homeless families; and
-
-(iii) Certify that these sites employ meal counting methods to ensure that reimbursement is claimed only for meals served to homeless and non-homeless children.
-
-(5) If the sponsor administers NYSP sites, it must ensure that all children at these sites are enrolled participants in the NYSP.
-
-(6) If the sponsor is a private nonprofit organization, it must certify that it:
+(5) If the sponsor is a private nonprofit organization, it must certify that it:
 
 (i) Exercises full control and authority over the operation of the Program at all sites under the sponsorship of the organization;
 
@@ -68,4 +60,10 @@
 
 (v) Meets applicable State and local health, safety, and sanitation standards.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13469, Apr. 10, 1990; 64 FR 72486, Dec. 28, 1999; 64 FR 72898, Dec. 29, 1999; 65 FR 50128, Aug. 17, 2000; 78 FR 13450, Feb. 28, 2013; 83 FR 25360, June 1, 2018; 87 FR 57364, Sept. 19, 2022]
+(6) If the sponsor operates a non-congregate meal service that will deliver meals directly to a child's residence, it must obtain written parental consent prior to providing meals to children in that household.
+
+(7) If the sponsor operates a conditional non-congregate site, it must certify that it will collect information to determine children's Program eligibility to support its claim for reimbursement.
+
+(8) If the sponsor is not a school food authority, it must enter into a written agreement or Memorandum of Understanding (MOU) with the State agency or school food authority if it chooses to receive school data for the purposes of identifying eligible children and determining children's Program eligibility, as required under § 225.15(k).
+
+[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13469, Apr. 10, 1990; 64 FR 72486, Dec. 28, 1999; 64 FR 72898, Dec. 29, 1999; 65 FR 50128, Aug. 17, 2000; 78 FR 13450, Feb. 28, 2013; 83 FR 25360, June 1, 2018; 87 FR 57364, Sept. 19, 2022; 88 FR 90353, Dec. 29, 2023]

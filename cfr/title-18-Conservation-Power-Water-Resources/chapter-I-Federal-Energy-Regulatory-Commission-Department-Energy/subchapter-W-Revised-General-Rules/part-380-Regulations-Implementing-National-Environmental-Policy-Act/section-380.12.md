@@ -1,7 +1,5 @@
 ##### § 380.12 Environmental reports for Natural Gas Act applications. #####
 
-Link to an amendment published at 88 FR 74042, Oct. 30, 2023.
-
 (a) *Introduction.* (1) The applicant must submit an environmental report with any application that proposes the construction, operation, or abandonment of any facility identified in § 380.3(c)(2)(i). The environmental report shall consist of the thirteen resource reports and related material described in this section.
 
 (2) The detail of each resource report must be commensurate with the complexity of the proposal and its potential for environmental impact. Each topic in each resource report shall be addressed or its omission justified, unless the resource report description indicates that the data is not required for that type of proposal. If material required for one resource report is provided in another resource report or in another exhibit, it may be incorporated by reference. If any resource report topic is required for a particular project but is not provided at the time the application is filed, the environmental report shall explain why it is missing and when the applicant anticipates it will be filed.
@@ -174,9 +172,7 @@ Link to an amendment published at 88 FR 74042, Oct. 30, 2023.
 
 (4) Specify methods to be used to prevent project-induced contamination from surface mines or from mine tailings along the right-of-way and whether the project would hinder mine reclamation or expansion efforts.
 
-(5) If the application involves an LNG facility located in zones 2, 3, or 4 of the Uniform Building Code's Seismic Risk Map, or where there is potential for surface faulting or liquefaction, prepare a report on earthquake hazards and engineering in conformance with “*Data Requirements for the Seismic Review of LNG Facilities,*” NBSIR 84-2833. This document may be obtained from the Commission staff.
-
-(6) If the application is for underground storage facilities:
+(5) If the application is for underground storage facilities:
 
 (i) Describe how the applicant would control and monitor the drilling activity of others within the field and buffer zone;
 
@@ -330,12 +326,190 @@ Link to an amendment published at 88 FR 74042, Oct. 30, 2023.
 
 (11) Provide engineering information on the plant's electrical power generation system, distribution system, emergency power system, uninterruptible power system, and battery backup system.
 
-(12) Identify all codes and standards under which the plant (and marine terminal, if applicable) will be designed, and any special considerations or safety provisions that were applied to the design of plant components.
+(12) Identify all codes and standards under which the plant (and marine terminal, if applicable) will be sited, designed, constructed, tested, monitored, operated, and maintained, and any special considerations or safety provisions that were applied to the design of plant components.
 
 (13) Provide a list of all permits or approvals from local, state, Federal, or Native American groups or Indian agencies required prior to and during construction of the plant, and the status of each, including the date filed, the date issued, and any known obstacles to approval. Include a description of data records required for submission to such agencies and transcripts of any public hearings by such agencies. Also provide copies of any correspondence relating to the actions by all, or any, of these agencies regarding all required approvals.
 
-(14) Identify how each applicable requirement will comply with 49 CFR part 193 and the National Fire Protection Association 59A LNG Standards. For new facilities, the siting requirements of 49 CFR part 193, subpart B, must be given special attention. If applicable, vapor dispersion calculations from LNG spills over water should also be presented to ensure compliance with the U.S. Coast Guard's LNG regulations in 33 CFR part 127.
+(14) Identify all Federal, state, and local regulations and requirements that apply to the siting, design, construction, testing, monitoring, operation, and maintenance of the proposed project and explain how the proposed project will comply with the applicable Federal regulations, including codes and standards incorporated by reference into Federal regulations.
 
-(15) Provide seismic information specified in Data Requirements for the Seismic Review of LNG facilities (NBSIR 84-2833, available from FERC staff) for facilities that would be located in zone 2, 3, or 4 of the Uniform Building Code Seismic Map of the United States.
+(15) Provide information to demonstrate that the proposed facilities will be sited, designed, constructed, and operated to maintain reliability and will not significantly impact public safety given geotechnical conditions and the occurrence of a natural hazard identified in paragraphs (o)(15)(i) through (iii) of this section. Site information must provide geotechnical studies and natural hazard studies based on the site location, which must provide impacts and magnitude of historical events and projected impacts and magnitude of events based on projected prescriptive/deterministic events and projected probabilistic events corresponding to mean recurrence intervals. Design information must provide the basis of design supported by site information, including design parameters and criteria and preliminary resultant design loads used in the geotechnical and structural design of LNG facilities. Construction and operation information must also include discussion of quality assurance and quality control plans, monitoring programs, and action programs developed in preparation of and response to geotechnical and natural hazards. All information provided must, at a minimum, demonstrate compliance with all applicable Federal requirements and applicable codes and standards, and identify any applicable state and local requirements for the siting, design, construction, testing, monitoring, operation, and maintenance used to safeguard against significant impacts caused by geotechnical conditions and natural hazards.
 
-[Order 603, 64 FR 26611, May 14, 1999, as amended by Order 603-A, 64 FR 54537, Oct. 7, 1999; Order 609, 64 FR 57392, Oct. 25, 1999; Order 699, 72 FR 45328, Aug. 14, 2007; Order 756, 77 FR 4895, Feb. 1, 2012]
+(i) *General information.* Provide site information that includes:
+
+(A) A description of all structures, systems, and components, including, at a minimum, the layout of all proposed above ground and below ground structures, systems, and components including temporary access roads used during construction and permanent roads used during operation.
+
+(B) The design classification for each structure, system, and component in accordance with, at a minimum, all applicable Federal requirements and applicable codes and standards.
+
+(C) The derivation and values for risk category and mean recurrence intervals that are, at a minimum, in accordance with all applicable Federal requirements and applicable codes and standards.
+
+(D) A description of all load combinations for each design classification for all structures, systems, and components that are, at a minimum, in accordance with design methods and all applicable Federal requirements and applicable codes and standards.
+
+(E) A description of all preliminary dead loads that are, at a minimum, in accordance with all applicable Federal requirements and applicable codes and standards, and include, at a minimum, weight of materials of construction of structures, systems, and components; weight of any hydrostatic test fluid service within structures, systems, and components during commissioning; weight of fluid services within structures, systems, and components during startup, normal operation, abnormal operation, and shutdown; and soil and hydrostatic pressure loads and potential uplift of below ground structures, systems, and components.
+
+(F) A description of all preliminary live loads that are, at a minimum, in accordance with all applicable Federal requirements and applicable codes and standards, and include, at a minimum, dynamic loads from movement during transportation of structures, systems, and components; induced loads from construction equipment atop of below ground structures, systems, and components; uniform and concentrated loads from construction and operation personnel and equipment on structures, systems, and components; and crane loads for structures, systems, and components.
+
+(G) A description of all preliminary loads induced from natural hazards for all structures, systems, and components that are, at a minimum, in accordance with all applicable Federal requirements and applicable codes and standards as described in paragraph (o)(15)(iii) of this section.
+
+(H) A description of all mitigation measures to protect against natural hazards (like earthquakes) including, at a minimum, a discussion of the proposed site elevation and design of any storm walls or barriers relative to information described in paragraphs (o)(15)(ii) and (iii) of this section.
+
+(I) A description of a natural hazard preparedness and action program, which includes facilitating timely decisions concerning the present or future state of the LNG facility that address, at a minimum, the natural hazards described in paragraph (o)(15)(iii) of this section.
+
+(ii) *Geotechnical information.* Provide a geotechnical investigation that includes:
+
+(A) A summary of the site investigation that lists the applicant's exploratory program for the site and the types of subsurface investigations performed and planned to be performed for the site.
+
+(B) A list and description of all in situ tests performed, standards used for tests, and their results including all standard penetration tests, cone penetration tests (static and dynamic), test pits, trenches, borings, rock coring, soil sampling, plate load tests, and in situ shear strength tests.
+
+(C) A plot plan that identifies the number, location, spacing, cross-sections, and depths of each in situ test.
+
+(D) A description of completed surveys, standards used for surveys, and the results of surveys that were conducted to obtain continuous lateral and depth information for the evaluation of subsurface conditions including all seismic refraction and reflection surveys.
+
+(E) A description of the applicant's laboratory testing program that includes the treatment of samples, the preparation of the soil specimen for testing, the techniques to detect sample disturbance, and the laboratory testing specifications.
+
+(F) A list and description of all laboratory tests performed, standards used for tests, and their results, including results from all soil classification tests, index tests, strength and compressibility tests, permeability tests, and soil corrosivity tests.
+
+(G) A description of proposed mitigation measures for soil improvement or other mitigation that would remediate low bearing strength, poor consolidation, poor permeability, high corrosivity, or other geotechnical issues discovered during in situ or laboratory tests.
+
+(H) A discussion of subsurface conditions and profiles based on the results of the subsurface exploration and field test conducted at the site. Subsurface profiles must identify groundwater conditions and the physicochemical properties of the groundwater, soil/rock layers and parameters, and various soil strata in various cross-section drawings spanning across the site including the LNG storage tank areas.
+
+(I) A description of soil conditions that indicate compressible or expansive soils, corrosive soils, collapsible soils, erodible soils, liquefaction-susceptible soils, frost-heave susceptible soils, frozen soils, sanitary landfill, or contaminated soils.
+
+(J) An analysis of actual or potential hazards (*e.g.,* landslides, subsidence, uplift, capable faults, or collapse resulting from natural features such as tectonic depressions and cavernous or karst terrains) to the site.
+
+(K) A discussion of the relationship between the regional and local geology and the site location.
+
+(L) An evaluation and discussion of surface displacement caused by faulting or seismically induced lateral spreading or lateral flow, regional subsidence, local subsidence, and heave.
+
+(M) Drawings of existing and proposed site elevation contours.
+
+(N) A slope-stability analysis, including slope stabilization methods, sloping topography for the site, recommendations for slope stability, static and seismic stability, and factor of safety.
+
+(O) Recommendations for site improvement to increase bearing capacity, reduce the potential of liquefaction and lateral spreading, and mitigate poor or unusual soil conditions.
+
+(P) Recommendations for site improvement to mitigate soil contaminants and shoreline erosion control.
+
+(Q) An evaluation and discussion of the expected total settlement over the design life of the facilities that considers soil conditions, regional subsidence, and local subsidence.
+
+(R) Recommendations for shallow foundations, including, at a minimum, ultimate bearing capacity, factor of safety, allowable bearing capacity, total and differential settlement criteria, liquefaction settlements, settlement monitoring, and lateral resistance.
+
+(S) Recommendations for deep foundations, including, at a minimum, acceptable foundation type, bearing capacity, total pile capacities, axial capacity, lateral capacity, group effects, down-drag, factor of safety, settlement of single pile and pile groups, lateral movement of pile groups, pile installation, pile cap, indicator piles and pile load test programs, static axial pile load test, lateral load test, and dynamic pile load test.
+
+(T) A summary of information needed to establish broad design parameters and conclusions used to determine the proposed layout and design of buildings, structures, and support facilities.
+
+(U) A description of the implementation of the geotechnical monitoring system for the site and structures, including inclinometer, extensometers, piezometer, tiltmeter, settlement monuments or cells, pressure and load cells, and crack monitoring devices.
+
+(iii) *Natural hazard information.* Provide studies, basis of design, and plans for all natural hazards, including, at a minimum, each natural hazard in paragraphs (o)(15)(iii)(A) through (G) of this section:
+
+(A) *Seismic information.* Provide a discussion of seismic design and hazards analysis that includes:
+
+(*1*) The seismic design basis and criteria that are, at a minimum, in accordance with all applicable Federal requirements, and applicable codes, standards, and specifications used as basis of design.
+
+(*2*) A description of seismic setting and seismic hazard investigation.
+
+(*3*) A description of seismological characteristics of the geographical region within 100 miles of the site.
+
+(*4*) A description of capable faults, including any part of a fault within five miles of the site, the fault characteristics in the site vicinity, the methods and techniques used for fault analysis and investigations, and the potential effect of fault displacement on structures, systems, and components.
+
+(*5*) Derivation of the site class describing the soil conditions and supportive geotechnical studies that are, at a minimum, in accordance with all applicable Federal requirements and applicable codes and standards.
+
+(*6*) Criteria used to determine potential soil liquefaction, subsidence, fault rupture, seismic slope stability, and lateral spreading.
+
+(*7*) A historical ground motion analysis, including a description of past seismic events of Modified Mercalli Intensity greater than IV or magnitude greater than 3.0 within 100 miles of the site, including date of seismic events, magnitude of seismic events, distance from site to epicenter of seismic events, depth of seismic events, and resultant ground motions recorded or estimated at site location.
+
+(*8*) A site-specific ground motion analysis based on ground motions projected from the U.S. Geological Survey national seismic maps and any deterministic seismic hazard analyses (DSHA) and probabilistic seismic hazard analyses (PSHA).
+
+(*9*) Derivation of all ground motions used for the Operating Basis Earthquake (OBE), Safe Shutdown Earthquake (SSE), site-specific design earthquake (DE), site-specific peak ground motion (PGA), and aftershock level earthquake (ALE) that are, at a minimum, in accordance with all applicable Federal requirements and applicable codes and standards.
+
+(*10*) A list of OBE, SSE, and ALE site-specific ground motion spectral values for 0.5%, 1%, 2%, 5%, 7%, 10%, 15%, and 20% damping during all periods range.
+
+(*11*) The DE seismic coefficients and seismic design parameters, including the spectral response acceleration and five percent damped design spectral response acceleration parameters at a short-period, at a period of one second, and at other periods; short-period site coefficient and long-period site coefficient; importance factor; component importance factor; fundamental period of the structure; long-period transition period; and response modification coefficient that are, at a minimum, in accordance with all applicable Federal requirements and applicable codes and standards.
+
+(*12*) A description of site-specific response spectrum analysis method, time history analysis method, or equivalent static load analysis.
+
+(*13*) A seismic analysis for soil-structure interaction that is, at a minimum, in accordance with all applicable Federal requirements and applicable codes and standards, and includes, at a minimum, a discussion of the modeling methods and the factors considered in the modeling methods, including the extent of embedment, the layering of the soil/rock strata, and the boundary of soil-structure model.
+
+(*14*) A comparison of seismic responses used for each design classification for all structures, systems, and components.
+
+(*15*) A list of seismic hazard curves of spectral accelerations for all periods for the site.
+
+(*16*) Vertical response spectra for seismic design and ratio to horizontal response spectra.
+
+(*17*) Natural frequencies and responses for each LNG tank system and associated safety systems and associated structures, systems, and components.
+
+(*18*) A description of procedures used for structural analyses, including consideration of incorporating the stiffness, mass, and damping characteristics of the structural systems into the analytical models.
+
+(*19*) A description of determination of seismic overturning moments and sliding forces for each LNG tank system and associated safety related structures, systems, and components, including consideration of the three components of input motion and the simultaneous action of vertical and horizontal seismic forces.
+
+(*20*) A description of design procedure for seismically isolated structures, systems, and components.
+
+(*21*) A description of seismic design basis and criteria for the LNG storage tank(s) and foundation(s). The seismic design basis and criteria must include the flexibility of the tank shell(s) and its influence on the natural frequencies of the tank(s), liquid level, effects of liquid motion or pressure changes; minimum design freeboard; sloshing and impulsive loads; seismic coefficients; importance factor(s); reduction factor(s); slosh height(s); sloshing periods of LNG storage tank(s); global stability of the tank(s) in terms of the potential for overturning and sliding; differential displacement between the tank(s) and the first support; and a total settlement monitoring program for the tank foundation(s).
+
+(*22*) A description of seismic monitoring system in accordance with, at a minimum, all applicable Federal requirements and applicable codes and standards, including any triaxial ground motion recorder installed to register the free-field ground motion and additional triaxial ground motion recorders on each LNG tank system foundation, LNG tank roof, and associated safety related structures, systems, and components. The proposed seismic monitoring must include the installation locations on a plot plan; description of the triaxial strong motion recorders or other seismic instrumentation; the proposed alarm set points, and operating procedures (including emergency operating procedures) for control room operators in response to such alarms/data obtained from seismic instrumentation; and maintenance procedures.
+
+(*23*) A cross reference to potential for earthquake generated tsunamis and seiches provided in paragraph (o)(15)(iii)(B) of this section, earthquake generated floods in paragraph (o)(15)(iii)(C) of this section, earthquake generated landslides in paragraph (o)(15)(iii)(G) of this section, and earthquake generated releases and fires in paragraph (m) of this section.
+
+(B) *Tsunami and seiche information.* Provide a discussion of tsunami and seiche design and hazards that includes:
+
+(*1*) The tsunami and seismic design basis and criteria with a description of the applicable requirements and guidelines, and generally accepted codes, standards, and specifications used as basis of design.
+
+(*2*) The seiche design inundation and run-up elevations and corresponding return periods for all structures, systems, and components.
+
+(*3*) The maximum considered tsunami (MCT) inundation and run-up elevation for the site, including the maximum considered earthquake (MCE) level ground motions at the site if the MCE is the triggering source of the MCT.
+
+(*4*) A comparison of design loads of seiche water inundation elevations with inundation elevation corresponding to return periods of MCE and MCT for all structures, systems, and components.
+
+(*5*) The Tsunami Risk Category for the site and a description of potential tsunami generation by seismic sources, and the prevention and mitigation plan for potential tsunami and seiche hazards.
+
+(*6*) A cross reference to potential tsunami and seiche generated floods in paragraph (o)(15)(iii)(C) of this section, tsunami and seiche generated landslides in paragraph (o)(15)(iii)(G) of this section, and tsunami and seiche generated releases and fires in paragraph (m) of this section.
+
+(C) *Flood information.* Provide a discussion of flood design criteria and hazards that includes:
+
+(*1*) The floods design basis and criteria with references to applicable requirements and guidelines, and generally accepted codes, standards, and specifications used as basis of design.
+
+(*2*) A description of flooding potential in the region surrounding the site due to one or more natural causes such as storm surge, tides, wind generated waves, meteorological tsunamis or seiches, extreme precipitation, or other natural hazard events that have a common cause.
+
+(*3*) A comparison of flood design loads corresponding to return periods of 10,000-year, 5,000-year, 1,000-year, 500-year, and 100-year for all structures, systems, and components.
+
+(*4*) A discussion of final designed site elevations and storm surge walls or floodwalls for the site that includes tsunami considerations, flood design considerations, site total settlements, sea level rise, subsidence.
+
+(D) *Hurricane information.* Provide a discussion of hurricanes and other meteorological events design criteria and hazards that includes:
+
+(*1*) The wind and storm surge design basis and criteria that are, at a minimum, in accordance with all applicable Federal requirements, and applicable codes, standards, and specifications used as basis of design.
+
+(*2*) A comparison of design wind loads for both sustained and three-second gusts and storm surge elevations, including consideration for still water, wind/wave run-up effects, and crest elevations, with hurricanes and other meteorological events at the site location corresponding to return periods of 10,000-year, 5,000-year, 1,000-year, 500-year, and 100-year for all structures, systems, and components.
+
+(*3*) A discussion of historic hurricane frequencies and hurricane categories equivalent on the Saffir-Simpson Hurricane Wind Scale at the site and associated wind speeds and storm surge.
+
+(*4*) The design regional subsidence that includes a discussion of the elevation change used to account for regional subsidence for the design life of the facilities at the site.
+
+(E) *Tornado information.* Provide a discussion of tornado design criteria and hazards that includes:
+
+(*1*) The tornadoes design basis and criteria that are, at a minimum, in accordance with all applicable Federal requirements, and applicable codes, standards, and specifications used as basis of design.
+
+(*2*) A comparison of tornado design loads corresponding to return periods of 10,000-year, 5,000-year, 1,000-year, 500-year, and 100-year for all structures, systems, and components.
+
+(*3*) A discussion of historic tornado frequencies and tornado categories as classified on the Enhanced Fujita (EF) Scale at the site and associated wind speeds.
+
+(*4*) A discussion of tornado loads determination and design procedure.
+
+(*5*) A comparison of impact between wind loads and tornado loads for the site.
+
+(F) *Rain, ice, snow, and related precipitation information.* Provide a discussion of rain, ice, snow, and related precipitation design criteria and hazards that includes:
+
+(*1*) The rain, ice, and snow design basis and criteria that are, at a minimum, in accordance with all applicable Federal requirements, and applicable codes, standards, and specifications used as basis of design.
+
+(*2*) The identification of stormwater flows, outfalls, and stormwater management systems for all surfaces, including spill containment system with sump pumps or other water removal systems.
+
+(*3*) The comparison of rain, ice, and snow design loads with rainfall rates, snow loads, and ice loads corresponding to return periods of 10,000-year, 5,000-year, 1,000-year, 500-year, and 100-year for all structures, systems, and components.
+
+(*4*) A discussion of historic ice and blizzard events and frequencies and other ice and snow events at the site and associated loads.
+
+(G) *Landslides, wildfires, volcanic activity, and geomagnetism information.* Provide a discussion of landslides, wildfires, volcanic activity, and geomagnetism design criteria and hazards that includes:
+
+(*1*) The landslides, wildfires, volcanic activity, and geomagnetism design basis and criteria that are, at a minimum, in accordance with all applicable Federal requirements, and applicable codes, standards, and specifications used as basis of design.
+
+(*2*) A discussion of historic landslide, wildfire, volcano activity, and geomagnetic disturbance risks and intensities at the site.
+
+(*3*) A description of capable volcanoes, volcanic characteristics of the region, and a discussion of potentially hazardous volcanic phenomena considerations.
+
+[Order 603, 64 FR 26611, May 14, 1999, as amended by Order 603-A, 64 FR 54537, Oct. 7, 1999; Order 609, 64 FR 57392, Oct. 25, 1999; Order 699, 72 FR 45328, Aug. 14, 2007; Order 756, 77 FR 4895, Feb. 1, 2012; Order 900, 88 FR 74042, Oct. 30, 2023]

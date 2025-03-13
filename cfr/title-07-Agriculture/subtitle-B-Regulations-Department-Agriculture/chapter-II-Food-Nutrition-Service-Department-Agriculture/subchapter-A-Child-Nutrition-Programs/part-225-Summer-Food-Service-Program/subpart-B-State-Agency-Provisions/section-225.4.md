@@ -20,8 +20,12 @@
 
 (6) The State's plan for ensuring the fiscal integrity of sponsors not subject to auditing requirements prescribed by the Secretary;
 
-(7) The State's plan for ensuring compliance with the food service management company procurement monitoring requirements set forth at § 225.6(l); and
+(7) The State's plan for ensuring compliance with the food service management company procurement monitoring requirements set forth at § 225.6(l);
 
-(8) An estimate of the State's need, if any, for monies available to pay for the cost of conducting health inspections and meal quality tests.
+(8) An estimate of the State's need, if any, for monies available to pay for the cost of conducting health inspections and meal quality tests;
 
-[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13466, Apr. 10, 1990; 64 FR 72483, Dec. 28, 1999; 87 FR 57356, Sept. 19, 2022]
+(9) The State's plan to provide a reasonable opportunity for children to access meals across all areas of the State; and
+
+(10) The State's plan for Program delivery in areas that could benefit the most from the provision of non-congregate meals, including the State's plan to identify areas with no congregate meal service, and target priority areas for non-congregate meal service.
+
+[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13466, Apr. 10, 1990; 64 FR 72483, Dec. 28, 1999; 87 FR 57356, Sept. 19, 2022; 88 FR 90349, Dec. 29, 2023]

@@ -1,0 +1,3 @@
+##### § 292.25 Investigations. #####
+
+The Summer EBT agency must promptly investigate complaints received or irregularities noted in connection with the operation of the Program and must take appropriate action to correct any irregularities. The Summer EBT agency must maintain on file all evidence relating to such investigations and actions. The Summer EBT agency must inform the appropriate FNSRO of any suspected fraud or criminal abuse in the Program which would result in a loss or misuse of Federal funds. The Department may make investigations at the request of the Summer EBT agency, or where the Department determines investigations are appropriate.

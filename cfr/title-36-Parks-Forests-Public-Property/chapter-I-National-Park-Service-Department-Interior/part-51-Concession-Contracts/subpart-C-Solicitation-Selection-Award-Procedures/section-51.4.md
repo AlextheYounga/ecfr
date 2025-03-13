@@ -1,5 +1,7 @@
 ##### § 51.4 How will the Director invite the general public to apply for the award of a concession contract? #####
 
+Link to an amendment published at 88 FR 90117, Dec. 29, 2023.
+
 (a) The Director must award all concession contracts, except as otherwise expressly provided in this part, through a public solicitation process. The public solicitation process begins with the issuance of a prospectus. The prospectus will invite the general public to submit proposals for the contract. The prospectus will describe the terms and conditions of the concession contract to be awarded and the procedures to be followed in the selection of the best proposal.
 
 (b) Except as provided under § 51.47 (which calls for a final administrative decision on preferred offeror appeals prior to the selection of the best proposal) the terms, conditions and determinations of the prospectus and the terms and conditions of the proposed concession contract as described in the prospectus, including, without limitation, its minimum franchise fee, are not final until the concession contract is awarded. The Director will not issue a prospectus for a concession contract earlier than eighteen months prior to the expiration of a related existing concession contract.

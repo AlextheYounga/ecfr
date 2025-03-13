@@ -66,4 +66,6 @@
 
 (7) Money received by the State agency as a result of a fine established under this paragraph against a sponsor and any interest charged in the collection of these fines must be remitted to FNS, and then remitted to the United States Treasury.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13471, Apr. 10, 1990; 64 FR 72488, Dec. 28, 1999; 71 FR 39518, July 13, 2006; 72 FR 24183, May 2, 2007; 76 FR 37982, June 29, 2011; 78 FR 13450, Feb. 28, 2013; 81 FR 66492, Sept. 28, 2016; 88 FR 57850, Aug. 23, 2023]
+(l) *Updates to data sources.* By January 1 each year, or as soon as is practicable, FNS will issue any necessary updates to approved data sources listed under the definition of “rural” in § 225.2 to be used for rural site designations in that program year. FNS will make this information available and referenceable in a simplified format.
+
+[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13471, Apr. 10, 1990; 64 FR 72488, Dec. 28, 1999; 71 FR 39518, July 13, 2006; 72 FR 24183, May 2, 2007; 76 FR 37982, June 29, 2011; 78 FR 13450, Feb. 28, 2013; 81 FR 66492, Sept. 28, 2016; 88 FR 57850, Aug. 23, 2023; 88 FR 90355, Dec. 29, 2023]

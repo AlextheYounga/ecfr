@@ -1,5 +1,7 @@
 ##### § 51.81 May the Director include “special account” provisions in concession contracts? #####
 
+Link to an amendment published at 88 FR 90119, Dec. 29, 2023.
+
 (a) The Director may not include in concession contracts “special account” provisions, that is, contract provisions which require or authorize a concessioner to undertake with a specified percentage of the concessioner's gross receipts the construction of real property improvements, including, without limitation, capital improvements on park lands. The construction of capital improvements will be undertaken only pursuant to the leasehold surrender interest provisions of this part and the applicable concession contract.
 
 (b) Concession contracts may contain provisions that require the concessioner to set aside a percentage of its gross receipts or other funds in a repair and maintenance reserve to be used at the direction of the Director solely for maintenance and repair of real property improvements located in park areas and utilized by the concessioner in its operations. Repair and maintenance reserve funds may not be expended to construct real property improvements, including, without limitation, capital improvements. Repair and maintenance reserve provisions may not be included in concession contracts in lieu of a franchise fee, and funds from the reserves will be expended only for the repair and maintenance of real property improvements assigned to the concessioner by the Director for use in its operations.

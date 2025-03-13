@@ -1,7 +1,5 @@
 ##### § 209.3 Cancellation of Reserve Bank stock; mergers involving member banks. #####
 
-Link to an amendment published at 88 FR 83318, Nov. 29, 2023.
-
 (a) *Application for cancellation.* Any bank that desires to withdraw from membership in the Federal Reserve System (including a national bank that wants to convert into a nonmember bank), voluntarily liquidates or ceases business, is merged or consolidated into a nonmember bank, or is involuntarily liquidated by a receiver or conservator or otherwise, shall promptly file with its Reserve Bank an application for cancellation of all its Reserve Bank stock (or withdrawal of its deposit, as the case may be) and payment therefor in accordance with § 209.4.
 
 (b) *Involuntary termination of membership.* If an application is not filed promptly after a cessation of business by a state member bank, a vote to place a member bank in voluntary liquidation, or the appointment of a receiver for (or a determination to liquidate the bank by a conservator of) a member bank, the Board may, after notice and an opportunity for hearing where required under Section 9(9) of the Federal Reserve Act (12 U.S.C. 327), order the membership of the bank terminated and all of its Reserve Bank stock canceled.
@@ -28,8 +26,8 @@ Link to an amendment published at 88 FR 83318, Nov. 29, 2023.
 
 (4) *Merger with a nonmember bank.* Upon a merger or consolidation of a member bank and a nonmember bank, the Reserve Bank will adjust the surviving member bank's stock subscription to equal six percent of the member bank's capital and surplus, or, in the case of a member bank that is a mutual savings bank, six-tenths of 1 percent of the member bank's total deposit liabilities. If a mutual savings bank has a deposit with the appropriate Reserve Bank in lieu of Reserve Bank capital stock, its deposit obligation shall be adjusted in a like manner.
 
-(5) *Statement of total consolidated assets.* When a member bank merges or consolidates with another bank and the surviving bank remains a Reserve Bank stockholder, the surviving stockholder must report whether its total consolidated assets exceed $12,124,000,000 in the application described in paragraph (d)(1) of this section.
+(5) *Statement of total consolidated assets.* When a member bank merges or consolidates with another bank and the surviving bank remains a Reserve Bank stockholder, the surviving stockholder must report whether its total consolidated assets exceed $12,517,000,000 in the application described in paragraph (d)(1) of this section.
 
 (e) *Voluntary withdrawal.* Any bank withdrawing voluntarily from membership shall give 6 months written notice, and shall not cause the withdrawal of more than 25 percent of any Reserve Bank's capital stock in any calendar year, unless the Board waives these requirements.
 
-[63 FR 37663, July 13, 1998, as amended by Reg. I, 81 FR 9087, Feb. 24, 2016; 82 FR 11502, Feb. 24, 2017; 82 FR 52174, Nov. 13, 2017; 83 FR 58467, Nov. 20, 2018; 84 FR 68326, Dec. 16, 2019; 85 FR 79390, Dec. 10, 2020; 86 FR 69579, Dec. 8, 2021; 87 FR 2030, Jan. 13, 2022; 87 FR 73635, Dec. 1, 2022]
+[63 FR 37663, July 13, 1998, as amended by Reg. I, 81 FR 9087, Feb. 24, 2016; 82 FR 11502, Feb. 24, 2017; 82 FR 52174, Nov. 13, 2017; 83 FR 58467, Nov. 20, 2018; 84 FR 68326, Dec. 16, 2019; 85 FR 79390, Dec. 10, 2020; 86 FR 69579, Dec. 8, 2021; 87 FR 2030, Jan. 13, 2022; 87 FR 73635, Dec. 1, 2022; 88 FR 83318, Nov. 29, 2023]

@@ -14,29 +14,31 @@
 
 (4) Program violations at a significant proportion of the sponsor's sites. Such violations include, but are not limited to, the following:
 
-(i) Noncompliance with the meal service time restrictions set forth at § 225.16(c);
+(i) Noncompliance with the meal service time restrictions set forth at § 225.16(c), as applicable;
 
 (ii) Failure to maintain adequate records;
 
 (iii) Failure to adjust meal orders to conform to variations in the number of participating children;
 
-(iv) The simultaneous service of more than one meal to any child;
+(iv) For congregate meal service operations, the simultaneous service of more than one meal to any child;
 
 (v) The claiming of Program payments for meals not served to participating children;
 
-(vi) Service of a significant number of meals which did not include required quantities of all meal components;
+(vi) For non-congregate meal service operations, distributing more than the daily meal limit when multi-day service is used;
 
-(vii) Excessive instances of off-site meal consumption;
+(vii) Service of a significant number of meals which did not include required quantities of all meal components;
 
-(viii) Continued use of food service management companies that are in violation of health codes.
+(viii) For congregate meal service operations, excessive instances of off-site meal consumption;
 
-(d) *Meal service restriction.* With the exception for residential camps set forth at § 225.16(b)(1)(ii), the State agency shall restrict to one meal service per day:
+(ix) Continued use of food service management companies that are in violation of health codes.
 
-(1) Any food service site which is determined to be in violation of the time restrictions for meal service set forth at § 225.16(c) when corrective action is not taken within a reasonable time as determined by the State agency; and
+(d) *Meal service restriction.* (1) With the exception for residential camps and non-congregate meal service set forth at § 225.16(b)(1)(ii) and (b)(5)(iii), respectively, the State agency must restrict to one meal service per day:
 
-(2) All sites under a sponsor if more than 20 percent of the sponsor's sites are determined to be in violation of the time restrictions set forth at § 225.16(c).
+(i) Any food service site which is determined to be in violation of the time restrictions for meal service set forth at § 225.16(c) when corrective action is not taken within a reasonable time as determined by the State agency; and
 
-If this action results in children not receiving meals under the Program, the State agency shall make reasonable effort to locate another source of meal service for these children.
+(ii) All sites under a sponsor if more than 20 percent of the sponsor's sites are determined to be in violation of the time restrictions set forth at § 225.16(c).
+
+(2) If this action results in children not receiving meals under the Program, the State agency must make reasonable effort to locate another source of meal service for these children.
 
 (e) *Meal disallowances.* (1) If the State agency determines that a sponsor has failed to plan, prepare, or order meals with the objective of providing only one meal per child at each meal service at a site, the State agency shall disallow the number of children's meals prepared or ordered in excess of the number of children served.
 
@@ -54,4 +56,4 @@ If this action results in children not receiving meals under the Program, the St
 
 (g) *Technical assistance for improved meal service.* If the State agency finds that a sponsor is operating a program with poor quality meal service and is operating below the reimbursement level, the State agency should provide technical assistance to the sponsor to improve the meal service.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13469, Apr. 10, 1990; 83 FR 25360, June 1, 2018; 87 FR 57364, Sept. 19, 2022]
+[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13469, Apr. 10, 1990; 83 FR 25360, June 1, 2018; 87 FR 57364, Sept. 19, 2022; 88 FR 90353, Dec. 29, 2023]

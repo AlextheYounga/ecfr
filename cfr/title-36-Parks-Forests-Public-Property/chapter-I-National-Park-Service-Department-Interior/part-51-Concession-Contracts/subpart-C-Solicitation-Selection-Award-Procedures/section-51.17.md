@@ -1,5 +1,7 @@
 ##### § 51.17 What are the selection factors? #####
 
+Link to an amendment published at 88 FR 90118, Dec. 29, 2023.
+
 (a) The five principal selection factors are:
 
 (1) The responsiveness of the proposal to the objectives, as described in the prospectus, of protecting, conserving, and preserving resources of the park area;

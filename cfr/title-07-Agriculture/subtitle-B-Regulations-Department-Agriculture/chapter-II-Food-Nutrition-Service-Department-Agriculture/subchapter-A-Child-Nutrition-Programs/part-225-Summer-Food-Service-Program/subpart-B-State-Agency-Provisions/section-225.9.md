@@ -50,13 +50,17 @@
 
 (8) On each January 1, or as soon thereafter or as practicable, FNS will publish a notice in the Federal Register announcing any adjustment to the reimbursement rates described in paragraph (d)(7) of this section. Adjustments will be based upon changes in the series for food away from home of the Consumer Price Index (CPI) for all urban consumers since the establishment of the rates. Higher rates will be established for Alaska and Hawaii, based on the CPI for those States.
 
-(9) Sponsors of camps shall be reimbursed only for meals served to children in camps whose eligibility for Program meals is documented. Sponsors of NYSP sites shall only claim reimbursement for meals served to children enrolled in the NYSP.
+(9) Sponsors of camps are reimbursed only for meals served to children in camps whose eligibility for Program meals is documented.
 
-(10) If a State agency has reason to believe that a sponsor or food service management company has engaged in unlawful acts in connection with Program operations, evidence found in audits, reviews, or investigations must be a basis for nonpayment of the applicable sponsor's claims for reimbursement. The State agency may be exempt from the requirement stated in paragraph (d)(4) of this section that final action on a claim must be complete within 45 calendar days of receipt of a revised claim if the State agency determines that a thorough examination of potentially unlawful acts would not be possible in the required timeframe. The State agency must notify the appropriate FNSRO of its election to take the exemption from the requirement stated in paragraph (d)(4) of this section by submitting to the FNSRO a copy of the claim disapproval at the same time as it is provided to the sponsor.
+(10) Sponsors of NYSP sites are reimbursed only for meals served to children enrolled in the NYSP.
+
+(11) Sponsors of conditional non-congregate sites are reimbursed only for meals served to children whose eligibility for Program meals is documented.
+
+(12) If a State agency has reason to believe that a sponsor or food service management company has engaged in unlawful acts in connection with Program operations, evidence found in audits, reviews, or investigations must be a basis for nonpayment of the applicable sponsor's claims for reimbursement. The State agency may be exempt from the requirement stated in paragraph (d)(4) of this section that final action on a claim must be complete within 45 calendar days of receipt of a revised claim if the State agency determines that a thorough examination of potentially unlawful acts would not be possible in the required timeframe. The State agency must notify the appropriate FNSRO of its election to take the exemption from the requirement stated in paragraph (d)(4) of this section by submitting to the FNSRO a copy of the claim disapproval at the same time as it is provided to the sponsor.
 
 (e) The sponsor may claim reimbursement for any meals which are examined for meal quality by the State agency, auditors, or local health authorities and found to meet the meal pattern requirements.
 
-(f) The sponsor shall not claim reimbursement for meals served to children at any site in excess of the site's approved level of meal service, if one has been established under § 225.6(h)(2). However, the total number of meals for which operating costs are claimed may exceed the approved level of meal service if the meals exceeding this level were served to adults performing necessary food service labor in accordance with paragraph (d)(5) of this section. In reviewing a sponsor's claim, the State agency shall ensure that reimbursements for second meals are limited to the percentage tolerance established in § 225.15(b)(4).
+(f) *Meal claiming.* The sponsor must not claim reimbursement for meals served to children at any site in excess of the site's approved level of meal service, if one has been established under § 225.6(h)(2). However, the total number of meals for which operating costs are claimed may exceed the approved level of meal service if the meals exceeding this level were served to adults performing necessary food service labor in accordance with paragraph (d)(5) of this section. In reviewing a sponsor's claim for congregate meals served, the State agency must ensure that reimbursements for second meals are limited to the percentage tolerance established in § 225.15(b)(4).
 
 (g) *Unused reimbursement.* If a sponsor receives more reimbursement than expended on allowable costs, the sponsor should use this unused reimbursement to improve the meal service or management of the Program. Unused reimbursement remaining at the end of the Program year must be used to pay allowable costs of other Child Nutrition Programs or for SFSP operations the following Program year.
 
@@ -64,4 +68,4 @@
 
 (2) [Reserved]
 
-[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13469, Apr. 10, 1990; 64 FR 72485, Dec. 28, 1999; 83 FR 25358, June 1, 2018; 84 FR 15501, Apr. 16, 2019; 87 FR 57364, Sept. 19, 2022]
+[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13469, Apr. 10, 1990; 64 FR 72485, Dec. 28, 1999; 83 FR 25358, June 1, 2018; 84 FR 15501, Apr. 16, 2019; 87 FR 57364, Sept. 19, 2022; 88 FR 90353, Dec. 29, 2023]
