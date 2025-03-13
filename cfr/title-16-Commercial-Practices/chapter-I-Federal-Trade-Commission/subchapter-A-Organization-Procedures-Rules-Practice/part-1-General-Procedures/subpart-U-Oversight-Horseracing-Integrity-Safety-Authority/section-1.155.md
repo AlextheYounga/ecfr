@@ -1,0 +1,17 @@
+##### § 1.155 Other best practices. #####
+
+(a) *Regular monitoring meetings.* The Commission recommends that the Authority hold regular meetings with Commission staff to discuss upcoming or potential risks, challenges, and opportunities for improvement.
+
+(b) *Records and information management.* The Commission recommends that the Authority maintain records and information in sufficient detail to support the Authority's programs and operations, as well as any records relating to its information management policies or procedures. The Commission expects that the Authority will make any of these records available to Commission staff upon request, to allow the Commission to carry out its statutorily mandated oversight.
+
+(c) *Treatment of confidential information.* The Commission recommends that the Authority's submissions to the Commission not include any SHI, PII, or SPII, such as a Social Security number; date of birth; driver's license number or other State identification number, or foreign country equivalent; passport number; financial account number; or credit or debit card number. If the Authority submits documents to the Commission containing confidential commercial or financial information, it should so designate that material and request confidential treatment pursuant to § 4.10(g) of this chapter.
+
+(d) *Standing data requests.* The Commission recommends that the Authority submit Board of Directors minutes to the Commission's Office of the Secretary within 30 days following each Board meeting.
+
+(e) *Personnel and compensation.* The Commission recommends that the Authority develop compensation policies and practices with the primary objective of attracting, developing, and retaining high-performing individuals capable of achieving the Authority's mission. The Authority should strive to recruit a diverse team of industry leaders whose unique backgrounds, education, cultures, and perspectives help position the Authority as an effective and innovative self-regulatory organization. The Commission also recommends that the Authority conduct periodic salary benchmarks to ensure that employee compensation is in line with other like organizations.
+
+(f) *Customer service.* The Commission recommends that the Authority maintain publicly accessible points of contact (*e.g.,* email addresses, phone numbers) and monitor the timeliness with which it responds to inquiries. In this regard, the Commission urges the Authority to develop a policy and associated metrics covering its customer service activities, to be incorporated into its strategic plan and its regular reporting to the Commission.
+
+(g) *Travel.* The Commission recommends that the Authority use standard, General Services Administration (GSA)-established, published per diem rates when determining how much a person may spend on lodging, meals, and incidental expenses. Nevertheless, actual subsistence expenses may be authorized under unusual circumstances with justification and prior approval from the appropriate approving official. The Commission urges the Authority to prohibit the use of first-class travel (defined as the highest and most expensive class of service) by employees, except when no other option is available or when a disability or exceptional security conditions require it. The Commission also recommends that the Authority not reimburse its contractors for first-class travel unless exceptional circumstances warrant.
+
+[89 FR 66550, Aug. 16, 2024]

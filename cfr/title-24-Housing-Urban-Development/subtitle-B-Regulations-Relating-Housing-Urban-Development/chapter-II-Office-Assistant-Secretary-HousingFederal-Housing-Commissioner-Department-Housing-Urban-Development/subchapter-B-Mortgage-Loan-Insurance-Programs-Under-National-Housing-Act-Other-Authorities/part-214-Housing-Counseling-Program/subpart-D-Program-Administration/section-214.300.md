@@ -1,5 +1,7 @@
 ##### § 214.300 Counseling services. #####
 
+Link to an amendment published at 89 FR 75502, Sept. 16, 2024.
+
 (a) *Basic requirements.* (1) Agencies must provide counseling to current and potential homeowners and tenants to assist them in improving their housing conditions and in meeting the responsibilities of homeownership or tenancy.
 
 (2) Except for reverse mortgage counseling, housing counselors and clients must establish an action plan for each counseling client.

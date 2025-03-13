@@ -1,5 +1,7 @@
 ##### § 3280.806 Receptacle outlets. #####
 
+Link to an amendment published at 89 FR 75757, Sept. 16, 2024.
+
 (a) All receptacle outlets shall be:
 
 (1) Of grounding type;

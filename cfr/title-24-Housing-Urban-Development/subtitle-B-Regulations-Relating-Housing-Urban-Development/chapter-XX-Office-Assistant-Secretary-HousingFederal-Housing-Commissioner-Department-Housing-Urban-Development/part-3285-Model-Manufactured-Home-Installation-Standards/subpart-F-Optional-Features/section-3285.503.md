@@ -1,5 +1,7 @@
 ##### § 3285.503 Optional appliances. #####
 
+Link to an amendment published at 89 FR 75758, Sept. 16, 2024.
+
 (a) *Comfort cooling systems.* When not provided and installed by the home manufacturer, any comfort cooling systems that are installed must be installed according to the appliance manufacturer's installation instructions.
 
 (1) *Air conditioners.* Air conditioning equipment must be listed or certified by a nationally recognized testing agency for the application for which the unit is intended and installed in accordance with the terms of its listing or certification (see § 3280.714 of this chapter).

@@ -1,12 +1,10 @@
 ##### § 1.7006 Data verification. #####
 
-Link to an amendment published at 89 FR 66267, Aug. 15, 2024.Link to an amendment published at 89 FR 66268, Aug. 15, 2024.
+(a) *Audits.* The Office of Economics and Analytics, in coordination with the Wireless Telecommunications Bureau, Wireline Competition Bureau, and Space Bureau, shall conduct regular audits of the information submitted by providers in their Broadband Data Collection filings. The audits:
 
-(a) *Audits.* The Commission shall conduct regular audits of the information submitted by providers in their Digital Opportunity Data Collection filings. The audits:
+(1) May be random, as determined by the Office of Economics and Analytics; or
 
-(1) May be random, as determined by the Commission; or
-
-(2) Can be required in cases where there may be patterns of filing incorrect information, as determined by the Commission.
+(2) Can be required in cases where there may be patterns of filing incorrect information, as determined by the Office of Economics and Analytics.
 
 (b) *Crowdsourcing process.* Entities or individuals may submit in the Commission's online portal specific information regarding the deployment and availability of broadband internet access service so that it may be used to verify and supplement information submitted by providers for potential inclusion in the coverage maps.
 
@@ -142,13 +140,13 @@ Link to an amendment published at 89 FR 66267, Aug. 15, 2024.Link to an amendmen
 
 (ii) Denying the allegation(s) raised by the challenger, in which the case the provider shall provide evidence, in the online portal and to the challenger, that the provider serves (or could and is willing to serve) the challenged location. If the provider denies the allegation(s) raised by the challenger, then the provider and the challenger shall have 60 days after the provider submits its reply to attempt to resolve the challenge.
 
-(4) A provider's failure to respond to a challenge to its reported coverage data within the applicable timeframes shall result in a finding against the provider, resulting in mandatory corrections to the provider's Digital Opportunity Data Collection information to conform to the challenge. Providers shall submit any such corrections within 30 days of the missed reply deadline or the Commission will make the corrections on its own and incorporate such change into the coverage maps.
+(4) A provider's failure to respond to a challenge to its reported coverage data within the applicable timeframes shall result in a finding against the provider, resulting in mandatory corrections to the provider's Broadband Data Collection information to conform to the challenge. Providers shall submit any such corrections within 30 days of the missed reply deadline or the Commission will make the corrections on its own and incorporate such change into the coverage maps.
 
 (5) Once a challenge containing all the required elements is submitted in the online portal, the location shall be identified on the coverage maps as “in dispute/pending resolution.”
 
-(6) If the parties are unable to reach consensus within 60 days after submission of the provider's reply in the portal, then the affected provider shall report the status of efforts to resolve the challenge in the online portal, after which the Commission, will review the evidence and make a determination, either:
+(6) If the parties are unable to reach consensus within 60 days after submission of the provider's reply in the portal, then the affected provider shall report the status of efforts to resolve the challenge in the online portal. After the affected provider reports on the status of these efforts (including any amended report submitted prior to the 60-day deadline), the Commission shall have 90 days to review the evidence and make a determination, either:
 
-(i) In favor of the challenger, in which case the provider shall update its Digital Opportunity Data Collection information within 30 days of the decision; or
+(i) In favor of the challenger, in which case the provider shall update its Broadband Data Collection information within 30 days of the decision; or
 
 (ii) In favor of the provider, in which case the location will no longer be subject to the “in dispute/pending resolution” designation on the coverage maps.
 
@@ -278,9 +276,11 @@ Link to an amendment published at 89 FR 66267, Aug. 15, 2024.Link to an amendmen
 
 (vi) If the Commission determines, based on the infrastructure data submitted by providers, that challenge speed tests are invalid, such challenge speed tests shall be ruled void, and the Commission shall recalculate the challenged hexagons after removing any invalidated challenger speed tests and consider any challenged hexagons that no longer meet the challenge creation threshold to be restored to their status before the challenge was submitted.
 
-(5) If a mobile service provider that has failed to rebut a challenge subsequently takes remedial action to improve coverage at the location of the challenge, the provider must notify the Commission of the actions it has taken to improve its coverage and provide either on-the-ground test data or infrastructure data to verify its improved coverage.
+(5) Commission staff will resolve the challenge within 90 days following the 60th day after which the provider is notified of the challenge (*i.e.,* the deadline for submitting challenge rebuttal data), except that, should the Office of Economics and Analytics (OEA) request supplemental information from a provider after receiving the provider's initial challenge response, the Commission will resolve the challenge within 90 days following the 60th day after which staff request such supplemental data (*i.e.,* 90 days after the deadline for when the supplemental data is due to OEA).
 
-(6) After a challenged provider submits all responses and Commission staff determines the result of a challenge and any subsequent rebuttal has been determined:
+(6) If a mobile service provider that has failed to rebut a challenge subsequently takes remedial action to improve coverage at the location of the challenge, the provider must notify the Commission of the actions it has taken to improve its coverage and provide either on-the-ground test data or infrastructure data to verify its improved coverage.
+
+(7) After a challenged provider submits all responses and Commission staff determines the result of a challenge and any subsequent rebuttal has been determined:
 
 (i) In such cases where a mobile service provider successfully rebuts a challenge, the area confirmed to have coverage shall be ineligible for challenge until the next biannual broadband availability data filing six months after the later of either the end of the 60-day response period or the resolution of the challenge.
 
@@ -288,7 +288,7 @@ Link to an amendment published at 89 FR 66267, Aug. 15, 2024.Link to an amendmen
 
 (iii) In cases where a mobile service provider concedes or loses a challenge, the provider must file, within 30 days, geospatial data depicting the challenged area that has been shown to lack sufficient service. Such data will constitute a correction layer to the provider's original propagation model-based coverage map, and Commission staff will use this layer to update the broadband coverage map. In addition, to the extent that a provider does not later improve coverage for the relevant technology in an area where it conceded or lost a challenge, it must include this correction layer in its subsequent filings to indicate the areas shown to lack service.
 
-(7) Commission staff are permitted to consider other relevant data to support a mobile service provider's rebuttal of challenges, including on-the-ground data or infrastructure data (to the extent such data are not the primary rebuttal option submitted by the mobile service provider). The Office of Economics and Analytics will review such data when voluntarily submitted by providers in response to challenges, and if it concludes that any of the data sources are sufficiently reliable, it will specify appropriate standards and specifications for each type of data and will issue a public notice adding the data source to the alternatives available to providers to rebut a consumer challenge.
+(8) Commission staff are permitted to consider other relevant data to support a mobile service provider's rebuttal of challenges, including on-the-ground data or infrastructure data (to the extent such data are not the primary rebuttal option submitted by the mobile service provider). The Office of Economics and Analytics will review such data when voluntarily submitted by providers in response to challenges, and if it concludes that any of the data sources are sufficiently reliable, it will specify appropriate standards and specifications for each type of data and will issue a public notice adding the data source to the alternatives available to providers to rebut a consumer challenge.
 
 (f) *Mobile service challenge process for State, local, and Tribal governmental entities; and other entities or individuals.* State, local, and Tribal governmental entities and other entities or individuals may submit data to challenge accuracy of mobile broadband coverage maps. They may challenge mobile coverage data based on lack of service or poor service quality such as slow delivered user speed.
 
@@ -310,8 +310,10 @@ Link to an amendment published at 89 FR 66267, Aug. 15, 2024.Link to an amendmen
 
 (5) To dispute a challenge, a mobile service provider must submit on-the-ground test data or infrastructure data to verify its coverage map(s) in the challenged area based on the methodology set forth in paragraph (e)(4) of this section. To the extent that a service provider believes it would be helpful to the Commission in resolving a challenge, it may choose to submit other data in addition to the data initially required, including but not limited to either infrastructure or on-the-ground testing (to the extent such data are not the primary option chosen by the provider) or other types of data such as data collected from network transmitter monitoring systems or software or spectrum band-specific coverage maps. Such other data must be submitted at the same time as the primary on-the-ground testing or infrastructure rebuttal data submitted by the provider. If needed to ensure an adequate review, the Office of Economics and Analytics may also require that the provider submit other data in addition to the data initially submitted, including but not limited to either infrastructure or on-the-ground testing data (to the extent not the option initially chosen by the provider) or data collected from network transmitter monitoring systems or software (to the extent available in the provider's network).
 
-(6) If a provider that has failed to rebut a challenge subsequently takes remedial action to improve coverage at the location of the challenge, the provider must notify the Commission of the actions it has taken to improve its coverage and provide either on-the-ground test data or infrastructure data to verify its improved coverage.
+(6) Commission staff will resolve the challenge within 90 days following the 60th day after which the provider is notified of the challenge (*i.e.,* the deadline for submitting challenge rebuttal data), except that, should the OEA request supplemental information from a provider after receiving the provider's initial challenge response, the Commission will resolve the challenge within 90 days following the 60th day after which staff request such supplemental data (*i.e.,* 90 days after the deadline for when the supplemental data is due to OEA).
 
-(7) In cases where a mobile service provider concedes or loses a challenge, the provider must file, within 30 days, geospatial data depicting the challenged area that has been shown to lack service. Such data will constitute a correction layer to the provider's original propagation model-based coverage map, and Commission staff will use this layer to update the broadband coverage map. In addition, to the extent that a provider does not later improve coverage for the relevant technology in an area where it conceded or lost a challenge, it must include this correction layer in its subsequent Digital Opportunity Data Collection filings to indicate the areas shown to lack service.
+(7) If a provider that has failed to rebut a challenge subsequently takes remedial action to improve coverage at the location of the challenge, the provider must notify the Commission of the actions it has taken to improve its coverage and provide either on-the-ground test data or infrastructure data to verify its improved coverage.
 
-[85 FR 50907, Aug. 18, 2020, as amended at 86 FR 18160, Apr. 7, 2021; 87 FR 21509, Apr. 11, 2022]
+(8) In cases where a mobile service provider concedes or loses a challenge, the provider must file, within 30 days, geospatial data depicting the challenged area that has been shown to lack service. Such data will constitute a correction layer to the provider's original propagation model-based coverage map, and Commission staff will use this layer to update the broadband coverage map. In addition, to the extent that a provider does not later improve coverage for the relevant technology in an area where it conceded or lost a challenge, it must include this correction layer in its subsequent Broadband Data Collection filings to indicate the areas shown to lack service.
+
+[85 FR 50907, Aug. 18, 2020, as amended at 86 FR 18160, Apr. 7, 2021; 87 FR 21509, Apr. 11, 2022; 89 FR 66267, Aug. 15, 2024]

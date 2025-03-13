@@ -1,5 +1,7 @@
 ##### § 3280.113 Glass and glazed openings. #####
 
+Link to an amendment published at 89 FR 75745, Sept. 16, 2024.
+
 (a) *Windows and sliding glass doors.* All windows and sliding glass doors shall meet the requirements of § 3280.403 the “Standard for Windows and Sliding Glass Doors Used in Manufactured Homes”.
 
 (b) Required glazed openings shall be permitted to face into a roofed porch where the porch abuts a street, yard, or court and the longer side of the porch is at least 65 percent open and unobstructed and the ceiling height is not less than 7 feet.

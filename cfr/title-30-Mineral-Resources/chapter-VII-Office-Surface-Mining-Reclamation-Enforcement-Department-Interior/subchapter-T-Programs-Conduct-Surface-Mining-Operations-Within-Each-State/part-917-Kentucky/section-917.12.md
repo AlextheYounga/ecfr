@@ -1,7 +1,5 @@
 ##### § 917.12 State regulatory program and proposed program amendment provisions not approved. #####
 
-Link to an amendment published at 89 FR 66218, Aug. 15, 2024.
-
 (a) The Director does not approve the following provisions of the proposed program amendment concerning permit renewals that Kentucky submitted on April 23, 1998:
 
 (1) The phrase “\* \* \* if a permit has expired or \* \* \*” in KRS 350.060(16).
@@ -22,4 +20,6 @@ Link to an amendment published at 89 FR 66218, Aug. 15, 2024.
 
 (h) We are not approving 405 KAR 10:015 8(7).
 
-[65 FR 29953, May 10, 2000, as amended at 66 FR 33023, June 20, 2001; 67 FR 70009, Nov. 20, 2002; 68 FR 2199, Jan. 16, 2003; 68 FR 42274, July 17, 2003; 71 FR 54589, Sept. 18, 2006; 83 FR 3958, Jan. 29, 2018]
+(i) We are not approving revisions to KRS 350.0301 made by 2018 Ky. Acts ch. 85 that would have eliminated a requirement that Kentucky promulgate regulations providing that operators must place proposed civil penalty assessments into an escrow account prior to a formal hearing on the amount of the assessment.
+
+[65 FR 29953, May 10, 2000, as amended at 66 FR 33023, June 20, 2001; 67 FR 70009, Nov. 20, 2002; 68 FR 2199, Jan. 16, 2003; 68 FR 42274, July 17, 2003; 71 FR 54589, Sept. 18, 2006; 83 FR 3958, Jan. 29, 2018; 89 FR 66218, Aug. 15, 2024]

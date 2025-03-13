@@ -1,4 +1,4 @@
-##### § 79.103 Closed caption decoder requirements for apparatus. #####
+##### § 79.103 Closed caption decoder and display requirements for apparatus. #####
 
 (a) Effective January 1, 2014, all digital apparatus designed to receive or play back video programming transmitted simultaneously with sound, if such apparatus is manufactured in the United States or imported for use in the United States and uses a picture screen of any size must be equipped with built-in closed caption decoder circuitry or capability designed to display closed-captioned video programming pursuant to the provisions of this section, if technically feasible, except that apparatus that use a picture screen less than 13 inches in size must comply with the provisions of this section only if doing so is achievable as defined in this section.
 
@@ -62,4 +62,36 @@ Where video programming providers or distributors subject to § 79.4 of this par
 
 (d) *Interconnection.* All video outputs of covered apparatus shall be capable of conveying from the source device to the consumer equipment the information necessary to permit or render the display of closed captions.
 
-[77 FR 19518, Mar. 30, 2012, as amended at 78 FR 39628, July 2, 2013]
+(e) *Access to closed captioning display settings.* Manufacturers of apparatus subject to paragraph (a) of this section and multichannel video programming distributors must ensure that consumers are able to readily access user display settings for closed captioning on apparatus designed to receive or play back video programming transmitted simultaneously with sound, if such apparatus is manufactured in the United States or imported for use in the United States and uses a picture screen of any size, if technically feasible, except that the requirement does not apply to third-party, pre-installed applications, and for apparatus that use a picture screen of less than 13 inches in size the requirement is mandated only if doing so is achievable as defined in this section.
+
+(1) In determining whether closed captioning display settings are readily accessible, the Commission will require compliance with the following factors:
+
+(i) *Proximity.* This factor considers whether the closed captioning display settings are available in one area of the settings that is accessed via a means reasonably comparable to a button, key, or icon.
+
+(ii) *Discoverability.* This factor considers whether the user has the ability to easily find the closed captioning display settings. To ensure settings are discoverable, manufacturers of apparatus subject to paragraph (a) of this section and multichannel video programming distributors are required to:
+
+(A) Conduct usability testing to determine if caption display settings can be easily found by working with consumers and disability groups as part of the testing process;
+
+(B) Make good faith efforts to correct problems identified during the consumer testing process; and
+
+(C) Train customer-facing employees on how to advise customers with regard to caption display settings.
+
+(iii) *Previewability.* This factor considers whether viewers are able to preview the appearance of closed captions on programming on their screen while changing the closed captioning display settings.
+
+(iv) *Consistency and persistence.* This factor requires covered entities to:
+
+(A) With regard to an MVPD's provision of navigation devices, expose closed caption display settings via an application programming interface (API) or similar method that an over-the-top application provider can use upon launch of their application on the device. The API or similar method must enable the application provider to use the device-level caption settings for its own content, if it chooses, and covered entities must notify application developers about this API or similar method through any reasonable means;
+
+(B) With regard to providing an MVPD's own video programming application hosted on third-party devices, utilize the operating system-level closed caption settings of the apparatus upon launch of the application on the device; and
+
+(C) Ensure that apparatus they manufacture make closed caption settings available to applications via an API or similar method.
+
+(2) Compliance with this requirement is required for devices that use next generation operating systems deployed after FCC publishes a rule in the Federal Register establishing the compliance date.
+
+Note:
+
+The compliance date is after the Office of Management and Budget has completed its review of any information collection requirements that the Media Bureau determines is required under the Paperwork Reduction Act or August 17, 2026, whichever is later.
+
+(3) This paragraph (e) places no restrictions on the importing, shipping, or sale of apparatus that were manufactured before August 17, 2026.
+
+[77 FR 19518, Mar. 30, 2012, as amended at 78 FR 39628, July 2, 2013; 89 FR 66282, Aug. 15, 2024]

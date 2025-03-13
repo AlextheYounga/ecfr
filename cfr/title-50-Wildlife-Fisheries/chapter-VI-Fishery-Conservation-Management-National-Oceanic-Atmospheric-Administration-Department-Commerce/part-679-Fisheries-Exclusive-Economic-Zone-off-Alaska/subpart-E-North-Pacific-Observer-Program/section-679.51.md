@@ -1,7 +1,5 @@
 ##### § 679.51 Observer and Electronic Monitoring System requirements for vessels and plants. #####
 
-Link to an amendment published at 89 FR 66637, Aug. 16, 2024.
-
 (a) *Observer requirements for vessels*—(1) *Groundfish and halibut fishery partial coverage category*—(i) *Vessel classes in partial coverage category.* Unless otherwise specified in paragraph (a)(2) of this section, the following catcher vessels and catcher/processors are in the partial coverage category when fishing for halibut or when directed fishing for groundfish in a federally managed or parallel groundfish fishery, as defined at § 679.2:
 
 (A) A catcher vessel designated on an FFP under § 679.4(b)(1);
@@ -98,7 +96,7 @@ Link to an amendment published at 89 FR 66637, Aug. 16, 2024.
 
 (C) *Amendment 80 vessels and catcher/processors not listed in § 679.4(1)(2)(i) and using trawl gear in the BSAI.* All Amendment 80 vessels using any gear but dredge gear while directed fishing for scallops and catcher/processors not listed in § 679.4(1)(2)(i) and using trawl gear in the BSAI must have aboard at least two observers for each day that the vessel is used to catch, process, or receive groundfish harvested in a federally managed or parallel groundfish fishery. At least one observer must be endorsed as a lead level 2 observer. More than two observers are required if the observer workload restriction would otherwise preclude sampling as required.
 
-(D) *Catcher/processors participating in the Rockfish Program*—(*1*) *Rockfish cooperative.* A catcher/processor that is named on an LLP license that is assigned to a rockfish cooperative and is fishing under a CQ permit must have at least two observers aboard for each day that the vessel is used to catch or process fish in the Central GOA from May 1 through the earlier of November 15 or the effective date and time of an approved rockfish cooperative termination of fishing declaration. At least one observer must be endorsed as a lead level 2 observer. More than two observers must be aboard if the observer workload restriction would otherwise preclude sampling as required.
+(D) *Catcher/processors participating in the Rockfish Program*—(*1*) *Rockfish cooperative.* A catcher/processor that is named on an LLP license that is assigned to a rockfish cooperative and is fishing under a CQ permit must have at least two observers aboard for each day that the vessel is used to catch or process fish in the Central GOA from April 1 through the earlier of November 15 or the effective date and time of an approved rockfish cooperative termination of fishing declaration. At least one observer must be endorsed as a lead level 2 observer. More than two observers must be aboard if the observer workload restriction would otherwise preclude sampling as required.
 
 (*2*) *Rockfish sideboard fishery for catcher/processors in a rockfish cooperative.* A catcher/processor that is subject to a sideboard limit as described under § 679.82(e) must have at least two observers aboard for each day that the vessel is used to harvest or process fish in the West Yakutat District, Central GOA, or Western GOA management areas from July 1 through July 31. At least one observer must be endorsed as a lead level 2 observer. More than two observers must be aboard if the observer workload restriction would otherwise preclude sampling as required.
 
@@ -526,4 +524,4 @@ Link to an amendment published at 89 FR 66637, Aug. 16, 2024.
 
 (ii) [Reserved]
 
-[77 FR 70091, Nov. 21, 2012, as amended at 79 FR 54601, Sept. 12, 2014; 81 FR 26745, May 4, 2016; 81 FR 37556, June 10, 2016; 81 FR 67117, Sept. 30, 2016; 81 FR 70607, Oct. 13, 2016; 81 FR 95457, Dec. 28, 2016; 82 FR 37002, Aug. 8, 2017; 83 FR 30532, 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019; 85 FR 850, Jan. 8, 2020; 88 FR 53734, Aug. 8, 2023; 88 FR 77231, Nov. 9, 2023; 89 FR 60812, July 29, 2024]
+[77 FR 70091, Nov. 21, 2012, as amended at 79 FR 54601, Sept. 12, 2014; 81 FR 26745, May 4, 2016; 81 FR 37556, June 10, 2016; 81 FR 67117, Sept. 30, 2016; 81 FR 70607, Oct. 13, 2016; 81 FR 95457, Dec. 28, 2016; 82 FR 37002, Aug. 8, 2017; 83 FR 30532, 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019; 85 FR 850, Jan. 8, 2020; 88 FR 53734, Aug. 8, 2023; 88 FR 77231, Nov. 9, 2023; 89 FR 60812, July 29, 2024; 89 FR 66637, Aug. 16, 2024]

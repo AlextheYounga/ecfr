@@ -1,5 +1,7 @@
 ##### § 3280.804 Disconnecting means and branch-circuit protective equipment. #####
 
+Link to an amendment published at 89 FR 75756, Sept. 16, 2024.
+
 (a) The branch-circuit equipment is permitted to be combined with the disconnecting means as a single assembly. Such a combination is permitted to be designated as a distribution panelboard. If a fused distribution panelboard is used, the maximum fuse size for the mains shall be plainly marked, with the lettering at least 1/4-inch high and visible when fuses are changed. See Article 110-22 of NFPA 70-2005, National Electrical Code (incorporated by reference, see § 3280.4), concerning the identification of each disconnecting means and each service, feeder, or branch circuit at the point where it originated, and the type of marking needed.
 
 (b) Plug fuses and fuseholders shall be tamper-resistant, Type “S,” enclosed in dead-front fuse panelboards. Electrical distribution panels containing circuit breakers shall also be dead-front type.

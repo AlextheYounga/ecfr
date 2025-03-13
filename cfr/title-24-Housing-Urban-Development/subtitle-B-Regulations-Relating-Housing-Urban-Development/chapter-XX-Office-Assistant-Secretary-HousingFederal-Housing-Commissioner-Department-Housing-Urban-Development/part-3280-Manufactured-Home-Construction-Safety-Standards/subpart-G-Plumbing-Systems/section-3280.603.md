@@ -1,5 +1,7 @@
 ##### § 3280.603 General requirements. #####
 
+Link to an amendment published at 89 FR 75751, Sept. 16, 2024.
+
 (a) *Minimum requirements.* Any plumbing system installed in a manufactured home shall conform, at least, with the provisions of this subpart.
 
 (1) *General.* The plumbing system shall be of durable material, free from defective workmanship, and so designed and constructed as to give satisfactory service for a reasonable life expectancy.

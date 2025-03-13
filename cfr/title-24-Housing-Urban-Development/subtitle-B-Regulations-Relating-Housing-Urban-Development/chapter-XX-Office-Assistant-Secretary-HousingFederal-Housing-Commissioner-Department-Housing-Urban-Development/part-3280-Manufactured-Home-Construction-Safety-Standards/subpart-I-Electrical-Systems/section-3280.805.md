@@ -1,5 +1,7 @@
 ##### § 3280.805 Branch circuits required. #####
 
+Link to an amendment published at 89 FR 75757, Sept. 16, 2024.
+
 (a) The number of branch circuits required shall be determined in accordance with the following:
 
 (1) Lighting, based on 3 volt-amperes per square foot times outside dimensions of the manufactured home (coupler excluded) divided by 120 volts times amperes to determine number of 15 or 20 ampere lighting area circuits. e.g. [3 × length × width—[120 × (15 or 20)] = number of 15 or 20 ampere circuits. Lighting circuits are permitted to serve built-in gas ovens with electric service for lights, clocks, or timers, or for listed cord-connected garbage disposal units.

@@ -1,8 +1,6 @@
 ##### § 746.8 Sanctions against Russia and Belarus. #####
 
-Link to an amendment published at 89 FR 51664, June 18, 2024.Link to an amendment published at 89 FR 68543, Aug. 27, 2024.
-
-(a) *License requirements.* Except as described in the exclusions in paragraph (a)(12), and in addition to license requirements specified on the Commerce Control List (CCL) in supplement no. 1 to part 774 of the EAR and in other provisions of the EAR, including part 744 and other sections of part 746, a license is required as specified under paragraphs (a)(1) through (7). These license requirements follow an order of review, which provides guidance on the relationship between the different license requirements and which ones take precedence for certain items. For purposes of paragraphs (a)(5) through (7) of this section, a license is not required for any item that is listed in supplement nos. 4, 5 or 6 to this part that is also classified under an Export Control Classification Number (ECCN) on the Commerce Control List (CCL) in supplement no. 1 to part 774 of the EAR. *See* paragraph (a)(1) of this section and part 742 for license requirements for exports, reexports, and transfers to or within Russia or Belarus for items classified in ECCNs, as well as part 744 for end-use and end-user controls that may apply to your transaction. Paragraphs (a)(1) and (2) of this section, are also used for determining license requirements for exports, reexports, and transfers to or within Russia or Belarus of any item that is listed in supplement nos. 4, 5, or 6 to this part and is classified in an ECCN on the CCL in supplement no. 1 to part 774 of the EAR. License requirements in paragraph (a)(4) that apply to exports, reexports, and transfers (in-country) involved in certain end-uses should be reviewed only after license requirements in paragraphs (a)(1) through (a)(3) and (a)(5) through (a)(7) are reviewed.
+(a) *License requirements.* Except as described in the exclusions in paragraph (a)(12), and in addition to license requirements specified on the Commerce Control List (CCL) in supplement no. 1 to part 774 of the EAR and in other provisions of the EAR, including part 744 and other sections of part 746, a license is required as specified under paragraphs (a)(1) through (8) of this section. These license requirements follow an order of review, which provides guidance on the relationship between the different license requirements and which ones take precedence for certain items. For purposes of paragraphs (a)(5) through (7) of this section, a license is not required for any item that is listed in supplement nos. 4, 5 or 6 to this part that is also classified under an Export Control Classification Number (ECCN) on the Commerce Control List (CCL) in supplement no. 1 to part 774 of the EAR. *See* paragraph (a)(1) of this section and part 742 for license requirements for exports, reexports, and transfers to or within Russia or Belarus for items classified in ECCNs, as well as part 744 for end-use and end-user controls that may apply to your transaction. Paragraphs (a)(1) and (2) of this section, are also used for determining license requirements for exports, reexports, and transfers to or within Russia or Belarus of any item that is listed in supplement nos. 4, 5, or 6 to this part and is classified in an ECCN on the CCL in supplement no. 1 to part 774 of the EAR. License requirements in paragraph (a)(4) of this section that apply to exports, reexports, and transfers (in-country) involved in certain end uses should be reviewed only after license requirements in paragraphs (a)(1) through (3) and (5) through (8) of this section are reviewed.
 
 (1) *Items classified in any ECCN on the CCL.* A license is required to export, reexport, or transfer (in-country) to or within Russia or Belarus any item subject to the EAR and specified in any Export Control Classification Number (ECCN) on the CCL.
 
@@ -24,13 +22,17 @@ Note 2 to paragraph (a)(7):
 
 For purposes of paragraph (a)(7) of this section, a 'luxury good' means any item that is identified in supplement no. 5 to this part.
 
-(8)-(11) [Reserved]
+(8) *EAR99 designated software.* (i) A license is required to export, reexport, or transfer (in-country) to or within Russia or Belarus any “software” subject to the EAR and described in paragraph (a)(8)(ii) of this section.
+
+(ii) The following types of software subject to the EAR are in the scope of paragraph (a)(8): Enterprise resource planning (ERP); customer relationship management (CRM); business intelligence (BI); supply chain management (SCM); enterprise data warehouse (EDW); computerized maintenance management system (CMMS); project management software, product lifecycle management (PLM); building information modelling (BIM); computer aided design (CAD); computer-aided manufacturing (CAM); engineering to order (ETO); and software for the operation of computer numerical control (CNC) machine tools. The scope of paragraph (a)(8) also includes software updates for software identified in this paragraph that are subject to the EAR and designated as EAR99.
+
+(9)-(11) [Reserved]
 
 (12) *Exclusions from license requirements and scope of U.S.-origin controlled content.* Paragraphs (a)(12)(i), (ii), and (iii)(A) of this section exclude certain exports, reexports, and transfers (in-country) from the scope of the license requirements of this section. Paragraph (a)(12)(iii)(B) excludes certain items from the scope of U.S.-origin content for purposes of *de minimis* calculations from certain destinations.
 
 (i) *Deemed exports and deemed reexports.* The license requirements in paragraph (a) do not apply to deemed exports or reexports. However, the exclusion for deemed exports and deemed reexports is limited to the license requirements specified only in this section of the EAR. Any deemed export or deemed reexport to a Russian or Belarusian national must be made in accordance with all other applicable EAR license requirements, such as CCL-based license requirements. For example, the release of NS1 controlled technology to a Russian or Belarusian national in the United States or in a third country would require a CCL-based deemed export or deemed reexport license (as applicable). Consequently, authorization (in the form of a deemed export or deemed reexport license, or license exception eligibility) would be required under the EAR notwithstanding the exclusion in this paragraph (b).
 
-(ii) *Mass market encryption commodities and software.* Commodities specified under ECCN 5A991, and commodities and software classified under ECCNs 5A992.c or 5D992.c that have been 'classified in accordance with § 740.17,' do not require a license to or within Russia or Belarus for the following civil end-users:
+(ii) *Mass market encryption commodities and software, and software designated EAR99.* Commodities specified under ECCN 5A991, and commodities and software classified under ECCNs 5A992.c or 5D992.c that have been 'classified in accordance with § 740.17,' as well as software designated EAR99 and identified in paragraph (a)(8)(ii) of this section do not require a license to export, reexport, or transfer (in-country) to or within Russia or Belarus for the following civil end-users:
 
 (A) Wholly owned U.S. subsidiaries, branches, or sales offices;
 
@@ -52,11 +54,13 @@ For purposes of paragraph (a)(7) of this section, a 'luxury good' means any item
 
 (*2*) The foreign made item will be reexported or exported from abroad from a destination described in supplement no. 3 to this part.
 
+(iv) *Software designated EAR99.* Software that is subject to the EAR and designated EAR99 is excluded from the license requirement in paragraph (a)(8) when destined to entities engaged exclusively in the agriculture or medical industries.
+
 (b) *Licensing policy.* (1) License applications required under paragraph (a)(3) of this section will be reviewed under a policy of denial in all cases.
 
 (2) Applications for the export, reexport, or transfer (in-country) of any item pursuant to paragraph (a)(4) of this section that require a license for Russia or Belarus will be reviewed under a policy of denial when for use directly or indirectly for exploration or production from deepwater (greater than 500 feet), Arctic offshore, or shale projects in Russia or Belarus that have the potential to produce oil or gas.
 
-(3) Applications for the export, reexport, or transfer (in-country) of any item pursuant to paragraphs (a)(1), (2), and (5) through (7) of this section will be reviewed under a policy of denial. However, the following types of license applications submitted pursuant to paragraphs (a)(1), (2), and (5) through (7) of this section will be reviewed on a case-by-case basis to determine whether the transaction in question would benefit the Russian or Belarusian government or defense sector:
+(3) Applications for the export, reexport, or transfer (in-country) of any item pursuant to paragraphs (a)(1), (2), and (a)(5) through (8) of this section will be reviewed under a policy of denial. However, the following types of license applications submitted pursuant to paragraphs (a)(1), (2), and (4) through (8) will be reviewed on a case-by-case basis to determine whether the transaction in question would benefit the Russian or Belarusian government or defense sector:
 
 (i) Applications for export, reexport, or transfer (in-country) of items that may be necessary for health and safety reasons, including the safety of flight, maritime safety, and civil nuclear safety;
 
@@ -90,24 +94,24 @@ See also § 750.7(c)(1)(xi) of the EAR for the divesture of items within Russia 
 
 (1) No license exceptions may overcome the license requirements in paragraph (a)(3) of this section, except as specified in the entry for a Footnote 3 entity on the Entity List in supplement no. 4 to part 744 of the EAR.
 
-(2) No license exceptions may overcome the license requirements in paragraphs (a)(1), (2), and (4) through (7) of this section except the following:
+(2) No license exceptions may overcome the license requirements in paragraphs (a)(1), (2), and (4) through (8) of this section except the following:
 
-(i) License Exception TMP for items for use by the news media as set forth in § 740.9(a)(9) of the EAR may overcome the license requirements in paragraphs (a)(1), (2), (7) of this section.
+(i) License Exception TMP for items for use by the news media as set forth in § 740.9(a)(9) of the EAR.
 
-(ii) License Exception GOV (§ 740.11(b) of the EAR) may overcome the license requirements in paragraphs (a)(1), (2), and (4) through (7) of this section.
+(ii) License Exception GOV (§ 740.11(b) of the EAR).
 
-(iii) License Exception TSU for software updates for civil end-users that are wholly-owned U.S. subsidiaries, branches, or sales offices; foreign subsidiaries, branches, or sales offices of U.S. companies that are joint ventures with other U.S. companies; joint ventures of U.S. companies with companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740 of the EAR countries; the wholly-owned subsidiaries, branches, or sales offices of companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740; or joint ventures of companies headquartered in Country Group A:5 and A:6 with other companies headquartered in Country Groups A:5 and A:6 (§ 740.13(c) of the EAR) may overcome the license requirements in paragraphs (a)(1), (2), and (7) of this section.
+(iii) License Exception TSU for software updates for civil end-users that are wholly-owned U.S. subsidiaries, branches, or sales offices; foreign subsidiaries, branches, or sales offices of U.S. companies that are joint ventures with other U.S. companies; joint ventures of U.S. companies with companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740 of the EAR countries; the wholly-owned subsidiaries, branches, or sales offices of companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740; or joint ventures of companies headquartered in Country Group A:5 and A:6 with other companies headquartered in Country Groups A:5 and A:6 (§ 740.13(c) of the EAR).
 
-(iv) License Exception BAG, excluding firearms and ammunition (§ 740.14, excluding paragraph (e), of the EAR) may overcome the license requirements in paragraphs (a)(1) and (2) of this section.
+(iv) License Exception BAG, excluding firearms and ammunition (§ 740.14, excluding paragraph (e), of the EAR).
 
-(v) License Exception AVS, excluding any aircraft registered in, owned or controlled by, or under charter or lease by Russia or Belarus or a national of Russia or Belarus (§ 740.15(a) and (b) of the EAR) may overcome the license requirements in paragraphs (a)(1) and (2) of this section.
+(v) License Exception AVS, excluding any aircraft registered in, owned or controlled by, or under charter or lease by Russia or Belarus or a national of Russia or Belarus (§ 740.15(a) and (b) of the EAR).
 
-(vi) License Exception encryption commodities, software, and technology (ENC) for civil end-users that are wholly-owned U.S. subsidiaries, branches, or sales offices; foreign subsidiaries, branches, or sales offices of U.S. companies that are joint ventures with other U.S. companies; joint ventures of U.S. companies with companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740 of the EAR countries; the wholly-owned subsidiaries, branches, or sales offices of companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740; or joint ventures of companies headquartered in Country Group A:5 and A:6 with other companies headquartered in Country Groups A:5 and A:6 (§§ 740.13(c) and 740.17 of the EAR) may overcome the license requirements is paragraphs (a)(1) and (2) of this section.
+(vi) License Exception encryption commodities, software, and technology (ENC) for civil end-users that are wholly-owned U.S. subsidiaries, branches, or sales offices; foreign subsidiaries, branches, or sales offices of U.S. companies that are joint ventures with other U.S. companies; joint ventures of U.S. companies with companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740 of the EAR countries; the wholly-owned subsidiaries, branches, or sales offices of companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740; or joint ventures of companies headquartered in Country Group A:5 and A:6 with other companies headquartered in Country Groups A:5 and A:6 (§§ 740.13(c) and 740.17 of the EAR).
 
-(vii) License Exception CCD (§ 740.19 of the EAR) may overcome the license requirements in paragraphs (a)(1), (2), and (4) through (7) of this section.
+(vii) License Exception CCD (§ 740.19 of the EAR).
 
-(viii) License Exception MED (§ 740.23 of the EAR) may overcome the license requirements in paragraphs (a)(5) through (7) of this section.
+(viii) License Exception MED (§ 740.23 of the EAR).
 
 (d) *License Applications.* License applications submitted to BIS under this section may include the phrase “§ 746.8” and identify the paragraph (a) license requirement(s) from this section that are applicable. You should include a description such as “paragraph (a)(1) or any of the other paragraph (a) paragraphs that may be applicable to a license application” in Block 9 (Special Purpose) of your license application as described in supplement no. 1 to part 748 of the EAR.
 
-[89 FR 51662, June 18, 2024, as amended at 89 FR 68543, Aug. 27, 2024]
+[89 FR 51662, June 18, 2024, as amended at 89 FR 68543, Aug. 27, 2024; 89 FR 51664, June 18, 2024; 89 FR 68543, Aug. 27, 2024]

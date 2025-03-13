@@ -1,5 +1,7 @@
 ##### § 3280.109 Room requirements. #####
 
+Link to an amendment published at 89 FR 75744, Sept. 16, 2024.
+
 (a) Every manufactured home shall have at least one living area with not less than 150 sq. ft. of gross floor area.
 
 (b) Rooms designed for sleeping purposes shall have a minimum gross square foot floor area as follows:

@@ -1,3 +1,1 @@
-##### 2945.104 Review and correction of contractors' property control systems. #####
-
-When the Government's property administrator determines that review and approval of the contractor's property control system rests with DOL, the Government's property administrator must review the system to determine whether the contractor will be able to meet the requirements of FAR 45.104. The review must be completed, signed by the appointed property administrator, and retained in the contract file.
+##### 2945.104 Responsibility and liability for Government property. #####

@@ -1,7 +1,5 @@
 ##### § 679.7 Prohibitions. #####
 
-Link to an amendment published at 89 FR 66637, Aug. 16, 2024.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) *Groundfish of the GOA and BSAI*—(1) *Federal Fisheries Permit (FFP).* (i) Fish for groundfish in the BSAI or GOA with a vessel of the United States that does not have on board a legible copy of a valid FFP issued under § 679.4.
@@ -681,7 +679,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (iii) Operate a catcher/processor opt-out vessel, under § 679.81(e)(2), that is subject to sideboard provisions detailed in § 679.82(e) and (f), as applicable, and fail to follow the catch monitoring requirements detailed in § 679.84(d) from July 1 until July 31, if that vessel is harvesting fish in the West Yakutat District, Central GOA, or Western GOA management areas.
 
-(3) *VMS.* (i) Operate a vessel that is assigned to a rockfish cooperative and fail to use functioning VMS equipment as described at § 679.28(f) at all times when operating in a reporting area off Alaska from May 1:
+(3) *VMS.* (i) Operate a vessel that is assigned to a rockfish cooperative and fail to use functioning VMS equipment as described at § 679.28(f) at all times when operating in a reporting area off Alaska from April 1:
 
 (A) Until November 15; or
 
@@ -689,7 +687,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (ii) Operate a vessel that is subject to a sideboard limit detailed in § 679.82(e) and fail to use functioning VMS equipment as described in § 679.28(f) at all times when operating in a reporting area off Alaska from July 1 until July 31.
 
-(4) *Catcher/processor vessels that opt-out.* Operate a vessel that has opted-out of participating in a rockfish cooperative to directed fish for northern rockfish, Pacific ocean perch, or pelagic shelf rockfish in the Central GOA.
+(4) *Catcher/processor vessels that opt-out.* Operate a vessel that has opted-out of participating in a rockfish cooperative to directed fish for northern rockfish, Pacific ocean perch, or dusky rockfish in the Central GOA.
 
 (5) *Rockfish processors.* (i) Take deliveries of, or process, groundfish harvested by a catcher vessel fishing under the authority of a rockfish CQ permit unless operating as a shoreside processor.
 
@@ -711,7 +709,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (v) Operate a vessel assigned to a rockfish cooperative to fish under a CQ permit unless the rockfish cooperative has notified NMFS that the vessel is fishing under a CQ permit as described under § 679.5(r)(8).
 
-(vi) Operate a vessel fishing under the authority of a CQ permit in the catcher vessel sector and to have any Pacific ocean perch, pelagic shelf rockfish, northern rockfish, sablefish, Pacific cod, or thornyhead rockfish aboard the vessel unless those fish were harvested under the authority of a CQ permit.
+(vi) Operate a vessel fishing under the authority of a CQ permit in the catcher vessel sector and to have any Pacific ocean perch, dusky rockfish, northern rockfish, sablefish, Pacific cod, or thornyhead rockfish aboard the vessel unless those fish were harvested under the authority of a CQ permit.
 
 (vii) Catch and process onboard a vessel any rockfish primary species or rockfish secondary species harvested under the authority of a CQ permit issued to the catcher vessel sector.
 

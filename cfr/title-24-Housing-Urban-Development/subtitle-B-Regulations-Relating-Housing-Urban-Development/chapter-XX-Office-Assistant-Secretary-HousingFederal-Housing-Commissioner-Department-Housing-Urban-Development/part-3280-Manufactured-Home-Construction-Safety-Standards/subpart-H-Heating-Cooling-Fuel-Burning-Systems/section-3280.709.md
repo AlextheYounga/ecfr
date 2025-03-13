@@ -1,5 +1,7 @@
 ##### § 3280.709 Installation of appliances. #####
 
+Link to an amendment published at 89 FR 75755, Sept. 16, 2024.
+
 (a) The installation of each appliance must conform to the terms of its listing and the manufacturer's instructions. The manufactured home manufacturer must leave the appliance manufacturer's instructions attached to the appliance. Every appliance must be secured in place to avoid displacement. For the purpose of servicing and replacement, each appliance must be both accessible and removable.
 
 (1) A direct vent space heating appliance is permitted to be shipped loose for on-site installation in a basement provided the following:

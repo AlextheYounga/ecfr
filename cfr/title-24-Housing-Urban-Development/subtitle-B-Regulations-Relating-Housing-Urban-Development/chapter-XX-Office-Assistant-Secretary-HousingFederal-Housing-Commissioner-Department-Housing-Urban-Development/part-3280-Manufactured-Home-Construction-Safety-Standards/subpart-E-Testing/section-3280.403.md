@@ -1,5 +1,7 @@
 ##### § 3280.403 Requirements for windows, sliding glass doors, and skylights. #####
 
+Link to an amendment published at 89 FR 75750, Sept. 16, 2024.
+
 (a) *Scope.* This section establishes the requirements for prime windows and sliding glass doors, except that windows used in an entry door are components of the door and are excluded from these requirements.
 
 (b)(1) *Standard.* All primary windows and sliding glass doors shall comply with AAMA 1701.2-95, Voluntary Standard Primary Window and Sliding Glass Door for Utilization in Manufactured Housing, except the exterior and interior pressure tests must be conducted at the design wind loads required for components and cladding specified in § 3280.305(c)(1).

@@ -1,5 +1,7 @@
 ##### § 3280.204 Kitchen cabinet protection. #####
 
+Link to an amendment published at 89 FR 75745, Sept. 16, 2024.
+
 (a) The bottom and sides of combustible kitchen cabinets over cooking ranges to a horizontal distance of 6 inches from the outside edge of the cooking range shall be protected with at least 5/16-inch thick gypsum board or equivalent limited combustible material. One-inch nominal framing members and trim are exempted from this requirement. The cabinet area over the cooking range or cooktops shall be protected by a metal hood (26-gauge sheet metal, or .017 stainless steel, or .024 aluminum, or .020 copper) with not less than a 3-inch eyebrow projecting horizontally from the front cabinet face. The 5/16-inch thick gypsum board or equivalent material which is above the top of the hood may be supported by the hood. A 3/8-inch enclosed air space shall be provided between the bottom surface of the cabinet and the gypsum board or equivalent material. The hood shall be at least as wide as the cooking range.
 
 (b) The 3-inch metal eyebrow required by paragraph (a) of this section will project from the front and rear cabinet faces when there is no adjacent surface behind the range, or the 5/16-inch thick gypsum board or equivalent material shall be extended to cover all exposed rear surfaces of the cabinet.

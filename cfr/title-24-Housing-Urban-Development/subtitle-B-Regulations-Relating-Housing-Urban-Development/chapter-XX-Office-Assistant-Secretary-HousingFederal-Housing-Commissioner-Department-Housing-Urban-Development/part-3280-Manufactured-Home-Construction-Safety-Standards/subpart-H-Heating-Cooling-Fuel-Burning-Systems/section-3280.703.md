@@ -1,5 +1,7 @@
 ##### § 3280.703 Minimum standards. #####
 
+Link to an amendment published at 89 FR 75753, Sept. 16, 2024.
+
 Heating, cooling and fuel burning appliances and systems in manufactured homes shall be free of defects, and shall conform to applicable standards in the following table unless otherwise specified in this standard. (See § 3280.4) When more than one standard is referenced, compliance with any one such standard shall meet the requirements of this standard.
 
 AppliancesHeating and Cooling Equipment, Second Edition, with 1999 revisions—UL 1995, 1995.Liquid Fuel-Burning Heating Appliances for Manufactured Homes and Recreational Vehicles, Seventh Edition, with 1997 revisions—UL 307A-1995.Fixed and Location-Dedicated Electric Room Heaters, Second Edition, with 1998 revisions—UL 2021-1997.Electric Baseboard Heating Equipment, Fourth Edition, with 1998 revisions—UL 1042-1994.Electric Central Air Heating Equipment—UL 1096-Fourth Edition-1986 with revisions July 16, 1986, and January 30, 1988.Gas Burning Heating Appliances for Manufactured Homes and Recreational Vehicles, Fourth Edition, with 1998 revisions—UL 307B-1995.Gas Clothes Dryers Volume 1, Type 1 Clothes Dryers—ANSI Z21.5.1-/CSA 7.1-M99—1999 with Addendum Z21.5.1a-1999.Gas Fired Absorption Summer Air Conditioning Appliances—ANSI Z21.40.1/CGA 2.91-M961996.Gas-Fired Central Furnaces (Except Direct Vent System Central Furnaces)—ANSI Z21.47-1990 with Addendum Z21.47a-1990 and Z21.47b-1992.

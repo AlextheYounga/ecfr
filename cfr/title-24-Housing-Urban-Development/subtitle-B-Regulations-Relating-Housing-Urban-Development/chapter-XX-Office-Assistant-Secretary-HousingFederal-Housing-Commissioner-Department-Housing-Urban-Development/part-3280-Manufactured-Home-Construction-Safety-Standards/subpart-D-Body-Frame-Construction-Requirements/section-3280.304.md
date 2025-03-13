@@ -1,5 +1,7 @@
 ##### § 3280.304 Materials. #####
 
+Link to an amendment published at 89 FR 75748, Sept. 16, 2024.
+
 (a) Dimension and board lumber shall not exceed 19 percent moisture content at time of installation.
 
 (b)(1) Standards for some of the generally used materials and methods of construction are listed in the following table:

@@ -1,5 +1,7 @@
 ##### § 3285.801 Exterior close-up. #####
 
+Link to an amendment published at 89 FR 75758, Sept. 16, 2024.
+
 (a) Exterior siding and roofing necessary to join all sections of the home must be installed according to the product manufacturer installation instructions and must be fastened in accordance with designs and manufacturer instructions, consistent with §§ 3280.305 and 3280.307 of this chapter. Exterior close-up strips/trim must be fastened securely and sealed with exterior sealant (see figure A to this section).
 
 (b) *Joints and seams.* All joints and seams in exterior wall coverings that were disturbed during location of the home must be made weatherproof.

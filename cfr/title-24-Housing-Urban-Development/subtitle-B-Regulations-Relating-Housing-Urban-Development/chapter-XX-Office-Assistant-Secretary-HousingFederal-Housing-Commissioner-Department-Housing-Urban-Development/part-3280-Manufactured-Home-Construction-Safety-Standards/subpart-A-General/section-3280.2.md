@@ -1,5 +1,7 @@
 ##### § 3280.2 Definitions. #####
 
+Link to an amendment published at 89 FR 75737, Sept. 16, 2024.
+
 Definitions in this subpart are those common to all subparts of the standard and are in addition to the definitions provided in individual parts. The definitions are as follows:
 
 *Approved,* when used in connection with any material, appliance or construction, means complying with the requirements of the Department of Housing and Urban Development.

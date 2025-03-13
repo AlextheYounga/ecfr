@@ -1,0 +1,3 @@
+##### 2909.507-70 Contract clause. #####
+
+Contracting officers shall insert the clause at DOLAR 2952.209-70, Organizational Conflict of Interest Clause—OCI-1 Exclusion from Future Agency Contracts, in all solicitations and contracts for services, including construction services and architectural and engineering services, and any other contract to which the Contractor Officer deems the clause to be applicable.

@@ -1,5 +1,7 @@
 ##### § 3280.511 Comfort cooling certificate and information. #####
 
+Link to an amendment published at 89 FR 75751, Sept. 16, 2024.
+
 (a) The manufactured home manufacturer shall permanently affix a “Comfort Cooling Certificate” to an interior surface of the home that is readily visible to the home owner. This certificate may be combined with the heating certificate required in § 3280.510. The manufacturer shall comply with one of the following three alternatives in providing the certificate and additional information concerning the cooling of the manufactured home:
 
 (1) *Alternative I.* If a central air conditioning system is provided by the home manufacturer, the heat gain calculation necessary to properly size the air conditioning equipment shall be in accordance with procedures outlined in chapter 22 of the 1989 ASHRAE Handbook of Fundamentals, with an assumed location and orientation. The following shall be supplied in the Comfort Cooling Certificate:

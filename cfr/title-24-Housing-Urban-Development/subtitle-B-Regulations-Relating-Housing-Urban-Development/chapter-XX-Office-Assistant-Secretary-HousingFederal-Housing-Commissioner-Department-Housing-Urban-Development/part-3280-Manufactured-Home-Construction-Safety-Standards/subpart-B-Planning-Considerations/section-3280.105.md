@@ -1,5 +1,7 @@
 ##### § 3280.105 Exit facilities; exterior doors. #####
 
+Link to an amendment published at 89 FR 75744, Sept. 16, 2024.
+
 (a) *Number and location of exterior doors.* Manufactured homes shall have a minimum of two exterior doors located remote from each other.
 
 (1) Required egress doors shall not be located in rooms where a lockable interior door must be used in order to exit.

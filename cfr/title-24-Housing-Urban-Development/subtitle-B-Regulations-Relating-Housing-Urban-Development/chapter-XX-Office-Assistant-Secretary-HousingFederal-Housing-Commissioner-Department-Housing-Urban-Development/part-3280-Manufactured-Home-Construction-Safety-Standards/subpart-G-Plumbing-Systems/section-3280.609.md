@@ -1,5 +1,7 @@
 ##### § 3280.609 Water distribution systems. #####
 
+Link to an amendment published at 89 FR 75753, Sept. 16, 2024.
+
 (a) *Water supply*—(1) *Supply piping.* Piping systems shall be sized to provide an adequate quantity of water to each plumbing fixture at a flow rate sufficient to keep the fixture in a clean and sanitary condition without any danger of backflow or siphonage. (See table in § 3280.609(f)(1)). The manufacturer shall include in his written installation instructions that the manufactured home has been designed for an inlet water pressure of 80 psi, and a statement that when the manufactured home is to be installed in areas where the water pressure exceeds 80 psi, a pressure reducing valve should be installed.
 
 (2) *Hot water supply.* Each manufactured home equipped with a kitchen sink, and bathtub and/or shower shall be provided with a hot water supply system including a listed water heater.

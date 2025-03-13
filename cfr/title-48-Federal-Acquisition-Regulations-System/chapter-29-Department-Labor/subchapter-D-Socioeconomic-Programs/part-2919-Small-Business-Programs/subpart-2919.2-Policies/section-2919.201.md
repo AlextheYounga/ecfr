@@ -1,0 +1,3 @@
+##### 2919.201 General policy. #####
+
+The management of small and disadvantaged business utilization programs at DOL is the responsibility of the Program Manager of the Office of Small and Disadvantaged Business Utilization (OSDBU), within the OSPE. All DOL acquisition officials are responsible for providing opportunities to small businesses and small disadvantaged businesses in DOL acquisitions, in compliance with law, directives, and the FAR. Further information can be found at the OSDBU website, currently accessible at *https://www.dol.gov/agencies/oasam/centers-offices/office-of-the-senior-procurement-executive/office-of-small-and-disadvantaged-business-utilization,* or a successor website.

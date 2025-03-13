@@ -1,5 +1,7 @@
 ##### § 3280.404 Standard for egress windows and devices for use in manufactured homes. #####
 
+Link to an amendment published at 89 FR 75750, Sept. 16, 2024.
+
 (a) *Scope and purpose.* The purpose of this section is to establish the requirements for the design, construction, and installation of windows and approved devices intended to be used as an emergency exit during conditions encountered in a fire or similar disaster.
 
 (b) *Performance.* Egress windows including auxiliary frame and seals, if any, shall meet all requirements of AAMA 1701.2-95, Voluntary Standard Primary Window and Sliding Glass Door for Utilization in Manufactured Housing and AAMA Standard 1704-1985, Voluntary Standard Egress Window Systems for Utilization in Manufactured Housing, except the exterior and interior pressure tests for components and cladding must be conducted at the design wind loads required by § 3280.305(c)(1).

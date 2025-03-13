@@ -1,5 +1,7 @@
 ##### § 3286.205 Prerequisites for installation license. #####
 
+Link to an amendment published at 89 FR 75759, Sept. 16, 2024.
+
 (a) *Required experience.* (1) In order to obtain an installation license to perform manufactured home installations under the HUD-administered installation program, an individual must meet at least one of the following minimum experience requirements:
 
 (i) 1,800 hours of experience installing manufactured homes;

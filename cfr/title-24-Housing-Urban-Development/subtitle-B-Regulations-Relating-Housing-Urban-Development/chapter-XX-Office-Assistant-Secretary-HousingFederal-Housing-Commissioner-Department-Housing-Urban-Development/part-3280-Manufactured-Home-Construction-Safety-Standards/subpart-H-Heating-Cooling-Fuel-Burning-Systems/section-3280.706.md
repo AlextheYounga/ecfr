@@ -1,5 +1,7 @@
 ##### § 3280.706 Oil piping systems. #####
 
+Link to an amendment published at 89 FR 75754, Sept. 16, 2024.
+
 (a) *General.* The requirements of this section shall govern the installation of all liquid fuel piping attached to any manufactured home. None of the requirements listed in this section shall apply to the piping in the appliance(s).
 
 (b) *Materials.* All materials used for the installation extension, alteration, or repair, of any oil piping systems shall be new and free from defects or internal obstructions. The system shall be made of materials having a melting point of not less than 1,450 F, except as provided in § 280.706(d) and (e). They shall consist of one or more of the materials described in § 3280.706(b) (1) through (4).

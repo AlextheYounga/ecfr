@@ -1,5 +1,7 @@
 ##### § 3280.607 Plumbing fixtures. #####
 
+Link to an amendment published at 89 FR 75752, Sept. 16, 2024.
+
 (a) *General requirements*—(1) *Quality of fixtures.* Plumbing fixtures shall have smooth impervious surfaces, be free from defects and concealed fouling surfaces, be capable of resisting road shock and vibration, and shall conform in quality and design to listed standards. Fixtures shall be permanently marked with the manufacturer's name or trademark.
 
 (2) *Strainers.* The waste outlet of all plumbing fixtures, other than toilets, shall be equipped with a drain fitting that will provide an adequate unobstructed waterway.

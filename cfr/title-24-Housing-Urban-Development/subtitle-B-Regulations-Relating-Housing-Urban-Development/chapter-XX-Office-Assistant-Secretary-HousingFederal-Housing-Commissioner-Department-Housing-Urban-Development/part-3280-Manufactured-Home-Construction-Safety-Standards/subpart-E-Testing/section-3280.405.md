@@ -1,5 +1,7 @@
 ##### § 3280.405 Standard for swinging exterior passage doors for use in manufactured homes. #####
 
+Link to an amendment published at 89 FR 75750, Sept. 16, 2024.
+
 (a) *Introduction.* This standard applies to all exterior passage door units, excluding sliding doors and doors used for access to utilities and compartments. This standard applies only to the door frame consisting of jambs, head and sill and the attached door or doors.
 
 (b) *Performance requirements.* The design and construction of exterior door units must meet all requirements of AAMA 1702.2-95, Voluntary Standard Swinging Exterior Passage Door for Utilization in Manufactured Housing.

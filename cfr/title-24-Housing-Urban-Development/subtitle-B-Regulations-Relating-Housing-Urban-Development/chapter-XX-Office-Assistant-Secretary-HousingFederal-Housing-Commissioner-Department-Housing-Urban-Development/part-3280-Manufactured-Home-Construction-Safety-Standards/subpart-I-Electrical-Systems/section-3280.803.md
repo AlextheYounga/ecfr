@@ -1,5 +1,7 @@
 ##### § 3280.803 Power supply. #####
 
+Link to an amendment published at 89 FR 75756, Sept. 16, 2024.
+
 (a) The power supply to the manufactured home shall be a feeder assembly consisting of not more than one listed 50 ampere manufactured home power-supply cords, or a permanently installed circuit. A manufactured home that is factory-equipped with gas or oil-fired central heating equipment and cooking appliances shall be permitted to be provided with a listed manufactured home power-supply cord rated 40 amperes.
 
 (b) If the manufactured home has a power-supply cord, it shall be permanently attached to the distribution panelboard or to a junction box permanently connected to the distribution panelboard, with the free end terminating in an attachment plug cap.

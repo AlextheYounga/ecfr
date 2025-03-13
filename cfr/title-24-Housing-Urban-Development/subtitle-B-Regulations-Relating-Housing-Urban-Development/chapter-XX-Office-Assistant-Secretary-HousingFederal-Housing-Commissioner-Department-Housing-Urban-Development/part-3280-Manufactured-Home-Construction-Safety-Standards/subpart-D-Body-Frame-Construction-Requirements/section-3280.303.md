@@ -1,5 +1,7 @@
 ##### § 3280.303 General requirements. #####
 
+Link to an amendment published at 89 FR 75748, Sept. 16, 2024.
+
 (a) *Minimum requirements.* The design and construction of a manufactured home shall conform with the provisions of this standard. Requirements for any size, weight, or quality of material modified by the terms of *minimum, not less than, at least,* and similar expressions are minimum standards. The manufacturer or installer may exceed these standards provided such deviation does not result in any inferior installation or defeat the purpose and intent of this standard.
 
 (b) *Construction.* All construction methods shall be in conformance with accepted engineering practices to insure durable, livable, and safe housing and shall demonstrate acceptable workmanship reflecting journeyman quality of work of the various trades.

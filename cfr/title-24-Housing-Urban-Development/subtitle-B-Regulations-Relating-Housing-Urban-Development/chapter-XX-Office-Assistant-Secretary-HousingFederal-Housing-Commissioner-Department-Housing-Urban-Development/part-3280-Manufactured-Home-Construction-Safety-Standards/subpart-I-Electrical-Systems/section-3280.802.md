@@ -1,5 +1,7 @@
 ##### § 3280.802 Definitions. #####
 
+Link to an amendment published at 89 FR 75756, Sept. 16, 2024.
+
 (a) The following definitions are applicable to subpart I only.
 
 (1) *Accessible* (i) (*As applied to equipment*) means admitting close approach because not guarded by locked doors, elevation, or other effective means. (See *readily accessible.*)

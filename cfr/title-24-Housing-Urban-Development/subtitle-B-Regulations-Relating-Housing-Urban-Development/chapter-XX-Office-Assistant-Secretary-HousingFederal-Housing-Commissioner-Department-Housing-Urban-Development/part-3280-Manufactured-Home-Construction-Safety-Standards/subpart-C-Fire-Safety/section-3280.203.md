@@ -1,5 +1,7 @@
 ##### § 3280.203 Flame spread limitations and fire protection requirements. #####
 
+Link to an amendment published at 89 FR 75745, Sept. 16, 2024.
+
 (a) *Establishment of flame spread rating.* The surface flame spread rating of interior-finish material must not exceed the value shown in § 3280.203(b) when tested by Standard Test Method for Surface Burning Characteristics of Building Materials, ASTM E84-01, 2001, or Standard Method of Test of Surface Burning Characteristics of Building Materials NFPA 255, 1996, except that the surface flame spread rating of interior-finish materials required by § 3280.203(b)(5) and (6) may be determined by using the Standard Test Method for Surface Flammability of Materials Using a Radiant Heat Energy Source, ASTM E 162-94. However, the following materials need not be tested to establish their flame spread rating unless a lower rating is required by the standards in this part:
 
 (1) Flame-spread rating—76 to 200.

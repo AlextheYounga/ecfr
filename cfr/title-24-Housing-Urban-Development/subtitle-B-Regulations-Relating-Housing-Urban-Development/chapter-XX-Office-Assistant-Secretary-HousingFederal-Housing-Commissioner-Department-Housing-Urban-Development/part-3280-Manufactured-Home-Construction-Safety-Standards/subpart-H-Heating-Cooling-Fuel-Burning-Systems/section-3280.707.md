@@ -1,5 +1,7 @@
 ##### § 3280.707 Heat producing appliances. #####
 
+Link to an amendment published at 89 FR 75754, Sept. 16, 2024.
+
 (a) Heat-producing appliances and vents, roof jacks and chimneys necessary for their installation in manufactured homes shall be listed or certified by a nationally recognized testing agency for use in manufactured homes.
 
 (1) A manufactured home shall be provided with a comfort heating system.

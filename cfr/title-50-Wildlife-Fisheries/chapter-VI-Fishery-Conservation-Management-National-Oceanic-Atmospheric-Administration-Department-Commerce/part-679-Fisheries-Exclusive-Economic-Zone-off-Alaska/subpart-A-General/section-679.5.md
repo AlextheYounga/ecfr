@@ -1,7 +1,5 @@
 ##### § 679.5 Recordkeeping and reporting (R&R). #####
 
-Link to an amendment published at 89 FR 66637, Aug. 16, 2024.
-
 (a) *General R&R requirements.* R&R requirements include, but are not limited to, paper and electronic documentation, logbooks, forms, reports, receipts, computer printouts, and requests for inspection described in this section and in § 679.28.
 
 (1) *Groundfish logbooks and forms.* (i) The Regional Administrator will prescribe and provide groundfish logbooks required under this section. All groundfish forms required under this section are available from the Alaska Region website at *http://alaskafisheries.noaa.gov* or may be requested by calling the Sustainable Fisheries Division at 907-586-7228 or faxing 907-586-7465. The forms may be completed online, printed, and mailed or faxed to NMFS at the address or fax number shown on the form. The forms also may be completed online, saved as a file, and submitted to NMFS as an attachment to an e-mail to the e-mail address shown on the form.
@@ -1513,7 +1511,7 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (7) *Vessel monitoring system (VMS) requirements* (see § 679.28(f)).
 
-(8) *Rockfish cooperative vessel check-in and check-out report*—(i) *Applicability*—(A) *Vessel check-in.* The designated representative of a rockfish cooperative must designate any vessel that is authorized to fish under the rockfish cooperative's CQ permit before that vessel may fish under that CQ permit through a check-in procedure. The designated representative for a rockfish cooperative must submit to NMFS, in accordance with (8)(ii), a check-in designation for a vessel:
+(8) *Rockfish cooperative vessel check-in and check-out report*—(i) *Applicability*—(A) *Vessel check-in.* The designated representative of a rockfish cooperative must designate any vessel that is authorized to fish under the rockfish cooperative's CQ permit, or, if authorized by the rockfish cooperative, the operator of a vessel must do so, before that vessel may fish under that CQ permit through a check-in procedure. The designated representative for a rockfish cooperative or operator of the vessel must submit to NMFS, in accordance with paragraph (r)(8)(ii) of this section, a check-in designation for a vessel:
 
 (*1*) At least 24 hours prior to the time the catcher vessel begins a fishing trip to fish under a CQ permit; or
 
@@ -1521,13 +1519,13 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (*3*) A check-in designation is effective at the beginning of the first fishing trip after the designation has been submitted.
 
-(B) *Vessel check-out.* The designated representative of a rockfish cooperative must designate any vessel that is no longer fishing under a CQ permit for that rockfish cooperative through a check-out procedure. A check-out report must be submitted to NMFS, in accordance with (8)(ii), within 6 hours after the effective date and time the rockfish cooperative ends the vessel's authority to fish under the CQ permit.
+(B) *Vessel check-out.* The designated representative of a rockfish cooperative must designate any vessel that is no longer fishing under a CQ permit for that rockfish cooperative, or, if authorized by the rockfish cooperative, the operator of the vessel must do so, through a check-out procedure. A check-out report must be submitted to NMFS, in accordance with (r)(8)(ii) of this section, within 6 hours after the effective date and time the rockfish cooperative ends the vessel's authority to fish under the CQ permit.
 
 (*1*) If the vessel is fishing under a CQ permit for a catcher vessel cooperative, a check-out designation is effective at the end of a complete offload;
 
 (*2*) If the vessel is fishing under a CQ permit for a catcher/processor cooperative, a check-out designation is effective upon submission to NMFS.
 
-(ii) *Submittal.* The designated representative of the rockfish cooperative must submit a vessel check-in or check-out report electronically. The rockfish cooperative's designated representative must log into the online system and create a vessel check-in or vessel check-out request as indicated on the computer screen. By using the NMFS ID password and submitting the transfer request, the designated representative certifies that all information is true, correct, and complete.
+(ii) *Submittal.* The designated representative of the rockfish cooperative or, if authorized by the rockfish cooperative, the operator of a vessel must submit a vessel check-in or check-out report electronically. The rockfish cooperative's designated representative or vessel operator must log into the online system and create a vessel check-in or vessel check-out request as indicated on the computer screen. By using the NMFS ID password and submitting the transfer request, the designated representative or vessel operator certifies that all information is true, correct, and complete.
 
 (iii) *Information required.* The vessel check-in or check-out report must contain the following information:
 
@@ -1543,7 +1541,7 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (10) *Rockfish Ex-vessel Volume and Value Report*—(i) *Applicability.* A rockfish processor (as defined at § 679.2) that receives and purchases landings of rockfish CQ groundfish must submit annually to NMFS a complete Rockfish Ex-vessel Volume and Value Report, as described in this paragraph (r)(10), for each reporting period for which the rockfish processor receives rockfish CQ groundfish.
 
-(ii) *Reporting period.* The reporting period of the Rockfish Ex-vessel Volume and Value Report shall extend from May 1 through November 15 of each year.
+(ii) *Reporting period.* The reporting period of the Rockfish Ex-vessel Volume and Value Report shall extend from April 1 through November 15 of each year.
 
 (iii) *Due date.* A complete Rockfish Ex-vessel Volume and Value Report must be received by the Regional Administrator not later than December 1 of the year in which the rockfish processor received the rockfish CQ groundfish.
 
@@ -1551,7 +1549,7 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (B) *Certification.* By using the rockfish processor NMFS ID and password and submitting the report, the rockfish processor certifies that all information is true, correct, and complete to the best of his or her knowledge and belief.
 
-(v) *Submittal.* The rockfish processor must complete and submit online by electronic submission to NMFS the Rockfish Ex-vessel Volume and Value Report available at *https://alaskafisheries.noaa.gov.*
+(v) *Submittal.* The rockfish processor must complete and submit online by electronic submission to NMFS the Rockfish Ex-vessel Volume and Value Report available at the Alaska Region website.
 
 (s) *Amendment 80 Program*—(1) *General.* The owners and operators of Amendment 80 vessels must comply with the applicable recordkeeping and reporting requirements of this section. All owners of Amendment 80 vessels must ensure that their designated representatives or employees comply with all applicable recordkeeping and reporting requirements.
 

@@ -1,5 +1,7 @@
 ##### § 3280.714 Appliances, cooling. #####
 
+Link to an amendment published at 89 FR 75755, Sept. 16, 2024.
+
 (a) Every air conditioning unit or a combination air conditioning and heating unit shall be listed or certified by a nationally recognized testing agency for the application for which the unit is intended and installed in accordance with the terms of its listing.
 
 (1) Mechanical air conditioners shall be rated in accordance with the ARI Standard 210/240-89 Unitary Air Conditioning and Air Source Unitary Heat Pump Equipment (incorporated by reference, see § 3280.4) and certified by ARI or other nationally recognized testing agency capable of providing follow-up service.

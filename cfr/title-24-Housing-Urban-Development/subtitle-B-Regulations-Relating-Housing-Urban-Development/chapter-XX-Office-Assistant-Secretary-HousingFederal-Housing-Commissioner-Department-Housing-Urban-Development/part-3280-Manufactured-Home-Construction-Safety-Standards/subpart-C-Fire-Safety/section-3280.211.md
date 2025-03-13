@@ -1,5 +1,7 @@
 ##### § 3280.211 Carbon monoxide alarm requirements. #####
 
+Link to an amendment published at 89 FR 75745, Sept. 16, 2024.
+
 (a) *Labeling.* Carbon monoxide alarms shall be listed and must bear a label to evidence conformance with ANSI/UL 2034 (incorporated by reference, see § 3280.4). Combination carbon monoxide and smoke alarms shall be listed and must bear a label to evidence conformance with ANSI/UL 2034 and UL 217 (incorporated by reference, see § 3280.4).
 
 (b) *Required carbon monoxide alarm locations.* Carbon monoxide alarms must be installed in each home containing either a fuel burning appliance or designed by the home manufacturer to include an attached garage. Carbon monoxide alarms must be installed outside of each separate sleeping area in the immediate vicinity of the bedrooms and in accordance with the alarm manufacturer's installation instructions. Where a fuel-burning appliance is located within a bedroom or its attached bathroom, a carbon monoxide alarm must be installed within the bedroom and in accordance with the manufacturer's installation instructions. Carbon monoxide alarms must be installed in conformance with NFPA 720 (incorporated by reference, see § 3280.4).

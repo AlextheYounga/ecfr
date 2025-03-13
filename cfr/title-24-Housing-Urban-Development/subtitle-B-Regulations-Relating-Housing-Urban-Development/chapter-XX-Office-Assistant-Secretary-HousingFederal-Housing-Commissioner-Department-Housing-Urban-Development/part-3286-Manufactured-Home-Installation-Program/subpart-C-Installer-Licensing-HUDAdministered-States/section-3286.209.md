@@ -1,5 +1,7 @@
 ##### § 3286.209 Denial, suspension, or revocation of installation license. #####
 
+Link to an amendment published at 89 FR 75759, Sept. 16, 2024.
+
 (a) *Oversight.* The Secretary may make a continuing evaluation of the manner in which each licensed installer is carrying out his or her responsibilities under this subpart C.
 
 (b) *Denial, suspension, or revocation.* After notice and an opportunity for a presentation of views in accordance with subpart D of part 3282 of this chapter, the Secretary may deny, suspend, or revoke an installation license under this part. An installation license may be denied, suspended, or revoked for, among other things:

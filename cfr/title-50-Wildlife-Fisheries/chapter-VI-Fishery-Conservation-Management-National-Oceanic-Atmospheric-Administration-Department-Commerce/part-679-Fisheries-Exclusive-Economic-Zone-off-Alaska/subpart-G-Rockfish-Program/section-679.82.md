@@ -1,7 +1,5 @@
 ##### § 679.82 Rockfish Program use caps and sideboard limits. #####
 
-Link to an amendment published at 89 FR 66638, Aug. 16, 2024.
-
 (a) *Use caps*—(1) *General.* (i) Use caps limit the amount of rockfish QS that may be held or used by a rockfish eligible harvester and the amount of CQ that may be held or used by a rockfish cooperative, harvested by a vessel, or received or processed by a rockfish processor.
 
 (ii) Use caps do not apply to halibut PSC CQ.
@@ -20,19 +18,17 @@ Link to an amendment published at 89 FR 66638, Aug. 16, 2024.
 
 (ii) Forty (40.0) percent of the aggregate rockfish primary species QS initially assigned to the catcher/processor sector and resulting CQ unless that rockfish eligible harvester qualifies for an exemption to this use cap under paragraph (a)(6) of this section.
 
-(3) *Catcher vessel cooperative rockfish CQ use cap.* A catcher vessel rockfish cooperative may not hold or use an amount of rockfish primary species CQ during a calendar year that is greater than an amount resulting from 30.0 percent of the aggregate rockfish primary species QS initially assigned to the catcher vessel sector.
+(3) [Reserved]
 
-(4) *Vessel use cap.* (i) A catcher vessel may not harvest an amount of rockfish primary species CQ greater than 8.0 percent of the aggregate rockfish primary species CQ issued to the catcher vessel sector during a calendar year.
+(4) *Vessel use cap.* (i) A catcher vessel may not harvest an amount of Pacific ocean perch CQ greater than 8.0 percent of the Pacific ocean perch CQ issued to the catcher vessel sector during a calendar year.
 
 (ii) A catcher/processor vessel may not harvest an amount of rockfish primary species CQ greater than 60.0 percent of the aggregate rockfish primary species CQ issued to the catcher/processor sector during a calendar year.
 
-(5) *Use cap for rockfish processors.* (i) A rockfish processor may not receive or process an amount of rockfish primary species harvested with CQ assigned to the catcher vessel sector greater than 30.0 percent of the aggregate rockfish primary species CQ assigned to the catcher vessel sector during a calendar year.
+(5) *Use cap for rockfish processors.* (i) A rockfish processor may not receive or process an amount of rockfish primary species harvested with CQ assigned to the catcher vessel sector greater than 40.0 percent of the aggregate rockfish primary species CQ assigned to the catcher vessel sector during a calendar year.
 
-(ii) A rockfish processor may not receive or process an amount of Pacific cod harvested with CQ assigned to the catcher vessel sector greater than 30.0 percent of Pacific cod CQ issued to the catcher vessel sector during a calendar year.
+(ii) A rockfish processor may not receive or process an amount of Pacific cod harvested with CQ assigned to the catcher vessel sector greater than 40.0 percent of Pacific cod CQ issued to the catcher vessel sector during a calendar year.
 
-(iii) A rockfish processor may not receive or process an amount of sablefish harvested with CQ assigned to the catcher vessel sector greater than 30.0 percent of sablefish CQ issued to the catcher vessel sector during a calendar year.
-
-(iv) The amount of aggregate rockfish primary species, Pacific cod, or sablefish CQ assigned to the catcher vessel sector that is received by a rockfish processor is calculated based on the sum of all landings made with CQ received or processed by that rockfish processor and the CQ received or processed by any person affiliated with that rockfish processor as that term is defined in § 679.2.
+(iii) A rockfish processor may not receive or process an amount of sablefish harvested with CQ assigned to the catcher vessel sector greater than 40.0 percent of sablefish CQ issued to the catcher vessel sector during a calendar year.
 
 (6) *Use cap exemptions*—(i) *Rockfish QS.* A rockfish QS holder may receive an initial allocation of aggregate rockfish QS in excess of the use cap in that sector only if that rockfish QS is assigned to LLP license(s) held by that rockfish eligible harvester prior to June 14, 2010, and continuously through the time of application for rockfish QS.
 
@@ -170,4 +166,4 @@ Link to an amendment published at 89 FR 66638, Aug. 16, 2024.
 
 (B) In the arrowtooth flounder, deep-water flatfish, and rex sole fisheries if that vessel participated in a directed groundfish fishery for any of these three fisheries during any 2 years during the 2000 through 2006 qualifying period defined in paragraph (f)(2)(i) of this section.
 
-[76 FR 81277, Dec. 27, 2011, as amended at 86 FR 11904, Mar. 1, 2021]
+[76 FR 81277, Dec. 27, 2011, as amended at 86 FR 11904, Mar. 1, 2021; 89 FR 66638, Aug. 16, 2024]

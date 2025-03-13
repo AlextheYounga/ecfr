@@ -1,5 +1,7 @@
 ##### § 3280.801 Scope. #####
 
+Link to an amendment published at 89 FR 75756, Sept. 16, 2024.
+
 (a) Subpart I of this part and Part II of Article 550 of the National Electrical Code (NFPA No. 70-2005) cover the electrical conductors and equipment installed within or on manufactured homes and the conductors that connect manufactured homes to a supply of electricity.
 
 (b) In addition to the requirements of this part and Part II of Article 550 of the National Electrical Code (NFPA No. 70-2005), the applicable portions of other Articles of the National Electrical Code must be followed for electrical installations in manufactured homes. The use of arc-fault breakers under Articles 210.12(A) and (B), 440.65, and 550.25(A) and (B) of the National Electrical Code, NFPA No. 70-2005 is not required. However, if arc-fault breakers are provided, such use must be in accordance with the National Electrical Code, NFPA No. 70-2005. Wherever the requirements of this standard differ from the National Electrical Code, these standards apply.

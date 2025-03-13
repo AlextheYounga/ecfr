@@ -1,5 +1,7 @@
 ##### § 3280.103 Light and ventilation. #####
 
+Link to an amendment published at 89 FR 75744, Sept. 16, 2024.
+
 (a) *Lighting.* Each habitable room shall be provided with exterior windows and/or doors having a total glazed area of not less than 8 percent of the gross floor area.
 
 (1) Kitchens, bathrooms, toilet compartments, laundry areas, and utility rooms may be provided with artificial light in place of windows.

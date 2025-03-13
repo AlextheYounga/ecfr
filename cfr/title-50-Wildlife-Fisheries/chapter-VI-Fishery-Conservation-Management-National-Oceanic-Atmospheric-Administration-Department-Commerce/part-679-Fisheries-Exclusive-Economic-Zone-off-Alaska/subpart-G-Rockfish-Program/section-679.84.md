@@ -1,7 +1,5 @@
 ##### § 679.84 Rockfish Program recordkeeping, permits, monitoring, and catch accounting. #####
 
-Link to an amendment published at 89 FR 66638, Aug. 16, 2024.
-
 (a) *Recordkeeping and reporting. See § 679.5(r).*
 
 (b) *Permits. See § 679.4(n).*
@@ -42,13 +40,13 @@ Link to an amendment published at 89 FR 66638, Aug. 16, 2024.
 
 (2) *Catch weighing.* All groundfish landed by catcher vessels described in § 679.51(a)(2) must be sorted, weighed on a scale approved by the State of Alaska as described in § 679.28(c), and be made available for sampling by an observer, NMFS staff, or any individual authorized by NMFS. Any of these persons must be allowed to test any scale used to weigh groundfish to determine its accuracy.
 
-(g) *Catch accounting*—(1) *Rockfish primary species and rockfish secondary species.* All rockfish primary species and rockfish secondary species harvests (including harvests of those species in waters adjacent to the Central GOA that are deducted from the Federal TAC as specified under § 679.20) of a vessel, that is named on an LLP license that is assigned to a rockfish cooperative and fishing under a CQ permit, will be debited against the CQ for that rockfish cooperative from May 1:
+(g) *Catch accounting*—(1) *Rockfish primary species and rockfish secondary species.* All rockfish primary species and rockfish secondary species harvests (including harvests of those species in waters adjacent to the Central GOA that are deducted from the Federal TAC as specified under § 679.20) of a vessel, that is named on an LLP license that is assigned to a rockfish cooperative and fishing under a CQ permit, will be debited against the CQ for that rockfish cooperative from April 1:
 
 (i) Until November 15; or
 
 (ii) Until that rockfish cooperative has submitted a rockfish cooperative termination of fishing declaration that has been approved by NMFS.
 
-(2) *Rockfish halibut PSC.* All halibut PSC in the Central GOA (including halibut PSC in the waters adjacent to the Central GOA when rockfish primary species and rockfish secondary species caught by that vessel are deducted from the Federal TAC specified under § 679.20) used by a vessel, that is named on an LLP license that is assigned to a rockfish cooperative and fishing under a CQ permit, will be debited against the CQ for that rockfish cooperative from May 1,
+(2) *Rockfish halibut PSC.* All halibut PSC in the Central GOA (including halibut PSC in the waters adjacent to the Central GOA when rockfish primary species and rockfish secondary species caught by that vessel are deducted from the Federal TAC specified under § 679.20) used by a vessel, that is named on an LLP license that is assigned to a rockfish cooperative and fishing under a CQ permit, will be debited against the CQ for that rockfish cooperative from April 1,
 
 (i) Until November 15; or
 
@@ -58,4 +56,4 @@ Link to an amendment published at 89 FR 66638, Aug. 16, 2024.
 
 (4) *Halibut sideboard limits.* All halibut PSC in the GOA (including halibut PSC in the waters adjacent to the GOA when rockfish primary species and rockfish secondary species caught by that vessel are deducted from the Federal TAC specified under § 679.20) used by a catcher/processor vessel, except halibut PSC used by a vessel fishing under a CQ permit in the Central GOA, will be debited against the sideboard limit established for the rockfish cooperative or catcher/processor opt-out vessel, as applicable from July 1 until July 31.
 
-[67 FR 79734, Dec. 30, 2002, as amended at 77 FR 6502, Feb. 8, 2012; 81 FR 67118, Sept. 30, 2016; 83 FR 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019; 86 FR 11904, Mar. 1, 2021; 88 FR 77231, Nov. 9, 2023]
+[67 FR 79734, Dec. 30, 2002, as amended at 77 FR 6502, Feb. 8, 2012; 81 FR 67118, Sept. 30, 2016; 83 FR 30533, June 29, 2018; 84 FR 55053, Oct. 15, 2019; 86 FR 11904, Mar. 1, 2021; 88 FR 77231, Nov. 9, 2023; 89 FR 66638, Aug. 16, 2024]

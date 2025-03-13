@@ -1,6 +1,6 @@
 ##### § 1112.15 When can a third party conformity assessment body apply for CPSC acceptance for a particular CPSC rule or test method? #####
 
-Link to an amendment published at 89 FR 3351, Jan. 18, 2024.Link to an amendment published at 89 FR 46801, May 30, 2024.
+Link to an amendment published at 89 FR 3351, Jan. 18, 2024.
 
 (a) Once the CPSC publishes the requirements for accreditation to a particular CPSC rule or test method, a third party conformity assessment body may apply to the CPSC for acceptance to that scope of accreditation. An application may be made for acceptance of accreditation to more than one CPSC rule or test method. Once accepted by the CPSC, a third party conformity assessment body may apply at any time to expand the scope of its acceptance to include additional CPSC rules or test methods. A third party conformity assessment body may only issue test results for purposes of section 14 of the CPSA that fall within a scope for which the CPSC has accepted the third party conformity assessment body's accreditation.
 
@@ -20,7 +20,7 @@ Link to an amendment published at 89 FR 3351, Jan. 18, 2024.Link to an amendment
 
 (7) 16 CFR part 1221, Safety Standard for Play Yards;
 
-(8) 16 CFR part 1223, Safety Standard for Infant Swings;
+(8) 16 CFR part 1223, Safety Standard for Infant and Cradle Swings;
 
 (9) 16 CFR part 1224, Safety Standard for Portable Bed Rails;
 
@@ -122,7 +122,7 @@ Link to an amendment published at 89 FR 3351, Jan. 18, 2024.Link to an amendment
 
 (F) Section 4.6, Small Objects (except labeling and/or instructional literature requirements)
 
-(G) Section 4.7, Accessible Edges (except labeling and/or instructional literature equirements)
+(G) Section 4.7, Accessible Edges (except labeling and/or instructional literature requirements)
 
 (H) Section 4.8, Projections (except bath toy projections)
 

@@ -1,0 +1,9 @@
+##### § 1092.102 Submission and use of registration information. #####
+
+(a) *Filing instructions.* The Bureau shall specify the form and manner for electronic filings and submissions to the nonbank registry that are required or made voluntarily under this part. The Bureau also may provide for extensions of deadlines or time periods prescribed by this part for persons affected by declared disasters or other emergency situations.
+
+(b) *Coordination or combination of systems.* In administering the nonbank registry, the Bureau may rely on information a person previously submitted to the nonbank registry under this part and may coordinate or combine systems in consultation with State agencies as described in 12 U.S.C. 5512(c)(7)(C) and 12 U.S.C. 5514(b)(7)(D).
+
+(c) *Bureau use of registration information.* The Bureau may use the information submitted to the nonbank registry under this part to support its objectives and functions, including in determining when to exercise its authority under 12 U.S.C. 5514 to conduct examinations and when to exercise its enforcement powers under subtitle E of the Consumer Financial Protection Act of 2010. However, this part does not alter any applicable process whereby a person may dispute that it qualifies as a person subject to Bureau authority.
+
+(d) *Calculation of time periods.* In computing any date or period of time prescribed by this part, exclude the day of the event that triggers the period; count every day, including intermediate Saturdays, Sundays, and Federal holidays; and include the last day of the period. If any provision of this part would establish a deadline for an action that is a Saturday, Sunday, or Federal holiday, the deadline is extended to the next day that is not a Saturday, Sunday, or Federal holiday.

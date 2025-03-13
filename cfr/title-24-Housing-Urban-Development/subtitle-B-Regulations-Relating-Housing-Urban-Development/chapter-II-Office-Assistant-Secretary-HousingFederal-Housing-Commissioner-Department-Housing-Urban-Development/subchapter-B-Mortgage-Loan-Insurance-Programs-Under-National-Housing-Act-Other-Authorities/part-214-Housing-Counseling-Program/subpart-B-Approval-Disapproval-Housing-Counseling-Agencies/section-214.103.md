@@ -1,5 +1,7 @@
 ##### § 214.103 Approval criteria. #####
 
+Link to an amendment published at 89 FR 75501, Sept. 16, 2024.
+
 The following criteria for approval apply to all agencies, MSOs, and intermediaries, including all local housing counseling agencies, branches, and affiliates that are included in one application:
 
 (a) *Nonprofit and tax-exempt status.* A housing counseling agency must function as a private or public nonprofit organization, or be a unit of local, county, or state government. The agency must submit evidence of nonprofit status and tax-exempt status under section 501(a), pursuant to section 501(c) of the Internal Revenue Code of 1996 (26 U.S.C. 501(a) and (c)). Units of local, county, or state government must submit proof of their authorization to provide housing counseling services.

@@ -1,5 +1,7 @@
 ##### § 3280.811 Calculations. #####
 
+Link to an amendment published at 89 FR 75757, Sept. 16, 2024.
+
 (a) The following method shall be employed in computing the supply cord and distribution-panelboard load for each feeder assembly for each manufactured home and shall be based on a 3-wire, 120/240 volt supply with 120 volt loads balanced between the two legs of the 3-wire system. The total load for determining power supply by this method is the summation of:
 
 (1) Lighting and small appliance load as calculated below:

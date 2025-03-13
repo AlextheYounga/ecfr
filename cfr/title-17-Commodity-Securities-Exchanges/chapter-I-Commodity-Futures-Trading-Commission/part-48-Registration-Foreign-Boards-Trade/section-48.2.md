@@ -1,7 +1,5 @@
 ##### § 48.2 Definitions. #####
 
-Link to an amendment published at 89 FR 66208, Aug. 15, 2024.
-
 For purposes of this part:
 
 (a) *Foreign board of trade.* Foreign board of trade means any board of trade, exchange or market located outside the United States, its territories or possessions, whether incorporated or unincorporated.
@@ -32,17 +30,15 @@ For purposes of this part:
 
 (2) Defined as a central counterparty by the Recommendations for Central Counterparties.
 
-(h) *Existing no-action relief.* Existing no-action relief means a no-action letter issued by a division of the Commission to the foreign board of trade in which the division informs the foreign board of trade that it will not recommend that the Commission institute enforcement action against the foreign board of trade if the foreign board of trade does not seek designation as either a designated contract market pursuant to section 5 of the Act or a derivatives transaction execution facility pursuant to section 5a of the Act in connection with the granting of direct access.
+(h) *Swap.* Swap means a swap as defined in section 1a(47) of the Act and any Commission regulation further defining the term adopted thereunder.
 
-(i) *Swap.* Swap means a swap as defined in section 1a(47) of the Act and any Commission regulation further defining the term adopted thereunder.
-
-(j) *Recommendations for Central Counterparties.* Recommendations for Central Counterparties means:
+(i) *Recommendations for Central Counterparties.* Recommendations for Central Counterparties means:
 
 (1) The current Recommendations for Central Counterparties issued jointly by the Committee on Payment and Settlement Systems and the Technical Committee of the International Organization of Securities Commissions as updated, revised or otherwise amended; or
 
 (2) Successor standards, principles and guidance for central counterparties or financial market infrastructures adopted jointly by the Technical Committee of the International Organization of Securities Commissions and the Committee on Payment and Settlement Systems.
 
-(k) *Affiliate.* An affiliate of a registered foreign board of trade member or other participant means any person, as that term is defined in section 1a(38) of the Act, that:
+(j) *Affiliate.* An affiliate of a registered foreign board of trade member or other participant means any person, as that term is defined in section 1a(38) of the Act, that:
 
 (1) Owns 50% or more of the member or other participant;
 
@@ -50,4 +46,6 @@ For purposes of this part:
 
 (3) Is owned 50% or more by a third person that also owns 50% or more of the member or other participant.
 
-(l) *Member or other participant.* Member or other participant means a member or other participant of a foreign board of trade that is registered under this part and any affiliate thereof that has been granted direct access by the foreign board of trade.
+(k) *Member or other participant.* Member or other participant means a member or other participant of a foreign board of trade that is registered under this part and any affiliate thereof that has been granted direct access by the foreign board of trade.
+
+[76 FR 80698, Dec. 23, 2011, as amended at 89 FR 66208, Aug. 15, 2024]

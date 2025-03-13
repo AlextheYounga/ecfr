@@ -1,7 +1,5 @@
 ##### § 48.9 Revocation of registration. #####
 
-Link to an amendment published at 89 FR 66209, Aug. 15, 2024.
-
 (a) Failure to Satisfy Registration Requirements or Conditions:
 
 (1) If the Commission determines that a registered foreign board of trade or the clearing organization has failed to satisfy any registration requirements or conditions for registration, the Commission shall notify the foreign board of trade of such determination, including the particular requirements or conditions that are not being satisfied, and shall afford the foreign board of trade or clearing organization an opportunity to make appropriate changes to bring it into compliance.
@@ -20,4 +18,8 @@ Link to an amendment published at 89 FR 66209, Aug. 15, 2024.
 
 (4) The Commission may revoke a foreign board of trade's registration in the event the foreign board of trade or the clearing organization is no longer authorized, licensed or registered, as applicable, as a regulated market and/or exchange or clearing organization or ceases to operate as a foreign board of trade or clearing organization, subject to notice and an opportunity to respond.
 
+(5) The Commission may revoke a foreign board of trade's registration in response to a voluntary request by the foreign board of trade to vacate its registration. A foreign board of trade may file a request to vacate its registration with the Secretary of the Commission at *FBOTapplications@cftc.gov.*
+
 (c) Upon request by the Commission, a registered foreign board of trade must file with the Commission a written demonstration, containing such supporting data, information, and documents, in such form and manner and within such timeframe as the Commission may specify, that the foreign board of trade or clearing organization is in compliance with the registration requirements and/or conditions for registration.
+
+[76 FR 80698, Dec. 23, 2011, as amended at 89 FR 66209, Aug. 15, 2024]

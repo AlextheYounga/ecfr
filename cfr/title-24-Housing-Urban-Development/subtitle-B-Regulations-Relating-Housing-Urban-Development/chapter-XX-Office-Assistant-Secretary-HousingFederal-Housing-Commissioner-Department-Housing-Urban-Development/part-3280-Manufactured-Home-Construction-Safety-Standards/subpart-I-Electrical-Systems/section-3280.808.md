@@ -1,5 +1,7 @@
 ##### § 3280.808 Wiring methods and materials. #####
 
+Link to an amendment published at 89 FR 75757, Sept. 16, 2024.
+
 (a) Except as specifically permitted by this part, the wiring methods and materials specified in the National Electrical Code, NFPA No. 70-2005, must be used in manufactured homes.
 
 (b) Nonmetallic outlet boxes shall be acceptable only with nonmetallic cable.

@@ -1,5 +1,7 @@
 ##### § 3280.705 Gas piping systems. #####
 
+Link to an amendment published at 89 FR 75754, Sept. 16, 2024.
+
 (a) *General.* The requirements of this section shall govern the installation of all fuel gas piping attached to any manufactured home. The gas piping supply system shall be designed for a pressure not exceeding 14 inch water column (1/2 psi) and not less than 7 inch water column (1/4 psi). The manufacturer shall indicate in his written installation instructions the design pressure limitations for safe and effective operation of the gas piping system. None of the requirements listed in this section shall apply to the piping supplied as a part of an appliance. All exterior openings around piping, ducts, plenums or vents shall be sealed to resist the entrance of rodents.
 
 (b) *Materials.* All materials used for the installation, extension, alteration, or repair of any gas piping system shall be new and free from defects or internal obstructions. It shall not be permissible to repair defects in gas piping or fittings. Inferior or defective materials shall be removed and replaced with acceptable material. The system shall be made of materials having a melting point of not less than 1,450 F, except as provided in § 3280.705(e). They shall consist of one or more of the materials described in § 3280.705(b) (1) through (4).

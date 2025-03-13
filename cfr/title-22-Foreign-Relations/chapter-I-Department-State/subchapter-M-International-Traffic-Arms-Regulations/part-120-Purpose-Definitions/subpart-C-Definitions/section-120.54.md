@@ -1,7 +1,5 @@
 ##### § 120.54 Activities that are not exports, reexports, retransfers, or temporary imports. #####
 
-Link to an amendment published at 89 FR 66214, Aug. 15, 2024.
-
 (a) The following activities are not exports, reexports, retransfers, or temporary imports:
 
 (1) Launching a spacecraft, launch vehicle, payload, or other item into space;
@@ -26,7 +24,23 @@ Note 1 to paragraph (a)(5)(iv):
 
 Data in-transit via the internet is not deemed to be stored.
 
-(v) Not sent from a country proscribed in § 126.1 of this subchapter or the Russian Federation.
+(v) Not sent from a country proscribed in § 126.1 of this subchapter or the Russian Federation;
+
+(6) The taking of a defense article subject to the reexport or retransfer requirements of this subchapter on a deployment or training exercise outside a previously approved country, provided:
+
+(i) There is no change in end-use or end-user with respect to the defense article;
+
+(ii) The defense article is transported by and remains in the possession of the previously authorized armed forces of a foreign government or United Nations military personnel; and
+
+(iii) The defense article is not being exported from or temporarily imported into the United States; and
+
+(7) The transfer of a foreign defense article previously imported into the United States that has since been exported from the United States pursuant to a license or other approval under this subchapter, provided:
+
+(i) The foreign defense article was not modified, enhanced, upgraded, or otherwise altered or improved in a manner that changed the basic performance of the item prior to its return to the country from which it was imported or a third country;
+
+(ii) A U.S.-origin defense article was not incorporated into the foreign defense article; and
+
+(iii) The defense article is not being exported from or temporarily imported into the United States.
 
 (b)(1) For purposes of this section, end-to-end encryption is defined as:
 
@@ -37,3 +51,5 @@ Data in-transit via the internet is not deemed to be stored.
 (2) The originator and the intended recipient may be the same person. The intended recipient must be the originator, a U.S. person in the United States, or a person otherwise authorized to receive the technical data, such as by a license or other approval pursuant to this subchapter.
 
 (c) The ability to access technical data in encrypted form that satisfies the criteria set forth in paragraph (a)(5) of this section does not constitute the release or export of such technical data.
+
+[87 FR 16411, Mar. 23, 2022, as amended at 89 FR 66214, Aug. 15, 2024]

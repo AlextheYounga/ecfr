@@ -1,5 +1,7 @@
 ##### § 3280.702 Definitions. #####
 
+Link to an amendment published at 89 FR 75753, Sept. 16, 2024.
+
 The definitions in this subpart apply to subpart H only.
 
 *Accessible,* when applied to a fixture, connection, appliance or equipment, means having access thereto, but which may require the removal of an access panel, door or similar obstruction.
