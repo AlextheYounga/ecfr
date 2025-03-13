@@ -8,6 +8,6 @@
 
 (d) In the case of vessels having no longitudinal welded joints, at least one set of test plates must be welded for each vessel, using the circumferential joint process, procedure, and technique, except that the provisions of § 57.06-2(a) also apply for Classes I and I-L vessels, and that the provisions of § 57.06-2(a) and (c) also apply for Classes II and II-L vessels.
 
-Figure 1 to § 57.06-3(d)—(PW-53.2) Method of Forming Longitudinal Test Plates![](/graphics/er12jn24.010.gif)
+Figure 1 to § 57.06-3(d)—(PW-53.2) Method of Forming Longitudinal Test Plates ![](/graphics/er12jn24.010.gif)
 
 (e) Test plates must be made by the same welder producing the longitudinal and circumferential joints. If more than one welder is employed in the welding of the pressure vessel(s), the test plates must be made by the welder designated by the marine inspector. The test plates must be of the same thickness as the material being welded and must be of sufficient size to provide two specimens of each type required, except that in the case of pressure vessels having no longitudinal seams, the test plate need be only of sufficient length to provide one set of test specimens, and if a retest is necessary, an additional set of test plates may be welded separately.

@@ -1,4 +1,4 @@
-##### § 11.442 Requirements for master of Great Lakes and inland self-propelled vessels of less than 1,600 GRT. #####
+##### § 11.442 Requirements for Master of Great Lakes and inland self-propelled vessels of less than 1,600 GRT. #####
 
 (a) The minimum service required to qualify an applicant for an endorsement as Master of Great Lakes and inland self-propelled vessels of less than 1,600 GRT is—
 

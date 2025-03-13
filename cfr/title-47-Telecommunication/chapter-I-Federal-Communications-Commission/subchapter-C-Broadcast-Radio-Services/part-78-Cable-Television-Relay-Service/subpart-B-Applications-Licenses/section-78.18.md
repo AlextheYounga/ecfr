@@ -480,7 +480,7 @@ Frequency Band (MHz)1990-20082008-20252025-20422042-20592059-20762076-20932093-2
 
 (ii) After a licensee has been relocated in accordance with the provisions of § 78.40, operations will be in the band 2025-2110 MHz. The following channel plan will apply, subject to the provisions of § 74.604 of this part:
 
-Frequency Band (MHz) 2025.5-2037.5 2037.5-2049.5 2049.5-2061.5 2061.5-2073.5 2073.5-2085.5 2085.5-2097.5 2097.5-2109.5
+Frequency Band (MHz)2025.5-2037.52037.5-2049.52049.5-2061.52061.5-2073.52073.5-2085.52085.5-2097.52097.5-2109.5
 
 (7) *6875-7125 MHz—Mobile only.* Use of this spectrum for direct delivery of video programs to the general public or multi-channel cable distribution is not permitted. This band is co-equally shared with stations licensed pursuant to parts 74 and 101 of the Commission's Rules. (Common carriers may use this band pursuant to provisions of § 101.803(b)). The following channeling plan applies subject to the provisions of § 74.604.
 

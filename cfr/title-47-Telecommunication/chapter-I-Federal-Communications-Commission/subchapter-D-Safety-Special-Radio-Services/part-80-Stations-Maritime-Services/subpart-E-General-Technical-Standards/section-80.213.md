@@ -20,7 +20,7 @@
 
 (g) Radar stations operating in the bands above 2.4 GHz may use any type of modulation consistent with the bandwidth requirements in § 80.209(b).
 
-(h) Radar transponder coast stations using the 2900-3100 MHz or 9300-9500 MHz band must operate in a variable frequency mode and respond on their operating frequencies with a maximum error equivalent to 100 meters. Additionally, their response must be encoded with a Morse character starting with a dash. The duration of a Morse dot is defined as equal to the width of a space and 1/3 of the width of a Morse dash. The duration of the response code must not exceed 50 microseconds. The sensitivity of the stations must be adjustable so that received signals below −10 dBm at the antenna will not activate the transponder. Antenna polarization must be horizontal when operating in the 9300-9500 MHz band and either horizontal or both horizontal and vertical when operating in the 2900-3100 MHz band. Racons using frequency agile transmitting techniques must include circuitry designed to reduce interference caused by triggering from radar antenna sidelobes.
+(h) Radar transponder coast stations using the 2900-3100 MHz or 9300-9500 MHz band must operate in a variable frequency mode and respond on their operating frequencies with a maximum error equivalent to 100 meters. Additionally, their response must be encoded with a Morse character starting with a dash. The duration of a Morse dot is defined as equal to the width of a space and1/3 of the width of a Morse dash. The duration of the response code must not exceed 50 microseconds. The sensitivity of the stations must be adjustable so that received signals below −10 dBm at the antenna will not activate the transponder. Antenna polarization must be horizontal when operating in the 9300-9500 MHz band and either horizontal or both horizontal and vertical when operating in the 2900-3100 MHz band. Racons using frequency agile transmitting techniques must include circuitry designed to reduce interference caused by triggering from radar antenna sidelobes.
 
 (i) Variable frequency ship station transponders operating in the 2900-3100 MHz or 9300-9500 MHz band that are not used for search and rescue purposes must meet the following requirements:
 
@@ -28,7 +28,7 @@
 
 (i) They must respond on all their frequencies with a maximum range error equivalent to 100 meters;
 
-(ii) They must use a Morse encoding of “PS” (dot-dash-dash-dot, dot-dot-dot), meaning “You should not come any closer”. The width of a Morse dot is defined as equal to the width of a space and 1/3 of the width of a Morse dash;
+(ii) They must use a Morse encoding of “PS” (dot-dash-dash-dot, dot-dot-dot), meaning “You should not come any closer”. The width of a Morse dot is defined as equal to the width of a space and1/3 of the width of a Morse dash;
 
 (iii) When they employ swept frequency techniques they must not transmit on any frequency for more than 10 seconds in any 120 second period;
 

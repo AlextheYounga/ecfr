@@ -22,7 +22,7 @@
 
 (3) Provide evidence of passing a physical and medical examination according to § 13.125;
 
-(4) Provide evidence in a method prescribed by the Coast Guard, which must be dated within the 5 years prior to the application for the credential, on company letterhead from the operator of the facility stating that OSHA considers the applicant a “competent person (as designated under 29 CFR 1915.7)” for the facility and that the applicant has the knowledge necessary to supervise tank-cleaning and gas-freeing; and
+(4) Provide evidence in a method prescribed by the Coast Guard, which must be dated within the 5 years prior to the application for the credential, from the operator of the facility stating that OSHA considers the applicant a “competent person (as designated under 29 CFR 1915.7)” for the facility and that the applicant has the knowledge necessary to supervise tank-cleaning and gas-freeing; and
 
 (5) Be capable of speaking and understanding, in English, all instructions needed to commence, conduct, and complete a transfer of cargo, and of reading and understanding the English found in the Declaration of Inspection, vessel response plans, and Cargo Information Cards.
 

@@ -12,7 +12,7 @@
 
 (5) Same as paragraph (a)(3) of this section, but 5 mm from the fusion line.
 
-Figure 1 to § 54.05-15(a)—Charpy V-Notch Specimen Removal Details![](/graphics/er12jn24.000.gif)
+Figure 1 to § 54.05-15(a)—Charpy V-Notch Specimen Removal Details ![](/graphics/er12jn24.000.gif)
 
 (b) Plate materials for which Charpy V-notch minimums are not specified, or for which a Charpy V-notch correlation with NDT is not known, and which are themselves tested for toughness by the drop-weight procedure, must have welding procedures similarly qualified by the drop-weight test. For such qualifications, two drop-weight specimens are to be tested, with the notch positioned directly above and parallel to the centerline of the weld.
 

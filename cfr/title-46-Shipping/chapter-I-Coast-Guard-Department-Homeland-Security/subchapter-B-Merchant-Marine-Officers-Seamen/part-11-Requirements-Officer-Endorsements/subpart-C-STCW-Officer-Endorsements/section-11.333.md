@@ -1,4 +1,4 @@
-##### § 11.333 Requirements to qualify for an STCW endorsement as second engineer officer on vessels powered by main propulsion machinery of 750kW/1,000 HP or more and less than 3,000 kW/4,000 HP propulsion power (management level). #####
+##### § 11.333 Requirements to qualify for an STCW endorsement as Second Engineer Officer on vessels powered by main propulsion machinery of 750kW/1,000 HP or more and less than 3,000 kW/4,000 HP propulsion power (management level). #####
 
 (a) To qualify for an STCW endorsement as Second Engineer Officer, an applicant must—
 

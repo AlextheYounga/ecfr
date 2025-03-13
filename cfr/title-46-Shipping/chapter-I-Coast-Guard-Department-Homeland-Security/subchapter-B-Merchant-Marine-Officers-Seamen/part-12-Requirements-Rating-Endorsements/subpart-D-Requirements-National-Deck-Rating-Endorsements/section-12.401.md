@@ -42,4 +42,4 @@
 
 (3) The Able Seafarer endorsement will clearly describe the type of rating that it represents (see paragraph (a) of this section).
 
-[USCG-2004-17914, 78 FR 77975, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93099, Nov. 25, 2024; USCG-2021-0834, 89 FR 102336, Dec. 17, 2024]
+[USCG-2021-0097, 89 FR 93099, Nov. 25, 2024, as amended by USCG-2021-0834, 89 FR 102336, Dec. 17, 2024]

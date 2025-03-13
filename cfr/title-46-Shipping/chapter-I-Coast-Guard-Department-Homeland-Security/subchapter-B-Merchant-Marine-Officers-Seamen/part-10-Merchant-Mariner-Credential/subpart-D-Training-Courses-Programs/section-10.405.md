@@ -8,7 +8,7 @@
 
 (3) Possession of the level of endorsement, or other professional credential, which provides proof that they have attained a level of experience and qualification equal or superior to the relevant level of knowledge, skills, and abilities to be assessed.
 
-(b) To become a DE for towing officer assessment records (TOARs), an applicant must have documentary evidence to establish—
+(b) To become a Designated Examiner (DE) for towing officer assessment records (TOARs), an applicant must have documentary evidence to establish—
 
 (1) Experience, training, or instruction in assessment techniques on towing vessels;
 

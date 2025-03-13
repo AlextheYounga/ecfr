@@ -1,4 +1,4 @@
-##### § 11.435 Requirements for master of inland self-propelled vessels of unlimited tonnage. #####
+##### § 11.435 Requirements for Master of inland self-propelled vessels of unlimited tonnage. #####
 
 (a) The minimum service required to qualify an applicant for an endorsement as Master of self-propelled vessels of unlimited tonnage on inland waters, excluding the Great Lakes is—
 

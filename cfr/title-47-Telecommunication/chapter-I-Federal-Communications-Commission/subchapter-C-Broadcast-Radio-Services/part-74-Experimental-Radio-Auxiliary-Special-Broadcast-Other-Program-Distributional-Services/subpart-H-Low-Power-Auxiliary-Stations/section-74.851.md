@@ -32,4 +32,4 @@
 
 (4) The consumer disclosure text described in paragraph (l)(1) of this section is set forth as Figure 1 to this paragraph.
 
-![](/graphics/er12mr18.005.gif)(Sec. 5, 48 Stat. 1068; 47 U.S.C. 155) [42 FR 14729, Mar. 16, 1977, as amended at 42 FR 43637, Aug. 22, 1977; 43 FR 13576, Mar. 31, 1978; 63 FR 36605, July 7, 1998; 75 FR 3639, Jan. 22, 2010; 80 FR 71729, Nov. 17, 2015; 82 FR 41561, Sept. 1, 2017; 83 FR 10640, 10643, Mar. 12, 2018]
+![](/graphics/er12mr18.005.gif)(Sec. 5, 48 Stat. 1068; 47 U.S.C. 155)[42 FR 14729, Mar. 16, 1977, as amended at 42 FR 43637, Aug. 22, 1977; 43 FR 13576, Mar. 31, 1978; 63 FR 36605, July 7, 1998; 75 FR 3639, Jan. 22, 2010; 80 FR 71729, Nov. 17, 2015; 82 FR 41561, Sept. 1, 2017; 83 FR 10640, 10643, Mar. 12, 2018]

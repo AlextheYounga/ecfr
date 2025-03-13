@@ -30,7 +30,7 @@ simplified as:
 
 ![](/graphics/er04se18.004.gif)
 
-(4) If no inner-duct is installed the fraction, “1 Duct divided by the No. of Inner-Ducts” is presumed to be 1/2.
+(4) If no inner-duct is installed the fraction, “1 Duct divided by the No. of Inner-Ducts” is presumed to be1/2.
 
 (e) A price cap company, or a rate-of-return carrier electing to provide service pursuant to § 61.50 of this chapter, that opts-out of part 32 of this chapter may calculate attachment rates for its poles, ducts, conduits, and rights of way using either part 32 accounting data or GAAP accounting data. A company using GAAP accounting data to compute rates to attach to its poles, ducts, conduits, and rights of way in any of the first twelve years after opting-out must adjust (increase or decrease) its annually computed GAAP-based rates by an Implementation Rate Difference for each of the remaining years in the period. The Implementation Rate Difference means the difference between attachment rates calculated by the carrier under part 32 and under GAAP as of the last full year preceding the carrier's initial opting-out of part 32 USOA accounting requirements.
 

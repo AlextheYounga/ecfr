@@ -14,6 +14,8 @@
 
 (b) The Coast Guard may exempt an applicant from meeting any individual knowledge, understanding, and proficiency required in Section A-II/4 of the STCW Code. These exemptions must be approved by the Coast Guard based upon vessel type. Under these circumstances, the endorsement may include a corresponding limitation.
 
+(c) Seafarers with the following national rating endorsements will be eligible for this endorsement upon completion of requirements designated in this section:
+
 |                                                                     Entry path from  <br/>national  <br/>endorsements                                                                      |Sea service  <br/>under  <br/>authority of the  <br/>endorsement <sup>1</sup>|Competence—STCW Table A-II/4 <sup>2</sup>|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------|
 |                                                                                  Able Seafarer-Unlimited                                                                                   |                                    None                                     |                    Y                    |

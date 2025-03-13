@@ -50,7 +50,7 @@
 
 (c) *Collection of field strength data to determine television service in specific communities*—(1) *Preparation for measurement.* (i) The population (P) of the community, and its suburbs, if any, is determined by reference to the most recent official decennial U.S. Census population data as identified by the Media Bureau in a Public Notice. (See § 73.620(b)).
 
-(ii) The number of locations at which measurements are to be made shall be at least 15, and shall be approximately equal to 0.1 (P) 1/2, if this product is a number greater than 15.
+(ii) The number of locations at which measurements are to be made shall be at least 15, and shall be approximately equal to 0.1 (P)1/2, if this product is a number greater than 15.
 
 (iii) A rectangular grid, of such size and shape as to encompass the boundaries of the community is drawn on an accurate map of the community. The number of line intersections on the grid included within the boundaries of the community shall be at least equal to the required number of measuring locations. The position of each intersection on the community map determines the location at which a measurement shall be made.
 

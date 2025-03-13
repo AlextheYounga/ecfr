@@ -1,4 +1,4 @@
-##### § 11.427 Requirements for mate of near-coastal self-propelled vessels of less than 200 GRT. #####
+##### § 11.427 Requirements for Mate of near-coastal self-propelled vessels of less than 200 GRT. #####
 
 (a) The minimum service required to qualify for the endorsement as Mate of near-coastal self-propelled vessels of less than 200 GRT is—
 

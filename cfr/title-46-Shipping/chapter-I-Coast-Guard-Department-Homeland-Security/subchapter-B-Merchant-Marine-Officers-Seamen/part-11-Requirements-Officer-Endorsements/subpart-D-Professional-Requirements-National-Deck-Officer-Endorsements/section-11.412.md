@@ -1,4 +1,4 @@
-##### § 11.412 Service requirements for master of ocean or near-coastal self-propelled vessels of less than 1,600 GRT. #####
+##### § 11.412 Service requirements for Master of ocean or near-coastal self-propelled vessels of less than 1,600 GRT. #####
 
 (a) The minimum service required to qualify an applicant for an endorsement as Master of ocean or near-coastal self-propelled vessels of less than 1,600 GRT is—
 

@@ -4,4 +4,4 @@
 
 (b) To obtain an endorsement for sail or auxiliary sail vessels, the applicant must have 6 months of service on sail or auxiliary sail vessels. This required service may have been obtained prior to issuance of the MMC endorsement as Master.
 
-[USCG-2021-0097, 89 FR 93084, Nov. 25, 2024, as amended at USCG-2021-0834, 89 FR 102335, Dec. 17, 2024]
+[USCG-2021-0097, 89 FR 93084, Nov. 25, 2024, as amended by USCG-2021-0834, 89 FR 102335, Dec. 17, 2024]

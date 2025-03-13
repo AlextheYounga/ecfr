@@ -8,7 +8,7 @@
 
 (2) Service on inland waters, other than Great Lakes, that are navigable waters of the United States, will be credited on a day-for-day basis for up to 50 percent of the total required service.
 
-(c) *Service on mobile offshore drilling units.* (1) MODU service is creditable for raise of grade of an officer endorsement. Evidence of 1 year of service on MODUs as Mate or equivalent while holding an officer endorsement licenses as Third Mate, or as Engineering Officer of the Watch or equivalent while holding an officer endorsement licenses as Third Assistant Engineer, is acceptable for a raise of grade to Second Mate or Second Assistant Engineer, respectively. However, any subsequent raises of grade of unlimited, non-restricted officer licenses or endorsements must include a minimum of 6 months of service on conventional vessels.
+(c) *Service on mobile offshore drilling units.* (1) MODU service is creditable for raise of grade of an officer endorsement. Evidence of 1 year of service on MODUs as Mate or equivalent while holding an officer endorsement licenses as Third Mate, or as Engineering Officer of the Watch or equivalent while holding an officer endorsement licenses as Third Assistant Engineer, is acceptable for a raise of grade to Second Mate or Second Assistant Engineer, respectively. However, any subsequent raises of grade of unlimited, non-restricted officer endorsements must include a minimum of 6 months of service on conventional vessels.
 
 (2) Service on MODUs maintaining station by means of dynamic positioning, may be credited as service on conventional vessels for any raise of grade; however, time more than 8 hours each day will not be credited.
 

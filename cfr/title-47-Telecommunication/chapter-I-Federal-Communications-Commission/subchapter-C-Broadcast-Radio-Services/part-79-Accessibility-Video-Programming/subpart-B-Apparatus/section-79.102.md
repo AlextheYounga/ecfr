@@ -42,39 +42,39 @@ This paragraph places no restrictions on the importing, shipping, or sale of dig
 
 (3) The substitutions in Table 2 are to be made if a decoder does not support the remaining G2 characters.
 
-|               G2 Character                |           Substitute with           |
-|-------------------------------------------|-------------------------------------|
-|Open single quote (‘), G2 char code 0 × 31 |G0 single quote (‘), char code 0 × 27|
-|Close single quote (’), G2 char code 0 × 32|G0 single quote (’), char code 0 × 27|
-|Open double quote (“), G2 char code 0 × 33 |G0 double quote (“), char code 0 × 22|
-|Close double quote (”), G2 char code 0 × 34|G0 double quote (”), char code 0 × 22|
-|   Bold bullet (•), G2 char code 0 × 35    |   G1 bullet (•), char code 0 × B7   |
-|   Elipsis (. . .), G2 char code 0 × 25    |G0 underscore (\_), char code 0 × 5F |
-|   One-eighth (1/8), G2 char code 0 × 76   |G0 percent sign (%), char code 0 × 25|
-| Three-eighths (3/8), G2 char code 0 × 77  |G0 percent sign (%), char code 0 × 25|
-|  Five-eighths (5/8), G2 char code 0 × 78  |G0 percent sign (%), char code 0 × 25|
-| Seven-eighths (7/8), G2 char code 0 × 79  |G0 percent sign (%), char code 0 × 25|
-| Vertical border (|), G2 char code 0 × 7A  |   G0 stroke (|), char code 0 × 7C   |
-|Upper-right border (⌉), G2 char code 0 × 7B|    G0 dash (-), char code 0 × 2D    |
-|Lower-left border (⌊), G2 char code 0 × 7C |    G0 dash (-), char code 0 × 2D    |
-|Horizontal border (―), G2 char code 0 × 7D |    G0 dash (-), char code 0 × 2D    |
-|Lower-right border (⌋), G2 char code 0 × 7E|    G0 dash (-), char code 0 × 2D    |
-|Upper-left border (⌈), G2 char code 0 × 7F |    G0 dash (-), char code 0 × 2D    |
+|                         G2 Character                         |           Substitute with           |
+|--------------------------------------------------------------|-------------------------------------|
+|          Open single quote (‘), G2 char code 0 × 31          |G0 single quote (‘), char code 0 × 27|
+|         Close single quote (’), G2 char code 0 × 32          |G0 single quote (’), char code 0 × 27|
+|          Open double quote (“), G2 char code 0 × 33          |G0 double quote (“), char code 0 × 22|
+|         Close double quote (”), G2 char code 0 × 34          |G0 double quote (”), char code 0 × 22|
+|             Bold bullet (•), G2 char code 0 × 35             |   G1 bullet (•), char code 0 × B7   |
+|             Elipsis (. . .), G2 char code 0 × 25             |G0 underscore (\_), char code 0 × 5F |
+| One-eighth (<sup>1</sup>⁄<sub>8</sub>), G2 char code 0 × 76  |G0 percent sign (%), char code 0 × 25|
+|Three-eighths (<sup>3</sup>⁄<sub>8</sub>), G2 char code 0 × 77|G0 percent sign (%), char code 0 × 25|
+|Five-eighths (<sup>5</sup>⁄<sub>8</sub>), G2 char code 0 × 78 |G0 percent sign (%), char code 0 × 25|
+|Seven-eighths (<sup>7</sup>⁄<sub>8</sub>), G2 char code 0 × 79|G0 percent sign (%), char code 0 × 25|
+|           Vertical border (|), G2 char code 0 × 7A           |   G0 stroke (|), char code 0 × 7C   |
+|         Upper-right border (⌉), G2 char code 0 × 7B          |    G0 dash (-), char code 0 × 2D    |
+|          Lower-left border (⌊), G2 char code 0 × 7C          |    G0 dash (-), char code 0 × 2D    |
+|          Horizontal border (―), G2 char code 0 × 7D          |    G0 dash (-), char code 0 × 2D    |
+|         Lower-right border (⌋), G2 char code 0 × 7E          |    G0 dash (-), char code 0 × 2D    |
+|          Upper-left border (⌈), G2 char code 0 × 7F          |    G0 dash (-), char code 0 × 2D    |
 
 (4) Support for code spaces C2, C3, and G3 is optional. All unsupported graphic symbols in the G3 code space are to be substituted with the G0 underscore character (\_), char code 0 × 5F.
 
 (e) *Screen coordinates.* Table 3 specifies the screen coordinate resolutions and limits for anchor point positioning in 4:3 and 16:9 display formats, and the number of characters per row.
 
-|                                                                              Screen aspect ratio                                                                               |Maximum anchor position resolution|Minimum anchor position resolution|Maximum displayed rows|Maximum characters per row|
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|----------------------------------|----------------------|--------------------------|
-|                                                                                      4:3                                                                                       |            75v × 160h            |            15v × 32h             |          4           |            32            |
-|                                                                                      16:9                                                                                      |            75v × 210h            |            15v × 42h             |          4           |            42            |
-|                                                                                     Other                                                                                      |          75v × (5 × H)           |            15v × H\*             |          4           |       <sup>1</sup>       |
-|<sup>1</sup> H = 32 × (the width of the screen in relation to a 4:3 display). For example, the 16:9 format is 1/3 wider than a 4:3 display; thus, H = 32 \* 4/3 = 42.667, or 42.|                                  |                                  |                      |                          |
+|                                                                                                    Screen aspect ratio                                                                                                     |Maximum anchor position resolution|Minimum anchor position resolution|Maximum displayed rows|Maximum characters per row|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|----------------------------------|----------------------|--------------------------|
+|                                                                                                            4:3                                                                                                             |            75v × 160h            |            15v × 32h             |          4           |            32            |
+|                                                                                                            16:9                                                                                                            |            75v × 210h            |            15v × 42h             |          4           |            42            |
+|                                                                                                           Other                                                                                                            |          75v × (5 × H)           |            15v × H\*             |          4           |       <sup>1</sup>       |
+|<sup>1</sup> H = 32 × (the width of the screen in relation to a 4:3 display). For example, the 16:9 format is <sup>1</sup>⁄<sub>3</sub> wider than a 4:3 display; thus, H = 32 \* <sup>4</sup>⁄<sub>3</sub> = 42.667, or 42.|                                  |                                  |                      |                          |
 
 (1) This means that the minimum grid resolution for a 4:3 aspect ratio instrument is 15 vertical positions × 32 horizontal positions. This minimum grid resolution for 16:9 ratio instrument is 15 vertical positions × 42 horizontal positions. These minimum grid sizes are to cover the entire safe-title area of the corresponding screen.
 
-(2) The minimum coordinates equate to a 1/5 reduction in the maximum horizontal and vertical grid resolution coordinates. Caption providers are to use the maximum coordinate system values when specifying anchor point positions. Decoders using the minimum resolution are to divide the provided horizontal and vertical screen coordinates by 5 to derive the equivalent minimum coordinates.
+(2) The minimum coordinates equate to a1/5 reduction in the maximum horizontal and vertical grid resolution coordinates. Caption providers are to use the maximum coordinate system values when specifying anchor point positions. Decoders using the minimum resolution are to divide the provided horizontal and vertical screen coordinates by 5 to derive the equivalent minimum coordinates.
 
 (3) Any caption targeted for both 4:3 and 16:9 instruments is limited to 32 contiguous characters per row. If a caption is received by a 4:3 instrument that is targeted for a 16:9 display only, or requires a window width greater than 32 characters, then the caption may be completely disregarded by the decoder. 16:9 instruments should be able to process and display captions intended for 4:3 displays, providing all other minimum recommendations are met.
 
@@ -139,9 +139,9 @@ This paragraph places no restrictions on the importing, shipping, or sale of dig
 |                      7                      | Stndr  |    4     |Normal|  No   |   No    | Unifrm  |(2,2,2) White |     Solid      |     n/a      |  Transparent   |(0,0,0) Black|Prop. w/o Serif, Bordered Text, No BG|
 |\*“NTSC Style”—White Text on Black Background|        |          |      |       |         |         |              |                |              |                |             |                                     |
 
-(j) *Pen size.* (1) Decoders must support the standard, large, and small pen sizes and must allow the caption provider to choose a pen size and allow the viewer to choose an alternative size. The STANDARD pen size should be implemented such that the height of the tallest character in any implemented font is no taller than 1/15 of the height of the safe-title area, and the width of the widest character is no wider than 1/32 of the width of the safe-title area for 4:3 displays and 1/42 of the safe-title area width for 16:9 displays.
+(j) *Pen size.* (1) Decoders must support the standard, large, and small pen sizes and must allow the caption provider to choose a pen size and allow the viewer to choose an alternative size. The STANDARD pen size should be implemented such that the height of the tallest character in any implemented font is no taller than1/15 of the height of the safe-title area, and the width of the widest character is no wider than1/32 of the width of the safe-title area for 4:3 displays and1/42 of the safe-title area width for 16:9 displays.
 
-(2) The LARGE pen size should be implemented such that the width of the widest character in any implemented font is no wider than 1/32 of the safe-title area for 16:9 displays. This recommendation allows for captions to grow to a LARGE pen size without having to reformat the caption since no caption will have more than 32 characters per row.
+(2) The LARGE pen size should be implemented such that the width of the widest character in any implemented font is no wider than1/32 of the safe-title area for 16:9 displays. This recommendation allows for captions to grow to a LARGE pen size without having to reformat the caption since no caption will have more than 32 characters per row.
 
 (k) *Font styles.* (1) Decoders must support the eight fonts listed below. Caption providers may specify 1 of these 8 font styles to be used to write caption text. The styles specified in the “font style” parameter of the SetPenAttributes command are numbered from 0 through 7. The following is a list of the 8 required font styles. For information purposes only, each font style references one or more popular fonts which embody the characteristics of the style:
 

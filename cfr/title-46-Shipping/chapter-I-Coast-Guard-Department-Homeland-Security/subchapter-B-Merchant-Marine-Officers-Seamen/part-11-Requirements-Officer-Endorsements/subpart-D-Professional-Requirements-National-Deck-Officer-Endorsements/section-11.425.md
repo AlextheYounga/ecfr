@@ -1,4 +1,4 @@
-##### § 11.425 Requirements for mate of ocean self-propelled vessels of less than 200 GRT. #####
+##### § 11.425 Requirements for Mate of ocean self-propelled vessels of less than 200 GRT. #####
 
 (a) The minimum service required to qualify for the endorsement as Mate of ocean self-propelled vessels of less than 200 GRT is—
 

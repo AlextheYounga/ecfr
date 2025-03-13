@@ -134,7 +134,7 @@
 
 (2) Provide evidence of training course completion as follows:
 
-(i) A certificate from a Coast Guard-approved stability course approved for MMC endorsement as OIM Bottom Bearing Units.
+(i) A certificate from a Coast Guard-approved stability course approved for an MMC endorsement as OIM Bottom Bearing Units.
 
 (ii) A certificate from a Coast Guard-approved survival suit and survival craft training course.
 

@@ -12,7 +12,7 @@
 
 (c) Radar Observer-Unlimited is valid on all waters. Radar Observer-Inland Waters and GIWW is valid only for those waters other than the Great Lakes covered by the Inland Navigational Rules. Radar Observer-Rivers is valid only on any river, canal, or similar body of water designated by the OCMI, but not beyond the boundary line.
 
-(d) Except as provide by paragraphs (f) or (g) of this section, each applicant for a Radar Observer endorsement or for renewal of a Radar Observer endorsement must complete the appropriate course approved by the Coast Guard, receive the appropriate certificate of training, and present the certificate or a copy of the certificate to the Coast Guard in person, by mail, or other electronic means.
+(d) Except as provided by paragraphs (f) or (g) of this section, each applicant for a Radar Observer endorsement or for renewal of a Radar Observer endorsement must complete the appropriate course approved by the Coast Guard, receive the appropriate certificate of training, and provide the certificate or a copy of the certificate to the Coast Guard in person, by mail, or other electronic means.
 
 (e) A Radar Observer endorsement issued under this section is valid until the expiration of the mariner's MMC.
 

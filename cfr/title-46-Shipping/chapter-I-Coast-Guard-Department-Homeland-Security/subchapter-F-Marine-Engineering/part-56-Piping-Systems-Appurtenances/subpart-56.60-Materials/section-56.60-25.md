@@ -50,4 +50,4 @@
 
 (d) Requests to use nonmetallic materials other than those specified in this section must be submitted to the Commandant for consideration.
 
-[CGFR 68-82, 33 FR 18843, Dec. 18, 1968, as amended by CGFR 69-127, 35 FR 9979, June 17, 1970; CGD 72-104R, 37 FR 14234, July 18, 1972; CGD 73-254, 40 FR 40165, Sept. 2, 1975; CGD 77-140, 54 FR 40613, Oct. 2, 1989; CGD 88-032, 56 FR 35822, July 29, 1991; CGD 83-043, 60 FR 24775, May 10, 1995; CGD 95-072, 60 FR 50462, Sept. 29, 1995; CGD 96-041, 61 FR 50728, Sept. 27, 1996; CGD 95-028, 62 FR 51201, Sept. 30, 1997; USCG-2002-13058, 67 FR 61278, Sept. 30, 2002; USCG-2003-16630, 73 FR 65183, Oct. 31, 2008; USCG-2012-0196, 81 FR 48251, July 22, 2016; USCG-2020-0634, 89 FR 50155, June 12, 2024; USCG-2020-0519, 89 FR 76697, Sept. 18, 2024]
+[CGFR 68-82, 33 FR 18843, Dec. 18, 1968] Editorial Note:For Federal Register citations affecting § , see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

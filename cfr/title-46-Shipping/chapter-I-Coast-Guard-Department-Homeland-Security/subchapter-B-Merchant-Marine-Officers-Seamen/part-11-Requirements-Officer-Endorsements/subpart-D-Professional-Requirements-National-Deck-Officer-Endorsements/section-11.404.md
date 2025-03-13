@@ -1,4 +1,4 @@
-##### § 11.404 Service requirements for master of ocean or near-coastal self-propelled vessels of unlimited tonnage. #####
+##### § 11.404 Service requirements for Master of ocean or near-coastal self-propelled vessels of unlimited tonnage. #####
 
 (a) The minimum service required to qualify an applicant for an endorsement as Master of ocean or near-coastal self-propelled vessels of unlimited tonnage is—
 

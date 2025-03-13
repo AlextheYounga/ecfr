@@ -8,4 +8,4 @@
 
 (d) If more than 75 percent of the qualifying experience is obtained on vessels of 5 GRT or less, the endorsement will automatically be limited to vessels of less than 25 GRT.
 
-[USCG-2021-0097, 89 FR 93083, Nov. 25, 2024, as amended at USCG-2021-0834, 89 FR 102335, Dec. 17, 2024]
+[USCG-2021-0097, 89 FR 93083, Nov. 25, 2024, as amended by USCG-2021-0834, 89 FR 102335, Dec. 17, 2024]

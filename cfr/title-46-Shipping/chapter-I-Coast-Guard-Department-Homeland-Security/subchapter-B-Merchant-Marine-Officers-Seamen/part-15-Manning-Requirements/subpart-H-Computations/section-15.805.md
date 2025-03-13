@@ -1,6 +1,6 @@
 ##### § 15.805 Master. #####
 
-(a) There must be an individual holding an appropriate License as or a valid MMC with endorsement as Master in command of each of the following vessels:
+(a) There must be an individual holding an appropriate valid MMC with endorsement as Master in command of each of the following vessels:
 
 (1) Every self-propelled, seagoing documented vessel of 200 GRT and over.
 

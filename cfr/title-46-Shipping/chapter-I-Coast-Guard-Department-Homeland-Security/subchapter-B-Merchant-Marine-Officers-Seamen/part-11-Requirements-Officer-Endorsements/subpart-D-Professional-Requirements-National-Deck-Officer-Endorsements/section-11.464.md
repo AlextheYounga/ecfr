@@ -42,4 +42,4 @@
 
 (h) A License or MMC does not need to include a towing endorsement if mariners hold a TOAR or complete an approved training course.
 
-[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30882, June 28, 2019; USCG-2021-0097, 89 FR 93086, Nov. 25, 2024; USCG-2021-0834, 89 FR 102335, Dec. 17, 2024]
+[USCG-2021-0097, 89 FR 93086, Nov. 25, 2024, as amended by USCG-2021-0834, 89 FR 102335, Dec. 17, 2024]

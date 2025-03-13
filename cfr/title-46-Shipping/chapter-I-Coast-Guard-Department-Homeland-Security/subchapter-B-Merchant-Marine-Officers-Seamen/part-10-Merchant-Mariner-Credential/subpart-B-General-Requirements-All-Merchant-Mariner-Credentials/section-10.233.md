@@ -6,4 +6,4 @@
 
 (c) Invalid or expired credentials must be returned to the Coast Guard. Upon written request, the Coast Guard will return the cancelled credential to the mariner.
 
-[USCG-2006-24371, 74 FR 11216, Mar. 16, 2009, as amended by USCG-2021-0097, 89 FR 93062, Nov. 25, 2024; USCG-2021-0834, 89 FR 102332, 102333, Dec. 17, 2024]
+[USCG-2006-24371, 74 FR 11216, Mar. 16, 2009, as amended by USCG-2021-0097, 89 FR 93062, Nov. 25, 2024; USCG-2021-0834, 89 FR 102332, 102334, Dec. 17, 2024]

@@ -20,4 +20,4 @@
 
 (2) Training programs, other than those classified as a school ship, may be substituted for up to one-third of the required service on deck. The Coast Guard will determine the service/training ratio for each program and may allow a maximum of 3 days of deck service credit for each day of instruction.
 
-[USCG-2004-17914, 78 FR 77975, Dec. 24, 2013, as amended by USCG-2021-0097, 89 FR 93099, Nov. 25, 2024]
+[USCG-2021-0097, 89 FR 93099, Nov. 25, 2024]

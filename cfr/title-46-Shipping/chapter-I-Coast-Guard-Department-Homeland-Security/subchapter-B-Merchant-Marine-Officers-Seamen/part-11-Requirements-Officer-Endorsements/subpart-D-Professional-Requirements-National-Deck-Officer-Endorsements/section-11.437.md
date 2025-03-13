@@ -1,4 +1,4 @@
-##### § 11.437 Requirements for mate of Great Lakes and inland self-propelled vessels of unlimited tonnage. #####
+##### § 11.437 Requirements for Mate of Great Lakes and inland self-propelled vessels of unlimited tonnage. #####
 
 (a) The minimum service required to qualify an applicant for an endorsement as Mate of Great Lakes and inland self-propelled vessels of unlimited tonnage is—
 

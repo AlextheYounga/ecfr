@@ -8,4 +8,4 @@
 
 (b) An applicant holding an MMC endorsement as Master of ocean, near-coastal, or Great Lakes and inland towing vessels is eligible for this endorsement after 6 months of service as Master of Towing Vessels and completion of a limited examination. This requires 31/2 years of service. Two years of this service must have been served while holding an MMC endorsement as Master or Mate (Pilot) of Towing Vessels, or Mate.
 
-[USCG-2021-0097, 89 FR 93083, Nov. 25, 2024, as amended at USCG-2021-0834, 89 FR 102335, Dec. 17, 2024]
+[USCG-2021-0097, 89 FR 93083, Nov. 25, 2024, as amended by USCG-2021-0834, 89 FR 102335, Dec. 17, 2024]

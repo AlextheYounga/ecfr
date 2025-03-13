@@ -1,4 +1,4 @@
-##### § 11.337 Requirements to qualify for an STCW endorsement as vessel security officer. #####
+##### § 11.337 Requirements to qualify for an STCW endorsement as Vessel Security Officer. #####
 
 (a) The applicant for an endorsement as Vessel Security Officer (VSO) must provide satisfactory documentary evidence in accordance with the requirements in 33 CFR 104.215.
 

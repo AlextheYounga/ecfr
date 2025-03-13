@@ -8,7 +8,7 @@
 
 (d) The bend specimens must be taken from opposite sides of the reduced-section tensile specimen in their respective test plates as shown in figures 1 and 2 to § 57.06-4(d).
 
-Figure 1 to § 57.06-4(d)—Workmanship Test Plates for Material Three-Fourths Inch or Less in Thickness![](/graphics/er12jn24.011.gif)Figure 2 to § 57.06-4(d)—Workmanship Test Plates for Material Three-Fourths Inch or Less in Thickness![](/graphics/er12jn24.012.gif)
+Figure 1 to § 57.06-4(d)—Workmanship Test Plates for Material Three-Fourths Inch or Less in Thickness ![](/graphics/er12jn24.011.gif)Figure 2 to § 57.06-4(d)—Workmanship Test Plates for Material Three-Fourths Inch or Less in Thickness ![](/graphics/er12jn24.012.gif)
 
 (e) In submitting the samples for test the manufacturer must state the minimum and maximum tensile range of the base metal.
 
@@ -18,11 +18,11 @@ Figure 1 to § 57.06-4(d)—Workmanship Test Plates for Material Three-Fourths I
 
 (2) Boiler drums fabricated of plate of thicknesses of five-eighths inch or greater 2 to § have a tension-test specimen of the weld metal machined to form as shown in figure 5 to § 57.06-4(f) taken entirely from the deposited metal. The all-weld tension test specimen 2 to § have a tensile strength of not less than the minimum of the range of the plate which is welded and 2 to § have a minimum elongation in 2 inches of not less than 20 percent.
 
-Figure 3 to § 57.06-4(f)—(PW-53.1) Reduced-Section Test Specimen for Tension Test of Welded Joint![](/graphics/er12jn24.013.gif)Figure 4 to § 57.06-4(f)—(PW-53.3) Cross Section of Bend-Test Specimens From Very Thick Plate![](/graphics/er12jn24.014.gif)Figure 5 to § 57.06-4(f)—(PW-53.3) All Weld Metal Tension-Test Specimen![](/graphics/er12jn24.015.gif)
+Figure 3 to § 57.06-4(f)—(PW-53.1) Reduced-Section Test Specimen for Tension Test of Welded Joint ![](/graphics/er12jn24.013.gif)Figure 4 to § 57.06-4(f)—(PW-53.3) Cross Section of Bend-Test Specimens From Very Thick Plate ![](/graphics/er12jn24.014.gif)Figure 5 to § 57.06-4(f)—(PW-53.3) All Weld Metal Tension-Test Specimen ![](/graphics/er12jn24.015.gif)
 
 (g) The freebend specimens must be of the form and dimensions shown in figure 6 to § 57.06-4(g). For plates of three-fourths inch or less in thickness one of the specimens must be bent with the face of the weld in tension. Each freebend specimen must be bent cold under freebending conditions until the elongation measured within or across approximately the entire weld on the outer surface of the bend is at least 30 percent, except that for Class II and Class II-L pressure vessels, the minimum elongation must be 20 percent. When the capacity of the available testing machine will not permit testing a full thickness specimen, the specimen may be cut with a thin saw into as many portions of the thickness as necessary as shown in figure 4 to § 57.06-4(f), provided each such piece retains the proportion of 1.5 to 1, width to thickness, each of which must meet the requirements. Cracks at the corners of the specimens or small defects in the convex surface, the greatest dimensions of which do not exceed one-sixteenth inch need not be considered as failures.
 
-Figure 6 to § 57.06-4(g)—(PW-53.8) Specimen for Free-Bend Test![](/graphics/er12jn24.016.gif)
+Figure 6 to § 57.06-4(g)—(PW-53.8) Specimen for Free-Bend Test ![](/graphics/er12jn24.016.gif)
 
 (h) The guided-bend specimen must be bent with the side of the weld in tension, its width must be equal to the full thickness of the plate and its thickness, after machining, must be 0.350 inch to 0.380 inch to permit bending in a jig having the contour of the standard jig as shown in Figure QW 466.1, QW 466.2, or QW 466.3 of Section IX of the ASME BPVC (incorporated by reference; see § 57.02-1). The specimen must withstand being bent cold to the full capacity of the jig without developing any crack exceeding one-eighth inch in any direction. Where the plate thickness exceeds two inches, the specimen must be cut in two so that each portion does not exceed 2 inches in width. Each such portion must be tested and must meet the requirements.
 

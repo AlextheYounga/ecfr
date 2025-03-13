@@ -1,4 +1,4 @@
-##### § 11.420 Service requirements for mate of ocean self-propelled vessels of less than 500 GRT. #####
+##### § 11.420 Service requirements for Mate of ocean self-propelled vessels of less than 500 GRT. #####
 
 (a) The minimum service required to qualify an applicant for an endorsement as Mate of ocean self-propelled vessels of less than 500 GRT is 2 years of total service in the deck department of ocean or near-coastal self-propelled, sail, or auxiliary sail vessels. Service on Great Lakes and inland waters may substitute for up to 1 year of the required service. One year of the required service must have been as a Master, Mate, or equivalent position while holding an endorsement as Master, Mate, or Operator of Uninspected Passenger Vessels. Six months of the required service as Master, Mate, or equivalent position must have been on vessels of more than 50 GRT.
 

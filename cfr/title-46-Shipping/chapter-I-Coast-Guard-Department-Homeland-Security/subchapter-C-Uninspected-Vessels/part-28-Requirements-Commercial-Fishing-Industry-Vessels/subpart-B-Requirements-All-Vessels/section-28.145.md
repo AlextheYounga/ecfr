@@ -9,4 +9,4 @@ Except as provided by 28.305, each vessel must be equipped with the distress sig
 |           Coastal waters, excluding the Great Lakes; or within 3 miles of the coastline on the Great Lakes            |Night visual distress signals consisting of one electric distress light, approval series 161.013 or 3 approved flares; plus Day visual distress signals consisting of one distress flag, approval series 160.072, or 3 approved flares, or 3 approved smoke signals.<sup>1</sup>|
 |<sup>1</sup> If flares are carried, the same 3 flares may be counted toward meeting both the day and night requirement.|                                                                                                                                                                                                                                                                                |
 
-[CGD 88-079, 56 FR 40393, Aug. 14, 1991, as amended at 60 FR 48048, Sept. 18, 1995; USCG-2000-7790, 65 FR 58458, Sept. 29, 2000]
+[CGD 88-079, 56 FR 40393, Aug. 14, 1991, as amended by CGD 95-012, 60 FR 48048, Sept. 18, 1995; USCG-2000-7790, 65 FR 58458, Sept. 29, 2000]

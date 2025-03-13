@@ -14,4 +14,4 @@
 
 (e) Furnace crowns which have become distorted, not in excess of the limitations provided in paragraph (c) of this section, may be repaired by forcing back the distorted section to as nearly a true circle as possible and reinforcing the same by means of a ring, arc- or gas-welded to the distorted corrugation as shown in figure 1 to § 59.15-1, the welding to be done by welders and welding processors qualified in accordance with part 57 of this subchapter.
 
-Figure 1 to § 59.15-1—Approved Method of Reinforcing Furnaces by Means of Arc or Gas Welding![](/graphics/er12jn24.017.gif)
+Figure 1 to § 59.15-1—Approved Method of Reinforcing Furnaces by Means of Arc or Gas Welding ![](/graphics/er12jn24.017.gif)

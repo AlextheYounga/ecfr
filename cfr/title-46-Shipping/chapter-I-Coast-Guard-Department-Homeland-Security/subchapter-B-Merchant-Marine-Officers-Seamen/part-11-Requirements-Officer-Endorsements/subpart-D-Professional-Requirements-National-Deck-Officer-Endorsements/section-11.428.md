@@ -1,4 +1,4 @@
-##### § 11.428 Requirements for master of near-coastal self-propelled vessels of less than 100 GRT. #####
+##### § 11.428 Requirements for Master of near-coastal self-propelled vessels of less than 100 GRT. #####
 
 (a) The minimum service required to qualify for the endorsement as Master of self-propelled, seagoing vessels of less than 100 GRT limited to domestic voyages upon near-coastal waters is 2 years of service in the deck department of a self-propelled vessel on ocean or near-coastal waters. Service on Great Lakes and inland waters may substitute for up to 1 year of the required service.
 

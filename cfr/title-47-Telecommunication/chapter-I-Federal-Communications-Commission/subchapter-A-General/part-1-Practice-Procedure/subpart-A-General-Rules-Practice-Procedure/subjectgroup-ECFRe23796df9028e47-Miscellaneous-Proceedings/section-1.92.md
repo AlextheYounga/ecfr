@@ -16,4 +16,4 @@
 
 (e) Corrections or promise to correct the conditions or matters complained of in a show cause order shall not preclude the issuance of a cease and desist order. Corrections or promises to correct the conditions or matters complained of, and the past record of the licensee, may, however, be considered in determining whether a revocation and/or a cease and desist order should be issued.
 
-(Sec. 312, 48 Stat. 1086, as amended; 47 U.S.C. 312) [28 FR 12415, Nov. 22, 1963, as amended at 29 FR 6443, May 16, 1964; 37 FR 19372, Sept. 20, 1972; 85 FR 63173, Oct. 6, 2020]
+(Sec. 312, 48 Stat. 1086, as amended; 47 U.S.C. 312)[28 FR 12415, Nov. 22, 1963, as amended at 29 FR 6443, May 16, 1964; 37 FR 19372, Sept. 20, 1972; 85 FR 63173, Oct. 6, 2020]

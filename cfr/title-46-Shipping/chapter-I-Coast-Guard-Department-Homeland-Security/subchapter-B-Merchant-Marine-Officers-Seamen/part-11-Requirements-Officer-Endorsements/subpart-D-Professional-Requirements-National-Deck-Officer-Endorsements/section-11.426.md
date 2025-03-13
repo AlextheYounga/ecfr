@@ -1,4 +1,4 @@
-##### § 11.426 Requirements for master of near-coastal self-propelled vessels of less than 200 GRT. #####
+##### § 11.426 Requirements for Master of near-coastal self-propelled vessels of less than 200 GRT. #####
 
 (a) The minimum service required to qualify for a Master of near-coastal self-propelled vessels of less than 200 GRT is—
 

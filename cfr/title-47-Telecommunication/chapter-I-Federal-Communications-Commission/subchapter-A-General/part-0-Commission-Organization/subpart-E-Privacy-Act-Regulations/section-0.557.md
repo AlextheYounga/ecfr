@@ -28,4 +28,4 @@
 
 (4) Advise the individual that judicial review of the Commisison's decision not to amend the record in any district court of the United States is available.
 
-(Secs. 4(i) and 303(n), Communications Act of 1934, as amended, 47 U.S.C. 154(i) and 303(n); 47 CFR 0.231(d)) [40 FR 44512, Sept. 26, 1975, as amended at 45 FR 39850, June 12, 1980; 49 FR 13369, Apr. 4, 1984; 88 FR 21433, Apr. 10, 2023]
+(Secs. 4(i) and 303(n), Communications Act of 1934, as amended, 47 U.S.C. 154(i) and 303(n); 47 CFR 0.231(d))[40 FR 44512, Sept. 26, 1975, as amended at 45 FR 39850, June 12, 1980; 49 FR 13369, Apr. 4, 1984; 88 FR 21433, Apr. 10, 2023]

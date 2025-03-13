@@ -1,4 +1,4 @@
-##### § 11.414 Service requirements for mate of ocean self-propelled vessels of less than 1,600 GRT. #####
+##### § 11.414 Service requirements for Mate of ocean self-propelled vessels of less than 1,600 GRT. #####
 
 (a) The minimum service required to qualify an applicant for an endorsement as Mate of self-propelled vessels of less than 1,600 GRT is—
 

@@ -1,4 +1,4 @@
-##### § 11.335 Requirements to qualify for an STCW endorsement as an electro-technical officer on vessels powered by main propulsion machinery of 750 kW/1,000 HP or more (operational level). #####
+##### § 11.335 Requirements to qualify for an STCW endorsement as an Electro-technical Officer on vessels powered by main propulsion machinery of 750 kW/1,000 HP or more (operational level). #####
 
 (a) To qualify for an STCW endorsement as an Electro-technical Officer (ETO), an applicant must—
 

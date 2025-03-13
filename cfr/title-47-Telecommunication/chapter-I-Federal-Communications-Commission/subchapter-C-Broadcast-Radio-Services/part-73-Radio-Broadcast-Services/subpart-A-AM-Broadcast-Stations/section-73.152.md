@@ -24,7 +24,7 @@
 
 (ii) Where the measured field exceeds the pattern in discrete directions, but objectionable interference does not result, the pattern may be expanded over sectors including these directions. When this “augmentation” is desired, it shall be achieved by application of the following equation:
 
-E(φ,θ)aug = √ { E(φ,θ)std } 2 + A{*g*(θ) *cos (180 D*A*/S* }2where:E(φ,θ)std is the standard pattern field at some particular azimuth and elevation angle, before augmentation, computed pursuant to Eq. 2, § 73.150(b)(1)(i).E(φ,θ)aug. is the field in the direction specified above, after augmentation.A = E(φ, O)2aug−E(φ, O)2std in which φ is the central azimuth of augmentation. E(φ, O)aug and E(φ, O)std are the fields in the horizontal plane at the central azimuth of augmentation.Note:
+E(φ,θ)aug = √ { E(φ,θ)std }2 + A{*g*(θ) *cos (180 D*A*/S* }2where:E(φ,θ)std is the standard pattern field at some particular azimuth and elevation angle, before augmentation, computed pursuant to Eq. 2, § 73.150(b)(1)(i).E(φ,θ)aug. is the field in the direction specified above, after augmentation.A = E(φ, O)2aug−E(φ, O)2std in which φ is the central azimuth of augmentation. E(φ, O)aug and E(φ, O)std are the fields in the horizontal plane at the central azimuth of augmentation.Note:
 
 “A” must be positive, except during the process of converting non-standard patterns to standard patterns pursuant to the *Report and Order in Docket No. 21473,* and in making minor changes to stations with patterns developed during the conversion. However, even when “A” is negative, “A” cannot be so negative that E(φ,α)aug is less than E(φ,θ)th at any azimuth or vertical elevation angle.
 

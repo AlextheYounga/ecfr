@@ -10,10 +10,10 @@
 
 |                  Charpy V-notch specimen size <sup>1</sup>                   |Factor for minimum  <br/>energy, average of  <br/>3 specimens <sup>1</sup>|Factor for minimum  <br/>energy single  <br/>specimen <sup>1</sup>|
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------|
-|                                  10 × 10 mm                                  |                                    1                                     |                               2/3                                |
-|                                 10 × 7.5 mm                                  |                                   5/6                                    |                               5/9                                |
-|                                 10 × 5.0 mm                                  |                                   2/3                                    |                               4/9                                |
-|                                 10 × 2.5 mm                                  |                                   1/2                                    |                               1/3                                |
+|                                  10 × 10 mm                                  |                                    1                                     |                    <sup>2</sup>⁄<sub>3</sub>                     |
+|                                 10 × 7.5 mm                                  |                        <sup>5</sup>⁄<sub>6</sub>                         |                    <sup>5</sup>⁄<sub>9</sub>                     |
+|                                 10 × 5.0 mm                                  |                        <sup>2</sup>⁄<sub>3</sub>                         |                    <sup>4</sup>⁄<sub>9</sub>                     |
+|                                 10 × 2.5 mm                                  |                        <sup>1</sup>⁄<sub>2</sub>                         |                    <sup>1</sup>⁄<sub>3</sub>                     |
 |<sup>1</sup> Straight line interpolation for intermediate values is permitted.|                                                                          |                                                                  |
 
 (iii) Steels differing in chemical composition, mechanical properties, or heat treatments from those specified may be specially approved by the Marine Safety Center. Similarly, aluminum alloys and other materials not covered in table 2 to § 56.50-105 may be specifically approved by the Marine Safety Center.

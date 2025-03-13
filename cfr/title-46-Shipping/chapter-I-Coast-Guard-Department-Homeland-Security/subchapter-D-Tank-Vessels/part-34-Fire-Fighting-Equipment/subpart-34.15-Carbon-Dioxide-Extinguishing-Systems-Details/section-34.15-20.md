@@ -18,4 +18,4 @@
 
 (i) All cylinders used for storing carbon dioxide must be fabricated, tested, and marked in accordance with §§ 147.60 and 147.65 of this chapter.
 
-[CGFR 65-50, 30 FR 16694, Dec. 30, 1965, as amended at 53 FR 7748, Mar. 10, 1988; USCG-1999-6216, 64 FR 53223, Oct. 1, 1999]
+[CGFR 65-50, 30 FR 16694, Dec. 30, 1965, as amended by CGD 84-044, 53 FR 7748, Mar. 10, 1988; USCG-1999-6216, 64 FR 53223, Oct. 1, 1999]

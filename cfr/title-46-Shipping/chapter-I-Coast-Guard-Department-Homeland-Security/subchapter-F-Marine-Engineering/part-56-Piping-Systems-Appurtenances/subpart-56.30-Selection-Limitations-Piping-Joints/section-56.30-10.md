@@ -34,7 +34,7 @@
 
 (15) *Figure 1 to § 56.30-10(b), Method 15.* The flange of the type described and illustrated by Figure 1 to § 56.30-10(b), Method 14, except with the brazing omitted, may be used for Class II piping and where the temperature does not exceed 250 °F.
 
-Figure 1 to § 56.30-10(b)—Methods of Attachment![](/graphics/er12jn24.005.gif)Note 1 to figure 1 to § 56.30-10(b):
+Figure 1 to § 56.30-10(b)—Methods of Attachment ![](/graphics/er12jn24.005.gif)Note 1 to figure 1 to § 56.30-10(b):
 
 “T” is the nominal pipe wall thickness used. Consult the text of paragraph (b) of this section for modifications on Class II piping systems. Fillet weld leg size need not exceed the thickness of the applicable ASME hub.
 
