@@ -6,4 +6,4 @@
 
 (c) The issuance or sale of any security as permitted by paragraph (a) of this section shall not be deemed to be a sale to any person other than the Small Business Administration by any small business investment company licensed under the Small Business Investment Company Act of 1958 which is exempt from any provision of the Investment Company Act, if such exemption is conditioned on such company not offering or selling its securities to any person other than the Small Business Administration.
 
-(Secs. 6(c), 38(a), 54 Stat. 800, 841, 15 U.S.C. 80a-6(c), 80a-37(a))[37 FR 7590, Apr. 18, 1972]
+(Secs. 6(c), 38(a), 54 Stat. 800, 841, 15 U.S.C. 80a-6(c), 80a-37(a)) [37 FR 7590, Apr. 18, 1972]

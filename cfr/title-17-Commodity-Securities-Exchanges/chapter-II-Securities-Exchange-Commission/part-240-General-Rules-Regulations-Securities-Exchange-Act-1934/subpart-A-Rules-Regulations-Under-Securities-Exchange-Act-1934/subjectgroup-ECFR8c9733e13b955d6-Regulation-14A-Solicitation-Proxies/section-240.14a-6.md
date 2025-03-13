@@ -18,7 +18,7 @@
 
 (8) A vote to approve the compensation of executives as required pursuant to section 14A(a)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78n-1(a)(1)) and § 240.14a-21(a) of this chapter, or pursuant to section 111(e)(1) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5221(e)(1)) and § 240.14a-20 of this chapter, a vote to determine the frequency of shareholder votes to approve the compensation of executives as required pursuant to Section 14A(a)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 78n-1(a)(2)) and § 240.14a-21(b) of this chapter, or any other shareholder advisory vote on executive compensation.
 
-This exclusion from filing preliminary proxy material does not apply if the registrant comments upon or refers to a solicitation in opposition in connection with the meeting in its proxy material.Note 1 to paragraph (a):
+This exclusion from filing preliminary proxy material does not apply if the registrant comments upon or refers to a solicitation in opposition in connection with the meeting in its proxy material. Note 1 to paragraph (a):
 
 The filing of revised material does not recommence the ten day time period unless the revised material contains material revisions or material new proposal(s) that constitute a fundamental change in the proxy material.
 

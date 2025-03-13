@@ -1,7 +1,5 @@
 ##### § 1.55 Public disclosures by futures commission merchants. #####
 
-Link to an amendment published at 90 FR 7870, Jan. 22, 2025.
-
 (a)(1) Except as provided in 1.65, no futures commission merchant, or in the case of an introduced account no introducing broker, may open a commodity futures account for a customer, other than for a customer specified in paragraph (f) of this section, unless the futures commission merchant or introducing broker first:
 
 (i) Furnishes the customer with a separate written disclosure statement containing only the language set forth in paragraph (b) of this section (except for nonsubstantive additions such as captions) or as otherwise approved under paragraph (c) of this section; *Provided, however,* that the disclosure statement may be attached to other documents as the cover page or the first page of such documents and as the only material on such page; and
@@ -24,7 +22,7 @@ The risk of loss in trading commodity futures contracts can be substantial. You 
 
 (5) The funds you deposit with a futures commission merchant are not held by the futures commission merchant in a separate account for your individual benefit. Futures commission merchants commingle the funds received from customers in one or more accounts and you may be exposed to losses incurred by other customers if the futures commission merchant does not have sufficient capital to cover such other customers' trading losses.
 
-(6) The funds you deposit with a futures commission merchant may be invested by the futures commission merchant in certain types of financial instruments that have been approved by the Commission for the purpose of such investments. Permitted investments are listed in Commission Regulation 1.25 and include: U.S. government securities; municipal securities; money market mutual funds; and certain corporate notes and bonds. The futures commission merchant may retain the interest and other earnings realized from its investment of customer funds. You should be familiar with the types of financial instruments that a futures commission merchant may invest customer funds in.
+(6) The funds you deposit with a futures commission merchant may be invested by the futures commission merchant in certain types of financial instruments that have been approved by the Commission for the purpose of such investments. Permitted investments are listed in Commission Regulation 1.25 (17 CFR 1.25) and include: U.S. government securities; municipal securities; certain money market funds; certain foreign sovereign debt; and U.S. Treasury exchange-traded funds. The futures commission merchant may retain the interest and other earnings realized from its investment of customer funds. You should be familiar with the types of financial instruments that a futures commission merchant may invest customer funds in.
 
 (7) Futures commission merchants are permitted to deposit customer funds with affiliated entities, such as affiliated banks, securities brokers or dealers, or foreign brokers. You should inquire as to whether your futures commission merchant deposits funds with affiliates and assess whether such deposits by the futures commission merchant with its affiliates increases the risks to your funds.
 

@@ -8,4 +8,4 @@ A futures association must provide a fair and orderly procedure with respect to 
 
 (c) Impose discipline which is fair and has a reasonable basis in fact.
 
-(Approved by the Office of Management and Budget under control number 3038-0022)[44 FR 20651, Apr. 6, 1979, as amended at 46 FR 63036, Dec. 30, 1981]
+(Approved by the Office of Management and Budget under control number 3038-0022) [44 FR 20651, Apr. 6, 1979, as amended at 46 FR 63036, Dec. 30, 1981]

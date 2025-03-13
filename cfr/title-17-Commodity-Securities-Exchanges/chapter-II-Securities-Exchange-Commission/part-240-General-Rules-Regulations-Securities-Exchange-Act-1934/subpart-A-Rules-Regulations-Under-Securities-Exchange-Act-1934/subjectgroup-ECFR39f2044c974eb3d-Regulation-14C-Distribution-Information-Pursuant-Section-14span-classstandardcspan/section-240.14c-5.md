@@ -10,7 +10,7 @@
 
 (4) The approval or ratification of a plan as defined in paragraph (a)(6)(ii) of Item 402 of Regulation S-K (§ 229.402(a)(6)(ii) of this chapter) or amendments to such a plan.
 
-This exclusion from filing a preliminary information statement does not apply if the registrant comments upon or refers to a solicitation in opposition in connection with the meeting in its information statement.Note 1:
+This exclusion from filing a preliminary information statement does not apply if the registrant comments upon or refers to a solicitation in opposition in connection with the meeting in its information statement. Note 1:
 
 The filing of revised material does not recommence the ten day time period unless the revised material contains material revisions or material new proposal(s) that constitute a fundamental change in the information statement.
 

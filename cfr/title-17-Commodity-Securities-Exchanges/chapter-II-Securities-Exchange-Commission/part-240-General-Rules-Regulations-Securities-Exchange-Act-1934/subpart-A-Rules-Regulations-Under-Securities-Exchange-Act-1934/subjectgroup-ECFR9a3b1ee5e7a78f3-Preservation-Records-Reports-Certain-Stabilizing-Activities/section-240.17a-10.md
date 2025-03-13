@@ -10,4 +10,4 @@
 
 (d) In the event any broker or dealer finds that it cannot file the annual report required by paragraph (a) of this section within the time specified without undue hardship, it may file with the Commission's principal office in Washington, DC, prior to the date upon which the report is due, an application for an extension of time to a specified date which shall not be later than 60 days after the close of the calendar year for which the report is to be made. The application shall state the reasons for the requested extension and shall contain an agreement to file the report on or before the specified date.
 
-(Sec. 17, 48 Stat. 897; 15 U.S.C. 78q)[33 FR 10390, July 20, 1968, as amended at 35 FR 3804, Feb. 27, 1970; 35 FR 7644, May 16, 1970; 37 FR 13615, July 12, 1972; 40 FR 59717, Dec. 30, 1975; 42 FR 23789, May 10, 1977; 46 FR 60193, Dec. 9, 1981]
+(Sec. 17, 48 Stat. 897; 15 U.S.C. 78q) [33 FR 10390, July 20, 1968, as amended at 35 FR 3804, Feb. 27, 1970; 35 FR 7644, May 16, 1970; 37 FR 13615, July 12, 1972; 40 FR 59717, Dec. 30, 1975; 42 FR 23789, May 10, 1977; 46 FR 60193, Dec. 9, 1981]

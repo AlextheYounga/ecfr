@@ -86,12 +86,8 @@ Where video programming providers or distributors subject to § 79.4 of this par
 
 (C) Ensure that apparatus they manufacture make closed caption settings available to applications via an API or similar method.
 
-(2) Compliance with this requirement is required for devices that use next generation operating systems deployed after FCC publishes a rule in the Federal Register establishing the compliance date.
-
-Note:
-
-The compliance date is after the Office of Management and Budget has completed its review of any information collection requirements that the Media Bureau determines is required under the Paperwork Reduction Act or August 17, 2026, whichever is later.
+(2) Compliance with this paragraph (e) is required for devices that use next generation operating systems deployed after August 17, 2026.
 
 (3) This paragraph (e) places no restrictions on the importing, shipping, or sale of apparatus that were manufactured before August 17, 2026.
 
-[77 FR 19518, Mar. 30, 2012, as amended at 78 FR 39628, July 2, 2013; 89 FR 66282, Aug. 15, 2024]
+[77 FR 19518, Mar. 30, 2012, as amended at 78 FR 39628, July 2, 2013; 89 FR 66282, Aug. 15, 2024; 90 FR 10042, Feb. 21, 2025]

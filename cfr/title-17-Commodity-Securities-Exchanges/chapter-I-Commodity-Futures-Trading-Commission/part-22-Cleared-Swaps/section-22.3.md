@@ -1,7 +1,5 @@
 ##### § 22.3 Derivatives clearing organizations: Treatment of cleared swaps customer collateral. #####
 
-Link to an amendment published at 90 FR 7873, Jan. 22, 2025.
-
 (a) *General.* A derivatives clearing organization shall treat and deal with the Cleared Swaps Customer Collateral deposited by a futures commission merchant as belonging to the Cleared Swaps Customers of such futures commission merchant and not other persons, including, without limitation, the futures commission merchant.
 
 (b) *Location of Cleared Swaps Customer Collateral.* (1) The derivatives clearing organization must segregate all Cleared Swaps Customer Collateral that it receives from futures commission merchants, and must either hold such Cleared Swaps Customer Collateral itself as set forth in paragraph (b)(2) of this section, or deposit such collateral into one or more Cleared Swaps Customer Accounts held at a Permitted Depository, as set forth in paragraph (b)(3) of this section.
@@ -32,6 +30,6 @@ Link to an amendment published at 90 FR 7873, Jan. 22, 2025.
 
 (iii) Futures Customer Funds (as § 1.3 of this chapter defines such term) or the foreign futures or foreign options secured amount (as § 1.3 of this chapter defines such term), except as expressly permitted by Commission rule, regulation, or order, (or by a derivatives clearing organization rule approved in accordance with § 39.15(b)(2) of this chapter).
 
-(d) *Exceptions; Permitted Investments.* Notwithstanding the foregoing and § 22.15, a derivatives clearing organization may invest the money, securities, or other property constituting Cleared Swaps Customer Collateral in accordance with § 1.25 of this chapter.
+(d) *Exceptions; permitted investments.* Notwithstanding the foregoing and § 22.15, a derivatives clearing organization may invest the money, securities, or other property constituting Cleared Swaps Customer Collateral in accordance with § 1.25 of this chapter. A derivative clearing organization shall bear sole responsibility for any losses resulting from the investment of Cleared Swaps Customer Collateral in instruments described in § 1.25 of this chapter. No investment losses shall be borne or otherwise allocated to a futures commission merchant.
 
-[77 FR 6371, Feb. 7, 2012, as amended at 77 FR 66334, Nov. 2, 2012]
+[77 FR 6371, Feb. 7, 2012, as amended at 77 FR 66334, Nov. 2, 2012; 90 FR 7873, Jan. 22, 2025]

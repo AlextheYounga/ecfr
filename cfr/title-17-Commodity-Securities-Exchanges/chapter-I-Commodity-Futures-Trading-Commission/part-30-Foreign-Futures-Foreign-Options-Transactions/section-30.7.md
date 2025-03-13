@@ -1,6 +1,6 @@
 ##### § 30.7 Treatment of foreign futures or foreign options secured amount. #####
 
-Link to an amendment published at 90 FR 7873, Jan. 22, 2025.Link to an amendment published at 90 FR 7938, Jan. 22, 2025.
+Link to an amendment published at 90 FR 7938, Jan. 22, 2025.
 
 (a) *General.* Except as provided in this section, a futures commission merchant must at all times maintain in a separate account or accounts money, securities and property in an amount at least sufficient to cover or satisfy all of its obligations to 30.7 customers denominated as the foreign futures or foreign options secured amount. In computing the foreign futures or foreign options secured amount, a futures commission merchant may offset any net deficit in a particular 30.7 customer's account against the current market value of readily marketable securities held for the same particular 30.7 customer's account as provided for in paragraph (l) of this section. The amount that must be deposited in such separate account or accounts for 30.7 customers must be no less than the amount required to be held in a separate account or accounts for or on behalf of 30.7 customers pursuant to any law, or rule, regulation or order thereunder, or any rule of any self-regulatory organization authorized thereunder, in the jurisdiction in which the depository or the 30.7 customer, as appropriate, is located.
 
@@ -24,11 +24,11 @@ Link to an amendment published at 90 FR 7873, Jan. 22, 2025.Link to an amendment
 
 (d) *Written acknowledgment from depositories.* (1) A futures commission merchant must obtain a written acknowledgment from each depository prior to or contemporaneously with the opening of an account by the futures commission merchant with such depository; *Provided, however,* that a written acknowledgment need not be obtained from a derivatives clearing organization that has adopted and submitted to the Commission rules that provide for the separate holding of foreign futures or foreign options secured amount, in accordance with all relevant provisions of the Act, this part and the regulations and orders promulgated thereunder, of all funds held on behalf of 30.7 customers and all instruments purchased with funds set aside as the foreign futures or foreign options secured amount as provided for under paragraph (h) of this section.
 
-(2) The written acknowledgment must be in the form as set out in appendix E to this part; *Provided, however,* that if the futures commission merchant invests funds set aside as the foreign futures or foreign options secured amount in money market mutual funds as a permitted investment under paragraph (h) of this section and in accordance with the terms and conditions of § 1.25(c) of this chapter, the written acknowledgment with respect to such investment must be in the form as set out in appendix F to this part.
+(2) The written acknowledgment must be in the form as set out in appendix E to this part; *Provided, however,* that if the futures commission merchant invests funds set aside as the foreign futures or foreign options secured amount in government money market funds as a permitted investment under paragraph (h) of this section and in accordance with the terms and conditions of § 1.25(c) of this chapter, the written acknowledgment with respect to such investment must be in the form as set out in appendix F to this part.
 
-(3)(i) A futures commission merchant shall deposit 30.7 customer funds only with a depository that agrees to provide the Director of the Market Participants Division, or any successor division, or such Director's designees, with direct, read-only electronic access to transaction and account balance information for 30.7 customer accounts.
+(3)(i) A futures commission merchant shall deposit 30.7 customer funds only with a depository that agrees to provide the Director of the Market Participants Division, or any successor division, or such Director's designees, with account balance information for 30.7 customer accounts.
 
-(ii) The written acknowledgment must contain the futures commission merchant's authorization to the depository to provide direct, read-only electronic access to 30.7 customer account transaction and account balance information to the Director of the Market Participants Division, or any successor division, or such Director's designees, without further notice to or consent from the futures commission merchant.
+(ii) The written acknowledgment must contain the futures commission merchant's authorization to the depository to provide account balance information to the Director of the Market Participants Division, or any successor division, or such Director's designees, without further notice to or consent from the futures commission merchant.
 
 (4) A futures commission merchant shall deposit 30.7 customer funds only with a depository that agrees to provide the Commission and the futures commission merchant's designated self-regulatory organization with a copy of the executed written acknowledgment no later than three business days after the opening of the account or the execution of a new written acknowledgment for an existing account, as applicable. The Commission must receive the written acknowledgment from the depository via electronic means, in a format and manner determined by the Commission. The written acknowledgment must contain the futures commission merchant's authorization to the depository to provide the written acknowledgment to the Commission and to the futures commission merchant's designated self-regulatory organization without further notice to or consent from the futures commission merchant.
 
@@ -184,13 +184,21 @@ Link to an amendment published at 90 FR 7873, Jan. 22, 2025.Link to an amendment
 
 (C) General obligation issued by any enterprise sponsored by the United States (government sponsored enterprise securities);
 
-(D) Certificates of deposit issued by a bank;
+(D) Permitted foreign sovereign debt by country:
 
-(E) Commercial paper fully guaranteed as to principal and interest by the United States under the Temporary Liquidity Guarantee Program as administered by the Federal Deposit Insurance Corporation;
+(*1*) Canada;
 
-(F) Corporate notes or bonds fully guaranteed as to principal and interest by the United States under the Temporary Liquidity Guarantee Program as administered by the Federal Deposit Insurance Corporation; and
+(*2*) France;
 
-(G) Interests in money market mutual funds.
+(*3*) Germany;
+
+(*4*) Japan;
+
+(*5*) United Kingdom;
+
+(E) Interests in U.S. Treasury exchange-traded funds; and
+
+(F) Interests in government money market funds.
 
 (6) Each futures commission merchant must report the total amount of customer-owned securities held by the futures commission merchant as 30.7 customer funds and must list the names and locations of the depositories holding customer-owned securities.
 
@@ -202,4 +210,4 @@ Link to an amendment published at 90 FR 7873, Jan. 22, 2025.Link to an amendment
 
 (10) Each futures commission merchant shall retain its daily secured amount computation, the Statement of Secured Amounts and Funds Held in Separate Accounts for 30.7 Customers pursuant to Commission Regulation 30.7 required by paragraph (l)(1) of this section, and the detailed list of depositories required by paragraph (l)(5) of this section, together with all supporting documentation, in accordance with the requirements of § 1.31 of this chapter.
 
-[78 FR 68648, Nov. 14, 2013, as amended at 79 FR 44126, July 30, 2014; 89 FR 71811, Sept. 4, 2024]
+[78 FR 68648, Nov. 14, 2013, as amended at 79 FR 44126, July 30, 2014; 89 FR 71811, Sept. 4, 2024; 90 FR 7873, Jan. 22, 2025]

@@ -418,13 +418,13 @@ Brokers or dealers shall compute a deduction for each category above as follows:
 
 (*1*) Less than 30 days to maturity—0 percent.
 
-(*2*) 30 days but less than 91 days to maturity1/8 of 1 percent.
+(*2*) 30 days but less than 91 days to maturity 1/8 of 1 percent.
 
-(*3*) 91 days but less than 181 days to maturity1/4 of 1 percent.
+(*3*) 91 days but less than 181 days to maturity 1/4 of 1 percent.
 
-(*4*) 181 days but less than 271 days to maturity3/8 of 1 percent.
+(*4*) 181 days but less than 271 days to maturity 3/8 of 1 percent.
 
-(*5*) 271 days but less than 1 year to maturity1/2 of 1 percent; and
+(*5*) 271 days but less than 1 year to maturity 1/2 of 1 percent; and
 
 (*6*) With respect to any negotiable certificate of deposit or bankers acceptance or similar type of instrument issued or guaranteed by any bank, as defined above, having 1 year or more to maturity, the deduction shall be on the greater of the long or short position and shall be the same percentage as that prescribed in paragraph (c)(2)(vi)(A) of this section.
 

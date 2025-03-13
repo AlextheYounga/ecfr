@@ -1,6 +1,6 @@
 ##### § 22.2 Futures Commission Merchants: Treatment of Cleared Swaps and Associated Cleared Swaps Customer Collateral. #####
 
-Link to an amendment published at 90 FR 7873, Jan. 22, 2025.Link to an amendment published at 90 FR 7937, Jan. 22, 2025.
+Link to an amendment published at 90 FR 7937, Jan. 22, 2025.
 
 (a) *General.* A futures commission merchant shall treat and deal with the Cleared Swaps of Cleared Swaps Customers and associated Cleared Swaps Customer Collateral as belonging to Cleared Swaps Customers.
 
@@ -132,13 +132,21 @@ Link to an amendment published at 90 FR 7873, Jan. 22, 2025.Link to an amendment
 
 (C) General obligation issued by any enterprise sponsored by the United States (government sponsored enterprise securities);
 
-(D) Certificates of deposit issued by a bank;
+(D) Permitted foreign sovereign debt by country:
 
-(E) Commercial paper fully guaranteed as to principal and interest by the United States under the Temporary Liquidity Guarantee Program as administered by the Federal Deposit Insurance Corporation;
+(*1*) Canada;
 
-(F) Corporate notes or bonds fully guaranteed as to principal and interest by the United States under the Temporary Liquidity Guarantee Program as administered by the Federal Deposit Insurance Corporation; and
+(*2*) France;
 
-(G) Interests in money market mutual funds.
+(*3*) Germany;
+
+(*4*) Japan;
+
+(*5*) United Kingdom;
+
+(E) Interests in U.S. Treasury exchange-traded funds; and
+
+(F) Interests in government money market funds.
 
 (6) Each futures commission merchant must report the total amount of customer owned securities held by the futures commission merchant as Cleared Swaps Customer Collateral and must list the names and locations of the depositories holding customer owned securities.
 
@@ -150,4 +158,4 @@ Link to an amendment published at 90 FR 7873, Jan. 22, 2025.Link to an amendment
 
 (10) Each futures commission merchant shall retain its daily segregation computation and the Statement of Cleared Swaps Customer Segregation Requirements and Funds in Cleared Swaps Customer Accounts under section 4d(f) of the CEA required by paragraph (g)(2) of this section and the detailed listing of depositories required by paragraph (g)(5) of this section, together with all supporting documentation, in accordance with § 1.31 of this chapter.
 
-[77 FR 6371, Feb. 7, 2012, as amended at 77 FR 66334, Nov. 2, 2012; 78 FR 68645, Nov. 14, 2013]
+[77 FR 6371, Feb. 7, 2012, as amended at 77 FR 66334, Nov. 2, 2012; 78 FR 68645, Nov. 14, 2013; 90 FR 7873, Jan. 22, 2025]

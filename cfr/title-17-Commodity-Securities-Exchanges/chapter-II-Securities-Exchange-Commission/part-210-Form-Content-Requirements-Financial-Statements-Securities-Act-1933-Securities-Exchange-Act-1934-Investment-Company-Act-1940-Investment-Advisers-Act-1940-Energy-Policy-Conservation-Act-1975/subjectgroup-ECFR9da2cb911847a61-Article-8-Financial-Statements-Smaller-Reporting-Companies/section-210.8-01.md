@@ -22,4 +22,4 @@ Sections 210.8-01 through 210.8-08 (Article 8) shall be applicable to financial 
 
 (f) Section 210.3-06 applies to the preparation of financial statements of smaller reporting companies.
 
-[85 FR 54065, Aug. 31, 2020, as amended at 85 FR 53672, Aug. 31, 2020]Editorial Note:At 85 FR 22000, Apr.20, 2020, § 210.8-01 was amended; however, the amendment could not be incorporated due because the section was revised at 85 FR 54065, Aug. 31, 2020. Therefore removing notes 3 and 4 which this amendment intended to revise could not be done
+[85 FR 54065, Aug. 31, 2020, as amended at 85 FR 53672, Aug. 31, 2020] Editorial Note:At 85 FR 22000, Apr.20, 2020, § 210.8-01 was amended; however, the amendment could not be incorporated due because the section was revised at 85 FR 54065, Aug. 31, 2020. Therefore removing notes 3 and 4 which this amendment intended to revise could not be done

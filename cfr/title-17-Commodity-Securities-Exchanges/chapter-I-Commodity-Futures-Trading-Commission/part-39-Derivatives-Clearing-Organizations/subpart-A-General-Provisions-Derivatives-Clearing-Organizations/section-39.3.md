@@ -16,7 +16,7 @@
 
 (b) *Stay of application review.* (1) The Commission may stay the running of the 180-day review period if an application is materially incomplete, in accordance with section 6(a) of the Act.
 
-(2) *Delegation of authority.*(i) The Commission hereby delegates, until it orders otherwise, to the Director of the Division of Clearing and Risk or the Director's designee, with the concurrence of the General Counsel or the General Counsel's designee, the authority to notify an applicant seeking registration as a derivatives clearing organization that the application is materially incomplete and the running of the 180-day period under section 6(a) of the Act is stayed.
+(2) *Delegation of authority.* (i) The Commission hereby delegates, until it orders otherwise, to the Director of the Division of Clearing and Risk or the Director's designee, with the concurrence of the General Counsel or the General Counsel's designee, the authority to notify an applicant seeking registration as a derivatives clearing organization that the application is materially incomplete and the running of the 180-day period under section 6(a) of the Act is stayed.
 
 (ii) The Director of the Division of Clearing and Risk may submit to the Commission for its consideration any matter which has been delegated in this paragraph.
 

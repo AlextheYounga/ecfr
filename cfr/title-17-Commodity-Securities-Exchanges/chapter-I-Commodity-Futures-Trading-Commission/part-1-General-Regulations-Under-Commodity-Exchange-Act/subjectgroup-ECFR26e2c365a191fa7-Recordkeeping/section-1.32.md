@@ -1,6 +1,6 @@
 ##### § 1.32 Reporting of segregated account computation and details regarding the holding of futures customer funds. #####
 
-Link to an amendment published at 90 FR 7870, Jan. 22, 2025.Link to an amendment published at 90 FR 7934, Jan. 22, 2025.
+Link to an amendment published at 90 FR 7934, Jan. 22, 2025.
 
 (a) Each futures commission merchant must compute as of the close of each business day, on a currency-by-currency basis:
 
@@ -32,13 +32,21 @@ Link to an amendment published at 90 FR 7870, Jan. 22, 2025.Link to an amendment
 
 (iii) General obligation issued by any enterprise sponsored by the United States (government sponsored enterprise securities);
 
-(iv) Certificates of deposit issued by a bank;
+(iv) Permitted foreign sovereign debt by country:
 
-(v) Commercial paper fully guaranteed as to principal and interest by the United States under the Temporary Liquidity Guarantee Program as administered by the Federal Deposit Insurance Corporation;
+(A) Canada;
 
-(vi) Corporate notes or bonds fully guaranteed as to principal and interest by the United States under the Temporary Liquidity Guarantee Program as administered by the Federal Deposit Insurance Corporation; and
+(B) France;
 
-(vii) Interests in money market mutual funds.
+(C) Germany;
+
+(D) Japan;
+
+(E) United Kingdom;
+
+(v) Interests in U.S. Treasury exchange-traded funds; and
+
+(vi) Interests in government money market funds.
 
 (g) Each futures commission merchant must report the total amount of futures customer-owned securities held by the futures commission merchant as margin collateral and must list the names and locations of the depositories holding such margin collateral.
 
@@ -50,4 +58,4 @@ Link to an amendment published at 90 FR 7870, Jan. 22, 2025.Link to an amendment
 
 (k) Each futures commission merchant shall retain its daily segregation computation and the Statement of Segregation Requirements and Funds in Segregation for Customers Trading on U.S. Commodity Exchanges required by paragraph (c) of this section, and its detailed list of depositories required by paragraph (f) of this section, together with all supporting documentation, in accordance with the requirements of § 1.31.
 
-[66 FR 41133, Aug. 7, 2001, as amended at 68 FR 5551, Feb. 4, 2003; 77 FR 66323, Nov. 2, 2012; 78 FR 68637, Nov. 14, 2013]
+[66 FR 41133, Aug. 7, 2001, as amended at 68 FR 5551, Feb. 4, 2003; 77 FR 66323, Nov. 2, 2012; 78 FR 68637, Nov. 14, 2013; 90 FR 7870, Jan. 22, 2025]
