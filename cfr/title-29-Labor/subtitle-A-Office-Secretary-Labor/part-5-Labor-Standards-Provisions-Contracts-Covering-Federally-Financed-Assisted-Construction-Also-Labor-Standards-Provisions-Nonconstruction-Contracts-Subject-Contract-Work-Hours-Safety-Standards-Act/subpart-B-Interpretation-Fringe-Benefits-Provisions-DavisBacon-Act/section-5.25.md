@@ -1,7 +1,19 @@
 ##### § 5.25 Rate of contribution or cost for fringe benefits. #####
 
-Link to an amendment published at 88 FR 57744, Aug. 23, 2023.
-
 (a) Under the amendments, the Secretary is obligated to make a separate finding of the rate of contribution or cost of fringe benefits. Only the amount of contributions or costs for fringe benefits which meet the requirements of the act will be considered by the Secretary. These requirements are discussed in this subpart.
 
 (b) The rate of contribution or cost is ordinarily an hourly rate, and will be reflected in the wage determination as such. In some cases, however, the contribution or cost for certain fringe benefits may be expressed in a formula or method of payment other than an hourly rate. In such cases, the Secretary may in his discretion express in the wage determination the rate of contribution or cost used in the formula or method or may convert it to an hourly rate of pay whenever he finds that such action would facilitate the administration of the Act. See § 5.5(a)(1)(i) and (iii).
+
+(c) Except as provided in this section, contractors must “annualize” all contributions to fringe benefit plans (or the reasonably anticipated costs of an unfunded benefit plan) to determine the hourly equivalent for which they may take credit against their fringe benefit obligation. The “annualization” principle reflects that DBRA credit for contributions made to bona fide fringe benefit plans (or the reasonably anticipated costs of an unfunded benefit plan) is allowed based on the effective rate of contributions or costs incurred for total hours worked during the year (or a shorter time period) by a laborer or mechanic.
+
+(1) *Method of computation.* To annualize the cost of providing a fringe benefit, a contractor must divide the total cost of the fringe benefit contribution (or the reasonably anticipated costs of an unfunded benefit plan) by the total number of hours worked on both private (non-DBRA) work and work covered by the Davis-Bacon Act and/or Davis-Bacon Related Acts (DBRA-covered work) during the time period to which the cost is attributable to determine the rate of contribution per hour. If the amount of contribution varies per worker, credit must be determined separately for the amount contributed on behalf of each worker.
+
+(2) *Exception requests.* Contractors, plans, and other interested parties may request an exception from the annualization requirement by submitting a request to the WHD Administrator. A request for an exception may be granted only if each of the requirements of paragraph (c)(3) of this section is satisfied. Contributions to defined contribution pension plans (DCPPs) are excepted from the annualization requirement, and exception requests therefore are not required in connection with DCPPs, provided that each of the requirements of paragraph (c)(3) is satisfied and the DCPP provides for immediate participation and essentially immediate vesting (*i.e.,* the benefit vests within the first 500 hours worked). Requests must be submitted in writing to the Division of Government Contracts Enforcement by email to *DBAannualization@dol.gov* or by mail to Director, Division of Government Contracts Enforcement, Wage and Hour Division, U.S. Department of Labor, 200 Constitution Ave. NW, Room S-3502, Washington, DC 20210.
+
+(3) *Exception requirements.* Contributions to a bona fide fringe benefit plan (or the reasonably anticipated costs of an unfunded benefit plan) are excepted from the annualization requirement if all of the following criteria are satisfied:
+
+(i) The benefit provided is not continuous in nature. A benefit is not continuous in nature when it is not available to a participant without penalty throughout the year or other time period to which the cost of the benefit is attributable; and
+
+(ii) The benefit does not compensate both private work and DBRA-covered work. A benefit does not compensate both private and DBRA-covered work if any benefits attributable to periods of private work are wholly paid for by compensation for private work.
+
+[29 FR 13465, Sept. 30, 1964, as amended at 88 FR 57744, Aug. 23, 2023]

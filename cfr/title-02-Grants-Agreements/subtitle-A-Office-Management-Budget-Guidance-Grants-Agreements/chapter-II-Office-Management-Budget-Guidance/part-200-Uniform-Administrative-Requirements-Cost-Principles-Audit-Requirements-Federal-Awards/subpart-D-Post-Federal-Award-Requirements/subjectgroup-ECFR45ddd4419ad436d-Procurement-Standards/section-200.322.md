@@ -1,7 +1,5 @@
 ##### § 200.322 Domestic preferences for procurements. #####
 
-Link to an amendment published at 88 FR 57790, Aug. 23, 2023.
-
 (a) As appropriate and to the extent consistent with law, the non-Federal entity should, to the greatest extent practicable under a Federal award, provide a preference for the purchase, acquisition, or use of goods, products, or materials produced in the United States (including but not limited to iron, aluminum, steel, cement, and other manufactured products). The requirements of this section must be included in all subawards including all contracts and purchase orders for work or products under this award.
 
 (b) For purposes of this section:
@@ -9,3 +7,7 @@ Link to an amendment published at 88 FR 57790, Aug. 23, 2023.
 (1) “Produced in the United States” means, for iron and steel products, that all manufacturing processes, from the initial melting stage through the application of coatings, occurred in the United States.
 
 (2) “Manufactured products” means items and construction materials composed in whole or in part of non-ferrous metals such as aluminum; plastics and polymer-based products such as polyvinyl chloride pipe; aggregates such as concrete; glass, including optical fiber; and lumber.
+
+(c) Federal agencies providing Federal financial assistance for infrastructure projects must implement the Buy America preferences set forth in 2 CFR part 184.
+
+[85 FR 49543, Aug. 13, 2020, as amended at 88 FR 57790, Aug. 23, 2023]

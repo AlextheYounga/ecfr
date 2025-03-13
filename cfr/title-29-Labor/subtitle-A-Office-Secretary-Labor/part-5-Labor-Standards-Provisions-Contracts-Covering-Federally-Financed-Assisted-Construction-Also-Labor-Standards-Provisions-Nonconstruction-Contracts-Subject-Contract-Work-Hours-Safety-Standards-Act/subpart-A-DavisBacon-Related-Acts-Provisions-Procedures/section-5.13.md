@@ -1,7 +1,7 @@
 ##### § 5.13 Rulings and interpretations. #####
 
-Link to an amendment published at 88 FR 57743, Aug. 23, 2023.
+(a) All questions relating to the application and interpretation of wage determinations (including the classifications therein) issued pursuant to part 1 of this subtitle, of the rules contained in this part and in parts 1 and 3 of this subtitle, and of the labor standards provisions of any of the laws referenced in § 5.1 must be referred to the Administrator for appropriate ruling or interpretation. These rulings and interpretations are authoritative and those under the Davis-Bacon Act may be relied upon as provided for in section 10 of the Portal-to-Portal Act of 1947 (29 U.S.C. 259). Requests for such rulings and interpretations should be submitted via email to *dgceinquiries@dol.gov*; by mail to Administrator, Wage and Hour Division, U.S. Department of Labor, 200 Constitution Ave., NW, Washington, DC 20210; or through other means directed by the Administrator.
 
-All questions relating to the application and interpretation of wage determinations (including the classifications therein) issued pursuant to part 1 of this subtitle, of the rules contained in this part and in parts 1 and 3, and of the labor standards provisions of any of the statutes listed in § 5.1 shall be referred to the Administrator for appropriate ruling or interpretation. The rulings and interpretations shall be authoritative and those under the Davis-Bacon Act may be relied upon as provided for in section 10 of the Portal-to-Portal Act of 1947 (29 U.S.C. 259). Requests for such rulings and interpretations should be addressed to the Administrator, Wage and Hour Division, U.S. Department of Labor, Washington, DC 20210.
+(b) If any such ruling or interpretation is made by an authorized representative of the Administrator of the Wage and Hour Division, any interested party may seek reconsideration of the ruling or interpretation by the Administrator of the Wage and Hour Division. The procedures and time limits set out in § 1.8 of this subtitle apply to any such request for reconsideration.
 
-[82 FR 2226, Jan. 9, 2017]
+[88 FR 57743, Aug. 23, 2023]

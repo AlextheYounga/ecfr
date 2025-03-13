@@ -1,7 +1,5 @@
 ##### § 250.732 What are the independent third party requirements for BOP systems and system components? #####
 
-Link to an amendment published at 88 FR 57347, Aug. 23, 2023.
-
 (a) Prior to beginning any operation requiring the use of any BOP, you must submit verification by an independent third party and supporting documentation as required by this paragraph to the appropriate District Manager and Regional Supervisor.
 
 |You must submit verification and documentation related to:|                                                                                                                                                                                                     That:                                                                                                                                                                                                     |
@@ -17,7 +15,7 @@ Link to an amendment published at 88 FR 57347, Aug. 23, 2023.
 |                                                          |                                                                                                                                                                                   (iii) Includes all relevant test results.                                                                                                                                                                                   |
 |                     (3) Calculations                     |                                                                                                                                                  Include shearing and sealing pressures for all pipe to be used in the well including corrections for MASP.                                                                                                                                                   |
 
-(b) The independent third-party must be a technical classification society, a licensed professional engineering firm, or a registered professional engineer capable of providing the required certifications and verifications.
+(b) The independent third party must be a technical classification society, a licensed professional engineering firm, or a registered professional engineer capable of providing the required certifications and verifications. You must submit the independent third party qualifications to BSEE with the associated permit application (e.g., APD and APM). BSEE will evaluate the submitted qualifications to ensure they meet the regulatory requirements for permit approval.
 
 (c) For wells in an HPHT environment, as defined by § 250.804(b), you must submit verification by an independent third party that it conducted a comprehensive review of the BOP system and related equipment you propose to use. You must provide the independent third party access to any facility associated with the BOP system or related equipment during the review process. You must submit the verifications required by this paragraph (c) to the appropriate District Manager and Regional Supervisor before you begin any operations in an HPHT environment with the proposed equipment.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 88 FR 57347, Aug. 23, 2023.
 
 (d) You must make all documentation that demonstrates compliance with the requirements of this section available to BSEE upon request.
 
-[84 FR 21978, May 15, 2019]
+[84 FR 21978, May 15, 2019, as amended at 88 FR 57347, Aug. 23, 2023]

@@ -1,10 +1,10 @@
 ##### § 622.190 Quotas. #####
 
-Link to an amendment published at 88 FR 65146, Sept. 21, 2023.Link to an amendment published at 88 FR 65822, Sept. 26, 2023.
+Link to an amendment published at 88 FR 65822, Sept. 26, 2023.
 
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section provides quotas and specific quota closure restrictions for South Atlantic snapper-grouper.
 
-(a) *South Atlantic snapper-grouper, excluding wreckfish.* The quotas apply to persons who are not subject to the bag limits. (See § 622.11 for applicability of the bag limits.) The quotas are in gutted weight, that is eviscerated but otherwise whole, except for the quotas in paragraphs (a)(4), (5), and (7) of this section which are in both gutted weight and round weight.
+(a) *South Atlantic snapper-grouper, excluding wreckfish.* The quotas apply to persons who are not subject to the bag limits. (See § 622.11 for applicability of the bag limits.) The quotas are in gutted weight, that is eviscerated but otherwise whole, except for the quotas in paragraphs (a)(4) through (6) of this section which are in both gutted weight and round weight.
 
 (1) *Snowy grouper*—(i) For the period January 1 through June 30 each year—107,754 lb (48,876 kg).
 
@@ -82,15 +82,25 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (iii) Any unused portion of the quota specified in paragraph (a)(6)(i) of this section will be added to the quota specified in paragraph (a)(6)(ii) of this section. Any unused portion of the quota specified in paragraph (a)(6)(ii) of this section, including any addition of quota specified in paragraph (a)(6)(i) of this section that was unused, will become void and will not be added to any subsequent quota.
 
-(7) *Gag*—(i) For the 2015 fishing year—295,459 lb (134,018 kg), gutted weight; 348,642 lb (158,141 kg), round weight.
+(7) *Gag.* (i) For the 2023 fishing year—85,326 lb (38,703 kg).
 
-(ii) For the 2016 fishing year—297,882 lb (135,117 kg), gutted weight; 351,501 (159,438 kg), round weight.
+(ii) For the 2024 fishing year—128,096 lb (58,103 kg).
 
-(iii) For the 2017 fishing year—318,231 lb (144,347 kg), gutted weight; 375,513 lb (170,330 kg), round weight.
+(iii) For the 2025 fishing year—171,687 lb (77,876 kg).
 
-(iv) For the 2018 fishing year—335,188 lb (152,039 kg), gutted weight; 395,522 lb (179,406 kg), round weight.
+(iv) For the 2026 fishing year—215,051 lb (97,545 kg).
 
-(v) For the 2019 and subsequent fishing years—347,301 lb (157,533 kg), gutted weight; 409,816 lb (185,889 kg), round weight.
+(v) For the 2027 fishing year—259,823 lb (117,854 kg).
+
+(vi) For the 2028 fishing year—306,400 lb (138,981 kg).
+
+(vii) For the 2029 fishing year—353,220 lb (160,218 kg).
+
+(viii) For the 2030 fishing year—397,555 lb (180,328 kg).
+
+(ix) For the 2031 fishing year—437,390 lb (198,397 kg).
+
+(x) For the 2032 and subsequent fishing years—471,966 lb (214,080 kg).
 
 (8) *Gray triggerfish.* (i) For the period January through June each year—156,162 lb (70,834 kg), round weight.
 
@@ -120,4 +130,4 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (2) [Reserved]
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49195, Aug. 13, 2013]; 78 FR 58253, Sept. 23, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 80 FR 48278, Aug. 12, 2015; 81 FR 3738, Jan. 22, 2016; 83 FR 62512, Dec. 4, 2018; 83 FR 14024, Apr. 9, 2019; 85 FR 4594, Jan. 27, 2020; 87 FR 77747, Dec. 20, 2022]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49195, Aug. 13, 2013]; 78 FR 58253, Sept. 23, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 80 FR 48278, Aug. 12, 2015; 81 FR 3738, Jan. 22, 2016; 83 FR 62512, Dec. 4, 2018; 83 FR 14024, Apr. 9, 2019; 85 FR 4594, Jan. 27, 2020; 87 FR 77747, Dec. 20, 2022; 88 FR 65146, Sept. 21, 2023]

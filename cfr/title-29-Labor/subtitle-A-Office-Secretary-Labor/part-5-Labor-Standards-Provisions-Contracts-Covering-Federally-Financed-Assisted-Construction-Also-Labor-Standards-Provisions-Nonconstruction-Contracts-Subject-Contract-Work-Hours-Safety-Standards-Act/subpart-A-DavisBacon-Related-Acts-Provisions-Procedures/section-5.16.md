@@ -1,9 +1,1 @@
-##### § 5.16 Training plans approved or recognized by the Department of Labor prior to August 20, 1975. #####
-
-Link to an amendment published at 88 FR 57743, Aug. 23, 2023.
-
-(a) Notwithstanding the provisions of § 5.5(a)(4)(ii) relating to the utilization of trainees on Federal and federally assisted construction, no contractor shall be required to obtain approval of a training program which, prior to August 20, 1975, was approved by the Department of Labor for purposes of the Davis-Bacon and Related Acts, was established by agreement of organized labor and management and therefore recognized by the Department, and/or was recognized by the Department under Executive Order 11246, as amended. A copy of the program and evidence of its prior approval, if applicable shall be submitted to the Employment and Training Administration, which shall certify such prior approval or recognition of the program. In every other respect, the provisions of § 5.5(a)(4)(ii)—including those relating to registration of trainees, permissible ratios, and wage rates to be paid—shall apply to these programs.
-
-(b) Every trainee employed on a contract executed on and after August 20, 1975, in one of the above training programs must be individually registered in the program in accordance with Employment and Training Administration procedures, and must be paid at the rate specified in the program for the level of progress. Any such employee listed on the payroll at a trainee rate who is not registered and participating in a program certified by ETA pursuant to this section, or approved and certified by ETA pursuant to § 5.5(a)(4)(ii), must be paid the wage rate determined by the Secretary of Labor for the classification of work actually performed. The ratio of trainees to journeymen shall not be greater than permitted by the terms of the program.
-
-(c) In the event a program which was recognized or approved prior to August 20, 1975, is modified, revised, extended, or renewed, the changes in the program or its renewal must be approved by the Employment and Training Administration before they may be placed into effect.
+##### § 5.16 [Reserved] #####

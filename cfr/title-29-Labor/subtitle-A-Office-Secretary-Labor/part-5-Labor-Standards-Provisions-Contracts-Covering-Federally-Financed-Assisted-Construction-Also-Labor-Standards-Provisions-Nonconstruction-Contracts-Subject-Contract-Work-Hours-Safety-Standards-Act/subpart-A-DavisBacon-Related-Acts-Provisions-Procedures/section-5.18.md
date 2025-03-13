@@ -1,3 +1,9 @@
-##### § 5.18 xxx #####
+##### § 5.18 Remedies for retaliation. #####
 
-Link to an amendment published at 88 FR 57743, Aug. 23, 2023.
+(a) *Administrator request to remedy violation.* When the Administrator finds that any person has discriminated in any way against any worker or job applicant in violation of § 5.5(a)(11) or (b)(5), or caused any person to discriminate in any way against any worker or job applicant in violation of § 5.5(a)(11) or (b)(5), the Administrator will notify the person, any contractors for whom the person worked or on whose behalf the person acted, and any upper tier contractors, as well as the relevant contracting agency(ies) of the discrimination and request that the person and any contractors for whom the person worked or on whose behalf the person acted remedy the violation.
+
+(b) *Administrator directive to remedy violation and provide make-whole relief.* If the person and any contractors for whom the person worked or on whose behalf the person acted do not remedy the violation, the Administrator in the notification of violation findings issued under § 5.11 or § 5.12 will direct the person and any contractors for whom the person worked or on whose behalf the person acted to provide appropriate make-whole relief to affected worker(s) and job applicant(s) or take appropriate remedial action, or both, to correct the violation, and will specify the particular relief and remedial actions to be taken.
+
+(c) *Examples of available make-whole relief and remedial actions.* Such relief and remedial actions may include, but are not limited to, employment, reinstatement, front pay in lieu of reinstatement, and promotion, together with back pay and interest; compensatory damages; restoration of the terms, conditions, and privileges of the worker's employment or former employment; the expungement of warnings, reprimands, or derogatory references; the provision of a neutral employment reference; and the posting of a notice to workers that the contractor or subcontractor agrees to comply with the Davis-Bacon Act and Related Acts anti-retaliation requirements.
+
+[88 FR 57743, Aug. 23, 2023]

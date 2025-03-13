@@ -1,7 +1,5 @@
 ##### § 250.733 What are the requirements for a surface BOP stack? #####
 
-Link to an amendment published at 88 FR 57347, Aug. 23, 2023.
-
 (a) When you drill or conduct operations with a surface BOP stack, you must install the BOP system before drilling or conducting operations to deepen the well below the surface casing and after the well is deepened below the surface casing point. The surface BOP stack must include at least four remote-controlled, hydraulically operated BOPs, consisting of one annular BOP, one BOP equipped with blind shear rams, and two BOPs equipped with pipe rams.
 
 (1) The blind shear rams must be capable of shearing at any point along the tubular body of any drill pipe (excluding tool joints, bottom-hole tools, and bottom hole assemblies that include heavy-weight pipe or collars), workstring, tubing and associated exterior control lines, and any electric-, wire-, and slick-line that is in the hole and sealing the wellbore after shearing. Prior to April 29, 2021, if your blind shear rams are unable to cut any electric-, wire-, or slick-line under MASP as defined for the operation and seal the wellbore, you must use an alternative cutting device capable of shearing the lines before closing the BOP. This device must be available on the rig floor during operations that require their use.
@@ -10,7 +8,7 @@ Link to an amendment published at 88 FR 57347, Aug. 23, 2023.
 
 (b) If you plan to use a surface BOP on a floating production facility you must:
 
-(1) On new floating production facilities installed after April 29, 2021, that include a surface BOP, follow the BOP requirements in § 250.734(a)(1).
+(1) On new floating production facilities installed after April 29, 2021, that include a surface BOP, or when you replace an entire surface BOP stack on an existing floating production facility, follow the BOP requirements in § 250.734(a)(1).
 
 (2) For risers installed after July 28, 2016, use a dual bore riser configuration before drilling or operating in any hole section or interval where hydrocarbons are, or may be, exposed to the well. The dual bore riser must meet the design requirements of API RP 2RD (as incorporated by reference in § 250.198), including appropriate design for the maximum anticipated operating and environmental conditions.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 88 FR 57347, Aug. 23, 2023.
 |              (4) You use a tapered drill pipe, work string, or tubing,              |At least one set of pipe rams that are capable of sealing around each size of drill pipe, work string, or tubing. If the expected pressure is greater than 5,000 psi, then you must have at least two sets of pipe rams that are capable of sealing around the larger size drill pipe, work string, or tubing. You may substitute one set of variable bore rams for two sets of pipe rams.|
 |                  (5) You use a surface BOP on a floating facility,                  |                                                                                                                                                                  The elements required by § 250.733(b)(1) of this part.                                                                                                                                                                  |
 
-[81 FR 26022, Apr. 29, 2016, as amended at 84 FR 21979, May 15, 2019]
+[81 FR 26022, Apr. 29, 2016, as amended at 84 FR 21979, May 15, 2019; 88 FR 87347, Aug. 23, 2023]

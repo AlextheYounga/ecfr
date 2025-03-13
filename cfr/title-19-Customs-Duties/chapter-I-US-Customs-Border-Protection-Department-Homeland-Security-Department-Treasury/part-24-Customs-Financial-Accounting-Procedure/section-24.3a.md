@@ -1,5 +1,7 @@
 ##### § 24.3a CBP bills; interest assessment on bills; delinquency; notice to principal and surety. #####
 
+Link to an amendment published at 88 FR 72680, Oct. 23, 2023.
+
 (a) *Due date of CBP bills.* CBP bills for supplemental duties, taxes and fees(increased or additional duties, taxes, and fees assessed upon liquidation or reliquidation), or vessel repair duties, together with interest thereon, reimbursable services (such as provided for in §§ 24.16 and 24.17), and miscellaneous amounts (bills other than duties, taxes, reimbursable services, liquidated damages, fines, and penalties) are due as provided for in § 24.3(e).
 
 (b) *Assessment of interest charges*—(1) *Bills for vessel repair duties, reimbursable services and miscellaneous amounts.* If payment is not received by CBP on or before the late payment date appearing on the bill, interest charges will be assessed upon the delinquent principal amount of the bill. The late payment date is the date 30 calendar days after the interest computation date. The interest computation date is the date from which interest is calculated and is initially the bill date.
