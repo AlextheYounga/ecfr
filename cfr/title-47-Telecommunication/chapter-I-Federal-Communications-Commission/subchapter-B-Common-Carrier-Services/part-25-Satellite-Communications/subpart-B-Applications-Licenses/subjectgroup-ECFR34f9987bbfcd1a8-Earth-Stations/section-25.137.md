@@ -1,7 +1,5 @@
 ##### § 25.137 Requests for U.S. market access through non-U.S.-licensed space stations. #####
 
-Link to an amendment published at 88 FR 84754, Dec. 6, 2023.
-
 (a) Earth station applicants requesting authority to communicate with a non-U.S.-licensed space station and entities filing a petition for declaratory ruling to access the United States market using a non-U.S.-licensed space station must attach an exhibit with their FCC Form 312 demonstrating that U.S.-licensed satellite systems have effective competitive opportunities to provide analogous services in:
 
 (1) The country in which the non-U.S. licensed space station is licensed; and
@@ -28,7 +26,7 @@ Link to an amendment published at 88 FR 84754, Dec. 6, 2023.
 
 (4) The surety bond requirement in § 25.165, for non-U.S.-licensed space stations that are not in orbit and operating.
 
-(5) Recipients of U.S. market access for NGSO-like satellite operation that have one market access request on file with the Commission in a particular frequency band, or one granted market access request for an unbuilt NGSO-like system in a particular frequency band, other than those filed or granted under the procedures in § 25.122 or § 25.123, will not be permitted to request access to the U.S. market through another NGSO-like system in that frequency band. This paragraph (d)(5) shall not apply to recipients of U.S. market access applying under § 25.122 or § 25.123.
+(5) Entities that have one market access request on file with the Commission for NGSO-like satellite operations in a particular frequency band will not be permitted to request access to the U.S. market for another NGSO-like satellite system in that frequency band in the same processing round subject to the procedures of §§ 25.157 and 25.261.
 
 (e) An entity requesting access to the United States market through a non-U.S.-licensed space station pursuant to a petition for declaratory ruling may amend its request by submitting an additional petition for declaratory ruling. Such additional petitions will be treated on the same basis as amendments filed by U.S. space station applicants for purposes of determining the order in which the petitions will be considered relative to pending applications and petitions.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 88 FR 84754, Dec. 6, 2023.
 
 (g) A non-U.S.-licensed satellite operator that acquires control of a non-U.S.-licensed space station that has been permitted to serve the United States must notify the Commission within 30 days after consummation of the transaction so that the Commission can afford interested parties an opportunity to comment on whether the transaction affected any of the considerations we made when we allowed the satellite operator to enter the U.S. market. A non-U.S.-licensed satellite that has been transferred to new owners may continue to provide service in the United States unless and until the Commission determines otherwise. If the transferee or assignee is not licensed by, or seeking a license from, a country that is a member of the World Trade Organization for services covered under the World Trade Organization Basic Telecommunications Agreement, the non-U.S.-licensed satellite operator will be required to make the showing described in paragraph (a) of this section.
 
-[62 FR 64172, Dec. 4, 1997, as amended at 64 FR 61792, Nov. 15, 1999; 65 FR 16327, Mar. 28, 2000; 65 FR 59143, Oct. 4, 2000; 68 FR 51503, Aug. 27, 2003; 68 FR 62249, Nov. 3, 2003; 69 FR 51587, Aug. 20, 2004; 78 FR 8422, Feb. 6, 2013; 81 FR 55331, Aug. 18, 2016; 81 FR 75344, Oct. 31, 2016; 85 FR 43735, July 20, 2020; 88 FR 21440, Apr. 10, 2023]
+[62 FR 64172, Dec. 4, 1997, as amended at 64 FR 61792, Nov. 15, 1999; 65 FR 16327, Mar. 28, 2000; 65 FR 59143, Oct. 4, 2000; 68 FR 51503, Aug. 27, 2003; 68 FR 62249, Nov. 3, 2003; 69 FR 51587, Aug. 20, 2004; 78 FR 8422, Feb. 6, 2013; 81 FR 55331, Aug. 18, 2016; 81 FR 75344, Oct. 31, 2016; 85 FR 43735, July 20, 2020; 88 FR 21440, Apr. 10, 2023; 88 FR 84754, Dec. 6, 2023]

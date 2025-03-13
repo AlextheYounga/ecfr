@@ -8,6 +8,6 @@
 
 (d) Following the close of the 30-day period, the Agency Decisionmaker will rule on the petition.
 
-(e) The ruling on the petition will be the Final Agency Order. A petition for reconsideration of the Assistant Administrator's ruling will not be permitted.
+(e) The ruling on the petition will be the Final Agency Order. A petition for reconsideration of the Agency Decisionmaker's ruling will not be permitted.
 
-[70 FR 28485, May 18, 2005, as amended at 88 FR 80183, Nov. 17, 2023]
+[70 FR 28485, May 18, 2005, as amended at 88 FR 80183, Nov. 17, 2023; 89 FR 713, Jan. 5, 2024]

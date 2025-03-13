@@ -90,7 +90,7 @@
 
 (7) The Agency Decisionmaker will issue a written decision on the request for administrative review within 30 days of the close of the time period for FMCSA to serve written argument and supporting documentary evidence in defense of the order, or the actual filing of such written argument and documentary evidence, whichever is earlier.
 
-(8) If a petition for administrative review is timely served in accordance with this subsection, the disputed order is stayed, pending the Assistant Administrator's review. The Agency Decisionmaker may enter an order vacating the automatic stay in accordance with the following procedures:
+(8) If a petition for administrative review is timely served in accordance with this subsection, the disputed order is stayed, pending the Agency Decisionmaker's review. The Agency Decisionmaker may enter an order vacating the automatic stay in accordance with the following procedures:
 
 (i) The Agency Official may file a motion to vacate the automatic stay demonstrating good cause why the order should not be stayed. The Agency Official's motion must be in writing, state the factual and legal basis for the motion, be accompanied by affidavits or other evidence relied on, and be served on the petitioner and Agency Decisionmaker.
 
@@ -98,7 +98,7 @@
 
 (iii) The Agency Decisionmaker will issue a decision on the motion to vacate the automatic stay within 10 days of the close of the time period for serving the answer to the motion. The 30-day period for review of the petition for administrative review in paragraph (g)(7) of this section is tolled from the time the Agency Official's motion to lift a stay is served until the Agency Decisionmaker issues a decision on the motion.
 
-(9) The Assistant Administrator's decision on a petition for administrative review of an order issued under this section constitutes the Final Agency Order.
+(9) The Agency Decisionmaker's decision on a petition for administrative review of an order issued under this section constitutes the Final Agency Order.
 
 (h) *Petition for rescission.* A motor carrier, intermodal equipment provider, broker, or freight forwarder may petition to rescind an order issued under this section if action has been taken to correct the deficiencies that resulted in the order.
 
@@ -114,10 +114,10 @@
 
 (6) If FMCSA denies the request for rescission, the petitioner may file a petition for administrative review of the denial with the Agency Decisionmaker, Federal Motor Carrier Safety Administration, 1200 New Jersey Ave. SE., Washington, DC 20590-0001, Attention: Adjudication Counsel or by electronic mail to *FMCSA.Adjudication@dot.gov.* The petition for administrative review of the denial must be served and filed within 15 days of the service of the decision denying the request for recession. The petition for administrative review must identify the disputed factual or procedural issues with respect to the denial of the petition for rescission. The petition may not, however, challenge the underlying basis of the order for which rescission was sought.
 
-(7) The Agency Decisionmaker will issue a written decision on the petition for administrative review of the denial of the petition for rescission within 60 days. The Assistant Administrator's decision constitutes the Final Agency Order.
+(7) The Agency Decisionmaker will issue a written decision on the petition for administrative review of the denial of the petition for rescission within 60 days. The Agency Decisionmaker's decision constitutes the Final Agency Order.
 
 (i) *Other orders unaffected.* If a motor carrier, intermodal equipment provider, broker, or freight forwarder subject to an order issued under this section is or becomes subject to any other order, prohibition, or requirement of the FMCSA, an order issued under this section is in addition to, and does not amend or supersede such other order, prohibition, or requirement. A motor carrier, intermodal equipment provider, broker, or freight forwarder subject to an order issued under this section remains subject to the suspension and revocation provisions of 49 U.S.C. 13905 for violations of regulations governing their operations.
 
 (j) *Inapplicability of subparts.* Subparts B, C, D, and E of this part, except § 386.67, do not apply to this section.
 
-[77 FR 24870, Apr. 26, 2012, as amended at 78 FR 58481, Sept. 24, 2013; 86 FR 57071, Oct. 14, 2021]
+[77 FR 24870, Apr. 26, 2012, as amended at 78 FR 58481, Sept. 24, 2013; 86 FR 57071, Oct. 14, 2021; 89 FR 713, Jan. 5, 2024]

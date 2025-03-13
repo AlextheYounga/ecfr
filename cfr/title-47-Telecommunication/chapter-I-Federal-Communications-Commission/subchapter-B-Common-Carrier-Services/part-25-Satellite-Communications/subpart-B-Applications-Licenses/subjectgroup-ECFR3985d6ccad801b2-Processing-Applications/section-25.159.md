@@ -1,12 +1,10 @@
 ##### § 25.159 Limits on pending applications and unbuilt satellite systems. #####
 
-Link to an amendment published at 88 FR 84754, Dec. 6, 2023.
-
 (a) [Reserved]
 
-(b) Applicants with an application for one NGSO-like satellite system license on file with the Commission in a particular frequency band, or one licensed-but-unbuilt NGSO-like satellite system in a particular frequency band, other than those filed or licensed under the procedures in § 25.122 or § 25.123, will not be permitted to apply for another NGSO-like satellite system license in that frequency band. This paragraph (b) shall not apply to applicants filing under § 25.122 or § 25.123.
+(b) Applicants with an application for one NGSO-like satellite system license on file with the Commission in a particular frequency band will not be permitted to apply for another NGSO-like satellite system license in that frequency band in the same processing round subject to the procedures of §§ 25.157 and 25.261.
 
-(c) If an applicant has an attributable interest in one or more other entities seeking one or more space station licenses, the pending applications and licensed-but-unbuilt satellite systems filed by those other entities will be counted as filed by the applicant for purposes of the limits on the number of pending space station applications and licensed-but-unbuilt satellite systems in this paragraph. For purposes of this paragraph, an applicant has an “attributable interest” in another entity if:
+(c) If an applicant has an attributable interest in one or more other entities seeking one or more space station licenses or grants of U.S. market access, the pending applications and licensed-but-unbuilt satellite systems filed by those other entities will be counted as filed by the applicant for purposes of the limits on the number of pending space station applications or requests for U.S. market access and licensed-but-unbuilt satellite systems in this section and in § 25.137(d)(5). For purposes of this section, an applicant has an “attributable interest” in another entity if:
 
 (1) It holds equity (including all stockholdings, whether voting or nonvoting, common or preferred) and debt interest or interests, in the aggregate, exceed thirty-three (33) percent of the total asset value (defined as the aggregate of all equity plus all debt) of that entity, or
 
@@ -18,4 +16,4 @@ Link to an amendment published at 88 FR 84754, Dec. 6, 2023.
 
 (e) For purposes of this section, “frequency band” means one of the paired frequency bands available for satellite service listed in § 25.202.
 
-[68 FR 51506, Aug. 27, 2003, as amended at 81 FR 55334, Aug. 18, 2016; 85 FR 43735, July 20, 2020]
+[68 FR 51506, Aug. 27, 2003, as amended at 81 FR 55334, Aug. 18, 2016; 85 FR 43735, July 20, 2020; 88 FR 84754, Dec. 6, 2023]

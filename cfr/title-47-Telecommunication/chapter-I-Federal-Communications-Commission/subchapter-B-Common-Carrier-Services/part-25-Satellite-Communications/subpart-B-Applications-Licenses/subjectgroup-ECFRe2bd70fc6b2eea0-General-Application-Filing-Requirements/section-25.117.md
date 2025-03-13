@@ -1,6 +1,6 @@
 ##### § 25.117 Modification of station license. #####
 
-Link to an amendment published at 87 FR 72404, Nov. 25, 2022.Link to an amendment published at 88 FR 84754, Dec. 6, 2023.
+Link to an amendment published at 87 FR 72404, Nov. 25, 2022.
 
 (a) Except as provided for in § 25.118 (Modifications not requiring prior authorization), no modification of a radio station governed by this part which affects the parameters or terms and conditions of the station authorization shall be made except upon application to and grant of such application by the Commission.
 
@@ -28,7 +28,9 @@ Link to an amendment published at 87 FR 72404, Nov. 25, 2022.Link to an amendmen
 
 (1) That states that the additional time is required due to unforeseeable circumstances beyond the applicant's control, describes these circumstances with specificity, and justifies the precise extension period requested; or
 
-(2) That states there are unique and overriding public interest concerns that justify an extension, identifies these interests and justifies a precise extension period (f) An application for modification of a space station license to add an ancillary terrestrial component to an eligible satellite network will be treated as a request for a minor modification if the particulars of operations provided by the applicant comply with the criteria specified in § 25.149. Notwithstanding the treatment of such an application as a minor modification, the Commission shall place any initial application for the modification of a space station license to add an ancillary terrestrial component on notice for public comment. Except as provided for in § 25.149(f), no application for authority to add an ancillary terrestrial component to an eligible satellite network shall be granted until the applicant has demonstrated actual compliance with the criteria specified in § 25.149(b).
+(2) That states there are unique and overriding public interest concerns that justify an extension, identifies these interests and justifies a precise extension period.
+
+(f) An application for modification of a space station license to add an ancillary terrestrial component to an eligible satellite network will be treated as a request for a minor modification if the particulars of operations provided by the applicant comply with the criteria specified in § 25.149. Notwithstanding the treatment of such an application as a minor modification, the Commission shall place any initial application for the modification of a space station license to add an ancillary terrestrial component on notice for public comment. Except as provided for in § 25.149(f), no application for authority to add an ancillary terrestrial component to an eligible satellite network shall be granted until the applicant has demonstrated actual compliance with the criteria specified in § 25.149(b).
 
 (g) The licensee and grantees shall ensure compliance with the Commission's radio frequency exposure requirements in §§ 1.1307(b), 2.1091, and 2.1093 of this chapter, as appropriate. An Environmental Assessment may be required if RF radiation from the proposed facilities would, in combination with radiation from other sources, cause RF power density or field strength in an accessible area to exceed the applicable limits specified in § 1.1310 of this chapter. *See* § 1.1307(b)(5)(iii).
 
@@ -42,4 +44,12 @@ Link to an amendment published at 87 FR 72404, Nov. 25, 2022.Link to an amendmen
 
 (2) Repositioning one or more antenna beams by no more than 0.3 angular degrees from a line between the space station and the initially authorized boresight location(s).
 
-[56 FR 24016, May 28, 1991, as amended at 61 FR 9952, Mar. 12, 1996; 62 FR 5928, Feb. 10, 1997; 68 FR 33649, June 5, 2003; 68 FR 47858, Aug. 12, 2003; 68 FR 51503, Aug. 27, 2003; 68 FR 62248, Nov. 3, 2003; 68 FR 63998, Nov. 12, 2003; 69 FR 47794, Aug. 6, 2004; 70 FR 32253, June 2, 2005; 72 FR 60279, Oct. 24, 2007; 78 FR 8421, Feb. 6, 2013; 81 FR 55328, Aug. 18, 2016; 85 FR 18150, Apr. 1, 2020; 85 FR 43733, July 20, 2020; 88 FR 21440, Apr. 10, 2023]
+(i) Unless otherwise ordered by the Commission, an application to add a space station point of communication to an earth station authorization will be deemed granted 35 days after the date of the public notice that the application has been accepted for filing, provided:
+
+(1) The license modification is only to add one or more points of communication;
+
+(2) The modification will not cause the earth station transmissions to exceed the highest EIRP, EIRP density, and bandwidth prescribed for any already authorized emission; and
+
+(3) The new space station point of communication will operate with the earth station only in frequency bands that are not shared with Federal or terrestrial wireless users and are not subject to coordination requirements with other non-Federal satellite services.
+
+[56 FR 24016, May 28, 1991, as amended at 61 FR 9952, Mar. 12, 1996; 62 FR 5928, Feb. 10, 1997; 68 FR 33649, June 5, 2003; 68 FR 47858, Aug. 12, 2003; 68 FR 51503, Aug. 27, 2003; 68 FR 62248, Nov. 3, 2003; 68 FR 63998, Nov. 12, 2003; 69 FR 47794, Aug. 6, 2004; 70 FR 32253, June 2, 2005; 72 FR 60279, Oct. 24, 2007; 78 FR 8421, Feb. 6, 2013; 81 FR 55328, Aug. 18, 2016; 85 FR 18150, Apr. 1, 2020; 85 FR 43733, July 20, 2020; 88 FR 21440, Apr. 10, 2023; 88 FR 84754, Dec. 6, 2023]
