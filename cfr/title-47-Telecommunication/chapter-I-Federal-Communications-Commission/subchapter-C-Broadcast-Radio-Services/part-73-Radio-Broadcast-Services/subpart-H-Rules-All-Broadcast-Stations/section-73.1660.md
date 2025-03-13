@@ -1,12 +1,10 @@
 ##### § 73.1660 Acceptability of broadcast transmitters. #####
 
-Link to an amendment published at 88 FR 67116, Sept. 29, 2023.
-
 (a)(1) An AM, FM, or TV transmitter shall be approved for compliance with the requirements of this part following the Supplier's Declaration of Conformity procedures described in subpart J of part 2 of this chapter.
 
 Note 1 to paragraph (a)(1):
 
-the verification procedure has been replaced by Supplier's Declaration of Conformity. AM, FM, and TV transmitters previously authorized under subpart J of part 2 of this chapter may remain in use. See § 2.950(j) of this chapter.
+The verification procedure has been replaced by Supplier's Declaration of Conformity. AM, FM, and TV transmitters previously authorized under subpart J of part 2 of this chapter may remain in use. See § 2.950 of this chapter.
 
 (2) An LPFM transmitter shall be certified for compliance with the requirements of this part following the procedures described in part 2 of this chapter.
 
@@ -18,4 +16,4 @@ the verification procedure has been replaced by Supplier's Declaration of Confor
 
 (e) Additional rules covering certification and Supplier's Declaration of Conformity, modification of authorized transmitters, and withdrawal of a grant of authorization are contained in part 2 of this chapter.
 
-[63 FR 36604, July 7, 1998, as amended at 65 FR 30004, May 10, 2000; 65 FR 67304, Nov. 9, 2000; 82 FR 50835, Nov. 2, 2017]
+[63 FR 36604, July 7, 1998, as amended at 65 FR 30004, May 10, 2000; 65 FR 67304, Nov. 9, 2000; 82 FR 50835, Nov. 2, 2017; 88 FR 67186, Sept. 29, 2023]

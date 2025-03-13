@@ -1,14 +1,14 @@
 ##### § 351.227 Covered merchandise referrals. #####
 
-Link to an amendment published at 88 FR 67078, Sept. 29, 2023.
-
 (a) *Introduction.* The Trade Facilitation and Trade Enforcement Act of 2015 contains Title IV—Prevention of Evasion of Antidumping and Countervailing Duty Orders (short title “Enforce and Protect Act of 2015” or “EAPA”) (Pub. L. 114-125, sections 401, 421, 130 Stat. 122, 155, 161 (2016)). The Enforce and Protect Act of 2015 added section 517 to the Act, which established a new framework by which the Customs Service can conduct civil administrative investigations of potential duty evasion of an antidumping and/or countervailing duty order (referred to herein as an “EAPA investigation”). Section 517(b)(4)(A)(i) of the Act provides a procedure whereby if, during the course of an EAPA investigation, the Customs Service is unable to determine whether the merchandise at issue is covered merchandise within the meaning of section 517(a)(3) of the Act, it shall refer the matter to the Secretary to make such a determination (referred to herein as a “covered merchandise referral”). Section 517(b)(4)(B) of the Act directs the Secretary to determine whether the merchandise is covered merchandise and promptly transmit the determination to the Customs Service. The Secretary will consider a covered merchandise referral and issue a covered merchandise determination in accordance with the rules and procedures in this section. Unless otherwise specified, the procedures as described in subpart C of this part (§§ 351.301 through 351.308 and 351.312 through 351.313) apply to this section.
 
-(b) *Actions with respect to covered merchandise referral.* Within 20 days after receiving a covered merchandise referral from the Customs Service pursuant to section 517(b)(4)(A)(i) of the Act that the Secretary determines to be sufficient, the Secretary will take the following action.
+(b) *Actions with respect to covered merchandise referral.* (1) Within 20 days after acknowledging receipt of a covered merchandise referral from the Customs Service pursuant to section 517(b)(4)(A)(i) of the Act that the Secretary determines to be sufficient, the Secretary will take one of the following actions.
 
-(1) Initiate a covered merchandise inquiry and publish a notice of initiation in the Federal Register; or
+(i) Initiate a covered merchandise inquiry; or
 
-(2) If the Secretary determines upon review of the covered merchandise referral that the issue can be addressed in an ongoing segment of the proceeding, such as a scope inquiry under § 351.225 or a circumvention inquiry under § 351.226, rather than initiating the covered merchandise inquiry, the Secretary will publish a notice of its intent to address the covered merchandise referral in such other segment in the Federal Register.
+(ii) If the Secretary determines upon review of the covered merchandise referral that the issue can be addressed in an ongoing segment of the proceeding, such as a scope inquiry under § 351.225 or a circumvention inquiry under § 351.226, rather than initiating the covered merchandise inquiry, the Secretary will address the covered merchandise referral in such other segment.
+
+(2) The Secretary will publish a notice of its action taken with respect to a covered merchandise referral under paragraph (b)(1) of this section in the Federal Register.
 
 (c) *Deadlines for covered merchandise determinations*—(1) *In general.* When the Secretary initiates a covered merchandise inquiry under paragraph (b)(1) of this section, the Secretary shall issue a final covered merchandise determination within 120 days from the date of publication of the notice of initiation.
 
@@ -22,7 +22,8 @@ Link to an amendment published at 88 FR 67078, Sept. 29, 2023.
 
 (3) *Alignment with other segments.* If the Secretary determines it is appropriate to do so, the Secretary may align the deadlines under this paragraph with the deadlines of another segment of the proceeding.
 
-(d) *Covered merchandise inquiry procedures.* (1) Within 30 days of the date of publication of the notice of an initiation of a covered merchandise inquiry under paragraph (b)(1) of this section, interested parties are permitted one opportunity to submit comment and factual information addressing the initiation. Within 14 days of the filing of such comments, any interested party is permitted one opportunity to submit comment and factual information to rebut, clarify, or correct factual information submitted by the other interested parties.
+(d) *Covered merchandise inquiry procedures.* (1) Within 30 days after the date of publication of the notice of an initiation of a covered merchandise inquiry under paragraph (b)(1) of this section, interested parties are permitted one opportunity to submit comments and factual information addressing the initiation. Within 14 days after the filing of such comments, any interested party is permitted one opportunity to submit comment and factual information to rebut, clarify, or correct factual information submitted by the other interested parties.
+ies.
 
 (2) Following initiation of a covered merchandise inquiry under paragraph (b)(1) of this section, the Secretary may issue questionnaires and verify submissions received, where appropriate. The Secretary may limit issuance of questionnaires to a reasonable number of respondents. Questionnaire responses are due on the date specified by the Secretary. Within 14 days after a questionnaire response has been filed with the Secretary, an interested party other than the original submitter is permitted one opportunity to submit comment and factual information to rebut, clarify, or correct factual information contained in the questionnaire response. Within 7 days of the filing of such rebuttal, clarification, or correction, the original submitter is permitted one opportunity to submit comment and factual information to rebut, clarify, or correct factual information submitted in the interested party's rebuttal, clarification or correction.
 
@@ -88,4 +89,4 @@ Link to an amendment published at 88 FR 67078, Sept. 29, 2023.
 
 (o) *Suspended investigations; suspension agreements.* The Secretary may apply the procedures set forth in this section in determining whether the product at issue is covered merchandise with respect to a suspended investigation or a suspension agreement (*see* § 351.208).
 
-[86 FR 52381, Sept. 20, 2021]
+[86 FR 52381, Sept. 20, 2021, as amended at 88 FR 67078, Sept. 29, 20223]

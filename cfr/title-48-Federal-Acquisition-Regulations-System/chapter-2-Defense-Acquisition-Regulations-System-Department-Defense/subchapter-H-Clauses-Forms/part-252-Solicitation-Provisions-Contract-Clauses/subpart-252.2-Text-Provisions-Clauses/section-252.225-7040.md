@@ -1,10 +1,8 @@
 ##### 252.225-7040 Contractor Personnel Supporting U.S. Armed Forces Deployed Outside the United States. #####
 
-Link to an amendment published at 88 FR 73238, Oct. 25, 2023.
-
 As prescribed in 225.371-5(a), use the following clause:
 
-Contractor Personnel Supporting U.S. Armed Forces Deployed Outside the United States (OCT 2015)
+Contractor Personnel Supporting U.S. Armed Forces Deployed Outside the United States (OCT 2023)
 
 (a) *Definitions.* As used in this clause—
 
@@ -194,7 +192,7 @@ Contractor Personnel Supporting U.S. Armed Forces Deployed Outside the United St
 
 (3) Process through a designated reception site (DRS) upon arrival at the deployed location. The DRS will validate personnel accountability, ensure that specific designated operational area entrance requirements are met, and brief Contractor personnel on theater-specific policies and procedures.
 
-(g) *Personnel data.* (1) The Contractor shall use the Synchronized Predeployment and Operational Tracker (SPOT) web-based system, to enter and maintain the data for all CAAF and, as designated by USD (AT&L) or the Combatant Commander, non-CAAF supporting U.S. Armed Forces deployed outside the United States as specified in paragraph (b)(1) of this clause.
+(g) *Personnel data.* (1) The Contractor shall use the Synchronized Predeployment and Operational Tracker (SPOT) web-based system, to enter and maintain the data for all CAAF and, as designated by the Under Secretary of Defense (Acquisition and Sustainment) or the Combatant Commander, non-CAAF supporting U.S. Armed Forces deployed outside the United States as specified in paragraph (b)(1) of this clause.
 
 (2) The Contractor shall enter the required information about their contractor personnel prior to deployment and shall continue to use the SPOT web-based system at *https://spot.dmdc.mil* to maintain accurate, up-to-date information throughout the deployment for all Contractor personnel. Changes to status of individual Contractor personnel relating to their in-theater arrival date and their duty location, to include closing out the deployment with their proper status (e.g., mission complete, killed, wounded) shall be annotated within the SPOT database in accordance with the timelines established in the SPOT Business Rules at *http://www.acq.osd.mil/log/PS/ctr\_mgt\_accountability.html*.
 
@@ -268,4 +266,4 @@ Contractor Personnel Supporting U.S. Armed Forces Deployed Outside the United St
 
 (3) Other military operations or military exercises, when designated by the Combatant Commander or as directed by the Secretary of Defense.
 
-(End of clause)[73 FR 16775, Mar. 31, 2008, as amended at 74 FR 34265, July 15, 2009; 76 FR 36884, June 23, 2011; 76 FR 38052, June 29, 2011; 78 FR 13548, Feb. 28, 2013; 79 FR 30472, May 28, 2014; 80 FR 5001, Jan. 29, 2015; 80 FR 36903, June 26, 2015; 80 FR 51753, Aug. 26, 2015; 80 FR 67255, Oct. 30, 2015]
+(End of clause)[73 FR 16775, Mar. 31, 2008, as amended at 74 FR 34265, July 15, 2009; 76 FR 36884, June 23, 2011; 76 FR 38052, June 29, 2011; 78 FR 13548, Feb. 28, 2013; 79 FR 30472, May 28, 2014; 80 FR 5001, Jan. 29, 2015; 80 FR 36903, June 26, 2015; 80 FR 51753, Aug. 26, 2015; 80 FR 67255, Oct. 30, 2015; 88 FR 73238, Oct. 25, 2023]

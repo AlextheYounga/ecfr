@@ -1,26 +1,30 @@
 ##### § 701.23 Purchase, sale, and pledge of eligible obligations. #####
 
-Link to an amendment published at 88 FR 67600, Sept. 29, 2023.
+This section governs a Federal credit union's purchase, sale, or pledge of all or part of a loan to one of its own members, subject to certain exceptions. For purchases of eligible obligations, except as otherwise described under paragraph (b) of this section, the borrower must be a member of the purchasing Federal credit union before the purchase is made.
 
-This section governs a federal credit union's purchase, sale, or pledge of all or part of a loan to one of its own members, subject to a limited exception for certain well capitalized federal credit unions, where no continuing contractual obligation between the seller and purchaser is contemplated. For purchases of eligible obligations, except as described in paragraph (b)(2) of this section, the borrower must be a member of the purchasing federal credit union before the purchase is made. A federal credit union may not purchase a non-member loan to hold in its portfolio.
+(a) *Definitions.* For purposes of this section:
 
-(a) For purposes of this section:
+*Eligible obligation* means a whole loan or part of a loan (other than a note held by a liquidating credit union) that does not meet the definition of a loan participation under § 701.22(a).
 
-(1) *Eligible obligation* means a loan or group of loans.
+*Liquidating credit union* means:
 
-(2) *Student loan* means a loan granted to finance the borrower's attendance at an institution of higher education or at a vocational school, which is secured by and on which payment of the outstanding principal and interest has been deferred in accordance with the insurance or guarantee of the Federal Government, of a State government, or any agency of either.
+(i) In the case of a voluntary liquidation, a credit union is a liquidating credit union as of the date the members vote to approve liquidation.
 
-(b) *Purchase.* (1) A Federal credit union may purchase, in whole or in part, within the limitations of the board of directors' written purchase policies:
+(ii) In the case of an involuntary liquidation, a credit union is a liquidating credit union as of the date the board of directors is served an order of liquidation issued by either the NCUA or the state supervisory authority.
 
-(i) Eligible obligations of its members, from any source, if either: (A) They are loans it is empowered to grant or (B) they are refinanced with the consent of the borrowers, within 60 days after they are purchased, so that they are loans it is empowered to grant;
+*Student loan* means a loan granted to finance the borrower's attendance at an institution of higher education or at a vocational school, which is secured by and on which payment of the outstanding principal and interest has been deferred in accordance with the insurance or guarantee of the Federal Government, of a state government, or any agency of either.
 
-(ii) Eligible obligations of a liquidating credit union's individual members, from the liquidating credit union;
+(b) *Purchase of loans*—(1) *Purchase of obligations from any source.* A Federal credit union may purchase, in whole or in part, within the limitations of the board of directors' written purchase policies:
 
-(iii) Student loans, from any source, if the purchaser is granting student loans on an ongoing basis and if the purchase will facilitate the purchasing credit union's packaging of a pool of such loans to be sold or pledged on the secondary market; and
+(i) *Eligible obligations.* Eligible obligations of its members, from any source, if either: (A) They are loans it is empowered to grant or (B) they are refinanced with the consent of the borrowers, within 60 days after they are purchased, so that they are loans it is empowered to grant;
 
-(iv) Real estate-secured loans, from any source, if the purchaser is granting real estate-secured loans pursuant to § 701.21 on an ongoing basis and if the purchase will facilitate the purchasing credit union's packaging of a pool of such loans to be sold or pledged on the secondary mortage market. A pool must include a substantial portion of the credit union's members' loans and must be sold promptly.
+(ii) *Notes of a liquidating credit union's individual members.* Notes of a liquidating credit union's individual members, from the liquidating credit union;
 
-(2) *Purchase of obligations from a FICU.* A federal credit union that received a composite CAMELS rating of “1” or “2” for the last two (2) full examinations and maintained a capital classification of “well capitalized” under part 702 of this chapter for the six (6) immediately preceding quarters may purchase and hold the following obligations, provided that it would be empowered to grant them:
+(iii) *Student loans.* Student loans, from any source, if the purchaser is granting student loans on an ongoing basis and if the purchase will facilitate the purchasing credit union's packaging of a pool of such loans to be sold or pledged on the secondary market; and
+
+(iv) *Real estate-secured loans.* Real estate-secured loans, from any source, if the purchaser is granting real estate-secured loans pursuant to § 701.21 on an ongoing basis and if the purchase will facilitate the purchasing credit union's packaging of a pool of such loans to be sold or pledged on the secondary mortgage market. A pool must include a substantial portion of the credit union's members' loans and must be sold promptly.
+
+(2) *Purchases of obligations from a FICU.* A Federal credit union may purchase and hold the following obligations, provided that it would be empowered to grant them:
 
 (i) *Eligible obligations.* Eligible obligations without regard to whether they are obligations of its members, provided they are purchased from a federally
 insured credit union and the obligations are either:
@@ -29,37 +33,53 @@ insured credit union and the obligations are either:
 
 (B) Loans refinanced with the consent of the borrowers, within 60 days after they are purchased, so that they are loans the purchasing credit union is empowered to grant;
 
-(ii) *Eligible obligations of a liquidating credit union.* Eligible obligations of a liquidating credit union without regard to whether they are obligations of the liquidating credit union's members.
+(ii) *Notes of a liquidating credit union.* Notes of a liquidating credit union, without regard to whether they are notes of the liquidating credit union's members;
 
 (iii) *Student loans.* Student loans provided they are purchased from a federally insured credit union only;
 
 (iv) *Real estate-secured loans.* Real estate-secured loans provided they are purchased from a federally insured credit union only;
 
-(3) A Federal credit union may make purchases in accordance with this paragraph (b), provided:
+(3) *Other requirements.* A Federal credit union may make purchases in accordance with this paragraph (b), provided:
 
 (i) The board of directors or investment committee approves the purchase;
 
-(ii) A written agreement and a schedule of the eligible obligations covered by the agreement are retained in the purchasers office; and
+(ii) A written agreement and a schedule of the eligible obligations covered by the agreement are retained by the purchaser; and
 
 (iii) For purchases under paragraph (b)(1)(ii) of this section, any advance written approval required by § 741.8 of this chapter is obtained before consummation of such purchase.
 
-(4) The aggregate of the unpaid balance of eligible obligations purchased under paragraphs (b)(1) and (b)(2)(ii) of this section shall not exceed 5 percent of the unimpaired capital and surplus of the purchaser. The following can be exculded in calculating this 5 percent limitation:
+(4) *Five-percent limitation.* The aggregate of the unpaid balance of notes purchased under paragraphs (b)(1)(ii) and (b)(2)(ii) of this section shall not exceed 5 percent of the unimpaired capital and surplus of the purchaser.
 
-(i) Student loans purchased in accordance with paragraph (b)(1)(iii) of this section;
+(5) *Grandfathered purchases.* Subject to safety and soundness considerations, a Federal credit union may hold any of the loans described in paragraph (b) of this section that were acquired before October 30, 2023; provided the transaction complied with this section at the time the transaction was executed.
 
-(ii) Real estate loans purchased in accordance with paragraph (b)(1)(iv) of this section;
+(6) *Written purchase policies.* Purchases of eligible obligations and notes of liquidating credit unions must comply with the purchasing Federal credit union's internal written purchase policies, which must:
 
-(iii) Eligible obligations purchased in accordance with paragraph (b)(1)(i) of this section that are refinanced by the purchaser so that it is a loan it is empowered to grant;
+(i) Require that the purchasing Federal credit union conduct due diligence on the seller of the loans and other counterparties to the transaction prior to the purchase.
 
-(iv) An indirect lending or indirect leasing arrangement that is classified as a loan and not the purchase of an eligible obligation because the Federal credit union makes the final underwriting decision and the sales or lease contract is assigned to the Federal credit union very soon after it is signed by the member and the dealer or leasing company.
+(ii) Establish risk assessment and risk management process requirements that are commensurate with the size, scope, type, complexity, and level of risk posed by the planned loan purchase activities.
 
-(5) *Grandfathered purchases.* Subject to safety and soundness considerations, a federal credit union may hold any of the loans described in paragraph (b)(2) of this section provided it was authorized to purchase the loan and purchased the loan before July 2, 2012.
+(iii) Establish internal underwriting and ongoing monitoring standards that are commensurate with the size, scope, type, complexity, and level of risk posed by the loan purchase activities. Underwriting and ongoing monitoring standards must address the borrower's creditworthiness and ability to repay, and the support provided by collateral if the collateral was used as part of the credit decision.
+
+(iv) Require that the written purchase agreement include:
+
+(A) The specific loans being purchased (either directly in the agreement or through a document that is incorporated by reference into the agreement);
+
+(B) The location and custodian for the original loan documents;
+
+(C) An explanation of the duties and responsibilities of the seller, servicer, and all parties with respect to all aspects of the loans being purchased, including servicing, default, foreclosure, collection, and other matters involving the ongoing administration of the loans, if applicable; and
+
+(D) The circumstances and conditions under which the parties to the agreement may replace the servicer when the seller retains the servicing rights for the loans being purchased, if applicable.
+
+(v) Establish portfolio concentration limits by loan type and risk category in relation to net worth that are commensurate with the size, scope, and complexity of the credit union's loan purchases. The policy limits must consider the potential impact of loan concentrations on the purchasing credit union's earnings, loan loss reserves, and net worth.
+
+(vi) Address when a legal review of agreements or contracts will be performed to ensure that the legal and business interests of the credit union are protected against undue risk.
 
 (c) *Sale.* A Federal credit union may sell, in whole or in part, to any source, eligible obligations of its members, eligible obligations purchased in accordance with paragraph (b)(1)(ii) of this section, student loans purchased in accordance with paragraph (b)(1)(iii) of this section, and real estate loans purchased in accordance with paragraph (b)(1)(iv) of this section, within the limitations of the board of directors' written sale policies, *Provided:*
 
-(1) The board of directors or investment committee approves the sale; and
+(1) The board of directors or investment committee approves the sale;
 
-(2) A written agreement and a schedule of the eligible obligations covered by the agreement are retained in the seller's office.
+(2) A written agreement, and a schedule of the eligible obligations covered by the agreement, is retained by the selling credit union that identifies the specific loans being sold either directly in the agreement or through a document that is incorporated by reference into the agreement; and
+
+(3) A review of the written agreement is completed that includes the terms, recourse, and risk-sharing arrangements, and, as applicable, loan administration and controls, to ensure that the selling Federal credit union's legal and business interests are protected from undue risks.
 
 (d) *Pledge.* (1) A Federal credit union may pledge, in whole or in part, to any source, eligible obligations of its members, eligible obligations purchased in accordance with paragraph (b)(1)(ii) of this section, student loans purchased in accordance with paragraph (b)(1)(iii) of this section, and real estate loans purchased in accordance with paragraph (b)(1)(iv) of this section, within the limitations of the board of directors' written pledge policies, *Provided:*
 
@@ -67,7 +87,7 @@ insured credit union and the obligations are either:
 
 (ii) Copies of the original loan documents are retained; and
 
-(iii) A written agreement covering the pledging arrangement is retained in the office of the credit union that pledges the eligible obligations.
+(iii) A written agreement covering the pledging arrangement is retained by the credit union that pledges the eligible obligations.
 
 (2) The pledge agreement shall identify the eligible obligations covered by the agreement.
 
@@ -75,7 +95,7 @@ insured credit union and the obligations are either:
 
 (f) *10 Percent limitation.* The total indebtedness owing to any Federal credit union by any person, inclusive of retained and reacquired interests, shall not exceed 10 percent of its unimpaired capital and surplus.
 
-(g)(1) *Conflicts of interest.* No federal credit union official, employee, or their immediate family member may receive, directly or indirectly, any compensation in connection with that credit union's purchase, sale, or pledge of an eligible obligation under the provisions of § 701.23.
+(g) *Payments and compensation*—(1) *Conflicts of interest.* No federal credit union official, employee, or their immediate family member may receive, directly or indirectly, any compensation in connection with that credit union's purchase, sale, or pledge of an eligible obligation under the provisions of § 701.23.
 
 (2) *Permissible payments.* This section does not prohibit:
 
@@ -91,7 +111,7 @@ insured credit union and the obligations are either:
 
 (4) *Definitions.* The definitions in § 701.21(c)(8)(ii) of this part apply to this section.
 
-(h) *Additional authority.* (1) A federal credit union may submit a written request to its regional director seeking expanded authority to purchase loans described in paragraph (b)(2) of this section, if it is not otherwise authorized by this section. The written request must include the following:
+(h) *Additional authority*—(1) *Expanded purchase authority.* A federal credit union may submit a written request to its regional director seeking expanded authority to purchase loans described in paragraph (b)(2) of this section, if it is not otherwise authorized by this section. The written request must include the following:
 
 (i) A copy of the credit union's purchase policy;
 

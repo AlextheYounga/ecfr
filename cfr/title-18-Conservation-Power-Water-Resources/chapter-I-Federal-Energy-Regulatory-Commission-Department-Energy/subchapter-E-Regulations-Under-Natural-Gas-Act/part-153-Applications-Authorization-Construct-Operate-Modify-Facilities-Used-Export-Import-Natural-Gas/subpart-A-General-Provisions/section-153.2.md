@@ -1,5 +1,7 @@
 ##### § 153.2 Definitions. #####
 
+Link to an amendment published at 88 FR 74041, Oct. 30, 2023.
+
 (a) *DOE/FE* means the Department of Energy/Office of Fossil Energy or its successor office.
 
 (b) *NBSIR* means the National Bureau of Standards Information Report.

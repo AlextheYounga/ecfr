@@ -1,5 +1,7 @@
 ##### § 388.109 Fees for record requests. #####
 
+Link to an amendment published at 88 FR 74033, Oct. 30, 2023.
+
 (a) *Fees for records available through the Public Reference Room*—(1) *General rule.* The fee for finding and duplicating records available in the Commission's Public Reference Room will vary depending on the size and complexity of the request. A person can obtain a copy of the schedule of fees in person or by mail from the Public Reference Room. This schedule is also available on the Commission's Web site. Copies of documents also may be made on self-service duplicating machines located in the Public Reference Room. In addition, copies of data extracted from the Commission's files through electronic media are available on a reimbursable basis, upon written request to the Public Reference Room.
 
 (2) Stenographic reports of Commission hearings are made by a private contractor. Interested persons may obtain copies of public hearing transcripts from the contractor at prices set in the contract, or through the search and duplication service noted above. Copies of the contract are available for public inspection in the Public Reference Room.

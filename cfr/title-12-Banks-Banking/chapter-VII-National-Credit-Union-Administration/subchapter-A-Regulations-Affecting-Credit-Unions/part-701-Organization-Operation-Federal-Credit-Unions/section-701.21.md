@@ -1,7 +1,5 @@
 ##### § 701.21 Loans to members and lines of credit to members. #####
 
-Link to an amendment published at 88 FR 67599, Sept. 29, 2023.
-
 (a) *Statement of scope and purpose.* Section 701.21 complements the provisions of section 107(5) of the Federal Credit Union Act (12 U.S.C. 1757(5)) authorizing Federal credit unions to make loans to members and issue lines of credit (including credit cards) to members. Section 107(5) of the Act contains limitations on matters such as loan maturity, rate of interest, security, and prepayment penalties. Section 701.21 interprets and implements those provisions. In addition, § 701.21 states the NCUA Board's intent concerning preemption of state laws, and expands the authority of Federal credit unions to enforce due-on-sale clauses in real property loans. Also, while § 701.21 generally applies to Federal credit unions only, certain provisions apply to loans made by federally insured, state-chartered credit unions as specified in § 741.203 of this chapter. Part 722 of this chapter sets forth requirements for appraisals for certain real estate secured loans made under § 701.21 and any other applicable lending authority. Finally, it is noted that § 701.21 does not apply to loans by Federal credit unions to other credit unions (although certain statutory limitations in section 107 of the Act apply), nor to loans to credit union organizations which are governed by section 107(5)(D) of the Act and part 712 of this chapter.
 
 (b) *Relation to other laws*—(1) *Preemption of state laws.* Section 701.21 is promulgated pursuant to the NCUA Board's exclusive authority as set forth in section 107(5) of the Federal Credit Union Act (12 U.S.C 1757(5)) to regulate the rates, terms of repayment and other conditions of Federal credit union loans and lines of credit (including credit cards) to members. This exercise of the Board's authority preempts any state law purporting to limit or affect:
@@ -169,6 +167,16 @@ Link to an amendment published at 88 FR 67599, Sept. 29, 2023.
 (C) Payment, by a Federal credit union, of an incentive or bonus to an employee, other than a senior management employee, in connection with a loan or loans made by the credit union, provided that the board of directors of the credit union establishes written policies and internal controls in connection with such incentive or bonus and monitors compliance with such policies and controls at least annually.
 
 (D) Receipt of compensation from a person outside a Federal credit union by a volunteer official or non-senior-management employee of the credit union, or an immediate family member of a volunteer official or employee of the credit union, for a service or activity performed outside the credit union, provided that no referral has been made by the credit union or the official, employee, or family member.
+
+(9) *Indirect lending and indirect leasing arrangements*—(i) *Definitions.* For purposes of this chapter, the following definitions apply:
+
+*Indirect leasing arrangement* means a written agreement to purchase leases from the leasing company where the purchaser makes the final underwriting decision, and the lease agreement is assigned to the purchaser very soon after it is signed by the member and the leasing company.
+
+*Indirect lending arrangement* means a written agreement to purchase loans from the loan originator where the purchaser makes the final underwriting decision regarding making the loan, and the loan is assigned to the purchaser very soon after the inception of the obligation to extend credit.
+
+(ii) *Indirect lending.* A loan acquired pursuant to an indirect lending arrangement, and that meets the requirements of this section, is classified as a loan and not the purchase of a loan for purposes of this chapter.
+
+(iii) *Indirect leasing.* A lease acquired pursuant to an indirect leasing arrangement, and that meets the requirements of part 714 of this chapter, is classified as a lease and not the purchase of a lease for purposes of this chapter.
 
 (d) *Loans and lines of credit to officials*—(1) *Purpose.* Sections 107(5)(A) (iv) and (v) of the Act require the approval of the board of directors of the Federal credit union in any case where the aggregate of loans to an official and loans on which the official serves as endorser or guarantor exceeds $20,000 plus pledged shares. This paragraph implements the requirement by establishing procedures for determining whether board of directors's approval is required. The section also prohibits preferential treatment of officials.
 

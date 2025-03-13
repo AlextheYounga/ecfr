@@ -1,5 +1,7 @@
 ##### § 388.110 Procedure for appeal of denial of requests for Commission records not publicly available or not available through the Public Reference Room, denial of requests for fee waiver or reduction, and denial of requests for expedited processing. #####
 
+Link to an amendment published at 88 FR 74033, Oct. 30, 2023.
+
 (a)(1) Determination letters shall indicate that a requester may seek assistance from the FOIA Public Liaison. A person whose request for records, request for fee waiver, or request for expedited processing is denied in whole or in part may seek dispute resolution services from the Office of Government Information Services, or may appeal the determination to the General Counsel or General Counsel's designee within 90 days of the determination.
 
 (2) Appeals filed pursuant to this section must be in writing, addressed to the General Counsel of the Commission, and clearly marked “Freedom of Information Act Appeal.” Such an appeal received by the Commission not addressed and marked as indicated in this paragraph will be so addressed and marked by Commission personnel as soon as it is properly identified and then will be forwarded to the General Counsel. Appeals taken pursuant to this paragraph will be considered to be received upon actual receipt by the General Counsel.

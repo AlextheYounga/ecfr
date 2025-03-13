@@ -1,7 +1,5 @@
 ##### 205.303 Announcement of contract awards. #####
 
-Link to an amendment published at 88 FR 73235, Oct. 25, 2023.
-
 (a) *Public announcement.* (i) The threshold for DoD awards is $7.5 million. Report all contractual actions, including modifications, that have a face value, excluding unexercised options, of more than $7.5 million.
 
 (A) For undefinitized contractual actions, report the not-to-exceed (NTE) amount. Later, if the definitized amount exceeds the NTE amount by more than $7.5 million, report only the amount exceeding the NTE.
@@ -12,7 +10,7 @@ Link to an amendment published at 88 FR 73235, Oct. 25, 2023.
 
 (ii) Departments and agencies submit the information—
 
-(A) To the Office of the Assistant Secretary of Defense (Public Affairs);
+(A) To the Office of the Assistant to the Secretary of Defense for Public Affairs;
 
 (B) By the close of business the day before the date of the proposed award;
 
@@ -32,4 +30,4 @@ Link to an amendment published at 88 FR 73235, Oct. 25, 2023.
 
 (iii) Departments and agencies, in accordance with department/agency procedures and concurrent with the public announcement, shall provide information similar to that required by paragraph (a)(ii) of this section to members of Congress in whose state or district the contractor is located and the work is to be performed.
 
-[56 FR 36302, July 31, 1991, as amended at 56 FR 67212, Dec. 30, 1991; 71 FR 75892, Dec. 19, 2006; 75 FR 45073, Aug. 2, 2010; 80 FR 36904, June 26, 2015; 85 FR 61504, Sept. 29, 2020]
+[56 FR 36302, July 31, 1991, as amended at 56 FR 67212, Dec. 30, 1991; 71 FR 75892, Dec. 19, 2006; 75 FR 45073, Aug. 2, 2010; 80 FR 36904, June 26, 2015; 85 FR 61504, Sept. 29, 2020; 88 FR 73235, Oct. 25, 2023]

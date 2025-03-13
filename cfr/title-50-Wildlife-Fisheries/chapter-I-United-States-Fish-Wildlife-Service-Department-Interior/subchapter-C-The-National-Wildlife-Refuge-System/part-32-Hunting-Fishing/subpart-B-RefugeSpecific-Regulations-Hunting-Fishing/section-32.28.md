@@ -156,9 +156,9 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (e) *Everglades Headwaters National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds and the incidental take of nonnative wildlife as defined by the State on designated areas of the refuge in accordance with State regulations and applicable State Wildlife Management Area regulations.
 
-(2) *Upland game hunting.* We allow upland game hunting and the incidental take of nonnative wildlife as defined by the State on designated areas of the refuge in accordance with State regulations and applicable State Wildlife Management Area regulations.
+(2) *Upland game hunting.* We allow upland game hunting and the incidental take of nonnative wildlife as defined by the State on designated areas of the refuge in accordance with State regulations and applicable State Wildlife Management Area regulations and the following condition: We require the use of non-lead ammunition when hunting upland game and the incidental take of nonnative wildlife on the Corrigan Ranch/Okeechobee Unit.
 
-(3) *Big game hunting.* We allow big game hunting and the incidental take of nonnative wildlife as defined by the State on designated areas of the refuge in accordance with State regulations and applicable State Wildlife Management Area regulations.
+(3) *Big game hunting.* We allow big game hunting and the incidental take of nonnative wildlife as defined by the State on designated areas of the refuge in accordance with State regulations and applicable State Wildlife Management Area regulations and the following condition: We require the use of non-lead ammunition when hunting big game and the incidental take of nonnative wildlife on the Corrigan Ranch/Okeechobee Unit.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations and applicable State Wildlife Management Area regulations.
 
@@ -548,4 +548,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) Anglers and crabbers must attend their lines at all times.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54107, Aug. 31, 2020; 86 FR 48857, Aug. 31, 2021]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54107, Aug. 31, 2020; 86 FR 48857, Aug. 31, 2021; 88 FR 74063, Oct. 30, 2023]

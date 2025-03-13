@@ -1,5 +1,7 @@
 ##### § 270.501 Publication of notice from jurisdictional agency. #####
 
+Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
+
 (a) Upon receipt of a notice of determination by a jurisdictional agency under § 270.204, the Commission will send an acknowledgment to the applicant and will post acknowledgment in the Commission's Public Reference Room and on the Commission's web site. Another source of the information is the Commission's copy contractor, RVJ International, Inc. RVJ International, Inc. is located in the Public Reference Room at 888 First Street, NE., Washington, DC 20426.
 
 (b) The acknowledgment will contain the following:

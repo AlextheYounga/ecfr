@@ -296,13 +296,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ix) We require proof of completion of a bow hunter education course for all archery deer hunting.
 
-(x) We require annual successful completion of an archery proficiency test with a score of 80 percent or higher for all deer hunt permit holders.
+(x) We allow hunting only from stands or blinds, or by stalking.
 
-(xi) We allow hunting only from stands or blinds, or by stalking.
+(xi) We prohibit cutting of trees or limbs greater than 1 inch (2.5 centimeters).
 
-(xii) We prohibit cutting of trees or limbs greater than 1 inch (2.5 centimeters).
-
-(xiii) We allow hunters with valid limited permits to place hunt stands on trees the day before their hunt segment begins, but they must first check-in at the hunter check station. They may not enter any hunt unit until 8 a.m., and they must leave the unit by 2 p.m. We will disqualify anyone in violation from hunting.
+(xii) We allow hunters with valid limited permits to place hunt stands on trees the day before their hunt segment begins, but they must first check-in at the hunter check station. They may not enter any hunt unit until 8 a.m., and they must leave the unit by 2 p.m. We will disqualify anyone in violation from hunting.
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge and subject to the following conditions:
 
@@ -612,4 +610,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow fishing from legal sunrise to legal sunset.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54140, Aug. 31, 2020; 86 FR 48876, Aug. 31, 2021]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54140, Aug. 31, 2020; 86 FR 48876, Aug. 31, 2021; 88 FR 74065, Oct. 30, 2023]

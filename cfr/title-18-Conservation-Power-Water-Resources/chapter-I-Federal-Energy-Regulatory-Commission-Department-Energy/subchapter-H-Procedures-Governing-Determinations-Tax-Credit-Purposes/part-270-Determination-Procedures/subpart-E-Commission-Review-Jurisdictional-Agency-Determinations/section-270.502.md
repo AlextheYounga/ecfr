@@ -1,5 +1,7 @@
 ##### § 270.502 Commission review of final determinations. #####
 
+Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
+
 (a) *Review by Commission.* Except as provided in paragraphs (b), (c) and (d) of this section, a determination submitted to the Commission by a jurisdictional agency will become final 45 days after the date on which the Commission received notice of the determination, unless within the 45 day period, the Commission:
 
 (1) Makes a preliminary finding that:

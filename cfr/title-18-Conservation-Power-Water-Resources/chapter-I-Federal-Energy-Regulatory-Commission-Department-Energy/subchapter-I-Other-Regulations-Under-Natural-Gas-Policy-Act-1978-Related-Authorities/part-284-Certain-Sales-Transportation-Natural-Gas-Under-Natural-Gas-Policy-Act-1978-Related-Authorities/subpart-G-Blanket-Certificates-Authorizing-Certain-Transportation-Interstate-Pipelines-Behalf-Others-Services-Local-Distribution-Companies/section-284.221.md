@@ -1,5 +1,7 @@
 ##### § 284.221 General rule; transportation by interstate pipelines on behalf of others. #####
 
+Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
+
 (a) *Blanket certificate.* Any interstate pipeline may apply under this section for a single blanket certificate authorizing the transportation of natural gas on behalf of others in accordance with this subpart. A certificate of public convenience and necessity under this section is granted pursuant to section 7 of the Natural Gas Act.
 
 (b) *Application procedure.* (1) An application for a blanket certificate under this section must be filed electronically. The format for the electronic application filing can be obtained at the Federal Energy Regulatory Commission, Division of Information Services, Public Reference and Files Maintenance Branch, Washington, DC 20426, and must include:

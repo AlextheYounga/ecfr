@@ -1,7 +1,5 @@
 ##### 225.872-3 Solicitation procedures. #####
 
-Link to an amendment published at 88 FR 73237, Oct. 25, 2023.
-
 (a) Except for items developed under the U.S./Canadian Development Sharing Program, use the criteria for soliciting and awarding contracts to small business concerns under FAR Part 19 without regard to whether there are potential qualifying country sources for the end product. Do not consider an offer of a qualifying country end product if the solicitation is identified for the exclusive participation of small business concerns.
 
 (b) Send solicitations directly to qualifying country sources. Solicit Canadian sources through the Canadian Commercial Corporation in accordance with 225.870.
@@ -18,8 +16,8 @@ Link to an amendment published at 88 FR 73237, Oct. 25, 2023.
 
 (3) Apply U.S. test and evaluation standards, policies, and procedures when the department or agency decides that confirmatory tests of qualifying country end products are necessary.
 
-(4) If it appears that these provisions might adversely delay service programs, obtain the concurrence of the Under Secretary of Defense (Acquisition, Technology, and Logistics), before excluding the qualifying country source from consideration.
+(4) If it appears that these provisions might adversely delay service programs, obtain the concurrence of the Under Secretary of Defense (Acquisition and Sustainment), before excluding the qualifying country source from consideration.
 
 (f) Permit industry representatives from a qualifying country to attend symposia, program briefings, prebid conferences (see FAR 14.207 and 15.201(c)), and similar meetings that address U.S. defense equipment needs and requirements. When practical, structure these meetings to allow attendance by representatives of qualifying country concerns.
 
-[68 FR 15621, Mar. 31, 2003, as amended at 72 FR 20758, Apr. 26, 2007]
+[68 FR 15621, Mar. 31, 2003, as amended at 72 FR 20758, Apr. 26, 2007; 88 FR 73237, Oct. 25, 2023]

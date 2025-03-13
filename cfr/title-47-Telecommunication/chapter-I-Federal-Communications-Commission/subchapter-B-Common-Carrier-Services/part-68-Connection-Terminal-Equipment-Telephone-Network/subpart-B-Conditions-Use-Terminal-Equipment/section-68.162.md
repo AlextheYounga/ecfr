@@ -1,7 +1,5 @@
 ##### § 68.162 Requirements for Telecommunication Certification Bodies. #####
 
-Link to an amendment published at 88 FR 67116, Sept. 29, 2023.
-
 (a) Telecommunication certification bodies (TCBs) designated by the National Institute of Standards and Technology (NIST), or designated by another authority pursuant to an bilateral or multilateral mutual recognition agreement or arrangement to which the United States is a party, shall comply with the following requirements.
 
 (b) *Certification methodology.* (1) The certification system shall be based on type testing as identified in ISO/IEC 17065.
@@ -20,7 +18,7 @@ Link to an amendment published at 88 FR 67116, Sept. 29, 2023.
 
 (6) The Commission will provide public notice of specific elements of these qualification criteria that will be used to accredit TCBs.
 
-(d) *External resources.* (1) In accordance with the provisions of ISO/IEC 1706 the evaluation of a product, or a portion thereof, may be performed by bodies that meet the applicable requirements of ISO/IEC 1702 and ISO/IEC 17065, in accordance with the applicable provisions of ISO/IEC 17065, for external resources (outsourcing) and other relevant standards. Evaluation is the selection of applicable requirements and the determination that those requirements are met. Evaluation may be performed by using internal TCB resources or external (outsourced) resources.
+(d) *External resources.* (1) In accordance with the provisions of ISO/IEC 17065 the evaluation of a product, or a portion thereof, may be performed by bodies that meet the applicable requirements of ISO/IEC 17025 and ISO/IEC 17065, in accordance with the applicable provisions of ISO/IEC 17065, for external resources (outsourcing) and other relevant standards. Evaluation is the selection of applicable requirements and the determination that those requirements are met. Evaluation may be performed by using internal TCB resources or external (outsourced) resources.
 
 (2) A recognized TCB shall not outsource review and certification decision activities.
 
@@ -70,12 +68,16 @@ Link to an amendment published at 88 FR 67116, Sept. 29, 2023.
 
 (i) *Incorporation by reference.* The material listed in this paragraph (i) is incorporated by reference in this section with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the FCC must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at the FCC and the National Archives and Records Administration (NARA). Contact the FCC through the Federal Communications Commission's Reference Information Center, phone: (202) 418-0270. For information on the availability of this material at NARA, visit *www.archives.gov/federal-register/cfr/ibr-locations.html* or email *fr.inspection@nara.gov.* The material may be obtained from the following source in this paragraph (i):
 
-(1) International Electrotechnical Commission (IEC), IEC Central Office, 3, rue de Varembe,CH-1211 Geneva 20, Switzerland, Email: *inmail@iec.ch,www.iec.ch* or International Organization for Standardization (ISO), 1, ch. De la Voie-Creuse, CP 56, CH-1211, Geneva 20, Switzerland; *www.iso.org;* Tel.: + 41 22 749 01 11; Fax: + 41 22 733 34 30; email: *central@iso.org* . (ISO publications can also be purchased from the American National Standards Institute (ANSI) through its NSSN operation (*www.nssn.org*), at Customer Service, American National Standards Institute, 25 West 43rd Street, New York, NY 10036, telephone (212) 642-4900.)
+(1) International Organization for Standardization (ISO), Ch. de Blandonnet 8, CP 401, CH-1214 Vernier, Geneva, Switzerland; phone: + 41 22 749 01 11; fax: + 41 22 749 09 47; email: *central@iso.org;* website: *www.iso.org.*
 
-(i) ISO/IEC 17025:2005(E), “General requirements for the competence of testing and calibration laboratories,” Second Edition, 2005-05-15.
+(i) ISO/IEC 17025:2017(E), *General requirements for the competence of testing and calibration laboratories,* Third Edition, November 2017.
 
-(ii) ISO/IEC 17065:2012(E), “Conformity assessment—Requirements for bodies certifying products, processes and services,” First Edition, 2012-09-15.
+(ii) ISO/IEC 17065:2012(E), *Conformity assessment—Requirements for bodies certifying products, processes and services,* First Edition, 2012-09-15.
 
 (2) [Reserved]
 
-[64 FR 4998, Feb. 2, 1999, as amended at 66 FR 27601, May 18, 2001; 67 FR 57182, Sept. 9, 2002; 80 FR 33448, June 12, 2015; 85 FR 64408, Oct. 13, 2020; 88 FR 21445, Apr. 10, 2023]
+Note 1 to paragraph (i):
+
+The standards listed in paragraphs (i) of this section are also available from the American National Standards Institute (ANSI), 25 West 43rd Street, 4th Floor, New York, NY 10036; phone (212) 642-4980; email *info@ansi.org;* website: *https://webstore.ansi.org/.*
+
+[64 FR 4998, Feb. 2, 1999, as amended at 66 FR 27601, May 18, 2001; 67 FR 57182, Sept. 9, 2002; 80 FR 33448, June 12, 2015; 85 FR 64408, Oct. 13, 2020; 88 FR 21445, Apr. 10, 2023; 88 FR 67116, Sept. 29, 2023]

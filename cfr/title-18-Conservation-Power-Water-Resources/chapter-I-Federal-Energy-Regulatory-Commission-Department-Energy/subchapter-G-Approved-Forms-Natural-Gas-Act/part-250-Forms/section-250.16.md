@@ -1,5 +1,7 @@
 ##### § 250.16 Format of compliance plan for transportation services and affiliate transactions. #####
 
+Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
+
 (a) *Who must comply.* An interstate natural gas pipeline that transports natural gas for others pursuant to Subparts B or G of Part 284 of this chapter and is affiliated, as that term is defined in § 358.3 of this chapter, in any way with a natural gas marketing or brokering entity and conducts transportation transactions with its marketing or brokering affiliate must comply with the requirements of this section. The requirements of this section also apply to pipeline sales operating units to the extent provided in § 284.286 of this chapter.
 
 (b) *Tariff requirements.* An interstate pipeline must maintain tariff provisions containing the following:
@@ -22,4 +24,4 @@
 
 (2) For purposes of this paragraph, in the case of a continuing violation, each day of the violation will constitute a separate violation.
 
-[Order 566, 59 FR 32898, June 27, 1994]Editorial Note:For Federal Register citations affecting § 250.16, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[Order 566, 59 FR 32898, June 27, 1994]Editorial Note:For Federal Register citations affecting § 250.16, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

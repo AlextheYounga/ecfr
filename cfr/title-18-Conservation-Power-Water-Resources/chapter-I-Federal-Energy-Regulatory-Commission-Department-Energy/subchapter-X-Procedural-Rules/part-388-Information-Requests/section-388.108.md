@@ -1,5 +1,7 @@
 ##### § 388.108 Requests for Commission records not available through the Public Reference Room (FOIA requests). #####
 
+Link to an amendment published at 88 FR 74033, Oct. 30, 2023.
+
 (a)(1) Except as provided in paragraph (a)(2) of this section, a person may request access to Commission records, including records maintained in electronic format, that are not available through the Public Reference Room, by using the following procedures:
 
 (i) The request must be in writing, addressed to the Director, Office of External Affairs, and clearly marked “Freedom of Information Act Request.”

@@ -1,5 +1,7 @@
 ##### § 388.106 Requests for Commission records available in the Public Reference Room and from the Commission's web site, http://www.ferc.gov. #####
 
+Link to an amendment published at 88 FR 74032, Oct. 30, 2023.
+
 (a)(1) A Public Reference Room is maintained at the Commission's headquarters and is open during regular business hours as provided in § 375.101(c) of this chapter. Publicly available documents may be obtained in person or in writing from the Public Reference Room by reasonably describing the records sought. Additional information on charges and services is available on the Web site and in the Public Reference Room.
 
 (2) Documents created by or received by FERC on or after November 1981 also are available on the Commission's Web site through its document management system. These may also be accessed in person using a personal computer in the Public Reference Room.

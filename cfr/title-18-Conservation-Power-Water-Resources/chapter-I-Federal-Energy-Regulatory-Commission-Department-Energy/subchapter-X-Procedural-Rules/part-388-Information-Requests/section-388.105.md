@@ -1,5 +1,7 @@
 ##### § 388.105 Procedures for press, television, radio, and photographic coverage. #####
 
+Link to an amendment published at 88 FR 74032, Oct. 30, 2023.
+
 (a) The Commission issues news releases on major applications, decisions, opinions, orders, rulemakings, new publications, major personnel changes, and other matters of general public interest. Releases are issued by and available to the media from the Office of External Affairs. Releases may be obtained by the public through the Public Reference Room.
 
 (b) Press, television, radio and photographic coverage of Commission proceedings is permitted as follows:

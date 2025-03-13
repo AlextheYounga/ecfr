@@ -1,7 +1,5 @@
 ##### § 351.204 Time periods and persons examined; voluntary respondents; exclusions. #####
 
-Link to an amendment published at 88 FR 67077, Sept. 29, 2023.
-
 (a) *Introduction.* Because the Act does not specify the precise period of time that the Secretary should examine in an antidumping or countervailing duty investigation, this section sets forth rules regarding the period of investigation (“POI”). In addition, this section includes rules regarding the selection of persons to be examined, the treatment of voluntary respondents that are not selected for individual examination, and the exclusion of persons that the Secretary ultimately finds are not dumping or are not receiving countervailable subsidies.
 
 (b) *Period of investigation*—(1) *Antidumping investigation.* In an antidumping investigation, the Secretary normally will examine merchandise sold during the four most recently completed fiscal quarters (or, in an investigation involving merchandise imported from a nonmarket economy country, the two most recently completed fiscal quarters) as of the month preceding the month in which the petition was filed or in which the Secretary self-initiated an investigation. However, the Secretary may examine merchandise sold during any additional or alternate period that the Secretary concludes is appropriate.
@@ -16,9 +14,7 @@ Link to an amendment published at 88 FR 67077, Sept. 29, 2023.
 
 (2) *Acceptance of voluntary respondents.* The Secretary will determine, as soon as practicable, whether to examine a voluntary respondent individually. A voluntary respondent accepted for individual examination under subparagraph (d)(1) of this section will be subject to the same requirements as an exporter or producer initially selected by the Secretary for individual examination under section 777A(c)(2) or section 777A(e)(2)(A) of the Act, including the requirements of section 782(a) of the Act and, where applicable, the use of the facts available under section 776 of the Act and § 351.308.
 
-(3) *Exclusion of voluntary respondents' rates from all-others rate.* In calculating an all-others rate under section 705(c)(5) or section 735(c)(5) of the Act, the Secretary will exclude weighted-average dumping margins or countervailable subsidy rates calculated for voluntary respondents.
-
-(4) *Requests for voluntary respondent treatment.* An interested party seeking treatment as a voluntary respondent must so indicate by including as a title on the first page of the first submission, “Request for Voluntary Respondent Treatment.”
+(3) *Requests for voluntary respondent treatment.* An interested party seeking treatment as a voluntary respondent must so indicate by including as a title on the first page of the first submission, “Request for Voluntary Respondent Treatment.”
 
 (e) *Exclusions*—(1) *In general.* The Secretary will exclude from an affirmative final determination under section 705(a) or section 735(a) of the Act or an order under section 706(a) or section 736(a) of the Act, any exporter or producer for which the Secretary determines an individual weighted-average dumping margin or individual net countervailable subsidy rate of zero or *de minimis.*
 
@@ -38,4 +34,4 @@ Link to an amendment published at 88 FR 67077, Sept. 29, 2023.
 
 (iv) A certification from the government of the affected country that the government did not provide the exporter (or the exporter's supplier) or producer with more than *de minimis* net countervailable subsidies during the period of investigation.
 
-[62 FR 27379, May 19, 1997, as amended at 73 FR 3643, Jan. 22, 2008]
+[62 FR 27379, May 19, 1997, as amended at 73 FR 3643, Jan. 22, 2008; 88 FR 67077, Sept. 29, 2023]

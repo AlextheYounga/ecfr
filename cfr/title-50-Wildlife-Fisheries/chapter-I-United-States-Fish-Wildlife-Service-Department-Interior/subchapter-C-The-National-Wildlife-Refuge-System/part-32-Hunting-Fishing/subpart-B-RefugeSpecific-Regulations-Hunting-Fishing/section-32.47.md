@@ -50,11 +50,15 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (d) *Pahranagat National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, moorhen, snipe, and dove on designated areas of the refuge subject to the following conditions:
 
-(i) We allow hunting on designated days.
+(i) We allow hunting on designated days. We prohibit any migratory game bird hunting after January 31.
 
 (ii) We only allow motorless boats or boats with electric motors on the refuge hunting area during the migratory waterfowl hunting season.
 
-(iii) From October 1 to February 1, you may only possess shotshells in quantities of 25 or fewer when in the field once you have left your assigned parking lot or boat launch.
+(iii) From October 1 to February 1, you may only be in possession of or use 25 or fewer shot shells per hunt day.
+
+(iv) We only allow hunters to use watercraft to travel to and from their hunting location for each day's hunt. Watercraft must be completely immobilized while hunting, except to retrieve downed or crippled birds.
+
+(v) We prohibit shooting 150 feet (45 meters) from the center line of roads (including access roads and two tracks), parking areas, levees, or into or from safety zones.
 
 (2) *Upland game hunting.* We allow hunting of quail and rabbit on designated areas of the refuge subject to the following conditions:
 
@@ -62,7 +66,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow hunting of jackrabbits only during the State cottontail season.
 
-(iii) You may not possess more than 25 shot shells while in the field once you have left your assigned parking lot or boat launch.
+(iii) The conditions set forth at paragraphs (d)(1)(iii) and (iv) of this section apply.
 
 (3) [Reserved]
 
@@ -126,4 +130,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54126, Aug. 31, 2020; 86 FR 48871, Aug. 31, 2021]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54126, Aug. 31, 2020; 86 FR 48871, Aug. 31, 2021; 88 FR 74064, Oct. 30, 2023]

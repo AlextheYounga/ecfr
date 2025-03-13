@@ -1,5 +1,7 @@
 ##### § 341.1 Electronic filing of tariffs and related materials. #####
 
+Link to an amendment published at 88 FR 74032, Oct. 30, 2023.
+
 (a) *General rule.* Filings of tariff publications and related materials must be made electronically.
 
 (b) *Requirement for signature.* All filings must be signed in compliance with the following:

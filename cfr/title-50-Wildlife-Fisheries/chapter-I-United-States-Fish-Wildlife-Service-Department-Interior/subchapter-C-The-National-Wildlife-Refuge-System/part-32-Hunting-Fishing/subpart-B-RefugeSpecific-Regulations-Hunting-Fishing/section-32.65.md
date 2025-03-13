@@ -1,5 +1,7 @@
 ##### § 32.65 Virginia. #####
 
+Link to an amendment published at 88 FR 74066, Oct. 30, 2023.
+
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
 (a) *Back Bay National Wildlife Refuge.* (1)-(2) [Reserved]
@@ -56,6 +58,10 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) You may not hunt, discharge a firearm, or nock an arrow or crossbow bolt within 100 feet (30.5 meters) of any building, road, or trail.
 
+(vii) Hunting is allowed only during the regular State deer season.
+
+(viii) We prohibit hunting on Sundays.
+
 (3) *Big game hunting.* We allow hunting of white-tailed deer, sika, and wild turkey on designated areas of the refuge subject to the following conditions:
 
 (i) The conditions set forth at paragraphs (b)(2)(i), (ii), (v), and (vi) of this section apply.
@@ -102,9 +108,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit the hunting of upland game at night.
 
+(iii) We prohibit hunting on Sundays.
+
 (3) *Big game hunting.* We allow hunting of white-tailed deer and wild turkey on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (c)(1)(i), (ii), and (iv) through (v) of this section apply.
+(i) The conditions set forth at paragraphs (c)(1)(i), (ii), (iv), and (v) and (c)(2)(iii) of this section apply.
 
 (ii) We allow turkey hunting during the spring season only for a mentor-led hunt.
 
@@ -388,4 +396,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54141, Aug. 31, 2020; 86 FR 48879, Aug. 31, 2021; 87 FR 57132, Sept. 16, 2022]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54141, Aug. 31, 2020; 86 FR 48879, Aug. 31, 2021; 87 FR 57132, Sept. 16, 2022; 88 FR 74065, Oct. 30, 2023]

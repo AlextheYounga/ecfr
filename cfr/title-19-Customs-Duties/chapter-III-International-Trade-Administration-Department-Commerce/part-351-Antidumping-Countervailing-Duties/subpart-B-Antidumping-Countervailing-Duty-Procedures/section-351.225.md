@@ -1,10 +1,8 @@
 ##### § 351.225 Scope rulings. #####
 
-Link to an amendment published at 88 FR 67077, Sept. 29, 2023.
-
 (a) *Introduction.* Questions sometimes arise as to whether a particular product is covered by the scope of an antidumping or countervailing duty order. Such questions may arise for a variety of reasons given that the description of the merchandise subject to the scope is written in general terms. The Secretary will initiate and conduct a scope inquiry and issue a scope ruling to determine whether or not a product is covered by the scope of an order at the request of an interested party or on the Secretary's initiative. A scope ruling that a product is covered by the scope of an order is a determination that the product has always been covered by the scope of that order. This section contains rules and procedures regarding scope rulings, including scope ruling applications, scope inquiries, and standards used in determining whether a product is covered by the scope of an order. Unless otherwise specified, the procedures as described in subpart C of this part (§§ 351.301 through 351.308 and §§ 351.312 through 351.313) apply to this section.
 
-(b) *Self-initiation of a scope inquiry.* If the Secretary determines from available information that an inquiry is warranted to determine whether a product is covered by the scope of an order, the Secretary may initiate a scope inquiry and publish a notice of initiation in the Federal Register.
+(b) *Self-initiation of a scope inquiry.* If the Secretary determines from available information that an inquiry is warranted to determine whether a product is covered by the scope of an order, the Secretary may initiate a scope inquiry by publishing a notice of initiation in the Federal Register.
 
 (c) *Scope ruling application*—(1) *Contents.* An interested party may submit a scope ruling application requesting that the Secretary conduct a scope inquiry to determine whether a product, which is or has been in actual production by the time of the filing of the application, is covered by the scope of an order. The Secretary will make available a scope ruling application, which the applicant must complete and serve in accordance with the requirements of paragraph (n) of this section.
 
@@ -50,11 +48,7 @@ Link to an amendment published at 88 FR 67077, Sept. 29, 2023.
 
 (ix) Factual information supporting the applicant's position, including full copies of prior scope determinations and relevant excerpts of other documents identified in paragraph (k)(1) of this section.
 
-(d) *Initiation of a scope inquiry and other actions based on a scope ruling application*—(1) *Initiation of a scope inquiry based on a scope ruling application.* Except as provided under paragraph (d)(2) of this section, within 30 days after the filing of a scope ruling application, the Secretary will determine whether to accept or reject the scope ruling application.
-
-(i) If the Secretary determines that a scope ruling application is incomplete or otherwise unacceptable, the Secretary may reject the scope ruling application and will provide a written explanation of the reasons for the rejection. If the scope ruling application is rejected, the applicant may resubmit the full application at any time, with all identified deficiencies corrected.
-
-(ii) If the Secretary does not reject the scope ruling application or initiate the scope inquiry within 31 days after the filing of the application, the application will be deemed accepted and the scope inquiry will be deemed initiated.
+(d) *Initiation of a scope inquiry and other actions based on a scope ruling application*—(1) *Acceptance and Initiation of a scope inquiry ruling application.* Except as provided under paragraph (d)(2) of this section, within 30 days after the filing of a scope application, the Secretary will determine whether to accept or reject the scope ruling application and to initiate or not initiate a scope inquiry, or, in the alternative, paragraph (d)(1)(ii) will apply.
 
 (2) *Addressing the scope issue in another segment of the proceeding.* Within 30 days after the filing of a scope ruling application, if the Secretary determines upon review of the application that the scope issue before the Secretary should be addressed in an ongoing segment of the proceeding, such as a circumvention inquiry under § 351.226 or a covered merchandise inquiry under § 351.227, rather than initiating a scope inquiry, the Secretary will notify the applicant of its intent to address the scope issue in such other segment.
 
@@ -62,17 +56,13 @@ Link to an amendment published at 88 FR 67077, Sept. 29, 2023.
 
 (e) *Deadlines for scope rulings*—(1) *In general.* The Secretary shall issue a final scope ruling within 120 days after the date on which the scope inquiry was initiated under paragraph (b) or (d) of this section.
 
-(2) *Extension.* The Secretary may extend the deadline in paragraph (e)(1) of this section by no more than 180 days if the Secretary determines that good cause exists to warrant an extension. Situations in which good cause has been demonstrated may include:
-
-(i) If the Secretary has issued questionnaires to the applicant or other interested parties; received responses to those questionnaires; and determined that an extension is warranted to request further information or consider and address the parties' responses on the record adequately; or
-
-(ii) The Secretary has issued a preliminary scope ruling (*see* paragraph (g) of this section).
+(2) *Extension.* The Secretary may extend the deadline in paragraph (e)(1) of this section by no more than 180 days, for a final scope ruling to be issued no later than 300 days after initiation, if the Secretary determines that good cause exists to warrant an extension. Situations in which good cause has been demonstrated may include:
 
 (3) *Alignment with other segments.* If the Secretary determines it is appropriate to do so, the Secretary may align the deadlines under this paragraph with the deadlines of another segment of the proceeding.
 
-(f) *Scope inquiry procedures.* (1) Within 30 days of the Secretary's self-initiation of a scope inquiry under paragraph (b) of this section, interested parties are permitted one opportunity to submit comments and factual information addressing the self-initiation. Within 14 days of the filing of such comments, any interested party is permitted one opportunity to submit comments and factual information to rebut, clarify, or correct factual information submitted by the other interested parties.
+(f) *Scope inquiry procedures.* (1) Within 30 days after the Secretary's self-initiation of a scope inquiry under paragraph (b) of this section, interested parties are permitted one opportunity to submit comments and factual information addressing the self-initiation. Within 14 days after the filing of such comments, any interested party is permitted one opportunity to submit comments and factual information submitted by the other interested parties.
 
-(2) Within 30 days of the initiation of a scope inquiry under paragraph (d)(2) of this section, an interested party other than the applicant is permitted one opportunity to submit comments and factual information to rebut, clarify, or correct factual information contained in the scope ruling application. Within 14 days of the filing of such rebuttal, clarification, or correction, the applicant is permitted one opportunity to submit comments and factual information to rebut, clarify, or correct factual information submitted in the interested party's rebuttal, clarification or correction.
+(2) Within 30 days after the initiation of a scope inquiry under paragraph (d)(1) of this section, an interested party other than the applicant is permitted one opportunity to submit comments and factual information to rebut, clarify, or correct factual information contained in the scope ruling application. Within 14 days after the filing of such rebuttal, clarification, or correction, the applicant is permitted one opportunity to submit comments and factual information to rebut, clarify, or correct factual information submitted in the interested party's rebuttal, clarification or correction.
 
 (3) Following initiation of a scope inquiry under paragraph (b) or (d) of this section, the Secretary may issue questionnaires and verify submissions received, where appropriate. The Secretary may limit issuance of questionnaires to a reasonable number of respondents. Questionnaire responses are due on the date specified by the Secretary. Within 14 days after a questionnaire response has been filed with the Secretary, an interested party other than the original submitter is permitted one opportunity to submit comments and factual information to rebut, clarify, or correct factual information contained in the questionnaire response. Within seven days of the filing of such rebuttal, clarification, or correction, the original submitter is permitted one opportunity to submit comments and factual information to rebut, clarify, or correct factual information submitted in the interested party's rebuttal, clarification or correction.
 
@@ -200,4 +190,4 @@ Link to an amendment published at 88 FR 67077, Sept. 29, 2023.
 
 (q) *Scope clarifications.* The Secretary may issue a scope clarification in any segment of a proceeding providing an interpretation of specific language in the scope of an order or addressing whether a product is covered or excluded by the scope of an order at issue based on previous scope determinations covering the same or similar products. Such a scope clarification may take the form of an interpretive footnote to the scope when the scope is published or issued in instructions to the Customs Service.
 
-[86 FR 52374, Sept. 20, 2021]
+[86 FR 52374, Sept. 20, 2021, as amended at 88 FR 67077, Sept. 29, 2023]

@@ -1,12 +1,10 @@
 ##### 208.7002 Assignment authority. #####
 
-Link to an amendment published at 88 FR 73236, Oct. 25, 2023.
-
 (a) Under the DoD Coordinated Acquisition Program, contracting responsibility for certain commodities is assigned to a single department, agency, or the General Services Administration (GSA). Commodity assignments are made—
 
-(1) To the departments and agencies, by the Deputy Under Secretary of Defense (Logistics);
+(1) To the departments and agencies, by the Deputy Assistant Secretary of Defense (Logistics);
 
-(2) To GSA, through agreement with GSA, by the Deputy Under Secretary of Defense (Logistics);
+(2) To GSA, through agreement with GSA, by the Deputy Assistant Secretary of Defense (Logistics);
 
 (3) Outside the contiguous United States, by the Unified Commanders; and
 
@@ -16,10 +14,10 @@ Link to an amendment published at 88 FR 73236, Oct. 25, 2023.
 
 (ii) Consider repetitive delegated acquisition responsibilities for coordinated acquisition assignment. If not considered suitable for coordinated acquisition assignment, formalize continuing agreements and distribute them to all activities concerned.
 
-(b) Under the Integrated Materiel Management Program, assignments are made by the Deputy Under Secretary of Defense (Logistics)—
+(b) Under the Integrated Materiel Management Program, assignments are made by the Deputy Assistant Secretary of Defense (Logistics)—
 
 (1) To the departments and agencies; and
 
 (2) To GSA, through agreement with GSA.
 
-[56 FR 36306, July 31, 1991, as amended at 64 FR 51075, Sept. 21, 1999; 70 FR 35544, June 21, 2005; 87 FR 76990, Dec. 16, 2022]
+[56 FR 36306, July 31, 1991, as amended at 64 FR 51075, Sept. 21, 1999; 70 FR 35544, June 21, 2005; 87 FR 76990, Dec. 16, 2022; 88 FR 73236, Oct. 25, 2023]

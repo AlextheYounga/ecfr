@@ -1,7 +1,5 @@
 ##### 231.205-70 External restructuring costs. #####
 
-Link to an amendment published at 88 FR 73237, Oct. 25, 2023.
-
 (a) *Scope.* This subsection—
 
 (1) Prescribes policies and procedures for allowing contractor external restructuring costs when savings would result for DoD; and
@@ -34,7 +32,7 @@ Link to an amendment published at 88 FR 73237, Oct. 25, 2023.
 
 (B) The costs allowed, and the business combination will result in the preservation of a critical capability that might otherwise be lost to DoD.
 
-(ii)(A) If the amount of restructuring costs is expected to exceed $25 million over a 5-year period, the designated official is the Under Secretary of Defense (Acquisition, Technology, and Logistics) or the Principal Deputy. This authority may not be delegated below the level of an Assistant Secretary of Defense.
+(ii)(A) If the amount of restructuring costs is expected to exceed $25 million over a 5-year period, the designated official is the Under Secretary of Defense (Acquisition and Sustainment) or the Principal Deputy. This authority may not be delegated below the level of an Assistant Secretary of Defense.
 
 (B) For all other cases, the designated official is the Director of the Defense Contract Management Agency. The Director may not delegate this authority.
 
@@ -76,4 +74,4 @@ Link to an amendment published at 88 FR 73237, Oct. 25, 2023.
 
 (3) If the contracting officer decides to use a repricing clause, the clause must provide for a downward-only price adjustment to ensure that DoD receives its appropriate share of restructuring net savings.
 
-[63 FR 7309, Feb. 13, 1998; 63 FR 12862, Mar. 16, 1998, as amended at 64 FR 18828, Apr. 16, 1999; 65 FR 39705, June 27, 2000; 68 FR 7440, Feb. 14, 2003; 69 FR 63332, Nov. 1, 2004; 70 FR 43075, July 26, 2005; 87 FR 76995, Dec. 16, 2022]
+[63 FR 7309, Feb. 13, 1998; 63 FR 12862, Mar. 16, 1998, as amended at 64 FR 18828, Apr. 16, 1999; 65 FR 39705, June 27, 2000; 68 FR 7440, Feb. 14, 2003; 69 FR 63332, Nov. 1, 2004; 70 FR 43075, July 26, 2005; 87 FR 76995, Dec. 16, 2022; 88 FR 73237, Oct. 25, 2023]

@@ -12,7 +12,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We allow the use of dogs when hunting migratory birds.
 
-(v) We close hunting areas on the north side of the Neosho River to all hunting from November 1 through March 1.
+(v) We close the Neosho River and refuge lands north of the Neosho River to all hunting from November 1 through March 1.
 
 (2) *Upland game hunting.* We allow hunting of coyote, pheasant, prairie chicken, quail, rabbit, State-defined furbearers, and squirrel on designated areas of the refuge subject to the following conditions:
 
@@ -182,4 +182,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (viii) The only live bait we allow is worms; we prohibit all other live bait.
 
-[85 FR 54111, Aug. 31, 2020]
+[85 FR 54111, Aug. 31, 2020, as amended at 88 FR 74064, Oct. 30, 2023]

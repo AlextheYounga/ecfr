@@ -1,5 +1,7 @@
 ##### § 284.13 Reporting requirements for interstate pipelines. #####
 
+Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
+
 An interstate pipeline that provides transportation service under subparts B or G of this part must comply with the following reporting requirements.
 
 (a) *Cross references.* The pipeline must comply with the requirements in Part 358, Part 250, and Part 260 of this chapter, where applicable.

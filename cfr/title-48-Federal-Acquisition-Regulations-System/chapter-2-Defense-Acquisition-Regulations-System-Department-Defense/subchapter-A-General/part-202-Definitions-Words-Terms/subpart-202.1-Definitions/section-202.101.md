@@ -1,7 +1,5 @@
 ##### 202.101 Definitions. #####
 
-Link to an amendment published at 88 FR 73235, Oct. 25, 2023.
-
 *Authorized aftermarket manufacturer* means an organization that fabricates an electronic part under a contract with, or with the express written authority of, the original component manufacturer based on the original component manufacturer's designs, formulas, and/or specifications.
 
 *Compromise* means disclosure of information to unauthorized persons, or a violation of the security policy of a system, in which unauthorized intentional or unintentional disclosure, modification, destruction, or loss of an object, or the copying of information to unauthorized media may have occurred.
@@ -36,13 +34,13 @@ Link to an amendment published at 88 FR 73235, Oct. 25, 2023.
 
 *Department of Defense (DoD),* as used in DFARS, means the Department of Defense, the military departments, and the defense agencies.
 
-*Departments and agencies,* as used in DFARS, means the military departments and the defense agencies. The military departments are the Departments of the Army, Navy, and Air Force (the Marine Corps is a part of the Department of the Navy). The defense agencies are the Defense Advanced Research Projects Agency, the Defense Commissary Agency, the Defense Contract Management Agency, the Defense Counterintelligence and Security Agency, the Defense Finance and Accounting Service, the Defense Health Agency, the Defense Information Systems Agency, the Defense Intelligence Agency, the Defense Logistics Agency, the Defense Threat Reduction Agency, the Missile Defense Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the Space Development Agency, the United States Cyber Command, the United States Special Operations Command, the United States Transportation Command, and the Washington Headquarters Service.
+*Departments and agencies,* as used in DFARS, means the military departments and the defense agencies. The military departments are the Departments of the Army, Navy, and Air Force (the Marine Corps is a part of the Department of the Navy, and the Space Force is a part of the Air Force). The defense agencies are the Defense Advanced Research Projects Agency, the Defense Commissary Agency, the Defense Contract Management Agency, the Defense Counterintelligence and Security Agency, the Defense Finance and Accounting Service, the Defense Health Agency, the Defense Information Systems Agency, the Defense Intelligence Agency, the Defense Logistics Agency, the Defense Threat Reduction Agency, the Missile Defense Agency, the National Geospatial-Intelligence Agency, the National Security Agency, the United States Cyber Command, the United States Special Operations Command, the United States Transportation Command, and the Washington Headquarters Service.
 
 *Electronic part* means an integrated circuit, a discrete electronic component (including, but not limited to, a transistor, capacitor, resistor, or diode), or a circuit assembly (section 818(f)(2) of Pub. L. 112-81).
 
 *Executive agency* means for DoD, the Department of Defense, the Department of the Army, the Department of the Navy, and the Department of the Air Force.
 
-*Head of the agency* means, for DoD, the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force. Subject to the direction of the Secretary of Defense, the Under Secretary of Defense (Acquisition, Technology, and Logistics), and the Director of Defense Procurement and Acquisition Policy, the directors of the defense agencies have been delegated authority to act as head of the agency for their respective agencies (i.e., to perform functions under the FAR or DFARS reserved to a head of agency or agency head), except for such actions that by terms of statute, or any delegation, must be exercised within the Office of the Secretary of Defense. (For emergency acquisition flexibilities, *see* 218.270.)
+*Head of the agency* means, for DoD, the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force. Subject to the direction of the Secretary of Defense, the Under Secretary of Defense (Acquisition and Sustainment), and the Principal Director, Defense Pricing and Contracting, the directors of the defense agencies have been delegated authority to act as head of the agency for their respective agencies (i.e., to perform functions under the FAR or DFARS reserved to a head of agency or agency head), except for such actions that by terms of statute, or any delegation, must be exercised within the Office of the Secretary of Defense. (For emergency acquisition flexibilities, *see* 218.270.)
 
 *Major defense acquisition program* is defined in 10 U.S.C. 4201.
 
@@ -76,19 +74,20 @@ Link to an amendment published at 88 FR 73235, Oct. 25, 2023.
 
 (3) Is numbered similarly to the DFARS, except that each PGI numerical designation is preceded by the letters “PGI”; and
 
-(4) Is available electronically at *http://www.acq.osd.mil/dpap/dars/index.htm.*
+(4) Is available
+at *https://www.acq.osd.mil/dpap/dars/dfarspgi/current/index.html.*
 
 *Senior procurement executive* means, for DoD—
 
-Department of Defense (including the defense agencies)—Under Secretary of Defense (Acquisition, Technology, and Logistics);
+(1) Department of Defense (including the defense agencies)—Under Secretary of Defense (Acquisition and Sustainment);
 
-Department of the Army—Assistant Secretary of the Army (Acquisition, Logistics and Technology);
+(2) Department of the Army—Assistant Secretary of the Army (Acquisition, Logistics and Technology);
 
-Department of the Navy—Assistant Secretary of the Navy (Research, Development and Acquisition);
+(3) Department of the Navy—Assistant Secretary of the Navy (Research, Development and Acquisition);
 
-Department of the Air Force—Assistant Secretary of the Air Force (Acquisition).
+(4) Department of the Air Force—Assistant Secretary of the Air Force (Acquisition); and
 
-The directors of the defense agencies have been delegated authority to act as senior procurement executive for their respective agencies, except for such actions that by terms of statute, or any delegation, must be exercised by the Under Secretary of Defense (Acquisition, Technology, and Logistics).
+(5) The directors of the defense agencies have been delegated authority to act as senior procurement executive for their respective agencies, except for such actions that by terms of statute, or any delegation, must be exercised by the Under Secretary of Defense (Acquisition and Sustainment).
 
 *Sufficient non-Government sales* means relevant sales data that reflects market pricing and contains enough information to make adjustments covered by FAR 15.404-1(b)(2)(ii)(B).
 

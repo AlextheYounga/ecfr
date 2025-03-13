@@ -1,8 +1,6 @@
 ##### § 701.22 Loan participations. #####
 
-Link to an amendment published at 88 FR 67600, Sept. 29, 2023.
-
-This section applies only to loan participations as defined in paragraph (a) of this section. It does not apply to the purchase of an investment interest in a pool of loans. This section establishes the requirements a federally insured credit union must satisfy to purchase a participation in a loan. This section applies only to a federally insured credit union's purchase of a loan participation where the borrower is not a member of that credit union and where a continuing contractual obligation between the seller and purchaser is contemplated. Generally, a federal credit union's purchase of all or part of a loan made to one of its own members, subject to a limited exception for certain well capitalized federal credit unions in § 701.23(b)(2), where no continuing contractual obligation between the seller and purchaser is contemplated, is governed by § 701.23 of this part. Federally insured state-chartered credit unions are required by § 741.225 of this chapter to comply with the loan participation requirements of this section. This section does not apply to corporate credit unions, as that term is defined in § 704.2 of this chapter.
+This section applies only to loan participations as defined in paragraph (a) of this section. It does not apply to the purchase of an investment interest in a pool of loans. This section establishes the requirements a federally insured credit union must satisfy to purchase a participation in a loan. Federally insured, state-chartered credit unions are required by § 741.225 of this chapter to comply with the loan participation requirements of this section. This section does not apply to corporate credit unions, as that term is defined in § 704.2 of this chapter.
 
 (a) For purposes of this section, the following definitions apply:
 
@@ -46,7 +44,7 @@ This section applies only to loan participations as defined in paragraph (a) of 
 
 *Loan participation* means a loan where one or more eligible organizations participate pursuant to a written agreement with the originating lender, and the written agreement requires the originating lender's continuing participation throughout the life of the loan.
 
-*Originating lender* means the participant with which the borrower initially or originally contracts for a loan and who, thereafter or concurrently with the funding of the loan, sells participations to other lenders.
+*Originating lender* means the participant with which the borrower initially or originally contracts for a loan and who, thereafter or concurrently with the funding of the loan, sells participations to other lenders. Originating lender includes a participant that acquires a loan through an indirect lending arrangement as defined under § 701.21(c)(9).
 
 (b) A federally insured credit union may purchase a participation interest in a loan from an eligible organization only if the loan is one the purchasing credit union is empowered to grant and the following additional conditions are satisfied:
 
@@ -92,4 +90,4 @@ This section applies only to loan participations as defined in paragraph (a) of 
 
 (vi) Circumstances and conditions under which participants may replace the servicer.
 
-[78 FR 37956, June 25, 2013, as amended at 81 FR 13553, Mar. 14, 2016; 82 FR 50291, Oct. 30, 2017; 84 FR 1605, Feb. 5, 2019; 84 FR 10976, Mar. 25, 2019; 85 FR 22014, Apr. 21, 2020; 85 FR 62210, Oct. 2, 2020; 85 FR 83409, Dec. 22, 2020; 86 FR 72520, Dec. 22, 2021]
+[78 FR 37956, June 25, 2013, as amended at 81 FR 13553, Mar. 14, 2016; 82 FR 50291, Oct. 30, 2017; 84 FR 1605, Feb. 5, 2019; 84 FR 10976, Mar. 25, 2019; 85 FR 22014, Apr. 21, 2020; 85 FR 62210, Oct. 2, 2020; 85 FR 83409, Dec. 22, 2020; 86 FR 72520, Dec. 22, 2021; 88 FR 67600, Sept. 29, 2023]

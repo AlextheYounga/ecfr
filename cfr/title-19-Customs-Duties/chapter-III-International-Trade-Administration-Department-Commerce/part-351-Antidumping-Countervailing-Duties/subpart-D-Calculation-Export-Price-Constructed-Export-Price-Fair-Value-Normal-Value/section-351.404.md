@@ -1,7 +1,5 @@
 ##### § 351.404 Selection of the market to be used as the basis for normal value. #####
 
-Link to an amendment published at 88 FR 67080, Sept. 29, 2023.
-
 (a) *Introduction.* Although in most circumstances sales of the foreign like product in the home market are the most appropriate basis for determining normal value, section 773 of the Act also permits use of sales to a third country or constructed value as the basis for normal value. This section clarifies the rules for determining the basis for normal value.
 
 (b) *Determination of viable market*—(1) *In general.* The Secretary will consider the exporting country or a third country as constituting a viable market if the Secretary is satisfied that sales of the foreign like product in that country are of sufficient quantity to form the basis of normal value.
@@ -20,7 +18,7 @@ Link to an amendment published at 88 FR 67080, Sept. 29, 2023.
 
 (ii) In the case of a third country, the price is not representative (*see* section 773(a)(1)(B)(ii)(I) of the Act).
 
-(d) *Allegations concerning market viability and the basis for determining a price-based normal value.* In an antidumping investigation or review, allegations regarding market viability or the exceptions in paragraph (c)(2) of this section, must be filed, with all supporting factual information, in accordance with § 351.301(d)(1).
+(d) *Allegations concerning market viability and the basis for determining a price-based normal value.* In an antidumping investigation or review, allegations regarding market viability or the exceptions in paragraph (c)(2) of this section, must be filed, with all supporting factual information, in accordance with § 351.301(c)(2)(i).
 
 (e) *Selection of third country.* For purposes of calculating normal value based on prices in a third country, where prices in more than one third country satisfy the criteria of section 773(a)(1)(B)(ii) of the Act and this section, the Secretary generally will select the third country based on the following criteria:
 
@@ -31,3 +29,5 @@ Link to an amendment published at 88 FR 67080, Sept. 29, 2023.
 (3) Such other factors as the Secretary considers appropriate.
 
 (f) *Third country sales and constructed value.* The Secretary normally will calculate normal value based on sales to a third country rather than on constructed value if adequate information is available and verifiable (*see* section 773(a)(4) of the Act (use of constructed value)).
+
+[62 FR 27379, May 19, 1997, as amended at 88 FR 67077, Sept. 29, 2023]

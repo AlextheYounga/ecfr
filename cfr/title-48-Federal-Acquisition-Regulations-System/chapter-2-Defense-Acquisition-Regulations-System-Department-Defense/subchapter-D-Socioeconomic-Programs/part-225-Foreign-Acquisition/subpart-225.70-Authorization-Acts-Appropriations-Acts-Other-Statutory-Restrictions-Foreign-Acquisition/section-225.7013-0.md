@@ -1,3 +1,5 @@
-##### 225.7013-0 xxx #####
+##### 225.7013-0 Scope. #####
 
-Link to an amendment published at 88 FR 73241, Oct. 25, 2023.
+This section implements 10 U.S.C. 8679 and 10 U.S.C. 8680.
+
+[88 FR 73241, Oct. 25, 2023]

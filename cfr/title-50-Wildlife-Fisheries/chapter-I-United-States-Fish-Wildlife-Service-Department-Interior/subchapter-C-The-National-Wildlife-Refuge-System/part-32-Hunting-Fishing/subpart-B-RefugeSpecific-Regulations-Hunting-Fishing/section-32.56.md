@@ -185,11 +185,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) Hunters must remove all decoys and other equipment from the refuge at the end of each day's hunt (see § 27.93 of this chapter).
 
-(2) *Upland game hunting.* We allow hunting of upland game birds and turkey on designated areas of the refuge subject to the following conditions:
-
-(i) The condition set forth at paragraph (l)(1)(i) of this section applies.
-
-(ii) On the opening weekend of the hunting season, we require all hunters to possess and carry a special refuge permit (signed refuge brochure).
+(2) *Upland game hunting.* We allow hunting of upland game birds and turkey on designated areas of the refuge subject to the following condition: The condition set forth at paragraph (l)(1)(i) of this section applies.
 
 (3) *Big game hunting.* We allow hunting of deer and elk on designated areas of the refuge subject to the following conditions:
 
@@ -356,4 +352,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow anglers to use only pole and line, or rod and reel. Anglers must attend their line.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54137, Aug. 31, 2020; 86 FR 48875, Aug. 31, 2021; 87 FR 57131, Sept. 16, 2022]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54137, Aug. 31, 2020; 86 FR 48875, Aug. 31, 2021; 87 FR 57131, Sept. 16, 2022; 88 FR 74065, Oct. 30, 2023]

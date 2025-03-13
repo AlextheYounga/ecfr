@@ -1,7 +1,5 @@
 ##### 225.7003-3 Exceptions. #####
 
-Link to an amendment published at 88 FR 73237, Oct. 25, 2023.
-
 (a) Acquisitions in the following categories are not subject to the restrictions in 225.7003-2:
 
 (1) Acquisitions at or below the simplified acquisition threshold.
@@ -34,7 +32,7 @@ Link to an amendment published at 88 FR 73237, Oct. 25, 2023.
 
 (*2*) The fasteners qualify for the commercial product exception in paragraph (b)(3) of this section.
 
-(ii) If this exception is used for an acquisition of COTS end items valued at $5 million or more per item, the acquiring department or agency shall submit an annual report to the Director, Defense Procurement and Acquisition Policy, in accordance with the procedures at PGI 225.7003-3(b)(2).
+(ii) If this exception is used for an acquisition of COTS end items valued at $5 million or more per item, the acquiring department or agency shall submit an annual report to the Principal Director, Defense Pricing and Contracting, in accordance with the procedures at PGI 225.7003-3(b)(2).
 
 (3) Fasteners that are commercial products and are acquired under a contract or subcontract with a manufacturer of such fasteners, if the manufacturer has certified that it will purchase, during the relevant calendar year, an amount of domestically melted or produced specialty metal, in the required form, for use in the production of fasteners for sale to DoD and other customers, that is not less than 50 percent of the total amount of the specialty metal that the manufacturer will purchase to carry out the production of such fasteners for all customers.
 
@@ -86,4 +84,4 @@ Link to an amendment published at 88 FR 73237, Oct. 25, 2023.
 
 (3) Because national security waivers will only be granted when the acquisition in question is necessary to the national security interests of the United States, the requirement for a plan will be applied as a condition subsequent, and not a condition precedent, to the granting of a waiver.
 
-[74 FR 37636, July 29, 2009, as amended at 75 FR 48280, Aug. 10, 2010; 79 FR 17446, Mar. 28, 2014; 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 76994, Dec. 16, 2022; 88 FR 6584, Jan. 31, 2023]
+[74 FR 37636, July 29, 2009, as amended at 75 FR 48280, Aug. 10, 2010; 79 FR 17446, Mar. 28, 2014; 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 76994, Dec. 16, 2022; 88 FR 6584, Jan. 31, 2023; 88 FR 73237, Oct. 25, 2023]

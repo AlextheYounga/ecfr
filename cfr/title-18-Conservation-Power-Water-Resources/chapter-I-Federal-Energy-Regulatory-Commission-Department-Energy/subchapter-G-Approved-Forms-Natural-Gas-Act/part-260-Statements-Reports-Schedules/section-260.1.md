@@ -1,5 +1,7 @@
 ##### § 260.1 FERC Form No. 2, Annual report for Major natural gas companies. #####
 
+Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
+
 (a) *Prescription.* The form of Annual Report of Natural Gas Companies (Class A and Class B), designated herein as FERC Form No. 2, is prescribed.
 
 (b) *Filing requirements.* Each natural gas company, as defined by the Natural Gas Act (15 U.S.C. 717, *et seq.*) which is a major company (a natural gas company whose combined gas transported or stored for a fee exceed 50 million Dth in each of the three previous calendar years) must prepare and file with the Commission, as follows:

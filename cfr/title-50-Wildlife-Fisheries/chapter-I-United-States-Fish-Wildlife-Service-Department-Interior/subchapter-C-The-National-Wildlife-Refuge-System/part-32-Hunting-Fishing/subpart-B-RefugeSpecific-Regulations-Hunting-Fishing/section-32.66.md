@@ -40,7 +40,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
-(i) On waters open to fishing, we allow fishing only from April 1 to September 30, except that we allow fishing year-round on Falcon, Heron, Goldeneye, Corral, Blythe, Chukar, and Scaup Lakes.
+(i) On waters open to fishing, we allow fishing only from the start of the State season to September 30, except that we allow fishing year-round on Falcon, Heron, Goldeneye, Corral, Blythe, Chukar, and Scaup Lakes.
 
 (ii) We allow frogging during periods when we allow fishing on designated waters.
 
@@ -336,4 +336,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54142, Aug. 31, 2020; 86 FR 48882, Aug. 31, 2021; 87 FR 57134, Sept. 16, 2022]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54142, Aug. 31, 2020; 86 FR 48882, Aug. 31, 2021; 87 FR 57134, Sept. 16, 2022; 88 FR 74066, Oct. 30, 2023]

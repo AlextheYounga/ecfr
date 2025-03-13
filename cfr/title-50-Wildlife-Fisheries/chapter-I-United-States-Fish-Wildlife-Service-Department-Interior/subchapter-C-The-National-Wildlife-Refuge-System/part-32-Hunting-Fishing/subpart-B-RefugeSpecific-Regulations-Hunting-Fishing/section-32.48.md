@@ -38,17 +38,13 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) [Reserved]
 
-(b) *Silvio O. Conte National Fish and Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, common snipe, and American woodcock on designated areas of the refuge subject to the following condition: We allow the use of dogs consistent with State regulations, except hunters using more than two dogs must possess a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
+(b) *Silvio O. Conte National Fish and Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, Wilson's snipe, and American woodcock on designated areas of the refuge subject to the following condition: We allow the use of dogs consistent with State regulations, except dog training is only allowed from August 1 through the last Saturday in September during daylight hours.
 
-(2) *Upland game hunting.* We allow hunting of coyote, fox, raccoon, woodchuck, red squirrel, eastern gray squirrel, porcupine, skunk, crow, snowshoe hare, muskrat, opossum, fisher, mink, weasel, ring-necked pheasant, and ruffed grouse on designated areas of the refuge subject to the following conditions:
-
-(i) We allow the use of dogs consistent with State regulations, except hunters using more than two dogs must possess a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
-
-(ii) We allow the training of dogs as governed by State regulations during daylight hours beginning August 1, if the trainer possesses a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
+(2) *Upland game hunting.* We allow hunting of coyote, fox, raccoon, woodchuck, red squirrel, eastern gray squirrel, porcupine, skunk, crow, snowshoe hare, muskrat, opossum, fisher, mink, weasel, ring-necked pheasant, and ruffed grouse on designated areas of the refuge subject to the following condition: We allow the use of dogs consistent with State regulations, except dog training is only allowed from August 1 through the last Saturday in September during daylight hours.
 
 (3) *Big game hunting.* We allow hunting of white-tailed deer, moose, black bear, and wild turkey on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (b)(2)(i) and (ii) of this section apply.
+(i) We allow the use of dogs consistent with State regulations, except dog training is only allowed from August 1 through the last Saturday in September during daylight hours.
 
 (ii) We allow tree stands and blinds that are clearly marked with the owner's State hunting license number.
 
@@ -74,4 +70,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54126, Aug. 31, 2020; 86 FR 48871, Aug. 31, 2021]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54126, Aug. 31, 2020; 86 FR 48871, Aug. 31, 2021; 88 FR 74065, Oct. 30, 2023]

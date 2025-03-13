@@ -50,7 +50,15 @@ Link to an amendment published at 88 FR 67115, Sept. 29, 2023.
 
 (9) Other information as requested by the Commission.
 
-(d) When the measurement method used requires the testing of radiated emissions on a validated test site, the site attenuation must comply with the requirements of Sections 5.4.4 through 5.5 of the following procedure: ANSI C63.4-2014 (incorporated by reference, see § 2.910). Measurement facilities used to make radiated emission measurements from 30 MHz to 1 GHz shall comply with the site validation requirements in ANSI C63.4-2014 (clause 5.4.4) and for radiated emission measurements from 1 GHz to 40 GHz shall comply with the site validation requirement of ANSI C63.4-2014 (clause 5.5.1 a) 1)), such that the site validation criteria called out in CISPR 16-1-4:2010-04 (incorporated by reference, see § 2.910) is met. Test site revalidation shall occur on an interval not to exceed three years.
+(d) When the measurement method used requires the testing of radiated emissions on a validated test site, the site attenuation must comply with either: the requirements of ANSI C63.4a-2017 (incorporated by reference, see § 2.910) or the requirements of sections 5.4.4 through 5.5 of ANSI C63.4-2014 (incorporated by reference, see § 2.910).
+
+(1) Measurement facilities used to make radiated emission measurements from 30 MHz to 1 GHz must comply with the site validation requirements in either ANSI C63.4a-2017 or ANSI C63.4-2014 (clause 5.4.4);
+
+(2) Measurement facilities used to make radiated emission measurements from 1 GHz to 18 GHz must comply with the site validation requirement of ANSI C63.25.1-2018 (incorporated by reference, see § 2.910);
+
+(3) Measurement facilities used to make radiated emission measurements from 18 GHz to 40 GHz must comply with the site validation requirement of ANSI C63.4-2014 (clause 5.5.1 a) 1)), such that the site validation criteria called out in CISPR 16-1-4:2010-04 (incorporated by reference, see § 2.910) is met.
+
+(4) Test site revalidation must occur on an interval not to exceed three years.
 
 (e) A laboratory that has been accredited with a scope covering the measurements required for the types of equipment that it will test shall be deemed competent to test and submit test data for equipment subject to certification. Such a laboratory shall be accredited by a Commission recognized accreditation organization based on the International Organization for Standardization/International Electrotechnical Commission International Standard ISO/IEC 17025, (incorporated by reference, see § 2.910). The organization accrediting the laboratory must be recognized by the Commission's Office of Engineering and Technology, as indicated in § 0.241 of this chapter, to perform such accreditation based on International Standard ISO/IEC 17011 (incorporated by reference, see § 2.910). The frequency for reassessment of the test facility and the information that is required to be filed or retained by the testing party shall comply with the requirements established by the accrediting organization, but shall occur on an interval not to exceed two years.
 
@@ -60,4 +68,4 @@ Link to an amendment published at 88 FR 67115, Sept. 29, 2023.
 
 (2) If the laboratory is located in a country that does not have an MRA with the United States, then it must be accredited by an organization recognized by the Commission under the provisions of § 2.949 for performing accreditations in the country where the laboratory is located.
 
-[80 FR 33442, June 12, 2015, as amended at 82 FR 50828, Nov. 2, 2017]
+[80 FR 33442, June 12, 2015, as amended at 82 FR 50828, Nov. 2, 2017; 88 FR 67115, Sept. 29, 2023]

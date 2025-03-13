@@ -1,10 +1,8 @@
 ##### § 351.226 Circumvention inquiries. #####
 
-Link to an amendment published at 88 FR 67078, Sept. 29, 2023.
-
 (a) *Introduction.* Section 781 of the Act addresses the circumvention of antidumping and countervailing duty orders. This provision recognizes that circumvention seriously undermines the effectiveness of the remedies provided by the antidumping and countervailing duty proceedings and frustrates the purposes for which these laws were enacted. Section 781 of the Act allows the Secretary to apply antidumping and countervailing duty orders in such a way as to prevent circumvention by including within the scope of the order four distinct categories of merchandise. The Secretary will initiate and conduct a circumvention inquiry at the request of an interested party or on the Secretary's initiative, and issue a circumvention determination as provided for under section 781 of the Act and the rules and procedures in this section. Unless otherwise specified, the procedures as described in subpart C of this part (§§ 351.301 through 351.308 and 351.312 through 351.313) apply to this section.
 
-(b) *Self-initiation of circumvention inquiry.* If the Secretary determines from available information that an inquiry is warranted into the question of whether the elements necessary for a circumvention determination under section 781 of the Act exist, the Secretary may initiate a circumvention inquiry and publish a notice of initiation in the Federal Register.
+(b) *Self-initiation of a circumvention inquiry.* If the Secretary determines from available information that an inquiry is warranted into the question of whether the elements necessary for a circumvention determination under section 781 of the Act exist, the Secretary may initiate a circumvention inquiry by publishing a notice of initiation in the Federal Register.
 
 (c) *Circumvention inquiry request*—(1) *In general.* An interested party may submit a request for a circumvention inquiry that alleges that the elements necessary for a circumvention determination under section 781 of the Act exist and that is accompanied by information reasonably available to the interested party supporting these allegations. The circumvention inquiry request must be served in accordance with the requirements of paragraph (n) of this section.
 
@@ -34,11 +32,7 @@ Link to an amendment published at 88 FR 67078, Sept. 29, 2023.
 
 (vi) Factual information supporting this position, including import and export data relevant to the merchandise allegedly circumventing the antidumping or countervailing duty order.
 
-(d) *Initiation of a circumvention inquiry and other actions based on a request*—(1) *Initiation of a circumvention inquir*y. Except as provided under paragraph (d)(2) of this section, within 30 days after the filing of a request for a circumvention inquiry, the Secretary will determine whether to accept or reject the request. If it is not practicable to determine whether to accept or reject a request within 30 days, the Secretary may extend that deadline by an additional 15 days.
-
-(i) If the Secretary determines that the request is incomplete or otherwise unacceptable, the Secretary may reject the request, and will provide a written explanation of the reasons for the rejection. If the request is rejected, the requestor may resubmit the full request at any time, with all identified deficiencies corrected.
-
-(ii) If the Secretary determines that a request for a circumvention inquiry satisfies the requirements of paragraph (c) of this section, the Secretary will accept the request and initiate a circumvention inquiry. The Secretary will publish a notice of initiation in the Federal Register.
+(d) *Initiation of a circumvention inquiry and other actions based on a request*—(1) *Initiation of circumvention inquiry.* Except as provided under paragraph (d)(2) of this section, within 30 days after the filing of a request for a circumvention inquiry, the Secretary will determine whether to accept or reject the request and whether to initiate or not initiate a circumvention inquiry. If it is not practicable to determine whether to accept or reject a request or initiate or not initiate within 30 days, the Secretary may extend that deadline by an additional 15 days.
 
 (2) *Other actions based on a request for a circumvention inquiry.* Where applicable, the Secretary may take one of the following actions within the applicable timeline under paragraph (d)(1) of this section:
 
@@ -52,9 +46,9 @@ Link to an amendment published at 88 FR 67078, Sept. 29, 2023.
 
 (3) *Alignment with other segments.* If the Secretary determines it is appropriate to do so, the Secretary may align the deadlines under this paragraph with the deadlines of another segment of the proceeding.
 
-(f) *Circumvention inquiry procedures.* (1) Within 30 days of the publication of the notice of the Secretary's self-initiation of a circumvention inquiry under paragraph (b) of this section, interested parties are permitted one opportunity to submit comments and factual information addressing the self-initiation. Within 14 days of the filing of such comments, any interested party is permitted one opportunity to submit comments and factual information to rebut, clarify, or correct factual information submitted by the other interested parties.
+(f) *Circumvention inquiry procedures.* (1) Within 30 days after the Secretary's self-initiation of a circumvention inquiry under paragraph (b) of this section, interested parties are permitted one opportunity to submit comments and factual information addressing the self-initiation. Within 14 days after the filing of such comments, any interested party is permitted one opportunity to submit comments and factual information submitted by the other interested parties.
 
-(2) Within 30 days of the publication of the notice of initiation of a circumvention inquiry under paragraph (d) of this section, an interested party other than the requestor is permitted one opportunity to submit comments and factual information to rebut, clarify, or correct factual information contained in the request. Within 14 days of the filing of such rebuttal, clarification, or correction, the requestor is permitted one opportunity to submit comments and factual information to rebut, clarify, or correct factual information contained in the interested party's rebuttal, clarification or correction.
+(2) Within 30 days after the initiation of a circumvention inquiry under paragraph (d)(1) of this section, an interested party other than the applicant is permitted one opportunity to submit comments and factual information to rebut, clarify, or correct factual information contained in the scope ruling application. Within 14 days after the filing of such rebuttal, clarification, or correction, the applicant is permitted one opportunity to submit comments and factual information to rebut, clarify, or correct factual information submitted in the interested party's rebuttal, clarification, or correction.
 
 (3) Following initiation of a circumvention inquiry under paragraph (b) or (d) of this section, the Secretary may issue questionnaires and verify submissions received, where appropriate. The Secretary may limit issuance of questionnaires to a reasonable number of respondents. Questionnaire responses are due on the date specified by the Secretary. Within 14 days after a questionnaire response has been filed with the Secretary, an interested party other than the original submitter is permitted one opportunity to submit comments and factual information to rebut, clarify, or correct factual information contained in the questionnaire response. Within 7 days of the filing of such rebuttal, clarification, or correction, the original submitter is permitted one opportunity to submit comments and factual information to rebut, clarify, or correct factual information contained in the interested party's rebuttal, clarification or correction.
 
@@ -104,7 +98,7 @@ Link to an amendment published at 88 FR 67078, Sept. 29, 2023.
 
 (i) The Secretary will direct the Customs Service to continue the suspension of liquidation of previously suspended entries and apply the applicable cash deposit rate;
 
-(ii) The Secretary will direct the Customs Service to begin the suspension of liquidation and require a cash deposit of estimated duties, at the applicable rate, for each unliquidated entry of the product not yet suspended, entered, or withdrawn from warehouse, for consumption on or after the date of publication of the notice of initiation of the inquiry; and
+(ii) The Secretary will direct the Customs Service to begin the suspension of liquidation and require a cash deposit of estimated duties, at the applicable rate, for each unliquidated entry of the product not yet suspended, entered, or withdrawn from warehouse, for consumption on or after the date of the publication of the notice of initiation of the circumvention inquiry; and
 
 (iii)(A) *In general.* Subject to paragraph (l)(2)(iii)(B) of this section, if the Secretary determines that it is appropriate to do so, the Secretary may direct the Customs Service to begin the suspension of liquidation and require a cash deposit of estimated duties, at the applicable rate, for each unliquidated entry of the product not yet suspended, entered, or withdrawn from warehouse, for consumption prior to the date of publication of the notice of initiation of the inquiry. The Secretary may take action under this provision at the timely request of an interested party or at the Secretary's discretion. In response to a timely request from an interested party, the Secretary will only consider an alternative date based on a specific argument supported by evidence establishing the appropriateness of that alternative date.
 
@@ -142,4 +136,4 @@ Link to an amendment published at 88 FR 67078, Sept. 29, 2023.
 
 (o) *Suspended investigations; suspension agreements.* The Secretary may, in accordance with section 781 of the Act, apply the procedures set forth in this section in determining whether the product at issue circumvented a suspended investigation or a suspension agreement (*see* § 351.208).
 
-[86 FR 52377, Sept. 20, 2021]
+[86 FR 52377, Sept. 20, 2021, as amended at 88 FR 67078, Sept. 29, 2023]

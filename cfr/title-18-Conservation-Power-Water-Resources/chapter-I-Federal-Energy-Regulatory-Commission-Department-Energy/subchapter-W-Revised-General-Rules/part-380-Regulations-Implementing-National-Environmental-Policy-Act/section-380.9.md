@@ -1,5 +1,7 @@
 ##### § 380.9 Public availability of NEPA documents and public notice of NEPA related hearings and public meetings. #####
 
+Link to an amendment published at 88 FR 74032, Oct. 30, 2023.
+
 (a)(1) The Commission will comply with the requirements of 40 CFR 1506.6 of the regulations of the Council for public involvement in NEPA.
 
 (2) If an action has effects of primarily local concern, the Commission may give additional notice in a Commission order.

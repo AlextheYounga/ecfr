@@ -1,14 +1,12 @@
 ##### § 15.31 Measurement standards. #####
 
-Link to an amendment published at 88 FR 67115, Sept. 29, 2023.
-
 (a) The following measurement procedures are used by the Commission to determine compliance with the technical requirements in this part. Except where noted, copies of these procedures are available from the Commission's current duplicating contractor whose name and address are available from the Commission's Consumer and Governmental Affairs Bureau at 1-888-CALL-FCC (1-888-225-5322).
 
 (1) FCC/OET MP-2: Measurement of UHF Noise Figures of TV Receivers.
 
 (2) Unlicensed Personal Communications Service (UPCS) devices are to be measured for compliance using ANSI C63.17-2013: “American National Standard Methods of Measurement of the Electromagnetic and Operational Compatibility of Unlicensed Personal Communications Services (UPCS) Devices” (incorporated by reference, see § 15.38).
 
-(3) Other intentional radiators are to be measured for compliance using the following procedure: ANSI C63.10-2013 (incorporated by reference, see § 15.38).
+(3) Other intentional radiators must be measured for compliance using the following procedure: ANSI C63.10-2020 (incorporated by reference, see § 15.38).
 
 (4) Unintentional radiators are to be measured for compliance using the following procedure excluding clauses 4.5.3, 4.6, 6.2.13, 8.2.2, 9, and 13: ANSI C63.4-2014 (incorporated by reference, see § 15.38).
 
@@ -70,4 +68,4 @@ Digital devices tested to show compliance with the provisions of § 15.109(g)(2)
 
 (2) Except as provided in paragraph (q)(1) of this section, an LPR device shall be placed in testing positions that ensure the field strength values of the radiated emissions are maximized, including in the main beam of the LPR antenna.
 
-[54 FR 17714, Apr. 25, 1989, as amended at 56 FR 13083, Mar. 29, 1991; 57 FR 24990, June 12, 1992; 57 FR 33448, July 29, 1992; 58 FR 37430, July 12, 1993; 58 FR 51249, Oct. 1, 1993; 61 FR 14502, Apr. 2, 1996; 62 FR 41881, Aug. 4, 1997; 62 FR 45333, Aug. 27, 1997; 63 FR 36602, July 7, 1998; 63 FR 42278, Aug. 7, 1998; 65 FR 58466, Sept. 29, 2000; 68 FR 68545, Dec. 9, 2003; 69 FR 54034, Sept. 7, 2004; 70 FR 1373, Jan. 7, 2005; 76 FR 71908, Nov. 21, 2011; 77 FR 4913, Feb. 1, 2012; 77 FR 43013, July 23, 2012; 79 FR 12677, Mar. 6, 2014; 80 FR 2838, Jan. 21, 2015; 80 FR 33447, June 12, 2015; 82 FR 50831, Nov. 2, 2017; 88 FR 47394, July 24, 2023]
+[54 FR 17714, Apr. 25, 1989, as amended at 56 FR 13083, Mar. 29, 1991; 57 FR 24990, June 12, 1992; 57 FR 33448, July 29, 1992; 58 FR 37430, July 12, 1993; 58 FR 51249, Oct. 1, 1993; 61 FR 14502, Apr. 2, 1996; 62 FR 41881, Aug. 4, 1997; 62 FR 45333, Aug. 27, 1997; 63 FR 36602, July 7, 1998; 63 FR 42278, Aug. 7, 1998; 65 FR 58466, Sept. 29, 2000; 68 FR 68545, Dec. 9, 2003; 69 FR 54034, Sept. 7, 2004; 70 FR 1373, Jan. 7, 2005; 76 FR 71908, Nov. 21, 2011; 77 FR 4913, Feb. 1, 2012; 77 FR 43013, July 23, 2012; 79 FR 12677, Mar. 6, 2014; 80 FR 2838, Jan. 21, 2015; 80 FR 33447, June 12, 2015; 82 FR 50831, Nov. 2, 2017; 88 FR 47394, July 24, 2023; 88 FR 67115, Sept. 29, 2023]

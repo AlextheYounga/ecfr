@@ -1,10 +1,8 @@
 ##### 252.225-7021 Trade Agreements. #####
 
-                                                                                                                                                                                                                                Link to an amendment published at 88 FR 73242, Oct. 25, 2023.
-
                                                                                                                                                                                                                                 *Basic.* As prescribed in 225.1101(6) and (6)(i), use the following clause:
 
-                                                                                                                                                                                                                                Trade Agreements—Basic (JAN 2023)
+                                                                                                                                                                                                                                Trade Agreements—Basic (OCT 2023)
 
                                                                                                                                                                                                                                 (a) *Definitions.* As used in this clause—
 
@@ -38,7 +36,7 @@
 
                                                                                                                                                                                                                                 *Designated country* means—
 
-                                                                                                                                                                                                                                (1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan (known in the World Trade Organization as “the Separate Customs Territory of Taiwan, Penghu, Kinmen, and Matsu” (Chinese Taipei)), Ukraine, or the United Kingdom);
+                                                                                                                                                                                                                                (1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, North Macedonia, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan (known in the World Trade Organization as “the Separate Customs Territory of Taiwan, Penghu, Kinmen, and Matsu” (Chinese Taipei)), Ukraine, or the United Kingdom);
 
                                                                                                                                                                                                                                 (2) A Free Trade Agreement country (Australia, Bahrain, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Panama, Peru, or Singapore);
 
@@ -126,7 +124,7 @@
 
                                                                                                                 *Alternate II.* As prescribed in 225.1101(6) and (6)(ii), use the following clause, which (i) adds *South Caucasus/Central and South Asian (SC/CASA) state* and *South Caucasus/Central and South Asian (SC/CASA) state end product* to paragraph (a); (ii) uses a different paragraph (c) than the basic clause; (iii) adds a new paragraph (d); and (iv) includes paragraphs (e) and (f) which are the same paragraphs (d) and (e) of the basic clause:
 
-                                                                                                                Trade Agreements—Alternate II (JAN 2023)
+                                                                                                                Trade Agreements—Alternate II (OCT 2023)
 
                                                                                                                 (a) *Definitions. As used in this clause—Caribbean Basin country end product*—
 
@@ -160,7 +158,7 @@
 
                                                                                                                 *Designated country* means—
 
-                                                                                                                (1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan (known in the World Trade Organization as “the Separate Customs Territory of Taiwan, Penghu, Kinmen, and Matsu” (Chinese Taipei)), Ukraine, or the United Kingdom);
+                                                                                                                (1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, North Macedonia, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan (known in the World Trade Organization as “the Separate Customs Territory of Taiwan, Penghu, Kinmen, and Matsu” (Chinese Taipei)), Ukraine, or the United Kingdom);
 
                                                                                                                 (2) A Free Trade Agreement country (Australia, Bahrain, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Peru, or Singapore);
 

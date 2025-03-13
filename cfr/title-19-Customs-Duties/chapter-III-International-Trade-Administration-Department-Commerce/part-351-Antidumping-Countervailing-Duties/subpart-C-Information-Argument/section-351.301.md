@@ -1,7 +1,5 @@
 ##### § 351.301 Time limits for submission of factual information. #####
 
-Link to an amendment published at 88 FR 67078, Sept. 29, 2023.
-
 (a) *Introduction.* This section sets forth the time limits for submitting factual information, as defined by § 351.102(b)(21). The Department obtains most of its factual information in antidumping and countervailing duty proceedings from submissions made by interested parties during the course of the proceeding. Notwithstanding paragraph (b) of this section, the Secretary may request any person to submit factual information at any time during a proceeding or provide additional opportunities to submit factual information. Section 351.302 sets forth the procedures for requesting an extension of such time limits, and provides that, unless expressly precluded by statute, the Secretary may, for good cause, extend any time limit established in the Department's regulations. Section 351.303 contains the procedural rules regarding filing (including procedures for filing on non-business days), format, translation, service, and certification of documents. In the Secretary's written request to an interested party for a response to a questionnaire or for other factual information, the Secretary will specify the following: The time limit for the response; the information to be provided; the form and manner in which the interested party must submit the information; and that failure to submit the requested information in the requested form and manner by the date specified may result in use of the facts available under section 776 of the Act and § 351.308.
 
 (b) *Submission of factual information.* Every submission of factual information must be accompanied by a written explanation identifying the subsection of § 351.102(b)(21) under which the information is being submitted.
@@ -48,7 +46,7 @@ Link to an amendment published at 88 FR 67078, Sept. 29, 2023.
 
 (v) *Other allegations.* An interested party may submit factual information in support of other allegations not specified in paragraphs (c)(2)(i)-(iv) of this section. Upon receipt of factual information under this subsection, the Secretary will issue a memorandum accepting or rejecting the information and, to the extent practicable, will provide written notice stating the reasons for rejection. If the Secretary accepts the information, the Secretary will issue a schedule providing deadlines for submission of factual information to rebut, clarify or correct the factual information.
 
-(vi) *Rebuttal, clarification, or correction of factual information submitted in support of allegations.* An interested party is permitted one opportunity to submit factual information to rebut, clarify, or correct factual information submitted in support of allegations 10 days after the date such factual information is served on an interested party.
+(vi) *Rebuttal, clarification, or correction of factual information submitted in support of allegations.* An interested party is permitted one opportunity to submit factual information to rebut, clarify, or correct factual information submitted in support of allegations 10 days after the date such factual information is filed with the Department.
 
 (3) *Factual information submitted to value factors under § 351.408(c) or to measure the adequacy of remuneration under § 351.511(a)(2).*
 
@@ -58,7 +56,7 @@ Link to an amendment published at 88 FR 67078, Sept. 29, 2023.
 
 (iii) *Expedited antidumping review.* All submissions of factual information to value factors under § 351.408(c) are due on a date specified by the Secretary.
 
-(iv) *Rebuttal, clarification, or correction of factual information submitted to value factors under § 351.408(c) or to measure the adequacy of remuneration under § 351.511(a)(2).* An interested party is permitted one opportunity to submit publicly available information to rebut, clarify, or correct such factual information submitted pursuant to § 351.408(c) or § 351.511(a)(2) 10 days after the date such factual information is served on the interested party. An interested party may not submit additional, previously absent-from-the-record alternative surrogate value information under this subsection. Additionally, all factual information submitted under this subsection must be accompanied by a written explanation identifying what information already on the record of the ongoing proceeding the factual information is rebutting, clarifying, or correcting. Information submitted to rebut, clarify, or correct factual information submitted pursuant to § 351.408(c) will not be used to value factors under § 351.408(c).
+(vi) *Rebuttal, clarification, or correction of factual information submitted in support of allegations.* An interested party is permitted one opportunity to submit factual information to rebut, clarify, or correct factual information submitted in support of allegations 10 days after the date such factual information is filed with the Department.
 
 (4) *Factual information placed on the record of the proceeding by the Department.* The Department may place factual information on the record of the proceeding at any time. An interested party is permitted one opportunity to submit factual information to rebut, clarify, or correct factual information placed on the record of the proceeding by the Department by a date specified by the Secretary.
 
@@ -68,4 +66,4 @@ Link to an amendment published at 88 FR 67078, Sept. 29, 2023.
 
 (ii) If the Secretary accepts the information, the Secretary will issue a schedule providing deadlines for submission of factual information to rebut, clarify or correct the factual information.
 
-[78 FR 21254, Apr. 10, 2013]
+[78 FR 21254, Apr. 10, 2013, as amended at 88 FR 67078, Sept. 29, 2023]

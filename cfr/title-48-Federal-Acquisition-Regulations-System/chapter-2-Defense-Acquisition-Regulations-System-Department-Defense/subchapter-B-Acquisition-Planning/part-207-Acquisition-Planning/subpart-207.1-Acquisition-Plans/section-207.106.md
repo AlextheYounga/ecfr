@@ -1,7 +1,5 @@
 ##### 207.106 Additional requirements for major systems. #####
 
-Link to an amendment published at 88 FR 73236, Oct. 25, 2023.
-
 (b)(1)(A) The contracting officer is prohibited by 10 U.S.C. 3208(d)(1) from requiring offers for development or production of major systems that would enable the Government to use technical data to competitively reprocure identical items or components of the system if the item or component were developed exclusively at private expense, unless the contracting officer determines that—
 
 (*1*) The original supplier of the item or component will be unable to satisfy program schedule or delivery requirements;
@@ -80,8 +78,8 @@ Link to an amendment published at 88 FR 73236, Oct. 25, 2023.
 
 (ii) Allow the program manager or comparable requiring activity official exercising program management responsibilities, to base determinations of a contractor's performance on reliability and maintainability data collected during the program. Such data collection and associated evaluation metrics shall be described in detail in the contract; and to the maximum extent practicable, the data shall be shared with appropriate contractor and Government organizations.
 
-(S-73) In accordance with section 815 of the National Defense Authorization Act for Fiscal Year 2009 (Pub. L. 110-417) and DoD policy requirements, acquisition plans for major weapons systems shall include a plan for the preservation and storage of special tooling associated with the production of hardware for major defense acquisition programs through the end of the service life of the related weapons system. The plan shall include the identification of any contract clauses, facilities, and funding required for the preservation and storage of such tooling. The Undersecretary of Defense for Acquisition, Technology, and Logistics (USD (AT&L)) may waive this requirement if USD (AT&L) determines that it is in the best interest of DoD.
+(S-73) In accordance with section 815 of the National Defense Authorization Act for Fiscal Year 2009 (Pub. L. 110-417) and DoD policy requirements, acquisition plans for major weapons systems shall include a plan for the preservation and storage of special tooling associated with the production of hardware for major defense acquisition programs through the end of the service life of the related weapons system. The plan shall include the identification of any contract clauses, facilities, and funding required for the preservation and storage of such tooling. The Under Secretary of Defense for Acquisition and Sustainment (USD(A&S)) may waive this requirement if USD(A&S) determines that it is in the best interest of DoD.
 
 (S-74) When selecting contract type, see 234.004 (section 811 of the National Defense Authorization Act for Fiscal Year 2013 (Pub. L. 112-239)).
 
-[56 FR 36305, July 31, 1991, as amended at 72 FR 51188, Sept. 6, 2007; 73 FR 1824, Jan. 10, 2008; 74 FR 68701, Dec. 29, 2009; 75 FR 8273, Feb. 24, 2010; 76 FR 11363, Mar. 2, 2011; 79 FR 4632, Jan. 29, 2014; 84 FR 58333, Oct. 31, 2019; 86 FR 27277, May 20, 2021; 87 FR 76990, Dec. 16, 2022]
+[56 FR 36305, July 31, 1991, as amended at 72 FR 51188, Sept. 6, 2007; 73 FR 1824, Jan. 10, 2008; 74 FR 68701, Dec. 29, 2009; 75 FR 8273, Feb. 24, 2010; 76 FR 11363, Mar. 2, 2011; 79 FR 4632, Jan. 29, 2014; 84 FR 58333, Oct. 31, 2019; 86 FR 27277, May 20, 2021; 87 FR 76990, Dec. 16, 2022; 88 FR 73236, Oct. 25, 2023]

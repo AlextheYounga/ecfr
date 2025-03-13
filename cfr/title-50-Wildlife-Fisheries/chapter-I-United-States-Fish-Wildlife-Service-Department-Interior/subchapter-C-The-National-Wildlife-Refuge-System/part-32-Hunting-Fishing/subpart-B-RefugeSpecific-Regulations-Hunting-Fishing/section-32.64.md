@@ -84,34 +84,32 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iv) We prohibit boat launching on the refuge with the following exceptions: We allow launching from Louie's Landing year-round, and from Mac's Bend boat launch area from September through December (inclusive).
 
+(v) We allow fishing from legal sunrise to legal sunset.
+
 (b) *Silvio O. Conte National Fish and Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, crow, snipe, and American woodcock on designated areas of the refuge subject to the following conditions:
 
 (i) We allow disabled hunters to hunt from a vehicle that is at least 10 feet from the traveled portion of the refuge road if the hunter possesses a State-issued disabled hunting license and a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
 
-(ii) We allow the use of dogs consistent with State regulations, except hunters using more than two dogs must possess a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
+(ii) We allow the use of dogs consistent with State regulations, except dog training is only allowed from August 1 through the last Saturday in September during daylight hours. We prohibit dog training on the Putney Mountain Unit.
 
 (iii) We prohibit shooting from, over, or within 25 feet of the traveled portion of any road that is accessible to motor vehicles.
 
 (2) *Upland game hunting.* We allow hunting of coyote, fox, raccoon, bobcat, woodchuck, red squirrel, eastern gray squirrel, porcupine, skunk, snowshoe hare, eastern cottontail, muskrat, opossum, weasel, pheasant, and ruffed grouse on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (b)(1)(i) through (iii) of this section apply.
+(i) The conditions set forth at paragraphs (b)(1)(ii) and (iii) of this section apply.
 
-(ii) At the Putney Mountain Unit, we allow the use of dogs only for hunting ruffed grouse.
+(ii) At the Putney Mountain Unit, we allow the use of dogs only for hunting ruffed grouse, fall turkey, squirrel, and woodcock.
 
 (iii) We require hunters hunting at night to possess a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
 
-(iv) We allow the training of dogs as governed by State regulations from August 1 through the last Saturday in September during daylight hours, if the trainer possesses a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
-
 (3) *Big game hunting.* We allow hunting of white-tailed deer, moose, black bear, and wild turkey on designated areas of the refuge subject to the following conditions:
 
-(i) The conditions set forth at paragraphs (b)(1)(i) through (iii) of this section apply.
+(i) The conditions set forth at paragraphs (b)(1)(ii) and (iii) of this section apply.
 
 (ii) You may use portable tree stands and/or blinds. You must clearly label your tree stand(s) and/or blind(s) with your hunting license number. You must remove your tree stand(s) and/or blind(s) no later than 72 hours after the close of the season (see § 27.93 of this chapter).
 
 (iii) You may retrieve moose at the Nulhegan Basin Division with the use of a commercial moose hauler, if the hauler possesses a Special Use Permit (FWS Form 3-1383-C) issued by the refuge manager.
 
-(iv) We allow the training of dogs as governed by State regulations from August 1 through September 15 during daylight hours, if the trainer possesses a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
-
 (4) *Sport fishing.* We allow sport fishing on designated areas of the refuge consistent with State regulations.
 
-[86 FR 48878, Aug. 31, 2021, as amended at 87 FR 57132, Sept. 16, 2022]
+[86 FR 48878, Aug. 31, 2021, as amended at 87 FR 57132, Sept. 16, 2022; 88 FR 74065, Oct. 30, 2023]

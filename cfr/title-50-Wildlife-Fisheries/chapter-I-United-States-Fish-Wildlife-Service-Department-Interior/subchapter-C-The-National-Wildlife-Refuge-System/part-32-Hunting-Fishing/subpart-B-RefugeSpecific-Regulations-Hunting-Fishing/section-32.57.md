@@ -1,5 +1,7 @@
 ##### § 32.57 Pennsylvania. #####
 
+Link to an amendment published at 88 FR 74065, Oct. 30, 2023.
+
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
 (a) *Cherry Valley National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:

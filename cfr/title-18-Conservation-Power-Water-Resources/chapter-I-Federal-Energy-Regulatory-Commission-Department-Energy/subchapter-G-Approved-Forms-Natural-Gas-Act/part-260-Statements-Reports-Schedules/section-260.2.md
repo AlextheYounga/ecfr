@@ -1,5 +1,7 @@
 ##### § 260.2 FERC Form No. 2-A, Annual report for Nonmajor natural gas companies. #####
 
+Link to an amendment published at 88 FR 74031, Oct. 30, 2023.
+
 (a) *Prescription.* The form of Annual Report for Nonmajor Natural Gas Companies, designated herein as FERC Form No. 2—A, is prescribed.
 
 (b) *Filing requirements.* Each natural gas company, as defined by the Natural Gas Act, not meeting the filing threshold for FERC Form No. 2, but having total gas sales or volume transactions exceeding 200,000 Dth in each of the three previous calendar years, must prepare and file with the Commission, as follows:

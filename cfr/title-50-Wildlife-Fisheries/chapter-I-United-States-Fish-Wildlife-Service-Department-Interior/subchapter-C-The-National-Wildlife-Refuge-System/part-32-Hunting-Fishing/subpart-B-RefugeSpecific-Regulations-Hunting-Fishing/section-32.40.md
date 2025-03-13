@@ -40,6 +40,8 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We allow the use of live bait with the exception of any amphibians or reptiles (frogs, salamanders, etc.).
 
+(iii) We allow fishing from legal sunrise to legal sunset.
+
 (b) *Great Meadows National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:
 
 (i) We allow hunters to enter the refuge 11/2 hours before legal shooting hours, and they must exit the refuge by 11/2 hours after legal shooting hours.
@@ -70,7 +72,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
 
-(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge from legal sunrise to legal sunset.
 
 (c) *Mashpee National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow migratory game bird hunting on designated areas of the refuge subject to the following conditions:
 
@@ -146,7 +148,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (ii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
 
-(4) *Sport fishing.* We allow sport fishing in designated areas of the refuge.
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge from legal sunrise to legal sunset.
 
 (g) *Parker River National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, brant, coot, crow, merganser, rail, snipe, and woodcock on designated areas of the refuge subject to the following conditions:
 
@@ -220,4 +222,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We prohibit the use of reptiles and amphibians as bait.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54117, Aug. 31, 2020]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54117, Aug. 31, 2020; 88 FR 74064, Oct. 30, 2023]

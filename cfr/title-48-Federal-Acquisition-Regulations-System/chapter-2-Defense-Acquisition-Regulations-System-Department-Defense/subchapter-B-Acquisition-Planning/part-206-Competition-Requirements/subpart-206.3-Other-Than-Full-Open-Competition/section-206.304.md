@@ -1,8 +1,6 @@
 ##### 206.304 Approval of the justification. #####
 
-Link to an amendment published at 88 FR 73236, Oct. 25, 2023.
-
-(a)(4) The Under Secretary of Defense (Acquisition, Technology, and Logistics) may delegate this authority to—
+(a)(4) The Under Secretary of Defense (Acquisition and Sustainment) may delegate this authority to—
 
 (A) An Assistant Secretary of Defense; or
 
@@ -20,4 +18,4 @@ Link to an amendment published at 88 FR 73236, Oct. 25, 2023.
 
 (2) If a civilian, is serving in a position with a grade under the General Schedule (or any other schedule for civilian officers or employees) that is comparable to or higher than the grade of major general or rear admiral.
 
-[61 FR 10285, Mar. 13, 1995, as amended at 61 FR 50451, Sept. 26, 1996; 65 FR 39704, June 27, 2000; 80 FR 21657, Apr. 20, 2015; 85 FR 34529, June 5, 2020]
+[61 FR 10285, Mar. 13, 1995, as amended at 61 FR 50451, Sept. 26, 1996; 65 FR 39704, June 27, 2000; 80 FR 21657, Apr. 20, 2015; 85 FR 34529, June 5, 2020; 88 FR 73236, Oct. 25, 2023]

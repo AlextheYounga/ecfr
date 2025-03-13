@@ -1,5 +1,7 @@
 ##### § 32.39 Maryland. #####
 
+Link to an amendment published at 88 FR 74064, Oct. 30, 2023.
+
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
 (a) *Blackwater National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of goose and duck on designated areas of the refuge subject to the following conditions:

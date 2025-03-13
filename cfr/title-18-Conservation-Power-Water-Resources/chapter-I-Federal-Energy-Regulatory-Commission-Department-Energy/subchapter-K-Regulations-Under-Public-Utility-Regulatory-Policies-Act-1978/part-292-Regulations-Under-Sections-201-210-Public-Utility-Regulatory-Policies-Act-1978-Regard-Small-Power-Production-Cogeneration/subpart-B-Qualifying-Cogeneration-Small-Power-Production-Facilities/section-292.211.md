@@ -1,5 +1,7 @@
 ##### § 292.211 Petition for initial determination on whether a project has a substantial adverse effect on the environment (AEE petition). #####
 
+Link to an amendment published at 88 FR 74032, Oct. 30, 2023.
+
 (a) An applicant that has filed a petition under § 292.210 may also file an AEE petition with the Commission for an initial determination on whether the project satisfies the requirement that it has no substantial adverse effect on the environment as specified in § 292.208(b)(1).
 
 (b) The filing of the AEE petition does not relieve the applicant of the filing requirements of § 292.208(c).

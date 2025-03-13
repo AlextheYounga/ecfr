@@ -1,5 +1,7 @@
 ##### § 292.210 Petition alleging commitment of substantial monetary resources before October 16, 1986. #####
 
+Link to an amendment published at 88 FR 74032, Oct. 30, 2023.
+
 (a) An applicant covered by § 292.203(c) whose application for license or exemption was filed on or after October 16, 1986, but before April 16, 1988, may file a petition for exception from the requirement in § 292.208(b)(3) and the moratorium described in § 292.203(c)(2). The petition must show that prior to October 16, 1986, the applicant committed substantial monetary resources (as that term is defined in § 292.202(r)) to the development of the project.
 
 (b) Subject to rebuttal under paragraph (d)(7)(ii) of this section, a showing of the commitment of substantial monetary resources will be presumed if the applicant held a preliminary permit for the project and had completed environmental consultations pursuant to § 4.38 of this chapter before October 16, 1986.

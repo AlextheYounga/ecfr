@@ -312,11 +312,11 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (iii) We restrict hunters in the spaced blind area to their assigned blind except when they are placing decoys, traveling to and from the parking area, retrieving downed birds, or pursuing crippled birds.
 
-(iv) We restrict hunters in the spaced zone area of the East Bear Creek Unit to their assigned zone except when they are traveling to and from the parking area, retrieving downed birds, or pursuing crippled birds.
+(iv) We restrict hunters in the spaced zone area of the East Bear Creek Unit and West Bear Creek Unit to their assigned zone except when they are traveling to and from the parking area, retrieving downed birds, or pursuing crippled birds.
 
 (v) Access to the Freitas Unit free-roam hunting area is by boat only with a maximum of 5 miles per hour (mph). We prohibit air-thrust and inboard water-thrust boats.
 
-(vi) We require State-issued Type A area permits for access on Wednesdays, Saturdays, and Sundays.
+(vi) We require State-issued Type A area permits for accessing the Freitas Unit on Wednesdays, Saturdays, and Sundays.
 
 (vii) We prohibit the use of motorized boats and other flotation devices in the free-roam units with the exception of the Freitas Unit.
 
@@ -450,4 +450,4 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (3)-(4) [Reserved]
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54105, Aug. 31, 2020; 86 FR 48857, Aug. 31, 2021; 87 FR 57128, Sept. 16, 2022]
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54105, Aug. 31, 2020; 86 FR 48857, Aug. 31, 2021; 87 FR 57128, Sept. 16, 2022; 88 FR 74063, Oct. 30, 2023]

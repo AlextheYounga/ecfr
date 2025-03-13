@@ -1,5 +1,7 @@
 ##### § 32.38 Maine. #####
 
+Link to an amendment published at 88 FR 74064, Oct. 30, 2023.
+
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
 (a) *Franklin Island National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of waterfowl on designated areas of the refuge subject to the following conditions:

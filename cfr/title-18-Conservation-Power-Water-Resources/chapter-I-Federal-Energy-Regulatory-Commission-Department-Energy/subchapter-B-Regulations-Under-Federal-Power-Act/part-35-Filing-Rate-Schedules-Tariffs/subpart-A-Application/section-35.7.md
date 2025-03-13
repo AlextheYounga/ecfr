@@ -1,5 +1,7 @@
 ##### § 35.7 Electronic filing of tariffs and related materials. #####
 
+Link to an amendment published at 88 FR 74030, Oct. 30, 2023.
+
 (a) *General rule.* All filings made in proceedings initiated under this part must be made electronically, including tariffs, rate schedules and service agreements, or parts thereof, and material that relates to or bears upon such documents, such as cancellations, amendments, withdrawals, termination, or adoption of tariffs.
 
 (b) *Requirement for signature.* All filings must be signed in compliance with the following:
