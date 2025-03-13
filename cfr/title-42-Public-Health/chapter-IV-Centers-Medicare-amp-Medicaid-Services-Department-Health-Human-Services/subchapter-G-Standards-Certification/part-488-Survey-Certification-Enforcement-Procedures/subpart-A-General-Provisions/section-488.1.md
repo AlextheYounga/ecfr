@@ -1,7 +1,5 @@
 ##### § 488.1 Definitions. #####
 
-Link to an amendment published at 88 FR 59335, Aug. 28, 2023.
-
 As used in this part—
 
 *Act* means the Social Security Act.
@@ -24,7 +22,7 @@ As used in this part—
 
 *National accrediting organization* means an organization that accredits provider entities, as that term is defined in section 1865(a)(4) of the Act, under a specific program and whose accredited provider entities under each program are widely located geographically across the United States.
 
-*Provider of services or provider* refers to a hospital, critical access hospital, skilled nursing facility, nursing facility, home health agency, hospice, comprehensive outpatient rehabilitation facility, or a clinic, rehabilitation agency or public health agency that furnishes outpatient physical therapy or speech pathology services.
+*Provider of services or provider* refers to a hospital, critical access hospital, rural emergency hospital, skilled nursing facility, nursing facility, home health agency, hospice, comprehensive outpatient rehabilitation facility, or a clinic, rehabilitation agency or public health agency that furnishes outpatient physical therapy or speech pathology services.
 
 *Rate of disparity* means the percentage of all sample validation surveys for which a State survey agency finds noncompliance with one or more Medicare conditions and no comparable condition level deficiency was cited by the accreditation organization, where it is reasonable to conclude that the deficiencies were present at the time of the accreditation organization's most recent surveys of providers or suppliers of the same type.
 
@@ -40,4 +38,4 @@ Example:Assume that during a validation review period State survey agencies perf
 
 *Supplier* means any of the following: Independent laboratory; portable X-ray services; physical therapist in independent practice; ESRD facility; rural health clinic; Federally qualified health center; chiropractor; or ambulatory surgical center.
 
-[53 FR 22859, June 17, 1988, as amended at 54 FR 5373, Feb. 2, 1989; 56 FR 48879, Sept. 26, 1991; 57 FR 24982, June 12, 1992; 58 FR 30676, May 26, 1993; 58 FR 61838, Nov. 23, 1993; 62 FR 46037, Aug. 29, 1997; 71 FR 68230, Nov. 24, 2006; 80 FR 29834, May 22, 2015]
+[53 FR 22859, June 17, 1988, as amended at 54 FR 5373, Feb. 2, 1989; 56 FR 48879, Sept. 26, 1991; 57 FR 24982, June 12, 1992; 58 FR 30676, May 26, 1993; 58 FR 61838, Nov. 23, 1993; 62 FR 46037, Aug. 29, 1997; 71 FR 68230, Nov. 24, 2006; 80 FR 29834, May 22, 2015; 88 FR 59335, Aug. 28, 2023]

@@ -16,7 +16,7 @@
 
 (vii) States, Indian tribes and units of general local government with more than one project included in the grant may receive up to 1% of the total cost of the grant for monitoring the projects.
 
-(2) Allowable costs shall be reasonable, necessary and recognized as expenditures in compliance with 2 CFR part 200, subpart E .
+(2) Allowable costs shall be reasonable, necessary and recognized as expenditures in compliance with 2 CFR part 200, subpart E.
 
 (b) *Nonallowable costs.* (1) CHSP funds may not be used to cover expenses related to any grantee program, service, or activity existing at the time of application to CHSP.
 

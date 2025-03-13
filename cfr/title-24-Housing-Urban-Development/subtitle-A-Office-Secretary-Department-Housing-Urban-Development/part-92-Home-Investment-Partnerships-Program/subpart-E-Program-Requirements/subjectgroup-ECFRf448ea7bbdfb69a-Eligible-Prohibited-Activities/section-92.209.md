@@ -1,7 +1,5 @@
 ##### § 92.209 Tenant-based rental assistance: Eligible costs and requirements. #####
 
-Link to an amendment published at 88 FR 30496, May 11, 2023.
-
 (a) *Eligible costs.* Eligible costs are the rental assistance and security deposit payments made to provide tenant-based rental assistance for a family pursuant to this section. Eligible costs also include utility deposit assistance, but only if this assistance is provided with tenant-based rental assistance or security deposit payment. Administration of tenant-based rental assistance is eligible only under general management oversight and coordination at § 92.207(a), except that the costs of inspecting the housing and determining the income eligibility of the family are eligible as costs of the tenant-based rental assistance.
 
 (b) *General requirement.* A participating jurisdiction may use HOME funds for tenant-based rental assistance only if the participating jurisdiction makes the certification about inclusion of this type of assistance in its consolidated plan in accordance with 24 CFR 91.225(d)(1), 91.325(d)(1), or 91.425(a)(2)(i), and specifies local market conditions that lead to the choice of this option.
@@ -40,7 +38,7 @@ Link to an amendment published at 88 FR 30496, May 11, 2023.
 
 (ii) The Section 8 Housing Choice Voucher Program (24 CFR part 982).
 
-(i) *Housing quality standards.* Housing occupied by a family receiving tenant-based assistance under this section must meet the requirements set forth in 24 CFR 982.401. The participating jurisdiction must inspect the housing initially and re-inspect it annually.
+(i) *Housing standards.* Housing occupied by a family receiving tenant-based rental assistance under this section must meet the participating jurisdiction's property standards under § 92.251. The participating jurisdiction must inspect the housing initially and re-inspect it annually.
 
 (j) *Security deposits.* (1) A participating jurisdiction may use HOME funds provided for tenant-based rental assistance to provide loans or grants to very low- and low-income families for security deposits for rental of dwelling units whether or not the participating jurisdiction provides any other tenant-based rental assistance under this section.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 88 FR 30496, May 11, 2023.
 
 (l) *Use of Section 8 assistance.* In any case where assistance under section 8 of the 1937 Act becomes available, recipients of tenant-based rental assistance under this part will qualify for tenant selection preferences to the same extent as when they received the HOME tenant-based rental assistance under this part.
 
-[61 FR 48750, Sept. 16, 1996, as amended at 62 FR 28928, May 28, 1997; 67 FR 61756, Oct. 1, 2002; 78 FR 44668, July 24, 2013]
+[61 FR 48750, Sept. 16, 1996, as amended at 62 FR 28928, May 28, 1997; 67 FR 61756, Oct. 1, 2002; 78 FR 44668, July 24, 2013; 88 FR 30496, May 11, 2023]

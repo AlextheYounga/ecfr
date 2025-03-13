@@ -1,7 +1,5 @@
 ##### § 412.140 Participation, data submission, and validation requirements under the Hospital Inpatient Quality Reporting (IQR) Program. #####
 
-Link to an amendment published at 88 FR 59332, Aug. 28, 2023.
-
 (a) *Participation in the Hospital IQR Program.* In order to participate in the Hospital IQR Program, a section 1886(d) of the hospital must-
 
 (1) Register on QualityNet website, before it begins to report data;
@@ -66,4 +64,36 @@ Link to an amendment published at 88 FR 59332, Aug. 28, 2023.
 
 (2) CMS approves an application for an entity to administer the HCAHPS survey as an approved HCAHPS survey vendor on behalf of one or more hospitals when an applicant has met the Minimum Survey Requirements and Rules of Participation that can be found on the official HCAHPS On-Line Web site, and agree to comply with the current survey administration protocols that can be found on the official HCAHPS On-Line Web site. An entity must be an approved HCAHPS survey vendor in order to administer and submit HCAHPS data to CMS on behalf of one or more hospitals.
 
-[76 FR 51782, Aug. 18, 2011, as amended at 77 FR 53674, Aug. 31, 2012; 78 FR 50966, Aug. 19, 2013; 79 FR 50354, Aug. 22, 2014; 81 FR 57267, Aug. 22, 2016; 82 FR 38511, Aug. 14, 2017; 86 FR 45520, Aug. 13, 2021; 87 FR 49404, Aug. 10, 2022]
+(g) *Retention and removal of quality measures under the Hospital IQR Program*—(1) *General rule for the retention of quality measures.* Quality measures adopted for the Hospital IQR Program measure set for a previous payment determination year are retained for use in subsequent payment determination years, except when they are removed, suspended, or replaced as set forth in paragraphs (g)(2) and (3) of this section.
+
+(2) *Immediate measure removal.* For cases in which CMS believes that the continued use of a measure raises specific patient safety concerns, CMS will immediately remove a quality measure from the Hospital IQR Program and will promptly notify hospitals and the public of the removal of the measure and the reasons for its removal through the Hospital IQR Program ListServ and the QualityNet website, as applicable.
+
+(3) *Measure removal, suspension, or replacement through the rulemaking process.* Unless a measure raises specific safety concerns as set forth in paragraph (g)(2) of this section, CMS will use the regular rulemaking process to remove, suspend, or replace quality measures in the Hospital IQR Program to allow for public comment.
+
+(i) *Factors for consideration of removal of quality measures.* CMS will weigh whether to remove a measure based on the following factors:
+
+(A) *Factor 1.* Measure performance among hospitals is so high and unvarying that meaningful distinctions and improvements in performance can no longer be made (“topped out” measure).
+
+(B) *Factor 2.* A measure does not align with current clinical guidelines or practice.
+
+(C) *Factor 3.* The availability of a more broadly applicable measure (across settings or populations), or the availability of a measure that is more proximal in time to desired patient outcomes for the particular topic.
+
+(D) *Factor 4.* Performance or improvement on a measure does not result in better patient outcomes.
+
+(E) *Factor 5.* The availability of a measure that is more strongly associated with desired patient outcomes for the particular topic.
+
+(F) *Factor 6.* Collection or public reporting of a measure leads to negative unintended consequences other than patient harm.
+
+(G) *Factor 7.* It is not feasible to implement the measure specifications.
+
+(H) *Factor 8.* The costs associated with a measure outweigh the benefit of its continued use in the program.
+
+(ii) *Criteria to determine topped-out measures.* For the purposes of the Hospital IQR Program, a measure is considered to be topped-out under paragraph (g)(3)(i)(A) of this section when it meets both of the following criteria:
+
+(A) Statistically indistinguishable performance at the 75th and 90th percentiles (defined as when the difference between the 75th and 90th percentiles for a hospital's measure is within 2 times the standard error of the full data set).
+
+(B) A truncated coefficient of variation less than or equal to 0.10.
+
+(iii) *Application of measure removal factors.* The benefits of removing a measure from the Hospital IQR Program will be assessed on a case-by-case basis.
+
+[76 FR 51782, Aug. 18, 2011, as amended at 77 FR 53674, Aug. 31, 2012; 78 FR 50966, Aug. 19, 2013; 79 FR 50354, Aug. 22, 2014; 81 FR 57267, Aug. 22, 2016; 82 FR 38511, Aug. 14, 2017; 86 FR 45520, Aug. 13, 2021; 87 FR 49404, Aug. 10, 2022; 88 FR 59332, Aug. 28, 2023]

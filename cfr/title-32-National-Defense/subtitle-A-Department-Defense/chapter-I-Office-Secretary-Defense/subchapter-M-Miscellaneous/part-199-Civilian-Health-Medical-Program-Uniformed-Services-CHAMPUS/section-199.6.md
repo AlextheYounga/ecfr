@@ -1,7 +1,5 @@
 ##### § 199.6 TRICARE—authorized providers. #####
 
-Link to an amendment published at 88 FR 19855, Apr. 4, 2023.
-
 (a) *General.* This section sets forth general policies and procedures that are the basis for the CHAMPUS cost-sharing of medical services and supplies provided by institutions, individuals, or other types of providers. Providers seeking payment from the Federal Government through programs such as CHAMPUS have a duty to familiarize themselves with, and comply with, the program requirements.
 
 (1) *Listing of provider does not guarantee payment of benefits.* The fact that a type of provider is listed in this section is not to be construed to mean that CHAMPUS will automatically pay a claim for services or supplies provided by such a provider. The provider who actually furnishes the service(s) must, in fact, meet all licensing and other requirements established by this part to be an authorized provider; the provider must not be the subject of sanction under § 199.9; and, cost-sharing of the services must not otherwise be prohibited by this part. In addition, the patient must in fact be an eligible beneficiary and the services or supplies billed must be authorized and medically necessary, regardless of the standing of the provider.
@@ -341,17 +339,13 @@ An infirmary in a boarding school also may qualify under this provision, subject
 
 (B) *Types of providers.* The following is a list of facilities that have been designated specifically as special institutional providers.
 
-(*1*) *Free-standing ambulatory surgical centers.* Care provided by freestanding ambulatory surgical centers may be cost-shared by CHAMPUS under the following circumstances:
+(*1*) *Ambulatory surgical centers* (*ASC).* ASCs must meet all criteria for classification as an Ambulatory Surgical Center under 42 CFR part 416, as well as all of the requirements of this part, in order to be considered an authorized ASC under the TRICARE program. Care provided by an authorized TRICARE ASC may be cost-shared under the following circumstances:
 
-(*i*) The treatment is prescribed and supervised by a physician.
+(*i*) A childbirth procedure provided by a CHAMPUS-approved ASC shall not be cost-shared by CHAMPUS unless the surgical center is also a CHAMPUS-approved birthing center institutional provider as established by the birthing center provider certification requirement of this part, and then reimbursement of covered maternity care and childbirth services shall be subject to § 199.14(e).
 
-(*ii*) The type and level of care and services rendered by the center are otherwise authorized by this part.
+(*ii*) ASCs must demonstrate they have a valid participation agreement with Medicare, except as provided under paragraph (b)(4)(x)(B)(*1*)(*i*) of this section. In addition, in order to be considered an authorized TRICARE provider, ASCs must accept the requirements for a participating provider under paragraph (a)(13) of this section and must also enter into a participation agreement with TRICARE which includes a specific “hold harmless” provision under which the facility will agree not to bill the patient for services not on the Medicare ASC procedures list unless, the patient is advised in writing that the non-listed procedure is not covered by TRICARE and the patient agrees, in advance in writing, to be financially liable for the non-covered procedure.
 
-(*iii*) The center meets all licensing or other certification requirements of the jurisdiction in which the facility is located.
-
-(*iv*) The center is accredited by the JCAH, the Accreditation Association for Ambulatory Health Care, Inc. (AAAHC), or such other standards as authorized by the Director, OCHAMPUS.
-
-(*v*) A childbirth procedure provided by a CHAMPUS-approved free-standing ambulatory surgical center shall not be cost-shared by the CHAMPUS unless the surgical center is also a CHAMPUS-approved birthing center institutional provider as established by the birthing center provider certification requirement of this Regulation.
+(*iii*) ASCs that do not have an agreement with Medicare due to the nature of the patients they treat (*e.g.,* pediatric patients) shall be accredited by the Joint Commission, the Accreditation Association for Ambulatory Health Care, Inc. (AAAHC), or such other accreditation as authorized by the Director, DHA and published in the implementing instructions. Additionally, these facilities must enter into participation agreements with TRICARE, including the hold harmless provisions under paragraph (b)(4)(x)(B)(*1*)(*ii*) of this section, and accept the requirements for a participating provider under paragraph (a)(13) of this section in order to be an authorized TRICARE provider.
 
 (*2*) [Reserved]
 

@@ -1,7 +1,5 @@
 ##### § 412.87 Additional payment for new medical services and technologies: General provisions. #####
 
-Link to an amendment published at 88 FR 59331, Aug. 28, 2023.
-
 (a) *Basis.* Sections 412.87 and 412.88 implement sections 1886(d)(5)(K) and 1886(d)(5)(L) of the Act, which authorize the Secretary to establish a mechanism to recognize the costs of new medical services and technologies under the hospital inpatient prospective payment system.
 
 (b) *Eligibility criteria.* For discharges occurring on or after October 1, 2001, CMS provides for additional payments (as specified in § 412.88) beyond the standard DRG payments and outlier payments to a hospital for discharges involving covered inpatient hospital services that are new medical services and technologies, if the following conditions are met:
@@ -88,10 +86,16 @@ Link to an amendment published at 88 FR 59331, Aug. 28, 2023.
 
 (3) The new medical product meets the conditions described in paragraph (b)(3) of this section.
 
-(e) *Announcement of determinations and deadline for consideration of new medical service or technology applications, and conditional approval for certain antimicrobial products.*(1) CMS will consider whether a new medical service or technology meets the eligibility criteria specified in paragraph (b), (c), or (d) of this section and announce the results in the Federal Register as part of its annual updates and changes to the IPPS. CMS will only consider any particular new medical service or technology for add-on payments under paragraph (b), (c), or (d) of this section.
+(e) *FDA status requirement.* CMS only considers, for add-on payments for a particular fiscal year, an application for which one of the following conditions are met at the time of new technology add-on payment application submission:
 
-(2) Except as provided for in paragraph (e)(3) of this section, CMS only considers, for add-on payments for a particular fiscal year, an application for which the new medical service or technology has received FDA marketing authorization by July 1 prior to the particular fiscal year.
+(1) The new medical service or technology is FDA market authorized for the indication that is the subject of the new technology add-on payment application.
 
-(3) A technology for which an application is submitted under an alternative pathway for certain antimicrobial products under paragraph (d) of this section that does not receive FDA marketing authorization by the July 1 deadline specified in paragraph (e)(2) of this section may be conditionally approved for the new technology add-on payment for a particular fiscal year, effective for discharges beginning in the first quarter after FDA marketing authorization is granted, provided that FDA marketing authorization is granted before July 1 of the fiscal year for which the applicant applied for new technology add-on payments.
+(2) The new medical service or technology is the subject of a complete and active FDA marketing authorization request and documentation of FDA acceptance or filing of the request is provided to CMS.
 
-[66 FR 46924, Sept. 7, 2001, as amended at 68 FR 45469, Aug. 1, 2003; 69 FR 49243, Aug. 11, 2004; 73 FR 48755, Aug. 19, 2008; 74 FR 43997, Aug. 27, 2009; 82 FR 38511, Aug. 14, 2017; 84 FR 42611, Aug. 16, 2019; 85 FR 59020, Sept. 18, 2020]
+(f) *Announcement of determinations and deadline for consideration of new medical service or technology applications, and conditional approval for certain antimicrobial products.*(1) CMS will consider whether a new medical service or technology meets the eligibility criteria specified in paragraph (b), (c), or (d) of this section and announce the results in the Federal Register as part of its annual updates and changes to the IPPS. CMS will only consider any particular new medical service or technology for add-on payments under paragraph (b), (c), or (d) of this section.
+
+(2) Except as provided for in paragraph (f)(3) of this section, CMS only considers, for add-on payments for a particular fiscal year, an application for which the new medical service or technology has received FDA marketing authorization by May 1 prior to the particular fiscal year.
+
+(3) A technology for which an application is submitted under an alternative pathway for certain antimicrobial products under paragraph (d) of this section that does not receive FDA marketing authorization by July 1 prior to the particular fiscal year for which the applicant applied for new technology add-on payments may be conditionally approved for the new technology add-on payment for that fiscal year, effective for discharges beginning in the first quarter after FDA marketing authorization is granted, provided that FDA marketing authorization is granted before July 1 of the fiscal year for which the applicant applied for new technology add-on payments.
+
+[66 FR 46924, Sept. 7, 2001, as amended at 68 FR 45469, Aug. 1, 2003; 69 FR 49243, Aug. 11, 2004; 73 FR 48755, Aug. 19, 2008; 74 FR 43997, Aug. 27, 2009; 82 FR 38511, Aug. 14, 2017; 84 FR 42611, Aug. 16, 2019; 85 FR 59020, Sept. 18, 2020; 88 FR 59331, Aug. 28, 2023]

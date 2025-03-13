@@ -1,5 +1,8 @@
 ##### § 981.467 Disposition in reserve outlets by handlers. #####
 
+Link to an amendment published at 88
+FR 67627, Oct. 2, 2023.
+
 (a) *Agents of Board.* Beginning with August 1 of any crop year, a handler may become an agent of the Board pursuant to § 981.67 for the purpose of disposing of reserve almonds of such crop year, in the authorized outlets. The agency shall be established upon a handler executing a reserve agreement (ABC Form 12) ABC, applicable to diversion, containing terms and conditions specified by the Board.
 
 (b) *Reserve credit.* Credit in satisfaction of a reserve obligation shall not exceed the accrued reserve obligation derived by applying the reserve percentage to the quanity of almonds received by a handler for his own account during the crop year. Disposition by an agent of the Board in eligible reserve outlets within a crop year in excess of his reserve obligation shall be held to be a disposition of salable almonds. Whenever such disposition has been inspected and certified, if required, and has complied with the terms, conditions, and documentation applicable to disposition of reserve almonds as determined by the Board, the disposition may be credited against any reserve obligation subsequently incurred by the handler during that crop year, or the disposition may be credited pursuant to § 981.455(b) against the reserve obligation of another handler.

@@ -1,7 +1,5 @@
 ##### § 983.3 PBV definitions. #####
 
-Link to an amendment published at 88 FR 30504, May 11, 2023.
-
 (a) *Use of PBV definitions*—(1) *PBV terms (defined in this section).* This section defines PBV terms that are used in this part 983. For PBV assistance, the definitions in this section apply to use of the defined terms in part 983 and in applicable provisions of 24 CFR part 982. (Section 983.2 specifies which provisions in part 982 apply to PBV assistance under part 983.)
 
 (2) *Other voucher terms (terms defined in 24 CFR 982.4).* (i) The definitions in this section apply instead of definitions of the same terms in 24 CFR 982.4.
@@ -46,7 +44,7 @@ Link to an amendment published at 88 FR 30504, May 11, 2023.
 
 *Housing credit agency.* For purposes of performing subsidy layering reviews for proposed PBV projects, a housing credit agency includes a State housing finance agency, a State participating jurisdiction under HUD's HOME program (see 24 CFR part 92), or other State housing agencies that meet the definition of “housing credit agency” as defined by section 42 of the Internal Revenue Code of 1986.
 
-*Housing quality standards (HQS).* The HUD minimum quality standards for housing assisted under the program. See 24 CFR 982.401.
+*Housing quality standards (HQS).* The minimum quality standards developed by HUD in accordance with 24 CFR 5.703 for the PBV program or the HUD approved alternative standard for the PHA under 24 CFR 5.703(g).
 
 *Lease.* A written agreement between an owner and a tenant for the leasing of a PBV dwelling unit by the owner to the tenant. The lease establishes the conditions for occupancy of the dwelling unit by a family with housing assistance payments under a HAP contract between the owner and the PHA.
 
@@ -94,4 +92,4 @@ Link to an amendment published at 88 FR 30504, May 11, 2023.
 
 *Wrong-size unit.* A unit occupied by a family that does not conform to the PHA's subsidy guideline for family size, by being either too large or too small compared to the guideline.
 
-[70 FR 59913, Oct. 13, 2005, as amended at 79 FR 36165, June 25, 2014; 81 FR 80818, Nov. 16, 2016]
+[70 FR 59913, Oct. 13, 2005, as amended at 79 FR 36165, June 25, 2014; 81 FR 80818, Nov. 16, 2016; 88 FR 30504, May 11, 2023]

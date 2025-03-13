@@ -1,7 +1,5 @@
 ##### § 412.320 Disproportionate share adjustment factor. #####
 
-Link to an amendment published at 88 FR 59334, Aug. 28, 2023.
-
 (a) *Criteria for classification.* A hospital is classified as a “disproportionate share hospital” for the purposes of capital prospective payments if either of the following conditions is met:
 
 (1) The hospital is located in an urban area, has 100 or more beds as determined in accordance with § 412.105(b), and serves low-income patients as determined under § 412.106(b).
@@ -10,7 +8,7 @@ Link to an amendment published at 88 FR 59334, Aug. 28, 2023.
 
 (ii) For discharges occurring on or after October 1, 2004, the payment adjustment under this section is based on the geographic classifications specified under § 412.64, except as provided for in paragraph (a)(1)(iii) of this section.
 
-(iii) For purposes of this section, the geographic classifications specified under § 412.64 apply, except that, effective for discharges occurring on or after October 1, 2006, for an urban hospital that is reclassified as rural as set forth in § 412.103, the geographic classification is rural.
+(iii) For purposes of this section, the geographic classifications specified under § 412.64 apply, except that, effective for discharges occurring on or after October 1, 2006, and before October 1, 2023, for an urban hospital that is reclassified as rural as set forth in § 412.103, the geographic classification is rural.
 
 (2) The hospital meets the criteria in § 412.106(c)(2).
 
@@ -18,4 +16,4 @@ Link to an amendment published at 88 FR 59334, Aug. 28, 2023.
 
 (2) If a hospital meets the criteria in § 412.106(c)(2) for purposes of hospital inpatient operating prospective payments, the disproportionate share adjustment factor is the factor that results from deeming the hospital to have the same disproportionate share patient percentage that would yield its operating disproportionate share adjustment.
 
-[56 FR 43449, Aug. 30, 1991; 57 FR 3016, Jan. 27, 1992, as amended at 58 FR 46339, Sept. 1, 1993; 69 FR 49250, Aug. 11, 2004; 71 FR 48140, Aug. 18, 2006]
+[56 FR 43449, Aug. 30, 1991; 57 FR 3016, Jan. 27, 1992, as amended at 58 FR 46339, Sept. 1, 1993; 69 FR 49250, Aug. 11, 2004; 71 FR 48140, Aug. 18, 2006; 88 FR 59334, Aug. 28, 2023]

@@ -1,6 +1,6 @@
 ##### 3452.232-70 Limitation of cost or funds. #####
 
-The following clause shall be inserted in all contracts that include a Limitation of cost or Limitation of funds clause in accordance with 3432.705-2:
+The following clause shall be inserted in all contracts that include a Limitation of cost or Limitation of funds clause in accordance with 3432.706-2:
 
 Limitation of Cost or Funds (MAR 2011)
 

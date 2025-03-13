@@ -1,7 +1,5 @@
 ##### § 199.2 Definitions. #####
 
-Link to an amendment published at 88 FR 19854, Apr. 4, 2023.
-
 (a) *General.* In an effort to be as specific as possible as to the word and intent of CHAMPUS, the following definitions have been developed. While many of the definitions are general and some assign meaning to relatively common terms within the health insurance environment, others are applicable only to CHAMPUS; however, they all appear in this part solely for the purpose of the Program. Except when otherwise specified, the definitions in this section apply generally throughout this part.
 
 (b) *Specific definitions. Abortion.* Abortion means the intentional termination of a pregnancy by artificial means done for a purpose other than that of producing a live birth. A spontaneous, missed or threatened abortion or termination of an ectopic (tubal) pregnancy are not included within the term “abortion” as used herein.
@@ -58,6 +56,8 @@ There is no CHAMPUS benefit entitlement during any interim waiting period.
 
 *Ambulatory Payment Classifications* (APCs). Payment of services under the TRICARE OPPS is based on grouping outpatient procedures and services into ambulatory payment classification groups based on clinical and resource homogeneity, provider concentration, frequency of service and minimal opportunities for upcoding and code fragmentation. Nationally established rates for each APC are calculated by multiplying the APC's relative weight derived from median costs for procedures assigned to the APC group, scaled to the median cost of the APC group representing the most frequently provided services, by the conversion factor.
 
+*Ambulatory Surgery Center (ASC).* Any distinct entity that is classified by the Centers for Medicare and Medicaid Services (CMS) as an Ambulatory Surgical Center (ASC) under 42 CFR part 416 and meets the applicable requirements established by § 199.6(b)(4)(x). Any ASC that would otherwise meet the CMS classification as an ASC but does not have a participation agreement with Medicare due to the nature of the patients they treat (*e.g.,* pediatric) must meet the applicable requirements established by § 199.6(b)(4)(x) in order to be a TRICARE authorized ASC. All ASCs must also enter into participation agreements with TRICARE as required by § 199.6(b)(4)(x) in order to be an authorized TRICARE provider of ASC services. Additionally, ASCs are prohibited from billing TRICARE beneficiaries for procedures that are not included in Medicare's ASC list of procedures allowable for facility fee payment in an ASC setting, unless the beneficiary agreed in advance in writing to pay for the non-covered services, in accordance with the “hold harmless” provision under § 199.6(b)(4)(x)(B)(*1*)(*ii*) and (*iii*).
+
 *Amount in dispute.* The amount of money, determined under this part, that CHAMPUS would pay for medical services and supplies involved in an adverse determination being appealed if the appeal were resolved in favor of the appealing party. See § 199.10 for additional information concerning the determination of “amount in dispute” under this part.
 
 *Anesthesia services.* The administration of an anesthetic agent by injection or inhalation, the purpose and effect of which is to produce surgical anesthesia characterized by muscular relaxation, loss of sensation, or loss of consciousness when administered by or under the direction of a physician or dentist in connection with otherwise covered surgery or obstetrical care, or shock therapy. Anesthesia services do not include hypnosis or acupuncture.
@@ -112,6 +112,8 @@ There is no CHAMPUS benefit entitlement during any interim waiting period.
 
 *CAHs.* A small facility that provides limited inpatient and outpatient hospital services primarily in rural areas and meets the applicable requirements established by § 199.6(b)(4)(xvi).
 
+*Cancer hospital.* A specialty hospital that is classified by CMS as a Cancer Hospital as specified in 42 CFR 412.23 and meets the applicable requirements established by § 199.6(b)(4)(i).
+
 *Capped rate.* The maximum per diem or all-inclusive rate that CHAMPUS will allow for care.
 
 *Case management.* Case management is a collaborative process which assesses, plans, implements, coordinates, monitors, and evaluates the options and services required to meet an individual's health needs, including mental health and substance use disorder needs, using communication and available resources to promote quality, cost effective outcomes.
@@ -131,6 +133,8 @@ There is no CHAMPUS benefit entitlement during any interim waiting period.
 *Chemotherapy.* The administration of approved antineoplastic drugs for the treatment of malignancies (cancer) via perfusion, infusion, or parenteral methods of administration.
 
 *Child.* An unmarried child of a member or former member, who meets the criteria (including age requirements) in § 199.3 of this part.
+
+*Children's hospital.* A specialty hospital that is classified by CMS as a Children's Hospital as specified in 42 CFR 412.23 and meets the applicable requirements established by § 199.6(b)(4)(i).
 
 *Chiropractor.* A practitioner of chiropractic (also called chiropraxis); essentially a system of therapeutics based upon the claim that disease is caused by abnormal function of the nerve system. It attempts to restore normal function of the nerve system by manipulation and treatment of the structures of the human body, especially those of the spinal column.
 

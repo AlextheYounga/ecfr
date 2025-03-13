@@ -1,10 +1,8 @@
 ##### § 412.108 Special treatment: Medicare-dependent, small rural hospitals. #####
 
-Link to an amendment published at 88 FR 59332, Aug. 28, 2023.
-
 (a) *Criteria for classification as a Medicare-dependent, small rural hospital*—
 
-(1) *General considerations.* For cost reporting periods beginning on or after April 1, 1990, and ending before October 1, 1994, or for discharges occurring on or after October 1, 1997, and before October 1, 2022, a hospital is classified as a Medicare-dependent, small rural hospital if it meets all of the following conditions:
+(1) *General considerations.* For cost reporting periods beginning on or after April 1, 1990, and ending before October 1, 1994, or for discharges occurring on or after October 1, 1997, and before October 1, 2024, a hospital is classified as a Medicare-dependent, small rural hospital if it meets all of the following conditions:
 
 (i) It is located in a rural area (as defined in subpart D of this part) or it is located in a State with no rural area and satisfies any of the criteria under § 412.103(a)(1) or (3) or under § 412.103(a)(2) as of January 1, 2018.
 
@@ -72,7 +70,7 @@ Link to an amendment published at 88 FR 59332, Aug. 28, 2023.
 
 (B) The hospital-specific rate as determined under § 412.75.
 
-(iii) For discharges occurring during cost reporting periods (or portions thereof) beginning on or after October 1, 2006, and before October 1, 2022, 75 percent of the amount that the Federal rate determined under paragraph (c)(1) of this section is exceeded by the highest of the following:
+(iii) For discharges occurring during cost reporting periods (or portions thereof) beginning on or after October 1, 2006, and before October 1, 2024, 75 percent of the amount that the Federal rate determined under paragraph (c)(1) of this section is exceeded by the highest of the following:
 
 (A) The hospital-specific rate as determined under § 412.73.
 

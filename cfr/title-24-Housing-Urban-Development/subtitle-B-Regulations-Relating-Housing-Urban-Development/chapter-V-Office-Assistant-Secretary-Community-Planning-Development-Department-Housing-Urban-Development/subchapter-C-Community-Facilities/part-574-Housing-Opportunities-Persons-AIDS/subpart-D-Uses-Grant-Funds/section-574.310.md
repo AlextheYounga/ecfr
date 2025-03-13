@@ -1,6 +1,6 @@
 ##### § 574.310 General standards for eligible housing activities. #####
 
-Link to an amendment published at 88 FR 9665, Feb. 14, 2023.Link to an amendment published at 88 FR 30498, May 11, 2023.
+Link to an amendment published at 88 FR 9665, Feb. 14, 2023.
 
 All grantees using grant funds to provide housing must adhere to the following standards:
 
@@ -12,29 +12,19 @@ All grantees using grant funds to provide housing must adhere to the following s
 
 (ii) By an entity that provides health services on a prepaid basis.
 
-(b) *Housing quality standards.* All housing assisted under § 574.300(b) (3), (4), (5), and (8) must meet the applicable housing quality standards outlined below.
+(b)
+
+(b) *Housing quality standards.* The following standards apply for all housing for which HOPWA funds are used under § 574.300(b)(3), (4), (5), and (8).
 
 (1) *State and local requirements.* Each recipient of assistance under this part must provide safe and sanitary housing that is in compliance with all applicable State and local housing codes, licensing requirements, and any other requirements in the jurisdiction in which the housing is located regarding the condition of the structure and the operation of the housing.
 
-(2) *Habitability standards.* Except for such variations as are proposed by the locality and approved by HUD, recipients must meet the following requirements:
+(2) *HUD housing standards.* Except for such variations as are proposed by the grantee and approved by HUD, the housing must meet the standards for HUD housing in 24 CFR 5.703, except that:
 
-(i) *Structure and materials.* The structures must be structurally sound so as not to pose any threat to the health and safety of the occupants and so as to protect the residents from hazards.
+(i) As applied to HOPWA, “HUD housing” in 24 CFR 5.703 means the units eligible persons occupy or will occupy, systems equipment that directly services those units, items and components within the primary and secondary means of egress from those units' doors to the public way, and common features related to the residential use of the building (e.g., the laundry room, community room, mail room).
 
-(ii) *Access.* The housing must be accessible and capable of being utilized without unauthorized use of other private properties. Structures must provide alternate means of egress in case of fire.
+(ii) Housing that continues to meet the HOPWA housing quality standards that applied when the eligible person(s) moved into that housing shall not be required to meet new or different standards under 24 CFR 5.703.
 
-(iii) *Space and security.* Each resident must be afforded adequate space and security for themselves and their belongings. An acceptable place to sleep must be provided for each resident.
-
-(iv) *Interior air quality.* Every room or space must be provided with natural or mechanical ventilation. Structures must be free of pollutants in the air at levels that threaten the health of residents.
-
-(v) *Water supply.* The water supply must be free from contamination at levels that threaten the health of individuals.
-
-(vi) *Thermal environment.* The housing must have adequate heating and/or cooling facilities in proper operating condition.
-
-(vii) *Illumination and electricity.* The housing must have adequate natural or artificial illumination to permit normal indoor activities and to support the health and safety of residents. Sufficient electrical sources must be provided to permit use of essential electrical appliance while assuring safety from fire.
-
-(viii) *Food preparation and refuse disposal.* All food preparation areas must contain suitable space and equipment to store, prepare, and serve food in a sanitary manner.
-
-(ix) *Sanitary condition.* The housing and any equipment must be maintained in sanitary condition.
+(3) The requirements of 24 CFR 5.705 through 5.713 do not apply.
 
 (c) *Minimum use period for structures.* (1) Any building or structure assisted with amounts under this part must be maintained as a facility to provide housing or assistance for individuals with acquired immunodeficiency syndrome or related diseases:
 
@@ -68,4 +58,4 @@ All grantees using grant funds to provide housing must adhere to the following s
 
 (C) Providing prompt written notification of the final decision to the participant.
 
-(Paragraph (c) approved by the Office of Management and Budget under control number 2506-0133)[57 FR 61740, Dec. 28, 1992, as amended at 59 FR 17200, Apr. 11, 1994; 61 FR 7963, Feb. 29, 1996; 66 FR 6225, Jan. 19, 2001; 81 FR 80806, Nov. 16, 2016]
+(Paragraph (c) approved by the Office of Management and Budget under control number 2506-0133)[57 FR 61740, Dec. 28, 1992, as amended at 59 FR 17200, Apr. 11, 1994; 61 FR 7963, Feb. 29, 1996; 66 FR 6225, Jan. 19, 2001; 81 FR 80806, Nov. 16, 2016; 88 FR 30498, May 11, 2023]

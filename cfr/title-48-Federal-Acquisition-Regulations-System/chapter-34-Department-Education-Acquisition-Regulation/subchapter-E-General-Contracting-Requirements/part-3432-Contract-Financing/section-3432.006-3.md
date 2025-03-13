@@ -1,0 +1,3 @@
+##### 3432.006-3 Responsibilities. #####
+
+(b) Department personnel must report immediately and in writing any apparent or suspected instance where the contractor's request for advance, partial, or progress payments is based on fraud. The report must be made to the contracting officer and the Assistant Inspector General for Investigations. The report must outline the events, acts, or conditions which indicate the apparent or suspected violation and include all pertinent documents. The Assistant Inspector General for Investigations will investigate, as appropriate. If appropriate, the Office of the Inspector General will provide a report to the SPE.

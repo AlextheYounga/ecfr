@@ -1,7 +1,5 @@
 ##### § 270.2a-7 Money market funds. #####
 
-Link to an amendment published at 88 FR 51521, Aug. 3, 2023.
-
 (a) *Definitions*—(1) *Acquisition (or acquire)* means any purchase or subsequent rollover (but does not include the failure to exercise a demand feature).
 
 (2) *Amortized cost method of valuation* means the method of calculating an investment company's net asset value whereby portfolio securities are valued at the fund's acquisition cost as adjusted for amortization of premium or accretion of discount rather than at their value based on current market factors.
@@ -124,43 +122,59 @@ For a discussion of additional factors that may be relevant in evaluating certai
 
 (3) *Titles.* For purposes of paragraph (b)(2) of this section, a name that suggests that a registered investment company is a money market fund or the equivalent thereof includes one that uses such terms as “cash,” “liquid,” “money,” “ready assets” or similar terms.
 
-(c) *Pricing and Redeeming Shares*—(1) *Share price calculation.*
-
-(i) The current price per share, for purposes of distribution, redemption and repurchase, of any redeemable security issued by a government money market fund or retail money market fund, notwithstanding the requirements of section 2(a)(41) of the Act (15 U.S.C. 80a-2(a)(41)) and of §§ 270.2a-4 and 270.22c-1 thereunder, may be computed by use of the amortized cost method and/or the penny-rounding method. To use these methods, the board of directors of the government or retail money market fund must determine, in good faith, that it is in the best interests of the fund and its shareholders to maintain a stable net asset value per share or stable price per share, by virtue of either the amortized cost method and/or the penny-rounding method. The government or retail money market fund may continue to use such methods only so long as the board of directors believes that they fairly reflect the market-based net asset value per share and the fund complies with the other requirements of this section.
+(c) *Pricing and Redeeming Shares*—(1) *Share price calculation.* (i) The current price per share, for purposes of distribution, redemption and repurchase, of any redeemable security issued by a government money market fund or retail money market fund, notwithstanding the requirements of section 2(a)(41) of the Act (15 U.S.C. 80a-2(a)(41)) and of §§ 270.2a-4 and 270.22c-1 thereunder, may be computed by use of the amortized cost method and/or the penny-rounding method. To use these methods, the board of directors of the government or retail money market fund must determine, in good faith, that it is in the best interests of the fund and its shareholders to maintain a stable net asset value per share or stable price per share, by virtue of either the amortized cost method and/or the penny-rounding method. The government or retail money market fund may continue to use such methods only so long as the board of directors believes that they fairly reflect the market-based net asset value per share and the fund complies with the other requirements of this section.
 
 (ii) Any money market fund that is not a government money market fund or a retail money market fund must compute its price per share for purposes of distribution, redemption and repurchase by rounding the fund's current net asset value per share to a minimum of the fourth decimal place in the case of a fund with a $1.0000 share price or an equivalent or more precise level of accuracy for money market funds with a different share price (e.g. $10.000 per share, or $100.00 per share).
 
-(2) *Liquidity fees and temporary suspensions of redemptions.* Except as provided in paragraphs (c)(2)(iii) and (v) of this section, and notwithstanding sections 22(e) and 27(i) of the Act (15 U.S.C. 80a-22(e) and 80a-27(i)) and § 270.22c-1:
+(2) *Liquidity fees.* Except as provided in paragraph (c)(2)(v) of this section, and notwithstanding section 27(i) of the Act (15 U.S.C. 80a-27(i)) and § 270.22c-1:
 
-(i) *Discretionary liquidity fees and temporary suspensions of redemptions.* If, at any time, the money market fund has invested less than thirty percent of its total assets in weekly liquid assets, the fund may institute a liquidity fee (not to exceed two percent of the value of the shares redeemed) or suspend the right of redemption temporarily, subject to paragraphs (c)(2)(i)(A) and (B) of this section, if the fund's board of directors, including a majority of the directors who are not interested persons of the fund, determines that the fee or suspension of redemptions is in the best interests of the fund.
+(i) *Discretionary liquidity fees.* If the fund's board of directors, including a majority of the directors who are not interested persons of the fund, determines that a liquidity fee is in the best interests of the fund, the fund must institute a liquidity fee (not to exceed two percent of the value of the shares redeemed).
 
-(A) *Duration and application of discretionary liquidity fee.* Once imposed, a discretionary liquidity fee must be applied to all shares redeemed and must remain in effect until the money market fund's board of directors, including a majority of the directors who are not interested persons of the fund, determines that imposing such liquidity fee is no longer in the best interests of the fund. Provided however, that if, at the end of a business day, the money market fund has invested thirty percent or more of its total assets in weekly liquid assets, the fund must cease charging the liquidity fee, effective as of the beginning of the next business day.
+(A) *Duration and application of discretionary liquidity fee.* Once imposed, a discretionary liquidity fee must be applied to all shares redeemed and must remain in effect until the money market fund's board of directors, including a majority of the directors who are not interested persons of the fund, determines that imposing such liquidity fee is no longer in the best interests of the fund.
 
-(B) *Duration of temporary suspension of redemptions.* The temporary suspension of redemptions must apply to all shares and must remain in effect until the fund's board of directors, including a majority of the directors who are not interested persons of the fund, determines that the temporary suspension of redemptions is no longer in the best interests of the fund. Provided, however, that the fund must restore the right of redemption on the earlier of:
+(B) *Government money market funds.* The requirements of this paragraph (c)(2)(i) do not apply to a government money market fund. A government money market fund may, however, choose to rely on the ability to impose discretionary liquidity fees consistent with the requirements of this paragraph (c)(2)(i) and any other requirements that apply to liquidity fees (*e.g.,* Item 4(b)(1)(ii) of Form N-1A (§ 274.11A of this chapter)).
 
-(*1*) The beginning of the next business day following a business day that ended with the money market fund having invested thirty percent or more of its total assets in weekly liquid assets; or
+(ii) *Determination, duration, and application of mandatory liquidity fees.* If a money market fund that is not a government money market fund or a retail money market fund has total daily net redemptions that exceed five percent of the fund's net assets, or such smaller amount of net redemptions as the board determines, based on flow information available within a reasonable period after the last computation of the fund's net asset value on that day, the fund must apply a liquidity fee to all shares that are redeemed at a price computed on that day, in an amount determined pursuant to paragraph (c)(2)(iii) of this section.
 
-(*2*) The beginning of the next business day following ten business days after suspending redemptions. The money market fund may not suspend the right of redemption pursuant to this section for more than ten business days in any rolling ninety calendar day period.
+(iii) *Amount of mandatory liquidity fees.* The amount of a mandatory liquidity fee must be determined pursuant to paragraph (c)(2)(iii)(A) of this section, except as provided in paragraph (c)(2)(iii)(C) or (D) of this section.
 
-(ii) *Default liquidity fees.* If, at the end of a business day, the money market fund has invested less than ten percent of its total assets in weekly liquid assets, the fund must institute a liquidity fee, effective as of the beginning of the next business day, as described in paragraphs (c)(2)(ii)(A) and (B) of this section, unless the fund's board of directors, including a majority of the directors who are not interested persons of the fund, determines that imposing the fee is not in the best interests of the fund.
+(A) *Good faith estimate of liquidity costs.* The fee amount must be based on a good faith estimate, supported by data, of the costs the fund would incur if it sold a pro rata amount of each security in its portfolio to satisfy the amount of net redemptions, including:
 
-(A) *Amount of default liquidity fee.* The default liquidity fee shall be one percent of the value of shares redeemed unless the money market fund's board of directors, including a majority of the directors who are not interested persons of the fund, determines, at the time of initial imposition or later, that a higher or lower fee level is in the best interests of the fund. A liquidity fee may not exceed two percent of the value of the shares redeemed.
+(*1*) Spread costs, such that the fund is valuing each security at its bid price, and any other charges, fees, and taxes associated with portfolio security sales; and
 
-(B) *Duration and application of default liquidity fee.* Once imposed, the default liquidity fee must be applied to all shares redeemed and shall remain in effect until the money market fund's board of directors, including a majority of the directors who are not interested persons of the fund, determines that imposing such liquidity fee is not in the best interests of the fund. Provided however, that if, at the end of a business day, the money market fund has invested thirty percent or more of its total assets in weekly liquid assets, the fund must cease charging the liquidity fee, effective as of the beginning of the next business day.
+(*2*) Market impacts for each security. The fund must determine market impacts by first establishing a market impact factor for each security, which is a good faith estimate of the percentage change in the value of the security if it were sold, per dollar of the amount of the security that would be sold if the fund sold a pro rata amount of each security in its portfolio to satisfy the amount of net redemptions under current market conditions and, second, multiplying the market impact factor by the dollar amount of the security that would be sold. A fund may assume a market impact of zero for its daily liquid assets and weekly liquid assets.
 
-(iii) *Government money market funds.* The requirements of paragraphs (c)(2)(i) and (ii) of this section shall not apply to a government money market fund. A government money market fund may, however, choose to rely on the ability to impose liquidity fees and suspend redemptions consistent with the requirements of paragraph (c)(2)(i) and/or (ii) of this section and any other requirements that apply to liquidity fees and temporary suspensions of redemptions (e.g., Item 4(b)(1)(ii) of Form N-1A (§ 274.11A of this chapter)).
+(B) *Cost estimates by type of security.* For purposes of paragraph (c)(2)(iii)(A) of this section, a fund may estimate costs and market impacts for each type of security with the same or substantially similar characteristics and apply those estimates to all securities of that type rather than analyze each security separately.
 
-(iv) *Variable contracts.* Notwithstanding section 27(i) of the Act (15 U.S.C. 80a-27(i)), a variable insurance contract issued by a registered separate account funding variable insurance contracts or the sponsoring insurance company of such separate account may apply a liquidity fee or temporary suspension of redemptions pursuant to paragraph (c)(2) of this section to contract owners who allocate all or a portion of their contract value to a subaccount of the separate account that is either a money market fund or that invests all of its assets in shares of a money market fund.
+(C) *Default fee amount.* If the costs of selling a pro rata amount of each portfolio security cannot be estimated in good faith and supported by data, the liquidity fee amount is one percent of the value of shares redeemed.
 
-(v) *Master feeder funds.* Any money market fund (a “feeder fund”) that owns, pursuant to section 12(d)(1)(E) of the Act (15 U.S.C. 80a-12(d)(1)(E)), shares of another money market fund (a “master fund”) may not impose liquidity fees or temporary suspensions of redemptions under paragraphs (c)(2)(i) and (ii) of this section, provided however, that if a master fund, in which the feeder fund invests, imposes a liquidity fee or temporary suspension of redemptions pursuant to paragraphs (c)(2)(i) and (ii) of this section, then the feeder fund shall pass through to its investors the fee or redemption suspension on the same terms and conditions as imposed by the master fund.
+(D) *De minimis exception.* A fund is not required to apply a liquidity fee if the amount of the fee determined under paragraph (c)(2)(iii)(A) of this section is less than 0.01% of the value of the shares redeemed.
+
+(iv) *Variable contracts.* Notwithstanding section 27(i) of the Act (15 U.S.C. 80a-27(i)), a variable insurance contract issued by a registered separate account funding variable insurance contracts or the sponsoring insurance company of such separate account may apply a liquidity fee pursuant to paragraph (c)(2) of this section to contract owners who allocate all or a portion of their contract value to a subaccount of the separate account that is either a money market fund or that invests all of its assets in shares of a money market fund.
+
+(v) *Master feeder funds.* Any money market fund (“feeder fund”) that owns, pursuant to section 12(d)(1)(E) of the Act (15 U.S.C. 80a-12(d)(1)(E)), shares of another money market fund (“master fund”) may not impose liquidity fees under paragraph (c)(2) of this section, provided however, that if a master fund, in which the feeder fund invests, imposes a liquidity fee pursuant to paragraph (c)(2) of this section, then the feeder fund shall pass through to its investors the fee on the same terms and conditions as imposed by the master fund.
+
+(3) *Share cancellation.* A money market fund may not reduce the number of its shares outstanding to seek to maintain a stable net asset value per share or stable price per share unless:
+
+(i) The money market fund calculates its share price pursuant to paragraph (c)(1)(i) of this section;
+
+(ii) The fund has negative gross yield as a result of negative interest rates (“negative interest rate event”);
+
+(iii) The board of directors determines that reducing the number of the fund's shares outstanding is in the best interests of the fund and its shareholders; and
+
+(iv) Timely, concise, and plain English disclosure is provided to investors about the fund's share cancellation practices and their effects on investors, including:
+
+(A) Advance notification to investors in the fund's prospectus that the fund plans to use share cancellation in a negative interest rate event and the potential effects on investors; and
+
+(B) When the fund is cancelling shares, information in each account statement or in a separate writing accompanying each account statement identifying that such practice is in use and explaining its effects on investors.
 
 (d) *Risk-limiting conditions*—(1) *Portfolio maturity.* The money market fund must maintain a dollar-weighted average portfolio maturity appropriate to its investment objective; provided, however, that the money market fund must not:
 
 (i) Acquire any instrument with a remaining maturity of greater than 397 calendar days;
 
-(ii) Maintain a dollar-weighted average portfolio maturity (“WAM”) that exceeds 60 calendar days; or
+(ii) Maintain a dollar-weighted average portfolio maturity (“WAM”) that exceeds 60 calendar days, with the dollar-weighted average based on the percentage of each security's market value in the portfolio; or
 
-(iii) Maintain a dollar-weighted average portfolio maturity that exceeds 120 calendar days, determined without reference to the exceptions in paragraph (i) of this section regarding interest rate readjustments (“WAL”).
+(iii) Maintain a dollar-weighted average portfolio maturity that exceeds 120 calendar days, determined without reference to the exceptions in paragraph (i) of this section regarding interest rate readjustments (“WAL”) and with the dollar-weighted average based on the percentage of each security's market value in the portfolio.
 
 (2) *Portfolio quality*—(i) *General.* The money market fund must limit its portfolio investments to those United States dollar-denominated securities that at the time of acquisition are eligible securities.
 
@@ -236,9 +250,9 @@ For a discussion of additional factors that may be relevant in evaluating certai
 
 (i) *Illiquid securities.* The money market fund may not acquire any illiquid security if, immediately after the acquisition, the money market fund would have invested more than five percent of its total assets in illiquid securities.
 
-(ii) *Minimum daily liquidity requirement.* The money market fund may not acquire any security other than a daily liquid asset if, immediately after the acquisition, the fund would have invested less than ten percent of its total assets in daily liquid assets. This provision does not apply to tax exempt funds.
+(ii) *Minimum daily liquidity requirement.* The money market fund may not acquire any security other than a daily liquid asset if, immediately after the acquisition, the fund would have invested less than twenty-five percent of its total assets in daily liquid assets. This provision does not apply to tax exempt funds.
 
-(iii) *Minimum weekly liquidity requirement.* The money market fund may not acquire any security other than a weekly liquid asset if, immediately after the acquisition, the fund would have invested less than thirty percent of its total assets in weekly liquid assets.
+(iii) *Minimum weekly liquidity requirement.* The money market fund may not acquire any security other than a weekly liquid asset if, immediately after the acquisition, the fund would have invested less than fifty percent of its total assets in weekly liquid assets.
 
 (e) *Demand features and guarantees not relied upon.* If the fund's board of directors has determined that the fund is not relying on a demand feature or guarantee to determine the quality (pursuant to paragraph (d)(2) of this section), or maturity (pursuant to paragraph (i) of this section), or liquidity of a portfolio security (pursuant to paragraph (d)(4) of this section), and maintains a record of this determination (pursuant to paragraphs (g)(3) and (h)(7) of this section), then the fund may disregard such demand feature or guarantee for all purposes of this section.
 
@@ -259,6 +273,14 @@ For a discussion of additional factors that may be relevant in evaluating certai
 (ii) The provider of the guarantee is continuing, without protest, to make payments as due on the instrument; or
 
 (iii) The provider of a guarantee with respect to an asset-backed security pursuant to paragraph (a)(16)(ii) of this section is continuing, without protest, to provide credit, liquidity or other support as necessary to permit the asset-backed security to make payments as due.
+
+(4) *Notice to the board of directors.* (i) The money market fund must notify its board of directors within one business day following the occurrence of:
+
+(A) The money market fund investing less than twelve and a half percent of its total assets in daily liquid assets; or
+
+(B) The money market fund investing less than twenty-five percent of its total assets in weekly liquid assets.
+
+(ii) Following an event described in paragraph (f)(4)(i) of this section, the money market fund must provide its board of directors with a brief description of the facts and circumstances leading to such event within four business days after occurrence of the event.
 
 (g) *Required procedures.* The money market fund's board of directors must adopt written procedures including the following:
 
@@ -298,7 +320,7 @@ For a discussion of additional factors that may be relevant in evaluating certai
 
 (8) *Stress Testing.* Written procedures must provide for:
 
-(i) *General.* The periodic stress testing, at such intervals as the board of directors determines appropriate and reasonable in light of current market conditions, of the money market fund's ability to have invested at least ten percent of its total assets in weekly liquid assets, and the fund's ability to minimize principal volatility (and, in the case of a money market fund using the amortized cost method of valuation or penny rounding method of pricing as provided in paragraph (c)(1) of this section, the fund's ability to maintain the stable price per share established by the board of directors for the purpose of distribution, redemption and repurchase), based upon specified hypothetical events that include, but are not limited to:
+(i) *General.* The periodic stress testing, at such intervals as the board of directors determines appropriate and reasonable in light of current market conditions, of the money market fund's ability to maintain the sufficient liquidity levels identified in its written procedures, and the fund's ability to minimize principal volatility (and, in the case of a money market fund using the amortized cost method of valuation or penny rounding method of pricing as provided in paragraph (c)(1) of this section, the fund's ability to maintain the stable price per share established by the board of directors for the purpose of distribution, redemption and repurchase), based upon specified hypothetical events that include, but are not limited to:
 
 (A) Increases in the general level of short-term interest rates, in combination with various levels of an increase in shareholder redemptions;
 
@@ -310,7 +332,7 @@ For a discussion of additional factors that may be relevant in evaluating certai
 
 (ii) A report on the results of such testing to be provided to the board of directors at its next regularly scheduled meeting (or sooner, if appropriate in light of the results), which report must include:
 
-(A) The date(s) on which the testing was performed and an assessment of the money market fund's ability to have invested at least ten percent of its total assets in weekly liquid assets and to minimize principal volatility (and, in the case of a money market fund using the amortized cost method of valuation or penny rounding method of pricing as provided in paragraph (c)(1) of this section to maintain the stable price per share established by the board of directors); and
+(A) The date(s) on which the testing was performed and an assessment of the money market fund's ability to maintain the sufficient liquidity levels identified in its written procedures and to minimize principal volatility (and, in the case of a money market fund using the amortized cost method of valuation or penny rounding method of pricing as provided in paragraph (c)(1) of this section to maintain the stable price per share established by the board of directors); and
 
 (B) An assessment by the fund's adviser of the fund's ability to withstand the events (and concurrent occurrences of those events) that are reasonably likely to occur within the following year, including such information as may reasonably be necessary for the board of directors to evaluate the stress testing conducted by the adviser and the results of the testing. The fund adviser must include a summary of the significant assumptions made when performing the stress tests.
 
@@ -336,7 +358,7 @@ For a discussion of additional factors that may be relevant in evaluating certai
 
 (9) *Inspection of records.* The documents preserved pursuant to paragraph (h) of this section are subject to inspection by the Commission in accordance with section 31(b) of the Act (15 U.S.C. 80a-30(b)) as if such documents were records required to be maintained pursuant to rules adopted under section 31(a) of the Act (15 U.S.C. 80a-30(a)).
 
-(10) *Web site disclosure of portfolio holdings and other fund information.* The money market fund must post prominently on its Web site the following information:
+(10) *Website disclosure of portfolio holdings and other fund information.* The money market fund must post prominently on its website the following information:
 
 (i) For a period of not less than six months, beginning no later than the fifth business day of the month, a schedule of its investments, as of the last business day or subsequent calendar day of the preceding month, that includes the following information:
 
@@ -350,7 +372,7 @@ For a discussion of additional factors that may be relevant in evaluating certai
 
 (*1*) Name of the issuer;
 
-(*2*) Category of investment (indicate the category that identifies the instrument from among the following: U.S. Treasury Debt; U.S. Government Agency Debt; Non-U.S. Sovereign, Sub-Sovereign and Supra-National debt; Certificate of Deposit; Non-Negotiable Time Deposit; Variable Rate Demand Note; Other Municipal Security; Asset Backed Commercial Paper; Other Asset Backed Securities; U.S. Treasury Repurchase Agreement, if collateralized only by U.S. Treasuries (including Strips) and cash; U.S. Government Agency Repurchase Agreement, collateralized only by U.S. Government Agency securities, U.S. Treasuries, and cash; Other Repurchase Agreement, if any collateral falls outside Treasury, Government Agency and cash; Insurance Company Funding Agreement; Investment Company; Financial Company Commercial Paper; and Non-Financial Company Commercial Paper. If Other Instrument, include a brief description);
+(*2*) Category of investment (indicate the category that identifies the instrument from among the following: U.S. Treasury Debt; U.S. Government Agency Debt, if categorized as coupon-paying notes; U.S. Government Agency Debt, if categorized as no-coupon discount notes; Non-U.S. Sovereign, Sub-Sovereign and Supra-National debt; Certificate of Deposit; Non-Negotiable Time Deposit; Variable Rate Demand Note; Other Municipal Security; Asset Backed Commercial Paper; Other Asset Backed Securities; U.S. Treasury Repurchase Agreement, if collateralized only by U.S. Treasuries (including Strips) and cash; U.S. Government Agency Repurchase Agreement, collateralized only by U.S. Government Agency securities, U.S. Treasuries, and cash; Other Repurchase Agreement, if any collateral falls outside Treasury, Government Agency and cash; Insurance Company Funding Agreement; Investment Company; Financial Company Commercial Paper; Non-Financial Company Commercial Paper; and Other Instrument. If Other Instrument, include a brief description);
 
 (*3*) CUSIP number (if any);
 
@@ -372,11 +394,11 @@ For a discussion of additional factors that may be relevant in evaluating certai
 
 (C) The money market fund's net inflows or outflows.
 
-(iii) A schedule, chart, graph, or other depiction showing the money market fund's net asset value per share (which the fund must calculate based on current market factors before applying the amortized cost or penny-rounding method, if used), rounded to the fourth decimal place in the case of funds with a $1.000 share price or an equivalent level of accuracy for funds with a different share price (e.g., $10.00 per share), as of the end of each business day during the preceding six months, which must be updated each business day as of the end of the preceding business day.
+(iii) A schedule, chart, graph, or other depiction showing the money market fund's net asset value per share (which the fund must calculate based on current market factors before applying the amortized cost or penny-rounding method, if used), rounded to the fourth decimal place in the case of funds with a $1.0000 share price or an equivalent level of accuracy for funds with a different share price (*e.g.,* $10.000 per share), as of the end of each business day during the preceding six months, which must be updated each business day as of the end of the preceding business day.
 
-(iv) A link to a Web site of the Securities and Exchange Commission where a user may obtain the most recent 12 months of publicly available information filed by the money market fund pursuant to § 270.30b1-7.
+(iv) A link to a website of the Securities and Exchange Commission where a user may obtain the most recent 12 months of publicly available information filed by the money market fund pursuant to § 270.30b1-7.
 
-(v) For a period of not less than one year, beginning no later than the same business day on which the money market fund files an initial report on Form N-CR (§ 274.222 of this chapter) in response to the occurrence of any event specified in Parts C, E, F, or G of Form N-CR, the same information that the money market fund is required to report to the Commission on Part C (Items C.1, C.2, C.3, C.4, C.5, C.6, and C.7), Part E (Items E.1, E.2, E.3, and E.4), Part F (Items F.1 and F.2), or Part G of Form N-CR concerning such event, along with the following statement: “The Fund was required to disclose additional information about this event [or “these events,” as appropriate] on Form N-CR and to file this form with the Securities and Exchange Commission. Any Form N-CR filing submitted by the Fund is available on the EDGAR Database on the Securities and Exchange Commission's Internet site at *http://www.sec.gov.*”
+(v) For a period of not less than one year, beginning no later than the same business day on which the money market fund files an initial report on Form N-CR (§ 274.222 of this chapter) in response to the occurrence of any event specified in Part C of Form N-CR, the same information that the money market fund is required to report to the Commission on Part C (Items C.1, C.2, C.3, C.4, C.5, C.6, and C.7) of Form N-CR concerning such event, along with the following statement: “The Fund was required to disclose additional information about this event on Form N-CR and to file this form with the Securities and Exchange Commission. Any Form N-CR filing submitted by the Fund is available on the EDGAR Database on the Securities and Exchange Commission's internet site at *https://www.sec.gov.*”
 
 (11) *Processing of transactions.* A government money market fund and a retail money market fund (or its transfer agent) must have the capacity to redeem and sell securities issued by the fund at a price based on the current net asset value per share pursuant to § 270.22c-1. Such capacity must include the ability to redeem and sell securities at prices that do not correspond to a stable price per share.
 
@@ -398,10 +420,10 @@ For a discussion of additional factors that may be relevant in evaluating certai
 
 (8) *Money market fund securities.* An investment in a money market fund shall be treated as having a maturity equal to the period of time within which the acquired money market fund is required to make payment upon redemption, unless the acquired money market fund has agreed in writing to provide redemption proceeds to the investing money market fund within a shorter time period, in which case the maturity of such investment shall be deemed to be the shorter period.
 
-(j) *Delegation.* The money market fund's board of directors may delegate to the fund's investment adviser or officers the responsibility to make any determination required to be made by the board of directors under this section other than the determinations required by paragraphs (c)(1) (board findings), (c)(2)(i) and (ii) (determinations related to liquidity fees and temporary suspensions of redemptions), (f)(1) (adverse events), (g)(1) and (2) (amortized cost and penny rounding procedures), and (g)(8) (stress testing procedures) of this section.
+(j) *Delegation.* The money market fund's board of directors may delegate to the fund's investment adviser or officers the responsibility to make any determination required to be made by the board of directors under this section other than the determinations required by paragraphs (c)(1) (board findings), (c)(3) (share cancellation), (f)(1) (adverse events), (g)(1) and (2) (amortized cost and penny rounding procedures), and (g)(8) (stress testing procedures) of this section.
 
-(1) *Written guidelines.* The board of directors must establish and periodically review written guidelines (including guidelines for determining whether securities present minimal credit risks as required in paragraphs (d)(2) and (g)(3) of this section) and procedures under which the delegate makes such determinations.
+(1) *Written guidelines.* The board of directors must establish and periodically review written guidelines (including guidelines for determining whether securities present minimal credit risks as required in paragraphs (d)(2) and (g)(3) of this section and guidelines for determining the application and size of liquidity fees as required in paragraph (c)(2) of this section) and procedures under which the delegate makes such determinations.
 
-(2) *Oversight.* The board of directors must take any measures reasonably necessary (through periodic reviews of fund investments and the delegate's procedures in connection with investment decisions and prompt review of the adviser's actions in the event of the default of a security or event of insolvency with respect to the issuer of the security or any guarantee or demand feature to which it is subject that requires notification of the Commission under paragraph (f)(2) of this section by reference to Form N-CR (§ 274.222 of this chapter)) to assure that the guidelines and procedures are being followed.
+(2) *Oversight.* The board of directors must take any measures reasonably necessary (through periodic reviews of fund investments and the delegate's procedures in connection with investment decisions, periodic review of the delegate's liquidity fee determinations under paragraph (c)(2) of this section, and prompt review of the adviser's actions in the event of the default of a security or event of insolvency with respect to the issuer of the security or any guarantee or demand feature to which it is subject that requires notification of the Commission under paragraph (f)(2) of this section by reference to Form N-CR (§ 274.222 of this chapter) to assure that the guidelines and procedures are being followed.
 
-[79 FR 47958, Aug. 14, 2014, as amended at 80 FR 58153, Sept. 25, 2015]
+[79 FR 47958, Aug. 14, 2014, as amended at 80 FR 58153, Sept. 25, 2015; 88 FR 51521, Aug. 3, 2023]

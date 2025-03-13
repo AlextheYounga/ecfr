@@ -1,5 +1,7 @@
 ##### § 697.4 Vessel permits and trap tags. #####
 
+Link to an amendment published at 88 FR 67676, Oct. 2, 2023.
+
 (a) *Limited access American lobster permit.* Any vessel of the United States that fishes for, possesses, or lands American lobster or Jonah crab in or harvested from the EEZ must have been issued and carry on board a valid Federal limited access lobster permit. The requirement in this paragraph (a) does not apply to: Charter, head, and commercial dive vessels that possess 6 or fewer American lobsters per person or 50 Jonah crab per person aboard the vessel if such lobsters or crabs are not intended for, nor used, in trade, barter or sale; recreational fishing vessels; and vessels that fish exclusively in state waters for American lobster or Jonah crab.
 
 (1) *Eligibility in 1999 and thereafter.* To be eligible for issuance or renewal of a Federal limited access lobster permit for fishing year 1999 and thereafter, a vessel must:

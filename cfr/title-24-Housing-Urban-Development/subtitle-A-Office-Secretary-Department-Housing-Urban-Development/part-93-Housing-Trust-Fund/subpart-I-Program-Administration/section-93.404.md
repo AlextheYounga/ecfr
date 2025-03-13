@@ -1,7 +1,5 @@
 ##### § 93.404 Grantee responsibilities; written agreements; onsite inspections; financial oversight. #####
 
-Link to an amendment published at 88 FR 30497, May 11, 2023.
-
 (a) *Responsibilities.* The grantee is responsible for managing the day-to-day operations of its HTF program, ensuring that HTF funds are used in accordance with all program requirements and written agreements, and taking appropriate action when performance problems arise. The use of subgrantees or contractors does not relieve the grantee of this responsibility. The performance and compliance of each contractor and subgrantee must be reviewed at least annually. The grantee must have and follow written policies, procedures, and systems, including a system for assessing risk of activities and projects and a system for monitoring entities consistent with this section, to ensure that the requirements of this part are met.
 
 (b) *Executing a written agreement.* Before disbursing any HTF funds to any entity, the grantee must enter into a written agreement with that entity. The written agreement must ensure compliance with the requirements of this part.
@@ -88,8 +86,8 @@ Link to an amendment published at 88 FR 30497, May 11, 2023.
 
 (iv) The property owner must annually certify to the grantee that each building in the project is suitable for occupancy, taking into account State and local health, safety, and other applicable codes, ordinances, and requirements, and the ongoing property standards established by the grantee to meet the requirements of § 93.301.
 
-(v) Inspections must be based on a statistically valid sample of units appropriate for the size of the HTF-assisted project, as set forth by HUD through notice. The grantee must select the sample. For projects with one to four HTF-assisted units, the inspectable items (site, building exterior, building systems, and common areas) for each building with HTF-assisted units and 100 percent of the HTF-assisted dwelling units must be inspected.
+(v) Inspections must be based on a statistically valid sample of units appropriate for the size of the HTF-assisted project, as set forth by HUD through notification published in the Federal Register. For projects with one to four HTF-assisted units, the HTF grantee must inspect all of the HTF-assisted units and all inspectable areas for each building housing HTF-assisted units.
 
 (e) *Financial oversight.* During the period of affordability, the grantee must examine regularly (at least annually) the financial condition of HTF-assisted rental projects with 10 or more HTF-assisted units to determine the continued financial viability of the housing and must take actions to correct problems.
 
-[80 FR 5220, Jan. 30, 2015, as amended at 81 FR 80805, Nov. 16, 2016]
+[80 FR 5220, Jan. 30, 2015, as amended at 81 FR 80805, Nov. 16, 2016; 88 FR 30497, May 11, 2023]

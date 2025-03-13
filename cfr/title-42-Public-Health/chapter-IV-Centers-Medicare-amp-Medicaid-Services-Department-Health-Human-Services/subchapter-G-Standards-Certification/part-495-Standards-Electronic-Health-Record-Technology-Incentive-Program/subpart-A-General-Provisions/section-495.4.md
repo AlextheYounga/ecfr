@@ -1,7 +1,5 @@
 ##### § 495.4 Definitions. #####
 
-Link to an amendment published at 88 FR 59336, Aug. 28, 2023.
-
 In this part, unless otherwise indicated—
 
 *Ambulatory surgical center-based EP* means an EP who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the codes used in the HIPAA standard transaction as an ASC setting in the calendar year that is 2 years before the payment adjustment year.
@@ -380,6 +378,8 @@ In this part, unless otherwise indicated—
 
 (B) If in a prior year an eligible hospital has successfully demonstrated it is a meaningful EHR user, the EHR reporting period is any continuous 180-day period within CY 2024 and applies for the FY 2026 payment adjustment year.
 
+(ix) For an eligible hospital in CY 2025, the EHR reporting period is any continuous 180-day period within CY 2025 and applies for the FY 2027 payment adjustment year.
+
 (3) For a CAH—
 
 (i) The following are applicable before 2015:
@@ -452,6 +452,8 @@ In this part, unless otherwise indicated—
 
 (B) If in a prior year a CAH has successfully demonstrated it is a meaningful EHR user, the EHR reporting period is any continuous 180-day period within CY 2024 and applies for the FY 2024 payment adjustment year.
 
+(ix) For a CAH in CY 2025, the EHR reporting period is any continuous 180-day period within CY 2025 and applies for the FY 2025 payment adjustment year.
+
 *Eligible hospital* means an eligible hospital as defined under § 495.100 or Medicaid eligible hospital under subpart D of this part.
 
 *Eligible professional (EP)* means an eligible professional as defined under § 495.100 or a Medicaid eligible professional under subpart D of this part.
@@ -520,4 +522,4 @@ In this part, unless otherwise indicated—
 
 *Qualified EHR* has the same definition as this term is defined at 45 CFR 170.102.
 
-[75 FR 44565, July 28, 2010, as amended at 77 FR 54148, Sept. 4, 2012; 78 FR 75200, Dec. 10, 2013; 80 FR 62940, Oct. 16, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 34909, June 1, 2016; 81 FR 77555, Nov. 4, 2016; 81 FR 79882, Nov. 14, 2016; 82 FR 38516, Aug. 14, 2017; 82 FR 46143, Oct. 4, 2017; 83 FR 41706, Aug. 17, 2018; 83 FR 60096, Nov. 23, 2018; 84 FR 42615, Aug. 16, 2019; 85 FR 59026, Sept. 18, 2020; 86 FR 45521, Aug. 13, 2021]
+[75 FR 44565, July 28, 2010]Editorial Note:For Federal Register citations affecting § 495.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

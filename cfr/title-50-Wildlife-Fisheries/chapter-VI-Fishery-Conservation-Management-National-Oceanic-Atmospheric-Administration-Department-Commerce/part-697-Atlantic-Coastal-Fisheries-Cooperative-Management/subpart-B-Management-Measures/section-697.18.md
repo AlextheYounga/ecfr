@@ -1,5 +1,7 @@
 ##### § 697.18 Lobster management areas. #####
 
+Link to an amendment published at 88 FR 67677, Oct. 2, 2023.
+
 The following lobster management areas are established for purposes of implementing the management measures specified in this part. (A copy of a chart showing the American lobster EEZ management areas is available upon request to the Office of the Regional Administrator, NMFS, 1 Blackburn Drive, Gloucester, MA 01930.)
 
 (a) *EEZ Nearshore Management Area 1.* EEZ Nearshore Management Area 1 is defined by the area, including state and Federal waters that are nearshore in the Gulf of Maine, bounded by straight lines connecting the following points, in the order stated, and the coastline of Maine, New Hampshire, and Massachusetts to the northernmost point of Cape Cod:

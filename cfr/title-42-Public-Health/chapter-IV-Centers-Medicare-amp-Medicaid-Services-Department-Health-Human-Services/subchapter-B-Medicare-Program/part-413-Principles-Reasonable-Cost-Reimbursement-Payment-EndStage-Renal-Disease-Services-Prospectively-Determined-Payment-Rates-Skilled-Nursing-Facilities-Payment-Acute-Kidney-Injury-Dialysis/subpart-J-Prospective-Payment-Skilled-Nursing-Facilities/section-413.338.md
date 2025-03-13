@@ -1,42 +1,50 @@
 ##### § 413.338 Skilled nursing facility value-based purchasing program. #####
 
-Link to an amendment published at 88 FR 53346, Aug. 7, 2023.
-
 (a) *Definitions.* As used in this section:
 
-(1) *Achievement threshold (or achievement performance standard)* means the 25th percentile of SNF performance on a measure during the baseline period for a fiscal year.
+*Achievement threshold (or achievement performance standard)* means the 25th percentile of SNF performance on a measure during the baseline period for a fiscal year.
 
-(2) *Adjusted Federal per diem rate* means the payment made to SNFs under the skilled nursing facility prospective payment system (as described under section 1888(e)(4)(G) of the Act).
+*Adjusted Federal per diem rate* means the payment made to SNFs under the skilled nursing facility prospective payment system (as described under section 1888(e)(4)(G) of the Act).
 
-(3) *Applicable percent* means for FY 2019 and subsequent fiscal years, 2.0 percent.
+*Applicable percent* means for FY 2019 and subsequent fiscal years, 2.0 percent.
 
-(4) *Baseline period* means the time period used to calculate the achievement threshold, benchmark, and improvement threshold that apply to a measure for a fiscal year.
+*Baseline period* means the time period used to calculate the achievement threshold, benchmark, and improvement threshold that apply to a measure for a fiscal year.
 
-(5) *Benchmark* means, for a fiscal year, the arithmetic mean of the top decile of SNF performance on a measure during the baseline period for that fiscal year.
+*Benchmark* means, for a fiscal year, the arithmetic mean of the top decile of SNF performance on a measure during the baseline period for that fiscal year.
 
-(6) *Eligible stay* means, for purposes of the SNF readmission measure, an index SNF admission that would be included in the denominator of that measure.
+*Eligible stay* means, for purposes of the SNF readmission measure, an index SNF admission that would be included in the denominator of that measure.
 
-(7) *Improvement threshold (or improvement performance standard)* means an individual SNF's performance on a measure during the applicable baseline period for that fiscal year.
+*Health equity adjustment (HEA) bonus points* means the points that a SNF can earn for a program year based on its performance and proportion of SNF residents who are members of the underserved population.
 
-(8) *Logistic exchange function* means the function used to translate a SNF's performance score into a value-based incentive payment percentage.
+*Improvement threshold (or improvement performance standard)* means an individual SNF's performance on a measure during the applicable baseline period for that fiscal year.
 
-(9) *Low-volume SNF* means a SNF with fewer than 25 eligible stays included in the SNF readmission measure denominator during the performance period for each of fiscal years 2019 through 2022.
+*Logistic exchange function* means the function used to translate a SNF's performance score into a value-based incentive payment percentage.
 
-(10) *Performance period* means the time period during which SNF performance on a measure is calculated for a fiscal year.
+*Low-volume SNF* means a SNF with fewer than 25 eligible stays included in the SNF readmission measure denominator during the performance period for each of fiscal years 2019 through 2022.
 
-(11) *Performance score* means the numeric score ranging from 0 to 100 awarded to each SNF based on its performance under the SNF VBP Program for a fiscal year.
+*Measure performance scaler* means, for a program year, the sum of the points assigned to a SNF for each measure on which the SNF is a top tier performing SNF.
 
-(12) *Performance standards* are the levels of performance that SNFs must meet or exceed to earn points on a measure under the SNF VBP Program for a fiscal year.
+*Performance period* means the time period during which SNF performance on a measure is calculated for a fiscal year.
 
-(13) *Ranking* means the ordering of SNFs based on each SNF's performance score under the SNF VBP Program for a fiscal year.
+*Performance score* means the numeric score ranging from 0 to 100 awarded to each SNF based on its performance under the SNF VBP Program for a fiscal year.
 
-(14) *SNF readmission measure* means, prior to October 1, 2019, the all-cause all-condition hospital readmission measure (SNFRM) or the all-condition risk-adjusted potentially preventable hospital readmission rate (SNFPPR) specified by CMS for application in the SNF Value-Based Purchasing Program. Beginning October 1, 2019, the term SNF readmission measure means the all-cause all-condition hospital readmission measure (SNFRM) or the all-condition risk-adjusted potentially preventable hospital readmission rate (Skilled Nursing Facility Potentially Preventable Readmissions after Hospital Discharge measure) specified by CMS for application in the SNF VBP Program.
+*Performance standards* are the levels of performance that SNFs must meet or exceed to earn points on a measure under the SNF VBP Program for a fiscal year.
 
-(15) *SNF Value-Based Purchasing (VBP) Program* means the program required under section 1888(h) of the Act.
+*Ranking* means the ordering of SNFs based on each SNF's performance score under the SNF VBP Program for a fiscal year.
 
-(16) *Value-based incentive payment adjustment factor* is the number that will be multiplied by the adjusted Federal per diem rate for services furnished by a SNF during a fiscal year, based on its performance score for that fiscal year, and after such rate is reduced by the applicable percent.
+*SNF readmission measure* means, prior to October 1, 2019, the all-cause all-condition hospital readmission measure (SNFRM) or the all-condition risk-adjusted potentially preventable hospital readmission rate (SNFPPR) specified by CMS for application in the SNF Value-Based Purchasing Program. Beginning October 1, 2019, the term SNF readmission measure means the all-cause all-condition hospital readmission measure (SNFRM) or the all-condition risk-adjusted potentially preventable hospital readmission rate (Skilled Nursing Facility Potentially Preventable Readmissions after Hospital Discharge measure) specified by CMS for application in the SNF VBP Program.
 
-(17) *Value-based incentive payment amount* is the portion of a SNF's adjusted Federal per diem rate that is attributable to the SNF VBP Program.
+*SNF Value-Based Purchasing (VBP) Program* means the program required under section 1888(h) of the Act.
+
+*Top tier performing SNF* means a SNF whose performance on a measure during the applicable program year meets or exceeds the 66.67th percentile of SNF performance on the measure during the same program year.
+
+*Underserved multiplier* means the mathematical result of applying a logistic function to the number of SNF residents who are members of the underserved population out of the SNF's total Medicare population, as identified from the SNF's Part A claims, during the performance period that applies to the 1-year measures for the applicable program year.
+
+*Underserved population* means Medicare beneficiaries who are SNF residents in a Medicare Part A stay who are also dually eligible, both partial and full, for Medicaid.
+
+*Value-based incentive payment adjustment factor* is the number that will be multiplied by the adjusted Federal per diem rate for services furnished by a SNF during a fiscal year, based on its performance score for that fiscal year, and after such rate is reduced by the applicable percent.
+
+*Value-based incentive payment amount* is the portion of a SNF's adjusted Federal per diem rate that is attributable to the SNF VBP Program.
 
 (b) *Applicability of the SNF VBP Program.* The SNF VBP Program applies to SNFs, including facilities described in section 1888(e)(7)(B) of the Act. Beginning with fiscal year 2023, the SNF VBP Program does not include a SNF, with respect to a fiscal year, if:
 
@@ -46,7 +54,7 @@ Link to an amendment published at 88 FR 53346, Aug. 7, 2023.
 
 (c) *Process for reducing the adjusted Federal per diem rate and applying the value-based incentive payment adjustment factor under the SNF VBP Program*—(1) *General.* CMS will make value-based incentive payments to each SNF based on its performance score for a fiscal year under the SNF VBP Program under the requirements and conditions specified in this paragraph.
 
-(2) *Value-based incentive payment amount*— (i) *Total amount available for a fiscal year.* The total amount available for value-based incentive payments for a fiscal year is at least 60 percent of the total amount of the reduction to the adjusted SNF PPS payments for that fiscal year, as estimated by CMS, and will be increased as appropriate for each fiscal year to account for the assignment of a performance score to low-volume SNFs under paragraph (d)(3) of this section. Beginning with the FY 2023 SNF VBP, the total amount for value-based incentive payments for a fiscal year is 60 percent of the total amount of the reduction to the adjusted SNF PPS payments for that fiscal year, as estimated by CMS.
+(2) *Value-based incentive payment amount*—(i) *Total amount available for a fiscal year.* The total amount available for value-based incentive payments for a fiscal year is at least 60 percent of the total amount of the reduction to the adjusted SNF PPS payments for that fiscal year, as estimated by CMS, and will be increased as appropriate for each fiscal year to account for the assignment of a performance score to low-volume SNFs under paragraph (d)(3) of this section. Beginning with the FY 2023 SNF VBP, the total amount available for value-based incentive payments for a fiscal year is 60 percent of the total amount of the reduction to the adjusted SNF PPS payments for that fiscal year, as estimated by CMS. Beginning with the FY 2027 SNF VBP, the total amount available for value-based incentive payments for a fiscal year is at least 60 percent of the total amount of the reduction to the adjusted SNF PPS payments for that fiscal year, as estimated by CMS, and will be increased as appropriate for each fiscal year to account for the application of the Health equity adjustment bonus points as calculated under paragraph (k) of this section.
 
 (ii) *Calculation of the value-based incentive payment amount.* The value-based incentive payment amount is calculated by multiplying the adjusted Federal per diem rate by the value- based incentive payment adjustment factor, after the adjusted Federal per diem rate has been reduced by the applicable percent.
 
@@ -54,7 +62,7 @@ Link to an amendment published at 88 FR 53346, Aug. 7, 2023.
 
 (iv) *Reporting of adjustment to SNF payments.* CMS will inform each SNF of the value-based incentive payment adjustment factor that will be applied to its adjusted Federal per diem rate for services furnished during a fiscal year at least 60 days prior to the start of that fiscal year.
 
-(d) *Performance scoring under the SNF VBP Program (applicable, as described in this paragraph, to fiscal year 2019 through and including fiscal year 2025).*(1) CMS will award points to SNFs based on their performance on the SNF readmission measure applicable to a fiscal year during the performance period applicable to that fiscal year as follows:
+(d) *Performance scoring under the SNF VBP Program (applicable, as described in this paragraph, to fiscal year 2019 through and including fiscal year 2025).* (1) CMS will award points to SNFs based on their performance on the SNF readmission measure applicable to a fiscal year during the performance period applicable to that fiscal year as follows:
 
 (i) CMS will award from 1 to 99 points for achievement to each SNF whose performance meets or exceeds the achievement threshold but is less than the benchmark.
 
@@ -76,7 +84,7 @@ Link to an amendment published at 88 FR 53346, Aug. 7, 2023.
 
 (iv) CMS may grant exceptions to SNFs without a request if it determines that an extraordinary circumstance affects an entire region or locale.
 
-(v) CMS will calculate a SNF performance score for a fiscal year for a SNF for which it has granted an exception request that does not include its performance on the SNF readmission measure during the calendar months affected by the extraordinary circumstance.
+(v) CMS will calculate a SNF Performance Score for a fiscal year for a SNF for which it has granted an exception request that does not include its performance on a quality measure during the calendar months affected by the extraordinary circumstance.
 
 (5) CMS will specify the measures for application in the SNF VBP Program for a given fiscal year.
 
@@ -96,11 +104,19 @@ Link to an amendment published at 88 FR 53346, Aug. 7, 2023.
 
 (v) The highest of the SNF's achievement and improvement score for a given measure will be the SNF's score on that measure for the applicable fiscal year.
 
-(2) *Calculation of the SNF performance score.* The SNF performance score for a fiscal year is calculated as follows:
+(2) *Calculation of the SNF performance score for fiscal year 2026.* The SNF performance score for FY 2026 is calculated as follows:
 
 (i) CMS will sum all points awarded to a SNF as described in paragraph (e)(1) of this section for each measure applicable to a fiscal year to calculate the SNF's point total.
 
 (ii) CMS will normalize the point total such that the resulting SNF performance score is expressed as a number of points earned out of a total of 100.
+
+(3) *Calculation of the SNF performance score beginning with fiscal year 2027.* The SNF performance score for a fiscal year is calculated as follows:
+
+(i) CMS will sum all points awarded to a SNF as described in paragraph (e)(1) of this section for each measure applicable to a fiscal year.
+
+(ii) CMS will normalize the SNF's point total such that the resulting point total is expressed as a number of points earned out of a total of 100.
+
+(iii) CMS will add to the SNF's point total under paragraph (e)(3)(ii) of this section any applicable health equity adjustment bonus points calculated under paragraph (k) of this section such that the resulting point total is the SNF Performance Score for the fiscal year, except that no SNF Performance Score may exceed 100 points.
 
 (f) *Confidential feedback reports and public reporting.*
 
@@ -152,8 +168,20 @@ Link to an amendment published at 88 FR 53346, Aug. 7, 2023.
 
 (4) CMS will publicly report SNF performance on the SNF readmission measure in accordance with paragraph (f)(3) of this section.
 
-(j) *Validation.* (1) Beginning with the FY 2023 Program year, for the SNFRM measure, information reported through claims for the SNFRM measure are validated for accuracy by Medicare Administrative Contractors (MACs) to ensure accurate Medicare payments.
+(j) *Validation.* (1) Beginning with the FY 2023 program year, for the SNFRM measure, and beginning with the FY 2026 program year for all other claims-based measures, the information reported through claims are validated for accuracy by Medicare Administrative Contractors (MACs).
 
-(2) [Reserved]
+(2) Beginning with the FY 2026 program year, for all measures that are calculated using Payroll-Based Journal System data, information reported through the Payroll-Based Journal system is validated for accuracy by CMS and its contractors through quarterly audits.
 
-[82 FR 36633, Aug. 4, 2017, as amended at 83 FR 39289, Aug. 8, 2018; 85 FR 47633, Aug. 5, 2020; 86 FR 42524, Aug. 4, 2021; 87 FR 47616, Aug. 3, 2022]
+(3) Beginning with the FY 2027 program year, for all measures that are calculated using Minimum Data Set (MDS) information, such information is validated for accuracy by CMS and its contractors through periodic audits not to exceed 1,500 SNFs per calendar year.
+
+(k) *Calculation of the Health equity adjustment (HEA) bonus points.* CMS calculates the number of HEA bonus points that are added to a SNF's point total calculated under paragraph (e)(3)(iii) of this section by:
+
+(1) Determining for each measure whether the SNF is a top tier performing SNF and assigning two points to the SNF for each such measure;
+
+(2) Summing the points calculated under paragraph (k)(1) of this section to calculate the measure performance scaler;
+
+(3) Calculating the underserved multiplier for the SNF; and
+
+(4) Multiplying the measure performance scaler calculated under paragraph (k)(2) of this section by the underserved multiplier calculated under paragraph (k)(3) of this section.
+
+[82 FR 36633, Aug. 4, 2017, as amended at 83 FR 39289, Aug. 8, 2018; 85 FR 47633, Aug. 5, 2020; 86 FR 42524, Aug. 4, 2021; 87 FR 47616, Aug. 3, 2022; 88 FR 53346, Aug. 7, 2023]

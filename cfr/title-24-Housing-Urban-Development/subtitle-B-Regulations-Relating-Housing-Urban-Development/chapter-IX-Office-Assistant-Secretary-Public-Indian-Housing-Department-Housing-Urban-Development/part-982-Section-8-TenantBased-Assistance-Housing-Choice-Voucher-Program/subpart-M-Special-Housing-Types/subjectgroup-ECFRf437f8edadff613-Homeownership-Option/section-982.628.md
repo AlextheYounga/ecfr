@@ -1,7 +1,5 @@
 ##### § 982.628 Homeownership option: Eligible units. #####
 
-Link to an amendment published at 88 FR 30504, May 11, 2023.
-
 (a) *Initial requirements applicable to the unit.* The PHA must determine that the unit satisfies all of the following requirements:
 
 (1) The unit is eligible. (See § 982.352. Paragraphs (a)(6), (a)(7) and (b) of § 982.352 do not apply.)
@@ -10,7 +8,7 @@ Link to an amendment published at 88 FR 30504, May 11, 2023.
 
 (3) The unit has been inspected by a PHA inspector and by an independent inspector designated by the family (see § 982.631).
 
-(4) The unit satisfies the HQS (see § 982.401 and § 982.631).
+(4) The unit satisfies the HQS (*see* 24 CFR 5.703 and § 982.631).
 
 (b) *Purchase of home where family will not own fee title to the real property.* Homeownership assistance may be provided for the purchase of a home where the family will not own fee title to the real property on which the home is located, but only if:
 
@@ -48,4 +46,4 @@ Link to an amendment published at 88 FR 30504, May 11, 2023.
 
 (3) The unit has passed the required Housing Quality Standards (HQS) inspection (see § 982.631(a)) and independent inspection (see § 982.631(b)).
 
-[65 FR 55163, Sept. 12, 2000, as amended at 67 FR 64494, Oct. 18, 2002; 67 FR 65865, Oct. 28, 2002; 67 FR 67522, Nov. 6, 2002; 72 FR 59938, Oct. 22, 2007; 72 FR 73496, Dec. 27, 2007]
+[65 FR 55163, Sept. 12, 2000, as amended at 67 FR 64494, Oct. 18, 2002; 67 FR 65865, Oct. 28, 2002; 67 FR 67522, Nov. 6, 2002; 72 FR 59938, Oct. 22, 2007; 72 FR 73496, Dec. 27, 2007; 88 FR 30504, May 11, 2023]

@@ -1,7 +1,5 @@
 ##### § 412.160 Definitions for the Hospital Value-Based Purchasing (VBP) Program. #####
 
-Link to an amendment published at 88 FR 59333, Aug. 28, 2023.
-
 As used in this section and in §§ 412.161 through 412.168:
 
 *Achievement threshold (or achievement performance standard)* means the median (50th percentile) of hospital performance on a measure during a baseline period with respect to a fiscal year, for Hospital VBP Program measures other than the measures in the Efficiency and Cost Reduction domain, and the median (50th percentile) of hospital performance on a measure during the performance period with respect to a fiscal year, for the measures in the Efficiency and Cost Reduction domain.
@@ -38,6 +36,8 @@ As used in this section and in §§ 412.161 through 412.168:
 
 *Domain score* means the total number of points awarded to a hospital for a domain.
 
+*Health equity adjustment bonus points* means the points that a hospital can earn for a fiscal year based on its performance and proportion of inpatient stays for patients with dual eligibility status.
+
 *Hospital* means a hospital described in section 1886(d)(1)(B) of the Act, but does not include a hospital, with respect to a fiscal year, for which one or more of the following applies:
 
 (1) The hospital is subject to the payment reduction under section 1886(b)(3)(B)(viii)(I) of the Act for the fiscal year;
@@ -58,6 +58,8 @@ As used in this section and in §§ 412.161 through 412.168:
 
 (2) The total amount of value-based incentive payments to all hospitals in a fiscal year is equal to the total amount available for value-based incentive payments in such fiscal year.
 
+*Measure performance scaler* means the sum of the points awarded to a hospital for each domain for the fiscal year based on the hospital's performance on the measures in those domains.
+
 *Performance period* means the time period during which data are collected for the purpose of calculating hospital performance on measures with respect to a fiscal year.
 
 *Performance standards* are the levels of performance that hospitals must meet or exceed in order to earn points under the Hospital VBP Program, and are calculated with respect to a measure for a fiscal year no later than 60 days prior to the start of the performance period for that measure for that fiscal year. The performance standards for a measure may be updated as follows:
@@ -66,7 +68,11 @@ As used in this section and in §§ 412.161 through 412.168:
 
 (2) To incorporate nonsubstantive technical updates made to the measure between the time that CMS first displays the performance standards for that measure for a fiscal year and the time that CMS calculates hospital performance on that measure at the conclusion of the performance period for that measure for a fiscal year.
 
-*Total Performance Score* means the numeric score ranging from 0 to 100 awarded to each hospital based on its performance under the Hospital VBP Program with respect to a fiscal year.
+*Total Performance Score* means the numeric score awarded to each hospital based on its performance under the Hospital VBP Program with respect to a fiscal year.
+
+*Underserved multiplier* means the mathematical result of applying a logistic function to the number of hospital inpatient stays for patients in the underserved population out of the hospital's total Medicare inpatient population during the calendar year that is 2 years prior to the applicable fiscal year.
+
+*Underserved population,* as used in this section, means hospital inpatients who are Medicare beneficiaries and also dually eligible for full Medicaid benefits during the month of discharge or, if a patient died during that month, during the previous month.
 
 *Value-based incentive payment adjustment factor* is the number that will be multiplied by the base operating DRG payment amount for each discharge from a hospital, during a fiscal year, in order to adjust the hospital's payment as a result of its performance under the Hospital VBP Program.
 
@@ -80,4 +86,4 @@ As used in this section and in §§ 412.161 through 412.168:
 
 (3) Any applicable payment adjustment for transfers under § 412.4(f).
 
-[77 FR 53674, Aug. 31, 2012, as amended at 78 FR 50967, Aug. 19, 2013; 79 FR 50354, Aug. 22, 2014; 81 FR 57268, Aug. 22, 2016; 86 FR 45520, Aug. 13, 2021]
+[77 FR 53674, Aug. 31, 2012, as amended at 78 FR 50967, Aug. 19, 2013; 79 FR 50354, Aug. 22, 2014; 81 FR 57268, Aug. 22, 2016; 86 FR 45520, Aug. 13, 2021; 88 FR 59333, Aug. 28, 2023]

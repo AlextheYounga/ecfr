@@ -1,8 +1,6 @@
 ##### § 982.605 SRO: Housing quality standards. #####
 
-Link to an amendment published at 88 FR 30503, May 11, 2023.
-
-(a) *HQS standards for SRO.* The HQS in § 982.401 apply to SRO housing. However, the standards in this section apply in place of § 982.401(b) (sanitary facilities), § 982.401(c) (food preparation and refuse disposal), and § 982.401(d) (space and security). Since the SRO units will not house children, the housing quality standards in § 982.401(j), concerning lead-based paint, do not apply to SRO housing.
+(a) *HQS standards for SRO.* As defined in § 982.4, housing quality standards (HQS) refers to the minimum quality standards developed by HUD in accordance with 24 CFR 5.703 for housing assisted under the HCV program or a HUD approved alternative standard for the PHA under 24 CFR 5.703(g). However, the standards in this section apply in place of standards related to sanitary facilities, food preparation and refuse disposal, and space and security. Since the SRO units will not house children, the standards at 24 CFR part 35, subparts A, B, H, and R, applying to the PBC program, concerning lead-based paint, do not apply to SRO housing.
 
 (b) *Performance requirements.* (1) SRO housing is subject to the additional performance requirements in this paragraph (b).
 
@@ -33,3 +31,5 @@ Link to an amendment published at 88 FR 30503, May 11, 2023.
 (iii) The resident must be able to access an SRO unit without passing through any other unit.
 
 (4) *Sprinkler system.* A sprinkler system that protects all major spaces, hard wired smoke detectors, and such other fire and safety improvements as State or local law may require must be installed in each building. The term “major spaces” means hallways, large common areas, and other areas specified in local fire, building, or safety codes.
+
+[63 FR 23865, Apr. 30, 1998, as amended at 88 FR 30503, May 11, 2023]

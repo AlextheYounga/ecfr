@@ -1,5 +1,7 @@
 ##### § 697.23 Restricted gear areas. #####
 
+Link to an amendment published at 88 FR 67679, Oct. 2, 2023.
+
 (a) Resolution of lobster gear conflicts with fisheries managed under the Magnuson-Stevens Act shall be done under provisions of § 648.55 of this chapter.
 
 (b) *Restricted Gear Area I*—(1) *Duration*—(i) *Mobile Gear.* From October 1 through June 15 of each fishing year, no fishing vessel with mobile gear or person on a fishing vessel with mobile gear may fish, or be, in Restricted Gear Area I, as defined in paragraph (b)(2) of this section, unless transiting only, provided that all mobile gear is on board the vessel while inside the area.

@@ -1,6 +1,6 @@
 ##### § 92.2 Definitions. #####
 
-Link to an amendment published at 88 FR 9662, Feb. 14, 2023.Link to an amendment published at 88 FR 30496, May 11, 2023.
+Link to an amendment published at 88 FR 9662, Feb. 14, 2023.
 
 The terms *1937 Act, ALJ,**Fair Housing Act, HUD,**Indian Housing Authority (IHA), Public housing,**Public Housing Agency (PHA),* and *Secretary* are defined in 24 CFR 5.100.
 
@@ -194,12 +194,10 @@ The terms *1937 Act, ALJ,**Fair Housing Act, HUD,**Indian Housing Authority (IHA
 
 (2) Has as its purpose facilitating the movement of individuals and families to independent living within a time period that is set by the participating jurisdiction or project owner before occupancy.
 
-*Uniform Physical Condition Standards (UPCS)* means uniform national standards established by HUD pursuant to 24 CFR 5.703 for housing that is decent, safe, sanitary, and in good repair. Standards are established for inspectable items for each of the following areas: site, building exterior, building systems, dwelling units, and common areas.
-
 *Unit of general local government* means a city, town, township, county, parish, village, or other general purpose political subdivision of a State; a consortium of such political subdivisions recognized by HUD in accordance with § 92.101; and any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive to act on behalf of the jurisdiction with regard to provisions of this part. When a county is an urban county, the urban county is the unit of general local government for purposes of the HOME Investment Partnerships Program.
 
 *Urban county* has the meaning given the term in 24 CFR 570.3.
 
 *Very low-income families* means low- income families whose annual incomes do not exceed 50 percent of the median family income for the area, as determined by HUD with adjustments for smaller and larger families, except that HUD may establish income ceilings higher or lower than 50 percent of the median for the area on the basis of HUD findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes. An individual does not qualify as a very low-income family if the individual is a student who is not eligible to receive Section 8 assistance under 24 CFR 5.612.
 
-[61 FR 48750, Sept. 16, 1996, as amended at 67 FR 61755, Oct. 1, 2002; 69 FR 16765, Mar. 30, 2004; 72 FR 16685, Apr. 4, 2007; 78 FR 44664, July 24, 2013; 80 FR 75934, Dec. 7, 2015; 81 FR 86952, Dec. 2, 2016; 81 FR 90657, Dec. 14, 2016]
+[61 FR 48750, Sept. 16, 1996, as amended at 67 FR 61755, Oct. 1, 2002; 69 FR 16765, Mar. 30, 2004; 72 FR 16685, Apr. 4, 2007; 78 FR 44664, July 24, 2013; 80 FR 75934, Dec. 7, 2015; 81 FR 86952, Dec. 2, 2016; 81 FR 90657, Dec. 14, 2016; 88 FR 30496, May 11, 2023]

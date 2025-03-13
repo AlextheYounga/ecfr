@@ -1,0 +1,3 @@
+##### § 754.205 Agency records. #####
+
+The complaint, the applicant's supporting material, the agency's administrative file, the notice of the proposed action, the employee's written reply, if any, summary or transcript of the employee's oral reply, if any, the notice of decision, and any order to the covered agency effecting the action together with any supporting material, must be maintained in the applicable Privacy Act system of records.

@@ -1,0 +1,3 @@
+##### § 998.50 Applicability. #####
+
+This subpart applies to professional mariners as defined in section 3079b(c) of title 33, United States Code, and in § 998.51, who are regularly assigned duties aboard a NOAA ship. An employee is considered to be regularly assigned when his or her continuing duties are such that all or a significant part of them require that he or she serve aboard a NOAA ship. Temporary assignments of a shore-based employee of the Administration, such as for limited work projects or for training, do not constitute a regular assignment. This subpart does not apply to commissioned officers of the NOAA Corps serving on NOAA ships.

@@ -1,8 +1,8 @@
 ##### § 982.405 PHA initial and periodic unit inspection. #####
 
-Link to an amendment published at 88 FR 30503, May 11, 2023.
+(a)(1) *General requirements.* The PHA must inspect the unit leased to a family prior to the initial term of the lease, at least biennially during assisted occupancy, and at other times as needed, to determine if the unit meets the HQS. (*See* § 982.305(b)(2) concerning timing of initial inspection by the PHA.)
 
-(a) The PHA must inspect the unit leased to a family prior to the initial term of the lease, at least biennially during assisted occupancy, and at other times as needed, to determine if the unit meets the HQS. (See § 982.305(b)(2) concerning timing of initial inspection by the PHA.)
+(2) *Small rural PHAs.* Instead of biennially, a small rural PHA as defined in § 902.101 of this chapter must inspect a unit during occupancy at least once every three years.
 
 (b) The PHA must conduct supervisory quality control HQS inspections.
 
@@ -16,4 +16,4 @@ Link to an amendment published at 88 FR 30503, May 11, 2023.
 
 (g) If a participant family or government official reports a condition that is life-threatening (*i.e.,* the PHA would require the owner to make the repair within no more than 24 hours in accordance with § 982.404(a)(3)), then the PHA must inspect the housing unit within 24 hours of when the PHA received the notification. If the reported condition is not life-threatening (*i.e.,* the PHA would require the owner to make the repair within no more than 30 calendar days in accordance with § 982.404(a)(3)), then the PHA must inspect the unit within 15 days of when the PHA received the notification. In the event of extraordinary circumstances, such as if a unit is within a Presidentially declared disaster area, HUD may waive the 24-hour or the 15-day inspection requirement until such time as an inspection is feasible.
 
-[60 FR 34695, July 3, 1995, as amended at 64 FR 26647, May 14, 1999; 64 FR 56914, Oct. 21, 1999; 81 FR 12375, Mar. 8, 2016]
+[60 FR 34695, July 3, 1995, as amended at 64 FR 26647, May 14, 1999; 64 FR 56914, Oct. 21, 1999; 81 FR 12375, Mar. 8, 2016; 88 FR 30503, May 11, 2023]

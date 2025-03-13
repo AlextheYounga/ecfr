@@ -1,7 +1,5 @@
 ##### § 412.92 Special treatment: Sole community hospitals. #####
 
-Link to an amendment published at 88 FR 59331, Aug. 28, 2023.
-
 (a) *Criteria for classification as a sole community hospital.* CMS classifies a hospital as a sole community hospital if it is located more than 35 miles from other like hospitals, or it is located in a rural area (as defined in § 412.64) and meets one of the following conditions:
 
 (1) The hospital is located between 25 and 35 miles from other like hospitals and meets one of the following criteria:
@@ -32,9 +30,9 @@ Link to an amendment published at 88 FR 59331, Aug. 28, 2023.
 
 (iv) The MAC reviews the request and send the request, with its recommendation, to CMS.
 
-(v) CMS reviews the request and the MAC's recommendation and forward its approval or disapproval to the MAC.
+(v) CMS reviews the request and the MAC's recommendation and forwards its approval or disapproval to the MAC.
 
-(2) *Effective dates of classification.*(i) For applications received on or before September 30, 2018, sole community hospital status is effective 30 days after the date of CMS' written notification of approval, except as provided in paragraph (b)(2)(v) of this section. For applications received on or after October 1, 2018, sole community hospital status is effective as of the date the MAC receives the complete application, except as provided in paragraph (b)(2)(v) of this section.
+(2) *Effective dates of classification.*(i) For applications received on or before September 30, 2018, sole community hospital status is effective 30 days after the date of CMS' written notification of approval, except as provided in paragraph (b)(2)(v) of this section. For applications received on or after October 1, 2018, sole community hospital status is effective as of the date the MAC receives the complete application, except as provided in paragraphs (b)(2)(v) and (vi) of this section.
 
 (ii) When a court order or a determination by the Provider Reimbursement Review Board (PRRB) reverses a CMS denial of sole community hospital status and no further appeal is made, the sole community hospital status is effective as follows:
 
@@ -42,17 +40,19 @@ Link to an amendment published at 88 FR 59331, Aug. 28, 2023.
 
 (B) If the hospital's application for sole community hospital status was received on or after October 1, 1983 and on or before September 30, 2018, the effective date is 30 days after the date of CMS' original written notification of denial.
 
-(C) If the hospital's application for sole community hospital status was received on or after October 1, 2018, the effective date is the date the MAC receives the complete application.
+(C) If the hospital's application for sole community hospital status was received on or after October 1, 2018, the effective date is as provided in paragraph (b)(2)(i) of this section.
 
 (iii) When a hospital is granted retroactive approval of sole community hospital status by a court order or a PRRB decision and the hospital wishes its sole community hospital status terminated before the date of the court order or PRRB determination, it must submit written notice to the CMS regional office within 90 days of the court order or PRRB decision. A written request received after the 90-day period is effective no later than 30 days after the request is submitted.
 
-(iv) For applications received on or before September 30, 2018, a hospital classified as a sole community hospital receives a payment adjustment, as described in paragraph (d) of this section, effective with discharges occurring on or after 30 days after the date of CMS' approval of the classification. For applications received on or after October 1, 2018, a hospital classified as a sole community hospital receives a payment adjustment, as described in paragraph (d) of this section, effective with discharges occurring on or after the date the MAC receives the complete application.
+(iv) For applications received on or before September 30, 2018, a hospital classified as a sole community hospital receives a payment adjustment, as described in paragraph (d) of this section, effective with discharges occurring on or after 30 days after the date of CMS' approval of the classification. For applications received on or after October 1, 2018, a hospital classified as a sole community hospital receives a payment adjustment, as described in paragraph (d) of this section, effective with discharges occurring on or after the effective date as provided in paragraph (b)(2)(i) of this section.
 
 (v) If a hospital that is classified as an MDH under § 412.108 applies for classification as a sole community hospital because its status under the MDH program expires with the expiration of the MDH program, and that hospital's sole community hospital status is approved, the effective date of approval of sole community hospital status is the day following the expiration date of the MDH program if the hospital—
 
 (A) Applies for classification as a sole community hospital prior to 30 days before the expiration of the MDH program; and
 
 (B) Requests that sole community hospital status be effective with the expiration of the MDH program.
+
+(vi) For applications received on or after October 1, 2023, where eligibility for sole community hospital classification is dependent on the hospital's merger with another hospital, sole community hospital status is effective as of the effective date of the approved merger if, and only if, the date that the Medicare administrative contractor (MAC) receives the complete application is within 90 days of CMS' written notification to the hospital of the approval of the merger.
 
 (3) *Duration of classification.* (i) An approved classification as a sole community hospital remains in effect without need for reapproval unless there is a change in the circumstances under which the classification was approved. An approved sole community hospital must notify the MAC if any change that is specified in paragraph (b)(3)(ii) of this section occurs. If CMS determines that a sole community hospital failed to comply with this requirement, CMS will cancel the hospital's classification as a sole community hospital effective with the date that the hospital no longer met the criteria for such classification, consistent with the provisions of § 405.1885 of this chapter.
 

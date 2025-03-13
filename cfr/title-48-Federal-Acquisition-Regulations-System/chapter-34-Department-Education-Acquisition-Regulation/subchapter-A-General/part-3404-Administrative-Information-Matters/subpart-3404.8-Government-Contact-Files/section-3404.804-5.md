@@ -1,0 +1,3 @@
+##### 3404.804-5 Procedures for closing out contract files. #####
+
+(a)(16) The contractor has provided written affirmation that the contractor has transferred all Federal records that the contractor created, received, or maintained in performance of the contract to the Federal Government, and the contractor has not retained a copy of any Federal record that contains information covered by 32 CFR part 2002 or that is generally protected from public disclosure by an exemption under the Freedom of Information Act (FOIA) with the exception, for the purposes of FOIA, of information that exclusively implicates the exemption 4 interests of the contractor.

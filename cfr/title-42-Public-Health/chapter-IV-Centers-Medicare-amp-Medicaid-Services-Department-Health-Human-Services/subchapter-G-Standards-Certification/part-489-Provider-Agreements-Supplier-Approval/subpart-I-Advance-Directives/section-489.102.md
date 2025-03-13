@@ -1,8 +1,6 @@
 ##### § 489.102 Requirements for providers. #####
 
-Link to an amendment published at 88 FR 59336, Aug. 28, 2023.
-
-(a) Hospitals, critical access hospitals, skilled nursing facilities, nursing facilities, home health agencies, providers of home health care (and for Medicaid purposes, providers of personal care services), hospices, and religious nonmedical health care institutions must maintain written policies and procedures concerning advance directives with respect to all adult individuals receiving medical care, or patient care in the case of a patient in a religious nonmedical health care institution, by or through the provider and are required to:
+(a) Hospitals, critical access hospitals, rural emergency hospitals, skilled nursing facilities, nursing facilities, home health agencies, providers of home health care (and for Medicaid purposes, providers of personal care services), hospices, and religious nonmedical health care institutions must maintain written policies and procedures concerning advance directives with respect to all adult individuals receiving medical care, or patient care in the case of a patient in a religious nonmedical health care institution, by or through the provider and are required to:
 
 (1) Provide written information to such individuals concerning—
 
@@ -38,6 +36,8 @@ Link to an amendment published at 88 FR 59336, Aug. 28, 2023.
 
 (4) In the case of a hospice program, at the time of initial receipt of hospice care by the individual from the program.
 
+(5) In the case of a rural emergency hospital, at the time of the individual's registration as a patient.
+
 (c) The providers listed in paragraph (a) of this section—
 
 (1) Are not required to provide care that conflicts with an advance directive.
@@ -48,4 +48,4 @@ Link to an amendment published at 88 FR 59336, Aug. 28, 2023.
 
 (e) If an adult individual is incapacitated at the time of admission or at the start of care and is unable to receive information (due to the incapacitating conditions or a mental disorder) or articulate whether or not he or she has executed an advance directive, then the provider may give advance directive information to the individual's family or surrogate in the same manner that it issues other materials about policies and procedures to the family of the incapacitated individual or to a surrogate or other concerned persons in accordance with State law. The provider is not relieved of its obligation to provide this information to the individual once he or she is no longer incapacitated or unable to receive such information. Follow-up procedures must be in place to provide the information to the individual directly at the appropriate time.
 
-[57 FR 8203, Mar. 6, 1992, as amended at 59 FR 45403, Sept. 1, 1994; 60 FR 33294, June 27, 1995; 62 FR 46037, Aug. 29, 1997; 64 FR 67052, Nov. 30, 1999; 68 FR 66720, Nov. 28, 2003]
+[57 FR 8203, Mar. 6, 1992, as amended at 59 FR 45403, Sept. 1, 1994; 60 FR 33294, June 27, 1995; 62 FR 46037, Aug. 29, 1997; 64 FR 67052, Nov. 30, 1999; 68 FR 66720, Nov. 28, 2003; 88 FR 59336, Aug. 28, 2023]

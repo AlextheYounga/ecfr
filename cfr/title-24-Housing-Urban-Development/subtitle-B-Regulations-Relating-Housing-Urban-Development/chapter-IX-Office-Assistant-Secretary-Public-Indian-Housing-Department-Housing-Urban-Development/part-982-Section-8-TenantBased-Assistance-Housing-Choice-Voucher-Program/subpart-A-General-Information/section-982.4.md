@@ -74,7 +74,7 @@ Link to an amendment published at 88 FR 30503, May 11, 2023.
 
 (2) An additional payment to the family if the total assistance payment exceeds the rent to owner.
 
-*Housing quality standards (HQS).* The HUD minimum quality standards for housing assisted under the HCV program. See § 982.401.
+*Housing quality standards (HQS).* The minimum quality standards developed by HUD in accordance with 24 CFR 5.703 for the HCV program or the HUD approved alternative standard for the PHA under 24 CFR 5.703(g).
 
 *Initial PHA.* In portability, the term refers to both:
 
@@ -182,4 +182,4 @@ Link to an amendment published at 88 FR 30503, May 11, 2023.
 
 *Welfare-to-work (WTW) families.* Families assisted by a PHA with voucher funding awarded to the PHA under the HUD welfare-to-work voucher program (including any renewal of such WTW funding for the same purpose).
 
-[63 FR 23857, Apr. 30, 1998; 63 FR 31625, June 10, 1998, as amended at 64 FR 26641, May 14, 1999; 64 FR 49658, Sept. 14, 1999; 64 FR 56887, 56911, Oct. 21, 1999; 65 FR 16821, Mar. 30, 2000; 65 FR 55161, Sept. 12, 2000; 66 FR 28804, May 24, 2001; 66 FR 33613, June 22, 2001; 67 FR 64492, Oct. 18, 2002; 77 FR 5675, Feb. 3, 2012; 80 FR 8245, Feb. 17, 2015; 80 FR 50572, Aug. 20, 2015]
+[63 FR 23857, Apr. 30, 1998; 63 FR 31625, June 10, 1998, as amended at 64 FR 26641, May 14, 1999; 64 FR 49658, Sept. 14, 1999; 64 FR 56887, 56911, Oct. 21, 1999; 65 FR 16821, Mar. 30, 2000; 65 FR 55161, Sept. 12, 2000; 66 FR 28804, May 24, 2001; 66 FR 33613, June 22, 2001; 67 FR 64492, Oct. 18, 2002; 77 FR 5675, Feb. 3, 2012; 80 FR 8245, Feb. 17, 2015; 80 FR 50572, Aug. 20, 2015; 88 FR 30503, May 11, 2023]

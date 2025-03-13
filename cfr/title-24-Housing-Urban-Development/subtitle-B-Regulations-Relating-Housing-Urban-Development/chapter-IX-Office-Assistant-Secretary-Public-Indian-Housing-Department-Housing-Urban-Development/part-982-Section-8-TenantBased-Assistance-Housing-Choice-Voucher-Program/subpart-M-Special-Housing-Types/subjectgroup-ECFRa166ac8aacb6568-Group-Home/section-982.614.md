@@ -1,10 +1,8 @@
 ##### § 982.614 Group home: Housing quality standards. #####
 
-Link to an amendment published at 88 FR 30504, May 11, 2023.
+(a) *Compliance with HQS.* The PHA may not give approval to reside in a group home unless the unit, including the portion of the unit available for use by the assisted person under the lease, meets the housing quality standards. As defined in § 982.4, housing quality standards (HQS) refers to the minimum quality standards developed by HUD in accordance with 24 CFR 5.703 for housing assisted under the HCV program or a HUD approved alternative standard for the PHA under 24 CFR 5.703(g).
 
-(a) *Compliance with HQS.* The PHA may not give approval to reside in a group home unless the unit, including the portion of the unit available for use by the assisted person under the lease, meets the housing quality standards.
-
-(b) *Applicable HQS standards.* (1) The HQS in § 982.401 apply to assistance in a group home. However, the standards in this section apply in place of § 982.401(b) (sanitary facilities), § 982.401(c) (food preparation and refuse disposal), § 982.401(d) (space and security), § 982.401(g) (structure and materials) and § 982.401(l) (site and neighborhood).
+(b) *Applicable HQS standards.* (1) The standards in this section apply in place of standards in 24 CFR 5.703 that relate to sanitary facilities, food preparation and refuse disposal, space and security, structure and materials, and site and neighborhood.
 
 (2) The entire unit must comply with the HQS.
 
@@ -51,3 +49,5 @@ Link to an amendment published at 88 FR 30504, May 11, 2023.
 (iii) The group home must be accessible to and usable by a resident with disabilities.
 
 (5) *Site and neighborhood.* The site and neighborhood must be reasonably free from disturbing noises and reverberations and other hazards to the health, safety, and general welfare of the residents. The site and neighborhood may not be subject to serious adverse environmental conditions, natural or manmade, such as dangerous walks or steps, instability, flooding, poor drainage, septic tank back-ups, sewage hazards or mud slides, abnormal air pollution, smoke or dust, excessive noise, vibrations or vehicular traffic, excessive accumulations of trash, vermin or rodent infestation, or fire hazards. The unit must be located in a residential setting.
+
+[63 FR 23865, Apr. 30, 1998, as amended at 88 FR 30504, May 11, 2023]

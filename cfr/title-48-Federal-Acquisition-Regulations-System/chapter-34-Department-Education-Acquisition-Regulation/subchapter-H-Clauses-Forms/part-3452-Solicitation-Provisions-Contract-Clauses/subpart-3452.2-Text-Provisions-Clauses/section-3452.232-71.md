@@ -1,6 +1,6 @@
 ##### 3452.232-71 Incremental funding. #####
 
-As prescribed in 3432.705-2, insert the following provision in solicitations if a cost-reimbursement contract using incremental funding is contemplated:
+As prescribed in 3432.706-2, insert the following provision in solicitations if a cost-reimbursement contract using incremental funding is contemplated:
 
 Incremental Funding (MAR 2011)
 

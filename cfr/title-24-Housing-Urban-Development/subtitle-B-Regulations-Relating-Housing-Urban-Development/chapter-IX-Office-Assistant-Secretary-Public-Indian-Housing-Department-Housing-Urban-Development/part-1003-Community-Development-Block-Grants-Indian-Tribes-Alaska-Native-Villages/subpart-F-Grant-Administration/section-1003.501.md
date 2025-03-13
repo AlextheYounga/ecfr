@@ -28,7 +28,7 @@
 
 (11) Section 200.343, “Closeout.”
 
-(b) *Cost principles.* (1) All items of cost listed in 2 CFR part 200, subpart E , which require prior Federal agency approval are allowable without the prior approval of HUD to the extent that they comply with the general policies and principles stated in 2 CFR part 200, subpart E, and are otherwise eligible under subpart C of this part, except for the following:
+(b) *Cost principles.* (1) All items of cost listed in 2 CFR part 200, subpart E, which require prior Federal agency approval are allowable without the prior approval of HUD to the extent that they comply with the general policies and principles stated in 2 CFR part 200, subpart E, and are otherwise eligible under subpart C of this part, except for the following:
 
 (i) Depreciation methods for fixed assets shall not be changed without the approval of the Federal cognizant agency.
 

@@ -1,0 +1,3 @@
+##### § 754.103 Applicant representatives. #####
+
+An applicant may select a representative of the applicant's choice to assist the applicant during the complaint process. An agency may disallow as an applicant's representative an individual whose activities as a representative would cause a conflict of interest or position; an agency employee who cannot be released from official duties because of the priority needs of the Government; or an agency employee whose release would give rise to unreasonable costs to the Government.

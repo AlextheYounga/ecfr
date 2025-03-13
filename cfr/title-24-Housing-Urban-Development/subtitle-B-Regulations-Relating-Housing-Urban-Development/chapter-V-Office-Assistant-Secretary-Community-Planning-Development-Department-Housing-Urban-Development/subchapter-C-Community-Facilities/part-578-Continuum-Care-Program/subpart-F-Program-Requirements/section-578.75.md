@@ -1,16 +1,16 @@
 ##### § 578.75 General operations. #####
 
-Link to an amendment published at 88 FR 30499, May 11, 2023.
-
 (a) *State and local requirements.* (1) Housing and facilities constructed or rehabilitated with assistance under this part must meet State or local building codes, and in the absence of State or local building codes, the International Residential Code or International Building Code (as applicable to the type of structure) of the International Code Council.
 
 (2) Services provided with assistance under this part must be provided in compliance with all applicable State and local requirements, including licensing requirements.
 
-(b) *Housing quality standards.* Housing leased with Continuum of Care program funds, or for which rental assistance payments are made with Continuum of Care program funds, must meet the applicable housing quality standards (HQS) under 24 CFR 982.401 of this title, except that 24 CFR 982.401(j) applies only to housing occupied by program participants receiving tenant-based rental assistance. For housing rehabilitated with funds under this part, the lead-based paint requirements in 24 CFR part 35, subparts A, B, J, and R apply. For housing that receives project-based or sponsor-based rental assistance, 24 CFR part 35, subparts A, B, H, and R apply. For residential property for which funds under this part are used for acquisition, leasing, services, or operating costs, 24 CFR part 35, subparts A, B, K, and R apply.
+(b) *Housing standards.* Housing leased with Continuum of Care program funds, or for which rental assistance payments are made with Continuum of Care program funds, must meet the applicable standards under 24 CFR 5.703, except that the carbon monoxide detection requirement at 24 CFR 5.703(b)(2) and (d)(6) shall not apply. For housing that is occupied by program participants receiving tenant-based rental assistance, 24 CFR part 35, subparts A, B, M, and R apply. For housing rehabilitated with funds under this part, the lead-based paint requirements in 24 CFR part 35, subparts A, B, J, and R apply. For housing that receives project-based or sponsor-based rental assistance, 24 CFR part 35, subparts A, B, H, and R apply. For residential property for which funds under this part are used for acquisition, leasing, services, or operating costs, 24 CFR part 35, subparts A, B, K, and R apply. Additionally, for tenant-based rental assistance, for leasing of individual units, and for sponsor based rental assistance where not all units in a structure are or will be assisted, the standards apply only to the unit itself, and to the means of ingress and egress from the unit to the public way and to the building's common areas.
 
-(1) Before any assistance will be provided on behalf of a program participant, the recipient, or subrecipient, must physically inspect each unit to assure that the unit meets HQS. Assistance will not be provided for units that fail to meet HQS, unless the owner corrects any deficiencies within 30 days from the date of the initial inspection and the recipient or subrecipient verifies that all deficiencies have been corrected.
+(1) Before any assistance will be provided on behalf of a program participant, the recipient, or subrecipient, must physically inspect each unit to assure that the unit meets 24 CFR 5.703. Assistance will not be provided for units that fail to meet 24 CFR 5.703, unless the owner corrects any deficiencies within 30 days from the date of the initial inspection and the recipient or subrecipient verifies that all deficiencies have been corrected.
 
-(2) Recipients or subrecipients must inspect all units at least annually during the grant period to ensure that the units continue to meet HQS.
+(2) Recipients or subrecipients must inspect all units at least annually during the grant period to ensure that the units continue to meet 24 CFR 5.703.
+
+(3) The requirements in 24 CFR 5.705 through 5.713 do not apply.
 
 (c) *Suitable dwelling size.* The dwelling unit must have at least one bedroom or living/sleeping room for each two persons.
 
@@ -34,4 +34,4 @@ Link to an amendment published at 88 FR 30499, May 11, 2023.
 
 (j) *Remaining program participants following bifurcation of a lease or eviction as a result of domestic violence.* For permanent supportive housing projects, members of any household who were living in a unit assisted under this part at the time of a qualifying member's eviction from the unit because the qualifying member was found to have engaged in criminal activity directly relating to domestic violence, dating violence, sexual assault, or stalking, have the right to rental assistance under this section until the expiration of the lease in effect at the time of the qualifying member's eviction.
 
-[77 FR 45442, July 31, 2012, as amended at 81 FR 80810, Nov. 16, 2016]
+[77 FR 45442, July 31, 2012, as amended at 81 FR 80810, Nov. 16, 2016; 88 FR 30499, May 11, 2023]

@@ -1,7 +1,5 @@
 ##### § 495.40 Demonstration of meaningful use criteria. #####
 
-Link to an amendment published at 88 FR 59336, Aug. 28, 2023.
-
 (a) *Demonstration by EPs.* An EP must demonstrate that he or she satisfies each of the applicable objectives and associated measures under § 495.20, § 495.22 or § 495.24, supports information exchange and the prevention of health information blocking, and engages in activities related to supporting providers with the performance of CEHRT:
 
 (1) For CY 2011—(i) *Attestation.* Attest, through a secure mechanism, in a manner specified by CMS (or for a Medicaid EP, in a manner specified by the State), that during the EHR reporting period, the EP—
@@ -120,7 +118,9 @@ Link to an amendment published at 88 FR 59336, Aug. 28, 2023.
 
 (*2*) For an eligible hospital or CAH attesting to a State for the Medicaid EHR Incentive Program, satisfied the required objectives and associated measures under § 495.24(d) for meaningful use.
 
-(H) Supporting providers with the performance of CEHRT (SPPC). To engage in activities related to supporting providers with the performance of CEHRT, the eligible hospital or CAH—
+(H) For CY 2024 and subsequent years, for an eligible hospital or CAH attesting to CMS, satisfied the required objectives and associated measures for meaningful use as defined by CMS.
+
+(I) Supporting providers with the performance of CEHRT (SPPC). To engage in activities related to supporting providers with the performance of CEHRT, the eligible hospital or CAH—
 
 (*1*) Must attest that it:
 
@@ -134,7 +134,7 @@ Link to an amendment published at 88 FR 59336, Aug. 28, 2023.
 
 (*ii*) If requested, cooperated in good faith with ONC-ACB surveillance of his or her health information technology certified under the ONC Health IT Certification Program as authorized by 45 CFR part 170, subpart E, to the extent that such technology meets (or can be used to meet) the definition of CEHRT, including by permitting timely access to such technology and demonstrating its capabilities as implemented and used by the eligible hospital or CAH in the field.
 
-(I) Support for health information exchange and the prevention of information blocking. For an EHR reporting period in CYs 2017 through 2021, the eligible hospital or CAH must attest that it—
+(J) Support for health information exchange and the prevention of information blocking. For an EHR reporting period in CYs 2017 through 2021, the eligible hospital or CAH must attest that it—
 
 (*1*) Did not knowingly and willfully take action (such as to disable functionality) to limit or restrict the compatibility or interoperability of certified EHR technology.
 
@@ -150,7 +150,7 @@ Link to an amendment published at 88 FR 59336, Aug. 28, 2023.
 
 (*3*) Responded in good faith and in a timely manner to requests to retrieve or exchange electronic health information, including from patients, health care providers (as defined by 42 U.S.C. 300jj(3)), and other persons, regardless of the requestor's affiliation or technology vendor.
 
-(J) Actions to limit or restrict the compatibility or interoperability of CEHRT. For an EHR reporting period in CY 2022 and subsequent years, the eligible hospital or CAH must attest that it did not knowingly and willfully take action (such as to disable functionality) to limit or restrict the compatibility or interoperability of certified EHR technology.
+(K) Actions to limit or restrict the compatibility or interoperability of CEHRT. For an EHR reporting period in CY 2022 and subsequent years, the eligible hospital or CAH must attest that it did not knowingly and willfully take action (such as to disable functionality) to limit or restrict the compatibility or interoperability of certified EHR technology.
 
 (ii) *Reporting clinical quality information.* Successfully report the clinical quality measures selected by CMS to CMS or the States, as applicable, in the form and manner specified by CMS or the States, as applicable.
 
@@ -174,4 +174,4 @@ Link to an amendment published at 88 FR 59336, Aug. 28, 2023.
 
 (2) All EPs, eligible hospitals, and CAHs must keep documentation supporting their demonstration of meaningful use for 6 years.
 
-[75 FR 44565, July 28, 2010, as amended at 76 FR 73473, Nov. 28, 2011; 76 FR 74584, Nov. 30, 2011; 77 FR 54157, Sept. 4, 2012; 77 FR 68565, Nov. 15, 2012; 77 FR 69372, Nov. 16, 2012; 79 FR 52933, Sept. 4, 2014. Redesignated and amended at 80 FR 62943, 62954, Oct. 16, 2015; 81 FR 77556, Nov. 4, 2016; 81 FR 79892, Nov. 14, 2016; 82 FR 36, Jan. 3, 2017; 82 FR 16742, Apr. 6, 2017; 82 FR 38518, Aug. 14, 2017; 83 FR 41710, Aug. 17, 2018; 86 FR 45523, Aug. 13, 2021]
+[75 FR 44565, July 28, 2010. Redesignated at 80 FR 62943, Oct. 16, 2015]Editorial Note:For Federal Register citations affecting § 495.40, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

@@ -1,0 +1,3 @@
+##### 3422.1002-1 General. #####
+
+Consistent with 29 CFR 4.145, the five-year limitation set forth in the Service Contract Act of 1965, as amended (Service Contact Act), applies to each period of the contract individually, not the cumulative period of base and option periods. Accordingly, no contract subject to the Service Contract Act issued by the Department of Education will have a base period or option period that exceeds five years.

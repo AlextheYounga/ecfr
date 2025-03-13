@@ -1,7 +1,5 @@
 ##### § 412.560 Requirements under the Long-Term Care Hospital Quality Reporting Program (LTCH QRP). #####
 
-Link to an amendment published at 88 FR 59334, Aug. 28, 2023.
-
 (a) *Participation in the LTCH QRP.* A long-term-care hospital must begin submitting data on measures specified under sections 1886(m)(5)(D), 1899B(c)(1), and 1899B(d)(1) of the Act, and standardized patient assessment data required under section 1899B(b)(1) of the Act, under the LTCH QRP by no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter.
 
 (b) *Data submission requirements and payment impact.* (1) Except as provided in paragraph (c) of this section, a long-term care hospital must submit to CMS data on measures specified under sections 1886(m)(5)(D), 1899B(c)(1) and 1899B(d)(1) of the Act, and standardized patient assessment data required under section 1899B(b)(1) of the Act. Such data must be submitted in a form and manner, and at a time, specified by CMS.
@@ -76,10 +74,16 @@ Link to an amendment published at 88 FR 59334, Aug. 28, 2023.
 
 (e) *Appeals of reconsideration requests.* A long-term care hospital that is dissatisfied with a decision made by CMS on its reconsideration request may file an appeal with the Provider Reimbursement Review Board under part 405, subpart R, of this chapter.
 
-(f) *Data completion thresholds.* (1) Long-term care hospitals must meet or exceed two separate data completeness thresholds: One threshold set at 80 percent for completion of measures data and standardized patient assessment data collected using the LTCH CARE Data Set submitted through the CMS designated data submission system; and a second threshold set at 100 percent for measures data collected and submitted using the CDC NHSN.
+(f) *Data completion thresholds.* (1) Long-term care hospitals must meet or exceed the following data completeness thresholds with respect to a fiscal year:
+
+(i)(A) The threshold set at 100 percent completion of measures data and standardized patient assessment data collected using the LTCH Continuity Assessment Record and Evaluation (CARE) Data Set (LCDS) on at least 80 percent of the assessments LTCHs submit through the CMS designated data submission system for the FY 2014 through the FY 2025 LTCH QRP.
+
+(B) The threshold set at 100 percent completion of measures data and standardized patient assessment data collected using the LCDS on at least 85 percent of the assessments LTCHs submit through the CMS designated data submission system beginning with the FY 2026 LTCH QRP.
+
+(ii) The threshold set at 100 percent for measures data collected and submitted using the Centers for Disease Control and Prevention's (CDC) National Healthcare Safety Network (NHSN) for FY 2014 and all subsequent payment updates.
 
 (2) The thresholds in paragraph (f)(1) of this section apply to all data that must be submitted under paragraph (b) of this section.
 
 (3) A long-term care hospital must meet or exceed both thresholds in paragraph (f)(1) of this section to avoid receiving a 2 percentage point reduction to its annual payment update for a given fiscal year, beginning with the FY 2019 LTCH QRP.
 
-[80 FR 49769, Aug. 17, 2015, as amended at 81 FR 57270, Aug. 22, 2016; 82 FR 38513, Aug. 14, 2017; 83 FR 41705, Aug. 17, 2018; 84 FR 42615, Aug. 16, 2019]
+[80 FR 49769, Aug. 17, 2015, as amended at 81 FR 57270, Aug. 22, 2016; 82 FR 38513, Aug. 14, 2017; 83 FR 41705, Aug. 17, 2018; 84 FR 42615, Aug. 16, 2019; 88 FR 59334, Aug. 28, 2023]

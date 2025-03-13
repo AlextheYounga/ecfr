@@ -1,7 +1,5 @@
 ##### § 419.92 Payment to rural emergency hospitals. #####
 
-Link to an amendment published at 88 FR 59335, Aug. 28, 2023.
-
 (a) *Payment for REH services*—(1) *Medicare payment.* A rural emergency hospital that furnishes a REH service on or after January 1, 2023, is paid an amount equal to the amount of payment that would otherwise apply under section 1833(t) of the Act for the equivalent covered OPD service, increased by 5 percent.
 
 (2) *Beneficiary copayment.* The beneficiary copayment for a REH service is the amount determined under section 1833(t)(8) of the Act for the equivalent covered OPD service, excluding the 5 percent payment increase described in paragraph (a)(1) of this section.
@@ -25,3 +23,17 @@ Link to an amendment published at 88 FR 59335, Aug. 28, 2023.
 (1) *Payment for ambulance services.* Ambulance services furnished by an entity owned and operated by a rural emergency hospital are paid under the ambulance fee schedule as described at section 1834(l) of the Act.
 
 (2) *Payment for post-hospital extended care services.* Post-hospital extended care services furnished by a rural emergency hospital that has a unit that is a distinct part licensed as a skilled nursing facility are paid under the skilled nursing facility prospective payment system described at section 1888(e) of the Act.
+
+(d) *REH payment for the costs of graduate medical education.* (1) For portions of cost reporting periods beginning on or after October 1, 2023, an REH that incurs costs of training full-time equivalent (FTE) residents that rotate to the REH may receive direct graduate medical education payments for those costs.
+
+(2) Payment is equal to the Medicare reasonable costs that the REH incurs to train the FTE residents that rotate to the REH, as determined in accordance with section 1861(v)(1)(A) of the Act and the applicable principles of cost reimbursement in part 413 of this chapter, except that the following payment principles are excluded:
+
+(i) Lesser of cost or charges.
+
+(ii) Ceilings on hospital operating costs.
+
+(3) An REH that does not incur costs of training FTE residents that rotate to the REH is considered a nonprovider setting for purposes of graduate medical education payments, consistent with §§ 412.105(f)(1)(ii)(E) and 413.78(g) of this chapter.
+
+(4) Direct graduate medical education payments to REHs made under this section are made from the Federal Hospital Insurance Trust Fund.
+
+[87 FR 72292, Nov. 23, 2022, as amended at 88 FR 59335, Aug. 28, 2023]

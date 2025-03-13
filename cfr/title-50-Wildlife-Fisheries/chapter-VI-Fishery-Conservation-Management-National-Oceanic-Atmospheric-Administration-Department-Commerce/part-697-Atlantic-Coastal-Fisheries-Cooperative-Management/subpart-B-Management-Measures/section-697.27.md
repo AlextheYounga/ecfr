@@ -1,5 +1,7 @@
 ##### § 697.27 Trap transferability. #####
 
+Link to an amendment published at 88 FR 67681, Oct. 2, 2023.
+
 (a) Federal lobster permit holders may elect to participate in a program that allows them to transfer trap allocation to other participating Federal lobster permit holders, subject to the following conditions:
 
 (1) *Participation requirements.* To be eligible to participate in the Federal Trap Transfer Program:

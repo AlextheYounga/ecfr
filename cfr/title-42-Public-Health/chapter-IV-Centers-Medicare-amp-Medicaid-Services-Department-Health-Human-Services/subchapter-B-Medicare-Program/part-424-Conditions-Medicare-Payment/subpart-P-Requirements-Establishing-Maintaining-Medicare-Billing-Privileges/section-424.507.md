@@ -1,7 +1,5 @@
 ##### § 424.507 Ordering covered items and services for Medicare beneficiaries. #####
 
-Link to an amendment published at 88 FR 51199, Aug. 2, 2023.
-
 (a) *Conditions for payment of claims for ordered covered imaging and clinical laboratory services and items of durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS)*—(1) *Ordered covered imaging, clinical laboratory services, and DMEPOS item claims.* To receive payment for ordered imaging, clinical laboratory services, and DMEPOS items (excluding home health services described in § 424.507(b), and Part B drugs), a provider or supplier must meet all of the following requirements:
 
 (i) The ordered covered imaging, clinical laboratory services, and DMEPOS items (excluding home health services described in paragraph (b) of this section, and Part B drugs) must have been ordered by a physician or, when permitted, an eligible professional (as defined in § 424.506(a) of this part).
@@ -58,9 +56,9 @@ Link to an amendment published at 88 FR 51199, Aug. 2, 2023.
 
 (*2*) Teaching physician, who is enrolled in Medicare in an approved status.
 
-(b) *Conditions for payment of claims for covered home health services.* To receive payment for covered Part A or Part B home health services, a provider's home health services claim must meet all of the following requirements:
+(b) *Conditions for payment of claims for covered home health and hospice services.* To receive payment for covered Part A or Part B home health services or for covered hospice services, a provider's home health or hospice services claim must meet all of the following requirements:
 
-(1) The ordering/certifying physician, or the ordering/certifying physician assistant, nurse practitioner, or clinical nurse specialist working in accordance with State law, must meet all of the following requirements:
+(1) The ordering/certifying physician for hospice or home health services, or, for home health services, the ordering/certifying physician assistant, nurse practitioner, or clinical nurse specialist working in accordance with State law, must meet all of the following requirements:
 
 (i) Be identified by his or her legal name.
 
@@ -86,8 +84,10 @@ Link to an amendment published at 88 FR 51199, Aug. 2, 2023.
 
 (B) Teaching physician, who is enrolled in Medicare in an approved status.
 
+(3) For claims for hospice services, the requirements of this paragraph (b) apply with respect to any physician described in § 418.22(c) of this chapter who made the applicable certification described in § 418.22(c) of this chapter.
+
 (c) *Denial of provider- or supplier-submitted claims.* Notwithstanding § 424.506(c)(3), a Medicare contractor denies a claim from a provider or a supplier for covered items and services described in paragraph (a) or (b) of this section if the claim does not meet the requirements of paragraphs (a)(1) and (b) of this section, respectively.
 
 (d) *Denial of beneficiary-submitted claims.* A Medicare contractor denies a claim from a Medicare beneficiary for covered items or services described in paragraphs (a) and (b) of this section if the claim does not meet the requirements of paragraph (a)(2) of this section.
 
-[77 FR 25317, Apr. 27, 2012, as amended at 85 FR 27625, May 8, 2020]
+[77 FR 25317, Apr. 27, 2012, as amended at 85 FR 27625, May 8, 2020; 88 FR 51199, Aug. 2, 2023]

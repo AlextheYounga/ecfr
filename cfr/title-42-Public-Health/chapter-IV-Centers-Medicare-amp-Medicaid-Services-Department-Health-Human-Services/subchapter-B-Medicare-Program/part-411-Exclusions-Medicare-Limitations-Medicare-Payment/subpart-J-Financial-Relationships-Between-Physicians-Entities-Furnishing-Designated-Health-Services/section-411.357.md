@@ -1,7 +1,5 @@
 ##### § 411.357 Exceptions to the referral prohibition related to compensation arrangements. #####
 
-Link to an amendment published at 88 FR 59328, Aug. 28, 2023.
-
 For purposes of § 411.353, the following compensation arrangements do not constitute a financial relationship:
 
 (a) *Rental of office space.* Payments for the use of office space made by a lessee to a lessor if the arrangement meets the following requirements:
@@ -368,9 +366,9 @@ For purposes of § 411.353, the following compensation arrangements do not const
 
 (2) The health care items and services provided are of a type routinely provided by the entity;
 
-(3) The entity has a professional courtesy policy that is set out in writing and approved in advance by the entity's governing body;
+(3) The entity has a professional courtesy policy that is set out in writing and approved in advance by the entity's governing body; and
 
-(4) The professional courtesy is not offered to a physician (or immediate family member) who is a Federal health care program beneficiary, unless there has been a good faith showing of financial need; and
+(4) The professional courtesy is not offered to a physician (or immediate family member) who is a Federal health care program beneficiary, unless there has been a good faith showing of financial need.
 
 (t) *Retention payments in underserved areas*—(1) *Bona fide written offer.* Remuneration provided by a hospital directly to a physician on the hospital's medical staff to retain the physician's medical practice in the geographic area served by the hospital (as defined in paragraph (e)(2) of this section), if all of the following conditions are met:
 
@@ -762,4 +760,4 @@ For purposes of § 411.353, the following compensation arrangements do not const
 
 (2) For purposes of this paragraph (bb), “technology” means any software or other types of information technology.
 
-[85 FR 77656, Dec. 2, 2020, as amended at 87 FR 72285, Nov. 23, 2022]
+[85 FR 77656, Dec. 2, 2020, as amended at 87 FR 72285, Nov. 23, 2022; 88 FR 59328, Aug. 28, 2023]

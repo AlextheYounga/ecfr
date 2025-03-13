@@ -1,7 +1,5 @@
 ##### § 412.25 Excluded hospital units: Common requirements. #####
 
-Link to an amendment published at 88 FR 51161, Aug. 2, 2023.
-
 (a) *Basis for exclusion.* In order to be excluded from the prospective payment systems as specified in § 412.1(a)(1) and be paid under the inpatient psychiatric facility prospective payment system as specified in § 412.1(a)(2) or the inpatient rehabilitation facility prospective payment system as specified in § 412.1(a)(3), a psychiatric or rehabilitation unit must meet the following requirements.
 
 (1) Be part of an institution that—
@@ -38,11 +36,7 @@ Link to an amendment published at 88 FR 51161, Aug. 2, 2023.
 
 (b) *Changes in the size of excluded units.* Except in the special cases noted at the end of this paragraph, changes in the number of beds or square footage considered to be part of an excluded unit under this section are allowed one time during a cost reporting period if the hospital notifies its Medicare contractor and the CMS RO in writing of the planned change at least 30 days before the date of the change. The hospital must maintain the information needed to accurately determine costs that are attributable to the excluded unit. A change in bed size or a change in square footage may occur at any time during a cost reporting period and must remain in effect for the rest of that cost reporting period. Changes in bed size or square footage may be made at any time if these changes are made necessary by relocation of a unit to permit construction or renovation necessary for compliance with changes in Federal, State, or local law affecting the physical facility or because of catastrophic events such as fires, floods, earthquakes, or tornadoes.
 
-(c) *Changes in the status of hospital units.* For purposes of exclusions from the prospective payment systems under this section, the status of each hospital unit (excluded or not excluded) is determined as specified in paragraphs (c)(1) and (c)(2) of this section.
-
-(1) The status of a hospital unit may be changed from not excluded to excluded only at the start of the cost reporting period. If a unit is added to a hospital after the start of a cost reporting period, it cannot be excluded from the prospective payment systems before the start of a hospital's next cost reporting period.
-
-(2) The status of a hospital unit may be changed from excluded to not excluded at any time during a cost reporting period, but only if the hospital notifies the fiscal intermediary and the CMS Regional Office in writing of the change at least 30 days before the date of the change, and maintains the information needed to accurately determine costs that are or are not attributable to the excluded unit. A change in the status of a unit from excluded to not excluded that is made during a cost reporting period must remain in effect for the rest of that cost reporting period.
+(c) The status of a hospital unit may be changed from not excluded to excluded or excluded to not excluded at any time during a cost reporting period, but only if the hospital notifies the fiscal intermediary and the CMS Regional Office in writing of the change at least 30 days before the date of the change, and maintains the information needed to accurately determine costs that are or are not attributable to the hospital unit. A change in the status of a hospital unit from not excluded to excluded or excluded to not excluded that is made during a cost reporting period must remain in effect for the rest of that cost reporting period.
 
 (d) *Number of excluded units.* Each hospital may have only one unit of each type (psychiatric or rehabilitation) excluded from the prospective payment systems specified in § 412.1(a)(1). A hospital excluded from the prospective payment systems as specified in § 412.1(a)(1) may not have an excluded unit (psychiatric or rehabilitation) that is excluded on the same basis as the hospital.
 

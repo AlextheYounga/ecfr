@@ -1,3 +1,3 @@
-##### 3439.702 Department security requirements. #####
+##### 3439.702 Department information security and privacy requirements. #####
 
-The contracting officer must include the solicitation provision in 3452.239-71 (Notice to offerors of Department security requirements) and the clause at 3452.239-72 (Department security requirements) when contractor employees will have access to Department-controlled facilities or space, or when the work (wherever located) involves the design, operation, repair, or maintenance of information systems and access to sensitive but unclassified information.
+The contracting officer must include the clause at 3452.239-71 (Department information security and privacy requirements) in all solicitations and contracts.

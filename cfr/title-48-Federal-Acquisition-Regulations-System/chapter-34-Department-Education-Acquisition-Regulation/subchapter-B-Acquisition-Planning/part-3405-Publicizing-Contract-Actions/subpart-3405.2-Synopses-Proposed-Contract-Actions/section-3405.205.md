@@ -1,0 +1,3 @@
+##### 3405.205 Special situations. #####
+
+(g) *FSA—Module of a previously awarded system.* Federal Student Aid must satisfy the publication requirements for sole source and competitive awards for a module of a previously awarded system by publishing a notice of intent on the governmentwide point of entry, not less than 30 days before issuing a solicitation. This notice is not required if a contractor who is to be solicited to submit an offer previously provided a module for the system under a contract that contained cost, schedule, and performance goals, and the contractor met those goals.

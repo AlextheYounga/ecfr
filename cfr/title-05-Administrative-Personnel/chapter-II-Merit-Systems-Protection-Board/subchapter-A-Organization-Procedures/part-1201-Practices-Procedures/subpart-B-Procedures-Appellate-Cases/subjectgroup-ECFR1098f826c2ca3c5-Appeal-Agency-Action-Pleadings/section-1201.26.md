@@ -1,13 +1,11 @@
-##### § 1201.26 Number of pleadings, service, and response. #####
+##### § 1201.26 Service of pleadings and response. #####
 
-Link to an amendment published at 88 FR 67058, Sept. 29, 2023.
+(a) *Service*—(1) *Service by the Board.* The appropriate office of the Board will notify each party to the proceeding that a new appeal has been docketed and will attach to the initial order in the proceeding a certificate of service, consisting of a list of the parties to the proceeding or their designated representatives.
 
-(a) *Number.* The appellant must file two copies of both the appeal and all attachments with the appropriate Board office, unless the appellant files an appeal in electronic form under § 1201.14.
+(2) *Service by the parties.* The parties must serve on each other one copy of each pleading, as defined by § 1201.4(b), and all documents submitted with it, except for the appeal. They may do so by electronic filing in accordance with § 1201.14, postal mail, facsimile, or commercial or personal delivery. Documents and pleadings must be served on each party and each representative. A certificate of service stating how and when service was made must accompany each pleading. The parties and their representatives must notify the appropriate Board office and one another, in a pleading, of any changes in their address, telephone number, or email address.
 
-(b) *Service*—(1) *Service by the Board.* The appropriate office of the Board will mail a copy of the appeal to each party to the proceeding other than the appellant. It will attach to each copy a service list, consisting of a list of the names and addresses of the parties to the proceeding or their designated representatives.
+(b) *Submission of documents.* Pleadings and attachments filed via postal mail, facsimile, or commercial or personal delivery must be filed on 81/2-inch by 11-inch paper. This requirement enables the Board to comply with standards established for U.S. courts. Paper pleadings and attachments may not contain binders, folders, staples, paper clips, or notes adhered to pages. Such items will be removed and not included in the record, or the filing may be rejected. Documents may not be submitted on an electronic media storage device such as a Compact Disc (CD), Digital Video Disc (DVD), or flash drive. Parties are responsible for reviewing all pleadings to confirm legibility and to minimize the inclusion of nonrelevant personally identifiable information. Pleadings filed via e-Appeal must adhere to the formatting and filing requirements set forth in § 1201.14(h).
 
-(2) *Service by the parties.* The parties must serve on each other one copy of each pleading, as defined by § 1201.4(b), and all documents submitted with it, except for the appeal. They may do so by mail, by facsimile, by commercial or personal delivery, or by electronic filing in accordance with § 1201.14. Documents and pleadings must be served upon each party and each representative. A certificate of service stating how and when service was made must accompany each pleading. The parties must notify the appropriate Board office and one another, in writing, of any changes in the names, or addresses on the service list.
+(c) *Submission of audio and video evidence.* Audio and video evidence must be submitted according to the formatting and submission requirements set forth in policies posted to the MSPB's website.
 
-(c) *Paper size.* Pleadings and attachments must be filed on 81/2 by 11-inch paper, except for good cause shown. This requirement enables the Board to comply with standards established for U.S. courts. All electronic documents must be formatted so that they will print on 81/2 by 11-inch paper.
-
-[54 FR 53504, Dec. 29, 1989; 55 FR 548, Jan. 5, 1990, as amended at 58 FR 36345, July 7, 1993; 68 FR 59862, Oct. 20, 2003; 69 FR 57629, Sept. 27, 2004]
+[88 FR 67058, Sept. 29, 2023]

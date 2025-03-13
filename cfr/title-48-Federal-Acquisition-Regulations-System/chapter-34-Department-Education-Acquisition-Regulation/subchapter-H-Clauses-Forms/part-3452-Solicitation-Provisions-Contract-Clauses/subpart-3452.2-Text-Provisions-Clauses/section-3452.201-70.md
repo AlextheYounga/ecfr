@@ -1,6 +1,6 @@
 ##### 3452.201-70 Contracting Officer's Representative (COR). #####
 
-As prescribed in 3401.670-3, insert a clause substantially the same as:
+As prescribed in 3401.604-70, insert a clause substantially the same as:
 
 Contracting Officer's Representative (COR) (MAR 2011)
 
@@ -12,4 +12,4 @@ Contracting Officer's Representative (COR) (MAR 2011)
 
 (d) The COR may be changed by the Government at any time, but notification of the change, including the name and address of the successor COR, will be provided to the contractor by the contracting officer in writing.
 
-(End of clause)
+(End of Clause)

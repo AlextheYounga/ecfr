@@ -1,0 +1,3 @@
+##### 3404.470-1 Contract clause. #####
+
+The contracting officer must include the clause at 3452.204-71 (Contractor security vetting requirements) in solicitations and contracts when it is anticipated that contractor employees will have access to proprietary or sensitive Department information including *Controlled Unclassified Information* as defined in 32 CFR 2002.4(h), Department Information Technology (IT) systems, contractor systems operated with Department data or interfacing with Department systems, Department facilities/space, and/or perform duties in a school or in a location where children are present.

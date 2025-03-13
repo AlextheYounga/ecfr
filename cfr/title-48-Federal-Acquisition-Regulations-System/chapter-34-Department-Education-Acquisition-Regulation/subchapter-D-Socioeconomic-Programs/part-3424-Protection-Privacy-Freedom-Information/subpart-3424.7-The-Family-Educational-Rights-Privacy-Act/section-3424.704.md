@@ -1,0 +1,3 @@
+##### 3424.704 Contract clause. #####
+
+The contracting officer must insert the clause at 3452.224-73 in all solicitations and contracts, including those for the acquisition of commercial products or commercial services, when a requiring activity has provided notification that a contractor will collect or receive access to PII from student education records in connection with carrying out an audit, evaluation, study, compliance review, or other Federal law enforcement activity on behalf of the Department. The contracting officer must fill out paragraph (b) of the clause at 3452.224-73 with the type(s) of PII to be collected or accessed by contractor.

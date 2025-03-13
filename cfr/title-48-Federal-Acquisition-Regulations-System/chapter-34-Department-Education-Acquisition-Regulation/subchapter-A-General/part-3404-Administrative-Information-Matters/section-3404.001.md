@@ -1,0 +1,5 @@
+##### 3404.001 Definitions. #####
+
+*Federal record,* as defined in 44 U.S.C. 3301, includes all recorded information, regardless of form or characteristics, made or received by the Department under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by the Department or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of the U.S. Government or because of the informational value of data in them.
+
+*Records inventory* means a descriptive listing of each Federal record series or system that a contractor creates, receives, or maintains in performance of the contract, together with an indication of its location, retention, custodian, volume, and other pertinent data.

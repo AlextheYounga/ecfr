@@ -1,53 +1,19 @@
-##### § 181.8 Publication. #####
+##### § 181.8 Transmittal to the Congress. #####
 
-(a) The following categories of international agreements will not be published in United States Treaties and Other International Agreements:
+(a) Not less frequently than once each month the Assistant Legal Adviser for Treaty Affairs shall transmit to the Majority Leader of the Senate, the Minority Leader of the Senate, the Speaker of the House of Representatives, the Minority Leader of the House of Representatives, and to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives the following:
 
-(1) Bilateral agreements for the rescheduling of intergovernmental debt payments;
+(1) A list of all international agreements and qualifying non-binding instruments signed, concluded, or otherwise finalized during the prior month;
 
-(2) Bilateral textile agreements concerning the importation of products containing specified textile fibers done under the Agricultural Act of 1956, as amended;
+(2) The text of all international agreements and qualifying non-binding instruments described in subparagraph (a)(1) of this section;
 
-(3) Bilateral agreements between postal administrations governing technical arrangements;
+(3) For each international agreement and qualifying non-binding instrument transmitted, a detailed description of the legal authority relied upon to enter into the international agreement or qualifying non-binding instrument;
 
-(4) Bilateral agreements that apply to specified military exercises;
+(4) A list of all international agreements that entered into force and qualifying non-binding instruments that became operative for the United States or an agency of the United States during the prior month;
 
-(5) Bilateral military personnel exchange agreements;
+(5) The text of all international agreements and qualifying non-binding instruments described in paragraph (a)(4) of this section if such text differs from the text of the agreement or instrument previously provided pursuant to paragraph (a)(2) of this section; and
 
-(6) Bilateral judicial assistance agreements that apply only to specified civil or criminal investigations or prosecutions;
+(6) A statement describing any new or amended statutory or regulatory authority anticipated to be required to fully implement each international agreement and qualifying non-binding instrument included in the list described in paragraph (a)(1) of this section.
 
-(7) Bilateral mapping agreements;
+(b) If any of the information or texts to be transmitted pursuant to paragraph (a) of this section is or contains classified information, the Assistant Legal Adviser for Treaty Affairs shall transmit such information or texts in a classified annex.
 
-(8) Tariff and other schedules under the General Agreement on Tariffs and Trade and under the Agreement of the World Trade Organization;
-
-(9) Agreements that have been given a national security classification pursuant to Executive Order No. 13526, its predecessors or successors, or are otherwise exempt from public disclosure pursuant to U.S. law;
-
-(10) Bilateral agreements with other governments that apply to specific activities and programs financed with foreign assistance funds administered by the United States Agency for International Development pursuant to the Foreign Assistance Act, as amended, and the Agricultural Trade Development and Assistance Act of 1954, as amended;
-
-(11) Letters of agreements and memoranda of understanding with other governments that apply to bilateral assistance for counter-narcotics and other anti-crime purposes furnished pursuant to the Foreign Assistance Act, as amended;
-
-(12) Bilateral agreements that apply to specified education and leadership development programs designed to acquaint U.S. and foreign armed forces, law enforcement, homeland security, or related personnel with limited, specialized aspects of each other's practices or operations;
-
-(13) Bilateral agreements between aviation agencies governing specified aviation technical assistance projects for the provision of managerial, operational, and technical assistance in developing and modernizing the civil aviation infrastructure;
-
-(14) Bilateral acquisition and cross servicing agreements and logistics support agreements;
-
-(15) Bilateral agreements relating to the provision of health care to military personnel on a reciprocal basis; and
-
-(16) Bilateral agreements for the reduction of intergovernmental debts.
-
-(b) In addition to those listed in paragraph (a) of this section, the following categories of agreements will not be published in United States Treaties and Other International Agreements:
-
-(1) Agreements on the subjects listed in paragraphs (a)(1) through (9) of this section that had not been published as of February 26, 1996;
-
-(2) Agreements on the subjects listed in paragraphs (a)(10) through (13) of this section that had not been published as of September 8, 2006; and
-
-(3) Agreements on the subjects listed in paragraphs (a)(14) through (16) of this section that had not been published as of November 14, 2014.
-
-(c) Any international agreements in the possession of the Department of State, other than those in paragraph (a)(9) of this section, but not published will be made available upon request by the Department of State.
-
-(d) The Assistant Legal Adviser for Treaty Affairs shall annually submit to Congress a report that contains an index of all international agreements, listed by country, date, title, and summary of each such agreement (including a description of the duration of activities under the agreement and the agreement itself), that the United States:
-
-(1) Has signed, proclaimed, or with reference to which any other final formality has been executed, or that has been extended or otherwise modified, during the preceding calendar year; and
-
-(2) Has not been published, or is not proposed to be published, in the compilation entitled “United States Treaties and Other International Agreements.”
-
-[61 FR 7071, Feb. 26, 1996, as amended at 71 FR 53009, Sept. 8, 2006; 79 FR 68116, Nov. 14, 2014; 86 FR 22119, Apr. 27, 2021]
+(c) Pursuant to section 12 of the Taiwan Relations Act (22 U.S.C. 3311), any agreement entered into between the American Institute in Taiwan and the governing authorities on Taiwan, or any agreement entered into between the Institute and an agency of the United States Government, shall be transmitted by the Assistant Legal Adviser for Treaty Affairs to the President of the Senate and to the Speaker of the House of Representatives as soon as practicable after the entry into force of such agreements, but in no event later than 60 days thereafter. Classified agreements entered into by the Institute shall be transmitted by the Assistant Legal Adviser for Treaty Affairs to the Senate Committee on Foreign Relations and the House Committee on Foreign Affairs.

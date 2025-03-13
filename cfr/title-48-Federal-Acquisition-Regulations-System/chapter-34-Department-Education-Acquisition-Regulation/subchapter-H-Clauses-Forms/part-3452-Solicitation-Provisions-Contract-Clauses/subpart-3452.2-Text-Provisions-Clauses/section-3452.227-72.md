@@ -1,4 +1,4 @@
-##### 3452.227-72 Use and Non-Disclosure Agreement. #####
+##### 3452.227-72 Use and non-disclosure agreement. #####
 
 As prescribed in 3427.409, insert the following clause in all contracts over the simplified acquisition threshold, and in contracts under the simplified acquisition threshold as appropriate:
 
@@ -10,7 +10,7 @@ Use and Non-Disclosure Agreement (MAR 2011)
 
 (2) For an intended release, disclosure, or authorized use of proprietary data, technical data, or computer software subject to special license rights, modify paragraph (c)(1)(iv) of this clause to enter the conditions, consistent with the license requirements, governing the recipient's obligations regarding use, modification, reproduction, release, performance, display, or disclosure of the data or software.
 
-(b) The requirement for use and non-disclosure agreements does not apply to Government contractors that require access to a third party's data or software for the performance of a Government contract that contains the 3452.227-73 clause, Limitations on the use or disclosure of Government-furnished information marked with restrictive legends.
+(b) The requirement for use and non-disclosure agreements does not apply to Government contractors that require access to a third party's data or software for the performance of a Government contract that contains the clause at 3452.227-73, Limitations on the use or disclosure of Government-furnished information marked with restrictive legends.
 
 (c) The prescribed use and non-disclosure agreement is:
 
@@ -26,7 +26,7 @@ The undersigned, *[Insert Name],* an authorized representative of the *[Insert C
 
 (iii) Use computer software marked with restricted rights legends only in performance of contract number *[insert contract number(s)].* The recipient shall not, for example, enhance, decompile, disassemble, or reverse engineer the software; time share; or use a computer program with more than one computer at a time. The recipient may not release, perform, display, or disclose such software to others unless expressly permitted in writing by the licensor whose name appears in the restrictive legend.
 
-(iv) Use, modify, reproduce, release, perform, display, or disclose data marked with special license rights legends [To be completed by the contracting officer. *See* paragraph (a)(2) of this clause. Omit if none of the data requested is marked with special license rights legends].
+(iv) Use, modify, reproduce, release, perform, display, or disclose data marked with special license rights legends [To be completed by the contracting officer. See paragraph (a)(2) of this clause. Omit if none of the data requested is marked with special license rights legends].
 
 (2) The recipient agrees to adopt or establish operating procedures and physical security measures designed to protect these data from inadvertent release or disclosure to unauthorized third parties.
 
@@ -42,20 +42,4 @@ The undersigned, *[Insert Name],* an authorized representative of the *[Insert C
 
 (8) This agreement shall be effective for the period commencing with the recipient's execution of this agreement and ending upon *[Insert Date].* The obligations imposed by this agreement shall survive the expiration or termination of the agreement.
 
-*[Insert business name.]*
-
-Recipient's Business Name
-
-*[Have representative sign.]*
-
-Authorized Representative
-
-*[Insert date.]*
-
-Date
-
-*[Insert name and title.]*
-
-Representative's Typed Name and Title
-
-(End of clause)
+[*Insert business name.*]Recipient's Business Name[*Have representative sign.*]Authorized Representative[*Insert date.*]Date[*Insert name and title.*]Representative's Typed Name and Title (End of clause)

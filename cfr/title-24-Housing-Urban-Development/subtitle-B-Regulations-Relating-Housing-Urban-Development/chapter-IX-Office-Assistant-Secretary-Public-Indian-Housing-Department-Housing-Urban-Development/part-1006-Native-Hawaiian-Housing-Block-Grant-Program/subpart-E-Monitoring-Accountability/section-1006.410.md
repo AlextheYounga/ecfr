@@ -16,7 +16,7 @@
 
 (4) Describe the manner in which the DHHL would change its housing plan as a result of its experiences administering the grant under the Act.
 
-(c) *Public availability*—(1) *Comments by Native Hawaiians.* In preparing a report under this section, the DHHL shall make the report publicly available to Native Hawaiians who are eligible to reside on the Hawaiian Home Lands and give a sufficient amount of time to permit them to comment on that report, in such manner and at such time as the DHHL may determine, before it is submitted to HUD .
+(c) *Public availability*—(1) *Comments by Native Hawaiians.* In preparing a report under this section, the DHHL shall make the report publicly available to Native Hawaiians who are eligible to reside on the Hawaiian Home Lands and give a sufficient amount of time to permit them to comment on that report, in such manner and at such time as the DHHL may determine, before it is submitted to HUD.
 
 (2) *Summary of comments.* The report under this section must include a summary of any comments received by the DHHL from beneficiaries under paragraph (c)(1) of this section, regarding the program to carry out the housing plan.
 

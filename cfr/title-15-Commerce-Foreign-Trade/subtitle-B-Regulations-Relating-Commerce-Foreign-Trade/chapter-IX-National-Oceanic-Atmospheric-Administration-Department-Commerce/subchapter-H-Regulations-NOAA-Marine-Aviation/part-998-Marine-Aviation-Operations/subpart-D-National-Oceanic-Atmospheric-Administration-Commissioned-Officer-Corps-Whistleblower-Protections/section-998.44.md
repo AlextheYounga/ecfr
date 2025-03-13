@@ -1,0 +1,47 @@
+##### § 998.44 Responsibilities. #####
+
+(a) The Inspector General of the Department of Commerce:
+
+(1) Shall expeditiously determine whether there is sufficient evidence to warrant an investigation of an allegation that a personnel action has been taken, withheld, or threatened as reprisal for making or preparing or being perceived as making or preparing a protected communication. No investigation is required when such allegation is submitted more than 1 year after the NOAA Corps officer or former NOAA Corps officer became aware of the personnel action that is the subject of the allegation. However, the Inspector General of the Department of Commerce may consider a complaint of reprisal received more than 1 year later based on compelling reasons or circumstances. These circumstances may include situations in which the NOAA Corps officer or former NOAA Corps officer:
+
+(i) Was actively misled regarding their rights; or
+
+(ii) Was prevented from exercising their rights.
+
+(2) Shall, if an investigation described in paragraph (a)(1) of this section is warranted, initiate a separate investigation of the underlying allegations contained in the protected communication if a prior investigation has not already been initiated, or if the Inspector General of the Department of Commerce determines that the prior investigation was biased or inadequate.
+
+(3) Shall, except as provided in paragraph (a)(5) of this section, complete the investigation of the allegation of reprisal and issue a report not later than 180 days after receipt of the allegation, which shall include a thorough review of the facts and circumstances relevant to the allegation, the relevant documents acquired during the investigation, and summaries of interviews conducted. The report may also include a recommendation as to the disposition of the complaint.
+
+(4) Shall submit a copy of the investigation report to the Secretary, the Administrator, the NOAA Deputy Under Secretary for Operations, the Director, and to the NOAA Corps officer or former NOAA Corps officer making the allegation. In the copy of the investigation report transmitted to the NOAA Corps officer or former NOAA Corps officer, the Inspector General of the Department of Commerce shall ensure the maximum disclosure of information possible, with the exception of information that is not required to be disclosed under the Freedom of Information Act (5 U.S.C. 552 *et seq.*). The Inspector General of the Department of Commerce may withhold the summaries of interviews conducted and documents acquired during the course of the investigation in the copy of the investigation report transmitted to the NOAA Corps officer or former NOAA Corps officer. If requested under this paragraph (a)(4), the summaries of interviews conducted and documents acquired during the course of the investigation shall be transmitted to the NOAA Corps officer or former NOAA Corps officer, with the exception of information that is not required to be disclosed under the Freedom of Information Act. This disclosure is separate from a disclosure resulting from a request submitted pursuant to the Freedom of Information Act or the Privacy Act (5 U.S.C. 552a *et seq.*). All other releases of information not made in accordance with this paragraph (a)(4) shall be processed pursuant to the respective disclosure statute that governs the request seeking those records. The items may be transmitted with the copy of the investigation report or within a reasonable time after the transmittal of the copy of the investigation report to the NOAA Corps officer or former NOAA Corps officer, regardless of whether the request for those items is made before or after the copy of the investigation report is transmitted to the NOAA Corps officer or former NOAA Corps officer.
+
+(5) Shall, if a determination is made that the investigation report cannot be issued within 180 days of receipt of the allegation, notify the Secretary and the NOAA Corps officer or former NOAA Corps officer making the allegation of the current progress of the investigation, the reasons why the investigation report will not be submitted within that time, and estimate the time remaining until completion and transmittal. Every 180 days thereafter until the transmission of the investigation report, the Inspector General of the Department of Commerce shall notify the Secretary and NOAA Corps officer or former NOAA Corps officer making the allegation of the current progress of the investigation and estimated time remaining until completion and transmittal of the investigation report.
+
+(6) At the request of the Records Examination Board, shall submit a copy of the investigation report to the Records Examination Board. If the Records Examination Board requests further evidence and a further report as provided in paragraph (b)(3) of this section, the Inspector General of the Department of Commerce shall respond within 30 days, and not later than every 30 days thereafter, until the transmission of the further report.
+
+(b) The Records Examination Board, under directions prescribed by the Director:
+
+(1) Shall consider an application for the correction of records made by a NOAA Corps officer or former NOAA Corps officer who has filed a complaint investigated by the Inspector General of the Department of Commerce alleging that a personnel action was taken, withheld, or threatened in reprisal for making or preparing or being perceived as making or preparing a protected communication.
+
+(2) Shall review the investigation report issued by the Inspector General of the Department of Commerce.
+
+(3) May ask the Inspector General to gather further evidence and issue a further report to the Records Examination Board.
+
+(4) Shall provide a summary of the record of its proceedings, along with its recommendations, to the NOAA Corps officer or former NOAA Corps officer who has filed a complaint not later than 90 days after the NOAA Corps officer or former NOAA Corps officer made a request to convene such a Records Examination Board.
+
+(5) Shall issue an appropriate recommendation to the Director concerning corrections, deletions, or additions to the NOAA Corps officer or former NOAA Corps officer's records not later than 90 days after the NOAA Corps officer or former NOAA Corps officer made a request to the Director to convene such a Records Examination Board. If the Records Examination Board requests a further report as provided under paragraph (b)(3) of this section and determines that it cannot issue recommendations within 90 days, the Records Examination Board shall notify the officer or former officer and the Director and provide an estimate of time remaining until completion.
+
+(c) If the Records Examination Board determines that a personnel action was taken, withheld, or threatened in reprisal for a NOAA Corps officer making or preparing or being perceived as making or preparing a protected communication, the Records Examination Board shall forward its recommendation to the Director for appropriate correction of the NOAA Corps officer's or former NOAA Corps officer's records.
+
+(d) When reprisal is found, the Director:
+
+(1) Shall issue a decision concerning the correction of the NOAA Corps officer's or former NOAA Corps officer's records within 60 days of receiving the Records Examination Board's decision, but no sooner than 20 days after receiving the Records Examination Board decision to allow sufficient time for the NOAA Corps officer or former NOAA Corps officer to submit any written disagreement with the Records Examination Board's recommendations under paragraph (c) of this section, and ensure that appropriate corrective action is taken;
+
+(2) Shall notify the Inspector General of his or her decision concerning an application for the correction of personnel records of a NOAA Corps officer or former NOAA Corps officer who alleged reprisal for making or preparing or being perceived as making or preparing a protected communication at the time the Director issues a decision under paragraph (d)(1) of this section; and
+
+(3) Shall take appropriate administrative disciplinary action against the individual or individuals found to have taken, withheld, or threatened a personnel action as reprisal if those individuals are under the Director's chain of command. If those individuals are not under the Director's chain of command, refer those individuals to the Deputy Under Secretary for Operations for appropriate administrative disciplinary action against the individual or individuals found to have taken, withheld, or threatened a personnel action in reprisal.
+
+(e) The Deputy Under Secretary for Operations:
+
+(1) Shall provide an additional level of review concerning an application for the correction of personnel records of a NOAA Corps officer or former NOAA Corps officer within 90 days of the Director's decision if requested by the officer. If the Deputy Under Secretary for Operations fails to issue such a decision within that time, the NOAA Corps officer or former NOAA Corps officer shall be deemed to have exhausted their administrative remedies and the Director's decision constitutes the final agency action.
+
+(2) Shall take appropriate administrative disciplinary action against the individual or individuals found to have taken, withheld, or threatened a personnel action as reprisal if referred by the Director under paragraph (d) of this section.

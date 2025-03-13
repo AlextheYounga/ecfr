@@ -2,7 +2,7 @@
 
 (a) *Nature of ACC.* (1) An annual contributions contract (ACC) is a written contract between HUD and a PHA. Under the ACC, HUD agrees to make payments to the PHA, over a specified term, for housing assistance payments to owners and for the PHA administrative fee. The ACC specifies the maximum payment over the ACC term. The PHA agrees to administer the program in accordance with HUD regulations and requirements.
 
-(2) HUD's commitment to make payments for each funding increment in the PHA program constitutes a separate ACC. However, commitments for all the funding increments in a PHA program are listed in one consolidated contractual document called the consolidated annual contributions contract (consolidated ACC). A single consolidated ACC covers funding for the PHA's HCV program. .
+(2) HUD's commitment to make payments for each funding increment in the PHA program constitutes a separate ACC. However, commitments for all the funding increments in a PHA program are listed in one consolidated contractual document called the consolidated annual contributions contract (consolidated ACC). A single consolidated ACC covers funding for the PHA's HCV program.
 
 (b) *Budget authority.* (1) Budget authority is the maximum amount that may be paid by HUD to a PHA over the ACC term of a funding increment. Before adding a funding increment to the consolidated ACC for a PHA program, HUD reserves budget authority from amounts authorized and appropriated by the Congress for the program.
 

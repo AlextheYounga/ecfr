@@ -1,7 +1,5 @@
 ##### § 983.10 Project-based certificate (PBC) program. #####
 
-Link to an amendment published at 88 FR 30504, May 11, 2023.
-
 (a) *What is it?* “PBC program” means project-based assistance attached to units pursuant to an Agreement executed by a PHA and owner before January 16, 2001, and in accordance with:
 
 (1) The regulations for the PBC program at 24 CFR part 983, codified as of May 1, 2001 and contained in 24 CFR part 983 revised as of April 1, 2002; and
@@ -24,12 +22,10 @@ Link to an amendment published at 88 FR 30504, May 11, 2023.
 
 (i) *Special housing types.* HQS requirements for eligible special housing types, under this program, apply (See 24 CFR 982.605. 982.609 and 982.614).
 
-(ii) *Lead-based paint requirements.* (A) The lead-based paint requirements at 24 CFR 982.401(j) do not apply to the PBC program.
-
-(B) The Lead-based Paint Poisoning Prevention Act (42 U.S.C. 4821-4846), the Residential Lead-based Paint Hazard Reduction Act of 1992 (42 U.S.C. 4851-4856), and implementing regulations at 24 CFR part 35, subparts A, B, H, and R, apply to the PBV program.
+(ii) *Lead-based paint requirements.* The Lead-based Paint Poisoning Prevention Act (42 U.S.C. 4821-4846), the Residential Lead-based Paint Hazard Reduction Act of 1992 (42 U.S.C. 4851-4856), and implementing regulations at 24 CFR part 35, subparts A, B, H, and R of this title, apply to the PBC program.
 
 (iii) *HQS enforcement.* The regulations in 24 CFR parts 982 and 983 do not create any right of the family or any party, other than HUD or the PHA, to require enforcement of the HQS requirements or to assert any claim against HUD or the PHA for damages, injunction, or other relief for alleged failure to enforce the HQS.
 
 (c) *Statutory notice requirements.* In addition to provisions of 24 CFR part 983 codified as of May 1, 2001, § 983.206 applies to the PBC program.
 
-[70 FR 59913, Oct. 13, 2005, as amended at 79 FR 36166, June 25, 2014]
+[70 FR 59913, Oct. 13, 2005, as amended at 79 FR 36166, June 25, 2014; 88 FR 30504, May 11, 2023]

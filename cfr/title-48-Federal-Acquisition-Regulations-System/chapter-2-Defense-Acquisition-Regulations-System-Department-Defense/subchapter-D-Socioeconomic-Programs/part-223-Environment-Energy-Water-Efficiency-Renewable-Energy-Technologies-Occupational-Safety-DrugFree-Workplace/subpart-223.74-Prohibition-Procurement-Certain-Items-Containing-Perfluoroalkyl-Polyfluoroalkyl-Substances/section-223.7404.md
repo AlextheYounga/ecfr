@@ -1,0 +1,3 @@
+##### 223.7404 Contract clause. #####
+
+Use the clause at 252.223-7009, Prohibition of Procurement of Fluorinated Aqueous Film-Forming Foam Fire-Fighting Agent for Use on Military Installations, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services, relating to fire-fighting on military installations.

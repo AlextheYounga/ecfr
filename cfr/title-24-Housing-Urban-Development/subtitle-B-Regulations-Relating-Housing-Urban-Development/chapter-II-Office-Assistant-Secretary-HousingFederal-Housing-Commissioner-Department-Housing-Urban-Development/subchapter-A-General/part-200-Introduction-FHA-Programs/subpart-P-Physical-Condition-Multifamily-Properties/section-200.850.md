@@ -1,5 +1,5 @@
-##### § 200.850 Purpose. #####
+##### § 200.850 Physical condition standards and physical inspection requirements. #####
 
-Link to an amendment published at 88 FR 30498, May 11, 2023.
+The requirements in 24 CFR part 5, subpart G, are applicable to the multifamily properties assisted or insured that are listed in 24 CFR 5.701.
 
-The purpose of this subpart is to establish the physical conditions standards and physical inspection requirements that are applicable to certain multifamily housing properties.
+[88 FR 30498, May 11, 2023]

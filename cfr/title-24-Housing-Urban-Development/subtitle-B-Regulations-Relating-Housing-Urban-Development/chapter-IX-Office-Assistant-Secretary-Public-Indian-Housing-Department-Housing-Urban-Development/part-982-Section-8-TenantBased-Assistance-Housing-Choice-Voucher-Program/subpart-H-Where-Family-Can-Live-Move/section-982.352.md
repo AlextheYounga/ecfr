@@ -32,7 +32,7 @@ Link to an amendment published at 88 FR 30503, May 11, 2023.
 
 (*2*) To assist the family negotiate the rent to owner in accordance with § 982.506.
 
-(*3*) To inspect the unit for compliance with the HQS in accordance with § 982.305(a) and § 982.405 (except that § 982.405(e) is not applicable). The independent agency shall communicate the results of each such inspection to the family and the PHA.
+(*3*) To inspect the unit for compliance with the HQS in accordance with §§ 982.305(a) and 982.405. The independent entity shall communicate the results of each such inspection to the family and the PHA.
 
 (B) The independent agency used to perform these functions must be approved by HUD. The independent agency may be the unit of general local government for the PHA jurisdiction (unless the PHA is itself the unit of general local government or an agency of such government), or may be another HUD-approved independent agency.
 
@@ -64,4 +64,4 @@ Link to an amendment published at 88 FR 30503, May 11, 2023.
 
 (12) Any other duplicative federal, State, or local housing subsidy, as determined by HUD. For this purpose, “housing subsidy” does not include the housing component of a welfare payment, a social security payment received by the family, or a rent reduction because of a tax credit.
 
-(Approved by the Office of Management and Budget under control number 2577-0169)[60 FR 34695, July 3, 1995, as amended at 60 FR 45661, Sept. 1, 1995; 63 FR 23860, Apr. 30, 1998; 64 FR 13057, Mar. 16, 1999; 64 FR 26645, May 14, 1999; 65 FR 55162, Sept. 12, 2000]
+(Approved by the Office of Management and Budget under control number 2577-0169)[60 FR 34695, July 3, 1995, as amended at 60 FR 45661, Sept. 1, 1995; 63 FR 23860, Apr. 30, 1998; 64 FR 13057, Mar. 16, 1999; 64 FR 26645, May 14, 1999; 65 FR 55162, Sept. 12, 2000; 88 FR 30503, May 11, 2023]

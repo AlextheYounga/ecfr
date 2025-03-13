@@ -1,7 +1,5 @@
 ##### § 418.22 Certification of terminal illness. #####
 
-Link to an amendment published at 88 FR 51199, Aug. 2, 2023.
-
 (a) *Timing of certification*—(1) *General rule.* The hospice must obtain written certification of terminal illness for each of the periods listed in § 418.21, even if a single election continues in effect for an unlimited number of periods, as provided in § 418.24(c).
 
 (2) *Basic requirement.* Except as provided in paragraph (a)(3) of this section, the hospice must obtain the written certification before it submits a claim for payment.
@@ -14,7 +12,7 @@ Link to an amendment published at 88 FR 51199, Aug. 2, 2023.
 
 (4) *Face-to-face encounter.* (i) As of January 1, 2011, a hospice physician or hospice nurse practitioner must have a face-to-face encounter with each hospice patient whose total stay across all hospices is anticipated to reach the 3rd benefit period. The face-to-face encounter must occur prior to, but no more than 30 calendar days prior to, the 3rd benefit period recertification, and every benefit period recertification thereafter, to gather clinical findings to determine continued eligibility for hospice care.
 
-(ii) During a Public Health Emergency, as defined in § 400.200 of this chapter, if the face-to-face encounter conducted by a hospice physician or hospice nurse practitioner is for the sole purpose of hospice recertification, such encounter may occur via a telecommunications technology and is considered an administrative expense. *Telecommunications technology* means the use of interactive multimedia communications equipment that includes, at a minimum, the use of audio and video equipment permitting two-way, real-time interactive communication between the patient and the distant site hospice physician or hospice nurse practitioner.
+(ii) During a Public Health Emergency, as defined in § 400.200 of this chapter, or through December 31, 2024, whichever is later, if the face-to-face encounter conducted by a hospice physician or hospice nurse practitioner is for the sole purpose of hospice recertification, such encounter may occur via a telecommunications technology and is considered an administrative expense. *Telecommunications technology* means the use of interactive multimedia communications equipment that includes, at a minimum, the use of audio and video equipment permitting two-way, real-time interactive communication between the patient and the distant site hospice physician or hospice nurse practitioner.
 
 (b) *Content of certification.* Certification will be based on the physician's or medical director's clinical judgment regarding the normal course of the individual's illness. The certification must conform to the following requirements:
 
@@ -52,4 +50,4 @@ Link to an amendment published at 88 FR 51199, Aug. 2, 2023.
 
 (2) File written certifications in the medical record.
 
-[55 FR 50834, Dec. 11, 1990, as amended at 57 FR 36017, Aug. 12, 1992; 70 FR 45144, Aug. 4, 2005; 70 FR 70547, Nov. 22, 2005; 74 FR 39413, Aug. 6, 2009; 75 FR 70463, Nov. 17, 2010; 76 FR 47331, Aug. 4, 2011; 85 FR 19289, Apr. 6, 2020]
+[55 FR 50834, Dec. 11, 1990, as amended at 57 FR 36017, Aug. 12, 1992; 70 FR 45144, Aug. 4, 2005; 70 FR 70547, Nov. 22, 2005; 74 FR 39413, Aug. 6, 2009; 75 FR 70463, Nov. 17, 2010; 76 FR 47331, Aug. 4, 2011; 85 FR 19289, Apr. 6, 2020; 88 FR 51199, Aug. 2, 2023]

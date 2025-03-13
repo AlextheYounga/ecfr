@@ -1,15 +1,13 @@
-##### § 882.516 Maintenance, operation and inspections. #####
-
-Link to an amendment published at 88 FR 30499, May 11, 2023.
+##### § 882.516 Maintenance, operation, and inspections. #####
 
 (a) *Maintenance and operation.* The Owner must provide all the services, maintenance and utilities as agreed to under the Contract, subject to abatement of housing assistance payments or other applicable remedies if the Owner fails to meet these obligations.
 
-(b) *Periodic inspection.* In addition to the inspections required prior to execution of the Contract, the PHA must inspect or cause to be inspected each dwelling unit under Contract at least annually and at such other times as may be necessary to assure that the Owner is meeting the obligations to maintain the unit in decent, safe and sanitary condition and to provide the agreed upon utilities and other services. The PHA must take into account complaints and any other information coming to its attention in scheduling inspections.
+(b) *Periodic inspection.* In addition to the inspections required prior to execution of the Contract, the PHA must inspect or cause to be inspected the contract units in accordance with the physical inspection requirements under 24 CFR part 5, subpart G, at least annually, and at such other times as may be necessary to assure that the Owner is meeting the obligations to maintain the units so they are compliant with 24 CFR part 5, subpart G, and to provide the agreed upon utilities and other services. The PHA must take into account complaints and any other information coming to its attention in scheduling inspections.
 
-(c) *Units not decent, safe and sanitary.* If the PHA notifies the Owner that the unit(s) under Contract are not being maintained in decent, safe and sanitary condition and the Owner fails to take corrective action (including corrective action with respect to the Family where the condition of the unit is the fault of the Family) within the time prescribed in the notice, the PHA may exercise any of its rights or remedies under the Contract, including abatement of housing assistance payments (even if the Family continues in occupancy), termination of the Contract on the affected unit(s) and assistance to the Family in accordance with § 882.514(e).
+(c) *Units with health and safety hazards.* If the PHA notifies the Owner that the unit(s) under Contract are not being maintained in compliance with the standards under 24 CFR part 5, subpart G, and the Owner fails to take corrective action (including corrective action with respect to the Family where the condition of the unit is the fault of the Family) within the time prescribed in the notice, the PHA may exercise any of its rights or remedies under the Contract, including abatement of housing assistance payments (even if the Family continues in occupancy) or termination of the Contract on the affected unit(s) and assistance to the Family in accordance with § 882.514(e).
 
 (d) *PHA management.* Where the PHA is managing units on which it is also administering the Housing Assistance Payments Contract pursuant to a management contract approved by HUD in accordance with § 882.412, HUD will make reviews of project operations, including inspections, in addition to required PHA reviews. These HUD reviews will be sufficient to assure that the Owner and the PHA are in full compliance with the terms and conditions of the Contract and the ACC. Should HUD determine that there are deficiencies, it may exercise any rights or remedies specified for the PHA under the Contract or reserved for HUD in the ACC, require termination of the management contract, or take other appropriate action.
 
-(e) Periodic PHA audits must be conducted as required by HUD, in accordance with 2 CFR part 200, subpart F .
+(e) *Periodic reviews.* Periodic PHA audits must be conducted as required by HUD, in accordance with 2 CFR part 200, subpart F.
 
-[47 FR 34383, Aug. 9, 1982, as amended at 53 FR 8065, Mar. 11, 1988; 80 FR 75941, Dec. 7, 2015]
+[47 FR 34383, Aug. 9, 1982, as amended at 53 FR 8065, Mar. 11, 1988; 80 FR 75941, Dec. 7, 2015; 88 FR 30499, May 11, 2023]

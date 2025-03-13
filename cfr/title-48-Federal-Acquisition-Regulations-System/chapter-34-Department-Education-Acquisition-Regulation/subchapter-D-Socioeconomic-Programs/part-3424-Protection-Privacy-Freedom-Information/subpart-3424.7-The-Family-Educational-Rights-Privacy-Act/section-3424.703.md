@@ -1,0 +1,3 @@
+##### 3424.703 Procedures. #####
+
+During acquisition planning, the requiring activity, in consultation with the Department's Senior Agency Official for Privacy (SAOP) and Director of the Student Privacy Policy Office (SPPO Director), must review requirements to determine whether the contract will require the Department to share PII from students' education records with its contractor or authorize its contractor to collect such PII from students' education records for the purposes of conducting a study, evaluation, or audit of a federally supported education program, or the enforcement of Federal legal requirements that relate to such education programs. The requiring activity must notify the contracting officer of the determination.

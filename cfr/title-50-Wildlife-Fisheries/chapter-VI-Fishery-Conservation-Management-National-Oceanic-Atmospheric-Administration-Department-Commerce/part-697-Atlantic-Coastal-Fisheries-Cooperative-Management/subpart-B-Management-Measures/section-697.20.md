@@ -1,5 +1,7 @@
 ##### § 697.20 Size, harvesting and landing requirements. #####
 
+Link to an amendment published at 88 FR 67679, Oct. 2, 2023.
+
 (a) *Minimum lobster carapace length.* (1) The minimum lobster carapace length for all American lobsters harvested in or from the EEZ Nearshore Management Area 1 or the EEZ Nearshore Management Area 6 is 31/4 inches (8.26 cm).
 
 (2) The minimum lobster carapace length for all American lobsters landed, harvested, or possessed by vessels issued a Federal limited access American lobster permit fishing in or electing to fish in the Nearshore Management Area 1 or the EEZ Nearshore Management Area 6 is 3 31/4 inches (8.26 cm).
