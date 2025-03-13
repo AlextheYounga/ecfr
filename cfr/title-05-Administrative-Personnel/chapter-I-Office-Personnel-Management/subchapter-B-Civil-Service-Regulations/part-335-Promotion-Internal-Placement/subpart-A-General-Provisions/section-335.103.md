@@ -1,7 +1,5 @@
 ##### § 335.103 Agency promotion programs. #####
 
-Link to an amendment published at 89 FR 60298, July 25, 2024.
-
 (a) *Merit promotion plans.* Except as otherwise specifically authorized by OPM, an agency may make promotions under § 335.102 of this part only to positions for which the agency has adopted and is administering a program designed to insure a systematic means of selection for promotion according to merit. These programs shall conform to the requirements of this section.
 
 (b) *Merit promotion requirements*—(1) *Requirement 1.* Each agency must establish procedures for promoting employees that are based on merit and are available in writing to candidates. Agencies must list appropriate exceptions, including those required by law or regulation, as specified in paragraph (c) of this section. Actions under a promotion plan—whether identification, qualification, evaluation, or selection of candidates—must be made without regard to race, color, religion, sex (including pregnancy and gender identity), national origin, age (as defined by the Age Discrimination in Employment Act of 1967, as amended), disability, genetic information (including family medical history), marital status, political affiliation, sexual orientation, labor organization affiliation or nonaffiliation, status as a parent, or any other non-merit-based factor, unless specifically designated by statute as a factor that must be taken into consideration when awarding such benefits, or retaliation for exercising rights with respect to the categories enumerated above, where retaliation rights are available, and must be based solely on job-related criteria.
@@ -30,9 +28,11 @@ Link to an amendment published at 89 FR 60298, July 25, 2024.
 
 (2) *Noncompetitive actions.* Competitive procedures do not apply to:
 
-(i) A promotion resulting from the upgrading of a position without significant change in the duties and responsibilities due to issuance of a new classification standard or the correction of an initial classification error; and
+(i) A promotion resulting from the upgrading of a position without significant change in the duties and responsibilities due to issuance of a new classification standard or the correction of an initial classification error;
 
-(ii) A position change permitted by reduction-in-force procedures in part 351 of this chapter.
+(ii) A position change permitted by reduction-in-force procedures in part 351 of this chapter; and
+
+(iii) A retroactive temporary promotion to a higher-graded position pursuant to a determination by an appropriate authority as defined in 5 CFR 550.803.
 
 (3) *Discretionary actions.* Agencies may at their discretion except the following actions from competitive procedures of this section:
 
@@ -54,4 +54,4 @@ Link to an amendment published at 89 FR 60298, July 25, 2024.
 
 (d) *Grievances.* Employees have the right to file a complaint relating to a promotion action. Such complaints shall be resolved under appropriate grievance procedures. The standards for adjudicating complaints are set forth in part 300, subpart A, of this chapter. While the procedures used by an agency to identify and rank qualified candidates may be proper subjects for formal complaints or grievances, nonselection from among a group of properly ranked and certified candidates is not an appropriate basis for a formal complaint or grievance. There is no right of appeal of OPM, but OPM may conduct investigations of substantial violations of OPM requirements.
 
-[59 FR 67121, Dec. 29, 1994, as amended at 63 FR 34258, June 24, 1998; 70 FR 72067, Dec. 1, 2005; 79 FR 43922, July 29, 2014; 86 FR 30379, June 8, 2021]
+[59 FR 67121, Dec. 29, 1994, as amended at 63 FR 34258, June 24, 1998; 70 FR 72067, Dec. 1, 2005; 79 FR 43922, July 29, 2014; 86 FR 30379, June 8, 2021; 89 FR 60298, July 25, 2024]

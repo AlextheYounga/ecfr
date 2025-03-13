@@ -10,7 +10,7 @@ Each employee shall become acquainted with each statute that relates to the empl
 
 (3) The prohibition against lobbying with appropriated funds (18 U.S.C. 1913).
 
-(4) The prohibitions against disloyalty and striking (5 U.S.C. 7311, 18 U.S.C. 1918).1
+(4) The prohibitions against disloyalty and striking (5 U.S.C. 7311, 18 U.S.C. 1918). 1
 
 1 The Courts have stricken from the Code any prohibition against assertion of the right to strike on the basis that such an assertion is a protected right under the First Amendment to the Constitution.
 

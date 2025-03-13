@@ -4,4 +4,4 @@
 
 (b) For those persons not normally accredited, the Chief of Protocol shall determine upon receipt of notification, by letter from the foreign government or international organization concerned, whether any person who is the subject of such a notification has been duly notified under the Act. Any inquiries by law enforcement officers or other persons as to whether a person has been duly notified shall be directed to the Chief of Protocol. The determination of the Chief of Protocol that a person has been duly notified is final.
 
-(18 U.S.C. 1116(b)(2), 1116(c)(4); sec. 4 of the Act of May 26, 1949, as amended (22 U.S.C. 2658))[37 FR 24818, Nov. 22, 1972]
+(18 U.S.C. 1116(b)(2), 1116(c)(4); sec. 4 of the Act of May 26, 1949, as amended (22 U.S.C. 2658)) [37 FR 24818, Nov. 22, 1972]

@@ -17,4 +17,3 @@
 (d) *Applicability date.* This section applies to taxable years ending after December 4, 2023.
 
 [T.D. 9995, 89 FR 37754, May 6, 2024]
-SECTION\>

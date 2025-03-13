@@ -24,7 +24,7 @@
 
 (1) *Search.* (i) Requests made by educational institutions, non-commercial scientific institutions, or representatives of the news media are not subject to search fees. Search fees shall be charged for all other requesters, subject to the restrictions of paragraph (j) of this section. The Department may properly charge for time spent searching even if responsive records are not located, or if records are determined to be entirely exempt from disclosure.
 
-(ii) For each hour spent by personnel searching for requested records, the fees shall be as stated at the following website: *foia.state.gov/Request/Guide.aspx*(section VII, “Fees”) and *www.stateoig.gov/foiafees* for OIG requested records.
+(ii) For each hour spent by personnel searching for requested records, the fees shall be as stated at the following website: *foia.state.gov/Request/Guide.aspx* (section VII, “Fees”) and *www.stateoig.gov/foiafees* for OIG requested records.
 
 (iii) For requests that require the retrieval of records stored by the Department at a Federal records center operated by the National Archives and Records Administration (NARA), the Department will charge additional costs in accordance with the Transactional Billing Rate Schedule established by NARA.
 

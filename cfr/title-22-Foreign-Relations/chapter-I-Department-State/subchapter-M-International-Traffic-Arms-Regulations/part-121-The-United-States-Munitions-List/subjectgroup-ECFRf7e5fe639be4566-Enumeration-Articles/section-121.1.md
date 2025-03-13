@@ -1558,13 +1558,13 @@ This paragraph does not control radars that: (1) Are incapable of free space det
 
 (vi) Any ocean surveillance radar that transmits a waveform with an instantaneous bandwidth greater than 100 MHz and has an antenna rotation rate greater than 60 revolutions per minute (RPM);
 
-(vii) Air surveillance radar with free space detection of 1 square meter RCS target at 85 nmi or greater range, scaled to RCS values as RCS to the1/4 power;
+(vii) Air surveillance radar with free space detection of 1 square meter RCS target at 85 nmi or greater range, scaled to RCS values as RCS to the 1/4 power;
 
 (viii) Air surveillance radar with free space detection of 1 square meter RCS target at an altitude of 65,000 feet and an elevation angle greater than 20 degrees (*i.e.,* counter-battery);
 
 (ix) [Reserved]
 
-(x) Air surveillance radar with a beam solid angle less than or equal to 16 degrees2 that performs free space tracking of 1 square meter RCS target at a range greater or equal to 25 nmi with revisit rate greater or equal to1/3 Hz;
+(x) Air surveillance radar with a beam solid angle less than or equal to 16 degrees2 that performs free space tracking of 1 square meter RCS target at a range greater or equal to 25 nmi with revisit rate greater or equal to 1/3 Hz;
 
 (xi) Instrumentation radar for anechoic test facility or outdoor range that maintains positional state of an object of interest in a received radar signal through time or provides measurement of RCS of a static target less than or equal to minus 10dBsm, or RCS of a dynamic target;
 
@@ -1602,8 +1602,7 @@ The definition of “type” in this paragraph is that provided in 14 CFR § 1.1
 
 (xxii) Radar employing automatic target recognition (ATR) (*i.e.,* recognition of target using structural features (e.g., tank versus car) of the target with system resolution better than (less than) 0.3 m);
 
-(xxiii) Radar that sends interceptor guidance commands or provides
-illumination keyed to an interceptor seeker;
+(xxiii) Radar that sends interceptor guidance commands or provides illumination keyed to an interceptor seeker;
 
 (xxiv) Radar employing waveform generation for LPI other than frequency modulated continuous wave (FMCW) with linear ramp modulation;
 
@@ -1783,7 +1782,7 @@ Fractional bandwidth is the bandwidth over which output power remains constant w
 
 Note to paragraph (c)(5):
 
-*Volumetric energy density* is Energy per unit Volume. *Mass energy density* is Energy per unit Mass, sometimes referred to as *Gravimetric energy density* or *Specific energy. Energy* (E =1/2CV2, where C is Capacitance and V is the rated voltage) in these calculations must not be confused with useful energy or extractable energy. *Rated voltage* is the value, based on the capacitor's design, testing, and evaluation, that describes the maximum amount of continuous voltage, at an operating temperature less than or equal to 85 degrees Celsius (85 °C), that will not damage the capacitor. *Rated voltage* does not include short-term transient or surge operating conditions.
+*Volumetric energy density* is Energy per unit Volume. *Mass energy density* is Energy per unit Mass, sometimes referred to as *Gravimetric energy density* or *Specific energy. Energy* (E = 1/2CV2, where C is Capacitance and V is the rated voltage) in these calculations must not be confused with useful energy or extractable energy. *Rated voltage* is the value, based on the capacitor's design, testing, and evaluation, that describes the maximum amount of continuous voltage, at an operating temperature less than or equal to 85 degrees Celsius (85 °C), that will not damage the capacitor. *Rated voltage* does not include short-term transient or surge operating conditions.
 
 (6) Radio frequency circulators of any dimension equal to or less than one quarter (1/4) wavelength of the highest operating frequency and isolation greater than 30 dB;
 
@@ -2083,7 +2082,7 @@ Note to paragraph (d)(2)(iv):
 
 Note to paragraph (d)(5):
 
-“Eotvos” is a unit of acceleration divided by distance that was used in conjunction with the older centimeter-gram-second system of units. The Eotvos is defined as1/1,000,000,000 Galileo (Gal) per centimeter.
+“Eotvos” is a unit of acceleration divided by distance that was used in conjunction with the older centimeter-gram-second system of units. The Eotvos is defined as 1/1,000,000,000 Galileo (Gal) per centimeter.
 
 (6) Developmental guidance or navigation systems funded by the Department of Defense (MT if designed or modified for rockets, missiles, SLVs, drones, or unmanned aerial vehicle systems capable of a range equal to or greater than 300 km).
 
@@ -2263,9 +2262,9 @@ This paragraph does not control carbon/carbon billets and preforms where reinfor
 
 (2) Transparent armor having Em greater than or equal to 1.3 or having Em less than 1.3 and meeting and exceeding NIJ Level III standards with areal density less than or equal to 40 pounds per square foot;
 
-(3) Transparent ceramic plate greater than1/4 inch-thick and larger than 8 inches × 8 inches, excluding glass, for transparent armor;
+(3) Transparent ceramic plate greater than 1/4 inch-thick and larger than 8 inches × 8 inches, excluding glass, for transparent armor;
 
-(4) Non-transparent ceramic plate or blanks, greater than1/4 inches thick and larger than 8 inches × 8 inches for transparent armor. This includes spinel and aluminum oxynitride (ALON);
+(4) Non-transparent ceramic plate or blanks, greater than 1/4 inches thick and larger than 8 inches × 8 inches for transparent armor. This includes spinel and aluminum oxynitride (ALON);
 
 (5) Composite armor with Em greater than 1.4 and meeting or exceeding NIJ Level III;
 
@@ -3243,7 +3242,7 @@ Category XXI—Articles, Technical Data, and Defense Services Not Otherwise Enum
 
 (b) Technical data (see § 120.33 of this subchapter) and defense services (see § 120.32 of this subchapter) directly related to the defense articles covered in paragraph (a) of this category.
 
-[58 FR 39287, July 22, 1993]Editorial Notes:1. For Federal Register citations affecting § 121.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[58 FR 39287, July 22, 1993] Editorial Notes:1. For Federal Register citations affecting § 121.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 2. At 79 FR 61228, Oct. 10, 2014, § 121.1 was amended by removing the word “enumerated” and adding in its place the word “described” in one place in Note 1 to paragraph (i) of Category VI; however, the amendment could not be incorporated because of inaccurate amendatory instruction.
 

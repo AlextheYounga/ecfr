@@ -1,7 +1,5 @@
 ##### § 344.7 What are Demand Deposit securities? #####
 
-Link to an amendment published at 89 FR 15449, Mar. 4, 2024.
-
 Demand Deposit securities are one-day certificates of indebtedness that are automatically rolled over each day until you request redemption.
 
 (a) *How is the rate for Demand Deposit securities determined?* Each security shall bear a rate of interest based on an adjustment of the average yield for 13-week Treasury bills at the most recent auction. A new annualized effective Demand Deposit rate and daily factor for the Demand Deposit rate are effective on the first business day following the regular auction of 13-week Treasury bills and are shown in the SLGS rate table. Interest is accrued and added to the principal daily. Interest is computed on the balance of the principal, plus interest accrued through the preceding day.
@@ -16,12 +14,10 @@ Demand Deposit securities are one-day certificates of indebtedness that are auto
 
 (2) *Where can I find additional information?* Information on the estimated average marginal tax rate and Treasury administrative costs for administering Demand Deposit securities, both to be determined by Treasury from time to time, will be published in the Federal Register.
 
-(b) *What happens to Demand Deposit securities during a Debt Limit Contingency?* At any time the Secretary determines that issuance of obligations sufficient to conduct the orderly financing operations of the United States cannot be made without exceeding the statutory debt limit, we will invest any unredeemed Demand Deposit securities in special ninety-day certificates of indebtedness. Funds invested in the ninety-day certificates of indebtedness earn simple interest equal to the daily factor in effect at the time Demand Deposit security issuance is suspended, multiplied by the number of days outstanding. When regular Treasury borrowing operations resume, the ninety-day certificates of indebtedness, at the owner's option, are:
+(b) *What happens to Demand Deposit securities during a debt limit contingency?* At any time the Secretary determines that issuance of obligations sufficient to conduct the orderly financing operations of the United States cannot be made without exceeding the statutory debt limit, we may invest any unredeemed Demand Deposit securities in special 90-day certificates of indebtedness.
 
-(1) Payable at maturity;
+(1) Funds left invested in Demand Deposit securities remain subject to the normal terms and conditions for such securities as set forth in this part.
 
-(2) Redeemable before maturity, provided funds are available for redemption; or
+(2) Funds invested in 90-day certificates of indebtedness earn simple interest equal to the daily factor in effect at the time Demand Deposit security issuance is suspended, multiplied by the number of days outstanding. Ninety-day certificates of indebtedness are subject to the same request for redemption notification requirements as those for Demand Deposit securities and will be redeemed at par value plus accrued interest. If a 90-day certificate of indebtedness reaches maturity during a debt limit contingency, we will automatically roll it into a new 90-day certificate of indebtedness, along with accrued interest, that earns simple interest equal to the daily factor in effect at the time that the new 90-day certificate of indebtedness is issued, multiplied by the number of days outstanding. When regular Treasury borrowing operations resume, the 90-day certificates of indebtedness, along with accrued interest, will be reinvested in Demand Deposit securities.
 
-(3) Reinvested in Demand Deposit securities.
-
-[70 FR 37911, June 30, 2005, as amended at 77 FR 33635, June 7, 2012]
+[70 FR 37911, June 30, 2005, as amended at 77 FR 33635, June 7, 2012; 89 FR 15449, Mar. 4, 2024]

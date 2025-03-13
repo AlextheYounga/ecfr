@@ -1,14 +1,12 @@
 ##### § 51.28 Minors. #####
 
-Link to an amendment published at 89 FR 60568, July 26, 2024.
-
 (a) *Minors under age 16*—(1) *Personal appearance.* Minors under 16 years of age applying for a passport must appear in person, unless the personal appearance of the minor is specifically excused by a senior passport authorizing officer, pursuant to guidance issued by the Department. In cases where personal appearance is excused, the person(s) executing the passport application on behalf of the minor shall appear in person and verify the application by oath or affirmation before a person authorized by the Secretary to administer oaths or affirmations, unless these requirements are also excused by a senior passport authorizing officer pursuant to guidance issued by the Department.
 
 (2) *Execution of passport application by both parents or by each legal guardian.* Except as specifically provided in this section, both parents or each of the minor's legal guardians, if any, whether applying for a passport for the first time or for a renewal, must execute the application on behalf of a minor under age 16 and provide documentary evidence of parentage or legal guardianship showing the minor's name, date and place of birth, and the names of the parent or parents or legal guardian.
 
 (3) *Execution of passport application by one parent or legal guardian.* A passport application may be executed on behalf of a minor under age 16 by only one parent or legal guardian if such person provides:
 
-(i) A notarized written statement or affidavit from the non-applying parent or legal guardian, if applicable, consenting to the issuance of the passport, or
+(i) A written statement or affidavit from the non-applying parent or legal guardian, if applicable, consenting to the issuance of the passport, and signed before a notary public or, when authorized by the Department, a passport specialist at a public passport agency/center counter operated by the Department of State.
 
 (ii) Documentary evidence that such person is the sole parent or has sole custody of the minor. Such evidence includes, but is not limited to, the following:
 
@@ -24,9 +22,9 @@ Link to an amendment published at 89 FR 60568, July 26, 2024.
 
 (F) An order of a court of competent jurisdiction providing for joint legal custody or requiring the permission of both parents or the court for important decisions will be interpreted as requiring the permission of both parents or the court, as appropriate. Notwithstanding the existence of any such court order, a passport may be issued when compelling humanitarian or emergency reasons relating to the welfare of the minor exist.
 
-(4) *Execution of passport application by a person acting in loco parentis.* (i) A person may apply in loco parentis on behalf of a minor under age 16 by submitting a notarized written statement or a notarized affidavit from both parents or each legal guardian, if any, specifically authorizing the application.
+(4) *Execution of passport application by a person acting in loco parentis.* (i) A person may apply in loco parentis on behalf of a minor under age 16 by submitting a written statement or affidavit from all parents or each legal guardian, if any, specifically authorizing the application, and signed before a notary public or, when authorized by the Department, a passport specialist at a public passport agency/center counter operated by the Department of State.
 
-(ii) If only one parent or legal guardian provides the notarized written statement or notarized affidavit, the applicant must provide documentary evidence that an application may be made by one parent or legal guardian, consistent with § 51.28(a)(3)
+(ii) If only one parent or legal guardian provides the written statement or affidavit, the applicant must provide documentary evidence that an application may be made by one parent or legal guardian, consistent with this regulation.
 
 (5) *Exigent or special family circumstances.* A passport may be issued when only one parent, legal guardian or person acting in loco parentis executes the application, in cases of exigent or special family circumstances.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 89 FR 60568, July 26, 2024.
 
 (5) *Access by parents and legal guardians to passport records for minors.* Either parent or any legal guardian of a minor may upon written request obtain information regarding the application for and issuance of a passport to a minor, unless the requesting parent's parental rights have been terminated by an order of a court of competent jurisdiction, a copy of which has been provided to the Department. The Department may deny such information to a parent or legal guardian if it determines that the minor objects to disclosure and the minor is 16 years of age or older or if the Department determines that the minor is of sufficient age and maturity to invoke his or her own privacy rights.
 
-[72 FR 64931, Nov. 19, 2007, as amended at 88 FR 41025, June 23, 2023]
+[72 FR 64931, Nov. 19, 2007, as amended at 88 FR 41025, June 23, 2023; 89 FR 60568, July 26, 2024]

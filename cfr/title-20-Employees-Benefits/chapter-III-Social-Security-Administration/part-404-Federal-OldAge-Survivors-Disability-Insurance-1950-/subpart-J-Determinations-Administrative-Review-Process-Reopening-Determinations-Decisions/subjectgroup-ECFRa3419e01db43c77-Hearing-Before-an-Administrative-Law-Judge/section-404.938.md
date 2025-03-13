@@ -1,5 +1,7 @@
 ##### § 404.938 Notice of a hearing before an administrative law judge. #####
 
+Link to an amendment published at 89 FR 68362, Aug. 26, 2024.
+
 (a) *Issuing the notice.* After we set the time and place of the hearing, we will mail notice of the hearing to you at your last known address, or give the notice to you by personal service, unless you have indicated in writing that you do not wish to receive this notice. We will mail or serve the notice at least 75 days before the date of the hearing.
 
 (b) *Notice information.* The notice of hearing will tell you:

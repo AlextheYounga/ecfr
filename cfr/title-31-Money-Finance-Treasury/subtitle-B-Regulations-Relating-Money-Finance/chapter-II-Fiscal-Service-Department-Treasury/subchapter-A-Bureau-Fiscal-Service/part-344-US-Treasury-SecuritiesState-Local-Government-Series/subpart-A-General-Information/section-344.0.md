@@ -1,8 +1,6 @@
 ##### § 344.0 What does this part cover? #####
 
-Link to an amendment published at 89 FR 15447, Mar. 4, 2024.
-
-(a) *What is the purpose of the SLGS securities offering?* The Secretary of the Treasury (the Secretary) offers for sale non-marketable State and Local Government Series (SLGS) securities to provide issuers of tax-exempt securities with investments from any eligible source of funds (as defined in § 344.1).
+(a) *What is the purpose of the SLGS securities offering?* The Secretary of the Treasury (the Secretary) offers for sale non-marketable State and Local Government Series (SLGS) securities to provide issuers of tax-advantaged bonds with investments from any eligible source of funds (as defined in § 344.1) to assist issuers in complying with applicable provisions of the Internal Revenue Code.
 
 (b) *What types of SLGS securities are governed by this part?* This part governs the following SLGS securities:
 
@@ -16,12 +14,6 @@ Link to an amendment published at 89 FR 15447, Mar. 4, 2024.
 
 (2) *Demand Deposit securities*—may be issued as certificates of indebtedness.
 
-(3) *Special Zero Interest securities.* Special Zero Interest securities, which were discontinued on October 28, 1996, were issued as:
-
-(i) Certificates of indebtedness; or
-
-(ii) Notes.
-
 (c) *In what denominations are SLGS securities issued?* SLGS securities are issued in the following denominations:
 
 (1) *Time Deposit securities*—a minimum amount of $1,000, or in any larger whole dollar amount; and
@@ -29,3 +21,5 @@ Link to an amendment published at 89 FR 15447, Mar. 4, 2024.
 (2) *Demand Deposit securities*—a minimum amount of $1,000, or in any larger amount, in any increment.
 
 (d) *How long is the offering in effect?* The offering continues until terminated by the Secretary.
+
+[70 FR 37911, June 30, 2005, as amended at 89 FR 15447, Mar. 4, 2024]

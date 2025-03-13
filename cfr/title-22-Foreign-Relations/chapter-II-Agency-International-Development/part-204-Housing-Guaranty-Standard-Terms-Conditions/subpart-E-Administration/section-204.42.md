@@ -2,7 +2,7 @@
 
 Any communication to A.I.D. pursuant to this Guaranty shall be in writing in the English language, shall refer to the A.I.D. Housing Guaranty Project Number inscribed on the Eligible Note and shall be complete on the day it shall be actually received by A.I.D. at the address specified below:
 
-Mail Address: Office of Housing and Urban Programs, Agency for International Development, Washington, DC 20523. Re: A.I.D. Housing Guaranty Project \_\_\_\_-HG-\_\_\_\_1
+Mail Address: Office of Housing and Urban Programs, Agency for International Development, Washington, DC 20523. Re: A.I.D. Housing Guaranty Project \_\_\_\_-HG-\_\_\_\_ 1
 
 1 Enter title and numerical designation of the relevant A.I.D. Housing Guaranty Project as inscribed on each Note guaranty legend.
 

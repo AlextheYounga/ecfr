@@ -1,0 +1,13 @@
+##### § 1.179D-3 Rules relating to the increased deduction for prevailing wage and apprenticeship. #####
+
+(a) In general. If any energy efficient commercial building property (as defined in section 179D(c)(1)), energy efficient building retrofit property (as defined in section 179D(f)(3)), or property installed pursuant to a qualified retrofit plan (as defined in section 179D(f)(2)) satisfies the requirements in paragraph (b) of this section, the applicable dollar value for determining the maximum amount of the deduction determined under section 179D(b)(2) is the increased amount described in section 179D(b)(3)(A). For purposes of this section, installation means those activities described in §§ 1.45-7(d)(3) and 1.45-8(g)(1) that are performed with respect to energy efficient commercial building property, energy efficient building retrofit property, or property installed pursuant to a qualified retrofit plan within the meaning of section 179D before such property is placed in service.
+
+(b) *Certain energy efficient commercial building property requirements.* Energy efficient commercial building property, energy efficient building retrofit property, or property installed pursuant to a qualified retrofit plan satisfies the requirements of this paragraph (b) if it is one of the following—
+
+(1) Property the installation of which began prior to January 29, 2023; or
+
+(2) Property that meets the prevailing wage requirements of section 45(b)(7) of the Code and § 1.45-7, the apprenticeship requirements of section 45(b)(8) of the Code and § 1.45-8, and the recordkeeping and reporting requirements of § 1.45-12, all with respect to the installation of any property.
+
+(c) *Applicability date.* This section applies to energy efficient commercial building property, energy efficient building retrofit property, or property installed pursuant to a qualified retrofit plan installed in taxable years ending after June 25, 2024, and the installation of which begins after June 25, 2024. Taxpayers may apply this section to energy efficient commercial building property, energy efficient building retrofit property, or property installed pursuant to a qualified retrofit plan installed in taxable years ending on or before June 25, 2024, and energy efficient commercial building property, energy efficient building retrofit property, or property installed pursuant to a qualified retrofit plan installed in taxable years ending after June 25, 2024, the installation of which begins before June 25, 2024, provided that taxpayers follow this section in its entirety and in a consistent manner.
+
+[T.D. 9998, 89 FR 53272, June 25, 2024]

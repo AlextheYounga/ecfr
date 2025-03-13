@@ -4,7 +4,7 @@
 
 (b) The request for review must be in writing and may be presented in person or by mail to:
 
-Director, International Development Cooperation Agency, 2201 C Street, NW., Washington, DC 20523. Attention: Privacy Review Request.Director, Office of External Affairs, Agency for International Development, 2201 C Street, NW., Washington, DC 20523. Attention: Privacy Review Request.Both the envelope and the letter should be clearly marked: Attention: Privacy Review Request. Such request should include any documentation, information or statements advanced for the amendment of the record, and a copy of the initial adverse determination.
+Director, International Development Cooperation Agency, 2201 C Street, NW., Washington, DC 20523. Attention: Privacy Review Request. Director, Office of External Affairs, Agency for International Development, 2201 C Street, NW., Washington, DC 20523. Attention: Privacy Review Request.Both the envelope and the letter should be clearly marked: Attention: Privacy Review Request. Such request should include any documentation, information or statements advanced for the amendment of the record, and a copy of the initial adverse determination.
 
 (c) Upon receipt of the request for review, the Director or the Assistant Administrator, or an officer of the Agency designated in writing by the Director or Administrator, shall undertake an independent review of the initial determination.
 

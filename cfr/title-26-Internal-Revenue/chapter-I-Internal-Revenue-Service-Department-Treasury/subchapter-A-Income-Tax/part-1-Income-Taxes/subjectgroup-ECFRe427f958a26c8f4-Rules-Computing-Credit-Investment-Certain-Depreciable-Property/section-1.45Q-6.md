@@ -1,0 +1,15 @@
+##### § 1.45Q-6 Rules relating to the increased credit amount for prevailing wage and apprenticeship. #####
+
+(a) *In general.* If the requirements in paragraph (b) of this section are satisfied with respect to any qualified facility or any carbon capture equipment placed in service at that facility, then the credit determined under section 45Q(a) is multiplied by five.
+
+(b) *Qualified facility and carbon capture equipment requirements.* The requirements of this paragraph (b) are satisfied if any of the following requirements are met—
+
+(1) With respect to a qualified facility within the meaning of section 45Q the construction of which begins on or after January 29, 2023, and any carbon capture equipment within the meaning of section 45Q placed in service at such facility, the taxpayer meets the prevailing wage requirements of section 45(b)(7) and § 1.45-7 with respect to the construction of such facility and equipment and with respect to the alteration or repair of such facility and equipment for any taxable year, for any portion of such taxable year that is within the period described in section 45Q(3)(A) or (4)(A) after the facility or equipment was originally placed in service, the apprenticeship requirements of section 45(b)(8) and § 1.45-8, and the recordkeeping and reporting requirements of § 1.45-12;
+
+(2) With respect to any carbon capture equipment within the meaning of section 45Q the construction of which begins on or after January 29, 2023, and that is installed at a qualified facility the construction of which began prior to January 29, 2023, the taxpayer meets the prevailing wage requirements of section 45(b)(7) and § 1.45-7 with respect to the construction of such equipment and with respect to the alteration or repair of such equipment for any taxable year, for any portion of such taxable year that is within the period described in section 45Q(3)(A) or (4)(A) after the equipment was originally placed in service, the apprenticeship requirements of section 45(b)(8) and § 1.45-8, and the recordkeeping and reporting requirements of § 1.45-12; or
+
+(3) Carbon capture equipment within the meaning of section 45Q the construction of which began prior to January 29, 2023, and such equipment is installed at a qualified facility the construction of which began prior to January 29, 2023.
+
+(c) *Applicability date.* This section applies to qualified facilities and carbon capture equipment placed in service in taxable years ending after June 25, 2024, and the construction of which begins after June 25, 2024. Taxpayers may apply this section to qualified facilities and carbon capture equipment placed in service in taxable years ending on or before June 25, 2024, and qualified facilities and carbon capture equipment placed in service in taxable years ending after June 25, 2024, the construction of which begins before June 25, 2024, provided that taxpayers follow this section in its entirety and in a consistent manner.
+
+[T.D. 9998, 89 FR 53271, June 25, 2024]

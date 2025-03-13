@@ -1,5 +1,7 @@
 ##### § 416.1476 Procedures before the Appeals Council. #####
 
+Link to an amendment published at 89 FR 68364, Aug. 26, 2024.
+
 (a) *Limitation of issues.* The Appeals Council may limit the issues it considers if it notifies you and the other parties of the issues it will review.
 
 (b) *Evidence the Appeals Council will exhibit.* The Appeals Council will evaluate all additional evidence it receives, but will only mark as an exhibit and make part of the official record additional evidence that it determines meets the requirements of § 416.1470(a)(5) and (b). If we need to file a certified administrative record in Federal court, we will include in that record all additional evidence the Appeals Council received during the administrative review process, including additional evidence that the Appeals Council received but did not exhibit or make part of the official record.

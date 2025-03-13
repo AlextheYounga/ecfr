@@ -1,5 +1,7 @@
 ##### § 404.937 Protecting the safety of the public and our employees in our hearing process. #####
 
+Link to an amendment published at 89 FR 68361, Aug. 26, 2024.
+
 (a) Notwithstanding any other provision in this part or part 422 of this chapter, we are establishing the procedures set out in this section to ensure the safety of the public and our employees in our hearing process.
 
 (b)(1) At the request of any hearing office employee, the Hearing Office Chief Administrative Law Judge will determine, after consultation with the presiding administrative law judge, whether a claimant or other individual poses a reasonable threat to the safety of our employees or other participants in the hearing. The Hearing Office Chief Administrative Law Judge will find that a claimant or other individual poses a threat to the safety of our employees or other participants in the hearing when he or she determines that the individual has made a threat and there is a reasonable likelihood that the claimant or other individual could act on the threat or when evidence suggests that a claimant or other individual poses a threat. In making a finding under this paragraph, the Hearing Office Chief Administrative Law Judge will consider all relevant evidence, including any information we have in the claimant's record and any information we have regarding the claimant's or other individual's past conduct.

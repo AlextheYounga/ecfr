@@ -10,4 +10,4 @@ Unless special instructions to the contrary are received, the various papers com
 
 (d) Closing certificate.
 
-All of these papers should be fastened together with ribbon, the ends of which should be secured beneath the notarizing officer's seal affixed to the closing certificate.[22 FR 10858, Dec. 27, 1957, as amended at 60 FR 51723, Oct. 3, 1995]
+All of these papers should be fastened together with ribbon, the ends of which should be secured beneath the notarizing officer's seal affixed to the closing certificate. [22 FR 10858, Dec. 27, 1957, as amended at 60 FR 51723, Oct. 3, 1995]

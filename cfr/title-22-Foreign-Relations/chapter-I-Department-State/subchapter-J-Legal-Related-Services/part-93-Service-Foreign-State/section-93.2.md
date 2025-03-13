@@ -10,7 +10,7 @@
 
 (e) A party shall attach, as part of the Notice of Suit, a copy of the Foreign State Immunities Act of 1976 (Pub. L. 94-583; 90 Stat. 2891).
 
-AnnexNotice of Suit (or of Default Judgment1)
+Annex Notice of Suit (or of Default Judgment 1)
 
 1 Relevant only if items 4 and 6 indicate that a default judgment has occurred.
 
