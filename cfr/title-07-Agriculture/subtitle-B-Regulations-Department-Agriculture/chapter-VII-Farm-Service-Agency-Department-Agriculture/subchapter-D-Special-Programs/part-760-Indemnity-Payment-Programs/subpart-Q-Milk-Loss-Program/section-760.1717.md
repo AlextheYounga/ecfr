@@ -1,3 +1,5 @@
-##### § 760.1717 Availability of funds. #####
+##### § 760.1717 Assignment. #####
 
-Milk loss program payments will be made on a first-come, first-served basis. Applications received after all funds are used will not be paid.
+No assignment will be made of any milk loss payment due or to come due under the regulations in this subpart. Any assignment or attempted assignment of any indemnity payment due or to come due under this subpart will be null and void.
+
+[84 FR 48534, Sept. 13, 2019. Redesignated at 88 FR 62290, Sept. 11, 2023]

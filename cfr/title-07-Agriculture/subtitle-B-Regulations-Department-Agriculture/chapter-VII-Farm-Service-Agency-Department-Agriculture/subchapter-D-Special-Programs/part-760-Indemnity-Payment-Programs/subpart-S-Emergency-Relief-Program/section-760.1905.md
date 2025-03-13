@@ -12,7 +12,7 @@
 
 (2) The producer's disaster year allowable gross revenue; minus
 
-(3) The sum of the producer's net ERP Phase 1 payments for the 2020 program year, if the calculation is for the 2020 disaster year, or for the 2021 and 2022 program years, if the calculation is for the 2021 disaster year; minus
+(3) The sum of the producer's gross ERP Phase 1 payments for the 2020 program year, if the calculation is for the 2020 disaster year, or for the 2021 and 2022 program years, if the calculation is for the 2021 disaster year; minus
 
 (4) The sum of the producer's net CFAP payments (excluding payments for contract producer revenue), net 2020 WHIP+ payments, and net 2020 Quality Loss Adjustment (QLA) Program payments, if the calculation is for the 2020 disaster year; and
 
@@ -23,3 +23,5 @@
 (d) After the close of the ERP Phase 2 application period, FSA will issue a final payment equal to the amount calculated according to this section minus the amount of the producer's initial payment. If total calculated payments exceed the total funding available for ERP Phase 2, the ERP factor may be adjusted and the final payment amounts will be prorated to stay within the amount of available funding. If there are insufficient funds, a differential of 15 percent will be used for underserved producers similar to ERP Phase 1, but with a cap at the statutory maximum of 70 percent. For example, if the ERP Factor is set at 50 percent, the factor used for underserved producers will be 65 percent, but if the factor is set at 55 percent or higher, the factor for underserved producers will be capped at 70 percent.
 
 (e) If a producer receives assistance through CFAP or ERP Phase 1 after their ERP Phase 2 payment is calculated, the producer's ERP Phase 2 payment will be recalculated and the producer must refund any resulting overpayment.
+
+[88 FR 1883, Jan. 11, 2023, as amended at 88 FR 62292, Sept. 11, 2023]

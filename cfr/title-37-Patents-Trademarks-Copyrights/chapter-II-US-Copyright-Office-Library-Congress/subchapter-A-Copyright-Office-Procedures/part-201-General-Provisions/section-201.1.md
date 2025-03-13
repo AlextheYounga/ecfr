@@ -1,7 +1,5 @@
 ##### § 201.1 Communication with the Copyright Office. #####
 
-Link to an amendment published at 88 FR 54493, Aug. 11, 2023.
-
 (a) *General purpose addresses.* Members of the public must use the correct address in order to facilitate timely receipt by the U.S. Copyright Office division or section to which an inquiry should be directed. The address set forth in paragraph (b) may be used for general inquiries made to a particular division or section of the U.S. Copyright Office. Addresses for special, limited purposes are provided below in paragraph (c) of this section. Please note that the Library of Congress no longer accepts direct deliveries from commercial couriers and messengers.1 For additional address information, including information on courier delivery, mail delays, or disruptions, please visit the “Contact us” section on the Office's website (*http://www.copyright.gov*). General questions may also be directed to the U.S. Copyright Office website submission form at: *http://www.copyright.gov/help/general-form.html.*
 
 1*See* 69 FR 5371 (Feb. 4, 2004) and 68 FR 70039 (Dec. 16, 2003).
@@ -44,4 +42,6 @@ Link to an amendment published at 88 FR 54493, Aug. 11, 2023.
 
 (7) *Requests to remove PII from registration records.* Requests to remove personally identifiable information from registration records pursuant to §§ 201.2(e) and (f) should be addressed to: U.S. Copyright Office, Associate Register of Copyrights and Director of the Office of Public Information and Education. Requests may be submitted either electronically in the form and manner prescribed in instructions on the Office's website or by mail to P.O. Box 70400, Washington, DC 20024-0400, and clearly labeled “Request to Remove Requested PII,” “Request for Reconsideration Following Denial of Request to Remove Requested PII,” or “Request to Remove Extraneous PII,” as appropriate.
 
-[78 FR 42873, July 18, 2013, as amended at 82 FR 9007, Feb. 2, 2017; 82 FR 9355, Feb. 6, 2017; 82 FR 21697, May 10, 2017; 83 FR 4145, Jan. 30, 2018; 83 FR 61549, Nov. 30, 2018; 84 FR 60918, Nov. 12, 2019; 85 FR 19667, Apr. 8, 2020; 85 FR 10604, Feb. 25, 2020; 85 FR 31982, May 28, 2020; 86 FR 32641, June 22, 2021]
+(d) *Requests for an ex parte meeting.* The rules governing *ex parte* communications in informal rulemakings, including methods to request *ex parte* meetings, are found in 37 CFR 205.24.
+
+[78 FR 42873, July 18, 2013, as amended at 82 FR 9007, Feb. 2, 2017; 82 FR 9355, Feb. 6, 2017; 82 FR 21697, May 10, 2017; 83 FR 4145, Jan. 30, 2018; 83 FR 61549, Nov. 30, 2018; 84 FR 60918, Nov. 12, 2019; 85 FR 19667, Apr. 8, 2020; 85 FR 10604, Feb. 25, 2020; 85 FR 31982, May 28, 2020; 86 FR 32641, June 22, 2021; 88 FR 54493, Aug. 11, 2023]

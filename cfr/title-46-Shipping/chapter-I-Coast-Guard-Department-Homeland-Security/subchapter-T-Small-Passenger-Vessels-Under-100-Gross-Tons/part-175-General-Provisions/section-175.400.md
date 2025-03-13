@@ -116,6 +116,8 @@ The following terms are used in this subchapter:
 
 *Drydock examination* means hauling out a vessel or placing a vessel in a drydock or slipway for an examination of all accessible parts of the vessel's underwater body and all through-hull fittings and appurtenances.
 
+*DUKW amphibious passenger vessel* means a vessel that uses, modifies, or is derived from the GMC DUKW-353 design, and is operating as a small passenger vessel in waters subject to the jurisdiction of the United States, as defined in 33 CFR 2.38.
+
 *Embarkation station* means the place on the vessel from which a survival craft is boarded.
 
 *Enclosed space* means a compartment that is not exposed to the atmosphere when all access and ventilation closures are secured.
