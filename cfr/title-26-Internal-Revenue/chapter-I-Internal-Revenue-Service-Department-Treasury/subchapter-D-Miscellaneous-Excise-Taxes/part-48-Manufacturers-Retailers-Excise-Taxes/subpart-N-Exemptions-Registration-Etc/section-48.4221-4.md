@@ -49,4 +49,4 @@ I understand that if the articles are used for any purpose other than as stated 
 
 I understand that the fraudulent use of this certificate to secure exemption will subject me and all parties making such fraudulent use of this certificate to a fine of not more than $10,000, or to imprisonment for not more than 5 years, or both, together with costs of prosecution. I also understand that I must be prepared to establish by satisfactory evidence the purpose for which the article was used.
 
-(Signature)(Address)
+(Signature) (Address)

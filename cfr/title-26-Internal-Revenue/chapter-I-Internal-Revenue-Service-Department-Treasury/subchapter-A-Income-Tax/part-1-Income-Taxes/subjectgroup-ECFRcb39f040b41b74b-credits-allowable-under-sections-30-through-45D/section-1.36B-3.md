@@ -54,7 +54,7 @@ Example 4.Q, an American Indian, enrolls in a qualified health plan for 2014. Q'
 
 (B) Unpaid as of the unextended due date for filing the taxpayer's income tax return for the taxable year that includes the month; or
 
-(ii) The excess of the adjusted monthly premium for the applicable benchmark plan (benchmark plan premium) over1/12 of the product of a taxpayer's household income and the applicable percentage for the taxable year (the taxpayer's contribution amount).
+(ii) The excess of the adjusted monthly premium for the applicable benchmark plan (benchmark plan premium) over 1/12 of the product of a taxpayer's household income and the applicable percentage for the taxable year (the taxpayer's contribution amount).
 
 (2) *Examples.* The following examples illustrate the rules of paragraph (d)(1) of this section.
 

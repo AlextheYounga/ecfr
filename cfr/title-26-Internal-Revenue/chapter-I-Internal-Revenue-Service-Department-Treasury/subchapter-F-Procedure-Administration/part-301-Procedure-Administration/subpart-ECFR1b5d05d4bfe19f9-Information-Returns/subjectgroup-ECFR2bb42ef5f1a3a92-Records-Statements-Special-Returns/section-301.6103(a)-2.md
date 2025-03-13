@@ -4,4 +4,4 @@
 
 (b) *Exception.* Notwithstanding the provisions of paragraph (a) of this section, a return or return information (including taxpayer return information) disclosed before January 1, 1977, by the Service to an attorney of the Department of Justice or to an officer or employee of the Office of the Chief Counsel for the Service for a purpose related to tax administration as described in paragraph (a) may, after December 31, 1976, be disclosed by, or on behalf of, such attorney, officer, or employee in an administrative or judicial proceeding only if such proceeding is one described in section 6103(h)(4) of the Code and if the requirements of section 6103 (h)(4) have first been met.
 
-(Secs. 6103 and 7805 of the Internal Revenue Code of 1954 (90 Stat. 1667, 68A Stat. 917; 26 U.S.C. 6103 and 7805))[T.D. 7723, 45 FR 65567, Oct. 3, 1980]
+(Secs. 6103 and 7805 of the Internal Revenue Code of 1954 (90 Stat. 1667, 68A Stat. 917; 26 U.S.C. 6103 and 7805)) [T.D. 7723, 45 FR 65567, Oct. 3, 1980]

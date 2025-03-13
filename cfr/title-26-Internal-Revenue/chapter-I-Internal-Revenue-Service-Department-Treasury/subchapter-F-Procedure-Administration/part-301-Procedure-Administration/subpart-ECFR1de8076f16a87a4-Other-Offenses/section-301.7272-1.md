@@ -4,4 +4,4 @@
 
 (b) For provisions relating to registration under sections 4101, 4412, 4455, 4722, 4753, and 4804(d), see the regulations relating to the particular tax. For regulations under section 7011, see § 301.7011-1.
 
-Forfeituresproperty subject to forfeiture
+Forfeitures property subject to forfeiture

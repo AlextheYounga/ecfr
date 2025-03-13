@@ -10,4 +10,4 @@
 
 (b) *Judicial condemnation.* Personal property seized as subject to forfeiture under the internal revenue laws and this part which has an appraised value of more than $2,500 and such seized property which has an appraised value of $2,500 or less with respect to which a bond has been filed pursuant to paragraph (a)(4) of this section, shall be forfeited to the United States in judicial condemnation proceedings, as authorized by the Director, General Legal Services Division, Office of Chief Counsel, Internal Revenue Service, or his delegate.
 
-(Sec. 7323, 7325, 7326, 7401, 68A Stat. 869, 870, 873, 72 Stat. 1429, as amended; (26 U.S.C. 7323, 7325, 7326(a), 7401))[T.D. 7433, 41 FR 39312, Sept. 15, 1976, as amended by T.D. 7525, 42 FR 64344, Dec. 23, 1977]
+(Sec. 7323, 7325, 7326, 7401, 68A Stat. 869, 870, 873, 72 Stat. 1429, as amended; (26 U.S.C. 7323, 7325, 7326(a), 7401)) [T.D. 7433, 41 FR 39312, Sept. 15, 1976, as amended by T.D. 7525, 42 FR 64344, Dec. 23, 1977]

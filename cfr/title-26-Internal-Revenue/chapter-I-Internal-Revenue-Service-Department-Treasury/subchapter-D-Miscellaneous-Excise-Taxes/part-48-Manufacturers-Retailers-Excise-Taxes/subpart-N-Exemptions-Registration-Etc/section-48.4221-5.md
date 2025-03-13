@@ -14,7 +14,7 @@ I hereby certify that I am \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Title of Office
 
 I understand that the exemption from tax in the case of sales of articles under this exemption certificate to a State, etc., is limited to the sale of articles purchased for its exclusive use. I understand that the fraudulent use of this certificate for the purpose of securing this exemption will subject me and all parties making such fraudulent use of this certificate to a fine of not more than $10,000, or to imprisonment for not more than 5 years, or both, together with costs of prosecution.
 
-(Signature)(Address)
+(Signature) (Address)
 
 (2) A purchase order, provided that all of the information required by paragraph (c)(1) of this section is included therein, is acceptable in lieu of a separate exemption certificate.
 

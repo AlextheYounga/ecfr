@@ -48,4 +48,4 @@
 
 (g) *Applicability date.* The last sentence of paragraph (a)(2) of this section applies for the taxable years beginning on or after January 19, 2021.
 
-[T.D. 6500, 25 FR 11814, Nov. 26, 1960]Editorial Note:For Federal Register citations affecting § 1.702-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 6500, 25 FR 11814, Nov. 26, 1960] Editorial Note:For Federal Register citations affecting § 1.702-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

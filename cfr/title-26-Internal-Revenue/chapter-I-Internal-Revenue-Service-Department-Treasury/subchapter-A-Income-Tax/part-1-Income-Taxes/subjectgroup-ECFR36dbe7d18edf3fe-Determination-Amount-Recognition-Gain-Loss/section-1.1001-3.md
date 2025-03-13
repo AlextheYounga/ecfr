@@ -86,7 +86,7 @@ Example 12. Alteration requiring consent.The original terms of a bond include a 
 
 (ii) *In general.* A change in the yield of a debt instrument is a significant modification if the yield computed under paragraph (e)(2)(iii) of this section varies from the annual yield on the unmodified instrument (determined as of the date of the modification) by more than the greater of—
 
-(A)1/4 of one percent (25 basis points); or
+(A) 1/4 of one percent (25 basis points); or
 
 (B) 5 percent of the annual yield of the unmodified instrument (.05 × annual yield).
 

@@ -12,4 +12,4 @@
 
 (d) *Effective date.* This section shall apply to taxable years beginning after December 31, 1972.
 
-[T.D. 7304, 39 FR 4476, Feb. 4, 1974, as amended by T.D. 7643, 44 FR 50338, Aug. 28, 1979]Miscellaneous provisions
+[T.D. 7304, 39 FR 4476, Feb. 4, 1974, as amended by T.D. 7643, 44 FR 50338, Aug. 28, 1979] Miscellaneous provisions

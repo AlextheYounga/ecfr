@@ -2,7 +2,7 @@
 
 The application of the provisions of §§ 1.666(a)-1, 1.666(b)-1, and 1.666(c)-1 may be illustrated by the following examples:
 
-Example 1.(a) A trust makes accumulation distributions as follows: 1959$7,000 196025,000For 1954 through 1958, the undistributed portion of distributable net income taxes imposed on the trust, and undistributed net income are as follows:
+Example 1.(a) A trust makes accumulation distributions as follows: 1959$7,000  196025,000For 1954 through 1958, the undistributed portion of distributable net income taxes imposed on the trust, and undistributed net income are as follows:
 
 |Year|Undistributed portion of distributable net income|Taxes imposed on the trust|Undistributed net income|
 |----|-------------------------------------------------|--------------------------|------------------------|

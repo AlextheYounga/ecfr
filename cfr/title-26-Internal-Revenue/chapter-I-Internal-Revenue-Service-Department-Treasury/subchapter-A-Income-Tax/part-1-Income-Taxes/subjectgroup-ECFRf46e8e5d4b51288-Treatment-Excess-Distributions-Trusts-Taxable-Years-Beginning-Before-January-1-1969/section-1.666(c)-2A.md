@@ -12,7 +12,7 @@ Example 1.(a) A trust created on January 1, 1974, makes accumulation distributio
 |1977|                      None                       |                                 None                                  |          None          |
 |1978|                     10,100                      |                                 2,640                                 |         7,460          |
 
-The trust has no undistributed capital gain.(b) Since the entire amount of the accumulation distribution for 1979 ($7,000) is less than the undistributed net income for 1974 ($8,700), an additional amount of $2,736 (7,000/8,700 × $3,400) is deemed distributed under section 666(c).
+The trust has no undistributed capital gain. (b) Since the entire amount of the accumulation distribution for 1979 ($7,000) is less than the undistributed net income for 1974 ($8,700), an additional amount of $2,736 (7,000/8,700 × $3,400) is deemed distributed under section 666(c).
 
 (c) In allocating the accumulation distribution for 1980, the amount of undistributed net income for 1974 will reflect the accumulation distribution for 1979. The undistributed net income for 1974 will then be $1,700 and the taxes imposed on the trust for 1974 will be $664, determined as follows:
 

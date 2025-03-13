@@ -30,7 +30,7 @@
 
 (ii) *Monthly corporate bond yield curve constructed through averaging.* Each spot rate at a specified duration on the monthly corporate bond yield curve for a month is equal to the arithmetic average, for each business day of that month, of the spot rates at that duration on the daily corporate bond yield curves.
 
-(2) *Construction of the daily corporate bond yield curve*—(i) *In general*—(A) *Calculation of spot rates.* The spot rate at duration of1/2 year on the daily corporate bond yield curve is set equal to the yield at maturity of1/2 year from the daily par yield curve described in paragraph (d)(2)(i)(B) of this section. The spot rate for any later duration on the daily corporate bond yield curve is determined by applying an iterative process based on the spot rates at earlier durations and the daily par yield curve.
+(2) *Construction of the daily corporate bond yield curve*—(i) *In general*—(A) *Calculation of spot rates.* The spot rate at duration of 1/2 year on the daily corporate bond yield curve is set equal to the yield at maturity of 1/2 year from the daily par yield curve described in paragraph (d)(2)(i)(B) of this section. The spot rate for any later duration on the daily corporate bond yield curve is determined by applying an iterative process based on the spot rates at earlier durations and the daily par yield curve.
 
 (B) *Calculation of par yield curve.* The daily par yield curve (that is, the curve in which the rate at maturity *t* on the curve is equal to the yield for a bond with maturity of *t* for which the price is the same as the principal amount) is calculated from the discount function described in paragraph (d)(2)(i)(C) of this section and the hump adjustment variable described in paragraph (d)(2)(iii)(D) of this section.
 
@@ -58,7 +58,7 @@
 
 (iv) *Weighting of bond data.* The bond data are weighted in three steps. In the first step, equal weights are assigned to the commercial paper rates at the short end of the curve, and the par amounts outstanding of all the bonds are rescaled so that their sum equals the sum of the weights for commercial paper. In the second step, the squared price difference for each commercial paper rate is multiplied by the commercial paper weight, and the squared price difference for each bond is multiplied by the bond's rescaled par amount outstanding. In the third step, applicable for bonds with duration greater than 1, the weighted squared price difference for each bond from the second step is divided by the bond's duration.
 
-(3) *Data used*—(i) *In general.* Except as otherwise provided in this paragraph (d)(3), the bonds that are used to construct the daily corporate bond yield curve for a business day are bonds with maturities longer than1/2 year, with at least two payment dates, and that:
+(3) *Data used*—(i) *In general.* Except as otherwise provided in this paragraph (d)(3), the bonds that are used to construct the daily corporate bond yield curve for a business day are bonds with maturities longer than 1/2 year, with at least two payment dates, and that:
 
 (A) Are designated as corporate;
 
@@ -94,7 +94,7 @@
 
 (K) Bonds with an outstanding par amount below $250 million for the day for which the daily yield curve is constructed.
 
-(iii) *Durations equal to or below1/2 year.* The data for durations equal to or below1/2 year that is used to construct the daily corporate bond yield curve consists of AA financial and AA nonfinancial commercial paper rates, as reported by the Federal Reserve Board.
+(iii) *Durations equal to or below 1/2 year.* The data for durations equal to or below 1/2 year that is used to construct the daily corporate bond yield curve consists of AA financial and AA nonfinancial commercial paper rates, as reported by the Federal Reserve Board.
 
 (e) *Elections*—(1) *In general.* This paragraph (e) describes elections for a plan year that a plan sponsor can make to use alternative interest rates under this section. Any election under this paragraph (e) must be made by providing written notification of the election to the plan's enrolled actuary. Any election in this paragraph (e) may be adopted for a plan year without obtaining the consent of the Commissioner, but, once adopted, that election will apply for that plan year and all future plan years and may be changed only with the consent of the Commissioner.
 

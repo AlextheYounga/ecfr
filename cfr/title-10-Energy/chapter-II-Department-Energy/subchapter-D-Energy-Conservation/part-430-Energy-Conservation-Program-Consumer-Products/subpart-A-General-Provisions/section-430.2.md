@@ -1,5 +1,7 @@
 ##### § 430.2 Definitions. #####
 
+Link to an amendment published at 90 FR 1282, Jan. 7, 2025.
+
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows—
 
 *3-Way incandescent lamp* means an incandescent lamp that—

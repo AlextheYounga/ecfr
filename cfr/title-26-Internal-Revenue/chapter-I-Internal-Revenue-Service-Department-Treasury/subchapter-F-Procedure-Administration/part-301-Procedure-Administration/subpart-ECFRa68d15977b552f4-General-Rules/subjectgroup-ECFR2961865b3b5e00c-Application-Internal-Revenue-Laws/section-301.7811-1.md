@@ -66,4 +66,4 @@ Example 1.On August 31, 1989, the Internal Revenue Service levies on funds in th
 
 (f) *Effective/applicability date.* These regulations are applicable for TAOs issued on or after April 1, 2011, except that paragraph (e) of this section is applicable beginning March 20, 1992.
 
-[T.D. 8246, 54 FR 11700, Mar. 22, 1989, as amended by T.D. 8403, 56 FR 9977, Mar. 23, 1992; T.D. 9519, 76 FR 18060, Apr. 1, 2011]Miscellaneous Provisions
+[T.D. 8246, 54 FR 11700, Mar. 22, 1989, as amended by T.D. 8403, 56 FR 9977, Mar. 23, 1992; T.D. 9519, 76 FR 18060, Apr. 1, 2011] Miscellaneous Provisions

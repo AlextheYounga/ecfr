@@ -1,5 +1,7 @@
 ##### § 429.4 Materials incorporated by reference. #####
 
+Link to an amendment published at 90 FR 1272, Jan. 7, 2025.
+
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at DOE and at the National Archives and Records Administration (NARA). Contact DOE at: U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, www.energy.gov/eere/buildings/building-technologies-office.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to:*www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) *AHAM.* Association of Home Appliance Manufacturers, 1111 19th Street, NW., Suite 402, Washington, DC 20036, 202-872-5955, or go to *www.aham.org.*

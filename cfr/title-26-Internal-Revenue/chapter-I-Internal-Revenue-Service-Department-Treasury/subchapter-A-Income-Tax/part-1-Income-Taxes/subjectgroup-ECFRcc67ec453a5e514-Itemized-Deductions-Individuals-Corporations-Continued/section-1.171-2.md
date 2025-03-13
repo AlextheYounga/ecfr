@@ -50,7 +50,7 @@ Example 2. Alternative accrual periods.(i) *Facts.* The facts are the same as in
 
 Example 3. Holder uses accrual method of accounting.(i) *Facts.* The facts are the same as in *Example 1* of this paragraph (c) except that A uses an accrual method of accounting. Thus, for the accrual period ending on February 1, 2000, the qualified stated interest allocable to the period is $10,000, and the bond premium allocable to the period is $1,118.17. Because the accrual period extends beyond the end of A's taxable year, A must allocate these amounts between the two taxable years.
 
-(ii) *Amounts allocable to the first taxable year.* The qualified stated interest allocable to the first taxable year is $9,166.67 ($10,000 ×11/12). The bond premium allocable to the first taxable year is $1,024.99 ($1,118.17 ×11/12).
+(ii) *Amounts allocable to the first taxable year.* The qualified stated interest allocable to the first taxable year is $9,166.67 ($10,000 × 11/12). The bond premium allocable to the first taxable year is $1,024.99 ($1,118.17 × 11/12).
 
 (iii) *Premium used to offset interest.* For 1999, A includes in income $8,141.68, the qualified stated interest allocable to the period ($9,166.67) offset with bond premium allocable to the period ($1,024.99). Under § 1.1016-5(b), A's basis in the bond is reduced by $1,024.99 in 1999.
 

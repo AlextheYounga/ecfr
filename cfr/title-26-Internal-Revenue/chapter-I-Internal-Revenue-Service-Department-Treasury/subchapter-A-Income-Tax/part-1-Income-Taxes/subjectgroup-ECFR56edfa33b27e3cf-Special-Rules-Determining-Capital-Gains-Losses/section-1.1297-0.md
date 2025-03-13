@@ -570,7 +570,7 @@ This section contains a listing of the headings for §§ 1.1297-1, 1.1297-2, 1.1
 
 (g) Applicability date.
 
-§ 1.1297-5 [Reserved]§ 1.1297-6 Exception from the definition of passive income for active insurance income.
+§ 1.1297-5 [Reserved] § 1.1297-6 Exception from the definition of passive income for active insurance income.
 
 (a) Scope.
 

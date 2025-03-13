@@ -44,7 +44,7 @@ Example 1.Bank M, a calendar year taxpayer, is an institution described in § 1.
 
 (ii) *Formulas.* The estimated amount of the tax bases of assets held on any report date during a taxable year is based on the following variables: The total book bases of the assets on the report date (B); the asset holder's *tax/book ratio* as of the close of the preceding taxable year (R); and the result (whether positive or negative) obtained when R is subtracted from the asset holder's *tax/book ratio* as of the close of the current taxable year (Y). For purposes of determining R and Y, an asset holder's *tax/book ratio* is the ratio of the total tax bases of all of the holder's assets (other than cash), to the total book bases of those assets. If an asset holder's taxable year is the calendar year and its report date is the last day of the calendar quarter, its estimated tax bases of assets held on the first three report dates of the year are determined under the following formulas:
 
-1st Report Date = B × (R +1/4Y)2nd Report Date = B × (R +1/2Y)3rd Report Date = B × (R +3/4Y)
+1st Report Date = B × (R + 1/4Y)2nd Report Date = B × (R + 1/2Y)3rd Report Date = B × (R + 3/4Y)
 
 (5) *Examples.* The following examples illustrate the principles of this paragraph (c):
 

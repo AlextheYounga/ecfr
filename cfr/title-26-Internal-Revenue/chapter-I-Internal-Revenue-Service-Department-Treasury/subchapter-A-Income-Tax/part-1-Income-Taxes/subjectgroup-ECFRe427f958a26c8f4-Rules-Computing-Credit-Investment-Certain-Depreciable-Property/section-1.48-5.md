@@ -23,7 +23,7 @@ Example.1 X Corporation, an electing small business corporation which makes its 
 |5 (used) |    12,000     |      6 years.       |
 |6 (used) |    12,000     |      8 years.       |
 
-On December 31, 1962, X Corporation has 10 shares of stock outstanding which are owned as follows: A owns 3 shares, B owns 2 shares, and C owns 5 shares.(2) Under this section, the total bases of the new, and the total cost of the used, section 38 properties are apportioned to the shareholders of X Corporation as follows:
+On December 31, 1962, X Corporation has 10 shares of stock outstanding which are owned as follows: A owns 3 shares, B owns 2 shares, and C owns 5 shares. (2) Under this section, the total bases of the new, and the total cost of the used, section 38 properties are apportioned to the shareholders of X Corporation as follows:
 
 |  Useful life category   |New—4 to 6 years|New—8 years or more|Used—6 to 8 years|Used—8 years or more|
 |-------------------------|----------------|-------------------|-----------------|--------------------|

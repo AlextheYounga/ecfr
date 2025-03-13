@@ -94,4 +94,4 @@ Example.(A) *Facts.* P, the common parent of a consolidated group, owns the four
 
 (3) *Applicability date.* This paragraph (j) applies to taxable years for which the original consolidated Federal income tax return is due (without extensions) after February 23, 2023.
 
-[T.D. 8402, 57 FR 9385, Mar. 18, 1992]Editorial Note:For Federal Register citations affecting § 1.1502-80, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 8402, 57 FR 9385, Mar. 18, 1992] Editorial Note:For Federal Register citations affecting § 1.1502-80, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

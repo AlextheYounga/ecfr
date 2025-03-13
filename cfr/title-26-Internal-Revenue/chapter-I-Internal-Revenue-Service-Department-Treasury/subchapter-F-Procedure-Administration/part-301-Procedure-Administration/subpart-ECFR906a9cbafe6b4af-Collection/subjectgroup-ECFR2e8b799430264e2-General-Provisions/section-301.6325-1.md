@@ -110,4 +110,4 @@ Example.On March 1, 1967, an assessment of an unpaid Federal tax liability is ma
 
 (i) *Effective/applicability date.* This section applies to any release of lien or discharge of property that is requested after January 31, 2008.
 
-(Secs. 6324B (90 Stat. 1861, 26 U.S.C. 6324B) and 7805 (68A Stat. 917, 26 U.S.C. 7805))[32 FR 15241, Nov. 3, 1967, as amended by T.D. 7429, 41 FR 35512, Aug. 23, 1976; T.D. 7847, 47 FR 50857, Nov. 10, 1982; T.D. 8939, 66 FR 2821, Jan. 12, 2001; 73 FR 5742, T.D. 9378, Jan. 31, 2008; T.D. 9378, 73 FR 9672, Feb. 22, 2008]
+(Secs. 6324B (90 Stat. 1861, 26 U.S.C. 6324B) and 7805 (68A Stat. 917, 26 U.S.C. 7805)) [32 FR 15241, Nov. 3, 1967, as amended by T.D. 7429, 41 FR 35512, Aug. 23, 1976; T.D. 7847, 47 FR 50857, Nov. 10, 1982; T.D. 8939, 66 FR 2821, Jan. 12, 2001; 73 FR 5742, T.D. 9378, Jan. 31, 2008; T.D. 9378, 73 FR 9672, Feb. 22, 2008]

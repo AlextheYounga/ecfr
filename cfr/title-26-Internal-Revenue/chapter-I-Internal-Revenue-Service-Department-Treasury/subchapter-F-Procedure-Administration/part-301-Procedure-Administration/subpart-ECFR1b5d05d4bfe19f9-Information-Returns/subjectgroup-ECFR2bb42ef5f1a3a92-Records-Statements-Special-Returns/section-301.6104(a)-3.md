@@ -30,4 +30,4 @@
 
 (f) *Letters or documents issued after September 2, 1974.* Section 6104(a)(1)(B)(iv) and this section apply to letters or documents issued by the Internal Revenue Service after September 2, 1974, even though the relevant application for a determination letter or other initiating correspondence from the applicant was filed with the Internal Revenue Service before September 2, 1974.
 
-(Secs. 6104(a)(1)(A), 6104(a)(1)(B), and 7805 of the Internal Revenue Code of 1954 (72 Stat. 1660, 88 Stat. 940, 68A Stat. 917; 26 U.S.C. 6104(a)(1)(A), 6104(a)(1)(B), 7805))[47 FR 7845, 47 FR 50487, Nov. 8, 1982]
+(Secs. 6104(a)(1)(A), 6104(a)(1)(B), and 7805 of the Internal Revenue Code of 1954 (72 Stat. 1660, 88 Stat. 940, 68A Stat. 917; 26 U.S.C. 6104(a)(1)(A), 6104(a)(1)(B), 7805)) [47 FR 7845, 47 FR 50487, Nov. 8, 1982]

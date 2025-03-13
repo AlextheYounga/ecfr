@@ -135,4 +135,4 @@ Equation 3 to Paragraph (i)(3)(iii)![](/graphics/er20my24.069.gif)Where:Piin,STD
 
 (4) A circulator pump subject to energy conservation standards as described in this paragraph (i) must achieve the maximum CEI as described in paragraph (i)(3)(i) of this section and in accordance with the test procedure in § 431.464(c)(2) in the least consumptive control mode in which it is capable of operating.
 
-[81 FR 4431, Jan. 26, 2016, as amended at 82 FR 5742, Jan. 18, 2017; 89 FR 44356, May 20, 2024]
+[81 FR 4431, Jan. 26, 2016, as amended at 82 FR 5742, Jan. 18, 2017; 89 FR 44536, May 20, 2024]

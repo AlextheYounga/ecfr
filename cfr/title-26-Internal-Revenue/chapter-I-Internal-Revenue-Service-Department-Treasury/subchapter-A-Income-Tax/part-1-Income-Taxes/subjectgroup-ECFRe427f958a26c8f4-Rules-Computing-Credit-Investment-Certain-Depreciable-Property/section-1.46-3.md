@@ -120,7 +120,7 @@ Example 1.Partnership ABCD acquires and places in service on January 1, 1962, an
 
 (g) *Public utility property*—(1) *In general*—(i) *Scope of paragraph.* This paragraph only applies to property described in section 50. For rules relating to public utility property not described in section 50, see 26 CFR part 1, § 1.46-3(g) (as revised April 1, 1977). This paragraph does not reflect amendments to section 46(c) made after enactment of the Revenue Act of 1971.
 
-(ii) *Amount of qualified investment.* A taxpayer's qualified investment in section 38 property that is public utility property is4/7 of the amount otherwise determined under this section.
+(ii) *Amount of qualified investment.* A taxpayer's qualified investment in section 38 property that is public utility property is 4/7 of the amount otherwise determined under this section.
 
 (2) *Meaning and uses of certain terms.* For purposes of this paragraph—
 

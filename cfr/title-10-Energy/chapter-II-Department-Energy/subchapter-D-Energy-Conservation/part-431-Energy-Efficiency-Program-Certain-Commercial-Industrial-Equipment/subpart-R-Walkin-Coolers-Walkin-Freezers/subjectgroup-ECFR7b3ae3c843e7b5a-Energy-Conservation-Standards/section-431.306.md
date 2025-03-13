@@ -1,6 +1,6 @@
 ##### § 431.306 Energy conservation standards and their effective dates. #####
 
-Link to an amendment published at 89 FR 104854, Dec. 23, 2024.
+Link to an amendment published at 89 FR 104854, Dec. 23, 2024.Link to a correction published at 90 FR 1030, Jan. 7, 2025.
 
 (a) Each walk-in cooler or walk-in freezer manufactured on or after January 1, 2009, shall—
 

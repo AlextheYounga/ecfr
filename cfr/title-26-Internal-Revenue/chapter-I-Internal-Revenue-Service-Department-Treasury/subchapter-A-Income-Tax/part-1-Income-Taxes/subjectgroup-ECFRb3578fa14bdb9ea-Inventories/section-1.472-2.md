@@ -50,7 +50,7 @@ and that it has a 1957 closing inventory of 15 units. This closing inventory, de
 | July  |2 at | .13 | .26 |
 | Totals| 15  |     |1.61 |
 
-or(*c*) At an annual average—
+or (*c*) At an annual average—
 
 |        |10 at|$0.10|$1.00|
 |--------|-----|-----|-----|
@@ -67,7 +67,7 @@ Example 2.Suppose that the taxpayer's closing inventory for 1958, the year follo
 |October 1957|2 at | .14 | .28 |
 |   Totals   | 13  |     |1.41 |
 
-or(*b*) In case the increase for 1957 was taken in the order of acquisition—
+or (*b*) In case the increase for 1957 was taken in the order of acquisition—
 
 | From 1956  |10 at|$0.10|$1.00|
 |------------|-----|-----|-----|
@@ -75,7 +75,7 @@ or(*b*) In case the increase for 1957 was taken in the order of acquisition—
 | April 1957 |2 at | .12 | .24 |
 |   Totals   | 13  |     |1.35 |
 
-or(*c*) In case the increase for 1957 was taken on the basis of an average—
+or (*c*) In case the increase for 1957 was taken on the basis of an average—
 
 |From 1956|10 at|$0.10|$1.00|
 |---------|-----|-----|-----|

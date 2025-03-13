@@ -26,4 +26,4 @@ Disclosure of a return or return information to a person other than the taxpayer
 
 (iii) Court reporters.
 
-(Secs. 6103 and 7805 of the Internal Revenue Code of 1954 (90 Stat. 1667, 68A Stat. 917; 26 U.S.C. 6103 and 7805))[T.D. 7723, 45 FR 65567, Oct. 3, 1980]
+(Secs. 6103 and 7805 of the Internal Revenue Code of 1954 (90 Stat. 1667, 68A Stat. 917; 26 U.S.C. 6103 and 7805)) [T.D. 7723, 45 FR 65567, Oct. 3, 1980]
