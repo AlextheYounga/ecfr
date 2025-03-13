@@ -252,4 +252,4 @@ The effective date of reduction or discontinuance of educational assistance will
 
 (ii) *Stepchild eligible for transferred entitlement no longer member of transferor's household.* If a stepchild eligible for transferred entitlement ceases to be a member of the transferor's household, the date of discontinuance is the date the stepchild was no longer a member of the transferor's household. See § 21.7080(c)(4).
 
-(Authority: 38 U.S.C. 101(4), 3020)[53 FR 1757, Jan. 22, 1988]Editorial Note:For Federal Register citations affecting § 21.7135, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+(Authority: 38 U.S.C. 101(4), 3020)[53 FR 1757, Jan. 22, 1988]Editorial Note:For Federal Register citations affecting § 21.7135, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

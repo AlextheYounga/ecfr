@@ -1,5 +1,7 @@
 ##### § 201.100 Records to be furnished poultry growers and sellers. #####
 
+Link to an amendment published at 88 FR 83291, Nov. 28, 2023.
+
 (a) *Poultry growing arrangement; timing of disclosure.* As a live poultry dealer who offers a poultry growing arrangement to a poultry grower, you must provide the poultry grower with a true written copy of the offered poultry growing arrangement on the date you provide the poultry grower with poultry house specifications.
 
 (b) *Right to discuss the terms of poultry growing arrangement offer.* As a live poultry dealer, notwithstanding any confidentiality provision in the poultry growing arrangement, you must allow poultry growers to discuss the terms of a poultry growing arrangement offer with:

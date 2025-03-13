@@ -14,7 +14,7 @@
 
 (2) Been injured and sold at a reduced price as a direct result of an eligible adverse weather event or eligible attack no later than 30 calendar days for livestock, or 7 calendar days for newborn livestock, from the ending date of the eligible adverse weather event or eligible attack.
 
-(3) Been produced or maintained for commercial use for livestock for sale or the production of livestock products such as milk or eggs as part of a farming operation on the day they died or until the event that resulted in their sale at a reduced price; and
+(3) Been produced or maintained for commercial use for livestock sale or the production of livestock products such as milk or eggs as part of a farming operation on the day they died or until the event that resulted in their sale at a reduced price; and
 
 (4) Not be produced or maintained for reasons other than commercial use for livestock sale or for the production of livestock products such as milk or eggs. Livestock excluded from being eligible include, but are not limited to:
 

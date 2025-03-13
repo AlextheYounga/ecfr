@@ -134,4 +134,4 @@ VA will determine under this section the commencing date of an award or increase
 
 (j) [Reserved]
 
-[31 FR 6774, May 6, 1966]Editorial Note:For Federal Register citations affecting § 21.4131, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[31 FR 6774, May 6, 1966]Editorial Note:For Federal Register citations affecting § 21.4131, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

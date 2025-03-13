@@ -1,5 +1,7 @@
 ##### § 51.110 Resident assessment. #####
 
+Link to an amendment published at 88 FR 83034, Nov. 28, 2023.
+
 The facility management must conduct initially, annually and as required by a change in the resident's condition a comprehensive, accurate, standardized, reproducible assessment of each resident's functional capacity.
 
 (a) *Admission orders.* At the time each resident is admitted, the facility management must have physician orders for the resident's immediate care and a medical assessment, including a medical history and physical examination, within a time frame appropriate to the resident's condition, not to exceed 72 hours after admission, except when an examination was performed within five days before admission and the findings were recorded in the medical record on admission.

@@ -1,5 +1,7 @@
 ##### § 51.70 Resident rights. #####
 
+Link to an amendment published at 88 FR 83034, Nov. 28, 2023.
+
 The resident has a right to a dignified existence, self-determination, and communication with and access to persons and services inside and outside the facility. The facility management must protect and promote the rights of each resident, including each of the following rights:
 
 (a) *Exercise of rights.* (1) The resident has the right to exercise his or her rights as a resident of the facility and as a citizen or resident of the United States.

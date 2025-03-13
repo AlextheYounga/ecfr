@@ -1,5 +1,7 @@
 ##### § 51.41 Contracts and State home care agreements for certain veterans with service-connected disabilities. #####
 
+Link to an amendment published at 88 FR 83033, Nov. 28, 2023.
+
 (a) *Contract or State home care agreement required.* VA and State homes may enter into both contracts and State home care agreements. VA will pay for each eligible veteran's care through either a contract or a “State home care agreement.” Eligible veterans are those who:
 
 (1) Are in need of nursing home care for a VA adjudicated service-connected disability, or

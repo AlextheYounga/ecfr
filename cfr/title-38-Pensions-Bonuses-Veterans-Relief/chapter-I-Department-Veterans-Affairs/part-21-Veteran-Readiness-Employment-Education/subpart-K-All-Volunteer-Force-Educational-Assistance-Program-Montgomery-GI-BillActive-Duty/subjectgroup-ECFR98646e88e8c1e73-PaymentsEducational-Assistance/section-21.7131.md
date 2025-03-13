@@ -278,4 +278,4 @@ VA will determine under this section the commencing date of an award or increase
 
 (ii) The date the child attains age 18.
 
-(Authority: 38 U.S.C. 3020)[53 FR 1757, Jan. 22, 1988]Editorial Note:For Federal Register citations affecting § 21.7131, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+(Authority: 38 U.S.C. 3020)[53 FR 1757, Jan. 22, 1988]Editorial Note:For Federal Register citations affecting § 21.7131, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

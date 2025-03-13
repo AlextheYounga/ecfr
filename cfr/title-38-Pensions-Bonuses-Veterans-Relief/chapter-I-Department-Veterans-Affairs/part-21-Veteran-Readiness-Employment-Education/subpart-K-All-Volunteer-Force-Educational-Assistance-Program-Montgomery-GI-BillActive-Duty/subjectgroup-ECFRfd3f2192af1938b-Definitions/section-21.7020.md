@@ -444,4 +444,4 @@ For the purposes of regulations from § 21.7000 through § 21.7499 and the payme
 
 (59) *Transferee.* The term *transferee* means an individual to whom entitlement has been transferred.
 
-(Authority: 38 U.S.C. 3020)[53 FR 1757, Jan. 22, 1988]Editorial Note:For Federal Register citations affecting § 21.7020, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+(Authority: 38 U.S.C. 3020)[53 FR 1757, Jan. 22, 1988]Editorial Note:For Federal Register citations affecting § 21.7020, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

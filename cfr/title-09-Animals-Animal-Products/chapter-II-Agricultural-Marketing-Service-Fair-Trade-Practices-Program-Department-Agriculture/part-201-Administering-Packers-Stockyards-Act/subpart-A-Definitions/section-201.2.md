@@ -1,5 +1,7 @@
 ##### § 201.2 Terms defined. #####
 
+Link to an amendment published at 88 FR 83290, Nov. 28, 2023.
+
 The definitions of terms contained in the Act shall apply to such terms when used in the Regulations under the Packers and Stockyards Act, 9 CFR part 201; Rules of Practice Governing Proceedings under the Packers and Stockyards Act, 9 CFR part 202; and Statements of General Policy under the Packers and Stockyards Act, 9 CFR part 203. In addition, the following terms used in these parts shall be construed to mean:
 
 (a) *Act* means the Packers and Stockyards Act, 1921, as amended and supplemented (7 U.S.C. 181 *et seq.*).
