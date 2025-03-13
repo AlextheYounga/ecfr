@@ -1,5 +1,7 @@
 ##### § 210.34 Treatment of confidential and other sensitive information. #####
 
+Link to an amendment published at 89 FR 56617, July 9, 2024.
+
 (a) *General.* This section prescribes the rules under which the mechanical licensing collective and digital licensee coordinator shall ensure that confidential, private, proprietary, or privileged information received by the mechanical licensing collective or digital licensee coordinator or contained in their records is not improperly disclosed or used, in accordance with 17 U.S.C. 115(d)(12)(C), including with respect to disclosure or use by the board of directors, committee members, and personnel of the mechanical licensing collective or digital licensee coordinator.
 
 (b) *Definitions.* For purposes of this section:

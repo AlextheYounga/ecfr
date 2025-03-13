@@ -1,7 +1,5 @@
 ##### § 438.362 Exemption from external quality review. #####
 
-Link to an amendment published at 89 FR 41279, May 10, 2024.
-
 (a) *Basis for exemption.* The State may exempt an MCO from EQR if the following conditions are met:
 
 (1) The MCO has a current Medicare contract under part C of Title XVIII or under section 1876 of the Act, and a current Medicaid contract under section 1903(m) of the Act.
@@ -20,14 +18,10 @@ Link to an amendment published at 89 FR 41279, May 10, 2024.
 
 (iii) The findings and results of all performance improvement projects pertaining to Medicare enrollees.
 
-(2) *Medicare information from a private, national accrediting organization that CMS approves and recognizes for Medicare Advantage Organization deeming.* (i) If an exempted MCO has been reviewed by a private accrediting organization, the State must require the MCO to provide the State with a copy of all findings pertaining to its most recent accreditation review if that review has been used for either of the following purposes:
-
-(A) To fulfill certain requirements for Medicare external review under subpart D of part 422 of this chapter.
-
-(B) To deem compliance with Medicare requirements, as provided in § 422.156 of this chapter.
+(2) *Medicare information from a private accrediting organization.* (i) If an exempted MCO has been reviewed by a private accrediting organization, the State must require the MCO to provide the State with a copy of all findings pertaining to its most recent accreditation review if that review has been used to fulfill certain requirements for Medicare external review under subpart D of part 422 of this chapter.
 
 (ii) These findings must include, but need not be limited to, accreditation review results of evaluation of compliance with individual accreditation standards, noted deficiencies, corrective action plans, and summaries of unmet accreditation requirements.
 
 (c) *Identification of exempted MCOs.* The State must annually identify, on the website required under § 438.10(c)(3) and in the same location where the EQR technical reports are posted in accordance with § 438.364(c)(2)(i), the names of the MCOs exempt from external quality review by the State, including the beginning date of the current exemption period, or that no MCOs are exempt, as appropriate.
 
-[81 FR 27853, May 6, 2016, as amended at 85 FR 72842, Nov. 13, 2020]
+[81 FR 27853, May 6, 2016, as amended at 85 FR 72842, Nov. 13, 2020; 89 FR 41279, May 10, 2024]

@@ -1,7 +1,5 @@
 ##### § 438.330 Quality assessment and performance improvement program. #####
 
-Link to an amendment published at 89 FR 41278, May 10, 2024.
-
 (a) *General rules.* (1) The State must require, through its contracts, that each MCO, PIHP, and PAHP establish and implement an ongoing comprehensive quality assessment and performance improvement program for the services it furnishes to its enrollees that includes the elements identified in paragraph (b) of this section.
 
 (2) After consulting with States and other stakeholders and providing public notice and opportunity to comment, CMS may specify performance measures and PIPs, which must be included in the standard measures identified and PIPs required by the State in accordance with paragraphs (c) and (d) of this section. A State may request an exemption from including the performance measures or PIPs established under paragraph (a)(2) of this section, by submitting a written request to CMS explaining the basis for such request.
@@ -52,7 +50,7 @@ Link to an amendment published at 89 FR 41278, May 10, 2024.
 
 (3) The State must require each MCO, PIHP, and PAHP to report the status and results of each project conducted per paragraph (d)(1) of this section to the State as requested, but not less than once per year.
 
-(4) The State may permit an MCO, PIHP, or PAHP exclusively serving dual eligibles to substitute an MA Organization quality improvement project conducted under § 422.152(d) of this chapter for one or more of the performance improvement projects otherwise required under this section.
+(4) The State may permit an MCO, PIHP, or PAHP exclusively serving dual eligibles to substitute an MA organization chronic care improvement program conducted under § 422.152(c) of this chapter for one or more of the performance improvement projects otherwise required under this section.
 
 (e) *Program review by the State.* (1) The State must review, at least annually, the impact and effectiveness of the quality assessment and performance improvement program of each MCO, PIHP, PAHP, and PCCM entity described in § 438.310(c)(2). The review must include—
 
@@ -63,3 +61,5 @@ Link to an amendment published at 89 FR 41278, May 10, 2024.
 (iii) The results of any efforts by the MCO, PIHP, or PAHP to support community integration for enrollees using long-term services and supports.
 
 (2) The State may require that an MCO, PIHP, PAHP, or PCCM entity described in § 438.310(c)(2) develop a process to evaluate the impact and effectiveness of its own quality assessment and performance improvement program.
+
+[81 FR 27853, May 6, 2016, as amended at 89 FR 41278, May 10, 2024]

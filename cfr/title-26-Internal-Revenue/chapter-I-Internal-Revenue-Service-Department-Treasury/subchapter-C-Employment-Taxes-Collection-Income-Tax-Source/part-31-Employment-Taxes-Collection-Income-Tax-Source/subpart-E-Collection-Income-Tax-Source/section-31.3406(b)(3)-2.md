@@ -1,5 +1,7 @@
 ##### § 31.3406(b)(3)-2 Reportable barter exchanges and gross proceeds of sales of securities or commodities by brokers. #####
 
+Link to an amendment published at 89 FR 56582, July 9, 2024.
+
 (a) *Transactions subject to backup withholding.* A payment of a kind, and to a payee, that any broker (as defined in section 6045(c) and § 1.6045-1(a)(1) of this chapter) or any barter exchange (as defined in section 6045(c) and § 1.6045-1(a)(4) of this chapter) is required to report under section 6045 is a reportable payment for purposes of section 3406. See § 31.6051-4 for the requirement to furnish a statement to the payee if tax is withheld under section 3406.
 
 (b) *Amount subject to backup withholding*—(1) *In general.* The amount subject to withholding under section 3406 is the amount subject to reporting under section 6045. The amount subject to withholding with respect to broker reporting is the amount of gross proceeds (as determined under § 1.6045-1(d)(5) of this chapter). The amount subject to withholding with respect to barter exchanges is the amount received by any member or client (as determined under § 1.6045-1(f)(4) of this chapter).

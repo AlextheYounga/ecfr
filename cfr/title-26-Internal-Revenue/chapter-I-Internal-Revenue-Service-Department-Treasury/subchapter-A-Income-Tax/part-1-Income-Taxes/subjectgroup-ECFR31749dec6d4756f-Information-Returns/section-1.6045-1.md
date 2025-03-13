@@ -1,5 +1,7 @@
 ##### § 1.6045-1 Returns of information of brokers and barter exchanges. #####
 
+Link to an amendment published at 89 FR 56550, July 9, 2024.
+
 (a) *Definitions.* The following definitions apply for purposes of this section and § 1.6045-2:
 
 (1) The term *broker* means any person (other than a person who is required to report a transaction under section 6043), U.S. or foreign, that, in the ordinary course of a trade or business during the calendar year, stands ready to effect sales to be made by others. A broker includes an obligor that regularly issues and retires its own debt obligations or a corporation that regularly redeems its own stock. However, with respect to a sale (including a redemption or retirement) effected at an office outside the United States, a broker includes only a person described as a U.S. payor or U.S. middleman in § 1.6049-5(c)(5). In addition, a broker does not include an international organization described in § 1.6049-4(c)(1)(ii)(G) that redeems or retires an obligation of which it is the issuer.

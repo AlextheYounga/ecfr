@@ -1,7 +1,5 @@
 ##### § 1356.60 Fiscal requirements (title IV-E). #####
 
-Link to an amendment published at 89 FR 40417, May 10, 2024.
-
 (a) *Federal matching funds for foster care maintenance and adoption assistance payments.* (1) Federal financial participation (FFP) is available to title IV-E agencies under an approved title IV-E plan for allowable costs in expenditures for:
 
 (i) Foster care maintenance payments as defined in section 475(4) of the Act, made in accordance with §§ 1356.20 through 1356.30, section 472 of the Act, and, for a Tribal title IV-E agency, section 479B of the Act; and
@@ -40,13 +38,23 @@ Link to an amendment published at 89 FR 40417, May 10, 2024.
 
 (vii) Recruitment and licensing of foster homes and institutions;
 
-(viii) Rate setting; and
+(viii) Rate setting;
 
-(ix) A proportionate share of related agency overhead.
+(ix) A proportionate share of related agency overhead;
 
-(x) Costs related to data collection and reporting.
+(x) Costs related to data collection and reporting; and
+
+(xi) Costs related to legal representation described in paragraph (c)(4) of this section.
 
 (3) Allowable administrative costs do not include the costs of social services provided to the child, the child's family or foster family which provide counseling or treatment to ameliorate or remedy personal problems, behaviors or home conditions.
+
+(4) The following are allowable administrative costs of legal representation:
+
+(i) Legal representation in foster care proceedings provided by an attorney representing the title IV-E agency or any other public agency (including an Indian tribe) which has an agreement in effect under which the other agency has placement and care responsibility of a title IV-E eligible child pursuant to 472(a)(2)(B)(ii) of the Act;
+
+(ii) Independent legal representation provided by an attorney representing a child in title IV-E foster care, a child who is a candidate for title IV-E foster care, the child's parent(s), the child's relative caregiver(s), and the child's Indian custodian(s) in foster care and other civil legal proceedings as necessary to carry out the requirements in the agency's title IV-E foster care plan. Independent legal representation in civil proceedings includes facilitating, arranging, brokering, advocating, or otherwise linking clients with providers and services as identified in the child's case plan pursuant to sections 422, 471(a)(16), and 475 of the Act; and
+
+(iii) Legal representation provided by an attorney representing an Indian child's tribe (as defined by 25 U.S.C.1903(5)), or representation of an Indian child's tribe provided by a non-attorney, when the child's tribe participates or intervenes in any state court proceeding for the foster care placement or termination of parental rights of an Indian child who is in title IV-E foster care or an Indian child who is a candidate for title IV-E foster care.
 
 (d) *Cost of the data collection system.* (1) Costs related to data collection system initiation, implementation and operation may be charged as an administrative cost of title IV-E at the 50 percent matching rate subject to the restrictions in paragraph (d)(2) of this section
 
@@ -54,4 +62,4 @@ Link to an amendment published at 89 FR 40417, May 10, 2024.
 
 (e) *Federal matching funds for CCWIS and Non-CCWIS.* Federal matching funds are available at the rate of fifty percent (50%). Requirements for the cost allocation of CCWIS and non-CCWIS project costs are at § 1355.57 of this chapter.
 
-[47 FR 30925, July 15, 1982, as amended at 48 FR 23117, May 23, 1983; 53 FR 50221, Dec. 14, 1988; 58 FR 67938, 67947, Dec. 22, 1993; 65 FR 4091, Jan. 25, 2000; 66 FR 58677, Nov. 23, 2001; 77 FR 950, Jan. 6, 2012; 81 FR 35482, June 2, 2016; 87 FR 42339, July 15, 2022]
+[47 FR 30925, July 15, 1982, as amended at 48 FR 23117, May 23, 1983; 53 FR 50221, Dec. 14, 1988; 58 FR 67938, 67947, Dec. 22, 1993; 65 FR 4091, Jan. 25, 2000; 66 FR 58677, Nov. 23, 2001; 77 FR 950, Jan. 6, 2012; 81 FR 35482, June 2, 2016; 87 FR 42339, July 15, 2022; 89 FR 40417, May 10, 2024]

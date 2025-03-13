@@ -1,7 +1,5 @@
 ##### § 441.585 Quality assurance system. #####
 
-Link to an amendment published at 89 FR 40871, May 10, 2024.
-
 (a) States must establish and maintain a comprehensive, continuous quality assurance system, described in the State plan amendment, which includes the following:
 
 (1) A quality improvement strategy.
@@ -17,3 +15,7 @@ Link to an amendment published at 89 FR 40871, May 10, 2024.
 (b) The State must ensure the quality assurance system will employ methods that maximizes individual independence and control, and provides information about the provisions of quality improvement and assurance to each individual receiving such services and supports.
 
 (c) The State must elicit and incorporate feedback from individuals and their representatives, disability organizations, providers, families of disabled or elderly individuals, members of the community and others to improve the quality of the community-based attendant services and supports benefit.
+
+(d) The State must implement the Home and Community-Based Services Quality Measure Set in accordance with § 441.312, except that the references to section 1915(c) of the Act are instead references to section 1915(k) of the Act.
+
+[77 FR 26898, May 7, 2012, as amended at 89 FR 40871, May 10, 2024]

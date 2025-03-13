@@ -1,7 +1,5 @@
 ##### § 438.7 Rate certification submission. #####
 
-Link to an amendment published at 89 FR 41272, May 10, 2024.
-
 (a) *CMS review and approval of the rate certification.* States must submit to CMS for review and approval, all MCO, PIHP, and PAHP rate certifications concurrent with the review and approval process for contracts as specified in § 438.3(a).
 
 (b) *Documentation.* The rate certification must contain the following information:
@@ -54,7 +52,7 @@ Link to an amendment published at 89 FR 41272, May 10, 2024.
 
 (iii) Application of an approved risk adjustment methodology to capitation rates does not require a revised rate certification because payment of capitation rates as modified by the approved risk adjustment methodology must be within the scope of the original rate certification. The State must provide to CMS the payment terms updated by the application of the risk adjustment methodology consistent with § 438.3(c).
 
-(6) *Special contract provisions.* A description of any of the special contract provisions related to payment in § 438.6 that are applied in the contract.
+(6) *Special contract provisions.* A description of any of the special contract provisions related to payment in § 438.6 and ILOS in § 438.3(e)(2) that are applied in the contract.
 
 (c) *Rates paid under risk contracts.* The State, through its actuary, must certify the final capitation rate paid per rate cell under each risk contract and document the underlying data, assumptions and methodologies supporting that specific capitation rate.
 
@@ -63,6 +61,12 @@ Link to an amendment published at 89 FR 41272, May 10, 2024.
 (2) If the State determines that a retroactive adjustment to the capitation rate is necessary, the retroactive adjustment must be supported by a rationale for the adjustment and the data, assumptions and methodologies used to develop the magnitude of the adjustment must be adequately described with enough detail to allow CMS or an actuary to determine the reasonableness of the adjustment. These retroactive adjustments must be certified by an actuary in a revised rate certification and submitted as a contract amendment to be approved by CMS. All such adjustments are also subject to Federal timely claim filing requirements.
 
 (3) The State may increase or decrease the capitation rate per rate cell, as required in paragraph (c) of this section and § 438.4(b)(4), up to 1.5 percent during the rating period without submitting a revised rate certification, as required under paragraph (a) of this section. However, any changes of the capitation rate within the permissible range must be consistent with a modification of the contract as required in § 438.3(c) and are subject to the requirements at § 438.4(b)(1). Notwithstanding the provisions in paragraph (c) of this section, CMS may require a State to provide documentation that modifications to the capitation rate comply with the requirements in §§ 438.3(c) and (e) and 438.4(b)(1).
+
+(4) The State must submit a revised rate certification for any changes in the capitation rate per rate cell, as required under paragraph (a) of this section for any special contract provisions related to payment described in § 438.6 and ILOS in § 438.3(e)(2) not already described in the rate certification, regardless of the size of the change in the capitation rate per rate cell.
+
+(5) Retroactive adjustments to the capitation rates, as outlined in paragraph (c)(2) of this section, resulting from a State directed payment described in § 438.6(c) must be a result of adding or amending any State directed payment consistent with the requirements in § 438.6(c), or a material error in the data, assumptions or methodologies used to develop the initial capitation rate adjustment such that modifications are necessary to correct the error.
+
+(6) The rate certification or retroactive adjustment to capitation rates resulting from any State directed payments must be submitted no later than 120 days after the start date of the State directed payment.
 
 (d) *Provision of additional information.* The State must, upon CMS' request, provide additional information, whether part of the rate certification or additional supplemental materials, if CMS determines that information is pertinent to the approval of the certification under this part. The State must identify whether the information provided in addition to the rate certification is proffered by the State, the actuary, or another party.
 
@@ -78,4 +82,8 @@ Link to an amendment published at 89 FR 41272, May 10, 2024.
 
 (5) The documentation necessary to demonstrate that capitation rates competitively bid through a procurement process have been established consistent with the requirements of §§ 438.4 through 438.8.
 
-[81 FR 27853, May 6, 2016, as amended at 85 FR 72839, Nov. 13, 2020]
+(f) *Applicability dates.* (1) Paragraph (b)(6) of this section applies to the rating period for contracts with MCOs, PIHPs and PAHPs beginning on or after 60 days following July 9, 2024. Until that applicability date, States are required to continue to comply with paragraph (b)(6) of this section contained in 42 CFR, parts 430 to 481, edition most recently published prior to the final rule.
+
+(2) Paragraph (c)(6) of this section apply no later than the first rating period for contracts with MCOs, PIHPs and PAHPs beginning on or after 4 years after July 9, 2024.
+
+[81 FR 27853, May 6, 2016, as amended at 85 FR 72839, Nov. 13, 2020; 89 FR 41272, May 10, 2024]

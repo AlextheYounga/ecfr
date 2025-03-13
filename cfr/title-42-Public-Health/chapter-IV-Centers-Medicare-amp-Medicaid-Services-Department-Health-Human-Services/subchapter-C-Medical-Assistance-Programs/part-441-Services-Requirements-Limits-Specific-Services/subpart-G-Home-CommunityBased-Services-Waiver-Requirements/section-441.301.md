@@ -1,7 +1,5 @@
 ##### § 441.301 Contents of request for a waiver. #####
 
-Link to an amendment published at 89 FR 40863, May 10, 2024.
-
 (a) A request for a waiver under this section must consist of the following:
 
 (1) The assurances required by § 441.302 and the supporting documentation required by § 441.303.
@@ -50,7 +48,7 @@ Link to an amendment published at 89 FR 40863, May 10, 2024.
 
 (c) A waiver request under this subpart must include the following—
 
-(1) *Person-centered planning process.* The individual will lead the person-centered planning process where possible. The individual's representative should have a participatory role, as needed and as defined by the individual, unless State law confers decision-making authority to the legal representative. All references to individuals include the role of the individual's representative. In addition to being led by the individual receiving services and supports, the person-centered planning process:
+(1) *Person-centered planning process.* The individual, or if applicable, the individual and the individual's authorized representative, will lead the person-centered planning process. When the term “individual” is used throughout § 441.301(c)(1) through (3), it includes the individual's authorized representative if applicable. In addition, the person-centered planning process:
 
 (i) Includes people chosen by the individual.
 
@@ -114,7 +112,15 @@ Link to an amendment published at 89 FR 40863, May 10, 2024.
 
 (H) Include an assurance that interventions and supports will cause no harm to the individual.
 
-(3) *Review of the Person-Centered Service Plan.* The person-centered service plan must be reviewed, and revised upon reassessment of functional need as required by § 441.365(e), at least every 12 months, when the individual's circumstances or needs change significantly, or at the request of the individual.
+(3) *Review of the person-centered service plan*—(i) *Requirement.* The State must ensure that the person-centered service plan for every individual is reviewed, and revised as appropriate, based upon the reassessment of functional need at least every 12 months, when the individual's circumstances or needs change significantly, or at the request of the individual.
+
+(ii) *Minimum performance at the State level.* The State must demonstrate, through the reporting requirements at § 441.311(b)(3), that it ensures the following minimum performance levels are met:
+
+(A) Complete a reassessment of functional need at least every 12 months for no less than 90 percent of the individuals continuously enrolled in the waiver for at least 365 days; and
+
+(B) Review, and revise as appropriate, the person-centered service plan, based upon the reassessment of functional need, at least every 12 months, for no less than 90 percent of the individuals continuously enrolled in the waiver for at least 365 days.
+
+(iii) *Applicability date.* States must comply with the performance levels described in paragraph (c)(3)(ii) of this section beginning 3 years after July 9, 2024; and in the case of the State that implements a managed care delivery system under the authority of sections 1915(a), 1915(b), 1932(a), or 1115(a) of the Act and includes HCBS in the MCO's, PIHP's, or PAHP's contract, the first rating period for contracts with the MCO, PIHP, or PAHP beginning on or after the date that is 3 years after July 9, 2024.
 
 (4) *Home and Community-Based Settings.* Home and community-based settings must have all of the following qualities, and such other qualities as the Secretary determines to be appropriate, based on the needs of the individual as indicated in their person-centered service plan:
 
@@ -202,4 +208,96 @@ Link to an amendment published at 89 FR 40863, May 10, 2024.
 
 (v) Upon approval by CMS, the State will begin implementation of the transition plans. The State's failure to submit an approvable transition plan as required by this section and/or to comply with the terms of the approved transition plan may result in compliance actions, including but not limited to deferral/disallowance of Federal Financial Participation.
 
-[46 FR 48541, Oct. 1, 1981, as amended at 50 FR 10026, Mar. 13, 1985; 59 FR 37717, July 25, 1994; 65 FR 60107, Oct. 10, 2000; 79 FR 3029, Jan. 16, 2014]
+(7) *Grievance system*—(i) *Purpose.* The State must establish a procedure under which a beneficiary may file a grievance related to the State's or a provider's performance of the activities described in paragraphs (c)(1) through (6) of this section. This requirement does not apply to a managed care delivery system under the authority of sections 1915(a), 1915(b), 1932(a), or 1115(a) of the Act. The State may have activities described in paragraph (c)(7) of this section performed by contractors or other government entities, provided, however, that the State retains responsibility for ensuring performance of and compliance with these provisions.
+
+(ii) *Definitions.* As used in this section:
+
+*Grievance* means an expression of dissatisfaction or complaint related to the State's or a provider's performance of the activities described in paragraphs (c)(1) through (6) of this section, regardless of whether remedial action is requested.
+
+*Grievance system* means the processes the State implements to handle grievances, as well as the processes to collect and track information about them.
+
+(iii) *General requirements.* (A) The beneficiary or a beneficiary's authorized representative, if applicable, may file a grievance. All references to beneficiary include the role of the beneficiary's representative, if applicable.
+
+(*1*) Another individual or entity may file a grievance on behalf of the beneficiary, or provide the beneficiary with assistance or representation throughout the grievance process, with the written consent of the beneficiary or authorized representative.
+
+(*2*) A provider cannot file a grievance that would violate the State's conflict of interest guidelines, as required in § 441.540(a)(5).
+
+(B) The State must:
+
+(*1*) Base its grievance processes on written policies and procedures that, at a minimum, meet the conditions set forth in this paragraph (c)(7);
+
+(*2*) Provide beneficiaries reasonable assistance in ensuring grievances are appropriately filed with the grievance system, completing forms and taking other procedural steps related to a grievance. This includes, but is not limited to, ensuring the grievance system is accessible to individuals with disabilities and providing meaningful access to individuals with Limited English Proficiency, consistent with § 435.905(b) of this chapter, and includes auxiliary aids and services where necessary to ensure effective communication, such as providing interpreter services and toll-free numbers that have adequate TTY/TTD and interpreter capability;
+
+(*3*) Ensure that punitive or retaliatory action is neither threatened nor taken against an individual filing a grievance or who has had a grievance filed on their behalf;
+
+(*4*) Accept grievances and requests for extension of timeframes from the beneficiary;
+
+(*5*) Provide to the beneficiary the notices and information required under this subsection, including information on their rights under the grievance system and on how to file grievances, and ensure that such information is accessible for individuals with disabilities and individuals with Limited English Proficiency in accordance with § 435.905(b);
+
+(*6*) Review any grievance resolution with which the beneficiary is dissatisfied; and
+
+(*7*) Provide information about the grievance system to all providers and subcontractors approved to deliver services.
+
+(C) The process for handling grievances must:
+
+(*1*) Allow the beneficiary to file a grievance with the State either orally or in writing;
+
+(*2*) Acknowledge receipt of each grievance;
+
+(*3*) Ensure that the individuals who make decisions on grievances are individuals:
+
+(*i*) Who were neither involved in any previous level of review or decision-making related to the grievance nor a subordinate of any such individual;
+
+(*ii*) Who are individuals who have the appropriate clinical and non-clinical expertise, as determined by the State; and
+
+(*iii*) Who consider all comments, documents, records, and other information submitted by the beneficiary without regard to whether such information was submitted to or considered previously by the State;
+
+(*4*) Provide the beneficiary a reasonable opportunity, face-to-face (including through the use of audio or video technology) and in writing, to present evidence and testimony and make legal and factual arguments related to their grievance. The State must inform the beneficiary of the limited time available for this sufficiently in advance of the resolution timeframe for grievances as specified in paragraph (c)(7)(v) of this section;
+
+(*5*) Provide the beneficiary their case file, including medical records in compliance with the HIPAA Privacy Rule (45 CFR part 160 and part 164 subparts A and E), other documents and records, and any new or additional evidence considered, relied upon, or generated by the State related to the grievance. This information must be provided free of charge and sufficiently in advance of the resolution timeframe for grievances as specified in paragraph (c)(7)(v) of this section; and
+
+(*6*) Provide beneficiaries, free of charge, with language services, including written translation and interpreter services in accordance with § 435.905(b), to support their participation in grievance processes and their use of the grievance system.
+
+(iv) *Filing timeframes.* A beneficiary may file a grievance at any time.
+
+(v) *Resolution and notification*—(A) *Basic rule.* The State must resolve each grievance, and provide notice, as expeditiously as the beneficiary's health condition requires, within State-established timeframes that may not exceed the timeframes specified in this section.
+
+(B) *Resolution timeframes.* For resolution of a grievance and notice to the affected parties, the timeframe may not exceed 90 calendar days from the day the State receives the grievance. This timeframe may be extended under paragraph (c)(7)(v)(C) of this section.
+
+(C) *Extension of timeframes.* The States may extend the timeframe from that in paragraph (c)(7)(v)(B) of this section by up to 14 calendar days if -
+
+(*1*) The beneficiary requests the extension; or
+
+(*2*) The State documents that there is need for additional information and how the delay is in the beneficiary's interest.
+
+(D) *Requirements following extension.* If the State extends the timeframe not at the request of the beneficiary, it must complete all of the following:
+
+(*1*) Make reasonable efforts to give the beneficiary prompt oral notice of the delay;
+
+(*2*) Within 2 calendar days of determining a need for a delay, but no later than the timeframes in paragraph (c)(7)(v)(B) of this section, give the beneficiary written notice of the reason for the decision to extend the timeframe; and
+
+(*3*) Resolve the grievance as expeditiously as the beneficiary's health condition requires and no later than the date the extension expires.
+
+(vi) *Format of notice.* The State must establish a method to notify a beneficiary of the resolution of a grievance and ensure that such methods meet, at a minimum, the standards described at § 435.905(b) of this chapter.
+
+(vii) *Recordkeeping.* (A) The State must maintain records of grievances and must review the information as part of its ongoing monitoring procedures.
+
+(B) The record of each grievance must contain, at a minimum, all of the following information:
+
+(*1*) A general description of the reason for the grievance;
+
+(*2*) The date received;
+
+(*3*) The date of each review or, if applicable, review meeting;
+
+(*4*) Resolution of the grievance, as applicable;
+
+(*5*) Date of resolution, if applicable; and
+
+(*6*) Name of the beneficiary for whom the grievance was filed.
+
+(C) The record must be accurately maintained in a manner available upon request to CMS.
+
+(viii) *Applicability date.* States must comply with the requirement at paragraph (c)(7) of this section beginning 2 years after July 9, 2024.
+
+[46 FR 48541, Oct. 1, 1981, as amended at 50 FR 10026, Mar. 13, 1985; 59 FR 37717, July 25, 1994; 65 FR 60107, Oct. 10, 2000; 79 FR 3029, Jan. 16, 2014; 89 FR 40863, May 10, 2024]

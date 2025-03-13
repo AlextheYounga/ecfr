@@ -1,5 +1,7 @@
 ##### § 31.3406(g)-1 Exception for payments to certain payees and certain other payments. #####
 
+Link to an amendment published at 89 FR 56582, July 9, 2024.
+
 (a) *Exempt recipients*—(1) *In general.* A payor of any reportable payment (as defined in section 3406(b)) must not withhold under section 3406 if the payee is—
 
 (i) An organization exempt from taxation under section 501(a) or an individual retirement account;

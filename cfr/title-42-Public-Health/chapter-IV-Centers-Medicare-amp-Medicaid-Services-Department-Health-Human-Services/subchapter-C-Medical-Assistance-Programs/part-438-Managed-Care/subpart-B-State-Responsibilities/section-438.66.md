@@ -1,7 +1,5 @@
 ##### § 438.66 State monitoring requirements. #####
 
-Link to an amendment published at 89 FR 41275, May 10, 2024.
-
 (a) *General requirement.* The State agency must have in effect a monitoring system for all managed care programs.
 
 (b) The State's system must address all aspects of the managed care program, including the performance of each MCO, PIHP, PAHP, and PCCM entity (if applicable) in at least the following areas:
@@ -12,7 +10,7 @@ Link to an amendment published at 89 FR 41275, May 10, 2024.
 
 (3) Claims management.
 
-(4) Enrollee materials and customer services, including the activities of the beneficiary support system.
+(4) Enrollee materials, enrollee experience, and customer services, including the activities of the beneficiary support system.
 
 (5) Finance, including medical loss ratio reporting.
 
@@ -44,7 +42,7 @@ Link to an amendment published at 89 FR 41275, May 10, 2024.
 
 (4) Findings from the State's External Quality Review process.
 
-(5) Results from any enrollee or provider satisfaction survey conducted by the State or MCO, PIHP, or PAHP.
+(5) Results from an annual enrollee experience survey conducted by the State (or as otherwise conducted when all enrollees are also in affiliated Medicare Advantage dual eligible special needs plans subject to the condition in § 422.107(e)(1)(i)) and any provider satisfaction survey conducted by the State or MCO, PIHP, or PAHP.
 
 (6) Performance on required quality measures.
 
@@ -134,9 +132,9 @@ Link to an amendment published at 89 FR 41275, May 10, 2024.
 
 (v) Grievance, appeals, and State fair hearings for the managed care program.
 
-(vi) Availability and accessibility of covered services within the MCO, PIHP, or PAHP contracts, including network adequacy standards.
+(vi) Availability and accessibility of covered services, including any ILOS, within the MCO, PIHP, or PAHP contracts, including network adequacy standards.
 
-(vii) Evaluation of MCO, PIHP, or PAHP performance on quality measures, including as applicable, consumer report card, surveys, or other reasonable measures of performance.
+(vii) Evaluation of MCO, PIHP, or PAHP performance on quality measures and results of an enrollee experience survey, including as applicable, consumer report card, provider surveys, or other reasonable measures of performance.
 
 (viii) Results of any sanctions or corrective action plans imposed by the State or other formal or informal intervention with a contracted MCO, PIHP, PAHP, or PCCM entity to improve performance.
 
@@ -146,10 +144,12 @@ Link to an amendment published at 89 FR 41275, May 10, 2024.
 
 (3) The program report required in this section must be:
 
-(i) Posted on the Web site required under § 438.10(c)(3).
+(i) Posted on the website required under § 438.10(c)(3) within 30 calendar days of submitting it to CMS.
 
 (ii) Provided to the Medical Care Advisory Committee, required under § 431.12 of this chapter.
 
 (iii) Provided to the stakeholder consultation group specified in § 438.70, to the extent that the managed care program includes LTSS.
 
-(f) *Applicability.* States will not be held out of compliance with the requirements of paragraphs (a) through (d) of this section prior to the rating period for contracts starting on or after July 1, 2017, so long as they comply with the corresponding standard(s) codified in 42 CFR 438.66 contained in the 42 CFR, parts 430 to 481, edition revised as of October 1, 2015.
+(f) *Applicability.* States will not be held out of compliance with the requirements of paragraphs (b)(4), (c)(5), and (e)(2)(vii) of this section prior to the first rating period for contracts with MCOs, PIHPs, or PAHPs beginning on or after 3 years after July 9, 2024, so long as they comply with the corresponding standard(s) 42 CFR 438.66 (effective as of October 1, 2023).
+
+[81 FR 27853, May 6, 2016, as amended at 89 FR 41275, May 10, 2024]

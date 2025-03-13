@@ -1,7 +1,5 @@
 ##### § 441.540 Person-centered service plan. #####
 
-Link to an amendment published at 89 FR 40870, May 10, 2024.
-
 (a) *Person-centered planning process.* The person-centered planning process is driven by the individual. The process—
 
 (1) Includes people chosen by the individual.
@@ -48,4 +46,6 @@ Link to an amendment published at 89 FR 40870, May 10, 2024.
 
 (13) Other requirements as determined by the Secretary.
 
-(c) *Reviewing the person-centered service plan.* The person-centered service plan must be reviewed, and revised upon reassessment of functional need, at least every 12 months, when the individual's circumstances or needs change significantly, and at the request of the individual.
+(c) *Reviewing the person-centered service plan.* The State must ensure that the person-centered service plan for every individual is reviewed, and revised as appropriate, based upon the reassessment of functional need at least every 12 months, when the individual's circumstances or needs change significantly, and at the request of the individual. States must adhere to the requirements of § 441.301(c)(3), except that the references to section 1915(c) of the Act are instead references to section 1915(k) of the Act.
+
+[77 FR 26898, May 7, 2012, as amended at 89 FR 40870, May 10, 2024]

@@ -1,7 +1,5 @@
 ##### § 438.354 Qualifications of external quality review organizations. #####
 
-Link to an amendment published at 89 FR 41278, May 10, 2024.
-
 (a) *General rule.* The State must ensure that an EQRO meets the requirements of this section.
 
 (b) *Competence.* The EQRO must have at a minimum the following:
@@ -44,8 +42,10 @@ Link to an amendment published at 89 FR 41278, May 10, 2024.
 
 (ii) Deliver any health care services to Medicaid beneficiaries;
 
-(iii) Conduct, on the State's behalf, ongoing Medicaid managed care program operations related to oversight of the quality of MCO, PIHP, PAHP, or PCCM entity (described in § 438.310(c)(2)) services, except for the related activities specified in § 438.358;
+(iii) Conduct, on the State's behalf, ongoing Medicaid managed care program operations related to oversight of the quality of MCO, PIHP, PAHP, or PCCM entity (described in § 438.310(c)(2)) services that it will review as an EQRO, except for the related activities specified in § 438.358;
 
 (iv) Review any MCO, PIHP, PAHP or PCCM entity (described in § 438.310(c)(2)) for which it is conducting or has conducted an accreditation review within the previous 3 years; or
 
 (v) Have a present, or known future, direct or indirect financial relationship with an MCO, PIHP, PAHP, or PCCM entity (described in § 438.310(c)(2)) that it will review as an EQRO.
+
+[81 FR 27853, May 6, 2016, as amended at 89 FR 41278, May 10, 2024]

@@ -1,5 +1,7 @@
 ##### § 100.501 Special Local Regulations; Marine Events Within the Fifth Coast Guard District. #####
 
+Link to an amendment published at 89 FR 56209, July 9, 2024.
+
 (a) *Applicability.* Paragraphs (a) through (i) of this section apply to the marine events listed in paragraph (i) of this section. These regulations are effective annually, for the duration of each event listed in paragraph (i) of this section. Annual notice of the exact times, and dates if there is a range of possible dates, of the effective period of the regulation with respect to each event, the geographical area, and details concerning the nature of the event and the number of participants and type(s) of vessels involved will be published in Local Notices to Mariners and via Broadcast Notice to Mariners over VHF-FM marine band radio.
 
 (b) *Definitions.* The following definitions apply to this section:

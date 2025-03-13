@@ -1,5 +1,7 @@
 ##### § 31.3406(g)-2 Exception for reportable payment for which withholding is otherwise required. #####
 
+Link to an amendment published at 89 FR 56583, July 9, 2024.
+
 (a) *In general.* A payor of a reportable payment (as defined in section 3406(b)) must not withhold under section 3406 if the payment is subject to withholding under any other provision of the Internal Revenue Code.
 
 (b) *Payment of wages.* A payor who is required to make an information return under section 6041 with respect to a payment of wages (as defined in section 3401) because, e.g., the employee makes a certification under section 3402(n) (relating to employees incurring no income tax liability), must not withhold under section 3406 on those wages.

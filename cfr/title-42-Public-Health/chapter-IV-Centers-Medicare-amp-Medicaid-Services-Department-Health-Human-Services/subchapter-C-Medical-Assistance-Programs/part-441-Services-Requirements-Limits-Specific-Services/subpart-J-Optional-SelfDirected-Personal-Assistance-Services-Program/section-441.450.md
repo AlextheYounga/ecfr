@@ -1,7 +1,5 @@
 ##### § 441.450 Basis, scope, and definitions. #####
 
-Link to an amendment published at 89 FR 40870, May 10, 2024.
-
 (a) *Basis.* This subpart implements section 1915(j) of the Act concerning the self-directed personal assistance services (PAS) option through a State Plan.
 
 (b) *Scope.* A self-directed PAS option is designed to allow individuals, or their representatives, if applicable, to exercise decision-making authority in identifying, accessing, managing and purchasing their PAS. This authority includes, at a minimum, all of the following:
@@ -60,7 +58,7 @@ Link to an amendment published at 89 FR 40870, May 10, 2024.
 
 *Service budget* means an amount of funds that is under the control and direction of a participant, or the participant's representative, if any, when the State has selected the State plan option for provision of self-directed PAS. It is developed using a person-centered and directed process and is individually tailored in accordance with the participant's needs and personal preferences as established in the service plan.
 
-*Service plan* means the written document that specifies the services and supports (regardless of funding source) that are to be furnished to meet the needs of a participant in the self-directed PAS option and to assist the participant to direct the PAS and to remain in the community. The service plan is developed based on the assessment of need using a person-centered and directed process. The service plan builds upon the participant's capacity to engage in activities that promote community life and respects the participant's preferences, choices, and abilities. The participant's representative, if any, families, friends and professionals, as desired or required by the participant, will be involved in the service-planning process.
+*Service plan* means the written document that specifies the services and supports (regardless of funding source) that are to be furnished to meet the needs of a participant in the self-directed PAS option and to assist the participant to direct the PAS and to live in the community. The service plan is developed based on the assessment of need using a person-centered and directed process. The service plan supports the participant's engagement in community life and respects the participant's preferences, choices, and abilities. The participant's representative, if any, families, friends, and professionals, as desired or required by the participant, will be involved in the service-planning process. Service plans must meet the requirements of § 441.301(c)(3), except that the references to section 1915(c) of the Act are instead references to section 1915(j) of the Act.
 
 *Support system* means information, counseling, training, and assistance that support the participant (or the participant's family or representative, as appropriate) in identifying, accessing, managing, and directing their PAS and supports and in purchasing their PAS identified in the service plan and budget.
 
@@ -75,3 +73,5 @@ Link to an amendment published at 89 FR 40870, May 10, 2024.
 (4) Knowledge of the PAS and resources available in the participant's community and how to access them.
 
 The availability of a supports broker or consultant to each participant is a requirement of the support system.
+
+[73 FR 57881, Oct. 3, 2008, as amended at 89 FR 40870, May 10, 2024]

@@ -1,7 +1,5 @@
 ##### § 438.10 Information requirements. #####
 
-Link to an amendment published at 89 FR 41273, May 10, 2024.
-
 (a) *Definitions.* As used in this section, the following terms have the indicated meanings:
 
 *Limited English proficient (LEP)* means potential enrollees and enrollees who do not speak English as their primary language and who have a limited ability to read, write, speak, or understand English may be LEP and may be eligible to receive language assistance for a particular type of service, benefit, or encounter.
@@ -16,7 +14,15 @@ Link to an amendment published at 89 FR 41273, May 10, 2024.
 
 (2) The State must utilize its beneficiary support system required in § 438.71.
 
-(3) The State must operate a Web site that provides the content, either directly or by linking to individual MCO, PIHP, PAHP, or PCCM entity Web sites, specified in paragraphs (g), (h), and (i) of this section.
+(3) The State must operate a website that provides the content, either directly or by linking to individual MCO, PIHP, PAHP, or PCCM entity web pages, specified at § 438.602(g) and elsewhere in this part. States must:
+
+(i) Include clear and easy to understand labels on documents and links;
+
+(ii) Include all content, either directly or by linking to individual MCO, PIHP, PAHP, or PCCM entity websites, on one web page;
+
+(iii) Verify no less than quarterly, the accurate function of the website and the timeliness of the information presented; and
+
+(iv) Explain that assistance in accessing the required information on the website is available at no cost and include information on the availability of oral interpretation in all languages, written translation available in each prevalent non-English language, how to request auxiliary aids and services, and a toll-free and TTY/TDY telephone number.
 
 (4) For consistency in the information provided to enrollees, the State must develop and require each MCO, PIHP, PAHP and PCCM entity to use:
 
@@ -45,7 +51,7 @@ requirements of this section; and
 
 (1) Establish a methodology for identifying the prevalent non-English languages spoken by enrollees and potential enrollees throughout the State, and in each MCO, PIHP, PAHP, or PCCM entity service area.
 
-(2) Make oral interpretation available in all languages and written translation available in each prevalent non-English language. Written materials that are critical to obtaining services for potential enrollees must include taglines in the prevalent non-English languages in the State, explaining the availability of written translations or oral interpretation to understand the information provided, information on how to request auxiliary aids and services, and the toll-free telephone number of the entity providing choice counseling services as required by § 438.71(a). Taglines for written materials critical to obtaining services must be printed in a conspicuously-visible font size.
+(2) Make oral interpretation available in all languages and written translation available in each prevalent non-English language. Written materials that are critical to obtaining services for potential enrollees and experience surveys for enrollees must include taglines in the prevalent non-English languages in the State, explaining the availability of written translations or oral interpretation to understand the information provided, information on how to request auxiliary aids and services, and the toll-free telephone number of the entity providing choice counseling services as required by § 438.71(a). Taglines for written materials critical to obtaining services must be printed in a conspicuously-visible font size.
 
 (3) Require each MCO, PIHP, PAHP, and PCCM entity to make its written materials that are critical to obtaining services, including, at a minimum, provider directories, enrollee handbooks, appeal and grievance notices, and denial and termination notices, available in the prevalent non-English languages in its particular service area. Written materials that are critical to obtaining services must also be made available in alternative formats upon request of the potential enrollee or enrollee at no cost, include taglines in the prevalent non-English languages in the State and in a conspicuously visible font size explaining the availability of written translation or oral interpretation to understand the information provided, information on how to request auxiliary aids and services, and include the toll-free and TTY/TDY telephone number of the MCO's, PIHP's, PAHP's, or PCCM entity's member/customer service unit. Auxiliary aids and services must also be made available upon request of the potential enrollee or enrollee at no cost.
 
@@ -137,7 +143,7 @@ requirements of this section; and
 
 (viii) Cost sharing, if any is imposed under the State plan.
 
-(ix) Enrollee rights and responsibilities, including the elements specified in § 438.100.
+(ix) Enrollee rights and responsibilities, including the elements specified in § 438.100 and, if applicable, § 438.3(e)(2)(ii).
 
 (x) The process of selecting and changing the enrollee's primary care provider.
 
@@ -175,7 +181,7 @@ requirements of this section; and
 
 (4) The MCO, PIHP, PAHP, or PCCM entity must give each enrollee notice of any change that the State defines as significant in the information specified in this paragraph (g), at least 30 days before the intended effective date of the change.
 
-(h) *Information for all enrollees of MCOs, PIHPs, PAHPs, and PCCM entities—Provider Directory.* (1) Each MCO, PIHP, PAHP, and when appropriate, the PCCM entity, must make available in paper form upon request and electronic form, the following information about its network providers:
+(h) *Information for all enrollees of MCOs, PIHPs, PAHPs, and PCCM entities—Provider Directory.* (1) Each MCO, PIHP, PAHP, and when appropriate, the PCCM entity, must make available in paper form upon request and searchable electronic form, the following information about its network providers:
 
 (i) The provider's name as well as any group affiliation.
 
@@ -193,6 +199,8 @@ requirements of this section; and
 
 (viii) Whether the provider's office/facility has accommodations for people with physical disabilities, including offices, exam room(s) and equipment.
 
+(ix) Whether the provider offers covered services via telehealth.
+
 (2) The provider directory must include the information in paragraph (h)(1) of this section for each of the following provider types covered under the contract:
 
 (i) Physicians, including specialists;
@@ -201,7 +209,7 @@ requirements of this section; and
 
 (iii) Pharmacies;
 
-(iv) Behavioral health providers; and
+(iv) Mental health and substance use disorder providers; and
 
 (v) LTSS providers, as appropriate.
 
@@ -215,6 +223,8 @@ requirements of this section; and
 
 (ii) An electronic provider directory must be updated no later than 30 calendar days after the MCO, PIHP, PAHP, or PCCM entity receives updated provider information.
 
+(iii) MCOs, PIHPs, or PAHPs must use the information received from the State pursuant to § 438.68(f)(1)(iii) to update provider directories no later than the timeframes specified in paragraphs (h)(3)(i) and (ii) of this section.
+
 (4) Provider directories must be made available on the MCO's, PIHP's, PAHP's, or, if applicable, PCCM entity's Web site in a machine readable file and format as specified by the Secretary.
 
 (i) *Information for all enrollees of MCOs, PIHPs, PAHPs, and PCCM entities: Formulary.* Each MCO, PIHP, PAHP, and when appropriate, PCCM entity, must make available in electronic or paper form, the following information about its formulary:
@@ -225,6 +235,6 @@ requirements of this section; and
 
 (3) Formulary drug lists must be made available on the MCO's, PIHP's, PAHP's, or, if applicable, PCCM entity's Web site in a machine readable file and format as specified by the Secretary.
 
-(j) *Applicability date.* This section applies to the rating period for contracts with MCOs, PIHPs, PAHPs, PCCMs, and PCCM entities beginning on or after July 1, 2017. Until that applicability date, states are required to continue to comply with § 438.10 contained in the 42 CFR parts 430 to 481, edition revised as of October 1, 2015.
+(j) *Applicability.* States will not be held out of compliance with the requirements of paragraph (c)(3) of this section prior to the first rating period for contracts with MCOs, PIHPs, or PAHPs beginning on or after 2 years after July 9, 2024, so long as they comply with the corresponding standard(s) codified in 42 CFR 438.10(c)(3) (effective as of October 1, 2023). States will not be held out of compliance with the requirements of paragraph (d)(2) of this section prior to the first rating period for contracts with MCOs, PIHPs, or PAHPs beginning on or after 3 years after the July 9, 2024, so long as they comply with the corresponding standard(s) codified in 42 CFR 438.10(d)(2) (effective as of October 1, 2023). States will not be held out of compliance with the requirements of paragraph (h)(1) of this section prior to July 1, 2025, so long as they comply with the corresponding standard(s) codified in 42 CFR 438.10(h)(1) (effective as of October 1, 2023). States will not be held out of compliance with the requirements of paragraph (h)(1)(ix) of this section prior to July 1, 2025. Paragraph (h)(3)(iii) of this section applies to the first rating period for contracts with MCOs, PIHPs and PAHPs beginning on or after 4 years after July 9, 2024.
 
-[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 85 FR 72840, Nov. 13, 2020]
+[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 85 FR 72840, Nov. 13, 2020; 89 FR 41273, May 10, 2024]

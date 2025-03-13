@@ -1,7 +1,5 @@
 ##### § 438.3 Standard contract requirements. #####
 
-Link to an amendment published at 89 FR 41267, May 10, 2024.
-
 (a) *CMS review.* The CMS must review and approve all MCO, PIHP, and PAHP contracts, including those risk and nonrisk contracts that, on the basis of their value, are not subject to the prior approval requirement in § 438.806. Proposed final contracts must be submitted in the form and manner established by CMS. For States seeking approval of contracts prior to a specific effective date, proposed final contracts must be submitted to CMS for review no later than 90 days prior to the effective date of the contract.
 
 (b) *Entities eligible for comprehensive risk contracts.* A State may enter into a comprehensive risk contract only with the following:
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 41267, May 10, 2024.
 
 (i) Specifically identified in the applicable contract submitted for CMS review and approval.
 
-(ii) The final capitation rates must be based only upon services covered under the State plan and additional services deemed by the State to be necessary to comply with the requirements of subpart K of this part (applying parity standards from the Mental Health Parity and Addiction Equity Act), and represent a payment amount that is adequate to allow the MCO, PIHP or PAHP to efficiently deliver covered services to Medicaid-eligible individuals in a manner compliant with contractual requirements.
+(ii) The final capitation rates must be based only upon services covered under the State plan, ILOS, and additional services deemed by the State to be necessary to comply with the requirements of subpart K of this part (applying parity standards from the Mental Health Parity and Addiction Equity Act), and represent a payment amount that is adequate to allow the MCO, PIHP or PAHP to efficiently deliver covered services to Medicaid-eligible individuals in a manner compliant with contractual requirements.
 
 (2) Capitation payments may only be made by the State and retained by the MCO, PIHP or PAHP for Medicaid-eligible enrollees.
 
@@ -42,15 +40,21 @@ Link to an amendment published at 89 FR 41267, May 10, 2024.
 
 (ii) Any services necessary for compliance by the MCO, PIHP, or PAHP with the requirements of subpart K of this part and only to the extent such services are necessary for the MCO, PIHP, or PAHP to comply with § 438.910.
 
-(2) An MCO, PIHP, or PAHP may cover, for enrollees, services or settings that are in lieu of services or settings covered under the State plan as follows:
+(2) An MCO, PIHP, or PAHP may cover, for enrollees, an ILOS as follows:
 
-(i) The State determines that the alternative service or setting is a medically appropriate and cost effective substitute for the covered service or setting under the State plan;
+(i) The State determines that the ILOS is a medically appropriate and cost effective substitute for the covered service or setting under the State plan;
 
-(ii) The enrollee is not required by the MCO, PIHP, or PAHP to use the alternative service or setting;
+(ii) The enrollee is not required by the MCO, PIHP, or PAHP to use the ILOS, and the MCO, PIHP, or PAHP must comply with the following requirements:
 
-(iii) The approved in lieu of services are authorized and identified in the MCO, PIHP, or PAHP contract, and will be offered to enrollees at the option of the MCO, PIHP, or PAHP; and
+(A) An enrollee who is offered or utilizes an ILOS offered as a substitute for a covered service or setting under the State plan retains all rights and protections afforded under part 438, and if an enrollee chooses not to receive an ILOS, they retain their right to receive the service or setting covered under the State plan on the same terms as would apply if an ILOS was not an option; and
 
-(iv) The utilization and actual cost of in lieu of services is taken into account in developing the component of the capitation rates that represents the covered State plan services, unless a statute or regulation explicitly requires otherwise.
+(B) An ILOS may not be used to reduce, discourage, or jeopardize an enrollee's access to services and settings covered under the State plan, and an MCO, PIHP, or PAHP may not deny access to a service or setting covered under the State plan, on the basis that the enrollee has been offered an ILOS as an optional substitute for a service or setting covered under the State plan, is currently receiving an ILOS as a substitute for a service or setting covered under the State plan, or has utilized an ILOS in the past;
+
+(iii) The approved ILOS is authorized and identified in the MCO, PIHP, or PAHP contract, and will be offered to enrollees at the option of the MCO, PIHP, or PAHP;
+
+(iv) The utilization and actual cost of the ILOS is taken into account in developing the component of the capitation rates that represents the covered State plan services and settings, unless a statute or regulation explicitly requires otherwise; and
+
+(v) With the exception of a short term stay as specified in § 438.6(e) in an Institution for Mental Diseases (IMD), as defined in § 435.1010 of this chapter, for inpatient mental health or substance use disorder treatment, an ILOS must also comply with the requirements in § 438.16.
 
 (f) *Compliance with applicable laws and conflict of interest safeguards.* All contracts with MCOs, PIHPs, PAHPs, PCCMs and PCCM entities must:
 
@@ -65,6 +69,24 @@ Link to an amendment published at 89 FR 41267, May 10, 2024.
 (i) *Physician incentive plans.* (1) MCO, PIHP, and PAHP contracts must provide for compliance with the requirements set forth in §§ 422.208 and 422.210 of this chapter.
 
 (2) In applying the provisions of §§ 422.208 and 422.210 of this chapter, references to “MA organization,” “CMS,” and “Medicare beneficiaries” must be read as references to “MCO, PIHP, or PAHP,” “State,” and “Medicaid beneficiaries,” respectively.
+
+(3) The State, through its contracts with an MCO, PIHP, and PAHP must require that incentive payment contracts between the MCO, PIHP, and PAHP and network providers:
+
+(i) Have a defined performance period that can be tied to the applicable MLR reporting periods.
+
+(ii) Be signed and dated by all appropriate parties before the commencement of the applicable performance period.
+
+(iii) Include clearly-defined, objectively measurable, and well-documented clinical or quality improvement standards that the provider must meet to receive the incentive payment.
+
+(iv) Specify a dollar amount or a percentage of a verifiable dollar amount that can be clearly linked to successful completion of the metrics defined in the incentive payment contract, including a date of payment.
+
+(4) The State through its contracts with an MCO, PIHP, and PAHP must:
+
+(i) Define the documentation that must be maintained by the MCO, PIHP, and PAHP to support the provider incentive payments.
+
+(ii) Prohibit the use of attestations as supporting documentation for data that factor into the MLR calculation.
+
+(iii) Require the MCO, PIHP, and PAHP to make incentive payment contracts, and any documentation in paragraph (e)(4)(i) of this section, available to the State upon request and at any routine frequency established in the State's contract with the MCO, PIHP, and PAHP.
 
 (j) *Advance directives.* (1) All MCO and PIHP contracts must provide for compliance with the requirements of § 422.128 of this chapter for maintaining written policies and procedures for advance directives, as if such regulation applied directly to MCOs and PIHPs.
 
@@ -120,6 +142,6 @@ Link to an amendment published at 89 FR 41267, May 10, 2024.
 
 (u) *Recordkeeping requirements.* MCOs, PIHPs, and PAHPs must retain, and require subcontractors to retain, as applicable, the following information: enrollee grievance and appeal records in § 438.416, base data in § 438.5(c), MLR reports in § 438.8(k), and the data, information, and documentation specified in §§ 438.604, 438.606, 438.608, and 438.610 for a period of no less than 10 years.
 
-(v) *Applicability date.* Sections 438.3(h) and (q) apply to the rating period for contracts with MCOs, PIHPs, PAHPs, PCCMs, and PCCM entities beginning on or after July 1, 2017. Until that applicability date, states are required to continue to comply with § 438.6(g) and (k) contained in the 42 CFR, parts 430 to 481, edition revised as of October 1, 2015.
+(v) *Applicability date.* Paragraphs (e)(2)(v) of this section applies to the first rating period for contracts with MCOs, PIHPs and PAHPs beginning on or after 60 days following July 9, 2024, and paragraphs (i)(3) and (4) of this section apply to the first rating period for contracts with MCOs, PIHPs and PAHPs beginning on or after 1 year following July 9, 2024.
 
-[81 FR 27853, May 6, 2016, as amended at 85 FR 37243, June 19, 2020; 85 FR 72837, Nov. 13, 2020; 85 FR 87101, Dec. 31, 2020; 89 FR 37691, May 6, 2024]
+[81 FR 27853, May 6, 2016, as amended at 85 FR 37243, June 19, 2020; 85 FR 72837, Nov. 13, 2020; 85 FR 87101, Dec. 31, 2020; 89 FR 37691, May 6, 2024; 89 FR 41267, May 10, 2024]

@@ -1,7 +1,5 @@
 ##### § 457.10 Definitions and use of terms. #####
 
-Link to an amendment published at 89 FR 41284, May 10, 2024.
-
 For purposes of this part the following definitions apply:
 
 *Actuarially sound principles* means generally accepted actuarial principles and practices that are applied to determine aggregate utilization patterns, are appropriate for the population and services to be covered, and have been certified by actuaries who meet the qualification standards established by the Actuarial Standards Board.
@@ -120,6 +118,8 @@ For purposes of this part the following definitions apply:
 
 *Household income* is defined as provided in § 435.603(d) of this chapter.
 
+*In lieu of service or setting (ILOS)* is defined as provided in § 438.2 of this chapter.
+
 *Insurance affordability program* is defined as provided in § 435.4 of this chapter.
 
 *Joint application* has the meaning assigned at § 457.301.
@@ -236,4 +236,4 @@ For purposes of this part the following definitions apply:
 
 *Well-baby and well-child care services* means regular or preventive diagnostic and treatment services necessary to ensure the health of babies, children and adolescents as defined by the State. For purposes of cost sharing, the term has the meaning assigned at § 457.520.
 
-[66 FR 2670, Jan. 11, 2001, as amended at 67 FR 61974, Oct. 2, 2002; 75 FR 48852, Aug. 11, 2010; 77 FR 17213, Mar. 23, 2012; 78 FR 42312, July 15, 2013; 81 FR 27896, May 6, 2016; 81 FR 47046, July 20, 2016; 81 FR 86463, Nov. 30, 2016]
+[66 FR 2670, Jan. 11, 2001, as amended at 67 FR 61974, Oct. 2, 2002; 75 FR 48852, Aug. 11, 2010; 77 FR 17213, Mar. 23, 2012; 78 FR 42312, July 15, 2013; 81 FR 27896, May 6, 2016; 81 FR 47046, July 20, 2016; 81 FR 86463, Nov. 30, 2016; 89 FR 41284, May 10, 2024]

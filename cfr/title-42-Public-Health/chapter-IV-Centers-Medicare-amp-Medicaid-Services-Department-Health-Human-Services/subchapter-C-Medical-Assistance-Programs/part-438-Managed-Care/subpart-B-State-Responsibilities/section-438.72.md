@@ -1,9 +1,7 @@
 ##### § 438.72 Additional requirements for long-term services and supports. #####
 
-Link to an amendment published at 89 FR 53501, June 27, 2024.
+(a) [Reserved]
 
-(a) *Nursing facility services and services delivered in intermediate care facilities for individuals with intellectual disabilities (ICFs/IID).* The State must comply with the requirements in § 442.43 for nursing facility and ICF/IID services.
+(b) *Services authorized under section 1915(c) waivers and section 1915(i), (j), and (k) State plan authorities.* The State must comply with the requirements at §§ 441.301(c)(1) through (3), 441.302(a)(6), 441.302(k), 441.311, and 441.313 for services authorized under section 1915(c) waivers and section 1915(i), (j), and (k) State plan authorities.
 
-(b) [Reserved]
-
-[89 FR 40995, May 10, 2024]
+[89 FR 53501, June 27, 2024]

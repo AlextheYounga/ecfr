@@ -1,5 +1,7 @@
 ##### § 31.3406-0 Outline of the backup withholding regulations. #####
 
+Link to an amendment published at 89 FR 56582, July 9, 2024.
+
 This section lists paragraphs contained in §§ 31.3406(a)-1 through 31.3406(i)-1.
 
 § 31.3406(a)-1 Backup withholding requirement on reportable payments.

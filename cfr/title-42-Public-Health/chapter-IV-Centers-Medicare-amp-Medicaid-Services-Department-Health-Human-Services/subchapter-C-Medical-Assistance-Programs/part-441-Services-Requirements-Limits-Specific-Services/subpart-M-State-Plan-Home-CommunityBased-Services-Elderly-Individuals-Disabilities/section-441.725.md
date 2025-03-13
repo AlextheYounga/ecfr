@@ -1,7 +1,5 @@
 ##### § 441.725 Person-centered service plan. #####
 
-Link to an amendment published at 89 FR 40871, May 10, 2024.
-
 (a) *Person-centered planning process.* Based on the independent assessment required in § 441.720, the State must develop (or approve, if the plan is developed by others) a written service plan jointly with the individual (including, for purposes of this paragraph, the individual and the individual's authorized representative if applicable). The person-centered planning process is driven by the individual. The process:
 
 (1) Includes people chosen by the individual.
@@ -64,4 +62,6 @@ Link to an amendment published at 89 FR 40871, May 10, 2024.
 
 (viii) Include an assurance that the interventions and supports will cause no harm to the individual.
 
-(c) Reviewing the person-centered service plan. The person-centered service plan must be reviewed, and revised upon reassessment of functional need as required in § 441.720, at least every 12 months, when the individual's circumstances or needs change significantly, and at the request of the individual.
+(c) Reviewing the person-centered service plan. The State must ensure that the person-centered service plan for every individual is reviewed, and revised as appropriate, based upon the reassessment of functional need as required in § 441.720, at least every 12 months, when the individual's circumstances or needs change significantly, and at the request of the individual. States must adhere to the requirements of § 441.301(c)(3), except that the references to section 1915(c) of the Act are instead references to section 1915(i) of the Act.
+
+[79 FR 3033, Jan. 16, 2014, as amended at 89 FR 40871, May 10, 2024]

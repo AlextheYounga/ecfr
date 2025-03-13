@@ -1,7 +1,5 @@
 ##### § 438.2 Definitions. #####
 
-Link to an amendment published at 89 FR 41267, May 10, 2024.
-
 As used in this part—
 
 *Abuse* means as the term is defined in § 455.2 of this chapter.

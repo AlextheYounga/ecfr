@@ -1,7 +1,5 @@
 ##### § 438.602 State responsibilities. #####
 
-Link to an amendment published at 89 FR 41284, May 10, 2024.
-
 (a) *Monitoring contractor compliance.* Consistent with § 438.66, the State must monitor the MCO's, PIHP's, PAHP's, PCCM's or PCCM entity's compliance, as applicable, with §§ 438.604, 438.606, 438.608, 438.610, 438.230, and 438.808.
 
 (b) *Screening and enrollment and revalidation of providers.* (1) The State must screen and enroll, and periodically revalidate, all network providers of MCOs, PIHPs, and PAHPs, in accordance with the requirements of part 455, subparts B and E of this chapter. This requirement extends to PCCMs and PCCM entities to the extent the primary care case manager is not otherwise enrolled with the State to provide services to FFS beneficiaries. This provision does not require the network provider to render services to FFS beneficiaries.
@@ -26,6 +24,28 @@ Link to an amendment published at 89 FR 41284, May 10, 2024.
 
 (4) The results of any audits under paragraph (e) of this section.
 
+(5) Enrollee handbooks, provider directories, and formularies required at § 438.10(g) through (i).
+
+(6) The information on rate ranges required at § 438.4(c)(2)(iv), if applicable.
+
+(7) The reports required at §§ 438.66(e) and 438.207(d).
+
+(8) The network adequacy standards required at § 438.68(b)(1) through (2) and (e).
+
+(9) The results of secret shopper surveys required at § 438.68(f).
+
+(10) State directed payment evaluation reports required in § 438.6(c)(2)(v)(C).
+
+(11) Information on all required Application Programming Interfaces including as specified in § 431.60(d) and (f).
+
+(12) Quality related information as required in §§ 438.332(c)(1), 438.340(d), 438.362(c) and 438.364(c)(2)(i).
+
+(13) Documentation of compliance with requirements in subpart K—Parity in Mental Health and Substance Use Disorder Benefits.
+
 (h) *Contracting integrity.* The State must have in place conflict of interest safeguards described in § 438.58 and must comply with the requirement described in section 1902(a)(4)(C) of the Act applicable to contracting officers, employees, or independent contractors.
 
 (i) *Entities located outside of the U.S.* The State must ensure that the MCO, PIHP, PAHP, PCCM, or PCCM entity with which the State contracts under this part is not located outside of the United States and that no claims paid by an MCO, PIHP, or PAHP to a network provider, out-of-network provider, subcontractor or financial institution located outside of the U.S. are considered in the development of actuarially sound capitation rates.
+
+(j) *Applicability.* Paragraphs (g)(5) through (13) of this section apply to the first rating period for contracts with MCOs, PIHPs and PAHPs beginning on or after 2 years after July 9, 2024.
+
+[81 FR 27853, May 6, 2016, as amended at 89 FR 41284, May 10, 2024]

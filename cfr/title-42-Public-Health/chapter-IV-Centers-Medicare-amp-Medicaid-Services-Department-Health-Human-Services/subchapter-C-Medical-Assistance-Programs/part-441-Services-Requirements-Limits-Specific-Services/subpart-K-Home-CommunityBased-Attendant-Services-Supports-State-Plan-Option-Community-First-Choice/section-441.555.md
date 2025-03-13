@@ -1,7 +1,5 @@
 ##### § 441.555 Support system. #####
 
-Link to an amendment published at 89 FR 40870, May 10, 2024.
-
 For each service delivery model available, States must provide, or arrange for the provision of, a support system that meets all of the following conditions:
 
 (a) Appropriately assesses and counsels an individual before enrollment.
@@ -57,3 +55,7 @@ For each service delivery model available, States must provide, or arrange for t
 (5) Providers of State plan HCBS for the individual, or those who have an interest in or are employed by a provider of State plan HCBS for the individual, except when the State demonstrates that the only willing and qualified entity/entities to perform assessments of functional need and develop person-centered service plans in a geographic area also provides HCBS, and the State devises conflict of interest protections including separation of assessment/planning and HCBS provider functions within provider entities, which are described in the State plan, and individuals are provided with a clear and accessible alternative dispute resolution process.
 
 (d) Ensures the responsibilities for assessment of functional need and person-centered service plan development are identified.
+
+(e) Implement and maintain a grievance process, in accordance with § 441.301(c)(7), except that the references to section 1915(c) of the Act are instead references to section 1915(k) of the Act.
+
+[77 FR 26898, May 7, 2012, as amended at 89 FR 40870, May 10, 2024]

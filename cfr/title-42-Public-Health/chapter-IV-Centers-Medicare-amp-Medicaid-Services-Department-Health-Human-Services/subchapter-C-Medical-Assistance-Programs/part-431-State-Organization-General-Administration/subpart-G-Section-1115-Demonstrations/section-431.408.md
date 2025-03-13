@@ -1,7 +1,5 @@
 ##### § 431.408 State public notice process. #####
 
-Link to an amendment published at 89 FR 40863, May 10, 2024.
-
 (a) *General.* A State must provide at least a 30-day public notice and comment period regarding applications for a demonstration project, or an extension of an existing demonstration project that the State intends to submit to CMS for review and consideration.
 
 (1) *Public notice and comment period.* Prior to submitting an application to CMS for a new demonstration project or an extension of a previously approved demonstration project, the State must provide at least a 30-day public notice and comment period, and the public notice shall include all of the following information:
@@ -32,7 +30,7 @@ Link to an amendment published at 89 FR 40863, May 10, 2024.
 
 (3) *Public hearings.* At least 20 days prior to submitting an application for a new demonstration project or extension of an existing demonstration project to CMS for review, the State must have conducted at least two public hearings, on separate dates and at separate locations, regarding the State's demonstration application at which members of the public throughout the State have an opportunity to provide comments. The State must use telephonic and/or Web conference capabilities for at least one of the two required public hearings to ensure statewide accessibility to the public hearing unless it can document it has afforded the public throughout the State the opportunity to provide comment, such as holding the two public hearings in geographically distinct areas of the State. The State must use at least two of the following public forums:
 
-(i) The Medical Care Advisory Committee that operates in accordance with § 431.12 of this subpart; or
+(i) The Medicaid Advisory Committee and Beneficiary Advisory Council that operate in accordance with § 431.12 of this subpart; or
 
 (ii) A commission or other similar process, where meetings are open to members of the public; or
 
@@ -47,3 +45,5 @@ Link to an amendment published at 89 FR 40863, May 10, 2024.
 (2) Consultation with Federally-recognized Indian tribes and solicitation of advice from affected Indian health providers and urban Indian organizations must be conducted in accordance with the consultation process outlined in the July 17, 2001 letter or the State's formal tribal consultation agreement or process and the process for seeking advice from Indian Health providers must be conducted as outlined in the State's approved Medicaid State Plan.
 
 (3) Documentation of the State's consultation activities must be included in the demonstration application, which must describe the notification process, the entities involved in the consultation(s), the date(s) and location(s) of the consultation(s), issues raised, and the potential resolution for such issues.
+
+[77 FR 11696, Feb. 27, 2012, as amended at 89 FR 40863, May 10, 2024]

@@ -1,5 +1,7 @@
 ##### § 360.10 Resolution plans required for insured depository institutions with $50 billion or more in total assets. #####
 
+Link to an amendment published at 89 FR 56648, July 9, 2024.
+
 (a) *Scope and purpose.* This section requires each insured depository institution with $50 billion or more in total assets to submit periodically to the FDIC a plan for the resolution of such institution in the event of its failure. This section also establishes the rules and requirements regarding the submission and content of a resolution plan as well as procedures for review by the FDIC of a resolution plan. This section requires a covered insured depository institution to submit a resolution plan that should enable the FDIC, as receiver, to resolve the institution under Sections 11 and 13 of the Federal Deposit Insurance Act (“FDI Act”), 12 U.S.C. 1821 and 1823, in a manner that ensures that depositors receive access to their insured deposits within one business day of the institution's failure (two business days if the failure occurs on a day other than Friday), maximizes the net present value return from the sale or disposition of its assets and minimizes the amount of any loss realized by the creditors in the resolution. This rule is intended to ensure that the FDIC has access to all of the material information it needs to resolve efficiently a covered insured depository institution in the event of its failure.
 
 (b) *Definitions*—(1) *Affiliate* has the same meaning given such term in Section 3(w)(6) of the FDI Act, 12 U.S.C. 1813(w)(6).

@@ -1,7 +1,5 @@
 ##### § 441.580 Data collection. #####
 
-Link to an amendment published at 89 FR 40870, May 10, 2024.
-
 A State must provide the following information regarding the provision of home and community-based attendant services and supports under Community First Choice for each Federal fiscal year for which the services and supports are provided:
 
 (a) The number of individuals who are estimated to receive Community First Choice services and supports under this State plan option during the Federal fiscal year.
@@ -20,4 +18,8 @@ A State must provide the following information regarding the provision of home a
 
 (h) Data regarding the impact of Community First Choice services and supports on the physical and emotional health of individuals.
 
-(i) Other data as determined by the Secretary.
+(i) Data and information as required in §§ 441.302(k)(6) and 441.311, except that the references to section 1915(c) of the Act are instead references to section 1915(k) of the Act.
+
+(j) Other data as determined by the Secretary.
+
+[77 FR 26898, May 7, 2012, as amended at 89 FR 40870, May 10, 2024]

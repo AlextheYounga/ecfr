@@ -1,7 +1,5 @@
 ##### § 441.303 Supporting documentation required. #####
 
-Link to an amendment published at 89 FR 40866, May 10, 2024.
-
 The agency must furnish CMS with sufficient information to support the assurances required by § 441.302. Except as CMS may otherwise specify for particular waivers, the information must consist of the following:
 
 (a) A description of the safeguards necessary to protect the health and welfare of beneficiaries. This information must include a copy of the standards established by the State for facilities that are covered by section 1616(e) of the Act.
@@ -36,7 +34,7 @@ D + D′ ≤G + G′.The symbol “≤” means that the result of the left side
 
 (5) For persons diverted rather than deinstitutionalized, the State's evaluation process required by § 441.303(c) must provide for a more detailed description of their evaluation and screening procedures for beneficiaries to ensure that waiver services will be limited to persons who would otherwise receive the level of care provided in a hospital, NF, or ICF/IID, as applicable.
 
-(6) The State must indicate the number of unduplicated beneficiaries to which it intends to provide waiver services in each year of its program. This number will constitute a limit on the size of the waiver program unless the State requests and the Secretary approves a greater number of waiver participants in a waiver amendment.
+(6) The State must indicate the number of unduplicated beneficiaries to which it intends to provide waiver services in each year of its program. This number will constitute a limit on the size of the waiver program unless the State requests and the Secretary approves a greater number of waiver participants in a waiver amendment. If the State has a limit on the size of the waiver program and maintains a list of individuals who are waiting to enroll in the waiver program, the State must meet the reporting requirements at § 441.311(d)(1).
 
 (7) In determining the average per capita expenditures that would have been made in a waiver year, for waiver estimates that apply to persons with Intellectual Disability or related conditions, the agency may include costs of Medicaid residents in ICFs/IID that have been terminated on or after November 5, 1990.
 
@@ -52,4 +50,4 @@ D + D′ ≤G + G′.The symbol “≤” means that the result of the left side
 
 (i) For States offering home and community-based services for individuals diagnosed as chronically mentally ill, an explanation of why these individuals would not be placed in an institution for mental diseases (IMD) absent the waiver, and the age group of these individuals.
 
-[46 FR 48532, Oct. 1, 1981, as amended at 50 FR 10027, Mar. 13, 1985; 50 FR 25080, June 17, 1985; 59 FR 37718, July 25, 1994]
+[46 FR 48532, Oct. 1, 1981, as amended at 50 FR 10027, Mar. 13, 1985; 50 FR 25080, June 17, 1985; 59 FR 37718, July 25, 1994; 89 FR 40866, May 10, 2024]

@@ -1,7 +1,5 @@
 ##### § 441.745 State plan HCBS administration: State responsibilities and quality improvement. #####
 
-Link to an amendment published at 89 FR 40871, May 10, 2024.
-
 (a) *State plan HCBS administration*—(1) *State responsibilities.* The State must carry out the following responsibilities in administration of its State plan HCBS:
 
 (i) *Number served.* The State will annually provide CMS with the projected number of individuals to be enrolled in the benefit and the actual number of unduplicated individuals enrolled in State plan HCBS in the previous year.
@@ -14,7 +12,15 @@ Link to an amendment published at 89 FR 40871, May 10, 2024.
 
 (C) A State may not limit access to services based upon the income of eligible individuals, the cost of services, or the individual's location in the State.
 
-(iii) *Appeals.* A State must provide individuals with advance notice of and the right to appeal terminations, suspensions, or reductions of Medicaid eligibility or covered services as described in part 431, subpart E.
+(iii) *Grievances.* A State must implement and maintain a grievance process in accordance with § 441.301(c)(7), except that the references to section 1915(c) of the Act are instead references to section 1915(i) of the Act.
+
+(iv) *Appeals.* A State must provide individuals with advance notice of and the right to appeal terminations, suspensions, or reductions of Medicaid eligibility or covered services as described in part 431, subpart E, of this chapter.
+
+(v) A State must implement an incident management system in accordance with § 441.302(a)(6), except that the references to section 1915(c) of the Act are instead references to section 1915(i) of the Act.
+
+(vi) A State must assure payment rates are adequate to ensure a sufficient direct care workforce to meet the needs of beneficiaries and provide access to services in the amount, duration, and scope specified in beneficiaries' person-centered service plans, in accordance with § 441.302(k), except that the references to section 1915(c) of the Act are instead references to section 1915(i) of the Act.
+
+(vii) A State must assure the submission of data and information as required in § 441.302(k)(6) and § 441.311, except that the references to section 1915(c) of the Act are instead references to section 1915(i) of the Act.
 
 (2) *Administration*—(i) *Option for presumptive payment.* (A) The State may provide for a period of presumptive payment, not to exceed 60 days, for Medicaid eligible individuals the State has reason to believe may be eligible for the State plan HCBS benefit. FFP is available for both services that meet the definition of medical assistance and necessary administrative expenditures for evaluation of eligibility for the State plan HCBS benefit under § 441.715(d) and assessment of need for specific HCBS under § 441.720(a), prior to an individual's receipt of State plan HCBS or determination of ineligibility for the benefit.
 
@@ -62,7 +68,7 @@ Link to an amendment published at 89 FR 40871, May 10, 2024.
 
 (1) *Quality Improvement Strategy.* The quality improvement strategy must include all of the following:
 
-(i) Incorporate a continuous quality improvement process that includes monitoring, remediation, and quality improvement.
+(i) Incorporate a continuous quality improvement process that includes monitoring, remediation, and quality improvement, including recognizing and reporting critical incidents, as defined in § 441.302(a)(6)(i)(A), except that the references to section 1915(c) of the Act are instead references to section 1915(i) of the Act.
 
 (ii) Be evidence-based, and include outcome measures for program performance, quality of care, and individual experience as determined by the Secretary.
 
@@ -70,4 +76,8 @@ Link to an amendment published at 89 FR 40871, May 10, 2024.
 
 (iv) Measure individual outcomes associated with the receipt of HCBS, related to the implementation of goals included in the individual service plan.
 
+(v) Implementation of the Home and Community-Based Services Quality Measure Set in accordance with § 441.312, except that the references to section 1915(c) of the Act are instead references to section 1915(i) of the Act.
+
 (2) [Reserved]
+
+[79 FR 3033, Jan. 16, 2014, as amended at 89 FR 40871, May 10, 2024]

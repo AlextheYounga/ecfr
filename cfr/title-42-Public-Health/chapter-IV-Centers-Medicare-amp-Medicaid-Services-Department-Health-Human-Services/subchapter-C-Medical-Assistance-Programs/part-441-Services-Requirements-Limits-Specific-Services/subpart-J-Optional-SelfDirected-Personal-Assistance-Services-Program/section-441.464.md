@@ -1,7 +1,5 @@
 ##### § 441.464 State assurances. #####
 
-Link to an amendment published at 89 FR 40870, May 10, 2024.
-
 A State must assure that the following requirements are met:
 
 (a) *Necessary safeguards.* Necessary safeguards have been taken to protect the health and welfare of individuals furnished services under the program and to assure the financial accountability for funds expended for self-directed services.
@@ -86,6 +84,14 @@ A State must assure that the following requirements are met:
 
 (4) The State may mandate the use of additional assistance, including the use of a financial management entity, or may initiate an involuntary disenrollment in accordance with § 441.458, if, after additional information, counseling, training or assistance is provided to a participant (or participant's representative, if applicable), the participant (or participant's representative, if applicable) has continued to demonstrate an inability to effectively manage the services and budget.
 
-(e) *Annual report.* The State must provide to CMS an annual report on the number of individuals served and the total expenditures on their behalf in the aggregate.
+(5) Implement and maintain a grievance process in accordance with § 441.301(c)(7), except that the references to section 1915(c) of the Act are instead references to section 1915(j) of the Act.
 
-(f) *Three-year evaluation.* The State must provide to CMS an evaluation of the overall impact of the self-directed PAS option on the health and welfare of participating individuals compared to non-participants every 3 years.
+(e) *Incident management system.* The State operates and maintains an incident management system that identifies, reports, triages, investigates, resolves, tracks, and trends critical incidents and adheres to requirements of § 441.302(a)(6), except that the references to section 1915(c) of the Act are instead references to section 1915(j) of the Act.
+
+(f) *Payment rates. Payment rates* are adequate to ensure a sufficient direct care workforce to meet the needs of beneficiaries and provide access to services in the amount, duration, and scope specified in beneficiaries' person-centered service plans, in accordance with § 441.302(k), except that the references to section 1915(c) of the Act are instead references to section 1915(j) of the Act.
+
+(g) *Annual report.* The State must provide to CMS an annual report on the number of individuals served and the total expenditures on their behalf in the aggregate.
+
+(h) *Three-year evaluation.* The State must provide to CMS an evaluation of the overall impact of the self-directed PAS option on the health and welfare of participating individuals compared to non-participants every 3 years.
+
+[73 FR 57881, Oct. 3, 2008, as amended at 89 FR 40870, May 10, 2024]

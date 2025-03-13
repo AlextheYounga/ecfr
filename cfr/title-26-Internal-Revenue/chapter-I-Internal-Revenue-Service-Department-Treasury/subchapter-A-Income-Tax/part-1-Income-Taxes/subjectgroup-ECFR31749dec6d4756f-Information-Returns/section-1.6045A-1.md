@@ -1,5 +1,7 @@
 ##### § 1.6045A-1 Statements of information required in connection with transfers of securities. #####
 
+Link to an amendment published at 89 FR 56580, July 9, 2024.
+
 (a) *Duty to furnish transfer statement*—(1) *In general*—(i) *Transfers between accounts.* Except as provided in paragraphs (a)(1)(ii) through (v) of this section, every applicable person (transferor) (as described in paragraph (a)(4) of this section) that transfers custody of a specified security to a broker (as described in paragraph (a)(5) of this section) must furnish to the receiving broker a transfer statement that includes the information described in paragraph (b) of this section with respect to the transferred security. Except as provided in paragraphs (b)(1)(vii) and (b)(3) of this section (relating to noncovered securities and certain securities for which basis is determined under an average basis method), a transferor must furnish a separate statement for each security and, if transferring custody of the same security acquired on different dates or at different prices, for each acquisition.
 
 (ii) *Cash on delivery accounts and multiple broker arrangements*—(A) *Sales.* A custodian or other transferor that transfers custody of a security to a broker solely to effect a sale must furnish a transfer statement only to the broker that effects the sale. However, no transfer statement is required if the transferor itself either effects the sale or is required to report the sale of the security under § 1.6045-1.

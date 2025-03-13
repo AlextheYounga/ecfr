@@ -1,7 +1,5 @@
 ##### § 438.340 Managed care State quality strategy. #####
 
-Link to an amendment published at 89 FR 41278, May 10, 2024.
-
 (a) *General rule.* Each State contracting with an MCO, PIHP, or PAHP as defined in § 438.2 or with a PCCM entity as described in § 438.310(c)(2) must draft and implement a written quality strategy for assessing and improving the quality of health care and services furnished by the MCO, PIHP, PAHP or PCCM entity.
 
 (b) *Elements of the State quality strategy.* At a minimum, the State's quality strategy must include the following:
@@ -16,7 +14,7 @@ Link to an amendment published at 89 FR 41278, May 10, 2024.
 
 (ii) The performance improvement projects to be implemented in accordance with § 438.330(d), including a description of any interventions the State proposes to improve access, quality, or timeliness of care for beneficiaries enrolled in an MCO, PIHP, or PAHP.
 
-(4) Arrangements for annual, external independent reviews, in accordance with § 438.350, of the quality outcomes and timeliness of, and access to, the services covered under each MCO, PIHP, PAHP, and PCCM entity (described in § 438.310(c)(2)) contract.
+(4) Arrangements for annual, external independent reviews, in accordance with § 438.350, of the quality outcomes and timeliness of, and access to, the services covered under each MCO, PIHP, and PAHP contract.
 
 (5) A description of the State's transition of care policy required under § 438.62(b)(3).
 
@@ -32,7 +30,7 @@ Link to an amendment published at 89 FR 41278, May 10, 2024.
 
 (c) *Development, evaluation, and revision.* In drafting or revising its quality strategy, the State must:
 
-(1) Make the strategy available for public comment before submitting the strategy to CMS for review, including:
+(1) Make the strategy available for public comment before submitting the strategy to CMS for review in accordance with paragraph (c)(3) of this section, including:
 
 (i) Obtaining input from the Medical Care Advisory Committee (established by § 431.12 of this chapter), beneficiaries, and other stakeholders.
 
@@ -42,16 +40,22 @@ Link to an amendment published at 89 FR 41278, May 10, 2024.
 
 (i) This review must include an evaluation of the effectiveness of the quality strategy conducted within the previous 3 years.
 
-(ii) The State must make the results of the review available on the Web site required under § 438.10(c)(3).
+(ii) The State must make the results of the review, including the evaluation conducted pursuant to paragraph (c)(2)(i) of this section, available on the website required under § 438.10(c)(3).
 
 (iii) Updates to the quality strategy must take into consideration the recommendations provided pursuant to § 438.364(a)(4).
 
-(3) Submit to CMS the following:
+(3) Prior to adopting as final, submit to CMS the following:
 
-(i) A copy of the initial strategy for CMS comment and feedback prior to adopting it in final.
+(i) A copy of the initial strategy for CMS comment and feedback.
 
-(ii) A copy of the revised strategy whenever significant changes, as defined in the state's quality strategy per paragraph (b)(11) of this section, are made to the document, or whenever significant changes occur within the State's Medicaid program.
+(ii) A copy of the strategy—
+
+(A) Every 3 years following the review in paragraph (c)(2) of this section;
+
+(B) Whenever significant changes, as defined in the State's quality strategy per paragraph (b)(10) of this section, are made to the document;
+
+(C) Whenever significant changes occur within the State's Medicaid program.
 
 (d) *Availability.* The State must make the final quality strategy available on the Web site required under § 438.10(c)(3).
 
-[81 FR 27853, May 6, 2016, as amended at 85 FR 72841, Nov. 13, 2020]
+[81 FR 27853, May 6, 2016, as amended at 85 FR 72841, Nov. 13, 2020; 89 FR 41278, May 10, 2024]

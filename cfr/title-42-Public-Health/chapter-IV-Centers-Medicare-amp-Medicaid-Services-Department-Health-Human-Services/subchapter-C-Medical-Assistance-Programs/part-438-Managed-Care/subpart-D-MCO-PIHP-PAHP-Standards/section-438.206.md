@@ -1,7 +1,5 @@
 ##### § 438.206 Availability of services. #####
 
-Link to an amendment published at 89 FR 41276, May 10, 2024.
-
 (a) *Basic rule.* Each State must ensure that all services covered under the State plan are available and accessible to enrollees of MCOs, PIHPs, and PAHPs in a timely manner. The State must also ensure that MCO, PIHP and PAHP provider networks for services covered under the contract meet the standards developed by the State in accordance with § 438.68.
 
 (b) *Delivery network.* The State must ensure, through its contracts, that each MCO, PIHP and PAHP, consistent with the scope of its contracted services, meets the following requirements:
@@ -24,7 +22,7 @@ Link to an amendment published at 89 FR 41276, May 10, 2024.
 
 (1) *Timely access.* Each MCO, PIHP, and PAHP must do the following:
 
-(i) Meet and require its network providers to meet State standards for timely access to care and services, taking into account the urgency of the need for services.
+(i) Meet and require its network providers to meet State standards for timely access to care and services taking into account the urgency of the need for services, as well as appointment wait times specified in § 438.68(e).
 
 (ii) Ensure that the network providers offer hours of operation that are no less than the hours of operation offered to commercial enrollees or comparable to Medicaid FFS, if the provider serves only Medicaid enrollees.
 
@@ -40,6 +38,6 @@ Link to an amendment published at 89 FR 41276, May 10, 2024.
 
 (3) *Accessibility considerations.* Each MCO, PIHP, and PAHP must ensure that network providers provide physical access, reasonable accommodations, and accessible equipment for Medicaid enrollees with physical or mental disabilities.
 
-(d) *Applicability date.* This section applies to the rating period for contracts with MCOs, PIHPs, and PAHPs beginning on or after July 1, 2018. Until that applicability date, states are required to continue to comply with § 438.206 contained in the 42 CFR parts 430 to 481, edition revised as of October 1, 2015.
+(d) *Applicability date.* States will not be held out of compliance with the requirements of paragraphs (c)(1)(i) of this section prior to the first rating period that begins on or after 3 years after July 9, 2024, so long as they comply with the corresponding standard(s) codified in 42 CFR 438.206(c)(1)(i) (effective as of October 1, 2023).
 
-[81 FR 27853, May 6, 2016, as amended at 85 FR 37243, June 19, 2020; 89 FR 37691, May 6, 2024]
+[81 FR 27853, May 6, 2016, as amended at 85 FR 37243, June 19, 2020; 89 FR 37691, May 6, 2024; 89 FR 41276, May 10, 2024]

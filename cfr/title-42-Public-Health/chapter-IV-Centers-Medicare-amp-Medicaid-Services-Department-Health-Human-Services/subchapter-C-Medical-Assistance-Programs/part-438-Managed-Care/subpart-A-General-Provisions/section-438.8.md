@@ -1,7 +1,5 @@
 ##### § 438.8 Medical loss ratio (MLR) standards. #####
 
-Link to an amendment published at 89 FR 41272, May 10, 2024.
-
 (a) *Basic rule.* The State must ensure, through its contracts starting on or after July 1, 2017, that each MCO, PIHP, and PAHP calculate and report a MLR in accordance with this section. For multi-year contracts that do not start in 2017, the State must require the MCO, PIHP, or PAHP to calculate and report a MLR for the rating period that begins in 2017.
 
 (b) *Definitions.* As used in this section, the following terms have the indicated meanings:
@@ -52,9 +50,11 @@ Link to an amendment published at 89 FR 41272, May 10, 2024.
 
 (iii) Expenditures that must be included in incurred claims include the following:
 
-(A) The amount of incentive and bonus payments made, or expected to be made, to network providers.
+(A) The amount of incentive and bonus payments made, or expected to be made, to network providers that are tied to clearly-defined, objectively measurable, and well-documented clinical or quality improvement standards that apply to providers.
 
 (B) The amount of claims payments recovered through fraud reduction efforts, not to exceed the amount of fraud reduction expenses. The amount of fraud reduction expenses must not include activities specified in paragraph (e)(4) of this section.
+
+(C) The amount of payments made to providers under State directed payments described in § 438.6(c).
 
 (iv) Amounts that must either be included in or deducted from incurred claims include, respectively, net payments or receipts related to State mandated solvency funds.
 
@@ -78,7 +78,7 @@ Link to an amendment published at 89 FR 41272, May 10, 2024.
 
 (3) *Activities that improve health care quality.* Activities that improve health care quality must be in one of the following categories:
 
-(i) An MCO, PIHP, or PAHP activity that meets the requirements of 45 CFR 158.150(b) and is not excluded under 45 CFR 158.150(c).
+(i) An MCO, PIHP, or PAHP activity that meets the requirements of 45 CFR 158.150(a) and (b) and is not excluded under 45 CFR 158.150(c).
 
 (ii) An MCO, PIHP, or PAHP activity related to any EQR-related activity as described in § 438.358(b) and (c).
 
@@ -101,6 +101,8 @@ Link to an amendment published at 89 FR 41272, May 10, 2024.
 (v) All changes to unearned premium reserves.
 
 (vi) Net payments or receipts related to risk sharing mechanisms developed in accordance with § 438.5 or § 438.6.
+
+(vii) Payments to the MCO, PIHP, or PAHP for expenditures under State directed payments described in § 438.6(c).
 
 (3) *Federal, State, and local taxes and licensing and regulatory fees.* Taxes, licensing and regulatory fees for the MLR reporting year include:
 
@@ -146,7 +148,7 @@ Link to an amendment published at 89 FR 41272, May 10, 2024.
 
 (3) If a MCO's, PIHP's, or PAHP's experience is non-credible, it is presumed to meet or exceed the MLR calculation standards in this section.
 
-(4) On an annual basis, CMS will publish base credibility factors for MCOs, PIHPs, and PAHPs that are developed according to the following methodology:
+(4) CMS will publish base credibility factors for MCOs, PIHPs, and PAHPs that are developed according to the following methodology:
 
 (i) CMS will use the most recently available and complete managed care encounter data or FFS claims data, and enrollment data, reported by the states to CMS. This data may cover more than 1 year of experience.
 
@@ -179,7 +181,7 @@ between the levels established for non-credible and fully credible plans will be
 
 (vi) Taxes, licensing and regulatory fees.
 
-(vii) Methodology(ies) for allocation of expenditures.
+(vii) Methodology(ies) for allocation of expenditures, which must include a detailed description of the methods used to allocate expenses, including incurred claims, quality improvement expenses, Federal and State taxes and licensing or regulatory fees, and other non-claims costs, as described in 45 CFR 158.170(b).
 
 (viii) Any credibility adjustment applied.
 
@@ -203,4 +205,4 @@ between the levels established for non-credible and fully credible plans will be
 
 (n) *Attestation.* MCOs, PIHPs, and PAHPs must attest to the accuracy of the calculation of the MLR in accordance with requirements of this section when submitting the report required under paragraph (k) of this section.
 
-[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 85 FR 72840, Nov. 13, 2020]
+[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017; 85 FR 72840, Nov. 13, 2020; 89 FR 41272, May 10, 2024]

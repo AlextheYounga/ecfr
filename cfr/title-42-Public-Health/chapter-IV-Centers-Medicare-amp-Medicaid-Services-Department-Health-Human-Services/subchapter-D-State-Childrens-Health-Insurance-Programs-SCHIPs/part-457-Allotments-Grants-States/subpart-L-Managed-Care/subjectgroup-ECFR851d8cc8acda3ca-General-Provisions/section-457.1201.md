@@ -1,16 +1,14 @@
 ##### § 457.1201 Standard contract requirements. #####
 
-Link to an amendment published at 89 FR 41285, May 10, 2024.
-
 (a) *CMS review.* The State must submit all MCO, PAHP, PIHP, PCCM, and PCCM entity contracts for review in the form and manner established by CMS.
 
 (b) *Entities eligible for comprehensive risk contracts.* The State may enter into a comprehensive risk contract only with the entities specified in § 438.3(b)(1) through (3) of this chapter.
 
-(c) *Payment.* The final capitation rates for all MCO, PIHP or PAHP contracts must be identified and developed, and payment must be made in accordance with § 438.3(c) of this chapter, except that the requirement for preapproval of contracts does not apply, and contract rates must be submitted to CMS upon request of the Secretary.
+(c) *Payment.* The final capitation rates for all MCO, PIHP or PAHP contracts must be identified and developed, and payment must be made in accordance with §§ 438.3(c) and 438.16(c)(1) through (3) of this chapter, except that the requirement for preapproval of contracts, certifications by an actuary, annual cost reports, contract arrangements described in § 438.6(c), and references to pass through payments do not apply, and contract rates must be submitted to CMS upon request of the Secretary.
 
 (d) *Enrollment discrimination prohibited.* Contracts with MCOs, PAHPs, PIHPs, PCCMs and PCCM entities must comply with prohibitions on enrollment discrimination in accordance with § 438.3(d) of this chapter, except that § 438.3(d)(2) of this chapter (related to voluntary enrollment) does not apply.
 
-(e) *Services that may be covered by an MCO, PIHP, or PAHP.* An MCO, PIHP, or PAHP may cover, for enrollees, services that are not covered under the State plan in accordance with § 438.3(e) of this chapter.
+(e) *Services that may be covered by an MCO, PIHP, or PAHP.* An MCO, PIHP, or PAHP may cover, for enrollees, services that are not covered under the State plan in accordance with §§ 438.3(e) and 438.16(b), (d), and (e) of this chapter, except that references to § 438.7, IMDs, and rate certifications do not apply and that references to enrollee rights and protections under part 438 should be read to refer to the rights and protections under subparts K and L of this part.
 
 (f) *Compliance with applicable laws and conflict of interest safeguards.* Contracts with MCOs, PAHPs, PIHPs, PCCMs or PCCM entities must comply with Federal laws and regulations in accordance with § 438.3(f) of this chapter.
 
@@ -30,7 +28,7 @@ Link to an amendment published at 89 FR 41285, May 10, 2024.
 
 (n) *Additional rules for contracts with PCCM entities.* (1) States must submit PCCM entity contracts to CMS for review.
 
-(2) Contracts with PCCMs must comply with the requirements of paragraph (o) of this section; § 457.1207; § 457.1240(b) (cross-referencing § 438.330(b)(2), (b)(3), (c), and (e) of this chapter); § 457.1240(e) (cross-referencing § 438.340 of this chapter); and § 457.1250(a) (cross-referencing § 438.350 of this chapter).
+(2) Contracts with PCCMs must comply with the requirements of paragraph (o) of this section; § 457.1207; § 457.1240(b) (cross-referencing § 438.330(b)(2), (b)(3), (c), and (e) of this chapter); § 457.1240(e) (cross-referencing § 438.340 of this chapter).
 
 (o) *Attestations.* Contracts with MCO, PAHP, PIHP, PCCM or PCCM entities must include an attestation to the accuracy, completeness, and truthfulness of claims and payment data, under penalty of perjury.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 89 FR 41285, May 10, 2024.
 
 (q) *Recordkeeping requirements.* Contracts with MCOs, PIHPs, and PAHPs, must comply with the recordkeeping requirements of § 438.3(u) of this chapter.
 
-[81 FR 27897, May 6, 2016, as amended at 82 FR 40, Jan. 3, 2017]
+[81 FR 27897, May 6, 2016, as amended at 82 FR 40, Jan. 3, 2017; May 10, 2024]

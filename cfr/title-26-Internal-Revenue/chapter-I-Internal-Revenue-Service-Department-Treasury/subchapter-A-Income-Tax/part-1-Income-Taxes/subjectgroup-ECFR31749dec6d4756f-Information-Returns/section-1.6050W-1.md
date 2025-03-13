@@ -1,5 +1,7 @@
 ##### § 1.6050W-1 Information reporting for payments made in settlement of payment card and third party network transactions. #####
 
+Link to an amendment published at 89 FR 56580, July 9, 2024.
+
 (a) *In general*—(1) *General rule.* Every payment settlement entity, as defined in paragraph (a)(4) of this section, must file an information return for each calendar year with respect to payments made in settlement of reportable payment transactions, as defined in paragraph (a)(3) of this section, setting forth the following information:
 
 (i) The name, address, and taxpayer identification number (TIN) of each participating payee, as defined in paragraph (a)(5) of this section, to whom one or more payments in settlement of reportable payment transactions are made.

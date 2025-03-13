@@ -1,5 +1,7 @@
 ##### § 210.22 Definitions. #####
 
+Link to an amendment published at 89 FR 56612, July 9, 2024.
+
 For purposes of this subpart:
 
 (a) Unless otherwise specified, the terms used have the meanings set forth in 17 U.S.C. 115(e).

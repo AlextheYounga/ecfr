@@ -1,5 +1,7 @@
 ##### § 1.1012-1 Basis of property. #####
 
+Link to an amendment published at 89 FR 56545, July 9, 2024.
+
 (a) *General rule.* In general, the basis of property is the cost thereof. The cost is the amount paid for such property in cash or other property. This general rule is subject to exceptions stated in subchapter O (relating to gain or loss on the disposition of property), subchapter C (relating to corporate distributions and adjustments), subchapter K (relating to partners and partnerships), and subchapter P (relating to capital gains and losses), chapter 1 of the code.
 
 (b) *Real estate taxes as part of cost.* In computing the cost of real property, the purchaser shall not take into account any amount paid to the seller as reimbursement for real property taxes which are treated under section 164(d) as imposed upon the purchaser. This rule applies whether or not the contract of sale calls for the purchaser to reimburse the seller for such real estate taxes paid or to be paid by the seller. On the other hand, where the purchaser pays (or assumes liability for) real estate taxes which are treated under section 164(d) as imposed upon the seller, such taxes shall be considered part of the cost of the property. It is immaterial whether or not the contract of sale specifies that the sale price has been reduced by, or is in any way intended to reflect, real estate taxes allocable to the seller under section 164(d). For illustrations of the application of this paragraph, see paragraph (b) of § 1.1001-1.
