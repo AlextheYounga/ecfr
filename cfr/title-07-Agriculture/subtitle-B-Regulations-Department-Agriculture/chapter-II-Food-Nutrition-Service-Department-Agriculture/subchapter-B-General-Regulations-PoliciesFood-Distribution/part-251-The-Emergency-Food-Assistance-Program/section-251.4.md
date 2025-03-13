@@ -1,5 +1,7 @@
 ##### § 251.4 Availability of commodities. #####
 
+Link to an amendment published at 89 FR 87250, Oct. 31, 2024.
+
 (a) *General.* The Department shall make commodities available for distribution and use in accordance with the provisions of this part and also in accordance with the terms and conditions of part 250 of this chapter to the extent that the part 250 terms and conditions are not inconsistent with this part.
 
 (b) *Displacement.* State agencies shall require that eligible recipient agencies receiving commodities under this part shall not diminish their normal expenditures for food because of receipt of commodities. Additionally, the Secretary shall withhold commodities from distribution if it is determined that the commodities would substitute for the same or a similar product that would otherwise be purchased in the market.

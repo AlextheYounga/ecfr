@@ -1,5 +1,7 @@
 ##### § 105.253 Risk Group classifications for facilities. #####
 
+Link to an amendment published at 89 FR 86739, Oct. 31, 2024.
+
 (a) For purposes of the Transportation Worker Identification Credential (TWIC) requirements of this subchapter, the following facilities subject to this part are in Risk Group A:
 
 (1) Beginning June 8, 2020: Facilities that receive vessels certificated to carry more than 1,000 passengers.

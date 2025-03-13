@@ -1,5 +1,7 @@
 ##### § 253.5 State agency requirements. #####
 
+Link to an amendment published at 89 FR 87255, Oct. 31, 2024.
+
 (a) *Plan of operation.* (1) The State agency that assumes responsibility for the Food Distribution Program shall submit a plan of operation for approval by FNS. Approval of the plan shall be a prerequisite to the donation of commodities available for use by households under part 250 of this chapter. The approved plan shall be considered permanent, with amendments to be added as changes in State agency administration or management of the program, as described in the plan, are made, or at the request of FNS. No amendment to the plan of operation of any State agency shall be effective without prior approval of FNS, and FNS may require amendment of any plan as a condition of continuing approval. If the agency is not an ITO, the appropriate agency of the State government shall also:
 
 (i) Consult in good faith with the ITO on the reservation where the appropriate agency of the State government is responsible for administering the Food Distribution Program.

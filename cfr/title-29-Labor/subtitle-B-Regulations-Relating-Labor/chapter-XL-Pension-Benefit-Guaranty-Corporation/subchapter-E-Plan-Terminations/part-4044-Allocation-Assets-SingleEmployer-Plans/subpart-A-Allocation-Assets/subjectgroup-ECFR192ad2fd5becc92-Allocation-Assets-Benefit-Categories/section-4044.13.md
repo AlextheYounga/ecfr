@@ -1,0 +1,49 @@
+##### § 4044.13 Priority category 3 benefits. #####
+
+(a) *Definition.* The benefits in priority category 3 are those annuity benefits that were in pay status before the beginning of the 3-year period ending on the termination date, and those annuity benefits that could have been in pay status (then or as of the next payment date under the plan's rules for starting benefit payments) for participants who, before the beginning of the 3-year period ending on the termination date, had reached their Earliest PBGC Retirement Date (as determined under § 4022.10 of this chapter) based on plan provisions in effect on the day before the beginning of the 3-year period ending on the termination date. For example, in a plan with a termination date of September 1, 2012, the benefits in priority category 3 are those annuity benefits that were in pay status on or before September 1, 2009, and those annuity benefits that could have been in pay status for participants who, on or before September 1, 2009, had reached their Earliest PBGC Retirement Date based on plan provisions in effect on September 1, 2009. Benefit increases, as defined in § 4022.2, that were in effect throughout the 5-year period ending on the termination date, including automatic benefit increases during that period to the extent provided in paragraph (b)(5) of this section, shall be included in determining the priority category 3 benefit. For example, in a plan with a termination date of September 1, 2012, a benefit increase that was in effect throughout the 5-year period from September 2, 2007, to September 1, 2012, is included in priority category 3. Benefits are primarily basic-type benefits, although nonbasic-type benefits will be included if any portion of a participant's priority category 3 benefit is not guaranteeable under the provisions of subpart A of part 4022 and § 4022.21 of this chapter.
+
+(b) *Assigning benefits.* The annuity benefit that is assigned to priority category 3 with respect to each participant is the lowest annuity that was paid or payable under the rules in paragraphs (b)(2) through (b)(6) of this section.
+
+(1) *Eligibility of participants and beneficiaries.* A participant or beneficiary is eligible for a priority category 3 benefit if either of the following applies:
+
+(i) The participant's (or beneficiary's) benefit was in pay status before the beginning of the 3-year period ending on the termination date.
+
+(ii) Before the beginning of the 3-year period ending on the termination date, the participant was eligible for an annuity benefit that could have been in pay status and had reached his or her Earliest PBGC Retirement Date (as determined in § 4022.10 of this chapter, based on plan provisions in effect on the day before the beginning of the 3-year period ending on the termination date). Whether a participant was eligible to receive an annuity before the beginning of the 3-year period shall be determined using the plan provisions in effect on the day before the beginning of the 3-year period.
+
+(iii) If a participant described in either of the preceding two paragraphs died during the 3-year period ending on the date of the plan termination and his or her beneficiary is entitled to an annuity, the beneficiary is eligible for a priority category 3 benefit.
+
+(2) *Plan provisions governing determination of benefit.* In determining the amount of the priority category 3 annuity with respect to a participant, the plan administrator shall use the participant's age, service, actual or expected retirement age, and other relevant facts as of the following dates:
+
+(i) Except as provided in paragraph (b)(3), for a participant or beneficiary whose benefit was in pay status before the beginning of the 3-year period ending on the termination date, the priority category 3 benefit shall be determined according to plan provisions in effect on the date the benefit commenced. The form of annuity elected by a retiree is considered the normal form of annuity for that participant.
+
+(ii) Except as provided in paragraph (b)(3), for a participant who was eligible to receive an annuity before the beginning of the 3-year period ending on the termination date but whose benefit was not in pay status, the priority category 3 benefit and the normal form of annuity shall be determined according to plan provisions in effect on the day before the beginning of the 3-year period ending on the termination date as if the benefit had commenced at that time.
+
+(3) *General benefit limitations.* The general benefit limitation is determined as follows:
+
+(i) If a participant's benefit was in pay status before the beginning of the 3-year period, the benefit assigned to priority category 3 with respect to that participant is limited to the lesser of the lowest annuity benefit in pay status during the 3-year period ending on the termination date and the lowest annuity benefit payable under the plan provisions at any time during the 5-year period ending on the termination date.
+
+(ii) Unless a benefit was in pay status before the beginning of the 3-year period ending on the termination date, the benefit assigned to priority category 3 with respect to a participant is limited to the lowest annuity benefit payable under the plan provisions, including any reduction for early retirement, at any time during the 5-year period ending on the termination date. If the annuity form of benefit under a formula that appears to produce the lowest benefit differs from the normal annuity form for the participant under paragraph (b)(2)(ii) of this section, the benefits shall be compared after the differing form is converted to the normal annuity form, using plan factors. In the absence of plan factors, the factors in subpart B of part 4022 of this chapter shall be used.
+
+(iii) For purposes of this paragraph, if a terminating plan has been in effect less than five years on the termination date, computed in accordance with paragraph (b)(6) of this section, the lowest annuity benefit under the plan during the 5-year period ending on the termination date is zero. If the plan is a successor to a previously established defined benefit plan within the meaning of section 4021(a) of ERISA, the time it has been in effect will include the time the predecessor plan was in effect.
+
+(4) *Determination of beneficiary's benefit.* If a beneficiary is eligible for a priority category 3 benefit because of the death of a participant during the 3-year period ending on the termination date, the benefit assigned to priority category 3 for the beneficiary shall be determined as if the participant had died the day before the 3-year period began.
+
+(5) *Automatic benefit increases.* If plan provisions adopted and effective on or before the first day of the 5-year period ending on the termination date provided for automatic increases in the benefit formula for both active participants and those in pay status or for participants in pay status only, the lowest annuity benefit payable during the 5-year period ending on the termination date determined under paragraph (b)(3) of this section includes the automatic increases scheduled during the fourth and fifth years preceding termination, subject to the restriction that benefit increases for active participants in excess of the increases for retirees shall not be taken into account.
+
+(6) *Computation of time periods.* For purposes of this section, a plan or amendment is “in effect” on the later of the date on which it is adopted or the date it becomes effective.
+
+(c) *PPA 2006 bankruptcy termination.* In a PPA 2006 bankruptcy termination:
+
+(1) For purposes of this paragraph (c), “applicable pre-termination period” means the period—
+
+(i) Beginning on the first day of the 5-year period ending on the bankruptcy filing date; and
+
+(ii) Ending on the termination date. For example, if the bankruptcy filing date is January 15, 2008, and the termination date is March 22, 2009, the applicable pre-termination period is the period beginning on January 16, 2003, and ending on March 22, 2009.
+
+(2) “Applicable pre-termination period” is substituted for “5-year period ending on the termination date” each place that “5-year period ending on the termination date” appears in paragraphs (a) and (b) of this section.
+
+(3) Except as provided in paragraph (a)(2) of this section, “bankruptcy filing date” is substituted for “termination date” and “date of the plan termination” each place that “termination date” and “date of the plan termination” appear in paragraphs (a) and (b) of this section. In paragraph (b)(5) of this section, “the bankruptcy filing date” is substituted for “termination” in the phrase “during the fourth and fifth years preceding termination.”
+
+(4) Example: A plan provides for normal retirement at age 65 and has only one early retirement benefit: a subsidized early retirement benefit for participants who terminate employment on or after age 60 with 20 years of service. These plan provisions have been unchanged since 1990. The contributing sponsor of the plan files a bankruptcy petition in June 2008, and the plan terminates during the bankruptcy with a termination date in September 2010. A participant retired in July 2007, at which time he was age 60 and had 20 years of service, and began receiving the subsidized early retirement benefit. The participant has no benefit in priority category 3, because he was not eligible to retire three or more years before the June 2008 bankruptcy filing date.
+
+[61 FR 34059, July 1, 1996, as amended at 62 FR 67729, Dec. 30, 1997; 67 FR 16959, Apr. 8, 2002; 67 FR 38003, May 31, 2002; 76 FR 34605, June 14, 2011]

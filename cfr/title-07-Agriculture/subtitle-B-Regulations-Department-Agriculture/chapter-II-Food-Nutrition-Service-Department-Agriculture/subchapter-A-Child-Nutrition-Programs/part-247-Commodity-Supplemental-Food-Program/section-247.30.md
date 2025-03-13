@@ -1,5 +1,7 @@
 ##### § 247.30 Claims. #####
 
+Link to an amendment published at 89 FR 87247, Oct. 31, 2024.
+
 (a) *What happens if a State or local agency misuses program funds?* If FNS determines that a State or local agency has misused program funds through negligence, fraud, theft, embezzlement, or other causes, FNS must initiate and pursue a claim against the State agency to repay the amount of the misused funds. The State agency will be given the opportunity to contest the claim. The State agency is responsible for initiating and pursuing claims against subdistributing and local agencies if they misuse program funds.
 
 (b) *What happens if a State or local agency misuses program commodities?* If a State or local agency misuses program commodities, FNS must initiate a claim against the State agency to recover the value of the misused commodities. The procedures for pursuing claims resulting from misuse of commodities are detailed in § 250.16(a) of this chapter. Misused commodities include commodities improperly distributed or lost, spoiled, stolen, or damaged as a result of improper storage, care, or handling. The State agency is responsible for initiating and pursuing claims against subdistributing agencies, local agencies, or other agencies or organizations if they misuse program commodities. The State agency must use funds recovered as a result of claims for commodity losses in accordance with § 250.17(c) of this chapter.

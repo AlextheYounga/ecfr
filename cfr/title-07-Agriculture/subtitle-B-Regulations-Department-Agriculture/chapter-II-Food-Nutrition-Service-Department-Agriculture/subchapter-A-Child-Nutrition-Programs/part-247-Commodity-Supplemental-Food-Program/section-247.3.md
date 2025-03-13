@@ -1,5 +1,7 @@
 ##### § 247.3 Administering agencies. #####
 
+Link to an amendment published at 89 FR 87244, Oct. 31, 2024.
+
 (a) *What agencies are responsible for administering CSFP?* CSFP is administered at the Federal level by the Department's Food and Nutrition Service (FNS), which provides commodities, assigns caseload, and allocates administrative funds to State agencies. State agencies are responsible for administering the program at the State level. The State agency may select local agencies to administer the program in local areas of the State. The State agency must provide guidance to local agencies on all aspects of program operations. The State agency may also select subdistributing agencies (e.g., another State agency, a local governmental agency, or a nonprofit organization) to distribute or store commodities, or to perform other program functions on behalf of the State agency. Local or subdistributing agencies may also select other agencies to perform specific program functions (e.g., food distribution or storage), with the State agency's approval. Although the State agency may select other organizations to perform specific activities, the State agency is ultimately responsible for all aspects of program administration.
 
 (b) *Are there specific functions that the State agency cannot delegate to another agency?* Yes. The State agency may not delegate the performance of the following functions to another agency:

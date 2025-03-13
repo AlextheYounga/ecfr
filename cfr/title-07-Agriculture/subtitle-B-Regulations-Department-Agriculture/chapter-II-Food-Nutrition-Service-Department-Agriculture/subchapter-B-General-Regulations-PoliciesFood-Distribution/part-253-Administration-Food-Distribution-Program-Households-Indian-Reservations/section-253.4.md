@@ -1,5 +1,7 @@
 ##### § 253.4 Administration. #####
 
+Link to an amendment published at 89 FR 87254, Oct. 31, 2024.
+
 (a) *Federal administration.* Within the Department of Agriculture, the Food and Nutrition Service (FNS) shall be responsible for the Food Distribution Program. FNS shall have the power to determine the amount of any claim and to settle and adjust any claim.
 
 (b) *State agency administration.* (1) If FNS determines that the ITO is capable of effective and efficient administration, the ITO shall administer the Food Distribution Program on all or part of the reservation. If FNS determines that the ITO is not capable of effective and efficient administration of the Food Distribution Program, the appropriate agency of the State government shall be responsible for the Food Distribution Program on all or part of the Indian reservation. In addition, the appropriate agency of the State government may administer the Program on behalf of an otherwise capable tribe if agreed to in writing by both parties.

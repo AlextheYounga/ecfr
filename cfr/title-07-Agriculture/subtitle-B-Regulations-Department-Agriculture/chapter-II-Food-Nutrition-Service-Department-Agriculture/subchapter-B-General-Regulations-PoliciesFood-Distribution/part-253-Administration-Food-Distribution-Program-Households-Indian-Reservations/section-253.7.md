@@ -1,5 +1,7 @@
 ##### § 253.7 Certification of households. #####
 
+Link to an amendment published at 89 FR 87256, Oct. 31, 2024.
+
 (a) *Application processing*—(1) *General purpose.* The application process includes filing and completing an application form, being interviewed, and having certain information verified. The State agency shall act promptly on all applications. Expedited service shall be available to household in immediate need. When the State agency is other than the ITO, the ITO, when appropriate, may receive copies of certification and/or termination notices to the extent requested or agreed upon by the household. State agencies and ITOs may develop formalized mechanisms to ensure ITO receipt of notices.
 
 (2) *Food Distribution Program application form.* The State agency shall use an application form acceptable to FNS. The State agency shall consult with the ITO in developing the application form. The State agency shall make application forms readily accessible to potentially eligible households and those groups or organizations involved in outreach efforts. The State agency shall also provide an application form to anyone who requests the form. State agencies which elect joint PA or GA/Food Distribution Program procedures shall follow the requirements of paragraph (g) of this section for the application form. State agencies may also use an abbreviated recertification form.

@@ -1,5 +1,7 @@
 ##### § 247.33 Fair hearings. #####
 
+Link to an amendment published at 89 FR 87247, Oct. 31, 2024.
+
 (a) *What is a fair hearing?* A fair hearing is a process that allows a CSFP applicant or participant to appeal an adverse action, which may include the denial or discontinuance of program benefits, disqualification from the program, or a claim to repay the value of commodities received as a result of fraud. State and local agencies must ensure that CSFP applicants and participants understand their right to appeal an adverse action through the fair hearing process, which includes providing written notification of the individual's right to a fair hearing along with notification of the adverse action. Such notification is not required at the expiration of a certification period.
 
 (b) *What are the basic requirements the State agency must follow in establishing procedures to be used in fair hearings?* The State agency must establish simple, clear, uniform rules of procedure to be used in fair hearings, including, at a minimum, the procedures outlined in this section. The State agency may use alternate procedures if approved by FNS. The rules of procedure must be available for public inspection and copying.

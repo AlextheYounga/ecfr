@@ -96,19 +96,19 @@
 
 (10) *Ongoing waiver authority.* Waivers granted under the process established in paragraph (e)(7) of this section may only be granted if over the preceding four fiscal years, the average annual increase in Federal appropriations for the Head Start program was less than 1.3 percent.
 
-(f) *Staff benefits.* (1) For each full-time staff member, defined as those working 30 or more hours per week with the Head Start program during the program year, a program must:
+(f) *Staff benefits.* (1) By August 1, 2028, for each full-time staff member, defined as those working 30 or more hours per week with the Head Start program during the program year, a program must:
 
-(i) Provide or facilitate access to high-quality affordable health care coverage;
+(i) Provide or facilitate access to high- quality affordable health care coverage;
 
 (ii) Offer paid leave; and,
 
-(iii) Offer access to short-term, free or minimal cost behavioral health services.
+(iii) Offer access to short-term, free, or minimal cost behavioral health services.
 
-(2) For each part-time staff member, a program must facilitate access to high-quality, affordable health care coverage.
+(2) By August 1, 2028, for each part-time staff member, a program must facilitate access to high- quality, affordable health care coverage.
 
-(3) For each staff member, a program must facilitate access to available resources and information on child care, including connections to child care resource and referral agencies or other child care consumer education organizations and, for staff who meet eligibility guidelines, facilitate access to the child care subsidy program.
+(3) By August 1, 2028, for each staff member, a program must facilitate access to available resources and information on child care, including connections to child care resource and referral agencies or other child care consumer education organizations and, for staff who meet eligibility guidelines, facilitate access to the child care subsidy program.
 
-(4) For each staff member who may be eligible, a program must facilitate access to the Public Service Loan Forgiveness (PSLF) program, or other applicable student loan debt relief programs, including timely certification of employment.
+(4) By August 1, 2028, for each staff member who may be eligible, a program must facilitate access to the Public Service Loan Forgiveness (PSLF) program, or other applicable student loan debt relief programs, including timely certification of employment.
 
 (5) To the extent practicable, a program must assess and determine if their benefits package for full-time staff is at least comparable to those provided to elementary school staff in the program's local or neighboring school district at least once every 5 years. Programs may offer additional benefits to staff, including more enhanced health benefits, retirement benefits, flexible savings accounts, or life, disability, and long-term care insurance.
 
@@ -116,4 +116,4 @@
 
 (7) The exemption described in paragraph (f)(6) of this section also applies to an interim service provider that is temporarily providing Head Start services in place of a Head Start agency that would otherwise qualify for the small agency exemption.
 
-[81 FR 61412, Sept. 6, 2016, as amended at 89 FR 67813, Aug. 21, 2024]
+[81 FR 61412, Sept. 6, 2016, as amended at 89 FR 67813, Aug. 21, 2024; 89 FR 86759, Oct. 31, 2024]

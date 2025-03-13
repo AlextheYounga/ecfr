@@ -1,5 +1,7 @@
 ##### § 251.10 Miscellaneous provisions. #####
 
+Link to an amendment published at 89 FR 87251, Oct. 31, 2024.
+
 (a) *Records*—(1) *Commodities.* State agencies, subdistributing agencies (as defined in § 250.3 of this chapter), and eligible recipient agencies must maintain records to document the receipt, disposal, and inventory of commodities received under this part that they, in turn, distribute to eligible recipient agencies. Such records must be maintained in accordance with the requirements set forth in § 250.16 of this chapter. Eligible recipient agencies must sign a receipt for program commodities which they receive under this part for distribution to households or for use in preparing meals, and records of all such receipts must be maintained.
 
 (2) *Administrative funds.* In addition to maintaining financial records in accordance with 2 CFR part 200, subpart D, and USDA implementing regulations at 2 CFR part 400, State agencies must maintain records to document the amount of funds received under this part and paid to eligible recipient agencies for allowable administrative costs incurred by such eligible recipient agencies. State agencies must also ensure that eligible recipient agencies maintain such records.

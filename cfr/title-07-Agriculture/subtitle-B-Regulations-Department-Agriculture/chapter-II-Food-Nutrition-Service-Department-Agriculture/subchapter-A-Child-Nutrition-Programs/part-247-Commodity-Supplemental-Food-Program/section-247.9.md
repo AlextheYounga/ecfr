@@ -1,5 +1,7 @@
 ##### § 247.9 Eligibility requirements. #####
 
+Link to an amendment published at 89 FR 87245, Oct. 31, 2024.
+
 (a) *Who is eligible for CSFP?* To be eligible for CSFP, individuals must be at least 60 years of age and meet the income eligibility requirements outlined in paragraph (b) of this section.
 
 (b) *What are the income eligibility requirements for CSFP applicants?* The State agency must use a household income limit at or below 130 percent of the Federal Poverty Income Guidelines. Elderly persons in households with income at or below this level must be considered eligible for CSFP benefits (assuming they meet other requirements contained in this part). However, elderly persons certified before September 17, 1986 (*i.e.,* under the three elderly pilot projects) must remain subject to the eligibility criteria in effect at the time of their certification.

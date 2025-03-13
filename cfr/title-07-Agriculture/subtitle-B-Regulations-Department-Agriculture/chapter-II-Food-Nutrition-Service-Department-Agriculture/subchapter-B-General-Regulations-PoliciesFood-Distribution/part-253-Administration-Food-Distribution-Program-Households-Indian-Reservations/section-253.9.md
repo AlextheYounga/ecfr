@@ -1,5 +1,7 @@
 ##### § 253.9 Claims against households. #####
 
+Link to an amendment published at 89 FR 87257, Oct. 31, 2024.
+
 (a) *What are the procedures for establishing a claim against a household for an overissuance?* (1) The State agency must establish a claim against any household that has received more Food Distribution Program commodities than it was entitled to receive.
 
 (2) The procedures for establishing and collecting claims against households are specified in FNS Handbook 501, The Food Distribution Program on Indian Reservations.

@@ -1,5 +1,7 @@
 ##### § 254.5 Household eligibility. #####
 
+Link to an amendment published at 89 FR 87258, Oct. 31, 2024.
+
 (a) *Certification procedures.* All applicant households shall be certified in accordance with the eligibility and certification provisions in §§ 253.6 and 253.7.
 
 (b) *Urban places.* No household living in an urban place in Oklahoma shall be eligible for the Food Distribution Program on Indian Reservations. However, an ITO can request the Department to grant individual exemptions from this limitation upon proper justification submitted by the ITO as determined by FNS.

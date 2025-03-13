@@ -1,5 +1,7 @@
 ##### § 251.8 Payment of funds for administrative costs. #####
 
+Link to an amendment published at 89 FR 87251, Oct. 31, 2024.
+
 (a) *Availability and allocation of funds.* Funds made available to the Department for State and local costs associated with the distribution of commodities under this part shall, in any fiscal year, be distributed to each State agency on the basis of the funding formula defined in § 251.3(h).
 
 (b) *Uniform Federal Assistance regulations.* Funds provided under this section shall be subject to the regulations issued under 2 CFR part 200, and USDA implementing regulations at 2 CFR parts 400 and 416, as applicable.

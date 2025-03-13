@@ -1,5 +1,7 @@
 ##### § 247.21 Caseload assignment. #####
 
+Link to an amendment published at 89 FR 87247, Oct. 31, 2024.
+
 (a) *How does FNS assign caseload to State agencies?* Each year, FNS assigns a caseload to each State agency to allow persons meeting the eligibility criteria listed under § 247.9 to participate in the program, up to the caseload limit. To the extent that resources are available, FNS assigns caseload to State agencies in the following order:
 
 (1) *Base caseload.* The State agency may not receive base caseload in excess of its total caseload assigned for the previous caseload cycle. Base caseload is determined in the following manner:

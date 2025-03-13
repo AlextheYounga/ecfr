@@ -72,5 +72,4 @@
 
 (vi) After receipt of all necessary information, a public notice will identify each winning bidder that is authorized to receive 5G Fund support.
 
-Effective Date Note:At 85 FR 75822, Nov. 25, 2020,
-§ 54.1014 was revised, however, paragraphs (a) and (b)(2) have a delayed effective date.
+Effective Date Note:At 85 FR 75822, Nov. 25, 2020, § 54.1014 was revised, however, paragraphs (a) and (b)(2) have a delayed effective date.

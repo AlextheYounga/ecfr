@@ -1,5 +1,7 @@
 ##### § 247.20 Program violations. #####
 
+Link to an amendment published at 89 FR 87246, Oct. 31, 2024.
+
 (a) *What are program violations in CSFP?* Program violations are actions taken by CSFP applicants or participants, or caretakers of applicants or participants, to obtain or use CSFP benefits improperly. Program violations include the following actions:
 
 (1) Intentionally making false or misleading statements, orally or in writing;

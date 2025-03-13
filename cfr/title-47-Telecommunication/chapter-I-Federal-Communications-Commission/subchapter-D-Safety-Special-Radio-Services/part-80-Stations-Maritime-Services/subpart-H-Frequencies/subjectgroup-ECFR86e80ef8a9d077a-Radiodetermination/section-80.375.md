@@ -4,7 +4,7 @@ This section describes the carrier frequencies assignable to radiodetermination 
 
 (a) *Direction finding frequencies.* The carrier frequencies assignable to ship stations for directional finding operations are:
 
-Carrier Frequency8364 kHz121.500 MHz243.00 MHz
+Carrier Frequency 8364 kHz 121.500 MHz 243.00 MHz
 
 (b) *Radiodetermination frequencies for cable-repair ships.* Except in Region 1 the channels in the 285-325 kHz band are assignable to ship stations for cable-repair radiodetermination operations. In Region 1 the channels available for assignment for such operations are limited to the 285-315 kHz band. The conditions of use of these channels are set forth in subpart X of this part. Channel usage must comply with the following requirements:
 

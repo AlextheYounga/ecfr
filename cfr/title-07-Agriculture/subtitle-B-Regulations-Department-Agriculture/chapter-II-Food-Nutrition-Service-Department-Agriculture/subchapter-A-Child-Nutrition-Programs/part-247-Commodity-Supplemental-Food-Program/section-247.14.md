@@ -1,5 +1,7 @@
 ##### § 247.14 Other public assistance programs. #####
 
+Link to an amendment published at 89 FR 87246, Oct. 31, 2024.
+
 (a) *What information on other public assistance programs must the local agency provide to applicants?* The local agency must provide applicants with written information on the following programs, and make referrals, as appropriate:
 
 (1) Supplemental security income benefits provided under Title XVI of the Social Security Act (42 U.S.C. 1381 *et seq.*);

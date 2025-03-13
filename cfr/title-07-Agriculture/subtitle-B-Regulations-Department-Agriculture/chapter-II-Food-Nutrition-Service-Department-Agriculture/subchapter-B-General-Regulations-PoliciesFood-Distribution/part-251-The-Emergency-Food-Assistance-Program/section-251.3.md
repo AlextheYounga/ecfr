@@ -1,5 +1,7 @@
 ##### § 251.3 Definitions. #####
 
+Link to an amendment published at 89 FR 87250, Oct. 31, 2024.
+
 (a) The terms used in this part that are defined in part 250 of this chapter have the meanings ascribed to them therein, unless a different meaning for such a term is defined herein.
 
 (b) *Charitable institution* (which is defined differently in this part than in part 250 of this chapter) means an organization which—

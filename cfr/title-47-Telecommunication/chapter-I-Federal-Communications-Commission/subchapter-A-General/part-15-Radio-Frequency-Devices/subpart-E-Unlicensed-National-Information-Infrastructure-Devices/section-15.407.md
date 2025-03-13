@@ -82,7 +82,7 @@ The Commission strongly recommends that parties employing U-NII devices to provi
 
 (c) *Transmission discontinuation requirement.* The device shall automatically discontinue transmission in case of either absence of information to transmit or operational failure. The provisions in this paragraph (c) are not intended to preclude the transmission of control or signaling information or the use of repetitive codes used by certain digital technologies to complete frame or burst intervals. Applicants shall include in their application for equipment authorization a description of how the requirement in this paragraph (c) is met.
 
-(d) *Operational restrictions for 6 GHz U-NII devices.*(1) Operational restrictions include:
+(d) *Operational restrictions for 6 GHz U-NII devices.* (1) Operational restrictions include:
 
 (i) *Oil platforms.* Operation of standard power access points, fixed client devices, very low power devices, and indoor access points in the 5.925-7.125 GHz band is prohibited on oil platforms.
 
@@ -232,7 +232,7 @@ Path-loss (L) = Σi P(i) \* Li = PLOS \* LLOS + PNLOS \* LNLOS,where PLOS is the
 
 (ii) The AFC system must use −6 dB I/N as the interference protection criteria in determining the size of the adjacent channel exclusion zone, where I (interference) is the signal from the standard power access point or fixed client device's out of channel emissions at the fixed microwave service receiver and N (noise) is background noise level at the fixed microwave service receiver. The adjacent channel exclusion zone must be calculated based on the emissions requirements of paragraph (b)(7) of this section.
 
-(m) *Incumbent Protection by AFC system: Radio Astronomy Services.* The AFC system must enforce an exclusion zones to the following radio observatories that observe between 6650-6675.2 MHz: Arecibo Observatory, the Green Bank Observatory, the Very Large Array (VLA), the 10 Stations of the Very Long Baseline Array (VLBA), the Owens Valley Radio Observatory, and the Allen Telescope Array. The exclusion zone sizes are based on the radio line-of-sight and determined using4/3 earth curvature and the following formula:
+(m) *Incumbent Protection by AFC system: Radio Astronomy Services.* The AFC system must enforce an exclusion zones to the following radio observatories that observe between 6650-6675.2 MHz: Arecibo Observatory, the Green Bank Observatory, the Very Large Array (VLA), the 10 Stations of the Very Long Baseline Array (VLBA), the Owens Valley Radio Observatory, and the Allen Telescope Array. The exclusion zone sizes are based on the radio line-of-sight and determined using 4/3 earth curvature and the following formula:
 
 dkm\_los = 4.12 \* (sqrt(Htx) + sqrt(Hrx)),where Htx is the height of the unlicensed standard power access point or fixed client device and Hrx is the height of the radio astronomy antenna in meters above ground level. Coordinate locations of the radio observatories are listed in section 2.106, notes US 131 and US 385 of this part.
 

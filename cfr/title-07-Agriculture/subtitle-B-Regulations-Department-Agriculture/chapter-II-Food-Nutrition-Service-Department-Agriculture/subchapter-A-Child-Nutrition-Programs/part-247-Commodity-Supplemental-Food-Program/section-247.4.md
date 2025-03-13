@@ -1,5 +1,7 @@
 ##### § 247.4 Agreements. #####
 
+Link to an amendment published at 89 FR 87244, Oct. 31, 2024.
+
 (a) *What agreements are necessary for agencies to administer CSFP?* The following agreements are necessary for agencies to administer CSFP:
 
 (1) *Agreements between FNS and State agencies.* Each State agency must enter into an agreement with FNS (Form FNS-74, the Federal-State Agreement) prior to receiving commodities or administrative funds;

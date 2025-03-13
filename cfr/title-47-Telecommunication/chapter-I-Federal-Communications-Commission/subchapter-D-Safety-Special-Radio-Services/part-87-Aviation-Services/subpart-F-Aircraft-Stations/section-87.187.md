@@ -82,13 +82,13 @@ Aeronautical telemetry operations must protect Miscellaneous Wireless Communicat
 
 (aa) Frequencies in the 454.675-459.975 MHz band are available in the Public Mobile Radio Service (part 22) for use on board aircraft for communications with land mobile stations which are interconnected to the nationwide public telephone system.
 
-(bb) The frequencies 121.950 MHz, 122.850 MHz and 127.0501 MHz are authorized for air-to-air use for aircraft up to and including 3 km (10,000 ft) mean sea level in the vicinity of Grand Canyon National Park in Arizona within the area bounded by the following coordinates (all coordinates are referenced to North American Datum 1983 (NAD83)):
+(bb) The frequencies 121.950 MHz, 122.850 MHz and 127.050 1 MHz are authorized for air-to-air use for aircraft up to and including 3 km (10,000 ft) mean sea level in the vicinity of Grand Canyon National Park in Arizona within the area bounded by the following coordinates (all coordinates are referenced to North American Datum 1983 (NAD83)):
 
 1 Until further notice this frequency is available for air-to-air use as described in the Grand Canyon vicinity. Availability is a result of the FAA's assignment of this frequency. If the FAA reassigns this frequency the Commission may require air-to-air use to cease.
 
 36-27-59.9 N. Lat; 112-47-2.7 W. Long.36-27-59.9 N. Lat; 112-48-2.7 W. Long.35-50-00.0 N. Lat; 112-48-2.7 W. Long.35-43-00.0 N. Lat; 112-47-2.7 W. Long.
 
-(cc) The frequency 120.650 MHz1 is authorized for air-to-air use for aircraft up to and including 3 km (10,000 ft) mean sea level within the area bounded by the following coordinates (all coordinates are referenced to North American Datum 1983 (NAD83)):
+(cc) The frequency 120.650 MHz 1 is authorized for air-to-air use for aircraft up to and including 3 km (10,000 ft) mean sea level within the area bounded by the following coordinates (all coordinates are referenced to North American Datum 1983 (NAD83)):
 
 35-59-44.9 N. Lat; 114-51-48.0 W. Long.36-09-29.9 N. Lat; 114-50-3.0 W. Long.36-09-29.9 N. Lat; 114-02-57.9 W. Long.35-54-45.0 N. Lat; 113-48-47.8 W. Long.
 

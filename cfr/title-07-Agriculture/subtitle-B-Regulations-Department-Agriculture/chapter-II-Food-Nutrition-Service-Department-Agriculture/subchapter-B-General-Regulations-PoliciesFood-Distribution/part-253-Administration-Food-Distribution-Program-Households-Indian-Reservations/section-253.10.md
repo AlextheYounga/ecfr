@@ -1,5 +1,7 @@
 ##### § 253.10 Commodity control, storage and distribution. #####
 
+Link to an amendment published at 89 FR 87257, Oct. 31, 2024.
+
 (a) *Control and accountability.* The State agency shall be responsible for the issuance of commodities to households and the control of and accountability for the commodities upon its acceptance of the commodities at time and place of delivery.
 
 (b) *Commodity inventories.* The State agency shall, in cooperation with the FNS Regional office, develop an appropriate procedure for determining and monitoring the level of commodity inventories at central commodity storage facilities and at each local distribution point. The State agency shall maintain the inventories at proper levels taking into consideration, among other factors, household preferences and the historical and projected volume of distribution at each site. The procedures shall provide that commodity inventories at each central storage facility and each local distribution point are not in excess, but are adequate for, an uninterrupted distribution of commodities.

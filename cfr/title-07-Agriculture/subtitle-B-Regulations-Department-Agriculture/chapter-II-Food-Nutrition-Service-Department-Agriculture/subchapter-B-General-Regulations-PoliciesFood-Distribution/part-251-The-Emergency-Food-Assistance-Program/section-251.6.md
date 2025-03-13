@@ -1,5 +1,7 @@
 ##### § 251.6 Distribution plan. #####
 
+Link to an amendment published at 89 FR 87251, Oct. 31, 2024.
+
 (a) *Contents of the plan.* The State agency must submit for approval by the appropriate FNS Regional Office a plan which contains:
 
 (1) A designation of the State agency responsible for distributing commodities and administrative funds provided under this part, and the address of such agency;

@@ -1,5 +1,7 @@
 ##### § 247.29 Reports and recordkeeping. #####
 
+Link to an amendment published at 89 FR 87247, Oct. 31, 2024.
+
 (a) *What recordkeeping requirements must State and local agencies meet?* State and local agencies must maintain accurate and complete records relating to the receipt, disposal, and inventory of commodities, the receipt and disbursement of administrative funds and other funds, eligibility determinations, fair hearings, and other program activities. State and local agencies must also maintain records pertaining to liability for any improper distribution of, use of, loss of, or damage to commodities, and the results obtained from the pursuit of claims arising in favor of the State or local agency. All records must be retained for a period of three years from the end of the fiscal year to which they pertain, or, if they are related to unresolved claims actions, audits, or investigations, until those activities have been resolved. All records must be available during normal business hours for use in management reviews, audits, investigations, or reports of the General Accounting Office.
 
 (b) *What reports must State and local agencies submit to FNS?* State agencies must submit the following reports to FNS:

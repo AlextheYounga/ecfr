@@ -1,5 +1,7 @@
 ##### § 251.5 Eligibility determinations. #####
 
+Link to an amendment published at 89 FR 87250, Oct. 31, 2024.
+
 (a) *Criteria for determining eligibility of organizations.* Prior to making commodities or administrative funds available, State agencies, or eligible recipient agencies to which the State agency has delegated responsibility for the distribution of TEFAP commodities or administrative funds, must ensure that an organization applying for participation in the program meets the definition of an “eligible recipient agency” under § 251.3(d). In addition, applicant organizations must meet the following criteria:
 
 (1) *Agencies distributing to households.* Organizations distributing commodities to households for home consumption must limit the distribution of commodities provided under this part to those households which meet the eligibility criteria established by the State agency in accordance with paragraph (b) of this section.

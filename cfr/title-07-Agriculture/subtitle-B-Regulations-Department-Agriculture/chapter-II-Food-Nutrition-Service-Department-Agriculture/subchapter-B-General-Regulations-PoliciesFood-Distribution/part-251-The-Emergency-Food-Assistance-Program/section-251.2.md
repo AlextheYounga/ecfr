@@ -1,5 +1,7 @@
 ##### § 251.2 Administration. #####
 
+Link to an amendment published at 89 FR 87249, Oct. 31, 2024.
+
 (a) *Food and Nutrition Service.* Within the United States Department of Agriculture (the “Department”), the Food and Nutrition Service (FNS) shall have responsibility for the distribution of food commodities and allocation of funds under the part.
 
 (b) *State agencies.* Within the States, distribution to eligible recipient agencies and receipt of payments for storage and distribution shall be the responsibility of the State agency which has: (1) Been designated for such responsibility by the Governor or other appropriate State executive authority; and (2) entered into an agreement with the Department for such distribution and receipt in accordance with paragraph (c) of this section.

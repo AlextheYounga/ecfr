@@ -52,5 +52,4 @@
 
 (2) The default will be evidenced by a letter issued by the Chief of the Wireline Competition Bureau, or its respective designees, which letter, describing the performance default and attached to a standby letter of credit draw certificate, shall be sufficient for a draw on the standby letter of credit for the entire amount of the standby letter of credit.
 
-Effective Date Note:At 85 FR 75822, Nov. 25, 2020,
-§ 54.1016 was revised, however, paragraph (b) has a delayed effective date.
+Effective Date Note:At 85 FR 75822, Nov. 25, 2020, § 54.1016 was revised, however, paragraph (b) has a delayed effective date.

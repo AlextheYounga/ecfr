@@ -1,5 +1,7 @@
 ##### § 253.2 Definitions. #####
 
+Link to an amendment published at 89 FR 87254, Oct. 31, 2024.
+
 *Disabled member* means a member of a household who:
 
 (1) Receives supplemental security income benefits under title XVI of the Social Security Act or disability or blindness payments under titles I, II, X, XIV, or XVI of the Social Security Act;

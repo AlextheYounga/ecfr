@@ -2,7 +2,7 @@
 
 (a) The International Table of Frequency Allocations is subdivided into the Region 1 Table (column 1 of § 2.106), the Region 2 Table (column 2 of § 2.106), and the Region 3 Table (column 3 of § 2.106). The International Table is included for informational purposes only.
 
-(b) *Regions.* For the allocation of frequencies the International Telecommunication Union (ITU) has divided the world into three Regions1 as shown in Figure 1 of this section and described as follows:
+(b) *Regions.* For the allocation of frequencies the International Telecommunication Union (ITU) has divided the world into three Regions 1 as shown in Figure 1 of this section and described as follows:
 
 1 It should be noted that where the words “regions” or “regional” are without a capital “R,” they do not relate to the three Regions here defined for purposes of frequency allocation.
 
@@ -102,4 +102,4 @@
 
 (8) The international footnotes shown in the International Table are applicable only to the relationships between the United States and other countries (unless a reference to an international footnote has been added to the United States Table of Frequency Allocations).
 
-Figure 1 to § 2.104—Map![](/graphics/er31ja00.000.gif)[65 FR 4636, Jan. 31, 2000, as amended at 70 FR 46586, Aug. 10, 2005; 75 FR 62933, Oct. 13, 2010; 85 FR 38633, June 26, 2020]
+Figure 1 to § 2.104—Map ![](/graphics/er31ja00.000.gif)[65 FR 4636, Jan. 31, 2000, as amended at 70 FR 46586, Aug. 10, 2005; 75 FR 62933, Oct. 13, 2010; 85 FR 38633, June 26, 2020]

@@ -1,5 +1,7 @@
 ##### § 247.5 State and local agency responsibilities. #####
 
+Link to an amendment published at 89 FR 87244, Oct. 31, 2024.
+
 State and local agencies are responsible for administering the program in accordance with the provisions of this part, and with the provisions of part 250 of this chapter, as applicable. Although the State agency may delegate some responsibilities to another agency, the State agency is ultimately responsible for all aspects of program administration. The following is an outline of the major responsibilities of State and local agencies; it is not intended to be all-inclusive.
 
 (a) *What are the major responsibilities shared by State and local agencies?* The major responsibilities shared by State and local agencies include:

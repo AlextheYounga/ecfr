@@ -1,5 +1,7 @@
 ##### § 253.8 Administrative disqualification procedures for intentional program violation. #####
 
+Link to an amendment published at 89 FR 87257, Oct. 31, 2024.
+
 (a) *What is an intentional program violation?* An intentional program violation is considered to have occurred when a household member knowingly, willingly, and with deceitful intent:
 
 (1) Makes a false or misleading statement, or misrepresents, conceals, or withholds facts in order to obtain Food Distribution Program benefits which the household is not entitled to receive; or

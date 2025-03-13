@@ -1,5 +1,7 @@
 ##### § 251.9 Matching of funds. #####
 
+Link to an amendment published at 89 FR 87251, Oct. 31, 2024.
+
 (a) *State matching requirement.* The State must provide a cash or in-kind contribution equal to the amount of TEFAP administrative funds received under § 251.8 and retained by the State agency for State-level costs or made available by the State agency directly to eligible recipient agencies that are not emergency feeding organizations as defined in § 251.3(e). The State agency will not be required to match any portion of the Federal grant passed through for administrative costs incurred by emergency feeding organizations or directly expended by the State agency for such costs in accordance with § 251.8(e)(4) of this part.
 
 (b) *Exceptions.* In accordance with the provisions of 48 U.S.C. 1469a, American Samoa, Guam, the Virgin Islands and the Northern Mariana Islands shall be exempt from the matching requirements of paragraph (a) of this section if their respective matching requirements are under $200,000.

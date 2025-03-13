@@ -1,5 +1,7 @@
 ##### § 247.31 Audits and investigations. #####
 
+Link to an amendment published at 89 FR 87247, Oct. 31, 2024.
+
 (a) *What is the purpose of an audit?* The purpose of an audit is to ensure that:
 
 (1) Financial operations are properly conducted;

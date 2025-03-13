@@ -450,5 +450,4 @@ Note to paragraph (d): With respect to 911 calls accessing their systems through
 
 (5) *Subscriber notification.* Each CMRS provider that utilizes SCS arrangements to expand its coverage areas for providing service to its end-user subscribers shall specifically advise every subscriber, both new and existing, in writing prominently and in plain language, of the circumstances under which 911 service for all SCS 911 calls, or SCS 911 text messages may not be available via SCS or may be in some way limited by comparison to traditional enhanced 911 service.
 
-[84 FR 66760, Dec. 5, 2019, as amended at 85 FR 2675, Jan. 16, 2020; 85 FR 53246, Aug. 28, 2020; 85 FR 70501, Nov. 5, 2020; 85 FR 78022, Dec. 3, 2020; 86 FR 19584, Apr. 14, 2021; 89 FR 18523, Mar. 13, 2024;
-89 FR 34165, Apr. 30, 2024; 89 FR 78825, Sept. 26, 2024]
+[84 FR 66760, Dec. 5, 2019, as amended at 85 FR 2675, Jan. 16, 2020; 85 FR 53246, Aug. 28, 2020; 85 FR 70501, Nov. 5, 2020; 85 FR 78022, Dec. 3, 2020; 86 FR 19584, Apr. 14, 2021; 89 FR 18523, Mar. 13, 2024; 89 FR 34165, Apr. 30, 2024; 89 FR 78825, Sept. 26, 2024]

@@ -1,5 +1,7 @@
 ##### § 254.2 Definitions. #####
 
+Link to an amendment published at 89 FR 87258, Oct. 31, 2024.
+
 (a) *Exercises governmental jurisdiction* means the exercise of authorities granted to ITOs under the Oklahoma Indian Welfare Act of 1936 or by BIA regulations (25 CFR part 81 et. seq.).
 
 (b) *FNS service area* means the areas over which FNS has approved the food distribution program in Oklahoma, excluding urban places unless approved by FNS under 254.5(b).

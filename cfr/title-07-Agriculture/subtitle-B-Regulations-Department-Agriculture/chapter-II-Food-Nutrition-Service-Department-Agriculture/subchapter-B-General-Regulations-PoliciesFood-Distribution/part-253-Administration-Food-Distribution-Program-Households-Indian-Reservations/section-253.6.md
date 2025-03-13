@@ -1,5 +1,7 @@
 ##### § 253.6 Eligibility of households. #####
 
+Link to an amendment published at 89 FR 87255, Oct. 31, 2024.
+
 (a) *Household concept.* (1) The State agency shall determine eligibility for the Food Distribution Program on a household basis. Household means any of the following individuals or groups of individuals, provided that such individuals or groups are not boarders or residents of an institution and provided that separate household or boarder status shall not be granted to a spouse of a member of the household, or to children under 18 years of age under the parental control of a member of the household.
 
 (i) An individual living alone.

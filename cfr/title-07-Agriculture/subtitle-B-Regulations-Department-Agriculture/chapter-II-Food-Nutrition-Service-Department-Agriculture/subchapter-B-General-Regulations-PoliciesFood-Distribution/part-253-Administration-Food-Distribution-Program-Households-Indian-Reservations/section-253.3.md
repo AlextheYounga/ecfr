@@ -1,5 +1,7 @@
 ##### § 253.3 Availability of commodities. #####
 
+Link to an amendment published at 89 FR 87254, Oct. 31, 2024.
+
 (a) *Conditions for distribution.* In jurisdictions where the Food Stamp Program is in operation, there shall be no distribution of commodities to households under the authority of any law, except that distribution may be made (1) on a temporary basis under programs authorized by law to meet disaster relief needs, (2) for the purpose of the Commodity Supplemental Food Program, and (3) whenever a request for concurrent or separate Food Distribution Program on a reservation is made by an ITO.
 
 (b) *Concurrent or separate food program operation.* Distribution of commodities, with or without the Food Stamp Program, shall be made whenever an ITO submits to FNS a completed application for the Food Distribution Program on all or part of a reservation and the application is approved by FNS.

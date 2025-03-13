@@ -1,5 +1,7 @@
 ##### § 247.1 Definitions. #####
 
+Link to an amendment published at 89 FR 87244, Oct. 31, 2024.
+
 Following is a list of definitions that apply to the Commodity Supplemental Food Program (CSFP).
 
 *2 CFR part 200,* means the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards published by OMB. The part reference covers applicable: Acronyms and Definitions (subpart A), General Provisions (subpart B), Post Federal Award Requirements (subpart D), Cost Principles (subpart E), and Audit Requirements (subpart F). (NOTE: Pre-Federal Award Requirements and Contents of Federal Awards (subpart C) does not apply to the National School Lunch Program).

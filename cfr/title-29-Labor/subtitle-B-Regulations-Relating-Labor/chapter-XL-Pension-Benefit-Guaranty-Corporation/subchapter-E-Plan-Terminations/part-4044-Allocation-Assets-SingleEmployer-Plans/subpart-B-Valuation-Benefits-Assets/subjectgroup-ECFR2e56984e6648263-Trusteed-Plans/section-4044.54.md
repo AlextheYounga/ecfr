@@ -1,7 +1,5 @@
 ##### § 4044.54 Interest assumptions. #####
 
-Link to an amendment published at 89 FR 76731, Sept. 19, 2024.
-
 (a) *General rule.* The plan administrator must use the interest rates prescribed in this section to value benefits under § 4044.52.
 
 (b) *Interest rate.* The interest rate used to discount an expected benefit payment is the interest rate from the applicable 4044 yield curve determined under paragraph (c) of this section for the maturity point that corresponds to the period of time from the valuation date to the date the benefit is expected to be paid unless that period of time exceeds 30 years. In that case, the interest rate used is the interest rate that corresponds to the maturity point at year 30.0. To address the timing of benefit payments during a year, reasonable approximations may be used to value benefit payments that are expected to be made during a plan year.
@@ -30,29 +28,66 @@ Link to an amendment published at 89 FR 76731, Sept. 19, 2024.
 
 (ii) *Example 2—November 15, 2024, valuation date.* Because the valuation date is not the last day of a month, the applicable blended market yield curve determined under paragraph (d)(1) of this section is the blended market yield curve as of the last day of the month before the month containing the valuation date, October 31, 2024. Because October 31, 2024, is in the fourth calendar quarter of 2024, the applicable spreads determined under paragraph (e)(1) of this section are the spreads for the fourth calendar quarter of 2024.
 
-Table 1 to Paragraph (e)—Spreads
+|Maturity point|Third  <br/>quarter  <br/>2024  <br/>spreads  <br/>(percent)|Fourth  <br/>quarter  <br/>2024  <br/>spreads  <br/>(percent)|
+|--------------|------------------------------------------------------------|-------------------------------------------------------------|
+|     0.5      |                            0.38                            |                            0.33                             |
+|     1.0      |                            0.38                            |                            0.33                             |
+|     1.5      |                            0.37                            |                            0.33                             |
+|     2.0      |                            0.37                            |                            0.33                             |
+|     2.5      |                            0.37                            |                            0.33                             |
+|     3.0      |                            0.37                            |                            0.33                             |
+|     3.5      |                            0.37                            |                            0.33                             |
+|     4.0      |                            0.37                            |                            0.33                             |
+|     4.5      |                            0.37                            |                            0.33                             |
+|     5.0      |                            0.37                            |                            0.33                             |
+|     5.5      |                            0.37                            |                            0.32                             |
+|     6.0      |                            0.37                            |                            0.32                             |
+|     6.5      |                            0.37                            |                            0.32                             |
+|     7.0      |                            0.37                            |                            0.32                             |
+|     7.5      |                            0.37                            |                            0.32                             |
+|     8.0      |                            0.37                            |                            0.32                             |
+|     8.5      |                            0.37                            |                            0.32                             |
+|     9.0      |                            0.37                            |                            0.32                             |
+|     9.5      |                            0.36                            |                            0.32                             |
+|     10.0     |                            0.36                            |                            0.32                             |
+|     10.5     |                            0.36                            |                            0.32                             |
+|     11.0     |                            0.36                            |                            0.32                             |
+|     11.5     |                            0.36                            |                            0.32                             |
+|     12.0     |                            0.36                            |                            0.32                             |
+|     12.5     |                            0.36                            |                            0.32                             |
+|     13.0     |                            0.36                            |                            0.32                             |
+|     13.5     |                            0.35                            |                            0.31                             |
+|     14.0     |                            0.35                            |                            0.31                             |
+|     14.5     |                            0.35                            |                            0.31                             |
+|     15.0     |                            0.35                            |                            0.31                             |
+|     15.5     |                            0.35                            |                            0.31                             |
+|     16.0     |                            0.35                            |                            0.31                             |
+|     16.5     |                            0.34                            |                            0.31                             |
+|     17.0     |                            0.34                            |                            0.31                             |
+|     17.5     |                            0.34                            |                            0.31                             |
+|     18.0     |                            0.34                            |                            0.31                             |
+|     18.5     |                            0.34                            |                            0.31                             |
+|     19.0     |                            0.34                            |                            0.31                             |
+|     19.5     |                            0.34                            |                            0.30                             |
+|     20.0     |                            0.34                            |                            0.30                             |
+|     20.5     |                            0.33                            |                            0.30                             |
+|     21.0     |                            0.33                            |                            0.30                             |
+|     21.5     |                            0.33                            |                            0.30                             |
+|     22.0     |                            0.33                            |                            0.30                             |
+|     22.5     |                            0.33                            |                            0.30                             |
+|     23.0     |                            0.33                            |                            0.30                             |
+|     23.5     |                            0.33                            |                            0.30                             |
+|     24.0     |                            0.33                            |                            0.30                             |
+|     24.5     |                            0.33                            |                            0.30                             |
+|     25.0     |                            0.33                            |                            0.30                             |
+|     25.5     |                            0.33                            |                            0.30                             |
+|     26.0     |                            0.33                            |                            0.30                             |
+|     26.5     |                            0.32                            |                            0.30                             |
+|     27.0     |                            0.32                            |                            0.30                             |
+|     27.5     |                            0.32                            |                            0.30                             |
+|     28.0     |                            0.32                            |                            0.30                             |
+|     29.0     |                            0.32                            |                            0.30                             |
+|     29.5     |                            0.32                            |                            0.30                             |
+|     30.0     |                            0.32                            |                            0.30                             |
 
-|Maturity point|Spread  <br/>(percent)|Maturity point|Spread  <br/>(percent)|Maturity point|Spread  <br/>(percent)|
-|--------------|----------------------|--------------|----------------------|--------------|----------------------|
-|     0.5      |         0.38         |     10.5     |         0.36         |     20.5     |         0.33         |
-|     1.0      |         0.38         |     11.0     |         0.36         |     21.0     |         0.33         |
-|     1.5      |         0.37         |     11.5     |         0.36         |     21.5     |         0.33         |
-|     2.0      |         0.37         |     12.0     |         0.36         |     22.0     |         0.33         |
-|     2.5      |         0.37         |     12.5     |         0.36         |     22.5     |         0.33         |
-|     3.0      |         0.37         |     13.0     |         0.36         |     23.0     |         0.33         |
-|     3.5      |         0.37         |     13.5     |         0.35         |     23.5     |         0.33         |
-|     4.0      |         0.37         |     14.0     |         0.35         |     24.0     |         0.33         |
-|     4.5      |         0.37         |     14.5     |         0.35         |     24.5     |         0.33         |
-|     5.0      |         0.37         |     15.0     |         0.35         |     25.0     |         0.33         |
-|     5.5      |         0.37         |     15.5     |         0.35         |     25.5     |         0.33         |
-|     6.0      |         0.37         |     16.0     |         0.35         |     26.0     |         0.33         |
-|     6.5      |         0.37         |     16.5     |         0.34         |     26.5     |         0.32         |
-|     7.0      |         0.37         |     17.0     |         0.34         |     27.0     |         0.32         |
-|     7.5      |         0.37         |     17.5     |         0.34         |     27.5     |         0.32         |
-|     8.0      |         0.37         |     18.0     |         0.34         |     28.0     |         0.32         |
-|     8.5      |         0.37         |     18.5     |         0.34         |     28.5     |         0.32         |
-|     9.0      |         0.37         |     19.0     |         0.34         |     29.0     |         0.32         |
-|     9.5      |         0.36         |     19.5     |         0.34         |     29.5     |         0.32         |
-|     10.0     |         0.36         |     20.0     |         0.34         |     30.0     |         0.32         |
-
-[89 FR 48305, June 6, 2024, as amended at 89 FR 54347, July 1, 2024]
+[89 FR 48305, June 6, 2024, as amended at 89 FR 54347, July 1, 2024; 89 FR 76731, Sept. 19, 2024]

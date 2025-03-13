@@ -14,4 +14,4 @@
 
 (5) *System Manager* means the Commission official responsible for the storage, maintenance, safekeeping, and disposal of a system of records.
 
-(Secs. 4(i) and 303(n), Communications Act of 1934, as amended, 47 U.S.C. 154(i) and 303(n); 47 CFR 0.231(d))[40 FR 44512, Sept. 26, 1975, as amended at 49 FR 13368, Apr. 4, 1984]
+(Secs. 4(i) and 303(n), Communications Act of 1934, as amended, 47 U.S.C. 154(i) and 303(n); 47 CFR 0.231(d)) [40 FR 44512, Sept. 26, 1975, as amended at 49 FR 13368, Apr. 4, 1984]

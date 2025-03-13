@@ -1,5 +1,7 @@
 ##### § 247.18 Nutrition education. #####
 
+Link to an amendment published at 89 FR 87246, Oct. 31, 2024.
+
 (a) *What are the State agency's responsibilities in ensuring that nutrition education is provided?* The State agency must establish an overall nutrition education plan and must ensure that local agencies provide nutrition education to participants in accordance with the plan. The State agency may allow local agencies to share personnel and educational resources with other programs in order to provide the best nutrition education possible to participants. The State agency must establish an evaluation procedure to ensure that the nutrition education provided is effective. The evaluation procedure must include participant input and must be directed by a nutritionist or other qualified professional. The evaluation may be conducted by the State or local agency, or by another agency under agreement with the State or local agency.
 
 (b) *What type of nutrition education must the local agency provide?* The local agency must provide nutrition education that can be easily understood by participants and is related to their nutritional needs and household situations. The local agency must provide nutrition education that includes the following information, which should account for specific ethnic and cultural characteristics whenever possible:

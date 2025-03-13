@@ -18,7 +18,7 @@
 
 (2) Ensure the planned number of families assigned to work with staff that conduct the family partnership process and work on family, health and community engagement services is no greater than 40:1. A program must maintain this ratio, except:
 
-(i) When the responsible HHS official grants a waiver if the program can demonstrate staff competencies at § 1302.92(b)(4); program outcomes at paragraph (b) of this section; and reasonable staff workload as described in paragraph (d)(3) of this section.
+(i) When the responsible HHS official grants a waiver if the program can demonstrate staff competencies at § 1302.92(b)(5); program outcomes at paragraph (b) of this section; and reasonable staff workload as described in paragraph (d)(3) of this section.
 
 (ii) During temporary periods of staff absence or attrition; changes in daily operations related to start-up or transitional activities; or extenuating circumstances related to emergency response and recovery.
 
@@ -26,4 +26,4 @@
 
 (e) *Existing plans and community resources.* In implementing this section, a program must take into consideration any existing plans for the family made with other community agencies and availability of other community resources to address family needs, strengths, and goals, in order to avoid duplication of effort.
 
-[81 FR 61412, Sept. 6, 2016, as amended at 89 FR 67811, Aug. 21, 2024]
+[81 FR 61412, Sept. 6, 2016, as amended at 89 FR 67811, Aug. 21, 2024; 89 FR 86759, Oct. 31, 2024]

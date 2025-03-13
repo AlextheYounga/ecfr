@@ -1,5 +1,7 @@
 ##### § 250.69 Disasters. #####
 
+Link to an amendment published at 89 FR 87247, Oct. 31, 2024.
+
 (a) *Use of donated foods to provide congregate meals.* The distributing agency may provide donated foods from current inventories, either at the distributing or recipient agency level, to a disaster organization (as defined in § 250.2), for use in providing congregate meals to persons in need of food assistance as a result of a Presidentially declared disaster or emergency (hereinafter referred to collectively as a “disaster”). FNS approval is not required for such use. However, the distributing agency must notify FNS that such assistance is to be provided, and the period of time that it is expected to be needed. The distributing agency may extend such period of assistance as needs dictate, but must notify FNS of such extension.
 
 (b) *Use of donated foods for distribution to households.* Subject to FNS approval, the distributing agency may provide donated foods from current inventories, either at the distributing or recipient agency level, to a disaster organization, for distribution to households in need of food assistance because of a disaster. Such distribution may continue for the period that FNS has determined to be necessary to meet the needs of such households. However, households receiving disaster SNAP (D-SNAP) benefits are not eligible to receive such donated food assistance.

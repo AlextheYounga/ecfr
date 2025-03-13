@@ -1,5 +1,7 @@
 ##### § 247.6 State Plan. #####
 
+Link to an amendment published at 89 FR 87245, Oct. 31, 2024.
+
 (a) *What is the State Plan?* The State Plan is a document that describes how the State agency will operate CSFP and the caseload needed to serve eligible applicants. The State agency must submit the State Plan to FNS for approval. Once submitted and approved, the State Plan is considered permanent, with amendments submitted at the State agency's initiative, or at FNS request. All amendments are subject to FNS approval. The State Plan may be submitted in the format provided in FNS guidance, in an alternate format, or in combination with other documents required by Federal regulations. The State Plan must be signed by the State agency official responsible for program administration. A copy of the State Plan must be kept on file at the State agency for public inspection.
 
 (b) *When must the State Plan be submitted?* The State Plan must be submitted by August 15 to take effect for the fiscal year beginning in the following October. FNS will provide notification of the approval or disapproval of the State Plan within 30 days of receipt, and will notify the State agency within 15 days of receipt if additional information is needed. Disapproval of the Plan will include a reason for the disapproval. Approval of the Plan is a prerequisite to the assignment of caseload and allocation of administrative funds, but does not ensure that caseload and funds will be provided.

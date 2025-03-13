@@ -33,7 +33,7 @@
 
 (e) MTA and regional base stations located less than 80 kilometers (50 miles) from the licensed service area border must limit their effective radiated power in accordance with the following formula:
 
-PW = 0.0175 × dkm\* \* 6.6666 × x hm\* \* − 3.1997PW is effective radiated power in wattsdkm is distance in kilometershm is antenna HAAT in meters; see § 24.53 for HAAT calculation method
+PW = 0.0175 × dkm\* \* 6.6666 × x hm\* \* − 3.1997 PW is effective radiated power in watts dkm is distance in kilometers hm is antenna HAAT in meters; see § 24.53 for HAAT calculation method
 
 (f) All power levels specified in this section are expressed in terms of the maximum power, averaged over a 100 millisecond interval, when measured with instrumentation calibrated in terms of an rms-equivalent voltage with a resolution bandwidth equal to or greater than the authorized bandwidth.
 

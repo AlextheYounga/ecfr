@@ -1,5 +1,7 @@
 ##### § 247.25 Allowable uses of administrative funds and other funds. #####
 
+Link to an amendment published at 89 FR 87247, Oct. 31, 2024.
+
 (a) *What are allowable uses of administrative funds provided to State and local agencies?* Administrative funds may be used for costs that are necessary to ensure the efficient and effective administration of the program, in accordance with 2 CFR part 200, subpart E and USDA implementing regulations 2 CFR part 400 and part 415, which set out the principles for determining whether specific costs are allowable. Some examples of allowable costs in CSFP include:
 
 (1) Storing, transporting, and distributing foods;
