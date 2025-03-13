@@ -1,6 +1,6 @@
 ##### § 161.23 Procedures. #####
 
-Link to an amendment published at 89 FR 11196, Feb. 14, 2024.
+Link to an amendment published at 89 FR 11196, Feb. 14, 2024.Link to a correction published at 89 FR 18543, Mar. 14, 2024.
 
 (a) *Eligibility documentation*—(1) *Basic requirements.* (i) ID card applicants must provide documentation as initial verification of eligibility for benefits or as proof of relationship to the sponsor. The sponsor is the prime beneficiary who derives eligibility based on individual status rather than dependence upon or relationship to another person, in accordance with § 161.7(a). When possible, DEERS records will be established and updated by authoritative data feeds.
 

@@ -1,5 +1,7 @@
 ##### § 1211.11 Requirements for photoelectric sensors. #####
 
+Link to an amendment published at 89 FR 18540, Mar. 14, 2024.
+
 (a) *Normal operation test.* When installed as described in § 1211.10(a)(1) through (4), a photoelectric sensor of a vertically moving door shall sense an obstruction as described in paragraph (c) of this section that is to be placed on the floor at three points over the width of the door opening, at distances of 1 foot (305 mm) from each end and the midpoint.
 
 (b) *Normal operation test—Horizontally moving door.* When installed as described in § 1211.10(a)(1) through (4), a photoelectric sensor of a horizontally moving door shall be tested per paragraph (c) of this section that is to be placed on a level surface within the path of the moving door. The sensor is to be tested with the obstruction at a total of five different locations over the height of the door or gate opening. The locations shall include distances 1 in (25.4 mm) from each end, 1 ft (305 mm) from each end, and the midpoint.

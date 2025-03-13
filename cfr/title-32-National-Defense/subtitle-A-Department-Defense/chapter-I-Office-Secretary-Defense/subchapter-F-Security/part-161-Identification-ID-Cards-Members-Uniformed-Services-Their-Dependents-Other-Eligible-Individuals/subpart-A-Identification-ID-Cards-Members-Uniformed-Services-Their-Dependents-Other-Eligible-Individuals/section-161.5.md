@@ -1,6 +1,6 @@
 ##### § 161.5 Responsibilities. #####
 
-Link to an amendment published at 89 FR 11179, Feb. 14, 2024.
+Link to an amendment published at 89 FR 11179, Feb. 14, 2024.Link to a correction published at 89 FR 18543, Mar. 14, 2024.
 
 (a) The USD(P&R) shall:
 
