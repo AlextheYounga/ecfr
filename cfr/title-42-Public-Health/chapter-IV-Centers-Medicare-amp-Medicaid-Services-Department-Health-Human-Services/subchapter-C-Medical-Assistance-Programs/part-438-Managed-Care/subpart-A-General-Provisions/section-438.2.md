@@ -50,6 +50,8 @@ As used in this part—
 
 (ii) Is described in section 9517(c)(3) of the Omnibus Budget Reconciliation Act of 1985 (as amended by section 4734 of the Omnibus Budget Reconciliation Act of 1990 and section 205 of the Medicare Improvements for Patients and Providers Act of 2008).
 
+*In lieu of service or setting* (ILOS) is a service or setting that is provided to an enrollee as a substitute for a covered service or setting under the State plan in accordance with § 438.3(e)(2). An ILOS can be used as an immediate or longer-term substitute for a covered service or setting under the State plan, or when the ILOS can be expected to reduce or prevent the future need to utilize the covered service or setting under the State plan.
+
 *Long-term services and supports (LTSS)* means services and supports provided to beneficiaries of all ages who have functional limitations and/or chronic illnesses that have the primary purpose of supporting the ability of the beneficiary to live or work in the setting of their choice, which may include the individual's home, a worksite, a provider-owned or controlled residential setting, a nursing facility, or other institutional setting.
 
 *Managed care organization (MCO)* means an entity that has, or is seeking to qualify for, a comprehensive risk contract under this part, and that is—
@@ -120,7 +122,7 @@ As used in this part—
 
 (8) Implementation of quality improvement activities including administering enrollee satisfaction surveys or collecting data necessary for performance measurement of providers.
 
-(9) Coordination with behavioral health systems/providers.
+(9) Coordination with mental and substance use disorder health systems and providers.
 
 (10) Coordination with long-term services and supports systems/providers.
 
@@ -146,4 +148,8 @@ As used in this part—
 
 *State* means the Single State agency as specified in § 431.10 of this chapter.
 
+*State directed payment (SDP)* means a contract arrangement that directs an MCO's, PIHP's, or PAHP's expenditures under § 438.6(c).
+
 *Subcontractor* means an individual or entity that has a contract with an MCO, PIHP, PAHP, or PCCM entity that relates directly or indirectly to the performance of the MCO's, PIHP's, PAHP's, or PCCM entity's obligations under its contract with the State. A network provider is not a subcontractor by virtue of the network provider agreement with the MCO, PIHP, or PAHP.
+
+[81 FR 27853, May 6, 2016, as amended at 89 FR 41267, May 10, 2024]

@@ -18,7 +18,9 @@
 
 (ii) Controlled on the CCL for anti-terrorism reasons only; or
 
-(iii) For the following ECCN “items” level paragraphs of “technology” or “software” specifically for the “development,” “production,” or “use” of cryptographic functionality once the release is for a “standards-related activity:” “software” that is classified under ECCN 5D002.b or 5D002.c.1 (for equipment specified in ECCN 5A002.a and 5A002.c only); “technology” that is classified under ECCN 5E002 (for equipment specified in ECCN 5A002.a, .b and .c); and “technology” for software controlled under ECCN 5D002.b or .c.1 (for equipment specified in ECCN 5A002.a and .c only) when the release is for a “standards-related activity;” and
+(iii) For the following ECCN “items” level paragraphs of “technology” or “software” specifically for the “development,” “production,” or “use” of cryptographic functionality once the release is for a “standards-related activity:” “software” that is classified under ECCN 5D002.b or 5D002.c.1 (for equipment specified in ECCN 5A002.a and 5A002.c only); “technology” that is classified under ECCN 5E002 (for equipment specified in ECCN 5A002.a, .b and .c); and “technology” for software controlled under ECCN 5D002.b or .c.1 (for equipment specified in ECCN 5A002.a and .c only) when the release is for a “standards-related activity;” or
+
+(iv) “Software” that is classified under ECCN 9D515 (other than 9D515.d or .e); and “technology” classified under ECCN 9E515.a, .b, or .f (limited to technology for 9A515.a.4), when the release is for a “standards-related activity;” and
 
 (2) The “standards-related activity:”
 
@@ -26,4 +28,4 @@
 
 (ii) Occurs with the intent that the resulting standard will be “published.”
 
-[89 FR 58273, July 18, 2024]
+[89 FR 58273, July 18, 2024, as amended at 89 FR 84777, Oct. 23, 2024]

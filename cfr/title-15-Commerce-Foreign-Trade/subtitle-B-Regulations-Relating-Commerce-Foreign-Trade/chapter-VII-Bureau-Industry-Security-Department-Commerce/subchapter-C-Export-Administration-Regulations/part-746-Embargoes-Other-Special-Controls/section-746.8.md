@@ -98,7 +98,7 @@ See also § 750.7(c)(1)(xi) of the EAR for the divesture of items within Russia 
 
 (i) License Exception TMP for items for use by the news media as set forth in § 740.9(a)(9) of the EAR.
 
-(ii) License Exception GOV (§ 740.11(b) of the EAR).
+(ii) License Exception GOV (§ 740.11(b) of the EAR) may overcome the license requirements in paragraphs (a)(1), (2), and (4) through (7) of this section. License Exception GOV under (§ 740.11(e) of the EAR) may overcome the license requirements in paragraphs (a)(1) and (2) of this section for ECCN 9A004.
 
 (iii) License Exception TSU for software updates for civil end-users that are wholly-owned U.S. subsidiaries, branches, or sales offices; foreign subsidiaries, branches, or sales offices of U.S. companies that are joint ventures with other U.S. companies; joint ventures of U.S. companies with companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740 of the EAR countries; the wholly-owned subsidiaries, branches, or sales offices of companies headquartered in countries from Country Group A:5 and A:6 in supplement no. 1 to part 740; or joint ventures of companies headquartered in Country Group A:5 and A:6 with other companies headquartered in Country Groups A:5 and A:6 (§ 740.13(c) of the EAR).
 
@@ -114,4 +114,4 @@ See also § 750.7(c)(1)(xi) of the EAR for the divesture of items within Russia 
 
 (d) *License Applications.* License applications submitted to BIS under this section may include the phrase “§ 746.8” and identify the paragraph (a) license requirement(s) from this section that are applicable. You should include a description such as “paragraph (a)(1) or any of the other paragraph (a) paragraphs that may be applicable to a license application” in Block 9 (Special Purpose) of your license application as described in supplement no. 1 to part 748 of the EAR.
 
-[89 FR 51662, June 18, 2024, as amended at 89 FR 68543, Aug. 27, 2024; 89 FR 51664, June 18, 2024; 89 FR 68543, Aug. 27, 2024]
+[89 FR 51662, June 18, 2024, as amended at 89 FR 68543, Aug. 27, 2024; 89 FR 51664, June 18, 2024; 89 FR 68543, Aug. 27, 2024; 89 FR 84777, Oct. 23, 2024]

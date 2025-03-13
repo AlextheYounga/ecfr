@@ -1,5 +1,7 @@
 ##### § 50.4 Stakeholder participation. #####
 
+Link to an amendment published at 89 FR 84472, Oct. 23, 2024.
+
 A Project Participation Plan is required to ensure stakeholders have access to accurate and timely information on the proposed project and permit application process.
 
 (a) *Project Participation Plan.* An applicant must develop a Project Participation Plan and file it with the pre-filing materials under § 50.5(c)(7) that:

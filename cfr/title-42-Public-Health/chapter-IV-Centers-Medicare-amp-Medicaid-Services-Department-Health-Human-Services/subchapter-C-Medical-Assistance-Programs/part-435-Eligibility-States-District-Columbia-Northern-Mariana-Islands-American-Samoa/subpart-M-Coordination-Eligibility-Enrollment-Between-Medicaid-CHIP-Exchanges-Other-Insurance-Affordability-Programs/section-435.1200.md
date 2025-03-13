@@ -10,7 +10,7 @@
 
 (iii) *Joint fair hearing request* has the meaning provided in § 431.201 of this chapter.
 
-(b) *General requirements.* The State
+(b) *General requirements.* The State Medicaid agency must—
 
 (1) Fulfill the responsibilities set forth in paragraphs (c) through (h) of this section.
 
