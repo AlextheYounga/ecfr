@@ -1,5 +1,7 @@
 ##### § 668.16 Standards of administrative capability. #####
 
+Link to an amendment published at 88 FR 74698, Oct. 31, 2023.
+
 To begin and to continue to participate in any Title IV, HEA program, an institution shall demonstrate to the Secretary that the institution is capable of adequately administering that program under each of the standards established in this section. The Secretary considers an institution to have that administrative capability if the institution—
 
 (a) Administers the Title IV, HEA programs in accordance with all statutory provisions of or applicable to Title IV of the HEA, all applicable regulatory provisions prescribed under that statutory authority, and all applicable special arrangements, agreements, and limitations entered into under the authority of statutes applicable to Title IV of the HEA;

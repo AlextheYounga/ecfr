@@ -5,14 +5,14 @@
 (b) *Narcotic drugs.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation containing any of the following narcotic drugs, or their salts calculated as the free anhydrous base or alkaloid, in limited quantities as set forth below:
 
 |                    (1) Not more than 1 milligram of difenoxin and not less than 25 micrograms of atropine sulfate per dosage unit                     |9167|
-|:------------------------------------------------------------------------------------------------------------------------------------------------------|---:|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------|----|
 |                              (2) Dextropropoxyphene (alpha-(+)-4-dimethylamino-1,2-diphenyl-3-methyl-2-propionoxybutane)                              |9278|
 |(3) 2-[(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexanol, its salts, optical and geometric isomers and salts of these isomers (including tramadol)|9752|
 
 (c) *Depressants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
 |             (1) Alfaxalone             |2731|
-|:---------------------------------------|---:|
+|----------------------------------------|----|
 |             (2) Alprazolam             |2882|
 |              (3) Barbital              |2145|
 |            (4) Brexanolone             |2400|
@@ -71,18 +71,19 @@
 |             (57) Zaleplon              |2781|
 |             (58) Zolpidem              |2783|
 |             (59) Zopiclone             |2784|
+|            (60) Zuranolone             |2420|
 
 (d) [Reserved]
 
 (e) *Lorcaserin.* Any material, compound, mixture, or preparation which contains any quantity of the following substances, including its salts, isomers, and salts of such isomers, whenever the existence of such salts, isomers, and salts of isomers is possible:
 
 |(1) Lorcaserin|1625|
-|:-------------|---:|
+|--------------|----|
 
 (f) *Stimulants.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system, including its salts, isomers and salts of isomers:
 
 |                                (1) Cathine ((+)-norpseudoephedrine)                                 |1230|
-|:----------------------------------------------------------------------------------------------------|---:|
+|-----------------------------------------------------------------------------------------------------|----|
 |                                         (2) Diethylpropion                                          |1610|
 |                                           (3) Fencamfamin                                           |1760|
 |                                           (4) Fenproporex                                           |1575|
@@ -100,7 +101,7 @@
 (g) *Other substances.* Unless specifically excepted or unless listed in another schedule, any material, compound, mixture or preparation which contains any quantity of the following substances, including its salts:
 
 |                                                                                                                     (1) Pentazocine                                                                                                                     |9709|
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---:|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
 |                                                                                                     (2) Butorphanol (including its optical isomers)                                                                                                     |9720|
 |(3) Eluxadoline (5-[[[(2S)-2-amino-3-[4-aminocarbonyl)-2,6-dimethylphenyl]-1-oxopropyl][(1S)-1-(4-phenyl-1H-imidazol-2-yl)ethyl]amino]methyl]-2-methoxybenzoic acid) (including its optical isomers) and its salts, isomers, and salts of isomers (9725).|    |
 

@@ -1,5 +1,7 @@
 ##### § 668.23 Compliance audits and audited financial statements. #####
 
+Link to an amendment published at 88 FR 74699, Oct. 31, 2023.
+
 (a) *General*—(1) *Independent auditor.* For purposes of this section, the term “independent auditor” refers to an independent certified public accountant or a government auditor. To conduct an audit under this section, a government auditor must meet the Government Auditing Standards qualification and independence standards, including standards related to organizational independence.
 
 (2) *Institutions.* An institution that participates in any title IV, HEA program must at least annually have an independent auditor conduct a compliance audit of its administration of that program and an audit of the institution's general purpose financial statements.

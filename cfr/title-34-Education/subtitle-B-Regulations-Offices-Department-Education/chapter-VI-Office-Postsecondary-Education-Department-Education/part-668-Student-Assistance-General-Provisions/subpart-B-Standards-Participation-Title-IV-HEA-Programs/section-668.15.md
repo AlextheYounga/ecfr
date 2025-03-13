@@ -1,5 +1,7 @@
 ##### § 668.15 Factors of financial responsibility. #####
 
+Link to an amendment published at 88 FR 74698, Oct. 31, 2023.
+
 (a) *General.* To begin and to continue to participate in any Title IV, HEA program, an institution must demonstrate to the Secretary that the institution is financially responsible under the requirements established in this section.
 
 (b) *General standards of financial responsibility.* In general, the Secretary considers an institution to be financially responsible only if it—

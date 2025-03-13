@@ -1,5 +1,7 @@
 ##### § 1310.02 Substances covered. #####
 
+Link to an amendment published at 88 FR 74358, Oct. 31, 2023.
+
 The following chemicals have been specifically designated by the Administrator of the Drug Enforcement Administration as the listed chemicals subject to the provisions of this part and parts 1309 and 1313 of this chapter. Each chemical has been assigned the DEA Chemical Code Number set forth opposite it.
 
 (a) List I chemicals

@@ -1,5 +1,7 @@
 ##### § 668.174 Past performance. #####
 
+Link to an amendment published at 88 FR 74707, Oct. 31, 2023.
+
 (a) *Past performance of an institution.* An institution is not financially responsible if the institution—
 
 (1) Has been limited, suspended, terminated, or entered into a settlement agreement to resolve a limitation, suspension, or termination action initiated by the Secretary or a guaranty agency, as defined in 34 CFR part 682, within the preceding five years;

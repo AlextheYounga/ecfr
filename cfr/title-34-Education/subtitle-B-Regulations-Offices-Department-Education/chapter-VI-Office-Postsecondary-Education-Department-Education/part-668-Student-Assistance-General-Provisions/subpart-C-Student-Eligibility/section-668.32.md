@@ -1,5 +1,7 @@
 ##### § 668.32 Student eligibility—general. #####
 
+Link to an amendment published at 88 FR 74700, Oct. 31, 2023.
+
 A student is eligible to receive Title IV, HEA program assistance if the student either meets all of the requirements in paragraphs (a) through (m) of this section or meets the requirement in paragraph (n) of this section as follows:
 
 (a)(1) (i) Is a regular student enrolled, or accepted for enrollment, in an eligible program at an eligible institution;

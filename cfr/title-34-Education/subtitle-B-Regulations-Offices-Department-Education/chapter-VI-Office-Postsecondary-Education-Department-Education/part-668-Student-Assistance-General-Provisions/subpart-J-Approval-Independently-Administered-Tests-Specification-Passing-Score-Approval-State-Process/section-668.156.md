@@ -1,5 +1,7 @@
 ##### § 668.156 Approved State process. #####
 
+Link to an amendment published at 88 FR 74701, Oct. 31, 2023.
+
 (a)(1) A State that wishes the Secretary to consider its State process as an alternative to achieving a passing score on an approved, independently administered test for the purpose of determining a student's eligibility for title IV, HEA program funds must apply to the Secretary for approval of that process.
 
 (2) To be an approved State process, the State process does not have to include all the institutions located in that State, but must indicate which institutions are included.

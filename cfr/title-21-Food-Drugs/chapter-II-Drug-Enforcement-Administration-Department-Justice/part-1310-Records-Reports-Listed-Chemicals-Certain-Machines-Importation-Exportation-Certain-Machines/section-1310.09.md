@@ -1,5 +1,7 @@
 ##### § 1310.09 Temporary exemption from registration. #####
 
+Link to an amendment published at 88 FR 74359, Oct. 31, 2023.
+
 (a) Each person required by section 302 of the act (21 U.S.C. 822) to obtain a registration to distribute, import, or export a combination ephedrine product is temporarily exempted from the registration requirement, provided that the person submits a proper application for registration on or before July 12, 1997. The exemption will remain in effect for each person who has made such application until the Administration has approved or denied that application. This exemption applies only to registration; all other chemical control requirements set forth in parts 1309, 1310, and 1313 of this chapter remain in full force and effect.
 
 (b) Each person required by section 302 of the Act (21 U.S.C. 822) to obtain a registration to distribute, import, or export a drug product that contains pseudoephedrine or phenylpropanolamine that is regulated pursuant to paragraph (1)(iv) of the definition of regulated transaction in § 1300.02 of this chapter is temporarily exempted from the registration requirement, provided that the person submits a proper application for registration on or before December 3, 1997.The exemption will remain in effect for each person who has made such application until the Administration has approved or denied that application. This exemption applies only to registration; all other chemical control requirements set forth in parts 1309, 1310, and 1313 of this chapter remain in full force and effect.

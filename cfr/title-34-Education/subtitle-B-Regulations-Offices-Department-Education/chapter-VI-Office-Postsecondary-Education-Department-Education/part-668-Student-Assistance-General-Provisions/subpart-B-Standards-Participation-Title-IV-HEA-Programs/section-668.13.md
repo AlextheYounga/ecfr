@@ -1,5 +1,7 @@
 ##### § 668.13 Certification procedures. #####
 
+Link to an amendment published at 88 FR 74695, Oct. 31, 2023.
+
 (a) *Requirements for certification.* (1)(i) The Secretary certifies an institution to participate in the title IV, HEA programs if the institution qualifies as an eligible institution under 34 CFR part 600, meets the standards of this subpart and 34 CFR part 668, subpart L, and satisfies the requirements of paragraph (a)(2) of this section.
 
 (ii) On application from the institution, the Secretary certifies a location of an institution that meets the requirements of § 668.13(a)(1)(i) as a branch if it satisfies the definition of “branch” in 34 CFR 600.2.
