@@ -10,15 +10,15 @@ To make household substances that are subject to requirements for special packag
 
 (4) The declaration shall be in letters in type size established in relationship to the area of the principal display panel of the package and shall be uniform for all packages of substantially the same size by complying with the following type-size specifications:
 
-(i) Not less than1/16 inch in height on packages the principal display panel of which has an area of 7 square inches or less.
+(i) Not less than 1/16 inch in height on packages the principal display panel of which has an area of 7 square inches or less.
 
-(ii) Not less than3/32 inch in height on packages the principal display panel of which has an area of more than 7 but not more than 15 square inches.
+(ii) Not less than 3/32 inch in height on packages the principal display panel of which has an area of more than 7 but not more than 15 square inches.
 
-(iii) Not less than1/8 inch in height on packages the principal display panel of which has an area of more than 15 but not more than 25 square inches.
+(iii) Not less than 1/8 inch in height on packages the principal display panel of which has an area of more than 15 but not more than 25 square inches.
 
-(iv) Not less than3/16 inch in height on packages the principal display panel of which has an area of more than 25 but not more than 100 square inches.
+(iv) Not less than 3/16 inch in height on packages the principal display panel of which has an area of more than 25 but not more than 100 square inches.
 
-(v) Not less than1/4 inch in height on packages the principal display panel of which has an area of more than 100 square inches.
+(v) Not less than 1/4 inch in height on packages the principal display panel of which has an area of more than 100 square inches.
 
 (5)(i) For the purpose of obtaining uniform type size for the required statement for all packages of substantially the same size, the area of the principal display panel is the area of the side or surface that bears the principal display panel, which shall be:
 

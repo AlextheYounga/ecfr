@@ -1,6 +1,6 @@
 ##### § 316.3 Primary purpose. #####
 
-(a) In applying the term “commercial electronic mail message” defined in the CAN-SPAM Act, 15 U.S.C. 7702(2), the “primary purpose” of an electronic mail message shall be deemed to be commercial based on the criteria in paragraphs (a)(1) through (3) and (b) of this section:1
+(a) In applying the term “commercial electronic mail message” defined in the CAN-SPAM Act, 15 U.S.C. 7702(2), the “primary purpose” of an electronic mail message shall be deemed to be commercial based on the criteria in paragraphs (a)(1) through (3) and (b) of this section: 1
 
 1 The Commission does not intend for these criteria to treat as a “commercial electronic mail message” anything that is not commercial speech.
 

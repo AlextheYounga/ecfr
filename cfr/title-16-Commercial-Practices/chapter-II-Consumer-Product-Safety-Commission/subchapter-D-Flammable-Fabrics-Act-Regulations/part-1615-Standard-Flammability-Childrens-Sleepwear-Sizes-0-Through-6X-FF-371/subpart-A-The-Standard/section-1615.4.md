@@ -27,7 +27,7 @@
 
 (8) *Scale.* A linear scale graduated in millimeters or 0.1 inch divisions shall be used to measure char length.
 
-(9) *Circulating Air Oven.* A forced circulation drying oven capable of maintaining the specimens at 105±2.8 °C. (221±5 °F.), shall be used to dry the specimen while mounted in the specimen holders.3
+(9) *Circulating Air Oven.* A forced circulation drying oven capable of maintaining the specimens at 105±2.8 °C. (221±5 °F.), shall be used to dry the specimen while mounted in the specimen holders. 3
 
 3 Option 1 of ASTM, D2654-67T, “Method of Test for Amount of Moisture in Textile Materials,” describes a satisfactory oven (1970 Book of ASTM Standards, part 24, published by the American Society for Testing and Materials, 1916 Race Street, Philadelphia, Pa. 19103).
 
@@ -119,7 +119,7 @@
 
 (e) *Specimens and Sampling—Compliance Market Sampling Plan.* Sampling plans for use in market testing of items covered by this Standard may be issued by the Consumer Product Safety Commission. Such plans shall define noncompliance of a production Unit to exist only when it is shown, with a high level of statistical confidence, those production Units represented by tested items which fail such plans will, in fact, fail this standard. Production units found to be non-complying under the provisions of paragraph (e) of this section shall be deemed not to conform to this Standard. The Consumer Product Safety Commission may publish such plans in the Federal Register.
 
-(f) *Mounting and conditioning of specimens.* (1) The specimens shall be placed in specimen holders so that the bottom edge of each specimen is even with the bottom of the specimen holder. Mount the specimen in as close to a flat configuration as possible. The sides of the specimen holder shall cover 1.9 cm. (3/4 in.) of the specimen width along each long edge of the specimen, and thus shall expose 5.1 cm. (2 in.) of the specimen width. The sides of the specimen holder shall be clamped with a sufficient number of clamps or shall be taped to prevent the specimen from being displaced during handling and testing. The specimens may be taped in the holders if the clamps fail to hold them. Place the mounted specimens in the drying oven in a manner that will permit free circulation of air at 105 °C. (221 °F.) around them for 30 minutes.4
+(f) *Mounting and conditioning of specimens.* (1) The specimens shall be placed in specimen holders so that the bottom edge of each specimen is even with the bottom of the specimen holder. Mount the specimen in as close to a flat configuration as possible. The sides of the specimen holder shall cover 1.9 cm. (3/4 in.) of the specimen width along each long edge of the specimen, and thus shall expose 5.1 cm. (2 in.) of the specimen width. The sides of the specimen holder shall be clamped with a sufficient number of clamps or shall be taped to prevent the specimen from being displaced during handling and testing. The specimens may be taped in the holders if the clamps fail to hold them. Place the mounted specimens in the drying oven in a manner that will permit free circulation of air at 105 °C. (221 °F.) around them for 30 minutes. 4
 
 4 If the specimens are moist when received, permit them to air dry at laboratory conditions prior to placement in the oven. A satisfactory preconditioning procedure may be found in ASTM D 1776-67, “Conditioning Textiles and Textile Products for Testing.” (“1970 Book of ASTM Standards,” part 24, published by the American Society for Testing and Materials, 1916 Race Street, Philadelphia, PA 19103.)
 
@@ -131,7 +131,7 @@
 
 (ii) When afterglow has ceased, remove the specimen from the cabinet and holder, and place it on a clean flat surface. Fold the specimen lengthwise along a line through the highest peak of the charred or melted area; crease the specimen firmly by hand. Unfold the specimen and insert the hook with the correct weight as shown in table 1 in the specimen on one side of the charred area 6.4 mm. (1/4 in.) from the lower edge.
 
-(iii) Tear the specimen by grasping the other lower corner of the fabric and gently raising the specimen and weight clear of the supporting surface.5 Measure the char length as the distance from the end of the tear to the edge of the specimen exposed to the flame. After testing each specimen, vent the hood and cabinet to remove the smoke and/or toxic gases.
+(iii) Tear the specimen by grasping the other lower corner of the fabric and gently raising the specimen and weight clear of the supporting surface. 5 Measure the char length as the distance from the end of the tear to the edge of the specimen exposed to the flame. After testing each specimen, vent the hood and cabinet to remove the smoke and/or toxic gases.
 
 5 A figure showing how this is done is given in AATCC 34-1969, Technical Manual of the American Association of Textile Chemists and Colorists, vol. 46, 1970, published by AATCC, Post Office Box 12215, Research Triangle Park, N.C. 27709.
 

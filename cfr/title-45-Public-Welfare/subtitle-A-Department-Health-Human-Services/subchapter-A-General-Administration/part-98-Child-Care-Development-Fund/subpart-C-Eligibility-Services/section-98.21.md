@@ -92,9 +92,7 @@
 
 (iii) Other information needed for eligibility.
 
-(h) The Lead Agency shall establish procedures and policies to ensure parents, especially parents receiving assistance through the Temporary Assistance for Needy Families (TANF) program, are not required to unduly disrupt their education, training, or employment in order to complete the eligibility redetermination process.
-
-(i) The Lead Agency shall specify in the Plan any requirements for parents to notify the Lead Agency of changes in circumstances during the minimum 12-month eligibility period, and describe efforts to ensure such requirements do not place an undue burden on eligible families that could impact continued eligibility between redeterminations.
+(h) The Lead Agency shall specify in the Plan any requirements for parents to notify the Lead Agency of changes in circumstances during the minimum 12-month eligibility period, and describe efforts to ensure such requirements do not place an undue burden on eligible families that could impact continued eligibility between redeterminations.
 
 (1) The Lead Agency must require families to report a change at any point during the minimum 12-month period, limited to:
 
@@ -118,8 +116,8 @@
 
 (ii) Lead Agencies are prohibited from acting on information that would reduce the family's subsidy unless the information provided indicates the family's income exceeds 85 percent of SMI for a family of the same size, taking into account irregular income fluctuations, or, at the option of the Lead Agency, the family has experienced a non-temporary change in the work, training, or educational status.
 
-(j) Lead Agencies must take into consideration children's development and learning and promote continuity of care when authorizing child care services.
+(i) Lead Agencies must take into consideration children's development and learning and promote continuity of care when authorizing child care services.
 
-(k) Lead Agencies are not required to limit authorized child care services strictly based on the work, training, or educational schedule of the parent(s) or the number of hours the parent(s) spend in work, training, or educational activities.
+(j) Lead Agencies are not required to limit authorized child care services strictly based on the work, training, or educational schedule of the parent(s) or the number of hours the parent(s) spend in work, training, or educational activities.
 
-[81 FR 67579, Sept. 30, 2016, as amended at 89 FR 15413, Mar. 1, 2024; 89 FR 52397, June 24, 2024]
+[81 FR 67579, Sept. 30, 2016, as amended at 89 FR 15413, Mar. 1, 2024; 89 FR 52397, June 24, 2024; 89 FR 85071, Oct. 25, 2024]

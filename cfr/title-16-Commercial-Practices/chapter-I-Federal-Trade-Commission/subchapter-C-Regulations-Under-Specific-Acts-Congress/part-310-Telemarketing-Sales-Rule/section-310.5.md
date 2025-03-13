@@ -28,7 +28,7 @@
 
 (3) For each prize recipient, a record of the name, last known telephone number, and last known physical or email address of that prize recipient, and the prize awarded for prizes that are represented, directly or by implication, to have a value of $25.00 or more;
 
-(4) For each customer, a record of the name, last known telephone number, and last known physical or email address of that customer, the goods or services purchased, the date such goods or services were purchased, the date such goods or services were shipped or provided, and the amount paid by the customer for the goods or services;1
+(4) For each customer, a record of the name, last known telephone number, and last known physical or email address of that customer, the goods or services purchased, the date such goods or services were purchased, the date such goods or services were shipped or provided, and the amount paid by the customer for the goods or services; 1
 
 1 For offers of consumer credit products subject to the Truth in Lending Act, 15 U.S.C. 1601 *et seq.,* and Regulation Z, 12 CFR pt. 226, compliance with the recordkeeping requirements under the Truth in Lending Act, and Regulation Z, will constitute compliance with § 310.5(a)(4) of this part.
 

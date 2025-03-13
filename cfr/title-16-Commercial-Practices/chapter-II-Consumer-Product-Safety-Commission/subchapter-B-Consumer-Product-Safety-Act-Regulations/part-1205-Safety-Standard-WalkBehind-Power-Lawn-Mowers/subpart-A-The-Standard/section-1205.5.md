@@ -12,7 +12,7 @@
 
 (A) The engine starting controls for the lawn mower are located within 24 inches from the top of the mower's handles, or
 
-(B) The mower has a protective foot shield which extends 360 degrees around the mower housing (see § 1205.4 (b)(1)(ii)(B)).1
+(B) The mower has a protective foot shield which extends 360 degrees around the mower housing (see § 1205.4 (b)(1)(ii)(B)). 1
 
 1 Paragraphs (A) and (B) of § 1205.5(a)(1)(iv), permitting mowers that stop the blade by stopping the engine but that do not have power restart, were added to the standard as directed by Sec. 1212 of the Omnibus Budget Reconciliation Act of 1981, Pub. L. 97-35, 95 Stat. 357.
 

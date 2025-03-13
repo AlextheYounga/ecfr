@@ -1,6 +1,6 @@
 ##### § 239.2 Disclosures in warranty or guarantee advertising. #####
 
-(a) If an advertisement mentions a warranty or guarantee that is offered on the advertised product, the advertisement should disclose, with such clarity and prominence as will be noticed and understood by prospective purchasers, that prior to sale, at the place where the product is sold, prospective purchasers can see the written warranty or guarantee for complete details of the warranty coverage.1
+(a) If an advertisement mentions a warranty or guarantee that is offered on the advertised product, the advertisement should disclose, with such clarity and prominence as will be noticed and understood by prospective purchasers, that prior to sale, at the place where the product is sold, prospective purchasers can see the written warranty or guarantee for complete details of the warranty coverage. 1
 
 1 In television advertising, the Commission will regard any disclosure of the pre-sale availability of warranties as complying with this Guide if the advertisement makes the necessary disclosure simultaneously with or immediately following the warranty claim and the disclosure is made in the audio portion, or, if in the video portion, it remains on the screen for at least five seconds.
 
@@ -16,7 +16,7 @@ D. *“See our full 2 year warranty at the store nearest you.”*
 
 E. “Don't take our word—take our warranty. *See our limited 2 year warranty where you shop.”*
 
-(b) If an advertisement in any catalogue, or in any other solicitation2 for mail order sales or for telephone order sales mentions a warranty or guarantee that is offered on the advertised product, the advertisement should disclose, with such clarity and prominence as will be noticed and understood by prospective purchasers, that prospective purchasers can obtain complete details of the written warranty or guarantee free from the seller upon specific written request or from the catalogue or other solicitation (whichever is applicable).
+(b) If an advertisement in any catalogue, or in any other solicitation 2 for mail order sales or for telephone order sales mentions a warranty or guarantee that is offered on the advertised product, the advertisement should disclose, with such clarity and prominence as will be noticed and understood by prospective purchasers, that prospective purchasers can obtain complete details of the written warranty or guarantee free from the seller upon specific written request or from the catalogue or other solicitation (whichever is applicable).
 
 2 See note 1.
 

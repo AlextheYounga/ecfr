@@ -126,4 +126,4 @@
 
 (B) Any multinational organization, to the extent that it is acting on behalf of an entity described in paragraph (j)(5)(i)(A) of this section.
 
-(15 U.S.C. 41 *et seq.*)[40 FR 7629, Feb. 21, 1975]Editorial Note:For Federal Register citations affecting § 4.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(15 U.S.C. 41 *et seq.*) [40 FR 7629, Feb. 21, 1975] Editorial Note:For Federal Register citations affecting § 4.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

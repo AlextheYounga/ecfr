@@ -1,6 +1,6 @@
 ##### § 1500.43a Method of test for flashpoint of volatile flammable materials. #####
 
-(a) *Scope.* (1) This method describes the test procedure which the Commission will use for the determination of the flashpoint of volatile flammable materials, using a Setaflash1 low-range closed tester, or an apparatus producing equivalent results. The method described in this section is essentially a Setaflash equilibrium procedure which closely parallels the test method designated ASTM D 3828-81, “Standard Test Methods for Flash Point by Setaflash Closed Tester,” published by the American Society for Testing and Materials (ASTM), 1916 Race Street, Philadelphia, Pennsylvania 19103. Manufacturers and labelers of products subject to labeling and other requirements under the Federal Hazardous Substances Act may use other apparatus and/or test methods which produce equivalent results.
+(a) *Scope.* (1) This method describes the test procedure which the Commission will use for the determination of the flashpoint of volatile flammable materials, using a Setaflash 1 low-range closed tester, or an apparatus producing equivalent results. The method described in this section is essentially a Setaflash equilibrium procedure which closely parallels the test method designated ASTM D 3828-81, “Standard Test Methods for Flash Point by Setaflash Closed Tester,” published by the American Society for Testing and Materials (ASTM), 1916 Race Street, Philadelphia, Pennsylvania 19103. Manufacturers and labelers of products subject to labeling and other requirements under the Federal Hazardous Substances Act may use other apparatus and/or test methods which produce equivalent results.
 
 1 Setaflash is a registered trademark of Stanhope-Seta Limited, Surrey, England.
 
@@ -40,7 +40,7 @@
 
 (h) *Calibration and standardization.* (1) Before initial use determine and plot the relationship between the temperature control dial and the thermometer readings at each major (numbered) dial division as follows:
 
-Turn the temperature control knob2 fully counterclockwise (“O” reading). Advance the temperature control knob clockwise until the indicator light is illuminated.3 Advance the knob clockwise to the next numbered line. After the thermometer mercury column ceases to advance, record the dial reading and the temperature. Advance the knob clockwise to the next numbered line. After the thermometer mercury column ceases to advance, read the dial reading and the temperature. Repeat this procedure through the full range of the instrument. Plot the dial readings versus the respective temperatures.
+Turn the temperature control knob 2 fully counterclockwise (“O” reading). Advance the temperature control knob clockwise until the indicator light is illuminated. 3 Advance the knob clockwise to the next numbered line. After the thermometer mercury column ceases to advance, record the dial reading and the temperature. Advance the knob clockwise to the next numbered line. After the thermometer mercury column ceases to advance, read the dial reading and the temperature. Repeat this procedure through the full range of the instrument. Plot the dial readings versus the respective temperatures.
 
 2 If the instrument has two temperature control knobs, set the fine control (center, small knob) at its mid-position and allow it to remain there throughout the calibration. The calibration is determined by adjusting the coarse control (large, outer knob) only.
 
@@ -56,17 +56,17 @@ Turn the temperature control knob2 fully counterclockwise (“O” reading). Adv
 
 (iii) Target flashpoint, °F = Sf—0.06 (760-B)
 
-where:Sc = specification, or uncorrected target, flashpoint, °C,Sf = specification, or uncorrected target, flashpoint, °F,B = ambient barometric pressure, mm Hg,4 and
+where:Sc = specification, or uncorrected target, flashpoint, °C,Sf = specification, or uncorrected target, flashpoint, °F,B = ambient barometric pressure, mm Hg, 4 and
 
 4 The barometric pressure used in this calculation must be the ambient pressure for the laboratory at the time of test. Many aneroid barometers, such as those used at weather stations and airports, are precorrected to give sea-level readings; these must not be used.
 
-A = ambient barometer pressure, kPa.4
+A = ambient barometer pressure, kPa. 4
 
 (2) Inspect the inside of the sample cup, lid, and shutter mechanism for cleaniness and freedom from contamination. Use an absorbent paper tissue to wipe clean, if necessary. Put cover in place and lock securely. The filing orifice may be convenienty cleaned with a pipe cleaner.
 
 (3) Set the instrument at the target temperature.
 
-(i) For target temperature below ambient. The instrument power switch is to be in the off position. Fill the refigerant-charged cooling block with a suitable material.5 Raise the lid and shutter assembly, and position the base of the block in the sample cup, being careful not to injure or mar the cup. When the thermometer reads approximately 6 to 10 °C (10 to 20 °F) below the target temperature, remove the cooling block and quickly dry the cup with a paper tissue to remove any moisture. Immediately close the lid and shutter assembly and secure. Prepare to introduce the sample using the syringe, both of which have been precooled to a temperature 5 to 10 °C (10 to 20 °F) below the target temperature.
+(i) For target temperature below ambient. The instrument power switch is to be in the off position. Fill the refigerant-charged cooling block with a suitable material. 5 Raise the lid and shutter assembly, and position the base of the block in the sample cup, being careful not to injure or mar the cup. When the thermometer reads approximately 6 to 10 °C (10 to 20 °F) below the target temperature, remove the cooling block and quickly dry the cup with a paper tissue to remove any moisture. Immediately close the lid and shutter assembly and secure. Prepare to introduce the sample using the syringe, both of which have been precooled to a temperature 5 to 10 °C (10 to 20 °F) below the target temperature.
 
 5 If the target or specification temperature is not less than 5 °C (40 °F) crushed ice and water may be used as charging (cooling) fluid. If below 5 °C (40 °F), a suitable charging (cooling) fluid is solid carbon dioxide (dry ice) and acetone. If the refrigerant charged cooling module is unavailable, refer to the manufacturer's instruction manual for alternative methods of cooling.
 
@@ -74,19 +74,19 @@ A = ambient barometer pressure, kPa.4
 
 (B) Caution: Acetone is extremely flammable. Keep away from heat, sparks, and flames and keep container closed when not actually pouring acetone. Use only in a well-ventilated area. Avoid inhalation and contact with the eyes or skin. Use cloth or leather gloves, goggles or safety shield, and keep dry ice in a canvas bag, especially when cracking.
 
-(ii) For target temperature above ambient. Switch the instrument on and turn the coarse temperature control knob fully clockwise (full on) causing the indicator light to illuminate.6 When the thermometer indicates a temperature about 3 °C (5 °F) below the target (or specification) temperature, reduce the heat input to the sample cup by turning the coarse temperature control knob counter-clockwise to the desired control point (see § 1500.43a(i)(1)). When the indicator light slowly cycles on and off read the temperature on the thermometer. If necessary, adjust the fine (center) temperature control knob to obtain the desired test (target) temperature. When the test temperature is reached and the indicator lamp slowly cycles on and off, prepare to introduce the sample.
+(ii) For target temperature above ambient. Switch the instrument on and turn the coarse temperature control knob fully clockwise (full on) causing the indicator light to illuminate. 6 When the thermometer indicates a temperature about 3 °C (5 °F) below the target (or specification) temperature, reduce the heat input to the sample cup by turning the coarse temperature control knob counter-clockwise to the desired control point (see § 1500.43a(i)(1)). When the indicator light slowly cycles on and off read the temperature on the thermometer. If necessary, adjust the fine (center) temperature control knob to obtain the desired test (target) temperature. When the test temperature is reached and the indicator lamp slowly cycles on and off, prepare to introduce the sample.
 
 6 The target temperature may be attained by originally turning the coarse temperature control knob to the proper setting (see § 1500.43a(h)(1) for the temperature desired rather than the maximum setting (full on). The elapsed time to reach the temperature will be greater, except for maximum temperature. However, less attention will be required during the intervening period.
 
-(4) Charge the syringe with a 2-ml specimen of the sample7 to be tested; transfer the syringe to the filling orifice, taking care not to lose any sample; discharge the test specimen into the cup by fully depressing the syringe plunger, remove the syringe.
+(4) Charge the syringe with a 2-ml specimen of the sample 7 to be tested; transfer the syringe to the filling orifice, taking care not to lose any sample; discharge the test specimen into the cup by fully depressing the syringe plunger, remove the syringe.
 
 7 For target or expected temperatures below ambient, both syringe and sample must be precooled to cup temperature (see § 1500.43a(i)(3)(i)) before the specimen is taken.
 
-(5)(i) Set the timer8 by rotating its knob clockwise to its stop. Open the gas control valve and light the pilot and test flames. Adjust the test flame with the pinch valve to conform to the size of the 4-mm (5/32-in.) gage.
+(5)(i) Set the timer 8 by rotating its knob clockwise to its stop. Open the gas control valve and light the pilot and test flames. Adjust the test flame with the pinch valve to conform to the size of the 4-mm (5/32-in.) gage.
 
 8 For target temperatures below ambient, do not set the timer. Adjust the test flame and allow the temperature to rise under ambient conditions until the target temperature is reached. Immediately apply the test flame as detailed.
 
-(ii) After the time signal indicates the specimen is at test temperature8, apply the test flame by slowly and uniformly opening the shutter and closing it completely over a period of approximately 21/2 s.9 Watch closely for a flash at the cup openings.
+(ii) After the time signal indicates the specimen is at test temperature 8, apply the test flame by slowly and uniformly opening the shutter and closing it completely over a period of approximately 21/2 s. 9 Watch closely for a flash at the cup openings.
 
 9 Never apply the test flame to the specimen more than once. Fresh portions of the sample must be used for each test.
 
@@ -98,17 +98,17 @@ A = ambient barometer pressure, kPa.4
 
 (j) *Test Method B—for determining Finite or Actual Flashpoint.* (1) Inspect the inside of the sample cup, lid, and shutter mechanism for cleanliness and freedom from contamination. Use an absorbent paper tissue to wipe clean, if necessary. Put cover in place and lock securely. The filling orifice may be conveniently cleaned with a pipe cleaner.
 
-(2) For expected flashpoints below ambient. (i) The instrument power switch is to be in off position. Fill the refrigerant-charged cooling block with a suitable material.5 Raise the lid and shutter assembly, and position the base of the block in the sample cup, being careful not to injure or mar the cup. When the thermometer reaches a temperature 5 to 10 °C (10 to 20 °F) below the expected flashpoint, remove the cooling block and quickly dry the cup with a paper tissue to remove any moisture. Immediately close the lid and shutter assembly and secure. Prepare to introduce the sample using the syringe, both of which have been precooled to a temperature 5 to 10 °C (10 to 20 °F) below the expected temperature (See § 1500.43a(j)(5)).
+(2) For expected flashpoints below ambient. (i) The instrument power switch is to be in off position. Fill the refrigerant-charged cooling block with a suitable material. 5 Raise the lid and shutter assembly, and position the base of the block in the sample cup, being careful not to injure or mar the cup. When the thermometer reaches a temperature 5 to 10 °C (10 to 20 °F) below the expected flashpoint, remove the cooling block and quickly dry the cup with a paper tissue to remove any moisture. Immediately close the lid and shutter assembly and secure. Prepare to introduce the sample using the syringe, both of which have been precooled to a temperature 5 to 10 °C (10 to 20 °F) below the expected temperature (See § 1500.43a(j)(5)).
 
 (ii) Caution: Do not cool the sample block below −38 °C, the freezing point of mercury.
 
 (3) For tests where the expected flashpoint is above ambient. Turn the coarse temperature control knob fully clockwise (full on) causing the indicator light to illuminate. When the thermometer reaches a temperature 3 °C (5 °F) below the estimated flashpoint, turn the coarse temperature knob counter-clockwise to the dial reading representing the estimated flashpoint temperature as shown on the calibration curve (See § 1500.43a(h)(1)). When the indicator light slowly cycles on and off, read the temperature on the thermometer. If necessary, adjust the fine temperature control knob to obtain the exact desired temperature.
 
-(4)(i) Charge the syringe7 with a 2 ml specimen of the sample7 to be tested; transfer the syringe to the filling orifice, taking care not to lose any sample; discharge the test specimen into the cup by fully depressing the syringe plunger; remove the syringe.
+(4)(i) Charge the syringe 7 with a 2 ml specimen of the sample 7 to be tested; transfer the syringe to the filling orifice, taking care not to lose any sample; discharge the test specimen into the cup by fully depressing the syringe plunger; remove the syringe.
 
-(ii) Set the timer10 by rotating its knob clockwise to its stop. Open the gas control valve and ignite the pilot and test flames. Adjust the test flame with the pinch valve to conform to the size of the 4-mm (5/32-in.) gage.
+(ii) Set the timer 10 by rotating its knob clockwise to its stop. Open the gas control valve and ignite the pilot and test flames. Adjust the test flame with the pinch valve to conform to the size of the 4-mm (5/32-in.) gage.
 
-(iii) After the audible time signal indicates the specimen is at test temperature,10 apply the test flame by slowly and uniformly opening the shutter and then closing it completely over a period of approximately 21/2 s. Watch closely for a flash at the cup opening.
+(iii) After the audible time signal indicates the specimen is at test temperature, 10 apply the test flame by slowly and uniformly opening the shutter and then closing it completely over a period of approximately 21/2 s. Watch closely for a flash at the cup opening.
 
 10 For expected flashpoint below ambient, do not set the timing device. Adjust the test flame. Allow the temperature to rise under ambient conditions until the temperature reaches 5 °C (9 °F) below the expected flashpoint. Immediately apply the test flame.
 
@@ -118,21 +118,21 @@ A = ambient barometer pressure, kPa.4
 
 (5)(i) If a flash was observed in § 1500.43a(j)(4)(iii) repeat the procedure given in § 1500.43a(j)(2) or (3), and in § 1500.43a(j)(4), testing a new specimen at a temperature 5 °C (9 °F) below that at which the flash was observed.
 
-(ii) If necessary, repeat the procedure in § 1500.43a(j)(5)(i), lowering the temperature 5 °C (9 °F) each time, until no flash is observed.9
+(ii) If necessary, repeat the procedure in § 1500.43a(j)(5)(i), lowering the temperature 5 °C (9 °F) each time, until no flash is observed. 9
 
 (iii) Proceed to § 1500.43a(j)(7).
 
 (6)(i) If no flash was observed in § 1500.43a(j)(4)(iii) repeat the procedure given in § 1500.43a(j)(2) or (3), and in § 1500.43a(j)(4), testing a fresh specimen at a temperature 5 °C (9 °F) above that at which the specimen was tested in § 1500.43a(j)(4)(iii).
 
-(ii) If necessary repeat the procedure in § 1500.43a(j)(6)(i), above, raising the temperature 5 °C (9 °F) each time until a flash is observed.9
+(ii) If necessary repeat the procedure in § 1500.43a(j)(6)(i), above, raising the temperature 5 °C (9 °F) each time until a flash is observed. 9
 
-(7) Having established a flash within two temperatures 5 °C (9 °F) apart, repeat the procedure at 1 °C (2 °F) intervals from the lower of the two temperatures until a flash is observed.9 Record the temperature of the test when this flash occurs as the flashpoint, allowing for any known thermometer correction. Record the barometric pressure.4
+(7) Having established a flash within two temperatures 5 °C (9 °F) apart, repeat the procedure at 1 °C (2 °F) intervals from the lower of the two temperatures until a flash is observed. 9 Record the temperature of the test when this flash occurs as the flashpoint, allowing for any known thermometer correction. Record the barometric pressure. 4
 
 (8) The flashpoint determined in § 1500.43a(j)(7) will be to the nearest 1 °C (2 °F). If improved accuracy is desired (that is, to the nearest 0.5 °C (1 °F)), test a fresh specimen at a temperature 0.5 °C (1 °F) below that at which the flash was observed in § 1500.43a(j)(7). If no flash is observed, the temperature recorded in § 1500.43a(j)(7), is the flashpoint to the nearest 0.5 °C (1 °F). If a flash is observed at the lower temperature, record this latter temperature as the flashpoint.
 
 (9) Turn off the pilot and test flames using the gas control valve. When the cup temperature declines to a safe level, remove the sample and clean the instrument.
 
-(k) *Calculations.* If it is desired to correct the observed finite flashpoint for the effect of barometric pressure, proceed as follows: Observe and record the ambient barometric pressure4 at the time of the test. If the pressure differs from 101.3 kPa (760 mm Hg), correct the flashpoint as follows:
+(k) *Calculations.* If it is desired to correct the observed finite flashpoint for the effect of barometric pressure, proceed as follows: Observe and record the ambient barometric pressure 4 at the time of the test. If the pressure differs from 101.3 kPa (760 mm Hg), correct the flashpoint as follows:
 
 (1) Corrected flashpoint (°C) = C + 0.25 (101.3-A)
 

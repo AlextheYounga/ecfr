@@ -10,7 +10,7 @@
 
 (c) Depending on the context, a free-of or does-not-contain claim is appropriate even for a product, package, or service that contains or uses a trace amount of a substance if:
 
-(1) The level of the specified substance is no more than that which would be found as an acknowledged trace contaminant or background level47;
+(1) The level of the specified substance is no more than that which would be found as an acknowledged trace contaminant or background level 47;
 
 47 “Trace contaminant” and “background level” are imprecise terms, although allowable manufacturing “trace contaminants” may be defined according to the product area concerned. What constitutes a trace amount or background level depends on the substance at issue, and requires a case-by-case analysis.
 

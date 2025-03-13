@@ -1,4 +1,4 @@
-##### § 1202.2 Findings.1 #####
+##### § 1202.2 Findings. 1 #####
 
 1 The Commission's findings apply to the matchbook standard that it published on May 4, 1977 (42 FR 22656-70). On Mar. 31, 1978, the U.S. Court of Appeals for the First Circuit set aside portions of that standard (*D. D. Bean & Sons, Co.* v. *CPSC,* 574 F. 2d 643). On Nov. 17, 1978, the Commission published a revised version of the standard which reflects the court's decision. However, the findings have not been revised and they are therefore not fully applicable to the revised matchbook requirements. For example, the revised standard does not address the unreasonable risk of injury of “[b]urn injuries that have been sustained by persons from fires that have been set by the afterglow of extinguished bookmatches” (§ 1202.2(a)(6)) because the court set aside the afterglow performance requirement.
 

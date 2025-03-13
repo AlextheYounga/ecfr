@@ -10,7 +10,7 @@ Guidelines for *in vivo* and *in vitro* testing of ocular irritation of substanc
 
 (2) The test shall be considered positive if four or more of the animals in the test group exhibit a positive reaction. If only one animal exhibits a positive reaction, the test shall be regarded as negative. If two or three animals a positive reaction, the test is repeated using a different group of six animals. The second test shall be considered positive if three or more of the animals exhibit a positive reaction. If only one or two animals in the second test exhibit a positive reaction, the test shall be repeated with a different group of six animals. Should a third test be needed, the substance will be regarded as an irritant if any animal exhibits a positive response.
 
-(c) To assist testing laboratories and others interested in interpreting ocular irritation test results, the CPSC animal testing policy Web page at *http://www.cpsc.gov/library/animaltesting.html* will contain the scoring system defined in the U.S. EPA's Test Guideline, OPPTS 870.2400: Acute Eye Irritation1 or the OECD Test Guideline 405: Acute Eye Irritation/Corrosion.2
+(c) To assist testing laboratories and others interested in interpreting ocular irritation test results, the CPSC animal testing policy Web page at *http://www.cpsc.gov/library/animaltesting.html* will contain the scoring system defined in the U.S. EPA's Test Guideline, OPPTS 870.2400: Acute Eye Irritation 1 or the OECD Test Guideline 405: Acute Eye Irritation/Corrosion.2
 
 1 EPA. 1998. Health Effects Test Guidelines, OPPTS 870.2400 Acute Eye Irritation. EPA 712-C-98-195. Washington, DC: U.S. Environmental Protection Agency. (Available: *http://iccvam.niehs.nih.gov/SuppDocs/FedDocs/EPA/EPA\_870\_2400.pdf*)
 

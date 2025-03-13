@@ -4,7 +4,7 @@ Manufacturers, including importers, of coal and wood burning appliances as defin
 
 (a) *Written notice on appliance.* (1) The appliance shall bear a legible notice containing the following performance and technical data.
 
-(i) Appropriate minimum clearances from unprotected combustibles to avoid the occurrence of fire.2 The clearances shall include:
+(i) Appropriate minimum clearances from unprotected combustibles to avoid the occurrence of fire. 2 The clearances shall include:
 
 2 Appropriate distances are to be determined by the manufacturer. The Commission expects that test procedures utilized by a nationally recognized testing organization would be suitable for determining appropriate distances.
 

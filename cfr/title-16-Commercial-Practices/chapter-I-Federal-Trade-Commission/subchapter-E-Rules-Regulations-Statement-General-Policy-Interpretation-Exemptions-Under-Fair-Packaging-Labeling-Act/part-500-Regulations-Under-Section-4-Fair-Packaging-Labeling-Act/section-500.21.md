@@ -10,15 +10,15 @@
 
 (b) With area of principal display panel defined as above, the type size in relationship to area of that panel shall comply with the following specifications:
 
-(1) Not less than1/16 inch (1.5 mm) in height on packages the principal display panel of which has an area of 5 square inches or (32.2 cm2) less.
+(1) Not less than 1/16 inch (1.5 mm) in height on packages the principal display panel of which has an area of 5 square inches or (32.2 cm 2) less.
 
-(2) Not less than1/8 inch (3.1 mm) in height on packages the principal display panel of which has an area of more than 5 (32.2 cm2) but not more than 25 square inches (161 cm2).
+(2) Not less than 1/8 inch (3.1 mm) in height on packages the principal display panel of which has an area of more than 5 (32.2 cm 2) but not more than 25 square inches (161 cm 2).
 
-(3) Not less than3/16 inch (4.7 mm) in height on packages the principal display panel of which has an area of more than 25 (161 cm2) but not more than 100 square inches (6.45 dm2).
+(3) Not less than 3/16 inch (4.7 mm) in height on packages the principal display panel of which has an area of more than 25 (161 cm 2) but not more than 100 square inches (6.45 dm 2).
 
-(4) Not less than1/4 inch (6.35 mm) in height on packages the principal display panel of which has an area of more than 100 square inches (6.45 dm2), except not less than1/2 (12.7 mm) inch in height if the area is more than 400 square inches (25.8 dm2).
+(4) Not less than 1/4 inch (6.35 mm) in height on packages the principal display panel of which has an area of more than 100 square inches (6.45 dm 2), except not less than 1/2 (12.7 mm) inch in height if the area is more than 400 square inches (25.8 dm 2).
 
-(c) Where the statement of net quantity of contents is blown, embossed, or molded on a glass or plastic surface rather than by printing, typing, or coloring, the lettering sizes specified in paragraph (b) of this section shall be increased by1/16 of an inch (1.5 mm).
+(c) Where the statement of net quantity of contents is blown, embossed, or molded on a glass or plastic surface rather than by printing, typing, or coloring, the lettering sizes specified in paragraph (b) of this section shall be increased by 1/16 of an inch (1.5 mm).
 
 (d) Letter heights pertain to upper case or capital letters. When upper and lower case or all lower case letters are used, it is the lower case letter “o” or its equivalent that shall meet the minimum standards.
 

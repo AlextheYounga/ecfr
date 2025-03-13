@@ -4,4 +4,4 @@
 
 (b) The Commission retains the right to review the exercise of any of the functions delegated under paragraph (a) of this section. Appeals to the Commission from an order requiring a witness to testify or provide other information will be entertained by the Commission only upon a showing that a substantial question is involved, the determination of which is essential to serve the interests of justice. Such appeals shall be made on the record and shall be in the form of a brief not to exceed fifteen (15) pages in length and shall be filed within five (5) days after notice of the complained of action. The appeal shall not operate to suspend the hearing unless otherwise determined by the person conducting the hearing or ordered by the Commission.
 
-(18 U.S.C. 6002, 6004)[37 FR 5016, Mar. 9, 1972, as amended at 48 FR 41375, Sept. 15, 1983; 61 FR 50645, Sept. 26, 1996]
+(18 U.S.C. 6002, 6004) [37 FR 5016, Mar. 9, 1972, as amended at 48 FR 41375, Sept. 15, 1983; 61 FR 50645, Sept. 26, 1996]

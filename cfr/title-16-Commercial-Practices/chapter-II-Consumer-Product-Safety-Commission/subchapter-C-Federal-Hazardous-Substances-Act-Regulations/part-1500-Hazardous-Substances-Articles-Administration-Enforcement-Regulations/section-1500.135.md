@@ -138,7 +138,7 @@ The presence of positive effects in short-term tests, dose-response effects data
 
 (ii) Risk should be based on the maximum likelihood estimate from a multistage model (such as Global83 or later version) unless the maximum likelihood estimate is not linear at low dose, in which case the 95% upper confidence limit on risk should be used.
 
-(iii) For systemic carcinogens, if estimates of human risk are made based on animal data, a factor derived from dividing the assumed human weight (70 kg) by the average animal weight during the study and taking that to the1/3 power should be used. There is the possibility that this factor may be changed, using the1/4 power instead of the1/3 power, as part of a unified Federal regulatory approach. If such an approach is adopted, it will apply here.
+(iii) For systemic carcinogens, if estimates of human risk are made based on animal data, a factor derived from dividing the assumed human weight (70 kg) by the average animal weight during the study and taking that to the 1/3 power should be used. There is the possibility that this factor may be changed, using the 1/4 power instead of the 1/3 power, as part of a unified Federal regulatory approach. If such an approach is adopted, it will apply here.
 
 (iv) When dose is expressed as parts per million, and the carcinogen acts at the site of contact, humans and animals exposed to the same amount for the same proportion of lifetime should be assumed to be equally sensitive.
 

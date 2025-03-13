@@ -78,4 +78,4 @@ To enforce any edition other than that specified in this section, the Federal Tr
 
 (y) *PLA.* A manufactured fiber in which the fiber-forming substance is composed of at least 85% by weight of lactic acid ester units derived from naturally occurring sugars.
 
-(Sec. 6, 72 Stat. 1717; 15 U.S.C. 70e)[24 FR 4480, June 2, 1959; 24 FR 5737, July 17, 1959]Editorial Note:For Federal Register citations affecting § 303.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Sec. 6, 72 Stat. 1717; 15 U.S.C. 70e) [24 FR 4480, June 2, 1959; 24 FR 5737, July 17, 1959]Editorial Note:For Federal Register citations affecting § 303.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

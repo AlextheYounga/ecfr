@@ -32,9 +32,9 @@ CAUTION: In the interest of safety, the test operator should discontinue the tes
 
 (i) Class A—A ticking prototype is classified as Class A when three specimens, tested in accordance with § 1632.6(e), meet the test criterion in § 1632.6(d)(2) when the ticking is tested directly over the cotton felt on the test box.
 
-(ii) Class B—A ticking prototype is classified as Class B when three specimens, tested according to § 1632.6(e), meet the test criterion in § 1632.6(d)(2) when the ticking is tested on a1/4 inch ±1/32 inch (6.3 mm ±.8 mm) thick urethane foam pad covering the cotton felt on the test box.
+(ii) Class B—A ticking prototype is classified as Class B when three specimens, tested according to § 1632.6(e), meet the test criterion in § 1632.6(d)(2) when the ticking is tested on a 1/4 inch ±1/32 inch (6.3 mm ±.8 mm) thick urethane foam pad covering the cotton felt on the test box.
 
-(iii) Class C—A ticking prototype is classified as Class C when any specimen tested according to § 1632.6(e), fails to meet the test criterion in § 1632.6(d)(2) when the ticking is tested on a1/4 inch ±1/32 inch (6.3 mm ±.8 mm) thick urethane foam pad covering the cotton felt on the test box.
+(iii) Class C—A ticking prototype is classified as Class C when any specimen tested according to § 1632.6(e), fails to meet the test criterion in § 1632.6(d)(2) when the ticking is tested on a 1/4 inch ±1/32 inch (6.3 mm ±.8 mm) thick urethane foam pad covering the cotton felt on the test box.
 
 (e) *Test procedure*—(1) *Apparatus.* For the purpose of this section the following apparatus and materials are required in addition to that which is listed in § 1632.4 (a) and (b).
 
@@ -44,13 +44,13 @@ CAUTION: In the interest of safety, the test operator should discontinue the tes
 
 (iii) *Stapler or masking tape* or other means of attachment to secure fabric to test box.
 
-(iv) *Mounting box.* A 6 inch deep, 12 inch square plywood box. The box contains two1/2 inch in diameter ventilation holes. (See figure 4.)
+(iv) *Mounting box.* A 6 inch deep, 12 inch square plywood box. The box contains two 1/2 inch in diameter ventilation holes. (See figure 4.)
 
 (v) *Cotton felt.* (A) The cotton felt shall be a thoroughly-garnetted mixture of all new material consisting of not less than 67% linters and of not more than 33% clean picker blend or equivalent binder and not more than 5% non-cellulosic total content. The felt shall not be bleached, moistened or chemically treated in any way.
 
 (B) The felt may be re-used repeatedly after completion of each test by removing all of the smoldering, charred, heat-discolored fibers, or fibers exposed to water as a result of extinguishing the cotton ignited by previous test.
 
-(vi) *Urethane foam.* The urethane foam shall have a density of 1.2 to 1.5 pounds per cubic foot, an indention load deflection of 22 to 35 pounds, with each test specimen measuring no less than 12 inches by 12 inches (30.48 cm by 30.48 cm) square, having a thickness of1/4 inch ±1/32 inch (6.3 mm ±.8 mm). The foam shall not be treated with a flame retardant chemical.
+(vi) *Urethane foam.* The urethane foam shall have a density of 1.2 to 1.5 pounds per cubic foot, an indention load deflection of 22 to 35 pounds, with each test specimen measuring no less than 12 inches by 12 inches (30.48 cm by 30.48 cm) square, having a thickness of 1/4 inch ±1/32 inch (6.3 mm ±.8 mm). The foam shall not be treated with a flame retardant chemical.
 
 (2) *Conditioning.* The test specimens, cigarettes, laundered sheets or sheeting material, foam and felt shall be conditioned as described in § 1632.4(c).
 

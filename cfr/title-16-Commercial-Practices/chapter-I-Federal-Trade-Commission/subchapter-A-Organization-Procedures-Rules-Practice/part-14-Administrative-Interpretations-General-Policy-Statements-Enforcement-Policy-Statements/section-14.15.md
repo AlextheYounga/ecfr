@@ -2,7 +2,7 @@
 
 (a) *Introduction.* The Commission's staff has conducted an investigation of industry trade associations and the advertising media regarding their comparative advertising policies. In the course of this investigation, numerous industry codes, statements of policy, interpretations and standards were examined. Many of the industry codes and standards contain language that could be interpreted as discouraging the use of comparative advertising. This Policy Statement enunciates the Commission's position that industry self-regulation should not restrain the use by advertisers of truthful comparative advertising.
 
-(b) *Policy Statement.* The Federal Trade Commission has determined that it would be of benefit to advertisers, advertising agencies, broadcasters, and self-regulation entities to restate its current policy concerning comparative advertising.1 Commission policy in the area of comparative advertising encourages the naming of, or reference to competitiors, but requires clarity, and, if necessary, disclosure to avoid deception of the consumer. Additionally, the use of truthful comparative advertising should not be restrained by broadcasters or self-regulation entities.
+(b) *Policy Statement.* The Federal Trade Commission has determined that it would be of benefit to advertisers, advertising agencies, broadcasters, and self-regulation entities to restate its current policy concerning comparative advertising. 1 Commission policy in the area of comparative advertising encourages the naming of, or reference to competitiors, but requires clarity, and, if necessary, disclosure to avoid deception of the consumer. Additionally, the use of truthful comparative advertising should not be restrained by broadcasters or self-regulation entities.
 
 1 For purposes of this Policy Statement, comparative advertising is defined as advertising that compares alternative brands on objectively measurable attributes or price, and identifies the alternative brand by name, illustration or other distinctive information.
 
@@ -16,4 +16,4 @@ Industry codes which restrain comparative advertising in this manner are subject
 
 (2) *Substantiation.* On occasion, a higher standard of substantiation by advertisers using comparative advertising has been required by self-regulation entities. The Commission evaluates comparative advertising in the same manner as it evaluates all other advertising techniques. The ultimate question is whether or not the advertising has a tendency or capacity to be false or deceptive. This is a factual issue to be determined on a case-by-case basis. However, industry codes and interpretations that impose a higher standard of substantiation for comparative claims than for unilateral claims are inappropriate and should be revised.
 
-(Sec. 5, 38 Stat. 719, as amended; 15 U.S.C. 45)[44 FR 47328, Aug. 13, 1979]
+(Sec. 5, 38 Stat. 719, as amended; 15 U.S.C. 45) [44 FR 47328, Aug. 13, 1979]

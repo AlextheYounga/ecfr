@@ -16,4 +16,4 @@ Section 2.11 of Pub. L. 91-462 specifically repeals paragraph 7 of section 9 of 
 
 (ii) Such individual has refused or is likely to refuse to testify or provide other information on the basis of his privilege against self-incrimination.
 
-(18 U.S.C. 6002, 6004)[37 FR 5017, Mar. 9, 1972. Redesignated at 45 FR 36345, May 29, 1980]
+(18 U.S.C. 6002, 6004) [37 FR 5017, Mar. 9, 1972. Redesignated at 45 FR 36345, May 29, 1980]

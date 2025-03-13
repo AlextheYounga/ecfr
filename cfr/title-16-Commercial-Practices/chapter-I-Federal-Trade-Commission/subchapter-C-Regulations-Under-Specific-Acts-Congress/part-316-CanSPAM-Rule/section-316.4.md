@@ -2,13 +2,13 @@
 
 (a) Any person who initiates, to a protected computer, the transmission of a commercial electronic mail message that includes sexually oriented material must:
 
-(1) Exclude sexually oriented materials from the subject heading for the electronic mail message and include in the subject heading the phrase “SEXUALLY-EXPLICIT: ” in capital letters as the first nineteen (19) characters at the beginning of the subject line;2
+(1) Exclude sexually oriented materials from the subject heading for the electronic mail message and include in the subject heading the phrase “SEXUALLY-EXPLICIT: ” in capital letters as the first nineteen (19) characters at the beginning of the subject line; 2
 
 2 The phrase “SEXUALLY-EXPLICIT” comprises 17 characters, including the dash between the two words. The colon (:) and the space following the phrase are the 18th and 19th characters.
 
 (2) Provide that the content of the message that is initially viewable by the recipient, when the message is opened by any recipient and absent any further actions by the recipient, include only the following information:
 
-(i) The phrase “SEXUALLY-EXPLICIT: ” in a clear and conspicuous manner;3
+(i) The phrase “SEXUALLY-EXPLICIT: ” in a clear and conspicuous manner; 3
 
 3 This phrase consists of nineteen (19) characters and is identical to the phrase required in 316.5(a)(1) of this Rule.
 

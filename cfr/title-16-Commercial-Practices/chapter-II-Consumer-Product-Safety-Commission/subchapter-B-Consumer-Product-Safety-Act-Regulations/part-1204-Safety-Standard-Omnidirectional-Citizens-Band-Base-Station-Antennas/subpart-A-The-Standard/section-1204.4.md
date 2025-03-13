@@ -32,11 +32,11 @@
 
 (4) For the Insulating Material Effectiveness Test:
 
-(i) High voltage electrode or test rod consisting of1/4 in. (6.4 mm) diameter aluminum rod.
+(i) High voltage electrode or test rod consisting of 1/4 in. (6.4 mm) diameter aluminum rod.
 
 (ii) Support jig, structure, or hanger made of insulating material which is capable of holding antenna system test specimens electrically isolated from all surrounding structures or ground.
 
-(5) For the Antenna-Mast System Test, a high voltage test facility, as shown in Figures 2 and 3, which includes a single power line spanning between two poles 95 to 105 feet (29 to 32 meters) apart, a tensioning device to adjust the cable sag to from 9 to 12 inches (23 to 30 cm), and a pivot fixture (Figure 2), for holding the base of an antenna-mast system, which can be moved horizontally to adjust the distance to the cable. The cable consists of1/4 in. diameter 7 by 19 galvanized steel aircraft cable. The low point of the cable shall be between 28 and 29 feet (8.5 to 8.8 meters) above a horizontal plane through the pivot axis of the pivot fixture.
+(5) For the Antenna-Mast System Test, a high voltage test facility, as shown in Figures 2 and 3, which includes a single power line spanning between two poles 95 to 105 feet (29 to 32 meters) apart, a tensioning device to adjust the cable sag to from 9 to 12 inches (23 to 30 cm), and a pivot fixture (Figure 2), for holding the base of an antenna-mast system, which can be moved horizontally to adjust the distance to the cable. The cable consists of 1/4 in. diameter 7 by 19 galvanized steel aircraft cable. The low point of the cable shall be between 28 and 29 feet (8.5 to 8.8 meters) above a horizontal plane through the pivot axis of the pivot fixture.
 
 (d) *Insulating Material Effectiveness Test procedure.* (1) A short piece of typical tubular mast shall be attached to the antenna system to be tested, in accordance with mounting instructions provided with the antenna system by the manufacturer.
 

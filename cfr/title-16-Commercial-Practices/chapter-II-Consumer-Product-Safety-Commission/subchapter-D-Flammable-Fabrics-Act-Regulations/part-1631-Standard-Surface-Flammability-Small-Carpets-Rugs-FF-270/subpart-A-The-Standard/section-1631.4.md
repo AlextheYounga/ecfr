@@ -1,6 +1,6 @@
 ##### § 1631.4 Test procedure. #####
 
-(a) *Apparatus*—(1) *Test chamber.* The test chamber shall consist of an open top hollow cube made of noncombustible material1 with inside dimensions 30.48 × 30.48 × 30.48 cm. (12 × 12 × 12 in.) and a minimum of 6.35 mm. (1/4 in.) wall thickness. The flat bottom of the box shall be made of the same material as the sides and shall be easily removable. The sides shall be fastened together with screws or brackets and taped to prevent air leakage into the box during use.
+(a) *Apparatus*—(1) *Test chamber.* The test chamber shall consist of an open top hollow cube made of noncombustible material 1 with inside dimensions 30.48 × 30.48 × 30.48 cm. (12 × 12 × 12 in.) and a minimum of 6.35 mm. (1/4 in.) wall thickness. The flat bottom of the box shall be made of the same material as the sides and shall be easily removable. The sides shall be fastened together with screws or brackets and taped to prevent air leakage into the box during use.
 
 1 6.35 mm. (1/4 in.) cement asbestos board is a suitable material.
 
@@ -14,7 +14,7 @@ A minimum of two chambers and two extra bottoms is suggested for efficient opera
 
 (4) *Test specimens.* Each test specimen shall be a 22.86 × 22.86 cm. (9 × 9 in.) section of the small carpet or rug to be tested. Eight specimens are required.
 
-(5) *Circulating air oven.* A forced circulation drying oven capable of removing the moisture from the specimens when maintained at 105 °C. (221 °F.) for 2 hours.2
+(5) *Circulating air oven.* A forced circulation drying oven capable of removing the moisture from the specimens when maintained at 105 °C. (221 °F.) for 2 hours. 2
 
 2 Option 1 of ASTM D 2654-67T, “Methods of Test for Amount of Moisture in Textile Materials,” describes a satisfactory oven. (“1969 Book of ASTM Standards,” part 24, published by the American Society for Testing and Materials, 1916 Race Street, Philadelphia, PA 19103.)
 
@@ -36,11 +36,11 @@ A minimum of two chambers and two extra bottoms is suggested for efficient opera
 
 (2) *Cutting.* Cut eight 22.86±0.64 cm. (9±1/4 in.) square specimens of each small carpet or rug to be tested to comply with paragraph (b)(1) of this section.
 
-(c) *Conditioning.* (1) Clean each specimen with the vacuum cleaner until it is free of all loose ends left during the manufacturing process and from any material that may have been worked into the pile during handling.3 Care must be exercised to avoid “fuzzing” of the pile yarn.
+(c) *Conditioning.* (1) Clean each specimen with the vacuum cleaner until it is free of all loose ends left during the manufacturing process and from any material that may have been worked into the pile during handling. 3 Care must be exercised to avoid “fuzzing” of the pile yarn.
 
 3 The vacuum cleaning described is not intended to simulate the effects of repeated vacuum cleaning in service.
 
-(2) Place the specimens in a drying oven in a manner that will permit free circulation of the air at 105 °C. (221 °F.) around them for 2 hours.4 Remove the specimens from the oven with gloved hands and place them horizontally in the desiccator with traffic surface up and free from contact with each other until cooled to room temperature, but in no instance less than 1 hour.
+(2) Place the specimens in a drying oven in a manner that will permit free circulation of the air at 105 °C. (221 °F.) around them for 2 hours. 4 Remove the specimens from the oven with gloved hands and place them horizontally in the desiccator with traffic surface up and free from contact with each other until cooled to room temperature, but in no instance less than 1 hour.
 
 4 If the specimens are moist when received, permit them to air-dry at laboratory conditions prior to placement in the oven. A satisfactory preconditioning procedure may be found in ASTM D 1776-67, “Conditioning Textiles and Textile Products for Testing.” (“1969 Book of ASTM Standards,” part 24, published by the American Society for Testing and Materials, 1916 Race Street, Philadelphia, Pa. 19103.)
 

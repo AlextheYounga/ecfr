@@ -131,7 +131,7 @@ Any ball showing any chipping, cracking, or shattering shall be counted as a fai
 
 (ii) Testing procedure
 
-(A) Position the bottom of the dive stick in the clamping device so that the longest axis of the dive stick is vertical. The bottom end of the dive stick is the end that sinks to the bottom of a pool of water. Secure the bottom of the dive stick in the clamp such that the clamping mechanism covers no more than the bottom1/2 inch [13 mm] of the dive stick.
+(A) Position the bottom of the dive stick in the clamping device so that the longest axis of the dive stick is vertical. The bottom end of the dive stick is the end that sinks to the bottom of a pool of water. Secure the bottom of the dive stick in the clamp such that the clamping mechanism covers no more than the bottom 1/2 inch [13 mm] of the dive stick.
 
 (B) Apply a downward force at a rate of 0.05 in/sec (±0.01 in/sec) [1.3 mm.sec ±0.3 mm/sec] at the top of the dive stick with the compression disk positioned so that the plane of the disk contact surface is perpendicular to the long axis of the dive stick.
 

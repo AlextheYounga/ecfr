@@ -96,7 +96,7 @@
 
 (b) Definitions given in the Consumer Product Safety Act, and not repeated in this section, are applicable to this part.
 
-(c) Test methods and recommended practices published by the American Society for Testing and Materials (ASTM)1, and referred to in this part 1201, are hereby incorporated by reference into this part.
+(c) Test methods and recommended practices published by the American Society for Testing and Materials (ASTM) 1, and referred to in this part 1201, are hereby incorporated by reference into this part.
 
 1 ASTM test methods and recommended practices are approved by, published by, and available for purchase from the American Society for Testing and Materials, 1916 Race Street, Philadelphia, Pennsylvania 19103.
 

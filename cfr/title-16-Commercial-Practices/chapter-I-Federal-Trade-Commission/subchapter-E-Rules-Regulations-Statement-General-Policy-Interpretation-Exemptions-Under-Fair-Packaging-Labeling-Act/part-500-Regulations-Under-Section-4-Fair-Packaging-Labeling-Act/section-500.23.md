@@ -4,6 +4,6 @@
 
 (b) The following symbols for SI metric units and none others may be employed in the required net quantity declaration:
 
-centimeter—cmcubic centimeter—cm3cubic decimeter—dm3meter—mmilligram—mgliter—L or lmilliliter—mL or mlsquare decimeter—dm2cubic meter—m3kilogram—kgmicrometer—µmgram—gmillimeter—mmsquare meter—m2square centimeter—cm2Note:
+centimeter—cmcubic centimeter—cm 3cubic decimeter—dm 3meter—mmilligram—mgliter—L or lmilliliter—mL or mlsquare decimeter—dm 2cubic meter—m 3kilogram—kgmicrometer—µmgram—gmillimeter—mmsquare meter—m2square centimeter—cm2Note:
 
 Symbols, except for liter, are not capitalized. Periods should not be used after the symbol. Symbols are always written in the singular form.

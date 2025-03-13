@@ -70,7 +70,7 @@
 
 (i) 6.2.3.5 The test mattress sheet shall be placed on the mattress such that each sheet edge is wrapped fully around and under the mattress.
 
-(ii) 6.2.3.6 Repeat step 6.2.3.2. Then measure the shortest gap between the mattress and the projected crib corner after the dimensions of the mattress have been recorded. The projected crib corner is located 53 in. ±1/8 in. (1346 mm ± 3.2 mm) from Wall C and 285/8 in. ±1/8 in. (727 mm ± 3.2 mm) from Wall D, as shown in Fig. 2. The mattress shall not be moved during measurement. This shall be the corner gap measurement.
+(ii) 6.2.3.6 Repeat step 6.2.3.2. Then measure the shortest gap between the mattress and the projected crib corner after the dimensions of the mattress have been recorded. The projected crib corner is located 53 in. ± 1/8 in. (1346 mm ± 3.2 mm) from Wall C and 285/8 in. ± 1/8 in. (727 mm ± 3.2 mm) from Wall D, as shown in Fig. 2. The mattress shall not be moved during measurement. This shall be the corner gap measurement.
 
 (iii) 6.2.3.7 Rotate the mattress 180° such that the opposing corner is adjacent to Walls C and D, then repeat 6.2.3.6.
 
@@ -140,7 +140,7 @@
 
 (vii) 6.4.2.4 An enclosed frame measuring 29 inches by 53 inches (737 mm by 1346 mm) for the purpose of restricting mattress movement. When testing full-size mattresses, a full-size crib meeting the requirements of ASTM F1169-19 would suffice.
 
-(viii) 6.4.2.5 A3/4″ piece of plywood or oriented strand board (OSB) that is rigidly supported along the perimeter.
+(viii) 6.4.2.5 A 3/4″ piece of plywood or oriented strand board (OSB) that is rigidly supported along the perimeter.
 
 (ix) 6.4.3 *Test Method:*
 

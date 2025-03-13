@@ -12,7 +12,7 @@
 
 (2) *Cling label.* Labels may be affixed, using the screen's static charge, to the product in the form of a cling label. The cling label shall be affixed in a manner that prevents dislodgment during normal handling throughout the chain of distribution to the retailer and consumer.
 
-(3) *Alternative label.* In lieu of an adhesive or cling label, labels may be affixed using an alternative method to secure the label to the product as long as the method will prevent dislodgment during normal handling throughout the chain of distribution to the retailer and consumer. The label may not be affixed using a hang tag as described in § 305.13(e)(2). The label shall consist of paper stock having a basic weight of not less than 110 pounds per 500 sheets (251/2″ × 301/2″) or other material of equivalent durability.
+(3) *Alternative label.* In lieu of an adhesive or cling label, labels may be affixed using an alternative method to secure the label to the product as long as the method will prevent dislodgment during normal handling throughout the chain of distribution to the retailer and consumer. The label may not be affixed using a hang tag as described in § 305.13(e)(2). The label shall consist of paper stock having a basic weight of not less than 110 pounds per 500 sheets (25 1/2″ × 30 1/2″) or other material of equivalent durability.
 
 (e) *Placement*—(1) *In general.* Except as provided in paragraph (i), all labels must be clear and conspicuous to consumers viewing the television screen from the front.
 

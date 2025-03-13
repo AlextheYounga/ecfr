@@ -8,7 +8,7 @@
 
 Examples:
 
-(i) “2 sponges 41/2 ins. × 4 ins. ×3/4 in. (11.4 cm × 10.1 cm × 1.9 cm); 1 sponge 41/2 ins. × 8 ins. ×3/4 in. (11.4 cm × 20.3 cm × 1.9 cm); 4 sponges 21/2 ins. × 4 ins. ×1/2 in. (6.3 cm × 10.1 cm × 1.2 cm)
+(i) “2 sponges 41/2 ins. × 4 ins. × 3/4 in. (11.4 cm × 10.1 cm × 1.9 cm); 1 sponge 41/2 ins. × 8 ins. × 3/4 in. (11.4 cm × 20.3 cm × 1.9 cm); 4 sponges 21/2 ins. × 4 ins. × 1/2 in. (6.3 cm × 10.1 cm × 1.2 cm)
 
 Total: 7 sponges”.
 

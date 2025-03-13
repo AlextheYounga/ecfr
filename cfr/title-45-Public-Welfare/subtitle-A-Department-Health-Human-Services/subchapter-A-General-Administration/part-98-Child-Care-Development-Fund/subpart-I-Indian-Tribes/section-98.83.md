@@ -88,6 +88,6 @@
 
 (j)(1) CCDF funds are available for costs incurred by the Tribal Lead Agency only after the funds are made available by Congress for Federal obligation unless costs are incurred for planning activities related to the submission of an initial CCDF Plan.
 
-(2) Federal obligation of funds for planning costs, pursuant to paragraph (i)(1) of this section is subject to the actual availability of the appropriation.
+(2) Federal obligation of funds for planning costs, pursuant to paragraph (j)(1) of this section, is subject to the actual availability of the appropriation.
 
-[81 FR 67593, Sept. 30, 2016, as amended at 82 FR 3186, Jan. 11, 2017; 89 FR 15416, Mar. 1, 2024; 89 FR 52397, June 24, 2024]
+[81 FR 67593, Sept. 30, 2016, as amended at 82 FR 3186, Jan. 11, 2017; 89 FR 15416, Mar. 1, 2024; 89 FR 52397, June 24, 2024; 89 FR 85071, Oct. 25, 2024]

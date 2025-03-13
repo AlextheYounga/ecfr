@@ -1,5 +1,7 @@
 ##### § 37.3 Definitions. #####
 
+Link to an amendment published at 89 FR 85375, Oct. 25, 2024.
+
 For purposes of this part:
 
 *Birth certificate* means the record related to a birth that is permanently stored either electronically or physically at the State Office of Vital Statistics or equivalent agency in a registrant's State of birth.

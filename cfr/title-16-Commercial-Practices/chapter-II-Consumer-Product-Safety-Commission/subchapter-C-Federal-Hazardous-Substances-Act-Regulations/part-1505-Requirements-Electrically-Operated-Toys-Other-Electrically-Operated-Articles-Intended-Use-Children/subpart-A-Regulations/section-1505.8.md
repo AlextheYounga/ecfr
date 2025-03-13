@@ -1,6 +1,6 @@
 ##### § 1505.8 Maximum acceptable material temperatures. #####
 
-The maximum acceptable material temperatures for electrically operated toys shall be as follows (Classes 105, 130, A, and B are from “Motors and Generators,” Standard MG-1-19671 published by the National Electrical Manufacturers Association):
+The maximum acceptable material temperatures for electrically operated toys shall be as follows (Classes 105, 130, A, and B are from “Motors and Generators,” Standard MG-1-1967 1 published by the National Electrical Manufacturers Association):
 
 1 Copies may be obtained from: National Electrical Manufacturers Association, 155 East 44th Street, New York, NY 10017.
 

@@ -12,13 +12,13 @@
 
 (2) *Procedure.* The loading test, § 1512.18(d)(2)(i), and the rocking test, § 1512.18(d)(2)(iii), shall be performed before the performance test, § 1512.18(d)(2)(v), is performed and no adjustments shall be made between these tests.
 
-(i) *Loading test procedure.* The hand levers shall be actuated with a force applied at a point no more than 25 mm (1.0 in) from the open end of the lever. If the hand lever contacts the handlebar (bottoms) before a force of 445 N (100 lbf) is reached, the loading may be stopped at that point, otherwise the loading shall be increased to at least 445 N (100 lbf).4 Application of the loading force shall be repeated for a total of 10 times and all brake components shall be inspected.
+(i) *Loading test procedure.* The hand levers shall be actuated with a force applied at a point no more than 25 mm (1.0 in) from the open end of the lever. If the hand lever contacts the handlebar (bottoms) before a force of 445 N (100 lbf) is reached, the loading may be stopped at that point, otherwise the loading shall be increased to at least 445 N (100 lbf). 4 Application of the loading force shall be repeated for a total of 10 times and all brake components shall be inspected.
 
 4 For hand lever extensions, the loading shall be continued until a force of 445 N (100 lbf) is reached or the hand lever extension is in the same plane as the upper surface of the handlebars or the extension lever contacts the handlebars.
 
 (ii) *Loading test criteria.* There shall be no visible fractures, failures, misalignments, and clearances not in compliance with applicable parts of § 1512.5.
 
-(iii) *Rocking test procedure.* A weight of at least 68.1 kg (150 lb) shall be placed on the seat; the force required for the hand levers to contact the handlebars or 445 N (100 lbf), as determined in § 1512.18(d)(2), shall be applied to the hand levers;4 and the bicycle shall be rocked forward and backward over a dry, clean, level, paved surface at least six times and for a distance of at least 76 mm (3 in) in each direction.
+(iii) *Rocking test procedure.* A weight of at least 68.1 kg (150 lb) shall be placed on the seat; the force required for the hand levers to contact the handlebars or 445 N (100 lbf), as determined in § 1512.18(d)(2), shall be applied to the hand levers; 4 and the bicycle shall be rocked forward and backward over a dry, clean, level, paved surface at least six times and for a distance of at least 76 mm (3 in) in each direction.
 
 (iv) *Rocking test criteria.* There shall be no loosening of the brake pads, pad holders, or cable and hand-lever securing devices or any other functional brake component.
 
@@ -46,7 +46,7 @@
 
 (J) A test run is invalid if front-wheel lockup occurs.
 
-(vi) *Performance test criteria.* The stopping force applied to the hand lever at a point no closer than 25 mm (1.0 in) from the open end shall not exceed 178 N (40 lbf). Bicycles with an equivalent ground speed in excess of 24 km/h (15 mph) (in its highest gear ratio at a pedal crank rate of 60 revolutions per minute)3 shall stop from an actual test speed of 24 km/h (15 mph) or greater within a distance of 4.57 m (15 ft); when the equivalent ground speed is less than 24 km/h (15 mph) under the same conditions, the bicycle shall stop from an actual test speed of 16 km/h (10 mph) or greater within a distance of 4.57 m (15 ft).
+(vi) *Performance test criteria.* The stopping force applied to the hand lever at a point no closer than 25 mm (1.0 in) from the open end shall not exceed 178 N (40 lbf). Bicycles with an equivalent ground speed in excess of 24 km/h (15 mph) (in its highest gear ratio at a pedal crank rate of 60 revolutions per minute) 3 shall stop from an actual test speed of 24 km/h (15 mph) or greater within a distance of 4.57 m (15 ft); when the equivalent ground speed is less than 24 km/h (15 mph) under the same conditions, the bicycle shall stop from an actual test speed of 16 km/h (10 mph) or greater within a distance of 4.57 m (15 ft).
 
 3 See footnote 3 to § 1512.5.
 
@@ -56,7 +56,7 @@
 
 (2) *Force test.* The braking force shall be measured as the wheel is rotated in a direction of forward motion, and the braking force is measured in a direction tangential to the tire during a steady pull after the wheel completes one-half revolution but before the wheel completes one revolution. The brake shall be capable of producing a linearly proportional brake force for a gradually applied pedal force from 89 N to 310 N (20 to 70 lbf) and shall not be less than 178 N (40 lbf) for an applied pedal force of 310 N (70 lbf). All data points must fall within plus or minus 20 percent of the brake force, based on the measured brake load using the least square method of obtaining the best straight line curve.
 
-(3) *Performance test.* The procedure of § 1512.18(d)(2)(v) shall be followed to test the footbrake performance. The stopping distance shall be less than 4.57 m (15 ft) from an actual test speed of 16 km/h (10 mph). In addition, if the equivalent ground speed of the bicycle is in excess of 24 km/h (15 mph) (in its highest gear ratio at a pedal crank rate of 60 revolutions per minute),3 the stopping distance shall be 4.57 m (15 ft) from an actual test speed of 24 km/h (15 mph) or greater.
+(3) *Performance test.* The procedure of § 1512.18(d)(2)(v) shall be followed to test the footbrake performance. The stopping distance shall be less than 4.57 m (15 ft) from an actual test speed of 16 km/h (10 mph). In addition, if the equivalent ground speed of the bicycle is in excess of 24 km/h (15 mph) (in its highest gear ratio at a pedal crank rate of 60 revolutions per minute), 3 the stopping distance shall be 4.57 m (15 ft) from an actual test speed of 24 km/h (15 mph) or greater.
 
 Note:
 
@@ -134,7 +134,7 @@ No allowance shall be made for rider weight. See § 1512.5(d) for additional req
 
 (iii) Photometric measurements shall be made either visually or photoelectrically. With either method, the light reflected to the observation point shall be determined. Also, the illumination on the reflector from the source shall be measured.
 
-(iv) For visual measurements a comparison lamp, emitting light similar in spectral quality to the reflector, shall be located adjacent to the reflector (at an angle not to exceed1/2°) and arranged so that the candlepower can be varied from 0.01 to 0.25 to make the intensity duplicate that of the reflector under test. The candlepower of the source of the illumination of the reflector under test shall be known or determined for this test. Means shall be provided to change the intensity of the source of illumination without changing the filament color temperature. The comparison lamp shall be designed to avoid reflection from the source of illumination back in the direction of the observer. It shall be of such size and so diffused that when viewed by the observer (through a 21/2 × reducing monocular), the candlepower can be readily compared and adjusted to that of the reflector. The observer shall have at least 10 minutes of dark adaption before making observations. For photoelectric measurements, the opening to the photocell shall not be more than1/2 inch vertical by 1 inch horizontal.
+(iv) For visual measurements a comparison lamp, emitting light similar in spectral quality to the reflector, shall be located adjacent to the reflector (at an angle not to exceed 1/2°) and arranged so that the candlepower can be varied from 0.01 to 0.25 to make the intensity duplicate that of the reflector under test. The candlepower of the source of the illumination of the reflector under test shall be known or determined for this test. Means shall be provided to change the intensity of the source of illumination without changing the filament color temperature. The comparison lamp shall be designed to avoid reflection from the source of illumination back in the direction of the observer. It shall be of such size and so diffused that when viewed by the observer (through a 21/2 × reducing monocular), the candlepower can be readily compared and adjusted to that of the reflector. The observer shall have at least 10 minutes of dark adaption before making observations. For photoelectric measurements, the opening to the photocell shall not be more than 1/2 inch vertical by 1 inch horizontal.
 
 (v) Reflectors that mount on the bicycle in a fixed rotational position with respect to the bicycle, or the bicycle component on which they are mounted (such as pedals or spokes), shall be tested with a single orientation. Reflectors that do not mount on the bicycle in a fixed rotational position with respect to the bicycle shall be rotated about their axis through 360° to find the minimum candlepower per footcandle for each test point. If the measurement falls below the minimum requirement at any test point, the reflector shall be rotated ±5° about its axis from the angle where the minimum occurs, and the maximum candlepower per footcandle within this angle shall be the measured value.
 
@@ -160,7 +160,7 @@ A = 4Cos2θ/[1 + (Φ/0.225)3/2]where A is ratio in meters, θ is the entrance an
 
 (p) *Road test.* (Ref. §§ 1512.15(c) and 1512.17(a)):
 
-(1) *Procedure.* The bicycle shall be ridden at least 6.4 km (4.0 mi.) by a rider weighing at least 68.1 kg (150 lb.) with the tires inflated to maximum recommended pressure. Travel shall include riding the bicycle five times over a 30 m (100 ft.) course of wooden cleats fastened to a paved surface. The cleats shall be a full 25 mm (1.0 in.) high by 51 mm (2.0 in.) wide lumber with a 12 mm by 12 mm (1/2 in. by1/2 in.) chamfer of 45° on the corners contacting the tires. The cleats shall be spaced every 1.8 m (6.0 ft.) over the 30 m (100 ft.) course. The bicycle shall be ridden over the cleated course at a speed of at least 24 km/hr (15 mph) with the rider firmly seated.
+(1) *Procedure.* The bicycle shall be ridden at least 6.4 km (4.0 mi.) by a rider weighing at least 68.1 kg (150 lb.) with the tires inflated to maximum recommended pressure. Travel shall include riding the bicycle five times over a 30 m (100 ft.) course of wooden cleats fastened to a paved surface. The cleats shall be a full 25 mm (1.0 in.) high by 51 mm (2.0 in.) wide lumber with a 12 mm by 12 mm (1/2 in. by 1/2 in.) chamfer of 45° on the corners contacting the tires. The cleats shall be spaced every 1.8 m (6.0 ft.) over the 30 m (100 ft.) course. The bicycle shall be ridden over the cleated course at a speed of at least 24 km/hr (15 mph) with the rider firmly seated.
 
 (2) *Criteria.* The bicycle shall exhibit stable handling, turning, and steering characteristics without difficulty of operation. There shall be no system or component failure of the structure, brakes, or tires and there shall be no loosening or misalignment of the seat, handlebars, controls, or reflectors.
 
@@ -186,7 +186,7 @@ A = 4Cos2θ/[1 + (Φ/0.225)3/2]where A is ratio in meters, θ is the entrance an
 
 (iv) The bicycle wheel shall make 1000 complete revolutions per test.
 
-(v) The abrader shall be a cup brush having bristles that are 0.005 in. (approx. 0.13mm) diameter low carbon steel wire; an outside diameter of 0.5 inch (aprox. .13mm); a wire bristle length of 0.25 inch (approx. 6.4mm); and a cup diameter of 0.405 inch (approx. 10.29mm).6
+(v) The abrader shall be a cup brush having bristles that are 0.005 in. (approx. 0.13mm) diameter low carbon steel wire; an outside diameter of 0.5 inch (aprox. .13mm); a wire bristle length of 0.25 inch (approx. 6.4mm); and a cup diameter of 0.405 inch (approx. 10.29mm). 6
 
 6 For compliance testing the Commission will use a brush meeting this description distributed by Dremel Manufacturing Company, Racine, Wisconsin as Dremel Part No. 442. This brush is manufactured by Weiler Brush Company as No. 26074, MC-10 Wire.
 
@@ -198,7 +198,7 @@ A = 4Cos2θ/[1 + (Φ/0.225)3/2]where A is ratio in meters, θ is the entrance an
 
 (iii) Clamp the wheel by its axle in the test fixture and align the axis of rotation so that the portion of the reflective material below the axis of the abrading brush is horizontal.
 
-(iv) Shape the cup brush by hand to the specified 0.5 (approx. 13mm) diameter. Any stray wire bristles projecting more than1/32 in. (approx. 1 mm) beyond the tip of the bulk of the bristles should be clipped off. Adjust the position of the brush so that its axis is centered over the mid-point in the width of the retroreflective material.
+(iv) Shape the cup brush by hand to the specified 0.5 (approx. 13mm) diameter. Any stray wire bristles projecting more than 1/32 in. (approx. 1 mm) beyond the tip of the bulk of the bristles should be clipped off. Adjust the position of the brush so that its axis is centered over the mid-point in the width of the retroreflective material.
 
 (v) Adjust the rotational velocity of the bicycle wheel to obtain a linear velocity of 0.23 m/sec (9 in./sec) measured at the mid-point in the width of the retroreflective material. Adjust the force to obtain a force normal to the surface under the brush of 2 N (0.45 lbf).
 

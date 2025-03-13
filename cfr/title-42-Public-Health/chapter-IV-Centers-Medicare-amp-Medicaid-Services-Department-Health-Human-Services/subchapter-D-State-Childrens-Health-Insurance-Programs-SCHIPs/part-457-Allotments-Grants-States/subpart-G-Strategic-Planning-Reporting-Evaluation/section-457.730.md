@@ -82,13 +82,15 @@
 
 (2) The total number of unique beneficiaries whose data are transferred more than once via the Patient Access API to a health app designated by the beneficiary.
 
-(g) *Data availability.* (1) The State must comply with the requirements in paragraphs (a) through (f) of this section beginning January 1, 2021 with regard to data:
+(g) *Beneficiary resources regarding privacy and security.* A State must provide in an easily accessible location on its public website and through other appropriate mechanisms through which it ordinarily communicates with current and former beneficiaries seeking to access their health information held by the State CHIP agency, educational resources in non-technical, simple and easy-to-understand language explaining at a minimum—
 
-(i) With a date of service on or after January 1, 2016; and
+(1) General information on steps the individual may consider taking to help protect the privacy and security of their health information, including factors to consider in selecting an application including secondary uses of data, and the importance of understanding the security and privacy practices of any application to which they will entrust their health information; and
 
-(ii) That are maintained by the State.
+(2) An overview of which types of organizations or individuals are and are not likely to be HIPAA covered entities, the oversight responsibilities of OCR and FTC, and how to submit a complaint to—
 
-(2) [Reserved]
+(i) The HHS Office for Civil Rights (OCR); and
+
+(ii) The Federal Trade Commission (FTC).
 
 (h) *Applicability.* A State must comply with the requirements in paragraphs (a) through (e) and (g) of this section beginning January 1, 2021, and with the requirements in paragraph (f) of this section beginning in 2026, with regard to data:
 
@@ -96,4 +98,4 @@
 
 (2) That are maintained by the State.
 
-[85 FR 25636, May 1, 2020, as amended at 89 FR 8982, Feb. 8, 2024]
+[85 FR 25636, May 1, 2020, as amended at 89 FR 8982, Feb. 8, 2024; 89 FR 85071, Oct. 25, 2024]

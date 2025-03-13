@@ -24,4 +24,4 @@
 
 (i) *Similar terms.* Offers of “Free” merchandise or services which may be deceptive for failure to meet the provisions of this section may not be corrected by the substitution of such similar words and terms as “gift”, “given without charge”, “bonus”, or other words or terms which tend to convey the impression to the consuming public that an article of merchandise or service is “Free”.
 
-(38 Stat. 717, as amended; 15 U.S.C. 41-58)[36 FR 21517, Nov. 10, 1971]
+(38 Stat. 717, as amended; 15 U.S.C. 41-58) [36 FR 21517, Nov. 10, 1971]

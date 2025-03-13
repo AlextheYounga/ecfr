@@ -16,7 +16,7 @@ Apparatus
 
 ![](/graphics/ec03oc91.051.gif)
 
-(a) *Copper bath,* preferably equipped with a constant level overflow so placed as to maintain the bath liquid level1/8-inch below the rim of the glass cup.
+(a) *Copper bath,* preferably equipped with a constant level overflow so placed as to maintain the bath liquid level 1/8-inch below the rim of the glass cup.
 
 (b) *Thermometer holder.* Support firmly with ringstand and clamp.
 
@@ -26,7 +26,7 @@ Apparatus
 
 ![](/graphics/ec03oc91.052.gif)
 
-(e) *Leveling device.* Leveling device or guide, for proper adjustment of the liquid level in the cup (Fig. 3). This shall be made of No. 18-gage polished aluminum, with a projection for adjusting the liquid level when the sample is added to exactly1/8-inch below the level of the edge or rim of the cup.
+(e) *Leveling device.* Leveling device or guide, for proper adjustment of the liquid level in the cup (Fig. 3). This shall be made of No. 18-gage polished aluminum, with a projection for adjusting the liquid level when the sample is added to exactly 1/8-inch below the level of the edge or rim of the cup.
 
 ![](/graphics/ec03oc91.053.gif)
 
@@ -36,7 +36,7 @@ Apparatus
 
 (h) Alternative methods for maintaining the ignition taper in a fixed horizontal plane above the liquid may be used, as follows:
 
-(1) Guide wire,3/32-inch in diameter and 31/2 inches in length, with a right-angle bend1/2-inch from each end. This wire is placed snugly in holes drilled in the rim of the bath, so that the guide wire is5/8-inch from the center of the cup and resting on the rim of the cup.
+(1) Guide wire, 3/32-inch in diameter and 31/2 inches in length, with a right-angle bend 1/2-inch from each end. This wire is placed snugly in holes drilled in the rim of the bath, so that the guide wire is 5/8-inch from the center of the cup and resting on the rim of the cup.
 
 (2) Swivel-type taper holder, such as is used in ASTM METHOD D 92. The height and position of the taper are fixed by adjusting the holder on a suitable ringstand support adjacent to the flash cup.
 
@@ -46,17 +46,17 @@ Procedure
 
 4. (a) Place the tester on a solid table free of vibration, in a location free of perceptible draft, and in a dim light.
 
-(b) Run water, brine, or water-glycol solution into the bath to a predetermined level, which will fill the bath to1/8-inch below the top when the cup is in place. An overflow is permissible for water-level control.
+(b) Run water, brine, or water-glycol solution into the bath to a predetermined level, which will fill the bath to 1/8-inch below the top when the cup is in place. An overflow is permissible for water-level control.
 
-(c) Firmly support the thermometer vertically halfway between the center and edge of the cup on a diameter at right angles to the guide wire, or on a diameter passing through the center of the cup and the pivot of the taper. Place so that the bottom of the bulb is1/4-inch from the inner bottom surface of the cup. If the old Tagliabue thermometer is used, immerse to well cover the mercury bulb, but not the wide body of the thermometer.
+(c) Firmly support the thermometer vertically halfway between the center and edge of the cup on a diameter at right angles to the guide wire, or on a diameter passing through the center of the cup and the pivot of the taper. Place so that the bottom of the bulb is 1/4-inch from the inner bottom surface of the cup. If the old Tagliabue thermometer is used, immerse to well cover the mercury bulb, but not the wide body of the thermometer.
 
-(d) Fill the glass cup with the sample liquid to a depth just1/8-inch below the edge, as determined by the leveling device.
+(d) Fill the glass cup with the sample liquid to a depth just 1/8-inch below the edge, as determined by the leveling device.
 
 (e) Place the guide wire or swivel device in position, and set the draft shield around the tester so that the sides from right angles with each other and the tester is well toward the back of the shield.
 
-(f) If a guide wire is used, the taper, when passed, should rest lightly on the wire, with the end of the jet burner just clear of the edge of the guide wire. If the swivel-type holder is used, the horizontal and vertical positions to the jet are so adjusted that the jet passes on the circumference of a circle, having a radius of at least 6 inches, across the center of the cup at right angles to the diameter passing through the thermometer, and in a plane1/8-inch above the upper edge of the cup. The taper should be kept in the “off” position, at one end or the other of the swing, except when the flame is applied.
+(f) If a guide wire is used, the taper, when passed, should rest lightly on the wire, with the end of the jet burner just clear of the edge of the guide wire. If the swivel-type holder is used, the horizontal and vertical positions to the jet are so adjusted that the jet passes on the circumference of a circle, having a radius of at least 6 inches, across the center of the cup at right angles to the diameter passing through the thermometer, and in a plane 1/8-inch above the upper edge of the cup. The taper should be kept in the “off” position, at one end or the other of the swing, except when the flame is applied.
 
-(g) Light the ignition flame and adjust it to form a flame of spherical form matching in size the5/52-inch sphere on the apparatus.
+(g) Light the ignition flame and adjust it to form a flame of spherical form matching in size the 5/52-inch sphere on the apparatus.
 
 (h) Adjust heater source under bath so that the temperature of the sample increases at a rate of 2±0.5 °F. per minute. With viscous materials this rate of heating cannot always be obtained.
 

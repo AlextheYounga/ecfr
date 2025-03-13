@@ -12,7 +12,7 @@
 
 (ii) Intended for use in or around the home, for travel, in a child care facility, in a family child care home, in a place of public accommodation affecting commerce and other purposes;
 
-(iii) Has an interior length dimension either greater than 139.7 cm (55 in.) or smaller than 126.3 cm (493/4 in.), or, an interior width dimension either greater than 77.7 cm (305/8 in.) or smaller than 64.3 cm (253/8 in.), or both;
+(iii) Has an interior length dimension either greater than 139.7 cm (55 in.) or smaller than 126.3 cm (49 3/4 in.), or, an interior width dimension either greater than 77.7 cm (305/8 in.) or smaller than 64.3 cm (253/8 in.), or both;
 
 (iv) Includes, but is not limited to, the following:
 

@@ -2,7 +2,7 @@
 
 (a) It is unfair or deceptive to use the words “platinum,” “iridium,” “palladium,” “ruthenium,” “rhodium,” and “osmium,” or any abbreviation to mark or describe all or part of an industry product if such marking or description misrepresents the product's true composition. The Platinum Group Metals (PGM) are Platinum, Iridium, Palladium, Ruthenium, Rhodium, and Osmium.
 
-(b) The following are examples of markings or descriptions that may be misleading:36
+(b) The following are examples of markings or descriptions that may be misleading: 36
 
 36 See paragraph (c) of this section for examples of acceptable markings and descriptions.
 

@@ -6,7 +6,7 @@
 
 (b) *Lamps.* (1) A replaceable incandescent lamp having a voltage of more than 30 volts r.m.s. (42.4 volts peak) between any of its electrodes or lampholder contacts and any other part or ground shall be in an enclosure that has at least one door or cover permitting access to the lamp. Such door(s) or cover(s) of the enclosure shall be so designed and constructed that they cannot be opened manually or with a flat bladed screwdriver or pliers.
 
-(2) With all access doors and covers closed, the lamp enclosure shall have no opening that will permit entry of a straight rod 6 inches long and one-fourth inch in diameter if such entry would present an electrical hazard. The lamp shall be located no less than one-half inch from any1/4-inch-diameter opening in the enclosure.
+(2) With all access doors and covers closed, the lamp enclosure shall have no opening that will permit entry of a straight rod 6 inches long and one-fourth inch in diameter if such entry would present an electrical hazard. The lamp shall be located no less than one-half inch from any 1/4-inch-diameter opening in the enclosure.
 
 (3) A toy having one or more lampholders shall be designed and constructed so that no live parts other than the contacts of the lampholders are exposed to contact by persons removing or replacing lamps. The shells of all lampholders for incandescent lamps shall be at the same potential.
 
@@ -24,13 +24,13 @@
 
 (4) The body of the attachment-plug cap shall decrease in cross section from the face but shall have an expansion of the body, after a suitable distance from the face, sufficient to provide an effective finger grip.
 
-(5) A flexible electrical power cord provided on a toy shall be type SP-2 (as defined in the “National Electrical Code,” Chapter 4, article 400, pages 230-241 (1978)1, or its equivalent, or a heavier general-use type, and shall be not less than 5 feet nor more than 10 feet in length when measured as the overall length of the attached cord outside the enclosure of the toy, including fittings, up to the face of the attachment-plug cap. However, hand-held educational or hobby-type products intended for heating such as woodburning tools, shall use one of the type cords designated below, in accordance with the weight of the product without the cord:
+(5) A flexible electrical power cord provided on a toy shall be type SP-2 (as defined in the “National Electrical Code,” Chapter 4, article 400, pages 230-241 (1978) 1, or its equivalent, or a heavier general-use type, and shall be not less than 5 feet nor more than 10 feet in length when measured as the overall length of the attached cord outside the enclosure of the toy, including fittings, up to the face of the attachment-plug cap. However, hand-held educational or hobby-type products intended for heating such as woodburning tools, shall use one of the type cords designated below, in accordance with the weight of the product without the cord:
 
 1 NFPA No. 70-1978, 1978 edition of National Electrical Code, Article 400, “Flexible Cords and Cables,” pages 70-230 through 70-240, published by the National Fire Protection Association, which is incorporated by reference. Copies of this document are available from the National Fire Protection Administration, 60 Batterymarch Park, Quincy, Massachusetts 02269. This document is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* This incorporation by reference was approved by the Director of the Federal Register. These materials are incorporated as they exist in the edition which has been approved by the Director of the Federal Register and which has been filed with the Office of the Federal Register.
 
 Weight of appliance (without cord) and cord type
 
-1/2 lb. (0.227 kg) and lighter: SP-1, SPT-1, HPD. Heavier than1/2 lb. (0.227 kg): SP-2, SPT-2, SV, SVO, SVT, SVTO, HPD, HPN, SJ, SJO, SJT, SJTO.
+1/2 lb. (0.227 kg) and lighter: SP-1, SPT-1, HPD. Heavier than 1/2 lb. (0.227 kg): SP-2, SPT-2, SV, SVO, SVT, SVTO, HPD, HPN, SJ, SJO, SJT, SJTO.
 
 (6) A flexible cord and plug shall have a current-carrying capacity of not less than the ampere rating of the toy, and the conductor of the cord shall have a cross sectional area no less than No. 18 AWG (American wire gauge).
 
@@ -56,7 +56,7 @@ Weight of appliance (without cord) and cord type
 
 (h) *Strain relief.* (1) A means of strain relief shall be provided to prevent mechanical stress on a flexible cord from being transmitted to terminals, splices, or interior wiring.
 
-(2) If suitable auxiliary insulation is provided under a clamp for mechanical protection, clamps of any material are acceptable for use on Type SP-2 (as defined in the “National Electrical Code,” chapter 4, article 400, pages 184-194 (1971)2) or equivalent rubber-insulated cord. For heavier types of thermoplastic-insulated cord, clamps may be without auxiliary insulation unless the clamp may damage the cord insulation.
+(2) If suitable auxiliary insulation is provided under a clamp for mechanical protection, clamps of any material are acceptable for use on Type SP-2 (as defined in the “National Electrical Code,” chapter 4, article 400, pages 184-194 (1971) 2) or equivalent rubber-insulated cord. For heavier types of thermoplastic-insulated cord, clamps may be without auxiliary insulation unless the clamp may damage the cord insulation.
 
 2 NFPA No. 70-1971, 1971 edition of National Electrical Code, Article 400, “Flexible Cords and Cables,” pages 70-184 through 70-194, published by the National Fire Protection Association, which is incorporated by reference. Copies of this document are available from the National Fire Protection Association, 60 Batterymarch Park, Quincy, Massachusetts 02269. This document is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* This incorporation by reference was approved by the Director of the Federal Register. These materials are incorporated as they exist in the edition which has been approved by the Director of the Federal Register and which has been filed with the Office of the Federal Register.
 

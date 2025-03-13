@@ -2,7 +2,7 @@
 
 (a) *Electronic submission.* All submissions from the Authority to the Commission pursuant to the provisions of subpart S or U of this part, and all submissions to the Commission pursuant to 15 U.S.C. 3053(a) (proposed rules or rule modifications), 15 U.S.C. 3052(f)(1)(C)(iv) (proposed rate increases), or 15 U.S.C. 3054(g)(2) (guidance) must be emailed to the Secretary of the Commission at *electronicfilings@ftc.gov.* The subject line of the email must begin with “HISA Submission:” followed by a brief description of the submission.
 
-(b) *Format for submissions*—(1)*Electronic format.* All documents submitted to the Secretary under this section must be submitted in .pdf format or in some other electronic format specified by the Office of the Secretary. The proposed text of Federal Register publications must also be submitted in a Microsoft Word or .rtf format.
+(b) *Format for submissions*—(1) *Electronic format.* All documents submitted to the Secretary under this section must be submitted in .pdf format or in some other electronic format specified by the Office of the Secretary. The proposed text of Federal Register publications must also be submitted in a Microsoft Word or .rtf format.
 
 (2) *Table of contents.* Submissions with more than one attachment must contain a table of contents in the body of the email with a brief description of each item.
 

@@ -74,7 +74,7 @@
 
 (B) That person's telephone number is on the “do-not-call” registry, maintained by the Commission, of persons who do not wish to receive outbound telephone calls to induce the purchase of goods or services unless the seller or telemarketer:
 
-(*1*) Can demonstrate that the seller has obtained the express agreement, in writing, of such person to place calls to that person. Such written agreement shall clearly evidence such person's authorization that calls made by or on behalf of a specific party may be placed to that person, and shall include the telephone number to which the calls may be placed and the signature1 of that person; or
+(*1*) Can demonstrate that the seller has obtained the express agreement, in writing, of such person to place calls to that person. Such written agreement shall clearly evidence such person's authorization that calls made by or on behalf of a specific party may be placed to that person, and shall include the telephone number to which the calls may be placed and the signature 1 of that person; or
 
 1 For purposes of this part, the term “signature” shall include an electronic or digital form of signature, to the extent that such form of signature is recognized as a valid signature under applicable federal law or state contract law.
 
@@ -122,8 +122,7 @@
 
 (C) Any call that complies with all applicable requirements of this paragraph (v) shall not be deemed to violate § 310.4(b)(1)(iv) of this part.
 
-(D) This paragraph (v) shall not apply to any outbound telephone call that delivers a prerecorded healthcare message made by, or on behalf of, a covered entity or its business associate, as those terms are defined in the HIPAA Privacy Rule, 45 CFR 160.103.
-P\>(2) It is an abusive telemarketing act or practice and a violation of this part for any person to sell, rent, lease, purchase, or use any list established to comply with § 310.4(b)(1)(iii)(A) or § 310.5, or maintained by the Commission pursuant to § 310.4(b)(1)(iii)(B), for any purpose except compliance with the provisions of this part or otherwise to prevent telephone calls to telephone numbers on such lists.
+(D) This paragraph (v) shall not apply to any outbound telephone call that delivers a prerecorded healthcare message made by, or on behalf of, a covered entity or its business associate, as those terms are defined in the HIPAA Privacy Rule, 45 CFR 160.103. P\>(2) It is an abusive telemarketing act or practice and a violation of this part for any person to sell, rent, lease, purchase, or use any list established to comply with § 310.4(b)(1)(iii)(A) or § 310.5, or maintained by the Commission pursuant to § 310.4(b)(1)(iii)(B), for any purpose except compliance with the provisions of this part or otherwise to prevent telephone calls to telephone numbers on such lists.
 
 (3) A seller or telemarketer will not be liable for violating § 310.4(b)(1)(ii) and (iii) if it can demonstrate that, as part of the seller's or telemarketer's routine business practice:
 

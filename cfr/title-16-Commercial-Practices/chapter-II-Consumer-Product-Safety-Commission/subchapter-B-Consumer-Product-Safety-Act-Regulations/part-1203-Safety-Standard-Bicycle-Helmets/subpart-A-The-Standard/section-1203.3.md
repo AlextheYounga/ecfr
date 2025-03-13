@@ -1,6 +1,6 @@
 ##### § 1203.3 Referenced documents. #####
 
-(a) The following documents are incorporated by reference in this standard. (1) Draft ISO/DIS Standard 6220-1983—Headforms for Use in the Testing of Protective Helmets.1
+(a) The following documents are incorporated by reference in this standard. (1) Draft ISO/DIS Standard 6220-1983—Headforms for Use in the Testing of Protective Helmets. 1
 
 1 Although the draft ISO/DIS 6220-1983 standard was never adopted as an international standard, it has become a consensus national standard because all recent major voluntary standards used in the United States for testing bicycle helmets establish their headform dimensions by referring to the draft ISO standard.
 

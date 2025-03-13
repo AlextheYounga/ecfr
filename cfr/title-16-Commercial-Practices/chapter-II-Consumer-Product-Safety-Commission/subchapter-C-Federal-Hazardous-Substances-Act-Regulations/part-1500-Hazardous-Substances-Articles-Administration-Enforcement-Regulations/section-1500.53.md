@@ -4,7 +4,7 @@
 
 (b) *Impact test*—(1) *Application.* Except as provided in paragraph (b)(4) of this section, toys having a weight of less than 10.0 pounds ±0.01 pound (4.6 kilograms) shall be subject to this test.
 
-(2) *Impact medium.* The impact medium shall consist of a1/8-inch (0.3-centimeter) nominal thickness of type IV vinyl-composition tile, composition 1—asbestos free, as specified by paragraphs 1.2 and 3.1.4 of Interim Amendment-1(YD), dated November 14, 1979, to the Federal Specification entitled Tile, Floor: Asphalt, Rubber, Vinyl, Vinyl-Asbestos, SS-T-312B, dated October 10, 1974,1 over at least a 2.5-inch (6.4-centimeter) thickness of concrete. The impact area shall be at least 3 square feet (0.3 square meter). The Commission recognizes that this specified impact medium is the equivalent of, and will yield the same impact test results as, a surface covered with vinyl-asbestos tile meeting the requirements of Federal Specification SS-T-312A.
+(2) *Impact medium.* The impact medium shall consist of a 1/8-inch (0.3-centimeter) nominal thickness of type IV vinyl-composition tile, composition 1—asbestos free, as specified by paragraphs 1.2 and 3.1.4 of Interim Amendment-1(YD), dated November 14, 1979, to the Federal Specification entitled Tile, Floor: Asphalt, Rubber, Vinyl, Vinyl-Asbestos, SS-T-312B, dated October 10, 1974, 1 over at least a 2.5-inch (6.4-centimeter) thickness of concrete. The impact area shall be at least 3 square feet (0.3 square meter). The Commission recognizes that this specified impact medium is the equivalent of, and will yield the same impact test results as, a surface covered with vinyl-asbestos tile meeting the requirements of Federal Specification SS-T-312A.
 
 (3) *Testing procedure.* except as provided in paragraph (b)(4) (i) and (ii) of this section, the toy shall be dropped four times from a height of 3 feet ±0.5 inch (0.92 meter) onto the impact medium described in paragraph (b)(2) of this section. The toy shall be dropped in random orientation. After each drop, the test sample shall be allowed to come to rest and shall be examined and evaluated before continuing.
 
@@ -48,7 +48,7 @@
 
 (g) *Compression test*—(1) *Application.* Any area on the surface of a toy that is accessible to a child and inaccessible to flat-surface contact during the impact test shall be subject to this test.
 
-(2) *Test apparatus.* The loading device shall be a rigid metal disc 1.125 inches ±0.015 inch (2.86 centimeters) in diameter and 0.375 inch (0.95 centimeter) in thickness. The perimeter of the disc shall be rounded to a radius of1/32 inch (0.08 centimeter) to eliminate irregular edges. The disc shall be attached to an appropriate compression scale having an accuracy of ±0.5 pound (±225 grams).
+(2) *Test apparatus.* The loading device shall be a rigid metal disc 1.125 inches ±0.015 inch (2.86 centimeters) in diameter and 0.375 inch (0.95 centimeter) in thickness. The perimeter of the disc shall be rounded to a radius of 1/32 inch (0.08 centimeter) to eliminate irregular edges. The disc shall be attached to an appropriate compression scale having an accuracy of ±0.5 pound (±225 grams).
 
 (3) *Testing procedure.* The disc shall be positioned so that the contact surface is parallel to the surface under test. A direct force of 30 pounds ±0.5 pound (13.6 kilograms) shall be evenly applied within 5 seconds through the disc. This load shall be maintained for an additional 10 seconds. During the test the toy is to rest on a flat, hard surface in any convenient position.
 

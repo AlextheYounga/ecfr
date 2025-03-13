@@ -10,7 +10,7 @@ In addition to the definitions given in section 2 of the Flammable Fabrics Act, 
 
 (3) “Tight-fitting garments,” as defined by section 1615.1(o), below.
 
-(b) *Size 6X* means the size defined as 6X in Department of Commerce Voluntary Product Standard, previously identified as Commercial Standard, CS 151-50 “Body Measurements for the Sizing of Apparel for Infants, Babies, Toddlers, and Children.”1
+(b) *Size 6X* means the size defined as 6X in Department of Commerce Voluntary Product Standard, previously identified as Commercial Standard, CS 151-50 “Body Measurements for the Sizing of Apparel for Infants, Babies, Toddlers, and Children.” 1
 
 1 Copies available from the National Technical Information Service, 5285 Port Royal Street, Springfield, VA 22151, and should be ordered as CS 15150.
 
@@ -129,13 +129,13 @@ In addition to the definitions given in section 2 of the Flammable Fabrics Act, 
 
 (9) Bears a label stating the size of the garment in terms of age in months, or by child's size; for example: “Size 9 to 12 mos.” or “Size 2.” If the label is not visible to the consumer when the garment is offered for sale at retail, the same information must appear legibly on the package of the garment.
 
-(10)(i) *Hangtags.* Bears a hangtag as shown following this paragraph stating “For child's safety, garment should fit snugly. This garment is not flame resistant. Loose-fitting garment is more likely to catch fire.” The hangtag must measure 11/2″ × 61/4″. The text must be enclosed in a text box that measures 1″ × 53/4″ and must be in 18 point Arial/Helvetica font. The hangtag must have a yellow background and black lettering. The color yellow must meet the specifications for Standard Safety Yellow (Hue 5.OY; Value/Chroma 8.0/12) as described in American National Standard ANSI Z535.1-1998, Safety Color Code, p.6, under Munsell Notation.2 One side of the hangtag must display only this message. The reverse side of the hangtag may display sizing information, but otherwise must be blank. The text must not be obscured by the hole provided for attaching the hangtag to the garment. The hangtag must be prominently displayed on the garment.
+(10)(i) *Hangtags.* Bears a hangtag as shown following this paragraph stating “For child's safety, garment should fit snugly. This garment is not flame resistant. Loose-fitting garment is more likely to catch fire.” The hangtag must measure 11/2″ × 61/4″. The text must be enclosed in a text box that measures 1″ × 53/4″ and must be in 18 point Arial/Helvetica font. The hangtag must have a yellow background and black lettering. The color yellow must meet the specifications for Standard Safety Yellow (Hue 5.OY; Value/Chroma 8.0/12) as described in American National Standard ANSI Z535.1-1998, Safety Color Code, p.6, under Munsell Notation. 2 One side of the hangtag must display only this message. The reverse side of the hangtag may display sizing information, but otherwise must be blank. The text must not be obscured by the hole provided for attaching the hangtag to the garment. The hangtag must be prominently displayed on the garment.
 
 2 ANSI Z535.1-1998, Standard for Safety Color Code, p.6, published by National Electrical Manufacturers Association is incorporated by reference. Copies of this document are available from the National Electrical Manufacturers Association, 1300 N. 17th Street, Suite 1847, Rossylyn, Virginia 22209. This document is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* The incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51.
 
 ![](/graphics/er08se99.000.gif)
 
-(ii) *Packages.* If the garments are sold in packages, the package must have a label as shown following this paragraph with the same language that would appear on the hangtag. The label must have a text box that measures3/4″ × 33/4″. The text must be 11 point Arial/Helvetica in black lettering against a yellow background. The packages must be prominently, conspicuously, and legibly labeled with the required message. The package label may be adhesive.
+(ii) *Packages.* If the garments are sold in packages, the package must have a label as shown following this paragraph with the same language that would appear on the hangtag. The label must have a text box that measures 3/4″ × 33/4″. The text must be 11 point Arial/Helvetica in black lettering against a yellow background. The packages must be prominently, conspicuously, and legibly labeled with the required message. The package label may be adhesive.
 
 ![](/graphics/er08se99.001.gif)
 

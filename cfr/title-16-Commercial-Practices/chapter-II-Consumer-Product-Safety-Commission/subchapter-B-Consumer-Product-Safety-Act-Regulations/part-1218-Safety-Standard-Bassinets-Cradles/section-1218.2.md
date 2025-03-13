@@ -66,7 +66,7 @@
 
 Note to paragraph (b)(7)(iv):
 
-For mattresses that are integral with the mattress support, do not remove the mattress and perform all angle measurements for 7.12 on a 6 by 6 by3/8-in. nominal aluminum block placed on the center of the mattress.
+For mattresses that are integral with the mattress support, do not remove the mattress and perform all angle measurements for 7.12 on a 6 by 6 by 3/8-in. nominal aluminum block placed on the center of the mattress.
 
 (v) 7.12.4. Place the bassinet bed on the base/stand in the intended use orientation without engaging any latch or lock mechanism between the base/stand and the bassinet bed. If the bed automatically engages to the base/stand do not disengage the lock/latch. If the bassinet bed can rest on the base/stand in its intended use orientation in one or more lateral unlocked position (Figure 24), the unit shall be evaluated in the lateral position most likely to fail the requirements specified in 6.10.
 

@@ -10,7 +10,7 @@
 
 (4) The franchise relationship is covered by the Petroleum Marketing Practices Act, 15 U.S.C. 2801.
 
-(5)(i) The franchisee's initial investment, excluding any financing received from the franchisor or an affiliate and excluding the cost of unimproved land, totals at least $1,469,600 and the prospective franchisee signs an acknowledgment verifying the grounds for the exemption. The acknowledgment shall state: “The franchise sale is for more than $1,469,600—excluding the cost of unimproved land and any financing received from the franchisor or an affiliate— and thus is exempted from the Federal Trade Commission's Franchise Rule disclosure requirements, pursuant to 16 CFR 436.8(a)(5)(i)”;11 or
+(5)(i) The franchisee's initial investment, excluding any financing received from the franchisor or an affiliate and excluding the cost of unimproved land, totals at least $1,469,600 and the prospective franchisee signs an acknowledgment verifying the grounds for the exemption. The acknowledgment shall state: “The franchise sale is for more than $1,469,600—excluding the cost of unimproved land and any financing received from the franchisor or an affiliate— and thus is exempted from the Federal Trade Commission's Franchise Rule disclosure requirements, pursuant to 16 CFR 436.8(a)(5)(i)”; 11 or
 
 11 The large franchise exemption applies only if at least one individual prospective franchisee in an investor-group qualifies for the exemption by investing at the threshold level stated in this section.
 

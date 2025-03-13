@@ -4,7 +4,7 @@
 
 (i) The room shall be equipped with a support system (e.g. platform, bench) upon which a mattress may be placed flat in a horizontal position at a reasonable height for making observations.
 
-(ii) If thin flexible mattresses or mattress pads are being testing the room shall also be equipped with a glass fiberboard test surface. The glass fiberboard shall be approximately 1 inch (2.5 cm) thick and have a thermal conductivity of 0.30±0.05 cal (g) / hr cm2 °C/cm (0.24±0.04 Btu/hr ft2 °F/in) at 23.9 °C (75 °F).1
+(ii) If thin flexible mattresses or mattress pads are being testing the room shall also be equipped with a glass fiberboard test surface. The glass fiberboard shall be approximately 1 inch (2.5 cm) thick and have a thermal conductivity of 0.30±0.05 cal (g) / hr cm2 °C/cm (0.24±0.04 Btu/hr ft2 °F/in) at 23.9 °C (75 °F). 1
 
 1 Glass fiberboard that meets Federal Specification HH-I-558B is acceptable. Under this specification, the board must be Form A, Class 1, and plain faced. Copies of the specifications may be obtained from the Business Service Centers of the General Services Administration Regional Offices.
 
@@ -14,7 +14,7 @@
 
 (4) *Water bottle.* A water bottle fitted with a spray nozzle shall be used to extinguish the ignited portions of the mattress.
 
-(5) *Scale.* A linear scale graduated in millimeters, 0.1 inch, or1/16 inch divisions shall be used to measure char length.
+(5) *Scale.* A linear scale graduated in millimeters, 0.1 inch, or 1/16 inch divisions shall be used to measure char length.
 
 (6) *Sheets or sheeting material.* White, 100 percent cotton sheets or sheeting material shall be used. It shall not be treated with a chemical finish which imparts a characteristic such as permanent press or flame resistance. It shall have 120-210 threads per square inch and fabric weight of 3.7±0.8 oz/yd2 (125±28 gm/m2). The size of the sheet or sheeting material shall be appropriate for the mattress being tested.
 
@@ -26,7 +26,7 @@
 
 (i) The sheet shall be cut across the width into two equal parts after washing.
 
-(ii) Sheeting material shall be cut in lengths to cover1/2 of a mattress as described in § 1632.4(d)(3).
+(ii) Sheeting material shall be cut in lengths to cover 1/2 of a mattress as described in § 1632.4(d)(3).
 
 (3) *Cigarettes.* Unopened packages of cigarettes shall be selected for each series of tests. The cigarettes shall be removed from packaging prior to conditioning.
 

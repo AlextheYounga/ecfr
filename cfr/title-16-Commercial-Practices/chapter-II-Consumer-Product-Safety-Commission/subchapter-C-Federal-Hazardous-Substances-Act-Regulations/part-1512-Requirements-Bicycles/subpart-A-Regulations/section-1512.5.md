@@ -24,7 +24,7 @@
 
 (c) *Footbrakes.* All footbrakes shall be tested in accordance with the force test, § 1512.18(e)(2), and the measured braking force shall not be less than 178 N (40 lbf) for an applied pedal force of 310 N (70 lbf).
 
-(1) *Stopping distance.* Bicycles equipped with footbrakes (except sidewalk bicycles) shall be tested in accordance with the performance test, § 1512.18(e)(3), by a rider of at least 68.1 kg (150 lb) weight and shall have a stopping distance of no greater than 4.57 m (15 ft) from an actual test speed of at least 16 km/h (10 mph). If the bicycle has a footbrake only and the equivalent groundspeed of the bicycle is in excess of 24 km/h (15 mph) (in its highest gear ratio at a pedal crank rate of 60 revolutions per minute),3 the stopping distance shall be 4.57 m (15 ft) from an actual test speed of 24 km/h (15 mph) or greater.
+(1) *Stopping distance.* Bicycles equipped with footbrakes (except sidewalk bicycles) shall be tested in accordance with the performance test, § 1512.18(e)(3), by a rider of at least 68.1 kg (150 lb) weight and shall have a stopping distance of no greater than 4.57 m (15 ft) from an actual test speed of at least 16 km/h (10 mph). If the bicycle has a footbrake only and the equivalent groundspeed of the bicycle is in excess of 24 km/h (15 mph) (in its highest gear ratio at a pedal crank rate of 60 revolutions per minute), 3 the stopping distance shall be 4.57 m (15 ft) from an actual test speed of 24 km/h (15 mph) or greater.
 
 3 This is proportional to a gear development greater than 6.67 m (21.9 ft) in the bicycle's highest gear ratio. Gear development is the distance the bicycle travels in meters, in one crank revolution.
 
@@ -34,7 +34,7 @@
 
 (4) *Independent operation.* The brake mechanism shall function independently of any drive-gear positions or adjustments.
 
-(d) *Footbrakes and handbrakes in combination.* Bicycles equipped with footbrakes and handbrakes shall meet all the requirements for footbrakes in § 1512.5(c), including the tests specified. In addition, if the equivalent ground speed of the bicycle is 24 km/h (15 mph) or greater (in its highest gear ratio at a pedal crank rate of 60 revolutions per minute),3 the actual test speed specified in § 1512.18(e)(3) shall be increased to 24 km/h (15 mph) and both braking systems may be actuated to achieve the required stopping distance of 4.57 m (15 ft).
+(d) *Footbrakes and handbrakes in combination.* Bicycles equipped with footbrakes and handbrakes shall meet all the requirements for footbrakes in § 1512.5(c), including the tests specified. In addition, if the equivalent ground speed of the bicycle is 24 km/h (15 mph) or greater (in its highest gear ratio at a pedal crank rate of 60 revolutions per minute), 3 the actual test speed specified in § 1512.18(e)(3) shall be increased to 24 km/h (15 mph) and both braking systems may be actuated to achieve the required stopping distance of 4.57 m (15 ft).
 
 (e) *Sidewalk bicycles.* (1) Sidewalk bicycles shall not have handbrakes only.
 

@@ -32,7 +32,7 @@
 
 (b) The mattress label required in paragraph (a) of this section must measure 23/4″ in width and the length can increase as needed for varying information. The label must be white with black text. The label text shall comply with the following format requirements:
 
-(1) All information specified in paragraphs (a)(1) through (6) of this section must be in 6-point font or larger with mixed uppercase and lowercase letters. The text must be left justified and begin1/4″ from left edge of label. See Figure 12-17 of this part.
+(1) All information specified in paragraphs (a)(1) through (6) of this section must be in 6-point font or larger with mixed uppercase and lowercase letters. The text must be left justified and begin 1/4″ from left edge of label. See Figure 12-17 of this part.
 
 (2) The statement specified in paragraph (a)(7)(i) of this section must be in 10-point Arial/Helvetica font or larger, uppercase letters with the words “*WITHOUT* A FOUNDATION” bolded and the word “*WITHOUT*” in italics. The text shall be centered in a text box with the width measuring 21/2″ and the length increasing as needed. See Figures 16 and 17 of this part.
 

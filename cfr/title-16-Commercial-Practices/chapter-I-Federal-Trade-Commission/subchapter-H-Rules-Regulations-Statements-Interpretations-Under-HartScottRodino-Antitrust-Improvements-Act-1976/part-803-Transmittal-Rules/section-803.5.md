@@ -34,5 +34,4 @@ In examples 2-5 assume that one percent of B's shares are valued at $15 million.
 
 (b) *Non-section 801.30 acquisitions.* For acquisitions to which § 801.30 does not apply, the notification required by the act shall contain an affidavit, attached to the front of the notification, or with the DVD submission, attesting that a contract, agreement in principle or letter of intent to merge or acquire has been executed, and further attesting to the good faith intention of the person filing notification to complete the transaction.
 
-[43 FR 33548, July 31, 1978, as amended at 48 FR 34439, July 29, 1983; 52 FR 7082, Mar. 6, 1987; 66 FR 8695, Feb. 1, 2001; 70 FR 4996, Jan. 31, 2005; 71 FR 35998, June 23, 2006; 76 FR 42483, July 19, 2011; 81 FR 60259, Sept. 1, 2016;
-83 FR 32771, July 16, 2018]
+[43 FR 33548, July 31, 1978, as amended at 48 FR 34439, July 29, 1983; 52 FR 7082, Mar. 6, 1987; 66 FR 8695, Feb. 1, 2001; 70 FR 4996, Jan. 31, 2005; 71 FR 35998, June 23, 2006; 76 FR 42483, July 19, 2011; 81 FR 60259, Sept. 1, 2016; 83 FR 32771, July 16, 2018]

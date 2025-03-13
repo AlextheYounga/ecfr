@@ -1,4 +1,4 @@
-##### § 238.0 Bait advertising defined.1 #####
+##### § 238.0 Bait advertising defined. 1 #####
 
 1 For the purpose of this part “advertising” includes any form of public notice however disseminated or utilized.
 

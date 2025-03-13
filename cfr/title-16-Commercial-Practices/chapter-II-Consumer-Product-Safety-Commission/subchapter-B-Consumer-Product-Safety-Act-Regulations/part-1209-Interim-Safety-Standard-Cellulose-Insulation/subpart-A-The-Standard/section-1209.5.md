@@ -36,13 +36,13 @@ Each coupon shall be 50.8 by 50.8 mm (2 by 2 in) by 0.076 mm (0.003 in) thick me
 
 (3) Before presaturating each 20g (0.7 oz) test specimen, subdivide it into two 10g (0.35 oz) portions. The quantity of distilled or deionized water to be used for each 10g (0.35 oz) portion shall be determined using the following formula:
 
-ml distilled water = 46 / (settled density, Kg/m3) × 75orml distilled water = 2.9 / (settled density, lb/ft3) × 75
+ml distilled water = 46 / (settled density, Kg/m 3) × 75orml distilled water = 2.9 / (settled density, lb/ft 3) × 75
 
 (4) Presaturate each 10g (0.35 oz) portion with the determined amount of water. Place one presaturated 10g (0.35 oz) portion into a crystallizing dish, tamp level using the bottom of a clean suitably sized glass beaker. Place a metal coupon onto the presaturated insulation portion and center it in a horizontal plane. Place the other presaturated 10g (0.35 oz) portion into the crystallizing dish on the metal coupon and tamp the composite specimen (metal coupon plus saturated insulation in the crystallizing dish) to assure an even distribution of this material and to assure good contact of the insulation with the metal. Exercise care in preparing the composite specimens to eliminate air pockets from forming next to the metal coupons.
 
 (5) Do not cover the crystallizing dish. (Care should be taken to avoid evaporation from the composite specimen while it is being prepared until it is placed in the humidity chamber.) If dripping occurs in the chamber, position a drip guard in the chamber to divert condensation to the chamber floor. Repeat the above for the other metal coupons. Place all six composite specimens into the humidity chamber. The chamber shall be preconditioned to 48.9 ±1.7 °C (120 ±3 °F) and 97 ±1.5 percent relative humidity. The specimens shall remain in the chamber for 336 ±4 hours. (Keep the chamber door open a minimum of time while placing composite specimens in and removing them from the chamber.)
 
-(6) Upon completion of the test disassemble the composite specimens. Thoroughly wash the metal coupons under running water and lightly brush them using a soft nylon bristle brush or equivalent to remove loose corrosion products. Remove the remaining corrosion products from the metal coupons by cleaning them in accordance with the following practices:1
+(6) Upon completion of the test disassemble the composite specimens. Thoroughly wash the metal coupons under running water and lightly brush them using a soft nylon bristle brush or equivalent to remove loose corrosion products. Remove the remaining corrosion products from the metal coupons by cleaning them in accordance with the following practices: 1
 
 1 These practices are the recommended practices in “ASTM G1—Standard Recommended Practice for Preparing, Cleaning, and Evaluating Corrosion Test Specimens,” published by American Society for Testing and Materials, 1916 Race Street, Philadelphia, Pa. 19103.
 

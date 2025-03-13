@@ -66,4 +66,4 @@
 
 (9) *Mailing date* refers to the time specified by a seller using a negative option plan as the time by or within which a form must be mailed by a subscriber to prevent shipment of the selection.
 
-(38 Stat. 717, as amended; 15 U.S.C. 41-58)[38 FR 4896; Feb. 22, 1973; 38 FR 6991, Mar. 15, 1973, as amended at 63 FR 44562, Aug. 20, 1998]
+(38 Stat. 717, as amended; 15 U.S.C. 41-58) [38 FR 4896; Feb. 22, 1973; 38 FR 6991, Mar. 15, 1973, as amended at 63 FR 44562, Aug. 20, 1998]

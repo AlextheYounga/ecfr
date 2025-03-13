@@ -1,6 +1,6 @@
 ##### § 1500.230 Guidance for lead (Pb) in consumer products. #####
 
-(a) *Summary.* (1) The U.S. Consumer Product Safety Commission issues this guidance to manufacturers, importers, distributors, and retailers to protect children from hazardous exposure to lead in consumer products.1 The Commission identifies the major factors that it considers when evaluating products that contain lead, and informs the public of its experience with products that have exposed children to potentially hazardous amounts of lead.
+(a) *Summary.* (1) The U.S. Consumer Product Safety Commission issues this guidance to manufacturers, importers, distributors, and retailers to protect children from hazardous exposure to lead in consumer products. 1 The Commission identifies the major factors that it considers when evaluating products that contain lead, and informs the public of its experience with products that have exposed children to potentially hazardous amounts of lead.
 
 1 This guidance is not a rule. It is intended to highlight certain obligations under the Federal Hazardous Substances Act. Companies should read that Act and the accompanying regulations in this part for more detailed information.
 

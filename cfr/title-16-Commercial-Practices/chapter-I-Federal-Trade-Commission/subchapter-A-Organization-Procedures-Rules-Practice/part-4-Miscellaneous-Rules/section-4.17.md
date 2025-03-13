@@ -12,4 +12,4 @@
 
 (c) *Standards.* Such motion shall be determined in accordance with legal standards applicable to the proceeding in which such motion is filed.
 
-(15 U.S.C. 46(g))[46 FR 45750, Sept. 15, 1981]
+(15 U.S.C. 46(g)) [46 FR 45750, Sept. 15, 1981]

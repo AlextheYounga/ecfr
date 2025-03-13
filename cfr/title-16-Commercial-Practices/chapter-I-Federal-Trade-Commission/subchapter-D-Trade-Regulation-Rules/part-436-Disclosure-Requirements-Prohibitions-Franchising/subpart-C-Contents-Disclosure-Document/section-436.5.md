@@ -60,13 +60,13 @@
 
 (2) Disclose whether the franchisor; a predecessor; a parent or affiliate who guarantees the franchisor's performance; an affiliate who has offered or sold franchises in any line of business within the last 10 years; or any other person identified in § 436.5(b) of this part is subject to a currently effective injunctive or restrictive order or decree resulting from a pending or concluded action brought by a public agency and relating to the franchise or to a Federal, State, or Canadian franchise, securities, antitrust, trade regulation, or trade practice law.
 
-(3) For each action identified in paragraphs (c)(1) and (2) of this section, state the title, case number or citation, the initial filing date, the names of the parties, the forum, and the relationship of the opposing party to the franchisor (for example, competitor, supplier, lessor, franchisee, former franchisee, or class of franchisees). Except as provided in paragraph (c)(4) of this section, summarize the legal and factual nature of each claim in the action, the relief sought or obtained, and any conclusions of law or fact.1 In addition, state:
+(3) For each action identified in paragraphs (c)(1) and (2) of this section, state the title, case number or citation, the initial filing date, the names of the parties, the forum, and the relationship of the opposing party to the franchisor (for example, competitor, supplier, lessor, franchisee, former franchisee, or class of franchisees). Except as provided in paragraph (c)(4) of this section, summarize the legal and factual nature of each claim in the action, the relief sought or obtained, and any conclusions of law or fact. 1 In addition, state:
 
 1 Franchisors may include a summary opinion of counsel concerning any action if counsel consent to use the summary opinion and the full opinion is attached to the disclosure document.
 
 (i) For pending actions, the status of the action.
 
-(ii) For prior actions, the date when the judgment was entered and any damages or settlement terms.2
+(ii) For prior actions, the date when the judgment was entered and any damages or settlement terms. 2
 
 2 If a settlement agreement must be disclosed in this Item, all material settlement terms must be disclosed, whether or not the agreement is confidential. However, franchisors need not disclose the terms of confidential settlements entered into before commencing franchise sales. Further, any franchisor who has historically used only the Franchise Rule format, or who is new to franchising, need not disclose confidential settlements entered prior to the effective date of this Rule.
 
@@ -96,7 +96,7 @@
 
 (e) *Item 5*: *Initial Fees.* Disclose the initial fees and any conditions under which these fees are refundable. If the initial fees are not uniform, disclose the range or formula used to calculate the initial fees paid in the fiscal year before the issuance date and the factors that determined the amount. For this section, “initial fees” means all fees and payments, or commitments to pay, for services or goods received from the franchisor or any affiliate before the franchisee's business opens, whether payable in lump sum or installments. Disclose installment payment terms in this section or in § 436.5(j) of this part.
 
-(f) *Item 6*: *Other Fees.* Disclose, in the following tabular form, all other fees that the franchisee must pay to the franchisor or its affiliates, or that the franchisor or its affiliates impose or collect in whole or in part for a third party. State the title “OTHER FEES” in capital letters using bold type. Include any formula used to compute the fees.3
+(f) *Item 6*: *Other Fees.* Disclose, in the following tabular form, all other fees that the franchisee must pay to the franchisor or its affiliates, or that the franchisor or its affiliates impose or collect in whole or in part for a third party. State the title “OTHER FEES” in capital letters using bold type. Include any formula used to compute the fees. 3
 
 3 If fees may increase, disclose the formula that determines the increase or the maximum amount of the increase. For example, a percentage of gross sales is acceptable if the franchisor defines the term “gross sales.”
 
@@ -165,7 +165,7 @@
 
 (ii) If the franchisor or an affiliate finances part of the initial investment, the amount that it will finance, the required down payment, the annual interest rate, rate factors, and the estimated loan repayments. Franchisors may refer to § 436.5(j) of this part for additional details.
 
-(h) *Item 8*: *Restrictions on Sources of Products and Services.* Disclose the franchisee's obligations to purchase or lease goods, services, supplies, fixtures, equipment, inventory, computer hardware and software, real estate, or comparable items related to establishing or operating the franchised business either from the franchisor, its designee, or suppliers approved by the franchisor, or under the franchisor's specifications. Include obligations to purchase imposed by the franchisor's written agreement or by the franchisor's practice.4 For each applicable obligation, state:
+(h) *Item 8*: *Restrictions on Sources of Products and Services.* Disclose the franchisee's obligations to purchase or lease goods, services, supplies, fixtures, equipment, inventory, computer hardware and software, real estate, or comparable items related to establishing or operating the franchised business either from the franchisor, its designee, or suppliers approved by the franchisor, or under the franchisor's specifications. Include obligations to purchase imposed by the franchisor's written agreement or by the franchisor's practice. 4 For each applicable obligation, state:
 
 4 Franchisors may include the reason for the requirement. Franchisors need not disclose in this Item the purchase or lease of goods or services provided as part of the franchise without a separate charge (such as initial training, if the cost is included in the franchise fee). Describe such fees in Item 5 of this section. Do not disclose fees already described in § 436.5(f) of this part.
 
@@ -191,7 +191,7 @@
 
 (6) Whether the franchisor or its affiliates will or may derive revenue or other material consideration from required purchases or leases by franchisees. If so, describe the precise basis by which the franchisor or its affiliates will or may derive that consideration by stating:
 
-(i) The franchisor's total revenue.5
+(i) The franchisor's total revenue. 5
 
 5 Take figures from the franchisor's most recent annual audited financial statement required in § 436.5(u) of this part. If audited statements are not yet required, or if the entity deriving the income is an affiliate, disclose the sources of information used in computing revenues.
 
@@ -241,11 +241,11 @@
 |                  x. Dispute resolution                   |                        |                            |
 |                   y. Other (describe)                    |                        |                            |
 
-(j) *Item 10*: *Financing.* (1) Disclose the terms of each financing arrangement, including leases and installment contracts, that the franchisor, its agent, or affiliates offer directly or indirectly to the franchisee.6 The franchisor may summarize the terms of each financing arrangement in tabular form, using footnotes to provide additional information. For a sample Item 10 table, see appendix A of this part. For each financing arrangement, state:
+(j) *Item 10*: *Financing.* (1) Disclose the terms of each financing arrangement, including leases and installment contracts, that the franchisor, its agent, or affiliates offer directly or indirectly to the franchisee. 6 The franchisor may summarize the terms of each financing arrangement in tabular form, using footnotes to provide additional information. For a sample Item 10 table, see appendix A of this part. For each financing arrangement, state:
 
 6 Indirect offers of financing include a written arrangement between a franchisor or its affiliate and a lender, for the lender to offer financing to a franchisee; an arrangement in which a franchisor or its affiliate receives a benefit from a lender in exchange for financing a franchise purchase; and a franchisor's guarantee of a note, lease, or other obligation of the franchisee.
 
-(i) What the financing covers (for example, the initial franchise fee, site acquisition, construction or remodeling, initial or replacement equipment or fixtures, opening or ongoing inventory or supplies, or other continuing expenses).7
+(i) What the financing covers (for example, the initial franchise fee, site acquisition, construction or remodeling, initial or replacement equipment or fixtures, opening or ongoing inventory or supplies, or other continuing expenses). 7
 
 7 Include sample copies of the financing documents as an exhibit to § 436.5(v) of this part. Cite the section and name of the document containing the financing terms and conditions.
 
@@ -499,7 +499,7 @@
 
 (5) Disclose any currently effective material determinations of the United States Patent and Trademark Office, the Trademark Trial and Appeal Board, or any state trademark administrator or court; and any pending infringement, opposition, or cancellation proceeding. Include infringement, opposition, or cancellation proceedings in which the franchisor unsuccessfully sought to prevent registration of a trademark in order to protect a trademark licensed by the franchisor. Describe how the determination affects the ownership, use, or licensing of the trademark.
 
-(6) Disclose any pending material federal or state court litigation regarding the franchisor's use or ownership rights in a trademark. For each pending action, disclose:8
+(6) Disclose any pending material federal or state court litigation regarding the franchisor's use or ownership rights in a trademark. For each pending action, disclose: 8
 
 8 The franchisor may include an attorney's opinion relative to the merits of litigation or of an action if the attorney issuing the opinion consents to its use. The text of the disclosure may include a summary of the opinion if the full opinion is attached and the attorney issuing the opinion consents to the use of the summary.
 
@@ -575,7 +575,7 @@
 
 (2) Describe any current material determination of the United States Patent and Trademark Office, the United States Copyright Office, or a court regarding the patent or copyright. Include the forum and matter number. Describe how the determination affects the franchised business.
 
-(3) State the forum, case number, claims asserted, issues involved, and effective determinations for any material proceeding pending in the United States Patent and Trademark Office or any court.9
+(3) State the forum, case number, claims asserted, issues involved, and effective determinations for any material proceeding pending in the United States Patent and Trademark Office or any court. 9
 
 9 If counsel consents, the franchisor may include a counsel's opinion or a summary of the opinion if the full opinion is attached.
 
@@ -623,11 +623,9 @@
 
 (p) *Item 16*: *Restrictions on What the Franchisee May Sell.* Disclose any franchisor-imposed restrictions or conditions on the goods or services that the franchisee may sell or that limit access to customers, including:
 
-(1) Any obligation on the franchisee to sell only goods or services approved by
-the franchisor.
+(1) Any obligation on the franchisee to sell only goods or services approved by the franchisor.
 
-(2) Any obligation on the franchisee to sell all goods or services authorized by
-the franchisor.
+(2) Any obligation on the franchisee to sell all goods or services authorized by the franchisor.
 
 (3) Whether the franchisor has the right to change the types of authorized goods or services and whether there are limits on the franchisor's right to make changes.
 
@@ -845,7 +843,7 @@ We do not make any representations about a franchisee's future financial perform
 
 (4) Disclose the names of all current franchisees and the address and telephone number of each of their outlets. Alternatively, disclose this information for all franchised outlets in the state, but if these franchised outlets total fewer than 100, disclose this information for franchised outlets from contiguous states and then the next closest states until at least 100 franchised outlets are listed.
 
-(5) Disclose the name, city and state, and current business telephone number, or if unknown, the last known home telephone number of every franchisee who had an outlet terminated, canceled, not renewed, or otherwise voluntarily or involuntarily ceased to do business under the franchise agreement during the most recently completed fiscal year or who has not communicated with the franchisor within 10 weeks of the disclosure document issuance date.10 State in immediate conjunction with this information: “If you buy this franchise, your contact information may be disclosed to other buyers when you leave the franchise system.”
+(5) Disclose the name, city and state, and current business telephone number, or if unknown, the last known home telephone number of every franchisee who had an outlet terminated, canceled, not renewed, or otherwise voluntarily or involuntarily ceased to do business under the franchise agreement during the most recently completed fiscal year or who has not communicated with the franchisor within 10 weeks of the disclosure document issuance date. 10 State in immediate conjunction with this information: “If you buy this franchise, your contact information may be disclosed to other buyers when you leave the franchise system.”
 
 10 Franchisors may substitute alternative contact information at the request of the former franchisee, such as a home address, post office address, or a personal or business email address.
 

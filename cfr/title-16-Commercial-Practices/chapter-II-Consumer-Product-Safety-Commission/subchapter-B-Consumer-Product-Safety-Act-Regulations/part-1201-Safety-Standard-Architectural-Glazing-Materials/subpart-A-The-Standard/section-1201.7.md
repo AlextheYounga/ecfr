@@ -6,7 +6,7 @@ The effective date of this part 1201 shall be July 6, 1977 except:
 
 (b) Architectural glazing materials manufactured before July 6, 1977 may be incorporated into architectural products listed in § 1201.1(a) through July 5, 1978 if:
 
-(1) The architectural glazing material conforms to ANSI Standard Z97.1-1972 or 1975, “Performance Specifications and Methods of Test for Safety Glazing Material Used in Buildings,” 1972 or 19752, which is incorporated by reference, and
+(1) The architectural glazing material conforms to ANSI Standard Z97.1-1972 or 1975, “Performance Specifications and Methods of Test for Safety Glazing Material Used in Buildings,” 1972 or 1975 2, which is incorporated by reference, and
 
 2 Copies of ANSI Standard Z97.1-1972 or 1975 are available from the American National Standards Institute, 1430 Broadway, New York, New York 10018. They are also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*This incorporation by reference was approved by the Director of the Federal Register. These materials are incorporated as they exist in the editions which have been approved by the Director of the Federal Register and which have been filed with the Office of the Federal Register.
 

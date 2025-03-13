@@ -42,4 +42,4 @@
 
 (c) All information required by paragraphs (a)(1) through (3) of this section must be submitted for new models prior to any distribution of such model. Models subject to design or retrofit alterations which change the data contained in any annual report shall be reported in the manner required for new models. Models which are discontinued shall be reported in the next annual report.
 
-[52 FR 46894, Dec. 10, 1987. Redesignated and amended at 84 FR 58029, 58032, Oct. 30, 2019]Editorial Note:For Federal Register citations affecting § 305.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[52 FR 46894, Dec. 10, 1987. Redesignated and amended at 84 FR 58029, 58032, Oct. 30, 2019] Editorial Note:For Federal Register citations affecting § 305.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

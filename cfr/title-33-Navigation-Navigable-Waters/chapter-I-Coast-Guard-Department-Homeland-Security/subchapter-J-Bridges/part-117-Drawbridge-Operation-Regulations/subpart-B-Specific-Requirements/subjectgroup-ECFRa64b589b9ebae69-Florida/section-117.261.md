@@ -28,7 +28,7 @@
 
 (o) [Reserved]
 
-(p) *Indiantown Road Bridge, mile 1006.2, at Jupiter.* The draw shall open on the hour and half hour except that the draw need not open daily from 7 to 9 a.m. and 4 to 6 p.m.
+(p) *Indiantown Road Bridge, mile 1006.2, at Jupiter.* The draw shall open on the hour and half hour except that the draw need not open from 7 a.m. to 9 a.m. and 4 p.m. to 6 p.m., Monday through Friday except Federal holidays until 11:59 p.m. on August 31, 2025.
 
 (q) *Indiantown Road bridge, mile 1006.2.* The draw shall open on the hour and half-hour.
 
@@ -116,4 +116,4 @@
 
 (pp)—(ss) [Reserved]
 
-[CGD7-84-29, 50 FR 51248, Dec. 16, 1985]Editorial Note:For Federal Register citations affecting § 117.261, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:By USCG-2023-0652, 89 FR 7288, Feb. 2, 2024, § 117.261 was amended by adding paragraph (p) and staying paragraph (q), effective Feb. 5, 2024 through Aug. 31, 2025.
+[CGD7-84-29, 50 FR 51248, Dec. 16, 1985]Editorial Note:For Federal Register citations affecting § 117.261, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:By USCG-2023-0652, 89 FR 7288, Feb. 2, 2024, § 117.261 was amended by adding paragraph (p) and staying paragraph (q), effective Feb. 5, 2024 through Aug. 31, 2025. By USCG-2023-0652, 89 FR 85053, Oct. 25, 2024, § 117.261 was amended by revising paragraph (p) effective Oct. 25, 2024 through Aug. 31, 2025.

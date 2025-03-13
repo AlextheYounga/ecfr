@@ -4,7 +4,7 @@
 
 (b) *Commission* means the Federal Trade Commission.
 
-(c) *Pay-per-call service* has the meaning provided in section 228 of the Communications Act of 1934, 47 U.S.C. 228.1
+(c) *Pay-per-call service* has the meaning provided in section 228 of the Communications Act of 1934, 47 U.S.C. 228. 1
 
 1 Section 228 of the Communications Act of 1934 states:
 

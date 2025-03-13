@@ -28,7 +28,7 @@
 
 (4) *Model language.* For purposes of paragraph (b)(1) of this section, the following model language constitutes notice to the worker that the worker's non-compete clause cannot legally be enforced and will not be enforced against the worker.
 
-Figure 1 to Paragraph (b)(4)—Model Language![](/graphics/er07my24.000.gif)
+Figure 1 to Paragraph (b)(4)—Model Language ![](/graphics/er07my24.000.gif)
 
 (5) *Safe harbor.* A person complies with the requirement in paragraph (b)(1) of this section if the person provides notice to a worker pursuant to paragraph (b)(4) of this section.
 

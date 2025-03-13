@@ -6,4 +6,4 @@ The Federal Trade Commission has noted that, with increasing intensity, advertis
 
 (b) Any respondent who fails to comply with this requirement may be the subject of a civil penalty or other law enforcement proceeding for violating the terms of a Commission cease-and-desist order or rule.
 
-(Sec. 5, 38 Stat. 719, as amended; 15 U.S.C. 45)[38 FR 21494, Aug. 9, 1973, as amended at 63 FR 34808, June 26, 1998]
+(Sec. 5, 38 Stat. 719, as amended; 15 U.S.C. 45) [38 FR 21494, Aug. 9, 1973, as amended at 63 FR 34808, June 26, 1998]
