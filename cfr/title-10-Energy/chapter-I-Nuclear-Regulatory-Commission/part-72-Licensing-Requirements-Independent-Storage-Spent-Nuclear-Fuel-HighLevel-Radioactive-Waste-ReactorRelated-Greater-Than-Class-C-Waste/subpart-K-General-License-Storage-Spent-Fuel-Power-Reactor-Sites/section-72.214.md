@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 88 FR 49274, July 31, 2023.Link to an amendment published at 88 FR 51217, Aug. 3, 2023.Link to an amendment published at 88 FR 67934, Oct. 3, 2023.
+Link to an amendment published at 88 FR 51217, Aug. 3, 2023.Link to an amendment published at 88 FR 67934, Oct. 3, 2023.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -361,39 +361,43 @@ Certificate Expiration Date: January 10, 2027.
 
 Model Number: NUHOMS® HD-32PTH.
 
-Certificate Number: 1031.
+*Certificate Number:* 1031.
 
-Initial Certificate Effective date: February 4, 2009, superseded by Initial Certificate, Revision 1, on February 1, 2016.
+*Initial Certificate Effective Date:* February 4, 2009, superseded by Initial Certificate, Revision 1, on February 1, 2016, superseded by Initial Certificate, Revision 2, on October 16, 2023.
 
-Amendment Number 1 Effective Date: August 30, 2010, superseded by Amendment Number 1, Revision 1, on February 1, 2016.
+*Amendment Number 1 Effective Date:* August 30, 2010, superseded by Amendment Number 1, Revision 1, on February 1, 2016, superseded by Amendment Number 1, Revision 2, on October 16, 2023.
 
-Amendment Number 2 Effective Date: January 30, 2012, superseded by Amendment Number 2, Revision 1, on February 1, 2016.
+*Amendment Number 2 Effective Date:* January 30, 2012, superseded by Amendment Number 2, Revision 1, on February 1, 2016, superseded by Amendment Number 2, Revision 2, on October 16, 2023.
 
-Amendment Number 3 Effective Date: July 25, 2013, superseded by Amendment Number 3, Revision 1, on February 1, 2016.
+*Amendment Number 3 Effective Date:* July 25, 2013, superseded by Amendment Number 3, Revision 1, on February 1, 2016, superseded by Amendment Number 3, Revision 2, on October 16, 2023.
 
-Amendment Number 4 Effective Date: April 14, 2015.
+*Amendment Number 4 Effective Date:* April 14, 2015, superseded by Amendment Number 4, Revision 1, on October 16, 2023.
 
-Amendment Number 5 Effective Date: June 29, 2015.
+*Amendment Number 5 Effective Date:* June 29, 2015, superseded by Amendment Number 5, Revision 1, on October 16, 2023.
 
-Amendment Number 6 Effective Date: December 21, 2016.
+*Amendment Number 6 Effective Date:* December 21, 2016, superseded by Amendment Number 6, Revision 1, on October 16, 2023.
 
-Amendment Number 7 Effective Date: August 21, 2017, as corrected (ADAMS Accession No. ML19045A346).
+*Amendment Number 7 Effective Date:* August 21, 2017, as corrected (ADAMS Accession No. ML19045A346), superseded by Amendment Number 7, Revision 1, on October 16, 2023.
 
-Amendment Number 8, Effective Date: March 24, 2020.
+*Amendment Number 8, Effective Date:* March 24, 2020, superseded by Amendment Number 8, Revision 1, on October 16, 2023.
 
-Amendment Number 9, Effective Date: December 7, 2020.
+*Amendment Number 9, Effective Date:* December 7, 2020, superseded by Amendment Number 9, Revision 1, on October 16, 2023.
 
-Amendment Number 10, Effective Date: January 18, 2023.
+*Amendment Number 10, Effective Date:* January 18, 2023.
 
-SAR Submitted by: NAC International, Inc.
+*Amendment Number 11, Effective Date:* October 16, 2023.
 
-SAR Title: Final Safety Analysis Report for the MAGNASTOR® System.
+*Amendment Number 12, Effective Date:* October 16, 2023.
 
-Docket Number: 72-1031.
+*SAR Submitted by:* NAC International, Inc.
 
-Certificate Expiration Date: February 4, 2029.
+*SAR Title:* Final Safety Analysis Report for the MAGNASTOR® System.
 
-Model Number: MAGNASTOR®.
+*Docket Number:* 72-1031.
+
+*Certificate Expiration Date:* February 4, 2029.
+
+*Model Number:* MAGNASTOR®.
 
 *Certificate Number:* 1032.
 

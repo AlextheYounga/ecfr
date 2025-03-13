@@ -1,7 +1,5 @@
 ##### § 93.300 Definitions. #####
 
-Link to an amendment published at 88 FR 63000, Sept. 14, 2023.
-
 Wherever in this subpart the following terms are used, unless the context otherwise requires, they shall be construed, respectively, to mean:
 
 *Accredited veterinarian.* A veterinarian approved by the Administrator in accordance with the provisions of part 161 of this title to perform functions specified in parts 1, 2, 3, and 11 of subchapter A, and subchapters B, C, and D of this chapter, and to perform functions required by cooperative State-Federal disease control and eradication programs.
@@ -50,7 +48,7 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Recognized slaughtering establishment.*2 An establishment where slaughtering operations are regularly carried on under federal or state inspection and which has been approved by the Animal and Plant Health Inspection Service to receive animals for slaughter under this part.
 
-2 See footnote 1 to subpart C.
+2 See footnote 1 of this section.
 
 *Region.* Any defined geographic land area identifiable by geological, political, or surveyed boundaries. A region may consist of any of the following:
 
@@ -74,4 +72,4 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Weanling or yearling.* Any horse, weaned from its dam, that was foaled not more than 731 days prior to its being offered for entry into the United States. A horse will not be considered to be a weanling or yearling if its first permanent incisors have erupted.
 
-[55 FR 31495, Aug. 2, 1990, as amended at 56 FR 15489, Apr. 17, 1991; 61 FR 52239, Oct. 7, 1996. Redesignated and amended at 62 FR 56012, 56016, Oct. 28, 1997; 74 FR 31595, July 2, 2009]
+[55 FR 31495, Aug. 2, 1990, as amended at 56 FR 15489, Apr. 17, 1991; 61 FR 52239, Oct. 7, 1996. Redesignated and amended at 62 FR 56012, 56016, Oct. 28, 1997; 74 FR 31595, July 2, 2009; 88 FR 63000, Sept. 14, 2023]
