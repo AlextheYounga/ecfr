@@ -1,7 +1,5 @@
 ##### § 351.404 Selection of the market to be used as the basis for normal value. #####
 
-Link to an amendment published at 89 FR 101764, Dec. 16, 2024.
-
 (a) *Introduction.* Although in most circumstances sales of the foreign like product in the home market are the most appropriate basis for determining normal value, section 773 of the Act also permits use of sales to a third country or constructed value as the basis for normal value. This section clarifies the rules for determining the basis for normal value.
 
 (b) *Determination of viable market*—(1) *In general.* The Secretary will consider the exporting country or a third country as constituting a viable market if the Secretary is satisfied that sales of the foreign like product in that country are of sufficient quantity to form the basis of normal value.
@@ -32,4 +30,10 @@ Link to an amendment published at 89 FR 101764, Dec. 16, 2024.
 
 (f) *Third country sales and constructed value.* The Secretary normally will calculate normal value based on sales to a third country rather than on constructed value if adequate information is available and verifiable (*see* section 773(a)(4) of the Act (use of constructed value)).
 
-[62 FR 27379, May 19, 1997, as amended at 88 FR 67080, Sept. 29, 2023]
+(g) *Special rule for certain multinational corporations.* In the course of an antidumping investigation, if the Secretary determines that the factors listed in section 773(d) of the Act are present, the Secretary will apply the special rule for certain multinational corporations and determine the normal value of the subject merchandise by reference to the normal value at which the foreign like product is sold in substantial quantities from one or more facilities outside the exporting country. In making a determination under this provision, the following will apply:
+
+(1) Interested parties alleging that the Secretary should apply the special rule for certain multinational corporations must submit the allegation in accordance with the filing requirements set forth in § 351.301(c)(2)(i).
+
+(2) If the Secretary determines that the non-exporting country at issue is a nonmarket economy country and, in accordance with § 351.408, normal value would be determined using a factors of production methodology if the special rule for certain multinational corporations was applied, the Secretary will not apply the special rule for certain multinational corporations.
+
+[62 FR 27379, May 19, 1997, as amended at 88 FR 67080, Sept. 29, 2023; 89 FR 101764, Dec. 16, 2024]

@@ -1,0 +1,3 @@
+##### § 260.17 Retention and provision of inspection certificates. #####
+
+Inspection certificate copies or other documents issued under the regulations in this part shall be retained by the Agency in accordance with Agency record retention policies. The original certificate (electronic or other) or copy is provided to the inspection service requester, and copies may be provided to other interested parties as identified by the Agency.

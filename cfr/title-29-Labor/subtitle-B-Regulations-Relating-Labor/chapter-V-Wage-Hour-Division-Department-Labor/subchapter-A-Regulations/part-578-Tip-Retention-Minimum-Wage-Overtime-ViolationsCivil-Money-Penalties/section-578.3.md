@@ -1,10 +1,8 @@
 ##### § 578.3 What types of violations may result in a penalty being assessed? #####
 
-Link to an amendment published at 90 FR 1861, Jan. 10, 2025.
+(a) *In general.* (1) A penalty of up to $1,409 per violation may be assessed against any person who violates section 3(m)(2)(B) of the Act.
 
-(a) *In general.* (1) A penalty of up to $1,373 per violation may be assessed against any person who violates section 3(m)(2)(B) of the Act.
-
-(2) A penalty of up to $2,451 per violation may be assessed against any person who repeatedly or willfully violates section 6 (minimum wage) or section 7 (overtime) of the Act. The amount of the penalties stated in paragraphs (a)(1) and (2) of this section will be determined by applying the criteria in § 578.4.
+(2) A penalty of up to $2,515 per violation may be assessed against any person who repeatedly or willfully violates section 6 (minimum wage) or section 7 (overtime) of the Act. The amount of the penalties stated in paragraphs (a)(1) and (2) of this section will be determined by applying the criteria in § 578.4.
 
 (b) *Repeated violations.* An employer's violation of section 6 or section 7 of the Act shall be deemed to be “repeated” for purposes of this section:
 
@@ -18,4 +16,4 @@ Link to an amendment published at 90 FR 1861, Jan. 10, 2025.
 
 (3) For purposes of this section, reckless disregard of the requirements of the Act means, among other situations, that the employer should have inquired further into whether its conduct was in compliance with the Act and failed to make adequate further inquiry.
 
-[86 FR 52986, Sept. 24, 2021, as amended at 87 FR 2335, Jan. 14, 2022; 88 FR 2217, Jan. 13, 2023; 89 FR 1816, Jan. 11, 2024]
+[86 FR 52986, Sept. 24, 2021, as amended at 87 FR 2335, Jan. 14, 2022; 88 FR 2217, Jan. 13, 2023; 89 FR 1816, Jan. 11, 2024; 90 FR 1861, Jan. 10, 2025]

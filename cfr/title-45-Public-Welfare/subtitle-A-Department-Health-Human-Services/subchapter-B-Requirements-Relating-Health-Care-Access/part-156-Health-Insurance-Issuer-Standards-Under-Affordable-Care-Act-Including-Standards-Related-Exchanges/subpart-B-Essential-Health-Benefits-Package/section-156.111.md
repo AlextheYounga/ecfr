@@ -26,7 +26,7 @@
 
 (*ii*) The plan provides minimum value, as defined under § 156.145;
 
-(*iii*) The benefits are not excepted benefits, as established under § 146.145(b), and § 148.220 of this subchapter; and
+(*iii*) The benefits are not excepted benefits, as established under §§ 146.145(b), and 148.220 of this subchapter; and
 
 (*iv*) The benefits in the plan are from a plan year beginning after December 31, 2013.
 

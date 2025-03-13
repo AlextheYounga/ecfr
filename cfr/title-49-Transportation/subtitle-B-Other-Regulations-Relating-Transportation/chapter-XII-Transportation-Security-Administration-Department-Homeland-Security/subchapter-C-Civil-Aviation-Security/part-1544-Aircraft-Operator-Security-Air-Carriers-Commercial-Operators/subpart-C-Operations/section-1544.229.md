@@ -192,15 +192,13 @@ This section applies to each aircraft operator operating under a full program, a
 
 (4) Others designated by TSA.
 
-(k) *Recordkeeping.* The aircraft operator must maintain the following information.
+(k) *Recordkeeping.* The aircraft operator must maintain the following information associated with an individual's current identification (ID) media, CHRC certification, or authorization to perform a covered function in electronic or paper form, as authorized by TSA:
 
-(1) *Investigation conducted before December 6, 2001.* The aircraft operator must maintain and control the access or employment history investigation files, including the criminal history records results portion, for investigations conducted before December 6, 2001.
+(1) *Fingerprint application.* The aircraft operator must physically maintain, control, and, as appropriate, destroy the fingerprint application and the criminal record. Only direct aircraft operator employees may carry out the responsibility for maintaining, controlling, and destroying criminal records.
 
-(2) *Fingerprint application process on or after December 6, 2001.* The aircraft operator must physically maintain, control, and, as appropriate, destroy the fingerprint application and the criminal record. Only direct aircraft operator employees may carry out the responsibility for maintaining, controlling, and destroying criminal records.
+(2) *Protection of records.* The records required by this section must be maintained in a manner that is acceptable to TSA and in a manner that protects the confidentiality of the individual.
 
-(3) *Protection of records—all investigations.* The records required by this section must be maintained in a manner that is acceptable to TSA and in a manner that protects the confidentiality of the individual.
-
-(4) *Duration—all investigations.* The records identified in this section with regard to an individual must be maintained until 180 days after the termination of the individual's authority to perform a covered function. When files are no longer maintained, the criminal record must be destroyed.
+(3) *Duration.* The records identified in this section with regard to an individual must be maintained until 180 days after the termination of the individual's authority to perform a covered function. When files are no longer maintained, the criminal record must be destroyed.
 
 (l) *Continuing responsibilities.* (1) Each individual with unescorted access authority or the authority to perform screening functions on December 6, 2001, who had a disqualifying criminal offense in paragraph (d) of this section on or after December 6, 1991, must, by January 7, 2002, report the conviction to the aircraft operator and surrender the SIDA access medium to the issuer and cease performing screening functions, as applicable.
 
@@ -220,4 +218,4 @@ This section applies to each aircraft operator operating under a full program, a
 
 (4) Audit the employment history investigations performed in accordance with this section and 14 CFR 108.33 in effect prior to November 14, 2001 (see 14 CFR parts 60 to 139 revised as of January 1, 2001). The aircraft operator must set forth the audit procedures in its security program.
 
-[67 FR 8364, Feb. 22, 2002, as amended at 71 FR 30511, May 26, 2006]
+[67 FR 8364, Feb. 22, 2002, as amended at 71 FR 30511, May 26, 2006; 90 FR 3719, Jan. 15, 2025]

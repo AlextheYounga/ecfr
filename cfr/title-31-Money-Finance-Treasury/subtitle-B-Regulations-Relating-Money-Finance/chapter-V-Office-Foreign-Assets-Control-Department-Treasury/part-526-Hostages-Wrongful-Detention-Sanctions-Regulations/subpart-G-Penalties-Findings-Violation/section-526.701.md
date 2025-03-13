@@ -4,7 +4,7 @@
 
 (1) A civil penalty not to exceed the amount set forth in section 206 of IEEPA may be imposed on any person who violates, attempts to violate, conspires to violate, or causes a violation of any regulation in this part, ruling, instruction, order, directive, license, or prohibition issued under IEEPA.
 
-(2) IEEPA provides for a maximum civil penalty not to exceed the greater of $356,579 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+(2) IEEPA provides for a maximum civil penalty not to exceed the greater of $365,843 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
 
 (3) A person who willfully commits, willfully attempts to commit, willfully conspires to commit, or aids or abets in the commission of a violation of any regulation in this part, ruling, instruction, order, directive, or license, or prohibition may, upon conviction, be fined not more than $1,000,000, or if a natural person, be imprisoned for not more than 20 years, or both.
 
@@ -15,3 +15,5 @@
 (c) Pursuant to 18 U.S.C. 1001, whoever, in any matter within the jurisdiction of the executive, legislative, or judicial branch of the Government of the United States, knowingly and willfully falsifies, conceals, or covers up by any trick, scheme, or device a material fact; or makes any materially false, fictitious, or fraudulent statement or representation; or makes or uses any false writing or document knowing the same to contain any materially false, fictitious, or fraudulent statement or entry shall be fined under title 18, United States Code, imprisoned, or both.
 
 (d) Violations of this part may also be subject to other applicable laws.
+
+[88 FR 44054, July 11, 2023, as amended at 90 FR 3690, Jan. 15, 2025]

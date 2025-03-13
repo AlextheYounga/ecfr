@@ -6,4 +6,6 @@ A qualified health plan (QHP) issuer in a Federally-facilitated Exchange or a St
 
 (b) For plan year 2024 and subsequent plan years, offer in the individual market at least one standardized QHP option, defined at § 155.20 of this subchapter, at every product network type, as the term is described in the definition of “product” at § 144.103 of this subchapter, at every metal level except the non-expanded bronze metal level, and throughout every service area that it also offers non-standardized QHP options, including, for silver plans, for the income-based cost-sharing reduction plan variations, as provided for at § 156.420(a).
 
-[88 FR 25921, Apr. 27, 2023]
+(c) For plan year 2026 and subsequent plan years, an issuer that offers multiple standardized plan options within the same product network type, metal level, and service area must meaningfully differentiate these plans from one another in terms of included benefits, provider networks, included prescription drugs, or a combination of some or all these factors. For the purposes of this standard, a standardized plan option with a different product ID, provider network ID, drug list ID, or a combination of some or all these factors, would be considered meaningfully different.
+
+[88 FR 25921, Apr. 27, 2023, as amended at 90 FR 4541, Jan. 15, 2025]

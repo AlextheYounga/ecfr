@@ -1,7 +1,5 @@
 ##### § 351.213 Administrative review of orders and suspension agreements under section 751(a)(1) of the Act. #####
 
-Link to an amendment published at 89 FR 101762, Dec. 16, 2024.
-
 (a) *Introduction.* As noted in § 351.212(a), the United States has a “retrospective” assessment system under which final liability for antidumping and countervailing duties is determined after merchandise is imported. Although duty liability may be determined in the context of other types of reviews, the most frequently used procedure for determining final duty liability is the administrative review procedure under section 751(a)(1) of the Act. This section contains rules regarding requests for administrative reviews and the conduct of such reviews.
 
 (b) *Request for administrative review.* (1) Each year during the anniversary month of the publication of an antidumping or countervailing duty order, a domestic interested party or an interested party described in section 771(9)(B) of the Act (foreign government) may request in writing that the Secretary conduct an administrative review under section 751(a)(1) of the Act of specified individual exporters or producers covered by an order (except for a countervailing duty order in which the investigation or prior administrative review was conducted on an aggregate basis), if the requesting person states why the person desires the Secretary to review those particular exporters or producers.
@@ -38,7 +36,7 @@ Link to an amendment published at 89 FR 101762, Dec. 16, 2024.
 
 (ii) For requests received during the first anniversary month after publication of an order or suspension of investigation, an administrative review under this section will cover entries or exports, as appropriate, during the period from the date of suspension of liquidation under this part or suspension of investigation to the end of the most recently completed calendar or fiscal year as described in paragraph (e)(2)(i) of this section.
 
-(f) *Voluntary respondents.* In an administrative review, the Secretary will examine voluntary respondents in accordance with section 782(a) of the Act and § 351.204(d).
+(f) *Limiting exporters or producers examined and voluntary respondents.* Once the Secretary has initiated an antidumping or countervailing duty administrative review, the Secretary may determine that it is not practicable to examine each known exporter or producer. In accordance with § 351.109(c), the Secretary may select a limited number of exporters or producers to examine. Furthermore, in accordance with section 782(a) of the Act and § 351.109(h), the Secretary may determine to examine voluntary respondents.
 
 (g) *Procedures.* The Secretary will conduct an administrative review under this section in accordance with § 351.221.
 
@@ -73,3 +71,5 @@ Link to an amendment published at 89 FR 101762, Dec. 16, 2024.
 (2) *Application of country-wide subsidy rate.* With the exception of assessment and cash deposit rates of zero determined under paragraph (k)(1) of this section, if, in the final results of an administrative review under this section of a countervailing duty order, the Secretary calculates a single country-wide subsidy rate under section 777A(e)(2)(B) of the Act, that rate will supersede, for cash deposit purposes, all rates previously determined in the countervailing duty proceeding in question.
 
 (l) *Exception from assessment in regional industry cases.* For procedures relating to a request for the exception from the assessment of antidumping or countervailing duties in a regional industry case, see § 351.212(f).
+
+[62 FR 27379, May 19, 1997, as amended at 89 FR 101762, Dec. 16, 2024]

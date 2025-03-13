@@ -1,0 +1,3 @@
+##### § 260.11 Order of inspection service. #####
+
+Inspection services shall be performed, insofar as practicable, in the order in which Application for Inspection Service is made, except that precedence is given first to the United States (including, but not limited to, any instrumentality or agency thereof); second, to an inspection contract holder; and third, to an interested party without an inspection contract.

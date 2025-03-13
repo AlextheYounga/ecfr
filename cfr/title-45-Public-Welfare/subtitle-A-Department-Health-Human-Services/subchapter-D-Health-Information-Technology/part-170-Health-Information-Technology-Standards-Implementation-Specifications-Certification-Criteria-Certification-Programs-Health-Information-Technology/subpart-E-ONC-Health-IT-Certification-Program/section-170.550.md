@@ -1,7 +1,5 @@
 ##### § 170.550 Health IT Module certification. #####
 
-Link to an amendment published at 89 FR 101810, Dec. 16, 2024.
-
 (a) *Certification scope.* When certifying Health IT Module(s), an ONC-ACB must certify in accordance with the applicable certification criteria adopted by the Secretary at subpart C of this part.
 
 (b) *Health IT product scope options.* An ONC-ACB must provide the option for an Health IT Module(s) to be certified solely to the applicable certification criteria adopted by the Secretary at subpart C of this part.
@@ -36,7 +34,7 @@ Link to an amendment published at 89 FR 101810, Dec. 16, 2024.
 
 (3) *Applicability.* (i) Section 170.315(a)(1) through (3), (5), (12), (14), and (15) are also certified to the certification criteria specified in § 170.315(d)(1) through (7), (d)(12), and (13).
 
-(ii) Section 170.315(a)(4), (9), (10), and (13) are also certified to the certification criteria specified in § 170.315(d)(1) through (3), and (d)(5) through (7), (d)(12), and (13).
+(ii) Section 170.315(a)(4), (10), and (13) and, on and after January 1, 2028, (b)(11), are also certified to the certification criteria specified in § 170.315(d)(1) through (3), (5) through (7), and (12), and, for the time period up to and including December 31, 2027, (d)(13).
 
 (iii) Section 170.315(b)(1) through (3) and (6) through (9) are also certified to the certification criteria specified in § 170.315(d)(1) through (3) and (d)(5) through (8), (12), and (13);
 
@@ -51,6 +49,12 @@ Link to an amendment published at 89 FR 101810, Dec. 16, 2024.
 (viii) Section 170.315(g)(7) through (10) is also certified to the certification criteria specified in § 170.315(d)(1), (9), (12), and (13); and (d)(2)(i)(A) and (B), (d)(2)(ii) through (v), or (d)(10);
 
 (ix) Section 170.315(h) is also certified to the certification criteria specified in § 170.315(d)(1), (d)(2)(i)(A) and (B), (d)(2)(ii) through (v), (d)(3), (12), and (13); and
+
+(4) *Methods to demonstrate compliance with each privacy and security criterion.* One of the following methods must be used to meet each applicable privacy and security criterion listed in paragraph (h)(3) of this section:
+
+(i) Directly, by demonstrating a technical capability to satisfy the applicable certification criterion or certification criteria; or
+
+(ii) Demonstrate, through system documentation sufficiently detailed to enable integration, that the Health IT Module has implemented service interfaces for each applicable privacy and security certification criterion that enable the Health IT Module to access external services necessary to meet the privacy and security certification criterion.
 
 (i) [Reserved]
 
@@ -72,4 +76,4 @@ Link to an amendment published at 89 FR 101810, Dec. 16, 2024.
 
 (3) Section 170.315(g)(8) for the period before December 31, 2022.
 
-[76 FR 1325, Dec. 7, 2011, as amended at 77 FR 54291, Sept. 4, 2012; 79 FR 54480, Sept. 11, 2014; 80 FR 62757, Oct. 16, 2015; 85 FR 25952, May 1, 2020; 85 FR 70085, Nov. 4, 2020; 89 FR 1435, Jan. 9, 2024; 89 FR 8549, Feb. 8, 2024]
+[76 FR 1325, Dec. 7, 2011, as amended at 77 FR 54291, Sept. 4, 2012; 79 FR 54480, Sept. 11, 2014; 80 FR 62757, Oct. 16, 2015; 85 FR 25952, May 1, 2020; 85 FR 70085, Nov. 4, 2020; 89 FR 1435, Jan. 9, 2024; 89 FR 8549, Feb. 8, 2024; 89 FR 101810, Dec. 16, 2024]

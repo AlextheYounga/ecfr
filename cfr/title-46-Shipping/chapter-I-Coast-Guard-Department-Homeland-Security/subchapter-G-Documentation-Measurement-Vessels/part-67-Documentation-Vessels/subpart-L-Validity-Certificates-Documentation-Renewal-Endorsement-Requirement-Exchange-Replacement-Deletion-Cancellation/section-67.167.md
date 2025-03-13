@@ -1,8 +1,6 @@
 ##### § 67.167 Requirement for exchange of Certificate of Documentation. #####
 
-Link to an amendment published at 89 FR 101499, Dec. 16, 2024.
-
-(a) When application for exchange of the Certificate of Documentation is required upon the occurrence of one or more of the events described in paragraphs (b), (c), or (d) of this section, or the owner of the vessel chooses to apply for exchange of the Certificate pursuant to paragraph (e) of this section, the owner must send or deliver the Certificate to the National Vessel Documentation Center, and apply for an exchange of the Certificate in accordance with subpart K of this part.
+(a) When application for exchange of the Certificate of Documentation is required upon the occurrence of one or more of the events described in paragraph (b), (c), or (d) of this section, or the owner of the vessel chooses to apply for exchange of the Certificate pursuant to paragraph (e) of this section, the owner must apply for an exchange of the Certificate in accordance with subpart K of this part.
 
 (b) A Certificate of Documentation together with any endorsement(s) thereon becomes invalid immediately, except as provided in § 67.161, when:
 
@@ -50,4 +48,4 @@ Link to an amendment published at 89 FR 101499, Dec. 16, 2024.
 
 (f) A Certificate of Documentation which becomes invalid pursuant to paragraph (c) of this section remains valid for the purposes of filing a new mortgage or amendment, assignment, assumption, or subordination agreement for 30 days after the date it would otherwise have become invalid.
 
-[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993; 58 FR 65131, Dec. 13, 1993, as amended by CGD 95-014, 60 FR 31604, June 15, 1995; USCG-2001-8825, 69 FR 5401, Feb. 4, 2004; USCG-2005-20258, 71 FR 61418, Oct. 18, 2006; USCG-2016-0531, 82 FR 43864, Sept. 20, 2017]
+[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993; 58 FR 65131, Dec. 13, 1993, as amended by CGD 95-014, 60 FR 31604, June 15, 1995; USCG-2001-8825, 69 FR 5401, Feb. 4, 2004; USCG-2005-20258, 71 FR 61418, Oct. 18, 2006; USCG-2016-0531, 82 FR 43864, Sept. 20, 2017; USCG-2023-0584, 89 FR 101499, Dec. 16, 2024]

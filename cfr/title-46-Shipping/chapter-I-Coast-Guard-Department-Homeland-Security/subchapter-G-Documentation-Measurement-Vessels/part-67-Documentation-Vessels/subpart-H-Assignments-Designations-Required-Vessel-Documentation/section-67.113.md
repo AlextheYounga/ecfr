@@ -1,7 +1,5 @@
 ##### § 67.113 Managing owner designation; address; requirement to report change of address. #####
 
-Link to an amendment published at 89 FR 101499, Dec. 16, 2024.
-
 The owner of each vessel must designate a managing owner on the Application for Initial Issue, Exchange, or Replacement of Certificate of Documentation; or Redocumentation (CG-1258).
 
 (a) The managing owner of a vessel owned by one person is the owner of the vessel.
@@ -26,6 +24,6 @@ The owner of each vessel must designate a managing owner on the Application for 
 
 (ii) Of its principal place of business.
 
-(e) Whenever the address of the managing owner changes, the managing owner shall notify the Director, National Vessel Documentation Center within 10 days.
+(e) Whenever the address of the managing owner changes, the managing owner shall notify the Director, National Vessel Documentation Center within 30 days.
 
-[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993; 58 FR 65131, Dec. 13, 1993, as amended by CGD 95-014, 60 FR 31604, June 15, 1995; USCG-1998-4442, 63 FR 52190, Sept. 30, 1998]
+[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993; 58 FR 65131, Dec. 13, 1993, as amended by CGD 95-014, 60 FR 31604, June 15, 1995; USCG-1998-4442, 63 FR 52190, Sept. 30, 1998; Docket No. USCG-2023-0584, 89 FR 101499, Dec. 16, 2024]

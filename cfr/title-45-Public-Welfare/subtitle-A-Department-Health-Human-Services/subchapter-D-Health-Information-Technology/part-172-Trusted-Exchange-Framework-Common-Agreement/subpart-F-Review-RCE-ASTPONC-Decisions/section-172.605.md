@@ -1,0 +1,9 @@
+##### § 172.605 Assignment of a hearing officer. #####
+
+(a) On receipt of an appeal under § 172.603, ASTP/ONC may exercise its authority under § 172.601 to review an RCE determination being appealed. If ASTP/ONC exercises its authority under § 172.601 to review an RCE determination that required ONC's prior authorization under this part, no ASTP/ONC officer, employee, or agent who was engaged with helping to evaluate or decide the prior authorization, or a prior authorization involving the same party(s) or underlying facts, may participate in deciding or advising ASTP/ONC on its review of that determination. An appealing QHIN or Applicant QHIN that is not satisfied with ASTP/ONC's subsequent determination may appeal that determination to a hearing officer by filing a new notice of appeal and other appeal documents that comply with § 172.603.
+
+(b) If ASTP/ONC declines review under paragraph (a) of this section, or if ASTP/ONC made the determination under review, ASTP/ONC will arrange for assignment of the case to a hearing officer to adjudicate the appeal.
+
+(c) The hearing officer must be an officer appointed by the Secretary of Health and Human Services.
+
+(d) The hearing officer may not be responsible to, or subject to the supervision or direction of, personnel engaged in the performance of investigative or prosecutorial functions for ASTP/ONC, nor may any officer, employee, or agent of ASTP/ONC engaged in investigative or prosecutorial functions in connection with any adjudication, in that adjudication or one that is factually related, participate or advise in the decision of the hearing officer, except as a counsel to ASTP/ONC or as a witness.

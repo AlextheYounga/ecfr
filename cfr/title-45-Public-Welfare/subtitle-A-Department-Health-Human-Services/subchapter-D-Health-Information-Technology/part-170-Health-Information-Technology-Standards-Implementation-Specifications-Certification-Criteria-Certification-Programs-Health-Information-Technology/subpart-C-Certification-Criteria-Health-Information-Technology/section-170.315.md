@@ -1,7 +1,5 @@
 ##### § 170.315 ONC certification criteria for Health IT. #####
 
-Link to an amendment published at 89 FR 101809, Dec. 16, 2024.
-
 The Secretary adopts the following certification criteria for health IT. Health IT must be able to electronically perform the following capabilities in accordance with applicable standards and implementation specifications adopted in this part. For all criteria in this section, a health IT developer with a Health IT Module certified to any revised certification criterion, as defined in § 170.102, shall update the Health IT Module and shall provide such update to their customers in accordance with the dates identified for each revised certification criterion and for each applicable standard in 45 CFR part 170 subpart B.
 
 (a) *Clinical*—(1) *Computerized provider order entry—medications.* (i) Enable a user to record, change, and access medication orders.
@@ -100,23 +98,11 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (vi) *Expiration of criterion.* The adoption of this criterion for purposes of the ONC Health IT Certification Program expires on January 1, 2025.
 
-(10) *Drug-formulary and preferred drug list checks.* The requirements specified in one of the following paragraphs (that is, paragraphs (a)(10)(i) and (a)(10)(ii) of this section) must be met to satisfy this certification criterion:
-
-(i) *Drug formulary checks.* Automatically check whether a drug formulary exists for a given patient and medication.
-
-(ii) *Preferred drug list checks.* Automatically check whether a preferred drug list exists for a given patient and medication.
-
-(11) [Reserved]
+(10)-(11) [Reserved]
 
 (12) *Family health history.* Enable a user to record, change, and access a patient's family health history in accordance with the familial concepts or expressions included in, at a minimum, the version of the standard in § 170.207(a)(1).
 
-(13) *Patient-specific education resources.* (i) Identify patient-specific education resources based on data included in the patient's problem list and medication list in accordance with at least one of the following standards and implementation specifications:
-
-(A) The standard and implementation specifications specified in § 170.204(b)(3).
-
-(B) The standard and implementation specifications specified in § 170.204(b)(4).
-
-(ii) *Optional.* Request that patient-specific education resources be identified in accordance with the standard in § 170.207(g)(2).
+(13) [Reserved]
 
 (14) *Implantable device list.* (i) Record Unique Device Identifiers associated with a patient's Implantable Devices.
 
@@ -388,57 +374,11 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (F) Always insert leading zeroes before the decimal point for amounts less than one and must not allow trailing zeroes after a decimal point when a user prescribes medications.
 
-(4)-(5) [Reserved]
+(4)-(6) [Reserved]
 
-(6) *Data export*—(i) *General requirements for export summary configuration.* (A) Enable a user to set the configuration options specified in paragraphs (b)(6)(iii) and (iv) of this section when creating an export summary as well as a set of export summaries for patients whose information is stored in the technology. A user must be able to execute these capabilities at any time the user chooses and without subsequent developer assistance to operate.
+(7) *Security tags—summary of care—send.* Enable a user to create a summary record formatted in accordance with the standard adopted in § 170.205(a)(4) that is tagged as restricted and subject to restrictions on re-disclosure according to the standard adopted in § 170.205(o)(1) at the document, section, and entry (data element) level.
 
-(B) Limit the ability of users who can create export summaries in at least one of these two ways:
-
-(*1*) To a specific set of identified users.
-
-(*2*) As a system administrative function.
-
-(ii) *Creation.* Enable a user to create export summaries formatted in accordance with the standard specified in § 170.205(a)(4) using the Continuity of Care Document document template that includes, at a minimum:
-
-(A) The Common Clinical Data Set.
-
-(B) *Encounter diagnoses.* Formatted according to at least one of the following standards:
-
-(*1*) The standard specified in § 170.207(i).
-
-(*2*) At a minimum, the version of the standard specified in § 170.207(a)(1).
-
-(C) Cognitive status.
-
-(D) Functional status.
-
-(E) *Ambulatory setting only.* The reason for referral; and referring or transitioning provider's name and office contact information.
-
-(F) *Inpatient setting only.* Discharge instructions.
-
-(iii) *Timeframe configuration.* (A) Enable a user to set the date and time period within which data would be used to create the export summaries. This must include the ability to enter in a start and end date and time range.
-
-(B) Consistent with the date and time period specified in paragraph (b)(6)(iii)(A) of this section, enable a user to do each of the following:
-
-(*1*) Create export summaries in real-time;
-
-(*2*) Create export summaries based on a relative date and time (*e.g.*, the first of every month at 1:00 a.m.); and
-
-(*3*) Create export summaries based on a specific date and time (*e.g.*, on 10/24/2015 at 1:00 a.m.).
-
-(iv) *Location configuration.* Enable a user to set the storage location to which the export summary or export summaries are intended to be saved.
-
-(7) *Security tags—summary of care—send.* Enable a user to create a summary record formatted in accordance with the standard adopted in § 170.205(a)(4) that is tagged as restricted and subject to restrictions on re-disclosure according to the standard adopted in § 170.205(o)(1) at the:
-
-(i) Document, section, and entry (data element) level; or
-
-(ii) Document level for the period before December 31, 2022.
-
-(8) *Security tags—summary of care—receive.* (i) Enable a user to receive a summary record that is formatted in accordance with the standard adopted in § 170.205(a)(4) that is tagged as restricted and subject to restrictions on re-disclosure according to the standard adopted in § 170.205(o)(1) at the:
-
-(A) Document, section, and entry (data element) level; or
-
-(B) Document level for the period before December 31, 2022; and
+(8) *Security tags—summary of care—receive.* (i) Enable a user to receive a summary record that is formatted in accordance with the standard adopted in § 170.205(a)(4) that is tagged as restricted and subject to restrictions on re-disclosure according to the standard adopted in § 170.205(o)(1) at the document, section, and entry (data element) level; and
 
 (ii) Preserve privacy markings to ensure fidelity to the tagging based on consent and with respect to sharing and re-disclosure restrictions.
 
@@ -834,7 +774,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (iii) *Request for restrictions.* Patients (and their authorized representatives) must be able to use an internet-based method to request a restriction to be applied for any data expressed in the standards in § 170.213. Conformance with this paragraph is required by January 1, 2026.
 
-(2) *Secure messaging.* Enable a user to send messages to, and receive messages from, a patient in a secure manner.
+(2) [Reserved]
 
 (3) *Patient health information capture.* Enable a user to:
 
@@ -908,7 +848,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (g) *Design and performance*—(1) *Automated numerator recording.* For each Promoting Interoperability Programs percentage-based measure, technology must be able to create a report or file that enables a user to review the patients or actions that would make the patient or action eligible to be included in the measure's numerator. The information in the report or file created must be of sufficient detail such that it enables a user to match those patients or actions to meet the measure's denominator limitations when necessary to generate an accurate percentage.
 
-(2) *Automated measure calculation.* For each Promoting Interoperability Programs percentage-based measure that is supported by a capability included in a technology, record the numerator and denominator and create a report including the numerator, denominator, and resulting percentage associated with each applicable measure.
+(2) [Reserved]
 
 (3) *Safety-enhanced design.* (i) User-centered design processes must be applied to each capability technology includes that is specified in the following certification criteria: paragraphs (a)(1) through (5), (9) (until the criterion's expiration date), and (14) and (b)(2), (3), and (11) of this section.
 
@@ -1094,4 +1034,4 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (ii) *Delivery Notification in Direct.* Able to send and receive health information in accordance with the standard specified in § 170.202(e)(1).
 
-[80 FR 62747, Oct. 16, 2015, as amended at 80 FR 76871, Dec. 11, 2015; 85 FR 25941, May 1, 2020; 85 FR 47099, Aug. 4, 2020; 85 FR 70083, Nov. 4, 2020; 85 FR 78236, Dec. 4, 2020; 89 FR 1429, Jan. 9, 2024; 89 FR 8548, Feb. 8, 2024; 89 FR 16470, Mar. 7, 2024]
+[80 FR 62747, Oct. 16, 2015, as amended at 80 FR 76871, Dec. 11, 2015; 85 FR 25941, May 1, 2020; 85 FR 47099, Aug. 4, 2020; 85 FR 70083, Nov. 4, 2020; 85 FR 78236, Dec. 4, 2020; 89 FR 1429, Jan. 9, 2024; 89 FR 8548, Feb. 8, 2024; 89 FR 16470, Mar. 7, 2024; 89 FR 101809, Dec. 16, 2024]

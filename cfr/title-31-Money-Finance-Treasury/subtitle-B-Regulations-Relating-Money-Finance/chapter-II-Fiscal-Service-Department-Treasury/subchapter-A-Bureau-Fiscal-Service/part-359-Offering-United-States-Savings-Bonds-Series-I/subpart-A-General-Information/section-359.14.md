@@ -2,7 +2,7 @@
 
 Composite rates are set according to the following formula (See appendix A to part 359 for examples of calculations involving composite interest rates.):
 
-Composite rate = {(Fixed rate ÷ 2) + Semiannual inflation rate + [Semiannual inflation rate × (Fixed rate ÷ 2)]} × 2. 2
+Composite rate = {(Fixed rate ÷ 2) + Semiannual inflation rate + [Semiannual inflation rate × (Fixed rate ÷ 2)]} × 2.2
 
 2 Example for I bonds issued May 2002-October 2002:
 

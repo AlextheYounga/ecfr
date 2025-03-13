@@ -1,8 +1,6 @@
 ##### § 1400.3 Request for determination. #####
 
-Link to an amendment published at 89 FR 101467, Dec. 16, 2024.
-
-A group wishing to apply for designation as socially or economically disadvantaged under Executive Order 11625 shall submit a written application to the Director of the Minority Business Development Agency, United States Department of Commerce, Washington, DC, 20230, containing the following information:
+A group wishing to apply for designation as socially or economically disadvantaged under this part shall submit a written application to the Director of the Minority Business Development Agency, United States Department of Commerce, Washington, DC, 20230, containing the following information:
 
 (a) *Statement of request:* a brief statement clearly indicating that the applicant seeks formal recognition as socially or economically disadvantaged.
 
@@ -12,8 +10,10 @@ A group wishing to apply for designation as socially or economically disadvantag
 
 (d) *Presentation of argument:* a narrative description of the documentation in support of their claim of social or economic disadvantage.
 
-(Applicants should support their claim of social or economic disadvantage with the criteria described under 1400.4 “Evidence of Social or Economic Disadvantage”)
+Note 1 to paragraph (d):
+
+Applicants should support their claim of social or economic disadvantage with the criteria described under 1400.4 “Evidence of Social or Economic Disadvantage”
 
 (e) *Conclusion:* summary of applicant's arguments in support of the claims of social or economic disadvantage.
 
-(Approved by the Office of Management and Budget under control number 0640-0011)
+(Approved by the Office of Management and Budget under control number 0640-0011)[49 FR 42698, Oct. 24, 1984, as amended at 89 FR 101467, Dec. 16, 2024]

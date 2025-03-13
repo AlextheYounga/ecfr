@@ -1,6 +1,6 @@
 ##### § 144.202 Definitions. #####
 
-As used in this Subpart—
+As used in this subpart—
 
 *Partnership qualified policy* refers to a qualified long-term care insurance policy issued under a qualified State long-term care insurance partnership.
 

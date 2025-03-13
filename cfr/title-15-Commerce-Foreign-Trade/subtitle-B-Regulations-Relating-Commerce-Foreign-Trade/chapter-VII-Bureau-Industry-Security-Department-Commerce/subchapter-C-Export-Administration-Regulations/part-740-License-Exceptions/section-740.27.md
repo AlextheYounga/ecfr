@@ -1,0 +1,37 @@
+##### § 740.27 License Exception Artificial Intelligence Authorization (AIA). #####
+
+(a) *Scope.* This license exception authorizes the export, reexport, and transfer (in-country) of the items identified in paragraphs (a)(1) and (a)(2)(i) of this section to entities located within destinations listed in paragraph (a) of supplement no. 5 to this part, unless the entity is headquartered outside of, or has an ultimate parent company headquartered outside of, a destination specified in paragraph (a) of supplement no. 5 to this part, with an additional authorization for certain model weights in paragraph (a)(3) of this section, subject to additional conditions. This license exception cannot be used to provide items identified in paragraph (a)(1) of this section to entities headquartered outside of or located outside of paragraph (a) in supplement no. 5 to this part for training AI models specified in ECCN 4E091. Prior to export, reexport, or transfer (in-country) of eligible items in paragraph (a)(1) of this section, the exporter, reexporter, or transferor must obtain the certification described in (b)(2) of this section and submit it to BIS.
+
+(1) Eligible commodities for this exception are: ECCNs 3A001.z.1.a, z.2.a, z.3.a, z.4.a; 3A090.a; 4A003.z.1.a, z.2.a; 4A004.z.1; 4A005.z.1; 4A090.a; 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a; 5A004.z.1.a, z.2.a; 5A992.z.1; 5A004.z.1.a, z.2.a; and 5A992.z.1.
+
+(2) Eligible software and technology for this exception are:
+
+(i) Advanced Integrated Circuits: 3D001 (for “software” for commodities controlled by 3A001.z.1.a, z.2.a, z.3.a, z.4.a and 3A090.a); 4D001 (for “software” for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, and 4A005.z.1); 4D090 (for “software” for commodities controlled by 4A090.a); 4E001 (for “technology” for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, 4A005.z.1, 4A090.a or “software” specified by 4D001 (for 4A003.z.1.a, z.2.a 4A004.z.1, and 4A005.z.1) or 4D090.a); ; 5D002.z.1.a z.2.a, z.3.a, z.4.a, z.5.a, z.6.a, z.7.a, z.8.a, and z.9.a, or 5D992.z.1; 5E002 (for “technology” for commodities controlled by 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a or “software” specified by 5D002 (for 5A002. z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a commodities)); and 5E992 (for “technology” for commodities controlled by 5A992.z.1 or “software” controlled by 5D992.z.1.)
+
+(ii) AI Model Weights specified by ECCN 4E091, subject to the additional requirements in paragraph (a)(3) of this section.
+
+(3) Additional authorization for AI model weights. For items identified in paragraph (a)(2)(ii) of this section only, this license exception also authorizes the export, reexport, and transfer (in-country) to entities headquartered, or whose ultimate parent company is headquartered, in the destinations listed in paragraph (a) of supplement no. 5 to this part 740, as long as:
+
+(i) The entities obtaining the items are located outside Macau or destinations specified in Country Group D:5, and
+
+(ii) These items will be stored in a facility that complies with paragraphs 14, 15 and 18 of the guidelines outlined in supplement no. 10 to part 748 (regardless of whether the facility is designated as a VEU).
+
+(b) *Requirements prior to use of this license exception for eligible commodities, software, and technology identified in paragraphs (a)(1) and (a)(2)(i) of this section*—(1) *Furnish ECCN.* The exporter, reexporter, or transferor must furnish to the ultimate consignee the ECCN of each item to be exported, reexported, or transferred (in-country) pursuant to this section. Once furnished to a particular ultimate consignee, the ECCN need not be refurnished to that same ultimate consignee at the time the same exporter, reexporter, or transferor makes an additional export, reexport, or transfer (in-country) of the same item, if the ECCN(s) remains accurate at the time of the additional export, reexport, or transfer (in-country). For purposes of this license exception, the ultimate consignee is the entity that has ownership over the eligible item(s) in paragraph (a)(1) or (a)(2)(ii).
+
+(2) *Ultimate consignee certification.* Prior to use of this license exception for items identified in (a)(1) only, the exporter, reexporter, or transferor must obtain a certification from the ultimate consignee. The certification is a one-time certification provided by each ultimate consignee that will be receiving items through the use of this license exception. The certification should provide that: [INSERT NAME(S) OF ULTIMATE CONSIGNEE(S)]:
+
+(i) Is aware that [INSERT GENERAL DESCRIPTION AND APPLICABLE ECCN(S) OF ITEMS TO BE SHIPPED (*e.g.,* Boards classified under ECCN 4A090.a)) will be shipped pursuant to License Exception Artificial Intelligence Authorization (AIA) of the Export Administration Regulations (EAR), 15 CFR parts 730-774;
+
+(ii) Agrees not to export, reexport, or transfer (in-country) these items to any end use or end user prohibited pursuant to Part 744 of the EAR without BIS authorization;
+
+(iii) Agrees items received under this license exception are not, without prior authorization from the U.S. Department of Commerce's Bureau of Industry and Security (BIS), to be used to provide Infrastructure-as-a-Service (IaaS) access for training AI models specified in ECCN 4E091 for entities headquartered or located outside of, or whose ultimate parent company is headquartered outside of destinations listed in paragraph (a) of Supplement No. 5 to part 740;
+
+(iv) Agrees that the items received under this license exception will not be exported, reexported, or transferred (in-country) to an entity headquartered or located outside of, or whose ultimate parent company is headquartered outside of paragraph (a) of Supplement No. 5 to Part 740 without prior authorization from BIS; and
+
+(v) Inserts [NAME(S), SIGNATURE(S), AND TITLE(S) OF PERSON(S) AUTHORIZED TO SIGN THIS DOCUMENT ON BEHALF OF THE ULTIMATE CONSIGNEE, AND DATE(S) DOCUMENT IS SIGNED].
+
+(3) *Notification to ultimate consignee of AIA shipment.* With each shipment under License Exception AIA, the exporter (or reexporter or transferor as applicable), must notify the ultimate consignee in writing that the shipment is made pursuant to License Exception AIA. The notice must either specify which items are subject to License Exception AIA or state that the entire shipment is made pursuant to License Exception AIA. The notice must clearly identify the shipment to which it applies. The written notice may be conveyed by paper documents or by electronic methods such as facsimile or email.
+
+(c) *Reporting requirement.* Once the exporter, reexporter, or transferor obtains the certification from the ultimate consignee for items identified in paragraph (a)(1) only, prior to the initial export, reexport or transfer (in-country), the exporter, reexporter, or transferor must submit the certification to *EARReports@bis.doc.gov,* with the subject line: AIA Certification. Following submission of the certification, exporters, reexporters and in-country transferors are not required to sign or provide a subsequent certification if the notification described in (b)(4) is provided to the ultimate consignee. This reporting requirement is only applicable if the ultimate consignee is receiving items identified in paragraph (a)(1) with a cumulative total processing performance (TPP) of 253,000,000.
+
+[90 FR 4559, Jan. 15, 2025}

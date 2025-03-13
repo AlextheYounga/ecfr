@@ -20,4 +20,6 @@
 
 (d) *Special rule for SHOP.* Except when a QHP is decertified by the Exchange pursuant to § 155.1080, in a SHOP that certifies QHPs on a calendar-year basis, the certification shall remain in effect for the duration of any plan year beginning in the calendar year for which the QHP was certified, even if the plan year ends after the calendar year for which the QHP was certified.
 
-[77 FR 18467, Mar. 27, 2012, as amended at 80 FR 10870, Feb. 27, 2015]
+(e) *Denial of certification.* The Exchange may deny certification to any plan that does not meet the general certification criteria under § 155.1000(c).
+
+[77 FR 18467, Mar. 27, 2012, as amended at 80 FR 10870, Feb. 27, 2015; 90 FR 4541, Jan. 15, 2025]

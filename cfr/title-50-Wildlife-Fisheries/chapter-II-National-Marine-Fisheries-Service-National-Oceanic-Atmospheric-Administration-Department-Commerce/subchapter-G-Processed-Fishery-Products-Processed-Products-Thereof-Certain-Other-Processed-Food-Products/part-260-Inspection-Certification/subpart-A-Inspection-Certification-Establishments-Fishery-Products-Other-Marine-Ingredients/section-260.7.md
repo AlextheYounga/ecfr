@@ -1,0 +1,3 @@
+##### § 260.7 Rejection of application for inspection service. #####
+
+Applicants will be notified if an Application for Inspection Service is rejected. Inspection Service applications may be rejected when: (a) the application is incomplete or in contravention of regulations and/or policy; (b) there is a noncompliance with NOAA financial policy, such as nonpayment for previous inspection services rendered; (c) the fish or fishery product or other marine ingredient is not properly identified; or (d) it appears that the performance of the inspection service would not be in the best interests of the Government.

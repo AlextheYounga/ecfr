@@ -30,11 +30,13 @@
 
 (2) Others designated by TSA.
 
-(h) *Recordkeeping*—(1) *Fingerprint application process.* The aircraft operator must physically maintain, control, and, as appropriate, destroy the fingerprint application and the criminal record. Only direct aircraft operator employees may carry out the responsibility for maintaining, controlling, and destroying criminal records.
+(h) *Recordkeeping.* The aircraft operator must maintain the following information associated with a current authorization to be a flightcrew member, in electronic or paper form, as authorized by TSA:
 
-(2) *Protection of records.* The records required by this section must be maintained by the aircraft operator in a manner that is acceptable to TSA that protects the confidentiality of the individual.
+(1) *Fingerprint application process.* The aircraft operator must physically maintain, control, and, as appropriate, destroy the fingerprint application and the criminal record. Only direct aircraft operator employees may carry out the responsibility for maintaining, controlling, and destroying criminal records.
 
-(3) *Duration.* The records identified in this section with regard to an individual must be made available upon request by TSA, and maintained by the aircraft operator until 180 days after the termination of the individual's privileges to perform flightcrew member duties with the aircraft operator. When files are no longer maintained, the aircraft operator must destroy the CHRC results.
+(2) *Protection of records.* The records required by this section must be maintained by the aircraft operator in a manner that is acceptable to TSA and in a manner that protects the confidentiality of the individual.
+
+(3) *Duration.* The records identified in this section with regard to an individual must be made available upon request by TSA and maintained until 180 days after the termination of the individual's privileges to perform flightcrew member duties with the aircraft operator. When files are no longer maintained, the criminal record must be destroyed.
 
 (i) *Continuing responsibilities.* (1) Each flightcrew member identified in paragraph (a) of this section who has a disqualifying criminal offense must report the offense to the aircraft operator within 24 hours of the conviction or the finding of not guilty by reason of insanity.
 
@@ -48,4 +50,4 @@
 
 (k) *Compliance date.* Each aircraft operator must comply with this section for each flightcrew member described in paragraph (a) of this section not later than December 6, 2002.
 
-[67 FR 8209, Feb. 22, 2002]
+[67 FR 8209, Feb. 22, 2002, as amended at 90 FR 3719, Jan. 15, 2025]

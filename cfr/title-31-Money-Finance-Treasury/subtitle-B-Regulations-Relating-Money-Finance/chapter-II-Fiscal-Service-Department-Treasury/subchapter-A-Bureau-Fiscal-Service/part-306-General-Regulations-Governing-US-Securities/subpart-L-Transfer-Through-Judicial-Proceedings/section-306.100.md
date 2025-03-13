@@ -1,5 +1,5 @@
 ##### § 306.100 Transferable securities. #####
 
-The Department will recognize valid judicial proceedings affecting the ownership of or interest in transferable securities, upon presentation of the securities together with evidence of the proceedings. In the case of securities registered in the names of two or more persons, the extent of their respective interests in the securities must be determined by the court in proceedings to which they are parties or must otherwise be validly established. 10
+The Department will recognize valid judicial proceedings affecting the ownership of or interest in transferable securities, upon presentation of the securities together with evidence of the proceedings. In the case of securities registered in the names of two or more persons, the extent of their respective interests in the securities must be determined by the court in proceedings to which they are parties or must otherwise be validly established.10
 
 10 Title in a finder claiming ownership of a registered security will not be recognized. A finder claiming ownership of a bearer security or a registered security assigned in blank or so assigned as to become in effect payable to bearer must perfect his title in accordance with the provisions of State law. If there are no such provisions, the Department will not recognize his title to the security.

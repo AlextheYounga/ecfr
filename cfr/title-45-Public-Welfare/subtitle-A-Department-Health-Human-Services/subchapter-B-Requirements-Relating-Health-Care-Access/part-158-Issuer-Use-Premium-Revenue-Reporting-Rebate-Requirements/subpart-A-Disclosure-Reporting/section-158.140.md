@@ -46,7 +46,7 @@
 
 (i) Payment to and from unsubsidized State programs designed to address distribution of health risks across issuers via charges to low risk issuers that are distributed to high risk issuers must be included in or deducted from incurred claims, as applicable.
 
-(ii) Receipts related to the transitional reinsurance program and net payments or receipts related to the risk adjustment and risk corridors programs (calculated using an adjustment percentage, as described in § 153.500 of this subchapter, equal to zero percent) under sections 1341, 1342, and 1343 of the Patient Protection and Affordable Care Act, 42 U.S.C. 18061, 18062, 18063.
+(ii) Beginning with the 2026 MLR reporting year, for qualifying issuers (as defined in § 158.103), at such issuers' option, receipts related to the transitional reinsurance program and net payments or receipts related to the risk corridors program (calculated using an adjustment percentage, as described in § 153.500 of this subchapter, equal to zero percent) under sections 1341 and 1342 of the Patient Protection and Affordable Care Act, 42 U.S.C. 18061, 18062. For all other issuers, receipts related to the transitional reinsurance program and net payments or receipts related to the risk adjustment and risk corridors programs (calculated using an adjustment percentage, as described in § 153.500 of this subchapter, equal to zero percent) under sections 1341, 1342, and 1343 of the Patient Protection and Affordable Care Act, 42 U.S.C. 18061, 18062, 18063.
 
 (5) Other adjustments to incurred claims:
 
@@ -54,4 +54,4 @@
 
 (ii) [Reserved]
 
-[75 FR 74921, Dec. 1, 2010, as amended at 75 FR 82278, Dec. 30, 2010; 77 FR 16469, Mar. 21, 2012; 77 FR 28790, May 16, 2012; 78 FR 15539, Mar. 11, 2013; 79 FR 13842, Mar. 11, 2014; 80 FR 10876, Feb. 27, 2015; 85 FR 29262, May 14, 2020; 87 FR 27393, May 6, 2022]
+[75 FR 74921, Dec. 1, 2010, as amended at 75 FR 82278, Dec. 30, 2010; 77 FR 16469, Mar. 21, 2012; 77 FR 28790, May 16, 2012; 78 FR 15539, Mar. 11, 2013; 79 FR 13842, Mar. 11, 2014; 80 FR 10876, Feb. 27, 2015; 85 FR 29262, May 14, 2020; 87 FR 27393, May 6, 2022; 90 FR 4542, Jan. 15, 2025]

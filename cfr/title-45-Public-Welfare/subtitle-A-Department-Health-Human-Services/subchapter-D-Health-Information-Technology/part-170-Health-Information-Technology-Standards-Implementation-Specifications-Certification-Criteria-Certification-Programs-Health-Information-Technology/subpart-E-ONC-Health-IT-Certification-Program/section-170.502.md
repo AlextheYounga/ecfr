@@ -1,7 +1,5 @@
 ##### § 170.502 Definitions. #####
 
-Link to an amendment published at 89 FR 101809, Dec. 16, 2024.
-
 For the purposes of this subpart:
 
 *Applicant* means a single organization or a consortium of organizations that seeks to become an ONC-ACB or ONC-ATL by submitting an application to the National Coordinator for such status.
@@ -14,7 +12,7 @@ For the purposes of this subpart:
 
 (1) All applicable new and/or revised certification criteria adopted by the Secretary at subpart C of this part based on test results issued by a NVLAP-accredited testing laboratory under the ONC Health IT Certification Program or an ONC-ATL; and
 
-(2) All other applicable certification criteria adopted by the Secretary at subpart C of this part based on the test results used to previously certify the Complete EHR or Health IT Module(s) under the ONC Health IT Certification Program.
+(2) All other applicable certification criteria adopted by the Secretary at subpart C of this part based on the test results used to previously certify the Health IT Module(s) under the ONC Health IT Certification Program.
 
 *ONC-Authorized Certification Body or ONC-ACB* means an organization or a consortium of organizations that has applied to and been authorized by the National Coordinator pursuant to this subpart to perform the certification of Health IT Module(s), and/or other types of health IT under the ONC Health IT Certification Program.
 
@@ -24,4 +22,4 @@ For the purposes of this subpart:
 
 *Remote certification* means the use of methods, including the use of web-based tools or secured electronic transmissions, that do not require an ONC-ACB to be physically present at the development or deployment site to conduct certification.
 
-[76 FR 1325, Dec. 7, 2011, as amended at 77 FR 54291, Sept. 4, 2012; 81 FR 72464, Oct. 19, 2016; 85 FR 25950, May 1, 2020]
+[76 FR 1325, Dec. 7, 2011, as amended at 77 FR 54291, Sept. 4, 2012; 81 FR 72464, Oct. 19, 2016; 85 FR 25950, May 1, 2020; 89 FR 101809, Dec. 16, 2024]

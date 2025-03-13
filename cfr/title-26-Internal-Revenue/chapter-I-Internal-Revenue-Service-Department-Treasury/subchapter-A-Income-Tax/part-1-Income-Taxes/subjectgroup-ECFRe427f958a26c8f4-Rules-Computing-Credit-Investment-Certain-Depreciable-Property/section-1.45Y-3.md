@@ -1,15 +1,31 @@
 ##### § 1.45Y-3 Rules relating to the increased credit amount for prevailing wage and apprenticeship. #####
 
-(a) *In general.* If any qualified clean electricity production facility satisfies the requirements in paragraph (b) of this section, the amount of the credit for producing clean electricity determined under section 45Y(a) is the alternative amount described in section 45Y(a)(2)(B), subject to adjustment provided by section 45Y(c).
+(a) *In general.* If any qualified facility satisfies the requirements in paragraph (b) of this section, the applicable amount used for calculating the amount of the credit for producing clean electricity determined under section 45Y(a) of the Internal Revenue Code is the alternative applicable amount described in section 45Y(a)(2)(B), subject to adjustment provided by section 45Y(c).
 
-(b) *Qualified clean electricity production facility requirements.* A qualified facility satisfies the requirements of this paragraph (b) if it is one of the following—
+(b) *Qualified facility requirements.* A qualified facility satisfies the requirements of this paragraph (b), if it is described in paragraph (b)(1), (2), or (3) of this section:
 
-(1) A facility with a maximum net output of less than one megawatt (as measured in alternating current);
+(1) A qualified facility with a maximum net output of less than one megawatt (as measured in alternating current) determined based on the nameplate capacity as provided in paragraph (c) of this section (One Megawatt Exception);
 
-(2) A facility the construction of which began prior to January 29, 2023; or
+(2) A qualified facility the construction of which began prior to January 29, 2023; or
 
-(3) A facility that meets the prevailing wage requirements of section 45(b)(7) and § 1.45-7, the apprenticeship requirements of section 45(b)(8) and § 1.45-8, and the recordkeeping and reporting requirements of § 1.45-12 with respect to the construction, alteration, or repair of a qualified clean electricity production facility within the meaning of section 45Y.
+(3) A qualified facility that meets the prevailing wage requirements of section 45(b)(7) and § 1.45-7, the apprenticeship requirements of section 45(b)(8) and § 1.45-8, and the recordkeeping and reporting requirements of § 1.45-12 with respect to the construction, alteration, or repair of a qualified facility within the meaning of section 45Y.
 
-(c) *Applicability date.* This section applies to qualified clean electricity production facilities placed in service in taxable years ending after June 25, 2024, and the construction of which begins after June 25, 2024. Taxpayers may apply this section to qualified clean electricity production facilities placed in service in taxable years ending on or before June 25, 2024, and qualified clean electricity production facilities placed in service in taxable years ending after June 25, 2024, the construction of which begins before June 25, 2024, provided that taxpayers follow this section in its entirety and in a consistent manner.
+(c) *Nameplate capacity for purposes of the One Megawatt Exception*—(1) *In general.* For purposes of paragraph (b)(1) of this section, the determination of whether a qualified facility has a maximum net output of less than 1 megawatt (MW) of electrical energy (as measured in alternating current) is determined based on the nameplate capacity of the qualified facility. If a qualified facility has *integrated operations* with one or more other qualified facilities, then the aggregate nameplate capacity of the qualified facilities is used for the purposes of determining if the qualified facility meets the requirements of paragraph (b)(1) of this section. The nameplate capacity for purposes of the One Megawatt Exception is the maximum electrical generating output in megawatts that a qualified facility is capable of producing on a steady state basis and during continuous operation under standard conditions, as measured by the manufacturer and consistent with the definition of nameplate capacity provided in 40 CFR 96.202. If applicable, the International Standard Organization conditions should be used to measure the maximum electrical generating output.
 
-[T.D. 9998, 89 FR 53272, June 25, 2024]
+(2) *Nameplate capacity for qualified facilities that generate in direct current for purposes of the One Megawatt Exception.* For qualified facilities that generate electricity in direct current, the taxpayer determines the maximum net output (in alternating current) of each qualified facility by using the lesser of:
+
+(i) The sum of the nameplate generating capacities within the unit of qualified facility in direct current, which is deemed the nameplate generating capacity of the unit of qualified facility in alternating current; or
+
+(ii) The nameplate capacity of the first component of property that inverts the direct current electricity into alternating current.
+
+(3) *Integrated operations.* Solely for the purposes of the One Megawatt Exception, a qualified facility is treated as having *integrated operations* with any other qualified facility of the same technology type if the facilities are owned by the same or related taxpayers, placed in service in the same taxable year; and transmit electricity generated by the facilities through the same point of interconnection or, if the facilities are not grid-connected or are delivering electricity directly to an end user behind a utility meter, are able to support the same end user.
+
+(4) *Related taxpayers*—(i) *Definition.* For purposes of this section, the term *related taxpayers* means members of a group of trades or businesses that are under common control (as defined in § 1.52-1(b)).
+
+(ii) *Related taxpayer rule.* For purposes of this section, related taxpayers are treated as one taxpayer in determining whether a qualified facility has integrated operations.
+
+(d) *Applicability date*—(1) *In general.* Except as provided in paragraph (d)(2) of this section, this section applies to qualified facilities placed in service in taxable years ending after January 15, 2025, and the construction of which begins after January 15, 2025. Taxpayers may apply this section to qualified facilities placed in service in taxable years ending on or before January 15, 2025, and qualified facilities placed in service in taxable years ending after January 15, 2025, the construction of which begins before January 15, 2025, provided that taxpayers follow this section in its entirety and in a consistent manner.
+
+(2) *Paragraph (b)(1) of this section.* Paragraph (b)(1) of this section applies to qualified facilities placed in service in taxable years ending after January 15, 2025, and the construction of which begins after March 17, 2025. Taxpayers may apply this section to qualified facilities placed in service in taxable years ending on or before January 15, 2025, the construction of which begins before January 15, 2025, provided that taxpayers follow this section in its entirety and in a consistent manner.
+
+[T.D. 10024 90 FR 4101, Jan. 15, 2025]

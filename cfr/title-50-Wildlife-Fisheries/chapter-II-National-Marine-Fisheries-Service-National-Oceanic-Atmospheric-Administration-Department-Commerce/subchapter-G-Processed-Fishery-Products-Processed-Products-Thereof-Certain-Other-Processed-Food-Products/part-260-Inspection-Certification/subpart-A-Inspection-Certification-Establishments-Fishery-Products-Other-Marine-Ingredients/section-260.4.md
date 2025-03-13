@@ -1,0 +1,3 @@
+##### § 260.4 Where inspection service is offered. #####
+
+Inspection services may be furnished where an inspector, cross-licensed inspector, or licensed sampler is available and when the establishment's facilities and conditions are appropriate for the conduct of such service. This location can include, but is not limited to, SIP regional and field offices, warehouses, processing facilities, docks, and vessels, as detailed in the SIP Manual.

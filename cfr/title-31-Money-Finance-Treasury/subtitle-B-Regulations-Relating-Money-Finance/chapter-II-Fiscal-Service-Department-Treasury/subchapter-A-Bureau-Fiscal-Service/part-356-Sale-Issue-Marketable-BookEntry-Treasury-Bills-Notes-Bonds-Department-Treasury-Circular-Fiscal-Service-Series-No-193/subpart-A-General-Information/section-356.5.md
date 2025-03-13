@@ -8,7 +8,7 @@ We offer securities under this part exclusively in book-entry form and as direct
 
 (3) Have maturities of not more than one year.
 
-(b) *Treasury notes*—(1) Treasury non-indexed 1 notes.
+(b) *Treasury notes*—(1) Treasury non-indexed1 notes.
 
 1 We use the term “non-indexed” in this part to distinguish such notes and bonds from “inflation-protected securities” and “floating rate notes.” We refer to non-indexed notes and non-indexed bonds as “notes” and “bonds” in official Treasury publications, such as auction announcements and auction results, as well as in auction systems.
 

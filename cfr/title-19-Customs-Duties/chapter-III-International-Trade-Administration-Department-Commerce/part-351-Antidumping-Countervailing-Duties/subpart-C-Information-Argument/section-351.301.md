@@ -1,28 +1,16 @@
 ##### § 351.301 Time limits for submission of factual information. #####
 
-Link to an amendment published at 89 FR 101763, Dec. 16, 2024.
-
 (a) *Introduction.* This section sets forth the time limits for submitting factual information, as defined by § 351.102(b)(21). The Department obtains most of its factual information in antidumping and countervailing duty proceedings from submissions made by interested parties during the course of the proceeding. Notwithstanding paragraph (b) of this section, the Secretary may request any person to submit factual information at any time during a proceeding or provide additional opportunities to submit factual information. Section 351.302 sets forth the procedures for requesting an extension of such time limits, and provides that, unless expressly precluded by statute, the Secretary may, for good cause, extend any time limit established in the Department's regulations. Section 351.303 contains the procedural rules regarding filing (including procedures for filing on non-business days), format, translation, service, and certification of documents. In the Secretary's written request to an interested party for a response to a questionnaire or for other factual information, the Secretary will specify the following: The time limit for the response; the information to be provided; the form and manner in which the interested party must submit the information; and that failure to submit the requested information in the requested form and manner by the date specified may result in use of the facts available under section 776 of the Act and § 351.308.
 
 (b) *Submission of factual information.* Every submission of factual information must be accompanied by a written explanation identifying the subsection of § 351.102(b)(21) under which the information is being submitted.
 
 (1) If an interested party states that the information is submitted under § 351.102(b)(21)(v), the party must explain why the information does not satisfy the definitions described in § 351.102(b)(21)(i)-(iv).
 
-(2) If the factual information is being submitted to rebut, clarify, or correct factual information on the record, the submitter must provide a written explanation identifying the information which is already on the record that the factual information seeks to rebut, clarify, or correct, including the name of the interested party that submitted the information and the date on which the information was submitted.
+(2) If the factual information is being submitted to rebut, clarify, or correct factual information on the record, the submitter must provide a written explanation identifying the information which is already on the record that the factual information seeks to rebut, clarify or correct, including the name of the interested party that submitted the information and the date on which the information was submitted. The submitter must also provide a written explanation describing how the factual information provided under this paragraph rebuts, clarifies, or corrects the factual information already on the record.
 
 (c) *Time limits.* The type of factual information determines the time limit for submission to the Department.
 
-(1) *Factual information submitted in response to questionnaires.* During a proceeding, the Secretary may issue to any person questionnaires, which includes both initial and supplemental questionnaires. The Secretary will not consider or retain in the official record of the proceeding unsolicited questionnaire responses, except as provided under § 351.204(d)(2), or untimely filed questionnaire responses. The Secretary will reject any untimely filed or unsolicited questionnaire response and provide, to the extent practicable, written notice stating the reasons for rejection (see § 351.302(d)).
-
-(i) Initial questionnaire responses are due 30 days from the date of receipt of such questionnaire. The time limit for response to individual sections of the questionnaire, if the Secretary requests a separate response to such sections, may be less than the 30 days allotted for response to the full questionnaire. In general, the date of receipt will be considered to be seven days from the date on which the initial questionnaire was transmitted.
-
-(ii) Supplemental questionnaire responses are due on the date specified by the Secretary.
-
-(iii) A notification by an interested party, under section 782(c)(1) of the Act, of difficulties in submitting information in response to a questionnaire issued by the Secretary is to be submitted in writing within 14 days after the date of the questionnaire or, if the questionnaire is due in 14 days or less, within the time specified by the Secretary.
-
-(iv) A respondent interested party may request in writing that the Secretary conduct a questionnaire presentation. The Secretary may conduct a questionnaire presentation if the Secretary notifies the government of the affected country and that government does not object.
-
-(v) *Factual information submitted to rebut, clarify, or correct questionnaire responses.* Within 14 days after an initial questionnaire response and within 10 days after a supplemental questionnaire response has been filed with the Department, an interested party other than the original submitter is permitted one opportunity to submit factual information to rebut, clarify, or correct factual information contained in the questionnaire response. Within seven days of the filing of such rebuttal, clarification, or correction to a questionnaire response, the original submitter of the questionnaire response is permitted one opportunity to submit factual information to rebut, clarify, or correct factual information submitted in the interested party's rebuttal, clarification or correction. The Secretary will reject any untimely filed rebuttal, clarification, or correction submission and provide, to the extent practicable, written notice stating the reasons for rejection (see § 351.302). If insufficient time remains before the due date for the final determination or final results of review, the Secretary may specify shorter deadlines under this section.
+(1) *Factual information submitted in response to questionnaires.* During a proceeding, the Secretary may issue to any person questionnaires, which includes both initial and supplemental questionnaires. The Secretary will not consider or retain in the official record of the proceeding unsolicited questionnaire responses, except as provided under § 351.109(h)(2), or untimely filed questionnaire responses. The Secretary will reject any untimely filed or unsolicited questionnaire response and provide, to the extent practicable, written notice stating the reasons for rejection (see § 351.302(d)).
 
 (2) *Factual information submitted in support of allegations.* Factual information submitted in support of allegations must be accompanied by a summary, not to exceed five pages, of the allegation and supporting data.
 
@@ -52,9 +40,15 @@ Link to an amendment published at 89 FR 101763, Dec. 16, 2024.
 
 (3) *Factual information submitted to value factors under § 351.408(c) or to measure the adequacy of remuneration under § 351.511(a)(2).*
 
-(i) *Antidumping or countervailing duty investigations.* All submissions of factual information to value factors of production under § 351.408(c) in an antidumping investigation, or to measure the adequacy of remuneration under § 351.511(a)(2) in a countervailing duty investigation, are due no later than 30 days before the scheduled date of the preliminary determination;
+(i) *Antidumping and countervailing duty investigations.* (A) All submissions of factual information to value factors of production under § 351.408(c) in an antidumping investigation are due no later than 60 days before the schedule date of the preliminary determination.
 
-(ii) *Administrative review, new shipper review, or changed circumstances review.* All submissions of factual information to value factors under § 351.408(c), or to measure the adequacy of remuneration under § 351.511(a)(2), are due no later than 30 days before the scheduled date of the preliminary results of review; and
+(B) All submissions of factual information to measure the adequacy of remuneration under § 351.511(a)(2) in a countervailing duty investigation are due no later than 45 days before the scheduled date of the preliminary determination.
+
+(C) If the Secretary determines that interested parties will not have sufficient time to submit factual information under the deadlines set forth in paragraph (c)(3)(i)(A) or (B) because of circumstances unique to a given segment of a proceeding, the Secretary may issue a schedule with alternative deadlines for parties to submit factual information on the record.
+
+(ii) *Administrative reviews, new shipper reviews, and changed circumstances reviews.* (A) All submissions of factual information to value factors under § 351.408(c) or to measure the adequacy of remuneration under § 351.511(a)(2) in administrative reviews, new shipper reviews and changed circumstances reviews are due no later than 60 days before the scheduled date of the preliminary results of review.
+
+(B) If the Secretary determines that interested parties will not have sufficient time to submit factual information under the deadlines set forth in paragraph (c)(3)(ii)(A) of this section because of circumstances unique to a given segment of a proceeding, the Secretary may issue a schedule with alternative deadlines for parties to submit factual information on the record.
 
 (iii) *Expedited antidumping review.* All submissions of factual information to value factors under § 351.408(c) are due on a date specified by the Secretary.
 
@@ -74,4 +68,4 @@ Link to an amendment published at 89 FR 101763, Dec. 16, 2024.
 
 (iii) *Contents of a notice of subsequent authority and responsive submissions.* A Notice of Subsequent Authority must identify the Federal court decision or determination by the Secretary in another segment or proceeding that is alleged to be authoritative to an issue in the ongoing segment of the proceeding, provide the date the decision or determination was issued, explain the relevance of that decision or determination to an issue in the ongoing segment of the proceeding, and be accompanied by a complete copy of the Federal court decision or agency determination. Responsive comments must directly address the contents of the Notice of Subsequent Authority and must explain how the responsive comments and any accompanying factual information rebut or clarify the Notice of Subsequent Authority.
 
-[78 FR 21254, Apr. 10, 2013, as amended at 88 FR 67078, Sept. 29, 2023; 89 FR 20835, Mar. 25, 2024]
+[78 FR 21254, Apr. 10, 2013, as amended at 88 FR 67078, Sept. 29, 2023; 89 FR 20835, Mar. 25, 2024; 89 FR 101763, Dec. 16, 2024]

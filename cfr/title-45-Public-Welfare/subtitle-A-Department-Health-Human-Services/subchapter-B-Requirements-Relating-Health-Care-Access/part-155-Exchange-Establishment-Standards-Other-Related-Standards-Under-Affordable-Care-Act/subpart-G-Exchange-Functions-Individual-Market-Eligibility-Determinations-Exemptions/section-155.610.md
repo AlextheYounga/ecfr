@@ -14,7 +14,7 @@
 
 (3) For applications submitted before October 15, 2014, the Exchange must, at a minimum, accept the application by mail.
 
-(e) *Collection of Social Security Numbers.* (1) The Exchange must require an applicant who has a Social Security number to provide such number to the Exchange.
+(e) *Collection of Social Security numbers.* (1) The Exchange must require an applicant who has a Social Security number to provide such number to the Exchange.
 
 (2) The Exchange may not require an individual who is not seeking an exemption for himself or herself to provide a Social Security number, except as specified in paragraph (e)(3) of this section.
 

@@ -18,6 +18,10 @@
 
 (d) *Reconcile files.* The Exchange must reconcile enrollment information with QHP issuers and HHS no less than on a monthly basis.
 
+(1) *Timeliness standard for State Exchanges to review, resolve, and report data inaccuracies submitted by a State Exchange issuer.* Within 60 calendar days after a State Exchange receives a data inaccuracy from an issuer operating in the State Exchange that includes a description of a data inaccuracy in accordance with § 156.1210 and all the information that the State Exchange requires or requests to properly assess the inaccuracy, the State Exchange must review and resolve the State Exchange issuer's data inaccuracies and submit to HHS a description of the resolution of the inaccuracies in a format and manner specified by HHS.
+
+(2) [Reserved]
+
 (e) *Premium payment.* Exchanges may, and the Federally-facilitated Exchanges and State-Based Exchanges on the Federal Platform will, require payment of a binder payment to effectuate an enrollment or to add coverage retroactively to an already effectuated enrollment. Exchanges may, and the Federally-facilitated Exchanges and State-Based Exchanges on the Federal Platform will, establish a standard policy for setting premium payment deadlines:
 
 (1) In a Federally-facilitated Exchange or State-Based Exchange on the Federal Platform:
@@ -32,14 +36,28 @@
 
 (f) *Processing enrollment transactions.* The Exchange may provide requirements to QHP issuers regarding the instructions for processing electronic enrollment-related transactions.
 
-(g) *Premium payment threshold.* Exchanges may, and the Federally-facilitated Exchanges and State-Based Exchanges on the Federal Platform will, allow issuers to implement, a premium payment threshold policy under which issuers can consider enrollees to have paid all amounts due if the enrollees pay an amount sufficient to maintain a percentage of total premium paid out of the total premium owed equal to or greater than a level prescribed by the issuer, provided that the level is reasonable and that the level and the policy are applied in a uniform manner to all enrollees. If an applicant or enrollee satisfies the premium payment threshold policy, the issuer may:
+(g) *Premium payment threshold.* Exchanges may, and the Federally-facilitated Exchanges and State-Based Exchanges on the Federal platform will, allow issuers to implement a percentage-based premium payment threshold policy (which can be based on either the net premium after application of advance payments of the premium tax credit or gross premium) and/or a fixed-dollar premium payment threshold policy, provided that the threshold and policy is applied in a uniform manner to all applicants and enrollees.
 
-(1) Effectuate an enrollment based on payment of the binder payment under paragraph (e) of this section.
+(1) Under a net premium percentage-based premium payment threshold policy, issuers can consider applicants or enrollees to have paid all amounts due for the following purposes, if the applicants or enrollees pay an amount sufficient to maintain a percentage of total premium paid out of the total premium owed equal to or greater than 95 percent of the net monthly premium amount owed by the enrollees. If an applicant or enrollee satisfies the percentage-based premium payment threshold policy, the issuer may:
 
-(2) Avoid triggering a grace period for non-payment of premium, as described by § 156.270(d) of this subchapter or a grace period governed by State rules.
+(i) Effectuate an enrollment based on payment of the binder payment under paragraph (e) of this section.
 
-(3) Avoid terminating the enrollment for non-payment of premium as, described by §§ 156.270(g) of this subchapter and 155.430(b)(2)(ii)(A) and (B).
+(ii) Avoid triggering a grace period for non-payment of premium, as described by § 156.270(d) of this subchapter or a grace period governed by State rules.
+
+(iii) Avoid terminating the enrollment for non-payment of premium as, described by §§ 156.270(g) of this subchapter and 155.430(b)(2)(ii)(A) and (B).
+
+(2) Under a gross premium percentage-based premium payment threshold policy, issuers can consider enrollees to have paid all amounts due for the following purposes, if the enrollees pay an amount sufficient to maintain a percentage of the gross premium of the policy before the application of advance payments of the premium tax credit that is equal to or greater than 98 percent of the gross monthly premium owed by the enrollees. If an enrollee satisfies the gross premium percentage-based premium payment threshold policy, the issuer may:
+
+(i) Avoid triggering a grace period for non-payment of premium, as described by § 156.270(d) of this subchapter or a grace period governed by State rules.
+
+(ii) Avoid terminating the enrollment for non-payment of premium as, described by §§ 156.270(g) of this subchapter and 155.430(b)(2)(ii)(A) and (B).
+
+(3) Under a fixed-dollar premium payment threshold policy, issuers can consider enrollees to have paid all amounts due for the following purposes, if the enrollees pay an amount that is less than the total premium owed, the unpaid remainder of which is equal to or less than a fixed-dollar amount of $10 or less, adjusted for inflation, as prescribed by the issuer. If an enrollee satisfies the fixed-dollar premium payment threshold policy, the issuer may:
+
+(i) Avoid triggering a grace period for non-payment of premium, as described by § 156.270(d) of this subchapter or a grace period governed by State rules.
+
+(ii) Avoid terminating the enrollment for non-payment of premium as, described by §§ 156.270(g) of this subchapter and 155.430(b)(2)(ii)(A) and (B).
 
 (h) *Requirements.* A State Exchange may rely on HHS to carry out the requirements of this section and other requirements contained within this subpart through a Federal platform agreement.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 81 FR 94177, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 85 FR 29260, May 14, 2020; 89 FR 26423, Apr. 15, 2024]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 81 FR 94177, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017; 85 FR 29260, May 14, 2020; 89 FR 26423, Apr. 15, 2024; 90 FR 4540, Jan. 15, 2025]

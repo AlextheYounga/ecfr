@@ -156,17 +156,15 @@
 
 (4) Others designated by TSA.
 
-(k) *Recordkeeping.* The airport operator must maintain the following information:
+(k) *Recordkeeping.* The airport operator must maintain the following information associated with an individual's current identification (ID) media in electronic or paper form, as authorized by TSA:
 
-(1) *Investigations conducted before December 6, 2001.* The airport operator must maintain and control the access or employment history investigation files, including the criminal history records results portion, or the appropriate certifications, for investigations conducted before December 6, 2001.
+(1) *Fingerprint application.* Except when the airport operator has received a certification under paragraph (n) of this section, the airport operator must physically maintain, control, and, as appropriate, destroy the fingerprint application and the criminal record. Only direct airport operator employees may carry out the responsibility for maintaining, controlling, and destroying criminal records.
 
-(2) *Fingerprint application process on or after December 6, 2001.* Except when the airport operator has received a certification under paragraph (n) of this section, the airport operator must physically maintain, control, and, as appropriate, destroy the fingerprint application and the criminal record. Only direct airport operator employees may carry out the responsibility for maintaining, controlling, and destroying criminal records.
+(2) *Certifications.* The airport operator must maintain the certifications provided under paragraph (n) of this section.
 
-(3) *Certification on or after December 6, 2001.* The airport operator must maintain the certifications provided under paragraph (n) of this section.
+(3) *Protection of records.* The records required by this section must be maintained in a manner that is acceptable to TSA and in a manner that protects the confidentiality of the individual.
 
-(4) *Protection of records—all investigations.* The records required by this section must be maintained in a manner that is acceptable to TSA and in a manner that protects the confidentiality of the individual.
-
-(5) *Duration—all investigations.* The records identified in this section with regard to an individual must be maintained until 180 days after the termination of the individual's unescorted access authority. When files are no longer maintained, the criminal record must be destroyed.
+(4) *Duration.* The records identified in this section with regard to an individual must be maintained until 180 days after the termination of the individual's unescorted access authority. When files are no longer maintained, the criminal record must be destroyed.
 
 (l) *Continuing responsibilities.* (1) Each individual with unescorted access authority on December 6, 2001, who had a disqualifying criminal offense in paragraph (d) of this section on or after December 6, 1991, must, by January 7, 2002, report the conviction to the airport operator and surrender the SIDA access medium to the issuer.
 
@@ -199,3 +197,5 @@
 (2) The airport user must maintain and control, in compliance with paragraph (k) of this section, the employment history investigation files for investigations conducted before December 6, 2001, unless the airport operator decides to maintain and control the employment history investigation file.
 
 (3) The airport user must provide the airport operator with either the name or title of the individual acting as custodian of the files described in this paragraph (p), the address of the location where the files are maintained, and the phone number of that location. The airport user must provide the airport operator and TSA with access to these files.
+
+[67 FR 8355, Feb. 22, 2002, as amended at 90 FR 3719, Jan. 15, 2025]

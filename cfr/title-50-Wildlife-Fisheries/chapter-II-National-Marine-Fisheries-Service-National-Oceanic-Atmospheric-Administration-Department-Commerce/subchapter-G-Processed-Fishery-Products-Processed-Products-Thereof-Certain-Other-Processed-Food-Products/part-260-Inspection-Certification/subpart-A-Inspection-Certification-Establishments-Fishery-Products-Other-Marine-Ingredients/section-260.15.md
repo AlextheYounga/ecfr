@@ -1,0 +1,3 @@
+##### § 260.15 Issuance of corrected certificates. #####
+
+When an issued inspection certificate contains errors or otherwise requires revision, the inspector who issued the original document or another employee of the Agency may issue a corrected inspection certificate. The corrected certificate will supersede the original document, which will become null and void after the issuance of the corrected certificate.

@@ -26,15 +26,13 @@
 
 (iii) Metal loss greater than 80 percent of nominal wall regardless of dimensions.
 
-(iv) Metal loss preferentially affecting a detected longitudinal seam, if that seam was formed by direct current, low-frequency or high-frequency electric resistance welding, electric flash welding, or with a longitudinal joint factor less than 1.0, and where the predicted failure pressure determined in accordance with § 192.712(d) is less than 1.25 times the MAOP.
+(iv) Metal loss preferentially affecting a detected longitudinal seam, if that seam was formed by direct current, low-frequency electric resistance welding, electric flash welding, or has a longitudinal joint factor less than 1.0, and the predicted failure pressure determined in accordance with § 192.712(d) is less than 1.25 times the MAOP.
 
 (v) A crack or crack-like anomaly meeting any of the following criteria:
 
-(A) Crack depth plus any metal loss is greater than 50 percent of pipe wall thickness;
+(A) Crack depth plus any metal loss is greater than 50 percent of pipe wall thickness; or
 
-(B) Crack depth plus any metal loss is greater than the inspection tool's maximum measurable depth; or
-
-(C) The crack or crack-like anomaly has a predicted failure pressure, determined in accordance with § 192.712(d), that is less than 1.25 times the MAOP.
+(B) Crack depth plus any metal loss is greater than the inspection tool's maximum measurable depth.
 
 (vi) An indication or anomaly that, in the judgment of the person designated by the operator to evaluate the assessment results, requires immediate action.
 
@@ -70,4 +68,4 @@
 
 (e) *In situ direct examination of crack defects.* Whenever an operator finds conditions that require the pipeline to be repaired, in accordance with this section, an operator must perform a direct examination of known locations of cracks or crack-like defects using technology that has been validated to detect tight cracks (equal to or less than 0.008 inches crack opening), such as inverse wave field extrapolation (IWEX), phased array ultrasonic testing (PAUT), ultrasonic testing (UT), or equivalent technology. “In situ” examination tools and procedures for crack assessments (length, depth, and volumetric) must have performance and evaluation standards, including pipe or weld surface cleanliness standards for the inspection, confirmed by subject matter experts qualified by knowledge, training, and experience in direct examination inspection for accuracy of the type of defects and pipe material being evaluated. The procedures must account for inaccuracies in evaluations and fracture mechanics models for failure pressure determinations.
 
-[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18233, Apr. 6, 2004; Amdt. 192-104, 72 FR 39016, July 17, 2007; Amdt. 192-119, 80 FR 182, Jan. 5, 2015; 80 FR 46847, Aug. 6, 2015; Amdt. No. 192-125, 84 FR 52254, Oct. 1, 2019; Amdt. 192-132, 87 FR 52277, Aug. 24, 2022; Amdt. 192-133, 88 FR 24712, Apr. 24, 2023; Amdts. 192-135, 195-107, 89 FR 33282, Apr. 29, 2024]
+[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18233, Apr. 6, 2004; Amdt. 192-104, 72 FR 39016, July 17, 2007; Amdt. 192-119, 80 FR 182, Jan. 5, 2015; 80 FR 46847, Aug. 6, 2015; Amdt. No. 192-125, 84 FR 52254, Oct. 1, 2019; Amdt. 192-132, 87 FR 52277, Aug. 24, 2022; Amdt. 192-133, 88 FR 24712, Apr. 24, 2023; Amdts. 192-135, 195-107, 89 FR 33282, Apr. 29, 2024; Amdt. No. 192-138, 90 FR 3716, Jan. 15, 2025]

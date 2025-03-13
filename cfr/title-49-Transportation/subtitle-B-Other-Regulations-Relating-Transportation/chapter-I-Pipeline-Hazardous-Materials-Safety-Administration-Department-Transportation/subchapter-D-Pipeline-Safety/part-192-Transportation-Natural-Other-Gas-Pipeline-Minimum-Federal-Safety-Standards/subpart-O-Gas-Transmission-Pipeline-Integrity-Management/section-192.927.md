@@ -26,7 +26,7 @@
 
 (iii) Continuous monitoring of each ICDA region that contains a covered segment where internal corrosion has been identified by using techniques such as coupons or ultrasonic (UT) sensors or electronic probes, and by periodically drawing off liquids at low points and chemically analyzing the liquids for the presence of corrosion products. An operator must base the frequency of the monitoring and liquid analysis on results from all integrity assessments that have been conducted in accordance with the requirements of this subpart and risk factors specific to the ICDA region. At a minimum, the monitoring frequency must be two times each calendar year, but at intervals not exceeding 71/2 months. If an operator finds any evidence of corrosion products in the ICDA region, the operator must take prompt action in accordance with one of the two following required actions, and remediate the conditions the operator finds in accordance with § 192.933 or §§ 192.485 and 192.714, as applicable.
 
-(A) Conduct excavations of, and detailed examinations at, locations downstream from where the electrolytes might have entered the pipe to investigate and accurately characterize the nature, extent, and root cause of the corrosion, including the monitoring and mitigation requirements of § 192.478; or
+(A) Conduct excavations of, and detailed examinations at, locations downstream from where the electrolytes might have entered the pipe to investigate and accurately characterize the nature, extent, and root cause of the corrosion; or
 
 (B) Assess the covered segment using another integrity assessment method allowed by this subpart.
 
@@ -36,4 +36,4 @@
 
 (ii) Provisions that the analysis be carried out on the entire pipeline in which covered segments are present, except that application of the remediation criteria of § 192.933 may be limited to covered segments.
 
-[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18232, Apr. 6, 2004; Amdt. 192-132, 87 FR 52275, Aug. 24, 2022; Amdts. 192-135, 195-107, 89 FR 33282, Apr. 29, 2024]
+[68 FR 69817, Dec. 15, 2003, as amended by Amdt. 192-95, 69 FR 18232, Apr. 6, 2004; Amdt. 192-132, 87 FR 52275, Aug. 24, 2022; Amdts. 192-135, 195-107, 89 FR 33282, Apr. 29, 2024; Amdt. No. 192-138, 90 FR 3716, Jan. 15, 2025]

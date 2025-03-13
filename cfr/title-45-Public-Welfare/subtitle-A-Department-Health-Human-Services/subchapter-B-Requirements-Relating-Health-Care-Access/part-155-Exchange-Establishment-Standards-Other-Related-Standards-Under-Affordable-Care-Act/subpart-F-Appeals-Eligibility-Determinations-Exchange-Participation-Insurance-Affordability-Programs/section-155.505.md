@@ -2,7 +2,7 @@
 
 (a) *General requirements.* Unless otherwise specified, the provisions of this subpart apply to Exchange eligibility appeals processes, regardless of whether the appeals process is provided by a State Exchange appeals entity or by the HHS appeals entity.
 
-(b) *Right to appeal.* An applicant or enrollee must have the right to appeal—
+(b) *Right to appeal.* An applicant, enrollee, or application filer must have the right to appeal:
 
 (1) An eligibility determination made in accordance with subpart D, including—
 
@@ -80,4 +80,4 @@
 
 (h) *Electronic requirements.* If the Exchange appeals entity cannot fulfill the electronic requirements of subparts C, D, F, and H of this part related to acceptance of telephone- or Internet-based appeal requests, the provision of appeals notices electronically, or the secure electronic transfer of eligibility and appeal records between appeals entities and Exchanges or Medicaid or CHIP agencies, the Exchange appeals entity may fulfill those requirements that it cannot fulfill electronically using a secure and expedient paper-based process.
 
-[78 FR 54136, Aug. 30, 2013, as amended at 79 FR 30349, May 27, 2014; 81 FR 12344, Mar. 8, 2016; 81 FR 94179, Dec. 22, 2016; 88 FR 25920, Apr. 27, 2023]
+[78 FR 54136, Aug. 30, 2013, as amended at 79 FR 30349, May 27, 2014; 81 FR 12344, Mar. 8, 2016; 81 FR 94179, Dec. 22, 2016; 88 FR 25920, Apr. 27, 2023; 90 FR 4540, Jan. 15, 2025]

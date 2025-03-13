@@ -1,0 +1,9 @@
+##### § 1.42-9 For use by the general public. #####
+
+(a) *General rule.* If a residential rental unit in a building is not for use by the general public, the unit is not eligible for a section 42 credit. A residential rental unit is for use by the general public if the unit is rented in a manner consistent with housing policy governing non-discrimination, as evidenced by rules or regulations of the Department of Housing and Urban Development (HUD) (24 CFR subtitle A and chapters I through XX). See HUD Handbook 4350.3 (or its successor). A copy of HUD Handbook 4350.3 may be requested by writing to: HUD, Directives Distribution Section, room B-100, 451 7th Street, SW., Washington, DC 20410.
+
+(b) *Limitations.* Notwithstanding paragraph (a) of this section, if a residential rental unit is provided only for a member of a social organization or provided by an employer for its employees, the unit is not for use by the general public and is not eligible for credit under section 42. In addition, any residential rental unit that is part of a hospital, nursing home, sanitarium, lifecare facility, trailer park, or intermediate care facility for the mentally and physically handicapped is not for use by the general public and is not eligible for credit under section 42.
+
+(c) *Treatment of units not for use by the general public.* The costs attributable to a residential rental unit that is not for use by the general public are not excludable from eligible basis by reason of the unit's ineligibility for the credit under this section. However, in calculating the applicable fraction, the unit is treated as a residential rental unit that is not a low-income unit.
+
+[T.D. 8520, 59 FR 10073, Mar. 3, 1994]

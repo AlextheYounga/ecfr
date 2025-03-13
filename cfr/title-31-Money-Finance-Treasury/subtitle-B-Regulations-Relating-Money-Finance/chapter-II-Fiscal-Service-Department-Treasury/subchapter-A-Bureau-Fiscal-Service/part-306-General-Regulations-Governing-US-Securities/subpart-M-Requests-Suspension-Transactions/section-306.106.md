@@ -1,6 +1,6 @@
 ##### § 306.106 Requests for suspension of transactions in bearer securities. #####
 
-(a) *Securities not overdue.* Neither the Department nor any of its agents will accept notice of any claim or of pending judicial proceedings by any person for the purpose of suspending transactions in bearer securities, or registered securities so assigned as to become in effect payable to bearer which are not overdue as defined in § 306.25. 11 However, if the securities are received and retired, the department will undertake to notify persons who appear to be entitled to any available information concerning the source from which the securities were received.
+(a) *Securities not overdue.* Neither the Department nor any of its agents will accept notice of any claim or of pending judicial proceedings by any person for the purpose of suspending transactions in bearer securities, or registered securities so assigned as to become in effect payable to bearer which are not overdue as defined in § 306.25.11 However, if the securities are received and retired, the department will undertake to notify persons who appear to be entitled to any available information concerning the source from which the securities were received.
 
 11 It has been the longstanding policy of the Department to assume no responsibility for the protection of bearer securities not in the possession of persons claiming rights therein and to give no effect to any notice of such claims. This policy was formalized on April 27, 1867, when the Secretary of the Treasury issued the following statement:
 

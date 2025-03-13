@@ -20,6 +20,10 @@
 
 (2) *Materiality threshold.* Notwithstanding paragraph (a)(1) of this section, an issuer may file a request for reconsideration under this section only if the amount in dispute under paragraph (a)(1)(i) through (viii) of this section, as applicable, is equal to or exceeds 1 percent of the applicable payment or charge listed in such paragraphs (a)(1)(i) through (viii) of this section payable to or due from the issuer for the benefit year, or $10,000, whichever is less.
 
+(i) Notwithstanding paragraphs (a)(1) and (2) of this section, for appeals related to HHS-RADV under paragraphs (a)(1)(vii) and (viii) of this section, HHS will only take action to adjust risk adjustment State payments and charges for an issuer in response to an appeal decision when the impact of the decision to the filer's HHS-RADV adjustments to risk adjustment State transfers is greater than or equal to $10,000.
+
+(ii) [Reserved]
+
 (3) *Time for filing a request for reconsideration.* The request for reconsideration must be filed in accordance with the following timeframes:
 
 (i) For advance payments of the premium tax credit, advance payments of cost-sharing reductions, Federally-facilitated Exchange user fee charges, or State-based Exchanges utilizing the Federal platform fees, within 60 calendar days after the date of the final reconsideration notification specifying the aggregate amount of advance payments of the premium tax credit, advance payments of cost-sharing reductions, Federally-facilitated Exchange user fees, and State-based Exchanges utilizing the Federal platform fees for the applicable benefit year;
@@ -66,4 +70,4 @@
 
 (3) The Administrator of CMS's determination is final and binding.
 
-[79 FR 13841, Mar. 11, 2014, as amended at 80 FR 10876, Feb. 27, 2015; 81 FR 12352, Mar. 8, 2016; 81 FR 94182, Dec. 22, 2016; 86 FR 24294, May 5, 2021; 88 FR 25923, Apr. 27, 2023]
+[79 FR 13841, Mar. 11, 2014, as amended at 80 FR 10876, Feb. 27, 2015; 81 FR 12352, Mar. 8, 2016; 81 FR 94182, Dec. 22, 2016; 86 FR 24294, May 5, 2021; 88 FR 25923, Apr. 27, 2023; 90 FR 4541, Jan. 15, 2025]

@@ -718,6 +718,8 @@ N.B. 2: This definition includes chip sets that are designed to operate together
 
 “*MMIC*”. (Cat 3 and 5) See “Monolithic Microwave Integrated Circuit”
 
+*Model Weights.* See ECCN 4E091 (supplement no. 1 to part 774).
+
 *Monolithic integrated circuit.* (Cat 3)—A combination of passive or active “circuit elements” or both that:
 
 (a) Are formed by means of diffusion processes, implantation processes or deposition processes in or on a single semiconducting piece of material, a so-called ‘chip’;

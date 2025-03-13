@@ -20,15 +20,13 @@
 
 (iii) Metal loss greater than 80 percent of nominal wall regardless of dimensions.
 
-(iv) Metal loss preferentially affecting a detected longitudinal seam, if that seam was formed by direct current, low-frequency or high-frequency electric resistance welding, electric flash welding, or has a longitudinal joint factor less than 1.0, and the predicted failure pressure determined in accordance with § 192.712(d) is less than 1.25 times the MAOP.
+(iv) Metal loss preferentially affecting a detected longitudinal seam, if that seam was formed by direct current, low-frequency electric resistance welding, electric flash welding, or has a longitudinal joint factor less than 1.0, and the predicted failure pressure determined in accordance with § 192.712(d) is less than 1.25 times the MAOP.
 
 (v) A crack or crack-like anomaly meeting any of the following criteria:
 
-(A) Crack depth plus any metal loss is greater than 50 percent of pipe wall thickness;
+(A) Crack depth plus any metal loss is greater than 50 percent of pipe wall thickness; or
 
-(B) Crack depth plus any metal loss is greater than the inspection tool's maximum measurable depth; or
-
-(C) The crack or crack-like anomaly has a predicted failure pressure, determined in accordance with § 192.712(d), that is less than 1.25 times the MAOP.
+(B) Crack depth plus any metal loss is greater than the inspection tool's maximum measurable depth.
 
 (vi) An indication or anomaly that, in the judgment of the person designated by the operator to evaluate the assessment results, requires immediate action.
 
@@ -82,4 +80,4 @@
 
 (h) *Determining predicted failure pressures and critical strain levels.* An operator must perform all determinations of predicted failure pressures and critical strain levels required by this section in accordance with § 192.712.
 
-[Amdt. 192-132, 87 FR 52711, Aug. 24, 2022, as amended by Amdt. 192-133, 88 FR 24712, Apr. 24, 2023; Amdts. 192-135, 195-107, 89 FR 33281, Apr. 29, 2024]
+[Amdt. 192-132, 87 FR 52711, Aug. 24, 2022, as amended by Amdt. 192-133, 88 FR 24712, Apr. 24, 2023; Amdts. 192-135, 195-107, 89 FR 33281, Apr. 29, 2024; Amdt. No. 192-138, 90 FR 3716, Jan. 15, 2025]

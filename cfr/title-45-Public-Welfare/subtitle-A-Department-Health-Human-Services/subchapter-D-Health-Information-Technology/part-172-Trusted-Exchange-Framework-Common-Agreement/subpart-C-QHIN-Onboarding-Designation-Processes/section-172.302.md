@@ -1,0 +1,11 @@
+##### § 172.302 Review of QHIN application. #####
+
+(a) ASTP/ONC (or an RCE) will review a QHIN application to determine if the Applicant QHIN has completed all parts of the application and provided the necessary supporting documentation. If the QHIN application is not complete, the applicant will be notified in writing of the missing information within thirty (30) calendar days of receipt of the application. This timeframe may be extended by providing written notice to the Applicant QHIN.
+
+(b) Once the QHIN application is complete, ASTP/ONC (or an RCE) will review the application to determine whether the Applicant QHIN satisfies the requirements for Designation set forth in § 172.201 and, if the Applicant QHIN proposes to provide IAS, the requirements set forth in § 172.202. ASTP/ONC (or an RCE) will complete its review within sixty (60) calendar days of the Applicant QHIN being provided with written notice that its application is complete. This timeframe may be extended by providing written notice to the Applicant QHIN.
+
+(c) Additional information may be requested from the Applicant QHIN while ASTP/ONC (or an RCE) is reviewing the application. The timeframe for responding to the request and the manner to submit additional information will be provided to the applicant and may be extended on written notice to the Applicant QHIN.
+
+(d) Failure to respond to a request within the proposed timeframe or in the manner specified is a basis for a QHIN Application to be deemed withdrawn, as set forth in § 172.305(c). In such situations, the Applicant QHIN will be provided with written notice that the application has been deemed withdrawn.
+
+(e) If, following submission of the application, any information submitted by the Applicant QHIN becomes untrue or materially changes, the Applicant QHIN must notify ASTP/ONC (or an RCE) in the manner specified by ASTP/ONC (or an RCE) of such changes in writing within five (5) business days of the submitted material becoming untrue or materially changing.

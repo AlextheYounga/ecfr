@@ -1,12 +1,10 @@
 ##### § 655.810 What remedies may be ordered if violations are found? #####
 
-Link to an amendment published at 90 FR 1858, Jan. 10, 2025.
-
 (a) Upon determining that an employer has failed to pay wages or provide fringe benefits as required by § 655.731 and § 655.732, the Administrator shall assess and oversee the payment of back wages or fringe benefits to any H-1B nonimmigrant who has not been paid or provided fringe benefits as required. The back wages or fringe benefits shall be equal to the difference between the amount that should have been paid and the amount that actually was paid to (or with respect to) such nonimmigrant(s).
 
 (b) *Civil money penalties.* The Administrator may assess civil money penalties for violations as follows:
 
-(1) An amount not to exceed $2,304 per violation for:
+(1) An amount not to exceed $2,364 per violation for:
 
 (i) A violation pertaining to strike/lockout (§ 655.733) or displacement of U.S. workers (§ 655.738);
 
@@ -20,7 +18,7 @@ Link to an amendment published at 90 FR 1858, Jan. 10, 2025.
 
 (vi) Violation of the requirements of the regulations in this subpart I and subpart H of this part or the provisions regarding public access (§ 655.760) where the violation impedes the ability of the Administrator to determine whether a violation of sections 212(n) or (t) of the INA has occurred or the ability of members of the public to have information needed to file a complaint or information regarding alleged violations of sections 212(n) or (t) of the INA;
 
-(2) An amount not to exceed $9,380 per violation for:
+(2) An amount not to exceed $9,624 per violation for:
 
 (i) A willful failure pertaining to wages/working conditions (§§ 655.731, 655.732), strike/lockout, notification, labor condition application specificity, displacement (including placement of an H-1B nonimmigrant at a worksite where the other/secondary employer displaces a U.S. worker), or recruitment;
 
@@ -28,7 +26,7 @@ Link to an amendment published at 90 FR 1858, Jan. 10, 2025.
 
 (iii) Discrimination against an employee (§ 655.801(a)); or
 
-(3) An amount not to exceed $65,661 per violation where an employer (whether or not the employer is an H-1B-dependent employer or willful violator) displaced a U.S. worker employed by the employer in the period beginning 90 days before and ending 90 days after the filing of an H-1B petition in conjunction with any of the following violations:
+(3) An amount not to exceed $67,367 per violation where an employer (whether or not the employer is an H-1B-dependent employer or willful violator) displaced a U.S. worker employed by the employer in the period beginning 90 days before and ending 90 days after the filing of an H-1B petition in conjunction with any of the following violations:
 
 (i) A willful violation of any of the provisions described in § 655.805(a)(2) through (9) pertaining to wages/working condition, strike/lockout, notification, labor condition application specificity, displacement, or recruitment; or
 
@@ -64,6 +62,6 @@ Link to an amendment published at 90 FR 1858, Jan. 10, 2025.
 
 (f) The civil money penalties, back wages, and/or any other remedy(ies) determined by the Administrator to be appropriate are immediately due for payment or performance upon the assessment by the Administrator, or upon the decision by an administrative law judge where a hearing is timely requested, or upon the decision by the Secretary where review is granted. The employer shall remit the amount of the civil money penalty by certified check or money order made payable to the order of “Wage and Hour Division, Labor.” The remittance shall be delivered or mailed to the Wage and Hour Division office in the manner directed in the Administrator's notice of determination. The payment or performance of any other remedy prescribed by the Administrator shall follow procedures established by the Administrator. Distribution of back wages shall be administered in accordance with existing procedures established by the Administrator.
 
-(g) The Federal Civil Penalties Inflation Adjustment Act of 1990, as amended (28 U.S.C. 2461 note), requires that inflationary adjustments to civil money penalties in accordance with a specified cost-of-living formula be made, by regulation, at least every four years. The adjustments are to be based on changes in the Consumer Price Index for all Urban Consumers (CPI-U) for the U.S. City Average for All Items. The adjusted amounts will be published in the Federal Register. The amount of the penalty in a particular case will be based on the amount of the penalty in effect at the time the violation occurs.
+(g) The Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-410), as amended by the Debt Collection Improvement Act of 1996 (Pub. L. 104-134, section 31001(s)) and the Federal Civil Penalties Inflation Adjustment Act Improvement Act of 2015 (Pub. L. 114-74, section 701), requires that Federal agencies annually adjust their civil money penalties for inflation according to a specified cost-of-living formula.
 
-[65 FR 80236, Dec. 20, 2000, as amended at 69 FR 68229, Nov. 23, 2004; 81 FR 43448, July 1, 2016; 82 FR 5380, Jan. 18, 2017; 83 FR 11, Jan. 2, 2018; 84 FR 217, Jan. 23, 2019; 85 FR 2296, Jan. 15, 2019; 86 FR 2967, Jan. 14, 2021; 87 FR 2333, Jan. 14, 2022; 88 FR 2214, Jan. 13, 2023; 89 FR 1814, Jan. 11, 2024]
+[65 FR 80236, Dec. 20, 2000, as amended at 69 FR 68229, Nov. 23, 2004; 81 FR 43448, July 1, 2016; 82 FR 5380, Jan. 18, 2017; 83 FR 11, Jan. 2, 2018; 84 FR 217, Jan. 23, 2019; 85 FR 2296, Jan. 15, 2019; 86 FR 2967, Jan. 14, 2021; 87 FR 2333, Jan. 14, 2022; 88 FR 2214, Jan. 13, 2023; 89 FR 1814, Jan. 11, 2024; 90 FR 1858, Jan. 10, 2025]

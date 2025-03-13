@@ -1,7 +1,5 @@
 ##### § 351.308 Determinations on the basis of the facts available. #####
 
-Link to an amendment published at 89 FR 101763, Dec. 16, 2024.
-
 (a) *Introduction.* The Secretary may make determinations on the basis of the facts available whenever necessary information is not available on the record, an interested party or any other person withholds or fails to provide information requested in a timely manner and in the form required or significantly impedes a proceeding, or the Secretary is unable to verify submitted information. If the Secretary finds that an interested party “has failed to cooperate by not acting to the best of its ability to comply with a request for information,” the Secretary may use an inference that is adverse to the interests of that party in selecting from among the facts otherwise available. This section lists some of the sources of information upon which the Secretary may base an adverse inference and explains the actions the Secretary will take with respect to corroboration of information.
 
 (b) *In general.* The Secretary may make a determination under the Act and this part based on the facts otherwise available in accordance with section 776(a) of the Act.
@@ -28,7 +26,21 @@ Link to an amendment published at 89 FR 101763, Dec. 16, 2024.
 
 (2) Information contained in parties' substantive responses to the Notice of Initiation filed under § 351.218(d)(3), consistent with section 752(b) or 752(c) of the Act, as applicable.
 
-(g)-(i) [Reserved]
+(g) *Partial or total facts available.* In accordance with section 776(a) of the Act, if the Secretary determines to apply facts available, regardless of the use of an adverse inference under section 776(b) of the Act, the Secretary may apply facts available to only a portion of its antidumping or countervailing duty analysis and calculations, referred to as partial facts available, or to all of its analysis and calculations, referred to as total facts available, as appropriate on a case-specific basis.
+
+(h) *Segment-specific dumping and countervailable subsidy rates.* If the Secretary has determined dumping margins or countervailable subsidy rates in separate segments of the same proceeding in which the Secretary is applying facts available, in accordance with section 776(c)(2) of the Act the Secretary may apply those margins or rates as facts available without being required to conduct a corroboration analysis.
+
+(i) *Selection of adverse facts available.* If the Secretary determines to apply adverse facts available, in accordance with sections 776(d)(1), (2), and (3) of the Act, the following applies:
+
+(1) In an antidumping proceeding, the Secretary may use a dumping margin from any segment of the proceeding as adverse facts, including the highest dumping margin available. The Secretary may use the highest dumping margin available if the Secretary determines that such an application is warranted after evaluating the situation that resulted in an adverse inference;
+
+(2) In a countervailing duty segment of the proceeding, in accordance with the hierarchy set forth in paragraph (j) of this section, the Secretary may use a countervailing subsidy rate applied to the same or similar program in a countervailing duty proceeding involving the same country or, if there is no same or similar program, use a countervailing subsidy rate from a proceeding that the Secretary determines is reasonable to use. The Secretary will normally apply the highest calculated above-*de minimis* countervailing duty rate available if the Secretary determines that such an application is warranted after evaluating the situation that resulted in an adverse inference; and
+
+(3) In applying adverse facts available, the Secretary will not be required to:
+
+(i) Estimate what a countervailable subsidy or dumping margin would have been if an interested party that was found to have failed to cooperate under section 776(b)(1) of the Act had cooperated; or
+
+(ii) Demonstrate that the countervailable subsidy rate or dumping margin used by the Secretary as adverse facts available reflects an alleged “commercial reality” of the interested party.
 
 (j) *Adverse facts available hierarchy in countervailing duty proceedings.* In accordance with sections 776(d)(1)(A) and 776(d)(2) of the Act, when the Secretary applies an adverse inference in selecting a countervailable subsidy rate on the basis of facts otherwise available in a countervailing duty proceeding, the Secretary will normally select the highest program rate available using a hierarchical analysis as follows:
 
@@ -62,4 +74,4 @@ Link to an amendment published at 89 FR 101763, Dec. 16, 2024.
 
 (iv) When applicable, the Secretary will determine an adverse facts available rate selected using the hierarchy to be corroborated in accordance with section 776(c)(1) of the Act.
 
-[62 FR 27379, May 19, 1997, as amended at 63 FR 13524, Mar. 20, 1998; 89 FR 20836, Mar. 25, 2024]
+[62 FR 27379, May 19, 1997, as amended at 63 FR 13524, Mar. 20, 1998; 89 FR 20836, Mar. 25, 2024; 89 FR 101763, Dec. 16, 2024]

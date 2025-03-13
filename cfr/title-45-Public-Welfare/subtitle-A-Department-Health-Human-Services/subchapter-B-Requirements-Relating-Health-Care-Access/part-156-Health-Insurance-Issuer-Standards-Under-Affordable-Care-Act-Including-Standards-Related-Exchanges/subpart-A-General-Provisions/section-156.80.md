@@ -16,7 +16,7 @@
 
 (2) *Permitted plan-level adjustments to the index rate.* For plan years or policy years beginning on or after January 1, 2014, a health insurance issuer may vary premium rates for a particular plan from its market-wide index rate for a relevant state market based only on the following actuarially justified plan-specific factors:
 
-(i) The actuarial value and cost-sharing design of the plan.
+(i) The actuarial value and cost-sharing design of the plan, including, if permitted by the applicable State authority (as defined in § 144.103 of this subchapter), accounting for cost-sharing reduction amounts provided to eligible enrollees under § 156.410, provided the issuer does not otherwise receive reimbursement for such amounts.
 
 (ii) The plan's provider network, delivery system characteristics, and utilization management practices.
 
@@ -36,4 +36,4 @@
 
 (f) *Applicability date.* The provisions of this section apply for plan years (as that term is defined in § 144.103 of this subchapter) in the group market, and for policy years (as that term is defined in § 144.103 of this subchapter) in the individual market, beginning on or after January 1, 2014.
 
-[78 FR 13441, Feb. 27, 2013, as amended at 78 FR 39898, July 2, 2013; 78 FR 65096, Oct. 30, 2013; 81 FR 12349, Mar. 8, 2016; 81 FR 94180, Dec. 22, 2016]
+[78 FR 13441, Feb. 27, 2013, as amended at 78 FR 39898, July 2, 2013; 78 FR 65096, Oct. 30, 2013; 81 FR 12349, Mar. 8, 2016; 81 FR 94180, Dec. 22, 2016; 90 FR 4541, Jan. 15, 2025]

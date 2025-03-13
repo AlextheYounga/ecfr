@@ -74,4 +74,4 @@ Examples:Laura Woods, Treasurer, City of Twin Falls, Mo.State of Michigan.Villag
 
 (f) *The United States Treasury.* A security may be registered in the name of an individual, with the United States Treasury as beneficiary, provided a reference to the statute which authorizes gifts to be made to the United States to reduce the public debt, is included.
 
-Example:John S. Green, payable on death [or P.O.D.] to U.S. Treasury to reduce the public debt (31 U.S.C. 3113).(Approved by the Office of Management and Budget under control number 1535-0068) [51 FR 18265, May 16, 1986, as amended at 57 FR 38774, Aug. 27, 1992; 76 FR 18063, Apr. 1, 2011]
+Example:John S. Green, payable on death [or P.O.D.] to U.S. Treasury to reduce the public debt (31 U.S.C. 3113).(Approved by the Office of Management and Budget under control number 1535-0068)[51 FR 18265, May 16, 1986, as amended at 57 FR 38774, Aug. 27, 1992; 76 FR 18063, Apr. 1, 2011]

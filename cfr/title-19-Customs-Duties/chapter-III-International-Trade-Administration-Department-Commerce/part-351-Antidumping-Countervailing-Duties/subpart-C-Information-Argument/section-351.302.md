@@ -1,7 +1,5 @@
 ##### § 351.302 Extension of time limits; return of untimely filed or unsolicited material. #####
 
-Link to an amendment published at 89 FR 101763, Dec. 16, 2024.
-
 (a) *Introduction.* This section sets forth the procedures for requesting an extension of a time limit. In addition, this section explains that certain untimely filed or unsolicited material will be rejected together with an explanation of the reasons for the rejection of such material.
 
 (b) *Extension of time limits.* Unless expressly precluded by statute, the Secretary may, for good cause, extend any time limit established by this part.
@@ -20,8 +18,8 @@ Link to an amendment published at 89 FR 101763, Dec. 16, 2024.
 
 (i) Untimely filed factual information, written argument, or other material that the Secretary rejects, except as provided under § 351.104(a)(2); or
 
-(ii) Unsolicited questionnaire responses, except as provided under § 351.204(d)(2).
+(ii) Unsolicited questionnaire responses, except as provided for voluntary respondents under § 351.109(h)(2).
 
 (2) The Secretary will reject such information, argument, or other material, or unsolicited questionnaire response with, to the extent practicable, written notice stating the reasons for rejection.
 
-[62 FR 27379, May 19, 1997, as amended at 76 FR 39275, July 6, 2011; 78 FR 57795, Sept. 20, 2013]
+[62 FR 27379, May 19, 1997, as amended at 76 FR 39275, July 6, 2011; 78 FR 57795, Sept. 20, 2013; 89 FR 101763, Dec. 16, 2024]

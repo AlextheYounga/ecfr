@@ -1,7 +1,5 @@
 ##### § 170.523 Principles of proper conduct for ONC-ACBs. #####
 
-Link to an amendment published at 89 FR 101809, Dec. 16, 2024.
-
 An ONC-ACB shall:
 
 (a) *Accreditation.* Maintain its accreditation in good standing to ISO/IEC 17065 (incorporated by reference in § 170.599).
@@ -28,7 +26,7 @@ An ONC-ACB shall:
 
 (e) *Onsite observation.* Allow ONC, or its authorized agent(s), to periodically observe on site (unannounced or scheduled), during normal business hours, any certifications performed to demonstrate compliance with the requirements of the ONC Health IT Certification Program;
 
-(f) *Certified product listing.* Provide ONC, no less frequently than weekly, a current list of Health IT Modules, and/or EHR Modules that have been certified that includes, at a minimum:
+(f) *Certified product listing.* Provide the Assistant Secretary for Technology Policy/Office of the National Coordinator for Health Information Technology (ASTP/ONC), no less frequently than weekly, a current list of Health IT Modules that have been certified that includes, at a minimum:
 
 (1) For the ONC Certification Criteria for Health IT:
 
@@ -142,7 +140,7 @@ An ONC-ACB shall:
 
 (2) Certifications that will not be completed as a result of its conduct; and
 
-(3) Previous certifications that it performed if its conduct necessitates the recertification of Complete EHRs and/or Health IT Module(s);
+(3) Previous certifications that it performed if its conduct necessitates the recertification of Health IT Module(s).
 
 (k) *Disclosures.* Ensure adherence to the following requirements when issuing any certification and during surveillance of Health IT Modules the ONC-ACB has certified.
 
@@ -208,4 +206,4 @@ An ONC-ACB shall:
 
 (u) *Insights.* Confirm that developers of certified health IT submit responses for Insights Conditions and Maintenance of Certification requirements in accordance with § 170.407.
 
-[76 FR 1325, Dec. 7, 2011, as amended at 76 FR 72642, Nov. 25, 2011; 77 FR 54291, Sept. 4, 2012; 79 FR 54479, Sept. 11, 2014; 80 FR 62755, Oct. 16, 2015; 80 FR 76872, Dec. 11, 2015; 81 FR 72465, Oct. 19, 2016; 85 FR 25950, May 1, 2020; 85 FR 70084, Nov. 4, 2020; 89 FR 1435, Jan. 9, 2024]
+[76 FR 1325, Dec. 7, 2011, as amended at 76 FR 72642, Nov. 25, 2011; 77 FR 54291, Sept. 4, 2012; 79 FR 54479, Sept. 11, 2014; 80 FR 62755, Oct. 16, 2015; 80 FR 76872, Dec. 11, 2015; 81 FR 72465, Oct. 19, 2016; 85 FR 25950, May 1, 2020; 85 FR 70084, Nov. 4, 2020; 89 FR 1435, Jan. 9, 2024; 89 FR 101809, Dec. 16, 2024]

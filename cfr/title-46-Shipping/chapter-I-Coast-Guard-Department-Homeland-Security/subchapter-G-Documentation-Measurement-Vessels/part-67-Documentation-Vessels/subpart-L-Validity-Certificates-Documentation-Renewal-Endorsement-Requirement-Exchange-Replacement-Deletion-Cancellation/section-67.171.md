@@ -1,7 +1,5 @@
 ##### § 67.171 Deletion; requirement and procedure. #####
 
-Link to an amendment published at 89 FR 101500, Dec. 16, 2024.
-
 (a) A Certificate of Documentation together with any endorsement(s) thereon is invalid, except as provided in § 67.161, and the vessel is subject to deletion from the roll of actively documented vessels when:
 
 (1) The vessel is placed under foreign flag;
@@ -28,7 +26,7 @@ Link to an amendment published at 89 FR 101500, Dec. 16, 2024.
 
 (ii) Comply with the provisions of § 67.165.
 
-(b) Where a cause for deletion arises for any reason under paragraphs (a) (1) through (6) of this section, the owner must send or deliver the original Certificate of Documentation to the National Vessel Documentation Center together with a statement setting forth the reason(s) deletion is required.
+(b) Where a cause for deletion arises for any reason under paragraphs (a)(1) through (6) of this section, the owner must send to the National Vessel Documentation Center a statement setting forth the reason(s) deletion is required.
 
 (c) When a Certificate of Documentation is required to be deleted because the vessel has been placed under foreign flag or has been sold or transferred in whole or in part to a non-citizen of the United States, the owner of that vessel must comply with the requirements of paragraph (b) of this section, and file:
 
@@ -38,4 +36,4 @@ Link to an amendment published at 89 FR 101500, Dec. 16, 2024.
 
 (d) A certificate evidencing deletion from U.S. documentation will be issued upon request of the vessel owner to the National Vessel Documentation Center upon compliance with the applicable requirements of this subpart.
 
-[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993, as amended by CGD 94-008, 59 FR 49847, Sept. 30, 1994; CGD 95-014, 60 FR 31605, June 15, 1995]
+[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993, as amended by CGD 94-008, 59 FR 49847, Sept. 30, 1994; CGD 95-014, 60 FR 31605, June 15, 1995; USCG-2023-0584, 89 FR 101500, Dec. 16, 2024]

@@ -1,0 +1,13 @@
+##### § 740.28 License Exception Advanced Compute Manufacturing (ACM). #####
+
+(a) *Scope.* License Exception ACM authorizes the export, reexport, and transfer (in-country) of eligible items specified in paragraph (b) to 'private sector end users' for the “development,” “production,” or storage (in a warehouse or other similar facility) prior to export, reexport, or transfer (in country) to the ultimate end user of eligible items specified in paragraph (b) for items that are ultimately destined to customers outside of Macau or destinations specified in Country Group D:5, unless otherwise authorized.
+
+(b) *Eligible commodities, software, and technology.* Items controlled by ECCNs 3A001.z; 3A090; 3D001 (for “software” for commodities controlled by 3A001.z or 3A090); 3E001 (for “technology” for commodities controlled by 3A001.z or 3A090); 4A003.z; 4A004.z; 4A005.z; 4A090; 4D001 (for “software” for commodities controlled by 4A003.z, 4A004.z, and 4A005.z); 4D090 (for “software” for commodities controlled by 4A090); 4E001 (for commodities controlled by 4A003.z, 4A004.z, 4A005.z, 4A090 or “software” specified by 4D001 (for 4A003.z, 4A004.z, or 4A005.z), or 4D090 (for “software” for commodities controlled by 4A090)); 5A002.z; 5A004.z; 5A992.z; 5D002.z; 5D992.z; 5E002 (for “technology” for commodities controlled by 5A002.z or 5A004.z or “software” specified by 5D002 (for 5A002.z or 5A004.z commodities)); or 5E992 (for “technology” for commodities controlled by 5A992.z or “software” controlled by 5D992.z).
+
+(c) *Ineligible destinations.* License Exception ACM does not authorize the export, reexport, or transfer (in-country) to Macau or any destination specified in Country Group D:5, or to any consignee wherever located when the ultimate consignee is headquartered in, or the ultimate consignee's ultimate parent company is headquartered in, Macau or a destination specified in Country Group D:5.
+
+(d) *Private sector end user.* A 'private sector end user' is either an individual who is not acting on behalf of any government (other than the U.S. Government), or a commercial firm (including its subsidiary and parent firms, and other subsidiaries of the same parent) that is not wholly owned by, or otherwise controlled by any government (other than the U.S. Government).
+
+(e) *Accounting.* Exporters, reexporters, and transferors must maintain a system of distribution that allows them to account for the number of controlled items transferred to, and subsequently out, of the facility. Such accounting should be done for each facility, with records updated every six months or more frequently.
+
+[90 FR 4559, Jan. 15, 2025}

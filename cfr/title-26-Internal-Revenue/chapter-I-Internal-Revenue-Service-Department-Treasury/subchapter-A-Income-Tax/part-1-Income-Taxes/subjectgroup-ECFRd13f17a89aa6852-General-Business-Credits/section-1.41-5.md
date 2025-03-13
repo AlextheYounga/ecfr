@@ -1,0 +1,1 @@
+##### § 1.41-5 Basic research for taxable years beginning after December 31, 1986. [Reserved] #####

@@ -18,7 +18,7 @@
 
 (iv) *“Advanced Node IC” exclusion.* Items specified in paragraphs (a)(2)(i) and (ii) destined to entities designated with a Footnote 5 are not subject to the license requirements in this section.
 
-(3) *Advanced computing items.* (i) *ECCNs 3A090, 4A090, and .z items destined to entities headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5 in certain destinations.*(A) Any item subject to the EAR and specified in ECCNs 3A001.z, 3A090 (except for 3A090.c), 4A003.z, 4A004.z, 4A005.z, 4A090, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z destined to any destination other than those specified in Country Groups D:1, D:4, or D:5 (excluding any destination also specified in Country Groups A:5 or A:6) for an entity that is headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5 (*e.g.,* a PRC-headquartered cloud or data server provider located outside of Country Groups D:1, D:4, or D:5 (excluding any destination also specified in Country Groups A:5 or A:6)), *or*
+(3) *Advanced computing items.* (i)(A) Any item subject to the EAR and specified in ECCN 3A001.z.1.b, z.2.b, z.3.b, z.4.b; 3A090.b; 4A003.z.1.b, z.2.b; 4A004.z.2; 4A005.z.2; 4A090.b; 5A002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b; 5A004.z.1.b, z.2.b; 5A992.z.2, 5D002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b, z.6.b, z.7.b, z.8.b, and z.9.b; 5D992.z.2 destined to any destination other than those specified in Country Groups D:1, D:4, or D:5 (excluding any destination also specified in Country Groups A:5 or A:6) for an entity that is headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5 (*e.g.,* a PRC-headquartered cloud or data server provider located outside of Country Groups D:1, D:4, or D:5 (excluding any destination also specified in Country Groups A:5 or A:6)).
 
 (B) Any item subject to the EAR and specified in ECCN 3A090.c destined to any destination other than Macau or those specified in Country Group D:5, for an entity that is headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5.
 
@@ -70,4 +70,4 @@ For transactions involving “development” or “production” in Macau or a d
 
 (iii) For all other applications not specified in paragraph (d)(1) or (2) or (d)(3)(i) or (ii).
 
-[88 FR 73449, Oct. 25, 2023, as amended at 88 FR 73495, Oct. 25, 2023; 89 FR 23886, Apr. 4, 2024; 89 FR 96818, Dec. 5, 2024 ]
+[88 FR 73449, Oct. 25, 2023, as amended at 88 FR 73495, Oct. 25, 2023; 89 FR 23886, Apr. 4, 2024; 89 FR 96818, Dec. 5, 2024; 90 FR 4562, Jan. 15, 2025]

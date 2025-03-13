@@ -1,7 +1,5 @@
 ##### § 110.228 Columbia River, Oregon and Washington. #####
 
-Link to an amendment published at 89 FR 101471, Dec. 16, 2024.
-
 (a) *Anchorage grounds*—(1) *Astoria North Anchorage.* An area enclosed by a line beginning northeast of Astoria, Oregon, at latitude 46°12′00.79″ N, longitude 123°49′55.40″ W; thence continuing easterly to latitude 46°12′02.00″ N, longitude 123°49′40.09″ W; thence continuing east-northeasterly to latitude 46°13′14.85″ N, longitude 123°46′27.89″ W; thence continuing south-southeasterly to latitude 46°13′00.56″ N, longitude 123°46′16.65″ W; thence continuing southwesterly to latitude 46°11′51.79″ N, longitude 123°49′18.08″ W; thence continuing west-southwesterly to latitude 46°11′46.27″ N, longitude 123°49′43.48″ W; thence continuing west-southwesterly to latitude 46°11′44.98″ N, longitude 123°49′49.44″ W; thence continuing westerly to latitude 46°11′44.32″ N, longitude 123°49′58.88″ W; thence continuing northeasterly to the point of the beginning.
 
 (2) *Astoria South Anchorage.* An area enclosed by a point beginning east-northeast of Astoria, Oregon, at latitude 46°11′46.95″ N, longitude 123°49′13.04″ W; thence continuing northeasterly to latitude 46°13′02.18″ N, longitude 123°45′54.55″ W; thence continuing easterly to latitude 46°13′05.90″ N, longitude 123°45′41.55″ W; thence continuing southeasterly to latitude 46°12′55.16″ N, longitude 123°45′34.31″ W; thence continuing southwesterly to latitude 46°12′24.32″ N, longitude 123°46′34.70″ W; thence continuing west-southwesterly to latitude 46°11′37.32″ N, longitude 123°49′03.46″ W; thence continuing north-northwesterly to the point of the beginning.
@@ -50,7 +48,19 @@ Link to an amendment published at 89 FR 101471, Dec. 16, 2024.
 |46°02′25.92″ N|122°53′00.38″ W|
 |46°02′46.54″ N|122°53′03.87″ W|
 
-(12) [Reserved]
+(12) *Rice Island Anchorage.* All waters in the vicinity of Rice Island, Oregon, bound by a line connecting the following points, which are based on the World Geodetic System (WGS 84):
+
+|  Latitude  |  Longitude  |
+|------------|-------------|
+|46°13′15.60″|123°46′28.20″|
+|46°13′37.20″|123°45′22.20″|
+|46°14′42.00″|123°43′12.00″|
+|46°14′52.80″|123°42′12.00″|
+|46°14′42.60″|123°42′00.00″|
+|46°13′47.40″|123°43′48.60″|
+|46°13′36.60″|123°44′15.60″|
+|46°13′07.20″|123°45′58.20″|
+|46°13′00.60″|123°46′16.80″|
 
 (13) [Reserved]
 
@@ -83,4 +93,4 @@ Link to an amendment published at 89 FR 101471, Dec. 16, 2024.
 
 (8) Vessels anchoring in Astoria North Anchorage should avoid placing their anchor in the charted cable area.
 
-[USCG-2008-1232, 74 FR 51781, Oct. 8, 2009, as amended by USCG-2010-0351, 75 FR 36282, June 25, 2010; USCG-2011-0348, 77 FR 50916, Aug. 23, 2012; USCG-2023-0749, 89 FR 96101, Dec. 4, 2024]
+[USCG-2008-1232, 74 FR 51781, Oct. 8, 2009, as amended by USCG-2010-0351, 75 FR 36282, June 25, 2010; USCG-2011-0348, 77 FR 50916, Aug. 23, 2012; USCG-2023-0749, 89 FR 96101, Dec. 4, 2024; USCG-2023-0485, 89 FR 101471, Dec. 16, 2024]

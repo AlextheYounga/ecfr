@@ -1,6 +1,6 @@
 ##### § 328.1 Scope of regulations. #####
 
-The regulations in this part are applicable only to U.S. bearer securities 1 presented:
+The regulations in this part are applicable only to U.S. bearer securities1 presented:
 
 1 Certain agencies of the United States and certain Government and Government-sponsored corporations also authorize the restrictive endorsement of bearer securities.
 

@@ -4,7 +4,7 @@
 
 (1) A civil penalty not to exceed the amount set forth in section 206 of IEEPA may be imposed on any person who violates, attempts to violate, conspires to violate, or causes a violation of any regulation, ruling, instruction, order, directive, or license issued under IEEPA.
 
-(2) IEEPA provides for a maximum civil penalty not to exceed the greater of $368,136 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+(2) IEEPA provides for a maximum civil penalty not to exceed the greater of $377,700 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
 
 (3) A person who willfully commits, willfully attempts to commit, willfully conspires to commit, or aids or abets in the commission of a violation of any regulation in this part, ruling, instruction, order, directive, or license may, upon conviction, be fined not more than $1,000,000, or if a natural person, be imprisoned for not more than 20 years, or both.
 
@@ -19,3 +19,5 @@
 (e) Pursuant to 18 U.S.C. 2332d, except as provided in regulations issued by the Secretary of the Treasury, in consultation with the Secretary of State, a U.S. person, who knowing or having reasonable cause to know that a country is designated under section 6(j) of the Export Administration Act of 1979, 50 U.S.C. App. 2405, as a country supporting international terrorism, engages in a financial transaction with the government of that country, shall be fined under title 18, United States Code, or imprisoned for not more than 10 years, or both.
 
 (f) Violations of this part may also be subject to other applicable laws.
+
+[89 FR 48322, June 6, 2024, as amended at 90 FR 3691, Jan. 15, 2025]

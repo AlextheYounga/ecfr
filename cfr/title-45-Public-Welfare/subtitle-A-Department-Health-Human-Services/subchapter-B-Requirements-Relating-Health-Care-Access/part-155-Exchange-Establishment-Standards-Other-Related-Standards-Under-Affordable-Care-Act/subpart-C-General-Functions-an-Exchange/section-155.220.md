@@ -234,7 +234,7 @@
 
 (2) HHS will notify the agent, broker, or web-broker of the proposed imposition of penalties under paragraph (k)(1)(i) of this section as part of the termination notice issued under paragraph (g) of this section and, after 30 calendar days from the date of the notice, may impose the penalty if the agent, broker, or web-broker has not requested a reconsideration under paragraph (h) of this section. The proposed imposition of penalties under paragraph (k)(1)(ii) of this section will follow the process outlined under § 155.285.
 
-(3) HHS may immediately suspend the agent's or broker's ability to transact information with the Exchange if HHS discovers circumstances that pose unacceptable risk to Exchange operations or Exchange information technology systems until the incident or breach is remedied or sufficiently mitigated to HHS' satisfaction.
+(3) HHS may immediately suspend the agent's or broker's ability to transact information with the Exchange if HHS discovers circumstances that pose unacceptable risk to the accuracy of the Exchange's eligibility determinations, Exchange operations, applicants, or enrollees, or Exchange information technology systems, including but not limited to risk related to noncompliance with the standards of conduct under paragraph (j)(2)(i), (ii), or (iii) of this section and the privacy and security standards under § 155.260, until the circumstances of the incident, breach, or noncompliance are remedied or sufficiently mitigated to HHS' satisfaction.
 
 (l) *Application to State Exchanges using a Federal platform.* An agent, broker, or web-broker who enrolls qualified individuals, qualified employers, or qualified employees in coverage in a manner that constitutes enrollment through a State Exchange using the Federal platform, or assists individual market consumers with submission of applications for advance payments of the premium tax credit and cost-sharing reductions through a State Exchange using the Federal platform must comply with all applicable Federally-facilitated Exchange standards in this section.
 
@@ -270,4 +270,4 @@
 
 (v) Agreements between the web-broker and the State Exchange.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 54134, Aug. 30, 2013; 79 FR 13837, Mar. 11, 2014; 81 FR 12338, Mar. 8, 2016; 81 FR 94176, Dec. 22, 2016; 84 FR 17563, Apr. 25, 2019; 85 FR 37248, June 19, 2020; 86 FR 24288, May 5, 2021; 87 FR 27388, May 6, 2022; 88 FR 25917, Apr. 27, 2023; 89 FR 26420, Apr. 15, 2024; 89 FR 37703, May 6, 2024]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 54134, Aug. 30, 2013; 79 FR 13837, Mar. 11, 2014; 81 FR 12338, Mar. 8, 2016; 81 FR 94176, Dec. 22, 2016; 84 FR 17563, Apr. 25, 2019; 85 FR 37248, June 19, 2020; 86 FR 24288, May 5, 2021; 87 FR 27388, May 6, 2022; 88 FR 25917, Apr. 27, 2023; 89 FR 26420, Apr. 15, 2024; 89 FR 37703, May 6, 2024; 90 FR 4539, Jan. 15, 2025]

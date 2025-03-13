@@ -1,6 +1,4 @@
-##### § 351.214 New shipper reviews under section 751(a)(2)(B) of the Act. #####
-
-Link to an amendment published at 89 FR 101762, Dec. 16, 2024.
+##### § 351.214 New shipper reviews under section 751(a)(2)(B) of the Act; expedited reviews in countervailing duty proceedings. #####
 
 (a) *Introduction.* Section 751(a)(2)(B) of the Act provides a procedure by which so-called “new shippers” can obtain their own individual dumping margin or countervailable subsidy rate on an expedited basis. In general, a new shipper is an exporter or producer that did not export, and is not affiliated with an exporter or producer that did export, to the United States during the period of investigation. Furthermore, section 751(a)(2)(B)(iv) requires that the Secretary make a determination of whether the sales under review are bona fide. This section contains rules regarding requests for new shipper reviews and procedures for conducting such reviews, as well as requirements for determining whether sales are bona fide under section 751(a)(2)(B)(iv) of the Act. In addition, this section contains rules regarding requests for expedited reviews by non-investigated exporters in certain countervailing duty proceedings and procedures for conducting such reviews.
 
@@ -120,7 +118,7 @@ Link to an amendment published at 89 FR 101762, Dec. 16, 2024.
 
 (4) Any other factor that the Secretary determines to be relevant with respect to the future selling behavior of the producer or exporter, including any other indicia that the sale was not commercially viable.
 
-(l) *Expedited reviews in countervailing duty proceedings for noninvestigated exporters*—(1) *Request for review.* If, in a countervailing duty investigation, the Secretary limited the number of exporters or producers to be individually examined under section 777A(e)(2)(A) of the Act, an exporter that the Secretary did not select for individual examination or that the Secretary did not accept as a voluntary respondent (see § 351.204(d)) may request a review under this paragraph (l). An exporter must submit a request for review within 30 days of the date of publication in the Federal Register of the countervailing duty order. A request must be accompanied by a certification that:
+(l) *Expedited reviews in countervailing duty proceedings for noninvestigated exporters*—(1) *Request for review.* If, in a countervailing duty investigation, the Secretary limited the number of exporters or producers to be individually examined under section 777A(e)(2)(A) of the Act, an exporter that the Secretary did not select for individual examination or that the Secretary did not accept as a voluntary respondent (see § 351.109(h)) may request a review under this paragraph (l). An exporter must submit a request for review within 30 days of the date of publication in the Federal Register of the countervailing duty order. A request must be accompanied by a certification that:
 
 (i) The requester exported the subject merchandise to the United States during the period of investigation;
 
@@ -138,8 +136,8 @@ Link to an amendment published at 89 FR 101762, Dec. 16, 2024.
 
 (ii) The final results of a review under this paragraph (l) will not be the basis for the assessment of countervailing duties; and
 
-(iii) The Secretary may exclude from the countervailing duty order in question any exporter for which the Secretary determines an individual net countervailable subsidy rate of zero or de minimis (see § 351.204(e)(1)), provided that the Secretary has verified the information on which the exclusion is based.
+(iii) The Secretary may exclude from the countervailing duty order in question any exporter for which the Secretary determines an individual net countervailable subsidy rate of zero or *de minimis* (see § 351.107(c)(3)(ii)), provided that the Secretary has verified the information on which the exclusion is based.
 
 (m) *Exception from assessment in regional industry cases.* For procedures relating to a request for the exception from the assessment of antidumping or countervailing duties in a regional industry case, see § 351.212(f).
 
-[86 FR 52371, Sept. 20, 2021]
+[86 FR 52371, Sept. 20, 2021, as amended at 89 FR 101762, Dec. 16, 2024]

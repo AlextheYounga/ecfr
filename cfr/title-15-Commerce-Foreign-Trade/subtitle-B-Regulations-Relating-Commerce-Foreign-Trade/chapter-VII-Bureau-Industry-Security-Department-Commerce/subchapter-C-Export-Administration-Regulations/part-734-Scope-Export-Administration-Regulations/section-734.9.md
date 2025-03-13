@@ -164,9 +164,9 @@ Footnote 3 may be added to an entity that the End User Review Committee has dete
 
 (1) *Product scope of advanced computing FDP rule.* The product scope applies if a foreign-produced item meets the conditions of either paragraph (h)(1)(i) or (ii) of this section.
 
-(i) *“Direct product” of “technology” or “software.”* A foreign-produced item meets the product scope of this paragraph (h) if it meets both the following conditions:
+(i) *“Direct product” of “technology” or “software.”* A foreign-produced item meets the product scope of this paragraph (h) if it meets both of the following conditions:
 
-(A) The foreign-produced item is the “direct product” of “technology” or “software” subject to the EAR and specified in ECCN 3D001, 3D901, 3D991, 3D992, 3D993, 3D994, 3E001, 3E002, 3E003, 3E901, 3E991, 3E992, 3E993, 3E994, 4D001, 4D090, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D002, 5D991, 5E001, 5E991, or 5E002 of the CCL; and
+(A) The foreign-produced item is the “direct product” of “technology” or “software” subject to the EAR and specified in 3D001, 3D901, 3D991, 3D992, 3D993, 3D994, 3E001, 3E002, 3E003, 3E901, 3E991, 3E992, 3E993, 3E994, 4D001, 4D090, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D002, 5D991, 5E001, 5E991, or 5E002 of the CCL; and
 
 (B) The foreign-produced item is:
 
@@ -186,13 +186,13 @@ Footnote 3 may be added to an entity that the End User Review Committee has dete
 
 (2) *Destination or end use scope of the advanced computing FDP rule.* A foreign-produced item meets the destination scope of this paragraph (h)(2) if there is “knowledge” that the foreign-produced item is:
 
-(i) Destined to a destination specified in Country Groups D:1, D:4, or D:5, excluding any destination also specified in Country Groups A:5 or A:6, or will be incorporated into any “part,” “component,” “computer,” or “equipment” not designated EAR99 that is destined to a destination specified in Country Groups D:1, D:4, or D:5, excluding any destination also specified in Country Groups A:5 or A:6, or worldwide to an entity headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5; or
+(i) Destined to any location worldwide or will be incorporated into any “part,” “component,” “computer,” or “equipment” not designated EAR99 destined to any location worldwide; or
 
 (ii) “Technology” “developed” by an entity headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5, for the “production” of a mask or an integrated circuit wafer or die.
 
-Note to paragraph (h)(2):
+Note to 5 paragraph (h)(2)(ii):
 
-These end-use requirements under paragraph (h) apply when any entity headquartered in, or whose ultimate parent company is headquartered in, either Macau or destination specified in Country Group D:5, is a party to any transaction involving the foreign-produced item, *e.g.,* as a “purchaser,” “intermediate consignee,” “ultimate consignee,” or “end-user.”
+These end-use requirements under paragraph (h) apply when any entity headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5, is a party to any transaction involving the foreign-produced item, e.g., as a “purchaser,” “intermediate consignee,” “ultimate consignee,” or “end-user.”
 
 (i) *“Supercomputer” FDP rule.* A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (i)(1) of this section and the country and end-use scope in paragraph (i)(2) of this section. See § 744.23 of the EAR for license requirement, license review policy, and license exceptions applicable to foreign-produced items that are subject to the EAR pursuant to this paragraph (i).
 
@@ -250,4 +250,14 @@ The product scope of paragraph (k)(1) is met if a foreign-produced commodity con
 
 (2) *Destination scope of the SME FDP rule.* A foreign-produced item meets the destination scope of this paragraph (k)(2) if there is “knowledge” that the foreign-produced item is destined to Macau or a destination in Country Group D:5 of supplement no. 1 to part 740 of the EAR.
 
-[87 FR 6024, Feb. 3, 2022, as amended at 87 FR 12236, Mar. 3, 2022; 87 FR 13055, Mar. 8, 2022; 87 FR 22131, Apr. 14, 2022; 87 FR 57078, Sept. 16, 2022; 87 FR 62195, Oct. 13, 2022; 88 FR 2824, Jan. 18, 2023; 88 FR 12153, Feb. 27, 2023; 88 FR 33428, May 23, 2023; 88 FR 73488, Oct. 25, 2023; 89 FR 60564, July 26, 2024; 89 FR 68542, Aug. 27, 2024; 89 FR 96810, Dec. 5, 2024]
+(l) *AI Model weights FDP rule.* A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (l)(1) of this section and the destination scope in paragraph (l)(2) of this section. See § 742.6(a)(13) of the EAR for license requirements and § 742.6(b)(10) for license review policy applicable to foreign-produced items that are subject to the EAR under this paragraph (l).
+
+(1) *Product scope.* The product scope applies if a foreign-produced item is specified in ECCN 4E091 and is produced by a complete plant or 'major component' of a plant that is located outside the United States, when the complete plant or 'major component' of a plant, whether made in the United States or a foreign country, is subject to the EAR and specified in ECCN 3A001.z, 3A090, 4A003.z, 4A004.z, 4A005.z, 4A090, 5A002.z, 5A004.z, or 5A992.z.
+
+Note 7 to paragraph (l)(1):
+
+A foreign-produced item specified in ECCN 4E091 includes any foreign produced item that is further trained or modified via post-training techniques such as fine-tuning, quantization, or other techniques.
+
+(2) *Destination scope.* A foreign-produced 4E091 item meets the destination scope of this paragraph (l)(2) if the foreign-produced item is destined to any location worldwide.
+
+[87 FR 6024, Feb. 3, 2022, as amended at 87 FR 12236, Mar. 3, 2022; 87 FR 13055, Mar. 8, 2022; 87 FR 22131, Apr. 14, 2022; 87 FR 57078, Sept. 16, 2022; 87 FR 62195, Oct. 13, 2022; 88 FR 2824, Jan. 18, 2023; 88 FR 12153, Feb. 27, 2023; 88 FR 33428, May 23, 2023; 88 FR 73488, Oct. 25, 2023; 89 FR 60564, July 26, 2024; 89 FR 68542, Aug. 27, 2024; 89 FR 96810, Dec. 5, 2024; 90 FR 4557, Jan. 15, 2025]
