@@ -16,6 +16,10 @@
 
 (3) The contracting officer shall complete blocks 2, 3, 4, 5, 9, and 10 (when appropriate) prior to submittal to OSDBU.
 
+(4) [Reserved]
+
+(5) Personal services contract requirements (see 719.270).
+
 (c) *Screening of Form USAID 1410-14 by OSDBU.* (1) OSDBU will screen the contracting officer's recommendations on set-aside potential, small business subcontracting opportunities, and section 8(a) subcontracting, and furnish him/her with either a written concurrence in his/her recommendations or written counter-recommendations on the original and duplicate copy within five working days from receipt of the form from the contracting officer.
 
 (2) OSDBU will complete Blocks 1, 6, 7, 8, 11, and 12 (when appropriate) prior to returning the screened form to the contracting officer.

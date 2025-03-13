@@ -1,0 +1,3 @@
+##### § 3141.62 Publication of a notice of competitive lease offering. #####
+
+*Combined Hydrocarbon Leases, Tar Sand Leases or Oil and Gas Leases.* At least 45 days prior to conducting a competitive auction, lands to be offered for a competitive lease sale, as in a Notice of Competitive Lease Sale, will be made available to the public. The notice will specify the time and place of sale; the manner in which the bids may be submitted; the description of the lands; the terms and conditions of the lease, including the royalty and rental rates; the amount of the minimum bid; and will state that the terms and conditions of the leases are available for inspection and designate the proper BLM office where bid forms may be obtained.

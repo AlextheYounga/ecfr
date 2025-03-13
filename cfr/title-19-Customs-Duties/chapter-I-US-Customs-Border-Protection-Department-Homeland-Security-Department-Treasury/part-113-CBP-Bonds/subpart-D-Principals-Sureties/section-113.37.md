@@ -16,7 +16,7 @@ Corporate Sureties Agreement for Limitation of Liability
 
 \_\_\_\_ (name of surety), \_\_\_\_ (surety code), a surety company incorporated under laws of the State of \_\_\_\_, authorized to conduct a surety business in the State of \_\_\_\_, and having its principal place of business at \_\_\_\_ (address), and \_\_\_\_ (names of surety), \_\_\_\_ (surety code), a surety company incorporated under the laws of the State of \_\_\_\_ and having its principal place of business at \_\_\_\_ (address), as sureties, and \_\_\_\_ (name of principal), as principal, are jointly and severally obligated to the United States in the amount of \_\_\_\_ ($ ) on a bond executed on \_\_\_\_ (date of execution) with each surety jointly and severally obligate with the principal in the amounts listed below and no more:
 
-\_\_\_\_ (name of surety) \_\_\_\_
+ \_\_\_\_ (name of surety) \_\_\_\_
 
 ($ )
 

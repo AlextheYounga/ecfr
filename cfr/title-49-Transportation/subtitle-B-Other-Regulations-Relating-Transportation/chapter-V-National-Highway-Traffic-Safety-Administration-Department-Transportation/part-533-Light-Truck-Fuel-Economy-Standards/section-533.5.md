@@ -1,5 +1,7 @@
 ##### § 533.5 Requirements. #####
 
+Link to an amendment published at 89 FR 52949, June 24, 2024.
+
 (a) Each manufacturer of light trucks shall comply with the following fleet average fuel economy standards, expressed in miles per gallon, in the model year (MY) specified as applicable:
 
 |     Model year      |2-wheel drive light trucks|4-wheel drive light trucks|Limited product line light trucks|    |    |

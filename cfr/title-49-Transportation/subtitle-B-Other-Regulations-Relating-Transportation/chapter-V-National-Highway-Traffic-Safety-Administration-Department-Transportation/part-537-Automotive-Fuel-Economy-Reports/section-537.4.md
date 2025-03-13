@@ -1,5 +1,7 @@
 ##### § 537.4 Definitions. #####
 
+Link to an amendment published at 89 FR 52953, June 24, 2024.
+
 (a) *Statutory terms.* (1) The terms *average fuel economy standard, fuel, manufacture,* and *model year* are used as defined in section 501 of the Act.
 
 (2) The term *manufacturer* is used as defined in section 501 of the Act and in accordance with part 529 of this chapter.

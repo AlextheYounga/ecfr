@@ -1,7 +1,5 @@
 ##### § 35.104 Definitions. #####
 
-Link to an amendment published at 89 FR 31336, Apr. 24, 2024.
-
 For purposes of this part, the term—
 
 *1991 Standards* means the requirements set forth in the ADA Standards for Accessible Design, originally published on July 26, 1991, and republished as Appendix D to 28 CFR part 36.
@@ -11,6 +9,16 @@ For purposes of this part, the term—
 *2010 Standards* means the 2010 ADA Standards for Accessible Design, which consist of the 2004 ADAAG and the requirements contained in § 35.151.
 
 *Act* means the Americans with Disabilities Act (Pub. L. 101-336, 104 Stat. 327, 42 U.S.C. 12101-12213 and 47 U.S.C. 225 and 611).
+
+*Archived web content* means web content that—
+
+(1) Was created before the date the public entity is required to comply with subpart H of this part, reproduces paper documents created before the date the public entity is required to comply with subpart H, or reproduces the contents of other physical media created before the date the public entity is required to comply with subpart H;
+
+(2) Is retained exclusively for reference, research, or recordkeeping;
+
+(3) Is not altered or updated after the date of archiving; and
+
+(4) Is organized and stored in a dedicated area or areas clearly identified as being archived.
 
 *Assistant Attorney General* means the Assistant Attorney General, Civil Rights Division, United States Department of Justice.
 
@@ -23,6 +31,8 @@ For purposes of this part, the term—
 (4) Other similar services and actions.
 
 *Complete complaint* means a written statement that contains the complainant's name and address and describes the public entity's alleged discriminatory action in sufficient detail to inform the agency of the nature and date of the alleged violation of this part. It shall be signed by the complainant or by someone authorized to do so on his or her behalf. Complaints filed on behalf of classes or third parties shall describe or identify (by name, if possible) the alleged victims of discrimination.
+
+*Conventional electronic documents* means web content or content in mobile apps that is in the following electronic file formats: portable document formats (“PDF”), word processor file formats, presentation file formats, and spreadsheet file formats.
 
 *Current illegal use of drugs* means illegal use of drugs that occurred recently enough to justify a reasonable belief that a person's drug use is current or that continuing use is a real and ongoing problem.
 
@@ -48,6 +58,8 @@ For purposes of this part, the term—
 
 *Individual with a disability* means a person who has a disability. The term *individual with a disability* does not include an individual who is currently engaging in the illegal use of drugs, when the public entity acts on the basis of such use.
 
+*Mobile applications (“apps”)* means software applications that are downloaded and designed to run on mobile devices, such as smartphones and tablets.
+
 *Other power-driven mobility device* means any mobility device powered by batteries, fuel, or other engines—whether or not designed primarily for use by individuals with mobility disabilities—that is used by individuals with mobility disabilities for the purpose of locomotion, including golf cars, electronic personal assistance mobility devices (EPAMDs), such as the Segway® PT, or any mobility device designed to operate in areas without defined pedestrian routes, but that is not a wheelchair within the meaning of this section. This definition does not apply to Federal wilderness areas; wheelchairs in such areas are defined in section 508(c)(2) of the ADA, 42 U.S.C. 12207(c)(2).
 
 *Public entity* means—
@@ -68,10 +80,28 @@ For purposes of this part, the term—
 
 *Service animal* means any dog that is individually trained to do work or perform tasks for the benefit of an individual with a disability, including a physical, sensory, psychiatric, intellectual, or other mental disability. Other species of animals, whether wild or domestic, trained or untrained, are not service animals for the purposes of this definition. The work or tasks performed by a service animal must be directly related to the individual's disability. Examples of work or tasks include, but are not limited to, assisting individuals who are blind or have low vision with navigation and other tasks, alerting individuals who are deaf or hard of hearing to the presence of people or sounds, providing non-violent protection or rescue work, pulling a wheelchair, assisting an individual during a seizure, alerting individuals to the presence of allergens, retrieving items such as medicine or the telephone, providing physical support and assistance with balance and stability to individuals with mobility disabilities, and helping persons with psychiatric and neurological disabilities by preventing or interrupting impulsive or destructive behaviors. The crime deterrent effects of an animal's presence and the provision of emotional support, well-being, comfort, or companionship do not constitute work or tasks for the purposes of this definition.
 
+*Special district government* means a public entity—other than a county, municipality, township, or independent school district—authorized by State law to provide one function or a limited number of designated functions with sufficient administrative and fiscal autonomy to qualify as a separate government and whose population is not calculated by the United States Census Bureau in the most recent decennial Census or Small Area Income and Poverty Estimates.
+
 *State* means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
+
+*Total population* means—
+
+(1) If a public entity has a population calculated by the United States Census Bureau in the most recent decennial Census, the population estimate for that public entity as calculated by the United States Census Bureau in the most recent decennial Census; or
+
+(2) If a public entity is an independent school district, or an instrumentality of an independent school district, the population estimate for the independent school district as calculated by the United States Census Bureau in the most recent Small Area Income and Poverty Estimates; or
+
+(3) If a public entity, other than a special district government or an independent school district, does not have a population estimate calculated by the United States Census Bureau in the most recent decennial Census, but is an instrumentality or a commuter authority of one or more State or local governments that do have such a population estimate, the combined decennial Census population estimates for any State or local governments of which the public entity is an instrumentality or commuter authority; or
+
+(4) For the National Railroad Passenger Corporation, the population estimate for the United States as calculated by the United States Census Bureau in the most recent decennial Census.
+
+*User agent* means any software that retrieves and presents web content for users.
 
 *Video remote interpreting (VRI) service* means an interpreting service that uses video conference technology over dedicated lines or wireless technology offering high-speed, wide-bandwidth video connection that delivers high-quality video images as provided in § 35.160(d).
 
+*WCAG 2.1* means the Web Content Accessibility Guidelines (“WCAG”) 2.1, W3C Recommendation 05 June 2018, *https://www.w3.org/TR/2018/REC-WCAG21-20180605/* and *https://perma.cc/UB8A-GG2F.* WCAG 2.1 is incorporated by reference elsewhere in this part (see §§ 35.200 and 35.202).
+
+*Web content* means the information and sensory experience to be communicated to the user by means of a user agent, including code or markup that defines the content's structure, presentation, and interactions. Examples of web content include text, images, sounds, videos, controls, animations, and conventional electronic documents.
+
 *Wheelchair* means a manually-operated or power-driven device designed primarily for use by an individual with a mobility disability for the main purpose of indoor or of both indoor and outdoor locomotion. This definition does not apply to Federal wilderness areas; wheelchairs in such areas are defined in section 508(c)(2) of the ADA, 42 U.S.C. 12207(c)(2).
 
-[Order No. 1512-91, 56 FR 35716, July 26, 1991, as amended by AG Order No. 3180-2010, 75 FR 56177, Sept. 15, 2010; 76 FR 13285, Mar. 11, 2011; AG Order 3702-2016, 81 FR 53223, Aug. 11, 2016]
+[Order No. 1512-91, 56 FR 35716, July 26, 1991, as amended by AG Order No. 3180-2010, 75 FR 56177, Sept. 15, 2010; 76 FR 13285, Mar. 11, 2011; AG Order 3702-2016, 81 FR 53223, Aug. 11, 2016; AG Order No. 5919-2024, 89 FR 31336, Apr. 24, 2024]

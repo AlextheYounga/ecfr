@@ -17,6 +17,6 @@ Entry at the port of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ of article
 |    |      |                    |       |             |
 |    |      |                    |       |             |
 
-(Fair operator)By
+(Fair operator) By
 
 (d) *Supersedes previous entry.* When entry for a fair is made under this part, such entry shall supersede any previous entry.

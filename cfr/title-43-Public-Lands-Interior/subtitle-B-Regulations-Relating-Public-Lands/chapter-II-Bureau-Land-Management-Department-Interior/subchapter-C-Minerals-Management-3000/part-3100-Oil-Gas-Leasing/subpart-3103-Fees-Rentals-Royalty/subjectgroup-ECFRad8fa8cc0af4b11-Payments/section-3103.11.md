@@ -1,0 +1,3 @@
+##### § 3103.11 Form of remittance. #####
+
+All remittances must be by personal check, cashier's check, certified check, or money order, and must be made payable to the Department of the Interior—Bureau of Land Management or the Department of the Interior—Office of Natural Resources Revenue, as appropriate. Payments made to the BLM may be made by other arrangements such as by electronic funds transfer or credit card when specifically authorized by the BLM. In the case of payments made to the ONRR, such payments may also be made by electronic funds transfer.

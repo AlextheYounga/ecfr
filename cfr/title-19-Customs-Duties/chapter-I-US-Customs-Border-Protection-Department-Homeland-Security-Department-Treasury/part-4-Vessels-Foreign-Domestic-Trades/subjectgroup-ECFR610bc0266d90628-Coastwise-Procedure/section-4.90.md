@@ -1,6 +1,6 @@
 ##### § 4.90 Simultaneous vessel transactions. #####
 
-(a) A vessel may proceed from port to port in the United States for the purpose of engaging in two or more of the following transactions simultaneously,121 subject to the limitations hereafter mentioned in this section and the conditions stated in the sections indicated in the list:
+(a) A vessel may proceed from port to port in the United States for the purpose of engaging in two or more of the following transactions simultaneously, 121 subject to the limitations hereafter mentioned in this section and the conditions stated in the sections indicated in the list:
 
 121 For the purposes of this part, an inward foreign voyage is completed at the port of final discharge of inbound passengers or cargo, and an outward foreign voyage begins at the port where cargo or passengers are first laden for carriage to a foreign destination.
 

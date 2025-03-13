@@ -1,0 +1,3 @@
+##### § 3108.50 Waiver or suspension of lease rights. #####
+
+If, during any proceeding with respect to a violation of any provision of the regulations in 43 CFR parts 3000 and 3100 or the Act, a party thereto files a waiver of his/her rights under the lease to drill or to assign his/her lease interests, or if such rights are suspended by order of the Secretary pending a decision, payments of rentals and the running of time against the term of the lease involved will be suspended as of the first day of the month following the filing of the waiver or the Secretary's suspension until the first day of the month following the final decision in the proceeding or the revocation of the waiver or suspension.

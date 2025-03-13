@@ -1,0 +1,3 @@
+##### § 3107.23 Leases capable of production. #####
+
+No lease for lands on which there is a well capable of producing oil or gas in paying quantities will expire because the lessee fails to produce the same, unless the lessee fails to place the lease in production within a period of not less than 60 calendar days as specified by the authorized officer after receipt of notice by certified mail from the authorized officer to do so. Such production must be continued unless and until suspension of production is granted by the authorized officer.

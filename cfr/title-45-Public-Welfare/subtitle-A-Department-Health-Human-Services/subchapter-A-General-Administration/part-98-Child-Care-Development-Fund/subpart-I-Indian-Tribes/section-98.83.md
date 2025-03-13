@@ -38,7 +38,7 @@
 
 (xi) The requirements about Mandatory and Matching Funds at § 98.50(e);
 
-(xii) The requirement to complete the quality progress report at § 98.53(f);
+(xii) The requirement to complete the quality progress report at § 98.53(g);
 
 (xiii) The requirement that Lead Agencies shall expend no more than five percent from each year's allotment on administrative costs at § 98.54(a); and
 
@@ -90,4 +90,4 @@
 
 (2) Federal obligation of funds for planning costs, pursuant to paragraph (i)(1) of this section is subject to the actual availability of the appropriation.
 
-[81 FR 67593, Sept. 30, 2016, as amended at 82 FR 3186, Jan. 11, 2017; 89 FR 15416, Mar. 1, 2024]
+[81 FR 67593, Sept. 30, 2016, as amended at 82 FR 3186, Jan. 11, 2017; 89 FR 15416, Mar. 1, 2024; 89 FR 52397, June 24, 2024]

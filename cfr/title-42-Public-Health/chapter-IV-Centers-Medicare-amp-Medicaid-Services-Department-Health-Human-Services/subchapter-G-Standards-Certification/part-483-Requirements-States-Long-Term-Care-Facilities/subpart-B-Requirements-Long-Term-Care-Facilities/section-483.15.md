@@ -1,7 +1,5 @@
 ##### § 483.15 Admission, transfer, and discharge rights. #####
 
-Link to an amendment published at 89 FR 40996, May 10, 2024.
-
 (a) *Admissions policy.* (1) The facility must establish and implement an admissions policy.
 
 (2) The facility must—
@@ -118,7 +116,7 @@ Link to an amendment published at 89 FR 40996, May 10, 2024.
 
 (7) *Orientation for transfer or discharge.* A facility must provide and document sufficient preparation and orientation to residents to ensure safe and orderly transfer or discharge from the facility. This orientation must be provided in a form and manner that the resident can understand.
 
-(8) *Notice in advance of facility closure.* In the case of facility closure, the individual who is the administrator of the facility must provide written notification prior to the impending closure to the State Survey Agency, the Office of the State Long-Term Care Ombudsman, residents of the facility, and the resident representatives, as well as the plan for the transfer and adequate relocation of the residents, as required at § 483.70(l).
+(8) *Notice in advance of facility closure.* In the case of facility closure, the individual who is the administrator of the facility must provide written notification prior to the impending closure to the State Survey Agency, the Office of the State Long-Term Care Ombudsman, residents of the facility, and the resident representatives, as well as the plan for the transfer and adequate relocation of the residents, as required at § 483.70(k).
 
 (9) *Room changes in a composite distinct part.* Room changes in a facility that is a composite distinct part (as defined in § 483.5) are subject to the requirements of § 483.10(e)(7) and must be limited to moves within the particular building in which the resident resides, unless the resident voluntarily agrees to move to another of the composite distinct part's locations.
 
@@ -146,4 +144,4 @@ Link to an amendment published at 89 FR 40996, May 10, 2024.
 
 (2) *Readmission to a composite distinct part.* When the facility to which a resident returns is a composite distinct part (as defined in § 483.5), the resident must be permitted to return to an available bed in the particular location of the composite distinct part in which he or she resided previously. If a bed is not available in that location at the time of return, the resident must be given the option to return to that location upon the first availability of a bed there.
 
-[81 FR 68855, Oct. 4, 2016, as amended at 82 FR 32259, July 13, 2017]
+[81 FR 68855, Oct. 4, 2016, as amended at 82 FR 32259, July 13, 2017; 89 FR 40996, May 10, 2024]

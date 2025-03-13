@@ -30,6 +30,6 @@ I hereby certify that the article covered by this shipment qualifies for prefere
 
 Check One:
 
-( ) Producer( ) Exporter( ) Importer( ) AgentNameTitleAddressSignature and Date
+( ) Producer ( ) Exporter ( ) Importer ( ) Agent Name Title Address Signature and Date
 
 (2) *Exception.* If the Center director determines that an importation described in paragraph (d)(1) of this section forms part of a series of importations that may reasonably be considered to have been undertaken or arranged for the purpose of avoiding a Certificate of Origin requirement under §§ 10.234 through 10.236, the Center director will notify the importer in writing that for that importation the importer must have in his possession a valid Certificate of Origin to support the claim for preferential tariff treatment. The importer will have 30 calendar days from the date of the written notice to obtain a valid Certificate of Origin, and a failure to timely obtain the Certificate of Origin will result in denial of the claim for preferential tariff treatment. For purposes of this paragraph, a “series of importations” means two or more entries covering articles arriving on the same day from the same exporter and consigned to the same person.

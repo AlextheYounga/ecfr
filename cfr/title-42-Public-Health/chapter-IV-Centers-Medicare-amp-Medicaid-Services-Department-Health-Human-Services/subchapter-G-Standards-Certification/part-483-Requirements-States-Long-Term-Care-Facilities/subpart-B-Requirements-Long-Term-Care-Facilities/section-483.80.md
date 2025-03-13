@@ -1,12 +1,10 @@
 ##### § 483.80 Infection control. #####
 
-Link to an amendment published at 89 FR 41000, May 10, 2024.
-
 The facility must establish and maintain an infection prevention and control program designed to provide a safe, sanitary, and comfortable environment and to help prevent the development and transmission of communicable diseases and infections.
 
 (a) *Infection prevention and control program.* The facility must establish an infection prevention and control program (IPCP) that must include, at a minimum, the following elements:
 
-(1) A system for preventing, identifying, reporting, investigating, and controlling infections and communicable diseases for all residents, staff, volunteers, visitors, and other individuals providing services under a contractual arrangement based upon the facility assessment conducted according to § 483.70(e) and following accepted national standards;
+(1) A system for preventing, identifying, reporting, investigating, and controlling infections and communicable diseases for all residents, staff, volunteers, visitors, and other individuals providing services under a contractual arrangement based upon the facility assessment conducted according to § 483.71 and following accepted national standards.
 
 (2) Written standards, policies, and procedures for the program, which must include, but are not limited to:
 
@@ -134,4 +132,4 @@ The facility must establish and maintain an infection prevention and control pro
 
 (iii) Include any cumulative updates for residents, their representatives, and families at least weekly or by 5 p.m. the next calendar day following the subsequent occurrence of either: Each time a confirmed infection of COVID-19 is identified, or whenever three or more residents or staff with new onset of respiratory symptoms occur within 72 hours of each other.
 
-[81 FR 68868, Oct. 4, 2016, as amended at 85 FR 27627, May 8, 2020; 85 FR 54873, Sept. 2, 2020; 86 FR 26335, May 13, 2021; 86 FR 61619, Nov. 5, 2021; 86 FR 62421, Nov. 9, 2021; 88 FR 36510, June 5, 2023]
+[81 FR 68868, Oct. 4, 2016, as amended at 85 FR 27627, May 8, 2020; 85 FR 54873, Sept. 2, 2020; 86 FR 26335, May 13, 2021; 86 FR 61619, Nov. 5, 2021; 86 FR 62421, Nov. 9, 2021; 88 FR 36510, June 5, 2023; 89 FR 41000, May 10, 2024]

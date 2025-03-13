@@ -1,0 +1,3 @@
+##### § 3000.60 Filing of documents. #####
+
+All necessary documents must be filed in the proper BLM office. Documents may be submitted to the BLM using hard-copy delivery services, in-person delivery, or by electronic filing. When using hard-copy delivery services or in-person delivery, the document will be considered filed only when received during regular business hours in the proper BLM office. See 43 CFR part 1820, subpart 1822.

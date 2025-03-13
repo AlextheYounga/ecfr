@@ -2,7 +2,7 @@
 
 (a) As a SAP, you are charged with:
 
-(1) Making a clinical assessment and evaluation to determine what assistance is needed by the employee to resolve problems associated with alcohol and/or drug use. At the SAP's discretion, this assessment or evaluation may be performed face-to-face in-person or remotely. If a SAP is not prohibited from using technology within the parameters of the SAP's State-issued license or other credential(s), a remote evaluation must be must be conducted in accordance with the following criteria:
+(1) Making a clinical assessment and evaluation to determine what assistance is needed by the employee to resolve problems associated with alcohol and/or drug use. At the SAP's discretion, this assessment or evaluation may be performed face-to-face in-person or remotely. If a SAP is not prohibited from using technology within the parameters of the SAP's State-issued license or other credential(s), a remote evaluation must be conducted in accordance with the following criteria:
 
 (i) The technology must permit real-time audio and visual interaction between the SAP and the employee; and
 
@@ -18,4 +18,4 @@
 
 (b) As a SAP, you are not an advocate for the employer or employee. Your function is to protect the public interest in safety by professionally evaluating the employee and recommending appropriate education/treatment, follow-up tests, and aftercare.
 
-[65 FR 79526, Dec. 19, 2000, as amended at 88 FR 27650, May 2, 2023]
+[65 FR 79526, Dec. 19, 2000, as amended at 88 FR 27650, May 2, 2023; 89 FR 51983, June 21, 2024]

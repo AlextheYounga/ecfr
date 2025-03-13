@@ -88,4 +88,4 @@ It is understood that any demand for redelivery will be made no later than 30 da
 
 (5) If the principal defaults on agreements in the condition set forth in paragraph (m) of this section only, the obligors agree to pay liquidated damages equal to $100 per thousand board feet of the imported lumber.
 
-[T.D. 84-213, 49 FR 41171, Oct. 19, 1984]Editorial Note:For Federal Register citations affecting § 113.62, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 84-213, 49 FR 41171, Oct. 19, 1984] Editorial Note:For Federal Register citations affecting § 113.62, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

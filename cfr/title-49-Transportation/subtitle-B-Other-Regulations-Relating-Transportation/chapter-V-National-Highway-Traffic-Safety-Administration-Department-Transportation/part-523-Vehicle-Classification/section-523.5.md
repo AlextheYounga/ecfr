@@ -1,5 +1,7 @@
 ##### § 523.5 Non-passenger automobile. #####
 
+Link to an amendment published at 89 FR 52945, June 24, 2024.
+
 A non-passenger automobile means an automobile that is not a passenger automobile or a work truck and includes vehicles described in paragraphs (a) and (b) of this section:
 
 (a) An automobile designed to perform at least one of the following functions:

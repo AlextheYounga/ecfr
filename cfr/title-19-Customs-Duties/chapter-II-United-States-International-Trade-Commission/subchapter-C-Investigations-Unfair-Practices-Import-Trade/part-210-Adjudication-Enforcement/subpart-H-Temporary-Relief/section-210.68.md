@@ -24,11 +24,11 @@ The same restrictions and requirements applicable to individual and corporate su
 
 (d) Complainants who wish to post a certified check, a bank draft, a post office money order, cash, a United States bond, a Treasury note, or other Government obligation in lieu of a surety bond must notify the Commission in writing immediately upon receipt of the Commission document requiring the posting of a bond, and must contact the Secretary to make arrangements for Commission receipt, handling, management, and deposit of the certified check, bank draft, post office money order, cash, United States bond, Treasury note, or other Government obligation tendered in lieu of a surety bond, in accordance with 31 U.S.C. § 9303, 31 CFR parts 202, 206, and 225 and other governing Treasury regulations and circular(s). If required by the governing Treasury regulations and circular, a certified check, a bank draft, a post office money order, cash, a United States bond, a Treasury note, or other government obligation tendered in lieu of a surety bond may have to be collateralized. See, e.g., 31 CFR 202.6 and the appropriate Treasury Circular.
 
-Appendix A to § 210.68—Affidavit by Individual SuretyUnited States International Trade Commission Affidavit by Individual Surety 19 CFR 210.68State ofCountySS:
+Appendix A to § 210.68—Affidavit by Individual Surety United States International Trade Commission Affidavit by Individual Surety 19 CFR 210.68 State ofCountySS:
 
 I, the undersigned, being duly sworn, depose and say that I am a citizen of the United States, and of full age and legally competent; that I am not a partner in any business of the principal on the bond or bonds on which I appear as surety; and that the information herein below furnished is true and complete to the best of my knowledge. This affidavit is made to induce the United States International Trade Commission to accept me as surety on the bond(s) filed or to be filed with the United States International Trade Commission pursuant to 19 CFR 210.68. I agree to notify the Commission of any transfer or change in any of the assets herein enumerated.
 
-1. Name (First, Middle, Last)2. Home Address3. Type & Duration of Occupation4. Name of Employer (If Self-Employed)5. Business Address6. Telephone No.HomeBusiness
+1. Name (First, Middle, Last)2. Home Address3. Type & Duration of Occupation4. Name of Employer (If Self-Employed) 5. Business Address6. Telephone No.HomeBusiness
 
 7. The following is a true representation of my assets, liabilities, and net worth and does not include any financial interest I have in the assets of the principal on the bond(s) on which I appear as surety.
 
@@ -42,15 +42,15 @@ I, the undersigned, being duly sworn, depose and say that I am a citizen of the 
 |                                                    g. Net worth (subtract Line f from Line e)                                                    |   |
 |\*Do not include property exempt from execution and sale for any reason. Surety's interest in community property may be included if not so exempt.|   |
 
-8. LOCATION AND DESCRIPTION OF REAL ESTATE OF WHICH I AM SOLE OWNER, THE VALUE OF WHICH IS IN LINE a, ITEM 7 ABOVE1
+8. LOCATION AND DESCRIPTION OF REAL ESTATE OF WHICH I AM SOLE OWNER, THE VALUE OF WHICH IS IN LINE a, ITEM 7 ABOVE 1
 
 Amount of assessed value of above real estate for taxation purposes:
 
-9. DESCRIPTION OF PROPERTY INCLUDED IN LINE d, ITEM 7 ABOVE (List the value of each category of property separately)210. ALL OTHER BONDS ON WHICH I AM SURETY (State character and amount of each bond; if none, so state)311. SIGNATURE12. BOND AND COMMISSION INVESTIGATION TO WHICH THIS AFFIDAVIT RELATES
+9. DESCRIPTION OF PROPERTY INCLUDED IN LINE d, ITEM 7 ABOVE (List the value of each category of property separately) 210. ALL OTHER BONDS ON WHICH I AM SURETY (State character and amount of each bond; if none, so state) 311. SIGNATURE12. BOND AND COMMISSION INVESTIGATION TO WHICH THIS AFFIDAVIT RELATES
 
 SUBSCRIBED AND SWORN TO BEFORE ME AS FOLLOWS:
 
-DATE OATH ADMINISTEREDMONTH DAY YEARCITYSTATE (Or Other Jurisdiction)NAME & TITLE OF OFFICIALADMINISTERING OATHSIGNATUREMY COMMISSION EXPIRESINSTRUCTIONS
+DATE OATH ADMINISTEREDMONTH DAY YEARCITYSTATE (Or Other Jurisdiction) NAME & TITLE OF OFFICIALADMINISTERING OATHSIGNATUREMY COMMISSION EXPIRES INSTRUCTIONS
 
 1. Here describe the property by giving the number of the lot and square or block, and addition or subdivision, if in a city, and, if in the country, after showing state, county, and township, locate the property by metes and bounds, or by part of section, township, and range, so that it may be identified.
 

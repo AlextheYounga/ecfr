@@ -1,5 +1,5 @@
 ##### § 202.1 Applicability of part. #####
 
-This part 202 applies specifically to investigations under section 366 of the Tariff Act (19 U.S.C. 1336).1 For other applicable rules see part 201 of this chapter.
+This part 202 applies specifically to investigations under section 366 of the Tariff Act (19 U.S.C. 1336). 1 For other applicable rules see part 201 of this chapter.
 
 1 Section 336(a) of the Tariff Act provides in part that “(1) upon request of the President, or (2) upon resolution of either or both Houses of Congress, or (3) upon its own motion, or (4) when in the judgment of the Commission there is good and sufficient reason therefor, upon application of any interested party, [the commission] shall investigate the differences in the costs of production of any domestic article and of any like or similar foreign article”. (19 U.S.C. 1336.) The provisions of section 336 of the Tariff Act may not be applied to any article with respect to the importation of which into the United States a foreign trade agreement has been concluded under the Trade Agreements Act of 1934, as amended, or the Trade Expansion Act. (19 U.S.C. 1352(a)).

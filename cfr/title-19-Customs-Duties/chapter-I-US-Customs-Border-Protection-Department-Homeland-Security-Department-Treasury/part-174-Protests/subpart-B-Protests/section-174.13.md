@@ -24,4 +24,4 @@
 
 (c) *Optional designation for refunds.* If desired by the importer/consignee the statement “any refunds with respect to the entry under protest shall be mailed to the importer/consignee in care of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_”
 
-(Name and Address of Agent)may be appended to the protest. This designation supersedes any existing designation previously authorized on Customs Form 4811.[T.D. 70-181, 35 FR 13429, Aug. 22, 1970, as amended by T.D. 80-271, 45 FR 75642, Nov. 17, 1980; T.D. 98-16, 63 FR 11005, Mar. 5, 1998; T.D. 99-64, 64 FR 43267, Aug. 10, 1999]
+(Name and Address of Agent)may be appended to the protest. This designation supersedes any existing designation previously authorized on Customs Form 4811. [T.D. 70-181, 35 FR 13429, Aug. 22, 1970, as amended by T.D. 80-271, 45 FR 75642, Nov. 17, 1980; T.D. 98-16, 63 FR 11005, Mar. 5, 1998; T.D. 99-64, 64 FR 43267, Aug. 10, 1999]

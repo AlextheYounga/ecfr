@@ -1,7 +1,5 @@
 ##### § 483.75 Quality assurance and performance improvement. #####
 
-Link to an amendment published at 89 FR 41000, May 10, 2024.
-
 (a) *Quality assurance and performance improvement (QAPI) program.* Each LTC facility, including a facility that is part of a multiunit chain, must develop, implement, and maintain an effective, comprehensive, data-driven QAPI program that focuses on indicators of the outcomes of care and quality of life. The facility must—
 
 (1) Maintain documentation and demonstrate evidence of its ongoing QAPI program that meets the requirements of this section. This may include but is not limited to systems and reports demonstrating systematic identification, reporting, investigation, analysis, and prevention of adverse events; and documentation demonstrating the development, implementation, and evaluation of corrective actions or performance improvement activities;
@@ -26,7 +24,7 @@ Link to an amendment published at 89 FR 41000, May 10, 2024.
 
 (1) Facility maintenance of effective systems to obtain and use of feedback and input from direct care staff, other staff, residents, and resident representatives, including how such information will be used to identify problems that are high risk, high volume, or problem-prone, and opportunities for improvement.
 
-(2) Facility maintenance of effective systems to identify, collect, and use data and information from all departments, including but not limited to the facility assessment required at § 483.70(e) and including how such information will be used to develop and monitor performance indicators.
+(2) Facility maintenance of effective systems to identify, collect, and use data and information from all departments, including but not limited to the facility assessment required at § 483.71 and including how such information will be used to develop and monitor performance indicators.
 
 (3) Facility development, monitoring, and evaluation of performance indicators, including the methodology and frequency for such development, monitoring, and evaluation.
 
@@ -46,7 +44,7 @@ Link to an amendment published at 89 FR 41000, May 10, 2024.
 
 (2) Performance improvement activities must track medical errors and adverse resident events, analyze their causes, and implement preventive actions and mechanisms that include feedback and learning throughout the facility.
 
-(3) As a part of their performance improvement activities, the facility must conduct distinct performance improvement projects. The number and frequency of improvement projects conducted by the facility must reflect the scope and complexity of the facility's services and available resources, as reflected in the facility assessment required at § 483.70(e). Improvement projects must include at least annually a project that focuses on high risk or problem-prone areas identified through the data collection and analysis described in paragraphs (c) and (d) of this section.
+(3) As a part of their performance improvement activities, the facility must conduct distinct performance improvement projects. The number and frequency of improvement projects conducted by the facility must reflect the scope and complexity of the facility's services and available resources, as reflected in the facility assessment required at § 483.71. Improvement projects must include at least annually a project that focuses on high risk or problem-prone areas identified through the data collection and analysis described in paragraphs (c) and (d) of this section.
 
 (f) *Governance and leadership.* The governing body and/or executive leadership (or organized group or individual who assumes full legal authority and responsibility for operation of the facility) is responsible and accountable for ensuring that—
 
@@ -84,4 +82,4 @@ Link to an amendment published at 89 FR 41000, May 10, 2024.
 
 (i) *Sanctions.* Good faith attempts by the committee to identify and correct quality deficiencies will not be used as a basis for sanctions.
 
-[81 FR 68867, Oct. 4, 2016, as amended at 82 FR 32259, July 13, 2017]
+[81 FR 68867, Oct. 4, 2016, as amended at 82 FR 32259, July 13, 2017; 89 FR 41000, May 10, 2024]

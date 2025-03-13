@@ -1,3 +1,3 @@
-##### § 3141.3 Land use plans. #####
+##### § 3141.3 Authority. #####
 
-No lease shall be issued under this subpart unless the lands have been included in a land use plan which meets the requirements under part 1600 of this title or an approved Minerals Management Plan of the National Park Service. The decision to hold a lease sale and issue leases shall be in conformance with the appropriate plan.
+The regulations in this subpart are issued under the authority of the Mineral Leasing Act of February 25, 1920 (30 U.S.C. 181 *et seq.*), the Mineral Leasing Act for Acquired Lands (30 U.S.C. 351 *et seq.*), the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 *et seq.*), the Combined Hydrocarbon Leasing Act of 1981 (95 Stat. 1070), and the Energy Policy Act of 2005 (Pub. L. 109-58).

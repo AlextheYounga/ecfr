@@ -12,7 +12,7 @@ As the within-described merchandise belongs to various ultimate consignees who d
 
 Port of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_Authority To Make Entry
 
-Of merchandise imported at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_, per \_\_\_\_\_\_\_\_\_\_\_\_, from \_\_\_\_\_\_\_\_\_\_\_\_ shipped by \_\_\_\_\_\_\_\_\_\_\_\_, consigned to \_\_\_\_\_\_\_\_\_\_\_\_, endorsed to \_\_\_\_\_\_\_\_\_\_\_\_, covered by1\_\_\_\_\_\_\_\_\_\_\_\_ dated \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_, at \_\_\_\_\_\_\_\_\_\_\_\_ on file with the port director at \_\_\_\_\_\_\_\_\_\_\_\_.
+Of merchandise imported at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_, per \_\_\_\_\_\_\_\_\_\_\_\_, from \_\_\_\_\_\_\_\_\_\_\_\_ shipped by \_\_\_\_\_\_\_\_\_\_\_\_, consigned to \_\_\_\_\_\_\_\_\_\_\_\_, endorsed to \_\_\_\_\_\_\_\_\_\_\_\_, covered by 1\_\_\_\_\_\_\_\_\_\_\_\_ dated \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_, at \_\_\_\_\_\_\_\_\_\_\_\_ on file with the port director at \_\_\_\_\_\_\_\_\_\_\_\_.
 
 1 Insert “bill of lading,” “air waybill,” “certified duplicate bill of lading,” “certified duplicate air waybill,” “carrier's certificate,” or “shipping receipt.”
 

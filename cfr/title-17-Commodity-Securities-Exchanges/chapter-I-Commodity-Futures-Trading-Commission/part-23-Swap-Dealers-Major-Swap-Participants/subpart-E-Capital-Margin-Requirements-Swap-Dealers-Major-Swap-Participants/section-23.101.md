@@ -1,14 +1,12 @@
 ##### § 23.101 Minimum financial requirements for swap dealers and major swap participants. #####
 
-Link to an amendment published at 89 FR 45586, May 23, 2024.
-
 (a)(1) Except as provided in paragraphs (a)(2) through (a)(5) of this section, each swap dealer must elect to be subject to the minimum capital requirements set forth in either paragraphs (a)(1)(i) or (a)(1)(ii) of this section:
 
 (i) A swap dealer that elects to meet the capital requirements in this paragraph (a)(1)(i) must at all times maintain regulatory capital that meets the following:
 
 (A) $20 million of common equity tier 1 capital, as defined under the bank holding company regulations in 12 CFR 217.20, as if the swap dealer itself were a bank holding company subject to 12 CFR part 217;
 
-(B) An aggregate of common equity tier 1 capital, additional tier 1 capital, and tier 2 capital, all as defined under the bank holding company regulations in 12 CFR 217.20, equal to or greater than eight percent of the swap dealer's BHC equivalent risk-weighted assets; *provided, however,* that the swap dealer must maintain a minimum of common equity tier 1 capital equal to six point five percent of its BHC equivalent risk-weighted assets; *provided further,* that any capital that is subordinated debt under 12 CFR 217.20 and that is included in the swap dealer's capital for purposes of this paragraph (a)(1)(i)(B) must qualify as subordinated debt under § 240.18a-1d of this title;
+(B) An aggregate of common equity tier 1 capital, additional tier 1 capital, and tier 2 capital, all as defined under the bank holding company regulations in 12 CFR 217.20, equal to or greater than eight percent of the swap dealer's BHC equivalent risk-weighted assets; *provided, however,* that the swap dealer must maintain a minimum of common equity tier 1 capital equal to six point five percent of its BHC equivalent risk-weighted assets; *provided further,* that any capital that is subordinated debt under 12 CFR 217.20 and that is included in the swap dealer's capital for purposes of this paragraph (a)(1)(i)(B) must qualify as subordinated debt under § 240.18a-1d of this title in accordance with a qualification determination of the Commission or a registered futures association of which the swap dealer is a member;
 
 (C) An aggregate of common equity tier 1 capital, additional tier 1 capital, and tier 2 capital, all as defined under the bank holding company regulations in 12 CFR 217.20, equal to or greater than eight percent of the amount of uncleared swap margin, as that term is defined in § 23.100 of this part, for each uncleared swap position open on the books of the swap dealer, computed on a counterparty by counterparty basis pursuant to § 23.154 of this part; and
 
@@ -22,9 +20,11 @@ Link to an amendment published at 89 FR 45586, May 23, 2024.
 
 (*3*) The amount of capital required by a registered futures association of which the swap dealer is a member.
 
-(B) A swap dealer that uses internal models to compute market risk for its proprietary positions under § 240.18a-1(d) of this title must calculate the total market risk as the sum of the VaR measure, stressed VaR measure, specific risk measure, comprehensive risk measure, and incremental risk measure of the portfolio of proprietary positions in accordance with § 23.102 of this part and Appendix A to Subpart E of Part 23; and
+(B) A swap dealer that uses internal models to compute market risk for its proprietary positions under § 240.18a-1(d) of this title must calculate the total market risk as the sum of the VaR measure, stressed VaR measure, specific risk measure, comprehensive risk measure, and incremental risk measure of the portfolio of proprietary positions in accordance with § 23.102 and appendix A to subpart E of this part;
 
-(C) A swap dealer may recognize as a current asset, receivables from third-party custodians that maintain the swap dealer's initial margin deposits associated with uncleared swap and security-based swap transactions pursuant to the margin rules of the Commission, the Securities and Exchange Commission, a prudential regulator, as defined in section 1a(39) of the Act, or a foreign jurisdiction that has received a margin Comparability Determination under § 23.160 of this chapter.
+(C) A swap dealer may recognize as a current asset, receivables from third-party custodians that maintain the swap dealer's initial margin deposits associated with uncleared swap and security-based swap transactions pursuant to the margin rules of the Commission, the Securities and Exchange Commission, a prudential regulator, as defined in section 1a(39) of the Act, or a foreign jurisdiction that has received a margin Comparability Determination under § 23.160; and
+
+(D) The qualification of any subordinated debt used to meet any capital requirements shall be as determined by the Commission or a registered futures association of which the swap dealer is a member.
 
 (2)(i) A swap dealer that is “predominantly engaged in non-financial activities” as defined in § 23.100 of this part may elect to meet the minimum capital requirements in this paragraph (a)(2) in lieu of the capital requirements in paragraph (a)(1) of this section.
 
@@ -64,4 +64,4 @@ Link to an amendment published at 89 FR 45586, May 23, 2024.
 
 (2) Each swap dealer and major swap participant subject to the minimum capital requirements set forth in paragraphs (a) and (b) of this section must be in compliance with such requirements at all times, and must be able to demonstrate such compliance to the satisfaction of the Commission and to the registered futures association of which the swap dealer or major swap participant is a member.
 
-[85 FR 57548, Sept. 15, 2020]
+[85 FR 57548, Sept. 15, 2020, as amended at 89 FR 45586, May 23, 2024]

@@ -1,0 +1,3 @@
+##### § 3106.74 Effective date of transfer. #####
+
+The signature of the authorized officer on the official form will constitute approval of the assignment of record title or transfer of operating rights (sublease) which will take effect as of the first day of the lease month following the date of filing in the proper BLM office of all documents and statements required by this subpart and an appropriate bond, if one is required.

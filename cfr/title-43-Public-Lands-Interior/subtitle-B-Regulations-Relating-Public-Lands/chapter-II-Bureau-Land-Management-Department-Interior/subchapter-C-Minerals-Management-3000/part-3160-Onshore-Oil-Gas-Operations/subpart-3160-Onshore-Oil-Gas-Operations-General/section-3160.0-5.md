@@ -1,7 +1,5 @@
 ##### § 3160.0-5 Definitions. #####
 
-Link to an amendment published at 89 FR 30995, Apr. 23, 2024.
-
 As used in this part, the term:
 
 *Authorized representative* means any entity or individual authorized by the Secretary to perform duties by cooperative agreement, delegation or contract.
@@ -14,7 +12,7 @@ As used in this part, the term:
 
 *Knowingly or willfully* means a violation that constitutes the voluntary or conscious performance of an act that is prohibited or the voluntary or conscious failure to perform an act or duty that is required. It does not include performances or failures to perform that are honest mistakes or merely inadvertent. It includes, but does not require, performances or failures to perform that result from a criminal or evil intent or from a specific intent to violate the law. The knowing or willful nature of conduct may be established by plain indifference to or reckless disregard of the requirements of the law, regulations, orders, or terms of the lease. A consistent pattern of performance or failure to perform also may be sufficient to establish the knowing or willful nature of the conduct, where such consistent pattern is neither the result of honest mistakes or mere inadvertency. Conduct that is otherwise regarded as being knowing or willful is rendered neither accidental nor mitigated in character by the belief that the conduct is reasonable or legal.
 
-*Lease* means any contract, profit-share arrangement, joint venture or other agreement issued or approved by the United States under a mineral leasing law that authorizes exploration for, extraction of or removal of oil or gas.
+*Lease* means any contract, profit-share arrangement, joint venture or other agreement issued or approved by the United States under a mineral leasing law that authorizes exploration for, extraction of, or removal of oil or gas.
 
 *Lease site* means any lands, including the surface of a severed mineral estate, on which exploration for, or extraction and removal of, oil or gas is authorized under a lease.
 
@@ -24,7 +22,7 @@ As used in this part, the term:
 
 *Major violation* means noncompliance that causes or threatens immediate, substantial, and adverse impacts on public health and safety, the environment, production accountability, or royalty income.
 
-*Maximum ultimate economic recovery* means the recovery of oil and gas from leased lands which a prudent operator could be expected to make from that field or reservoir given existing knowledge of reservoir and other pertinent facts and utilizing common industry practices for primary, secondary or tertiary recovery operations.
+*Maximum ultimate economic recovery* means the recovery of oil and gas from leased lands which a prudent operator could be expected to make from that field or reservoir given existing knowledge of reservoir and other pertinent facts and utilizing common industry practices for primary, secondary, or tertiary recovery operations.
 
 *Minor violation* means noncompliance that does not rise to the level of a *major violation.*
 
@@ -32,9 +30,9 @@ As used in this part, the term:
 
 (1) For an oil well, the date on which liquid hydrocarbons are first sold or shipped from a temporary storage facility, such as a test tank, or the date on which liquid hydrocarbons are first produced into a permanent storage facility, whichever first occurs; and
 
-(2) For a gas well, the date on which gas is first measured through sales metering facilities or the date on which associated liquid hydrocarbons are first sold or shipped from a temporary storage facility, whichever first occurs. For purposes of this provision, a gas well shall not be considered to have been off of production unless it is incapable of production.
+(2) For a gas well, the date on which gas is first measured through sales metering facilities or the date on which associated liquid hydrocarbons are first sold or shipped from a temporary storage facility, whichever first occurs.
 
-*Notice to lessees and operators (NTL)* means a written notice issued by the authorized officer. NTL's implement the regulations in this part and operating orders, and serve as instructions on specific item(s) of importance within a State, District, or Area.
+*Notice to lessees and operators (NTL)* means a written notice issued by the authorized officer. NTLs implement the regulations in this part and operating orders, and serve as instructions on specific item(s) of importance within a State, District, or Area.
 
 *Onshore oil and gas order* means a formal numbered order issued by the Director that implements and supplements the regulations in this part.
 
@@ -50,12 +48,20 @@ As used in this part, the term:
 
 *Protective well* means a well drilled or modified to prevent or offset drainage of oil and gas resources from its Federal or Indian lease.
 
-*Record title holder* means the person(s) to whom BLM or an Indian lessor issued a lease or approved the assignment of record title in a lease.
+*Record title holder* means the person(s) to whom the BLM or an Indian lessor issued a lease or approved the assignment of record title in a lease.
+
+*Shut-in well* means a nonoperational well that can physically and mechanically operate by opening valves or activating existing equipment.
 
 *Superintendent* means the superintendent of an Indian Agency, or other officer authorized to act in matters of record and law with respect to oil and gas leases on restricted Indian lands.
 
 *Surface use plan of operations* means a plan for surface use, disturbance, and reclamation.
 
-*Waste of oil or gas* means any act or failure to act by the operator that is not sanctioned by the authorized officer as necessary for proper development and production and which results in: (1) A reduction in the quantity or quality of oil and gas ultimately producible from a reservoir under prudent and proper operations; or (2) avoidable surface loss of oil or gas.
+*Temporarily abandoned well* means a nonoperational well that is not physically or mechanically capable of production or injection without additional equipment or without servicing the well, but that may have future beneficial use.
 
-[53 FR 17362, May 16, 1988, as amended at 53 FR 22846, June 17, 1988; 66 FR 1892, Jan. 10, 2001; 80 FR 16217, Mar. 26, 2015; 81 FR 83078, Nov. 18, 2016; 82 FR 61949, Dec. 29, 2017]
+*Waste of oil or gas* means any act or failure to act by the operator that is not sanctioned by the authorized officer as necessary for proper development and production and which results in:
+
+(1) A reduction in the quantity or quality of oil and gas ultimately producible from a reservoir under prudent and proper operations; or
+
+(2) Avoidable surface loss of oil or gas.
+
+[89 FR 30995, Apr. 23, 2024]

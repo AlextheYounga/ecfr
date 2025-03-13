@@ -22,4 +22,4 @@
 
 (g) The port director shall promptly notify the applicant in writing of his decision to approve or deny the application to bond the warehouse. If the application is denied the notification shall state the grounds for denial. The decision of the port director will be the final Customs administrative determination in the matter.
 
-[28 FR 14763, Dec. 31, 1963]Editorial Note:For Federal Register citations affecting § 19.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[28 FR 14763, Dec. 31, 1963] Editorial Note:For Federal Register citations affecting § 19.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

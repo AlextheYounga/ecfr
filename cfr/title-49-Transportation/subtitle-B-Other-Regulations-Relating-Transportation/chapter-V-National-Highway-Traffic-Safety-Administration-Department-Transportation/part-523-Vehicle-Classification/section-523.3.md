@@ -1,5 +1,7 @@
 ##### § 523.3 Automobile. #####
 
+Link to an amendment published at 89 FR 52945, June 24, 2024.
+
 (a) An automobile is any 4-wheeled vehicle that is propelled by fuel, or by alternative fuel, manufactured primarily for use on public streets, roads, and highways and rated at less than 10,000 pounds gross vehicle weight, except:
 
 (1) A vehicle operated only on a rail line;

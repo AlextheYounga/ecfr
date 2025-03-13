@@ -1,0 +1,7 @@
+##### § 3102.40 Signature. #####
+
+Signatures on all applications and BLM forms certify acceptance of lease terms and stipulations, as well as compliance with the regulations under 43 CFR part 3100. Refer to § 3102.50 for certification of compliance and evidence. The BLM also accepts electronic signatures and submissions.
+
+(a) A bid to lease must be made on a current form approved by the Director. Copies must be exact reproductions of the official approved form, without additions, omissions, or other changes. When the bid is filed in person at the proper BLM office, the bid must be typed or printed plainly, signed, and dated by the offeror or an authorized agent on behalf of the present or potential lessee. Bids may be made to the BLM by other arrangements, such as electronically signed and filed, when specifically authorized by the BLM.
+
+(b) Documents signed by any party other than the present or potential lessee must be rendered in a manner to reveal the name of the present or potential lessee, the name of the signatory and their relationship. A signatory who is a member of the organization that constitutes the present or potential lessee (*e.g.,* officer of a corporation, partner of a partnership, etc.) may be requested by the authorized officer to clarify his/her relationship, when the relationship is not shown on the documents filed.

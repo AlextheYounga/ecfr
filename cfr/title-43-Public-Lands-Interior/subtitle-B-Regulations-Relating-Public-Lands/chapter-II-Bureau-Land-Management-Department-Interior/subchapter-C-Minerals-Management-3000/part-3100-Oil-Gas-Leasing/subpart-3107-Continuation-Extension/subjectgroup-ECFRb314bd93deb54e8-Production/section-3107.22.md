@@ -1,0 +1,3 @@
+##### § 3107.22 Cessation of production. #####
+
+A lease in its extended term because of production (and lacking a well capable of production in paying quantities) will not expire upon cessation of production, if, within 60 calendar days of cessation of production, reworking or drilling operations on the leasehold are commenced and are thereafter conducted with reasonable diligence during the period of nonproduction. If these reworking or drilling operations fail to result in production in paying quantities, the lease will expire by operation of law, effective as of the date paying production ceased.

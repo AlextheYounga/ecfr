@@ -1,7 +1,5 @@
 ##### § 483.10 Resident rights. #####
 
-Link to an amendment published at 89 FR 40996, May 10, 2024.
-
 (a) *Residents rights.* The resident has a right to a dignified existence, self-determination, and communication with and access to persons and services inside and outside the facility, including those specified in this section.
 
 (1) A facility must treat each resident with respect and dignity and care for each resident in a manner and in an environment that promotes maintenance or enhancement of his or her quality of life, recognizing each resident's individuality. The facility must protect and promote the rights of the resident.
@@ -414,7 +412,7 @@ Link to an amendment published at 89 FR 40996, May 10, 2024.
 
 (3) The resident has a right to secure and confidential personal and medical records.
 
-(i) The resident has the right to refuse the release of personal and medical records except as provided at § 483.70(i)(2) or other applicable federal or state laws.
+(i) The resident has the right to refuse the release of personal and medical records except as provided at § 483.70(h)(2) or other applicable Federal or State laws.
 
 (ii) The facility must allow representatives of the Office of the State Long-Term Care Ombudsman to examine a resident's medical, social, and administrative records in accordance with State law.
 
@@ -462,4 +460,4 @@ Link to an amendment published at 89 FR 40996, May 10, 2024.
 
 (k) *Contact with external entities.* A facility must not prohibit or in any way discourage a resident from communicating with federal, state, or local officials, including, but not limited to, federal and state surveyors, other federal or state health department employees, including representatives of the Office of the State Long-Term Care Ombudsman, and any representative of the agency responsible for the protection and advocacy system for individuals with mental disorder (established under the Protection and Advocacy for Mentally Ill Individuals Act of 2000 (42 U.S.C. 10801 *et seq.*), regarding any matter, whether or not subject to arbitration or any other type of judicial or regulatory action.
 
-[81 FR 68849, Oct. 4, 2016, as amended at 82 FR 32259, July 13, 2017]
+[81 FR 68849, Oct. 4, 2016, as amended at 82 FR 32259, July 13, 2017; 89 FR 40996, May 10, 2024]

@@ -1,5 +1,7 @@
 ##### § 133.52 Disposition of forfeited merchandise. #####
 
+Link to an amendment published at 89 FR 52378, June 24, 2024.
+
 (a) *Trademark (other than counterfeit) or trade name violations.* Articles forfeited for violation of the trademark laws, other than articles bearing a counterfeit trademark, shall be disposed of in accordance with the procedures applicable to forfeitures for violation of the Customs laws, after the removal or obliteration of the name, mark, or trademark by reason of which the articles were seized.
 
 (b) *Copyright violations.* Articles forfeited for violation of the copyright laws shall be destroyed.

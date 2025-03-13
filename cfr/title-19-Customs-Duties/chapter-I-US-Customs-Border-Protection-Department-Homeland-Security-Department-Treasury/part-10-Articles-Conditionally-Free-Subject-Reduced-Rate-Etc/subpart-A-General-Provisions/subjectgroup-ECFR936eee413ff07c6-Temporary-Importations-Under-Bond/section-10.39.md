@@ -26,4 +26,4 @@
 
 (g) If the petitioner is not satisfied with the port director's action under this section and submits a supplemental petition, both the original and the supplemental petitions shall be transmitted to the designated Headquarters official with a full report on the case.
 
-[28 FR 14663, Dec. 31, 1963]Editorial Note:For Federal Register citations affecting § 10.39, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[28 FR 14663, Dec. 31, 1963] Editorial Note:For Federal Register citations affecting § 10.39, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

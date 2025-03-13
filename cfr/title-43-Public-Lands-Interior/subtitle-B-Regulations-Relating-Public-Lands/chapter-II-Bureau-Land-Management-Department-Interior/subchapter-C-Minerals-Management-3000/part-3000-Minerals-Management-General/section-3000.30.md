@@ -1,0 +1,3 @@
+##### § 3000.30 Unlawful interests. #####
+
+No member of, or delegate to, Congress, or Resident Commissioner, and no employee of the Department of the Interior, except as provided in 43 CFR part 20, is allowed or entitled to acquire or hold any Federal lease, or interest therein. (Officer, agent or employee of the Department—see 43 CFR part 20; Member of Congress—see R.S. 3741; 41 U.S.C. 22; 18 U.S.C. 431-433.)

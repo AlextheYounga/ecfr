@@ -46,4 +46,4 @@ at the port of first arrival from a foreign country shall declare on CBP Form 22
 
 (f) *Inbound international mail shipments.* This section does not apply to the United States Postal Service's transmission of advance electronic information for inbound international mail shipments by vessel, see § 145.74 of this chapter.
 
-[T.D. 71-169, 36 FR 12602, July 2, 1971]Editorial Note:For Federal Register citations affecting § 4.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 71-169, 36 FR 12602, July 2, 1971] Editorial Note:For Federal Register citations affecting § 4.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

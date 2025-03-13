@@ -1,0 +1,3 @@
+##### § 3106.75 Effect of transfer. #####
+
+An assignment of record title to 100 percent of a portion of the lease segregates the transferred portion and the retained portion into separate leases. Each resulting lease retains the anniversary date and the terms and conditions of the original lease. An assignment of record title to less than 100 percent of a portion of the lease or a transfer of operating rights (sublease) will not segregate the transferred and retained portions into separate leases.

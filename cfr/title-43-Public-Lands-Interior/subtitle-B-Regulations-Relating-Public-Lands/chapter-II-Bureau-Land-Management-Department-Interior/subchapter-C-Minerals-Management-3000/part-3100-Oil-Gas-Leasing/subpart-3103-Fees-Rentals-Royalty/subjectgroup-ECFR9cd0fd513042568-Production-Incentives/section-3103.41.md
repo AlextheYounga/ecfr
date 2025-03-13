@@ -1,0 +1,11 @@
+##### § 3103.41 Royalty reductions. #####
+
+(a) In order to encourage the greatest ultimate recovery of oil or gas and in the interest of conservation, the Secretary, upon a determination that it is necessary to promote development or that the leases cannot be produced in paying quantities under the terms provided therein, may waive, suspend or reduce the rental or minimum royalty or reduce the royalty on an entire leasehold, or any portion thereof.
+
+(b)(1) An application for the benefits under paragraph (a) of this section must be filed by the operator/payor in the proper BLM office. The application must contain the serial number of the leases, the names of the record title holders, operating rights owners (sublessees), and operators for each lease, the description of lands by legal subdivision and a description of the relief requested.
+
+(2) Each application must show the number, location and status of each well drilled, a tabulated statement for each month covering a period of not less than 6 months prior to the date of filing the application of the aggregate amount of oil or gas subject to royalty, the number of wells counted as producing each month and the average production per well per day.
+
+(3) Every application must contain a detailed statement of expenses and costs of operating the entire lease, the income from the sale of any production and all facts tending to show whether the wells can be produced in paying quantities upon the fixed royalty or rental. Where the application is for a reduction in royalty, complete information must be furnished as to whether overriding royalties, payments out of production, or similar interests are paid to others than the United States, the amounts so paid and efforts made to reduce them. The applicant must also file agreements of the holders to a reduction of all other royalties or similar payments from the leasehold to an aggregate not in excess of one-half the royalties due the United States.
+
+(c) Petition may be made for a reduction of royalty for leases reinstated under 43 CFR 3108.23. Petitions to waive, suspend or reduce rental or minimum royalty for leases reinstated under 43 CFR 3108.23 may be made under this section.

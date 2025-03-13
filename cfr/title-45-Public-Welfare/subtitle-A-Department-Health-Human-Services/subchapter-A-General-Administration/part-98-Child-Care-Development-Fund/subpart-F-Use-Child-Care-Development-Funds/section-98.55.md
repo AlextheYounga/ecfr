@@ -42,7 +42,7 @@
 
 (1) In-kind contributions; and
 
-(2) Family contributions to the cost of care as required by § 98.45(k).
+(2) Family contributions to the cost of care as required by § 98.45(l).
 
 (h) Public pre-kindergarten (pre-K) expenditures:
 
@@ -54,6 +54,6 @@
 
 (4) If applicable, the CCDF Plan shall reflect the State's intent to use public pre-K funds in excess of 10%, but not for more than 20% of its maintenance-of-effort or 30% of its State matching funds in a fiscal year. Also, the Plan shall describe how the State will coordinate its pre-K and child care services to expand the availability of child care.
 
-(i) Matching funds are subject to the obligation and liquidation requirements at § 98.60(d)(3).
+(i) Matching funds are subject to the obligation and liquidation requirements at § 98.60(d)(4).
 
-[63 FR 39981, July 24, 1998, as amended at 72 FR 27979, May 18, 2007. Redesignated and amended at 81 FR 67588, 67590, Sept. 30, 2016]
+[63 FR 39981, July 24, 1998, as amended at 72 FR 27979, May 18, 2007. Redesignated and amended at 81 FR 67588, 67590, Sept. 30, 2016; 89 FR 52397, June 24, 2024]

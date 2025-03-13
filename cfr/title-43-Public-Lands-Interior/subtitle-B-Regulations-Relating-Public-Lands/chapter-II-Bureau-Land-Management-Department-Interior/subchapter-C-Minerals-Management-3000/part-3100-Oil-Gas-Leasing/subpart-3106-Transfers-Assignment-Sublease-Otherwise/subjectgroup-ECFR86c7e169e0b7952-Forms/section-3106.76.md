@@ -1,0 +1,5 @@
+##### § 3106.76 Obligations of assignee or transferee. #####
+
+(a) The assignee of record title agrees to comply with the terms of the original lease during the lease tenure. The assignee assumes the responsibility to plug and abandon all wells which are no longer capable of producing, reclaim the lease site, and remedy all environmental problems in existence and that a purchaser exercising reasonable diligence should have known existed at the time of the transfer. When required, the record title holder must also maintain an adequate bond to ensure performance of these responsibilities.
+
+(b) The transferee of operating rights agrees to comply with the terms of the original lease as it applies to the area or horizons for the interest acquired. The transferee assumes the responsibility to plug and abandon all wells that are no longer capable of producing, reclaim the lease site, and remedy all environmental problems in existence and that a purchaser exercising reasonable diligence should have known existed at the time of the transfer. When required, the operating rights holder must also maintain an adequate bond to ensure performance of these responsibilities.

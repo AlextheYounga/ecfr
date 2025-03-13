@@ -1,5 +1,7 @@
 ##### § 151.16 Detention of merchandise. #####
 
+Link to an amendment published at 89 FR 52379, June 24, 2024.
+
 (a) *Exemptions from applicability.* The provisions of this section are not applicable to detentions effected by CBP on behalf of other agencies of the U.S. Government in whom the determination of admissibility is vested and to detentions arising from possibly piratical copies (see part 133, subpart E, of this Chapter), goods bearing marks which are confusingly similar to recorded trademarks, or restricted gray market merchandise (see part 133, subpart C, of this chapter.)
 
 (b) *Decision to detain or release.* Within the 5-day period (excluding weekends and holidays) following the date on which merchandise is presented for Customs examination, Customs shall decide whether to release or detain merchandise. Merchandise which is not released within such 5-day period shall be considered to be detained merchandise. For purposes of this section, merchandise shall be considered to be presented for Customs examination when it is in a condition to be viewed and examined by a Customs officer. Mere presentation to the examining officer of a cargo van, container or instrument of international traffic in which the merchandise to be examined is contained will not be considered to be presentation of merchandise for Customs examination for purposes of this section. Except when merchandise is examined at the public stores, the importer shall pay all costs relating to the preparation and transportation of merchandise for examination.

@@ -38,7 +38,7 @@ Number of pages of the traveling
 
 manifest \_\_\_\_\_\_\_\_.
 
-(Customs Officer and Title)Declaration on Entry of Aircraft at Following AirportAirport of ArrivalDate
+(Customs Officer and Title)Declaration on Entry of Aircraft at Following Airport Airport of ArrivalDate
 
 I, \_\_\_\_\_\_\_\_\_\_, commander or authorized agent of the aircraft identified in this document, declare and guarantee that there were not, when such aircraft departed from the airport of \_\_\_\_\_\_\_\_, nor have been since, nor now are, any more or other goods, wares, or merchandise on board than was stated in the attached manifests.
 

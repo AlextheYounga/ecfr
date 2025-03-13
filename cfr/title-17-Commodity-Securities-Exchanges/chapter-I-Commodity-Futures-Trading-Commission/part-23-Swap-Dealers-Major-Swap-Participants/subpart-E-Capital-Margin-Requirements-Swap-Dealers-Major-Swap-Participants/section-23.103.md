@@ -1,10 +1,8 @@
 ##### § 23.103 Calculation of market risk exposure requirement and credit risk requirement when models are not approved. #####
 
-Link to an amendment published at 89 FR 45586, May 23, 2024.
-
 (a) *Non-model approach.* A swap dealer that:
 
-(1) Does not compute its regulatory capital requirements under § 23.101(a)(1)(i), and
+(1) Computes its regulatory capital requirements under § 23.101(a)(1)(ii) or (a)(2), and
 
 (2) Either:
 
@@ -18,10 +16,10 @@ Link to an amendment published at 89 FR 45586, May 23, 2024.
 
 (3) In computing its minimum capital requirement under § 23.101(a)(2), a swap dealer must add the amount of the market risk capital charge computed under this section to the $20 million minimum capital requirement.
 
-(c) *Credit risk charges.* (1) A swap dealer that computes regulatory capital under § 23.101(a)(1)(ii) shall compute counterparty credit risk charges using the applicable standardized credit risk charges set forth in § 240.18a-1 of this title and § 1.17 of this chapter for such positions.
+(c) *Credit risk charges.*(1) A swap dealer that computes regulatory capital under § 23.101(a)(1)(ii) or (a)(2) shall compute counterparty credit risk charges using the applicable standardized credit risk charges set forth in § 240.18a-1 of this title and § 1.17 of this chapter for such positions.
 
 (2) In computing its net capital under § 23.101(a)(1)(ii), a swap dealer shall reduce its tentative net capital by the sum of the counterparty credit risk charges computed under paragraph (c)(1) of this section.
 
 (3) In computing its minimum capital requirement under § 23.101(a)(2), a swap dealer must add the amount of the credit risk charge computed under this section to the $20 million minimum capital requirement.
 
-[85 FR 57551, Sept. 15, 2020]
+[85 FR 57551, Sept. 15, 2020, as amended at 89 FR 45586, May 23, 2024]

@@ -26,8 +26,7 @@ I declare that the information on this invoice is accurate to the best of my kno
 
 (i) A shipment of merchandise not exceeding $2,500 in value which is imported by an express consignment operator or carrier and which meets the requirements in § 128.24 of this chapter may be entered as provided in that section.
 
-(j) Except for mail importations (see §§ 145.31 and 145.32 of this chapter), or in the case of personal written or oral declarations (see §§ 148.12, 148.13, and 148.62 of this chapter), a
-shipment of merchandise that qualifies for informal entry under 19 U.S.C. 1498 may be entered, including the information listed in paragraph (k) of this section, by presenting the bill of lading or a manifest listing each bill of lading when:
+(j) Except for mail importations (see §§ 145.31 and 145.32 of this chapter), or in the case of personal written or oral declarations (see §§ 148.12, 148.13, and 148.62 of this chapter), a shipment of merchandise that qualifies for informal entry under 19 U.S.C. 1498 may be entered, including the information listed in paragraph (k) of this section, by presenting the bill of lading or a manifest listing each bill of lading when:
 
 (1) The value of the shipment does not exceed $100 in the case of a bona fide gift from a person in a foreign country to a person in the United States and the shipment meets the requirements in § 10.152 of this chapter (see § 10.152 of this chapter);
 

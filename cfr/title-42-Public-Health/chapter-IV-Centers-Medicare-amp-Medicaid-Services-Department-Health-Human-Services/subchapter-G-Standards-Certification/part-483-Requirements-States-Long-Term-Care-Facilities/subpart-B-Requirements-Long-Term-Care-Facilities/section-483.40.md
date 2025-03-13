@@ -1,12 +1,10 @@
 ##### § 483.40 Behavioral health services. #####
 
-Link to an amendment published at 89 FR 40999, May 10, 2024.
-
 Each resident must receive and the facility must provide the necessary behavioral health care and services to attain or maintain the highest practicable physical, mental, and psychosocial well-being, in accordance with the comprehensive assessment and plan of care. Behavioral health encompasses a resident's whole emotional and mental well-being, which includes, but is not limited to, the prevention and treatment of mental and substance use disorders.
 
-(a) The facility must have sufficient staff who provide direct services to residents with the appropriate competencies and skills sets to provide nursing and related services to assure resident safety and attain or maintain the highest practicable physical, mental and psychosocial well-being of each resident, as determined by resident assessments and individual plans of care and considering the number, acuity and diagnoses of the facility's resident population in accordance with § 483.70(e). These competencies and skills sets include, but are not limited to, knowledge of and appropriate training and supervision for:
+(a) The facility must have sufficient staff who provide direct services to residents with the appropriate competencies and skills sets to provide nursing and related services to assure resident safety and attain or maintain the highest practicable physical, mental and psychosocial well-being of each resident, as determined by resident assessments and individual plans of care and considering the number, acuity and diagnoses of the facility's resident population in accordance with § 483.71. These competencies and skills sets include, but are not limited to, knowledge of and appropriate training and supervision for:
 
-(1) Caring for residents with mental and psychosocial disorders, as well as residents with a history of trauma and/or post-traumatic stress disorder, that have been identified in the facility assessment conducted pursuant to § 483.70(e), and
+(1) Caring for residents with mental and psychosocial disorders, as well as residents with a history of trauma and/or post-traumatic stress disorder, that have been identified in the facility assessment conducted pursuant to § 483.71; and
 
 (2) Implementing non-pharmacological interventions.
 
@@ -22,8 +20,8 @@ Each resident must receive and the facility must provide the necessary behaviora
 
 (1) Provide the required services, including specialized rehabilitation services as required in § 483.65; or
 
-(2) Obtain the required services from an outside resource (in accordance with § 483.70(g) of this part) from a Medicare and/or Medicaid provider of specialized rehabilitative services.
+(2) Obtain the required services from an outside resource (in accordance with § 483.70(f)) from a Medicare and/or Medicaid provider of specialized rehabilitative services.
 
 (d) The facility must provide medically-related social services to attain or maintain the highest practicable physical, mental and psychosocial well-being of each resident.
 
-[81 FR 68862, Oct. 4, 2016]
+[81 FR 68862, Oct. 4, 2016, as amended at 89 FR 40999, May 10, 2024]

@@ -1,0 +1,3 @@
+##### § 3104.60 Where filed and number of copies. #####
+
+All bonds must be filed in the proper BLM office on a current form approved by the Director. A single copy executed by the principal or, in the case of surety bonds, by both the principal and an acceptable surety is sufficient. A bond filed on a form not currently in use will be acceptable, unless such form has been declared obsolete by the Director prior to the filing of such bond. For purposes of 43 CFR 3104.20 and 3104.30, bonds or bond riders must be filed in the BLM State office having jurisdiction over the lease or operations covered by the bond or rider.

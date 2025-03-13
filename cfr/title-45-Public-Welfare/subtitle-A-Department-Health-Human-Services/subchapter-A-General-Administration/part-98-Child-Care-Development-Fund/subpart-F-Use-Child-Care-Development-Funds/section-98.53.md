@@ -1,6 +1,6 @@
 ##### § 98.53 Activities to improve the quality of child care. #####
 
-(a) The Lead Agency must expend funds from each fiscal year's allotment on quality activities pursuant to §§ 98.50(b) and 98.83(g) in accordance with an assessment of need by the Lead Agency. Such funds must be used to carry out at least one of the following quality activities to improve the quality of child care services for all children, regardless of CCDF receipt, in accordance with paragraph (d) of this section:
+(a) The Lead Agency must expend funds from each fiscal year's allotment on quality activities pursuant to §§ 98.50(b) and 98.83(g) in accordance with an assessment of need by the Lead Agency. Such funds must be used to carry out at least one of the following quality activities to improve the quality of child care services for all children, regardless of CCDF receipt, in accordance with paragraph (e) of this section:
 
 (1) Supporting the training, professional development, and postsecondary education of the child care workforce as part of a progression of professional development through activities such as those included at § 98.44, in addition to:
 
@@ -98,4 +98,4 @@
 
 (5) A description of how the Lead Agency responded to complaints submitted through the national hotline and Web site, required in section 658L(b) of the CCDBG Act (42 U.S.C. 9858j(b)).
 
-[81 FR 67588, Sept. 30, 2016, as amended at 89 FR 15415, Mar. 1, 2024]
+[81 FR 67588, Sept. 30, 2016, as amended at 89 FR 15415, Mar. 1, 2024; 89 FR 52397, June 24, 2024]

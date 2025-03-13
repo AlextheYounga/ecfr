@@ -1,0 +1,3 @@
+##### § 3120.73 Compensatory royalty agreements. #####
+
+The terms and conditions of compensatory royalty agreements involving acquired lands in which the United States owns a future or fractional interest will be established on an individual case basis. Such agreements may be required when leasing is not possible in situations where the interest of the United States in the oil and gas deposit includes both a present and a future fractional interest in the same tract containing a producing well.

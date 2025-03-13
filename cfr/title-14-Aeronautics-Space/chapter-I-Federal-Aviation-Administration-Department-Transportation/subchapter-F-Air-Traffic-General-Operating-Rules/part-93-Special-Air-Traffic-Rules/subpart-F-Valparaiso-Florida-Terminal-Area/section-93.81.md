@@ -1,5 +1,7 @@
 ##### § 93.81 Applicability and description of area. #####
 
+Link to an amendment published at 89 FR 52362, June 24, 2024.
+
 The Valparaiso, Florida Terminal Area is designated as follows:
 
 (a) North-South Corridor. The North-South Corridor includes the airspace extending upward from the surface up to, but not including, 18,000 feet MSL, bounded by a line beginning at:

@@ -10,7 +10,7 @@ USAID Definitions Clause—General Supplement for Use in All USAID Contracts (JA
 
 (b) *Administrator* shall mean the Administrator or the Deputy Administrator of USAID.
 
-(c) [Reserved]
+(c) When this contract is with an educational institution Campus Coordinator shall mean the representative of the Contractor at the Contractor's home institution, who shall be responsible for coordinating the activities carried out under the contract.
 
 (d) When this contract is with an educational institution *Campus Personnel* shall mean representatives of the Contractor performing services under the contract at the Contractor's home institution and shall include the Campus Coordinator.
 
@@ -30,19 +30,7 @@ USAID Definitions Clause—General Supplement for Use in All USAID Contracts (JA
 
 (l) *Mission Director* shall mean the principal officer in the Mission in the Cooperating Country, or his/her designated representative.
 
-(c) *Alternate 71.* For use in USAID contracts with an educational institution for participant training. Use in addition to the clauses in (48 CFR) FAR 52.202-1 and in 752.202-1(b) of this chapter.
-
-USAID Definitions Clause—Supplement for Contracts With an Educational Institution for Participant Training (MAY 2011)
-
-(a) *Catalog* shall mean any medium by which the Institution publicly announces terms and conditions for enrollment in the Institution, including tuition and fees to be charged. This includes “bulletins,” “announcements,” or any other similar word the Institution may use.
-
-(b) *Director* shall mean the individual who fills the USAID position of Director, Bureau for Economic Growth, Education and Environment, Office of Education (E3/ED), or authorized representative acting within the limits of the individual's authority.
-
-(c) *Fees* shall mean those applicable charges directly related to enrollment in the Institution. This shall not include any permit charge (e.g., parking, vehicle registration), or charges for services of a personal nature (e.g., food, housing, laundry) unless specifically called for in this contract.
-
-(d) *Institution* shall mean the educational institution providing services hereunder. The terms “Institution” and “Contractor” are synonymous.
-
-(e) *Tuition* shall mean the amount of money charged by an institution for instruction, not including fees as described in this section.
+(c) [Reserved]
 
 (d) *Alternate 72.* For use in all USAID contracts which involve any performance overseas. Use in addition to the clauses in (48 CFR) FAR 52.202-1 and in 752.202-1(b) of this chapter.
 

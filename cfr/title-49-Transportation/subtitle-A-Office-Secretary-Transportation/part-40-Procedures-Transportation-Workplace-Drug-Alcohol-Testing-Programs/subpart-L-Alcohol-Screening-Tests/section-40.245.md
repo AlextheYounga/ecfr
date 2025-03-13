@@ -14,7 +14,7 @@
 
 (6)(i) If you were unable to successfully follow the procedures of paragraphs (a)(3) through (a)(5) of this section (*e.g.,* the device breaks, you drop the device on the floor), you must discard the device and conduct a new test using a new device.
 
-(ii) The new device you use must be one that has been under your control or that of the employee before the test.
+(ii) The new device you use must be one that has been under your control or that of the employer before the test.
 
 (iii) You must note on the “Remarks” line of the ATF the reason for the new test. (Note: You may continue using the same ATF with which you began the test.)
 
@@ -66,4 +66,4 @@
 
 (11) You must note the fact that you used a breath tube device in Step 3 of the ATF.
 
-[67 FR 61522, Oct. 1, 2002, as amended at 72 FR 1299, Jan. 11, 2007]
+[67 FR 61522, Oct. 1, 2002, as amended at 72 FR 1299, Jan. 11, 2007; 89 FR 51983, June 21, 2024]

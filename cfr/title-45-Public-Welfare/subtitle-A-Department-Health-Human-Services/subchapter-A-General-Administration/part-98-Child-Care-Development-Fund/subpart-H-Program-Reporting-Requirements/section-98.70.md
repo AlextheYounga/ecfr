@@ -32,6 +32,6 @@
 
 (2) Quarterly financial reports under § 98.65(g); and
 
-(3) Annual quality progress reports under § 98.53(f).
+(3) Annual quality progress reports under § 98.53(g).
 
-[63 FR 39981, July 24, 1998, as amended at 81 FR 67592, Sept. 30, 2016]
+[63 FR 39981, July 24, 1998, as amended at 81 FR 67592, Sept. 30, 2016; 89 FR 52397, June 24, 2024]

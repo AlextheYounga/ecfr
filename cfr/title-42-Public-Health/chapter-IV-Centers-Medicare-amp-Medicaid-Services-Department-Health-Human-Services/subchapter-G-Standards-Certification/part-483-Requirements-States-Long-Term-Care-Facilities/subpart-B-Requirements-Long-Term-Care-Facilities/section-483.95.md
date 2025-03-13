@@ -1,8 +1,6 @@
 ##### § 483.95 Training requirements. #####
 
-Link to an amendment published at 89 FR 41000, May 10, 2024.
-
-A facility must develop, implement, and maintain an effective training program for all new and existing staff; individuals providing services under a contractual arrangement; and volunteers, consistent with their expected roles. A facility must determine the amount and types of training necessary based on a facility assessment as specified at § 483.70(e). Training topics must include but are not limited to—
+A facility must develop, implement, and maintain an effective training program for all new and existing staff; individuals providing services under a contractual arrangement; and volunteers, consistent with their expected roles. A facility must determine the amount and types of training necessary based on a facility assessment as specified at § 483.71. Training topics must include but are not limited to—
 
 (a) *Communication.* A facility must include effective communications as mandatory training for direct care staff.
 
@@ -40,4 +38,4 @@ A facility must develop, implement, and maintain an effective training program f
 
 (i) *Behavioral health.* A facility must provide behavioral health training consistent with the requirements at § 483.40 and as determined by the facility assessment at § 483.70(e).
 
-[81 FR 68870, Oct. 4, 2016]
+[81 FR 68870, Oct. 4, 2016, as amended at 89 FR 41000, May 10, 2024]

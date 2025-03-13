@@ -1,31 +1,24 @@
-##### § 3104.1 Bond obligations. #####
+##### § 3104.1 Bond amounts. #####
 
-(a) Prior to the commencement of surface disturbing activities related to drilling operations, the lessee, operating rights owner (sublessee), or operator shall submit a surety or a personal bond, conditioned upon compliance with all of the terms and conditions of the entire leasehold(s) covered by the bond, as described in this subpart. The bond amounts shall be not less than the minimum amounts described in this subpart in order to ensure compliance with the act, including complete and timely plugging of the well(s), reclamation of the lease area(s), and the restoration of any lands or surface waters adversely affected by lease operations after the abandonment or cessation of oil and gas operations on the lease(s) in accordance with, but not limited to, the standards and requirements set forth in §§ 3162.3 and 3162.5 of this title and orders issued by the authorized officer.
+(a) The table in this section shows the minimum bond amounts, that the BLM will adjust every 10 years by a final rule. The BLM will adjust the amounts according to the change in the Implicit Price Deflator for Gross Domestic Product since the previous adjustment. The minimum bond amounts displayed below are effective on June 22, 2024.
 
-(b) Surety bonds shall be issued by qualified surety companies approved by the Department of the Treasury (see Department of the Treasury Circular No. 570).
+|Oil and gas (parts 3100, 3110, 3120, 3130, 3140):|Minimum bond amount|
+|-------------------------------------------------|-------------------|
+|                   Lease Bond                    |     $150,000      |
+|                 Statewide Bond                  |      500,000      |
 
-(c) Personal bonds shall be accompanied by:
+(b) The Minimum Bond Amount are not subject to appeal to the Interior Board of Land Appeals pursuant to 43 CFR part 4, subpart E.
 
-(1) Certificate of deposit issued by a financial institution, the deposits of which are Federally insured, explicitly granting the Secretary full authority to demand immediate payment in case of default in the performance of the terms and conditions of the lease. The certificate shall explicitly indicate on its face that Secretarial approval is required prior to redemption of the certificate of deposit by any party;
+(c) Principals must increase or replace all bonds not meeting the appropriate minimum bond amount in paragraph (a) by:
 
-(2) Cashier's check;
+(1) June 22, 2026, for statewide; and
 
-(3) Certified check;
+(2) June 22, 2027, for lease bonds.
 
-(4) Negotiable Treasury securities of the United States of a value equal to the amount specified in the bond. Negotiable Treasury securities shall be accompanied by a proper conveyance to the Secretary of full authority to sell such securities in case of default in the performance of the terms and conditions of a lease; or
+(d) Failure to increase or replace an existing bond that does not meet the minimum bond amount may:
 
-(5) Irrevocable letter of credit issued by a financial institution, the deposits of which are Federally insured, for a specific term, identifying the Secretary as sole payee with full authority to demand immediate payment in the case of default in the performance of the terms and conditions of a lease.
+(1) Subject all wells covered by the bond(s) to shut down under the provisions of 43 CFR 3163.1(a)(3);
 
-Letters of credit shall be subject to the following conditions:
+(2) Subject all leases covered by the bond(s) to cancellation under the provisions of 43 CFR 3108.30; and
 
-(i) The letter of credit shall be issued only by a financial institution organized or authorized to do business in the United States;
-
-(ii) The letter of credit shall be irrevocable during its term. A letter of credit used as security for any lease upon which drilling has taken place and final approval of all abandonment has not been given, or as security for a statewide or nationwide lease bond, shall be forfeited and shall be collected by the authorized officer if not replaced by other suitable bond or letter of credit at least 30 days before its expiration date;
-
-(iii) The letter of credit shall be payable to the Bureau of Land Management upon demand, in part or in full, upon receipt from the authorized officer of a notice of attachment stating the basis therefor, e.g., default in compliance with the lease terms and conditions or failure to file a replacement in accordance with paragraph (c)(5)(ii) of this section;
-
-(iv) The initial expiration date of the letter of credit shall be at least 1 year following the date it is filed in the proper BLM office; and
-
-(v) The letter of credit shall contain a provision for automatic renewal for periods of not less than 1 year in the absence of notice to the proper BLM office at least 90 days prior to the originally stated or any extended expiration date.
-
-[53 FR 22838, June 17, 1988]
+(3) Result in the BLM referring the bond obligor or principal to the Department's Suspension and Debarment Program under 2 CFR part 1400 to determine if the person will be suspended or debarred from doing business with the Federal Government.

@@ -1,6 +1,6 @@
 ##### § 7.1 Puerto Rico; spirits and wines withdrawn from warehouse for shipment to; duty on foreign-grown coffee. #####
 
-(a) When spirits and wines are withdrawn from a bonded manufacturing warehouse for shipment in bond to Puerto Rico pursuant to section 311, Tariff Act of 1930, as amended,1 2 the warehouse withdrawal shall contain on the face thereof a statement of the kind and quantity of all imported merchandise (in its condition as imported) and imported containers used in the manufacture and putting up of such spirits and wines. The duty assessed on the imported merchandise and containers so used, and their classification and value, shall be shown on the withdrawal in accordance with § 144.41 of this chapter. If no imported merchandise or containers have been used, the warehouse withdrawal shall bear an endorsement to that effect. (See §§ 191.105 and 191.106 of this chapter.)
+(a) When spirits and wines are withdrawn from a bonded manufacturing warehouse for shipment in bond to Puerto Rico pursuant to section 311, Tariff Act of 1930, as amended, 1 2 the warehouse withdrawal shall contain on the face thereof a statement of the kind and quantity of all imported merchandise (in its condition as imported) and imported containers used in the manufacture and putting up of such spirits and wines. The duty assessed on the imported merchandise and containers so used, and their classification and value, shall be shown on the withdrawal in accordance with § 144.41 of this chapter. If no imported merchandise or containers have been used, the warehouse withdrawal shall bear an endorsement to that effect. (See §§ 191.105 and 191.106 of this chapter.)
 
 1 [Reserved]
 
@@ -8,7 +8,7 @@
 
 (b) The spirits and wines shall be forwarded in accordance with the general provisions of the regulations governing the transportation of merchandise in bond, part 18 of this chapter.
 
-(c) A regular entry shall be made for all foreign-grown coffee shipped to Puerto Rico from the United States, but special Customs invoices shall not be required for such shipments.3
+(c) A regular entry shall be made for all foreign-grown coffee shipped to Puerto Rico from the United States, but special Customs invoices shall not be required for such shipments. 3
 
 3 Section 319, Tariff Act of 1930, authorizes the Legislature of Puerto Rico to impose a duty on coffee imported into Puerto Rico, including coffee grown in a foreign country coming into Puerto Rico from the United States, and the Legislature of Puerto Rico has imposed such a duty.
 

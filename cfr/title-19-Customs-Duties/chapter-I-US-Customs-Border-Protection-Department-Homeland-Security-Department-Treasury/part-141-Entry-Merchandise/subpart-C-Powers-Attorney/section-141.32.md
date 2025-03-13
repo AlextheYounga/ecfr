@@ -2,7 +2,7 @@
 
 Customs Form 5291 may be used for giving power of attorney to transact Customs business. If a Customs power of attorney is not on a Customs Form 5291, it shall be either a general power of attorney with unlimited authority or a limited power of attorney as explicit in its terms and executed in the same manner as a Customs Form 5291. The following is an example of an acceptable general power of attorney with unlimited authority:
 
-KNOW ALL MEN BY THESE PRESENTS, THAT\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name of principal)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ,(State legal designation, such as corporation, individual, etc.) residing at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and doing business under the laws of the State of \_\_\_\_\_\_\_\_\_\_\_\_, hereby appoints
+KNOW ALL MEN BY THESE PRESENTS, THAT \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name of principal) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ , (State legal designation, such as corporation, individual, etc.) residing at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and doing business under the laws of the State of \_\_\_\_\_\_\_\_\_\_\_\_, hereby appoints
 
 (Name, legal designation, and address)
 

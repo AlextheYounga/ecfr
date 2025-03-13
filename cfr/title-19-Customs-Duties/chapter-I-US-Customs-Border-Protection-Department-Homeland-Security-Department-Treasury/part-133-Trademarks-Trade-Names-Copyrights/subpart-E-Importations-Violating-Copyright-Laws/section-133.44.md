@@ -1,5 +1,7 @@
 ##### § 133.44 Decision of disputed claim of infringement. #####
 
+Link to an amendment published at 89 FR 52376, June 24, 2024.
+
 (a) *Claim of infringement sustained.* Upon determination by the Commissioner of Customs or his designee that the detained article forwarded in accordance with § 133.43(c)(1) is an infringing copy, the port director shall seize the imported article and institute forfeiture proceedings in accordance with part 162 of this chapter. The bond of the copyright owner shall be returned.
 
 (b) *Denial of infringement sustained.* Upon determination by the Commissioner of Customs or his designee that the detained article forwarded in accordance with § 133.43(c)(1) is not an infringing copy, the port director shall release all detained merchandise and transmit the copyright owner's bond to the importer.

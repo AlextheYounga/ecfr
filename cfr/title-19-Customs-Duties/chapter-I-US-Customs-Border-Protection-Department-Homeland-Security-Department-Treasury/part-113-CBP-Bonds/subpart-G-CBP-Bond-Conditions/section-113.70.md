@@ -1,5 +1,7 @@
 ##### § 113.70 Bond condition to indemnify United States for detention of copyrighted material. #####
 
+Link to an amendment published at 89 FR 52373, June 24, 2024.
+
 A bond to indemnify the United States for detention of copyrighted material must contain the conditions listed in this section and must be a single transaction bond.
 
 Bond Condition To Indemnify United States for Detention of Copyrighted Material

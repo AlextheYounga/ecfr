@@ -45,4 +45,4 @@
 
 (h) Any person adversely affected by a decision of the Commissioner of Customs relating to the collection of tonnage tax, or to the refund of such tax when collected erroneously or illegally, may appeal the decision in the Court of International Trade provided that the appeal action is commenced in accordance with the rules of the Court within 2 years after the cause of action first accrues.
 
-[28 FR 14596, Dec. 31, 1963]Editorial Note:For Federal Register citations affecting § 4.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[28 FR 14596, Dec. 31, 1963] Editorial Note:For Federal Register citations affecting § 4.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

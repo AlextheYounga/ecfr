@@ -1,5 +1,7 @@
 ##### § 133.42 Infringing copies or phonorecords. #####
 
+Link to an amendment published at 89 FR 52375, June 24, 2024.
+
 (a) *Definition.* Infringing copies or phonorecords are “piratical” articles, i.e., copies or phonorecords which are unlawfully made (without the authorization of the copyright owner).
 
 (b) *Importation prohibited.* The importation of infringing copies or phonorecords of works copyrighted in the U.S. is prohibited by Customs. The importation of lawfully made copies is not a Customs violation.

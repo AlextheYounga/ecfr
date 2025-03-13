@@ -1,0 +1,3 @@
+##### § 3107.40 Extension by elimination. #####
+
+Any lease eliminated from any approved or prescribed oil and gas agreement authorized by the Act and any lease in effect at the termination of such agreement, unless relinquished, will continue in effect for the original term of the lease or for 2 years after its elimination from the agreement or after the termination of the plan or agreement, whichever is longer, and for so long thereafter as oil or gas is produced in paying quantities. No lease will be extended if the public interest requirement for an approved oil and gas agreement has not been satisfied, as determined by the authorized officer.

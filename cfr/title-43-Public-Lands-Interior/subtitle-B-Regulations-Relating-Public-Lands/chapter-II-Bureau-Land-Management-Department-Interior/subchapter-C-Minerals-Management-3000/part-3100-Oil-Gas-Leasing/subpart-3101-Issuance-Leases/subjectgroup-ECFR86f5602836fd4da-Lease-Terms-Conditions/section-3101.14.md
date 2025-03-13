@@ -1,0 +1,9 @@
+##### § 3101.14 Modification, waiver, or exception. #####
+
+(a) If the authorized officer determines that a change to a lease term or stipulation is substantial or a stipulation involves an issue of major concern to the public, except for changes to stipulations governing time of year restrictions (such as those related to protected species) supported by data showing that the restrictions are unnecessary, the changes will be subject to public review for at least 30 calendar days.
+
+(b) Prior to lease issuance, if the BLM determines that an additional stipulation will be added to the lease or a modification to an existing stipulation is required, the potential lessee must be given an opportunity to accept the additional or modified stipulation. If the potential lessee does not accept the additional or modified stipulation, the BLM may reject the bid, and may include the lands in the next Notice of Competitive Lease Sale. If the change in stipulation(s) increases the value of the parcel, the BLM will reject the bid, and will include the lands in the next Notice of Competitive Lease Sale.
+
+(c) After lease issuance, if a lessee does not accept an additional or modified stipulation, that additional or modified stipulation is not binding on the lessee and is without effect. When a stipulation is required by the relevant Resource Management Plan, or surface management agency land management plan, and was inadvertently omitted, a lessee's failure to sign and accept changes in the stipulations when requested by the authorized officer may subject the lease to cancellation.
+
+(d) A stipulation included in an oil and gas lease will be subject to modification, waiver, or exception if the authorized officer determines, in conjunction with the applicable surface management agency, that the factors leading to its inclusion in the lease have changed sufficiently to make the specific protections provided by the stipulation no longer justified.

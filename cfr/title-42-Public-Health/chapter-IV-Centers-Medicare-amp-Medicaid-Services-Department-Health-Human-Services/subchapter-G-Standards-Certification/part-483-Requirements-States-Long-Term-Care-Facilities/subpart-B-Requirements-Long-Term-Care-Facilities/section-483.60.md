@@ -1,10 +1,8 @@
 ##### § 483.60 Food and nutrition services. #####
 
-Link to an amendment published at 89 FR 40999, May 10, 2024.
-
 The facility must provide each resident with a nourishing, palatable, well-balanced diet that meets his or her daily nutritional and special dietary needs, taking into consideration the preferences of each resident.
 
-(a) *Staffing.* The facility must employ sufficient staff with the appropriate competencies and skills sets to carry out the functions of the food and nutrition service, taking into consideration resident assessments, individual plans of care and the number, acuity and diagnoses of the facility's resident population in accordance with the facility assessment required at § 483.70(e). This includes:
+(a) *Staffing.* The facility must employ sufficient staff with the appropriate competencies and skills sets to carry out the functions of the food and nutrition service, taking into consideration resident assessments, individual plans of care and the number, acuity and diagnoses of the facility's resident population in accordance with the facility assessment required at § 483.71. This includes:
 
 (1) A qualified dietitian or other clinically qualified nutrition professional either full-time, part-time, or on a consultant basis. A qualified dietitian or other clinically qualified nutrition professional is one who—
 
@@ -112,4 +110,4 @@ The facility must provide each resident with a nourishing, palatable, well-balan
 
 (4) Dispose of garbage and refuse properly.
 
-[81 FR 68864, Oct. 4, 2016, as amended at 87 FR 47618, Aug. 3, 2022]
+[81 FR 68864, Oct. 4, 2016, as amended at 87 FR 47618, Aug. 3, 2022; 89 FR 40999, May 10, 2024]

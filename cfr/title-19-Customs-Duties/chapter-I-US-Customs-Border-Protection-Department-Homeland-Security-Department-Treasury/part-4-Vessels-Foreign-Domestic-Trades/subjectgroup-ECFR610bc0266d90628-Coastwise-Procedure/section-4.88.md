@@ -1,10 +1,10 @@
 ##### § 4.88 Vessels with residue cargo for foreign ports. #####
 
-(a) Any foreign vessel or documented vessel with a registry endorsement which arrives at a port in the United States from a foreign port shall not be required to unlade any merchandise manifested for a foreign destination provided a bond on Customs Form 301, containing the bond conditions set forth in § 113.64 of this chapter relating to international carriers in a suitable amount is on file with the director of the port of first entry.119
+(a) Any foreign vessel or documented vessel with a registry endorsement which arrives at a port in the United States from a foreign port shall not be required to unlade any merchandise manifested for a foreign destination provided a bond on Customs Form 301, containing the bond conditions set forth in § 113.64 of this chapter relating to international carriers in a suitable amount is on file with the director of the port of first entry. 119
 
 119 “Any vessel having on board merchandise shown by the manifest to be destined to a foreign port or place may, after the report and entry of such vessel under the provisions of this Act, proceed to such foreign port of destination with the cargo so destined therefor, without unlading the same and without the payment of duty thereon. \* \* \*” (Tariff Act of 1930, sec. 442; 19 U.S.C. 1442)
 
-(b) The port director shall designate the items of such merchandise, if any, for which foreign landing certificates120 will be required.
+(b) The port director shall designate the items of such merchandise, if any, for which foreign landing certificates 120 will be required.
 
 120 “The Secretary of the Treasury may by regulations require the production of landing certificates in respect of merchandise exported from the United States, or in respect of residue cargo, in cases in which he deems it necessary for the protection of the revenue.” (Tariff Act of 1930, sec. 622; 19 U.S.C. 1622)
 

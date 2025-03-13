@@ -1,0 +1,3 @@
+##### § 3140.50 Duration of the lease. #####
+
+A combined hydrocarbon lease will be for a primary term of 10 years and for so long thereafter as oil or gas is produced in paying quantities. If the applicant withdraws the combined hydrocarbon lease application or the BLM denies the conversion application, the suspension on the oil and gas lease will be lifted and the term will be extended by the time remaining on the term of the lease.

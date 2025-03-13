@@ -1,5 +1,7 @@
 ##### § 40.73 How is an oral fluid specimen collected? #####
 
+Link to an amendment published at 89 FR 51986, June 21, 2024.
+
 (a) The collector must be present and maintain visual contact with the employee during the procedures outlined in this section.
 
 (b) The collector must note any unusual behavior or appearance of the employee on the CCF. If the collector detects any conduct that clearly indicates an attempt to tamper with a specimen (*e.g.,* an attempt to bring into the collection site an adulterant or oral fluid substitute), the collector must terminate the collection and report the information to the DER so that the employer can decide whether to deem the situation a refusal.

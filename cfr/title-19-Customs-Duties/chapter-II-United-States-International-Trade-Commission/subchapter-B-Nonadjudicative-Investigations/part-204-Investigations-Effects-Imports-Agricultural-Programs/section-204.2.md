@@ -1,6 +1,6 @@
 ##### § 204.2 Investigations. #####
 
-The Commission will make an investigation for the purposes of section 22(a) of the Agricultural Adjustment Act, as amended, only upon request of the President.2
+The Commission will make an investigation for the purposes of section 22(a) of the Agricultural Adjustment Act, as amended, only upon request of the President. 2
 
 2 Applications for investigations for the purposes of section 22 of this Agricultural Adjustment Act, as amended, must be filed with the Secretary of Agriculture (Executive Order 7233).
 

@@ -1,5 +1,7 @@
 ##### § 537.7 Pre-model year and mid-model year reports. #####
 
+Link to an amendment published at 89 FR 52954, June 24, 2024.
+
 (a) *Report submission requirements.* (1) Manufacturers must provide a report with the information required by paragraphs (b) and (c) of this section for each domestic and import passenger automobile fleet, as specified in part 531 of this chapter, for the current model year.
 
 (2) Manufacturers must provide a report with the information required by paragraphs (b) and (c) of this section for each light truck fleet, as specified in part 533 of this chapter, for the current model year.

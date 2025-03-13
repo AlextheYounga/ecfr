@@ -1,0 +1,3 @@
+##### § 3101.22 Acquired lands. #####
+
+Separate from, and in addition to, the limitation for public domain lands, no person may take, hold, own or control more than 246,080 acres of Federal oil and gas leases on acquired lands in any one State at any one time. No more than 200,000 acres of such acres may be held under option. Where the United States owns only a fractional interest in the mineral resources of the lands involved in a lease, only that part owned by the United States will be charged as acreage holdings. The acreage embraced in a future interest lease will not be charged as acreage holdings until the lease for the future interest becomes effective.

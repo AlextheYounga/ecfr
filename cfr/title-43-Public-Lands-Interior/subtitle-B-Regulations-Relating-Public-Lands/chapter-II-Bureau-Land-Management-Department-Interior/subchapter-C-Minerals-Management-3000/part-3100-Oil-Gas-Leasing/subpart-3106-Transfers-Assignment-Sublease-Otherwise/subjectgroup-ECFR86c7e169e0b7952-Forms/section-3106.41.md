@@ -1,0 +1,3 @@
+##### § 3106.41 Transfers of record title and of operating rights (subleases). #####
+
+Each transfer of record title or of an operating right (sublease) must be filed with the proper BLM office on a current form approved by the Director. A separate form for each transfer, in triplicate, must be filed for each lease out of which a transfer is made. The BLM does not require triplicate copies of the assignment or transfer when it is electronically submitted. Copies of documents other than the current form approved by the Director must not be submitted. However, reference(s) to other documents containing information affecting the terms of the transfer may be made on the submitted form.

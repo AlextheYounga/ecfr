@@ -1,5 +1,7 @@
 ##### § 133.25 Procedure on detention of articles subject to restriction. #####
 
+Link to an amendment published at 89 FR 52374, June 24, 2024.
+
 (a) *In general.* Articles subject to the restrictions of §§ 133.22 and 133.23 shall be detained for 30 days from the date on which the merchandise is presented for Customs examination. The importer shall be notified of the decision to detain within 5 days of the decision that such restrictions apply. The importer may, during the 30-day period, establish that any of the circumstances described in § 133.22(c) or § 133.23(d) are applicable. Extensions of the 30-day time period may be freely granted for good cause shown.
 
 (b) *Notice of detention and disclosure of information.* From the time merchandise is presented for Customs examination until the time a notice of detention is issued, Customs may disclose to the owner of the trademark or trade name any of the following information in order to obtain assistance in determining whether an imported article bears an infringing trademark or trade name. Once a notice of detention is issued, Customs shall disclose to the owner of the trademark or trade name the following information, if available, within 30 days, excluding weekends and holidays, of the date of detention:

@@ -1,7 +1,5 @@
 ##### § 483.5 Definitions. #####
 
-Link to an amendment published at 89 FR 40996, May 10, 2024.
-
 As used in this subpart, the following definitions apply:
 
 *Abuse.* Abuse is the willful infliction of injury, unreasonable confinement, intimidation, or punishment with resulting physical harm, pain or mental anguish. Abuse also includes the deprivation by an individual, including a caretaker, of goods or services that are necessary to attain or maintain physical, mental, and psychosocial well-being. Instances of abuse of all residents, irrespective of any mental or physical condition, cause physical harm, pain or mental anguish. It includes verbal abuse, sexual abuse, physical abuse, and mental abuse including abuse facilitated or enabled through the use of technology. *Willful,* as used in this definition of abuse, means the individual must have acted deliberately, not that the individual must have intended to inflict injury or harm.
@@ -58,6 +56,8 @@ As used in this subpart, the following definitions apply:
 
 *Fully sprinklered.* A fully sprinklered long term care facility is one that has all areas sprinklered in accordance with National Fire Protection Association 13 “Standard for the Installation of Sprinkler Systems” without the use of waivers or the Fire Safety Evaluation System.
 
+*Hours per resident day.* Staffing hours per resident per day is the total number of hours worked by each type of staff divided by the total number of residents as calculated by CMS.
+
 *Licensed health professional.* A licensed health professional is a physician; physician assistant; nurse practitioner; physical, speech, or occupational therapist; physical or occupational therapy assistant; registered professional nurse; licensed practical nurse; or licensed or certified social worker; or registered respiratory therapist or certified respiratory therapy technician.
 
 *Major modification* means the modification of more than 50 percent, or more than 4,500 square feet, of the smoke compartment.
@@ -71,6 +71,8 @@ As used in this subpart, the following definitions apply:
 *Nurse aide.* A nurse aide is any individual providing nursing or nursing-related services to residents in a facility. This term may also include an individual who provides these services through an agency or under a contract with the facility, but is not a licensed health professional, a registered dietitian, or someone who volunteers to provide such services without pay. Nurse aides do not include those individuals who furnish services to residents only as paid feeding assistants as defined in § 488.301 of this chapter.
 
 *Person-centered care.* For purposes of this subpart, person-centered care means to focus on the resident as the locus of control and support the resident in making their own choices and having control over their daily lives.
+
+*Representative of direct care employees.* A representative of direct care employees is an employee of the facility or a third party authorized by direct care employees at the facility to provide expertise and input on behalf of the employees for the purposes of informing a facility assessment.
 
 *Resident representative.* For purposes of this subpart, the term resident representative means any of the following:
 
@@ -88,4 +90,4 @@ As used in this subpart, the following definitions apply:
 
 *Transfer and discharge* includes movement of a resident to a bed outside of the certified facility whether that bed is in the same physical plant or not. Transfer and discharge does not refer to movement of a resident to a bed within the same certified facility.
 
-[68 FR 46071, Aug. 4, 2003, as amended at 71 FR 39229, July 12, 2006; 71 FR 55340, Sept. 22, 2006; 79 FR 27155, May 12, 2014; 81 FR 68848, Oct. 4, 2016; 82 FR 32259, July 13, 2017]
+[68 FR 46071, Aug. 4, 2003, as amended at 71 FR 39229, July 12, 2006; 71 FR 55340, Sept. 22, 2006; 79 FR 27155, May 12, 2014; 81 FR 68848, Oct. 4, 2016; 82 FR 32259, July 13, 2017; 89 FR 40996, May 10, 2024]

@@ -1,5 +1,7 @@
 ##### § 533.6 Measurement and calculation procedures. #####
 
+Link to an amendment published at 89 FR 52949, June 24, 2024.
+
 (a) Any reference to a class of light trucks manufactured by a manufacturer shall be deemed—
 
 (1) To include all light trucks in that class manufactured by persons who control, are controlled by, or are under common control with, such manufacturer;

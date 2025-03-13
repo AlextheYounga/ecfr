@@ -42,11 +42,11 @@
 
 3. Percent by area of external surface area of upper (excluding reinforcements and accessories) which is:
 
-Leather a. \_\_\_\_\_\_\_\_%Composition Leather b. \_\_\_\_\_\_\_\_%Rubber and/or plastics c. \_\_\_\_\_\_\_\_%Textile materials d. \_\_\_\_\_\_\_\_%Other (give separate e. \_\_\_\_\_\_\_\_%Percent for each f. \_\_\_\_\_\_\_\_%Type of material)
+Leather a. \_\_\_\_\_\_\_\_%Composition Leather b. \_\_\_\_\_\_\_\_% Rubber and/or plastics c. \_\_\_\_\_\_\_\_%Textile materials d. \_\_\_\_\_\_\_\_%Other (give separate e. \_\_\_\_\_\_\_\_% Percent for each f. \_\_\_\_\_\_\_\_%Type of material)
 
 4. Percent by area of external Surface area of outersole (excluding reinforcements and accessories) which is:
 
-Leather a. \_\_\_\_\_\_\_\_%Composition Leather b. \_\_\_\_\_\_\_\_%Rubber and/or plastics c. \_\_\_\_\_\_\_\_%Textile materials d. \_\_\_\_\_\_\_\_%Other (give separate e. \_\_\_\_\_\_\_\_%Percent for each f. \_\_\_\_\_\_\_\_%Type of material)
+Leather a. \_\_\_\_\_\_\_\_% Composition Leather b. \_\_\_\_\_\_\_\_% Rubber and/or plastics c. \_\_\_\_\_\_\_\_%Textile materials d. \_\_\_\_\_\_\_\_% Other (give separate e. \_\_\_\_\_\_\_\_% Percent for each f. \_\_\_\_\_\_\_\_% Type of material)
 
 You may skip this section if you choose to answer *all* questions A through Z below.
 

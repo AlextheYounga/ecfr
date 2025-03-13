@@ -1,7 +1,5 @@
 ##### § 260.17 Credit risk premium analysis. #####
 
-Link to an amendment published at 89 FR 45776, May 24, 2024.
-
 (a) When Federal appropriations are not available to cover the total subsidy cost, the Administrator will determine the Credit Risk Premium necessary for each direct loan or loan guarantee by estimating the credit risk and the potential recovery in the event of a default of each project evaluating the factors described in paragraphs (b) and (c) of this section.
 
 (b) Establishing the credit risk.
@@ -22,7 +20,7 @@ Link to an amendment published at 89 FR 45776, May 24, 2024.
 
 (E) Operating efficiency.
 
-(ii) Financial risk, based on Applicant?s past and projected:
+(ii) Financial risk, based on Applicant's past and projected:
 
 (A) Profitability;
 
@@ -45,3 +43,9 @@ Link to an amendment published at 89 FR 45776, May 24, 2024.
 (1) The nature of the Applicant's assets; and
 
 (2) Liquidation value of the collateral offered, including the terms and conditions of the lien securing the collateral.
+
+(d)(1) Where the Credit Risk Premium determined pursuant to paragraph (a) of this section is a positive amount, the interest rate on the direct loan will be equal to not less than the rate set pursuant to § 260.9 plus an interest rate adjustment sufficient to result in a Credit Risk Premium of zero dollars.
+
+(2) Paragraph (d)(1) of this section shall apply to a direct loan or loan guarantee only so long as the Act requires the Secretary to return Credit Risk Premiums paid on that loan or loan guarantee to the original source.
+
+[65 FR 41841, July 6, 2000, as amended at 89 FR 45776, May 24, 2024]

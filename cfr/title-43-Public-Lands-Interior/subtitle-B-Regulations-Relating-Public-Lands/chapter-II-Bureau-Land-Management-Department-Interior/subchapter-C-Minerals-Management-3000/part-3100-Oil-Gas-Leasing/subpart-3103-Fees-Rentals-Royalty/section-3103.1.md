@@ -1,1 +1,13 @@
-##### § 3103.1 Payments. #####
+##### § 3103.1 Fiscal terms. #####
+
+(a) The table in this section shows the fiscal terms, that the BLM will adjust every 4 years by a final rule. The BLM will adjust the amounts according to the change in the Implicit Price Deflator for Gross Domestic Product since the previous adjustment. The fiscal terms displayed below are effective on June 22, 2024. Per the Inflation Reduction Act, the BLM will not adjust the rental nor the minimum bonus bids until after August 16, 2032.
+
+|        Oil and gas (parts 3100, 3110, 3120, 3130, 3140):         |                                                                                                                       Fiscal term                                                                                                                       |
+|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Competitive oil and gas, tar sand, and combined hydrocarbon leases|Rental of $3 per acre, or fraction thereof, per year during the first 2-year period beginning upon lease issuance, $5 per acre per year, or fraction thereof, for the following 6 years, and then $15 per acre, or fraction thereof, per year thereafter.|
+|            Competitive lease reinstatement, Class II             |                                                                                                      Rental of $20 per acre, or fraction thereof.                                                                                                       |
+|             Competitive combined hydrocarbon leases              |                                                                                                Minimum bonus bids of $25 per acre, or fraction thereof.                                                                                                 |
+|           Competitive oil and gas and tar sand leases            |                                                                                                Minimum bonus bids of $10 per acre, or fraction thereof.                                                                                                 |
+|                Expression of interest filing fee                 |                                                                                                                      $5 per acre.                                                                                                                       |
+
+(b) The amounts in the fiscal terms table are not subject to appeal to the Interior Board of Land Appeals pursuant to 43 CFR part 4, subpart E.

@@ -12,7 +12,7 @@ Port of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Port Director's Office, \_\_\_\_\_\_\_
 
 I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, declare that the several articles described in the annexed entry are, to the best of my knowledge and belief, the identical articles exported from the United States on the \_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_, by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Actual shipper) address \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, for the account of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, address \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_that they are returned to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, address \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, for the account of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, address \_\_\_\_\_\_\_\_\_\_\_\_\_\_ that the said articles were exported solely for temporary scientific or educational purposes and for no other use abroad than for exhibition, examination, or experimentation; that they are being returned without having been changed in condition in any manner, except by reason of their bona fide use as follows:
 
-(Describe change in condition)(Ultimate consignee)
+(Describe change in condition) (Ultimate consignee)
 
 (b) If it is shown to be impracticable to produce the certificate of exportation required by paragraph (a)(1) of this section, the port director may accept other satisfactory evidence of exportation. The port director may take a bond on Customs Form 301, containing the bond conditions set forth in § 113.62 of this chapter to secure the subsequent production of any of the evidence or documents required by paragraph (a) of this section which are not available at the time of entry.
 

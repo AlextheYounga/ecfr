@@ -1,0 +1,3 @@
+##### § 3109.14 Award of lease or compensatory royalty agreement. #####
+
+Award of lease to the owner of the right-of-way, or a contract for the payment of compensatory royalty by the owner or lessee of the adjoining lands will be made to the bidder whose offer is determined by the authorized officer to be to the best advantage of the United States, considering the amount of royalty to be received and the better development under the respective means of production and operation.

@@ -1,8 +1,6 @@
 ##### § 483.45 Pharmacy services. #####
 
-Link to an amendment published at 89 FR 40999, May 10, 2024.
-
-The facility must provide routine and emergency drugs and biologicals to its residents, or obtain them under an agreement described in § 483.70(g). The facility may permit unlicensed personnel to administer drugs if State law permits, but only under the general supervision of a licensed nurse.
+The facility must provide routine and emergency drugs and biologicals to its residents, or obtain them under an agreement described in § 483.70(f). The facility may permit unlicensed personnel to administer drugs if State law permits, but only under the general supervision of a licensed nurse.
 
 (a) *Procedures.* A facility must provide pharmaceutical services (including procedures that assure the accurate acquiring, receiving, dispensing, and administering of all drugs and biologicals) to meet the needs of each resident.
 
@@ -76,4 +74,4 @@ The facility must provide routine and emergency drugs and biologicals to its res
 
 (2) The facility must provide separately locked, permanently affixed compartments for storage of controlled drugs listed in Schedule II of the Comprehensive Drug Abuse Prevention and Control Act of 1976 and other drugs subject to abuse, except when the facility uses single unit package drug distribution systems in which the quantity stored is minimal and a missing dose can be readily detected.
 
-[56 FR 48875, Sept. 26, 1991, as amended at 57 FR 43925, Sept. 23, 1992. Redesignated and amended at 81 FR 68861, 68863, Oct. 4, 2016; 82 FR 32259, July 13, 2017]
+[56 FR 48875, Sept. 26, 1991, as amended at 57 FR 43925, Sept. 23, 1992. Redesignated and amended at 81 FR 68861, 68863, Oct. 4, 2016; 82 FR 32259, July 13, 2017; 89 FR 40999, May 10, 2024]

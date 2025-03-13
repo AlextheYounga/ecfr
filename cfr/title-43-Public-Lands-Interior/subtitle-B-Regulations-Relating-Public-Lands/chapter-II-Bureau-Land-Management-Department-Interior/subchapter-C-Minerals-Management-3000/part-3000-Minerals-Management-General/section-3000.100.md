@@ -1,0 +1,11 @@
+##### § 3000.100 Fees in general. #####
+
+(a) *Setting fees.* Fees may be statutorily set fees, relatively nominal filing fees, or processing fees intended to reimburse the BLM for its reasonable processing costs. For processing fees, the BLM takes into account the factors in section 304(b) of the Federal Land Policy and Management Act of 1976 (FLPMA) (43 U.S.C. 1734(b)) before deciding a fee. The BLM considers the factors for each type of document when the processing fee is a fixed fee and for each individual document when the fee is decided on a case-by-case basis, as explained in *§ 3000.*110.
+
+(b) *Conditions for filing.* The BLM will not accept a document that the applicant submits without the proper filing or processing fee amounts except for documents where the BLM sets the fee on a case-by-case basis. Fees are not refundable except as provided for case-by-case fees in *§ 3000.*110. The BLM will keep the fixed filing or processing fee as a service charge even if the BLM does not approve the application or the applicant withdraws it completely or partially.
+
+(c) *Periodic adjustment.* The BLM will periodically adjust fees established in this subchapter according to changes in the Implicit Price Deflator for Gross Domestic Product, which is published quarterly by the U.S. Department of Commerce. Because the fee recalculations are simply based on a mathematical formula, the BLM will change the fees in final rules without opportunity for notice and comment.
+
+(d) *Timing of fee applicability.* (1) For a document that the BLM received before June 22, 2024, the BLM will not charge a fixed fee or a case-by-case fee under this subchapter for processing that document, except for fees applicable under then-existing regulations.
+
+(2) For a document that the BLM receives on or after June 22, 2024, the applicant must include the required fixed fees with the documents filed, as provided in § 3000.120(a) of this chapter, and the applicant is subject to case-by-case processing fees as provided in § 3000.110 and under other provisions of this chapter.

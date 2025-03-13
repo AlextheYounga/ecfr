@@ -1,0 +1,9 @@
+##### § 3101.13 Stipulations and information notices. #####
+
+(a) The BLM may consider the sensitivity and importance of potentially affected resources and any uncertainty concerning the present or future condition of those resources and will assess whether a resource is adequately protected by stipulation while considering the restrictiveness of the stipulation on operations.
+
+(b) The authorized officer may require stipulations as conditions of lease issuance. Stipulations will become part of the lease and will supersede inconsistent provisions of the standard lease form. Any party submitting a bid under part 3120 will be deemed to have agreed to stipulations applicable to the specific parcel as indicated in the Notice of Competitive Lease Sale available from the proper BLM office.
+
+(c) The BLM may attach an information notice to the lease. An information notice has no legal consequences, except to give notice of existing requirements, and may be attached to a lease by the authorized officer at the time of lease issuance to convey certain operational, procedural or administrative requirements relative to lease management within the terms and conditions of the standard lease form. Information notices may not be a basis for denial of lease operations.
+
+(d) Where the surface managing agency is the Fish and Wildlife Service, leases will be issued subject to stipulations prescribed by the Fish and Wildlife Service as to the time, place, nature and condition of such operations in order to minimize impacts to fish and wildlife populations and habitat and other refuge resources on the areas leased. The specific conduct of lease activities on any refuge lands will be subject to site-specific stipulations prescribed by the Fish and Wildlife Service.

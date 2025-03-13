@@ -12,7 +12,7 @@ Duplicate Bill Of Lading or Air Waybill Certificate\_\_\_\_\_\_\_\_\_\_, 19—
 
 The undersigned carrier, bringing the within-described merchandise to this port, hereby certifies that this signed copy of the bill of lading or air waybill is genuine and may be used for the purpose of making Customs entry as provided for in section 484(i), Tariff Act of 1930.
 
-(Name of carrier)(Agent)
+(Name of carrier) (Agent)
 
 (4) A carrier's certificate, which may be executed on the official entry form, or, in appropriate cases, by means of a rubber-stamped or typewritten combined carrier's certificate and release order with one signature on a copy of the bill of lading, airway bill, shipping receipt, or other comparable document. The rubber-stamped or typewritten certificate shall be in substantially the following form, which may be varied to include any of the qualifications on release shown in § 141.111(d):
 
@@ -20,7 +20,7 @@ Date \_\_\_\_\_\_\_\_\_\_\_\_
 
 The undersigned carrier, to whom or upon whose order the articles described herein or in the attached document must be released, hereby certifies that the consignee named in this document is the owner or consignee of such articles within the purview of section 484(h), Tariff Act of 1930. In accordance with the provisions of section 484(j), Tariff Act of 1930, authority is hereby given to release the articles covered by the aforementioned statement to such consignee.
 
-(Name of carrier)(Agent)
+(Name of carrier) (Agent)
 
 (5) A blanket carrier's release order on an appropriately modified bill of lading or air waybill covering any or all shipments which will arrive at the port on the carrier's conveyance during the period specified in the release order.
 

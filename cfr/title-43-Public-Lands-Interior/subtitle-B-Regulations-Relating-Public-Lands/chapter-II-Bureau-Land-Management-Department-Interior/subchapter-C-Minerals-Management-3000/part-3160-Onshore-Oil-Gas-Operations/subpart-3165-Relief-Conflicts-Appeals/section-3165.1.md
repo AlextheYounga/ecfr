@@ -1,11 +1,15 @@
-##### § 3165.1 Relief from operating and producing requirements. #####
+##### § 3165.1 Relief from operating and/or producing requirements. #####
 
-Link to an amendment published at 89 FR 30996, Apr. 23, 2024.
+(a) Applications for relief from either the operating or the producing requirements of a lease, or both, must be filed with the authorized officer, and must include a full statement of the circumstances that render such relief necessary.
 
-(a) Applications for relief from either the operating or the producing requirements of a lease, or both, shall be filed with the authorized officer, and shall include a full statement of the circumstances that render such relief necessary.
+(b) The authorized officer will act on applications submitted for a suspension of operations or production, or both, filed pursuant to 43 CFR 3103.42. The application for suspension must be filed with the authorized officer prior to the expiration date of the lease; must be executed by all operating rights owners or by the operator on behalf of the operating rights owners; and must include a full statement of the circumstances that makes such relief necessary.
 
-(b) The authorized officer shall act on applications submitted for a suspension of operations or production, or both, filed pursuant to § 3103.4-4 of this title. The application for suspension shall be filed with the authorized officer prior to the expiration date of the lease; shall be executed by all operating rights owners or, in the case of a Federal unit approved under part 3180 of this title, by the unit operator on behalf of the committed tracts or by all operating rights owners of such tracts; and shall include a full statement of the circumstances that makes such relief necessary.
+(c) The authorized officer will not approve an application for a suspension of a lease where the applicant only cites, as the basis for the suspension, a pending application for permit to drill filed less than 90 calendar days prior to the expiration date of the lease.
 
-(c) If approved, a suspension of operations and production will be effective on the first of the month in which the completed application was filed or the date specified by the authorized officer. Suspensions will terminate when they are no longer justified in the interest of conservation, when such action is in the interest of the lessor, or as otherwise stated by the authorized officer in the approval letter.
+(d) If approved, a suspension of operations and production will be effective on the first of the month in which the completed application was filed or the date specified by the authorized officer in the approval. Approved suspensions will not exceed 1 year. If the circumstances warrant all operating rights owners, or the operator on behalf of the operating rights owners, may submit a request to extend the suspension prior to the end of the suspension.
 
-[47 FR 47765, Oct. 27, 1982. Redesignated and amended at 48 FR 36583, Aug. 12, 1983, further amended at 53 FR 17364, May 16, 1988; 61 FR 4752, Feb. 8, 1996]
+(e) BLM-directed suspensions may exceed 1 year.
+
+(f) Suspensions will lift when the basis provided for the suspension no longer exists, when lifting the suspension is in the public interest, or as otherwise stated by the authorized officer in the approval letter.
+
+[89 FR 30996, Apr. 23, 2024]

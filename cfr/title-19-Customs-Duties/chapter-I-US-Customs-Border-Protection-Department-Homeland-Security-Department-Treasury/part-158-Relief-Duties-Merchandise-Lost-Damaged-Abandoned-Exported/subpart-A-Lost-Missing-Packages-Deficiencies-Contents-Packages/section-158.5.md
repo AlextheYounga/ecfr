@@ -6,5 +6,4 @@ An allowance shall be made in the assessment of duties for deficiencies in the c
 
 (b) In the case of an unconcealed shortage, a Customs Form 5931, in triplicate, executed by both the importer and the importing or bonded carrier, as appropriate.
 
-[T.D. 72-258, 37 FR 20171, Sept. 27, 1972, as amended by CBP Dec. No. 16-26, 81 FR 93023, Dec. 20, 2016
-]
+[T.D. 72-258, 37 FR 20171, Sept. 27, 1972, as amended by CBP Dec. No. 16-26, 81 FR 93023, Dec. 20, 2016 ]

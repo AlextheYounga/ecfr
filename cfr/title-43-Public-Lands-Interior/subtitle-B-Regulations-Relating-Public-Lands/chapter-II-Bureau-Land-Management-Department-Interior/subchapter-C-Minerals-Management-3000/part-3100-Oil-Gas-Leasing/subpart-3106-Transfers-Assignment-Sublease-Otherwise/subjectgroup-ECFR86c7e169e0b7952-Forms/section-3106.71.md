@@ -1,0 +1,3 @@
+##### § 3106.71 Failure to qualify. #####
+
+The BLM will not approve any assignment of record title or transfer of operating rights (sublease) if any party in interest is not a qualified lessee, or if the bond is insufficient. The BLM approves assignments and transfers for administrative purposes only. Approval does not warrant or certify that either party to a transfer holds legal or equitable title to a lease.

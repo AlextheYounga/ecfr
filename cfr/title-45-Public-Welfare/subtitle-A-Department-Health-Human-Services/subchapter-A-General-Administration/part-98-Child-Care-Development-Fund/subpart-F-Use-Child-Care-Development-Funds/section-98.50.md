@@ -4,7 +4,7 @@
 
 (1) To eligible children, as described in § 98.20;
 
-(2) Using a sliding fee scale, as described in § 98.45(k);
+(2) Using a sliding fee scale, as described in § 98.45(l);
 
 (3) Using funding methods provided for in § 98.30 including grants or contracts for slots for children in underserved geographic areas, for infants and toddlers, and children with disabilities. Grants solely to improve the quality of child care services like those in (b) of this section would not satisfy the requirements at § 98.30(b); and
 
@@ -24,7 +24,7 @@
 
 (1) Must be in alignment with an assessment of the Lead Agency's need to carry out such services and care as required at § 98.53(a);
 
-(2) Must include measurable indicators of progress in accordance with § 98.53(f); and
+(2) Must include measurable indicators of progress in accordance with § 98.53(g); and
 
 (3) May be provided directly by the Lead Agency or through grants or contracts with local child care resource and referral organizations or other appropriate entities.
 
@@ -48,4 +48,4 @@
 
 (h) Pursuant to § 98.16(i)(4), the Plan shall specify how the State will meet the child care needs of families described in paragraph (e) of this section.
 
-[81 FR 67587, Sept. 30, 2016, as amended at 89 FR 15415, Mar. 1, 2024]
+[81 FR 67587, Sept. 30, 2016, as amended at 89 FR 15415, Mar. 1, 2024; 89 FR 52397, June 24, 2024]

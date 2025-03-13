@@ -1,0 +1,3 @@
+##### § 3104.20 Lease bond. #####
+
+The operator, a lessee, or an owner of operating rights (sublessee) must be covered by a bond in its own name as principal or obligor in an amount of not less than the amount specified in 43 CFR 3104.1 for each lease conditioned upon compliance with all of the terms of the lease. Where two or more lease interest holders have interests in different formations or portions of the lease, separate bonds may be posted. The operator shall be covered by a bond in his/her own name as principal, or a bond in the name of the lessee or sublessee, provided that a consent of the surety, or the obligor in the case of a personal bond, to include the operator under the coverage of the bond is furnished to the BLM office maintaining the bond.

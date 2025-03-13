@@ -1,0 +1,3 @@
+##### § 3101.30 Leases within unit areas, joinder evidence required. #####
+
+Before issuance of a lease for lands within an approved unit, the lease offeror must file evidence with the proper BLM office that it has joined in the unit agreement and unit operating agreement or a statement giving satisfactory reasons for its failure to enter into such agreement. If such statement is satisfactory to the authorized officer, the lessee may be permitted to operate independently but will be required to conform to the terms and provisions of the unit agreement with respect to such operations.

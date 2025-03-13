@@ -24,5 +24,4 @@
 
 (d) *Brokers; restriction.* A broker shall not circumvent an action taken under this section by applying for release of the importer's merchandise in the broker's name and under the broker's bond.
 
-[T.D. 79-221, 44 FR 46821, Aug. 9, 1979, as amended by T.D. 89-104, 54 FR 50498, Dec. 7, 1989; T.D. 93-37, 58 FR 30984, May 28, 1993; T.D. 95-77, 60 FR 50020, Sept. 27, 1995; CBP
-Dec. No. 16-26, 81 FR 93020, Dec. 20, 2016]
+[T.D. 79-221, 44 FR 46821, Aug. 9, 1979, as amended by T.D. 89-104, 54 FR 50498, Dec. 7, 1989; T.D. 93-37, 58 FR 30984, May 28, 1993; T.D. 95-77, 60 FR 50020, Sept. 27, 1995; CBP Dec. No. 16-26, 81 FR 93020, Dec. 20, 2016]

@@ -30,7 +30,7 @@
 
 (4) Both the Federal and non-Federal share of the Matching Fund shall be obligated in the fiscal year in which the funds are granted and liquidated no later than the end of the succeeding fiscal year.
 
-(5) Except for paragraph (d)(5) of this section, determination of whether funds have been obligated and liquidated will be based on:
+(5) Except for paragraph (d)(6) of this section, determination of whether funds have been obligated and liquidated will be based on:
 
 (i) State or local law; or,
 
@@ -72,4 +72,4 @@
 
 (i) Lead Agencies shall recover child care payments that are the result of fraud. These payments shall be recovered from the party responsible for committing the fraud.
 
-[63 FR 39981, July 24, 1998, as amended at 81 FR 3020, Jan. 20, 2016; 81 FR 67591, Sept. 30, 2016; 89 FR 15415, Mar. 1, 2024]
+[63 FR 39981, July 24, 1998, as amended at 81 FR 3020, Jan. 20, 2016; 81 FR 67591, Sept. 30, 2016; 89 FR 15415, Mar. 1, 2024; 89 FR 52397, June 24, 2024]

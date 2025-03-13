@@ -14,7 +14,7 @@ I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Name), do hereby certify that I am the \_\_
 |                   |                      |                                |                                                           |
 |                   |                      |                                |                                                           |
 
-(Signature)(Official title)
+(Signature) (Official title)
 
 (c) In the absence of such certificate, the matches shall be detained until a certificate is produced or the importer submits satisfactory evidence to show that the matches were not in fact manufactured with the use of poisonous white or yellow phosphorus.
 

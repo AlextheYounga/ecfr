@@ -6,7 +6,7 @@ Pro Forma InvoiceImporters Statement Of Value Or The Price Paid In The Form Of A
 
 Not being in possession of a commercial seller's or shipper's invoice I request that you accept the statement of value or the price paid in the form of an invoice submitted below:
 
-Name of shipperaddress \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Name of selleraddress \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_;.Name of consigneeaddress \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.Name of purchaseraddress \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+Name of shipper address \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Name of seller address \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_;. Name of consignee address \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.Name of purchaser address \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 The merchandise (has) (has not) been purchased or agreed to be purchased by me.
 
@@ -48,4 +48,4 @@ Country of origin \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 If any other invoice is received, I will immediately file it with an authorized CBP official.
 
-(Signature of personmaking invoice)(Title and firm name)Date[T.D. 73-175, 38 FR 17447, July 2, 1973, as amended by T.D. 85-39, 50 FR 9612, Mar. 11, 1985]
+(Signature of person making invoice) (Title and firm name)Date[T.D. 73-175, 38 FR 17447, July 2, 1973, as amended by T.D. 85-39, 50 FR 9612, Mar. 11, 1985]

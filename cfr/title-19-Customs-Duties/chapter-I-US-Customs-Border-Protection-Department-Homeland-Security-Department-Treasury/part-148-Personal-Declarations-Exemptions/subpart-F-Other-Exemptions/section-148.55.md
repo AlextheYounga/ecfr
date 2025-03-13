@@ -1,5 +1,7 @@
 ##### § 148.55 Exemption for articles bearing American trademark. #####
 
+Link to an amendment published at 89 FR 52379, June 24, 2024.
+
 (a) *Application of exemption.* An exemption is provided for trademarked articles accompanying any person arriving in the United States which would be prohibited entry under section 526, Tariff Act of 1930, as amended (19 U.S.C. 1526), or section 42 of the Act of July 5, 1946 (60 Stat. 440; 15 U.S.C. 1124), because the trademark has been registered with the U.S. Patent and Trademark Office and recorded with Customs. The exemption may be applied to those trademarked articles of foreign manufacture bearing a trademark owned by a citizen of, or a corporation or association created or organized within, the United States when imported for the arriving person's personal use in the quantities provided in pararaph (c) of this section. Unregistered and unrecorded trademarked articles are not subject to quantity limitation.
 
 (b) *Limitations*—(1) *30-day period.* The exemption in paragraph (a) of this section shall not be granted to any person who has taken advantage of the exemption for the same type of article within the 30-day period immediately prior to his arrival in the United States. The date of the person's last arrival on which he claimed this exemption shall be considered to be the date he last took advantage of the exemption.

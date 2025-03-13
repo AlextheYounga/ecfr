@@ -1,0 +1,9 @@
+##### § 3108.30 Cancellation. #####
+
+(a) Whenever the lessee fails to comply with any of the provisions of the law, the regulations issued thereunder, or the lease, the lease may be canceled by the Secretary, if the leasehold does not contain a well capable of production of oil or gas in paying quantities, or if the lease is not committed to an approved oil and gas agreement that contains a well capable of production of unitized substances in paying quantities. The lease may be canceled only if the default continues for 30 calendar days after a notice of default has been delivered in accordance with 43 CFR 1810.2.
+
+(b) Whenever the lessee fails to comply with any of the provisions of the law, the regulations issued thereunder, or the lease, and if the leasehold contains a well capable of production of oil or gas in paying quantities, or if the lease is committed to an approved oil and gas agreement that contains a well capable of production of unitized substances in paying quantities, the lease may be canceled only by court order in the manner provided by section 31(a) of the Act (30 U.S.C. 188).
+
+(c) If any interest in any lease is owned or controlled, directly or indirectly, by means of stock or otherwise, in violation of any of the provisions of the Act, the lease may be canceled, or the interest so owned may be forfeited, or the person so owning or controlling the interest may be compelled to dispose of the interest, only by court order in the manner provided by section 27(h)(1) of the Act (30 U.S.C. 184).
+
+(d) Leases will be subject to cancellation if improperly issued.

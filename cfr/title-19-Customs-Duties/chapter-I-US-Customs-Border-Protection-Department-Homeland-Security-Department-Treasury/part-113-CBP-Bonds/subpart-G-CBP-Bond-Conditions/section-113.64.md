@@ -40,4 +40,4 @@ International Carrier Bond Conditions
 
 (3) Obligors agree that if the principal defaults in either of these obligations, they will pay, as liquidated damages, an amount equal to three times the value of the merchandise which was not redelivered.
 
-[T.D. 84-213, 49 FR 41171, Oct. 19, 1984]Editorial Note:For Federal Register citations affecting § 113.64, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 84-213, 49 FR 41171, Oct. 19, 1984] Editorial Note:For Federal Register citations affecting § 113.64, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

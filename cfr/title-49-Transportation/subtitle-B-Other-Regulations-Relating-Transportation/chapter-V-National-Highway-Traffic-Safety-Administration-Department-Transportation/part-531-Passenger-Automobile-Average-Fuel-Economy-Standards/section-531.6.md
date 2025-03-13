@@ -1,5 +1,7 @@
 ##### § 531.6 Measurement and calculation procedures. #####
 
+Link to an amendment published at 89 FR 52948, June 24, 2024.
+
 (a) The fleet average fuel economy performance of all passenger automobiles that are manufactured by a manufacturer in a model year shall be determined in accordance with procedures established by the Administrator of the Environmental Protection Agency (EPA) under 49 U.S.C. 32904 and set forth in 40 CFR part 600.
 
 (b) For model years 2017 and later, a manufacturer is eligible to increase the fuel economy performance of passenger cars in accordance with procedures established by the EPA set forth in 40 CFR part 600, subpart F, including any adjustments to fuel economy the EPA allows, such as for fuel consumption improvements related to air conditioning efficiency and off-cycle technologies. Manufacturers must provide reporting on these technologies as specified in § 537.7 of this chapter by the required deadlines.

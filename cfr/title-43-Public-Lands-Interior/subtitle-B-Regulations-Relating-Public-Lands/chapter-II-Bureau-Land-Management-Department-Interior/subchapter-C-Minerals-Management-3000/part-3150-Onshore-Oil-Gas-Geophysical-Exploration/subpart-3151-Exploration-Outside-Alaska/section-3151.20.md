@@ -1,0 +1,3 @@
+##### § 3151.20 Notice of completion of operations. #####
+
+Upon completion of exploration, the permittee must file with the District Manager a Notice of Completion of Oil and Gas Exploration Operations. Within 30 days after this filing, the authorized officer will notify the permittee whether rehabilitation of the lands is satisfactory or whether additional rehabilitation is necessary, specifying the nature and extent of actions to be taken by the permittee.

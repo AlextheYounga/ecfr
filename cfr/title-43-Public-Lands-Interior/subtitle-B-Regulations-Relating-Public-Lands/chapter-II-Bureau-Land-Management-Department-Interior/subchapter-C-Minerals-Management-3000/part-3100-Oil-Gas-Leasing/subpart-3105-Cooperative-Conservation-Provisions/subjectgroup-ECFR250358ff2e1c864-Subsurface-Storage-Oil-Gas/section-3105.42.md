@@ -1,0 +1,3 @@
+##### § 3105.42 Purpose. #####
+
+To avoid waste and to promote conservation of natural resources, the Secretary, upon application by the interested parties, may authorize the subsurface storage of oil and gas, whether or not produced from lands owned by the United States. Such authorization will provide for the payment of such storage fee or rental on the stored oil or gas as may be determined adequate in each case, or, in lieu thereof, for a royalty other than that prescribed in the lease when such stored oil or gas is produced in conjunction with oil or gas not previously produced. The BLM will require a bond as provided under § 3104 for operations conducted in a subsurface storage agreement.

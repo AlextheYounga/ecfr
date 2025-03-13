@@ -1,0 +1,5 @@
+##### § 3102.20 Non-U.S. Citizens. #####
+
+(a) Leases or interests therein may be acquired and held by non-U.S. Citizens only through stock ownership, holding or control in a present or potential lessee that is incorporated under the laws of the United States or of any State or territory thereof, and only if the laws, customs or regulations of their country do not deny similar or like privileges to citizens or corporations of the United States. If it is determined that a country has denied similar or like privileges to citizens or corporations of the United States, it would be placed on a list available from any BLM State office.
+
+(b) The Committee on Foreign Investment in the United States is authorized to review covered real estate transactions and to mitigate any risk to the national security of the United States that arises as a result of such transactions. Covered real estate transactions may include certain transactions involving the Federal mineral estate (see 31 CFR part 802).

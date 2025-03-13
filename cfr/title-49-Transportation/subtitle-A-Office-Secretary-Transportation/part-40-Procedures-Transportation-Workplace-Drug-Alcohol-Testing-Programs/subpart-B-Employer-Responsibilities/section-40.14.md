@@ -1,6 +1,6 @@
 ##### § 40.14 What collection information must employers provide to collectors? #####
 
-As an employer, or an employer's service agent—for example a C/TPA, you must ensure the collector has the following information when conducting a urine specimen collection for you:
+As an employer, or an employer's service agent—for example a C/TPA, you must ensure the collector has the following information when conducting a specimen collection for you:
 
 (a) Full name of the employee being tested.
 
@@ -10,7 +10,7 @@ As an employer, or an employer's service agent—for example a C/TPA, you must e
 
 (d) Employer name, address, phone number, and fax number (can be pre-printed on the CCF at Step 1-A).
 
-(e) DER information required at § 40.35 of this part.
+(e) DER information required at § 40.36.
 
 (f) MRO name, address, phone number, and fax number (can be pre-printed on the CCF at Step 1-B).
 
@@ -24,4 +24,4 @@ As an employer, or an employer's service agent—for example a C/TPA, you must e
 
 (k) Specimen type to be collected (*i.e.,* oral fluid or urine).
 
-[75 FR 59107, Sept. 27, 2010, as amended at 88 FR 27637, May 2, 2023]
+[75 FR 59107, Sept. 27, 2010, as amended at 88 FR 27637, May 2, 2023; 89 FR 51983, June 21, 2024]

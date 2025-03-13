@@ -12,7 +12,7 @@
 
 (1) To meet this burden in the case of an adulterated specimen, the employee must demonstrate that the adulterant found by the laboratory entered the specimen through physiological means.
 
-(2) To meet this burden in the case of a substituted specimen, the employee must demonstrate that he or she did produce or could have produced urine through physiological means, meeting the creatinine concentration criterion of less than 2 mg/dL and the specific gravity criteria of less than or equal to 1.0010 or greater than or equal to 1.0200 (see § 40.93(b)).
+(2) To meet this burden in the case of a substituted specimen, the employee must demonstrate that he or she did produce or could have produced urine through physiological means, meeting the creatinine concentration criterion of less than 2 mg/dL and the specific gravity criteria of less than or equal to 1.0010 or greater than or equal to 1.0200 (see § 40.88(b)).
 
 (3) The employee must present information meeting this burden at the time of the verification interview. As the MRO, you have discretion to extend the time available to the employee for this purpose for up to five days before verifying the specimen, if you determine that there is a reasonable basis to believe that the employee will be able to produce relevant evidence supporting a legitimate medical explanation within that time.
 
@@ -46,16 +46,16 @@
 
 (h) The following are examples of types of evidence an employee could present to support an assertion of a legitimate medical explanation for a substituted urine result.
 
-(1) Medically valid evidence demonstrating that the employee is capable of physiologically producing urine meeting the creatinine and specific gravity criteria of § 40.93(b).
+(1) Medically valid evidence demonstrating that the employee is capable of physiologically producing urine meeting the creatinine and specific gravity criteria of § 40.88(b).
 
 (i) To be regarded as medically valid, the evidence must have been gathered using appropriate methodology and controls to ensure its accuracy and reliability.
 
-(ii) Assertion by the employee that his or her personal characteristics (*e.g.,* with respect to race, gender, weight, diet, working conditions) are responsible for the substituted result does not, in itself, constitute a legitimate medical explanation. To make a case that there is a legitimate medical explanation, the employee must present evidence showing that the cited personal characteristics actually result in the physiological production of urine meeting the creatinine and specific gravity criteria of § 40.93(b).
+(ii) Assertion by the employee that his or her personal characteristics (*e.g.,* with respect to race, gender, weight, diet, working conditions) are responsible for the substituted result does not, in itself, constitute a legitimate medical explanation. To make a case that there is a legitimate medical explanation, the employee must present evidence showing that the cited personal characteristics actually result in the physiological production of urine meeting the creatinine and specific gravity criteria of § 40.88(b).
 
-(2) Information from a medical evaluation under paragraph (g) of this section that the individual has a medical condition that has been demonstrated to cause the employee to physiologically produce urine meeting the creatinine and specific gravity criteria of § 40.93(b).
+(2) Information from a medical evaluation under paragraph (g) of this section that the individual has a medical condition that has been demonstrated to cause the employee to physiologically produce urine meeting the creatinine and specific gravity criteria of § 40.88(b).
 
 (i) A finding or diagnosis by the physician that an employee has a medical condition, in itself, does not constitute a legitimate medical explanation.
 
-(ii) To establish there is a legitimate medical explanation, the employee must demonstrate that the cited medical condition actually results in the physiological production of urine meeting the creatinine and specific gravity criteria of § 40.93(b).
+(ii) To establish there is a legitimate medical explanation, the employee must demonstrate that the cited medical condition actually results in the physiological production of urine meeting the creatinine and specific gravity criteria of § 40.88(b).
 
-[65 FR 79526, Dec. 19, 2000, as amended at 68 FR 31626, May 28, 2003; 69 FR 64867, Nov. 9, 2004; 88 FR 27646, May 2, 2023]
+[65 FR 79526, Dec. 19, 2000, as amended at 68 FR 31626, May 28, 2003; 69 FR 64867, Nov. 9, 2004; 88 FR 27646, May 2, 2023; 89 FR 51983, June 21, 2024]

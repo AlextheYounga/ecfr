@@ -64,19 +64,19 @@
 
 12. Weight unit.
 
-13. Shipper name.1
+13. Shipper name. 1
 
 1 Designates data element which will be deleted where confidentiality has been requested.
 
-14. Shipper address.1
+14. Shipper address. 1
 
-15. Consignee name.1
+15. Consignee name. 1
 
-16. Consignee address.1
+16. Consignee address. 1
 
-17. Notify party name.1
+17. Notify party name. 1
 
-18. Notify party address.1
+18. Notify party address. 1
 
 19. Piece count.
 

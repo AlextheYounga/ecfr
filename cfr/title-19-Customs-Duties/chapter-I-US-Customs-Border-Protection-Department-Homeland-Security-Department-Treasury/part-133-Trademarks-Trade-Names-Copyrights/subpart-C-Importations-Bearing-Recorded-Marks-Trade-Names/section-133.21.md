@@ -1,5 +1,7 @@
 ##### § 133.21 Articles suspected of bearing counterfeit marks. #####
 
+Link to an amendment published at 89 FR 52374, June 24, 2024.
+
 (a) *Counterfeit mark defined.* A “counterfeit mark” is a spurious mark that is identical with, or substantially indistinguishable from, a mark registered on the Principal Register of the U.S. Patent and Trademark Office.
 
 (b) *Detention, notice, and disclosure of information*—(1) *Detention period.* CBP may detain any article of domestic or foreign manufacture imported into the United States that bears a mark suspected by CBP of being a counterfeit version of a mark that is registered with the U.S. Patent and Trademark Office and is recorded with CBP pursuant to subpart A of this part. The detention will be for a period of up to 30 days from the date on which the merchandise is presented for examination. In accordance with 19 U.S.C. 1499(c), if, after the detention period, the article is not released, the article will be deemed excluded for the purposes of 19 U.S.C. 1514(a)(4).

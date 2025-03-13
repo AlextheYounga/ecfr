@@ -16,7 +16,7 @@
 
 Authority is hereby given to release the merchandise described in this
 
-application toName of CarrierSignature and title of carrierrepresentative
+application to Name of Carrier Signature and title of carrier representative
 
 A blanket or qualified release order may be authorized for the transfer of merchandise to a zone as provided for in § 141.111 of this chapter.
 

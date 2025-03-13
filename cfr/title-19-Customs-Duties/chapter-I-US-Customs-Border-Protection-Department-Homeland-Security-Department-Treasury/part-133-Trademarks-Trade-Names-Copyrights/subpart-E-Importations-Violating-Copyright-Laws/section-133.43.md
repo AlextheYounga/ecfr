@@ -1,5 +1,7 @@
 ##### § 133.43 Procedure on suspicion of infringing copies. #####
 
+Link to an amendment published at 89 FR 52376, June 24, 2024.
+
 (a) *Notice to the importer.* If the port director has any reason to believe that an imported article may be an infringing copy or phonorecord of a recorded copyrighted work, he shall withhold delivery, notify the importer of his action, and advise him that if the facts so warrant he may file a statement denying that the article is in fact an infringing copy and alleging that the detention of the article will result in a material depreciation of its value, or a loss or damage to him. The port director also shall advise the importer that in the absence of receipt within 30 days of a denial by the importer that the article constitutes an infringing copy or phonorecord, it shall be considered to be such a copy and shall be subject to seizure and forfeiture.
 
 (b) *Notice to copyright owner.* If the importer of suspected infringing copies or phonorecords files a denial as provided in paragraph (a) of this section, the port director shall furnish to the copyright owner the following information, if available, within 30 days, excluding weekends and holidays, of the receipt of the importer's denial:

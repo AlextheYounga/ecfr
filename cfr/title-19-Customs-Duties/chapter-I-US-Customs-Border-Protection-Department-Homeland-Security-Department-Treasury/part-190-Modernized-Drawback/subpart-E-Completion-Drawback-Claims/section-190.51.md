@@ -76,7 +76,9 @@ Example 1:Line item 1—5,000 articles valued at $10 each total $50,000Line item
 
 *Amount of merchandise processing fee eligible for drawback per unit of merchandise.* The amount of merchandise processing fee eligible for drawback per unit of merchandise is calculated by dividing the amount of fee eligible for drawback for the line item by the number of units in the line item. For line item 1, the amount of merchandise processing fee eligible for drawback per unit is $.0141 ($70.6301 ÷ 5,000 = $.0141). If 1,000 widgets form the basis of a claim for drawback under 19 U.S.C. 1313(j), the total amount of drawback attributable to the merchandise processing fee is $14.10 (1,000 × .0141 = $14.10). For line item 2, the amount of fee eligible for drawback per unit is $.0212 ($127.0957 ÷ 6,000 = $.0212). For line item 3, the amount of fee eligible for drawback per unit is $.0282 ($282.4242 ÷ 10,000 = $.0282).
 
-Example 2.This example illustrates the treatment of dutiable merchandise that is exempt from the merchandise processing fee and duty-free merchandise that is subject to the merchandise processing fee.Line item 1—700 meters of printed cloth valued at $10 per meter (total value $7,000) that is exempt from the merchandise processing fee under 19 U.S.C. 58c(b)(8)(B)(iii)Line item 2—15,000 articles valued at $100 each (total value $1,500,000)Line item 3—10,000 duty-free articles valued at $50 each (total value $500,000)
+Example 2.This example illustrates the treatment of dutiable merchandise that is exempt from the merchandise processing fee and duty-free merchandise that is subject to the merchandise processing fee.
+
+Line item 1—700 meters of printed cloth valued at $10 per meter (total value $7,000) that is exempt from the merchandise processing fee under 19 U.S.C. 58c(b)(8)(B)(iii)Line item 2—15,000 articles valued at $100 each (total value $1,500,000)Line item 3—10,000 duty-free articles valued at $50 each (total value $500,000)
 
 The relative value ratios are calculated using line items 2 and 3 only, as there is no merchandise processing fee imposed by reason of importation on line item 1.
 

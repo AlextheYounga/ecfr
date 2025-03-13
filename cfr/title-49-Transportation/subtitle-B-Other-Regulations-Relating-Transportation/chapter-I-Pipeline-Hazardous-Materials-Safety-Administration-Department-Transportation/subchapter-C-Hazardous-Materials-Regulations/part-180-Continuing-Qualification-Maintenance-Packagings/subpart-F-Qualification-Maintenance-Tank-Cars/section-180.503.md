@@ -1,5 +1,7 @@
 ##### § 180.503 Definitions. #####
 
+Link to an amendment published at 89 FR 52994, June 24, 2024.
+
 The following definitions and those contained in §§ 171.8 and 179.2 of this subchapter apply:
 
 *Coating/lining owner* means the person with the financial responsibility for purchasing and maintaining the integrity of the interior coating or lining.

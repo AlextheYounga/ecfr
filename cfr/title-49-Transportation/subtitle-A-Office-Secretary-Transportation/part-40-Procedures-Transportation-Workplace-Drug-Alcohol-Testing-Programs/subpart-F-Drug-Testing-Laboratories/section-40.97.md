@@ -56,7 +56,7 @@
 
 (L) Certifying scientist's name;
 
-(M) Results (*e.g.,* positive, adulterated) as listed in paragraph (a) of this section; and
+(M) Results (*e.g.,* positive, adulterated) as listed in paragraph (b) of this section; and
 
 (N) Remarks section, with an explanation of any situation in which a correctable flaw has been corrected.
 
@@ -64,7 +64,7 @@
 
 (iii) The results report may be transmitted through any means that ensures accuracy and confidentiality. You, as the laboratory, together with the MRO, must ensure that the information is adequately protected from unauthorized access or release, both during transmission and in storage (*e.g., see* § 40.351).
 
-(2) Non-negative and Rejected for Testing results: You must fax, courier, mail, or electronically transmit a legible image or copy of the fully completed Copy 1 of the CCF that has been signed by the certifying scientist. In addition, you may provide the electronic laboratory results report following the format and procedures set forth in paragraphs (b)(1)(i) and (ii) of this section.
+(2) Non-negative and Rejected for Testing results: You must fax, courier, mail, or electronically transmit a legible image or copy of the fully completed Copy 1 of the CCF that has been signed by the certifying scientist. In addition, you may provide the electronic laboratory results report following the format and procedures set forth in paragraphs (c)(1)(i) and (ii) of this section.
 
 (d) In transmitting laboratory results to the MRO, you, as the laboratory, together with the MRO, must ensure that the information is adequately protected from unauthorized access or release, both during transmission and in storage. If the results are provided by fax or other electronic means, the electronic communication must be accessible only to authorized individuals.
 
@@ -78,4 +78,4 @@
 
 (g) You must provide quantitative values for confirmed positive morphine and/or codeine urine results at or below 15,000 ng/mL, and for confirmed positive morphine or codeine oral fluid results at or below 150 ng/mL.
 
-[88 FR 27644, May 2, 2023]
+[88 FR 27644, May 2, 2023, as amended at 89 FR 51983, June 21, 2024]

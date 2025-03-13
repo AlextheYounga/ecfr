@@ -12,14 +12,11 @@
 
 (1) Take an oath on CBP Form 3579, setting forth:
 
-(i) The amount of assets over and above all debts and liabilities
-and such exemptions as may be allowed by law; and
+(i) The amount of assets over and above all debts and liabilities and such exemptions as may be allowed by law; and
 
-(ii) The general description and location of one or more pieces of
-real estate owned within the customs territory of the United States, and the value thereof, less any encumbrance.
+(ii) The general description and location of one or more pieces of real estate owned within the customs territory of the United States, and the value thereof, less any encumbrance.
 
-(2) Produce such evidence of solvency and financial responsibility as
-CBP may require.
+(2) Produce such evidence of solvency and financial responsibility as CBP may require.
 
 (d) *Determination of financial responsibility.* An individual will not be accepted as surety on a bond until CBP is satisfied as to the financial responsibility of the individual. CBP may request Immigration and Customs Enforcement (ICE) to conduct an immediate investigation to verify a surety's financial responsibility.
 

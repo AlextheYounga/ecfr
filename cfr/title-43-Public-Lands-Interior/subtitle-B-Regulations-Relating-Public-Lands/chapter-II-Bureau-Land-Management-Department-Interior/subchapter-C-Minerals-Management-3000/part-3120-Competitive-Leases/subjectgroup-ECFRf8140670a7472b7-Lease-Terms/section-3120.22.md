@@ -1,0 +1,3 @@
+##### § 3120.22 Dating of leases. #####
+
+All competitive leases will be considered issued when signed by the authorized officer. Competitive leases, except future interest leases issued under § 3120.80, will be effective as of the first day of the month following the date the leases are signed on behalf of the United States. A lease may be made effective on the first day of the month within which it is issued if a written request is made prior to the date of signature of the authorized officer. Leases for future interest will be effective as of the date the mineral interests vest in the United States.

@@ -60,7 +60,7 @@
 
 (2) At re-determination, a child shall be considered eligible (pursuant to paragraph (a) of this section) if their parents, at the time of redetermination, are working or attending a job training or educational program even if their income exceeds the Lead Agency's income limit to initially quality for assistance, as long as their income does not exceed the second tier of the eligibility described in (b)(1);
 
-(3) A family meeting the conditions described in (b)(2) shall be eligible for services pursuant to the conditions described in § 98.20 and all other paragraphs of § 98.21, with the exception of the co-payment restrictions at § 98.21(a)(3). To help families transition off of child care assistance, Lead Agencies may gradually adjust co-pay amounts for families whose children are determined eligible under the graduate phase-out conditions described in paragraph (b)(2) and may require additional reporting on changes in family income as described in paragraph (e)(3) of this section, provided such requirements do not constitute an undue burden, pursuant to conditions described in (e)(2)(ii) and (iii) of this section.
+(3) A family meeting the conditions described in paragraph (b)(2) of this section shall be eligible for services pursuant to the conditions described in § 98.20 and all other paragraphs of this section, with the exception of the co-payment restrictions at paragraph (a)(3) of this section. To help families transition off of child care assistance, Lead Agencies may gradually adjust co-pay amounts for families whose children are determined eligible under the graduated phase-out conditions described in paragraph (b)(2) and may require additional reporting on changes in family income as described in paragraph (h)(3) of this section, provided such requirements do not constitute an undue burden, pursuant to conditions described in paragraphs (h)(2)(ii) and (iii) of this section.
 
 (c) The Lead Agency shall establish processes for initial determination and redetermination of eligibility that take into account irregular fluctuation in earnings, including policies that ensure temporary increases in income, including temporary increases that result in monthly income exceeding 85 percent of SMI (calculated on a monthly basis), do not affect eligibility or family co-payments.
 
@@ -122,4 +122,4 @@
 
 (k) Lead Agencies are not required to limit authorized child care services strictly based on the work, training, or educational schedule of the parent(s) or the number of hours the parent(s) spend in work, training, or educational activities.
 
-[81 FR 67579, Sept. 30, 2016, as amended at 89 FR 15413, Mar. 1, 2024]
+[81 FR 67579, Sept. 30, 2016, as amended at 89 FR 15413, Mar. 1, 2024; 89 FR 52397, June 24, 2024]

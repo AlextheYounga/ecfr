@@ -12,7 +12,7 @@
 
 (iii) Which is undocumented, of less than 5 net tons, and owned in whole or in part by a person who is neither a citizen nor a resident of the United States;
 
-(3) The term “nonconvention cargo vessel” means any vessel which is not employed in fishing at the time of its arrival in the United States, but which is engaged in whole or in part in the transportation of fish or fish products131a and
+(3) The term “nonconvention cargo vessel” means any vessel which is not employed in fishing at the time of its arrival in the United States, but which is engaged in whole or in part in the transportation of fish or fish products 131a and
 
 131a Except as otherwise provided by treaty or convention to which the United States is a party, no foreign-flag vessel shall, whether documented as a cargo vessel or otherwise, land in a port of the United States its catch of fish taken on board such vessels on the high seas or fish products processed therefrom, or any fish or fish products taken on board such vessel on the high seas from a vessel engaged in fishing operations or in the processing of fish or fish products.” (46 U.S.C. 251)
 

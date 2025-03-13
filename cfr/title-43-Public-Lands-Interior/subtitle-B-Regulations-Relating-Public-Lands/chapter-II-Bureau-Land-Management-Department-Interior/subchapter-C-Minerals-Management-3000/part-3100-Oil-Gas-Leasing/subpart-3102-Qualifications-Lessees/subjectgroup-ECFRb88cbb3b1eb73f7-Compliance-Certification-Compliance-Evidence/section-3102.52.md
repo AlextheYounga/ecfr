@@ -1,0 +1,3 @@
+##### § 3102.52 Certification of compliance. #####
+
+Any party(s) seeking to obtain an interest in a lease must certify that it is in compliance with the Act as set forth in 43 CFR 3102.51. A corporation or publicly traded association, including a publicly traded partnership, must certify that constituent members of the corporation, association or partnership holding or controlling more than 10 percent of the instruments of ownership of the corporation, association or partnership are in compliance with the Act. Execution and submission of a competitive bid form or request for approval of a transfer of record title or of operating rights (sublease), constitutes certification of compliance.

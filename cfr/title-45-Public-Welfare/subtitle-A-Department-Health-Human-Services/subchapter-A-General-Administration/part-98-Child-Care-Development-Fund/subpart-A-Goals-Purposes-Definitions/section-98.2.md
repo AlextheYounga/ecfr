@@ -108,7 +108,7 @@ For the purpose of this part and part 99:
 
 *Services for which assistance is provided* means all child care services funded under the CCDF, either as assistance directly to child care providers through grants, contracts, or loans, or indirectly as assistance to parents through child care certificates;
 
-*Sliding fee scale* means a system of cost-sharing by a family based on income and size of the family, in accordance with § 98.45(k);
+*Sliding fee scale* means a system of cost-sharing by a family based on income and size of the family, in accordance with § 98.45(l);
 
 *State* means any of the States and the District of Columbia, and includes Territories and Tribes unless otherwise specified;
 
@@ -124,4 +124,4 @@ For the purpose of this part and part 99:
 
 *Types of providers* means the different classes of providers under each category of care. For the purposes of the CCDF, types of providers include non-profit providers, for-profit providers, sectarian providers and relatives who provide care.
 
-[63 FR 39981, July 24, 1998, as amended at 81 FR 67573, Sept. 30, 2016; 89 FR 15411, Mar. 1, 2024]
+[63 FR 39981, July 24, 1998, as amended at 81 FR 67573, Sept. 30, 2016; 89 FR 15411, Mar. 1, 2024; 89 FR 52396, June 24, 2024]

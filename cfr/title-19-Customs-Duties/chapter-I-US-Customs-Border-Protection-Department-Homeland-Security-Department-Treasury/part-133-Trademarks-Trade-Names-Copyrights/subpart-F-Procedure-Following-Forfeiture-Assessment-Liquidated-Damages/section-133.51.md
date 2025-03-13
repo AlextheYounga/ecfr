@@ -1,5 +1,7 @@
 ##### § 133.51 Relief from forfeiture or liquidated damages. #####
 
+Link to an amendment published at 89 FR 52378, June 24, 2024.
+
 (a) *Petition for relief.* The importer may petition in accordance with parts 171 and 172 of this chapter for relief from, or cancellation of, a forfeiture incurred for violation of the trademark or copyright laws, or a claim for liquidated damages for failure to redeliver released merchandise incurred under the provisions of § 133.24 or § 133.46.
 
 (b) *Conditioned relief.* In appropriate cases, except for articles bearing a counterfeit trademark, relief from a forfeiture may be granted pursuant to a petition for relief upon the following conditions and such other conditions as may be specified by the appropriate Customs authority:

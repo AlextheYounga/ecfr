@@ -1,0 +1,5 @@
+##### § 3101.21 Public domain lands. #####
+
+(a) No person may take, hold, own or control more than 246,080 acres of Federal oil and gas leases on public domain lands in any one State at any one time. No more than 200,000 acres of such acres may be held under option.
+
+(b) In Alaska, the acreage that can be taken, held, owned or controlled is limited to 300,000 acres in the northern leasing district and 300,000 acres in the southern leasing district, of which no more than 200,000 acres may be held under option in each of the two leasing districts. The boundary between the two leasing districts in Alaska begins at the northeast corner of the Tetlin National Wildlife Refuge as established by section 302(8) of the Alaska National Interest Lands Conservation Act, at a point on the boundary between the United States and Canada, then northwesterly along the northern boundary of the refuge to the left limit of the Tanana River (63°9′38″ north latitude, 142°20′52″ west longitude), then westerly along the left limit to the confluence of the Tanana and Yukon Rivers, and then along the left limit of the Yukon River from said confluence to its principal southern mouth.
